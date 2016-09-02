@@ -63,7 +63,7 @@
 
     No agreement detailing an officer of the armed forces to an accredited school of psychology may be entered into during any period in which the President is authorized by law to induct persons into the armed forces involuntarily. Nothing in this subsection shall affect any agreement entered into during any period when the President is not authorized by law to so induct persons into the armed forces.
 
-(Added [Pub. L. 111–84, div. A, title V, § 521(a)][/us/pl/111/84/s521/a], Oct. 28, 2009, [123 Stat. 2283][/us/stat/123/2283]; amended [Pub. L. 111–383, div. A, title X, § 1075(b)(26)][/us/pl/111/383/s1075/b/26], Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370].)
+(Added [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 521(a), Oct. 28, 2009, [123 Stat. 2283][/us/stat/123/2283]; amended [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(26), Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370].)
 
  __Amendments__ 
 
@@ -76,9 +76,9 @@
 ----------
 ----------
 
-[/us/pl/111/84/s521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs521%2Fa
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2283
-[/us/pl/111/383/s1075/b/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F26
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4370
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 

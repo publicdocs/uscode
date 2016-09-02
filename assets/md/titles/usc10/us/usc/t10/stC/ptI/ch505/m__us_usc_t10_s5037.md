@@ -19,7 +19,7 @@
 
     (b) The Assistant Chiefs of Naval Operations shall perform such duties as the Secretary of the Navy prescribes.
 
-(Added [Pub. L. 99–433, title V, § 512(b)][/us/pl/99/433/s512/b], Oct. 1, 1986, [100 Stat. 1051][/us/stat/100/1051]; amended [Pub. L. 108–375, div. A, title V, § 502(b)][/us/pl/108/375/s502/b], Oct. 28, 2004, [118 Stat. 1875][/us/stat/118/1875]; [Pub. L. 110–181, div. A, title IX, § 902(b)(2)][/us/pl/110/181/s902/b/2], Jan. 28, 2008, [122 Stat. 273][/us/stat/122/273].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 512(b), Oct. 1, 1986, [100 Stat. 1051][/us/stat/100/1051]; amended [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 502(b), Oct. 28, 2004, [118 Stat. 1875][/us/stat/118/1875]; [Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 902(b)(2), Jan. 28, 2008, [122 Stat. 273][/us/stat/122/273].)
 
  __Prior Provisions__ 
 
@@ -39,11 +39,11 @@
 ----------
 
 [/us/usc/t10/s5036/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5036%2Fa
-[/us/pl/99/433/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs512%2Fb
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1051
-[/us/pl/108/375/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs502%2Fb
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1875
-[/us/pl/110/181/s902/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs902%2Fb%2F2
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F273
 [/us/usc/t10/s5087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5087
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433

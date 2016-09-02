@@ -33,19 +33,19 @@
 
     This section applies to all selection boards convened under section 14101 or 14502 of this title, regardless of the date on which the board was convened.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2925][/us/stat/108/2925]; amended [Pub. L. 109–364, div. A, title V, § 547(b)][/us/pl/109/364/s547/b], Oct. 17, 2006, [120 Stat. 2216][/us/stat/120/2216]; [Pub. L. 111–383, div. A, title V, § 503(c)][/us/pl/111/383/s503/c], Jan. 7, 2011, [124 Stat. 4208][/us/stat/124/4208].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2925][/us/stat/108/2925]; amended [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 547(b), Oct. 17, 2006, [120 Stat. 2216][/us/stat/120/2216]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 503(c), Jan. 7, 2011, [124 Stat. 4208][/us/stat/124/4208].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 5898(e) of this title][/us/usc/t10/s5898/e], prior to repeal by [Pub. L. 103–337, § 1629(b)(2)][/us/pl/103/337/s1629/b/2].
+    Provisions similar to those in this section were contained in [section 5898(e) of this title][/us/usc/t10/s5898/e], prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(b)(2).
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 111–383, § 503(c)(1)][/us/pl/111/383/s503/c/1], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The proceedings of a selection board convened under [section 14101 of this title][/us/usc/t10/s14101] may not be disclosed to any person not a member of the board.”
+    2011—Subsec. (a). [Pub. L. 111–383][/us/pl/111/383], § 503(c)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The proceedings of a selection board convened under [section 14101 of this title][/us/usc/t10/s14101] may not be disclosed to any person not a member of the board.”
 
-    Subsec. (b). [Pub. L. 111–383, § 503(c)(2)][/us/pl/111/383/s503/c/2], substituted “Notes, and Records” for “and Records” in heading.
+    Subsec. (b). [Pub. L. 111–383][/us/pl/111/383], § 503(c)(2), substituted “Notes, and Records” for “and Records” in heading.
 
-    Subsec. (c). [Pub. L. 111–383, § 503(c)(3)][/us/pl/111/383/s503/c/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 111–383][/us/pl/111/383], § 503(c)(3), added subsec. (c).
 
     2006—[Pub. L. 109–364][/us/pl/109/364] amended section catchline and text generally. Prior to amendment, text read as follows: “Except as otherwise authorized or required by law, the proceedings of a selection board convened under [section 14101 of this title][/us/usc/t10/s14101] may not be disclosed to any person not a member of the board.”
 
@@ -61,18 +61,18 @@
 ----------
 
 [/us/usc/t5/s552/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F3
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2925
-[/us/pl/109/364/s547/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs547%2Fb
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2216
-[/us/pl/111/383/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs503%2Fc
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4208
 [/us/usc/t10/s5898/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5898%2Fe
-[/us/pl/103/337/s1629/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fb%2F2
-[/us/pl/111/383/s503/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs503%2Fc%2F1
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s14101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101
-[/us/pl/111/383/s503/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs503%2Fc%2F2
-[/us/pl/111/383/s503/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs503%2Fc%2F3
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s14101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364

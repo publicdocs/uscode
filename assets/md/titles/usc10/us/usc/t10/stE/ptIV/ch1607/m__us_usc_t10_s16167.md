@@ -23,7 +23,7 @@
 
     Notwithstanding any other provision of this chapter, during the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016 and ending on the date that is four years after the date of the enactment of that Act, educational assistance may be provided under this chapter only to a member otherwise eligible for educational assistance under this chapter who received educational assistance under this chapter for a course of study at an educational institution for the enrollment period at the educational institution that immediately preceded the date of the enactment of that Act.
 
-(Added [Pub. L. 114–92, div. A, title V, § 555(a)][/us/pl/114/92/s555/a], Nov. 25, 2015, [129 Stat. 824][/us/stat/129/824].)
+(Added [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 555(a), Nov. 25, 2015, [129 Stat. 824][/us/stat/129/824].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/114/92/s555/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs555%2Fa
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F824
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 

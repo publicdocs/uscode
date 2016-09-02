@@ -55,7 +55,7 @@
 
         (3) The term “defense service” has the meaning given such term in section 47(4) of the Arms Export Control Act ([22 U.S.C. 2794(4)][/us/usc/t22/s2794/4]).
 
-(Added [Pub. L. 102–190, div. A, title X, § 1047(a)][/us/pl/102/190/s1047/a], Dec. 5, 1991, [105 Stat. 1467][/us/stat/105/1467].)
+(Added [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1047(a), Dec. 5, 1991, [105 Stat. 1467][/us/stat/105/1467].)
 
 ----------
 
@@ -66,7 +66,7 @@
 
 [/us/usc/t22/s2794/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2794%2F3
 [/us/usc/t22/s2794/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2794%2F4
-[/us/pl/102/190/s1047/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1047%2Fa
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1467
 
 

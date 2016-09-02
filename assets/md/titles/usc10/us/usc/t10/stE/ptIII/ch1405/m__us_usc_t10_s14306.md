@@ -27,11 +27,11 @@
 
     If the Secretary of the Navy authorizes the selection of officers for promotion from below the promotion zone in accordance with [section 14307 of this title][/us/usc/t10/s14307], the number of officers to be considered from below the zone may be established through the application of the running mate system or otherwise as the Secretary determines to be appropriate to meet the needs of the Navy or Marine Corps.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2935][/us/stat/108/2935]; amended [Pub. L. 109–163, div. A, title V, § 515(b)(3)(J)][/us/pl/109/163/s515/b/3/J], Jan. 6, 2006, [119 Stat. 3235][/us/stat/119/3235].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2935][/us/stat/108/2935]; amended [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(3)(J), Jan. 6, 2006, [119 Stat. 3235][/us/stat/119/3235].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in subsec. (b) of this section were contained in [section 5899 of this title][/us/usc/t10/s5899], prior to repeal by [Pub. L. 103–337, § 1629(b)(2)][/us/pl/103/337/s1629/b/2].
+    Provisions similar to those in subsec. (b) of this section were contained in [section 5899 of this title][/us/usc/t10/s5899], prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(b)(2).
 
  __Amendments__ 
 
@@ -47,12 +47,12 @@
 [/us/usc/t10/s14305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14305
 [/us/usc/t10/s14101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fa
 [/us/usc/t10/s14307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14307
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2935
-[/us/pl/109/163/s515/b/3/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F3%2FJ
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3235
 [/us/usc/t10/s5899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5899
-[/us/pl/103/337/s1629/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fb%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 
 

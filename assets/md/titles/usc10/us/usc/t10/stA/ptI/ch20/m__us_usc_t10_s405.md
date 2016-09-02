@@ -27,7 +27,7 @@
 
     The prohibition in subsection (a) applies to voluntary contributions, as well as to contributions pursuant to assessment by the United Nations for the United States share of the costs of a peacekeeping activity.
 
-(Added [Pub. L. 104–106, div. A, title XIII, § 1301(a)][/us/pl/104/106/s1301/a], Feb. 10, 1996, [110 Stat. 473][/us/stat/110/473].)
+(Added [Pub. L. 104–106, div. A, title XIII][/us/pl/104/106/dA/tXIII], § 1301(a), Feb. 10, 1996, [110 Stat. 473][/us/stat/110/473].)
 
  __Prior Provisions__ 
 
@@ -35,7 +35,7 @@
 
  __Use of Department of Defense Funds for United Nations Forces__ 
 
-[Pub. L. 105–261, div. A, title XII, § 1231(b)][/us/pl/105/261/s1231/b], Oct. 17, 1998, [112 Stat. 2155][/us/stat/112/2155], provided that: 
+[Pub. L. 105–261, div. A, title XII][/us/pl/105/261/dA/tXII], § 1231(b), Oct. 17, 1998, [112 Stat. 2155][/us/stat/112/2155], provided that: 
 
 > “No funds available to the Department of Defense may be used—
 
@@ -50,10 +50,10 @@
 ----------
 ----------
 
-[/us/pl/104/106/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1301%2Fa
+[/us/pl/104/106/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXIII
 [/us/stat/110/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F473
 [/us/usc/t10/s401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs401%2Fe
-[/us/pl/105/261/s1231/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1231%2Fb
+[/us/pl/105/261/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXII
 [/us/stat/112/2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2155
 
 

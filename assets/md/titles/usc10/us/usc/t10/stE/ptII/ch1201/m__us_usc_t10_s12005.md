@@ -281,11 +281,11 @@
 
         (2) An officer of the Navy Reserve or the Marine Corps Reserve may not be reduced in permanent grade because of a reduction in the number authorized by this section for his grade.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1662(a)(1)][/us/pl/103/337/s1662/a/1], Oct. 5, 1994, [108 Stat. 2985][/us/stat/108/2985]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IV, § 423\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–96; [Pub. L. 108–375, div. A, title V, § 504][/us/pl/108/375/s504], Oct. 28, 2004, [118 Stat. 1875][/us/stat/118/1875]; [Pub. L. 109–163, div. A, title V, § 515(b)(1)(FF)][/us/pl/109/163/s515/b/1/FF], Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(a)(1), Oct. 5, 1994, [108 Stat. 2985][/us/stat/108/2985]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IV, § 423\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–96; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 504, Oct. 28, 2004, [118 Stat. 1875][/us/stat/118/1875]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(FF), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 3219, 5457(b)–(d), 5458(b)–(d), and 8219 of this title, prior to repeal by [Pub. L. 103–337, § 1662(a)(3)][/us/pl/103/337/s1662/a/3].
+    Provisions similar to those in this section were contained in sections 3219, 5457(b)–(d), 5458(b)–(d), and 8219 of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1662(a)(3).
 
  __Amendments__ 
 
@@ -305,15 +305,15 @@
 ----------
 
 [/us/usc/t10/s12003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12003
-[/us/pl/103/337/s1662/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fa%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2985
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/375/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs504
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1875
-[/us/pl/109/163/s515/b/1/FF]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FFF
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3233
-[/us/pl/103/337/s1662/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fa%2F3
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375

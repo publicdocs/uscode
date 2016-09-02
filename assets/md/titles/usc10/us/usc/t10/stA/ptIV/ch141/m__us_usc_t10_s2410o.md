@@ -23,7 +23,7 @@
 
     A contract entered into for more than one year under the authority of subsection (a) may be extended for a total of not more than 10 years pursuant to any option or options set forth in the contract.
 
-(Added [Pub. L. 107–314, div. A, title VIII, § 826(a)][/us/pl/107/314/s826/a], Dec. 2, 2002, [116 Stat. 2617][/us/stat/116/2617].)
+(Added [Pub. L. 107–314, div. A, title VIII][/us/pl/107/314/dA/tVIII], § 826(a), Dec. 2, 2002, [116 Stat. 2617][/us/stat/116/2617].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/107/314/s826/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs826%2Fa
+[/us/pl/107/314/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVIII
 [/us/stat/116/2617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2617
 
 

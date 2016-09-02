@@ -29,7 +29,7 @@
 
     (d) Upon the request of the Secretary of Homeland Security or his designee, any payments made relating to claims arising from the activities of the Coast Guard and covered by subsection (a) may be reimbursed or paid to the foreign country concerned by the authorized representative of the Department of Defense out of appropriations as provided in [section 2732 of this title][/us/usc/t10/s2732], subject to reimbursement from the Department of Homeland Security.
 
-(Added [Pub. L. 87–651, title I, § 113(a)][/us/pl/87/651/s113/a], Sept. 7, 1962, [76 Stat. 512][/us/stat/76/512]; amended [Pub. L. 90–521, § 4][/us/pl/90/521/s4], Sept. 26, 1968, [82 Stat. 874][/us/stat/82/874]; [Pub. L. 94–390, § 1(1)][/us/pl/94/390/s1/1], Aug. 19, 1976, [90 Stat. 1191][/us/stat/90/1191]; [Pub. L. 98–525, title XIV, § 1405(42)(A)][/us/pl/98/525/s1405/42/A], Oct. 19, 1984, [98 Stat. 2625][/us/stat/98/2625]; [Pub. L. 101–510, div. A, title XIV, § 1481(j)(4)(B)][/us/pl/101/510/s1481/j/4/B], Nov. 5, 1990, [104 Stat. 1709][/us/stat/104/1709]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+(Added [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 113(a), Sept. 7, 1962, [76 Stat. 512][/us/stat/76/512]; amended [Pub. L. 90–521][/us/pl/90/521], § 4, Sept. 26, 1968, [82 Stat. 874][/us/stat/82/874]; [Pub. L. 94–390][/us/pl/94/390], § 1(1), Aug. 19, 1976, [90 Stat. 1191][/us/stat/90/1191]; [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(42)(A), Oct. 19, 1984, [98 Stat. 2625][/us/stat/98/2625]; [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1481(j)(4)(B), Nov. 5, 1990, [104 Stat. 1709][/us/stat/104/1709]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
 <table>
 
@@ -93,17 +93,17 @@ Aug. 31, 1954, ch. 1152, §§ 1 (less proviso, as applicable to § 2), 4 (as
 
     2002—Subsecs. (a), (c), (d). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation” wherever appearing.
 
-    1990—Subsec. (c). [Pub. L. 101–510, § 1481(j)(4)(B)(i)][/us/pl/101/510/s1481/j/4/B/i], substituted “as provided in [section 2732 of this title][/us/usc/t10/s2732]” for “for that purpose”.
+    1990—Subsec. (c). [Pub. L. 101–510][/us/pl/101/510], § 1481(j)(4)(B)(i), substituted “as provided in [section 2732 of this title][/us/usc/t10/s2732]” for “for that purpose”.
 
-    Subsec. (d). [Pub. L. 101–510, § 1481(j)(4)(B)(ii)][/us/pl/101/510/s1481/j/4/B/ii], substituted “appropriations as provided in [section 2732 of this title][/us/usc/t10/s2732]” for “the appropriation for claims of the Department of Defense”.
+    Subsec. (d). [Pub. L. 101–510][/us/pl/101/510], § 1481(j)(4)(B)(ii), substituted “appropriations as provided in [section 2732 of this title][/us/usc/t10/s2732]” for “the appropriation for claims of the Department of Defense”.
 
     1984—[Pub. L. 98–525][/us/pl/98/525] substituted “in foreign countries” for “; foreign countries” in section catchline.
 
     1976—Subsec. (a). [Pub. L. 94–390][/us/pl/94/390] substituted provisions authorizing the Secretary of Defense or the Secretary of Transportation to reimburse or pay, including arbitration costs, claims arising under international agreements to which the United States is a party and providing for settlement or adjudication and cost sharing based on the responsibility of the United States under the law of the other party to the international agreement, for provisions authorizing the Secretary of Defense to reimburse or pay claims arising under international agreements to which the United States is a party and providing for adjudication by the other country under its laws and regulations.
 
-    1968—Subsec. (c). [Pub. L. 90–521, § 4(a)][/us/pl/90/521/s4/a], provided for payment of claims against the Coast Guard arising while it is operating as a service of the Department of Transportation out of appropriations for operating expenses of the Coast Guard.
+    1968—Subsec. (c). [Pub. L. 90–521][/us/pl/90/521], § 4(a), provided for payment of claims against the Coast Guard arising while it is operating as a service of the Department of Transportation out of appropriations for operating expenses of the Coast Guard.
 
-    Subsec. (d). [Pub. L. 90–521, § 4(b)][/us/pl/90/521/s4/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 90–521][/us/pl/90/521], § 4(b), added subsec. (d).
 
  __Effective Date of 2002 Amendment__ 
 
@@ -118,27 +118,27 @@ Aug. 31, 1954, ch. 1152, §§ 1 (less proviso, as applicable to § 2), 4 (as
 
 [/us/usc/t10/s2732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2732
 [/us/usc/t10/s2732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2732
-[/us/pl/87/651/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs113%2Fa
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F512
-[/us/pl/90/521/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F521%2Fs4
+[/us/pl/90/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F521
 [/us/stat/82/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F874
-[/us/pl/94/390/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F390%2Fs1%2F1
+[/us/pl/94/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F390
 [/us/stat/90/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1191
-[/us/pl/98/525/s1405/42/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F42%2FA
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2625
-[/us/pl/101/510/s1481/j/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1481%2Fj%2F4%2FB
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1709
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/101/510/s1481/j/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1481%2Fj%2F4%2FB%2Fi
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s2732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2732
-[/us/pl/101/510/s1481/j/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1481%2Fj%2F4%2FB%2Fii
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s2732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2732
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/94/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F390
-[/us/pl/90/521/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F521%2Fs4%2Fa
-[/us/pl/90/521/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F521%2Fs4%2Fb
+[/us/pl/90/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F521
+[/us/pl/90/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F521
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101

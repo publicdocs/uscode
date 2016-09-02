@@ -81,11 +81,11 @@ R.S. 4644.  </td>
 
     [34 U.S.C. 1152][/us/usc/t34/s1152] and this section reflect modifications of R.S. 4644 effected by—
 
-    (1) [Act of May 28, 1896, ch. 252, § 6][/us/act/1896-05-28/ch252/s6], [29 Stat. 179][/us/stat/29/179], which provided for fixed annual salaries for United States attorneys and marshals;
+    (1) [Act of May 28, 1896, ch. 252][/us/act/1896-05-28/ch252], § 6, [29 Stat. 179][/us/stat/29/179], which provided for fixed annual salaries for United States attorneys and marshals;
 
-    (2) [Act of March 3, 1899, ch. 413, § 13][/us/act/1899-03-03/ch413/s13], [30 Stat. 1007][/us/stat/30/1007], which repealed all laws authorizing distribution of prize proceeds to captors;
+    (2) [Act of March 3, 1899, ch. 413][/us/act/1899-03-03/ch413], § 13, [30 Stat. 1007][/us/stat/30/1007], which repealed all laws authorizing distribution of prize proceeds to captors;
 
-    (3) [Act of February 26, 1919, ch. 49, § 1][/us/act/1919-02-26/ch49/s1], [40 Stat. 1182][/us/stat/40/1182], which provided that clerks of United States district courts should receive fixed annual salaries; and
+    (3) [Act of February 26, 1919, ch. 49][/us/act/1919-02-26/ch49], § 1, [40 Stat. 1182][/us/stat/40/1182], which provided that clerks of United States district courts should receive fixed annual salaries; and
 
     (4) [Act of May 29, 1920, ch. 214][/us/act/1920-05-29/ch214], [41 Stat. 654][/us/stat/41/654], which abolished the offices of assistant treasurers and distributed their functions.
 
@@ -99,11 +99,11 @@ R.S. 4644.  </td>
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F482
 [/us/usc/t34/s1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs1152
-[/us/act/1896-05-28/ch252/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252%2Fs6
+[/us/act/1896-05-28/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252
 [/us/stat/29/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F179
-[/us/act/1899-03-03/ch413/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch413%2Fs13
+[/us/act/1899-03-03/ch413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch413
 [/us/stat/30/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1007
-[/us/act/1919-02-26/ch49/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch49%2Fs1
+[/us/act/1919-02-26/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch49
 [/us/stat/40/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1182
 [/us/act/1920-05-29/ch214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-05-29%2Fch214
 [/us/stat/41/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F654

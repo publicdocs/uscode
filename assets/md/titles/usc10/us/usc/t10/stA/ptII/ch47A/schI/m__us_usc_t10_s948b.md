@@ -45,11 +45,11 @@
 
     No alien unprivileged enemy belligerent subject to trial by military commission under this chapter may invoke the Geneva Conventions as a basis for a private right of action.
 
-(Added [Pub. L. 111–84, div. A, title XVIII, § 1802][/us/pl/111/84/s1802], Oct. 28, 2009, [123 Stat. 2575][/us/stat/123/2575]; amended [Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(E)][/us/pl/113/66/s1702/c/3/E], Dec. 26, 2013, [127 Stat. 958][/us/stat/127/958].)
+(Added [Pub. L. 111–84, div. A, title XVIII][/us/pl/111/84/dA/tXVIII], § 1802, Oct. 28, 2009, [123 Stat. 2575][/us/stat/123/2575]; amended [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1702(c)(3)(E), Dec. 26, 2013, [127 Stat. 958][/us/stat/127/958].)
 
  __Prior Provisions__ 
 
-    A prior section 948b, added [Pub. L. 109–366, § 3(a)(1)][/us/pl/109/366/s3/a/1], Oct. 17, 2006, [120 Stat. 2602][/us/stat/120/2602], related to military commissions generally, prior to the general amendment of this chapter by [Pub. L. 111–84][/us/pl/111/84].
+    A prior section 948b, added [Pub. L. 109–366][/us/pl/109/366], § 3(a)(1), Oct. 17, 2006, [120 Stat. 2602][/us/stat/120/2602], related to military commissions generally, prior to the general amendment of this chapter by [Pub. L. 111–84][/us/pl/111/84].
 
  __Amendments__ 
 
@@ -98,11 +98,11 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/pl/111/84/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1802
+[/us/pl/111/84/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXVIII
 [/us/stat/123/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2575
-[/us/pl/113/66/s1702/c/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fc%2F3%2FE
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F958
-[/us/pl/109/366/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs3%2Fa%2F1
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/stat/120/2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2602
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66

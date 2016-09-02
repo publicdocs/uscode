@@ -23,11 +23,11 @@
 
     The Secretary of Defense or the Secretary of a military department may not enter into any contract with a term of 18 months or more, or extend or renew any contract for a term of 18 months or more, for any vessel, aircraft, or vehicle, through a lease, charter, or similar agreement, unless the Secretary has considered all costs of such contract (including estimated termination liability) and has determined in writing that the contract is in the best interest of the Government.
 
-(Added [Pub. L. 103–355, title III, § 3065(a)(1)][/us/pl/103/355/s3065/a/1], Oct. 13, 1994, [108 Stat. 3337][/us/stat/108/3337]; amended [Pub. L. 104–106, div. A, title VIII, § 807(a)(1)][/us/pl/104/106/s807/a/1], Feb. 10, 1996, [110 Stat. 391][/us/stat/110/391]; [Pub. L. 105–85, div. A, title X, § 1073(a)(52)][/us/pl/105/85/s1073/a/52], Nov. 18, 1997, [111 Stat. 1903][/us/stat/111/1903].)
+(Added [Pub. L. 103–355, title III][/us/pl/103/355/tIII], § 3065(a)(1), Oct. 13, 1994, [108 Stat. 3337][/us/stat/108/3337]; amended [Pub. L. 104–106, div. A, title VIII][/us/pl/104/106/dA/tVIII], § 807(a)(1), Feb. 10, 1996, [110 Stat. 391][/us/stat/110/391]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(52), Nov. 18, 1997, [111 Stat. 1903][/us/stat/111/1903].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in subsec. (b) were contained in [Pub. L. 101–165, title IX, § 9081][/us/pl/101/165/s9081], Nov. 21, 1989, [103 Stat. 1147][/us/stat/103/1147], which was set out as a note under [section 2401 of this title][/us/usc/t10/s2401], prior to repeal by [Pub. L. 103–355, § 3065(b)][/us/pl/103/355/s3065/b].
+    Provisions similar to those in subsec. (b) were contained in [Pub. L. 101–165, title IX][/us/pl/101/165/tIX], § 9081, Nov. 21, 1989, [103 Stat. 1147][/us/stat/103/1147], which was set out as a note under [section 2401 of this title][/us/usc/t10/s2401], prior to repeal by [Pub. L. 103–355][/us/pl/103/355], § 3065(b).
 
     A prior section 2401a was renumbered [section 2350f of this title][/us/usc/t10/s2350f].
 
@@ -39,7 +39,7 @@
 
  __Leases for Tanker Aircraft Under Multiyear Aircraft-Lease Pilot Program__ 
 
-[Pub. L. 107–314, div. A, title I, § 133][/us/pl/107/314/s133], Dec. 2, 2002, [116 Stat. 2477][/us/stat/116/2477], provided that: 
+[Pub. L. 107–314, div. A, title I][/us/pl/107/314/dA/tI], § 133, Dec. 2, 2002, [116 Stat. 2477][/us/stat/116/2477], provided that: 
 
 > “The Secretary of the Air Force may not enter into a lease for the acquisition of tanker aircraft for the Air Force under section 8159 of the Department of Defense Appropriations Act, 2002 (division A of [Public Law 107–117][/us/pl/107/117]; [115 Stat. 2284][/us/stat/115/2284]; [10 U.S.C. 2401a][/us/usc/t10/s2401a] note) until—
 
@@ -55,13 +55,13 @@
 
  __Multi-Year Aircraft Lease Pilot Program__ 
 
-    [Pub. L. 108–136, div. A, title I, § 135][/us/pl/108/136/s135], Nov. 24, 2003, [117 Stat. 1413][/us/stat/117/1413], as amended by [Pub. L. 108–375, div. A, title I, § 133][/us/pl/108/375/s133], Oct. 28, 2004, [118 Stat. 1829][/us/stat/118/1829], which prohibited the leasing of tanker aircraft pursuant to the multiyear aircraft lease pilot program under [Pub. L. 107–117, § 8159][/us/pl/107/117/s8159], set out below, and authorized the Secretary of the Air Force to enter into a multiyear contract for the purchase of such aircraft, was repealed by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title I, § 132, Oct. 14, 2008, [122 Stat. 4377][/us/stat/122/4377].
+    [Pub. L. 108–136, div. A, title I][/us/pl/108/136/dA/tI], § 135, Nov. 24, 2003, [117 Stat. 1413][/us/stat/117/1413], as amended by [Pub. L. 108–375, div. A, title I][/us/pl/108/375/dA/tI], § 133, Oct. 28, 2004, [118 Stat. 1829][/us/stat/118/1829], which prohibited the leasing of tanker aircraft pursuant to the multiyear aircraft lease pilot program under [Pub. L. 107–117][/us/pl/107/117], § 8159, set out below, and authorized the Secretary of the Air Force to enter into a multiyear contract for the purchase of such aircraft, was repealed by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title I, § 132, Oct. 14, 2008, [122 Stat. 4377][/us/stat/122/4377].
 
-[Pub. L. 107–206, title I, § 308][/us/pl/107/206/s308], Aug. 2, 2002, [116 Stat. 841][/us/stat/116/841], provided that: 
+[Pub. L. 107–206, title I][/us/pl/107/206/tI], § 308, Aug. 2, 2002, [116 Stat. 841][/us/stat/116/841], provided that: 
 
 > “During the current fiscal year and hereafter, [section 2533a of title 10][/us/usc/t10/s2533a], United States Code, shall not apply to any transaction entered into to acquire or sustain aircraft under the authority of section 8159 of the Department of Defense Appropriations Act, 2002 (division A of [Public Law 107–117][/us/pl/107/117]; [115 Stat. 2284][/us/stat/115/2284]) \[set out below\].”
 
-[Pub. L. 107–117, div. A, title VIII, § 8159][/us/pl/107/117/s8159], Jan. 10, 2002, [115 Stat. 2284][/us/stat/115/2284], as amended by [Pub. L. 107–248, title VIII, § 8117][/us/pl/107/248/s8117], Oct. 23, 2002, [116 Stat. 1564][/us/stat/116/1564]; [Pub. L. 113–76, div. C, title VIII, § 8122][/us/pl/113/76/s8122], Jan. 17, 2014, [128 Stat. 133][/us/stat/128/133], provided that:
+[Pub. L. 107–117, div. A, title VIII][/us/pl/107/117/dA/tVIII], § 8159, Jan. 10, 2002, [115 Stat. 2284][/us/stat/115/2284], as amended by [Pub. L. 107–248, title VIII][/us/pl/107/248/tVIII], § 8117, Oct. 23, 2002, [116 Stat. 1564][/us/stat/116/1564]; [Pub. L. 113–76, div. C, title VIII][/us/pl/113/76/dC/tVIII], § 8122, Jan. 17, 2014, [128 Stat. 133][/us/stat/128/133], provided that:
 
 >     “(a) The Secretary of the Air Force may, from funds provided in this Act \[see Tables for classification\] or any future appropriations Act, establish and make payments on a multi-year pilot program for leasing general purpose Boeing 767 aircraft and Boeing 737 aircraft in commercial configuration.
 
@@ -89,7 +89,7 @@
 
 >             “(B) A period of not less than 30 calendar days has elapsed after submitting the report.
 
->         “\[(7) Repealed. [Pub. L. 113–76, div. C, title VIII, § 8122][/us/pl/113/76/s8122], Jan. 17, 2014, [128 Stat. 133][/us/stat/128/133].\]
+>         “\[(7) Repealed. [Pub. L. 113–76, div. C, title VIII][/us/pl/113/76/dC/tVIII], § 8122, Jan. 17, 2014, [128 Stat. 133][/us/stat/128/133].\]
 
 >         “(8) The Air Force shall accept delivery of the aircraft in a general purpose configuration.
 
@@ -111,7 +111,7 @@
 
 >     “(g) Notwithstanding any other provision of law, any payments required for a lease entered into under this Section, or any payments made pursuant to subsection (c)(3) above, may be made from appropriations available for operation and maintenance or for lease or procurement of aircraft at the time that the lease takes effect; appropriations available for operation and maintenance or for lease or procurement of aircraft at the time that the payment is due; or funds appropriated for those payments.”
 
-[Pub. L. 106–79, title VIII, § 8133][/us/pl/106/79/s8133], Oct. 25, 1999, [113 Stat. 1267][/us/stat/113/1267], provided that:
+[Pub. L. 106–79, title VIII][/us/pl/106/79/tVIII], § 8133, Oct. 25, 1999, [113 Stat. 1267][/us/stat/113/1267], provided that:
 
 >     “(a) The Secretary of the Air Force may establish a multi-year pilot program for leasing aircraft for operational support purposes, including transportation for the combatant Commanders in Chief, on such terms and conditions as the Secretary may deem appropriate, consistent with this section.
 
@@ -159,7 +159,7 @@
 
  __Lease of Firefighting, Crash Rescue, and Snow Removal Equipment__ 
 
-[Pub. L. 105–262, title VIII, § 8126][/us/pl/105/262/s8126], Oct. 17, 1998, [112 Stat. 2333][/us/stat/112/2333], provided that:
+[Pub. L. 105–262, title VIII][/us/pl/105/262/tVIII], § 8126, Oct. 17, 1998, [112 Stat. 2333][/us/stat/112/2333], provided that:
 
 >     “(a) The Secretary of the Army and the Secretary of the Air Force may each enter into one or more multiyear leases of nontactical firefighting equipment, nontactical crash rescue equipment, or nontactical snow removal equipment. The period of a lease entered into under this section shall be for any period not in excess of 10 years. Any such lease shall provide that performance under the lease during the second and subsequent years of the contract is contingent upon the appropriation of funds and shall provide for a cancellation payment to be made to the lessor if such appropriations are not made.
 
@@ -169,7 +169,7 @@
 
  __Pilot Program for Leasing Commercial Utility Cargo Vehicles__ 
 
-    [Pub. L. 104–106, div. A, title VIII, § 807(c)][/us/pl/104/106/s807/c], Feb. 10, 1996, [110 Stat. 392][/us/stat/110/392], as amended by [Pub. L. 106–65, div. A, title X, § 1067(6)][/us/pl/106/65/s1067/6], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], authorized the Secretary of the Army to conduct a pilot program for leasing commercial utility cargo vehicles, directed the Secretary to submit to committees of Congress a report prior to commencement of the program containing plans for its implementation and setting forth the savings in operating and support costs expected to be derived from retiring older commercial utility cargo vehicles, as compared to the expected costs of leasing newer commercial utility cargo vehicles, directed the Secretary to submit to committees of Congress a report on the status of the program not later than one year after the date on which the first lease under the program had been entered into, and provided that no lease could be entered into under the program after Sept. 30, 2000.
+    [Pub. L. 104–106, div. A, title VIII][/us/pl/104/106/dA/tVIII], § 807(c), Feb. 10, 1996, [110 Stat. 392][/us/stat/110/392], as amended by [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(6), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], authorized the Secretary of the Army to conduct a pilot program for leasing commercial utility cargo vehicles, directed the Secretary to submit to committees of Congress a report prior to commencement of the program containing plans for its implementation and setting forth the savings in operating and support costs expected to be derived from retiring older commercial utility cargo vehicles, as compared to the expected costs of leasing newer commercial utility cargo vehicles, directed the Secretary to submit to committees of Congress a report on the status of the program not later than one year after the date on which the first lease under the program had been entered into, and provided that no lease could be entered into under the program after Sept. 30, 2000.
 
 ----------
 
@@ -178,52 +178,52 @@
 ----------
 ----------
 
-[/us/pl/103/355/s3065/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3065%2Fa%2F1
+[/us/pl/103/355/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtIII
 [/us/stat/108/3337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3337
-[/us/pl/104/106/s807/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs807%2Fa%2F1
+[/us/pl/104/106/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVIII
 [/us/stat/110/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F391
-[/us/pl/105/85/s1073/a/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F52
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1903
-[/us/pl/101/165/s9081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2Fs9081
+[/us/pl/101/165/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2FtIX
 [/us/stat/103/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1147
 [/us/usc/t10/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2401
-[/us/pl/103/355/s3065/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3065%2Fb
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/usc/t10/s2350f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2350f
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/107/314/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs133
+[/us/pl/107/314/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtI
 [/us/stat/116/2477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2477
 [/us/pl/107/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117
 [/us/stat/115/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2284
 [/us/usc/t10/s2401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2401a
-[/us/pl/108/136/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs135
+[/us/pl/108/136/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtI
 [/us/stat/117/1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1413
-[/us/pl/108/375/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs133
+[/us/pl/108/375/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtI
 [/us/stat/118/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1829
-[/us/pl/107/117/s8159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs8159
+[/us/pl/107/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4377
-[/us/pl/107/206/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs308
+[/us/pl/107/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtI
 [/us/stat/116/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F841
 [/us/usc/t10/s2533a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2533a
 [/us/pl/107/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117
 [/us/stat/115/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2284
-[/us/pl/107/117/s8159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs8159
+[/us/pl/107/117/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdA%2FtVIII
 [/us/stat/115/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2284
-[/us/pl/107/248/s8117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2Fs8117
+[/us/pl/107/248/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2FtVIII
 [/us/stat/116/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1564
-[/us/pl/113/76/s8122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8122
+[/us/pl/113/76/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdC%2FtVIII
 [/us/stat/128/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F133
 [/us/usc/t31/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3324
-[/us/pl/113/76/s8122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8122
+[/us/pl/113/76/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdC%2FtVIII
 [/us/stat/128/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F133
-[/us/pl/106/79/s8133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79%2Fs8133
+[/us/pl/106/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79%2FtVIII
 [/us/stat/113/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1267
-[/us/pl/105/262/s8126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F262%2Fs8126
+[/us/pl/105/262/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F262%2FtVIII
 [/us/stat/112/2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2333
-[/us/pl/104/106/s807/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs807%2Fc
+[/us/pl/104/106/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVIII
 [/us/stat/110/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F392
-[/us/pl/106/65/s1067/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F6
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
 
 

@@ -17,7 +17,7 @@
 
     Provisions of law relating to educational assistance for members of the Selected Reserve under the Montgomery GI Bill program are set forth in chapter 1606 of this title (beginning with section 16131).
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1663(b)(7)][/us/pl/103/337/s1663/b/7], Oct. 5, 1994, [108 Stat. 3007][/us/stat/108/3007].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1663(b)(7), Oct. 5, 1994, [108 Stat. 3007][/us/stat/108/3007].)
 
  __Prior Provisions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1663/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fb%2F7
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3007
 [/us/usc/t10/s16131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16131
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691

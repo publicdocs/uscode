@@ -23,7 +23,7 @@
 
     (3) while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 541][/us/stat/70A/541]; [Pub. L. 88–77, § 3(3)][/us/pl/88/77/s3/3], July 25, 1963, [77 Stat. 95][/us/stat/77/95].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 541][/us/stat/70A/541]; [Pub. L. 88–77][/us/pl/88/77], § 3(3), July 25, 1963, [77 Stat. 95][/us/stat/77/95].)
 
 <table>
 
@@ -84,7 +84,7 @@ July 9, 1918, ch. 143 (words after 2d semicolon of 12th par. under “Ordnance D
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F541
-[/us/pl/88/77/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F77%2Fs3%2F3
+[/us/pl/88/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F77
 [/us/stat/77/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F95
 [/us/pl/88/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F77
 

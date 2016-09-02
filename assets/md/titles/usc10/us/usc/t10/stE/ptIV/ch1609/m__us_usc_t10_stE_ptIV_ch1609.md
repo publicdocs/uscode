@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, div. A, title VI, § 672(c)(2)][/us/pl/110/181/s672/c/2], Jan. 28, 2008, [122 Stat. 185][/us/stat/122/185], substituted “Education loan repayment program: members of Selected Reserve” for “Education loan repayment program: enlisted members of Selected Reserve with critical specialties” in item 16301.
+    2008—[Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 672(c)(2), Jan. 28, 2008, [122 Stat. 185][/us/stat/122/185], substituted “Education loan repayment program: members of Selected Reserve” for “Education loan repayment program: enlisted members of Selected Reserve with critical specialties” in item 16301.
 
-    2006—[Pub. L. 109–163, div. A, title VI, § 684(b)][/us/pl/109/163/s684/b], Jan. 6, 2006, [119 Stat. 3325][/us/stat/119/3325], added item 16303.
+    2006—[Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 684(b), Jan. 6, 2006, [119 Stat. 3325][/us/stat/119/3325], added item 16303.
 
 ----------
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/110/181/s672/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs672%2Fc%2F2
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F185
-[/us/pl/109/163/s684/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs684%2Fb
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3325
 
 

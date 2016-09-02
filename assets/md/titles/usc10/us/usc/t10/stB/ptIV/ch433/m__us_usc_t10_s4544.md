@@ -137,41 +137,41 @@
 
         (5) The term “variable costs” means the costs that are expected to fluctuate directly with the volume of sales or services provided or the use of equipment or facilities.
 
-(Added [Pub. L. 108–375, div. A, title III, § 353(a)][/us/pl/108/375/s353/a], Oct. 28, 2004, [118 Stat. 1859][/us/stat/118/1859]; amended [Pub. L. 109–163, div. A, title III, § 321][/us/pl/109/163/s321], Jan. 6, 2006, [119 Stat. 3191][/us/stat/119/3191]; [Pub. L. 109–364, div. A, title X, § 1071(a)(29)][/us/pl/109/364/s1071/a/29], Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399]; [Pub. L. 110–181, div. A, title III, § 328(a)][/us/pl/110/181/s328/a], Jan. 28, 2008, [122 Stat. 66][/us/stat/122/66]; [Pub. L. 111–84, div. A, title III, § 324(a)][/us/pl/111/84/s324/a], Oct. 28, 2009, [123 Stat. 2253][/us/stat/123/2253]; [Pub. L. 112–81, div. A, title III, § 323(a)][/us/pl/112/81/s323/a], Dec. 31, 2011, [125 Stat. 1362][/us/stat/125/1362].)
+(Added [Pub. L. 108–375, div. A, title III][/us/pl/108/375/dA/tIII], § 353(a), Oct. 28, 2004, [118 Stat. 1859][/us/stat/118/1859]; amended [Pub. L. 109–163, div. A, title III][/us/pl/109/163/dA/tIII], § 321, Jan. 6, 2006, [119 Stat. 3191][/us/stat/119/3191]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(29), Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399]; [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 328(a), Jan. 28, 2008, [122 Stat. 66][/us/stat/122/66]; [Pub. L. 111–84, div. A, title III][/us/pl/111/84/dA/tIII], § 324(a), Oct. 28, 2009, [123 Stat. 2253][/us/stat/123/2253]; [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 323(a), Dec. 31, 2011, [125 Stat. 1362][/us/stat/125/1362].)
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 112–81, § 323(a)(1)][/us/pl/112/81/s323/a/1], struck out second sentence which read as follows: “This authority may be used to enter into not more than eight contracts or cooperative agreements in addition to the contracts and cooperative agreements in place as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 ([Public Law 110–181][/us/pl/110/181]).”
+    2011—Subsec. (a). [Pub. L. 112–81][/us/pl/112/81], § 323(a)(1), struck out second sentence which read as follows: “This authority may be used to enter into not more than eight contracts or cooperative agreements in addition to the contracts and cooperative agreements in place as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 ([Public Law 110–181][/us/pl/110/181]).”
 
-    Subsec. (k). [Pub. L. 112–81, § 323(a)(2)][/us/pl/112/81/s323/a/2], struck out subsec. (k). Prior to amendment, text read as follows: “The authority to enter into a cooperative arrangement under subsection (a) expires September 30, 2014.”
+    Subsec. (k). [Pub. L. 112–81][/us/pl/112/81], § 323(a)(2), struck out subsec. (k). Prior to amendment, text read as follows: “The authority to enter into a cooperative arrangement under subsection (a) expires September 30, 2014.”
 
     2009—Subsec. (a). [Pub. L. 111–84][/us/pl/111/84] inserted “in addition to the contracts and cooperative agreements in place as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 ([Public Law 110–181][/us/pl/110/181])” after “not more than eight contracts or cooperative agreements”.
 
-    2008—Subsec. (a). [Pub. L. 110–181, § 328(a)(1)][/us/pl/110/181/s328/a/1], inserted at end “This authority may be used to enter into not more than eight contracts or cooperative agreements.”
+    2008—Subsec. (a). [Pub. L. 110–181][/us/pl/110/181], § 328(a)(1), inserted at end “This authority may be used to enter into not more than eight contracts or cooperative agreements.”
 
-    Subsec. (k). [Pub. L. 110–181, § 328(a)(2)][/us/pl/110/181/s328/a/2], substituted “2014” for “2009”.
+    Subsec. (k). [Pub. L. 110–181][/us/pl/110/181], § 328(a)(2), substituted “2014” for “2009”.
 
     2006—Subsec. (d). [Pub. L. 109–364][/us/pl/109/364] substituted “Arrangement” for “Arangement” in heading.
 
-    [Pub. L. 109–163, § 321(b)(1)][/us/pl/109/163/s321/b/1], substituted “subsection (f)” for “subsection (e)” in introductory provisions.
+    [Pub. L. 109–163][/us/pl/109/163], § 321(b)(1), substituted “subsection (f)” for “subsection (e)” in introductory provisions.
 
-    Subsecs. (e), (f). [Pub. L. 109–163, § 321(b)(2)][/us/pl/109/163/s321/b/2], (3), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
+    Subsecs. (e), (f). [Pub. L. 109–163][/us/pl/109/163], § 321(b)(2), (3), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 109–163, § 321(b)(4)][/us/pl/109/163/s321/b/4], substituted “subsection (f)” for “subsection (e)”.
+    Subsec. (g). [Pub. L. 109–163][/us/pl/109/163], § 321(b)(4), substituted “subsection (f)” for “subsection (e)”.
 
-    [Pub. L. 109–163, § 321(b)(2)][/us/pl/109/163/s321/b/2], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    [Pub. L. 109–163][/us/pl/109/163], § 321(b)(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    Subsecs. (h), (i). [Pub. L. 109–163, § 321(b)(2)][/us/pl/109/163/s321/b/2], redesignated subsecs. (g) and (h) as (h) and (i), respectively. Former subsec. (i) redesignated (j).
+    Subsecs. (h), (i). [Pub. L. 109–163][/us/pl/109/163], § 321(b)(2), redesignated subsecs. (g) and (h) as (h) and (i), respectively. Former subsec. (i) redesignated (j).
 
-    Subsec. (j). [Pub. L. 109–163, § 321(b)(2)][/us/pl/109/163/s321/b/2], redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
+    Subsec. (j). [Pub. L. 109–163][/us/pl/109/163], § 321(b)(2), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
 
-    [Pub. L. 109–163, § 321(a)][/us/pl/109/163/s321/a], substituted “September 30, 2009.” for “September 30, 2009, and arrangements entered into under such subsection shall terminate not later than that date.”
+    [Pub. L. 109–163][/us/pl/109/163], § 321(a), substituted “September 30, 2009.” for “September 30, 2009, and arrangements entered into under such subsection shall terminate not later than that date.”
 
-    Subsec. (k). [Pub. L. 109–163, § 321(b)(2)][/us/pl/109/163/s321/b/2], redesignated subsec. (j) as (k).
+    Subsec. (k). [Pub. L. 109–163][/us/pl/109/163], § 321(b)(2), redesignated subsec. (j) as (k).
 
  __Reports__ 
 
-[Pub. L. 110–181, div. A, title III, § 328(b)][/us/pl/110/181/s328/b], Jan. 28, 2008, [122 Stat. 66][/us/stat/122/66], as amended by [Pub. L. 111–84, div. A, title III, § 324(b)][/us/pl/111/84/s324/b], Oct. 28, 2009, [123 Stat. 2253][/us/stat/123/2253]; [Pub. L. 112–81, div. A, title III, § 323(b)][/us/pl/112/81/s323/b], Dec. 31, 2011, [125 Stat. 1362][/us/stat/125/1362]; [Pub. L. 112–239, div. A, title X, § 1076(a)(2)][/us/pl/112/239/s1076/a/2], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948], provided that:
+[Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 328(b), Jan. 28, 2008, [122 Stat. 66][/us/stat/122/66], as amended by [Pub. L. 111–84, div. A, title III][/us/pl/111/84/dA/tIII], § 324(b), Oct. 28, 2009, [123 Stat. 2253][/us/stat/123/2253]; [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 323(b), Dec. 31, 2011, [125 Stat. 1362][/us/stat/125/1362]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(2), Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948], provided that:
 
 >     “(1)  __Annual report on use of authority__  __.—__ 
 
@@ -199,41 +199,41 @@
 [/us/usc/t10/s2466/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2466%2Fa
 [/us/usc/t22/s2770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2770
 [/us/usc/t10/s2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2667
-[/us/pl/108/375/s353/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs353%2Fa
+[/us/pl/108/375/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIII
 [/us/stat/118/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1859
-[/us/pl/109/163/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs321
+[/us/pl/109/163/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIII
 [/us/stat/119/3191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3191
-[/us/pl/109/364/s1071/a/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F29
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2399
-[/us/pl/110/181/s328/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs328%2Fa
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F66
-[/us/pl/111/84/s324/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs324%2Fa
+[/us/pl/111/84/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIII
 [/us/stat/123/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2253
-[/us/pl/112/81/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs323%2Fa
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1362
-[/us/pl/112/81/s323/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs323%2Fa%2F1
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/112/81/s323/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs323%2Fa%2F2
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/110/181/s328/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs328%2Fa%2F1
-[/us/pl/110/181/s328/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs328%2Fa%2F2
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/109/163/s321/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs321%2Fb%2F1
-[/us/pl/109/163/s321/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs321%2Fb%2F2
-[/us/pl/109/163/s321/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs321%2Fb%2F4
-[/us/pl/109/163/s321/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs321%2Fb%2F2
-[/us/pl/109/163/s321/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs321%2Fb%2F2
-[/us/pl/109/163/s321/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs321%2Fb%2F2
-[/us/pl/109/163/s321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs321%2Fa
-[/us/pl/109/163/s321/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs321%2Fb%2F2
-[/us/pl/110/181/s328/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs328%2Fb
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F66
-[/us/pl/111/84/s324/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs324%2Fb
+[/us/pl/111/84/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIII
 [/us/stat/123/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2253
-[/us/pl/112/81/s323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs323%2Fb
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1362
-[/us/pl/112/239/s1076/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F2
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t10/s4544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4544

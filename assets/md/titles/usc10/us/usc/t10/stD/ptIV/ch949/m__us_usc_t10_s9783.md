@@ -51,7 +51,7 @@
 
         (2) The term “support” includes fuel, fire rescue, use of facilities, improvements necessary to accommodate use by civil air carriers, police, safety, housing, food, air traffic control, suspension of military operations on the island (including operations at the Johnston Atoll Chemical Agent Demilitarization System), repairs, and any other construction, services, or supplies.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 383(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–86; amended [Pub. L. 107–107, div. A, title X, § 1048(a)(30)][/us/pl/107/107/s1048/a/30], Dec. 28, 2001, [115 Stat. 1225][/us/stat/115/1225].)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 383(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–86; amended [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(a)(30), Dec. 28, 2001, [115 Stat. 1225][/us/stat/115/1225].)
 
  __Amendments__ 
 
@@ -65,9 +65,9 @@
 ----------
 
 [/us/usc/t49/s40102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa%2F2
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s1048/a/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fa%2F30
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1225
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 

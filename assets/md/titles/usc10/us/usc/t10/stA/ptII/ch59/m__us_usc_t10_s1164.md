@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1161.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1165.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1164)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1162 _us_usc_t10_s1163.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1165.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1164)
 
 ## § 1164. Warrant officers: separation for age
 
@@ -19,7 +19,7 @@
 
     (b) The Secretary concerned may defer, for not more than four months, the separation under subsection (a) of any warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when he would otherwise be required to be retired or separated under this section.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 90][/us/stat/70A/90]; [Pub. L. 89–718, § 3][/us/pl/89/718/s3], Nov. 2, 1966, [80 Stat. 1115][/us/stat/80/1115]; [Pub. L. 90–130, § 1(5)][/us/pl/90/130/s1/5], Nov. 8, 1967, [81 Stat. 374][/us/stat/81/374]; [Pub. L. 96–513, title V, § 511(41)][/us/pl/96/513/s511/41], Dec. 12, 1980, [94 Stat. 2923][/us/stat/94/2923]; [Pub. L. 97–295, § 1(16)][/us/pl/97/295/s1/16], Oct. 12, 1982, [96 Stat. 1290][/us/stat/96/1290].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 90][/us/stat/70A/90]; [Pub. L. 89–718][/us/pl/89/718], § 3, Nov. 2, 1966, [80 Stat. 1115][/us/stat/80/1115]; [Pub. L. 90–130][/us/pl/90/130], § 1(5), Nov. 8, 1967, [81 Stat. 374][/us/stat/81/374]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(41), Dec. 12, 1980, [94 Stat. 2923][/us/stat/94/2923]; [Pub. L. 97–295][/us/pl/97/295], § 1(16), Oct. 12, 1982, [96 Stat. 1290][/us/stat/96/1290].)
 
 <table>
 
@@ -133,7 +133,7 @@ May 29, 1954, ch. 249, §§ 14(c), (e) (as applicable to (c)), 21(c) (as appli
 
  __Amendments__ 
 
-    1982—[Pub. L. 97–295, § 1(16)][/us/pl/97/295/s1/16], substituted a colon for a semicolon after “officers” in section catchline.
+    1982—[Pub. L. 97–295][/us/pl/97/295], § 1(16), substituted a colon for a semicolon after “officers” in section catchline.
 
     1980—Subsec. (b). [Pub. L. 96–513][/us/pl/96/513] redesignated former subsec. (c) as (b).
 
@@ -153,15 +153,15 @@ May 29, 1954, ch. 249, §§ 14(c), (e) (as applicable to (c)), 21(c) (as appli
 
  __Deferment of Separation With Completion of 20 Years of Service or at Age 60__ 
 
-[Act Aug. 10, 1956, ch. 1041, § 46][/us/act/1956-08-10/ch1041/s46], [70A Stat. 638][/us/stat/70A/638], provided that:
+[Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 46, [70A Stat. 638][/us/stat/70A/638], provided that:
 
->     “(a) The separation of any person who, on November 1, 1954, was a male permanent warrant officer of a regular component of an armed force, and who upon attaining the age of 62 has completed less than 20 years of active service that could be credited to him under section 511 of the Career Compensation Act of 1949 ([37 U.S.C. 311][/us/usc/t37/s311]) \[[act Oct. 12, 1949, ch. 681][/us/act/1949-10-12/ch681], title V, § 511, [63 Stat. 829][/us/stat/63/829], formerly set out as a note under [section 580 of this title][/us/usc/t10/s580]\] may be deferred by the Secretary concerned until he completes 20 years of that service, but not later than that date which is 60 days after the date on which he attains the age of 64.
+>     “(a) The separation of any person who, on November 1, 1954, was a male permanent warrant officer of a regular component of an armed force, and who upon attaining the age of 62 has completed less than 20 years of active service that could be credited to him under section 511 of the Career Compensation Act of 1949 ([37 U.S.C. 311][/us/usc/t37/s311]) \[[act Oct. 12, 1949, ch. 681, title V][/us/act/1949-10-12/ch681/tV], § 511, [63 Stat. 829][/us/stat/63/829], formerly set out as a note under [section 580 of this title][/us/usc/t10/s580]\] may be deferred by the Secretary concerned until he completes 20 years of that service, but not later than that date which is 60 days after the date on which he attains the age of 64.
 
->     “(b) The separation of any person who, on November 1, 1954, was a female permanent warrant officer of a regular component of an armed force, and who upon attaining the age of 55 has completed less than 20 years of active service that could be credited to her under section 511 of the Career Compensation Act of 1949 ([37 U.S.C. 311][/us/usc/t37/s311]) \[[act Oct. 12, 1949, ch. 681][/us/act/1949-10-12/ch681], title V, § 511, [63 Stat. 829][/us/stat/63/829], formerly set out as a note under [section 580 of this title][/us/usc/t10/s580]\] may be deferred by the Secretary concerned until she completes 20 years of that service, but not later than that date which is 60 days after the date on which she attains the age of 60.”
+>     “(b) The separation of any person who, on November 1, 1954, was a female permanent warrant officer of a regular component of an armed force, and who upon attaining the age of 55 has completed less than 20 years of active service that could be credited to her under section 511 of the Career Compensation Act of 1949 ([37 U.S.C. 311][/us/usc/t37/s311]) \[[act Oct. 12, 1949, ch. 681, title V][/us/act/1949-10-12/ch681/tV], § 511, [63 Stat. 829][/us/stat/63/829], formerly set out as a note under [section 580 of this title][/us/usc/t10/s580]\] may be deferred by the Secretary concerned until she completes 20 years of that service, but not later than that date which is 60 days after the date on which she attains the age of 60.”
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1161.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1165.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1164)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1162 _us_usc_t10_s1163.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1165.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1164)
 
 ----------
 ----------
@@ -169,15 +169,15 @@ May 29, 1954, ch. 249, §§ 14(c), (e) (as applicable to (c)), 21(c) (as appli
 [/us/usc/t5/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8301
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F90
-[/us/pl/89/718/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs3
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1115
-[/us/pl/90/130/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs1%2F5
+[/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/stat/81/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F374
-[/us/pl/96/513/s511/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F41
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2923
-[/us/pl/97/295/s1/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F16
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1290
-[/us/pl/97/295/s1/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F16
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
@@ -187,14 +187,14 @@ May 29, 1954, ch. 249, §§ 14(c), (e) (as applicable to (c)), 21(c) (as appli
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/act/1956-08-10/ch1041/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs46
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F638
 [/us/usc/t37/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs311
-[/us/act/1949-10-12/ch681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-12%2Fch681
+[/us/act/1949-10-12/ch681/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-12%2Fch681%2FtV
 [/us/stat/63/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F829
 [/us/usc/t10/s580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs580
 [/us/usc/t37/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs311
-[/us/act/1949-10-12/ch681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-12%2Fch681
+[/us/act/1949-10-12/ch681/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-12%2Fch681%2FtV
 [/us/stat/63/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F829
 [/us/usc/t10/s580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs580
 

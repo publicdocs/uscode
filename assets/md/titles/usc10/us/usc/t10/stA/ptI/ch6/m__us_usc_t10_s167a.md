@@ -57,21 +57,21 @@
 
     The Secretary may delegate the authority referred to in subsection (a) only during fiscal years 2004 through 2010, and any authority so delegated shall not be in effect after September 30, 2010.
 
-(Added [Pub. L. 108–136, div. A, title VIII, § 848(a)(1)][/us/pl/108/136/s848/a/1], Nov. 24, 2003, [117 Stat. 1554][/us/stat/117/1554]; amended [Pub. L. 109–163, div. A, title VIII, § 846(a)][/us/pl/109/163/s846/a], Jan. 6, 2006, [119 Stat. 3391][/us/stat/119/3391]; [Pub. L. 110–181, div. A, title VIII, § 825][/us/pl/110/181/s825], Jan. 28, 2008, [122 Stat. 227][/us/stat/122/227].)
+(Added [Pub. L. 108–136, div. A, title VIII][/us/pl/108/136/dA/tVIII], § 848(a)(1), Nov. 24, 2003, [117 Stat. 1554][/us/stat/117/1554]; amended [Pub. L. 109–163, div. A, title VIII][/us/pl/109/163/dA/tVIII], § 846(a), Jan. 6, 2006, [119 Stat. 3391][/us/stat/119/3391]; [Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 825, Jan. 28, 2008, [122 Stat. 227][/us/stat/122/227].)
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–181, § 825(a)(1)][/us/pl/110/181/s825/a/1], substituted “, acquire, and maintain” for “and acquire”.
+    2008—Subsec. (a). [Pub. L. 110–181][/us/pl/110/181], § 825(a)(1), substituted “, acquire, and maintain” for “and acquire”.
 
-    Subsec. (f). [Pub. L. 110–181, § 825(a)(3)][/us/pl/110/181/s825/a/3], added subsec. (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 110–181][/us/pl/110/181], § 825(a)(3), added subsec. (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 110–181, § 825(a)(2)][/us/pl/110/181/s825/a/2], (b), redesignated subsec. (f) as (g) and substituted “through 2010” for “through 2008” and “September 30, 2010” for “September 30, 2008”.
+    Subsec. (g). [Pub. L. 110–181][/us/pl/110/181], § 825(a)(2), (b), redesignated subsec. (f) as (g) and substituted “through 2010” for “through 2008” and “September 30, 2010” for “September 30, 2008”.
 
     2006—Subsec. (f). [Pub. L. 109–163][/us/pl/109/163] substituted “through 2008” for “through 2006” and “September 30, 2008” for “September 30, 2006”.
 
  __Comptroller General Report__ 
 
-    [Pub. L. 108–136, div. A, title VIII, § 848(b)][/us/pl/108/136/s848/b], Nov. 24, 2003, [117 Stat. 1555][/us/stat/117/1555], required the Comptroller General to review the implementation of this section and submit to Congress a report on such review not later than two years after Nov. 24, 2003.
+    [Pub. L. 108–136, div. A, title VIII][/us/pl/108/136/dA/tVIII], § 848(b), Nov. 24, 2003, [117 Stat. 1555][/us/stat/117/1555], required the Comptroller General to review the implementation of this section and submit to Congress a report on such review not later than two years after Nov. 24, 2003.
 
 ----------
 
@@ -80,17 +80,17 @@
 ----------
 ----------
 
-[/us/pl/108/136/s848/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs848%2Fa%2F1
+[/us/pl/108/136/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVIII
 [/us/stat/117/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1554
-[/us/pl/109/163/s846/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs846%2Fa
+[/us/pl/109/163/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVIII
 [/us/stat/119/3391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3391
-[/us/pl/110/181/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs825
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F227
-[/us/pl/110/181/s825/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs825%2Fa%2F1
-[/us/pl/110/181/s825/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs825%2Fa%2F3
-[/us/pl/110/181/s825/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs825%2Fa%2F2
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/108/136/s848/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs848%2Fb
+[/us/pl/108/136/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVIII
 [/us/stat/117/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1555
 
 

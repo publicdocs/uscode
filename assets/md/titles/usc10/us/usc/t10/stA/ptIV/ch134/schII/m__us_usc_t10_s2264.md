@@ -29,7 +29,7 @@
 
         (3) for which the Department of Defense received reimbursement after the date of the enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015.
 
-(Added [Pub. L. 113–291, div. A, title VIII, § 859(a)][/us/pl/113/291/s859/a], Dec. 19, 2014, [128 Stat. 3461][/us/stat/128/3461].)
+(Added [Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 859(a), Dec. 19, 2014, [128 Stat. 3461][/us/stat/128/3461].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
-[/us/pl/113/291/s859/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs859%2Fa
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3461
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 

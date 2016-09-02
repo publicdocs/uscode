@@ -67,7 +67,7 @@
 
     Subsections (c) and (e) of [section 2667 of this title][/us/usc/t10/s2667] shall apply with respect to in-kind consideration and proceeds received by the Secretary of a military department in connection with an easement granted under this section in the same manner as such subsections apply to in-kind consideration and money rentals received pursuant to leases entered into by that Secretary under such section.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 150][/us/stat/70A/150]; [Pub. L. 98–525, title XIV, § 1405(38)][/us/pl/98/525/s1405/38], Oct. 19, 1984, [98 Stat. 2624][/us/stat/98/2624]; [Pub. L. 104–201, div. B, title XXVIII, § 2861][/us/pl/104/201/s2861], Sept. 23, 1996, [110 Stat. 2804][/us/stat/110/2804]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. B, title XXVIII, § 2812(f)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–418; [Pub. L. 108–136, div. B, title XXVIII, § 2813(a)][/us/pl/108/136/s2813/a], Nov. 24, 2003, [117 Stat. 1725][/us/stat/117/1725]; [Pub. L. 109–163, div. A, title X, § 1057(a)(3)][/us/pl/109/163/s1057/a/3], Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440]; [Pub. L. 109–364, div. B, title XXVIII, § 2822(a)][/us/pl/109/364/s2822/a], (b), Oct. 17, 2006, [120 Stat. 2474][/us/stat/120/2474], 2475; [Pub. L. 110–181, div. A, title X, § 1063(a)(14)][/us/pl/110/181/s1063/a/14], Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 150][/us/stat/70A/150]; [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(38), Oct. 19, 1984, [98 Stat. 2624][/us/stat/98/2624]; [Pub. L. 104–201, div. B, title XXVIII][/us/pl/104/201/dB/tXXVIII], § 2861, Sept. 23, 1996, [110 Stat. 2804][/us/stat/110/2804]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. B, title XXVIII, § 2812(f)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–418; [Pub. L. 108–136, div. B, title XXVIII][/us/pl/108/136/dB/tXXVIII], § 2813(a), Nov. 24, 2003, [117 Stat. 1725][/us/stat/117/1725]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(a)(3), Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440]; [Pub. L. 109–364, div. B, title XXVIII][/us/pl/109/364/dB/tXXVIII], § 2822(a), (b), Oct. 17, 2006, [120 Stat. 2474][/us/stat/120/2474], 2475; [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1063(a)(14), Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322].)
 
 <table>
 
@@ -157,27 +157,27 @@ July 24, 1946, ch. 596, § 7, 60 Stat. 643; Oct. 25, 1951, ch. 563, § 101 (
 
     2008—Subsec. (e). [Pub. L. 110–181][/us/pl/110/181] substituted “and (e)” for “and (d)”.
 
-    2006—Subsec. (a). [Pub. L. 109–364, § 2822(a)(1)][/us/pl/109/364/s2822/a/1], (b)(1), inserted heading and, in introductory provisions, substituted “the Secretary may” for “he may”, “the Secretary considers” for “he considers”, and “the Secretary’s control” for “his control, to a State, Commonwealth, or possession, or political subdivision thereof, or to a citizen, association, partnership, or corporation of a State, Commonwealth, or possession,”.
+    2006—Subsec. (a). [Pub. L. 109–364][/us/pl/109/364], § 2822(a)(1), (b)(1), inserted heading and, in introductory provisions, substituted “the Secretary may” for “he may”, “the Secretary considers” for “he considers”, and “the Secretary’s control” for “his control, to a State, Commonwealth, or possession, or political subdivision thereof, or to a citizen, association, partnership, or corporation of a State, Commonwealth, or possession,”.
 
     [Pub. L. 109–163][/us/pl/109/163] struck out “Territory,” after “a State,” in two places in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 109–364, § 2822(a)(2)][/us/pl/109/364/s2822/a/2], substituted “gas, water, sewer, and oil pipe lines” for “oil pipe lines”.
+    Subsec. (a)(2). [Pub. L. 109–364][/us/pl/109/364], § 2822(a)(2), substituted “gas, water, sewer, and oil pipe lines” for “oil pipe lines”.
 
-    Subsec. (a)(13). [Pub. L. 109–364, § 2822(a)(3)][/us/pl/109/364/s2822/a/3], substituted “the Secretary considers advisable” for “he considers advisable, except a purpose covered by [section 2669 of this title][/us/usc/t10/s2669]”.
+    Subsec. (a)(13). [Pub. L. 109–364][/us/pl/109/364], § 2822(a)(3), substituted “the Secretary considers advisable” for “he considers advisable, except a purpose covered by [section 2669 of this title][/us/usc/t10/s2669]”.
 
-    Subsecs. (b) to (e). [Pub. L. 109–364, § 2822(b)(2)][/us/pl/109/364/s2822/b/2]–(5), inserted subsec. headings.
+    Subsecs. (b) to (e). [Pub. L. 109–364][/us/pl/109/364], § 2822(b)(2)–(5), inserted subsec. headings.
 
     2003—Subsec. (e). [Pub. L. 108–136][/us/pl/108/136] substituted “Subsections (c) and (d)” for “Subsection (d)” and “subsections apply to in-kind consideration and” for “subsection applies to” and inserted “in-kind consideration and” before “proceeds”.
 
     2000—Subsec. (e). [Pub. L. 106–398][/us/pl/106/398] added subsec. (e).
 
-    1996—Subsec. (a)(3). [Pub. L. 104–201, § 2861(b)(1)][/us/pl/104/201/s2861/b/1], struck out “, telephone lines, and telegraph lines,” after “transmission lines”.
+    1996—Subsec. (a)(3). [Pub. L. 104–201][/us/pl/104/201], § 2861(b)(1), struck out “, telephone lines, and telegraph lines,” after “transmission lines”.
 
-    Subsec. (a)(9). [Pub. L. 104–201, § 2861(a)(1)][/us/pl/104/201/s2861/a/1], struck out “and” at end.
+    Subsec. (a)(9). [Pub. L. 104–201][/us/pl/104/201], § 2861(a)(1), struck out “and” at end.
 
-    Subsec. (a)(10) to (12). [Pub. L. 104–201, § 2861(a)(3)][/us/pl/104/201/s2861/a/3], added pars. (10) to (12). Former par. (10) redesignated (13).
+    Subsec. (a)(10) to (12). [Pub. L. 104–201][/us/pl/104/201], § 2861(a)(3), added pars. (10) to (12). Former par. (10) redesignated (13).
 
-    Subsec. (a)(13). [Pub. L. 104–201, § 2861(a)(2)][/us/pl/104/201/s2861/a/2], (b)(2), redesignated par. (10) as (13) and struck out “or by the Act of March 4, 1911 ([43 U.S.C. 961][/us/usc/t43/s961])” after “2669 of this title”.
+    Subsec. (a)(13). [Pub. L. 104–201][/us/pl/104/201], § 2861(a)(2), (b)(2), redesignated par. (10) as (13) and struck out “or by the Act of March 4, 1911 ([43 U.S.C. 961][/us/usc/t43/s961])” after “2669 of this title”.
 
     1984—Subsec. (a)(10). [Pub. L. 98–525][/us/pl/98/525] substituted “the Act of March 4, 1911 ([43 U.S.C. 961][/us/usc/t43/s961])” for “[section 961 of title 43][/us/usc/t43/s961]”.
 
@@ -191,33 +191,33 @@ July 24, 1946, ch. 596, § 7, 60 Stat. 643; Oct. 25, 1951, ch. 563, § 101 (
 [/us/usc/t10/s2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2667
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F150
-[/us/pl/98/525/s1405/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F38
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2624
-[/us/pl/104/201/s2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs2861
+[/us/pl/104/201/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdB%2FtXXVIII
 [/us/stat/110/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2804
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/136/s2813/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs2813%2Fa
+[/us/pl/108/136/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdB%2FtXXVIII
 [/us/stat/117/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1725
-[/us/pl/109/163/s1057/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F3
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3440
-[/us/pl/109/364/s2822/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2822%2Fa
+[/us/pl/109/364/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdB%2FtXXVIII
 [/us/stat/120/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2474
-[/us/pl/110/181/s1063/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fa%2F14
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F322
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/109/364/s2822/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2822%2Fa%2F1
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/109/364/s2822/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2822%2Fa%2F2
-[/us/pl/109/364/s2822/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2822%2Fa%2F3
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s2669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2669
-[/us/pl/109/364/s2822/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2822%2Fb%2F2
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/104/201/s2861/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs2861%2Fb%2F1
-[/us/pl/104/201/s2861/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs2861%2Fa%2F1
-[/us/pl/104/201/s2861/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs2861%2Fa%2F3
-[/us/pl/104/201/s2861/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs2861%2Fa%2F2
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t43/s961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs961
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/usc/t43/s961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs961

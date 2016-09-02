@@ -17,7 +17,7 @@
 
     There is a court of record known as the United States Court of Appeals for the Armed Forces. The court is established under article I of the Constitution. The court is located for administrative purposes only in the Department of Defense.
 
-(Added [Pub. L. 101–189, div. A, title XIII, § 1301(c)][/us/pl/101/189/s1301/c], Nov. 29, 1989, [103 Stat. 1570][/us/stat/103/1570]; amended [Pub. L. 103–337, div. A, title IX, § 924(a)(2)][/us/pl/103/337/s924/a/2], Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831].)
+(Added [Pub. L. 101–189, div. A, title XIII][/us/pl/101/189/dA/tXIII], § 1301(c), Nov. 29, 1989, [103 Stat. 1570][/us/stat/103/1570]; amended [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(a)(2), Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Change of Name__ 
 
-[Pub. L. 103–337, div. A, title IX, § 924(a)(1)][/us/pl/103/337/s924/a/1], Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831], provided that: 
+[Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(a)(1), Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831], provided that: 
 
 > “The United States Court of Military Appeals shall hereafter be known and designated as the United States Court of Appeals for the Armed Forces.”
 
@@ -36,12 +36,12 @@
 ----------
 ----------
 
-[/us/pl/101/189/s1301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1301%2Fc
+[/us/pl/101/189/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXIII
 [/us/stat/103/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1570
-[/us/pl/103/337/s924/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fa%2F2
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2831
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
-[/us/pl/103/337/s924/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fa%2F1
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2831
 
 

@@ -21,7 +21,7 @@
 
     (c) This chapter does not apply to any person who was a civilian member after September 30, 1956.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 438][/us/stat/70A/438]; [Pub. L. 85–861, § 1(149)][/us/pl/85/861/s1/149], Sept. 2, 1958, [72 Stat. 1513][/us/stat/72/1513]; [Pub. L. 101–189, div. A, title XVI, § 1622(e)(8)][/us/pl/101/189/s1622/e/8], Nov. 29, 1989, [103 Stat. 1605][/us/stat/103/1605]; [Pub. L. 108–375, div. A, title V, § 557(b)(4)][/us/pl/108/375/s557/b/4], Oct. 28, 2004, [118 Stat. 1916][/us/stat/118/1916].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 438][/us/stat/70A/438]; [Pub. L. 85–861][/us/pl/85/861], § 1(149), Sept. 2, 1958, [72 Stat. 1513][/us/stat/72/1513]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1622(e)(8), Nov. 29, 1989, [103 Stat. 1605][/us/stat/103/1605]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 557(b)(4), Oct. 28, 2004, [118 Stat. 1916][/us/stat/118/1916].)
 
 <table>
 
@@ -185,11 +185,11 @@ Source (Statutes at Large)  </td>
 
 </table>
 
-    Subsection (c) is added to reflect the effect on chapter 607 of this title of the [Act of July 31, 1956, ch. 804, § 402(a)][/us/act/1956-07-31/ch804/s402/a] ([70 Stat. 760][/us/stat/70/760]) which brought the civilian faculties of the Naval Academy and Naval Postgraduate School under the Civil Service Retirement Act effective October 1, 1956, and provided that on and after that date the [Act of January 16, 1936, ch. 3][/us/act/1936-01-16/ch3] ([49 Stat. 1092][/us/stat/49/1092]) would no longer apply to civilians employed at those schools on or after that date.
+    Subsection (c) is added to reflect the effect on chapter 607 of this title of the [Act of July 31, 1956, ch. 804][/us/act/1956-07-31/ch804], § 402(a) ([70 Stat. 760][/us/stat/70/760]) which brought the civilian faculties of the Naval Academy and Naval Postgraduate School under the Civil Service Retirement Act effective October 1, 1956, and provided that on and after that date the [Act of January 16, 1936, ch. 3][/us/act/1936-01-16/ch3] ([49 Stat. 1092][/us/stat/49/1092]) would no longer apply to civilians employed at those schools on or after that date.
 
  __References in Text__ 
 
-    [Act of January 16, 1936, ch. 3][/us/act/1936-01-16/ch3] ([49 Stat. 1092][/us/stat/49/1092]), referred to in subsec. (b), was classified to sections 1073 to 1073f of former Title 34, Navy, and was repealed by [act Aug. 10, 1956, ch. 1041, § 53][/us/act/1956-08-10/ch1041/s53], [70A Stat. 641][/us/stat/70A/641]. See section 7081 et seq. of this title.
+    [Act of January 16, 1936, ch. 3][/us/act/1936-01-16/ch3] ([49 Stat. 1092][/us/stat/49/1092]), referred to in subsec. (b), was classified to sections 1073 to 1073f of former Title 34, Navy, and was repealed by [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 53, [70A Stat. 641][/us/stat/70A/641]. See section 7081 et seq. of this title.
 
  __Amendments__ 
 
@@ -210,23 +210,23 @@ Source (Statutes at Large)  </td>
 [/us/stat/49/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1092
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F438
-[/us/pl/85/861/s1/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F149
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1513
-[/us/pl/101/189/s1622/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fe%2F8
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1605
-[/us/pl/108/375/s557/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs557%2Fb%2F4
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1916
 [/us/act/1936-01-16/ch3/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-01-16%2Fch3%2Fs4
 [/us/stat/49/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1092
 [/us/act/1943-11-28/ch331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-11-28%2Fch331
 [/us/stat/57/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F594
-[/us/act/1956-07-31/ch804/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-31%2Fch804%2Fs402%2Fa
+[/us/act/1956-07-31/ch804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-31%2Fch804
 [/us/stat/70/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F760
 [/us/act/1936-01-16/ch3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-01-16%2Fch3
 [/us/stat/49/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1092
 [/us/act/1936-01-16/ch3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-01-16%2Fch3
 [/us/stat/49/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1092
-[/us/act/1956-08-10/ch1041/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs53
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189

@@ -43,7 +43,7 @@
 
     (f) The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added [Pub. L. 107–314, div. A, title IX, § 931(a)][/us/pl/107/314/s931/a], Dec. 2, 2002, [116 Stat. 2624][/us/stat/116/2624]; amended [Pub. L. 108–136, div. A, title IX, § 931(d)][/us/pl/108/136/s931/d], Nov. 24, 2003, [117 Stat. 1581][/us/stat/117/1581].)
+(Added [Pub. L. 107–314, div. A, title IX][/us/pl/107/314/dA/tIX], § 931(a), Dec. 2, 2002, [116 Stat. 2624][/us/stat/116/2624]; amended [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 931(d), Nov. 24, 2003, [117 Stat. 1581][/us/stat/117/1581].)
 
  __Amendments__ 
 
@@ -59,9 +59,9 @@
 [/us/usc/t10/s2166/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2166%2Ff%2F4
 [/us/usc/t10/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2601
 [/us/usc/t10/s2165/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2165%2Fb
-[/us/pl/107/314/s931/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs931%2Fa
+[/us/pl/107/314/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtIX
 [/us/stat/116/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2624
-[/us/pl/108/136/s931/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs931%2Fd
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1581
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 

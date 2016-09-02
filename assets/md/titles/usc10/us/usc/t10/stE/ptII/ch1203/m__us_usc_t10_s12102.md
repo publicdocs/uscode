@@ -27,7 +27,7 @@
 
     (c) A person who is otherwise qualified, but who has a physical defect that the Secretary concerned determines will not interfere with the performance of the duties to which that person may be assigned, may be enlisted as a Reserve of any armed force under the jurisdiction of that Secretary.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 17][/us/stat/70A/17], § 510; [Pub. L. 88–236][/us/pl/88/236], Dec. 23, 1963, [77 Stat. 474][/us/stat/77/474]; [Pub. L. 90–130, § 1(2)][/us/pl/90/130/s1/2], Nov. 8, 1967, [81 Stat. 374][/us/stat/81/374]; [Pub. L. 90–623, § 2(3)][/us/pl/90/623/s2/3], Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 96–513, title V, § 511(13)][/us/pl/96/513/s511/13], Dec. 12, 1980, [94 Stat. 2921][/us/stat/94/2921]; renumbered § 12102 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337], §§ 1631(a), 1662(b)(2), 1675(a), Oct. 5, 1994, [108 Stat. 2964][/us/stat/108/2964], 2989, 3017; [Pub. L. 104–106, div. A, title XV, § 1501(a)(5)(A)][/us/pl/104/106/s1501/a/5/A], Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 17][/us/stat/70A/17], § 510; [Pub. L. 88–236][/us/pl/88/236], Dec. 23, 1963, [77 Stat. 474][/us/stat/77/474]; [Pub. L. 90–130][/us/pl/90/130], § 1(2), Nov. 8, 1967, [81 Stat. 374][/us/stat/81/374]; [Pub. L. 90–623][/us/pl/90/623], § 2(3), Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(13), Dec. 12, 1980, [94 Stat. 2921][/us/stat/94/2921]; renumbered § 12102 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], §§ 1631(a), 1662(b)(2), 1675(a), Oct. 5, 1994, [108 Stat. 2964][/us/stat/108/2964], 2989, 3017; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(a)(5)(A), Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495].)
 
 <table>
 
@@ -99,13 +99,13 @@ July 9, 1952, ch. 608, §§ 217 (less (c), as applicable to enlistments), 228 
 
  __Amendments__ 
 
-    1996—Subsecs. (c), (d). [Pub. L. 104–106][/us/pl/104/106] made technical correction to directory language of [Pub. L. 103–337, § 1631(a)][/us/pl/103/337/s1631/a]. See 1994 Amendment note below.
+    1996—Subsecs. (c), (d). [Pub. L. 104–106][/us/pl/104/106] made technical correction to directory language of [Pub. L. 103–337][/us/pl/103/337], § 1631(a). See 1994 Amendment note below.
 
-    1994—[Pub. L. 103–337, § 1662(b)(2)][/us/pl/103/337/s1662/b/2], renumbered [section 510 of this title][/us/usc/t10/s510] as this section.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 1662(b)(2), renumbered [section 510 of this title][/us/usc/t10/s510] as this section.
 
-    Subsec. (a). [Pub. L. 103–337, § 1675(a)][/us/pl/103/337/s1675/a], substituted “12107” for “3261 or 8261”.
+    Subsec. (a). [Pub. L. 103–337][/us/pl/103/337], § 1675(a), substituted “12107” for “3261 or 8261”.
 
-    Subsecs. (c), (d). [Pub. L. 103–337, § 1631(a)][/us/pl/103/337/s1631/a], as amended by [Pub. L. 104–106][/us/pl/104/106], redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Women may be enlisted as Reserves of the armed forces. Women are enlisted in the grades and ratings authorized for enlisted women of the regular component of the armed force concerned. Any female former enlisted member of an armed force may, if otherwise qualified, be enlisted as a Reserve of that armed force in the highest grade or rating in which she previously served satisfactorily on active duty (other than for training).”
+    Subsecs. (c), (d). [Pub. L. 103–337][/us/pl/103/337], § 1631(a), as amended by [Pub. L. 104–106][/us/pl/104/106], redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Women may be enlisted as Reserves of the armed forces. Women are enlisted in the grades and ratings authorized for enlisted women of the regular component of the armed force concerned. Any female former enlisted member of an armed force may, if otherwise qualified, be enlisted as a Reserve of that armed force in the highest grade or rating in which she previously served satisfactorily on active duty (other than for training).”
 
     1980—Subsec. (b)(1). [Pub. L. 96–513][/us/pl/96/513] substituted “the Immigration and Nationality Act ([8 U.S.C. 1101][/us/usc/t8/s1101] et seq.)” for “chapter 12 of title 8”.
 
@@ -133,7 +133,7 @@ July 9, 1952, ch. 608, §§ 217 (less (c), as applicable to enlistments), 228 
 
  __Treatment of Single Parents Enlisting in Reserve Components of the Armed Forces__ 
 
-    [Pub. L. 99–661, div. A, title V, § 523][/us/pl/99/661/s523], Nov. 14, 1986, [100 Stat. 3871][/us/stat/100/3871], as amended by [Pub. L. 100–180, div. A, title V, § 503][/us/pl/100/180/s503], Dec. 4, 1987, [101 Stat. 1085][/us/stat/101/1085]; [Pub. L. 101–189, div. A, title V, § 504][/us/pl/101/189/s504], Nov. 29, 1989, [103 Stat. 1437][/us/stat/103/1437], which provided that, in determining under section 510 \[now 12102\] of title 10 whether a person who is applying to enlist in a reserve component of the Armed Forces upon discharge or release from active duty is qualified for enlistment as a Reserve of an Armed Force, the Secretary concerned may not disqualify the person because the person is a single parent if the person is otherwise qualified for enlistment, the person became a single parent while serving on active duty, and the person’s status as a single parent was not a factor in the person’s discharge or release from active duty, with provision that the requirements imposed with respect to parenthood not be more stringent than those imposed on a member who becomes a single parent during the term of the member’s enlistment, and with provision defining “single parent” as a person who is not married and who has custody of a child under the age of 18 pursuant to a court order, expired on Sept. 30, 1991.
+    [Pub. L. 99–661, div. A, title V][/us/pl/99/661/dA/tV], § 523, Nov. 14, 1986, [100 Stat. 3871][/us/stat/100/3871], as amended by [Pub. L. 100–180, div. A, title V][/us/pl/100/180/dA/tV], § 503, Dec. 4, 1987, [101 Stat. 1085][/us/stat/101/1085]; [Pub. L. 101–189, div. A, title V][/us/pl/101/189/dA/tV], § 504, Nov. 29, 1989, [103 Stat. 1437][/us/stat/103/1437], which provided that, in determining under section 510 \[now 12102\] of title 10 whether a person who is applying to enlist in a reserve component of the Armed Forces upon discharge or release from active duty is qualified for enlistment as a Reserve of an Armed Force, the Secretary concerned may not disqualify the person because the person is a single parent if the person is otherwise qualified for enlistment, the person became a single parent while serving on active duty, and the person’s status as a single parent was not a factor in the person’s discharge or release from active duty, with provision that the requirements imposed with respect to parenthood not be more stringent than those imposed on a member who becomes a single parent during the term of the member’s enlistment, and with provision defining “single parent” as a person who is not married and who has custody of a child under the age of 18 pursuant to a court order, expired on Sept. 30, 1991.
 
 ----------
 
@@ -149,25 +149,25 @@ July 9, 1952, ch. 608, §§ 217 (less (c), as applicable to enlistments), 228 
 [/us/stat/70A/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F17
 [/us/pl/88/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F236
 [/us/stat/77/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F474
-[/us/pl/90/130/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs1%2F2
+[/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/stat/81/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F374
-[/us/pl/90/623/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs2%2F3
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1314
-[/us/pl/96/513/s511/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F13
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2921
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2964
-[/us/pl/104/106/s1501/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fa%2F5%2FA
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F495
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/337/s1631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1631%2Fa
-[/us/pl/103/337/s1662/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fb%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs510
-[/us/pl/103/337/s1675/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1675%2Fa
-[/us/pl/103/337/s1631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1631%2Fa
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
@@ -188,11 +188,11 @@ July 9, 1952, ch. 608, §§ 217 (less (c), as applicable to enlistments), 228 
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/90/623/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs6
 [/us/usc/t5/s5334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5334
-[/us/pl/99/661/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs523
+[/us/pl/99/661/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtV
 [/us/stat/100/3871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3871
-[/us/pl/100/180/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs503
+[/us/pl/100/180/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtV
 [/us/stat/101/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1085
-[/us/pl/101/189/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs504
+[/us/pl/101/189/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtV
 [/us/stat/103/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1437
 
 

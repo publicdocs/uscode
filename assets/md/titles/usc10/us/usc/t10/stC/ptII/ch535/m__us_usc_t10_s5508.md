@@ -17,7 +17,7 @@
 
     Except for an officer entitled to a rank higher than his grade, line and staff corps officers of the Navy serving in the same grade and officers of the Marine Corps serving in the corresponding grade rank among themselves according to their respective dates of rank in grade whether or not they are on an active-duty list.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 317][/us/stat/70A/317]; [Pub. L. 90–179, § 4][/us/pl/90/179/s4], Dec. 8, 1967, [81 Stat. 547][/us/stat/81/547]; [Pub. L. 96–513, title V, § 503(27)][/us/pl/96/513/s503/27], Dec. 12, 1980, [94 Stat. 2913][/us/stat/94/2913].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 317][/us/stat/70A/317]; [Pub. L. 90–179][/us/pl/90/179], § 4, Dec. 8, 1967, [81 Stat. 547][/us/stat/81/547]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 503(27), Dec. 12, 1980, [94 Stat. 2913][/us/stat/94/2913].)
 
 <table>
 
@@ -86,9 +86,9 @@ Aug. 7, 1947, ch. 512, § 311(d)(2), 61 Stat. 852; Aug. 5, 1949, ch. 402, §�
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F317
-[/us/pl/90/179/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179%2Fs4
+[/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
 [/us/stat/81/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F547
-[/us/pl/96/513/s503/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs503%2F27
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2913
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179

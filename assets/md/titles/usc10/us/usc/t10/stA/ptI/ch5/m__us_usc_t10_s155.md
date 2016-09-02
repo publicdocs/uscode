@@ -75,7 +75,7 @@
 
         (2) The Joint Staff does not include members of the armed forces or civilian employees assigned or detailed to permanent duty in a military department.
 
-(Added [Pub. L. 99–433, title II, § 201][/us/pl/99/433/s201], Oct. 1, 1986, [100 Stat. 1009][/us/stat/100/1009]; amended [Pub. L. 100–180, div. A, title XIII, § 1314(b)(2)][/us/pl/100/180/s1314/b/2], Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175]; [Pub. L. 101–510, div. A, title IX, § 902][/us/pl/101/510/s902], Nov. 5, 1990, [104 Stat. 1620][/us/stat/104/1620]; [Pub. L. 102–484, div. A, title IX, § 911(b)(2)][/us/pl/102/484/s911/b/2], Oct. 23, 1992, [106 Stat. 2473][/us/stat/106/2473]; [Pub. L. 103–35, title II, § 202(a)(8)][/us/pl/103/35/s202/a/8], May 31, 1993, [107 Stat. 101][/us/stat/107/101]; [Pub. L. 113–291, div. A, title X, § 1071(c)(1)][/us/pl/113/291/s1071/c/1], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
+(Added [Pub. L. 99–433, title II][/us/pl/99/433/tII], § 201, Oct. 1, 1986, [100 Stat. 1009][/us/stat/100/1009]; amended [Pub. L. 100–180, div. A, title XIII][/us/pl/100/180/dA/tXIII], § 1314(b)(2), Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175]; [Pub. L. 101–510, div. A, title IX][/us/pl/101/510/dA/tIX], § 902, Nov. 5, 1990, [104 Stat. 1620][/us/stat/104/1620]; [Pub. L. 102–484, div. A, title IX][/us/pl/102/484/dA/tIX], § 911(b)(2), Oct. 23, 1992, [106 Stat. 2473][/us/stat/106/2473]; [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 202(a)(8), May 31, 1993, [107 Stat. 101][/us/stat/107/101]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(c)(1), Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
 
  __Amendments__ 
 
@@ -93,13 +93,13 @@
 
     “(B) during a national emergency declared by the President or Congress.”
 
-    1987—Subsec. (f)(4)(B). [Pub. L. 100–180, § 1314(b)(2)(A)][/us/pl/100/180/s1314/b/2/A], inserted “or Congress” after “by the President”.
+    1987—Subsec. (f)(4)(B). [Pub. L. 100–180][/us/pl/100/180], § 1314(b)(2)(A), inserted “or Congress” after “by the President”.
 
-    Subsec. (g)(2)(B). [Pub. L. 100–180, § 1314(b)(2)(B)][/us/pl/100/180/s1314/b/2/B], inserted “the President or” after “declared by”.
+    Subsec. (g)(2)(B). [Pub. L. 100–180][/us/pl/100/180], § 1314(b)(2)(B), inserted “the President or” after “declared by”.
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–35, title II, § 202(b)][/us/pl/103/35/s202/b], May 31, 1993, [107 Stat. 102][/us/stat/107/102], provided that: 
+[Pub. L. 103–35, title II][/us/pl/103/35/tII], § 202(b), May 31, 1993, [107 Stat. 102][/us/stat/107/102], provided that: 
 
 > “The amendments made by this section \[amending this section, sections 1079, 1086a, 1174a, 1463, 2323, 2347, 2391, and 2410d of this title, and sections 5013 and 5113 of former Title 36, Patriotic Societies and Observances, and amending provisions set out as notes under sections 664, 2350a, 2431, 2501, 2505, 10105, and 12681 of this title and [section 5611 of Title 15][/us/usc/t15/s5611], Commerce and Trade\] shall apply as if included in the enactment of the National Defense Authorization Act for Fiscal Year 1993 ([Public Law 102–484][/us/pl/102/484]).”
 
@@ -109,7 +109,7 @@
 
  __Increased Flexibility in Use of Funds for Joint Staff Exercises__ 
 
-[Pub. L. 109–364, div. A, title X, § 1052][/us/pl/109/364/s1052], Oct. 17, 2006, [120 Stat. 2396][/us/stat/120/2396], provided that:
+[Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1052, Oct. 17, 2006, [120 Stat. 2396][/us/stat/120/2396], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -127,7 +127,7 @@
 
  __Assistants to Chairman of the Joint Chiefs of Staff for National Guard Matters and for Reserve Matters__ 
 
-    [Pub. L. 105–85, div. A, title IX, § 901][/us/pl/105/85/s901], Nov. 18, 1997, [111 Stat. 1853][/us/stat/111/1853], as amended by [Pub. L. 109–163, div. A, title V, § 515(h)][/us/pl/109/163/s515/h], Jan. 6, 2006, [119 Stat. 3237][/us/stat/119/3237], which established the positions of Assistant to the Chairman of the Joint Chiefs of Staff for National Guard Matters and Assistant to the Chairman of the Joint Chiefs of Staff for Reserve Matters within the Joint Staff, was repealed and restated as [section 155a of this title][/us/usc/t10/s155a] by [Pub. L. 112–239, § 511(a)][/us/pl/112/239/s511/a], (c), Jan. 2, 2013, [126 Stat. 1717][/us/stat/126/1717], 1718.
+    [Pub. L. 105–85, div. A, title IX][/us/pl/105/85/dA/tIX], § 901, Nov. 18, 1997, [111 Stat. 1853][/us/stat/111/1853], as amended by [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(h), Jan. 6, 2006, [119 Stat. 3237][/us/stat/119/3237], which established the positions of Assistant to the Chairman of the Joint Chiefs of Staff for National Guard Matters and Assistant to the Chairman of the Joint Chiefs of Staff for Reserve Matters within the Joint Staff, was repealed and restated as [section 155a of this title][/us/usc/t10/s155a] by [Pub. L. 112–239][/us/pl/112/239], § 511(a), (c), Jan. 2, 2013, [126 Stat. 1717][/us/stat/126/1717], 1718.
 
 ----------
 
@@ -137,17 +137,17 @@
 ----------
 
 [/us/usc/t50/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3002
-[/us/pl/99/433/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs201
+[/us/pl/99/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtII
 [/us/stat/100/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1009
-[/us/pl/100/180/s1314/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fb%2F2
+[/us/pl/100/180/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXIII
 [/us/stat/101/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1175
-[/us/pl/101/510/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs902
+[/us/pl/101/510/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIX
 [/us/stat/104/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1620
-[/us/pl/102/484/s911/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs911%2Fb%2F2
+[/us/pl/102/484/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIX
 [/us/stat/106/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2473
-[/us/pl/103/35/s202/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs202%2Fa%2F8
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F101
-[/us/pl/113/291/s1071/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F1
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t50/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3002
@@ -157,21 +157,21 @@
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/100/180/s1314/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fb%2F2%2FA
-[/us/pl/100/180/s1314/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fb%2F2%2FB
-[/us/pl/103/35/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs202%2Fb
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F102
 [/us/usc/t15/s5611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5611
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/109/364/s1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1052
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2396
-[/us/pl/105/85/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs901
+[/us/pl/105/85/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIX
 [/us/stat/111/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1853
-[/us/pl/109/163/s515/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fh
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3237
 [/us/usc/t10/s155a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs155a
-[/us/pl/112/239/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs511%2Fa
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1717
 
 

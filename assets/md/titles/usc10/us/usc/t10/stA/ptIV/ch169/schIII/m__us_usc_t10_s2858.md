@@ -17,7 +17,7 @@
 
     Funds appropriated for military construction (including military family housing) may not be expended for additional costs involved in expediting a construction project unless the Secretary concerned (1) certifies that expenditures for such costs are necessary to protect the national interest, and (2) establishes a reasonable completion date for the project. In establishing such a completion date, the Secretary shall take into consideration the urgency of the requirement for completion of the project, the type and location of the project, the climatic and seasonal conditions affecting the construction involved, and the application of economical construction practices.
 
-(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 167][/us/stat/96/167].)
+(Added [Pub. L. 97–214][/us/pl/97/214], § 2(a), July 12, 1982, [96 Stat. 167][/us/stat/96/167].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/97/214/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs2%2Fa
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F167
 [/us/pl/97/214/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs12%2Fa
 [/us/usc/t10/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2801

@@ -19,7 +19,7 @@
 
     (b) The Secretary of the Navy may authorize experiments to be made at the Model Basin for private persons. The costs of experiments made for private persons shall be paid by those persons under regulations prescribed by the Secretary. The results of private experiments are confidential and may not be divulged without the consent of the persons for whom they are made. However, the data obtained from such experiments may be used by the Secretary for governmental purposes, subject to the patent laws of the United States.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 451][/us/stat/70A/451]; [Pub. L. 89–718, § 41][/us/pl/89/718/s41], Nov. 2, 1966, [80 Stat. 1120][/us/stat/80/1120].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 451][/us/stat/70A/451]; [Pub. L. 89–718][/us/pl/89/718], § 41, Nov. 2, 1966, [80 Stat. 1120][/us/stat/80/1120].)
 
 <table>
 
@@ -80,7 +80,7 @@ May 6, 1936, ch. 333, 49 Stat. 1263; June 20, 1940, ch. 400, § 1(a), (b), 54 
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F451
-[/us/pl/89/718/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs41
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1120
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 

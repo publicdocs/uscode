@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stB/ptII/ch349/m__us_usc_t10_s3637.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch349/m__us_usc_t10_s3639.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3638)
 
-## \[§ 3638. Repealed. [Pub. L. 85–861, § 36B(8)][/us/pl/85/861/s36B/8], Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570]\]
+## \[§ 3638. Repealed. [Pub. L. 85–861][/us/pl/85/861], § 36B(8), Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 208][/us/stat/70A/208], required enlisted members to make up time lost. See [section 972(a) of this title][/us/usc/t10/s972/a].
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/pl/85/861/s36B/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs36B%2F8
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1570
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F208

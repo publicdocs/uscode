@@ -47,7 +47,7 @@
 
     With respect to naval vessel programs and military satellite programs, low-rate initial production is production of items at the minimum quantity and rate that (1) preserves the mobilization production base for that system, and (2) is feasible, as determined pursuant to regulations prescribed by the Secretary of Defense.
 
-(Added [Pub. L. 101–189, div. A, title VIII, § 803(a)][/us/pl/101/189/s803/a], Nov. 29, 1989, [103 Stat. 1487][/us/stat/103/1487]; amended [Pub. L. 103–355, title III, § 3015][/us/pl/103/355/s3015], Oct. 13, 1994, [108 Stat. 3332][/us/stat/108/3332]; [Pub. L. 104–106, div. A, title X, § 1062(d)][/us/pl/104/106/s1062/d], div. D, title XLIII, § 4321(b)(13), Feb. 10, 1996, [110 Stat. 444][/us/stat/110/444], 673; [Pub. L. 107–107, div. A, title VIII, § 821(c)][/us/pl/107/107/s821/c], Dec. 28, 2001, [115 Stat. 1182][/us/stat/115/1182].)
+(Added [Pub. L. 101–189, div. A, title VIII][/us/pl/101/189/dA/tVIII], § 803(a), Nov. 29, 1989, [103 Stat. 1487][/us/stat/103/1487]; amended [Pub. L. 103–355, title III][/us/pl/103/355/tIII], § 3015, Oct. 13, 1994, [108 Stat. 3332][/us/stat/108/3332]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1062(d), div. D, title XLIII, § 4321(b)(13), Feb. 10, 1996, [110 Stat. 444][/us/stat/110/444], 673; [Pub. L. 107–107, div. A, title VIII][/us/pl/107/107/dA/tVIII], § 821(c), Dec. 28, 2001, [115 Stat. 1182][/us/stat/115/1182].)
 
  __Prior Provisions__ 
 
@@ -55,15 +55,15 @@
 
  __Amendments__ 
 
-    2001—Subsec. (a)(1)(A). [Pub. L. 107–107, § 821(c)(1)][/us/pl/107/107/s821/c/1], substituted “milestone B” for “milestone II”.
+    2001—Subsec. (a)(1)(A). [Pub. L. 107–107][/us/pl/107/107], § 821(c)(1), substituted “milestone B” for “milestone II”.
 
     Subsec. (a)(2). [Pub. L. 107–107][/us/pl/107/107] substituted “milestone B” for “milestone II” and “system development and demonstration” for “engineering and manufacturing development”.
 
-    Subsec. (a)(4), (5). [Pub. L. 107–107, § 821(c)(1)][/us/pl/107/107/s821/c/1], substituted “milestone B” for “milestone II”.
+    Subsec. (a)(4), (5). [Pub. L. 107–107][/us/pl/107/107], § 821(c)(1), substituted “milestone B” for “milestone II”.
 
-    1996—Subsec. (a)(5). [Pub. L. 104–106, § 4321(b)(13)][/us/pl/104/106/s4321/b/13], substituted “this paragraph” for “the preceding sentence”.
+    1996—Subsec. (a)(5). [Pub. L. 104–106][/us/pl/104/106], § 4321(b)(13), substituted “this paragraph” for “the preceding sentence”.
 
-    Subsec. (c). [Pub. L. 104–106, § 1062(d)][/us/pl/104/106/s1062/d], struck out “(1)” before “With respect to”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: “For each naval vessel program and military satellite program, the Secretary of Defense shall submit to Congress a report providing—
+    Subsec. (c). [Pub. L. 104–106][/us/pl/104/106], § 1062(d), struck out “(1)” before “With respect to”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: “For each naval vessel program and military satellite program, the Secretary of Defense shall submit to Congress a report providing—
 
     “(A) an explanation of the rate and quantity prescribed for low-rate initial production and the considerations in establishing that rate and quantity;
 
@@ -71,11 +71,11 @@
 
     “(C) an acquisition strategy for that program that has been approved by the Secretary, to include the procurement objectives in terms of total quantity of articles to be procured and annual production rates.”
 
-    1994—Subsec. (a)(2). [Pub. L. 103–355, § 3015(1)][/us/pl/103/355/s3015/1], substituted “this section” for “paragraph (1)” and “engineering and manufacturing development” for “full-scale engineering development”.
+    1994—Subsec. (a)(2). [Pub. L. 103–355][/us/pl/103/355], § 3015(1), substituted “this section” for “paragraph (1)” and “engineering and manufacturing development” for “full-scale engineering development”.
 
-    Subsec. (a)(4). [Pub. L. 103–355, § 3015(2)][/us/pl/103/355/s3015/2], (3), added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (a)(4). [Pub. L. 103–355][/us/pl/103/355], § 3015(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (a)(5). [Pub. L. 103–355, § 3015(2)][/us/pl/103/355/s3015/2], redesignated par. (4) as (5) and inserted after first sentence “If the quantity exceeds 10 percent of the total number of articles to be produced, as determined at the milestone II decision with respect to that system, the Secretary shall include in the statement the reasons for such quantity.”
+    Subsec. (a)(5). [Pub. L. 103–355][/us/pl/103/355], § 3015(2), redesignated par. (4) as (5) and inserted after first sentence “If the quantity exceeds 10 percent of the total number of articles to be produced, as determined at the milestone II decision with respect to that system, the Secretary shall include in the statement the reasons for such quantity.”
 
  __Effective Date of 1996 Amendment__ 
 
@@ -90,23 +90,23 @@
 
 [/us/usc/t10/s2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432
 [/us/usc/t10/s2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2399
-[/us/pl/101/189/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs803%2Fa
+[/us/pl/101/189/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVIII
 [/us/stat/103/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1487
-[/us/pl/103/355/s3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3015
+[/us/pl/103/355/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtIII
 [/us/stat/108/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3332
-[/us/pl/104/106/s1062/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1062%2Fd
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F444
-[/us/pl/107/107/s821/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs821%2Fc
+[/us/pl/107/107/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVIII
 [/us/stat/115/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1182
 [/us/usc/t10/s2534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2534
-[/us/pl/107/107/s821/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs821%2Fc%2F1
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/107/107/s821/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs821%2Fc%2F1
-[/us/pl/104/106/s4321/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4321%2Fb%2F13
-[/us/pl/104/106/s1062/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1062%2Fd
-[/us/pl/103/355/s3015/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3015%2F1
-[/us/pl/103/355/s3015/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3015%2F2
-[/us/pl/103/355/s3015/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3015%2F2
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/104/106/s4321/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4321%2Fb%2F13
 [/us/pl/104/106/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4401
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302

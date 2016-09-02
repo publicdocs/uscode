@@ -35,25 +35,25 @@
 
         (3) This subsection applies to a medical officer or dental officer or an officer appointed in a medical skill other than as a medical officer or dental officer (as defined in regulations prescribed by the Secretary of Defense).
 
-(Added [Pub. L. 96–513, title I, § 105][/us/pl/96/513/s105], Dec. 12, 1980, [94 Stat. 2862][/us/stat/94/2862]; amended [Pub. L. 107–107, div. A, title V, § 505(d)(3)][/us/pl/107/107/s505/d/3], (4)(C), Dec. 28, 2001, [115 Stat. 1088][/us/stat/115/1088]; [Pub. L. 108–136, div. A, title V, § 505(a)][/us/pl/108/136/s505/a], (b), Nov. 24, 2003, [117 Stat. 1457][/us/stat/117/1457]; [Pub. L. 108–375, div. A, title X, § 1084(d)(6)][/us/pl/108/375/s1084/d/6], Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 105, Dec. 12, 1980, [94 Stat. 2862][/us/stat/94/2862]; amended [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 505(d)(3), (4)(C), Dec. 28, 2001, [115 Stat. 1088][/us/stat/115/1088]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 505(a), (b), Nov. 24, 2003, [117 Stat. 1457][/us/stat/117/1457]; [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(d)(6), Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061].)
 
  __Amendments__ 
 
     2004—Subsec. (c)(1). [Pub. L. 108–375][/us/pl/108/375] substituted “paragraph (3)” for “paragraph (2)” and “under that subsection” for “under that paragraph” before “, the officer has not”.
 
-    2003—Subsec. (a)(1). [Pub. L. 108–136, § 505(a)(1)][/us/pl/108/136/s505/a/1], inserted “except as provided in paragraph (3) and in subsection (c),” before “be discharged”.
+    2003—Subsec. (a)(1). [Pub. L. 108–136][/us/pl/108/136], § 505(a)(1), inserted “except as provided in paragraph (3) and in subsection (c),” before “be discharged”.
 
-    Subsec. (a)(3). [Pub. L. 108–136, § 505(b)][/us/pl/108/136/s505/b], substituted “paragraph” for “clause”.
+    Subsec. (a)(3). [Pub. L. 108–136][/us/pl/108/136], § 505(b), substituted “paragraph” for “clause”.
 
-    Subsec. (c). [Pub. L. 108–136, § 505(a)(2)][/us/pl/108/136/s505/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 108–136][/us/pl/108/136], § 505(a)(2), added subsec. (c).
 
-    2001—[Pub. L. 107–107, § 505(d)(4)(C)][/us/pl/107/107/s505/d/4/C], struck out “regular” before “captains and majors” and before “lieutenants and lieutenant commanders” in section catchline.
+    2001—[Pub. L. 107–107][/us/pl/107/107], § 505(d)(4)(C), struck out “regular” before “captains and majors” and before “lieutenants and lieutenant commanders” in section catchline.
 
-    Subsec. (a). [Pub. L. 107–107, § 505(d)(3)][/us/pl/107/107/s505/d/3], in introductory provisions, substituted “Army, Air Force, or Marine Corps on the active-duty list” for “Regular Army, Regular Air Force, or Regular Marine Corps” and “Navy on the active-duty list” for “Regular Navy” and struck out “regular” before “grade” wherever appearing.
+    Subsec. (a). [Pub. L. 107–107][/us/pl/107/107], § 505(d)(3), in introductory provisions, substituted “Army, Air Force, or Marine Corps on the active-duty list” for “Regular Army, Regular Air Force, or Regular Marine Corps” and “Navy on the active-duty list” for “Regular Navy” and struck out “regular” before “grade” wherever appearing.
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–136, div. A, title V, § 505(c)][/us/pl/108/136/s505/c], Nov. 24, 2003, [117 Stat. 1457][/us/stat/117/1457], provided that: 
+[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 505(c), Nov. 24, 2003, [117 Stat. 1457][/us/stat/117/1457], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall not apply in the case of an officer who as of the date of the enactment of this Act \[Nov. 24, 2003\] is required to be discharged under [section 632(a)(1) of title 10][/us/usc/t10/s632/a/1], United States Code, by reason of having failed of selection for promotion to the next higher regular grade a second time.”
 
@@ -65,21 +65,21 @@
 ----------
 
 [/us/usc/t10/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs637%2Fa
-[/us/pl/96/513/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs105
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2862
-[/us/pl/107/107/s505/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fd%2F3
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1088
-[/us/pl/108/136/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs505%2Fa
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1457
-[/us/pl/108/375/s1084/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F6
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2061
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/108/136/s505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs505%2Fa%2F1
-[/us/pl/108/136/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs505%2Fb
-[/us/pl/108/136/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs505%2Fa%2F2
-[/us/pl/107/107/s505/d/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fd%2F4%2FC
-[/us/pl/107/107/s505/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fd%2F3
-[/us/pl/108/136/s505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs505%2Fc
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1457
 [/us/usc/t10/s632/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs632%2Fa%2F1
 

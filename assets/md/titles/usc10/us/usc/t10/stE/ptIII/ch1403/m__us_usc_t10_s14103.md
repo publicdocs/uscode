@@ -17,11 +17,11 @@
 
     Each member of a selection board convened under [section 14101 of this title][/us/usc/t10/s14101] shall take an oath to perform the duties of a member of the board without prejudice or partiality, having in view both the special fitness of officers and the efficiency of the member’s armed force.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2925][/us/stat/108/2925].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2925][/us/stat/108/2925].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 3362(d), 5894, and 8362(d) of this title, prior to repeal by [Pub. L. 103–337, § 1629(a)(1)][/us/pl/103/337/s1629/a/1], (b)(2), (c)(1).
+    Provisions similar to those in this section were contained in sections 3362(d), 5894, and 8362(d) of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(a)(1), (b)(2), (c)(1).
 
 ----------
 
@@ -31,8 +31,8 @@
 ----------
 
 [/us/usc/t10/s14101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2925
-[/us/pl/103/337/s1629/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fa%2F1
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 
 

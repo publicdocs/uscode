@@ -83,7 +83,7 @@
 
         (6) The Secretary shall prescribe regulations for the administration of this subsection.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 561][/us/stat/70A/561]; [Pub. L. 99–145, title V, § 504(a)(1)][/us/pl/99/145/s504/a/1], (2)(A), Nov. 8, 1985, [99 Stat. 622][/us/stat/99/622]; [Pub. L. 99–661, div. A, title V, § 510][/us/pl/99/661/s510], Nov. 14, 1986, [100 Stat. 3868][/us/stat/100/3868]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 106(b)(6)(C)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1440; [Pub. L. 105–261, div. A, title XI, § 1102][/us/pl/105/261/s1102], Oct. 17, 1998, [112 Stat. 2141][/us/stat/112/2141]; [Pub. L. 108–136, div. A, title V, § 533][/us/pl/108/136/s533], Nov. 24, 2003, [117 Stat. 1473][/us/stat/117/1473]; [Pub. L. 109–163, div. A, title V, § 522(e)][/us/pl/109/163/s522/e], Jan. 6, 2006, [119 Stat. 3243][/us/stat/119/3243]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, §§ 543(h)(1), 544, Oct. 14, 2008, [122 Stat. 4463][/us/stat/122/4463], 4465.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 561][/us/stat/70A/561]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 504(a)(1), (2)(A), Nov. 8, 1985, [99 Stat. 622][/us/stat/99/622]; [Pub. L. 99–661, div. A, title V][/us/pl/99/661/dA/tV], § 510, Nov. 14, 1986, [100 Stat. 3868][/us/stat/100/3868]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 106(b)(6)(C)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1440; [Pub. L. 105–261, div. A, title XI][/us/pl/105/261/dA/tXI], § 1102, Oct. 17, 1998, [112 Stat. 2141][/us/stat/112/2141]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 533, Nov. 24, 2003, [117 Stat. 1473][/us/stat/117/1473]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 522(e), Jan. 6, 2006, [119 Stat. 3243][/us/stat/119/3243]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, §§ 543(h)(1), 544, Oct. 14, 2008, [122 Stat. 4463][/us/stat/122/4463], 4465.)
 
 <table>
 
@@ -131,17 +131,17 @@ Aug. 31, 1954, ch. 1151, 68 Stat. 1006.  </td>
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–417, § 543(h)(1)][/us/pl/110/417/s543/h/1], amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to conferral of degrees, civilian faculty, costs of instruction, and research grants at the United States Air Force Institute of Technology.
+    2008—[Pub. L. 110–417][/us/pl/110/417], § 543(h)(1), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to conferral of degrees, civilian faculty, costs of instruction, and research grants at the United States Air Force Institute of Technology.
 
-    Subsec. (e)(4), (5). [Pub. L. 110–417, § 544][/us/pl/110/417/s544], added pars. (4) and (5).
+    Subsec. (e)(4), (5). [Pub. L. 110–417][/us/pl/110/417], § 544, added pars. (4) and (5).
 
     2006—Subsec. (d). [Pub. L. 109–163][/us/pl/109/163] added subsec. (d).
 
-    2003—Subsec. (a). [Pub. L. 108–136, § 533(b)(1)][/us/pl/108/136/s533/b/1], (c), inserted heading, designated existing provisions as par. (1), substituted “The Commander” for “When the United States Air Force Institute of Technology is accredited by a nationally recognized accreditation association or authority, the Commander” and “the United States Air Force Institute of Technology” for “that Institute”, and added par. (2).
+    2003—Subsec. (a). [Pub. L. 108–136][/us/pl/108/136], § 533(b)(1), (c), inserted heading, designated existing provisions as par. (1), substituted “The Commander” for “When the United States Air Force Institute of Technology is accredited by a nationally recognized accreditation association or authority, the Commander” and “the United States Air Force Institute of Technology” for “that Institute”, and added par. (2).
 
-    Subsec. (b). [Pub. L. 108–136, § 533(b)(2)][/us/pl/108/136/s533/b/2], inserted heading.
+    Subsec. (b). [Pub. L. 108–136][/us/pl/108/136], § 533(b)(2), inserted heading.
 
-    Subsec. (c). [Pub. L. 108–136, § 533(a)][/us/pl/108/136/s533/a], added subsec. (c).
+    Subsec. (c). [Pub. L. 108–136][/us/pl/108/136], § 533(a), added subsec. (c).
 
     1998—Subsec. (b)(2)(B). [Pub. L. 105–261][/us/pl/105/261] substituted “section 5373” for “section 5306(e)”.
 
@@ -149,9 +149,9 @@ Aug. 31, 1954, ch. 1151, 68 Stat. 1006.  </td>
 
     1986—Subsec. (b)(2)(B). [Pub. L. 99–661][/us/pl/99/661] struck out “rates of basic” before “pay of civilian”.
 
-    1985—[Pub. L. 99–145, § 504(a)(2)(A)][/us/pl/99/145/s504/a/2/A], struck out “: degrees” after “Technology” in section catchline.
+    1985—[Pub. L. 99–145][/us/pl/99/145], § 504(a)(2)(A), struck out “: degrees” after “Technology” in section catchline.
 
-    Subsecs. (a), (b). [Pub. L. 99–145, § 504(a)(1)][/us/pl/99/145/s504/a/1], designated existing provisions as subsec. (a) and added subsec. (b).
+    Subsecs. (a), (b). [Pub. L. 99–145][/us/pl/99/145], § 504(a)(1), designated existing provisions as subsec. (a) and added subsec. (b).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -175,31 +175,31 @@ Aug. 31, 1954, ch. 1151, 68 Stat. 1006.  </td>
 [/us/usc/t5/s5373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5373
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F561
-[/us/pl/99/145/s504/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs504%2Fa%2F1
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F622
-[/us/pl/99/661/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs510
+[/us/pl/99/661/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtV
 [/us/stat/100/3868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3868
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/105/261/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1102
+[/us/pl/105/261/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXI
 [/us/stat/112/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2141
-[/us/pl/108/136/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs533
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1473
-[/us/pl/109/163/s522/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs522%2Fe
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3243
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4463
-[/us/pl/110/417/s543/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs543%2Fh%2F1
-[/us/pl/110/417/s544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs544
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/108/136/s533/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs533%2Fb%2F1
-[/us/pl/108/136/s533/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs533%2Fb%2F2
-[/us/pl/108/136/s533/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs533%2Fa
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
-[/us/pl/99/145/s504/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs504%2Fa%2F2%2FA
-[/us/pl/99/145/s504/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs504%2Fa%2F1
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/110/417/s543/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs543%2Fh%2F1
 [/us/pl/110/417/s543/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs543%2Fj
 [/us/usc/t10/s2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2161

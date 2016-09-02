@@ -33,11 +33,11 @@
 
             (B) reporting annually to Congress on the program.
 
-(Added [Pub. L. 104–201, div. A, title II, § 282(a)(1)][/us/pl/104/201/s282/a/1], Sept. 23, 1996, [110 Stat. 2470][/us/stat/110/2470].)
+(Added [Pub. L. 104–201, div. A, title II][/us/pl/104/201/dA/tII], § 282(a)(1), Sept. 23, 1996, [110 Stat. 2470][/us/stat/110/2470].)
 
  __Congressional Findings__ 
 
-[Pub. L. 104–201, div. A, title II, § 281][/us/pl/104/201/s281], Sept. 23, 1996, [110 Stat. 2469][/us/stat/110/2469], provided that: 
+[Pub. L. 104–201, div. A, title II][/us/pl/104/201/dA/tII], § 281, Sept. 23, 1996, [110 Stat. 2469][/us/stat/110/2469], provided that: 
 
 > “Congress finds the following:
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/104/201/s282/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs282%2Fa%2F1
+[/us/pl/104/201/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtII
 [/us/stat/110/2470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2470
-[/us/pl/104/201/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs281
+[/us/pl/104/201/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtII
 [/us/stat/110/2469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2469
 
 

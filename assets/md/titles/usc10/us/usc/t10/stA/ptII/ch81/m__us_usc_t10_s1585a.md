@@ -41,7 +41,7 @@
 
     In this section, the term “DCIS special agent” means an employee of the Department of Defense who is a special agent of the Defense Criminal Investigative Service (or any successor to that service).
 
-(Added [Pub. L. 105–85, div. A, title X, § 1071(a)][/us/pl/105/85/s1071/a], Nov. 18, 1997, [111 Stat. 1897][/us/stat/111/1897].)
+(Added [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1071(a), Nov. 18, 1997, [111 Stat. 1897][/us/stat/111/1897].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/105/85/s1071/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1071%2Fa
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1897
 
 

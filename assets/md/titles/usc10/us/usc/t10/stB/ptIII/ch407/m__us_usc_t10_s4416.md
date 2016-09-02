@@ -43,7 +43,7 @@
 
         (2) That attendance of civilian students at the Academy under this section does not cause a decrease in the number of members of the armed forces enrolled in the physician assistant training program at the Academy.
 
-(Added [Pub. L. 105–85, div. A, title VII, § 741(a)(1)][/us/pl/105/85/s741/a/1], Nov. 18, 1997, [111 Stat. 1816][/us/stat/111/1816]; amended [Pub. L. 107–314, div. A, title X, § 1041(a)(19)][/us/pl/107/314/s1041/a/19], Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645].)
+(Added [Pub. L. 105–85, div. A, title VII][/us/pl/105/85/dA/tVII], § 741(a)(1), Nov. 18, 1997, [111 Stat. 1816][/us/stat/111/1816]; amended [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1041(a)(19), Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645].)
 
  __Amendments__ 
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/105/85/s741/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs741%2Fa%2F1
+[/us/pl/105/85/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVII
 [/us/stat/111/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1816
-[/us/pl/107/314/s1041/a/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1041%2Fa%2F19
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2645
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 

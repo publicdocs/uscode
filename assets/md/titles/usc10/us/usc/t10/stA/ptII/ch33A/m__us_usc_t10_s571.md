@@ -31,11 +31,11 @@
 
     (c) An appointment may not be made in any of the armed forces in the regular warrant officer grade of chief warrant officer, W–5, if the appointment would result in more than 5 percent of the warrant officers of that armed force on active duty being in the grade of chief warrant officer, W–5. In computing the limitation prescribed in the preceding sentence, there shall be excluded warrant officers described in [section 582 of this title][/us/usc/t10/s582].
 
-(Added [Pub. L. 102–190, div. A, title XI, § 1112(a)][/us/pl/102/190/s1112/a], Dec. 5, 1991, [105 Stat. 1493][/us/stat/105/1493]; amended [Pub. L. 102–484, div. A, title X, § 1052(2)][/us/pl/102/484/s1052/2], Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499]; [Pub. L. 103–337, div. A, title V, § 541(a)(2)][/us/pl/103/337/s541/a/2], Oct. 5, 1994, [108 Stat. 2764][/us/stat/108/2764]; [Pub. L. 111–383, div. A, title V, § 502(a)][/us/pl/111/383/s502/a], Jan. 7, 2011, [124 Stat. 4207][/us/stat/124/4207].)
+(Added [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1112(a), Dec. 5, 1991, [105 Stat. 1493][/us/stat/105/1493]; amended [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1052(2), Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499]; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 541(a)(2), Oct. 5, 1994, [108 Stat. 2764][/us/stat/108/2764]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 502(a), Jan. 7, 2011, [124 Stat. 4207][/us/stat/124/4207].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 555 of this title][/us/usc/t10/s555] prior to repeal by [Pub. L. 102–190, § 1112(a)][/us/pl/102/190/s1112/a].
+    Provisions similar to those in this section were contained in [section 555 of this title][/us/usc/t10/s555] prior to repeal by [Pub. L. 102–190][/us/pl/102/190], § 1112(a).
 
  __Amendments__ 
 
@@ -47,7 +47,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–337, div. A, title V, § 541(h)][/us/pl/103/337/s541/h], Oct. 5, 1994, [108 Stat. 2767][/us/stat/108/2767], provided that: 
+[Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 541(h), Oct. 5, 1994, [108 Stat. 2767][/us/stat/108/2767], provided that: 
 
 > “This section \[enacting [section 215 of Title 14][/us/usc/t14/s215], Coast Guard, amending this section, sections 573 to 576, 580, 580a, 581, and 583 of this title, and sections 41, 214, 286a, and 334 of Title 14, repealing sections 212 and 213 of Title 14, enacting provisions set out as notes under this section, and repealing a provision set out as a note under former [section 555 of this title][/us/usc/t10/s555]\] and the amendments made by this section shall take effect on the first day of the fourth month beginning after the date of the enactment of this Act \[Oct. 5, 1994\].”
 
@@ -57,13 +57,13 @@
 
  __Short Title__ 
 
-[Pub. L. 102–190, div. A, title XI, § 1101][/us/pl/102/190/s1101], Dec. 5, 1991, [105 Stat. 1491][/us/stat/105/1491], provided that: 
+[Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1101, Dec. 5, 1991, [105 Stat. 1491][/us/stat/105/1491], provided that: 
 
 > “This title \[enacting this chapter and [section 742 of this title][/us/usc/t10/s742], amending sections 521, 522, 597, 598 \[now 12242\], 603, 628, 644, 741, 1166, 1174, 1305, 1406, 5414, 5457, 5458, 5501 to 5503, 5596, 5600, 5665, 6389, and 6391 of this title, sections 286a and 334 of Title 14, Coast Guard, and sections 201, 301, 301c, 305a, and 406 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 555 to 565, 602, and 745 of this title, and enacting provisions set out as notes under this section, sections 521 and 555 of this title, and [section 1009 of Title 37][/us/usc/t37/s1009]\] may be cited as the ‘Warrant Officer Management Act’.”
 
  __Transition and Savings Provisions__ 
 
-[Pub. L. 103–337, div. A, title V, § 541(c)][/us/pl/103/337/s541/c], (d), Oct. 5, 1994, [108 Stat. 2765][/us/stat/108/2765], as amended by [Pub. L. 104–106, div. A, title XV, § 1504(a)(3)][/us/pl/104/106/s1504/a/3], Feb. 10, 1996, [110 Stat. 513][/us/stat/110/513], provided that:
+[Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 541(c), (d), Oct. 5, 1994, [108 Stat. 2765][/us/stat/108/2765], as amended by [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1504(a)(3), Feb. 10, 1996, [110 Stat. 513][/us/stat/110/513], provided that:
 
 >     “(c)  __Transition for Certain Regular Warrant Officers Serving in a Higher Temporary Grade Below Chief Warrant Officer, W__  __–5.—__ 
 
@@ -111,7 +111,7 @@
 
 >             shall while continuing on active duty retain such temporary grade and shall be considered for promotion to a grade equal to or lower than the permanent grade as if such temporary grade is a permanent grade. If such warrant officer is recommended for promotion, the appointment of that warrant officer to such grade shall be a temporary appointment.”
 
-[Pub. L. 102–190, div. A, title XI][/us/pl/102/190], §§ 1121–1124, Dec. 5, 1991, [105 Stat. 1503–1505][/us/stat/105/1503-1505], provided that:
+[Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], §§ 1121–1124, Dec. 5, 1991, [105 Stat. 1503–1505][/us/stat/105/1503-1505], provided that:
 
 > “SEC. 1121. __TRANSITION FOR CERTAIN REGULAR WARRANT OFFICERS SERVING IN A HIGHER TEMPORARY GRADE BELOW CHIEF WARRANT OFFICER, W–5.__ 
 
@@ -201,13 +201,13 @@
 
  __Establishment of Permanent Grade of Chief Warrant Officer, W–5__ 
 
-[Pub. L. 103–337, div. A, title V, § 541(a)(1)][/us/pl/103/337/s541/a/1], Oct. 5, 1994, [108 Stat. 2764][/us/stat/108/2764], provided that: 
+[Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 541(a)(1), Oct. 5, 1994, [108 Stat. 2764][/us/stat/108/2764], provided that: 
 
 > “The grade of chief warrant officer, W–5, is hereby established in the Coast Guard.”
 
     \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].\]
 
-[Pub. L. 102–190, div. A, title XI, § 1111(a)][/us/pl/102/190/s1111/a], Dec. 5, 1991, [105 Stat. 1491][/us/stat/105/1491], provided that: 
+[Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1111(a), Dec. 5, 1991, [105 Stat. 1491][/us/stat/105/1491], provided that: 
 
 > “The grade of chief warrant officer, W–5, is hereby established in the Army, Navy, Air Force, and Marine Corps.”
 
@@ -220,36 +220,36 @@
 
 [/us/usc/t37/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs201%2Fb
 [/us/usc/t10/s582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs582
-[/us/pl/102/190/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1112%2Fa
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1493
-[/us/pl/102/484/s1052/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F2
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2499
-[/us/pl/103/337/s541/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fa%2F2
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2764
-[/us/pl/111/383/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs502%2Fa
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4207
 [/us/usc/t10/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs555
-[/us/pl/102/190/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1112%2Fa
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/103/337/s541/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fh
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2767
 [/us/usc/t14/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs215
 [/us/usc/t10/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs555
 [/us/pl/102/190/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1132
 [/us/usc/t10/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs521
-[/us/pl/102/190/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1101
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1491
 [/us/usc/t10/s742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs742
 [/us/usc/t37/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs1009
-[/us/pl/103/337/s541/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fc
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2765
-[/us/pl/104/106/s1504/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1504%2Fa%2F3
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F513
 [/us/usc/t10/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs573
 [/us/usc/t10/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs573
-[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1503-1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1503-1505
 [/us/usc/t10/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs573
 [/us/usc/t10/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs573
@@ -258,10 +258,10 @@
 [/us/usc/t10/s580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs580
 [/us/usc/t10/s580/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs580%2Fe
 [/us/usc/t10/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs531
-[/us/pl/103/337/s541/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fa%2F1
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2764
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/102/190/s1111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1111%2Fa
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1491
 
 

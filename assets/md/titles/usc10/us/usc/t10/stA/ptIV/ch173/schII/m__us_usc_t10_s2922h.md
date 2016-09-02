@@ -51,7 +51,7 @@
 
         (4) The term “fully burdened cost” means the commodity price of the fuel plus the total cost of all personnel and assets required to move and, when necessary, protect the fuel from the point at which the fuel is received from the commercial supplier to the point of use.
 
-(Added [Pub. L. 114–92, div. A, title III, § 311(a)][/us/pl/114/92/s311/a], Nov. 25, 2015, [129 Stat. 787][/us/stat/129/787].)
+(Added [Pub. L. 114–92, div. A, title III][/us/pl/114/92/dA/tIII], § 311(a), Nov. 25, 2015, [129 Stat. 787][/us/stat/129/787].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/114/92/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs311%2Fa
+[/us/pl/114/92/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtIII
 [/us/stat/129/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F787
 
 

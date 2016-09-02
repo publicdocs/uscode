@@ -43,7 +43,7 @@
 
         by reason of unfitness to perform the duties of his office, grade, rank, or rating unless the determination of the Secretary concerned with respect to unfitness is first approved by the Secretary of Defense on the recommendation of the Assistant Secretary of Defense for Health Affairs.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 100][/us/stat/70A/100]; [Pub. L. 94–225, § 2(a)][/us/pl/94/225/s2/a], Mar. 4, 1976, [90 Stat. 202][/us/stat/90/202]; [Pub. L. 96–513, title V, § 511(45)][/us/pl/96/513/s511/45], Dec. 12, 1980, [94 Stat. 2924][/us/stat/94/2924]; [Pub. L. 98–525, title XIV, § 1405(25)][/us/pl/98/525/s1405/25], Oct. 19, 1984, [98 Stat. 2623][/us/stat/98/2623]; [Pub. L. 99–661, div. A, title XIII, § 1343(a)(7)][/us/pl/99/661/s1343/a/7], Nov. 14, 1986, [100 Stat. 3992][/us/stat/100/3992]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(2)][/us/pl/101/189/s1621/a/2], Nov. 29, 1989, [103 Stat. 1603][/us/stat/103/1603]; [Pub. L. 104–106, div. A, title IX, § 903(f)(2)][/us/pl/104/106/s903/f/2], Feb. 10, 1996, [110 Stat. 402][/us/stat/110/402]; [Pub. L. 104–201, div. A, title IX, § 901][/us/pl/104/201/s901], Sept. 23, 1996, [110 Stat. 2617][/us/stat/110/2617].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 100][/us/stat/70A/100]; [Pub. L. 94–225][/us/pl/94/225], § 2(a), Mar. 4, 1976, [90 Stat. 202][/us/stat/90/202]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(45), Dec. 12, 1980, [94 Stat. 2924][/us/stat/94/2924]; [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(25), Oct. 19, 1984, [98 Stat. 2623][/us/stat/98/2623]; [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1343(a)(7), Nov. 14, 1986, [100 Stat. 3992][/us/stat/100/3992]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(2), Nov. 29, 1989, [103 Stat. 1603][/us/stat/103/1603]; [Pub. L. 104–106, div. A, title IX][/us/pl/104/106/dA/tIX], § 903(f)(2), Feb. 10, 1996, [110 Stat. 402][/us/stat/110/402]; [Pub. L. 104–201, div. A, title IX][/us/pl/104/201/dA/tIX], § 901, Sept. 23, 1996, [110 Stat. 2617][/us/stat/110/2617].)
 
 <table>
 
@@ -105,7 +105,7 @@ Oct. 12, 1949, ch. 681, §§ 413 (1st 17 words), 414, 63 Stat. 824, 825.  </td
 
  __Amendments__ 
 
-    1996—Subsec. (d). [Pub. L. 104–106, § 903(a)][/us/pl/104/106/s903/a], (f)(2), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting “official in the Department of Defense with principal responsibility for health affairs” for “Assistant Secretary of Defense for Health Affairs”, was repealed by [Pub. L. 104–201][/us/pl/104/201].
+    1996—Subsec. (d). [Pub. L. 104–106][/us/pl/104/106], § 903(a), (f)(2), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting “official in the Department of Defense with principal responsibility for health affairs” for “Assistant Secretary of Defense for Health Affairs”, was repealed by [Pub. L. 104–201][/us/pl/104/201].
 
     1989—Subsec. (c). [Pub. L. 101–189][/us/pl/101/189] substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
@@ -115,9 +115,9 @@ Oct. 12, 1949, ch. 681, §§ 413 (1st 17 words), 414, 63 Stat. 824, 825.  </td
 
     1980—Subsec. (d). [Pub. L. 96–513][/us/pl/96/513] substituted “Affairs” for “and Environment”.
 
-    1976—Subsec. (b). [Pub. L. 94–225, § 2(a)(1)][/us/pl/94/225/s2/a/1], substituted “Except as provided in subsection (d) of this section, the Secretary” for “The Secretary”.
+    1976—Subsec. (b). [Pub. L. 94–225][/us/pl/94/225], § 2(a)(1), substituted “Except as provided in subsection (d) of this section, the Secretary” for “The Secretary”.
 
-    Subsec. (d). [Pub. L. 94–225, § 2(a)(2)][/us/pl/94/225/s2/a/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 94–225][/us/pl/94/225], § 2(a)(2), added subsec. (d).
 
  __Effective Date of 1980 Amendment__ 
 
@@ -125,7 +125,7 @@ Oct. 12, 1949, ch. 681, §§ 413 (1st 17 words), 414, 63 Stat. 824, 825.  </td
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–225, § 2(b)][/us/pl/94/225/s2/b], Mar. 4, 1976, [90 Stat. 202][/us/stat/90/202], provided that: 
+[Pub. L. 94–225][/us/pl/94/225], § 2(b), Mar. 4, 1976, [90 Stat. 202][/us/stat/90/202], provided that: 
 
 > “The amendments made by subsection (a) of this section \[amending this section\] shall apply with respect to unfitness determinations made on or after the date of the enactment of this Act \[Mar. 4, 1976\] by the Secretaries of the military departments concerned for purposes of sections 1201, 1202, and 1203 of title 10, United States Code.”
 
@@ -167,32 +167,32 @@ Oct. 12, 1949, ch. 681, §§ 413 (1st 17 words), 414, 63 Stat. 824, 825.  </td
 [/us/usc/t10/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1203
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F100
-[/us/pl/94/225/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F225%2Fs2%2Fa
+[/us/pl/94/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F225
 [/us/stat/90/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F202
-[/us/pl/96/513/s511/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F45
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2924
-[/us/pl/98/525/s1405/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F25
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2623
-[/us/pl/99/661/s1343/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1343%2Fa%2F7
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3992
-[/us/pl/101/189/s1621/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F2
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1603
-[/us/pl/104/106/s903/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs903%2Ff%2F2
+[/us/pl/104/106/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIX
 [/us/stat/110/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F402
-[/us/pl/104/201/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs901
+[/us/pl/104/201/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIX
 [/us/stat/110/2617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2617
-[/us/pl/104/106/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs903%2Fa
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
-[/us/pl/94/225/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F225%2Fs2%2Fa%2F1
-[/us/pl/94/225/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F225%2Fs2%2Fa%2F2
+[/us/pl/94/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F225
+[/us/pl/94/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F225
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/94/225/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F225%2Fs2%2Fb
+[/us/pl/94/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F225
 [/us/stat/90/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F202
 [/us/usc/t14/s296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs296
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631

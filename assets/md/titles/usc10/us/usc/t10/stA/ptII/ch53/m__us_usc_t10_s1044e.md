@@ -167,35 +167,35 @@
 
     The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall prescribe regulations to carry out this section.
 
-(Added [Pub. L. 113–66, div. A, title XVII, § 1716(a)(1)][/us/pl/113/66/s1716/a/1], Dec. 26, 2013, [127 Stat. 966][/us/stat/127/966]; amended [Pub. L. 113–291, div. A, title V][/us/pl/113/291], §§ 531(c), 533, 534(a), Dec. 19, 2014, [128 Stat. 3364][/us/stat/128/3364], 3366, 3367; [Pub. L. 114–92, div. A, title V][/us/pl/114/92], §§ 532–534(a),  535(a), (b), Nov. 25, 2015, [129 Stat. 815][/us/stat/129/815], 816.)
+(Added [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1716(a)(1), Dec. 26, 2013, [127 Stat. 966][/us/stat/127/966]; amended [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], §§ 531(c), 533, 534(a), Dec. 19, 2014, [128 Stat. 3364][/us/stat/128/3364], 3366, 3367; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], §§ 532–534(a),  535(a), (b), Nov. 25, 2015, [129 Stat. 815][/us/stat/129/815], 816.)
 
  __Amendments__ 
 
-    2015—Subsec. (a)(2)(C). [Pub. L. 114–92, § 532][/us/pl/114/92/s532], added subpar. (C).
+    2015—Subsec. (a)(2)(C). [Pub. L. 114–92][/us/pl/114/92], § 532, added subpar. (C).
 
-    Subsec. (b)(9), (10). [Pub. L. 114–92, § 533][/us/pl/114/92/s533], added par. (9) and redesignated former par. (9) as (10).
+    Subsec. (b)(9), (10). [Pub. L. 114–92][/us/pl/114/92], § 533, added par. (9) and redesignated former par. (9) as (10).
 
-    Subsec. (d). [Pub. L. 114–92, § 535(a)][/us/pl/114/92/s535/a], designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+    Subsec. (d). [Pub. L. 114–92][/us/pl/114/92], § 535(a), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
-    Subsec. (e)(3). [Pub. L. 114–92, § 535(b)][/us/pl/114/92/s535/b], added par. (3).
+    Subsec. (e)(3). [Pub. L. 114–92][/us/pl/114/92], § 535(b), added par. (3).
 
-    Subsec. (f)(2), (3). [Pub. L. 114–92, § 534(a)][/us/pl/114/92/s534/a], added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (f)(2), (3). [Pub. L. 114–92][/us/pl/114/92], § 534(a), added par. (2) and redesignated former par. (2) as (3).
 
-    2014—Subsec. (a). [Pub. L. 113–291, § 533(a)][/us/pl/113/291/s533/a], amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary concerned shall designate legal counsel (to be known as ‘Special Victims’ Counsel’) for the purpose of providing legal assistance to an individual eligible for military legal assistance under [section 1044 of this title][/us/usc/t10/s1044] who is the victim of an alleged sex-related offense, regardless of whether the report of that offense is restricted or unrestricted.”
+    2014—Subsec. (a). [Pub. L. 113–291][/us/pl/113/291], § 533(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary concerned shall designate legal counsel (to be known as ‘Special Victims’ Counsel’) for the purpose of providing legal assistance to an individual eligible for military legal assistance under [section 1044 of this title][/us/usc/t10/s1044] who is the victim of an alleged sex-related offense, regardless of whether the report of that offense is restricted or unrestricted.”
 
-    Subsec. (b)(4). [Pub. L. 113–291, § 531(c)(1)][/us/pl/113/291/s531/c/1], substituted “the United States” for “the Department of Defense”.
+    Subsec. (b)(4). [Pub. L. 113–291][/us/pl/113/291], § 531(c)(1), substituted “the United States” for “the Department of Defense”.
 
-    Subsec. (b)(6). [Pub. L. 113–291, § 534(a)][/us/pl/113/291/s534/a], substituted “Representing the victim” for “Accompanying the victim”.
+    Subsec. (b)(6). [Pub. L. 113–291][/us/pl/113/291], § 534(a), substituted “Representing the victim” for “Accompanying the victim”.
 
-    Subsec. (d)(2). [Pub. L. 113–291, § 531(c)(2)][/us/pl/113/291/s531/c/2], inserted “, and within the Marine Corps, by the Staff Judge Advocate to the Commandant of the Marine Corps” before period at end.
+    Subsec. (d)(2). [Pub. L. 113–291][/us/pl/113/291], § 531(c)(2), inserted “, and within the Marine Corps, by the Staff Judge Advocate to the Commandant of the Marine Corps” before period at end.
 
-    Subsec. (e)(1). [Pub. L. 113–291, § 531(c)(3)][/us/pl/113/291/s531/c/3], inserted “concerned” after “jurisdiction of the Secretary”.
+    Subsec. (e)(1). [Pub. L. 113–291][/us/pl/113/291], § 531(c)(3), inserted “concerned” after “jurisdiction of the Secretary”.
 
-    Subsec. (f). [Pub. L. 113–291, § 533(b)][/us/pl/113/291/s533/b], substituted “described in subsection (a)(2)” for “eligible for military legal assistance under [section 1044 of this title][/us/usc/t10/s1044]” in pars. (1) and (2).
+    Subsec. (f). [Pub. L. 113–291][/us/pl/113/291], § 533(b), substituted “described in subsection (a)(2)” for “eligible for military legal assistance under [section 1044 of this title][/us/usc/t10/s1044]” in pars. (1) and (2).
 
  __Enhancement of Victims’ Rights in Connection With Prosecution of Certain Sex-Related Offenses__ 
 
-[Pub. L. 113–291, div. A, title V, § 534(b)][/us/pl/113/291/s534/b]–(e), Dec. 19, 2014, [128 Stat. 3367][/us/stat/128/3367], 3368, provided that:
+[Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 534(b)–(e), Dec. 19, 2014, [128 Stat. 3367][/us/stat/128/3367], 3368, provided that:
 
 >     “(b) __Consultation Regarding Victim’s Preference in Prosecution Venue.—__ 
 
@@ -233,13 +233,13 @@
 
  __Implementation__ 
 
-[Pub. L. 113–66, div. A, title XVII, § 1716(a)(4)][/us/pl/113/66/s1716/a/4], Dec. 26, 2013, [127 Stat. 969][/us/stat/127/969], provided that: 
+[Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1716(a)(4), Dec. 26, 2013, [127 Stat. 969][/us/stat/127/969], provided that: 
 
 > “[Section 1044e of title 10][/us/usc/t10/s1044e], United States Code, as added by paragraph (1), shall be implemented within 180 days after the date of the enactment of this Act \[Dec. 26, 2013\].”
 
  __Enhanced Training Requirement__ 
 
-[Pub. L. 113–66, div. A, title XVII, § 1716(b)][/us/pl/113/66/s1716/b], Dec. 26, 2013, [127 Stat. 969][/us/stat/127/969], provided that: 
+[Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1716(b), Dec. 26, 2013, [127 Stat. 969][/us/stat/127/969], provided that: 
 
 > “The Secretary of each military department, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, shall implement, consistent with the guidelines provided under [section 1044e of title 10][/us/usc/t10/s1044e], United States Code, as added by subsection (a), in-depth and advanced training for all military and civilian attorneys providing legal assistance under section 1044 or 1044e of such title to support victims of alleged sex-related offenses.”
 
@@ -259,34 +259,34 @@
 [/us/usc/t10/s1044/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044%2Fd%2F2
 [/us/usc/t10/s801/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801%2F1
 [/us/usc/t10/s880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs880
-[/us/pl/113/66/s1716/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1716%2Fa%2F1
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F966
-[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3364
-[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F815
-[/us/pl/114/92/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs532
-[/us/pl/114/92/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs533
-[/us/pl/114/92/s535/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs535%2Fa
-[/us/pl/114/92/s535/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs535%2Fb
-[/us/pl/114/92/s534/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs534%2Fa
-[/us/pl/113/291/s533/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs533%2Fa
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t10/s1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044
-[/us/pl/113/291/s531/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fc%2F1
-[/us/pl/113/291/s534/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs534%2Fa
-[/us/pl/113/291/s531/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fc%2F2
-[/us/pl/113/291/s531/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fc%2F3
-[/us/pl/113/291/s533/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs533%2Fb
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t10/s1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044
-[/us/pl/113/291/s534/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs534%2Fb
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3367
 [/us/usc/t10/s1044e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044e
 [/us/usc/t10/s1044e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044e
 [/us/usc/t10/s1044e/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044e%2Fg
-[/us/pl/113/66/s1716/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1716%2Fa%2F4
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F969
 [/us/usc/t10/s1044e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044e
-[/us/pl/113/66/s1716/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1716%2Fb
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F969
 [/us/usc/t10/s1044e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044e
 

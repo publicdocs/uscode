@@ -17,7 +17,7 @@
 
     If a person whose name is on the temporary disability retired list of an armed force, and who has elected an annuity under this subchapter, has his name removed from that list for any reason other than retirement or grant of retired pay, he is entitled to a refund of the difference between the amount by which his retired pay was reduced to provide the annuity and the cost of an amount of term insurance equal to the protection provided for his dependents during the period that he was on that list.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 111][/us/stat/70A/111]; [Pub. L. 92–425, § 1(2)(A)][/us/pl/92/425/s1/2/A], Sept. 21, 1972, [86 Stat. 706][/us/stat/86/706].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 111][/us/stat/70A/111]; [Pub. L. 92–425][/us/pl/92/425], § 1(2)(A), Sept. 21, 1972, [86 Stat. 706][/us/stat/86/706].)
 
 <table>
 
@@ -78,7 +78,7 @@ Aug. 8, 1953, ch. 393, § 4(d), 67 Stat. 503.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F111
-[/us/pl/92/425/s1/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425%2Fs1%2F2%2FA
+[/us/pl/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425
 [/us/stat/86/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F706
 [/us/usc/t10/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs372
 [/us/pl/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425

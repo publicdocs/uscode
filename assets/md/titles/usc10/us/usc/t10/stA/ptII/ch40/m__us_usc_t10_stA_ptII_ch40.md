@@ -115,21 +115,21 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–383, div. A, title V, § 532(b)][/us/pl/111/383/s532/b], Jan. 7, 2011, [124 Stat. 4216][/us/stat/124/4216], added item 705a.
+    2011—[Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 532(b), Jan. 7, 2011, [124 Stat. 4216][/us/stat/124/4216], added item 705a.
 
-    2003—[Pub. L. 108–136, div. A, title VI, § 621(b)(2)][/us/pl/108/136/s621/b/2], Nov. 24, 2003, [117 Stat. 1505][/us/stat/117/1505], struck out “enlisted” before “members” in item 705.
+    2003—[Pub. L. 108–136, div. A, title VI][/us/pl/108/136/dA/tVI], § 621(b)(2), Nov. 24, 2003, [117 Stat. 1505][/us/stat/117/1505], struck out “enlisted” before “members” in item 705.
 
-    2002—[Pub. L. 107–314, div. A, title V][/us/pl/107/314], §§ 506(d), 572(b), 574(b)(2)(B), Dec. 2, 2002, [116 Stat. 2536][/us/stat/116/2536], 2558, substituted “Rest and recuperation absence: qualified enlisted members extending duty at designated locations overseas” for “Rest and recuperative absence for qualified enlisted members extending duty at designated locations overseas” in item 705, added items 706, 707a, and 709, and struck out former item 706 “Administration of leave required to be taken pending review of certain court-martial convictions”.
+    2002—[Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], §§ 506(d), 572(b), 574(b)(2)(B), Dec. 2, 2002, [116 Stat. 2536][/us/stat/116/2536], 2558, substituted “Rest and recuperation absence: qualified enlisted members extending duty at designated locations overseas” for “Rest and recuperative absence for qualified enlisted members extending duty at designated locations overseas” in item 705, added items 706, 707a, and 709, and struck out former item 706 “Administration of leave required to be taken pending review of certain court-martial convictions”.
 
-    1984—[Pub. L. 98–525, title VII, § 707(a)(2)][/us/pl/98/525/s707/a/2], Oct. 19, 1984, [98 Stat. 2572][/us/stat/98/2572], added item 708.
+    1984—[Pub. L. 98–525, title VII][/us/pl/98/525/tVII], § 707(a)(2), Oct. 19, 1984, [98 Stat. 2572][/us/stat/98/2572], added item 708.
 
-    1981—[Pub. L. 97–81, § 2(b)(2)][/us/pl/97/81/s2/b/2], Nov. 20, 1981, [95 Stat. 1087][/us/stat/95/1087], added items 706 and 707.
+    1981—[Pub. L. 97–81][/us/pl/97/81], § 2(b)(2), Nov. 20, 1981, [95 Stat. 1087][/us/stat/95/1087], added items 706 and 707.
 
-    1980—[Pub. L. 96–579, § 5(b)(2)][/us/pl/96/579/s5/b/2], Dec. 23, 1980, [94 Stat. 3367][/us/stat/94/3367], added item 705.
+    1980—[Pub. L. 96–579][/us/pl/96/579], § 5(b)(2), Dec. 23, 1980, [94 Stat. 3367][/us/stat/94/3367], added item 705.
 
  __Pilot Programs on Career Flexibility To Enhance Retention of Members of the Armed Forces__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 533, Oct. 14, 2008, [122 Stat. 4449][/us/stat/122/4449], as amended by [Pub. L. 112–81, div. A, title V, § 531][/us/pl/112/81/s531], title VI, § 631(f)(4)(B), Dec. 31, 2011, [125 Stat. 1403][/us/stat/125/1403], 1465; [Pub. L. 112–239, div. A, title V, § 522][/us/pl/112/239/s522], title X, § 1076(a)(9), Jan. 2, 2013, [126 Stat. 1722][/us/stat/126/1722], 1948; [Pub. L. 113–291, div. A, title V, § 522][/us/pl/113/291/s522], Dec. 19, 2014, [128 Stat. 3360][/us/stat/128/3360]; [Pub. L. 114–92, div. A, title V, § 523][/us/pl/114/92/s523], Nov. 25, 2015, [129 Stat. 812][/us/stat/129/812], provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 533, Oct. 14, 2008, [122 Stat. 4449][/us/stat/122/4449], as amended by [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 531, title VI, § 631(f)(4)(B), Dec. 31, 2011, [125 Stat. 1403][/us/stat/125/1403], 1465; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 522, title X, § 1076(a)(9), Jan. 2, 2013, [126 Stat. 1722][/us/stat/126/1722], 1948; [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 522, Dec. 19, 2014, [128 Stat. 3360][/us/stat/128/3360]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 523, Nov. 25, 2015, [129 Stat. 812][/us/stat/129/812], provided that:
 
 >     “(a) __Pilot Programs Authorized.—__ 
 
@@ -332,27 +332,27 @@
 ----------
 ----------
 
-[/us/pl/111/383/s532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs532%2Fb
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4216
-[/us/pl/108/136/s621/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs621%2Fb%2F2
+[/us/pl/108/136/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVI
 [/us/stat/117/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1505
-[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2536
-[/us/pl/98/525/s707/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs707%2Fa%2F2
+[/us/pl/98/525/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVII
 [/us/stat/98/2572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2572
-[/us/pl/97/81/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81%2Fs2%2Fb%2F2
+[/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/stat/95/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1087
-[/us/pl/96/579/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579%2Fs5%2Fb%2F2
+[/us/pl/96/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579
 [/us/stat/94/3367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3367
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4449
-[/us/pl/112/81/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs531
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1403
-[/us/pl/112/239/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs522
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1722
-[/us/pl/113/291/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs522
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3360
-[/us/pl/114/92/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs523
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F812
 [/us/usc/t10/s14706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14706%2Fa
 [/us/usc/t37/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs204

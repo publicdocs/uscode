@@ -17,7 +17,7 @@
 
     Unless entitled to a higher retired grade under some other provision of law, a warrant officer shall be retired in the highest regular or reserve warrant officer grade in which the warrant officer served satisfactorily, as determined by the Secretary concerned.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 104][/us/stat/70A/104]; [Pub. L. 114–92, div. A, title V, § 505][/us/pl/114/92/s505], Nov. 25, 2015, [129 Stat. 808][/us/stat/129/808].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 104][/us/stat/70A/104]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 505, Nov. 25, 2015, [129 Stat. 808][/us/stat/129/808].)
 
 <table>
 
@@ -104,7 +104,7 @@ May 29, 1954, ch. 249, § 14(d) (1st sentence), (f) (1st sentence, as applicab
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F104
-[/us/pl/114/92/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs505
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F808
 [/us/usc/t10/s101/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F23
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92

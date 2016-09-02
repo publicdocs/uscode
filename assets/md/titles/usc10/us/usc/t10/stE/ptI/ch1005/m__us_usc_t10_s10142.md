@@ -19,11 +19,11 @@
 
     (b) The authorized strength of the Ready Reserve is 2,900,000.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)][/us/pl/103/337/s1661/a/1], Oct. 5, 1994, [108 Stat. 2972][/us/stat/108/2972].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1661(a)(1), Oct. 5, 1994, [108 Stat. 2972][/us/stat/108/2972].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 268(a) of this title][/us/usc/t10/s268/a], prior to repeal by [Pub. L. 103–337, § 1661(a)(2)(A)][/us/pl/103/337/s1661/a/2/A].
+    Provisions similar to those in this section were contained in [section 268(a) of this title][/us/usc/t10/s268/a], prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1661(a)(2)(A).
 
 ----------
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1661/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2972
 [/us/usc/t10/s268/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs268%2Fa
-[/us/pl/103/337/s1661/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F2%2FA
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 
 

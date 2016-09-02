@@ -41,7 +41,7 @@
 
         (2) for such related activities and expenses as the Secretary of Defense may authorize.
 
-(Added [Pub. L. 112–81, div. A, title V, § 589(a)][/us/pl/112/81/s589/a], Dec. 31, 2011, [125 Stat. 1437][/us/stat/125/1437].)
+(Added [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 589(a), Dec. 31, 2011, [125 Stat. 1437][/us/stat/125/1437].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t38/s521A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs521A
-[/us/pl/112/81/s589/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs589%2Fa
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1437
 
 

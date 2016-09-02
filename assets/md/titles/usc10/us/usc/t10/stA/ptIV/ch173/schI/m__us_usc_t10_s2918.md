@@ -29,7 +29,7 @@
 
         (2) is cost-effective over the life cycle of the facility.
 
-(Added [Pub. L. 97–214, § 6(c)(1)][/us/pl/97/214/s6/c/1], July 12, 1982, [96 Stat. 173][/us/stat/96/173], § 2690; amended [Pub. L. 99–661, div. A, title XII, § 1205(a)(1)][/us/pl/99/661/s1205/a/1], Nov. 14, 1986, [100 Stat. 3971][/us/stat/100/3971]; [Pub. L. 105–85, div. A, title X, § 1041(a)][/us/pl/105/85/s1041/a], Nov. 18, 1997, [111 Stat. 1885][/us/stat/111/1885]; renumbered § 2918, [Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(1)][/us/pl/109/364/s2851/b/1], Oct. 17, 2006, [120 Stat. 2494][/us/stat/120/2494].)
+(Added [Pub. L. 97–214][/us/pl/97/214], § 6(c)(1), July 12, 1982, [96 Stat. 173][/us/stat/96/173], § 2690; amended [Pub. L. 99–661, div. A, title XII][/us/pl/99/661/dA/tXII], § 1205(a)(1), Nov. 14, 1986, [100 Stat. 3971][/us/stat/100/3971]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1041(a), Nov. 18, 1997, [111 Stat. 1885][/us/stat/111/1885]; renumbered § 2918, [Pub. L. 109–364, div. B, title XXVIII][/us/pl/109/364/dB/tXXVIII], § 2851(b)(1), Oct. 17, 2006, [120 Stat. 2494][/us/stat/120/2494].)
 
  __Amendments__ 
 
@@ -60,13 +60,13 @@
 ----------
 ----------
 
-[/us/pl/97/214/s6/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs6%2Fc%2F1
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F173
-[/us/pl/99/661/s1205/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1205%2Fa%2F1
+[/us/pl/99/661/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXII
 [/us/stat/100/3971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3971
-[/us/pl/105/85/s1041/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1041%2Fa
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1885
-[/us/pl/109/364/s2851/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2851%2Fb%2F1
+[/us/pl/109/364/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdB%2FtXXVIII
 [/us/stat/120/2494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2494
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s2690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2690

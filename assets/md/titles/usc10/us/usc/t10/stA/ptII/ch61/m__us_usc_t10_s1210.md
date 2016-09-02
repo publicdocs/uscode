@@ -51,7 +51,7 @@
 
     (h) If his name is not sooner removed, the disability retired pay of a member whose name is on the temporary disability retired list terminates upon the expiration of five years after the date when his name was placed on that list.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 95][/us/stat/70A/95]; [Pub. L. 99–145, title V, § 513(a)(2)][/us/pl/99/145/s513/a/2], Nov. 8, 1985, [99 Stat. 627][/us/stat/99/627]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 95][/us/stat/70A/95]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 513(a)(2), Nov. 8, 1985, [99 Stat. 627][/us/stat/99/627]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602].)
 
 <table>
 
@@ -245,9 +245,9 @@ Oct. 12, 1949, ch. 681, §§ 402(d) (30th through 55th words), (e) (less 1st p
 
     1989—Subsecs. (c) to (e). [Pub. L. 101–189][/us/pl/101/189] substituted “Department of Veterans Affairs” for “Veterans’ Administration” wherever appearing.
 
-    1985—Subsecs. (b) to (d). [Pub. L. 99–145, § 513(a)(2)(A)][/us/pl/99/145/s513/a/2/A], inserted “and stable” after “permanent nature”.
+    1985—Subsecs. (b) to (d). [Pub. L. 99–145][/us/pl/99/145], § 513(a)(2)(A), inserted “and stable” after “permanent nature”.
 
-    Subsec. (f). [Pub. L. 99–145, § 513(a)(2)(B)][/us/pl/99/145/s513/a/2/B], designated existing provisions as par. (1), substituted “or rating, the Secretary shall—” for “and rating, the Secretary shall treat him as provided in [section 1211 of this title][/us/usc/t10/s1211]”, added subpars. (A) and (B), and added par. (2).
+    Subsec. (f). [Pub. L. 99–145][/us/pl/99/145], § 513(a)(2)(B), designated existing provisions as par. (1), substituted “or rating, the Secretary shall—” for “and rating, the Secretary shall treat him as provided in [section 1211 of this title][/us/usc/t10/s1211]”, added subpars. (A) and (B), and added par. (2).
 
 ----------
 
@@ -264,14 +264,14 @@ Oct. 12, 1949, ch. 681, §§ 402(d) (30th through 55th words), (e) (less 1st p
 [/us/usc/t5/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8301
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F95
-[/us/pl/99/145/s513/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs513%2Fa%2F2
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F627
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1602
 [/us/usc/t10/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1208
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
-[/us/pl/99/145/s513/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs513%2Fa%2F2%2FA
-[/us/pl/99/145/s513/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs513%2Fa%2F2%2FB
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/usc/t10/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1211
 
 

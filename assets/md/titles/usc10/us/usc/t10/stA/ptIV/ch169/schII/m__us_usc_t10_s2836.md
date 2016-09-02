@@ -79,25 +79,25 @@
 
     The Secretary concerned may require that disputes arising under an agreement entered into under subsection (a) be decided in accordance with the procedures provided for by chapter 71 of title 41.
 
-(Added [Pub. L. 102–190, div. B, title XXVIII, § 2809(a)(1)][/us/pl/102/190/s2809/a/1], Dec. 5, 1991, [105 Stat. 1541][/us/stat/105/1541]; amended [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–136, div. A, title X, § 1031(a)(43)][/us/pl/108/136/s1031/a/43], Nov. 24, 2003, [117 Stat. 1602][/us/stat/117/1602]; [Pub. L. 111–350, § 5(b)(48)][/us/pl/111/350/s5/b/48], Jan. 4, 2011, [124 Stat. 3846][/us/stat/124/3846]; [Pub. L. 112–81, div. A, title X, § 1061(25)][/us/pl/112/81/s1061/25], Dec. 31, 2011, [125 Stat. 1584][/us/stat/125/1584]; [Pub. L. 112–239, div. A, title X, § 1076(f)(36)][/us/pl/112/239/s1076/f/36], Jan. 2, 2013, [126 Stat. 1954][/us/stat/126/1954].)
+(Added [Pub. L. 102–190, div. B, title XXVIII][/us/pl/102/190/dB/tXXVIII], § 2809(a)(1), Dec. 5, 1991, [105 Stat. 1541][/us/stat/105/1541]; amended [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(43), Nov. 24, 2003, [117 Stat. 1602][/us/stat/117/1602]; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(48), Jan. 4, 2011, [124 Stat. 3846][/us/stat/124/3846]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1061(25), Dec. 31, 2011, [125 Stat. 1584][/us/stat/125/1584]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(f)(36), Jan. 2, 2013, [126 Stat. 1954][/us/stat/126/1954].)
 
  __Prior Provisions__ 
 
-    Similar provisions were contained in [Pub. L. 98–115, title VIII, § 802][/us/pl/98/115/s802], Oct. 11, 1983, [97 Stat. 783][/us/stat/97/783], as amended, which was set out as a note under [section 2821 of this title][/us/usc/t10/s2821], prior to repeal by [Pub. L. 102–190, § 2809(b)][/us/pl/102/190/s2809/b].
+    Similar provisions were contained in [Pub. L. 98–115, title VIII][/us/pl/98/115/tVIII], § 802, Oct. 11, 1983, [97 Stat. 783][/us/stat/97/783], as amended, which was set out as a note under [section 2821 of this title][/us/usc/t10/s2821], prior to repeal by [Pub. L. 102–190][/us/pl/102/190], § 2809(b).
 
  __Amendments__ 
 
     2013—Subsecs. (a), (c)(4)(B), (11). [Pub. L. 112–239][/us/pl/112/239] inserted “when it is not operating as a service in the Navy” after “Coast Guard”.
 
-    2011—Subsec. (b). [Pub. L. 112–81, § 1061(25)(A)][/us/pl/112/81/s1061/25/A], struck out par. (1) designation before “The Secretary of a military department” and struck out par. (2) which read as follows: “The budget material submitted to Congress by the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, in connection with the budget submitted pursuant to [section 1105 of title 31][/us/usc/t31/s1105] for each fiscal year shall include materials that identify the military housing rental guaranty projects for which agreements are proposed to be entered into under subsection (a) in that fiscal year.”
+    2011—Subsec. (b). [Pub. L. 112–81][/us/pl/112/81], § 1061(25)(A), struck out par. (1) designation before “The Secretary of a military department” and struck out par. (2) which read as follows: “The budget material submitted to Congress by the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, in connection with the budget submitted pursuant to [section 1105 of title 31][/us/usc/t31/s1105] for each fiscal year shall include materials that identify the military housing rental guaranty projects for which agreements are proposed to be entered into under subsection (a) in that fiscal year.”
 
-    Subsec. (f). [Pub. L. 112–81, § 1061(25)(B)][/us/pl/112/81/s1061/25/B], (C), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “An agreement may not be entered into under subsection (a) until—
+    Subsec. (f). [Pub. L. 112–81][/us/pl/112/81], § 1061(25)(B), (C), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “An agreement may not be entered into under subsection (a) until—
 
     “(1) the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard, submits to the appropriate committees of Congress, in writing, an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed agreement is cost effective when compared with alternative means of furnishing the same housing facilities; and
 
     “(2) a period of 21 days has expired following the date on which the economic analysis is received by those committees or, if over sooner, a period of 14 days has expired following the date on which a copy of the economic analysis is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].”
 
-    Subsec. (g). [Pub. L. 112–81, § 1061(25)(C)][/us/pl/112/81/s1061/25/C], redesignated subsec. (g) as (f).
+    Subsec. (g). [Pub. L. 112–81][/us/pl/112/81], § 1061(25)(C), redesignated subsec. (g) as (f).
 
     [Pub. L. 111–350][/us/pl/111/350] substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 ([41 U.S.C. 601][/us/usc/t41/s601] et seq.)”.
 
@@ -111,7 +111,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 102–190, div. B, title XXVII, § 2809(c)][/us/pl/102/190/s2809/c], Dec. 5. 1991, [105 Stat. 1543][/us/stat/105/1543], provided that: 
+[Pub. L. 102–190, div. B, title XXVII][/us/pl/102/190/dB/tXXVII], § 2809(c), Dec. 5. 1991, [105 Stat. 1543][/us/stat/105/1543], provided that: 
 
 > “[Section 2836 of title 10][/us/usc/t10/s2836], United States Code, as added by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\]. The amendment made by subsection (b) \[repealing provisions set out as a note under [section 2821 of this title][/us/usc/t10/s2821]\] shall not affect the validity of any contract entered into before that date under section 802 of the Military Construction Authorization Act, 1984 ([10 U.S.C. 2821][/us/usc/t10/s2821] note), as in effect on the day before that date.”
 
@@ -122,28 +122,28 @@
 ----------
 ----------
 
-[/us/pl/102/190/s2809/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs2809%2Fa%2F1
+[/us/pl/102/190/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdB%2FtXXVIII
 [/us/stat/105/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1541
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/108/136/s1031/a/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F43
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1602
-[/us/pl/111/350/s5/b/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F48
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3846
-[/us/pl/112/81/s1061/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F25
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1584
-[/us/pl/112/239/s1076/f/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F36
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1954
-[/us/pl/98/115/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F115%2Fs802
+[/us/pl/98/115/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F115%2FtVIII
 [/us/stat/97/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F783
 [/us/usc/t10/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2821
-[/us/pl/102/190/s2809/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs2809%2Fb
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/112/81/s1061/25/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F25%2FA
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/112/81/s1061/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F25%2FB
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
-[/us/pl/112/81/s1061/25/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F25%2FC
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs601
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
@@ -152,7 +152,7 @@
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/102/190/s2809/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs2809%2Fc
+[/us/pl/102/190/dB/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdB%2FtXXVII
 [/us/stat/105/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1543
 [/us/usc/t10/s2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2836
 [/us/usc/t10/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2821

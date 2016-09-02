@@ -23,7 +23,7 @@
 
     (d) Upon the termination of a suspension made under the authority of subsection (a) of a provision of law otherwise requiring the separation or retirement of officers on active duty because of age, length of service or length of service in grade, or failure of selection for promotion, the Secretary concerned shall extend by up to 90 days the otherwise required separation or retirement date of any officer covered by the suspended provision whose separation or retirement date, but for the suspension, would have been before the date of the termination of the suspension or within 90 days after the date of such termination.
 
-(Added [Pub. L. 85–861, § 1(2)(A)][/us/pl/85/861/s1/2/A], Sept. 2, 1958, [72 Stat. 1437][/us/stat/72/1437]; amended [Pub. L. 86–559, § 1(1)][/us/pl/86/559/s1/1], June 30, 1960, [74 Stat. 264][/us/stat/74/264]; [Pub. L. 89–718, § 1][/us/pl/89/718/s1], Nov. 2, 1966, [80 Stat. 1115][/us/stat/80/1115]; [Pub. L. 90–130, § 1(1)][/us/pl/90/130/s1/1], Nov. 8, 1967, [81 Stat. 374][/us/stat/81/374]; [Pub. L. 96–513, title V][/us/pl/96/513], §§ 501(3), 511(1), Dec. 12, 1980, [94 Stat. 2907][/us/stat/94/2907], 2920; [Pub. L. 97–22, § 10(b)(1)][/us/pl/97/22/s10/b/1], July 10, 1981, [95 Stat. 137][/us/stat/95/137]; [Pub. L. 103–337, div. A, title XVI, § 1622(a)][/us/pl/103/337/s1622/a], Oct. 5, 1994, [108 Stat. 2961][/us/stat/108/2961]; [Pub. L. 104–106, div. A, title XV, § 1501(c)(4)][/us/pl/104/106/s1501/c/4], Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498]; [Pub. L. 107–107, div. A, title V, § 508(b)][/us/pl/107/107/s508/b], Dec. 28, 2001, [115 Stat. 1090][/us/stat/115/1090].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(2)(A), Sept. 2, 1958, [72 Stat. 1437][/us/stat/72/1437]; amended [Pub. L. 86–559][/us/pl/86/559], § 1(1), June 30, 1960, [74 Stat. 264][/us/stat/74/264]; [Pub. L. 89–718][/us/pl/89/718], § 1, Nov. 2, 1966, [80 Stat. 1115][/us/stat/80/1115]; [Pub. L. 90–130][/us/pl/90/130], § 1(1), Nov. 8, 1967, [81 Stat. 374][/us/stat/81/374]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], §§ 501(3), 511(1), Dec. 12, 1980, [94 Stat. 2907][/us/stat/94/2907], 2920; [Pub. L. 97–22][/us/pl/97/22], § 10(b)(1), July 10, 1981, [95 Stat. 137][/us/stat/95/137]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1622(a), Oct. 5, 1994, [108 Stat. 2961][/us/stat/108/2961]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(c)(4), Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498]; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 508(b), Dec. 28, 2001, [115 Stat. 1090][/us/stat/115/1090].)
 
 <table>
 
@@ -77,7 +77,7 @@ Sept. 3, 1954, ch. 1257, § 209 (less applicability to National Guard), 68 Sta
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 644 of this title][/us/usc/t10/s644] prior to repeal by [Pub. L. 103–337, § 1622(b)][/us/pl/103/337/s1622/b].
+    Provisions similar to those in this section were contained in [section 644 of this title][/us/usc/t10/s644] prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1622(b).
 
  __Amendments__ 
 
@@ -99,7 +99,7 @@ Sept. 3, 1954, ch. 1257, § 209 (less applicability to National Guard), 68 Sta
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–106, div. A, title XV, § 1501(c)][/us/pl/104/106/s1501/c], Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498], provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as originally enacted.
+    [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(c), Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498], provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as originally enacted.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -107,7 +107,7 @@ Sept. 3, 1954, ch. 1257, § 209 (less applicability to National Guard), 68 Sta
 
  __Effective Date of 1981 Amendment__ 
 
-    [Pub. L. 97–22, § 10(b)][/us/pl/97/22/s10/b], July 10, 1981, [95 Stat. 137][/us/stat/95/137], provided that the amendment made by that section is effective Sept. 15, 1981.
+    [Pub. L. 97–22][/us/pl/97/22], § 10(b), July 10, 1981, [95 Stat. 137][/us/stat/95/137], provided that the amendment made by that section is effective Sept. 15, 1981.
 
  __Effective Date of 1980 Amendment__ 
 
@@ -133,29 +133,29 @@ Sept. 3, 1954, ch. 1257, § 209 (less applicability to National Guard), 68 Sta
 ----------
 
 [/us/usc/t50/s1621–162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1621%E2%80%93162
-[/us/pl/85/861/s1/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F2%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1437
-[/us/pl/86/559/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559%2Fs1%2F1
+[/us/pl/86/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559
 [/us/stat/74/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F264
-[/us/pl/89/718/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs1
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1115
-[/us/pl/90/130/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs1%2F1
+[/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/stat/81/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F374
-[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2907
-[/us/pl/97/22/s10/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs10%2Fb%2F1
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F137
-[/us/pl/103/337/s1622/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1622%2Fa
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2961
-[/us/pl/104/106/s1501/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc%2F4
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F498
-[/us/pl/107/107/s508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs508%2Fb
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1090
 [/us/pl/94/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412
 [/us/stat/90/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1255
 [/us/usc/t50/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601
 [/us/usc/t10/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs644
-[/us/pl/103/337/s1622/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1622%2Fb
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
@@ -164,13 +164,13 @@ Sept. 3, 1954, ch. 1257, § 209 (less applicability to National Guard), 68 Sta
 [/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/pl/86/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559
-[/us/pl/104/106/s1501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F498
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691%2Fb%2F1
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
-[/us/pl/97/22/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs10%2Fb
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F137
 [/us/pl/96/513/s501/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs501%2F3
 [/us/pl/96/513/s511/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F1

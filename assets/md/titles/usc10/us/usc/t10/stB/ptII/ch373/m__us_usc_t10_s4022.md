@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stB/ptII/ch373/m__us_usc_t10_s4021.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch373/m__us_usc_t10_s4023.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4022)
 
-## \[§ 4022. Repealed. [Pub. L. 98–94, title IX, § 932(b)(1)][/us/pl/98/94/s932/b/1], Sept. 24, 1983, [97 Stat. 650][/us/stat/97/650]\]
+## \[§ 4022. Repealed. [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], § 932(b)(1), Sept. 24, 1983, [97 Stat. 650][/us/stat/97/650]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 233][/us/stat/70A/233], related to employment of contract surgeons in an emergency. See [section 1091 of this title][/us/usc/t10/s1091].
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/98/94/s932/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs932%2Fb%2F1
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F650
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F233

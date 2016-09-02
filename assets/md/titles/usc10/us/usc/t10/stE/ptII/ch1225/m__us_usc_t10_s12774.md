@@ -19,11 +19,11 @@
 
     (b) The Secretary of the Navy shall maintain a United States Naval Reserve Retired List containing the names of members of the Navy Reserve and the Marine Corps Reserve entitled to retired pay.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1662(k)(1)][/us/pl/103/337/s1662/k/1], Oct. 5, 1994, [108 Stat. 3006][/us/stat/108/3006]; amended [Pub. L. 109–163, div. A, title V, § 515(b)(1)(NN)][/us/pl/109/163/s515/b/1/NN], Jan. 6, 2006, [119 Stat. 3234][/us/stat/119/3234].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(k)(1), Oct. 5, 1994, [108 Stat. 3006][/us/stat/108/3006]; amended [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(NN), Jan. 6, 2006, [119 Stat. 3234][/us/stat/119/3234].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 1376(a) and 6017 of this title, prior to repeal by [Pub. L. 103–337, § 1662(k)(2)][/us/pl/103/337/s1662/k/2], (3)(A)(i).
+    Provisions similar to those in this section were contained in sections 1376(a) and 6017 of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1662(k)(2), (3)(A)(i).
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1662/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fk%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3006
-[/us/pl/109/163/s515/b/1/NN]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FNN
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3234
-[/us/pl/103/337/s1662/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fk%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 
 

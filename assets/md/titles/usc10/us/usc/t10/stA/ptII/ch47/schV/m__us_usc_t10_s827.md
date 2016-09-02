@@ -39,7 +39,7 @@
 
         (3) if the trial counsel is a judge advocate or a member of the bar of a Federal court or the highest court of a State, the defense counsel detailed by the convening authority must be one of the foregoing.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 46][/us/stat/70A/46]; [Pub. L. 90–179, § 1(5)][/us/pl/90/179/s1/5], Dec. 8, 1967, [81 Stat. 546][/us/stat/81/546]; [Pub. L. 90–632, § 2(10)][/us/pl/90/632/s2/10], Oct. 24, 1968, [82 Stat. 1337][/us/stat/82/1337]; [Pub. L. 98–209][/us/pl/98/209], §§ 2(d), 3(c)(2), Dec. 6, 1983, [97 Stat. 1393][/us/stat/97/1393], 1394.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 46][/us/stat/70A/46]; [Pub. L. 90–179][/us/pl/90/179], § 1(5), Dec. 8, 1967, [81 Stat. 546][/us/stat/81/546]; [Pub. L. 90–632][/us/pl/90/632], § 2(10), Oct. 24, 1968, [82 Stat. 1337][/us/stat/82/1337]; [Pub. L. 98–209][/us/pl/98/209], §§ 2(d), 3(c)(2), Dec. 6, 1983, [97 Stat. 1393][/us/stat/97/1393], 1394.)
 
 <table>
 
@@ -113,17 +113,17 @@ May 5, 1950, ch. 169, § 1 (Art. 27), 64 Stat. 117.  </td>
 
  __Amendments__ 
 
-    1983—Subsec. (a)(1). [Pub. L. 98–209, § 3(c)(2)(A)][/us/pl/98/209/s3/c/2/A], designated first sentence of existing provisions as par. (1), substituted provisions requiring that trial counsel and defense counsel be detailed for each general and special court-martial, and permitting the detailing of assistant trial counsel and assistant and associate defense counsel for each general and special court-martial for provisions requiring that for each general and special court-martial the authority convening the court had to detail trial counsel and defense counsel and such assistants as he considered appropriate, and inserted provision requiring the Secretary concerned to prescribe regulations providing for the manner in which counsel are detailed for such courts-martial and for the persons who are authorized to detail counsel for such courts-martial.
+    1983—Subsec. (a)(1). [Pub. L. 98–209][/us/pl/98/209], § 3(c)(2)(A), designated first sentence of existing provisions as par. (1), substituted provisions requiring that trial counsel and defense counsel be detailed for each general and special court-martial, and permitting the detailing of assistant trial counsel and assistant and associate defense counsel for each general and special court-martial for provisions requiring that for each general and special court-martial the authority convening the court had to detail trial counsel and defense counsel and such assistants as he considered appropriate, and inserted provision requiring the Secretary concerned to prescribe regulations providing for the manner in which counsel are detailed for such courts-martial and for the persons who are authorized to detail counsel for such courts-martial.
 
-    Subsec. (a)(2). [Pub. L. 98–209, § 3(c)(2)(B)][/us/pl/98/209/s3/c/2/B], designated existing provision, less first sentence, as par. (2) and substituted “assistant or associate defense counsel” for “assistant defense counsel”.
+    Subsec. (a)(2). [Pub. L. 98–209][/us/pl/98/209], § 3(c)(2)(B), designated existing provision, less first sentence, as par. (2) and substituted “assistant or associate defense counsel” for “assistant defense counsel”.
 
-    Subsec. (b)(1). [Pub. L. 98–209, § 2(d)(1)][/us/pl/98/209/s2/d/1], substituted “judge advocate” for “judge advocate of the Army, Navy, Air Force, or Marine Corps or a law specialist of the Coast Guard,”.
+    Subsec. (b)(1). [Pub. L. 98–209][/us/pl/98/209], § 2(d)(1), substituted “judge advocate” for “judge advocate of the Army, Navy, Air Force, or Marine Corps or a law specialist of the Coast Guard,”.
 
-    Subsec. (c)(3). [Pub. L. 98–209, § 2(d)(2)][/us/pl/98/209/s2/d/2], struck out “, or a law specialist,” after “is a judge advocate”.
+    Subsec. (c)(3). [Pub. L. 98–209][/us/pl/98/209], § 2(d)(2), struck out “, or a law specialist,” after “is a judge advocate”.
 
-    1968—Subsec. (a). [Pub. L. 90–632, § 2(10)(A)][/us/pl/90/632/s2/10/A], substituted “military judge” for “law officer”.
+    1968—Subsec. (a). [Pub. L. 90–632][/us/pl/90/632], § 2(10)(A), substituted “military judge” for “law officer”.
 
-    Subsec. (c). [Pub. L. 90–632, § 2(10)(B)][/us/pl/90/632/s2/10/B], redesignated former pars. (1) and (2) as pars. (2) and (3), respectively, and added par. (1).
+    Subsec. (c). [Pub. L. 90–632][/us/pl/90/632], § 2(10)(B), redesignated former pars. (1) and (2) as pars. (2) and (3), respectively, and added par. (1).
 
     1967—Subsec. (b)(1). [Pub. L. 90–179][/us/pl/90/179] inserted reference to judge advocate of the Marine Corps and substituted reference to judge advocate of the Navy for reference to law specialist of the Navy.
 
@@ -145,18 +145,18 @@ May 5, 1950, ch. 169, § 1 (Art. 27), 64 Stat. 117.  </td>
 [/us/usc/t10/s827/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs827%2Fb
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F46
-[/us/pl/90/179/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179%2Fs1%2F5
+[/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
 [/us/stat/81/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F546
-[/us/pl/90/632/s2/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F10
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1337
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1393
-[/us/pl/98/209/s3/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs3%2Fc%2F2%2FA
-[/us/pl/98/209/s3/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs3%2Fc%2F2%2FB
-[/us/pl/98/209/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs2%2Fd%2F1
-[/us/pl/98/209/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs2%2Fd%2F2
-[/us/pl/90/632/s2/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F10%2FA
-[/us/pl/90/632/s2/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F10%2FB
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/98/209/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs3%2Fc%2F2

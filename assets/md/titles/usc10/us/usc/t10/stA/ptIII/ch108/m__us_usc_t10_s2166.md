@@ -137,7 +137,7 @@
 
     Not later than March 15 of each year, the Secretary of Defense shall submit to Congress a detailed report on the activities of the Institute during the preceding year. The report shall include a copy of the latest report of the Board of Visitors received by the Secretary under subsection (e)(5), together with any comments of the Secretary on the Board’s report. The report shall be prepared in consultation with the Secretary of State.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 911(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–226; amended [Pub. L. 107–107, div. A, title X, § 1048(a)(16)][/us/pl/107/107/s1048/a/16], Dec. 28, 2001, [115 Stat. 1223][/us/stat/115/1223]; [Pub. L. 107–314, div. A, title IX, § 932][/us/pl/107/314/s932], Dec. 2, 2002, [116 Stat. 2625][/us/stat/116/2625]; [Pub. L. 110–181, div. A, title IX, § 956][/us/pl/110/181/s956], Jan. 28, 2008, [122 Stat. 296][/us/stat/122/296].)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 911(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–226; amended [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(a)(16), Dec. 28, 2001, [115 Stat. 1223][/us/stat/115/1223]; [Pub. L. 107–314, div. A, title IX][/us/pl/107/314/dA/tIX], § 932, Dec. 2, 2002, [116 Stat. 2625][/us/stat/116/2625]; [Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 956, Jan. 28, 2008, [122 Stat. 296][/us/stat/122/296].)
 
  __References in Text__ 
 
@@ -147,9 +147,9 @@
 
     2008—Subsec. (e)(1)(F). [Pub. L. 110–181][/us/pl/110/181] amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “The commander of the unified combatant command having geographic responsibility for Latin America, or a designee of that officer.”
 
-    2002—Subsecs. (f) to (h). [Pub. L. 107–314, § 932(a)][/us/pl/107/314/s932/a], added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+    2002—Subsecs. (f) to (h). [Pub. L. 107–314][/us/pl/107/314], § 932(a), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-    Subsec. (i). [Pub. L. 107–314, § 932(a)(1)][/us/pl/107/314/s932/a/1], (b), redesignated subsec. (h) as (i) and inserted after first sentence “The report shall include a copy of the latest report of the Board of Visitors received by the Secretary under subsection (e)(5), together with any comments of the Secretary on the Board’s report.”
+    Subsec. (i). [Pub. L. 107–314][/us/pl/107/314], § 932(a)(1), (b), redesignated subsec. (h) as (i) and inserted after first sentence “The report shall include a copy of the latest report of the Board of Visitors received by the Secretary under subsection (e)(5), together with any comments of the Secretary on the Board’s report.”
 
     2001—Subsec. (e)(9). [Pub. L. 107–107][/us/pl/107/107] substituted “(5 U.S.C. App.)” for “(5 U.S.C. App. 2)”.
 
@@ -162,19 +162,19 @@
 
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s1048/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fa%2F16
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1223
-[/us/pl/107/314/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs932
+[/us/pl/107/314/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtIX
 [/us/stat/116/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2625
-[/us/pl/110/181/s956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs956
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F296
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/107/314/s932/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs932%2Fa
-[/us/pl/107/314/s932/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs932%2Fa%2F1
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 
 

@@ -65,7 +65,7 @@
 
     In this section, the term “logistic support, supplies, and services” has the meaning given that term in [section 2350(1) of this title][/us/usc/t10/s2350/1].
 
-(Added [Pub. L. 109–364, div. A, title XII, § 1201(a)][/us/pl/109/364/s1201/a], Oct. 17, 2006, [120 Stat. 2410][/us/stat/120/2410], § 127c; renumbered § 127d, [Pub. L. 110–181, div. A, title X, § 1063(a)(1)(A)][/us/pl/110/181/s1063/a/1/A], Jan. 28, 2008, [122 Stat. 321][/us/stat/122/321]; [Pub. L. 111–383, div. A, title X, § 1075(b)(3)][/us/pl/111/383/s1075/b/3], title XII, § 1202, Jan. 7, 2011, [124 Stat. 4369][/us/stat/124/4369], 4385.)
+(Added [Pub. L. 109–364, div. A, title XII][/us/pl/109/364/dA/tXII], § 1201(a), Oct. 17, 2006, [120 Stat. 2410][/us/stat/120/2410], § 127c; renumbered § 127d, [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1063(a)(1)(A), Jan. 28, 2008, [122 Stat. 321][/us/stat/122/321]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(3), title XII, § 1202, Jan. 7, 2011, [124 Stat. 4369][/us/stat/124/4369], 4385.)
 
  __References in Text__ 
 
@@ -73,15 +73,15 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 111–383, § 1202(a)][/us/pl/111/383/s1202/a], designated existing provisions as par. (1), inserted “of the United States” after “armed forces”, struck out “Provision of such support, supplies, and services to the forces of an allied nation may be made only with the concurrence of the Secretary of State.” at end, and added pars. (2) and (3).
+    2011—Subsec. (a). [Pub. L. 111–383][/us/pl/111/383], § 1202(a), designated existing provisions as par. (1), inserted “of the United States” after “armed forces”, struck out “Provision of such support, supplies, and services to the forces of an allied nation may be made only with the concurrence of the Secretary of State.” at end, and added pars. (2) and (3).
 
-    Subsec. (b). [Pub. L. 111–383, § 1202(b)(1)][/us/pl/111/383/s1202/b/1], substituted “subsection (a)(1)” for “subsection (a)” in par. (1) and in introductory provisions of par. (2).
+    Subsec. (b). [Pub. L. 111–383][/us/pl/111/383], § 1202(b)(1), substituted “subsection (a)(1)” for “subsection (a)” in par. (1) and in introductory provisions of par. (2).
 
-    Subsec. (c)(1). [Pub. L. 111–383, § 1202(b)(2)(A)][/us/pl/111/383/s1202/b/2/A], substituted “The” for “Except as provided in paragraph (2), the” and “subsection (a)(1)” for “this section”.
+    Subsec. (c)(1). [Pub. L. 111–383][/us/pl/111/383], § 1202(b)(2)(A), substituted “The” for “Except as provided in paragraph (2), the” and “subsection (a)(1)” for “this section”.
 
-    Subsec. (c)(2). [Pub. L. 111–383, § 1202(b)(2)(B)][/us/pl/111/383/s1202/b/2/B], substituted “The value of the logistic support, supplies, and services provided under subsection (a)(2) in any fiscal year may not” for “In addition to any logistic support, supplies, and services provided under subsection (a) that are covered by paragraph (1), the value of logistic support, supplies, and services provided under this section solely for the purposes of enhancing the interoperability of the logistical support systems of military forces participating in combined operation of the United States in order to facilitate such operations may not, in any fiscal year,”.
+    Subsec. (c)(2). [Pub. L. 111–383][/us/pl/111/383], § 1202(b)(2)(B), substituted “The value of the logistic support, supplies, and services provided under subsection (a)(2) in any fiscal year may not” for “In addition to any logistic support, supplies, and services provided under subsection (a) that are covered by paragraph (1), the value of logistic support, supplies, and services provided under this section solely for the purposes of enhancing the interoperability of the logistical support systems of military forces participating in combined operation of the United States in order to facilitate such operations may not, in any fiscal year,”.
 
-    Subsec. (d)(1). [Pub. L. 111–383, § 1075(b)(3)][/us/pl/111/383/s1075/b/3], substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
+    Subsec. (d)(1). [Pub. L. 111–383][/us/pl/111/383], § 1075(b)(3), substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
 
     2008—[Pub. L. 110–181][/us/pl/110/181] renumbered [section 127c of this title][/us/usc/t10/s127c], relating to allied forces participating in combined operations, as this section.
 
@@ -93,20 +93,20 @@
 ----------
 
 [/us/usc/t10/s2350/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2350%2F1
-[/us/pl/109/364/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1201%2Fa
+[/us/pl/109/364/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtXII
 [/us/stat/120/2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2410
-[/us/pl/110/181/s1063/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fa%2F1%2FA
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F321
-[/us/pl/111/383/s1075/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F3
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4369
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
-[/us/pl/111/383/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1202%2Fa
-[/us/pl/111/383/s1202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1202%2Fb%2F1
-[/us/pl/111/383/s1202/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1202%2Fb%2F2%2FA
-[/us/pl/111/383/s1202/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1202%2Fb%2F2%2FB
-[/us/pl/111/383/s1075/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F3
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t10/s127c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs127c
 

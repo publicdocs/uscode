@@ -35,11 +35,11 @@
 
         (2) excludes services relating to research and development and services relating to military construction.
 
-(Added [Pub. L. 111–84, div. A, title VIII, § 803(a)(1)][/us/pl/111/84/s803/a/1], Oct. 28, 2009, [123 Stat. 2401][/us/stat/123/2401].)
+(Added [Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], § 803(a)(1), Oct. 28, 2009, [123 Stat. 2401][/us/stat/123/2401].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [Pub. L. 110–181, div. A, title VIII, § 806][/us/pl/110/181/s806], Jan. 28, 2008, [122 Stat. 213][/us/stat/122/213], which was set out as a note under [section 221 of this title][/us/usc/t10/s221], prior to repeal by [Pub. L. 111–84, § 803(a)(3)][/us/pl/111/84/s803/a/3].
+    Provisions similar to those in this section were contained in [Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 806, Jan. 28, 2008, [122 Stat. 213][/us/stat/122/213], which was set out as a note under [section 221 of this title][/us/usc/t10/s221], prior to repeal by [Pub. L. 111–84][/us/pl/111/84], § 803(a)(3).
 
 ----------
 
@@ -50,11 +50,11 @@
 
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t10/s2330a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2330a
-[/us/pl/111/84/s803/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs803%2Fa%2F1
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2401
-[/us/pl/110/181/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs806
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F213
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
-[/us/pl/111/84/s803/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs803%2Fa%2F3
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 
 

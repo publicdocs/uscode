@@ -123,7 +123,7 @@
 
         (5) Provide for oversight of project execution to ensure that a training project under this section is carried out in accordance with the proposal for that project as approved.
 
-(Added [Pub. L. 104–106, div. A, title V, § 572(a)(1)][/us/pl/104/106/s572/a/1], Feb. 10, 1996, [110 Stat. 353][/us/stat/110/353]; amended [Pub. L. 105–85, div. A, title V, § 594][/us/pl/105/85/s594], Nov. 18, 1997, [111 Stat. 1764][/us/stat/111/1764]; [Pub. L. 105–261, div. A, title V, § 525(a)][/us/pl/105/261/s525/a], Oct. 17, 1998, [112 Stat. 2014][/us/stat/112/2014].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 572(a)(1), Feb. 10, 1996, [110 Stat. 353][/us/stat/110/353]; amended [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 594, Nov. 18, 1997, [111 Stat. 1764][/us/stat/111/1764]; [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 525(a), Oct. 17, 1998, [112 Stat. 2014][/us/stat/112/2014].)
 
  __References in Text__ 
 
@@ -137,13 +137,13 @@
 
  __Implementation__ 
 
-[Pub. L. 105–261, div. A, title V, § 525(b)][/us/pl/105/261/s525/b], Oct. 17, 1998, [112 Stat. 2014][/us/stat/112/2014], as amended by [Pub. L. 106–65, div. A, title X, § 1066(b)(4)][/us/pl/106/65/s1066/b/4], Oct. 5, 1999, [113 Stat. 772][/us/stat/113/772], provided that: 
+[Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 525(b), Oct. 17, 1998, [112 Stat. 2014][/us/stat/112/2014], as amended by [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1066(b)(4), Oct. 5, 1999, [113 Stat. 772][/us/stat/113/772], provided that: 
 
 > “The Secretary of Defense may not initiate any project under [section 2012 of title 10][/us/usc/t10/s2012], United States Code, after October 1, 1998, until the program required by subsection (j) of that section (as added by subsection (a)) has been established.”
 
  __Termination of Funding for Office of Civil-Military Programs in Office of the Secretary of Defense__ 
 
-[Pub. L. 104–106, div. A, title V, § 574][/us/pl/104/106/s574], Feb. 10, 1996, [110 Stat. 356][/us/stat/110/356], provided that: 
+[Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 574, Feb. 10, 1996, [110 Stat. 356][/us/stat/110/356], provided that: 
 
 > “No funds may be obligated or expended after the date of the enactment of this Act \[Feb. 10, 1996\] (1) for the office that as of the date of the enactment of this Act is designated, within the Office of the Assistant Secretary of Defense for Reserve Affairs \[now Assistant Secretary of Defense for Manpower and Reserve Affairs\], as the Office of Civil-Military Programs, or (2) for any other entity within the Office of the Secretary of Defense that has an exclusive or principal mission of providing centralized direction for activities under [section 2012 of title 10][/us/usc/t10/s2012], United States Code, as added by section 572.”
 
@@ -155,22 +155,22 @@
 ----------
 
 [/us/usc/t32/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs508
-[/us/pl/104/106/s572/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs572%2Fa%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F353
-[/us/pl/105/85/s594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs594
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1764
-[/us/pl/105/261/s525/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs525%2Fa
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2014
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/105/261/s525/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs525%2Fb
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2014
-[/us/pl/106/65/s1066/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fb%2F4
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F772
 [/us/usc/t10/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2012
-[/us/pl/104/106/s574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs574
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F356
 [/us/usc/t10/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2012
 

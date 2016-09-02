@@ -21,7 +21,7 @@
 
     (2) The term “delivery order contract” means a contract for property that does not procure or specify a firm quantity of property (other than a minimum or maximum quantity) and that provides for the issuance of orders for the delivery of property during the period of the contract.
 
-(Added [Pub. L. 103–355, title I, § 1004(a)(1)][/us/pl/103/355/s1004/a/1], Oct. 13, 1994, [108 Stat. 3253][/us/stat/108/3253].)
+(Added [Pub. L. 103–355, title I][/us/pl/103/355/tI], § 1004(a)(1), Oct. 13, 1994, [108 Stat. 3253][/us/stat/108/3253].)
 
  __Effective Date__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/103/355/s1004/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1004%2Fa%2F1
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3253
 [/us/pl/103/355/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10001
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302

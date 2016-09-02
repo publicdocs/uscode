@@ -21,7 +21,7 @@
 
     (c) The development of the University may be by such phases as the Secretary of Defense may prescribe subject to the requirements of subsection (a).
 
-(Added [Pub. L. 92–426, § 2(a)][/us/pl/92/426/s2/a], Sept. 21, 1972, [86 Stat. 713][/us/stat/86/713]; amended [Pub. L. 96–107, title VIII, § 803(a)][/us/pl/96/107/s803/a], Nov. 9, 1979, [93 Stat. 811][/us/stat/93/811]; [Pub. L. 96–513, title V, § 511(63)][/us/pl/96/513/s511/63], (64), Dec. 12, 1980, [94 Stat. 2925][/us/stat/94/2925], 2926; [Pub. L. 104–106, div. A, title X, § 1072(b)(1)][/us/pl/104/106/s1072/b/1], Feb. 10, 1996, [110 Stat. 446][/us/stat/110/446]; [Pub. L. 107–107, div. A, title X, § 1048(e)(8)][/us/pl/107/107/s1048/e/8], Dec. 28, 2001, [115 Stat. 1228][/us/stat/115/1228].)
+(Added [Pub. L. 92–426][/us/pl/92/426], § 2(a), Sept. 21, 1972, [86 Stat. 713][/us/stat/86/713]; amended [Pub. L. 96–107, title VIII][/us/pl/96/107/tVIII], § 803(a), Nov. 9, 1979, [93 Stat. 811][/us/stat/93/811]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(63), (64), Dec. 12, 1980, [94 Stat. 2925][/us/stat/94/2925], 2926; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1072(b)(1), Feb. 10, 1996, [110 Stat. 446][/us/stat/110/446]; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(e)(8), Dec. 28, 2001, [115 Stat. 1228][/us/stat/115/1228].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Short Title__ 
 
-[Pub. L. 92–426, § 1][/us/pl/92/426/s1], Sept. 21, 1972, [86 Stat. 713][/us/stat/86/713], provided: 
+[Pub. L. 92–426][/us/pl/92/426], § 1, Sept. 21, 1972, [86 Stat. 713][/us/stat/86/713], provided: 
 
 > “That this Act \[enacting this chapter and chapter 105 of this title\] may be cited as the ‘Uniformed Services Health Professions Revitalization Act of 1972’.”
 
@@ -49,7 +49,7 @@
 
  __Continuation of Uniformed Services University of the Health Sciences__ 
 
-[Pub. L. 104–106, div. A, title X, § 1071][/us/pl/104/106/s1071], Feb. 10, 1996, [110 Stat. 445][/us/stat/110/445], as amended by [Pub. L. 104–201, div. A, title IX, § 907(b)(2)][/us/pl/104/201/s907/b/2], Sept. 23, 1996, [110 Stat. 2620][/us/stat/110/2620], provided that:
+[Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1071, Feb. 10, 1996, [110 Stat. 445][/us/stat/110/445], as amended by [Pub. L. 104–201, div. A, title IX][/us/pl/104/201/dA/tIX], § 907(b)(2), Sept. 23, 1996, [110 Stat. 2620][/us/stat/110/2620], provided that:
 
 >     “(a)  __Policy__  __.—__ 
 
@@ -59,15 +59,15 @@
 
 >         “(2) the expression of the sense of Congress set forth in subsection (b) of such section regarding the budgetary commitment to continuation of the University.
 
->     “\[(b) Repealed. [Pub. L. 104–201, div. A, title IX, § 907(b)(2)][/us/pl/104/201/s907/b/2], Sept. 23, 1996, [110 Stat. 2620][/us/stat/110/2620]. See [section 2112a(b) of this title][/us/usc/t10/s2112a/b].\]
+>     “\[(b) Repealed. [Pub. L. 104–201, div. A, title IX][/us/pl/104/201/dA/tIX], § 907(b)(2), Sept. 23, 1996, [110 Stat. 2620][/us/stat/110/2620]. See [section 2112a(b) of this title][/us/usc/t10/s2112a/b].\]
 
 >     “(c)  __Budgetary Commitment to Continuation__  __.—__ 
 
 >     It is the sense of Congress that the Secretary of Defense should budget for the operation of the Uniformed Services University of the Health Sciences during fiscal year 1997 at a level at least equal to the level of operations conducted at the University during fiscal year 1995.”
 
-[Pub. L. 103–337, div. A, title IX, § 922][/us/pl/103/337/s922], Oct. 5, 1994, [108 Stat. 2829][/us/stat/108/2829], as amended by [Pub. L. 104–201, div. A, title IX, § 907(b)(1)][/us/pl/104/201/s907/b/1], Sept. 23, 1996, [110 Stat. 2620][/us/stat/110/2620], provided that:
+[Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 922, Oct. 5, 1994, [108 Stat. 2829][/us/stat/108/2829], as amended by [Pub. L. 104–201, div. A, title IX][/us/pl/104/201/dA/tIX], § 907(b)(1), Sept. 23, 1996, [110 Stat. 2620][/us/stat/110/2620], provided that:
 
-    \[(a) Repealed. [Pub. L. 104–201, div. A, title IX, § 907(b)(1)][/us/pl/104/201/s907/b/1], Sept. 23, 1996, [110 Stat. 2620][/us/stat/110/2620]. See [section 2112a(a) of this title][/us/usc/t10/s2112a/a].\]
+    \[(a) Repealed. [Pub. L. 104–201, div. A, title IX][/us/pl/104/201/dA/tIX], § 907(b)(1), Sept. 23, 1996, [110 Stat. 2620][/us/stat/110/2620]. See [section 2112a(a) of this title][/us/usc/t10/s2112a/a].\]
 
     “(b) Budgetary Commitment to Continuation.—It is the sense of Congress that the Secretary of Defense should budget for the ongoing operation of the Uniformed Services University of the Health Sciences as an institution of professional education that is vital to the education and training each year of significant numbers of personnel of the uniformed services for careers as uniformed services health care providers.
 
@@ -87,7 +87,7 @@
 
  __F. Edward Hébert School of Medicine__ 
 
-[Pub. L. 98–94, title XII, § 1265][/us/pl/98/94/s1265], Sept. 24, 1983, [97 Stat. 704][/us/stat/97/704], provided that: 
+[Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1265, Sept. 24, 1983, [97 Stat. 704][/us/stat/97/704], provided that: 
 
 > “The School of Medicine of the Uniformed Services University of the Health Sciences shall after the date of the enactment of this Act \[Sept. 24, 1983\] be known and designated as the ‘F. Edward Hébert School of Medicine’. Any reference to such school of medicine in any law, regulation, map, document, or other record of the United States shall after such date be deemed to be a reference to such school of medicine as the F. Edward Hébert School of Medicine.”
 
@@ -98,15 +98,15 @@
 ----------
 ----------
 
-[/us/pl/92/426/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F426%2Fs2%2Fa
+[/us/pl/92/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F426
 [/us/stat/86/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F713
-[/us/pl/96/107/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs803%2Fa
+[/us/pl/96/107/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2FtVIII
 [/us/stat/93/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F811
-[/us/pl/96/513/s511/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F63
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2925
-[/us/pl/104/106/s1072/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1072%2Fb%2F1
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F446
-[/us/pl/107/107/s1048/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fe%2F8
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1228
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
@@ -115,28 +115,28 @@
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/92/426/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F426%2Fs1
+[/us/pl/92/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F426
 [/us/stat/86/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F713
 [/us/pl/101/511/s8091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F511%2Fs8091
 [/us/usc/t10/s2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2113
-[/us/pl/104/106/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1071
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F445
-[/us/pl/104/201/s907/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs907%2Fb%2F2
+[/us/pl/104/201/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIX
 [/us/stat/110/2620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2620
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/stat/108/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2829
 [/us/usc/t10/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2112
-[/us/pl/104/201/s907/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs907%2Fb%2F2
+[/us/pl/104/201/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIX
 [/us/stat/110/2620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2620
 [/us/usc/t10/s2112a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2112a%2Fb
-[/us/pl/103/337/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs922
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2829
-[/us/pl/104/201/s907/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs907%2Fb%2F1
+[/us/pl/104/201/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIX
 [/us/stat/110/2620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2620
-[/us/pl/104/201/s907/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs907%2Fb%2F1
+[/us/pl/104/201/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIX
 [/us/stat/110/2620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2620
 [/us/usc/t10/s2112a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2112a%2Fa
-[/us/pl/98/94/s1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1265
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F704
 
 

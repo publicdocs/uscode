@@ -37,7 +37,7 @@
 
     (c) Payments for supplies and services furnished under this section may be credited to current appropriations so as to be available for the same purpose as the appropriation initially charged.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 447][/us/stat/70A/447]; [Pub. L. 86–55, § 1][/us/pl/86/55/s1], June 23, 1959, [73 Stat. 89][/us/stat/73/89]; [Pub. L. 98–94, title XII, § 1219(a)][/us/pl/98/94/s1219/a], Sept. 24, 1983, [97 Stat. 691][/us/stat/97/691]; [Pub. L. 98–525, title XIV, § 1405(49)][/us/pl/98/525/s1405/49], Oct. 19, 1984, [98 Stat. 2625][/us/stat/98/2625]; [Pub. L. 102–190, div. A, title X, § 1048][/us/pl/102/190/s1048], Dec. 5, 1991, [105 Stat. 1468][/us/stat/105/1468].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 447][/us/stat/70A/447]; [Pub. L. 86–55][/us/pl/86/55], § 1, June 23, 1959, [73 Stat. 89][/us/stat/73/89]; [Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1219(a), Sept. 24, 1983, [97 Stat. 691][/us/stat/97/691]; [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(49), Oct. 19, 1984, [98 Stat. 2625][/us/stat/98/2625]; [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1048, Dec. 5, 1991, [105 Stat. 1468][/us/stat/105/1468].)
 
 <table>
 
@@ -85,15 +85,15 @@ May 27, 1953, ch. 67, 67 Stat. 34.  </td>
 
  __Amendments__ 
 
-    1991—Subsec. (a). [Pub. L. 102–190, § 1048(a)][/us/pl/102/190/s1048/a], struck out “friendly” before “foreign country” in introductory provisions and “friendly” before “foreign countries” in pars. (1) to (4).
+    1991—Subsec. (a). [Pub. L. 102–190][/us/pl/102/190], § 1048(a), struck out “friendly” before “foreign country” in introductory provisions and “friendly” before “foreign countries” in pars. (1) to (4).
 
-    Subsec. (b)(2). [Pub. L. 102–190, § 1048(b)][/us/pl/102/190/s1048/b], struck out subpar. (A) designation, substituted “naval vessels of a foreign country” for “naval vessels of an allied country”, inserted after first sentence “When furnishing routine airport services under this section to military aircraft of a foreign country, the Secretary may furnish such services without reimbursement if such services are provided under an agreement that provides for the reciprocal furnishing by such country of routine airport services to military aircraft of the United States without reimbursement.”, designated last sentence relating to furnishing of routine services by a working-capital fund activity of the Navy as par. (3), and struck out former subpar. (B) which defined “allied country”.
+    Subsec. (b)(2). [Pub. L. 102–190][/us/pl/102/190], § 1048(b), struck out subpar. (A) designation, substituted “naval vessels of a foreign country” for “naval vessels of an allied country”, inserted after first sentence “When furnishing routine airport services under this section to military aircraft of a foreign country, the Secretary may furnish such services without reimbursement if such services are provided under an agreement that provides for the reciprocal furnishing by such country of routine airport services to military aircraft of the United States without reimbursement.”, designated last sentence relating to furnishing of routine services by a working-capital fund activity of the Navy as par. (3), and struck out former subpar. (B) which defined “allied country”.
 
-    Subsec. (b)(3). [Pub. L. 102–190, § 1048(b)(5)][/us/pl/102/190/s1048/b/5], designated last sentence of par. (2) relating to furnishing of routine services by a working-capital fund activity of the Navy as par. (3) and substituted “port or airport services” for “port services” and “paragraph (2)” for “this paragraph”.
+    Subsec. (b)(3). [Pub. L. 102–190][/us/pl/102/190], § 1048(b)(5), designated last sentence of par. (2) relating to furnishing of routine services by a working-capital fund activity of the Navy as par. (3) and substituted “port or airport services” for “port services” and “paragraph (2)” for “this paragraph”.
 
-    1984—Subsec. (a)(1), (2). [Pub. L. 98–525, § 1405(49)(A)][/us/pl/98/525/s1405/49/A], (C), in cls. (1) and (2), substituted “Routine” for “routine” and a period for the semicolon at the end.
+    1984—Subsec. (a)(1), (2). [Pub. L. 98–525][/us/pl/98/525], § 1405(49)(A), (C), in cls. (1) and (2), substituted “Routine” for “routine” and a period for the semicolon at the end.
 
-    Subsec. (a)(3). [Pub. L. 98–525, § 1405(49)(B)][/us/pl/98/525/s1405/49/B], (D), substituted “Miscellaneous” for “miscellaneous” and a period for “; and”.
+    Subsec. (a)(3). [Pub. L. 98–525][/us/pl/98/525], § 1405(49)(B), (D), substituted “Miscellaneous” for “miscellaneous” and a period for “; and”.
 
     1983—Subsec. (b). [Pub. L. 98–94][/us/pl/98/94] designated existing provisions as par. (1) and added par. (2).
 
@@ -101,7 +101,7 @@ May 27, 1953, ch. 67, 67 Stat. 34.  </td>
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 98–94, title XII, § 1219(b)][/us/pl/98/94/s1219/b], Sept. 24, 1983, [97 Stat. 691][/us/stat/97/691], provided that: 
+[Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1219(b), Sept. 24, 1983, [97 Stat. 691][/us/stat/97/691], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1983.”
 
@@ -115,22 +115,22 @@ May 27, 1953, ch. 67, 67 Stat. 34.  </td>
 [/us/usc/t10/s2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2208
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F447
-[/us/pl/86/55/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F55%2Fs1
+[/us/pl/86/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F55
 [/us/stat/73/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F89
-[/us/pl/98/94/s1219/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1219%2Fa
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F691
-[/us/pl/98/525/s1405/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F49
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2625
-[/us/pl/102/190/s1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1048
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1468
-[/us/pl/102/190/s1048/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1048%2Fa
-[/us/pl/102/190/s1048/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1048%2Fb
-[/us/pl/102/190/s1048/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1048%2Fb%2F5
-[/us/pl/98/525/s1405/49/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F49%2FA
-[/us/pl/98/525/s1405/49/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F49%2FB
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/86/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F55
-[/us/pl/98/94/s1219/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1219%2Fb
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F691
 
 

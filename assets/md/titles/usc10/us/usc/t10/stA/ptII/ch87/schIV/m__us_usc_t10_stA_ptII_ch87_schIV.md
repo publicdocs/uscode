@@ -83,11 +83,11 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383], §§ 874(b)(2), 877(c)(2)(B), Jan. 7, 2011, [124 Stat. 4305][/us/stat/124/4305], 4306, substituted “Defense Acquisition University” for “Defense acquisition university structure” in item 1746 and added item 1748.
+    2011—[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], §§ 874(b)(2), 877(c)(2)(B), Jan. 7, 2011, [124 Stat. 4305][/us/stat/124/4305], 4306, substituted “Defense Acquisition University” for “Defense acquisition university structure” in item 1746 and added item 1748.
 
-    2003—[Pub. L. 108–136, div. A, title VIII, § 836(3)][/us/pl/108/136/s836/3], Nov. 24, 2003, [117 Stat. 1552][/us/stat/117/1552], substituted “Internship, cooperative education, and scholarship programs” for “Intern program” in item 1742 and struck out items 1743 “Cooperative education program” and 1744 “Scholarship program”.
+    2003—[Pub. L. 108–136, div. A, title VIII][/us/pl/108/136/dA/tVIII], § 836(3), Nov. 24, 2003, [117 Stat. 1552][/us/stat/117/1552], substituted “Internship, cooperative education, and scholarship programs” for “Intern program” in item 1742 and struck out items 1743 “Cooperative education program” and 1744 “Scholarship program”.
 
-    2002—[Pub. L. 107–314, div. A, title X, § 1062(a)(10)(B)][/us/pl/107/314/s1062/a/10/B], Dec. 2, 2002, [116 Stat. 2650][/us/stat/116/2650], transferred former item 2410h from chapter 141 to this subchapter and redesignated it as item 1747.
+    2002—[Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1062(a)(10)(B), Dec. 2, 2002, [116 Stat. 2650][/us/stat/116/2650], transferred former item 2410h from chapter 141 to this subchapter and redesignated it as item 1747.
 
 ----------
 
@@ -96,11 +96,11 @@
 ----------
 ----------
 
-[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4305
-[/us/pl/108/136/s836/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs836%2F3
+[/us/pl/108/136/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVIII
 [/us/stat/117/1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1552
-[/us/pl/107/314/s1062/a/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1062%2Fa%2F10%2FB
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2650
 
 

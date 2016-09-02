@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury shall invest such portion of the Fund as is not in the judgment of the Secretary of Defense required to meet current withdrawals. Such investments shall be in public debt securities with maturities suitable to the needs of the Fund, as determined by the Secretary of Defense, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to and form a part of the Fund.
 
-(Added [Pub. L. 98–94, title IX, § 925(a)(1)][/us/pl/98/94/s925/a/1], Sept. 24, 1983, [97 Stat. 648][/us/stat/97/648].)
+(Added [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], § 925(a)(1), Sept. 24, 1983, [97 Stat. 648][/us/stat/97/648].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/94/s925/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs925%2Fa%2F1
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F648
 
 

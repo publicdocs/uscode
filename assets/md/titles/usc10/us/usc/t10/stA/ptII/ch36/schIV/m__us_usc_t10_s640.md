@@ -19,7 +19,7 @@
 
     (b) A deferral of retirement or separation under subsection (a) may not extend for more than 30 days after completion of the evaluation requiring hospitalization or medical observation.
 
-(Added [Pub. L. 96–513, title I, § 105][/us/pl/96/513/s105], Dec. 12, 1980, [94 Stat. 2866][/us/stat/94/2866]; amended [Pub. L. 107–107, div. A, title V, § 507][/us/pl/107/107/s507], Dec. 28, 2001, [115 Stat. 1090][/us/stat/115/1090].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 105, Dec. 12, 1980, [94 Stat. 2866][/us/stat/94/2866]; amended [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 507, Dec. 28, 2001, [115 Stat. 1090][/us/stat/115/1090].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/96/513/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs105
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2866
-[/us/pl/107/107/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs507
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1090
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 

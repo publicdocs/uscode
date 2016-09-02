@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs948" data-uslm-ref="/us/usc/t10/s948">948</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs948l" data-uslm-ref="/us/usc/t10/s948l">948l.</a>  </td>
 
     <td> Detail or employment of reporters and interpreters.  </td>
 

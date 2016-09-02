@@ -33,7 +33,7 @@
 
     (c) In any case in which a court-martial sentences a person to confinement and the sentence to confinement has been ordered executed, but in which review of the case under [section 867(a)(2) of this title][/us/usc/t10/s867/a/2] (article 67(a)(2)) is pending, the Secretary concerned may defer further service of the sentence to confinement while that review is pending.
 
-(Added [Pub. L. 90–632, § 2(24)][/us/pl/90/632/s2/24], Oct. 24, 1968, [82 Stat. 1341][/us/stat/82/1341], § 857(d); amended [Pub. L. 102–484, div. A, title X, § 1064][/us/pl/102/484/s1064], Oct. 23, 1992, [106 Stat. 2505][/us/stat/106/2505]; renumbered § 857a and amended [Pub. L. 104–106, div. A, title XI, § 1123(a)][/us/pl/104/106/s1123/a], Feb. 10, 1996, [110 Stat. 463][/us/stat/110/463].)
+(Added [Pub. L. 90–632][/us/pl/90/632], § 2(24), Oct. 24, 1968, [82 Stat. 1341][/us/stat/82/1341], § 857(d); amended [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1064, Oct. 23, 1992, [106 Stat. 2505][/us/stat/106/2505]; renumbered § 857a and amended [Pub. L. 104–106, div. A, title XI][/us/pl/104/106/dA/tXI], § 1123(a), Feb. 10, 1996, [110 Stat. 463][/us/stat/110/463].)
 
  __Amendments__ 
 
@@ -53,11 +53,11 @@
 ----------
 
 [/us/usc/t10/s867/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs867%2Fa%2F2
-[/us/pl/90/632/s2/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F24
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1341
-[/us/pl/102/484/s1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1064
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2505
-[/us/pl/104/106/s1123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1123%2Fa
+[/us/pl/104/106/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXI
 [/us/stat/110/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F463
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t10/s857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs857

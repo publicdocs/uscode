@@ -69,19 +69,19 @@
 
     The acquisition of a facility, or an addition to an existing facility, using the authority provided by this section shall not be treated as a military construction project for which an authorization is required by [section 2802 of this title][/us/usc/t10/s2802].
 
-(Added [Pub. L. 108–375, div. B, title XXVIII, § 2809(a)(1)][/us/pl/108/375/s2809/a/1], Oct. 28, 2004, [118 Stat. 2125][/us/stat/118/2125]; amended [Pub. L. 109–163, div. B, title XXVIII, § 2808(a)][/us/pl/109/163/s2808/a], Jan. 6, 2006, [119 Stat. 3508][/us/stat/119/3508]; [Pub. L. 110–181, div. B, title XXVIII, § 2807][/us/pl/110/181/s2807], Jan. 28, 2008, [122 Stat. 541][/us/stat/122/541].)
+(Added [Pub. L. 108–375, div. B, title XXVIII][/us/pl/108/375/dB/tXXVIII], § 2809(a)(1), Oct. 28, 2004, [118 Stat. 2125][/us/stat/118/2125]; amended [Pub. L. 109–163, div. B, title XXVIII][/us/pl/109/163/dB/tXXVIII], § 2808(a), Jan. 6, 2006, [119 Stat. 3508][/us/stat/119/3508]; [Pub. L. 110–181, div. B, title XXVIII][/us/pl/110/181/dB/tXXVIII], § 2807, Jan. 28, 2008, [122 Stat. 541][/us/stat/122/541].)
 
  __Amendments__ 
 
     2008—Subsec. (a). [Pub. L. 110–181][/us/pl/110/181] substituted “with an Executive agency (as defined in [section 105 of title 5][/us/usc/t5/s105]), the United States Postal Service, or a State” for “with a State”.
 
-    2006—Subsec. (a). [Pub. L. 109–163, § 2808(a)(1)][/us/pl/109/163/s2808/a/1], inserted at end “The acquisition of a facility or an addition to an existing facility under this section may include the acquisition of utilities, equipment, and furnishings for the facility.”
+    2006—Subsec. (a). [Pub. L. 109–163][/us/pl/109/163], § 2808(a)(1), inserted at end “The acquisition of a facility or an addition to an existing facility under this section may include the acquisition of utilities, equipment, and furnishings for the facility.”
 
-    Subsec. (c). [Pub. L. 109–163, § 2808(a)(2)][/us/pl/109/163/s2808/a/2], inserted “including any utilities, equipment, and furnishings, to be” after “existing facility,”.
+    Subsec. (c). [Pub. L. 109–163][/us/pl/109/163], § 2808(a)(2), inserted “including any utilities, equipment, and furnishings, to be” after “existing facility,”.
 
  __Temporary Authority To Include Cash Equalization Payments in Exchange__ 
 
-[Pub. L. 108–375, div. B, title XXVIII, § 2809(c)][/us/pl/108/375/s2809/c], Oct. 28, 2004, [118 Stat. 2127][/us/stat/118/2127], as amended by [Pub. L. 109–163, div. B, title XXVIII, § 2808(b)][/us/pl/109/163/s2808/b], Jan. 6, 2006, [119 Stat. 3508][/us/stat/119/3508]; [Pub. L. 110–181, div. B, title XXVIII, § 2805][/us/pl/110/181/s2805], Jan. 28, 2008, [122 Stat. 540][/us/stat/122/540], provided that:
+[Pub. L. 108–375, div. B, title XXVIII][/us/pl/108/375/dB/tXXVIII], § 2809(c), Oct. 28, 2004, [118 Stat. 2127][/us/stat/118/2127], as amended by [Pub. L. 109–163, div. B, title XXVIII][/us/pl/109/163/dB/tXXVIII], § 2808(b), Jan. 6, 2006, [119 Stat. 3508][/us/stat/119/3508]; [Pub. L. 110–181, div. B, title XXVIII][/us/pl/110/181/dB/tXXVIII], § 2805, Jan. 28, 2008, [122 Stat. 540][/us/stat/122/540], provided that:
 
 >     “(1) Notwithstanding subsection (c) of [section 18240 of title 10][/us/usc/t10/s18240], United States Code, as added by subsection (a), the Secretary of Defense may authorize the Secretary of a military department, as part of an exchange agreement under such section, to make or accept a cash equalization payment if the value of the facility, or addition to an existing facility, including any utilities, equipment, and furnishings, to be acquired by the United States under the agreement is not equal to the fair market value of the facility to be conveyed by the United States under the agreement. All other requirements of such section shall continue to apply to the exchange.
 
@@ -126,21 +126,21 @@
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
 [/us/usc/t10/s2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2662
 [/us/usc/t10/s2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2802
-[/us/pl/108/375/s2809/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs2809%2Fa%2F1
+[/us/pl/108/375/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdB%2FtXXVIII
 [/us/stat/118/2125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2125
-[/us/pl/109/163/s2808/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2808%2Fa
+[/us/pl/109/163/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdB%2FtXXVIII
 [/us/stat/119/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3508
-[/us/pl/110/181/s2807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2807
+[/us/pl/110/181/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdB%2FtXXVIII
 [/us/stat/122/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F541
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/109/163/s2808/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2808%2Fa%2F1
-[/us/pl/109/163/s2808/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2808%2Fa%2F2
-[/us/pl/108/375/s2809/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs2809%2Fc
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/108/375/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdB%2FtXXVIII
 [/us/stat/118/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2127
-[/us/pl/109/163/s2808/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2808%2Fb
+[/us/pl/109/163/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdB%2FtXXVIII
 [/us/stat/119/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3508
-[/us/pl/110/181/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2805
+[/us/pl/110/181/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdB%2FtXXVIII
 [/us/stat/122/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F540
 [/us/usc/t10/s18240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs18240
 [/us/usc/t10/s18240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs18240

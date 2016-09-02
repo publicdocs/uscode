@@ -67,7 +67,7 @@
 
         (3) The Secretary of Defense may waive, in whole or in part, repayment required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interest of the United States. The authority in this paragraph may be delegated only to the Under Secretary of Defense for Personnel and Readiness and the Principal Deputy Under Secretary of Defense of Personnel and Readiness.
 
-(Added [Pub. L. 112–81, div. A, title V, § 504(a)(1)][/us/pl/112/81/s504/a/1], Dec. 31, 2011, [125 Stat. 1389][/us/stat/125/1389].)
+(Added [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 504(a)(1), Dec. 31, 2011, [125 Stat. 1389][/us/stat/125/1389].)
 
 ----------
 
@@ -77,7 +77,7 @@
 ----------
 
 [/us/usc/t10/s1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1212
-[/us/pl/112/81/s504/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs504%2Fa%2F1
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1389
 
 

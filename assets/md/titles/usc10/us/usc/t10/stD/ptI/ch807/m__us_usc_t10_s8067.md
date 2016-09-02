@@ -33,7 +33,7 @@
 
     (i) Other functions in the Air Force requiring special training or experience shall be performed by members of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as being in named categories.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 494][/us/stat/70A/494]; [Pub. L. 85–861, § 1(156)][/us/pl/85/861/s1/156], Sept. 2, 1958, [72 Stat. 1513][/us/stat/72/1513]; [Pub. L. 96–513, title V, § 504(5)][/us/pl/96/513/s504/5], Dec. 12, 1980, [94 Stat. 2916][/us/stat/94/2916]; [Pub. L. 97–86, title IV, § 403][/us/pl/97/86/s403], Dec. 1, 1981, [95 Stat. 1105][/us/stat/95/1105]; [Pub. L. 102–484, div. A, title V, § 505(c)][/us/pl/102/484/s505/c], Oct. 23, 1992, [106 Stat. 2404][/us/stat/106/2404].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 494][/us/stat/70A/494]; [Pub. L. 85–861][/us/pl/85/861], § 1(156), Sept. 2, 1958, [72 Stat. 1513][/us/stat/72/1513]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 504(5), Dec. 12, 1980, [94 Stat. 2916][/us/stat/94/2916]; [Pub. L. 97–86, title IV][/us/pl/97/86/tIV], § 403, Dec. 1, 1981, [95 Stat. 1105][/us/stat/95/1105]; [Pub. L. 102–484, div. A, title V][/us/pl/102/484/dA/tV], § 505(c), Oct. 23, 1992, [106 Stat. 2404][/us/stat/106/2404].)
 
 <table>
 
@@ -247,15 +247,15 @@ Aug. 9, 1955, ch. 654, §§ 1, 3(b), 69 Stat. 579.  </td>
 
     1981—Subsec. (f). [Pub. L. 97–86][/us/pl/97/86] inserted reference to physician assistant functions.
 
-    1980—Subsec. (a). [Pub. L. 96–513, § 504(5)(A)][/us/pl/96/513/s504/5/A], struck out “in conformity with section 8289 or 8294 of this title,” after “Secretary of the Air Force”.
+    1980—Subsec. (a). [Pub. L. 96–513][/us/pl/96/513], § 504(5)(A), struck out “in conformity with section 8289 or 8294 of this title,” after “Secretary of the Air Force”.
 
-    Subsec. (b). [Pub. L. 96–513, § 504(5)(B)][/us/pl/96/513/s504/5/B], struck out “in conformity with [section 8294 of this title][/us/usc/t10/s8294],” after “prescribed by the Secretary”.
+    Subsec. (b). [Pub. L. 96–513][/us/pl/96/513], § 504(5)(B), struck out “in conformity with [section 8294 of this title][/us/usc/t10/s8294],” after “prescribed by the Secretary”.
 
-    Subsec. (e). [Pub. L. 96–513, § 504(5)(C)][/us/pl/96/513/s504/5/C], struck out “in conformity with [section 8291 of this title][/us/usc/t10/s8291],” after “prescribed by the Secretary”.
+    Subsec. (e). [Pub. L. 96–513][/us/pl/96/513], § 504(5)(C), struck out “in conformity with [section 8291 of this title][/us/usc/t10/s8291],” after “prescribed by the Secretary”.
 
-    Subsec. (f). [Pub. L. 96–513, § 504(5)(D)][/us/pl/96/513/s504/5/D], substituted “Biomedical science functions” for “Medical specialist functions” and “biomedical science officers” for “medical specialists”.
+    Subsec. (f). [Pub. L. 96–513][/us/pl/96/513], § 504(5)(D), substituted “Biomedical science functions” for “Medical specialist functions” and “biomedical science officers” for “medical specialists”.
 
-    Subsec. (h). [Pub. L. 96–513, § 504(5)(E)][/us/pl/96/513/s504/5/E], struck out “in conformity with [section 8293 of this title][/us/usc/t10/s8293],” after “prescribed by the Secretary”.
+    Subsec. (h). [Pub. L. 96–513][/us/pl/96/513], § 504(5)(E), struck out “in conformity with [section 8293 of this title][/us/usc/t10/s8293],” after “prescribed by the Secretary”.
 
     1958—Subsec. (e). [Pub. L. 85–861][/us/pl/85/861] struck out “female” before “commissioned officers”.
 
@@ -274,23 +274,23 @@ Aug. 9, 1955, ch. 654, §§ 1, 3(b), 69 Stat. 579.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F494
-[/us/pl/85/861/s1/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F156
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1513
-[/us/pl/96/513/s504/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs504%2F5
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2916
-[/us/pl/97/86/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs403
+[/us/pl/97/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIV
 [/us/stat/95/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1105
-[/us/pl/102/484/s505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs505%2Fc
+[/us/pl/102/484/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtV
 [/us/stat/106/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2404
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/97/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86
-[/us/pl/96/513/s504/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs504%2F5%2FA
-[/us/pl/96/513/s504/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs504%2F5%2FB
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/usc/t10/s8294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8294
-[/us/pl/96/513/s504/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs504%2F5%2FC
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/usc/t10/s8291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8291
-[/us/pl/96/513/s504/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs504%2F5%2FD
-[/us/pl/96/513/s504/5/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs504%2F5%2FE
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/usc/t10/s8293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8293
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861

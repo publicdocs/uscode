@@ -17,7 +17,7 @@
 
     The Secretary of Defense shall prescribe such regulations as may be necessary to ensure that any activity (including the provision of any equipment or facility or the assignment or detail of any personnel) under this chapter does not include or permit direct participation by a member of the Army, Navy, Air Force, or Marine Corps in a search, seizure, arrest, or other similar activity unless participation in such activity by such member is otherwise authorized by law.
 
-(Added [Pub. L. 97–86, title IX][/us/pl/97/86] § 905(a)(1), Dec. 1, 1981, [95 Stat. 1116][/us/stat/95/1116]; amended [Pub. L. 100–456, div. A, title XI, § 1104(a)][/us/pl/100/456/s1104/a], Sept. 29, 1988, [102 Stat. 2045][/us/stat/102/2045]; [Pub. L. 101–189, div. A, title XII, § 1211][/us/pl/101/189/s1211], Nov. 29, 1989, [103 Stat. 1567][/us/stat/103/1567].)
+(Added [Pub. L. 97–86, title IX][/us/pl/97/86/tIX] § 905(a)(1), Dec. 1, 1981, [95 Stat. 1116][/us/stat/95/1116]; amended [Pub. L. 100–456, div. A, title XI][/us/pl/100/456/dA/tXI], § 1104(a), Sept. 29, 1988, [102 Stat. 2045][/us/stat/102/2045]; [Pub. L. 101–189, div. A, title XII][/us/pl/101/189/dA/tXII], § 1211, Nov. 29, 1989, [103 Stat. 1567][/us/stat/103/1567].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/97/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86
+[/us/pl/97/86/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIX
 [/us/stat/95/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1116
-[/us/pl/100/456/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1104%2Fa
+[/us/pl/100/456/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXI
 [/us/stat/102/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2045
-[/us/pl/101/189/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1211
+[/us/pl/101/189/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXII
 [/us/stat/103/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1567
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456

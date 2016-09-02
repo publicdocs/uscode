@@ -43,13 +43,13 @@
 
         (3) The date the person appointed is released from active duty.
 
-(Added [Pub. L. 96–513, title I, § 105][/us/pl/96/513/s105], Dec. 12, 1980, [94 Stat. 2850][/us/stat/94/2850]; amended [Pub. L. 101–189, div. A, title VI, § 653(a)(2)][/us/pl/101/189/s653/a/2], Nov. 29, 1989, [103 Stat. 1462][/us/stat/103/1462]; [Pub. L. 102–190, div. A, title XI, § 1113(b)][/us/pl/102/190/s1113/b], (d)(1)(A), Dec. 5, 1991, [105 Stat. 1502][/us/stat/105/1502].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 105, Dec. 12, 1980, [94 Stat. 2850][/us/stat/94/2850]; amended [Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 653(a)(2), Nov. 29, 1989, [103 Stat. 1462][/us/stat/103/1462]; [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1113(b), (d)(1)(A), Dec. 5, 1991, [105 Stat. 1502][/us/stat/105/1502].)
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–190, § 1113(d)(1)(A)][/us/pl/102/190/s1113/d/1/A], substituted “Appointments in time of war or national emergency” for “Commissioned officer grades: time of war or national emergency” in section catchline.
+    1991—[Pub. L. 102–190][/us/pl/102/190], § 1113(d)(1)(A), substituted “Appointments in time of war or national emergency” for “Commissioned officer grades: time of war or national emergency” in section catchline.
 
-    Subsec. (a). [Pub. L. 102–190, § 1113(b)][/us/pl/102/190/s1113/b], struck out “commissioned” before “officer grade in the Army” and “in warrant officer grades or” before “in grades above major general” and inserted before period at end “, except that an appointment in the grade warrant officer, W–1, shall be made by warrant by the Secretary concerned”.
+    Subsec. (a). [Pub. L. 102–190][/us/pl/102/190], § 1113(b), struck out “commissioned” before “officer grade in the Army” and “in warrant officer grades or” before “in grades above major general” and inserted before period at end “, except that an appointment in the grade warrant officer, W–1, shall be made by warrant by the Secretary concerned”.
 
     1989—Subsec. (f). [Pub. L. 101–189][/us/pl/101/189] substituted “terminates on the earliest of the following:” for “terminates—” in introductory provisions, and made numerous amendments to style and punctuation. Prior to amendment, subsec. (f) read as follows: “Unless sooner terminated, an appointment under this section terminates—
 
@@ -92,14 +92,14 @@
 
 [/us/usc/t10/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs533
 [/us/usc/t5/s3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3331
-[/us/pl/96/513/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs105
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2850
-[/us/pl/101/189/s653/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs653%2Fa%2F2
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1462
-[/us/pl/102/190/s1113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1113%2Fb
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1502
-[/us/pl/102/190/s1113/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1113%2Fd%2F1%2FA
-[/us/pl/102/190/s1113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1113%2Fb
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/102/190/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1132

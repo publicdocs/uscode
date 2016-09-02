@@ -97,11 +97,11 @@
 
     Not later than 60 days before the date on which any proposed modification of the rules in effect for military commissions under this chapter goes into effect, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report describing the proposed modification.
 
-(Added [Pub. L. 111–84, div. A, title XVIII, § 1802][/us/pl/111/84/s1802], Oct. 28, 2009, [123 Stat. 2581][/us/stat/123/2581]; amended [Pub. L. 112–81, div. A, title X, § 1034(a)][/us/pl/112/81/s1034/a], Dec. 31, 2011, [125 Stat. 1572][/us/stat/125/1572].)
+(Added [Pub. L. 111–84, div. A, title XVIII][/us/pl/111/84/dA/tXVIII], § 1802, Oct. 28, 2009, [123 Stat. 2581][/us/stat/123/2581]; amended [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1034(a), Dec. 31, 2011, [125 Stat. 1572][/us/stat/125/1572].)
 
  __Prior Provisions__ 
 
-    A prior section 949a, added [Pub. L. 109–366, § 3(a)(1)][/us/pl/109/366/s3/a/1], Oct. 17, 2006, [120 Stat. 2608][/us/stat/120/2608], related to rules, prior to the general amendment of this chapter by [Pub. L. 111–84][/us/pl/111/84].
+    A prior section 949a, added [Pub. L. 109–366][/us/pl/109/366], § 3(a)(1), Oct. 17, 2006, [120 Stat. 2608][/us/stat/120/2608], related to rules, prior to the general amendment of this chapter by [Pub. L. 111–84][/us/pl/111/84].
 
  __Amendments__ 
 
@@ -116,11 +116,11 @@
 
 [/us/usc/t10/s949d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs949d
 [/us/usc/t10/s948r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs948r
-[/us/pl/111/84/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1802
+[/us/pl/111/84/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXVIII
 [/us/stat/123/2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2581
-[/us/pl/112/81/s1034/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1034%2Fa
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1572
-[/us/pl/109/366/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs3%2Fa%2F1
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/stat/120/2608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2608
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81

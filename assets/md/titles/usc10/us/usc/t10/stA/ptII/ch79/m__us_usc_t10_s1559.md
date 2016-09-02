@@ -49,15 +49,15 @@
 
         (3) with respect to the Department of the Air Force, the Air Force Review Boards Agency.
 
-(Added [Pub. L. 107–314, div. A, title V, § 552(a)][/us/pl/107/314/s552/a], Dec. 2, 2002, [116 Stat. 2552][/us/stat/116/2552]; amended [Pub. L. 108–375, div. A, title V, § 581][/us/pl/108/375/s581], Oct. 28, 2004, [118 Stat. 1928][/us/stat/118/1928]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 593, Oct. 14, 2008, [122 Stat. 4475][/us/stat/122/4475]; [Pub. L. 111–383, div. A, title V, § 533(b)][/us/pl/111/383/s533/b], Jan. 7, 2011, [124 Stat. 4216][/us/stat/124/4216]; [Pub. L. 112–239, div. A, title V, § 520][/us/pl/112/239/s520], title X, § 1076(b)(2), Jan. 2, 2013, [126 Stat. 1722][/us/stat/126/1722], 1949.)
+(Added [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 552(a), Dec. 2, 2002, [116 Stat. 2552][/us/stat/116/2552]; amended [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 581, Oct. 28, 2004, [118 Stat. 1928][/us/stat/118/1928]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 593, Oct. 14, 2008, [122 Stat. 4475][/us/stat/122/4475]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 533(b), Jan. 7, 2011, [124 Stat. 4216][/us/stat/124/4216]; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 520, title X, § 1076(b)(2), Jan. 2, 2013, [126 Stat. 1722][/us/stat/126/1722], 1949.)
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 112–239, § 1076(b)(2)][/us/pl/112/239/s1076/b/2], made technical amendment to directory language of [Pub. L. 111–383][/us/pl/111/383]. See 2011 Amendment note below.
+    2013—Subsec. (a). [Pub. L. 112–239][/us/pl/112/239], § 1076(b)(2), made technical amendment to directory language of [Pub. L. 111–383][/us/pl/111/383]. See 2011 Amendment note below.
 
-    [Pub. L. 112–239, § 520][/us/pl/112/239/s520], substituted “December 31, 2016” for “December 31, 2013”.
+    [Pub. L. 112–239][/us/pl/112/239], § 520, substituted “December 31, 2016” for “December 31, 2013”.
 
-    2011—Subsec. (a). [Pub. L. 111–383][/us/pl/111/383], as amended by [Pub. L. 112–239, § 1076(b)(2)][/us/pl/112/239/s1076/b/2], substituted “December 31, 2013” for “December 31, 2010” in introductory provisions.
+    2011—Subsec. (a). [Pub. L. 111–383][/us/pl/111/383], as amended by [Pub. L. 112–239][/us/pl/112/239], § 1076(b)(2), substituted “December 31, 2013” for “December 31, 2010” in introductory provisions.
 
     2008—Subsec. (a). [Pub. L. 110–417][/us/pl/110/417] substituted “December 31, 2010” for “October 1, 2008” in introductory provisions.
 
@@ -65,7 +65,7 @@
 
  __Effective Date of 2013 Amendment__ 
 
-    [Pub. L. 112–239, div. A, title X, § 1076(b)][/us/pl/112/239/s1076/b], Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949], provided that the amendment made by section 1076(b)(2) is effective Jan. 7, 2011, and as if included in [Pub. L. 111–383][/us/pl/111/383] as enacted.
+    [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(b), Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949], provided that the amendment made by section 1076(b)(2) is effective Jan. 7, 2011, and as if included in [Pub. L. 111–383][/us/pl/111/383] as enacted.
 
 ----------
 
@@ -74,24 +74,24 @@
 ----------
 ----------
 
-[/us/pl/107/314/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs552%2Fa
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2552
-[/us/pl/108/375/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs581
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1928
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4475
-[/us/pl/111/383/s533/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs533%2Fb
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4216
-[/us/pl/112/239/s520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs520
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1722
-[/us/pl/112/239/s1076/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fb%2F2
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/112/239/s520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs520
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/112/239/s1076/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fb%2F2
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/112/239/s1076/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fb
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1949
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 

@@ -45,7 +45,7 @@
 
         (2) The Under Secretary shall develop the Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap in consultation with the Intelligence, Surveillance, and Reconnaissance Integration Council and the Director of National Intelligence.
 
-(Added [Pub. L. 108–136, div. A, title IX, § 923(c)(1)][/us/pl/108/136/s923/c/1], Nov. 24, 2003, [117 Stat. 1575][/us/stat/117/1575]; amended [Pub. L. 109–364, div. A, title X, § 1071(a)(3)][/us/pl/109/364/s1071/a/3], Oct. 17, 2006, [120 Stat. 2398][/us/stat/120/2398]; [Pub. L. 110–181, div. A, title IX, § 931(a)(7)][/us/pl/110/181/s931/a/7], (8), Jan. 28, 2008, [122 Stat. 285][/us/stat/122/285]; [Pub. L. 111–383, div. A, title IX, § 922(b)][/us/pl/111/383/s922/b], Jan. 7, 2011, [124 Stat. 4331][/us/stat/124/4331].)
+(Added [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 923(c)(1), Nov. 24, 2003, [117 Stat. 1575][/us/stat/117/1575]; amended [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(3), Oct. 17, 2006, [120 Stat. 2398][/us/stat/120/2398]; [Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 931(a)(7), (8), Jan. 28, 2008, [122 Stat. 285][/us/stat/122/285]; [Pub. L. 111–383, div. A, title IX][/us/pl/111/383/dA/tIX], § 922(b), Jan. 7, 2011, [124 Stat. 4331][/us/stat/124/4331].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Integration of Defense Intelligence, Surveillance, and Reconnaissance Capabilities__ 
 
-[Pub. L. 108–136, div. A, title IX, § 923(a)][/us/pl/108/136/s923/a], (b), Nov. 24, 2003, [117 Stat. 1574][/us/stat/117/1574], 1575, as amended by [Pub. L. 111–383, div. A, title IX, § 922(a)][/us/pl/111/383/s922/a], Jan. 7, 2011, [124 Stat. 4330][/us/stat/124/4330], provided that:
+[Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 923(a), (b), Nov. 24, 2003, [117 Stat. 1574][/us/stat/117/1574], 1575, as amended by [Pub. L. 111–383, div. A, title IX][/us/pl/111/383/dA/tIX], § 922(a), Jan. 7, 2011, [124 Stat. 4330][/us/stat/124/4330], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -84,20 +84,20 @@
 ----------
 ----------
 
-[/us/pl/108/136/s923/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs923%2Fc%2F1
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1575
-[/us/pl/109/364/s1071/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F3
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2398
-[/us/pl/110/181/s931/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs931%2Fa%2F7
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F285
-[/us/pl/111/383/s922/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs922%2Fb
+[/us/pl/111/383/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIX
 [/us/stat/124/4331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4331
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/108/136/s923/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs923%2Fa
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1574
-[/us/pl/111/383/s922/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs922%2Fa
+[/us/pl/111/383/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIX
 [/us/stat/124/4330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4330
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/usc/t10/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs137

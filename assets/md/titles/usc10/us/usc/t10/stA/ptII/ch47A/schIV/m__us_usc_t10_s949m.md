@@ -45,21 +45,21 @@
 
         (2) In any case described in paragraph (1) in which 12 primary members are not reasonably available for a military commission because of physical conditions or military exigencies, the convening authority shall specify a lesser number of primary members for the military commission (but not fewer than 9 primary members), and the military commission may be assembled, and the trial held, with not less than the number of primary members so specified. In any such case, the convening authority shall make a detailed written statement, to be appended to the record, stating why a greater number of primary members were not reasonably available.
 
-(Added [Pub. L. 111–84, div. A, title XVIII, § 1802][/us/pl/111/84/s1802], Oct. 28, 2009, [123 Stat. 2589][/us/stat/123/2589]; amended [Pub. L. 112–81, div. A, title X, § 1030(a)][/us/pl/112/81/s1030/a], Dec. 31, 2011, [125 Stat. 1570][/us/stat/125/1570]; [Pub. L. 113–66, div. A, title X, § 1031(c)][/us/pl/113/66/s1031/c], Dec. 26, 2013, [127 Stat. 850][/us/stat/127/850].)
+(Added [Pub. L. 111–84, div. A, title XVIII][/us/pl/111/84/dA/tXVIII], § 1802, Oct. 28, 2009, [123 Stat. 2589][/us/stat/123/2589]; amended [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1030(a), Dec. 31, 2011, [125 Stat. 1570][/us/stat/125/1570]; [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1031(c), Dec. 26, 2013, [127 Stat. 850][/us/stat/127/850].)
 
  __Prior Provisions__ 
 
-    A prior section 949m, added [Pub. L. 109–366, § 3(a)(1)][/us/pl/109/366/s3/a/1], Oct. 17, 2006, [120 Stat. 2616][/us/stat/120/2616], related to number of votes required for conviction and sentences and number of members required on military commission for penalty of death, prior to the general amendment of this chapter by [Pub. L. 111–84][/us/pl/111/84].
+    A prior section 949m, added [Pub. L. 109–366][/us/pl/109/366], § 3(a)(1), Oct. 17, 2006, [120 Stat. 2616][/us/stat/120/2616], related to number of votes required for conviction and sentences and number of members required on military commission for penalty of death, prior to the general amendment of this chapter by [Pub. L. 111–84][/us/pl/111/84].
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–66, § 1031(c)(1)][/us/pl/113/66/s1031/c/1], inserted “primary” before “members” wherever appearing.
+    2013—[Pub. L. 113–66][/us/pl/113/66], § 1031(c)(1), inserted “primary” before “members” wherever appearing.
 
-    Subsec. (b)(4). [Pub. L. 113–66, § 1031(c)(2)][/us/pl/113/66/s1031/c/2], added par. (4).
+    Subsec. (b)(4). [Pub. L. 113–66][/us/pl/113/66], § 1031(c)(2), added par. (4).
 
-    2011—Subsec. (b)(2)(C). [Pub. L. 112–81, § 1030(a)(1)][/us/pl/112/81/s1030/a/1], inserted before semicolon “, or a guilty plea was accepted and not withdrawn prior to announcement of the sentence in accordance with [section 949i(b) of this title][/us/usc/t10/s949i/b]”.
+    2011—Subsec. (b)(2)(C). [Pub. L. 112–81][/us/pl/112/81], § 1030(a)(1), inserted before semicolon “, or a guilty plea was accepted and not withdrawn prior to announcement of the sentence in accordance with [section 949i(b) of this title][/us/usc/t10/s949i/b]”.
 
-    Subsec. (b)(2)(D). [Pub. L. 112–81, § 1030(a)(2)][/us/pl/112/81/s1030/a/2], inserted “on the sentence” after “vote was taken”.
+    Subsec. (b)(2)(D). [Pub. L. 112–81][/us/pl/112/81], § 1030(a)(2), inserted “on the sentence” after “vote was taken”.
 
 ----------
 
@@ -71,19 +71,19 @@
 [/us/usc/t10/s949i/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs949i%2Fb
 [/us/usc/t10/s949i/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs949i%2Fb
 [/us/usc/t10/s948m/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs948m%2Fd
-[/us/pl/111/84/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1802
+[/us/pl/111/84/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXVIII
 [/us/stat/123/2589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2589
-[/us/pl/112/81/s1030/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1030%2Fa
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1570
-[/us/pl/113/66/s1031/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1031%2Fc
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F850
-[/us/pl/109/366/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs3%2Fa%2F1
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/stat/120/2616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2616
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/113/66/s1031/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1031%2Fc%2F1
-[/us/pl/113/66/s1031/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1031%2Fc%2F2
-[/us/pl/112/81/s1030/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1030%2Fa%2F1
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t10/s949i/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs949i%2Fb
-[/us/pl/112/81/s1030/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1030%2Fa%2F2
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 
 

@@ -17,7 +17,7 @@
 
     Regulations prescribed to carry out this chapter shall provide that the programs under this chapter shall be consistent with the educational assistance programs under chapters 35 and 36 of title 38.
 
-(Added [Pub. L. 99–399, title VIII, § 806(d)(1)][/us/pl/99/399/s806/d/1], Aug. 27, 1986, [100 Stat. 888][/us/stat/100/888]; amended [Pub. L. 101–189, div. A, title XVI, § 1621(a)(7)(A)][/us/pl/101/189/s1621/a/7/A], Nov. 29, 1989, [103 Stat. 1603][/us/stat/103/1603].)
+(Added [Pub. L. 99–399, title VIII][/us/pl/99/399/tVIII], § 806(d)(1), Aug. 27, 1986, [100 Stat. 888][/us/stat/100/888]; amended [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(7)(A), Nov. 29, 1989, [103 Stat. 1603][/us/stat/103/1603].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/99/399/s806/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs806%2Fd%2F1
+[/us/pl/99/399/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVIII
 [/us/stat/100/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F888
-[/us/pl/101/189/s1621/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F7%2FA
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1603
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 

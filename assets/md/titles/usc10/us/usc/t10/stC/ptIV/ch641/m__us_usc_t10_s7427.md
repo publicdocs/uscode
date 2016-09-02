@@ -17,7 +17,7 @@
 
     The Secretary, with the consent of the President, may make agreements, with respect to lands inside the naval petroleum reserves, of the same type as the Secretary of the Interior may make under [section 17(m) of the Act of February 25, 1920][/us/act/1920-02-25/s17/m] ([30 U.S.C. 226(m)][/us/usc/t30/s226/m]). No such agreement made by the Secretary may extend the term of any lease unless the agreement so provides.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 460][/us/stat/70A/460]; [Pub. L. 94–258, title II, § 201(8)][/us/pl/94/258/s201/8], Apr. 5, 1976, [90 Stat. 309][/us/stat/90/309]; [Pub. L. 96–513, title V, § 513(33)][/us/pl/96/513/s513/33], Dec. 12, 1980, [94 Stat. 2934][/us/stat/94/2934]; [Pub. L. 100–456, div. A, title XII, § 1233(g)(3)][/us/pl/100/456/s1233/g/3], Sept. 29, 1988, [102 Stat. 2058][/us/stat/102/2058].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 460][/us/stat/70A/460]; [Pub. L. 94–258, title II][/us/pl/94/258/tII], § 201(8), Apr. 5, 1976, [90 Stat. 309][/us/stat/90/309]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(33), Dec. 12, 1980, [94 Stat. 2934][/us/stat/94/2934]; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1233(g)(3), Sept. 29, 1988, [102 Stat. 2058][/us/stat/102/2058].)
 
 <table>
 
@@ -102,11 +102,11 @@ Aug. 8, 1946, ch. 916, § 13 (29th through 85th words) 60 Stat. 958.  </td>
 [/us/usc/t30/s226/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs226%2Fm
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F460
-[/us/pl/94/258/s201/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2Fs201%2F8
+[/us/pl/94/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2FtII
 [/us/stat/90/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F309
-[/us/pl/96/513/s513/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F33
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2934
-[/us/pl/100/456/s1233/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1233%2Fg%2F3
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2058
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/usc/t30/s226/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs226%2Fm

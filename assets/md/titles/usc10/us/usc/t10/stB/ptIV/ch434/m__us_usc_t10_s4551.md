@@ -27,15 +27,15 @@
 
     (5) The term “Secretary” means the Secretary of the Army.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 344(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–67; amended [Pub. L. 109–163, div. A, title III, § 323(a)][/us/pl/109/163/s323/a], Jan. 6, 2006, [119 Stat. 3193][/us/stat/119/3193].)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 344(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–67; amended [Pub. L. 109–163, div. A, title III][/us/pl/109/163/dA/tIII], § 323(a), Jan. 6, 2006, [119 Stat. 3193][/us/stat/119/3193].)
 
  __Amendments__ 
 
-    2006—Par. (2). [Pub. L. 109–163, § 323(a)][/us/pl/109/163/s323/a], inserted “, or a Government-owned, contractor-operated depot for the storage, maintenance, renovation, or demilitarization of ammunition,” after “manufacturing facility”.
+    2006—Par. (2). [Pub. L. 109–163][/us/pl/109/163], § 323(a), inserted “, or a Government-owned, contractor-operated depot for the storage, maintenance, renovation, or demilitarization of ammunition,” after “manufacturing facility”.
 
  __Consideration of Army Arsenals’ Capabilities To Fulfill Manufacturing Requirements__ 
 
-[Pub. L. 113–66, div. A, title III, § 323][/us/pl/113/66/s323], Dec. 26, 2013, [127 Stat. 733][/us/stat/127/733], provided that:
+[Pub. L. 113–66, div. A, title III][/us/pl/113/66/dA/tIII], § 323, Dec. 26, 2013, [127 Stat. 733][/us/stat/127/733], provided that:
 
 >     “(a)  __Consideration of Capability of Arsenals__  __.—__ 
 
@@ -47,7 +47,7 @@
 
  __Arsenal Support Program Initiative__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 343\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–65, as amended by [Pub. L. 107–314, div. A, title III, § 362][/us/pl/107/314/s362], Dec. 2, 2002, [116 Stat. 2519][/us/stat/116/2519]; [Pub. L. 108–375, div. A, title III, § 342][/us/pl/108/375/s342], Oct. 28, 2004, [118 Stat. 1857][/us/stat/118/1857]; [Pub. L. 110–181, div. A, title III, § 341][/us/pl/110/181/s341], Jan. 28, 2008, [122 Stat. 69][/us/stat/122/69]; [Pub. L. 111–84, div. A, title III, § 354][/us/pl/111/84/s354], Oct. 28, 2009, [123 Stat. 2264][/us/stat/123/2264]; [Pub. L. 111–383, div. A, title III, § 342][/us/pl/111/383/s342], Jan. 7, 2011, [124 Stat. 4190][/us/stat/124/4190]; [Pub. L. 114–92, div. A, title X, § 1073(j)][/us/pl/114/92/s1073/j], Nov. 25, 2015, [129 Stat. 996][/us/stat/129/996], provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 343\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–65, as amended by [Pub. L. 107–314, div. A, title III][/us/pl/107/314/dA/tIII], § 362, Dec. 2, 2002, [116 Stat. 2519][/us/stat/116/2519]; [Pub. L. 108–375, div. A, title III][/us/pl/108/375/dA/tIII], § 342, Oct. 28, 2004, [118 Stat. 1857][/us/stat/118/1857]; [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 341, Jan. 28, 2008, [122 Stat. 69][/us/stat/122/69]; [Pub. L. 111–84, div. A, title III][/us/pl/111/84/dA/tIII], § 354, Oct. 28, 2009, [123 Stat. 2264][/us/stat/123/2264]; [Pub. L. 111–383, div. A, title III][/us/pl/111/383/dA/tIII], § 342, Jan. 7, 2011, [124 Stat. 4190][/us/stat/124/4190]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1073(j), Nov. 25, 2015, [129 Stat. 996][/us/stat/129/996], provided that:
 
 >     “(a)  __Demonstration Program Required__  __.—__ 
 
@@ -146,26 +146,26 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/109/163/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs323%2Fa
+[/us/pl/109/163/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIII
 [/us/stat/119/3193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3193
-[/us/pl/109/163/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs323%2Fa
-[/us/pl/113/66/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs323
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/113/66/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIII
 [/us/stat/127/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F733
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/314/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs362
+[/us/pl/107/314/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtIII
 [/us/stat/116/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2519
-[/us/pl/108/375/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs342
+[/us/pl/108/375/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIII
 [/us/stat/118/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1857
-[/us/pl/110/181/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs341
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F69
-[/us/pl/111/84/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs354
+[/us/pl/111/84/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIII
 [/us/stat/123/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2264
-[/us/pl/111/383/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs342
+[/us/pl/111/383/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIII
 [/us/stat/124/4190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4190
-[/us/pl/114/92/s1073/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1073%2Fj
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F996
 [/us/usc/t10/s4543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4543
 [/us/usc/t10/s4543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4543

@@ -35,7 +35,7 @@
 
         (2) The provisions of subsections (d) and (f) of [section 3031 of title 38][/us/usc/t38/s3031] shall apply to the period of entitlement prescribed by paragraph (1).
 
-(Added [Pub. L. 108–375, div. A, title V, § 527(a)][/us/pl/108/375/s527/a], Oct. 28, 2004, [118 Stat. 1892][/us/stat/118/1892]; amended [Pub. L. 110–181, div. A, title V, § 530(a)(1)][/us/pl/110/181/s530/a/1], Jan. 28, 2008, [122 Stat. 110][/us/stat/122/110]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 546(a), Oct. 14, 2008, [122 Stat. 4466][/us/stat/122/4466].)
+(Added [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 527(a), Oct. 28, 2004, [118 Stat. 1892][/us/stat/118/1892]; amended [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 530(a)(1), Jan. 28, 2008, [122 Stat. 110][/us/stat/122/110]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 546(a), Oct. 14, 2008, [122 Stat. 4466][/us/stat/122/4466].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
 >     “(2) as of the date of the enactment of this Act, has not used any of the person’s entitlement to educational assistance under chapter 1607 of such title.”
 
-[Pub. L. 110–181, div. A, title V, § 530(c)][/us/pl/110/181/s530/c], Jan. 28, 2008, [122 Stat. 110][/us/stat/122/110], provided that: 
+[Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 530(c), Jan. 28, 2008, [122 Stat. 110][/us/stat/122/110], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 16165 of this title][/us/usc/t10/s16165]\] shall take effect as of October 28, 2004, as if included in the enactment of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 ([Public Law 108–375][/us/pl/108/375]), to which such amendments relate.”
 
@@ -70,9 +70,9 @@
 
 [/us/usc/t10/s16163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16163
 [/us/usc/t38/s3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3031
-[/us/pl/108/375/s527/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs527%2Fa
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1892
-[/us/pl/110/181/s530/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs530%2Fa%2F1
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F110
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4466
@@ -82,7 +82,7 @@
 [/us/stat/122/4466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4466
 [/us/usc/t10/s16163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16163
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/110/181/s530/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs530%2Fc
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F110
 [/us/usc/t10/s16165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16165
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375

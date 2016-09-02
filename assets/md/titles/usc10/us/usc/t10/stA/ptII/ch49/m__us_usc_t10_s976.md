@@ -99,7 +99,7 @@
 
         (6) to take such other administrative action to seek such administrative or judicial relief, as is authorized by applicable laws and regulations.
 
-(Added [Pub. L. 95–610, § 2(a)][/us/pl/95/610/s2/a], Nov. 8, 1978, [92 Stat. 3085][/us/stat/92/3085], § 975; renumbered § 976, [Pub. L. 96–107, title VIII, § 821(a)][/us/pl/96/107/s821/a], Nov. 9, 1979, [93 Stat. 820][/us/stat/93/820]; amended [Pub. L. 98–525, title IV, § 414(a)(6)][/us/pl/98/525/s414/a/6], Oct. 19, 1984, [98 Stat. 2519][/us/stat/98/2519]; [Pub. L. 99–661, div. A, title XIII, § 1343(a)(2)][/us/pl/99/661/s1343/a/2], Nov. 14, 1986, [100 Stat. 3992][/us/stat/100/3992]; [Pub. L. 100–26, § 7(k)(2)][/us/pl/100/26/s7/k/2], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 105–85, div. A, title X, § 1073(a)(15)][/us/pl/105/85/s1073/a/15], Nov. 18, 1997, [111 Stat. 1900][/us/stat/111/1900].)
+(Added [Pub. L. 95–610][/us/pl/95/610], § 2(a), Nov. 8, 1978, [92 Stat. 3085][/us/stat/92/3085], § 975; renumbered § 976, [Pub. L. 96–107, title VIII][/us/pl/96/107/tVIII], § 821(a), Nov. 9, 1979, [93 Stat. 820][/us/stat/93/820]; amended [Pub. L. 98–525, title IV][/us/pl/98/525/tIV], § 414(a)(6), Oct. 19, 1984, [98 Stat. 2519][/us/stat/98/2519]; [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1343(a)(2), Nov. 14, 1986, [100 Stat. 3992][/us/stat/100/3992]; [Pub. L. 100–26][/us/pl/100/26], § 7(k)(2), Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(15), Nov. 18, 1997, [111 Stat. 1900][/us/stat/111/1900].)
 
  __Amendments__ 
 
@@ -113,7 +113,7 @@
 
  __Findings; Purpose__ 
 
-[Pub. L. 95–610, § 1][/us/pl/95/610/s1], Nov. 8, 1978, [92 Stat. 3085][/us/stat/92/3085], provided that:
+[Pub. L. 95–610][/us/pl/95/610], § 1, Nov. 8, 1978, [92 Stat. 3085][/us/stat/92/3085], provided that:
 
 >     “(a)
 
@@ -141,23 +141,23 @@
 ----------
 
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
-[/us/pl/95/610/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F610%2Fs2%2Fa
+[/us/pl/95/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F610
 [/us/stat/92/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3085
-[/us/pl/96/107/s821/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs821%2Fa
+[/us/pl/96/107/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2FtVIII
 [/us/stat/93/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F820
-[/us/pl/98/525/s414/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs414%2Fa%2F6
+[/us/pl/98/525/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtIV
 [/us/stat/98/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2519
-[/us/pl/99/661/s1343/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1343%2Fa%2F2
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3992
-[/us/pl/100/26/s7/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fk%2F2
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F284
-[/us/pl/105/85/s1073/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F15
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1900
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
-[/us/pl/95/610/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F610%2Fs1
+[/us/pl/95/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F610
 [/us/stat/92/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3085
 
 

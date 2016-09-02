@@ -27,7 +27,7 @@
 
         (3) reserve enlisted members of the Air Force who, at the time of retirement, are serving on active duty (or, in the case of members of the National Guard, on full-time duty).
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 555][/us/stat/70A/555]; [Pub. L. 85–861, § 1][/us/pl/85/861/s1](198A), Sept. 2, 1958, [72 Stat. 1541][/us/stat/72/1541]; [Pub. L. 98–525, title V, § 533(c)][/us/pl/98/525/s533/c], Oct. 19, 1984, [98 Stat. 2528][/us/stat/98/2528]; [Pub. L. 100–180, div. A, title V, § 512(c)][/us/pl/100/180/s512/c], Dec. 4, 1987, [101 Stat. 1090][/us/stat/101/1090].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 555][/us/stat/70A/555]; [Pub. L. 85–861][/us/pl/85/861], § 1(198A), Sept. 2, 1958, [72 Stat. 1541][/us/stat/72/1541]; [Pub. L. 98–525, title V][/us/pl/98/525/tV], § 533(c), Oct. 19, 1984, [98 Stat. 2528][/us/stat/98/2528]; [Pub. L. 100–180, div. A, title V][/us/pl/100/180/dA/tV], § 512(c), Dec. 4, 1987, [101 Stat. 1090][/us/stat/101/1090].)
 
 <table>
 
@@ -166,11 +166,11 @@ May 31, 1956, ch. 348, § 1, 70 Stat. 222.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F555
-[/us/pl/85/861/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1541
-[/us/pl/98/525/s533/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs533%2Fc
+[/us/pl/98/525/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtV
 [/us/stat/98/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2528
-[/us/pl/100/180/s512/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs512%2Fc
+[/us/pl/100/180/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtV
 [/us/stat/101/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1090
 [/us/usc/t10/s1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1372
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180

@@ -71,7 +71,7 @@
 
         (3) In this subsection, the term “combat-coded aircraft” means aircraft assigned to meet the primary aircraft authorization to a unit for the performance of its wartime mission.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 493][/us/stat/70A/493]; [Pub. L. 96–513, title V, § 504(4)][/us/pl/96/513/s504/4], Dec. 12, 1980, [94 Stat. 2916][/us/stat/94/2916]; [Pub. L. 99–433, title I, § 110(g)(10)][/us/pl/99/433/s110/g/10], Oct. 1, 1986, [100 Stat. 1004][/us/stat/100/1004]; [Pub. L. 100–26, § 7(g)(3)][/us/pl/100/26/s7/g/3], Apr. 21, 1987, [101 Stat. 282][/us/stat/101/282]; [Pub. L. 100–180, div. A, title XIII, § 1314(b)(9)][/us/pl/100/180/s1314/b/9], Dec. 4, 1987, [101 Stat. 1176][/us/stat/101/1176]; [Pub. L. 109–163, div. A, title X, § 1057(a)(6)][/us/pl/109/163/s1057/a/6], Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441]; [Pub. L. 109–364, div. A, title I, § 132][/us/pl/109/364/s132], Oct. 17, 2006, [120 Stat. 2112][/us/stat/120/2112]; [Pub. L. 111–84, div. A, title I, § 139][/us/pl/111/84/s139], Oct. 28, 2009, [123 Stat. 2223][/us/stat/123/2223]; [Pub. L. 112–81, div. A, title I, § 131][/us/pl/112/81/s131], Dec. 31, 2011, [125 Stat. 1320][/us/stat/125/1320]; [Pub. L. 112–239, div. A, title I][/us/pl/112/239], §§ 141(a), 142(a), Jan. 2, 2013, [126 Stat. 1659][/us/stat/126/1659], 1662.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 493][/us/stat/70A/493]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 504(4), Dec. 12, 1980, [94 Stat. 2916][/us/stat/94/2916]; [Pub. L. 99–433, title I][/us/pl/99/433/tI], § 110(g)(10), Oct. 1, 1986, [100 Stat. 1004][/us/stat/100/1004]; [Pub. L. 100–26][/us/pl/100/26], § 7(g)(3), Apr. 21, 1987, [101 Stat. 282][/us/stat/101/282]; [Pub. L. 100–180, div. A, title XIII][/us/pl/100/180/dA/tXIII], § 1314(b)(9), Dec. 4, 1987, [101 Stat. 1176][/us/stat/101/1176]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(a)(6), Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441]; [Pub. L. 109–364, div. A, title I][/us/pl/109/364/dA/tI], § 132, Oct. 17, 2006, [120 Stat. 2112][/us/stat/120/2112]; [Pub. L. 111–84, div. A, title I][/us/pl/111/84/dA/tI], § 139, Oct. 28, 2009, [123 Stat. 2223][/us/stat/123/2223]; [Pub. L. 112–81, div. A, title I][/us/pl/112/81/dA/tI], § 131, Dec. 31, 2011, [125 Stat. 1320][/us/stat/125/1320]; [Pub. L. 112–239, div. A, title I][/us/pl/112/239/dA/tI], §§ 141(a), 142(a), Jan. 2, 2013, [126 Stat. 1659][/us/stat/126/1659], 1662.)
 
 <table>
 
@@ -207,9 +207,9 @@ July 9, 1952, ch. 608, § 601, 66 Stat. 501.  </td>
 
  __Amendments__ 
 
-    2013—Subsec. (g)(1). [Pub. L. 112–239, § 141(a)][/us/pl/112/239/s141/a], inserted at end “Effective on the date that is 45 days after the date on which the report under section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013 is submitted to the congressional defense committees, the Secretary shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 275 aircraft.”
+    2013—Subsec. (g)(1). [Pub. L. 112–239][/us/pl/112/239], § 141(a), inserted at end “Effective on the date that is 45 days after the date on which the report under section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013 is submitted to the congressional defense committees, the Secretary shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 275 aircraft.”
 
-    Subsec. (h). [Pub. L. 112–239, § 142(a)][/us/pl/112/239/s142/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 112–239][/us/pl/112/239], § 142(a), added subsec. (h).
 
     2011—Subsec. (g)(1). [Pub. L. 112–81][/us/pl/112/81] substituted “October 1, 2011” for “October 1, 2009” and “301 aircraft” for “316 aircraft”.
 
@@ -231,7 +231,7 @@ July 9, 1952, ch. 608, § 601, 66 Stat. 501.  </td>
 
  __Requirements for Transferring Aircraft Within the Air Force Inventory__ 
 
-[Pub. L. 111–383, div. A, title III, § 345][/us/pl/111/383/s345], Jan. 7, 2011, [124 Stat. 4191][/us/stat/124/4191], as amended by [Pub. L. 114–92, div. A, title X, § 1088][/us/pl/114/92/s1088], Nov. 25, 2015, [129 Stat. 1014][/us/stat/129/1014], provided that:
+[Pub. L. 111–383, div. A, title III][/us/pl/111/383/dA/tIII], § 345, Jan. 7, 2011, [124 Stat. 4191][/us/stat/124/4191], as amended by [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1088, Nov. 25, 2015, [129 Stat. 1014][/us/stat/129/1014], provided that:
 
 >     “(a)  __Requirements__  __.—__ 
 
@@ -293,7 +293,7 @@ July 9, 1952, ch. 608, § 601, 66 Stat. 501.  </td>
 
  __Consolidation of Air Force and Air National Guard Aircraft Maintenance__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 324, Oct. 14, 2008, [122 Stat. 4416][/us/stat/122/4416], as amended by [Pub. L. 111–383, div. A, title X, § 1075(e)(4)][/us/pl/111/383/s1075/e/4], Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374], provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 324, Oct. 14, 2008, [122 Stat. 4416][/us/stat/122/4416], as amended by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(e)(4), Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374], provided that:
 
 >     “(a)  __Restriction on Implementation of Consolidation__  __.—__ 
 
@@ -329,29 +329,29 @@ July 9, 1952, ch. 608, § 601, 66 Stat. 501.  </td>
 [/us/usc/t10/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs115
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F493
-[/us/pl/96/513/s504/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs504%2F4
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2916
-[/us/pl/99/433/s110/g/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs110%2Fg%2F10
+[/us/pl/99/433/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtI
 [/us/stat/100/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1004
-[/us/pl/100/26/s7/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fg%2F3
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F282
-[/us/pl/100/180/s1314/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fb%2F9
+[/us/pl/100/180/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXIII
 [/us/stat/101/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1176
-[/us/pl/109/163/s1057/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F6
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3441
-[/us/pl/109/364/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs132
+[/us/pl/109/364/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtI
 [/us/stat/120/2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2112
-[/us/pl/111/84/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs139
+[/us/pl/111/84/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtI
 [/us/stat/123/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2223
-[/us/pl/112/81/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs131
+[/us/pl/112/81/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtI
 [/us/stat/125/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1320
-[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtI
 [/us/stat/126/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1659
 [/us/usc/t10/s481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs481
 [/us/pl/112/239/s141/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs141%2Fc%2F3
 [/us/stat/126/1661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1661
-[/us/pl/112/239/s141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs141%2Fa
-[/us/pl/112/239/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs142%2Fa
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
@@ -363,13 +363,13 @@ July 9, 1952, ch. 608, § 601, 66 Stat. 501.  </td>
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/111/383/s345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs345
+[/us/pl/111/383/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIII
 [/us/stat/124/4191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4191
-[/us/pl/114/92/s1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1088
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1014
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4416
-[/us/pl/111/383/s1075/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fe%2F4
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4374
 
 

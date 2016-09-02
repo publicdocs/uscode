@@ -91,13 +91,13 @@
 
     A bonus may not be paid under subsection (a) with respect to any referral that occurs after December 31, 2011.
 
-(Added [Pub. L. 110–181, div. A, title VI, § 671(b)(1)][/us/pl/110/181/s671/b/1], Jan. 28, 2008, [122 Stat. 182][/us/stat/122/182]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 615(a), Oct. 14, 2008, [122 Stat. 4485][/us/stat/122/4485]; [Pub. L. 111–84, div. A, title VI, § 616(1)][/us/pl/111/84/s616/1], Oct. 28, 2009, [123 Stat. 2354][/us/stat/123/2354]; [Pub. L. 111–383, div. A, title VI, § 616(1)][/us/pl/111/383/s616/1], title X, § 1075(b)(15), Jan. 7, 2011, [124 Stat. 4238][/us/stat/124/4238], 4369.)
+(Added [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 671(b)(1), Jan. 28, 2008, [122 Stat. 182][/us/stat/122/182]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 615(a), Oct. 14, 2008, [122 Stat. 4485][/us/stat/122/4485]; [Pub. L. 111–84, div. A, title VI][/us/pl/111/84/dA/tVI], § 616(1), Oct. 28, 2009, [123 Stat. 2354][/us/stat/123/2354]; [Pub. L. 111–383, div. A, title VI][/us/pl/111/383/dA/tVI], § 616(1), title X, § 1075(b)(15), Jan. 7, 2011, [124 Stat. 4238][/us/stat/124/4238], 4369.)
 
  __Amendments__ 
 
-    2011—Subsec. (e)(1). [Pub. L. 111–383, § 1075(b)(15)][/us/pl/111/383/s1075/b/15], substituted “three years.” for “3 years,”.
+    2011—Subsec. (e)(1). [Pub. L. 111–383][/us/pl/111/383], § 1075(b)(15), substituted “three years.” for “3 years,”.
 
-    Subsec. (i). [Pub. L. 111–383, § 616(1)][/us/pl/111/383/s616/1], substituted “December 31, 2011” for “December 31, 2010”.
+    Subsec. (i). [Pub. L. 111–383][/us/pl/111/383], § 616(1), substituted “December 31, 2011” for “December 31, 2010”.
 
     2009—Subsec. (i). [Pub. L. 111–84][/us/pl/111/84] substituted “December 31, 2010” for “December 31, 2009”.
 
@@ -112,16 +112,16 @@
 
 [/us/usc/t10/s2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2031
 [/us/usc/t10/s514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs514%2Fa
-[/us/pl/110/181/s671/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs671%2Fb%2F1
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F182
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4485
-[/us/pl/111/84/s616/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs616%2F1
+[/us/pl/111/84/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVI
 [/us/stat/123/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2354
-[/us/pl/111/383/s616/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs616%2F1
+[/us/pl/111/383/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVI
 [/us/stat/124/4238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4238
-[/us/pl/111/383/s1075/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F15
-[/us/pl/111/383/s616/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs616%2F1
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 

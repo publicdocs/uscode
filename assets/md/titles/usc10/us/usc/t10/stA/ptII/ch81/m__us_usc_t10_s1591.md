@@ -35,11 +35,11 @@
 
         (3) The term “Secretary concerned” includes the Secretary of Defense with respect to civilian employees of the Department of Defense other than a military department.
 
-(Added [Pub. L. 100–180, div. A, title VI, § 617(b)(1)][/us/pl/100/180/s617/b/1], Dec. 4, 1987, [101 Stat. 1097][/us/stat/101/1097].)
+(Added [Pub. L. 100–180, div. A, title VI][/us/pl/100/180/dA/tVI], § 617(b)(1), Dec. 4, 1987, [101 Stat. 1097][/us/stat/101/1097].)
 
  __Effective Date__ 
 
-[Pub. L. 100–180, div. A, title VI, § 617(c)][/us/pl/100/180/s617/c], Dec. 4, 1987, [101 Stat. 1097][/us/stat/101/1097], as amended by [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B)][/us/pl/112/81/s631/f/4/B], Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465]; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948], provided that: 
+[Pub. L. 100–180, div. A, title VI][/us/pl/100/180/dA/tVI], § 617(c), Dec. 4, 1987, [101 Stat. 1097][/us/stat/101/1097], as amended by [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(f)(4)(B), Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(9), Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948], provided that: 
 
 > “Subsection (h) of [section 474 of title 37][/us/usc/t37/s474], United States Code (as added by subsection (a)), and [section 1591 of title 10][/us/usc/t10/s1591], United States Code (as added by subsection (b)), shall apply with respect to travel performed after the date of the enactment of this Act \[Dec. 4, 1987\].”
 
@@ -50,13 +50,13 @@
 ----------
 ----------
 
-[/us/pl/100/180/s617/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs617%2Fb%2F1
+[/us/pl/100/180/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVI
 [/us/stat/101/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1097
-[/us/pl/100/180/s617/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs617%2Fc
+[/us/pl/100/180/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVI
 [/us/stat/101/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1097
-[/us/pl/112/81/s631/f/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FB
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1465
-[/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
 [/us/usc/t37/s474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs474
 [/us/usc/t10/s1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1591

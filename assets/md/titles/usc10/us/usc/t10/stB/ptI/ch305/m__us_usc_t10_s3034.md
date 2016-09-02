@@ -29,7 +29,7 @@
 
         (2) if there is a vacancy in the office of the Vice Chief of Staff or the Vice Chief of Staff is absent or disabled, unless the President directs otherwise, the most senior officer of the Army in the Army Staff who is not absent or disabled and who is not restricted in performance of duty shall perform the duties of the Chief of Staff until a successor to the Chief of Staff or the Vice Chief of Staff is appointed or until the absence or disability of the Chief of Staff or Vice Chief of Staff ceases, whichever occurs first.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 162][/us/stat/70A/162], § 3035; [Pub. L. 85–599, § 6(a)][/us/pl/85/599/s6/a], Aug. 6, 1958, [72 Stat. 519][/us/stat/72/519]; renumbered § 3034 and amended [Pub. L. 99–433, title V, § 502(d)][/us/pl/99/433/s502/d], Oct. 1, 1986, [100 Stat. 1041][/us/stat/100/1041].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 162][/us/stat/70A/162], § 3035; [Pub. L. 85–599][/us/pl/85/599], § 6(a), Aug. 6, 1958, [72 Stat. 519][/us/stat/72/519]; renumbered § 3034 and amended [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 502(d), Oct. 1, 1986, [100 Stat. 1041][/us/stat/100/1041].)
 
 <table>
 
@@ -89,11 +89,11 @@ June 28, 1950, ch. 383, § 203, 64 Stat. 266.  </td>
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–433, § 502(d)][/us/pl/99/433/s502/d], renumbered [section 3035 of this title][/us/usc/t10/s3035] as this section.
+    1986—[Pub. L. 99–433][/us/pl/99/433], § 502(d), renumbered [section 3035 of this title][/us/usc/t10/s3035] as this section.
 
-    [Pub. L. 99–433, § 502(d)(3)][/us/pl/99/433/s502/d/3], substituted “Vice Chief of Staff” for “Vice Chief of Staff, Deputy Chiefs of Staff, and Assistant Chiefs of Staff: succession to duties of Chief of Staff” in section catchline.
+    [Pub. L. 99–433][/us/pl/99/433], § 502(d)(3), substituted “Vice Chief of Staff” for “Vice Chief of Staff, Deputy Chiefs of Staff, and Assistant Chiefs of Staff: succession to duties of Chief of Staff” in section catchline.
 
-    Subsecs. (a), (b). [Pub. L. 99–433, § 502(d)(1)][/us/pl/99/433/s502/d/1], amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) read as follows:
+    Subsecs. (a), (b). [Pub. L. 99–433][/us/pl/99/433], § 502(d)(1), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) read as follows:
 
     “(a) The Vice Chief of Staff, the Deputy Chiefs of Staff, and the Assistant Chiefs of Staff shall be general officers detailed to those positions.
 
@@ -103,7 +103,7 @@ June 28, 1950, ch. 383, § 203, 64 Stat. 266.  </td>
 
     “(2) The Deputy Chiefs of Staff in order of seniority.”
 
-    Subsec. (d). [Pub. L. 99–433, § 502(d)(2)][/us/pl/99/433/s502/d/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 99–433][/us/pl/99/433], § 502(d)(2), added subsec. (d).
 
     1958—Subsec. (c). [Pub. L. 85–599][/us/pl/85/599] added subsec. (c).
 
@@ -116,16 +116,16 @@ June 28, 1950, ch. 383, § 203, 64 Stat. 266.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F162
-[/us/pl/85/599/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599%2Fs6%2Fa
+[/us/pl/85/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599
 [/us/stat/72/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F519
-[/us/pl/99/433/s502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs502%2Fd
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1041
 [/us/usc/t10/s3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3033
-[/us/pl/99/433/s502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs502%2Fd
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t10/s3035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3035
-[/us/pl/99/433/s502/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs502%2Fd%2F3
-[/us/pl/99/433/s502/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs502%2Fd%2F1
-[/us/pl/99/433/s502/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs502%2Fd%2F2
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/pl/85/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599
 
 

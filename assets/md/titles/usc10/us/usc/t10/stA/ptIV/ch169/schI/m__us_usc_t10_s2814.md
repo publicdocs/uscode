@@ -159,7 +159,7 @@
 
         (2) Any other service determined by the Secretary to be a service that supports the operation and maintenance of real property, personal property, or facilities.
 
-(Added [Pub. L. 106–65, div. B, title XXVIII, § 2802(a)(1)][/us/pl/106/65/s2802/a/1], Oct. 5, 1999, [113 Stat. 845][/us/stat/113/845]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(16)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–291; [Pub. L. 107–107, div. A, title X, § 1048(d)(1)][/us/pl/107/107/s1048/d/1], Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227]; [Pub. L. 107–217, § 3(b)(18)][/us/pl/107/217/s3/b/18], Aug. 21, 2002, [116 Stat. 1296][/us/stat/116/1296]; [Pub. L. 111–383, div. B, title XXVIII, § 2803(c)][/us/pl/111/383/s2803/c], Jan. 7, 2011, [124 Stat. 4459][/us/stat/124/4459].)
+(Added [Pub. L. 106–65, div. B, title XXVIII][/us/pl/106/65/dB/tXXVIII], § 2802(a)(1), Oct. 5, 1999, [113 Stat. 845][/us/stat/113/845]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(16)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–291; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(d)(1), Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227]; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(18), Aug. 21, 2002, [116 Stat. 1296][/us/stat/116/1296]; [Pub. L. 111–383, div. B, title XXVIII][/us/pl/111/383/dB/tXXVIII], § 2803(c), Jan. 7, 2011, [124 Stat. 4459][/us/stat/124/4459].)
 
  __References in Text__ 
 
@@ -189,15 +189,15 @@
 [/us/usc/t10/s2883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2883
 [/us/usc/t42/s11411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11411
 [/us/usc/t10/s2686/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2686%2Fa
-[/us/pl/106/65/s2802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2802%2Fa%2F1
+[/us/pl/106/65/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdB%2FtXXVIII
 [/us/stat/113/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F845
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s1048/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fd%2F1
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1227
-[/us/pl/107/217/s3/b/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F18
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1296
-[/us/pl/111/383/s2803/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2803%2Fc
+[/us/pl/111/383/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdB%2FtXXVIII
 [/us/stat/124/4459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4459
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
 [/us/stat/99/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1038

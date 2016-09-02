@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stC/ptII/ch553/m__us_usc_t10_s5983.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch553/m__us_usc_t10_s5985.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5984)
 
-## \[§ 5984. Repealed. [Pub. L. 90–235, § 4(b)(1)][/us/pl/90/235/s4/b/1], Jan. 2, 1968, [81 Stat. 760][/us/stat/81/760]\]
+## \[§ 5984. Repealed. [Pub. L. 90–235][/us/pl/90/235], § 4(b)(1), Jan. 2, 1968, [81 Stat. 760][/us/stat/81/760]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 374][/us/stat/70A/374], provided for detail to military institutions and colleges that gave instruction and drill in military tactics of officers of the Navy as superintendents or professors and retired officers and petty officers of the Navy, with their consent, as instructors in military drill and tactics.
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/pl/90/235/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs4%2Fb%2F1
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F760
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F374

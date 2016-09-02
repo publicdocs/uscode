@@ -53,15 +53,15 @@
 
     The authority of the Secretary of the Navy to enter into a contract under the pilot programs shall expire September 30, 2009.
 
-(Added [Pub. L. 107–314, div. B, title XXVIII, § 2803(a)(1)][/us/pl/107/314/s2803/a/1], Dec. 2, 2002, [116 Stat. 2703][/us/stat/116/2703]; amended [Pub. L. 109–163, div. A, title X, § 1056(c)(10)][/us/pl/109/163/s1056/c/10], Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440]; [Pub. L. 109–364, div. B, title XXVIII, § 2812][/us/pl/109/364/s2812], Oct. 17, 2006, [120 Stat. 2473][/us/stat/120/2473]; [Pub. L. 111–383, div. B, title XXVIII, § 2803(f)][/us/pl/111/383/s2803/f], Jan. 7, 2011, [124 Stat. 4459][/us/stat/124/4459].)
+(Added [Pub. L. 107–314, div. B, title XXVIII][/us/pl/107/314/dB/tXXVIII], § 2803(a)(1), Dec. 2, 2002, [116 Stat. 2703][/us/stat/116/2703]; amended [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1056(c)(10), Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440]; [Pub. L. 109–364, div. B, title XXVIII][/us/pl/109/364/dB/tXXVIII], § 2812, Oct. 17, 2006, [120 Stat. 2473][/us/stat/120/2473]; [Pub. L. 111–383, div. B, title XXVIII][/us/pl/111/383/dB/tXXVIII], § 2803(f), Jan. 7, 2011, [124 Stat. 4459][/us/stat/124/4459].)
 
  __Amendments__ 
 
     2011—Subsec. (e)(2). [Pub. L. 111–383][/us/pl/111/383] inserted before period at end “or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480]”.
 
-    2006—Subsecs. (d)(2), (e)(2). [Pub. L. 109–364, § 2812(a)][/us/pl/109/364/s2812/a], substituted “30 days” for “90 days”.
+    2006—Subsecs. (d)(2), (e)(2). [Pub. L. 109–364][/us/pl/109/364], § 2812(a), substituted “30 days” for “90 days”.
 
-    Subsec. (f). [Pub. L. 109–364, § 2812(b)][/us/pl/109/364/s2812/b], substituted “2009” for “2007”.
+    Subsec. (f). [Pub. L. 109–364][/us/pl/109/364], § 2812(b), substituted “2009” for “2007”.
 
     [Pub. L. 109–163][/us/pl/109/163] substituted “The” for “Notwithstanding [section 2885 of this title][/us/usc/t10/s2885], the”.
 
@@ -76,18 +76,18 @@
 [/us/usc/t37/s403/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403%2Fn
 [/us/usc/t10/s2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2878
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
-[/us/pl/107/314/s2803/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs2803%2Fa%2F1
+[/us/pl/107/314/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdB%2FtXXVIII
 [/us/stat/116/2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2703
-[/us/pl/109/163/s1056/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1056%2Fc%2F10
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3440
-[/us/pl/109/364/s2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2812
+[/us/pl/109/364/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdB%2FtXXVIII
 [/us/stat/120/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2473
-[/us/pl/111/383/s2803/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2803%2Ff
+[/us/pl/111/383/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdB%2FtXXVIII
 [/us/stat/124/4459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4459
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
-[/us/pl/109/364/s2812/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2812%2Fa
-[/us/pl/109/364/s2812/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2812%2Fb
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/usc/t10/s2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2885
 

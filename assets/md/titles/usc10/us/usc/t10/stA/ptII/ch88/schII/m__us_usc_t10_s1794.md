@@ -43,7 +43,7 @@
 
         (2) In the case of a violation that is not life threatening, the commander of the major command under which the installation concerned operates may waive the requirement that the violation be remedied immediately for a period of up to 90 days beginning on the date of the discovery of the violation. If the violation is not remedied as of the end of that 90-day period, the military child development center shall be closed until the violation is remedied. The Secretary of the military department concerned may waive the preceding sentence and authorize the center to remain open in a case in which the violation cannot reasonably be remedied within that 90-day period or in which major facility reconstruction is required.
 
-(Added [Pub. L. 104–106, div. A, title V, § 568(a)(1)][/us/pl/104/106/s568/a/1], Feb. 10, 1996, [110 Stat. 333][/us/stat/110/333].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 568(a)(1), Feb. 10, 1996, [110 Stat. 333][/us/stat/110/333].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/104/106/s568/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs568%2Fa%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F333
 
 

@@ -87,7 +87,7 @@ Amendments  </td>
 
 </table>
 
-    1991—[Pub. L. 102–25, title VII, § 704(b)(1)][/us/pl/102/25/s704/b/1], Apr. 6, 1991, [105 Stat. 119][/us/stat/105/119], made technical amendment to directory language of [Pub. L. 101–510, div. A, title XII, § 1202(a)][/us/pl/101/510/s1202/a], Nov. 5, 1990, [104 Stat. 1638][/us/stat/104/1638], which enacted this chapter.
+    1991—[Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 704(b)(1), Apr. 6, 1991, [105 Stat. 119][/us/stat/105/119], made technical amendment to directory language of [Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1202(a), Nov. 5, 1990, [104 Stat. 1638][/us/stat/104/1638], which enacted this chapter.
 
 ----------
 
@@ -96,9 +96,9 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/102/25/s704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs704%2Fb%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F119
-[/us/pl/101/510/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1202%2Fa
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1638
 
 

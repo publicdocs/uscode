@@ -123,15 +123,15 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–375, div. B, title XXVIII][/us/pl/108/375], §§ 2808(c), 2809(a)(2), Oct. 28, 2004, [118 Stat. 2125][/us/stat/118/2125], 2127, substituted “Notice and wait requirements for certain projects” for “Limitation on certain projects; authority to carry out small projects with operation and maintenance funds” in item 18233a and added items 18233b and 18240.
+    2004—[Pub. L. 108–375, div. B, title XXVIII][/us/pl/108/375/dB/tXXVIII], §§ 2808(c), 2809(a)(2), Oct. 28, 2004, [118 Stat. 2125][/us/stat/118/2125], 2127, substituted “Notice and wait requirements for certain projects” for “Limitation on certain projects; authority to carry out small projects with operation and maintenance funds” in item 18233a and added items 18233b and 18240.
 
-    1994—[Pub. L. 103–337, div. A, title XVI, § 1664(b)(1)][/us/pl/103/337/s1664/b/1], (3), Oct. 5, 1994, [108 Stat. 3010][/us/stat/108/3010], renumbered chapter 133 as this chapter and renumbered items 2231 to 2239 as items 18231 to 18239, respectively.
+    1994—[Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1664(b)(1), (3), Oct. 5, 1994, [108 Stat. 3010][/us/stat/108/3010], renumbered chapter 133 as this chapter and renumbered items 2231 to 2239 as items 18231 to 18239, respectively.
 
-    1982—[Pub. L. 97–214, § 3(b)(2)][/us/pl/97/214/s3/b/2], (c)(2), July 12, 1982, [96 Stat. 169][/us/stat/96/169], 170, substituted “Limitation on certain projects; authority to carry out small projects with operation and maintenance funds” for “Limitation” in item 2233a, and added item 2239.
+    1982—[Pub. L. 97–214][/us/pl/97/214], § 3(b)(2), (c)(2), July 12, 1982, [96 Stat. 169][/us/stat/96/169], 170, substituted “Limitation on certain projects; authority to carry out small projects with operation and maintenance funds” for “Limitation” in item 2233a, and added item 2239.
 
-    1958—[Pub. L. 85–861, § 1(42)][/us/pl/85/861/s1/42], Sept. 2, 1958, [72 Stat. 1457][/us/stat/72/1457], inserted “: compliance with State law” in item 2237.
+    1958—[Pub. L. 85–861][/us/pl/85/861], § 1(42), Sept. 2, 1958, [72 Stat. 1457][/us/stat/72/1457], inserted “: compliance with State law” in item 2237.
 
-    [Pub. L. 85–685, title VI, § 601(4)][/us/pl/85/685/s601/4], Aug. 20, 1958, [72 Stat. 665][/us/stat/72/665], added item 2233a.
+    [Pub. L. 85–685, title VI][/us/pl/85/685/tVI], § 601(4), Aug. 20, 1958, [72 Stat. 665][/us/stat/72/665], added item 2233a.
 
 ----------
 
@@ -140,15 +140,15 @@
 ----------
 ----------
 
-[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdB%2FtXXVIII
 [/us/stat/118/2125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2125
-[/us/pl/103/337/s1664/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1664%2Fb%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3010
-[/us/pl/97/214/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs3%2Fb%2F2
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F169
-[/us/pl/85/861/s1/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F42
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1457
-[/us/pl/85/685/s601/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F685%2Fs601%2F4
+[/us/pl/85/685/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F685%2FtVI
 [/us/stat/72/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F665
 
 

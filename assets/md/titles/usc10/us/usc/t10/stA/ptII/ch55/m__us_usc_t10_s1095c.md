@@ -63,7 +63,7 @@
 
     The Secretary of Defense, in consultation with the other administering Secretaries, shall limit the information required in support of claims for payment for health care items and services provided under the TRICARE program to that information that is identical to the information that would be required for claims for reimbursement for those items and services under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) except for that information, if any, that is uniquely required by the TRICARE program. The Secretary of Defense shall report to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives any information that is excepted under this provision, and the justification for that exception.
 
-(Added [Pub. L. 106–65, div. A, title VII, § 713(a)(1)][/us/pl/106/65/s713/a/1], Oct. 5, 1999, [113 Stat. 688][/us/stat/113/688]; amended [Pub. L. 107–107, div. A, title VII, § 708(b)][/us/pl/107/107/s708/b], Dec. 28, 2001, [115 Stat. 1164][/us/stat/115/1164]; [Pub. L. 107–314, div. A, title VII, § 711(a)][/us/pl/107/314/s711/a], Dec. 2, 2002, [116 Stat. 2588][/us/stat/116/2588].)
+(Added [Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 713(a)(1), Oct. 5, 1999, [113 Stat. 688][/us/stat/113/688]; amended [Pub. L. 107–107, div. A, title VII][/us/pl/107/107/dA/tVII], § 708(b), Dec. 28, 2001, [115 Stat. 1164][/us/stat/115/1164]; [Pub. L. 107–314, div. A, title VII][/us/pl/107/314/dA/tVII], § 711(a), Dec. 2, 2002, [116 Stat. 2588][/us/stat/116/2588].)
 
  __References in Text__ 
 
@@ -73,25 +73,25 @@
 
     2002—Subsec. (d). [Pub. L. 107–314][/us/pl/107/314] added subsec. (d).
 
-    2001—Subsec. (b)(1). [Pub. L. 107–107, § 708(b)(1)][/us/pl/107/107/s708/b/1], substituted “Except as provided in paragraph (3), the Secretary” for “The Secretary” and struck out “contract. In such case the contractor may begin to provide managed care support pursuant to the contract as soon as practicable after the award of the” before “contract, but in no case”.
+    2001—Subsec. (b)(1). [Pub. L. 107–107][/us/pl/107/107], § 708(b)(1), substituted “Except as provided in paragraph (3), the Secretary” for “The Secretary” and struck out “contract. In such case the contractor may begin to provide managed care support pursuant to the contract as soon as practicable after the award of the” before “contract, but in no case”.
 
-    Subsec. (b)(3). [Pub. L. 107–107, § 708(b)(2)][/us/pl/107/107/s708/b/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 107–107][/us/pl/107/107], § 708(b)(2), added par. (3).
 
  __Effective Date__ 
 
-[Pub. L. 106–65, div. A, title VII, § 713(d)][/us/pl/106/65/s713/d], Oct. 5, 1999, [113 Stat. 689][/us/stat/113/689], provided that: 
+[Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 713(d), Oct. 5, 1999, [113 Stat. 689][/us/stat/113/689], provided that: 
 
 > “[Section 1095c(b) of title 10][/us/usc/t10/s1095c/b], United States Code (as added by subsection (a)), shall apply with respect to any contract to provide managed care support under the TRICARE program negotiated after the date of the enactment of this Act \[Oct. 5, 1999\].”
 
  __Applicability__ 
 
-[Pub. L. 107–314, div. A, title VII, § 711(b)][/us/pl/107/314/s711/b], Dec. 2, 2002, [116 Stat. 2588][/us/stat/116/2588], provided that: 
+[Pub. L. 107–314, div. A, title VII][/us/pl/107/314/dA/tVII], § 711(b), Dec. 2, 2002, [116 Stat. 2588][/us/stat/116/2588], provided that: 
 
 > “The Secretary of Defense, in consultation with the other administering Secretaries referred to in [section 1072(3) of title 10][/us/usc/t10/s1072/3], United States Code, shall apply the limitations required under subsection (d) of section 1095c of such title (as added by subsection (a)) with respect to contracts entered into under the TRICARE program on or after October 1, 2002.”
 
  __Standardization of Claims Processing Under TRICARE Program and Medicare Program__ 
 
-[Pub. L. 109–364, div. A, title VII, § 731][/us/pl/109/364/s731], Oct. 17, 2006, [120 Stat. 2295][/us/stat/120/2295], as amended by [Pub. L. 112–81, div. A, title X, § 1062(d)(2)][/us/pl/112/81/s1062/d/2], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585], provided that:
+[Pub. L. 109–364, div. A, title VII][/us/pl/109/364/dA/tVII], § 731, Oct. 17, 2006, [120 Stat. 2295][/us/stat/120/2295], as amended by [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1062(d)(2), Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -135,7 +135,7 @@
 
  __Claims Processing Improvements__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 727\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–188, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 727\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–188, provided that: 
 
 > “Beginning on the date of the enactment of this Act \[Oct. 30, 2000\], the Secretary of Defense shall, to the maximum extent practicable, take all necessary actions to implement the following improvements with respect to processing of claims under the TRICARE program:
 
@@ -151,7 +151,7 @@
 
  __Deadline for Implementation__ 
 
-    [Pub. L. 106–65, div. A, title VII, § 713(c)][/us/pl/106/65/s713/c], Oct. 5, 1999, [113 Stat. 689][/us/stat/113/689], provided that the system for processing claims required under subsec. (a) of this section was to be implemented not later than 6 months after Oct. 5, 1999.
+    [Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 713(c), Oct. 5, 1999, [113 Stat. 689][/us/stat/113/689], provided that the system for processing claims required under subsec. (a) of this section was to be implemented not later than 6 months after Oct. 5, 1999.
 
 ----------
 
@@ -161,34 +161,34 @@
 ----------
 
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
-[/us/pl/106/65/s713/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs713%2Fa%2F1
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F688
-[/us/pl/107/107/s708/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs708%2Fb
+[/us/pl/107/107/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVII
 [/us/stat/115/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1164
-[/us/pl/107/314/s711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs711%2Fa
+[/us/pl/107/314/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVII
 [/us/stat/116/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2588
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
-[/us/pl/107/107/s708/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs708%2Fb%2F1
-[/us/pl/107/107/s708/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs708%2Fb%2F2
-[/us/pl/106/65/s713/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs713%2Fd
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F689
 [/us/usc/t10/s1095c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1095c%2Fb
-[/us/pl/107/314/s711/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs711%2Fb
+[/us/pl/107/314/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVII
 [/us/stat/116/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2588
 [/us/usc/t10/s1072/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F3
-[/us/pl/109/364/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs731
+[/us/pl/109/364/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVII
 [/us/stat/120/2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2295
-[/us/pl/112/81/s1062/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1062%2Fd%2F2
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1585
 [/us/usc/t10/s1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1095
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t10/s1072/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F7
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/65/s713/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs713%2Fc
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F689
 
 

@@ -21,7 +21,7 @@
 
     (c) The authority provided by subsection (a) shall be exercised under regulations prescribed by the Secretary of Defense.
 
-(Added [Pub. L. 107–107, div. A, title V, § 531(a)][/us/pl/107/107/s531/a], Dec. 28, 2001, [115 Stat. 1104][/us/stat/115/1104].)
+(Added [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 531(a), Dec. 28, 2001, [115 Stat. 1104][/us/stat/115/1104].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/107/s531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs531%2Fa
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1104
 
 

@@ -21,15 +21,15 @@
 
     (c) Upon the termination of a suspension made under the authority of subsection (a) of a provision of law otherwise requiring the separation or retirement of officers on active duty because of age, length of service or length of service in grade, or failure of selection for promotion, the Secretary concerned shall extend by up to 90 days the otherwise required separation or retirement date of any officer covered by the suspended provision whose separation or retirement date, but for the suspension, would have been before the date of the termination of the suspension or within 90 days after the date of such termination.
 
-(Added [Pub. L. 98–94, title X, § 1021(a)][/us/pl/98/94/s1021/a], Sept. 24, 1983, [97 Stat. 670][/us/stat/97/670], § 673c; amended [Pub. L. 98–525, title XIV, § 1405(16)][/us/pl/98/525/s1405/16], Oct. 19, 1984, [98 Stat. 2622][/us/stat/98/2622]; renumbered § 12305 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337], §§ 1662(e)(2), 1675(c)(3), Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992], 3017; [Pub. L. 107–107, div. A, title V, § 508(a)][/us/pl/107/107/s508/a], Dec. 28, 2001, [115 Stat. 1090][/us/stat/115/1090].)
+(Added [Pub. L. 98–94, title X][/us/pl/98/94/tX], § 1021(a), Sept. 24, 1983, [97 Stat. 670][/us/stat/97/670], § 673c; amended [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(16), Oct. 19, 1984, [98 Stat. 2622][/us/stat/98/2622]; renumbered § 12305 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], §§ 1662(e)(2), 1675(c)(3), Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992], 3017; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 508(a), Dec. 28, 2001, [115 Stat. 1090][/us/stat/115/1090].)
 
  __Amendments__ 
 
     2001—Subsec. (c). [Pub. L. 107–107][/us/pl/107/107] added subsec. (c).
 
-    1994—[Pub. L. 103–337, § 1662(e)(2)][/us/pl/103/337/s1662/e/2], renumbered [section 673c of this title][/us/usc/t10/s673c] as this section.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 1662(e)(2), renumbered [section 673c of this title][/us/usc/t10/s673c] as this section.
 
-    Subsecs. (a), (b). [Pub. L. 103–337, § 1675(c)(3)][/us/pl/103/337/s1675/c/3], substituted “12301, 12302, or 12304” for “672, 673, or 673b”.
+    Subsecs. (a), (b). [Pub. L. 103–337][/us/pl/103/337], § 1675(c)(3), substituted “12301, 12302, or 12304” for “672, 673, or 673b”.
 
     1984—Subsec. (b)(1). [Pub. L. 98–525][/us/pl/98/525] inserted “of this title” after “673b”.
 
@@ -56,18 +56,18 @@
 ----------
 ----------
 
-[/us/pl/98/94/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1021%2Fa
+[/us/pl/98/94/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtX
 [/us/stat/97/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F670
-[/us/pl/98/525/s1405/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F16
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2622
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2992
-[/us/pl/107/107/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs508%2Fa
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1090
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/103/337/s1662/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fe%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s673c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs673c
-[/us/pl/103/337/s1675/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1675%2Fc%2F3
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691

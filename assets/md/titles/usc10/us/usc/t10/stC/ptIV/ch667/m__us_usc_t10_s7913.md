@@ -17,7 +17,7 @@
 
     Under such conditions as he may prescribe, the Secretary of the Navy may issue, to any educational institution at which an officer of the naval service is detailed as professor of naval science, such supplies as are necessary to establish and maintain a camp for the military instruction of its students. The Secretary shall require a bond in the value of the property issued under this section, for the care and safekeeping of that property and except for property properly expended, for its return when required.
 
-(Added [Pub. L. 110–181, div. A, title III, § 377(a)][/us/pl/110/181/s377/a], Jan. 28, 2008, [122 Stat. 85][/us/stat/122/85].)
+(Added [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 377(a), Jan. 28, 2008, [122 Stat. 85][/us/stat/122/85].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/181/s377/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs377%2Fa
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F85
 
 

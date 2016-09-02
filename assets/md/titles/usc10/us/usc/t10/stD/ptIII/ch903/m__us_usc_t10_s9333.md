@@ -21,7 +21,7 @@
 
     (c) The director of admissions of the Academy shall be appointed by the President, by and with the advice and consent of the Senate, and shall perform such duties as the Superintendent of the Academy may prescribe with the approval of the Secretary of the Air Force.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 562][/us/stat/70A/562]; [Pub. L. 85–600, § 1(20)][/us/pl/85/600/s1/20], Aug. 6, 1958, [72 Stat. 523][/us/stat/72/523]; [Pub. L. 101–189, div. A, title V, § 515(a)(2)][/us/pl/101/189/s515/a/2], Nov. 29, 1989, [103 Stat. 1441][/us/stat/103/1441].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 562][/us/stat/70A/562]; [Pub. L. 85–600][/us/pl/85/600], § 1(20), Aug. 6, 1958, [72 Stat. 523][/us/stat/72/523]; [Pub. L. 101–189, div. A, title V][/us/pl/101/189/dA/tV], § 515(a)(2), Nov. 29, 1989, [103 Stat. 1441][/us/stat/103/1441].)
 
 <table>
 
@@ -102,9 +102,9 @@ In subsection (b), the words “by and with the advice and consent of the Senate
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F562
-[/us/pl/85/600/s1/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F600%2Fs1%2F20
+[/us/pl/85/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F600
 [/us/stat/72/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F523
-[/us/pl/101/189/s515/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs515%2Fa%2F2
+[/us/pl/101/189/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtV
 [/us/stat/103/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1441
 [/us/usc/t10/s8012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8012
 [/us/usc/t10/s9349/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9349%2Fb

@@ -67,7 +67,7 @@
 
         (2) If the cost estimate required by paragraph (1)(B) does not exceed the total of the moneys covered into the Treasury under subsection (f)(1) and remaining available for obligation as of the date of submission of the report under paragraph (1), the Secretary of the Interior may access such moneys, beginning 60 days after submission of the report and without further appropriation, to cover the costs of implementing the preferred alternative to address environmental restoration, waste management, and environmental compliance needs at Oil Shale Reserve Numbered 3. If the cost estimate exceeds such available moneys, the Secretary of the Interior may only access such moneys as authorized by subsequent Act of Congress.
 
-(Added [Pub. L. 105–85, div. C, title XXXIV, § 3404(a)][/us/pl/105/85/s3404/a], Nov. 18, 1997, [111 Stat. 2059][/us/stat/111/2059]; amended [Pub. L. 107–107, div. A, title X, § 1048(c)(14)][/us/pl/107/107/s1048/c/14], Dec. 28, 2001, [115 Stat. 1226][/us/stat/115/1226]; [Pub. L. 107–345, § 1][/us/pl/107/345/s1], Dec. 17, 2002, [116 Stat. 2894][/us/stat/116/2894].)
+(Added [Pub. L. 105–85, div. C, title XXXIV][/us/pl/105/85/dC/tXXXIV], § 3404(a), Nov. 18, 1997, [111 Stat. 2059][/us/stat/111/2059]; amended [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(c)(14), Dec. 28, 2001, [115 Stat. 1226][/us/stat/115/1226]; [Pub. L. 107–345][/us/pl/107/345], § 1, Dec. 17, 2002, [116 Stat. 2894][/us/stat/116/2894].)
 
  __References in Text__ 
 
@@ -81,17 +81,17 @@
 
  __Amendments__ 
 
-    2002—Subsec. (f)(1). [Pub. L. 107–345, § 1(1)][/us/pl/107/345/s1/1], struck out after first sentence: “Subject to a specific authorization and appropriation for this purpose, such moneys may be used for reimbursement of environmental restoration, waste management, and environmental compliance costs incurred by the United States with respect to the lands transferred under subsection (a).”
+    2002—Subsec. (f)(1). [Pub. L. 107–345][/us/pl/107/345], § 1(1), struck out after first sentence: “Subject to a specific authorization and appropriation for this purpose, such moneys may be used for reimbursement of environmental restoration, waste management, and environmental compliance costs incurred by the United States with respect to the lands transferred under subsection (a).”
 
-    Subsec. (g). [Pub. L. 107–345, § 1(2)][/us/pl/107/345/s1/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 107–345][/us/pl/107/345], § 1(2), added subsec. (g).
 
-    2001—Subsec. (a)(2). [Pub. L. 107–107, § 1048(c)(14)(A)][/us/pl/107/107/s1048/c/14/A], substituted “November 18, 1998” for “one year after the date of the enactment of this section”.
+    2001—Subsec. (a)(2). [Pub. L. 107–107][/us/pl/107/107], § 1048(c)(14)(A), substituted “November 18, 1998” for “one year after the date of the enactment of this section”.
 
-    Subsec. (b)(1). [Pub. L. 107–107, § 1048(c)(14)(B)][/us/pl/107/107/s1048/c/14/B], substituted “November 18, 1997,” for “the date of the enactment of this section,”.
+    Subsec. (b)(1). [Pub. L. 107–107][/us/pl/107/107], § 1048(c)(14)(B), substituted “November 18, 1997,” for “the date of the enactment of this section,”.
 
-    Subsec. (b)(2). [Pub. L. 107–107, § 1048(c)(14)(C)][/us/pl/107/107/s1048/c/14/C], substituted “November 18, 1998” for “the end of the one-year period beginning on the date of the enactment of this section”.
+    Subsec. (b)(2). [Pub. L. 107–107][/us/pl/107/107], § 1048(c)(14)(C), substituted “November 18, 1998” for “the end of the one-year period beginning on the date of the enactment of this section”.
 
-    Subsec. (f)(2). [Pub. L. 107–107, § 1048(c)(14)(D)][/us/pl/107/107/s1048/c/14/D], substituted “November 18, 1997,” for “the date of the enactment of this section”.
+    Subsec. (f)(2). [Pub. L. 107–107][/us/pl/107/107], § 1048(c)(14)(D), substituted “November 18, 1997,” for “the date of the enactment of this section”.
 
 ----------
 
@@ -105,11 +105,11 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t30/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191
 [/us/usc/t30/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1701
-[/us/pl/105/85/s3404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3404%2Fa
+[/us/pl/105/85/dC/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXIV
 [/us/stat/111/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2059
-[/us/pl/107/107/s1048/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fc%2F14
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1226
-[/us/pl/107/345/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F345%2Fs1
+[/us/pl/107/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F345
 [/us/stat/116/2894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2894
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437
@@ -123,11 +123,11 @@
 [/us/pl/97/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F451
 [/us/stat/96/2447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2447
 [/us/usc/t30/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1701
-[/us/pl/107/345/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F345%2Fs1%2F1
-[/us/pl/107/345/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F345%2Fs1%2F2
-[/us/pl/107/107/s1048/c/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fc%2F14%2FA
-[/us/pl/107/107/s1048/c/14/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fc%2F14%2FB
-[/us/pl/107/107/s1048/c/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fc%2F14%2FC
-[/us/pl/107/107/s1048/c/14/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fc%2F14%2FD
+[/us/pl/107/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F345
+[/us/pl/107/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F345
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 
 

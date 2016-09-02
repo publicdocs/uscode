@@ -21,7 +21,7 @@
 
     (2) the month during which that person attains 70 years of age.
 
-(Added [Pub. L. 106–65, div. A, title VI, § 655(a)][/us/pl/106/65/s655/a], Oct. 5, 1999, [113 Stat. 667][/us/stat/113/667].)
+(Added [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 655(a), Oct. 5, 1999, [113 Stat. 667][/us/stat/113/667].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/65/s655/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs655%2Fa
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F667
 
 

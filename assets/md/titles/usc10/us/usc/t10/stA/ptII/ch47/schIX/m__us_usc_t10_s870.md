@@ -33,7 +33,7 @@
 
     (e) Military appellate counsel shall also perform such other functions in connection with the review of court martial cases as the Judge Advocate General directs.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 62][/us/stat/70A/62]; [Pub. L. 90–632, § 2(31)][/us/pl/90/632/s2/31], Oct. 24, 1968, [82 Stat. 1342][/us/stat/82/1342]; [Pub. L. 98–209, § 10(c)(3)][/us/pl/98/209/s10/c/3], Dec. 6, 1983, [97 Stat. 1406][/us/stat/97/1406]; [Pub. L. 103–337, div. A, title IX, § 924(c)(1)][/us/pl/103/337/s924/c/1], (2), Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 62][/us/stat/70A/62]; [Pub. L. 90–632][/us/pl/90/632], § 2(31), Oct. 24, 1968, [82 Stat. 1342][/us/stat/82/1342]; [Pub. L. 98–209][/us/pl/98/209], § 10(c)(3), Dec. 6, 1983, [97 Stat. 1406][/us/stat/97/1406]; [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(c)(1), (2), Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831].)
 
 <table>
 
@@ -139,9 +139,9 @@ May 5, 1950, ch. 169, § 1 (Art. 70), 64 Stat. 130.  </td>
 
     1994—Subsecs. (b) to (d). [Pub. L. 103–337][/us/pl/103/337] substituted “Court of Criminal Appeals” for “Court of Military Review” and “Court of Appeals for the Armed Forces” for “Court of Military Appeals” wherever appearing.
 
-    1983—Subsec. (b). [Pub. L. 98–209, § 10(c)(3)(A)][/us/pl/98/209/s10/c/3/A], inserted provision that Appellate Government counsel may represent the United States before the Supreme Court in cases arising under this chapter when requested to do so by the Attorney General.
+    1983—Subsec. (b). [Pub. L. 98–209][/us/pl/98/209], § 10(c)(3)(A), inserted provision that Appellate Government counsel may represent the United States before the Supreme Court in cases arising under this chapter when requested to do so by the Attorney General.
 
-    Subsecs. (c), (d). [Pub. L. 98–209, § 10(c)(3)(B)][/us/pl/98/209/s10/c/3/B], amended subsecs. (c) and (d) generally, inserting references to the Supreme Court.
+    Subsecs. (c), (d). [Pub. L. 98–209][/us/pl/98/209], § 10(c)(3)(B), amended subsecs. (c) and (d) generally, inserting references to the Supreme Court.
 
     1968—Subsecs. (b) to (d). [Pub. L. 90–632][/us/pl/90/632] substituted “Court of Military Review” for “board of review” wherever appearing.
 
@@ -163,15 +163,15 @@ May 5, 1950, ch. 169, § 1 (Art. 70), 64 Stat. 130.  </td>
 [/us/usc/t10/s827/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs827%2Fb%2F1
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F62
-[/us/pl/90/632/s2/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F31
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1342
-[/us/pl/98/209/s10/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs10%2Fc%2F3
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1406
-[/us/pl/103/337/s924/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fc%2F1
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2831
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
-[/us/pl/98/209/s10/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs10%2Fc%2F3%2FA
-[/us/pl/98/209/s10/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs10%2Fc%2F3%2FB
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/98/209/s12/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs12%2Fa%2F1

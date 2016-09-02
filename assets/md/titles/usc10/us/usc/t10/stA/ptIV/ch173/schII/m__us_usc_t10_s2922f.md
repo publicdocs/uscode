@@ -29,23 +29,23 @@
 
         (4) Electric refrigeration equipment.
 
-(Added [Pub. L. 102–484, div. A, title III, § 384(a)(1)(A)][/us/pl/102/484/s384/a/1/A], Oct. 23, 1992, [106 Stat. 2392][/us/stat/106/2392], § 2410c; renumbered § 2922f and amended [Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2)][/us/pl/109/364/s2851/b/2], (3)(E), Oct. 17, 2006, [120 Stat. 2494][/us/stat/120/2494], 2495.)
+(Added [Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 384(a)(1)(A), Oct. 23, 1992, [106 Stat. 2392][/us/stat/106/2392], § 2410c; renumbered § 2922f and amended [Pub. L. 109–364, div. B, title XXVIII][/us/pl/109/364/dB/tXXVIII], § 2851(b)(2), (3)(E), Oct. 17, 2006, [120 Stat. 2494][/us/stat/120/2494], 2495.)
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–364, § 2851(b)(2)][/us/pl/109/364/s2851/b/2], renumbered [section 2410c of this title][/us/usc/t10/s2410c] as this section.
+    2006—[Pub. L. 109–364][/us/pl/109/364], § 2851(b)(2), renumbered [section 2410c of this title][/us/usc/t10/s2410c] as this section.
 
-    Subsec. (a). [Pub. L. 109–364, § 2851(b)(3)(E)][/us/pl/109/364/s2851/b/3/E], substituted “In” for “When cost effective, in” and “if providing such a preference is consistent with the energy performance goals and energy performance plan for the Department of Defense developed under [section 2911 of this title][/us/usc/t10/s2911] and supported by the special considerations specified in subsection (c) of such section” for “as the case may be”.
+    Subsec. (a). [Pub. L. 109–364][/us/pl/109/364], § 2851(b)(3)(E), substituted “In” for “When cost effective, in” and “if providing such a preference is consistent with the energy performance goals and energy performance plan for the Department of Defense developed under [section 2911 of this title][/us/usc/t10/s2911] and supported by the special considerations specified in subsection (c) of such section” for “as the case may be”.
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–484, div. A, title III, § 384(a)(2)][/us/pl/102/484/s384/a/2], Oct. 23, 1992, [106 Stat. 2393][/us/stat/106/2393], provided that: 
+[Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 384(a)(2), Oct. 23, 1992, [106 Stat. 2393][/us/stat/106/2393], provided that: 
 
 > “The amendments made by paragraph (1) \[enacting this section\] shall apply to procurements for which solicitations are issued on or after the date that is 120 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
 
  __Electric Lighting and Refrigeration Equipment Demonstration Programs__ 
 
-[Pub. L. 102–484, div. A, title III, § 384(b)][/us/pl/102/484/s384/b]–(d), Oct. 23, 1992, [106 Stat. 2393][/us/stat/106/2393], provided that:
+[Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 384(b)–(d), Oct. 23, 1992, [106 Stat. 2393][/us/stat/106/2393], provided that:
 
 >     “(b)  __Electric Lighting Demonstration Program__  __.—__ 
 
@@ -99,17 +99,17 @@
 ----------
 
 [/us/usc/t10/s2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2911
-[/us/pl/102/484/s384/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs384%2Fa%2F1%2FA
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2392
-[/us/pl/109/364/s2851/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2851%2Fb%2F2
+[/us/pl/109/364/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdB%2FtXXVIII
 [/us/stat/120/2494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2494
-[/us/pl/109/364/s2851/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2851%2Fb%2F2
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s2410c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2410c
-[/us/pl/109/364/s2851/b/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2851%2Fb%2F3%2FE
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2911
-[/us/pl/102/484/s384/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs384%2Fa%2F2
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2393
-[/us/pl/102/484/s384/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs384%2Fb
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2393
 
 

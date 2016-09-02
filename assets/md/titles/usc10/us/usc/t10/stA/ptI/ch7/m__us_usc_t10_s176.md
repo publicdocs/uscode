@@ -43,21 +43,21 @@
 
     (d) The Secretary of Defense shall promulgate such regulations as may be necessary to prescribe the organization, functions, and responsibilities of the Institute.
 
-(Added [Pub. L. 94–361, title VIII, § 811(b)][/us/pl/94/361/s811/b], July 14, 1976, [90 Stat. 933][/us/stat/90/933]; amended [Pub. L. 96–513, title V, § 511(6)][/us/pl/96/513/s511/6], Dec. 12, 1980, [94 Stat. 2920][/us/stat/94/2920]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 103–160, div. A, title VII, § 733][/us/pl/103/160/s733], Nov. 30, 1993, [107 Stat. 1697][/us/stat/107/1697]; [Pub. L. 104–106, div. A, title IX, § 903(f)(1)][/us/pl/104/106/s903/f/1], Feb. 10, 1996, [110 Stat. 402][/us/stat/110/402]; [Pub. L. 104–201, div. A, title IX, § 901][/us/pl/104/201/s901], Sept. 23, 1996, [110 Stat. 2617][/us/stat/110/2617]; [Pub. L. 107–107, div. A, title X, § 1048(a)(4)][/us/pl/107/107/s1048/a/4], Dec. 28, 2001, [115 Stat. 1222][/us/stat/115/1222].)
+(Added [Pub. L. 94–361, title VIII][/us/pl/94/361/tVIII], § 811(b), July 14, 1976, [90 Stat. 933][/us/stat/90/933]; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(6), Dec. 12, 1980, [94 Stat. 2920][/us/stat/94/2920]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 103–160, div. A, title VII][/us/pl/103/160/dA/tVII], § 733, Nov. 30, 1993, [107 Stat. 1697][/us/stat/107/1697]; [Pub. L. 104–106, div. A, title IX][/us/pl/104/106/dA/tIX], § 903(f)(1), Feb. 10, 1996, [110 Stat. 402][/us/stat/110/402]; [Pub. L. 104–201, div. A, title IX][/us/pl/104/201/dA/tIX], § 901, Sept. 23, 1996, [110 Stat. 2617][/us/stat/110/2617]; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(a)(4), Dec. 28, 2001, [115 Stat. 1222][/us/stat/115/1222].)
 
  __Amendments__ 
 
     2001—Subsec. (a)(3). [Pub. L. 107–107][/us/pl/107/107] substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-    1996—Subsec. (a)(3). [Pub. L. 104–106, § 903(a)][/us/pl/104/106/s903/a], (f)(1), which directed amendment of subsec. (a)(3), eff. Jan. 31, 1997, by substituting “official in the Department of Defense with principal responsibility for health affairs” for “Assistant Secretary of Defense for Health Affairs” and “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”, was repealed by [Pub. L. 104–201][/us/pl/104/201].
+    1996—Subsec. (a)(3). [Pub. L. 104–106][/us/pl/104/106], § 903(a), (f)(1), which directed amendment of subsec. (a)(3), eff. Jan. 31, 1997, by substituting “official in the Department of Defense with principal responsibility for health affairs” for “Assistant Secretary of Defense for Health Affairs” and “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”, was repealed by [Pub. L. 104–201][/us/pl/104/201].
 
     1993—Subsec. (c). [Pub. L. 103–160][/us/pl/103/160] inserted at end “The Secretary of Defense, on a case-by-case basis, may waive the limitation on the number of distinguished pathologists or scientists with whom agreements may be entered into under this subsection if the Secretary determines that such waiver is in the best interest of the Department of Defense.”
 
     1989—Subsec. (a)(3). [Pub. L. 101–189][/us/pl/101/189] substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-    1980—Subsec. (a)(3). [Pub. L. 96–513, § 511(6)(A)][/us/pl/96/513/s511/6/A], substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+    1980—Subsec. (a)(3). [Pub. L. 96–513][/us/pl/96/513], § 511(6)(A), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-    Subsec. (b)(1)(A). [Pub. L. 96–513, § 511(6)(B)][/us/pl/96/513/s511/6/B], inserted “of this title” after “177”.
+    Subsec. (b)(1)(A). [Pub. L. 96–513][/us/pl/96/513], § 511(6)(B), inserted “of this title” after “177”.
 
  __Effective Date of 1980 Amendment__ 
 
@@ -65,7 +65,7 @@
 
  __Establishment of Joint Pathology Center__ 
 
-[Pub. L. 110–181, div. A, title VII, § 722][/us/pl/110/181/s722], Jan. 28, 2008, [122 Stat. 199][/us/stat/122/199], provided that:
+[Pub. L. 110–181, div. A, title VII][/us/pl/110/181/dA/tVII], § 722, Jan. 28, 2008, [122 Stat. 199][/us/stat/122/199], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -109,7 +109,7 @@
 
  __National Museum of Health and Medicine__ 
 
-[Pub. L. 103–337, div. A, title X, § 1067][/us/pl/103/337/s1067], Oct. 5, 1994, [108 Stat. 2851][/us/stat/108/2851], as amended by [Pub. L. 105–78, title VII, § 702][/us/pl/105/78/s702], Nov. 13, 1997, [111 Stat. 1524][/us/stat/111/1524], provided that:
+[Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1067, Oct. 5, 1994, [108 Stat. 2851][/us/stat/108/2851], as amended by [Pub. L. 105–78, title VII][/us/pl/105/78/tVII], § 702, Nov. 13, 1997, [111 Stat. 1524][/us/stat/111/1524], provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -125,7 +125,7 @@
 
  __Congressional Findings and Declaration__ 
 
-[Pub. L. 94–361, title VIII, § 811(a)][/us/pl/94/361/s811/a], July 14, 1976, [90 Stat. 933][/us/stat/90/933], provided that:
+[Pub. L. 94–361, title VIII][/us/pl/94/361/tVIII], § 811(a), July 14, 1976, [90 Stat. 933][/us/stat/90/933], provided that:
 
 >     “(1)
 
@@ -153,37 +153,37 @@
 ----------
 
 [/us/usc/t10/s177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs177
-[/us/pl/94/361/s811/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F361%2Fs811%2Fb
+[/us/pl/94/361/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F361%2FtVIII
 [/us/stat/90/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F933
-[/us/pl/96/513/s511/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F6
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2920
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1602
-[/us/pl/103/160/s733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs733
+[/us/pl/103/160/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVII
 [/us/stat/107/1697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1697
-[/us/pl/104/106/s903/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs903%2Ff%2F1
+[/us/pl/104/106/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIX
 [/us/stat/110/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F402
-[/us/pl/104/201/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs901
+[/us/pl/104/201/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIX
 [/us/stat/110/2617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2617
-[/us/pl/107/107/s1048/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fa%2F4
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1222
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/104/106/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs903%2Fa
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
-[/us/pl/96/513/s511/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F6%2FA
-[/us/pl/96/513/s511/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F6%2FB
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/110/181/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs722
+[/us/pl/110/181/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVII
 [/us/stat/122/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F199
-[/us/pl/103/337/s1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1067
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2851
-[/us/pl/105/78/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2Fs702
+[/us/pl/105/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2FtVII
 [/us/stat/111/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1524
-[/us/pl/94/361/s811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F361%2Fs811%2Fa
+[/us/pl/94/361/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F361%2FtVIII
 [/us/stat/90/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F933
 
 

@@ -67,7 +67,7 @@
 
     The Secretary may lend, give, or otherwise transfer any portion of the hull or superstructure of a vessel stricken from the Naval Vessel Register and designated for scrapping to a qualified organization specified in subsection (a). The terms and conditions of an agreement for the transfer of a portion of a vessel under this section shall include a requirement that the transferee will maintain the material conveyed in a condition that will not diminish the historical value of the material or bring discredit upon the Navy.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 466][/us/stat/70A/466]; [Pub. L. 96–513, title V, § 513(39)][/us/pl/96/513/s513/39], (40), Dec. 12, 1980, [94 Stat. 2934][/us/stat/94/2934], 2935; [Pub. L. 104–106, div. A, title X, § 1061(i)][/us/pl/104/106/s1061/i], Feb. 10, 1996, [110 Stat. 443][/us/stat/110/443]; [Pub. L. 107–107, div. A, title X, § 1043(a)][/us/pl/107/107/s1043/a]–(c), Dec. 28, 2001, [115 Stat. 1218][/us/stat/115/1218], 1219; [Pub. L. 107–217, § 3(b)(34)][/us/pl/107/217/s3/b/34], Aug. 21, 2002, [116 Stat. 1298][/us/stat/116/1298]; [Pub. L. 107–314, div. A, title X, § 1062(e)(2)][/us/pl/107/314/s1062/e/2], Dec. 2, 2002, [116 Stat. 2651][/us/stat/116/2651]; [Pub. L. 109–163, div. A, title X, § 1057(a)(3)][/us/pl/109/163/s1057/a/3], Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 466][/us/stat/70A/466]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(39), (40), Dec. 12, 1980, [94 Stat. 2934][/us/stat/94/2934], 2935; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1061(i), Feb. 10, 1996, [110 Stat. 443][/us/stat/110/443]; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1043(a)–(c), Dec. 28, 2001, [115 Stat. 1218][/us/stat/115/1218], 1219; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(34), Aug. 21, 2002, [116 Stat. 1298][/us/stat/116/1298]; [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1062(e)(2), Dec. 2, 2002, [116 Stat. 2651][/us/stat/116/2651]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(a)(3), Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440].)
 
 <table>
 
@@ -147,7 +147,7 @@ Aug. 7, 1946, ch. 804, § 6 (1st sentence as applicable to § 2, and 3d sent
 
     In subsection (a) the words, “ordnance material” are substituted for the words “ordnance, guns, projectiles”. Posts of the Grand Army of the Republic are omitted from the list of authorized donees because there are no surviving members of that organization. The word “Commonwealth” is inserted to reflect the present status of Puerto Rico. Specific reference to the Canal Zone is omitted as unnecessary, since the Zone is a “possession of the United States” as defined in [section 101 of this title][/us/usc/t10/s101] and is therefore covered by clause (1).
 
-    Subsection (d) is added to note the existence of a later act, codified in [§ 2572 of this title][/us/usc/t10/s2572], which provides similar disposal authority, and to give effect to [§ 2 of the Act of February 27, 1948, ch. 76][/us/act/1948-02-27/ch76/s2], [62 Stat. 37][/us/stat/62/37], which is not now contained in the U.S. Code, and which saves this section despite the apparent implied repeal.
+    Subsection (d) is added to note the existence of a later act, codified in § 2572 of this title, which provides similar disposal authority, and to give effect to § 2 of the [Act of February 27, 1948, ch. 76][/us/act/1948-02-27/ch76], [62 Stat. 37][/us/stat/62/37], which is not now contained in the U.S. Code, and which saves this section despite the apparent implied repeal.
 
  __Amendments__ 
 
@@ -155,17 +155,17 @@ Aug. 7, 1946, ch. 804, § 6 (1st sentence as applicable to § 2, and 3d sent
 
     2002—Subsec. (c). [Pub. L. 107–217][/us/pl/107/217], as amended by [Pub. L. 107–314][/us/pl/107/314], substituted “[section 121 of title 40][/us/usc/t40/s121]” for “section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486][/us/usc/t40/s486])”.
 
-    2001—Subsec. (a). [Pub. L. 107–107, § 1043(a)(1)][/us/pl/107/107/s1043/a/1], inserted heading and substituted introductory provisions for provisions which read as follows: “Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486][/us/usc/t40/s486]), the Secretary of the Navy, under regulations prescribed by him, may lend or give, without expense to the United States, captured, condemned, or obsolete ordnance material, books, manuscripts, works of art, drawings, plans, and models, other condemned or obsolete material, trophies, and flags, and other material of historic interest not needed by the Department of the Navy, to—”.
+    2001—Subsec. (a). [Pub. L. 107–107][/us/pl/107/107], § 1043(a)(1), inserted heading and substituted introductory provisions for provisions which read as follows: “Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486][/us/usc/t40/s486]), the Secretary of the Navy, under regulations prescribed by him, may lend or give, without expense to the United States, captured, condemned, or obsolete ordnance material, books, manuscripts, works of art, drawings, plans, and models, other condemned or obsolete material, trophies, and flags, and other material of historic interest not needed by the Department of the Navy, to—”.
 
-    Subsec. (a)(1) to (12). [Pub. L. 107–107, § 1043(a)(2)][/us/pl/107/107/s1043/a/2], capitalized the first letter after the paragraph designation in each of pars. (1) to (12), substituted a period for a semicolon at end of pars. (1) to (10) and a period for “; or” at end of par. (11), substituted “a foreign war” for “World War I or World War II” in par. (5) and “servicemen’s monument” for “soldiers’ monument” in par. (6), and inserted “or memorial” after “museum” in par. (8).
+    Subsec. (a)(1) to (12). [Pub. L. 107–107][/us/pl/107/107], § 1043(a)(2), capitalized the first letter after the paragraph designation in each of pars. (1) to (12), substituted a period for a semicolon at end of pars. (1) to (10) and a period for “; or” at end of par. (11), substituted “a foreign war” for “World War I or World War II” in par. (5) and “servicemen’s monument” for “soldiers’ monument” in par. (6), and inserted “or memorial” after “museum” in par. (8).
 
-    Subsecs. (b), (c). [Pub. L. 107–107, § 1043(b)(2)][/us/pl/107/107/s1043/b/2], added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (d) and (e), respectively.
+    Subsecs. (b), (c). [Pub. L. 107–107][/us/pl/107/107], § 1043(b)(2), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (d) and (e), respectively.
 
-    Subsec. (d). [Pub. L. 107–107, § 1043(b)(1)][/us/pl/107/107/s1043/b/1], (c)(1), redesignated subsec. (b) as (d) and inserted heading.
+    Subsec. (d). [Pub. L. 107–107][/us/pl/107/107], § 1043(b)(1), (c)(1), redesignated subsec. (b) as (d) and inserted heading.
 
-    Subsec. (e). [Pub. L. 107–107, § 1043(b)(1)][/us/pl/107/107/s1043/b/1], (c)(2), redesignated subsec. (c) as (e) and inserted heading.
+    Subsec. (e). [Pub. L. 107–107][/us/pl/107/107], § 1043(b)(1), (c)(2), redesignated subsec. (c) as (e) and inserted heading.
 
-    Subsec. (f). [Pub. L. 107–107, § 1043(b)(3)][/us/pl/107/107/s1043/b/3], added subsec. (f).
+    Subsec. (f). [Pub. L. 107–107][/us/pl/107/107], § 1043(b)(3), added subsec. (f).
 
     1996—Subsecs. (c), (d). [Pub. L. 104–106][/us/pl/104/106] redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “No loan or gift under this section may be made unless—
 
@@ -175,13 +175,13 @@ Aug. 7, 1946, ch. 804, § 6 (1st sentence as applicable to § 2, and 3d sent
 
     “(3) during that 30-day period Congress does not pass a concurrent resolution stating in substance that it does not favor the proposed loan or gift.”
 
-    1980—Subsec. (a). [Pub. L. 96–513, § 513(39)][/us/pl/96/513/s513/39], substituted “section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486][/us/usc/t40/s486]),” for “[section 486 of title 40][/us/usc/t40/s486]”.
+    1980—Subsec. (a). [Pub. L. 96–513][/us/pl/96/513], § 513(39), substituted “section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486][/us/usc/t40/s486]),” for “[section 486 of title 40][/us/usc/t40/s486]”.
 
-    Subsec. (b). [Pub. L. 96–513, § 513(40)][/us/pl/96/513/s513/40], substituted “section 3301” for “section 366”.
+    Subsec. (b). [Pub. L. 96–513][/us/pl/96/513], § 513(40), substituted “section 3301” for “section 366”.
 
  __Effective Date of 2002 Amendment__ 
 
-    [Pub. L. 107–314, div. A, title X, § 1062(e)][/us/pl/107/314/s1062/e], Dec. 2, 2002, [116 Stat. 2651][/us/stat/116/2651], provided that the amendment made by section 1062(e)(2) is effective as if included in [Pub. L. 107–217][/us/pl/107/217] as originally enacted.
+    [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1062(e), Dec. 2, 2002, [116 Stat. 2651][/us/stat/116/2651], provided that the amendment made by section 1062(e)(2) is effective as if included in [Pub. L. 107–217][/us/pl/107/217] as originally enacted.
 
  __Effective Date of 1980 Amendment__ 
 
@@ -199,40 +199,39 @@ Aug. 7, 1946, ch. 804, § 6 (1st sentence as applicable to § 2, and 3d sent
 [/us/usc/t10/s2572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2572
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F466
-[/us/pl/96/513/s513/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F39
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2934
-[/us/pl/104/106/s1061/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1061%2Fi
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F443
-[/us/pl/107/107/s1043/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1043%2Fa
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1218
-[/us/pl/107/217/s3/b/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F34
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1298
-[/us/pl/107/314/s1062/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1062%2Fe%2F2
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2651
-[/us/pl/109/163/s1057/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F3
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3440
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/usc/t10/s2572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2572
-[/us/act/1948-02-27/ch76/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-27%2Fch76%2Fs2
+[/us/act/1948-02-27/ch76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-27%2Fch76
 [/us/stat/62/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F37
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/usc/t40/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs121
 [/us/usc/t40/s486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs486
-[/us/pl/107/107/s1043/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1043%2Fa%2F1
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t40/s486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs486
-[/us/pl/107/107/s1043/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1043%2Fa%2F2
-[/us/pl/107/107/s1043/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1043%2Fb%2F2
-[/us/pl/107/107/s1043/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1043%2Fb%2F1
-[/us/pl/107/107/s1043/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1043%2Fb%2F1
-[/us/pl/107/107/s1043/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1043%2Fb%2F3
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/96/513/s513/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F39
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/usc/t40/s486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs486
 [/us/usc/t40/s486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs486
-[/us/pl/96/513/s513/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F40
-[/us/pl/107/314/s1062/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1062%2Fe
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2651
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

@@ -31,11 +31,11 @@
 
     (4) Identification of each program designed to sustain specific essential technological and industrial capabilities and processes of the national technology and industrial base.
 
-(Added [Pub. L. 104–201, div. A, title VIII, § 829(e)][/us/pl/104/201/s829/e], Sept. 23, 1996, [110 Stat. 2614][/us/stat/110/2614]; amended [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 112–239, div. A, title XVI, § 1603(b)][/us/pl/112/239/s1603/b], Jan. 2, 2013, [126 Stat. 2063][/us/stat/126/2063].)
+(Added [Pub. L. 104–201, div. A, title VIII][/us/pl/104/201/dA/tVIII], § 829(e), Sept. 23, 1996, [110 Stat. 2614][/us/stat/110/2614]; amended [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1603(b), Jan. 2, 2013, [126 Stat. 2063][/us/stat/126/2063].)
 
  __Prior Provisions__ 
 
-    A prior section 2504, added [Pub. L. 102–484, div. D, title XLII, § 4214(a)][/us/pl/102/484/s4214/a], Oct. 23, 1992, [106 Stat. 2666][/us/stat/106/2666], established Center for Study of Defense Economic Adjustment, prior to repeal by [Pub. L. 103–160, div. A, title XIII, § 1312(a)(1)][/us/pl/103/160/s1312/a/1], Nov. 30, 1993, [107 Stat. 1786][/us/stat/107/1786].
+    A prior section 2504, added [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4214(a), Oct. 23, 1992, [106 Stat. 2666][/us/stat/106/2666], established Center for Study of Defense Economic Adjustment, prior to repeal by [Pub. L. 103–160, div. A, title XIII][/us/pl/103/160/dA/tXIII], § 1312(a)(1), Nov. 30, 1993, [107 Stat. 1786][/us/stat/107/1786].
 
     Another prior section 2504 was renumbered [section 2531 of this title][/us/usc/t10/s2531].
 
@@ -47,7 +47,7 @@
 
  __Strategy For Securing the Defense Supply Chain and Industrial Base__ 
 
-[Pub. L. 112–81, div. A, title VIII, § 852][/us/pl/112/81/s852], Dec. 31, 2011, [125 Stat. 1517][/us/stat/125/1517], as amended by [Pub. L. 112–239, div. A, title XVI, § 1603(d)][/us/pl/112/239/s1603/d], Jan. 2, 2013, [126 Stat. 2063][/us/stat/126/2063], provided that:
+[Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 852, Dec. 31, 2011, [125 Stat. 1517][/us/stat/125/1517], as amended by [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1603(d), Jan. 2, 2013, [126 Stat. 2063][/us/stat/126/2063], provided that:
 
 >     “(a)  __Report Required__  __.—__ 
 
@@ -92,22 +92,22 @@
 [/us/usc/t10/s2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2505
 [/us/usc/t10/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501
 [/us/usc/t10/s2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2505
-[/us/pl/104/201/s829/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs829%2Fe
+[/us/pl/104/201/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVIII
 [/us/stat/110/2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2614
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/112/239/s1603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1603%2Fb
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2063
-[/us/pl/102/484/s4214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4214%2Fa
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2666
-[/us/pl/103/160/s1312/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1312%2Fa%2F1
+[/us/pl/103/160/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIII
 [/us/stat/107/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1786
 [/us/usc/t10/s2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2531
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/112/81/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs852
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1517
-[/us/pl/112/239/s1603/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1603%2Fd
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2063
 [/us/usc/t10/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2504
 [/us/usc/t10/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501

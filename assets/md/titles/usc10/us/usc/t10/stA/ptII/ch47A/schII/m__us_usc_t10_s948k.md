@@ -67,15 +67,15 @@
 
     No person who has acted as an investigator, military judge, or member of a military commission under this chapter in any case may act later as trial counsel or military defense counsel in the same case. No person who has acted for the prosecution before a military commission under this chapter may act later in the same case for the defense, nor may any person who has acted for the defense before a military commission under this chapter act later in the same case for the prosecution.
 
-(Added [Pub. L. 111–84, div. A, title XVIII, § 1802][/us/pl/111/84/s1802], Oct. 28, 2009, [123 Stat. 2577][/us/stat/123/2577].)
+(Added [Pub. L. 111–84, div. A, title XVIII][/us/pl/111/84/dA/tXVIII], § 1802, Oct. 28, 2009, [123 Stat. 2577][/us/stat/123/2577].)
 
  __Prior Provisions__ 
 
-    A prior section 948k, added [Pub. L. 109–366, § 3(a)(1)][/us/pl/109/366/s3/a/1], Oct. 17, 2006, [120 Stat. 2604][/us/stat/120/2604], related to detail of trial counsel and defense counsel, prior to the general amendment of this chapter by [Pub. L. 111–84][/us/pl/111/84].
+    A prior section 948k, added [Pub. L. 109–366][/us/pl/109/366], § 3(a)(1), Oct. 17, 2006, [120 Stat. 2604][/us/stat/120/2604], related to detail of trial counsel and defense counsel, prior to the general amendment of this chapter by [Pub. L. 111–84][/us/pl/111/84].
 
  __Grade of Chief Prosecutor and Chief Defense Counsel in Military Commissions Established To Try Individuals Detained at Guantanamo__ 
 
-[Pub. L. 113–66, div. A, title X, § 1037][/us/pl/113/66/s1037], Dec. 26, 2013, [127 Stat. 854][/us/stat/127/854], provided that:
+[Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1037, Dec. 26, 2013, [127 Stat. 854][/us/stat/127/854], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -113,12 +113,12 @@
 ----------
 
 [/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801
-[/us/pl/111/84/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1802
+[/us/pl/111/84/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXVIII
 [/us/stat/123/2577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2577
-[/us/pl/109/366/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs3%2Fa%2F1
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/stat/120/2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2604
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/113/66/s1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1037
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F854
 
 

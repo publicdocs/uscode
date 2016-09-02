@@ -17,7 +17,7 @@
 
     No person, while being held for trial, may be subjected to punishment or penalty other than arrest or confinement upon the charges pending against him, nor shall the arrest or confinement imposed upon him be any more rigorous than the circumstances require to insure his presence, but he may be subjected to minor punishment during that period for infractions of discipline.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 41][/us/stat/70A/41]; [Pub. L. 97–81, § 3][/us/pl/97/81/s3], Nov. 20, 1981, [95 Stat. 1087][/us/stat/95/1087].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 41][/us/stat/70A/41]; [Pub. L. 97–81][/us/pl/97/81], § 3, Nov. 20, 1981, [95 Stat. 1087][/us/stat/95/1087].)
 
 <table>
 
@@ -82,7 +82,7 @@ May 5, 1950, ch. 169, § 1 (Art. 13), 64 Stat. 112.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F41
-[/us/pl/97/81/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81%2Fs3
+[/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/stat/95/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1087
 [/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/usc/t10/s857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs857

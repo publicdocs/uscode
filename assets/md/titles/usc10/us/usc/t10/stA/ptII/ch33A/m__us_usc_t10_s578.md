@@ -27,7 +27,7 @@
 
     (f) A warrant officer who has served continuously as an officer since subscribing to the oath of office prescribed in [section 3331 of title 5][/us/usc/t5/s3331] is not required to take a new oath upon appointment to a higher grade under this section.
 
-(Added [Pub. L. 102–190, div. A, title XI, § 1112(a)][/us/pl/102/190/s1112/a], Dec. 5, 1991, [105 Stat. 1497][/us/stat/105/1497]; amended [Pub. L. 102–484, div. A, title X, § 1052(4)][/us/pl/102/484/s1052/4], Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499]; [Pub. L. 103–337, div. A, title V, § 501(c)][/us/pl/103/337/s501/c], Oct. 5, 1994, [108 Stat. 2748][/us/stat/108/2748].)
+(Added [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1112(a), Dec. 5, 1991, [105 Stat. 1497][/us/stat/105/1497]; amended [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1052(4), Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499]; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 501(c), Oct. 5, 1994, [108 Stat. 2748][/us/stat/108/2748].)
 
  __Amendments__ 
 
@@ -43,11 +43,11 @@
 ----------
 
 [/us/usc/t5/s3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3331
-[/us/pl/102/190/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1112%2Fa
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1497
-[/us/pl/102/484/s1052/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F4
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2499
-[/us/pl/103/337/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs501%2Fc
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2748
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484

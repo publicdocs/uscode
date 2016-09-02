@@ -29,7 +29,7 @@
 
         (4) To identify technologies developed by the private sector that are useful for Department of Defense and Department of Energy defense activities concerning environmental restoration, hazardous and solid waste minimization and prevention, hazardous material substitution, and provide for the use of such technologies in the conduct of such activities.
 
-(Added [Pub. L. 101–510, div. A, title XVIII, § 1801(a)(1)][/us/pl/101/510/s1801/a/1], Nov. 5, 1990, [104 Stat. 1751][/us/stat/104/1751].)
+(Added [Pub. L. 101–510, div. A, title XVIII][/us/pl/101/510/dA/tXVIII], § 1801(a)(1), Nov. 5, 1990, [104 Stat. 1751][/us/stat/104/1751].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/101/510/s1801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1801%2Fa%2F1
+[/us/pl/101/510/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXVIII
 [/us/stat/104/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1751
 
 

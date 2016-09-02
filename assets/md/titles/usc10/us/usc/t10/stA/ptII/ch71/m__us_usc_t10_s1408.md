@@ -265,7 +265,7 @@
 
     In any case involving an order providing for payment of child support (as defined in section 459(i)(2) of the Social Security Act) by a member who has never been married to the other parent of the child, the provisions of this section shall not apply, and the case shall be subject to the provisions of section 459 of such Act.
 
-(Added [Pub. L. 97–252, title X, § 1002(a)][/us/pl/97/252/s1002/a], Sept. 8, 1982, [96 Stat. 730][/us/stat/96/730]; amended [Pub. L. 98–525, title VI, § 643(a)][/us/pl/98/525/s643/a]–(d), Oct. 19, 1984, [98 Stat. 2547][/us/stat/98/2547]; [Pub. L. 99–661, div. A, title VI, § 644(a)][/us/pl/99/661/s644/a], Nov. 14, 1986, [100 Stat. 3887][/us/stat/100/3887]; [Pub. L. 100–26][/us/pl/100/26], §§ 3(3), 7(h)(1), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], 282; [Pub. L. 101–189, div. A, title VI, § 653(a)(5)][/us/pl/101/189/s653/a/5], title XVI, § 1622(e)(6), Nov. 29, 1989, [103 Stat. 1462][/us/stat/103/1462], 1605; [Pub. L. 101–510, div. A, title V, § 555(a)][/us/pl/101/510/s555/a]–(d), (f), (g), Nov. 5, 1990, [104 Stat. 1569][/us/stat/104/1569], 1570; [Pub. L. 102–190, div. A, title X, § 1061(a)(7)][/us/pl/102/190/s1061/a/7], Dec. 5, 1991, [105 Stat. 1472][/us/stat/105/1472]; [Pub. L. 102–484, div. A, title VI, § 653(a)][/us/pl/102/484/s653/a], Oct. 23, 1992, [106 Stat. 2426][/us/stat/106/2426]; [Pub. L. 103–160, div. A, title V, § 555(a)][/us/pl/103/160/s555/a], (b), title XI, § 1182(a)(2), Nov. 30, 1993, [107 Stat. 1666][/us/stat/107/1666], 1771; [Pub. L. 104–106, div. A, title XV, § 1501(c)(16)][/us/pl/104/106/s1501/c/16], Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499]; [Pub. L. 104–193, title III][/us/pl/104/193], §§ 362(c), 363(c)(1)–(3), Aug. 22, 1996, [110 Stat. 2246][/us/stat/110/2246], 2249; [Pub. L. 104–201, div. A, title VI, § 636][/us/pl/104/201/s636], Sept. 23, 1996, [110 Stat. 2579][/us/stat/110/2579]; [Pub. L. 105–85, div. A, title X, § 1073(a)(24)][/us/pl/105/85/s1073/a/24], (25), Nov. 18, 1997, [111 Stat. 1901][/us/stat/111/1901]; [Pub. L. 107–107, div. A, title X, § 1048(c)(9)][/us/pl/107/107/s1048/c/9], Dec. 28, 2001, [115 Stat. 1226][/us/stat/115/1226]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–189, § 2(c)][/us/pl/108/189/s2/c], Dec. 19, 2003, [117 Stat. 2866][/us/stat/117/2866]; [Pub. L. 109–163, div. A, title VI, § 665(a)][/us/pl/109/163/s665/a], Jan. 6, 2006, [119 Stat. 3317][/us/stat/119/3317]; [Pub. L. 111–84, div. A, title X, § 1073(a)(15)][/us/pl/111/84/s1073/a/15], Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473].)
+(Added [Pub. L. 97–252, title X][/us/pl/97/252/tX], § 1002(a), Sept. 8, 1982, [96 Stat. 730][/us/stat/96/730]; amended [Pub. L. 98–525, title VI][/us/pl/98/525/tVI], § 643(a)–(d), Oct. 19, 1984, [98 Stat. 2547][/us/stat/98/2547]; [Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], § 644(a), Nov. 14, 1986, [100 Stat. 3887][/us/stat/100/3887]; [Pub. L. 100–26][/us/pl/100/26], §§ 3(3), 7(h)(1), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], 282; [Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 653(a)(5), title XVI, § 1622(e)(6), Nov. 29, 1989, [103 Stat. 1462][/us/stat/103/1462], 1605; [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 555(a)–(d), (f), (g), Nov. 5, 1990, [104 Stat. 1569][/us/stat/104/1569], 1570; [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1061(a)(7), Dec. 5, 1991, [105 Stat. 1472][/us/stat/105/1472]; [Pub. L. 102–484, div. A, title VI][/us/pl/102/484/dA/tVI], § 653(a), Oct. 23, 1992, [106 Stat. 2426][/us/stat/106/2426]; [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 555(a), (b), title XI, § 1182(a)(2), Nov. 30, 1993, [107 Stat. 1666][/us/stat/107/1666], 1771; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(c)(16), Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499]; [Pub. L. 104–193, title III][/us/pl/104/193/tIII], §§ 362(c), 363(c)(1)–(3), Aug. 22, 1996, [110 Stat. 2246][/us/stat/110/2246], 2249; [Pub. L. 104–201, div. A, title VI][/us/pl/104/201/dA/tVI], § 636, Sept. 23, 1996, [110 Stat. 2579][/us/stat/110/2579]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(24), (25), Nov. 18, 1997, [111 Stat. 1901][/us/stat/111/1901]; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(c)(9), Dec. 28, 2001, [115 Stat. 1226][/us/stat/115/1226]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–189][/us/pl/108/189], § 2(c), Dec. 19, 2003, [117 Stat. 2866][/us/stat/117/2866]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 665(a), Jan. 6, 2006, [119 Stat. 3317][/us/stat/119/3317]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(15), Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473].)
 
  __References in Text__ 
 
@@ -277,19 +277,19 @@
 
     2009—Subsec. (h)(2)(A). [Pub. L. 111–84][/us/pl/111/84] struck out “and” at end.
 
-    2006—Subsec. (h)(1). [Pub. L. 109–163, § 665(a)(1)][/us/pl/109/163/s665/a/1], designated existing provisions as subpar. (A) and added subpar. (B).
+    2006—Subsec. (h)(1). [Pub. L. 109–163][/us/pl/109/163], § 665(a)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (h)(2). [Pub. L. 109–163, § 665(a)(2)(A)][/us/pl/109/163/s665/a/2/A], inserted “, or a dependent child,” after “former spouse” in introductory provisions.
+    Subsec. (h)(2). [Pub. L. 109–163][/us/pl/109/163], § 665(a)(2)(A), inserted “, or a dependent child,” after “former spouse” in introductory provisions.
 
-    Subsec. (h)(2)(B). [Pub. L. 109–163, § 665(a)(2)(B)(i)][/us/pl/109/163/s665/a/2/B/i], inserted “in the case of eligibility of a spouse or former spouse under paragraph (1)(A),” after “(B)”.
+    Subsec. (h)(2)(B). [Pub. L. 109–163][/us/pl/109/163], § 665(a)(2)(B)(i), inserted “in the case of eligibility of a spouse or former spouse under paragraph (1)(A),” after “(B)”.
 
-    Subsec. (h)(2)(C). [Pub. L. 109–163, § 665(a)(2)(B)(ii)][/us/pl/109/163/s665/a/2/B/ii], (C), added subpar. (C).
+    Subsec. (h)(2)(C). [Pub. L. 109–163][/us/pl/109/163], § 665(a)(2)(B)(ii), (C), added subpar. (C).
 
-    Subsec. (h)(4). [Pub. L. 109–163, § 665(a)(3)][/us/pl/109/163/s665/a/3], inserted “, or an eligible dependent child,” after “former spouse” in introductory provisions.
+    Subsec. (h)(4). [Pub. L. 109–163][/us/pl/109/163], § 665(a)(3), inserted “, or an eligible dependent child,” after “former spouse” in introductory provisions.
 
-    Subsec. (h)(5). [Pub. L. 109–163, § 665(a)(4)][/us/pl/109/163/s665/a/4], inserted “, or the dependent child,” after “former spouse”.
+    Subsec. (h)(5). [Pub. L. 109–163][/us/pl/109/163], § 665(a)(4), inserted “, or the dependent child,” after “former spouse”.
 
-    Subsec. (h)(6). [Pub. L. 109–163, § 665(a)(5)][/us/pl/109/163/s665/a/5], inserted “, or to a dependent child,” after “former spouse”.
+    Subsec. (h)(6). [Pub. L. 109–163][/us/pl/109/163], § 665(a)(5), inserted “, or to a dependent child,” after “former spouse”.
 
     2003—Subsec. (b)(1)(D). [Pub. L. 108–189][/us/pl/108/189] substituted “Servicemembers Civil Relief Act” for “Soldiers’ and Sailors’ Civil Relief Act of 1940”.
 
@@ -297,153 +297,153 @@
 
     2001—Subsec. (d)(6). [Pub. L. 107–107][/us/pl/107/107] substituted “August 22, 1996,” for “the date of the enactment of this paragraph”.
 
-    1997—Subsec. (d). [Pub. L. 105–85, § 1073(a)(24)(A)][/us/pl/105/85/s1073/a/24/A], substituted “to” for “To” in heading.
+    1997—Subsec. (d). [Pub. L. 105–85][/us/pl/105/85], § 1073(a)(24)(A), substituted “to” for “To” in heading.
 
-    Subsec. (d)(6). [Pub. L. 105–85, § 1073(a)(24)(B)][/us/pl/105/85/s1073/a/24/B], redesignated par. (6), relating to court order which is out-of-State modification, as (7).
+    Subsec. (d)(6). [Pub. L. 105–85][/us/pl/105/85], § 1073(a)(24)(B), redesignated par. (6), relating to court order which is out-of-State modification, as (7).
 
-    Subsec. (d)(7). [Pub. L. 105–85, § 1073(a)(24)(B)][/us/pl/105/85/s1073/a/24/B], redesignated par. (6), relating to court order which is out-of-State modification, as (7).
+    Subsec. (d)(7). [Pub. L. 105–85][/us/pl/105/85], § 1073(a)(24)(B), redesignated par. (6), relating to court order which is out-of-State modification, as (7).
 
-    Subsec. (d)(7)(A). [Pub. L. 105–85, § 1073(a)(24)(C)][/us/pl/105/85/s1073/a/24/C], substituted “out-of-State” for “out-of State”.
+    Subsec. (d)(7)(A). [Pub. L. 105–85][/us/pl/105/85], § 1073(a)(24)(C), substituted “out-of-State” for “out-of State”.
 
-    Subsec. (g). [Pub. L. 105–85, § 1073(a)(25)][/us/pl/105/85/s1073/a/25], in heading, substituted “to” for “To” and “on” for “On”.
+    Subsec. (g). [Pub. L. 105–85][/us/pl/105/85], § 1073(a)(25), in heading, substituted “to” for “To” and “on” for “On”.
 
-    1996—Subsec. (a)(1)(D). [Pub. L. 104–193, § 362(c)(1)][/us/pl/104/193/s362/c/1], added subpar. (D).
+    1996—Subsec. (a)(1)(D). [Pub. L. 104–193][/us/pl/104/193], § 362(c)(1), added subpar. (D).
 
-    Subsec. (a)(2). [Pub. L. 104–193, § 362(c)(2)(A)][/us/pl/104/193/s362/c/2/A], inserted “or a support order, as defined in section 453(p) of the Social  Security  Act  (42  U.S.C.  653(p)),”  before “which—”.
+    Subsec. (a)(2). [Pub. L. 104–193][/us/pl/104/193], § 362(c)(2)(A), inserted “or a support order, as defined in section 453(p) of the Social  Security  Act  (42  U.S.C.  653(p)),”  before “which—”.
 
-    Subsec. (a)(2)(B)(i). [Pub. L. 104–193, § 362(c)(2)(B)][/us/pl/104/193/s362/c/2/B], substituted “(as defined in section 459(i)(2) of the Social Security Act ([42 U.S.C. 659(i)(2)][/us/usc/t42/s659/i/2]))” for “(as defined in section 462(b) of the Social Security Act ([42 U.S.C. 662(b)][/us/usc/t42/s662/b]))”.
+    Subsec. (a)(2)(B)(i). [Pub. L. 104–193][/us/pl/104/193], § 362(c)(2)(B), substituted “(as defined in section 459(i)(2) of the Social Security Act ([42 U.S.C. 659(i)(2)][/us/usc/t42/s659/i/2]))” for “(as defined in section 462(b) of the Social Security Act ([42 U.S.C. 662(b)][/us/usc/t42/s662/b]))”.
 
-    Subsec. (a)(2)(B)(ii). [Pub. L. 104–193, § 362(c)(2)(C)][/us/pl/104/193/s362/c/2/C], substituted “(as defined in section 459(i)(3) of the Social Security Act ([42 U.S.C. 659(i)(3)][/us/usc/t42/s659/i/3]))” for “(as defined in section 462(c) of the Social Security Act ([42 U.S.C. 662(c)][/us/usc/t42/s662/c]))”.
+    Subsec. (a)(2)(B)(ii). [Pub. L. 104–193][/us/pl/104/193], § 362(c)(2)(C), substituted “(as defined in section 459(i)(3) of the Social Security Act ([42 U.S.C. 659(i)(3)][/us/usc/t42/s659/i/3]))” for “(as defined in section 462(c) of the Social Security Act ([42 U.S.C. 662(c)][/us/usc/t42/s662/c]))”.
 
     Subsec. (a)(5). [Pub. L. 104–106][/us/pl/104/106] substituted “section 12731” for “section 1331”.
 
-    Subsec. (b)(1)(A). [Pub. L. 104–201, § 636(a)][/us/pl/104/201/s636/a], substituted “facsimile or electronic transmission or by mail” for “certified or registered mail, return receipt requested”.
+    Subsec. (b)(1)(A). [Pub. L. 104–201][/us/pl/104/201], § 636(a), substituted “facsimile or electronic transmission or by mail” for “certified or registered mail, return receipt requested”.
 
-    Subsec. (d). [Pub. L. 104–193, § 362(c)(3)(A)][/us/pl/104/193/s362/c/3/A], inserted “(or for benefit of)” before “Spouse or” in heading.
+    Subsec. (d). [Pub. L. 104–193][/us/pl/104/193], § 362(c)(3)(A), inserted “(or for benefit of)” before “Spouse or” in heading.
 
-    Subsec. (d)(1). [Pub. L. 104–193, § 363(c)(2)][/us/pl/104/193/s363/c/2], inserted after first sentence “In the case of a spouse or former spouse who, pursuant to section 408(a)(3) of the Social Security Act ([42 U.S.C. 608(a)(4)][/us/usc/t42/s608/a/4]), assigns to a State the rights of the spouse or former spouse to receive support, the Secretary concerned may make the child support payments referred to in the preceding sentence to that State in amounts consistent with that assignment of rights.”
+    Subsec. (d)(1). [Pub. L. 104–193][/us/pl/104/193], § 363(c)(2), inserted after first sentence “In the case of a spouse or former spouse who, pursuant to section 408(a)(3) of the Social Security Act ([42 U.S.C. 608(a)(4)][/us/usc/t42/s608/a/4]), assigns to a State the rights of the spouse or former spouse to receive support, the Secretary concerned may make the child support payments referred to in the preceding sentence to that State in amounts consistent with that assignment of rights.”
 
-    [Pub. L. 104–193, § 362(c)(3)(B)][/us/pl/104/193/s362/c/3/B], in first sentence, inserted “(or for the benefit of such spouse or former spouse to a State disbursement unit established pursuant to section 454B of the Social Security Act or other public payee designated by a State, in accordance with part D of title IV of the Social Security Act, as directed by court order, or as otherwise directed in accordance with such part D)” before “in an amount sufficient”.
+    [Pub. L. 104–193][/us/pl/104/193], § 362(c)(3)(B), in first sentence, inserted “(or for the benefit of such spouse or former spouse to a State disbursement unit established pursuant to section 454B of the Social Security Act or other public payee designated by a State, in accordance with part D of title IV of the Social Security Act, as directed by court order, or as otherwise directed in accordance with such part D)” before “in an amount sufficient”.
 
-    Subsec. (d)(6). [Pub. L. 104–201, § 636(b)][/us/pl/104/201/s636/b], added par. (6) relating to court order which is out-of-State modification.
+    Subsec. (d)(6). [Pub. L. 104–201][/us/pl/104/201], § 636(b), added par. (6) relating to court order which is out-of-State modification.
 
-    [Pub. L. 104–193, § 363(c)(3)][/us/pl/104/193/s363/c/3], added par. (6) relating to use of disposable retired pay of member to satisfy amount of child support set forth in court order.
+    [Pub. L. 104–193][/us/pl/104/193], § 363(c)(3), added par. (6) relating to use of disposable retired pay of member to satisfy amount of child support set forth in court order.
 
-    Subsec. (i). [Pub. L. 104–193, § 363(c)(1)][/us/pl/104/193/s363/c/1], added subsec. (i). Former subsec. (i) redesignated (j).
+    Subsec. (i). [Pub. L. 104–193][/us/pl/104/193], § 363(c)(1), added subsec. (i). Former subsec. (i) redesignated (j).
 
-    Subsec. (j). [Pub. L. 104–193, § 363(c)(1)][/us/pl/104/193/s363/c/1], redesignated subsec. (j) as (k).
+    Subsec. (j). [Pub. L. 104–193][/us/pl/104/193], § 363(c)(1), redesignated subsec. (j) as (k).
 
-    [Pub. L. 104–193, § 362(c)(4)][/us/pl/104/193/s362/c/4], added subsec. (j).
+    [Pub. L. 104–193][/us/pl/104/193], § 362(c)(4), added subsec. (j).
 
-    Subsec. (k). [Pub. L. 104–193, § 363(c)(1)][/us/pl/104/193/s363/c/1], redesignated subsec. (j) as (k).
+    Subsec. (k). [Pub. L. 104–193][/us/pl/104/193], § 363(c)(1), redesignated subsec. (j) as (k).
 
-    1993—Subsecs. (b)(1)(A), (f)(1), (2). [Pub. L. 103–160, § 1182(a)(2)(A)][/us/pl/103/160/s1182/a/2/A], substituted “subsection (i)” for “subsection (h)”.
+    1993—Subsecs. (b)(1)(A), (f)(1), (2). [Pub. L. 103–160][/us/pl/103/160], § 1182(a)(2)(A), substituted “subsection (i)” for “subsection (h)”.
 
-    Subsec. (h)(2)(A). [Pub. L. 103–160, § 555(b)(1)][/us/pl/103/160/s555/b/1], inserted “or, for the Coast Guard when it is not operating as a service in the Navy, by the Secretary of Transportation” after “Secretary of Defense”.
+    Subsec. (h)(2)(A). [Pub. L. 103–160][/us/pl/103/160], § 555(b)(1), inserted “or, for the Coast Guard when it is not operating as a service in the Navy, by the Secretary of Transportation” after “Secretary of Defense”.
 
-    Subsec. (h)(4)(B). [Pub. L. 103–160, § 1182(a)(2)(B)][/us/pl/103/160/s1182/a/2/B], inserted “of” after “of that termination”.
+    Subsec. (h)(4)(B). [Pub. L. 103–160][/us/pl/103/160], § 1182(a)(2)(B), inserted “of” after “of that termination”.
 
-    Subsec. (h)(8). [Pub. L. 103–160, § 555(b)(2)][/us/pl/103/160/s555/b/2], inserted before period at end “or, in the case of the Coast Guard, out of funds appropriated to the Department of Transportation for payment of retired pay for the Coast Guard”.
+    Subsec. (h)(8). [Pub. L. 103–160][/us/pl/103/160], § 555(b)(2), inserted before period at end “or, in the case of the Coast Guard, out of funds appropriated to the Department of Transportation for payment of retired pay for the Coast Guard”.
 
-    Subsec. (h)(10), (11). [Pub. L. 103–160, § 555(a)][/us/pl/103/160/s555/a], added par. (10) and redesignated former par. (10) as (11).
+    Subsec. (h)(10), (11). [Pub. L. 103–160][/us/pl/103/160], § 555(a), added par. (10) and redesignated former par. (10) as (11).
 
     1992—Subsecs. (h), (i). [Pub. L. 102–484][/us/pl/102/484] added subsec. (h) and redesignated former subsec. (h) as (i).
 
     1991—[Pub. L. 102–190][/us/pl/102/190] inserted “or retainer” after “retired” in section catchline.
 
-    1990—[Pub. L. 101–510, § 555(f)(2)][/us/pl/101/510/s555/f/2], substituted “retired pay” for “retired or retainer pay” in section catchline.
+    1990—[Pub. L. 101–510][/us/pl/101/510], § 555(f)(2), substituted “retired pay” for “retired or retainer pay” in section catchline.
 
-    Subsec. (a). [Pub. L. 101–510, § 555(g)(1)][/us/pl/101/510/s555/g/1], inserted heading.
+    Subsec. (a). [Pub. L. 101–510][/us/pl/101/510], § 555(g)(1), inserted heading.
 
-    Subsec. (a)(2)(C). [Pub. L. 101–510, § 555(f)(2)][/us/pl/101/510/s555/f/2], substituted “retired pay” for “retired or retainer pay” wherever appearing.
+    Subsec. (a)(2)(C). [Pub. L. 101–510][/us/pl/101/510], § 555(f)(2), substituted “retired pay” for “retired or retainer pay” wherever appearing.
 
-    Subsec. (a)(4). [Pub. L. 101–510, § 555(f)(2)][/us/pl/101/510/s555/f/2], substituted “retired pay” for “retired or retainer pay” wherever appearing in introductory provisions and in subpar. (D).
+    Subsec. (a)(4). [Pub. L. 101–510][/us/pl/101/510], § 555(f)(2), substituted “retired pay” for “retired or retainer pay” wherever appearing in introductory provisions and in subpar. (D).
 
-    Subsec. (a)(4)(A). [Pub. L. 101–510, § 555(b)(1)][/us/pl/101/510/s555/b/1], inserted before semicolon at end “for previous overpayments of retired pay and for recoupments required by law resulting from entitlement to retired pay”.
+    Subsec. (a)(4)(A). [Pub. L. 101–510][/us/pl/101/510], § 555(b)(1), inserted before semicolon at end “for previous overpayments of retired pay and for recoupments required by law resulting from entitlement to retired pay”.
 
-    Subsec. (a)(4)(B). [Pub. L. 101–510, § 555(b)(2)][/us/pl/101/510/s555/b/2], added subpar. (B) and struck out former subpar. (B) which read as follows: “are required by law to be and are deducted from the retired or retainer pay of such member, including fines and forfeitures ordered by courts-martial, Federal employment taxes, and amounts waived in order to receive compensation under title 5 or title 38;”.
+    Subsec. (a)(4)(B). [Pub. L. 101–510][/us/pl/101/510], § 555(b)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “are required by law to be and are deducted from the retired or retainer pay of such member, including fines and forfeitures ordered by courts-martial, Federal employment taxes, and amounts waived in order to receive compensation under title 5 or title 38;”.
 
-    Subsec. (a)(4)(C) to (F). [Pub. L. 101–510, § 555(b)(3)][/us/pl/101/510/s555/b/3], (4), redesignated subpars. (E) and (F) as (C) and (D), respectively, and struck out former subpars. (C) and (D) which read as follows:
+    Subsec. (a)(4)(C) to (F). [Pub. L. 101–510][/us/pl/101/510], § 555(b)(3), (4), redesignated subpars. (E) and (F) as (C) and (D), respectively, and struck out former subpars. (C) and (D) which read as follows:
 
     “(C) are properly withheld for Federal, State, or local income tax purposes, if the withholding of such amounts is authorized or required by law and to the extent such amounts withheld are not greater than would be authorized if such member claimed all dependents to which he was entitled;
 
     “(D) are withheld under section 3402(i) of the Internal Revenue Code of 1986 if such member presents evidence of a tax obligation which supports such withholding;”.
 
-    Subsec. (a)(7). [Pub. L. 101–510, § 555(f)(1)][/us/pl/101/510/s555/f/1], added par. (7).
+    Subsec. (a)(7). [Pub. L. 101–510][/us/pl/101/510], § 555(f)(1), added par. (7).
 
-    Subsec. (b). [Pub. L. 101–510, § 555(g)(2)][/us/pl/101/510/s555/g/2], inserted heading.
+    Subsec. (b). [Pub. L. 101–510][/us/pl/101/510], § 555(g)(2), inserted heading.
 
-    Subsec. (c). [Pub. L. 101–510, § 555(g)(3)][/us/pl/101/510/s555/g/3], inserted heading.
+    Subsec. (c). [Pub. L. 101–510][/us/pl/101/510], § 555(g)(3), inserted heading.
 
-    Subsec. (c)(1). [Pub. L. 101–510, § 555(f)(2)][/us/pl/101/510/s555/f/2], substituted “retired pay” for “retired or retainer pay”.
+    Subsec. (c)(1). [Pub. L. 101–510][/us/pl/101/510], § 555(f)(2), substituted “retired pay” for “retired or retainer pay”.
 
-    [Pub. L. 101–510, § 555(a)][/us/pl/101/510/s555/a], inserted at end “A court may not treat retired pay as property in any proceeding to divide or partition any amount of retired pay of a member as the property of the member and the member’s spouse or former spouse if a final decree of divorce, dissolution, annulment, or legal separation (including a court ordered, ratified, or approved property settlement incident to such decree) affecting the member and the member’s spouse or former spouse (A) was issued before June 25, 1981, and (B) did not treat (or reserve jurisdiction to treat) any amount of retired pay of the member as property of the member and the member’s spouse or former spouse.”
+    [Pub. L. 101–510][/us/pl/101/510], § 555(a), inserted at end “A court may not treat retired pay as property in any proceeding to divide or partition any amount of retired pay of a member as the property of the member and the member’s spouse or former spouse if a final decree of divorce, dissolution, annulment, or legal separation (including a court ordered, ratified, or approved property settlement incident to such decree) affecting the member and the member’s spouse or former spouse (A) was issued before June 25, 1981, and (B) did not treat (or reserve jurisdiction to treat) any amount of retired pay of the member as property of the member and the member’s spouse or former spouse.”
 
-    Subsec. (c)(2). [Pub. L. 101–510, § 555(c)][/us/pl/101/510/s555/c], inserted at end “Payments by the Secretary concerned under subsection (d) to a spouse or former spouse with respect to a division of retired pay as the property of a member and the member’s spouse under this subsection may not be treated as amounts received as retired pay for service in the uniformed services.”
+    Subsec. (c)(2). [Pub. L. 101–510][/us/pl/101/510], § 555(c), inserted at end “Payments by the Secretary concerned under subsection (d) to a spouse or former spouse with respect to a division of retired pay as the property of a member and the member’s spouse under this subsection may not be treated as amounts received as retired pay for service in the uniformed services.”
 
-    Subsec. (c)(4). [Pub. L. 101–510, § 555(f)(2)][/us/pl/101/510/s555/f/2], substituted “retired pay” for “retired or retainer pay”.
+    Subsec. (c)(4). [Pub. L. 101–510][/us/pl/101/510], § 555(f)(2), substituted “retired pay” for “retired or retainer pay”.
 
-    Subsec. (d). [Pub. L. 101–510, § 555(g)(4)][/us/pl/101/510/s555/g/4], inserted heading.
+    Subsec. (d). [Pub. L. 101–510][/us/pl/101/510], § 555(g)(4), inserted heading.
 
-    [Pub. L. 101–510, § 555(f)(2)][/us/pl/101/510/s555/f/2], substituted “retired pay” for “retired or retainer pay” wherever appearing.
+    [Pub. L. 101–510][/us/pl/101/510], § 555(f)(2), substituted “retired pay” for “retired or retainer pay” wherever appearing.
 
-    Subsec. (e). [Pub. L. 101–510, § 555(g)(5)][/us/pl/101/510/s555/g/5], inserted heading.
+    Subsec. (e). [Pub. L. 101–510][/us/pl/101/510], § 555(g)(5), inserted heading.
 
-    [Pub. L. 101–510, § 555(f)(2)][/us/pl/101/510/s555/f/2], substituted “retired pay” for “retired or retainer pay” wherever appearing.
+    [Pub. L. 101–510][/us/pl/101/510], § 555(f)(2), substituted “retired pay” for “retired or retainer pay” wherever appearing.
 
-    Subsec. (e)(1). [Pub. L. 101–510, § 555(d)(1)][/us/pl/101/510/s555/d/1], substituted “payable under all court orders pursuant to subsection (c)” for “payable under subsection (d)”.
+    Subsec. (e)(1). [Pub. L. 101–510][/us/pl/101/510], § 555(d)(1), substituted “payable under all court orders pursuant to subsection (c)” for “payable under subsection (d)”.
 
-    Subsec. (e)(4)(B). [Pub. L. 101–510, § 555(d)(2)][/us/pl/101/510/s555/d/2], substituted “the amount of the retired pay payable to such member that is considered under section 462 of the Social Security Act ([42 U.S.C. 662][/us/usc/t42/s662]) to be remuneration for employment that is payable by the United States” for “the disposable retired or retainer pay payable to such member”.
+    Subsec. (e)(4)(B). [Pub. L. 101–510][/us/pl/101/510], § 555(d)(2), substituted “the amount of the retired pay payable to such member that is considered under section 462 of the Social Security Act ([42 U.S.C. 662][/us/usc/t42/s662]) to be remuneration for employment that is payable by the United States” for “the disposable retired or retainer pay payable to such member”.
 
-    Subsec. (f). [Pub. L. 101–510, § 555(g)(6)][/us/pl/101/510/s555/g/6], inserted heading.
+    Subsec. (f). [Pub. L. 101–510][/us/pl/101/510], § 555(g)(6), inserted heading.
 
-    Subsec. (f)(1). [Pub. L. 101–510, § 555(f)(2)][/us/pl/101/510/s555/f/2], substituted “retired pay” for “retired or retainer pay”.
+    Subsec. (f)(1). [Pub. L. 101–510][/us/pl/101/510], § 555(f)(2), substituted “retired pay” for “retired or retainer pay”.
 
-    Subsec. (g). [Pub. L. 101–510, § 555(g)(7)][/us/pl/101/510/s555/g/7], inserted heading.
+    Subsec. (g). [Pub. L. 101–510][/us/pl/101/510], § 555(g)(7), inserted heading.
 
-    Subsec. (h). [Pub. L. 101–510, § 555(g)(8)][/us/pl/101/510/s555/g/8], inserted heading.
+    Subsec. (h). [Pub. L. 101–510][/us/pl/101/510], § 555(g)(8), inserted heading.
 
-    1989—Subsec. (a)(1), (2). [Pub. L. 101–189, § 1622(e)(6)][/us/pl/101/189/s1622/e/6], substituted “The term ‘court” for “ ‘Court” in introductory provisions.
+    1989—Subsec. (a)(1), (2). [Pub. L. 101–189][/us/pl/101/189], § 1622(e)(6), substituted “The term ‘court” for “ ‘Court” in introductory provisions.
 
-    Subsec. (a)(3). [Pub. L. 101–189, § 1622(e)(6)][/us/pl/101/189/s1622/e/6], substituted “The term ‘final” for “ ‘Final”.
+    Subsec. (a)(3). [Pub. L. 101–189][/us/pl/101/189], § 1622(e)(6), substituted “The term ‘final” for “ ‘Final”.
 
-    Subsec. (a)(4). [Pub. L. 101–189, § 1622(e)(6)][/us/pl/101/189/s1622/e/6], substituted “The term ‘disposable” for “ ‘Disposable” in introductory provisions.
+    Subsec. (a)(4). [Pub. L. 101–189][/us/pl/101/189], § 1622(e)(6), substituted “The term ‘disposable” for “ ‘Disposable” in introductory provisions.
 
-    Subsec. (a)(4)(D). [Pub. L. 101–189, § 653(a)(5)(A)][/us/pl/101/189/s653/a/5/A], struck out “([26 U.S.C. 3402(i)][/us/usc/t26/s3402/i])” after “Code of 1986”.
+    Subsec. (a)(4)(D). [Pub. L. 101–189][/us/pl/101/189], § 653(a)(5)(A), struck out “([26 U.S.C. 3402(i)][/us/usc/t26/s3402/i])” after “Code of 1986”.
 
     Subsec. (a)(5). [Pub. L. 101–189][/us/pl/101/189], §§ 653(a)(5)(B), 1622(e)(6), substituted “The term ‘member” for “ ‘Member” and inserted “entitled to retired pay under [section 1331 of this title][/us/usc/t10/s1331]” after “a former member”.
 
-    Subsec. (a)(6). [Pub. L. 101–189, § 1622(e)(6)][/us/pl/101/189/s1622/e/6], substituted “The term ‘spouse” for “ ‘Spouse”.
+    Subsec. (a)(6). [Pub. L. 101–189][/us/pl/101/189], § 1622(e)(6), substituted “The term ‘spouse” for “ ‘Spouse”.
 
-    1987—Subsec. (a)(4). [Pub. L. 100–26, § 3(3)][/us/pl/100/26/s3/3], made technical amendment to directory language of [Pub. L. 99–661, § 644(a)][/us/pl/99/661/s644/a]. See 1986 Amendment note below.
+    1987—Subsec. (a)(4). [Pub. L. 100–26][/us/pl/100/26], § 3(3), made technical amendment to directory language of [Pub. L. 99–661][/us/pl/99/661], § 644(a). See 1986 Amendment note below.
 
-    Subsec. (a)(4)(D). [Pub. L. 100–26, § 7(h)(1)][/us/pl/100/26/s7/h/1], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+    Subsec. (a)(4)(D). [Pub. L. 100–26][/us/pl/100/26], § 7(h)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    1986—Subsec. (a)(4). [Pub. L. 99–661, § 644(a)][/us/pl/99/661/s644/a], as amended by [Pub. L. 100–26, § 3(3)][/us/pl/100/26/s3/3], struck out “(other than the retired pay of a member retired for disability under chapter 61 of this title)” before “less amounts” in introductory text, added subpar. (E), and struck out former subpar. (E) which read as follows: “are deducted as Government life insurance premiums (not including amounts deducted for supplemental coverage); or”.
+    1986—Subsec. (a)(4). [Pub. L. 99–661][/us/pl/99/661], § 644(a), as amended by [Pub. L. 100–26][/us/pl/100/26], § 3(3), struck out “(other than the retired pay of a member retired for disability under chapter 61 of this title)” before “less amounts” in introductory text, added subpar. (E), and struck out former subpar. (E) which read as follows: “are deducted as Government life insurance premiums (not including amounts deducted for supplemental coverage); or”.
 
-    1984—Subsec. (a)(2)(C). [Pub. L. 98–525, § 643(a)][/us/pl/98/525/s643/a], inserted “in the case of a division of property,”.
+    1984—Subsec. (a)(2)(C). [Pub. L. 98–525][/us/pl/98/525], § 643(a), inserted “in the case of a division of property,”.
 
-    Subsec. (b)(1)(C). [Pub. L. 98–525, § 643(b)][/us/pl/98/525/s643/b], inserted “, if possible,”.
+    Subsec. (b)(1)(C). [Pub. L. 98–525][/us/pl/98/525], § 643(b), inserted “, if possible,”.
 
-    Subsec. (d)(1). [Pub. L. 98–525, § 643(c)(1)][/us/pl/98/525/s643/c/1], substituted “After effective service on the Secretary concerned of a court order providing for the payment of child support or alimony or, with respect to a division of property, specifically providing for the payment of an amount of the disposable retired or retainer pay from a member to the spouse or a former spouse of the member, the Secretary shall make payments (subject to the limitations of this section) from the disposable retired or retainer pay of the member to the spouse or former spouse in an amount sufficient to satisfy the amount of child support and alimony set forth in the court order and, with respect to a division of property, in the amount of disposable retired or retainer pay specifically provided for in the court order” for “After effective service on the Secretary concerned of a court order with respect to the payment of a portion of the retired or retainer pay of a member to the spouse or a former spouse of the member, the Secretary shall, subject to the limitations of this section, make payments to the spouse or former spouse in the amount of the disposable retired or retainer pay of the member specifically provided for in the court order”.
+    Subsec. (d)(1). [Pub. L. 98–525][/us/pl/98/525], § 643(c)(1), substituted “After effective service on the Secretary concerned of a court order providing for the payment of child support or alimony or, with respect to a division of property, specifically providing for the payment of an amount of the disposable retired or retainer pay from a member to the spouse or a former spouse of the member, the Secretary shall make payments (subject to the limitations of this section) from the disposable retired or retainer pay of the member to the spouse or former spouse in an amount sufficient to satisfy the amount of child support and alimony set forth in the court order and, with respect to a division of property, in the amount of disposable retired or retainer pay specifically provided for in the court order” for “After effective service on the Secretary concerned of a court order with respect to the payment of a portion of the retired or retainer pay of a member to the spouse or a former spouse of the member, the Secretary shall, subject to the limitations of this section, make payments to the spouse or former spouse in the amount of the disposable retired or retainer pay of the member specifically provided for in the court order”.
 
-    Subsec. (d)(5). [Pub. L. 98–525, § 643(c)(2)][/us/pl/98/525/s643/c/2], substituted “child support or alimony or the payment of an amount of disposable retired or retainer pay as the result of the court’s treatment of such pay under subsection (c) as property of the member and his spouse, the Secretary concerned shall pay (subject to the limitations of this section) from the disposable retired or retainer pay of the member to the spouse or former spouse of the member, any part” for “disposable retired or retainer pay, the Secretary concerned shall, subject to the limitations of this section, pay to the spouse or former spouse of the member, from the disposable retired or retainer pay of the member, any part”.
+    Subsec. (d)(5). [Pub. L. 98–525][/us/pl/98/525], § 643(c)(2), substituted “child support or alimony or the payment of an amount of disposable retired or retainer pay as the result of the court’s treatment of such pay under subsection (c) as property of the member and his spouse, the Secretary concerned shall pay (subject to the limitations of this section) from the disposable retired or retainer pay of the member to the spouse or former spouse of the member, any part” for “disposable retired or retainer pay, the Secretary concerned shall, subject to the limitations of this section, pay to the spouse or former spouse of the member, from the disposable retired or retainer pay of the member, any part”.
 
-    Subsec. (e)(2). [Pub. L. 98–525, § 643(d)(1)][/us/pl/98/525/s643/d/1], substituted “, the disposable retired or retainer pay of the member” for “from the disposable retired or retainer pay of a member, such pay” before “shall be used to satisfy”.
+    Subsec. (e)(2). [Pub. L. 98–525][/us/pl/98/525], § 643(d)(1), substituted “, the disposable retired or retainer pay of the member” for “from the disposable retired or retainer pay of a member, such pay” before “shall be used to satisfy”.
 
-    Subsec. (e)(3)(A). [Pub. L. 98–525, § 643(d)(2)(A)][/us/pl/98/525/s643/d/2/A], struck out “from the disposable retired or retainer pay” before “of the same member”.
+    Subsec. (e)(3)(A). [Pub. L. 98–525][/us/pl/98/525], § 643(d)(2)(A), struck out “from the disposable retired or retainer pay” before “of the same member”.
 
-    Subsec. (e)(3)(A)(i). [Pub. L. 98–525, § 643(d)(2)(B)][/us/pl/98/525/s643/d/2/B], substituted “from the member’s disposable retired or retainer pay the least amount” for “the least amount of disposable retired or retainer pay” before “directed to be paid”.
+    Subsec. (e)(3)(A)(i). [Pub. L. 98–525][/us/pl/98/525], § 643(d)(2)(B), substituted “from the member’s disposable retired or retainer pay the least amount” for “the least amount of disposable retired or retainer pay” before “directed to be paid”.
 
-    Subsec. (e)(2)(A)(ii)(I). [Pub. L. 98–525, § 643(d)(2)(C)][/us/pl/98/525/s643/d/2/C], struck out “of retired or retainer pay” before “required by any conflicting”.
+    Subsec. (e)(2)(A)(ii)(I). [Pub. L. 98–525][/us/pl/98/525], § 643(d)(2)(C), struck out “of retired or retainer pay” before “required by any conflicting”.
 
-    Subsec. (e)(4)(A). [Pub. L. 98–525, § 643(d)(3)][/us/pl/98/525/s643/d/3], struck out “the retired or retainer pay of” before “the same member” and substituted “satisfaction of such court orders and legal process from the retired or retainer pay of the members shall be” for “such court orders and legal process shall be satisfied”.
+    Subsec. (e)(4)(A). [Pub. L. 98–525][/us/pl/98/525], § 643(d)(3), struck out “the retired or retainer pay of” before “the same member” and substituted “satisfaction of such court orders and legal process from the retired or retainer pay of the members shall be” for “such court orders and legal process shall be satisfied”.
 
-    Subsec. (e)(5). [Pub. L. 98–525, § 643(d)(4)][/us/pl/98/525/s643/d/4], struck out “of disposable retired or retainer pay” after “payment of an amount” in two places and substituted “disposable retired or retainer pay” for “such pay” before “available for payment”.
+    Subsec. (e)(5). [Pub. L. 98–525][/us/pl/98/525], § 643(d)(4), struck out “of disposable retired or retainer pay” after “payment of an amount” in two places and substituted “disposable retired or retainer pay” for “such pay” before “available for payment”.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–163, div. A, title VI, § 665(b)][/us/pl/109/163/s665/b], Jan. 6, 2006, [119 Stat. 3318][/us/stat/119/3318], provided that: 
+[Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 665(b), Jan. 6, 2006, [119 Stat. 3318][/us/stat/119/3318], provided that: 
 
 > “A court order authorized by the amendments made by this section \[amending this section\] may not provide for a payment attributable to any period before the date of the enactment of this Act \[Jan. 6, 2006\], or the date of the court order, whichever is later.”
 
@@ -457,17 +457,17 @@
 
     For effective date of amendment by section 363(c)(1)–(3) of [Pub. L. 104–193][/us/pl/104/193], see section 395(a)–(c) of [Pub. L. 104–193][/us/pl/104/193], set out as a note under [section 654 of Title 42][/us/usc/t42/s654].
 
-    [Pub. L. 104–106, div. A, title XV, § 1501(c)][/us/pl/104/106/s1501/c], Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498], provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as originally enacted.
+    [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(c), Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498], provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as originally enacted.
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–160, div. A, title V, § 555(c)][/us/pl/103/160/s555/c], Nov. 30, 1993, [107 Stat. 1667][/us/stat/107/1667], provided that: 
+[Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 555(c), Nov. 30, 1993, [107 Stat. 1667][/us/stat/107/1667], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect as of October 23, 1992, and shall apply as if the provisions of the paragraph (10) of [section 1408(h) of title 10][/us/usc/t10/s1408/h], United States Code, added by such subsection were included in the amendment made by [section 653(a)(2) of Public Law 102–484][/us/pl/102/484/s653/a/2] ([106 Stat. 2426][/us/stat/106/2426]) \[amending this section\].”
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–510, div. A, title V, § 555(e)][/us/pl/101/510/s555/e], Nov. 5, 1990, [104 Stat. 1570][/us/stat/104/1570], as amended by [Pub. L. 102–190, div. A, title X, § 1062(a)(1)][/us/pl/102/190/s1062/a/1], Dec. 5, 1991, [105 Stat. 1475][/us/stat/105/1475], provided that:
+[Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 555(e), Nov. 5, 1990, [104 Stat. 1570][/us/stat/104/1570], as amended by [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1062(a)(1), Dec. 5, 1991, [105 Stat. 1475][/us/stat/105/1475], provided that:
 
 >     “(1) The amendment made by subsection (a) \[amending this section\] shall apply with respect to judgments issued before, on, or after the date of the enactment of this Act \[Nov. 5, 1990\]. In the case of a judgment issued before the date of the enactment of this Act, such amendment shall not relieve any obligation, otherwise valid, to make a payment that is due to be made before the end of the two-year period beginning on the date of the enactment of this Act.
 
@@ -479,19 +479,19 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–661, div. A, title VI, § 644(b)][/us/pl/99/661/s644/b], Nov. 14, 1986, [100 Stat. 3887][/us/stat/100/3887], provided that: 
+[Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], § 644(b), Nov. 14, 1986, [100 Stat. 3887][/us/stat/100/3887], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to court orders issued after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–525, title VI, § 643(e)][/us/pl/98/525/s643/e], Oct. 19, 1984, [98 Stat. 2548][/us/stat/98/2548], provided that: 
+[Pub. L. 98–525, title VI][/us/pl/98/525/tVI], § 643(e), Oct. 19, 1984, [98 Stat. 2548][/us/stat/98/2548], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to court orders for which effective service (as described in [section 1408(b)(1) of title 10][/us/usc/t10/s1408/b/1], United States Code, as amended by subsection (b) of this section) is made on or after the date of the enactment of this Act \[Oct. 19, 1984\].”
 
  __Effective Date; Transition Provisions__ 
 
-[Pub. L. 97–252, title X, § 1006][/us/pl/97/252/s1006], Sept. 8, 1982, [96 Stat. 737][/us/stat/96/737], as amended by [Pub. L. 98–94, title IX, § 941(c)(4)][/us/pl/98/94/s941/c/4], Sept. 24, 1983, [97 Stat. 654][/us/stat/97/654]; [Pub. L. 98–525, title VI, § 645(b)][/us/pl/98/525/s645/b], Oct. 19, 1984, [98 Stat. 2549][/us/stat/98/2549], provided that:
+[Pub. L. 97–252, title X][/us/pl/97/252/tX], § 1006, Sept. 8, 1982, [96 Stat. 737][/us/stat/96/737], as amended by [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], § 941(c)(4), Sept. 24, 1983, [97 Stat. 654][/us/stat/97/654]; [Pub. L. 98–525, title VI][/us/pl/98/525/tVI], § 645(b), Oct. 19, 1984, [98 Stat. 2549][/us/stat/98/2549], provided that:
 
 >     “(a) The amendments made by this title \[amending this section and sections 1072, 1076, 1086, 1447, 1448, and 1450 of this title and enacting provisions set out as notes under this section and [section 1401 of this title][/us/usc/t10/s1401]\] shall take effect on the first day of the first month \[February 1983\] which begins more than one hundred and twenty days after the date of the enactment of this title \[Sept. 8, 1982\].
 
@@ -517,17 +517,17 @@
 
  __Review of Federal Former Spouse Protection Laws__ 
 
-    [Pub. L. 105–85, div. A, title VI, § 643][/us/pl/105/85/s643], Nov. 18, 1997, [111 Stat. 1799][/us/stat/111/1799], directed the Secretary of Defense to carry out a comprehensive review of the protections, benefits, and treatment afforded under Federal law to members and former members of the uniformed services and former spouses of such persons and to employees and former employees of the Government and former spouses of such persons and to submit to committees of Congress a report on the results of such review not later than Sept. 30, 1999.
+    [Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 643, Nov. 18, 1997, [111 Stat. 1799][/us/stat/111/1799], directed the Secretary of Defense to carry out a comprehensive review of the protections, benefits, and treatment afforded under Federal law to members and former members of the uniformed services and former spouses of such persons and to employees and former employees of the Government and former spouses of such persons and to submit to committees of Congress a report on the results of such review not later than Sept. 30, 1999.
 
  __Payroll Deductions for Enforcement of Child Support Obligations__ 
 
-[Pub. L. 104–193, title III, § 363(c)(4)][/us/pl/104/193/s363/c/4], Aug. 22, 1996, [110 Stat. 2249][/us/stat/110/2249], provided that: 
+[Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 363(c)(4), Aug. 22, 1996, [110 Stat. 2249][/us/stat/110/2249], provided that: 
 
 > “The Secretary of Defense shall begin payroll deductions within 30 days after receiving notice of withholding, or for the first pay period that begins after such 30-day period.”
 
  __Accrual of Payments; Prospective Applicability__ 
 
-[Pub. L. 102–484, div. A, title VI, § 653(c)][/us/pl/102/484/s653/c], Oct. 23, 1992, [106 Stat. 2429][/us/stat/106/2429], provided that: 
+[Pub. L. 102–484, div. A, title VI][/us/pl/102/484/dA/tVI], § 653(c), Oct. 23, 1992, [106 Stat. 2429][/us/stat/106/2429], provided that: 
 
 > “No payments under subsection (h) of [section 1408 of title 10][/us/usc/t10/s1408], United States Code (as added by subsection (a)), shall accrue for periods before the date of the enactment of this Act \[Oct. 23, 1992\].”
 
@@ -537,7 +537,7 @@
 
  __Commissary and Exchange Privileges__ 
 
-    [Pub. L. 97–252, title X, § 1005][/us/pl/97/252/s1005], Sept. 8, 1982, [96 Stat. 737][/us/stat/96/737], which directed Secretary of Defense to prescribe regulations to provide that an unremarried former spouse described in [10 U.S.C. 1072(2)(F)(i)][/us/usc/t10/s1072/2/F/i] is entitled to commissary and post exchange privileges to the same extent and on the same basis as the surviving spouse of a retired member of the uniformed services, was repealed and restated in [section 1062 of this title][/us/usc/t10/s1062] by [Pub. L. 100–370, § 1(c)(1)][/us/pl/100/370/s1/c/1], (5).
+    [Pub. L. 97–252, title X][/us/pl/97/252/tX], § 1005, Sept. 8, 1982, [96 Stat. 737][/us/stat/96/737], which directed Secretary of Defense to prescribe regulations to provide that an unremarried former spouse described in [10 U.S.C. 1072(2)(F)(i)][/us/usc/t10/s1072/2/F/i] is entitled to commissary and post exchange privileges to the same extent and on the same basis as the surviving spouse of a retired member of the uniformed services, was repealed and restated in [section 1062 of this title][/us/usc/t10/s1062] by [Pub. L. 100–370][/us/pl/100/370], § 1(c)(1), (5).
 
 ----------
 
@@ -561,41 +561,41 @@
 [/us/usc/t10/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a
 [/us/usc/t10/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1461
 [/us/usc/t10/s860/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs860%2Fc
-[/us/pl/97/252/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1002%2Fa
+[/us/pl/97/252/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtX
 [/us/stat/96/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F730
-[/us/pl/98/525/s643/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs643%2Fa
+[/us/pl/98/525/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVI
 [/us/stat/98/2547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2547
-[/us/pl/99/661/s644/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs644%2Fa
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3887
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
-[/us/pl/101/189/s653/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs653%2Fa%2F5
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1462
-[/us/pl/101/510/s555/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Fa
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1569
-[/us/pl/102/190/s1061/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fa%2F7
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1472
-[/us/pl/102/484/s653/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs653%2Fa
+[/us/pl/102/484/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVI
 [/us/stat/106/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2426
-[/us/pl/103/160/s555/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs555%2Fa
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1666
-[/us/pl/104/106/s1501/c/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc%2F16
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F499
-[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2246
-[/us/pl/104/201/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs636
+[/us/pl/104/201/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVI
 [/us/stat/110/2579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2579
-[/us/pl/105/85/s1073/a/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F24
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1901
-[/us/pl/107/107/s1048/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fc%2F9
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1226
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/108/189/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs2%2Fc
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2866
-[/us/pl/109/163/s665/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs665%2Fa
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3317
-[/us/pl/111/84/s1073/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F15
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2473
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -605,97 +605,97 @@
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1178
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/109/163/s665/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs665%2Fa%2F1
-[/us/pl/109/163/s665/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs665%2Fa%2F2%2FA
-[/us/pl/109/163/s665/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs665%2Fa%2F2%2FB%2Fi
-[/us/pl/109/163/s665/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs665%2Fa%2F2%2FB%2Fii
-[/us/pl/109/163/s665/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs665%2Fa%2F3
-[/us/pl/109/163/s665/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs665%2Fa%2F4
-[/us/pl/109/163/s665/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs665%2Fa%2F5
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/105/85/s1073/a/24/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F24%2FA
-[/us/pl/105/85/s1073/a/24/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F24%2FB
-[/us/pl/105/85/s1073/a/24/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F24%2FB
-[/us/pl/105/85/s1073/a/24/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F24%2FC
-[/us/pl/105/85/s1073/a/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F25
-[/us/pl/104/193/s362/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs362%2Fc%2F1
-[/us/pl/104/193/s362/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs362%2Fc%2F2%2FA
-[/us/pl/104/193/s362/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs362%2Fc%2F2%2FB
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s659/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs659%2Fi%2F2
 [/us/usc/t42/s662/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs662%2Fb
-[/us/pl/104/193/s362/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs362%2Fc%2F2%2FC
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s659/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs659%2Fi%2F3
 [/us/usc/t42/s662/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs662%2Fc
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/104/201/s636/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs636%2Fa
-[/us/pl/104/193/s362/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs362%2Fc%2F3%2FA
-[/us/pl/104/193/s363/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs363%2Fc%2F2
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s608/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs608%2Fa%2F4
-[/us/pl/104/193/s362/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs362%2Fc%2F3%2FB
-[/us/pl/104/201/s636/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs636%2Fb
-[/us/pl/104/193/s363/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs363%2Fc%2F3
-[/us/pl/104/193/s363/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs363%2Fc%2F1
-[/us/pl/104/193/s363/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs363%2Fc%2F1
-[/us/pl/104/193/s362/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs362%2Fc%2F4
-[/us/pl/104/193/s363/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs363%2Fc%2F1
-[/us/pl/103/160/s1182/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fa%2F2%2FA
-[/us/pl/103/160/s555/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs555%2Fb%2F1
-[/us/pl/103/160/s1182/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fa%2F2%2FB
-[/us/pl/103/160/s555/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs555%2Fb%2F2
-[/us/pl/103/160/s555/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs555%2Fa
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
-[/us/pl/101/510/s555/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Ff%2F2
-[/us/pl/101/510/s555/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Fg%2F1
-[/us/pl/101/510/s555/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Ff%2F2
-[/us/pl/101/510/s555/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Ff%2F2
-[/us/pl/101/510/s555/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Fb%2F1
-[/us/pl/101/510/s555/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Fb%2F2
-[/us/pl/101/510/s555/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Fb%2F3
-[/us/pl/101/510/s555/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Ff%2F1
-[/us/pl/101/510/s555/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Fg%2F2
-[/us/pl/101/510/s555/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Fg%2F3
-[/us/pl/101/510/s555/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Ff%2F2
-[/us/pl/101/510/s555/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Fa
-[/us/pl/101/510/s555/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Fc
-[/us/pl/101/510/s555/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Ff%2F2
-[/us/pl/101/510/s555/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Fg%2F4
-[/us/pl/101/510/s555/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Ff%2F2
-[/us/pl/101/510/s555/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Fg%2F5
-[/us/pl/101/510/s555/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Ff%2F2
-[/us/pl/101/510/s555/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Fd%2F1
-[/us/pl/101/510/s555/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Fd%2F2
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t42/s662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs662
-[/us/pl/101/510/s555/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Fg%2F6
-[/us/pl/101/510/s555/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Ff%2F2
-[/us/pl/101/510/s555/g/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Fg%2F7
-[/us/pl/101/510/s555/g/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Fg%2F8
-[/us/pl/101/189/s1622/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fe%2F6
-[/us/pl/101/189/s1622/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fe%2F6
-[/us/pl/101/189/s1622/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fe%2F6
-[/us/pl/101/189/s653/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs653%2Fa%2F5%2FA
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t26/s3402/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3402%2Fi
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t10/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1331
-[/us/pl/101/189/s1622/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fe%2F6
-[/us/pl/100/26/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F3
-[/us/pl/99/661/s644/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs644%2Fa
-[/us/pl/100/26/s7/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fh%2F1
-[/us/pl/99/661/s644/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs644%2Fa
-[/us/pl/100/26/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F3
-[/us/pl/98/525/s643/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs643%2Fa
-[/us/pl/98/525/s643/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs643%2Fb
-[/us/pl/98/525/s643/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs643%2Fc%2F1
-[/us/pl/98/525/s643/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs643%2Fc%2F2
-[/us/pl/98/525/s643/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs643%2Fd%2F1
-[/us/pl/98/525/s643/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs643%2Fd%2F2%2FA
-[/us/pl/98/525/s643/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs643%2Fd%2F2%2FB
-[/us/pl/98/525/s643/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs643%2Fd%2F2%2FC
-[/us/pl/98/525/s643/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs643%2Fd%2F3
-[/us/pl/98/525/s643/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs643%2Fd%2F4
-[/us/pl/109/163/s665/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs665%2Fb
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3318
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
@@ -706,32 +706,32 @@
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654
-[/us/pl/104/106/s1501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F498
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
-[/us/pl/103/160/s555/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs555%2Fc
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1667
 [/us/usc/t10/s1408/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1408%2Fh
 [/us/pl/102/484/s653/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs653%2Fa%2F2
 [/us/stat/106/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2426
-[/us/pl/101/510/s555/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs555%2Fe
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1570
-[/us/pl/102/190/s1062/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1062%2Fa%2F1
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1475
 [/us/pl/100/26/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F3
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/100/26/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs12%2Fa
 [/us/usc/t10/s776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs776
-[/us/pl/99/661/s644/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs644%2Fb
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3887
-[/us/pl/98/525/s643/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs643%2Fe
+[/us/pl/98/525/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVI
 [/us/stat/98/2548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2548
 [/us/usc/t10/s1408/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1408%2Fb%2F1
-[/us/pl/97/252/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1006
+[/us/pl/97/252/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtX
 [/us/stat/96/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F737
-[/us/pl/98/94/s941/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs941%2Fc%2F4
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F654
-[/us/pl/98/525/s645/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs645%2Fb
+[/us/pl/98/525/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVI
 [/us/stat/98/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2549
 [/us/usc/t10/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401
 [/us/usc/t10/s1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1408
@@ -743,18 +743,18 @@
 [/us/usc/t10/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1002
 [/us/usc/t10/s1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/105/85/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs643
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1799
-[/us/pl/104/193/s363/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs363%2Fc%2F4
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2249
-[/us/pl/102/484/s653/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs653%2Fc
+[/us/pl/102/484/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVI
 [/us/stat/106/2429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2429
 [/us/usc/t10/s1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1408
 [/us/stat/106/2429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2429
-[/us/pl/97/252/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1005
+[/us/pl/97/252/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtX
 [/us/stat/96/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F737
 [/us/usc/t10/s1072/2/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2%2FF%2Fi
 [/us/usc/t10/s1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1062
-[/us/pl/100/370/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs1%2Fc%2F1
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 
 

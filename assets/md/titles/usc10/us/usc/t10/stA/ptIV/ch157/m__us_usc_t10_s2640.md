@@ -117,31 +117,31 @@
 
         (2) The term “members of the armed forces” means members of the Army, Navy, Air Force, and Marine Corps.
 
-(Added [Pub. L. 99–661, div. A, title XII, § 1204(a)(1)][/us/pl/99/661/s1204/a/1], Nov. 14, 1986, [100 Stat. 3969][/us/stat/100/3969]; amended [Pub. L. 103–272, § 5(b)(1)][/us/pl/103/272/s5/b/1], July 5, 1994, [108 Stat. 1373][/us/stat/108/1373]; [Pub. L. 105–85, div. A, title X, § 1075(a)][/us/pl/105/85/s1075/a], Nov. 18, 1997, [111 Stat. 1911][/us/stat/111/1911].)
+(Added [Pub. L. 99–661, div. A, title XII][/us/pl/99/661/dA/tXII], § 1204(a)(1), Nov. 14, 1986, [100 Stat. 3969][/us/stat/100/3969]; amended [Pub. L. 103–272][/us/pl/103/272], § 5(b)(1), July 5, 1994, [108 Stat. 1373][/us/stat/108/1373]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1075(a), Nov. 18, 1997, [111 Stat. 1911][/us/stat/111/1911].)
 
  __Amendments__ 
 
     1997—Subsecs. (h) to (j). [Pub. L. 105–85][/us/pl/105/85] added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
-    1994—Subsecs. (a)(1)(A), (d)(1)(B)(i). [Pub. L. 103–272, § 5(b)(1)(A)][/us/pl/103/272/s5/b/1/A], substituted “chapter 447 of title 49” for “title VI of the Federal Aviation Act of 1958 (49 U.S.C. App. 1421 et seq.)”.
+    1994—Subsecs. (a)(1)(A), (d)(1)(B)(i). [Pub. L. 103–272][/us/pl/103/272], § 5(b)(1)(A), substituted “chapter 447 of title 49” for “title VI of the Federal Aviation Act of 1958 (49 U.S.C. App. 1421 et seq.)”.
 
-    Subsec. (i)(1). [Pub. L. 103–272, § 5(b)(1)(B)][/us/pl/103/272/s5/b/1/B], substituted “[section 40102(a) of title 49][/us/usc/t49/s40102/a]” for “sections 101(3), 101(5), 101(10), and 101(15), respectively, of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301(3), 1301(5), 1301(10), and 1301(15))”.
+    Subsec. (i)(1). [Pub. L. 103–272][/us/pl/103/272], § 5(b)(1)(B), substituted “[section 40102(a) of title 49][/us/usc/t49/s40102/a]” for “sections 101(3), 101(5), 101(10), and 101(15), respectively, of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301(3), 1301(5), 1301(10), and 1301(15))”.
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–85, div. A, title X, § 1075(b)][/us/pl/105/85/s1075/b], Nov. 18, 1997, [111 Stat. 1911][/us/stat/111/1911], provided that: 
+[Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1075(b), Nov. 18, 1997, [111 Stat. 1911][/us/stat/111/1911], provided that: 
 
 > “Subsection (h) of [section 2640 of title 10][/us/usc/t10/s2640], United States Code, as added by subsection (a), shall apply with respect to requests for information made on or after the date of the enactment of this Act \[Nov. 18, 1997\].”
 
  __Effective Date__ 
 
-[Pub. L. 99–661, div. A, title XII, § 1204(c)][/us/pl/99/661/s1204/c], Nov. 14, 1986, [100 Stat. 3971][/us/stat/100/3971], provided that: 
+[Pub. L. 99–661, div. A, title XII][/us/pl/99/661/dA/tXII], § 1204(c), Nov. 14, 1986, [100 Stat. 3971][/us/stat/100/3971], provided that: 
 
 > “[Section 2640 of title 10][/us/usc/t10/s2640], United States Code, as added by subsection (a), shall apply only to contracts which are entered into on or after the date on which the regulations required by subsection (b) are prescribed \[set out below\].”
 
  __Regulations__ 
 
-    [Pub. L. 99–661, div. A, title XII, § 1204(b)][/us/pl/99/661/s1204/b], Nov. 14, 1986, [100 Stat. 3971][/us/stat/100/3971], required Secretary of Defense, not later than 120 days after Nov. 14, 1986, to prescribe regulations required by this section.
+    [Pub. L. 99–661, div. A, title XII][/us/pl/99/661/dA/tXII], § 1204(b), Nov. 14, 1986, [100 Stat. 3971][/us/stat/100/3971], required Secretary of Defense, not later than 120 days after Nov. 14, 1986, to prescribe regulations required by this section.
 
 ----------
 
@@ -151,23 +151,23 @@
 ----------
 
 [/us/usc/t49/s40102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa
-[/us/pl/99/661/s1204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1204%2Fa%2F1
+[/us/pl/99/661/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXII
 [/us/stat/100/3969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3969
-[/us/pl/103/272/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fb%2F1
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1373
-[/us/pl/105/85/s1075/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1075%2Fa
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1911
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/103/272/s5/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fb%2F1%2FA
-[/us/pl/103/272/s5/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fb%2F1%2FB
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s40102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa
-[/us/pl/105/85/s1075/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1075%2Fb
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1911
 [/us/usc/t10/s2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2640
-[/us/pl/99/661/s1204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1204%2Fc
+[/us/pl/99/661/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXII
 [/us/stat/100/3971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3971
 [/us/usc/t10/s2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2640
-[/us/pl/99/661/s1204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1204%2Fb
+[/us/pl/99/661/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXII
 [/us/stat/100/3971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3971
 
 

@@ -53,7 +53,7 @@
 
         (3) The reserve account may not exceed $4,000,000 on December 31 of any calendar year. Unobligated balances exceeding $4,000,000 on that date shall be deposited into the United States Treasury.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 149][/us/stat/70A/149]; [Pub. L. 95–82, title VI, § 610][/us/pl/95/82/s610], Aug. 1, 1977, [91 Stat. 378][/us/stat/91/378]; [Pub. L. 96–513, title V, § 511(91)][/us/pl/96/513/s511/91], Dec. 12, 1980, [94 Stat. 2928][/us/stat/94/2928]; [Pub. L. 97–31, § 12(3)(B)][/us/pl/97/31/s12/3/B], Aug. 6, 1981, [95 Stat. 153][/us/stat/95/153]; [Pub. L. 97–99, title IX, § 910(a)][/us/pl/97/99/s910/a], Dec. 23, 1981, [95 Stat. 1386][/us/stat/95/1386]; [Pub. L. 97–295, § 1(33)][/us/pl/97/295/s1/33], Oct. 12, 1982, [96 Stat. 1296][/us/stat/96/1296]; [Pub. L. 98–407, title VIII, § 809(a)][/us/pl/98/407/s809/a], Aug. 28, 1984, [98 Stat. 1522][/us/stat/98/1522]; [Pub. L. 99–561, § 4][/us/pl/99/561/s4], Oct. 27, 1986, [100 Stat. 3151][/us/stat/100/3151]; [Pub. L. 107–296, title XVII, § 1704(b)(4)][/us/pl/107/296/s1704/b/4], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 109–163, div. A, title X, § 1056(c)(6)][/us/pl/109/163/s1056/c/6], Jan. 6, 2006, [119 Stat. 3439][/us/stat/119/3439].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 149][/us/stat/70A/149]; [Pub. L. 95–82, title VI][/us/pl/95/82/tVI], § 610, Aug. 1, 1977, [91 Stat. 378][/us/stat/91/378]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(91), Dec. 12, 1980, [94 Stat. 2928][/us/stat/94/2928]; [Pub. L. 97–31][/us/pl/97/31], § 12(3)(B), Aug. 6, 1981, [95 Stat. 153][/us/stat/95/153]; [Pub. L. 97–99, title IX][/us/pl/97/99/tIX], § 910(a), Dec. 23, 1981, [95 Stat. 1386][/us/stat/95/1386]; [Pub. L. 97–295][/us/pl/97/295], § 1(33), Oct. 12, 1982, [96 Stat. 1296][/us/stat/96/1296]; [Pub. L. 98–407, title VIII][/us/pl/98/407/tVIII], § 809(a), Aug. 28, 1984, [98 Stat. 1522][/us/stat/98/1522]; [Pub. L. 99–561][/us/pl/99/561], § 4, Oct. 27, 1986, [100 Stat. 3151][/us/stat/100/3151]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(4), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1056(c)(6), Jan. 6, 2006, [119 Stat. 3439][/us/stat/119/3439].)
 
 <table>
 
@@ -167,25 +167,25 @@ July 9, 1918, ch. 143, subch. XV, § 8 (last par.), 40 Stat. 888.  </td>
 
     2002—Subsec. (b). [Pub. L. 107–296][/us/pl/107/296] substituted “Department in which the Coast Guard is operating” for “Department of Transportation”.
 
-    1986—Subsec. (d). [Pub. L. 99–561, § 4(1)][/us/pl/99/561/s4/1], struck out “available for operation and maintenance during a fiscal year” after “Defense”, substituted “costs” for “expenses”, and struck out “during such fiscal year” after “such property”.
+    1986—Subsec. (d). [Pub. L. 99–561][/us/pl/99/561], § 4(1), struck out “available for operation and maintenance during a fiscal year” after “Defense”, substituted “costs” for “expenses”, and struck out “during such fiscal year” after “such property”.
 
-    Subsec. (e)(1). [Pub. L. 99–561, § 4(2)][/us/pl/99/561/s4/2], struck out “for all expenses of production of forest products” after “subsection (d)”.
+    Subsec. (e)(1). [Pub. L. 99–561][/us/pl/99/561], § 4(2), struck out “for all expenses of production of forest products” after “subsection (d)”.
 
-    Subsec. (f)(1). [Pub. L. 99–561, § 4(3)(A)][/us/pl/99/561/s4/3/A], (B), substituted “costs” for “expenses” in provisions preceding subpar. (A) and amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “for expenses to enable operations of forest lands and the production of forest products to continue from the end of one fiscal year through the beginning of the next fiscal year without disruption.”
+    Subsec. (f)(1). [Pub. L. 99–561][/us/pl/99/561], § 4(3)(A), (B), substituted “costs” for “expenses” in provisions preceding subpar. (A) and amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “for expenses to enable operations of forest lands and the production of forest products to continue from the end of one fiscal year through the beginning of the next fiscal year without disruption.”
 
-    Subsec. (f)(2), (3). [Pub. L. 99–561, § 4(3)(C)][/us/pl/99/561/s4/3/C], amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
+    Subsec. (f)(2), (3). [Pub. L. 99–561][/us/pl/99/561], § 4(3)(C), amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
 
     “(2) Subject to paragraph (3), there shall be deposited into the reserve account not later than December 31 of each year, for credit to the preceding fiscal year, an amount equal to one-half of the amount (if any) remaining of the total amount received by the United States during that fiscal year as proceeds from the sale of forest products after (A) the reimbursement of appropriations of the Department of Defense under subsection (d) for expenses of production of forest products during that fiscal year, and (B) the payment to States under subsection (e) for that fiscal year.
 
     “(3) The balance in the reserve account may not exceed $4,000,000. If a deposit under paragraph (2) would cause the balance in the account to exceed that amount, the deposit shall be made only to the extent the amount of the deposit would not cause the balance in the account to exceed $4,000,000.”
 
-    1984—Subsec. (b). [Pub. L. 98–407, § 809(a)(1)][/us/pl/98/407/s809/a/1], substituted “forest products produced on land owned or leased by a military department or the” for “logs wholly or partly manufactured by, or otherwise procured for, the Army, Navy, or Air Force, or”.
+    1984—Subsec. (b). [Pub. L. 98–407][/us/pl/98/407], § 809(a)(1), substituted “forest products produced on land owned or leased by a military department or the” for “logs wholly or partly manufactured by, or otherwise procured for, the Army, Navy, or Air Force, or”.
 
-    Subsec. (d). [Pub. L. 98–407, § 809(a)(2)][/us/pl/98/407/s809/a/2], substituted “forest products” for “lumber and timber products”.
+    Subsec. (d). [Pub. L. 98–407][/us/pl/98/407], § 809(a)(2), substituted “forest products” for “lumber and timber products”.
 
-    Subsec. (e)(1). [Pub. L. 98–407, § 809(a)(3)][/us/pl/98/407/s809/a/3], substituted “forest products” for “timber and timber products” in two places and “40 percent” for “25 percent”.
+    Subsec. (e)(1). [Pub. L. 98–407][/us/pl/98/407], § 809(a)(3), substituted “forest products” for “timber and timber products” in two places and “40 percent” for “25 percent”.
 
-    Subsec. (f). [Pub. L. 98–407, § 809(a)(4)][/us/pl/98/407/s809/a/4], added subsec. (f).
+    Subsec. (f). [Pub. L. 98–407][/us/pl/98/407], § 809(a)(4), added subsec. (f).
 
     1982—Subsecs. (a), (b). [Pub. L. 97–295][/us/pl/97/295] substituted “executive department, may sell” for “executive department” and all that followed through “may sell” in subsecs. (a) and (b), and substituted “Air Force, or Department of Transportation.” for “Air Force” and all that followed in subsec. (b), clarifying the ambiguity created by the conflicting language of [Pub. L. 96–513][/us/pl/96/513] and [Pub. L. 97–31][/us/pl/97/31].
 
@@ -203,7 +203,7 @@ July 9, 1918, ch. 143, subch. XV, § 8 (last par.), 40 Stat. 888.  </td>
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–407, title VIII, § 809(b)][/us/pl/98/407/s809/b], Aug. 28, 1984, [98 Stat. 1523][/us/stat/98/1523], provided that:
+[Pub. L. 98–407, title VIII][/us/pl/98/407/tVIII], § 809(b), Aug. 28, 1984, [98 Stat. 1523][/us/stat/98/1523], provided that:
 
 >     “(b)
 
@@ -213,7 +213,7 @@ July 9, 1918, ch. 143, subch. XV, § 8 (last par.), 40 Stat. 888.  </td>
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–99, title IX, § 910(b)][/us/pl/97/99/s910/b], Dec. 23, 1981, [95 Stat. 1386][/us/stat/95/1386], provided that: 
+[Pub. L. 97–99, title IX][/us/pl/97/99/tIX], § 910(b), Dec. 23, 1981, [95 Stat. 1386][/us/stat/95/1386], provided that: 
 
 > “Subsection (e) of [section 2665 of title 10][/us/usc/t10/s2665], United States Code, as added by subsection (a), shall apply with respect to timber and timber products sold after September 30, 1981.”
 
@@ -234,23 +234,23 @@ July 9, 1918, ch. 143, subch. XV, § 8 (last par.), 40 Stat. 888.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F149
-[/us/pl/95/82/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F82%2Fs610
+[/us/pl/95/82/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F82%2FtVI
 [/us/stat/91/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F378
-[/us/pl/96/513/s511/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F91
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2928
-[/us/pl/97/31/s12/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs12%2F3%2FB
+[/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 [/us/stat/95/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F153
-[/us/pl/97/99/s910/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F99%2Fs910%2Fa
+[/us/pl/97/99/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F99%2FtIX
 [/us/stat/95/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1386
-[/us/pl/97/295/s1/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F33
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1296
-[/us/pl/98/407/s809/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407%2Fs809%2Fa
+[/us/pl/98/407/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407%2FtVIII
 [/us/stat/98/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1522
-[/us/pl/99/561/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F561%2Fs4
+[/us/pl/99/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F561
 [/us/stat/100/3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3151
-[/us/pl/107/296/s1704/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F4
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/109/163/s1056/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1056%2Fc%2F6
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3439
 [/us/usc/t10/s1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1354
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
@@ -259,14 +259,14 @@ July 9, 1918, ch. 143, subch. XV, § 8 (last par.), 40 Stat. 888.  </td>
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/usc/t10/s2664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2664
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/99/561/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F561%2Fs4%2F1
-[/us/pl/99/561/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F561%2Fs4%2F2
-[/us/pl/99/561/s4/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F561%2Fs4%2F3%2FA
-[/us/pl/99/561/s4/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F561%2Fs4%2F3%2FC
-[/us/pl/98/407/s809/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407%2Fs809%2Fa%2F1
-[/us/pl/98/407/s809/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407%2Fs809%2Fa%2F2
-[/us/pl/98/407/s809/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407%2Fs809%2Fa%2F3
-[/us/pl/98/407/s809/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407%2Fs809%2Fa%2F4
+[/us/pl/99/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F561
+[/us/pl/99/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F561
+[/us/pl/99/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F561
+[/us/pl/99/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F561
+[/us/pl/98/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407
+[/us/pl/98/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407
+[/us/pl/98/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407
+[/us/pl/98/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
@@ -279,9 +279,9 @@ July 9, 1918, ch. 143, subch. XV, § 8 (last par.), 40 Stat. 888.  </td>
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/98/407/s809/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407%2Fs809%2Fb
+[/us/pl/98/407/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407%2FtVIII
 [/us/stat/98/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1523
-[/us/pl/97/99/s910/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F99%2Fs910%2Fb
+[/us/pl/97/99/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F99%2FtIX
 [/us/stat/95/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1386
 [/us/usc/t10/s2665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2665
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

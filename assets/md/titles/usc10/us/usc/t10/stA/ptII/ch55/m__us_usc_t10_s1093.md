@@ -23,33 +23,33 @@
 
     No medical treatment facility or other facility of the Department of Defense may be used to perform an abortion except where the life of the mother would be endangered if the fetus were carried to term or in a case in which the pregnancy is the result of an act of rape or incest.
 
-(Added [Pub. L. 98–525, title XIV, § 1401(e)(5)(A)][/us/pl/98/525/s1401/e/5/A], Oct. 19, 1984, [98 Stat. 2617][/us/stat/98/2617]; amended [Pub. L. 104–106, div. A, title VII, § 738(a)][/us/pl/104/106/s738/a], (b)(1), Feb. 10, 1996, [110 Stat. 383][/us/stat/110/383]; [Pub. L. 112–239, div. A, title VII, § 704][/us/pl/112/239/s704], Jan. 2, 2013, [126 Stat. 1800][/us/stat/126/1800].)
+(Added [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1401(e)(5)(A), Oct. 19, 1984, [98 Stat. 2617][/us/stat/98/2617]; amended [Pub. L. 104–106, div. A, title VII][/us/pl/104/106/dA/tVII], § 738(a), (b)(1), Feb. 10, 1996, [110 Stat. 383][/us/stat/110/383]; [Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 704, Jan. 2, 2013, [126 Stat. 1800][/us/stat/126/1800].)
 
  __Prior Provisions__ 
 
 Provisions similar to those in subsec. (a) of this section were contained in the following appropriation acts:
 
-    [Pub. L. 98–473, title I, § 101(h)][/us/pl/98/473/s101/h] \[title VIII, § 8044\], Oct. 12, 1984, [98 Stat. 1904][/us/stat/98/1904], 1931.
+    [Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(h) \[title VIII, § 8044\], Oct. 12, 1984, [98 Stat. 1904][/us/stat/98/1904], 1931.
 
-    [Pub. L. 98–212, title VII, § 751][/us/pl/98/212/s751], Dec. 8, 1983, [97 Stat. 1447][/us/stat/97/1447].
+    [Pub. L. 98–212, title VII][/us/pl/98/212/tVII], § 751, Dec. 8, 1983, [97 Stat. 1447][/us/stat/97/1447].
 
-    [Pub. L. 97–377, title I, § 101(c)][/us/pl/97/377/s101/c] \[title VII, § 755\], Dec. 21, 1982, [96 Stat. 1833][/us/stat/96/1833], 1860.
+    [Pub. L. 97–377, title I][/us/pl/97/377/tI], § 101(c) \[title VII, § 755\], Dec. 21, 1982, [96 Stat. 1833][/us/stat/96/1833], 1860.
 
-    [Pub. L. 97–114, title VII, § 757][/us/pl/97/114/s757], Dec. 29, 1981, [95 Stat. 1588][/us/stat/95/1588].
+    [Pub. L. 97–114, title VII][/us/pl/97/114/tVII], § 757, Dec. 29, 1981, [95 Stat. 1588][/us/stat/95/1588].
 
-    [Pub. L. 96–527, title VII, § 760][/us/pl/96/527/s760], Dec. 15, 1980, [94 Stat. 3091][/us/stat/94/3091].
+    [Pub. L. 96–527, title VII][/us/pl/96/527/tVII], § 760, Dec. 15, 1980, [94 Stat. 3091][/us/stat/94/3091].
 
-    [Pub. L. 96–154, title VII, § 762][/us/pl/96/154/s762], Dec. 21, 1979, [93 Stat. 1162][/us/stat/93/1162].
+    [Pub. L. 96–154, title VII][/us/pl/96/154/tVII], § 762, Dec. 21, 1979, [93 Stat. 1162][/us/stat/93/1162].
 
-    [Pub. L. 95–457, title VIII, § 863][/us/pl/95/457/s863], Oct. 13, 1978, [92 Stat. 1254][/us/stat/92/1254].
+    [Pub. L. 95–457, title VIII][/us/pl/95/457/tVIII], § 863, Oct. 13, 1978, [92 Stat. 1254][/us/stat/92/1254].
 
  __Amendments__ 
 
     2013—Subsec. (a). [Pub. L. 112–239][/us/pl/112/239] inserted “or in a case in which the pregnancy is the result of an act of rape or incest” before period at end.
 
-    1996—[Pub. L. 104–106, § 738(b)(1)][/us/pl/104/106/s738/b/1], amended section catchline generally, substituting “Performance of abortions: restrictions” for “Restrictions on use of funds for abortions”.
+    1996—[Pub. L. 104–106][/us/pl/104/106], § 738(b)(1), amended section catchline generally, substituting “Performance of abortions: restrictions” for “Restrictions on use of funds for abortions”.
 
-    [Pub. L. 104–106, § 738(a)][/us/pl/104/106/s738/a], designated existing provisions as subsec. (a), inserted subsec. heading, and added subsec. (b).
+    [Pub. L. 104–106][/us/pl/104/106], § 738(a), designated existing provisions as subsec. (a), inserted subsec. heading, and added subsec. (b).
 
  __Effective Date__ 
 
@@ -74,29 +74,29 @@ Provisions similar to those in subsec. (a) of this section were contained in the
 ----------
 ----------
 
-[/us/pl/98/525/s1401/e/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1401%2Fe%2F5%2FA
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2617
-[/us/pl/104/106/s738/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs738%2Fa
+[/us/pl/104/106/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVII
 [/us/stat/110/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F383
-[/us/pl/112/239/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs704
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1800
-[/us/pl/98/473/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2Fh
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1904
-[/us/pl/98/212/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F212%2Fs751
+[/us/pl/98/212/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F212%2FtVII
 [/us/stat/97/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1447
-[/us/pl/97/377/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs101%2Fc
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1833
-[/us/pl/97/114/s757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F114%2Fs757
+[/us/pl/97/114/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F114%2FtVII
 [/us/stat/95/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1588
-[/us/pl/96/527/s760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F527%2Fs760
+[/us/pl/96/527/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F527%2FtVII
 [/us/stat/94/3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3091
-[/us/pl/96/154/s762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F154%2Fs762
+[/us/pl/96/154/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F154%2FtVII
 [/us/stat/93/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1162
-[/us/pl/95/457/s863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F457%2Fs863
+[/us/pl/95/457/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F457%2FtVIII
 [/us/stat/92/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1254
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/104/106/s738/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs738%2Fb%2F1
-[/us/pl/104/106/s738/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs738%2Fa
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/98/525/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1404
 [/us/usc/t10/s520b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs520b
 [/us/usc/t10/s1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1093

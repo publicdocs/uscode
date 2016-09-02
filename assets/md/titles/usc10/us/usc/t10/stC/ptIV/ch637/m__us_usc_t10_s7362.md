@@ -27,7 +27,7 @@
 
     For authority for the Secretary of the Navy to advance to private salvage companies such funds as the Secretary considers necessary to provide for the immediate financing of salvage operations, see [section 2307(g)(2) of this title][/us/usc/t10/s2307/g/2].
 
-(Added [Pub. L. 104–106, div. A, title X, § 1015][/us/pl/104/106/s1015], Feb. 10, 1996, [110 Stat. 424][/us/stat/110/424].)
+(Added [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1015, Feb. 10, 1996, [110 Stat. 424][/us/stat/110/424].)
 
  __Prior Provisions__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t10/s2307/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2307%2Fg%2F2
-[/us/pl/104/106/s1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1015
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F424
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F455

@@ -19,7 +19,7 @@
 
     (b) A contract to carry out a relocation of military family housing units under subsection (a) may not be awarded until (1) the Secretary concerned has notified the appropriate committees of Congress of the proposed new locations of the housing units to be relocated and the estimated cost of and source of funds for the relocation, and (2) a period of 21 days has elapsed after the notification has been received by those committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 
-(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 160][/us/stat/96/160]; amended [Pub. L. 108–136, div. A, title X, § 1031(a)(42)][/us/pl/108/136/s1031/a/42], Nov. 24, 2003, [117 Stat. 1602][/us/stat/117/1602].)
+(Added [Pub. L. 97–214][/us/pl/97/214], § 2(a), July 12, 1982, [96 Stat. 160][/us/stat/96/160]; amended [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(42), Nov. 24, 2003, [117 Stat. 1602][/us/stat/117/1602].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Conveyance to Indian Tribes of Relocatable Military Housing Units at Military Installations in the United States__ 
 
-[Pub. L. 114–92, div. B, title XXVIII, § 2805][/us/pl/114/92/s2805], Nov. 25, 2015, [129 Stat. 1171][/us/stat/129/1171], provided that:
+[Pub. L. 114–92, div. B, title XXVIII][/us/pl/114/92/dB/tXXVIII], § 2805, Nov. 25, 2015, [129 Stat. 1171][/us/stat/129/1171], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -67,15 +67,15 @@
 ----------
 
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
-[/us/pl/97/214/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs2%2Fa
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F160
-[/us/pl/108/136/s1031/a/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F42
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1602
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
 [/us/pl/97/214/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs12%2Fa
 [/us/usc/t10/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2801
-[/us/pl/114/92/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs2805
+[/us/pl/114/92/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdB%2FtXXVIII
 [/us/stat/129/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1171
 [/us/usc/t25/s479a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs479a%E2%80%931
 

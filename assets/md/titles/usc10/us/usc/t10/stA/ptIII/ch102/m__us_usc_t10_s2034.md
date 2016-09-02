@@ -21,7 +21,7 @@
 
     (2) has a student body of at least 50 students who are in a grade above the eighth grade.
 
-(Added [Pub. L. 112–239, div. A, title V, § 552(a)][/us/pl/112/239/s552/a], Jan. 2, 2013, [126 Stat. 1741][/us/stat/126/1741].)
+(Added [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 552(a), Jan. 2, 2013, [126 Stat. 1741][/us/stat/126/1741].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/112/239/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs552%2Fa
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1741
 
 

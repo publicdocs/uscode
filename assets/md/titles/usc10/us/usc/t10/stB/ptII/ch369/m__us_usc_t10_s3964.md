@@ -27,7 +27,7 @@
 
         (3) reserve enlisted members of the Army who, at the time of retirement, are serving on active duty (or, in the case of members of the National Guard, on full-time National Guard duty).
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 231][/us/stat/70A/231]; [Pub. L. 85–861, § 1(100)][/us/pl/85/861/s1/100], Sept. 2, 1958, [72 Stat. 1489][/us/stat/72/1489]; [Pub. L. 98–525, title V, § 533(c)][/us/pl/98/525/s533/c], Oct. 19, 1984, [98 Stat. 2528][/us/stat/98/2528]; [Pub. L. 100–180, div. A, title V, § 512(a)][/us/pl/100/180/s512/a], Dec. 4, 1987, [101 Stat. 1089][/us/stat/101/1089].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 231][/us/stat/70A/231]; [Pub. L. 85–861][/us/pl/85/861], § 1(100), Sept. 2, 1958, [72 Stat. 1489][/us/stat/72/1489]; [Pub. L. 98–525, title V][/us/pl/98/525/tV], § 533(c), Oct. 19, 1984, [98 Stat. 2528][/us/stat/98/2528]; [Pub. L. 100–180, div. A, title V][/us/pl/100/180/dA/tV], § 512(a), Dec. 4, 1987, [101 Stat. 1089][/us/stat/101/1089].)
 
 <table>
 
@@ -155,7 +155,7 @@ May 31, 1956, ch. 348, § 1, 70 Stat. 222.  </td>
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–180, div. A, title V, § 512(f)][/us/pl/100/180/s512/f], Dec. 4, 1987, [101 Stat. 1091][/us/stat/101/1091], provided that: 
+[Pub. L. 100–180, div. A, title V][/us/pl/100/180/dA/tV], § 512(f), Dec. 4, 1987, [101 Stat. 1091][/us/stat/101/1091], provided that: 
 
 > “The amendments made by subsections (a) and (c) \[amending this section and [section 8964 of this title][/us/usc/t10/s8964]\] shall apply to any reserve enlisted member who completes 30 years of service in the Armed Forces before, on, or after the date of the enactment of this Act \[Dec. 4, 1987\]. No person may be paid retired pay at a higher rate by reason of the enactment of this Act \[[Pub. L. 100–180][/us/pl/100/180], see Tables for classification\] for any period before the date of the enactment of this Act.”
 
@@ -168,17 +168,17 @@ May 31, 1956, ch. 348, § 1, 70 Stat. 222.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F231
-[/us/pl/85/861/s1/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F100
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1489
-[/us/pl/98/525/s533/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs533%2Fc
+[/us/pl/98/525/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtV
 [/us/stat/98/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2528
-[/us/pl/100/180/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs512%2Fa
+[/us/pl/100/180/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtV
 [/us/stat/101/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1089
 [/us/usc/t10/s1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1372
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
-[/us/pl/100/180/s512/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs512%2Ff
+[/us/pl/100/180/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtV
 [/us/stat/101/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1091
 [/us/usc/t10/s8964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8964
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180

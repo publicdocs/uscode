@@ -17,7 +17,7 @@
 
     If a person who would be entitled to make an election under section 1431 or 1432 of this title is determined to be mentally incompetent by medical officers of the armed force concerned or of the Department of Veterans Affairs, or by a court of competent jurisdiction, and for that reason cannot make the election within the prescribed time, the Secretary concerned may make an election for that person upon the request of his spouse or, if there is no spouse, of his children who would be eligible to be made beneficiaries under [section 1435 of this title][/us/usc/t10/s1435]. If the person for whom the Secretary has made an election is later determined to be mentally competent by medical officers of the Department of Veterans Affairs or by a court of competent jurisdiction, he may, within 180 days after that determination, change or revoke that election. However, deductions made from his retired or retainer pay before that date may not be refunded.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 109][/us/stat/70A/109]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 109][/us/stat/70A/109]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602].)
 
 <table>
 
@@ -79,7 +79,7 @@ Aug. 8, 1953, ch. 393, § 3 (less (a) and (b)), 67 Stat. 502.  </td>
 [/us/usc/t10/s1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1435
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F109
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1602
 [/us/usc/t10/s1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1435
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189

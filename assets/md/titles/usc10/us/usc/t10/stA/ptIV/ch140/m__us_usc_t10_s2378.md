@@ -49,7 +49,7 @@
 
     In this section, the term “Secretary concerned” means the Secretary of each military department and the Secretary of Defense with respect to the Defense Agencies.
 
-(Added [Pub. L. 105–85, div. A, title III, § 350(a)][/us/pl/105/85/s350/a], Nov. 18, 1997, [111 Stat. 1691][/us/stat/111/1691].)
+(Added [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 350(a), Nov. 18, 1997, [111 Stat. 1691][/us/stat/111/1691].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/105/85/s350/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs350%2Fa
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1691
 
 

@@ -67,19 +67,19 @@
 
         (4) any other follow-on support agreement for the NATO E–3A Cooperative Programme.
 
-(Added [Pub. L. 101–189, div. A, title IX, § 932(a)(1)][/us/pl/101/189/s932/a/1], Nov. 29, 1989, [103 Stat. 1536][/us/stat/103/1536]; amended [Pub. L. 102–190, div. A, title X, § 1051][/us/pl/102/190/s1051], Dec. 5, 1991, [105 Stat. 1470][/us/stat/105/1470]; [Pub. L. 103–160, div. A, title XIV, § 1413][/us/pl/103/160/s1413], Nov. 30, 1993, [107 Stat. 1829][/us/stat/107/1829].)
+(Added [Pub. L. 101–189, div. A, title IX][/us/pl/101/189/dA/tIX], § 932(a)(1), Nov. 29, 1989, [103 Stat. 1536][/us/stat/103/1536]; amended [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1051, Dec. 5, 1991, [105 Stat. 1470][/us/stat/105/1470]; [Pub. L. 103–160, div. A, title XIV][/us/pl/103/160/dA/tXIV], § 1413, Nov. 30, 1993, [107 Stat. 1829][/us/stat/107/1829].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [Pub. L. 97–86, title I, § 103][/us/pl/97/86/s103], Dec. 1, 1981, [95 Stat. 1100][/us/stat/95/1100], as amended, which was set out as a note under [section 2407 of this title][/us/usc/t10/s2407], prior to repeal by [Pub. L. 101–189, § 932(b)][/us/pl/101/189/s932/b].
+    Provisions similar to those in this section were contained in [Pub. L. 97–86, title I][/us/pl/97/86/tI], § 103, Dec. 1, 1981, [95 Stat. 1100][/us/stat/95/1100], as amended, which was set out as a note under [section 2407 of this title][/us/usc/t10/s2407], prior to repeal by [Pub. L. 101–189][/us/pl/101/189], § 932(b).
 
  __Amendments__ 
 
     1993—Subsec. (d). [Pub. L. 103–160][/us/pl/103/160] struck out subsec. (d) which read as follows: “Expiration.—The authority provided by this section expires on September 30, 1993.”
 
-    1991—Subsec. (c)(3), (4). [Pub. L. 102–190, § 1051(1)][/us/pl/102/190/s1051/1], added par. (3) and redesignated former par. (3) as (4).
+    1991—Subsec. (c)(3), (4). [Pub. L. 102–190][/us/pl/102/190], § 1051(1), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (d). [Pub. L. 102–190, § 1051(2)][/us/pl/102/190/s1051/2], substituted “1993” for “1991”.
+    Subsec. (d). [Pub. L. 102–190][/us/pl/102/190], § 1051(2), substituted “1993” for “1991”.
 
 ----------
 
@@ -88,18 +88,18 @@
 ----------
 ----------
 
-[/us/pl/101/189/s932/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs932%2Fa%2F1
+[/us/pl/101/189/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIX
 [/us/stat/103/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1536
-[/us/pl/102/190/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1051
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1470
-[/us/pl/103/160/s1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1413
+[/us/pl/103/160/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIV
 [/us/stat/107/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1829
-[/us/pl/97/86/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs103
+[/us/pl/97/86/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtI
 [/us/stat/95/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1100
 [/us/usc/t10/s2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2407
-[/us/pl/101/189/s932/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs932%2Fb
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
-[/us/pl/102/190/s1051/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1051%2F1
-[/us/pl/102/190/s1051/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1051%2F2
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 
 

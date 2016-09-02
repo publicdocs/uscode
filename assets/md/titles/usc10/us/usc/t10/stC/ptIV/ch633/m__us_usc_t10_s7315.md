@@ -57,7 +57,7 @@
 
         (2) In a shipbuilding capability preservation agreement applicable to a shipbuilder, the Secretary may agree to apply the cost reimbursement rules set forth in subsection (b) to allocations of indirect costs to private sector work performed by the shipbuilder only with respect to costs that the shipbuilder incurred on or after November 18, 1997, under a contract between the shipbuilder and a private sector customer of the shipbuilder that became effective on or after January 26, 1996.
 
-(Added [Pub. L. 105–85, div. A, title X, § 1027(a)(1)][/us/pl/105/85/s1027/a/1], Nov. 18, 1997, [111 Stat. 1878][/us/stat/111/1878]; amended [Pub. L. 106–65, div. A, title X, § 1066(a)(29)][/us/pl/106/65/s1066/a/29], Oct. 5, 1999, [113 Stat. 772][/us/stat/113/772].)
+(Added [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1027(a)(1), Nov. 18, 1997, [111 Stat. 1878][/us/stat/111/1878]; amended [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1066(a)(29), Oct. 5, 1999, [113 Stat. 772][/us/stat/113/772].)
 
  __Amendments__ 
 
@@ -65,7 +65,7 @@
 
  __Procedures for Applications and for Consideration of Agreements__ 
 
-[Pub. L. 105–85, div. A, title X, § 1027(b)][/us/pl/105/85/s1027/b], Nov. 18, 1997, [111 Stat. 1880][/us/stat/111/1880], provided that: 
+[Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1027(b), Nov. 18, 1997, [111 Stat. 1880][/us/stat/111/1880], provided that: 
 
 > “Not later than 30 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Secretary of the Navy shall establish application procedures and procedures for expeditious consideration of shipbuilding capability preservation agreements as authorized by [section 7315 of title 10][/us/usc/t10/s7315], United States Code, as added by subsection (a).”
 
@@ -78,12 +78,12 @@
 
 [/us/usc/t10/s2501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501%2Fb
 [/us/usc/t10/s2501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501%2Fb
-[/us/pl/105/85/s1027/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1027%2Fa%2F1
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1878
-[/us/pl/106/65/s1066/a/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fa%2F29
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F772
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/105/85/s1027/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1027%2Fb
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1880
 [/us/usc/t10/s7315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7315
 

@@ -47,11 +47,11 @@
 
         (2) in the case of a court-martial composed of a military judge only, the military judge determines that the defense of lack of mental responsibility has been established.
 
-(Added [Pub. L. 99–661, div. A, title VIII, § 802(a)(1)][/us/pl/99/661/s802/a/1], Nov. 14, 1986, [100 Stat. 3905][/us/stat/100/3905].)
+(Added [Pub. L. 99–661, div. A, title VIII][/us/pl/99/661/dA/tVIII], § 802(a)(1), Nov. 14, 1986, [100 Stat. 3905][/us/stat/100/3905].)
 
  __Effective Date__ 
 
-[Pub. L. 99–661, div. A, title VIII, § 802(b)][/us/pl/99/661/s802/b], Nov. 14, 1986, [100 Stat. 3906][/us/stat/100/3906], provided that: 
+[Pub. L. 99–661, div. A, title VIII][/us/pl/99/661/dA/tVIII], § 802(b), Nov. 14, 1986, [100 Stat. 3906][/us/stat/100/3906], provided that: 
 
 > “[Section 850a of title 10][/us/usc/t10/s850a], United States Code, as added by subsection (a)(1), shall apply only to offenses committed on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
@@ -63,9 +63,9 @@
 ----------
 
 [/us/usc/t10/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs852
-[/us/pl/99/661/s802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs802%2Fa%2F1
+[/us/pl/99/661/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVIII
 [/us/stat/100/3905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3905
-[/us/pl/99/661/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs802%2Fb
+[/us/pl/99/661/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVIII
 [/us/stat/100/3906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3906
 [/us/usc/t10/s850a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs850a
 

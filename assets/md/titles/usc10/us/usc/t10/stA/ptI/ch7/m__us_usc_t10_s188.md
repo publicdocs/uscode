@@ -95,17 +95,17 @@
 
             (B) each national laboratory of the Department of Energy.
 
-(Added [Pub. L. 112–239, div. A, title X, § 1040(a)][/us/pl/112/239/s1040/a], Jan. 2, 2013, [126 Stat. 1928][/us/stat/126/1928].)
+(Added [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1040(a), Jan. 2, 2013, [126 Stat. 1928][/us/stat/126/1928].)
 
  __Construction__ 
 
-[Pub. L. 112–239, div. A, title X, § 1040(d)][/us/pl/112/239/s1040/d], Jan. 2, 2013, [126 Stat. 1931][/us/stat/126/1931], provided that: 
+[Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1040(d), Jan. 2, 2013, [126 Stat. 1931][/us/stat/126/1931], provided that: 
 
 > “Nothing in [section 188 of title 10][/us/usc/t10/s188], United States Code, as added by subsection (a), shall be construed to limit section 309 of the Homeland Security Act of 2002 ([6 U.S.C. 189][/us/usc/t6/s189]).”
 
  __Report__ 
 
-[Pub. L. 112–239, div. A, title X, § 1040(c)][/us/pl/112/239/s1040/c], Jan. 2, 2013, [126 Stat. 1930][/us/stat/126/1930], provided that:
+[Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1040(c), Jan. 2, 2013, [126 Stat. 1930][/us/stat/126/1930], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -159,13 +159,13 @@
 ----------
 
 [/us/usc/t50/s2471/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2471%2F1
-[/us/pl/112/239/s1040/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1040%2Fa
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1928
-[/us/pl/112/239/s1040/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1040%2Fd
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1931
 [/us/usc/t10/s188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs188
 [/us/usc/t6/s189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs189
-[/us/pl/112/239/s1040/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1040%2Fc
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1930
 [/us/usc/t10/s188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs188
 

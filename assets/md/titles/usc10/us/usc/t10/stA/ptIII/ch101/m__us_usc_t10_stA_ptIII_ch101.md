@@ -179,51 +179,51 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–291, div. A, title V, § 551(b)][/us/pl/113/291/s551/b], Dec. 19, 2014, [128 Stat. 3377][/us/stat/128/3377], substituted “Program to assist members in obtaining professional credentials” for “Payment of expenses to obtain professional credentials” in item 2015.
+    2014—[Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 551(b), Dec. 19, 2014, [128 Stat. 3377][/us/stat/128/3377], substituted “Program to assist members in obtaining professional credentials” for “Payment of expenses to obtain professional credentials” in item 2015.
 
-    2013—[Pub. L. 113–66, div. A, title V, § 541(b)][/us/pl/113/66/s541/b], Dec. 26, 2013, [127 Stat. 762][/us/stat/127/762], added item 2006a.
+    2013—[Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 541(b), Dec. 26, 2013, [127 Stat. 762][/us/stat/127/762], added item 2006a.
 
-    2009—[Pub. L. 111–84, div. A, title V][/us/pl/111/84], §§ 521(b), 525(b)(2), Oct. 28, 2009, [123 Stat. 2285][/us/stat/123/2285], 2287, added items 2004b and 2016.
+    2009—[Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], §§ 521(b), 525(b)(2), Oct. 28, 2009, [123 Stat. 2285][/us/stat/123/2285], 2287, added items 2004b and 2016.
 
-    2006—[Pub. L. 109–364, div. A, title V, § 536(b)][/us/pl/109/364/s536/b], Oct. 17, 2006, [120 Stat. 2209][/us/stat/120/2209], added item 2004a.
+    2006—[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 536(b), Oct. 17, 2006, [120 Stat. 2209][/us/stat/120/2209], added item 2004a.
 
-    [Pub. L. 109–163, div. A, title V, § 538(b)][/us/pl/109/163/s538/b], Jan. 6, 2006, [119 Stat. 3250][/us/stat/119/3250], added item 2015.
+    [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 538(b), Jan. 6, 2006, [119 Stat. 3250][/us/stat/119/3250], added item 2015.
 
-    1997—[Pub. L. 105–85, div. A, title III, § 325(b)][/us/pl/105/85/s325/b], Nov. 18, 1997, [111 Stat. 1679][/us/stat/111/1679], added item 2014.
+    1997—[Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 325(b), Nov. 18, 1997, [111 Stat. 1679][/us/stat/111/1679], added item 2014.
 
-    1996—[Pub. L. 104–201, div. A, title III, § 362(a)(2)][/us/pl/104/201/s362/a/2], Sept. 23, 1996, [110 Stat. 2493][/us/stat/110/2493], added item 2013.
+    1996—[Pub. L. 104–201, div. A, title III][/us/pl/104/201/dA/tIII], § 362(a)(2), Sept. 23, 1996, [110 Stat. 2493][/us/stat/110/2493], added item 2013.
 
-    [Pub. L. 104–106, div. A, title V, § 572(b)][/us/pl/104/106/s572/b], Feb. 10, 1996, [110 Stat. 355][/us/stat/110/355], added item 2012.
+    [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 572(b), Feb. 10, 1996, [110 Stat. 355][/us/stat/110/355], added item 2012.
 
-    1994—[Pub. L. 103–337, div. A, title XVI, § 1671(b)(12)][/us/pl/103/337/s1671/b/12], Oct. 5, 1994, [108 Stat. 3014][/us/stat/108/3014], struck out item 2001 “Reserve components”.
+    1994—[Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1671(b)(12), Oct. 5, 1994, [108 Stat. 3014][/us/stat/108/3014], struck out item 2001 “Reserve components”.
 
-    1991—[Pub. L. 102–190, div. A, title X, § 1052(a)(2)][/us/pl/102/190/s1052/a/2], Dec. 5, 1991, [105 Stat. 1471][/us/stat/105/1471], added item 2011.
+    1991—[Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1052(a)(2), Dec. 5, 1991, [105 Stat. 1471][/us/stat/105/1471], added item 2011.
 
-    1990—[Pub. L. 101–510, div. A, title XIV, § 1484(i)(3)(B)][/us/pl/101/510/s1484/i/3/B], (4)(B), Nov. 5, 1990, [104 Stat. 1718][/us/stat/104/1718], struck out “of the military departments” after “officers” in item 2004 and substituted “Payment” for “Limitation on payment” in item 2007.
+    1990—[Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1484(i)(3)(B), (4)(B), Nov. 5, 1990, [104 Stat. 1718][/us/stat/104/1718], struck out “of the military departments” after “officers” in item 2004 and substituted “Payment” for “Limitation on payment” in item 2007.
 
-    1986—[Pub. L. 99–661, div. A, title XIII, § 1321(a)(2)][/us/pl/99/661/s1321/a/2], Nov. 14, 1986, [100 Stat. 3988][/us/stat/100/3988], added item 2010.
+    1986—[Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1321(a)(2), Nov. 14, 1986, [100 Stat. 3988][/us/stat/100/3988], added item 2010.
 
-    1984—[Pub. L. 98–525, title VII, § 706(a)(2)][/us/pl/98/525/s706/a/2], title XIV, §§ 1401(g)(2), 1405(31), Oct. 19, 1984, [98 Stat. 2570][/us/stat/98/2570], 2619, 2624, substituted a colon for a semicolon in item 2003 and added items 2006 to 2009.
+    1984—[Pub. L. 98–525, title VII][/us/pl/98/525/tVII], § 706(a)(2), title XIV, §§ 1401(g)(2), 1405(31), Oct. 19, 1984, [98 Stat. 2570][/us/stat/98/2570], 2619, 2624, substituted a colon for a semicolon in item 2003 and added items 2006 to 2009.
 
-    1980—[Pub. L. 96–357, § 2(b)][/us/pl/96/357/s2/b], Sept. 24, 1980, [94 Stat. 1182][/us/stat/94/1182], added item 2005.
+    1980—[Pub. L. 96–357][/us/pl/96/357], § 2(b), Sept. 24, 1980, [94 Stat. 1182][/us/stat/94/1182], added item 2005.
 
-    1973—[Pub. L. 93–155, title VIII, § 817(b)][/us/pl/93/155/s817/b], Nov. 16, 1973, [87 Stat. 622][/us/stat/87/622], added item 2004.
+    1973—[Pub. L. 93–155, title VIII][/us/pl/93/155/tVIII], § 817(b), Nov. 16, 1973, [87 Stat. 622][/us/stat/87/622], added item 2004.
 
-    1971—[Pub. L. 92–168, § 4(2)][/us/pl/92/168/s4/2], Nov. 24, 1971, [85 Stat. 489][/us/stat/85/489], added item 2003.
+    1971—[Pub. L. 92–168][/us/pl/92/168], § 4(2), Nov. 24, 1971, [85 Stat. 489][/us/stat/85/489], added item 2003.
 
-    1970—[Pub. L. 91–278, § 2(3)][/us/pl/91/278/s2/3], June 12, 1970, [84 Stat. 306][/us/stat/84/306], substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps” in item 2002.
+    1970—[Pub. L. 91–278][/us/pl/91/278], § 2(3), June 12, 1970, [84 Stat. 306][/us/stat/84/306], substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps” in item 2002.
 
-    1965—[Pub. L. 89–160, § 1(2)][/us/pl/89/160/s1/2], Sept. 1, 1965, [79 Stat. 615][/us/stat/79/615], added item 2002.
+    1965—[Pub. L. 89–160][/us/pl/89/160], § 1(2), Sept. 1, 1965, [79 Stat. 615][/us/stat/79/615], added item 2002.
 
  __Policy on Active Shooter Training for Certain Law Enforcement Personnel__ 
 
-[Pub. L. 112–81, div. A, title III, § 367][/us/pl/112/81/s367], Dec. 31, 2011, [125 Stat. 1381][/us/stat/125/1381], provided that: 
+[Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 367, Dec. 31, 2011, [125 Stat. 1381][/us/stat/125/1381], provided that: 
 
 > “The Secretary of Defense shall establish policy and promulgate guidelines to ensure civilian and military law enforcement personnel charged with security functions on military installations shall receive Active Shooter Training as described in finding 4.3 of the document entitled ‘Protecting the Force: Lessons From Fort Hood’.”
 
  __Language Training Centers for Members of the Armed Forces and Civilian Employees of the Department of Defense__ 
 
-[Pub. L. 111–84, div. A, title V, § 529][/us/pl/111/84/s529], Oct. 28, 2009, [123 Stat. 2290][/us/stat/123/2290], provided that:
+[Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 529, Oct. 28, 2009, [123 Stat. 2290][/us/stat/123/2290], provided that:
 
 >     “(a)  __Program Authorized__  __.—__ 
 
@@ -296,45 +296,45 @@
 ----------
 ----------
 
-[/us/pl/113/291/s551/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs551%2Fb
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3377
-[/us/pl/113/66/s541/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs541%2Fb
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F762
-[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2285
-[/us/pl/109/364/s536/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs536%2Fb
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2209
-[/us/pl/109/163/s538/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs538%2Fb
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3250
-[/us/pl/105/85/s325/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs325%2Fb
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1679
-[/us/pl/104/201/s362/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs362%2Fa%2F2
+[/us/pl/104/201/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIII
 [/us/stat/110/2493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2493
-[/us/pl/104/106/s572/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs572%2Fb
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F355
-[/us/pl/103/337/s1671/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1671%2Fb%2F12
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3014
-[/us/pl/102/190/s1052/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1052%2Fa%2F2
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1471
-[/us/pl/101/510/s1484/i/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484%2Fi%2F3%2FB
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1718
-[/us/pl/99/661/s1321/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1321%2Fa%2F2
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3988
-[/us/pl/98/525/s706/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs706%2Fa%2F2
+[/us/pl/98/525/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVII
 [/us/stat/98/2570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2570
-[/us/pl/96/357/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F357%2Fs2%2Fb
+[/us/pl/96/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F357
 [/us/stat/94/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1182
-[/us/pl/93/155/s817/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2Fs817%2Fb
+[/us/pl/93/155/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2FtVIII
 [/us/stat/87/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F622
-[/us/pl/92/168/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F168%2Fs4%2F2
+[/us/pl/92/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F168
 [/us/stat/85/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F489
-[/us/pl/91/278/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278%2Fs2%2F3
+[/us/pl/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278
 [/us/stat/84/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F306
-[/us/pl/89/160/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F160%2Fs1%2F2
+[/us/pl/89/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F160
 [/us/stat/79/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F615
-[/us/pl/112/81/s367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs367
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1381
-[/us/pl/111/84/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs529
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2290
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4468

@@ -17,7 +17,7 @@
 
     A member of the program who is selected for advanced training under [section 2104 of this title][/us/usc/t10/s2104], and who does not complete the course of instruction, or who completes the course but declines to accept a commission when offered, may be ordered to active duty by the Secretary of the military department concerned to serve in his enlisted grade or rating for such period of time as the Secretary prescribes but not for more than two years. If the member does not complete the period of active duty prescribed by the Secretary concerned, the member shall be subject to the repayment provisions of [section 303a(e) of title 37][/us/usc/t37/s303a/e].
 
-(Added [Pub. L. 88–647, title II, § 201(1)][/us/pl/88/647/s201/1], Oct. 13, 1964, [78 Stat. 1066][/us/stat/78/1066]; amended [Pub. L. 109–163, div. A, title VI, § 687(c)(4)][/us/pl/109/163/s687/c/4], Jan. 6, 2006, [119 Stat. 3334][/us/stat/119/3334]; [Pub. L. 109–364, div. A, title X, § 1071(a)(11)][/us/pl/109/364/s1071/a/11], Oct. 17, 2006, [120 Stat. 2398][/us/stat/120/2398].)
+(Added [Pub. L. 88–647, title II][/us/pl/88/647/tII], § 201(1), Oct. 13, 1964, [78 Stat. 1066][/us/stat/78/1066]; amended [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 687(c)(4), Jan. 6, 2006, [119 Stat. 3334][/us/stat/119/3334]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(11), Oct. 17, 2006, [120 Stat. 2398][/us/stat/120/2398].)
 
  __Amendments__ 
 
@@ -38,11 +38,11 @@
 
 [/us/usc/t10/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2104
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/88/647/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2Fs201%2F1
+[/us/pl/88/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2FtII
 [/us/stat/78/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1066
-[/us/pl/109/163/s687/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fc%2F4
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3334
-[/us/pl/109/364/s1071/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F11
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2398
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163

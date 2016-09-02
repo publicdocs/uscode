@@ -27,15 +27,15 @@
 
     The Secretary concerned may require members of the armed forces who lease housing in housing units acquired or constructed under this subchapter to make lease payments for such housing pursuant to allotments of the pay of such members under [section 701 of title 37][/us/usc/t37/s701].
 
-(Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)][/us/pl/104/106/s2801/a/1], Feb. 10, 1996, [110 Stat. 548][/us/stat/110/548]; amended [Pub. L. 105–85, div. A, title VI, § 603(d)(2)(C)][/us/pl/105/85/s603/d/2/C], Nov. 18, 1997, [111 Stat. 1783][/us/stat/111/1783]; [Pub. L. 110–417, div. B, title XXVIII, § 2805(e)(1)][/us/pl/110/417/s2805/e/1], Oct. 14, 2008, [122 Stat. 4723][/us/stat/122/4723].)
+(Added [Pub. L. 104–106, div. B, title XXVIII][/us/pl/104/106/dB/tXXVIII], § 2801(a)(1), Feb. 10, 1996, [110 Stat. 548][/us/stat/110/548]; amended [Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 603(d)(2)(C), Nov. 18, 1997, [111 Stat. 1783][/us/stat/111/1783]; [Pub. L. 110–417, div. B, title XXVIII][/us/pl/110/417/dB/tXXVIII], § 2805(e)(1), Oct. 14, 2008, [122 Stat. 4723][/us/stat/122/4723].)
 
  __Amendments__ 
 
     2008—[Pub. L. 110–417][/us/pl/110/417] amended section generally. Prior to amendment, section related to assignment of members of the armed forces to housing units by the Secretary concerned, treatment of such housing as quarters of the United States, entitlement to a basic allowance for housing, and making of lease payments through pay allotments.
 
-    1997—Subsec. (b)(1). [Pub. L. 105–85, § 603(d)(2)(C)(i)][/us/pl/105/85/s603/d/2/C/i], substituted “section 403” for “section 403(b)”.
+    1997—Subsec. (b)(1). [Pub. L. 105–85][/us/pl/105/85], § 603(d)(2)(C)(i), substituted “section 403” for “section 403(b)”.
 
-    Subsec. (b)(2). [Pub. L. 105–85, § 603(d)(2)(C)(ii)][/us/pl/105/85/s603/d/2/C/ii], substituted “basic allowance for housing under [section 403 of title 37][/us/usc/t37/s403]” for “basic allowance for quarters under [section 403 of title 37][/us/usc/t37/s403] and, if in a high housing cost area, a variable housing allowance under section 403a of that title”.
+    Subsec. (b)(2). [Pub. L. 105–85][/us/pl/105/85], § 603(d)(2)(C)(ii), substituted “basic allowance for housing under [section 403 of title 37][/us/usc/t37/s403]” for “basic allowance for quarters under [section 403 of title 37][/us/usc/t37/s403] and, if in a high housing cost area, a variable housing allowance under section 403a of that title”.
 
  __Effective Date of 1997 Amendment__ 
 
@@ -51,15 +51,15 @@
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
 [/us/usc/t37/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs701
-[/us/pl/104/106/s2801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2801%2Fa%2F1
+[/us/pl/104/106/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdB%2FtXXVIII
 [/us/stat/110/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F548
-[/us/pl/105/85/s603/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs603%2Fd%2F2%2FC
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1783
-[/us/pl/110/417/s2805/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs2805%2Fe%2F1
+[/us/pl/110/417/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdB%2FtXXVIII
 [/us/stat/122/4723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4723
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/105/85/s603/d/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs603%2Fd%2F2%2FC%2Fi
-[/us/pl/105/85/s603/d/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs603%2Fd%2F2%2FC%2Fii
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85

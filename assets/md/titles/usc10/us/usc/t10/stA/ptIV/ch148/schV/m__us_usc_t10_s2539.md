@@ -27,11 +27,11 @@
 
     The Secretary of Defense may prepare comprehensive plans for converting each plant listed pursuant to subsection (b) into a factory for the manufacture of ammunition or parts thereof.
 
-(Added [Pub. L. 103–160, div. A, title VIII, § 822(a)(1)][/us/pl/103/160/s822/a/1], Nov. 30, 1993, [107 Stat. 1705][/us/stat/107/1705].)
+(Added [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 822(a)(1), Nov. 30, 1993, [107 Stat. 1705][/us/stat/107/1705].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 4502(a)–(c) and 9502(a)–(c) of this title, prior to repeal by [Pub. L. 103–160, § 822(a)(2)][/us/pl/103/160/s822/a/2].
+    Provisions similar to those in this section were contained in sections 4502(a)–(c) and 9502(a)–(c) of this title, prior to repeal by [Pub. L. 103–160][/us/pl/103/160], § 822(a)(2).
 
 ----------
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/103/160/s822/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs822%2Fa%2F1
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1705
-[/us/pl/103/160/s822/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs822%2Fa%2F2
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 
 

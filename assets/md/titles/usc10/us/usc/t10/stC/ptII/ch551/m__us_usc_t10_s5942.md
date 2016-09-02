@@ -25,7 +25,7 @@
 
     (c) To be eligible to command a Marine Corps aviation school, a Marine Corps air station, or a Marine Corps aviation unit organized for flight tactical purposes, an officer must be an officer of the Marine Corps designated as a naval aviator or naval flight officer.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 371][/us/stat/70A/371]; [Pub. L. 91–198, § 1(1)][/us/pl/91/198/s1/1], Feb. 26, 1970, [84 Stat. 15][/us/stat/84/15]; [Pub. L. 113–291, div. A, title V, § 507][/us/pl/113/291/s507], Dec. 19, 2014, [128 Stat. 3357][/us/stat/128/3357].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 371][/us/stat/70A/371]; [Pub. L. 91–198][/us/pl/91/198], § 1(1), Feb. 26, 1970, [84 Stat. 15][/us/stat/84/15]; [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 507, Dec. 19, 2014, [128 Stat. 3357][/us/stat/128/3357].)
 
 <table>
 
@@ -103,7 +103,7 @@ June 24, 1926, ch. 668, § 3 (7th par.), 44 Stat. 767.  </td>
 
 </table>
 
-    The last proviso of [§ 8 of the Act of July 12, 1921, ch. 44][/us/act/1921-07-12/ch44/s8] ([34 U.S.C. 734][/us/usc/t34/s734]), was superseded by paragraphs 4, 5, and 7 of [§ 3 of the Act of June 24, 1926, ch. 668][/us/act/1926-06-24/ch668/s3] ([34 U.S.C. 735][/us/usc/t34/s735]), insofar as ships and activities mentioned in those paragraphs are concerned. The requirements of this section are stated as conditions of eligibility for clarity.
+    The last proviso of § 8 of the [Act of July 12, 1921, ch. 44][/us/act/1921-07-12/ch44] ([34 U.S.C. 734][/us/usc/t34/s734]), was superseded by paragraphs 4, 5, and 7 of § 3 of the [Act of June 24, 1926, ch. 668][/us/act/1926-06-24/ch668] ([34 U.S.C. 735][/us/usc/t34/s735]), insofar as ships and activities mentioned in those paragraphs are concerned. The requirements of this section are stated as conditions of eligibility for clarity.
 
  __Amendments__ 
 
@@ -122,13 +122,13 @@ June 24, 1926, ch. 668, § 3 (7th par.), 44 Stat. 767.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F371
-[/us/pl/91/198/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F198%2Fs1%2F1
+[/us/pl/91/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F198
 [/us/stat/84/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F15
-[/us/pl/113/291/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs507
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3357
-[/us/act/1921-07-12/ch44/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-07-12%2Fch44%2Fs8
+[/us/act/1921-07-12/ch44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-07-12%2Fch44
 [/us/usc/t34/s734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs734
-[/us/act/1926-06-24/ch668/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-06-24%2Fch668%2Fs3
+[/us/act/1926-06-24/ch668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-06-24%2Fch668
 [/us/usc/t34/s735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs735
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/91/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F198

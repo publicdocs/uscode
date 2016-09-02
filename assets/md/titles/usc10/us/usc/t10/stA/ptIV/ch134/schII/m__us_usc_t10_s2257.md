@@ -17,7 +17,7 @@
 
     The Secretary of Defense may use for public relations purposes of the Department of Defense any advertising materials developed for use for recruitment and retention of personnel for the armed forces. Any such use shall be under such conditions and subject to such restrictions as the Secretary of Defense shall prescribe.
 
-(Added [Pub. L. 106–65, div. A, title V, § 574(a)][/us/pl/106/65/s574/a], Oct. 5, 1999, [113 Stat. 624][/us/stat/113/624].)
+(Added [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 574(a), Oct. 5, 1999, [113 Stat. 624][/us/stat/113/624].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/65/s574/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs574%2Fa
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F624
 
 

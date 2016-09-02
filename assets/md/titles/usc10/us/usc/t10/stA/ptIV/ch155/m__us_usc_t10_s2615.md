@@ -27,7 +27,7 @@
 
     For purposes of subsection (a), an authorized cooperative agreement is described in [section 6305 of title 31][/us/usc/t31/s6305], except that the use of a cooperative agreement by the Secretary concerned is limited to nonprofit entities.
 
-(Added [Pub. L. 112–239, div. B, title XXVIII, § 2852(b)(1)][/us/pl/112/239/s2852/b/1], Jan. 2, 2013, [126 Stat. 2161][/us/stat/126/2161].)
+(Added [Pub. L. 112–239, div. B, title XXVIII][/us/pl/112/239/dB/tXXVIII], § 2852(b)(1), Jan. 2, 2013, [126 Stat. 2161][/us/stat/126/2161].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t31/s6305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6305
-[/us/pl/112/239/s2852/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2852%2Fb%2F1
+[/us/pl/112/239/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdB%2FtXXVIII
 [/us/stat/126/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2161
 
 

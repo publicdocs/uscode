@@ -19,7 +19,7 @@
 
     (b) The number of years of creditable service upon which retired pay is computed may be adjusted to correct any error, miscalculation, misinformation, or administrative determination and when such a correction is made the person is entitled to retired pay in accordance with the number of years of creditable service, as corrected, from the date the person is granted retired pay.
 
-(Added [Pub. L. 89–652, § 2(1)][/us/pl/89/652/s2/1], Oct. 14, 1966, [80 Stat. 902][/us/stat/80/902], § 1406; renumbered § 1338 and amended [Pub. L. 99–348, title I, § 104(a)][/us/pl/99/348/s104/a], July 1, 1986, [100 Stat. 686][/us/stat/100/686]; renumbered § 12738 and amended [Pub. L. 103–337, div. A, title XVI, § 1662(j)(1)][/us/pl/103/337/s1662/j/1], Oct. 5, 1994, [108 Stat. 2998][/us/stat/108/2998], 3003.)
+(Added [Pub. L. 89–652][/us/pl/89/652], § 2(1), Oct. 14, 1966, [80 Stat. 902][/us/stat/80/902], § 1406; renumbered § 1338 and amended [Pub. L. 99–348, title I][/us/pl/99/348/tI], § 104(a), July 1, 1986, [100 Stat. 686][/us/stat/100/686]; renumbered § 12738 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(j)(1), Oct. 5, 1994, [108 Stat. 2998][/us/stat/108/2998], 3003.)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Entitlement to Retirement Pay After__  __October 14, 1966__  __; Conclusiveness__ 
 
-[Pub. L. 89–652, § 3][/us/pl/89/652/s3], Oct. 14, 1966, [80 Stat. 902][/us/stat/80/902], provided that: 
+[Pub. L. 89–652][/us/pl/89/652], § 3, Oct. 14, 1966, [80 Stat. 902][/us/stat/80/902], provided that: 
 
 > “Notwithstanding section 1406 \[now 12738\] of title 10, United States Code, as added by this Act—
 
@@ -50,11 +50,11 @@
 
 [/us/usc/t10/s12731/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12731%2Fd
 [/us/usc/t10/s12731/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12731%2Fa%2F2
-[/us/pl/89/652/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F652%2Fs2%2F1
+[/us/pl/89/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F652
 [/us/stat/80/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F902
-[/us/pl/99/348/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs104%2Fa
+[/us/pl/99/348/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtI
 [/us/stat/100/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F686
-[/us/pl/103/337/s1662/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fj%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2998
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1338
@@ -63,7 +63,7 @@
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
-[/us/pl/89/652/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F652%2Fs3
+[/us/pl/89/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F652
 [/us/stat/80/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F902
 
 

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptI/ch23/m__us_usc_t10_s488.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch23/m__us_usc_t10_s490.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs489)
 
-## \[§ 489. Repealed. [Pub. L. 113–291, div. A, title III, § 331(a)][/us/pl/113/291/s331/a], Dec. 19, 2014, [128 Stat. 3344][/us/stat/128/3344]\]
+## \[§ 489. Repealed. [Pub. L. 113–291, div. A, title III][/us/pl/113/291/dA/tIII], § 331(a), Dec. 19, 2014, [128 Stat. 3344][/us/stat/128/3344]\]
 
-    Section, added [Pub. L. 108–375, div. A, title X, § 1033(a)][/us/pl/108/375/s1033/a], Oct. 28, 2004, [118 Stat. 2047][/us/stat/118/2047], related to annual report on Department of Defense operation and financial support for military museums.
+    Section, added [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1033(a), Oct. 28, 2004, [118 Stat. 2047][/us/stat/118/2047], related to annual report on Department of Defense operation and financial support for military museums.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/113/291/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs331%2Fa
+[/us/pl/113/291/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIII
 [/us/stat/128/3344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3344
-[/us/pl/108/375/s1033/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1033%2Fa
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2047
 
 

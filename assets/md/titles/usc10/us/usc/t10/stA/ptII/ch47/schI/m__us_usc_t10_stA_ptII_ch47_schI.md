@@ -165,9 +165,9 @@ Rights of the victim of an offense under this chapter.  </td>
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–66, div. A, title XVII, § 1701(a)(2)][/us/pl/113/66/s1701/a/2], Dec. 26, 2013, [127 Stat. 953][/us/stat/127/953], added item 806b.
+    2013—[Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1701(a)(2), Dec. 26, 2013, [127 Stat. 953][/us/stat/127/953], added item 806b.
 
-    1989—[Pub. L. 101–189, div. A, title XIII, § 1304(a)(2)][/us/pl/101/189/s1304/a/2], Nov. 29, 1989, [103 Stat. 1576][/us/stat/103/1576], added item 806a.
+    1989—[Pub. L. 101–189, div. A, title XIII][/us/pl/101/189/dA/tXIII], § 1304(a)(2), Nov. 29, 1989, [103 Stat. 1576][/us/stat/103/1576], added item 806a.
 
 ----------
 
@@ -176,9 +176,9 @@ Rights of the victim of an offense under this chapter.  </td>
 ----------
 ----------
 
-[/us/pl/113/66/s1701/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1701%2Fa%2F2
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F953
-[/us/pl/101/189/s1304/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1304%2Fa%2F2
+[/us/pl/101/189/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXIII
 [/us/stat/103/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1576
 
 

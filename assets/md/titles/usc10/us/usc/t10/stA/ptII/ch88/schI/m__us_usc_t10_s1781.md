@@ -31,11 +31,11 @@
 
     The Office shall have not less than five professional staff members.
 
-(Added [Pub. L. 104–106, div. A, title V, § 568(a)(1)][/us/pl/104/106/s568/a/1], Feb. 10, 1996, [110 Stat. 330][/us/stat/110/330]; amended [Pub. L. 111–383, div. A, title IX, § 901(h)][/us/pl/111/383/s901/h], Jan. 7, 2011, [124 Stat. 4323][/us/stat/124/4323]; [Pub. L. 112–239, div. A, title X, § 1076(f)(21)][/us/pl/112/239/s1076/f/21], Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 568(a)(1), Feb. 10, 1996, [110 Stat. 330][/us/stat/110/330]; amended [Pub. L. 111–383, div. A, title IX][/us/pl/111/383/dA/tIX], § 901(h), Jan. 7, 2011, [124 Stat. 4323][/us/stat/124/4323]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(f)(21), Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this subchapter were contained in [Pub. L. 99–145, title VIII][/us/pl/99/145], Nov. 8, 1985, [99 Stat. 678][/us/stat/99/678], as amended, which was set out as a note under [section 113 of this title][/us/usc/t10/s113], prior to repeal by [Pub. L. 104–106, § 568(e)(1)][/us/pl/104/106/s568/e/1].
+    Provisions similar to those in this subchapter were contained in [Pub. L. 99–145, title VIII][/us/pl/99/145/tVIII], Nov. 8, 1985, [99 Stat. 678][/us/stat/99/678], as amended, which was set out as a note under [section 113 of this title][/us/usc/t10/s113], prior to repeal by [Pub. L. 104–106][/us/pl/104/106], § 568(e)(1).
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 
  __Establishment of Online Resources To Provide Information About Benefits and Services Available to Members of the Armed Forces and Their Families__ 
 
-[Pub. L. 111–84, div. A, title V, § 561][/us/pl/111/84/s561], Oct. 28, 2009, [123 Stat. 2302][/us/stat/123/2302], provided that:
+[Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 561, Oct. 28, 2009, [123 Stat. 2302][/us/stat/123/2302], provided that:
 
 >     “(a) __Internet Outreach Website.—__ 
 
@@ -107,11 +107,11 @@
 
  __Education and Treatment Services for Military Dependent Children With Autism__ 
 
-    [Pub. L. 110–181, div. A, title V, § 587][/us/pl/110/181/s587], Jan. 28, 2008, [122 Stat. 133][/us/stat/122/133], which related to comprehensive assessment of the availability of Federal, State, and local education and treatment services for military dependent children with autism, was repealed by [Pub. L. 111–84, div. A, title V, § 563(a)(3)][/us/pl/111/84/s563/a/3], Oct. 28, 2009, [123 Stat. 2307][/us/stat/123/2307].
+    [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 587, Jan. 28, 2008, [122 Stat. 133][/us/stat/122/133], which related to comprehensive assessment of the availability of Federal, State, and local education and treatment services for military dependent children with autism, was repealed by [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 563(a)(3), Oct. 28, 2009, [123 Stat. 2307][/us/stat/123/2307].
 
  __Joint Family Support Assistance Program__ 
 
-[Pub. L. 109–364, div. A, title VI, § 675][/us/pl/109/364/s675], Oct. 17, 2006, [120 Stat. 2273][/us/stat/120/2273], as amended by [Pub. L. 111–383, div. A, title V, § 584][/us/pl/111/383/s584], Jan. 7, 2011, [124 Stat. 4228][/us/stat/124/4228], provided that:
+[Pub. L. 109–364, div. A, title VI][/us/pl/109/364/dA/tVI], § 675, Oct. 17, 2006, [120 Stat. 2273][/us/stat/120/2273], as amended by [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 584, Jan. 7, 2011, [124 Stat. 4228][/us/stat/124/4228], provided that:
 
 >     “(a)  __Program Required__  __.—__ 
 
@@ -183,7 +183,7 @@
 
  __Recognition of Military Families__ 
 
-[Pub. L. 108–136, div. A, title V, § 581][/us/pl/108/136/s581], Nov. 24, 2003, [117 Stat. 1489][/us/stat/117/1489], provided that:
+[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 581, Nov. 24, 2003, [117 Stat. 1489][/us/stat/117/1489], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -218,32 +218,32 @@
 ----------
 ----------
 
-[/us/pl/104/106/s568/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs568%2Fa%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F330
-[/us/pl/111/383/s901/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fh
+[/us/pl/111/383/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIX
 [/us/stat/124/4323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4323
-[/us/pl/112/239/s1076/f/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F21
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1952
-[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVIII
 [/us/stat/99/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F678
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
-[/us/pl/104/106/s568/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs568%2Fe%2F1
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/383/s901/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fp
 [/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
-[/us/pl/111/84/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs561
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2302
-[/us/pl/110/181/s587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs587
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F133
-[/us/pl/111/84/s563/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs563%2Fa%2F3
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2307
-[/us/pl/109/364/s675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs675
+[/us/pl/109/364/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVI
 [/us/stat/120/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2273
-[/us/pl/111/383/s584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs584
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4228
-[/us/pl/108/136/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs581
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1489
 
 

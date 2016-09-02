@@ -49,7 +49,7 @@
 
     (7) The term “collective bargaining agreement” has the meaning given such term in [section 7103(8) of title 5][/us/usc/t5/s7103/8].
 
-(Added [Pub. L. 104–201, div. A, title XVI, § 1632(d)][/us/pl/104/201/s1632/d], Sept. 23, 1996, [110 Stat. 2750][/us/stat/110/2750]; amended [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1141(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–319; [Pub. L. 108–136, div. A, title IX, § 921(d)(7)][/us/pl/108/136/s921/d/7], Nov. 24, 2003, [117 Stat. 1569][/us/stat/117/1569].)
+(Added [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1632(d), Sept. 23, 1996, [110 Stat. 2750][/us/stat/110/2750]; amended [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1141(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–319; [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 921(d)(7), Nov. 24, 2003, [117 Stat. 1569][/us/stat/117/1569].)
 
  __Amendments__ 
 
@@ -74,13 +74,13 @@
 [/us/usc/t5/s2108/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2108%2F3
 [/us/usc/t5/s3132/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa%2F2
 [/us/usc/t5/s7103/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7103%2F8
-[/us/pl/104/201/s1632/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1632%2Fd
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2750
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/136/s921/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fd%2F7
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1569
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptII/ch35/m__us_usc_t10_s601.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch35/m__us_usc_t10_s603.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs602)
 
-## \[§ 602. Repealed. [Pub. L. 102–190, div. A, title XI, § 1113(a)][/us/pl/102/190/s1113/a], Dec. 5, 1991, [105 Stat. 1502][/us/stat/105/1502]\]
+## \[§ 602. Repealed. [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1113(a), Dec. 5, 1991, [105 Stat. 1502][/us/stat/105/1502]\]
 
-    Section, [Pub. L. 96–513, title I, § 105][/us/pl/96/513/s105], Dec. 12, 1980, [94 Stat. 2849][/us/stat/94/2849], related to temporary promotions of warrant officers.
+    Section, [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 105, Dec. 12, 1980, [94 Stat. 2849][/us/stat/94/2849], related to temporary promotions of warrant officers.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/102/190/s1113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1113%2Fa
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1502
-[/us/pl/96/513/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs105
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2849
 [/us/pl/102/190/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1132
 [/us/usc/t10/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs521

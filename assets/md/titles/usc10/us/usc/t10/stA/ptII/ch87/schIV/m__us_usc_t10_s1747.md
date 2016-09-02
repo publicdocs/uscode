@@ -35,7 +35,7 @@
 
     Under the fellowship program, the Secretary of Defense shall pay designated acquisition fellows to engage in research or teaching for a 2-year period in a field related to Federal Government acquisition policy. Such research or teaching may be conducted in the defense acquisition university structure of the Department of Defense, any other institution of professional education of the Federal Government, or a nonprofit institution of higher education. Each fellow shall be paid at a rate equal to the rate of pay payable for the level of the position in which the fellow served in the Department of Defense before undertaking such research or teaching.
 
-(Added [Pub. L. 102–484, div. A, title VIII, § 841(a)][/us/pl/102/484/s841/a], Oct. 23, 1992, [106 Stat. 2468][/us/stat/106/2468], § 2410h; renumbered § 1747, [Pub. L. 107–314, div. A, title X, § 1062(a)(10)(A)][/us/pl/107/314/s1062/a/10/A], Dec. 2, 2002, [116 Stat. 2650][/us/stat/116/2650].)
+(Added [Pub. L. 102–484, div. A, title VIII][/us/pl/102/484/dA/tVIII], § 841(a), Oct. 23, 1992, [106 Stat. 2468][/us/stat/106/2468], § 2410h; renumbered § 1747, [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1062(a)(10)(A), Dec. 2, 2002, [116 Stat. 2650][/us/stat/116/2650].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/102/484/s841/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs841%2Fa
+[/us/pl/102/484/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVIII
 [/us/stat/106/2468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2468
-[/us/pl/107/314/s1062/a/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1062%2Fa%2F10%2FA
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2650
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/usc/t10/s2410h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2410h

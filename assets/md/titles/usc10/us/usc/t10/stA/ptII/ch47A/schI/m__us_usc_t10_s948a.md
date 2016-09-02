@@ -63,27 +63,27 @@
 
     The term “hostilities” means any conflict subject to the laws of war.
 
-(Added [Pub. L. 111–84, div. A, title XVIII, § 1802][/us/pl/111/84/s1802], Oct. 28, 2009, [123 Stat. 2574][/us/stat/123/2574].)
+(Added [Pub. L. 111–84, div. A, title XVIII][/us/pl/111/84/dA/tXVIII], § 1802, Oct. 28, 2009, [123 Stat. 2574][/us/stat/123/2574].)
 
  __Prior Provisions__ 
 
-    A prior section 948a, added [Pub. L. 109–366, § 3(a)(1)][/us/pl/109/366/s3/a/1], Oct. 17, 2006, [120 Stat. 2601][/us/stat/120/2601], related to definitions, prior to the general amendment of this chapter by [Pub. L. 111–84][/us/pl/111/84].
+    A prior section 948a, added [Pub. L. 109–366][/us/pl/109/366], § 3(a)(1), Oct. 17, 2006, [120 Stat. 2601][/us/stat/120/2601], related to definitions, prior to the general amendment of this chapter by [Pub. L. 111–84][/us/pl/111/84].
 
  __Short Title of 2009 Amendment__ 
 
-[Pub. L. 111–84, div. A, title XVIII, § 1801][/us/pl/111/84/s1801], Oct. 28, 2009, [123 Stat. 2574][/us/stat/123/2574], provided that: 
+[Pub. L. 111–84, div. A, title XVIII][/us/pl/111/84/dA/tXVIII], § 1801, Oct. 28, 2009, [123 Stat. 2574][/us/stat/123/2574], provided that: 
 
 > “This title \[enacting this chapter, amending sections 802 and 839 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under [section 801 of this title][/us/usc/t10/s801]\] may be cited as the ‘Military Commissions Act of 2009’.”
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–366, § 1(a)][/us/pl/109/366/s1/a], Oct. 17, 2006, [120 Stat. 2600][/us/stat/120/2600], provided that: 
+[Pub. L. 109–366][/us/pl/109/366], § 1(a), Oct. 17, 2006, [120 Stat. 2600][/us/stat/120/2600], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Military Commissions Act of 2006’.”
 
  __Proceedings Under Prior Statute__ 
 
-[Pub. L. 111–84, div. A, title XVIII, § 1804][/us/pl/111/84/s1804], Oct. 28, 2009, [123 Stat. 2612][/us/stat/123/2612], provided that:
+[Pub. L. 111–84, div. A, title XVIII][/us/pl/111/84/dA/tXVIII], § 1804, Oct. 28, 2009, [123 Stat. 2612][/us/stat/123/2612], provided that:
 
 >     “(a)  __Prior Convictions__  __.—__ 
 
@@ -129,7 +129,7 @@
 
  __Submittal to Congress of Revised Rules for Military Commissions__ 
 
-[Pub. L. 111–84, div. A, title XVIII, § 1805][/us/pl/111/84/s1805], Oct. 28, 2009, [123 Stat. 2614][/us/stat/123/2614], provided that:
+[Pub. L. 111–84, div. A, title XVIII][/us/pl/111/84/dA/tXVIII], § 1805, Oct. 28, 2009, [123 Stat. 2614][/us/stat/123/2614], provided that:
 
 >     “(a)  __Deadline for Submittal__  __.—__ 
 
@@ -141,7 +141,7 @@
 
  __Annual Reports to Congress on Trials by Military Commission__ 
 
-[Pub. L. 111–84, div. A, title XVIII, § 1806][/us/pl/111/84/s1806], Oct. 28, 2009, [123 Stat. 2614][/us/stat/123/2614], provided that:
+[Pub. L. 111–84, div. A, title XVIII][/us/pl/111/84/dA/tXVIII], § 1806, Oct. 28, 2009, [123 Stat. 2614][/us/stat/123/2614], provided that:
 
 >     “(a)  __Annual Reports Required__  __.—__ 
 
@@ -153,7 +153,7 @@
 
  __Construction of Presidential Authority To Establish Military Commissions__ 
 
-[Pub. L. 109–366, § 2][/us/pl/109/366/s2], Oct. 17, 2006, [120 Stat. 2600][/us/stat/120/2600], provided that: 
+[Pub. L. 109–366][/us/pl/109/366], § 2, Oct. 17, 2006, [120 Stat. 2600][/us/stat/120/2600], provided that: 
 
 > “The authority to establish military commissions under chapter 47A of title 10, United States Code, as added by section 3(a), may not be construed to alter or limit the authority of the President under the Constitution of the United States and laws of the United States to establish military commissions for areas declared to be under martial law or in occupied territories should circumstances so require.”
 
@@ -165,24 +165,24 @@
 ----------
 
 [/us/usc/t42/s2014/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fy
-[/us/pl/111/84/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1802
+[/us/pl/111/84/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXVIII
 [/us/stat/123/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2574
-[/us/pl/109/366/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs3%2Fa%2F1
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/stat/120/2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2601
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/111/84/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1801
+[/us/pl/111/84/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXVIII
 [/us/stat/123/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2574
 [/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801
-[/us/pl/109/366/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs1%2Fa
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/stat/120/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2600
-[/us/pl/111/84/s1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1804
+[/us/pl/111/84/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXVIII
 [/us/stat/123/2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2612
-[/us/pl/111/84/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1805
+[/us/pl/111/84/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXVIII
 [/us/stat/123/2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2614
 [/us/usc/t10/s949a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs949a%2Fd
-[/us/pl/111/84/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1806
+[/us/pl/111/84/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXVIII
 [/us/stat/123/2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2614
-[/us/pl/109/366/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs2
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/stat/120/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2600
 
 

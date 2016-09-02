@@ -89,13 +89,13 @@
 
         (5) The term “small business concern owned and controlled by women” has the meaning given that term in section 8(d)(3)(D) of the Small Business Act ([15 U.S.C. 637(d)(3)(D)][/us/usc/t15/s637/d/3/D]).
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 812(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–212; amended [Pub. L. 108–178, § 4(b)(2)][/us/pl/108/178/s4/b/2], Dec. 15, 2003, [117 Stat. 2640][/us/stat/117/2640]; [Pub. L. 109–364, div. A, title X, § 1071(a)(2)][/us/pl/109/364/s1071/a/2], Oct. 17, 2006, [120 Stat. 2398][/us/stat/120/2398]; [Pub. L. 111–350, § 5(b)(6)][/us/pl/111/350/s5/b/6], Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842].)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VIII, § 812(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–212; amended [Pub. L. 108–178][/us/pl/108/178], § 4(b)(2), Dec. 15, 2003, [117 Stat. 2640][/us/stat/117/2640]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(2), Oct. 17, 2006, [120 Stat. 2398][/us/stat/120/2398]; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(6), Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842].)
 
  __Amendments__ 
 
-    2011—Subsec. (f)(1). [Pub. L. 111–350, § 5(b)(6)(A)][/us/pl/111/350/s5/b/6/A], substituted “[section 1702(c) of title 41][/us/usc/t41/s1702/c]” for “section 16(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 414(c)][/us/usc/t41/s414/c])”.
+    2011—Subsec. (f)(1). [Pub. L. 111–350][/us/pl/111/350], § 5(b)(6)(A), substituted “[section 1702(c) of title 41][/us/usc/t41/s1702/c]” for “section 16(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 414(c)][/us/usc/t41/s414/c])”.
 
-    Subsec. (f)(2). [Pub. L. 111–350, § 5(b)(6)(B)][/us/pl/111/350/s5/b/6/B], substituted “[section 134 of title 41][/us/usc/t41/s134]” for “section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)][/us/usc/t41/s403/11])”.
+    Subsec. (f)(2). [Pub. L. 111–350][/us/pl/111/350], § 5(b)(6)(B), substituted “[section 134 of title 41][/us/usc/t41/s134]” for “section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)][/us/usc/t41/s403/11])”.
 
     2006—Subsec. (f)(1). [Pub. L. 109–364][/us/pl/109/364] substituted “section 16(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 414(c)][/us/usc/t41/s414/c])” for “section 16(3) of the Office of Federal Procurement Policy Act ([41 U.S.C. 414(3)][/us/usc/t41/s414/3])”.
 
@@ -107,7 +107,7 @@
 
  __Designation of Military Department Entity Responsible for Acquisition of Critical Cyber Capabilities__ 
 
-[Pub. L. 114–92, div. A, title XVI, § 1645][/us/pl/114/92/s1645], Nov. 25, 2015, [129 Stat. 1117][/us/stat/129/1117], provided that:
+[Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1645, Nov. 25, 2015, [129 Stat. 1117][/us/stat/129/1117], provided that:
 
 >     “(a) __Designation.—__ 
 
@@ -145,7 +145,7 @@
 
  __Competition in Connection With Department of Defense Tactical Data Link Systems__ 
 
-[Pub. L. 112–239, div. A, title IX, § 934][/us/pl/112/239/s934], Jan. 2, 2013, [126 Stat. 1885][/us/stat/126/1885], as amended by [Pub. L. 113–66, div. A, title IX, § 931][/us/pl/113/66/s931], Dec. 26, 2013, [127 Stat. 829][/us/stat/127/829], provided that:
+[Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 934, Jan. 2, 2013, [126 Stat. 1885][/us/stat/126/1885], as amended by [Pub. L. 113–66, div. A, title IX][/us/pl/113/66/dA/tIX], § 931, Dec. 26, 2013, [127 Stat. 829][/us/stat/127/829], provided that:
 
 >     “(a)  __Competition in Connection With Tactical Data Link Systems__  __.—__ 
 
@@ -175,7 +175,7 @@
 
  __Demonstration and Pilot Projects on Cybersecurity__ 
 
-[Pub. L. 111–383, div. A, title II, § 215][/us/pl/111/383/s215], Jan. 7, 2011, [124 Stat. 4165][/us/stat/124/4165], provided that:
+[Pub. L. 111–383, div. A, title II][/us/pl/111/383/dA/tII], § 215, Jan. 7, 2011, [124 Stat. 4165][/us/stat/124/4165], provided that:
 
 >     “(a) __Demonstration Projects on Processes for Application of Commercial Technologies to Cybersecurity Requirements.—__ 
 
@@ -253,7 +253,7 @@
 
  __Implementation of New Acquisition Process for Information Technology Systems__ 
 
-[Pub. L. 111–84, div. A, title VIII, § 804][/us/pl/111/84/s804], Oct. 28, 2009, [123 Stat. 2402][/us/stat/123/2402], provided that:
+[Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], § 804, Oct. 28, 2009, [123 Stat. 2402][/us/stat/123/2402], provided that:
 
 >     “(a)  __New Acquisition Process Required__  __.—__ 
 
@@ -289,7 +289,7 @@
 
  __Clearinghouse for Rapid Identification and Dissemination of Commercial Information Technologies__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 881][/us/pl/110/181/s881], Jan. 28, 2008, [122 Stat. 262][/us/stat/122/262], provided that:
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 881, Jan. 28, 2008, [122 Stat. 262][/us/stat/122/262], provided that:
 
 >     “(a)  __Requirement to Establish Clearinghouse__  __.—__ 
 
@@ -331,7 +331,7 @@
 
  __Time for Implementation; Applicability__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 812(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–214, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VIII, § 812(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–214, provided that:
 
 >     “(1) The Secretary of Defense shall collect data as required under [section 2225 of title 10][/us/usc/t10/s2225], United States Code (as added by subsection (a)) for all contractual actions covered by such section entered into on or after the date that is one year after the date of the enactment of this Act \[Oct. 30, 2000\].
 
@@ -339,7 +339,7 @@
 
  __GAO Report__ 
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 812(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–214, directed the Comptroller General to submit to committees of Congress a report on the collection of data under this section not later than 15 months after Oct. 30, 2000.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VIII, § 812(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–214, directed the Comptroller General to submit to committees of Congress a report on the collection of data under this section not later than 15 months after Oct. 30, 2000.
 
 ----------
 
@@ -353,18 +353,18 @@
 [/us/usc/t15/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fa
 [/us/usc/t15/s637/d/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fd%2F3%2FC
 [/us/usc/t15/s637/d/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fd%2F3%2FD
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/178/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs4%2Fb%2F2
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/stat/117/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2640
-[/us/pl/109/364/s1071/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F2
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2398
-[/us/pl/111/350/s5/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F6
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3842
-[/us/pl/111/350/s5/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F6%2FA
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s1702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1702%2Fc
 [/us/usc/t41/s414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs414%2Fc
-[/us/pl/111/350/s5/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F6%2FB
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
 [/us/usc/t41/s403/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F11
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
@@ -375,24 +375,24 @@
 [/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/pl/108/178/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs5
 [/us/usc/t5/s5334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5334
-[/us/pl/114/92/s1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1645
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1117
-[/us/pl/112/239/s934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs934
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
 [/us/stat/126/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1885
-[/us/pl/113/66/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs931
+[/us/pl/113/66/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIX
 [/us/stat/127/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F829
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/111/383/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs215
+[/us/pl/111/383/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtII
 [/us/stat/124/4165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4165
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/111/84/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs804
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2402
-[/us/pl/110/181/s881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs881
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F262
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2225
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

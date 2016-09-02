@@ -87,9 +87,9 @@ Amendments  </td>
 
 </table>
 
-    1993—[Pub. L. 103–160, div. A, title XI, § 1178(c)][/us/pl/103/160/s1178/c], Nov. 30, 1993, [107 Stat. 1769][/us/stat/107/1769], added item for chapter 905.
+    1993—[Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1178(c), Nov. 30, 1993, [107 Stat. 1769][/us/stat/107/1769], added item for chapter 905.
 
-    1964—[Pub. L. 88–647, title III, § 301(27)][/us/pl/88/647/s301/27], Oct. 13, 1964, [78 Stat. 1073][/us/stat/78/1073], struck out chapter 905.
+    1964—[Pub. L. 88–647, title III][/us/pl/88/647/tIII], § 301(27), Oct. 13, 1964, [78 Stat. 1073][/us/stat/78/1073], struck out chapter 905.
 
 ----------
 
@@ -98,9 +98,9 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/103/160/s1178/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1178%2Fc
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1769
-[/us/pl/88/647/s301/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2Fs301%2F27
+[/us/pl/88/647/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2FtIII
 [/us/stat/78/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1073
 
 

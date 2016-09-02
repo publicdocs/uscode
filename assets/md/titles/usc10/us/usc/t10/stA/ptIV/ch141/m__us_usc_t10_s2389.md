@@ -17,15 +17,15 @@
 
     The Secretary of Defense shall ensure, to the extent practicable, that insensitive munitions under development or procurement are safe throughout development and fielding when subject to unplanned stimuli.
 
-(Added [Pub. L. 107–107, div. A, title VIII, § 834(a)(1)][/us/pl/107/107/s834/a/1], Dec. 28, 2001, [115 Stat. 1191][/us/stat/115/1191].)
+(Added [Pub. L. 107–107, div. A, title VIII][/us/pl/107/107/dA/tVIII], § 834(a)(1), Dec. 28, 2001, [115 Stat. 1191][/us/stat/115/1191].)
 
  __Prior Provisions__ 
 
-    A prior section 2389, added [Pub. L. 89–696, § 1(1)][/us/pl/89/696/s1/1], Oct. 19, 1966, [80 Stat. 1056][/us/stat/80/1056]; amended [Pub. L. 100–370, § 1(h)(1)][/us/pl/100/370/s1/h/1], July 19, 1988, [102 Stat. 847][/us/stat/102/847], related to purchases from Commodity Credit Corporation and price adjustments for contracts for procurement of milk, prior to repeal by [Pub. L. 103–160, div. A, title VIII, § 821(a)(4)][/us/pl/103/160/s821/a/4], Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
+    A prior section 2389, added [Pub. L. 89–696][/us/pl/89/696], § 1(1), Oct. 19, 1966, [80 Stat. 1056][/us/stat/80/1056]; amended [Pub. L. 100–370][/us/pl/100/370], § 1(h)(1), July 19, 1988, [102 Stat. 847][/us/stat/102/847], related to purchases from Commodity Credit Corporation and price adjustments for contracts for procurement of milk, prior to repeal by [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 821(a)(4), Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
 
  __Report Requirement__ 
 
-    [Pub. L. 107–107, div. A, title VIII, § 834(b)][/us/pl/107/107/s834/b], Dec. 28, 2001, [115 Stat. 1191][/us/stat/115/1191], directed the Secretary of Defense to submit to committees of Congress a report on insensitive munitions at the same time that the budgets for fiscal years 2003 through 2005 were submitted.
+    [Pub. L. 107–107, div. A, title VIII][/us/pl/107/107/dA/tVIII], § 834(b), Dec. 28, 2001, [115 Stat. 1191][/us/stat/115/1191], directed the Secretary of Defense to submit to committees of Congress a report on insensitive munitions at the same time that the budgets for fiscal years 2003 through 2005 were submitted.
 
 ----------
 
@@ -34,15 +34,15 @@
 ----------
 ----------
 
-[/us/pl/107/107/s834/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs834%2Fa%2F1
+[/us/pl/107/107/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVIII
 [/us/stat/115/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1191
-[/us/pl/89/696/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F696%2Fs1%2F1
+[/us/pl/89/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F696
 [/us/stat/80/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1056
-[/us/pl/100/370/s1/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs1%2Fh%2F1
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F847
-[/us/pl/103/160/s821/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs821%2Fa%2F4
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1704
-[/us/pl/107/107/s834/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs834%2Fb
+[/us/pl/107/107/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVIII
 [/us/stat/115/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1191
 
 

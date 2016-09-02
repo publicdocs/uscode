@@ -35,21 +35,21 @@
 
     In this section, the terms “transportation” and “transport”, with respect to baggage or household effects, includes packing, crating, drayage, temporary storage, and unpacking of the baggage or household effects.
 
-(Added [Pub. L. 108–136, div. A, title VI, § 634(a)][/us/pl/108/136/s634/a], Nov. 24, 2003, [117 Stat. 1509][/us/stat/117/1509]; amended [Pub. L. 109–364, div. A, title III, § 363(a)][/us/pl/109/364/s363/a], (b), Oct. 17, 2006, [120 Stat. 2167][/us/stat/120/2167]; [Pub. L. 110–181, div. A, title III, § 373][/us/pl/110/181/s373], Jan. 28, 2008, [122 Stat. 82][/us/stat/122/82].)
+(Added [Pub. L. 108–136, div. A, title VI][/us/pl/108/136/dA/tVI], § 634(a), Nov. 24, 2003, [117 Stat. 1509][/us/stat/117/1509]; amended [Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 363(a), (b), Oct. 17, 2006, [120 Stat. 2167][/us/stat/120/2167]; [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 373, Jan. 28, 2008, [122 Stat. 82][/us/stat/122/82].)
 
  __Amendments__ 
 
     2008—Subsec. (d). [Pub. L. 110–181][/us/pl/110/181] inserted at end “The regulations may include a requirement that a member of the armed forces or civilian employee of the Department of Defense comply with reasonable restrictions or conditions prescribed by the Secretary in order to receive the full amount deducted under subsection (b).”
 
-    2006—Subsec. (a). [Pub. L. 109–364, § 363(b)(1)][/us/pl/109/364/s363/b/1], substituted “shall include” for “may include”.
+    2006—Subsec. (a). [Pub. L. 109–364][/us/pl/109/364], § 363(b)(1), substituted “shall include” for “may include”.
 
-    [Pub. L. 109–364, § 363(a)][/us/pl/109/364/s363/a], substituted “at Government expense of baggage and household effects for members of the armed forces or civilian employees of the Department of Defense (or both)” for “of baggage and household effects for members of the armed forces at Government expense”.
+    [Pub. L. 109–364][/us/pl/109/364], § 363(a), substituted “at Government expense of baggage and household effects for members of the armed forces or civilian employees of the Department of Defense (or both)” for “of baggage and household effects for members of the armed forces at Government expense”.
 
-    Subsec. (b). [Pub. L. 109–364, § 363(b)(2)][/us/pl/109/364/s363/b/2], substituted “shall be deducted” for “may be deducted”.
+    Subsec. (b). [Pub. L. 109–364][/us/pl/109/364], § 363(b)(2), substituted “shall be deducted” for “may be deducted”.
 
  __Effective Date of 2006 Amendment__ 
 
-    [Pub. L. 109–364, div. A, title III, § 363(b)][/us/pl/109/364/s363/b], Oct. 17, 2006, [120 Stat. 2167][/us/stat/120/2167], provided that the amendment made by section 363(b) is effective Mar. 1, 2008.
+    [Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 363(b), Oct. 17, 2006, [120 Stat. 2167][/us/stat/120/2167], provided that the amendment made by section 363(b) is effective Mar. 1, 2008.
 
 ----------
 
@@ -60,17 +60,17 @@
 
 [/us/usc/t10/s2636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2636
 [/us/usc/t31/s3721/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3721%2Fb
-[/us/pl/108/136/s634/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs634%2Fa
+[/us/pl/108/136/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVI
 [/us/stat/117/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1509
-[/us/pl/109/364/s363/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs363%2Fa
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2167
-[/us/pl/110/181/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs373
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F82
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/109/364/s363/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs363%2Fb%2F1
-[/us/pl/109/364/s363/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs363%2Fa
-[/us/pl/109/364/s363/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs363%2Fb%2F2
-[/us/pl/109/364/s363/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs363%2Fb
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2167
 
 

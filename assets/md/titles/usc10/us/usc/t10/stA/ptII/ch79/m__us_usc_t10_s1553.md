@@ -29,7 +29,7 @@
 
     (e) In the case of a former member of the armed forces (other than a former member covered by subsection (d)) who was diagnosed while serving in the armed forces as experiencing a mental health disorder, a board established under this section to review the former member’s discharge or dismissal shall include a member who is a clinical psychologist or psychiatrist, or a physician with special training on mental health disorders.
 
-(Added [Pub. L. 85–857, § 13(v)(2)][/us/pl/85/857/s13/v/2], Sept. 2, 1958, [72 Stat. 1266][/us/stat/72/1266]; amended [Pub. L. 87–651, title I, § 110(a)][/us/pl/87/651/s110/a], Sept. 7, 1962, [76 Stat. 509][/us/stat/76/509]; [Pub. L. 98–209, § 11(b)][/us/pl/98/209/s11/b], Dec. 6, 1983, [97 Stat. 1407][/us/stat/97/1407]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(2)][/us/pl/101/189/s1621/a/2], Nov. 29, 1989, [103 Stat. 1603][/us/stat/103/1603]; [Pub. L. 111–84, div. A, title V, § 512(b)][/us/pl/111/84/s512/b], Oct. 28, 2009, [123 Stat. 2281][/us/stat/123/2281]; [Pub. L. 113–291, div. A, title V, § 521(b)][/us/pl/113/291/s521/b], Dec. 19, 2014, [128 Stat. 3360][/us/stat/128/3360].)
+(Added [Pub. L. 85–857][/us/pl/85/857], § 13(v)(2), Sept. 2, 1958, [72 Stat. 1266][/us/stat/72/1266]; amended [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 110(a), Sept. 7, 1962, [76 Stat. 509][/us/stat/76/509]; [Pub. L. 98–209][/us/pl/98/209], § 11(b), Dec. 6, 1983, [97 Stat. 1407][/us/stat/97/1407]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(2), Nov. 29, 1989, [103 Stat. 1603][/us/stat/103/1603]; [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 512(b), Oct. 28, 2009, [123 Stat. 2281][/us/stat/123/2281]; [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 521(b), Dec. 19, 2014, [128 Stat. 3360][/us/stat/128/3360].)
 
  __Historical and Revision Notes__ 
 
@@ -37,13 +37,13 @@
 
  __References in Text__ 
 
-    The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (a), is [act May 5, 1950, ch. 169, § 1][/us/act/1950-05-05/ch169/s1], [64 Stat. 107][/us/stat/64/107], which was classified to chapter 22 (§ 551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47 (§ 801 et seq.) of this title by [act Aug. 10, 1956, ch. 1041, § 53][/us/act/1956-08-10/ch1041/s53], [70A Stat. 641][/us/stat/70A/641], the first section of which enacted this title.
+    The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (a), is [act May 5, 1950, ch. 169][/us/act/1950-05-05/ch169], § 1, [64 Stat. 107][/us/stat/64/107], which was classified to chapter 22 (§ 551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47 (§ 801 et seq.) of this title by [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 53, [70A Stat. 641][/us/stat/70A/641], the first section of which enacted this title.
 
  __Amendments__ 
 
-    2014—Subsec. (d)(1). [Pub. L. 113–291, § 521(b)(1)][/us/pl/113/291/s521/b/1], substituted “clinical psychologist or psychiatrist, or a physician with training on mental health issues connected with post traumatic stress disorder or traumatic brain injury (as applicable)” for “physician, clinical psychologist, or psychiatrist” before period at end.
+    2014—Subsec. (d)(1). [Pub. L. 113–291][/us/pl/113/291], § 521(b)(1), substituted “clinical psychologist or psychiatrist, or a physician with training on mental health issues connected with post traumatic stress disorder or traumatic brain injury (as applicable)” for “physician, clinical psychologist, or psychiatrist” before period at end.
 
-    Subsec. (e). [Pub. L. 113–291, § 521(b)(2)][/us/pl/113/291/s521/b/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 113–291][/us/pl/113/291], § 521(b)(2), added subsec. (e).
 
     2009—Subsec. (d). [Pub. L. 111–84][/us/pl/111/84] added subsec. (d).
 
@@ -59,7 +59,7 @@
 
  __Confidential Review of Characterization of Terms of Discharge of Members of the Armed Forces Who Are Victims of Sexual Offenses__ 
 
-[Pub. L. 113–291, div. A, title V, § 547][/us/pl/113/291/s547], Dec. 19, 2014, [128 Stat. 3375][/us/stat/128/3375], provided that:
+[Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 547, Dec. 19, 2014, [128 Stat. 3375][/us/stat/128/3375], provided that:
 
 >     “(a)  __Confidential Review Process Through Boards for Correction of Military Records__  __.—__ 
 
@@ -94,30 +94,30 @@
 ----------
 ----------
 
-[/us/pl/85/857/s13/v/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs13%2Fv%2F2
+[/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1266
-[/us/pl/87/651/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs110%2Fa
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F509
-[/us/pl/98/209/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs11%2Fb
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1407
-[/us/pl/101/189/s1621/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F2
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1603
-[/us/pl/111/84/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs512%2Fb
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2281
-[/us/pl/113/291/s521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs521%2Fb
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3360
-[/us/act/1950-05-05/ch169/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-05%2Fch169%2Fs1
+[/us/act/1950-05-05/ch169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-05%2Fch169
 [/us/stat/64/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F107
-[/us/act/1956-08-10/ch1041/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs53
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
-[/us/pl/113/291/s521/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs521%2Fb%2F1
-[/us/pl/113/291/s521/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs521%2Fb%2F2
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/87/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651
 [/us/pl/85/857/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs2
-[/us/pl/113/291/s547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs547
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3375
 [/us/usc/t10/s920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs920
 

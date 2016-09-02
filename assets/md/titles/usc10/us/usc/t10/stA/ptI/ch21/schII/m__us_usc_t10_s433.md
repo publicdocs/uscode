@@ -45,7 +45,7 @@
 
         (7) Foreign trade or financial transaction restrictions that would reveal the commercial activity as an activity of the United States Government.
 
-(Added [Pub. L. 102–88, title V, § 504(a)(2)][/us/pl/102/88/s504/a/2], Aug. 14, 1991, [105 Stat. 438][/us/stat/105/438].)
+(Added [Pub. L. 102–88, title V][/us/pl/102/88/tV], § 504(a)(2), Aug. 14, 1991, [105 Stat. 438][/us/stat/105/438].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t10/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs431
-[/us/pl/102/88/s504/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs504%2Fa%2F2
+[/us/pl/102/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2FtV
 [/us/stat/105/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F438
 
 

@@ -23,7 +23,7 @@
 
     When a decision is made to carry out a project under this section, the Secretary of Defense shall notify in writing the appropriate committees of Congress of that decision. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 
-(Added [Pub. L. 109–364, div. B, title XXVIII, § 2851(a)(1)][/us/pl/109/364/s2851/a/1], Oct. 17, 2006, [120 Stat. 2493][/us/stat/120/2493].)
+(Added [Pub. L. 109–364, div. B, title XXVIII][/us/pl/109/364/dB/tXXVIII], § 2851(a)(1), Oct. 17, 2006, [120 Stat. 2493][/us/stat/120/2493].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
-[/us/pl/109/364/s2851/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2851%2Fa%2F1
+[/us/pl/109/364/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdB%2FtXXVIII
 [/us/stat/120/2493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2493
 
 

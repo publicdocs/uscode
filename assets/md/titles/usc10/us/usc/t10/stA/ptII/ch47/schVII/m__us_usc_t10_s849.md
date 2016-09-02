@@ -47,7 +47,7 @@
 
     (f) Subject to subsection (d), a deposition may be read in evidence or, in the case of audiotape, videotape, or similar material, may be played in evidence in any case in which the death penalty is authorized but is not mandatory, whenever the convening authority directs that the case be treated as not capital, and in such a case a sentence of death may not be adjudged by the court-martial.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 53][/us/stat/70A/53]; [Pub. L. 90–632, § 2(20)][/us/pl/90/632/s2/20], Oct. 24, 1968, [82 Stat. 1340][/us/stat/82/1340]; [Pub. L. 98–209, § 6(b)][/us/pl/98/209/s6/b], Dec. 6, 1983, [97 Stat. 1400][/us/stat/97/1400]; [Pub. L. 109–163, div. A, title X, § 1057(a)(3)][/us/pl/109/163/s1057/a/3], Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440]; [Pub. L. 113–291, div. A, title V, § 532][/us/pl/113/291/s532], Dec. 19, 2014, [128 Stat. 3366][/us/stat/128/3366].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 53][/us/stat/70A/53]; [Pub. L. 90–632][/us/pl/90/632], § 2(20), Oct. 24, 1968, [82 Stat. 1340][/us/stat/82/1340]; [Pub. L. 98–209][/us/pl/98/209], § 6(b), Dec. 6, 1983, [97 Stat. 1400][/us/stat/97/1400]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(a)(3), Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440]; [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 532, Dec. 19, 2014, [128 Stat. 3366][/us/stat/128/3366].)
 
 <table>
 
@@ -190,13 +190,13 @@ May 5, 1950, ch. 169, § 1 (Art. 49), 64 Stat. 123.  </td>
 [/us/usc/t10/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs832
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F53
-[/us/pl/90/632/s2/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F20
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1340
-[/us/pl/98/209/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs6%2Fb
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1400
-[/us/pl/109/163/s1057/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F3
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3440
-[/us/pl/113/291/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs532
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3366
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t10/s830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs830

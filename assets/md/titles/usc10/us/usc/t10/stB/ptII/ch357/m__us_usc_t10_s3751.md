@@ -83,7 +83,7 @@ May 12, 1928, ch. 528, §§ 1 (less 25th through 34th words, and less clauses 
 
  __Issuance of Certain Other Medals and Devices__ 
 
-[Act Aug. 10, 1956, ch. 1041, § 33][/us/act/1956-08-10/ch1041/s33], [70A Stat. 633][/us/stat/70A/633], provided that:
+[Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 33, [70A Stat. 633][/us/stat/70A/633], provided that:
 
 >     “(a)
 
@@ -132,7 +132,7 @@ May 12, 1928, ch. 528, §§ 1 (less 25th through 34th words, and less clauses 
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F217
-[/us/act/1956-08-10/ch1041/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs33
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F633
 
 

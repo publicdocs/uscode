@@ -43,11 +43,11 @@
 
         (C) a claim submitted to the delivering transportation service provider or carrier is denied in whole or in part because the loss or damage occurred while the lost or damaged goods were in the custody of a prior transportation service provider or carrier or government entity.
 
-(Added [Pub. L. 111–383, div. A, title III, § 354(a)(1)][/us/pl/111/383/s354/a/1], Jan. 7, 2011, [124 Stat. 4194][/us/stat/124/4194].)
+(Added [Pub. L. 111–383, div. A, title III][/us/pl/111/383/dA/tIII], § 354(a)(1), Jan. 7, 2011, [124 Stat. 4194][/us/stat/124/4194].)
 
  __Effective Date__ 
 
-[Pub. L. 111–383, div. A, title III, § 354(b)][/us/pl/111/383/s354/b], Jan. 7, 2011, [124 Stat. 4195][/us/stat/124/4195], provided that: 
+[Pub. L. 111–383, div. A, title III][/us/pl/111/383/dA/tIII], § 354(b), Jan. 7, 2011, [124 Stat. 4195][/us/stat/124/4195], provided that: 
 
 > “[Section 2740 of title 10][/us/usc/t10/s2740], United States Code, as added by subsection (a), shall apply with respect to losses incurred after the date of the enactment of this Act \[Jan. 7, 2011\].”
 
@@ -63,9 +63,9 @@
 [/us/usc/t10/s2636a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2636a
 [/us/usc/t10/s2636a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2636a
 [/us/usc/t10/s2636a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2636a
-[/us/pl/111/383/s354/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs354%2Fa%2F1
+[/us/pl/111/383/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIII
 [/us/stat/124/4194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4194
-[/us/pl/111/383/s354/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs354%2Fb
+[/us/pl/111/383/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIII
 [/us/stat/124/4195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4195
 [/us/usc/t10/s2740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2740
 

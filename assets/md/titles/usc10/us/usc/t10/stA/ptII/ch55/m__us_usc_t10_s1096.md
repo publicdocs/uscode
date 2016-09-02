@@ -39,7 +39,7 @@
 
     In any case in which it is necessary for a member of the uniformed services to pay a professional license fee imposed by a government in order to provide health care services at a facility of a civilian health care provider pursuant to an agreement entered into under subsection (a), the Secretary of Defense may reimburse the member for up to $500 of the amount of the license fee paid by the member.
 
-(Added [Pub. L. 99–661, div. A, title VII, § 701(a)(1)][/us/pl/99/661/s701/a/1], Nov. 14, 1986, [100 Stat. 3894][/us/stat/100/3894]; amended [Pub. L. 103–337, div. A, title VII, § 712][/us/pl/103/337/s712], Oct. 5, 1994, [108 Stat. 2801][/us/stat/108/2801]; [Pub. L. 108–375, div. A, title VI, § 607(b)][/us/pl/108/375/s607/b], Oct. 28, 2004, [118 Stat. 1946][/us/stat/118/1946].)
+(Added [Pub. L. 99–661, div. A, title VII][/us/pl/99/661/dA/tVII], § 701(a)(1), Nov. 14, 1986, [100 Stat. 3894][/us/stat/100/3894]; amended [Pub. L. 103–337, div. A, title VII][/us/pl/103/337/dA/tVII], § 712, Oct. 5, 1994, [108 Stat. 2801][/us/stat/108/2801]; [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 607(b), Oct. 28, 2004, [118 Stat. 1946][/us/stat/118/1946].)
 
  __Amendments__ 
 
@@ -59,11 +59,11 @@
 ----------
 
 [/us/usc/t10/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1078
-[/us/pl/99/661/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs701%2Fa%2F1
+[/us/pl/99/661/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVII
 [/us/stat/100/3894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3894
-[/us/pl/103/337/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs712
+[/us/pl/103/337/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVII
 [/us/stat/108/2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2801
-[/us/pl/108/375/s607/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs607%2Fb
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1946
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t10/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1078

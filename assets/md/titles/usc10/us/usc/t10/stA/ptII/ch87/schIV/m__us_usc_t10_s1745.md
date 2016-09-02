@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1742.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1746.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1745)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1743 _us_usc_t10_s1744.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1746.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1745)
 
 ## § 1745. Additional education and training programs available to acquisition personnel
 
@@ -27,7 +27,7 @@
 
     The Secretary of Defense may repay all or part of a student loan under [section 5379 of title 5][/us/usc/t5/s5379] for an employee of the Department of Defense appointed to an acquisition position.
 
-(Added [Pub. L. 101–510, div. A, title XII, § 1202(a)][/us/pl/101/510/s1202/a], Nov. 5, 1990, [104 Stat. 1653][/us/stat/104/1653]; amended [Pub. L. 104–106, div. A, title XV, § 1503(a)(15)][/us/pl/104/106/s1503/a/15], Feb. 10, 1996, [110 Stat. 511][/us/stat/110/511]; [Pub. L. 106–65, div. A, title IX, § 925(a)][/us/pl/106/65/s925/a], Oct. 5, 1999, [113 Stat. 726][/us/stat/113/726]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1123\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–317.)
+(Added [Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1202(a), Nov. 5, 1990, [104 Stat. 1653][/us/stat/104/1653]; amended [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1503(a)(15), Feb. 10, 1996, [110 Stat. 511][/us/stat/110/511]; [Pub. L. 106–65, div. A, title IX][/us/pl/106/65/dA/tIX], § 925(a), Oct. 5, 1999, [113 Stat. 726][/us/stat/113/726]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1123\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–317.)
 
  __Amendments__ 
 
@@ -39,13 +39,13 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–65, div. A, title IX, § 925(b)][/us/pl/106/65/s925/b], Oct. 5, 1999, [113 Stat. 726][/us/stat/113/726], provided that: 
+[Pub. L. 106–65, div. A, title IX][/us/pl/106/65/dA/tIX], § 925(b), Oct. 5, 1999, [113 Stat. 726][/us/stat/113/726], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to charges for tuition or expenses incurred after the date of the enactment of this Act \[Oct. 5, 1999\].”
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1742.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1746.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1745)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1743 _us_usc_t10_s1744.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1746.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1745)
 
 ----------
 ----------
@@ -53,19 +53,19 @@
 [/us/usc/t5/s4107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4107%2Fb
 [/us/usc/t10/s2007/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2007%2Fa
 [/us/usc/t5/s5379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5379
-[/us/pl/101/510/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1202%2Fa
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1653
-[/us/pl/104/106/s1503/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1503%2Fa%2F15
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F511
-[/us/pl/106/65/s925/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs925%2Fa
+[/us/pl/106/65/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIX
 [/us/stat/113/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F726
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t5/s4107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4107%2Fb
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/106/65/s925/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs925%2Fb
+[/us/pl/106/65/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIX
 [/us/stat/113/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F726
 
 

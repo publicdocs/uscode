@@ -63,11 +63,11 @@
 
         (3) The Department of Defense Board of Actuaries shall determine, for each armed force, the amount required under paragraph (1) to be deposited in the Fund each fiscal year.
 
-(Added [Pub. L. 98–94, title IX, § 925(a)(1)][/us/pl/98/94/s925/a/1], Sept. 24, 1983, [97 Stat. 647][/us/stat/97/647]; amended [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title IX, §§ 9103(3), 9131\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–118, 1783–128, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title IX, §§ 9103(3), 9131\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–118, 3341–128; [Pub. L. 99–661, div. A, title VI, § 661(b)][/us/pl/99/661/s661/b], Nov. 14, 1986, [100 Stat. 3892][/us/stat/100/3892]; [Pub. L. 100–26][/us/pl/100/26], §§ 4(a)(1), 7(a)(3), Apr. 21, 1987, [101 Stat. 274][/us/stat/101/274], 275; [Pub. L. 106–65, div. A, title VI, § 651(b)][/us/pl/106/65/s651/b], Oct. 5, 1999, [113 Stat. 664][/us/stat/113/664]; [Pub. L. 108–136, div. A, title VI, § 641(c)(5)][/us/pl/108/136/s641/c/5], Nov. 24, 2003, [117 Stat. 1516][/us/stat/117/1516]; [Pub. L. 108–375, div. A, title X, § 1084(d)(11)][/us/pl/108/375/s1084/d/11], Oct. 28, 2004, [118 Stat. 2062][/us/stat/118/2062]; [Pub. L. 109–364, div. A, title V, § 591(b)][/us/pl/109/364/s591/b], Oct. 17, 2006, [120 Stat. 2233][/us/stat/120/2233]; [Pub. L. 110–181, div. A, title IX, § 906(c)(3)][/us/pl/110/181/s906/c/3], title X, § 1063(c)(4), Jan. 28, 2008, [122 Stat. 277][/us/stat/122/277], 322.)
+(Added [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], § 925(a)(1), Sept. 24, 1983, [97 Stat. 647][/us/stat/97/647]; amended [Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title IX, §§ 9103(3), 9131\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–118, 1783–128, and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title IX, §§ 9103(3), 9131\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–118, 3341–128; [Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], § 661(b), Nov. 14, 1986, [100 Stat. 3892][/us/stat/100/3892]; [Pub. L. 100–26][/us/pl/100/26], §§ 4(a)(1), 7(a)(3), Apr. 21, 1987, [101 Stat. 274][/us/stat/101/274], 275; [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 651(b), Oct. 5, 1999, [113 Stat. 664][/us/stat/113/664]; [Pub. L. 108–136, div. A, title VI][/us/pl/108/136/dA/tVI], § 641(c)(5), Nov. 24, 2003, [117 Stat. 1516][/us/stat/117/1516]; [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(d)(11), Oct. 28, 2004, [118 Stat. 2062][/us/stat/118/2062]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 591(b), Oct. 17, 2006, [120 Stat. 2233][/us/stat/120/2233]; [Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 906(c)(3), title X, § 1063(c)(4), Jan. 28, 2008, [122 Stat. 277][/us/stat/122/277], 322.)
 
  __References in Text__ 
 
-    [Section 5532 of title 5][/us/usc/t5/s5532], referred to in subsec. (c)(1), was repealed by [Pub. L. 106–65, div. A, title VI, § 651(a)(1)][/us/pl/106/65/s651/a/1], Oct. 5, 1999, [113 Stat. 664][/us/stat/113/664].
+    [Section 5532 of title 5][/us/usc/t5/s5532], referred to in subsec. (c)(1), was repealed by [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 651(a)(1), Oct. 5, 1999, [113 Stat. 664][/us/stat/113/664].
 
  __Codification__ 
 
@@ -77,29 +77,29 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1)(B). [Pub. L. 110–181, § 1063(c)(4)][/us/pl/110/181/s1063/c/4], amended [Pub. L. 109–364, § 591(b)(1)][/us/pl/109/364/s591/b/1]. See 2006 Amendment note below.
+    2008—Subsec. (a)(1)(B). [Pub. L. 110–181][/us/pl/110/181], § 1063(c)(4), amended [Pub. L. 109–364][/us/pl/109/364], § 591(b)(1). See 2006 Amendment note below.
 
-    Subsec. (c)(3). [Pub. L. 110–181, § 906(c)(3)][/us/pl/110/181/s906/c/3], struck out “Retirement” before “Board of Actuaries”.
+    Subsec. (c)(3). [Pub. L. 110–181][/us/pl/110/181], § 906(c)(3), struck out “Retirement” before “Board of Actuaries”.
 
-    2006—Subsec. (a)(1)(B). [Pub. L. 109–364, § 591(b)(1)][/us/pl/109/364/s591/b/1], as amended by [Pub. L. 110–181, § 1063(c)(4)][/us/pl/110/181/s1063/c/4], substituted “for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by [section 115(i) of this title][/us/usc/t10/s115/i].” for “by members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only).”
+    2006—Subsec. (a)(1)(B). [Pub. L. 109–364][/us/pl/109/364], § 591(b)(1), as amended by [Pub. L. 110–181][/us/pl/110/181], § 1063(c)(4), substituted “for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by [section 115(i) of this title][/us/usc/t10/s115/i].” for “by members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only).”
 
-    Subsec. (a)(2)(B). [Pub. L. 109–364, § 591(b)(2)][/us/pl/109/364/s591/b/2], substituted “Selected Reserve” for “Ready Reserve” and “Coast Guard) for service” for “Coast Guard and other than members on full-time National Guard duty other than for training) who are”.
+    Subsec. (a)(2)(B). [Pub. L. 109–364][/us/pl/109/364], § 591(b)(2), substituted “Selected Reserve” for “Ready Reserve” and “Coast Guard) for service” for “Coast Guard and other than members on full-time National Guard duty other than for training) who are”.
 
     2004—Subsec. (b)(2)(D). [Pub. L. 108–375][/us/pl/108/375] substituted “1413a” for “1413, 1413a,”.
 
-    2003—Subsec. (b)(1). [Pub. L. 108–136, § 641(c)(5)(A)][/us/pl/108/136/s641/c/5/A], substituted “sections 1465(a), 1465(b)(3), 1465(c)(2), and 1465(c)(3)” for “sections 1465(a) and 1465(c)”.
+    2003—Subsec. (b)(1). [Pub. L. 108–136][/us/pl/108/136], § 641(c)(5)(A), substituted “sections 1465(a), 1465(b)(3), 1465(c)(2), and 1465(c)(3)” for “sections 1465(a) and 1465(c)”.
 
-    Subsec. (b)(2)(D). [Pub. L. 108–136, § 641(c)(5)(B)][/us/pl/108/136/s641/c/5/B], added subpar. (D).
+    Subsec. (b)(2)(D). [Pub. L. 108–136][/us/pl/108/136], § 641(c)(5)(B), added subpar. (D).
 
     1999—Subsec. (c). [Pub. L. 106–65][/us/pl/106/65] added subsec. (c).
 
-    1987—Subsec. (a). [Pub. L. 100–26, § 7(a)(3)][/us/pl/100/26/s7/a/3], inserted at end “Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.”
+    1987—Subsec. (a). [Pub. L. 100–26][/us/pl/100/26], § 7(a)(3), inserted at end “Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.”
 
-    Subsec. (a)(1)(B), (2)(B). [Pub. L. 100–26, § 4(a)(1)][/us/pl/100/26/s4/a/1], amended [Pub. L. 99–500][/us/pl/99/500] and 99–591, title I, § 101(c) \[title IX, § 9103(3)\]. See 1986 Amendment note below.
+    Subsec. (a)(1)(B), (2)(B). [Pub. L. 100–26][/us/pl/100/26], § 4(a)(1), amended [Pub. L. 99–500][/us/pl/99/500] and 99–591, title I, § 101(c) \[title IX, § 9103(3)\]. See 1986 Amendment note below.
 
     1986—Subsec. (a). [Pub. L. 99–661][/us/pl/99/661] amended first sentence of subsec. (a), which after amendment by [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591] was the only sentence of subsec. (a), by substituting language which was substantially identical to that substituted by [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591].
 
-    [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, title I, § 101(c)][/us/pl/99/591/s101/c] \[§ 9131\], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of Defense shall pay into the Fund at the end of each month as the Department of Defense contribution to the Fund for that month the amount that is the product of—
+    [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, title I][/us/pl/99/591/tI], § 101(c) \[§ 9131\], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of Defense shall pay into the Fund at the end of each month as the Department of Defense contribution to the Fund for that month the amount that is the product of—
 
     “(1) the level percentage of basic pay determined under the most recent (as of the first day of the current fiscal year) actuarial valuation under [section 1465(c) of this title][/us/usc/t10/s1465/c]; and
 
@@ -107,11 +107,11 @@
 
     Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.”
 
-    Subsec. (a)(1)(B), (2)(B). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, title I, § 101(c)][/us/pl/99/591/s101/c] \[title IX, § 9103(3)\], as amended by [Pub. L. 100–26, § 4(a)(1)][/us/pl/100/26/s4/a/1], substituted “accrued for that month by” for “paid that month to” in pars. (1)(B) and (2)(B) as amended by [section 661(b) of Pub. L. 99–661][/us/pl/99/661/s661/b], see above.
+    Subsec. (a)(1)(B), (2)(B). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, title I][/us/pl/99/591/tI], § 101(c) \[title IX, § 9103(3)\], as amended by [Pub. L. 100–26][/us/pl/100/26], § 4(a)(1), substituted “accrued for that month by” for “paid that month to” in pars. (1)(B) and (2)(B) as amended by [section 661(b) of Pub. L. 99–661][/us/pl/99/661/s661/b], see above.
 
  __Effective Date of 2008 Amendment__ 
 
-    [Pub. L. 110–181, div. A, title X, § 1063(c)][/us/pl/110/181/s1063/c], Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322], provided that the amendment made by section 1063(c)(4) is effective as of Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, [Pub. L. 109–364][/us/pl/109/364], as enacted.
+    [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1063(c), Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322], provided that the amendment made by section 1063(c)(4) is effective as of Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, [Pub. L. 109–364][/us/pl/109/364], as enacted.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -123,13 +123,13 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–65, div. A, title VI, § 651(c)][/us/pl/106/65/s651/c], Oct. 5, 1999, [113 Stat. 664][/us/stat/113/664], provided that: 
+[Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 651(c), Oct. 5, 1999, [113 Stat. 664][/us/stat/113/664], provided that: 
 
 > “The amendments made by this section \[amending this section and repealing [section 5532 of Title 5][/us/usc/t5/s5532], Government Organization and Employees\] shall take effect on October 1, 1999.”
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–26, § 12(b)][/us/pl/100/26/s12/b], Apr. 21, 1987, [101 Stat. 289][/us/stat/101/289], provided that: 
+[Pub. L. 100–26][/us/pl/100/26], § 12(b), Apr. 21, 1987, [101 Stat. 289][/us/stat/101/289], provided that: 
 
 > “The amendments made by section 4 \[amending this section and provisions set out as a note under [section 1014 of Title 37][/us/usc/t37/s1014], Pay and Allowances of the Uniformed Services\] shall apply as if included in Public Laws 99–500 and 99–591 when enacted on October 18, 1986, and October 30, 1986, respectively.”
 
@@ -162,28 +162,28 @@
 [/us/usc/t10/s1465/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1465%2Fc%2F3
 [/us/usc/t10/s1465/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1465%2Fb%2F3
 [/us/usc/t5/s5532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5532
-[/us/pl/98/94/s925/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs925%2Fa%2F1
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F647
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661/s661/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs661%2Fb
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3892
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F274
-[/us/pl/106/65/s651/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs651%2Fb
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F664
-[/us/pl/108/136/s641/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs641%2Fc%2F5
+[/us/pl/108/136/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVI
 [/us/stat/117/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1516
-[/us/pl/108/375/s1084/d/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F11
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2062
-[/us/pl/109/364/s591/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs591%2Fb
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2233
-[/us/pl/110/181/s906/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs906%2Fc%2F3
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F277
 [/us/usc/t5/s5532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5532
-[/us/pl/106/65/s651/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs651%2Fa%2F1
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F664
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
@@ -192,19 +192,19 @@
 [/us/pl/99/500/s9131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs9131
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
-[/us/pl/110/181/s1063/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fc%2F4
-[/us/pl/109/364/s591/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs591%2Fb%2F1
-[/us/pl/110/181/s906/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs906%2Fc%2F3
-[/us/pl/109/364/s591/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs591%2Fb%2F1
-[/us/pl/110/181/s1063/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fc%2F4
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t10/s115/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs115%2Fi
-[/us/pl/109/364/s591/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs591%2Fb%2F2
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/108/136/s641/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs641%2Fc%2F5%2FA
-[/us/pl/108/136/s641/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs641%2Fc%2F5%2FB
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/100/26/s7/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fa%2F3
-[/us/pl/100/26/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs4%2Fa%2F1
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
@@ -212,13 +212,13 @@
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2FtI
 [/us/usc/t10/s1465/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1465%2Fc
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
-[/us/pl/100/26/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs4%2Fa%2F1
+[/us/pl/99/591/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2FtI
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/pl/99/661/s661/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs661%2Fb
-[/us/pl/110/181/s1063/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fc
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F322
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
@@ -227,10 +227,10 @@
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/108/136/s641/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs641%2Fc%2F6
 [/us/usc/t10/s1413a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1413a
-[/us/pl/106/65/s651/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs651%2Fc
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F664
 [/us/usc/t5/s5532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5532
-[/us/pl/100/26/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs12%2Fb
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F289
 [/us/usc/t37/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs1014
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661

@@ -17,7 +17,7 @@
 
     The retirement provisions of this title are subject to [section 8301 of title 5][/us/usc/t5/s8301].
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 108][/us/stat/70A/108]; [Pub. L. 89–718, § 3][/us/pl/89/718/s3], Nov. 2, 1966, [80 Stat. 1115][/us/stat/80/1115].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 108][/us/stat/70A/108]; [Pub. L. 89–718][/us/pl/89/718], § 3, Nov. 2, 1966, [80 Stat. 1115][/us/stat/80/1115].)
 
 <table>
 
@@ -80,7 +80,7 @@ Source (Statutes at Large)  </td>
 [/us/usc/t5/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8301
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F108
-[/us/pl/89/718/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs3
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1115
 [/us/usc/t5/s47a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs47a
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718

@@ -83,11 +83,11 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–375, div. A, title V, § 501(c)(1)(B)][/us/pl/108/375/s501/c/1/B], Oct. 28, 2004, [118 Stat. 1874][/us/stat/118/1874], added item 647.
+    2004—[Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 501(c)(1)(B), Oct. 28, 2004, [118 Stat. 1874][/us/stat/118/1874], added item 647.
 
-    1994—[Pub. L. 103–337, div. A, title XVI, § 1671(b)(5)][/us/pl/103/337/s1671/b/5], Oct. 5, 1994, [108 Stat. 3013][/us/stat/108/3013], struck out item 644 “Authority to suspend officer personnel laws”.
+    1994—[Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1671(b)(5), Oct. 5, 1994, [108 Stat. 3013][/us/stat/108/3013], struck out item 644 “Authority to suspend officer personnel laws”.
 
-    1984—[Pub. L. 98–525, title XIII, § 1301(d)(2)][/us/pl/98/525/s1301/d/2], Oct. 19, 1984, [98 Stat. 2612][/us/stat/98/2612], added item 646.
+    1984—[Pub. L. 98–525, title XIII][/us/pl/98/525/tXIII], § 1301(d)(2), Oct. 19, 1984, [98 Stat. 2612][/us/stat/98/2612], added item 646.
 
 ----------
 
@@ -96,11 +96,11 @@
 ----------
 ----------
 
-[/us/pl/108/375/s501/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs501%2Fc%2F1%2FB
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1874
-[/us/pl/103/337/s1671/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1671%2Fb%2F5
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3013
-[/us/pl/98/525/s1301/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1301%2Fd%2F2
+[/us/pl/98/525/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIII
 [/us/stat/98/2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2612
 
 

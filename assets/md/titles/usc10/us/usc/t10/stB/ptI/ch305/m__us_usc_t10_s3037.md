@@ -39,7 +39,7 @@
 
         (2) the ability of judge advocates of the Army assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 164][/us/stat/70A/164]; [Pub. L. 85–861, § 33(a)(18)][/us/pl/85/861/s33/a/18], Sept. 2, 1958, [72 Stat. 1565][/us/stat/72/1565]; [Pub. L. 103–337, div. A, title V, § 504(a)][/us/pl/103/337/s504/a], Oct. 5, 1994, [108 Stat. 2750][/us/stat/108/2750]; [Pub. L. 108–375, div. A, title V, § 574(a)][/us/pl/108/375/s574/a], Oct. 28, 2004, [118 Stat. 1921][/us/stat/118/1921]; [Pub. L. 109–163, div. A, title V, § 508(a)][/us/pl/109/163/s508/a], title X, § 1057(a)(2), Jan. 6, 2006, [119 Stat. 3229][/us/stat/119/3229], 3440; [Pub. L. 110–181, div. A, title V, § 543(a)(1)][/us/pl/110/181/s543/a/1]–(3)(A), Jan. 28, 2008, [122 Stat. 114][/us/stat/122/114].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 164][/us/stat/70A/164]; [Pub. L. 85–861][/us/pl/85/861], § 33(a)(18), Sept. 2, 1958, [72 Stat. 1565][/us/stat/72/1565]; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 504(a), Oct. 5, 1994, [108 Stat. 2750][/us/stat/108/2750]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 574(a), Oct. 28, 2004, [118 Stat. 1921][/us/stat/118/1921]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 508(a), title X, § 1057(a)(2), Jan. 6, 2006, [119 Stat. 3229][/us/stat/119/3229], 3440; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 543(a)(1)–(3)(A), Jan. 28, 2008, [122 Stat. 114][/us/stat/122/114].)
 
 <table>
 
@@ -163,7 +163,7 @@ R.S. 1201.  </td>
 
     In subsection (b), the words “Hereafter” and “exclusive of the present incumbents” are omitted as surplusage.
 
-In subsection (c), the words “In addition to duties elsewhere prescribed for him by law”, in 10:62, are omitted as surplusage. The words “and perform such other duties as may be prescribed by the Secretary of the Army”, in 10:62, are omitted as superseded by sections 3012(e) and 3036(d) of this title. Clause (2) is substituted for 10:62a (words after semicolon) and 63. The [Act of June 23, 1874, ch. 458, § 2][/us/act/1874-06-23/ch458/s2] (words before semicolon of 1st sentence, and last sentence), [18 Stat. 244][/us/stat/18/244], are not contained in 10:62. They are also omitted from the revised section as superseded by sections 3037(a) and 3211 of this title.
+In subsection (c), the words “In addition to duties elsewhere prescribed for him by law”, in 10:62, are omitted as surplusage. The words “and perform such other duties as may be prescribed by the Secretary of the Army”, in 10:62, are omitted as superseded by sections 3012(e) and 3036(d) of this title. Clause (2) is substituted for 10:62a (words after semicolon) and 63. The [Act of June 23, 1874, ch. 458][/us/act/1874-06-23/ch458], § 2 (words before semicolon of 1st sentence, and last sentence), [18 Stat. 244][/us/stat/18/244], are not contained in 10:62. They are also omitted from the revised section as superseded by sections 3037(a) and 3211 of this title.
 
  __1958__  __Act__ 
 
@@ -171,19 +171,19 @@ In subsection (c), the words “In addition to duties elsewhere prescribed for h
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, § 543(a)(3)(A)][/us/pl/110/181/s543/a/3/A], amended section catchline generally, substituting “Deputy” for “Assistant”.
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 543(a)(3)(A), amended section catchline generally, substituting “Deputy” for “Assistant”.
 
-    Subsec. (a). [Pub. L. 110–181, § 543(a)(1)][/us/pl/110/181/s543/a/1], (2)(A), substituted “Deputy Judge Advocate General” for “Assistant Judge Advocate General” wherever appearing and substituted “The Judge Advocate General, while so serving, has the grade of lieutenant general.” for “The Judge Advocate General, while so serving, shall hold a grade not lower than major general.”
+    Subsec. (a). [Pub. L. 110–181][/us/pl/110/181], § 543(a)(1), (2)(A), substituted “Deputy Judge Advocate General” for “Assistant Judge Advocate General” wherever appearing and substituted “The Judge Advocate General, while so serving, has the grade of lieutenant general.” for “The Judge Advocate General, while so serving, shall hold a grade not lower than major general.”
 
-    Subsec. (d). [Pub. L. 110–181, § 543(a)(2)(B)][/us/pl/110/181/s543/a/2/B], substituted “Deputy Judge Advocate General” for “Assistant Judge Advocate General”.
+    Subsec. (d). [Pub. L. 110–181][/us/pl/110/181], § 543(a)(2)(B), substituted “Deputy Judge Advocate General” for “Assistant Judge Advocate General”.
 
-    2006—Subsec. (a). [Pub. L. 109–163, § 508(a)][/us/pl/109/163/s508/a], substituted “The Judge Advocate General, while so serving, shall hold a grade not lower than major general. An officer appointed as Assistant Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.” for “If an officer who is so appointed holds a lower regular grade, he shall be appointed in the regular grade of major general.”
+    2006—Subsec. (a). [Pub. L. 109–163][/us/pl/109/163], § 508(a), substituted “The Judge Advocate General, while so serving, shall hold a grade not lower than major general. An officer appointed as Assistant Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.” for “If an officer who is so appointed holds a lower regular grade, he shall be appointed in the regular grade of major general.”
 
-    Subsec. (b). [Pub. L. 109–163, § 1057(a)(2)][/us/pl/109/163/s1057/a/2], struck out “or Territory” after “a State”.
+    Subsec. (b). [Pub. L. 109–163][/us/pl/109/163], § 1057(a)(2), struck out “or Territory” after “a State”.
 
-    2004—Subsec. (a). [Pub. L. 108–375, § 574(a)(1)][/us/pl/108/375/s574/a/1], substituted “The term of office of the Judge Advocate General and the Assistant Judge Advocate General is four years.” for “An officer appointed as the Judge Advocate General or Assistant Judge Advocate General normally holds office for four years. However, the President may terminate or extend the appointment at any time.”
+    2004—Subsec. (a). [Pub. L. 108–375][/us/pl/108/375], § 574(a)(1), substituted “The term of office of the Judge Advocate General and the Assistant Judge Advocate General is four years.” for “An officer appointed as the Judge Advocate General or Assistant Judge Advocate General normally holds office for four years. However, the President may terminate or extend the appointment at any time.”
 
-    Subsec. (e). [Pub. L. 108–375, § 574(a)(2)][/us/pl/108/375/s574/a/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 108–375][/us/pl/108/375], § 574(a)(2), added subsec. (e).
 
     1994—Subsec. (d). [Pub. L. 103–337][/us/pl/103/337] added subsec. (d).
 
@@ -202,27 +202,27 @@ In subsection (c), the words “In addition to duties elsewhere prescribed for h
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F164
-[/us/pl/85/861/s33/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F18
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1565
-[/us/pl/103/337/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs504%2Fa
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2750
-[/us/pl/108/375/s574/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs574%2Fa
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1921
-[/us/pl/109/163/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs508%2Fa
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3229
-[/us/pl/110/181/s543/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs543%2Fa%2F1
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F114
-[/us/act/1874-06-23/ch458/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-23%2Fch458%2Fs2
+[/us/act/1874-06-23/ch458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-23%2Fch458
 [/us/stat/18/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F244
 [/us/usc/t10/s3036/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3036%2Fc
 [/us/stat/61/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F901
-[/us/pl/110/181/s543/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs543%2Fa%2F3%2FA
-[/us/pl/110/181/s543/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs543%2Fa%2F1
-[/us/pl/110/181/s543/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs543%2Fa%2F2%2FB
-[/us/pl/109/163/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs508%2Fa
-[/us/pl/109/163/s1057/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F2
-[/us/pl/108/375/s574/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs574%2Fa%2F1
-[/us/pl/108/375/s574/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs574%2Fa%2F2
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861

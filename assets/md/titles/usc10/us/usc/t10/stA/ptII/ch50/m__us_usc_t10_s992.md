@@ -135,49 +135,49 @@
 
         (4) Health insurance, budget management, Thrift Savings Plan (TSP), retirement lump sum payments (including rollover options and tax consequences), and Survivor Benefit Plan (SBP).
 
-(Added [Pub. L. 109–163, div. A, title V, § 578(a)(1)][/us/pl/109/163/s578/a/1], Jan. 6, 2006, [119 Stat. 3274][/us/stat/119/3274]; amended [Pub. L. 111–84, div. A, title X, § 1073(a)(8)][/us/pl/111/84/s1073/a/8], Oct. 28, 2009, [123 Stat. 2472][/us/stat/123/2472]; [Pub. L. 114–92, div. A, title VI, § 661(b)][/us/pl/114/92/s661/b]–(e)(1), Nov. 25, 2015, [129 Stat. 857][/us/stat/129/857], 858.)
+(Added [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 578(a)(1), Jan. 6, 2006, [119 Stat. 3274][/us/stat/119/3274]; amended [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(8), Oct. 28, 2009, [123 Stat. 2472][/us/stat/123/2472]; [Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], § 661(b)–(e)(1), Nov. 25, 2015, [129 Stat. 857][/us/stat/129/857], 858.)
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–92, § 661(e)(1)][/us/pl/114/92/s661/e/1], substituted “Financial literacy training: financial services” for “Consumer education: financial services” in section catchline.
+    2015—[Pub. L. 114–92][/us/pl/114/92], § 661(e)(1), substituted “Financial literacy training: financial services” for “Consumer education: financial services” in section catchline.
 
-    Subsec. (a). [Pub. L. 114–92, § 661(b)(1)][/us/pl/114/92/s661/b/1], substituted “Financial Literacy Training” for “Consumer Education” in heading.
+    Subsec. (a). [Pub. L. 114–92][/us/pl/114/92], § 661(b)(1), substituted “Financial Literacy Training” for “Consumer Education” in heading.
 
-    Subsec. (a)(1). [Pub. L. 114–92, § 661(b)(2)][/us/pl/114/92/s661/b/2], substituted “financial literacy training” for “education” in introductory provisions.
+    Subsec. (a)(1). [Pub. L. 114–92][/us/pl/114/92], § 661(b)(2), substituted “financial literacy training” for “education” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 114–92, § 661(b)(3)][/us/pl/114/92/s661/b/3], added par. (2) and struck out former par. (2) which read as follows: “Training under this subsection shall be provided to members as—
+    Subsec. (a)(2). [Pub. L. 114–92][/us/pl/114/92], § 661(b)(3), added par. (2) and struck out former par. (2) which read as follows: “Training under this subsection shall be provided to members as—
 
     “(A) a component of members initial entry orientation training; and
 
     “(B) a component of periodically recurring required training that is provided for the members at military installations.”
 
-    Subsec. (a)(3). [Pub. L. 114–92, § 661(b)(4)][/us/pl/114/92/s661/b/4], substituted “paragraph (2)(J)” for “paragraph (2)(B)”.
+    Subsec. (a)(3). [Pub. L. 114–92][/us/pl/114/92], § 661(b)(4), substituted “paragraph (2)(J)” for “paragraph (2)(B)”.
 
-    Subsec. (a)(4). [Pub. L. 114–92, § 661(b)(5)][/us/pl/114/92/s661/b/5], added par. (4).
+    Subsec. (a)(4). [Pub. L. 114–92][/us/pl/114/92], § 661(b)(5), added par. (4).
 
-    Subsec. (d). [Pub. L. 114–92, § 661(c)(2)][/us/pl/114/92/s661/c/2], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 114–92][/us/pl/114/92], § 661(c)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 114–92, § 661(c)(1)][/us/pl/114/92/s661/c/1], redesignated subsec. (d) as (e).
+    Subsec. (e). [Pub. L. 114–92][/us/pl/114/92], § 661(c)(1), redesignated subsec. (d) as (e).
 
-    Subsec. (e)(4). [Pub. L. 114–92, § 661(d)][/us/pl/114/92/s661/d], added par. (4).
+    Subsec. (e)(4). [Pub. L. 114–92][/us/pl/114/92], § 661(d), added par. (4).
 
     2009—Subsec. (b)(4). [Pub. L. 111–84][/us/pl/111/84] struck out period after “under this section”.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–163, div. A, title V, § 578(b)][/us/pl/109/163/s578/b], Jan. 6, 2006, [119 Stat. 3276][/us/stat/119/3276], provided that: 
+[Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 578(b), Jan. 6, 2006, [119 Stat. 3276][/us/stat/119/3276], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect on the first day of the first month that begins more than 120 days after the date of the enactment of this Act \[Jan. 6, 2006\].”
 
  __Implementations__ 
 
-[Pub. L. 114–92, div. A, title VI, § 661(f)][/us/pl/114/92/s661/f], Nov. 25, 2015, [129 Stat. 859][/us/stat/129/859], provided that: 
+[Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], § 661(f), Nov. 25, 2015, [129 Stat. 859][/us/stat/129/859], provided that: 
 
 > “Not later than six months after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of the military department concerned and the Secretary of the Department in which the Coast Guard is operating shall commence providing financial literacy training under [section 992 of title 10][/us/usc/t10/s992], United States Code, as amended by subsections (b), (c), and (d) of this section, to members of the Armed Forces.”
 
  __Counseling on Mortgage Foreclosures for Members of the Armed Forces Returning From Service Abroad__ 
 
-[Pub. L. 110–289, div. B, title II, § 2202][/us/pl/110/289/s2202], July 30, 2008, [122 Stat. 2849][/us/stat/122/2849], provided that:
+[Pub. L. 110–289, div. B, title II][/us/pl/110/289/dB/tII], § 2202, July 30, 2008, [122 Stat. 2849][/us/stat/122/2849], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -300,28 +300,28 @@
 
 [/us/usc/t5/s8432/g/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432%2Fg%2F2%2FC
 [/us/usc/t37/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs356
-[/us/pl/109/163/s578/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs578%2Fa%2F1
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3274
-[/us/pl/111/84/s1073/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F8
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2472
-[/us/pl/114/92/s661/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fb
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F857
-[/us/pl/114/92/s661/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fe%2F1
-[/us/pl/114/92/s661/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fb%2F1
-[/us/pl/114/92/s661/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fb%2F2
-[/us/pl/114/92/s661/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fb%2F3
-[/us/pl/114/92/s661/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fb%2F4
-[/us/pl/114/92/s661/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fb%2F5
-[/us/pl/114/92/s661/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fc%2F2
-[/us/pl/114/92/s661/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fc%2F1
-[/us/pl/114/92/s661/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fd
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/109/163/s578/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs578%2Fb
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3276
-[/us/pl/114/92/s661/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Ff
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F859
 [/us/usc/t10/s992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs992
-[/us/pl/110/289/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2202
+[/us/pl/110/289/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtII
 [/us/stat/122/2849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2849
 [/us/pl/109/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F290
 [/us/stat/120/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1317

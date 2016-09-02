@@ -61,39 +61,39 @@
 
             (B) are listed on the Federal Energy Management Program Product Energy Efficiency Recommendations product list of the Department of Energy.
 
-(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 166][/us/stat/96/166], § 2857; amended [Pub. L. 97–321, title VIII, § 801(b)(1)][/us/pl/97/321/s801/b/1], (2), Oct. 15, 1982, [96 Stat. 1571][/us/stat/96/1571]; [Pub. L. 98–525, title XIV, § 1405(45)(A)][/us/pl/98/525/s1405/45/A], Oct. 19, 1984, [98 Stat. 2625][/us/stat/98/2625]; [Pub. L. 101–218, § 8(b)][/us/pl/101/218/s8/b], Dec. 11, 1989, [103 Stat. 1868][/us/stat/103/1868]; [Pub. L. 101–510, div. B, title XXVIII, § 2852(b)][/us/pl/101/510/s2852/b], Nov. 5, 1990, [104 Stat. 1804][/us/stat/104/1804]; [Pub. L. 102–25, title VII, § 701(g)(2)][/us/pl/102/25/s701/g/2], Apr. 6, 1991, [105 Stat. 115][/us/stat/105/115]; renumbered § 2915 and amended [Pub. L. 109–364, div. B, title XXVIII][/us/pl/109/364], §§ 2851(b)(1), (3)(A), 2854, Oct. 17, 2006, [120 Stat. 2494][/us/stat/120/2494], 2497; [Pub. L. 111–383, div. B, title XXVIII, § 2832(b)][/us/pl/111/383/s2832/b], Jan. 7, 2011, [124 Stat. 4468][/us/stat/124/4468]; [Pub. L. 112–81, div. B, title XXVIII, § 2825(a)][/us/pl/112/81/s2825/a], Dec. 31, 2011, [125 Stat. 1693][/us/stat/125/1693].)
+(Added [Pub. L. 97–214][/us/pl/97/214], § 2(a), July 12, 1982, [96 Stat. 166][/us/stat/96/166], § 2857; amended [Pub. L. 97–321, title VIII][/us/pl/97/321/tVIII], § 801(b)(1), (2), Oct. 15, 1982, [96 Stat. 1571][/us/stat/96/1571]; [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(45)(A), Oct. 19, 1984, [98 Stat. 2625][/us/stat/98/2625]; [Pub. L. 101–218][/us/pl/101/218], § 8(b), Dec. 11, 1989, [103 Stat. 1868][/us/stat/103/1868]; [Pub. L. 101–510, div. B, title XXVIII][/us/pl/101/510/dB/tXXVIII], § 2852(b), Nov. 5, 1990, [104 Stat. 1804][/us/stat/104/1804]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 701(g)(2), Apr. 6, 1991, [105 Stat. 115][/us/stat/105/115]; renumbered § 2915 and amended [Pub. L. 109–364, div. B, title XXVIII][/us/pl/109/364/dB/tXXVIII], §§ 2851(b)(1), (3)(A), 2854, Oct. 17, 2006, [120 Stat. 2494][/us/stat/120/2494], 2497; [Pub. L. 111–383, div. B, title XXVIII][/us/pl/111/383/dB/tXXVIII], § 2832(b), Jan. 7, 2011, [124 Stat. 4468][/us/stat/124/4468]; [Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], § 2825(a), Dec. 31, 2011, [125 Stat. 1693][/us/stat/125/1693].)
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–383, § 2832(b)(4)][/us/pl/111/383/s2832/b/4], substituted “Facilities: use of renewable forms of energy and energy efficient products” for “New construction: use of renewable forms of energy and energy efficient products” in section catchline.
+    2011—[Pub. L. 111–383][/us/pl/111/383], § 2832(b)(4), substituted “Facilities: use of renewable forms of energy and energy efficient products” for “New construction: use of renewable forms of energy and energy efficient products” in section catchline.
 
-    Subsec. (a). [Pub. L. 111–383, § 2832(b)(1)][/us/pl/111/383/s2832/b/1], inserted “and facility repairs and renovations” after “military family housing projects)” and substituted “energy performance master plan” for “energy performance plan”.
+    Subsec. (a). [Pub. L. 111–383][/us/pl/111/383], § 2832(b)(1), inserted “and facility repairs and renovations” after “military family housing projects)” and substituted “energy performance master plan” for “energy performance plan”.
 
-    Subsec. (b)(1). [Pub. L. 111–383, § 2832(b)(2)][/us/pl/111/383/s2832/b/2], substituted “the design for the construction, repair, or renovation of facilities (including family housing and back-up power generation facilities) requires consideration of energy systems using solar energy or other renewable forms of energy when use of a renewable form of energy—” for “the design of all new facilities (including family housing) shall include consideration of energy systems using solar energy or other renewable forms of energy.” and added subpars. (A) and (B).
+    Subsec. (b)(1). [Pub. L. 111–383][/us/pl/111/383], § 2832(b)(2), substituted “the design for the construction, repair, or renovation of facilities (including family housing and back-up power generation facilities) requires consideration of energy systems using solar energy or other renewable forms of energy when use of a renewable form of energy—” for “the design of all new facilities (including family housing) shall include consideration of energy systems using solar energy or other renewable forms of energy.” and added subpars. (A) and (B).
 
-    Subsec. (e). [Pub. L. 111–383, § 2832(b)(3)(A)][/us/pl/111/383/s2832/b/3/A], substituted “Use of Energy Efficient Products in Facilities” for “Use of Energy Efficiency Products in New Construction” in heading.
+    Subsec. (e). [Pub. L. 111–383][/us/pl/111/383], § 2832(b)(3)(A), substituted “Use of Energy Efficient Products in Facilities” for “Use of Energy Efficiency Products in New Construction” in heading.
 
-    Subsec. (e)(1). [Pub. L. 111–383, § 2832(b)(3)(B)][/us/pl/111/383/s2832/b/3/B], substituted “construction, repair, or renovation of facilities” for “new facility construction” and “energy performance master plan” for “energy performance plan”.
+    Subsec. (e)(1). [Pub. L. 111–383][/us/pl/111/383], § 2832(b)(3)(B), substituted “construction, repair, or renovation of facilities” for “new facility construction” and “energy performance master plan” for “energy performance plan”.
 
     Subsec. (e)(2). [Pub. L. 112–81][/us/pl/112/81] added par. (2) and struck out former par. (2), which related to energy efficient products and provided examples of technologies, consistent with the products specified in paragraph (3).
 
-    [Pub. L. 111–383, § 2832(b)(3)(D)][/us/pl/111/383/s2832/b/3/D], added par. (2). Former par. (2) redesignated (3).
+    [Pub. L. 111–383][/us/pl/111/383], § 2832(b)(3)(D), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (e)(3). [Pub. L. 111–383, § 2832(b)(3)(C)][/us/pl/111/383/s2832/b/3/C], redesignated par. (2) as (3).
+    Subsec. (e)(3). [Pub. L. 111–383][/us/pl/111/383], § 2832(b)(3)(C), redesignated par. (2) as (3).
 
-    2006—[Pub. L. 109–364, § 2854(b)(1)][/us/pl/109/364/s2854/b/1], substituted “New construction: use of renewable forms of energy and energy efficient products” for “Use of renewable forms of energy in new facilities” in section catchline.
+    2006—[Pub. L. 109–364][/us/pl/109/364], § 2854(b)(1), substituted “New construction: use of renewable forms of energy and energy efficient products” for “Use of renewable forms of energy in new facilities” in section catchline.
 
-    [Pub. L. 109–364, § 2851(b)(1)][/us/pl/109/364/s2851/b/1], renumbered [section 2857 of this title][/us/usc/t10/s2857] as this section.
+    [Pub. L. 109–364][/us/pl/109/364], § 2851(b)(1), renumbered [section 2857 of this title][/us/usc/t10/s2857] as this section.
 
-    Subsec. (a). [Pub. L. 109–364, § 2854(b)(2)][/us/pl/109/364/s2854/b/2],(3)(A)(i), inserted heading and substituted “is consistent with the energy performance goals and energy performance plan for the Department of Defense developed under [section 2911 of this title][/us/usc/t10/s2911] and supported by the special considerations specified in subsection (c) of such section” for “would be practical and economically feasible”.
+    Subsec. (a). [Pub. L. 109–364][/us/pl/109/364], § 2854(b)(2),(3)(A)(i), inserted heading and substituted “is consistent with the energy performance goals and energy performance plan for the Department of Defense developed under [section 2911 of this title][/us/usc/t10/s2911] and supported by the special considerations specified in subsection (c) of such section” for “would be practical and economically feasible”.
 
-    Subsec. (b). [Pub. L. 109–364, § 2854(b)(3)][/us/pl/109/364/s2854/b/3], inserted heading.
+    Subsec. (b). [Pub. L. 109–364][/us/pl/109/364], § 2854(b)(3), inserted heading.
 
-    Subsec. (b)(1). [Pub. L. 109–364, § 2851(b)(3)(A)(ii)][/us/pl/109/364/s2851/b/3/A/ii], struck out “in those cases in which use of such forms of energy has the potential for reduced energy costs” before period at end.
+    Subsec. (b)(1). [Pub. L. 109–364][/us/pl/109/364], § 2851(b)(3)(A)(ii), struck out “in those cases in which use of such forms of energy has the potential for reduced energy costs” before period at end.
 
-    Subsecs. (c), (d). [Pub. L. 109–364, § 2854(b)(4)][/us/pl/109/364/s2854/b/4], (5) inserted headings.
+    Subsecs. (c), (d). [Pub. L. 109–364][/us/pl/109/364], § 2854(b)(4), (5) inserted headings.
 
-    Subsec. (e). [Pub. L. 109–364, § 2854(a)][/us/pl/109/364/s2854/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–364][/us/pl/109/364], § 2854(a), added subsec. (e).
 
     1991—Subsec. (c)(2). [Pub. L. 102–25][/us/pl/102/25] inserted “([42 U.S.C. 8254(a)][/us/usc/t42/s8254/a])” after “Policy Act”.
 
@@ -113,21 +113,21 @@
 
     1984—Subsec. (b)(1). [Pub. L. 98–525][/us/pl/98/525] substituted “use of such forms of energy has the potential for” for “use of solar energy has the potential for”.
 
-    1982—[Pub. L. 97–321, § 801(b)(2)][/us/pl/97/321/s801/b/2], substituted “renewable forms of energy in new facilities” for “solar energy systems” in section catchline.
+    1982—[Pub. L. 97–321][/us/pl/97/321], § 801(b)(2), substituted “renewable forms of energy in new facilities” for “solar energy systems” in section catchline.
 
-    Subsec. (a). [Pub. L. 97–321, § 801(b)(1)(A)][/us/pl/97/321/s801/b/1/A], substituted “energy systems using solar energy or other renewable forms of energy” and “such form of energy would” for “solar energy systems” and “solar energy would”, respectively.
+    Subsec. (a). [Pub. L. 97–321][/us/pl/97/321], § 801(b)(1)(A), substituted “energy systems using solar energy or other renewable forms of energy” and “such form of energy would” for “solar energy systems” and “solar energy would”, respectively.
 
-    Subsec. (b)(1). [Pub. L. 97–321, § 801(b)(1)(B)][/us/pl/97/321/s801/b/1/B], substituted “energy systems using solar energy or other renewable forms of energy” for “solar energy systems” and directed that “such form of energy has” be substituted for “a solar energy has”, but “a solar energy has” did not appear in par. (1). See 1984 Amendment note above.
+    Subsec. (b)(1). [Pub. L. 97–321][/us/pl/97/321], § 801(b)(1)(B), substituted “energy systems using solar energy or other renewable forms of energy” for “solar energy systems” and directed that “such form of energy has” be substituted for “a solar energy has”, but “a solar energy has” did not appear in par. (1). See 1984 Amendment note above.
 
-    Subsec. (b)(2). [Pub. L. 97–321, § 801(b)(1)(B)(i)][/us/pl/97/321/s801/b/1/B/i], substituted “energy systems using solar energy or other renewable forms of energy” for “solar energy systems”.
+    Subsec. (b)(2). [Pub. L. 97–321][/us/pl/97/321], § 801(b)(1)(B)(i), substituted “energy systems using solar energy or other renewable forms of energy” for “solar energy systems”.
 
-    Subsec. (c). [Pub. L. 97–321, § 801(b)(1)(C)][/us/pl/97/321/s801/b/1/C]–(E), substituted: in par. (1) “an energy system using solar energy or other renewable forms of energy” for “a solar energy system” before “for a facility” and in items (A) and (B) “such a system” for “a solar energy system”; in par. (2)(A) “an energy system using solar energy or other renewable forms of energy” for “a solar energy system”; and in par. (3) “energy system using solar energy or other renewable forms of energy” for “solar energy system”, respectively.
+    Subsec. (c). [Pub. L. 97–321][/us/pl/97/321], § 801(b)(1)(C)–(E), substituted: in par. (1) “an energy system using solar energy or other renewable forms of energy” for “a solar energy system” before “for a facility” and in items (A) and (B) “such a system” for “a solar energy system”; in par. (2)(A) “an energy system using solar energy or other renewable forms of energy” for “a solar energy system”; and in par. (3) “energy system using solar energy or other renewable forms of energy” for “solar energy system”, respectively.
 
-    Subsec. (d). [Pub. L. 97–321, § 801(b)(1)(F)][/us/pl/97/321/s801/b/1/F], substituted “heating equipment, cooling equipment, or both heating and cooling equipment using solar energy or other renewable forms of energy or with a passive energy energy system using solar energy or other renewable forms of energy” for “solar heating equipment, solar cooling equipment, or both solar heating and solar cooling equipment, or with a passive solar energy system”.
+    Subsec. (d). [Pub. L. 97–321][/us/pl/97/321], § 801(b)(1)(F), substituted “heating equipment, cooling equipment, or both heating and cooling equipment using solar energy or other renewable forms of energy or with a passive energy energy system using solar energy or other renewable forms of energy” for “solar heating equipment, solar cooling equipment, or both solar heating and solar cooling equipment, or with a passive solar energy system”.
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–525, title XIV, § 1405(45)(B)][/us/pl/98/525/s1405/45/B], Oct. 19, 1984, [98 Stat. 2625][/us/stat/98/2625], provided that: 
+[Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(45)(B), Oct. 19, 1984, [98 Stat. 2625][/us/stat/98/2625], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if it had been included in the amendments made by [section 801 of Public Law 97–321][/us/pl/97/321/s801].”
 
@@ -147,53 +147,53 @@
 [/us/usc/t42/s8254/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8254%2Fa
 [/us/usc/t10/s2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2911
 [/us/usc/t10/s2911/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2911%2Fb%2F2
-[/us/pl/97/214/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs2%2Fa
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F166
-[/us/pl/97/321/s801/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321%2Fs801%2Fb%2F1
+[/us/pl/97/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321%2FtVIII
 [/us/stat/96/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1571
-[/us/pl/98/525/s1405/45/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F45%2FA
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2625
-[/us/pl/101/218/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218%2Fs8%2Fb
+[/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
 [/us/stat/103/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1868
-[/us/pl/101/510/s2852/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs2852%2Fb
+[/us/pl/101/510/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdB%2FtXXVIII
 [/us/stat/104/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1804
-[/us/pl/102/25/s701/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Fg%2F2
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F115
-[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdB%2FtXXVIII
 [/us/stat/120/2494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2494
-[/us/pl/111/383/s2832/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2832%2Fb
+[/us/pl/111/383/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdB%2FtXXVIII
 [/us/stat/124/4468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4468
-[/us/pl/112/81/s2825/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2825%2Fa
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1693
-[/us/pl/111/383/s2832/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2832%2Fb%2F4
-[/us/pl/111/383/s2832/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2832%2Fb%2F1
-[/us/pl/111/383/s2832/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2832%2Fb%2F2
-[/us/pl/111/383/s2832/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2832%2Fb%2F3%2FA
-[/us/pl/111/383/s2832/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2832%2Fb%2F3%2FB
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/111/383/s2832/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2832%2Fb%2F3%2FD
-[/us/pl/111/383/s2832/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2832%2Fb%2F3%2FC
-[/us/pl/109/364/s2854/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2854%2Fb%2F1
-[/us/pl/109/364/s2851/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2851%2Fb%2F1
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s2857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2857
-[/us/pl/109/364/s2854/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2854%2Fb%2F2
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2911
-[/us/pl/109/364/s2854/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2854%2Fb%2F3
-[/us/pl/109/364/s2851/b/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2851%2Fb%2F3%2FA%2Fii
-[/us/pl/109/364/s2854/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2854%2Fb%2F4
-[/us/pl/109/364/s2854/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2854%2Fa
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/usc/t42/s8254/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8254%2Fa
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/101/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F218
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
-[/us/pl/97/321/s801/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321%2Fs801%2Fb%2F2
-[/us/pl/97/321/s801/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321%2Fs801%2Fb%2F1%2FA
-[/us/pl/97/321/s801/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321%2Fs801%2Fb%2F1%2FB
-[/us/pl/97/321/s801/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321%2Fs801%2Fb%2F1%2FB%2Fi
-[/us/pl/97/321/s801/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321%2Fs801%2Fb%2F1%2FC
-[/us/pl/97/321/s801/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321%2Fs801%2Fb%2F1%2FF
-[/us/pl/98/525/s1405/45/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F45%2FB
+[/us/pl/97/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321
+[/us/pl/97/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321
+[/us/pl/97/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321
+[/us/pl/97/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321
+[/us/pl/97/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321
+[/us/pl/97/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2625
 [/us/pl/97/321/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321%2Fs801
 [/us/pl/97/214/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs12%2Fa

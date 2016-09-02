@@ -39,7 +39,7 @@
 
     (h) There shall be not less than 10 officers of the Army National Guard of the United States and the Army Reserve on duty with the Army Staff, one-half of whom shall be from each of those components. These officers shall be considered as additional members of the Army Staff while on that duty.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 161][/us/stat/70A/161], § 3033; [Pub. L. 85–861, § 33(a)(17)][/us/pl/85/861/s33/a/17], Sept. 2, 1958, [72 Stat. 1565][/us/stat/72/1565]; [Pub. L. 90–168, § 2(18)][/us/pl/90/168/s2/18], Dec. 1, 1967, [81 Stat. 524][/us/stat/81/524]; renumbered § 3021 and amended [Pub. L. 99–433, title V, § 501(a)(8)][/us/pl/99/433/s501/a/8], Oct. 1, 1986, [100 Stat. 1039][/us/stat/100/1039]; renumbered § 10302, [Pub. L. 103–337, div. A, title XVI, § 1661(b)(2)(A)][/us/pl/103/337/s1661/b/2/A], Oct. 5, 1994, [108 Stat. 2981][/us/stat/108/2981].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 161][/us/stat/70A/161], § 3033; [Pub. L. 85–861][/us/pl/85/861], § 33(a)(17), Sept. 2, 1958, [72 Stat. 1565][/us/stat/72/1565]; [Pub. L. 90–168][/us/pl/90/168], § 2(18), Dec. 1, 1967, [81 Stat. 524][/us/stat/81/524]; renumbered § 3021 and amended [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 501(a)(8), Oct. 1, 1986, [100 Stat. 1039][/us/stat/100/1039]; renumbered § 10302, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1661(b)(2)(A), Oct. 5, 1994, [108 Stat. 2981][/us/stat/108/2981].)
 
 <table>
 
@@ -127,11 +127,11 @@ June 3, 1916, ch. 134, § 5 (less last par.); June 4, 1920, ch. 227, subch. I,
 
     1994—[Pub. L. 103–337][/us/pl/103/337] renumbered [section 3021 of this title][/us/usc/t10/s3021] as this section.
 
-    1986—[Pub. L. 99–433, § 501(a)(8)(C)][/us/pl/99/433/s501/a/8/C], renumbered [section 3033 of this title][/us/usc/t10/s3033] as this section, and substituted “Army Reserve Forces Policy Committee” for “Reserve components of Army; policies and regulations for government of” in section catchline.
+    1986—[Pub. L. 99–433][/us/pl/99/433], § 501(a)(8)(C), renumbered [section 3033 of this title][/us/usc/t10/s3033] as this section, and substituted “Army Reserve Forces Policy Committee” for “Reserve components of Army; policies and regulations for government of” in section catchline.
 
-    Subsec. (a). [Pub. L. 99–433, § 501(a)(8)(A)][/us/pl/99/433/s501/a/8/A], substituted “Office” for “office” and “Committee. The Committee” for “Committee which”, inserted “and the mobilization preparedness”, and substituted “Army. The” for “Army, and the” and “Secretary of the Army and the Chief of Staff” for “Chief of Staff and the Assistant Secretary responsible for reserve affairs”.
+    Subsec. (a). [Pub. L. 99–433][/us/pl/99/433], § 501(a)(8)(A), substituted “Office” for “office” and “Committee. The Committee” for “Committee which”, inserted “and the mobilization preparedness”, and substituted “Army. The” for “Army, and the” and “Secretary of the Army and the Chief of Staff” for “Chief of Staff and the Assistant Secretary responsible for reserve affairs”.
 
-    Subsec. (h). [Pub. L. 99–433, § 501(a)(8)(B)][/us/pl/99/433/s501/a/8/B], struck out “General” before “Staff” in two places.
+    Subsec. (h). [Pub. L. 99–433][/us/pl/99/433], § 501(a)(8)(B), struck out “General” before “Staff” in two places.
 
     1967—[Pub. L. 90–168][/us/pl/90/168] amended section generally, and restated with certain changes the existing authority relating to the Army Reserve Forces Policy Committee within the Office of the Secretary of the Army, reduced the membership of the Committee from 21 to 15, reduced the grade requirements so as to permit inclusion of colonels, and provided that the Committee review and comment upon all major policies affecting Army Reserve matters and that the Committee comments accompany any final submission to the Chief of Staff and Assistant Secretary responsible for Reserve Affairs.
 
@@ -154,21 +154,21 @@ June 3, 1916, ch. 134, § 5 (less last par.); June 4, 1920, ch. 227, subch. I,
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F161
-[/us/pl/85/861/s33/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F17
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1565
-[/us/pl/90/168/s2/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F168%2Fs2%2F18
+[/us/pl/90/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F168
 [/us/stat/81/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F524
-[/us/pl/99/433/s501/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs501%2Fa%2F8
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1039
-[/us/pl/103/337/s1661/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fb%2F2%2FA
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2981
 [/us/usc/t10/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs38
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3021
-[/us/pl/99/433/s501/a/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs501%2Fa%2F8%2FC
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t10/s3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3033
-[/us/pl/99/433/s501/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs501%2Fa%2F8%2FA
-[/us/pl/99/433/s501/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs501%2Fa%2F8%2FB
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/pl/90/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F168
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/pl/90/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F168

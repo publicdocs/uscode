@@ -41,11 +41,11 @@
 
         (2) with respect to a notice or notification related to an attempt by a foreign actor to disrupt, degrade, or destroy a United States national security space capability that is intelligence-related, the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-(Added [Pub. L. 113–66, div. A, title IX, § 911(a)][/us/pl/113/66/s911/a], Dec. 26, 2013, [127 Stat. 823][/us/stat/127/823].)
+(Added [Pub. L. 113–66, div. A, title IX][/us/pl/113/66/dA/tIX], § 911(a), Dec. 26, 2013, [127 Stat. 823][/us/stat/127/823].)
 
  __Prior Provisions__ 
 
-    A prior section 2278, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 127][/us/stat/70A/127], related to purchases of sample aircraft, prior to repeal by [Pub. L. 103–160, div. A, title VIII, § 821(a)(1)][/us/pl/103/160/s821/a/1], Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
+    A prior section 2278, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 127][/us/stat/70A/127], related to purchases of sample aircraft, prior to repeal by [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 821(a)(1), Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
 
 ----------
 
@@ -54,11 +54,11 @@
 ----------
 ----------
 
-[/us/pl/113/66/s911/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs911%2Fa
+[/us/pl/113/66/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIX
 [/us/stat/127/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F823
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F127
-[/us/pl/103/160/s821/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs821%2Fa%2F1
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1704
 
 

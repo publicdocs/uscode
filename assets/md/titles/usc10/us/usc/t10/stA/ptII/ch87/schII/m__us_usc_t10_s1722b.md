@@ -45,13 +45,13 @@
 
         (4) The number of times a waiver authority was exercised under section 1724(d), 1732(d), or 1734(d) of this title or any other provision of this chapter (or other provision of law) which permits the waiver of any requirement relating to the acquisition workforce, and in the case of each such authority, the reasons for exercising the authority. The Secretary may present the information provided under this paragraph by category or grouping of types of waivers and reasons.
 
-(Added [Pub. L. 111–383, div. A, title VIII, § 873(a)(1)][/us/pl/111/383/s873/a/1], Jan. 7, 2011, [124 Stat. 4302][/us/stat/124/4302]; amended [Pub. L. 112–239, div. A, title X, § 1076(d)(1)][/us/pl/112/239/s1076/d/1], Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951].)
+(Added [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 873(a)(1), Jan. 7, 2011, [124 Stat. 4302][/us/stat/124/4302]; amended [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(d)(1), Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951].)
 
  __Amendments__ 
 
-    2013—Subsec. (c)(3). [Pub. L. 112–239, § 1076(d)(1)(A)][/us/pl/112/239/s1076/d/1/A], substituted “subsections (b)(1)(A) and (b)(1)(B)” for “subsections (b)(2)(A) and (b)(2)(B)”.
+    2013—Subsec. (c)(3). [Pub. L. 112–239][/us/pl/112/239], § 1076(d)(1)(A), substituted “subsections (b)(1)(A) and (b)(1)(B)” for “subsections (b)(2)(A) and (b)(2)(B)”.
 
-    Subsec. (c)(4). [Pub. L. 112–239, § 1076(d)(1)(B)][/us/pl/112/239/s1076/d/1/B], substituted “or 1734(d)” for “1734(d), or 1736(c)”.
+    Subsec. (c)(4). [Pub. L. 112–239][/us/pl/112/239], § 1076(d)(1)(B), substituted “or 1734(d)” for “1734(d), or 1736(c)”.
 
 ----------
 
@@ -63,11 +63,11 @@
 [/us/usc/t10/s115b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs115b%2Fd
 [/us/usc/t10/s1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1732
 [/us/usc/t10/s1732/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1732%2Fc
-[/us/pl/111/383/s873/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs873%2Fa%2F1
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4302
-[/us/pl/112/239/s1076/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fd%2F1
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1951
-[/us/pl/112/239/s1076/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fd%2F1%2FA
-[/us/pl/112/239/s1076/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fd%2F1%2FB
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 
 

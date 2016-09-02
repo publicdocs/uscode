@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptII/ch43/m__us_usc_t10_s744.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch43/m__us_usc_t10_s747.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs745)
 
-## \[§ 745. Repealed. [Pub. L. 102–190, div. A, title XI, § 1114(b)][/us/pl/102/190/s1114/b], Dec. 5, 1991, [105 Stat. 1502][/us/stat/105/1502]\]
+## \[§ 745. Repealed. [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1114(b), Dec. 5, 1991, [105 Stat. 1502][/us/stat/105/1502]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 34][/us/stat/70A/34], related to ranking of warrant officers. See [section 742 of this title][/us/usc/t10/s742].
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/102/190/s1114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1114%2Fb
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1502
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F34

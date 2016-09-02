@@ -29,7 +29,7 @@
 
         Any deduction made from retired pay by reason of such an election may not be refunded.
 
-(Added [Pub. L. 92–425, § 1(3)][/us/pl/92/425/s1/3], Sept. 21, 1972, [86 Stat. 708][/us/stat/86/708]; amended [Pub. L. 95–397, title II, § 207(a)][/us/pl/95/397/s207/a], Sept. 30, 1978, [92 Stat. 848][/us/stat/92/848]; [Pub. L. 101–189, div. A, title XIV, § 1407(a)(3)][/us/pl/101/189/s1407/a/3], title XVI, § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1588][/us/stat/103/1588], 1602; [Pub. L. 104–201, div. A, title VI, § 634][/us/pl/104/201/s634], Sept. 23, 1996, [110 Stat. 2560][/us/stat/110/2560].)
+(Added [Pub. L. 92–425][/us/pl/92/425], § 1(3), Sept. 21, 1972, [86 Stat. 708][/us/stat/86/708]; amended [Pub. L. 95–397, title II][/us/pl/95/397/tII], § 207(a), Sept. 30, 1978, [92 Stat. 848][/us/stat/92/848]; [Pub. L. 101–189, div. A, title XIV][/us/pl/101/189/dA/tXIV], § 1407(a)(3), title XVI, § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1588][/us/stat/103/1588], 1602; [Pub. L. 104–201, div. A, title VI][/us/pl/104/201/dA/tVI], § 634, Sept. 23, 1996, [110 Stat. 2560][/us/stat/110/2560].)
 
  __Amendments__ 
 
@@ -52,13 +52,13 @@
 
 [/us/usc/t10/s1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448
 [/us/usc/t10/s1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448
-[/us/pl/92/425/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425%2Fs1%2F3
+[/us/pl/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425
 [/us/stat/86/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F708
-[/us/pl/95/397/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397%2Fs207%2Fa
+[/us/pl/95/397/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397%2FtII
 [/us/stat/92/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F848
-[/us/pl/101/189/s1407/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1407%2Fa%2F3
+[/us/pl/101/189/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXIV
 [/us/stat/103/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1588
-[/us/pl/104/201/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs634
+[/us/pl/104/201/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVI
 [/us/stat/110/2560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2560
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t10/s1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448

@@ -41,7 +41,7 @@
 
         (2) in beneficiary cost-share rates of more than 20 percent.
 
-(Added [Pub. L. 113–291, div. A, title VII, § 711(a)][/us/pl/113/291/s711/a], Dec. 19, 2014, [128 Stat. 3413][/us/stat/128/3413].)
+(Added [Pub. L. 113–291, div. A, title VII][/us/pl/113/291/dA/tVII], § 711(a), Dec. 19, 2014, [128 Stat. 3413][/us/stat/128/3413].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/113/291/s711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs711%2Fa
+[/us/pl/113/291/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVII
 [/us/stat/128/3413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3413
 
 

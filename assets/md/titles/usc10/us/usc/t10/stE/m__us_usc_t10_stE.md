@@ -441,17 +441,17 @@ PART V—SERVICE, SUPPLY, AND PROCUREMENT  </td>
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–84, div. A, title X, § 1073(a)(33)][/us/pl/111/84/s1073/a/33], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], substituted “Reserve Active-Status List” for “Reserve-Active Status List” in item for chapter 1409.
+    2009—[Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(33), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], substituted “Reserve Active-Status List” for “Reserve-Active Status List” in item for chapter 1409.
 
-    2004—[Pub. L. 108–375, div. A, title V, § 527(c)][/us/pl/108/375/s527/c], Oct. 28, 2004, [118 Stat. 1894][/us/stat/118/1894], added item for chapter 1607.
+    2004—[Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 527(c), Oct. 28, 2004, [118 Stat. 1894][/us/stat/118/1894], added item for chapter 1607.
 
-    1999—[Pub. L. 106–65, div. A, title V, § 551(a)(2)][/us/pl/106/65/s551/a/2], Oct. 5, 1999, [113 Stat. 614][/us/stat/113/614], added item for chapter 1611.
+    1999—[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 551(a)(2), Oct. 5, 1999, [113 Stat. 614][/us/stat/113/614], added item for chapter 1611.
 
-    1997—[Pub. L. 105–85, div. A, title V, § 515(b)][/us/pl/105/85/s515/b], Nov. 18, 1997, [111 Stat. 1733][/us/stat/111/1733], substituted “12551” for “\[No present sections\]” in item for chapter 1215.
+    1997—[Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 515(b), Nov. 18, 1997, [111 Stat. 1733][/us/stat/111/1733], substituted “12551” for “\[No present sections\]” in item for chapter 1215.
 
-    1996—[Pub. L. 104–201, div. A, title XII, § 1211(a)(2)][/us/pl/104/201/s1211/a/2], Sept. 23, 1996, [110 Stat. 2691][/us/stat/110/2691], added item for chapter 1006.
+    1996—[Pub. L. 104–201, div. A, title XII][/us/pl/104/201/dA/tXII], § 1211(a)(2), Sept. 23, 1996, [110 Stat. 2691][/us/stat/110/2691], added item for chapter 1006.
 
-    [Pub. L. 104–106, div. A, title V, § 512(a)(2)][/us/pl/104/106/s512/a/2], title XV, § 1501(b)(1), Feb. 10, 1996, [110 Stat. 305][/us/stat/110/305], 495, added item for chapter 1214 and substituted “Repayment Programs” for “Repayments” in item for chapter 1609.
+    [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 512(a)(2), title XV, § 1501(b)(1), Feb. 10, 1996, [110 Stat. 305][/us/stat/110/305], 495, added item for chapter 1214 and substituted “Repayment Programs” for “Repayments” in item for chapter 1609.
 
 ----------
 
@@ -460,17 +460,17 @@ PART V—SERVICE, SUPPLY, AND PROCUREMENT  </td>
 ----------
 ----------
 
-[/us/pl/111/84/s1073/a/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F33
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
-[/us/pl/108/375/s527/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs527%2Fc
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1894
-[/us/pl/106/65/s551/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs551%2Fa%2F2
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F614
-[/us/pl/105/85/s515/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs515%2Fb
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1733
-[/us/pl/104/201/s1211/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1211%2Fa%2F2
+[/us/pl/104/201/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXII
 [/us/stat/110/2691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2691
-[/us/pl/104/106/s512/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs512%2Fa%2F2
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F305
 
 

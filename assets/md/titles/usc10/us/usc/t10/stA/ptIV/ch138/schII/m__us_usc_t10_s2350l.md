@@ -65,7 +65,7 @@
 
         (3) The term “test facility” means a range or other facility at which testing of defense equipment may be carried out.
 
-(Added [Pub. L. 107–107, div. A, title XII, § 1213(a)][/us/pl/107/107/s1213/a], Dec. 28, 2001, [115 Stat. 1250][/us/stat/115/1250].)
+(Added [Pub. L. 107–107, div. A, title XII][/us/pl/107/107/dA/tXII], § 1213(a), Dec. 28, 2001, [115 Stat. 1250][/us/stat/115/1250].)
 
 ----------
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/107/107/s1213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1213%2Fa
+[/us/pl/107/107/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXII
 [/us/stat/115/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1250
 
 

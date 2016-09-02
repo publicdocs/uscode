@@ -47,17 +47,17 @@
 
     The Secretary of the military department concerned shall prescribe regulations for the administration of this section.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2956][/us/stat/108/2956]; amended [Pub. L. 113–66, div. A, title V, § 503(b)][/us/pl/113/66/s503/b], Dec. 26, 2013, [127 Stat. 750][/us/stat/127/750].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2956][/us/stat/108/2956]; amended [Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 503(b), Dec. 26, 2013, [127 Stat. 750][/us/stat/127/750].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 3850 and 8850 of this title, prior to repeal by [Pub. L. 103–337, § 1629(a)(3)][/us/pl/103/337/s1629/a/3], (c)(3).
+    Provisions similar to those in this section were contained in sections 3850 and 8850 of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(a)(3), (c)(3).
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–66, § 503(b)(1)][/us/pl/113/66/s503/b/1], designated existing provisions as par. (1), substituted “officers on the reserve active-status list” for “all officers on that list” and “that list.” for “the reserve active-status list, in the number specified by the Secretary by each grade and competitive category.” in par. (1), and added pars. (2) and (3).
+    2013—Subsec. (a). [Pub. L. 113–66][/us/pl/113/66], § 503(b)(1), designated existing provisions as par. (1), substituted “officers on the reserve active-status list” for “all officers on that list” and “that list.” for “the reserve active-status list, in the number specified by the Secretary by each grade and competitive category.” in par. (1), and added pars. (2) and (3).
 
-    Subsecs. (b) to (d). [Pub. L. 113–66, § 503(b)(2)][/us/pl/113/66/s503/b/2], (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+    Subsecs. (b) to (d). [Pub. L. 113–66][/us/pl/113/66], § 503(b)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 ----------
 
@@ -70,12 +70,12 @@
 [/us/usc/t10/s12732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12732
 [/us/usc/t10/s14101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fb
 [/us/usc/t10/s14514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14514
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2956
-[/us/pl/113/66/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs503%2Fb
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F750
-[/us/pl/103/337/s1629/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fa%2F3
-[/us/pl/113/66/s503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs503%2Fb%2F1
-[/us/pl/113/66/s503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs503%2Fb%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 
 

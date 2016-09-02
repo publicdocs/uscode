@@ -33,11 +33,11 @@
 
     The Secretary shall prescribe regulations to carry out the program established under this section. Such regulations shall be consistent and in compliance with the Solid Waste Disposal Act ([42 U.S.C. 6901][/us/usc/t42/s6901] et seq.) and the regulations implementing that Act.
 
-(Added [Pub. L. 109–364, div. A, title III, § 353(a)][/us/pl/109/364/s353/a], Oct. 17, 2006, [120 Stat. 2161][/us/stat/120/2161].)
+(Added [Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 353(a), Oct. 17, 2006, [120 Stat. 2161][/us/stat/120/2161].)
 
  __References in Text__ 
 
-    The Solid Waste Disposal Act, referred to in subsec. (d), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsec. (d), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42][/us/usc/t42/s6901] and Tables.
 
 ----------
 
@@ -48,11 +48,11 @@
 
 [/us/usc/t10/s2577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2577
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
-[/us/pl/109/364/s353/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs353%2Fa
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2161
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 

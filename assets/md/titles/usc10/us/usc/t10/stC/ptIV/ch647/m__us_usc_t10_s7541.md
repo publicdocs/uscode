@@ -23,7 +23,7 @@
 
     to the Boy Scouts of America for the sea scouts, to the Naval Sea Cadet Corps for the sea cadets, and to the Young Marines of the Marine Corps League for the young marines. The cost of transportation and delivery of material given or sold under this section shall be charged to the Boy Scouts of America, to the Naval Sea Cadets, or to the Young Marines of the Marine Corps League, as the case may be.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 465][/us/stat/70A/465]; [Pub. L. 93–628, § 1][/us/pl/93/628/s1], Jan. 3, 1975, [88 Stat. 2147][/us/stat/88/2147]; [Pub. L. 96–513, title V, § 513(39)][/us/pl/96/513/s513/39], Dec. 12, 1980, [94 Stat. 2934][/us/stat/94/2934]; [Pub. L. 107–217, § 3(b)(31)][/us/pl/107/217/s3/b/31], Aug. 21, 2002, [116 Stat. 1297][/us/stat/116/1297].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 465][/us/stat/70A/465]; [Pub. L. 93–628][/us/pl/93/628], § 1, Jan. 3, 1975, [88 Stat. 2147][/us/stat/88/2147]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(39), Dec. 12, 1980, [94 Stat. 2934][/us/stat/94/2934]; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(31), Aug. 21, 2002, [116 Stat. 1297][/us/stat/116/1297].)
 
 <table>
 
@@ -85,7 +85,7 @@ Mar. 1, 1929, ch. 429, 45 Stat. 1430; Oct. 31, 1951, ch. 654, § 2(21), 65 Sta
 
  __Effective Date of 1975 Amendment__ 
 
-[Pub. L. 93–628, § 2][/us/pl/93/628/s2], Jan. 3, 1975, [88 Stat. 2148][/us/stat/88/2148], provided that: 
+[Pub. L. 93–628][/us/pl/93/628], § 2, Jan. 3, 1975, [88 Stat. 2148][/us/stat/88/2148], provided that: 
 
 > “The amendments made by the first section \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 3, 1975\].”
 
@@ -99,11 +99,11 @@ Mar. 1, 1929, ch. 429, 45 Stat. 1430; Oct. 31, 1951, ch. 654, § 2(21), 65 Sta
 [/us/usc/t40/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs121
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F465
-[/us/pl/93/628/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F628%2Fs1
+[/us/pl/93/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F628
 [/us/stat/88/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2147
-[/us/pl/96/513/s513/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F39
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2934
-[/us/pl/107/217/s3/b/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F31
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1297
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs121
@@ -115,7 +115,7 @@ Mar. 1, 1929, ch. 429, 45 Stat. 1430; Oct. 31, 1951, ch. 654, § 2(21), 65 Sta
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/93/628/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F628%2Fs2
+[/us/pl/93/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F628
 [/us/stat/88/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2148
 
 

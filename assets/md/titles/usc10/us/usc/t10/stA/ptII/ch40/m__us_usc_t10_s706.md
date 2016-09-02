@@ -25,17 +25,17 @@
 
     (c) A member required to take leave under section 876a or 1182(c)(2) of this title is not entitled to any right or benefit under chapter 43 of title 38 solely because of employment during the period of such leave.
 
-(Added [Pub. L. 97–81, § 2(b)(1)][/us/pl/97/81/s2/b/1], Nov. 20, 1981, [95 Stat. 1085][/us/stat/95/1085]; amended [Pub. L. 102–568, title V, § 506(c)(5)][/us/pl/102/568/s506/c/5], Oct. 29, 1992, [106 Stat. 4341][/us/stat/106/4341]; [Pub. L. 103–337, div. A, title X, § 1070(e)(1)][/us/pl/103/337/s1070/e/1], Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859]; [Pub. L. 103–353, § 2(b)(3)][/us/pl/103/353/s2/b/3], Oct. 13, 1994, [108 Stat. 3169][/us/stat/108/3169]; [Pub. L. 104–106, div. A, title XV, § 1503(a)(7)][/us/pl/104/106/s1503/a/7], Feb. 10, 1996, [110 Stat. 511][/us/stat/110/511]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(4)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–290; [Pub. L. 107–314, div. A, title V, § 506(c)][/us/pl/107/314/s506/c], Dec. 2, 2002, [116 Stat. 2535][/us/stat/116/2535].)
+(Added [Pub. L. 97–81][/us/pl/97/81], § 2(b)(1), Nov. 20, 1981, [95 Stat. 1085][/us/stat/95/1085]; amended [Pub. L. 102–568, title V][/us/pl/102/568/tV], § 506(c)(5), Oct. 29, 1992, [106 Stat. 4341][/us/stat/106/4341]; [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(e)(1), Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859]; [Pub. L. 103–353][/us/pl/103/353], § 2(b)(3), Oct. 13, 1994, [108 Stat. 3169][/us/stat/108/3169]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1503(a)(7), Feb. 10, 1996, [110 Stat. 511][/us/stat/110/511]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(4)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–290; [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 506(c), Dec. 2, 2002, [116 Stat. 2535][/us/stat/116/2535].)
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–314, § 506(c)(2)][/us/pl/107/314/s506/c/2], struck out “pending review of certain court-martial convictions” at end of section catchline.
+    2002—[Pub. L. 107–314][/us/pl/107/314], § 506(c)(2), struck out “pending review of certain court-martial convictions” at end of section catchline.
 
-    Subsec. (a). [Pub. L. 107–314, § 506(c)(1)(A)][/us/pl/107/314/s506/c/1/A], inserted “or 1182(c)(2)” after “section 876a”.
+    Subsec. (a). [Pub. L. 107–314][/us/pl/107/314], § 506(c)(1)(A), inserted “or 1182(c)(2)” after “section 876a”.
 
-    Subsec. (b). [Pub. L. 107–314, § 506(c)(1)][/us/pl/107/314/s506/c/1], inserted “or 1182(c)(2)” after “section 876a” in pars. (1) and (2) and substituted “sections 707 and 707a” for “section 707” in par. (2).
+    Subsec. (b). [Pub. L. 107–314][/us/pl/107/314], § 506(c)(1), inserted “or 1182(c)(2)” after “section 876a” in pars. (1) and (2) and substituted “sections 707 and 707a” for “section 707” in par. (2).
 
-    Subsec. (c). [Pub. L. 107–314, § 506(c)(1)(A)][/us/pl/107/314/s506/c/1/A], inserted “or 1182(c)(2)” after “section 876a”.
+    Subsec. (c). [Pub. L. 107–314][/us/pl/107/314], § 506(c)(1)(A), inserted “or 1182(c)(2)” after “section 876a”.
 
     2000—Subsec. (c). [Pub. L. 106–398][/us/pl/106/398] struck out “(1)” before “A member required” and struck out par. (2) which read as follows: “[Section 974 of this title][/us/usc/t10/s974] does not apply to a member required to take leave under [section 876a of this title][/us/usc/t10/s876a] during the period of such leave.”
 
@@ -53,7 +53,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–81, § 7][/us/pl/97/81/s7], Nov. 20, 1981, [95 Stat. 1089][/us/stat/95/1089], as amended by [Pub. L. 98–209, § 12(b)][/us/pl/98/209/s12/b], Dec. 6, 1983, [97 Stat. 1407][/us/stat/97/1407], provided that:
+[Pub. L. 97–81][/us/pl/97/81], § 7, Nov. 20, 1981, [95 Stat. 1089][/us/stat/95/1089], as amended by [Pub. L. 98–209][/us/pl/98/209], § 12(b), Dec. 6, 1983, [97 Stat. 1407][/us/stat/97/1407], provided that:
 
 >     “(a) The amendments made by this Act \[enacting this section and sections 707 and 876a of this title and amending sections 701, 813, 832, 838, 867, and 869 of this title\] shall take effect at the end of the sixty-day period beginning on the date of the enactment of this Act.
 
@@ -82,24 +82,24 @@
 ----------
 ----------
 
-[/us/pl/97/81/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81%2Fs2%2Fb%2F1
+[/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/stat/95/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1085
-[/us/pl/102/568/s506/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2Fs506%2Fc%2F5
+[/us/pl/102/568/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F568%2FtV
 [/us/stat/106/4341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4341
-[/us/pl/103/337/s1070/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fe%2F1
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2859
-[/us/pl/103/353/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs2%2Fb%2F3
+[/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/stat/108/3169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3169
-[/us/pl/104/106/s1503/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1503%2Fa%2F7
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F511
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/314/s506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs506%2Fc
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2535
-[/us/pl/107/314/s506/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs506%2Fc%2F2
-[/us/pl/107/314/s506/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs506%2Fc%2F1%2FA
-[/us/pl/107/314/s506/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs506%2Fc%2F1
-[/us/pl/107/314/s506/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs506%2Fc%2F1%2FA
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t10/s974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs974
 [/us/usc/t10/s876a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs876a
@@ -112,9 +112,9 @@
 [/us/pl/103/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353
 [/us/pl/103/353/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F353%2Fs8
 [/us/usc/t38/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4301
-[/us/pl/97/81/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81%2Fs7
+[/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/stat/95/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1089
-[/us/pl/98/209/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs12%2Fb
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1407
 [/us/usc/t10/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs701
 [/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801

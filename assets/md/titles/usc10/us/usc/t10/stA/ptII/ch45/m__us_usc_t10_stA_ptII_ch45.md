@@ -99,19 +99,19 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–383, div. A, title V, § 505(a)(2)][/us/pl/111/383/s505/a/2], Jan. 7, 2011, [124 Stat. 4210][/us/stat/124/4210], added item 777a.
+    2011—[Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 505(a)(2), Jan. 7, 2011, [124 Stat. 4210][/us/stat/124/4210], added item 777a.
 
-    1996—[Pub. L. 104–106, div. A, title V, § 503(a)(2)][/us/pl/104/106/s503/a/2], Feb. 10, 1996, [110 Stat. 294][/us/stat/110/294], added item 777.
+    1996—[Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 503(a)(2), Feb. 10, 1996, [110 Stat. 294][/us/stat/110/294], added item 777.
 
-    1992—[Pub. L. 102–484, div. A, title III, § 377(b)][/us/pl/102/484/s377/b], Oct. 23, 1992, [106 Stat. 2387][/us/stat/106/2387], added item 775 and redesignated former item 775 as 776.
+    1992—[Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 377(b), Oct. 23, 1992, [106 Stat. 2387][/us/stat/106/2387], added item 775 and redesignated former item 775 as 776.
 
-    1987—[Pub. L. 100–180, div. A, title V, § 508(b)][/us/pl/100/180/s508/b], Dec. 4, 1987, [101 Stat. 1087][/us/stat/101/1087], added item 774 and redesignated former item 774 as 775.
+    1987—[Pub. L. 100–180, div. A, title V][/us/pl/100/180/dA/tV], § 508(b), Dec. 4, 1987, [101 Stat. 1087][/us/stat/101/1087], added item 774 and redesignated former item 774 as 775.
 
-    1968—[Pub. L. 90–235, § 8(1)(B)][/us/pl/90/235/s8/1/B], Jan. 2, 1968, [81 Stat. 764][/us/stat/81/764], added item 771a.
+    1968—[Pub. L. 90–235][/us/pl/90/235], § 8(1)(B), Jan. 2, 1968, [81 Stat. 764][/us/stat/81/764], added item 771a.
 
  __Revised Policy on Ground Combat and Camouflage Utility Uniforms__ 
 
-[Pub. L. 113–66, div. A, title III, § 352(a)][/us/pl/113/66/s352/a]–(f), Dec. 26, 2013, [127 Stat. 742][/us/stat/127/742], 743, provided that:
+[Pub. L. 113–66, div. A, title III][/us/pl/113/66/dA/tIII], § 352(a)–(f), Dec. 26, 2013, [127 Stat. 742][/us/stat/127/742], 743, provided that:
 
 >     “(a)  __Establishment of Policy__  __.—__ 
 
@@ -171,7 +171,7 @@
 
  __Policy on Ground Combat and Camouflage Utility Uniforms__ 
 
-    [Pub. L. 111–84, div. A, title III, § 352][/us/pl/111/84/s352], Oct. 28, 2009, [123 Stat. 2262][/us/stat/123/2262], related to policy on ground combat and camouflage utility uniforms, prior to repeal by [Pub. L. 113–66, div. A, title III, § 352(g)][/us/pl/113/66/s352/g], Dec. 26, 2013, [127 Stat. 743][/us/stat/127/743].
+    [Pub. L. 111–84, div. A, title III][/us/pl/111/84/dA/tIII], § 352, Oct. 28, 2009, [123 Stat. 2262][/us/stat/123/2262], related to policy on ground combat and camouflage utility uniforms, prior to repeal by [Pub. L. 113–66, div. A, title III][/us/pl/113/66/dA/tIII], § 352(g), Dec. 26, 2013, [127 Stat. 743][/us/stat/127/743].
 
 ----------
 
@@ -180,22 +180,22 @@
 ----------
 ----------
 
-[/us/pl/111/383/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs505%2Fa%2F2
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4210
-[/us/pl/104/106/s503/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs503%2Fa%2F2
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F294
-[/us/pl/102/484/s377/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs377%2Fb
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2387
-[/us/pl/100/180/s508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs508%2Fb
+[/us/pl/100/180/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtV
 [/us/stat/101/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1087
-[/us/pl/90/235/s8/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs8%2F1%2FB
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F764
-[/us/pl/113/66/s352/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs352%2Fa
+[/us/pl/113/66/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIII
 [/us/stat/127/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F742
 [/us/usc/t10/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs167
-[/us/pl/111/84/s352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs352
+[/us/pl/111/84/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIII
 [/us/stat/123/2262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2262
-[/us/pl/113/66/s352/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs352%2Fg
+[/us/pl/113/66/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIII
 [/us/stat/127/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F743
 
 

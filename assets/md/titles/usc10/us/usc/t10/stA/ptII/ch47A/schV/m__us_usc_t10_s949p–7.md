@@ -53,7 +53,7 @@
 
         If the military judge finds that disclosure of any portion of the statement identified by the United States as classified would be detrimental to the national security in the degree to warrant classification under the applicable Executive Order, statute, or regulation, that such portion of the statement is consistent with the testimony of the witness, and that the disclosure of such portion is not necessary to afford the accused a fair trial, the military judge shall excise that portion from the statement. If the military judge finds that such portion of the statement is inconsistent with the testimony of the witness or that its disclosure is necessary to afford the accused a fair trial, the military judge, shall, upon the request of the trial counsel, review alternatives to disclosure in accordance with [section 949p–6(d) of this title][/us/usc/t10/s949p–6/d].
 
-(Added [Pub. L. 111–84, div. A, title XVIII, § 1802][/us/pl/111/84/s1802], Oct. 28, 2009, [123 Stat. 2596][/us/stat/123/2596].)
+(Added [Pub. L. 111–84, div. A, title XVIII][/us/pl/111/84/dA/tXVIII], § 1802, Oct. 28, 2009, [123 Stat. 2596][/us/stat/123/2596].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 ----------
 
 [/us/usc/t10/s949p–6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs949p%E2%80%936%2Fd
-[/us/pl/111/84/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1802
+[/us/pl/111/84/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXVIII
 [/us/stat/123/2596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2596
 [/us/pl/96/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456
 [/us/stat/94/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2025

@@ -41,7 +41,7 @@
 
         (2) The term “surviving spouse” means a widow or widower who is not remarried.
 
-(Added [Pub. L. 96–342, title IX, § 901(a)][/us/pl/96/342/s901/a], Sept. 8, 1980, [94 Stat. 1113][/us/stat/94/1113]; amended [Pub. L. 97–22, § 10(b)(3)][/us/pl/97/22/s10/b/3], July 10, 1981, [95 Stat. 137][/us/stat/95/137]; [Pub. L. 99–145, title VI, § 673][/us/pl/99/145/s673], Nov. 8, 1985, [99 Stat. 664][/us/stat/99/664]; [Pub. L. 100–180, div. A, title XII, § 1231(17)][/us/pl/100/180/s1231/17], Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161].)
+(Added [Pub. L. 96–342, title IX][/us/pl/96/342/tIX], § 901(a), Sept. 8, 1980, [94 Stat. 1113][/us/stat/94/1113]; amended [Pub. L. 97–22][/us/pl/97/22], § 10(b)(3), July 10, 1981, [95 Stat. 137][/us/stat/95/137]; [Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 673, Nov. 8, 1985, [99 Stat. 664][/us/stat/99/664]; [Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1231(17), Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161].)
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-    [Pub. L. 97–22, § 10(b)][/us/pl/97/22/s10/b], July 10, 1981, [95 Stat. 137][/us/stat/95/137], provided that the amendment made by that section is effective Sept. 15, 1981.
+    [Pub. L. 97–22][/us/pl/97/22], § 10(b), July 10, 1981, [95 Stat. 137][/us/stat/95/137], provided that the amendment made by that section is effective Sept. 15, 1981.
 
 ----------
 
@@ -67,20 +67,20 @@
 [/us/usc/t10/s2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2142
 [/us/usc/t10/s2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2144
 [/us/usc/t10/s1072/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2%2FD
-[/us/pl/96/342/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs901%2Fa
+[/us/pl/96/342/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtIX
 [/us/stat/94/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1113
-[/us/pl/97/22/s10/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs10%2Fb%2F3
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F137
-[/us/pl/99/145/s673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs673
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F664
-[/us/pl/100/180/s1231/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1231%2F17
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1161
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/usc/t10/s1072/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2%2FD
 [/us/usc/t10/s1072/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2%2FE
-[/us/pl/97/22/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs10%2Fb
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F137
 
 

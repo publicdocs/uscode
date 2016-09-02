@@ -75,7 +75,7 @@ May 5, 1950, ch. 169, § 1 (Art. 14), 64 Stat. 112.  </td>
 
  __Regulations for Delivery of Military Personnel to Civil Authorities When Charged With Certain Offenses__ 
 
-    [Pub. L. 100–456, div. A, title VII, § 721][/us/pl/100/456/s721], Sept. 29, 1988, [102 Stat. 2001][/us/stat/102/2001], directed the Secretary of Defense to ensure that the Secretaries of the military departments had issued uniform regulations pursuant to this section not later than 90 days after Sept. 29, 1988, and to transmit to committees of Congress a copy of such regulations and any recommendations for additional legislation not later than 120 days after Sept. 29, 1988.
+    [Pub. L. 100–456, div. A, title VII][/us/pl/100/456/dA/tVII], § 721, Sept. 29, 1988, [102 Stat. 2001][/us/stat/102/2001], directed the Secretary of Defense to ensure that the Secretaries of the military departments had issued uniform regulations pursuant to this section not later than 90 days after Sept. 29, 1988, and to transmit to committees of Congress a copy of such regulations and any recommendations for additional legislation not later than 120 days after Sept. 29, 1988.
 
 ----------
 
@@ -86,7 +86,7 @@ May 5, 1950, ch. 169, § 1 (Art. 14), 64 Stat. 112.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F41
-[/us/pl/100/456/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs721
+[/us/pl/100/456/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVII
 [/us/stat/102/2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2001
 
 

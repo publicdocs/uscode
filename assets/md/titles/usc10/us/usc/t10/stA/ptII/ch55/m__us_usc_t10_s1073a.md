@@ -31,7 +31,7 @@
 
     The authority under the regulations prescribed under subsection (a) shall apply to any contract in excess of $5,000,000.
 
-(Added [Pub. L. 106–65, div. A, title VII, § 722(a)][/us/pl/106/65/s722/a], Oct. 5, 1999, [113 Stat. 695][/us/stat/113/695].)
+(Added [Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 722(a), Oct. 5, 1999, [113 Stat. 695][/us/stat/113/695].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/106/65/s722/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs722%2Fa
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F695
 
 

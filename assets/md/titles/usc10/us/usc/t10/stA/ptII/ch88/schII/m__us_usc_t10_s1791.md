@@ -17,15 +17,15 @@
 
     It is the policy of Congress that the amount of appropriated funds available during a fiscal year for operating expenses for military child development centers and programs shall be not less than the amount of child care fee receipts that are estimated to be received by the Department of Defense during that fiscal year.
 
-(Added [Pub. L. 104–106, div. A, title V, § 568(a)(1)][/us/pl/104/106/s568/a/1], Feb. 10, 1996, [110 Stat. 332][/us/stat/110/332].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 568(a)(1), Feb. 10, 1996, [110 Stat. 332][/us/stat/110/332].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this subchapter were contained in [Pub. L. 101–189, div. A, title XV][/us/pl/101/189], Nov. 29, 1989, [103 Stat. 1589][/us/stat/103/1589], which was set out as a note under [section 113 of this title][/us/usc/t10/s113], prior to repeal by [Pub. L. 104–106, § 568(e)(2)][/us/pl/104/106/s568/e/2].
+    Provisions similar to those in this subchapter were contained in [Pub. L. 101–189, div. A, title XV][/us/pl/101/189/dA/tXV], Nov. 29, 1989, [103 Stat. 1589][/us/stat/103/1589], which was set out as a note under [section 113 of this title][/us/usc/t10/s113], prior to repeal by [Pub. L. 104–106][/us/pl/104/106], § 568(e)(2).
 
  __Reports on Child Development Centers and Financial Assistance for Child Care for Members of the Armed Forces__ 
 
-[Pub. L. 111–383, div. A, title V, § 587][/us/pl/111/383/s587], Jan. 7, 2011, [124 Stat. 4230][/us/stat/124/4230], provided that:
+[Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 587, Jan. 7, 2011, [124 Stat. 4230][/us/stat/124/4230], provided that:
 
 >     “(a)  __Reports Required__  __.—__ 
 
@@ -62,13 +62,13 @@
 ----------
 ----------
 
-[/us/pl/104/106/s568/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs568%2Fa%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F332
-[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXV
 [/us/stat/103/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1589
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
-[/us/pl/104/106/s568/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs568%2Fe%2F2
-[/us/pl/111/383/s587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs587
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4230
 
 

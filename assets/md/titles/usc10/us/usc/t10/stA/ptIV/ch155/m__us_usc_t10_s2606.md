@@ -35,7 +35,7 @@
 
     (g) In this section, the term “qualified scouting organization” means the Girl Scouts of the United States of America and the Boy Scouts of America.
 
-(Added [Pub. L. 100–456, div. A, title III, § 323(a)][/us/pl/100/456/s323/a], Sept. 29, 1988, [102 Stat. 1953][/us/stat/102/1953].)
+(Added [Pub. L. 100–456, div. A, title III][/us/pl/100/456/dA/tIII], § 323(a), Sept. 29, 1988, [102 Stat. 1953][/us/stat/102/1953].)
 
  __Ex. Ord. No. 12715. Determination for Support of Scouting Activities Overseas__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/100/456/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs323%2Fa
+[/us/pl/100/456/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtIII
 [/us/stat/102/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1953
 [/us/usc/t10/s2606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2606%2Fb
 

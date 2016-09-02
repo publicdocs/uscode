@@ -37,7 +37,7 @@
 
     (10) Ensign.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 314][/us/stat/70A/314]; [Pub. L. 96–513, title III, § 301][/us/pl/96/513/s301], Dec. 12, 1980, [94 Stat. 2887][/us/stat/94/2887]; [Pub. L. 97–86, title IV, § 405(a)][/us/pl/97/86/s405/a], Dec. 1, 1981, [95 Stat. 1105][/us/stat/95/1105]; [Pub. L. 99–145, title V, § 514(a)(1)][/us/pl/99/145/s514/a/1], Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628]; [Pub. L. 102–190, div. A, title XI, § 1131(8)(A)][/us/pl/102/190/s1131/8/A], Dec. 5, 1991, [105 Stat. 1506][/us/stat/105/1506].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 314][/us/stat/70A/314]; [Pub. L. 96–513, title III][/us/pl/96/513/tIII], § 301, Dec. 12, 1980, [94 Stat. 2887][/us/stat/94/2887]; [Pub. L. 97–86, title IV][/us/pl/97/86/tIV], § 405(a), Dec. 1, 1981, [95 Stat. 1105][/us/stat/95/1105]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 514(a)(1), Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628]; [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1131(8)(A), Dec. 5, 1991, [105 Stat. 1506][/us/stat/105/1506].)
 
 <table>
 
@@ -174,13 +174,13 @@ July 24, 1941, ch. 320, § 6 (1st sentence), 55 Stat. 604; Apr. 9, 1943, ch. 3
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F314
-[/us/pl/96/513/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs301
+[/us/pl/96/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIII
 [/us/stat/94/2887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2887
-[/us/pl/97/86/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs405%2Fa
+[/us/pl/97/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIV
 [/us/stat/95/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1105
-[/us/pl/99/145/s514/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fa%2F1
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F628
-[/us/pl/102/190/s1131/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1131%2F8%2FA
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1506
 [/us/act/1941-07-24/ch320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-24%2Fch320
 [/us/usc/t34/s350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs350

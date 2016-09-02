@@ -43,23 +43,23 @@
 
     (g) In this section, the term “head of the agency concerned” means the Secretary of Defense, the Secretary of a military department, or the Secretary of the department in which the Coast Guard is operating, as appropriate.
 
-(Added [Pub. L. 99–661, div. A, title XIII, § 1356(a)(1)][/us/pl/99/661/s1356/a/1], Nov. 14, 1986, [100 Stat. 3996][/us/stat/100/3996]; amended [Pub. L. 100–448, § 15(a)][/us/pl/100/448/s15/a], Sept. 28, 1988, [102 Stat. 1845][/us/stat/102/1845].)
+(Added [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1356(a)(1), Nov. 14, 1986, [100 Stat. 3996][/us/stat/100/3996]; amended [Pub. L. 100–448][/us/pl/100/448], § 15(a), Sept. 28, 1988, [102 Stat. 1845][/us/stat/102/1845].)
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–448, § 15(a)(1)][/us/pl/100/448/s15/a/1], inserted “or within the Coast Guard” after “of title 32)”.
+    1988—Subsec. (a). [Pub. L. 100–448][/us/pl/100/448], § 15(a)(1), inserted “or within the Coast Guard” after “of title 32)”.
 
-    Subsec. (g). [Pub. L. 100–448, § 15(a)(2)][/us/pl/100/448/s15/a/2], inserted reference to the Secretary of the department in which the Coast Guard is operating.
+    Subsec. (g). [Pub. L. 100–448][/us/pl/100/448], § 15(a)(2), inserted reference to the Secretary of the department in which the Coast Guard is operating.
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–448, § 15(b)][/us/pl/100/448/s15/b], Sept. 28, 1988, [102 Stat. 1845][/us/stat/102/1845], provided that: 
+[Pub. L. 100–448][/us/pl/100/448], § 15(b), Sept. 28, 1988, [102 Stat. 1845][/us/stat/102/1845], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply only to claims accruing on or after the date of the enactment of this Act \[Sept. 28, 1988\], regardless of when the alleged negligent act or omission occurred.”
 
  __Effective Date__ 
 
-[Pub. L. 99–661, div. A, title XIII, § 1356(b)][/us/pl/99/661/s1356/b], Nov. 14, 1986, [100 Stat. 3998][/us/stat/100/3998], provided that: 
+[Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1356(b), Nov. 14, 1986, [100 Stat. 3998][/us/stat/100/3998], provided that: 
 
 > “[Section 1054 of title 10][/us/usc/t10/s1054], United States Code, as added by subsection (a), shall apply only to claims accruing on or after the date of the enactment of this Act \[Nov. 14, 1986\], regardless of when the alleged negligent or wrongful act or omission occurred.”
 
@@ -77,15 +77,15 @@
 [/us/usc/t28/s2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2677
 [/us/usc/t28/s2680/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2680%2Fh
 [/us/usc/t28/s1346/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1346%2Fb
-[/us/pl/99/661/s1356/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1356%2Fa%2F1
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3996
-[/us/pl/100/448/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs15%2Fa
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/stat/102/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1845
-[/us/pl/100/448/s15/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs15%2Fa%2F1
-[/us/pl/100/448/s15/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs15%2Fa%2F2
-[/us/pl/100/448/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs15%2Fb
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/stat/102/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1845
-[/us/pl/99/661/s1356/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1356%2Fb
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3998
 [/us/usc/t10/s1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1054
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

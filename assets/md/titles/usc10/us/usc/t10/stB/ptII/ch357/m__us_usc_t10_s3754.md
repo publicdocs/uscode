@@ -17,7 +17,7 @@
 
     A person awarded a medal of honor shall, upon written application of that person, be issued, without charge, one duplicate medal of honor with ribbons and appurtenances. Such duplicate medal of honor shall be marked, in such manner as the Secretary of the Army may determine, as a duplicate or for display purposes only.
 
-(Added [Pub. L. 107–107, div. A, title V, § 553(a)(1)(A)][/us/pl/107/107/s553/a/1/A], Dec. 28, 2001, [115 Stat. 1115][/us/stat/115/1115].)
+(Added [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 553(a)(1)(A), Dec. 28, 2001, [115 Stat. 1115][/us/stat/115/1115].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/107/s553/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs553%2Fa%2F1%2FA
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1115
 
 

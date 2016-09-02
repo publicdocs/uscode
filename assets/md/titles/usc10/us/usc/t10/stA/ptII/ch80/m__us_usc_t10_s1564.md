@@ -69,25 +69,25 @@
 
     The Secretary of Defense may use funds authorized to be appropriated to the Department of Defense for operation and maintenance to conduct background investigations under this section for individuals described in subsection (a)(2).
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1072(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–276; amended [Pub. L. 111–383, div. A, title III, § 351(a)][/us/pl/111/383/s351/a], Jan. 7, 2011, [124 Stat. 4192][/us/stat/124/4192]; [Pub. L. 112–239, div. A, title X, § 1076(e)(1)][/us/pl/112/239/s1076/e/1], Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951].)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1072(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–276; amended [Pub. L. 111–383, div. A, title III][/us/pl/111/383/dA/tIII], § 351(a), Jan. 7, 2011, [124 Stat. 4192][/us/stat/124/4192]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(e)(1), Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951].)
 
  __Amendments__ 
 
     2013—Subsec. (a)(2)(B)(ii), (iii). [Pub. L. 112–239][/us/pl/112/239] substituted “January 7, 2011” for “the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011”.
 
-    2011—Subsec. (a). [Pub. L. 111–383, § 351(a)(1)][/us/pl/111/383/s351/a/1], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of Defense shall prescribe a process for expediting the completion of the background investigations necessary for granting security clearances for Department of Defense personnel and Department of Defense contractor personnel who are engaged in sensitive duties that are critical to the national security.”
+    2011—Subsec. (a). [Pub. L. 111–383][/us/pl/111/383], § 351(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of Defense shall prescribe a process for expediting the completion of the background investigations necessary for granting security clearances for Department of Defense personnel and Department of Defense contractor personnel who are engaged in sensitive duties that are critical to the national security.”
 
-    Subsec. (f). [Pub. L. 111–383, § 351(a)(2)][/us/pl/111/383/s351/a/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 111–383][/us/pl/111/383], § 351(a)(2), added subsec. (f).
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 111–383, div. A, title III, § 351(b)][/us/pl/111/383/s351/b], Jan. 7, 2011, [124 Stat. 4193][/us/stat/124/4193], provided that: 
+[Pub. L. 111–383, div. A, title III][/us/pl/111/383/dA/tIII], § 351(b), Jan. 7, 2011, [124 Stat. 4193][/us/stat/124/4193], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to a background investigation conducted after the date of the enactment of this Act \[Jan. 7, 2011\].”
 
  __Reform and Improvement of Personnel Security, Insider Threat Detection and Prevention, and Physical Security__ 
 
-[Pub. L. 114–92, div. A, title X, § 1086][/us/pl/114/92/s1086], Nov. 25, 2015, [129 Stat. 1006][/us/stat/129/1006], provided that:
+[Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1086, Nov. 25, 2015, [129 Stat. 1006][/us/stat/129/1006], provided that:
 
 >     “(a) __Personnel Security and Insider Threat Protection in Department of Defense.—__ 
 
@@ -291,7 +291,7 @@
 
  __Personnel Security__ 
 
-[Pub. L. 113–66, div. A, title IX, § 907][/us/pl/113/66/s907], Dec. 26, 2013, [127 Stat. 818][/us/stat/127/818], provided that:
+[Pub. L. 113–66, div. A, title IX][/us/pl/113/66/dA/tIX], § 907, Dec. 26, 2013, [127 Stat. 818][/us/stat/127/818], provided that:
 
 >     “(a) __Comparative Analysis.—__ 
 
@@ -461,7 +461,7 @@
 
  __Required Notification Whenever Members of the Armed Forces Are Completing Standard Form 86 of the Questionnaire for National Security Positions__ 
 
-[Pub. L. 113–66, div. A, title XVII, § 1747][/us/pl/113/66/s1747], Dec. 26, 2013, [127 Stat. 983][/us/stat/127/983], provided that:
+[Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1747, Dec. 26, 2013, [127 Stat. 983][/us/stat/127/983], provided that:
 
 >     “(a)  __Notification of Policy__  __.—__ 
 
@@ -477,7 +477,7 @@
 
  __Deadline for Prescribing Process for Prioritizing Background Investigations for Security Clearances__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1072(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–277, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1072(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–277, provided that: 
 
 > “The process required by [section 1564(a) of title 10][/us/usc/t10/s1564/a], United States Code, as added by subsection (a), for expediting the completion of the background investigations necessary for granting security clearances for certain persons shall be prescribed not later than January 1, 2001.”
 
@@ -488,18 +488,18 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/111/383/s351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs351%2Fa
+[/us/pl/111/383/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIII
 [/us/stat/124/4192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4192
-[/us/pl/112/239/s1076/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fe%2F1
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1951
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/111/383/s351/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs351%2Fa%2F1
-[/us/pl/111/383/s351/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs351%2Fa%2F2
-[/us/pl/111/383/s351/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs351%2Fb
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIII
 [/us/stat/124/4193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4193
-[/us/pl/114/92/s1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1086
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1006
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t10/s1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1564
@@ -515,13 +515,13 @@
 [/us/usc/t5/s7512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7512
 [/us/usc/t5/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9101
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
-[/us/pl/113/66/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs907
+[/us/pl/113/66/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIX
 [/us/stat/127/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F818
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
-[/us/pl/113/66/s1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1747
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F983
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s1564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1564%2Fa
 

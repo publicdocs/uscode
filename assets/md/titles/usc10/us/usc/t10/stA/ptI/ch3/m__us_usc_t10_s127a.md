@@ -57,7 +57,7 @@
 
         (6) A transfer made from one account to another under the authority of this subsection shall be deemed to increase the amount authorized for the account to which the amount is transferred by an amount equal to the amount transferred.
 
-    \[(d) Repealed. [Pub. L. 108–136, div. A, title X, § 1031(a)(3)][/us/pl/108/136/s1031/a/3], Nov. 24, 2003, [117 Stat. 1596][/us/stat/117/1596].\]
+    \[(d) Repealed. [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(3), Nov. 24, 2003, [117 Stat. 1596][/us/stat/117/1596].\]
 
     (e)  __Limitations__  __.—__ 
 
@@ -81,7 +81,7 @@
 
     The Comptroller General of the United States shall from time to time, and when requested by a committee of Congress, conduct a review of the defense funding structure under this section to determine whether the Department of Defense is complying with the requirements and limitations of this section.
 
-(Added [Pub. L. 103–160, div. A, title XI, § 1108(a)(1)][/us/pl/103/160/s1108/a/1], Nov. 30, 1993, [107 Stat. 1751][/us/stat/107/1751]; amended [Pub. L. 104–106, div. A, title X, § 1003(a)(1)][/us/pl/104/106/s1003/a/1], Feb. 10, 1996, [110 Stat. 415][/us/stat/110/415]; [Pub. L. 108–136, div. A, title X, § 1031(a)(3)][/us/pl/108/136/s1031/a/3], Nov. 24, 2003, [117 Stat. 1596][/us/stat/117/1596]; [Pub. L. 111–383, div. A, title X, § 1075(b)(2)][/us/pl/111/383/s1075/b/2], Jan. 7, 2011, [124 Stat. 4369][/us/stat/124/4369]; [Pub. L. 112–81, div. A, title X, § 1061(1)][/us/pl/112/81/s1061/1], Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583].)
+(Added [Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1108(a)(1), Nov. 30, 1993, [107 Stat. 1751][/us/stat/107/1751]; amended [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1003(a)(1), Feb. 10, 1996, [110 Stat. 415][/us/stat/110/415]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(3), Nov. 24, 2003, [117 Stat. 1596][/us/stat/117/1596]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(2), Jan. 7, 2011, [124 Stat. 4369][/us/stat/124/4369]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1061(1), Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583].)
 
  __References in Text__ 
 
@@ -89,11 +89,11 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a)(1)(A). [Pub. L. 111–383, § 1075(b)(2)(A)][/us/pl/111/383/s1075/b/2/A], substituted “armed forces” for “Armed Forces”.
+    2011—Subsec. (a)(1)(A). [Pub. L. 111–383][/us/pl/111/383], § 1075(b)(2)(A), substituted “armed forces” for “Armed Forces”.
 
     Subsec. (a)(3), (4). [Pub. L. 112–81][/us/pl/112/81] redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “Whenever an operation to which this section applies is commenced or subsequently becomes covered by this section, the Secretary of Defense shall designate and identify that operation for the purposes of this section and shall promptly notify Congress of that designation (and of the identification of the operation).”
 
-    Subsec. (b)(1). [Pub. L. 111–383, § 1075(b)(2)(B)][/us/pl/111/383/s1075/b/2/B], substituted “armed forces” for “Armed Forces” in two places.
+    Subsec. (b)(1). [Pub. L. 111–383][/us/pl/111/383], § 1075(b)(2)(B), substituted “armed forces” for “Armed Forces” in two places.
 
     2003—Subsec. (d). [Pub. L. 108–136][/us/pl/108/136] struck out subsec. (d) which required Secretary of Defense, within 45 days after identifying an operation pursuant to subsec. (a)(2), to submit a report to Congress relating to the funding, objectives, duration, cost, and exit criteria of the operation.
 
@@ -101,21 +101,21 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–106, div. A, title X, § 1003(b)][/us/pl/104/106/s1003/b], Feb. 10, 1996, [110 Stat. 417][/us/stat/110/417], provided that: 
+[Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1003(b), Feb. 10, 1996, [110 Stat. 417][/us/stat/110/417], provided that: 
 
 > “The amendment to [section 127a of title 10][/us/usc/t10/s127a], United States Code, made by subsection (a) shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\] and shall apply to any operation of the Department of Defense that is in effect on or after that date, whether such operation is begun before, on, or after such date of enactment. In the case of an operation begun before such date, any reference in such section to the commencement of such operation shall be treated as referring to the effective date under the preceding sentence.”
 
  __Incremental Contingency Operations Cost Report__ 
 
-[Pub. L. 114–113, div. C, title VIII, § 8093][/us/pl/114/113/s8093], Dec. 18, 2015, [129 Stat. 2373][/us/stat/129/2373], provided that: 
+[Pub. L. 114–113, div. C, title VIII][/us/pl/114/113/dC/tVIII], § 8093, Dec. 18, 2015, [129 Stat. 2373][/us/stat/129/2373], provided that: 
 
 > “The Department of Defense shall continue to report incremental contingency operations costs for Operation Inherent Resolve, Operation Freedom’s Sentinel, and any named successor operations, on a monthly basis and any other operation designated and identified by the Secretary of Defense for the purposes of [section 127a of title 10][/us/usc/t10/s127a], United States Code, on a semi-annual basis in the Cost of War Execution Report as prescribed in the Department of Defense Financial Management Regulation Department of Defense Instruction 7000.14, Volume 12, Chapter 23 ‘Contingency Operations’, Annex 1, dated September 2005.”
 
     Similar provisions were contained in the following appropriation act:
 
-    [Pub. L. 113–235, div. C, title VIII, § 8097][/us/pl/113/235/s8097], Dec. 16, 2014, [128 Stat. 2276][/us/stat/128/2276].
+    [Pub. L. 113–235, div. C, title VIII][/us/pl/113/235/dC/tVIII], § 8097, Dec. 16, 2014, [128 Stat. 2276][/us/stat/128/2276].
 
-    [Pub. L. 113–76, div. C, title VIII, § 8092][/us/pl/113/76/s8092], Jan. 17, 2014, [128 Stat. 126][/us/stat/128/126].
+    [Pub. L. 113–76, div. C, title VIII][/us/pl/113/76/dC/tVIII], § 8092, Jan. 17, 2014, [128 Stat. 126][/us/stat/128/126].
 
 ----------
 
@@ -124,35 +124,35 @@
 ----------
 ----------
 
-[/us/pl/108/136/s1031/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F3
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1596
-[/us/pl/103/160/s1108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1108%2Fa%2F1
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1751
-[/us/pl/104/106/s1003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1003%2Fa%2F1
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F415
-[/us/pl/108/136/s1031/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F3
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1596
-[/us/pl/111/383/s1075/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F2
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4369
-[/us/pl/112/81/s1061/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F1
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1583
 [/us/pl/93/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148
 [/us/stat/87/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F555
 [/us/usc/t50/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1541
-[/us/pl/111/383/s1075/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F2%2FA
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/111/383/s1075/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F2%2FB
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/104/106/s1003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1003%2Fb
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F417
 [/us/usc/t10/s127a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs127a
-[/us/pl/114/113/s8093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs8093
+[/us/pl/114/113/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdC%2FtVIII
 [/us/stat/129/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2373
 [/us/usc/t10/s127a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs127a
-[/us/pl/113/235/s8097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs8097
+[/us/pl/113/235/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdC%2FtVIII
 [/us/stat/128/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2276
-[/us/pl/113/76/s8092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8092
+[/us/pl/113/76/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdC%2FtVIII
 [/us/stat/128/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F126
 
 

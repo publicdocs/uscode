@@ -17,7 +17,7 @@
 
     The Secretary of Defense shall require that all military child development centers meet standards of operation necessary for accreditation by an appropriate national early childhood programs accrediting body.
 
-(Added [Pub. L. 104–106, div. A, title V, § 568(a)(1)][/us/pl/104/106/s568/a/1], Feb. 10, 1996, [110 Stat. 335][/us/stat/110/335].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 568(a)(1), Feb. 10, 1996, [110 Stat. 335][/us/stat/110/335].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/106/s568/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs568%2Fa%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F335
 
 

@@ -51,7 +51,7 @@
 
         (6) Trend data on attempts to compromise classified information disclosed to contractors of the Department of Defense to the extent that such data are available.
 
-(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 845(a)(1), Oct. 14, 2008, [122 Stat. 4541][/us/stat/122/4541], § 438; renumbered § 428, [Pub. L. 111–84, div. A, title X, § 1073(a)(4)][/us/pl/111/84/s1073/a/4], Oct. 28, 2009, [123 Stat. 2472][/us/stat/123/2472]; [Pub. L. 111–383, div. A, title X, § 1075(b)(11)][/us/pl/111/383/s1075/b/11], Jan. 7, 2011, [124 Stat. 4369][/us/stat/124/4369].)
+(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 845(a)(1), Oct. 14, 2008, [122 Stat. 4541][/us/stat/122/4541], § 438; renumbered § 428, [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(4), Oct. 28, 2009, [123 Stat. 2472][/us/stat/123/2472]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(11), Jan. 7, 2011, [124 Stat. 4369][/us/stat/124/4369].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 
  __Requirement for Entities With Facility Clearances That Are Not Under Foreign Ownership Control or Influence Mitigation__ 
 
-[Pub. L. 111–383, div. A, title VIII, § 845][/us/pl/111/383/s845], Jan. 7, 2011, [124 Stat. 4285][/us/stat/124/4285], provided that:
+[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 845, Jan. 7, 2011, [124 Stat. 4285][/us/stat/124/4285], provided that:
 
 >     “(a)  __Requirement__  __.—__ 
 
@@ -103,15 +103,15 @@
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4541
-[/us/pl/111/84/s1073/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F4
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2472
-[/us/pl/111/383/s1075/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F11
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4369
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/usc/t10/s438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs438
-[/us/pl/111/383/s845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs845
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4285
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4542

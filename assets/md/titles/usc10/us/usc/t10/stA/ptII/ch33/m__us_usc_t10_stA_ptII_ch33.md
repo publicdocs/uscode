@@ -67,9 +67,9 @@
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–190, div. A, title XI, § 1112(b)(1)][/us/pl/102/190/s1112/b/1], Dec. 5, 1991, [105 Stat. 1501][/us/stat/105/1501], substituted “ORIGINAL APPOINTMENTS OF REGULAR OFFICERS IN GRADES ABOVE WARRANT OFFICER GRADES” for “APPOINTMENTS IN REGULAR COMPONENTS” as chapter heading, struck out analysis of subchapters listing subchapter I “Original Appointments of Regular Officers in Grades above Warrant Officer Grades” and subchapter II “Appointments of Regular Warrant Officers”, and struck out subchapter I heading.
+    1991—[Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1112(b)(1), Dec. 5, 1991, [105 Stat. 1501][/us/stat/105/1501], substituted “ORIGINAL APPOINTMENTS OF REGULAR OFFICERS IN GRADES ABOVE WARRANT OFFICER GRADES” for “APPOINTMENTS IN REGULAR COMPONENTS” as chapter heading, struck out analysis of subchapters listing subchapter I “Original Appointments of Regular Officers in Grades above Warrant Officer Grades” and subchapter II “Appointments of Regular Warrant Officers”, and struck out subchapter I heading.
 
-    1980—[Pub. L. 96–513, title I, § 104(a)][/us/pl/96/513/s104/a], Dec. 12, 1980, [94 Stat. 2845][/us/stat/94/2845], inserted an analysis of subchapters immediately following chapter heading, added subchapter I heading, and, in analysis of sections following subchapter I heading, added items 531, 532, and 533 preceding item 541, re-enacted item 541 without change, and struck out, following item 541, items 555 to 565. The items 555 to 565 formerly set out in the analysis of sections immediately following chapter heading were transferred to a position following a new heading for subchapter II preceding section 555.
+    1980—[Pub. L. 96–513, title I][/us/pl/96/513/tI], § 104(a), Dec. 12, 1980, [94 Stat. 2845][/us/stat/94/2845], inserted an analysis of subchapters immediately following chapter heading, added subchapter I heading, and, in analysis of sections following subchapter I heading, added items 531, 532, and 533 preceding item 541, re-enacted item 541 without change, and struck out, following item 541, items 555 to 565. The items 555 to 565 formerly set out in the analysis of sections immediately following chapter heading were transferred to a position following a new heading for subchapter II preceding section 555.
 
 ----------
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/102/190/s1112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1112%2Fb%2F1
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1501
-[/us/pl/96/513/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs104%2Fa
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2845
 
 

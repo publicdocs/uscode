@@ -85,7 +85,7 @@
 
         The term “major weapon system” means a major system within the meaning of [section 2302d(a) of this title][/us/usc/t10/s2302d/a].
 
-(Added [Pub. L. 112–239, div. A, title VIII, § 823(a)(1)][/us/pl/112/239/s823/a/1], Jan. 2, 2013, [126 Stat. 1830][/us/stat/126/1830]; amended [Pub. L. 113–66, div. A, title VIII, § 823][/us/pl/113/66/s823], Dec. 26, 2013, [127 Stat. 809][/us/stat/127/809].)
+(Added [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 823(a)(1), Jan. 2, 2013, [126 Stat. 1830][/us/stat/126/1830]; amended [Pub. L. 113–66, div. A, title VIII][/us/pl/113/66/dA/tVIII], § 823, Dec. 26, 2013, [127 Stat. 809][/us/stat/127/809].)
 
  __Amendments__ 
 
@@ -93,7 +93,7 @@
 
  __Similar Provisions__ 
 
-    Provisions similar to this section were contained in [section 805 of Pub. L. 111–84][/us/pl/111/84/s805], which was set out as a note under [section 2302 of this title][/us/usc/t10/s2302] prior to repeal by [Pub. L. 112–239, div. A, title VIII, § 823(b)][/us/pl/112/239/s823/b], Jan. 2, 2013, [126 Stat. 1832][/us/stat/126/1832].
+    Provisions similar to this section were contained in [section 805 of Pub. L. 111–84][/us/pl/111/84/s805], which was set out as a note under [section 2302 of this title][/us/usc/t10/s2302] prior to repeal by [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 823(b), Jan. 2, 2013, [126 Stat. 1832][/us/stat/126/1832].
 
 ----------
 
@@ -103,14 +103,14 @@
 ----------
 
 [/us/usc/t10/s2302d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302d%2Fa
-[/us/pl/112/239/s823/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs823%2Fa%2F1
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1830
-[/us/pl/113/66/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs823
+[/us/pl/113/66/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVIII
 [/us/stat/127/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F809
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/84/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs805
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/112/239/s823/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs823%2Fb
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1832
 
 

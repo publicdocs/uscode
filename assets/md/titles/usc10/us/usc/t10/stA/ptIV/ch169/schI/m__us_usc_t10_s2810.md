@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch169/schI/m__us_usc_t10_s2809.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch169/schI/m__us_usc_t10_s2811.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2810)
 
-## \[§ 2810. Repealed. [Pub. L. 107–314, div. A, title III, § 313(b)][/us/pl/107/314/s313/b], Dec. 2, 2002, [116 Stat. 2507][/us/stat/116/2507]\]
+## \[§ 2810. Repealed. [Pub. L. 107–314, div. A, title III][/us/pl/107/314/dA/tIII], § 313(b), Dec. 2, 2002, [116 Stat. 2507][/us/stat/116/2507]\]
 
-    Section, added [Pub. L. 99–499, title II, § 211(b)(1)][/us/pl/99/499/s211/b/1], Oct. 17, 1986, [100 Stat. 1725][/us/stat/100/1725], related to military construction projects for environmental response actions.
+    Section, added [Pub. L. 99–499, title II][/us/pl/99/499/tII], § 211(b)(1), Oct. 17, 1986, [100 Stat. 1725][/us/stat/100/1725], related to military construction projects for environmental response actions.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/107/314/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs313%2Fb
+[/us/pl/107/314/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtIII
 [/us/stat/116/2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2507
-[/us/pl/99/499/s211/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs211%2Fb%2F1
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1725
 
 

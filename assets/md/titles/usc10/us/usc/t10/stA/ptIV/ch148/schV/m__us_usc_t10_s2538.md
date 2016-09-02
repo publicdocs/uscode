@@ -45,19 +45,19 @@
 
     Whoever fails to comply with this section shall be imprisoned for not more than three years and fined under title 18.
 
-(Added [Pub. L. 103–160, div. A, title VIII, § 822(a)(1)][/us/pl/103/160/s822/a/1], Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704]; amended [Pub. L. 103–337, div. A, title VIII, § 811][/us/pl/103/337/s811], Oct. 5, 1994, [108 Stat. 2815][/us/stat/108/2815].)
+(Added [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 822(a)(1), Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704]; amended [Pub. L. 103–337, div. A, title VIII][/us/pl/103/337/dA/tVIII], § 811, Oct. 5, 1994, [108 Stat. 2815][/us/stat/108/2815].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 4501 and 9501 of this title, prior to repeal by [Pub. L. 103–160, § 822(a)(2)][/us/pl/103/160/s822/a/2].
+    Provisions similar to those in this section were contained in sections 4501 and 9501 of this title, prior to repeal by [Pub. L. 103–160][/us/pl/103/160], § 822(a)(2).
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–337, § 811(1)][/us/pl/103/337/s811/1], substituted “head of any department” for “Secretary of Defense”.
+    1994—Subsec. (a). [Pub. L. 103–337][/us/pl/103/337], § 811(1), substituted “head of any department” for “Secretary of Defense”.
 
-    Subsec. (c). [Pub. L. 103–337, § 811][/us/pl/103/337/s811], substituted “through the head of any department” for “through the Secretary of Defense” and “opinion of the head of that department” for “opinion of the Secretary of Defense” in introductory provisions and “head of such department” for “Secretary” in pars. (2) and (3).
+    Subsec. (c). [Pub. L. 103–337][/us/pl/103/337], § 811, substituted “through the head of any department” for “through the Secretary of Defense” and “opinion of the head of that department” for “opinion of the Secretary of Defense” in introductory provisions and “head of such department” for “Secretary” in pars. (2) and (3).
 
-    Subsec. (d). [Pub. L. 103–337, § 811(1)][/us/pl/103/337/s811/1], substituted “head of any department” for “Secretary of Defense”.
+    Subsec. (d). [Pub. L. 103–337][/us/pl/103/337], § 811(1), substituted “head of any department” for “Secretary of Defense”.
 
 ----------
 
@@ -66,13 +66,13 @@
 ----------
 ----------
 
-[/us/pl/103/160/s822/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs822%2Fa%2F1
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1704
-[/us/pl/103/337/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs811
+[/us/pl/103/337/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVIII
 [/us/stat/108/2815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2815
-[/us/pl/103/160/s822/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs822%2Fa%2F2
-[/us/pl/103/337/s811/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs811%2F1
-[/us/pl/103/337/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs811
-[/us/pl/103/337/s811/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs811%2F1
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 
 

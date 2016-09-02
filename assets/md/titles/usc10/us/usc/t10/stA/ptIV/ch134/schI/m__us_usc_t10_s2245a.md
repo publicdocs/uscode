@@ -17,7 +17,7 @@
 
     Funds appropriated to the Department of Defense for operation and maintenance may not be used to purchase any item (including any item to be acquired as a replacement for an item) that has an investment item unit cost that is greater than $250,000.
 
-(Added [Pub. L. 109–163, div. A, title III, § 373(a)][/us/pl/109/163/s373/a], Jan. 6, 2006, [119 Stat. 3210][/us/stat/119/3210].)
+(Added [Pub. L. 109–163, div. A, title III][/us/pl/109/163/dA/tIII], § 373(a), Jan. 6, 2006, [119 Stat. 3210][/us/stat/119/3210].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/163/s373/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs373%2Fa
+[/us/pl/109/163/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIII
 [/us/stat/119/3210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3210
 
 

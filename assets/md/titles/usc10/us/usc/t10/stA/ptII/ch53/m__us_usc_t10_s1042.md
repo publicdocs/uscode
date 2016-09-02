@@ -23,7 +23,7 @@
 
     (3) a legal representative of the person.
 
-(Added [Pub. L. 97–258, § 2(b)(2)(B)][/us/pl/97/258/s2/b/2/B], Sept. 13, 1982, [96 Stat. 1052][/us/stat/96/1052].)
+(Added [Pub. L. 97–258][/us/pl/97/258], § 2(b)(2)(B), Sept. 13, 1982, [96 Stat. 1052][/us/stat/96/1052].)
 
 <table>
 
@@ -78,7 +78,7 @@ June 19, 1956, ch. 409, 70 Stat. 297.  </td>
 ----------
 ----------
 
-[/us/pl/97/258/s2/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F2%2FB
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1052
 
 

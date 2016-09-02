@@ -33,7 +33,7 @@
 
         (2) No officer or employee of the Department of Defense may interfere with the ability of the Legal Counsel to give independent legal advice to the Chairman of the Joint Chiefs of Staff and to the Joint Chiefs of Staff.
 
-(Added [Pub. L. 110–181, div. A, title V, § 543(e)(1)][/us/pl/110/181/s543/e/1], Jan. 28, 2008, [122 Stat. 115][/us/stat/122/115]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 591, Oct. 14, 2008, [122 Stat. 4474][/us/stat/122/4474]; [Pub. L. 111–84, div. A, title V, § 501(a)][/us/pl/111/84/s501/a], Oct. 28, 2009, [123 Stat. 2272][/us/stat/123/2272].)
+(Added [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 543(e)(1), Jan. 28, 2008, [122 Stat. 115][/us/stat/122/115]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 591, Oct. 14, 2008, [122 Stat. 4474][/us/stat/122/4474]; [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 501(a), Oct. 28, 2009, [123 Stat. 2272][/us/stat/123/2272].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–84, div. A, title V, § 501(b)][/us/pl/111/84/s501/b], Oct. 28, 2009, [123 Stat. 2272][/us/stat/123/2272], provided that: 
+[Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 501(b), Oct. 28, 2009, [123 Stat. 2272][/us/stat/123/2272], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 28, 2009\], and shall apply with respect to individuals appointed as Legal Counsel to the Chairman of the Joint Chiefs of Staff on or after that date.”
 
@@ -54,15 +54,15 @@
 ----------
 ----------
 
-[/us/pl/110/181/s543/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs543%2Fe%2F1
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F115
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4474
-[/us/pl/111/84/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs501%2Fa
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2272
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/111/84/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs501%2Fb
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2272
 
 

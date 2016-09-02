@@ -47,11 +47,11 @@
 
         (2) the civilian personnel of the Department of Defense assigned to military medical facilities.
 
-(Added [Pub. L. 104–106, div. A, title V, § 564(a)(1)][/us/pl/104/106/s564/a/1], Feb. 10, 1996, [110 Stat. 325][/us/stat/110/325]; amended [Pub. L. 105–85, div. A, title X, § 1073(a)(4)][/us/pl/105/85/s1073/a/4], Nov. 18, 1997, [111 Stat. 1900][/us/stat/111/1900].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 564(a)(1), Feb. 10, 1996, [110 Stat. 325][/us/stat/110/325]; amended [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(4), Nov. 18, 1997, [111 Stat. 1900][/us/stat/111/1900].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [Pub. L. 101–510, div. A, title VII, § 711][/us/pl/101/510/s711], Nov. 5, 1990, [104 Stat. 1582][/us/stat/104/1582], as amended, which was set out as a note under [section 115 of this title][/us/usc/t10/s115], prior to repeal by [Pub. L. 104–106, § 564(d)(1)][/us/pl/104/106/s564/d/1].
+    Provisions similar to those in this section were contained in [Pub. L. 101–510, div. A, title VII][/us/pl/101/510/dA/tVII], § 711, Nov. 5, 1990, [104 Stat. 1582][/us/stat/104/1582], as amended, which was set out as a note under [section 115 of this title][/us/usc/t10/s115], prior to repeal by [Pub. L. 104–106][/us/pl/104/106], § 564(d)(1).
 
  __Amendments__ 
 
@@ -59,7 +59,7 @@
 
  __Prohibition on Conversion of Military Medical and Dental Positions to Civilian Medical and Dental Positions__ 
 
-[Pub. L. 110–181, div. A, title VII, § 721(a)][/us/pl/110/181/s721/a]–(d), Jan. 28, 2008, [122 Stat. 198][/us/stat/122/198], 199, as amended by [Pub. L. 111–84, div. A, title VII, § 701][/us/pl/111/84/s701], Oct. 28, 2009, [123 Stat. 2372][/us/stat/123/2372], provided that:
+[Pub. L. 110–181, div. A, title VII][/us/pl/110/181/dA/tVII], § 721(a)–(d), Jan. 28, 2008, [122 Stat. 198][/us/stat/122/198], 199, as amended by [Pub. L. 111–84, div. A, title VII][/us/pl/111/84/dA/tVII], § 701, Oct. 28, 2009, [123 Stat. 2372][/us/stat/123/2372], provided that:
 
 >     “(a)  __Prohibition__  __.—__ 
 
@@ -105,11 +105,11 @@
 
  __Requirement To Certify and Report on Conversion of Military Medical and Dental Positions to Civilian Medical and Dental Positions__ 
 
-    [Pub. L. 109–364, div. A, title VII, § 742][/us/pl/109/364/s742], Oct. 17, 2006, [120 Stat. 2306][/us/stat/120/2306], which prohibited the Secretary of a military department from converting any military medical or dental position to a civilian medical or dental position in a fiscal year until the Secretary submitted to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives with respect to that fiscal year a certification that the conversions within that department would not increase cost or decrease quality of care or access to care, was repealed by [Pub. L. 110–181, div. A, title VII, § 721(e)][/us/pl/110/181/s721/e], Jan. 28, 2008, [122 Stat. 199][/us/stat/122/199].
+    [Pub. L. 109–364, div. A, title VII][/us/pl/109/364/dA/tVII], § 742, Oct. 17, 2006, [120 Stat. 2306][/us/stat/120/2306], which prohibited the Secretary of a military department from converting any military medical or dental position to a civilian medical or dental position in a fiscal year until the Secretary submitted to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives with respect to that fiscal year a certification that the conversions within that department would not increase cost or decrease quality of care or access to care, was repealed by [Pub. L. 110–181, div. A, title VII][/us/pl/110/181/dA/tVII], § 721(e), Jan. 28, 2008, [122 Stat. 199][/us/stat/122/199].
 
  __Prohibition on Conversions of Military Medical and Dental Positions to Civilian Medical Positions Until Submission of Certification__ 
 
-[Pub. L. 109–163, div. A, title VII, § 744][/us/pl/109/163/s744], Jan. 6, 2006, [119 Stat. 3360][/us/stat/119/3360], provided that:
+[Pub. L. 109–163, div. A, title VII][/us/pl/109/163/dA/tVII], § 744, Jan. 6, 2006, [119 Stat. 3360][/us/stat/119/3360], provided that:
 
 >     “(a) __Prohibition on Conversions.—__ 
 
@@ -171,7 +171,7 @@
 
  __Special Transition Rule for Fiscal Year 1996__ 
 
-    [Pub. L. 104–106, div. A, title V, § 564(b)][/us/pl/104/106/s564/b], Feb. 10, 1996, [110 Stat. 326][/us/stat/110/326], provided that, for purposes of applying subsec. (b)(1) of this section during fiscal year 1996, the number against which the percentage limitation of 95 percent was to be computed would be the number of medical personnel of the Department of Defense as of the end of fiscal year 1994, rather than the number as of the end of fiscal year 1995.
+    [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 564(b), Feb. 10, 1996, [110 Stat. 326][/us/stat/110/326], provided that, for purposes of applying subsec. (b)(1) of this section during fiscal year 1996, the number against which the percentage limitation of 95 percent was to be computed would be the number of medical personnel of the Department of Defense as of the end of fiscal year 1994, rather than the number as of the end of fiscal year 1995.
 
 ----------
 
@@ -181,28 +181,28 @@
 ----------
 
 [/us/usc/t10/s115a/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs115a%2Fe%2F2
-[/us/pl/104/106/s564/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs564%2Fa%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F325
-[/us/pl/105/85/s1073/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F4
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1900
-[/us/pl/101/510/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs711
+[/us/pl/101/510/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVII
 [/us/stat/104/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1582
 [/us/usc/t10/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs115
-[/us/pl/104/106/s564/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs564%2Fd%2F1
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/110/181/s721/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs721%2Fa
+[/us/pl/110/181/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVII
 [/us/stat/122/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F198
-[/us/pl/111/84/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs701
+[/us/pl/111/84/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVII
 [/us/stat/123/2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2372
 [/us/usc/t10/s1072/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F1
-[/us/pl/109/364/s742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs742
+[/us/pl/109/364/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVII
 [/us/stat/120/2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2306
-[/us/pl/110/181/s721/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs721%2Fe
+[/us/pl/110/181/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVII
 [/us/stat/122/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F199
-[/us/pl/109/163/s744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs744
+[/us/pl/109/163/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVII
 [/us/stat/119/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3360
 [/us/usc/t10/s1072/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F1
-[/us/pl/104/106/s564/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs564%2Fb
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F326
 
 

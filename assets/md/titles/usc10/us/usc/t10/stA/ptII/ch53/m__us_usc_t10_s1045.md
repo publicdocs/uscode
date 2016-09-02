@@ -37,7 +37,7 @@
 
         (2) The term “Secretary concerned” includes the Secretary of Health and Human Services with respect to the commissioned corps of the Public Health Service and the Secretary of Commerce with respect to the commissioned corps of the National Oceanic and Atmospheric Administration.
 
-(Added [Pub. L. 98–525, title VI, § 654(a)][/us/pl/98/525/s654/a], Oct. 19, 1984, [98 Stat. 2551][/us/stat/98/2551]; amended [Pub. L. 100–26, § 7(k)(2)][/us/pl/100/26/s7/k/2], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 109–163, div. A, title VI, § 661][/us/pl/109/163/s661], Jan. 6, 2006, [119 Stat. 3314][/us/stat/119/3314].)
+(Added [Pub. L. 98–525, title VI][/us/pl/98/525/tVI], § 654(a), Oct. 19, 1984, [98 Stat. 2551][/us/stat/98/2551]; amended [Pub. L. 100–26][/us/pl/100/26], § 7(k)(2), Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 661, Jan. 6, 2006, [119 Stat. 3314][/us/stat/119/3314].)
 
  __Amendments__ 
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/98/525/s654/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs654%2Fa
+[/us/pl/98/525/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVI
 [/us/stat/98/2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2551
-[/us/pl/100/26/s7/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fk%2F2
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F284
-[/us/pl/109/163/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs661
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3314
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26

@@ -17,7 +17,7 @@
 
     Under regulations prescribed by the Secretary concerned, a regular enlisted member of an armed force who has dependents may be discharged for hardship.
 
-(Added [Pub. L. 93–64, title I, § 102][/us/pl/93/64/s102], July 9, 1973, [87 Stat. 147][/us/stat/87/147].)
+(Added [Pub. L. 93–64, title I][/us/pl/93/64/tI], § 102, July 9, 1973, [87 Stat. 147][/us/stat/87/147].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/64/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F64%2Fs102
+[/us/pl/93/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F64%2FtI
 [/us/stat/87/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F147
 [/us/pl/93/64/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F64%2Fs206
 [/us/usc/t37/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs401

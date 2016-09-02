@@ -25,7 +25,7 @@
 
     (b) For purposes of subsection (a)(1), a current investigation file is a file on an investigation that has been conducted within the past five years.
 
-(Added [Pub. L. 101–510, div. A, title IX, § 904(a)][/us/pl/101/510/s904/a], Nov. 5, 1990, [104 Stat. 1621][/us/stat/104/1621]; amended [Pub. L. 102–190, div. A, title X, § 1061(a)(11)][/us/pl/102/190/s1061/a/11], Dec. 5, 1991, [105 Stat. 1473][/us/stat/105/1473].)
+(Added [Pub. L. 101–510, div. A, title IX][/us/pl/101/510/dA/tIX], § 904(a), Nov. 5, 1990, [104 Stat. 1621][/us/stat/104/1621]; amended [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1061(a)(11), Dec. 5, 1991, [105 Stat. 1473][/us/stat/105/1473].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/101/510/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs904%2Fa
+[/us/pl/101/510/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIX
 [/us/stat/104/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1621
-[/us/pl/102/190/s1061/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fa%2F11
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1473
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 

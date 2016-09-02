@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t10/stD/ptIV/ch933/m__us_usc_t10_s9540.md) | [Next](./../../../../../..//us/usc/t10/stD/ptIV/ch935/m__us_usc_t10_stD_ptIV_ch935.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9541)
 
-## \[§ 9541. Repealed. [Pub. L. 103–160, div. A, title VIII, § 822(d)(2)][/us/pl/103/160/s822/d/2], Nov. 30, 1993, [107 Stat. 1707][/us/stat/107/1707]\]
+## \[§ 9541. Repealed. [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 822(d)(2), Nov. 30, 1993, [107 Stat. 1707][/us/stat/107/1707]\]
 
-    Section, added [Pub. L. 97–258, § 2(b)(13)(B)][/us/pl/97/258/s2/b/13/B], Sept. 13, 1982, [96 Stat. 1058][/us/stat/96/1058], related to gratuitous services of officers of Air Force Reserve. See [section 10212 of this title][/us/usc/t10/s10212].
+    Section, added [Pub. L. 97–258][/us/pl/97/258], § 2(b)(13)(B), Sept. 13, 1982, [96 Stat. 1058][/us/stat/96/1058], related to gratuitous services of officers of Air Force Reserve. See [section 10212 of this title][/us/usc/t10/s10212].
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/103/160/s822/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs822%2Fd%2F2
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1707
-[/us/pl/97/258/s2/b/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F13%2FB
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1058
 [/us/usc/t10/s10212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10212
 

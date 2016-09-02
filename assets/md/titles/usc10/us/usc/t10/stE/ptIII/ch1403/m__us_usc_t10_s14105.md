@@ -23,7 +23,7 @@
 
     A notice under subsection (a) shall include the date on which the board is to convene and (except in the case of a vacancy promotion board) the name and date of rank of the junior officer, and of the senior officer, in the promotion zone as of the date of the notice.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2925][/us/stat/108/2925].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2925][/us/stat/108/2925].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t10/s14101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fa
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2925
 
 

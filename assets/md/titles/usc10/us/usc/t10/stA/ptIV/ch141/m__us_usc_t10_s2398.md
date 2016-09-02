@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch141/m__us_usc_t10_s2396.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch141/m__us_usc_t10_s2398a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2398)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch141/m__us_usc_t10_s2397...2397c.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch141/m__us_usc_t10_s2398a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2398)
 
 ## \[§ 2398. Renumbered § 2922c\]
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch141/m__us_usc_t10_s2396.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch141/m__us_usc_t10_s2398a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2398)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch141/m__us_usc_t10_s2397...2397c.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch141/m__us_usc_t10_s2398a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2398)
 
 ----------
 ----------

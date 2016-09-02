@@ -31,21 +31,21 @@
 
         (2) The date on which the member is first notified of the member’s entitlement to benefits under this section.
 
-(Added [Pub. L. 101–510, div. A, title V, § 502(a)(1)][/us/pl/101/510/s502/a/1], Nov. 5, 1990, [104 Stat. 1556][/us/stat/104/1556]; amended [Pub. L. 103–160, div. A, title V, § 561(i)][/us/pl/103/160/s561/i], Nov. 30, 1993, [107 Stat. 1668][/us/stat/107/1668]; [Pub. L. 103–337, div. A, title V, § 542(a)(5)][/us/pl/103/337/s542/a/5], Oct. 5, 1994, [108 Stat. 2768][/us/stat/108/2768]; [Pub. L. 105–261, div. A, title V, § 561(i)][/us/pl/105/261/s561/i], Oct. 17, 1998, [112 Stat. 2026][/us/stat/112/2026]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 571(i)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–135; [Pub. L. 110–181, div. A, title VI, § 651][/us/pl/110/181/s651], Jan. 28, 2008, [122 Stat. 162][/us/stat/122/162]; [Pub. L. 110–317, § 5][/us/pl/110/317/s5], Aug. 29, 2008, [122 Stat. 3528][/us/stat/122/3528]; [Pub. L. 111–383, div. A, title X, § 1075(b)(16)][/us/pl/111/383/s1075/b/16], Jan. 7, 2011, [124 Stat. 4369][/us/stat/124/4369]; [Pub. L. 112–239, div. A, title VI, § 631][/us/pl/112/239/s631], title X, § 1076(f)(16), Jan. 2, 2013, [126 Stat. 1781][/us/stat/126/1781], 1952.)
+(Added [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 502(a)(1), Nov. 5, 1990, [104 Stat. 1556][/us/stat/104/1556]; amended [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 561(i), Nov. 30, 1993, [107 Stat. 1668][/us/stat/107/1668]; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 542(a)(5), Oct. 5, 1994, [108 Stat. 2768][/us/stat/108/2768]; [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 561(i), Oct. 17, 1998, [112 Stat. 2026][/us/stat/112/2026]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 571(i)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–135; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 651, Jan. 28, 2008, [122 Stat. 162][/us/stat/122/162]; [Pub. L. 110–317][/us/pl/110/317], § 5, Aug. 29, 2008, [122 Stat. 3528][/us/stat/122/3528]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(16), Jan. 7, 2011, [124 Stat. 4369][/us/stat/124/4369]; [Pub. L. 112–239, div. A, title VI][/us/pl/112/239/dA/tVI], § 631, title X, § 1076(f)(16), Jan. 2, 2013, [126 Stat. 1781][/us/stat/126/1781], 1952.)
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 112–239, § 631(a)(1)][/us/pl/112/239/s631/a/1], (b)(1), substituted “2018” for “2012” and “The Secretary concerned” for “The Secretary of Transportation”.
+    2013—Subsec. (a). [Pub. L. 112–239][/us/pl/112/239], § 631(a)(1), (b)(1), substituted “2018” for “2012” and “The Secretary concerned” for “The Secretary of Transportation”.
 
-    Subsec. (b). [Pub. L. 112–239, § 1076(f)(16)][/us/pl/112/239/s1076/f/16], inserted “when the Coast Guard is not operating as a service in the Navy” before period at end.
+    Subsec. (b). [Pub. L. 112–239][/us/pl/112/239], § 1076(f)(16), inserted “when the Coast Guard is not operating as a service in the Navy” before period at end.
 
-    [Pub. L. 112–239, § 631(a)(2)][/us/pl/112/239/s631/a/2], (b)(2), substituted “2018” for “2012” and “The Secretary concerned” for “The Secretary of Homeland Security”.
+    [Pub. L. 112–239][/us/pl/112/239], § 631(a)(2), (b)(2), substituted “2018” for “2012” and “The Secretary concerned” for “The Secretary of Homeland Security”.
 
-    2011—Subsec. (a). [Pub. L. 111–383, § 1075(b)(16)(A)][/us/pl/111/383/s1075/b/16/A], struck out “(a) Benefits for Members Involuntarily Separated.—” before “The Secretary”.
+    2011—Subsec. (a). [Pub. L. 111–383][/us/pl/111/383], § 1075(b)(16)(A), struck out “(a) Benefits for Members Involuntarily Separated.—” before “The Secretary”.
 
-    Subsec. (b). [Pub. L. 111–383, § 1075(b)(16)(B)][/us/pl/111/383/s1075/b/16/B], redesignated subsec. (b) relating to benefits for members receiving sole survivorship discharge as (c).
+    Subsec. (b). [Pub. L. 111–383][/us/pl/111/383], § 1075(b)(16)(B), redesignated subsec. (b) relating to benefits for members receiving sole survivorship discharge as (c).
 
-    Subsec. (c). [Pub. L. 111–383, § 1075(b)(16)(B)][/us/pl/111/383/s1075/b/16/B], (C), redesignated subsec. (b) relating to benefits for members receiving sole survivorship discharge as (c), struck out “Benefits for” before “Members” in heading, and substituted “armed forces” for “Armed Forces” in introductory provisions and “the member’s entitlement” for “the members entitlement” in par. (2).
+    Subsec. (c). [Pub. L. 111–383][/us/pl/111/383], § 1075(b)(16)(B), (C), redesignated subsec. (b) relating to benefits for members receiving sole survivorship discharge as (c), struck out “Benefits for” before “Members” in heading, and substituted “armed forces” for “Armed Forces” in introductory provisions and “the member’s entitlement” for “the members entitlement” in par. (2).
 
     2008—[Pub. L. 110–317][/us/pl/110/317] substituted “(a) Benefits for Members Involuntarily Separated.—The Secretary of Defense” for “The Secretary of Defense” and added subsec. (b) relating to benefits for members receiving sole survivorship discharge.
 
@@ -80,30 +80,30 @@
 
 [/us/usc/t10/s647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs647
 [/us/usc/t10/s1174/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174%2Fi
-[/us/pl/101/510/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs502%2Fa%2F1
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1556
-[/us/pl/103/160/s561/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs561%2Fi
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1668
-[/us/pl/103/337/s542/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs542%2Fa%2F5
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2768
-[/us/pl/105/261/s561/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs561%2Fi
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2026
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/110/181/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs651
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F162
-[/us/pl/110/317/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F317%2Fs5
+[/us/pl/110/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F317
 [/us/stat/122/3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3528
-[/us/pl/111/383/s1075/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F16
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4369
-[/us/pl/112/239/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs631
+[/us/pl/112/239/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVI
 [/us/stat/126/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1781
-[/us/pl/112/239/s631/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs631%2Fa%2F1
-[/us/pl/112/239/s1076/f/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F16
-[/us/pl/112/239/s631/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs631%2Fa%2F2
-[/us/pl/111/383/s1075/b/16/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F16%2FA
-[/us/pl/111/383/s1075/b/16/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F16%2FB
-[/us/pl/111/383/s1075/b/16/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F16%2FB
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/110/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F317
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398

@@ -59,7 +59,7 @@
 
     The Secretary of Defense shall examine and seek ways for incorporating hiring preferences for qualified spouses of members of the armed forces into contracts between the Department of Defense and private-sector entities.
 
-(Added [Pub. L. 104–106, div. A, title V, § 568(a)(1)][/us/pl/104/106/s568/a/1], Feb. 10, 1996, [110 Stat. 330][/us/stat/110/330]; amended [Pub. L. 107–107, div. A, title V, § 571(c)][/us/pl/107/107/s571/c], Dec. 28, 2001, [115 Stat. 1121][/us/stat/115/1121].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 568(a)(1), Feb. 10, 1996, [110 Stat. 330][/us/stat/110/330]; amended [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 571(c), Dec. 28, 2001, [115 Stat. 1121][/us/stat/115/1121].)
 
  __Amendments__ 
 
@@ -67,7 +67,7 @@
 
  __Improved Data Collection Related to Efforts To Reduce Underemployment of Spouses of Members of the Armed Forces and Close the Wage Gap Between Military Spouses and Their Civilian Counterparts__ 
 
-[Pub. L. 113–291, div. A, title V, § 568][/us/pl/113/291/s568], Dec. 19, 2014, [128 Stat. 3386][/us/stat/128/3386], provided that:
+[Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 568, Dec. 19, 2014, [128 Stat. 3386][/us/stat/128/3386], provided that:
 
 >     “(a)  __Data Collection Efforts__  __.—__ 
 
@@ -93,7 +93,7 @@
 
  __Pilot Program To Secure Internships for Military Spouses With Federal Agencies__ 
 
-[Pub. L. 111–84, div. A, title V, § 564][/us/pl/111/84/s564], Oct. 28, 2009, [123 Stat. 2308][/us/stat/123/2308], provided that:
+[Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 564, Oct. 28, 2009, [123 Stat. 2308][/us/stat/123/2308], provided that:
 
 >     “(a)  __Cost-reimbursement Agreements With Federal Agencies__  __.—__ 
 
@@ -137,7 +137,7 @@
 
  __Continuation of Delegation of Authority With Respect to Hiring Preference for Qualified Military Spouses__ 
 
-[Pub. L. 104–106, div. A, title V, § 568(d)][/us/pl/104/106/s568/d], Feb. 10, 1996, [110 Stat. 336][/us/stat/110/336], provided that: 
+[Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 568(d), Feb. 10, 1996, [110 Stat. 336][/us/stat/110/336], provided that: 
 
 > “The provisions of Executive Order No. 12568, issued October 2, 1986 ([10 U.S.C. 113][/us/usc/t10/s113] note) \[set out below\], shall apply as if the reference in that Executive order to section 806(a)(2) of the Department of Defense Authorization Act of 1986 refers to [section 1784 of title 10][/us/usc/t10/s1784], United States Code, as added by subsection (a).”
 
@@ -157,16 +157,16 @@
 ----------
 
 [/us/usc/t5/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3302
-[/us/pl/104/106/s568/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs568%2Fa%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F330
-[/us/pl/107/107/s571/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs571%2Fc
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1121
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/113/291/s568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs568
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3386
-[/us/pl/111/84/s564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs564
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2308
-[/us/pl/104/106/s568/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs568%2Fd
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F336
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
 [/us/usc/t10/s1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1784

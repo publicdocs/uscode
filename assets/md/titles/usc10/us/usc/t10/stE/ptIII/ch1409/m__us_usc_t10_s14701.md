@@ -55,19 +55,19 @@
 
     The Secretary of Defense shall prescribe regulations for the administration of this section.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2954][/us/stat/108/2954]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 522\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–108; [Pub. L. 108–136, div. A, title V, § 511(a)][/us/pl/108/136/s511/a], Nov. 24, 2003, [117 Stat. 1459][/us/stat/117/1459]; [Pub. L. 113–291, div. A, title V, § 511][/us/pl/113/291/s511], Dec. 19, 2014, [128 Stat. 3357][/us/stat/128/3357].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2954][/us/stat/108/2954]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 522\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–108; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 511(a), Nov. 24, 2003, [117 Stat. 1459][/us/stat/117/1459]; [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 511, Dec. 19, 2014, [128 Stat. 3357][/us/stat/128/3357].)
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–291, § 511(a)][/us/pl/113/291/s511/a], designated existing provisions as subpar. (A), substituted “A reserve officer of the Army, Navy, Air Force, or Marine Corps described in subparagraph (B) who is required to be removed from the reserve active-status list under [section 14504 of this title][/us/usc/t10/s14504], or a reserve officer of” for “A reserve officer of” and “of this title, may” for “of this title may, subject to the needs of the service and to [section 14509 of this title][/us/usc/t10/s14509],”, and added subpars. (B) and (C).
+    2014—Subsec. (a)(1). [Pub. L. 113–291][/us/pl/113/291], § 511(a), designated existing provisions as subpar. (A), substituted “A reserve officer of the Army, Navy, Air Force, or Marine Corps described in subparagraph (B) who is required to be removed from the reserve active-status list under [section 14504 of this title][/us/usc/t10/s14504], or a reserve officer of” for “A reserve officer of” and “of this title, may” for “of this title may, subject to the needs of the service and to [section 14509 of this title][/us/usc/t10/s14509],”, and added subpars. (B) and (C).
 
-    Subsecs. (b), (c). [Pub. L. 113–291, § 511(b)][/us/pl/113/291/s511/b], added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsecs. (b), (c). [Pub. L. 113–291][/us/pl/113/291], § 511(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-    2003—Subsec. (a)(1). [Pub. L. 108–136, § 511(a)(1)(A)][/us/pl/108/136/s511/a/1/A], substituted “under regulations prescribed by the Secretary of Defense” for “by a selection board convened under [section 14101(b) of this title][/us/usc/t10/s14101/b]”.
+    2003—Subsec. (a)(1). [Pub. L. 108–136][/us/pl/108/136], § 511(a)(1)(A), substituted “under regulations prescribed by the Secretary of Defense” for “by a selection board convened under [section 14101(b) of this title][/us/usc/t10/s14101/b]”.
 
-    Subsec. (a)(6). [Pub. L. 108–136, § 511(a)(1)(B)][/us/pl/108/136/s511/a/1/B], substituted “under regulations prescribed under paragraph (1)” for “as a result of the convening of a selection board under [section 14101(b) of this title][/us/usc/t10/s14101/b]”.
+    Subsec. (a)(6). [Pub. L. 108–136][/us/pl/108/136], § 511(a)(1)(B), substituted “under regulations prescribed under paragraph (1)” for “as a result of the convening of a selection board under [section 14101(b) of this title][/us/usc/t10/s14101/b]”.
 
-    Subsecs. (b) to (d). [Pub. L. 108–136, § 511(a)(2)][/us/pl/108/136/s511/a/2], (3), redesignated subsec. (d) as (b) and struck out former subsecs. (b) and (c) which read as follows:
+    Subsecs. (b) to (d). [Pub. L. 108–136][/us/pl/108/136], § 511(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsecs. (b) and (c) which read as follows:
 
     “(b) Approval of Secretary Concerned.—Continuation of an officer on the reserve active-status list under this section pursuant to action of a continuation board convened under [section 14101(b) of this title][/us/usc/t10/s14101/b] is subject to the approval of the Secretary of the military department concerned.
 
@@ -94,23 +94,23 @@
 [/us/usc/t10/s14514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14514
 [/us/usc/t10/s16201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16201
 [/us/usc/t10/s16201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16201
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2954
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/136/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs511%2Fa
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1459
-[/us/pl/113/291/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs511
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3357
-[/us/pl/113/291/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs511%2Fa
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t10/s14504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14504
 [/us/usc/t10/s14509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14509
-[/us/pl/113/291/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs511%2Fb
-[/us/pl/108/136/s511/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs511%2Fa%2F1%2FA
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t10/s14101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fb
-[/us/pl/108/136/s511/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs511%2Fa%2F1%2FB
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t10/s14101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fb
-[/us/pl/108/136/s511/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs511%2Fa%2F2
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t10/s14101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fb
 [/us/usc/t10/s14101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fb
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398

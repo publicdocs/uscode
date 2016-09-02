@@ -35,7 +35,7 @@
 
     (c) In this section, the term “defense critical technology” means a technology that is identified under [section 2505 of this title][/us/usc/t10/s2505] as critical for attaining the national security objectives set forth in [section 2501(a) of this title][/us/usc/t10/s2501/a].
 
-(Added [Pub. L. 102–190, div. A, title VIII, § 828(a)][/us/pl/102/190/s828/a], Dec. 5, 1991, [105 Stat. 1444][/us/stat/105/1444]; amended [Pub. L. 103–35, title II, § 201(c)(3)][/us/pl/103/35/s201/c/3], May 31, 1993, [107 Stat. 98][/us/stat/107/98]; [Pub. L. 105–85, div. A, title X, § 1073(a)(39)][/us/pl/105/85/s1073/a/39], Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902].)
+(Added [Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], § 828(a), Dec. 5, 1991, [105 Stat. 1444][/us/stat/105/1444]; amended [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 201(c)(3), May 31, 1993, [107 Stat. 98][/us/stat/107/98]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(39), Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902].)
 
  __Amendments__ 
 
@@ -52,11 +52,11 @@
 
 [/us/usc/t10/s2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2505
 [/us/usc/t10/s2501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501%2Fa
-[/us/pl/102/190/s828/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs828%2Fa
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1444
-[/us/pl/103/35/s201/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fc%2F3
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F98
-[/us/pl/105/85/s1073/a/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F39
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1902
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/usc/t10/s2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2505

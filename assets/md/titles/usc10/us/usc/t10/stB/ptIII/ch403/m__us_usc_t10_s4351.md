@@ -115,7 +115,7 @@ June 30, 1950, ch. 421, § 2 (1st proviso), 64 Stat. 304.  </td>
 
  __Readmission to Service Academies of Certain Former Cadets and Midshipmen__ 
 
-[Pub. L. 108–136, div. A, title V, § 525][/us/pl/108/136/s525], Nov. 24, 2003, [117 Stat. 1465][/us/stat/117/1465], provided that:
+[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 525, Nov. 24, 2003, [117 Stat. 1465][/us/stat/117/1465], provided that:
 
 >     “(a)  __Inspector General Report as Basis for Readmission__  __.—__ 
 
@@ -167,7 +167,7 @@ June 30, 1950, ch. 421, § 2 (1st proviso), 64 Stat. 304.  </td>
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F244
 [/us/usc/t10/s3287/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3287%2Fd
-[/us/pl/108/136/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs525
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1465
 
 

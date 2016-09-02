@@ -75,7 +75,7 @@
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–136, div. A, title IX, § 921(d)(1)][/us/pl/108/136/s921/d/1], Nov. 24, 2003, [117 Stat. 1568][/us/stat/117/1568], substituted “NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY” FOR “NATIONAL IMAGERY AND MAPPING AGENCY” in chapter heading.
+    2003—[Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 921(d)(1), Nov. 24, 2003, [117 Stat. 1568][/us/stat/117/1568], substituted “NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY” FOR “NATIONAL IMAGERY AND MAPPING AGENCY” in chapter heading.
 
 ----------
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/108/136/s921/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fd%2F1
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1568
 
 

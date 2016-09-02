@@ -41,7 +41,7 @@
 
         (3) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the Naval Postgraduate School to award any new or existing degree.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 438][/us/stat/70A/438], § 7047; renumbered § 7048, [Pub. L. 102–484, div. A, title X, § 1073(a)(1)][/us/pl/102/484/s1073/a/1], Oct. 23, 1992, [106 Stat. 2510][/us/stat/106/2510]; amended [Pub. L. 108–375, div. A, title V, § 557(a)(4)(B)][/us/pl/108/375/s557/a/4/B], Oct. 28, 2004, [118 Stat. 1915][/us/stat/118/1915]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 543(e)(1), Oct. 14, 2008, [122 Stat. 4460][/us/stat/122/4460].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 438][/us/stat/70A/438], § 7047; renumbered § 7048, [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1073(a)(1), Oct. 23, 1992, [106 Stat. 2510][/us/stat/106/2510]; amended [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 557(a)(4)(B), Oct. 28, 2004, [118 Stat. 1915][/us/stat/118/1915]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 543(e)(1), Oct. 14, 2008, [122 Stat. 4460][/us/stat/122/4460].)
 
 <table>
 
@@ -116,9 +116,9 @@ Dec. 7, 1945, ch. 559, 59 Stat. 603; July 31, 1947, ch. 420, § 7, 61 Stat. 70
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F438
-[/us/pl/102/484/s1073/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1073%2Fa%2F1
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2510
-[/us/pl/108/375/s557/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs557%2Fa%2F4%2FB
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1915
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4460

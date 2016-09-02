@@ -39,7 +39,7 @@
 
     (d) A person receiving instruction under this section is not subject to [section 6958(d) of this title][/us/usc/t10/s6958/d].
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 431][/us/stat/70A/431]; [Pub. L. 98–94, title X, § 1004(b)(1)][/us/pl/98/94/s1004/b/1], Sept. 24, 1983, [97 Stat. 658][/us/stat/97/658]; [Pub. L. 105–85, div. A, title V][/us/pl/105/85], §§ 541(b), 543(b), Nov. 18, 1997, [111 Stat. 1740][/us/stat/111/1740], 1743; [Pub. L. 106–65, div. A, title V, § 534(b)][/us/pl/106/65/s534/b], Oct. 5, 1999, [113 Stat. 605][/us/stat/113/605]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 532(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–110; [Pub. L. 107–107, div. A, title V, § 533(b)(1)][/us/pl/107/107/s533/b/1], (2), Dec. 28, 2001, [115 Stat. 1106][/us/stat/115/1106].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 431][/us/stat/70A/431]; [Pub. L. 98–94, title X][/us/pl/98/94/tX], § 1004(b)(1), Sept. 24, 1983, [97 Stat. 658][/us/stat/97/658]; [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], §§ 541(b), 543(b), Nov. 18, 1997, [111 Stat. 1740][/us/stat/111/1740], 1743; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 534(b), Oct. 5, 1999, [113 Stat. 605][/us/stat/113/605]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 532(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–110; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 533(b)(1), (2), Dec. 28, 2001, [115 Stat. 1106][/us/stat/115/1106].)
 
 <table>
 
@@ -127,21 +127,21 @@ June 24, 1948, ch. 616, 62 Stat. 583.  </td>
 
  __Amendments__ 
 
-    2001—Subsec. (a)(1). [Pub. L. 107–107, § 533(b)(1)][/us/pl/107/107/s533/b/1], substituted “60” for “40”.
+    2001—Subsec. (a)(1). [Pub. L. 107–107][/us/pl/107/107], § 533(b)(1), substituted “60” for “40”.
 
-    Subsec. (b)(2). [Pub. L. 107–107, § 533(b)(2)(A)][/us/pl/107/107/s533/b/2/A], struck out “unless a written waiver of reimbursement is granted by the Secretary of Defense” before period at end of first sentence.
+    Subsec. (b)(2). [Pub. L. 107–107][/us/pl/107/107], § 533(b)(2)(A), struck out “unless a written waiver of reimbursement is granted by the Secretary of Defense” before period at end of first sentence.
 
-    Subsec. (b)(3). [Pub. L. 107–107, § 533(b)(2)(B)][/us/pl/107/107/s533/b/2/B], added par. (3) and struck out former par. (3) which read as follows: “The amount of reimbursement waived under paragraph (2) may not exceed 50 percent of the per-person reimbursement amount otherwise required to be paid by a foreign country under such paragraph, except in the case of not more than 20 persons receiving instruction at the Naval Academy under this section at any one time.”
+    Subsec. (b)(3). [Pub. L. 107–107][/us/pl/107/107], § 533(b)(2)(B), added par. (3) and struck out former par. (3) which read as follows: “The amount of reimbursement waived under paragraph (2) may not exceed 50 percent of the per-person reimbursement amount otherwise required to be paid by a foreign country under such paragraph, except in the case of not more than 20 persons receiving instruction at the Naval Academy under this section at any one time.”
 
     2000—Subsec. (a)(3). [Pub. L. 106–398][/us/pl/106/398] added par. (3).
 
     1999—Subsec. (b)(3). [Pub. L. 106–65][/us/pl/106/65] substituted “50 percent” for “35 percent” and “20 persons” for “five persons”.
 
-    1997—Subsec. (b)(2). [Pub. L. 105–85, § 543(b)(1)][/us/pl/105/85/s543/b/1], substituted “, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a midshipman appointed from the United States.” for period at end.
+    1997—Subsec. (b)(2). [Pub. L. 105–85][/us/pl/105/85], § 543(b)(1), substituted “, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a midshipman appointed from the United States.” for period at end.
 
-    Subsec. (b)(3). [Pub. L. 105–85, § 543(b)(2)][/us/pl/105/85/s543/b/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 105–85][/us/pl/105/85], § 543(b)(2), added par. (3).
 
-    Subsec. (d). [Pub. L. 105–85, § 541(b)][/us/pl/105/85/s541/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 105–85][/us/pl/105/85], § 541(b), added subsec. (d).
 
     1983—[Pub. L. 98–94][/us/pl/98/94] substituted “Selection of persons from foreign countries” for “Admission of foreigners for instruction: restrictions; conditions” in section catchline.
 
@@ -155,7 +155,7 @@ June 24, 1948, ch. 616, 62 Stat. 583.  </td>
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–107, div. A, title V, § 533(b)(3)][/us/pl/107/107/s533/b/3], Dec. 28, 2001, [115 Stat. 1106][/us/stat/115/1106], provided that: 
+[Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 533(b)(3), Dec. 28, 2001, [115 Stat. 1106][/us/stat/115/1106], provided that: 
 
 > “The amendments made by paragraph (2) \[amending this section\] shall not apply with respect to any person who entered the United States Naval Academy to receive instruction under [section 6957 of title 10][/us/usc/t10/s6957], United States Code, before the date of the enactment of this Act \[Dec. 28, 2001\].”
 
@@ -192,30 +192,30 @@ June 24, 1948, ch. 616, 62 Stat. 583.  </td>
 [/us/usc/t10/s6958/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6958%2Fd
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F431
-[/us/pl/98/94/s1004/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1004%2Fb%2F1
+[/us/pl/98/94/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtX
 [/us/stat/97/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F658
-[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1740
-[/us/pl/106/65/s534/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs534%2Fb
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F605
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s533/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs533%2Fb%2F1
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1106
-[/us/pl/107/107/s533/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs533%2Fb%2F1
-[/us/pl/107/107/s533/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs533%2Fb%2F2%2FA
-[/us/pl/107/107/s533/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs533%2Fb%2F2%2FB
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/105/85/s543/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs543%2Fb%2F1
-[/us/pl/105/85/s543/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs543%2Fb%2F2
-[/us/pl/105/85/s541/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs541%2Fb
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
-[/us/pl/107/107/s533/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs533%2Fb%2F3
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1106
 [/us/usc/t10/s6957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6957
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107

@@ -17,7 +17,7 @@
 
     Under regulations to be prescribed by the Secretary of the Army, an enlisted member of the Army who has at least 20, but less than 30, years of service computed under [section 3925 of this title][/us/usc/t10/s3925] may, upon his request, be retired.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 225][/us/stat/70A/225]; [Pub. L. 85–861, § 33(a)(25)][/us/pl/85/861/s33/a/25], Sept. 2, 1958, [72 Stat. 1565][/us/stat/72/1565]; [Pub. L. 96–343, § 9(a)(1)][/us/pl/96/343/s9/a/1], Sept. 8, 1980, [94 Stat. 1128][/us/stat/94/1128]; [Pub. L. 103–337, div. A, title V, § 515(a)][/us/pl/103/337/s515/a], Oct. 5, 1994, [108 Stat. 2753][/us/stat/108/2753].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 225][/us/stat/70A/225]; [Pub. L. 85–861][/us/pl/85/861], § 33(a)(25), Sept. 2, 1958, [72 Stat. 1565][/us/stat/72/1565]; [Pub. L. 96–343][/us/pl/96/343], § 9(a)(1), Sept. 8, 1980, [94 Stat. 1128][/us/stat/94/1128]; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 515(a), Oct. 5, 1994, [108 Stat. 2753][/us/stat/108/2753].)
 
 <table>
 
@@ -105,7 +105,7 @@ Aug. 10, 1946, ch. 952, § 7, 60 Stat. 996.  </td>
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–343, § 9(c)][/us/pl/96/343/s9/c], Sept. 8, 1980, [94 Stat. 1129][/us/stat/94/1129], provided that: 
+[Pub. L. 96–343][/us/pl/96/343], § 9(c), Sept. 8, 1980, [94 Stat. 1129][/us/stat/94/1129], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 3925, 8914, and 8925 of this title\] shall apply with respect to retired pay payable for months beginning after the date of the enactment of this Act \[Sept. 8, 1980\].”
 
@@ -119,7 +119,7 @@ Aug. 10, 1946, ch. 952, § 7, 60 Stat. 996.  </td>
 
  __Double Credits for Foreign Service by Enlisted Men__ 
 
-    Acts [May 26, 1900, ch. 586][/us/act/1900-05-26/ch586], [31 Stat. 209][/us/stat/31/209]; [Mar. 2, 1903, ch. 975][/us/act/1903-03-02/ch975], [32 Stat. 933][/us/stat/32/933]; [Apr. 23, 1904, ch. 1485][/us/act/1904-04-23/ch1485], [33 Stat. 264][/us/stat/33/264]; [Aug. 24, 1912, ch. 391, § 1][/us/act/1912-08-24/ch391/s1], [37 Stat. 575][/us/stat/37/575]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158], provided that: “In computing length of service for retirement, credit shall be given soldiers for double the time of their actual service in China, Puerto Rico, Cuba, the Philippine Islands, the Island of Guam, Alaska, and Panama, but double credit shall not be given for service rendered subsequent to April 23, 1904, in Puerto Rico or the Territory of Hawaii, nor shall credit for double time for foreign service be given to those who enlisted after August 24, 1912: Provided, That nothing herein shall be so construed as to forfeit credit for double time accrued prior to August 24, 1912.”
+    Acts [May 26, 1900, ch. 586][/us/act/1900-05-26/ch586], [31 Stat. 209][/us/stat/31/209]; [Mar. 2, 1903, ch. 975][/us/act/1903-03-02/ch975], [32 Stat. 933][/us/stat/32/933]; [Apr. 23, 1904, ch. 1485][/us/act/1904-04-23/ch1485], [33 Stat. 264][/us/stat/33/264]; [Aug. 24, 1912, ch. 391][/us/act/1912-08-24/ch391], § 1, [37 Stat. 575][/us/stat/37/575]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158], provided that: “In computing length of service for retirement, credit shall be given soldiers for double the time of their actual service in China, Puerto Rico, Cuba, the Philippine Islands, the Island of Guam, Alaska, and Panama, but double credit shall not be given for service rendered subsequent to April 23, 1904, in Puerto Rico or the Territory of Hawaii, nor shall credit for double time for foreign service be given to those who enlisted after August 24, 1912: Provided, That nothing herein shall be so construed as to forfeit credit for double time accrued prior to August 24, 1912.”
 
 ----------
 
@@ -131,18 +131,18 @@ Aug. 10, 1946, ch. 952, § 7, 60 Stat. 996.  </td>
 [/us/usc/t10/s3925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3925
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F225
-[/us/pl/85/861/s33/a/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F25
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1565
-[/us/pl/96/343/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343%2Fs9%2Fa%2F1
+[/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
 [/us/stat/94/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1128
-[/us/pl/103/337/s515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs515%2Fa
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2753
 [/us/usc/t10/s3925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3925
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s3925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3925
 [/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
-[/us/pl/96/343/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343%2Fs9%2Fc
+[/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
 [/us/stat/94/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1129
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/pl/85/861/s33/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fg
@@ -155,7 +155,7 @@ Aug. 10, 1946, ch. 952, § 7, 60 Stat. 996.  </td>
 [/us/stat/32/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F933
 [/us/act/1904-04-23/ch1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1904-04-23%2Fch1485
 [/us/stat/33/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F264
-[/us/act/1912-08-24/ch391/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch391%2Fs1
+[/us/act/1912-08-24/ch391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch391
 [/us/stat/37/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F575
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158

@@ -21,7 +21,7 @@
 
     (2) The number of officer students and faculty members assigned by each service to the professional military schools of the other services and to the joint schools.
 
-(Added [Pub. L. 108–375, div. A, title V, § 532(a)(2)][/us/pl/108/375/s532/a/2], Oct. 28, 2004, [118 Stat. 1900][/us/stat/118/1900]; amended [Pub. L. 109–364, div. A, title X, § 1071(a)(15)][/us/pl/109/364/s1071/a/15], Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399].)
+(Added [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 532(a)(2), Oct. 28, 2004, [118 Stat. 1900][/us/stat/118/1900]; amended [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(15), Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t10/s113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113%2Fc
-[/us/pl/108/375/s532/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs532%2Fa%2F2
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1900
-[/us/pl/109/364/s1071/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F15
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2399
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 

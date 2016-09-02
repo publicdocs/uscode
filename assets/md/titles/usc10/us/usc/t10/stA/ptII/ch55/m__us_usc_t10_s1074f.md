@@ -107,45 +107,45 @@
 
         (3) The Secretary shall take appropriate actions to ensure the utilization of the standards prescribed under paragraph (1) in the making of determinations regarding the deployability of members of the armed forces to a combat operation or contingency operation.
 
-(Added [Pub. L. 105–85, div. A, title VII, § 765(a)(1)][/us/pl/105/85/s765/a/1], Nov. 18, 1997, [111 Stat. 1826][/us/stat/111/1826]; amended [Pub. L. 109–364, div. A, title VII, § 738(a)][/us/pl/109/364/s738/a]–(d), Oct. 17, 2006, [120 Stat. 2303][/us/stat/120/2303]; [Pub. L. 110–181, div. A, title XVI, § 1673(a)(1)][/us/pl/110/181/s1673/a/1], (b), (c), Jan. 28, 2008, [122 Stat. 482][/us/stat/122/482], 483; [Pub. L. 111–84, div. A, title X, § 1073(a)(9)][/us/pl/111/84/s1073/a/9], Oct. 28, 2009, [123 Stat. 2472][/us/stat/123/2472]; [Pub. L. 111–383, div. A, title VII, § 712][/us/pl/111/383/s712], Jan. 7, 2011, [124 Stat. 4247][/us/stat/124/4247].)
+(Added [Pub. L. 105–85, div. A, title VII][/us/pl/105/85/dA/tVII], § 765(a)(1), Nov. 18, 1997, [111 Stat. 1826][/us/stat/111/1826]; amended [Pub. L. 109–364, div. A, title VII][/us/pl/109/364/dA/tVII], § 738(a)–(d), Oct. 17, 2006, [120 Stat. 2303][/us/stat/120/2303]; [Pub. L. 110–181, div. A, title XVI][/us/pl/110/181/dA/tXVI], § 1673(a)(1), (b), (c), Jan. 28, 2008, [122 Stat. 482][/us/stat/122/482], 483; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(9), Oct. 28, 2009, [123 Stat. 2472][/us/stat/123/2472]; [Pub. L. 111–383, div. A, title VII][/us/pl/111/383/dA/tVII], § 712, Jan. 7, 2011, [124 Stat. 4247][/us/stat/124/4247].)
 
  __Amendments__ 
 
-    2011—Subsec. (b)(1). [Pub. L. 111–383, § 712(a)][/us/pl/111/383/s712/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The system described in subsection (a) shall include the use of predeployment medical examinations and postdeployment medical examinations (including an assessment of mental health and the drawing of blood samples) to accurately record the medical condition of members before their deployment and any changes in their medical condition during the course of their deployment. The postdeployment examination shall be conducted when the member is redeployed or otherwise leaves an area in which the system is in operation (or as soon as possible thereafter).”
+    2011—Subsec. (b)(1). [Pub. L. 111–383][/us/pl/111/383], § 712(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The system described in subsection (a) shall include the use of predeployment medical examinations and postdeployment medical examinations (including an assessment of mental health and the drawing of blood samples) to accurately record the medical condition of members before their deployment and any changes in their medical condition during the course of their deployment. The postdeployment examination shall be conducted when the member is redeployed or otherwise leaves an area in which the system is in operation (or as soon as possible thereafter).”
 
-    Subsec. (b)(2). [Pub. L. 111–383, § 712(b)][/us/pl/111/383/s712/b], substituted “medical examination, postdeployment medical examination, and postdeployment health reassessment” for “and postdeployment medical examination” in introductory provisions.
+    Subsec. (b)(2). [Pub. L. 111–383][/us/pl/111/383], § 712(b), substituted “medical examination, postdeployment medical examination, and postdeployment health reassessment” for “and postdeployment medical examination” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 111–383, § 712(c)][/us/pl/111/383/s712/c], inserted “and reassessments” after “medical examinations” and “and the prescription and administration of psychotropic medications” after “including immunizations”.
+    Subsec. (c). [Pub. L. 111–383][/us/pl/111/383], § 712(c), inserted “and reassessments” after “medical examinations” and “and the prescription and administration of psychotropic medications” after “including immunizations”.
 
-    Subsec. (d)(1). [Pub. L. 111–383, § 712(d)(1)][/us/pl/111/383/s712/d/1], substituted “, postdeployment medical examinations, and postdeployment health reassessments” for “and postdeployment medical examinations”.
+    Subsec. (d)(1). [Pub. L. 111–383][/us/pl/111/383], § 712(d)(1), substituted “, postdeployment medical examinations, and postdeployment health reassessments” for “and postdeployment medical examinations”.
 
-    Subsec. (d)(2)(A). [Pub. L. 111–383, § 712(d)(2)(A)][/us/pl/111/383/s712/d/2/A], inserted “and reassessments” after “postdeployment health assessments”.
+    Subsec. (d)(2)(A). [Pub. L. 111–383][/us/pl/111/383], § 712(d)(2)(A), inserted “and reassessments” after “postdeployment health assessments”.
 
-    Subsec. (d)(2)(B). [Pub. L. 111–383, § 712(d)(2)(B)][/us/pl/111/383/s712/d/2/B], inserted “and reassessments” after “such assessments”.
+    Subsec. (d)(2)(B). [Pub. L. 111–383][/us/pl/111/383], § 712(d)(2)(B), inserted “and reassessments” after “such assessments”.
 
     2009—Subsec. (f)(3). [Pub. L. 111–84][/us/pl/111/84] substituted “contingency” for “continency”.
 
-    2008—Subsec. (b)(2)(C). [Pub. L. 110–181, § 1673(a)(1)(A)][/us/pl/110/181/s1673/a/1/A], added subpar. (C).
+    2008—Subsec. (b)(2)(C). [Pub. L. 110–181][/us/pl/110/181], § 1673(a)(1)(A), added subpar. (C).
 
-    Subsec. (b)(3). [Pub. L. 110–181, § 1673(a)(1)(B)][/us/pl/110/181/s1673/a/1/B], added par. (3).
+    Subsec. (b)(3). [Pub. L. 110–181][/us/pl/110/181], § 1673(a)(1)(B), added par. (3).
 
-    Subsec. (d)(2)(F). [Pub. L. 110–181, § 1673(b)][/us/pl/110/181/s1673/b], added subpar. (F).
+    Subsec. (d)(2)(F). [Pub. L. 110–181][/us/pl/110/181], § 1673(b), added subpar. (F).
 
-    Subsec. (f). [Pub. L. 110–181, § 1673(c)(1)][/us/pl/110/181/s1673/c/1], struck out “Mental Health” after “Minimum” in heading.
+    Subsec. (f). [Pub. L. 110–181][/us/pl/110/181], § 1673(c)(1), struck out “Mental Health” after “Minimum” in heading.
 
-    Subsec. (f)(2)(B). [Pub. L. 110–181, § 1673(c)(2)][/us/pl/110/181/s1673/c/2], substituted “, traumatic brain injury, or” for “or”.
+    Subsec. (f)(2)(B). [Pub. L. 110–181][/us/pl/110/181], § 1673(c)(2), substituted “, traumatic brain injury, or” for “or”.
 
-    2006—Subsec. (b). [Pub. L. 109–364, § 738(a)][/us/pl/109/364/s738/a], designated existing provisions as par. (1) and added par. (2).
+    2006—Subsec. (b). [Pub. L. 109–364][/us/pl/109/364], § 738(a), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (d). [Pub. L. 109–364, § 738(d)][/us/pl/109/364/s738/d], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (d). [Pub. L. 109–364][/us/pl/109/364], § 738(d), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (e). [Pub. L. 109–364, § 738(b)][/us/pl/109/364/s738/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–364][/us/pl/109/364], § 738(b), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 109–364, § 738(c)][/us/pl/109/364/s738/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 109–364][/us/pl/109/364], § 738(c), added subsec. (f).
 
  __Sharing Between Department of Defense and Department of Veterans Affairs of Records and Information Retained Under the Medical Tracking System for Members of the Armed Forces Deployed Overseas__ 
 
-[Pub. L. 112–239, div. A, title VII, § 723][/us/pl/112/239/s723], Jan. 2, 2013, [126 Stat. 1805][/us/stat/126/1805], provided that:
+[Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 723, Jan. 2, 2013, [126 Stat. 1805][/us/stat/126/1805], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -157,7 +157,7 @@
 
  __Comprehensive Policy on Consistent Neurological Cognitive Assessments of Members of the Armed Forces Before and After Deployment__ 
 
-[Pub. L. 111–383, div. A, title VII, § 722][/us/pl/111/383/s722], Jan. 7, 2011, [124 Stat. 4251][/us/stat/124/4251], provided that:
+[Pub. L. 111–383, div. A, title VII][/us/pl/111/383/dA/tVII], § 722, Jan. 7, 2011, [124 Stat. 4251][/us/stat/124/4251], provided that:
 
 >     “(a)  __Comprehensive Policy Required__  __.—__ 
 
@@ -169,11 +169,11 @@
 
  __Mental Health Assessments for Members of the Armed Forces Deployed in Connection With a Contingency Operation__ 
 
-    [Pub. L. 111–84, div. A, title VII, § 708][/us/pl/111/84/s708], Oct. 28, 2009, [123 Stat. 2376][/us/stat/123/2376], which required the Secretary of Defense to issue guidance for the provision of mental health assessments for members of the Armed Forces deployed in connection with a contingency operation, was repealed by [Pub. L. 112–81, div. A, title VII, § 702(b)][/us/pl/112/81/s702/b], Dec. 31, 2011, [125 Stat. 1471][/us/stat/125/1471].
+    [Pub. L. 111–84, div. A, title VII][/us/pl/111/84/dA/tVII], § 708, Oct. 28, 2009, [123 Stat. 2376][/us/stat/123/2376], which required the Secretary of Defense to issue guidance for the provision of mental health assessments for members of the Armed Forces deployed in connection with a contingency operation, was repealed by [Pub. L. 112–81, div. A, title VII][/us/pl/112/81/dA/tVII], § 702(b), Dec. 31, 2011, [125 Stat. 1471][/us/stat/125/1471].
 
  __Administration and Prescription of Psychotropic Medications for Members of the Armed Forces Before and During Deployment__ 
 
-[Pub. L. 111–84, div. A, title VII, § 712][/us/pl/111/84/s712], Oct. 28, 2009, [123 Stat. 2379][/us/stat/123/2379], provided that:
+[Pub. L. 111–84, div. A, title VII][/us/pl/111/84/dA/tVII], § 712, Oct. 28, 2009, [123 Stat. 2379][/us/stat/123/2379], provided that:
 
 >     “(a)  __Report Required__  __.—__ 
 
@@ -193,7 +193,7 @@
 
  __Pilot Projects__ 
 
-[Pub. L. 110–181, div. A, title XVI, § 1673(a)(2)][/us/pl/110/181/s1673/a/2], Jan. 28, 2008, [122 Stat. 482][/us/stat/122/482], provided that:
+[Pub. L. 110–181, div. A, title XVI][/us/pl/110/181/dA/tXVI], § 1673(a)(2), Jan. 28, 2008, [122 Stat. 482][/us/stat/122/482], provided that:
 
 >     “(A)
 
@@ -217,13 +217,13 @@
 
  __Implementation__ 
 
-[Pub. L. 109–364, div. A, title VII, § 738(f)][/us/pl/109/364/s738/f], Oct. 17, 2006, [120 Stat. 2304][/us/stat/120/2304], provided that: 
+[Pub. L. 109–364, div. A, title VII][/us/pl/109/364/dA/tVII], § 738(f), Oct. 17, 2006, [120 Stat. 2304][/us/stat/120/2304], provided that: 
 
 > “The Secretary of Defense shall implement the requirements of the amendments made by this section \[amending this section\] not later than six months after the date of the enactment of this Act \[Oct. 17, 2006\].”
 
  __Interim Standards for Blood Sampling__ 
 
-[Pub. L. 108–375, div. A, title VII, § 733(b)][/us/pl/108/375/s733/b], Oct. 28, 2004, [118 Stat. 1998][/us/stat/118/1998], as amended by [Pub. L. 109–364, div. A, title X, § 1071(g)(9)][/us/pl/109/364/s1071/g/9], Oct. 17, 2006, [120 Stat. 2402][/us/stat/120/2402], provided that:
+[Pub. L. 108–375, div. A, title VII][/us/pl/108/375/dA/tVII], § 733(b), Oct. 28, 2004, [118 Stat. 1998][/us/stat/118/1998], as amended by [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(g)(9), Oct. 17, 2006, [120 Stat. 2402][/us/stat/120/2402], provided that:
 
 >     “(1)  __Time requirements__  __.—__ 
 
@@ -244,51 +244,51 @@
 ----------
 ----------
 
-[/us/pl/105/85/s765/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs765%2Fa%2F1
+[/us/pl/105/85/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVII
 [/us/stat/111/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1826
-[/us/pl/109/364/s738/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs738%2Fa
+[/us/pl/109/364/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVII
 [/us/stat/120/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2303
-[/us/pl/110/181/s1673/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1673%2Fa%2F1
+[/us/pl/110/181/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVI
 [/us/stat/122/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F482
-[/us/pl/111/84/s1073/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F9
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2472
-[/us/pl/111/383/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs712
+[/us/pl/111/383/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVII
 [/us/stat/124/4247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4247
-[/us/pl/111/383/s712/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs712%2Fa
-[/us/pl/111/383/s712/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs712%2Fb
-[/us/pl/111/383/s712/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs712%2Fc
-[/us/pl/111/383/s712/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs712%2Fd%2F1
-[/us/pl/111/383/s712/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs712%2Fd%2F2%2FA
-[/us/pl/111/383/s712/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs712%2Fd%2F2%2FB
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/110/181/s1673/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1673%2Fa%2F1%2FA
-[/us/pl/110/181/s1673/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1673%2Fa%2F1%2FB
-[/us/pl/110/181/s1673/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1673%2Fb
-[/us/pl/110/181/s1673/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1673%2Fc%2F1
-[/us/pl/110/181/s1673/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1673%2Fc%2F2
-[/us/pl/109/364/s738/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs738%2Fa
-[/us/pl/109/364/s738/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs738%2Fd
-[/us/pl/109/364/s738/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs738%2Fb
-[/us/pl/109/364/s738/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs738%2Fc
-[/us/pl/112/239/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs723
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1805
 [/us/usc/t10/s1074f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074f%2Fc
-[/us/pl/111/383/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs722
+[/us/pl/111/383/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVII
 [/us/stat/124/4251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4251
-[/us/pl/111/84/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs708
+[/us/pl/111/84/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVII
 [/us/stat/123/2376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2376
-[/us/pl/112/81/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs702%2Fb
+[/us/pl/112/81/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVII
 [/us/stat/125/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1471
-[/us/pl/111/84/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs712
+[/us/pl/111/84/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVII
 [/us/stat/123/2379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2379
-[/us/pl/110/181/s1673/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1673%2Fa%2F2
+[/us/pl/110/181/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVI
 [/us/stat/122/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F482
 [/us/usc/t10/s1074f/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074f%2Fb
-[/us/pl/109/364/s738/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs738%2Ff
+[/us/pl/109/364/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVII
 [/us/stat/120/2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2304
-[/us/pl/108/375/s733/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs733%2Fb
+[/us/pl/108/375/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVII
 [/us/stat/118/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1998
-[/us/pl/109/364/s1071/g/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fg%2F9
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2402
 [/us/usc/t10/s1074f/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074f%2Fb
 [/us/usc/t10/s1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074

@@ -91,23 +91,23 @@
 
             (B) The Secretary of Defense shall transmit each such report, together with the Secretary’s comments on the report, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
-(Added [Pub. L. 109–364, div. A, title V, § 532(a)(1)][/us/pl/109/364/s532/a/1], Oct. 17, 2006, [120 Stat. 2200][/us/stat/120/2200].)
+(Added [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 532(a)(1), Oct. 17, 2006, [120 Stat. 2200][/us/stat/120/2200].)
 
  __Applicability of Sexual Assault Prevention and Response and Related Military Justice Enhancements to Military Service Academies__ 
 
-[Pub. L. 113–291, div. A, title V, § 552(a)][/us/pl/113/291/s552/a], Dec. 19, 2014, [128 Stat. 3377][/us/stat/128/3377], provided that: 
+[Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 552(a), Dec. 19, 2014, [128 Stat. 3377][/us/stat/128/3377], provided that: 
 
 > “The Secretary of the military department concerned shall ensure that the provisions of title XVII of the National Defense Authorization Act for Fiscal Year 2014 ([Public Law 113–66][/us/pl/113/66]; [127 Stat. 950][/us/stat/127/950]) \[see Tables for classification\], including amendments made by that title, and the provisions of subtitle D \[subtitle D (§§ 531–547) of title V of div. A of [Pub. L. 113–291][/us/pl/113/291], see Tables for classification\], including amendments made by such subtitle, apply to the United States Military Academy, the Naval Academy, and the Air Force Academy, as applicable.”
 
  __Prevention of Sexual Assault at Military Service Academies__ 
 
-[Pub. L. 113–66, div. A, title XVII, § 1746][/us/pl/113/66/s1746], Dec. 26, 2013, [127 Stat. 983][/us/stat/127/983], provided that: 
+[Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1746, Dec. 26, 2013, [127 Stat. 983][/us/stat/127/983], provided that: 
 
 > “The Secretary of Defense shall ensure that the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy include a section in the curricula of that military service academy that outlines honor, respect, and character development as such pertain to the issue of preventing sexual assault in the Armed Forces. Such curricula section shall include a brief history of the problem of sexual assault in the Armed Forces, a definition of sexual assault, information relating to reporting a sexual assault, victims’ rights, and dismissal and dishonorable discharge for offenders. Training in such section in the curricula shall be provided within 14 days after the initial arrival of a new cadet or midshipman at that military service academy and repeated annually thereafter.”
 
  __Further Information From Cadets and Midshipmen at the Service Academies on Sexual Assault and Sexual Harassment Issues__ 
 
-[Pub. L. 109–364, div. A, title V, § 532(b)][/us/pl/109/364/s532/b], Oct. 17, 2006, [120 Stat. 2205][/us/stat/120/2205], provided that:
+[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 532(b), Oct. 17, 2006, [120 Stat. 2205][/us/stat/120/2205], provided that:
 
 >     “(1)  __Use of focus groups for years when survey not required__  __.—__ 
 
@@ -134,16 +134,16 @@
 ----------
 ----------
 
-[/us/pl/109/364/s532/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs532%2Fa%2F1
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2200
-[/us/pl/113/291/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs552%2Fa
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3377
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/stat/127/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F950
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
-[/us/pl/113/66/s1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1746
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F983
-[/us/pl/109/364/s532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs532%2Fb
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2205
 
 

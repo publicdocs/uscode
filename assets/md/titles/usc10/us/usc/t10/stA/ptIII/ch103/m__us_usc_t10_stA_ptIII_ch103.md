@@ -147,21 +147,21 @@
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–136, div. A, title V, § 523(b)(2)][/us/pl/108/136/s523/b/2], Nov. 24, 2003, [117 Stat. 1464][/us/stat/117/1464], added item 2103a.
+    2003—[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 523(b)(2), Nov. 24, 2003, [117 Stat. 1464][/us/stat/117/1464], added item 2103a.
 
-    1999—[Pub. L. 106–65, div. A, title V, § 541(a)(2)][/us/pl/106/65/s541/a/2], Oct. 5, 1999, [113 Stat. 606][/us/stat/113/606], added item 2111b.
+    1999—[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 541(a)(2), Oct. 5, 1999, [113 Stat. 606][/us/stat/113/606], added item 2111b.
 
-    1997—[Pub. L. 105–85, div. A, title V, § 544(f)(2)][/us/pl/105/85/s544/f/2], Nov. 18, 1997, [111 Stat. 1746][/us/stat/111/1746], substituted “Support for” for “Detail of officers to” in item 2111a.
+    1997—[Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 544(f)(2), Nov. 18, 1997, [111 Stat. 1746][/us/stat/111/1746], substituted “Support for” for “Detail of officers to” in item 2111a.
 
-    1996—[Pub. L. 104–106, div. A, title V, § 545(b)][/us/pl/104/106/s545/b], Feb. 10, 1996, [110 Stat. 318][/us/stat/110/318], added item 2111a.
+    1996—[Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 545(b), Feb. 10, 1996, [110 Stat. 318][/us/stat/110/318], added item 2111a.
 
-    1991—[Pub. L. 102–190, div. A, title V, § 522(b)(2)][/us/pl/102/190/s522/b/2], Dec. 5, 1991, [105 Stat. 1362][/us/stat/105/1362], substituted “Army Reserve and Army National Guard” for “military junior colleges” in item 2107a.
+    1991—[Pub. L. 102–190, div. A, title V][/us/pl/102/190/dA/tV], § 522(b)(2), Dec. 5, 1991, [105 Stat. 1362][/us/stat/105/1362], substituted “Army Reserve and Army National Guard” for “military junior colleges” in item 2107a.
 
-    1988—[Pub. L. 100–456, div. A, title VI, § 633(a)(3)(B)][/us/pl/100/456/s633/a/3/B], Sept. 29, 1988, [102 Stat. 1986][/us/stat/102/1986], substituted “Practical military training” for “Field training; practice cruises” in item 2109.
+    1988—[Pub. L. 100–456, div. A, title VI][/us/pl/100/456/dA/tVI], § 633(a)(3)(B), Sept. 29, 1988, [102 Stat. 1986][/us/stat/102/1986], substituted “Practical military training” for “Field training; practice cruises” in item 2109.
 
-    1980—[Pub. L. 96–357, § 1(c)(2)][/us/pl/96/357/s1/c/2], Sept. 24, 1980, [94 Stat. 1180][/us/stat/94/1180], added item 2107a.
+    1980—[Pub. L. 96–357][/us/pl/96/357], § 1(c)(2), Sept. 24, 1980, [94 Stat. 1180][/us/stat/94/1180], added item 2107a.
 
-    1964—[Pub. L. 88–647, title II, § 201(1)][/us/pl/88/647/s201/1], Oct. 13, 1964, [78 Stat. 1064][/us/stat/78/1064], added chapter heading and items 2101 to 2111.
+    1964—[Pub. L. 88–647, title II][/us/pl/88/647/tII], § 201(1), Oct. 13, 1964, [78 Stat. 1064][/us/stat/78/1064], added chapter heading and items 2101 to 2111.
 
 ----------
 
@@ -170,21 +170,21 @@
 ----------
 ----------
 
-[/us/pl/108/136/s523/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs523%2Fb%2F2
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1464
-[/us/pl/106/65/s541/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs541%2Fa%2F2
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F606
-[/us/pl/105/85/s544/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs544%2Ff%2F2
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1746
-[/us/pl/104/106/s545/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs545%2Fb
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F318
-[/us/pl/102/190/s522/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs522%2Fb%2F2
+[/us/pl/102/190/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtV
 [/us/stat/105/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1362
-[/us/pl/100/456/s633/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs633%2Fa%2F3%2FB
+[/us/pl/100/456/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVI
 [/us/stat/102/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1986
-[/us/pl/96/357/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F357%2Fs1%2Fc%2F2
+[/us/pl/96/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F357
 [/us/stat/94/1180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1180
-[/us/pl/88/647/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2Fs201%2F1
+[/us/pl/88/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2FtII
 [/us/stat/78/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1064
 
 

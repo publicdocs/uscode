@@ -31,11 +31,11 @@
 
         (4) The program is not a private organization and is not operated by a private organization.
 
-(Added [Pub. L. 108–375, div. A, title V, § 544(a)(1)][/us/pl/108/375/s544/a/1], Oct. 28, 2004, [118 Stat. 1906][/us/stat/118/1906].)
+(Added [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 544(a)(1), Oct. 28, 2004, [118 Stat. 1906][/us/stat/118/1906].)
 
  __Effective Date__ 
 
-[Pub. L. 108–375, div. A, title V, § 544(d)][/us/pl/108/375/s544/d], Oct. 28, 2004, [118 Stat. 1907][/us/stat/118/1907], provided that: 
+[Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 544(d), Oct. 28, 2004, [118 Stat. 1907][/us/stat/118/1907], provided that: 
 
 > “Sections 4359, 6978, and 9359 of title 10, United States Code, shall apply only with respect to funds appropriated for fiscal years after fiscal year 2004.”
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/108/375/s544/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs544%2Fa%2F1
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1906
-[/us/pl/108/375/s544/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs544%2Fd
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1907
 
 

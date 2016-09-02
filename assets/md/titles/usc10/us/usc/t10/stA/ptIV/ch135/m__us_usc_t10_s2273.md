@@ -31,25 +31,25 @@
 
     The Secretary of Defense shall, to the maximum extent practicable, pursue the attainment of the capabilities described in subsection (a) in coordination with the Administrator of the National Aeronautics and Space Administration.
 
-(Added [Pub. L. 108–136, div. A, title IX, § 912(a)(1)][/us/pl/108/136/s912/a/1], Nov. 24, 2003, [117 Stat. 1565][/us/stat/117/1565]; [Pub. L. 110–181, div. A, title IX, § 931(a)(12)][/us/pl/110/181/s931/a/12], Jan. 28, 2008, [122 Stat. 285][/us/stat/122/285]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 932(a)(11), Oct. 14, 2008, [122 Stat. 4576][/us/stat/122/4576]; [Pub. L. 111–84, div. A, title X, § 1073(c)(10)][/us/pl/111/84/s1073/c/10], Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475].)
+(Added [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 912(a)(1), Nov. 24, 2003, [117 Stat. 1565][/us/stat/117/1565]; [Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 931(a)(12), Jan. 28, 2008, [122 Stat. 285][/us/stat/122/285]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 932(a)(11), Oct. 14, 2008, [122 Stat. 4576][/us/stat/122/4576]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c)(10), Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475].)
 
  __Prior Provisions__ 
 
-    A prior section 2273, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 125][/us/stat/70A/125]; Apr. 2, 1982, [Pub. L. 97–164, title I, § 160(a)(4)][/us/pl/97/164/s160/a/4], [96 Stat. 48][/us/stat/96/48]; Oct. 29, 1992, [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], [106 Stat. 4516][/us/stat/106/4516], related to right of United States to designs, rights of designers to patents, and rights to sue United States, prior to repeal by [Pub. L. 103–160, div. A, title VIII, § 821(a)(1)][/us/pl/103/160/s821/a/1], Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
+    A prior section 2273, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 125][/us/stat/70A/125]; Apr. 2, 1982, [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 160(a)(4), [96 Stat. 48][/us/stat/96/48]; Oct. 29, 1992, [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), [106 Stat. 4516][/us/stat/106/4516], related to right of United States to designs, rights of designers to patents, and rights to sue United States, prior to repeal by [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 821(a)(1), Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
 
  __Amendments__ 
 
-    2009—Subsec. (b)(1). [Pub. L. 111–84][/us/pl/111/84] repealed [Pub. L. 110–417, § 932(a)(11)][/us/pl/110/417/s932/a/11]. See 2008 Amendment note below.
+    2009—Subsec. (b)(1). [Pub. L. 111–84][/us/pl/111/84] repealed [Pub. L. 110–417][/us/pl/110/417], § 932(a)(11). See 2008 Amendment note below.
 
-    2008—Subsec. (b)(1). [Pub. L. 110–181][/us/pl/110/181] and [Pub. L. 110–417, § 932(a)(11)][/us/pl/110/417/s932/a/11], amended par. (1) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. [Pub. L. 110–417, § 932(a)(11)][/us/pl/110/417/s932/a/11], was repealed by [Pub. L. 111–84][/us/pl/111/84].
+    2008—Subsec. (b)(1). [Pub. L. 110–181][/us/pl/110/181] and [Pub. L. 110–417][/us/pl/110/417], § 932(a)(11), amended par. (1) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. [Pub. L. 110–417][/us/pl/110/417], § 932(a)(11), was repealed by [Pub. L. 111–84][/us/pl/111/84].
 
  __Effective Date of 2009 Amendment__ 
 
-    [Pub. L. 111–84, div. A, title X, § 1073(c)][/us/pl/111/84/s1073/c], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.
+    [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.
 
  __Acquisition Strategy for Evolved Expendable Launch Vehicle Program__ 
 
-[Pub. L. 114–92, div. A, title XVI, § 1608][/us/pl/114/92/s1608], Nov. 25, 2015, [129 Stat. 1100][/us/stat/129/1100], provided that:
+[Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1608, Nov. 25, 2015, [129 Stat. 1100][/us/stat/129/1100], provided that:
 
 >     “(a) __Treatment of Certain Arrangement.—__ 
 
@@ -119,7 +119,7 @@
 
  __Rocket Propulsion System Development Program__ 
 
-[Pub. L. 113–291, div. A, title XVI, § 1604][/us/pl/113/291/s1604], Dec. 19, 2014, [128 Stat. 3623][/us/stat/128/3623], as amended by [Pub. L. 114–92, div. A, title XVI, § 1606(a)][/us/pl/114/92/s1606/a], Nov. 25, 2015, [129 Stat. 1099][/us/stat/129/1099], provided that:
+[Pub. L. 113–291, div. A, title XVI][/us/pl/113/291/dA/tXVI], § 1604, Dec. 19, 2014, [128 Stat. 3623][/us/stat/128/3623], as amended by [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1606(a), Nov. 25, 2015, [129 Stat. 1099][/us/stat/129/1099], provided that:
 
 >     “(a) __Development.—__ 
 
@@ -174,38 +174,38 @@
 ----------
 ----------
 
-[/us/pl/108/136/s912/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs912%2Fa%2F1
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1565
-[/us/pl/110/181/s931/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs931%2Fa%2F12
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F285
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4576
-[/us/pl/111/84/s1073/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc%2F10
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2475
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F125
-[/us/pl/97/164/s160/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs160%2Fa%2F4
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F48
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/103/160/s821/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs821%2Fa%2F1
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1704
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/110/417/s932/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs932%2Fa%2F11
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/110/417/s932/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs932%2Fa%2F11
-[/us/pl/110/417/s932/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs932%2Fa%2F11
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/111/84/s1073/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/114/92/s1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1608
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1100
 [/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
 [/us/usc/t10/s2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2273
-[/us/pl/113/291/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1604
+[/us/pl/113/291/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXVI
 [/us/stat/128/3623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3623
-[/us/pl/114/92/s1606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1606%2Fa
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1099
 
 

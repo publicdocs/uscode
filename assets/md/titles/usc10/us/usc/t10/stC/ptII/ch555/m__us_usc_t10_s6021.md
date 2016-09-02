@@ -79,7 +79,7 @@ July 22, 1935, ch. 402, § 8, 49 Stat. 490.  </td>
 
 </table>
 
-    The provisions cited as source are consolidated in this section. The second sentence of [§ 8 of the Act of July 22, 1935][/us/act/1935-07-22/s8], is omitted as executed.
+    The provisions cited as source are consolidated in this section. The second sentence of § 8 of the Act of July 22, 1935, is omitted as executed.
 
 ----------
 
@@ -90,6 +90,5 @@ July 22, 1935, ch. 402, § 8, 49 Stat. 490.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F376
-[/us/act/1935-07-22/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-22%2Fs8
 
 

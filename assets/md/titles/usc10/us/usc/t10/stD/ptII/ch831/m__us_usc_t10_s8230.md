@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8212.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch833/m__us_usc_t10_stD_ptII_ch833.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8230)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8217...8225.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch833/m__us_usc_t10_stD_ptII_ch833.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8230)
 
-## \[§ 8230. Repealed. [Pub. L. 96–513, title II, § 232][/us/pl/96/513/s232], Dec. 12, 1980, [94 Stat. 2886][/us/stat/94/2886]\]
+## \[§ 8230. Repealed. [Pub. L. 96–513, title II][/us/pl/96/513/tII], § 232, Dec. 12, 1980, [94 Stat. 2886][/us/stat/94/2886]\]
 
-    Section, added [Pub. L. 85–861, § 1(164)(B)][/us/pl/85/861/s1/164/B], Sept. 2, 1958, [72 Stat. 1515][/us/stat/72/1515], provided that members of Air Force who are detailed for any duty with agencies of United States outside the Department of Defense on a reimbursable basis not be counted in computing strengths under any law.
+    Section, added [Pub. L. 85–861][/us/pl/85/861], § 1(164)(B), Sept. 2, 1958, [72 Stat. 1515][/us/stat/72/1515], provided that members of Air Force who are detailed for any duty with agencies of United States outside the Department of Defense on a reimbursable basis not be counted in computing strengths under any law.
 
  __Effective Date of Repeal__ 
 
@@ -23,14 +23,14 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8212.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch833/m__us_usc_t10_stD_ptII_ch833.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8230)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8217...8225.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch833/m__us_usc_t10_stD_ptII_ch833.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8230)
 
 ----------
 ----------
 
-[/us/pl/96/513/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs232
+[/us/pl/96/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtII
 [/us/stat/94/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2886
-[/us/pl/85/861/s1/164/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F164%2FB
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1515
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101

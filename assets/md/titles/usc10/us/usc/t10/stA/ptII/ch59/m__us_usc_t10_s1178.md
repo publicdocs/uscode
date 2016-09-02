@@ -17,7 +17,7 @@
 
     The Secretary of each military department shall establish a system for tracking, recording, and reporting separations of members of the armed forces under the Secretary’s jurisdiction that result from procedures initiated as a result of a refusal to participate in the anthrax vaccine immunization program.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 751(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–193; amended [Pub. L. 111–383, div. A, title VII, § 721][/us/pl/111/383/s721], Jan. 7, 2011, [124 Stat. 4251][/us/stat/124/4251].)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 751(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–193; amended [Pub. L. 111–383, div. A, title VII][/us/pl/111/383/dA/tVII], § 721, Jan. 7, 2011, [124 Stat. 4251][/us/stat/124/4251].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Comptroller General Report__ 
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 751(d)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–194, directed the Comptroller General, not later than Apr. 1, 2002, to submit to committees of Congress a report on the effect of the Department of Defense anthrax vaccine immunization program on the recruitment and retention of active duty and reserve military personnel and civilian personnel of the Department of Defense.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 751(d)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–194, directed the Comptroller General, not later than Apr. 1, 2002, to submit to committees of Congress a report on the effect of the Department of Defense anthrax vaccine immunization program on the recruitment and retention of active duty and reserve military personnel and civilian personnel of the Department of Defense.
 
 ----------
 
@@ -38,12 +38,12 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/111/383/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs721
+[/us/pl/111/383/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVII
 [/us/stat/124/4251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4251
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

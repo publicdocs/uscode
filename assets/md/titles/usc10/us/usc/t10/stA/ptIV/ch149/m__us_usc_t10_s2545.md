@@ -25,7 +25,7 @@
 
     (4) The term “acquisition workforce” has the meaning provided in [section 101(a)(18) of this title][/us/usc/t10/s101/a/18].
 
-(Added [Pub. L. 111–383, div. A, title VIII, § 861(a)][/us/pl/111/383/s861/a], Jan. 7, 2011, [124 Stat. 4288][/us/stat/124/4288]; amended [Pub. L. 113–291, div. A, title X, § 1071(a)(11)][/us/pl/113/291/s1071/a/11], Dec. 19, 2014, [128 Stat. 3505][/us/stat/128/3505].)
+(Added [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 861(a), Jan. 7, 2011, [124 Stat. 4288][/us/stat/124/4288]; amended [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(a)(11), Dec. 19, 2014, [128 Stat. 3505][/us/stat/128/3505].)
 
  __Prior Provisions__ 
 
@@ -37,13 +37,13 @@
 
  __Short Title of 2011 Amendment__ 
 
-[Pub. L. 111–383, div. A, title VIII, § 860][/us/pl/111/383/s860], Jan. 7, 2011, [124 Stat. 4287][/us/stat/124/4287], provided that: 
+[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 860, Jan. 7, 2011, [124 Stat. 4287][/us/stat/124/4287], provided that: 
 
 > “This subtitle \[subtitle F (§§ 860–896) of title VIII of div. A of [Pub. L. 111–383][/us/pl/111/383], enacting this chapter and sections 139e, 1701a, 1722b, 1748, 1762, and 2508 of this title, amending sections 101, 1723, 1746, 2302, 2500, 2501, 2505, and 2506 of this title, enacting provisions set out as notes under sections 1723, 1748, 2222, 2302, 2306a, 2330, and 2501 of this title, amending provisions set out as notes under [section 2371 of this title][/us/usc/t10/s2371] and [section 637 of Title 15][/us/usc/t15/s637], Commerce and Trade, and repealing provisions set out as notes under sections 1701 and 1723 of this title\] may be cited as the ‘Improve Acquisition Act of 2010’.”
 
  __Review of Time-Based Requirements Process and Budgeting and Acquisition Systems__ 
 
-[Pub. L. 114–92, div. A, title VIII, § 810][/us/pl/114/92/s810], Nov. 25, 2015, [129 Stat. 890][/us/stat/129/890], provided that:
+[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 810, Nov. 25, 2015, [129 Stat. 890][/us/stat/129/890], provided that:
 
 >     “(a)  __Time-based Requirements Process__  __.—__ 
 
@@ -62,20 +62,20 @@
 
 [/us/usc/t41/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs131
 [/us/usc/t10/s101/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F18
-[/us/pl/111/383/s861/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs861%2Fa
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4288
-[/us/pl/113/291/s1071/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F11
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3505
 [/us/usc/t10/s2555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2555
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t41/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs131
 [/us/usc/t41/s403/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F16
-[/us/pl/111/383/s860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs860
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4287
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371
 [/us/usc/t15/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637
-[/us/pl/114/92/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs810
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F890
 
 

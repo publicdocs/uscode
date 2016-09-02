@@ -27,7 +27,7 @@
 
     For a provision relating to an exception for requirements for cost or pricing data for contracts for the procurement of commercial items, see [section 2306a(b) of this title][/us/usc/t10/s2306a/b].
 
-(Added [Pub. L. 103–355, title VIII, § 8102][/us/pl/103/355/s8102], Oct. 13, 1994, [108 Stat. 3390][/us/stat/108/3390]; amended [Pub. L. 105–85, div. A, title X, § 1073(a)(51)][/us/pl/105/85/s1073/a/51], Nov. 18, 1997, [111 Stat. 1903][/us/stat/111/1903]; [Pub. L. 107–107, div. A, title X, § 1048(a)(18)][/us/pl/107/107/s1048/a/18], Dec. 28, 2001, [115 Stat. 1223][/us/stat/115/1223]; [Pub. L. 111–350, § 5(b)(21)][/us/pl/111/350/s5/b/21], Jan. 4, 2011, [124 Stat. 3844][/us/stat/124/3844].)
+(Added [Pub. L. 103–355, title VIII][/us/pl/103/355/tVIII], § 8102, Oct. 13, 1994, [108 Stat. 3390][/us/stat/108/3390]; amended [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(51), Nov. 18, 1997, [111 Stat. 1903][/us/stat/111/1903]; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(a)(18), Dec. 28, 2001, [115 Stat. 1223][/us/stat/115/1223]; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(21), Jan. 4, 2011, [124 Stat. 3844][/us/stat/124/3844].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Provisions Not Affected by Title VIII of Pub. L. 103–355__ 
 
-[Pub. L. 103–355, title VIII, § 8304][/us/pl/103/355/s8304], Oct. 13, 1994, [108 Stat. 3398][/us/stat/108/3398], provided that: 
+[Pub. L. 103–355, title VIII][/us/pl/103/355/tVIII], § 8304, Oct. 13, 1994, [108 Stat. 3398][/us/stat/108/3398], provided that: 
 
 > “Nothing in this title \[see Tables for classification\] shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under—
 
@@ -66,13 +66,13 @@
 
 [/us/usc/t41/s1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1906
 [/us/usc/t10/s2306a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a%2Fb
-[/us/pl/103/355/s8102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs8102
+[/us/pl/103/355/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtVIII
 [/us/stat/108/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3390
-[/us/pl/105/85/s1073/a/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F51
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1903
-[/us/pl/107/107/s1048/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fa%2F18
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1223
-[/us/pl/111/350/s5/b/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F21
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3844
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1906
@@ -82,7 +82,7 @@
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/103/355/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10001
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/103/355/s8304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs8304
+[/us/pl/103/355/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtVIII
 [/us/stat/108/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3398
 [/us/usc/t10/s2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2323
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355

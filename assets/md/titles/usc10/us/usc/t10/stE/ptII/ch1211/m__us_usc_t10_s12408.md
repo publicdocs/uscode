@@ -19,11 +19,11 @@
 
     (b) Immediately before such a member is mustered out of Federal service, he shall be examined as to physical fitness. The record of this examination shall be retained by the United States.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1662(f)(1)][/us/pl/103/337/s1662/f/1], Oct. 5, 1994, [108 Stat. 2994][/us/stat/108/2994]; amended [Pub. L. 104–201, div. A, title V, § 523][/us/pl/104/201/s523], Sept. 23, 1996, [110 Stat. 2517][/us/stat/110/2517].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(f)(1), Oct. 5, 1994, [108 Stat. 2994][/us/stat/108/2994]; amended [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 523, Sept. 23, 1996, [110 Stat. 2517][/us/stat/110/2517].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 3502 and 8502 of this title, prior to repeal by [Pub. L. 103–337, § 1662(f)(2)][/us/pl/103/337/s1662/f/2].
+    Provisions similar to those in this section were contained in sections 3502 and 8502 of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1662(f)(2).
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1662/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Ff%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2994
-[/us/pl/104/201/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs523
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2517
-[/us/pl/103/337/s1662/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Ff%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 
 

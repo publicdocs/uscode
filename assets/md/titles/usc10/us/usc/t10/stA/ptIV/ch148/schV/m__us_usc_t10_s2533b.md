@@ -187,67 +187,67 @@
 
         (10) The term “subcontract” includes a subcontract at any tier.
 
-(Added [Pub. L. 109–364, div. A, title VIII, § 842(a)(1)][/us/pl/109/364/s842/a/1], Oct. 17, 2006, [120 Stat. 2335][/us/stat/120/2335]; amended [Pub. L. 110–181, div. A, title VIII, § 804(a)][/us/pl/110/181/s804/a]–(f), Jan. 28, 2008, [122 Stat. 208–211][/us/stat/122/208-211]; [Pub. L. 111–350, § 5(b)(39)][/us/pl/111/350/s5/b/39], Jan. 4, 2011, [124 Stat. 3845][/us/stat/124/3845]; [Pub. L. 111–383, div. A, title X, § 1075(f)(2)][/us/pl/111/383/s1075/f/2], Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376]; [Pub. L. 113–291, div. A, title X, § 1071(a)(10)][/us/pl/113/291/s1071/a/10], Dec. 19, 2014, [128 Stat. 3505][/us/stat/128/3505].)
+(Added [Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 842(a)(1), Oct. 17, 2006, [120 Stat. 2335][/us/stat/120/2335]; amended [Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 804(a)–(f), Jan. 28, 2008, [122 Stat. 208–211][/us/stat/122/208-211]; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(39), Jan. 4, 2011, [124 Stat. 3845][/us/stat/124/3845]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(f)(2), Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(a)(10), Dec. 19, 2014, [128 Stat. 3505][/us/stat/128/3505].)
 
  __Amendments__ 
 
-    2014—Subsec. (h)(1). [Pub. L. 113–291, § 1071(a)(10)(A)(i)][/us/pl/113/291/s1071/a/10/A/i], substituted “sections 1906 and 1907 of title 41” for “sections 34 and 35 of the Office of Federal Procurement Policy Act ([41 U.S.C. 430][/us/usc/t41/s430] and 431)”.
+    2014—Subsec. (h)(1). [Pub. L. 113–291][/us/pl/113/291], § 1071(a)(10)(A)(i), substituted “sections 1906 and 1907 of title 41” for “sections 34 and 35 of the Office of Federal Procurement Policy Act ([41 U.S.C. 430][/us/usc/t41/s430] and 431)”.
 
-    Subsec. (h)(2). [Pub. L. 113–291, § 1071(a)(10)(A)(ii)][/us/pl/113/291/s1071/a/10/A/ii], substituted “[section 104 of title 41][/us/usc/t41/s104]” for “section 35(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 431(c)][/us/usc/t41/s431/c])” in introductory provisions.
+    Subsec. (h)(2). [Pub. L. 113–291][/us/pl/113/291], § 1071(a)(10)(A)(ii), substituted “[section 104 of title 41][/us/usc/t41/s104]” for “section 35(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 431(c)][/us/usc/t41/s431/c])” in introductory provisions.
 
-    Subsec. (m)(2). [Pub. L. 113–291, § 1071(a)(10)(B)(i)][/us/pl/113/291/s1071/a/10/B/i], substituted “[section 105 of title 41][/us/usc/t41/s105]” for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])”.
+    Subsec. (m)(2). [Pub. L. 113–291][/us/pl/113/291], § 1071(a)(10)(B)(i), substituted “[section 105 of title 41][/us/usc/t41/s105]” for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])”.
 
-    Subsec. (m)(3). [Pub. L. 113–291, § 1071(a)(10)(B)(ii)][/us/pl/113/291/s1071/a/10/B/ii], substituted “[section 131 of title 41][/us/usc/t41/s131]” for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])”.
+    Subsec. (m)(3). [Pub. L. 113–291][/us/pl/113/291], § 1071(a)(10)(B)(ii), substituted “[section 131 of title 41][/us/usc/t41/s131]” for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])”.
 
-    Subsec. (m)(5). [Pub. L. 113–291, § 1071(a)(10)(B)(iii)][/us/pl/113/291/s1071/a/10/B/iii], substituted “[section 104 of title 41][/us/usc/t41/s104]” for “section 35(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 431(c)][/us/usc/t41/s431/c])”.
+    Subsec. (m)(5). [Pub. L. 113–291][/us/pl/113/291], § 1071(a)(10)(B)(iii), substituted “[section 104 of title 41][/us/usc/t41/s104]” for “section 35(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 431(c)][/us/usc/t41/s431/c])”.
 
-    2011—Subsec. (a)(2). [Pub. L. 111–383, § 1075(f)(2)(A)][/us/pl/111/383/s1075/f/2/A], made technical amendment to directory language of [Pub. L. 110–181, § 804(a)(3)][/us/pl/110/181/s804/a/3]. See 2008 Amendment note below.
+    2011—Subsec. (a)(2). [Pub. L. 111–383][/us/pl/111/383], § 1075(f)(2)(A), made technical amendment to directory language of [Pub. L. 110–181][/us/pl/110/181], § 804(a)(3). See 2008 Amendment note below.
 
-    Subsec. (h). [Pub. L. 111–350, § 5(b)(39)(A)][/us/pl/111/350/s5/b/39/A], which directed substitution of “[section 1906 of title 41][/us/usc/t41/s1906]” for “section 34 of the Office of Federal Procurement Policy Act ([41 U.S.C. 430][/us/usc/t41/s430])”, could not be executed because the words “section 34 of the Office of Federal Procurement Policy Act ([41 U.S.C. 430][/us/usc/t41/s430])” did not appear in text.
+    Subsec. (h). [Pub. L. 111–350][/us/pl/111/350], § 5(b)(39)(A), which directed substitution of “[section 1906 of title 41][/us/usc/t41/s1906]” for “section 34 of the Office of Federal Procurement Policy Act ([41 U.S.C. 430][/us/usc/t41/s430])”, could not be executed because the words “section 34 of the Office of Federal Procurement Policy Act ([41 U.S.C. 430][/us/usc/t41/s430])” did not appear in text.
 
-    Subsec. (j). [Pub. L. 111–350, § 5(b)(39)(B)][/us/pl/111/350/s5/b/39/B], which directed substitution of “[section 105 of title 41][/us/usc/t41/s105]” for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])” in subsec. (j), could not be executed because the words “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])” did not appear in subsec. (j) after the amendment by [Pub. L. 110–181, § 804(d)][/us/pl/110/181/s804/d].
+    Subsec. (j). [Pub. L. 111–350][/us/pl/111/350], § 5(b)(39)(B), which directed substitution of “[section 105 of title 41][/us/usc/t41/s105]” for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])” in subsec. (j), could not be executed because the words “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])” did not appear in subsec. (j) after the amendment by [Pub. L. 110–181][/us/pl/110/181], § 804(d).
 
-    Subsec. (m)(3) to (10). [Pub. L. 111–383, § 1075(f)(2)(B)][/us/pl/111/383/s1075/f/2/B], made technical amendment to directory language of [Pub. L. 110–181, § 804(e)][/us/pl/110/181/s804/e]. See 2008 Amendment note below.
+    Subsec. (m)(3) to (10). [Pub. L. 111–383][/us/pl/111/383], § 1075(f)(2)(B), made technical amendment to directory language of [Pub. L. 110–181][/us/pl/110/181], § 804(e). See 2008 Amendment note below.
 
-    2008—Subsec. (a). [Pub. L. 110–181, § 804(a)(1)][/us/pl/110/181/s804/a/1], substituted “Except as provided in subsections (b) through (m), the acquisition by the Department of Defense of the following items is prohibited:” for “Except as provided in subsections (b) through (j), funds appropriated or otherwise available to the Department of Defense may not be used for procurement of—” in introductory provisions.
+    2008—Subsec. (a). [Pub. L. 110–181][/us/pl/110/181], § 804(a)(1), substituted “Except as provided in subsections (b) through (m), the acquisition by the Department of Defense of the following items is prohibited:” for “Except as provided in subsections (b) through (j), funds appropriated or otherwise available to the Department of Defense may not be used for procurement of—” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 110–181, § 804(a)(2)][/us/pl/110/181/s804/a/2], substituted “The following” for “the following” and substituted period for “; or” at end.
+    Subsec. (a)(1). [Pub. L. 110–181][/us/pl/110/181], § 804(a)(2), substituted “The following” for “the following” and substituted period for “; or” at end.
 
-    Subsec. (a)(2). [Pub. L. 110–181, § 804(a)(3)][/us/pl/110/181/s804/a/3], as amended by [Pub. L. 111–383, § 1075(f)(2)(A)][/us/pl/111/383/s1075/f/2/A], substituted “A specialty” for “a specialty”.
+    Subsec. (a)(2). [Pub. L. 110–181][/us/pl/110/181], § 804(a)(3), as amended by [Pub. L. 111–383][/us/pl/111/383], § 1075(f)(2)(A), substituted “A specialty” for “a specialty”.
 
-    Subsec. (c). [Pub. L. 110–181, § 804(f)(1)][/us/pl/110/181/s804/f/1], substituted “Acquisitions” for “Procurements” in heading and pars. (1) and (2).
+    Subsec. (c). [Pub. L. 110–181][/us/pl/110/181], § 804(f)(1), substituted “Acquisitions” for “Procurements” in heading and pars. (1) and (2).
 
-    Subsec. (d). [Pub. L. 110–181, § 804(f)(2)][/us/pl/110/181/s804/f/2], substituted “acquisition” for “procurement” in introductory provisions and par. (1).
+    Subsec. (d). [Pub. L. 110–181][/us/pl/110/181], § 804(f)(2), substituted “acquisition” for “procurement” in introductory provisions and par. (1).
 
-    Subsec. (f). [Pub. L. 110–181, § 804(f)(3)][/us/pl/110/181/s804/f/3], substituted “acquisitions” for “procurements”.
+    Subsec. (f). [Pub. L. 110–181][/us/pl/110/181], § 804(f)(3), substituted “acquisitions” for “procurements”.
 
-    Subsec. (g). [Pub. L. 110–181, § 804(c)][/us/pl/110/181/s804/c], (f)(3), substituted “acquisitions” for “procurements” and “electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to [section 187 of this title][/us/usc/t10/s187], determines that the domestic availability of a particular electronic component is critical to national security.” for “commercially available electronic components whose specialty metal content is de minimis in value compared to the overall value of the lowest level electronic component produced that contains such specialty metal.”
+    Subsec. (g). [Pub. L. 110–181][/us/pl/110/181], § 804(c), (f)(3), substituted “acquisitions” for “procurements” and “electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to [section 187 of this title][/us/usc/t10/s187], determines that the domestic availability of a particular electronic component is critical to national security.” for “commercially available electronic components whose specialty metal content is de minimis in value compared to the overall value of the lowest level electronic component produced that contains such specialty metal.”
 
-    Subsec. (h). [Pub. L. 110–181, § 804(b)][/us/pl/110/181/s804/b], amended heading and text generally. Prior to amendment, text read as follows: “This section applies to procurements of commercial items notwithstanding section 34 of the Office of Federal Procurement Policy Act ([41 U.S.C. 430][/us/usc/t41/s430]).”
+    Subsec. (h). [Pub. L. 110–181][/us/pl/110/181], § 804(b), amended heading and text generally. Prior to amendment, text read as follows: “This section applies to procurements of commercial items notwithstanding section 34 of the Office of Federal Procurement Policy Act ([41 U.S.C. 430][/us/usc/t41/s430]).”
 
-    Subsecs. (i) to (m). [Pub. L. 110–181, § 804(d)][/us/pl/110/181/s804/d], added subsecs. (i) to (k) and redesignated former subsecs. (i) and (j) as (l) and (m), respectively.
+    Subsecs. (i) to (m). [Pub. L. 110–181][/us/pl/110/181], § 804(d), added subsecs. (i) to (k) and redesignated former subsecs. (i) and (j) as (l) and (m), respectively.
 
-    Subsec. (m)(3) to (10). [Pub. L. 110–181, § 804(e)][/us/pl/110/181/s804/e], as amended by Pub. L. 111—383, § 1075(f)(2)(B), added pars. (3) to (10).
+    Subsec. (m)(3) to (10). [Pub. L. 110–181][/us/pl/110/181], § 804(e), as amended by Pub. L. 111—383, § 1075(f)(2)(B), added pars. (3) to (10).
 
  __Effective Date of 2011 Amendment__ 
 
-    [Pub. L. 111–383, div. A, title X, § 1075(f)(2)][/us/pl/111/383/s1075/f/2], Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376], provided that amendment by section 1075(f)(2) is effective as of January 28, 2008, and as if included in [Public Law 110–181][/us/pl/110/181] as enacted.”
+    [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(f)(2), Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376], provided that amendment by section 1075(f)(2) is effective as of January 28, 2008, and as if included in [Public Law 110–181][/us/pl/110/181] as enacted.”
 
  __Effective Date__ 
 
-[Pub. L. 109–364, div. A, title VIII, § 842(a)(4)(A)][/us/pl/109/364/s842/a/4/A], Oct. 17, 2006, [120 Stat. 2337][/us/stat/120/2337], provided that: 
+[Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 842(a)(4)(A), Oct. 17, 2006, [120 Stat. 2337][/us/stat/120/2337], provided that: 
 
 > “[Section 2533b of title 10][/us/usc/t10/s2533b], United States Code, as added by paragraph (1), shall apply with respect to contracts entered into after the date occurring 30 days after the date of the enactment of this Act \[Oct. 17, 2006\].”
 
  __Regulations__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 804(g)][/us/pl/110/181/s804/g], Jan. 28, 2008, [122 Stat. 211][/us/stat/122/211], provided that: 
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 804(g), Jan. 28, 2008, [122 Stat. 211][/us/stat/122/211], provided that: 
 
 > “Not later than 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall prescribe regulations on the implementation of this section \[amending this section and enacting provisions set out as a note under this section\] and the amendments made by this section, including specific guidance on how thresholds established in subsections (h)(3), (i) and (j) of [section 2533b of title 10][/us/usc/t10/s2533b], United States Code, as amended by this section, should be implemented.”
 
  __Review of Regulatory Definition Relating to Production of Specialty Metals__ 
 
-[Pub. L. 111–383, div. A, title VIII, § 823][/us/pl/111/383/s823], Jan. 7, 2011, [124 Stat. 4269][/us/stat/124/4269], provided that:
+[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 823, Jan. 7, 2011, [124 Stat. 4269][/us/stat/124/4269], provided that:
 
 >     “(a)  __Review Required__  __.—__ 
 
@@ -263,7 +263,7 @@
 
  __Revision of Domestic Nonavailability Determinations and Rules__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 804(h)][/us/pl/110/181/s804/h], Jan. 28, 2008, [122 Stat. 211][/us/stat/122/211], provided that: 
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 804(h), Jan. 28, 2008, [122 Stat. 211][/us/stat/122/211], provided that: 
 
 > “No later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], any domestic nonavailability determination under [section 2533b of title 10][/us/usc/t10/s2533b], United States Code, including a class deviation, or rules made by the Department of Defense between December 6, 2006, and the date of the enactment of this Act, shall be reviewed and amended, as necessary, to comply with the amendments made by this section \[amending this section and enacting provisions set out as a note under this section\]. This requirement shall not apply to a domestic nonavailability determination that applies to—
 
@@ -273,7 +273,7 @@
 
  __Requirements Relating to Waivers of Certain Domestic Source Limitations Relating to Specialty Metals__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 884][/us/pl/110/181/s884], Jan. 28, 2008, [122 Stat. 264][/us/stat/122/264], provided that:
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 884, Jan. 28, 2008, [122 Stat. 264][/us/stat/122/264], provided that:
 
 >     “(a)  __Notice Requirement__  __.—__ 
 
@@ -291,7 +291,7 @@
 
  __One-Time Waiver of Specialty Metals Domestic Source Requirement__ 
 
-[Pub. L. 109–364, div. A, title VIII, § 842(b)][/us/pl/109/364/s842/b], Oct. 17, 2006, [120 Stat. 2337][/us/stat/120/2337], provided that:
+[Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 842(b), Oct. 17, 2006, [120 Stat. 2337][/us/stat/120/2337], provided that:
 
 >     “(1)  __Authority__  __.—__ 
 
@@ -337,77 +337,77 @@
 [/us/usc/t41/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs105
 [/us/usc/t41/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs131
 [/us/usc/t41/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs104
-[/us/pl/109/364/s842/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs842%2Fa%2F1
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2335
-[/us/pl/110/181/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs804%2Fa
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/208-211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F208-211
-[/us/pl/111/350/s5/b/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F39
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3845
-[/us/pl/111/383/s1075/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Ff%2F2
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4376
-[/us/pl/113/291/s1071/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F10
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3505
-[/us/pl/113/291/s1071/a/10/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F10%2FA%2Fi
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t41/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs430
-[/us/pl/113/291/s1071/a/10/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F10%2FA%2Fii
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t41/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs104
 [/us/usc/t41/s431/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs431%2Fc
-[/us/pl/113/291/s1071/a/10/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F10%2FB%2Fi
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t41/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs105
 [/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
-[/us/pl/113/291/s1071/a/10/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F10%2FB%2Fii
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t41/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs131
 [/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
-[/us/pl/113/291/s1071/a/10/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F10%2FB%2Fiii
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t41/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs104
 [/us/usc/t41/s431/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs431%2Fc
-[/us/pl/111/383/s1075/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Ff%2F2%2FA
-[/us/pl/110/181/s804/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs804%2Fa%2F3
-[/us/pl/111/350/s5/b/39/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F39%2FA
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1906
 [/us/usc/t41/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs430
 [/us/usc/t41/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs430
-[/us/pl/111/350/s5/b/39/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F39%2FB
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs105
 [/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
 [/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
-[/us/pl/110/181/s804/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs804%2Fd
-[/us/pl/111/383/s1075/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Ff%2F2%2FB
-[/us/pl/110/181/s804/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs804%2Fe
-[/us/pl/110/181/s804/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs804%2Fa%2F1
-[/us/pl/110/181/s804/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs804%2Fa%2F2
-[/us/pl/110/181/s804/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs804%2Fa%2F3
-[/us/pl/111/383/s1075/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Ff%2F2%2FA
-[/us/pl/110/181/s804/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs804%2Ff%2F1
-[/us/pl/110/181/s804/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs804%2Ff%2F2
-[/us/pl/110/181/s804/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs804%2Ff%2F3
-[/us/pl/110/181/s804/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs804%2Fc
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t10/s187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs187
-[/us/pl/110/181/s804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs804%2Fb
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t41/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs430
-[/us/pl/110/181/s804/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs804%2Fd
-[/us/pl/110/181/s804/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs804%2Fe
-[/us/pl/111/383/s1075/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Ff%2F2
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4376
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/109/364/s842/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs842%2Fa%2F4%2FA
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2337
 [/us/usc/t10/s2533b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2533b
-[/us/pl/110/181/s804/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs804%2Fg
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F211
 [/us/usc/t10/s2533b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2533b
-[/us/pl/111/383/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs823
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4269
 [/us/usc/t10/s2533b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2533b
 [/us/usc/t10/s2533b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2533b
-[/us/pl/110/181/s804/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs804%2Fh
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F211
 [/us/usc/t10/s2533b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2533b
-[/us/pl/110/181/s884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs884
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F264
 [/us/usc/t10/s2533b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2533b%2Fb
 [/us/usc/t10/s2533b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2533b%2Fb
-[/us/pl/109/364/s842/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs842%2Fb
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2337
 [/us/usc/t10/s2533b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2533b
 [/us/usc/t10/s2533b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2533b

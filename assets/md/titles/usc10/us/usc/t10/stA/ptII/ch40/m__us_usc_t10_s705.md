@@ -39,23 +39,23 @@
 
     (c) The provisions of this section shall not be effective unless the Secretary concerned determines that the application of this section will not adversely affect combat or unit readiness.
 
-(Added [Pub. L. 96–579, § 5(b)(1)][/us/pl/96/579/s5/b/1], Dec. 23, 1980, [94 Stat. 3366][/us/stat/94/3366]; amended [Pub. L. 107–314, div. A, title V, § 574(a)][/us/pl/107/314/s574/a]–(b)(2)(A), Dec. 2, 2002, [116 Stat. 2558][/us/stat/116/2558]; [Pub. L. 108–136, div. A, title VI, § 621(b)][/us/pl/108/136/s621/b], Nov. 24, 2003, [117 Stat. 1505][/us/stat/117/1505]; [Pub. L. 110–181, div. A, title V, § 552][/us/pl/110/181/s552], Jan. 28, 2008, [122 Stat. 117][/us/stat/122/117].)
+(Added [Pub. L. 96–579][/us/pl/96/579], § 5(b)(1), Dec. 23, 1980, [94 Stat. 3366][/us/stat/94/3366]; amended [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 574(a)–(b)(2)(A), Dec. 2, 2002, [116 Stat. 2558][/us/stat/116/2558]; [Pub. L. 108–136, div. A, title VI][/us/pl/108/136/dA/tVI], § 621(b), Nov. 24, 2003, [117 Stat. 1505][/us/stat/117/1505]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 552, Jan. 28, 2008, [122 Stat. 117][/us/stat/122/117].)
 
  __Amendments__ 
 
     2008—Subsec. (b)(2). [Pub. L. 110–181][/us/pl/110/181] inserted “for members whose qualifying tour of duty is 12 months or less, or for not more than 20 days for members whose qualifying tour of duty is longer than 12 months,” after “for not more than 15 days”.
 
-    2003–[Pub. L. 108–136, § 621(b)(2)][/us/pl/108/136/s621/b/2], struck out “enlisted” before “members” in section catchline.
+    2003–[Pub. L. 108–136][/us/pl/108/136], § 621(b)(2), struck out “enlisted” before “members” in section catchline.
 
-    Subsec. (a). [Pub. L. 108–136, § 621(b)(1)][/us/pl/108/136/s621/b/1], substituted “a member” for “an enlisted member” in introductory provisions.
+    Subsec. (a). [Pub. L. 108–136][/us/pl/108/136], § 621(b)(1), substituted “a member” for “an enlisted member” in introductory provisions.
 
-    2002—[Pub. L. 107–314, § 574(b)(2)(A)][/us/pl/107/314/s574/b/2/A], substituted “recuperation absence: qualified enlisted members” for “recuperative absence for qualified enlisted members” in section catchline.
+    2002—[Pub. L. 107–314][/us/pl/107/314], § 574(b)(2)(A), substituted “recuperation absence: qualified enlisted members” for “recuperative absence for qualified enlisted members” in section catchline.
 
     Subsec. (b). [Pub. L. 107–314][/us/pl/107/314] substituted “recuperation” for “recuperative” in pars. (1) and (2) and inserted before period at end of par. (2) “, or to an alternative destination and return at a cost not to exceed the cost of round-trip transportation from the location of the extended tour of duty to such nearest port”.
 
  __Effective Date__ 
 
-[Pub. L. 96–579, § 5(c)(2)][/us/pl/96/579/s5/c/2], Dec. 23, 1980, [94 Stat. 3367][/us/stat/94/3367], provided: 
+[Pub. L. 96–579][/us/pl/96/579], § 5(c)(2), Dec. 23, 1980, [94 Stat. 3367][/us/stat/94/3367], provided: 
 
 > “[Section 705 of title 10][/us/usc/t10/s705], United States Code, as added by subsection (b), shall take effect upon the date of the enactment of this section \[Dec. 23, 1980\] and shall apply only with respect to periods of extended duty overseas beginning on or after such date of enactment.”
 
@@ -67,20 +67,20 @@
 ----------
 
 [/us/usc/t37/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs314
-[/us/pl/96/579/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579%2Fs5%2Fb%2F1
+[/us/pl/96/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579
 [/us/stat/94/3366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3366
-[/us/pl/107/314/s574/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs574%2Fa
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2558
-[/us/pl/108/136/s621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs621%2Fb
+[/us/pl/108/136/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVI
 [/us/stat/117/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1505
-[/us/pl/110/181/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs552
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F117
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/108/136/s621/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs621%2Fb%2F2
-[/us/pl/108/136/s621/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs621%2Fb%2F1
-[/us/pl/107/314/s574/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs574%2Fb%2F2%2FA
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
-[/us/pl/96/579/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579%2Fs5%2Fc%2F2
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/96/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579
 [/us/stat/94/3367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3367
 [/us/usc/t10/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs705
 

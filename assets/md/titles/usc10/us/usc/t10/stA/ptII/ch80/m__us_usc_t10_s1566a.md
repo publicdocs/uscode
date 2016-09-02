@@ -79,7 +79,7 @@
 
         (3) The term “Presidential designee” means the official designated by the President under section 101(a) of the Uniformed and Overseas Citizens Absentee Voting Act ([42 U.S.C. 1973ff(a)][/us/usc/t42/s1973ff/a]).1
 
-(Added [Pub. L. 111–84, div. A, title V, § 583(b)(1)][/us/pl/111/84/s583/b/1], Oct. 28, 2009, [123 Stat. 2328][/us/stat/123/2328]; amended [Pub. L. 111–383, div. A, title X, § 1075(b)(21)][/us/pl/111/383/s1075/b/21], Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370]; [Pub. L. 113–291, div. A, title V, § 592][/us/pl/113/291/s592], title X, § 1071(e)(2), Dec. 19, 2014, [128 Stat. 3395][/us/stat/128/3395], 3509.)
+(Added [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 583(b)(1), Oct. 28, 2009, [123 Stat. 2328][/us/stat/123/2328]; amended [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(21), Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370]; [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 592, title X, § 1071(e)(2), Dec. 19, 2014, [128 Stat. 3395][/us/stat/128/3395], 3509.)
 
  __References in Text__ 
 
@@ -89,11 +89,11 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–291, § 1071(e)(2)][/us/pl/113/291/s1071/e/2], which directed substitution of “Under” for “Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under” in introductory provisions, could not be executed because of the prior amendment by [Pub. L. 113–291, § 592(a)(1)][/us/pl/113/291/s592/a/1]. See below.
+    2014—Subsec. (a). [Pub. L. 113–291][/us/pl/113/291], § 1071(e)(2), which directed substitution of “Under” for “Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under” in introductory provisions, could not be executed because of the prior amendment by [Pub. L. 113–291][/us/pl/113/291], § 592(a)(1). See below.
 
-    [Pub. L. 113–291, § 592(a)][/us/pl/113/291/s592/a], in introductory provisions, substituted “Under” for “Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under” and inserted “, or at such installations as the Secretary of the military department concerned shall determine are best located to provide access to voter assistance services for all covered individuals in a particular location,” after “their jurisdiction”.
+    [Pub. L. 113–291][/us/pl/113/291], § 592(a), in introductory provisions, substituted “Under” for “Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under” and inserted “, or at such installations as the Secretary of the military department concerned shall determine are best located to provide access to voter assistance services for all covered individuals in a particular location,” after “their jurisdiction”.
 
-    Subsec. (f). [Pub. L. 113–291, § 592(b)][/us/pl/113/291/s592/b], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (f). [Pub. L. 113–291][/us/pl/113/291], § 592(b), designated existing provisions as par. (1) and added par. (2).
 
     2011—Subsec. (a)(1). [Pub. L. 111–383][/us/pl/111/383] inserted closing parenthesis before period at end.
 
@@ -110,21 +110,21 @@
 [/us/usc/t42/s1973ff–6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff%E2%80%936%2F1
 [/us/usc/t42/s1973ff–6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff%E2%80%936%2F3
 [/us/usc/t42/s1973ff/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff%2Fa
-[/us/pl/111/84/s583/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs583%2Fb%2F1
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2328
-[/us/pl/111/383/s1075/b/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F21
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4370
-[/us/pl/113/291/s592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs592
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3395
 [/us/pl/99/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410
 [/us/stat/100/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F924
 [/us/pl/103/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F31
 [/us/stat/107/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F77
 [/us/usc/t52/s20506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20506
-[/us/pl/113/291/s1071/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fe%2F2
-[/us/pl/113/291/s592/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs592%2Fa%2F1
-[/us/pl/113/291/s592/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs592%2Fa
-[/us/pl/113/291/s592/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs592%2Fb
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 
 

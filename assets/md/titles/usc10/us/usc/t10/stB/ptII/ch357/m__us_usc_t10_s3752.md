@@ -19,7 +19,7 @@
 
     (b) If a person dies before an authorized service medal or device prescribed as a part thereof is presented to him under [section 3751 of this title][/us/usc/t10/s3751], it shall be presented to his family.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 217][/us/stat/70A/217]; [Pub. L. 85–861, § 33(a)(23)][/us/pl/85/861/s33/a/23], Sept. 2, 1958, [72 Stat. 1565][/us/stat/72/1565].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 217][/us/stat/70A/217]; [Pub. L. 85–861][/us/pl/85/861], § 33(a)(23), Sept. 2, 1958, [72 Stat. 1565][/us/stat/72/1565].)
 
 <table>
 
@@ -121,7 +121,7 @@ May 12, 1928, ch. 528, § 1 (25th through 34th words, less applicability to cl
 [/us/usc/t10/s3751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3751
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F217
-[/us/pl/85/861/s33/a/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F23
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1565
 [/us/usc/t10/s3744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3744
 [/us/act/1928-05-12/ch528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-12%2Fch528

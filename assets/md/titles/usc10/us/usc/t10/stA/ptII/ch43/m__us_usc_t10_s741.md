@@ -195,7 +195,7 @@
 
             (E) Any adjustment in date of rank under this paragraph shall be made under regulations prescribed by the Secretary of Defense, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 33][/us/stat/70A/33]; [Pub. L. 96–513, title I, § 107][/us/pl/96/513/s107], Dec. 12, 1980, [94 Stat. 2869][/us/stat/94/2869]; [Pub. L. 97–22, § 4(h)][/us/pl/97/22/s4/h], July 10, 1981, [95 Stat. 127][/us/stat/95/127]; [Pub. L. 97–86, title IV, § 405(b)(8)][/us/pl/97/86/s405/b/8], Dec. 1, 1981, [95 Stat. 1106][/us/stat/95/1106]; [Pub. L. 97–295, § 1(11)][/us/pl/97/295/s1/11], Oct. 12, 1982, [96 Stat. 1289][/us/stat/96/1289]; [Pub. L. 98–557, § 25(c)][/us/pl/98/557/s25/c], Oct. 30, 1984, [98 Stat. 2873][/us/stat/98/2873]; [Pub. L. 99–145, title V, § 514(b)(8)][/us/pl/99/145/s514/b/8], Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629]; [Pub. L. 102–190, div. A, title XI, § 1131(1)(A)][/us/pl/102/190/s1131/1/A], Dec. 5, 1991, [105 Stat. 1505][/us/stat/105/1505]; [Pub. L. 103–337, div. A, title XVI, § 1626][/us/pl/103/337/s1626], Oct. 5, 1994, [108 Stat. 2962][/us/stat/108/2962]; [Pub. L. 104–106, div. A, title XV, § 1501(a)(3)][/us/pl/104/106/s1501/a/3], Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495]; [Pub. L. 107–107, div. A, title V, § 506(a)][/us/pl/107/107/s506/a], Dec. 28, 2001, [115 Stat. 1089][/us/stat/115/1089].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 33][/us/stat/70A/33]; [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 107, Dec. 12, 1980, [94 Stat. 2869][/us/stat/94/2869]; [Pub. L. 97–22][/us/pl/97/22], § 4(h), July 10, 1981, [95 Stat. 127][/us/stat/95/127]; [Pub. L. 97–86, title IV][/us/pl/97/86/tIV], § 405(b)(8), Dec. 1, 1981, [95 Stat. 1106][/us/stat/95/1106]; [Pub. L. 97–295][/us/pl/97/295], § 1(11), Oct. 12, 1982, [96 Stat. 1289][/us/stat/96/1289]; [Pub. L. 98–557][/us/pl/98/557], § 25(c), Oct. 30, 1984, [98 Stat. 2873][/us/stat/98/2873]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 514(b)(8), Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629]; [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1131(1)(A), Dec. 5, 1991, [105 Stat. 1505][/us/stat/105/1505]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1626, Oct. 5, 1994, [108 Stat. 2962][/us/stat/108/2962]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(a)(3), Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495]; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 506(a), Dec. 28, 2001, [115 Stat. 1089][/us/stat/115/1089].)
 
 <table>
 
@@ -351,13 +351,13 @@ In subsection (a), the word “Regular”, pertaining to major generals and brig
 
     2001—Subsec. (d)(4). [Pub. L. 107–107][/us/pl/107/107] added par. (4).
 
-    1996—Subsec. (d)(3). [Pub. L. 104–106][/us/pl/104/106] made technical correction to directory language of [Pub. L. 103–337, § 1626(1)][/us/pl/103/337/s1626/1]. See 1994 Amendment note below.
+    1996—Subsec. (d)(3). [Pub. L. 104–106][/us/pl/104/106] made technical correction to directory language of [Pub. L. 103–337][/us/pl/103/337], § 1626(1). See 1994 Amendment note below.
 
-    1994—Subsec. (d)(3). [Pub. L. 103–337, § 1626(3)][/us/pl/103/337/s1626/3], inserted at end “The authority to change the date of rank of a reserve officer who is placed on the active-duty list to a later date does not apply in the case of an officer who (A) has served continuously in the Selected Reserve of the Ready Reserve since the officer’s last promotion, or (B) is placed on the active-duty list while on a promotion list as described in [section 14317(b) of this title][/us/usc/t10/s14317/b].”
+    1994—Subsec. (d)(3). [Pub. L. 103–337][/us/pl/103/337], § 1626(3), inserted at end “The authority to change the date of rank of a reserve officer who is placed on the active-duty list to a later date does not apply in the case of an officer who (A) has served continuously in the Selected Reserve of the Ready Reserve since the officer’s last promotion, or (B) is placed on the active-duty list while on a promotion list as described in [section 14317(b) of this title][/us/usc/t10/s14317/b].”
 
-    [Pub. L. 103–337, § 1626(2)][/us/pl/103/337/s1626/2], inserted “or reserve active-status list” after “he is placed on the active-duty list”.
+    [Pub. L. 103–337][/us/pl/103/337], § 1626(2), inserted “or reserve active-status list” after “he is placed on the active-duty list”.
 
-    [Pub. L. 103–337, § 1626(1)][/us/pl/103/337/s1626/1], as amended by [Pub. L. 104–106][/us/pl/104/106], inserted “or who is transferred from an inactive status to an active status and placed on the active-duty list or the reserve active-status list may, effective on the date on which he is placed on the active-duty list” after “warrant officer, W–5,”.
+    [Pub. L. 103–337][/us/pl/103/337], § 1626(1), as amended by [Pub. L. 104–106][/us/pl/104/106], inserted “or who is transferred from an inactive status to an active status and placed on the active-duty list or the reserve active-status list may, effective on the date on which he is placed on the active-duty list” after “warrant officer, W–5,”.
 
     1991—Subsec. (d)(3). [Pub. L. 102–190][/us/pl/102/190] substituted “chief warrant officer, W–5,” for “warrant officer (W–4)”.
 
@@ -367,23 +367,23 @@ In subsection (a), the word “Regular”, pertaining to major generals and brig
 
     1982—Subsec. (c). [Pub. L. 97–295][/us/pl/97/295] substituted “the” for “the the” after “uniformly among”.
 
-    1981—[Pub. L. 97–22, § 4(h)(4)][/us/pl/97/22/s4/h/4], substituted “armed forces” for “Army, Navy, Air Force, and Marine Corps” in section catchline.
+    1981—[Pub. L. 97–22][/us/pl/97/22], § 4(h)(4), substituted “armed forces” for “Army, Navy, Air Force, and Marine Corps” in section catchline.
 
     Subsec. (a). [Pub. L. 97–86][/us/pl/97/86] substituted “Commodore” for “Commodore admiral” in right column of table opposite Brigadier general.
 
-    [Pub. L. 97–22, § 4(h)(1)][/us/pl/97/22/s4/h/1], inserted reference to the Coast Guard in column heading and inserted references to Rear admiral (upper half) (Coast Guard) and Rear admiral (lower half) (Coast Guard).
+    [Pub. L. 97–22][/us/pl/97/22], § 4(h)(1), inserted reference to the Coast Guard in column heading and inserted references to Rear admiral (upper half) (Coast Guard) and Rear admiral (lower half) (Coast Guard).
 
-    Subsec. (c). [Pub. L. 97–22, § 4(h)(2)][/us/pl/97/22/s4/h/2], inserted “of the Army, Navy, Air Force, and Marine Corps” after “Rank among officers”.
+    Subsec. (c). [Pub. L. 97–22][/us/pl/97/22], § 4(h)(2), inserted “of the Army, Navy, Air Force, and Marine Corps” after “Rank among officers”.
 
-    Subsec. (d)(1). [Pub. L. 97–22, § 4(h)(3)(A)][/us/pl/97/22/s4/h/3/A], inserted “of the Army, Navy, Air Force, or Marine Corps” after “officer” in two places.
+    Subsec. (d)(1). [Pub. L. 97–22][/us/pl/97/22], § 4(h)(3)(A), inserted “of the Army, Navy, Air Force, or Marine Corps” after “officer” in two places.
 
-    Subsec. (d)(3). [Pub. L. 97–22, § 4(h)(3)(B)][/us/pl/97/22/s4/h/3/B], inserted “of the Army, Navy, Air Force, or Marine Corps” after “(other than a warrant officer)”.
+    Subsec. (d)(3). [Pub. L. 97–22][/us/pl/97/22], § 4(h)(3)(B), inserted “of the Army, Navy, Air Force, or Marine Corps” after “(other than a warrant officer)”.
 
     1980—[Pub. L. 96–513][/us/pl/96/513] completely revised section to restructure and redefine various ranks of commissioned officers of the Army, Air Force, Marine Corps, and Navy and relationships of officers in those ranks among themselves.
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–107, div. A, title V, § 506(c)][/us/pl/107/107/s506/c], Dec. 28, 2001, [115 Stat. 1090][/us/stat/115/1090], provided that:
+[Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 506(c), Dec. 28, 2001, [115 Stat. 1090][/us/stat/115/1090], provided that:
 
 >     “(1) Paragraph (4) of [section 741(d) of title 10][/us/usc/t10/s741/d], United States Code, as added by subsection (a), and paragraph (2) of section 14308(c) of such title, as added by subsection (b), shall apply with respect to any report of a selection board recommending officers for promotion to the next higher grade that is submitted to the Secretary of the military department concerned on or after the date of the enactment of this Act \[Dec. 28, 2001\].
 
@@ -424,48 +424,48 @@ In subsection (a), the word “Regular”, pertaining to major generals and brig
 [/us/usc/t10/s624/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs624%2Fa
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F33
-[/us/pl/96/513/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs107
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2869
-[/us/pl/97/22/s4/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs4%2Fh
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F127
-[/us/pl/97/86/s405/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs405%2Fb%2F8
+[/us/pl/97/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIV
 [/us/stat/95/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1106
-[/us/pl/97/295/s1/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F11
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1289
-[/us/pl/98/557/s25/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs25%2Fc
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2873
-[/us/pl/99/145/s514/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fb%2F8
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F629
-[/us/pl/102/190/s1131/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1131%2F1%2FA
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1505
-[/us/pl/103/337/s1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1626
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2962
-[/us/pl/104/106/s1501/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fa%2F3
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F495
-[/us/pl/107/107/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs506%2Fa
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1089
 [/us/act/1883-03-03/ch97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1883-03-03%2Fch97
 [/us/stat/22/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F472
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/337/s1626/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1626%2F1
-[/us/pl/103/337/s1626/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1626%2F3
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s14317/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14317%2Fb
-[/us/pl/103/337/s1626/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1626%2F2
-[/us/pl/103/337/s1626/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1626%2F1
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
-[/us/pl/97/22/s4/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs4%2Fh%2F4
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/pl/97/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86
-[/us/pl/97/22/s4/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs4%2Fh%2F1
-[/us/pl/97/22/s4/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs4%2Fh%2F2
-[/us/pl/97/22/s4/h/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs4%2Fh%2F3%2FA
-[/us/pl/97/22/s4/h/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs4%2Fh%2F3%2FB
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
-[/us/pl/107/107/s506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs506%2Fc
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1090
 [/us/usc/t10/s741/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs741%2Fd
 [/us/usc/t10/s741/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs741%2Fd

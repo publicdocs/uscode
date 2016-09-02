@@ -33,7 +33,7 @@
 
     (d) In prescribing age qualifications under subsection (b) for the appointment of persons as Reserves of the armed forces under his jurisdiction, the Secretary concerned may not prescribe a maximum age qualification of less than 47 years of age for the initial appointment of a person as a Reserve to serve in a health profession specialty which has been designated by the Secretary concerned as a specialty critically needed in wartime.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 24][/us/stat/70A/24], § 591; [Pub. L. 85–861, § 1(10)(A)][/us/pl/85/861/s1/10/A], Sept. 2, 1958, [72 Stat. 1440][/us/stat/72/1440]; [Pub. L. 88–236][/us/pl/88/236], Dec. 23, 1963, [77 Stat. 474][/us/stat/77/474]; [Pub. L. 89–718, § 4][/us/pl/89/718/s4], Nov. 2, 1966, [80 Stat. 1115][/us/stat/80/1115]; [Pub. L. 90–130, § 1(3)][/us/pl/90/130/s1/3], Nov. 8, 1967, [81 Stat. 374][/us/stat/81/374]; [Pub. L. 96–513, title V][/us/pl/96/513] § 511(16), Dec. 12, 1980, [94 Stat. 2921][/us/stat/94/2921]; [Pub. L. 100–180, div. A, title VII, § 718(a)][/us/pl/100/180/s718/a], Dec. 4, 1987, [101 Stat. 1115][/us/stat/101/1115]; renumbered § 12201 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337], §§ 1631(b), 1662(c)(2), Oct. 5, 1994, [108 Stat. 2964][/us/stat/108/2964], 2990; [Pub. L. 104–106, div. A, title XV, § 1501(a)(5)(B)][/us/pl/104/106/s1501/a/5/B], (b)(11)(A), Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495], 496; [Pub. L. 108–375, div. A, title V, § 501(c)(3)][/us/pl/108/375/s501/c/3], Oct. 28, 2004, [118 Stat. 1874][/us/stat/118/1874]; [Pub. L. 111–383, div. A, title V, § 515][/us/pl/111/383/s515], Jan. 7, 2011, [124 Stat. 4213][/us/stat/124/4213].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 24][/us/stat/70A/24], § 591; [Pub. L. 85–861][/us/pl/85/861], § 1(10)(A), Sept. 2, 1958, [72 Stat. 1440][/us/stat/72/1440]; [Pub. L. 88–236][/us/pl/88/236], Dec. 23, 1963, [77 Stat. 474][/us/stat/77/474]; [Pub. L. 89–718][/us/pl/89/718], § 4, Nov. 2, 1966, [80 Stat. 1115][/us/stat/80/1115]; [Pub. L. 90–130][/us/pl/90/130], § 1(3), Nov. 8, 1967, [81 Stat. 374][/us/stat/81/374]; [Pub. L. 96–513, title V][/us/pl/96/513/tV] § 511(16), Dec. 12, 1980, [94 Stat. 2921][/us/stat/94/2921]; [Pub. L. 100–180, div. A, title VII][/us/pl/100/180/dA/tVII], § 718(a), Dec. 4, 1987, [101 Stat. 1115][/us/stat/101/1115]; renumbered § 12201 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], §§ 1631(b), 1662(c)(2), Oct. 5, 1994, [108 Stat. 2964][/us/stat/108/2964], 2990; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(a)(5)(B), (b)(11)(A), Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495], 496; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 501(c)(3), Oct. 28, 2004, [118 Stat. 1874][/us/stat/118/1874]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 515, Jan. 7, 2011, [124 Stat. 4213][/us/stat/124/4213].)
 
 <table>
 
@@ -163,13 +163,13 @@ July 30, 1956, ch. 789, § 4(a), 70 Stat. 729.  </td>
 
     2004—Subsec. (a). [Pub. L. 108–375][/us/pl/108/375] designated existing provisions as par. (1), inserted “, except as provided in paragraph (2),” after “the armed force concerned and”, and added par. (2).
 
-    1996—[Pub. L. 104–106, § 1501(b)(11)][/us/pl/104/106/s1501/b/11], substituted “Reserve officers: qualifications for appointment” for “Reserve components: qualifications” as section catchline.
+    1996—[Pub. L. 104–106][/us/pl/104/106], § 1501(b)(11), substituted “Reserve officers: qualifications for appointment” for “Reserve components: qualifications” as section catchline.
 
-    Subsecs. (c) to (e). [Pub. L. 104–106, § 1501(a)(5)(B)][/us/pl/104/106/s1501/a/5/B], made technical correction to directory language of [Pub. L. 103–337, § 1631(b)][/us/pl/103/337/s1631/b]. See 1994 Amendment note below.
+    Subsecs. (c) to (e). [Pub. L. 104–106][/us/pl/104/106], § 1501(a)(5)(B), made technical correction to directory language of [Pub. L. 103–337][/us/pl/103/337], § 1631(b). See 1994 Amendment note below.
 
-    1994—[Pub. L. 103–337, § 1662(c)(2)][/us/pl/103/337/s1662/c/2], renumbered [section 591 of this title][/us/usc/t10/s591] as this section.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 1662(c)(2), renumbered [section 591 of this title][/us/usc/t10/s591] as this section.
 
-    Subsecs. (c) to (e). [Pub. L. 103–337, § 1631(b)][/us/pl/103/337/s1631/b], as amended by [Pub. L. 104–106, § 1501(a)(5)(B)][/us/pl/104/106/s1501/a/5/B], redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: “Women may be appointed as Reserves of the armed forces for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, and Coast Guard Reserve. Women who are otherwise qualified may be appointed as Reserves of the armed forces with a view to serving in the Army National Guard of the United States or the Air National Guard of the United States. Women are appointed in grades corresponding to the grades authorized for female officers of the regular component of the armed force concerned. Any female former officer of an armed force may, if otherwise qualified, be appointed as a Reserve of that armed force in the highest grade in which she previously served satisfactorily on active duty (other than for training).”
+    Subsecs. (c) to (e). [Pub. L. 103–337][/us/pl/103/337], § 1631(b), as amended by [Pub. L. 104–106][/us/pl/104/106], § 1501(a)(5)(B), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: “Women may be appointed as Reserves of the armed forces for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, and Coast Guard Reserve. Women who are otherwise qualified may be appointed as Reserves of the armed forces with a view to serving in the Army National Guard of the United States or the Air National Guard of the United States. Women are appointed in grades corresponding to the grades authorized for female officers of the regular component of the armed force concerned. Any female former officer of an armed force may, if otherwise qualified, be appointed as a Reserve of that armed force in the highest grade in which she previously served satisfactorily on active duty (other than for training).”
 
     1987—Subsec. (e). [Pub. L. 100–180][/us/pl/100/180] added subsec. (e).
 
@@ -201,21 +201,21 @@ July 30, 1956, ch. 789, § 4(a), 70 Stat. 729.  </td>
 
  __Baccalaureate Degree Required for Appointment or Promotion of Reserve Component Officers to Grades Above First Lieutenant or Lieutenant (Junior Grade)__ 
 
-    [Pub. L. 102–190, div. A, title V, § 523][/us/pl/102/190/s523], Dec. 5, 1991, [105 Stat. 1363][/us/stat/105/1363], provided that after Sept. 30, 1995, no person could be appointed to a grade above grade of first lieutenant in Army Reserve, Air Force Reserve, or Marine Corps Reserve or to a grade above grade of lieutenant (junior grade) in Naval Reserve, or be federally recognized in a grade above grade of first lieutenant as a member of Army National Guard or Air National Guard, unless that person had been awarded a baccalaureate degree by an accredited educational institution, prior to repeal by [Pub. L. 103–35, title II, § 203(a)][/us/pl/103/35/s203/a], May 31, 1993, [107 Stat. 102][/us/stat/107/102]. See [section 12205 of this title][/us/usc/t10/s12205].
+    [Pub. L. 102–190, div. A, title V][/us/pl/102/190/dA/tV], § 523, Dec. 5, 1991, [105 Stat. 1363][/us/stat/105/1363], provided that after Sept. 30, 1995, no person could be appointed to a grade above grade of first lieutenant in Army Reserve, Air Force Reserve, or Marine Corps Reserve or to a grade above grade of lieutenant (junior grade) in Naval Reserve, or be federally recognized in a grade above grade of first lieutenant as a member of Army National Guard or Air National Guard, unless that person had been awarded a baccalaureate degree by an accredited educational institution, prior to repeal by [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 203(a), May 31, 1993, [107 Stat. 102][/us/stat/107/102]. See [section 12205 of this title][/us/usc/t10/s12205].
 
  __Priority in Making Original Appointments in Guard and Reserve Components for ROTC Scholarship Program Graduates__ 
 
-[Pub. L. 102–190, div. A, title V, § 524][/us/pl/102/190/s524], Dec. 5, 1991, [105 Stat. 1363][/us/stat/105/1363], as amended by [Pub. L. 109–163, div. A, title V, § 515(h)][/us/pl/109/163/s515/h], Jan. 6, 2006, [119 Stat. 3237][/us/stat/119/3237], provided that: 
+[Pub. L. 102–190, div. A, title V][/us/pl/102/190/dA/tV], § 524, Dec. 5, 1991, [105 Stat. 1363][/us/stat/105/1363], as amended by [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(h), Jan. 6, 2006, [119 Stat. 3237][/us/stat/119/3237], provided that: 
 
 > “In making appointments of persons as second lieutenants in the Army Reserve, Air Force Reserve, or Marine Corps Reserve or to the grade of ensign in the Navy Reserve, or in granting federal recognition in the grade of second lieutenant to members of the Army National Guard or Air National Guard, the Secretary of the military department concerned shall give preference to persons who have completed a post-secondary program of education pursued under a ROTC scholarship program at a college or university accredited to award baccalaureate degrees or pursued under a ROTC scholarship program at an accredited two-year or four-year military college.”
 
  __Report on Initial Appointment of All Officers as Reserve Officers and on Appropriate Active Duty Obligation of Graduates of Service Academies__ 
 
-    [Pub. L. 101–510, div. A, title V, § 524][/us/pl/101/510/s524], Nov. 5, 1990, [104 Stat. 1562][/us/stat/104/1562], directed Secretary of Defense to submit to Congress a report on advantages, disadvantages, and desirability of initially appointing all persons commissioned as officers in the Army, Navy, Air Force, or Marine Corps as Reserve officers, and the appropriate active duty service obligation for graduates of the service academies, directed Secretary to submit report not later than 60 days after Nov. 5, 1990, and provided that if the report was not submitted by that date, all persons initially appointed as commissioned officers in the Army, Navy, Air Force, and Marine Corps after that date would be appointed as commissioned officers in a Reserve component of the Armed Forces, and all persons entering the service academies after that date would incur an obligation to serve on active duty for a period of five years.
+    [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 524, Nov. 5, 1990, [104 Stat. 1562][/us/stat/104/1562], directed Secretary of Defense to submit to Congress a report on advantages, disadvantages, and desirability of initially appointing all persons commissioned as officers in the Army, Navy, Air Force, or Marine Corps as Reserve officers, and the appropriate active duty service obligation for graduates of the service academies, directed Secretary to submit report not later than 60 days after Nov. 5, 1990, and provided that if the report was not submitted by that date, all persons initially appointed as commissioned officers in the Army, Navy, Air Force, and Marine Corps after that date would be appointed as commissioned officers in a Reserve component of the Armed Forces, and all persons entering the service academies after that date would incur an obligation to serve on active duty for a period of five years.
 
  __Deadline for Regulations Implementing Subsection (e) of This Section__ 
 
-[Pub. L. 100–180, div. A, title VII, § 718(b)][/us/pl/100/180/s718/b], Dec. 4, 1987, [101 Stat. 1115][/us/stat/101/1115], provided that: 
+[Pub. L. 100–180, div. A, title VII][/us/pl/100/180/dA/tVII], § 718(b), Dec. 4, 1987, [101 Stat. 1115][/us/stat/101/1115], provided that: 
 
 > “The Secretary concerned shall prescribe regulations implementing subsection (e) of section 591 \[now 12201(d)\] of title 10, United States Code, as added by subsection (a), not later than 90 days after the date of the enactment of this Act \[Dec. 4, 1987\].”
 
@@ -230,25 +230,25 @@ July 30, 1956, ch. 789, § 4(a), 70 Stat. 729.  </td>
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F24
-[/us/pl/85/861/s1/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F10%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1440
 [/us/pl/88/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F236
 [/us/stat/77/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F474
-[/us/pl/89/718/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs4
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1115
-[/us/pl/90/130/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs1%2F3
+[/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/stat/81/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F374
-[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2921
-[/us/pl/100/180/s718/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs718%2Fa
+[/us/pl/100/180/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVII
 [/us/stat/101/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1115
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2964
-[/us/pl/104/106/s1501/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fa%2F5%2FB
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F495
-[/us/pl/108/375/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs501%2Fc%2F3
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1874
-[/us/pl/111/383/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs515
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4213
 [/us/usc/t32/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs312
 [/us/usc/t10/s946/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs946%2Fa
@@ -258,13 +258,13 @@ July 30, 1956, ch. 789, § 4(a), 70 Stat. 729.  </td>
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs647
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/104/106/s1501/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F11
-[/us/pl/104/106/s1501/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fa%2F5%2FB
-[/us/pl/103/337/s1631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1631%2Fb
-[/us/pl/103/337/s1662/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fc%2F2
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs591
-[/us/pl/103/337/s1631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1631%2Fb
-[/us/pl/104/106/s1501/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fa%2F5%2FB
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
@@ -286,18 +286,18 @@ July 30, 1956, ch. 789, § 4(a), 70 Stat. 729.  </td>
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/102/190/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs523
+[/us/pl/102/190/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtV
 [/us/stat/105/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1363
-[/us/pl/103/35/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs203%2Fa
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F102
 [/us/usc/t10/s12205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12205
-[/us/pl/102/190/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs524
+[/us/pl/102/190/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtV
 [/us/stat/105/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1363
-[/us/pl/109/163/s515/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fh
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3237
-[/us/pl/101/510/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs524
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1562
-[/us/pl/100/180/s718/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs718%2Fb
+[/us/pl/100/180/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVII
 [/us/stat/101/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1115
 
 

@@ -51,7 +51,7 @@
 
     The Board shall meet at least once a quarter.
 
-(Added [Pub. L. 110–181, div. A, title IX, § 954(a)(1)][/us/pl/110/181/s954/a/1], Jan. 28, 2008, [122 Stat. 293][/us/stat/122/293]; amended [Pub. L. 111–84, div. A, title V, § 523][/us/pl/111/84/s523], Oct. 28, 2009, [123 Stat. 2285][/us/stat/123/2285].)
+(Added [Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 954(a)(1), Jan. 28, 2008, [122 Stat. 293][/us/stat/122/293]; amended [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 523, Oct. 28, 2009, [123 Stat. 2285][/us/stat/123/2285].)
 
  __Amendments__ 
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/110/181/s954/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs954%2Fa%2F1
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F293
-[/us/pl/111/84/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs523
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2285
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 

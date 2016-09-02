@@ -65,15 +65,15 @@
 
     (d) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating in the Navy, shall prescribe regulations to implement this section.
 
-(Added [Pub. L. 90–235, § 4(a)(5)(A)][/us/pl/90/235/s4/a/5/A], Jan. 2, 1968, [81 Stat. 759][/us/stat/81/759]; amended [Pub. L. 96–513, title I, § 116][/us/pl/96/513/s116], Dec. 12, 1980, [94 Stat. 2878][/us/stat/94/2878]; [Pub. L. 98–94, title X, § 1002(a)][/us/pl/98/94/s1002/a], Sept. 24, 1983, [97 Stat. 655][/us/stat/97/655]; [Pub. L. 101–510, div. A, title V, § 556][/us/pl/101/510/s556], Nov. 5, 1990, [104 Stat. 1570][/us/stat/104/1570]; [Pub. L. 106–65, div. A, title V, § 506][/us/pl/106/65/s506], Oct. 5, 1999, [113 Stat. 591][/us/stat/113/591]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–136, div. A, title V, § 545][/us/pl/108/136/s545], Nov. 24, 2003, [117 Stat. 1479][/us/stat/117/1479].)
+(Added [Pub. L. 90–235][/us/pl/90/235], § 4(a)(5)(A), Jan. 2, 1968, [81 Stat. 759][/us/stat/81/759]; amended [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 116, Dec. 12, 1980, [94 Stat. 2878][/us/stat/94/2878]; [Pub. L. 98–94, title X][/us/pl/98/94/tX], § 1002(a), Sept. 24, 1983, [97 Stat. 655][/us/stat/97/655]; [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 556, Nov. 5, 1990, [104 Stat. 1570][/us/stat/104/1570]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 506, Oct. 5, 1999, [113 Stat. 591][/us/stat/113/591]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 545, Nov. 24, 2003, [117 Stat. 1479][/us/stat/117/1479].)
 
  __Amendments__ 
 
-    2003—Subsec. (b)(3). [Pub. L. 108–136, § 545(2)][/us/pl/108/136/s545/2], inserted “by reason of subparagraph (A) of paragraph (1)” after “applies” and substituted “(or of any political subdivision of a State)” for “, the District of Columbia, or a territory, possession, or commonwealth of the United States (or of any political subdivision of any such government)”.
+    2003—Subsec. (b)(3). [Pub. L. 108–136][/us/pl/108/136], § 545(2), inserted “by reason of subparagraph (A) of paragraph (1)” after “applies” and substituted “(or of any political subdivision of a State)” for “, the District of Columbia, or a territory, possession, or commonwealth of the United States (or of any political subdivision of any such government)”.
 
-    Subsec. (b)(4), (5). [Pub. L. 108–136, § 545(1)][/us/pl/108/136/s545/1], (3), added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (b)(4), (5). [Pub. L. 108–136][/us/pl/108/136], § 545(1), (3), added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (b)(6). [Pub. L. 108–136, § 545(4)][/us/pl/108/136/s545/4], added par. (6).
+    Subsec. (b)(6). [Pub. L. 108–136][/us/pl/108/136], § 545(4), added par. (6).
 
     2002—Subsec. (d). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
 
@@ -85,11 +85,11 @@
 
     Subsec. (c). [Pub. L. 98–94][/us/pl/98/94] added subsec. (c).
 
-    1980—[Pub. L. 96–513, § 116(c)][/us/pl/96/513/s116/c], substituted “officers on active duty” for “regular officers” in section catchline.
+    1980—[Pub. L. 96–513][/us/pl/96/513], § 116(c), substituted “officers on active duty” for “regular officers” in section catchline.
 
-    Subsec. (a). [Pub. L. 96–513, § 116(a)][/us/pl/96/513/s116/a], substituted “of an armed force on active duty” for “on the active list of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard”.
+    Subsec. (a). [Pub. L. 96–513][/us/pl/96/513], § 116(a), substituted “of an armed force on active duty” for “on the active list of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard”.
 
-    Subsec. (b). [Pub. L. 96–513, § 116(b)][/us/pl/96/513/s116/b], substituted “regular officer of an armed force on active duty” for “on the active list of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard”.
+    Subsec. (b). [Pub. L. 96–513][/us/pl/96/513], § 116(b), substituted “regular officer of an armed force on active duty” for “on the active list of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard”.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -101,7 +101,7 @@
 
  __Construction and Applicability of Section 973(b)__ 
 
-[Pub. L. 98–94, title X, § 1002(b)][/us/pl/98/94/s1002/b], (c), Sept. 24, 1983, [97 Stat. 655][/us/stat/97/655], 656, provided that:
+[Pub. L. 98–94, title X][/us/pl/98/94/tX], § 1002(b), (c), Sept. 24, 1983, [97 Stat. 655][/us/stat/97/655], 656, provided that:
 
 >     “(b)
 
@@ -120,31 +120,31 @@
 ----------
 ----------
 
-[/us/pl/90/235/s4/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs4%2Fa%2F5%2FA
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F759
-[/us/pl/96/513/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs116
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2878
-[/us/pl/98/94/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1002%2Fa
+[/us/pl/98/94/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtX
 [/us/stat/97/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F655
-[/us/pl/101/510/s556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs556
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1570
-[/us/pl/106/65/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs506
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F591
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/108/136/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs545
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1479
-[/us/pl/108/136/s545/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs545%2F2
-[/us/pl/108/136/s545/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs545%2F1
-[/us/pl/108/136/s545/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs545%2F4
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
-[/us/pl/96/513/s116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs116%2Fc
-[/us/pl/96/513/s116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs116%2Fa
-[/us/pl/96/513/s116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs116%2Fb
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
@@ -152,7 +152,7 @@
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/98/94/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1002%2Fb
+[/us/pl/98/94/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtX
 [/us/stat/97/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F655
 [/us/usc/t10/s973/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs973%2Fb
 [/us/usc/t10/s973/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs973%2Fb%2F3

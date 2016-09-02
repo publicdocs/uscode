@@ -143,7 +143,7 @@
 
     For purposes of this section, the term “Secretary concerned” has the meaning given in section 101(a)(9) in the case of a member of the armed forces.
 
-(Added [Pub. L. 110–252, title V, § 5006(c)][/us/pl/110/252/s5006/c], June 30, 2008, [122 Stat. 2383][/us/stat/122/2383]; amended [Pub. L. 111–383, div. A, title X, § 1075(b)(56)][/us/pl/111/383/s1075/b/56], Jan. 7, 2011, [124 Stat. 4372][/us/stat/124/4372].)
+(Added [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5006(c), June 30, 2008, [122 Stat. 2383][/us/stat/122/2383]; amended [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(56), Jan. 7, 2011, [124 Stat. 4372][/us/stat/124/4372].)
 
  __Amendments__ 
 
@@ -157,9 +157,9 @@
 ----------
 
 [/us/usc/t38/s3685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3685
-[/us/pl/110/252/s5006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5006%2Fc
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2383
-[/us/pl/111/383/s1075/b/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F56
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4372
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 

@@ -23,7 +23,7 @@
 
     The Secretary of Defense shall report on the implementation of the departmental guidance in the annual report to Congress submitted pursuant to [section 2504 of this title][/us/usc/t10/s2504].
 
-(Added [Pub. L. 102–484, div. D, title XLII, § 4216(a)][/us/pl/102/484/s4216/a], Oct. 23, 1992, [106 Stat. 2668][/us/stat/106/2668]; amended [Pub. L. 104–201, div. A, title VIII, § 829(d)][/us/pl/104/201/s829/d], Sept. 23, 1996, [110 Stat. 2613][/us/stat/110/2613]; [Pub. L. 111–383, div. A, title VIII, § 895(d)][/us/pl/111/383/s895/d], Jan. 7, 2011, [124 Stat. 4314][/us/stat/124/4314].)
+(Added [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4216(a), Oct. 23, 1992, [106 Stat. 2668][/us/stat/106/2668]; amended [Pub. L. 104–201, div. A, title VIII][/us/pl/104/201/dA/tVIII], § 829(d), Sept. 23, 1996, [110 Stat. 2613][/us/stat/110/2613]; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 895(d), Jan. 7, 2011, [124 Stat. 4314][/us/stat/124/4314].)
 
  __Prior Provisions__ 
 
@@ -37,7 +37,7 @@
 
  __Implementing Regulations Concerning National Technology and Industrial Base Periodic Plan__ 
 
-    [Pub. L. 102–484, div. D, title XLII, § 4220][/us/pl/102/484/s4220], Oct. 23, 1992, [106 Stat. 2675][/us/stat/106/2675], set forth requirements for the initial regulations prescribed to implement this section, prior to repeal by [Pub. L. 104–201, div. A, title VIII, § 829(h)][/us/pl/104/201/s829/h], Sept. 23, 1996, [110 Stat. 2614][/us/stat/110/2614].
+    [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4220, Oct. 23, 1992, [106 Stat. 2675][/us/stat/106/2675], set forth requirements for the initial regulations prescribed to implement this section, prior to repeal by [Pub. L. 104–201, div. A, title VIII][/us/pl/104/201/dA/tVIII], § 829(h), Sept. 23, 1996, [110 Stat. 2614][/us/stat/110/2614].
 
 ----------
 
@@ -48,18 +48,18 @@
 
 [/us/usc/t10/s2501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501%2Fa
 [/us/usc/t10/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2504
-[/us/pl/102/484/s4216/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4216%2Fa
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2668
-[/us/pl/104/201/s829/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs829%2Fd
+[/us/pl/104/201/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVIII
 [/us/stat/110/2613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2613
-[/us/pl/111/383/s895/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs895%2Fd
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4314
 [/us/usc/t10/s2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2533
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/102/484/s4220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4220
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2675
-[/us/pl/104/201/s829/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs829%2Fh
+[/us/pl/104/201/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVIII
 [/us/stat/110/2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2614
 
 

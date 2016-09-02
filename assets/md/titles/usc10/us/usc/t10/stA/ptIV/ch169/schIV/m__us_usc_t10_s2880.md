@@ -23,7 +23,7 @@
 
     Sections 2826 and 2856 of this title shall not apply to military family housing or military unaccompanied housing units acquired or constructed under this subchapter.
 
-(Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)][/us/pl/104/106/s2801/a/1], Feb. 10, 1996, [110 Stat. 548][/us/stat/110/548]; amended [Pub. L. 108–136, div. B, title XXVIII, § 2806][/us/pl/108/136/s2806], Nov. 24, 2003, [117 Stat. 1722][/us/stat/117/1722]; [Pub. L. 109–364, div. B, title XXVIII, § 2807(b)][/us/pl/109/364/s2807/b], Oct. 17, 2006, [120 Stat. 2469][/us/stat/120/2469].)
+(Added [Pub. L. 104–106, div. B, title XXVIII][/us/pl/104/106/dB/tXXVIII], § 2801(a)(1), Feb. 10, 1996, [110 Stat. 548][/us/stat/110/548]; amended [Pub. L. 108–136, div. B, title XXVIII][/us/pl/108/136/dB/tXXVIII], § 2806, Nov. 24, 2003, [117 Stat. 1722][/us/stat/117/1722]; [Pub. L. 109–364, div. B, title XXVIII][/us/pl/109/364/dB/tXXVIII], § 2807(b), Oct. 17, 2006, [120 Stat. 2469][/us/stat/120/2469].)
 
  __Amendments__ 
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/104/106/s2801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2801%2Fa%2F1
+[/us/pl/104/106/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdB%2FtXXVIII
 [/us/stat/110/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F548
-[/us/pl/108/136/s2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs2806
+[/us/pl/108/136/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdB%2FtXXVIII
 [/us/stat/117/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1722
-[/us/pl/109/364/s2807/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2807%2Fb
+[/us/pl/109/364/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdB%2FtXXVIII
 [/us/stat/120/2469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2469
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2856

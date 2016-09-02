@@ -51,7 +51,7 @@
 
         Each of the terms “contribution”, “expenditure”, “independent expenditure”, “candidate”, “election”, “electioneering communication”, and “Federal office” has the meaning given that term in the Federal Election Campaign Act of 1971 ([2 U.S.C. 431][/us/usc/t2/s431] et seq.).1
 
-(Added [Pub. L. 112–81, div. A, title VIII, § 823(a)][/us/pl/112/81/s823/a], Dec. 31, 2011, [125 Stat. 1502][/us/stat/125/1502]; amended [Pub. L. 113–291, div. A, title X, § 1071(f)(17)][/us/pl/113/291/s1071/f/17], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511].)
+(Added [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 823(a), Dec. 31, 2011, [125 Stat. 1502][/us/stat/125/1502]; amended [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(f)(17), Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511].)
 
  __References in Text__ 
 
@@ -59,13 +59,13 @@
 
  __Amendments__ 
 
-    2014—Subsec. (d)(2). [Pub. L. 113–291, § 1071(f)(17)(A)][/us/pl/113/291/s1071/f/17/A], redesignated last sentence as par. (3).
+    2014—Subsec. (d)(2). [Pub. L. 113–291][/us/pl/113/291], § 1071(f)(17)(A), redesignated last sentence as par. (3).
 
-    Subsec. (d)(3). [Pub. L. 113–291, § 1071(f)(17)(B)(ii)][/us/pl/113/291/s1071/f/17/B/ii], (iii), substituted “that term” for “the term” and “Federal Election Campaign” for “Federal Campaign”.
+    Subsec. (d)(3). [Pub. L. 113–291][/us/pl/113/291], § 1071(f)(17)(B)(ii), (iii), substituted “that term” for “the term” and “Federal Election Campaign” for “Federal Campaign”.
 
-    [Pub. L. 113–291, § 1071(f)(17)(B)(i)][/us/pl/113/291/s1071/f/17/B/i], which directed amendment of par. (3) by inserting “Other terms.—” before “each of”, was executed by making the insertion before “Each of” to reflect the probable intent of Congress.
+    [Pub. L. 113–291][/us/pl/113/291], § 1071(f)(17)(B)(i), which directed amendment of par. (3) by inserting “Other terms.—” before “each of”, was executed by making the insertion before “Each of” to reflect the probable intent of Congress.
 
-    [Pub. L. 113–291, § 1071(f)(17)(A)][/us/pl/113/291/s1071/f/17/A], redesignated last sentence of par. (2) as (3).
+    [Pub. L. 113–291][/us/pl/113/291], § 1071(f)(17)(A), redesignated last sentence of par. (2) as (3).
 
 ----------
 
@@ -77,15 +77,15 @@
 [/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
 [/us/usc/t10/s2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2324
 [/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
-[/us/pl/112/81/s823/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs823%2Fa
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1502
-[/us/pl/113/291/s1071/f/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F17
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
 [/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
 [/us/stat/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F3
-[/us/pl/113/291/s1071/f/17/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F17%2FA
-[/us/pl/113/291/s1071/f/17/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F17%2FB%2Fii
-[/us/pl/113/291/s1071/f/17/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F17%2FB%2Fi
-[/us/pl/113/291/s1071/f/17/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F17%2FA
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 
 

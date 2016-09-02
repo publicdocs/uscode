@@ -33,7 +33,7 @@
 
     The Secretary of the Navy shall collect, process, and provide to the Director of the National Geospatial-Intelligence Agency hydrographic information to support preparation of maps, charts, books, and geodetic products by that Agency.
 
-(Added [Pub. L. 112–81, div. A, title III, § 363(a)][/us/pl/112/81/s363/a], Dec. 31, 2011, [125 Stat. 1379][/us/stat/125/1379].)
+(Added [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 363(a), Dec. 31, 2011, [125 Stat. 1379][/us/stat/125/1379].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/112/81/s363/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs363%2Fa
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1379
 
 

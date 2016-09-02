@@ -49,7 +49,7 @@
 
     Additional authorities, conditions, and requirements relating to certain cooperative agreements authorized by this section are provided in sections 2371 and 2371a of this title.
 
-(Added [Pub. L. 87–651, title II, § 208(a)][/us/pl/87/651/s208/a], Sept. 7, 1962, [76 Stat. 523][/us/stat/76/523]; amended [Pub. L. 97–86, title IX, § 910][/us/pl/97/86/s910], Dec. 1, 1981, [95 Stat. 1120][/us/stat/95/1120]; [Pub. L. 100–370, § 1(g)(3)][/us/pl/100/370/s1/g/3], July 19, 1988, [102 Stat. 846][/us/stat/102/846]; [Pub. L. 103–160, div. A, title VIII, § 827(a)][/us/pl/103/160/s827/a], Nov. 30, 1993, [107 Stat. 1712][/us/stat/107/1712]; [Pub. L. 103–355, title I, § 1301(a)][/us/pl/103/355/s1301/a], Oct. 13, 1994, [108 Stat. 3284][/us/stat/108/3284]; [Pub. L. 104–201, div. A, title II, § 267(c)(2)][/us/pl/104/201/s267/c/2], Sept. 23, 1996, [110 Stat. 2468][/us/stat/110/2468].)
+(Added [Pub. L. 87–651, title II][/us/pl/87/651/tII], § 208(a), Sept. 7, 1962, [76 Stat. 523][/us/stat/76/523]; amended [Pub. L. 97–86, title IX][/us/pl/97/86/tIX], § 910, Dec. 1, 1981, [95 Stat. 1120][/us/stat/95/1120]; [Pub. L. 100–370][/us/pl/100/370], § 1(g)(3), July 19, 1988, [102 Stat. 846][/us/stat/102/846]; [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 827(a), Nov. 30, 1993, [107 Stat. 1712][/us/stat/107/1712]; [Pub. L. 103–355, title I][/us/pl/103/355/tI], § 1301(a), Oct. 13, 1994, [108 Stat. 3284][/us/stat/108/3284]; [Pub. L. 104–201, div. A, title II][/us/pl/104/201/dA/tII], § 267(c)(2), Sept. 23, 1996, [110 Stat. 2468][/us/stat/110/2468].)
 
 <table>
 
@@ -109,7 +109,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
     In the existing text of [10 U.S.C. 2358][/us/usc/t10/s2358], the bill would in two instances strike the phrase “or his designee” appearing after “Secretary of Defense” (section 1(g)(3)). The change is made for consistency in the Code, and no substantive change is intended. The committee notes that the Secretary of Defense has general authority to delegate functions under [10 U.S.C. 113(d)][/us/usc/t10/s113/d].
 
-    Subsection (b) is based on [Pub. L. 91–441, title II, § 204][/us/pl/91/441/s204], Oct. 7, 1970, [84 Stat. 908][/us/stat/84/908].
+    Subsection (b) is based on [Pub. L. 91–441, title II][/us/pl/91/441/tII], § 204, Oct. 7, 1970, [84 Stat. 908][/us/stat/84/908].
 
  __Amendments__ 
 
@@ -139,7 +139,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Plan for Advanced Weapons Technology War Games__ 
 
-[Pub. L. 114–92, div. A, title II, § 240][/us/pl/114/92/s240], Nov. 25, 2015, [129 Stat. 784][/us/stat/129/784], provided that:
+[Pub. L. 114–92, div. A, title II][/us/pl/114/92/dA/tII], § 240, Nov. 25, 2015, [129 Stat. 784][/us/stat/129/784], provided that:
 
 >     “(a)  __Plan Required__  __.—__ 
 
@@ -163,7 +163,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Information Operations and Engagement Technology Demonstrations__ 
 
-[Pub. L. 114–92, div. A, title X, § 1056][/us/pl/114/92/s1056], Nov. 25, 2015, [129 Stat. 984][/us/stat/129/984], provided that:
+[Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1056, Nov. 25, 2015, [129 Stat. 984][/us/stat/129/984], provided that:
 
 >     “(a)  __Sense of Congress__  __.—__ 
 
@@ -211,7 +211,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Pilot Program on Dynamic Shaping of the Workforce to Improve the Technical Skills and Expertise at Certain Department of Defense Laboratories__ 
 
-[Pub. L. 114–92, div. A, title XI, § 1109][/us/pl/114/92/s1109], Nov. 25, 2015, [129 Stat. 1028][/us/stat/129/1028], provided that:
+[Pub. L. 114–92, div. A, title XI][/us/pl/114/92/dA/tXI], § 1109, Nov. 25, 2015, [129 Stat. 1028][/us/stat/129/1028], provided that:
 
 >     “(a)  __Pilot Program Required__  __.—__ 
 
@@ -289,7 +289,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Defense Laboratory Modernization Pilot Program__ 
 
-[Pub. L. 114–92, div. B, title XXVIII, § 2803][/us/pl/114/92/s2803], Nov. 25, 2015, [129 Stat. 1169][/us/stat/129/1169], provided that:
+[Pub. L. 114–92, div. B, title XXVIII][/us/pl/114/92/dB/tXXVIII], § 2803, Nov. 25, 2015, [129 Stat. 1169][/us/stat/129/1169], provided that:
 
 >     “(a)  __Authority to Use Research, Development, Test, and Evaluation Funds__  __.—__ 
 
@@ -345,7 +345,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Pilot Program on Assignment to Defense Advanced Research Projects Agency of Private Sector Personnel With Critical Research and Development Expertise__ 
 
-[Pub. L. 113–291, div. A, title II, § 232][/us/pl/113/291/s232], Dec. 19, 2014, [128 Stat. 3332][/us/stat/128/3332], provided that:
+[Pub. L. 113–291, div. A, title II][/us/pl/113/291/dA/tII], § 232, Dec. 19, 2014, [128 Stat. 3332][/us/stat/128/3332], provided that:
 
 >     “(a)  __Pilot Program Authorized__  __.—__ 
 
@@ -439,7 +439,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Temporary Authorities for Certain Positions at Department of Defense Research and Engineering Facilities__ 
 
-[Pub. L. 113–66, div. A, title XI, § 1107][/us/pl/113/66/s1107], Dec. 26, 2013, [127 Stat. 887][/us/stat/127/887], as amended by [Pub. L. 113–291, div. A, title XI, § 1105][/us/pl/113/291/s1105], Dec. 19, 2014, [128 Stat. 3526][/us/stat/128/3526]; [Pub. L. 114–92, div. A, title XI, § 1104][/us/pl/114/92/s1104], Nov. 25, 2015, [129 Stat. 1023][/us/stat/129/1023], provided that:
+[Pub. L. 113–66, div. A, title XI][/us/pl/113/66/dA/tXI], § 1107, Dec. 26, 2013, [127 Stat. 887][/us/stat/127/887], as amended by [Pub. L. 113–291, div. A, title XI][/us/pl/113/291/dA/tXI], § 1105, Dec. 19, 2014, [128 Stat. 3526][/us/stat/128/3526]; [Pub. L. 114–92, div. A, title XI][/us/pl/114/92/dA/tXI], § 1104, Nov. 25, 2015, [129 Stat. 1023][/us/stat/129/1023], provided that:
 
 >     “(a) __Authority To Make Direct Appointments.—__ 
 
@@ -543,7 +543,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Regional Advanced Technology Clusters__ 
 
-[Pub. L. 112–239, div. A, title II, § 252][/us/pl/112/239/s252], Jan. 2, 2013, [126 Stat. 1688][/us/stat/126/1688], provided that:
+[Pub. L. 112–239, div. A, title II][/us/pl/112/239/dA/tII], § 252, Jan. 2, 2013, [126 Stat. 1688][/us/stat/126/1688], provided that:
 
 >     “(a)  __Development of Innovative Advanced Technologies__  __.—__ 
 
@@ -601,7 +601,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Advanced Rotorcraft Flight Research and Development__ 
 
-[Pub. L. 112–81, div. A, title II, § 222][/us/pl/112/81/s222], Dec. 31, 2011, [125 Stat. 1336][/us/stat/125/1336], provided that:
+[Pub. L. 112–81, div. A, title II][/us/pl/112/81/dA/tII], § 222, Dec. 31, 2011, [125 Stat. 1336][/us/stat/125/1336], provided that:
 
 >     “(a)  __Program Authorized__  __.—__ 
 
@@ -635,7 +635,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Program for Research, Development, and Deployment of Advanced Ground Vehicles, Ground Vehicle Systems, and Components__ 
 
-[Pub. L. 111–383, div. A, title II, § 214][/us/pl/111/383/s214], Jan. 7, 2011, [124 Stat. 4164][/us/stat/124/4164], provided that:
+[Pub. L. 111–383, div. A, title II][/us/pl/111/383/dA/tII], § 214, Jan. 7, 2011, [124 Stat. 4164][/us/stat/124/4164], provided that:
 
 >     “(a)  __Program Authorized__  __.—__ 
 
@@ -703,7 +703,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Pilot Program To Include Technology Protection Features During Research and Development of Defense Systems__ 
 
-[Pub. L. 111–383, div. A, title II, § 243][/us/pl/111/383/s243], Jan. 7, 2011, [124 Stat. 4178][/us/stat/124/4178], as amended by [Pub. L. 112–81, div. A, title II, § 252][/us/pl/112/81/s252], Dec. 31, 2011, [125 Stat. 1347][/us/stat/125/1347]; [Pub. L. 113–66, div. A, title II, § 264][/us/pl/113/66/s264], Dec. 26, 2013, [127 Stat. 726][/us/stat/127/726]; [Pub. L. 113–291, div. A, title II, § 231][/us/pl/113/291/s231], Dec. 19, 2014, [128 Stat. 3332][/us/stat/128/3332], provided that:
+[Pub. L. 111–383, div. A, title II][/us/pl/111/383/dA/tII], § 243, Jan. 7, 2011, [124 Stat. 4178][/us/stat/124/4178], as amended by [Pub. L. 112–81, div. A, title II][/us/pl/112/81/dA/tII], § 252, Dec. 31, 2011, [125 Stat. 1347][/us/stat/125/1347]; [Pub. L. 113–66, div. A, title II][/us/pl/113/66/dA/tII], § 264, Dec. 26, 2013, [127 Stat. 726][/us/stat/127/726]; [Pub. L. 113–291, div. A, title II][/us/pl/113/291/dA/tII], § 231, Dec. 19, 2014, [128 Stat. 3332][/us/stat/128/3332], provided that:
 
 >     “(a)  __Pilot Program__  __.—__ 
 
@@ -737,7 +737,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Program to Assess the Utility of Non-Lethal Weapons__ 
 
-[Pub. L. 111–383, div. A, title X, § 1078][/us/pl/111/383/s1078], Jan. 7, 2011, [124 Stat. 4380][/us/stat/124/4380], provided that:
+[Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1078, Jan. 7, 2011, [124 Stat. 4380][/us/stat/124/4380], provided that:
 
 >     “(a)  __Sense of Congress__  __.—__ 
 
@@ -775,7 +775,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Mechanisms To Provide Funds for Defense Laboratories for Research and Development of Technologies for Military Missions__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 219, Oct. 14, 2008, [122 Stat. 4389][/us/stat/122/4389], as amended by [Pub. L. 111–84, div. B, title XXVIII, § 2801(c)][/us/pl/111/84/s2801/c], Oct. 28, 2009, [123 Stat. 2660][/us/stat/123/2660]; [Pub. L. 112–81, div. A, title II, § 253][/us/pl/112/81/s253], Dec. 31, 2011, [125 Stat. 1347][/us/stat/125/1347]; [Pub. L. 113–66, div. A, title II, § 262(a)][/us/pl/113/66/s262/a], (b), Dec. 26, 2013, [127 Stat. 725][/us/stat/127/725], 726, provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 219, Oct. 14, 2008, [122 Stat. 4389][/us/stat/122/4389], as amended by [Pub. L. 111–84, div. B, title XXVIII][/us/pl/111/84/dB/tXXVIII], § 2801(c), Oct. 28, 2009, [123 Stat. 2660][/us/stat/123/2660]; [Pub. L. 112–81, div. A, title II][/us/pl/112/81/dA/tII], § 253, Dec. 31, 2011, [125 Stat. 1347][/us/stat/125/1347]; [Pub. L. 113–66, div. A, title II][/us/pl/113/66/dA/tII], § 262(a), (b), Dec. 26, 2013, [127 Stat. 725][/us/stat/127/725], 726, provided that:
 
 >     “(a) __Mechanisms to Provide Funds.—__ 
 
@@ -825,7 +825,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >     The authority under subsection (a) shall expire on September 30, 2020.”
 
-\[[Pub. L. 113–66, div. A, title II, § 262(c)][/us/pl/113/66/s262/c], Dec. 26, 2013, [127 Stat. 726][/us/stat/127/726], provided that: 
+\[[Pub. L. 113–66, div. A, title II][/us/pl/113/66/dA/tII], § 262(c), Dec. 26, 2013, [127 Stat. 726][/us/stat/127/726], provided that: 
 
 > “Subsection (b) of such section 219 \[[section 219 of Pub. L. 110–417][/us/pl/110/417/s219], set out above\], as added by subsection (a)(3), shall apply with respect to funds made available under such section on or after the date of the enactment of this Act \[Dec. 26, 2013\].”
 
@@ -833,7 +833,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Science and Technology Investment Strategy To Defeat or Counter Improvised Explosive Devices__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XV, § 1504, Oct. 14, 2008, [122 Stat. 4650][/us/stat/122/4650], as amended by [Pub. L. 112–81, div. A, title X, § 1062(b)][/us/pl/112/81/s1062/b], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585]; [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(D)][/us/pl/112/239/s1076/c/2/D], Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XV, § 1504, Oct. 14, 2008, [122 Stat. 4650][/us/stat/122/4650], as amended by [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1062(b), Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(c)(2)(D), Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], provided that:
 
 >     “(a)  __Strategy Required__  __.—__ 
 
@@ -863,7 +863,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Hypersonics Development__ 
 
-[Pub. L. 109–364, div. A, title II, § 218][/us/pl/109/364/s218], Oct. 17, 2006, [120 Stat. 2126][/us/stat/120/2126], as amended by [Pub. L. 112–81, div. A, title II, § 241][/us/pl/112/81/s241], Dec. 31, 2011, [125 Stat. 1343][/us/stat/125/1343]; [Pub. L. 114–92, div. A, title X, § 1079(f)][/us/pl/114/92/s1079/f], Nov. 25, 2015, [129 Stat. 999][/us/stat/129/999], provided that:
+[Pub. L. 109–364, div. A, title II][/us/pl/109/364/dA/tII], § 218, Oct. 17, 2006, [120 Stat. 2126][/us/stat/120/2126], as amended by [Pub. L. 112–81, div. A, title II][/us/pl/112/81/dA/tII], § 241, Dec. 31, 2011, [125 Stat. 1343][/us/stat/125/1343]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1079(f), Nov. 25, 2015, [129 Stat. 999][/us/stat/129/999], provided that:
 
 >     “(a)  __Establishment of Joint Technology Office on Hypersonics__  __.—__ 
 
@@ -943,7 +943,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Collaborative Program for Research and Development of Vacuum Electronics Technologies__ 
 
-[Pub. L. 108–375, div. A, title II, § 212][/us/pl/108/375/s212], Oct. 28, 2004, [118 Stat. 1832][/us/stat/118/1832], as amended by [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(iii)][/us/pl/112/239/s1076/c/2/A/iii], Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], provided that:
+[Pub. L. 108–375, div. A, title II][/us/pl/108/375/dA/tII], § 212, Oct. 28, 2004, [118 Stat. 1832][/us/stat/118/1832], as amended by [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(c)(2)(A)(iii), Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], provided that:
 
 >     “(a)  __Program Required__  __.—__ 
 
@@ -977,7 +977,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Department of Defense Program To Expand High-Speed, High-Bandwidth Capabilities for Network-Centric Operations__ 
 
-[Pub. L. 108–136, div. A, title II, § 234][/us/pl/108/136/s234], Nov. 24, 2003, [117 Stat. 1423][/us/stat/117/1423], provided that:
+[Pub. L. 108–136, div. A, title II][/us/pl/108/136/dA/tII], § 234, Nov. 24, 2003, [117 Stat. 1423][/us/stat/117/1423], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1043,7 +1043,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Research and Development of Defense Biomedical Countermeasures__ 
 
-[Pub. L. 108–136, div. A, title XVI, § 1601][/us/pl/108/136/s1601], Nov. 24, 2003, [117 Stat. 1680][/us/stat/117/1680], as amended by [Pub. L. 112–81, div. A, title X, § 1062(g)(3)][/us/pl/112/81/s1062/g/3], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585]; [Pub. L. 113–291, div. A, title X, § 1071(b)(5)(B)][/us/pl/113/291/s1071/b/5/B], Dec. 19, 2014, [128 Stat. 3507][/us/stat/128/3507]; [Pub. L. 114–92, div. A, title VIII, § 815(d)][/us/pl/114/92/s815/d], Nov. 25, 2015, [129 Stat. 896][/us/stat/129/896], provided that:
+[Pub. L. 108–136, div. A, title XVI][/us/pl/108/136/dA/tXVI], § 1601, Nov. 24, 2003, [117 Stat. 1680][/us/stat/117/1680], as amended by [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1062(g)(3), Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(b)(5)(B), Dec. 19, 2014, [128 Stat. 3507][/us/stat/128/3507]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 815(d), Nov. 25, 2015, [129 Stat. 896][/us/stat/129/896], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1127,7 +1127,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(3) The Secretary shall institute appropriate internal controls for each use of the authority under paragraph (1).”
 
-[Pub. L. 107–107, div. A, title X, § 1044(a)][/us/pl/107/107/s1044/a], Dec. 28, 2001, [115 Stat. 1219][/us/stat/115/1219], provided that:
+[Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1044(a), Dec. 28, 2001, [115 Stat. 1219][/us/stat/115/1219], provided that:
 
 >     “(1) The Secretary of Defense shall carry out a program to aggressively accelerate the research, development, testing, and licensure of new medical countermeasures for defense against the biological warfare agents that are the highest threat.
 
@@ -1141,7 +1141,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Vehicle Fuel Cell Program__ 
 
-[Pub. L. 107–314, div. A, title II, § 245][/us/pl/107/314/s245], Dec. 2, 2002, [116 Stat. 2500][/us/stat/116/2500], provided that:
+[Pub. L. 107–314, div. A, title II][/us/pl/107/314/dA/tII], § 245, Dec. 2, 2002, [116 Stat. 2500][/us/stat/116/2500], provided that:
 
 >     “(a)  __Program Required__  __.—__ 
 
@@ -1191,7 +1191,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Defense Nanotechnology Research and Development Program__ 
 
-[Pub. L. 107–314, div. A, title II, § 246][/us/pl/107/314/s246], Dec. 2, 2002, [116 Stat. 2500][/us/stat/116/2500], as amended by [Pub. L. 110–181, div. A, title II, § 240][/us/pl/110/181/s240], Jan. 28, 2008, [122 Stat. 48][/us/stat/122/48]; [Pub. L. 111–84, div. A, title II, § 242][/us/pl/111/84/s242], Oct. 28, 2009, [123 Stat. 2237][/us/stat/123/2237]; [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(iv)][/us/pl/112/239/s1076/c/2/A/iv], Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], provided that:
+[Pub. L. 107–314, div. A, title II][/us/pl/107/314/dA/tII], § 246, Dec. 2, 2002, [116 Stat. 2500][/us/stat/116/2500], as amended by [Pub. L. 110–181, div. A, title II][/us/pl/110/181/dA/tII], § 240, Jan. 28, 2008, [122 Stat. 48][/us/stat/122/48]; [Pub. L. 111–84, div. A, title II][/us/pl/111/84/dA/tII], § 242, Oct. 28, 2009, [123 Stat. 2237][/us/stat/123/2237]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(c)(2)(A)(iv), Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -1237,7 +1237,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Report on Weapons and Capabilities To Defeat Hardened and Deeply Buried Targets__ 
 
-[Pub. L. 107–314, div. A, title X, § 1032][/us/pl/107/314/s1032], Dec. 2, 2002, [116 Stat. 2643][/us/stat/116/2643], as amended by [Pub. L. 108–136, div. C, title XXXI, § 3135][/us/pl/108/136/s3135], Nov. 24, 2003, [117 Stat. 1752][/us/stat/117/1752], as amended by [Pub. L. 110–181, div. A, title X, § 1041][/us/pl/110/181/s1041], Jan. 28, 2008, [122 Stat. 310][/us/stat/122/310]; [Pub. L. 111–383, div. A, title X, § 1075(j)][/us/pl/111/383/s1075/j], Jan. 7, 2011, [124 Stat. 4378][/us/stat/124/4378], provided that:
+[Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1032, Dec. 2, 2002, [116 Stat. 2643][/us/stat/116/2643], as amended by [Pub. L. 108–136, div. C, title XXXI][/us/pl/108/136/dC/tXXXI], § 3135, Nov. 24, 2003, [117 Stat. 1752][/us/stat/117/1752], as amended by [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1041, Jan. 28, 2008, [122 Stat. 310][/us/stat/122/310]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(j), Jan. 7, 2011, [124 Stat. 4378][/us/stat/124/4378], provided that:
 
 >     “(a)  __Report__  __.—__ 
 
@@ -1273,7 +1273,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Pilot Programs for Revitalizing Laboratories and Test and Evaluation Centers of Department of Defense__ 
 
-[Pub. L. 107–314, div. A, title II, § 241][/us/pl/107/314/s241], Dec. 2, 2002, [116 Stat. 2492][/us/stat/116/2492], provided that:
+[Pub. L. 107–314, div. A, title II][/us/pl/107/314/dA/tII], § 241, Dec. 2, 2002, [116 Stat. 2492][/us/stat/116/2492], provided that:
 
 >     “(a)  __Additional Pilot Program__  __.—__ 
 
@@ -1363,17 +1363,17 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(2) the pilot programs authorized by section 245 of the National Defense Authorization Act for Fiscal Year 2000 ([Public Law 106–65][/us/pl/106/65]; [113 Stat. 552][/us/stat/113/552]; \[former\] [10 U.S.C. 2358][/us/usc/t10/s2358] note).”
 
-    [Pub. L. 106–65, div. A, title II, § 245][/us/pl/106/65/s245], Oct. 5, 1999, [113 Stat. 552][/us/stat/113/552], as amended by [Pub. L. 107–314, div. A, title II, § 241(d)(2)][/us/pl/107/314/s241/d/2], Dec. 2, 2002, [116 Stat. 2493][/us/stat/116/2493], authorized the Secretary of Defense to carry out a pilot program for up to five years beginning not later than Mar. 1, 2000, to demonstrate improved efficiency in the performance of research, development, test, and evaluation functions of the Department of Defense, and directed the Secretary to submit to Congress a report on the implementation of the program not later than Mar. 1, 2000, and a final report promptly after the expiration of the period for participation in the program.
+    [Pub. L. 106–65, div. A, title II][/us/pl/106/65/dA/tII], § 245, Oct. 5, 1999, [113 Stat. 552][/us/stat/113/552], as amended by [Pub. L. 107–314, div. A, title II][/us/pl/107/314/dA/tII], § 241(d)(2), Dec. 2, 2002, [116 Stat. 2493][/us/stat/116/2493], authorized the Secretary of Defense to carry out a pilot program for up to five years beginning not later than Mar. 1, 2000, to demonstrate improved efficiency in the performance of research, development, test, and evaluation functions of the Department of Defense, and directed the Secretary to submit to Congress a report on the implementation of the program not later than Mar. 1, 2000, and a final report promptly after the expiration of the period for participation in the program.
 
-    [Pub. L. 105–261, div. A, title II, § 246][/us/pl/105/261/s246], Oct. 17, 1998, [112 Stat. 1955][/us/stat/112/1955], as amended by [Pub. L. 107–314, div. A, title II, § 241(d)(1)][/us/pl/107/314/s241/d/1], Dec. 2, 2002, [116 Stat. 2493][/us/stat/116/2493], authorized the Secretary of Defense to carry out a pilot program for up to six years beginning not later than Mar. 1, 1999, to demonstrate improved cooperative relationships with universities and other private sector entities for the performance of research and development functions, and directed the Secretary to submit a report on the implementation of the program to Congress not later than Mar. 1, 1999, and a final report on participation in the program promptly after the expiration of the period for participation.
+    [Pub. L. 105–261, div. A, title II][/us/pl/105/261/dA/tII], § 246, Oct. 17, 1998, [112 Stat. 1955][/us/stat/112/1955], as amended by [Pub. L. 107–314, div. A, title II][/us/pl/107/314/dA/tII], § 241(d)(1), Dec. 2, 2002, [116 Stat. 2493][/us/stat/116/2493], authorized the Secretary of Defense to carry out a pilot program for up to six years beginning not later than Mar. 1, 1999, to demonstrate improved cooperative relationships with universities and other private sector entities for the performance of research and development functions, and directed the Secretary to submit a report on the implementation of the program to Congress not later than Mar. 1, 1999, and a final report on participation in the program promptly after the expiration of the period for participation.
 
  __Defense Experimental Program To Stimulate Competitive Research__ 
 
-[Pub. L. 105–18, title I, § 307][/us/pl/105/18/s307], June 12, 1997, [111 Stat. 169][/us/stat/111/169], provided that: 
+[Pub. L. 105–18, title I][/us/pl/105/18/tI], § 307, June 12, 1997, [111 Stat. 169][/us/stat/111/169], provided that: 
 
 > “For the purposes of implementing the 1997 Defense Experimental Program to Stimulate Competitive Research (DEPSCoR), the term ‘State’ means a State of the United States, the District of Columbia, Puerto Rico, Guam and the Virgin Islands of the United States, American Samoa and the Commonwealth of the Northern Mariana Islands.”
 
-[Pub. L. 103–337, div. A, title II, § 257][/us/pl/103/337/s257], Oct. 5, 1994, [108 Stat. 2705][/us/stat/108/2705], as amended by [Pub. L. 104–106, div. A, title II, § 273][/us/pl/104/106/s273], Feb. 10, 1996, [110 Stat. 239][/us/stat/110/239]; [Pub. L. 104–201, div. A, title II, § 264][/us/pl/104/201/s264], Sept. 23, 1996, [110 Stat. 2465][/us/stat/110/2465]; [Pub. L. 105–85, div. A, title II, § 243][/us/pl/105/85/s243], Nov. 18, 1997, [111 Stat. 1667][/us/stat/111/1667]; [Pub. L. 106–65, div. A, title IX, § 911(a)(1)][/us/pl/106/65/s911/a/1], Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717]; [Pub. L. 107–314, div. A, title II, § 247][/us/pl/107/314/s247], Dec. 2, 2002, [116 Stat. 2502][/us/stat/116/2502]; [Pub. L. 110–181, div. A, title II, § 239][/us/pl/110/181/s239], Jan. 28, 2008, [122 Stat. 48][/us/stat/122/48]; [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(v)][/us/pl/112/239/s1076/c/2/A/v], Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], provided that:
+[Pub. L. 103–337, div. A, title II][/us/pl/103/337/dA/tII], § 257, Oct. 5, 1994, [108 Stat. 2705][/us/stat/108/2705], as amended by [Pub. L. 104–106, div. A, title II][/us/pl/104/106/dA/tII], § 273, Feb. 10, 1996, [110 Stat. 239][/us/stat/110/239]; [Pub. L. 104–201, div. A, title II][/us/pl/104/201/dA/tII], § 264, Sept. 23, 1996, [110 Stat. 2465][/us/stat/110/2465]; [Pub. L. 105–85, div. A, title II][/us/pl/105/85/dA/tII], § 243, Nov. 18, 1997, [111 Stat. 1667][/us/stat/111/1667]; [Pub. L. 106–65, div. A, title IX][/us/pl/106/65/dA/tIX], § 911(a)(1), Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717]; [Pub. L. 107–314, div. A, title II][/us/pl/107/314/dA/tII], § 247, Dec. 2, 2002, [116 Stat. 2502][/us/stat/116/2502]; [Pub. L. 110–181, div. A, title II][/us/pl/110/181/dA/tII], § 239, Jan. 28, 2008, [122 Stat. 48][/us/stat/122/48]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(c)(2)(A)(v), Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], provided that:
 
 >     “(a)  __Program Required__  __.—__ 
 
@@ -1423,7 +1423,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Defense Laboratories Personnel Demonstration Projects__ 
 
-[Pub. L. 111–84, div. A, title XI, § 1105][/us/pl/111/84/s1105], Oct. 28, 2009, [123 Stat. 2486][/us/stat/123/2486], as amended by [Pub. L. 113–291, div. A, title XI, § 1103][/us/pl/113/291/s1103], Dec. 19, 2014, [128 Stat. 3525][/us/stat/128/3525], provided that:
+[Pub. L. 111–84, div. A, title XI][/us/pl/111/84/dA/tXI], § 1105, Oct. 28, 2009, [123 Stat. 2486][/us/stat/123/2486], as amended by [Pub. L. 113–291, div. A, title XI][/us/pl/113/291/dA/tXI], § 1103, Dec. 19, 2014, [128 Stat. 3525][/us/stat/128/3525], provided that:
 
 >     “(a)  __Designation of Laboratories__  __.—__ 
 
@@ -1483,7 +1483,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >     The science and technology reinvention laboratories, as so designated by subsection (a), may not implement any personnel system, other than a personnel system under an appropriate demonstration project (as referred to in such section 342(b) \[set out below\]), without prior congressional authorization.”
 
-[Pub. L. 110–181, div. A, title XI, § 1107][/us/pl/110/181/s1107], Jan. 28, 2008, [122 Stat. 357][/us/stat/122/357], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1109, Oct. 14, 2008, [122 Stat. 4618][/us/stat/122/4618]; [Pub. L. 111–84, div. A, title X, § 1073(d)][/us/pl/111/84/s1073/d], Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475]; [Pub. L. 111–383, div. A, title XI, § 1101(b)][/us/pl/111/383/s1101/b], Jan. 7, 2011, [124 Stat. 4382][/us/stat/124/4382]; [Pub. L. 112–81, div. A, title X, § 1066(b)(2)][/us/pl/112/81/s1066/b/2], Dec. 31, 2011, [125 Stat. 1588][/us/stat/125/1588], provided that:
+[Pub. L. 110–181, div. A, title XI][/us/pl/110/181/dA/tXI], § 1107, Jan. 28, 2008, [122 Stat. 357][/us/stat/122/357], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1109, Oct. 14, 2008, [122 Stat. 4618][/us/stat/122/4618]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(d), Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475]; [Pub. L. 111–383, div. A, title XI][/us/pl/111/383/dA/tXI], § 1101(b), Jan. 7, 2011, [124 Stat. 4382][/us/stat/124/4382]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1066(b)(2), Dec. 31, 2011, [125 Stat. 1588][/us/stat/125/1588], provided that:
 
 >     “(a)  __Requirement__  __.—__ 
 
@@ -1529,7 +1529,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         For purposes of this subsection, the term ‘demonstration laboratory’ means a laboratory designated by the Secretary of Defense under the provisions of section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 \[[Pub. L. 103–337][/us/pl/103/337], set out below\] (as cited in subsection (a)).”
 
-[Pub. L. 103–337, div. A, title III, § 342(b)][/us/pl/103/337/s342/b], Oct. 5, 1994, [108 Stat. 2721][/us/stat/108/2721], as amended by [Pub. L. 106–65, div. A, title XI, § 1109][/us/pl/106/65/s1109], Oct. 5, 1999, [113 Stat. 779][/us/stat/113/779]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1114\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–315, provided that:
+[Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 342(b), Oct. 5, 1994, [108 Stat. 2721][/us/stat/108/2721], as amended by [Pub. L. 106–65, div. A, title XI][/us/pl/106/65/dA/tXI], § 1109, Oct. 5, 1999, [113 Stat. 779][/us/stat/113/779]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1114\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–315, provided that:
 
 >     “(1) The Secretary of Defense may carry out personnel demonstration projects at Department of Defense laboratories designated by the Secretary as Department of Defense science and technology reinvention laboratories.
 
@@ -1555,7 +1555,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Inclusion of Women and Minorities in Clinical Research Projects__ 
 
-[Pub. L. 103–160, div. A, title II, § 252][/us/pl/103/160/s252], Nov. 30, 1993, [107 Stat. 1607][/us/stat/107/1607], provided that:
+[Pub. L. 103–160, div. A, title II][/us/pl/103/160/dA/tII], § 252, Nov. 30, 1993, [107 Stat. 1607][/us/stat/107/1607], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -1581,7 +1581,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __University Research Initiative Support Program__ 
 
-[Pub. L. 103–160, div. A, title VIII, § 802][/us/pl/103/160/s802], Nov. 30, 1993, [107 Stat. 1701][/us/stat/107/1701], as amended by [Pub. L. 104–106, div. A, title II, § 275][/us/pl/104/106/s275], Feb. 10, 1996, [110 Stat. 241][/us/stat/110/241]; [Pub. L. 104–201, div. A, title II, § 263][/us/pl/104/201/s263], Sept. 23, 1996, [110 Stat. 2465][/us/stat/110/2465]; [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(E)][/us/pl/112/239/s1076/c/2/E], Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], provided that:
+[Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 802, Nov. 30, 1993, [107 Stat. 1701][/us/stat/107/1701], as amended by [Pub. L. 104–106, div. A, title II][/us/pl/104/106/dA/tII], § 275, Feb. 10, 1996, [110 Stat. 241][/us/stat/110/241]; [Pub. L. 104–201, div. A, title II][/us/pl/104/201/dA/tII], § 263, Sept. 23, 1996, [110 Stat. 2465][/us/stat/110/2465]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(c)(2)(E), Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -1613,19 +1613,19 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Independent Research and Development; Bid and Proposal Costs; Negotiation of Advance Agreements With Contractors; Annual Report to Congress__ 
 
-    [Pub. L. 91–441, title II, § 203][/us/pl/91/441/s203], Oct. 7, 1970, [84 Stat. 906][/us/stat/84/906], as amended by [Pub. L. 96–342, title II, § 208][/us/pl/96/342/s208], Sept. 8, 1980, [94 Stat. 1081][/us/stat/94/1081], provided that no funds authorized to be appropriated to Department of Defense by this or any other Act were to be used to finance independent research and development or bid and proposal costs unless such work had, in opinion of Secretary of Defense, potential relationship to military functions or operations, and advance agreements regarding payment for such work had been negotiated, prior to repeal by [Pub. L. 101–510, div. A, title VIII, § 824(b)][/us/pl/101/510/s824/b], Nov. 5, 1990, [104 Stat. 1604][/us/stat/104/1604]. See [section 2372 of this title][/us/usc/t10/s2372].
+    [Pub. L. 91–441, title II][/us/pl/91/441/tII], § 203, Oct. 7, 1970, [84 Stat. 906][/us/stat/84/906], as amended by [Pub. L. 96–342, title II][/us/pl/96/342/tII], § 208, Sept. 8, 1980, [94 Stat. 1081][/us/stat/94/1081], provided that no funds authorized to be appropriated to Department of Defense by this or any other Act were to be used to finance independent research and development or bid and proposal costs unless such work had, in opinion of Secretary of Defense, potential relationship to military functions or operations, and advance agreements regarding payment for such work had been negotiated, prior to repeal by [Pub. L. 101–510, div. A, title VIII][/us/pl/101/510/dA/tVIII], § 824(b), Nov. 5, 1990, [104 Stat. 1604][/us/stat/104/1604]. See [section 2372 of this title][/us/usc/t10/s2372].
 
  __Relationship of Research Projects or Studies to Military Function or Operation__ 
 
-    [Pub. L. 91–441, title II, § 204][/us/pl/91/441/s204], Oct. 7, 1970, [84 Stat. 908][/us/stat/84/908], which provided that no funds authorized to be appropriated to the Department of Defense by this or any other Act may be used to finance any research project or study unless such project or study has, in the opinion of the Secretary of Defense, a potential relationship to a military function or operation, was repealed and restated in subsec. (b) of this section by [Pub. L. 100–370, § 1(g)(3)(C)][/us/pl/100/370/s1/g/3/C], (5), July 19, 1988, [102 Stat. 847][/us/stat/102/847].
+    [Pub. L. 91–441, title II][/us/pl/91/441/tII], § 204, Oct. 7, 1970, [84 Stat. 908][/us/stat/84/908], which provided that no funds authorized to be appropriated to the Department of Defense by this or any other Act may be used to finance any research project or study unless such project or study has, in the opinion of the Secretary of Defense, a potential relationship to a military function or operation, was repealed and restated in subsec. (b) of this section by [Pub. L. 100–370][/us/pl/100/370], § 1(g)(3)(C), (5), July 19, 1988, [102 Stat. 847][/us/stat/102/847].
 
  __Herbicides and Defoliation Program; Comprehensive Study and Investigation; Report by__  __January 31, 1972__  __; Transmittal to President and Congress by__  __March 1, 1972__ 
 
-    [Pub. L. 91–441, title V, § 506(c)][/us/pl/91/441/s506/c], Oct. 7, 1970, [84 Stat. 913][/us/stat/84/913], directed Secretary of Defense to enter into appropriate arrangements with National Academy of Sciences to conduct a comprehensive study and investigation to determine (A) ecological and physiological dangers inherent in use of herbicides, and (B) ecological and physiological effects of defoliation program carried out by Department of Defense in South Vietnam, with a report on the study to be transmitted to President and Congress by Mar. 1, 1972.
+    [Pub. L. 91–441, title V][/us/pl/91/441/tV], § 506(c), Oct. 7, 1970, [84 Stat. 913][/us/stat/84/913], directed Secretary of Defense to enter into appropriate arrangements with National Academy of Sciences to conduct a comprehensive study and investigation to determine (A) ecological and physiological dangers inherent in use of herbicides, and (B) ecological and physiological effects of defoliation program carried out by Department of Defense in South Vietnam, with a report on the study to be transmitted to President and Congress by Mar. 1, 1972.
 
  __Campuses Barring Military Recruiters; Cessation of Payments; Notification of Secretary of Defense__ 
 
-[Pub. L. 92–436, title VI, § 606][/us/pl/92/436/s606], Sept. 29, 1972, [86 Stat. 740][/us/stat/86/740], provided that:
+[Pub. L. 92–436, title VI][/us/pl/92/436/tVI], § 606, Sept. 29, 1972, [86 Stat. 740][/us/stat/86/740], provided that:
 
 >     “(a) No part of the funds appropriated pursuant to this or any other Act for the Department of Defense or any of the Armed Forces may be used at any institution of higher learning if the Secretary of Defense or his designee determines that recruiting personnel of any of the Armed Forces of the United States are being barred by the policy of such institution from the premises of the institution: except in a case where the Secretary of the service concerned certifies to the Congress in writing that a specific course of instruction is not available at any other institution of higher learning and furnishes to the Congress the reasons why such course of instruction is of vital importance to the security of the United States.
 
@@ -1635,13 +1635,13 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 Similar provisions were contained in the following prior authorization acts:
 
-    [Pub. L. 92–156, title V, § 502][/us/pl/92/156/s502], Nov. 17, 1971, [85 Stat. 427][/us/stat/85/427].
+    [Pub. L. 92–156, title V][/us/pl/92/156/tV], § 502, Nov. 17, 1971, [85 Stat. 427][/us/stat/85/427].
 
-    [Pub. L. 91–441, title V, § 510][/us/pl/91/441/s510], Oct. 7, 1970, [84 Stat. 914][/us/stat/84/914].
+    [Pub. L. 91–441, title V][/us/pl/91/441/tV], § 510, Oct. 7, 1970, [84 Stat. 914][/us/stat/84/914].
 
  __Federal Contract Research Centers; Officers’ Compensation; Notification to Congress__ 
 
-    [Pub. L. 91–121, title IV, § 407][/us/pl/91/121/s407], Nov. 19, 1969, [83 Stat. 208][/us/stat/83/208], related to restrictions on use of appropriations for compensation of officers and employees of Federal contract research centers, and notice requirements respecting such payments, prior to repeal by [Pub. L. 96–107, title VIII, § 819(c)][/us/pl/96/107/s819/c], Nov. 9, 1979, [93 Stat. 819][/us/stat/93/819]. See [section 2359 of this title][/us/usc/t10/s2359].
+    [Pub. L. 91–121, title IV][/us/pl/91/121/tIV], § 407, Nov. 19, 1969, [83 Stat. 208][/us/stat/83/208], related to restrictions on use of appropriations for compensation of officers and employees of Federal contract research centers, and notice requirements respecting such payments, prior to repeal by [Pub. L. 96–107, title VIII][/us/pl/96/107/tVIII], § 819(c), Nov. 9, 1979, [93 Stat. 819][/us/stat/93/819]. See [section 2359 of this title][/us/usc/t10/s2359].
 
 ----------
 
@@ -1650,23 +1650,23 @@ Similar provisions were contained in the following prior authorization acts:
 ----------
 ----------
 
-[/us/pl/87/651/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs208%2Fa
+[/us/pl/87/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtII
 [/us/stat/76/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F523
-[/us/pl/97/86/s910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs910
+[/us/pl/97/86/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIX
 [/us/stat/95/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1120
-[/us/pl/100/370/s1/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs1%2Fg%2F3
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F846
-[/us/pl/103/160/s827/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs827%2Fa
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1712
-[/us/pl/103/355/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1301%2Fa
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3284
-[/us/pl/104/201/s267/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs267%2Fc%2F2
+[/us/pl/104/201/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtII
 [/us/stat/110/2468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2468
 [/us/usc/t5/s171c/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs171c%2Fb%2F3
 [/us/usc/t5/s171c/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs171c%2Fb%2F2
 [/us/usc/t10/s2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2358
 [/us/usc/t10/s113/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113%2Fd
-[/us/pl/91/441/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441%2Fs204
+[/us/pl/91/441/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441%2FtII
 [/us/stat/84/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F908
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
@@ -1676,11 +1676,11 @@ Similar provisions were contained in the following prior authorization acts:
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/103/355/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10001
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/114/92/s240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs240
+[/us/pl/114/92/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtII
 [/us/stat/129/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F784
-[/us/pl/114/92/s1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1056
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F984
-[/us/pl/114/92/s1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1109
+[/us/pl/114/92/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXI
 [/us/stat/129/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1028
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1896
@@ -1691,21 +1691,21 @@ Similar provisions were contained in the following prior authorization acts:
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/stat/123/2486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2486
 [/us/usc/t10/s2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2358
-[/us/pl/114/92/s2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs2803
+[/us/pl/114/92/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdB%2FtXXVIII
 [/us/stat/129/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1169
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/usc/t10/s2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2358
 [/us/usc/t10/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501
 [/us/usc/t10/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805
-[/us/pl/113/291/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs232
+[/us/pl/113/291/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtII
 [/us/stat/128/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3332
 [/us/usc/t26/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1043
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/113/66/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1107
+[/us/pl/113/66/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXI
 [/us/stat/127/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F887
-[/us/pl/113/291/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1105
+[/us/pl/113/291/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXI
 [/us/stat/128/3526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3526
-[/us/pl/114/92/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1104
+[/us/pl/114/92/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXI
 [/us/stat/129/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1023
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
@@ -1720,64 +1720,64 @@ Similar provisions were contained in the following prior authorization acts:
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/stat/108/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2721
 [/us/usc/t5/s3132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa
-[/us/pl/112/239/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs252
+[/us/pl/112/239/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtII
 [/us/stat/126/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1688
 [/us/usc/t42/s4701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4701
-[/us/pl/112/81/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs222
+[/us/pl/112/81/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtII
 [/us/stat/125/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1336
 [/us/usc/t10/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304
-[/us/pl/111/383/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs214
+[/us/pl/111/383/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtII
 [/us/stat/124/4164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4164
-[/us/pl/111/383/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs243
+[/us/pl/111/383/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtII
 [/us/stat/124/4178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4178
-[/us/pl/112/81/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs252
+[/us/pl/112/81/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtII
 [/us/stat/125/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1347
-[/us/pl/113/66/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs264
+[/us/pl/113/66/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtII
 [/us/stat/127/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F726
-[/us/pl/113/291/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs231
+[/us/pl/113/291/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtII
 [/us/stat/128/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3332
 [/us/usc/t10/s2302/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F5
-[/us/pl/111/383/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1078
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4380
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4389
-[/us/pl/111/84/s2801/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2801%2Fc
+[/us/pl/111/84/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdB%2FtXXVIII
 [/us/stat/123/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2660
-[/us/pl/112/81/s253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs253
+[/us/pl/112/81/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtII
 [/us/stat/125/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1347
-[/us/pl/113/66/s262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs262%2Fa
+[/us/pl/113/66/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtII
 [/us/stat/127/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F725
 [/us/usc/t10/s2805/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805%2Fd
-[/us/pl/113/66/s262/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs262%2Fc
+[/us/pl/113/66/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtII
 [/us/stat/127/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F726
 [/us/pl/110/417/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs219
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4650
-[/us/pl/112/81/s1062/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1062%2Fb
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1585
-[/us/pl/112/239/s1076/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fc%2F2%2FD
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1950
-[/us/pl/109/364/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs218
+[/us/pl/109/364/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtII
 [/us/stat/120/2126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2126
-[/us/pl/112/81/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs241
+[/us/pl/112/81/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtII
 [/us/stat/125/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1343
-[/us/pl/114/92/s1079/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1079%2Ff
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F999
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/108/375/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs212
+[/us/pl/108/375/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtII
 [/us/stat/118/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1832
-[/us/pl/112/239/s1076/c/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fc%2F2%2FA%2Fiii
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1950
-[/us/pl/108/136/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs234
+[/us/pl/108/136/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtII
 [/us/stat/117/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1423
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/108/136/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1601
+[/us/pl/108/136/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXVI
 [/us/stat/117/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1680
-[/us/pl/112/81/s1062/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1062%2Fg%2F3
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1585
-[/us/pl/113/291/s1071/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F5%2FB
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3507
-[/us/pl/114/92/s815/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs815%2Fd
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F896
 [/us/usc/t41/s1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1903
 [/us/usc/t41/s8703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8703%2Fa
@@ -1789,33 +1789,33 @@ Similar provisions were contained in the following prior authorization acts:
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t5/s3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3104
 [/us/usc/t5/s9901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9901
-[/us/pl/107/107/s1044/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1044%2Fa
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1219
-[/us/pl/107/314/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs245
+[/us/pl/107/314/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtII
 [/us/stat/116/2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2500
 [/us/stat/116/2479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2479
-[/us/pl/107/314/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs246
+[/us/pl/107/314/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtII
 [/us/stat/116/2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2500
-[/us/pl/110/181/s240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs240
+[/us/pl/110/181/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtII
 [/us/stat/122/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F48
-[/us/pl/111/84/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs242
+[/us/pl/111/84/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtII
 [/us/stat/123/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2237
-[/us/pl/112/239/s1076/c/2/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fc%2F2%2FA%2Fiv
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1950
 [/us/usc/t15/s7502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7502
 [/us/usc/t15/s7501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7501%2Fd
-[/us/pl/107/314/s1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1032
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2643
-[/us/pl/108/136/s3135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3135
+[/us/pl/108/136/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdC%2FtXXXI
 [/us/stat/117/1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1752
-[/us/pl/110/181/s1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1041
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F310
-[/us/pl/111/383/s1075/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fj
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4378
 [/us/usc/t10/s181/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs181%2Fb
 [/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
-[/us/pl/107/314/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs241
+[/us/pl/107/314/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtII
 [/us/stat/116/2492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2492
 [/us/pl/105/261/s246/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs246%2Fa%2F4
 [/us/pl/106/65/s245/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs245%2Fa%2F4
@@ -1825,49 +1825,49 @@ Similar provisions were contained in the following prior authorization acts:
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/stat/113/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F552
 [/us/usc/t10/s2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2358
-[/us/pl/106/65/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs245
+[/us/pl/106/65/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtII
 [/us/stat/113/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F552
-[/us/pl/107/314/s241/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs241%2Fd%2F2
+[/us/pl/107/314/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtII
 [/us/stat/116/2493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2493
-[/us/pl/105/261/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs246
+[/us/pl/105/261/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtII
 [/us/stat/112/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1955
-[/us/pl/107/314/s241/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs241%2Fd%2F1
+[/us/pl/107/314/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtII
 [/us/stat/116/2493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2493
-[/us/pl/105/18/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs307
+[/us/pl/105/18/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtI
 [/us/stat/111/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F169
-[/us/pl/103/337/s257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs257
+[/us/pl/103/337/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtII
 [/us/stat/108/2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2705
-[/us/pl/104/106/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs273
+[/us/pl/104/106/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtII
 [/us/stat/110/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F239
-[/us/pl/104/201/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs264
+[/us/pl/104/201/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtII
 [/us/stat/110/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2465
-[/us/pl/105/85/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs243
+[/us/pl/105/85/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtII
 [/us/stat/111/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1667
-[/us/pl/106/65/s911/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs911%2Fa%2F1
+[/us/pl/106/65/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIX
 [/us/stat/113/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F717
-[/us/pl/107/314/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs247
+[/us/pl/107/314/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtII
 [/us/stat/116/2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2502
-[/us/pl/110/181/s239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs239
+[/us/pl/110/181/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtII
 [/us/stat/122/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F48
-[/us/pl/112/239/s1076/c/2/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fc%2F2%2FA%2Fv
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1950
-[/us/pl/111/84/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1105
+[/us/pl/111/84/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXI
 [/us/stat/123/2486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2486
-[/us/pl/113/291/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1103
+[/us/pl/113/291/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXI
 [/us/stat/128/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3525
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/stat/108/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2721
 [/us/usc/t5/s4703/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4703%2Ff
 [/us/usc/t5/s5342/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5342%2Fa%2F2
-[/us/pl/110/181/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1107
+[/us/pl/110/181/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXI
 [/us/stat/122/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F357
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4618
-[/us/pl/111/84/s1073/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fd
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2475
-[/us/pl/111/383/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1101%2Fb
+[/us/pl/111/383/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXI
 [/us/stat/124/4382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4382
-[/us/pl/112/81/s1066/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1066%2Fb%2F2
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1588
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/stat/108/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2721
@@ -1879,50 +1879,50 @@ Similar provisions were contained in the following prior authorization acts:
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/stat/123/2486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2486
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
-[/us/pl/103/337/s342/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs342%2Fb
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2721
-[/us/pl/106/65/s1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1109
+[/us/pl/106/65/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtXI
 [/us/stat/113/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F779
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/98/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F224
 [/us/stat/98/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F49
 [/us/usc/t5/s4703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4703
 [/us/usc/t5/s5373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5373
-[/us/pl/103/160/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs252
+[/us/pl/103/160/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtII
 [/us/stat/107/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1607
-[/us/pl/103/160/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs802
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1701
-[/us/pl/104/106/s275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs275
+[/us/pl/104/106/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtII
 [/us/stat/110/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F241
-[/us/pl/104/201/s263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs263
+[/us/pl/104/201/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtII
 [/us/stat/110/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2465
-[/us/pl/112/239/s1076/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fc%2F2%2FE
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1950
 [/us/usc/t10/s2361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2361%2Fa
 [/us/stat/107/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1583
-[/us/pl/91/441/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441%2Fs203
+[/us/pl/91/441/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441%2FtII
 [/us/stat/84/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F906
-[/us/pl/96/342/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs208
+[/us/pl/96/342/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtII
 [/us/stat/94/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1081
-[/us/pl/101/510/s824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs824%2Fb
+[/us/pl/101/510/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVIII
 [/us/stat/104/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1604
 [/us/usc/t10/s2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2372
-[/us/pl/91/441/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441%2Fs204
+[/us/pl/91/441/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441%2FtII
 [/us/stat/84/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F908
-[/us/pl/100/370/s1/g/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs1%2Fg%2F3%2FC
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F847
-[/us/pl/91/441/s506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441%2Fs506%2Fc
+[/us/pl/91/441/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441%2FtV
 [/us/stat/84/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F913
-[/us/pl/92/436/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F436%2Fs606
+[/us/pl/92/436/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F436%2FtVI
 [/us/stat/86/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F740
-[/us/pl/92/156/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F156%2Fs502
+[/us/pl/92/156/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F156%2FtV
 [/us/stat/85/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F427
-[/us/pl/91/441/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441%2Fs510
+[/us/pl/91/441/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F441%2FtV
 [/us/stat/84/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F914
-[/us/pl/91/121/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2Fs407
+[/us/pl/91/121/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F121%2FtIV
 [/us/stat/83/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F208
-[/us/pl/96/107/s819/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs819%2Fc
+[/us/pl/96/107/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2FtVIII
 [/us/stat/93/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F819
 [/us/usc/t10/s2359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2359
 

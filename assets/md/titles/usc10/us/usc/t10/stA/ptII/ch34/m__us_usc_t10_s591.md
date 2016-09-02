@@ -17,13 +17,13 @@
 
     Provisions of law relating to appointments of reserve officers other than warrant officers are set forth in chapter 1205 of this title (beginning with section 12201). Provisions of law relating to appointments and promotion of reserve warrant officers are set forth in chapter 1207 (beginning with section 12241).
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1662(d)(3)][/us/pl/103/337/s1662/d/3], Oct. 5, 1994, [108 Stat. 2991][/us/stat/108/2991].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(d)(3), Oct. 5, 1994, [108 Stat. 2991][/us/stat/108/2991].)
 
  __Prior Provisions__ 
 
     Prior sections 591 to 594, 595, and 596 were renumbered sections 12201 to 12204, 12208, and 12205 of this title, respectively.
 
-    Another prior section 596, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 25][/us/stat/70A/25], related to promotion of officers in the Reserve components, prior to repeal by [Pub. L. 85–861, § 36B(2)][/us/pl/85/861/s36B/2], Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570].
+    Another prior section 596, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 25][/us/stat/70A/25], related to promotion of officers in the Reserve components, prior to repeal by [Pub. L. 85–861][/us/pl/85/861], § 36B(2), Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570].
 
     Prior sections 596a, 596b, 597 to 599, 600, and 600a were renumbered sections 12206, 12207, 12241 to 12243, 12209, and 12210 of this title, respectively.
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1662/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fd%2F3
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2991
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F25
-[/us/pl/85/861/s36B/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs36B%2F2
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1570
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001

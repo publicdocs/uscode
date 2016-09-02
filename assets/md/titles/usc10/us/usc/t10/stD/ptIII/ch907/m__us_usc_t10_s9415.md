@@ -23,7 +23,7 @@
 
     The fixed costs of operating and maintaining the Inter-American Air Forces Academy may be paid from funds available for operation and maintenance of the Air Force.
 
-(Added [Pub. L. 101–510, div. A, title III, § 330(a)][/us/pl/101/510/s330/a], Nov. 5, 1990, [104 Stat. 1535][/us/stat/104/1535].)
+(Added [Pub. L. 101–510, div. A, title III][/us/pl/101/510/dA/tIII], § 330(a), Nov. 5, 1990, [104 Stat. 1535][/us/stat/104/1535].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t22/s2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2347
-[/us/pl/101/510/s330/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs330%2Fa
+[/us/pl/101/510/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIII
 [/us/stat/104/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1535
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

@@ -39,7 +39,7 @@
 
         (2) if the request would be for authority to reprogram amounts to an item for which the Congress has denied funds.
 
-(Added [Pub. L. 101–510, div. A, title XIV, § 1482(c)(1)][/us/pl/101/510/s1482/c/1], Nov. 5, 1990, [104 Stat. 1709][/us/stat/104/1709].)
+(Added [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1482(c)(1), Nov. 5, 1990, [104 Stat. 1709][/us/stat/104/1709].)
 
  __Effective Date__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/101/510/s1482/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1482%2Fc%2F1
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1709
 [/us/pl/101/510/s1482/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1482%2Fd
 [/us/usc/t10/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs119

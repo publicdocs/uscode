@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptII/ch37/m__us_usc_t10_s653.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch37/m__us_usc_t10_s655.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs654)
 
-## \[§ 654. Repealed. [Pub. L. 111–321, § 2(f)(1)(A)][/us/pl/111/321/s2/f/1/A], Dec. 22, 2010, [124 Stat. 3516][/us/stat/124/3516]\]
+## \[§ 654. Repealed. [Pub. L. 111–321][/us/pl/111/321], § 2(f)(1)(A), Dec. 22, 2010, [124 Stat. 3516][/us/stat/124/3516]\]
 
-    Section, added [Pub. L. 103–160, div. A, title V, § 571(a)(1)][/us/pl/103/160/s571/a/1], Nov. 30, 1993, [107 Stat. 1670][/us/stat/107/1670], related to policy concerning homosexuality in the armed forces.
+    Section, added [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 571(a)(1), Nov. 30, 1993, [107 Stat. 1670][/us/stat/107/1670], related to policy concerning homosexuality in the armed forces.
 
  __Effective Date of Repeal__ 
 
@@ -101,7 +101,7 @@
 
  __Implementation of Section; Regulations; Savings Provision; Sense of Congress__ 
 
-    [Pub. L. 103–160, div. A, title V, § 571(b)][/us/pl/103/160/s571/b]–(d), Nov. 30, 1993, [107 Stat. 1671][/us/stat/107/1671], 1672, which required the Secretary of Defense to issue regulations to implement this section, provided a savings provision for actions and proceedings commenced prior to the effective date of such regulations, and provided the sense of Congress regarding the policy set forth in this section, was repealed by [Pub. L. 111–321, § 2(f)(2)][/us/pl/111/321/s2/f/2], Dec. 22, 2010, [124 Stat. 3516][/us/stat/124/3516], effective on the date established by [section 2(b) of Pub. L. 111–321][/us/pl/111/321/s2/b], set out above.
+    [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 571(b)–(d), Nov. 30, 1993, [107 Stat. 1671][/us/stat/107/1671], 1672, which required the Secretary of Defense to issue regulations to implement this section, provided a savings provision for actions and proceedings commenced prior to the effective date of such regulations, and provided the sense of Congress regarding the policy set forth in this section, was repealed by [Pub. L. 111–321][/us/pl/111/321], § 2(f)(2), Dec. 22, 2010, [124 Stat. 3516][/us/stat/124/3516], effective on the date established by [section 2(b) of Pub. L. 111–321][/us/pl/111/321/s2/b], set out above.
 
 ----------
 
@@ -110,9 +110,9 @@
 ----------
 ----------
 
-[/us/pl/111/321/s2/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F321%2Fs2%2Ff%2F1%2FA
+[/us/pl/111/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F321
 [/us/stat/124/3516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3516
-[/us/pl/103/160/s571/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs571%2Fa%2F1
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1670
 [/us/pl/111/321/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F321%2Fs2%2Fb
 [/us/pl/111/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F321
@@ -129,9 +129,9 @@
 [/us/usc/t10/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs654
 [/us/pl/111/321/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F321%2Fs2%2Fb%2F1
 [/us/pl/111/321/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F321%2Fs2%2Fb%2F2
-[/us/pl/103/160/s571/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs571%2Fb
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1671
-[/us/pl/111/321/s2/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F321%2Fs2%2Ff%2F2
+[/us/pl/111/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F321
 [/us/stat/124/3516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3516
 [/us/pl/111/321/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F321%2Fs2%2Fb
 

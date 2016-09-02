@@ -31,7 +31,7 @@
 
     In this section, the term “construction or fire equipment” includes tractors, scrapers, loaders, graders, bulldozers, dump trucks, generators, pumpers, fuel and water tankers, crash trucks, utility vans, rescue trucks, ambulances, hook and ladder units, compressors, and miscellaneous fire fighting equipment.
 
-(Added [Pub. L. 102–484, div. D, title XLIII, § 4304(a)][/us/pl/102/484/s4304/a], Oct. 23, 1992, [106 Stat. 2699][/us/stat/106/2699], § 2552; renumbered § 2562 and amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1033(b)(1), (c)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–260; [Pub. L. 107–217, § 3(b)(8)][/us/pl/107/217/s3/b/8], Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 107–314, div. A, title X, § 1062(e)(1)][/us/pl/107/314/s1062/e/1], Dec. 2, 2002, [116 Stat. 2651][/us/stat/116/2651]; [Pub. L. 111–350, § 5(b)(41)][/us/pl/111/350/s5/b/41], Jan. 4, 2011, [124 Stat. 3846][/us/stat/124/3846].)
+(Added [Pub. L. 102–484, div. D, title XLIII][/us/pl/102/484/dD/tXLIII], § 4304(a), Oct. 23, 1992, [106 Stat. 2699][/us/stat/106/2699], § 2552; renumbered § 2562 and amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1033(b)(1), (c)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–260; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(8), Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1062(e)(1), Dec. 2, 2002, [116 Stat. 2651][/us/stat/116/2651]; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(41), Jan. 4, 2011, [124 Stat. 3846][/us/stat/124/3846].)
 
  __References in Text__ 
 
@@ -41,17 +41,17 @@
 
     2011—Subsec. (a)(1). [Pub. L. 111–350][/us/pl/111/350] substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251][/us/usc/t41/s251] et seq.)”.
 
-    2002—Subsec. (a)(1). [Pub. L. 107–217, § 3(b)(8)(A)][/us/pl/107/217/s3/b/8/A], as amended by [Pub. L. 107–314][/us/pl/107/314], inserted “subtitle I of title 40 and title III of” before “the Federal” the second place it appeared.
+    2002—Subsec. (a)(1). [Pub. L. 107–217][/us/pl/107/217], § 3(b)(8)(A), as amended by [Pub. L. 107–314][/us/pl/107/314], inserted “subtitle I of title 40 and title III of” before “the Federal” the second place it appeared.
 
-    [Pub. L. 107–217, § 3(b)(8)(B)][/us/pl/107/217/s3/b/8/B], substituted “([41 U.S.C. 251][/us/usc/t41/s251] et seq.)” for “([40 U.S.C. 472][/us/usc/t40/s472] et seq.)”.
+    [Pub. L. 107–217][/us/pl/107/217], § 3(b)(8)(B), substituted “([41 U.S.C. 251][/us/usc/t41/s251] et seq.)” for “([40 U.S.C. 472][/us/usc/t40/s472] et seq.)”.
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1033(b)(1)\], renumbered [section 2552 of this title][/us/usc/t10/s2552] as this section.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1033(b)(1)\], renumbered [section 2552 of this title][/us/usc/t10/s2552] as this section.
 
-    Subsec. (b). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1033(c)(2)\], substituted “section 2557” for “section 2547”.
+    Subsec. (b). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1033(c)(2)\], substituted “section 2557” for “section 2547”.
 
  __Effective Date of 2002 Amendment__ 
 
-    [Pub. L. 107–314, div. A, title X, § 1062(e)][/us/pl/107/314/s1062/e], Dec. 2, 2002, [116 Stat. 2651][/us/stat/116/2651], provided that the amendment made by section 1062(e)(1) is effective as if included in [Pub. L. 107–217][/us/pl/107/217] as originally enacted.
+    [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1062(e), Dec. 2, 2002, [116 Stat. 2651][/us/stat/116/2651], provided that the amendment made by section 1062(e)(1) is effective as if included in [Pub. L. 107–217][/us/pl/107/217] as originally enacted.
 
 ----------
 
@@ -63,30 +63,30 @@
 [/us/usc/t22/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2301
 [/us/usc/t22/s2761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2761
 [/us/usc/t10/s2557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2557
-[/us/pl/102/484/s4304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4304%2Fa
+[/us/pl/102/484/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIII
 [/us/stat/106/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2699
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/217/s3/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F8
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1295
-[/us/pl/107/314/s1062/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1062%2Fe%2F1
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2651
-[/us/pl/111/350/s5/b/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F41
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3846
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
-[/us/pl/107/217/s3/b/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F8%2FA
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
-[/us/pl/107/217/s3/b/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F8%2FB
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
 [/us/usc/t40/s472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs472
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t10/s2552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2552
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/107/314/s1062/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1062%2Fe
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2651
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 

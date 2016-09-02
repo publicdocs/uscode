@@ -27,13 +27,13 @@
 
     In the administration of subsection (a) in the case of an officer who is serving in the grade of general or admiral, the number of years of active commissioned service applicable to the officer is 40 years.
 
-(Added [Pub. L. 96–513, title I, § 105][/us/pl/96/513/s105], Dec. 12, 1980, [94 Stat. 2863][/us/stat/94/2863]; amended [Pub. L. 98–525, title XIV, § 1405(14)][/us/pl/98/525/s1405/14], Oct. 19, 1984, [98 Stat. 2622][/us/stat/98/2622]; [Pub. L. 105–85, div. A, title V, § 506(a)][/us/pl/105/85/s506/a], (b), Nov. 18, 1997, [111 Stat. 1726][/us/stat/111/1726].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 105, Dec. 12, 1980, [94 Stat. 2863][/us/stat/94/2863]; amended [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(14), Oct. 19, 1984, [98 Stat. 2622][/us/stat/98/2622]; [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 506(a), (b), Nov. 18, 1997, [111 Stat. 1726][/us/stat/111/1726].)
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–85, § 506(b)][/us/pl/105/85/s506/b], substituted “regular officers in grades above brigadier general and rear admiral (lower half)” for “regular major generals and rear admirals” in section catchline.
+    1997—[Pub. L. 105–85][/us/pl/105/85], § 506(b), substituted “regular officers in grades above brigadier general and rear admiral (lower half)” for “regular major generals and rear admirals” in section catchline.
 
-    [Pub. L. 105–85, § 506(a)][/us/pl/105/85/s506/a], designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b) or (c) and” for “Except as provided”, and added subsecs. (b) and (c).
+    [Pub. L. 105–85][/us/pl/105/85], § 506(a), designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b) or (c) and” for “Except as provided”, and added subsecs. (b) and (c).
 
     1984—[Pub. L. 98–525][/us/pl/98/525] substituted “35” for “thirty-five”.
 
@@ -45,14 +45,14 @@
 ----------
 
 [/us/usc/t10/s637/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs637%2Fb
-[/us/pl/96/513/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs105
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2863
-[/us/pl/98/525/s1405/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F14
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2622
-[/us/pl/105/85/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs506%2Fa
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1726
-[/us/pl/105/85/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs506%2Fb
-[/us/pl/105/85/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs506%2Fa
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 
 

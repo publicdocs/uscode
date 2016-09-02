@@ -39,13 +39,13 @@
 
         (2) It is further the sense of Congress that standardization of weapons and equipment within the Organization on the basis of a “two-way street” concept of cooperation in defense procurement between Europe and North America can only work in a realistic sense if the European nations operate on a united and collective basis. Therefore, the governments of Europe are encouraged to accelerate their present efforts to achieve European armaments collaboration among all European members of the Organization.
 
-    \[(d) Repealed. [Pub. L. 108–136, div. A, title X, § 1031(a)(22)][/us/pl/108/136/s1031/a/22], Nov. 24, 2003, [117 Stat. 1598][/us/stat/117/1598].\]
+    \[(d) Repealed. [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(22), Nov. 24, 2003, [117 Stat. 1598][/us/stat/117/1598].\]
 
     (e) If the Secretary decides that procurement of equipment manufactured outside the United States is necessary to carry out the policy of subsection (a), the Secretary may determine under [section 8302 of title 41][/us/usc/t41/s8302] that acquiring that equipment manufactured in the United States is inconsistent with the public interest.
 
     (f) The Secretary shall submit the results of each assessment and evaluation made under subsection (a)(1) and (2) to the appropriate North Atlantic Treaty Organization body to become an integral part of the overall Organization review of force goals and development of force plans.
 
-(Added [Pub. L. 97–295, § 1(30)(A)][/us/pl/97/295/s1/30/A], Oct. 12, 1982, [96 Stat. 1294][/us/stat/96/1294]; amended [Pub. L. 101–510, div. A, title XIII, § 1311(5)][/us/pl/101/510/s1311/5], Nov. 5, 1990, [104 Stat. 1670][/us/stat/104/1670]; [Pub. L. 104–106, div. A, title XV, § 1503(a)(24)][/us/pl/104/106/s1503/a/24], Feb. 10, 1996, [110 Stat. 512][/us/stat/110/512]; [Pub. L. 108–136, div. A, title X, § 1031(a)(22)][/us/pl/108/136/s1031/a/22], Nov. 24, 2003, [117 Stat. 1598][/us/stat/117/1598]; [Pub. L. 111–350, § 5(b)(33)][/us/pl/111/350/s5/b/33], Jan. 4, 2011, [124 Stat. 3845][/us/stat/124/3845].)
+(Added [Pub. L. 97–295][/us/pl/97/295], § 1(30)(A), Oct. 12, 1982, [96 Stat. 1294][/us/stat/96/1294]; amended [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1311(5), Nov. 5, 1990, [104 Stat. 1670][/us/stat/104/1670]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1503(a)(24), Feb. 10, 1996, [110 Stat. 512][/us/stat/110/512]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(22), Nov. 24, 2003, [117 Stat. 1598][/us/stat/117/1598]; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(33), Jan. 4, 2011, [124 Stat. 3845][/us/stat/124/3845].)
 
 <table>
 
@@ -312,18 +312,18 @@ Aug. 5, 1974, Pub. L. 93–365, § 302(c) (4th sentence), 88 Stat. 402.  </td>
 ----------
 ----------
 
-[/us/pl/108/136/s1031/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F22
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1598
 [/us/usc/t41/s8302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8302
-[/us/pl/97/295/s1/30/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F30%2FA
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1294
-[/us/pl/101/510/s1311/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1311%2F5
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1670
-[/us/pl/104/106/s1503/a/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1503%2Fa%2F24
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F512
-[/us/pl/108/136/s1031/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F22
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1598
-[/us/pl/111/350/s5/b/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F33
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3845
 [/us/pl/93/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F365
 [/us/stat/88/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F402

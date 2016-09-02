@@ -37,7 +37,7 @@
 
         (2) to contracts pertaining to the use of any equipment, technology, data, or services for intelligence or classified purposes by the United States Government in the interests of national security or to the acquisition or lease of any such equipment, technology, data, or services by the United States Government in the interests of national security.
 
-(Added [Pub. L. 102–484, div. A, title XIII, § 1332(a)][/us/pl/102/484/s1332/a], Oct. 23, 1992, [106 Stat. 2555][/us/stat/106/2555]; amended [Pub. L. 111–350][/us/pl/111/350], §§ 4, 5(b)(31), Jan. 4, 2011, [124 Stat. 3841][/us/stat/124/3841], 3845.)
+(Added [Pub. L. 102–484, div. A, title XIII][/us/pl/102/484/dA/tXIII], § 1332(a), Oct. 23, 1992, [106 Stat. 2555][/us/stat/106/2555]; amended [Pub. L. 111–350][/us/pl/111/350], §§ 4, 5(b)(31), Jan. 4, 2011, [124 Stat. 3841][/us/stat/124/3841], 3845.)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
-[/us/pl/102/484/s1332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1332%2Fa
+[/us/pl/102/484/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXIII
 [/us/stat/106/2555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2555
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3841

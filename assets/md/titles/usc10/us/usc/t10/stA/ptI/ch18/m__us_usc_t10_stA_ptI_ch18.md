@@ -131,27 +131,27 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–92, div. A, title X, § 1082(b)][/us/pl/114/92/s1082/b], Nov. 25, 2015, [129 Stat. 1003][/us/stat/129/1003], added item 383.
+    2015—[Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1082(b), Nov. 25, 2015, [129 Stat. 1003][/us/stat/129/1003], added item 383.
 
-    2011—[Pub. L. 111–383, div. A, title X, § 1075(b)(10)(C)][/us/pl/111/383/s1075/b/10/C], Jan. 7, 2011, [124 Stat. 4369][/us/stat/124/4369], added item 382 and struck out former item 382 “Emergency situations involving chemical or biological weapons of mass destruction”.
+    2011—[Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(10)(C), Jan. 7, 2011, [124 Stat. 4369][/us/stat/124/4369], added item 382 and struck out former item 382 “Emergency situations involving chemical or biological weapons of mass destruction”.
 
     2008—[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 885(b)(2), Oct. 14, 2008, [122 Stat. 4561][/us/stat/122/4561], added item 381 and struck out former item 381 “Procurement by State and local governments of law enforcement equipment suitable for counter-drug activities through the Department of Defense”.
 
-    1996—[Pub. L. 104–201, div. A, title XIV, § 1416(a)(2)][/us/pl/104/201/s1416/a/2], Sept. 23, 1996, [110 Stat. 2723][/us/stat/110/2723], added item 382.
+    1996—[Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1416(a)(2), Sept. 23, 1996, [110 Stat. 2723][/us/stat/110/2723], added item 382.
 
-    1993—[Pub. L. 103–160, div. A, title XI, § 1122(a)(2)][/us/pl/103/160/s1122/a/2], Nov. 30, 1993, [107 Stat. 1755][/us/stat/107/1755], added item 381.
+    1993—[Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1122(a)(2), Nov. 30, 1993, [107 Stat. 1755][/us/stat/107/1755], added item 381.
 
-    1989—[Pub. L. 101–189, div. A, title XII, § 1216(a)][/us/pl/101/189/s1216/a], Nov. 29, 1989, [103 Stat. 1569][/us/stat/103/1569], in chapter heading substituted “18” for “8”.
+    1989—[Pub. L. 101–189, div. A, title XII][/us/pl/101/189/dA/tXII], § 1216(a), Nov. 29, 1989, [103 Stat. 1569][/us/stat/103/1569], in chapter heading substituted “18” for “8”.
 
-    1988—[Pub. L. 100–456, div. A, title XI, § 1104(a)][/us/pl/100/456/s1104/a], Sept. 29, 1988, [102 Stat. 2043][/us/stat/102/2043], amended chapter analysis generally substituting, in chapter heading “CHAPTER 8—MILITARY SUPPORT FOR CIVILIAN LAW ENFORCEMENT AGENCIES” for “CHAPTER 18—MILITARY COOPERATION WITH CIVILIAN LAW ENFORCEMENT OFFICIALS”, in item 374 “Maintenance and operation of equipment” for “Assistance by Department of Defense personnel”, in item 376 “Support not to affect adversely military preparedness” for “Assistance not to affect adversely military preparedness” and in item 380 “Enhancement of cooperation with civilian law enforcement officials” for “Department of Defense drug law enforcement assistance: annual plan”.
+    1988—[Pub. L. 100–456, div. A, title XI][/us/pl/100/456/dA/tXI], § 1104(a), Sept. 29, 1988, [102 Stat. 2043][/us/stat/102/2043], amended chapter analysis generally substituting, in chapter heading “CHAPTER 8—MILITARY SUPPORT FOR CIVILIAN LAW ENFORCEMENT AGENCIES” for “CHAPTER 18—MILITARY COOPERATION WITH CIVILIAN LAW ENFORCEMENT OFFICIALS”, in item 374 “Maintenance and operation of equipment” for “Assistance by Department of Defense personnel”, in item 376 “Support not to affect adversely military preparedness” for “Assistance not to affect adversely military preparedness” and in item 380 “Enhancement of cooperation with civilian law enforcement officials” for “Department of Defense drug law enforcement assistance: annual plan”.
 
-    1987—[Pub. L. 100–180, div. A, title XII, § 1243(b)][/us/pl/100/180/s1243/b], Dec. 4, 1987, [101 Stat. 1164][/us/stat/101/1164], added item 380.
+    1987—[Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1243(b), Dec. 4, 1987, [101 Stat. 1164][/us/stat/101/1164], added item 380.
 
-    1986—[Pub. L. 99–570, title III, § 3053(b)(2)][/us/pl/99/570/s3053/b/2], Oct. 27, 1986, [100 Stat. 3207–76][/us/stat/100/3207-76], added item 379.
+    1986—[Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3053(b)(2), Oct. 27, 1986, [100 Stat. 3207–76][/us/stat/100/3207-76], added item 379.
 
  __Department of Defense Authority To Provide Assistance To Secure the Southern Land Border of the United States__ 
 
-[Pub. L. 114–92, div. A, title X, § 1059][/us/pl/114/92/s1059], Nov. 25, 2015, [129 Stat. 986][/us/stat/129/986], provided that:
+[Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1059, Nov. 25, 2015, [129 Stat. 986][/us/stat/129/986], provided that:
 
 >     “(a)  __Authority to Provide Assistance__  __.—__ 
 
@@ -198,25 +198,25 @@
 ----------
 ----------
 
-[/us/pl/114/92/s1082/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1082%2Fb
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1003
-[/us/pl/111/383/s1075/b/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F10%2FC
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4369
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4561
-[/us/pl/104/201/s1416/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1416%2Fa%2F2
+[/us/pl/104/201/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIV
 [/us/stat/110/2723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2723
-[/us/pl/103/160/s1122/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1122%2Fa%2F2
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1755
-[/us/pl/101/189/s1216/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1216%2Fa
+[/us/pl/101/189/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXII
 [/us/stat/103/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1569
-[/us/pl/100/456/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1104%2Fa
+[/us/pl/100/456/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXI
 [/us/stat/102/2043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2043
-[/us/pl/100/180/s1243/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1243%2Fb
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1164
-[/us/pl/99/570/s3053/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3053%2Fb%2F2
+[/us/pl/99/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIII
 [/us/stat/100/3207-76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-76
-[/us/pl/114/92/s1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1059
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F986
 
 

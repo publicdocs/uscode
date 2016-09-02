@@ -37,17 +37,17 @@
 
     Subsection (a) does not apply with respect to the provision of information to Congress.
 
-(Added [Pub. L. 104–201, div. A, title XI, § 1112(d)][/us/pl/104/201/s1112/d], Sept. 23, 1996, [110 Stat. 2683][/us/stat/110/2683]; amended [Pub. L. 108–136, div. A, title IX, § 921(d)(5)(A)][/us/pl/108/136/s921/d/5/A], (B)(i), Nov. 24, 2003, [117 Stat. 1569][/us/stat/117/1569].)
+(Added [Pub. L. 104–201, div. A, title XI][/us/pl/104/201/dA/tXI], § 1112(d), Sept. 23, 1996, [110 Stat. 2683][/us/stat/110/2683]; amended [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 921(d)(5)(A), (B)(i), Nov. 24, 2003, [117 Stat. 1569][/us/stat/117/1569].)
 
  __Prior Provisions__ 
 
-    A prior section 424, added [Pub. L. 100–178, title VI, § 603(a)][/us/pl/100/178/s603/a], Dec. 2, 1987, [101 Stat. 1016][/us/stat/101/1016], § 1607; renumbered § 424 and amended [Pub. L. 100–453, title VII, § 703(a)][/us/pl/100/453/s703/a], Sept. 29, 1988, [102 Stat. 1912][/us/stat/102/1912], related to disclosure of organizational and personnel information with respect to the Defense Intelligence Agency prior to repeal by [Pub. L. 104–201, div. A, title XI][/us/pl/104/201], §§ 1112(d), 1124, Sept. 23, 1996, [110 Stat. 2683][/us/stat/110/2683], 2688, effective Oct. 1, 1996.
+    A prior section 424, added [Pub. L. 100–178, title VI][/us/pl/100/178/tVI], § 603(a), Dec. 2, 1987, [101 Stat. 1016][/us/stat/101/1016], § 1607; renumbered § 424 and amended [Pub. L. 100–453, title VII][/us/pl/100/453/tVII], § 703(a), Sept. 29, 1988, [102 Stat. 1912][/us/stat/102/1912], related to disclosure of organizational and personnel information with respect to the Defense Intelligence Agency prior to repeal by [Pub. L. 104–201, div. A, title XI][/us/pl/104/201/dA/tXI], §§ 1112(d), 1124, Sept. 23, 1996, [110 Stat. 2683][/us/stat/110/2683], 2688, effective Oct. 1, 1996.
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–136, § 921(d)(5)(B)(i)][/us/pl/108/136/s921/d/5/B/i], substituted “Disclosure of organizational and personnel information: exemption for specified intelligence agencies” for “Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency, National Reconnaissance Office, and National Imagery and Mapping Agency” in section catchline.
+    2003—[Pub. L. 108–136][/us/pl/108/136], § 921(d)(5)(B)(i), substituted “Disclosure of organizational and personnel information: exemption for specified intelligence agencies” for “Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency, National Reconnaissance Office, and National Imagery and Mapping Agency” in section catchline.
 
-    Subsec. (b)(3). [Pub. L. 108–136, § 921(d)(5)(A)][/us/pl/108/136/s921/d/5/A], substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+    Subsec. (b)(3). [Pub. L. 108–136][/us/pl/108/136], § 921(d)(5)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
  __Effective Date__ 
 
@@ -55,7 +55,7 @@
 
  __Disclosure of Governmental Affiliation by Department of Defense Intelligence Personnel Outside of United States__ 
 
-[Pub. L. 103–359, title V, § 503][/us/pl/103/359/s503], Oct. 14, 1994, [108 Stat. 3430][/us/stat/108/3430], provided that:
+[Pub. L. 103–359, title V][/us/pl/103/359/tV], § 503, Oct. 14, 1994, [108 Stat. 3430][/us/stat/108/3430], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -75,7 +75,7 @@
 
  __Exemption for National Reconnaissance Office From Any Requirement for Disclosure of Personnel Information__ 
 
-    [Pub. L. 102–496, title IV, § 406][/us/pl/102/496/s406], Oct. 24, 1992, [106 Stat. 3186][/us/stat/106/3186], which provided that, except as required by President and except with respect to provision of information to Congress, nothing in [Pub. L. 102–496][/us/pl/102/496] or any other provision of law was to be construed to require disclosure of name, title, or salary of any person employed by, or assigned or detailed to, National Reconnaissance Office or disclosure of number of such persons, was repealed and restated in former [section 425 of this title][/us/usc/t10/s425] by [Pub. L. 103–178, title V, § 503(a)(1)][/us/pl/103/178/s503/a/1], (b), Dec. 3, 1993, [107 Stat. 2038][/us/stat/107/2038], 2039.
+    [Pub. L. 102–496, title IV][/us/pl/102/496/tIV], § 406, Oct. 24, 1992, [106 Stat. 3186][/us/stat/106/3186], which provided that, except as required by President and except with respect to provision of information to Congress, nothing in [Pub. L. 102–496][/us/pl/102/496] or any other provision of law was to be construed to require disclosure of name, title, or salary of any person employed by, or assigned or detailed to, National Reconnaissance Office or disclosure of number of such persons, was repealed and restated in former [section 425 of this title][/us/usc/t10/s425] by [Pub. L. 103–178, title V][/us/pl/103/178/tV], § 503(a)(1), (b), Dec. 3, 1993, [107 Stat. 2038][/us/stat/107/2038], 2039.
 
 ----------
 
@@ -84,28 +84,28 @@
 ----------
 ----------
 
-[/us/pl/104/201/s1112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1112%2Fd
+[/us/pl/104/201/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXI
 [/us/stat/110/2683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2683
-[/us/pl/108/136/s921/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fd%2F5%2FA
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1569
-[/us/pl/100/178/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F178%2Fs603%2Fa
+[/us/pl/100/178/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F178%2FtVI
 [/us/stat/101/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1016
-[/us/pl/100/453/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F453%2Fs703%2Fa
+[/us/pl/100/453/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F453%2FtVII
 [/us/stat/102/1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1912
-[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXI
 [/us/stat/110/2683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2683
-[/us/pl/108/136/s921/d/5/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fd%2F5%2FB%2Fi
-[/us/pl/108/136/s921/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fd%2F5%2FA
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/104/201/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1124
 [/us/usc/t10/s193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs193
-[/us/pl/103/359/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs503
+[/us/pl/103/359/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtV
 [/us/stat/108/3430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3430
 [/us/usc/t5/s552a/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a%2Fe%2F3
-[/us/pl/102/496/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs406
+[/us/pl/102/496/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtIV
 [/us/stat/106/3186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3186
 [/us/pl/102/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496
 [/us/usc/t10/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs425
-[/us/pl/103/178/s503/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2Fs503%2Fa%2F1
+[/us/pl/103/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F178%2FtV
 [/us/stat/107/2038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2038
 
 

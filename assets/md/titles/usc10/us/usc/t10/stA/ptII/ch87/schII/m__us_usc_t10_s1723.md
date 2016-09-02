@@ -35,19 +35,19 @@
 
     Not more than one year of a period of time spent pursuing a program of academic training or education in acquisition may be counted toward fulfilling any requirement established under this chapter for a certain period of experience.
 
-(Added [Pub. L. 101–510, div. A, title XII, § 1202(a)][/us/pl/101/510/s1202/a], Nov. 5, 1990, [104 Stat. 1642][/us/stat/104/1642]; amended [Pub. L. 104–201, div. A, title X, § 1074(a)(9)(A)][/us/pl/104/201/s1074/a/9/A], Sept. 23, 1996, [110 Stat. 2659][/us/stat/110/2659]; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383], §§ 873(b), 874(a), Jan. 7, 2011, [124 Stat. 4303][/us/stat/124/4303], 4304.)
+(Added [Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1202(a), Nov. 5, 1990, [104 Stat. 1642][/us/stat/104/1642]; amended [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1074(a)(9)(A), Sept. 23, 1996, [110 Stat. 2659][/us/stat/110/2659]; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], §§ 873(b), 874(a), Jan. 7, 2011, [124 Stat. 4303][/us/stat/124/4303], 4304.)
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 111–383, § 874(a)][/us/pl/111/383/s874/a], amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish education, training, and experience requirements for each acquisition position, based on the level of complexity of duties carried out in the position. In establishing such requirements for positions other than critical acquisition positions designated pursuant to [section 1733 of this title][/us/usc/t10/s1733], the Secretary may state the requirements by categories of positions.”
+    2011—Subsec. (a). [Pub. L. 111–383][/us/pl/111/383], § 874(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish education, training, and experience requirements for each acquisition position, based on the level of complexity of duties carried out in the position. In establishing such requirements for positions other than critical acquisition positions designated pursuant to [section 1733 of this title][/us/usc/t10/s1733], the Secretary may state the requirements by categories of positions.”
 
-    Subsecs. (b), (c). [Pub. L. 111–383, § 873(b)][/us/pl/111/383/s873/b], added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsecs. (b), (c). [Pub. L. 111–383][/us/pl/111/383], § 873(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
     1996—Subsec. (a). [Pub. L. 104–201][/us/pl/104/201] struck out “Unless otherwise provided in this chapter, such requirements shall take effect not later than October 1, 1993.” after first sentence.
 
  __Information Technology Acquisition Workforce__ 
 
-[Pub. L. 111–383, div. A, title VIII, § 875][/us/pl/111/383/s875], Jan. 7, 2011, [124 Stat. 4305][/us/stat/124/4305], provided that:
+[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 875, Jan. 7, 2011, [124 Stat. 4305][/us/stat/124/4305], provided that:
 
 >     “(a)  __Plan Required__  __.—__ 
 
@@ -73,11 +73,11 @@
 
  __Guidance and Standards for Defense Acquisition Workforce Training Requirements__ 
 
-    [Pub. L. 105–85, div. A, title VIII, § 853][/us/pl/105/85/s853], Nov. 18, 1997, [111 Stat. 1851][/us/stat/111/1851], which related to guidance and standards for defense acquisition workforce training requirements, was repealed and restated as [section 1748 of this title][/us/usc/t10/s1748] by [Pub. L. 111–383, div. A, title VIII, § 874(b)(1)][/us/pl/111/383/s874/b/1], (4), Jan. 7, 2011, [124 Stat. 4304][/us/stat/124/4304], 4305.
+    [Pub. L. 105–85, div. A, title VIII][/us/pl/105/85/dA/tVIII], § 853, Nov. 18, 1997, [111 Stat. 1851][/us/stat/111/1851], which related to guidance and standards for defense acquisition workforce training requirements, was repealed and restated as [section 1748 of this title][/us/usc/t10/s1748] by [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 874(b)(1), (4), Jan. 7, 2011, [124 Stat. 4304][/us/stat/124/4304], 4305.
 
  __Fulfillment Standards for Mandatory Training__ 
 
-    [Pub. L. 102–484, div. A, title VIII, § 812(c)][/us/pl/102/484/s812/c], Oct. 23, 1992, [106 Stat. 2451][/us/stat/106/2451], as amended by [Pub. L. 105–85, div. A, title X, § 1073(d)(2)(A)][/us/pl/105/85/s1073/d/2/A], Nov. 18, 1997, [111 Stat. 1905][/us/stat/111/1905], provided that the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, was to develop, not later than 90 days after Oct. 23, 1992, fulfillment standards, and implement a program, for purposes of the training requirements of sections 1723, 1724, and 1735 of this title, and that the standards were to take effect as of Nov. 5, 1990, and cease to be in effect on Oct. 1, 1997.
+    [Pub. L. 102–484, div. A, title VIII][/us/pl/102/484/dA/tVIII], § 812(c), Oct. 23, 1992, [106 Stat. 2451][/us/stat/106/2451], as amended by [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(d)(2)(A), Nov. 18, 1997, [111 Stat. 1905][/us/stat/111/1905], provided that the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, was to develop, not later than 90 days after Oct. 23, 1992, fulfillment standards, and implement a program, for purposes of the training requirements of sections 1723, 1724, and 1735 of this title, and that the standards were to take effect as of Nov. 5, 1990, and cease to be in effect on Oct. 1, 1997.
 
 ----------
 
@@ -87,28 +87,28 @@
 ----------
 
 [/us/usc/t10/s1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1733
-[/us/pl/101/510/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1202%2Fa
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1642
-[/us/pl/104/201/s1074/a/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fa%2F9%2FA
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2659
-[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4303
-[/us/pl/111/383/s874/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs874%2Fa
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1733
-[/us/pl/111/383/s873/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs873%2Fb
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/111/383/s875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs875
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4305
 [/us/usc/t40/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101
 [/us/usc/t10/s2379/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2379%2Ff
-[/us/pl/105/85/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs853
+[/us/pl/105/85/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVIII
 [/us/stat/111/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1851
 [/us/usc/t10/s1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1748
-[/us/pl/111/383/s874/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs874%2Fb%2F1
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4304
-[/us/pl/102/484/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs812%2Fc
+[/us/pl/102/484/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVIII
 [/us/stat/106/2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2451
-[/us/pl/105/85/s1073/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fd%2F2%2FA
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1905
 
 

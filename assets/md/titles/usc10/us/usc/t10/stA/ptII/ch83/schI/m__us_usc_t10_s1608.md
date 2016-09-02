@@ -31,7 +31,7 @@
 
     In this section, the term “time-limited appointment” means an appointment (subject to the condition in subsection (b)) for a period not to exceed two years.
 
-(Added [Pub. L. 104–201, div. A, title XVI, § 1632(b)][/us/pl/104/201/s1632/b], Sept. 23, 1996, [110 Stat. 2748][/us/stat/110/2748].)
+(Added [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1632(b), Sept. 23, 1996, [110 Stat. 2748][/us/stat/110/2748].)
 
  __Prior Provisions__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/104/201/s1632/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1632%2Fb
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2748
 [/us/usc/t10/s1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1623
 [/us/pl/104/201/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1635

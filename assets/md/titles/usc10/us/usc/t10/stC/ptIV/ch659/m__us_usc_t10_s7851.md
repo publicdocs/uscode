@@ -17,7 +17,7 @@
 
     The Naval Militia consists of the Naval Militia of the States, the District of Columbia, Guam, and the Virgin Islands.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 486][/us/stat/70A/486]; [Pub. L. 109–163, div. A, title X, § 1057(a)(11)][/us/pl/109/163/s1057/a/11], Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 486][/us/stat/70A/486]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(a)(11), Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
 
 <table>
 
@@ -76,7 +76,7 @@ July 9, 1952, ch. 608, § 501, 66 Stat. 500.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F486
-[/us/pl/109/163/s1057/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F11
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3441
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 

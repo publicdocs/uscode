@@ -101,7 +101,7 @@
 
         The term “covered segment”, with respect to a contractor, means a product division of the contractor that allocated more than $1,000,000 in independent research and development and bid and proposal costs to Department of Defense contracts during the preceding fiscal year. In the case of a contractor that has no product divisions, such term means the contractor as a whole.
 
-(Added [Pub. L. 101–510, div. A, title VIII, § 824(a)(1)][/us/pl/101/510/s824/a/1], Nov. 5, 1990, [104 Stat. 1603][/us/stat/104/1603]; amended [Pub. L. 102–25, title VII, § 701(c)][/us/pl/102/25/s701/c], Apr. 6, 1991, [105 Stat. 113][/us/stat/105/113]; [Pub. L. 102–190, div. A, title VIII, § 802(a)(1)][/us/pl/102/190/s802/a/1], Dec. 5, 1991, [105 Stat. 1412][/us/stat/105/1412]; [Pub. L. 102–484, div. A, title X, § 1052(27)][/us/pl/102/484/s1052/27], Oct. 23, 1992, [106 Stat. 2500][/us/stat/106/2500]; [Pub. L. 103–35, title II, § 201(c)(5)][/us/pl/103/35/s201/c/5], May 31, 1993, [107 Stat. 98][/us/stat/107/98]; [Pub. L. 104–106, div. D, title XLIII, § 4321(b)(11)][/us/pl/104/106/s4321/b/11], Feb. 10, 1996, [110 Stat. 672][/us/stat/110/672].)
+(Added [Pub. L. 101–510, div. A, title VIII][/us/pl/101/510/dA/tVIII], § 824(a)(1), Nov. 5, 1990, [104 Stat. 1603][/us/stat/104/1603]; amended [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 701(c), Apr. 6, 1991, [105 Stat. 113][/us/stat/105/113]; [Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], § 802(a)(1), Dec. 5, 1991, [105 Stat. 1412][/us/stat/105/1412]; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1052(27), Oct. 23, 1992, [106 Stat. 2500][/us/stat/106/2500]; [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 201(c)(5), May 31, 1993, [107 Stat. 98][/us/stat/107/98]; [Pub. L. 104–106, div. D, title XLIII][/us/pl/104/106/dD/tXLIII], § 4321(b)(11), Feb. 10, 1996, [110 Stat. 672][/us/stat/110/672].)
 
  __Amendments__ 
 
@@ -121,19 +121,19 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–190, div. A, title VIII, § 802(e)][/us/pl/102/190/s802/e], Dec. 5, 1991, [105 Stat. 1414][/us/stat/105/1414], provided that: 
+[Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], § 802(e), Dec. 5, 1991, [105 Stat. 1414][/us/stat/105/1414], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 2330 of this title][/us/usc/t10/s2330]\] shall take effect on October 1, 1992, and shall apply to independent research and development and bid and proposal costs incurred by a contractor during fiscal years of that contractor that begin on or after that date.”
 
  __Regulations__ 
 
-[Pub. L. 102–190, div. A, title VIII, § 802(b)][/us/pl/102/190/s802/b], Dec. 5, 1991, [105 Stat. 1414][/us/stat/105/1414], provided that: 
+[Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], § 802(b), Dec. 5, 1991, [105 Stat. 1414][/us/stat/105/1414], provided that: 
 
 > “The Secretary of Defense shall prescribe proposed regulations to implement the amendment made by subsection (a)(1) \[amending this section\] not later than April 1, 1992, and shall prescribe final regulations for that purpose not later than June 1, 1992.”
 
  __Study by Office of Technology Assessment__ 
 
-    [Pub. L. 102–190, div. A, title VIII, § 802(c)][/us/pl/102/190/s802/c], Dec. 5, 1991, [105 Stat. 1414][/us/stat/105/1414], directed Director of the Office of Technology Assessment to conduct a study to determine effect of regulations prescribed under this section on the achievement of policy stated in subsec. (g) of this section and submit a report containing results of such study to Committees on Armed Services of Senate and House of Representatives not later than Dec. 1, 1995, prior to repeal by [Pub. L. 103–160, div. A, title II, § 266][/us/pl/103/160/s266], Nov. 30, 1993, [107 Stat. 1611][/us/stat/107/1611].
+    [Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], § 802(c), Dec. 5, 1991, [105 Stat. 1414][/us/stat/105/1414], directed Director of the Office of Technology Assessment to conduct a study to determine effect of regulations prescribed under this section on the achievement of policy stated in subsec. (g) of this section and submit a report containing results of such study to Committees on Armed Services of Senate and House of Representatives not later than Dec. 1, 1995, prior to repeal by [Pub. L. 103–160, div. A, title II][/us/pl/103/160/dA/tII], § 266, Nov. 30, 1993, [107 Stat. 1611][/us/stat/107/1611].
 
 ----------
 
@@ -143,17 +143,17 @@
 ----------
 
 [/us/usc/t10/s2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2506
-[/us/pl/101/510/s824/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs824%2Fa%2F1
+[/us/pl/101/510/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVIII
 [/us/stat/104/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1603
-[/us/pl/102/25/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Fc
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F113
-[/us/pl/102/190/s802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs802%2Fa%2F1
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1412
-[/us/pl/102/484/s1052/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F27
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2500
-[/us/pl/103/35/s201/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fc%2F5
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F98
-[/us/pl/104/106/s4321/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4321%2Fb%2F11
+[/us/pl/104/106/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdD%2FtXLIII
 [/us/stat/110/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F672
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
@@ -163,14 +163,14 @@
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/106/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4401
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/102/190/s802/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs802%2Fe
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1414
 [/us/usc/t10/s2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2330
-[/us/pl/102/190/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs802%2Fb
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1414
-[/us/pl/102/190/s802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs802%2Fc
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1414
-[/us/pl/103/160/s266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs266
+[/us/pl/103/160/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtII
 [/us/stat/107/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1611
 
 

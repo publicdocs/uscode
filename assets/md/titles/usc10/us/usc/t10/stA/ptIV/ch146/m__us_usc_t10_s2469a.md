@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch146/m__us_usc_t10_s2469.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch146/m__us_usc_t10_s2470.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2469a)
 
-## \[§ 2469a. Repealed. [Pub. L. 107–314, div. A, title III, § 333(a)][/us/pl/107/314/s333/a], Dec. 2, 2002, [116 Stat. 2514][/us/stat/116/2514]\]
+## \[§ 2469a. Repealed. [Pub. L. 107–314, div. A, title III][/us/pl/107/314/dA/tIII], § 333(a), Dec. 2, 2002, [116 Stat. 2514][/us/stat/116/2514]\]
 
-    Section, added [Pub. L. 105–85, div. A, title III, § 359(a)(1)][/us/pl/105/85/s359/a/1], Nov. 18, 1997, [111 Stat. 1696][/us/stat/111/1696]; amended [Pub. L. 106–65, div. A, title III, § 335][/us/pl/106/65/s335], title X, § 1066(a)(20), Oct. 5, 1999, [113 Stat. 568][/us/stat/113/568], 771, related to use of competitive procedures in contracting for performance of depot-level maintenance and repair workloads formerly performed at closed or realigned military installations.
+    Section, added [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 359(a)(1), Nov. 18, 1997, [111 Stat. 1696][/us/stat/111/1696]; amended [Pub. L. 106–65, div. A, title III][/us/pl/106/65/dA/tIII], § 335, title X, § 1066(a)(20), Oct. 5, 1999, [113 Stat. 568][/us/stat/113/568], 771, related to use of competitive procedures in contracting for performance of depot-level maintenance and repair workloads formerly performed at closed or realigned military installations.
 
 ----------
 
@@ -24,11 +24,11 @@
 ----------
 ----------
 
-[/us/pl/107/314/s333/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs333%2Fa
+[/us/pl/107/314/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtIII
 [/us/stat/116/2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2514
-[/us/pl/105/85/s359/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs359%2Fa%2F1
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1696
-[/us/pl/106/65/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs335
+[/us/pl/106/65/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIII
 [/us/stat/113/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F568
 
 

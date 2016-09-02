@@ -43,7 +43,7 @@
 
         (4) Amounts collected as premiums under this subsection shall be credited to the appropriation available for the Defense Health Program Account under [section 1100 of this title][/us/usc/t10/s1100], shall be merged with sums in such Account that are available for the fiscal year in which collected, and shall be available under subsection (b) of such section for such fiscal year.
 
-(Added [Pub. L. 111–383, div. A, title VII, § 702(a)(1)][/us/pl/111/383/s702/a/1], Jan. 7, 2011, [124 Stat. 4244][/us/stat/124/4244].)
+(Added [Pub. L. 111–383, div. A, title VII][/us/pl/111/383/dA/tVII], § 702(a)(1), Jan. 7, 2011, [124 Stat. 4244][/us/stat/124/4244].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date and Regulations__ 
 
-[Pub. L. 111–383, div. A, title VII, § 702(b)][/us/pl/111/383/s702/b], Jan. 7, 2011, [124 Stat. 4245][/us/stat/124/4245], provided that: 
+[Pub. L. 111–383, div. A, title VII][/us/pl/111/383/dA/tVII], § 702(b), Jan. 7, 2011, [124 Stat. 4245][/us/stat/124/4245], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect on January 1, 2011. The Secretary of Defense shall prescribe an interim final rule with respect to such amendments, effective not later than January 1, 2011.”
 
@@ -68,11 +68,11 @@
 [/us/usc/t10/s1072/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2
 [/us/usc/t10/s1072/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2
 [/us/usc/t10/s1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1100
-[/us/pl/111/383/s702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs702%2Fa%2F1
+[/us/pl/111/383/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVII
 [/us/stat/124/4244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4244
 [/us/usc/t26/s5000A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5000A
 [/us/usc/t42/s300gg–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9314
-[/us/pl/111/383/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs702%2Fb
+[/us/pl/111/383/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVII
 [/us/stat/124/4245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4245
 
 

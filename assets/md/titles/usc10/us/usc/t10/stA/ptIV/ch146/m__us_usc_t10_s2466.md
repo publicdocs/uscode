@@ -37,15 +37,15 @@
 
         (2) Each report required under paragraph (1) shall include as a separate item any expenditure covered by [section 2474(f) of this title][/us/usc/t10/s2474/f] that was made during the fiscal year covered by the report and shall specify the amount and nature of each such expenditure.
 
-(Added [Pub. L. 100–456, div. A, title III, § 326(a)][/us/pl/100/456/s326/a], Sept. 29, 1988, [102 Stat. 1955][/us/stat/102/1955]; amended [Pub. L. 101–189, div. A, title III, § 313][/us/pl/101/189/s313], Nov. 29, 1989, [103 Stat. 1412][/us/stat/103/1412]; [Pub. L. 102–190, div. A, title III, § 314(a)(1)][/us/pl/102/190/s314/a/1], Dec. 5, 1991, [105 Stat. 1336][/us/stat/105/1336]; [Pub. L. 102–484, div. A, title III, § 352(a)][/us/pl/102/484/s352/a]–(c), Oct. 23, 1992, [106 Stat. 2378][/us/stat/106/2378]; [Pub. L. 103–337, div. A, title III, § 332][/us/pl/103/337/s332], Oct. 5, 1994, [108 Stat. 2715][/us/stat/108/2715]; [Pub. L. 104–106, div. A, title III][/us/pl/104/106], §§ 311(f)(1), 312(b), Feb. 10, 1996, [110 Stat. 248][/us/stat/110/248], 250; [Pub. L. 105–85, div. A, title III][/us/pl/105/85], §§ 357, 358, 363, Nov. 18, 1997, [111 Stat. 1695][/us/stat/111/1695], 1702; [Pub. L. 106–65, div. A, title III, § 333][/us/pl/106/65/s333], Oct. 5, 1999, [113 Stat. 567][/us/stat/113/567]; [Pub. L. 107–107, div. A, title III, § 341][/us/pl/107/107/s341], Dec. 28, 2001, [115 Stat. 1060][/us/stat/115/1060]; [Pub. L. 108–136, div. A, title III, § 332][/us/pl/108/136/s332], Nov. 24, 2003, [117 Stat. 1442][/us/stat/117/1442]; [Pub. L. 108–375, div. A, title III, § 321][/us/pl/108/375/s321], Oct. 28, 2004, [118 Stat. 1845][/us/stat/118/1845]; [Pub. L. 109–364, div. A, title III, § 331(b)][/us/pl/109/364/s331/b], Oct. 17, 2006, [120 Stat. 2149][/us/stat/120/2149]; [Pub. L. 111–84, div. A, title III, § 329][/us/pl/111/84/s329], Oct. 28, 2009, [123 Stat. 2256][/us/stat/123/2256].)
+(Added [Pub. L. 100–456, div. A, title III][/us/pl/100/456/dA/tIII], § 326(a), Sept. 29, 1988, [102 Stat. 1955][/us/stat/102/1955]; amended [Pub. L. 101–189, div. A, title III][/us/pl/101/189/dA/tIII], § 313, Nov. 29, 1989, [103 Stat. 1412][/us/stat/103/1412]; [Pub. L. 102–190, div. A, title III][/us/pl/102/190/dA/tIII], § 314(a)(1), Dec. 5, 1991, [105 Stat. 1336][/us/stat/105/1336]; [Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 352(a)–(c), Oct. 23, 1992, [106 Stat. 2378][/us/stat/106/2378]; [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 332, Oct. 5, 1994, [108 Stat. 2715][/us/stat/108/2715]; [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], §§ 311(f)(1), 312(b), Feb. 10, 1996, [110 Stat. 248][/us/stat/110/248], 250; [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], §§ 357, 358, 363, Nov. 18, 1997, [111 Stat. 1695][/us/stat/111/1695], 1702; [Pub. L. 106–65, div. A, title III][/us/pl/106/65/dA/tIII], § 333, Oct. 5, 1999, [113 Stat. 567][/us/stat/113/567]; [Pub. L. 107–107, div. A, title III][/us/pl/107/107/dA/tIII], § 341, Dec. 28, 2001, [115 Stat. 1060][/us/stat/115/1060]; [Pub. L. 108–136, div. A, title III][/us/pl/108/136/dA/tIII], § 332, Nov. 24, 2003, [117 Stat. 1442][/us/stat/117/1442]; [Pub. L. 108–375, div. A, title III][/us/pl/108/375/dA/tIII], § 321, Oct. 28, 2004, [118 Stat. 1845][/us/stat/118/1845]; [Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 331(b), Oct. 17, 2006, [120 Stat. 2149][/us/stat/120/2149]; [Pub. L. 111–84, div. A, title III][/us/pl/111/84/dA/tIII], § 329, Oct. 28, 2009, [123 Stat. 2256][/us/stat/123/2256].)
 
  __Amendments__ 
 
     2009—Subsec. (d)(1). [Pub. L. 111–84][/us/pl/111/84] substituted “90 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105]” for “April 1 of each year”.
 
-    2006—Subsec. (d). [Pub. L. 109–364, § 331(b)(2)][/us/pl/109/364/s331/b/2], struck out “and Review” after “Annual Report” in heading.
+    2006—Subsec. (d). [Pub. L. 109–364][/us/pl/109/364], § 331(b)(2), struck out “and Review” after “Annual Report” in heading.
 
-    Subsec. (d)(2). [Pub. L. 109–364, § 331(b)(1)][/us/pl/109/364/s331/b/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Not later than 90 days after the date on which the Secretary submits a report under paragraph (1), the Comptroller General shall submit to Congress the Comptroller General’s views on whether—
+    Subsec. (d)(2). [Pub. L. 109–364][/us/pl/109/364], § 331(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Not later than 90 days after the date on which the Secretary submits a report under paragraph (1), the Comptroller General shall submit to Congress the Comptroller General’s views on whether—
 
     “(A) the Department of Defense complied with the requirements of subsection (a) during the preceding fiscal year covered by the report; and
 
@@ -73,17 +73,17 @@
 
     “(2) Not later than 90 days after the date on which the Secretary submits the annual report under paragraph (1), the Comptroller General shall submit to Congress the Comptroller General’s views on whether the Department of Defense has complied with the requirements of subsection (a) for the fiscal year covered by the report.”
 
-    1997—[Pub. L. 105–85, § 363][/us/pl/105/85/s363], repealed [Pub. L. 104–106, § 311(f)(1)][/us/pl/104/106/s311/f/1]. See 1996 Amendment note below.
+    1997—[Pub. L. 105–85][/us/pl/105/85], § 363, repealed [Pub. L. 104–106][/us/pl/104/106], § 311(f)(1). See 1996 Amendment note below.
 
-    Subsec. (a). [Pub. L. 105–85, § 357][/us/pl/105/85/s357], substituted “50 percent” for “40 percent”.
+    Subsec. (a). [Pub. L. 105–85][/us/pl/105/85], § 357, substituted “50 percent” for “40 percent”.
 
-    Subsec. (e). [Pub. L. 105–85, § 358][/us/pl/105/85/s358], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not later than January 15, 1995, the Secretary of Defense shall submit to Congress a report identifying, for each military department and Defense Agency, the percentage of funds referred to in subsection (a) that was used during fiscal year 1994 to contract for the performance by non-Federal Government personnel of depot-level maintenance and repair workload.”
+    Subsec. (e). [Pub. L. 105–85][/us/pl/105/85], § 358, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not later than January 15, 1995, the Secretary of Defense shall submit to Congress a report identifying, for each military department and Defense Agency, the percentage of funds referred to in subsection (a) that was used during fiscal year 1994 to contract for the performance by non-Federal Government personnel of depot-level maintenance and repair workload.”
 
-    1996—[Pub. L. 104–106, § 311(f)(1)][/us/pl/104/106/s311/f/1], which directed repeal of this section, was repealed by [Pub. L. 105–85, § 363][/us/pl/105/85/s363].
+    1996—[Pub. L. 104–106][/us/pl/104/106], § 311(f)(1), which directed repeal of this section, was repealed by [Pub. L. 105–85][/us/pl/105/85], § 363.
 
-    Subsec. (b). [Pub. L. 104–106, § 312(b)][/us/pl/104/106/s312/b], redesignated subsec. (b) as [section 2472(a) of this title][/us/usc/t10/s2472/a].
+    Subsec. (b). [Pub. L. 104–106][/us/pl/104/106], § 312(b), redesignated subsec. (b) as [section 2472(a) of this title][/us/usc/t10/s2472/a].
 
-    1994—Subsec. (a). [Pub. L. 103–337, § 332(a)][/us/pl/103/337/s332/a], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows:
+    1994—Subsec. (a). [Pub. L. 103–337][/us/pl/103/337], § 332(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows:
 
     “(1) Except as provided in paragraph (2), the Secretary of a military department and, with respect to a Defense Agency, the Secretary of Defense, may not contract for the performance by non-Federal Government personnel of more than 40 percent of the depot-level maintenance workload for the military department or the Defense Agency.
 
@@ -95,19 +95,19 @@
 
     “(C) For fiscal year 1995, 60 percent.”
 
-    Subsec. (b). [Pub. L. 103–337, § 332(b)][/us/pl/103/337/s332/b], inserted “and repair” after “maintenance” in two places.
+    Subsec. (b). [Pub. L. 103–337][/us/pl/103/337], § 332(b), inserted “and repair” after “maintenance” in two places.
 
-    Subsec. (e). [Pub. L. 103–337, § 332(c)][/us/pl/103/337/s332/c], amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
+    Subsec. (e). [Pub. L. 103–337][/us/pl/103/337], § 332(c), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
 
     “(1) Not later than January 15, 1992, and January 15, 1993, the Secretary of the Army and the Secretary of the Air Force shall jointly submit to Congress a report describing the progress during the preceding fiscal year to achieve and maintain the percentage of depot-level maintenance required to be performed by employees of the Department of Defense pursuant to subsection (a).
 
     “(2) Not later than January 15, 1994, the Secretary of each military department and the Secretary of Defense, with respect to the Defense Agencies, shall jointly submit to Congress a report described in paragraph (1).”
 
-    1992—Subsec. (a). [Pub. L. 102–484, § 352(a)][/us/pl/102/484/s352/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Percentage Limitation.—Not less than 60 percent of the funds available for each fiscal year for depot-level maintenance of materiel managed for the Department of the Army and the Department of the Air Force shall be used for the performance of such depot-level maintenance by employees of the Department of Defense.”
+    1992—Subsec. (a). [Pub. L. 102–484][/us/pl/102/484], § 352(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Percentage Limitation.—Not less than 60 percent of the funds available for each fiscal year for depot-level maintenance of materiel managed for the Department of the Army and the Department of the Air Force shall be used for the performance of such depot-level maintenance by employees of the Department of Defense.”
 
-    Subsec. (c). [Pub. L. 102–484, § 352(b)][/us/pl/102/484/s352/b], substituted “The Secretary of the military department concerned and, with respect to a Defense Agency, the Secretary of Defense” for “The Secretary of the Army, with respect to the Department of the Army, and the Secretary of the Air Force, with respect to the Department of the Air Force,”.
+    Subsec. (c). [Pub. L. 102–484][/us/pl/102/484], § 352(b), substituted “The Secretary of the military department concerned and, with respect to a Defense Agency, the Secretary of Defense” for “The Secretary of the Army, with respect to the Department of the Army, and the Secretary of the Air Force, with respect to the Department of the Air Force,”.
 
-    Subsec. (e). [Pub. L. 102–484, § 352(c)][/us/pl/102/484/s352/c], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (e). [Pub. L. 102–484][/us/pl/102/484], § 352(c), designated existing provisions as par. (1) and added par. (2).
 
     1991—[Pub. L. 102–190][/us/pl/102/190] substituted section catchline for one which read “Prohibition on certain depot maintenance workload competitions” and amended text generally. Prior to amendment, text read as follows: “The Secretary of Defense shall prohibit the Secretary of the Army and the Secretary of the Air Force, in selecting an entity to perform any depot maintenance workload, from carrying out a competition for such selection—
 
@@ -119,7 +119,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 103–337, div. A, title III, § 331][/us/pl/103/337/s331], Oct. 5, 1994, [108 Stat. 2715][/us/stat/108/2715], provided that: 
+[Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 331, Oct. 5, 1994, [108 Stat. 2715][/us/stat/108/2715], provided that: 
 
 > “Congress makes the following findings:
 
@@ -131,7 +131,7 @@
 
  __Reutilization Initiative for Depot-Level Activities__ 
 
-[Pub. L. 103–337, div. A, title III, § 337][/us/pl/103/337/s337], Oct. 5, 1994, [108 Stat. 2717][/us/stat/108/2717], provided that:
+[Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 337, Oct. 5, 1994, [108 Stat. 2717][/us/stat/108/2717], provided that:
 
 >     “(a)  __Program Authorized__  __.—__ 
 
@@ -153,29 +153,29 @@
 
  __Continuation of Percentage Limitations on Performance of Depot-Level Maintenance__ 
 
-[Pub. L. 103–160, div. A, title III, § 343][/us/pl/103/160/s343], Nov. 30, 1993, [107 Stat. 1624][/us/stat/107/1624], provided that: 
+[Pub. L. 103–160, div. A, title III][/us/pl/103/160/dA/tIII], § 343, Nov. 30, 1993, [107 Stat. 1624][/us/stat/107/1624], provided that: 
 
 > “The Secretary of Defense shall ensure that the percentage limitations applicable to the depot-level maintenance workload performed by non-Federal Government personnel set forth in [section 2466 of title 10][/us/usc/t10/s2466], United States Code, are adhered to.”
 
  __Effect of 1992 Amendments on Existing Contracts__ 
 
-[Pub. L. 102–484, div. A, title III, § 352(d)][/us/pl/102/484/s352/d], Oct. 23, 1992, [106 Stat. 2378][/us/stat/106/2378], provided that: 
+[Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 352(d), Oct. 23, 1992, [106 Stat. 2378][/us/stat/106/2378], provided that: 
 
 > “The Secretary of a military department and the Secretary of Defense, with respect to the Defense Agencies, may not cancel a depot-level maintenance contract in effect on the date of the enactment of this Act \[Oct. 23, 1992\] in order to comply with the requirements of [section 2466(a) of title 10][/us/usc/t10/s2466/a], United States Code, as amended by subsection (a).”
 
  __Prohibition on Cancellation of Contracts in Effect on__  __December 5, 1991__ 
 
-[Pub. L. 102–190, div. A, title III, § 314(a)(3)][/us/pl/102/190/s314/a/3], Dec. 5, 1991, [105 Stat. 1337][/us/stat/105/1337], provided that: 
+[Pub. L. 102–190, div. A, title III][/us/pl/102/190/dA/tIII], § 314(a)(3), Dec. 5, 1991, [105 Stat. 1337][/us/stat/105/1337], provided that: 
 
 > “The Secretary of the Army and the Secretary of the Air Force may not cancel a depot-level maintenance contract in effect on the date of the enactment of this Act \[Dec. 5, 1991\] in order to comply with the requirements of section 2466(a) of such title, as amended by subsection (a).”
 
  __Competition Pilot Program; Review and Report__ 
 
-    [Pub. L. 102–190, div. A, title III, § 314(b)][/us/pl/102/190/s314/b]–(d), Dec. 5, 1991, [105 Stat. 1337][/us/stat/105/1337], as amended by [Pub. L. 102–484, div. A, title III, § 354][/us/pl/102/484/s354], Oct. 23, 1992, [106 Stat. 2379][/us/stat/106/2379], required the Comptroller General to submit to Congress, not later than Feb. 1, 1994, an evaluation of all depot maintenance workloads of the Department of Defense that were performed by an entity selected pursuant to competitive procedures, and required the Secretary of Defense to submit to Congress, not later than Dec. 1, 1993, a report containing a five-year strategy of the Department of Defense to use competitive procedures for the selection of entities to perform depot maintenance workloads and describing the cost savings anticipated.
+    [Pub. L. 102–190, div. A, title III][/us/pl/102/190/dA/tIII], § 314(b)–(d), Dec. 5, 1991, [105 Stat. 1337][/us/stat/105/1337], as amended by [Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 354, Oct. 23, 1992, [106 Stat. 2379][/us/stat/106/2379], required the Comptroller General to submit to Congress, not later than Feb. 1, 1994, an evaluation of all depot maintenance workloads of the Department of Defense that were performed by an entity selected pursuant to competitive procedures, and required the Secretary of Defense to submit to Congress, not later than Dec. 1, 1993, a report containing a five-year strategy of the Department of Defense to use competitive procedures for the selection of entities to perform depot maintenance workloads and describing the cost savings anticipated.
 
  __Pilot Program for Depot Maintenance Workload Competition__ 
 
-    [Pub. L. 101–510, div. A, title IX, § 922][/us/pl/101/510/s922], Nov. 5, 1990, [104 Stat. 1627][/us/stat/104/1627], authorized a depot maintenance workload competition pilot program during fiscal year 1991, outlined elements of the program, and provided for a report not later than Mar. 31, 1992, to congressional defense committees, prior to repeal by [Pub. L. 102–190, div. A, title III, § 314(b)(2)][/us/pl/102/190/s314/b/2], Dec. 5, 1991, [105 Stat. 1337][/us/stat/105/1337].
+    [Pub. L. 101–510, div. A, title IX][/us/pl/101/510/dA/tIX], § 922, Nov. 5, 1990, [104 Stat. 1627][/us/stat/104/1627], authorized a depot maintenance workload competition pilot program during fiscal year 1991, outlined elements of the program, and provided for a report not later than Mar. 31, 1992, to congressional defense committees, prior to repeal by [Pub. L. 102–190, div. A, title III][/us/pl/102/190/dA/tIII], § 314(b)(2), Dec. 5, 1991, [105 Stat. 1337][/us/stat/105/1337].
 
 ----------
 
@@ -186,76 +186,76 @@
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t10/s2474/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2474%2Ff
-[/us/pl/100/456/s326/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs326%2Fa
+[/us/pl/100/456/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtIII
 [/us/stat/102/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1955
-[/us/pl/101/189/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs313
+[/us/pl/101/189/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIII
 [/us/stat/103/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1412
-[/us/pl/102/190/s314/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs314%2Fa%2F1
+[/us/pl/102/190/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtIII
 [/us/stat/105/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1336
-[/us/pl/102/484/s352/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs352%2Fa
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2378
-[/us/pl/103/337/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs332
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2715
-[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F248
-[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1695
-[/us/pl/106/65/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs333
+[/us/pl/106/65/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIII
 [/us/stat/113/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F567
-[/us/pl/107/107/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs341
+[/us/pl/107/107/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIII
 [/us/stat/115/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1060
-[/us/pl/108/136/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs332
+[/us/pl/108/136/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIII
 [/us/stat/117/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1442
-[/us/pl/108/375/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs321
+[/us/pl/108/375/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIII
 [/us/stat/118/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1845
-[/us/pl/109/364/s331/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs331%2Fb
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2149
-[/us/pl/111/84/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs329
+[/us/pl/111/84/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIII
 [/us/stat/123/2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2256
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/109/364/s331/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs331%2Fb%2F2
-[/us/pl/109/364/s331/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs331%2Fb%2F1
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t10/s2466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2466
-[/us/pl/105/85/s363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs363
-[/us/pl/104/106/s311/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs311%2Ff%2F1
-[/us/pl/105/85/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs357
-[/us/pl/105/85/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs358
-[/us/pl/104/106/s311/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs311%2Ff%2F1
-[/us/pl/105/85/s363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs363
-[/us/pl/104/106/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs312%2Fb
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t10/s2472/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2472%2Fa
-[/us/pl/103/337/s332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs332%2Fa
-[/us/pl/103/337/s332/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs332%2Fb
-[/us/pl/103/337/s332/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs332%2Fc
-[/us/pl/102/484/s352/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs352%2Fa
-[/us/pl/102/484/s352/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs352%2Fb
-[/us/pl/102/484/s352/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs352%2Fc
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
-[/us/pl/103/337/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs331
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2715
-[/us/pl/103/337/s337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs337
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2717
-[/us/pl/103/160/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs343
+[/us/pl/103/160/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIII
 [/us/stat/107/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1624
 [/us/usc/t10/s2466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2466
-[/us/pl/102/484/s352/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs352%2Fd
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2378
 [/us/usc/t10/s2466/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2466%2Fa
-[/us/pl/102/190/s314/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs314%2Fa%2F3
+[/us/pl/102/190/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtIII
 [/us/stat/105/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1337
-[/us/pl/102/190/s314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs314%2Fb
+[/us/pl/102/190/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtIII
 [/us/stat/105/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1337
-[/us/pl/102/484/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs354
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2379
-[/us/pl/101/510/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs922
+[/us/pl/101/510/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIX
 [/us/stat/104/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1627
-[/us/pl/102/190/s314/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs314%2Fb%2F2
+[/us/pl/102/190/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtIII
 [/us/stat/105/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1337
 
 

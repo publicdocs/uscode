@@ -39,7 +39,7 @@
 
     (b) A person who is discharged, or released from active duty (other than for training), is considered to continue on that duty during the period following the date of his discharge or release that, as determined by the Secretary concerned, is necessary for that person to go to his home by the most direct route. That period may not end before midnight of the day on which the member is discharged or released.
 
-    \[(c) Repealed. [Pub. L. 109–163, div. A, title VI, § 664(a)(2)(B)][/us/pl/109/163/s664/a/2/B], Jan. 6, 2006, [119 Stat. 3316][/us/stat/119/3316].\]
+    \[(c) Repealed. [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 664(a)(2)(B), Jan. 6, 2006, [119 Stat. 3316][/us/stat/119/3316].\]
 
     (d)
 
@@ -51,7 +51,7 @@
 
         (4) A payment pursuant to this subsection shall be paid in the same manner as provided under paragraph (4) of the prior subsection (e) of this section (as added by [section 1013(b) of Public Law 109–13][/us/pl/109/13/s1013/b]; [119 Stat. 247][/us/stat/119/247]), for payments pursuant to paragraph (3)(A) of that prior subsection.
 
-(Added [Pub. L. 85–861, § 1(32)(A)][/us/pl/85/861/s1/32/A], Sept. 2, 1958, [72 Stat. 1454][/us/stat/72/1454]; amended [Pub. L. 88–647, title III, § 301(2)][/us/pl/88/647/s301/2], Oct. 13, 1964, [78 Stat. 1071][/us/stat/78/1071]; [Pub. L. 89–718, § 11][/us/pl/89/718/s11], Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117]; [Pub. L. 102–190, div. A, title VI, § 652(a)][/us/pl/102/190/s652/a], Dec. 5, 1991, [105 Stat. 1387][/us/stat/105/1387]; [Pub. L. 108–121, title I, § 102(a)(1)][/us/pl/108/121/s102/a/1], Nov. 11, 2003, [117 Stat. 1337][/us/stat/117/1337]; [Pub. L. 108–136, div. A, title VI, § 646(a)][/us/pl/108/136/s646/a], Nov. 24, 2003, [117 Stat. 1520][/us/stat/117/1520]; [Pub. L. 108–375, div. A, title VI, § 643(b)][/us/pl/108/375/s643/b], Oct. 28, 2004, [118 Stat. 1958][/us/stat/118/1958]; [Pub. L. 109–13, div. A, title I, § 1013(a)][/us/pl/109/13/s1013/a]–(c), May 11, 2005, [119 Stat. 246–248][/us/stat/119/246-248]; [Pub. L. 109–163, div. A, title VI, § 664(a)(1)][/us/pl/109/163/s664/a/1], (2), (b), Jan. 6, 2006, [119 Stat. 3316][/us/stat/119/3316]; [Pub. L. 109–234, title I, § 1210][/us/pl/109/234/s1210], June 15, 2006, [120 Stat. 430][/us/stat/120/430]; [Pub. L. 112–81, div. A, title VI, § 651(a)(2)][/us/pl/112/81/s651/a/2], Dec. 31, 2011, [125 Stat. 1466][/us/stat/125/1466].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(32)(A), Sept. 2, 1958, [72 Stat. 1454][/us/stat/72/1454]; amended [Pub. L. 88–647, title III][/us/pl/88/647/tIII], § 301(2), Oct. 13, 1964, [78 Stat. 1071][/us/stat/78/1071]; [Pub. L. 89–718][/us/pl/89/718], § 11, Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117]; [Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], § 652(a), Dec. 5, 1991, [105 Stat. 1387][/us/stat/105/1387]; [Pub. L. 108–121, title I][/us/pl/108/121/tI], § 102(a)(1), Nov. 11, 2003, [117 Stat. 1337][/us/stat/117/1337]; [Pub. L. 108–136, div. A, title VI][/us/pl/108/136/dA/tVI], § 646(a), Nov. 24, 2003, [117 Stat. 1520][/us/stat/117/1520]; [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 643(b), Oct. 28, 2004, [118 Stat. 1958][/us/stat/118/1958]; [Pub. L. 109–13, div. A, title I][/us/pl/109/13/dA/tI], § 1013(a)–(c), May 11, 2005, [119 Stat. 246–248][/us/stat/119/246-248]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 664(a)(1), (2), (b), Jan. 6, 2006, [119 Stat. 3316][/us/stat/119/3316]; [Pub. L. 109–234, title I][/us/pl/109/234/tI], § 1210, June 15, 2006, [120 Stat. 430][/us/stat/120/430]; [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 651(a)(2), Dec. 31, 2011, [125 Stat. 1466][/us/stat/125/1466].)
 
 <table>
 
@@ -127,25 +127,25 @@ In subsection (b), the words “on or after January 1, 1957” are omitted as ex
 
  __References in Text__ 
 
-    Section 664(c) of the National Defense Authorization Act for Fiscal Year 2006, referred to in subsec. (d)(1), is [section 664(c) of title VI of div. A of Pub. L. 109–163][/us/pl/109/163/s664/c], Jan. 6, 2006, [119 Stat. 3317][/us/stat/119/3317], which is not classified to the Code.
+    Section 664(c) of the National Defense Authorization Act for Fiscal Year 2006, referred to in subsec. (d)(1), is [section 664(c) of title VI of div. A of Pub. L. 109–163][/us/pl/109/163/dA/tVI/s664/c], Jan. 6, 2006, [119 Stat. 3317][/us/stat/119/3317], which is not classified to the Code.
 
  __Amendments__ 
 
     2011—Subsec. (a)(4) to (9). [Pub. L. 112–81][/us/pl/112/81] added par. (4) and redesignated former pars. (4) to (8) as (5) to (9), respectively.
 
-    2006—Subsec. (a). [Pub. L. 109–163, § 664(a)(1)][/us/pl/109/163/s664/a/1], (2)(A), in introductory provisions, substituted “$100,000” for “$12,000” and struck out “(as adjusted under subsection (c))” before period at end of first sentence.
+    2006—Subsec. (a). [Pub. L. 109–163][/us/pl/109/163], § 664(a)(1), (2)(A), in introductory provisions, substituted “$100,000” for “$12,000” and struck out “(as adjusted under subsection (c))” before period at end of first sentence.
 
-    Subsec. (c). [Pub. L. 109–163, § 664(a)(2)(B)][/us/pl/109/163/s664/a/2/B], struck out subsec. (c) which read as follows: “Effective on the date on which rates of basic pay under [section 204 of title 37][/us/usc/t37/s204] are increased under section 1009 of that title or any other provision of law, the amount of the death gratuity in effect under subsection (a) shall be increased by the same overall average percentage of the increase in the rates of basic pay taking effect on that date.”
+    Subsec. (c). [Pub. L. 109–163][/us/pl/109/163], § 664(a)(2)(B), struck out subsec. (c) which read as follows: “Effective on the date on which rates of basic pay under [section 204 of title 37][/us/usc/t37/s204] are increased under section 1009 of that title or any other provision of law, the amount of the death gratuity in effect under subsection (a) shall be increased by the same overall average percentage of the increase in the rates of basic pay taking effect on that date.”
 
-    Subsec. (d). [Pub. L. 109–163, § 664(b)][/us/pl/109/163/s664/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–163][/us/pl/109/163], § 664(b), added subsec. (d).
 
     Subsec. (d)(2). [Pub. L. 109–234][/us/pl/109/234] substituted “August 31, 2005” for “May 11, 2005”.
 
-    2005—Subsec. (a). [Pub. L. 109–13, § 1013(a)(2)][/us/pl/109/13/s1013/a/2], (e), temporarily substituted “(as adjusted under subsection (d))” for “(as adjusted under subsection (c))” in introductory provisions. See Effective and Termination Dates of 2005 Amendments notes below.
+    2005—Subsec. (a). [Pub. L. 109–13][/us/pl/109/13], § 1013(a)(2), (e), temporarily substituted “(as adjusted under subsection (d))” for “(as adjusted under subsection (c))” in introductory provisions. See Effective and Termination Dates of 2005 Amendments notes below.
 
-    [Pub. L. 109–13, § 1013(a)(1)(A)][/us/pl/109/13/s1013/a/1/A], (e), temporarily inserted “, except as provided in subsections (c), (e), and (f)” after “$12,000” in introductory provisions. See Effective and Termination Dates of 2005 Amendments notes below.
+    [Pub. L. 109–13][/us/pl/109/13], § 1013(a)(1)(A), (e), temporarily inserted “, except as provided in subsections (c), (e), and (f)” after “$12,000” in introductory provisions. See Effective and Termination Dates of 2005 Amendments notes below.
 
-    Subsec. (c). [Pub. L. 109–13, § 1013(a)(1)(C)][/us/pl/109/13/s1013/a/1/C], (e), temporarily added subsec. (c) which read as follows: “The death gratuity payable under sections 1475 through 1477 of this title is $100,000 in the case of a death resulting from wounds, injuries, or illnesses that are—
+    Subsec. (c). [Pub. L. 109–13][/us/pl/109/13], § 1013(a)(1)(C), (e), temporarily added subsec. (c) which read as follows: “The death gratuity payable under sections 1475 through 1477 of this title is $100,000 in the case of a death resulting from wounds, injuries, or illnesses that are—
 
     “(1) incurred as described in [section 1413a(e)(2) of this title][/us/usc/t10/s1413a/e/2]; or
 
@@ -153,9 +153,9 @@ In subsection (b), the words “on or after January 1, 1957” are omitted as ex
 
     Former subsec. (c) temporarily redesignated (d). See Effective and Termination Dates of 2005 Amendments notes below.
 
-    Subsec. (d). [Pub. L. 109–13, § 1013(a)(1)(B)][/us/pl/109/13/s1013/a/1/B], (e), temporarily redesignated subsec. (c) as (d). See Effective and Termination Dates of 2005 Amendments notes below.
+    Subsec. (d). [Pub. L. 109–13][/us/pl/109/13], § 1013(a)(1)(B), (e), temporarily redesignated subsec. (c) as (d). See Effective and Termination Dates of 2005 Amendments notes below.
 
-    Subsec. (e). [Pub. L. 109–13, § 1013(b)][/us/pl/109/13/s1013/b], (e), temporarily added subsec. (e) which read as follows:
+    Subsec. (e). [Pub. L. 109–13][/us/pl/109/13], § 1013(b), (e), temporarily added subsec. (e) which read as follows:
 
     “(e)(1) In the case of a person described in paragraph (2), a death gratuity shall be payable in accordance with this subsection for the death of such person that is in addition to the death gratuity payable in the case of such death under subsection (a).
 
@@ -179,7 +179,7 @@ In subsection (b), the words “on or after January 1, 1957” are omitted as ex
 
     “(5) A payment pursuant to paragraph (3)(B) by reason of a death covered by this subsection shall be paid equal shares to the beneficiaries who were paid the death gratuity that was paid with respect to that death under this section.” See Effective and Termination Dates of 2005 Amendments notes below.
 
-    Subsec. (f). [Pub. L. 109–13, § 1013(c)][/us/pl/109/13/s1013/c], (e), temporarily added subsec. (f) which read as follows:
+    Subsec. (f). [Pub. L. 109–13][/us/pl/109/13], § 1013(c), (e), temporarily added subsec. (f) which read as follows:
 
     “(f)(1) In the case of a person described in paragraph (2), a death gratuity shall be payable in accordance with this subsection for the death of such person that is in addition to the death gratuity payable in the case of such death under subsection (e).
 
@@ -199,9 +199,9 @@ In subsection (b), the words “on or after January 1, 1957” are omitted as ex
 
     See Effective and Termination Dates of 2005 Amendments notes below.
 
-    2004—Subsec. (a). [Pub. L. 108–375, § 643(b)(1)][/us/pl/108/375/s643/b/1], inserted “(as adjusted under subsection (c))” before period in introductory provisions.
+    2004—Subsec. (a). [Pub. L. 108–375][/us/pl/108/375], § 643(b)(1), inserted “(as adjusted under subsection (c))” before period in introductory provisions.
 
-    Subsec. (c). [Pub. L. 108–375, § 643(b)(2)][/us/pl/108/375/s643/b/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 108–375][/us/pl/108/375], § 643(b)(2), added subsec. (c).
 
     2003—Subsec. (a). [Pub. L. 108–121][/us/pl/108/121] and [Pub. L. 108–136][/us/pl/108/136] amended subsec. (a) identically, substituting “$12,000” for “$6,000” in introductory provisions.
 
@@ -217,19 +217,19 @@ In subsection (b), the words “on or after January 1, 1957” are omitted as ex
 
  __Effective Date of 2006 Amendment__ 
 
-    [Pub. L. 109–234, title I, § 1210][/us/pl/109/234/s1210], June 15, 2006, [120 Stat. 430][/us/stat/120/430], provided that the amendment made by section 1210 is effective as of Jan. 6, 2006, and as if included in the enactment of [Pub. L. 109–163][/us/pl/109/163].
+    [Pub. L. 109–234, title I][/us/pl/109/234/tI], § 1210, June 15, 2006, [120 Stat. 430][/us/stat/120/430], provided that the amendment made by section 1210 is effective as of Jan. 6, 2006, and as if included in the enactment of [Pub. L. 109–163][/us/pl/109/163].
 
-[Pub. L. 109–163, div. A, title VI, § 664(a)(3)][/us/pl/109/163/s664/a/3], Jan. 6, 2006, [119 Stat. 3316][/us/stat/119/3316], provided that: 
+[Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 664(a)(3), Jan. 6, 2006, [119 Stat. 3316][/us/stat/119/3316], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect as of October 7, 2001, and shall apply to deaths occurring on or after the date of the enactment of this Act \[Jan. 6, 2006\] and, subject to subsection (c) \[[119 Stat. 3317][/us/stat/119/3317]\], to deaths occurring during the period beginning on October 7, 2001, and ending on the day before the date of the enactment of this Act.”
 
  __Effective and Termination Dates of 2005 Amendments__ 
 
-[Pub. L. 109–77, § 115][/us/pl/109/77/s115], Sept. 30, 2005, [119 Stat. 2040][/us/stat/119/2040], provided that: 
+[Pub. L. 109–77][/us/pl/109/77], § 115, Sept. 30, 2005, [119 Stat. 2040][/us/stat/119/2040], provided that: 
 
 > “The provisions of, and amendments made by, sections 1011, 1012, 1013, 1023, and 1026 of [Public Law 109–13][/us/pl/109/13] \[amending this section, [section 411h of Title 37][/us/usc/t37/s411h], Pay and Allowances of the Uniformed Services, and sections 1967, 1969, 1970, and 1977 of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under this section, [section 411h of Title 37][/us/usc/t37/s411h], and [section 1967 of Title 38][/us/usc/t38/s1967]\] shall continue in effect, notwithstanding the fiscal year limitation in section 1011 \[[119 Stat. 244][/us/stat/119/244]\] and the provisions of sections 1012(i), 1013(e), 1023(c), and 1026(e) of that Public Law \[enacting provisions set out as notes under this section, [section 411h of Title 37][/us/usc/t37/s411h], and [section 1967 of Title 38][/us/usc/t38/s1967]\], through the earlier of: (1) the date specified in section 106(3) of this joint resolution \[Dec. 31, 2005\]; or (2) with respect to any such section of [Public Law 109–13][/us/pl/109/13], the date of the enactment into law of legislation that supersedes the provisions of, or the amendments made by, that section.”
 
-[Pub. L. 109–13, div. A, title I, § 1013(d)][/us/pl/109/13/s1013/d], (e), May 11, 2005, [119 Stat. 248][/us/stat/119/248], provided that:
+[Pub. L. 109–13, div. A, title I][/us/pl/109/13/dA/tI], § 1013(d), (e), May 11, 2005, [119 Stat. 248][/us/stat/119/248], provided that:
 
 >     “(d)  __Effective Date__  __.—__ 
 
@@ -247,17 +247,17 @@ In subsection (b), the words “on or after January 1, 1957” are omitted as ex
 
  __Effective Date of 2003 Amendments__ 
 
-[Pub. L. 108–136, div. A, title VI, § 646(b)][/us/pl/108/136/s646/b], Nov. 24, 2003, [117 Stat. 1520][/us/stat/117/1520], provided that: 
+[Pub. L. 108–136, div. A, title VI][/us/pl/108/136/dA/tVI], § 646(b), Nov. 24, 2003, [117 Stat. 1520][/us/stat/117/1520], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as of September 11, 2001, and shall apply with respect to deaths occurring on or after that date.”
 
-[Pub. L. 108–121, title I, § 102(a)(2)][/us/pl/108/121/s102/a/2], Nov. 11, 2003, [117 Stat. 1337][/us/stat/117/1337], provided that: 
+[Pub. L. 108–121, title I][/us/pl/108/121/tI], § 102(a)(2), Nov. 11, 2003, [117 Stat. 1337][/us/stat/117/1337], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall take effect as of September 11, 2001, and shall apply with respect to deaths occurring on or after that date.”
 
  __Effective Date of 1991 Amendment; Transition Provision__ 
 
-[Pub. L. 102–190, div. A, title VI, § 652(b)][/us/pl/102/190/s652/b], Dec. 5, 1991, [105 Stat. 1388][/us/stat/105/1388], provided that:
+[Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], § 652(b), Dec. 5, 1991, [105 Stat. 1388][/us/stat/105/1388], provided that:
 
 >     “(1) The amendments made by subsection (a) \[amending this section\] shall take effect as of August 2, 1990.
 
@@ -265,13 +265,13 @@ In subsection (b), the words “on or after January 1, 1957” are omitted as ex
 
  __Temporary Increase in Amount of Death Gratuity; Persian Gulf Conflict__ 
 
-[Pub. L. 102–25, title III, § 307][/us/pl/102/25/s307], Apr. 6, 1991, [105 Stat. 82][/us/stat/105/82], provided that: 
+[Pub. L. 102–25, title III][/us/pl/102/25/tIII], § 307, Apr. 6, 1991, [105 Stat. 82][/us/stat/105/82], provided that: 
 
 > “In lieu of the amount of the death gratuity specified in [section 1478(a) of title 10][/us/usc/t10/s1478/a], United States Code, the amount of the death gratuity payable under that section shall be $6,000 for a death resulting from any injury or illness incurred during the Persian Gulf conflict or during the 180-day period beginning at the end of the Persian Gulf conflict.”
 
  __Death Gratuity for Certain Participants Who Died Between__  __August 1, 1990__  __, and__  __April 6, 1991__ 
 
-    [Pub. L. 102–25, title III, § 308][/us/pl/102/25/s308], Apr. 6, 1991, [105 Stat. 83][/us/stat/105/83], required Secretary of Defense to pay death gratuity to each SGLI beneficiary of each deceased member of uniformed services who died after Aug. 1, 1990, and before Apr. 6, 1991, and whose death was in conjunction with or in support of Operation Desert Storm, or attributable to hostile action in regions other than Persian Gulf, as prescribed in regulations set forth by Secretary of Defense.
+    [Pub. L. 102–25, title III][/us/pl/102/25/tIII], § 308, Apr. 6, 1991, [105 Stat. 83][/us/stat/105/83], required Secretary of Defense to pay death gratuity to each SGLI beneficiary of each deceased member of uniformed services who died after Aug. 1, 1990, and before Apr. 6, 1991, and whose death was in conjunction with or in support of Operation Desert Storm, or attributable to hostile action in regions other than Persian Gulf, as prescribed in regulations set forth by Secretary of Defense.
 
 ----------
 
@@ -291,58 +291,58 @@ In subsection (b), the words “on or after January 1, 1957” are omitted as ex
 [/us/usc/t37/s209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs209%2Fc
 [/us/usc/t10/s1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1475
 [/us/usc/t10/s1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1476
-[/us/pl/109/163/s664/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs664%2Fa%2F2%2FB
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3316
 [/us/pl/109/13/s1013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs1013%2Fb
 [/us/stat/119/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F247
 [/us/pl/109/13/s1013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs1013%2Fb
 [/us/stat/119/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F247
-[/us/pl/85/861/s1/32/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F32%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1454
-[/us/pl/88/647/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2Fs301%2F2
+[/us/pl/88/647/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2FtIII
 [/us/stat/78/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1071
-[/us/pl/89/718/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs11
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1117
-[/us/pl/102/190/s652/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs652%2Fa
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1387
-[/us/pl/108/121/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs102%2Fa%2F1
+[/us/pl/108/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2FtI
 [/us/stat/117/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1337
-[/us/pl/108/136/s646/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs646%2Fa
+[/us/pl/108/136/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVI
 [/us/stat/117/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1520
-[/us/pl/108/375/s643/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs643%2Fb
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1958
-[/us/pl/109/13/s1013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs1013%2Fa
+[/us/pl/109/13/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtI
 [/us/stat/119/246-248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F246-248
-[/us/pl/109/163/s664/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs664%2Fa%2F1
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3316
-[/us/pl/109/234/s1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2Fs1210
+[/us/pl/109/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2FtI
 [/us/stat/120/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F430
-[/us/pl/112/81/s651/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs651%2Fa%2F2
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1466
 [/us/usc/t10/s101/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F27
 [/us/usc/t10/s1475/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1475%2Fa%2F1
 [/us/usc/t10/s101/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F27
 [/us/usc/t10/s101/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F22
-[/us/pl/109/163/s664/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs664%2Fc
+[/us/pl/109/163/dA/tVI/s664/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI%2Fs664%2Fc
 [/us/stat/119/3317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3317
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/109/163/s664/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs664%2Fa%2F1
-[/us/pl/109/163/s664/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs664%2Fa%2F2%2FB
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/usc/t37/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs204
-[/us/pl/109/163/s664/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs664%2Fb
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234
-[/us/pl/109/13/s1013/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs1013%2Fa%2F2
-[/us/pl/109/13/s1013/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs1013%2Fa%2F1%2FA
-[/us/pl/109/13/s1013/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs1013%2Fa%2F1%2FC
+[/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
+[/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
+[/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
 [/us/usc/t10/s1413a/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1413a%2Fe%2F2
 [/us/usc/t38/s1967/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1967%2Fe%2F1%2FA
-[/us/pl/109/13/s1013/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs1013%2Fa%2F1%2FB
-[/us/pl/109/13/s1013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs1013%2Fb
+[/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
+[/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
 [/us/usc/t10/s1413a/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1413a%2Fe%2F2
-[/us/pl/109/13/s1013/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs1013%2Fc
+[/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
 [/us/usc/t10/s1413a/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1413a%2Fe%2F2
-[/us/pl/108/375/s643/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs643%2Fb%2F1
-[/us/pl/108/375/s643/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs643%2Fb%2F2
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/108/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
@@ -354,13 +354,13 @@ In subsection (b), the words “on or after January 1, 1957” are omitted as ex
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/112/81/s651/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs651%2Fc
 [/us/usc/t10/s1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1475
-[/us/pl/109/234/s1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2Fs1210
+[/us/pl/109/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2FtI
 [/us/stat/120/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F430
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/109/163/s664/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs664%2Fa%2F3
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3316
 [/us/stat/119/3317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3317
-[/us/pl/109/77/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F77%2Fs115
+[/us/pl/109/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F77
 [/us/stat/119/2040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2040
 [/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
 [/us/usc/t37/s411h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs411h
@@ -370,20 +370,20 @@ In subsection (b), the words “on or after January 1, 1957” are omitted as ex
 [/us/usc/t37/s411h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs411h
 [/us/usc/t38/s1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1967
 [/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
-[/us/pl/109/13/s1013/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs1013%2Fd
+[/us/pl/109/13/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtI
 [/us/stat/119/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F248
 [/us/usc/t10/s1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1478
 [/us/usc/t10/s1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1478
-[/us/pl/108/136/s646/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs646%2Fb
+[/us/pl/108/136/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVI
 [/us/stat/117/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1520
-[/us/pl/108/121/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs102%2Fa%2F2
+[/us/pl/108/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2FtI
 [/us/stat/117/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1337
-[/us/pl/102/190/s652/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs652%2Fb
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1388
-[/us/pl/102/25/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs307
+[/us/pl/102/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtIII
 [/us/stat/105/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F82
 [/us/usc/t10/s1478/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1478%2Fa
-[/us/pl/102/25/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs308
+[/us/pl/102/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtIII
 [/us/stat/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F83
 
 

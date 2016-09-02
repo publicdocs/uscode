@@ -17,7 +17,7 @@
 
     The Secretary of the Army shall biennially submit to the Congress a report that specifies the overall expenditures for programs and activities under this chapter and any progress made with respect to achieving financial self-sufficiency of the programs and activities.
 
-(Added [Pub. L. 102–484, div. A, title III, § 380(d)(1)][/us/pl/102/484/s380/d/1], Oct. 23, 1992, [106 Stat. 2391][/us/stat/106/2391]; amended [Pub. L. 104–106, div. A, title XVI, § 1624(b)(2)][/us/pl/104/106/s1624/b/2], Feb. 10, 1996, [110 Stat. 522][/us/stat/110/522].)
+(Added [Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 380(d)(1), Oct. 23, 1992, [106 Stat. 2391][/us/stat/106/2391]; amended [Pub. L. 104–106, div. A, title XVI][/us/pl/104/106/dA/tXVI], § 1624(b)(2), Feb. 10, 1996, [110 Stat. 522][/us/stat/110/522].)
 
  __Codification__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–106, div. A, title XVI, § 1624(c)][/us/pl/104/106/s1624/c], Feb. 10, 1996, [110 Stat. 522][/us/stat/110/522], provided that: 
+[Pub. L. 104–106, div. A, title XVI][/us/pl/104/106/dA/tXVI], § 1624(c), Feb. 10, 1996, [110 Stat. 522][/us/stat/110/522], provided that: 
 
 > “The amendments made by this section \[amending this section, [section 4313 of this title][/us/usc/t10/s4313], and [section 925 of Title 18][/us/usc/t18/s925], Crimes and Criminal Procedure, and repealing sections 4307, 4308, 4310, and 4311 of this title\] shall take effect on the earlier of—
 
@@ -48,13 +48,13 @@
 ----------
 ----------
 
-[/us/pl/102/484/s380/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs380%2Fd%2F1
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2391
-[/us/pl/104/106/s1624/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1624%2Fb%2F2
+[/us/pl/104/106/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXVI
 [/us/stat/110/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F522
 [/us/usc/t10/s4317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4317
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/104/106/s1624/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1624%2Fc
+[/us/pl/104/106/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXVI
 [/us/stat/110/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F522
 [/us/usc/t10/s4313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4313
 [/us/usc/t18/s925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs925

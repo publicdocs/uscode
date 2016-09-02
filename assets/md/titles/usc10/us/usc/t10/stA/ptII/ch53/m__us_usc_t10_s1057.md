@@ -21,7 +21,7 @@
 
     (c) In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, and American Samoa.
 
-(Added [Pub. L. 102–484, div. A, title X, § 1080(a)][/us/pl/102/484/s1080/a], Oct. 23, 1992, [106 Stat. 2514][/us/stat/106/2514].)
+(Added [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1080(a), Oct. 23, 1992, [106 Stat. 2514][/us/stat/106/2514].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/484/s1080/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1080%2Fa
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2514
 
 

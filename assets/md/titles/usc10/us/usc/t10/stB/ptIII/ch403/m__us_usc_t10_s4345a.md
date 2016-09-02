@@ -33,7 +33,7 @@
 
         (2) Expenditures from appropriated funds in support of activities under this section may not exceed $40,000 during any fiscal year.
 
-(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 541(a)(1), Oct. 14, 2008, [122 Stat. 4454][/us/stat/122/4454]; amended [Pub. L. 113–291, div. A, title V, § 553(a)][/us/pl/113/291/s553/a], Dec. 19, 2014, [128 Stat. 3377][/us/stat/128/3377].)
+(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 541(a)(1), Oct. 14, 2008, [122 Stat. 4454][/us/stat/122/4454]; amended [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 553(a), Dec. 19, 2014, [128 Stat. 3377][/us/stat/128/3377].)
 
  __Amendments__ 
 
@@ -48,7 +48,7 @@
 
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4454
-[/us/pl/113/291/s553/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs553%2Fa
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3377
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 

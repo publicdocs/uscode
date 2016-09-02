@@ -17,7 +17,7 @@
 
     When ordered to active duty, a member of the Navy Reserve or the Marine Corps Reserve who is a member of the Naval Militia is relieved from all service and duty in the Naval Militia from the date of active duty specified in his orders until he is released from active duty.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 486][/us/stat/70A/486]; [Pub. L. 109–163, div. A, title V, § 515(b)(1)(X)][/us/pl/109/163/s515/b/1/X], Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 486][/us/stat/70A/486]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(X), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
 
 <table>
 
@@ -63,7 +63,7 @@ July 9, 1952, ch. 608, § 503, 66 Stat. 500.  </td>
 
 </table>
 
-    The words “in the service of the United States” are omitted as covered by the definition of “active duty” in [§ 101 of this title][/us/usc/t10/s101]. The words “is relieved” are substituted for the words “shall stand relieved”.
+    The words “in the service of the United States” are omitted as covered by the definition of “active duty” in § 101 of this title. The words “is relieved” are substituted for the words “shall stand relieved”.
 
  __Amendments__ 
 
@@ -78,9 +78,8 @@ July 9, 1952, ch. 608, § 503, 66 Stat. 500.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F486
-[/us/pl/109/163/s515/b/1/X]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FX
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3233
-[/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 
 

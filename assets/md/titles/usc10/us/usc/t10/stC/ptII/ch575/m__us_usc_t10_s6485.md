@@ -27,7 +27,7 @@
 
     (b) In time of peace any member of the Fleet Reserve or the Fleet Marine Corps Reserve may be required to perform not more than two months’ active duty for training in each four-year period.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 417][/us/stat/70A/417]; [Pub. L. 95–79, title VIII, § 805][/us/pl/95/79/s805], July 30, 1977, [91 Stat. 333][/us/stat/91/333].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 417][/us/stat/70A/417]; [Pub. L. 95–79, title VIII][/us/pl/95/79/tVIII], § 805, July 30, 1977, [91 Stat. 333][/us/stat/91/333].)
 
 <table>
 
@@ -122,7 +122,7 @@ July 9, 1952, ch. 608, § 803 (3d sentence), 66 Stat. 505.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F417
-[/us/pl/95/79/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2Fs805
+[/us/pl/95/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2FtVIII
 [/us/stat/91/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F333
 [/us/usc/t34/s854d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs854d
 [/us/pl/95/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79

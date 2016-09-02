@@ -37,7 +37,7 @@
 
     (5) 50 days for each year before July 1, 1949, and proportionately for each fraction of a year, of service (other than active service) in a reserve component of an armed force, in the Army or the Air Force without component, or in any other category covered by [section 12732(a)(1) of this title][/us/usc/t10/s12732/a/1], except a regular component.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 103][/us/stat/70A/103], § 1333; [Pub. L. 85–861, § 33(a)(10)][/us/pl/85/861/s33/a/10], Sept. 2, 1958, [72 Stat. 1565][/us/stat/72/1565]; renumbered § 12733 and amended [Pub. L. 103–337, div. A, title XVI, § 1662(j)(1)][/us/pl/103/337/s1662/j/1], Oct. 5, 1994, [108 Stat. 2998][/us/stat/108/2998], 3002; [Pub. L. 104–201, div. A, title V][/us/pl/104/201], §§ 531(a), 543(b)(2), Sept. 23, 1996, [110 Stat. 2517][/us/stat/110/2517], 2522; [Pub. L. 105–85, div. A, title X, § 1073(a)(67)][/us/pl/105/85/s1073/a/67], (c)(4), Nov. 18, 1997, [111 Stat. 1904][/us/stat/111/1904]; [Pub. L. 106–65, div. A, title V, § 578(h)(2)][/us/pl/106/65/s578/h/2], Oct. 5, 1999, [113 Stat. 628][/us/stat/113/628]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 652\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–163; [Pub. L. 107–107, div. A, title X, § 1048(c)(16)][/us/pl/107/107/s1048/c/16], Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227]; [Pub. L. 110–181, div. A, title VI, § 648][/us/pl/110/181/s648], Jan. 28, 2008, [122 Stat. 161][/us/stat/122/161].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 103][/us/stat/70A/103], § 1333; [Pub. L. 85–861][/us/pl/85/861], § 33(a)(10), Sept. 2, 1958, [72 Stat. 1565][/us/stat/72/1565]; renumbered § 12733 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(j)(1), Oct. 5, 1994, [108 Stat. 2998][/us/stat/108/2998], 3002; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], §§ 531(a), 543(b)(2), Sept. 23, 1996, [110 Stat. 2517][/us/stat/110/2517], 2522; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(67), (c)(4), Nov. 18, 1997, [111 Stat. 1904][/us/stat/111/1904]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 578(h)(2), Oct. 5, 1999, [113 Stat. 628][/us/stat/113/628]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 652\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–163; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(c)(16), Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227]; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 648, Jan. 28, 2008, [122 Stat. 161][/us/stat/122/161].)
 
 <table>
 
@@ -137,21 +137,21 @@ Clause (1) is substituted for 10:1036b(i). In clause (3), the words “and propo
 
     2008—Par. (3)(B) to (D). [Pub. L. 110–181][/us/pl/110/181] struck out “and” at end of subpar. (B), substituted “before the year of service that includes October 30, 2007; and” for period at end of subpar. (C), and added subpar. (D).
 
-    2001—Par. (3)(B). [Pub. L. 107–107, § 1048(c)(16)(A)][/us/pl/107/107/s1048/c/16/A], substituted “October 30, 2000” for “the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001”.
+    2001—Par. (3)(B). [Pub. L. 107–107][/us/pl/107/107], § 1048(c)(16)(A), substituted “October 30, 2000” for “the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001”.
 
-    Par. (3)(C). [Pub. L. 107–107, § 1048(c)(16)(B)][/us/pl/107/107/s1048/c/16/B], substituted “October 30, 2000,” for “the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001”.
+    Par. (3)(C). [Pub. L. 107–107][/us/pl/107/107], § 1048(c)(16)(B), substituted “October 30, 2000,” for “the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001”.
 
     2000—Par. (3). [Pub. L. 106–398][/us/pl/106/398] substituted “but not more than—” and subpars. (A) to (C) for “but not more than 60 days in any one year of service before the year of service that includes September 23, 1996, and not more than 75 days in any subsequent year of service.”
 
     1999—Pars. (4), (5). [Pub. L. 106–65][/us/pl/106/65] added par. (4) and redesignated former par. (4) as (5).
 
-    1997—Par. (3). [Pub. L. 105–85, § 1073(c)(4)][/us/pl/105/85/s1073/c/4], made technical correction to directory language of [Pub. L. 104–201, § 531(a)][/us/pl/104/201/s531/a]. See 1996 Amendment note below.
+    1997—Par. (3). [Pub. L. 105–85][/us/pl/105/85], § 1073(c)(4), made technical correction to directory language of [Pub. L. 104–201][/us/pl/104/201], § 531(a). See 1996 Amendment note below.
 
-    [Pub. L. 105–85, § 1073(a)(67)][/us/pl/105/85/s1073/a/67], inserted a comma after “(B)” and substituted “that includes September 23, 1996,” for “in which the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997 occurs”.
+    [Pub. L. 105–85][/us/pl/105/85], § 1073(a)(67), inserted a comma after “(B)” and substituted “that includes September 23, 1996,” for “in which the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997 occurs”.
 
-    1996—Par. (3). [Pub. L. 104–201, § 543(b)(2)][/us/pl/104/201/s543/b/2], substituted “(C), or (D)” for “or (C)”.
+    1996—Par. (3). [Pub. L. 104–201][/us/pl/104/201], § 543(b)(2), substituted “(C), or (D)” for “or (C)”.
 
-    [Pub. L. 104–201, § 531(a)][/us/pl/104/201/s531/a], as amended by [Pub. L. 105–85, § 1073(c)(4)][/us/pl/105/85/s1073/c/4], inserted before period at end “of service before the year of service in which the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997 occurs and not more than 75 days in any subsequent year of service”.
+    [Pub. L. 104–201][/us/pl/104/201], § 531(a), as amended by [Pub. L. 105–85][/us/pl/105/85], § 1073(c)(4), inserted before period at end “of service before the year of service in which the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997 occurs and not more than 75 days in any subsequent year of service”.
 
     1994—[Pub. L. 103–337][/us/pl/103/337] renumbered [section 1333 of this title][/us/usc/t10/s1333] as this section, substituted “Computation of retired pay: computation of years of service” for “Computation of years of service in computing retired pay” as section catchline, and amended text generally, changing style and references to other sections.
 
@@ -159,7 +159,7 @@ Clause (1) is substituted for 10:1036b(i). In clause (3), the words “and propo
 
  __Effective Date of 1997 Amendment__ 
 
-    [Pub. L. 105–85, div. A, title X, § 1073(c)][/us/pl/105/85/s1073/c], Nov. 18, 1997, [111 Stat. 1904][/us/stat/111/1904], provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, [Pub. L. 104–201][/us/pl/104/201], as enacted.
+    [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(c), Nov. 18, 1997, [111 Stat. 1904][/us/stat/111/1904], provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, [Pub. L. 104–201][/us/pl/104/201], as enacted.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -181,39 +181,39 @@ Clause (1) is substituted for 10:1036b(i). In clause (3), the words “and propo
 [/us/usc/t10/s12732/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12732%2Fa%2F1
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F103
-[/us/pl/85/861/s33/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F10
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1565
-[/us/pl/103/337/s1662/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fj%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2998
-[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2517
-[/us/pl/105/85/s1073/a/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F67
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1904
-[/us/pl/106/65/s578/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs578%2Fh%2F2
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F628
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s1048/c/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fc%2F16
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1227
-[/us/pl/110/181/s648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs648
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F161
 [/us/stat/62/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1088
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/107/107/s1048/c/16/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fc%2F16%2FA
-[/us/pl/107/107/s1048/c/16/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fc%2F16%2FB
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/105/85/s1073/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fc%2F4
-[/us/pl/104/201/s531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs531%2Fa
-[/us/pl/105/85/s1073/a/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F67
-[/us/pl/104/201/s543/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs543%2Fb%2F2
-[/us/pl/104/201/s531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs531%2Fa
-[/us/pl/105/85/s1073/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fc%2F4
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1333
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/usc/t10/s1332/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1332%2Fa%2F2%2FA
-[/us/pl/105/85/s1073/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fc
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1904
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

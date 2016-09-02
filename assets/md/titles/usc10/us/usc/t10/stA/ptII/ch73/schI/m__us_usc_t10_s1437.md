@@ -55,7 +55,7 @@
 
             (B) If the member dies before the full recovery of the amount of annuity payments described in subparagraph (A) has been made by the United States, the remaining amount of such annuity payments may be collected from the member’s beneficiary under this subchapter if that beneficiary was the recipient of the annuity payments made by reason of this subsection.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 110][/us/stat/70A/110]; [Pub. L. 90–485, § 1(7)][/us/pl/90/485/s1/7], Aug. 13, 1968, [82 Stat. 753][/us/stat/82/753]; [Pub. L. 92–425, § 1(2)(A)][/us/pl/92/425/s1/2/A], Sept. 21, 1972, [86 Stat. 706][/us/stat/86/706]; [Pub. L. 96–513, title V, § 511(57)][/us/pl/96/513/s511/57], Dec. 12, 1980, [94 Stat. 2925][/us/stat/94/2925]; [Pub. L. 98–94, title IX, § 922(a)(14)(A)][/us/pl/98/94/s922/a/14/A], Sept. 24, 1983, [97 Stat. 642][/us/stat/97/642]; [Pub. L. 98–525, title VI, § 642(a)(1)][/us/pl/98/525/s642/a/1], Oct. 19, 1984, [98 Stat. 2545][/us/stat/98/2545]; [Pub. L. 99–145, title XIII, § 1303(a)(9)][/us/pl/99/145/s1303/a/9], Nov. 8, 1985, [99 Stat. 739][/us/stat/99/739].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 110][/us/stat/70A/110]; [Pub. L. 90–485][/us/pl/90/485], § 1(7), Aug. 13, 1968, [82 Stat. 753][/us/stat/82/753]; [Pub. L. 92–425][/us/pl/92/425], § 1(2)(A), Sept. 21, 1972, [86 Stat. 706][/us/stat/86/706]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(57), Dec. 12, 1980, [94 Stat. 2925][/us/stat/94/2925]; [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], § 922(a)(14)(A), Sept. 24, 1983, [97 Stat. 642][/us/stat/97/642]; [Pub. L. 98–525, title VI][/us/pl/98/525/tVI], § 642(a)(1), Oct. 19, 1984, [98 Stat. 2545][/us/stat/98/2545]; [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1303(a)(9), Nov. 8, 1985, [99 Stat. 739][/us/stat/99/739].)
 
 <table>
 
@@ -107,9 +107,9 @@ Aug. 8, 1953, ch. 393, § 10, 67 Stat. 504.  </td>
 
     1985—Subsec. (c)(3)(A). [Pub. L. 99–145][/us/pl/99/145] struck out “(notwithstanding [section 144 of this title][/us/usc/t10/s144])” after “which”.
 
-    1984—Subsec. (a). [Pub. L. 98–525, § 642(a)(1)(A)][/us/pl/98/525/s642/a/1/A], substituted “subsections (b) and (c),” for “subsection (b)”.
+    1984—Subsec. (a). [Pub. L. 98–525][/us/pl/98/525], § 642(a)(1)(A), substituted “subsections (b) and (c),” for “subsection (b)”.
 
-    Subsec. (c). [Pub. L. 98–525, § 642(a)(1)(B)][/us/pl/98/525/s642/a/1/B], added subsec. (c).
+    Subsec. (c). [Pub. L. 98–525][/us/pl/98/525], § 642(a)(1)(B), added subsec. (c).
 
     1983—Subsec. (a). [Pub. L. 98–94][/us/pl/98/94] inserted “The monthly amount of an annuity payable under this subchapter, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
 
@@ -142,22 +142,22 @@ Aug. 8, 1953, ch. 393, § 10, 67 Stat. 504.  </td>
 [/us/usc/t10/s1444/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1444%2Fa
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F110
-[/us/pl/90/485/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F485%2Fs1%2F7
+[/us/pl/90/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F485
 [/us/stat/82/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F753
-[/us/pl/92/425/s1/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425%2Fs1%2F2%2FA
+[/us/pl/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425
 [/us/stat/86/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F706
-[/us/pl/96/513/s511/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F57
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2925
-[/us/pl/98/94/s922/a/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs922%2Fa%2F14%2FA
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F642
-[/us/pl/98/525/s642/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs642%2Fa%2F1
+[/us/pl/98/525/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVI
 [/us/stat/98/2545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2545
-[/us/pl/99/145/s1303/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1303%2Fa%2F9
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F739
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/usc/t10/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs144
-[/us/pl/98/525/s642/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs642%2Fa%2F1%2FA
-[/us/pl/98/525/s642/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs642%2Fa%2F1%2FB
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425

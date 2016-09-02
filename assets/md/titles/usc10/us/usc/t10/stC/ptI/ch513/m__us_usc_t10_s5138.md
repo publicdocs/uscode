@@ -31,7 +31,7 @@
 
         (3) serve as the advisor for the Bureau on all matters relating directly to dentistry.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 286][/us/stat/70A/286]; [Pub. L. 87–649, § 14c(17)][/us/pl/87/649/s14c/17], Sept. 7, 1962, [76 Stat. 501][/us/stat/76/501]; [Pub. L. 96–513, title III, § 342][/us/pl/96/513/s342], Dec. 12, 1980, [94 Stat. 2901][/us/stat/94/2901]; [Pub. L. 97–86, title IV, § 405(b)(1)][/us/pl/97/86/s405/b/1], Dec. 1, 1981, [95 Stat. 1105][/us/stat/95/1105]; [Pub. L. 99–145, title V, § 514(b)(1)][/us/pl/99/145/s514/b/1], Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628]; [Pub. L. 109–364, div. A, title V, § 593(a)][/us/pl/109/364/s593/a]–(d)(1), Oct. 17, 2006, [120 Stat. 2234][/us/stat/120/2234].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 286][/us/stat/70A/286]; [Pub. L. 87–649][/us/pl/87/649], § 14c(17), Sept. 7, 1962, [76 Stat. 501][/us/stat/76/501]; [Pub. L. 96–513, title III][/us/pl/96/513/tIII], § 342, Dec. 12, 1980, [94 Stat. 2901][/us/stat/94/2901]; [Pub. L. 97–86, title IV][/us/pl/97/86/tIV], § 405(b)(1), Dec. 1, 1981, [95 Stat. 1105][/us/stat/95/1105]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 514(b)(1), Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 593(a)–(d)(1), Oct. 17, 2006, [120 Stat. 2234][/us/stat/120/2234].)
 
 <table>
 
@@ -95,17 +95,17 @@ Dec. 28, 1945, ch. 604, § 3, 59 Stat. 666; Aug. 7, 1947, ch. 512, § 427, 6
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–364, § 593(d)(1)][/us/pl/109/364/s593/d/1], substituted “Dental Corps” for “Dental Division” in section catchline.
+    2006—[Pub. L. 109–364][/us/pl/109/364], § 593(d)(1), substituted “Dental Corps” for “Dental Division” in section catchline.
 
-    Subsec. (a). [Pub. L. 109–364, § 593(a)(1)][/us/pl/109/364/s593/a/1], substituted “Chief of the Dental Corps” for “Chief of the Dental Division” and struck out first sentence which read as follows: “There is a Dental Division in the Bureau of Medicine and Surgery.”
+    Subsec. (a). [Pub. L. 109–364][/us/pl/109/364], § 593(a)(1), substituted “Chief of the Dental Corps” for “Chief of the Dental Division” and struck out first sentence which read as follows: “There is a Dental Division in the Bureau of Medicine and Surgery.”
 
-    Subsec. (b). [Pub. L. 109–364, § 593(a)(2)][/us/pl/109/364/s593/a/2], substituted “Dental Corps” for “Dental Division”.
+    Subsec. (b). [Pub. L. 109–364][/us/pl/109/364], § 593(a)(2), substituted “Dental Corps” for “Dental Division”.
 
-    Subsec. (c). [Pub. L. 109–364, § 593(c)][/us/pl/109/364/s593/c], substituted “shall be defined” for “shall be so defined” and “so that all such functions are” for “that all such functions will be”.
+    Subsec. (c). [Pub. L. 109–364][/us/pl/109/364], § 593(c), substituted “shall be defined” for “shall be so defined” and “so that all such functions are” for “that all such functions will be”.
 
-    [Pub. L. 109–364, § 593(a)(3)][/us/pl/109/364/s593/a/3], substituted “Dental Corps” for “Dental Division” in first sentence and “the Chief of the Dental Corps” for “that Division” in second sentence.
+    [Pub. L. 109–364][/us/pl/109/364], § 593(a)(3), substituted “Dental Corps” for “Dental Division” in first sentence and “the Chief of the Dental Corps” for “that Division” in second sentence.
 
-    Subsec. (d). [Pub. L. 109–364, § 593(b)][/us/pl/109/364/s593/b], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Dental Division shall—
+    Subsec. (d). [Pub. L. 109–364][/us/pl/109/364], § 593(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Dental Division shall—
 
     “(1) establish professional standards and policies for dental practice;
 
@@ -145,22 +145,22 @@ Dec. 28, 1945, ch. 604, § 3, 59 Stat. 666; Aug. 7, 1947, ch. 512, § 427, 6
 [/us/usc/t10/s5133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5133
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F286
-[/us/pl/87/649/s14c/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs14c%2F17
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F501
-[/us/pl/96/513/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs342
+[/us/pl/96/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIII
 [/us/stat/94/2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2901
-[/us/pl/97/86/s405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs405%2Fb%2F1
+[/us/pl/97/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIV
 [/us/stat/95/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1105
-[/us/pl/99/145/s514/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fb%2F1
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F628
-[/us/pl/109/364/s593/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs593%2Fa
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2234
-[/us/pl/109/364/s593/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs593%2Fd%2F1
-[/us/pl/109/364/s593/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs593%2Fa%2F1
-[/us/pl/109/364/s593/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs593%2Fa%2F2
-[/us/pl/109/364/s593/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs593%2Fc
-[/us/pl/109/364/s593/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs593%2Fa%2F3
-[/us/pl/109/364/s593/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs593%2Fb
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/97/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

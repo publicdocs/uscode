@@ -67,11 +67,11 @@
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 663(a)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–168, added item 12604.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 663(a)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–168, added item 12604.
 
-    1999—[Pub. L. 106–65, div. A, title VI, § 652(a)(2)][/us/pl/106/65/s652/a/2], Oct. 5, 1999, [113 Stat. 665][/us/stat/113/665], added item 12605.
+    1999—[Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 652(a)(2), Oct. 5, 1999, [113 Stat. 665][/us/stat/113/665], added item 12605.
 
-    1998—[Pub. L. 105–261, div. A, title VI, § 635(b)][/us/pl/105/261/s635/b], Oct. 17, 1998, [112 Stat. 2045][/us/stat/112/2045], added item 12603.
+    1998—[Pub. L. 105–261, div. A, title VI][/us/pl/105/261/dA/tVI], § 635(b), Oct. 17, 1998, [112 Stat. 2045][/us/stat/112/2045], added item 12603.
 
 ----------
 
@@ -80,11 +80,11 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/65/s652/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs652%2Fa%2F2
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F665
-[/us/pl/105/261/s635/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs635%2Fb
+[/us/pl/105/261/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVI
 [/us/stat/112/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2045
 
 

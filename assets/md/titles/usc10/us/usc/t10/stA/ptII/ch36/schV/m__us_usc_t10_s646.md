@@ -17,7 +17,7 @@
 
     The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, shall ensure that officer personnel policies of the Army, Navy, Air Force, and Marine Corps concerning promotion, retention, and assignment give appropriate consideration to the performance of an officer as a member of the Joint Staff.
 
-(Added [Pub. L. 98–525, title XIII, § 1301(d)(1)][/us/pl/98/525/s1301/d/1], Oct. 19, 1984, [98 Stat. 2612][/us/stat/98/2612].)
+(Added [Pub. L. 98–525, title XIII][/us/pl/98/525/tXIII], § 1301(d)(1), Oct. 19, 1984, [98 Stat. 2612][/us/stat/98/2612].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/525/s1301/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1301%2Fd%2F1
+[/us/pl/98/525/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIII
 [/us/stat/98/2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2612
 
 

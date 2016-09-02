@@ -23,7 +23,7 @@
 
     The results of a drug test of an employee may be released under subsection (a) without the prior written consent of the employee that is otherwise required under section 503(e) of the Supplemental Appropriations Act, 1987 ([5 U.S.C. 7301][/us/usc/t5/s7301] note).
 
-(Added [Pub. L. 105–261, div. A, title XI, § 1103(a)][/us/pl/105/261/s1103/a], Oct. 17, 1998, [112 Stat. 2141][/us/stat/112/2141].)
+(Added [Pub. L. 105–261, div. A, title XI][/us/pl/105/261/dA/tXI], § 1103(a), Oct. 17, 1998, [112 Stat. 2141][/us/stat/112/2141].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t5/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7301
-[/us/pl/105/261/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1103%2Fa
+[/us/pl/105/261/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXI
 [/us/stat/112/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2141
 [/us/pl/100/71/s503/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2Fs503%2Fe
 [/us/usc/t5/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7301

@@ -35,7 +35,7 @@
 
     (9) to encourage facility use contracting where feasible.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 344(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–67; amended [Pub. L. 109–163, div. A, title III, § 323(c)][/us/pl/109/163/s323/c], Jan. 6, 2006, [119 Stat. 3194][/us/stat/119/3194].)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 344(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–67; amended [Pub. L. 109–163, div. A, title III][/us/pl/109/163/dA/tIII], § 323(c), Jan. 6, 2006, [119 Stat. 3194][/us/stat/119/3194].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/109/163/s323/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs323%2Fc
+[/us/pl/109/163/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIII
 [/us/stat/119/3194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3194
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 

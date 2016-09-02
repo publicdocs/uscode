@@ -55,7 +55,7 @@
 
         (3) Any other member of the armed forces who is on active duty but is not entitled to basic pay by reason of [section 502(b) of title 37][/us/usc/t37/s502/b] due to authorized absence (A) to participate in an educational program, or (B) for an emergency purpose, as determined by the Secretary concerned.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 91][/us/stat/70A/91]; [Pub. L. 85–861, § 1(28)(A)][/us/pl/85/861/s1/28/A], Sept. 2, 1958, [72 Stat. 1451][/us/stat/72/1451]; [Pub. L. 87–651, title I, § 107(a)][/us/pl/87/651/s107/a], Sept. 7, 1962, [76 Stat. 508][/us/stat/76/508]; [Pub. L. 95–377, § 3(1)][/us/pl/95/377/s3/1], Sept. 19, 1978, [92 Stat. 719][/us/stat/92/719]; [Pub. L. 96–343, § 10(c)(1)][/us/pl/96/343/s10/c/1], Sept. 8, 1980, [94 Stat. 1129][/us/stat/94/1129]; [Pub. L. 96–513, title I, § 117][/us/pl/96/513/s117], Dec. 12, 1980, [94 Stat. 2878][/us/stat/94/2878]; [Pub. L. 99–145, title V, § 513(a)(1)(A)][/us/pl/99/145/s513/a/1/A], Nov. 8, 1985, [99 Stat. 627][/us/stat/99/627]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 103–337, div. A, title XVI, § 1671(c)(6)][/us/pl/103/337/s1671/c/6], Oct. 5, 1994, [108 Stat. 3014][/us/stat/108/3014]; [Pub. L. 104–201, div. A, title V, § 572(a)][/us/pl/104/201/s572/a], Sept. 23, 1996, [110 Stat. 2533][/us/stat/110/2533]; [Pub. L. 110–181, div. A, title XVI, § 1641(a)][/us/pl/110/181/s1641/a], Jan. 28, 2008, [122 Stat. 464][/us/stat/122/464]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 727(a), Oct. 14, 2008, [122 Stat. 4510][/us/stat/122/4510].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 91][/us/stat/70A/91]; [Pub. L. 85–861][/us/pl/85/861], § 1(28)(A), Sept. 2, 1958, [72 Stat. 1451][/us/stat/72/1451]; [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 107(a), Sept. 7, 1962, [76 Stat. 508][/us/stat/76/508]; [Pub. L. 95–377][/us/pl/95/377], § 3(1), Sept. 19, 1978, [92 Stat. 719][/us/stat/92/719]; [Pub. L. 96–343][/us/pl/96/343], § 10(c)(1), Sept. 8, 1980, [94 Stat. 1129][/us/stat/94/1129]; [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 117, Dec. 12, 1980, [94 Stat. 2878][/us/stat/94/2878]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 513(a)(1)(A), Nov. 8, 1985, [99 Stat. 627][/us/stat/99/627]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1671(c)(6), Oct. 5, 1994, [108 Stat. 3014][/us/stat/108/3014]; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 572(a), Sept. 23, 1996, [110 Stat. 2533][/us/stat/110/2533]; [Pub. L. 110–181, div. A, title XVI][/us/pl/110/181/dA/tXVI], § 1641(a), Jan. 28, 2008, [122 Stat. 464][/us/stat/122/464]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 727(a), Oct. 14, 2008, [122 Stat. 4510][/us/stat/122/4510].)
 
 <table>
 
@@ -199,7 +199,7 @@ Source (Statutes at Large)  </td>
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–201, div. A, title V, § 572(d)][/us/pl/104/201/s572/d], Sept. 23, 1996, [110 Stat. 2533][/us/stat/110/2533], provided that: 
+[Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 572(d), Sept. 23, 1996, [110 Stat. 2533][/us/stat/110/2533], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1202 and 1203 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 23, 1996\] and shall apply with respect to physical disabilities incurred on or after such date.”
 
@@ -213,7 +213,7 @@ Source (Statutes at Large)  </td>
 
  __Effective and Termination Dates of 1978 Amendment__ 
 
-    [Pub. L. 95–377, § 3][/us/pl/95/377/s3], Sept. 19, 1978, [92 Stat. 719][/us/stat/92/719], provided that the amendment made by that section is effective only for the period beginning Sept. 15, 1978, and ending Sept. 30, 1979.
+    [Pub. L. 95–377][/us/pl/95/377], § 3, Sept. 19, 1978, [92 Stat. 719][/us/stat/92/719], provided that the amendment made by that section is effective only for the period beginning Sept. 15, 1978, and ending Sept. 30, 1979.
 
  __Public Health Service__ 
 
@@ -240,25 +240,25 @@ Source (Statutes at Large)  </td>
 [/us/usc/t37/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs502%2Fb
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F91
-[/us/pl/85/861/s1/28/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F28%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1451
-[/us/pl/87/651/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs107%2Fa
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F508
-[/us/pl/95/377/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F377%2Fs3%2F1
+[/us/pl/95/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F377
 [/us/stat/92/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F719
-[/us/pl/96/343/s10/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343%2Fs10%2Fc%2F1
+[/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
 [/us/stat/94/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1129
-[/us/pl/96/513/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs117
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2878
-[/us/pl/99/145/s513/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs513%2Fa%2F1%2FA
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F627
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1602
-[/us/pl/103/337/s1671/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1671%2Fc%2F6
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3014
-[/us/pl/104/201/s572/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs572%2Fa
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2533
-[/us/pl/110/181/s1641/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1641%2Fa
+[/us/pl/110/181/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVI
 [/us/stat/122/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F464
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4510
@@ -282,7 +282,7 @@ Source (Statutes at Large)  </td>
 [/us/usc/t10/s270/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs270%2Fb
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/usc/t10/s270/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs270%2Fb
-[/us/pl/104/201/s572/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs572%2Fd
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2533
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
@@ -291,7 +291,7 @@ Source (Statutes at Large)  </td>
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/95/377/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F377%2Fs3
+[/us/pl/95/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F377
 [/us/stat/92/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F719
 [/us/usc/t42/s213a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs213a%2Fb
 [/us/usc/t33/s3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3071

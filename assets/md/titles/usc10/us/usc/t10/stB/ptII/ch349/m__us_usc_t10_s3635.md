@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stB/ptII/ch349/m__us_usc_t10_s3634.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch349/m__us_usc_t10_s3636.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3635)
 
-## \[§ 3635. Repealed. [Pub. L. 90–235, § 6(a)(7)][/us/pl/90/235/s6/a/7], Jan. 2, 1968, [81 Stat. 762][/us/stat/81/762]\]
+## \[§ 3635. Repealed. [Pub. L. 90–235][/us/pl/90/235], § 6(a)(7), Jan. 2, 1968, [81 Stat. 762][/us/stat/81/762]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 207][/us/stat/70A/207], set forth restrictions on civilian employment for enlisted members of Army on active duty.
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/pl/90/235/s6/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs6%2Fa%2F7
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F762
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F207

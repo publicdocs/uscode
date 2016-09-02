@@ -17,7 +17,7 @@
 
     When different commands of the Army, Navy, Air Force, Marine Corps, and Coast Guard join or serve together, the officer highest in rank in the Army, Navy, Air Force, Marine Corps, or Coast Guard on duty there, who is otherwise eligible to command, commands all those forces unless otherwise directed by the President.
 
-(Added [Pub. L. 90–235, § 5(a)(1)(A)][/us/pl/90/235/s5/a/1/A], Jan. 2, 1968, [81 Stat. 760][/us/stat/81/760].)
+(Added [Pub. L. 90–235][/us/pl/90/235], § 5(a)(1)(A), Jan. 2, 1968, [81 Stat. 760][/us/stat/81/760].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/90/235/s5/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs5%2Fa%2F1%2FA
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F760
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

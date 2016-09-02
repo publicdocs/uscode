@@ -27,7 +27,7 @@
 
     This section shall be administered under regulations prescribed by the Secretary of Defense.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 594][/us/stat/70A/594]; [Pub. L. 85–861, § 33(a)(45)][/us/pl/85/861/s33/a/45], Sept. 2, 1958, [72 Stat. 1567][/us/stat/72/1567]; [Pub. L. 87–649, § 14c(58)][/us/pl/87/649/s14c/58], Sept. 7, 1962, [76 Stat. 502][/us/stat/76/502]; [Pub. L. 96–513, title V, § 514(22)(A)][/us/pl/96/513/s514/22/A], (B), Dec. 12, 1980, [94 Stat. 2936][/us/stat/94/2936]; [Pub. L. 109–163, div. A, title VI, § 683(c)(1)][/us/pl/109/163/s683/c/1], Jan. 6, 2006, [119 Stat. 3323][/us/stat/119/3323]; [Pub. L. 109–364, div. A, title VI, § 673(c)(1)][/us/pl/109/364/s673/c/1], (2), (e)(3), Oct. 17, 2006, [120 Stat. 2271][/us/stat/120/2271], 2272; [Pub. L. 110–181, div. A, title X, § 1063(c)(7)(C)][/us/pl/110/181/s1063/c/7/C], Jan. 28, 2008, [122 Stat. 323][/us/stat/122/323].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 594][/us/stat/70A/594]; [Pub. L. 85–861][/us/pl/85/861], § 33(a)(45), Sept. 2, 1958, [72 Stat. 1567][/us/stat/72/1567]; [Pub. L. 87–649][/us/pl/87/649], § 14c(58), Sept. 7, 1962, [76 Stat. 502][/us/stat/76/502]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 514(22)(A), (B), Dec. 12, 1980, [94 Stat. 2936][/us/stat/94/2936]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 683(c)(1), Jan. 6, 2006, [119 Stat. 3323][/us/stat/119/3323]; [Pub. L. 109–364, div. A, title VI][/us/pl/109/364/dA/tVI], § 673(c)(1), (2), (e)(3), Oct. 17, 2006, [120 Stat. 2271][/us/stat/120/2271], 2272; [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1063(c)(7)(C), Jan. 28, 2008, [122 Stat. 323][/us/stat/122/323].)
 
 <table>
 
@@ -191,15 +191,15 @@ R.S. 1299.  </td>
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–181][/us/pl/110/181] made technical correction to directory language of [Pub. L. 109–364, § 673(c)(1)][/us/pl/109/364/s673/c/1]. See 2006 Amendment note below.
+    2008—Subsec. (a). [Pub. L. 110–181][/us/pl/110/181] made technical correction to directory language of [Pub. L. 109–364][/us/pl/109/364], § 673(c)(1). See 2006 Amendment note below.
 
     2006—[Pub. L. 109–163][/us/pl/109/163] amended section catchline and text generally. Prior to amendment, text read as follows: “If he considers it in the best interest of the United States, the Secretary may have remitted or cancelled any part of an enlisted member’s indebtedness to the United States or any of its instrumentalities remaining unpaid before, or at the time of, that member’s honorable discharge.”
 
-    Subsec. (a). [Pub. L. 109–364, § 673(e)(3)][/us/pl/109/364/s673/e/3], substituted “The Secretary of the Air Force” for “If the Secretary considers it to be in the best interest of the United States, the Secretary” and inserted before period at end “, but only if the Secretary considers such action to be in the best interest of the United States”.
+    Subsec. (a). [Pub. L. 109–364][/us/pl/109/364], § 673(e)(3), substituted “The Secretary of the Air Force” for “If the Secretary considers it to be in the best interest of the United States, the Secretary” and inserted before period at end “, but only if the Secretary considers such action to be in the best interest of the United States”.
 
-    [Pub. L. 109–364, § 673(c)(1)][/us/pl/109/364/s673/c/1], as amended by [Pub. L. 110–181][/us/pl/110/181], substituted “of a person to the United States or any instrumentality of the United States incurred while the person was serving on active duty as a member of the Air Force” for “of a member of the Air Force on active duty, or a member of a reserve component of the Air Force in an active status, to the United States or any instrumentality of the United States incurred while the member was serving on active duty”.
+    [Pub. L. 109–364][/us/pl/109/364], § 673(c)(1), as amended by [Pub. L. 110–181][/us/pl/110/181], substituted “of a person to the United States or any instrumentality of the United States incurred while the person was serving on active duty as a member of the Air Force” for “of a member of the Air Force on active duty, or a member of a reserve component of the Air Force in an active status, to the United States or any instrumentality of the United States incurred while the member was serving on active duty”.
 
-    Subsecs. (b) to (d). [Pub. L. 109–364, § 673(c)(2)][/us/pl/109/364/s673/c/2], redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary may exercise the authority in subsection (a) with respect to a member—
+    Subsecs. (b) to (d). [Pub. L. 109–364][/us/pl/109/364], § 673(c)(2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary may exercise the authority in subsection (a) with respect to a member—
 
     “(1) while the member is on active duty or in active status, as the case may be;
 
@@ -211,17 +211,17 @@ R.S. 1299.  </td>
 
     1962—[Pub. L. 87–649][/us/pl/87/649] repealed subsecs. (a) to (c) and (e) to (g) which related to deductions from pay. See subsecs. (b) to (g) of [section 1007 of Title 37][/us/usc/t37/s1007], Pay and Allowances of the Uniformed Services.
 
-    1958—Subsec. (b). [Pub. L. 85–861, § 33(a)(45)(A)][/us/pl/85/861/s33/a/45/A], substituted “his pay for that month” for “his basic pay for that month”.
+    1958—Subsec. (b). [Pub. L. 85–861][/us/pl/85/861], § 33(a)(45)(A), substituted “his pay for that month” for “his basic pay for that month”.
 
-    Subsec. (f). [Pub. L. 85–861, § 33(a)(45)(B)][/us/pl/85/861/s33/a/45/B], substituted “an officer” for “a commissioned officer” in two places.
+    Subsec. (f). [Pub. L. 85–861][/us/pl/85/861], § 33(a)(45)(B), substituted “an officer” for “a commissioned officer” in two places.
 
  __Effective Date of 2008 Amendment__ 
 
-    [Pub. L. 110–181, div. A, title X, § 1063(c)][/us/pl/110/181/s1063/c], Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322], provided that the amendment made by section 1063(c)(7)(C) is effective as of Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, [Pub. L. 109–364][/us/pl/109/364], as enacted.
+    [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1063(c), Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322], provided that the amendment made by section 1063(c)(7)(C) is effective as of Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, [Pub. L. 109–364][/us/pl/109/364], as enacted.
 
  __Termination Date of 2006 Amendment__ 
 
-    [Pub. L. 109–163, div. A, title VI, § 683(c)(3)][/us/pl/109/163/s683/c/3], Jan. 6, 2006, [119 Stat. 3324][/us/stat/119/3324], which provided for termination of amendments by [Pub. L. 109–163, § 683(c)][/us/pl/109/163/s683/c], amending this section and the analysis to this chapter, on Dec. 31, 2007, and restoration of provisions as in effect on the day before Jan. 6, 2006, was repealed by [Pub. L. 109–364, div. A, title VI, § 673(c)(3)][/us/pl/109/364/s673/c/3], Oct. 17, 2006, [120 Stat. 2272][/us/stat/120/2272].
+    [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 683(c)(3), Jan. 6, 2006, [119 Stat. 3324][/us/stat/119/3324], which provided for termination of amendments by [Pub. L. 109–163][/us/pl/109/163], § 683(c), amending this section and the analysis to this chapter, on Dec. 31, 2007, and restoration of provisions as in effect on the day before Jan. 6, 2006, was repealed by [Pub. L. 109–364, div. A, title VI][/us/pl/109/364/dA/tVI], § 673(c)(3), Oct. 17, 2006, [120 Stat. 2272][/us/stat/120/2272].
 
  __Effective Date of 1980 Amendment__ 
 
@@ -248,17 +248,17 @@ R.S. 1299.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F594
-[/us/pl/85/861/s33/a/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F45
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1567
-[/us/pl/87/649/s14c/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs14c%2F58
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F502
-[/us/pl/96/513/s514/22/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs514%2F22%2FA
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2936
-[/us/pl/109/163/s683/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs683%2Fc%2F1
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3323
-[/us/pl/109/364/s673/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs673%2Fc%2F1
+[/us/pl/109/364/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVI
 [/us/stat/120/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2271
-[/us/pl/110/181/s1063/c/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fc%2F7%2FC
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F323
 [/us/usc/t10/s9621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9621%2Fa%2F1
 [/us/usc/t10/s9623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9623
@@ -267,24 +267,24 @@ R.S. 1299.  </td>
 [/us/stat/45/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F698
 [/us/usc/t10/s872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs872
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/109/364/s673/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs673%2Fc%2F1
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/109/364/s673/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs673%2Fe%2F3
-[/us/pl/109/364/s673/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs673%2Fc%2F1
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/109/364/s673/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs673%2Fc%2F2
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/usc/t37/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs1007
-[/us/pl/85/861/s33/a/45/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F45%2FA
-[/us/pl/85/861/s33/a/45/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F45%2FB
-[/us/pl/110/181/s1063/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fc
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F322
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/109/163/s683/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs683%2Fc%2F3
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3324
-[/us/pl/109/163/s683/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs683%2Fc
-[/us/pl/109/364/s673/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs673%2Fc%2F3
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/364/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVI
 [/us/stat/120/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2272
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3

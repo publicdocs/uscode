@@ -25,7 +25,7 @@
 
     Subsection (a) does not apply with respect to salvage helicopters provided to the foreign country solely as a source for spare parts.
 
-(Added [Pub. L. 105–261, div. A, title XII, § 1234(a)][/us/pl/105/261/s1234/a], Oct. 17, 1998, [112 Stat. 2156][/us/stat/112/2156].)
+(Added [Pub. L. 105–261, div. A, title XII][/us/pl/105/261/dA/tXII], § 1234(a), Oct. 17, 1998, [112 Stat. 2156][/us/stat/112/2156].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t10/s2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2460
-[/us/pl/105/261/s1234/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1234%2Fa
+[/us/pl/105/261/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXII
 [/us/stat/112/2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2156
 
 

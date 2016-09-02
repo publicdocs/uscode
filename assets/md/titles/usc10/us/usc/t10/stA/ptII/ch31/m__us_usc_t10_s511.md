@@ -61,7 +61,7 @@
 
     Upon enlisting in the regular component of the member’s armed force, a person who initially enlisted as a Reserve under this section may, at the discretion of the Secretary concerned, be eligible for all regular special pays, bonuses, education benefits, and loan repayment programs.
 
-(Added [Pub. L. 108–375, div. A, title V, § 551(a)(1)][/us/pl/108/375/s551/a/1], Oct. 28, 2004, [118 Stat. 1909][/us/stat/118/1909].)
+(Added [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 551(a)(1), Oct. 28, 2004, [118 Stat. 1909][/us/stat/118/1909].)
 
  __Prior Provisions__ 
 
@@ -69,7 +69,7 @@
 
  __Continuation for Army of Prior Army College First Program__ 
 
-[Pub. L. 108–375, div. A, title V, § 551(b)][/us/pl/108/375/s551/b], Oct. 28, 2004, [118 Stat. 1911][/us/stat/118/1911], provided that: 
+[Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 551(b), Oct. 28, 2004, [118 Stat. 1911][/us/stat/118/1911], provided that: 
 
 > “The Secretary of the Army shall treat the program under [section 511 of title 10][/us/usc/t10/s511], United States Code, as added by subsection (a), as a continuation of the program under section 573 of the National Defense Authorization Act for Fiscal Year 2000 \[[Pub. L. 106–65][/us/pl/106/65]\] (\[formerly\] [10 U.S.C. 513][/us/usc/t10/s513] note), and for such purpose the Secretary may treat such section 511 as having been enacted on October 1, 2004.”
 
@@ -84,10 +84,10 @@
 [/us/usc/t37/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs209%2Fa
 [/us/usc/t10/s10147/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10147%2Fa%2F1
 [/us/usc/t32/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs502%2Fa
-[/us/pl/108/375/s551/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs551%2Fa%2F1
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1909
 [/us/usc/t10/s12103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12103
-[/us/pl/108/375/s551/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs551%2Fb
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1911
 [/us/usc/t10/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs511
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65

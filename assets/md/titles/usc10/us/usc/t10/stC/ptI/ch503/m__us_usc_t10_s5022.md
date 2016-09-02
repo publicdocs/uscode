@@ -37,7 +37,7 @@
 
     (d) The Office of Naval Research shall perform its duties under the authority of the Secretary, and its orders are considered as coming from the Secretary.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 291][/us/stat/70A/291], § 5151; renumbered § 5022, [Pub. L. 99–433, title V, § 511(d)][/us/pl/99/433/s511/d], Oct. 1, 1986, [100 Stat. 1048][/us/stat/100/1048]; amended [Pub. L. 101–510, div. A, title IX, § 910(b)(1)][/us/pl/101/510/s910/b/1], Nov. 5, 1990, [104 Stat. 1625][/us/stat/104/1625]; [Pub. L. 104–201, div. A, title V, § 501(a)][/us/pl/104/201/s501/a], Sept. 23, 1996, [110 Stat. 2510][/us/stat/110/2510]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 904(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–225; [Pub. L. 107–314, div. A, title V, § 504(f)][/us/pl/107/314/s504/f], Dec. 2, 2002, [116 Stat. 2533][/us/stat/116/2533].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 291][/us/stat/70A/291], § 5151; renumbered § 5022, [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 511(d), Oct. 1, 1986, [100 Stat. 1048][/us/stat/100/1048]; amended [Pub. L. 101–510, div. A, title IX][/us/pl/101/510/dA/tIX], § 910(b)(1), Nov. 5, 1990, [104 Stat. 1625][/us/stat/104/1625]; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 501(a), Sept. 23, 1996, [110 Stat. 2510][/us/stat/110/2510]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 904(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–225; [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 504(f), Dec. 2, 2002, [116 Stat. 2533][/us/stat/116/2533].)
 
 <table>
 
@@ -129,13 +129,13 @@ Aug. 1, 1946, ch. 727, § 1 (2d sentence), 60 Stat. 779.  </td>
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–201, div. A, title V, § 501(b)][/us/pl/104/201/s501/b], Sept. 23, 1996, [110 Stat. 2510][/us/stat/110/2510], provided that: 
+[Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 501(b), Sept. 23, 1996, [110 Stat. 2510][/us/stat/110/2510], provided that: 
 
 > “Paragraph (2) of [section 5022(a) of title 10][/us/usc/t10/s5022/a], United States Code, as added by subsection (a), shall take effect upon the occurrence of the first vacancy in the position of Chief of Naval Research after the date of the enactment of this Act \[Sept. 23, 1996\].”
 
  __Demonstration Project To Increase Small Business and University Participation in Office of Naval Research Efforts To Extend Benefits of Science and Technology Research to Fleet__ 
 
-[Pub. L. 107–107, div. A, title II, § 262][/us/pl/107/107/s262], Dec. 28, 2001, [115 Stat. 1044][/us/stat/115/1044], provided that:
+[Pub. L. 107–107, div. A, title II][/us/pl/107/107/dA/tII], § 262, Dec. 28, 2001, [115 Stat. 1044][/us/stat/115/1044], provided that:
 
 >     “(a)  __Project Required__  __.—__ 
 
@@ -168,24 +168,24 @@ Aug. 1, 1946, ch. 727, § 1 (2d sentence), 60 Stat. 779.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F291
-[/us/pl/99/433/s511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fd
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1048
-[/us/pl/101/510/s910/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs910%2Fb%2F1
+[/us/pl/101/510/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIX
 [/us/stat/104/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1625
-[/us/pl/104/201/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs501%2Fa
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2510
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/314/s504/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs504%2Ff
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2533
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/104/201/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs501%2Fb
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2510
 [/us/usc/t10/s5022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5022%2Fa
-[/us/pl/107/107/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs262
+[/us/pl/107/107/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtII
 [/us/stat/115/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1044
 
 

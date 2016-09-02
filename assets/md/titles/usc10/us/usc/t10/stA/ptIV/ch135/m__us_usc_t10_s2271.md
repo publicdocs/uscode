@@ -31,15 +31,15 @@
 
         (2) The Secretary of Defense shall designate those positions in the Office of the National Security Space Architect of the Department of Defense (or any successor office) that qualify as joint duty assignment positions for purposes of chapter 38 of this title.
 
-(Added [Pub. L. 107–107, div. A, title IX, § 911(a)][/us/pl/107/107/s911/a], Dec. 28, 2001, [115 Stat. 1195][/us/stat/115/1195].)
+(Added [Pub. L. 107–107, div. A, title IX][/us/pl/107/107/dA/tIX], § 911(a), Dec. 28, 2001, [115 Stat. 1195][/us/stat/115/1195].)
 
  __Prior Provisions__ 
 
-    A prior section 2271, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 123][/us/stat/70A/123], related to competitions for designs of aircraft, aircraft parts, and aeronautical accessories, prior to repeal by [Pub. L. 103–160, div. A, title VIII, § 821(a)(1)][/us/pl/103/160/s821/a/1], Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
+    A prior section 2271, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 123][/us/stat/70A/123], related to competitions for designs of aircraft, aircraft parts, and aeronautical accessories, prior to repeal by [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 821(a)(1), Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
 
  __Consolidation of Acquisition of Wideband Satellite Communications__ 
 
-[Pub. L. 114–92, div. A, title XVI, § 1610][/us/pl/114/92/s1610], Nov. 25, 2015, [129 Stat. 1102][/us/stat/129/1102], provided that:
+[Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1610, Nov. 25, 2015, [129 Stat. 1102][/us/stat/129/1102], provided that:
 
 >     “(a) __Plan.—__ 
 
@@ -109,7 +109,7 @@
 
  __Satellite Communications Responsibilities of Executive Agent for Space__ 
 
-[Pub. L. 113–291, div. A, title XVI, § 1603][/us/pl/113/291/s1603], Dec. 19, 2014, [128 Stat. 3622][/us/stat/128/3622], provided that: 
+[Pub. L. 113–291, div. A, title XVI][/us/pl/113/291/dA/tXVI], § 1603, Dec. 19, 2014, [128 Stat. 3622][/us/stat/128/3622], provided that: 
 
 > “The Secretary of Defense shall, not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], revise Department of Defense directives and guidance to require the Department of Defense Executive Agent for Space to ensure that in developing space strategies, architectures, and programs for satellite communications, the Executive Agent shall—
 
@@ -123,7 +123,7 @@
 
  __Prohibition on Contracting With Russian Suppliers of Rocket Engines for the Evolved Expendable Launch Vehicle Program__ 
 
-[Pub. L. 113–291, div. A, title XVI, § 1608][/us/pl/113/291/s1608], Dec. 19, 2014, [128 Stat. 3626][/us/stat/128/3626], as amended by [Pub. L. 114–92, div. A, title XVI, § 1607][/us/pl/114/92/s1607], Nov. 25, 2015, [129 Stat. 1100][/us/stat/129/1100], provided that:
+[Pub. L. 113–291, div. A, title XVI][/us/pl/113/291/dA/tXVI], § 1608, Dec. 19, 2014, [128 Stat. 3626][/us/stat/128/3626], as amended by [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1607, Nov. 25, 2015, [129 Stat. 1100][/us/stat/129/1100], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -155,7 +155,7 @@
 
  __Integrated Space Architectures__ 
 
-[Pub. L. 111–383, div. A, title IX, § 911][/us/pl/111/383/s911], Jan. 7, 2011, [124 Stat. 4328][/us/stat/124/4328], as amended by [Pub. L. 113–291, div. A, title X, § 1071(d)(1)(A)][/us/pl/113/291/s1071/d/1/A], Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509], provided that: 
+[Pub. L. 111–383, div. A, title IX][/us/pl/111/383/dA/tIX], § 911, Jan. 7, 2011, [124 Stat. 4328][/us/stat/124/4328], as amended by [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(d)(1)(A), Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509], provided that: 
 
 > “The Secretary of Defense and the Director of National Intelligence shall develop an integrated process for national security space architecture planning, development, coordination, and analysis that—
 
@@ -169,7 +169,7 @@
 
  __Space Protection Strategy__ 
 
-[Pub. L. 110–181, div. A, title IX, § 911(a)][/us/pl/110/181/s911/a]–(f), Jan. 28, 2008, [122 Stat. 279][/us/stat/122/279], 280, as amended by [Pub. L. 113–66, div. A, title IX, § 912(c)][/us/pl/113/66/s912/c], Dec. 26, 2013, [127 Stat. 824][/us/stat/127/824]; [Pub. L. 113–291, div. A, title X, § 1071(d)(1)(B)][/us/pl/113/291/s1071/d/1/B], title XVI, § 1606(e), Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509], 3625, provided that:
+[Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 911(a)–(f), Jan. 28, 2008, [122 Stat. 279][/us/stat/122/279], 280, as amended by [Pub. L. 113–66, div. A, title IX][/us/pl/113/66/dA/tIX], § 912(c), Dec. 26, 2013, [127 Stat. 824][/us/stat/127/824]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(d)(1)(B), title XVI, § 1606(e), Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509], 3625, provided that:
 
 >     “(a)  __Sense of Congress__  __.—__ 
 
@@ -247,17 +247,17 @@
 
  __Maintenance of Capability for Space-Based Nuclear Detection__ 
 
-[Pub. L. 110–181, div. A, title X, § 1065][/us/pl/110/181/s1065], Jan. 28, 2008, [122 Stat. 324][/us/stat/122/324], provided that: 
+[Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1065, Jan. 28, 2008, [122 Stat. 324][/us/stat/122/324], provided that: 
 
 > “The Secretary of Defense shall maintain the capability for space-based nuclear detection at a level that meets or exceeds the level of capability as of the date of the enactment of this Act \[Jan. 28, 2008\].”
 
  __Space Situational Awareness Strategy and Space Control Mission Review__ 
 
-    [Pub. L. 109–163, div. A, title IX, § 911][/us/pl/109/163/s911], Jan. 6, 2006, [119 Stat. 3405][/us/stat/119/3405], required the Secretary of Defense to develop a “Space Situational Awareness Strategy” for ensuring freedom to operate United States space assets affecting national security, and to provide for a review and assessment of the requirements of the Department of Defense for the space control mission, prior to repeal by [Pub. L. 110–181, div. A, title IX, § 911(g)][/us/pl/110/181/s911/g], Jan. 28, 2008, [122 Stat. 280][/us/stat/122/280].
+    [Pub. L. 109–163, div. A, title IX][/us/pl/109/163/dA/tIX], § 911, Jan. 6, 2006, [119 Stat. 3405][/us/stat/119/3405], required the Secretary of Defense to develop a “Space Situational Awareness Strategy” for ensuring freedom to operate United States space assets affecting national security, and to provide for a review and assessment of the requirements of the Department of Defense for the space control mission, prior to repeal by [Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 911(g), Jan. 28, 2008, [122 Stat. 280][/us/stat/122/280].
 
  __Space Personnel Career Fields__ 
 
-[Pub. L. 108–136, div. A, title V, § 547][/us/pl/108/136/s547], Nov. 24, 2003, [117 Stat. 1480][/us/stat/117/1480], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
+[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 547, Nov. 24, 2003, [117 Stat. 1480][/us/stat/117/1480], as amended by [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
 
 >     “(a)  __Strategy Required__  __.—__ 
 
@@ -297,7 +297,7 @@
 
  __Comptroller General Assessment of Implementation of Recommendations of Space Commission__ 
 
-    [Pub. L. 107–107, div. A, title IX, § 914][/us/pl/107/107/s914], Dec. 28, 2001, [115 Stat. 1197][/us/stat/115/1197], directed the Comptroller General to carry out an assessment through Feb. 15, 2003, of the actions taken by the Secretary of Defense in implementing the recommendations in the report of the Space Commission submitted to Congress pursuant to [Pub. L. 106–65, § 1623][/us/pl/106/65/s1623], formerly set out as a note under [section 111 of this title][/us/usc/t10/s111], that were applicable to the Department of Defense, and to submit reports to committees of Congress, not later than Feb. 15, 2002, and Feb. 15, 2003, setting forth the results of the assessment.
+    [Pub. L. 107–107, div. A, title IX][/us/pl/107/107/dA/tIX], § 914, Dec. 28, 2001, [115 Stat. 1197][/us/stat/115/1197], directed the Comptroller General to carry out an assessment through Feb. 15, 2003, of the actions taken by the Secretary of Defense in implementing the recommendations in the report of the Space Commission submitted to Congress pursuant to [Pub. L. 106–65][/us/pl/106/65], § 1623, formerly set out as a note under [section 111 of this title][/us/usc/t10/s111], that were applicable to the Department of Defense, and to submit reports to committees of Congress, not later than Feb. 15, 2002, and Feb. 15, 2003, setting forth the results of the assessment.
 
 ----------
 
@@ -306,47 +306,47 @@
 ----------
 ----------
 
-[/us/pl/107/107/s911/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs911%2Fa
+[/us/pl/107/107/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIX
 [/us/stat/115/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1195
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F123
-[/us/pl/103/160/s821/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs821%2Fa%2F1
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1704
-[/us/pl/114/92/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1610
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1102
-[/us/pl/113/291/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1603
+[/us/pl/113/291/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXVI
 [/us/stat/128/3622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3622
-[/us/pl/113/291/s1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1608
+[/us/pl/113/291/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXVI
 [/us/stat/128/3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3626
-[/us/pl/114/92/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1607
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1100
-[/us/pl/111/383/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs911
+[/us/pl/111/383/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIX
 [/us/stat/124/4328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4328
-[/us/pl/113/291/s1071/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fd%2F1%2FA
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3509
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/usc/t10/s668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs668
-[/us/pl/110/181/s911/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs911%2Fa
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F279
-[/us/pl/113/66/s912/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs912%2Fc
+[/us/pl/113/66/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIX
 [/us/stat/127/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F824
-[/us/pl/113/291/s1071/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fd%2F1%2FB
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3509
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
-[/us/pl/110/181/s1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1065
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F324
-[/us/pl/109/163/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs911
+[/us/pl/109/163/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIX
 [/us/stat/119/3405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3405
-[/us/pl/110/181/s911/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs911%2Fg
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F280
-[/us/pl/108/136/s547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs547
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1480
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/usc/t10/s8084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8084
-[/us/pl/107/107/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs914
+[/us/pl/107/107/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIX
 [/us/stat/115/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1197
-[/us/pl/106/65/s1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1623
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t10/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs111
 
 

@@ -65,23 +65,23 @@
 
         (4) The term “combatant and support vessel” means any commissioned ship built or armed for naval combat or any naval ship designed to provide support to combatant ships and other naval operations. Such term does not include patrol coastal ships, non-commissioned combatant craft specifically designed for combat roles, or ships that are designated for potential mobilization.
 
-(Added [Pub. L. 107–314, div. A, title X, § 1022(a)(1)][/us/pl/107/314/s1022/a/1], Dec. 2, 2002, [116 Stat. 2639][/us/stat/116/2639]; amended [Pub. L. 111–383, div. A, title X, § 1023(a)][/us/pl/111/383/s1023/a], Jan. 7, 2011, [124 Stat. 4349][/us/stat/124/4349]; [Pub. L. 112–81, div. A, title X, § 1011(a)][/us/pl/112/81/s1011/a], Dec. 31, 2011, [125 Stat. 1558][/us/stat/125/1558]; [Pub. L. 112–239, div. A, title X, § 1014(a)][/us/pl/112/239/s1014/a], Jan. 2, 2013, [126 Stat. 1908][/us/stat/126/1908]; [Pub. L. 113–66, div. A, title X, § 1021][/us/pl/113/66/s1021], Dec. 26, 2013, [127 Stat. 844][/us/stat/127/844]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291], §§ 1021, 1071(c)(2), Dec. 19, 2014, [128 Stat. 3486][/us/stat/128/3486], 3508; [Pub. L. 114–92, div. A, title X, § 1021][/us/pl/114/92/s1021], Nov. 25, 2015, [129 Stat. 965][/us/stat/129/965].)
+(Added [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1022(a)(1), Dec. 2, 2002, [116 Stat. 2639][/us/stat/116/2639]; amended [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1023(a), Jan. 7, 2011, [124 Stat. 4349][/us/stat/124/4349]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1011(a), Dec. 31, 2011, [125 Stat. 1558][/us/stat/125/1558]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1014(a), Jan. 2, 2013, [126 Stat. 1908][/us/stat/126/1908]; [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1021, Dec. 26, 2013, [127 Stat. 844][/us/stat/127/844]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], §§ 1021, 1071(c)(2), Dec. 19, 2014, [128 Stat. 3486][/us/stat/128/3486], 3508; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1021, Nov. 25, 2015, [129 Stat. 965][/us/stat/129/965].)
 
  __Amendments__ 
 
     2015—Subsec. (b)(2)(C). [Pub. L. 114–92][/us/pl/114/92] inserted “by ship class in both graphical and tabular form” after “The estimated levels of annual funding”.
 
-    2014—Subsec. (b)(1). [Pub. L. 113–291, § 1071(c)(2)][/us/pl/113/291/s1071/c/2], substituted “([50 U.S.C. 3043][/us/usc/t50/s3043])” for “([50 U.S.C. 404a][/us/usc/t50/s404a])”.
+    2014—Subsec. (b)(1). [Pub. L. 113–291][/us/pl/113/291], § 1071(c)(2), substituted “([50 U.S.C. 3043][/us/usc/t50/s3043])” for “([50 U.S.C. 404a][/us/usc/t50/s404a])”.
 
-    Subsec. (f)(4). [Pub. L. 113–291, § 1021][/us/pl/113/291/s1021], added par. (4).
+    Subsec. (f)(4). [Pub. L. 113–291][/us/pl/113/291], § 1021, added par. (4).
 
-    2013—Subsec. (b)(1). [Pub. L. 113–66, § 1021(a)(1)][/us/pl/113/66/s1021/a/1], substituted “shall be designed” for “should be designed” in two places and “supports” for “is capable of supporting” in two places.
+    2013—Subsec. (b)(1). [Pub. L. 113–66][/us/pl/113/66], § 1021(a)(1), substituted “shall be designed” for “should be designed” in two places and “supports” for “is capable of supporting” in two places.
 
-    Subsec. (b)(2)(B). [Pub. L. 113–66, § 1021(a)(2)(A)][/us/pl/113/66/s1021/a/2/A], inserted “and capabilities” after “naval vessel force structure”.
+    Subsec. (b)(2)(B). [Pub. L. 113–66][/us/pl/113/66], § 1021(a)(2)(A), inserted “and capabilities” after “naval vessel force structure”.
 
-    Subsec. (b)(2)(D). [Pub. L. 113–66, § 1021(a)(2)(B)][/us/pl/113/66/s1021/a/2/B], added subpar. (D).
+    Subsec. (b)(2)(D). [Pub. L. 113–66][/us/pl/113/66], § 1021(a)(2)(B), added subpar. (D).
 
-    Subsec. (c). [Pub. L. 113–66, § 1021(b)][/us/pl/113/66/s1021/b], added subsec. (c) and struck out former subsec. (c). Text read as follows: “If the budget for a fiscal year provides for funding of the construction of naval vessels at a level that is not sufficient to sustain the naval vessel force structure specified in the naval vessel construction plan for that fiscal year under subsection (a), the Secretary shall include with the defense budget materials for that fiscal year an assessment that describes and discusses the risks associated with the reduced force structure of naval vessels that will result from funding naval vessel construction at such level. Such assessment shall be coordinated in advance with the commanders of the combatant commands.”
+    Subsec. (c). [Pub. L. 113–66][/us/pl/113/66], § 1021(b), added subsec. (c) and struck out former subsec. (c). Text read as follows: “If the budget for a fiscal year provides for funding of the construction of naval vessels at a level that is not sufficient to sustain the naval vessel force structure specified in the naval vessel construction plan for that fiscal year under subsection (a), the Secretary shall include with the defense budget materials for that fiscal year an assessment that describes and discusses the risks associated with the reduced force structure of naval vessels that will result from funding naval vessel construction at such level. Such assessment shall be coordinated in advance with the commanders of the combatant commands.”
 
     Subsecs. (e), (f). [Pub. L. 112–239][/us/pl/112/239] added subsec. (e) and redesignated former subsec. (e) as (f).
 
@@ -102,29 +102,29 @@
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t10/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs118
-[/us/pl/107/314/s1022/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1022%2Fa%2F1
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2639
-[/us/pl/111/383/s1023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1023%2Fa
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4349
-[/us/pl/112/81/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1011%2Fa
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1558
-[/us/pl/112/239/s1014/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1014%2Fa
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1908
-[/us/pl/113/66/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1021
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F844
-[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3486
-[/us/pl/114/92/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1021
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F965
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
-[/us/pl/113/291/s1071/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F2
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
-[/us/pl/113/291/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1021
-[/us/pl/113/66/s1021/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1021%2Fa%2F1
-[/us/pl/113/66/s1021/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1021%2Fa%2F2%2FA
-[/us/pl/113/66/s1021/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1021%2Fa%2F2%2FB
-[/us/pl/113/66/s1021/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1021%2Fb
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

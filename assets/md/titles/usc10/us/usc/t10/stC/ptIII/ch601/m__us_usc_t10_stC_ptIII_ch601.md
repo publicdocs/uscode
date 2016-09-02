@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptIII/m__us_usc_t10_stC_ptIII.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIII/ch601/m__us_usc_t10_s6907.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIII%2Fch601)
+[Previous](./../../../../../..//us/usc/t10/stC/ptIII/m__us_usc_t10_stC_ptIII.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIII/ch601/m__us_usc_t10_s6901...6906.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIII%2Fch601)
 
 #### CHAPTER 601—OFFICER PROCUREMENT PROGRAMS
 
@@ -75,48 +75,28 @@
 
  __Amendments__ 
 
-    1980—[Pub. L. 96–513, title V, § 503(52)][/us/pl/96/513/s503/52], Dec. 12, 1980, [94 Stat. 2915][/us/stat/94/2915], struck out items 6909 “Direct procurement: qualifications; retention or transfer to Reserve” and 6914 “Reserve naval aviators: appointment in Regular Navy and Regular Marine Corps; eligibility; grade; rank”.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], § 503(52), Dec. 12, 1980, [94 Stat. 2915][/us/stat/94/2915], struck out items 6909 “Direct procurement: qualifications; retention or transfer to Reserve” and 6914 “Reserve naval aviators: appointment in Regular Navy and Regular Marine Corps; eligibility; grade; rank”.
 
-    1964—[Pub. L. 88–647, title III, § 301(18)][/us/pl/88/647/s301/18], Oct. 13, 1964, [78 Stat. 1072][/us/stat/78/1072], struck out items 6901 “Naval Reserve Officers’ Training Corps: administration”, 6902 “Transfer of graduates of Naval Reserve Officers’ Training Corps to Regular Navy”, 6903 “Officer candidate training program: administration; qualifications for enrollment”, 6904 “Officer candidate training program: members enrolled from Naval Reserve Officers’ Training Corps; appointment as midshipmen; pay; allowances; commissioning”, 6905 “Officer candidate training program: members enrolled as naval aviation officer candidates; instruction; pay; allowances”, 6906 “Officer candidate training program: naval aviation candidates; appointment as midshipmen; flight training; appointment as ensigns”, 6908 “Officer candidate training program: naval aviators; retention or transfer to Reserve”, 6910 “Payment of expenses”.
+    1964—[Pub. L. 88–647, title III][/us/pl/88/647/tIII], § 301(18), Oct. 13, 1964, [78 Stat. 1072][/us/stat/78/1072], struck out items 6901 “Naval Reserve Officers’ Training Corps: administration”, 6902 “Transfer of graduates of Naval Reserve Officers’ Training Corps to Regular Navy”, 6903 “Officer candidate training program: administration; qualifications for enrollment”, 6904 “Officer candidate training program: members enrolled from Naval Reserve Officers’ Training Corps; appointment as midshipmen; pay; allowances; commissioning”, 6905 “Officer candidate training program: members enrolled as naval aviation officer candidates; instruction; pay; allowances”, 6906 “Officer candidate training program: naval aviation candidates; appointment as midshipmen; flight training; appointment as ensigns”, 6908 “Officer candidate training program: naval aviators; retention or transfer to Reserve”, 6910 “Payment of expenses”.
 
-    1961—[Pub. L. 87–100, § 1(2)][/us/pl/87/100/s1/2], July 21, 1961, [75 Stat. 218][/us/stat/75/218], struck out item 6907 “Officer candidate training program: officers other than naval aviators; retention or transfer to Reserve”.
+    1961—[Pub. L. 87–100][/us/pl/87/100], § 1(2), July 21, 1961, [75 Stat. 218][/us/stat/75/218], struck out item 6907 “Officer candidate training program: officers other than naval aviators; retention or transfer to Reserve”.
 
-    1958—[Pub. L. 85–861, § 1(147)(B)][/us/pl/85/861/s1/147/B], Sept. 2, 1958, [72 Stat. 1513][/us/stat/72/1513], substituted “benefits” for “pay and allowances” in item 6912.
-
-\[§§ 6901 to 6906. __Repealed.__  __[__  __Pub. L. 88–647, title III, § 301(17)__  __][/us/pl/88/647/s301/17]__  __,__  __Oct. 13, 1964__  __,__  __[__  __78 Stat. 1072__  __][/us/stat/78/1072]__  __\]__ 
-
-    Section 6901, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 420][/us/stat/70A/420]; Sept. 2, 1958, [Pub. L. 85–861, § 1(146)][/us/pl/85/861/s1/146], [72 Stat. 1512][/us/stat/72/1512], related to administration of Naval Reserve Officers’ Training Corps.
-
-    Sections 6902, 6903, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 420][/us/stat/70A/420], 421, related to transfer of graduates of Naval Reserve Officers’ Training Corps to Regular Navy, administration of officer candidate training program, and to qualifications for enrollment. See sections 2104 and 2106 of this title.
-
-    Sections 6904 to 6906, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 421][/us/stat/70A/421], 422, 423; Sept. 7, 1962, [Pub. L. 87–649, § 14c(48)][/us/pl/87/649/s14c/48]–(50), [76 Stat. 501][/us/stat/76/501], related to officer candidate training program and qualifications and training of members. See chapters 102 and 103 of this title.
+    1958—[Pub. L. 85–861][/us/pl/85/861], § 1(147)(B), Sept. 2, 1958, [72 Stat. 1513][/us/stat/72/1513], substituted “benefits” for “pay and allowances” in item 6912.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptIII/m__us_usc_t10_stC_ptIII.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIII/ch601/m__us_usc_t10_s6907.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIII%2Fch601)
+[Previous](./../../../../../..//us/usc/t10/stC/ptIII/m__us_usc_t10_stC_ptIII.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIII/ch601/m__us_usc_t10_s6901...6906.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIII%2Fch601)
 
 ----------
 ----------
 
-[/us/pl/96/513/s503/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs503%2F52
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2915
-[/us/pl/88/647/s301/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2Fs301%2F18
+[/us/pl/88/647/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2FtIII
 [/us/stat/78/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1072
-[/us/pl/87/100/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F100%2Fs1%2F2
+[/us/pl/87/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F100
 [/us/stat/75/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F218
-[/us/pl/85/861/s1/147/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F147%2FB
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1513
-[/us/pl/88/647/s301/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2Fs301%2F17
-[/us/stat/78/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1072
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F420
-[/us/pl/85/861/s1/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F146
-[/us/stat/72/1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1512
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F420
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F421
-[/us/pl/87/649/s14c/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs14c%2F48
-[/us/stat/76/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F501
 
 

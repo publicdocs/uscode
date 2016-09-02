@@ -17,7 +17,7 @@
 
     Each civilian member shall make a monthly allotment in an amount equal to 10 percent of his monthly basic salary toward the purchase of his deferred annuity policy. For each month the allotment is in force, the pay account of the civilian member shall be credited monthly from appropriations made for this purpose with an additional amount equal to 5 percent of his monthly basic salary.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 439][/us/stat/70A/439]; [Pub. L. 89–718, § 39][/us/pl/89/718/s39], Nov. 2, 1966, [80 Stat. 1120][/us/stat/80/1120].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 439][/us/stat/70A/439]; [Pub. L. 89–718][/us/pl/89/718], § 39, Nov. 2, 1966, [80 Stat. 1120][/us/stat/80/1120].)
 
 <table>
 
@@ -78,7 +78,7 @@ Jan. 16, 1936, ch. 3, § 2, 49 Stat. 1092.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F439
-[/us/pl/89/718/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs39
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1120
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 

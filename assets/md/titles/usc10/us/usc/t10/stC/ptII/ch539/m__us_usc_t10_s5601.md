@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5600.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch541/m__us_usc_t10_stC_ptII_ch541.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5601)
 
-## \[§ 5601. Repealed. [Pub. L. 89–609, § 1(10)][/us/pl/89/609/s1/10], Sept. 30, 1966, [80 Stat. 853][/us/stat/80/853]\]
+## \[§ 5601. Repealed. [Pub. L. 89–609][/us/pl/89/609], § 1(10), Sept. 30, 1966, [80 Stat. 853][/us/stat/80/853]\]
 
-    Section, added [Pub. L. 85–861, § 1(121)(A)][/us/pl/85/861/s1/121/A], Sept. 2, 1958, [72 Stat. 1495][/us/stat/72/1495], authorized appointment of men in the Naval Reserve in the Nurse Corps.
+    Section, added [Pub. L. 85–861][/us/pl/85/861], § 1(121)(A), Sept. 2, 1958, [72 Stat. 1495][/us/stat/72/1495], authorized appointment of men in the Naval Reserve in the Nurse Corps.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/89/609/s1/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F609%2Fs1%2F10
+[/us/pl/89/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F609
 [/us/stat/80/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F853
-[/us/pl/85/861/s1/121/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F121%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1495
 
 

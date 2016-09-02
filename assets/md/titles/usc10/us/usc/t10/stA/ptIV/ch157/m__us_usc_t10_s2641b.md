@@ -93,7 +93,7 @@
 
     The authority to provide transportation under the travel program is in addition to any other authority under law to provide transportation on Department of Defense aircraft on a space-available basis.
 
-(Added [Pub. L. 110–181, div. A, title III, § 374(a)][/us/pl/110/181/s374/a], Jan. 28, 2008, [122 Stat. 82][/us/stat/122/82]; amended [Pub. L. 112–239, div. A, title VI, § 622(a)][/us/pl/112/239/s622/a], Jan. 2, 2013, [126 Stat. 1779][/us/stat/126/1779].)
+(Added [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 374(a), Jan. 28, 2008, [122 Stat. 82][/us/stat/122/82]; amended [Pub. L. 112–239, div. A, title VI][/us/pl/112/239/dA/tVI], § 622(a), Jan. 2, 2013, [126 Stat. 1779][/us/stat/126/1779].)
 
  __Amendments__ 
 
@@ -109,9 +109,9 @@
 [/us/usc/t10/s12731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12731
 [/us/usc/t10/s12731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12731
 [/us/usc/t10/s1076e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076e
-[/us/pl/110/181/s374/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs374%2Fa
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F82
-[/us/pl/112/239/s622/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs622%2Fa
+[/us/pl/112/239/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVI
 [/us/stat/126/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1779
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 

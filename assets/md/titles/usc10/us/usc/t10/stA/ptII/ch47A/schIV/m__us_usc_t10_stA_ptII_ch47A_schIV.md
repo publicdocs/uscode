@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949" data-uslm-ref="/us/usc/t10/s949">949</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949l" data-uslm-ref="/us/usc/t10/s949l">949l.</a>  </td>
 
     <td> Voting and rulings.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949" data-uslm-ref="/us/usc/t10/s949">949</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949o" data-uslm-ref="/us/usc/t10/s949o">949o.</a>  </td>
 
     <td> Record of trial.  </td>
 

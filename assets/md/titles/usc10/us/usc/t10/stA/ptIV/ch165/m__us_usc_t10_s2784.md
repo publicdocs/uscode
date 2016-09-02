@@ -93,7 +93,7 @@
 
         (2) provide that a violation of such regulations by a person subject to chapter 47 of this title (the Uniform Code of Military Justice) is punishable as a violation of [section 892 of this title][/us/usc/t10/s892] (article 92 of the Uniform Code of Military Justice).
 
-(Added [Pub. L. 106–65, div. A, title IX, § 933(a)(1)][/us/pl/106/65/s933/a/1], Oct. 5, 1999, [113 Stat. 728][/us/stat/113/728]; amended [Pub. L. 107–314, div. A, title X, § 1007(a)][/us/pl/107/314/s1007/a], (b)(1), Dec. 2, 2002, [116 Stat. 2633][/us/stat/116/2633], 2634; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1003(a), Oct. 14, 2008, [122 Stat. 4582][/us/stat/122/4582]; [Pub. L. 112–194, § 2(b)][/us/pl/112/194/s2/b], Oct. 5, 2012, [126 Stat. 1447][/us/stat/126/1447].)
+(Added [Pub. L. 106–65, div. A, title IX][/us/pl/106/65/dA/tIX], § 933(a)(1), Oct. 5, 1999, [113 Stat. 728][/us/stat/113/728]; amended [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1007(a), (b)(1), Dec. 2, 2002, [116 Stat. 2633][/us/stat/116/2633], 2634; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1003(a), Oct. 14, 2008, [122 Stat. 4582][/us/stat/122/4582]; [Pub. L. 112–194][/us/pl/112/194], § 2(b), Oct. 5, 2012, [126 Stat. 1447][/us/stat/126/1447].)
 
  __Amendments__ 
 
@@ -101,31 +101,31 @@
 
     2008—Subsec. (c)(1). [Pub. L. 110–417][/us/pl/110/417] substituted “provide—” for “provide”, added subpar. (A), and substituted “(B) for” for “for”.
 
-    2002—[Pub. L. 107–314, § 1007(b)(1)(A)][/us/pl/107/314/s1007/b/1/A], substituted “purchase” for “credit” in section catchline.
+    2002—[Pub. L. 107–314][/us/pl/107/314], § 1007(b)(1)(A), substituted “purchase” for “credit” in section catchline.
 
-    Subsec. (a). [Pub. L. 107–314, § 1007(a)(1)][/us/pl/107/314/s1007/a/1], (b)(1)(B), (C), substituted “Purchase” for “Credit” in heading and “purchase” for “credit” in two places in text and struck out “, acting through the Under Secretary of Defense (Comptroller),” after “Secretary of Defense”.
+    Subsec. (a). [Pub. L. 107–314][/us/pl/107/314], § 1007(a)(1), (b)(1)(B), (C), substituted “Purchase” for “Credit” in heading and “purchase” for “credit” in two places in text and struck out “, acting through the Under Secretary of Defense (Comptroller),” after “Secretary of Defense”.
 
-    Subsec. (b)(1) to (6). [Pub. L. 107–314, § 1007(b)(1)(C)][/us/pl/107/314/s1007/b/1/C], substituted “purchase” for “credit” wherever appearing.
+    Subsec. (b)(1) to (6). [Pub. L. 107–314][/us/pl/107/314], § 1007(b)(1)(C), substituted “purchase” for “credit” wherever appearing.
 
-    Subsec. (b)(7) to (10). [Pub. L. 107–314, § 1007(a)(2)][/us/pl/107/314/s1007/a/2], added pars. (7) to (10).
+    Subsec. (b)(7) to (10). [Pub. L. 107–314][/us/pl/107/314], § 1007(a)(2), added pars. (7) to (10).
 
-    Subsec. (c). [Pub. L. 107–314, § 1007(a)(2)][/us/pl/107/314/s1007/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 107–314][/us/pl/107/314], § 1007(a)(2), added subsec. (c).
 
  __Regulations__ 
 
-[Pub. L. 106–65, div. A, title IX, § 933(b)(1)][/us/pl/106/65/s933/b/1], Oct. 5, 1999, [113 Stat. 730][/us/stat/113/730], provided that: 
+[Pub. L. 106–65, div. A, title IX][/us/pl/106/65/dA/tIX], § 933(b)(1), Oct. 5, 1999, [113 Stat. 730][/us/stat/113/730], provided that: 
 
 > “Regulations under [section 2784 of title 10][/us/usc/t10/s2784], United States Code, as added by subsection (a), shall be prescribed not later than 180 days after the date of the enactment of this Act \[Oct. 5, 1999\].”
 
  __Crediting of Refunds__ 
 
-[Pub. L. 110–116, div. A, title VIII, § 8067][/us/pl/110/116/s8067], Nov. 13, 2007, [121 Stat. 1329][/us/stat/121/1329], provided that: 
+[Pub. L. 110–116, div. A, title VIII][/us/pl/110/116/dA/tVIII], § 8067, Nov. 13, 2007, [121 Stat. 1329][/us/stat/121/1329], provided that: 
 
 > “Beginning in the current fiscal year and hereafter, refunds attributable to the use of the Government travel card, refunds attributable to the use of the Government Purchase Card and refunds attributable to official Government travel arranged by Government Contracted Travel Management Centers may be credited to operation and maintenance, and research, development, test and evaluation accounts of the Department of Defense which are current when the refunds are received.”
 
  __Government Charge Card Accounts: Limitation on Number; Requirements for Issuance; Disciplinary Action for Misuse; Report__ 
 
-[Pub. L. 107–248, title VIII, § 8149][/us/pl/107/248/s8149], Oct. 23, 2002, [116 Stat. 1572][/us/stat/116/1572], as amended by [Pub. L. 108–87, title VIII, § 8144][/us/pl/108/87/s8144], Sept. 30, 2003, [117 Stat. 1108][/us/stat/117/1108], provided that:
+[Pub. L. 107–248, title VIII][/us/pl/107/248/tVIII], § 8149, Oct. 23, 2002, [116 Stat. 1572][/us/stat/116/1572], as amended by [Pub. L. 108–87, title VIII][/us/pl/108/87/tVIII], § 8144, Sept. 30, 2003, [117 Stat. 1108][/us/stat/117/1108], provided that:
 
 >     “(a)  __Limitation on Number of Government Charge Card Accounts during Fiscal Year__  __2003.—__ 
 
@@ -167,29 +167,29 @@
 ----------
 
 [/us/usc/t10/s892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs892
-[/us/pl/106/65/s933/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs933%2Fa%2F1
+[/us/pl/106/65/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIX
 [/us/stat/113/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F728
-[/us/pl/107/314/s1007/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1007%2Fa
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2633
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4582
-[/us/pl/112/194/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194%2Fs2%2Fb
+[/us/pl/112/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194
 [/us/stat/126/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1447
 [/us/pl/112/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/107/314/s1007/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1007%2Fb%2F1%2FA
-[/us/pl/107/314/s1007/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1007%2Fa%2F1
-[/us/pl/107/314/s1007/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1007%2Fb%2F1%2FC
-[/us/pl/107/314/s1007/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1007%2Fa%2F2
-[/us/pl/107/314/s1007/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1007%2Fa%2F2
-[/us/pl/106/65/s933/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs933%2Fb%2F1
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/106/65/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIX
 [/us/stat/113/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F730
 [/us/usc/t10/s2784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2784
-[/us/pl/110/116/s8067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F116%2Fs8067
+[/us/pl/110/116/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F116%2FdA%2FtVIII
 [/us/stat/121/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1329
-[/us/pl/107/248/s8149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2Fs8149
+[/us/pl/107/248/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2FtVIII
 [/us/stat/116/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1572
-[/us/pl/108/87/s8144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F87%2Fs8144
+[/us/pl/108/87/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F87%2FtVIII
 [/us/stat/117/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1108
 
 

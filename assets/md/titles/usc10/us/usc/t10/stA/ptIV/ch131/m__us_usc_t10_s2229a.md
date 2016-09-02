@@ -51,7 +51,7 @@
 
         (3) The requirement to conduct a review under this subsection shall terminate on September 30, 2015.
 
-(Added [Pub. L. 110–181, div. A, title III, § 352(a)][/us/pl/110/181/s352/a], Jan. 28, 2008, [122 Stat. 71][/us/stat/122/71]; amended [Pub. L. 112–81, div. A, title III, § 341(b)][/us/pl/112/81/s341/b], Dec. 31, 2011, [125 Stat. 1369][/us/stat/125/1369]; [Pub. L. 112–239, div. A, title III, § 343][/us/pl/112/239/s343], Jan. 2, 2013, [126 Stat. 1700][/us/stat/126/1700]; [Pub. L. 114–92, div. A, title III, § 331][/us/pl/114/92/s331], Nov. 25, 2015, [129 Stat. 791][/us/stat/129/791].)
+(Added [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 352(a), Jan. 28, 2008, [122 Stat. 71][/us/stat/122/71]; amended [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 341(b), Dec. 31, 2011, [125 Stat. 1369][/us/stat/125/1369]; [Pub. L. 112–239, div. A, title III][/us/pl/112/239/dA/tIII], § 343, Jan. 2, 2013, [126 Stat. 1700][/us/stat/126/1700]; [Pub. L. 114–92, div. A, title III][/us/pl/114/92/dA/tIII], § 331, Nov. 25, 2015, [129 Stat. 791][/us/stat/129/791].)
 
  __Amendments__ 
 
@@ -69,13 +69,13 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/110/181/s352/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs352%2Fa
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F71
-[/us/pl/112/81/s341/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs341%2Fb
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1369
-[/us/pl/112/239/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs343
+[/us/pl/112/239/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIII
 [/us/stat/126/1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1700
-[/us/pl/114/92/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs331
+[/us/pl/114/92/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtIII
 [/us/stat/129/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F791
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239

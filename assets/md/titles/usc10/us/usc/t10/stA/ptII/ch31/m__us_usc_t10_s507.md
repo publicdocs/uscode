@@ -19,7 +19,7 @@
 
     (b) This section does not prevent the retention in service, without his consent, of an enlisted member of an armed force under [section 972 of this title][/us/usc/t10/s972].
 
-(Added [Pub. L. 90–235, § 2(a)(1)(B)][/us/pl/90/235/s2/a/1/B], Jan. 2, 1968, [81 Stat. 754][/us/stat/81/754].)
+(Added [Pub. L. 90–235][/us/pl/90/235], § 2(a)(1)(B), Jan. 2, 1968, [81 Stat. 754][/us/stat/81/754].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t10/s972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs972
-[/us/pl/90/235/s2/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs2%2Fa%2F1%2FB
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F754
 
 

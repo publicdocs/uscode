@@ -17,7 +17,7 @@
 
     Except for commissioned warrant officers, the reserve commissioned officer grades in each armed force are those authorized for regular commissioned officers of that armed force.
 
-(Added [Pub. L. 85–861, § 1(10)(B)][/us/pl/85/861/s1/10/B], Sept. 2, 1958, [72 Stat. 1440][/us/stat/72/1440], § 592; renumbered § 12202, [Pub. L. 103–337, div. A, title XVI, § 1662(c)(2)][/us/pl/103/337/s1662/c/2], Oct. 5, 1994, [108 Stat. 2990][/us/stat/108/2990].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(10)(B), Sept. 2, 1958, [72 Stat. 1440][/us/stat/72/1440], § 592; renumbered § 12202, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(c)(2), Oct. 5, 1994, [108 Stat. 2990][/us/stat/108/2990].)
 
 <table>
 
@@ -78,9 +78,9 @@ Sept. 3, 1954, ch. 1257, §§ 102(1) (as applicable to § 211), 211, 68 Stat
 ----------
 ----------
 
-[/us/pl/85/861/s1/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F10%2FB
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1440
-[/us/pl/103/337/s1662/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fc%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2990
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs592

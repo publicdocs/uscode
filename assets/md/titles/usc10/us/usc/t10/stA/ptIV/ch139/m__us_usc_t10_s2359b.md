@@ -159,11 +159,11 @@
 
         The authority to carry out the pilot program under this subsection shall terminate on January 7, 2016.
 
-(Added [Pub. L. 107–314, div. A, title II, § 243(a)][/us/pl/107/314/s243/a], Dec. 2, 2002, [116 Stat. 2495][/us/stat/116/2495]; amended [Pub. L. 109–364, div. A, title II, § 213(b)][/us/pl/109/364/s213/b], (d)–(g), Oct. 17, 2006, [120 Stat. 2121–2123][/us/stat/120/2121-2123]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 821, Oct. 14, 2008, [122 Stat. 4531][/us/stat/122/4531]; [Pub. L. 111–383, div. A, title VIII, § 827][/us/pl/111/383/s827], Jan. 7, 2011, [124 Stat. 4270][/us/stat/124/4270]; [Pub. L. 112–239, div. A, title X, § 1076(e)(3)][/us/pl/112/239/s1076/e/3], Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951]; [Pub. L. 113–66, div. A, title X, § 1091(a)(10)][/us/pl/113/66/s1091/a/10], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876]; [Pub. L. 113–291, div. A, title X, § 1071(a)(6)][/us/pl/113/291/s1071/a/6], Dec. 19, 2014, [128 Stat. 3504][/us/stat/128/3504].)
+(Added [Pub. L. 107–314, div. A, title II][/us/pl/107/314/dA/tII], § 243(a), Dec. 2, 2002, [116 Stat. 2495][/us/stat/116/2495]; amended [Pub. L. 109–364, div. A, title II][/us/pl/109/364/dA/tII], § 213(b), (d)–(g), Oct. 17, 2006, [120 Stat. 2121–2123][/us/stat/120/2121-2123]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 821, Oct. 14, 2008, [122 Stat. 4531][/us/stat/122/4531]; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 827, Jan. 7, 2011, [124 Stat. 4270][/us/stat/124/4270]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(e)(3), Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951]; [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1091(a)(10), Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(a)(6), Dec. 19, 2014, [128 Stat. 3504][/us/stat/128/3504].)
 
  __References in Text__ 
 
-    The Small Business Act, referred to in subsec. (k)(4)(B), is [Pub. L. 85–536, § 2][/us/pl/85/536/s2](1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
+    The Small Business Act, referred to in subsec. (k)(4)(B), is [Pub. L. 85–536][/us/pl/85/536], § 2(1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
 
  __Amendments__ 
 
@@ -177,29 +177,29 @@
 
     2008—Subsec. (l). [Pub. L. 110–417][/us/pl/110/417] added subsec. (l).
 
-    2006—Subsec. (c)(4), (5). [Pub. L. 109–364, § 213(b)(1)][/us/pl/109/364/s213/b/1], added par. (4) and redesignated former par. (4) as (5). Former par. (5) redesignated (6).
+    2006—Subsec. (c)(4), (5). [Pub. L. 109–364][/us/pl/109/364], § 213(b)(1), added par. (4) and redesignated former par. (4) as (5). Former par. (5) redesignated (6).
 
-    Subsec. (c)(6). [Pub. L. 109–364, § 213(b)(1)(A)][/us/pl/109/364/s213/b/1/A], (d), redesignated par. (5) as (6) and amended it generally. Prior to amendment, par. (6) read as follows: “The Under Secretary may establish procedures to ensure that the Challenge Program does not become an avenue for the repetitive submission of proposals that have been previously reviewed and found not to have merit.” Former par. (6) redesignated (7).
+    Subsec. (c)(6). [Pub. L. 109–364][/us/pl/109/364], § 213(b)(1)(A), (d), redesignated par. (5) as (6) and amended it generally. Prior to amendment, par. (6) read as follows: “The Under Secretary may establish procedures to ensure that the Challenge Program does not become an avenue for the repetitive submission of proposals that have been previously reviewed and found not to have merit.” Former par. (6) redesignated (7).
 
-    Subsec. (c)(7). [Pub. L. 109–364, § 213(b)(1)(A)][/us/pl/109/364/s213/b/1/A], (g)(1), redesignated par. (6) as (7) and substituted “paragraph (5)” for “paragraph (4)”.
+    Subsec. (c)(7). [Pub. L. 109–364][/us/pl/109/364], § 213(b)(1)(A), (g)(1), redesignated par. (6) as (7) and substituted “paragraph (5)” for “paragraph (4)”.
 
-    Subsec. (d)(1). [Pub. L. 109–364, § 213(g)(2)][/us/pl/109/364/s213/g/2], substituted “subsection (c)(7)” for “subsection (c)(6)”.
+    Subsec. (d)(1). [Pub. L. 109–364][/us/pl/109/364], § 213(g)(2), substituted “subsection (c)(7)” for “subsection (c)(6)”.
 
-    Subsec. (d)(2). [Pub. L. 109–364, § 213(g)(3)][/us/pl/109/364/s213/g/3], substituted “subsection (c)(5)” for “subsection (c)(4)” in introductory provisions.
+    Subsec. (d)(2). [Pub. L. 109–364][/us/pl/109/364], § 213(g)(3), substituted “subsection (c)(5)” for “subsection (c)(4)” in introductory provisions.
 
-    Subsec. (e)(1). [Pub. L. 109–364, § 213(g)(4)][/us/pl/109/364/s213/g/4], substituted “subsection (c)(5)” for “subsection (c)(4)”.
+    Subsec. (e)(1). [Pub. L. 109–364][/us/pl/109/364], § 213(g)(4), substituted “subsection (c)(5)” for “subsection (c)(4)”.
 
-    Subsec. (e)(3). [Pub. L. 109–364, § 213(b)(2)][/us/pl/109/364/s213/b/2], added par. (3).
+    Subsec. (e)(3). [Pub. L. 109–364][/us/pl/109/364], § 213(b)(2), added par. (3).
 
-    Subsecs. (f), (g). [Pub. L. 109–364, § 213(b)(3)][/us/pl/109/364/s213/b/3], added subsec. (f) and redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    Subsecs. (f), (g). [Pub. L. 109–364][/us/pl/109/364], § 213(b)(3), added subsec. (f) and redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 109–364, § 213(b)(3)(A)][/us/pl/109/364/s213/b/3/A], (e), redesignated subsec. (g) as (h), substituted “Conflicts of Interest and Confidentiality” for “Elimination of Conflicts of Interest” in heading, substituted “conflicts of interest and that the identity of any person or activity submitting a challenge proposal is not disclosed outside the Federal Government, prior to contract award, without the consent of the person or activity” for “conflicts of interest”, and inserted at end “For purposes of the proceeding sentence, the term ‘Federal Government’ includes both employees of the Federal Government and employees of Federal Government contractors providing advisory and assistance services as described in part 37 of the Federal Acquisition Regulation.” Former subsec. (h) redesignated (i).
+    Subsec. (h). [Pub. L. 109–364][/us/pl/109/364], § 213(b)(3)(A), (e), redesignated subsec. (g) as (h), substituted “Conflicts of Interest and Confidentiality” for “Elimination of Conflicts of Interest” in heading, substituted “conflicts of interest and that the identity of any person or activity submitting a challenge proposal is not disclosed outside the Federal Government, prior to contract award, without the consent of the person or activity” for “conflicts of interest”, and inserted at end “For purposes of the proceeding sentence, the term ‘Federal Government’ includes both employees of the Federal Government and employees of Federal Government contractors providing advisory and assistance services as described in part 37 of the Federal Acquisition Regulation.” Former subsec. (h) redesignated (i).
 
-    Subsec. (i). [Pub. L. 109–364, § 213(b)(3)(A)][/us/pl/109/364/s213/b/3/A], redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+    Subsec. (i). [Pub. L. 109–364][/us/pl/109/364], § 213(b)(3)(A), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-    Subsec. (j). [Pub. L. 109–364, § 213(b)(3)(A)][/us/pl/109/364/s213/b/3/A], (4), redesignated subsec. (i) as (j) and substituted “The report shall also include a list of each challenge proposal that was determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but was not determined under a full review and evaluation to satisfy such criteria, together with a detailed rationale for the Department’s determination that such criteria were not satisfied” for “No report is required for a fiscal year in which the Challenge Program is not carried out”. Former subsec. (j) redesignated (k).
+    Subsec. (j). [Pub. L. 109–364][/us/pl/109/364], § 213(b)(3)(A), (4), redesignated subsec. (i) as (j) and substituted “The report shall also include a list of each challenge proposal that was determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but was not determined under a full review and evaluation to satisfy such criteria, together with a detailed rationale for the Department’s determination that such criteria were not satisfied” for “No report is required for a fiscal year in which the Challenge Program is not carried out”. Former subsec. (j) redesignated (k).
 
-    Subsec. (k). [Pub. L. 109–364, § 213(b)(3)(A)][/us/pl/109/364/s213/b/3/A], (f), redesignated subsec. (j) as (k) and substituted “2012” for “2007”.
+    Subsec. (k). [Pub. L. 109–364][/us/pl/109/364], § 213(b)(3)(A), (f), redesignated subsec. (j) as (k) and substituted “2012” for “2007”.
 
 ----------
 
@@ -213,21 +213,21 @@
 [/us/usc/t10/s2302/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F5
 [/us/usc/t41/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs110
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/107/314/s243/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs243%2Fa
+[/us/pl/107/314/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtII
 [/us/stat/116/2495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2495
-[/us/pl/109/364/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs213%2Fb
+[/us/pl/109/364/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtII
 [/us/stat/120/2121-2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2121-2123
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4531
-[/us/pl/111/383/s827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs827
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4270
-[/us/pl/112/239/s1076/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fe%2F3
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1951
-[/us/pl/113/66/s1091/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fa%2F10
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
-[/us/pl/113/291/s1071/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F6
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3504
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F384
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
@@ -237,17 +237,17 @@
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/109/364/s213/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs213%2Fb%2F1
-[/us/pl/109/364/s213/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs213%2Fb%2F1%2FA
-[/us/pl/109/364/s213/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs213%2Fb%2F1%2FA
-[/us/pl/109/364/s213/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs213%2Fg%2F2
-[/us/pl/109/364/s213/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs213%2Fg%2F3
-[/us/pl/109/364/s213/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs213%2Fg%2F4
-[/us/pl/109/364/s213/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs213%2Fb%2F2
-[/us/pl/109/364/s213/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs213%2Fb%2F3
-[/us/pl/109/364/s213/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs213%2Fb%2F3%2FA
-[/us/pl/109/364/s213/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs213%2Fb%2F3%2FA
-[/us/pl/109/364/s213/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs213%2Fb%2F3%2FA
-[/us/pl/109/364/s213/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs213%2Fb%2F3%2FA
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 
 

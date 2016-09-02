@@ -19,7 +19,7 @@
 
     (b) This section does not authorize the use of the cost-plus-a-percentage-of-cost system of contracting.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 464][/us/stat/70A/464]; [Pub. L. 96–513, title V, § 513(38)][/us/pl/96/513/s513/38], Dec. 12, 1980, [94 Stat. 2934][/us/stat/94/2934]; [Pub. L. 97–258, § 3(b)(9)][/us/pl/97/258/s3/b/9], Sept. 13, 1982, [96 Stat. 1064][/us/stat/96/1064]; [Pub. L. 98–525, title XIV, § 1405(56)(B)][/us/pl/98/525/s1405/56/B], Oct. 19, 1984, [98 Stat. 2626][/us/stat/98/2626]; [Pub. L. 103–355, title II, § 2001(j)(2)][/us/pl/103/355/s2001/j/2], Oct. 13, 1994, [108 Stat. 3303][/us/stat/108/3303].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 464][/us/stat/70A/464]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(38), Dec. 12, 1980, [94 Stat. 2934][/us/stat/94/2934]; [Pub. L. 97–258][/us/pl/97/258], § 3(b)(9), Sept. 13, 1982, [96 Stat. 1064][/us/stat/96/1064]; [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(56)(B), Oct. 19, 1984, [98 Stat. 2626][/us/stat/98/2626]; [Pub. L. 103–355, title II][/us/pl/103/355/tII], § 2001(j)(2), Oct. 13, 1994, [108 Stat. 3303][/us/stat/108/3303].)
 
 <table>
 
@@ -65,7 +65,7 @@ Aug. 1, 1946, ch. 727, § 6, 60 Stat. 780.  </td>
 
 </table>
 
-    In subsection (a) reference to R.S. 3718, 3719, 3720, and 3722 ([34 U.S.C. 561][/us/usc/t34/s561], 562, 563, and 572) is omitted because these sections were expressly repealed by [§ 11(a) of the Act of February 19, 1948, ch. 65][/us/act/1948-02-19/ch65/s11/a], [62 Stat. 25][/us/stat/62/25]. The words “without advertising” are substituted for the reference to R.S. 3709 ([41 U.S.C. 5][/us/usc/t41/s5]) for brevity and clarity. The sentence “A contractor supplying such services or materials need not be required to furnish a bond” is substituted for the words “without performance or other bonds” for clarity, since the provision is interpreted as a discretionary authority in the Secretary to waive bond.
+    In subsection (a) reference to R.S. 3718, 3719, 3720, and 3722 ([34 U.S.C. 561][/us/usc/t34/s561], 562, 563, and 572) is omitted because these sections were expressly repealed by § 11(a) of the [Act of February 19, 1948, ch. 65][/us/act/1948-02-19/ch65], [62 Stat. 25][/us/stat/62/25]. The words “without advertising” are substituted for the reference to R.S. 3709 ([41 U.S.C. 5][/us/usc/t41/s5]) for brevity and clarity. The sentence “A contractor supplying such services or materials need not be required to furnish a bond” is substituted for the words “without performance or other bonds” for clarity, since the provision is interpreted as a discretionary authority in the Secretary to waive bond.
 
     In subsection (c) the words “This section does not authorize” are substituted for the words “nothing in this section shall be construed to authorize”.
 
@@ -96,16 +96,16 @@ Aug. 1, 1946, ch. 727, § 6, 60 Stat. 780.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F464
-[/us/pl/96/513/s513/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F38
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2934
-[/us/pl/97/258/s3/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fb%2F9
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1064
-[/us/pl/98/525/s1405/56/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F56%2FB
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2626
-[/us/pl/103/355/s2001/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fj%2F2
+[/us/pl/103/355/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtII
 [/us/stat/108/3303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3303
 [/us/usc/t34/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs561
-[/us/act/1948-02-19/ch65/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-19%2Fch65%2Fs11%2Fa
+[/us/act/1948-02-19/ch65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-19%2Fch65
 [/us/stat/62/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F25
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355

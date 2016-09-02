@@ -83,7 +83,7 @@
 
         (4) validate concepts through experimentation.
 
-(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XII, § 1232(a)(1), Oct. 14, 2008, [122 Stat. 4637][/us/stat/122/4637]; amended [Pub. L. 112–239, div. A, title X, § 1076(f)(25)][/us/pl/112/239/s1076/f/25], Jan. 2, 2013, [126 Stat. 1953][/us/stat/126/1953].)
+(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XII, § 1232(a)(1), Oct. 14, 2008, [122 Stat. 4637][/us/stat/122/4637]; amended [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(f)(25), Jan. 2, 2013, [126 Stat. 1953][/us/stat/126/1953].)
 
  __Amendments__ 
 
@@ -104,7 +104,7 @@
 
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4637
-[/us/pl/112/239/s1076/f/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F25
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1953
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417

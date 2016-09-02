@@ -37,7 +37,7 @@
 
     (c) The Secretary of the Navy, whenever the needs of the service require, may convene a selection board under [section 611(a) of this title][/us/usc/t10/s611/a] to select an officer in the Nurse Corps or in the Medical Service Corps (if such corps has been established under subsection (a)) for promotion to the grade of rear admiral, in the case of an officer in the Nurse Corps, or rear admiral (lower half), in the case of an officer in the Medical Service Corps. An officer promoted pursuant to such a selection shall be appointed by the Secretary to the position of Director of the Nurse Corps or Director of the Medical Service Corps, respectively, for a term of four years, to serve at the pleasure of the Secretary.
 
-(Added [Pub. L. 96–513, title III, § 351][/us/pl/96/513/s351], Dec. 12, 1980, [94 Stat. 2902][/us/stat/94/2902], § 5155; amended [Pub. L. 97–22, § 6(a)][/us/pl/97/22/s6/a], July 10, 1981, [95 Stat. 129][/us/stat/95/129]; [Pub. L. 97–86, title IV, § 405(b)(1)][/us/pl/97/86/s405/b/1], Dec. 1, 1981, [95 Stat. 1105][/us/stat/95/1105]; renumbered § 5150, [Pub. L. 99–433, title V, § 514(a)(2)][/us/pl/99/433/s514/a/2], Oct. 1, 1986, [100 Stat. 1054][/us/stat/100/1054]; [Pub. L. 99–661, div. A, title XIII, § 1343(a)(23)][/us/pl/99/661/s1343/a/23], Nov. 14, 1986, [100 Stat. 3994][/us/stat/100/3994]; [Pub. L. 100–26, § 3(7)][/us/pl/100/26/s3/7], Apr. 21, 1987, [101 Stat. 274][/us/stat/101/274]; [Pub. L. 102–190, div. A, title X, § 1061(a)(22)(A)][/us/pl/102/190/s1061/a/22/A], Dec. 5, 1991, [105 Stat. 1473][/us/stat/105/1473]; [Pub. L. 107–314, div. A, title V, § 504(a)(2)][/us/pl/107/314/s504/a/2], Dec. 2, 2002, [116 Stat. 2531][/us/stat/116/2531]; [Pub. L. 112–239, div. A, title V, § 501(b)][/us/pl/112/239/s501/b], Jan. 2, 2013, [126 Stat. 1714][/us/stat/126/1714].)
+(Added [Pub. L. 96–513, title III][/us/pl/96/513/tIII], § 351, Dec. 12, 1980, [94 Stat. 2902][/us/stat/94/2902], § 5155; amended [Pub. L. 97–22][/us/pl/97/22], § 6(a), July 10, 1981, [95 Stat. 129][/us/stat/95/129]; [Pub. L. 97–86, title IV][/us/pl/97/86/tIV], § 405(b)(1), Dec. 1, 1981, [95 Stat. 1105][/us/stat/95/1105]; renumbered § 5150, [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 514(a)(2), Oct. 1, 1986, [100 Stat. 1054][/us/stat/100/1054]; [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1343(a)(23), Nov. 14, 1986, [100 Stat. 3994][/us/stat/100/3994]; [Pub. L. 100–26][/us/pl/100/26], § 3(7), Apr. 21, 1987, [101 Stat. 274][/us/stat/101/274]; [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1061(a)(22)(A), Dec. 5, 1991, [105 Stat. 1473][/us/stat/105/1473]; [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 504(a)(2), Dec. 2, 2002, [116 Stat. 2531][/us/stat/116/2531]; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 501(b), Jan. 2, 2013, [126 Stat. 1714][/us/stat/126/1714].)
 
  __Prior Provisions__ 
 
@@ -51,7 +51,7 @@
 
     1991—Subsec. (c). [Pub. L. 102–190][/us/pl/102/190] substituted “section 526” for “section 5444”.
 
-    1987—Subsec. (c). [Pub. L. 100–26][/us/pl/100/26] made technical amendment to directory language of [Pub. L. 99–661, § 1343(a)(23)][/us/pl/99/661/s1343/a/23]. See 1986 Amendment note below.
+    1987—Subsec. (c). [Pub. L. 100–26][/us/pl/100/26] made technical amendment to directory language of [Pub. L. 99–661][/us/pl/99/661], § 1343(a)(23). See 1986 Amendment note below.
 
     1986—Subsec. (c). [Pub. L. 99–661][/us/pl/99/661], as amended by [Pub. L. 100–26][/us/pl/100/26], substituted “rear admiral (lower half)” for “commodore”.
 
@@ -83,23 +83,23 @@
 ----------
 
 [/us/usc/t10/s611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs611%2Fa
-[/us/pl/96/513/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs351
+[/us/pl/96/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIII
 [/us/stat/94/2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2902
-[/us/pl/97/22/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs6%2Fa
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F129
-[/us/pl/97/86/s405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs405%2Fb%2F1
+[/us/pl/97/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIV
 [/us/stat/95/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1105
-[/us/pl/99/433/s514/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs514%2Fa%2F2
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1054
-[/us/pl/99/661/s1343/a/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1343%2Fa%2F23
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3994
-[/us/pl/100/26/s3/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F7
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F274
-[/us/pl/102/190/s1061/a/22/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fa%2F22%2FA
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1473
-[/us/pl/107/314/s504/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs504%2Fa%2F2
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2531
-[/us/pl/112/239/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs501%2Fb
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1714
 [/us/usc/t10/s5021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5021
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
@@ -107,7 +107,7 @@
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
-[/us/pl/99/661/s1343/a/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1343%2Fa%2F23
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/pl/97/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86

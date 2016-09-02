@@ -43,11 +43,11 @@
 
     A person is not entitled to benefits under subsection (b) for an injury, illness, or disease, or the aggravation of an injury, illness, or disease that is a result of the gross negligence or the misconduct of that person.
 
-(Added [Pub. L. 108–375, div. A, title V, § 555(a)(1)][/us/pl/108/375/s555/a/1], Oct. 28, 2004, [118 Stat. 1913][/us/stat/118/1913].)
+(Added [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 555(a)(1), Oct. 28, 2004, [118 Stat. 1913][/us/stat/118/1913].)
 
  __Prior Provisions__ 
 
-    A prior section 1074b, added [Pub. L. 102–190, div. A, title VI, § 640(a)(2)][/us/pl/102/190/s640/a/2], Dec. 5, 1991, [105 Stat. 1385][/us/stat/105/1385]; amended [Pub. L. 104–106, div. A, title XV, § 1501(c)(10)][/us/pl/104/106/s1501/c/10], Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499], which related to transitional medical and dental care for members on active duty in support of contingency operations, was repealed by [Pub. L. 107–107, div. A, title VII, § 736(c)(1)][/us/pl/107/107/s736/c/1], (d), Dec. 28, 2001, [115 Stat. 1173][/us/stat/115/1173], with provision that the section, as in effect before Dec. 28, 2001, was to continue to apply to a member of the Armed Forces who was released from active duty in support of a contingency operation before that date.
+    A prior section 1074b, added [Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], § 640(a)(2), Dec. 5, 1991, [105 Stat. 1385][/us/stat/105/1385]; amended [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(c)(10), Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499], which related to transitional medical and dental care for members on active duty in support of contingency operations, was repealed by [Pub. L. 107–107, div. A, title VII][/us/pl/107/107/dA/tVII], § 736(c)(1), (d), Dec. 28, 2001, [115 Stat. 1173][/us/stat/115/1173], with provision that the section, as in effect before Dec. 28, 2001, was to continue to apply to a member of the Armed Forces who was released from active duty in support of a contingency operation before that date.
 
     Another prior section 1074b was renumbered [section 1074c of this title][/us/usc/t10/s1074c].
 
@@ -63,13 +63,13 @@
 [/us/usc/t10/s2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2109
 [/us/usc/t10/s2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2109
 [/us/usc/t10/s2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2109
-[/us/pl/108/375/s555/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs555%2Fa%2F1
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1913
-[/us/pl/102/190/s640/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs640%2Fa%2F2
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1385
-[/us/pl/104/106/s1501/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc%2F10
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F499
-[/us/pl/107/107/s736/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs736%2Fc%2F1
+[/us/pl/107/107/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVII
 [/us/stat/115/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1173
 [/us/usc/t10/s1074c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074c
 

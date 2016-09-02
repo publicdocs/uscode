@@ -27,11 +27,11 @@
 
     The authority provided in subsection (a) may be used only when it is determined, under regulations approved by the Secretary of Defense, that the use of that authority would be advantageous to the United States.
 
-(Added [Pub. L. 100–370, § 1(e)(1)][/us/pl/100/370/s1/e/1], July 19, 1988, [102 Stat. 845][/us/stat/102/845].)
+(Added [Pub. L. 100–370][/us/pl/100/370], § 1(e)(1), July 19, 1988, [102 Stat. 845][/us/stat/102/845].)
 
  __Historical and Revision Notes__ 
 
-    Section is based on [Pub. L. 98–212, title VII, § 723][/us/pl/98/212/s723], Dec. 8, 1983, [97 Stat. 1443][/us/stat/97/1443].
+    Section is based on [Pub. L. 98–212, title VII][/us/pl/98/212/tVII], § 723, Dec. 8, 1983, [97 Stat. 1443][/us/stat/97/1443].
 
 ----------
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/100/370/s1/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs1%2Fe%2F1
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F845
-[/us/pl/98/212/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F212%2Fs723
+[/us/pl/98/212/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F212%2FtVII
 [/us/stat/97/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1443
 
 

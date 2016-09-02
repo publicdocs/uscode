@@ -31,15 +31,15 @@
 
         (2) a Representative in, or a Delegate or Resident Commissioner to, Congress.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 542(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–114; [Pub. L. 108–136, div. A, title X, § 1031(a)(11)][/us/pl/108/136/s1031/a/11], Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597].)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 542(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–114; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(11), Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597].)
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–136, § 1031(a)(11)(B)][/us/pl/108/136/s1031/a/11/B], struck out “and recommendation” after “review” in section catchline.
+    2003—[Pub. L. 108–136][/us/pl/108/136], § 1031(a)(11)(B), struck out “and recommendation” after “review” in section catchline.
 
-    Subsec. (a). [Pub. L. 108–136, § 1031(a)(11)(A)(i)][/us/pl/108/136/s1031/a/11/A/i], struck out “and the other determinations necessary to comply with subsection (b)” before period at end.
+    Subsec. (a). [Pub. L. 108–136][/us/pl/108/136], § 1031(a)(11)(A)(i), struck out “and the other determinations necessary to comply with subsection (b)” before period at end.
 
-    Subsec. (b). [Pub. L. 108–136, § 1031(a)(11)(A)(ii)][/us/pl/108/136/s1031/a/11/A/ii], substituted “a detailed discussion of the rationale supporting the determination.” for “notice in writing of one of the following:
+    Subsec. (b). [Pub. L. 108–136][/us/pl/108/136], § 1031(a)(11)(A)(ii), substituted “a detailed discussion of the rationale supporting the determination.” for “notice in writing of one of the following:
 
     “(1) The posthumous or honorary promotion or appointment does not warrant approval on the merits.
 
@@ -58,12 +58,12 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/136/s1031/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F11
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1597
-[/us/pl/108/136/s1031/a/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F11%2FB
-[/us/pl/108/136/s1031/a/11/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F11%2FA%2Fi
-[/us/pl/108/136/s1031/a/11/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F11%2FA%2Fii
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 
 

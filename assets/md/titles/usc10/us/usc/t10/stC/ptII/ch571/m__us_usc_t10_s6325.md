@@ -33,7 +33,7 @@
 
     (c) A warrant officer who retires under section 6321, 6322, or 6323 of this title may elect to be placed on the retired list in the highest grade and with the highest retired pay to which he is entitled under any provision of this title.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 394][/us/stat/70A/394]; [Pub. L. 85–422, § 11(a)(6)(B)][/us/pl/85/422/s11/a/6/B], May 20, 1958, [72 Stat. 131][/us/stat/72/131]; [Pub. L. 85–861, § 1(143)][/us/pl/85/861/s1/143], Sept. 2, 1958, [72 Stat. 1509][/us/stat/72/1509]; [Pub. L. 88–132, § 5(h)(4)][/us/pl/88/132/s5/h/4], Oct. 2, 1963, [77 Stat. 214][/us/stat/77/214]; [Pub. L. 95–377, § 7][/us/pl/95/377/s7], Sept. 19, 1978, [92 Stat. 721][/us/stat/92/721]; [Pub. L. 96–342, title VIII, § 813(d)(3)][/us/pl/96/342/s813/d/3], Sept. 8, 1980, [94 Stat. 1104][/us/stat/94/1104]; [Pub. L. 96–513, title V][/us/pl/96/513], §§ 503(47)(B), 513(17), Dec. 12, 1980, [94 Stat. 2914][/us/stat/94/2914], 2932; [Pub. L. 97–22, § 10(b)(8)][/us/pl/97/22/s10/b/8], July 10, 1981, [95 Stat. 137][/us/stat/95/137]; [Pub. L. 99–348, title I, § 104(c)(2)][/us/pl/99/348/s104/c/2], title II, § 203(b)(3), July 1, 1986, [100 Stat. 691][/us/stat/100/691], 696; [Pub. L. 102–484, div. A, title X, § 1052(39)][/us/pl/102/484/s1052/39], Oct. 23, 1992, [106 Stat. 2501][/us/stat/106/2501].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 394][/us/stat/70A/394]; [Pub. L. 85–422][/us/pl/85/422], § 11(a)(6)(B), May 20, 1958, [72 Stat. 131][/us/stat/72/131]; [Pub. L. 85–861][/us/pl/85/861], § 1(143), Sept. 2, 1958, [72 Stat. 1509][/us/stat/72/1509]; [Pub. L. 88–132][/us/pl/88/132], § 5(h)(4), Oct. 2, 1963, [77 Stat. 214][/us/stat/77/214]; [Pub. L. 95–377][/us/pl/95/377], § 7, Sept. 19, 1978, [92 Stat. 721][/us/stat/92/721]; [Pub. L. 96–342, title VIII][/us/pl/96/342/tVIII], § 813(d)(3), Sept. 8, 1980, [94 Stat. 1104][/us/stat/94/1104]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], §§ 503(47)(B), 513(17), Dec. 12, 1980, [94 Stat. 2914][/us/stat/94/2914], 2932; [Pub. L. 97–22][/us/pl/97/22], § 10(b)(8), July 10, 1981, [95 Stat. 137][/us/stat/95/137]; [Pub. L. 99–348, title I][/us/pl/99/348/tI], § 104(c)(2), title II, § 203(b)(3), July 1, 1986, [100 Stat. 691][/us/stat/100/691], 696; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1052(39), Oct. 23, 1992, [106 Stat. 2501][/us/stat/106/2501].)
 
 <table>
 
@@ -215,11 +215,11 @@ May 29, 1954, ch. 249, § 14(f), 68 Stat. 163 (as applicable to officers retir
 
 </table>
 
-    Title III of the Officer Personnel Act of 1947 authorizes temporary promotions to the grades of lieutenant through rear admiral. The purpose of § 316(j) of that act ([34 U.S.C. 410m][/us/usc/t34/s410m]) was to insure that each officer who is temporarily promoted under that Title, and who retires before he receives a permanent appointment in the grade in which he is serving, will be considered, for the purposes of the laws relating to retired grade and pay, to be serving in the grade he holds pursuant to his temporary appointment. Since [§ 5001 of this title][/us/usc/t10/s5001] provides that an officer who holds a permanent appointment in one grade and a temporary appointment in a higher grade is considered as serving in the higher grade, a restatement of the substance of § 316(j) is unnecessary and is omitted from subsection (a). The words “retired other than by reason of physical disability incurred in line of duty”, in [34 U.S.C. 43g(d)][/us/usc/t34/s43g/d] and (f) and [34 U.S.C. 410r(g)][/us/usc/t34/s410r/g], are omitted as unnecessary, since this section relates only to officers who are voluntarily retired under this chapter. The words “basic pay to which he would be entitled if serving on active duty in the grade in which retired” are substituted for the words “active-duty pay with longevity credit of the rank with which retired” in [34 U.S.C. 410c(a)][/us/usc/t34/s410c/a], for the words “active-duty pay to which entitled at the time of retirement” in [34 U.S.C. 43g(d)][/us/usc/t34/s43g/d], and for the words “active-duty pay to which she would be entitled if serving, at the time of retirement, on active duty in the rank in which placed upon the retired list” in [34 U.S.C. 43g(f)][/us/usc/t34/s43g/f] and [34 U.S.C. 410r(g)][/us/usc/t34/s410r/g], to make clear the fact that the amount of retired pay is not permanently fixed at the time of retirement but is subject to change when rates of basic pay are changed, as provided in [34 U.S.C. 410q][/us/usc/t34/s410q]. The words “basic pay” are substituted for the words “active-duty pay” and the words “creditable for basic pay” are substituted for the words “for which entitled to credit in the computation of her active-duty pay”, and for the words “for which entitled to credit in the computation of their pay while on active duty” to conform to the terminology used in the Career Compensation Act of 1949 ([37 U.S.C. 231][/us/usc/t37/s231] et seq.)
+    Title III of the Officer Personnel Act of 1947 authorizes temporary promotions to the grades of lieutenant through rear admiral. The purpose of § 316(j) of that act ([34 U.S.C. 410m][/us/usc/t34/s410m]) was to insure that each officer who is temporarily promoted under that Title, and who retires before he receives a permanent appointment in the grade in which he is serving, will be considered, for the purposes of the laws relating to retired grade and pay, to be serving in the grade he holds pursuant to his temporary appointment. Since § 5001 of this title provides that an officer who holds a permanent appointment in one grade and a temporary appointment in a higher grade is considered as serving in the higher grade, a restatement of the substance of § 316(j) is unnecessary and is omitted from subsection (a). The words “retired other than by reason of physical disability incurred in line of duty”, in [34 U.S.C. 43g(d)][/us/usc/t34/s43g/d] and (f) and [34 U.S.C. 410r(g)][/us/usc/t34/s410r/g], are omitted as unnecessary, since this section relates only to officers who are voluntarily retired under this chapter. The words “basic pay to which he would be entitled if serving on active duty in the grade in which retired” are substituted for the words “active-duty pay with longevity credit of the rank with which retired” in [34 U.S.C. 410c(a)][/us/usc/t34/s410c/a], for the words “active-duty pay to which entitled at the time of retirement” in [34 U.S.C. 43g(d)][/us/usc/t34/s43g/d], and for the words “active-duty pay to which she would be entitled if serving, at the time of retirement, on active duty in the rank in which placed upon the retired list” in [34 U.S.C. 43g(f)][/us/usc/t34/s43g/f] and [34 U.S.C. 410r(g)][/us/usc/t34/s410r/g], to make clear the fact that the amount of retired pay is not permanently fixed at the time of retirement but is subject to change when rates of basic pay are changed, as provided in [34 U.S.C. 410q][/us/usc/t34/s410q]. The words “basic pay” are substituted for the words “active-duty pay” and the words “creditable for basic pay” are substituted for the words “for which entitled to credit in the computation of her active-duty pay”, and for the words “for which entitled to credit in the computation of their pay while on active duty” to conform to the terminology used in the Career Compensation Act of 1949 ([37 U.S.C. 231][/us/usc/t37/s231] et seq.)
 
     Unlike provisions of law authorizing retirement on various other grounds, R.S. 1443, which provides for the retirement of officers on their own application after 40 years of service, contains no provisions as to retired pay. R.S. 1588 provided, inter alia, that officers so retired should received retired pay at the rate of 75 percent of the sea pay of their respective grades, but that section was expressly repealed by § 531(a)(7) of the Career Compensation Act of 1949, leaving no specific provision for the retired pay of officers retired under R.S. 1443. It would be absurd to assume, however, that Congress intended that an officer having 40 years of service should be retired without pay, when he could have been retired with pay at any time within the preceding 20 years. By the repeal of R.S. 1588 Congress intended merely to remove obsolete and superseded provisions as to retirement at age 62 and retirement after 45 years of service, references to sea pay, and provisions, inconsistent with later law, for half pay for officers retired for other reasons. Congress intended the retired pay of officers retired after 40 years of service to be computed according to the formula prescribed generally for retired officers, other than for officers retired by reason of physical disability, and this section is worded accordingly.
 
-    Subsection (b) is added for clarity. With respect to officers appointed under §§ 5231 or 5232 of this title it represents a necessary inference from [34 U.S.C. 410][/us/usc/t34/s410]o and 623b(e), codified in [§ 5233 of this title][/us/usc/t10/s5233].
+    Subsection (b) is added for clarity. With respect to officers appointed under §§ 5231 or 5232 of this title it represents a necessary inference from [34 U.S.C. 410][/us/usc/t34/s410]o and 623b(e), codified in § 5233 of this title.
 
 <table>
 
@@ -269,31 +269,31 @@ Source (Statutes at Large)  </td>
 
  __References in Text__ 
 
-    [Section 602 of this title][/us/usc/t10/s602], referred to in subsec. (b), was repealed by [Pub. L. 102–190, div. A, title XI, § 1113(a)][/us/pl/102/190/s1113/a], Dec. 5, 1991, [105 Stat. 1502][/us/stat/105/1502].
+    [Section 602 of this title][/us/usc/t10/s602], referred to in subsec. (b), was repealed by [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1113(a), Dec. 5, 1991, [105 Stat. 1502][/us/stat/105/1502].
 
  __Amendments__ 
 
     1992—Subsec. (b). [Pub. L. 102–484][/us/pl/102/484] substituted “section 602 (as in effect before February 1, 1992) or section 5721” for “section 602 or 5721”.
 
-    1986—Subsec. (a)(2). [Pub. L. 99–348, § 203(b)(3)][/us/pl/99/348/s203/b/3], substituted provision that retired pay be computed under section 6333 for provision that retired pay, in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 2½ percent of the basic pay of the grade in which he retired, or in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 2½ percent of the monthly retired pay base computed under section 1407(d), which rates were to be multiplied by the number of years of service credited under section 1405, but such retired pay was not to be more than 75 percent of the basic pay or monthly retired pay base upon which the computation of retired pay was based.
+    1986—Subsec. (a)(2). [Pub. L. 99–348][/us/pl/99/348], § 203(b)(3), substituted provision that retired pay be computed under section 6333 for provision that retired pay, in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 2½ percent of the basic pay of the grade in which he retired, or in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 2½ percent of the monthly retired pay base computed under section 1407(d), which rates were to be multiplied by the number of years of service credited under section 1405, but such retired pay was not to be more than 75 percent of the basic pay or monthly retired pay base upon which the computation of retired pay was based.
 
-    Subsec. (b)(2). [Pub. L. 99–348, § 203(b)(3)][/us/pl/99/348/s203/b/3], substituted provision that retired pay be computed under section 6333 for provision that retired pay, in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 2½ percent of the basic pay of the grade he would have held if he had not received an appointment, or in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 2½ percent of the monthly retired pay base computed under section 1407(d), which rates were to be multiplied by the number of years of service credited under section 1405, but such retired pay was not to be more than 75 percent of the basic pay or monthly retired pay base upon which the computation of retired pay was based.
+    Subsec. (b)(2). [Pub. L. 99–348][/us/pl/99/348], § 203(b)(3), substituted provision that retired pay be computed under section 6333 for provision that retired pay, in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 2½ percent of the basic pay of the grade he would have held if he had not received an appointment, or in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 2½ percent of the monthly retired pay base computed under section 1407(d), which rates were to be multiplied by the number of years of service credited under section 1405, but such retired pay was not to be more than 75 percent of the basic pay or monthly retired pay base upon which the computation of retired pay was based.
 
-    Subsec. (c). [Pub. L. 99–348, § 104(c)(2)][/us/pl/99/348/s104/c/2], struck out provision that if the pay of that highest grade was less than the pay of any warrant grade satisfactorily held by him on active duty, his retired pay would be based on the higher pay.
+    Subsec. (c). [Pub. L. 99–348][/us/pl/99/348], § 104(c)(2), struck out provision that if the pay of that highest grade was less than the pay of any warrant grade satisfactorily held by him on active duty, his retired pay would be based on the higher pay.
 
     1981—Subsec. (b). [Pub. L. 97–22][/us/pl/97/22], in provisions preceding par. (1), substituted “appointed or promoted under [section 603 of this title][/us/usc/t10/s603] or promoted under section 602 or 5721 of this title” for “appointed under [section 5597 of this title][/us/usc/t10/s5597] or promoted under section 5787 or 5787d of this title”.
 
-    1980—Subsec. (a). [Pub. L. 96–513, § 503(47)(B)(i)][/us/pl/96/513/s503/47/B/i], inserted “or [section 1370 of this title][/us/usc/t10/s1370]” after “subsection (b)”.
+    1980—Subsec. (a). [Pub. L. 96–513][/us/pl/96/513], § 503(47)(B)(i), inserted “or [section 1370 of this title][/us/usc/t10/s1370]” after “subsection (b)”.
 
-    Subsec. (a)(2). [Pub. L. 96–513, § 513(17)][/us/pl/96/513/s513/17], substituted “September 8, 1980” for “the date of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing.
+    Subsec. (a)(2). [Pub. L. 96–513][/us/pl/96/513], § 513(17), substituted “September 8, 1980” for “the date of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing.
 
-    [Pub. L. 96–342, § 813(d)(3)(A)][/us/pl/96/342/s813/d/3/A], designated existing provisions as subpar. (A), inserted provision limiting applicability to officers who became members of the uniformed services before the date of the enactment of the Department of Defense Authorization Act, 1981, and added subpar. (B).
+    [Pub. L. 96–342][/us/pl/96/342], § 813(d)(3)(A), designated existing provisions as subpar. (A), inserted provision limiting applicability to officers who became members of the uniformed services before the date of the enactment of the Department of Defense Authorization Act, 1981, and added subpar. (B).
 
-    Subsec. (b). [Pub. L. 96–513, § 503(47)(B)(ii)][/us/pl/96/513/s503/47/B/ii], substituted “601” for “5231 or 5232”.
+    Subsec. (b). [Pub. L. 96–513][/us/pl/96/513], § 503(47)(B)(ii), substituted “601” for “5231 or 5232”.
 
-    Subsec. (b)(2). [Pub. L. 96–513, § 513(17)][/us/pl/96/513/s513/17], substituted “September 8, 1980” for “the date of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing.
+    Subsec. (b)(2). [Pub. L. 96–513][/us/pl/96/513], § 513(17), substituted “September 8, 1980” for “the date of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing.
 
-    [Pub. L. 96–342, § 813(d)(3)(B)][/us/pl/96/342/s813/d/3/B], designated existing provisions as subpar. (A), inserted provision limiting applicability to officers who became members of the uniformed services before the date of the enactment of the Department of Defense Authorization Act, 1981, and added subpar. (B).
+    [Pub. L. 96–342][/us/pl/96/342], § 813(d)(3)(B), designated existing provisions as subpar. (A), inserted provision limiting applicability to officers who became members of the uniformed services before the date of the enactment of the Department of Defense Authorization Act, 1981, and added subpar. (B).
 
     1978—Subsec. (b). [Pub. L. 95–377][/us/pl/95/377] inserted “or 5787d” after “5787”.
 
@@ -305,7 +305,7 @@ Source (Statutes at Large)  </td>
 
  __Effective Date of 1981 Amendment__ 
 
-    [Pub. L. 97–22, § 10(b)][/us/pl/97/22/s10/b], July 10, 1981, [95 Stat. 137][/us/stat/95/137], provided that the amendment made by that section is effective Sept. 15, 1981.
+    [Pub. L. 97–22][/us/pl/97/22], § 10(b), July 10, 1981, [95 Stat. 137][/us/stat/95/137], provided that the amendment made by that section is effective Sept. 15, 1981.
 
  __Effective Date of 1980 Amendment__ 
 
@@ -338,26 +338,25 @@ Source (Statutes at Large)  </td>
 [/us/usc/t10/s6333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6333
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F394
-[/us/pl/85/422/s11/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F422%2Fs11%2Fa%2F6%2FB
+[/us/pl/85/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F422
 [/us/stat/72/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F131
-[/us/pl/85/861/s1/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F143
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1509
-[/us/pl/88/132/s5/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132%2Fs5%2Fh%2F4
+[/us/pl/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132
 [/us/stat/77/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F214
-[/us/pl/95/377/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F377%2Fs7
+[/us/pl/95/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F377
 [/us/stat/92/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F721
-[/us/pl/96/342/s813/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs813%2Fd%2F3
+[/us/pl/96/342/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtVIII
 [/us/stat/94/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1104
-[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2914
-[/us/pl/97/22/s10/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs10%2Fb%2F8
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F137
-[/us/pl/99/348/s104/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs104%2Fc%2F2
+[/us/pl/99/348/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtI
 [/us/stat/100/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F691
-[/us/pl/102/484/s1052/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F39
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2501
 [/us/usc/t34/s410m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs410m
-[/us/usc/t10/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5001
 [/us/usc/t34/s43g/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs43g%2Fd
 [/us/usc/t34/s410r/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs410r%2Fg
 [/us/usc/t34/s410c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs410c%2Fa
@@ -367,30 +366,29 @@ Source (Statutes at Large)  </td>
 [/us/usc/t34/s410q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs410q
 [/us/usc/t37/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs231
 [/us/usc/t34/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs410
-[/us/usc/t10/s5233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5233
 [/us/usc/t10/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs602
-[/us/pl/102/190/s1113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1113%2Fa
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1502
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/99/348/s203/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs203%2Fb%2F3
-[/us/pl/99/348/s203/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs203%2Fb%2F3
-[/us/pl/99/348/s104/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs104%2Fc%2F2
+[/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
+[/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
+[/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
 [/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/usc/t10/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs603
 [/us/usc/t10/s5597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5597
-[/us/pl/96/513/s503/47/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs503%2F47%2FB%2Fi
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/usc/t10/s1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1370
-[/us/pl/96/513/s513/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F17
-[/us/pl/96/342/s813/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs813%2Fd%2F3%2FA
-[/us/pl/96/513/s503/47/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs503%2F47%2FB%2Fii
-[/us/pl/96/513/s513/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F17
-[/us/pl/96/342/s813/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs813%2Fd%2F3%2FB
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342
 [/us/pl/95/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F377
 [/us/pl/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/pl/85/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F422
 [/us/usc/t10/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1405
-[/us/pl/97/22/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs10%2Fb
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F137
 [/us/pl/96/513/s503/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs503%2F47
 [/us/pl/96/513/s513/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F17

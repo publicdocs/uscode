@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–239, div. A, title V, § 552(c)(3)][/us/pl/112/239/s552/c/3], Jan. 2, 2013, [126 Stat. 1741][/us/stat/126/1741], struck out item 7911 “Arms, tentage, and equipment: educational institutions not maintaining units of R.O.T.C.”
+    2013—[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 552(c)(3), Jan. 2, 2013, [126 Stat. 1741][/us/stat/126/1741], struck out item 7911 “Arms, tentage, and equipment: educational institutions not maintaining units of R.O.T.C.”
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/112/239/s552/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs552%2Fc%2F3
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1741
 
 

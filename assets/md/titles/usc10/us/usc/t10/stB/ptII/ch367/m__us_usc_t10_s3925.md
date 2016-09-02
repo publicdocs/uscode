@@ -19,7 +19,7 @@
 
     (b) Time required to be made up under [section 972(a) of this title][/us/usc/t10/s972/a] may not be counted in determining years of service under subsection (a).
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 228][/us/stat/70A/228]; [Pub. L. 85–861, § 1(97)][/us/pl/85/861/s1/97], Sept. 2, 1958, [72 Stat. 1488][/us/stat/72/1488]; [Pub. L. 96–343, § 9(a)(2)][/us/pl/96/343/s9/a/2], Sept. 8, 1980, [94 Stat. 1128][/us/stat/94/1128]; [Pub. L. 99–348, title II, § 202(c)][/us/pl/99/348/s202/c], July 1, 1986, [100 Stat. 695][/us/stat/100/695]; [Pub. L. 103–337, div. A, title VI, § 635(a)(1)][/us/pl/103/337/s635/a/1], Oct. 5, 1994, [108 Stat. 2788][/us/stat/108/2788]; [Pub. L. 104–106, div. A, title V, § 561(d)(2)(A)][/us/pl/104/106/s561/d/2/A], Feb. 10, 1996, [110 Stat. 322][/us/stat/110/322].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 228][/us/stat/70A/228]; [Pub. L. 85–861][/us/pl/85/861], § 1(97), Sept. 2, 1958, [72 Stat. 1488][/us/stat/72/1488]; [Pub. L. 96–343][/us/pl/96/343], § 9(a)(2), Sept. 8, 1980, [94 Stat. 1128][/us/stat/94/1128]; [Pub. L. 99–348, title II][/us/pl/99/348/tII], § 202(c), July 1, 1986, [100 Stat. 695][/us/stat/100/695]; [Pub. L. 103–337, div. A, title VI][/us/pl/103/337/dA/tVI], § 635(a)(1), Oct. 5, 1994, [108 Stat. 2788][/us/stat/108/2788]; [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 561(d)(2)(A), Feb. 10, 1996, [110 Stat. 322][/us/stat/110/322].)
 
 <table>
 
@@ -143,15 +143,15 @@ Source (Statutes at Large)  </td>
 
  __References in Text__ 
 
-    [Section 3683 of this title][/us/usc/t10/s3683], referred to in subsec. (a), was repealed (subject to a savings clause) by [Pub. L. 99–145, title XIII, § 1301(b)(1)(A)][/us/pl/99/145/s1301/b/1/A], (C), Nov. 8, 1985, [99 Stat. 735][/us/stat/99/735].
+    [Section 3683 of this title][/us/usc/t10/s3683], referred to in subsec. (a), was repealed (subject to a savings clause) by [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1301(b)(1)(A), (C), Nov. 8, 1985, [99 Stat. 735][/us/stat/99/735].
 
  __Amendments__ 
 
     1996—Subsec. (b). [Pub. L. 104–106][/us/pl/104/106] substituted “section 972(a)” for “section 972”.
 
-    1994—Subsec. (a). [Pub. L. 103–337, § 635(a)(1)(A)][/us/pl/103/337/s635/a/1/A], struck out “and of computing his retired pay under [section 3991 of this title][/us/usc/t10/s3991],” after “3917 of this title,”.
+    1994—Subsec. (a). [Pub. L. 103–337][/us/pl/103/337], § 635(a)(1)(A), struck out “and of computing his retired pay under [section 3991 of this title][/us/usc/t10/s3991],” after “3917 of this title,”.
 
-    Subsec. (c). [Pub. L. 103–337, § 635(a)(1)(B)][/us/pl/103/337/s635/a/1/B], struck out subsec. (c) which read as follows: “In determining a member’s years of service under subsection (a) for the purpose of computing the member’s retired pay under [section 3991 of this title][/us/usc/t10/s3991]—
+    Subsec. (c). [Pub. L. 103–337][/us/pl/103/337], § 635(a)(1)(B), struck out subsec. (c) which read as follows: “In determining a member’s years of service under subsection (a) for the purpose of computing the member’s retired pay under [section 3991 of this title][/us/usc/t10/s3991]—
 
     “(1) each full month of service that is in addition to the number of full years of service creditable to the member shall be credited as 1⁄12 of a year; and
 
@@ -159,9 +159,9 @@ Source (Statutes at Large)  </td>
 
     1986—Subsec. (c). [Pub. L. 99–348][/us/pl/99/348] added subsec. (c).
 
-    1980—[Pub. L. 96–343, § 9(a)(2)(A)][/us/pl/96/343/s9/a/2/A], struck out “regular” before “enlisted members” in section catchline.
+    1980—[Pub. L. 96–343][/us/pl/96/343], § 9(a)(2)(A), struck out “regular” before “enlisted members” in section catchline.
 
-    Subsec. (a). [Pub. L. 96–343, § 9(a)(2)(B)][/us/pl/96/343/s9/a/2/B], substituted “an enlisted” for “a regular enlisted”.
+    Subsec. (a). [Pub. L. 96–343][/us/pl/96/343], § 9(a)(2)(B), substituted “an enlisted” for “a regular enlisted”.
 
     1958—Subsec. (b). [Pub. L. 85–861][/us/pl/85/861] substituted “[section 972 of this title][/us/usc/t10/s972]” for “[section 3638 of this title][/us/usc/t10/s3638]”.
 
@@ -187,31 +187,31 @@ Source (Statutes at Large)  </td>
 [/us/usc/t10/s972/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs972%2Fa
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F228
-[/us/pl/85/861/s1/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F97
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1488
-[/us/pl/96/343/s9/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343%2Fs9%2Fa%2F2
+[/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
 [/us/stat/94/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1128
-[/us/pl/99/348/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs202%2Fc
+[/us/pl/99/348/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtII
 [/us/stat/100/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F695
-[/us/pl/103/337/s635/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs635%2Fa%2F1
+[/us/pl/103/337/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVI
 [/us/stat/108/2788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2788
-[/us/pl/104/106/s561/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs561%2Fd%2F2%2FA
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F322
 [/us/usc/t10/s3683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3683
 [/us/usc/t10/s3638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3638
 [/us/usc/t10/s3638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3638
 [/us/usc/t10/s972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs972
 [/us/usc/t10/s3683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3683
-[/us/pl/99/145/s1301/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1301%2Fb%2F1%2FA
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F735
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/337/s635/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs635%2Fa%2F1%2FA
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s3991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3991
-[/us/pl/103/337/s635/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs635%2Fa%2F1%2FB
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s3991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3991
 [/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
-[/us/pl/96/343/s9/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343%2Fs9%2Fa%2F2%2FA
-[/us/pl/96/343/s9/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343%2Fs9%2Fa%2F2%2FB
+[/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
+[/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/usc/t10/s972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs972
 [/us/usc/t10/s3638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3638

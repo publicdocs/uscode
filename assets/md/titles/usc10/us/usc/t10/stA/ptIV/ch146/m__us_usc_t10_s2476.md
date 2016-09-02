@@ -111,35 +111,35 @@
 
             (C) Oklahoma City Air Logistics Center, Oklahoma.
 
-(Added [Pub. L. 109–364, div. A, title III, § 332(a)][/us/pl/109/364/s332/a], Oct. 17, 2006, [120 Stat. 2149][/us/stat/120/2149]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 327, Oct. 14, 2008, [122 Stat. 4418][/us/stat/122/4418]; [Pub. L. 111–383, div. A, title X, § 1075(b)(36)][/us/pl/111/383/s1075/b/36], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371]; [Pub. L. 112–81, div. A, title III, § 325][/us/pl/112/81/s325], Dec. 31, 2011, [125 Stat. 1364][/us/stat/125/1364].)
+(Added [Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 332(a), Oct. 17, 2006, [120 Stat. 2149][/us/stat/120/2149]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 327, Oct. 14, 2008, [122 Stat. 4418][/us/stat/122/4418]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(36), Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371]; [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 325, Dec. 31, 2011, [125 Stat. 1364][/us/stat/125/1364].)
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 112–81, § 325(1)][/us/pl/112/81/s325/1], inserted “maintenance, repair, and overhaul” after “combined”.
+    2011—Subsec. (a). [Pub. L. 112–81][/us/pl/112/81], § 325(1), inserted “maintenance, repair, and overhaul” after “combined”.
 
-    Subsec. (b). [Pub. L. 112–81, § 325(2)][/us/pl/112/81/s325/2], substituted “includes investment funds spent to modernize or improve the efficiency of depot facilities, equipment, work environment, or processes in direct support” for “includes investment funds spent on depot infrastructure, equipment, and process improvement in direct support” and inserted “, but does not include funds spent for sustainment of existing facilities, infrastructure, or equipment” before period at end.
+    Subsec. (b). [Pub. L. 112–81][/us/pl/112/81], § 325(2), substituted “includes investment funds spent to modernize or improve the efficiency of depot facilities, equipment, work environment, or processes in direct support” for “includes investment funds spent on depot infrastructure, equipment, and process improvement in direct support” and inserted “, but does not include funds spent for sustainment of existing facilities, infrastructure, or equipment” before period at end.
 
     Subsec. (d)(2)(D). [Pub. L. 111–383][/us/pl/111/383] substituted “Navy depots” for “Navy Depots”.
 
-    Subsec. (d)(2)(E). [Pub. L. 112–81, § 325(3)][/us/pl/112/81/s325/3], which directed addition of subpar. (E) at end of subsec. (d), was executed by adding subpar. (E) at end of par. (2) of subsec. (d) to reflect the probable intent of Congress.
+    Subsec. (d)(2)(E). [Pub. L. 112–81][/us/pl/112/81], § 325(3), which directed addition of subpar. (E) at end of subsec. (d), was executed by adding subpar. (E) at end of par. (2) of subsec. (d) to reflect the probable intent of Congress.
 
-    Subsec. (e)(1)(I). [Pub. L. 112–81, § 325(4)][/us/pl/112/81/s325/4], added subpar. (I).
+    Subsec. (e)(1)(I). [Pub. L. 112–81][/us/pl/112/81], § 325(4), added subpar. (I).
 
-    2008—Subsec. (d)(2)(D). [Pub. L. 110–417, § 327(b)(1)][/us/pl/110/417/s327/b/1], added subpar. (D).
+    2008—Subsec. (d)(2)(D). [Pub. L. 110–417][/us/pl/110/417], § 327(b)(1), added subpar. (D).
 
-    Subsec. (e)(1)(F) to (H). [Pub. L. 110–417, § 327(a)][/us/pl/110/417/s327/a], added subpars. (F) to (H).
+    Subsec. (e)(1)(F) to (H). [Pub. L. 110–417][/us/pl/110/417], § 327(a), added subpars. (F) to (H).
 
-    Subsec. (e)(2). [Pub. L. 110–417, § 327(b)(2)][/us/pl/110/417/s327/b/2], inserted introductory provisions for subpars. (A) and (B), redesignated former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A) and realigned margins, and redesignated former subpars. (H) and (I) as cls. (i) and (ii), respectively, of subpar. (B) and realigned margins.
+    Subsec. (e)(2). [Pub. L. 110–417][/us/pl/110/417], § 327(b)(2), inserted introductory provisions for subpars. (A) and (B), redesignated former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A) and realigned margins, and redesignated former subpars. (H) and (I) as cls. (i) and (ii), respectively, of subpar. (B) and realigned margins.
 
  __Effective Date__ 
 
-[Pub. L. 109–364, div. A, title III, § 332(c)][/us/pl/109/364/s332/c], Oct. 17, 2006, [120 Stat. 2150][/us/stat/120/2150], provided that: 
+[Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 332(c), Oct. 17, 2006, [120 Stat. 2150][/us/stat/120/2150], provided that: 
 
 > “[Section 2476 of title 10][/us/usc/t10/s2476], United States Code, as added by subsection (a), shall take effect on October 1, 2006.”
 
  __Two Year Phase-in for Departments of the Army and the Navy__ 
 
-[Pub. L. 109–364, div. A, title III, § 332(d)][/us/pl/109/364/s332/d], Oct. 17, 2006, [120 Stat. 2150][/us/stat/120/2150], provided that:
+[Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 332(d), Oct. 17, 2006, [120 Stat. 2150][/us/stat/120/2150], provided that:
 
 >     “(1)  __Reduced percentage of required investment for fiscal years 2007 and 2008__  __.—__ 
 
@@ -161,26 +161,26 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/109/364/s332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs332%2Fa
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2149
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4418
-[/us/pl/111/383/s1075/b/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F36
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4371
-[/us/pl/112/81/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs325
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1364
-[/us/pl/112/81/s325/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs325%2F1
-[/us/pl/112/81/s325/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs325%2F2
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/112/81/s325/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs325%2F3
-[/us/pl/112/81/s325/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs325%2F4
-[/us/pl/110/417/s327/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs327%2Fb%2F1
-[/us/pl/110/417/s327/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs327%2Fa
-[/us/pl/110/417/s327/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs327%2Fb%2F2
-[/us/pl/109/364/s332/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs332%2Fc
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2150
 [/us/usc/t10/s2476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2476
-[/us/pl/109/364/s332/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs332%2Fd
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2150
 [/us/usc/t10/s2476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2476
 [/us/usc/t10/s2476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2476

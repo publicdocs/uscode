@@ -17,7 +17,7 @@
 
     The Secretary of Defense or the Secretary of a military department may pay the travel, subsistence, and special compensation of officers and students of African countries and other expenses that the Secretary considers necessary for African cooperation.
 
-(Added [Pub. L. 111–383, div. A, title XII, § 1204(a)][/us/pl/111/383/s1204/a], Jan. 7, 2011, [124 Stat. 4386][/us/stat/124/4386].)
+(Added [Pub. L. 111–383, div. A, title XII][/us/pl/111/383/dA/tXII], § 1204(a), Jan. 7, 2011, [124 Stat. 4386][/us/stat/124/4386].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/383/s1204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1204%2Fa
+[/us/pl/111/383/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXII
 [/us/stat/124/4386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4386
 
 

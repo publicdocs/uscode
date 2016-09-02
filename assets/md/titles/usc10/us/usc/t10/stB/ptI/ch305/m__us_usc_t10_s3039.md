@@ -21,7 +21,7 @@
 
     (c) There are two assistants to the Chief of Engineers appointed as prescribed in [section 3036 of this title][/us/usc/t10/s3036]. An appointee who holds a lower regular grade shall be appointed in the regular grade of brigadier general.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 165][/us/stat/70A/165], § 3040; [Pub. L. 95–485, title VIII, § 805(a)][/us/pl/95/485/s805/a], Oct. 20, 1978, [92 Stat. 1621][/us/stat/92/1621]; renumbered § 3039 and amended [Pub. L. 99–433, title V, § 502(f)(2)][/us/pl/99/433/s502/f/2], Oct. 1, 1986, [100 Stat. 1042][/us/stat/100/1042].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 165][/us/stat/70A/165], § 3040; [Pub. L. 95–485, title VIII][/us/pl/95/485/tVIII], § 805(a), Oct. 20, 1978, [92 Stat. 1621][/us/stat/92/1621]; renumbered § 3039 and amended [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 502(f)(2), Oct. 1, 1986, [100 Stat. 1042][/us/stat/100/1042].)
 
 <table>
 
@@ -103,7 +103,7 @@ Subsection (c) is based on section 11 of the National Defense Act, as amended by
 
  __Prior Provisions__ 
 
-    A prior section 3039, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 164][/us/stat/70A/164], related to Inspector General and Provost Marshal General, prior to repeal by [Pub. L. 99–433, § 502(f)(1)][/us/pl/99/433/s502/f/1]. See [section 3020 of this title][/us/usc/t10/s3020].
+    A prior section 3039, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 164][/us/stat/70A/164], related to Inspector General and Provost Marshal General, prior to repeal by [Pub. L. 99–433][/us/pl/99/433], § 502(f)(1). See [section 3020 of this title][/us/usc/t10/s3020].
 
  __Amendments__ 
 
@@ -125,9 +125,9 @@ Subsection (c) is based on section 11 of the National Defense Act, as amended by
 [/us/usc/t10/s3036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3036
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F165
-[/us/pl/95/485/s805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs805%2Fa
+[/us/pl/95/485/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2FtVIII
 [/us/stat/92/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1621
-[/us/pl/99/433/s502/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs502%2Ff%2F2
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1042
 [/us/usc/t10/s3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3037
 [/us/act/1936-06-26/ch839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch839
@@ -135,7 +135,7 @@ Subsection (c) is based on section 11 of the National Defense Act, as amended by
 [/us/stat/64/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F274
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F164
-[/us/pl/99/433/s502/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs502%2Ff%2F1
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t10/s3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3020
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t10/s3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3040

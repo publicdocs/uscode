@@ -17,7 +17,7 @@
 
     For the purposes of sections 1521 and 1522 of this title, in any case where the date of death is established or determined under [section 551–558 of title 37][/us/usc/t37/s551–558], the date of death is the date the Secretary concerned receives evidence that the person is dead, or the date the finding of death is made under [section 555 of title 37][/us/usc/t37/s555].
 
-(Added [Pub. L. 89–718, § 12(a)(1)][/us/pl/89/718/s12/a/1], Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117].)
+(Added [Pub. L. 89–718][/us/pl/89/718], § 12(a)(1), Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t37/s551–558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs551%E2%80%93558
 [/us/usc/t37/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs555
-[/us/pl/89/718/s12/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs12%2Fa%2F1
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1117
 
 

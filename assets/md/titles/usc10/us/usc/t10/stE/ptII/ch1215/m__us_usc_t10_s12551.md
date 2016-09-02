@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t10/stE/ptII/ch1215/m__us_usc_t10_stE_ptII_ch1215.md) | [Next](./../../../../../..//us/usc/t10/stE/ptII/ch1215/m__us_usc_t10_s12552.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12551)
 
-## \[§ 12551. Repealed. [Pub. L. 107–314, div. A, title V, § 515(a)][/us/pl/107/314/s515/a], Dec. 2, 2002, [116 Stat. 2539][/us/stat/116/2539]\]
+## \[§ 12551. Repealed. [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 515(a), Dec. 2, 2002, [116 Stat. 2539][/us/stat/116/2539]\]
 
-    Section, added [Pub. L. 105–85, div. A, title V, § 515(a)][/us/pl/105/85/s515/a], Nov. 18, 1997, [111 Stat. 1732][/us/stat/111/1732], related to prohibition of use of Air Force Reserve AGR personnel for Air Force base security functions.
+    Section, added [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 515(a), Nov. 18, 1997, [111 Stat. 1732][/us/stat/111/1732], related to prohibition of use of Air Force Reserve AGR personnel for Air Force base security functions.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/107/314/s515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs515%2Fa
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2539
-[/us/pl/105/85/s515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs515%2Fa
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1732
 
 

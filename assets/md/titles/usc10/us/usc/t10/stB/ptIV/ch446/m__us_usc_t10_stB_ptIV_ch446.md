@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–66, div. A, title V, § 585(b)][/us/pl/113/66/s585/b], Dec. 26, 2013, [127 Stat. 777][/us/stat/127/777], added item 4727.
+    2013—[Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 585(b), Dec. 26, 2013, [127 Stat. 777][/us/stat/127/777], added item 4727.
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/113/66/s585/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs585%2Fb
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F777
 
 

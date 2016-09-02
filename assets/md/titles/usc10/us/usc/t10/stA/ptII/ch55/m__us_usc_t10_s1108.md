@@ -109,7 +109,7 @@
 
             (B) the notification required under section 1882(s)(3)(D) of such Act shall be provided in a manner specified by the Secretary of Defense in consultation with the Director of the Office of Personnel Management.
 
-(Added [Pub. L. 105–261, div. A, title VII, § 721(a)(1)][/us/pl/105/261/s721/a/1], Oct. 17, 1998, [112 Stat. 2061][/us/stat/112/2061]; amended [Pub. L. 108–375, div. A, title X, § 1084(d)(8)][/us/pl/108/375/s1084/d/8], Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061]; [Pub. L. 112–239, div. A, title X, § 1076(g)(1)][/us/pl/112/239/s1076/g/1], Jan. 2, 2013, [126 Stat. 1955][/us/stat/126/1955].)
+(Added [Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 721(a)(1), Oct. 17, 1998, [112 Stat. 2061][/us/stat/112/2061]; amended [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(d)(8), Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(g)(1), Jan. 2, 2013, [126 Stat. 1955][/us/stat/126/1955].)
 
  __References in Text__ 
 
@@ -129,7 +129,7 @@
 
  __Comprehensive Evaluation of Implementation of Demonstration Projects and TRICARE Pharmacy Redesign__ 
 
-    [Pub. L. 105–261, div. A, title VII, § 724][/us/pl/105/261/s724], Oct. 17, 1998, [112 Stat. 2069][/us/stat/112/2069], as amended by [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], required the Comptroller General, not later than Mar. 31, 2003, to submit to committees of Congress a report containing a comprehensive comparative analysis of the FEHBP demonstration project conducted under this section, the TRICARE Senior Supplement under [Pub. L. 105–261, § 722][/us/pl/105/261/s722], formerly set out as a note under [section 1073 of this title][/us/usc/t10/s1073], and the redesign of the TRICARE pharmacy system under section [Pub. L. 105–261, § 723][/us/pl/105/261/s723], set out as a note under [section 1073 of this title][/us/usc/t10/s1073].
+    [Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 724, Oct. 17, 1998, [112 Stat. 2069][/us/stat/112/2069], as amended by [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(3), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], required the Comptroller General, not later than Mar. 31, 2003, to submit to committees of Congress a report containing a comprehensive comparative analysis of the FEHBP demonstration project conducted under this section, the TRICARE Senior Supplement under [Pub. L. 105–261][/us/pl/105/261], § 722, formerly set out as a note under [section 1073 of this title][/us/usc/t10/s1073], and the redesign of the TRICARE pharmacy system under section [Pub. L. 105–261][/us/pl/105/261], § 723, set out as a note under [section 1073 of this title][/us/usc/t10/s1073].
 
 ----------
 
@@ -146,11 +146,11 @@
 [/us/usc/t5/s8901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901
 [/us/usc/t42/s1395ggg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ggg
 [/us/usc/t5/s8906/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8906%2Fc
-[/us/pl/105/261/s721/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs721%2Fa%2F1
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2061
-[/us/pl/108/375/s1084/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F8
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2061
-[/us/pl/112/239/s1076/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fg%2F1
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1955
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -161,13 +161,13 @@
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/108/173/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs201%2Fb
 [/us/usc/t42/s1395w–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9321
-[/us/pl/105/261/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs724
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2069
-[/us/pl/106/65/s1067/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F3
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/105/261/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs722
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t10/s1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1073
-[/us/pl/105/261/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs723
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t10/s1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1073
 
 

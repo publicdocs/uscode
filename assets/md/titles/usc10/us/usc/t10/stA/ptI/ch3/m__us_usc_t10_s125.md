@@ -21,7 +21,7 @@
 
     (c) Notwithstanding subsection (a), the Secretary of Defense may assign or reassign the development and operational use of new weapons or weapons systems to one or more of the military departments or one or more of the armed forces.
 
-(Added [Pub. L. 87–651, title II, § 201(a)][/us/pl/87/651/s201/a], Sept. 7, 1962, [76 Stat. 515][/us/stat/76/515]; amended [Pub. L. 89–501, title IV, § 401][/us/pl/89/501/s401], July 13, 1966, [80 Stat. 278][/us/stat/80/278]; [Pub. L. 98–525, title XIV, § 1405(1)][/us/pl/98/525/s1405/1], Oct. 19, 1984, [98 Stat. 2621][/us/stat/98/2621]; [Pub. L. 99–433, title I, § 103][/us/pl/99/433/s103], title III, § 301(b)(1), title V, § 514(c)(1), Oct. 1, 1986, [100 Stat. 996][/us/stat/100/996], 1022, 1055; [Pub. L. 101–510, div. A, title XIII, § 1301(3)][/us/pl/101/510/s1301/3], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 113–291, div. A, title X, § 1071(c)(1)][/us/pl/113/291/s1071/c/1], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
+(Added [Pub. L. 87–651, title II][/us/pl/87/651/tII], § 201(a), Sept. 7, 1962, [76 Stat. 515][/us/stat/76/515]; amended [Pub. L. 89–501, title IV][/us/pl/89/501/tIV], § 401, July 13, 1966, [80 Stat. 278][/us/stat/80/278]; [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(1), Oct. 19, 1984, [98 Stat. 2621][/us/stat/98/2621]; [Pub. L. 99–433, title I][/us/pl/99/433/tI], § 103, title III, § 301(b)(1), title V, § 514(c)(1), Oct. 1, 1986, [100 Stat. 996][/us/stat/100/996], 1022, 1055; [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1301(3), Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(c)(1), Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
 
 <table>
 
@@ -115,11 +115,11 @@ July 26, 1947, ch. 343, § 308(a) (as applicable to § 202(c)(1), (5), (6)),
 
     1990—Subsec. (c). [Pub. L. 101–510][/us/pl/101/510] struck out at end “However, notwithstanding any other provision of this title or any other law, the Secretary of Defense shall not direct or approve a plan to initiate or effect a substantial reduction or elimination of a major weapons system until the Secretary of Defense has reported all the pertinent details of the proposed action to the Congress of the United States while the Congress is in session.”
 
-    1986—Subsec. (a). [Pub. L. 99–433, § 103(1)][/us/pl/99/433/s103/1], struck out provision under which the Secretary of Defense could substantially transfer, reassign, consolidate, or abolish functions, powers, or duties vested in the Department of Defense by law if the Secretary reported the details of the proposed transfer, reassignment, consolidation, or abolition to Congress and if Congress did not affirmatively reject the proposal.
+    1986—Subsec. (a). [Pub. L. 99–433][/us/pl/99/433], § 103(1), struck out provision under which the Secretary of Defense could substantially transfer, reassign, consolidate, or abolish functions, powers, or duties vested in the Department of Defense by law if the Secretary reported the details of the proposed transfer, reassignment, consolidation, or abolition to Congress and if Congress did not affirmatively reject the proposal.
 
     Subsec. (b). [Pub. L. 99–433][/us/pl/99/433], §§ 103(2), 514(c)(1), inserted “vested by law in the Department of Defense, or an officer, official, or agency thereof” and substituted “5062, 5063” for “5012, 5013”.
 
-    Subsec. (d). [Pub. L. 99–433, § 301(b)(1)][/us/pl/99/433/s301/b/1], struck out subsec. (d) which read as follows: “In subsection (a)(1), ‘major combatant function, power, or duty’ does not include a supply or service activity common to more than one military department. The Secretary of Defense shall, whenever he determines it will be more effective, economical, or efficient, provide for the performance of such an activity by one agency or such other organizations as he considers appropriate.”
+    Subsec. (d). [Pub. L. 99–433][/us/pl/99/433], § 301(b)(1), struck out subsec. (d) which read as follows: “In subsection (a)(1), ‘major combatant function, power, or duty’ does not include a supply or service activity common to more than one military department. The Secretary of Defense shall, whenever he determines it will be more effective, economical, or efficient, provide for the performance of such an activity by one agency or such other organizations as he considers appropriate.”
 
     1984—Subsec. (a). [Pub. L. 98–525][/us/pl/98/525] substituted “section 2 of the National Security Act of 1947 ([50 U.S.C. 401][/us/usc/t50/s401])” for “[section 401 of title 50][/us/usc/t50/s401]”.
 
@@ -127,7 +127,7 @@ July 26, 1947, ch. 343, § 308(a) (as applicable to § 202(c)(1), (5), (6)),
 
  __Resolutions Relating to Transfers, Reassignments, Consolidations, or Abolitions of Combatant Functions__ 
 
-[Pub. L. 87–651, title III, § 303][/us/pl/87/651/s303], Sept. 7, 1962, [76 Stat. 525][/us/stat/76/525], provided that:
+[Pub. L. 87–651, title III][/us/pl/87/651/tIII], § 303, Sept. 7, 1962, [76 Stat. 525][/us/stat/76/525], provided that:
 
 >     “(a) For the purposes of this section, any resolution reported to the Senate or the House of Representatives pursuant to the provisions of [section 125 of title 10][/us/usc/t10/s125], United States Code, shall be treated for the purpose of consideration by either House, in the same manner as a resolution with respect to a reorganization plan reported by a committee within the meaning of the Reorganization Act of 1949 as in effect on July 1, 1958 ([5 U.S.C. 133z][/us/usc/t5/s133z] and the following) \[[63 Stat. 203][/us/stat/63/203]; [71 Stat. 611][/us/stat/71/611]\], and shall be governed by the provisions applicable to the consideration of any such resolution by either House of the Congress as provided by sections 205 and 206 of that Act \[[63 Stat. 207][/us/stat/63/207]\].
 
@@ -147,30 +147,30 @@ July 26, 1947, ch. 343, § 308(a) (as applicable to § 202(c)(1), (5), (6)),
 ----------
 
 [/us/usc/t50/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3002
-[/us/pl/87/651/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs201%2Fa
+[/us/pl/87/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtII
 [/us/stat/76/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F515
-[/us/pl/89/501/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F501%2Fs401
+[/us/pl/89/501/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F501%2FtIV
 [/us/stat/80/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F278
-[/us/pl/98/525/s1405/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F1
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2621
-[/us/pl/99/433/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs103
+[/us/pl/99/433/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtI
 [/us/stat/100/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F996
-[/us/pl/101/510/s1301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1301%2F3
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1668
-[/us/pl/113/291/s1071/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F1
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t50/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3002
 [/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/99/433/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs103%2F1
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
-[/us/pl/99/433/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs301%2Fb%2F1
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
 [/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
 [/us/pl/89/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F501
-[/us/pl/87/651/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs303
+[/us/pl/87/651/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtIII
 [/us/stat/76/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F525
 [/us/usc/t10/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs125
 [/us/usc/t5/s133z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs133z

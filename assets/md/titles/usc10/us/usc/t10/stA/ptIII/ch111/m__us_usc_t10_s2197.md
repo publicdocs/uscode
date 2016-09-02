@@ -55,15 +55,15 @@
 
     In this section, the term “manufacturing expert” means manufacturing managers and workers having experience in the organization of production and education and training needs and other experts in manufacturing.
 
-(Added [Pub. L. 102–190, div. A, title VIII, § 825(a)(1)][/us/pl/102/190/s825/a/1], Dec. 5, 1991, [105 Stat. 1440][/us/stat/105/1440]; amended [Pub. L. 102–484, div. D, title XLII, § 4238(a)][/us/pl/102/484/s4238/a], (b)(1), Oct. 23, 1992, [106 Stat. 2694][/us/stat/106/2694].)
+(Added [Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], § 825(a)(1), Dec. 5, 1991, [105 Stat. 1440][/us/stat/105/1440]; amended [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4238(a), (b)(1), Oct. 23, 1992, [106 Stat. 2694][/us/stat/106/2694].)
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–484, § 4238(b)(1)][/us/pl/102/484/s4238/b/1], substituted “experts” for “managers” in section catchline.
+    1992—[Pub. L. 102–484][/us/pl/102/484], § 4238(b)(1), substituted “experts” for “managers” in section catchline.
 
-    Subsec. (a). [Pub. L. 102–484, § 4238(a)(1)][/us/pl/102/484/s4238/a/1], struck out “managers and” after “manufacturing” in introductory provisions.
+    Subsec. (a). [Pub. L. 102–484][/us/pl/102/484], § 4238(a)(1), struck out “managers and” after “manufacturing” in introductory provisions.
 
-    Subsec. (e). [Pub. L. 102–484, § 4238(a)(2)][/us/pl/102/484/s4238/a/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 102–484][/us/pl/102/484], § 4238(a)(2), added subsec. (e).
 
 ----------
 
@@ -73,12 +73,12 @@
 ----------
 
 [/us/usc/t10/s2196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2196
-[/us/pl/102/190/s825/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs825%2Fa%2F1
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1440
-[/us/pl/102/484/s4238/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4238%2Fa
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2694
-[/us/pl/102/484/s4238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4238%2Fb%2F1
-[/us/pl/102/484/s4238/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4238%2Fa%2F1
-[/us/pl/102/484/s4238/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4238%2Fa%2F2
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 
 

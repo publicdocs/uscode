@@ -57,11 +57,11 @@
 
         (3) Reducing Federal Government barriers to the use of commercial products, processes, and standards.
 
-(Added [Pub. L. 102–484, div. D, title XLII, § 4211][/us/pl/102/484/s4211], Oct. 23, 1992, [106 Stat. 2662][/us/stat/106/2662]; amended [Pub. L. 103–35, title II, § 201(c)(7)][/us/pl/103/35/s201/c/7], May 31, 1993, [107 Stat. 98][/us/stat/107/98]; [Pub. L. 103–160, div. A, title XI, § 1182(a)(10)][/us/pl/103/160/s1182/a/10], title XIII, § 1313, Nov. 30, 1993, [107 Stat. 1771][/us/stat/107/1771], 1786; [Pub. L. 104–106, div. A, title X, § 1081(a)][/us/pl/104/106/s1081/a], Feb. 10, 1996, [110 Stat. 452][/us/stat/110/452]; [Pub. L. 104–201, div. A, title VIII, § 829(a)][/us/pl/104/201/s829/a], Sept. 23, 1996, [110 Stat. 2612][/us/stat/110/2612]; [Pub. L. 111–23, title III, § 303(a)][/us/pl/111/23/s303/a], May 22, 2009, [123 Stat. 1731][/us/stat/123/1731]; [Pub. L. 111–383, div. A, title VIII, § 895(b)][/us/pl/111/383/s895/b], Jan. 7, 2011, [124 Stat. 4314][/us/stat/124/4314]; [Pub. L. 112–239, div. A, title XVI, § 1603(a)(1)][/us/pl/112/239/s1603/a/1], Jan. 2, 2013, [126 Stat. 2062][/us/stat/126/2062]; [Pub. L. 113–291, div. A, title X, § 1071(c)(2)][/us/pl/113/291/s1071/c/2], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
+(Added [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4211, Oct. 23, 1992, [106 Stat. 2662][/us/stat/106/2662]; amended [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 201(c)(7), May 31, 1993, [107 Stat. 98][/us/stat/107/98]; [Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1182(a)(10), title XIII, § 1313, Nov. 30, 1993, [107 Stat. 1771][/us/stat/107/1771], 1786; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1081(a), Feb. 10, 1996, [110 Stat. 452][/us/stat/110/452]; [Pub. L. 104–201, div. A, title VIII][/us/pl/104/201/dA/tVIII], § 829(a), Sept. 23, 1996, [110 Stat. 2612][/us/stat/110/2612]; [Pub. L. 111–23, title III][/us/pl/111/23/tIII], § 303(a), May 22, 2009, [123 Stat. 1731][/us/stat/123/1731]; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 895(b), Jan. 7, 2011, [124 Stat. 4314][/us/stat/124/4314]; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1603(a)(1), Jan. 2, 2013, [126 Stat. 2062][/us/stat/126/2062]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(c)(2), Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
 
  __Prior Provisions__ 
 
-    A prior section 2501, added [Pub. L. 100–456, div. A, title VIII, § 821(b)(1)(B)][/us/pl/100/456/s821/b/1/B], Sept. 29, 1988, [102 Stat. 2014][/us/stat/102/2014], related to centralized guidance, analysis, and planning, prior to repeal by [Pub. L. 102–484, § 4202(a)][/us/pl/102/484/s4202/a].
+    A prior section 2501, added [Pub. L. 100–456, div. A, title VIII][/us/pl/100/456/dA/tVIII], § 821(b)(1)(B), Sept. 29, 1988, [102 Stat. 2014][/us/stat/102/2014], related to centralized guidance, analysis, and planning, prior to repeal by [Pub. L. 102–484][/us/pl/102/484], § 4202(a).
 
     Another prior section 2501 was renumbered [section 2533 of this title][/us/usc/t10/s2533].
 
@@ -69,41 +69,41 @@
 
     2014—Subsec. (a)(1)(A). [Pub. L. 113–291][/us/pl/113/291] substituted “([50 U.S.C. 3043][/us/usc/t50/s3043])” for “([50 U.S.C. 404a][/us/usc/t50/s404a])”.
 
-    2013—[Pub. L. 112–239, § 1603(a)(1)(A)][/us/pl/112/239/s1603/a/1/A], substituted “strategy for” for “objectives concerning” in section catchline.
+    2013—[Pub. L. 112–239][/us/pl/112/239], § 1603(a)(1)(A), substituted “strategy for” for “objectives concerning” in section catchline.
 
-    Subsec. (a). [Pub. L. 112–239, § 1603(a)(1)(B)(i)][/us/pl/112/239/s1603/a/1/B/i], (ii), substituted “Strategy” for “Objectives” in heading and “The Secretary of Defense shall develop a national security strategy for the national technology and industrial base. Such strategy shall be based on a prioritized assessment of risks and challenges to the defense supply chain and shall ensure that the national technology and industrial base is capable of achieving the following national security objectives:” for “It is the policy of Congress that the national technology and industrial base be capable of meeting the following national security objectives:” in introductory provisions.
+    Subsec. (a). [Pub. L. 112–239][/us/pl/112/239], § 1603(a)(1)(B)(i), (ii), substituted “Strategy” for “Objectives” in heading and “The Secretary of Defense shall develop a national security strategy for the national technology and industrial base. Such strategy shall be based on a prioritized assessment of risks and challenges to the defense supply chain and shall ensure that the national technology and industrial base is capable of achieving the following national security objectives:” for “It is the policy of Congress that the national technology and industrial base be capable of meeting the following national security objectives:” in introductory provisions.
 
-    Subsec. (a)(9), (10). [Pub. L. 112–239, § 1603(a)(1)(B)(iii)][/us/pl/112/239/s1603/a/1/B/iii], added pars. (9) and (10).
+    Subsec. (a)(9), (10). [Pub. L. 112–239][/us/pl/112/239], § 1603(a)(1)(B)(iii), added pars. (9) and (10).
 
-    2011—Subsec. (a)(1). [Pub. L. 111–383, § 895(b)(1)][/us/pl/111/383/s895/b/1], substituted “Supplying, equipping, and supporting” for “Supplying and equipping” in introductory provisions.
+    2011—Subsec. (a)(1). [Pub. L. 111–383][/us/pl/111/383], § 895(b)(1), substituted “Supplying, equipping, and supporting” for “Supplying and equipping” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 111–383, § 895(b)(2)][/us/pl/111/383/s895/b/2], substituted “logistics, and other activities in support of” for “and logistics for”.
+    Subsec. (a)(2). [Pub. L. 111–383][/us/pl/111/383], § 895(b)(2), substituted “logistics, and other activities in support of” for “and logistics for”.
 
-    Subsec. (a)(4). [Pub. L. 111–383, § 895(b)(3)][/us/pl/111/383/s895/b/3], substituted “, produce, and support” for “and produce”.
+    Subsec. (a)(4). [Pub. L. 111–383][/us/pl/111/383], § 895(b)(3), substituted “, produce, and support” for “and produce”.
 
-    Subsec. (a)(6) to (8). [Pub. L. 111–383, § 895(b)(4)][/us/pl/111/383/s895/b/4], added pars. (6) and (7) and redesignated former par. (6) as (8).
+    Subsec. (a)(6) to (8). [Pub. L. 111–383][/us/pl/111/383], § 895(b)(4), added pars. (6) and (7) and redesignated former par. (6) as (8).
 
     2009—Subsec. (a)(6). [Pub. L. 111–23][/us/pl/111/23] added par. (6).
 
-    1996—[Pub. L. 104–106, § 1081(a)(2)][/us/pl/104/106/s1081/a/2], substituted “National security objectives concerning national technology and industrial base” for “Congressional defense policy concerning national technology and industrial base, reinvestment, and conversion” as section catchline.
+    1996—[Pub. L. 104–106][/us/pl/104/106], § 1081(a)(2), substituted “National security objectives concerning national technology and industrial base” for “Congressional defense policy concerning national technology and industrial base, reinvestment, and conversion” as section catchline.
 
-    Subsec. (a). [Pub. L. 104–106, § 1081(a)(1)(A)(i)][/us/pl/104/106/s1081/a/1/A/i], substituted “National Security” for “Defense Policy” in heading.
+    Subsec. (a). [Pub. L. 104–106][/us/pl/104/106], § 1081(a)(1)(A)(i), substituted “National Security” for “Defense Policy” in heading.
 
     Subsec. (a)(5). [Pub. L. 104–201][/us/pl/104/201] added par. (5).
 
-    [Pub. L. 104–106, § 1081(a)(1)(A)(ii)][/us/pl/104/106/s1081/a/1/A/ii], struck out par. (5) which read as follows: “Furthering the missions of the Department of Defense through the support of policy objectives and programs relating to the defense reinvestment, diversification, and conversion objectives specified in subsection (b).”
+    [Pub. L. 104–106][/us/pl/104/106], § 1081(a)(1)(A)(ii), struck out par. (5) which read as follows: “Furthering the missions of the Department of Defense through the support of policy objectives and programs relating to the defense reinvestment, diversification, and conversion objectives specified in subsection (b).”
 
-    Subsecs. (b), (c). [Pub. L. 104–106, § 1081(a)(1)(B)][/us/pl/104/106/s1081/a/1/B], (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which stated policy objectives of Congress relating to defense reinvestment, diversification, and conversion.
+    Subsecs. (b), (c). [Pub. L. 104–106][/us/pl/104/106], § 1081(a)(1)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which stated policy objectives of Congress relating to defense reinvestment, diversification, and conversion.
 
     1993—Subsec. (a)(1)(A). [Pub. L. 103–35][/us/pl/103/35] substituted “section 108” for “section 104”.
 
-    Subsec. (a)(5). [Pub. L. 103–160, § 1313][/us/pl/103/160/s1313], added par. (5).
+    Subsec. (a)(5). [Pub. L. 103–160][/us/pl/103/160], § 1313, added par. (5).
 
-    Subsec. (b)(2). [Pub. L. 103–160, § 1182(a)(10)][/us/pl/103/160/s1182/a/10], substituted “that, by reducing the public sector demand for capital, increases the amount of capital available” for “and thereby free up capital”.
+    Subsec. (b)(2). [Pub. L. 103–160][/us/pl/103/160], § 1182(a)(10), substituted “that, by reducing the public sector demand for capital, increases the amount of capital available” for “and thereby free up capital”.
 
  __Department of Defense Technology Offset Program To Build and Maintain the Military Technological Superiority of the United States__ 
 
-[Pub. L. 114–92, div. A, title II, § 218][/us/pl/114/92/s218], Nov. 25, 2015, [129 Stat. 772][/us/stat/129/772], provided that:
+[Pub. L. 114–92, div. A, title II][/us/pl/114/92/dA/tII], § 218, Nov. 25, 2015, [129 Stat. 772][/us/stat/129/772], provided that:
 
 >     “(a) __Program Established.—__ 
 
@@ -169,7 +169,7 @@
 
  __Expansion of the Industrial Base__ 
 
-[Pub. L. 111–383, div. A, title VIII, § 891][/us/pl/111/383/s891], Jan. 7, 2011, [124 Stat. 4310][/us/stat/124/4310], provided that:
+[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 891, Jan. 7, 2011, [124 Stat. 4310][/us/stat/124/4310], provided that:
 
 >     “(a)  __Program To Expand Industrial Base Required__  __.—__ 
 
@@ -235,11 +235,11 @@
 
  __Requirement for Separate Reports on Technology Area Review and Assessment Summaries__ 
 
-    [Pub. L. 109–163, div. A, title II, § 253(c)][/us/pl/109/163/s253/c], Jan. 6, 2006, [119 Stat. 3180][/us/stat/119/3180], provided that whenever the Secretary of Defense provided for the conduct of a study referred to as a Technology Area Review and Assessment, the Secretary, not later than March 1 of the year following the year in which that study was conducted, was to submit to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives a report containing a summary of each such Technology Area Review and Assessment conducted during that year, prior to repeal by [Pub. L. 110–181, div. A, title II, § 236][/us/pl/110/181/s236], Jan. 28, 2008, [122 Stat. 47][/us/stat/122/47].
+    [Pub. L. 109–163, div. A, title II][/us/pl/109/163/dA/tII], § 253(c), Jan. 6, 2006, [119 Stat. 3180][/us/stat/119/3180], provided that whenever the Secretary of Defense provided for the conduct of a study referred to as a Technology Area Review and Assessment, the Secretary, not later than March 1 of the year following the year in which that study was conducted, was to submit to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives a report containing a summary of each such Technology Area Review and Assessment conducted during that year, prior to repeal by [Pub. L. 110–181, div. A, title II][/us/pl/110/181/dA/tII], § 236, Jan. 28, 2008, [122 Stat. 47][/us/stat/122/47].
 
  __Essential Items Identification and Domestic Production Capabilities Improvement Program__ 
 
-[Pub. L. 108–136, div. A, title VIII][/us/pl/108/136], subtitle B, part I, Nov. 24, 2003, [117 Stat. 1542][/us/stat/117/1542], as amended by [Pub. L. 109–364, div. A, title VIII, § 841][/us/pl/109/364/s841], Oct. 17, 2006, [120 Stat. 2335][/us/stat/120/2335]; [Pub. L. 111–84, div. A, title VIII, § 846][/us/pl/111/84/s846], Oct. 28, 2009, [123 Stat. 2420][/us/stat/123/2420]; [Pub. L. 112–81, div. A, title X, § 1062(g)(2)][/us/pl/112/81/s1062/g/2], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585]; [Pub. L. 113–291, div. A, title X, § 1071(b)(5)(A)][/us/pl/113/291/s1071/b/5/A], (d)(1)(C), Dec. 19, 2014, [128 Stat. 3506][/us/stat/128/3506], 3509, provided that:
+[Pub. L. 108–136, div. A, title VIII][/us/pl/108/136/dA/tVIII], subtitle B, part I, Nov. 24, 2003, [117 Stat. 1542][/us/stat/117/1542], as amended by [Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 841, Oct. 17, 2006, [120 Stat. 2335][/us/stat/120/2335]; [Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], § 846, Oct. 28, 2009, [123 Stat. 2420][/us/stat/123/2420]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1062(g)(2), Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(b)(5)(A), (d)(1)(C), Dec. 19, 2014, [128 Stat. 3506][/us/stat/128/3506], 3509, provided that:
 
 > “SEC. 811. __CONSISTENCY WITH UNITED STATES OBLIGATIONS UNDER INTERNATIONAL AGREEMENTS.__ 
 
@@ -279,7 +279,7 @@
 
 >         “(4) For purposes of meeting the requirements set forth in this section, the Secretary of Defense may not require the provision of information beyond the information that is currently provided to the Department of Defense through existing data collection systems by non-Federal entities with respect to contracts and subcontracts with the Department of Defense or any military department.
 
->     “\[(c) Repealed. [Pub. L. 112–81, div. A, title X, § 1062(g)(2)][/us/pl/112/81/s1062/g/2], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585].\]
+>     “\[(c) Repealed. [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1062(g)(2), Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585].\]
 
 >     “(d)  __Public Availability__  __.—__ 
 
@@ -289,7 +289,7 @@
 
 >     This section shall not apply to acquisitions made by an agency, or component thereof, that is an element of the intelligence community as set forth in or designated under section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]).
 
-> “\[SEC. 813. Repealed. [Pub. L. 111–84, div. A, title VIII, § 846][/us/pl/111/84/s846], Oct. 28, 2009, [123 Stat. 2420][/us/stat/123/2420].\]
+> “\[SEC. 813. Repealed. [Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], § 846, Oct. 28, 2009, [123 Stat. 2420][/us/stat/123/2420].\]
 
 > “SEC. 814. __PRODUCTION CAPABILITIES IMPROVEMENT FOR CERTAIN ESSENTIAL ITEMS USING DEFENSE INDUSTRIAL BASE CAPABILITIES FUND.__ 
 
@@ -323,7 +323,7 @@
 
  __Air Force Science and Technology Planning__ 
 
-[Pub. L. 107–107, div. A, title II][/us/pl/107/107], subtitle D, Dec. 28, 2001, [115 Stat. 1041][/us/stat/115/1041], provided that:
+[Pub. L. 107–107, div. A, title II][/us/pl/107/107/dA/tII], subtitle D, Dec. 28, 2001, [115 Stat. 1041][/us/stat/115/1041], provided that:
 
 > “SEC. 251. __SHORT TITLE.__ 
 
@@ -415,7 +415,7 @@
 
 >     Not later than May 1, 2003, the Secretary of the Air Force shall submit to Congress the results of the study.”
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title II, § 252\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–46, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title II, § 252\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–46, provided that:
 
 >     “(a)  __Requirement for Review__  __.—__ 
 
@@ -509,13 +509,13 @@
 
  __Report by Under Secretary of Defense for Acquisition, Technology, and Logistics__ 
 
-    [Pub. L. 106–65, div. A, title II, § 243][/us/pl/106/65/s243], Oct. 5, 1999, [113 Stat. 551][/us/stat/113/551], required the Under Secretary of Defense for Acquisition, Technology, and Logistics to submit to the congressional defense committees a report on the actions necessary to promote the research base and technological development needed for ensuring that the Armed Forces had the military capabilities necessary for meeting national security requirements over the next two to three decades.
+    [Pub. L. 106–65, div. A, title II][/us/pl/106/65/dA/tII], § 243, Oct. 5, 1999, [113 Stat. 551][/us/stat/113/551], required the Under Secretary of Defense for Acquisition, Technology, and Logistics to submit to the congressional defense committees a report on the actions necessary to promote the research base and technological development needed for ensuring that the Armed Forces had the military capabilities necessary for meeting national security requirements over the next two to three decades.
 
  __Sense of Congress on Defense Science and Technology Program__ 
 
-    [Pub. L. 106–65, div. A, title II, § 212][/us/pl/106/65/s212], Oct. 5, 1999, [113 Stat. 542][/us/stat/113/542], as amended by [Pub. L. 108–136, div. A, title X, § 1031(h)(1)][/us/pl/108/136/s1031/h/1], Nov. 24, 2003, [117 Stat. 1604][/us/stat/117/1604]; [Pub. L. 109–364, div. A, title II, § 217][/us/pl/109/364/s217], Oct. 17, 2006, [120 Stat. 2125][/us/stat/120/2125], which provided the sense of Congress as to funding objectives for the Defense Science and Technology Program, was repealed by [Pub. L. 111–84, div. A, title II, § 213][/us/pl/111/84/s213], Oct. 28, 2009, [123 Stat. 2226][/us/stat/123/2226].
+    [Pub. L. 106–65, div. A, title II][/us/pl/106/65/dA/tII], § 212, Oct. 5, 1999, [113 Stat. 542][/us/stat/113/542], as amended by [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(h)(1), Nov. 24, 2003, [117 Stat. 1604][/us/stat/117/1604]; [Pub. L. 109–364, div. A, title II][/us/pl/109/364/dA/tII], § 217, Oct. 17, 2006, [120 Stat. 2125][/us/stat/120/2125], which provided the sense of Congress as to funding objectives for the Defense Science and Technology Program, was repealed by [Pub. L. 111–84, div. A, title II][/us/pl/111/84/dA/tII], § 213, Oct. 28, 2009, [123 Stat. 2226][/us/stat/123/2226].
 
-[Pub. L. 105–261, div. A, title II, § 214][/us/pl/105/261/s214], Oct. 17, 1998, [112 Stat. 1948][/us/stat/112/1948], provided that:
+[Pub. L. 105–261, div. A, title II][/us/pl/105/261/dA/tII], § 214, Oct. 17, 1998, [112 Stat. 1948][/us/stat/112/1948], provided that:
 
 >     “(a)  __Funding Requirements for the Defense Science and Technology Program Budget__  __.—__ 
 
@@ -595,25 +595,25 @@
 
  __Biennial Joint Warfighting Science and Technology Plan__ 
 
-    [Pub. L. 104–201, div. A, title II, § 270][/us/pl/104/201/s270], Sept. 23, 1996, [110 Stat. 2469][/us/stat/110/2469], as amended by [Pub. L. 106–65, div. A, title II, § 242][/us/pl/106/65/s242], title X, § 1067(5), Oct. 5, 1999, [113 Stat. 551][/us/stat/113/551], 774; [Pub. L. 109–163, div. A, title II, § 253(a)][/us/pl/109/163/s253/a], (b), Jan. 6, 2006, [119 Stat. 3179][/us/stat/119/3179], 3180, which required biennial submission to Congress by the Secretary of Defense of a plan for ensuring that the science and technology program of the Department of Defense supported the development of the future joint warfighting capabilities identified as priority requirements for the Armed Forces, was repealed by [Pub. L. 111–84, div. A, title II, § 241][/us/pl/111/84/s241], Oct 28, 2009, [123 Stat. 2237][/us/stat/123/2237].
+    [Pub. L. 104–201, div. A, title II][/us/pl/104/201/dA/tII], § 270, Sept. 23, 1996, [110 Stat. 2469][/us/stat/110/2469], as amended by [Pub. L. 106–65, div. A, title II][/us/pl/106/65/dA/tII], § 242, title X, § 1067(5), Oct. 5, 1999, [113 Stat. 551][/us/stat/113/551], 774; [Pub. L. 109–163, div. A, title II][/us/pl/109/163/dA/tII], § 253(a), (b), Jan. 6, 2006, [119 Stat. 3179][/us/stat/119/3179], 3180, which required biennial submission to Congress by the Secretary of Defense of a plan for ensuring that the science and technology program of the Department of Defense supported the development of the future joint warfighting capabilities identified as priority requirements for the Armed Forces, was repealed by [Pub. L. 111–84, div. A, title II][/us/pl/111/84/dA/tII], § 241, Oct 28, 2009, [123 Stat. 2237][/us/stat/123/2237].
 
  __Cost Reimbursement Rules for Indirect Costs Attributable to Private Sector Work of Defense Contractors__ 
 
-    [Pub. L. 104–106, div. A, title VIII, § 808][/us/pl/104/106/s808], Feb. 10, 1996, [110 Stat. 393][/us/stat/110/393], authorized Secretary of Defense to enter into agreements with defense contractors under which certain cost reimbursement rules would be applied and required submission of report to congressional defense committees not later than one year after Feb. 10, 1996, prior to repeal by [Pub. L. 105–85, div. A, title X, § 1027(d)][/us/pl/105/85/s1027/d], Nov. 18, 1997, [111 Stat. 1880][/us/stat/111/1880]. See [section 7315 of this title][/us/usc/t10/s7315].
+    [Pub. L. 104–106, div. A, title VIII][/us/pl/104/106/dA/tVIII], § 808, Feb. 10, 1996, [110 Stat. 393][/us/stat/110/393], authorized Secretary of Defense to enter into agreements with defense contractors under which certain cost reimbursement rules would be applied and required submission of report to congressional defense committees not later than one year after Feb. 10, 1996, prior to repeal by [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1027(d), Nov. 18, 1997, [111 Stat. 1880][/us/stat/111/1880]. See [section 7315 of this title][/us/usc/t10/s7315].
 
  __Documentation for Awards for Cooperative Agreements or Other Transactions Under Defense Technology Reinvestment Programs__ 
 
-[Pub. L. 103–337, div. A, title XI, § 1118][/us/pl/103/337/s1118], Oct. 5, 1994, [108 Stat. 2870][/us/stat/108/2870], provided that: 
+[Pub. L. 103–337, div. A, title XI][/us/pl/103/337/dA/tXI], § 1118, Oct. 5, 1994, [108 Stat. 2870][/us/stat/108/2870], provided that: 
 
 > “At the time of the award for a cooperative agreement or other transaction under a program carried out under chapter 148 of title 10, United States Code, the head of the agency concerned shall include in the file pertaining to such agreement or transaction a brief explanation of the manner in which the award advances and enhances a particular national security objective set forth in section 2501(a) of such title or a particular policy objective set forth in \[former\] section 2501(b) of such title.”
 
  __Reports on Defense Conversion, Reinvestment, and Transition Assistance Programs__ 
 
-    [Pub. L. 103–160, div. A, title XIII, § 1303][/us/pl/103/160/s1303], Nov. 30, 1993, [107 Stat. 1784][/us/stat/107/1784], provided that during each of the fiscal years 1994, 1995, and 1996, the Secretary of Defense was to prepare a report that assessed the effectiveness of all defense conversion, reinvestment, and transition assistance programs, as defined in [section 1302 of Pub. L. 103–160][/us/pl/103/160/s1302], [107 Stat. 1783][/us/stat/107/1783], during the preceding fiscal year.
+    [Pub. L. 103–160, div. A, title XIII][/us/pl/103/160/dA/tXIII], § 1303, Nov. 30, 1993, [107 Stat. 1784][/us/stat/107/1784], provided that during each of the fiscal years 1994, 1995, and 1996, the Secretary of Defense was to prepare a report that assessed the effectiveness of all defense conversion, reinvestment, and transition assistance programs, as defined in [section 1302 of Pub. L. 103–160][/us/pl/103/160/s1302], [107 Stat. 1783][/us/stat/107/1783], during the preceding fiscal year.
 
  __National Shipbuilding Initiative__ 
 
-[Pub. L. 103–160, div. A, title XIII][/us/pl/103/160], §§ 1351–1354, Nov. 30, 1993, [107 Stat. 1809][/us/stat/107/1809], 1810, as amended by [Pub. L. 104–201, div. A, title X, § 1073(e)(1)(F)][/us/pl/104/201/s1073/e/1/F], (2)(B), (3), Sept. 23, 1996, [110 Stat. 2658][/us/stat/110/2658], provided that:
+[Pub. L. 103–160, div. A, title XIII][/us/pl/103/160/dA/tXIII], §§ 1351–1354, Nov. 30, 1993, [107 Stat. 1809][/us/stat/107/1809], 1810, as amended by [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1073(e)(1)(F), (2)(B), (3), Sept. 23, 1996, [110 Stat. 2658][/us/stat/110/2658], provided that:
 
 > “SEC. 1351. __SHORT TITLE.__ 
 
@@ -693,21 +693,21 @@
 
  __Armament Retooling and Manufacturing Support Initiative__ 
 
-    [Pub. L. 102–484, div. A, title I][/us/pl/102/484], §§ 191–195, Oct. 23, 1992, [106 Stat. 2347–2349][/us/stat/106/2347-2349], as amended by [Pub. L. 103–35, title II, § 202(a)(1)][/us/pl/103/35/s202/a/1], May 31, 1993, [107 Stat. 100][/us/stat/107/100]; [Pub. L. 103–337, div. A, title XI, § 1141(a)][/us/pl/103/337/s1141/a], (b), Oct. 5, 1994, [108 Stat. 2879][/us/stat/108/2879]; [Pub. L. 104–201, div. A, title I, § 143][/us/pl/104/201/s143], Sept. 23, 1996, [110 Stat. 2449][/us/stat/110/2449]; [Pub. L. 105–261, div. A, title I, § 115][/us/pl/105/261/s115], Oct. 17, 1998, [112 Stat. 1939][/us/stat/112/1939]; [Pub. L. 106–65, div. A, title I, § 116][/us/pl/106/65/s116], Oct. 5, 1999, [113 Stat. 533][/us/stat/113/533], known as the “Armament Retooling and Manufacturing Support Act of 1992”, authorized the Secretary of the Army, during fiscal years 1993 through 2001, to carry out the Armament Retooling and Manufacturing Support Initiative, prior to repeal by [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 344(d)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–71.
+    [Pub. L. 102–484, div. A, title I][/us/pl/102/484/dA/tI], §§ 191–195, Oct. 23, 1992, [106 Stat. 2347–2349][/us/stat/106/2347-2349], as amended by [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 202(a)(1), May 31, 1993, [107 Stat. 100][/us/stat/107/100]; [Pub. L. 103–337, div. A, title XI][/us/pl/103/337/dA/tXI], § 1141(a), (b), Oct. 5, 1994, [108 Stat. 2879][/us/stat/108/2879]; [Pub. L. 104–201, div. A, title I][/us/pl/104/201/dA/tI], § 143, Sept. 23, 1996, [110 Stat. 2449][/us/stat/110/2449]; [Pub. L. 105–261, div. A, title I][/us/pl/105/261/dA/tI], § 115, Oct. 17, 1998, [112 Stat. 1939][/us/stat/112/1939]; [Pub. L. 106–65, div. A, title I][/us/pl/106/65/dA/tI], § 116, Oct. 5, 1999, [113 Stat. 533][/us/stat/113/533], known as the “Armament Retooling and Manufacturing Support Act of 1992”, authorized the Secretary of the Army, during fiscal years 1993 through 2001, to carry out the Armament Retooling and Manufacturing Support Initiative, prior to repeal by [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 344(d)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–71.
 
  __Implementation of Requirements for Assessment, Planning, and Analysis__ 
 
-    [Pub. L. 102–484, div. D, title XLII, § 4218][/us/pl/102/484/s4218], Oct. 23, 1992, [106 Stat. 2671][/us/stat/106/2671], related to collection of information, completion of assessments, and issuance of plans required by this subchapter, prior to repeal by [Pub. L. 104–201, div. A, title VIII, § 829(h)][/us/pl/104/201/s829/h], Sept. 23, 1996, [110 Stat. 2614][/us/stat/110/2614].
+    [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4218, Oct. 23, 1992, [106 Stat. 2671][/us/stat/106/2671], related to collection of information, completion of assessments, and issuance of plans required by this subchapter, prior to repeal by [Pub. L. 104–201, div. A, title VIII][/us/pl/104/201/dA/tVIII], § 829(h), Sept. 23, 1996, [110 Stat. 2614][/us/stat/110/2614].
 
  __Industrial Diversification Planning for Defense Contractors__ 
 
-[Pub. L. 102–484, div. D, title XLII, § 4239][/us/pl/102/484/s4239], Oct. 23, 1992, [106 Stat. 2694][/us/stat/106/2694], provided that: 
+[Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4239, Oct. 23, 1992, [106 Stat. 2694][/us/stat/106/2694], provided that: 
 
 > “Not later than 120 days after the date of enactment of this Act \[Oct. 23, 1992\], the Secretary of Defense shall prescribe regulations to encourage defense contractors to engage in industrial diversification planning.”
 
  __Notice to Contractors and Employees Upon Proposed and Actual Termination or Substantial Reduction in Major Defense Programs__ 
 
-[Pub. L. 102–484, div. D, title XLIV, § 4471][/us/pl/102/484/s4471], Oct. 23, 1992, [106 Stat. 2753][/us/stat/106/2753], as amended by [Pub. L. 103–160, div. A, title XIII, § 1372][/us/pl/103/160/s1372], Nov. 20, 1993, [107 Stat. 1817][/us/stat/107/1817]; [Pub. L. 103–337, div. A, title XI, § 1142][/us/pl/103/337/s1142], Oct. 5, 1994, [108 Stat. 2881][/us/stat/108/2881]; [Pub. L. 104–201, div. A, title VIII, § 824][/us/pl/104/201/s824], Sept. 23, 1996, [110 Stat. 2610][/us/stat/110/2610]; [Pub. L. 105–85, div. A, title X, § 1073(d)(2)(C)][/us/pl/105/85/s1073/d/2/C], Nov. 18, 1997, [111 Stat. 1905][/us/stat/111/1905]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(7)(C), (f)(6)(C)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419, 2681–430, provided that:
+[Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], § 4471, Oct. 23, 1992, [106 Stat. 2753][/us/stat/106/2753], as amended by [Pub. L. 103–160, div. A, title XIII][/us/pl/103/160/dA/tXIII], § 1372, Nov. 20, 1993, [107 Stat. 1817][/us/stat/107/1817]; [Pub. L. 103–337, div. A, title XI][/us/pl/103/337/dA/tXI], § 1142, Oct. 5, 1994, [108 Stat. 2881][/us/stat/108/2881]; [Pub. L. 104–201, div. A, title VIII][/us/pl/104/201/dA/tVIII], § 824, Sept. 23, 1996, [110 Stat. 2610][/us/stat/110/2610]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(d)(2)(C), Nov. 18, 1997, [111 Stat. 1905][/us/stat/111/1905]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(7)(C), (f)(6)(C)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419, 2681–430, provided that:
 
 >     “(a)  __Notice Requirement After Enactment of Appropriations Act__  __.—__ 
 
@@ -775,67 +775,67 @@
 [/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/usc/t10/s113/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113%2Fg
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
-[/us/pl/102/484/s4211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4211
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2662
-[/us/pl/103/35/s201/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fc%2F7
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F98
-[/us/pl/103/160/s1182/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fa%2F10
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1771
-[/us/pl/104/106/s1081/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1081%2Fa
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F452
-[/us/pl/104/201/s829/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs829%2Fa
+[/us/pl/104/201/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVIII
 [/us/stat/110/2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2612
-[/us/pl/111/23/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs303%2Fa
+[/us/pl/111/23/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2FtIII
 [/us/stat/123/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1731
-[/us/pl/111/383/s895/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs895%2Fb
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4314
-[/us/pl/112/239/s1603/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1603%2Fa%2F1
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2062
-[/us/pl/113/291/s1071/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F2
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
-[/us/pl/100/456/s821/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs821%2Fb%2F1%2FB
+[/us/pl/100/456/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVIII
 [/us/stat/102/2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2014
-[/us/pl/102/484/s4202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4202%2Fa
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t10/s2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2533
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
-[/us/pl/112/239/s1603/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1603%2Fa%2F1%2FA
-[/us/pl/112/239/s1603/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1603%2Fa%2F1%2FB%2Fi
-[/us/pl/112/239/s1603/a/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1603%2Fa%2F1%2FB%2Fiii
-[/us/pl/111/383/s895/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs895%2Fb%2F1
-[/us/pl/111/383/s895/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs895%2Fb%2F2
-[/us/pl/111/383/s895/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs895%2Fb%2F3
-[/us/pl/111/383/s895/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs895%2Fb%2F4
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23
-[/us/pl/104/106/s1081/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1081%2Fa%2F2
-[/us/pl/104/106/s1081/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1081%2Fa%2F1%2FA%2Fi
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/104/106/s1081/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1081%2Fa%2F1%2FA%2Fii
-[/us/pl/104/106/s1081/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1081%2Fa%2F1%2FB
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
-[/us/pl/103/160/s1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1313
-[/us/pl/103/160/s1182/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fa%2F10
-[/us/pl/114/92/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs218
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/114/92/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtII
 [/us/stat/129/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F772
 [/us/usc/t10/s2371b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371b
-[/us/pl/111/383/s891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs891
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4310
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4404
-[/us/pl/109/163/s253/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs253%2Fc
+[/us/pl/109/163/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtII
 [/us/stat/119/3180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3180
-[/us/pl/110/181/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs236
+[/us/pl/110/181/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtII
 [/us/stat/122/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F47
-[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVIII
 [/us/stat/117/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1542
-[/us/pl/109/364/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs841
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2335
-[/us/pl/111/84/s846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs846
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2420
-[/us/pl/112/81/s1062/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1062%2Fg%2F2
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1585
-[/us/pl/113/291/s1071/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F5%2FA
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3506
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t10/s2436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2436
@@ -843,89 +843,89 @@
 [/us/usc/t41/s1122/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1122%2Fa%2F4%2FA
 [/us/usc/t10/s2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2507
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/112/81/s1062/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1062%2Fg%2F2
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1585
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
-[/us/pl/111/84/s846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs846
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2420
 [/us/usc/t10/s2534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2534
-[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtII
 [/us/stat/115/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1041
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/65/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs243
+[/us/pl/106/65/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtII
 [/us/stat/113/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F551
-[/us/pl/106/65/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs212
+[/us/pl/106/65/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtII
 [/us/stat/113/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F542
-[/us/pl/108/136/s1031/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fh%2F1
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1604
-[/us/pl/109/364/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs217
+[/us/pl/109/364/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtII
 [/us/stat/120/2125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2125
-[/us/pl/111/84/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs213
+[/us/pl/111/84/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtII
 [/us/stat/123/2226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2226
-[/us/pl/105/261/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs214
+[/us/pl/105/261/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtII
 [/us/stat/112/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1948
-[/us/pl/104/201/s270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs270
+[/us/pl/104/201/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtII
 [/us/stat/110/2469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2469
-[/us/pl/106/65/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs242
+[/us/pl/106/65/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtII
 [/us/stat/113/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F551
-[/us/pl/109/163/s253/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs253%2Fa
+[/us/pl/109/163/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtII
 [/us/stat/119/3179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3179
-[/us/pl/111/84/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs241
+[/us/pl/111/84/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtII
 [/us/stat/123/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2237
-[/us/pl/104/106/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs808
+[/us/pl/104/106/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVIII
 [/us/stat/110/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F393
-[/us/pl/105/85/s1027/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1027%2Fd
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1880
 [/us/usc/t10/s7315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7315
-[/us/pl/103/337/s1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1118
+[/us/pl/103/337/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXI
 [/us/stat/108/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2870
-[/us/pl/103/160/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1303
+[/us/pl/103/160/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIII
 [/us/stat/107/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1784
 [/us/pl/103/160/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1302
 [/us/stat/107/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1783
-[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIII
 [/us/stat/107/1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1809
-[/us/pl/104/201/s1073/e/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1073%2Fe%2F1%2FF
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2658
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/usc/t46/s31326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31326
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtI
 [/us/stat/106/2347-2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2347-2349
-[/us/pl/103/35/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs202%2Fa%2F1
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F100
-[/us/pl/103/337/s1141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1141%2Fa
+[/us/pl/103/337/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXI
 [/us/stat/108/2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2879
-[/us/pl/104/201/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs143
+[/us/pl/104/201/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtI
 [/us/stat/110/2449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2449
-[/us/pl/105/261/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs115
+[/us/pl/105/261/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtI
 [/us/stat/112/1939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1939
-[/us/pl/106/65/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs116
+[/us/pl/106/65/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtI
 [/us/stat/113/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F533
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/102/484/s4218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4218
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2671
-[/us/pl/104/201/s829/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs829%2Fh
+[/us/pl/104/201/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVIII
 [/us/stat/110/2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2614
-[/us/pl/102/484/s4239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4239
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2694
-[/us/pl/102/484/s4471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4471
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2753
-[/us/pl/103/160/s1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1372
+[/us/pl/103/160/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIII
 [/us/stat/107/1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1817
-[/us/pl/103/337/s1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1142
+[/us/pl/103/337/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXI
 [/us/stat/108/2881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2881
-[/us/pl/104/201/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs824
+[/us/pl/104/201/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVIII
 [/us/stat/110/2610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2610
-[/us/pl/105/85/s1073/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fd%2F2%2FC
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1905
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/usc/t29/s2864/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fa%2F2%2FA
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801

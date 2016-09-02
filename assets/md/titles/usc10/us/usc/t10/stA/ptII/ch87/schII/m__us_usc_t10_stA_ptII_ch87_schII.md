@@ -83,13 +83,13 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–383, div. A, title VIII, § 873(a)(2)][/us/pl/111/383/s873/a/2], Jan. 7, 2011, [124 Stat. 4303][/us/stat/124/4303], added item 1722b.
+    2011—[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 873(a)(2), Jan. 7, 2011, [124 Stat. 4303][/us/stat/124/4303], added item 1722b.
 
-    2009—[Pub. L. 111–84, div. A, title X, § 1073(c)(6)][/us/pl/111/84/s1073/c/6], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], amended [Pub. L. 110–417, § 834(a)(2)][/us/pl/110/417/s834/a/2]. See 2008 Amendment note below.
+    2009—[Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c)(6), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], amended [Pub. L. 110–417][/us/pl/110/417], § 834(a)(2). See 2008 Amendment note below.
 
-    2008—[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 834(a)(2), Oct. 14, 2008, [122 Stat. 4537][/us/stat/122/4537], as amended by [Pub. L. 111–84, div. A, title X, § 1073(c)(6)][/us/pl/111/84/s1073/c/6], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], added item 1722a.
+    2008—[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 834(a)(2), Oct. 14, 2008, [122 Stat. 4537][/us/stat/122/4537], as amended by [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c)(6), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], added item 1722a.
 
-    2003—[Pub. L. 108–136, div. A, title VIII, § 836(2)][/us/pl/108/136/s836/2], Nov. 24, 2003, [117 Stat. 1551][/us/stat/117/1551], struck out item 1725 “Office of Personnel Management approval”.
+    2003—[Pub. L. 108–136, div. A, title VIII][/us/pl/108/136/dA/tVIII], § 836(2), Nov. 24, 2003, [117 Stat. 1551][/us/stat/117/1551], struck out item 1725 “Office of Personnel Management approval”.
 
 ----------
 
@@ -98,16 +98,16 @@
 ----------
 ----------
 
-[/us/pl/111/383/s873/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs873%2Fa%2F2
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4303
-[/us/pl/111/84/s1073/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc%2F6
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
-[/us/pl/110/417/s834/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs834%2Fa%2F2
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4537
-[/us/pl/111/84/s1073/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc%2F6
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
-[/us/pl/108/136/s836/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs836%2F2
+[/us/pl/108/136/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVIII
 [/us/stat/117/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1551
 
 

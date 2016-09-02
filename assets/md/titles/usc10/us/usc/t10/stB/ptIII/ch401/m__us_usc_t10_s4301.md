@@ -29,7 +29,7 @@
 
     (g) Expenses incident to the detail of members under this section shall be paid from any funds appropriated for the Department of the Army.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 234][/us/stat/70A/234]; [Pub. L. 93–169][/us/pl/93/169], Nov. 29, 1973, [87 Stat. 689][/us/stat/87/689]; [Pub. L. 96–513, title V, § 502(23)][/us/pl/96/513/s502/23], Dec. 12, 1980, [94 Stat. 2910][/us/stat/94/2910]; [Pub. L. 100–456, div. A, title XII, § 1234(a)(1)][/us/pl/100/456/s1234/a/1], Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 109–163, div. A, title X, § 1057(a)(9)][/us/pl/109/163/s1057/a/9], Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 234][/us/stat/70A/234]; [Pub. L. 93–169][/us/pl/93/169], Nov. 29, 1973, [87 Stat. 689][/us/stat/87/689]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 502(23), Dec. 12, 1980, [94 Stat. 2910][/us/stat/94/2910]; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1234(a)(1), Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(a)(9), Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
 
 <table>
 
@@ -158,11 +158,11 @@ June 19, 1948, ch. 501, § 2, 62 Stat. 478.  </td>
 [/us/stat/70A/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F234
 [/us/pl/93/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F169
 [/us/stat/87/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F689
-[/us/pl/96/513/s502/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs502%2F23
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2910
-[/us/pl/100/456/s1234/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fa%2F1
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
-[/us/pl/109/163/s1057/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F9
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3441
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456

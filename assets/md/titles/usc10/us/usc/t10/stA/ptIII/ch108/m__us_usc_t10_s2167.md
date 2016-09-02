@@ -51,7 +51,7 @@
 
     Amounts received by the National Defense University for instruction of students enrolled under this section shall be retained by the university to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the university.
 
-(Added [Pub. L. 107–107, div. A, title V, § 528(a)(1)][/us/pl/107/107/s528/a/1], Dec. 28, 2001, [115 Stat. 1102][/us/stat/115/1102]; amended [Pub. L. 111–84, div. A, title V, § 526][/us/pl/111/84/s526], Oct. 28, 2009, [123 Stat. 2288][/us/stat/123/2288]; [Pub. L. 111–383, div. A, title V, § 592][/us/pl/111/383/s592], Jan. 7, 2011, [124 Stat. 4232][/us/stat/124/4232].)
+(Added [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 528(a)(1), Dec. 28, 2001, [115 Stat. 1102][/us/stat/115/1102]; amended [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 526, Oct. 28, 2009, [123 Stat. 2288][/us/stat/123/2288]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 592, Jan. 7, 2011, [124 Stat. 4232][/us/stat/124/4232].)
 
  __Amendments__ 
 
@@ -61,7 +61,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 107–107, div. A, title V, § 528(b)][/us/pl/107/107/s528/b], Dec. 28, 2001, [115 Stat. 1103][/us/stat/115/1103], provided that: 
+[Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 528(b), Dec. 28, 2001, [115 Stat. 1103][/us/stat/115/1103], provided that: 
 
 > “[Section 2167 of title 10][/us/usc/t10/s2167], United States Code, as added by subsection (a), shall take effect on January 1, 2002.”
 
@@ -73,15 +73,15 @@
 ----------
 
 [/us/usc/t10/s2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2165
-[/us/pl/107/107/s528/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs528%2Fa%2F1
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1102
-[/us/pl/111/84/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs526
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2288
-[/us/pl/111/383/s592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs592
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4232
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/107/107/s528/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs528%2Fb
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1103
 [/us/usc/t10/s2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2167
 

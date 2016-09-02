@@ -23,7 +23,7 @@
 
     (d) The Secretary of the Navy may increase the quantity of daily rations for members of the naval service on a vessel or at a station that has an authorized complement of less than 150 members if the President determines that the vessel or station is operating under conditions that warrant an increase in rations.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 379][/us/stat/70A/379]; [Pub. L. 101–510, div. A, title V, § 557(a)][/us/pl/101/510/s557/a], Nov. 5, 1990, [104 Stat. 1570][/us/stat/104/1570].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 379][/us/stat/70A/379]; [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 557(a), Nov. 5, 1990, [104 Stat. 1570][/us/stat/104/1570].)
 
 <table>
 
@@ -120,7 +120,7 @@ Mar. 2, 1933, ch. 184, § 3, 47 Stat. 1423.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F379
-[/us/pl/101/510/s557/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs557%2Fa
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1570
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

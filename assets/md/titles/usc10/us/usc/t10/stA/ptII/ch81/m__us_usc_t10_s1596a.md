@@ -37,7 +37,7 @@
 
     The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1131(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–317; amended [Pub. L. 108–375, div. A, title XI, § 1102(a)][/us/pl/108/375/s1102/a], Oct. 28, 2004, [118 Stat. 2072][/us/stat/118/2072].)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1131(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–317; amended [Pub. L. 108–375, div. A, title XI][/us/pl/108/375/dA/tXI], § 1102(a), Oct. 28, 2004, [118 Stat. 2072][/us/stat/118/2072].)
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–375, div. A, title XI, § 1102(b)][/us/pl/108/375/s1102/b], Oct. 28, 2004, [118 Stat. 2072][/us/stat/118/2072], provided that: 
+[Pub. L. 108–375, div. A, title XI][/us/pl/108/375/dA/tXI], § 1102(b), Oct. 28, 2004, [118 Stat. 2072][/us/stat/118/2072], provided that: 
 
 > “The amendment by this section \[amending this section\] shall take effect on the first day of the first month that begins after the date of the enactment of this Act \[Oct. 28, 2004\].”
 
@@ -57,12 +57,12 @@
 ----------
 
 [/us/usc/t10/s1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1596
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/375/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1102%2Fa
+[/us/pl/108/375/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtXI
 [/us/stat/118/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2072
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/108/375/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1102%2Fb
+[/us/pl/108/375/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtXI
 [/us/stat/118/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2072
 
 

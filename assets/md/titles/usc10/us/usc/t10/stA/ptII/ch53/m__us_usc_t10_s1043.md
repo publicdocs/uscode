@@ -17,7 +17,7 @@
 
     Active commissioned service in the National Oceanic and Atmospheric Administration or the Public Health Service shall be credited as active commissioned service in the armed forces for purposes of determining the retirement eligibility and computing the retired pay of a member of the armed forces.
 
-(Added [Pub. L. 98–94, title X, § 1007(b)(1)][/us/pl/98/94/s1007/b/1], Sept. 24, 1983, [97 Stat. 662][/us/stat/97/662].)
+(Added [Pub. L. 98–94, title X][/us/pl/98/94/tX], § 1007(b)(1), Sept. 24, 1983, [97 Stat. 662][/us/stat/97/662].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/94/s1007/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1007%2Fb%2F1
+[/us/pl/98/94/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtX
 [/us/stat/97/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F662
 
 

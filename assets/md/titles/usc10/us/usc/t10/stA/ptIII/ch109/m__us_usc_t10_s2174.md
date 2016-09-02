@@ -65,7 +65,7 @@
 
     In this section, the term “special allowance” means a special allowance that is payable under section 438 of the Higher Education Act of 1965 ([20 U.S.C. 1087–1][/us/usc/t20/s1087–1]).
 
-(Added [Pub. L. 107–314, div. A, title VI, § 651(a)(1)][/us/pl/107/314/s651/a/1], Dec. 2, 2002, [116 Stat. 2578][/us/stat/116/2578].)
+(Added [Pub. L. 107–314, div. A, title VI][/us/pl/107/314/dA/tVI], § 651(a)(1), Dec. 2, 2002, [116 Stat. 2578][/us/stat/116/2578].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 107–314, div. A, title VI, § 651(e)][/us/pl/107/314/s651/e], Dec. 2, 2002, [116 Stat. 2581][/us/stat/116/2581], provided that: 
+[Pub. L. 107–314, div. A, title VI][/us/pl/107/314/dA/tVI], § 651(e), Dec. 2, 2002, [116 Stat. 2581][/us/stat/116/2581], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 1078, 1087e, and 1087dd of Title 20, Education\] shall apply with respect to interest, and any special allowance under section 438 of the Higher Education Act of 1965 \[[20 U.S.C. 1087–1][/us/usc/t20/s1087–1]\], that accrue for months beginning on or after October 1, 2003, on student loans described in subsection (c) of [section 2174 of title 10][/us/usc/t10/s2174], United States Code (as added by subsection (a)), that were made before, on, or after such date to members of the Armed Forces who are on active duty (as defined in [section 101(d) of title 10][/us/usc/t10/s101/d], United States Code) on or after that date.”
 
@@ -93,12 +93,12 @@
 [/us/usc/t20/s1087aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087aa
 [/us/usc/t20/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078
 [/us/usc/t20/s1087–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%931
-[/us/pl/107/314/s651/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs651%2Fa%2F1
+[/us/pl/107/314/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVI
 [/us/stat/116/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2578
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/107/314/s651/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs651%2Fe
+[/us/pl/107/314/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVI
 [/us/stat/116/2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2581
 [/us/usc/t20/s1087–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%931
 [/us/usc/t10/s2174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2174

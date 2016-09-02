@@ -29,7 +29,7 @@
 
     (c) No color, standard, or guidon may be disposed of under this section unless provision satisfactory to the Secretary has been made for its preservation and care.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 256][/us/stat/70A/256]; [Pub. L. 89–718, § 29][/us/pl/89/718/s29], Nov. 2, 1966, [80 Stat. 1119][/us/stat/80/1119].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 256][/us/stat/70A/256]; [Pub. L. 89–718][/us/pl/89/718], § 29, Nov. 2, 1966, [80 Stat. 1119][/us/stat/80/1119].)
 
 <table>
 
@@ -118,7 +118,7 @@ Mar. 4, 1921, ch. 166, § 2, 41 Stat. 1438.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F256
-[/us/pl/89/718/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs29
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1119
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 

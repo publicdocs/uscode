@@ -91,27 +91,27 @@
 
         (2) The total amount expended for any fiscal year to provide support for sporting events described in subsection (c)(5) may not exceed $1,000,000.
 
-(Added [Pub. L. 104–201, div. A, title III, § 367(a)][/us/pl/104/201/s367/a], Sept. 23, 1996, [110 Stat. 2496][/us/stat/110/2496], § 2554; amended [Pub. L. 105–85, div. A, title X, § 1073(a)(56)][/us/pl/105/85/s1073/a/56], (c)(2)(A), Nov. 18, 1997, [111 Stat. 1903][/us/stat/111/1903], 1904; renumbered § 2564, [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1033(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–260; [Pub. L. 110–181, div. A, title III, § 372(a)][/us/pl/110/181/s372/a], Jan. 28, 2008, [122 Stat. 81][/us/stat/122/81].)
+(Added [Pub. L. 104–201, div. A, title III][/us/pl/104/201/dA/tIII], § 367(a), Sept. 23, 1996, [110 Stat. 2496][/us/stat/110/2496], § 2554; amended [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(56), (c)(2)(A), Nov. 18, 1997, [111 Stat. 1903][/us/stat/111/1903], 1904; renumbered § 2564, [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1033(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–260; [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 372(a), Jan. 28, 2008, [122 Stat. 81][/us/stat/122/81].)
 
  __Amendments__ 
 
-    2008—Subsec. (c)(4), (5). [Pub. L. 110–181, § 372(a)(1)][/us/pl/110/181/s372/a/1], added pars. (4) and (5).
+    2008—Subsec. (c)(4), (5). [Pub. L. 110–181][/us/pl/110/181], § 372(a)(1), added pars. (4) and (5).
 
-    Subsec. (g). [Pub. L. 110–181, § 372(a)(2)][/us/pl/110/181/s372/a/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 110–181][/us/pl/110/181], § 372(a)(2), added subsec. (g).
 
     2000—[Pub. L. 106–398][/us/pl/106/398] renumbered [section 2554 of this title][/us/usc/t10/s2554] as this section.
 
-    1997—[Pub. L. 105–85, § 1073(c)(2)(A)][/us/pl/105/85/s1073/c/2/A], made technical amendment to directory language of [Pub. L. 104–201, § 367(a)][/us/pl/104/201/s367/a], which enacted this section.
+    1997—[Pub. L. 105–85][/us/pl/105/85], § 1073(c)(2)(A), made technical amendment to directory language of [Pub. L. 104–201][/us/pl/104/201], § 367(a), which enacted this section.
 
-    Subsec. (c)(1). [Pub. L. 105–85, § 1073(a)(56)][/us/pl/105/85/s1073/a/56], substituted “September 23, 1996” for “the date of the enactment of this Act”.
+    Subsec. (c)(1). [Pub. L. 105–85][/us/pl/105/85], § 1073(a)(56), substituted “September 23, 1996” for “the date of the enactment of this Act”.
 
  __Effective Date of 1997 Amendment__ 
 
-    [Pub. L. 105–85, div. A, title X, § 1073(c)][/us/pl/105/85/s1073/c], Nov. 18, 1997, [111 Stat. 1904][/us/stat/111/1904], provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, [Pub. L. 104–201][/us/pl/104/201], as enacted.
+    [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(c), Nov. 18, 1997, [111 Stat. 1904][/us/stat/111/1904], provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, [Pub. L. 104–201][/us/pl/104/201], as enacted.
 
  __Support for International Sporting Competitions, Defense, Account__ 
 
-[Pub. L. 104–208, div. A, title V, § 5802][/us/pl/104/208/s5802], Sept. 30, 1996, [110 Stat. 3009–522][/us/stat/110/3009-522], as amended by [Pub. L. 110–181, div. A, title III, § 372(b)][/us/pl/110/181/s372/b], Jan. 28, 2008, [122 Stat. 82][/us/stat/122/82], provided that: 
+[Pub. L. 104–208, div. A, title V][/us/pl/104/208/dA/tV], § 5802, Sept. 30, 1996, [110 Stat. 3009–522][/us/stat/110/3009-522], as amended by [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 372(b), Jan. 28, 2008, [122 Stat. 82][/us/stat/122/82], provided that: 
 
 > “There is hereby established on the books of the Treasury an account, ‘Support for International Sporting Competitions, Defense’ (hereinafter referred to in this section as the ‘Account’) to be available until expended for logistical and security support for international sporting competitions and for support of sporting competitions authorized under section 2564(c)(4) and (5), of title 10, United States Code, (other than pay and non-travel-related allowances of members of the Armed Forces of the United States, except for members of the reserve components thereof called or ordered to active duty in connection with providing such support): Provided, That there shall be credited to the Account: (a) unobligated balances of the funds appropriated in Public Laws 103–335 \[[108 Stat. 2605][/us/stat/108/2605]\] and 104–61 \[[109 Stat. 642][/us/stat/109/642]\] under the headings ‘Summer Olympics’; (b) any reimbursements received by the Department of Defense in connection with support to the 1993 World University Games; the 1994 World Cup Games; and the 1996 Games of the XXVI Olympiad held in Atlanta, Georgia; (c) any reimbursements received by the Department of Defense after the date of enactment of this Act \[Sept. 30, 1996\] for logistical and security support provided to international sporting competitions; and (d) amounts specifically appropriated to the Account, all to remain available until expended: Provided further, That none of the funds made available to the Account may be obligated until 15 days after the congressional defense committees have been notified in writing by the Secretary of Defense as to the purpose for which these funds will be obligated.”
 
@@ -125,27 +125,27 @@
 [/us/usc/t10/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs377
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t10/s2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2564
-[/us/pl/104/201/s367/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs367%2Fa
+[/us/pl/104/201/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIII
 [/us/stat/110/2496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2496
-[/us/pl/105/85/s1073/a/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F56
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1903
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/110/181/s372/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs372%2Fa
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F81
-[/us/pl/110/181/s372/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs372%2Fa%2F1
-[/us/pl/110/181/s372/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs372%2Fa%2F2
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t10/s2554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2554
-[/us/pl/105/85/s1073/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fc%2F2%2FA
-[/us/pl/104/201/s367/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs367%2Fa
-[/us/pl/105/85/s1073/a/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F56
-[/us/pl/105/85/s1073/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fc
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1904
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/104/208/s5802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs5802
+[/us/pl/104/208/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtV
 [/us/stat/110/3009-522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-522
-[/us/pl/110/181/s372/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs372%2Fb
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F82
 [/us/stat/108/2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2605
 [/us/stat/109/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F642

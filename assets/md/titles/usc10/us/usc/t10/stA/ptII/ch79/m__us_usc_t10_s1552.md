@@ -61,7 +61,7 @@
 
     (h) In this section, the term “military record” means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 373, 605, 607, 643, and 873 of this title).
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 116][/us/stat/70A/116]; [Pub. L. 86–533, § 1(4)][/us/pl/86/533/s1/4], June 29, 1960, [74 Stat. 246][/us/stat/74/246]; [Pub. L. 96–513, title V, § 511(60)][/us/pl/96/513/s511/60], Dec. 12, 1980, [94 Stat. 2925][/us/stat/94/2925]; [Pub. L. 98–209, § 11(a)][/us/pl/98/209/s11/a], Dec. 6, 1983, [97 Stat. 1407][/us/stat/97/1407]; [Pub. L. 100–456, div. A, title XII, § 1233(a)][/us/pl/100/456/s1233/a], Sept. 29, 1988, [102 Stat. 2057][/us/stat/102/2057]; [Pub. L. 101–189, div. A, title V, § 514][/us/pl/101/189/s514], title XVI, § 1621(a)(2), Nov. 29, 1989, [103 Stat. 1441][/us/stat/103/1441], 1603; [Pub. L. 102–484, div. A, title X, § 1052(19)][/us/pl/102/484/s1052/19], Oct. 23, 1992, [106 Stat. 2500][/us/stat/106/2500]; [Pub. L. 105–261, div. A, title V, § 545(a)][/us/pl/105/261/s545/a], (b), Oct. 17, 1998, [112 Stat. 2022][/us/stat/112/2022]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 592(a), (b), Oct. 14, 2008, [122 Stat. 4474][/us/stat/122/4474], 4475; [Pub. L. 113–291, div. A, title V, § 521(a)][/us/pl/113/291/s521/a], Dec. 19, 2014, [128 Stat. 3360][/us/stat/128/3360]; [Pub. L. 114–92, div. A, title V, § 521][/us/pl/114/92/s521], Nov. 25, 2015, [129 Stat. 811][/us/stat/129/811].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 116][/us/stat/70A/116]; [Pub. L. 86–533][/us/pl/86/533], § 1(4), June 29, 1960, [74 Stat. 246][/us/stat/74/246]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(60), Dec. 12, 1980, [94 Stat. 2925][/us/stat/94/2925]; [Pub. L. 98–209][/us/pl/98/209], § 11(a), Dec. 6, 1983, [97 Stat. 1407][/us/stat/97/1407]; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1233(a), Sept. 29, 1988, [102 Stat. 2057][/us/stat/102/2057]; [Pub. L. 101–189, div. A, title V][/us/pl/101/189/dA/tV], § 514, title XVI, § 1621(a)(2), Nov. 29, 1989, [103 Stat. 1441][/us/stat/103/1441], 1603; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1052(19), Oct. 23, 1992, [106 Stat. 2500][/us/stat/106/2500]; [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 545(a), (b), Oct. 17, 1998, [112 Stat. 2022][/us/stat/112/2022]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 592(a), (b), Oct. 14, 2008, [122 Stat. 4474][/us/stat/122/4474], 4475; [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 521(a), Dec. 19, 2014, [128 Stat. 3360][/us/stat/128/3360]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 521, Nov. 25, 2015, [129 Stat. 811][/us/stat/129/811].)
 
 <table>
 
@@ -261,7 +261,7 @@ In subsection (a), the words “and approved by the Secretary of Defense” are 
 
  __References in Text__ 
 
-    The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (f), is [act May 5, 1950, ch. 169, § 1][/us/act/1950-05-05/ch169/s1], [64 Stat. 107][/us/stat/64/107], which was classified to chapter 22 (§ 551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47 (§ 801 et seq.) of this title by [act Aug. 10, 1956, ch. 1041, § 53][/us/act/1956-08-10/ch1041/s53], [70A Stat. 641][/us/stat/70A/641], the first section of which enacted this title.
+    The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (f), is [act May 5, 1950, ch. 169][/us/act/1950-05-05/ch169], § 1, [64 Stat. 107][/us/stat/64/107], which was classified to chapter 22 (§ 551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47 (§ 801 et seq.) of this title by [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 53, [70A Stat. 641][/us/stat/70A/641], the first section of which enacted this title.
 
  __Amendments__ 
 
@@ -273,21 +273,21 @@ In subsection (a), the words “and approved by the Secretary of Defense” are 
 
     2002—Subsec. (a)(1). [Pub. L. 107–296][/us/pl/107/296] substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-    1998—Subsec. (c). [Pub. L. 105–261, § 545(a)][/us/pl/105/261/s545/a], inserted “, or on account of his or another’s service as a civilian employee” before period at end of first sentence.
+    1998—Subsec. (c). [Pub. L. 105–261][/us/pl/105/261], § 545(a), inserted “, or on account of his or another’s service as a civilian employee” before period at end of first sentence.
 
-    Subsec. (g). [Pub. L. 105–261, § 545(b)][/us/pl/105/261/s545/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 105–261][/us/pl/105/261], § 545(b), added subsec. (g).
 
     1992—Subsec. (a)(2). [Pub. L. 102–484][/us/pl/102/484] substituted “announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decision not to promote an enlisted member to a higher grade” for “announcing a decision not to promote an enlisted member to a higher grade”.
 
-    1989—Subsec. (a). [Pub. L. 101–189, § 514(a)][/us/pl/101/189/s514/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of a military department, under procedures established by him and approved by the Secretary of Defense, and acting through boards of civilians of the executive part of that military department, may correct any military record of that department when he considers it necessary to correct an error or remove an injustice. Under procedures prescribed by him, the Secretary of Transportation may in the same manner correct any military record of the Coast Guard. Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States.”
+    1989—Subsec. (a). [Pub. L. 101–189][/us/pl/101/189], § 514(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of a military department, under procedures established by him and approved by the Secretary of Defense, and acting through boards of civilians of the executive part of that military department, may correct any military record of that department when he considers it necessary to correct an error or remove an injustice. Under procedures prescribed by him, the Secretary of Transportation may in the same manner correct any military record of the Coast Guard. Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States.”
 
-    Subsec. (b). [Pub. L. 101–189, § 514(b)][/us/pl/101/189/s514/b], substituted “subsection (a)(1)” for “subsection (a)” in two places.
+    Subsec. (b). [Pub. L. 101–189][/us/pl/101/189], § 514(b), substituted “subsection (a)(1)” for “subsection (a)” in two places.
 
-    Subsec. (e). [Pub. L. 101–189, § 1621(a)(2)][/us/pl/101/189/s1621/a/2], substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+    Subsec. (e). [Pub. L. 101–189][/us/pl/101/189], § 1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-    1988—Subsec. (b). [Pub. L. 100–456, § 1233(a)(1)][/us/pl/100/456/s1233/a/1], substituted “for the correction within three years after he discovers the error or injustice” for “therefor before October 26, 1961, or within three years after he discovers the error or injustice, whichever is later”.
+    1988—Subsec. (b). [Pub. L. 100–456][/us/pl/100/456], § 1233(a)(1), substituted “for the correction within three years after he discovers the error or injustice” for “therefor before October 26, 1961, or within three years after he discovers the error or injustice, whichever is later”.
 
-    Subsec. (c). [Pub. L. 100–456, § 1233(a)(2)][/us/pl/100/456/s1233/a/2], substituted “The Secretary concerned” for “The department concerned”.
+    Subsec. (c). [Pub. L. 100–456][/us/pl/100/456], § 1233(a)(2), substituted “The Secretary concerned” for “The department concerned”.
 
     1983—Subsec. (f). [Pub. L. 98–209][/us/pl/98/209] added subsec. (f).
 
@@ -311,7 +311,7 @@ In subsection (a), the words “and approved by the Secretary of Defense” are 
 
  __Board for Correction of Military Records__ 
 
-[Pub. L. 101–225, title II, § 212][/us/pl/101/225/s212], Dec. 12, 1989, [103 Stat. 1914][/us/stat/103/1914], provided that: 
+[Pub. L. 101–225, title II][/us/pl/101/225/tII], § 212, Dec. 12, 1989, [103 Stat. 1914][/us/stat/103/1914], provided that: 
 
 > “Not later than 6 months after the date of the enactment of this Act \[Dec. 12, 1989\], the Secretary of Transportation shall—
 
@@ -329,45 +329,45 @@ In subsection (a), the words “and approved by the Secretary of Defense” are 
 [/us/usc/t10/s2771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2771
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F116
-[/us/pl/86/533/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F533%2Fs1%2F4
+[/us/pl/86/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F533
 [/us/stat/74/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F246
-[/us/pl/96/513/s511/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F60
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2925
-[/us/pl/98/209/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs11%2Fa
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1407
-[/us/pl/100/456/s1233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1233%2Fa
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2057
-[/us/pl/101/189/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs514
+[/us/pl/101/189/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtV
 [/us/stat/103/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1441
-[/us/pl/102/484/s1052/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F19
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2500
-[/us/pl/105/261/s545/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs545%2Fa
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2022
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4474
-[/us/pl/113/291/s521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs521%2Fa
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3360
-[/us/pl/114/92/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs521
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F811
 [/us/usc/t10/s101/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F27
-[/us/act/1950-05-05/ch169/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-05%2Fch169%2Fs1
+[/us/act/1950-05-05/ch169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-05%2Fch169
 [/us/stat/64/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F107
-[/us/act/1956-08-10/ch1041/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs53
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/105/261/s545/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs545%2Fa
-[/us/pl/105/261/s545/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs545%2Fb
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/101/189/s514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs514%2Fa
-[/us/pl/101/189/s514/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs514%2Fb
-[/us/pl/101/189/s1621/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F2
-[/us/pl/100/456/s1233/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1233%2Fa%2F1
-[/us/pl/100/456/s1233/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1233%2Fa%2F2
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/86/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F533
@@ -380,7 +380,7 @@ In subsection (a), the words “and approved by the Secretary of Defense” are 
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/101/225/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs212
+[/us/pl/101/225/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtII
 [/us/stat/103/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1914
 [/us/usc/t10/s1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1552
 

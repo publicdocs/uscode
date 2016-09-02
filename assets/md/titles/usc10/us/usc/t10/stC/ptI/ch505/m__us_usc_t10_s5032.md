@@ -31,7 +31,7 @@
 
         (5) perform such other duties, not otherwise assigned by law, as may be prescribed by the Secretary.
 
-(Added [Pub. L. 99–433, title V, § 512(b)][/us/pl/99/433/s512/b], Oct. 1, 1986, [100 Stat. 1049][/us/stat/100/1049].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 512(b), Oct. 1, 1986, [100 Stat. 1049][/us/stat/100/1049].)
 
  __Prior Provisions__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t10/s5014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5014
-[/us/pl/99/433/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs512%2Fb
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1049
 [/us/usc/t10/s5013a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5013a
 

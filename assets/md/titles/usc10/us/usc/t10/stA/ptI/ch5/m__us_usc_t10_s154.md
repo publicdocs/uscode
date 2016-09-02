@@ -51,23 +51,23 @@
 
     The Vice Chairman, while so serving, holds the grade of general or, in the case of an officer of the Navy, admiral and outranks all other officers of the armed forces except the Chairman. The Vice Chairman may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
 
-(Added [Pub. L. 99–433, title II, § 201][/us/pl/99/433/s201], Oct. 1, 1986, [100 Stat. 1008][/us/stat/100/1008]; amended [Pub. L. 100–456, div. A, title V, § 519(a)(1)][/us/pl/100/456/s519/a/1], Sept. 29, 1988, [102 Stat. 1972][/us/stat/102/1972]; [Pub. L. 102–484, div. A, title IX, § 911(b)(1)][/us/pl/102/484/s911/b/1], Oct. 23, 1992, [106 Stat. 2473][/us/stat/106/2473].)
+(Added [Pub. L. 99–433, title II][/us/pl/99/433/tII], § 201, Oct. 1, 1986, [100 Stat. 1008][/us/stat/100/1008]; amended [Pub. L. 100–456, div. A, title V][/us/pl/100/456/dA/tV], § 519(a)(1), Sept. 29, 1988, [102 Stat. 1972][/us/stat/102/1972]; [Pub. L. 102–484, div. A, title IX][/us/pl/102/484/dA/tIX], § 911(b)(1), Oct. 23, 1992, [106 Stat. 2473][/us/stat/106/2473].)
 
  __Amendments__ 
 
-    1992—Subsec. (c). [Pub. L. 102–484, § 911(b)(1)(A)][/us/pl/102/484/s911/b/1/A], substituted “the duties prescribed for him as a member of the Joint Chiefs of Staff and such other” for “such”.
+    1992—Subsec. (c). [Pub. L. 102–484][/us/pl/102/484], § 911(b)(1)(A), substituted “the duties prescribed for him as a member of the Joint Chiefs of Staff and such other” for “such”.
 
-    Subsecs. (f), (g). [Pub. L. 102–484, § 911(b)(1)(B)][/us/pl/102/484/s911/b/1/B], (C), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Participation in JCS Meetings.—The Vice Chairman may participate in all meetings of the Joint Chiefs of Staff, but may not vote on a matter before the Joint Chiefs of Staff except when acting as Chairman.”
+    Subsecs. (f), (g). [Pub. L. 102–484][/us/pl/102/484], § 911(b)(1)(B), (C), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Participation in JCS Meetings.—The Vice Chairman may participate in all meetings of the Joint Chiefs of Staff, but may not vote on a matter before the Joint Chiefs of Staff except when acting as Chairman.”
 
     1988—Subsec. (b)(1)(B). [Pub. L. 100–456][/us/pl/100/456] substituted “completed a full tour of duty in a joint duty assignment (as defined in [section 664(f) of this title][/us/usc/t10/s664/f])” for “served in at least one joint duty assignment (as defined under [section 668(b) of this title][/us/usc/t10/s668/b])”.
 
  __Extension of Term of Office of Vice Chairman of Joint Chiefs of Staff__ 
 
-    [Pub. L. 100–526, title I, § 107][/us/pl/100/526/s107], Oct. 24, 1988, [102 Stat. 2625][/us/stat/102/2625], authorized President to extend until June 1, 1989, term of office of officer serving as Vice Chairman of Joint Chiefs of Staff for term which began on Feb. 6, 1987.
+    [Pub. L. 100–526, title I][/us/pl/100/526/tI], § 107, Oct. 24, 1988, [102 Stat. 2625][/us/stat/102/2625], authorized President to extend until June 1, 1989, term of office of officer serving as Vice Chairman of Joint Chiefs of Staff for term which began on Feb. 6, 1987.
 
  __Waiver of Qualifications for Appointment as Vice Chairman of Joint Chiefs of Staff__ 
 
-    [Pub. L. 99–433, title II, § 204(c)][/us/pl/99/433/s204/c], Oct. 1, 1986, [100 Stat. 1011][/us/stat/100/1011], authorized President, until Oct. 1, 1990, to waive certain requirements otherwise applicable for appointment of an officer as Vice Chairman of Joint Chiefs of Staff.
+    [Pub. L. 99–433, title II][/us/pl/99/433/tII], § 204(c), Oct. 1, 1986, [100 Stat. 1011][/us/stat/100/1011], authorized President, until Oct. 1, 1990, to waive certain requirements otherwise applicable for appointment of an officer as Vice Chairman of Joint Chiefs of Staff.
 
 ----------
 
@@ -78,20 +78,20 @@
 
 [/us/usc/t10/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs661
 [/us/usc/t10/s664/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs664%2Ff
-[/us/pl/99/433/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs201
+[/us/pl/99/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtII
 [/us/stat/100/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1008
-[/us/pl/100/456/s519/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs519%2Fa%2F1
+[/us/pl/100/456/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtV
 [/us/stat/102/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1972
-[/us/pl/102/484/s911/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs911%2Fb%2F1
+[/us/pl/102/484/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIX
 [/us/stat/106/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2473
-[/us/pl/102/484/s911/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs911%2Fb%2F1%2FA
-[/us/pl/102/484/s911/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs911%2Fb%2F1%2FB
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/usc/t10/s664/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs664%2Ff
 [/us/usc/t10/s668/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs668%2Fb
-[/us/pl/100/526/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F526%2Fs107
+[/us/pl/100/526/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F526%2FtI
 [/us/stat/102/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2625
-[/us/pl/99/433/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs204%2Fc
+[/us/pl/99/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtII
 [/us/stat/100/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1011
 
 

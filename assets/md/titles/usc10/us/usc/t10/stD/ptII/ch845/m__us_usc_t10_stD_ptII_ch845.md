@@ -107,15 +107,15 @@
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–85, div. A, title V, § 507(b)(2)][/us/pl/105/85/s507/b/2], Nov. 18, 1997, [111 Stat. 1727][/us/stat/111/1727], added item 8583.
+    1997—[Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 507(b)(2), Nov. 18, 1997, [111 Stat. 1727][/us/stat/111/1727], added item 8583.
 
-    1980—[Pub. L. 96–513, title V, § 504(15)][/us/pl/96/513/s504/15], Dec. 12, 1980, [94 Stat. 2917][/us/stat/94/2917], struck out items 8571 “Rank: commissioned officers on active duty”, 8573 “Rank: commissioned officers in regular grades of brigadier general and major general; seniority list”, 8574 “Rank: commissioned officers in regular grades below brigadier general”, and 8582 “Command: retired officers”.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], § 504(15), Dec. 12, 1980, [94 Stat. 2917][/us/stat/94/2917], struck out items 8571 “Rank: commissioned officers on active duty”, 8573 “Rank: commissioned officers in regular grades of brigadier general and major general; seniority list”, 8574 “Rank: commissioned officers in regular grades below brigadier general”, and 8582 “Command: retired officers”.
 
     1974—[Pub. L. 93–525][/us/pl/93/525], Dec. 18, 1974, [88 Stat. 1695][/us/stat/88/1695], struck out item 8577 “Command: flying units”.
 
-    1968—[Pub. L. 90–235, § 5(a)(5)][/us/pl/90/235/s5/a/5], Jan. 2, 1968, [81 Stat. 761][/us/stat/81/761], struck out items 8576 “Command: when different commands of Air Force and Marine Corps join”, and 8578 “Command, commissioned officers of Air Force in same grade on duty at same place”.
+    1968—[Pub. L. 90–235][/us/pl/90/235], § 5(a)(5), Jan. 2, 1968, [81 Stat. 761][/us/stat/81/761], struck out items 8576 “Command: when different commands of Air Force and Marine Corps join”, and 8578 “Command, commissioned officers of Air Force in same grade on duty at same place”.
 
-    1967—[Pub. L. 90–130, § 1(30)][/us/pl/90/130/s1/30], Nov. 8, 1967, [81 Stat. 382][/us/stat/81/382], struck out item 8580 “Command: female members of Air Force”.
+    1967—[Pub. L. 90–130][/us/pl/90/130], § 1(30), Nov. 8, 1967, [81 Stat. 382][/us/stat/81/382], struck out item 8580 “Command: female members of Air Force”.
 
 ----------
 
@@ -124,15 +124,15 @@
 ----------
 ----------
 
-[/us/pl/105/85/s507/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs507%2Fb%2F2
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1727
-[/us/pl/96/513/s504/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs504%2F15
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2917
 [/us/pl/93/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F525
 [/us/stat/88/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1695
-[/us/pl/90/235/s5/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs5%2Fa%2F5
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F761
-[/us/pl/90/130/s1/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs1%2F30
+[/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/stat/81/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F382
 
 

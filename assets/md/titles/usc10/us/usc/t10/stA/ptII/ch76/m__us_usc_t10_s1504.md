@@ -175,19 +175,19 @@
 
     Any determination of the status of a missing person under subsection (k) shall supersede the determination of the status of the person under [section 1503 of this title][/us/usc/t10/s1503] and shall be treated as the determination of the status of the person by all departments and agencies of the United States.
 
-(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)][/us/pl/104/106/s569/b/1], Feb. 10, 1996, [110 Stat. 341][/us/stat/110/341]; amended [Pub. L. 104–201, div. A, title V, § 578(a)(3)][/us/pl/104/201/s578/a/3], Sept. 23, 1996, [110 Stat. 2536][/us/stat/110/2536]; [Pub. L. 105–85, div. A, title V, § 599(a)(3)][/us/pl/105/85/s599/a/3], (d)(1), title X, § 1073(a)(30), Nov. 18, 1997, [111 Stat. 1767][/us/stat/111/1767], 1769, 1902.)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 569(b)(1), Feb. 10, 1996, [110 Stat. 341][/us/stat/110/341]; amended [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 578(a)(3), Sept. 23, 1996, [110 Stat. 2536][/us/stat/110/2536]; [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 599(a)(3), (d)(1), title X, § 1073(a)(30), Nov. 18, 1997, [111 Stat. 1767][/us/stat/111/1767], 1769, 1902.)
 
  __Amendments__ 
 
-    1997—Subsec. (d)(1). [Pub. L. 105–85, § 599(a)(3)(A)][/us/pl/105/85/s599/a/3/A], substituted “as follows:” and subpars. (A) to (C) for “who are officers having the grade of major or lieutenant commander or above.”
+    1997—Subsec. (d)(1). [Pub. L. 105–85][/us/pl/105/85], § 599(a)(3)(A), substituted “as follows:” and subpars. (A) to (C) for “who are officers having the grade of major or lieutenant commander or above.”
 
-    Subsec. (d)(4). [Pub. L. 105–85, § 599(a)(3)(B)][/us/pl/105/85/s599/a/3/B], substituted “section 1503(c)(4)” for “section 1503(c)(3)”.
+    Subsec. (d)(4). [Pub. L. 105–85][/us/pl/105/85], § 599(a)(3)(B), substituted “section 1503(c)(4)” for “section 1503(c)(3)”.
 
-    Subsec. (f)(1). [Pub. L. 105–85, § 599(d)(1)][/us/pl/105/85/s599/d/1], inserted at end “The identity of counsel appointed under this paragraph for a missing person shall be made known to the missing person’s primary next of kin and any other previously designated person of the person.”
+    Subsec. (f)(1). [Pub. L. 105–85][/us/pl/105/85], § 599(d)(1), inserted at end “The identity of counsel appointed under this paragraph for a missing person shall be made known to the missing person’s primary next of kin and any other previously designated person of the person.”
 
-    Subsec. (i)(1). [Pub. L. 105–85, § 1073(a)(30)][/us/pl/105/85/s1073/a/30], substituted “this section” for “this subsection”.
+    Subsec. (i)(1). [Pub. L. 105–85][/us/pl/105/85], § 1073(a)(30), substituted “this section” for “this subsection”.
 
-    1996—Subsec. (d)(1). [Pub. L. 104–201, § 578(a)(3)(A)][/us/pl/104/201/s578/a/3/A], added text of par. (1) and struck out former text of par. (1) which read as follows: “A board appointed under this section shall be composed of at least three members as follows:
+    1996—Subsec. (d)(1). [Pub. L. 104–201][/us/pl/104/201], § 578(a)(3)(A), added text of par. (1) and struck out former text of par. (1) which read as follows: “A board appointed under this section shall be composed of at least three members as follows:
 
     “(A) In the case of a board that will inquire into the whereabouts and status of one or more members of the armed forces (and no civilians described in subparagraph (B)), the board shall be composed of officers having the grade of major or lieutenant commander or above.
 
@@ -203,7 +203,7 @@
 
     “(ii) the ratio of such officers to such employees on the board shall be roughly proportional to the ratio of the number of members of the armed forces who are subjects of the board’s inquiry to the number of civilians who are subjects of the board’s inquiry.”
 
-    Subsec. (d)(4). [Pub. L. 104–201, § 578(a)(3)(B)][/us/pl/104/201/s578/a/3/B], substituted “section 1503(c)(3)” for “section 1503(c)(4)”.
+    Subsec. (d)(4). [Pub. L. 104–201][/us/pl/104/201], § 578(a)(3)(B), substituted “section 1503(c)(3)” for “section 1503(c)(4)”.
 
 ----------
 
@@ -225,18 +225,18 @@
 [/us/usc/t10/s1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1507
 [/us/usc/t10/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1505
 [/us/usc/t10/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1503
-[/us/pl/104/106/s569/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fb%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F341
-[/us/pl/104/201/s578/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs578%2Fa%2F3
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2536
-[/us/pl/105/85/s599/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs599%2Fa%2F3
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1767
-[/us/pl/105/85/s599/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs599%2Fa%2F3%2FA
-[/us/pl/105/85/s599/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs599%2Fa%2F3%2FB
-[/us/pl/105/85/s599/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs599%2Fd%2F1
-[/us/pl/105/85/s1073/a/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F30
-[/us/pl/104/201/s578/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs578%2Fa%2F3%2FA
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/104/201/s578/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs578%2Fa%2F3%2FB
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 
 

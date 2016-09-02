@@ -35,7 +35,7 @@
 
     (c) Except as otherwise specifically prescribed by law, the Headquarters, Marine Corps, shall be organized in such manner, and its members shall perform such duties and have such titles, as the Secretary may prescribe.
 
-(Added [Pub. L. 99–433, title V, § 513(b)][/us/pl/99/433/s513/b], Oct. 1, 1986, [100 Stat. 1052][/us/stat/100/1052]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 902(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–224; [Pub. L. 112–239, div. A, title V, § 531(c)][/us/pl/112/239/s531/c], Jan. 2, 2013, [126 Stat. 1726][/us/stat/126/1726].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 513(b), Oct. 1, 1986, [100 Stat. 1052][/us/stat/100/1052]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 902(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–224; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 531(c), Jan. 2, 2013, [126 Stat. 1726][/us/stat/126/1726].)
 
  __Amendments__ 
 
@@ -56,11 +56,11 @@
 ----------
 ----------
 
-[/us/pl/99/433/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs513%2Fb
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1052
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/112/239/s531/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs531%2Fc
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1726
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398

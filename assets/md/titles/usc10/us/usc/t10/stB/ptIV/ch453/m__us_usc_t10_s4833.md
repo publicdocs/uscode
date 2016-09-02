@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stB/ptIV/ch453/m__us_usc_t10_s4832.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIV/ch453/m__us_usc_t10_s4834.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4833)
 
-## \[§ 4833. Repealed. [Pub. L. 87–480, § 1(2)][/us/pl/87/480/s1/2], June 8, 1962, [76 Stat. 94][/us/stat/76/94]\]
+## \[§ 4833. Repealed. [Pub. L. 87–480][/us/pl/87/480], § 1(2), June 8, 1962, [76 Stat. 94][/us/stat/76/94]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 272][/us/stat/70A/272], related to accountability of Army officers for public money. See [section 2773 of this title][/us/usc/t10/s2773].
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/pl/87/480/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F480%2Fs1%2F2
+[/us/pl/87/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F480
 [/us/stat/76/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F94
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F272

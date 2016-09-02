@@ -47,7 +47,7 @@
 
     Funds received in a fiscal year under subsection (c) shall be credited to the appropriation available for such fiscal year for operation and maintenance for the office of the Navy managing inactive ships, shall be merged with other sums in the appropriation that are available for such office, and shall be available for the same purposes and period as the sums with which merged.
 
-(Added [Pub. L. 108–136, div. A, title X, § 1015(a)][/us/pl/108/136/s1015/a], Nov. 24, 2003, [117 Stat. 1591][/us/stat/117/1591].)
+(Added [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1015(a), Nov. 24, 2003, [117 Stat. 1591][/us/stat/117/1591].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/108/136/s1015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1015%2Fa
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1591
 
 

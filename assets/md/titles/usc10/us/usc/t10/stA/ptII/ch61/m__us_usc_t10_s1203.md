@@ -41,7 +41,7 @@
 
         However, if the member is eligible for transfer to the inactive status list under [section 1209 of this title][/us/usc/t10/s1209], and so elects, he shall be transferred to that list instead of being separated.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 92][/us/stat/70A/92]; [Pub. L. 85–861, § 1(28)(A)][/us/pl/85/861/s1/28/A], Sept. 2, 1958, [72 Stat. 1451][/us/stat/72/1451]; [Pub. L. 87–651, title I, § 107(a)][/us/pl/87/651/s107/a], Sept. 7, 1962, [76 Stat. 508][/us/stat/76/508]; [Pub. L. 95–377, § 3(2)][/us/pl/95/377/s3/2], (3), Sept. 19, 1978, [92 Stat. 719][/us/stat/92/719], 720; [Pub. L. 96–343, § 10(c)(2)][/us/pl/96/343/s10/c/2], (3), Sept. 8, 1980, [94 Stat. 1129][/us/stat/94/1129]; [Pub. L. 96–513, title I, § 117][/us/pl/96/513/s117], Dec. 12, 1980, [94 Stat. 2878][/us/stat/94/2878]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 103–337, div. A, title XVI, § 1671(c)(6)][/us/pl/103/337/s1671/c/6], Oct. 5, 1994, [108 Stat. 3014][/us/stat/108/3014]; [Pub. L. 104–201, div. A, title V, § 572(c)][/us/pl/104/201/s572/c], Sept. 23, 1996, [110 Stat. 2533][/us/stat/110/2533]; [Pub. L. 110–181, div. A, title XVI, § 1641(b)][/us/pl/110/181/s1641/b], Jan. 28, 2008, [122 Stat. 465][/us/stat/122/465]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 727(b), Oct. 14, 2008, [122 Stat. 4510][/us/stat/122/4510]; [Pub. L. 111–383, div. A, title X, § 1075(b)(19)][/us/pl/111/383/s1075/b/19], (e)(12), Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370], 4375.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 92][/us/stat/70A/92]; [Pub. L. 85–861][/us/pl/85/861], § 1(28)(A), Sept. 2, 1958, [72 Stat. 1451][/us/stat/72/1451]; [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 107(a), Sept. 7, 1962, [76 Stat. 508][/us/stat/76/508]; [Pub. L. 95–377][/us/pl/95/377], § 3(2), (3), Sept. 19, 1978, [92 Stat. 719][/us/stat/92/719], 720; [Pub. L. 96–343][/us/pl/96/343], § 10(c)(2), (3), Sept. 8, 1980, [94 Stat. 1129][/us/stat/94/1129]; [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 117, Dec. 12, 1980, [94 Stat. 2878][/us/stat/94/2878]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1671(c)(6), Oct. 5, 1994, [108 Stat. 3014][/us/stat/108/3014]; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 572(c), Sept. 23, 1996, [110 Stat. 2533][/us/stat/110/2533]; [Pub. L. 110–181, div. A, title XVI][/us/pl/110/181/dA/tXVI], § 1641(b), Jan. 28, 2008, [122 Stat. 465][/us/stat/122/465]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 727(b), Oct. 14, 2008, [122 Stat. 4510][/us/stat/122/4510]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(19), (e)(12), Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370], 4375.)
 
 <table>
 
@@ -161,13 +161,13 @@ Source (Statutes at Large)  </td>
 
  __Amendments__ 
 
-    2011—Subsec. (b)(4)(B). [Pub. L. 111–383, § 1075(e)(12)][/us/pl/111/383/s1075/e/12], made technical amendment to directory language of [Pub. L. 110–417, § 727(b)(2)][/us/pl/110/417/s727/b/2]. See 2008 Amendment note below.
+    2011—Subsec. (b)(4)(B). [Pub. L. 111–383][/us/pl/111/383], § 1075(e)(12), made technical amendment to directory language of [Pub. L. 110–417][/us/pl/110/417], § 727(b)(2). See 2008 Amendment note below.
 
-    [Pub. L. 111–383, § 1075(b)(19)][/us/pl/111/383/s1075/b/19], substituted “determination,” for “determination,,”.
+    [Pub. L. 111–383][/us/pl/111/383], § 1075(b)(19), substituted “determination,” for “determination,,”.
 
-    2008—Subsec. (b)(4)(B). [Pub. L. 110–417, § 727(b)(2)][/us/pl/110/417/s727/b/2], as amended by [Pub. L. 111–383, § 1075(e)(12)][/us/pl/111/383/s1075/e/12], substituted “(unless clear and unmistakable evidence demonstrates that the disability existed before the member’s entrance on active duty and was not aggravated by active military service)” for “(unless evidence or medical judgment is such to warrant a finding that the disability existed before the member’s entrance on active duty)”.
+    2008—Subsec. (b)(4)(B). [Pub. L. 110–417][/us/pl/110/417], § 727(b)(2), as amended by [Pub. L. 111–383][/us/pl/111/383], § 1075(e)(12), substituted “(unless clear and unmistakable evidence demonstrates that the disability existed before the member’s entrance on active duty and was not aggravated by active military service)” for “(unless evidence or medical judgment is such to warrant a finding that the disability existed before the member’s entrance on active duty)”.
 
-    [Pub. L. 110–417, § 727(b)(1)][/us/pl/110/417/s727/b/1], struck out “the member has six months or more of active military service, and” before “the disability was not noted”.
+    [Pub. L. 110–417][/us/pl/110/417], § 727(b)(1), struck out “the member has six months or more of active military service, and” before “the disability was not noted”.
 
     [Pub. L. 110–181][/us/pl/110/181] substituted “, the member has six months or more of active military service, and the disability was not noted at the time of the member’s entrance on active duty (unless evidence or medical judgment is such to warrant a finding that the disability existed before the member’s entrance on active duty)” for “and the member has at least eight years of service computed under [section 1208 of this title][/us/usc/t10/s1208]”.
 
@@ -179,15 +179,15 @@ Source (Statutes at Large)  </td>
 
     1980—Par. (4)(A)(iii). [Pub. L. 96–513][/us/pl/96/513] substituted “after September 14, 1978” for “during the period beginning on September 15, 1978, and ending on September 30, 1982, except that the condition provided for in this item shall not be effective during such period unless the President determines that such condition should be effective during such period and issues an Executive order to that effect”.
 
-    [Pub. L. 96–343, § 10(c)(2)][/us/pl/96/343/s10/c/2], added cl. (iii).
+    [Pub. L. 96–343][/us/pl/96/343], § 10(c)(2), added cl. (iii).
 
     Par. (4)(C). [Pub. L. 96–513][/us/pl/96/513] substituted “after September 14, 1978” for “during the period beginning on September 15, 1978, and ending on September 30, 1982, except that the condition provided for in this item shall not be effective during such period unless the President determines that such condition should be effective during such period and issues an Executive order to that effect” in cl. (iii).
 
-    [Pub. L. 96–343, § 10(c)(3)][/us/pl/96/343/s10/c/3], substituted “(i) the proximate result of performing active duty, (ii) incurred in line of duty in time of war or national emergency, nor (iii) incurred in line of duty during the period beginning on September 15, 1978, and ending on September 30, 1982, except that the condition provided for in this item shall not be effective during such period unless the President determines that such condition should be effective during such period and issues an Executive order to that effect” for “the proximate result of performing active duty nor incurred in line of duty in time of war or national emergency”.
+    [Pub. L. 96–343][/us/pl/96/343], § 10(c)(3), substituted “(i) the proximate result of performing active duty, (ii) incurred in line of duty in time of war or national emergency, nor (iii) incurred in line of duty during the period beginning on September 15, 1978, and ending on September 30, 1982, except that the condition provided for in this item shall not be effective during such period unless the President determines that such condition should be effective during such period and issues an Executive order to that effect” for “the proximate result of performing active duty nor incurred in line of duty in time of war or national emergency”.
 
-    1978—Par. (4)(A)(iii). [Pub. L. 95–377, § 3(2)][/us/pl/95/377/s3/2], added cl. (iii) which provided additional conditions, effective on Presidential determination, that the disability was incurred in the line of duty during Sept. 15, 1978, through Sept. 30, 1979, and which terminated on Sept. 30, 1979. See Effective and Termination Dates of 1978 Amendment note set out under this section.
+    1978—Par. (4)(A)(iii). [Pub. L. 95–377][/us/pl/95/377], § 3(2), added cl. (iii) which provided additional conditions, effective on Presidential determination, that the disability was incurred in the line of duty during Sept. 15, 1978, through Sept. 30, 1979, and which terminated on Sept. 30, 1979. See Effective and Termination Dates of 1978 Amendment note set out under this section.
 
-    Par. (4)(C). [Pub. L. 95–377, § 3(3)][/us/pl/95/377/s3/3], designated existing conditions of performing active duty and incurred in line of duty in time of war or national emergency as cls. (i) and (ii) and added cl. (iii) providing additional condition, effective on Presidential determination, that the disability was incurred in line of duty during Sept. 15, 1978, through Sept. 30, 1979, and terminated on Sept. 30, 1979. See Effective and Termination Dates of 1978 Amendment note set out under this section.
+    Par. (4)(C). [Pub. L. 95–377][/us/pl/95/377], § 3(3), designated existing conditions of performing active duty and incurred in line of duty in time of war or national emergency as cls. (i) and (ii) and added cl. (iii) providing additional condition, effective on Presidential determination, that the disability was incurred in line of duty during Sept. 15, 1978, through Sept. 30, 1979, and terminated on Sept. 30, 1979. See Effective and Termination Dates of 1978 Amendment note set out under this section.
 
     1962—[Pub. L. 87–651][/us/pl/87/651] substituted “training under [section 270(b) of this title][/us/usc/t10/s270/b])” for “training) under [section 270(b) of this title][/us/usc/t10/s270/b].”
 
@@ -195,7 +195,7 @@ Source (Statutes at Large)  </td>
 
  __Effective Date of 2011 Amendment__ 
 
-    [Pub. L. 111–383, div. A, title X, § 1075(e)(12)][/us/pl/111/383/s1075/e/12], Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375], provided that the amendment by section 1075(e)(12) is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.
+    [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(e)(12), Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375], provided that the amendment by section 1075(e)(12) is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -211,7 +211,7 @@ Source (Statutes at Large)  </td>
 
  __Effective and Termination Dates of 1978 Amendment__ 
 
-    [Pub. L. 95–377, § 3][/us/pl/95/377/s3], Sept. 19, 1978, [92 Stat. 719][/us/stat/92/719], provided that the amendment made by that section is effective only for the period beginning Sept. 15, 1978, and ending Sept. 30, 1979.
+    [Pub. L. 95–377][/us/pl/95/377], § 3, Sept. 19, 1978, [92 Stat. 719][/us/stat/92/719], provided that the amendment made by that section is effective only for the period beginning Sept. 15, 1978, and ending Sept. 30, 1979.
 
  __Suspension of Certain Promotion and Disability Separation Limitations__ 
 
@@ -234,37 +234,37 @@ Source (Statutes at Large)  </td>
 [/us/usc/t10/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1209
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F92
-[/us/pl/85/861/s1/28/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F28%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1451
-[/us/pl/87/651/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs107%2Fa
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F508
-[/us/pl/95/377/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F377%2Fs3%2F2
+[/us/pl/95/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F377
 [/us/stat/92/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F719
-[/us/pl/96/343/s10/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343%2Fs10%2Fc%2F2
+[/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
 [/us/stat/94/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1129
-[/us/pl/96/513/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs117
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2878
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1602
-[/us/pl/103/337/s1671/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1671%2Fc%2F6
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3014
-[/us/pl/104/201/s572/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs572%2Fc
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2533
-[/us/pl/110/181/s1641/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1641%2Fb
+[/us/pl/110/181/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVI
 [/us/stat/122/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F465
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4510
-[/us/pl/111/383/s1075/b/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F19
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4370
 [/us/usc/t10/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1201
 [/us/usc/t10/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1209
 [/us/act/1956-04-23/ch209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-23%2Fch209
-[/us/pl/111/383/s1075/e/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fe%2F12
-[/us/pl/110/417/s727/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs727%2Fb%2F2
-[/us/pl/111/383/s1075/b/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F19
-[/us/pl/110/417/s727/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs727%2Fb%2F2
-[/us/pl/111/383/s1075/e/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fe%2F12
-[/us/pl/110/417/s727/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs727%2Fb%2F1
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t10/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1208
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
@@ -273,17 +273,17 @@ Source (Statutes at Large)  </td>
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
-[/us/pl/96/343/s10/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343%2Fs10%2Fc%2F2
+[/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
-[/us/pl/96/343/s10/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343%2Fs10%2Fc%2F3
-[/us/pl/95/377/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F377%2Fs3%2F2
-[/us/pl/95/377/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F377%2Fs3%2F3
+[/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
+[/us/pl/95/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F377
+[/us/pl/95/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F377
 [/us/pl/87/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651
 [/us/usc/t10/s270/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs270%2Fb
 [/us/usc/t10/s270/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs270%2Fb
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/usc/t10/s270/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs270%2Fb
-[/us/pl/111/383/s1075/e/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fe%2F12
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4375
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
@@ -296,7 +296,7 @@ Source (Statutes at Large)  </td>
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/95/377/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F377%2Fs3
+[/us/pl/95/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F377
 [/us/stat/92/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F719
 [/us/usc/t10/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1201
 

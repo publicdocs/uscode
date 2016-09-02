@@ -99,13 +99,13 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, div. A, title X, § 1031(a)(2)][/us/pl/110/181/s1031/a/2], Jan. 28, 2008, [122 Stat. 306][/us/stat/122/306], added item 9626 and struck out former item 9626 “Aircraft supplies and services: foreign military or air attaché”.
+    2008—[Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1031(a)(2), Jan. 28, 2008, [122 Stat. 306][/us/stat/122/306], added item 9626 and struck out former item 9626 “Aircraft supplies and services: foreign military or air attaché”.
 
-    1998—[Pub. L. 105–261, div. A, title III, § 366(b)][/us/pl/105/261/s366/b], Oct. 17, 1998, [112 Stat. 1987][/us/stat/112/1987], struck out item 9623 “Tobacco: enlisted members of Air Force”.
+    1998—[Pub. L. 105–261, div. A, title III][/us/pl/105/261/dA/tIII], § 366(b), Oct. 17, 1998, [112 Stat. 1987][/us/stat/112/1987], struck out item 9623 “Tobacco: enlisted members of Air Force”.
 
-    1990—[Pub. L. 101–510, div. A, title XV, § 1533(a)(8)(C)][/us/pl/101/510/s1533/a/8/C], Nov. 5, 1990, [104 Stat. 1735][/us/stat/104/1735], amended item 9624 generally, substituting “Armed Forces Retirement Home” for “Soldiers’ and Airmen’s Home”.
+    1990—[Pub. L. 101–510, div. A, title XV][/us/pl/101/510/dA/tXV], § 1533(a)(8)(C), Nov. 5, 1990, [104 Stat. 1735][/us/stat/104/1735], amended item 9624 generally, substituting “Armed Forces Retirement Home” for “Soldiers’ and Airmen’s Home”.
 
-    1980—[Pub. L. 96–513, title V, § 514(17)(C)][/us/pl/96/513/s514/17/C], Dec. 12, 1980, [94 Stat. 2936][/us/stat/94/2936], substituted “Soldiers’ and Airmen’s Home” for “Soldiers’ Home” in item 9624.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], § 514(17)(C), Dec. 12, 1980, [94 Stat. 2936][/us/stat/94/2936], substituted “Soldiers’ and Airmen’s Home” for “Soldiers’ Home” in item 9624.
 
 ----------
 
@@ -114,13 +114,13 @@
 ----------
 ----------
 
-[/us/pl/110/181/s1031/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1031%2Fa%2F2
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F306
-[/us/pl/105/261/s366/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs366%2Fb
+[/us/pl/105/261/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIII
 [/us/stat/112/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1987
-[/us/pl/101/510/s1533/a/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1533%2Fa%2F8%2FC
+[/us/pl/101/510/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXV
 [/us/stat/104/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1735
-[/us/pl/96/513/s514/17/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs514%2F17%2FC
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2936
 
 

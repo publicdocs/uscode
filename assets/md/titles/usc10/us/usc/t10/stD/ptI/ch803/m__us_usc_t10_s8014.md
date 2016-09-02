@@ -85,11 +85,11 @@
 
         (4) The limitations in paragraphs (1), (2), and (3) do not apply in time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Air Force or on the Air Staff.
 
-(Added [Pub. L. 99–433, title V, § 521(a)(3)][/us/pl/99/433/s521/a/3], Oct. 1, 1986, [100 Stat. 1057][/us/stat/100/1057]; amended [Pub. L. 100–180, div. A, title XIII, § 1314(b)(7)][/us/pl/100/180/s1314/b/7], Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175]; [Pub. L. 100–456, div. A, title III, § 325(c)][/us/pl/100/456/s325/c], Sept. 29, 1988, [102 Stat. 1955][/us/stat/102/1955]; [Pub. L. 101–189, div. A, title VI, § 652(a)(4)][/us/pl/101/189/s652/a/4], Nov. 29, 1989, [103 Stat. 1461][/us/stat/103/1461]; [Pub. L. 107–107, div. A, title X, § 1048(a)(29)][/us/pl/107/107/s1048/a/29], Dec. 28, 2001, [115 Stat. 1225][/us/stat/115/1225]; [Pub. L. 107–314, div. A, title V, § 504(e)(2)][/us/pl/107/314/s504/e/2], Dec. 2, 2002, [116 Stat. 2533][/us/stat/116/2533].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 521(a)(3), Oct. 1, 1986, [100 Stat. 1057][/us/stat/100/1057]; amended [Pub. L. 100–180, div. A, title XIII][/us/pl/100/180/dA/tXIII], § 1314(b)(7), Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175]; [Pub. L. 100–456, div. A, title III][/us/pl/100/456/dA/tIII], § 325(c), Sept. 29, 1988, [102 Stat. 1955][/us/stat/102/1955]; [Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 652(a)(4), Nov. 29, 1989, [103 Stat. 1461][/us/stat/103/1461]; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(a)(29), Dec. 28, 2001, [115 Stat. 1225][/us/stat/115/1225]; [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 504(e)(2), Dec. 2, 2002, [116 Stat. 2533][/us/stat/116/2533].)
 
  __Prior Provisions__ 
 
-    A prior section 8014, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 489][/us/stat/70A/489], § 8013; Aug. 6, 1958, [Pub. L. 85–599, § 8(c)][/us/pl/85/599/s8/c], [72 Stat. 520][/us/stat/72/520]; Sept. 2, 1958, [Pub. L. 85–861, § 1(153)][/us/pl/85/861/s1/153], [72 Stat. 1513][/us/stat/72/1513]; Aug. 14, 1964, [Pub. L. 88–426, title III, § 305(8)][/us/pl/88/426/s305/8], [78 Stat. 423][/us/stat/78/423]; Dec. 1, 1967, [Pub. L. 90–168, § 2(15)][/us/pl/90/168/s2/15], [81 Stat. 523][/us/stat/81/523]; Nov. 9, 1979, [Pub. L. 96–107, title VIII, § 820(d)][/us/pl/96/107/s820/d], [93 Stat. 819][/us/stat/93/819]; renumbered § 8014, Oct. 1, 1986, [Pub. L. 99–433, title V, § 521(a)(1)][/us/pl/99/433/s521/a/1], [100 Stat. 1055][/us/stat/100/1055], related to Under Secretary and Assistant Secretaries of the Air Force, appointment, and duties, prior to repeal by [Pub. L. 99–433, § 521(a)(3)][/us/pl/99/433/s521/a/3].
+    A prior section 8014, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 489][/us/stat/70A/489], § 8013; Aug. 6, 1958, [Pub. L. 85–599][/us/pl/85/599], § 8(c), [72 Stat. 520][/us/stat/72/520]; Sept. 2, 1958, [Pub. L. 85–861][/us/pl/85/861], § 1(153), [72 Stat. 1513][/us/stat/72/1513]; Aug. 14, 1964, [Pub. L. 88–426, title III][/us/pl/88/426/tIII], § 305(8), [78 Stat. 423][/us/stat/78/423]; Dec. 1, 1967, [Pub. L. 90–168][/us/pl/90/168], § 2(15), [81 Stat. 523][/us/stat/81/523]; Nov. 9, 1979, [Pub. L. 96–107, title VIII][/us/pl/96/107/tVIII], § 820(d), [93 Stat. 819][/us/stat/93/819]; renumbered § 8014, Oct. 1, 1986, [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 521(a)(1), [100 Stat. 1055][/us/stat/100/1055], related to Under Secretary and Assistant Secretaries of the Air Force, appointment, and duties, prior to repeal by [Pub. L. 99–433][/us/pl/99/433], § 521(a)(3).
 
     Another prior section 8014 was renumbered [section 8015 of this title][/us/usc/t10/s8015] and subsequently repealed.
 
@@ -125,33 +125,33 @@
 ----------
 
 [/us/usc/t5/s3132/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa%2F8
-[/us/pl/99/433/s521/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs521%2Fa%2F3
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1057
-[/us/pl/100/180/s1314/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fb%2F7
+[/us/pl/100/180/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXIII
 [/us/stat/101/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1175
-[/us/pl/100/456/s325/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs325%2Fc
+[/us/pl/100/456/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtIII
 [/us/stat/102/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1955
-[/us/pl/101/189/s652/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs652%2Fa%2F4
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1461
-[/us/pl/107/107/s1048/a/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fa%2F29
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1225
-[/us/pl/107/314/s504/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs504%2Fe%2F2
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2533
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F489
-[/us/pl/85/599/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599%2Fs8%2Fc
+[/us/pl/85/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599
 [/us/stat/72/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F520
-[/us/pl/85/861/s1/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F153
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1513
-[/us/pl/88/426/s305/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs305%2F8
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F423
-[/us/pl/90/168/s2/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F168%2Fs2%2F15
+[/us/pl/90/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F168
 [/us/stat/81/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F523
-[/us/pl/96/107/s820/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs820%2Fd
+[/us/pl/96/107/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2FtVIII
 [/us/stat/93/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F819
-[/us/pl/99/433/s521/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs521%2Fa%2F1
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1055
-[/us/pl/99/433/s521/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs521%2Fa%2F3
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t10/s8015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8015
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107

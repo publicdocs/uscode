@@ -17,7 +17,7 @@
 
     To receive educational assistance benefits under this chapter, a person entitled to such assistance under section 2142 or 2147 of this title shall submit an application for such assistance to the Secretary concerned in such form and manner as the Secretary concerned may prescribe.
 
-(Added [Pub. L. 96–342, title IX, § 901(a)][/us/pl/96/342/s901/a], Sept. 8, 1980, [94 Stat. 1114][/us/stat/94/1114].)
+(Added [Pub. L. 96–342, title IX][/us/pl/96/342/tIX], § 901(a), Sept. 8, 1980, [94 Stat. 1114][/us/stat/94/1114].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/342/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs901%2Fa
+[/us/pl/96/342/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtIX
 [/us/stat/94/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1114
 
 

@@ -23,7 +23,7 @@
 
     In this section, the term “salvage services” includes services performed in connection with a marine salvage operation that are intended to prevent, abate, or minimize damage to the environment.
 
-(Added [Pub. L. 104–106, div. A, title X, § 1015][/us/pl/104/106/s1015], Feb. 10, 1996, [110 Stat. 425][/us/stat/110/425]; amended [Pub. L. 108–136, div. A, title III, § 315(b)][/us/pl/108/136/s315/b], Nov. 24, 2003, [117 Stat. 1431][/us/stat/117/1431].)
+(Added [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1015, Feb. 10, 1996, [110 Stat. 425][/us/stat/110/425]; amended [Pub. L. 108–136, div. A, title III][/us/pl/108/136/dA/tIII], § 315(b), Nov. 24, 2003, [117 Stat. 1431][/us/stat/117/1431].)
 
  __Prior Provisions__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/104/106/s1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1015
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F425
-[/us/pl/108/136/s315/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs315%2Fb
+[/us/pl/108/136/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIII
 [/us/stat/117/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1431
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F455

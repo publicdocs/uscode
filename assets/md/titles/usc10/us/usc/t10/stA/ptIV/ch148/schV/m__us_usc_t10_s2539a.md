@@ -17,11 +17,11 @@
 
     The President may appoint a nonpartisan Board on Mobilization of Industries Essential for Military Preparedness, and may provide necessary clerical assistance, to organize and coordinate operations under sections 2538 and 2539 of this title.
 
-(Added [Pub. L. 103–160, div. A, title VIII, § 822(a)(1)][/us/pl/103/160/s822/a/1], Nov. 30, 1993, [107 Stat. 1705][/us/stat/107/1705], § 2540; renumbered § 2539a, [Pub. L. 103–337, div. A, title X, § 1070(a)(13)(A)][/us/pl/103/337/s1070/a/13/A], Oct. 5, 1994, [108 Stat. 2856][/us/stat/108/2856].)
+(Added [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 822(a)(1), Nov. 30, 1993, [107 Stat. 1705][/us/stat/107/1705], § 2540; renumbered § 2539a, [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(a)(13)(A), Oct. 5, 1994, [108 Stat. 2856][/us/stat/108/2856].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 4502(d) and 9502(d) of this title, prior to repeal by [Pub. L. 103–160, § 822(a)(2)][/us/pl/103/160/s822/a/2].
+    Provisions similar to those in this section were contained in sections 4502(d) and 9502(d) of this title, prior to repeal by [Pub. L. 103–160][/us/pl/103/160], § 822(a)(2).
 
  __Amendments__ 
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/pl/103/160/s822/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs822%2Fa%2F1
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1705
-[/us/pl/103/337/s1070/a/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fa%2F13%2FA
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2856
-[/us/pl/103/160/s822/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs822%2Fa%2F2
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s2540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2540
 

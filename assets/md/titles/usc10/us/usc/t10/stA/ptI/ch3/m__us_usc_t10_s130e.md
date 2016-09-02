@@ -39,7 +39,7 @@
 
     Each determination of the Secretary, or the Secretary’s designee, under subsection (a) shall be made in writing and accompanied by a statement of the basis for the determination. All such determinations and statements of basis shall be available to the public, upon request, through the Office of the Director of Administration and Management.
 
-(Added [Pub. L. 112–81, div. A, title X, § 1091(a)][/us/pl/112/81/s1091/a], Dec. 31, 2011, [125 Stat. 1604][/us/stat/125/1604]; amended [Pub. L. 114–92, div. A, title X, § 1081(a)(2)][/us/pl/114/92/s1081/a/2], Nov. 25, 2015, [129 Stat. 1000][/us/stat/129/1000].)
+(Added [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1091(a), Dec. 31, 2011, [125 Stat. 1604][/us/stat/125/1604]; amended [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1081(a)(2), Nov. 25, 2015, [129 Stat. 1000][/us/stat/129/1000].)
 
  __Amendments__ 
 
@@ -53,9 +53,9 @@
 ----------
 
 [/us/usc/t5/s552/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F3
-[/us/pl/112/81/s1091/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1091%2Fa
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1604
-[/us/pl/114/92/s1081/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F2
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1000
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 

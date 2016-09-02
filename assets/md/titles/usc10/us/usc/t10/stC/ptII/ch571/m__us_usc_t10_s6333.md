@@ -123,7 +123,7 @@
 
     (c) In the case of a Reserve enlisted member whose grade upon transfer to the Fleet Reserve or Fleet Marine Corps Reserve is determined under [section 6336 of this title][/us/usc/t10/s6336] and who first became a member of a uniformed service before September 8, 1980, the retainer pay base of the member (notwithstanding [section 1406(a)(1) of this title][/us/usc/t10/s1406/a/1]) is the amount of the monthly basic pay of the grade in which the member is so transferred (determined based upon the rates of basic pay applicable on the date of the member’s transfer), and that amount shall be used for the purposes of the table in subsection (a) rather than the amount computed under [section 1406(d) of this title][/us/usc/t10/s1406/d].
 
-(Added [Pub. L. 98–94, title IX, § 922(a)(10)(A)][/us/pl/98/94/s922/a/10/A], Sept. 24, 1983, [97 Stat. 641][/us/stat/97/641]; amended [Pub. L. 99–348, title II, § 203(a)][/us/pl/99/348/s203/a], July 1, 1986, [100 Stat. 695][/us/stat/100/695]; [Pub. L. 103–337, div. A, title VI, § 635(b)][/us/pl/103/337/s635/b], Oct. 5, 1994, [108 Stat. 2789][/us/stat/108/2789]; [Pub. L. 104–106, div. A, title XV, § 1503(b)(3)][/us/pl/104/106/s1503/b/3], Feb. 10, 1996, [110 Stat. 512][/us/stat/110/512]; [Pub. L. 104–201, div. A, title V, § 532(d)(2)][/us/pl/104/201/s532/d/2], Sept. 23, 1996, [110 Stat. 2520][/us/stat/110/2520]; [Pub. L. 109–163, div. A, title V, § 509(d)(2)][/us/pl/109/163/s509/d/2], Jan. 6, 2006, [119 Stat. 3231][/us/stat/119/3231]; [Pub. L. 110–181, div. A, title VI, § 646(a)][/us/pl/110/181/s646/a], Jan. 28, 2008, [122 Stat. 160][/us/stat/122/160].)
+(Added [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], § 922(a)(10)(A), Sept. 24, 1983, [97 Stat. 641][/us/stat/97/641]; amended [Pub. L. 99–348, title II][/us/pl/99/348/tII], § 203(a), July 1, 1986, [100 Stat. 695][/us/stat/100/695]; [Pub. L. 103–337, div. A, title VI][/us/pl/103/337/dA/tVI], § 635(b), Oct. 5, 1994, [108 Stat. 2789][/us/stat/108/2789]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1503(b)(3), Feb. 10, 1996, [110 Stat. 512][/us/stat/110/512]; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 532(d)(2), Sept. 23, 1996, [110 Stat. 2520][/us/stat/110/2520]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 509(d)(2), Jan. 6, 2006, [119 Stat. 3231][/us/stat/119/3231]; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 646(a), Jan. 28, 2008, [122 Stat. 160][/us/stat/122/160].)
 
  __Amendments__ 
 
@@ -161,19 +161,19 @@
 [/us/usc/t10/s6336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6336
 [/us/usc/t10/s1406/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1406%2Fa%2F1
 [/us/usc/t10/s1406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1406%2Fd
-[/us/pl/98/94/s922/a/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs922%2Fa%2F10%2FA
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F641
-[/us/pl/99/348/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs203%2Fa
+[/us/pl/99/348/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtII
 [/us/stat/100/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F695
-[/us/pl/103/337/s635/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs635%2Fb
+[/us/pl/103/337/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVI
 [/us/stat/108/2789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2789
-[/us/pl/104/106/s1503/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1503%2Fb%2F3
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F512
-[/us/pl/104/201/s532/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs532%2Fd%2F2
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2520
-[/us/pl/109/163/s509/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs509%2Fd%2F2
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3231
-[/us/pl/110/181/s646/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs646%2Fa
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F160
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163

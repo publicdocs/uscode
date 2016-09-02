@@ -123,9 +123,9 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–364, div. A, title V, § 547(d)(2)][/us/pl/109/364/s547/d/2], Oct. 17, 2006, [120 Stat. 2216][/us/stat/120/2216], substituted “Nondisclosure” for “Confidentiality” in item 14104.
+    2006—[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 547(d)(2), Oct. 17, 2006, [120 Stat. 2216][/us/stat/120/2216], substituted “Nondisclosure” for “Confidentiality” in item 14104.
 
-    1996—[Pub. L. 104–106, div. A, title XV, § 1501(b)(23)][/us/pl/104/106/s1501/b/23], Feb. 10, 1996, [110 Stat. 497][/us/stat/110/497], substituted “promotion” for “selection” in item 14105.
+    1996—[Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(23), Feb. 10, 1996, [110 Stat. 497][/us/stat/110/497], substituted “promotion” for “selection” in item 14105.
 
 ----------
 
@@ -134,9 +134,9 @@
 ----------
 ----------
 
-[/us/pl/109/364/s547/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs547%2Fd%2F2
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2216
-[/us/pl/104/106/s1501/b/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F23
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F497
 
 

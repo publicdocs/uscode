@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptI/ch307/m__us_usc_t10_s3075.md) | [Next](./../../../../../..//us/usc/t10/stB/ptI/ch307/m__us_usc_t10_s3082.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3081)
+[Previous](./../../../../../..//us/usc/t10/stB/ptI/ch307/m__us_usc_t10_s3076...3080.md) | [Next](./../../../../../..//us/usc/t10/stB/ptI/ch307/m__us_usc_t10_s3082.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3081)
 
 ## § 3081. Dental Corps: Chief, functions
 
@@ -31,7 +31,7 @@
 
     (d) Under such regulations as the Secretary of the Army may prescribe, dental and dental auxiliary personnel throughout the Army shall be organized into units commanded by a designated Dental Corps Officer. Such officer will be directly responsible to the commander of installations, organizations, and activities for all professional and technical matters and such administrative matters as may be prescribed by regulation.
 
-(Added [Pub. L. 95–485, title VIII, § 805(b)(1)][/us/pl/95/485/s805/b/1], Oct. 20, 1978, [92 Stat. 1621][/us/stat/92/1621]; amended [Pub. L. 99–433, title V, § 502(f)(3)][/us/pl/99/433/s502/f/3], Oct. 1, 1986, [100 Stat. 1042][/us/stat/100/1042].)
+(Added [Pub. L. 95–485, title VIII][/us/pl/95/485/tVIII], § 805(b)(1), Oct. 20, 1978, [92 Stat. 1621][/us/stat/92/1621]; amended [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 502(f)(3), Oct. 1, 1986, [100 Stat. 1042][/us/stat/100/1042].)
 
  __Amendments__ 
 
@@ -39,15 +39,15 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptI/ch307/m__us_usc_t10_s3075.md) | [Next](./../../../../../..//us/usc/t10/stB/ptI/ch307/m__us_usc_t10_s3082.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3081)
+[Previous](./../../../../../..//us/usc/t10/stB/ptI/ch307/m__us_usc_t10_s3076...3080.md) | [Next](./../../../../../..//us/usc/t10/stB/ptI/ch307/m__us_usc_t10_s3082.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3081)
 
 ----------
 ----------
 
 [/us/usc/t10/s3039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3039
-[/us/pl/95/485/s805/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs805%2Fb%2F1
+[/us/pl/95/485/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2FtVIII
 [/us/stat/92/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1621
-[/us/pl/99/433/s502/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs502%2Ff%2F3
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1042
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 

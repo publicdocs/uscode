@@ -47,7 +47,7 @@
 
         (3) The amount for that fiscal year (including any negative amount) of any cumulative actuarial gain or loss to the Fund.
 
-(Added [Pub. L. 104–106, div. A, title V, § 512(a)(1)][/us/pl/104/106/s512/a/1], Feb. 10, 1996, [110 Stat. 302][/us/stat/110/302].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 512(a)(1), Feb. 10, 1996, [110 Stat. 302][/us/stat/110/302].)
 
 ----------
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t10/s12527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12527
-[/us/pl/104/106/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs512%2Fa%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F302
 
 

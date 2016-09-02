@@ -35,13 +35,13 @@
 
     A member ordered to active duty under section 688 or 688a of this title who, while on active duty, is promoted to a grade that is higher than that member’s retired grade is entitled, upon that member’s release from that tour of active duty, to placement on the retired list in the highest grade in which the member served on active duty satisfactorily, as determined by the Secretary of the military department concerned, for not less than six months.
 
-(Added [Pub. L. 104–201, div. A, title V, § 521(a)][/us/pl/104/201/s521/a], Sept. 23, 1996, [110 Stat. 2516][/us/stat/110/2516]; amended [Pub. L. 107–314, div. A, title V, § 503(b)(1)][/us/pl/107/314/s503/b/1], Dec. 2, 2002, [116 Stat. 2531][/us/stat/116/2531].)
+(Added [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 521(a), Sept. 23, 1996, [110 Stat. 2516][/us/stat/110/2516]; amended [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 503(b)(1), Dec. 2, 2002, [116 Stat. 2531][/us/stat/116/2531].)
 
  __Prior Provisions__ 
 
     A prior section 689 was renumbered [section 12320 of this title][/us/usc/t10/s12320].
 
-    Provisions similar to those in this section were contained in section 688(b) and (d) of this title prior to repeal by [Pub. L. 104–201, § 521(a)][/us/pl/104/201/s521/a].
+    Provisions similar to those in this section were contained in section 688(b) and (d) of this title prior to repeal by [Pub. L. 104–201][/us/pl/104/201], § 521(a).
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
  __Applicability__ 
 
-[Pub. L. 107–314, div. A, title V, § 503(b)(2)][/us/pl/107/314/s503/b/2], Dec. 2, 2002, [116 Stat. 2531][/us/stat/116/2531], provided that: 
+[Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 503(b)(2), Dec. 2, 2002, [116 Stat. 2531][/us/stat/116/2531], provided that: 
 
 > “The provisions of [section 689(d) of title 10][/us/usc/t10/s689/d], United States Code, shall apply with respect to an officer ordered to active duty under section 501 of the National Defense Authorization Act for Fiscal Year 2000 ([Public Law 106–65][/us/pl/106/65]; [113 Stat. 589][/us/stat/113/589]) before the date of the enactment of this Act \[Dec. 2, 2002\] in the same manner as such provisions apply to an officer ordered to active duty under section 688 of such title.”
 
@@ -65,16 +65,16 @@
 ----------
 
 [/us/usc/t10/s690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs690
-[/us/pl/104/201/s521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs521%2Fa
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2516
-[/us/pl/107/314/s503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs503%2Fb%2F1
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2531
 [/us/usc/t10/s12320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12320
-[/us/pl/104/201/s521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs521%2Fa
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/104/201/s521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs521%2Fb
 [/us/usc/t10/s688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs688
-[/us/pl/107/314/s503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs503%2Fb%2F2
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2531
 [/us/usc/t10/s689/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs689%2Fd
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65

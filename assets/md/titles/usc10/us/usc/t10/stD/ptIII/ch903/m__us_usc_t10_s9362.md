@@ -91,7 +91,7 @@
 
     Any funds received under this section may be retained for use in support of the athletic programs of the Academy and shall remain available until expended.
 
-(Added [Pub. L. 111–84, div. A, title V, § 528(a)][/us/pl/111/84/s528/a], Oct. 28, 2009, [123 Stat. 2289][/us/stat/123/2289]; amended [Pub. L. 113–291, div. A, title V, § 554][/us/pl/113/291/s554], Dec. 19, 2014, [128 Stat. 3377][/us/stat/128/3377].)
+(Added [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 528(a), Oct. 28, 2009, [123 Stat. 2289][/us/stat/123/2289]; amended [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 554, Dec. 19, 2014, [128 Stat. 3377][/us/stat/128/3377].)
 
  __References in Text__ 
 
@@ -114,9 +114,9 @@
 [/us/usc/t10/s2304/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Fk
 [/us/usc/t10/s2304/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Fc%2F5
 [/us/usc/t10/s2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2260
-[/us/pl/111/84/s528/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs528%2Fa
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2289
-[/us/pl/113/291/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs554
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3377
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291

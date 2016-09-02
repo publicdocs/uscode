@@ -51,7 +51,7 @@
 
     Not later than March 1 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the plans required under subsection (a) for the five-fiscal year period beginning with the fiscal year in which the report is submitted. Each report shall include the plans covered by the report and an assessment of the discharge by the Department of Defense of the previous plans submitted under this section.
 
-(Added [Pub. L. 110–181, div. A, title V, § 581(a)][/us/pl/110/181/s581/a], Jan. 28, 2008, [122 Stat. 121][/us/stat/122/121]; amended [Pub. L. 111–383, div. A, title X, § 1075(b)(23)][/us/pl/111/383/s1075/b/23], Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370].)
+(Added [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 581(a), Jan. 28, 2008, [122 Stat. 121][/us/stat/122/121]; amended [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(23), Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370].)
 
  __Amendments__ 
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/110/181/s581/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs581%2Fa
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F121
-[/us/pl/111/383/s1075/b/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F23
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4370
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 

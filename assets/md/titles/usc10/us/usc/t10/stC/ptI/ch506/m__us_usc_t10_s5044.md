@@ -29,7 +29,7 @@
 
         (2) if there is a vacancy in the office of the Assistant Commandant of the Marine Corps or the Assistant Commandant is absent or disabled, unless the President directs otherwise, the most senior officer of the Marine Corps in the Headquarters, Marine Corps, who is not absent or disabled and who is not restricted in performance of duty shall perform the duties of the Commandant until a successor to the Commandant or the Assistant Commandant is appointed or until the absence or disability of the Commandant or Assistant Commandant ceases, whichever occurs first.
 
-(Added [Pub. L. 99–433, title V, § 513(b)][/us/pl/99/433/s513/b], Oct. 1, 1986, [100 Stat. 1054][/us/stat/100/1054].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 513(b), Oct. 1, 1986, [100 Stat. 1054][/us/stat/100/1054].)
 
  __Prior Provisions__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/99/433/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs513%2Fb
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1054
 [/us/usc/t10/s5202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5202
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433

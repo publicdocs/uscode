@@ -23,7 +23,7 @@
 
     The oath may be taken before the President, the Vice-President, the Secretary of Defense, any commissioned officer, or any other person designated under regulations prescribed by the Secretary of Defense.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 17][/us/stat/70A/17], § 501; [Pub. L. 87–751, § 1][/us/pl/87/751/s1], Oct. 5, 1962, [76 Stat. 748][/us/stat/76/748]; renumbered § 502, [Pub. L. 90–235, § 2(a)(1)(A)][/us/pl/90/235/s2/a/1/A], Jan. 2, 1968, [81 Stat. 753][/us/stat/81/753]; [Pub. L. 101–189, div. A, title VI, § 653(a)(1)][/us/pl/101/189/s653/a/1], Nov. 29, 1989, [103 Stat. 1462][/us/stat/103/1462]; [Pub. L. 109–364, div. A, title V, § 595(a)][/us/pl/109/364/s595/a], Oct. 17, 2006, [120 Stat. 2235][/us/stat/120/2235].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 17][/us/stat/70A/17], § 501; [Pub. L. 87–751][/us/pl/87/751], § 1, Oct. 5, 1962, [76 Stat. 748][/us/stat/76/748]; renumbered § 502, [Pub. L. 90–235][/us/pl/90/235], § 2(a)(1)(A), Jan. 2, 1968, [81 Stat. 753][/us/stat/81/753]; [Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 653(a)(1), Nov. 29, 1989, [103 Stat. 1462][/us/stat/103/1462]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 595(a), Oct. 17, 2006, [120 Stat. 2235][/us/stat/120/2235].)
 
 <table>
 
@@ -85,7 +85,7 @@ May 5, 1950, ch. 169, § 8, 64 Stat. 146.  </td>
 
  __Effective Date of 1962 Amendment__ 
 
-[Pub. L. 87–751, § 3][/us/pl/87/751/s3], Oct. 5, 1962, [76 Stat. 748][/us/stat/76/748], provided that: 
+[Pub. L. 87–751][/us/pl/87/751], § 3, Oct. 5, 1962, [76 Stat. 748][/us/stat/76/748], provided that: 
 
 > “This Act \[amending this section and [section 304 of Title 32][/us/usc/t32/s304], National Guard\] does not affect any oath taken before one year after its enactment \[Oct. 5, 1962\].”
 
@@ -98,19 +98,19 @@ May 5, 1950, ch. 169, § 8, 64 Stat. 146.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F17
-[/us/pl/87/751/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F751%2Fs1
+[/us/pl/87/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F751
 [/us/stat/76/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F748
-[/us/pl/90/235/s2/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs2%2Fa%2F1%2FA
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F753
-[/us/pl/101/189/s653/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs653%2Fa%2F1
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1462
-[/us/pl/109/364/s595/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs595%2Fa
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2235
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/87/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F751
-[/us/pl/87/751/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F751%2Fs3
+[/us/pl/87/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F751
 [/us/stat/76/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F748
 [/us/usc/t32/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs304
 

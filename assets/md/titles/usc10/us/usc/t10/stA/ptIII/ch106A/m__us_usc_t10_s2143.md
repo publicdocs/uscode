@@ -25,7 +25,7 @@
 
     (c) In this section, the term “accredited institution” means a civilian college or university or a trade, technical, or vocational school in the United States (including the District of Columbia, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands) that provides education at the postsecondary level and that is accredited by a nationally recognized accrediting agency or association or by an accrediting agency or association recognized by the Secretary of Education.
 
-(Added [Pub. L. 96–342, title IX, § 901(a)][/us/pl/96/342/s901/a], Sept. 8, 1980, [94 Stat. 1112][/us/stat/94/1112]; amended [Pub. L. 100–180, div. A, title XII, § 1231(18)(A)][/us/pl/100/180/s1231/18/A], Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161].)
+(Added [Pub. L. 96–342, title IX][/us/pl/96/342/tIX], § 901(a), Sept. 8, 1980, [94 Stat. 1112][/us/stat/94/1112]; amended [Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1231(18)(A), Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 [/us/usc/t10/s2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2142
 [/us/usc/t10/s2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2145
 [/us/usc/t10/s2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2145
-[/us/pl/96/342/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs901%2Fa
+[/us/pl/96/342/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtIX
 [/us/stat/94/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1112
-[/us/pl/100/180/s1231/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1231%2F18%2FA
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1161
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 

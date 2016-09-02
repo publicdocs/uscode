@@ -23,7 +23,7 @@
 
     (3) while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 215][/us/stat/70A/215]; [Pub. L. 88–77, § 1(1)][/us/pl/88/77/s1/1], July 25, 1963, [77 Stat. 93][/us/stat/77/93].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 215][/us/stat/70A/215]; [Pub. L. 88–77][/us/pl/88/77], § 1(1), July 25, 1963, [77 Stat. 93][/us/stat/77/93].)
 
 <table>
 
@@ -77,7 +77,7 @@ The words “That the provisions of existing law relating to the award of medals
 
  __Review Regarding Award of Medal of Honor to Jewish American World War I Veterans__ 
 
-[Pub. L. 112–81, div. A, title V, § 595][/us/pl/112/81/s595], Dec. 31, 2011, [125 Stat. 1444][/us/stat/125/1444], provided that:
+[Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 595, Dec. 31, 2011, [125 Stat. 1444][/us/stat/125/1444], provided that:
 
 >     “(a)  __Review Required__  __.—__ 
 
@@ -97,7 +97,7 @@ The words “That the provisions of existing law relating to the award of medals
 
  __Review Regarding Award of Medal of Honor to Certain Jewish American and Hispanic American War Veterans__ 
 
-[Pub. L. 107–107, div. A, title V, § 552][/us/pl/107/107/s552], Dec. 28, 2001, [115 Stat. 1115][/us/stat/115/1115], as amended by [Pub. L. 113–66, div. A, title V, § 566][/us/pl/113/66/s566], Dec. 26, 2013, [127 Stat. 769][/us/stat/127/769], provided that:
+[Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 552, Dec. 28, 2001, [115 Stat. 1115][/us/stat/115/1115], as amended by [Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 566, Dec. 26, 2013, [127 Stat. 769][/us/stat/127/769], provided that:
 
 >     “(a)  __Review Required__  __.—__ 
 
@@ -145,7 +145,7 @@ The words “That the provisions of existing law relating to the award of medals
 
  __Review Regarding Upgrading of Distinguished-Service Crosses and Navy Crosses Awarded to Asian-Americans and Native American Pacific Islanders for World War II Service__ 
 
-[Pub. L. 104–106, div. A, title V, § 524][/us/pl/104/106/s524], Feb. 10, 1996, [110 Stat. 312][/us/stat/110/312], provided that:
+[Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 524, Feb. 10, 1996, [110 Stat. 312][/us/stat/110/312], provided that:
 
 >     “(a)  __Review Required__  __.—__ 
 
@@ -180,18 +180,18 @@ The words “That the provisions of existing law relating to the award of medals
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F215
-[/us/pl/88/77/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F77%2Fs1%2F1
+[/us/pl/88/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F77
 [/us/stat/77/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F93
 [/us/act/1918-07-09/ch143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-09%2Fch143
 [/us/stat/40/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F870
 [/us/pl/88/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F77
-[/us/pl/112/81/s595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs595
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1444
-[/us/pl/107/107/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs552
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1115
-[/us/pl/113/66/s566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs566
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F769
-[/us/pl/104/106/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs524
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F312
 [/us/usc/t42/s2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2991
 

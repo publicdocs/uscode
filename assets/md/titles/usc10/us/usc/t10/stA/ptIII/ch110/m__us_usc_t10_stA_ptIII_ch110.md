@@ -67,9 +67,9 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–510, div. A, title XIV, § 1484(i)(5)][/us/pl/101/510/s1484/i/5], Nov. 5, 1990, [104 Stat. 1718][/us/stat/104/1718], inserted “administered by” after “programs” in item 2185.
+    1990—[Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1484(i)(5), Nov. 5, 1990, [104 Stat. 1718][/us/stat/104/1718], inserted “administered by” after “programs” in item 2185.
 
-    1989—[Pub. L. 101–189, div. A, title XVI, § 1621(a)(7)(B)][/us/pl/101/189/s1621/a/7/B], Nov. 29, 1989, [103 Stat. 1603][/us/stat/103/1603], substituted “programs the Department of Veterans Affairs” for “programs administered by the Veterans’ Administration” in item 2185.
+    1989—[Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(7)(B), Nov. 29, 1989, [103 Stat. 1603][/us/stat/103/1603], substituted “programs the Department of Veterans Affairs” for “programs administered by the Veterans’ Administration” in item 2185.
 
 ----------
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/101/510/s1484/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484%2Fi%2F5
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1718
-[/us/pl/101/189/s1621/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F7%2FB
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1603
 
 

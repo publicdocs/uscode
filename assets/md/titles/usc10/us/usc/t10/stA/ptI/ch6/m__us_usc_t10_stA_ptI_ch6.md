@@ -119,17 +119,17 @@
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–136, div. A, title VIII, § 848(a)(2)][/us/pl/108/136/s848/a/2], Nov. 24, 2003, [117 Stat. 1555][/us/stat/117/1555], added item 167a.
+    2003—[Pub. L. 108–136, div. A, title VIII][/us/pl/108/136/dA/tVIII], § 848(a)(2), Nov. 24, 2003, [117 Stat. 1555][/us/stat/117/1555], added item 167a.
 
-    2001—[Pub. L. 107–107, div. A, title XV, § 1512(b)][/us/pl/107/107/s1512/b], Dec. 28, 2001, [115 Stat. 1273][/us/stat/115/1273], added item 166b.
+    2001—[Pub. L. 107–107, div. A, title XV][/us/pl/107/107/dA/tXV], § 1512(b), Dec. 28, 2001, [115 Stat. 1273][/us/stat/115/1273], added item 166b.
 
-    1994—[Pub. L. 103–337, div. A, title XIII, § 1316(a)(2)][/us/pl/103/337/s1316/a/2], Oct. 5, 1994, [108 Stat. 2899][/us/stat/108/2899], added item 168.
+    1994—[Pub. L. 103–337, div. A, title XIII][/us/pl/103/337/dA/tXIII], § 1316(a)(2), Oct. 5, 1994, [108 Stat. 2899][/us/stat/108/2899], added item 168.
 
-    1991—[Pub. L. 102–190, div. A, title IX, § 902(b)][/us/pl/102/190/s902/b], Dec. 5, 1991, [105 Stat. 1451][/us/stat/105/1451], added item 166a.
+    1991—[Pub. L. 102–190, div. A, title IX][/us/pl/102/190/dA/tIX], § 902(b), Dec. 5, 1991, [105 Stat. 1451][/us/stat/105/1451], added item 166a.
 
-    1986—[Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title IX, § 9115(b)(2)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–124, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title IX, § 9115(b)(2)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–124; [Pub. L. 99–661, div. A, title XIII, § 1311(b)(2)][/us/pl/99/661/s1311/b/2], Nov. 14, 1986, [100 Stat. 3985][/us/stat/100/3985], amended analysis identically adding item 167.
+    1986—[Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title IX, § 9115(b)(2)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–124, and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title IX, § 9115(b)(2)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–124; [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1311(b)(2), Nov. 14, 1986, [100 Stat. 3985][/us/stat/100/3985], amended analysis identically adding item 167.
 
-    [Pub. L. 99–433, title II, § 211(a)][/us/pl/99/433/s211/a], Oct. 1, 1986, [100 Stat. 1012][/us/stat/100/1012], added chapter 6 heading and analysis.
+    [Pub. L. 99–433, title II][/us/pl/99/433/tII], § 211(a), Oct. 1, 1986, [100 Stat. 1012][/us/stat/100/1012], added chapter 6 heading and analysis.
 
 ----------
 
@@ -140,21 +140,21 @@
 
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t10/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs124
-[/us/pl/108/136/s848/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs848%2Fa%2F2
+[/us/pl/108/136/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVIII
 [/us/stat/117/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1555
-[/us/pl/107/107/s1512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1512%2Fb
+[/us/pl/107/107/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXV
 [/us/stat/115/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1273
-[/us/pl/103/337/s1316/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1316%2Fa%2F2
+[/us/pl/103/337/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXIII
 [/us/stat/108/2899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2899
-[/us/pl/102/190/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs902%2Fb
+[/us/pl/102/190/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtIX
 [/us/stat/105/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1451
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661/s1311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1311%2Fb%2F2
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3985
-[/us/pl/99/433/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs211%2Fa
+[/us/pl/99/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtII
 [/us/stat/100/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1012
 
 

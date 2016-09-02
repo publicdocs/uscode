@@ -99,7 +99,7 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–375, div. A, title V, § 532(a)(1)][/us/pl/108/375/s532/a/1], Oct. 28, 2004, [118 Stat. 1896][/us/stat/118/1896], renumbered chapter 107 of this title as this chapter.
+    2004—[Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 532(a)(1), Oct. 28, 2004, [118 Stat. 1896][/us/stat/118/1896], renumbered chapter 107 of this title as this chapter.
 
 ----------
 
@@ -108,7 +108,7 @@
 ----------
 ----------
 
-[/us/pl/108/375/s532/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs532%2Fa%2F1
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1896
 
 

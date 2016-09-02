@@ -187,23 +187,23 @@
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXIV, § 3402(b)(3)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–484, struck out item 7426 “Cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1”.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXIV, § 3402(b)(3)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–484, struck out item 7426 “Cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1”.
 
-    1997—[Pub. L. 105–85, div. C, title XXXIV, § 3404(b)][/us/pl/105/85/s3404/b], Nov. 18, 1997, [111 Stat. 2061][/us/stat/111/2061], added item 7439.
+    1997—[Pub. L. 105–85, div. C, title XXXIV][/us/pl/105/85/dC/tXXXIV], § 3404(b), Nov. 18, 1997, [111 Stat. 2061][/us/stat/111/2061], added item 7439.
 
-    1996—[Pub. L. 104–201, div. A, title X, § 1074(a)(19)][/us/pl/104/201/s1074/a/19], Sept. 23, 1996, [110 Stat. 2660][/us/stat/110/2660], struck out item 7434 “Annual report to congressional committees”.
+    1996—[Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1074(a)(19), Sept. 23, 1996, [110 Stat. 2660][/us/stat/110/2660], struck out item 7434 “Annual report to congressional committees”.
 
-    [Pub. L. 104–106, div. A, title XV][/us/pl/104/106], §§ 1502(a)(28)(B), 1503(b)(4), Feb. 10, 1996, [110 Stat. 506][/us/stat/110/506], 513, substituted “Agreements” for “Agreement” in item 7428 and “congressional committees” for “Armed Services Committees” in item 7434.
+    [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], §§ 1502(a)(28)(B), 1503(b)(4), Feb. 10, 1996, [110 Stat. 506][/us/stat/110/506], 513, substituted “Agreements” for “Agreement” in item 7428 and “congressional committees” for “Armed Services Committees” in item 7434.
 
-    1990—[Pub. L. 101–510, div. A, title XIII, § 1331(9)][/us/pl/101/510/s1331/9], Nov. 5, 1990, [104 Stat. 1673][/us/stat/104/1673], amended item 7434 generally, substituting “Annual report” for “Quarterly reports”.
+    1990—[Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1331(9), Nov. 5, 1990, [104 Stat. 1673][/us/stat/104/1673], amended item 7434 generally, substituting “Annual report” for “Quarterly reports”.
 
-    1980—[Pub. L. 96–513, title V, § 513(32)(C)][/us/pl/96/513/s513/32/C], Dec. 12, 1980, [94 Stat. 2933][/us/stat/94/2933], substituted “Naval Petroleum Reserve Numbered” for “naval petroleum reserve numbered” in item 7426.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(32)(C), Dec. 12, 1980, [94 Stat. 2933][/us/stat/94/2933], substituted “Naval Petroleum Reserve Numbered” for “naval petroleum reserve numbered” in item 7426.
 
-    1979—[Pub. L. 96–137, § 3(b)(2)][/us/pl/96/137/s3/b/2], Dec. 12, 1979, [93 Stat. 1062][/us/stat/93/1062], substituted “Authorizations of appropriations” for “Naval petroleum reserve special account” in item 7432.
+    1979—[Pub. L. 96–137][/us/pl/96/137], § 3(b)(2), Dec. 12, 1979, [93 Stat. 1062][/us/stat/93/1062], substituted “Authorizations of appropriations” for “Naval petroleum reserve special account” in item 7432.
 
-    1976—[Pub. L. 94–258, title II, § 201(20)][/us/pl/94/258/s201/20], Apr. 5, 1976, [90 Stat. 313][/us/stat/90/313], added item 7420 and substituted “Naval petroleum reserve special account” for “Expenditures; appropriations chargeable” in item 7432.
+    1976—[Pub. L. 94–258, title II][/us/pl/94/258/tII], § 201(20), Apr. 5, 1976, [90 Stat. 313][/us/stat/90/313], added item 7420 and substituted “Naval petroleum reserve special account” for “Expenditures; appropriations chargeable” in item 7432.
 
-    1962—[Pub. L. 87–796, § 1(13)][/us/pl/87/796/s1/13], Oct. 11, 1962, [76 Stat. 906][/us/stat/76/906], substituted “Rifle, Colorado, plant; possession, use, and transfer of” for “Exclusion of naval oil shale reserves” in item 7438.
+    1962—[Pub. L. 87–796][/us/pl/87/796], § 1(13), Oct. 11, 1962, [76 Stat. 906][/us/stat/76/906], substituted “Rifle, Colorado, plant; possession, use, and transfer of” for “Exclusion of naval oil shale reserves” in item 7438.
 
 ----------
 
@@ -212,23 +212,23 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/105/85/s3404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs3404%2Fb
+[/us/pl/105/85/dC/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdC%2FtXXXIV
 [/us/stat/111/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2061
-[/us/pl/104/201/s1074/a/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fa%2F19
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2660
-[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F506
-[/us/pl/101/510/s1331/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1331%2F9
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1673
-[/us/pl/96/513/s513/32/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F32%2FC
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2933
-[/us/pl/96/137/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F137%2Fs3%2Fb%2F2
+[/us/pl/96/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F137
 [/us/stat/93/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1062
-[/us/pl/94/258/s201/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2Fs201%2F20
+[/us/pl/94/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2FtII
 [/us/stat/90/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F313
-[/us/pl/87/796/s1/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F796%2Fs1%2F13
+[/us/pl/87/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F796
 [/us/stat/76/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F906
 
 

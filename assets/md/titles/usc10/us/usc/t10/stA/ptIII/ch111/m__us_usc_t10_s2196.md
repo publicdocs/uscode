@@ -117,15 +117,15 @@
 
     The amount of financial assistance furnished to an institution under this section may not exceed 50 percent of the estimated cost of carrying out the activities proposed to be supported in part with such financial assistance for the period for which the assistance is to be provided.
 
-(Added [Pub. L. 102–190, div. A, title VIII, § 825(a)(1)][/us/pl/102/190/s825/a/1], Dec. 5, 1991, [105 Stat. 1438][/us/stat/105/1438].)
+(Added [Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], § 825(a)(1), Dec. 5, 1991, [105 Stat. 1438][/us/stat/105/1438].)
 
  __Prior Provisions__ 
 
-    A prior section 2196, added [Pub. L. 101–510, div. A, title II, § 247(a)(1)][/us/pl/101/510/s247/a/1], Nov. 5, 1990, [104 Stat. 1523][/us/stat/104/1523]; amended [Pub. L. 102–25, title VII, § 701(i)(2)][/us/pl/102/25/s701/i/2], Apr. 6, 1991, [105 Stat. 116][/us/stat/105/116], defined “defense laboratory”, prior to repeal by [Pub. L. 102–190, § 825(a)(1)][/us/pl/102/190/s825/a/1]. See [section 2199 of this title][/us/usc/t10/s2199].
+    A prior section 2196, added [Pub. L. 101–510, div. A, title II][/us/pl/101/510/dA/tII], § 247(a)(1), Nov. 5, 1990, [104 Stat. 1523][/us/stat/104/1523]; amended [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 701(i)(2), Apr. 6, 1991, [105 Stat. 116][/us/stat/105/116], defined “defense laboratory”, prior to repeal by [Pub. L. 102–190][/us/pl/102/190], § 825(a)(1). See [section 2199 of this title][/us/usc/t10/s2199].
 
  __Implementation of Grant Program; Priority in Funding__ 
 
-[Pub. L. 102–190, div. A, title VIII, § 825(b)][/us/pl/102/190/s825/b], Dec. 5, 1991, [105 Stat. 1442][/us/stat/105/1442], provided that: 
+[Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], § 825(b), Dec. 5, 1991, [105 Stat. 1442][/us/stat/105/1442], provided that: 
 
 > “Within one year after the date of the enactment of this Act \[Dec. 5, 1991\], the Secretary of Defense, in consultation with the Director of the National Science Foundation, shall award grants under [section 2196 of title 10][/us/usc/t10/s2196], United States Code (as added by subsection (a)), to institutions of higher education throughout the United States.”
 
@@ -136,15 +136,15 @@
 ----------
 ----------
 
-[/us/pl/102/190/s825/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs825%2Fa%2F1
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1438
-[/us/pl/101/510/s247/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs247%2Fa%2F1
+[/us/pl/101/510/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtII
 [/us/stat/104/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1523
-[/us/pl/102/25/s701/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Fi%2F2
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F116
-[/us/pl/102/190/s825/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs825%2Fa%2F1
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/usc/t10/s2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2199
-[/us/pl/102/190/s825/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs825%2Fb
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1442
 [/us/usc/t10/s2196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2196
 

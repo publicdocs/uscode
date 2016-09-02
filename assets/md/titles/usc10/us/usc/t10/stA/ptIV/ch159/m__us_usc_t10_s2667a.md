@@ -13,17 +13,17 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch159/m__us_usc_t10_s2667.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch159/m__us_usc_t10_s2668.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2667a)
 
-## \[§ 2667a. Repealed. [Pub. L. 110–417, div. B, title XXVIII, § 2812(e)(1)][/us/pl/110/417/s2812/e/1], Oct. 14, 2008, [122 Stat. 4727][/us/stat/122/4727]\]
+## \[§ 2667a. Repealed. [Pub. L. 110–417, div. B, title XXVIII][/us/pl/110/417/dB/tXXVIII], § 2812(e)(1), Oct. 14, 2008, [122 Stat. 4727][/us/stat/122/4727]\]
 
-    Section, added [Pub. L. 105–85, div. A, title X, § 1062(a)][/us/pl/105/85/s1062/a], Nov. 18, 1997, [111 Stat. 1891][/us/stat/111/1891]; amended [Pub. L. 107–217, § 3(b)(13)][/us/pl/107/217/s3/b/13], Aug. 21, 2002, [116 Stat. 1296][/us/stat/116/1296]; [Pub. L. 108–136, div. A, title X, § 1031(a)(28)][/us/pl/108/136/s1031/a/28], Nov. 24, 2003, [117 Stat. 1599][/us/stat/117/1599], related to leases of non-excess property of Defense agencies.
+    Section, added [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1062(a), Nov. 18, 1997, [111 Stat. 1891][/us/stat/111/1891]; amended [Pub. L. 107–217][/us/pl/107/217], § 3(b)(13), Aug. 21, 2002, [116 Stat. 1296][/us/stat/116/1296]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(28), Nov. 24, 2003, [117 Stat. 1599][/us/stat/117/1599], related to leases of non-excess property of Defense agencies.
 
  __Prior Provisions__ 
 
-    A prior section 2667a, added [Pub. L. 98–115, title VIII, § 807(a)(1)][/us/pl/98/115/s807/a/1], Oct. 11, 1983, [97 Stat. 786][/us/stat/97/786], provided for sale and replacement of nonexcess real property, prior to repeal by [Pub. L. 98–115, title VIII, § 807(c)][/us/pl/98/115/s807/c], Oct. 11, 1983, [97 Stat. 789][/us/stat/97/789], as amended by [Pub. L. 99–167, title VIII, § 806(a)][/us/pl/99/167/s806/a], Dec. 3, 1985, [99 Stat. 988][/us/stat/99/988], effective Oct. 1, 1986.
+    A prior section 2667a, added [Pub. L. 98–115, title VIII][/us/pl/98/115/tVIII], § 807(a)(1), Oct. 11, 1983, [97 Stat. 786][/us/stat/97/786], provided for sale and replacement of nonexcess real property, prior to repeal by [Pub. L. 98–115, title VIII][/us/pl/98/115/tVIII], § 807(c), Oct. 11, 1983, [97 Stat. 789][/us/stat/97/789], as amended by [Pub. L. 99–167, title VIII][/us/pl/99/167/tVIII], § 806(a), Dec. 3, 1985, [99 Stat. 988][/us/stat/99/988], effective Oct. 1, 1986.
 
  __Savings Provision__ 
 
-[Pub. L. 110–417, div. B, title XXVIII, § 2812(e)(2)][/us/pl/110/417/s2812/e/2], (3), Oct. 14, 2008, [122 Stat. 4727][/us/stat/122/4727], provided that:
+[Pub. L. 110–417, div. B, title XXVIII][/us/pl/110/417/dB/tXXVIII], § 2812(e)(2), (3), Oct. 14, 2008, [122 Stat. 4727][/us/stat/122/4727], provided that:
 
 >     “(2)  __Effect on existing contracts__  __.—__ 
 
@@ -44,21 +44,21 @@
 ----------
 ----------
 
-[/us/pl/110/417/s2812/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs2812%2Fe%2F1
+[/us/pl/110/417/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdB%2FtXXVIII
 [/us/stat/122/4727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4727
-[/us/pl/105/85/s1062/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1062%2Fa
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1891
-[/us/pl/107/217/s3/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F13
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1296
-[/us/pl/108/136/s1031/a/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F28
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1599
-[/us/pl/98/115/s807/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F115%2Fs807%2Fa%2F1
+[/us/pl/98/115/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F115%2FtVIII
 [/us/stat/97/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F786
-[/us/pl/98/115/s807/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F115%2Fs807%2Fc
+[/us/pl/98/115/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F115%2FtVIII
 [/us/stat/97/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F789
-[/us/pl/99/167/s806/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167%2Fs806%2Fa
+[/us/pl/99/167/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167%2FtVIII
 [/us/stat/99/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F988
-[/us/pl/110/417/s2812/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs2812%2Fe%2F2
+[/us/pl/110/417/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdB%2FtXXVIII
 [/us/stat/122/4727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4727
 [/us/usc/t10/s2667a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2667a
 [/us/usc/t10/s2667a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2667a

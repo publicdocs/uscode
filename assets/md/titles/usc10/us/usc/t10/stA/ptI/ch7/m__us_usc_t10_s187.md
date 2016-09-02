@@ -73,25 +73,25 @@
 
         (3) The term “secure supply”, with respect to a material, means the availability of a source or sources for the material, including the full supply chain for the material and components containing the material.
 
-(Added [Pub. L. 109–364, div. A, title VIII, § 843(a)][/us/pl/109/364/s843/a], Oct. 17, 2006, [120 Stat. 2338][/us/stat/120/2338]; amended [Pub. L. 111–383, div. A, title VIII, § 829][/us/pl/111/383/s829], Jan. 7, 2011, [124 Stat. 4272][/us/stat/124/4272]; [Pub. L. 112–239, div. A, title IX, § 901(c)][/us/pl/112/239/s901/c], Jan. 2, 2013, [126 Stat. 1864][/us/stat/126/1864].)
+(Added [Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 843(a), Oct. 17, 2006, [120 Stat. 2338][/us/stat/120/2338]; amended [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 829, Jan. 7, 2011, [124 Stat. 4272][/us/stat/124/4272]; [Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 901(c), Jan. 2, 2013, [126 Stat. 1864][/us/stat/126/1864].)
 
  __Amendments__ 
 
-    2013—Subsec. (a)(2). [Pub. L. 112–239, § 901(c)(1)][/us/pl/112/239/s901/c/1], amended par. (2) generally. Prior to amendment, par. (2) related to composition of the Strategic Materials Protection Board.
+    2013—Subsec. (a)(2). [Pub. L. 112–239][/us/pl/112/239], § 901(c)(1), amended par. (2) generally. Prior to amendment, par. (2) related to composition of the Strategic Materials Protection Board.
 
-    Subsec. (b)(3), (4). [Pub. L. 112–239, § 901(c)(2)][/us/pl/112/239/s901/c/2], substituted “Secretary” for “President”.
+    Subsec. (b)(3), (4). [Pub. L. 112–239][/us/pl/112/239], § 901(c)(2), substituted “Secretary” for “President”.
 
-    Subsec. (c). [Pub. L. 112–239, § 901(c)(3)][/us/pl/112/239/s901/c/3], substituted “Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy” for “Secretary of Defense”.
+    Subsec. (c). [Pub. L. 112–239][/us/pl/112/239], § 901(c)(3), substituted “Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy” for “Secretary of Defense”.
 
-    Subsec. (d). [Pub. L. 112–239, § 901(c)(4)][/us/pl/112/239/s901/c/4], amended subsec. (d) generally. Prior to amendment, text read as follows: “After each meeting of the Board, the Board shall prepare and submit to Congress a report containing the results of the meeting and such recommendations as the Board determines appropriate.”
+    Subsec. (d). [Pub. L. 112–239][/us/pl/112/239], § 901(c)(4), amended subsec. (d) generally. Prior to amendment, text read as follows: “After each meeting of the Board, the Board shall prepare and submit to Congress a report containing the results of the meeting and such recommendations as the Board determines appropriate.”
 
-    2011—Subsec. (b). [Pub. L. 111–383, § 829(b)][/us/pl/111/383/s829/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) related to duties of the Strategic Materials Protection Board.
+    2011—Subsec. (b). [Pub. L. 111–383][/us/pl/111/383], § 829(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to duties of the Strategic Materials Protection Board.
 
-    Subsec. (e). [Pub. L. 111–383, § 829(a)][/us/pl/111/383/s829/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 111–383][/us/pl/111/383], § 829(a), added subsec. (e).
 
  __First Meeting of Board__ 
 
-[Pub. L. 109–364, div. A, title VIII, § 843(c)][/us/pl/109/364/s843/c], Oct. 17, 2006, [120 Stat. 2339][/us/stat/120/2339], provided that: 
+[Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 843(c), Oct. 17, 2006, [120 Stat. 2339][/us/stat/120/2339], provided that: 
 
 > “The first meeting of the Strategic Materials Protection Board, established by [section 187 of title 10][/us/usc/t10/s187], United States Code (as added by subsection (a)) shall be not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2006\].”
 
@@ -103,19 +103,19 @@
 ----------
 
 [/us/usc/t10/s2533b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2533b
-[/us/pl/109/364/s843/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs843%2Fa
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2338
-[/us/pl/111/383/s829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs829
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4272
-[/us/pl/112/239/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs901%2Fc
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
 [/us/stat/126/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1864
-[/us/pl/112/239/s901/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs901%2Fc%2F1
-[/us/pl/112/239/s901/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs901%2Fc%2F2
-[/us/pl/112/239/s901/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs901%2Fc%2F3
-[/us/pl/112/239/s901/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs901%2Fc%2F4
-[/us/pl/111/383/s829/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs829%2Fb
-[/us/pl/111/383/s829/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs829%2Fa
-[/us/pl/109/364/s843/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs843%2Fc
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2339
 [/us/usc/t10/s187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs187
 

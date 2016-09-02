@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to limit the authority of the executive branch in the use of military personnel or equipment for civilian law enforcement purposes beyond that provided by law before December 1, 1981.
 
-(Added [Pub. L. 97–86, title IX, § 905(a)(1)][/us/pl/97/86/s905/a/1], Dec. 1, 1981, [95 Stat. 1116][/us/stat/95/1116]; amended [Pub. L. 98–525, title XIV, § 1405(10)][/us/pl/98/525/s1405/10], Oct. 19, 1984, [98 Stat. 2622][/us/stat/98/2622]; [Pub. L. 100–456, div. A, title XI, § 1104(a)][/us/pl/100/456/s1104/a], Sept. 29, 1988, [102 Stat. 2045][/us/stat/102/2045].)
+(Added [Pub. L. 97–86, title IX][/us/pl/97/86/tIX], § 905(a)(1), Dec. 1, 1981, [95 Stat. 1116][/us/stat/95/1116]; amended [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(10), Oct. 19, 1984, [98 Stat. 2622][/us/stat/98/2622]; [Pub. L. 100–456, div. A, title XI][/us/pl/100/456/dA/tXI], § 1104(a), Sept. 29, 1988, [102 Stat. 2045][/us/stat/102/2045].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/97/86/s905/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs905%2Fa%2F1
+[/us/pl/97/86/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIX
 [/us/stat/95/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1116
-[/us/pl/98/525/s1405/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F10
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2622
-[/us/pl/100/456/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1104%2Fa
+[/us/pl/100/456/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXI
 [/us/stat/102/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2045
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525

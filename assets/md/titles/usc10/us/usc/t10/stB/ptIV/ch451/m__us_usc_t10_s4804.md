@@ -19,7 +19,7 @@
 
     (b) In any case where the amount to be received by the United States is not more than $10,000, the Secretary of the Army may delegate his authority under subsection (a) to any person designated by him.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 271][/us/stat/70A/271]; [Pub. L. 92–417, § 1(3)][/us/pl/92/417/s1/3], Aug. 29, 1972, [86 Stat. 654][/us/stat/86/654].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 271][/us/stat/70A/271]; [Pub. L. 92–417][/us/pl/92/417], § 1(3), Aug. 29, 1972, [86 Stat. 654][/us/stat/86/654].)
 
 <table>
 
@@ -80,7 +80,7 @@ Oct. 20, 1951, ch. 524, § 3, 65 Stat. 573.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F271
-[/us/pl/92/417/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F417%2Fs1%2F3
+[/us/pl/92/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F417
 [/us/stat/86/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F654
 [/us/usc/t10/s4801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4801
 [/us/usc/t10/s4803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4803

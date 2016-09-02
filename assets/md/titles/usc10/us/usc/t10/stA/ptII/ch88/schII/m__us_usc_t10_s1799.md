@@ -33,7 +33,7 @@
 
         (3) To establish or support a partnership or consortium arrangement with schools and other youth services organizations serving children of members of the armed forces.
 
-(Added [Pub. L. 106–65, div. A, title V, § 584(a)(1)(B)][/us/pl/106/65/s584/a/1/B], Oct. 5, 1999, [113 Stat. 634][/us/stat/113/634]; amended [Pub. L. 107–314, div. A, title X, § 1041(a)(7)][/us/pl/107/314/s1041/a/7], Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645].)
+(Added [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 584(a)(1)(B), Oct. 5, 1999, [113 Stat. 634][/us/stat/113/634]; amended [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1041(a)(7), Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/106/65/s584/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs584%2Fa%2F1%2FB
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F634
-[/us/pl/107/314/s1041/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1041%2Fa%2F7
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2645
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/usc/t10/s1798/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1798%2Fd

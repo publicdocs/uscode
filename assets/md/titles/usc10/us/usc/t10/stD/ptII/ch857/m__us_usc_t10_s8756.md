@@ -21,7 +21,7 @@
 
     (c) The Secretary of the Air Force shall prescribe service requirements for eligibility for the Korea Defense Service Medal. Those requirements shall not be more stringent than the service requirements for award of the Armed Forces Expeditionary Medal for instances in which the award of that medal is authorized.
 
-(Added [Pub. L. 107–314, div. A, title V, § 543(d)(1)][/us/pl/107/314/s543/d/1], Dec. 2, 2002, [116 Stat. 2550][/us/stat/116/2550], § 8755; renumbered § 8756, [Pub. L. 108–375, div. A, title X, § 1084(d)(33)][/us/pl/108/375/s1084/d/33], Oct. 28, 2004, [118 Stat. 2063][/us/stat/118/2063].)
+(Added [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 543(d)(1), Dec. 2, 2002, [116 Stat. 2550][/us/stat/116/2550], § 8755; renumbered § 8756, [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(d)(33), Oct. 28, 2004, [118 Stat. 2063][/us/stat/118/2063].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/107/314/s543/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs543%2Fd%2F1
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2550
-[/us/pl/108/375/s1084/d/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F33
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2063
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375

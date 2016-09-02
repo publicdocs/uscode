@@ -47,7 +47,7 @@
 
     (4) The terms “State” and “local government” have the meaning given those terms in [section 6302 of title 31][/us/usc/t31/s6302].
 
-(Added [Pub. L. 98–525, title XII, § 1241(a)(1)][/us/pl/98/525/s1241/a/1], Oct. 19, 1984, [98 Stat. 2605][/us/stat/98/2605]; amended [Pub. L. 99–145, title IX, § 919(a)][/us/pl/99/145/s919/a], Nov. 8, 1985, [99 Stat. 691][/us/stat/99/691]; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 956(a)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–174, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 956(a)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–174; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 956(a), Nov. 14, 1986, [100 Stat. 3954][/us/stat/100/3954], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–180, div. A, title VIII, § 807(b)][/us/pl/100/180/s807/b], Dec. 4, 1987, [101 Stat. 1128][/us/stat/101/1128]; [Pub. L. 100–456, div. A, title VIII, § 841(b)(2)][/us/pl/100/456/s841/b/2], Sept. 29, 1988, [102 Stat. 2025][/us/stat/102/2025]; [Pub. L. 101–189, div. A, title VIII, § 853(e)][/us/pl/101/189/s853/e], Nov. 29, 1989, [103 Stat. 1519][/us/stat/103/1519]; [Pub. L. 102–25, title VII, § 701(j)(5)][/us/pl/102/25/s701/j/5], Apr. 6, 1991, [105 Stat. 116][/us/stat/105/116]; [Pub. L. 102–484, div. A, title X, § 1052(31)][/us/pl/102/484/s1052/31], Oct. 23, 1992, [106 Stat. 2501][/us/stat/106/2501].)
+(Added [Pub. L. 98–525, title XII][/us/pl/98/525/tXII], § 1241(a)(1), Oct. 19, 1984, [98 Stat. 2605][/us/stat/98/2605]; amended [Pub. L. 99–145, title IX][/us/pl/99/145/tIX], § 919(a), Nov. 8, 1985, [99 Stat. 691][/us/stat/99/691]; [Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title X, § 956(a)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–174, and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 956(a)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–174; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661/dA/tIX], formerly title IV, § 956(a), Nov. 14, 1986, [100 Stat. 3954][/us/stat/100/3954], renumbered title IX, [Pub. L. 100–26][/us/pl/100/26], § 3(5), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–180, div. A, title VIII][/us/pl/100/180/dA/tVIII], § 807(b), Dec. 4, 1987, [101 Stat. 1128][/us/stat/101/1128]; [Pub. L. 100–456, div. A, title VIII][/us/pl/100/456/dA/tVIII], § 841(b)(2), Sept. 29, 1988, [102 Stat. 2025][/us/stat/102/2025]; [Pub. L. 101–189, div. A, title VIII][/us/pl/101/189/dA/tVIII], § 853(e), Nov. 29, 1989, [103 Stat. 1519][/us/stat/103/1519]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 701(j)(5), Apr. 6, 1991, [105 Stat. 116][/us/stat/105/116]; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1052(31), Oct. 23, 1992, [106 Stat. 2501][/us/stat/106/2501].)
 
  __Codification__ 
 
@@ -63,9 +63,9 @@
 
     1988—Par. (1)(D). [Pub. L. 100–456][/us/pl/100/456] inserted “, whether or not such economic enterprise is organized for-profit, or nonprofit purposes” before period at end.
 
-    1987—Par. (1)(D). [Pub. L. 100–180, § 807(b)(1)][/us/pl/100/180/s807/b/1], added subpar. (D).
+    1987—Par. (1)(D). [Pub. L. 100–180][/us/pl/100/180], § 807(b)(1), added subpar. (D).
 
-    Par. (2). [Pub. L. 100–180, § 807(b)(2)][/us/pl/100/180/s807/b/2], substituted “means—” for “means”, designated existing text beginning with “the area of a unit” as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, substituted “are available; or” for “are available.”, and added subpar. (B).
+    Par. (2). [Pub. L. 100–180][/us/pl/100/180], § 807(b)(2), substituted “means—” for “means”, designated existing text beginning with “the area of a unit” as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, substituted “are available; or” for “are available.”, and added subpar. (B).
 
     1986—[Pub. L. 99–500][/us/pl/99/500], [Pub. L. 99–591][/us/pl/99/591], and [Pub. L. 99–661][/us/pl/99/661] amended section generally identically, striking out in par. (1) reference to section 6302(5) and 6302(2) of title 31, in par. (2) substituting “The term ‘distressed area’ means the area of a unit of local government (or such area excluding the area of any defined political jurisdiction within the area of such unit of local government)” for “ ‘Distressed entity’ means an eligible entity (within the meaning of paragraph (1)(B))”, and adding par. (4).
 
@@ -77,7 +77,7 @@
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–145, title IX, § 919(d)][/us/pl/99/145/s919/d], Nov. 8, 1985, [99 Stat. 693][/us/stat/99/693], provided that: 
+[Pub. L. 99–145, title IX][/us/pl/99/145/tIX], § 919(d), Nov. 8, 1985, [99 Stat. 693][/us/stat/99/693], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and sections 2412 to 2415 of this title\] shall take effect on October 1, 1985.”
 
@@ -95,27 +95,27 @@
 [/us/pl/93/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F262
 [/us/usc/t25/s1452/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1452%2Fd
 [/us/usc/t31/s6302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6302
-[/us/pl/98/525/s1241/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1241%2Fa%2F1
+[/us/pl/98/525/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXII
 [/us/stat/98/2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2605
-[/us/pl/99/145/s919/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs919%2Fa
+[/us/pl/99/145/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtIX
 [/us/stat/99/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F691
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIX
 [/us/stat/100/3954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3954
-[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
-[/us/pl/100/180/s807/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs807%2Fb
+[/us/pl/100/180/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVIII
 [/us/stat/101/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1128
-[/us/pl/100/456/s841/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs841%2Fb%2F2
+[/us/pl/100/456/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVIII
 [/us/stat/102/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2025
-[/us/pl/101/189/s853/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs853%2Fe
+[/us/pl/101/189/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVIII
 [/us/stat/103/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1519
-[/us/pl/102/25/s701/j/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Fj%2F5
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F116
-[/us/pl/102/484/s1052/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F31
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2501
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
@@ -125,14 +125,14 @@
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t25/s450/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450%2Fc
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
-[/us/pl/100/180/s807/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs807%2Fb%2F1
-[/us/pl/100/180/s807/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs807%2Fb%2F2
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/usc/t31/s6302/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6302%2F5
-[/us/pl/99/145/s919/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs919%2Fd
+[/us/pl/99/145/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtIX
 [/us/stat/99/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F693
 
 

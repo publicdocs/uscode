@@ -17,7 +17,7 @@
 
     The Secretary of the Navy may employ as many civilians as he considers necessary to serve at the Naval Postgraduate School under the direction of the President of the school as senior professors, professors, associate professors, assistant professors, and instructors. The Secretary shall prescribe the compensation of those persons.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 437][/us/stat/70A/437]; [Pub. L. 108–375, div. A, title V, § 557(a)(4)(A)][/us/pl/108/375/s557/a/4/A], Oct. 28, 2004, [118 Stat. 1915][/us/stat/118/1915].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 437][/us/stat/70A/437]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 557(a)(4)(A), Oct. 28, 2004, [118 Stat. 1915][/us/stat/118/1915].)
 
 <table>
 
@@ -78,7 +78,7 @@ July 31, 1947, ch. 420, § 3 (less last sentence), 61 Stat. 706; Aug. 30, 1954
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F437
-[/us/pl/108/375/s557/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs557%2Fa%2F4%2FA
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1915
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 

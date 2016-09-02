@@ -31,15 +31,15 @@
 
     Financial assistance may not be provided under this section to a member receiving financial assistance under [section 2107 of this title][/us/usc/t10/s2107].
 
-(Added [Pub. L. 100–180, div. A, title VII, § 711(a)(3)][/us/pl/100/180/s711/a/3], Dec. 4, 1987, [101 Stat. 1111][/us/stat/101/1111], § 2130; renumbered § 16203 and amended [Pub. L. 103–337, div. A, title XVI, § 1663(c)(4)][/us/pl/103/337/s1663/c/4], Oct. 5, 1994, [108 Stat. 3008][/us/stat/108/3008]; [Pub. L. 109–163, div. A, title VI, § 687(c)(13)][/us/pl/109/163/s687/c/13], Jan. 6, 2006, [119 Stat. 3335][/us/stat/119/3335].)
+(Added [Pub. L. 100–180, div. A, title VII][/us/pl/100/180/dA/tVII], § 711(a)(3), Dec. 4, 1987, [101 Stat. 1111][/us/stat/101/1111], § 2130; renumbered § 16203 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1663(c)(4), Oct. 5, 1994, [108 Stat. 3008][/us/stat/108/3008]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 687(c)(13), Jan. 6, 2006, [119 Stat. 3335][/us/stat/119/3335].)
 
  __Amendments__ 
 
     2006—Subsec. (a)(1)(B). [Pub. L. 109–163][/us/pl/109/163] amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “to repay the United States an amount equal to the total amount paid to such person under the program.”
 
-    1994—[Pub. L. 103–337, § 1663(c)(4)][/us/pl/103/337/s1663/c/4], renumbered [section 2130 of this title][/us/usc/t10/s2130] as this section and substituted “Penalties and limitations” for “Penalties, limitations, and other administrative provisions” as section catchline.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 1663(c)(4), renumbered [section 2130 of this title][/us/usc/t10/s2130] as this section and substituted “Penalties and limitations” for “Penalties, limitations, and other administrative provisions” as section catchline.
 
-    Subsec. (c). [Pub. L. 103–337, § 1663(c)(4)(A)][/us/pl/103/337/s1663/c/4/A], struck out subsec. (c) which related to regulations. See [section 16204 of this title][/us/usc/t10/s16204].
+    Subsec. (c). [Pub. L. 103–337][/us/pl/103/337], § 1663(c)(4)(A), struck out subsec. (c) which related to regulations. See [section 16204 of this title][/us/usc/t10/s16204].
 
  __Effective Date of 1994 Amendment__ 
 
@@ -58,16 +58,16 @@
 
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
 [/us/usc/t10/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2107
-[/us/pl/100/180/s711/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs711%2Fa%2F3
+[/us/pl/100/180/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVII
 [/us/stat/101/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1111
-[/us/pl/103/337/s1663/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fc%2F4
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3008
-[/us/pl/109/163/s687/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fc%2F13
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3335
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/103/337/s1663/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fc%2F4
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2130
-[/us/pl/103/337/s1663/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fc%2F4%2FA
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s16204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16204
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691

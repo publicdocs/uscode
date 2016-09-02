@@ -27,17 +27,17 @@
 
     Whenever additional members are detailed to a military commission under this chapter, and after any challenges for cause against such additional members are presented and decided, the accused and trial counsel are each entitled to one peremptory challenge against members not previously subject to peremptory challenge.
 
-(Added [Pub. L. 111–84, div. A, title XVIII, § 1802][/us/pl/111/84/s1802], Oct. 28, 2009, [123 Stat. 2586][/us/stat/123/2586]; amended [Pub. L. 113–66, div. A, title X, § 1031(b)][/us/pl/113/66/s1031/b], Dec. 26, 2013, [127 Stat. 850][/us/stat/127/850].)
+(Added [Pub. L. 111–84, div. A, title XVIII][/us/pl/111/84/dA/tXVIII], § 1802, Oct. 28, 2009, [123 Stat. 2586][/us/stat/123/2586]; amended [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1031(b), Dec. 26, 2013, [127 Stat. 850][/us/stat/127/850].)
 
  __Prior Provisions__ 
 
-    A prior section 949f, added [Pub. L. 109–366, § 3(a)(1)][/us/pl/109/366/s3/a/1], Oct. 17, 2006, [120 Stat. 2613][/us/stat/120/2613], related to challenges, prior to the general amendment of this chapter by [Pub. L. 111–84][/us/pl/111/84].
+    A prior section 949f, added [Pub. L. 109–366][/us/pl/109/366], § 3(a)(1), Oct. 17, 2006, [120 Stat. 2613][/us/stat/120/2613], related to challenges, prior to the general amendment of this chapter by [Pub. L. 111–84][/us/pl/111/84].
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–66, § 1031(b)(1)][/us/pl/113/66/s1031/b/1], inserted “primary or alternate” before “members”.
+    2013—Subsec. (a). [Pub. L. 113–66][/us/pl/113/66], § 1031(b)(1), inserted “primary or alternate” before “members”.
 
-    Subsec. (b). [Pub. L. 113–66, § 1031(b)(2)][/us/pl/113/66/s1031/b/2], inserted at end “Nothing in this section prohibits the military judge from awarding to each party such additional peremptory challenges as may be required in the interests of justice.”
+    Subsec. (b). [Pub. L. 113–66][/us/pl/113/66], § 1031(b)(2), inserted at end “Nothing in this section prohibits the military judge from awarding to each party such additional peremptory challenges as may be required in the interests of justice.”
 
 ----------
 
@@ -46,14 +46,14 @@
 ----------
 ----------
 
-[/us/pl/111/84/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1802
+[/us/pl/111/84/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXVIII
 [/us/stat/123/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2586
-[/us/pl/113/66/s1031/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1031%2Fb
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F850
-[/us/pl/109/366/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs3%2Fa%2F1
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/stat/120/2613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2613
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/113/66/s1031/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1031%2Fb%2F1
-[/us/pl/113/66/s1031/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1031%2Fb%2F2
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 
 

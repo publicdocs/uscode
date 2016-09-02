@@ -21,7 +21,7 @@
 
     (c) The Secretary of Defense shall establish policies and procedures to govern acquisition, use, management, and disposition of proceeds from counterintelligence operations conducted by components of the military departments or the Defense Intelligence Agency, including effective internal systems of accounting and administrative controls.
 
-(Added [Pub. L. 99–569, title IV, § 403(a)][/us/pl/99/569/s403/a], Oct. 27, 1986, [100 Stat. 3196][/us/stat/100/3196], § 140b; renumbered § 423 and amended [Pub. L. 100–26, § 9(a)(3)][/us/pl/100/26/s9/a/3], (b)(3), Apr. 21, 1987, [101 Stat. 287][/us/stat/101/287]; [Pub. L. 111–84, div. A, title IX, § 921(a)][/us/pl/111/84/s921/a], (b)(1), Oct. 28, 2009, [123 Stat. 2432][/us/stat/123/2432].)
+(Added [Pub. L. 99–569, title IV][/us/pl/99/569/tIV], § 403(a), Oct. 27, 1986, [100 Stat. 3196][/us/stat/100/3196], § 140b; renumbered § 423 and amended [Pub. L. 100–26][/us/pl/100/26], § 9(a)(3), (b)(3), Apr. 21, 1987, [101 Stat. 287][/us/stat/101/287]; [Pub. L. 111–84, div. A, title IX][/us/pl/111/84/dA/tIX], § 921(a), (b)(1), Oct. 28, 2009, [123 Stat. 2432][/us/stat/123/2432].)
 
  __Amendments__ 
 
@@ -37,11 +37,11 @@
 ----------
 
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
-[/us/pl/99/569/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2Fs403%2Fa
+[/us/pl/99/569/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2FtIV
 [/us/stat/100/3196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3196
-[/us/pl/100/26/s9/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs9%2Fa%2F3
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F287
-[/us/pl/111/84/s921/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs921%2Fa
+[/us/pl/111/84/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIX
 [/us/stat/123/2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2432
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26

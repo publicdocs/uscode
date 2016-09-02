@@ -115,7 +115,7 @@
 
         (2) The term “services” includes activities that benefit the education, morale, welfare, or recreation of members of the armed forces and their dependents or are related or incidental to the conveyance of a gift, devise, or bequest of real property or personal property under subsection (a) or (b).
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 144][/us/stat/70A/144]; [Pub. L. 96–513, title V, § 511(86)][/us/pl/96/513/s511/86], Dec. 12, 1980, [94 Stat. 2927][/us/stat/94/2927]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 109–163, div. A, title III, § 374][/us/pl/109/163/s374], Jan. 6, 2006, [119 Stat. 3211][/us/stat/119/3211]; [Pub. L. 110–181, div. A, title V, § 593(a)][/us/pl/110/181/s593/a], Jan. 28, 2008, [122 Stat. 138][/us/stat/122/138]; [Pub. L. 112–239, div. A, title V, § 587(a)][/us/pl/112/239/s587/a], div. B, title XXVIII, § 2852(a), Jan. 2, 2013, [126 Stat. 1768][/us/stat/126/1768], 2160; [Pub. L. 114–92, div. B, title XXVIII, § 2812][/us/pl/114/92/s2812], Nov. 25, 2015, [129 Stat. 1174][/us/stat/129/1174].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 144][/us/stat/70A/144]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(86), Dec. 12, 1980, [94 Stat. 2927][/us/stat/94/2927]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 109–163, div. A, title III][/us/pl/109/163/dA/tIII], § 374, Jan. 6, 2006, [119 Stat. 3211][/us/stat/119/3211]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 593(a), Jan. 28, 2008, [122 Stat. 138][/us/stat/122/138]; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 587(a), div. B, title XXVIII, § 2852(a), Jan. 2, 2013, [126 Stat. 1768][/us/stat/126/1768], 2160; [Pub. L. 114–92, div. B, title XXVIII][/us/pl/114/92/dB/tXXVIII], § 2812, Nov. 25, 2015, [129 Stat. 1174][/us/stat/129/1174].)
 
 <table>
 
@@ -205,17 +205,17 @@ Mar. 11, 1948, ch. 107, 62 Stat. 71.  </td>
 
     2015—Subsecs. (e) to (j). [Pub. L. 114–92][/us/pl/114/92] added subsec. (e) and redesignated former subsecs. (e) to (i) as (f) to (j), respectively.
 
-    2013—Subsec. (a). [Pub. L. 112–239, § 2852(a)(1)][/us/pl/112/239/s2852/a/1], designated existing provisions as par. (1), substituted “The” for “Subject to subsection (d)(2), the”, and added par. (2).
+    2013—Subsec. (a). [Pub. L. 112–239][/us/pl/112/239], § 2852(a)(1), designated existing provisions as par. (1), substituted “The” for “Subject to subsection (d)(2), the”, and added par. (2).
 
-    Subsec. (b)(1). [Pub. L. 112–239, § 2852(a)(2)(A)][/us/pl/112/239/s2852/a/2/A], substituted “The” for “Subject to subsection (d)(2), the” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 112–239][/us/pl/112/239], § 2852(a)(2)(A), substituted “The” for “Subject to subsection (d)(2), the” in introductory provisions.
 
-    Subsec. (d)(1). [Pub. L. 112–239, § 2852(a)(2)(B)(i)][/us/pl/112/239/s2852/a/2/B/i], substituted “such subsections” for “subsection (b)”.
+    Subsec. (d)(1). [Pub. L. 112–239][/us/pl/112/239], § 2852(a)(2)(B)(i), substituted “such subsections” for “subsection (b)”.
 
-    Subsec. (d)(2). [Pub. L. 112–239, § 2852(a)(2)(B)(ii)][/us/pl/112/239/s2852/a/2/B/ii], substituted “, money, and services may not be accepted under subsection (a) or” for “and money may not be accepted under subsection (a) and property, money, and services may not be accepted under subsection” in introductory provisions.
+    Subsec. (d)(2). [Pub. L. 112–239][/us/pl/112/239], § 2852(a)(2)(B)(ii), substituted “, money, and services may not be accepted under subsection (a) or” for “and money may not be accepted under subsection (a) and property, money, and services may not be accepted under subsection” in introductory provisions.
 
-    Subsec. (f). [Pub. L. 112–239, § 2852(a)(2)(C)][/us/pl/112/239/s2852/a/2/C], substituted “, money, or services accepted under subsection (a) or” for “or money accepted under subsection (a) and any property, money, or services accepted under subsection”.
+    Subsec. (f). [Pub. L. 112–239][/us/pl/112/239], § 2852(a)(2)(C), substituted “, money, or services accepted under subsection (a) or” for “or money accepted under subsection (a) and any property, money, or services accepted under subsection”.
 
-    Subsec. (i)(2). [Pub. L. 112–239, § 587(a)][/us/pl/112/239/s587/a], inserted “education,” before “morale,”.
+    Subsec. (i)(2). [Pub. L. 112–239][/us/pl/112/239], § 587(a), inserted “education,” before “morale,”.
 
     2008—Subsec. (b)(4). [Pub. L. 110–181][/us/pl/110/181] struck out par. (4) which read as follows: “The authority to accept gifts, devises, or bequests under this subsection expires on December 31, 2007.”
 
@@ -235,7 +235,7 @@ Mar. 11, 1948, ch. 107, 62 Stat. 71.  </td>
 
  __Limitation on Solicitation of Gifts__ 
 
-[Pub. L. 110–181, div. A, title V, § 593(b)][/us/pl/110/181/s593/b], Jan. 28, 2008, [122 Stat. 138][/us/stat/122/138], provided that: 
+[Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 593(b), Jan. 28, 2008, [122 Stat. 138][/us/stat/122/138], provided that: 
 
 > “The Secretary of Defense shall prescribe regulations implementing sections 2601 and 2608 of title 10, United States Code, that prohibit the solicitation of any gift under such sections by any employee of the Department of Defense if the nature or circumstances of such solicitation would compromise the integrity or the appearance of integrity of any program of the Department of Defense or of any individual involved in such program.”
 
@@ -250,26 +250,26 @@ Mar. 11, 1948, ch. 107, 62 Stat. 71.  </td>
 [/us/usc/t32/s502/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs502%2Ff
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F144
-[/us/pl/96/513/s511/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F86
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2927
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/109/163/s374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs374
+[/us/pl/109/163/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIII
 [/us/stat/119/3211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3211
-[/us/pl/110/181/s593/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs593%2Fa
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F138
-[/us/pl/112/239/s587/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs587%2Fa
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1768
-[/us/pl/114/92/s2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs2812
+[/us/pl/114/92/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdB%2FtXXVIII
 [/us/stat/129/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1174
 [/us/usc/t10/s150r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs150r
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
-[/us/pl/112/239/s2852/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2852%2Fa%2F1
-[/us/pl/112/239/s2852/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2852%2Fa%2F2%2FA
-[/us/pl/112/239/s2852/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2852%2Fa%2F2%2FB%2Fi
-[/us/pl/112/239/s2852/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2852%2Fa%2F2%2FB%2Fii
-[/us/pl/112/239/s2852/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2852%2Fa%2F2%2FC
-[/us/pl/112/239/s587/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs587%2Fa
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
@@ -280,7 +280,7 @@ Mar. 11, 1948, ch. 107, 62 Stat. 71.  </td>
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/110/181/s593/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs593%2Fb
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F138
 
 

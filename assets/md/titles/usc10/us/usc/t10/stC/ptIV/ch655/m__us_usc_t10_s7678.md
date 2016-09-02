@@ -63,7 +63,7 @@ Mar. 4, 1909, ch. 321, § 38, 35 Stat. 1096.  </td>
 
 </table>
 
-    The words “captor or” between “any” and “claimant” are omitted because the [Act of March 3, 1899, ch. 413, § 13][/us/act/1899-03-03/ch413/s13], [30 Stat. 1007][/us/stat/30/1007], repealed all laws authorizing the distribution of prize proceeds to captors. These words were apparently carried over inadvertently to § 38 of the 1909 Act from the source of that section, namely R.S. 5441.
+    The words “captor or” between “any” and “claimant” are omitted because the [Act of March 3, 1899, ch. 413][/us/act/1899-03-03/ch413], § 13, [30 Stat. 1007][/us/stat/30/1007], repealed all laws authorizing the distribution of prize proceeds to captors. These words were apparently carried over inadvertently to § 38 of the 1909 Act from the source of that section, namely R.S. 5441.
 
     The section is worded in the style of Title 18, U.S. Code.
 
@@ -76,7 +76,7 @@ Mar. 4, 1909, ch. 321, § 38, 35 Stat. 1096.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F482
-[/us/act/1899-03-03/ch413/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch413%2Fs13
+[/us/act/1899-03-03/ch413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch413
 [/us/stat/30/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1007
 
 

@@ -59,21 +59,21 @@
 
         (2) The Secretary of the military department concerned may extend a deferment under subsection (b) or (c) beyond the day referred to in paragraph (1) if the Secretary determines that extension of the deferment is necessary for the needs of the military department concerned. Such an extension shall be made on a case-by-case basis and shall be for such period as the Secretary considers appropriate.
 
-(Added [Pub. L. 96–513, title I, § 111][/us/pl/96/513/s111], Dec. 12, 1980, [94 Stat. 2875][/us/stat/94/2875]; amended [Pub. L. 100–180, div. A, title VII, § 719][/us/pl/100/180/s719], Dec. 4, 1987, [101 Stat. 1115][/us/stat/101/1115]; [Pub. L. 101–189, div. A, title VII, § 709][/us/pl/101/189/s709], Nov. 29, 1989, [103 Stat. 1476][/us/stat/103/1476]; [Pub. L. 105–85, div. A, title V, § 504(a)][/us/pl/105/85/s504/a], (b), Nov. 18, 1997, [111 Stat. 1725][/us/stat/111/1725]; [Pub. L. 109–163, div. A, title V, § 509(c)(3)][/us/pl/109/163/s509/c/3], Jan. 6, 2006, [119 Stat. 3231][/us/stat/119/3231]; [Pub. L. 109–364, div. A, title V, § 502(b)][/us/pl/109/364/s502/b], Oct. 17, 2006, [120 Stat. 2176][/us/stat/120/2176]; [Pub. L. 111–383, div. A, title V, § 501(b)][/us/pl/111/383/s501/b], Jan. 7, 2011, [124 Stat. 4206][/us/stat/124/4206].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 111, Dec. 12, 1980, [94 Stat. 2875][/us/stat/94/2875]; amended [Pub. L. 100–180, div. A, title VII][/us/pl/100/180/dA/tVII], § 719, Dec. 4, 1987, [101 Stat. 1115][/us/stat/101/1115]; [Pub. L. 101–189, div. A, title VII][/us/pl/101/189/dA/tVII], § 709, Nov. 29, 1989, [103 Stat. 1476][/us/stat/103/1476]; [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 504(a), (b), Nov. 18, 1997, [111 Stat. 1725][/us/stat/111/1725]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 509(c)(3), Jan. 6, 2006, [119 Stat. 3231][/us/stat/119/3231]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 502(b), Oct. 17, 2006, [120 Stat. 2176][/us/stat/120/2176]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 501(b), Jan. 7, 2011, [124 Stat. 4206][/us/stat/124/4206].)
 
  __Amendments__ 
 
-    2011—Subsec. (b)(1). [Pub. L. 111–383, § 501(b)(2)][/us/pl/111/383/s501/b/2], substituted “the officer—” for “the officer will be performing duties consisting primarily of providing patient care or performing other clinical duties.” and added subpars. (A) and (B).
+    2011—Subsec. (b)(1). [Pub. L. 111–383][/us/pl/111/383], § 501(b)(2), substituted “the officer—” for “the officer will be performing duties consisting primarily of providing patient care or performing other clinical duties.” and added subpars. (A) and (B).
 
-    Subsec. (b)(2)(D). [Pub. L. 111–383, § 501(b)(1)][/us/pl/111/383/s501/b/1], added subpar. (D).
+    Subsec. (b)(2)(D). [Pub. L. 111–383][/us/pl/111/383], § 501(b)(1), added subpar. (D).
 
     2006—[Pub. L. 109–364][/us/pl/109/364] amended section catchline and text generally, substituting provisions relating to retirement at age 62 of regular commissioned officers in grades below general and flag officer grades for provisions relating to retirement at age 62 of all regular commissioned officers.
 
     Subsec. (a). [Pub. L. 109–163][/us/pl/109/163] inserted “, a permanent professor at the United States Naval Academy,” after “Air Force Academy” in first sentence and struck out last sentence which read as follows: “An officer who is a permanent professor at the United States Military Academy or United States Air Force Academy, the director of admissions at the United States Military Academy, or the registrar of the United States Air Force Academy shall be retired on the first day of the month following the month in which he becomes 64 years of age.”
 
-    1997—Subsec. (c)(2) to (4). [Pub. L. 105–85, § 504(a)][/us/pl/105/85/s504/a], added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+    1997—Subsec. (c)(2) to (4). [Pub. L. 105–85][/us/pl/105/85], § 504(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-    Subsec. (d). [Pub. L. 105–85, § 504(b)][/us/pl/105/85/s504/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 105–85][/us/pl/105/85], § 504(b), added subsec. (d).
 
     1989—Subsec. (c)(2). [Pub. L. 101–189][/us/pl/101/189] designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), a deferment” for “A deferment” and “68 years of age” for “67 years of age”, and added subpar. (B).
 
@@ -85,7 +85,7 @@
 
  __Deferral of Retirement Date for Chairman of the Joint Chiefs of Staff__ 
 
-    [Pub. L. 100–456, div. A, title VII, § 704][/us/pl/100/456/s704], Sept. 29, 1988, [102 Stat. 1996][/us/stat/102/1996], provided that the President could defer until Oct. 1, 1989, the retirement of the officer serving as Chairman of the Joint Chiefs of Staff for the term which began on October 1, 1987, notwithstanding the limitation contained in former [section 1251(b) of this title][/us/usc/t10/s1251/b].
+    [Pub. L. 100–456, div. A, title VII][/us/pl/100/456/dA/tVII], § 704, Sept. 29, 1988, [102 Stat. 1996][/us/stat/102/1996], provided that the President could defer until Oct. 1, 1989, the retirement of the officer serving as Chairman of the Joint Chiefs of Staff for the term which began on October 1, 1987, notwithstanding the limitation contained in former [section 1251(b) of this title][/us/usc/t10/s1251/b].
 
  __Transition Provisions Under Defense Officer Personnel Management Act__ 
 
@@ -99,31 +99,31 @@
 ----------
 
 [/us/usc/t10/s1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1252
-[/us/pl/96/513/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs111
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2875
-[/us/pl/100/180/s719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs719
+[/us/pl/100/180/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVII
 [/us/stat/101/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1115
-[/us/pl/101/189/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs709
+[/us/pl/101/189/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVII
 [/us/stat/103/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1476
-[/us/pl/105/85/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs504%2Fa
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1725
-[/us/pl/109/163/s509/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs509%2Fc%2F3
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3231
-[/us/pl/109/364/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs502%2Fb
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2176
-[/us/pl/111/383/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs501%2Fb
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4206
-[/us/pl/111/383/s501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs501%2Fb%2F2
-[/us/pl/111/383/s501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs501%2Fb%2F1
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/105/85/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs504%2Fa
-[/us/pl/105/85/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs504%2Fb
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/100/456/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs704
+[/us/pl/100/456/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVII
 [/us/stat/102/1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1996
 [/us/usc/t10/s1251/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1251%2Fb
 [/us/pl/96/513/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs632

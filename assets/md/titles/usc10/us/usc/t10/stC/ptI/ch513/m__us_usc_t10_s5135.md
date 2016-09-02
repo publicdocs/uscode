@@ -163,7 +163,7 @@ Feb. 3, 1942, ch. 35, § 1 (less applicability to JAG), 56 Stat. 47.  </td>
 
     In subsection (a) all the provisions covering succession in case of the absence of the chiefs of the various bureaus are integrated and uniformly stated.
 
-    That part of [5 U.S.C. 448a][/us/usc/t5/s448a], enacted in the [Act of June 20, 1940, ch. 400, § 1(f)][/us/act/1940-06-20/ch400/s1/f], [54 Stat. 493][/us/stat/54/493], relating to the succession by heads of major divisions of the Bureau of Ships is superseded by the [Act of Feb. 3, 1942, ch. 35, § 1][/us/act/1942-02-03/ch35/s1] ([5 U.S.C. 432a][/us/usc/t5/s432a]).
+    That part of [5 U.S.C. 448a][/us/usc/t5/s448a], enacted in the [Act of June 20, 1940, ch. 400][/us/act/1940-06-20/ch400], § 1(f), [54 Stat. 493][/us/stat/54/493], relating to the succession by heads of major divisions of the Bureau of Ships is superseded by the [Act of Feb. 3, 1942, ch. 35][/us/act/1942-02-03/ch35], § 1 ([5 U.S.C. 432a][/us/usc/t5/s432a]).
 
  __Transfer of Functions__ 
 
@@ -179,9 +179,9 @@ Feb. 3, 1942, ch. 35, § 1 (less applicability to JAG), 56 Stat. 47.  </td>
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F286
 [/us/usc/t5/s448a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs448a
-[/us/act/1940-06-20/ch400/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-20%2Fch400%2Fs1%2Ff
+[/us/act/1940-06-20/ch400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-20%2Fch400
 [/us/stat/54/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F493
-[/us/act/1942-02-03/ch35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-02-03%2Fch35%2Fs1
+[/us/act/1942-02-03/ch35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-02-03%2Fch35
 [/us/usc/t5/s432a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs432a
 [/us/usc/t10/s5111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5111
 

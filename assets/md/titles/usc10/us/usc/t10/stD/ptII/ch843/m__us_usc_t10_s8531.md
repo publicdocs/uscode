@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stD/ptII/ch843/m__us_usc_t10_stD_ptII_ch843.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch843/m__us_usc_t10_s8537.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8531)
 
-## \[§ 8531. Repealed. [Pub. L. 96–513, title II, § 233(b)][/us/pl/96/513/s233/b], Dec. 12, 1980, [94 Stat. 2887][/us/stat/94/2887]\]
+## \[§ 8531. Repealed. [Pub. L. 96–513, title II][/us/pl/96/513/tII], § 233(b), Dec. 12, 1980, [94 Stat. 2887][/us/stat/94/2887]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 526][/us/stat/70A/526], authorized President, by and with consent of Senate, to appoint a general officer of Air Force as Chief of Staff to President, which officer, unless entitled to rank, pay, and allowances of a grade above lieutenant general under another provision of law, is entitled to rank, pay, and allowances of a general, and is in addition to number otherwise authorized for that grade.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/96/513/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs233%2Fb
+[/us/pl/96/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtII
 [/us/stat/94/2887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2887
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F526

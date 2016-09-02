@@ -25,7 +25,7 @@
 
         (2) the unorganized militia, which consists of the members of the militia who are not members of the National Guard or the Naval Militia.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 14][/us/stat/70A/14]; [Pub. L. 85–861, § 1(7)][/us/pl/85/861/s1/7], Sept. 2, 1958, [72 Stat. 1439][/us/stat/72/1439]; [Pub. L. 103–160, div. A, title V, § 524(a)][/us/pl/103/160/s524/a], Nov. 30, 1993, [107 Stat. 1656][/us/stat/107/1656].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 14][/us/stat/70A/14]; [Pub. L. 85–861][/us/pl/85/861], § 1(7), Sept. 2, 1958, [72 Stat. 1439][/us/stat/72/1439]; [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 524(a), Nov. 30, 1993, [107 Stat. 1656][/us/stat/107/1656].)
 
 <table>
 
@@ -149,9 +149,9 @@ July 30, 1956, ch. 789, § 1, 70 Stat. 729.  </td>
 [/us/usc/t32/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs313
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F14
-[/us/pl/85/861/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F7
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1439
-[/us/pl/103/160/s524/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs524%2Fa
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1656
 [/us/usc/t32/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs313
 [/us/usc/t10/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4

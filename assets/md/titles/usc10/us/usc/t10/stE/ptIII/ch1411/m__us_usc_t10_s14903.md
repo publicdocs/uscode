@@ -47,7 +47,7 @@
 
             (B) An officer who has been required to show cause for retention under [section 14902(b) of this title][/us/usc/t10/s14902/b] and who is thereafter retained in an active status may not again be required to show cause for retention under such section solely because of conduct which was the subject of the previous proceeding, unless the recommendations of the board of inquiry that considered the officer’s case are determined to have been obtained by fraud or collusion.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2958][/us/stat/108/2958]; amended [Pub. L. 104–106, div. A, title XV, § 1501(b)(32)][/us/pl/104/106/s1501/b/32], Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2958][/us/stat/108/2958]; amended [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(32), Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498].)
 
  __Amendments__ 
 
@@ -70,9 +70,9 @@
 [/us/usc/t10/s14902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14902%2Fa
 [/us/usc/t10/s14902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14902%2Fb
 [/us/usc/t10/s14902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14902%2Fb
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2958
-[/us/pl/104/106/s1501/b/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F32
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F498
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106

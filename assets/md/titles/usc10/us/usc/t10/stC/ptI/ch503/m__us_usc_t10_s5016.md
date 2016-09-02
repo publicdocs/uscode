@@ -31,7 +31,7 @@
 
             (B) The Assistant Secretary shall have a Principal Military Deputy, who shall be a vice admiral of the Navy or a lieutenant general of the Marine Corps on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under [section 1733 of this title][/us/usc/t10/s1733].
 
-(Added [Pub. L. 99–433, title V, § 511(c)(4)][/us/pl/99/433/s511/c/4], Oct. 1, 1986, [100 Stat. 1047][/us/stat/100/1047]; amended [Pub. L. 100–456, div. A, title VII, § 702(b)][/us/pl/100/456/s702/b]\[(1)\], Sept. 29, 1988, [102 Stat. 1994][/us/stat/102/1994]; [Pub. L. 110–181, div. A, title IX, § 908(b)][/us/pl/110/181/s908/b], Jan. 28, 2008, [122 Stat. 278][/us/stat/122/278].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 511(c)(4), Oct. 1, 1986, [100 Stat. 1047][/us/stat/100/1047]; amended [Pub. L. 100–456, div. A, title VII][/us/pl/100/456/dA/tVII], § 702(b)\[(1)\], Sept. 29, 1988, [102 Stat. 1994][/us/stat/102/1994]; [Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 908(b), Jan. 28, 2008, [122 Stat. 278][/us/stat/122/278].)
 
  __Prior Provisions__ 
 
@@ -55,11 +55,11 @@
 ----------
 
 [/us/usc/t10/s1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1733
-[/us/pl/99/433/s511/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fc%2F4
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1047
-[/us/pl/100/456/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs702%2Fb
+[/us/pl/100/456/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVII
 [/us/stat/102/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1994
-[/us/pl/110/181/s908/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs908%2Fb
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F278
 [/us/usc/t10/s5034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5034
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433

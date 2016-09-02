@@ -23,13 +23,13 @@
 
     (d) Under regulations prescribed by the Secretary of the military department concerned, a reserve officer who is ordered to active duty (whether voluntarily or involuntarily) during a war or national emergency and who would otherwise be placed on the active-duty list may be excluded from that list as determined by the Secretary concerned. Exclusion of an officer from the active-duty list as the result of action by the Secretary concerned under the preceding sentence shall expire not later than 24 months after the date on which the officer enters active duty under an order to active duty covered by that sentence.
 
-(Added [Pub. L. 96–513, title I, § 105][/us/pl/96/513/s105], Dec. 12, 1980, [94 Stat. 2855][/us/stat/94/2855]; amended [Pub. L. 103–337, div. A, title XVI, § 1624][/us/pl/103/337/s1624], Oct. 5, 1994, [108 Stat. 2961][/us/stat/108/2961]; [Pub. L. 104–106, div. A, title XV, § 1501(a)(1)][/us/pl/104/106/s1501/a/1], Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 105, Dec. 12, 1980, [94 Stat. 2855][/us/stat/94/2855]; amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1624, Oct. 5, 1994, [108 Stat. 2961][/us/stat/108/2961]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(a)(1), Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495].)
 
  __Amendments__ 
 
-    1996—Subsec. (d). [Pub. L. 104–106][/us/pl/104/106] made technical amendment to [Pub. L. 103–337, § 1624][/us/pl/103/337/s1624]. See 1994 Amendment note below.
+    1996—Subsec. (d). [Pub. L. 104–106][/us/pl/104/106] made technical amendment to [Pub. L. 103–337][/us/pl/103/337], § 1624. See 1994 Amendment note below.
 
-    1994—Subsec. (d). [Pub. L. 103–337, § 1624][/us/pl/103/337/s1624], as amended by [Pub. L. 104–106][/us/pl/104/106], added subsec. (d).
+    1994—Subsec. (d). [Pub. L. 103–337][/us/pl/103/337], § 1624, as amended by [Pub. L. 104–106][/us/pl/104/106], added subsec. (d).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -55,15 +55,15 @@
 ----------
 
 [/us/usc/t10/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs641
-[/us/pl/96/513/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs105
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2855
-[/us/pl/103/337/s1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1624
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2961
-[/us/pl/104/106/s1501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fa%2F1
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F495
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/337/s1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1624
-[/us/pl/103/337/s1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1624
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

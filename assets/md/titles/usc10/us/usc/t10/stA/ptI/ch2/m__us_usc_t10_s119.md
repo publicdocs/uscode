@@ -97,7 +97,7 @@
 
         (2) the Committee on Armed Services and the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations, of the House of Representatives.
 
-(Added [Pub. L. 100–180, div. A, title XI, § 1132(a)(1)][/us/pl/100/180/s1132/a/1], Dec. 4, 1987, [101 Stat. 1151][/us/stat/101/1151]; amended [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510], §§ 1461, 1482(a), Nov. 5, 1990, [104 Stat. 1698][/us/stat/104/1698], 1709; [Pub. L. 104–106, div. A, title X, § 1055][/us/pl/104/106/s1055], title XV, § 1502(a)(4), Feb. 10, 1996, [110 Stat. 442][/us/stat/110/442], 502; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 107–107, div. A, title X, § 1048(a)(2)][/us/pl/107/107/s1048/a/2], Dec. 28, 2001, [115 Stat. 1222][/us/stat/115/1222].)
+(Added [Pub. L. 100–180, div. A, title XI][/us/pl/100/180/dA/tXI], § 1132(a)(1), Dec. 4, 1987, [101 Stat. 1151][/us/stat/101/1151]; amended [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], §§ 1461, 1482(a), Nov. 5, 1990, [104 Stat. 1698][/us/stat/104/1698], 1709; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1055, title XV, § 1502(a)(4), Feb. 10, 1996, [110 Stat. 442][/us/stat/110/442], 502; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(a)(2), Dec. 28, 2001, [115 Stat. 1222][/us/stat/115/1222].)
 
  __Amendments__ 
 
@@ -105,31 +105,31 @@
 
     1999—Subsec. (g)(2). [Pub. L. 106–65][/us/pl/106/65] substituted “Committee on Armed Services” for “Committee on National Security”.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–106, § 1055][/us/pl/104/106/s1055], substituted “March 1” for “February 1”.
+    1996—Subsec. (a)(1). [Pub. L. 104–106][/us/pl/104/106], § 1055, substituted “March 1” for “February 1”.
 
-    Subsec. (g). [Pub. L. 104–106, § 1502(a)(4)][/us/pl/104/106/s1502/a/4], added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+    Subsec. (g). [Pub. L. 104–106][/us/pl/104/106], § 1502(a)(4), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
     “(1) the Committees on Armed Services and Appropriations of the Senate and House of Representatives; and
 
     “(2) the Defense Subcommittees of the Committees on Appropriations of the Senate and House of Representatives.”
 
-    1990—Subsec. (c). [Pub. L. 101–510, § 1461(a)][/us/pl/101/510/s1461/a], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Whenever a change is made in the status of a program of the Department of Defense as a special access program, the Secretary of Defense shall submit to the defense committees a report describing the change. Any such report shall be submitted not later than 30 days after the date on which the change takes effect.”
+    1990—Subsec. (c). [Pub. L. 101–510][/us/pl/101/510], § 1461(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Whenever a change is made in the status of a program of the Department of Defense as a special access program, the Secretary of Defense shall submit to the defense committees a report describing the change. Any such report shall be submitted not later than 30 days after the date on which the change takes effect.”
 
-    Subsec. (f). [Pub. L. 101–510, § 1482(a)(2)][/us/pl/101/510/s1482/a/2], added subsec. (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 101–510][/us/pl/101/510], § 1482(a)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
-    [Pub. L. 101–510, § 1461(b)][/us/pl/101/510/s1461/b], inserted “and Appropriations” after “Armed Services” in par. (1).
+    [Pub. L. 101–510][/us/pl/101/510], § 1461(b), inserted “and Appropriations” after “Armed Services” in par. (1).
 
-    Subsec. (g). [Pub. L. 101–510, § 1482(a)(1)][/us/pl/101/510/s1482/a/1], redesignated subsec. (f) as (g).
+    Subsec. (g). [Pub. L. 101–510][/us/pl/101/510], § 1482(a)(1), redesignated subsec. (f) as (g).
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–510, div. A, title XIV, § 1482(d)][/us/pl/101/510/s1482/d], Nov. 5, 1990, [104 Stat. 1710][/us/stat/104/1710], provided that: 
+[Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1482(d), Nov. 5, 1990, [104 Stat. 1710][/us/stat/104/1710], provided that: 
 
 > “The amendments made by this section \[enacting [section 2214 of this title][/us/usc/t10/s2214] and amending this section and [section 1584 of this title][/us/usc/t10/s1584]\] shall take effect on October 1, 1991.”
 
  __Initial Reports on Special Access Programs__ 
 
-    [Pub. L. 100–180, div. A, title XI, § 1132(b)][/us/pl/100/180/s1132/b], (c), Dec. 4, 1987, [101 Stat. 1152][/us/stat/101/1152], required that the first report under subsec. (a) of this section set forth the amount that had been requested in the President’s budget for each of the five previous fiscal years for special access programs of the Department of Defense and the amount appropriated for each such year for such programs, and required that the first report under subsec. (b) of this section cover existing special access programs.
+    [Pub. L. 100–180, div. A, title XI][/us/pl/100/180/dA/tXI], § 1132(b), (c), Dec. 4, 1987, [101 Stat. 1152][/us/stat/101/1152], required that the first report under subsec. (a) of this section set forth the amount that had been requested in the President’s budget for each of the five previous fiscal years for special access programs of the Department of Defense and the amount appropriated for each such year for such programs, and required that the first report under subsec. (b) of this section cover existing special access programs.
 
 ----------
 
@@ -139,29 +139,29 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/100/180/s1132/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1132%2Fa%2F1
+[/us/pl/100/180/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXI
 [/us/stat/101/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1151
-[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1698
-[/us/pl/104/106/s1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1055
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F442
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/107/107/s1048/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fa%2F2
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1222
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/104/106/s1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1055
-[/us/pl/104/106/s1502/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F4
-[/us/pl/101/510/s1461/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1461%2Fa
-[/us/pl/101/510/s1482/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1482%2Fa%2F2
-[/us/pl/101/510/s1461/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1461%2Fb
-[/us/pl/101/510/s1482/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1482%2Fa%2F1
-[/us/pl/101/510/s1482/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1482%2Fd
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1710
 [/us/usc/t10/s2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2214
 [/us/usc/t10/s1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1584
-[/us/pl/100/180/s1132/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1132%2Fb
+[/us/pl/100/180/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXI
 [/us/stat/101/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1152
 
 

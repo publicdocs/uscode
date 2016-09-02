@@ -59,15 +59,15 @@
 
     Not later than January 1 of each year, the Secretary of each military department shall submit to the Under Secretary of Defense for Acquisition, Technology, and Logistics a report describing how the Secretary fulfilled the objectives of this section in the preceding calendar year. The report shall include information on the reservation of acquisition billets for general officers and flag officers within the department concerned.
 
-(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 834(a)(1), Oct. 14, 2008, [122 Stat. 4535][/us/stat/122/4535]; amended [Pub. L. 114–92, div. A, title VIII, § 842][/us/pl/114/92/s842], Nov. 25, 2015, [129 Stat. 914][/us/stat/129/914].)
+(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 834(a)(1), Oct. 14, 2008, [122 Stat. 4535][/us/stat/122/4535]; amended [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 842, Nov. 25, 2015, [129 Stat. 914][/us/stat/129/914].)
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–92, § 842(a)][/us/pl/114/92/s842/a], inserted “, in collaboration with the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, and the Commandant of the Marine Corps (with respect to the Army, Navy, Air Force, and Marine Corps, respectively),” after “military department)”.
+    2015—Subsec. (a). [Pub. L. 114–92][/us/pl/114/92], § 842(a), inserted “, in collaboration with the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, and the Commandant of the Marine Corps (with respect to the Army, Navy, Air Force, and Marine Corps, respectively),” after “military department)”.
 
-    Subsec. (b)(1). [Pub. L. 114–92, § 842(b)(2)][/us/pl/114/92/s842/b/2], inserted “single-track” before “career path”.
+    Subsec. (b)(1). [Pub. L. 114–92][/us/pl/114/92], § 842(b)(2), inserted “single-track” before “career path”.
 
-    Subsec. (b)(2) to (4). [Pub. L. 114–92, § 842(b)(1)][/us/pl/114/92/s842/b/1], (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+    Subsec. (b)(2) to (4). [Pub. L. 114–92][/us/pl/114/92], § 842(b)(1), (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 ----------
 
@@ -79,10 +79,10 @@
 [/us/usc/t10/s1722/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1722%2Fb
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4535
-[/us/pl/114/92/s842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs842
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F914
-[/us/pl/114/92/s842/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs842%2Fa
-[/us/pl/114/92/s842/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs842%2Fb%2F2
-[/us/pl/114/92/s842/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs842%2Fb%2F1
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 
 

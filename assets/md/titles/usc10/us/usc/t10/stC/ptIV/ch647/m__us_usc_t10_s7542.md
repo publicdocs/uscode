@@ -19,7 +19,7 @@
 
     (b) A fair proportionate allotment of clothing to be sold under this section shall be set aside for distribution in each State and the District of Columbia. An allotment so set aside may not be sold for other distribution until at least 30 days after the allotment was made.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 465][/us/stat/70A/465]; [Pub. L. 96–513, title V, § 513(39)][/us/pl/96/513/s513/39], Dec. 12, 1980, [94 Stat. 2934][/us/stat/94/2934]; [Pub. L. 107–217, § 3(b)(33)][/us/pl/107/217/s3/b/33], Aug. 21, 2002, [116 Stat. 1297][/us/stat/116/1297].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 465][/us/stat/70A/465]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(39), Dec. 12, 1980, [94 Stat. 2934][/us/stat/94/2934]; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(33), Aug. 21, 2002, [116 Stat. 1297][/us/stat/116/1297].)
 
 <table>
 
@@ -89,9 +89,9 @@ Dec. 23, 1932, ch. 8, 47 Stat. 751; Oct. 31, 1951, ch. 654, § 2(22), 65 Stat.
 [/us/usc/t40/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs121
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F465
-[/us/pl/96/513/s513/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F39
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2934
-[/us/pl/107/217/s3/b/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F33
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1297
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs121

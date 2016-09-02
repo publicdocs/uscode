@@ -45,17 +45,17 @@
 
         (2) The Secretary shall ensure compliance with standards and guidelines prescribed under paragraph (1) by each physical evaluation board at least once every three years.
 
-(Added [Pub. L. 109–364, div. A, title V, § 597(a)(1)][/us/pl/109/364/s597/a/1], Oct. 17, 2006, [120 Stat. 2236][/us/stat/120/2236].)
+(Added [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 597(a)(1), Oct. 17, 2006, [120 Stat. 2236][/us/stat/120/2236].)
 
  __Effective Date__ 
 
-[Pub. L. 109–364, div. A, title V, § 597(b)][/us/pl/109/364/s597/b], Oct. 17, 2006, [120 Stat. 2237][/us/stat/120/2237], provided that: 
+[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 597(b), Oct. 17, 2006, [120 Stat. 2237][/us/stat/120/2237], provided that: 
 
 > “[Section 1222 of title 10][/us/usc/t10/s1222], United States Code, as added by subsection (a), shall apply with respect to decisions rendered on cases commenced more than 120 days after the date of the enactment of this Act \[Oct. 17, 2006\].”
 
  __Quality Review of Medical Evaluation Boards, Physical Evaluation Boards, and Physical Evaluation Board Liaison Officers__ 
 
-[Pub. L. 112–239, div. A, title V, § 524][/us/pl/112/239/s524], Jan. 2, 2013, [126 Stat. 1723][/us/stat/126/1723], provided that:
+[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 524, Jan. 2, 2013, [126 Stat. 1723][/us/stat/126/1723], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -102,12 +102,12 @@
 ----------
 ----------
 
-[/us/pl/109/364/s597/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs597%2Fa%2F1
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2236
-[/us/pl/109/364/s597/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs597%2Fb
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2237
 [/us/usc/t10/s1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1222
-[/us/pl/112/239/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs524
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1723
 
 

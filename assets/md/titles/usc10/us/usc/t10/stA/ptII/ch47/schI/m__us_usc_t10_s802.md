@@ -95,7 +95,7 @@
 
     (e) The provisions of this section are subject to [section 876b(d)(2) of this title][/us/usc/t10/s876b/d/2] (article 76b(d)(2)).
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 37][/us/stat/70A/37]; [Pub. L. 86–70, § 6(b)][/us/pl/86/70/s6/b], June 25, 1959, [73 Stat. 142][/us/stat/73/142]; [Pub. L. 86–624, § 4(b)][/us/pl/86/624/s4/b], July 12, 1960, [74 Stat. 411][/us/stat/74/411]; [Pub. L. 87–651, title I, § 104][/us/pl/87/651/s104], Sept. 7, 1962, [76 Stat. 508][/us/stat/76/508]; [Pub. L. 89–718, § 8(a)][/us/pl/89/718/s8/a], Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117]; [Pub. L. 96–107, title VIII, § 801(a)][/us/pl/96/107/s801/a], Nov. 9, 1979, [93 Stat. 810][/us/stat/93/810]; [Pub. L. 96–513, title V, § 511(24)][/us/pl/96/513/s511/24], Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922]; [Pub. L. 98–209, § 13(a)][/us/pl/98/209/s13/a], Dec. 6, 1983, [97 Stat. 1408][/us/stat/97/1408]; [Pub. L. 99–661, div. A, title VIII, § 804(a)][/us/pl/99/661/s804/a], Nov. 14, 1986, [100 Stat. 3906][/us/stat/100/3906]; [Pub. L. 100–456, div. A, title XII, § 1234(a)(1)][/us/pl/100/456/s1234/a/1], Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 104–106, div. A, title XI, § 1133(b)][/us/pl/104/106/s1133/b], Feb. 10, 1996, [110 Stat. 466][/us/stat/110/466]; [Pub. L. 109–364, div. A, title V, § 552][/us/pl/109/364/s552], Oct. 17, 2006, [120 Stat. 2217][/us/stat/120/2217]; [Pub. L. 109–366, § 4(a)(1)][/us/pl/109/366/s4/a/1], Oct. 17, 2006, [120 Stat. 2631][/us/stat/120/2631]; [Pub. L. 111–84, div. A, title XVIII, § 1803(a)(1)][/us/pl/111/84/s1803/a/1], Oct. 28, 2009, [123 Stat. 2612][/us/stat/123/2612]; [Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(A)][/us/pl/113/66/s1702/c/3/A], Dec. 26, 2013, [127 Stat. 957][/us/stat/127/957].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 37][/us/stat/70A/37]; [Pub. L. 86–70][/us/pl/86/70], § 6(b), June 25, 1959, [73 Stat. 142][/us/stat/73/142]; [Pub. L. 86–624][/us/pl/86/624], § 4(b), July 12, 1960, [74 Stat. 411][/us/stat/74/411]; [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 104, Sept. 7, 1962, [76 Stat. 508][/us/stat/76/508]; [Pub. L. 89–718][/us/pl/89/718], § 8(a), Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117]; [Pub. L. 96–107, title VIII][/us/pl/96/107/tVIII], § 801(a), Nov. 9, 1979, [93 Stat. 810][/us/stat/93/810]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(24), Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922]; [Pub. L. 98–209][/us/pl/98/209], § 13(a), Dec. 6, 1983, [97 Stat. 1408][/us/stat/97/1408]; [Pub. L. 99–661, div. A, title VIII][/us/pl/99/661/dA/tVIII], § 804(a), Nov. 14, 1986, [100 Stat. 3906][/us/stat/100/3906]; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1234(a)(1), Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 104–106, div. A, title XI][/us/pl/104/106/dA/tXI], § 1133(b), Feb. 10, 1996, [110 Stat. 466][/us/stat/110/466]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 552, Oct. 17, 2006, [120 Stat. 2217][/us/stat/120/2217]; [Pub. L. 109–366][/us/pl/109/366], § 4(a)(1), Oct. 17, 2006, [120 Stat. 2631][/us/stat/120/2631]; [Pub. L. 111–84, div. A, title XVIII][/us/pl/111/84/dA/tXVIII], § 1803(a)(1), Oct. 28, 2009, [123 Stat. 2612][/us/stat/123/2612]; [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1702(c)(3)(A), Dec. 26, 2013, [127 Stat. 957][/us/stat/127/957].)
 
 <table>
 
@@ -229,13 +229,13 @@ For information regarding constitutionality of certain provisions of section 1 (
 
     1988—Subsec. (a)(11), (12). [Pub. L. 100–456][/us/pl/100/456] struck out “the Canal Zone,” before “the Commonwealth”.
 
-    1986—Subsec. (a)(3). [Pub. L. 99–661, § 804(a)(1)][/us/pl/99/661/s804/a/1], substituted “on inactive-duty training, but in the case of members of the Army National Guard of the United States or the Air National Guard of the United States only when in Federal service” for “they are on inactive duty training authorized by written orders which are voluntarily accepted by them and which specify that they are subject to this chapter”.
+    1986—Subsec. (a)(3). [Pub. L. 99–661][/us/pl/99/661], § 804(a)(1), substituted “on inactive-duty training, but in the case of members of the Army National Guard of the United States or the Air National Guard of the United States only when in Federal service” for “they are on inactive duty training authorized by written orders which are voluntarily accepted by them and which specify that they are subject to this chapter”.
 
-    Subsec. (d). [Pub. L. 99–661, § 804(a)(2)][/us/pl/99/661/s804/a/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 99–661][/us/pl/99/661], § 804(a)(2), added subsec. (d).
 
-    1983—Subsec. (a)(11), (12). [Pub. L. 98–209, § 13(a)(1)][/us/pl/98/209/s13/a/1], substituted “outside the Canal Zone” for “outside the following: the Canal Zone” and inserted “the Commonwealth of” before “Puerto Rico”.
+    1983—Subsec. (a)(11), (12). [Pub. L. 98–209][/us/pl/98/209], § 13(a)(1), substituted “outside the Canal Zone” for “outside the following: the Canal Zone” and inserted “the Commonwealth of” before “Puerto Rico”.
 
-    Subsec. (b). [Pub. L. 98–209, § 13(a)(2)][/us/pl/98/209/s13/a/2], struck out “of this section” after “subsection (a)”.
+    Subsec. (b). [Pub. L. 98–209][/us/pl/98/209], § 13(a)(2), struck out “of this section” after “subsection (a)”.
 
     1980—Subsec. (a)(8). [Pub. L. 96–513][/us/pl/96/513] substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
@@ -251,19 +251,19 @@ For information regarding constitutionality of certain provisions of section 1 (
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 113–66, div. A, title XVII, § 1702(d)(1)][/us/pl/113/66/s1702/d/1], Dec. 26, 2013, [127 Stat. 958][/us/stat/127/958], as amended by [Pub. L. 113–291, div. A, title V, § 531(g)(1)][/us/pl/113/291/s531/g/1], Dec. 19, 2014, [128 Stat. 3365][/us/stat/128/3365], provided that: 
+[Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1702(d)(1), Dec. 26, 2013, [127 Stat. 958][/us/stat/127/958], as amended by [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 531(g)(1), Dec. 19, 2014, [128 Stat. 3365][/us/stat/128/3365], provided that: 
 
 > “The amendments made by subsections (a) and (c)(3) \[amending this section and sections 832, 834, 838, 847, and 948b of this title\] shall take effect on the later of December 26, 2014, or the date of the enactment of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 \[Dec. 19, 2014\] and shall apply with respect to preliminary hearings conducted on or after that effective date.”
 
-    \[[Pub. L. 113–291, div. A, title V, § 531(g)(1)][/us/pl/113/291/s531/g/1], Dec. 19, 2014, [128 Stat. 3365][/us/stat/128/3365], provided that the amendment by section 531(g)(1) to [section 1702(d)(1) of Pub. L. 113–66][/us/pl/113/66/s1702/d/1], set out above, is effective as of Dec. 26, 2013, and as if included in [section 1702(d)(1) of Pub. L. 113–66][/us/pl/113/66/s1702/d/1], as enacted.\]”
+    \[[Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 531(g)(1), Dec. 19, 2014, [128 Stat. 3365][/us/stat/128/3365], provided that the amendment by section 531(g)(1) to [section 1702(d)(1) of Pub. L. 113–66][/us/pl/113/66/s1702/d/1], set out above, is effective as of Dec. 26, 2013, and as if included in [section 1702(d)(1) of Pub. L. 113–66][/us/pl/113/66/s1702/d/1], as enacted.\]”
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–661, div. A, title VIII, § 804(e)][/us/pl/99/661/s804/e], Nov. 14, 1986, [100 Stat. 3908][/us/stat/100/3908], provided that: 
+[Pub. L. 99–661, div. A, title VIII][/us/pl/99/661/dA/tVIII], § 804(e), Nov. 14, 1986, [100 Stat. 3908][/us/stat/100/3908], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 803 of this title][/us/usc/t10/s803]\] shall apply only to an offense committed on or after the effective date of this title \[see [section 808 of Pub. L. 99–661][/us/pl/99/661/s808], set out below\].”
 
-[Pub. L. 99–661, div. A, title VIII, § 808][/us/pl/99/661/s808], Nov. 14, 1986, [100 Stat. 3909][/us/stat/100/3909], provided that: 
+[Pub. L. 99–661, div. A, title VIII][/us/pl/99/661/dA/tVIII], § 808, Nov. 14, 1986, [100 Stat. 3909][/us/stat/100/3909], provided that: 
 
 > “Except as provided in sections 802(b), 805(c), and 807(b) \[set out as notes under sections 850a, 843, and 806, respectively, of this title\], this title and the amendments made by this title \[enacting [section 850a of this title][/us/usc/t10/s850a], amending this section and sections 803, 806, 825, 843, 860, 936, and 937 of this title, and enacting provisions set out as notes under this section and sections 801, 806, 825, 843, 850a, and 860 of this title\] shall take effect on the earlier of—
 
@@ -281,7 +281,7 @@ For information regarding constitutionality of certain provisions of section 1 (
 
  __Repeals__ 
 
-    The directory language of, but not the amendment made by, [Pub. L. 89–718, § 8(a)][/us/pl/89/718/s8/a], Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117], cited as a credit to this section, was repealed by [Pub. L. 97–295, § 6(b)][/us/pl/97/295/s6/b], Oct. 12, 1982, [96 Stat. 1314][/us/stat/96/1314].
+    The directory language of, but not the amendment made by, [Pub. L. 89–718][/us/pl/89/718], § 8(a), Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117], cited as a credit to this section, was repealed by [Pub. L. 97–295][/us/pl/97/295], § 6(b), Oct. 12, 1982, [96 Stat. 1314][/us/stat/96/1314].
 
  __Transfer of Functions__ 
 
@@ -291,13 +291,13 @@ For information regarding constitutionality of certain provisions of section 1 (
 
  __Applicability of Uniform Code of Military Justice to Members of the Armed Forces Ordered to Duty Overseas in Inactive Duty for Training Status__ 
 
-[Pub. L. 109–364, div. A, title V, § 551][/us/pl/109/364/s551], Oct. 17, 2006, [120 Stat. 2217][/us/stat/120/2217], provided that: 
+[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 551, Oct. 17, 2006, [120 Stat. 2217][/us/stat/120/2217], provided that: 
 
 > “Not later than March 1, 2007, the Secretaries of the military departments shall prescribe regulations, or amend current regulations, in order to provide that members of the Armed Forces who are ordered to duty at locations overseas in an inactive duty for training status are subject to the jurisdiction of the Uniform Code of Military Justice, pursuant to the provisions of [section 802(a)(3) of title 10][/us/usc/t10/s802/a/3], United States Code (article 2(a)(3) of the Uniform Code of Military Justice), continuously from the commencement of execution of such orders to the conclusion of such orders.”
 
  __Advisory Committee on Criminal Law Jurisdiction Over Civilians Accompanying Armed Forces in Time of Armed Conflict__ 
 
-    [Pub. L. 104–106, div. A, title XI, § 1151][/us/pl/104/106/s1151], Feb. 10, 1996, [110 Stat. 467][/us/stat/110/467], directed the Secretary of Defense and the Attorney General, not later than 45 days after Feb. 10, 1996, to jointly appoint an advisory committee to review and make recommendations concerning the appropriate forum for criminal jurisdiction over civilians accompanying the Armed Forces outside the United States in time of armed conflict, directed the committee to transmit to the Secretary of Defense and the Attorney General a report setting forth its findings and recommendations not later than Dec. 15, 1996, directed the Secretary of Defense and the Attorney General to jointly transmit the report of the committee to Congress not later than Jan. 15, 1997, and provided that the committee would terminate 30 days after the date on which the report had been submitted to Congress.
+    [Pub. L. 104–106, div. A, title XI][/us/pl/104/106/dA/tXI], § 1151, Feb. 10, 1996, [110 Stat. 467][/us/stat/110/467], directed the Secretary of Defense and the Attorney General, not later than 45 days after Feb. 10, 1996, to jointly appoint an advisory committee to review and make recommendations concerning the appropriate forum for criminal jurisdiction over civilians accompanying the Armed Forces outside the United States in time of armed conflict, directed the committee to transmit to the Secretary of Defense and the Attorney General a report setting forth its findings and recommendations not later than Dec. 15, 1996, directed the Secretary of Defense and the Attorney General to jointly transmit the report of the committee to Congress not later than Jan. 15, 1997, and provided that the committee would terminate 30 days after the date on which the report had been submitted to Congress.
 
  __Ex. Ord. No. 10631. Code of Conduct for Members of the Armed Forces__ 
 
@@ -347,33 +347,33 @@ For information regarding constitutionality of certain provisions of section 1 (
 [/us/usc/t10/s876b/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs876b%2Fd%2F2
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F37
-[/us/pl/86/70/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs6%2Fb
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F142
-[/us/pl/86/624/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs4%2Fb
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F411
-[/us/pl/87/651/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs104
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F508
-[/us/pl/89/718/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs8%2Fa
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1117
-[/us/pl/96/107/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs801%2Fa
+[/us/pl/96/107/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2FtVIII
 [/us/stat/93/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F810
-[/us/pl/96/513/s511/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F24
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2922
-[/us/pl/98/209/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs13%2Fa
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1408
-[/us/pl/99/661/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs804%2Fa
+[/us/pl/99/661/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVIII
 [/us/stat/100/3906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3906
-[/us/pl/100/456/s1234/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fa%2F1
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
-[/us/pl/104/106/s1133/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1133%2Fb
+[/us/pl/104/106/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXI
 [/us/stat/110/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F466
-[/us/pl/109/364/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs552
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2217
-[/us/pl/109/366/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs4%2Fa%2F1
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/stat/120/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2631
-[/us/pl/111/84/s1803/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1803%2Fa%2F1
+[/us/pl/111/84/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXVIII
 [/us/stat/123/2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2612
-[/us/pl/113/66/s1702/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fc%2F3%2FA
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F957
 [/us/usc/t10/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F1
 [/us/act/1950-05-05/ch169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-05%2Fch169
@@ -384,29 +384,29 @@ For information regarding constitutionality of certain provisions of section 1 (
 [/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
-[/us/pl/99/661/s804/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs804%2Fa%2F1
-[/us/pl/99/661/s804/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs804%2Fa%2F2
-[/us/pl/98/209/s13/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs13%2Fa%2F1
-[/us/pl/98/209/s13/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs13%2Fa%2F2
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/pl/87/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
-[/us/pl/113/66/s1702/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fd%2F1
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F958
-[/us/pl/113/291/s531/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fg%2F1
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3365
-[/us/pl/113/291/s531/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fg%2F1
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3365
 [/us/pl/113/66/s1702/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fd%2F1
 [/us/pl/113/66/s1702/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fd%2F1
-[/us/pl/99/661/s804/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs804%2Fe
+[/us/pl/99/661/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVIII
 [/us/stat/100/3908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3908
 [/us/usc/t10/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs803
 [/us/pl/99/661/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs808
-[/us/pl/99/661/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs808
+[/us/pl/99/661/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVIII
 [/us/stat/100/3909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3909
 [/us/usc/t10/s850a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs850a
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
@@ -415,16 +415,16 @@ For information regarding constitutionality of certain provisions of section 1 (
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/89/718/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs8%2Fa
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1117
-[/us/pl/97/295/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs6%2Fb
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1314
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/pl/109/364/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs551
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2217
 [/us/usc/t10/s802/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs802%2Fa%2F3
-[/us/pl/104/106/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1151
+[/us/pl/104/106/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXI
 [/us/stat/110/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F467
 
 

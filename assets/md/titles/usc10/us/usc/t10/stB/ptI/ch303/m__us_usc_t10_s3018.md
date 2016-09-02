@@ -21,7 +21,7 @@
 
     (c) The Secretary may authorize the Administrative Assistant to sign, during the temporary absence of the Secretary, any paper requiring his signature. In such a case, the Administrative Assistant’s signature has the same effect as the Secretary’s signature.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 159][/us/stat/70A/159], § 3016; renumbered § 3018, [Pub. L. 99–433, title V, § 501(a)(3)][/us/pl/99/433/s501/a/3], Oct. 1, 1986, [100 Stat. 1034][/us/stat/100/1034].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 159][/us/stat/70A/159], § 3016; renumbered § 3018, [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 501(a)(3), Oct. 1, 1986, [100 Stat. 1034][/us/stat/100/1034].)
 
 <table>
 
@@ -103,7 +103,7 @@ Mar. 4, 1874, ch. 44, 18 Stat. 19.  </td>
 
  __Prior Provisions__ 
 
-    A prior section 3018, added [Pub. L. 85–861, § 1(59)(A)][/us/pl/85/861/s1/59/A], Sept. 2, 1958, [72 Stat. 1462][/us/stat/72/1462], prescribed compensation of General Counsel of Department of the Army, prior to repeal by [Pub. L. 88–426, title III, § 305(40)(A)][/us/pl/88/426/s305/40/A], Aug. 14, 1964, [78 Stat. 427][/us/stat/78/427], eff. first day of first pay period beginning on or after July 1, 1964.
+    A prior section 3018, added [Pub. L. 85–861][/us/pl/85/861], § 1(59)(A), Sept. 2, 1958, [72 Stat. 1462][/us/stat/72/1462], prescribed compensation of General Counsel of Department of the Army, prior to repeal by [Pub. L. 88–426, title III][/us/pl/88/426/tIII], § 305(40)(A), Aug. 14, 1964, [78 Stat. 427][/us/stat/78/427], eff. first day of first pay period beginning on or after July 1, 1964.
 
 ----------
 
@@ -114,11 +114,11 @@ Mar. 4, 1874, ch. 44, 18 Stat. 19.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F159
-[/us/pl/99/433/s501/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs501%2Fa%2F3
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1034
-[/us/pl/85/861/s1/59/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F59%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1462
-[/us/pl/88/426/s305/40/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs305%2F40%2FA
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F427
 
 

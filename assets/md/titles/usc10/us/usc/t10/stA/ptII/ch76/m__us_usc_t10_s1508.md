@@ -31,7 +31,7 @@
 
     Appeals from a decision of the district court shall be taken to the appropriate United States court of appeals and to the Supreme Court as provided by law.
 
-(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)][/us/pl/104/106/s569/b/1], Feb. 10, 1996, [110 Stat. 348][/us/stat/110/348].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 569(b)(1), Feb. 10, 1996, [110 Stat. 348][/us/stat/110/348].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t5/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706
 [/us/usc/t10/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1509
-[/us/pl/104/106/s569/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fb%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F348
 
 

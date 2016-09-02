@@ -31,7 +31,7 @@
 
             (B) in the case of an officer who has accepted an accession bonus or executed a contract or agreement for the multiyear receipt of special pay for service in the armed forces, the period of obligated service specified in such contract or agreement.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 27][/us/stat/70A/27]; [Pub. L. 85–861][/us/pl/85/861], §§ 1(12), 36B(3), Sept. 2, 1958, [72 Stat. 1440][/us/stat/72/1440], 1570; [Pub. L. 89–718, § 5][/us/pl/89/718/s5], Nov. 2, 1966, [80 Stat. 1115][/us/stat/80/1115]; [Pub. L. 95–79, title VIII, § 803(a)][/us/pl/95/79/s803/a], July 30, 1977, [91 Stat. 333][/us/stat/91/333]; [Pub. L. 96–107, title VIII, § 805(b)][/us/pl/96/107/s805/b], Nov. 9, 1979, [93 Stat. 813][/us/stat/93/813]; [Pub. L. 96–513, title V, § 511(18)][/us/pl/96/513/s511/18], Dec. 12, 1980, [94 Stat. 2921][/us/stat/94/2921]; [Pub. L. 98–94, title X, § 1022(b)(1)][/us/pl/98/94/s1022/b/1], Sept. 24, 1983, [97 Stat. 670][/us/stat/97/670]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 110–181, div. A, title V, § 505][/us/pl/110/181/s505], Jan. 28, 2008, [122 Stat. 96][/us/stat/122/96].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 27][/us/stat/70A/27]; [Pub. L. 85–861][/us/pl/85/861], §§ 1(12), 36B(3), Sept. 2, 1958, [72 Stat. 1440][/us/stat/72/1440], 1570; [Pub. L. 89–718][/us/pl/89/718], § 5, Nov. 2, 1966, [80 Stat. 1115][/us/stat/80/1115]; [Pub. L. 95–79, title VIII][/us/pl/95/79/tVIII], § 803(a), July 30, 1977, [91 Stat. 333][/us/stat/91/333]; [Pub. L. 96–107, title VIII][/us/pl/96/107/tVIII], § 805(b), Nov. 9, 1979, [93 Stat. 813][/us/stat/93/813]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(18), Dec. 12, 1980, [94 Stat. 2921][/us/stat/94/2921]; [Pub. L. 98–94, title X][/us/pl/98/94/tX], § 1022(b)(1), Sept. 24, 1983, [97 Stat. 670][/us/stat/97/670]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 505, Jan. 28, 2008, [122 Stat. 96][/us/stat/122/96].)
 
 <table>
 
@@ -165,9 +165,9 @@ Aug. 9, 1955, ch. 665, § 3(a) (last sentence), 69 Stat. 603.  </td>
 
     1966—Subsec. (a). [Pub. L. 89–718][/us/pl/89/718] struck out reference to persons who enlisted under [section 1013 of title 50][/us/usc/t50/s1013] in the description of persons not required to serve in the armed forces for a total of six years.
 
-    1958—Subsec. (a). [Pub. L. 85–861, § 1(12)][/us/pl/85/861/s1/12], restricted section to male persons who became members of the armed forces after Aug. 9, 1955, excluded persons enlisted under [section 1013 of Title 50][/us/usc/t50/s1013] or deferred under the next to last sentence of [section 456(d)(1) of Title 50][/us/usc/t50/s456/d/1], Appendix, reduced from eight to six years the required period of service, required any part of such service that is not active duty or is active duty for training to be performed in a reserve component, and struck out provisions which permitted members of the armed forces to count service in the National Security Training Corps as if it were service in the armed forces for the purposes of this subsection.
+    1958—Subsec. (a). [Pub. L. 85–861][/us/pl/85/861], § 1(12), restricted section to male persons who became members of the armed forces after Aug. 9, 1955, excluded persons enlisted under [section 1013 of Title 50][/us/usc/t50/s1013] or deferred under the next to last sentence of [section 456(d)(1) of Title 50][/us/usc/t50/s456/d/1], Appendix, reduced from eight to six years the required period of service, required any part of such service that is not active duty or is active duty for training to be performed in a reserve component, and struck out provisions which permitted members of the armed forces to count service in the National Security Training Corps as if it were service in the armed forces for the purposes of this subsection.
 
-    Subsec. (c). [Pub. L. 85–861, § 36B(3)][/us/pl/85/861/s36B/3], repealed subsec. (c) which required members released from active duty to become members of an organized unit of a reserve component of an officers’ training program.
+    Subsec. (c). [Pub. L. 85–861][/us/pl/85/861], § 36B(3), repealed subsec. (c) which required members released from active duty to become members of an organized unit of a reserve component of an officers’ training program.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -175,7 +175,7 @@ Aug. 9, 1955, ch. 665, § 3(a) (last sentence), 69 Stat. 603.  </td>
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 98–94, title X, § 1022(b)(2)][/us/pl/98/94/s1022/b/2], Sept. 24, 1983, [97 Stat. 671][/us/stat/97/671], provided that: 
+[Pub. L. 98–94, title X][/us/pl/98/94/tX], § 1022(b)(2), Sept. 24, 1983, [97 Stat. 671][/us/stat/97/671], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to persons who enter the Armed Forces 60 or more days after the date of the enactment of this Act \[Sept. 24, 1983\].”
 
@@ -189,7 +189,7 @@ Aug. 9, 1955, ch. 665, § 3(a) (last sentence), 69 Stat. 603.  </td>
 
  __Effective Date of 1977 Amendment__ 
 
-[Pub. L. 95–79, title VIII, § 803(b)][/us/pl/95/79/s803/b], July 30, 1977, [91 Stat. 333][/us/stat/91/333], provided that: 
+[Pub. L. 95–79, title VIII][/us/pl/95/79/tVIII], § 803(b), July 30, 1977, [91 Stat. 333][/us/stat/91/333], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on the first day of the seventh calendar month beginning after the month in which this Act is enacted \[July 1977\] and shall apply to any female person who becomes a member of an Armed Force on or after such day.”
 
@@ -204,19 +204,19 @@ Aug. 9, 1955, ch. 665, § 3(a) (last sentence), 69 Stat. 603.  </td>
 [/us/stat/70A/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F27
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1440
-[/us/pl/89/718/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs5
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1115
-[/us/pl/95/79/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2Fs803%2Fa
+[/us/pl/95/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2FtVIII
 [/us/stat/91/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F333
-[/us/pl/96/107/s805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs805%2Fb
+[/us/pl/96/107/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2FtVIII
 [/us/stat/93/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F813
-[/us/pl/96/513/s511/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F18
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2921
-[/us/pl/98/94/s1022/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1022%2Fb%2F1
+[/us/pl/98/94/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtX
 [/us/stat/97/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F670
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/110/181/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs505
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F96
 [/us/usc/t50/s3806/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3806%2Fd%2F1
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
@@ -228,14 +228,14 @@ Aug. 9, 1955, ch. 665, § 3(a) (last sentence), 69 Stat. 603.  </td>
 [/us/pl/95/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/usc/t50/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1013
-[/us/pl/85/861/s1/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F12
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/usc/t50/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1013
 [/us/usc/t50/s456/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs456%2Fd%2F1
-[/us/pl/85/861/s36B/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs36B%2F3
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/98/94/s1022/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1022%2Fb%2F2
+[/us/pl/98/94/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtX
 [/us/stat/97/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F671
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
@@ -243,7 +243,7 @@ Aug. 9, 1955, ch. 665, § 3(a) (last sentence), 69 Stat. 603.  </td>
 [/us/pl/96/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107
 [/us/pl/96/107/s805/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs805%2Fc
 [/us/usc/t10/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs511
-[/us/pl/95/79/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2Fs803%2Fb
+[/us/pl/95/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2FtVIII
 [/us/stat/91/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F333
 
 

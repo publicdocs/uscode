@@ -39,11 +39,11 @@
 
         (3) The Secretary shall establish guidelines under which members of the armed forces who are determined by an independent expert panel to be experiencing unexplained adverse reactions may obtain access to a Department of Defense Center of Excellence treatment facility for expedited treatment and follow up.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 751(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–193.)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 751(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–193.)
 
  __Deadlines for Establishment and Implementation__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 751(e)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–195, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 751(e)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–195, provided that: 
 
 > “The Secretary of Defense shall—
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1110
 

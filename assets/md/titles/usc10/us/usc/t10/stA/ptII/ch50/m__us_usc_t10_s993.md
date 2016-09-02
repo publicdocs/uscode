@@ -51,13 +51,13 @@
 
         (2) The term “military installation” means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility, which is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or Guam. Such term does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects.
 
-(Added [Pub. L. 112–81, div. B, title XXVIII, § 2864(a)][/us/pl/112/81/s2864/a], Dec. 31, 2011, [125 Stat. 1702][/us/stat/125/1702]; amended [Pub. L. 112–239, div. B, title XXVIII, § 2851][/us/pl/112/239/s2851], Jan. 2, 2013, [126 Stat. 2159][/us/stat/126/2159].)
+(Added [Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], § 2864(a), Dec. 31, 2011, [125 Stat. 1702][/us/stat/125/1702]; amended [Pub. L. 112–239, div. B, title XXVIII][/us/pl/112/239/dB/tXXVIII], § 2851, Jan. 2, 2013, [126 Stat. 2159][/us/stat/126/2159].)
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 112–239, § 2851(a)][/us/pl/112/239/s2851/a], inserted at end “In calculating the number of members to be reduced, the Secretary shall take into consideration both direct reductions and indirect reductions.”
+    2013—Subsec. (a). [Pub. L. 112–239][/us/pl/112/239], § 2851(a), inserted at end “In calculating the number of members to be reduced, the Secretary shall take into consideration both direct reductions and indirect reductions.”
 
-    Subsec. (b)(1) to (3). [Pub. L. 112–239, § 2851(b)][/us/pl/112/239/s2851/b], added pars. (1) and (2) and struck out former pars. (1) to (3), which read as follows:
+    Subsec. (b)(1) to (3). [Pub. L. 112–239][/us/pl/112/239], § 2851(b), added pars. (1) and (2) and struck out former pars. (1) to (3), which read as follows:
 
     “(1) the Secretary of Defense or the Secretary of the military department concerned notifies the Committees on Armed Services of the Senate and the House of Representatives of the proposed reduction and the number of personnel assignments affected;
 
@@ -65,11 +65,11 @@
 
     “(3) a period of 21 days has expired following submission of the notice and evaluation required under this subsection, or if sooner, a period of 14 days has expired following the date on which an electronic version of the notice and justification has been submitted to such committees.”
 
-    Subsec. (d). [Pub. L. 112–239, § 2851(c)][/us/pl/112/239/s2851/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 112–239][/us/pl/112/239], § 2851(c), added subsec. (d).
 
  __Notification of Necessary Assessments or Studies__ 
 
-[Pub. L. 113–66, div. A, title X, § 1074(b)][/us/pl/113/66/s1074/b], Dec. 26, 2013, [127 Stat. 870][/us/stat/127/870], provided that: 
+[Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1074(b), Dec. 26, 2013, [127 Stat. 870][/us/stat/127/870], provided that: 
 
 > “The Secretary of the Army, when making a congressional notification in accordance with [section 993 of title 10][/us/usc/t10/s993], United States Code, shall include the Secretary’s assessment of whether or not the changes covered by the notification require an Environmental Assessment or Environmental Impact Statement in accordance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.), and, if an assessment or study is required, the plan for conducting such assessment or study.”
 
@@ -80,14 +80,14 @@
 ----------
 ----------
 
-[/us/pl/112/81/s2864/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2864%2Fa
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1702
-[/us/pl/112/239/s2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2851
+[/us/pl/112/239/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdB%2FtXXVIII
 [/us/stat/126/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2159
-[/us/pl/112/239/s2851/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2851%2Fa
-[/us/pl/112/239/s2851/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2851%2Fb
-[/us/pl/112/239/s2851/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2851%2Fc
-[/us/pl/113/66/s1074/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1074%2Fb
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F870
 [/us/usc/t10/s993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs993
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321

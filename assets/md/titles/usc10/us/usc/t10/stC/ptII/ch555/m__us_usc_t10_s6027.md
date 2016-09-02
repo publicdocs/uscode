@@ -17,7 +17,7 @@
 
     The Medical Corps and Dental Corps, and such other staff corps as the Secretary of the Navy may establish under [section 5150(b) of this title][/us/usc/t10/s5150/b] and designate to be in the Medical Department of the Navy, are in the Medical Department of the Navy.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 377][/us/stat/70A/377]; [Pub. L. 96–513, title III, § 353][/us/pl/96/513/s353], Dec. 12, 1980, [94 Stat. 2902][/us/stat/94/2902]; [Pub. L. 99–433, title V, § 514(c)(3)][/us/pl/99/433/s514/c/3], Oct. 1, 1986, [100 Stat. 1055][/us/stat/100/1055].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 377][/us/stat/70A/377]; [Pub. L. 96–513, title III][/us/pl/96/513/tIII], § 353, Dec. 12, 1980, [94 Stat. 2902][/us/stat/94/2902]; [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 514(c)(3), Oct. 1, 1986, [100 Stat. 1055][/us/stat/100/1055].)
 
 <table>
 
@@ -139,9 +139,9 @@ Aug. 29, 1916, ch. 417 (1st par. under “Naval Dental Corps”, 75th word to en
 [/us/usc/t10/s5150/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5150%2Fb
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F377
-[/us/pl/96/513/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs353
+[/us/pl/96/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIII
 [/us/stat/94/2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2902
-[/us/pl/99/433/s514/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs514%2Fc%2F3
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1055
 [/us/usc/t34/s30a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs30a
 [/us/usc/t34/s43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs43

@@ -77,45 +77,45 @@
 
         (2) The term “stockpiled conventional munitions assistance”, as it relates to the support of humanitarian assistance efforts, means training and support in the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance, small arms, and light weapons, including man-portable air-defense systems. Such term includes activities related to the furnishing of education, training, and technical assistance with respect to explosive safety, the detection and clearance of landmines and other explosive remnants of war, and the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance, small arms, and light weapons, including man-portable air-defense systems.
 
-(Added [Pub. L. 109–364, div. A, title XII, § 1203(b)(1)][/us/pl/109/364/s1203/b/1], Oct. 17, 2006, [120 Stat. 2413][/us/stat/120/2413]; amended [Pub. L. 112–81, div. A, title X, § 1092(a)][/us/pl/112/81/s1092/a], (b)(1), Dec. 31, 2011, [125 Stat. 1605][/us/stat/125/1605], 1606; [Pub. L. 113–66, div. A, title X, § 1083][/us/pl/113/66/s1083], Dec. 26, 2013, [127 Stat. 871][/us/stat/127/871]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291], §§ 1041, 1071(f)(5), Dec. 19, 2014, [128 Stat. 3492][/us/stat/128/3492], 3510.)
+(Added [Pub. L. 109–364, div. A, title XII][/us/pl/109/364/dA/tXII], § 1203(b)(1), Oct. 17, 2006, [120 Stat. 2413][/us/stat/120/2413]; amended [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1092(a), (b)(1), Dec. 31, 2011, [125 Stat. 1605][/us/stat/125/1605], 1606; [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1083, Dec. 26, 2013, [127 Stat. 871][/us/stat/127/871]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], §§ 1041, 1071(f)(5), Dec. 19, 2014, [128 Stat. 3492][/us/stat/128/3492], 3510.)
 
  __Amendments__ 
 
-    2014—Subsec. (a)(3)(A). [Pub. L. 113–291, § 1071(f)(5)][/us/pl/113/291/s1071/f/5], struck out comma after “as applicable”.
+    2014—Subsec. (a)(3)(A). [Pub. L. 113–291][/us/pl/113/291], § 1071(f)(5), struck out comma after “as applicable”.
 
-    Subsec. (d)(3). [Pub. L. 113–291, § 1041(a)][/us/pl/113/291/s1041/a], inserted “or insufficient funding” after “such activities”.
+    Subsec. (d)(3). [Pub. L. 113–291][/us/pl/113/291], § 1041(a), inserted “or insufficient funding” after “such activities”.
 
-    Subsec. (e)(2). [Pub. L. 113–291, § 1041(b)][/us/pl/113/291/s1041/b], substituted “small arms, and light weapons, including man-portable air-defense systems. Such term includes” for “and includes” and inserted before period at end “, small arms, and light weapons, including man-portable air-defense systems”.
+    Subsec. (e)(2). [Pub. L. 113–291][/us/pl/113/291], § 1041(b), substituted “small arms, and light weapons, including man-portable air-defense systems. Such term includes” for “and includes” and inserted before period at end “, small arms, and light weapons, including man-portable air-defense systems”.
 
     2013—Subsec. (d)(5). [Pub. L. 113–66][/us/pl/113/66] added par. (5).
 
-    2011—[Pub. L. 112–81, § 1092(b)(1)][/us/pl/112/81/s1092/b/1], amended section catchline generally, substituting “Humanitarian demining assistance and stockpiled conventional munitions assistance: authority; limitations” for “Humanitarian demining assistance: authority; limitations”.
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 1092(b)(1), amended section catchline generally, substituting “Humanitarian demining assistance and stockpiled conventional munitions assistance: authority; limitations” for “Humanitarian demining assistance: authority; limitations”.
 
-    Subsec. (a)(1). [Pub. L. 112–81, § 1092(a)(1)(A)][/us/pl/112/81/s1092/a/1/A], inserted “and stockpiled conventional munitions assistance” after “humanitarian demining assistance” in introductory provisions.
+    Subsec. (a)(1). [Pub. L. 112–81][/us/pl/112/81], § 1092(a)(1)(A), inserted “and stockpiled conventional munitions assistance” after “humanitarian demining assistance” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 112–81, § 1092(a)(1)(B)][/us/pl/112/81/s1092/a/1/B], inserted “and stockpiled conventional munitions assistance” after “Humanitarian demining assistance”.
+    Subsec. (a)(2). [Pub. L. 112–81][/us/pl/112/81], § 1092(a)(1)(B), inserted “and stockpiled conventional munitions assistance” after “Humanitarian demining assistance”.
 
-    Subsec. (a)(3). [Pub. L. 112–81, § 1092(a)(1)(C)(i)][/us/pl/112/81/s1092/a/1/C/i], inserted “or stockpiled conventional munitions assistance” after “humanitarian demining assistance” in introductory provisions.
+    Subsec. (a)(3). [Pub. L. 112–81][/us/pl/112/81], § 1092(a)(1)(C)(i), inserted “or stockpiled conventional munitions assistance” after “humanitarian demining assistance” in introductory provisions.
 
-    Subsec. (a)(3)(A). [Pub. L. 112–81, § 1092(a)(1)(C)(ii)][/us/pl/112/81/s1092/a/1/C/ii], inserted “, or stockpiled conventional munitions, as applicable,” after “explosive remnants of war”.
+    Subsec. (a)(3)(A). [Pub. L. 112–81][/us/pl/112/81], § 1092(a)(1)(C)(ii), inserted “, or stockpiled conventional munitions, as applicable,” after “explosive remnants of war”.
 
-    Subsec. (b)(1). [Pub. L. 112–81, § 1092(a)(2)(A)][/us/pl/112/81/s1092/a/2/A], which directed amendment by inserting “and stockpiled conventional munitions assistance” after “humanitarian demining assistance”, was executed by making the insertion after “Humanitarian demining assistance” to reflect the probable intent of Congress.
+    Subsec. (b)(1). [Pub. L. 112–81][/us/pl/112/81], § 1092(a)(2)(A), which directed amendment by inserting “and stockpiled conventional munitions assistance” after “humanitarian demining assistance”, was executed by making the insertion after “Humanitarian demining assistance” to reflect the probable intent of Congress.
 
-    Subsec. (b)(2). [Pub. L. 112–81, § 1092(a)(2)(B)][/us/pl/112/81/s1092/a/2/B], inserted “or stockpiled conventional munitions assistance” after “humanitarian demining assistance”.
+    Subsec. (b)(2). [Pub. L. 112–81][/us/pl/112/81], § 1092(a)(2)(B), inserted “or stockpiled conventional munitions assistance” after “humanitarian demining assistance”.
 
-    Subsec. (c)(1). [Pub. L. 112–81, § 1092(a)(3)(A)][/us/pl/112/81/s1092/a/3/A], inserted “or stockpiled conventional munitions assistance” after “humanitarian demining assistance”.
+    Subsec. (c)(1). [Pub. L. 112–81][/us/pl/112/81], § 1092(a)(3)(A), inserted “or stockpiled conventional munitions assistance” after “humanitarian demining assistance”.
 
-    Subsec. (c)(2)(B). [Pub. L. 112–81, § 1092(a)(3)(B)][/us/pl/112/81/s1092/a/3/B], inserted “or stockpiled conventional munitions activities” after “humanitarian demining activities” and inserted “, or stockpiled conventional munitions, as applicable,” after “explosive remnants of war”.
+    Subsec. (c)(2)(B). [Pub. L. 112–81][/us/pl/112/81], § 1092(a)(3)(B), inserted “or stockpiled conventional munitions activities” after “humanitarian demining activities” and inserted “, or stockpiled conventional munitions, as applicable,” after “explosive remnants of war”.
 
-    Subsec. (d). [Pub. L. 112–81, § 1092(a)(4)(A)][/us/pl/112/81/s1092/a/4/A], inserted “or stockpiled conventional munitions assistance” after “humanitarian demining assistance” wherever appearing.
+    Subsec. (d). [Pub. L. 112–81][/us/pl/112/81], § 1092(a)(4)(A), inserted “or stockpiled conventional munitions assistance” after “humanitarian demining assistance” wherever appearing.
 
-    Subsec. (d)(2). [Pub. L. 112–81, § 1092(a)(4)(B)][/us/pl/112/81/s1092/a/4/B], inserted “, and whether such assistance was primarily related to the humanitarian demining efforts or stockpiled conventional munitions assistance” after “paragraph (1)”.
+    Subsec. (d)(2). [Pub. L. 112–81][/us/pl/112/81], § 1092(a)(4)(B), inserted “, and whether such assistance was primarily related to the humanitarian demining efforts or stockpiled conventional munitions assistance” after “paragraph (1)”.
 
-    Subsec. (e). [Pub. L. 112–81, § 1092(a)(5)][/us/pl/112/81/s1092/a/5], added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “In this section, the term ‘humanitarian demining assistance’, as it relates to training and support, means detection and clearance of landmines and other explosive remnants of war, including activities related to the furnishing of education, training, and technical assistance with respect to the detection and clearance of landmines and other explosive remnants of war.”
+    Subsec. (e). [Pub. L. 112–81][/us/pl/112/81], § 1092(a)(5), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “In this section, the term ‘humanitarian demining assistance’, as it relates to training and support, means detection and clearance of landmines and other explosive remnants of war, including activities related to the furnishing of education, training, and technical assistance with respect to the detection and clearance of landmines and other explosive remnants of war.”
 
  __Authority To Transfer Surplus Mine-Resistant Ambush-Protected Vehicles and Spare Parts__ 
 
-[Pub. L. 112–239, div. A, title X, § 1053][/us/pl/112/239/s1053], Jan. 2, 2013, [126 Stat. 1937][/us/stat/126/1937], provided that:
+[Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1053, Jan. 2, 2013, [126 Stat. 1937][/us/stat/126/1937], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -143,31 +143,31 @@
 ----------
 
 [/us/usc/t10/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs401
-[/us/pl/109/364/s1203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1203%2Fb%2F1
+[/us/pl/109/364/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtXII
 [/us/stat/120/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2413
-[/us/pl/112/81/s1092/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1092%2Fa
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1605
-[/us/pl/113/66/s1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1083
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F871
-[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3492
-[/us/pl/113/291/s1071/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F5
-[/us/pl/113/291/s1041/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1041%2Fa
-[/us/pl/113/291/s1041/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1041%2Fb
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/112/81/s1092/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1092%2Fb%2F1
-[/us/pl/112/81/s1092/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1092%2Fa%2F1%2FA
-[/us/pl/112/81/s1092/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1092%2Fa%2F1%2FB
-[/us/pl/112/81/s1092/a/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1092%2Fa%2F1%2FC%2Fi
-[/us/pl/112/81/s1092/a/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1092%2Fa%2F1%2FC%2Fii
-[/us/pl/112/81/s1092/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1092%2Fa%2F2%2FA
-[/us/pl/112/81/s1092/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1092%2Fa%2F2%2FB
-[/us/pl/112/81/s1092/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1092%2Fa%2F3%2FA
-[/us/pl/112/81/s1092/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1092%2Fa%2F3%2FB
-[/us/pl/112/81/s1092/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1092%2Fa%2F4%2FA
-[/us/pl/112/81/s1092/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1092%2Fa%2F4%2FB
-[/us/pl/112/81/s1092/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1092%2Fa%2F5
-[/us/pl/112/239/s1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1053
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1937
 
 

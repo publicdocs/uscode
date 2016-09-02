@@ -45,7 +45,7 @@
 
     (c) If the President establishes or designates an office, agency, activity, or command in the Department of Defense of a kind other than those described in paragraphs (1) through (9) of subsection (b), the President shall notify Congress not later than 60 days thereafter.
 
-(Added [Pub. L. 87–651, title II, § 202][/us/pl/87/651/s202], Sept. 7, 1962, [76 Stat. 517][/us/stat/76/517], § 131; renumbered § 111 and amended [Pub. L. 99–433, title I, § 101(a)(2)][/us/pl/99/433/s101/a/2], (b), Oct. 1, 1986, [100 Stat. 994][/us/stat/100/994], 995.)
+(Added [Pub. L. 87–651, title II][/us/pl/87/651/tII], § 202, Sept. 7, 1962, [76 Stat. 517][/us/stat/76/517], § 131; renumbered § 111 and amended [Pub. L. 99–433, title I][/us/pl/99/433/tI], § 101(a)(2), (b), Oct. 1, 1986, [100 Stat. 994][/us/stat/100/994], 995.)
 
 <table>
 
@@ -99,7 +99,7 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
  __Change of Name__ 
 
-[Pub. L. 104–106, div. A, title IX, § 908][/us/pl/104/106/s908], Feb. 10, 1996, [110 Stat. 406][/us/stat/110/406], provided that:
+[Pub. L. 104–106, div. A, title IX][/us/pl/104/106/dA/tIX], § 908, Feb. 10, 1996, [110 Stat. 406][/us/stat/110/406], provided that:
 
 >     “(a)  __Redesignation__  __.—__ 
 
@@ -111,7 +111,7 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–433, § 1(a)][/us/pl/99/433/s1/a], Oct. 1, 1986, [100 Stat. 992][/us/stat/100/992], provided that: 
+[Pub. L. 99–433][/us/pl/99/433], § 1(a), Oct. 1, 1986, [100 Stat. 992][/us/stat/100/992], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Goldwater-Nichols Department of Defense Reorganization Act of 1986’.”
 
@@ -123,7 +123,7 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
  __Reduction in Amounts Available for Department of Defense Headquarters, Administrative, and Support Activities__ 
 
-[Pub. L. 114–92, div. A, title III, § 346(a)][/us/pl/114/92/s346/a], (b), Nov. 25, 2015, [129 Stat. 796][/us/stat/129/796], provided that:
+[Pub. L. 114–92, div. A, title III][/us/pl/114/92/dA/tIII], § 346(a), (b), Nov. 25, 2015, [129 Stat. 796][/us/stat/129/796], provided that:
 
 >     “(a) __Plan for Achievement of Cost Savings.—__ 
 
@@ -217,7 +217,7 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
  __Termination of Requirement for Submittal to Congress of Reports Required of Department of Defense by Statute__ 
 
-[Pub. L. 114–92, div. A, title X, § 1080][/us/pl/114/92/s1080], Nov. 25, 2015, [129 Stat. 1000][/us/stat/129/1000], provided that:
+[Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1080, Nov. 25, 2015, [129 Stat. 1000][/us/stat/129/1000], provided that:
 
 >     “(a)  __Termination__  __.—__ 
 
@@ -239,7 +239,7 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
  __Streamlining of Department of Defense Management Headquarters__ 
 
-[Pub. L. 113–66, div. A, title IX, § 904][/us/pl/113/66/s904], Dec. 26, 2013, [127 Stat. 816][/us/stat/127/816], as amended by [Pub. L. 113–291, div. A, title IX, § 905(e)][/us/pl/113/291/s905/e], Dec. 19, 2014, [128 Stat. 3472][/us/stat/128/3472], provided that:
+[Pub. L. 113–66, div. A, title IX][/us/pl/113/66/dA/tIX], § 904, Dec. 26, 2013, [127 Stat. 816][/us/stat/127/816], as amended by [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 905(e), Dec. 19, 2014, [128 Stat. 3472][/us/stat/128/3472], provided that:
 
 >     “(a)  __Plan Required__  __.—__ 
 
@@ -309,7 +309,7 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
  __Military Activities in Cyberspace__ 
 
-[Pub. L. 112–81, div. A, title IX, § 954][/us/pl/112/81/s954], Dec. 31, 2011, [125 Stat. 1551][/us/stat/125/1551], provided that: 
+[Pub. L. 112–81, div. A, title IX][/us/pl/112/81/dA/tIX], § 954, Dec. 31, 2011, [125 Stat. 1551][/us/stat/125/1551], provided that: 
 
 > “Congress affirms that the Department of Defense has the capability, and upon direction by the President may conduct offensive operations in cyberspace to defend our Nation, Allies and interests, subject to—
 
@@ -319,7 +319,7 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
  __Interagency Policy Coordination__ 
 
-[Pub. L. 110–181, div. A, title IX, § 952][/us/pl/110/181/s952], Jan. 28, 2008, [122 Stat. 291][/us/stat/122/291], provided that:
+[Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 952, Jan. 28, 2008, [122 Stat. 291][/us/stat/122/291], provided that:
 
 >     “(a)  __Plan Required__  __.—__ 
 
@@ -385,19 +385,19 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
  __Commission on Review of Overseas Military Facility Structure of the United States__ 
 
-    [Pub. L. 108–132, § 128][/us/pl/108/132/s128], Nov. 22, 2003, [117 Stat. 1382][/us/stat/117/1382], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 108–324, div. A, § 127][/us/pl/108/324/s127], Oct. 13, 2004, [118 Stat. 1229][/us/stat/118/1229], established the Commission on the Review of the Overseas Military Facility Structure of the United States to conduct a thorough study of matters relating to the military facility structure of the United States overseas, directed the Commission to submit a report to the President and Congress not later than Aug. 15, 2005, and provided that the Commission would terminate 45 days after such date.
+    [Pub. L. 108–132][/us/pl/108/132], § 128, Nov. 22, 2003, [117 Stat. 1382][/us/stat/117/1382], as amended by [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 108–324, div. A][/us/pl/108/324/dA], § 127, Oct. 13, 2004, [118 Stat. 1229][/us/stat/118/1229], established the Commission on the Review of the Overseas Military Facility Structure of the United States to conduct a thorough study of matters relating to the military facility structure of the United States overseas, directed the Commission to submit a report to the President and Congress not later than Aug. 15, 2005, and provided that the Commission would terminate 45 days after such date.
 
  __Commission To Assess United States National Security Space Management and Organization__ 
 
-    [Pub. L. 106–65, div. A, title XVI][/us/pl/106/65], subtitle C, Oct. 5, 1999, [113 Stat. 813][/us/stat/113/813], as amended by [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1091\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–300, established Commission To Assess United States National Security Space Management and Organization for purpose of assessing (1) manner in which military space assets may be exploited to provide support for United States military operations, (2) current interagency coordination process regarding operation of national security space assets, (3) relationship between intelligence and nonintelligence aspects of national security space, and potential costs and benefits of partial or complete merger of programs, projects, (4) manner in which military space issues are addressed by professional military education institutions, (5) potential costs and benefits of establishing changes to existing organizational structure of Department of Defense for national security space management and organization, and (6) advisability of certain actions relating to assignment of specified officers in United States Space Command; and further provided for report to Congress and Secretary of Defense on its findings and conclusions not later than six months after first meeting, submission to Congress by Secretary of Defense of assessment of Commission’s report not later than 90 days after submission of Commission’s report, and for termination of Commission 60 days after submission of its report to Congress.
+    [Pub. L. 106–65, div. A, title XVI][/us/pl/106/65/dA/tXVI], subtitle C, Oct. 5, 1999, [113 Stat. 813][/us/stat/113/813], as amended by [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1091\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–300, established Commission To Assess United States National Security Space Management and Organization for purpose of assessing (1) manner in which military space assets may be exploited to provide support for United States military operations, (2) current interagency coordination process regarding operation of national security space assets, (3) relationship between intelligence and nonintelligence aspects of national security space, and potential costs and benefits of partial or complete merger of programs, projects, (4) manner in which military space issues are addressed by professional military education institutions, (5) potential costs and benefits of establishing changes to existing organizational structure of Department of Defense for national security space management and organization, and (6) advisability of certain actions relating to assignment of specified officers in United States Space Command; and further provided for report to Congress and Secretary of Defense on its findings and conclusions not later than six months after first meeting, submission to Congress by Secretary of Defense of assessment of Commission’s report not later than 90 days after submission of Commission’s report, and for termination of Commission 60 days after submission of its report to Congress.
 
  __Commission on National Military Museum__ 
 
-    [Pub. L. 106–65, div. B, title XXIX][/us/pl/106/65], Oct. 5, 1999, [113 Stat. 881][/us/stat/113/881], as amended by [Pub. L. 107–107, div. A, title X, § 1048(g)(9)][/us/pl/107/107/s1048/g/9], Dec. 28, 2001, [115 Stat. 1228][/us/stat/115/1228], established the Commission on the National Military Museum to conduct a study regarding construction of a national military museum in the National Capital Area, directed that appointments to the Commission be made not later than 90 days after Oct. 5, 1999, directed the Commission to convene its first meeting not later than 60 days after all appointments, directed the Commission to submit a report to Congress not later than 12 months after its first meeting, and provided for the termination of the Commission 60 days after submission of its report.
+    [Pub. L. 106–65, div. B, title XXIX][/us/pl/106/65/dB/tXXIX], Oct. 5, 1999, [113 Stat. 881][/us/stat/113/881], as amended by [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(g)(9), Dec. 28, 2001, [115 Stat. 1228][/us/stat/115/1228], established the Commission on the National Military Museum to conduct a study regarding construction of a national military museum in the National Capital Area, directed that appointments to the Commission be made not later than 90 days after Oct. 5, 1999, directed the Commission to convene its first meeting not later than 60 days after all appointments, directed the Commission to submit a report to Congress not later than 12 months after its first meeting, and provided for the termination of the Commission 60 days after submission of its report.
 
  __Prohibition on Restriction of Armed Forces Under Kyoto Protocol to United Nations Framework Convention on Climate Change__ 
 
-[Pub. L. 105–261, div. A, title XII, § 1232][/us/pl/105/261/s1232], Oct. 17, 1998, [112 Stat. 2155][/us/stat/112/2155], provided that:
+[Pub. L. 105–261, div. A, title XII][/us/pl/105/261/dA/tXII], § 1232, Oct. 17, 1998, [112 Stat. 2155][/us/stat/112/2155], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -417,7 +417,7 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
  __Applicability of Certain Pay Authorities to Members of Specified Independent Study Organizations__ 
 
-[Pub. L. 105–85, div. A, title X, § 1081][/us/pl/105/85/s1081], Nov. 18, 1997, [111 Stat. 1916][/us/stat/111/1916], provided that:
+[Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1081, Nov. 18, 1997, [111 Stat. 1916][/us/stat/111/1916], provided that:
 
 >     “(a)  __Applicability of Certain Pay Authorities__  __.—__ 
 
@@ -435,7 +435,7 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
  __Mission of White House Communications Agency__ 
 
-[Pub. L. 104–201, div. A, title IX, § 912][/us/pl/104/201/s912], Sept. 23, 1996, [110 Stat. 2623][/us/stat/110/2623], as amended by [Pub. L. 109–163, div. A, title IX, § 906][/us/pl/109/163/s906], Jan. 6, 2006, [119 Stat. 3402][/us/stat/119/3402], provided that:
+[Pub. L. 104–201, div. A, title IX][/us/pl/104/201/dA/tIX], § 912, Sept. 23, 1996, [110 Stat. 2623][/us/stat/110/2623], as amended by [Pub. L. 109–163, div. A, title IX][/us/pl/109/163/dA/tIX], § 906, Jan. 6, 2006, [119 Stat. 3402][/us/stat/119/3402], provided that:
 
 >     “(a)  __Telecommunications Support and Audiovisual Support Services__  __.—__ 
 
@@ -451,15 +451,15 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
  __Military Force Structure Review__ 
 
-    [Pub. L. 104–201, div. A, title IX][/us/pl/104/201], subtitle B, Sept. 23, 1996, [110 Stat. 2623][/us/stat/110/2623], directed Secretary of Defense, in consultation with Chairman of the Joint Chiefs of Staff, to complete in 1997 a review of defense program of United States, which was to include comprehensive examination of defense strategy, force structure, force modernization plans, infrastructure, budget plan, and other elements of defense program and policies with view toward determining and expressing defense strategy of United States and establishing revised defense program through year 2005, further established National Defense Panel to complete review and report to Secretary not later than Dec. 1, 1997, further directed Secretary to submit final report to Congress not later than Dec. 15, 1997, and provided for termination of Panel 30 days after submission of report to Secretary.
+    [Pub. L. 104–201, div. A, title IX][/us/pl/104/201/dA/tIX], subtitle B, Sept. 23, 1996, [110 Stat. 2623][/us/stat/110/2623], directed Secretary of Defense, in consultation with Chairman of the Joint Chiefs of Staff, to complete in 1997 a review of defense program of United States, which was to include comprehensive examination of defense strategy, force structure, force modernization plans, infrastructure, budget plan, and other elements of defense program and policies with view toward determining and expressing defense strategy of United States and establishing revised defense program through year 2005, further established National Defense Panel to complete review and report to Secretary not later than Dec. 1, 1997, further directed Secretary to submit final report to Congress not later than Dec. 15, 1997, and provided for termination of Panel 30 days after submission of report to Secretary.
 
  __Commission on Roles and Missions of Armed Forces__ 
 
-    [Pub. L. 103–160, div. A, title IX][/us/pl/103/160], subtitle E, Nov. 30, 1993, [107 Stat. 1738][/us/stat/107/1738], as amended by [Pub. L. 103–337, div. A, title IX, § 923(a)(1)][/us/pl/103/337/s923/a/1], (2), (b)–(d), Oct. 5, 1994, [108 Stat. 2830][/us/stat/108/2830], 2831, established the Commission on Roles and Missions of the Armed Forces to review the efficacy and appropriateness of post-Cold War era allocations of roles, missions, and functions among the Armed Forces and to evaluate and report on alternatives and make recommendations for changes, directed that appointments to the Commission be made within 45 days after Nov. 30, 1993, and that the Commission convene its first meeting within 30 days of all appointments, and thereafter submit a report not later than one year after the date of its first meeting, directed the Secretary of Defense to submit comments on the report not later than 90 days following receipt, and provided for the termination of the Commission on the last day of the sixteenth month after its first meeting or no earlier than 30 days after submission of comments by the Secretary of Defense.
+    [Pub. L. 103–160, div. A, title IX][/us/pl/103/160/dA/tIX], subtitle E, Nov. 30, 1993, [107 Stat. 1738][/us/stat/107/1738], as amended by [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 923(a)(1), (2), (b)–(d), Oct. 5, 1994, [108 Stat. 2830][/us/stat/108/2830], 2831, established the Commission on Roles and Missions of the Armed Forces to review the efficacy and appropriateness of post-Cold War era allocations of roles, missions, and functions among the Armed Forces and to evaluate and report on alternatives and make recommendations for changes, directed that appointments to the Commission be made within 45 days after Nov. 30, 1993, and that the Commission convene its first meeting within 30 days of all appointments, and thereafter submit a report not later than one year after the date of its first meeting, directed the Secretary of Defense to submit comments on the report not later than 90 days following receipt, and provided for the termination of the Commission on the last day of the sixteenth month after its first meeting or no earlier than 30 days after submission of comments by the Secretary of Defense.
 
  __Termination of Department of Defense Reporting Requirements Determined by Secretary of Defense To Be Unnecessary or Incompatible With Efficient Management of Department of Defense__ 
 
-[Pub. L. 103–160, div. A, title XI, § 1151][/us/pl/103/160/s1151], Nov. 30, 1993, [107 Stat. 1758][/us/stat/107/1758], provided that:
+[Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1151, Nov. 30, 1993, [107 Stat. 1758][/us/stat/107/1758], provided that:
 
 >     “(a)  __Termination of Report Requirements__  __.—__ 
 
@@ -487,15 +487,15 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
  __Report Provisions Previously Terminated by Goldwater-Nichols Act__ 
 
-    [Pub. L. 101–510, div. A, title XIII, § 1321][/us/pl/101/510/s1321], Nov. 5, 1990, [104 Stat. 1670][/us/stat/104/1670], provided that [section 1322 of Pub. L. 101–510][/us/pl/101/510/s1322], with respect to Goldwater-Nichols terminations, repeals certain provisions of law containing terminated report requirements and [section 1323 of Pub. L. 101–510][/us/pl/101/510/s1323], with respect to such terminations, restores effectiveness of selected other provisions of law containing such requirements and described Goldwater-Nichols terminations for purposes of such repeals or restorations.
+    [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1321, Nov. 5, 1990, [104 Stat. 1670][/us/stat/104/1670], provided that [section 1322 of Pub. L. 101–510][/us/pl/101/510/s1322], with respect to Goldwater-Nichols terminations, repeals certain provisions of law containing terminated report requirements and [section 1323 of Pub. L. 101–510][/us/pl/101/510/s1323], with respect to such terminations, restores effectiveness of selected other provisions of law containing such requirements and described Goldwater-Nichols terminations for purposes of such repeals or restorations.
 
  __Restoration of Certain Reporting Requirements of Title 10 Terminated by Goldwater-Nichols Act__ 
 
-[Pub. L. 101–510, div. A, title XIII, § 1323][/us/pl/101/510/s1323], Nov. 5, 1990, [104 Stat. 1672][/us/stat/104/1672], restored effectiveness of following report and notification provisions previously terminated by section 602(c) of the Goldwater-Nichols Department of Defense Reorganization Act of 1986, [Pub. L. 99–433][/us/pl/99/433], formerly set out below: (1) the quarterly report required by [section 127(c) of this title][/us/usc/t10/s127/c] relating to emergency and extraordinary expenses, (2) the notifications required by [section 2672a(b) of this title][/us/usc/t10/s2672a/b] relating to urgent acquisitions of interests in land, (3) the notifications required by [section 7308(c) of this title][/us/usc/t10/s7308/c] relating to the transfer or gift of obsolete, condemned, or captured vessels, and (4) the notifications required by [section 7309(b) of this title][/us/usc/t10/s7309/b] relating to construction or repair of vessels in foreign shipyards.
+[Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1323, Nov. 5, 1990, [104 Stat. 1672][/us/stat/104/1672], restored effectiveness of following report and notification provisions previously terminated by section 602(c) of the Goldwater-Nichols Department of Defense Reorganization Act of 1986, [Pub. L. 99–433][/us/pl/99/433], formerly set out below: (1) the quarterly report required by [section 127(c) of this title][/us/usc/t10/s127/c] relating to emergency and extraordinary expenses, (2) the notifications required by [section 2672a(b) of this title][/us/usc/t10/s2672a/b] relating to urgent acquisitions of interests in land, (3) the notifications required by [section 7308(c) of this title][/us/usc/t10/s7308/c] relating to the transfer or gift of obsolete, condemned, or captured vessels, and (4) the notifications required by [section 7309(b) of this title][/us/usc/t10/s7309/b] relating to construction or repair of vessels in foreign shipyards.
 
  __Goldwater-Nichols Department of Defense Reorganization Act of 1986; Congressional Declaration of Policy__ 
 
-[Pub. L. 99–433, § 3][/us/pl/99/433/s3], Oct. 1, 1986, [100 Stat. 993][/us/stat/100/993], provided that: 
+[Pub. L. 99–433][/us/pl/99/433], § 3, Oct. 1, 1986, [100 Stat. 993][/us/stat/100/993], provided that: 
 
 > “In enacting this Act \[see Short Title of 1986 Amendment note above\], it is the intent of Congress, consistent with the congressional declaration of policy in section 2 of the National Security Act of 1947 ([50 U.S.C. 401][/us/usc/t50/s401]) \[now [50 U.S.C. 3002][/us/usc/t50/s3002]\]—
 
@@ -517,27 +517,27 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
  __Reduction of Reporting Requirements__ 
 
-    [Pub. L. 99–433, title VI, § 602][/us/pl/99/433/s602], Oct. 1, 1986, [100 Stat. 1066][/us/stat/100/1066], as amended by [Pub. L. 100–180, div. A, title XIII, § 1314(a)(4)][/us/pl/100/180/s1314/a/4], Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175]; [Pub. L. 101–189, div. A, title II, § 243][/us/pl/101/189/s243], Nov. 29, 1989, [103 Stat. 1402][/us/stat/103/1402]; [Pub. L. 101–510, div. A, title XIII, § 1324][/us/pl/101/510/s1324], Nov. 5, 1990, [104 Stat. 1673][/us/stat/104/1673]; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], directed Secretary of Defense to compile a list of all provisions of law in effect on or after Oct. 1, 1986, and before Feb. 1, 1987, which require President or any official or employee of Department of Defense to submit a report, notification, or study to Congress or any committee of Congress and to submit this list not later than six months after Oct. 1, 1986, with any recommendation or draft of legislation to implement any changes in law recommended by the Secretary.
+    [Pub. L. 99–433, title VI][/us/pl/99/433/tVI], § 602, Oct. 1, 1986, [100 Stat. 1066][/us/stat/100/1066], as amended by [Pub. L. 100–180, div. A, title XIII][/us/pl/100/180/dA/tXIII], § 1314(a)(4), Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175]; [Pub. L. 101–189, div. A, title II][/us/pl/101/189/dA/tII], § 243, Nov. 29, 1989, [103 Stat. 1402][/us/stat/103/1402]; [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1324, Nov. 5, 1990, [104 Stat. 1673][/us/stat/104/1673]; [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], directed Secretary of Defense to compile a list of all provisions of law in effect on or after Oct. 1, 1986, and before Feb. 1, 1987, which require President or any official or employee of Department of Defense to submit a report, notification, or study to Congress or any committee of Congress and to submit this list not later than six months after Oct. 1, 1986, with any recommendation or draft of legislation to implement any changes in law recommended by the Secretary.
 
  __Legislation To Make Required Conforming Changes in Law__ 
 
-    [Pub. L. 99–433, title VI, § 604][/us/pl/99/433/s604], Oct. 1, 1986, [100 Stat. 1075][/us/stat/100/1075]a, directed Secretary of Defense, not later than six months after Oct. 1, 1986, to submit to Committees on Armed Services of Senate and House of Representatives a draft of legislation to make any technical and conforming changes to title 10, United States Code, and other provisions of law that are required or should be made by reason of the amendments made by [Pub. L. 99–433][/us/pl/99/433].
+    [Pub. L. 99–433, title VI][/us/pl/99/433/tVI], § 604, Oct. 1, 1986, [100 Stat. 1075][/us/stat/100/1075]a, directed Secretary of Defense, not later than six months after Oct. 1, 1986, to submit to Committees on Armed Services of Senate and House of Representatives a draft of legislation to make any technical and conforming changes to title 10, United States Code, and other provisions of law that are required or should be made by reason of the amendments made by [Pub. L. 99–433][/us/pl/99/433].
 
  __Readiness Status of Military Forces of the North Atlantic Treaty Organization; Assessment, Findings, and Report to Congressional Committees__ 
 
-    [Pub. L. 96–107, title VIII, § 808][/us/pl/96/107/s808], Nov. 9, 1979, [93 Stat. 814][/us/stat/93/814], which directed Secretary of Defense to report annually to Congress on readiness of military forces of NATO, was repealed and restated as section 133a (renumbered § 117 and repealed) of this title by [Pub. L. 97–295][/us/pl/97/295], §§ 1(2)(A), 6(b), Oct. 12, 1982, [96 Stat. 1287][/us/stat/96/1287], 1314.
+    [Pub. L. 96–107, title VIII][/us/pl/96/107/tVIII], § 808, Nov. 9, 1979, [93 Stat. 814][/us/stat/93/814], which directed Secretary of Defense to report annually to Congress on readiness of military forces of NATO, was repealed and restated as section 133a (renumbered § 117 and repealed) of this title by [Pub. L. 97–295][/us/pl/97/295], §§ 1(2)(A), 6(b), Oct. 12, 1982, [96 Stat. 1287][/us/stat/96/1287], 1314.
 
  __Defense Manpower Commission__ 
 
-    [Pub. L. 93–155, title VII][/us/pl/93/155], §§ 701–708, Nov. 16, 1973, [87 Stat. 609–611][/us/stat/87/609-611], established the Commission; provided for its composition, duties, powers, compensation, staff, appropriations, and use of General Services Administration; and directed that interim reports to President and Congress be submitted and that Commission terminate 60 days after its final report which was to be submitted not more than 24 months after appointment of Commission.
+    [Pub. L. 93–155, title VII][/us/pl/93/155/tVII], §§ 701–708, Nov. 16, 1973, [87 Stat. 609–611][/us/stat/87/609-611], established the Commission; provided for its composition, duties, powers, compensation, staff, appropriations, and use of General Services Administration; and directed that interim reports to President and Congress be submitted and that Commission terminate 60 days after its final report which was to be submitted not more than 24 months after appointment of Commission.
 
  __Air Force Reserve and Air National Guard of United States; Study and Investigation of Relative Status; Advantages and Disadvantages of Alternatives; Modernization and Manpower Needs; Report to President and Congress__ 
 
-    [Pub. L. 93–155, title VIII, § 810][/us/pl/93/155/s810], Nov. 16, 1973, [87 Stat. 618][/us/stat/87/618], directed the Secretary of Defense to study the relative status of the Air Force Reserve and the Air National Guard of the United States; to measure the effects on costs and combat capability as well as other advantages and disadvantages of (1) merging the Reserve into the Guard, (2) merging the Guard into the Reserve, and (3) retaining the status quo; and to consider the modernization needs and manpower problems of both; and also directed that a report of such study be submitted to the President and to the Congress no later than Jan. 31, 1975.
+    [Pub. L. 93–155, title VIII][/us/pl/93/155/tVIII], § 810, Nov. 16, 1973, [87 Stat. 618][/us/stat/87/618], directed the Secretary of Defense to study the relative status of the Air Force Reserve and the Air National Guard of the United States; to measure the effects on costs and combat capability as well as other advantages and disadvantages of (1) merging the Reserve into the Guard, (2) merging the Guard into the Reserve, and (3) retaining the status quo; and to consider the modernization needs and manpower problems of both; and also directed that a report of such study be submitted to the President and to the Congress no later than Jan. 31, 1975.
 
  __REORGANIZATION PLAN NO. 6 OF 1953__ 
 
-    Eff. June 30, 1953, 18 F.R. 3743, [67 Stat. 638][/us/stat/67/638], as amended Aug. 6, 1958, [Pub. L. 85–559, § 10(b)][/us/pl/85/559/s10/b], [72 Stat. 521][/us/stat/72/521]; Sept. 7, 1962, [Pub. L. 87–651, title III, § 307C][/us/pl/87/651/s307C], [76 Stat. 526][/us/stat/76/526]
+    Eff. June 30, 1953, 18 F.R. 3743, [67 Stat. 638][/us/stat/67/638], as amended Aug. 6, 1958, [Pub. L. 85–559][/us/pl/85/559], § 10(b), [72 Stat. 521][/us/stat/72/521]; Sept. 7, 1962, [Pub. L. 87–651, title III][/us/pl/87/651/tIII], § 307C, [76 Stat. 526][/us/stat/76/526]
 
     Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, April 30, 1953, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949, as amended \[see [5 U.S.C. 901][/us/usc/t5/s901] et seq.\].
 
@@ -565,15 +565,15 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
  __Sec. 3. Assistant Secretaries of Defense__ 
 
-    \[Repealed. [Pub. L. 85–599, § 10(b)][/us/pl/85/599/s10/b], Aug. 6, 1958, [72 Stat. 521][/us/stat/72/521], eff. six months after Aug. 6, 1958. Section authorized appointment of six additional Assistant Secretaries and prescribed their duties and compensation.\]
+    \[Repealed. [Pub. L. 85–599][/us/pl/85/599], § 10(b), Aug. 6, 1958, [72 Stat. 521][/us/stat/72/521], eff. six months after Aug. 6, 1958. Section authorized appointment of six additional Assistant Secretaries and prescribed their duties and compensation.\]
 
  __Sec. 4. General Counsel__ 
 
-    \[Repealed. [Pub. L. 87–651, title III, § 307C][/us/pl/87/651/s307C], Sept. 7, 1962, [76 Stat. 526][/us/stat/76/526]. Section authorized appointment of a General Counsel for the Department of Defense. See [section 140 of this title][/us/usc/t10/s140].\]
+    \[Repealed. [Pub. L. 87–651, title III][/us/pl/87/651/tIII], § 307C, Sept. 7, 1962, [76 Stat. 526][/us/stat/76/526]. Section authorized appointment of a General Counsel for the Department of Defense. See [section 140 of this title][/us/usc/t10/s140].\]
 
  __Sec. 5. Performance of Functions__ 
 
-    \[Repealed. [Pub. L. 87–651, title III, § 307C][/us/pl/87/651/s307C], Sept. 7, 1962, [76 Stat. 526][/us/stat/76/526]. Section authorized the Secretary of Defense from time to time to make such provisions as he deemed appropriate authorizing the performance by any other officer, or by any agency or employee, of the Department of any function of the Secretary. See [section 113 of this title][/us/usc/t10/s113].\]
+    \[Repealed. [Pub. L. 87–651, title III][/us/pl/87/651/tIII], § 307C, Sept. 7, 1962, [76 Stat. 526][/us/stat/76/526]. Section authorized the Secretary of Defense from time to time to make such provisions as he deemed appropriate authorizing the performance by any other officer, or by any agency or employee, of the Department of any function of the Secretary. See [section 113 of this title][/us/usc/t10/s113].\]
 
  __Sec. 6. Miscellaneous Provisions__ 
 
@@ -592,9 +592,9 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 ----------
 ----------
 
-[/us/pl/87/651/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs202
+[/us/pl/87/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtII
 [/us/stat/76/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F517
-[/us/pl/99/433/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs101%2Fa%2F2
+[/us/pl/99/433/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtI
 [/us/stat/100/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F994
 [/us/usc/t5/s171/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs171%2Fa
 [/us/usc/t5/s171/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs171%2Fb
@@ -602,115 +602,115 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 [/us/usc/t5/s171/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs171%2Fb
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
-[/us/pl/104/106/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs908
+[/us/pl/104/106/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIX
 [/us/stat/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F406
-[/us/pl/99/433/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs1%2Fa
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/stat/100/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F992
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t10/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs441
-[/us/pl/114/92/s346/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs346%2Fa
+[/us/pl/114/92/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtIII
 [/us/stat/129/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F796
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/stat/127/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F816
 [/us/usc/t10/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs111
-[/us/pl/114/92/s1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1080
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1000
-[/us/pl/113/66/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs904
+[/us/pl/113/66/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIX
 [/us/stat/127/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F816
-[/us/pl/113/291/s905/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs905%2Fe
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3472
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/112/81/s954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs954
+[/us/pl/112/81/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIX
 [/us/stat/125/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1551
 [/us/usc/t50/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1541
-[/us/pl/110/181/s952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs952
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F291
-[/us/pl/108/132/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F132%2Fs128
+[/us/pl/108/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F132
 [/us/stat/117/1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1382
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/108/324/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs127
+[/us/pl/108/324/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2FdA
 [/us/stat/118/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1229
-[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtXVI
 [/us/stat/113/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F813
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65/dB/tXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdB%2FtXXIX
 [/us/stat/113/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F881
-[/us/pl/107/107/s1048/g/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fg%2F9
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1228
-[/us/pl/105/261/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1232
+[/us/pl/105/261/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXII
 [/us/stat/112/2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2155
-[/us/pl/105/85/s1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1081
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1916
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/stat/110/2626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2626
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/stat/110/3346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3346
 [/us/usc/t38/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs545
-[/us/pl/104/201/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs912
+[/us/pl/104/201/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIX
 [/us/stat/110/2623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2623
-[/us/pl/109/163/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs906
+[/us/pl/109/163/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIX
 [/us/stat/119/3402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3402
-[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIX
 [/us/stat/110/2623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2623
-[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIX
 [/us/stat/107/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1738
-[/us/pl/103/337/s923/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs923%2Fa%2F1
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2830
-[/us/pl/103/160/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1151
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1758
-[/us/pl/101/510/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1321
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1670
 [/us/pl/101/510/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1322
 [/us/pl/101/510/s1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1323
-[/us/pl/101/510/s1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1323
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1672
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t10/s127/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs127%2Fc
 [/us/usc/t10/s2672a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2672a%2Fb
 [/us/usc/t10/s7308/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7308%2Fc
 [/us/usc/t10/s7309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7309%2Fb
-[/us/pl/99/433/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs3
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/stat/100/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F993
 [/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
 [/us/usc/t50/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3002
-[/us/pl/99/433/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs602
+[/us/pl/99/433/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtVI
 [/us/stat/100/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1066
-[/us/pl/100/180/s1314/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fa%2F4
+[/us/pl/100/180/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXIII
 [/us/stat/101/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1175
-[/us/pl/101/189/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs243
+[/us/pl/101/189/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtII
 [/us/stat/103/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1402
-[/us/pl/101/510/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1324
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1673
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/99/433/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs604
+[/us/pl/99/433/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtVI
 [/us/stat/100/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1075
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
-[/us/pl/96/107/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs808
+[/us/pl/96/107/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2FtVIII
 [/us/stat/93/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F814
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1287
-[/us/pl/93/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155
+[/us/pl/93/155/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2FtVII
 [/us/stat/87/609-611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F609-611
-[/us/pl/93/155/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2Fs810
+[/us/pl/93/155/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2FtVIII
 [/us/stat/87/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F618
 [/us/stat/67/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F638
-[/us/pl/85/559/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F559%2Fs10%2Fb
+[/us/pl/85/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F559
 [/us/stat/72/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F521
-[/us/pl/87/651/s307C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs307C
+[/us/pl/87/651/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtIII
 [/us/stat/76/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F526
 [/us/usc/t5/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs901
-[/us/pl/85/599/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599%2Fs10%2Fb
+[/us/pl/85/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599
 [/us/stat/72/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F521
-[/us/pl/87/651/s307C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs307C
+[/us/pl/87/651/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtIII
 [/us/stat/76/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F526
 [/us/usc/t10/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs140
-[/us/pl/87/651/s307C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs307C
+[/us/pl/87/651/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtIII
 [/us/stat/76/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F526
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
 [/us/stat/63/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F762

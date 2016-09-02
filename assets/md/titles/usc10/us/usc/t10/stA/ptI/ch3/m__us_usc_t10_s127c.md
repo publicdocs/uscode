@@ -31,7 +31,7 @@
 
         (2) A description of the dispositions (if any) during that six-month period of weapons purchased under subsection (a).
 
-(Added [Pub. L. 109–163, div. A, title XII, § 1231(a)][/us/pl/109/163/s1231/a], Jan. 6, 2006, [119 Stat. 3467][/us/stat/119/3467].)
+(Added [Pub. L. 109–163, div. A, title XII][/us/pl/109/163/dA/tXII], § 1231(a), Jan. 6, 2006, [119 Stat. 3467][/us/stat/119/3467].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/109/163/s1231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1231%2Fa
+[/us/pl/109/163/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtXII
 [/us/stat/119/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3467
 [/us/usc/t10/s127d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs127d
 

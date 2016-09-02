@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s139c.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s140a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs140)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s139d _us_usc_t10_s139e.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s140a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs140)
 
 ## § 140. General Counsel
 
@@ -19,7 +19,7 @@
 
     (b) The General Counsel is the chief legal officer of the Department of Defense. He shall perform such functions as the Secretary of Defense may prescribe.
 
-(Added [Pub. L. 87–651, title II, § 202][/us/pl/87/651/s202], Sept. 7, 1962, [76 Stat. 519][/us/stat/76/519], § 137; amended [Pub. L. 88–426, title III, § 305(9)][/us/pl/88/426/s305/9], Aug. 14, 1964, [78 Stat. 423][/us/stat/78/423]; renumbered § 139 and amended [Pub. L. 99–433, title I][/us/pl/99/433], §§ 101(a)(7), 110(d)(11), Oct. 1, 1986, [100 Stat. 995][/us/stat/100/995], 1003; renumbered § 140, [Pub. L. 103–160, div. A, title IX, § 901(a)(1)][/us/pl/103/160/s901/a/1], Nov. 30, 1993, [107 Stat. 1726][/us/stat/107/1726].)
+(Added [Pub. L. 87–651, title II][/us/pl/87/651/tII], § 202, Sept. 7, 1962, [76 Stat. 519][/us/stat/76/519], § 137; amended [Pub. L. 88–426, title III][/us/pl/88/426/tIII], § 305(9), Aug. 14, 1964, [78 Stat. 423][/us/stat/78/423]; renumbered § 139 and amended [Pub. L. 99–433, title I][/us/pl/99/433/tI], §§ 101(a)(7), 110(d)(11), Oct. 1, 1986, [100 Stat. 995][/us/stat/100/995], 1003; renumbered § 140, [Pub. L. 103–160, div. A, title IX][/us/pl/103/160/dA/tIX], § 901(a)(1), Nov. 30, 1993, [107 Stat. 1726][/us/stat/107/1726].)
 
 <table>
 
@@ -115,18 +115,18 @@ Source (Statutes at Large)  </td>
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s139c.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s140a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs140)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s139d _us_usc_t10_s139e.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s140a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs140)
 
 ----------
 ----------
 
-[/us/pl/87/651/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs202
+[/us/pl/87/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtII
 [/us/stat/76/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F519
-[/us/pl/88/426/s305/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs305%2F9
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F423
-[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/99/433/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtI
 [/us/stat/100/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F995
-[/us/pl/103/160/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs901%2Fa%2F1
+[/us/pl/103/160/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIX
 [/us/stat/107/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1726
 [/us/usc/t10/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs141
 [/us/usc/t10/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs127

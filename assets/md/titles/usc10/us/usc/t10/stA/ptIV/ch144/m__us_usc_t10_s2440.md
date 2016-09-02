@@ -17,7 +17,7 @@
 
     The Secretary of Defense shall prescribe regulations requiring consideration of the national technology and industrial base, in accordance with the strategy required by [section 2501 of this title][/us/usc/t10/s2501], in the development and implementation of acquisition plans for each major defense acquisition program.
 
-(Added [Pub. L. 102–484, div. D, title XLII, § 4216(b)(1)][/us/pl/102/484/s4216/b/1], Oct. 23, 1992, [106 Stat. 2669][/us/stat/106/2669]; amended [Pub. L. 109–364, div. A, title X, § 1071(a)(17)][/us/pl/109/364/s1071/a/17], Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399]; [Pub. L. 112–239, div. A, title XVI, § 1603(c)][/us/pl/112/239/s1603/c], Jan. 2, 2013, [126 Stat. 2063][/us/stat/126/2063].)
+(Added [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4216(b)(1), Oct. 23, 1992, [106 Stat. 2669][/us/stat/106/2669]; amended [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(17), Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399]; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1603(c), Jan. 2, 2013, [126 Stat. 2063][/us/stat/126/2063].)
 
  __Amendments__ 
 
@@ -33,11 +33,11 @@
 ----------
 
 [/us/usc/t10/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501
-[/us/pl/102/484/s4216/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4216%2Fb%2F1
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2669
-[/us/pl/109/364/s1071/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F17
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2399
-[/us/pl/112/239/s1603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1603%2Fc
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2063
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t10/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501

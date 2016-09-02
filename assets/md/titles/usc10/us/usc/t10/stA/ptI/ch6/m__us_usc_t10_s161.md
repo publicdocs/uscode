@@ -51,15 +51,15 @@
 
         (3) The term “combatant command” means a unified combatant command or a specified combatant command.
 
-(Added [Pub. L. 99–433, title II, § 211(a)][/us/pl/99/433/s211/a], Oct. 1, 1986, [100 Stat. 1012][/us/stat/100/1012].)
+(Added [Pub. L. 99–433, title II][/us/pl/99/433/tII], § 211(a), Oct. 1, 1986, [100 Stat. 1012][/us/stat/100/1012].)
 
  __Matters To Be Considered in Next Assessment of Current Missions, Responsibilities, and Force Structure of Unified Combatant Commands__ 
 
-    [Pub. L. 104–201, div. A, title IX, § 905][/us/pl/104/201/s905], Sept. 23, 1996, [110 Stat. 2619][/us/stat/110/2619], required the Chairman of the Joint Chiefs of Staff to consider, as part of the next periodic review after Sept. 23, 1996, pursuant to subsec. (b) of this section: (1) whether there was an adequate distribution of responsibilities among the regional unified combatant commands; (2) whether fewer or differently configured commands would permit the United States to better execute warfighting plans; (3) whether any assets or activities were redundant; (4) whether warfighting requirements were adequate to justify current commands; (5) whether exclusion of certain nations from the Areas of Responsibility presented difficulties with respect to national security objectives in those areas; and (6) whether the boundary between the United States Central and European Commands could create command conflicts in the context of a major regional conflict in the Middle East.
+    [Pub. L. 104–201, div. A, title IX][/us/pl/104/201/dA/tIX], § 905, Sept. 23, 1996, [110 Stat. 2619][/us/stat/110/2619], required the Chairman of the Joint Chiefs of Staff to consider, as part of the next periodic review after Sept. 23, 1996, pursuant to subsec. (b) of this section: (1) whether there was an adequate distribution of responsibilities among the regional unified combatant commands; (2) whether fewer or differently configured commands would permit the United States to better execute warfighting plans; (3) whether any assets or activities were redundant; (4) whether warfighting requirements were adequate to justify current commands; (5) whether exclusion of certain nations from the Areas of Responsibility presented difficulties with respect to national security objectives in those areas; and (6) whether the boundary between the United States Central and European Commands could create command conflicts in the context of a major regional conflict in the Middle East.
 
  __Initial Review of Combatant Commands__ 
 
-    [Pub. L. 99–433, title II, § 212][/us/pl/99/433/s212], Oct. 1, 1986, [100 Stat. 1017][/us/stat/100/1017], set out 10 areas to be covered in first review of missions, responsibilities, and force structure of unified combatant commands under subsec. (b) of this section, and directed that first report to President be made not later than Oct. 1, 1987.
+    [Pub. L. 99–433, title II][/us/pl/99/433/tII], § 212, Oct. 1, 1986, [100 Stat. 1017][/us/stat/100/1017], set out 10 areas to be covered in first review of missions, responsibilities, and force structure of unified combatant commands under subsec. (b) of this section, and directed that first report to President be made not later than Oct. 1, 1987.
 
  __Disestablishment of United States Joint Forces Command__ 
 
@@ -96,11 +96,11 @@
 ----------
 ----------
 
-[/us/pl/99/433/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs211%2Fa
+[/us/pl/99/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtII
 [/us/stat/100/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1012
-[/us/pl/104/201/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs905
+[/us/pl/104/201/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIX
 [/us/stat/110/2619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2619
-[/us/pl/99/433/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs212
+[/us/pl/99/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtII
 [/us/stat/100/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1017
 [/us/usc/t10/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs161
 [/us/usc/t10/s161/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs161%2Fb%2F2

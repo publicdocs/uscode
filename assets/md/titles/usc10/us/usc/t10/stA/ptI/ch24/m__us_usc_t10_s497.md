@@ -41,7 +41,7 @@
 
         (2) the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
-(Added [Pub. L. 112–239, div. A, title X, § 1037(b)(1)][/us/pl/112/239/s1037/b/1], Jan. 2, 2013, [126 Stat. 1926][/us/stat/126/1926].)
+(Added [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1037(b)(1), Jan. 2, 2013, [126 Stat. 1926][/us/stat/126/1926].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/stat/63/2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F2241
-[/us/pl/112/239/s1037/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1037%2Fb%2F1
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1926
 
 

@@ -17,7 +17,7 @@
 
     A member of an armed force may not be required to sign a statement relating to the origin, incurrence, or aggravation of a disease or injury that he has. Any such statement against his interests, signed by a member, is invalid.
 
-(Added [Pub. L. 85–56, title XXII, § 2201(31)(A)][/us/pl/85/56/s2201/31/A], June 17, 1957, [71 Stat. 160][/us/stat/71/160]; amended [Pub. L. 87–651, title I, § 107(c)][/us/pl/87/651/s107/c], Sept. 7, 1962, [76 Stat. 509][/us/stat/76/509].)
+(Added [Pub. L. 85–56, title XXII][/us/pl/85/56/tXXII], § 2201(31)(A), June 17, 1957, [71 Stat. 160][/us/stat/71/160]; amended [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 107(c), Sept. 7, 1962, [76 Stat. 509][/us/stat/76/509].)
 
  __Historical and Revision Notes__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/85/56/s2201/31/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F56%2Fs2201%2F31%2FA
+[/us/pl/85/56/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F56%2FtXXII
 [/us/stat/71/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F160
-[/us/pl/87/651/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs107%2Fc
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F509
 [/us/pl/87/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651
 [/us/pl/85/56/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F56%2Fs2301

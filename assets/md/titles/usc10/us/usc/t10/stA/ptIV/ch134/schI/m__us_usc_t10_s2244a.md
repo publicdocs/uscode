@@ -41,11 +41,11 @@
 
     The Secretary concerned may waive the prohibition in subsection (a) in the case of any modification otherwise subject to that subsection if the Secretary determines that carrying out the modification is in the national security interest of the United States. Whenever the Secretary issues such a waiver, the Secretary shall notify the congressional defense committees in writing.
 
-(Added [Pub. L. 109–163, div. A, title III, § 372(a)][/us/pl/109/163/s372/a], Jan. 6, 2006, [119 Stat. 3209][/us/stat/119/3209].)
+(Added [Pub. L. 109–163, div. A, title III][/us/pl/109/163/dA/tIII], § 372(a), Jan. 6, 2006, [119 Stat. 3209][/us/stat/119/3209].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [Pub. L. 105–56, title VIII, § 8053][/us/pl/105/56/s8053], Oct. 8, 1997, [111 Stat. 1232][/us/stat/111/1232], which was set out as a note under [section 2241 of this title][/us/usc/t10/s2241], prior to repeal by [Pub. L. 109–163, div. A, title III, § 372(c)][/us/pl/109/163/s372/c], [119 Stat. 3210][/us/stat/119/3210].
+    Provisions similar to those in this section were contained in [Pub. L. 105–56, title VIII][/us/pl/105/56/tVIII], § 8053, Oct. 8, 1997, [111 Stat. 1232][/us/stat/111/1232], which was set out as a note under [section 2241 of this title][/us/usc/t10/s2241], prior to repeal by [Pub. L. 109–163, div. A, title III][/us/pl/109/163/dA/tIII], § 372(c), [119 Stat. 3210][/us/stat/119/3210].
 
 ----------
 
@@ -54,12 +54,12 @@
 ----------
 ----------
 
-[/us/pl/109/163/s372/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs372%2Fa
+[/us/pl/109/163/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIII
 [/us/stat/119/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3209
-[/us/pl/105/56/s8053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F56%2Fs8053
+[/us/pl/105/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F56%2FtVIII
 [/us/stat/111/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1232
 [/us/usc/t10/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2241
-[/us/pl/109/163/s372/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs372%2Fc
+[/us/pl/109/163/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIII
 [/us/stat/119/3210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3210
 
 

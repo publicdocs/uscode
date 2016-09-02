@@ -107,7 +107,7 @@
 
     In this section, the term “Association” means the Army West Point Athletic Association.
 
-(Added [Pub. L. 114–92, div. A, title V, § 557(a)][/us/pl/114/92/s557/a], Nov. 25, 2015, [129 Stat. 825][/us/stat/129/825].)
+(Added [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 557(a), Nov. 25, 2015, [129 Stat. 825][/us/stat/129/825].)
 
  __References in Text__ 
 
@@ -126,7 +126,7 @@
 [/us/usc/t10/s2164/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2164%2Fa
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/usc/t10/s2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2260
-[/us/pl/114/92/s557/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs557%2Fa
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F825
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 

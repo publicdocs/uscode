@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s139b.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s140.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139c)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s139b.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s139d _us_usc_t10_s139e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139c)
 
 ## § 139c. Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy
 
@@ -73,13 +73,13 @@
 
     In this section, the term “materials critical to national security” has the meaning given that term in [section 187(e)(1) of this title][/us/usc/t10/s187/e/1].
 
-(Added § 139e and renumbered § 139c, [Pub. L. 111–383, div. A, title VII, § 896(a)][/us/pl/111/383/s896/a], title IX, § 901(f), Jan. 7, 2011, [124 Stat. 4314][/us/stat/124/4314], 4322; amended [Pub. L. 112–81, div. A, title VIII, § 855][/us/pl/112/81/s855], Dec. 31, 2011, [125 Stat. 1521][/us/stat/125/1521]; [Pub. L. 112–239, div. A, title IX, § 901(a)][/us/pl/112/239/s901/a], (b), title X, § 1076(a)(13), (b)(3), Jan. 2, 2013, [126 Stat. 1863][/us/stat/126/1863], 1864, 1948, 1949.)
+(Added § 139e and renumbered § 139c, [Pub. L. 111–383, div. A, title VII][/us/pl/111/383/dA/tVII], § 896(a), title IX, § 901(f), Jan. 7, 2011, [124 Stat. 4314][/us/stat/124/4314], 4322; amended [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 855, Dec. 31, 2011, [125 Stat. 1521][/us/stat/125/1521]; [Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 901(a), (b), title X, § 1076(a)(13), (b)(3), Jan. 2, 2013, [126 Stat. 1863][/us/stat/126/1863], 1864, 1948, 1949.)
 
  __References in Text__ 
 
     The Defense Production Act of 1950, referred to in subsec. (b)(12), is [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], [64 Stat. 798][/us/stat/64/798], which was classified generally to section 2061 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 55 (§ 4501 et seq.) of Title 50. Titles I and III of the Act are classified generally to subchapters I (§ 4511 et seq.) and II (§ 4531 et seq.), respectively, of chapter 55 of Title 50. Section 2 of the Act is classified to [section 4502 of Title 50][/us/usc/t50/s4502]. For complete classification of this Act to the Code, see Tables.
 
-    Subsection (b)(9), referred to in subsec. (c), was redesignated subsection (b)(8) of this section, by [Pub. L. 112–239, div. A, title IX, § 901(a)(2)][/us/pl/112/239/s901/a/2], Jan. 2, 2013, [126 Stat. 1864][/us/stat/126/1864].
+    Subsection (b)(9), referred to in subsec. (c), was redesignated subsection (b)(8) of this section, by [Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 901(a)(2), Jan. 2, 2013, [126 Stat. 1864][/us/stat/126/1864].
 
  __Prior Provisions__ 
 
@@ -89,9 +89,9 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–239, § 1076(b)(3)][/us/pl/112/239/s1076/b/3], made technical amendment to directory language of [Pub. L. 111–383, § 896(a)][/us/pl/111/383/s896/a], which enacted this section.
+    2013—[Pub. L. 112–239][/us/pl/112/239], § 1076(b)(3), made technical amendment to directory language of [Pub. L. 111–383][/us/pl/111/383], § 896(a), which enacted this section.
 
-    Subsec. (b)(1) to (4). [Pub. L. 112–239, § 901(a)(1)][/us/pl/112/239/s901/a/1], added pars. (1) to (4) and struck out former pars. (1) to (4) which read as follows:
+    Subsec. (b)(1) to (4). [Pub. L. 112–239][/us/pl/112/239], § 901(a)(1), added pars. (1) to (4) and struck out former pars. (1) to (4) which read as follows:
 
     “(1) Providing input on industrial base matters to strategy reviews, including quadrennial defense reviews conducted pursuant to [section 118 of this title][/us/usc/t10/s118].
 
@@ -101,35 +101,33 @@
 
     “(4) Providing recommendations to the Under Secretary on supply chain management and supply chain vulnerability.”
 
-    Subsec. (b)(5) to (9). [Pub. L. 112–239, § 901(a)(2)][/us/pl/112/239/s901/a/2], redesignated pars. (6) to (10) as (5) to (9), respectively, and struck out former par. (5) which read as follows: “Providing input on industrial base matters to defense acquisition policy guidance.”
+    Subsec. (b)(5) to (9). [Pub. L. 112–239][/us/pl/112/239], § 901(a)(2), redesignated pars. (6) to (10) as (5) to (9), respectively, and struck out former par. (5) which read as follows: “Providing input on industrial base matters to defense acquisition policy guidance.”
 
-    Subsec. (b)(10). [Pub. L. 112–239, § 901(a)(3)][/us/pl/112/239/s901/a/3], added par. (10). Former par. (10) redesignated (9).
+    Subsec. (b)(10). [Pub. L. 112–239][/us/pl/112/239], § 901(a)(3), added par. (10). Former par. (10) redesignated (9).
 
-    Subsec. (b)(12). [Pub. L. 112–239, § 1076(a)(13)][/us/pl/112/239/s1076/a/13], made technical amendment to directory language of [Pub. L. 112–81][/us/pl/112/81]. See 2011 Amendment note below.
+    Subsec. (b)(12). [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(13), made technical amendment to directory language of [Pub. L. 112–81][/us/pl/112/81]. See 2011 Amendment note below.
 
-    Subsec. (b)(15) to (18). [Pub. L. 112–239, § 901(a)(4)][/us/pl/112/239/s901/a/4], (5), added pars. (15) to (17) and redesignated former par. (15) as (18).
+    Subsec. (b)(15) to (18). [Pub. L. 112–239][/us/pl/112/239], § 901(a)(4), (5), added pars. (15) to (17) and redesignated former par. (15) as (18).
 
-    Subsec. (d). [Pub. L. 112–239, § 901(b)][/us/pl/112/239/s901/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 112–239][/us/pl/112/239], § 901(b), added subsec. (d).
 
-    2011—[Pub. L. 111–383, § 901(f)][/us/pl/111/383/s901/f], renumbered [section 139e of this title][/us/usc/t10/s139e] as this section.
+    2011—[Pub. L. 111–383][/us/pl/111/383], § 901(f), renumbered [section 139e of this title][/us/usc/t10/s139e] as this section.
 
-    Subsec. (b)(12). [Pub. L. 112–81][/us/pl/112/81], as amended by [Pub. L. 112–239, § 1076(a)(13)][/us/pl/112/239/s1076/a/13], substituted “titles I and III” for “titles I and II”.
+    Subsec. (b)(12). [Pub. L. 112–81][/us/pl/112/81], as amended by [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(13), substituted “titles I and III” for “titles I and II”.
 
  __Effective Date of 2013 Amendment__ 
 
-    [Pub. L. 112–239, div. A, title X, § 1076(a)][/us/pl/112/239/s1076/a], Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(13) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
+    [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a), Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(13) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
 
-    [Pub. L. 112–239, div. A, title X, § 1076(b)][/us/pl/112/239/s1076/b], Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949], provided that the amendment made by [section 1076(b)(3) of Pub. L. 112–239][/us/pl/112/239/s1076/b/3] is effective Jan. 7, 2011, and as if included in [Pub. L. 111–383][/us/pl/111/383] as enacted.
+    [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(b), Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949], provided that the amendment made by [section 1076(b)(3) of Pub. L. 112–239][/us/pl/112/239/s1076/b/3] is effective Jan. 7, 2011, and as if included in [Pub. L. 111–383][/us/pl/111/383] as enacted.
 
  __Effective Date of 2011 Amendment__ 
 
     Amendment by [section 901(f) of Pub. L. 111–383][/us/pl/111/383/s901/f] effective Jan. 1, 2011, see [section 901(p) of Pub. L. 111–383][/us/pl/111/383/s901/p], set out as a note under [section 131 of this title][/us/usc/t10/s131].
 
-\[§§ 139d, 139e. __Renumbered §§ 139b, 139c\]__ 
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s139b.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s140.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139c)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s139b.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s139d _us_usc_t10_s139e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139c)
 
 ----------
 ----------
@@ -142,37 +140,37 @@
 [/us/usc/t10/s2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2521
 [/us/usc/t10/s2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2372
 [/us/usc/t10/s187/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs187%2Fe%2F1
-[/us/pl/111/383/s896/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs896%2Fa
+[/us/pl/111/383/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVII
 [/us/stat/124/4314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4314
-[/us/pl/112/81/s855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs855
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1521
-[/us/pl/112/239/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs901%2Fa
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
 [/us/stat/126/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1863
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
 [/us/stat/64/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F798
 [/us/usc/t50/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4502
-[/us/pl/112/239/s901/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs901%2Fa%2F2
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
 [/us/stat/126/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1864
 [/us/usc/t10/s139a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139a
 [/us/usc/t10/s2434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2434
-[/us/pl/112/239/s1076/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fb%2F3
-[/us/pl/111/383/s896/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs896%2Fa
-[/us/pl/112/239/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs901%2Fa%2F1
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t10/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs118
-[/us/pl/112/239/s901/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs901%2Fa%2F2
-[/us/pl/112/239/s901/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs901%2Fa%2F3
-[/us/pl/112/239/s1076/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F13
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/112/239/s901/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs901%2Fa%2F4
-[/us/pl/112/239/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs901%2Fb
-[/us/pl/111/383/s901/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Ff
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s139e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139e
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/112/239/s1076/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F13
-[/us/pl/112/239/s1076/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1947
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/112/239/s1076/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fb
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1949
 [/us/pl/112/239/s1076/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fb%2F3
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

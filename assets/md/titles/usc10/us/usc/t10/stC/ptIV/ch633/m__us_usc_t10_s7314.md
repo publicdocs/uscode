@@ -29,7 +29,7 @@
 
     (3) The award is made using the results of the comparability analysis.
 
-(Added [Pub. L. 100–456, div. A, title XII, § 1225(a)(1)][/us/pl/100/456/s1225/a/1], Sept. 29, 1988, [102 Stat. 2054][/us/stat/102/2054], § 7313; renumbered § 7314, [Pub. L. 101–189, div. A, title XVI, § 1622(a)][/us/pl/101/189/s1622/a], Nov. 29, 1989, [103 Stat. 1604][/us/stat/103/1604].)
+(Added [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1225(a)(1), Sept. 29, 1988, [102 Stat. 2054][/us/stat/102/2054], § 7313; renumbered § 7314, [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1622(a), Nov. 29, 1989, [103 Stat. 1604][/us/stat/103/1604].)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–456, div. A, title XII, § 1225(b)][/us/pl/100/456/s1225/b], Sept. 29, 1988, [102 Stat. 2055][/us/stat/102/2055], provided that: 
+[Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1225(b), Sept. 29, 1988, [102 Stat. 2055][/us/stat/102/2055], provided that: 
 
 > “Section 7313 \[now 7314\] of title 10, United States Code, as added by subsection (a), applies to any award by the Secretary of the Navy made after the end of the 30-day period beginning on the date of the enactment of this Act \[Sept. 29, 1988\] for repair, alteration, overhaul, or conversion of a naval vessel following competition between public and private shipyards.”
 
@@ -48,13 +48,13 @@
 ----------
 ----------
 
-[/us/pl/100/456/s1225/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1225%2Fa%2F1
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2054
-[/us/pl/101/189/s1622/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fa
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1604
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t10/s7313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7313
-[/us/pl/100/456/s1225/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1225%2Fb
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2055
 
 

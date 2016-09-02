@@ -117,39 +117,39 @@
 
     In this section, the term “Major Range and Test Facility Base” means the test and evaluation facilities and resources that are designated by the Secretary of Defense as facilities and resources comprising the Major Range and Test Facility Base.
 
-(Added [Pub. L. 107–314, div. A, title II, § 231(a)(1)][/us/pl/107/314/s231/a/1], Dec. 2, 2002, [116 Stat. 2487][/us/stat/116/2487]; amended [Pub. L. 108–136, div. A, title II, § 212][/us/pl/108/136/s212], Nov. 24, 2003, [117 Stat. 1416][/us/stat/117/1416]; [Pub. L. 109–163, div. A, title II, § 258(a)][/us/pl/109/163/s258/a], title IX, § 902, Jan. 6, 2006, [119 Stat. 3185][/us/stat/119/3185], 3397; [Pub. L. 111–84, div. A, title II, § 251][/us/pl/111/84/s251], Oct. 28, 2009, [123 Stat. 2241][/us/stat/123/2241]; [Pub. L. 113–291, div. A, title II, § 214][/us/pl/113/291/s214], Dec. 19, 2014, [128 Stat. 3326][/us/stat/128/3326].)
+(Added [Pub. L. 107–314, div. A, title II][/us/pl/107/314/dA/tII], § 231(a)(1), Dec. 2, 2002, [116 Stat. 2487][/us/stat/116/2487]; amended [Pub. L. 108–136, div. A, title II][/us/pl/108/136/dA/tII], § 212, Nov. 24, 2003, [117 Stat. 1416][/us/stat/117/1416]; [Pub. L. 109–163, div. A, title II][/us/pl/109/163/dA/tII], § 258(a), title IX, § 902, Jan. 6, 2006, [119 Stat. 3185][/us/stat/119/3185], 3397; [Pub. L. 111–84, div. A, title II][/us/pl/111/84/dA/tII], § 251, Oct. 28, 2009, [123 Stat. 2241][/us/stat/123/2241]; [Pub. L. 113–291, div. A, title II][/us/pl/113/291/dA/tII], § 214, Dec. 19, 2014, [128 Stat. 3326][/us/stat/128/3326].)
 
  __References in Text__ 
 
-    [Section 139(i) of this title][/us/usc/t10/s139/i], referred to in subsec. (c)(1)(A)(ii), was redesignated as [section 139(j) of this title][/us/usc/t10/s139/j] by [Pub. L. 110–181, title II, § 221][/us/pl/110/181/s221], Jan. 28, 2008, [122 Stat. 37][/us/stat/122/37].
+    [Section 139(i) of this title][/us/usc/t10/s139/i], referred to in subsec. (c)(1)(A)(ii), was redesignated as [section 139(j) of this title][/us/usc/t10/s139/j] by [Pub. L. 110–181, title II][/us/pl/110/181/tII], § 221, Jan. 28, 2008, [122 Stat. 37][/us/stat/122/37].
 
  __Amendments__ 
 
-    2014—Subsec. (c)(1)(B). [Pub. L. 113–291, § 214(a)][/us/pl/113/291/s214/a], inserted “, including with respect to the expansion, divestment, consolidation, or curtailment of activities,” after “Base”.
+    2014—Subsec. (c)(1)(B). [Pub. L. 113–291][/us/pl/113/291], § 214(a), inserted “, including with respect to the expansion, divestment, consolidation, or curtailment of activities,” after “Base”.
 
-    Subsec. (d)(2)(E) to (G). [Pub. L. 113–291, § 214(b)][/us/pl/113/291/s214/b], added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
+    Subsec. (d)(2)(E) to (G). [Pub. L. 113–291][/us/pl/113/291], § 214(b), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
 
-    Subsec. (e)(1). [Pub. L. 113–291, § 214(c)][/us/pl/113/291/s214/c], inserted “and for the period covered by the future-years defense program submitted to Congress under [section 221 of this title][/us/usc/t10/s221] for that fiscal year” after “activities for a fiscal year”.
+    Subsec. (e)(1). [Pub. L. 113–291][/us/pl/113/291], § 214(c), inserted “and for the period covered by the future-years defense program submitted to Congress under [section 221 of this title][/us/usc/t10/s221] for that fiscal year” after “activities for a fiscal year”.
 
-    Subsecs. (f) to (i). [Pub. L. 113–291, § 214(d)][/us/pl/113/291/s214/d], added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
+    Subsecs. (f) to (i). [Pub. L. 113–291][/us/pl/113/291], § 214(d), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
 
     2009—Subsec. (c). [Pub. L. 111–84][/us/pl/111/84] inserted par. (1) designation before “The Director”, redesignated former par. (1) as subpar. (A) and former subpars. (A) and (B) as cl. (i) and (ii), respectively, of subpar. (A), added subpar. (B), redesignated former pars. (2) to (4) as subpars. (C) to (E), respectively, and added par. (2).
 
-    2006—Subsec. (b)(1). [Pub. L. 109–163, § 902(a)][/us/pl/109/163/s902/a], substituted “individuals who have substantial experience in the field of test and evaluation.” for “commissioned officers of the armed forces on active duty or from among senior civilian officers and employees of the Department of Defense.”
+    2006—Subsec. (b)(1). [Pub. L. 109–163][/us/pl/109/163], § 902(a), substituted “individuals who have substantial experience in the field of test and evaluation.” for “commissioned officers of the armed forces on active duty or from among senior civilian officers and employees of the Department of Defense.”
 
-    Subsec. (b)(2). [Pub. L. 109–163, § 902(b)][/us/pl/109/163/s902/b], substituted “individuals” for “senior civilian officers and employees of the Department of Defense”.
+    Subsec. (b)(2). [Pub. L. 109–163][/us/pl/109/163], § 902(b), substituted “individuals” for “senior civilian officers and employees of the Department of Defense”.
 
-    Subsec. (h). [Pub. L. 109–163, § 258(a)][/us/pl/109/163/s258/a], substituted “Secretary of Defense” for “Director of Operational Test and Evaluation”.
+    Subsec. (h). [Pub. L. 109–163][/us/pl/109/163], § 258(a), substituted “Secretary of Defense” for “Director of Operational Test and Evaluation”.
 
-    2003—Subsec. (b)(1). [Pub. L. 108–136, § 212(a)][/us/pl/108/136/s212/a], substituted “on active duty or from among senior civilian officers and employees of the Department of Defense. A commissioned officer serving as the Director” for “on active duty. The Director” and inserted at end “A civilian officer or employee serving as the Director, while so serving, has a pay level equivalent in grade to lieutenant general.”
+    2003—Subsec. (b)(1). [Pub. L. 108–136][/us/pl/108/136], § 212(a), substituted “on active duty or from among senior civilian officers and employees of the Department of Defense. A commissioned officer serving as the Director” for “on active duty. The Director” and inserted at end “A civilian officer or employee serving as the Director, while so serving, has a pay level equivalent in grade to lieutenant general.”
 
-    Subsec. (c)(1)(B). [Pub. L. 108–136, § 212(b)(1)][/us/pl/108/136/s212/b/1], inserted “, other than budgets and expenditures for activities described in [section 139(i) of this title][/us/usc/t10/s139/i]” after “Department of Defense”.
+    Subsec. (c)(1)(B). [Pub. L. 108–136][/us/pl/108/136], § 212(b)(1), inserted “, other than budgets and expenditures for activities described in [section 139(i) of this title][/us/usc/t10/s139/i]” after “Department of Defense”.
 
-    Subsec. (e)(1). [Pub. L. 108–136, § 212(b)(2)][/us/pl/108/136/s212/b/2], struck out “, the Director of Operational Test and Evaluation,” after “each military department” and substituted “or Defense Agency head’s” for “, Director’s, or head’s”.
+    Subsec. (e)(1). [Pub. L. 108–136][/us/pl/108/136], § 212(b)(2), struck out “, the Director of Operational Test and Evaluation,” after “each military department” and substituted “or Defense Agency head’s” for “, Director’s, or head’s”.
 
  __Administration of Programs To Begin After First Strategic Plan__ 
 
-    [Pub. L. 107–314, div. A, title II, § 231(b)][/us/pl/107/314/s231/b], (c), Dec. 2, 2002, [116 Stat. 2489][/us/stat/116/2489], directed that the first strategic plan required to be completed under subsec. (d)(1) of this section was to be completed not later than six months after Dec. 2, 2002, and that the duty of the Director of the Department of Defense Test Resource Management Center to administer the programs specified in subsec. (c)(4) of this section would take effect upon the beginning of the first fiscal year that began after the report on the first strategic plan was transmitted to committees of Congress.
+    [Pub. L. 107–314, div. A, title II][/us/pl/107/314/dA/tII], § 231(b), (c), Dec. 2, 2002, [116 Stat. 2489][/us/stat/116/2489], directed that the first strategic plan required to be completed under subsec. (d)(1) of this section was to be completed not later than six months after Dec. 2, 2002, and that the duty of the Director of the Department of Defense Test Resource Management Center to administer the programs specified in subsec. (c)(4) of this section would take effect upon the beginning of the first fiscal year that began after the report on the first strategic plan was transmitted to committees of Congress.
 
 ----------
 
@@ -160,34 +160,34 @@
 
 [/us/usc/t10/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs191
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
-[/us/pl/107/314/s231/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs231%2Fa%2F1
+[/us/pl/107/314/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtII
 [/us/stat/116/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2487
-[/us/pl/108/136/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs212
+[/us/pl/108/136/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtII
 [/us/stat/117/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1416
-[/us/pl/109/163/s258/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs258%2Fa
+[/us/pl/109/163/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtII
 [/us/stat/119/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3185
-[/us/pl/111/84/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs251
+[/us/pl/111/84/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtII
 [/us/stat/123/2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2241
-[/us/pl/113/291/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs214
+[/us/pl/113/291/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtII
 [/us/stat/128/3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3326
 [/us/usc/t10/s139/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139%2Fi
 [/us/usc/t10/s139/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139%2Fj
-[/us/pl/110/181/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs221
+[/us/pl/110/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FtII
 [/us/stat/122/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F37
-[/us/pl/113/291/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs214%2Fa
-[/us/pl/113/291/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs214%2Fb
-[/us/pl/113/291/s214/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs214%2Fc
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
-[/us/pl/113/291/s214/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs214%2Fd
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/109/163/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs902%2Fa
-[/us/pl/109/163/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs902%2Fb
-[/us/pl/109/163/s258/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs258%2Fa
-[/us/pl/108/136/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs212%2Fa
-[/us/pl/108/136/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs212%2Fb%2F1
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t10/s139/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139%2Fi
-[/us/pl/108/136/s212/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs212%2Fb%2F2
-[/us/pl/107/314/s231/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs231%2Fb
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/107/314/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtII
 [/us/stat/116/2489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2489
 
 

@@ -33,7 +33,7 @@
 
         (3) The term “reusable item” means a demilitarized component or a removable portion of a vessel or equipment that the Secretary of the Navy has identified as excess to the needs of the Navy but which has potential resale value on the open market.
 
-(Added [Pub. L. 108–375, div. A, title X, § 1011(a)][/us/pl/108/375/s1011/a], Oct. 28, 2004, [118 Stat. 2038][/us/stat/118/2038].)
+(Added [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1011(a), Oct. 28, 2004, [118 Stat. 2038][/us/stat/118/2038].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/108/375/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1011%2Fa
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2038
 
 

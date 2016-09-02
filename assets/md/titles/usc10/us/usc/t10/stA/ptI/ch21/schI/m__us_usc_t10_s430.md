@@ -33,7 +33,7 @@
 
             (B) promote cross-domain integration of such capabilities into military operations, training, intelligence, surveillance, and reconnaissance activities.
 
-(Added [Pub. L. 113–291, div. A, title XVI, § 1621(a)][/us/pl/113/291/s1621/a], Dec. 19, 2014, [128 Stat. 3631][/us/stat/128/3631].)
+(Added [Pub. L. 113–291, div. A, title XVI][/us/pl/113/291/dA/tXVI], § 1621(a), Dec. 19, 2014, [128 Stat. 3631][/us/stat/128/3631].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
-[/us/pl/113/291/s1621/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1621%2Fa
+[/us/pl/113/291/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXVI
 [/us/stat/128/3631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3631
 
 

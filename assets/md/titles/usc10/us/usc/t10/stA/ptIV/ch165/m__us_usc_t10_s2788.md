@@ -17,7 +17,7 @@
 
     The Secretary of a military department may prescribe regulations for the accounting for the property of that department and the fixing of responsibility for that property.
 
-(Added [Pub. L. 110–181, div. A, title III, § 375(a)][/us/pl/110/181/s375/a], Jan. 28, 2008, [122 Stat. 83][/us/stat/122/83].)
+(Added [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 375(a), Jan. 28, 2008, [122 Stat. 83][/us/stat/122/83].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/181/s375/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs375%2Fa
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F83
 
 

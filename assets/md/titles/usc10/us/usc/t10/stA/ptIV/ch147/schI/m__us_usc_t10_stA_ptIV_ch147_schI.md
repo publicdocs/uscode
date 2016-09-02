@@ -67,9 +67,9 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–364, div. A, title X, § 1071(a)(18)][/us/pl/109/364/s1071/a/18], Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399], inserted period at end of item 2481.
+    2006—[Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(18), Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399], inserted period at end of item 2481.
 
-    2004—[Pub. L. 108–375, div. A, title VI, § 651(a)(3)][/us/pl/108/375/s651/a/3], Oct. 28, 2004, [118 Stat. 1964][/us/stat/118/1964], added subchapter heading and items 2481 to 2485.
+    2004—[Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 651(a)(3), Oct. 28, 2004, [118 Stat. 1964][/us/stat/118/1964], added subchapter heading and items 2481 to 2485.
 
 ----------
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/109/364/s1071/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F18
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2399
-[/us/pl/108/375/s651/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs651%2Fa%2F3
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1964
 
 

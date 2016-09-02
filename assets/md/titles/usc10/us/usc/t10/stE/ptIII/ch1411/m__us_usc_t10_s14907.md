@@ -27,11 +27,11 @@
 
     An officer of the Army National Guard of the United States or the Air National Guard of the United States whose Federal recognition as an officer of the National Guard is withdrawn under [section 323(b) of title 32][/us/usc/t32/s323/b] shall be discharged from the officer’s appointment as a reserve officer of the Army or the Air Force, as the case may be.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2960][/us/stat/108/2960].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2960][/us/stat/108/2960].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 3820(a), (b) and 8820 of this title, prior to repeal by [Pub. L. 103–337, § 1629(a)(2)][/us/pl/103/337/s1629/a/2], (c)(2).
+    Provisions similar to those in this section were contained in sections 3820(a), (b) and 8820 of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(a)(2), (c)(2).
 
 ----------
 
@@ -41,8 +41,8 @@
 ----------
 
 [/us/usc/t32/s323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs323%2Fb
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2960
-[/us/pl/103/337/s1629/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fa%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 
 

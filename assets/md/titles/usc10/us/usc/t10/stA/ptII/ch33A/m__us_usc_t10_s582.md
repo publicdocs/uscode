@@ -29,7 +29,7 @@
 
     (3) Students enrolled in the Army Physician’s Assistant Program.
 
-(Added [Pub. L. 102–190, div. A, title XI, § 1112(a)][/us/pl/102/190/s1112/a], Dec. 5, 1991, [105 Stat. 1500][/us/stat/105/1500]; amended [Pub. L. 103–337, div. A, title V, § 501(d)][/us/pl/103/337/s501/d], Oct. 5, 1994, [108 Stat. 2748][/us/stat/108/2748]; [Pub. L. 104–106, div. A, title XV, § 1501(c)(5)][/us/pl/104/106/s1501/c/5], Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498]; [Pub. L. 108–375, div. A, title IV, § 416(i)][/us/pl/108/375/s416/i], Oct. 28, 2004, [118 Stat. 1869][/us/stat/118/1869].)
+(Added [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1112(a), Dec. 5, 1991, [105 Stat. 1500][/us/stat/105/1500]; amended [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 501(d), Oct. 5, 1994, [108 Stat. 2748][/us/stat/108/2748]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(c)(5), Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498]; [Pub. L. 108–375, div. A, title IV][/us/pl/108/375/dA/tIV], § 416(i), Oct. 28, 2004, [118 Stat. 1869][/us/stat/118/1869].)
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–106, div. A, title XV, § 1501(c)][/us/pl/104/106/s1501/c], Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498], provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as originally enacted.
+    [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(c), Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498], provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as originally enacted.
 
 ----------
 
@@ -63,13 +63,13 @@
 ----------
 
 [/us/usc/t10/s115/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs115%2Fi
-[/us/pl/102/190/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1112%2Fa
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1500
-[/us/pl/103/337/s501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs501%2Fd
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2748
-[/us/pl/104/106/s1501/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc%2F5
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F498
-[/us/pl/108/375/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs416%2Fi
+[/us/pl/108/375/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIV
 [/us/stat/118/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1869
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t10/s12301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12301%2Fd
@@ -77,7 +77,7 @@
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
-[/us/pl/104/106/s1501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F498
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 

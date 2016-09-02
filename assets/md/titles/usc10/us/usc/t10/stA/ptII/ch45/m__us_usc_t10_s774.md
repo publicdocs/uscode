@@ -35,7 +35,7 @@
 
     In this section, the term “religious apparel” means apparel the wearing of which is part of the observance of the religious faith practiced by the member.
 
-(Added [Pub. L. 100–180, div. A, title V, § 508(a)(2)][/us/pl/100/180/s508/a/2], Dec. 4, 1987, [101 Stat. 1086][/us/stat/101/1086].)
+(Added [Pub. L. 100–180, div. A, title V][/us/pl/100/180/dA/tV], § 508(a)(2), Dec. 4, 1987, [101 Stat. 1086][/us/stat/101/1086].)
 
  __Prior Provisions__ 
 
@@ -43,7 +43,7 @@
 
  __Regulations__ 
 
-    [Pub. L. 100–180, div. A, title V, § 508(c)][/us/pl/100/180/s508/c], Dec. 4, 1987, [101 Stat. 1087][/us/stat/101/1087], directed the Secretary concerned to prescribe the regulations required by subsec. (c) of this section not later than the end of the 120-day period beginning on Dec. 4, 1987.
+    [Pub. L. 100–180, div. A, title V][/us/pl/100/180/dA/tV], § 508(c), Dec. 4, 1987, [101 Stat. 1087][/us/stat/101/1087], directed the Secretary concerned to prescribe the regulations required by subsec. (c) of this section not later than the end of the 120-day period beginning on Dec. 4, 1987.
 
 ----------
 
@@ -52,10 +52,10 @@
 ----------
 ----------
 
-[/us/pl/100/180/s508/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs508%2Fa%2F2
+[/us/pl/100/180/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtV
 [/us/stat/101/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1086
 [/us/usc/t10/s776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs776
-[/us/pl/100/180/s508/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs508%2Fc
+[/us/pl/100/180/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtV
 [/us/stat/101/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1087
 
 

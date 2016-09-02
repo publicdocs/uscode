@@ -133,7 +133,7 @@
 
         (2) The term “Quadrennial Defense Review” means the review of the defense programs and policies of the United States that is carried out every 4 years under [section 118 of this title][/us/usc/t10/s118].
 
-(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title I, § 141(a), Oct. 14, 2008, [122 Stat. 4379][/us/stat/122/4379]; amended [Pub. L. 112–81, div. A, title X, § 1069(a)][/us/pl/112/81/s1069/a], (b), Dec. 31, 2011, [125 Stat. 1589][/us/stat/125/1589], 1591; [Pub. L. 113–66, div. A, title X, § 1091(a)(5)][/us/pl/113/66/s1091/a/5], Dec. 26, 2013, [127 Stat. 875][/us/stat/127/875]; [Pub. L. 113–291, div. A, title X, § 1071(c)(2)][/us/pl/113/291/s1071/c/2], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
+(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title I, § 141(a), Oct. 14, 2008, [122 Stat. 4379][/us/stat/122/4379]; amended [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1069(a), (b), Dec. 31, 2011, [125 Stat. 1589][/us/stat/125/1589], 1591; [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1091(a)(5), Dec. 26, 2013, [127 Stat. 875][/us/stat/127/875]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(c)(2), Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
 
  __Amendments__ 
 
@@ -141,35 +141,35 @@
 
     2013—Subsec. (a). [Pub. L. 113–66][/us/pl/113/66] substituted “fiscal year, the Secretary of Defense” for “fiscal year of Defense” in introductory provisions.
 
-    2011—[Pub. L. 112–81, § 1069(b)][/us/pl/112/81/s1069/b], amended section catchline generally, substituting “Budgeting for life-cycle cost of aircraft for the Navy, Army, and Air Force: annual plan and certification” for “Budgeting for procurement of aircraft for the Navy and Air Force: annual plan and certification”.
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 1069(b), amended section catchline generally, substituting “Budgeting for life-cycle cost of aircraft for the Navy, Army, and Air Force: annual plan and certification” for “Budgeting for procurement of aircraft for the Navy and Air Force: annual plan and certification”.
 
-    Subsec. (a). [Pub. L. 112–81, § 1069(a)(1)(A)][/us/pl/112/81/s1069/a/1/A], substituted “Not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year” for “The Secretary” and “submit to the congressional defense committees” for “include with the defense budget materials for each fiscal year” in introductory provisions.
+    Subsec. (a). [Pub. L. 112–81][/us/pl/112/81], § 1069(a)(1)(A), substituted “Not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year” for “The Secretary” and “submit to the congressional defense committees” for “include with the defense budget materials for each fiscal year” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 112–81, § 1069(a)(1)(B)][/us/pl/112/81/s1069/a/1/B], inserted “, the Department of the Army,” after “Navy”.
+    Subsec. (a)(1). [Pub. L. 112–81][/us/pl/112/81], § 1069(a)(1)(B), inserted “, the Department of the Army,” after “Navy”.
 
-    Subsec. (b)(4). [Pub. L. 112–81, § 1069(a)(2)(A)][/us/pl/112/81/s1069/a/2/A], substituted “Intertheater” for “Strategic”.
+    Subsec. (b)(4). [Pub. L. 112–81][/us/pl/112/81], § 1069(a)(2)(A), substituted “Intertheater” for “Strategic”.
 
-    Subsec. (b)(8) to (11). [Pub. L. 112–81, § 1069(a)(2)(B)][/us/pl/112/81/s1069/a/2/B], (C), added pars. (8) to (10) and redesignated former par. (8) as (11).
+    Subsec. (b)(8) to (11). [Pub. L. 112–81][/us/pl/112/81], § 1069(a)(2)(B), (C), added pars. (8) to (10) and redesignated former par. (8) as (11).
 
-    Subsec. (c)(1). [Pub. L. 112–81, § 1069(a)(3)(A)][/us/pl/112/81/s1069/a/3/A], substituted “national military strategy of the United States” for “national security strategy of the United States”.
+    Subsec. (c)(1). [Pub. L. 112–81][/us/pl/112/81], § 1069(a)(3)(A), substituted “national military strategy of the United States” for “national security strategy of the United States”.
 
-    Subsec. (c)(2)(A). [Pub. L. 112–81, § 1069(a)(3)(B)(i)][/us/pl/112/81/s1069/a/3/B/i], inserted “, the Department of the Army,” after “Navy”.
+    Subsec. (c)(2)(A). [Pub. L. 112–81][/us/pl/112/81], § 1069(a)(3)(B)(i), inserted “, the Department of the Army,” after “Navy”.
 
-    Subsec. (c)(2)(B). [Pub. L. 112–81, § 1069(a)(3)(B)(ii)][/us/pl/112/81/s1069/a/3/B/ii], substituted “national military strategy of the United States” for “national security strategy of the United States”.
+    Subsec. (c)(2)(B). [Pub. L. 112–81][/us/pl/112/81], § 1069(a)(3)(B)(ii), substituted “national military strategy of the United States” for “national security strategy of the United States”.
 
-    Subsec. (c)(2)(C). [Pub. L. 112–81, § 1069(a)(3)(B)(iii)(II)][/us/pl/112/81/s1069/a/3/B/iii/II], (III), substituted “each aircraft program” for “the program” and inserted before period at end “, set forth in aggregate for the Department of Defense and in aggregate for each military department”.
+    Subsec. (c)(2)(C). [Pub. L. 112–81][/us/pl/112/81], § 1069(a)(3)(B)(iii)(II), (III), substituted “each aircraft program” for “the program” and inserted before period at end “, set forth in aggregate for the Department of Defense and in aggregate for each military department”.
 
-    [Pub. L. 112–81, § 1069(a)(3)(B)(iii)(I)][/us/pl/112/81/s1069/a/3/B/iii/I], which directed the insertion of “investment” before “funding”, was executed by inserting “investment” before “funding” both places it appeared, to reflect the probable intent of Congress.
+    [Pub. L. 112–81][/us/pl/112/81], § 1069(a)(3)(B)(iii)(I), which directed the insertion of “investment” before “funding”, was executed by inserting “investment” before “funding” both places it appeared, to reflect the probable intent of Congress.
 
-    Subsec. (c)(2)(D) to (F). [Pub. L. 112–81, § 1069(a)(3)(B)(iv)][/us/pl/112/81/s1069/a/3/B/iv]–(vi), added subpars. (D) and (E), redesignated former subpar. (D) as (F), and, in subpar. (F), inserted “, the Department of the Army,” after “Navy”.
+    Subsec. (c)(2)(D) to (F). [Pub. L. 112–81][/us/pl/112/81], § 1069(a)(3)(B)(iv)–(vi), added subpars. (D) and (E), redesignated former subpar. (D) as (F), and, in subpar. (F), inserted “, the Department of the Army,” after “Navy”.
 
-    Subsec. (c)(3), (4). [Pub. L. 112–81, § 1069(a)(3)(C)][/us/pl/112/81/s1069/a/3/C], added pars. (3) and (4).
+    Subsec. (c)(3), (4). [Pub. L. 112–81][/us/pl/112/81], § 1069(a)(3)(C), added pars. (3) and (4).
 
-    Subsec. (d). [Pub. L. 112–81, § 1069(a)(4)][/us/pl/112/81/s1069/a/4], inserted “, the Department of the Army,” after “Navy”.
+    Subsec. (d). [Pub. L. 112–81][/us/pl/112/81], § 1069(a)(4), inserted “, the Department of the Army,” after “Navy”.
 
-    Subsec. (e). [Pub. L. 112–81, § 1069(a)(6)][/us/pl/112/81/s1069/a/6], added subsec. (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 112–81][/us/pl/112/81], § 1069(a)(6), added subsec. (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 112–81, § 1069(a)(5)][/us/pl/112/81/s1069/a/5], (7), redesignated subsec. (e) as (f), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “The term ‘defense budget materials’, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.”
+    Subsec. (f). [Pub. L. 112–81][/us/pl/112/81], § 1069(a)(5), (7), redesignated subsec. (e) as (f), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “The term ‘defense budget materials’, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.”
 
 ----------
 
@@ -185,30 +185,30 @@
 [/us/usc/t10/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs118
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4379
-[/us/pl/112/81/s1069/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1069%2Fa
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1589
-[/us/pl/113/66/s1091/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fa%2F5
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F875
-[/us/pl/113/291/s1071/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F2
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/112/81/s1069/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1069%2Fb
-[/us/pl/112/81/s1069/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1069%2Fa%2F1%2FA
-[/us/pl/112/81/s1069/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1069%2Fa%2F1%2FB
-[/us/pl/112/81/s1069/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1069%2Fa%2F2%2FA
-[/us/pl/112/81/s1069/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1069%2Fa%2F2%2FB
-[/us/pl/112/81/s1069/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1069%2Fa%2F3%2FA
-[/us/pl/112/81/s1069/a/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1069%2Fa%2F3%2FB%2Fi
-[/us/pl/112/81/s1069/a/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1069%2Fa%2F3%2FB%2Fii
-[/us/pl/112/81/s1069/a/3/B/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1069%2Fa%2F3%2FB%2Fiii%2FII
-[/us/pl/112/81/s1069/a/3/B/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1069%2Fa%2F3%2FB%2Fiii%2FI
-[/us/pl/112/81/s1069/a/3/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1069%2Fa%2F3%2FB%2Fiv
-[/us/pl/112/81/s1069/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1069%2Fa%2F3%2FC
-[/us/pl/112/81/s1069/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1069%2Fa%2F4
-[/us/pl/112/81/s1069/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1069%2Fa%2F6
-[/us/pl/112/81/s1069/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1069%2Fa%2F5
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 
 

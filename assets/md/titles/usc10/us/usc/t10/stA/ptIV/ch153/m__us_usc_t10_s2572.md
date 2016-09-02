@@ -91,7 +91,7 @@
 
             (B) the transfer is made after September 30, 2017.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 143][/us/stat/70A/143]; [Pub. L. 96–513, title V, § 511(82)][/us/pl/96/513/s511/82], Dec. 12, 1980, [94 Stat. 2927][/us/stat/94/2927]; [Pub. L. 100–456, div. A, title III, § 324(a)][/us/pl/100/456/s324/a], Sept. 29, 1988, [102 Stat. 1954][/us/stat/102/1954]; [Pub. L. 101–510, div. A, title III, § 325][/us/pl/101/510/s325], Nov. 5, 1990, [104 Stat. 1531][/us/stat/104/1531]; [Pub. L. 102–484, div. A, title III, § 373][/us/pl/102/484/s373], Oct. 23, 1992, [106 Stat. 2385][/us/stat/106/2385]; [Pub. L. 103–337, div. A, title X, § 1071][/us/pl/103/337/s1071], Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859]; [Pub. L. 104–106, div. A, title III, § 372][/us/pl/104/106/s372], Feb. 10, 1996, [110 Stat. 280][/us/stat/110/280]; [Pub. L. 107–107, div. A, title X, § 1043(d)][/us/pl/107/107/s1043/d], Dec. 28, 2001, [115 Stat. 1219][/us/stat/115/1219]; [Pub. L. 107–217, § 3(b)(9)][/us/pl/107/217/s3/b/9], Aug. 21, 2002, [116 Stat. 1296][/us/stat/116/1296]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title III, § 369][/us/pl/107/314/s369], Dec. 2, 2002, [116 Stat. 2524][/us/stat/116/2524]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 352, Oct. 14, 2008, [122 Stat. 4425][/us/stat/122/4425]; [Pub. L. 112–239, div. A, title III, § 355(a)][/us/pl/112/239/s355/a], Jan. 2, 2013, [126 Stat. 1702][/us/stat/126/1702].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 143][/us/stat/70A/143]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(82), Dec. 12, 1980, [94 Stat. 2927][/us/stat/94/2927]; [Pub. L. 100–456, div. A, title III][/us/pl/100/456/dA/tIII], § 324(a), Sept. 29, 1988, [102 Stat. 1954][/us/stat/102/1954]; [Pub. L. 101–510, div. A, title III][/us/pl/101/510/dA/tIII], § 325, Nov. 5, 1990, [104 Stat. 1531][/us/stat/104/1531]; [Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 373, Oct. 23, 1992, [106 Stat. 2385][/us/stat/106/2385]; [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1071, Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859]; [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 372, Feb. 10, 1996, [110 Stat. 280][/us/stat/110/280]; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1043(d), Dec. 28, 2001, [115 Stat. 1219][/us/stat/115/1219]; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(9), Aug. 21, 2002, [116 Stat. 1296][/us/stat/116/1296]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title III][/us/pl/107/314/dA/tIII], § 369, Dec. 2, 2002, [116 Stat. 2524][/us/stat/116/2524]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 352, Oct. 14, 2008, [122 Stat. 4425][/us/stat/122/4425]; [Pub. L. 112–239, div. A, title III][/us/pl/112/239/dA/tIII], § 355(a), Jan. 2, 2013, [126 Stat. 1702][/us/stat/126/1702].)
 
 <table>
 
@@ -143,9 +143,9 @@ May 22, 1896, ch. 231; restated May 26, 1928, ch. 785; restated Feb. 28, 1933, c
 
     2013—Subsec. (e). [Pub. L. 112–239][/us/pl/112/239] added subsec. (e).
 
-    2008—Subsec. (d)(1). [Pub. L. 110–417, § 352(1)][/us/pl/110/417/s352/1], inserted at end “The Secretary concerned shall ensure that an item authorized to be donated under this section is demilitarized in the interest of public safety, as determined necessary by the Secretary or the Secretary’s delegee.”
+    2008—Subsec. (d)(1). [Pub. L. 110–417][/us/pl/110/417], § 352(1), inserted at end “The Secretary concerned shall ensure that an item authorized to be donated under this section is demilitarized in the interest of public safety, as determined necessary by the Secretary or the Secretary’s delegee.”
 
-    Subsec. (d)(2)(A). [Pub. L. 110–417, § 352(2)][/us/pl/110/417/s352/2], inserted “, including any expense associated with demilitarizing an item under paragraph (1), for which the recipient of the item shall be responsible” before period at end.
+    Subsec. (d)(2)(A). [Pub. L. 110–417][/us/pl/110/417], § 352(2), inserted “, including any expense associated with demilitarizing an item under paragraph (1), for which the recipient of the item shall be responsible” before period at end.
 
     2002—Subsec. (a). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation” in introductory provisions.
 
@@ -153,11 +153,11 @@ May 22, 1896, ch. 231; restated May 26, 1928, ch. 785; restated Feb. 28, 1933, c
 
     Subsec. (d)(1). [Pub. L. 107–217][/us/pl/107/217] substituted “[section 121 of title 40][/us/usc/t40/s121]” for “section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486][/us/usc/t40/s486])”.
 
-    2001—Subsec. (a)(1). [Pub. L. 107–107, § 1043(d)(1)][/us/pl/107/107/s1043/d/1], inserted “, county, or other political subdivision of a State” before period at end.
+    2001—Subsec. (a)(1). [Pub. L. 107–107][/us/pl/107/107], § 1043(d)(1), inserted “, county, or other political subdivision of a State” before period at end.
 
-    Subsec. (a)(2). [Pub. L. 107–107, § 1043(d)(2)][/us/pl/107/107/s1043/d/2], substituted “servicemen’s monument” for “soldiers’ monument”.
+    Subsec. (a)(2). [Pub. L. 107–107][/us/pl/107/107], § 1043(d)(2), substituted “servicemen’s monument” for “soldiers’ monument”.
 
-    Subsec. (a)(4). [Pub. L. 107–107, § 1043(d)(3)][/us/pl/107/107/s1043/d/3], inserted “or memorial” after “An incorporated museum”.
+    Subsec. (a)(4). [Pub. L. 107–107][/us/pl/107/107], § 1043(d)(3), inserted “or memorial” after “An incorporated museum”.
 
     1996—Subsec. (b)(1). [Pub. L. 104–106][/us/pl/104/106] substituted “not needed by the armed forces for any of the following items or services if such items or services directly benefit the historical collection of the armed forces:” for “not needed by the armed forces for similar items held by any individual, organization, institution, agency, or nation or for search, salvage, transportation, and restoration services which directly benefit the historical collection of the armed forces.” and added subpars. (A) to (E).
 
@@ -165,9 +165,9 @@ May 22, 1896, ch. 231; restated May 26, 1928, ch. 785; restated Feb. 28, 1933, c
 
     1992—Subsec. (d)(2). [Pub. L. 102–484][/us/pl/102/484] designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the” for “The”, and added subpar. (B).
 
-    1990—Subsec. (b)(1). [Pub. L. 101–510, § 325(1)][/us/pl/101/510/s325/1], inserted before period at end “or for search, salvage, and restoration services which directly benefit the historical collection of the armed forces”.
+    1990—Subsec. (b)(1). [Pub. L. 101–510][/us/pl/101/510], § 325(1), inserted before period at end “or for search, salvage, and restoration services which directly benefit the historical collection of the armed forces”.
 
-    Subsec. (b)(2). [Pub. L. 101–510, § 325(2)][/us/pl/101/510/s325/2], inserted “, or services provided,” after “monetary value of property transferred” in first sentence and “in the case of an exchange of property for property” after “preceding sentence” in second sentence.
+    Subsec. (b)(2). [Pub. L. 101–510][/us/pl/101/510], § 325(2), inserted “, or services provided,” after “monetary value of property transferred” in first sentence and “in the case of an exchange of property for property” after “preceding sentence” in second sentence.
 
     1988—[Pub. L. 100–456][/us/pl/100/456] substituted “Documents, historical artifacts, and condemned or obsolete combat materiel: loan, gift, or exchange” for “Condemned or obsolete material: loan or gift to certain organizations” in section catchline, and amended text generally. Prior to amendment, text read as follows: “Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486][/us/usc/t40/s486]), the Secretary of a military department, or the Secretary of Transportation, under regulations to be prescribed by him, may lend or give, without expense to the United States, books, manuscripts, works of art, drawings, plans, models, and condemned or obsolete combat material that are not needed by that department to—
 
@@ -199,11 +199,11 @@ May 22, 1896, ch. 231; restated May 26, 1928, ch. 785; restated Feb. 28, 1933, c
 
  __Acquisition of Historical Artifacts Through Exchange of Obsolete or Surplus Property__ 
 
-    [Pub. L. 108–136, div. A, title X, § 1052][/us/pl/108/136/s1052], Nov. 24, 2003, [117 Stat. 1614][/us/stat/117/1614], provided that, during fiscal years 2004 and 2005, the Secretary of a military department could use the authority provided by this section to acquire an historical artifact that directly benefitted the historical collection of the Armed Forces in exchange for any obsolete or surplus property held by that military department, without regard to whether the property was described in subsec. (c) of this section.
+    [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1052, Nov. 24, 2003, [117 Stat. 1614][/us/stat/117/1614], provided that, during fiscal years 2004 and 2005, the Secretary of a military department could use the authority provided by this section to acquire an historical artifact that directly benefitted the historical collection of the Armed Forces in exchange for any obsolete or surplus property held by that military department, without regard to whether the property was described in subsec. (c) of this section.
 
  __Moratorium on the Return of Veterans Memorial Objects to Foreign Nations Without Specific Authorization in Law__ 
 
-    [Pub. L. 106–65, div. A, title X, § 1051][/us/pl/106/65/s1051], Oct. 5, 1999, [113 Stat. 763][/us/stat/113/763], as amended by [Pub. L. 109–163, div. A, title X, § 1061][/us/pl/109/163/s1061], Jan. 6, 2006, [119 Stat. 3445][/us/stat/119/3445], established a moratorium period during which the President was prohibited from transferring a veterans memorial object to a foreign country or an entity controlled by a foreign government unless specifically authorized by law, prior to repeal by [Pub. L. 112–239, div. A, title III, § 355(b)][/us/pl/112/239/s355/b], Jan. 2, 2013, [126 Stat. 1702][/us/stat/126/1702].
+    [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1051, Oct. 5, 1999, [113 Stat. 763][/us/stat/113/763], as amended by [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1061, Jan. 6, 2006, [119 Stat. 3445][/us/stat/119/3445], established a moratorium period during which the President was prohibited from transferring a veterans memorial object to a foreign country or an entity controlled by a foreign government unless specifically authorized by law, prior to repeal by [Pub. L. 112–239, div. A, title III][/us/pl/112/239/dA/tIII], § 355(b), Jan. 2, 2013, [126 Stat. 1702][/us/stat/126/1702].
 
 ----------
 
@@ -216,46 +216,46 @@ May 22, 1896, ch. 231; restated May 26, 1928, ch. 785; restated Feb. 28, 1933, c
 [/us/usc/t10/s2536/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2536%2Fc%2F1
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F143
-[/us/pl/96/513/s511/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F82
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2927
-[/us/pl/100/456/s324/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs324%2Fa
+[/us/pl/100/456/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtIII
 [/us/stat/102/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1954
-[/us/pl/101/510/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs325
+[/us/pl/101/510/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIII
 [/us/stat/104/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1531
-[/us/pl/102/484/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs373
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2385
-[/us/pl/103/337/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1071
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2859
-[/us/pl/104/106/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs372
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F280
-[/us/pl/107/107/s1043/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1043%2Fd
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1219
-[/us/pl/107/217/s3/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F9
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1296
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/107/314/s369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs369
+[/us/pl/107/314/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtIII
 [/us/stat/116/2524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2524
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4425
-[/us/pl/112/239/s355/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs355%2Fa
+[/us/pl/112/239/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIII
 [/us/stat/126/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1702
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/110/417/s352/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs352%2F1
-[/us/pl/110/417/s352/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs352%2F2
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs121
 [/us/usc/t40/s486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs486
-[/us/pl/107/107/s1043/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1043%2Fd%2F1
-[/us/pl/107/107/s1043/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1043%2Fd%2F2
-[/us/pl/107/107/s1043/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1043%2Fd%2F3
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/101/510/s325/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs325%2F1
-[/us/pl/101/510/s325/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs325%2F2
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/usc/t40/s486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs486
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
@@ -267,13 +267,13 @@ May 22, 1896, ch. 231; restated May 26, 1928, ch. 785; restated Feb. 28, 1933, c
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/108/136/s1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1052
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1614
-[/us/pl/106/65/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1051
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F763
-[/us/pl/109/163/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1061
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3445
-[/us/pl/112/239/s355/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs355%2Fb
+[/us/pl/112/239/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIII
 [/us/stat/126/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1702
 
 

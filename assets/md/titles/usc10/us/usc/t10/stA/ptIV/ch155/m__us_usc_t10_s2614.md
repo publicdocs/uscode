@@ -37,7 +37,7 @@
 
     A person providing services accepted under this section may not be considered, by reason of the provision of such services, to be an officer, employee, or agent of the United States for any purpose.
 
-(Added [Pub. L. 108–375, div. A, title X, § 1051(a)][/us/pl/108/375/s1051/a], Oct. 28, 2004, [118 Stat. 2053][/us/stat/118/2053], § 2613; renumbered § 2614 and amended [Pub. L. 109–364, div. A, title X, § 1071(a)(19)(A)][/us/pl/109/364/s1071/a/19/A], Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399].)
+(Added [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1051(a), Oct. 28, 2004, [118 Stat. 2053][/us/stat/118/2053], § 2613; renumbered § 2614 and amended [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(19)(A), Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/108/375/s1051/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1051%2Fa
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2053
-[/us/pl/109/364/s1071/a/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F19%2FA
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2399
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s2613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2613

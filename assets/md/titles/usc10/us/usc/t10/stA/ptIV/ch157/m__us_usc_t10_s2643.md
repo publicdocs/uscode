@@ -23,7 +23,7 @@
 
     [Section 2483(b)(5) of this title][/us/usc/t10/s2483/b/5], regarding the use of appropriated funds to cover the expenses of operating commissary stores, shall apply to the transportation of commissary supplies and products. Appropriated funds for the Department of Defense shall also be used to cover the expenses of transporting exchange supplies and products to destinations outside the continental United States.
 
-(Added [Pub. L. 104–106, div. A, title III, § 334(a)][/us/pl/104/106/s334/a], Feb. 10, 1996, [110 Stat. 261][/us/stat/110/261]; amended [Pub. L. 109–163, div. A, title VI, § 673][/us/pl/109/163/s673], Jan. 6, 2006, [119 Stat. 3319][/us/stat/119/3319].)
+(Added [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 334(a), Feb. 10, 1996, [110 Stat. 261][/us/stat/110/261]; amended [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 673, Jan. 6, 2006, [119 Stat. 3319][/us/stat/119/3319].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 
 [/us/usc/t10/s2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2631
 [/us/usc/t10/s2483/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2483%2Fb%2F5
-[/us/pl/104/106/s334/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs334%2Fa
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F261
-[/us/pl/109/163/s673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs673
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3319
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 

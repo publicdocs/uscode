@@ -11,20 +11,20 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4536.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4540.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4539)
+[Previous](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4537 _us_usc_t10_s4538.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4540.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4539)
 
-## \[§ 4539. Repealed. [Pub. L. 91–482, § 1(a)][/us/pl/91/482/s1/a], Oct. 21, 1970, [84 Stat. 1082][/us/stat/84/1082]\]
+## \[§ 4539. Repealed. [Pub. L. 91–482][/us/pl/91/482], § 1(a), Oct. 21, 1970, [84 Stat. 1082][/us/stat/84/1082]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 255][/us/stat/70A/255], provided for purchase of horses and mules in open market at Army posts, within maximum prices prescribed by Secretary of the Army.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4536.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4540.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4539)
+[Previous](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4537 _us_usc_t10_s4538.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4540.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4539)
 
 ----------
 ----------
 
-[/us/pl/91/482/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F482%2Fs1%2Fa
+[/us/pl/91/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F482
 [/us/stat/84/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1082
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F255

@@ -19,7 +19,7 @@
 
     (b) Monthly cadet pay and monthly midshipman pay under [section 203(c) of title 37][/us/usc/t37/s203/c] shall be considered to be basic pay for purposes of this chapter and the computation of retired pay and severance and separation pay to which entitlement is established under this chapter.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 100][/us/stat/70A/100]; [Pub. L. 85–861, § 33(a)(7)][/us/pl/85/861/s33/a/7], Sept. 2, 1958, [72 Stat. 1564][/us/stat/72/1564]; [Pub. L. 108–375, div. A, title V, § 555(b)(1)][/us/pl/108/375/s555/b/1], Oct. 28, 2004, [118 Stat. 1914][/us/stat/118/1914]; [Pub. L. 109–364, div. A, title X, § 1071(a)(6)][/us/pl/109/364/s1071/a/6], Oct. 17, 2006, [120 Stat. 2398][/us/stat/120/2398].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 100][/us/stat/70A/100]; [Pub. L. 85–861][/us/pl/85/861], § 33(a)(7), Sept. 2, 1958, [72 Stat. 1564][/us/stat/72/1564]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 555(b)(1), Oct. 28, 2004, [118 Stat. 1914][/us/stat/118/1914]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(6), Oct. 17, 2006, [120 Stat. 2398][/us/stat/120/2398].)
 
 <table>
 
@@ -101,11 +101,11 @@ Source (Statutes at Large)  </td>
 [/us/usc/t37/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs203%2Fc
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F100
-[/us/pl/85/861/s33/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F7
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1564
-[/us/pl/108/375/s555/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs555%2Fb%2F1
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1914
-[/us/pl/109/364/s1071/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F6
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2398
 [/us/usc/t37/s231/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs231%2Fb
 [/us/usc/t37/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs271

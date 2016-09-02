@@ -41,7 +41,7 @@
 
         (2) Members of any other organization designated by the Secretary of a military department.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 35][/us/stat/70A/35]; [Pub. L. 99–145, title XIII, § 1301(a)(1)][/us/pl/99/145/s1301/a/1], Nov. 8, 1985, [99 Stat. 735][/us/stat/99/735]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 104–201, div. A, title V, § 551(b)][/us/pl/104/201/s551/b], Sept. 23, 1996, [110 Stat. 2525][/us/stat/110/2525].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 35][/us/stat/70A/35]; [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1301(a)(1), Nov. 8, 1985, [99 Stat. 735][/us/stat/99/735]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 551(b), Sept. 23, 1996, [110 Stat. 2525][/us/stat/110/2525].)
 
 <table>
 
@@ -224,11 +224,11 @@ For information regarding constitutionality of certain provisions of this sectio
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F35
-[/us/pl/99/145/s1301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1301%2Fa%2F1
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F735
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1602
-[/us/pl/104/201/s551/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs551%2Fb
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2525
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189

@@ -47,17 +47,17 @@
 
     The Secretary shall ensure that regulations prescribed under this section are consistent with generally accepted practices in private medical treatment facilities.
 
-(Added [Pub. L. 112–81, div. A, title VII, § 704(a)][/us/pl/112/81/s704/a], Dec. 31, 2011, [125 Stat. 1472][/us/stat/125/1472]; amended [Pub. L. 113–291, div. A, title VII, § 705][/us/pl/113/291/s705], Dec. 19, 2014, [128 Stat. 3413][/us/stat/128/3413].)
+(Added [Pub. L. 112–81, div. A, title VII][/us/pl/112/81/dA/tVII], § 704(a), Dec. 31, 2011, [125 Stat. 1472][/us/stat/125/1472]; amended [Pub. L. 113–291, div. A, title VII][/us/pl/113/291/dA/tVII], § 705, Dec. 19, 2014, [128 Stat. 3413][/us/stat/128/3413].)
 
  __Amendments__ 
 
-    2014—Subsec. (a)(2). [Pub. L. 113–291, § 705(1)][/us/pl/113/291/s705/1], substituted “A member or former member” for “A member” wherever appearing.
+    2014—Subsec. (a)(2). [Pub. L. 113–291][/us/pl/113/291], § 705(1), substituted “A member or former member” for “A member” wherever appearing.
 
-    Subsec. (a)(2)(C). [Pub. L. 113–291, § 705(2)][/us/pl/113/291/s705/2], substituted “member, former member, or dependent” for “member or dependent”.
+    Subsec. (a)(2)(C). [Pub. L. 113–291][/us/pl/113/291], § 705(2), substituted “member, former member, or dependent” for “member or dependent”.
 
  __Effective Date__ 
 
-[Pub. L. 112–81, div. A, title VII, § 704(c)][/us/pl/112/81/s704/c], Dec. 31, 2011, [125 Stat. 1473][/us/stat/125/1473], provided that: 
+[Pub. L. 112–81, div. A, title VII][/us/pl/112/81/dA/tVII], § 704(c), Dec. 31, 2011, [125 Stat. 1473][/us/stat/125/1473], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect on the date that is 90 days after the date of the enactment of this Act \[Dec. 31, 2011\].”
 
@@ -68,13 +68,13 @@
 ----------
 ----------
 
-[/us/pl/112/81/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs704%2Fa
+[/us/pl/112/81/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVII
 [/us/stat/125/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1472
-[/us/pl/113/291/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs705
+[/us/pl/113/291/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVII
 [/us/stat/128/3413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3413
-[/us/pl/113/291/s705/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs705%2F1
-[/us/pl/113/291/s705/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs705%2F2
-[/us/pl/112/81/s704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs704%2Fc
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/112/81/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVII
 [/us/stat/125/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1473
 
 

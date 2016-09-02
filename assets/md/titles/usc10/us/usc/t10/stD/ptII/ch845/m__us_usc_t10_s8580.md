@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stD/ptII/ch845/m__us_usc_t10_s8579.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch845/m__us_usc_t10_s8581.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8580)
 
-## \[§ 8580. Repealed. [Pub. L. 90–130, § 1(30)][/us/pl/90/130/s1/30], Nov. 8, 1967, [81 Stat. 382][/us/stat/81/382]\]
+## \[§ 8580. Repealed. [Pub. L. 90–130][/us/pl/90/130], § 1(30), Nov. 8, 1967, [81 Stat. 382][/us/stat/81/382]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 531][/us/stat/70A/531], provided that Secretary of Air Force should prescribe military authority that female members of Air Force, except those designated under [section 8067 of this title][/us/usc/t10/s8067] to perform professional functions, might exercise.
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/pl/90/130/s1/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs1%2F30
+[/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/stat/81/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F382
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F531

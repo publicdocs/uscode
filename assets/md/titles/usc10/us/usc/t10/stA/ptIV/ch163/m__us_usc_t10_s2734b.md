@@ -23,7 +23,7 @@
 
     (d) A payment under this section shall be made by the Secretary of Defense out of appropriations as provided in [section 2732 of this title][/us/usc/t10/s2732].
 
-(Added [Pub. L. 87–651, title I, § 113(a)][/us/pl/87/651/s113/a], Sept. 7, 1962, [76 Stat. 512][/us/stat/76/512]; amended [Pub. L. 94–390, § 1(2)][/us/pl/94/390/s1/2], Aug. 19, 1976, [90 Stat. 1191][/us/stat/90/1191]; [Pub. L. 101–510, div. A, title XIV, § 1481(j)(4)(C)][/us/pl/101/510/s1481/j/4/C], Nov. 5, 1990, [104 Stat. 1709][/us/stat/104/1709].)
+(Added [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 113(a), Sept. 7, 1962, [76 Stat. 512][/us/stat/76/512]; amended [Pub. L. 94–390][/us/pl/94/390], § 1(2), Aug. 19, 1976, [90 Stat. 1191][/us/stat/90/1191]; [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1481(j)(4)(C), Nov. 5, 1990, [104 Stat. 1709][/us/stat/104/1709].)
 
 <table>
 
@@ -103,11 +103,11 @@ Aug. 31, 1954, ch. 1152, §§ 1 (proviso, less applicability to § 1), 2, 3,
 ----------
 
 [/us/usc/t10/s2732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2732
-[/us/pl/87/651/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs113%2Fa
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F512
-[/us/pl/94/390/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F390%2Fs1%2F2
+[/us/pl/94/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F390
 [/us/stat/90/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1191
-[/us/pl/101/510/s1481/j/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1481%2Fj%2F4%2FC
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1709
 [/us/usc/t10/s224i–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs224i%E2%80%933
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510

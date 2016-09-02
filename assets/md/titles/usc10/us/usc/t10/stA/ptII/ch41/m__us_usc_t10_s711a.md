@@ -37,7 +37,7 @@
 
         (C) a medical officer of the Air Force.
 
-(Added [Pub. L. 90–235, § 4(a)(1)(A)][/us/pl/90/235/s4/a/1/A], Jan. 2, 1968, [81 Stat. 759][/us/stat/81/759]; amended [Pub. L. 90–329][/us/pl/90/329], June 4, 1968, [82 Stat. 170][/us/stat/82/170]; [Pub. L. 96–513, title V, § 511(21)][/us/pl/96/513/s511/21], Dec. 12, 1980, [94 Stat. 2921][/us/stat/94/2921].)
+(Added [Pub. L. 90–235][/us/pl/90/235], § 4(a)(1)(A), Jan. 2, 1968, [81 Stat. 759][/us/stat/81/759]; amended [Pub. L. 90–329][/us/pl/90/329], June 4, 1968, [82 Stat. 170][/us/stat/82/170]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(21), Dec. 12, 1980, [94 Stat. 2921][/us/stat/94/2921].)
 
  __Amendments__ 
 
@@ -56,11 +56,11 @@
 ----------
 ----------
 
-[/us/pl/90/235/s4/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs4%2Fa%2F1%2FA
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F759
 [/us/pl/90/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F329
 [/us/stat/82/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F170
-[/us/pl/96/513/s511/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F21
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2921
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/90/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F329

@@ -169,7 +169,7 @@
 
         (3) The term “acquisition workforce” includes individuals designated under [section 1721 of this title][/us/usc/t10/s1721] as filling acquisition positions.
 
-(Added [Pub. L. 111–84, div. A, title XI, § 1108(a)(1)][/us/pl/111/84/s1108/a/1], Oct. 28, 2009, [123 Stat. 2488][/us/stat/123/2488]; amended [Pub. L. 112–81, div. A, title IX, § 935(a)(1)][/us/pl/112/81/s935/a/1], (b), (c), title X, § 1053, Dec. 31, 2011, [125 Stat. 1545][/us/stat/125/1545], 1582; [Pub. L. 113–291, div. A, title IX, § 911][/us/pl/113/291/s911], Dec. 19, 2014, [128 Stat. 3472][/us/stat/128/3472]; [Pub. L. 114–92, div. A, title VIII, § 841(b)][/us/pl/114/92/s841/b], Nov. 25, 2015, [129 Stat. 914][/us/stat/129/914].)
+(Added [Pub. L. 111–84, div. A, title XI][/us/pl/111/84/dA/tXI], § 1108(a)(1), Oct. 28, 2009, [123 Stat. 2488][/us/stat/123/2488]; amended [Pub. L. 112–81, div. A, title IX][/us/pl/112/81/dA/tIX], § 935(a)(1), (b), (c), title X, § 1053, Dec. 31, 2011, [125 Stat. 1545][/us/stat/125/1545], 1582; [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 911, Dec. 19, 2014, [128 Stat. 3472][/us/stat/128/3472]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 841(b), Nov. 25, 2015, [129 Stat. 914][/us/stat/129/914].)
 
  __References in Text__ 
 
@@ -183,43 +183,43 @@
 
  __Amendments__ 
 
-    2015—Subsec. (d)(1). [Pub. L. 114–92, § 841(b)(1)][/us/pl/114/92/s841/b/1], substituted “the military, civilian, and contractor personnel that directly support the acquisition processes of the Department of Defense, including persons serving in acquisition-related positions designated by the Secretary of Defense under [section 1721 of this title][/us/usc/t10/s1721]” for “the defense acquisition workforce, including both military and civilian personnel”.
+    2015—Subsec. (d)(1). [Pub. L. 114–92][/us/pl/114/92], § 841(b)(1), substituted “the military, civilian, and contractor personnel that directly support the acquisition processes of the Department of Defense, including persons serving in acquisition-related positions designated by the Secretary of Defense under [section 1721 of this title][/us/usc/t10/s1721]” for “the defense acquisition workforce, including both military and civilian personnel”.
 
-    Subsec. (d)(2)(D)(ii), (iii). [Pub. L. 114–92, § 841(b)(2)][/us/pl/114/92/s841/b/2], added cl. (ii) and redesignated former cl. (ii) as (iii).
+    Subsec. (d)(2)(D)(ii), (iii). [Pub. L. 114–92][/us/pl/114/92], § 841(b)(2), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-    Subsec. (d)(3). [Pub. L. 114–92, § 841(b)(3)][/us/pl/114/92/s841/b/3], added par. (3).
+    Subsec. (d)(3). [Pub. L. 114–92][/us/pl/114/92], § 841(b)(3), added par. (3).
 
-    2014—Subsec. (b)(2)(D), (E). [Pub. L. 113–291, § 911(b)(1)][/us/pl/113/291/s911/b/1], substituted “subsection (h)(1) or (h)(2)” for “subsection (f)(1)”.
+    2014—Subsec. (b)(2)(D), (E). [Pub. L. 113–291][/us/pl/113/291], § 911(b)(1), substituted “subsection (h)(1) or (h)(2)” for “subsection (f)(1)”.
 
-    Subsec. (c). [Pub. L. 113–291, § 911(d)][/us/pl/113/291/s911/d], substituted “Senior Management Workforce; Senior Functional and Technical Workforce” for “Senior Management, Functional, and Technical Workforce” in heading.
+    Subsec. (c). [Pub. L. 113–291][/us/pl/113/291], § 911(d), substituted “Senior Management Workforce; Senior Functional and Technical Workforce” for “Senior Management, Functional, and Technical Workforce” in heading.
 
-    Subsec. (c)(1). [Pub. L. 113–291, § 911(a)(1)][/us/pl/113/291/s911/a/1], added par. (1) and struck out former par. (1) which read as follows: “Each strategic workforce plan under subsection (a) shall include a separate chapter to specifically address the shaping and improvement of the senior management, functional, and technical workforce (including scientists and engineers) of the Department of Defense.”
+    Subsec. (c)(1). [Pub. L. 113–291][/us/pl/113/291], § 911(a)(1), added par. (1) and struck out former par. (1) which read as follows: “Each strategic workforce plan under subsection (a) shall include a separate chapter to specifically address the shaping and improvement of the senior management, functional, and technical workforce (including scientists and engineers) of the Department of Defense.”
 
-    Subsec. (c)(2). [Pub. L. 113–291, § 911(a)(2)][/us/pl/113/291/s911/a/2], substituted “such senior management workforce and such senior functional and technical workforce” for “such senior management, functional, and technical workforce” in introductory provisions.
+    Subsec. (c)(2). [Pub. L. 113–291][/us/pl/113/291], § 911(a)(2), substituted “such senior management workforce and such senior functional and technical workforce” for “such senior management, functional, and technical workforce” in introductory provisions.
 
-    Subsecs. (d)(1), (e)(1). [Pub. L. 113–291, § 911(e)][/us/pl/113/291/s911/e], struck out “include a separate chapter to” before “specifically address”.
+    Subsecs. (d)(1), (e)(1). [Pub. L. 113–291][/us/pl/113/291], § 911(e), struck out “include a separate chapter to” before “specifically address”.
 
-    Subsec. (f). [Pub. L. 113–291, § 911(b)(3)][/us/pl/113/291/s911/b/3], added subsec. (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 113–291][/us/pl/113/291], § 911(b)(3), added subsec. (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 113–291, § 911(b)(2)][/us/pl/113/291/s911/b/2], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 113–291][/us/pl/113/291], § 911(b)(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 113–291, § 911(c)][/us/pl/113/291/s911/c], amended subsec. (h) generally. Prior to amendment, text defined terms “senior management, functional, and technical workforce of the Department of Defense” and “acquisition workforce”.
+    Subsec. (h). [Pub. L. 113–291][/us/pl/113/291], § 911(c), amended subsec. (h) generally. Prior to amendment, text defined terms “senior management, functional, and technical workforce of the Department of Defense” and “acquisition workforce”.
 
-    [Pub. L. 113–291, § 911(b)(2)][/us/pl/113/291/s911/b/2], redesignated subsec. (g) as (h).
+    [Pub. L. 113–291][/us/pl/113/291], § 911(b)(2), redesignated subsec. (g) as (h).
 
-    2011—[Pub. L. 112–81, § 935(a)(1)(A)][/us/pl/112/81/s935/a/1/A], substituted “Biennial strategic” for “Annual strategic” in section catchline.
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 935(a)(1)(A), substituted “Biennial strategic” for “Annual strategic” in section catchline.
 
-    Subsec. (a). [Pub. L. 112–81, § 935(a)(1)(B)][/us/pl/112/81/s935/a/1/B], substituted “Biennial” for “Annual” in heading.
+    Subsec. (a). [Pub. L. 112–81][/us/pl/112/81], § 935(a)(1)(B), substituted “Biennial” for “Annual” in heading.
 
-    Subsec. (a)(1). [Pub. L. 112–81, § 935(a)(1)(C)][/us/pl/112/81/s935/a/1/C], substituted “in every even-numbered year” for “on an annual basis”.
+    Subsec. (a)(1). [Pub. L. 112–81][/us/pl/112/81], § 935(a)(1)(C), substituted “in every even-numbered year” for “on an annual basis”.
 
-    Subsec. (b)(1)(A). [Pub. L. 112–81, § 935(b)(1)][/us/pl/112/81/s935/b/1], substituted “five-year period corresponding to the current future-years defense program under [section 221 of this title][/us/usc/t10/s221]” for “seven-year period following the year in which the plan is submitted”.
+    Subsec. (b)(1)(A). [Pub. L. 112–81][/us/pl/112/81], § 935(b)(1), substituted “five-year period corresponding to the current future-years defense program under [section 221 of this title][/us/usc/t10/s221]” for “seven-year period following the year in which the plan is submitted”.
 
-    Subsec. (b)(1)(B). [Pub. L. 112–81, § 935(b)(2)][/us/pl/112/81/s935/b/2], inserted “, as determined under the total force management policies and procedures established under [section 129a of this title][/us/usc/t10/s129a]” before semicolon at end.
+    Subsec. (b)(1)(B). [Pub. L. 112–81][/us/pl/112/81], § 935(b)(2), inserted “, as determined under the total force management policies and procedures established under [section 129a of this title][/us/usc/t10/s129a]” before semicolon at end.
 
-    Subsec. (c)(2)(D). [Pub. L. 112–81, § 935(c)][/us/pl/112/81/s935/c], inserted “and the policies and procedures established under [section 129a of this title][/us/usc/t10/s129a]” before period at end.
+    Subsec. (c)(2)(D). [Pub. L. 112–81][/us/pl/112/81], § 935(c), inserted “and the policies and procedures established under [section 129a of this title][/us/usc/t10/s129a]” before period at end.
 
-    Subsecs. (e) to (g). [Pub. L. 112–81, § 1053][/us/pl/112/81/s1053], added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+    Subsecs. (e) to (g). [Pub. L. 112–81][/us/pl/112/81], § 1053, added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
 ----------
 
@@ -249,41 +249,41 @@
 [/us/usc/t5/s3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3104
 [/us/usc/t10/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1607
 [/us/usc/t10/s1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1721
-[/us/pl/111/84/s1108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1108%2Fa%2F1
+[/us/pl/111/84/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXI
 [/us/stat/123/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2488
-[/us/pl/112/81/s935/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs935%2Fa%2F1
+[/us/pl/112/81/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIX
 [/us/stat/125/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1545
-[/us/pl/113/291/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs911
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3472
-[/us/pl/114/92/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs841%2Fb
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F914
 [/us/pl/103/337/s342/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs342%2Fb
 [/us/usc/t10/s2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2358
 [/us/pl/105/261/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1101
 [/us/usc/t5/s3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3104
 [/us/usc/t10/s10541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10541
-[/us/pl/114/92/s841/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs841%2Fb%2F1
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/usc/t10/s1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1721
-[/us/pl/114/92/s841/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs841%2Fb%2F2
-[/us/pl/114/92/s841/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs841%2Fb%2F3
-[/us/pl/113/291/s911/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs911%2Fb%2F1
-[/us/pl/113/291/s911/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs911%2Fd
-[/us/pl/113/291/s911/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs911%2Fa%2F1
-[/us/pl/113/291/s911/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs911%2Fa%2F2
-[/us/pl/113/291/s911/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs911%2Fe
-[/us/pl/113/291/s911/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs911%2Fb%2F3
-[/us/pl/113/291/s911/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs911%2Fb%2F2
-[/us/pl/113/291/s911/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs911%2Fc
-[/us/pl/113/291/s911/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs911%2Fb%2F2
-[/us/pl/112/81/s935/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs935%2Fa%2F1%2FA
-[/us/pl/112/81/s935/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs935%2Fa%2F1%2FB
-[/us/pl/112/81/s935/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs935%2Fa%2F1%2FC
-[/us/pl/112/81/s935/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs935%2Fb%2F1
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
-[/us/pl/112/81/s935/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs935%2Fb%2F2
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t10/s129a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs129a
-[/us/pl/112/81/s935/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs935%2Fc
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t10/s129a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs129a
-[/us/pl/112/81/s1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1053
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 
 

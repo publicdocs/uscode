@@ -13,13 +13,13 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIII/ch104/m__us_usc_t10_s2116.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIII/ch105/m__us_usc_t10_stA_ptIII_ch105.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2117)
 
-## \[§ 2117. Repealed. [Pub. L. 111–84, div. A, title V, § 525(a)(1)][/us/pl/111/84/s525/a/1], Oct. 28, 2009, [123 Stat. 2286][/us/stat/123/2286]\]
+## \[§ 2117. Repealed. [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 525(a)(1), Oct. 28, 2009, [123 Stat. 2286][/us/stat/123/2286]\]
 
-    Section, added [Pub. L. 110–181, div. A, title IX, § 955(g)(1)][/us/pl/110/181/s955/g/1], Jan. 28, 2008, [122 Stat. 295][/us/stat/122/295], authorized Secretary of Defense to establish a School of Nursing. See [section 2169 of this title][/us/usc/t10/s2169].
+    Section, added [Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 955(g)(1), Jan. 28, 2008, [122 Stat. 295][/us/stat/122/295], authorized Secretary of Defense to establish a School of Nursing. See [section 2169 of this title][/us/usc/t10/s2169].
 
  __Prior Provisions__ 
 
-    A prior section 2117, added [Pub. L. 92–426, § 2(a)][/us/pl/92/426/s2/a], Sept. 21, 1972, [86 Stat. 716][/us/stat/86/716], authorized appropriations for the Uniformed Services University of the Health Sciences, prior to repeal by [Pub. L. 101–510, div. A, title XIV, § 1484(b)(2)(A)][/us/pl/101/510/s1484/b/2/A], Nov. 5, 1990, [104 Stat. 1716][/us/stat/104/1716].
+    A prior section 2117, added [Pub. L. 92–426][/us/pl/92/426], § 2(a), Sept. 21, 1972, [86 Stat. 716][/us/stat/86/716], authorized appropriations for the Uniformed Services University of the Health Sciences, prior to repeal by [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1484(b)(2)(A), Nov. 5, 1990, [104 Stat. 1716][/us/stat/104/1716].
 
 ----------
 
@@ -28,14 +28,14 @@
 ----------
 ----------
 
-[/us/pl/111/84/s525/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs525%2Fa%2F1
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2286
-[/us/pl/110/181/s955/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs955%2Fg%2F1
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F295
 [/us/usc/t10/s2169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2169
-[/us/pl/92/426/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F426%2Fs2%2Fa
+[/us/pl/92/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F426
 [/us/stat/86/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F716
-[/us/pl/101/510/s1484/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484%2Fb%2F2%2FA
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1716
 
 

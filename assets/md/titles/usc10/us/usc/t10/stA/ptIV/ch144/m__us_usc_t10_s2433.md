@@ -169,7 +169,7 @@
 
     (h) Reporting under this section shall not apply if a program has received a limited reporting waiver under [section 2432(h) of this title][/us/usc/t10/s2432/h].
 
-(Added [Pub. L. 97–252, title XI, § 1107(a)(1)][/us/pl/97/252/s1107/a/1], Sept. 8, 1982, [96 Stat. 741][/us/stat/96/741], § 139b; amended [Pub. L. 98–94, title XII, § 1268(1)][/us/pl/98/94/s1268/1], Sept. 24, 1983, [97 Stat. 705][/us/stat/97/705]; [Pub. L. 98–525, title XII, § 1242(b)][/us/pl/98/525/s1242/b], Oct. 19, 1984, [98 Stat. 2607][/us/stat/98/2607]; [Pub. L. 99–145, title XIII, § 1303(a)(2)][/us/pl/99/145/s1303/a/2], Nov. 8, 1985, [99 Stat. 738][/us/stat/99/738]; renumbered § 2433 and amended [Pub. L. 99–433, title I][/us/pl/99/433], §§ 101(a)(5), 110(d)(14), (g)(8), Oct. 1, 1986, [100 Stat. 995][/us/stat/100/995], 1003, 1004; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 961(b)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–176, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 961(b)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–176; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 961(b), Nov. 14, 1986, [100 Stat. 3956][/us/stat/100/3956], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–26, § 7(b)(4)][/us/pl/100/26/s7/b/4], (k)(7), Apr. 21, 1987, [101 Stat. 279][/us/stat/101/279], 284; [Pub. L. 100–180, div. A, title XIII, § 1314(a)(1)][/us/pl/100/180/s1314/a/1], Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175]; [Pub. L. 101–189, div. A, title VIII, § 811(a)][/us/pl/101/189/s811/a], Nov. 29, 1989, [103 Stat. 1490][/us/stat/103/1490]; [Pub. L. 101–510, div. A, title XIV, § 1484(k)(10)][/us/pl/101/510/s1484/k/10], Nov. 5, 1990, [104 Stat. 1719][/us/stat/104/1719]; [Pub. L. 102–484, div. A, title VIII, § 817(d)][/us/pl/102/484/s817/d], Oct. 23, 1992, [106 Stat. 2456][/us/stat/106/2456]; [Pub. L. 103–35, title II, § 201(i)(2)][/us/pl/103/35/s201/i/2], May 31, 1993, [107 Stat. 100][/us/stat/107/100]; [Pub. L. 103–355, title III][/us/pl/103/355], §§ 3002(a)(2), 3003, Oct. 13, 1994, [108 Stat. 3328][/us/stat/108/3328], 3329; [Pub. L. 105–85, div. A, title VIII, § 833][/us/pl/105/85/s833], Nov. 18, 1997, [111 Stat. 1842][/us/stat/111/1842]; [Pub. L. 108–375, div. A, title VIII, § 801(a)][/us/pl/108/375/s801/a], (b)(1), Oct. 28, 2004, [118 Stat. 2004][/us/stat/118/2004]; [Pub. L. 109–163, div. A, title VIII, § 802(a)][/us/pl/109/163/s802/a]–(c), (d)(2), Jan. 6, 2006, [119 Stat. 3367–3370][/us/stat/119/3367-3370]; [Pub. L. 109–364, div. A, title II, § 213(a)][/us/pl/109/364/s213/a], Oct. 17, 2006, [120 Stat. 2121][/us/stat/120/2121]; [Pub. L. 110–181, div. A, title IX, § 942(e)][/us/pl/110/181/s942/e], Jan. 28, 2008, [122 Stat. 288][/us/stat/122/288]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 811(c), Oct. 14, 2008, [122 Stat. 4522][/us/stat/122/4522]; [Pub. L. 111–23, title II, § 206(a)(3)][/us/pl/111/23/s206/a/3], May 22, 2009, [123 Stat. 1728][/us/stat/123/1728]; [Pub. L. 111–84, div. A, title X, § 1073(c)(4)][/us/pl/111/84/s1073/c/4], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474]; [Pub. L. 111–383, div. A, title X, § 1075(b)(34)][/us/pl/111/383/s1075/b/34], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371].)
+(Added [Pub. L. 97–252, title XI][/us/pl/97/252/tXI], § 1107(a)(1), Sept. 8, 1982, [96 Stat. 741][/us/stat/96/741], § 139b; amended [Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1268(1), Sept. 24, 1983, [97 Stat. 705][/us/stat/97/705]; [Pub. L. 98–525, title XII][/us/pl/98/525/tXII], § 1242(b), Oct. 19, 1984, [98 Stat. 2607][/us/stat/98/2607]; [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1303(a)(2), Nov. 8, 1985, [99 Stat. 738][/us/stat/99/738]; renumbered § 2433 and amended [Pub. L. 99–433, title I][/us/pl/99/433/tI], §§ 101(a)(5), 110(d)(14), (g)(8), Oct. 1, 1986, [100 Stat. 995][/us/stat/100/995], 1003, 1004; [Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title X, § 961(b)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–176, and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 961(b)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–176; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661/dA/tIX], formerly title IV, § 961(b), Nov. 14, 1986, [100 Stat. 3956][/us/stat/100/3956], renumbered title IX, [Pub. L. 100–26][/us/pl/100/26], § 3(5), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–26][/us/pl/100/26], § 7(b)(4), (k)(7), Apr. 21, 1987, [101 Stat. 279][/us/stat/101/279], 284; [Pub. L. 100–180, div. A, title XIII][/us/pl/100/180/dA/tXIII], § 1314(a)(1), Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175]; [Pub. L. 101–189, div. A, title VIII][/us/pl/101/189/dA/tVIII], § 811(a), Nov. 29, 1989, [103 Stat. 1490][/us/stat/103/1490]; [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1484(k)(10), Nov. 5, 1990, [104 Stat. 1719][/us/stat/104/1719]; [Pub. L. 102–484, div. A, title VIII][/us/pl/102/484/dA/tVIII], § 817(d), Oct. 23, 1992, [106 Stat. 2456][/us/stat/106/2456]; [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 201(i)(2), May 31, 1993, [107 Stat. 100][/us/stat/107/100]; [Pub. L. 103–355, title III][/us/pl/103/355/tIII], §§ 3002(a)(2), 3003, Oct. 13, 1994, [108 Stat. 3328][/us/stat/108/3328], 3329; [Pub. L. 105–85, div. A, title VIII][/us/pl/105/85/dA/tVIII], § 833, Nov. 18, 1997, [111 Stat. 1842][/us/stat/111/1842]; [Pub. L. 108–375, div. A, title VIII][/us/pl/108/375/dA/tVIII], § 801(a), (b)(1), Oct. 28, 2004, [118 Stat. 2004][/us/stat/118/2004]; [Pub. L. 109–163, div. A, title VIII][/us/pl/109/163/dA/tVIII], § 802(a)–(c), (d)(2), Jan. 6, 2006, [119 Stat. 3367–3370][/us/stat/119/3367-3370]; [Pub. L. 109–364, div. A, title II][/us/pl/109/364/dA/tII], § 213(a), Oct. 17, 2006, [120 Stat. 2121][/us/stat/120/2121]; [Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 942(e), Jan. 28, 2008, [122 Stat. 288][/us/stat/122/288]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 811(c), Oct. 14, 2008, [122 Stat. 4522][/us/stat/122/4522]; [Pub. L. 111–23, title II][/us/pl/111/23/tII], § 206(a)(3), May 22, 2009, [123 Stat. 1728][/us/stat/123/1728]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c)(4), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(34), Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371].)
 
  __Codification__ 
 
@@ -181,213 +181,213 @@
 
     2009—Subsec. (e)(2). [Pub. L. 111–23][/us/pl/111/23] amended par. (2) generally. Prior to amendment, par. (2) related to cost growths in major defense acquisition programs or designated major subprograms.
 
-    Subsec. (g)(1)(G). [Pub. L. 111–84][/us/pl/111/84] made technical amendment to directory language of [Pub. L. 110–417, § 811(c)(6)(A)(iv)(I)][/us/pl/110/417/s811/c/6/A/iv/I]. See 2008 Amendment note below.
+    Subsec. (g)(1)(G). [Pub. L. 111–84][/us/pl/111/84] made technical amendment to directory language of [Pub. L. 110–417][/us/pl/110/417], § 811(c)(6)(A)(iv)(I). See 2008 Amendment note below.
 
-    2008—Subsec. (a)(1). [Pub. L. 110–417, § 811(c)(1)(A)][/us/pl/110/417/s811/c/1/A], substituted “Except as provided in [section 2430a(c) of this title][/us/usc/t10/s2430a/c], the terms” for “The terms”.
+    2008—Subsec. (a)(1). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(1)(A), substituted “Except as provided in [section 2430a(c) of this title][/us/usc/t10/s2430a/c], the terms” for “The terms”.
 
-    Subsec. (a)(2). [Pub. L. 110–417, § 811(c)(1)(B)][/us/pl/110/417/s811/c/1/B], inserted “or designated major subprogram” after “major defense acquisition program” and “or subprogram” after “the program”.
+    Subsec. (a)(2). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(1)(B), inserted “or designated major subprogram” after “major defense acquisition program” and “or subprogram” after “the program”.
 
-    Subsec. (a)(4), (5). [Pub. L. 110–417, § 811(c)(1)(C)][/us/pl/110/417/s811/c/1/C], (D), inserted “or designated major defense subprogram” after “major defense acquisition program” wherever appearing and “or subprogram” after “for the program” wherever appearing.
+    Subsec. (a)(4), (5). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(1)(C), (D), inserted “or designated major defense subprogram” after “major defense acquisition program” wherever appearing and “or subprogram” after “for the program” wherever appearing.
 
-    Subsec. (b). [Pub. L. 110–417, § 811(c)(2)(A)][/us/pl/110/417/s811/c/2/A], inserted “(or of each designated major subprogram under the program)” after “unit costs of the program” in introductory provisions.
+    Subsec. (b). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(2)(A), inserted “(or of each designated major subprogram under the program)” after “unit costs of the program” in introductory provisions.
 
-    Subsec. (b)(1), (2). [Pub. L. 110–417, § 811(c)(2)(B)][/us/pl/110/417/s811/c/2/B], (C), inserted “for the program (or for each designated major subprogram under the program)” before period at end.
+    Subsec. (b)(1), (2). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(2)(B), (C), inserted “for the program (or for each designated major subprogram under the program)” before period at end.
 
-    Subsec. (b)(5). [Pub. L. 110–417, § 811(c)(2)(D)][/us/pl/110/417/s811/c/2/D], inserted “or subprogram” after “software component of the program” wherever appearing.
+    Subsec. (b)(5). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(2)(D), inserted “or subprogram” after “software component of the program” wherever appearing.
 
-    Subsec. (c). [Pub. L. 110–417, § 811(c)(3)][/us/pl/110/417/s811/c/3], substituted “the program acquisition unit cost for the program (or for a designated major subprogram under the program) or the procurement unit cost for the program (or for such a subprogram)” for “the program acquisition unit cost for the program or the procurement unit cost for the program” and struck out “for the program” after “significant cost growth threshold”.
+    Subsec. (c). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(3), substituted “the program acquisition unit cost for the program (or for a designated major subprogram under the program) or the procurement unit cost for the program (or for such a subprogram)” for “the program acquisition unit cost for the program or the procurement unit cost for the program” and struck out “for the program” after “significant cost growth threshold”.
 
-    Subsec. (d)(1), (2). [Pub. L. 110–417, § 811(c)(4)(A)][/us/pl/110/417/s811/c/4/A], (B), inserted “or any designated major subprogram under the program” after “major defense acquisition program” and “or subprogram” after “for the program” wherever appearing.
+    Subsec. (d)(1), (2). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(4)(A), (B), inserted “or any designated major subprogram under the program” after “major defense acquisition program” and “or subprogram” after “for the program” wherever appearing.
 
-    Subsec. (d)(3). [Pub. L. 110–417, § 811(c)(4)(C)][/us/pl/110/417/s811/c/4/C], substituted “the program or subprogram concerned” for “such program”.
+    Subsec. (d)(3). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(4)(C), substituted “the program or subprogram concerned” for “such program”.
 
-    Subsec. (e)(1)(A). [Pub. L. 110–417, § 811(c)(5)(A)(i)][/us/pl/110/417/s811/c/5/A/i], inserted “or designated major subprogram” after “major defense acquisition program” and “or subprogram” after “for the program”.
+    Subsec. (e)(1)(A). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(5)(A)(i), inserted “or designated major subprogram” after “major defense acquisition program” and “or subprogram” after “for the program”.
 
-    Subsec. (e)(1)(B). [Pub. L. 110–417, § 811(c)(5)(A)(ii)][/us/pl/110/417/s811/c/5/A/ii], inserted “or designated major subprogram” after “major defense acquisition program” and “or subprogram” after “that program”.
+    Subsec. (e)(1)(B). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(5)(A)(ii), inserted “or designated major subprogram” after “major defense acquisition program” and “or subprogram” after “that program”.
 
-    Subsec. (e)(2). [Pub. L. 110–417, § 811(c)(5)(B)][/us/pl/110/417/s811/c/5/B], in introductory provisions, inserted “or designated major subprogram” after “major defense acquisition program” and “or subprogram” after “for the program”.
+    Subsec. (e)(2). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(5)(B), in introductory provisions, inserted “or designated major subprogram” after “major defense acquisition program” and “or subprogram” after “for the program”.
 
     [Pub. L. 110–181][/us/pl/110/181] inserted “, after consultation with the Joint Requirements Oversight Council regarding program requirements,” after “Secretary of Defense” in introductory provisions.
 
-    Subsec. (g)(1)(D). [Pub. L. 110–417, § 811(c)(6)(A)(i)][/us/pl/110/417/s811/c/6/A/i], inserted “(and for each designated major subprogram under the program)” after “for the program” and “or subprogram” after “in which the program”.
+    Subsec. (g)(1)(D). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(6)(A)(i), inserted “(and for each designated major subprogram under the program)” after “for the program” and “or subprogram” after “in which the program”.
 
-    Subsec. (g)(1)(E). [Pub. L. 110–417, § 811(c)(6)(A)(ii)][/us/pl/110/417/s811/c/6/A/ii], inserted “for the program (and for each designated major subprogram under the program)” after “program acquisition cost”.
+    Subsec. (g)(1)(E). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(6)(A)(ii), inserted “for the program (and for each designated major subprogram under the program)” after “program acquisition cost”.
 
-    Subsec. (g)(1)(F). [Pub. L. 110–417, § 811(c)(6)(A)(iii)][/us/pl/110/417/s811/c/6/A/iii], inserted “for the program (or for any designated major subprogram under the program)” before period at end.
+    Subsec. (g)(1)(F). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(6)(A)(iii), inserted “for the program (or for any designated major subprogram under the program)” before period at end.
 
-    Subsec. (g)(1)(G). [Pub. L. 110–417, § 811(c)(6)(A)(iv)(I)][/us/pl/110/417/s811/c/6/A/iv/I], as amended by [Pub. L. 111–84][/us/pl/111/84], inserted “and each designated major subprogram under the program” after “of the program”.
+    Subsec. (g)(1)(G). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(6)(A)(iv)(I), as amended by [Pub. L. 111–84][/us/pl/111/84], inserted “and each designated major subprogram under the program” after “of the program”.
 
-    Subsec. (g)(1)(G)(i), (ii). [Pub. L. 110–417, § 811(c)(6)(A)(iv)(II)][/us/pl/110/417/s811/c/6/A/iv/II], inserted “or subprogram” after “for the program” in two places.
+    Subsec. (g)(1)(G)(i), (ii). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(6)(A)(iv)(II), inserted “or subprogram” after “for the program” in two places.
 
-    Subsec. (g)(1)(H). [Pub. L. 110–417, § 811(c)(6)(A)(v)][/us/pl/110/417/s811/c/6/A/v], inserted “and each designated major subprogram under the program” after “year in which information on the program” and “or subprogram” after “Report in which information on the program”.
+    Subsec. (g)(1)(H). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(6)(A)(v), inserted “and each designated major subprogram under the program” after “year in which information on the program” and “or subprogram” after “Report in which information on the program”.
 
-    Subsec. (g)(1)(J). [Pub. L. 110–417, § 811(c)(6)(A)(vi)][/us/pl/110/417/s811/c/6/A/vi], inserted “for the program (or for each designated major subprogram under the program)” after “program acquisition unit cost”.
+    Subsec. (g)(1)(J). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(6)(A)(vi), inserted “for the program (or for each designated major subprogram under the program)” after “program acquisition unit cost”.
 
-    Subsec. (g)(1)(K). [Pub. L. 110–417, § 811(c)(6)(A)(vii)][/us/pl/110/417/s811/c/6/A/vii], inserted “for the program (or for each designated major subprogram under the program)” after “procurement unit cost” in two places.
+    Subsec. (g)(1)(K). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(6)(A)(vii), inserted “for the program (or for each designated major subprogram under the program)” after “procurement unit cost” in two places.
 
-    Subsec. (g)(1)(O). [Pub. L. 110–417, § 811(c)(6)(A)(viii)][/us/pl/110/417/s811/c/6/A/viii], inserted “for the program (or for any designated major subprogram under the program)” before period at end.
+    Subsec. (g)(1)(O). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(6)(A)(viii), inserted “for the program (or for any designated major subprogram under the program)” before period at end.
 
-    Subsec. (g)(1)(P). [Pub. L. 110–417, § 811(c)(6)(A)(ix)][/us/pl/110/417/s811/c/6/A/ix], inserted “or subprogram” after “the program” in introductory provisions and “and any designated major subprogram under the program” after “major contracts of the program” in cl. (vi).
+    Subsec. (g)(1)(P). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(6)(A)(ix), inserted “or subprogram” after “the program” in introductory provisions and “and any designated major subprogram under the program” after “major contracts of the program” in cl. (vi).
 
-    Subsec. (g)(1)(Q). [Pub. L. 110–417, § 811(c)(6)(A)(x)][/us/pl/110/417/s811/c/6/A/x], inserted “or any designated major subprogram under the program” after “the program”.
+    Subsec. (g)(1)(Q). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(6)(A)(x), inserted “or any designated major subprogram under the program” after “the program”.
 
-    Subsec. (g)(2). [Pub. L. 110–417, § 811(c)(6)(B)][/us/pl/110/417/s811/c/6/B], inserted “or designated major subprogram” after “major defense acquisition program” and “or subprogram” after “the entire program” and after “cancellation of a program”.
+    Subsec. (g)(2). [Pub. L. 110–417][/us/pl/110/417], § 811(c)(6)(B), inserted “or designated major subprogram” after “major defense acquisition program” and “or subprogram” after “the entire program” and after “cancellation of a program”.
 
-    2006—Subsec. (a)(4), (5). [Pub. L. 109–163, § 802(a)][/us/pl/109/163/s802/a], added pars. (4) and (5).
+    2006—Subsec. (a)(4), (5). [Pub. L. 109–163][/us/pl/109/163], § 802(a), added pars. (4) and (5).
 
-    Subsec. (a)(6). [Pub. L. 109–163, § 802(d)(2)][/us/pl/109/163/s802/d/2], added par. (6).
+    Subsec. (a)(6). [Pub. L. 109–163][/us/pl/109/163], § 802(d)(2), added par. (6).
 
-    Subsec. (c). [Pub. L. 109–163, § 802(b)(1)][/us/pl/109/163/s802/b/1], substituted “cause to believe that the program acquisition unit cost for the program or the procurement unit cost for the program, as applicable, has increased by a percentage equal to or greater than the significant cost growth threshold for the program” for “cause to believe—
+    Subsec. (c). [Pub. L. 109–163][/us/pl/109/163], § 802(b)(1), substituted “cause to believe that the program acquisition unit cost for the program or the procurement unit cost for the program, as applicable, has increased by a percentage equal to or greater than the significant cost growth threshold for the program” for “cause to believe—
 
     “(1) that the program acquisition unit cost for the program has increased by at least 15 percent over the program acquisition unit cost for the program as shown in the Baseline Estimate; or
 
     “(2) in the case of a major defense acquisition program that is a procurement program, that the procurement unit cost for the program has increased by at least 15 percent over the procurement unit cost for the program as reflected in the Baseline Estimate”.
 
-    Subsec. (d)(1). [Pub. L. 109–163, § 802(b)(2)(A)][/us/pl/109/163/s802/b/2/A], substituted “by a percentage equal to or greater than the significant cost growth threshold, or the critical cost growth threshold, for the program” for “by at least 15 percent, or by at least 25 percent, over the program acquisition unit cost for the program as shown in the Baseline Estimate”.
+    Subsec. (d)(1). [Pub. L. 109–163][/us/pl/109/163], § 802(b)(2)(A), substituted “by a percentage equal to or greater than the significant cost growth threshold, or the critical cost growth threshold, for the program” for “by at least 15 percent, or by at least 25 percent, over the program acquisition unit cost for the program as shown in the Baseline Estimate”.
 
-    Subsec. (d)(2). [Pub. L. 109–163, § 802(b)(2)(B)][/us/pl/109/163/s802/b/2/B], substituted “by a percentage equal to or greater than the significant cost growth threshold, or the critical cost growth threshold, for the program” for “by at least 15 percent, or by at least 25 percent, over the procurement unit cost for the program as reflected in the Baseline Estimate”.
+    Subsec. (d)(2). [Pub. L. 109–163][/us/pl/109/163], § 802(b)(2)(B), substituted “by a percentage equal to or greater than the significant cost growth threshold, or the critical cost growth threshold, for the program” for “by at least 15 percent, or by at least 25 percent, over the procurement unit cost for the program as reflected in the Baseline Estimate”.
 
-    Subsec. (d)(3). [Pub. L. 109–163, § 802(b)(2)(C)][/us/pl/109/163/s802/b/2/C], substituted “by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold or that” for “by at least 15 percent, or by at least 25 percent, as determined under paragraph (1) or that” and “by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold, the Secretary” for “by at least 15 percent, or by at least 25 percent, as determined under paragraph (2), the Secretary”.
+    Subsec. (d)(3). [Pub. L. 109–163][/us/pl/109/163], § 802(b)(2)(C), substituted “by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold or that” for “by at least 15 percent, or by at least 25 percent, as determined under paragraph (1) or that” and “by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold, the Secretary” for “by at least 15 percent, or by at least 25 percent, as determined under paragraph (2), the Secretary”.
 
-    Subsec. (e)(1)(A). [Pub. L. 109–163, § 802(b)(3)(A)][/us/pl/109/163/s802/b/3/A], substituted “by a percentage equal to or greater than the significant cost growth threshold for the program” for “by at least 15 percent”.
+    Subsec. (e)(1)(A). [Pub. L. 109–163][/us/pl/109/163], § 802(b)(3)(A), substituted “by a percentage equal to or greater than the significant cost growth threshold for the program” for “by at least 15 percent”.
 
-    Subsec. (e)(2). [Pub. L. 109–163, § 802(c)][/us/pl/109/163/s802/c], redesignated subpar. (B) as (C) and substituted “the Secretary of Defense shall—”, par. (A) and introductory provisions of par. (B) for “the Secretary of Defense shall submit to Congress, before the end of the 30-day period beginning on the day the Selected Acquisition Report containing the information described in subsection (g) is required to be submitted under [section 2432(f) of this title][/us/usc/t10/s2432/f]—
+    Subsec. (e)(2). [Pub. L. 109–163][/us/pl/109/163], § 802(c), redesignated subpar. (B) as (C) and substituted “the Secretary of Defense shall—”, par. (A) and introductory provisions of par. (B) for “the Secretary of Defense shall submit to Congress, before the end of the 30-day period beginning on the day the Selected Acquisition Report containing the information described in subsection (g) is required to be submitted under [section 2432(f) of this title][/us/usc/t10/s2432/f]—
 
     “(A) a written certification, stating that—”.
 
-    [Pub. L. 109–163, § 802(b)(3)(B)][/us/pl/109/163/s802/b/3/B], in introductory provisions, struck out “percentage increase in the” before “program acquisition” and substituted “increases by a percentage equal to or greater than the critical cost growth threshold for the program” for “exceeds 25 percent”.
+    [Pub. L. 109–163][/us/pl/109/163], § 802(b)(3)(B), in introductory provisions, struck out “percentage increase in the” before “program acquisition” and substituted “increases by a percentage equal to or greater than the critical cost growth threshold for the program” for “exceeds 25 percent”.
 
     Subsec. (e)(2)(A). [Pub. L. 109–364][/us/pl/109/364] added cl. (i) and redesignated former cls. (i) to (iii) as (ii) to (iv), respectively.
 
-    Subsec. (e)(3). [Pub. L. 109–163, § 802(b)(3)(C)(ii)][/us/pl/109/163/s802/b/3/C/ii], substituted “by a percentage equal to or greater than the critical cost growth threshold” for “of at least 25 percent” in introductory provisions and subpar. (B).
+    Subsec. (e)(3). [Pub. L. 109–163][/us/pl/109/163], § 802(b)(3)(C)(ii), substituted “by a percentage equal to or greater than the critical cost growth threshold” for “of at least 25 percent” in introductory provisions and subpar. (B).
 
-    [Pub. L. 109–163, § 802(b)(3)(C)(i)][/us/pl/109/163/s802/b/3/C/i], substituted “by a percentage equal to or greater than the significant cost growth threshold” for “of at least 15 percent” in introductory provisions and subpar. (A).
+    [Pub. L. 109–163][/us/pl/109/163], § 802(b)(3)(C)(i), substituted “by a percentage equal to or greater than the significant cost growth threshold” for “of at least 15 percent” in introductory provisions and subpar. (A).
 
-    2004—Subsec. (b)(5). [Pub. L. 108–375, § 801(a)][/us/pl/108/375/s801/a], added par. (5).
+    2004—Subsec. (b)(5). [Pub. L. 108–375][/us/pl/108/375], § 801(a), added par. (5).
 
-    Subsec. (g)(1)(Q). [Pub. L. 108–375, § 801(b)(1)][/us/pl/108/375/s801/b/1], added subpar. (Q).
+    Subsec. (g)(1)(Q). [Pub. L. 108–375][/us/pl/108/375], § 801(b)(1), added subpar. (Q).
 
-    1997—Subsec. (c). [Pub. L. 105–85, § 833(a)][/us/pl/105/85/s833/a], in concluding provisions, struck out “during the current fiscal year (other than the last quarterly unit cost report under subsection (b) for the preceding fiscal year)” after “designated by the Secretary concerned”.
+    1997—Subsec. (c). [Pub. L. 105–85][/us/pl/105/85], § 833(a), in concluding provisions, struck out “during the current fiscal year (other than the last quarterly unit cost report under subsection (b) for the preceding fiscal year)” after “designated by the Secretary concerned”.
 
-    Subsec. (c)(1) to (3). [Pub. L. 105–85, § 833(b)][/us/pl/105/85/s833/b], inserted “or” at end of par. (1), struck out “or” at end of par. (2), and struck out par. (3), which read as follows: “that cost variances or schedule variances of a major contract under the program have resulted in an increase in the cost of the contract of at least 15 percent over the cost of the contract as of the time the contract was made;”.
+    Subsec. (c)(1) to (3). [Pub. L. 105–85][/us/pl/105/85], § 833(b), inserted “or” at end of par. (1), struck out “or” at end of par. (2), and struck out par. (3), which read as follows: “that cost variances or schedule variances of a major contract under the program have resulted in an increase in the cost of the contract of at least 15 percent over the cost of the contract as of the time the contract was made;”.
 
-    Subsec. (d)(3). [Pub. L. 105–85, § 833(c)][/us/pl/105/85/s833/c], struck out “(for the first time since the beginning of the current fiscal year)” after “the Secretary concerned determines”.
+    Subsec. (d)(3). [Pub. L. 105–85][/us/pl/105/85], § 833(c), struck out “(for the first time since the beginning of the current fiscal year)” after “the Secretary concerned determines”.
 
-    1994—Subsec. (a)(2). [Pub. L. 103–355, § 3003(a)(1)(A)][/us/pl/103/355/s3003/a/1/A], substituted “Baseline Estimate” for “Baseline Selected Acquisition Report” and “cost estimate included in the baseline description for the program under [section 2435 of this title][/us/usc/t10/s2435].” for “Selected Acquisition Report in which information on the program is first included or the comprehensive annual Selected Acquisition Report for the fiscal year immediately before the fiscal year containing the quarter with respect to which the unit cost report is submitted, whichever is later.”
+    1994—Subsec. (a)(2). [Pub. L. 103–355][/us/pl/103/355], § 3003(a)(1)(A), substituted “Baseline Estimate” for “Baseline Selected Acquisition Report” and “cost estimate included in the baseline description for the program under [section 2435 of this title][/us/usc/t10/s2435].” for “Selected Acquisition Report in which information on the program is first included or the comprehensive annual Selected Acquisition Report for the fiscal year immediately before the fiscal year containing the quarter with respect to which the unit cost report is submitted, whichever is later.”
 
-    Subsec. (a)(4). [Pub. L. 103–355, § 3003(a)(1)(B)][/us/pl/103/355/s3003/a/1/B], struck out par. (4) which defined “Baseline Report”.
+    Subsec. (a)(4). [Pub. L. 103–355][/us/pl/103/355], § 3003(a)(1)(B), struck out par. (4) which defined “Baseline Report”.
 
-    Subsec. (b)(3). [Pub. L. 103–355, § 3003(b)][/us/pl/103/355/s3003/b], substituted “contract was entered into” for “Baseline Report was submitted”.
+    Subsec. (b)(3). [Pub. L. 103–355][/us/pl/103/355], § 3003(b), substituted “contract was entered into” for “Baseline Report was submitted”.
 
     Subsec. (c). [Pub. L. 103–355][/us/pl/103/355], §§ 3002(a)(2)(A), 3003(a)(2)(A), (c), struck out par. (1) designation and par. (2), redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, substituted “Baseline Estimate” for “Baseline Report” in pars. (1) and (2), and struck out “current” before “procurement unit cost” in par. (2). Prior to amendment, former par. (2) related to submission of unit cost reports by major defense acquisition program manager to service acquisition executive designated by Secretary of Defense in certain circumstances.
 
-    Subsec. (d)(1). [Pub. L. 103–355, § 3003(a)(2)(B)][/us/pl/103/355/s3003/a/2/B], substituted “Baseline Estimate” for “Baseline Report”.
+    Subsec. (d)(1). [Pub. L. 103–355][/us/pl/103/355], § 3003(a)(2)(B), substituted “Baseline Estimate” for “Baseline Report”.
 
     Subsec. (d)(2). [Pub. L. 103–355][/us/pl/103/355], §§ 3002(a)(2)(B), 3003(a)(2)(B), struck out “current” before “procurement unit cost” and substituted “Baseline Estimate” for “Baseline Report”.
 
-    Subsec. (d)(3). [Pub. L. 103–355, § 3002(a)(2)(B)][/us/pl/103/355/s3002/a/2/B], struck out “current” before “procurement unit cost”.
+    Subsec. (d)(3). [Pub. L. 103–355][/us/pl/103/355], § 3002(a)(2)(B), struck out “current” before “procurement unit cost”.
 
-    Subsec. (e)(1)(A), (2). [Pub. L. 103–355, § 3002(a)(2)(C)][/us/pl/103/355/s3002/a/2/C], struck out “current” before “procurement unit cost”.
+    Subsec. (e)(1)(A), (2). [Pub. L. 103–355][/us/pl/103/355], § 3002(a)(2)(C), struck out “current” before “procurement unit cost”.
 
-    Subsec. (f). [Pub. L. 103–355, § 3003(d)][/us/pl/103/355/s3003/d], substituted “be stated in terms of constant base year dollars (as described in [section 2430 of this title][/us/usc/t10/s2430])” for “include expected inflation”.
+    Subsec. (f). [Pub. L. 103–355][/us/pl/103/355], § 3003(d), substituted “be stated in terms of constant base year dollars (as described in [section 2430 of this title][/us/usc/t10/s2430])” for “include expected inflation”.
 
-    Subsec. (g)(1)(I). [Pub. L. 103–355, § 3003(e)][/us/pl/103/355/s3003/e], amended subpar. (I) generally. Prior to amendment, subpar. (I) read as follows: “The type of the Baseline Report (under subsection (a)(4)) and the date of the Baseline Report.”
+    Subsec. (g)(1)(I). [Pub. L. 103–355][/us/pl/103/355], § 3003(e), amended subpar. (I) generally. Prior to amendment, subpar. (I) read as follows: “The type of the Baseline Report (under subsection (a)(4)) and the date of the Baseline Report.”
 
     1993—Subsec. (e)(3). [Pub. L. 103–35][/us/pl/103/35] substituted “an increase of at least 15 percent” for “a at least 15 percent increase” in introductory provisions and in subpar. (A), and substituted “an increase of at least 25 percent” for “a at least 25 percent increase” in introductory provisions and in subpar. (B).
 
-    1992—Subsec. (a)(4)(C). [Pub. L. 102–484, § 817(d)(1)][/us/pl/102/484/s817/d/1], substituted “(e)(2)(B)” for “(e)(2)(B)(ii)”.
+    1992—Subsec. (a)(4)(C). [Pub. L. 102–484][/us/pl/102/484], § 817(d)(1), substituted “(e)(2)(B)” for “(e)(2)(B)(ii)”.
 
-    Subsec. (b). [Pub. L. 102–484, § 817(d)(2)][/us/pl/102/484/s817/d/2], substituted “30 calendar days” for “7 days (excluding Saturdays, Sundays, and legal public holidays)” in second sentence.
+    Subsec. (b). [Pub. L. 102–484][/us/pl/102/484], § 817(d)(2), substituted “30 calendar days” for “7 days (excluding Saturdays, Sundays, and legal public holidays)” in second sentence.
 
-    Subsec. (c)(1)(A), (B), (2)(A), (B). [Pub. L. 102–484, § 817(d)(3)][/us/pl/102/484/s817/d/3], substituted “at least” for “more than”.
+    Subsec. (c)(1)(A), (B), (2)(A), (B). [Pub. L. 102–484][/us/pl/102/484], § 817(d)(3), substituted “at least” for “more than”.
 
-    Subsec. (d)(1), (2). [Pub. L. 102–484, § 817(d)(4)(A)][/us/pl/102/484/s817/d/4/A], substituted “at least” for “more than” wherever appearing.
+    Subsec. (d)(1), (2). [Pub. L. 102–484][/us/pl/102/484], § 817(d)(4)(A), substituted “at least” for “more than” wherever appearing.
 
-    Subsec. (d)(3). [Pub. L. 102–484, § 817(d)(4)(B)][/us/pl/102/484/s817/d/4/B], substituted “at least” for “more than” wherever appearing and “program. In the case of a determination based on a quarterly report submitted in accordance with subsection (b), the Secretary shall submit the notification to Congress within 45 days after the end of the quarter. In the case of a determination based on a report submitted in accordance with subsection (c), the Secretary shall submit the notification to Congress within 45 days after the date of that report. The Secretary shall include in the notification the date on which the determination was made.” for “program within 30 days after the date on which the service acquisition executive reports his determination of such increase in such unit cost to the Secretary and shall include in such notification the date on which the determination was made.”
+    Subsec. (d)(3). [Pub. L. 102–484][/us/pl/102/484], § 817(d)(4)(B), substituted “at least” for “more than” wherever appearing and “program. In the case of a determination based on a quarterly report submitted in accordance with subsection (b), the Secretary shall submit the notification to Congress within 45 days after the end of the quarter. In the case of a determination based on a report submitted in accordance with subsection (c), the Secretary shall submit the notification to Congress within 45 days after the date of that report. The Secretary shall include in the notification the date on which the determination was made.” for “program within 30 days after the date on which the service acquisition executive reports his determination of such increase in such unit cost to the Secretary and shall include in such notification the date on which the determination was made.”
 
-    Subsec. (e)(1)(A). [Pub. L. 102–484, § 817(d)(5)(A)][/us/pl/102/484/s817/d/5/A], added subpar. (A) and struck out former subpar. (A) which read as follows: “Except as provided in subparagraph (B), whenever the Secretary concerned determines under subsection (d) that the current program acquisition cost of a major defense acquisition program has increased by more than 15 percent, a Selected Acquisition Report shall be submitted to Congress for the first fiscal-year quarter ending on or after the date of the determination and such report shall include the information described in [section 2432(e) of this title][/us/usc/t10/s2432/e]. The report shall be submitted within 45 days after the end of that quarter.”
+    Subsec. (e)(1)(A). [Pub. L. 102–484][/us/pl/102/484], § 817(d)(5)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “Except as provided in subparagraph (B), whenever the Secretary concerned determines under subsection (d) that the current program acquisition cost of a major defense acquisition program has increased by more than 15 percent, a Selected Acquisition Report shall be submitted to Congress for the first fiscal-year quarter ending on or after the date of the determination and such report shall include the information described in [section 2432(e) of this title][/us/usc/t10/s2432/e]. The report shall be submitted within 45 days after the end of that quarter.”
 
-    Subsec. (e)(2). [Pub. L. 102–484, § 817(d)(5)(B)][/us/pl/102/484/s817/d/5/B], substituted “program acquisition unit cost or current procurement unit cost” for “current program acquisition cost”.
+    Subsec. (e)(2). [Pub. L. 102–484][/us/pl/102/484], § 817(d)(5)(B), substituted “program acquisition unit cost or current procurement unit cost” for “current program acquisition cost”.
 
-    Subsec. (e)(3). [Pub. L. 102–484, § 817(d)(5)(C)][/us/pl/102/484/s817/d/5/C], substituted “at least” for “more than” wherever appearing.
+    Subsec. (e)(3). [Pub. L. 102–484][/us/pl/102/484], § 817(d)(5)(C), substituted “at least” for “more than” wherever appearing.
 
     1990—Subsec. (c). [Pub. L. 101–510][/us/pl/101/510] struck out “the” before “such service acquisition executive” wherever appearing.
 
-    1989—Subsec. (a)(2). [Pub. L. 101–189, § 811(a)(1)(A)][/us/pl/101/189/s811/a/1/A], inserted “the service acquisition executive designated by” before “the Secretary concerned”.
+    1989—Subsec. (a)(2). [Pub. L. 101–189][/us/pl/101/189], § 811(a)(1)(A), inserted “the service acquisition executive designated by” before “the Secretary concerned”.
 
-    Subsec. (a)(4). [Pub. L. 101–189, § 811(a)(1)(B)(i)][/us/pl/101/189/s811/a/1/B/i], inserted “the service acquisition executive designated by” before “the Secretary concerned” in introductory provisions.
+    Subsec. (a)(4). [Pub. L. 101–189][/us/pl/101/189], § 811(a)(1)(B)(i), inserted “the service acquisition executive designated by” before “the Secretary concerned” in introductory provisions.
 
-    Subsec. (a)(4)(A). [Pub. L. 101–189, § 811(a)(1)(B)(ii)][/us/pl/101/189/s811/a/1/B/ii], substituted “Selected Acquisition Report submitted under subsection (e)(2)(B) that includes information on” for “unit cost report submitted under subsection (e)(2)(B)(ii) with respect to”.
+    Subsec. (a)(4)(A). [Pub. L. 101–189][/us/pl/101/189], § 811(a)(1)(B)(ii), substituted “Selected Acquisition Report submitted under subsection (e)(2)(B) that includes information on” for “unit cost report submitted under subsection (e)(2)(B)(ii) with respect to”.
 
-    Subsec. (a)(4)(B). [Pub. L. 101–189, § 811(a)(1)(B)(iii)][/us/pl/101/189/s811/a/1/B/iii], substituted “subsection (e)(2)(B) with respect to the program during that three-quarter period, the most recent Selected Acquisition Report submitted under subsection (e)(1) that includes information on the program” for “subsection (e)(2)(B)(ii) with respect to the program during that three-quarter period, the most recent unit cost report submitted under subsection (e)(1) with respect to the program”.
+    Subsec. (a)(4)(B). [Pub. L. 101–189][/us/pl/101/189], § 811(a)(1)(B)(iii), substituted “subsection (e)(2)(B) with respect to the program during that three-quarter period, the most recent Selected Acquisition Report submitted under subsection (e)(1) that includes information on the program” for “subsection (e)(2)(B)(ii) with respect to the program during that three-quarter period, the most recent unit cost report submitted under subsection (e)(1) with respect to the program”.
 
-    Subsec. (b). [Pub. L. 101–189, § 811(a)(2)(A)][/us/pl/101/189/s811/a/2/A], amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The program manager for a defense acquisition program that as of the end of a fiscal-year quarter is a major defense acquisition program (other than a program not required to be included in the Selected Acquisition Report for that quarter under [section 2432(b)(3) of this title][/us/usc/t10/s2432/b/3]) shall, after the end of that quarter, submit to the Secretary concerned a written report on the unit costs of the program. Each report for the first quarter of a fiscal year shall be submitted not more than 7 days (excluding Saturdays, Sundays, and legal public holidays) after the date on which the President transmits the Budget to Congress for the following fiscal year, and each report for other quarters shall be submitted not more than 7 days (excluding Saturdays, Sundays, and legal public holidays) after the end of that quarter. The program manager shall include in each such unit cost report the following information with respect to the program (as of the last day of the quarter for which the report is made):”.
+    Subsec. (b). [Pub. L. 101–189][/us/pl/101/189], § 811(a)(2)(A), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The program manager for a defense acquisition program that as of the end of a fiscal-year quarter is a major defense acquisition program (other than a program not required to be included in the Selected Acquisition Report for that quarter under [section 2432(b)(3) of this title][/us/usc/t10/s2432/b/3]) shall, after the end of that quarter, submit to the Secretary concerned a written report on the unit costs of the program. Each report for the first quarter of a fiscal year shall be submitted not more than 7 days (excluding Saturdays, Sundays, and legal public holidays) after the date on which the President transmits the Budget to Congress for the following fiscal year, and each report for other quarters shall be submitted not more than 7 days (excluding Saturdays, Sundays, and legal public holidays) after the end of that quarter. The program manager shall include in each such unit cost report the following information with respect to the program (as of the last day of the quarter for which the report is made):”.
 
-    Subsec. (b)(4). [Pub. L. 101–189, § 811(a)(2)(B)][/us/pl/101/189/s811/a/2/B], substituted “description established under [section 2435 of this title][/us/usc/t10/s2435]” for “Selected Acquisition Report”.
+    Subsec. (b)(4). [Pub. L. 101–189][/us/pl/101/189], § 811(a)(2)(B), substituted “description established under [section 2435 of this title][/us/usc/t10/s2435]” for “Selected Acquisition Report”.
 
-    Subsec. (c)(1). [Pub. L. 101–189, § 811(a)(3)(A)][/us/pl/101/189/s811/a/3/A], in introductory provisions, struck out “fiscal-year” after “time during a”, and in concluding provisions, inserted “the service acquisition executive designated by” before “the Secretary concerned during” and substituted “(other than the last quarterly unit cost report under subsection (b) for the preceding fiscal year)” for “(other than the unit cost report under subsection (b) for the last quarter of the preceding fiscal year)” and “such service acquisition executive a unit” for “Secretary concerned a unit”.
+    Subsec. (c)(1). [Pub. L. 101–189][/us/pl/101/189], § 811(a)(3)(A), in introductory provisions, struck out “fiscal-year” after “time during a”, and in concluding provisions, inserted “the service acquisition executive designated by” before “the Secretary concerned during” and substituted “(other than the last quarterly unit cost report under subsection (b) for the preceding fiscal year)” for “(other than the unit cost report under subsection (b) for the last quarter of the preceding fiscal year)” and “such service acquisition executive a unit” for “Secretary concerned a unit”.
 
-    Subsec. (c)(2). [Pub. L. 101–189, § 811(a)(3)(B)][/us/pl/101/189/s811/a/3/B], in introductory provisions, inserted “the service acquisition executive designated by” before “the Secretary concerned a unit” and substituted “(other than the last quarterly unit cost report under subsection (b) for the preceding fiscal year)” for “(other than the unit cost report under subsection (b) for the last quarter of the preceding fiscal year)”, and in cls. (A), (B), and (C), and concluding provisions, substituted “such service acquisition executive” for “Secretary concerned”.
+    Subsec. (c)(2). [Pub. L. 101–189][/us/pl/101/189], § 811(a)(3)(B), in introductory provisions, inserted “the service acquisition executive designated by” before “the Secretary concerned a unit” and substituted “(other than the last quarterly unit cost report under subsection (b) for the preceding fiscal year)” for “(other than the unit cost report under subsection (b) for the last quarter of the preceding fiscal year)”, and in cls. (A), (B), and (C), and concluding provisions, substituted “such service acquisition executive” for “Secretary concerned”.
 
-    Subsec. (d)(1). [Pub. L. 101–189, § 811(a)(4)(A)][/us/pl/101/189/s811/a/4/A], inserted “the service acquisition executive designated by” before “the Secretary concerned” and substituted “service acquisition executive shall determine” for “Secretary shall determine”.
+    Subsec. (d)(1). [Pub. L. 101–189][/us/pl/101/189], § 811(a)(4)(A), inserted “the service acquisition executive designated by” before “the Secretary concerned” and substituted “service acquisition executive shall determine” for “Secretary shall determine”.
 
-    Subsec. (d)(2). [Pub. L. 101–189, § 811(a)(4)(B)][/us/pl/101/189/s811/a/4/B], inserted “the service acquisition executive designated by” before “the Secretary concerned under” and substituted “service acquisition executive, in addition to the determination under paragraph (1), shall determine” for “Secretary concerned shall, in addition to the determination under paragraph (1), determine”.
+    Subsec. (d)(2). [Pub. L. 101–189][/us/pl/101/189], § 811(a)(4)(B), inserted “the service acquisition executive designated by” before “the Secretary concerned under” and substituted “service acquisition executive, in addition to the determination under paragraph (1), shall determine” for “Secretary concerned shall, in addition to the determination under paragraph (1), determine”.
 
-    Subsec. (d)(3). [Pub. L. 101–189, § 811(a)(4)(C)][/us/pl/101/189/s811/a/4/C], substituted par. (3) consisting of a single par., for former par. (3) consisting of subpars. (A) and (B).
+    Subsec. (d)(3). [Pub. L. 101–189][/us/pl/101/189], § 811(a)(4)(C), substituted par. (3) consisting of a single par., for former par. (3) consisting of subpars. (A) and (B).
 
-    Subsec. (e)(1), (2). [Pub. L. 101–189, § 811(a)(5)(A)][/us/pl/101/189/s811/a/5/A], added pars. (1) and (2) and struck out former pars. (1) and (2) which contained exceptions to the prohibitions in subsec. (d)(3)(B)(i) and (ii).
+    Subsec. (e)(1), (2). [Pub. L. 101–189][/us/pl/101/189], § 811(a)(5)(A), added pars. (1) and (2) and struck out former pars. (1) and (2) which contained exceptions to the prohibitions in subsec. (d)(3)(B)(i) and (ii).
 
-    Subsec. (e)(3). [Pub. L. 101–189, § 811(a)(5)(B)][/us/pl/101/189/s811/a/5/B], in introductory provisions, inserted “If a determination of a more than 15 percent increase is made by the Secretary under subsection (d) and a Selected Acquisition Report containing the information described in subsection (g) is not submitted to Congress under paragraph (1), or if a determination of a more than 25 percent increase is made by the Secretary under subsection (d) and the certification of the Secretary of Defense is not submitted to Congress under paragraph (2), funds appropriated for military construction, for research, development, test, and evaluation, and for procurement may not be obligated for a major contract under the program.” and struck out “in subsection (d)(3)(B)” after “prohibition”, in subpar. (A), substituted “Selected Acquisition Report” for “report of the Secretary concerned” and “(2)(B)” for “(2)(B)(ii)”, and in subpar. (B), substituted “Selected Acquisition Report” for “report of the Secretary concerned”, “(2)(B)” for “(2)(B)(ii)”, and “(2)(A)” for “(2)(B)(i)”.
+    Subsec. (e)(3). [Pub. L. 101–189][/us/pl/101/189], § 811(a)(5)(B), in introductory provisions, inserted “If a determination of a more than 15 percent increase is made by the Secretary under subsection (d) and a Selected Acquisition Report containing the information described in subsection (g) is not submitted to Congress under paragraph (1), or if a determination of a more than 25 percent increase is made by the Secretary under subsection (d) and the certification of the Secretary of Defense is not submitted to Congress under paragraph (2), funds appropriated for military construction, for research, development, test, and evaluation, and for procurement may not be obligated for a major contract under the program.” and struck out “in subsection (d)(3)(B)” after “prohibition”, in subpar. (A), substituted “Selected Acquisition Report” for “report of the Secretary concerned” and “(2)(B)” for “(2)(B)(ii)”, and in subpar. (B), substituted “Selected Acquisition Report” for “report of the Secretary concerned”, “(2)(B)” for “(2)(B)(ii)”, and “(2)(A)” for “(2)(B)(i)”.
 
-    Subsec. (g)(2). [Pub. L. 101–189, § 811(a)(6)][/us/pl/101/189/s811/a/6], inserted at end “The certification of the Secretary of Defense under subsection (e) is not required to be submitted for termination or cancellation of a program.”
+    Subsec. (g)(2). [Pub. L. 101–189][/us/pl/101/189], § 811(a)(6), inserted at end “The certification of the Secretary of Defense under subsection (e) is not required to be submitted for termination or cancellation of a program.”
 
-    1987—[Pub. L. 100–180][/us/pl/100/180] made technical amendment to directory language of [Pub. L. 99–433, § 101(a)(5)][/us/pl/99/433/s101/a/5]. See 1986 Amendment note below.
+    1987—[Pub. L. 100–180][/us/pl/100/180] made technical amendment to directory language of [Pub. L. 99–433][/us/pl/99/433], § 101(a)(5). See 1986 Amendment note below.
 
-    Subsec. (a)(1). [Pub. L. 100–26, § 7(b)(4)][/us/pl/100/26/s7/b/4], substituted “(1) The terms ‘program’ ” for “(1) ‘Major defense acquisition program’, ‘program’ ”.
+    Subsec. (a)(1). [Pub. L. 100–26][/us/pl/100/26], § 7(b)(4), substituted “(1) The terms ‘program’ ” for “(1) ‘Major defense acquisition program’, ‘program’ ”.
 
-    Subsec. (a)(2). [Pub. L. 100–26, § 7(k)(7)(A)][/us/pl/100/26/s7/k/7/A], inserted “The term” after par. designation.
+    Subsec. (a)(2). [Pub. L. 100–26][/us/pl/100/26], § 7(k)(7)(A), inserted “The term” after par. designation.
 
-    Subsec. (a)(3). [Pub. L. 100–26, § 7(k)(7)(B)][/us/pl/100/26/s7/k/7/B], substituted “The term ‘procurement’ ” for “ ‘Procurement’ ”.
+    Subsec. (a)(3). [Pub. L. 100–26][/us/pl/100/26], § 7(k)(7)(B), substituted “The term ‘procurement’ ” for “ ‘Procurement’ ”.
 
-    Subsec. (a)(4). [Pub. L. 100–26, § 7(k)(7)(A)][/us/pl/100/26/s7/k/7/A], inserted “The term” after par. designation.
+    Subsec. (a)(4). [Pub. L. 100–26][/us/pl/100/26], § 7(k)(7)(A), inserted “The term” after par. designation.
 
-    1986—[Pub. L. 99–433, § 101(a)(5)][/us/pl/99/433/s101/a/5], as amended by [Pub. L. 100–180, § 1314(a)(1)][/us/pl/100/180/s1314/a/1], renumbered [section 139b of this title][/us/usc/t10/s139b] as this section.
+    1986—[Pub. L. 99–433][/us/pl/99/433], § 101(a)(5), as amended by [Pub. L. 100–180][/us/pl/100/180], § 1314(a)(1), renumbered [section 139b of this title][/us/usc/t10/s139b] as this section.
 
-    [Pub. L. 99–433, § 110(d)(14)][/us/pl/99/433/s110/d/14], substituted “Unit cost reports” for “Oversight of cost growth of major programs: unit cost reports” in section catchline.
+    [Pub. L. 99–433][/us/pl/99/433], § 110(d)(14), substituted “Unit cost reports” for “Oversight of cost growth of major programs: unit cost reports” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 99–433, § 110(g)(8)(A)][/us/pl/99/433/s110/g/8/A], substituted “section 2432(a)” for “section 139a(a)”.
+    Subsec. (a)(1). [Pub. L. 99–433][/us/pl/99/433], § 110(g)(8)(A), substituted “section 2432(a)” for “section 139a(a)”.
 
-    Subsec. (b). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[§ 961(b)(1)\], [Pub. L. 99–661, § 961(b)(1)][/us/pl/99/661/s961/b/1], amended subsec. (b) identically, inserting “(excluding Saturdays, Sundays, and legal public holidays)” in two places in second sentence.
+    Subsec. (b). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[§ 961(b)(1)\], [Pub. L. 99–661][/us/pl/99/661], § 961(b)(1), amended subsec. (b) identically, inserting “(excluding Saturdays, Sundays, and legal public holidays)” in two places in second sentence.
 
-    [Pub. L. 99–433, § 110(g)(8)(B)][/us/pl/99/433/s110/g/8/B], substituted “section 2432(b)(3)” for “section 139a(b)(3)” in first sentence.
+    [Pub. L. 99–433][/us/pl/99/433], § 110(g)(8)(B), substituted “section 2432(b)(3)” for “section 139a(b)(3)” in first sentence.
 
-    Subsec. (h). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[§ 961(b)(2)\], [Pub. L. 99–661, § 961(b)(2)][/us/pl/99/661/s961/b/2], amended section identically, adding subsec. (h).
+    Subsec. (h). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[§ 961(b)(2)\], [Pub. L. 99–661][/us/pl/99/661], § 961(b)(2), amended section identically, adding subsec. (h).
 
     1985—Subsec. (d)(3)(B)(i). [Pub. L. 99–145][/us/pl/99/145] inserted “percent” after “15”.
 
-    1984—Subsec. (a)(4). [Pub. L. 98–525, § 1242(b)(1)][/us/pl/98/525/s1242/b/1], added par. (4).
+    1984—Subsec. (a)(4). [Pub. L. 98–525][/us/pl/98/525], § 1242(b)(1), added par. (4).
 
-    Subsec. (b). [Pub. L. 98–525, § 1242(b)(2)(A)][/us/pl/98/525/s1242/b/2/A], (B), struck out “not more than 7 days” before “after the end of that quarter” and inserted “Each report for the first quarter of a fiscal year shall be submitted not more than 7 days after the date on which the President transmits the Budget to Congress for the following fiscal year, and each report for other quarters shall be submitted not more than 7 days after the end of that quarter.”
+    Subsec. (b). [Pub. L. 98–525][/us/pl/98/525], § 1242(b)(2)(A), (B), struck out “not more than 7 days” before “after the end of that quarter” and inserted “Each report for the first quarter of a fiscal year shall be submitted not more than 7 days after the date on which the President transmits the Budget to Congress for the following fiscal year, and each report for other quarters shall be submitted not more than 7 days after the end of that quarter.”
 
-    Subsec. (b)(3). [Pub. L. 98–525, § 1242(b)(2)(C)][/us/pl/98/525/s1242/b/2/C], substituted “Baseline Report” for “baseline Selected Acquisition Report”.
+    Subsec. (b)(3). [Pub. L. 98–525][/us/pl/98/525], § 1242(b)(2)(C), substituted “Baseline Report” for “baseline Selected Acquisition Report”.
 
-    Subsec. (c)(1)(A), (B). [Pub. L. 98–525, § 1242(b)(3)][/us/pl/98/525/s1242/b/3], substituted “Baseline Report” for “baseline Selected Acquisition Report”.
+    Subsec. (c)(1)(A), (B). [Pub. L. 98–525][/us/pl/98/525], § 1242(b)(3), substituted “Baseline Report” for “baseline Selected Acquisition Report”.
 
-    Subsec. (d)(1), (2). [Pub. L. 98–525, § 1242(b)(4)(A)][/us/pl/98/525/s1242/b/4/A], substituted “Baseline Report” for “baseline Selected Acquisition Report”.
+    Subsec. (d)(1), (2). [Pub. L. 98–525][/us/pl/98/525], § 1242(b)(4)(A), substituted “Baseline Report” for “baseline Selected Acquisition Report”.
 
-    Subsec. (d)(3)(B). [Pub. L. 98–525, § 1242(b)(4)(B)(i)][/us/pl/98/525/s1242/b/4/B/i], substituted “funds appropriated for military construction, for research, development, test, and evaluation, and for procurement may not be obligated for a major contract under the program” for “additional funds may not be obligated in connection with such program”.
+    Subsec. (d)(3)(B). [Pub. L. 98–525][/us/pl/98/525], § 1242(b)(4)(B)(i), substituted “funds appropriated for military construction, for research, development, test, and evaluation, and for procurement may not be obligated for a major contract under the program” for “additional funds may not be obligated in connection with such program”.
 
-    Subsec. (d)(3)(B)(i). [Pub. L. 98–525, § 1242(b)(4)(B)(ii)][/us/pl/98/525/s1242/b/4/B/ii], struck out “but less than 25 percent” after “more than 15”.
+    Subsec. (d)(3)(B)(i). [Pub. L. 98–525][/us/pl/98/525], § 1242(b)(4)(B)(ii), struck out “but less than 25 percent” after “more than 15”.
 
-    Subsec. (e)(1). [Pub. L. 98–525, § 1242(b)(5)(A)][/us/pl/98/525/s1242/b/5/A], substituted “subsection (d)(3)(B)(i)” for “subsection (d)(3)(B)” and inserted “more than” before “15 percent”.
+    Subsec. (e)(1). [Pub. L. 98–525][/us/pl/98/525], § 1242(b)(5)(A), substituted “subsection (d)(3)(B)(i)” for “subsection (d)(3)(B)” and inserted “more than” before “15 percent”.
 
-    Subsec. (e)(2). [Pub. L. 98–525, § 1242(b)(5)(B)][/us/pl/98/525/s1242/b/5/B], substituted “subsection (d)(3)(B)(ii)” for “subsection (d)(3)(B)” and inserted “more than” before “25 percent”.
+    Subsec. (e)(2). [Pub. L. 98–525][/us/pl/98/525], § 1242(b)(5)(B), substituted “subsection (d)(3)(B)(ii)” for “subsection (d)(3)(B)” and inserted “more than” before “25 percent”.
 
-    Subsec. (e)(2)(A). [Pub. L. 98–525, § 1242(b)(5)(B)(iii)][/us/pl/98/525/s1242/b/5/B/iii], inserted “and the Secretary concerned submits to Congress, before the end of the 30-day period referred to in subsection (d)(3)(B)(i), a report containing the information described in subsection (g)”.
+    Subsec. (e)(2)(A). [Pub. L. 98–525][/us/pl/98/525], § 1242(b)(5)(B)(iii), inserted “and the Secretary concerned submits to Congress, before the end of the 30-day period referred to in subsection (d)(3)(B)(i), a report containing the information described in subsection (g)”.
 
-    Subsec. (e)(2)(B). [Pub. L. 98–525, § 1242(b)(5)(B)(iv)][/us/pl/98/525/s1242/b/5/B/iv], substituted “subsection (d)(3)(B)(ii)” for “such subsection”.
+    Subsec. (e)(2)(B). [Pub. L. 98–525][/us/pl/98/525], § 1242(b)(5)(B)(iv), substituted “subsection (d)(3)(B)(ii)” for “such subsection”.
 
-    Subsec. (e)(3). [Pub. L. 98–525, § 1242(b)(5)(C)][/us/pl/98/525/s1242/b/5/C], substituted “at the end of a period of 30 days of continuous session of Congress (as determined under [section 7307(b)(2) of this title][/us/usc/t10/s7307/b/2]) beginning on the date—
+    Subsec. (e)(3). [Pub. L. 98–525][/us/pl/98/525], § 1242(b)(5)(C), substituted “at the end of a period of 30 days of continuous session of Congress (as determined under [section 7307(b)(2) of this title][/us/usc/t10/s7307/b/2]) beginning on the date—
 
     “(A) on which Congress receives the report of the Secretary concerned under paragraph (1) or (2)(B)(ii) with respect to that program, in the case of a determination of a more than 15 percent increase (as determined in subsection (d)); or
 
@@ -395,19 +395,19 @@
 
     for “in the case of a program to which it would otherwise apply if, after such prohibition has taken effect, the Committees on Armed Services of the Senate and House of Representatives waive the prohibition with respect to such program.”
 
-    Subsec. (g)(1)(I). [Pub. L. 98–525, § 1242(b)(6)(A)][/us/pl/98/525/s1242/b/6/A], substituted “The type of the Baseline Report (under subsection (a)(4)) and the date of the Baseline Report” for “The date of the baseline Selected Acquisition Report”.
+    Subsec. (g)(1)(I). [Pub. L. 98–525][/us/pl/98/525], § 1242(b)(6)(A), substituted “The type of the Baseline Report (under subsection (a)(4)) and the date of the Baseline Report” for “The date of the baseline Selected Acquisition Report”.
 
-    Subsec. (g)(1)(K). [Pub. L. 98–525, § 1242(b)(6)(B)][/us/pl/98/525/s1242/b/6/B], required the report to include the procurement unit cost for the succeeding fiscal year expressed in constant base-year dollars and in current year dollars.
+    Subsec. (g)(1)(K). [Pub. L. 98–525][/us/pl/98/525], § 1242(b)(6)(B), required the report to include the procurement unit cost for the succeeding fiscal year expressed in constant base-year dollars and in current year dollars.
 
     1983—Subsec. (g)(2). [Pub. L. 98–94][/us/pl/98/94] substituted “procurement” for “procurment”.
 
  __Effective Date of 2009 Amendment__ 
 
-    [Pub. L. 111–84, div. A, title X, § 1073(c)][/us/pl/111/84/s1073/c], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that the amendment made by section 1073(c)(4) is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.
+    [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that the amendment made by section 1073(c)(4) is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–163, div. A, title VIII, § 802(e)][/us/pl/109/163/s802/e], Jan. 6, 2006, [119 Stat. 3370][/us/stat/119/3370], provided that:
+[Pub. L. 109–163, div. A, title VIII][/us/pl/109/163/dA/tVIII], § 802(e), Jan. 6, 2006, [119 Stat. 3370][/us/stat/119/3370], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -466,185 +466,185 @@
 [/us/usc/t10/s2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2430
 [/us/usc/t10/s2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2435
 [/us/usc/t10/s2432/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432%2Fh
-[/us/pl/97/252/s1107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1107%2Fa%2F1
+[/us/pl/97/252/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtXI
 [/us/stat/96/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F741
-[/us/pl/98/94/s1268/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1268%2F1
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F705
-[/us/pl/98/525/s1242/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1242%2Fb
+[/us/pl/98/525/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXII
 [/us/stat/98/2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2607
-[/us/pl/99/145/s1303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1303%2Fa%2F2
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F738
-[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/99/433/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtI
 [/us/stat/100/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F995
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIX
 [/us/stat/100/3956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3956
-[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
-[/us/pl/100/26/s7/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fb%2F4
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F279
-[/us/pl/100/180/s1314/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fa%2F1
+[/us/pl/100/180/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXIII
 [/us/stat/101/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1175
-[/us/pl/101/189/s811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs811%2Fa
+[/us/pl/101/189/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVIII
 [/us/stat/103/1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1490
-[/us/pl/101/510/s1484/k/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484%2Fk%2F10
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1719
-[/us/pl/102/484/s817/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs817%2Fd
+[/us/pl/102/484/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVIII
 [/us/stat/106/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2456
-[/us/pl/103/35/s201/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fi%2F2
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F100
-[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtIII
 [/us/stat/108/3328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3328
-[/us/pl/105/85/s833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs833
+[/us/pl/105/85/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVIII
 [/us/stat/111/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1842
-[/us/pl/108/375/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs801%2Fa
+[/us/pl/108/375/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVIII
 [/us/stat/118/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2004
-[/us/pl/109/163/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs802%2Fa
+[/us/pl/109/163/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVIII
 [/us/stat/119/3367-3370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3367-3370
-[/us/pl/109/364/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs213%2Fa
+[/us/pl/109/364/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtII
 [/us/stat/120/2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2121
-[/us/pl/110/181/s942/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs942%2Fe
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F288
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4522
-[/us/pl/111/23/s206/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs206%2Fa%2F3
+[/us/pl/111/23/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2FtII
 [/us/stat/123/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1728
-[/us/pl/111/84/s1073/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc%2F4
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
-[/us/pl/111/383/s1075/b/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F34
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4371
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/110/417/s811/c/6/A/iv/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F6%2FA%2Fiv%2FI
-[/us/pl/110/417/s811/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F1%2FA
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/usc/t10/s2430a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2430a%2Fc
-[/us/pl/110/417/s811/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F1%2FB
-[/us/pl/110/417/s811/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F1%2FC
-[/us/pl/110/417/s811/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F2%2FA
-[/us/pl/110/417/s811/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F2%2FB
-[/us/pl/110/417/s811/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F2%2FD
-[/us/pl/110/417/s811/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F3
-[/us/pl/110/417/s811/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F4%2FA
-[/us/pl/110/417/s811/c/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F4%2FC
-[/us/pl/110/417/s811/c/5/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F5%2FA%2Fi
-[/us/pl/110/417/s811/c/5/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F5%2FA%2Fii
-[/us/pl/110/417/s811/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F5%2FB
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/110/417/s811/c/6/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F6%2FA%2Fi
-[/us/pl/110/417/s811/c/6/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F6%2FA%2Fii
-[/us/pl/110/417/s811/c/6/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F6%2FA%2Fiii
-[/us/pl/110/417/s811/c/6/A/iv/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F6%2FA%2Fiv%2FI
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/110/417/s811/c/6/A/iv/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F6%2FA%2Fiv%2FII
-[/us/pl/110/417/s811/c/6/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F6%2FA%2Fv
-[/us/pl/110/417/s811/c/6/A/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F6%2FA%2Fvi
-[/us/pl/110/417/s811/c/6/A/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F6%2FA%2Fvii
-[/us/pl/110/417/s811/c/6/A/viii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F6%2FA%2Fviii
-[/us/pl/110/417/s811/c/6/A/ix]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F6%2FA%2Fix
-[/us/pl/110/417/s811/c/6/A/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F6%2FA%2Fx
-[/us/pl/110/417/s811/c/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fc%2F6%2FB
-[/us/pl/109/163/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs802%2Fa
-[/us/pl/109/163/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs802%2Fd%2F2
-[/us/pl/109/163/s802/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs802%2Fb%2F1
-[/us/pl/109/163/s802/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs802%2Fb%2F2%2FA
-[/us/pl/109/163/s802/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs802%2Fb%2F2%2FB
-[/us/pl/109/163/s802/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs802%2Fb%2F2%2FC
-[/us/pl/109/163/s802/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs802%2Fb%2F3%2FA
-[/us/pl/109/163/s802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs802%2Fc
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/usc/t10/s2432/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432%2Ff
-[/us/pl/109/163/s802/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs802%2Fb%2F3%2FB
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/109/163/s802/b/3/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs802%2Fb%2F3%2FC%2Fii
-[/us/pl/109/163/s802/b/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs802%2Fb%2F3%2FC%2Fi
-[/us/pl/108/375/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs801%2Fa
-[/us/pl/108/375/s801/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs801%2Fb%2F1
-[/us/pl/105/85/s833/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs833%2Fa
-[/us/pl/105/85/s833/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs833%2Fb
-[/us/pl/105/85/s833/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs833%2Fc
-[/us/pl/103/355/s3003/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3003%2Fa%2F1%2FA
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/usc/t10/s2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2435
-[/us/pl/103/355/s3003/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3003%2Fa%2F1%2FB
-[/us/pl/103/355/s3003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3003%2Fb
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
-[/us/pl/103/355/s3003/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3003%2Fa%2F2%2FB
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
-[/us/pl/103/355/s3002/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3002%2Fa%2F2%2FB
-[/us/pl/103/355/s3002/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3002%2Fa%2F2%2FC
-[/us/pl/103/355/s3003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3003%2Fd
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/usc/t10/s2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2430
-[/us/pl/103/355/s3003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3003%2Fe
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
-[/us/pl/102/484/s817/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs817%2Fd%2F1
-[/us/pl/102/484/s817/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs817%2Fd%2F2
-[/us/pl/102/484/s817/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs817%2Fd%2F3
-[/us/pl/102/484/s817/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs817%2Fd%2F4%2FA
-[/us/pl/102/484/s817/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs817%2Fd%2F4%2FB
-[/us/pl/102/484/s817/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs817%2Fd%2F5%2FA
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t10/s2432/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432%2Fe
-[/us/pl/102/484/s817/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs817%2Fd%2F5%2FB
-[/us/pl/102/484/s817/d/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs817%2Fd%2F5%2FC
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/101/189/s811/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs811%2Fa%2F1%2FA
-[/us/pl/101/189/s811/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs811%2Fa%2F1%2FB%2Fi
-[/us/pl/101/189/s811/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs811%2Fa%2F1%2FB%2Fii
-[/us/pl/101/189/s811/a/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs811%2Fa%2F1%2FB%2Fiii
-[/us/pl/101/189/s811/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs811%2Fa%2F2%2FA
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t10/s2432/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432%2Fb%2F3
-[/us/pl/101/189/s811/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs811%2Fa%2F2%2FB
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t10/s2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2435
-[/us/pl/101/189/s811/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs811%2Fa%2F3%2FA
-[/us/pl/101/189/s811/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs811%2Fa%2F3%2FB
-[/us/pl/101/189/s811/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs811%2Fa%2F4%2FA
-[/us/pl/101/189/s811/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs811%2Fa%2F4%2FB
-[/us/pl/101/189/s811/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs811%2Fa%2F4%2FC
-[/us/pl/101/189/s811/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs811%2Fa%2F5%2FA
-[/us/pl/101/189/s811/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs811%2Fa%2F5%2FB
-[/us/pl/101/189/s811/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs811%2Fa%2F6
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
-[/us/pl/99/433/s101/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs101%2Fa%2F5
-[/us/pl/100/26/s7/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fb%2F4
-[/us/pl/100/26/s7/k/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fk%2F7%2FA
-[/us/pl/100/26/s7/k/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fk%2F7%2FB
-[/us/pl/100/26/s7/k/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fk%2F7%2FA
-[/us/pl/99/433/s101/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs101%2Fa%2F5
-[/us/pl/100/180/s1314/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fa%2F1
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/usc/t10/s139b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139b
-[/us/pl/99/433/s110/d/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs110%2Fd%2F14
-[/us/pl/99/433/s110/g/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs110%2Fg%2F8%2FA
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
-[/us/pl/99/661/s961/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs961%2Fb%2F1
-[/us/pl/99/433/s110/g/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs110%2Fg%2F8%2FB
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
-[/us/pl/99/661/s961/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs961%2Fb%2F2
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
-[/us/pl/98/525/s1242/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1242%2Fb%2F1
-[/us/pl/98/525/s1242/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1242%2Fb%2F2%2FA
-[/us/pl/98/525/s1242/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1242%2Fb%2F2%2FC
-[/us/pl/98/525/s1242/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1242%2Fb%2F3
-[/us/pl/98/525/s1242/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1242%2Fb%2F4%2FA
-[/us/pl/98/525/s1242/b/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1242%2Fb%2F4%2FB%2Fi
-[/us/pl/98/525/s1242/b/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1242%2Fb%2F4%2FB%2Fii
-[/us/pl/98/525/s1242/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1242%2Fb%2F5%2FA
-[/us/pl/98/525/s1242/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1242%2Fb%2F5%2FB
-[/us/pl/98/525/s1242/b/5/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1242%2Fb%2F5%2FB%2Fiii
-[/us/pl/98/525/s1242/b/5/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1242%2Fb%2F5%2FB%2Fiv
-[/us/pl/98/525/s1242/b/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1242%2Fb%2F5%2FC
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/usc/t10/s7307/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7307%2Fb%2F2
-[/us/pl/98/525/s1242/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1242%2Fb%2F6%2FA
-[/us/pl/98/525/s1242/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1242%2Fb%2F6%2FB
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
-[/us/pl/111/84/s1073/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/109/163/s802/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs802%2Fe
+[/us/pl/109/163/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVIII
 [/us/stat/119/3370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3370
 [/us/usc/t10/s2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2435
 [/us/usc/t10/s2433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2433

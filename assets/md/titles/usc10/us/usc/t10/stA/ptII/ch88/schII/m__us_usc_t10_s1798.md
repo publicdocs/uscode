@@ -59,7 +59,7 @@
 
     To provide financial assistance under this subsection, the Secretary of Defense may use any funds appropriated to the Department of Defense for operation and maintenance.
 
-(Added [Pub. L. 106–65, div. A, title V, § 584(a)(1)(B)][/us/pl/106/65/s584/a/1/B], Oct. 5, 1999, [113 Stat. 634][/us/stat/113/634]; amended [Pub. L. 107–314, div. A, title X, § 1041(a)(6)][/us/pl/107/314/s1041/a/6], Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645].)
+(Added [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 584(a)(1)(B), Oct. 5, 1999, [113 Stat. 634][/us/stat/113/634]; amended [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1041(a)(6), Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645].)
 
  __Prior Provisions__ 
 
@@ -75,7 +75,7 @@
 
  __First Biennial Reports__ 
 
-    [Pub. L. 106–65, div. A, title V, § 584(b)][/us/pl/106/65/s584/b], Oct. 5, 1999, [113 Stat. 636][/us/stat/113/636], provided that the first biennial reports under former sections 1798(d) and 1799(d) of this title were to be submitted not later than Mar. 31, 2002, and were to cover fiscal years 2000 and 2001.
+    [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 584(b), Oct. 5, 1999, [113 Stat. 636][/us/stat/113/636], provided that the first biennial reports under former sections 1798(d) and 1799(d) of this title were to be submitted not later than Mar. 31, 2002, and were to cover fiscal years 2000 and 2001.
 
 ----------
 
@@ -84,14 +84,14 @@
 ----------
 ----------
 
-[/us/pl/106/65/s584/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs584%2Fa%2F1%2FB
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F634
-[/us/pl/107/314/s1041/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1041%2Fa%2F6
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2645
 [/us/usc/t10/s1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1800
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/usc/t10/s1799/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1799%2Fd
-[/us/pl/106/65/s584/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs584%2Fb
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F636
 
 

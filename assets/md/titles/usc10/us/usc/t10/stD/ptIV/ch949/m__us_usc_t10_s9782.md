@@ -31,7 +31,7 @@
 
     The provision described in this subsection is a provision of a national defense authorization Act that authorizes funds to be appropriated for a fiscal year to the Air Force for operation and maintenance.
 
-(Added [Pub. L. 105–85, div. A, title II, § 242(a)][/us/pl/105/85/s242/a], Nov. 18, 1997, [111 Stat. 1666][/us/stat/111/1666].)
+(Added [Pub. L. 105–85, div. A, title II][/us/pl/105/85/dA/tII], § 242(a), Nov. 18, 1997, [111 Stat. 1666][/us/stat/111/1666].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/105/85/s242/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs242%2Fa
+[/us/pl/105/85/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtII
 [/us/stat/111/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1666
 
 

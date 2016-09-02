@@ -37,7 +37,7 @@
 
     (c) This section does not apply to the survivors of persons who were temporary members of the Coast Guard Reserve at the time of their death.
 
-(Added [Pub. L. 85–861, § 1(32)(A)][/us/pl/85/861/s1/32/A], Sept. 2, 1958, [72 Stat. 1452][/us/stat/72/1452]; amended [Pub. L. 99–661, div. A, title VI, § 604(e)(2)][/us/pl/99/661/s604/e/2], Nov. 14, 1986, [100 Stat. 3877][/us/stat/100/3877]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], (2), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602], 1603.)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(32)(A), Sept. 2, 1958, [72 Stat. 1452][/us/stat/72/1452]; amended [Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], § 604(e)(2), Nov. 14, 1986, [100 Stat. 3877][/us/stat/100/3877]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(1), (2), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602], 1603.)
 
 <table>
 
@@ -107,9 +107,9 @@ Aug. 1, 1956, ch. 837, §§ 102(2) (last sentence, as applicable to death grat
 
  __Amendments__ 
 
-    1989—Subsec. (a)(2). [Pub. L. 101–189, § 1621(a)(2)][/us/pl/101/189/s1621/a/2], substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+    1989—Subsec. (a)(2). [Pub. L. 101–189][/us/pl/101/189], § 1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-    Subsec. (b). [Pub. L. 101–189, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+    Subsec. (b). [Pub. L. 101–189][/us/pl/101/189], § 1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
     1986—[Pub. L. 99–661][/us/pl/99/661] added subsec. (a), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsecs. (a) and (b) which read as follows:
 
@@ -144,17 +144,17 @@ Aug. 1, 1956, ch. 837, §§ 102(2) (last sentence, as applicable to death grat
 
 [/us/usc/t10/s1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1480
 [/us/usc/t10/s1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1477
-[/us/pl/85/861/s1/32/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F32%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1452
-[/us/pl/99/661/s604/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs604%2Fe%2F2
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3877
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1602
 [/us/usc/t10/s1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1480
 [/us/usc/t10/s1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1477
 [/us/usc/t10/s101/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F22
-[/us/pl/101/189/s1621/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F2
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/usc/t10/s1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1480
 [/us/usc/t10/s1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1477

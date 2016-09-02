@@ -43,11 +43,11 @@
 
         (6) a process under which an appropriate Department of Defense official may intervene or terminate the funding of an information technology investment if the investment is at risk of not achieving major project milestones.
 
-(Added [Pub. L. 111–383, div. A, title VIII, § 805(a)(1)][/us/pl/111/383/s805/a/1], Jan. 7, 2011, [124 Stat. 4259][/us/stat/124/4259].)
+(Added [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 805(a)(1), Jan. 7, 2011, [124 Stat. 4259][/us/stat/124/4259].)
 
  __Guidance on Acquisition of Business Systems__ 
 
-[Pub. L. 114–92, div. A, title VIII, § 883(e)][/us/pl/114/92/s883/e], Nov. 25, 2015, [129 Stat. 947][/us/stat/129/947], provided that: 
+[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 883(e), Nov. 25, 2015, [129 Stat. 947][/us/stat/129/947], provided that: 
 
 > “The Secretary of Defense shall issue guidance for major automated information systems acquisition programs to promote the use of best acquisition, contracting, requirement development, systems engineering, program management, and sustainment practices, including—
 
@@ -69,7 +69,7 @@
 
  __Modular Open Systems Approaches in Acquisition Programs__ 
 
-[Pub. L. 113–291, div. A, title VIII, § 801][/us/pl/113/291/s801], Dec. 19, 2014, [128 Stat. 3425][/us/stat/128/3425], provided that:
+[Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 801, Dec. 19, 2014, [128 Stat. 3425][/us/stat/128/3425], provided that:
 
 >     “(a)  __Plan for Modular Open Systems Approach Through Development and Adoption of Standards and Architectures__  __.—__ 
 
@@ -155,7 +155,7 @@
 
  __Operational Metrics for Joint Information Environment and Supporting Activities__ 
 
-[Pub. L. 113–291, div. A, title VIII, § 854][/us/pl/113/291/s854], Dec. 19, 2014, [128 Stat. 3459][/us/stat/128/3459], provided that:
+[Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 854, Dec. 19, 2014, [128 Stat. 3459][/us/stat/128/3459], provided that:
 
 >     “(a)  __Guidance__  __.—__ 
 
@@ -171,7 +171,7 @@
 
  __Supervision of the Acquisition of Cloud Computing Capabilities__ 
 
-[Pub. L. 113–66, div. A, title IX, § 938][/us/pl/113/66/s938], Dec. 26, 2013, [127 Stat. 835][/us/stat/127/835], provided that:
+[Pub. L. 113–66, div. A, title IX][/us/pl/113/66/dA/tIX], § 938, Dec. 26, 2013, [127 Stat. 835][/us/stat/127/835], provided that:
 
 >     “(a) __Supervision.—__ 
 
@@ -205,7 +205,7 @@
 
  __Data Servers and Centers__ 
 
-[Pub. L. 112–81, div. B, title XXVIII, § 2867][/us/pl/112/81/s2867], Dec. 31, 2011, [125 Stat. 1704][/us/stat/125/1704], as amended by [Pub. L. 112–239, div. B, title XXVIII, § 2853][/us/pl/112/239/s2853], Jan. 2, 2013, [126 Stat. 2161][/us/stat/126/2161], provided that:
+[Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], § 2867, Dec. 31, 2011, [125 Stat. 1704][/us/stat/125/1704], as amended by [Pub. L. 112–239, div. B, title XXVIII][/us/pl/112/239/dB/tXXVIII], § 2853, Jan. 2, 2013, [126 Stat. 2161][/us/stat/126/2161], provided that:
 
 >     “(a) __Limitations on Obligation of Funds.—__ 
 
@@ -324,21 +324,21 @@
 ----------
 ----------
 
-[/us/pl/111/383/s805/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs805%2Fa%2F1
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4259
-[/us/pl/114/92/s883/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs883%2Fe
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F947
-[/us/pl/113/291/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs801
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3425
 [/us/usc/t40/s11101/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101%2F6
-[/us/pl/113/291/s854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs854
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3459
-[/us/pl/113/66/s938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs938
+[/us/pl/113/66/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIX
 [/us/stat/127/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F835
 [/us/usc/t50/s3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3024
-[/us/pl/112/81/s2867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2867
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1704
-[/us/pl/112/239/s2853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2853
+[/us/pl/112/239/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdB%2FtXXVIII
 [/us/stat/126/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2161
 
 

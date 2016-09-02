@@ -23,7 +23,7 @@
 
     The Secretary of Defense shall transmit the annual report of the Chief of the National Guard Bureau to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under [section 113(c) of this title][/us/usc/t10/s113/c] is submitted to Congress.
 
-(Added [Pub. L. 103–337, div. A, title IX, § 904(a)][/us/pl/103/337/s904/a], Oct. 5, 1994, [108 Stat. 2825][/us/stat/108/2825].)
+(Added [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 904(a), Oct. 5, 1994, [108 Stat. 2825][/us/stat/108/2825].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t10/s113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113%2Fc
-[/us/pl/103/337/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs904%2Fa
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2825
 
 

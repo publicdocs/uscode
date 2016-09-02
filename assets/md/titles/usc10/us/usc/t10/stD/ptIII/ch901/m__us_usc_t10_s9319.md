@@ -35,11 +35,11 @@
 
     In this section, the term “basic training” means the initial entry training program of the Air Force that constitutes the basic training of new recruits.
 
-(Added [Pub. L. 105–261, div. A, title V, § 521(c)(1)][/us/pl/105/261/s521/c/1], Oct. 17, 1998, [112 Stat. 2011][/us/stat/112/2011].)
+(Added [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 521(c)(1), Oct. 17, 1998, [112 Stat. 2011][/us/stat/112/2011].)
 
  __Implementation__ 
 
-[Pub. L. 105–261, div. A, title V, § 521(c)(3)][/us/pl/105/261/s521/c/3], Oct. 17, 1998, [112 Stat. 2012][/us/stat/112/2012], provided that: 
+[Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 521(c)(3), Oct. 17, 1998, [112 Stat. 2012][/us/stat/112/2012], provided that: 
 
 > “The Secretary of the Air Force shall implement [section 9319 of title 10][/us/usc/t10/s9319], United States Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999.”
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/105/261/s521/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs521%2Fc%2F1
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2011
-[/us/pl/105/261/s521/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs521%2Fc%2F3
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2012
 [/us/usc/t10/s9319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9319
 

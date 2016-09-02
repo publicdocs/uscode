@@ -21,7 +21,7 @@
 
     (c) The Marine Corps is responsible, in accordance with integrated joint mobilization plans, for the expansion of peacetime components of the Marine Corps to meet the needs of war.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 278][/us/stat/70A/278], § 5013; renumbered § 5063, [Pub. L. 99–433, title V, § 511(b)(3)][/us/pl/99/433/s511/b/3], Oct. 1, 1986, [100 Stat. 1043][/us/stat/100/1043].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 278][/us/stat/70A/278], § 5013; renumbered § 5063, [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 511(b)(3), Oct. 1, 1986, [100 Stat. 1043][/us/stat/100/1043].)
 
 <table>
 
@@ -69,9 +69,9 @@ July 26, 1947, ch. 343, § 206(c) (less last 32 words of 1st sentence), 61 Sta
 
  __Prior Provisions__ 
 
-    A prior section 5063, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 281][/us/stat/70A/281], related to establishment and duties of Office of Budget and Reports, prior to repeal by [Pub. L. 99–433, § 511(a)][/us/pl/99/433/s511/a].
+    A prior section 5063, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 281][/us/stat/70A/281], related to establishment and duties of Office of Budget and Reports, prior to repeal by [Pub. L. 99–433][/us/pl/99/433], § 511(a).
 
-    A prior section 5064, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 281][/us/stat/70A/281]; Sept. 7, 1962, [Pub. L. 87–649, § 14(c)(12)][/us/pl/87/649/s14/c/12], (13), [76 Stat. 501][/us/stat/76/501]; Dec. 12, 1980, [Pub. L. 96–513, title III, § 341][/us/pl/96/513/s341], title V, § 503(3), [94 Stat. 2901][/us/stat/94/2901], 2911, related to Director and Assistant of Office of Budget and Reports, prior to repeal by [Pub. L. 99–433, § 511(a)][/us/pl/99/433/s511/a].
+    A prior section 5064, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 281][/us/stat/70A/281]; Sept. 7, 1962, [Pub. L. 87–649][/us/pl/87/649], § 14(c)(12), (13), [76 Stat. 501][/us/stat/76/501]; Dec. 12, 1980, [Pub. L. 96–513, title III][/us/pl/96/513/tIII], § 341, title V, § 503(3), [94 Stat. 2901][/us/stat/94/2901], 2911, related to Director and Assistant of Office of Budget and Reports, prior to repeal by [Pub. L. 99–433][/us/pl/99/433], § 511(a).
 
 ----------
 
@@ -82,17 +82,17 @@ July 26, 1947, ch. 343, § 206(c) (less last 32 words of 1st sentence), 61 Sta
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F278
-[/us/pl/99/433/s511/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fb%2F3
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1043
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F281
-[/us/pl/99/433/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fa
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F281
-[/us/pl/87/649/s14/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs14%2Fc%2F12
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F501
-[/us/pl/96/513/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs341
+[/us/pl/96/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIII
 [/us/stat/94/2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2901
-[/us/pl/99/433/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fa
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 
 

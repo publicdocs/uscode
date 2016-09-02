@@ -29,11 +29,11 @@
 
         (3) The number of those incidents that involve evidence determined insufficient for supporting disciplinary action and for each such case, a description of the allegation.
 
-(Added [Pub. L. 106–65, div. A, title V, § 594(a)][/us/pl/106/65/s594/a], Oct. 5, 1999, [113 Stat. 643][/us/stat/113/643].)
+(Added [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 594(a), Oct. 5, 1999, [113 Stat. 643][/us/stat/113/643].)
 
  __Improvements to Department of Defense Domestic Violence Programs__ 
 
-[Pub. L. 111–383, div. A, title V, § 543][/us/pl/111/383/s543], Jan. 7, 2011, [124 Stat. 4218][/us/stat/124/4218], as amended by [Pub. L. 113–291, div. A, title V, § 544(b)][/us/pl/113/291/s544/b], Dec. 19, 2014, [128 Stat. 3374][/us/stat/128/3374], provided that:
+[Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 543, Jan. 7, 2011, [124 Stat. 4218][/us/stat/124/4218], as amended by [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 544(b), Dec. 19, 2014, [128 Stat. 3374][/us/stat/128/3374], provided that:
 
 >     “(a)  __Implementation of Outstanding Comptroller General Recommendations__  __.—__ 
 
@@ -57,7 +57,7 @@
 
  __Comptroller General Review and Report__ 
 
-[Pub. L. 108–136, div. A, title V, § 575][/us/pl/108/136/s575], Nov. 24, 2003, [117 Stat. 1486][/us/stat/117/1486], provided that:
+[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 575, Nov. 24, 2003, [117 Stat. 1486][/us/stat/117/1486], provided that:
 
 >     “(a)  __Review__  __.—__ 
 
@@ -73,11 +73,11 @@
 
  __Defense Task Force on Domestic Violence__ 
 
-    [Pub. L. 106–65, div. A, title V, § 591][/us/pl/106/65/s591], Oct. 5, 1999, [113 Stat. 639][/us/stat/113/639], as amended by [Pub. L. 107–107, div. A, title V, § 575][/us/pl/107/107/s575], Dec. 28, 2001, [115 Stat. 1123][/us/stat/115/1123], directed the Secretary of Defense to establish a Department of Defense Task Force on Domestic Violence; required the task force to submit to the Secretary of Defense a long-term, strategic plan to address matters relating to domestic violence within the military more effectively, to review the victims’ safety program under [Pub. L. 106–65, § 592][/us/pl/106/65/s592], set out below, and other matters relating to acts of domestic violence involving members of the Armed Forces, and to submit to the Secretary an annual report on its activities and activities of the military departments; directed the Secretary to submit the report and the Secretary’s evaluation of the report to committees of Congress; and provided for the termination of the task force on Apr. 24, 2003.
+    [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 591, Oct. 5, 1999, [113 Stat. 639][/us/stat/113/639], as amended by [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 575, Dec. 28, 2001, [115 Stat. 1123][/us/stat/115/1123], directed the Secretary of Defense to establish a Department of Defense Task Force on Domestic Violence; required the task force to submit to the Secretary of Defense a long-term, strategic plan to address matters relating to domestic violence within the military more effectively, to review the victims’ safety program under [Pub. L. 106–65][/us/pl/106/65], § 592, set out below, and other matters relating to acts of domestic violence involving members of the Armed Forces, and to submit to the Secretary an annual report on its activities and activities of the military departments; directed the Secretary to submit the report and the Secretary’s evaluation of the report to committees of Congress; and provided for the termination of the task force on Apr. 24, 2003.
 
  __Incentive Program for Improving Responses to Domestic Violence Involving Members of the Armed Forces and Military Family Members__ 
 
-[Pub. L. 106–65, div. A, title V, § 592][/us/pl/106/65/s592], Oct. 5, 1999, [113 Stat. 642][/us/stat/113/642], provided that:
+[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 592, Oct. 5, 1999, [113 Stat. 642][/us/stat/113/642], provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -117,7 +117,7 @@
 
  __Uniform Department of Defense Policies for Responses to Domestic Violence__ 
 
-[Pub. L. 106–65, div. A, title V, § 593][/us/pl/106/65/s593], Oct. 5, 1999, [113 Stat. 643][/us/stat/113/643], provided that:
+[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 593, Oct. 5, 1999, [113 Stat. 643][/us/stat/113/643], provided that:
 
 >     “(a)  __Requirement__  __.—__ 
 
@@ -142,22 +142,22 @@
 ----------
 ----------
 
-[/us/pl/106/65/s594/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs594%2Fa
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F643
-[/us/pl/111/383/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs543
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4218
-[/us/pl/113/291/s544/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs544%2Fb
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3374
-[/us/pl/108/136/s575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs575
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1486
-[/us/pl/106/65/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs591
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F639
-[/us/pl/107/107/s575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs575
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1123
-[/us/pl/106/65/s592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs592
-[/us/pl/106/65/s592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs592
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F642
-[/us/pl/106/65/s593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs593
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F643
 
 

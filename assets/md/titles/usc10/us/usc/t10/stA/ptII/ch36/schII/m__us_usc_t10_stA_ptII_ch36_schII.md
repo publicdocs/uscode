@@ -101,11 +101,11 @@
 
     2008—[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 521(b)(2), Oct. 14, 2008, [122 Stat. 4444][/us/stat/122/4444], added item 619a and struck out former item 619a “Eligibility for consideration for promotion: joint duty assignment required before promotion to general or flag grade; exceptions”.
 
-    1993—[Pub. L. 103–160, div. A, title IX, § 931(c)(2)][/us/pl/103/160/s931/c/2], Nov. 30, 1993, [107 Stat. 1734][/us/stat/107/1734], added items 619 and 619a and struck out former item 619 “Eligibility for consideration for promotion”.
+    1993—[Pub. L. 103–160, div. A, title IX][/us/pl/103/160/dA/tIX], § 931(c)(2), Nov. 30, 1993, [107 Stat. 1734][/us/stat/107/1734], added items 619 and 619a and struck out former item 619 “Eligibility for consideration for promotion”.
 
-    1985—[Pub. L. 99–145, title V, § 514(b)(4)(B)][/us/pl/99/145/s514/b/4/B], Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628], substituted “rear admiral (lower half)” for “commodore” in item 625.
+    1985—[Pub. L. 99–145, title V][/us/pl/99/145/tV], § 514(b)(4)(B), Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628], substituted “rear admiral (lower half)” for “commodore” in item 625.
 
-    1981—[Pub. L. 97–86, title IV, § 405(b)(4)(B)][/us/pl/97/86/s405/b/4/B], Dec. 1, 1981, [95 Stat. 1106][/us/stat/95/1106], substituted “commodore” for “commodore admiral” in item 625.
+    1981—[Pub. L. 97–86, title IV][/us/pl/97/86/tIV], § 405(b)(4)(B), Dec. 1, 1981, [95 Stat. 1106][/us/stat/95/1106], substituted “commodore” for “commodore admiral” in item 625.
 
 ----------
 
@@ -116,11 +116,11 @@
 
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4444
-[/us/pl/103/160/s931/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs931%2Fc%2F2
+[/us/pl/103/160/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIX
 [/us/stat/107/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1734
-[/us/pl/99/145/s514/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fb%2F4%2FB
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F628
-[/us/pl/97/86/s405/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs405%2Fb%2F4%2FB
+[/us/pl/97/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIV
 [/us/stat/95/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1106
 
 

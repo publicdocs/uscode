@@ -39,7 +39,7 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–106, div. A, title XV, § 1503(a)(13)][/us/pl/104/106/s1503/a/13], Feb. 10, 1996, [110 Stat. 511][/us/stat/110/511], substituted “NON-REGULAR” for “­NONREGULAR” in chapter heading.
+    1996—[Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1503(a)(13), Feb. 10, 1996, [110 Stat. 511][/us/stat/110/511], substituted “NON-REGULAR” for “­NONREGULAR” in chapter heading.
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/104/106/s1503/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1503%2Fa%2F13
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F511
 
 

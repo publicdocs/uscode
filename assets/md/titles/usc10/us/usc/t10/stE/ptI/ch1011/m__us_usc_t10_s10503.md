@@ -57,21 +57,21 @@
 
     (14) Such other functions as the Secretary of Defense may prescribe.
 
-(Added [Pub. L. 103–337, div. A, title IX, § 904(a)][/us/pl/103/337/s904/a], Oct. 5, 1994, [108 Stat. 2825][/us/stat/108/2825]; amended [Pub. L. 110–181, div. A, title XVIII, § 1813(a)][/us/pl/110/181/s1813/a]–(c)(1), Jan. 28, 2008, [122 Stat. 497][/us/stat/122/497], 498; [Pub. L. 112–239, div. A, title X, § 1081(3)][/us/pl/112/239/s1081/3], Jan. 2, 2013, [126 Stat. 1960][/us/stat/126/1960].)
+(Added [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 904(a), Oct. 5, 1994, [108 Stat. 2825][/us/stat/108/2825]; amended [Pub. L. 110–181, div. A, title XVIII][/us/pl/110/181/dA/tXVIII], § 1813(a)–(c)(1), Jan. 28, 2008, [122 Stat. 497][/us/stat/122/497], 498; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1081(3), Jan. 2, 2013, [126 Stat. 1960][/us/stat/126/1960].)
 
  __Amendments__ 
 
     2013—Par. (13)(B)(iii), (iv). [Pub. L. 112–239][/us/pl/112/239] redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “The United States Joint Forces Command.”
 
-    2008—[Pub. L. 110–181, § 1813(c)(1)][/us/pl/110/181/s1813/c/1], substituted “charter” for “charter from Secretaries of the Army and Air Force” in section catchline.
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 1813(c)(1), substituted “charter” for “charter from Secretaries of the Army and Air Force” in section catchline.
 
-    [Pub. L. 110–181, § 1813(b)(1)][/us/pl/110/181/s1813/b/1], in introductory provisions, substituted “The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, the Secretary of the Army, and the Secretary of the Air Force, shall develop” for “The Secretary of the Army and the Secretary of the Air Force shall jointly develop” and “reflect the full scope of the duties and activities of the Bureau, including” for “cover”.
+    [Pub. L. 110–181][/us/pl/110/181], § 1813(b)(1), in introductory provisions, substituted “The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, the Secretary of the Army, and the Secretary of the Air Force, shall develop” for “The Secretary of the Army and the Secretary of the Air Force shall jointly develop” and “reflect the full scope of the duties and activities of the Bureau, including” for “cover”.
 
-    Pars. (2) to (14). [Pub. L. 110–181, § 1813(a)][/us/pl/110/181/s1813/a], (b)(2), added pars. (2) and (13), redesignated former pars. (2) to (11) as (3) to (12), respectively, and former par. (12) as (14), and substituted “the Secretary of Defense” for “the Secretaries” in par. (14).
+    Pars. (2) to (14). [Pub. L. 110–181][/us/pl/110/181], § 1813(a), (b)(2), added pars. (2) and (13), redesignated former pars. (2) to (11) as (3) to (12), respectively, and former par. (12) as (14), and substituted “the Secretary of Defense” for “the Secretaries” in par. (14).
 
  __Annual Preparation of Future Years Defense Plan__ 
 
-[Pub. L. 104–196, § 123][/us/pl/104/196/s123], Sept. 16, 1996, [110 Stat. 2392][/us/stat/110/2392], provided that: 
+[Pub. L. 104–196][/us/pl/104/196], § 123, Sept. 16, 1996, [110 Stat. 2392][/us/stat/110/2392], provided that: 
 
 > “The National Guard Bureau shall annually prepare a future years defense plan based on the requirement and priorities of the National Guard: Provided, That this plan shall be presented to the committees of Congress concurrent with the President’s budget submission for each fiscal year.”
 
@@ -84,17 +84,17 @@
 
 [/us/usc/t32/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs708
 [/us/usc/t32/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs709
-[/us/pl/103/337/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs904%2Fa
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2825
-[/us/pl/110/181/s1813/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1813%2Fa
+[/us/pl/110/181/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVIII
 [/us/stat/122/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F497
-[/us/pl/112/239/s1081/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1081%2F3
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1960
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/110/181/s1813/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1813%2Fc%2F1
-[/us/pl/110/181/s1813/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1813%2Fb%2F1
-[/us/pl/110/181/s1813/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1813%2Fa
-[/us/pl/104/196/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F196%2Fs123
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/104/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F196
 [/us/stat/110/2392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2392
 
 

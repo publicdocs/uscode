@@ -17,7 +17,7 @@
 
     Any officer of the naval service may be designated a naval flight officer if he has successfully completed the course prescribed for naval flight officers.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 377][/us/stat/70A/377]; [Pub. L. 91–198, § 1(2)][/us/pl/91/198/s1/2], Feb. 26, 1970, [84 Stat. 15][/us/stat/84/15].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 377][/us/stat/70A/377]; [Pub. L. 91–198][/us/pl/91/198], § 1(2), Feb. 26, 1970, [84 Stat. 15][/us/stat/84/15].)
 
 <table>
 
@@ -78,7 +78,7 @@ June 24, 1926, ch. 668, § 3 (par. 3), 44 Stat. 767.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F377
-[/us/pl/91/198/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F198%2Fs1%2F2
+[/us/pl/91/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F198
 [/us/stat/84/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F15
 [/us/usc/t34/s735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs735
 [/us/pl/91/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F198

@@ -75,9 +75,9 @@
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–525, title XIV, § 1401(b)(2)][/us/pl/98/525/s1401/b/2], Oct. 19, 1984, [98 Stat. 2615][/us/stat/98/2615], added item 956.
+    1984—[Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1401(b)(2), Oct. 19, 1984, [98 Stat. 2615][/us/stat/98/2615], added item 956.
 
-    1980—[Pub. L. 96–513, title V, § 511(26)][/us/pl/96/513/s511/26], Dec. 13, 1980, [94 Stat. 2922][/us/stat/94/2922], added item 955.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(26), Dec. 13, 1980, [94 Stat. 2922][/us/stat/94/2922], added item 955.
 
 ----------
 
@@ -86,9 +86,9 @@
 ----------
 ----------
 
-[/us/pl/98/525/s1401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1401%2Fb%2F2
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2615
-[/us/pl/96/513/s511/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F26
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2922
 
 

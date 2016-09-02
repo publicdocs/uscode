@@ -91,9 +91,9 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–510, div. A, title III, § 323(a)(2)][/us/pl/101/510/s323/a/2], title XIII, § 1331(6), Nov. 5, 1990, [104 Stat. 1530][/us/stat/104/1530], 1673, struck out item 2455 “Reports to Congress” and added item 2458.
+    1990—[Pub. L. 101–510, div. A, title III][/us/pl/101/510/dA/tIII], § 323(a)(2), title XIII, § 1331(6), Nov. 5, 1990, [104 Stat. 1530][/us/stat/104/1530], 1673, struck out item 2455 “Reports to Congress” and added item 2458.
 
-    1982—[Pub. L. 97–295, § 1(30)(B)][/us/pl/97/295/s1/30/B], Oct. 12, 1982, [96 Stat. 1296][/us/stat/96/1296], added item 2457.
+    1982—[Pub. L. 97–295][/us/pl/97/295], § 1(30)(B), Oct. 12, 1982, [96 Stat. 1296][/us/stat/96/1296], added item 2457.
 
 ----------
 
@@ -102,9 +102,9 @@
 ----------
 ----------
 
-[/us/pl/101/510/s323/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs323%2Fa%2F2
+[/us/pl/101/510/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIII
 [/us/stat/104/1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1530
-[/us/pl/97/295/s1/30/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F30%2FB
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1296
 
 

@@ -11,58 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch835/m__us_usc_t10_s8291.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch835/m__us_usc_t10_s8310.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8304)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch835/m__us_usc_t10_s8293...8303.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch835/m__us_usc_t10_s8305...8309.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8304)
 
-## \[§ 8304. Repealed. [Pub. L. 85–155, title IV, § 401(1)][/us/pl/85/155/s401/1], Aug. 21, 1957, [71 Stat. 390][/us/stat/71/390]\]
+## \[§ 8304. Repealed. [Pub. L. 85–155, title IV][/us/pl/85/155/tIV], § 401(1), Aug. 21, 1957, [71 Stat. 390][/us/stat/71/390]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 515][/us/stat/70A/515], related to promotion of Air Force nurses or women medical specialists to grades of first lieutenant, captain, major, lieutenant colonel, or colonel.
 
-\[§§ 8305 to 8309. __Repealed.__  __[__  __Pub. L. 96–513, title II, § 204__  __][/us/pl/96/513/s204]__  __,__  __Dec. 12, 1980__  __,__  __[__  __94 Stat. 2880__  __][/us/stat/94/2880]__  __\]__ 
-
-    Section 8305, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 516][/us/stat/70A/516]; Aug. 21, 1957, [Pub. L. 85–155, title III, § 301(14)][/us/pl/85/155/s301/14], [71 Stat. 388][/us/stat/71/388]; Nov. 8, 1967, [Pub. L. 90–130, § 1(27)(E)][/us/pl/90/130/s1/27/E], [81 Stat. 382][/us/stat/81/382], related to promotion of officers in regular grade of lieutenant colonel to grade of colonel. See section 619 et seq. of this title.
-
-    Section 8306, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 516][/us/stat/70A/516], related to promotion of officers in regular grade of colonel to grade of brigadier general. See section 619 et seq. of this title.
-
-    Section 8307, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 517][/us/stat/70A/517], related to promotion of officers in regular grade of brigadier general to grade of major general. See section 619 et seq. of this title.
-
-    Section 8308, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 518][/us/stat/70A/518], related to effect of removal from recommended list by President of name of any promotion-list officer or brigadier general of Regular Air Force who in President’s opinion is not qualified for promotion or who is not confirmed by Senate. See [section 629 of this title][/us/usc/t10/s629].
-
-    Section 8309, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 518][/us/stat/70A/518], provided that President prescribe a system of physical examination for all commissioned officers of Regular Air Force in grades below brigadier general to determine their fitness for promotion in Regular Air Force. See [section 624 of this title][/us/usc/t10/s624].
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Sept. 15, 1981, see [section 701 of Pub. L. 96–513][/us/pl/96/513/s701], set out as an Effective Date of 1980 Amendment note under [section 101 of this title][/us/usc/t10/s101].
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch835/m__us_usc_t10_s8291.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch835/m__us_usc_t10_s8310.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8304)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch835/m__us_usc_t10_s8293...8303.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch835/m__us_usc_t10_s8305...8309.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8304)
 
 ----------
 ----------
 
-[/us/pl/85/155/s401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F155%2Fs401%2F1
+[/us/pl/85/155/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F155%2FtIV
 [/us/stat/71/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F390
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F515
-[/us/pl/96/513/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs204
-[/us/stat/94/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2880
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F516
-[/us/pl/85/155/s301/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F155%2Fs301%2F14
-[/us/stat/71/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F388
-[/us/pl/90/130/s1/27/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs1%2F27%2FE
-[/us/stat/81/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F382
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F516
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F517
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F518
-[/us/usc/t10/s629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs629
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F518
-[/us/usc/t10/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs624
-[/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
-[/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 
 

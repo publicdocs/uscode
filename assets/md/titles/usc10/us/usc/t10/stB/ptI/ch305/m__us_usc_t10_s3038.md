@@ -61,11 +61,11 @@
 
         (2) The Secretary of Defense shall transmit the annual report of the Chief of Army Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under [section 113 of this title][/us/usc/t10/s113] is submitted to Congress.
 
-(Added [Pub. L. 90–168, § 2(16)][/us/pl/90/168/s2/16], Dec. 1, 1967, [81 Stat. 523][/us/stat/81/523], § 3019; renumbered § 3038 and amended [Pub. L. 99–433, title V][/us/pl/99/433], §§ 501(a)(4), 502(g)(1), Oct. 1, 1986, [100 Stat. 1034][/us/stat/100/1034], 1042; [Pub. L. 103–337, div. A, title XVI, § 1672(c)(1)][/us/pl/103/337/s1672/c/1], Oct. 5, 1994, [108 Stat. 3015][/us/stat/108/3015]; [Pub. L. 104–201, div. A, title XII, § 1212(a)][/us/pl/104/201/s1212/a], Sept. 23, 1996, [110 Stat. 2691][/us/stat/110/2691]; [Pub. L. 106–65, div. A, title V, § 554(b)][/us/pl/106/65/s554/b], Oct. 5, 1999, [113 Stat. 617][/us/stat/113/617]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 507(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–102; [Pub. L. 107–314, div. A, title V, § 501(a)][/us/pl/107/314/s501/a], Dec. 2, 2002, [116 Stat. 2529][/us/stat/116/2529]; [Pub. L. 108–375, div. A, title V, § 536(a)][/us/pl/108/375/s536/a], Oct. 28, 2004, [118 Stat. 1901][/us/stat/118/1901].)
+(Added [Pub. L. 90–168][/us/pl/90/168], § 2(16), Dec. 1, 1967, [81 Stat. 523][/us/stat/81/523], § 3019; renumbered § 3038 and amended [Pub. L. 99–433, title V][/us/pl/99/433/tV], §§ 501(a)(4), 502(g)(1), Oct. 1, 1986, [100 Stat. 1034][/us/stat/100/1034], 1042; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1672(c)(1), Oct. 5, 1994, [108 Stat. 3015][/us/stat/108/3015]; [Pub. L. 104–201, div. A, title XII][/us/pl/104/201/dA/tXII], § 1212(a), Sept. 23, 1996, [110 Stat. 2691][/us/stat/110/2691]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 554(b), Oct. 5, 1999, [113 Stat. 617][/us/stat/113/617]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 507(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–102; [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 501(a), Dec. 2, 2002, [116 Stat. 2529][/us/stat/116/2529]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 536(a), Oct. 28, 2004, [118 Stat. 1901][/us/stat/118/1901].)
 
  __Prior Provisions__ 
 
-    A prior section 3038, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 164][/us/stat/70A/164], charged Chief of Engineers with responsibility for Army construction, real estate acquisition and management, and the operation of water, gas, electric, and sewer utilities, prior to repeal by [Pub. L. 89–718, § 25(a)][/us/pl/89/718/s25/a], Nov. 2, 1966, [80 Stat. 1119][/us/stat/80/1119].
+    A prior section 3038, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 164][/us/stat/70A/164], charged Chief of Engineers with responsibility for Army construction, real estate acquisition and management, and the operation of water, gas, electric, and sewer utilities, prior to repeal by [Pub. L. 89–718][/us/pl/89/718], § 25(a), Nov. 2, 1966, [80 Stat. 1119][/us/stat/80/1119].
 
  __Amendments__ 
 
@@ -89,13 +89,13 @@
 
     1994—Subsec. (b). [Pub. L. 103–337][/us/pl/103/337] substituted “10211” for “265”.
 
-    1986—[Pub. L. 99–433, § 501(a)(4)][/us/pl/99/433/s501/a/4], renumbered [section 3019 of this title][/us/usc/t10/s3019] as this section.
+    1986—[Pub. L. 99–433][/us/pl/99/433], § 501(a)(4), renumbered [section 3019 of this title][/us/usc/t10/s3019] as this section.
 
-    Subsec. (c). [Pub. L. 99–433, § 502(g)(1)][/us/pl/99/433/s502/g/1], substituted “service” for “services”.
+    Subsec. (c). [Pub. L. 99–433][/us/pl/99/433], § 502(g)(1), substituted “service” for “services”.
 
  __Effective Date of 1999 Amendment; Applicability to Incumbents__ 
 
-[Pub. L. 106–65, div. A, title V, § 554(g)][/us/pl/106/65/s554/g], (h), Oct. 5, 1999, [113 Stat. 617][/us/stat/113/617], provided that:
+[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 554(g), (h), Oct. 5, 1999, [113 Stat. 617][/us/stat/113/617], provided that:
 
 >     “(g)  __Effective Date__  __.—__ 
 
@@ -129,25 +129,25 @@
 ----------
 
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
-[/us/pl/90/168/s2/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F168%2Fs2%2F16
+[/us/pl/90/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F168
 [/us/stat/81/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F523
-[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1034
-[/us/pl/103/337/s1672/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1672%2Fc%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3015
-[/us/pl/104/201/s1212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1212%2Fa
+[/us/pl/104/201/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXII
 [/us/stat/110/2691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2691
-[/us/pl/106/65/s554/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs554%2Fb
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F617
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/314/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs501%2Fa
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2529
-[/us/pl/108/375/s536/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs536%2Fa
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1901
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F164
-[/us/pl/89/718/s25/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs25%2Fa
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1119
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
@@ -159,10 +159,10 @@
 [/us/usc/t10/s12505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12505
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
-[/us/pl/99/433/s501/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs501%2Fa%2F4
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t10/s3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3019
-[/us/pl/99/433/s502/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs502%2Fg%2F1
-[/us/pl/106/65/s554/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs554%2Fg
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F617
 [/us/usc/t10/s12505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12505
 [/us/usc/t10/s12505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12505

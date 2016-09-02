@@ -39,7 +39,7 @@
 
         (2) the territories and possessions of the United States.
 
-(Added [Pub. L. 104–201, div. A, title XVI, § 1604(a)][/us/pl/104/201/s1604/a], Sept. 23, 1996, [110 Stat. 2735][/us/stat/110/2735].)
+(Added [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1604(a), Sept. 23, 1996, [110 Stat. 2735][/us/stat/110/2735].)
 
 ----------
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t22/s4081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4081
 [/us/usc/t22/s4084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4084
-[/us/pl/104/201/s1604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1604%2Fa
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2735
 
 

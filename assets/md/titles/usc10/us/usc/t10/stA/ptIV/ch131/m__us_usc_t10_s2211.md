@@ -17,7 +17,7 @@
 
     Amounts paid by members of the United Nations for equipment or materials furnished, or services performed, in joint military operations shall be credited to appropriate appropriations of the Department of Defense in the manner authorized by section 632(d) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2392(d)][/us/usc/t22/s2392/d]).
 
-(Added [Pub. L. 87–651, title II, § 207(a)][/us/pl/87/651/s207/a], Sept. 7, 1962, [76 Stat. 522][/us/stat/76/522]; amended [Pub. L. 96–513, title V, § 511(73)][/us/pl/96/513/s511/73], Dec. 12, 1980, [94 Stat. 2926][/us/stat/94/2926].)
+(Added [Pub. L. 87–651, title II][/us/pl/87/651/tII], § 207(a), Sept. 7, 1962, [76 Stat. 522][/us/stat/76/522]; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(73), Dec. 12, 1980, [94 Stat. 2926][/us/stat/94/2926].)
 
 <table>
 
@@ -81,9 +81,9 @@ Jan. 6, 1951, ch. 1213, § 703, 64 Stat. 1235.  </td>
 ----------
 
 [/us/usc/t22/s2392/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2392%2Fd
-[/us/pl/87/651/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs207%2Fa
+[/us/pl/87/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtII
 [/us/stat/76/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F522
-[/us/pl/96/513/s511/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F73
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2926
 [/us/usc/t22/s2392/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2392%2Fd
 [/us/act/1954-08-26/ch937/s542/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-26%2Fch937%2Fs542%2Fb

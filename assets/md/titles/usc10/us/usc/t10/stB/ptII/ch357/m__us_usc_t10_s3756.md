@@ -21,7 +21,7 @@
 
     (c) The Secretary of the Army shall prescribe service requirements for eligibility for the Korea Defense Service Medal. Those requirements shall not be more stringent than the service requirements for award of the Armed Forces Expeditionary Medal for instances in which the award of that medal is authorized.
 
-(Added [Pub. L. 107–314, div. A, title V, § 543(b)(1)][/us/pl/107/314/s543/b/1], Dec. 2, 2002, [116 Stat. 2549][/us/stat/116/2549], § 3755; renumbered § 3756, [Pub. L. 108–375, div. A, title X, § 1084(d)(28)][/us/pl/108/375/s1084/d/28], Oct. 28, 2004, [118 Stat. 2063][/us/stat/118/2063].)
+(Added [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 543(b)(1), Dec. 2, 2002, [116 Stat. 2549][/us/stat/116/2549], § 3755; renumbered § 3756, [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(d)(28), Oct. 28, 2004, [118 Stat. 2063][/us/stat/118/2063].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Findings__ 
 
-[Pub. L. 107–314, div. A, title V, § 543(a)][/us/pl/107/314/s543/a], Dec. 2, 2002, [116 Stat. 2549][/us/stat/116/2549], provided that: 
+[Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 543(a), Dec. 2, 2002, [116 Stat. 2549][/us/stat/116/2549], provided that: 
 
 > “Congress makes the following findings:
 
@@ -43,7 +43,7 @@
 
  __Award for Service Before Date of Enactment__ 
 
-[Pub. L. 107–314, div. A, title V, § 543(e)][/us/pl/107/314/s543/e], Dec. 2, 2002, [116 Stat. 2550][/us/stat/116/2550], provided that: 
+[Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 543(e), Dec. 2, 2002, [116 Stat. 2550][/us/stat/116/2550], provided that: 
 
 > “The Secretary of the military department concerned shall take appropriate steps to provide in a timely manner for the issuance of the Korea Defense Service Medal, upon application therefor, to persons whose eligibility for that medal is by reason of service in the Republic of Korea or the waters adjacent thereto before the date of the enactment of this Act \[Dec. 2, 2002\].”
 
@@ -54,16 +54,16 @@
 ----------
 ----------
 
-[/us/pl/107/314/s543/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs543%2Fb%2F1
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2549
-[/us/pl/108/375/s1084/d/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F28
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2063
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t10/s3755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3755
-[/us/pl/107/314/s543/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs543%2Fa
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2549
-[/us/pl/107/314/s543/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs543%2Fe
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2550
 
 

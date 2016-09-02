@@ -33,7 +33,7 @@
 
     (e) Funds available to carry out this section shall be available, to the extent provided in appropriations Acts, for programs and activities under this section that begin in a fiscal year and end in the following fiscal year.
 
-(Added [Pub. L. 99–661, div. A, title XIII, § 1322(a)][/us/pl/99/661/s1322/a], Nov. 14, 1986, [100 Stat. 3989][/us/stat/100/3989]; amended [Pub. L. 101–189, div. A, title IX, § 936][/us/pl/101/189/s936], Nov. 29, 1989, [103 Stat. 1538][/us/stat/103/1538]; [Pub. L. 101–510, div. A, title XIII, § 1301(5)][/us/pl/101/510/s1301/5], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 102–484, div. A, title XIII, § 1362][/us/pl/102/484/s1362], Oct. 23, 1992, [106 Stat. 2560][/us/stat/106/2560]; [Pub. L. 107–314, div. A, title XII, § 1202(a)][/us/pl/107/314/s1202/a], Dec. 2, 2002, [116 Stat. 2663][/us/stat/116/2663]; [Pub. L. 109–163, div. A, title XII, § 1203][/us/pl/109/163/s1203], Jan. 6, 2006, [119 Stat. 3456][/us/stat/119/3456]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XII, § 1231(a), (b)(1), (c)(1), Oct. 14, 2008, [122 Stat. 4636][/us/stat/122/4636], 4637.)
+(Added [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1322(a), Nov. 14, 1986, [100 Stat. 3989][/us/stat/100/3989]; amended [Pub. L. 101–189, div. A, title IX][/us/pl/101/189/dA/tIX], § 936, Nov. 29, 1989, [103 Stat. 1538][/us/stat/103/1538]; [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1301(5), Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 102–484, div. A, title XIII][/us/pl/102/484/dA/tXIII], § 1362, Oct. 23, 1992, [106 Stat. 2560][/us/stat/106/2560]; [Pub. L. 107–314, div. A, title XII][/us/pl/107/314/dA/tXII], § 1202(a), Dec. 2, 2002, [116 Stat. 2663][/us/stat/116/2663]; [Pub. L. 109–163, div. A, title XII][/us/pl/109/163/dA/tXII], § 1203, Jan. 6, 2006, [119 Stat. 3456][/us/stat/119/3456]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XII, § 1231(a), (b)(1), (c)(1), Oct. 14, 2008, [122 Stat. 4636][/us/stat/122/4636], 4637.)
 
  __Codification__ 
 
@@ -45,9 +45,9 @@
 
     2006—Subsec. (b)(1). [Pub. L. 109–163][/us/pl/109/163] inserted “to and” after “in connection with travel” and substituted “in which the bilateral or regional conference, seminar, or similar meeting for which expenses are authorized is located” for “in which the developing country is located”.
 
-    2002—Subsec. (b)(1). [Pub. L. 107–314, § 1202(a)(1)][/us/pl/107/314/s1202/a/1], substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+    2002—Subsec. (b)(1). [Pub. L. 107–314][/us/pl/107/314], § 1202(a)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
-    Subsec. (b)(3), (4). [Pub. L. 107–314, § 1202(a)(2)][/us/pl/107/314/s1202/a/2], (3), added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (b)(3), (4). [Pub. L. 107–314][/us/pl/107/314], § 1202(a)(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
     1992—Subsec. (e). [Pub. L. 102–484][/us/pl/102/484] struck out subsec. (e) which read as follows: “The authority of the Secretary of Defense under this section shall expire on September 30, 1992.”
 
@@ -61,9 +61,9 @@
 
     “(f) During each of fiscal years 1987, 1988, and 1989, not more than $800,000 may be obligated or expended under this section.”
 
-    1989—Subsec. (b)(1). [Pub. L. 101–189, § 936(a)][/us/pl/101/189/s936/a], inserted before period at end “or in connection with travel to Canada or Mexico”.
+    1989—Subsec. (b)(1). [Pub. L. 101–189][/us/pl/101/189], § 936(a), inserted before period at end “or in connection with travel to Canada or Mexico”.
 
-    Subsec. (g). [Pub. L. 101–189, § 936(b)][/us/pl/101/189/s936/b], substituted “1992” for “1989”.
+    Subsec. (g). [Pub. L. 101–189][/us/pl/101/189], § 936(b), substituted “1992” for “1989”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -73,13 +73,13 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–314, div. A, title XII, § 1202(b)][/us/pl/107/314/s1202/b], Dec. 2, 2002, [116 Stat. 2663][/us/stat/116/2663], provided that: 
+[Pub. L. 107–314, div. A, title XII][/us/pl/107/314/dA/tXII], § 1202(b), Dec. 2, 2002, [116 Stat. 2663][/us/stat/116/2663], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to travel performed on or after the date of the enactment of this Act \[Dec. 2, 2002\].”
 
  __Air Force Scholarships for Partnership for Peace Nations To Participate in the Euro-NATO Joint Jet Pilot Training Program__ 
 
-[Pub. L. 111–383, div. A, title XII, § 1206][/us/pl/111/383/s1206], Jan. 7, 2011, [124 Stat. 4387][/us/stat/124/4387], provided that:
+[Pub. L. 111–383, div. A, title XII][/us/pl/111/383/dA/tXII], § 1206, Jan. 7, 2011, [124 Stat. 4387][/us/stat/124/4387], provided that:
 
 >     “(a)  __Establishment of Scholarship Program__  __.—__ 
 
@@ -146,35 +146,35 @@
 
 [/us/usc/t10/s161/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs161%2Fc
 [/us/usc/t10/s1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1050
-[/us/pl/99/661/s1322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1322%2Fa
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3989
-[/us/pl/101/189/s936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs936
+[/us/pl/101/189/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIX
 [/us/stat/103/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1538
-[/us/pl/101/510/s1301/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1301%2F5
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1668
-[/us/pl/102/484/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1362
+[/us/pl/102/484/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXIII
 [/us/stat/106/2560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2560
-[/us/pl/107/314/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1202%2Fa
+[/us/pl/107/314/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtXII
 [/us/stat/116/2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2663
-[/us/pl/109/163/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1203
+[/us/pl/109/163/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtXII
 [/us/stat/119/3456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3456
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4636
 [/us/usc/t10/s1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1032
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/107/314/s1202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1202%2Fa%2F1
-[/us/pl/107/314/s1202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1202%2Fa%2F2
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/101/189/s936/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs936%2Fa
-[/us/pl/101/189/s936/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs936%2Fb
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4637
 [/us/usc/t10/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1051
-[/us/pl/107/314/s1202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1202%2Fb
+[/us/pl/107/314/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtXII
 [/us/stat/116/2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2663
-[/us/pl/111/383/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1206
+[/us/pl/111/383/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXII
 [/us/stat/124/4387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4387
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 

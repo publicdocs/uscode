@@ -31,7 +31,7 @@
 
         (2) when the Coast Guard is operating as a service in the Navy, any vessel of the Coast Guard, manned by the Coast Guard, or chartered on bareboat charter to the Coast Guard.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 483][/us/stat/70A/483]; [Pub. L. 96–513, title V, § 513(43)][/us/pl/96/513/s513/43], Dec. 12, 1980, [94 Stat. 2935][/us/stat/94/2935]; [Pub. L. 100–26, § 7(k)(10)][/us/pl/100/26/s7/k/10], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 103–35, title II, § 201(c)(11)][/us/pl/103/35/s201/c/11], May 31, 1993, [107 Stat. 98][/us/stat/107/98]; [Pub. L. 109–304, § 17(a)(6)][/us/pl/109/304/s17/a/6], Oct. 6, 2006, [120 Stat. 1706][/us/stat/120/1706].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 483][/us/stat/70A/483]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(43), Dec. 12, 1980, [94 Stat. 2935][/us/stat/94/2935]; [Pub. L. 100–26][/us/pl/100/26], § 7(k)(10), Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 201(c)(11), May 31, 1993, [107 Stat. 98][/us/stat/107/98]; [Pub. L. 109–304][/us/pl/109/304], § 17(a)(6), Oct. 6, 2006, [120 Stat. 1706][/us/stat/120/1706].)
 
 <table>
 
@@ -124,13 +124,13 @@ July 3, 1944, ch. 399, § 3, 58 Stat. 724.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F483
-[/us/pl/96/513/s513/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F43
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2935
-[/us/pl/100/26/s7/k/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fk%2F10
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F284
-[/us/pl/103/35/s201/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fc%2F11
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F98
-[/us/pl/109/304/s17/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Fa%2F6
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1706
 [/us/usc/t14/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs3
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304

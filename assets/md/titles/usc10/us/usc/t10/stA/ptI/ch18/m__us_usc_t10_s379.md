@@ -29,7 +29,7 @@
 
     (d) In this section, the term “drug-interdiction area” means an area outside the land area of the United States (as defined in [section 374(b)(4)(B) of this title][/us/usc/t10/s374/b/4/B]) in which the Secretary of Defense (in consultation with the Attorney General) determines that activities involving smuggling of drugs into the United States are ongoing.
 
-(Added [Pub. L. 99–570, title III, § 3053(b)(1)][/us/pl/99/570/s3053/b/1], Oct. 27, 1986, [100 Stat. 3207–75][/us/stat/100/3207-75]; amended [Pub. L. 100–456, div. A, title XI, § 1104(a)][/us/pl/100/456/s1104/a], Sept. 29, 1988, [102 Stat. 2045][/us/stat/102/2045]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+(Added [Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3053(b)(1), Oct. 27, 1986, [100 Stat. 3207–75][/us/stat/100/3207-75]; amended [Pub. L. 100–456, div. A, title XI][/us/pl/100/456/dA/tXI], § 1104(a), Sept. 29, 1988, [102 Stat. 2045][/us/stat/102/2045]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 
 [/us/usc/t10/s374/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs374%2Fb%2F4%2FA
 [/us/usc/t10/s374/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs374%2Fb%2F4%2FB
-[/us/pl/99/570/s3053/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3053%2Fb%2F1
+[/us/pl/99/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIII
 [/us/stat/100/3207-75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-75
-[/us/pl/100/456/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1104%2Fa
+[/us/pl/100/456/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXI
 [/us/stat/102/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2045
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456

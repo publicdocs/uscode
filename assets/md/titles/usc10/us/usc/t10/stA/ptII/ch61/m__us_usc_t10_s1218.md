@@ -47,7 +47,7 @@
 
         (3) The requirements in paragraph (1) shall expire on October 28, 2014.
 
-(Added [Pub. L. 85–56, title XXII, § 2201(31)(A)][/us/pl/85/56/s2201/31/A], June 17, 1957, [71 Stat. 160][/us/stat/71/160]; amended [Pub. L. 87–651, title I, § 107(c)][/us/pl/87/651/s107/c], Sept. 7, 1962, [76 Stat. 508][/us/stat/76/508]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], (4), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602], 1603; [Pub. L. 111–84, div. A, title V, § 511][/us/pl/111/84/s511], Oct. 28, 2009, [123 Stat. 2280][/us/stat/123/2280]; [Pub. L. 113–291, div. A, title X, § 1071(e)(1)][/us/pl/113/291/s1071/e/1], Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509].)
+(Added [Pub. L. 85–56, title XXII][/us/pl/85/56/tXXII], § 2201(31)(A), June 17, 1957, [71 Stat. 160][/us/stat/71/160]; amended [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 107(c), Sept. 7, 1962, [76 Stat. 508][/us/stat/76/508]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(1), (4), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602], 1603; [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 511, Oct. 28, 2009, [123 Stat. 2280][/us/stat/123/2280]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(e)(1), Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509].)
 
  __Historical and Revision Notes__ 
 
@@ -61,9 +61,9 @@
 
     2009—Subsec. (d). [Pub. L. 111–84][/us/pl/111/84] added subsec. (d).
 
-    1989—Subsec. (a)(1). [Pub. L. 101–189, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+    1989—Subsec. (a)(1). [Pub. L. 101–189][/us/pl/101/189], § 1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-    Subsec. (c). [Pub. L. 101–189, § 1621(a)(4)][/us/pl/101/189/s1621/a/4], substituted “facility of the Department of Veterans Affairs” for “Veterans’ Administration facility”.
+    Subsec. (c). [Pub. L. 101–189][/us/pl/101/189], § 1621(a)(4), substituted “facility of the Department of Veterans Affairs” for “Veterans’ Administration facility”.
 
     1962—[Pub. L. 87–651][/us/pl/87/651] amended section generally, and among other changes, substituted “Discharge or release from active duty: claims for compensation, pension, or hospitalization” for “Explanation of rights before discharge” in section catchline, and struck out provisions which prohibited a person from being discharged or released from active duty until his certificate of discharge or release from active duty and his final pay (or a substantial portion of his final pay) are ready for delivery to him or to his next of kin or legal representative.
 
@@ -79,20 +79,20 @@
 ----------
 
 [/us/usc/t37/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310
-[/us/pl/85/56/s2201/31/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F56%2Fs2201%2F31%2FA
+[/us/pl/85/56/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F56%2FtXXII
 [/us/stat/71/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F160
-[/us/pl/87/651/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs107%2Fc
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F508
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1602
-[/us/pl/111/84/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs511
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2280
-[/us/pl/113/291/s1071/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fe%2F1
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3509
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
-[/us/pl/101/189/s1621/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F4
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/87/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651
 [/us/pl/85/56/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F56%2Fs2301
 [/us/stat/71/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F172

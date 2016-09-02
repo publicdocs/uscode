@@ -63,7 +63,7 @@
 
             (B) a judgment of acquittal or a dismissal is entered upon a reversal of the conviction on appeal.
 
-(Added [Pub. L. 85–861, § 1(20)][/us/pl/85/861/s1/20], Sept. 2, 1958, [72 Stat. 1443][/us/stat/72/1443]; amended [Pub. L. 104–106, div. A, title V, § 561(a)][/us/pl/104/106/s561/a]–(c)(1), Feb. 10, 1996, [110 Stat. 321][/us/stat/110/321], 322; [Pub. L. 105–85, div. A, title X, § 1073(a)(14)][/us/pl/105/85/s1073/a/14], Nov. 18, 1997, [111 Stat. 1900][/us/stat/111/1900]; [Pub. L. 108–375, div. A, title V, § 572][/us/pl/108/375/s572], Oct. 28, 2004, [118 Stat. 1921][/us/stat/118/1921].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(20), Sept. 2, 1958, [72 Stat. 1443][/us/stat/72/1443]; amended [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 561(a)–(c)(1), Feb. 10, 1996, [110 Stat. 321][/us/stat/110/321], 322; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(14), Nov. 18, 1997, [111 Stat. 1900][/us/stat/111/1900]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 572, Oct. 28, 2004, [118 Stat. 1921][/us/stat/118/1921].)
 
 <table>
 
@@ -117,9 +117,9 @@ July 24, 1956, ch. 692, § 1, 70 Stat. 631.  </td>
 
     1997—Subsec. (b). [Pub. L. 105–85][/us/pl/105/85] substituted “February 10, 1996” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996” in introductory provisions.
 
-    1996—[Pub. L. 104–106, § 561(c)(1)][/us/pl/104/106/s561/c/1], substituted “Members: effect of time lost” for “Enlisted members: required to make up time lost” as section catchline.
+    1996—[Pub. L. 104–106][/us/pl/104/106], § 561(c)(1), substituted “Members: effect of time lost” for “Enlisted members: required to make up time lost” as section catchline.
 
-    [Pub. L. 104–106, § 561(a)][/us/pl/104/106/s561/a], designated existing provisions as subsec. (a), inserted heading, added par. (3), redesignated par. (5) as (4), struck out former pars. (3) and (4), and added subsec. (b). Prior to amendment, subsec. (a)(3) and (4) read as follows:
+    [Pub. L. 104–106][/us/pl/104/106], § 561(a), designated existing provisions as subsec. (a), inserted heading, added par. (3), redesignated par. (5) as (4), struck out former pars. (3) and (4), and added subsec. (b). Prior to amendment, subsec. (a)(3) and (4) read as follows:
 
     “(3) is confined for more than one day while awaiting trial and disposition of his case, and whose conviction has become final;
 
@@ -127,7 +127,7 @@ July 24, 1956, ch. 692, § 1, 70 Stat. 631.  </td>
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–106, div. A, title V, § 561(e)][/us/pl/104/106/s561/e], Feb. 10, 1996, [110 Stat. 323][/us/stat/110/323], provided that: 
+[Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 561(e), Feb. 10, 1996, [110 Stat. 323][/us/stat/110/323], provided that: 
 
 > “The amendments made by this section \[enacting [section 6328 of this title][/us/usc/t10/s6328] and amending this section and sections 1405, 3925, 3926, 8925, and 8926 of this title\] shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\] and shall apply to any period of time covered by [section 972 of title 10][/us/usc/t10/s972], United States Code, that occurs after that date.”
 
@@ -139,19 +139,19 @@ July 24, 1956, ch. 692, § 1, 70 Stat. 631.  </td>
 ----------
 
 [/us/usc/t37/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs205
-[/us/pl/85/861/s1/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F20
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1443
-[/us/pl/104/106/s561/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs561%2Fa
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F321
-[/us/pl/105/85/s1073/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F14
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1900
-[/us/pl/108/375/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs572
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1921
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/104/106/s561/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs561%2Fc%2F1
-[/us/pl/104/106/s561/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs561%2Fa
-[/us/pl/104/106/s561/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs561%2Fe
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F323
 [/us/usc/t10/s6328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6328
 [/us/usc/t10/s972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs972

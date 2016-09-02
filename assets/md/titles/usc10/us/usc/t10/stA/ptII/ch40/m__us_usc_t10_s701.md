@@ -87,7 +87,7 @@
 
     (k) A member of a reserve component who accumulates leave during a period of active service may carry over any leave so accumulated to the member’s next period of active service, subject to the accumulation limits in subsections (b), (d), and (f), without regard to separation or release from active service if the separation or release is under honorable conditions. The taking of leave carried over under this subsection shall be subject to the provisions of this section.
 
-(Added [Pub. L. 87–649, § 3(1)][/us/pl/87/649/s3/1], Sept. 7, 1962, [76 Stat. 492][/us/stat/76/492]; amended [Pub. L. 89–151, § 3][/us/pl/89/151/s3], Aug. 28, 1965, [79 Stat. 586][/us/stat/79/586]; [Pub. L. 90–245, § 1][/us/pl/90/245/s1], Jan. 2, 1968, [81 Stat. 782][/us/stat/81/782]; [Pub. L. 92–596, § 1][/us/pl/92/596/s1], Oct. 27, 1972, [86 Stat. 1317][/us/stat/86/1317]; [Pub. L. 96–579, § 10][/us/pl/96/579/s10], Dec. 23, 1980, [94 Stat. 3368][/us/stat/94/3368]; [Pub. L. 97–81, § 2(a)][/us/pl/97/81/s2/a], Nov. 20, 1981, [95 Stat. 1085][/us/stat/95/1085]; [Pub. L. 98–94, title X, § 1031(a)][/us/pl/98/94/s1031/a], Sept. 24, 1983, [97 Stat. 671][/us/stat/97/671]; [Pub. L. 98–525, title XIV, § 1405(18)][/us/pl/98/525/s1405/18], Oct. 19, 1984, [98 Stat. 2622][/us/stat/98/2622]; [Pub. L. 99–661, div. A, title V, § 506(a)][/us/pl/99/661/s506/a], Nov. 14, 1986, [100 Stat. 3864][/us/stat/100/3864]; [Pub. L. 102–190, div. A, title VI, § 638][/us/pl/102/190/s638], Dec. 5, 1991, [105 Stat. 1384][/us/stat/105/1384]; [Pub. L. 108–136, div. A, title V, § 542(a)][/us/pl/108/136/s542/a], Nov. 24, 2003, [117 Stat. 1478][/us/stat/117/1478]; [Pub. L. 109–163, div. A, title V, § 593(a)][/us/pl/109/163/s593/a], title VI, § 682, Jan. 6, 2006, [119 Stat. 3280][/us/stat/119/3280], 3321; [Pub. L. 110–181, div. A, title V, § 551(a)][/us/pl/110/181/s551/a]–(c), Jan. 28, 2008, [122 Stat. 117][/us/stat/122/117]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 532(a), Oct. 14, 2008, [122 Stat. 4449][/us/stat/122/4449]; [Pub. L. 111–84, div. A, title V, § 504][/us/pl/111/84/s504], Oct. 28, 2009, [123 Stat. 2277][/us/stat/123/2277]; [Pub. L. 111–383, div. A, title V, § 516(a)][/us/pl/111/383/s516/a], Jan. 7, 2011, [124 Stat. 4213][/us/stat/124/4213]; [Pub. L. 112–239, div. A, title V, § 521][/us/pl/112/239/s521], Jan. 2, 2013, [126 Stat. 1722][/us/stat/126/1722].)
+(Added [Pub. L. 87–649][/us/pl/87/649], § 3(1), Sept. 7, 1962, [76 Stat. 492][/us/stat/76/492]; amended [Pub. L. 89–151][/us/pl/89/151], § 3, Aug. 28, 1965, [79 Stat. 586][/us/stat/79/586]; [Pub. L. 90–245][/us/pl/90/245], § 1, Jan. 2, 1968, [81 Stat. 782][/us/stat/81/782]; [Pub. L. 92–596][/us/pl/92/596], § 1, Oct. 27, 1972, [86 Stat. 1317][/us/stat/86/1317]; [Pub. L. 96–579][/us/pl/96/579], § 10, Dec. 23, 1980, [94 Stat. 3368][/us/stat/94/3368]; [Pub. L. 97–81][/us/pl/97/81], § 2(a), Nov. 20, 1981, [95 Stat. 1085][/us/stat/95/1085]; [Pub. L. 98–94, title X][/us/pl/98/94/tX], § 1031(a), Sept. 24, 1983, [97 Stat. 671][/us/stat/97/671]; [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(18), Oct. 19, 1984, [98 Stat. 2622][/us/stat/98/2622]; [Pub. L. 99–661, div. A, title V][/us/pl/99/661/dA/tV], § 506(a), Nov. 14, 1986, [100 Stat. 3864][/us/stat/100/3864]; [Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], § 638, Dec. 5, 1991, [105 Stat. 1384][/us/stat/105/1384]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 542(a), Nov. 24, 2003, [117 Stat. 1478][/us/stat/117/1478]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 593(a), title VI, § 682, Jan. 6, 2006, [119 Stat. 3280][/us/stat/119/3280], 3321; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 551(a)–(c), Jan. 28, 2008, [122 Stat. 117][/us/stat/122/117]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 532(a), Oct. 14, 2008, [122 Stat. 4449][/us/stat/122/4449]; [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 504, Oct. 28, 2009, [123 Stat. 2277][/us/stat/123/2277]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 516(a), Jan. 7, 2011, [124 Stat. 4213][/us/stat/124/4213]; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 521, Jan. 2, 2013, [126 Stat. 1722][/us/stat/126/1722].)
 
 <table>
 
@@ -165,31 +165,31 @@ Aug. 9, 1946, ch. 931, § 3(a) (less 4th, 5th, 6th, and 7th sentences), (b) (l
 
     2009—Subsec. (d). [Pub. L. 111–84][/us/pl/111/84] substituted “September 30, 2013” for “December 31, 2010”.
 
-    2008—Subsec. (b). [Pub. L. 110–181, § 551(a)(1)][/us/pl/110/181/s551/a/1], substituted “subsections (d), (f), and (g)” for “subsection (f) and subsection (g)”.
+    2008—Subsec. (b). [Pub. L. 110–181][/us/pl/110/181], § 551(a)(1), substituted “subsections (d), (f), and (g)” for “subsection (f) and subsection (g)”.
 
-    Subsec. (d). [Pub. L. 110–181, § 551(a)(2)][/us/pl/110/181/s551/a/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 110–181][/us/pl/110/181], § 551(a)(2), added subsec. (d).
 
-    Subsec. (f)(1)(A). [Pub. L. 110–181, § 551(b)(1)][/us/pl/110/181/s551/b/1], substituted “at the end of the fiscal year any accumulated leave in excess of the number of days of leave authorized to be accumulated under subsection (b) or (d)” for “any accumulated leave in excess of 60 days at the end of the fiscal year”.
+    Subsec. (f)(1)(A). [Pub. L. 110–181][/us/pl/110/181], § 551(b)(1), substituted “at the end of the fiscal year any accumulated leave in excess of the number of days of leave authorized to be accumulated under subsection (b) or (d)” for “any accumulated leave in excess of 60 days at the end of the fiscal year”.
 
-    Subsec. (f)(1)(C). [Pub. L. 110–181, § 551(b)(2)][/us/pl/110/181/s551/b/2], substituted “the days of leave authorized to be accumulated under subsection (b) or (d) that are” for “60 days” and inserted “(or fourth fiscal year, if accumulated while subsection (d) is in effect)” after “third fiscal year”.
+    Subsec. (f)(1)(C). [Pub. L. 110–181][/us/pl/110/181], § 551(b)(2), substituted “the days of leave authorized to be accumulated under subsection (b) or (d) that are” for “60 days” and inserted “(or fourth fiscal year, if accumulated while subsection (d) is in effect)” after “third fiscal year”.
 
-    Subsec. (f)(2). [Pub. L. 110–181, § 551(b)(3)][/us/pl/110/181/s551/b/3], substituted “except for this paragraph, would lose at the end of that fiscal year any accumulated leave in excess of the number of days of leave authorized to be accumulated under subsection (b) or (d), shall be permitted to retain such leave until the end of the second fiscal year after the fiscal year in which such service on active duty is terminated” for “except for this paragraph—
+    Subsec. (f)(2). [Pub. L. 110–181][/us/pl/110/181], § 551(b)(3), substituted “except for this paragraph, would lose at the end of that fiscal year any accumulated leave in excess of the number of days of leave authorized to be accumulated under subsection (b) or (d), shall be permitted to retain such leave until the end of the second fiscal year after the fiscal year in which such service on active duty is terminated” for “except for this paragraph—
 
     “(A) would lose any accumulated leave in excess of 60 days at the end of that fiscal year, shall be permitted to retain such leave (not to exceed 90 days) until the end of the succeeding fiscal year; or
 
     “(B) would lose any accumulated leave in excess of 60 days at the end of the succeeding fiscal year (other than by reason of subparagraph (A)), shall be permitted to retain such leave (not to exceed 90 days) until the end of the next succeeding fiscal year.”
 
-    Subsec. (g). [Pub. L. 110–181, § 551(c)][/us/pl/110/181/s551/c], substituted “limitations in subsections (b), (d), and (f)” for “60-day limitation in subsection (b) and the 90-day limitation in subsection (f)” in introductory provisions.
+    Subsec. (g). [Pub. L. 110–181][/us/pl/110/181], § 551(c), substituted “limitations in subsections (b), (d), and (f)” for “60-day limitation in subsection (b) and the 90-day limitation in subsection (f)” in introductory provisions.
 
     Subsec. (j). [Pub. L. 110–417][/us/pl/110/417] added subsec. (j).
 
-    2006—Subsec. (f)(1)(B). [Pub. L. 109–163, § 682][/us/pl/109/163/s682], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “This subsection applies to a member who serves on active duty for a continuous period of at least 120 days—
+    2006—Subsec. (f)(1)(B). [Pub. L. 109–163][/us/pl/109/163], § 682, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “This subsection applies to a member who serves on active duty for a continuous period of at least 120 days—
 
     “(i) in an area in which the member is entitled to special pay under [section 310(a) of title 37][/us/usc/t37/s310/a]; or
 
     “(ii) while assigned to a deployable ship or mobile unit or to other duty comparable to that specified in clause (i) that is designated for the purpose of this subsection.”
 
-    Subsec. (i). [Pub. L. 109–163, § 593(a)][/us/pl/109/163/s593/a], added subsec. (i).
+    Subsec. (i). [Pub. L. 109–163][/us/pl/109/163], § 593(a), added subsec. (i).
 
     2003—Subsec. (f)(1). [Pub. L. 108–136][/us/pl/108/136] amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Under uniform regulations to be prescribed by the Secretary concerned, and approved by the Secretary of Defense, a member who serves on active duty for a continuous period of at least 120 days in an area in which he is entitled to special pay under [section 310(a) of title 37][/us/usc/t37/s310/a] or a member assigned to a deployable ship, mobile unit, or to other duty designated for the purpose of this section, may accumulate 90 days’ leave. Except as provided in paragraph (2), leave in excess of 60 days accumulated under this subsection is lost unless it is used by the member before the end of the third fiscal year after the fiscal year in which the service terminated.”
 
@@ -201,21 +201,21 @@ Aug. 9, 1946, ch. 931, § 3(a) (less 4th, 5th, 6th, and 7th sentences), (b) (l
 
     1983—Subsec. (f). [Pub. L. 98–94][/us/pl/98/94] substituted “the end of the third fiscal year” for “the end of the fiscal year”.
 
-    1981—Subsec. (a)(2). [Pub. L. 97–81, § 2(a)(1)][/us/pl/97/81/s2/a/1], struck out “and” at end of par. (2).
+    1981—Subsec. (a)(2). [Pub. L. 97–81][/us/pl/97/81], § 2(a)(1), struck out “and” at end of par. (2).
 
-    Subsec. (a)(3). [Pub. L. 97–81, § 2(a)(2)][/us/pl/97/81/s2/a/2], substituted “; and” for a period at end of par. (3).
+    Subsec. (a)(3). [Pub. L. 97–81][/us/pl/97/81], § 2(a)(2), substituted “; and” for a period at end of par. (3).
 
-    Subsec. (a)(4). [Pub. L. 97–81, § 2(a)(3)][/us/pl/97/81/s2/a/3], added par. (4).
+    Subsec. (a)(4). [Pub. L. 97–81][/us/pl/97/81], § 2(a)(3), added par. (4).
 
     1980—Subsec. (f). [Pub. L. 96–579][/us/pl/96/579] authorized accumulation of leave for service as a member assigned to a deployable ship, mobile unit, or to other duty designated for the purpose of this section.
 
-    1972—Subsec. (b). [Pub. L. 92–596, § 1(1)][/us/pl/92/596/s1/1], inserted reference to subsec. (g).
+    1972—Subsec. (b). [Pub. L. 92–596][/us/pl/92/596], § 1(1), inserted reference to subsec. (g).
 
-    Subsec. (g). [Pub. L. 92–596, § 1(2)][/us/pl/92/596/s1/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 92–596][/us/pl/92/596], § 1(2), added subsec. (g).
 
-    1968—Subsec. (b). [Pub. L. 90–245, § 1(1)][/us/pl/90/245/s1/1], inserted reference to subsec. (f).
+    1968—Subsec. (b). [Pub. L. 90–245][/us/pl/90/245], § 1(1), inserted reference to subsec. (f).
 
-    Subsec. (f). [Pub. L. 90–245, § 1(2)][/us/pl/90/245/s1/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 90–245][/us/pl/90/245], § 1(2), added subsec. (f).
 
     1965—Subsec. (d). [Pub. L. 89–151][/us/pl/89/151] repealed subsec. (d) which provided that accumulated leave did not survive the death of a member during active service.
 
@@ -227,19 +227,19 @@ Aug. 9, 1946, ch. 931, § 3(a) (less 4th, 5th, 6th, and 7th sentences), (b) (l
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–163, div. A, title V, § 593(b)][/us/pl/109/163/s593/b], Jan. 6, 2006, [119 Stat. 3281][/us/stat/119/3281], provided that: 
+[Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 593(b), Jan. 6, 2006, [119 Stat. 3281][/us/stat/119/3281], provided that: 
 
 > “Subsection (i) of [section 701 of title 10][/us/usc/t10/s701], United States Code (as added by subsection (a)), shall take effect on January 1, 2006, and shall apply only with respect to adoptions completed on or after that date.”
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–136, div. A, title V, § 542(b)][/us/pl/108/136/s542/b], Nov. 24, 2003, [117 Stat. 1478][/us/stat/117/1478], provided that: 
+[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 542(b), Nov. 24, 2003, [117 Stat. 1478][/us/stat/117/1478], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2003, or the date of the enactment of this Act \[Nov. 24, 2003\], whichever is later.”
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 98–94, title X, § 1031(b)(1)][/us/pl/98/94/s1031/b/1], (2), Sept. 24, 1983, [97 Stat. 671][/us/stat/97/671], provided that:
+[Pub. L. 98–94, title X][/us/pl/98/94/tX], § 1031(b)(1), (2), Sept. 24, 1983, [97 Stat. 671][/us/stat/97/671], provided that:
 
 >     “(1) The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 24, 1983\] and shall apply to leave accumulated under section 701(f) of such title \[this title\] after September 30, 1980.
 
@@ -251,13 +251,13 @@ Aug. 9, 1946, ch. 931, § 3(a) (less 4th, 5th, 6th, and 7th sentences), (b) (l
 
  __Effective Date of 1972 Amendment__ 
 
-[Pub. L. 92–596, § 3][/us/pl/92/596/s3], Oct. 27, 1972, [86 Stat. 1318][/us/stat/86/1318], provided that: 
+[Pub. L. 92–596][/us/pl/92/596], § 3, Oct. 27, 1972, [86 Stat. 1318][/us/stat/86/1318], provided that: 
 
 > “The first and second sections of this Act \[amending this section and [section 501 of Title 37][/us/usc/t37/s501], Pay and Allowances of the Uniformed Services\] become effective as of February 28, 1961.”
 
  __Effective Date of 1968 Amendment__ 
 
-[Pub. L. 90–245, § 2][/us/pl/90/245/s2], Jan. 2, 1968, [81 Stat. 782][/us/stat/81/782], provided that: 
+[Pub. L. 90–245][/us/pl/90/245], § 2, Jan. 2, 1968, [81 Stat. 782][/us/stat/81/782], provided that: 
 
 > “Section 1 of this Act \[amending this section\] applies only to active duty performed after January 1, 1968.”
 
@@ -279,7 +279,7 @@ Aug. 9, 1946, ch. 931, § 3(a) (less 4th, 5th, 6th, and 7th sentences), (b) (l
 
  __Accumulation of Leave After__  __September 30, 1980__  __, Pursuant to Subsection (f)__ 
 
-[Pub. L. 97–39, title VII, § 702][/us/pl/97/39/s702], Aug. 14, 1981, [95 Stat. 943][/us/stat/95/943], provided that: 
+[Pub. L. 97–39, title VII][/us/pl/97/39/tVII], § 702, Aug. 14, 1981, [95 Stat. 943][/us/stat/95/943], provided that: 
 
 > “The amendment made by section 10 of the Military Pay and Allowances Benefits Act of 1980 ([Public Law 96–579][/us/pl/96/579]; [94 Stat. 3368][/us/stat/94/3368]) \[amending this section\] shall apply with respect to the accumulation of leave by members of the Armed Forces who after September 30, 1979, are assigned (1) to a deployable ship or mobile unit, or (2) to other duty designated after the date of the enactment of this Act \[Aug. 14, 1981\] as duty qualifying for the purpose of [section 701(f) of title 10][/us/usc/t10/s701/f], United States Code, as amended by that amendment.”
 
@@ -299,86 +299,86 @@ Aug. 9, 1946, ch. 931, § 3(a) (less 4th, 5th, 6th, and 7th sentences), (b) (l
 [/us/usc/t37/s501/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs501%2Fh
 [/us/usc/t37/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs501
 [/us/usc/t10/s1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1052
-[/us/pl/87/649/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs3%2F1
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F492
-[/us/pl/89/151/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F151%2Fs3
+[/us/pl/89/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F151
 [/us/stat/79/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F586
-[/us/pl/90/245/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F245%2Fs1
+[/us/pl/90/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F245
 [/us/stat/81/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F782
-[/us/pl/92/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F596%2Fs1
+[/us/pl/92/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F596
 [/us/stat/86/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1317
-[/us/pl/96/579/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579%2Fs10
+[/us/pl/96/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579
 [/us/stat/94/3368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3368
-[/us/pl/97/81/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81%2Fs2%2Fa
+[/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/stat/95/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1085
-[/us/pl/98/94/s1031/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1031%2Fa
+[/us/pl/98/94/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtX
 [/us/stat/97/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F671
-[/us/pl/98/525/s1405/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F18
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2622
-[/us/pl/99/661/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs506%2Fa
+[/us/pl/99/661/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtV
 [/us/stat/100/3864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3864
-[/us/pl/102/190/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs638
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1384
-[/us/pl/108/136/s542/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs542%2Fa
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1478
-[/us/pl/109/163/s593/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs593%2Fa
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3280
-[/us/pl/110/181/s551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs551%2Fa
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F117
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4449
-[/us/pl/111/84/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs504
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2277
-[/us/pl/111/383/s516/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs516%2Fa
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4213
-[/us/pl/112/239/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs521
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1722
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/110/181/s551/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs551%2Fa%2F1
-[/us/pl/110/181/s551/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs551%2Fa%2F2
-[/us/pl/110/181/s551/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs551%2Fb%2F1
-[/us/pl/110/181/s551/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs551%2Fb%2F2
-[/us/pl/110/181/s551/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs551%2Fb%2F3
-[/us/pl/110/181/s551/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs551%2Fc
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/109/163/s682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs682
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/usc/t37/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310%2Fa
-[/us/pl/109/163/s593/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs593%2Fa
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t37/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310%2Fa
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
-[/us/pl/97/81/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81%2Fs2%2Fa%2F1
-[/us/pl/97/81/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81%2Fs2%2Fa%2F2
-[/us/pl/97/81/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81%2Fs2%2Fa%2F3
+[/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
+[/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
+[/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/pl/96/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579
-[/us/pl/92/596/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F596%2Fs1%2F1
-[/us/pl/92/596/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F596%2Fs1%2F2
-[/us/pl/90/245/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F245%2Fs1%2F1
-[/us/pl/90/245/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F245%2Fs1%2F2
+[/us/pl/92/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F596
+[/us/pl/92/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F596
+[/us/pl/90/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F245
+[/us/pl/90/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F245
 [/us/pl/89/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F151
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4449
-[/us/pl/109/163/s593/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs593%2Fb
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3281
 [/us/usc/t10/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs701
-[/us/pl/108/136/s542/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs542%2Fb
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1478
-[/us/pl/98/94/s1031/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1031%2Fb%2F1
+[/us/pl/98/94/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtX
 [/us/stat/97/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F671
 [/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/usc/t10/s860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs860
 [/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/usc/t10/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs706
-[/us/pl/92/596/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F596%2Fs3
+[/us/pl/92/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F596
 [/us/stat/86/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1318
 [/us/usc/t37/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs501
-[/us/pl/90/245/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F245%2Fs2
+[/us/pl/90/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F245
 [/us/stat/81/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F782
 [/us/pl/89/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F151
 [/us/pl/89/151/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F151%2Fs4
@@ -387,7 +387,7 @@ Aug. 9, 1946, ch. 931, § 3(a) (less 4th, 5th, 6th, and 7th sentences), (b) (l
 [/us/usc/t37/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs101
 [/us/usc/t33/s3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3071
 [/us/usc/t42/s213a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs213a
-[/us/pl/97/39/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F39%2Fs702
+[/us/pl/97/39/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F39%2FtVII
 [/us/stat/95/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F943
 [/us/pl/96/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579
 [/us/stat/94/3368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3368

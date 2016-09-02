@@ -25,7 +25,7 @@
 
     (e) A person participating as a member of the program in specialized training shall be paid an annual grant in an amount not to exceed $45,000 in addition to the stipend under [section 2121(d) of this title][/us/usc/t10/s2121/d]. The maximum amount of the grant shall be increased annually by the Secretary of Defense, effective July 1 of each year, in the same manner as provided for stipends.
 
-(Added [Pub. L. 92–426, § 2(a)][/us/pl/92/426/s2/a], Sept. 21, 1972, [86 Stat. 718][/us/stat/86/718]; amended [Pub. L. 96–513, title V, § 511(67)][/us/pl/96/513/s511/67], Dec. 12, 1980, [94 Stat. 2926][/us/stat/94/2926]; [Pub. L. 97–258, § 3(b)(3)][/us/pl/97/258/s3/b/3], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 98–525, title XIV, § 1405(56)(A)][/us/pl/98/525/s1405/56/A], Oct. 19, 1984, [98 Stat. 2626][/us/stat/98/2626]; [Pub. L. 100–180, div. A, title VII, § 711(a)(2)][/us/pl/100/180/s711/a/2], Dec. 4, 1987, [101 Stat. 1108][/us/stat/101/1108]; [Pub. L. 101–189, div. A, title VII, § 725(d)(1)][/us/pl/101/189/s725/d/1], (2), Nov. 29, 1989, [103 Stat. 1479][/us/stat/103/1479]; [Pub. L. 109–364, div. A, title V, § 538(b)][/us/pl/109/364/s538/b], Oct. 17, 2006, [120 Stat. 2209][/us/stat/120/2209]; [Pub. L. 111–84, div. A, title X, § 1073(a)(19)][/us/pl/111/84/s1073/a/19], Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473].)
+(Added [Pub. L. 92–426][/us/pl/92/426], § 2(a), Sept. 21, 1972, [86 Stat. 718][/us/stat/86/718]; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(67), Dec. 12, 1980, [94 Stat. 2926][/us/stat/94/2926]; [Pub. L. 97–258][/us/pl/97/258], § 3(b)(3), Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(56)(A), Oct. 19, 1984, [98 Stat. 2626][/us/stat/98/2626]; [Pub. L. 100–180, div. A, title VII][/us/pl/100/180/dA/tVII], § 711(a)(2), Dec. 4, 1987, [101 Stat. 1108][/us/stat/101/1108]; [Pub. L. 101–189, div. A, title VII][/us/pl/101/189/dA/tVII], § 725(d)(1), (2), Nov. 29, 1989, [103 Stat. 1479][/us/stat/103/1479]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 538(b), Oct. 17, 2006, [120 Stat. 2209][/us/stat/120/2209]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(19), Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473].)
 
  __Amendments__ 
 
@@ -33,9 +33,9 @@
 
     2006—Subsec. (e). [Pub. L. 109–364][/us/pl/109/364] substituted “in an amount not to exceed $45,000” for “$15,000” and “The maximum amount” for “The amount”.
 
-    1989—[Pub. L. 101–189, § 725(d)(2)][/us/pl/101/189/s725/d/2], substituted “Scholarships and financial assistance” for “Contracts for scholarships” in section catchline.
+    1989—[Pub. L. 101–189][/us/pl/101/189], § 725(d)(2), substituted “Scholarships and financial assistance” for “Contracts for scholarships” in section catchline.
 
-    Subsec. (e). [Pub. L. 101–189, § 725(d)(1)][/us/pl/101/189/s725/d/1], added subsec. (e).
+    Subsec. (e). [Pub. L. 101–189][/us/pl/101/189], § 725(d)(1), added subsec. (e).
 
     1987—Subsecs. (b), (d). [Pub. L. 100–180][/us/pl/100/180] substituted “subchapter” for “chapter”.
 
@@ -55,9 +55,9 @@
 
  __Reports on Implementation and on Success of Financial Assistance Program__ 
 
-    [Pub. L. 101–189, div. A, title VII, § 725(e)][/us/pl/101/189/s725/e], Nov. 29, 1989, [103 Stat. 1479][/us/stat/103/1479], directed Secretary of Defense, not later than Mar. 1, 1990, to submit to Congress a report describing the manner in which the new authority provided by such section 725 (amending [10 U.S.C. 2120][/us/usc/t10/s2120] to 2122, 2124, and 2127) was implemented.
+    [Pub. L. 101–189, div. A, title VII][/us/pl/101/189/dA/tVII], § 725(e), Nov. 29, 1989, [103 Stat. 1479][/us/stat/103/1479], directed Secretary of Defense, not later than Mar. 1, 1990, to submit to Congress a report describing the manner in which the new authority provided by such section 725 (amending [10 U.S.C. 2120][/us/usc/t10/s2120] to 2122, 2124, and 2127) was implemented.
 
-    [Pub. L. 101–189, div. A, title VII, § 725(f)][/us/pl/101/189/s725/f], Nov. 29, 1989, [103 Stat. 1479][/us/stat/103/1479], directed Secretary of Defense, not later than Mar. 1, 1991, to submit to Congress a report evaluating the success of the financial assistance program established by such section 725 and describing the number of participants in the program receiving specialized training payments under [10 U.S.C. 2127(e)][/us/usc/t10/s2127/e] and the projected number of officers to be gained, by specialty, as a result of the program for each military department.
+    [Pub. L. 101–189, div. A, title VII][/us/pl/101/189/dA/tVII], § 725(f), Nov. 29, 1989, [103 Stat. 1479][/us/stat/103/1479], directed Secretary of Defense, not later than Mar. 1, 1991, to submit to Congress a report evaluating the success of the financial assistance program established by such section 725 and describing the number of participants in the program receiving specialized training payments under [10 U.S.C. 2127(e)][/us/usc/t10/s2127/e] and the projected number of officers to be gained, by specialty, as a result of the program for each military department.
 
 ----------
 
@@ -68,26 +68,26 @@
 
 [/us/usc/t31/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3324
 [/us/usc/t10/s2121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2121%2Fd
-[/us/pl/92/426/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F426%2Fs2%2Fa
+[/us/pl/92/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F426
 [/us/stat/86/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F718
-[/us/pl/96/513/s511/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F67
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2926
-[/us/pl/97/258/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fb%2F3
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1063
-[/us/pl/98/525/s1405/56/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F56%2FA
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2626
-[/us/pl/100/180/s711/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs711%2Fa%2F2
+[/us/pl/100/180/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVII
 [/us/stat/101/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1108
-[/us/pl/101/189/s725/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs725%2Fd%2F1
+[/us/pl/101/189/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVII
 [/us/stat/103/1479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1479
-[/us/pl/109/364/s538/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs538%2Fb
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2209
-[/us/pl/111/84/s1073/a/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F19
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2473
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/101/189/s725/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs725%2Fd%2F2
-[/us/pl/101/189/s725/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs725%2Fd%2F1
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
@@ -99,10 +99,10 @@
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/101/189/s725/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs725%2Fe
+[/us/pl/101/189/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVII
 [/us/stat/103/1479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1479
 [/us/usc/t10/s2120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2120
-[/us/pl/101/189/s725/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs725%2Ff
+[/us/pl/101/189/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVII
 [/us/stat/103/1479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1479
 [/us/usc/t10/s2127/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2127%2Fe
 

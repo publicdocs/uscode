@@ -91,7 +91,7 @@
 
     Nothing in this section may be construed to authorize a change, otherwise prohibited by law, from the performance of work at a Center of Industrial and Technical Excellence by Department of Defense personnel to performance by a contractor.
 
-(Added [Pub. L. 105–85, div. A, title III, § 361(a)(1)][/us/pl/105/85/s361/a/1], Nov. 18, 1997, [111 Stat. 1700][/us/stat/111/1700]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 341(a)–(e)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–61 to 1654A–63; [Pub. L. 107–107, div. A, title III][/us/pl/107/107], §§ 342, 343(b), Dec. 28, 2001, [115 Stat. 1060][/us/stat/115/1060], 1061; [Pub. L. 107–314, div. A, title III, § 334][/us/pl/107/314/s334], Dec. 2, 2002, [116 Stat. 2514][/us/stat/116/2514]; [Pub. L. 108–375, div. A, title III, § 323][/us/pl/108/375/s323], title X, § 1084(d)(20), Oct. 28, 2004, [118 Stat. 1846][/us/stat/118/1846], 2062; [Pub. L. 109–364, div. A, title III, § 331(a)][/us/pl/109/364/s331/a], Oct. 17, 2006, [120 Stat. 2149][/us/stat/120/2149]; [Pub. L. 112–81, div. A, title III, § 322][/us/pl/112/81/s322], Dec. 31, 2011, [125 Stat. 1362][/us/stat/125/1362]; [Pub. L. 112–239, div. A, title X, § 1076(d)(4)][/us/pl/112/239/s1076/d/4], Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951].)
+(Added [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 361(a)(1), Nov. 18, 1997, [111 Stat. 1700][/us/stat/111/1700]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 341(a)–(e)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–61 to 1654A–63; [Pub. L. 107–107, div. A, title III][/us/pl/107/107/dA/tIII], §§ 342, 343(b), Dec. 28, 2001, [115 Stat. 1060][/us/stat/115/1060], 1061; [Pub. L. 107–314, div. A, title III][/us/pl/107/314/dA/tIII], § 334, Dec. 2, 2002, [116 Stat. 2514][/us/stat/116/2514]; [Pub. L. 108–375, div. A, title III][/us/pl/108/375/dA/tIII], § 323, title X, § 1084(d)(20), Oct. 28, 2004, [118 Stat. 1846][/us/stat/118/1846], 2062; [Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 331(a), Oct. 17, 2006, [120 Stat. 2149][/us/stat/120/2149]; [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 322, Dec. 31, 2011, [125 Stat. 1362][/us/stat/125/1362]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(d)(4), Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951].)
 
  __Amendments__ 
 
@@ -101,37 +101,37 @@
 
     2006—Subsec. (f). [Pub. L. 109–364][/us/pl/109/364] struck out “(1)” before “Amounts”, “entered into during fiscal years 2003 through 2009” before “shall not be counted”, and par. (2) which read as follows: “All funds covered by paragraph (1) shall be included as a separate item in the reports required under paragraphs (1), (2), and (3) of [section 2466(d) of this title][/us/usc/t10/s2466/d].”
 
-    2004—Subsec. (f)(1). [Pub. L. 108–375, § 323][/us/pl/108/375/s323], substituted “through 2009” for “through 2006”.
+    2004—Subsec. (f)(1). [Pub. L. 108–375][/us/pl/108/375], § 323, substituted “through 2009” for “through 2006”.
 
-    Subsec. (f)(2). [Pub. L. 108–375, § 1084(d)(20)][/us/pl/108/375/s1084/d/20], substituted “section 2466(d)” for “section 2466(e)”.
+    Subsec. (f)(2). [Pub. L. 108–375][/us/pl/108/375], § 1084(d)(20), substituted “section 2466(d)” for “section 2466(e)”.
 
-    2002—Subsec. (f)(1). [Pub. L. 107–314, § 334(1)][/us/pl/107/314/s334/1], substituted “Amounts expended for the performance of a depot-level maintenance and repair workload by non-Federal Government personnel at a Center of Industrial and Technical Excellence under any contract entered into during fiscal years 2003 through 2006” for “Amounts expended out of funds described in paragraph (2) for the performance of a depot-level maintenance and repair workload by non-Federal Government personnel at a Center of Industrial and Technical Excellence”.
+    2002—Subsec. (f)(1). [Pub. L. 107–314][/us/pl/107/314], § 334(1), substituted “Amounts expended for the performance of a depot-level maintenance and repair workload by non-Federal Government personnel at a Center of Industrial and Technical Excellence under any contract entered into during fiscal years 2003 through 2006” for “Amounts expended out of funds described in paragraph (2) for the performance of a depot-level maintenance and repair workload by non-Federal Government personnel at a Center of Industrial and Technical Excellence”.
 
-    Subsec. (f)(2), (3). [Pub. L. 107–314, § 334(2)][/us/pl/107/314/s334/2], (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The funds referred to in paragraph (1) are funds available to the military departments and Defense Agencies for depot-level maintenance and repair workloads for fiscal years 2002 through 2005.”
+    Subsec. (f)(2), (3). [Pub. L. 107–314][/us/pl/107/314], § 334(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The funds referred to in paragraph (1) are funds available to the military departments and Defense Agencies for depot-level maintenance and repair workloads for fiscal years 2002 through 2005.”
 
-    2001—Subsec. (e)(2)(B)(i). [Pub. L. 107–107, § 343(b)][/us/pl/107/107/s343/b], substituted “under the circumstances described in [section 2563(c)(3) of this title][/us/usc/t10/s2563/c/3]” for “in a case of willful conduct or gross negligence”.
+    2001—Subsec. (e)(2)(B)(i). [Pub. L. 107–107][/us/pl/107/107], § 343(b), substituted “under the circumstances described in [section 2563(c)(3) of this title][/us/usc/t10/s2563/c/3]” for “in a case of willful conduct or gross negligence”.
 
-    Subsecs. (f), (g). [Pub. L. 107–107, § 342][/us/pl/107/107/s342], added subsec. (f) and redesignated former subsec. (f) as (g).
+    Subsecs. (f), (g). [Pub. L. 107–107][/us/pl/107/107], § 342, added subsec. (f) and redesignated former subsec. (f) as (g).
 
-    2000—Subsec. (a)(1). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 341(a)(1)\], substituted “The Secretary concerned, or the Secretary of Defense in the case of a Defense Agency,” for “The Secretary of Defense” and “of the designee” for “of the activity”.
+    2000—Subsec. (a)(1). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 341(a)(1)\], substituted “The Secretary concerned, or the Secretary of Defense in the case of a Defense Agency,” for “The Secretary of Defense” and “of the designee” for “of the activity”.
 
-    Subsec. (a)(2). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 341(a)(2)\], inserted “of Defense” after “The Secretary” and substituted “Centers of Industrial and Technical Excellence” for “depot-level activities”.
+    Subsec. (a)(2). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 341(a)(2)\], inserted “of Defense” after “The Secretary” and substituted “Centers of Industrial and Technical Excellence” for “depot-level activities”.
 
-    Subsec. (a)(3). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 341(a)(3)\], substituted “operations at Centers of Industrial and Technical Excellence” for “depot-level operations”, “by the Centers” for “by depot-level activities”, and “of the Centers” for “of such activities”.
+    Subsec. (a)(3). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 341(a)(3)\], substituted “operations at Centers of Industrial and Technical Excellence” for “depot-level operations”, “by the Centers” for “by depot-level activities”, and “of the Centers” for “of such activities”.
 
-    Subsec. (b). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 341(b)\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall enable Centers of Industrial and Technical Excellence to enter into public-private cooperative arrangements for the performance of depot-level maintenance and repair at such Centers and shall encourage the use of such arrangements to maximize the utilization of the capacity at such Centers. A public-private cooperative arrangement under this subsection shall be known as a ‘public-private partnership’.”
+    Subsec. (b). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 341(b)\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall enable Centers of Industrial and Technical Excellence to enter into public-private cooperative arrangements for the performance of depot-level maintenance and repair at such Centers and shall encourage the use of such arrangements to maximize the utilization of the capacity at such Centers. A public-private cooperative arrangement under this subsection shall be known as a ‘public-private partnership’.”
 
-    Subsec. (c). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 341(c)(3)\], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 341(c)(3)\], added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 341(d)\], inserted at end “Consideration in the form of rental payments or (notwithstanding [section 3302(b) of title 31][/us/usc/t31/s3302/b]) in other forms may be accepted for a use of property accountable under a contract performed pursuant to this section. Notwithstanding [section 2667(d) of this title][/us/usc/t10/s2667/d], revenues generated pursuant to this section shall be available for facility operations, maintenance, and environmental restoration at the Center where the leased property is located.”
+    Subsec. (d). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 341(d)\], inserted at end “Consideration in the form of rental payments or (notwithstanding [section 3302(b) of title 31][/us/usc/t31/s3302/b]) in other forms may be accepted for a use of property accountable under a contract performed pursuant to this section. Notwithstanding [section 2667(d) of this title][/us/usc/t10/s2667/d], revenues generated pursuant to this section shall be available for facility operations, maintenance, and environmental restoration at the Center where the leased property is located.”
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 341(c)(1), (2)\], redesignated subsec. (c) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “The policy required under subsection (a) shall include measures to enable a private sector entity that enters into a partnership arrangement under subsection (b) or leases excess equipment and facilities at a Center of Industrial and Technical Excellence pursuant to [section 2471 of this title][/us/usc/t10/s2471] to perform additional work at the Center, subject to the limitations outlined in subsection (b) of such section, outside of the types of work normally assigned to the Center.”
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 341(c)(1), (2)\], redesignated subsec. (c) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “The policy required under subsection (a) shall include measures to enable a private sector entity that enters into a partnership arrangement under subsection (b) or leases excess equipment and facilities at a Center of Industrial and Technical Excellence pursuant to [section 2471 of this title][/us/usc/t10/s2471] to perform additional work at the Center, subject to the limitations outlined in subsection (b) of such section, outside of the types of work normally assigned to the Center.”
 
-    Subsecs. (e), (f). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 341(e)\], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 341(e)\], added subsecs. (e) and (f).
 
  __Reporting Requirement__ 
 
-    [Pub. L. 105–85, div. A, title III, § 361(c)][/us/pl/105/85/s361/c], Nov. 18, 1997, [111 Stat. 1701][/us/stat/111/1701], provided that, not later than Mar. 1, 1999, the Secretary of Defense was to submit to Congress a report on the policies established by the Secretary pursuant to this section to implement the requirements of this section.
+    [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 361(c), Nov. 18, 1997, [111 Stat. 1701][/us/stat/111/1701], provided that, not later than Mar. 1, 1999, the Secretary of Defense was to submit to Congress a report on the policies established by the Secretary pursuant to this section to implement the requirements of this section.
 
 ----------
 
@@ -148,45 +148,45 @@
 [/us/usc/t10/s2667/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2667%2Fe
 [/us/usc/t10/s2563/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2563%2Fc%2F3
 [/us/usc/t10/s2466/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2466%2Fa
-[/us/pl/105/85/s361/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs361%2Fa%2F1
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1700
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIII
 [/us/stat/115/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1060
-[/us/pl/107/314/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs334
+[/us/pl/107/314/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtIII
 [/us/stat/116/2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2514
-[/us/pl/108/375/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs323
+[/us/pl/108/375/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIII
 [/us/stat/118/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1846
-[/us/pl/109/364/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs331%2Fa
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2149
-[/us/pl/112/81/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs322
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1362
-[/us/pl/112/239/s1076/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fd%2F4
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1951
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s2466/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2466%2Fd
-[/us/pl/108/375/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs323
-[/us/pl/108/375/s1084/d/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F20
-[/us/pl/107/314/s334/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs334%2F1
-[/us/pl/107/314/s334/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs334%2F2
-[/us/pl/107/107/s343/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs343%2Fb
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t10/s2563/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2563%2Fc%2F3
-[/us/pl/107/107/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs342
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t31/s3302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302%2Fb
 [/us/usc/t10/s2667/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2667%2Fd
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t10/s2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2471
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/105/85/s361/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs361%2Fc
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1701
 
 

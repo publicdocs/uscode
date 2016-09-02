@@ -99,9 +99,9 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–106, div. A, title X, § 1081(i)(2)][/us/pl/104/106/s1081/i/2], Feb. 10, 1996, [110 Stat. 455][/us/stat/110/455], substituted “program” for “partnerships” in item 2511 and struck out items 2512 “Commercial-military integration partnerships”, 2513 “Regional technology alliances assistance program”, 2516 “Military-Civilian Integration and Technology Transfer Advisory Board”, and 2520 “Navy Reinvestment Program”.
+    1996—[Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1081(i)(2), Feb. 10, 1996, [110 Stat. 455][/us/stat/110/455], substituted “program” for “partnerships” in item 2511 and struck out items 2512 “Commercial-military integration partnerships”, 2513 “Regional technology alliances assistance program”, 2516 “Military-Civilian Integration and Technology Transfer Advisory Board”, and 2520 “Navy Reinvestment Program”.
 
-    1994—[Pub. L. 103–337, div. A, title XI, § 1113(c)][/us/pl/103/337/s1113/c], Oct. 5, 1994, [108 Stat. 2866][/us/stat/108/2866], added items 2519 and 2520.
+    1994—[Pub. L. 103–337, div. A, title XI][/us/pl/103/337/dA/tXI], § 1113(c), Oct. 5, 1994, [108 Stat. 2866][/us/stat/108/2866], added items 2519 and 2520.
 
 ----------
 
@@ -110,9 +110,9 @@
 ----------
 ----------
 
-[/us/pl/104/106/s1081/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1081%2Fi%2F2
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F455
-[/us/pl/103/337/s1113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1113%2Fc
+[/us/pl/103/337/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXI
 [/us/stat/108/2866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2866
 
 

@@ -47,7 +47,7 @@
 
         (2) The term “North Atlantic Treaty Organization subsidiary bodies” has the meaning given to it by [section 2350 of this title][/us/usc/t10/s2350].
 
-(Added [Pub. L. 97–252, title XI, § 1125(a)][/us/pl/97/252/s1125/a], Sept. 8, 1982, [96 Stat. 757][/us/stat/96/757], § 2213; amended [Pub. L. 99–145, title XIII, § 1304(b)][/us/pl/99/145/s1304/b], Nov. 8, 1985, [99 Stat. 742][/us/stat/99/742]; [Pub. L. 100–26, § 7(k)(2)][/us/pl/100/26/s7/k/2], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; renumbered § 2350c and amended [Pub. L. 101–189, div. A, title IX, § 931(b)(2)][/us/pl/101/189/s931/b/2], (e)(4), Nov. 29, 1989, [103 Stat. 1534][/us/stat/103/1534], 1535; [Pub. L. 102–484, div. A, title XIII, § 1311][/us/pl/102/484/s1311], Oct. 23, 1992, [106 Stat. 2547][/us/stat/106/2547]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XII, § 1222\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–328.)
+(Added [Pub. L. 97–252, title XI][/us/pl/97/252/tXI], § 1125(a), Sept. 8, 1982, [96 Stat. 757][/us/stat/96/757], § 2213; amended [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1304(b), Nov. 8, 1985, [99 Stat. 742][/us/stat/99/742]; [Pub. L. 100–26][/us/pl/100/26], § 7(k)(2), Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; renumbered § 2350c and amended [Pub. L. 101–189, div. A, title IX][/us/pl/101/189/dA/tIX], § 931(b)(2), (e)(4), Nov. 29, 1989, [103 Stat. 1534][/us/stat/103/1534], 1535; [Pub. L. 102–484, div. A, title XIII][/us/pl/102/484/dA/tXIII], § 1311, Oct. 23, 1992, [106 Stat. 2547][/us/stat/106/2547]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XII, § 1222\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–328.)
 
  __References in Text__ 
 
@@ -57,13 +57,13 @@
 
     2000—Subsecs. (d), (e). [Pub. L. 106–398][/us/pl/106/398] redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Notwithstanding subchapter I, the Secretary of Defense may enter into military airlift agreements with allied countries only under the authority of this section.”
 
-    1992—Subsec. (a)(2). [Pub. L. 102–484, § 1311(a)][/us/pl/102/484/s1311/a], substituted “as agreed upon by the parties. Liquidation shall be either by direct payment to the country that has provided the greater amount of transportation or by the providing of in-kind transportation services to that country. The liquidation shall occur on a regular basis, but not less often than once every 12 months.” for “not less often than once every 3 months by direct payment to the country that has provided the greater amount of transportation.”
+    1992—Subsec. (a)(2). [Pub. L. 102–484][/us/pl/102/484], § 1311(a), substituted “as agreed upon by the parties. Liquidation shall be either by direct payment to the country that has provided the greater amount of transportation or by the providing of in-kind transportation services to that country. The liquidation shall occur on a regular basis, but not less often than once every 12 months.” for “not less often than once every 3 months by direct payment to the country that has provided the greater amount of transportation.”
 
-    Subsec. (e)(1)(B). [Pub. L. 102–484, § 1311(b)][/us/pl/102/484/s1311/b], substituted “, New Zealand, Japan, and the Republic of Korea” for “or New Zealand”.
+    Subsec. (e)(1)(B). [Pub. L. 102–484][/us/pl/102/484], § 1311(b), substituted “, New Zealand, Japan, and the Republic of Korea” for “or New Zealand”.
 
     1989—[Pub. L. 101–189][/us/pl/101/189] renumbered [section 2213 of this title][/us/usc/t10/s2213] as this section and inserted “: allied countries” after “airlift agreements” in section catchline.
 
-    Subsec. (d). [Pub. L. 101–189, § 931(b)(2)][/us/pl/101/189/s931/b/2], substituted “subchapter I” for “chapter 138 of this title”.
+    Subsec. (d). [Pub. L. 101–189][/us/pl/101/189], § 931(b)(2), substituted “subchapter I” for “chapter 138 of this title”.
 
     1987—Subsec. (e). [Pub. L. 100–26][/us/pl/100/26] inserted “The term” after each par. designation and substituted “allied” for “Allied” in par. (1).
 
@@ -71,7 +71,7 @@
 
  __Department of Defense Participation in European Program on Multilateral Exchange of Air Transportation and Air Refueling Services__ 
 
-[Pub. L. 112–239, div. A, title XII, § 1276][/us/pl/112/239/s1276], Jan. 2, 2013, [126 Stat. 2029][/us/stat/126/2029], provided that:
+[Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1276, Jan. 2, 2013, [126 Stat. 2029][/us/stat/126/2029], provided that:
 
 >     “(a) __Participation Authorized.—__ 
 
@@ -141,7 +141,7 @@
 
  __Department of Defense Participation in Strategic Airlift Capability Partnership__ 
 
-[Pub. L. 110–181, div. A, title X, § 1032][/us/pl/110/181/s1032], Jan. 28, 2008, [122 Stat. 306][/us/stat/122/306], provided that:
+[Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1032, Jan. 28, 2008, [122 Stat. 306][/us/stat/122/306], provided that:
 
 >     “(a) __Authority To Participate in Partnership.—__ 
 
@@ -216,33 +216,33 @@
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t22/s2761/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2761%2Fa%2F3
 [/us/usc/t10/s2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2350
-[/us/pl/97/252/s1125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1125%2Fa
+[/us/pl/97/252/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtXI
 [/us/stat/96/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F757
-[/us/pl/99/145/s1304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1304%2Fb
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F742
-[/us/pl/100/26/s7/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fk%2F2
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F284
-[/us/pl/101/189/s931/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs931%2Fb%2F2
+[/us/pl/101/189/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIX
 [/us/stat/103/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1534
-[/us/pl/102/484/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1311
+[/us/pl/102/484/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXIII
 [/us/stat/106/2547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2547
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/102/484/s1311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1311%2Fa
-[/us/pl/102/484/s1311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1311%2Fb
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t10/s2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2213
-[/us/pl/101/189/s931/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs931%2Fb%2F2
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
-[/us/pl/112/239/s1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1276
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2029
-[/us/pl/110/181/s1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1032
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F306
 
 

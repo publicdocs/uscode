@@ -33,7 +33,7 @@
 
     (e) Before a court-martial is assembled for the trial of a case, the convening authority may excuse a member of the court from participating in the case. Under such regulations as the Secretary concerned may prescribe, the convening authority may delegate his authority under this subsection to his staff judge advocate or legal officer or to any other principal assistant.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 45][/us/stat/70A/45]; [Pub. L. 90–632, § 2(7)][/us/pl/90/632/s2/7], Oct. 24, 1968, [82 Stat. 1336][/us/stat/82/1336]; [Pub. L. 98–209][/us/pl/98/209], §§ 3(b), 13(c), Dec. 6, 1983, [97 Stat. 1394][/us/stat/97/1394], 1408; [Pub. L. 99–661, div. A, title VIII, § 803(a)][/us/pl/99/661/s803/a], Nov. 14, 1986, [100 Stat. 3906][/us/stat/100/3906].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 45][/us/stat/70A/45]; [Pub. L. 90–632][/us/pl/90/632], § 2(7), Oct. 24, 1968, [82 Stat. 1336][/us/stat/82/1336]; [Pub. L. 98–209][/us/pl/98/209], §§ 3(b), 13(c), Dec. 6, 1983, [97 Stat. 1394][/us/stat/97/1394], 1408; [Pub. L. 99–661, div. A, title VIII][/us/pl/99/661/dA/tVIII], § 803(a), Nov. 14, 1986, [100 Stat. 3906][/us/stat/100/3906].)
 
 <table>
 
@@ -131,15 +131,15 @@ May 5, 1950, ch. 169, § 1 (Art. 25), 64 Stat. 116.  </td>
 
     1986—Subsec. (c)(1). [Pub. L. 99–661][/us/pl/99/661] substituted “has requested orally on the record or in writing” for “has requested in writing”.
 
-    1983—Subsec. (c)(2). [Pub. L. 98–209, § 13(c)][/us/pl/98/209/s13/c], struck out “the word” before “ ‘unit’ ”.
+    1983—Subsec. (c)(2). [Pub. L. 98–209][/us/pl/98/209], § 13(c), struck out “the word” before “ ‘unit’ ”.
 
-    Subsec. (e). [Pub. L. 98–209, § 3(b)][/us/pl/98/209/s3/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 98–209][/us/pl/98/209], § 3(b), added subsec. (e).
 
     1968—Subsec. (c)(1). [Pub. L. 90–632][/us/pl/90/632] inserted requirement that an accused’s request for inclusion of enlisted members on his court-martial be made before conclusion of a pre-trial session called by the military judge under section 839(a) or before the court is assembled for his trial and substituted “assembled” for “convened” to describe the calling together of the court for the trial in provision allowing such calling together without requested enlisted members if such members cannot be obtained.
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–661, div. A, title VIII, § 803(b)][/us/pl/99/661/s803/b], Nov. 14, 1986, [100 Stat. 3906][/us/stat/100/3906], provided that: 
+[Pub. L. 99–661, div. A, title VIII][/us/pl/99/661/dA/tVIII], § 803(b), Nov. 14, 1986, [100 Stat. 3906][/us/stat/100/3906], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply only to a case in which arraignment is completed on or after the effective date of this title.”
 
@@ -163,17 +163,17 @@ May 5, 1950, ch. 169, § 1 (Art. 25), 64 Stat. 116.  </td>
 [/us/usc/t10/s839/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs839%2Fa
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F45
-[/us/pl/90/632/s2/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F7
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1336
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1394
-[/us/pl/99/661/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs803%2Fa
+[/us/pl/99/661/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVIII
 [/us/stat/100/3906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3906
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
-[/us/pl/98/209/s13/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs13%2Fc
-[/us/pl/98/209/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs3%2Fb
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
-[/us/pl/99/661/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs803%2Fb
+[/us/pl/99/661/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVIII
 [/us/stat/100/3906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3906
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/661/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs808

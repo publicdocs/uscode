@@ -19,7 +19,7 @@
 
     (b) In this section, the term “actual cost of attendance” has the meaning given the term “cost of attendance” by section 472 of the Higher Education Act of 1965 ([20 U.S.C. 1087][/us/usc/t20/s1087]ll).
 
-(Added [Pub. L. 96–342, title IX, § 901(a)][/us/pl/96/342/s901/a], Sept. 8, 1980, [94 Stat. 1113][/us/stat/94/1113]; amended [Pub. L. 100–180, div. A, title XII, § 1231(18)(A)][/us/pl/100/180/s1231/18/A], Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161]; [Pub. L. 103–35, title II, § 201(c)(2)][/us/pl/103/35/s201/c/2], May 31, 1993, [107 Stat. 98][/us/stat/107/98].)
+(Added [Pub. L. 96–342, title IX][/us/pl/96/342/tIX], § 901(a), Sept. 8, 1980, [94 Stat. 1113][/us/stat/94/1113]; amended [Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1231(18)(A), Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161]; [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 201(c)(2), May 31, 1993, [107 Stat. 98][/us/stat/107/98].)
 
  __Amendments__ 
 
@@ -37,11 +37,11 @@
 [/us/usc/t10/s2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2143
 [/us/usc/t10/s2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2144
 [/us/usc/t20/s1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087
-[/us/pl/96/342/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs901%2Fa
+[/us/pl/96/342/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtIX
 [/us/stat/94/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1113
-[/us/pl/100/180/s1231/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1231%2F18%2FA
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1161
-[/us/pl/103/35/s201/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fc%2F2
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F98
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
 [/us/usc/t20/s1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087

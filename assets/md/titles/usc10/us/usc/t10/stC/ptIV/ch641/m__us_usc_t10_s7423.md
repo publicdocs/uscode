@@ -17,7 +17,7 @@
 
     The Secretary shall from time to time reexamine the need for the production of petroleum from oil shale for national defense when that production is authorized under [section 7422 of this title][/us/usc/t10/s7422]. If he finds that the authorized quantity is no longer needed, he shall reduce production to the amount currently needed for national defense.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 458][/us/stat/70A/458]; [Pub. L. 87–796, § 1(3)][/us/pl/87/796/s1/3], Oct. 11, 1962, [76 Stat. 904][/us/stat/76/904]; [Pub. L. 94–258, title II, § 201(4)][/us/pl/94/258/s201/4], Apr. 5, 1976, [90 Stat. 309][/us/stat/90/309].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 458][/us/stat/70A/458]; [Pub. L. 87–796][/us/pl/87/796], § 1(3), Oct. 11, 1962, [76 Stat. 904][/us/stat/76/904]; [Pub. L. 94–258, title II][/us/pl/94/258/tII], § 201(4), Apr. 5, 1976, [90 Stat. 309][/us/stat/90/309].)
 
 <table>
 
@@ -79,9 +79,9 @@ June 4, 1920, ch. 228 (1st par., 186th through 243d words, of amended 3d and 4th
 [/us/usc/t10/s7422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7422
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F458
-[/us/pl/87/796/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F796%2Fs1%2F3
+[/us/pl/87/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F796
 [/us/stat/76/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F904
-[/us/pl/94/258/s201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2Fs201%2F4
+[/us/pl/94/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2FtII
 [/us/stat/90/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F309
 [/us/pl/94/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258
 [/us/pl/87/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F796

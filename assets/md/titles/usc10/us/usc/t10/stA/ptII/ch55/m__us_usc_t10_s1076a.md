@@ -147,7 +147,7 @@
 
                 (ii) The date on which such dependent attains 23 years of age.
 
-(Added [Pub. L. 106–65, div. A, title VII, § 711(a)][/us/pl/106/65/s711/a], Oct. 5, 1999, [113 Stat. 685][/us/stat/113/685]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 704(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–174; [Pub. L. 107–314, div. A, title VII, § 703][/us/pl/107/314/s703], Dec. 2, 2002, [116 Stat. 2584][/us/stat/116/2584]; [Pub. L. 108–375, div. A, title VII, § 711][/us/pl/108/375/s711], Oct. 28, 2004, [118 Stat. 1984][/us/stat/118/1984]; [Pub. L. 109–163, div. A, title VII, § 713][/us/pl/109/163/s713], Jan. 6, 2006, [119 Stat. 3343][/us/stat/119/3343]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 735(b), Oct. 14, 2008, [122 Stat. 4514][/us/stat/122/4514]; [Pub. L. 111–84, div. A, title VII, § 704][/us/pl/111/84/s704], Oct. 28, 2009, [123 Stat. 2373][/us/stat/123/2373]; [Pub. L. 111–383, div. A, title VII, § 703][/us/pl/111/383/s703], Jan. 7, 2011, [124 Stat. 4245][/us/stat/124/4245]; [Pub. L. 112–239, div. A, title VII, § 701(b)][/us/pl/112/239/s701/b], Jan. 2, 2013, [126 Stat. 1798][/us/stat/126/1798].)
+(Added [Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 711(a), Oct. 5, 1999, [113 Stat. 685][/us/stat/113/685]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 704(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–174; [Pub. L. 107–314, div. A, title VII][/us/pl/107/314/dA/tVII], § 703, Dec. 2, 2002, [116 Stat. 2584][/us/stat/116/2584]; [Pub. L. 108–375, div. A, title VII][/us/pl/108/375/dA/tVII], § 711, Oct. 28, 2004, [118 Stat. 1984][/us/stat/118/1984]; [Pub. L. 109–163, div. A, title VII][/us/pl/109/163/dA/tVII], § 713, Jan. 6, 2006, [119 Stat. 3343][/us/stat/119/3343]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 735(b), Oct. 14, 2008, [122 Stat. 4514][/us/stat/122/4514]; [Pub. L. 111–84, div. A, title VII][/us/pl/111/84/dA/tVII], § 704, Oct. 28, 2009, [123 Stat. 2373][/us/stat/123/2373]; [Pub. L. 111–383, div. A, title VII][/us/pl/111/383/dA/tVII], § 703, Jan. 7, 2011, [124 Stat. 4245][/us/stat/124/4245]; [Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 701(b), Jan. 2, 2013, [126 Stat. 1798][/us/stat/126/1798].)
 
  __References in Text__ 
 
@@ -155,7 +155,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1076a, added [Pub. L. 99–145, title VI, § 651(a)(1)][/us/pl/99/145/s651/a/1], Nov. 8, 1985, [99 Stat. 655][/us/stat/99/655]; amended [Pub. L. 99–661, div. A, title VII, § 707(a)][/us/pl/99/661/s707/a], (b), Nov. 14, 1986, [100 Stat. 3905][/us/stat/100/3905]; [Pub. L. 102–190, div. A, title VII, § 701][/us/pl/102/190/s701], Dec. 5, 1991, [105 Stat. 1399][/us/stat/105/1399]; [Pub. L. 102–484, div. A, title VII, § 701(a)][/us/pl/102/484/s701/a]–(e), Oct. 23, 1992, [106 Stat. 2430][/us/stat/106/2430]; [Pub. L. 103–337, div. A, title VII][/us/pl/103/337], §§ 702(b), 703(a), 707(b), Oct. 5, 1994, [108 Stat. 2797][/us/stat/108/2797], 2798, 2800; [Pub. L. 105–85, div. A, title VII, § 732][/us/pl/105/85/s732], Nov. 18, 1997, [111 Stat. 1812][/us/stat/111/1812]; [Pub. L. 105–261, div. A, title VII, § 701(a)(1)][/us/pl/105/261/s701/a/1], (b), Oct. 17, 1998, [112 Stat. 2056][/us/stat/112/2056]; [Pub. L. 106–65, div. A, title X, § 1066(a)(8)][/us/pl/106/65/s1066/a/8], Oct. 5, 1999, [113 Stat. 770][/us/stat/113/770]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(d)(4)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–293, related to dependents’ dental program, prior to repeal by [Pub. L. 106–65, div. A, title VII, § 711(a)][/us/pl/106/65/s711/a], Oct. 5, 1999, [113 Stat. 685][/us/stat/113/685].
+    A prior section 1076a, added [Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 651(a)(1), Nov. 8, 1985, [99 Stat. 655][/us/stat/99/655]; amended [Pub. L. 99–661, div. A, title VII][/us/pl/99/661/dA/tVII], § 707(a), (b), Nov. 14, 1986, [100 Stat. 3905][/us/stat/100/3905]; [Pub. L. 102–190, div. A, title VII][/us/pl/102/190/dA/tVII], § 701, Dec. 5, 1991, [105 Stat. 1399][/us/stat/105/1399]; [Pub. L. 102–484, div. A, title VII][/us/pl/102/484/dA/tVII], § 701(a)–(e), Oct. 23, 1992, [106 Stat. 2430][/us/stat/106/2430]; [Pub. L. 103–337, div. A, title VII][/us/pl/103/337/dA/tVII], §§ 702(b), 703(a), 707(b), Oct. 5, 1994, [108 Stat. 2797][/us/stat/108/2797], 2798, 2800; [Pub. L. 105–85, div. A, title VII][/us/pl/105/85/dA/tVII], § 732, Nov. 18, 1997, [111 Stat. 1812][/us/stat/111/1812]; [Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 701(a)(1), (b), Oct. 17, 1998, [112 Stat. 2056][/us/stat/112/2056]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1066(a)(8), Oct. 5, 1999, [113 Stat. 770][/us/stat/113/770]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(d)(4)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–293, related to dependents’ dental program, prior to repeal by [Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 711(a), Oct. 5, 1999, [113 Stat. 685][/us/stat/113/685].
 
  __Amendments__ 
 
@@ -193,7 +193,7 @@
 
  __Authorization To Expand Enrollment in Dependents’ Dental Program to Certain Members Returning From Overseas Assignments__ 
 
-[Pub. L. 103–160, div. A, title VII, § 703][/us/pl/103/160/s703], Nov. 30, 1993, [107 Stat. 1687][/us/stat/107/1687], provided that:
+[Pub. L. 103–160, div. A, title VII][/us/pl/103/160/dA/tVII], § 703, Nov. 30, 1993, [107 Stat. 1687][/us/stat/107/1687], provided that:
 
 >     “(a)  __Authority To Expand Program__  __.—__ 
 
@@ -227,44 +227,44 @@
 [/us/usc/t37/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs206
 [/us/usc/t10/s1072/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2
 [/us/usc/t10/s1072/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2
-[/us/pl/106/65/s711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs711%2Fa
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F685
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/314/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs703
+[/us/pl/107/314/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVII
 [/us/stat/116/2584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2584
-[/us/pl/108/375/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs711
+[/us/pl/108/375/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVII
 [/us/stat/118/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1984
-[/us/pl/109/163/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs713
+[/us/pl/109/163/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVII
 [/us/stat/119/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3343
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4514
-[/us/pl/111/84/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs704
+[/us/pl/111/84/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVII
 [/us/stat/123/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2373
-[/us/pl/111/383/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs703
+[/us/pl/111/383/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVII
 [/us/stat/124/4245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4245
-[/us/pl/112/239/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs701%2Fb
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1798
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/99/145/s651/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs651%2Fa%2F1
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F655
-[/us/pl/99/661/s707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs707%2Fa
+[/us/pl/99/661/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVII
 [/us/stat/100/3905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3905
-[/us/pl/102/190/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs701
+[/us/pl/102/190/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVII
 [/us/stat/105/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1399
-[/us/pl/102/484/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs701%2Fa
+[/us/pl/102/484/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVII
 [/us/stat/106/2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2430
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVII
 [/us/stat/108/2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2797
-[/us/pl/105/85/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs732
+[/us/pl/105/85/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVII
 [/us/stat/111/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1812
-[/us/pl/105/261/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs701%2Fa%2F1
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2056
-[/us/pl/106/65/s1066/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fa%2F8
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F770
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/65/s711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs711%2Fa
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F685
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
@@ -275,7 +275,7 @@
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/103/160/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs703
+[/us/pl/103/160/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVII
 [/us/stat/107/1687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1687
 [/us/usc/t10/s1076a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076a
 [/us/usc/t10/s101/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fd%2F2

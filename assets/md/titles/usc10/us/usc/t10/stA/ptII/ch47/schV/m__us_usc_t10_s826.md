@@ -25,7 +25,7 @@
 
     (e) The military judge of a court-martial may not consult with the members of the court except in the presence of the accused, trial counsel, and defense counsel, nor may he vote with the members of the court.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 46][/us/stat/70A/46]; [Pub. L. 90–632, § 2(9)][/us/pl/90/632/s2/9], Oct. 24, 1968, [82 Stat. 1336][/us/stat/82/1336]; [Pub. L. 98–209, § 3(c)(1)][/us/pl/98/209/s3/c/1], Dec. 6, 1983, [97 Stat. 1394][/us/stat/97/1394].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 46][/us/stat/70A/46]; [Pub. L. 90–632][/us/pl/90/632], § 2(9), Oct. 24, 1968, [82 Stat. 1336][/us/stat/82/1336]; [Pub. L. 98–209][/us/pl/98/209], § 3(c)(1), Dec. 6, 1983, [97 Stat. 1394][/us/stat/97/1394].)
 
 <table>
 
@@ -81,9 +81,9 @@ May 5, 1950, ch. 169, § 1 (Art. 26), 64 Stat. 117.  </td>
 
  __Amendments__ 
 
-    1983—Subsec. (a). [Pub. L. 98–209, § 3(c)(1)(A)][/us/pl/98/209/s3/c/1/A], amended subsec. (a) generally, inserting provision requiring the Secretary concerned to prescribe regulations providing for the manner in which military judges are detailed for courts-martial and for the persons who are authorized to detail military judges for such courts-martial.
+    1983—Subsec. (a). [Pub. L. 98–209][/us/pl/98/209], § 3(c)(1)(A), amended subsec. (a) generally, inserting provision requiring the Secretary concerned to prescribe regulations providing for the manner in which military judges are detailed for courts-martial and for the persons who are authorized to detail military judges for such courts-martial.
 
-    Subsec. (c). [Pub. L. 98–209, § 3(c)(1)(B)][/us/pl/98/209/s3/c/1/B], substituted “in accordance with regulations prescribed under subsection (a). Unless” for “by the convening authority, and, unless”.
+    Subsec. (c). [Pub. L. 98–209][/us/pl/98/209], § 3(c)(1)(B), substituted “in accordance with regulations prescribed under subsection (a). Unless” for “by the convening authority, and, unless”.
 
     1968—[Pub. L. 90–632][/us/pl/90/632] substituted “military judge” for “law officer” and inserted reference to special court-martial.
 
@@ -103,7 +103,7 @@ May 5, 1950, ch. 169, § 1 (Art. 26), 64 Stat. 117.  </td>
 
  __Statutory References to Law Officer Deemed References to Military Judge__ 
 
-[Pub. L. 90–632, § 3(a)][/us/pl/90/632/s3/a], Oct. 24, 1968, [82 Stat. 1343][/us/stat/82/1343], provided that: 
+[Pub. L. 90–632][/us/pl/90/632], § 3(a), Oct. 24, 1968, [82 Stat. 1343][/us/stat/82/1343], provided that: 
 
 > “Whenever the term law officer is used, with reference to any officer detailed to a court-martial pursuant to section 826(a) (article 26(a)) of title 10, United States Code \[subsec. (a) of this section\], in any provision of Federal law (other than provisions amended by this Act \[see Short Title of 1968 Amendment note set out under [section 801 of this title][/us/usc/t10/s801]\] or in any regulation, document, or record of the United States, such term shall be deemed to mean military judge.”
 
@@ -116,12 +116,12 @@ May 5, 1950, ch. 169, § 1 (Art. 26), 64 Stat. 117.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F46
-[/us/pl/90/632/s2/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F9
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1336
-[/us/pl/98/209/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs3%2Fc%2F1
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1394
-[/us/pl/98/209/s3/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs3%2Fc%2F1%2FA
-[/us/pl/98/209/s3/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs3%2Fc%2F1%2FB
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
@@ -133,7 +133,7 @@ May 5, 1950, ch. 169, § 1 (Art. 26), 64 Stat. 117.  </td>
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/pl/90/632/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs4
 [/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801
-[/us/pl/90/632/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs3%2Fa
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1343
 [/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801
 

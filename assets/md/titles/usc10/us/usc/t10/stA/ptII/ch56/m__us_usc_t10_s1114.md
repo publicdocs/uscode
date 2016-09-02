@@ -31,7 +31,7 @@
 
     (c) The Board shall review valuations of the Fund under [section 1115(c) of this title][/us/usc/t10/s1115/c] and shall report periodically, not less than once every four years, to the President and Congress on the status of the Fund. The Board shall include in such reports recommendations for such changes as in the Board’s judgment are necessary to protect the public interest and maintain the Fund on a sound actuarial basis.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 713(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–180; amended [Pub. L. 107–107, div. A, title X, § 1048(a)(12)][/us/pl/107/107/s1048/a/12], Dec. 28, 2001, [115 Stat. 1223][/us/stat/115/1223].)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 713(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–180; amended [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(a)(12), Dec. 28, 2001, [115 Stat. 1223][/us/stat/115/1223].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t10/s1115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1115%2Fc
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s1048/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fa%2F12
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1223
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 

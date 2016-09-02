@@ -23,7 +23,7 @@
 
     (3) other members of the Army assigned to public affairs positions by the Secretary of the Army.
 
-(Added [Pub. L. 105–85, div. A, title V, § 596(a)][/us/pl/105/85/s596/a], Nov. 18, 1997, [111 Stat. 1765][/us/stat/111/1765].)
+(Added [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 596(a), Nov. 18, 1997, [111 Stat. 1765][/us/stat/111/1765].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/105/85/s596/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs596%2Fa
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1765
 
 

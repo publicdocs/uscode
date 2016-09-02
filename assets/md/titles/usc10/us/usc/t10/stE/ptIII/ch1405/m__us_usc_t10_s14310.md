@@ -39,27 +39,27 @@
 
     An officer whose name is removed from a list under subsection (a), (b), or (c) continues to be eligible for consideration for promotion. If that officer is recommended for promotion by the next selection board convened for that officer’s grade and competitive category and the officer is promoted, the Secretary of the military department concerned may, upon the promotion, grant the officer the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the reserve active-status list, as the officer would have had if the officer’s name had not been removed from the list.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2938][/us/stat/108/2938]; amended [Pub. L. 109–364, div. A, title V, § 515(b)][/us/pl/109/364/s515/b], Oct. 17, 2006, [120 Stat. 2186][/us/stat/120/2186]; [Pub. L. 110–181, div. A, title X, § 1063(a)(16)][/us/pl/110/181/s1063/a/16], Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322]; [Pub. L. 111–383, div. A, title V, § 504(b)][/us/pl/111/383/s504/b], title X, § 1075(f)(7), Jan. 7, 2011, [124 Stat. 4208][/us/stat/124/4208], 4376.)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2938][/us/stat/108/2938]; amended [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 515(b), Oct. 17, 2006, [120 Stat. 2186][/us/stat/120/2186]; [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1063(a)(16), Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 504(b), title X, § 1075(f)(7), Jan. 7, 2011, [124 Stat. 4208][/us/stat/124/4208], 4376.)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 5905 of this title][/us/usc/t10/s5905], prior to repeal by [Pub. L. 103–337, § 1629(b)(2)][/us/pl/103/337/s1629/b/2].
+    Provisions similar to those in this section were contained in [section 5905 of this title][/us/usc/t10/s5905], prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(b)(2).
 
  __Amendments__ 
 
-    2011—Subsec. (d). [Pub. L. 111–383, § 504(b)(2)][/us/pl/111/383/s504/b/2], added subsec. (d). Former subsec. (d) redesignated (e).
+    2011—Subsec. (d). [Pub. L. 111–383][/us/pl/111/383], § 504(b)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 111–383, § 1075(f)(7)][/us/pl/111/383/s1075/f/7], made technical amendment to directory language of [Pub. L. 110–181, § 1063(a)(16)][/us/pl/110/181/s1063/a/16]. See 2008 Amendment note below.
+    Subsec. (e). [Pub. L. 111–383][/us/pl/111/383], § 1075(f)(7), made technical amendment to directory language of [Pub. L. 110–181][/us/pl/110/181], § 1063(a)(16). See 2008 Amendment note below.
 
-    [Pub. L. 111–383, § 504(b)(1)][/us/pl/111/383/s504/b/1], redesignated subsec. (d) as (e).
+    [Pub. L. 111–383][/us/pl/111/383], § 504(b)(1), redesignated subsec. (d) as (e).
 
-    2008—Subsec. (d). [Pub. L. 110–181, § 1063(a)(16)][/us/pl/110/181/s1063/a/16], as amended by [Pub. L. 111–383, § 1075(f)(7)][/us/pl/111/383/s1075/f/7], inserted comma after “(a)”.
+    2008—Subsec. (d). [Pub. L. 110–181][/us/pl/110/181], § 1063(a)(16), as amended by [Pub. L. 111–383][/us/pl/111/383], § 1075(f)(7), inserted comma after “(a)”.
 
-    2006—Subsec. (c). [Pub. L. 109–364, § 515(b)(1)(B)][/us/pl/109/364/s515/b/1/B], added subsec. (c). Former subsec. (c) redesignated (d).
+    2006—Subsec. (c). [Pub. L. 109–364][/us/pl/109/364], § 515(b)(1)(B), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 109–364, § 515(b)(2)][/us/pl/109/364/s515/b/2], which directed amendment of par. (1) of subsec. (d) by substituting “(b), or (c)” for “or (b)”, was executed by amending text of subsec. (d), which does not contain any pars., to reflect the probable intent of Congress.
+    Subsec. (d). [Pub. L. 109–364][/us/pl/109/364], § 515(b)(2), which directed amendment of par. (1) of subsec. (d) by substituting “(b), or (c)” for “or (b)”, was executed by amending text of subsec. (d), which does not contain any pars., to reflect the probable intent of Congress.
 
-    [Pub. L. 109–364, § 515(b)(1)(A)][/us/pl/109/364/s515/b/1/A], redesignated subsec. (c) as (d).
+    [Pub. L. 109–364][/us/pl/109/364], § 515(b)(1)(A), redesignated subsec. (c) as (d).
 
  __Effective Date of 2006 Amendment__ 
 
@@ -73,7 +73,7 @@
 
  __Removals From Promotion List__ 
 
-[Pub. L. 103–337, div. A, title XVI, § 1684(b)][/us/pl/103/337/s1684/b], Oct. 5, 1994, [108 Stat. 3024][/us/stat/108/3024], as amended by [Pub. L. 104–106, div. A, title XV, § 1501(a)(9)][/us/pl/104/106/s1501/a/9], Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495], provided that: 
+[Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1684(b), Oct. 5, 1994, [108 Stat. 3024][/us/stat/108/3024], as amended by [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(a)(9), Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495], provided that: 
 
 > “An action that was initiated before the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of [Pub. L. 103–337][/us/pl/103/337], set out as an Effective Date note under [section 10001 of this title][/us/usc/t10/s10001]\] under the laws and regulations in effect before that date to remove the name of an officer from a promotion list or from a list of officers recommended or approved for promotion shall continue on and after such date as if such action had been initiated under section 14111(c) or 14310, as appropriate, of title 10, United States Code, as added by this title.”
 
@@ -88,33 +88,33 @@
 [/us/usc/t10/s12203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12203%2Fa
 [/us/usc/t10/s14308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14308%2Fa
 [/us/usc/t10/s12203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12203%2Fa
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2938
-[/us/pl/109/364/s515/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs515%2Fb
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2186
-[/us/pl/110/181/s1063/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fa%2F16
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F322
-[/us/pl/111/383/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs504%2Fb
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4208
 [/us/usc/t10/s5905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5905
-[/us/pl/103/337/s1629/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fb%2F2
-[/us/pl/111/383/s504/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs504%2Fb%2F2
-[/us/pl/111/383/s1075/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Ff%2F7
-[/us/pl/110/181/s1063/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fa%2F16
-[/us/pl/111/383/s504/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs504%2Fb%2F1
-[/us/pl/110/181/s1063/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fa%2F16
-[/us/pl/111/383/s1075/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Ff%2F7
-[/us/pl/109/364/s515/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs515%2Fb%2F1%2FB
-[/us/pl/109/364/s515/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs515%2Fb%2F2
-[/us/pl/109/364/s515/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs515%2Fb%2F1%2FA
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/364/s515/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs515%2Fc
 [/us/usc/t10/s629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs629
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/pl/103/337/s1684/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1684%2Fb
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3024
-[/us/pl/104/106/s1501/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fa%2F9
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F495
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001

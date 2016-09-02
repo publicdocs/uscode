@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptI/ch9/m__us_usc_t10_s226.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch9/m__us_usc_t10_s228.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs227)
 
-## \[§ 227. Repealed. [Pub. L. 104–106, div. A, title X, § 1061(f)(1)][/us/pl/104/106/s1061/f/1], Feb. 10, 1996, [110 Stat. 443][/us/stat/110/443]\]
+## \[§ 227. Repealed. [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1061(f)(1), Feb. 10, 1996, [110 Stat. 443][/us/stat/110/443]\]
 
-    Section, added [Pub. L. 103–160, div. A, title III, § 374(a)][/us/pl/103/160/s374/a], Nov. 30, 1993, [107 Stat. 1636][/us/stat/107/1636], directed Secretary of Defense to include recruiting costs in budget justification documents submitted to Congress each year in connection with submission of budget.
+    Section, added [Pub. L. 103–160, div. A, title III][/us/pl/103/160/dA/tIII], § 374(a), Nov. 30, 1993, [107 Stat. 1636][/us/stat/107/1636], directed Secretary of Defense to include recruiting costs in budget justification documents submitted to Congress each year in connection with submission of budget.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/104/106/s1061/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1061%2Ff%2F1
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F443
-[/us/pl/103/160/s374/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs374%2Fa
+[/us/pl/103/160/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIII
 [/us/stat/107/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1636
 
 

@@ -39,11 +39,11 @@
 
     An international student who is admitted to a senior military college under the program under this section is responsible for the cost of instruction at that college. The Secretary of Defense may, from funds available to the Department of Defense other than funds available for financial assistance under [section 2107a of this title][/us/usc/t10/s2107a], provide some or all of the costs of instruction for any such student.
 
-(Added [Pub. L. 106–65, div. A, title V, § 541(a)(1)][/us/pl/106/65/s541/a/1], Oct. 5, 1999, [113 Stat. 606][/us/stat/113/606].)
+(Added [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 541(a)(1), Oct. 5, 1999, [113 Stat. 606][/us/stat/113/606].)
 
  __Effective Date__ 
 
-[Pub. L. 106–65, div. A, title V, § 541(b)][/us/pl/106/65/s541/b], Oct. 5, 1999, [113 Stat. 607][/us/stat/113/607], provided that: 
+[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 541(b), Oct. 5, 1999, [113 Stat. 607][/us/stat/113/607], provided that: 
 
 > “The Secretary of Defense shall implement the program under [section 2111b of title 10][/us/usc/t10/s2111b], United States Code, as added by subsection (a), with students entering the senior military colleges after May 1, 2000.”
 
@@ -55,9 +55,9 @@
 ----------
 
 [/us/usc/t10/s2107a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2107a
-[/us/pl/106/65/s541/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs541%2Fa%2F1
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F606
-[/us/pl/106/65/s541/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs541%2Fb
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F607
 [/us/usc/t10/s2111b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2111b
 

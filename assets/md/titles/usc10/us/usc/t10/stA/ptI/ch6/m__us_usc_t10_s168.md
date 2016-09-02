@@ -87,7 +87,7 @@
 
     In this section, the term “military-to-military contacts” means contacts between members of the armed forces and members of foreign armed forces through activities described in subsection (c).
 
-(Added [Pub. L. 103–337, div. A, title XIII, § 1316(a)(1)][/us/pl/103/337/s1316/a/1], Oct. 5, 1994, [108 Stat. 2898][/us/stat/108/2898]; amended [Pub. L. 104–106, div. A, title IV, § 416][/us/pl/104/106/s416], Feb. 10, 1996, [110 Stat. 289][/us/stat/110/289]; [Pub. L. 108–375, div. A, title IV, § 416(e)][/us/pl/108/375/s416/e], Oct. 28, 2004, [118 Stat. 1868][/us/stat/118/1868]; [Pub. L. 110–181, div. A, title XII, § 1201][/us/pl/110/181/s1201], Jan. 28, 2008, [122 Stat. 363][/us/stat/122/363]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XII, § 1202(a), Oct. 14, 2008, [122 Stat. 4622][/us/stat/122/4622].)
+(Added [Pub. L. 103–337, div. A, title XIII][/us/pl/103/337/dA/tXIII], § 1316(a)(1), Oct. 5, 1994, [108 Stat. 2898][/us/stat/108/2898]; amended [Pub. L. 104–106, div. A, title IV][/us/pl/104/106/dA/tIV], § 416, Feb. 10, 1996, [110 Stat. 289][/us/stat/110/289]; [Pub. L. 108–375, div. A, title IV][/us/pl/108/375/dA/tIV], § 416(e), Oct. 28, 2004, [118 Stat. 1868][/us/stat/118/1868]; [Pub. L. 110–181, div. A, title XII][/us/pl/110/181/dA/tXII], § 1201, Jan. 28, 2008, [122 Stat. 363][/us/stat/122/363]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XII, § 1202(a), Oct. 14, 2008, [122 Stat. 4622][/us/stat/122/4622].)
 
  __References in Text__ 
 
@@ -121,17 +121,17 @@
 
  __Update of Policy Guidance on Authority for Assignment of Civilian Employees of the Department of Defense as Advisors to Foreign Ministries of Defense and Regional Organizations__ 
 
-[Pub. L. 113–291, div. A, title X, § 1047(b)][/us/pl/113/291/s1047/b], Dec. 19, 2014, [128 Stat. 3495][/us/stat/128/3495], provided that: 
+[Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1047(b), Dec. 19, 2014, [128 Stat. 3495][/us/stat/128/3495], provided that: 
 
 > “The Under Secretary of Defense for Policy shall issue an update of the policy of the Department of Defense for assignment of civilian employees of the Department as advisors to foreign ministries of defense and regional organizations under the authority in section 1081 of the National Defense Authorization Act for Fiscal Year 2012 ([Public Law 112–81][/us/pl/112/81]; [125 Stat. 1599][/us/stat/125/1599]; [10 U.S.C. 168][/us/usc/t10/s168] note), as amended by this section.”
 
-[Pub. L. 113–66, div. A, title X, § 1094(a)(2)][/us/pl/113/66/s1094/a/2], Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878], provided that: 
+[Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1094(a)(2), Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878], provided that: 
 
 > “The Under Secretary of Defense for Policy shall issue an update of the policy of the Department of Defense for assignment of civilian employees of the Department as advisors to foreign ministries of defense under the authority in section 1081 of the National Defense Authorization Act for Fiscal Year 2012 \[[section 1081 of Pub. L. 112–81][/us/pl/112/81/s1081], set out below\], as amended by this section.”
 
  __Defense Institution Capacity Building Program__ 
 
-[Pub. L. 112–81, div. A, title X, § 1081][/us/pl/112/81/s1081], Dec. 31, 2011, [125 Stat. 1599][/us/stat/125/1599], as amended by [Pub. L. 113–66, div. A, title X, § 1094(a)(1)][/us/pl/113/66/s1094/a/1], (3)–(5), Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878]; [Pub. L. 113–291, div. A, title X, § 1047(a)][/us/pl/113/291/s1047/a], (c), Dec. 19, 2014, [128 Stat. 3494][/us/stat/128/3494], 3495; [Pub. L. 114–92, div. A, title X, § 1055(a)][/us/pl/114/92/s1055/a]–(d)(1), Nov. 25, 2015, [129 Stat. 982][/us/stat/129/982], 983, provided that:
+[Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1081, Dec. 31, 2011, [125 Stat. 1599][/us/stat/125/1599], as amended by [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1094(a)(1), (3)–(5), Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1047(a), (c), Dec. 19, 2014, [128 Stat. 3494][/us/stat/128/3494], 3495; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1055(a)–(d)(1), Nov. 25, 2015, [129 Stat. 982][/us/stat/129/982], 983, provided that:
 
 >     “(a)  __Ministry of Defense Advisor Authority__  __.—__ 
 
@@ -223,11 +223,11 @@
 
 >         “(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.”
 
-    \[[Pub. L. 113–66, div. A, title X, § 1094(a)(3)][/us/pl/113/66/s1094/a/3]–(5), Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878], which directed amendment of “such section” by striking “2014” and inserting “2017” in subsec. (c), by striking “carried out such by such” and inserting “carried out by such” in subsec. (c)(4), and by striking “December 30, 2013” and inserting “December 31, 2014” in subsec. (d), was executed to [section 1081 of Pub. L. 112–81][/us/pl/112/81/s1081], set out above, to reflect the probable intent of Congress.\]
+    \[[Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1094(a)(3)–(5), Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878], which directed amendment of “such section” by striking “2014” and inserting “2017” in subsec. (c), by striking “carried out such by such” and inserting “carried out by such” in subsec. (c)(4), and by striking “December 30, 2013” and inserting “December 31, 2014” in subsec. (d), was executed to [section 1081 of Pub. L. 112–81][/us/pl/112/81/s1081], set out above, to reflect the probable intent of Congress.\]
 
  __Authority for Non-Reciprocal Exchanges of Defense Personnel Between the United States and Foreign Countries__ 
 
-[Pub. L. 111–84, div. A, title XII, § 1207][/us/pl/111/84/s1207], Oct. 28, 2009, [123 Stat. 2514][/us/stat/123/2514], as amended by [Pub. L. 112–239, div. A, title XII, § 1202][/us/pl/112/239/s1202], Jan. 2, 2013, [126 Stat. 1980][/us/stat/126/1980]; [Pub. L. 114–92, div. A, title XII, § 1204][/us/pl/114/92/s1204], Nov. 25, 2015, [129 Stat. 1039][/us/stat/129/1039], provided that:
+[Pub. L. 111–84, div. A, title XII][/us/pl/111/84/dA/tXII], § 1207, Oct. 28, 2009, [123 Stat. 2514][/us/stat/123/2514], as amended by [Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1202, Jan. 2, 2013, [126 Stat. 1980][/us/stat/126/1980]; [Pub. L. 114–92, div. A, title XII][/us/pl/114/92/dA/tXII], § 1204, Nov. 25, 2015, [129 Stat. 1039][/us/stat/129/1039], provided that:
 
 >     “(a) __Authority To Enter Into Non-reciprocal International Exchange Agreements.—__ 
 
@@ -293,7 +293,7 @@
 
  __Limitation on Military-to-Military Exchanges and Contacts With Chinese People’s Liberation Army__ 
 
-[Pub. L. 106–65, div. A, title XII, § 1201][/us/pl/106/65/s1201], Oct. 5, 1999, [113 Stat. 779][/us/stat/113/779], as amended by [Pub. L. 111–84, div. A, title XII, § 1246(d)][/us/pl/111/84/s1246/d], Oct. 28, 2009, [123 Stat. 2545][/us/stat/123/2545]; [Pub. L. 112–81, div. A, title X, § 1066(e)(2)][/us/pl/112/81/s1066/e/2], Dec. 31, 2011, [125 Stat. 1589][/us/stat/125/1589], provided that:
+[Pub. L. 106–65, div. A, title XII][/us/pl/106/65/dA/tXII], § 1201, Oct. 5, 1999, [113 Stat. 779][/us/stat/113/779], as amended by [Pub. L. 111–84, div. A, title XII][/us/pl/111/84/dA/tXII], § 1246(d), Oct. 28, 2009, [123 Stat. 2545][/us/stat/123/2545]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1066(e)(2), Dec. 31, 2011, [125 Stat. 1589][/us/stat/125/1589], provided that:
 
 >     “(a)  __Limitation__  __.—__ 
 
@@ -333,7 +333,7 @@
 
  __Agreements for Exchange of Defense Personnel Between United States and Foreign Countries__ 
 
-[Pub. L. 104–201, div. A, title X, § 1082][/us/pl/104/201/s1082], Sept. 23, 1996, [110 Stat. 2672][/us/stat/110/2672], provided that:
+[Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1082, Sept. 23, 1996, [110 Stat. 2672][/us/stat/110/2672], provided that:
 
 >     “(a)  __Authority To Enter Into International Exchange Agreements__  __.—__ 
 
@@ -392,13 +392,13 @@
 [/us/usc/t10/s115/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs115%2Fa%2F1
 [/us/usc/t10/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs517
 [/us/usc/t10/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs523
-[/us/pl/103/337/s1316/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1316%2Fa%2F1
+[/us/pl/103/337/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXIII
 [/us/stat/108/2898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2898
-[/us/pl/104/106/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs416
+[/us/pl/104/106/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIV
 [/us/stat/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F289
-[/us/pl/108/375/s416/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs416%2Fe
+[/us/pl/108/375/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIV
 [/us/stat/118/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1868
-[/us/pl/110/181/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1201
+[/us/pl/110/181/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXII
 [/us/stat/122/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F363
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4622
@@ -415,38 +415,38 @@
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4622
 [/us/usc/t10/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs168
-[/us/pl/113/291/s1047/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1047%2Fb
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3495
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/stat/125/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1599
 [/us/usc/t10/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs168
-[/us/pl/113/66/s1094/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1094%2Fa%2F2
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F878
 [/us/pl/112/81/s1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1081
-[/us/pl/112/81/s1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1081
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1599
-[/us/pl/113/66/s1094/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1094%2Fa%2F1
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F878
-[/us/pl/113/291/s1047/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1047%2Fa
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3494
-[/us/pl/114/92/s1055/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1055%2Fa
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F982
-[/us/pl/113/66/s1094/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1094%2Fa%2F3
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F878
 [/us/pl/112/81/s1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1081
-[/us/pl/111/84/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1207
+[/us/pl/111/84/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXII
 [/us/stat/123/2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2514
-[/us/pl/112/239/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1202
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1980
-[/us/pl/114/92/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1204
+[/us/pl/114/92/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXII
 [/us/stat/129/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1039
-[/us/pl/106/65/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1201
+[/us/pl/106/65/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtXII
 [/us/stat/113/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F779
-[/us/pl/111/84/s1246/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1246%2Fd
+[/us/pl/111/84/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXII
 [/us/stat/123/2545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2545
-[/us/pl/112/81/s1066/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1066%2Fe%2F2
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1589
-[/us/pl/104/201/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1082
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2672
 
 

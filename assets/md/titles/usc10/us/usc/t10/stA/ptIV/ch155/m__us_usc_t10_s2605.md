@@ -45,7 +45,7 @@
 
         (2) An elementary or secondary school established pursuant to [section 2164 of this title][/us/usc/t10/s2164].
 
-(Added [Pub. L. 99–661, div. A, title III, § 314(a)][/us/pl/99/661/s314/a], Nov. 14, 1986, [100 Stat. 3853][/us/stat/100/3853]; amended [Pub. L. 103–337, div. A, title III, § 353(a)][/us/pl/103/337/s353/a]–(c)(1), Oct. 5, 1994, [108 Stat. 2731][/us/stat/108/2731].)
+(Added [Pub. L. 99–661, div. A, title III][/us/pl/99/661/dA/tIII], § 314(a), Nov. 14, 1986, [100 Stat. 3853][/us/stat/100/3853]; amended [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 353(a)–(c)(1), Oct. 5, 1994, [108 Stat. 2731][/us/stat/108/2731].)
 
  __References in Text__ 
 
@@ -53,13 +53,13 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–337, § 353(c)(1)][/us/pl/103/337/s353/c/1], substituted “schools” for “education system” in section catchline.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 353(c)(1), substituted “schools” for “education system” in section catchline.
 
-    Subsec. (a). [Pub. L. 103–337, § 353(a)(1)][/us/pl/103/337/s353/a/1], substituted “a defense dependents’ school” for “the defense dependents’ education system provided for under the Defense Dependents’ Education Act of 1978 ([20 U.S.C. 921][/us/usc/t20/s921] et seq.)”.
+    Subsec. (a). [Pub. L. 103–337][/us/pl/103/337], § 353(a)(1), substituted “a defense dependents’ school” for “the defense dependents’ education system provided for under the Defense Dependents’ Education Act of 1978 ([20 U.S.C. 921][/us/usc/t20/s921] et seq.)”.
 
-    Subsec. (b). [Pub. L. 103–337, § 353(a)(2)][/us/pl/103/337/s353/a/2], substituted “defense dependents’ schools” for “the defense dependent’s education system”.
+    Subsec. (b). [Pub. L. 103–337][/us/pl/103/337], § 353(a)(2), substituted “defense dependents’ schools” for “the defense dependent’s education system”.
 
-    Subsec. (g). [Pub. L. 103–337, § 353(b)][/us/pl/103/337/s353/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 103–337][/us/pl/103/337], § 353(b), added subsec. (g).
 
 ----------
 
@@ -71,17 +71,17 @@
 [/us/usc/t10/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2601
 [/us/usc/t20/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs921
 [/us/usc/t10/s2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2164
-[/us/pl/99/661/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs314%2Fa
+[/us/pl/99/661/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIII
 [/us/stat/100/3853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3853
-[/us/pl/103/337/s353/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs353%2Fa
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2731
 [/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
 [/us/stat/92/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2365
 [/us/usc/t20/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs921
-[/us/pl/103/337/s353/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs353%2Fc%2F1
-[/us/pl/103/337/s353/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs353%2Fa%2F1
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t20/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs921
-[/us/pl/103/337/s353/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs353%2Fa%2F2
-[/us/pl/103/337/s353/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs353%2Fb
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 
 

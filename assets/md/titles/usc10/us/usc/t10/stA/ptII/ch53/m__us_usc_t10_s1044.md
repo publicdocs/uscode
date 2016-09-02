@@ -53,7 +53,7 @@
 
     (e) The Secretary concerned shall define “dependent” for the purposes of this section.
 
-(Added [Pub. L. 98–525, title VI, § 651(a)][/us/pl/98/525/s651/a], Oct. 19, 1984, [98 Stat. 2549][/us/stat/98/2549]; amended [Pub. L. 104–201, div. A, title V, § 583][/us/pl/104/201/s583], Sept. 23, 1996, [110 Stat. 2538][/us/stat/110/2538]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 524(a), (b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–108; [Pub. L. 109–163, div. A, title V, § 555][/us/pl/109/163/s555], Jan. 6, 2006, [119 Stat. 3265][/us/stat/119/3265]; [Pub. L. 110–181, div. A, title V, § 541][/us/pl/110/181/s541], Jan. 28, 2008, [122 Stat. 114][/us/stat/122/114]; [Pub. L. 111–84, div. A, title V, § 513][/us/pl/111/84/s513], Oct. 28, 2009, [123 Stat. 2282][/us/stat/123/2282]; [Pub. L. 112–239, div. A, title V, § 531(d)(2)][/us/pl/112/239/s531/d/2], Jan. 2, 2013, [126 Stat. 1726][/us/stat/126/1726]; [Pub. L. 113–66, div. A, title XVII, § 1716(a)(3)(A)][/us/pl/113/66/s1716/a/3/A], (B), Dec. 26, 2013, [127 Stat. 969][/us/stat/127/969]; [Pub. L. 113–291, div. A, title X, § 1071(f)(12)][/us/pl/113/291/s1071/f/12], Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510]; [Pub. L. 114–92, div. A, title V, § 535(c)][/us/pl/114/92/s535/c], Nov. 25, 2015, [129 Stat. 816][/us/stat/129/816].)
+(Added [Pub. L. 98–525, title VI][/us/pl/98/525/tVI], § 651(a), Oct. 19, 1984, [98 Stat. 2549][/us/stat/98/2549]; amended [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 583, Sept. 23, 1996, [110 Stat. 2538][/us/stat/110/2538]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 524(a), (b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–108; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 555, Jan. 6, 2006, [119 Stat. 3265][/us/stat/119/3265]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 541, Jan. 28, 2008, [122 Stat. 114][/us/stat/122/114]; [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 513, Oct. 28, 2009, [123 Stat. 2282][/us/stat/123/2282]; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 531(d)(2), Jan. 2, 2013, [126 Stat. 1726][/us/stat/126/1726]; [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1716(a)(3)(A), (B), Dec. 26, 2013, [127 Stat. 969][/us/stat/127/969]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(f)(12), Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 535(c), Nov. 25, 2015, [129 Stat. 816][/us/stat/129/816].)
 
  __Amendments__ 
 
@@ -63,9 +63,9 @@
 
     2013—Subsec. (b). [Pub. L. 112–239][/us/pl/112/239] inserted “, and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps,” after “jurisdiction of the Secretary”.
 
-    Subsec. (d)(2). [Pub. L. 113–66, § 1716(a)(3)(A)][/us/pl/113/66/s1716/a/3/A], inserted before period at end “and, for purposes of service as a Special Victims’ Counsel under [section 1044e of this title][/us/usc/t10/s1044e], meets the additional qualifications specified in subsection (d)(2) of such section.”
+    Subsec. (d)(2). [Pub. L. 113–66][/us/pl/113/66], § 1716(a)(3)(A), inserted before period at end “and, for purposes of service as a Special Victims’ Counsel under [section 1044e of this title][/us/usc/t10/s1044e], meets the additional qualifications specified in subsection (d)(2) of such section.”
 
-    Subsec. (d)(3)(B). [Pub. L. 113–66, § 1716(a)(3)(B)][/us/pl/113/66/s1716/a/3/B], substituted “1044d, 1044e, and 1565b(a)(1)(A)” for “and 1044d”.
+    Subsec. (d)(3)(B). [Pub. L. 113–66][/us/pl/113/66], § 1716(a)(3)(B), substituted “1044d, 1044e, and 1565b(a)(1)(A)” for “and 1044d”.
 
     2009—Subsec. (a)(4). [Pub. L. 111–84][/us/pl/111/84] substituted “the Secretary), for a period of time (prescribed by the Secretary)” for “the Secretary of Defense), for a period of time, prescribed by the Secretary of Defense,”.
 
@@ -73,25 +73,25 @@
 
     2006—Subsecs. (d), (e). [Pub. L. 109–163][/us/pl/109/163] added subsec. (d) and redesignated former subsec. (d) as (e).
 
-    2000—Subsec. (a)(4). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 524(a)(2)\], added par. (4). Former par. (4) redesignated (5).
+    2000—Subsec. (a)(4). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 524(a)(2)\], added par. (4). Former par. (4) redesignated (5).
 
-    Subsec. (a)(5). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 524(b)\], substituted “(3), and (4)” for “and (3)”.
+    Subsec. (a)(5). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 524(b)\], substituted “(3), and (4)” for “and (3)”.
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 524(a)(1)\], redesignated par. (4) as (5).
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 524(a)(1)\], redesignated par. (4) as (5).
 
-    1996—Subsec. (a). [Pub. L. 104–201, § 583(d)(1)][/us/pl/104/201/s583/d/1], substituted “to the following persons:” for “to—” in introductory provisions.
+    1996—Subsec. (a). [Pub. L. 104–201][/us/pl/104/201], § 583(d)(1), substituted “to the following persons:” for “to—” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 104–201, § 583(c)][/us/pl/104/201/s583/c], (d)(2), (3), substituted “Members” for “members”, struck out “under his jurisdiction” after “armed forces”, and substituted a period for the semicolon at end.
+    Subsec. (a)(1). [Pub. L. 104–201][/us/pl/104/201], § 583(c), (d)(2), (3), substituted “Members” for “members”, struck out “under his jurisdiction” after “armed forces”, and substituted a period for the semicolon at end.
 
-    Subsec. (a)(2). [Pub. L. 104–201, § 583(c)][/us/pl/104/201/s583/c], (d)(2), (4), substituted “Members and” for “members and”, struck out “under his jurisdiction” after “former members”, and substituted a period for “; and” at end.
+    Subsec. (a)(2). [Pub. L. 104–201][/us/pl/104/201], § 583(c), (d)(2), (4), substituted “Members and” for “members and”, struck out “under his jurisdiction” after “former members”, and substituted a period for “; and” at end.
 
-    Subsec. (a)(3), (4). [Pub. L. 104–201, § 583(a)][/us/pl/104/201/s583/a], added pars. (3) and (4) and struck out former par. (3) which read as follows: “dependents of members and former members described in clauses (1) and (2).”
+    Subsec. (a)(3), (4). [Pub. L. 104–201][/us/pl/104/201], § 583(a), added pars. (3) and (4) and struck out former par. (3) which read as follows: “dependents of members and former members described in clauses (1) and (2).”
 
-    Subsec. (c). [Pub. L. 104–201, § 583(b)][/us/pl/104/201/s583/b], substituted “uniformed services described in subsection (a)” for “armed forces” and inserted “such” after “dependent of”.
+    Subsec. (c). [Pub. L. 104–201][/us/pl/104/201], § 583(b), substituted “uniformed services described in subsection (a)” for “armed forces” and inserted “such” after “dependent of”.
 
  __Regulations__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 524(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–108, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 524(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–108, provided that: 
 
 > “Regulations to implement the amendments made by this section \[amending this section\] shall be prescribed not later than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\].”
 
@@ -104,44 +104,44 @@
 
 [/us/usc/t10/s801/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801%2F1
 [/us/usc/t10/s1044e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044e
-[/us/pl/98/525/s651/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs651%2Fa
+[/us/pl/98/525/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVI
 [/us/stat/98/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2549
-[/us/pl/104/201/s583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs583
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2538
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/109/163/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs555
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3265
-[/us/pl/110/181/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs541
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F114
-[/us/pl/111/84/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs513
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2282
-[/us/pl/112/239/s531/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs531%2Fd%2F2
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1726
-[/us/pl/113/66/s1716/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1716%2Fa%2F3%2FA
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F969
-[/us/pl/113/291/s1071/f/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F12
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3510
-[/us/pl/114/92/s535/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs535%2Fc
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F816
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/113/66/s1716/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1716%2Fa%2F3%2FA
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t10/s1044e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044e
-[/us/pl/113/66/s1716/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1716%2Fa%2F3%2FB
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/104/201/s583/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs583%2Fd%2F1
-[/us/pl/104/201/s583/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs583%2Fc
-[/us/pl/104/201/s583/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs583%2Fc
-[/us/pl/104/201/s583/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs583%2Fa
-[/us/pl/104/201/s583/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs583%2Fb
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

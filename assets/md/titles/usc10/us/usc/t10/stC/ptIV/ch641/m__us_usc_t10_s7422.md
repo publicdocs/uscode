@@ -57,7 +57,7 @@
 
             (C) if neither House of Congress within ninety days after receipt of such report and certification adopts a resolution disapproving further production from such naval petroleum reserve.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 458][/us/stat/70A/458]; [Pub. L. 87–599, § 1][/us/pl/87/599/s1], Aug. 24, 1962, [76 Stat. 401][/us/stat/76/401]; [Pub. L. 87–796, § 1(2)][/us/pl/87/796/s1/2], Oct. 11, 1962, [76 Stat. 904][/us/stat/76/904]; [Pub. L. 94–258, title II, § 201(3)][/us/pl/94/258/s201/3], Apr. 5, 1976, [90 Stat. 307][/us/stat/90/307]; [Pub. L. 96–137, § 3(a)][/us/pl/96/137/s3/a], Dec. 12, 1979, [93 Stat. 1061][/us/stat/93/1061]; [Pub. L. 96–513, title V, § 513(31)][/us/pl/96/513/s513/31], Dec. 12, 1980, [94 Stat. 2933][/us/stat/94/2933]; [Pub. L. 98–525, title XIV, § 1405(51)][/us/pl/98/525/s1405/51], Oct. 19, 1984, [98 Stat. 2625][/us/stat/98/2625]; [Pub. L. 99–413, § 1(a)][/us/pl/99/413/s1/a], Aug. 29, 1986, [100 Stat. 944][/us/stat/100/944]; [Pub. L. 100–202, § 101(g)][/us/pl/100/202/s101/g] \[title II, § 201\], Dec. 22, 1987, [101 Stat. 1329–213][/us/stat/101/1329-213], 1329–242; [Pub. L. 101–189, div. A, title XVI, § 1622(f)(2)][/us/pl/101/189/s1622/f/2], Nov. 29, 1989, [103 Stat. 1605][/us/stat/103/1605]; [Pub. L. 107–217, § 3(b)(30)][/us/pl/107/217/s3/b/30], Aug. 21, 2002, [116 Stat. 1297][/us/stat/116/1297]; [Pub. L. 108–178, § 4(b)(6)][/us/pl/108/178/s4/b/6], Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 458][/us/stat/70A/458]; [Pub. L. 87–599][/us/pl/87/599], § 1, Aug. 24, 1962, [76 Stat. 401][/us/stat/76/401]; [Pub. L. 87–796][/us/pl/87/796], § 1(2), Oct. 11, 1962, [76 Stat. 904][/us/stat/76/904]; [Pub. L. 94–258, title II][/us/pl/94/258/tII], § 201(3), Apr. 5, 1976, [90 Stat. 307][/us/stat/90/307]; [Pub. L. 96–137][/us/pl/96/137], § 3(a), Dec. 12, 1979, [93 Stat. 1061][/us/stat/93/1061]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(31), Dec. 12, 1980, [94 Stat. 2933][/us/stat/94/2933]; [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(51), Oct. 19, 1984, [98 Stat. 2625][/us/stat/98/2625]; [Pub. L. 99–413][/us/pl/99/413], § 1(a), Aug. 29, 1986, [100 Stat. 944][/us/stat/100/944]; [Pub. L. 100–202][/us/pl/100/202], § 101(g) \[title II, § 201\], Dec. 22, 1987, [101 Stat. 1329–213][/us/stat/101/1329-213], 1329–242; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1622(f)(2), Nov. 29, 1989, [103 Stat. 1605][/us/stat/103/1605]; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(30), Aug. 21, 2002, [116 Stat. 1297][/us/stat/116/1297]; [Pub. L. 108–178][/us/pl/108/178], § 4(b)(6), Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641].)
 
 <table>
 
@@ -113,17 +113,17 @@ June 4, 1920, ch. 228 (1st par., 37th through 62d words, and 123d through 185th 
 
     1987—Subsec. (c)(1)(B)(ii). [Pub. L. 100–202][/us/pl/100/202] inserted “(other than natural gas liquids)” after “petroleum”.
 
-    1986—Subsec. (c)(1)(B). [Pub. L. 99–413, § 1(a)(1)][/us/pl/99/413/s1/a/1], added subpar. (B) and struck out former subpar. (B) which read as follows: “to produce such reserves at the maximum efficient rate consistent with sound engineering practices for a period ending not later than April 5, 1982;”.
+    1986—Subsec. (c)(1)(B). [Pub. L. 99–413][/us/pl/99/413], § 1(a)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “to produce such reserves at the maximum efficient rate consistent with sound engineering practices for a period ending not later than April 5, 1982;”.
 
-    Subsec. (c)(3). [Pub. L. 99–413, § 1(a)(2)][/us/pl/99/413/s1/a/2], struck out par. (3) which conditioned the production authorization for Naval Petroleum Reserve Numbered 1 upon private owners’ agreements with the Secretary to continue operations of such reserve under a unitized plan contract that protected the public interest.
+    Subsec. (c)(3). [Pub. L. 99–413][/us/pl/99/413], § 1(a)(2), struck out par. (3) which conditioned the production authorization for Naval Petroleum Reserve Numbered 1 upon private owners’ agreements with the Secretary to continue operations of such reserve under a unitized plan contract that protected the public interest.
 
     1984—Subsec. (b). [Pub. L. 98–525][/us/pl/98/525] struck out “of this section” after “subsection (c)” in provisions preceding par. (1).
 
-    1980—Subsec. (c)(1). [Pub. L. 96–513, § 513(31)(A)][/us/pl/96/513/s513/31/A]–(D), in cl. (B) substituted provisions respecting termination on April 5, 1982, for provisions respecting commencement and termination, respectively, ninety days after date of enactment of the Naval Petroleum Reserves Production Act of 1976, and not to exceed six years after such date, in cl. (C) substituted “provided in [section 7430 of this title][/us/usc/t10/s7430]” for “hereinafter provided”, and in text following cl. (D) substituted “discrimination” for “discrimiation”, and “([40 U.S.C. 258a–258e][/us/usc/t40/s258a–258e])” for “, chapter 307 ([46 Stat. 1421][/us/stat/46/1421]; [40 U.S.C. 258(a)][/us/usc/t40/s258/a])”.
+    1980—Subsec. (c)(1). [Pub. L. 96–513][/us/pl/96/513], § 513(31)(A)–(D), in cl. (B) substituted provisions respecting termination on April 5, 1982, for provisions respecting commencement and termination, respectively, ninety days after date of enactment of the Naval Petroleum Reserves Production Act of 1976, and not to exceed six years after such date, in cl. (C) substituted “provided in [section 7430 of this title][/us/usc/t10/s7430]” for “hereinafter provided”, and in text following cl. (D) substituted “discrimination” for “discrimiation”, and “([40 U.S.C. 258a–258e][/us/usc/t40/s258a–258e])” for “, chapter 307 ([46 Stat. 1421][/us/stat/46/1421]; [40 U.S.C. 258(a)][/us/usc/t40/s258/a])”.
 
-    Subsec. (c)(2). [Pub. L. 96–513, § 513(31)(E)][/us/pl/96/513/s513/31/E], substituted “After April 5, 1982,” for “At the conclusion of the six-year production period authorized by paragraph (1)(B) of this subsection”.
+    Subsec. (c)(2). [Pub. L. 96–513][/us/pl/96/513], § 513(31)(E), substituted “After April 5, 1982,” for “At the conclusion of the six-year production period authorized by paragraph (1)(B) of this subsection”.
 
-    Subsec. (c)(3). [Pub. L. 96–513, § 513(31)(F)][/us/pl/96/513/s513/31/F], substituted “by July 4, 1976” for “within ninety days after the date of enactment of the Naval Petroleum Reserves Production Act of 1976”.
+    Subsec. (c)(3). [Pub. L. 96–513][/us/pl/96/513], § 513(31)(F), substituted “by July 4, 1976” for “within ninety days after the date of enactment of the Naval Petroleum Reserves Production Act of 1976”.
 
     1979—Subsec. (c)(1). [Pub. L. 96–137][/us/pl/96/137] struck out in text following subpar. (D), provision requiring that pipelines and associated facilities constructed at or procured for Naval Petroleum Reserve Numbered 1 pursuant to this subsection have adequate capacity to accommodate not less than three hundred fifty thousand barrels of oil per day and be fully operable as soon as possible, but not later than three years after the date of enactment of the Naval Petroleum Reserves Production Act of 1976.
 
@@ -149,13 +149,13 @@ June 4, 1920, ch. 228 (1st par., 37th through 62d words, and 123d through 185th 
 
  __Availability of Revenues From Sale of Natural Gas for Use in Gas Protection Activity__ 
 
-[Pub. L. 101–512, title II][/us/pl/101/512], Nov. 5, 1990, [104 Stat. 1947][/us/stat/104/1947], provided in part: 
+[Pub. L. 101–512, title II][/us/pl/101/512/tII], Nov. 5, 1990, [104 Stat. 1947][/us/stat/104/1947], provided in part: 
 
 > “That, notwithstanding any other provision of law, revenues received from the sale of natural gas after the date of enactment of this Act \[Nov. 5, 1990\] from wells drilled or communitized in fiscal year 1990 and thereafter as part of gas protection activity at the Naval Oil Shale Reserves shall be deposited in this account, to remain available until expended, for use in further gas protection activity”.
 
  __Connections to Pipeline in South Barrow Gas Field__ 
 
-[Pub. L. 87–599, § 3][/us/pl/87/599/s3], Aug. 24, 1962, [76 Stat. 401][/us/stat/76/401], provided that: 
+[Pub. L. 87–599][/us/pl/87/599], § 3, Aug. 24, 1962, [76 Stat. 401][/us/stat/76/401], provided that: 
 
 > “The Federal agency or agencies in control of any pipeline between gas wells in the South Barrow gas field and the town of Barrow may authorize purchasers of the gas or carriers of the gas to install connections to such pipeline.”
 
@@ -170,43 +170,43 @@ June 4, 1920, ch. 228 (1st par., 37th through 62d words, and 123d through 185th 
 [/us/usc/t10/s7430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7430
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F458
-[/us/pl/87/599/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F599%2Fs1
+[/us/pl/87/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F599
 [/us/stat/76/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F401
-[/us/pl/87/796/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F796%2Fs1%2F2
+[/us/pl/87/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F796
 [/us/stat/76/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F904
-[/us/pl/94/258/s201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2Fs201%2F3
+[/us/pl/94/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2FtII
 [/us/stat/90/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F307
-[/us/pl/96/137/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F137%2Fs3%2Fa
+[/us/pl/96/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F137
 [/us/stat/93/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1061
-[/us/pl/96/513/s513/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F31
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2933
-[/us/pl/98/525/s1405/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F51
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2625
-[/us/pl/99/413/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F413%2Fs1%2Fa
+[/us/pl/99/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F413
 [/us/stat/100/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F944
-[/us/pl/100/202/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fg
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-213
-[/us/pl/101/189/s1622/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Ff%2F2
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1605
-[/us/pl/107/217/s3/b/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F30
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1297
-[/us/pl/108/178/s4/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs4%2Fb%2F6
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/stat/117/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2641
 [/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s258a–258e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs258a%E2%80%93258e
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
-[/us/pl/99/413/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F413%2Fs1%2Fa%2F1
-[/us/pl/99/413/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F413%2Fs1%2Fa%2F2
+[/us/pl/99/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F413
+[/us/pl/99/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F413
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
-[/us/pl/96/513/s513/31/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F31%2FA
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/usc/t10/s7430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7430
 [/us/usc/t40/s258a–258e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs258a%E2%80%93258e
 [/us/stat/46/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1421
 [/us/usc/t40/s258/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs258%2Fa
-[/us/pl/96/513/s513/31/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F31%2FE
-[/us/pl/96/513/s513/31/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F31%2FF
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F137
 [/us/pl/94/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258
 [/us/pl/94/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258
@@ -221,9 +221,9 @@ June 4, 1920, ch. 228 (1st par., 37th through 62d words, and 123d through 185th 
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2FtII
 [/us/stat/104/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1947
-[/us/pl/87/599/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F599%2Fs3
+[/us/pl/87/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F599
 [/us/stat/76/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F401
 
 

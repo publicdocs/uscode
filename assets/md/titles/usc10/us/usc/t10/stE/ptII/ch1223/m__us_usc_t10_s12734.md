@@ -19,7 +19,7 @@
 
     (b) Time spent after retirement (without pay) for failure to conform to standards and qualifications prescribed under [section 12641 of this title][/us/usc/t10/s12641] may not be credited in a computation of years of service under this chapter.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 104][/us/stat/70A/104], § 1334; [Pub. L. 87–651, title I, § 108][/us/pl/87/651/s108], Sept. 7, 1962, [76 Stat. 509][/us/stat/76/509]; renumbered § 12734 and amended [Pub. L. 103–337, div. A, title XVI, § 1662(j)(1)][/us/pl/103/337/s1662/j/1], Oct. 5, 1994, [108 Stat. 2998][/us/stat/108/2998], 3003.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 104][/us/stat/70A/104], § 1334; [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 108, Sept. 7, 1962, [76 Stat. 509][/us/stat/76/509]; renumbered § 12734 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(j)(1), Oct. 5, 1994, [108 Stat. 2998][/us/stat/108/2998], 3003.)
 
 <table>
 
@@ -157,9 +157,9 @@ Subsection (a) is substituted for 10:1036c (1st 17 words of last sentence, as ap
 [/us/usc/t10/s12641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12641
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F104
-[/us/pl/87/651/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs108
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F509
-[/us/pl/103/337/s1662/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fj%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2998
 [/us/usc/t10/s1334/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1334%2Fb
 [/us/stat/62/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1089

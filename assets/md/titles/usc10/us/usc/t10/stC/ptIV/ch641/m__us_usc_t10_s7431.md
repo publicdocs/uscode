@@ -35,7 +35,7 @@
 
         (2) All plans or substantial amendments submitted to the Congress pursuant to this section shall contain a report by the Attorney General of the United States with respect to the anticipated effects of such plans or amendments on competition. Such plans or amendments shall not be implemented until sixty days after such plans or amendments have been submitted to such committees.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 460][/us/stat/70A/460]; [Pub. L. 87–796, § 1(7)][/us/pl/87/796/s1/7], Oct. 11, 1962, [76 Stat. 905][/us/stat/76/905]; [Pub. L. 94–258, title II, § 201(12)][/us/pl/94/258/s201/12], Apr. 5, 1976, [90 Stat. 311][/us/stat/90/311]; [Pub. L. 98–525, title XIV, § 1405(52)][/us/pl/98/525/s1405/52], Oct. 19, 1984, [98 Stat. 2625][/us/stat/98/2625]; [Pub. L. 99–145, title XIII, § 1303(a)(25)][/us/pl/99/145/s1303/a/25], Nov. 8, 1985, [99 Stat. 740][/us/stat/99/740]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(2)][/us/pl/104/106/s1502/a/2], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 114–92, div. A, title X, § 1073(b)][/us/pl/114/92/s1073/b], Nov. 25, 2015, [129 Stat. 995][/us/stat/129/995].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 460][/us/stat/70A/460]; [Pub. L. 87–796][/us/pl/87/796], § 1(7), Oct. 11, 1962, [76 Stat. 905][/us/stat/76/905]; [Pub. L. 94–258, title II][/us/pl/94/258/tII], § 201(12), Apr. 5, 1976, [90 Stat. 311][/us/stat/90/311]; [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(52), Oct. 19, 1984, [98 Stat. 2625][/us/stat/98/2625]; [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1303(a)(25), Nov. 8, 1985, [99 Stat. 740][/us/stat/99/740]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1502(a)(2), Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1073(b), Nov. 25, 2015, [129 Stat. 995][/us/stat/129/995].)
 
 <table>
 
@@ -99,7 +99,7 @@ June 4, 1920, ch. 228 (4th par., 1st proviso, of amended 3d and 4th provisos), 4
 
  __Contract for Studies of Potential Transfer Out of Federal Control of Facilities and Functions at Elk Hills and Teapot Dome; Restrictions__ 
 
-    [Pub. L. 101–45, title I, § 501][/us/pl/101/45/s501], June 30, 1989, [103 Stat. 103][/us/stat/103/103], provided that no funds appropriated or made available under [Pub. L. 101–45][/us/pl/101/45] or any other Act were to be used by the executive branch to contract with organizations outside Department of Energy to perform studies of potential transfer out of Federal ownership, management or control by sale, lease, or other disposition, in whole or in part, of facilities and functions of Naval Petroleum Reserve Numbered 1 (Elk Hills) and Naval Petroleum Reserve Numbered 3 (Teapot Dome), and prohibited negotiation of changes to unit plan contract with Chevron which governed operation of Elk Hills, where purpose of changes was to prepare for divestiture of the Reserve, prior to repeal by [Pub. L. 104–134, title I, § 101(c)][/us/pl/104/134/s101/c] \[title II\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–187; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
+    [Pub. L. 101–45, title I][/us/pl/101/45/tI], § 501, June 30, 1989, [103 Stat. 103][/us/stat/103/103], provided that no funds appropriated or made available under [Pub. L. 101–45][/us/pl/101/45] or any other Act were to be used by the executive branch to contract with organizations outside Department of Energy to perform studies of potential transfer out of Federal ownership, management or control by sale, lease, or other disposition, in whole or in part, of facilities and functions of Naval Petroleum Reserve Numbered 1 (Elk Hills) and Naval Petroleum Reserve Numbered 3 (Teapot Dome), and prohibited negotiation of changes to unit plan contract with Chevron which governed operation of Elk Hills, where purpose of changes was to prepare for divestiture of the Reserve, prior to repeal by [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(c) \[title II\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–187; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
 
 ----------
 
@@ -111,19 +111,19 @@ June 4, 1920, ch. 228 (4th par., 1st proviso, of amended 3d and 4th provisos), 4
 [/us/usc/t10/s7422/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7422%2Fc
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F460
-[/us/pl/87/796/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F796%2Fs1%2F7
+[/us/pl/87/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F796
 [/us/stat/76/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F905
-[/us/pl/94/258/s201/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2Fs201%2F12
+[/us/pl/94/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2FtII
 [/us/stat/90/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F311
-[/us/pl/98/525/s1405/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F52
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2625
-[/us/pl/99/145/s1303/a/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1303%2Fa%2F25
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F740
-[/us/pl/104/106/s1502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F2
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F502
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/114/92/s1073/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1073%2Fb
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F995
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
@@ -132,12 +132,12 @@ June 4, 1920, ch. 228 (4th par., 1st proviso, of amended 3d and 4th provisos), 4
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/94/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258
 [/us/pl/87/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F796
-[/us/pl/101/45/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F45%2Fs501
+[/us/pl/101/45/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F45%2FtI
 [/us/stat/103/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F103
 [/us/pl/101/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F45
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-156
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 
 

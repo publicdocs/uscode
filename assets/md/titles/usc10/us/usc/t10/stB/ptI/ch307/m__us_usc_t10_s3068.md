@@ -39,7 +39,7 @@
 
         (E) other sections considered necessary by the Secretary of the Army.
 
-(Added [Pub. L. 89–603, § 1(1)][/us/pl/89/603/s1/1], Sept. 24, 1966, [80 Stat. 846][/us/stat/80/846]; amended [Pub. L. 97–295, § 1(37)][/us/pl/97/295/s1/37], Oct. 12, 1982, [96 Stat. 1296][/us/stat/96/1296]; [Pub. L. 111–383, div. A, title V, § 594][/us/pl/111/383/s594], Jan. 7, 2011, [124 Stat. 4234][/us/stat/124/4234].)
+(Added [Pub. L. 89–603][/us/pl/89/603], § 1(1), Sept. 24, 1966, [80 Stat. 846][/us/stat/80/846]; amended [Pub. L. 97–295][/us/pl/97/295], § 1(37), Oct. 12, 1982, [96 Stat. 1296][/us/stat/96/1296]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 594, Jan. 7, 2011, [124 Stat. 4234][/us/stat/124/4234].)
 
 <table>
 
@@ -115,15 +115,15 @@ Aug. 4, 1947, ch. 459, §§ 101 (less 2d sentence), 102(a), (b), 61 Stat. 734,
 
  __Prior Provisions__ 
 
-    A prior section 3068, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 168][/us/stat/70A/168]; Sept. 7, 1962, [Pub. L. 87–649, § 6(a)(1)][/us/pl/87/649/s6/a/1], [76 Stat. 494][/us/stat/76/494], contained substantially the same provisions as the present section but placed the upper limit for the rank of officers of the Medical Service Corps at colonel, prior to repeal by [Pub. L. 89–603][/us/pl/89/603].
+    A prior section 3068, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 168][/us/stat/70A/168]; Sept. 7, 1962, [Pub. L. 87–649][/us/pl/87/649], § 6(a)(1), [76 Stat. 494][/us/stat/76/494], contained substantially the same provisions as the present section but placed the upper limit for the rank of officers of the Medical Service Corps at colonel, prior to repeal by [Pub. L. 89–603][/us/pl/89/603].
 
  __Amendments__ 
 
-    2011—Par. (5)(A). [Pub. L. 111–383, § 594(1)][/us/pl/111/383/s594/1], substituted “Administrative Health Services” for “Pharmacy, Supply, and Administration”.
+    2011—Par. (5)(A). [Pub. L. 111–383][/us/pl/111/383], § 594(1), substituted “Administrative Health Services” for “Pharmacy, Supply, and Administration”.
 
-    Par. (5)(C). [Pub. L. 111–383, § 594(2)][/us/pl/111/383/s594/2], substituted “Preventive Medicine Sciences” for “Sanitary Engineering”.
+    Par. (5)(C). [Pub. L. 111–383][/us/pl/111/383], § 594(2), substituted “Preventive Medicine Sciences” for “Sanitary Engineering”.
 
-    Par. (5)(D). [Pub. L. 111–383, § 594(3)][/us/pl/111/383/s594/3], substituted “Clinical Health Sciences” for “Optometry”.
+    Par. (5)(D). [Pub. L. 111–383][/us/pl/111/383], § 594(3), substituted “Clinical Health Sciences” for “Optometry”.
 
     1982—Par. (5). [Pub. L. 97–295][/us/pl/97/295] redesignated cls. (a), (b), (c), (d), and (e) as subpars. (A), (B), (C), (D), and (E), respectively.
 
@@ -134,22 +134,22 @@ Aug. 4, 1947, ch. 459, §§ 101 (less 2d sentence), 102(a), (b), 61 Stat. 734,
 ----------
 ----------
 
-[/us/pl/89/603/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F603%2Fs1%2F1
+[/us/pl/89/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F603
 [/us/stat/80/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F846
-[/us/pl/97/295/s1/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F37
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1296
-[/us/pl/111/383/s594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs594
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4234
 [/us/usc/t10/s3067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3067
 [/us/usc/t10/s3012/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3012%2Fe
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F168
-[/us/pl/87/649/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs6%2Fa%2F1
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F494
 [/us/pl/89/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F603
-[/us/pl/111/383/s594/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs594%2F1
-[/us/pl/111/383/s594/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs594%2F2
-[/us/pl/111/383/s594/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs594%2F3
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 
 

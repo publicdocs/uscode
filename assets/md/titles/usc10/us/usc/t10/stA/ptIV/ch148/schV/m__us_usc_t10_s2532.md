@@ -45,7 +45,7 @@
 
         (2) The term “foreign firm” means a business entity other than a United States firm.
 
-(Added [Pub. L. 100–456, div. A, title VIII, § 825(b)][/us/pl/100/456/s825/b], Sept. 29, 1988, [102 Stat. 2020][/us/stat/102/2020], § 2505; renumbered § 2532, [Pub. L. 102–484, div. D, title XLII, § 4202(a)][/us/pl/102/484/s4202/a], Oct. 23, 1992, [106 Stat. 2659][/us/stat/106/2659].)
+(Added [Pub. L. 100–456, div. A, title VIII][/us/pl/100/456/dA/tVIII], § 825(b), Sept. 29, 1988, [102 Stat. 2020][/us/stat/102/2020], § 2505; renumbered § 2532, [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4202(a), Oct. 23, 1992, [106 Stat. 2659][/us/stat/106/2659].)
 
  __Amendments__ 
 
@@ -53,11 +53,11 @@
 
  __Review of Offset Arrangements by Secretary of Defense__ 
 
-    [Pub. L. 108–87, title VIII, § 8138][/us/pl/108/87/s8138], Sept. 30, 2003, [117 Stat. 1106][/us/stat/117/1106], directed the Secretary of Defense to review contractual offset arrangements to which the policy established under this section applied, memoranda of understanding and related agreements to which the limitation in [section 2531(c) of this title][/us/usc/t10/s2531/c] applied that had been entered into with a country with respect to which such contractual offset arrangements had been entered into, and waivers granted with respect to a foreign country under [section 2534(d)(3) of this title][/us/usc/t10/s2534/d/3]; determine the effects of the use of such arrangements, memoranda of understanding, agreements, and waivers on the national technology and industrial base; and submit a report on the results of the review to Congress not later than Mar. 1, 2005.
+    [Pub. L. 108–87, title VIII][/us/pl/108/87/tVIII], § 8138, Sept. 30, 2003, [117 Stat. 1106][/us/stat/117/1106], directed the Secretary of Defense to review contractual offset arrangements to which the policy established under this section applied, memoranda of understanding and related agreements to which the limitation in [section 2531(c) of this title][/us/usc/t10/s2531/c] applied that had been entered into with a country with respect to which such contractual offset arrangements had been entered into, and waivers granted with respect to a foreign country under [section 2534(d)(3) of this title][/us/usc/t10/s2534/d/3]; determine the effects of the use of such arrangements, memoranda of understanding, agreements, and waivers on the national technology and industrial base; and submit a report on the results of the review to Congress not later than Mar. 1, 2005.
 
  __Contractual Offset Arrangements; Congressional Statement of Findings__ 
 
-[Pub. L. 100–456, div. A, title VIII, § 825(a)][/us/pl/100/456/s825/a], Sept. 29, 1988, [102 Stat. 2019][/us/stat/102/2019], provided that: 
+[Pub. L. 100–456, div. A, title VIII][/us/pl/100/456/dA/tVIII], § 825(a), Sept. 29, 1988, [102 Stat. 2019][/us/stat/102/2019], provided that: 
 
 > “Congress makes the following findings:
 
@@ -85,7 +85,7 @@
 
  __Negotiations With Countries Requiring Offset Arrangements__ 
 
-[Section 825(c) of Pub. L. 100–456][/us/pl/100/456/s825/c], as amended by [Pub. L. 101–189, div. A, title VIII, § 816][/us/pl/101/189/s816], Nov. 29, 1989, [103 Stat. 1501][/us/stat/103/1501], provided that:
+[Section 825(c) of Pub. L. 100–456][/us/pl/100/456/s825/c], as amended by [Pub. L. 101–189, div. A, title VIII][/us/pl/101/189/dA/tVIII], § 816, Nov. 29, 1989, [103 Stat. 1501][/us/stat/103/1501], provided that:
 
 >     “(1) The President shall enter into negotiations with foreign countries that have a policy of requiring an offset arrangement in connection with the purchase of defense equipment or supplies from the United States. The negotiations should be conducted with a view to achieving an agreement with the countries concerned that would limit the adverse effects that such arrangements have on the defense industrial base of each such country. Every effort shall be made to achieve such agreements within two years after September 29, 1988.
 
@@ -95,7 +95,7 @@
 
  __Report to Congress on Offset Arrangements Required by Foreign Countries and Firms; Discussion of Policy Options__ 
 
-    [Pub. L. 100–456, div. A, title VIII, § 825(d)][/us/pl/100/456/s825/d], Sept. 29, 1988, [102 Stat. 2021][/us/stat/102/2021], provided that, not later than Nov. 15, 1988, the President was to submit to Congress a comprehensive report on contractual offset arrangements required of United States firms for the supply of weapon systems or defense-related items to foreign countries or foreign firms, and, not later than Mar. 15, 1990, the President was to transmit to Congress a report containing a discussion of appropriate actions to be taken by the United States with respect to purchases from United States firms by a foreign country (or a firm of that country) when that country or firm required an offset arrangement in connection with the purchase of defense equipment or supplies in favor of such country.
+    [Pub. L. 100–456, div. A, title VIII][/us/pl/100/456/dA/tVIII], § 825(d), Sept. 29, 1988, [102 Stat. 2021][/us/stat/102/2021], provided that, not later than Nov. 15, 1988, the President was to submit to Congress a comprehensive report on contractual offset arrangements required of United States firms for the supply of weapon systems or defense-related items to foreign countries or foreign firms, and, not later than Mar. 15, 1990, the President was to transmit to Congress a report containing a discussion of appropriate actions to be taken by the United States with respect to purchases from United States firms by a foreign country (or a firm of that country) when that country or firm required an offset arrangement in connection with the purchase of defense equipment or supplies in favor of such country.
 
 ----------
 
@@ -104,24 +104,24 @@
 ----------
 ----------
 
-[/us/pl/100/456/s825/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs825%2Fb
+[/us/pl/100/456/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVIII
 [/us/stat/102/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2020
-[/us/pl/102/484/s4202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4202%2Fa
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2659
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t10/s2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2505
-[/us/pl/108/87/s8138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F87%2Fs8138
+[/us/pl/108/87/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F87%2FtVIII
 [/us/stat/117/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1106
 [/us/usc/t10/s2531/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2531%2Fc
 [/us/usc/t10/s2534/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2534%2Fd%2F3
-[/us/pl/100/456/s825/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs825%2Fa
+[/us/pl/100/456/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVIII
 [/us/stat/102/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2019
 [/us/pl/100/456/s825/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs825%2Fc
-[/us/pl/101/189/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs816
+[/us/pl/101/189/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVIII
 [/us/stat/103/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1501
 [/us/pl/100/456/s825/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs825%2Fc
 [/us/usc/t19/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2901
-[/us/pl/100/456/s825/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs825%2Fd
+[/us/pl/100/456/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVIII
 [/us/stat/102/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2021
 
 

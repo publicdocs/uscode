@@ -73,29 +73,29 @@
 
     This section does not apply to the Coast Guard.
 
-(Added [Pub. L. 103–337, div. A, title V, § 554(a)(1)][/us/pl/103/337/s554/a/1], Oct. 5, 1994, [108 Stat. 2773][/us/stat/108/2773], § 451; renumbered § 481 and amended [Pub. L. 104–201, div. A, title V, § 571(c)(1)][/us/pl/104/201/s571/c/1], title XI, § 1121(a), Sept. 23, 1996, [110 Stat. 2532][/us/stat/110/2532], 2687; [Pub. L. 107–314, div. A, title V, § 561(a)(1)][/us/pl/107/314/s561/a/1], Dec. 2, 2002, [116 Stat. 2553][/us/stat/116/2553]; [Pub. L. 112–239, div. A, title V, § 570][/us/pl/112/239/s570], Jan. 2, 2013, [126 Stat. 1752][/us/stat/126/1752].)
+(Added [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 554(a)(1), Oct. 5, 1994, [108 Stat. 2773][/us/stat/108/2773], § 451; renumbered § 481 and amended [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 571(c)(1), title XI, § 1121(a), Sept. 23, 1996, [110 Stat. 2532][/us/stat/110/2532], 2687; [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 561(a)(1), Dec. 2, 2002, [116 Stat. 2553][/us/stat/116/2553]; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 570, Jan. 2, 2013, [126 Stat. 1752][/us/stat/126/1752].)
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1). [Pub. L. 112–239, § 570(b)(1)][/us/pl/112/239/s570/b/1], substituted “four surveys” for “four quadrennial surveys (each in a separate year)”.
+    2013—Subsec. (a)(1). [Pub. L. 112–239][/us/pl/112/239], § 570(b)(1), substituted “four surveys” for “four quadrennial surveys (each in a separate year)”.
 
-    Subsec. (c). [Pub. L. 112–239, § 570(a)(1)][/us/pl/112/239/s570/a/1], substituted “harassment, assault, and discrimination” for “harassment and discrimination” in introductory provisions.
+    Subsec. (c). [Pub. L. 112–239][/us/pl/112/239], § 570(a)(1), substituted “harassment, assault, and discrimination” for “harassment and discrimination” in introductory provisions.
 
-    Subsec. (c)(2) to (4). [Pub. L. 112–239, § 570(a)(2)][/us/pl/112/239/s570/a/2]–(4), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “discrimination, harassment, and assault” for “discrimination” in par. (4).
+    Subsec. (c)(2) to (4). [Pub. L. 112–239][/us/pl/112/239], § 570(a)(2)–(4), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “discrimination, harassment, and assault” for “discrimination” in par. (4).
 
-    Subsec. (c)(5). [Pub. L. 112–239, § 570(a)(5)][/us/pl/112/239/s570/a/5], added par. (5).
+    Subsec. (c)(5). [Pub. L. 112–239][/us/pl/112/239], § 570(a)(5), added par. (5).
 
-    Subsec. (d). [Pub. L. 112–239, § 570(b)(2)][/us/pl/112/239/s570/b/2], added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Each of the four quadrennial surveys conducted under this section shall be conducted in a different year from any other survey conducted under this section, so that one such survey is conducted during each year.”
+    Subsec. (d). [Pub. L. 112–239][/us/pl/112/239], § 570(b)(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Each of the four quadrennial surveys conducted under this section shall be conducted in a different year from any other survey conducted under this section, so that one such survey is conducted during each year.”
 
     2002—[Pub. L. 107–314][/us/pl/107/314] substituted “Racial and ethnic issues; gender issues: surveys” for “Race relations, gender discrimination, and hate group activity: annual survey and report” as section catchline and amended text generally, substituting provisions requiring four quadrennial surveys and report for provisions requiring an annual survey and report.
 
-    1996—[Pub. L. 104–201, § 1121(a)][/us/pl/104/201/s1121/a], renumbered [section 451 of this title][/us/usc/t10/s451] as this section.
+    1996—[Pub. L. 104–201][/us/pl/104/201], § 1121(a), renumbered [section 451 of this title][/us/usc/t10/s451] as this section.
 
-    [Pub. L. 104–201, § 571(c)(1)][/us/pl/104/201/s571/c/1], substituted “Race relations, gender discrimination, and hate group activity: annual survey and report” for “Racial and ethnic issues; biennial survey; biennial report” as section catchline and amended text generally, substituting provisions requiring an annual survey and report for provisions requiring a biennial survey and report.
+    [Pub. L. 104–201][/us/pl/104/201], § 571(c)(1), substituted “Race relations, gender discrimination, and hate group activity: annual survey and report” for “Racial and ethnic issues; biennial survey; biennial report” as section catchline and amended text generally, substituting provisions requiring an annual survey and report for provisions requiring a biennial survey and report.
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–314, div. A, title V, § 561(b)][/us/pl/107/314/s561/b], Dec. 2, 2002, [116 Stat. 2554][/us/stat/116/2554], provided that: 
+[Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 561(b), Dec. 2, 2002, [116 Stat. 2554][/us/stat/116/2554], provided that: 
 
 > “The first survey under [section 481 of title 10][/us/usc/t10/s481], United States Code, as amended by subsection (a)(1), shall be carried out during 2003.”
 
@@ -105,7 +105,7 @@
 
  __Annual Report on Status of Female Members of the Armed Forces__ 
 
-[Pub. L. 107–314, div. A, title V, § 562][/us/pl/107/314/s562], Dec. 2, 2002, [116 Stat. 2554][/us/stat/116/2554], provided that:
+[Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 562, Dec. 2, 2002, [116 Stat. 2554][/us/stat/116/2554], provided that:
 
 >     “(a)  __Requirement for Report__  __.—__ 
 
@@ -157,7 +157,7 @@
 
  __First Report Required Under Subsection (c)__ 
 
-    [Pub. L. 103–337, div. A, title V, § 554(b)][/us/pl/103/337/s554/b], Oct. 5, 1994, [108 Stat. 2773][/us/stat/108/2773], required Secretary of Defense to submit first report under former subsec. (c) of this section not later than May 1, 1995.
+    [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 554(b), Oct. 5, 1994, [108 Stat. 2773][/us/stat/108/2773], required Secretary of Defense to submit first report under former subsec. (c) of this section not later than May 1, 1995.
 
 ----------
 
@@ -166,30 +166,30 @@
 ----------
 ----------
 
-[/us/pl/103/337/s554/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs554%2Fa%2F1
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2773
-[/us/pl/104/201/s571/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs571%2Fc%2F1
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2532
-[/us/pl/107/314/s561/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs561%2Fa%2F1
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2553
-[/us/pl/112/239/s570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs570
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1752
-[/us/pl/112/239/s570/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs570%2Fb%2F1
-[/us/pl/112/239/s570/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs570%2Fa%2F1
-[/us/pl/112/239/s570/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs570%2Fa%2F2
-[/us/pl/112/239/s570/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs570%2Fa%2F5
-[/us/pl/112/239/s570/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs570%2Fb%2F2
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
-[/us/pl/104/201/s1121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1121%2Fa
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t10/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs451
-[/us/pl/104/201/s571/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs571%2Fc%2F1
-[/us/pl/107/314/s561/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs561%2Fb
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2554
 [/us/usc/t10/s481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs481
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/314/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs562
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2554
-[/us/pl/103/337/s554/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs554%2Fb
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2773
 
 

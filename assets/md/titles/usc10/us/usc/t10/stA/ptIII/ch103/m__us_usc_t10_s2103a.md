@@ -37,7 +37,7 @@
 
     A member of the program who is a minor may enter into a contract under subsection (a)(1) only with the consent of the member’s parent or guardian.
 
-(Added [Pub. L. 108–136, div. A, title V, § 523(b)(1)][/us/pl/108/136/s523/b/1], Nov. 24, 2003, [117 Stat. 1464][/us/stat/117/1464]; amended [Pub. L. 108–375, div. A, title V, § 525][/us/pl/108/375/s525], Oct. 28, 2004, [118 Stat. 1889][/us/stat/118/1889]; [Pub. L. 109–364, div. A, title X, § 1071(a)(10)][/us/pl/109/364/s1071/a/10], Oct. 17, 2006, [120 Stat. 2398][/us/stat/120/2398].)
+(Added [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 523(b)(1), Nov. 24, 2003, [117 Stat. 1464][/us/stat/117/1464]; amended [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 525, Oct. 28, 2004, [118 Stat. 1889][/us/stat/118/1889]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(10), Oct. 17, 2006, [120 Stat. 2398][/us/stat/120/2398].)
 
  __Amendments__ 
 
@@ -47,7 +47,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 108–136, div. A, title V, § 523(c)][/us/pl/108/136/s523/c], Nov. 24, 2003, [117 Stat. 1464][/us/stat/117/1464], provided that: 
+[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 523(c), Nov. 24, 2003, [117 Stat. 1464][/us/stat/117/1464], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[enacting this section and amending [section 209 of Title 37][/us/usc/t37/s209], Pay and Allowances of the Uniformed Services\] shall take effect on January 1, 2004.”
 
@@ -61,15 +61,15 @@
 [/us/usc/t10/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2104
 [/us/usc/t10/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2107
 [/us/usc/t37/s209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs209%2Fc
-[/us/pl/108/136/s523/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs523%2Fb%2F1
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1464
-[/us/pl/108/375/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs525
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1889
-[/us/pl/109/364/s1071/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F10
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2398
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/108/136/s523/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs523%2Fc
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1464
 [/us/usc/t37/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs209
 

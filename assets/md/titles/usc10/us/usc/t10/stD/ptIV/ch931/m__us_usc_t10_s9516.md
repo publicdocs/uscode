@@ -43,7 +43,7 @@
 
     In this section, “CRAF-eligible aircraft” means aircraft of a type the Secretary of Defense has determined to be eligible to participate in the civil reserve air fleet.
 
-(Added [Pub. L. 113–291, div. A, title X, § 1042(a)][/us/pl/113/291/s1042/a], Dec. 19, 2014, [128 Stat. 3492][/us/stat/128/3492].)
+(Added [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1042(a), Dec. 19, 2014, [128 Stat. 3492][/us/stat/128/3492].)
 
 ----------
 
@@ -55,7 +55,7 @@
 [/us/usc/t49/s41102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41102
 [/us/usc/t49/s41102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41102
 [/us/usc/t49/s41102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41102
-[/us/pl/113/291/s1042/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1042%2Fa
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3492
 
 

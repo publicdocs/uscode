@@ -35,7 +35,7 @@
 
     (c) Unless otherwise entitled to higher pay, each member transferred to the retired list or the Retired Reserve under this section is entitled to retired pay at the same rate as the retainer pay to which he was entitled at the time of his transfer to the retired list or the Retired Reserve.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 397][/us/stat/70A/397]; [Pub. L. 85–583, § 1][/us/pl/85/583/s1](4–6), Aug. 1, 1958, [72 Stat. 480][/us/stat/72/480]; [Pub. L. 109–163, div. A, title V, § 515(b)(1)(K)][/us/pl/109/163/s515/b/1/K], Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 397][/us/stat/70A/397]; [Pub. L. 85–583][/us/pl/85/583], § 1(4–6), Aug. 1, 1958, [72 Stat. 480][/us/stat/72/480]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(K), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
 
 <table>
 
@@ -123,11 +123,11 @@ July 9, 1952, ch. 608, § 803 (3d sentence), 66 Stat. 505.  </td>
 
     2006—Subsec. (a)(2). [Pub. L. 109–163][/us/pl/109/163] substituted “Navy Reserve” for “Naval Reserve”.
 
-    1958—Subsec. (a). [Pub. L. 85–583, § 1(4)][/us/pl/85/583/s1/4], provided for the transfer to the appropriate Retired Reserve of those members of the Fleet Reserve or the Fleet Marine Corps Reserve who had transferred thereto from the Naval Reserve or the Marine Corps Reserve.
+    1958—Subsec. (a). [Pub. L. 85–583][/us/pl/85/583], § 1(4), provided for the transfer to the appropriate Retired Reserve of those members of the Fleet Reserve or the Fleet Marine Corps Reserve who had transferred thereto from the Naval Reserve or the Marine Corps Reserve.
 
-    Subsec. (b). [Pub. L. 85–583, § 1(5)][/us/pl/85/583/s1/5], struck out “of clause (2)”.
+    Subsec. (b). [Pub. L. 85–583][/us/pl/85/583], § 1(5), struck out “of clause (2)”.
 
-    Subsec. (c). [Pub. L. 85–583, § 1(6)][/us/pl/85/583/s1/6], inserted “or the Retired Reserve” after “retired list” wherever appearing.
+    Subsec. (c). [Pub. L. 85–583][/us/pl/85/583], § 1(6), inserted “or the Retired Reserve” after “retired list” wherever appearing.
 
 ----------
 
@@ -139,9 +139,9 @@ July 9, 1952, ch. 608, § 803 (3d sentence), 66 Stat. 505.  </td>
 [/us/usc/t10/s6485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6485
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F397
-[/us/pl/85/583/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F583%2Fs1
+[/us/pl/85/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F583
 [/us/stat/72/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F480
-[/us/pl/109/163/s515/b/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FK
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3233
 [/us/usc/t34/s854c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs854c
 [/us/usc/t34/s854e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs854e
@@ -151,8 +151,8 @@ July 9, 1952, ch. 608, § 803 (3d sentence), 66 Stat. 505.  </td>
 [/us/usc/t34/s854e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs854e
 [/us/stat/56/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F369
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/85/583/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F583%2Fs1%2F4
-[/us/pl/85/583/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F583%2Fs1%2F5
-[/us/pl/85/583/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F583%2Fs1%2F6
+[/us/pl/85/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F583
+[/us/pl/85/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F583
+[/us/pl/85/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F583
 
 

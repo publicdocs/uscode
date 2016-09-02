@@ -51,7 +51,7 @@
 
                 (ii) has no known next of kin.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 115][/us/stat/70A/115]; [Pub. L. 113–291, div. A, title V, § 594][/us/pl/113/291/s594], Dec. 19, 2014, [128 Stat. 3395][/us/stat/128/3395].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 115][/us/stat/70A/115]; [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 594, Dec. 19, 2014, [128 Stat. 3395][/us/stat/128/3395].)
 
 <table>
 
@@ -113,7 +113,7 @@ July 15, 1954, ch. 507, § 10 (as applicable to armed forces), 68 Stat. 480.  
 [/us/usc/t10/s4721/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4721%2Fb
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F115
-[/us/pl/113/291/s594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs594
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3395
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 

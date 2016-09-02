@@ -73,11 +73,11 @@
 
         (3) This subsection does not apply to a construction project, land acquisition, or defense access road project described in paragraph (2) whose cost is less than or equal to the threshold amount specified in [section 2805(b) of this title][/us/usc/t10/s2805/b].
 
-(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 154][/us/stat/96/154]; amended [Pub. L. 110–181, div. B, title XXVIII, § 2802(a)][/us/pl/110/181/s2802/a], Jan. 28, 2008, [122 Stat. 539][/us/stat/122/539]; [Pub. L. 110–417, div. B, title XXVIII, § 2801(b)][/us/pl/110/417/s2801/b], Oct. 14, 2008, [122 Stat. 4719][/us/stat/122/4719]; [Pub. L. 113–66, div. B, title XXVIII, § 2807(c)][/us/pl/113/66/s2807/c], Dec. 26, 2013, [127 Stat. 1012][/us/stat/127/1012]; [Pub. L. 113–291, div. B, title XXVIII][/us/pl/113/291], §§ 2801, 2803(b), Dec. 19, 2014, [128 Stat. 3695][/us/stat/128/3695], 3697.)
+(Added [Pub. L. 97–214][/us/pl/97/214], § 2(a), July 12, 1982, [96 Stat. 154][/us/stat/96/154]; amended [Pub. L. 110–181, div. B, title XXVIII][/us/pl/110/181/dB/tXXVIII], § 2802(a), Jan. 28, 2008, [122 Stat. 539][/us/stat/122/539]; [Pub. L. 110–417, div. B, title XXVIII][/us/pl/110/417/dB/tXXVIII], § 2801(b), Oct. 14, 2008, [122 Stat. 4719][/us/stat/122/4719]; [Pub. L. 113–66, div. B, title XXVIII][/us/pl/113/66/dB/tXXVIII], § 2807(c), Dec. 26, 2013, [127 Stat. 1012][/us/stat/127/1012]; [Pub. L. 113–291, div. B, title XXVIII][/us/pl/113/291/dB/tXXVIII], §§ 2801, 2803(b), Dec. 19, 2014, [128 Stat. 3695][/us/stat/128/3695], 3697.)
 
  __Amendment of Subsection (d)__ 
 
-[Pub. L. 113–291, div. B, title XXVIII, § 2803(b)][/us/pl/113/291/s2803/b], (d), Dec. 19, 2014, [128 Stat. 3697][/us/stat/128/3697], provided that, effective on the later of Sept. 30, 2016, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2017, subsection (d) of this section is amended as follows:
+[Pub. L. 113–291, div. B, title XXVIII][/us/pl/113/291/dB/tXXVIII], § 2803(b), (d), Dec. 19, 2014, [128 Stat. 3697][/us/stat/128/3697], provided that, effective on the later of Sept. 30, 2016, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2017, subsection (d) of this section is amended as follows:
 
     (1) in paragraph (1), by striking “payment-in-kind contributions” and inserting “payments-in-kind or in-kind contributions”;
 
@@ -95,13 +95,13 @@
 
  __Amendments__ 
 
-    2014—Subsec. (d)(1). [Pub. L. 113–291, § 2803(b)(1)][/us/pl/113/291/s2803/b/1], substituted “payments-in-kind or in-kind contributions” for “payment-in-kind contributions”.
+    2014—Subsec. (d)(1). [Pub. L. 113–291][/us/pl/113/291], § 2803(b)(1), substituted “payments-in-kind or in-kind contributions” for “payment-in-kind contributions”.
 
-    Subsec. (d)(3). [Pub. L. 113–291, § 2803(b)(2)][/us/pl/113/291/s2803/b/2], added par. (3) and struck out former par. (3) which described certain military construction projects to which subsec. (d) did not apply.
+    Subsec. (d)(3). [Pub. L. 113–291][/us/pl/113/291], § 2803(b)(2), added par. (3) and struck out former par. (3) which described certain military construction projects to which subsec. (d) did not apply.
 
-    Subsec. (d)(4). [Pub. L. 113–291, § 2803(b)(3)][/us/pl/113/291/s2803/b/3], substituted “paragraph (3), by reference to [section 2687a(f)(4)(D) of this title][/us/usc/t10/s2687a/f/4/D],” for “paragraph (3)(C)”.
+    Subsec. (d)(4). [Pub. L. 113–291][/us/pl/113/291], § 2803(b)(3), substituted “paragraph (3), by reference to [section 2687a(f)(4)(D) of this title][/us/usc/t10/s2687a/f/4/D],” for “paragraph (3)(C)”.
 
-    Subsec. (e). [Pub. L. 113–291, § 2801][/us/pl/113/291/s2801], added subsec. (e).
+    Subsec. (e). [Pub. L. 113–291][/us/pl/113/291], § 2801, added subsec. (e).
 
     2013—Subsec. (d). [Pub. L. 113–66][/us/pl/113/66] added subsec. (d).
 
@@ -119,7 +119,7 @@
 
  __Requirements Related to Providing World Class Military Medical Centers__ 
 
-[Pub. L. 111–383, div. B, title XXVIII, § 2852][/us/pl/111/383/s2852], Jan. 7, 2011, [124 Stat. 4475][/us/stat/124/4475], provided that:
+[Pub. L. 111–383, div. B, title XXVIII][/us/pl/111/383/dB/tXXVIII], § 2852, Jan. 7, 2011, [124 Stat. 4475][/us/stat/124/4475], provided that:
 
 >     “(a)  __Unified Construction Standard for Military Construction and Repairs to Military Medical Centers__  __.—__ 
 
@@ -227,7 +227,7 @@
 
  __Damage to Aviation Facilities Caused by Alkali Silica Reactivity__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 389\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–89, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 389\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–89, provided that:
 
 >     “(a)  __Assessment of Damage and Prevention and Mitigation Technology__  __.—__ 
 
@@ -261,7 +261,7 @@
 
  __Reports Relating to Military Construction for Facilities Supporting New Weapon Systems__ 
 
-    [Pub. L. 102–190, div. B, title XXVIII, § 2868][/us/pl/102/190/s2868], Dec. 5, 1991, [105 Stat. 1562][/us/stat/105/1562], as amended by [Pub. L. 108–136, div. A, title X, § 1031(c)(2)][/us/pl/108/136/s1031/c/2], Nov. 24, 2003, [117 Stat. 1604][/us/stat/117/1604], which required the Secretary of Defense to submit to Congress a report relating to the permanent basing of a new weapon system not later than 30 days after selecting a site or sites for such permanent basing, was repealed by [Pub. L. 112–81, div. A, title X, § 1062(m)][/us/pl/112/81/s1062/m], Dec. 31, 2011, [125 Stat. 1586][/us/stat/125/1586].
+    [Pub. L. 102–190, div. B, title XXVIII][/us/pl/102/190/dB/tXXVIII], § 2868, Dec. 5, 1991, [105 Stat. 1562][/us/stat/105/1562], as amended by [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(c)(2), Nov. 24, 2003, [117 Stat. 1604][/us/stat/117/1604], which required the Secretary of Defense to submit to Congress a report relating to the permanent basing of a new weapon system not later than 30 days after selecting a site or sites for such permanent basing, was repealed by [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1062(m), Dec. 31, 2011, [125 Stat. 1586][/us/stat/125/1586].
 
 ----------
 
@@ -278,26 +278,26 @@
 [/us/usc/t10/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
 [/us/usc/t10/s2805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805%2Fb
-[/us/pl/97/214/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs2%2Fa
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F154
-[/us/pl/110/181/s2802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2802%2Fa
+[/us/pl/110/181/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdB%2FtXXVIII
 [/us/stat/122/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F539
-[/us/pl/110/417/s2801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs2801%2Fb
+[/us/pl/110/417/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdB%2FtXXVIII
 [/us/stat/122/4719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4719
-[/us/pl/113/66/s2807/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2807%2Fc
+[/us/pl/113/66/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdB%2FtXXVIII
 [/us/stat/127/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1012
-[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXVIII
 [/us/stat/128/3695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3695
-[/us/pl/113/291/s2803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2803%2Fb
+[/us/pl/113/291/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXVIII
 [/us/stat/128/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3697
 [/us/usc/t10/s2687a/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687a%2Ff%2F4
 [/us/usc/t10/s2687a/f/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687a%2Ff%2F4%2FD
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/113/291/s2803/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2803%2Fb%2F1
-[/us/pl/113/291/s2803/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2803%2Fb%2F2
-[/us/pl/113/291/s2803/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2803%2Fb%2F3
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t10/s2687a/f/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687a%2Ff%2F4%2FD
-[/us/pl/113/291/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2801
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t23/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs210
@@ -307,20 +307,20 @@
 [/us/usc/t10/s2687a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687a
 [/us/pl/97/214/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs12%2Fa
 [/us/usc/t10/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2801
-[/us/pl/111/383/s2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2852
+[/us/pl/111/383/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdB%2FtXXVIII
 [/us/stat/124/4475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4475
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/stat/123/2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2656
 [/us/usc/t10/s2674/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2674%2Ff
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4716
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/102/190/s2868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs2868
+[/us/pl/102/190/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdB%2FtXXVIII
 [/us/stat/105/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1562
-[/us/pl/108/136/s1031/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fc%2F2
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1604
-[/us/pl/112/81/s1062/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1062%2Fm
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1586
 
 

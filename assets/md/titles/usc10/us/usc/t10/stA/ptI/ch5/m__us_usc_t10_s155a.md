@@ -63,11 +63,11 @@
 
     The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, shall develop appropriate policy guidance to ensure that, to the maximum extent practicable, the level of representation of reserve component officers on the Joint Staff is commensurate with the significant role of the reserve components within the armed forces.
 
-(Added [Pub. L. 112–239, div. A, title V, § 511(a)][/us/pl/112/239/s511/a], Jan. 2, 2013, [126 Stat. 1717][/us/stat/126/1717].)
+(Added [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 511(a), Jan. 2, 2013, [126 Stat. 1717][/us/stat/126/1717].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [Pub. L. 105–85, div. A, title IX, § 901][/us/pl/105/85/s901], Nov. 18, 1997, [111 Stat. 1853][/us/stat/111/1853], which was set out as a note under [section 155 of this title][/us/usc/t10/s155], prior to repeal by [Pub. L. 112–239, § 511(c)][/us/pl/112/239/s511/c].
+    Provisions similar to those in this section were contained in [Pub. L. 105–85, div. A, title IX][/us/pl/105/85/dA/tIX], § 901, Nov. 18, 1997, [111 Stat. 1853][/us/stat/111/1853], which was set out as a note under [section 155 of this title][/us/usc/t10/s155], prior to repeal by [Pub. L. 112–239][/us/pl/112/239], § 511(c).
 
 ----------
 
@@ -77,11 +77,11 @@
 ----------
 
 [/us/usc/t10/s526/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs526%2Fb
-[/us/pl/112/239/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs511%2Fa
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1717
-[/us/pl/105/85/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs901
+[/us/pl/105/85/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIX
 [/us/stat/111/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1853
 [/us/usc/t10/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs155
-[/us/pl/112/239/s511/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs511%2Fc
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 
 

@@ -47,7 +47,7 @@
 
         (2) the ability of officers of the Air Force who are designated as judge advocates who are assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 495][/us/stat/70A/495], § 8072; [Pub. L. 96–343, § 12(a)][/us/pl/96/343/s12/a], (b)(1), Sept. 8, 1980, [94 Stat. 1130][/us/stat/94/1130], 1131; renumbered § 8037, [Pub. L. 99–433, title V, § 522(f)][/us/pl/99/433/s522/f], Oct. 1, 1986, [100 Stat. 1063][/us/stat/100/1063]; [Pub. L. 103–337, div. A, title V, § 504(c)][/us/pl/103/337/s504/c], Oct. 5, 1994, [108 Stat. 2751][/us/stat/108/2751]; [Pub. L. 104–106, div. A, title V, § 507(a)][/us/pl/104/106/s507/a], Feb. 10, 1996, [110 Stat. 296][/us/stat/110/296]; [Pub. L. 108–375, div. A, title V, § 574(c)][/us/pl/108/375/s574/c], Oct. 28, 2004, [118 Stat. 1922][/us/stat/118/1922]; [Pub. L. 109–163, div. A, title V, § 508(c)][/us/pl/109/163/s508/c], title X, § 1057(a)(2), Jan. 6, 2006, [119 Stat. 3229][/us/stat/119/3229], 3440; [Pub. L. 110–181, div. A, title V, § 543(c)][/us/pl/110/181/s543/c], Jan. 28, 2008, [122 Stat. 115][/us/stat/122/115].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 495][/us/stat/70A/495], § 8072; [Pub. L. 96–343][/us/pl/96/343], § 12(a), (b)(1), Sept. 8, 1980, [94 Stat. 1130][/us/stat/94/1130], 1131; renumbered § 8037, [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 522(f), Oct. 1, 1986, [100 Stat. 1063][/us/stat/100/1063]; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 504(c), Oct. 5, 1994, [108 Stat. 2751][/us/stat/108/2751]; [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 507(a), Feb. 10, 1996, [110 Stat. 296][/us/stat/110/296]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 574(c), Oct. 28, 2004, [118 Stat. 1922][/us/stat/118/1922]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 508(c), title X, § 1057(a)(2), Jan. 6, 2006, [119 Stat. 3229][/us/stat/119/3229], 3440; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 543(c), Jan. 28, 2008, [122 Stat. 115][/us/stat/122/115].)
 
 <table>
 
@@ -139,37 +139,37 @@ June 23, 1874, ch. 458, § 2, 18 Stat. 244.  </td>
 
     In subsection (b), the words “Hereafter” and “exclusive of the present incumbents” are omitted as surplusage. The words “at least” are substituted for the words “not less than a total”.
 
-In subsection (c), the [Act of June 23, 1874, ch. 458, § 2][/us/act/1874-06-23/ch458/s2] (words before semicolon of 1st sentence, and last sentence), [18 Stat. 244][/us/stat/18/244], are not contained in 10:62. They are also omitted from the revised section, since the Air Force does not have organic corps created by statute.
+In subsection (c), the [Act of June 23, 1874, ch. 458][/us/act/1874-06-23/ch458], § 2 (words before semicolon of 1st sentence, and last sentence), [18 Stat. 244][/us/stat/18/244], are not contained in 10:62. They are also omitted from the revised section, since the Air Force does not have organic corps created by statute.
 
  __Amendments__ 
 
     2008—Subsec. (a). [Pub. L. 110–181][/us/pl/110/181] substituted “The Judge Advocate General, while so serving, has the grade of lieutenant general.” for “The Judge Advocate General, while so serving, shall hold a grade not lower than major general.”
 
-    2006—Subsec. (a). [Pub. L. 109–163, § 508(c)][/us/pl/109/163/s508/c], substituted “The Judge Advocate General, while so serving, shall hold a grade not lower than major general.” for “An appointee who holds a lower regular grade shall be appointed in the regular grade of major general.”
+    2006—Subsec. (a). [Pub. L. 109–163][/us/pl/109/163], § 508(c), substituted “The Judge Advocate General, while so serving, shall hold a grade not lower than major general.” for “An appointee who holds a lower regular grade shall be appointed in the regular grade of major general.”
 
-    Subsec. (b). [Pub. L. 109–163, § 1057(a)(2)][/us/pl/109/163/s1057/a/2], struck out “or Territory” after “a State”.
+    Subsec. (b). [Pub. L. 109–163][/us/pl/109/163], § 1057(a)(2), struck out “or Territory” after “a State”.
 
-    2004—Subsec. (a). [Pub. L. 108–375, § 574(c)(1)][/us/pl/108/375/s574/c/1], struck out “, but may be sooner terminated or extended by the President” after “four years”.
+    2004—Subsec. (a). [Pub. L. 108–375][/us/pl/108/375], § 574(c)(1), struck out “, but may be sooner terminated or extended by the President” after “four years”.
 
-    Subsec. (c). [Pub. L. 108–375, § 574(c)(2)(A)][/us/pl/108/375/s574/c/2/A], struck out “shall” after “General” in introductory provisions.
+    Subsec. (c). [Pub. L. 108–375][/us/pl/108/375], § 574(c)(2)(A), struck out “shall” after “General” in introductory provisions.
 
-    Subsec. (c)(1) to (3). [Pub. L. 108–375, § 574(c)(2)(B)][/us/pl/108/375/s574/c/2/B]–(D), added pars. (1) and (2), redesignated former par. (1) as (3), inserted “shall” before “receive”, substituted period for “; and” at end, and struck out former par. (2) which read as follows: “perform such other legal duties as may be directed by the Secretary of the Air Force.”
+    Subsec. (c)(1) to (3). [Pub. L. 108–375][/us/pl/108/375], § 574(c)(2)(B)–(D), added pars. (1) and (2), redesignated former par. (1) as (3), inserted “shall” before “receive”, substituted period for “; and” at end, and struck out former par. (2) which read as follows: “perform such other legal duties as may be directed by the Secretary of the Air Force.”
 
-    Subsec. (d)(1). [Pub. L. 108–375, § 574(c)(3)][/us/pl/108/375/s574/c/3], struck out “, but may be sooner terminated or extended by the President” after “four years”.
+    Subsec. (d)(1). [Pub. L. 108–375][/us/pl/108/375], § 574(c)(3), struck out “, but may be sooner terminated or extended by the President” after “four years”.
 
-    Subsec. (f). [Pub. L. 108–375, § 574(c)(4)][/us/pl/108/375/s574/c/4], added subsec. (f).
+    Subsec. (f). [Pub. L. 108–375][/us/pl/108/375], § 574(c)(4), added subsec. (f).
 
     1996—Subsec. (d)(1). [Pub. L. 104–106][/us/pl/104/106] substituted “four years” for “two years” and “An officer appointed as Deputy Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.” for “An officer appointed as Deputy Judge Advocate General shall be appointed in a regular grade to be determined by the Secretary of Defense.”
 
     1994—Subsec. (e). [Pub. L. 103–337][/us/pl/103/337] added subsec. (e).
 
-    1980—[Pub. L. 96–343, § 12(b)(1)][/us/pl/96/343/s12/b/1], substituted “General, Deputy Judge Advocate General:” for “General:” in section catchline.
+    1980—[Pub. L. 96–343][/us/pl/96/343], § 12(b)(1), substituted “General, Deputy Judge Advocate General:” for “General:” in section catchline.
 
-    Subsec. (d). [Pub. L. 96–343, § 12(a)][/us/pl/96/343/s12/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 96–343][/us/pl/96/343], § 12(a), added subsec. (d).
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–106, div. A, title V, § 507(b)][/us/pl/104/106/s507/b], Feb. 10, 1996, [110 Stat. 296][/us/stat/110/296], provided that: 
+[Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 507(b), Feb. 10, 1996, [110 Stat. 296][/us/stat/110/296], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] apply to any appointment to the position of Deputy Judge Advocate General of the Air Force that is made after the date of the enactment of this Act \[Feb. 10, 1996\].”
 
@@ -182,37 +182,37 @@ In subsection (c), the [Act of June 23, 1874, ch. 458, § 2][/us/act/1874-06-2
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F495
-[/us/pl/96/343/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343%2Fs12%2Fa
+[/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
 [/us/stat/94/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1130
-[/us/pl/99/433/s522/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs522%2Ff
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1063
-[/us/pl/103/337/s504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs504%2Fc
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2751
-[/us/pl/104/106/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs507%2Fa
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F296
-[/us/pl/108/375/s574/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs574%2Fc
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1922
-[/us/pl/109/163/s508/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs508%2Fc
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3229
-[/us/pl/110/181/s543/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs543%2Fc
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F115
 [/us/usc/t50/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs741
 [/us/usc/t10/s8284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8284
-[/us/act/1874-06-23/ch458/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-23%2Fch458%2Fs2
+[/us/act/1874-06-23/ch458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-23%2Fch458
 [/us/stat/18/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F244
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/109/163/s508/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs508%2Fc
-[/us/pl/109/163/s1057/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F2
-[/us/pl/108/375/s574/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs574%2Fc%2F1
-[/us/pl/108/375/s574/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs574%2Fc%2F2%2FA
-[/us/pl/108/375/s574/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs574%2Fc%2F2%2FB
-[/us/pl/108/375/s574/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs574%2Fc%2F3
-[/us/pl/108/375/s574/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs574%2Fc%2F4
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
-[/us/pl/96/343/s12/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343%2Fs12%2Fb%2F1
-[/us/pl/96/343/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343%2Fs12%2Fa
-[/us/pl/104/106/s507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs507%2Fb
+[/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
+[/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F296
 
 

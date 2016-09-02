@@ -53,7 +53,7 @@
 
     Nothing in this section shall be construed to provide any new authority or to alter or otherwise affect the War Powers Resolution ([50 U.S.C. 1541][/us/usc/t50/s1541] et seq.), the Authorization for Use of Military Force ([Public Law 107–40][/us/pl/107/40]; [50 U.S.C. 1541][/us/usc/t50/s1541] note), or any requirement under the National Security Act of 1947 ([50 U.S.C. 3001][/us/usc/t50/s3001] et seq.).
 
-(Added [Pub. L. 113–66, div. A, title X, § 1041(a)(1)][/us/pl/113/66/s1041/a/1], Dec. 26, 2013, [127 Stat. 856][/us/stat/127/856]; amended [Pub. L. 114–92, div. A, title X, § 1043][/us/pl/114/92/s1043], Nov. 25, 2015, [129 Stat. 977][/us/stat/129/977].)
+(Added [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1041(a)(1), Dec. 26, 2013, [127 Stat. 856][/us/stat/127/856]; amended [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1043, Nov. 25, 2015, [129 Stat. 977][/us/stat/129/977].)
 
  __References in Text__ 
 
@@ -69,13 +69,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 113–66, div. A, title X, § 1041(b)][/us/pl/113/66/s1041/b], Dec. 26, 2013, [127 Stat. 857][/us/stat/127/857], provided that: 
+[Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1041(b), Dec. 26, 2013, [127 Stat. 857][/us/stat/127/857], provided that: 
 
 > “[Section 130f of title 10][/us/usc/t10/s130f], United States Code, as added by subsection (a), shall apply with respect to any sensitive military operation (as defined in subsection (d) of such section) executed on or after the date of the enactment of this Act \[Dec. 26, 2013\].”
 
  __Deadline for Submittal of Procedures__ 
 
-[Pub. L. 113–66, div. A, title X, § 1041(c)][/us/pl/113/66/s1041/c], Dec. 26, 2013, [127 Stat. 857][/us/stat/127/857], provided that: 
+[Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1041(c), Dec. 26, 2013, [127 Stat. 857][/us/stat/127/857], provided that: 
 
 > “The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the procedures required under [section 130f(b) of title 10][/us/usc/t10/s130f/b], United States Code, as added by subsection (a), by not later than 60 days after the date of the enactment of this Act \[Dec. 26, 2013\].”
 
@@ -95,9 +95,9 @@
 [/us/pl/107/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F40
 [/us/usc/t50/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1541
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/113/66/s1041/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1041%2Fa%2F1
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F856
-[/us/pl/114/92/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1043
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F977
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
@@ -107,10 +107,10 @@
 [/us/stat/87/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F555
 [/us/usc/t50/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1541
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
-[/us/pl/113/66/s1041/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1041%2Fb
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F857
 [/us/usc/t10/s130f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs130f
-[/us/pl/113/66/s1041/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1041%2Fc
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F857
 [/us/usc/t10/s130f/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs130f%2Fb
 

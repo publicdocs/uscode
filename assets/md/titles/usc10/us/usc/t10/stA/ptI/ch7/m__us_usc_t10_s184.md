@@ -79,15 +79,15 @@
 
     The Director of a Regional Center may enter into agreements with the Secretaries of the military departments, the heads of the Defense Agencies, and, with the concurrence of the Secretary of Defense, the heads of other Federal departments and agencies for the provision of services by that Regional Center under this section. Any such participating department and agency shall transfer to the Regional Center funds to pay the full costs of the services received.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 912(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–228; amended [Pub. L. 107–107, div. A, title X, § 1048(c)(2)][/us/pl/107/107/s1048/c/2], Dec. 28, 2001, [115 Stat. 1226][/us/stat/115/1226]; [Pub. L. 108–136, div. A, title IX, § 931(b)(2)][/us/pl/108/136/s931/b/2], Nov. 24, 2003, [117 Stat. 1581][/us/stat/117/1581]; [Pub. L. 109–163, div. A, title IX, § 903(b)][/us/pl/109/163/s903/b], Jan. 6, 2006, [119 Stat. 3399][/us/stat/119/3399]; [Pub. L. 109–364, div. A, title IX, § 904(a)(1)][/us/pl/109/364/s904/a/1], Oct. 17, 2006, [120 Stat. 2351][/us/stat/120/2351]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 941(a)(1), Oct. 14, 2008, [122 Stat. 4576][/us/stat/122/4576]; [Pub. L. 111–84, div. A, title X, § 1073(a)(3)][/us/pl/111/84/s1073/a/3], Oct. 28, 2009, [123 Stat. 2472][/us/stat/123/2472]; [Pub. L. 112–81, div. A, title X, § 1061(2)][/us/pl/112/81/s1061/2], Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583]; [Pub. L. 112–239, div. B, title XXVIII, § 2854(b)(1)][/us/pl/112/239/s2854/b/1], Jan. 2, 2013, [126 Stat. 2161][/us/stat/126/2161]; [Pub. L. 113–291, div. B, title XXVIII, § 2861(b)(1)][/us/pl/113/291/s2861/b/1], Dec. 19, 2014, [128 Stat. 3715][/us/stat/128/3715].)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 912(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–228; amended [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(c)(2), Dec. 28, 2001, [115 Stat. 1226][/us/stat/115/1226]; [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 931(b)(2), Nov. 24, 2003, [117 Stat. 1581][/us/stat/117/1581]; [Pub. L. 109–163, div. A, title IX][/us/pl/109/163/dA/tIX], § 903(b), Jan. 6, 2006, [119 Stat. 3399][/us/stat/119/3399]; [Pub. L. 109–364, div. A, title IX][/us/pl/109/364/dA/tIX], § 904(a)(1), Oct. 17, 2006, [120 Stat. 2351][/us/stat/120/2351]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 941(a)(1), Oct. 14, 2008, [122 Stat. 4576][/us/stat/122/4576]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(3), Oct. 28, 2009, [123 Stat. 2472][/us/stat/123/2472]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1061(2), Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583]; [Pub. L. 112–239, div. B, title XXVIII][/us/pl/112/239/dB/tXXVIII], § 2854(b)(1), Jan. 2, 2013, [126 Stat. 2161][/us/stat/126/2161]; [Pub. L. 113–291, div. B, title XXVIII][/us/pl/113/291/dB/tXXVIII], § 2861(b)(1), Dec. 19, 2014, [128 Stat. 3715][/us/stat/128/3715].)
 
  __Amendments__ 
 
     2014—Subsec. (b)(2)(B). [Pub. L. 113–291][/us/pl/113/291] substituted “Daniel K. Inouye Asia-Pacific Center for Security Studies” for “Asia-Pacific Center for Security Studies”.
 
-    2013—Subsec. (b)(2)(C). [Pub. L. 112–239, § 2854(b)(1)(A)][/us/pl/112/239/s2854/b/1/A], substituted “The William J. Perry Center for Hemispheric Defense Studies” for “The Center for Hemispheric Defense Studies”.
+    2013—Subsec. (b)(2)(C). [Pub. L. 112–239][/us/pl/112/239], § 2854(b)(1)(A), substituted “The William J. Perry Center for Hemispheric Defense Studies” for “The Center for Hemispheric Defense Studies”.
 
-    Subsec. (f)(5). [Pub. L. 112–239, § 2854(b)(1)(B)][/us/pl/112/239/s2854/b/1/B], substituted “the William J. Perry Center for Hemispheric Defense Studies” for “the Center for Hemispheric Defense Studies”.
+    Subsec. (f)(5). [Pub. L. 112–239][/us/pl/112/239], § 2854(b)(1)(B), substituted “the William J. Perry Center for Hemispheric Defense Studies” for “the Center for Hemispheric Defense Studies”.
 
     2011—Subsec. (h). [Pub. L. 112–81][/us/pl/112/81] struck out subsec. (h) which required the Secretary of Defense to submit an annual report on the operation of the Regional Centers for security studies during the preceding fiscal year.
 
@@ -117,27 +117,27 @@
 
  __Redesignation of the Asia-Pacific Center for Security Studies as the Daniel K. Inouye Asia-Pacific Center for Security Studies__ 
 
-[Pub. L. 113–291, div. B, title XXVIII, § 2861(a)][/us/pl/113/291/s2861/a], Dec. 19, 2014, [128 Stat. 3715][/us/stat/128/3715], provided that: 
+[Pub. L. 113–291, div. B, title XXVIII][/us/pl/113/291/dB/tXXVIII], § 2861(a), Dec. 19, 2014, [128 Stat. 3715][/us/stat/128/3715], provided that: 
 
 > “The Department of Defense regional center for security studies known as the Asia-Pacific Center for Security Studies is hereby renamed the ‘Daniel K. Inouye Asia-Pacific Center for Security Studies’.”
 
-[Pub. L. 113–291, div. B, title XXVIII, § 2861(c)][/us/pl/113/291/s2861/c], Dec. 19, 2014, [128 Stat. 3716][/us/stat/128/3716], provided that: 
+[Pub. L. 113–291, div. B, title XXVIII][/us/pl/113/291/dB/tXXVIII], § 2861(c), Dec. 19, 2014, [128 Stat. 3716][/us/stat/128/3716], provided that: 
 
 > “Any reference to the Department of Defense Asia-Pacific Center for Security Studies in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Daniel K. Inouye Asia-Pacific Center for Security Studies.”
 
  __Redesignation of the Center for Hemispheric Defense Studies as the William J. Perry Center for Hemispheric Defense Studies__ 
 
-[Pub. L. 112–239, div. B, title XXVIII, § 2854(a)][/us/pl/112/239/s2854/a], Jan. 2, 2013, [126 Stat. 2161][/us/stat/126/2161], provided that: 
+[Pub. L. 112–239, div. B, title XXVIII][/us/pl/112/239/dB/tXXVIII], § 2854(a), Jan. 2, 2013, [126 Stat. 2161][/us/stat/126/2161], provided that: 
 
 > “The Department of Defense regional center for security studies known as the Center for Hemispheric Defense Studies is hereby renamed the ‘William J. Perry Center for Hemispheric Defense Studies’ ”.
 
-[Pub. L. 112–239, div. B, title XXVIII, § 2854(c)][/us/pl/112/239/s2854/c], Jan. 2, 2013, [126 Stat. 2162][/us/stat/126/2162], provided that: 
+[Pub. L. 112–239, div. B, title XXVIII][/us/pl/112/239/dB/tXXVIII], § 2854(c), Jan. 2, 2013, [126 Stat. 2162][/us/stat/126/2162], provided that: 
 
 > “Any reference to the Department of Defense Center for Hemispheric Defense Studies in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the William J. Perry Center for Hemispheric Defense Studies.”
 
  __Temporary Waiver of Reimbursement of Costs of Activities for Nongovernmental Personnel__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 941(b), Oct. 14, 2008, [122 Stat. 4577][/us/stat/122/4577], as amended by [Pub. L. 111–383, div. A, title IX, § 941][/us/pl/111/383/s941], Jan. 7, 2011, [124 Stat. 4340][/us/stat/124/4340]; [Pub. L. 112–239, div. A, title IX, § 953][/us/pl/112/239/s953], Jan. 2, 2013, [126 Stat. 1895][/us/stat/126/1895]; [Pub. L. 113–66, div. A, title X, § 1094(b)][/us/pl/113/66/s1094/b], Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878]; [Pub. L. 113–291, div. A, title IX, § 913][/us/pl/113/291/s913], Dec. 19, 2014, [128 Stat. 3474][/us/stat/128/3474], provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 941(b), Oct. 14, 2008, [122 Stat. 4577][/us/stat/122/4577], as amended by [Pub. L. 111–383, div. A, title IX][/us/pl/111/383/dA/tIX], § 941, Jan. 7, 2011, [124 Stat. 4340][/us/stat/124/4340]; [Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 953, Jan. 2, 2013, [126 Stat. 1895][/us/stat/126/1895]; [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1094(b), Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878]; [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 913, Dec. 19, 2014, [128 Stat. 3474][/us/stat/128/3474], provided that:
 
 >     “(1)  __Authority for temporary waiver__  __.—__ 
 
@@ -160,29 +160,29 @@
 
 [/us/usc/t10/s2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2611
 [/us/usc/t10/s1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1050
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s1048/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fc%2F2
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1226
-[/us/pl/108/136/s931/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs931%2Fb%2F2
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1581
-[/us/pl/109/163/s903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs903%2Fb
+[/us/pl/109/163/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIX
 [/us/stat/119/3399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3399
-[/us/pl/109/364/s904/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs904%2Fa%2F1
+[/us/pl/109/364/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIX
 [/us/stat/120/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2351
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4576
-[/us/pl/111/84/s1073/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F3
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2472
-[/us/pl/112/81/s1061/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F2
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1583
-[/us/pl/112/239/s2854/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2854%2Fb%2F1
+[/us/pl/112/239/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdB%2FtXXVIII
 [/us/stat/126/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2161
-[/us/pl/113/291/s2861/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2861%2Fb%2F1
+[/us/pl/113/291/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXVIII
 [/us/stat/128/3715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3715
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
-[/us/pl/112/239/s2854/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2854%2Fb%2F1%2FA
-[/us/pl/112/239/s2854/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2854%2Fb%2F1%2FB
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
@@ -200,23 +200,23 @@
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4576
 [/us/usc/t10/s184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs184
-[/us/pl/113/291/s2861/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2861%2Fa
+[/us/pl/113/291/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXVIII
 [/us/stat/128/3715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3715
-[/us/pl/113/291/s2861/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2861%2Fc
+[/us/pl/113/291/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXVIII
 [/us/stat/128/3716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3716
-[/us/pl/112/239/s2854/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2854%2Fa
+[/us/pl/112/239/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdB%2FtXXVIII
 [/us/stat/126/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2161
-[/us/pl/112/239/s2854/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2854%2Fc
+[/us/pl/112/239/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdB%2FtXXVIII
 [/us/stat/126/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2162
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4577
-[/us/pl/111/383/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs941
+[/us/pl/111/383/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIX
 [/us/stat/124/4340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4340
-[/us/pl/112/239/s953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs953
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
 [/us/stat/126/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1895
-[/us/pl/113/66/s1094/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1094%2Fb
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F878
-[/us/pl/113/291/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs913
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3474
 [/us/usc/t10/s184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs184
 [/us/usc/t10/s184/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs184%2Fh

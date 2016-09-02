@@ -65,7 +65,7 @@
 
     In this section, the terms “major defense acquisition program” and “major system” have the meanings provided in [section 2431a of this title][/us/usc/t10/s2431a].
 
-(Added [Pub. L. 114–92, div. A, title VIII, § 822(a)(1)][/us/pl/114/92/s822/a/1], Nov. 25, 2015, [129 Stat. 900][/us/stat/129/900].)
+(Added [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 822(a)(1), Nov. 25, 2015, [129 Stat. 900][/us/stat/129/900].)
 
 ----------
 
@@ -76,7 +76,7 @@
 
 [/us/usc/t10/s2431a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2431a
 [/us/usc/t10/s2431a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2431a
-[/us/pl/114/92/s822/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs822%2Fa%2F1
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F900
 
 

@@ -63,19 +63,19 @@
 
     Nothing in this section shall be construed or interpreted as preempting any otherwise applicable Federal, State, or local law or regulation relating to the management of natural and cultural resources on military installations.
 
-(Added [Pub. L. 104–201, div. A, title III, § 332(a)(1)][/us/pl/104/201/s332/a/1], Sept. 23, 1996, [110 Stat. 2484][/us/stat/110/2484]; amended [Pub. L. 105–85, div. A, title X, § 1073(a)(59)][/us/pl/105/85/s1073/a/59], Nov. 18, 1997, [111 Stat. 1903][/us/stat/111/1903]; [Pub. L. 112–81, div. B, title XXVIII, § 2814][/us/pl/112/81/s2814], Dec. 31, 2011, [125 Stat. 1688][/us/stat/125/1688].)
+(Added [Pub. L. 104–201, div. A, title III][/us/pl/104/201/dA/tIII], § 332(a)(1), Sept. 23, 1996, [110 Stat. 2484][/us/stat/110/2484]; amended [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(59), Nov. 18, 1997, [111 Stat. 1903][/us/stat/111/1903]; [Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], § 2814, Dec. 31, 2011, [125 Stat. 1688][/us/stat/125/1688].)
 
  __Amendments__ 
 
-    2011—Subsec. (b)(2)(B). [Pub. L. 112–81, § 2814(1)][/us/pl/112/81/s2814/1], inserted “and sustainability” after “safety”.
+    2011—Subsec. (b)(2)(B). [Pub. L. 112–81][/us/pl/112/81], § 2814(1), inserted “and sustainability” after “safety”.
 
-    Subsec. (b)(2)(F). [Pub. L. 112–81, § 2814(2)][/us/pl/112/81/s2814/2], added subpar. (F).
+    Subsec. (b)(2)(F). [Pub. L. 112–81][/us/pl/112/81], § 2814(2), added subpar. (F).
 
     1997—Subsec. (b)(1)(D). [Pub. L. 105–85][/us/pl/105/85] substituted “executive agency” for “executive ageny”.
 
  __Effective Date__ 
 
-[Pub. L. 104–201, div. A, title III, § 332(b)][/us/pl/104/201/s332/b], Sept. 23, 1996, [110 Stat. 2485][/us/stat/110/2485], provided that: 
+[Pub. L. 104–201, div. A, title III][/us/pl/104/201/dA/tIII], § 332(b), Sept. 23, 1996, [110 Stat. 2485][/us/stat/110/2485], provided that: 
 
 > “[Section 2694 of title 10][/us/usc/t10/s2694], United States Code, as added by subsection (a), shall take effect on October 1, 1996.”
 
@@ -86,16 +86,16 @@
 ----------
 ----------
 
-[/us/pl/104/201/s332/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs332%2Fa%2F1
+[/us/pl/104/201/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIII
 [/us/stat/110/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2484
-[/us/pl/105/85/s1073/a/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F59
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1903
-[/us/pl/112/81/s2814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2814
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1688
-[/us/pl/112/81/s2814/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2814%2F1
-[/us/pl/112/81/s2814/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2814%2F2
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/104/201/s332/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs332%2Fb
+[/us/pl/104/201/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIII
 [/us/stat/110/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2485
 [/us/usc/t10/s2694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2694
 

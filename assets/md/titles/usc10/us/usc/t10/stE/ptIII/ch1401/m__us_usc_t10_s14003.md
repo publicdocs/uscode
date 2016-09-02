@@ -23,7 +23,7 @@
 
     An officer whose position on the reserve active-status list results from service under a temporary appointment or in a grade held by reason of assignment to a position has, when that appointment or assignment ends, the grade and position on that list that the officer would have held if the officer had not received that appointment or assignment.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2923][/us/stat/108/2923]; amended [Pub. L. 104–106, div. A, title XV, § 1501(b)(22)][/us/pl/104/106/s1501/b/22], Feb. 10, 1996, [110 Stat. 497][/us/stat/110/497].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2923][/us/stat/108/2923]; amended [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(22), Feb. 10, 1996, [110 Stat. 497][/us/stat/110/497].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2923
-[/us/pl/104/106/s1501/b/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F22
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F497
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106

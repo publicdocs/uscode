@@ -17,7 +17,7 @@
 
     When settling the account of a paymaster of a lost or captured naval vessel, the Comptroller General in settling money accounts, and the Secretary of the Navy in settling property accounts, shall credit the account of the paymaster for the amount of provisions, clothing, small stores, and money for which the paymaster is charged that the Comptroller General or Secretary believes was lost inevitably because of the loss or capture. The paymaster is then free of liability for the provisions, clothing, small stores, and money.
 
-(Added [Pub. L. 97–258, § 2(b)(12)(B)][/us/pl/97/258/s2/b/12/B], Sept. 13, 1982, [96 Stat. 1057][/us/stat/96/1057], § 7861; amended [Pub. L. 97–295, § 1(51)(C)][/us/pl/97/295/s1/51/C], Oct. 12, 1982, [96 Stat. 1300][/us/stat/96/1300]; renumbered § 7862, [Pub. L. 99–433, title V, § 514(b)(1)][/us/pl/99/433/s514/b/1], Oct. 1, 1986, [100 Stat. 1054][/us/stat/100/1054].)
+(Added [Pub. L. 97–258][/us/pl/97/258], § 2(b)(12)(B), Sept. 13, 1982, [96 Stat. 1057][/us/stat/96/1057], § 7861; amended [Pub. L. 97–295][/us/pl/97/295], § 1(51)(C), Oct. 12, 1982, [96 Stat. 1300][/us/stat/96/1300]; renumbered § 7862, [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 514(b)(1), Oct. 1, 1986, [100 Stat. 1054][/us/stat/100/1054].)
 
 <table>
 
@@ -96,11 +96,11 @@ The word “naval” is substituted for “belonging to the Navy of the United S
 ----------
 ----------
 
-[/us/pl/97/258/s2/b/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F12%2FB
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1057
-[/us/pl/97/295/s1/51/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F51%2FC
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1300
-[/us/pl/99/433/s514/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs514%2Fb%2F1
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1054
 [/us/act/1894-03-29/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-03-29%2Fs1
 [/us/stat/28/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F47

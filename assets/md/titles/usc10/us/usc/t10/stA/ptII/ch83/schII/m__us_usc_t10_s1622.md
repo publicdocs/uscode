@@ -33,11 +33,11 @@
 
     (c) An allowance paid under this section shall be treated in the same manner as is provided in subsection (c) of [section 5901 of title 5][/us/usc/t5/s5901] for an allowance paid under that section.
 
-(Added [Pub. L. 100–178, title VI, § 601(a)][/us/pl/100/178/s601/a], Dec. 2, 1987, [101 Stat. 1015][/us/stat/101/1015], § 1606; amended [Pub. L. 101–189, div. A, title III, § 336(b)][/us/pl/101/189/s336/b], Nov. 29, 1989, [103 Stat. 1419][/us/stat/103/1419]; renumbered § 1622, [Pub. L. 104–201, div. A, title XVI, § 1632(a)(2)][/us/pl/104/201/s1632/a/2], Sept. 23, 1996, [110 Stat. 2745][/us/stat/110/2745].)
+(Added [Pub. L. 100–178, title VI][/us/pl/100/178/tVI], § 601(a), Dec. 2, 1987, [101 Stat. 1015][/us/stat/101/1015], § 1606; amended [Pub. L. 101–189, div. A, title III][/us/pl/101/189/dA/tIII], § 336(b), Nov. 29, 1989, [103 Stat. 1419][/us/stat/103/1419]; renumbered § 1622, [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1632(a)(2), Sept. 23, 1996, [110 Stat. 2745][/us/stat/110/2745].)
 
  __Prior Provisions__ 
 
-    A prior section 1622, added [Pub. L. 99–145, title IX, § 924(a)(1)][/us/pl/99/145/s924/a/1], Nov. 8, 1985, [99 Stat. 698][/us/stat/99/698]; amended [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 933\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–161; [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 933\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–161; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 933, Nov. 14, 1986, [100 Stat. 3940][/us/stat/100/3940], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 101–189, div. A, title VIII, § 853(c)(2)][/us/pl/101/189/s853/c/2], Nov. 29, 1989, [103 Stat. 1518][/us/stat/103/1518], related to education, training, and experience requirements for persons assigned as program managers of major defense acquisition programs, prior to repeal by [Pub. L. 101–510, div. A, title XII, § 1207(c)(1)][/us/pl/101/510/s1207/c/1], Nov. 5, 1990, [104 Stat. 1665][/us/stat/104/1665], effective Oct. 1, 1991.
+    A prior section 1622, added [Pub. L. 99–145, title IX][/us/pl/99/145/tIX], § 924(a)(1), Nov. 8, 1985, [99 Stat. 698][/us/stat/99/698]; amended [Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title X, § 933\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–161; [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 933\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–161; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661/dA/tIX], formerly title IV, § 933, Nov. 14, 1986, [100 Stat. 3940][/us/stat/100/3940], renumbered title IX, [Pub. L. 100–26][/us/pl/100/26], § 3(5), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 101–189, div. A, title VIII][/us/pl/101/189/dA/tVIII], § 853(c)(2), Nov. 29, 1989, [103 Stat. 1518][/us/stat/103/1518], related to education, training, and experience requirements for persons assigned as program managers of major defense acquisition programs, prior to repeal by [Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1207(c)(1), Nov. 5, 1990, [104 Stat. 1665][/us/stat/104/1665], effective Oct. 1, 1991.
 
  __Amendments__ 
 
@@ -59,25 +59,25 @@
 [/us/usc/t5/s5901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5901%2Fa
 [/us/usc/t10/s1593/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1593%2Fb
 [/us/usc/t5/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5901
-[/us/pl/100/178/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F178%2Fs601%2Fa
+[/us/pl/100/178/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F178%2FtVI
 [/us/stat/101/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1015
-[/us/pl/101/189/s336/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs336%2Fb
+[/us/pl/101/189/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIII
 [/us/stat/103/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1419
-[/us/pl/104/201/s1632/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1632%2Fa%2F2
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2745
-[/us/pl/99/145/s924/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs924%2Fa%2F1
+[/us/pl/99/145/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtIX
 [/us/stat/99/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F698
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIX
 [/us/stat/100/3940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3940
-[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
-[/us/pl/101/189/s853/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs853%2Fc%2F2
+[/us/pl/101/189/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVIII
 [/us/stat/103/1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1518
-[/us/pl/101/510/s1207/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1207%2Fc%2F1
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1665
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t10/s1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1606

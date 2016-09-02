@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stD/ptIV/ch951/m__us_usc_t10_s9804.md) | [Next](./../../../../../..//us/usc/t10/stD/ptIV/ch951/m__us_usc_t10_s9806.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9805)
 
-## \[§ 9805. Repealed. [Pub. L. 86–533, § 1(7)(A)][/us/pl/86/533/s1/7/A], June 29, 1960, [74 Stat. 246][/us/stat/74/246]\]
+## \[§ 9805. Repealed. [Pub. L. 86–533][/us/pl/86/533], § 1(7)(A), June 29, 1960, [74 Stat. 246][/us/stat/74/246]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 592][/us/stat/70A/592], related to reports to Congress with respect to claims under sections 9802, 9803, and 9804 of this title.
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/pl/86/533/s1/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F533%2Fs1%2F7%2FA
+[/us/pl/86/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F533
 [/us/stat/74/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F246
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F592

@@ -73,7 +73,7 @@
 
         (3) Each arrangement under this subsection shall be made in accordance with regulations prescribed under [section 9448 of this title][/us/usc/t10/s9448].
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1090(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–296; amended [Pub. L. 107–217, § 3(b)(35)][/us/pl/107/217/s3/b/35], Aug. 21, 2002, [116 Stat. 1298][/us/stat/116/1298]; [Pub. L. 111–350, § 5(b)(54)][/us/pl/111/350/s5/b/54], Jan. 4, 2011, [124 Stat. 3847][/us/stat/124/3847].)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1090(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–296; amended [Pub. L. 107–217][/us/pl/107/217], § 3(b)(35), Aug. 21, 2002, [116 Stat. 1298][/us/stat/116/1298]; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(54), Jan. 4, 2011, [124 Stat. 3847][/us/stat/124/3847].)
 
  __Amendments__ 
 
@@ -89,11 +89,11 @@
 ----------
 
 [/us/usc/t10/s9448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9448
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/217/s3/b/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F35
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1298
-[/us/pl/111/350/s5/b/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F54
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3847
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251

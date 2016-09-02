@@ -61,7 +61,7 @@
 
         (2) The term “catchment area”, with respect to a facility of a uniformed service, means the service area of the facility, as designated under regulations prescribed by the administering Secretaries.
 
-(Added [Pub. L. 105–261, div. A, title VII, § 712(a)(1)][/us/pl/105/261/s712/a/1], Oct. 17, 1998, [112 Stat. 2058][/us/stat/112/2058]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 752(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–195; [Pub. L. 107–107, div. A, title X, § 1048(a)(11)][/us/pl/107/107/s1048/a/11], Dec. 28, 2001, [115 Stat. 1223][/us/stat/115/1223]; [Pub. L. 112–239, div. A, title VII, § 711][/us/pl/112/239/s711], Jan. 2, 2013, [126 Stat. 1801][/us/stat/126/1801].)
+(Added [Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 712(a)(1), Oct. 17, 1998, [112 Stat. 2058][/us/stat/112/2058]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 752(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–195; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(a)(11), Dec. 28, 2001, [115 Stat. 1223][/us/stat/115/1223]; [Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 711, Jan. 2, 2013, [126 Stat. 1801][/us/stat/126/1801].)
 
  __Amendments__ 
 
@@ -73,19 +73,19 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 752(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–195, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 752(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–195, provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect 180 days after the date of the enactment of this Act \[Oct. 30, 2000\], and shall apply with respect to care provided on or after that date.”
 
  __Effective Date__ 
 
-[Pub. L. 105–261, div. A, title VII, § 712(b)][/us/pl/105/261/s712/b], Oct. 17, 1998, [112 Stat. 2059][/us/stat/112/2059], provided that: 
+[Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 712(b), Oct. 17, 1998, [112 Stat. 2059][/us/stat/112/2059], provided that: 
 
 > “The regulations required under subsection (d) of [section 1097a of title 10][/us/usc/t10/s1097a], United States Code (as added by subsection (a)), shall be prescribed to take effect not later than September 30, 1999. The section shall be applied under TRICARE Prime on and after the date on which the regulations take effect.”
 
  __Future Availability of TRICARE Prime Throughout the United States__ 
 
-[Pub. L. 112–239, div. A, title VII, § 732][/us/pl/112/239/s732], Jan. 2, 2013, [126 Stat. 1816][/us/stat/126/1816], as amended by [Pub. L. 113–66, div. A, title VII, § 701][/us/pl/113/66/s701], Dec. 26, 2013, [127 Stat. 789][/us/stat/127/789]; [Pub. L. 113–291, div. A, title VII, § 723][/us/pl/113/291/s723], Dec. 19, 2014, [128 Stat. 3417][/us/stat/128/3417]; [Pub. L. 114–92, div. A, title VII, § 701][/us/pl/114/92/s701], Nov. 25, 2015, [129 Stat. 860][/us/stat/129/860], provided that:
+[Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 732, Jan. 2, 2013, [126 Stat. 1816][/us/stat/126/1816], as amended by [Pub. L. 113–66, div. A, title VII][/us/pl/113/66/dA/tVII], § 701, Dec. 26, 2013, [127 Stat. 789][/us/stat/127/789]; [Pub. L. 113–291, div. A, title VII][/us/pl/113/291/dA/tVII], § 723, Dec. 19, 2014, [128 Stat. 3417][/us/stat/128/3417]; [Pub. L. 114–92, div. A, title VII][/us/pl/114/92/dA/tVII], § 701, Nov. 25, 2015, [129 Stat. 860][/us/stat/129/860], provided that:
 
 >     “(a) __Report Required.—__ 
 
@@ -189,7 +189,7 @@
 
 >         “(4) The term ‘TRICARE Standard’ means the fee-for-service option of the TRICARE Program.”
 
-    \[[Pub. L. 113–291, div. A, title VII, § 723(b)][/us/pl/113/291/s723/b], Dec. 19, 2014, [128 Stat. 3418][/us/stat/128/3418], which directed amendment of subsec. (b)(3)(A) of [section 732 of Pub. L. 112–239][/us/pl/112/239/s732], set out above, by substituting “subsection (d)(1)(B)” for “subsection (c)(1)(B)”, was executed by making the substitution in subsec. (c)(3)(A) of [section 732 of Pub. L. 112–239][/us/pl/112/239/s732], to reflect the probable intent of Congress and the prior amendment by [section 723(a)(1) of Pub. L. 113–291][/us/pl/113/291/s723/a/1], which redesignated subsec. (b) as (c).\]
+    \[[Pub. L. 113–291, div. A, title VII][/us/pl/113/291/dA/tVII], § 723(b), Dec. 19, 2014, [128 Stat. 3418][/us/stat/128/3418], which directed amendment of subsec. (b)(3)(A) of [section 732 of Pub. L. 112–239][/us/pl/112/239/s732], set out above, by substituting “subsection (d)(1)(B)” for “subsection (c)(1)(B)”, was executed by making the substitution in subsec. (c)(3)(A) of [section 732 of Pub. L. 112–239][/us/pl/112/239/s732], to reflect the probable intent of Congress and the prior amendment by [section 723(a)(1) of Pub. L. 113–291][/us/pl/113/291/s723/a/1], which redesignated subsec. (b) as (c).\]
 
 ----------
 
@@ -201,33 +201,33 @@
 [/us/usc/t10/s1076/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076%2Fa%2F2%2FA
 [/us/usc/t10/s1074/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074%2Fb
 [/us/usc/t10/s1072/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2
-[/us/pl/105/261/s712/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs712%2Fa%2F1
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2058
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s1048/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fa%2F11
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1223
-[/us/pl/112/239/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs711
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1801
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t10/s1076/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076%2Fa%2F2%2FA
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/105/261/s712/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs712%2Fb
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2059
 [/us/usc/t10/s1097a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1097a
-[/us/pl/112/239/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs732
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1816
-[/us/pl/113/66/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs701
+[/us/pl/113/66/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVII
 [/us/stat/127/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F789
-[/us/pl/113/291/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs723
+[/us/pl/113/291/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVII
 [/us/stat/128/3417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3417
-[/us/pl/114/92/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs701
+[/us/pl/114/92/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVII
 [/us/stat/129/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F860
 [/us/usc/t10/s1072/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F7
-[/us/pl/113/291/s723/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs723%2Fb
+[/us/pl/113/291/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVII
 [/us/stat/128/3418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3418
 [/us/pl/112/239/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs732
 [/us/pl/112/239/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs732

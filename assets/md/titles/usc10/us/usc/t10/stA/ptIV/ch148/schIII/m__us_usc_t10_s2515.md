@@ -37,11 +37,11 @@
 
         (5) provides private firms with assistance to resolve problems associated with security clearances, proprietary rights, and other legal considerations involved in such a transition of technology.
 
-(Added [Pub. L. 102–484, div. D, title XLII, § 4225(a)][/us/pl/102/484/s4225/a], Oct. 23, 1992, [106 Stat. 2683][/us/stat/106/2683]; amended [Pub. L. 104–106, div. A, title XV, § 1502(a)(22)][/us/pl/104/106/s1502/a/22], Feb. 10, 1996, [110 Stat. 505][/us/stat/110/505]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X, § 1031(a)(23)][/us/pl/108/136/s1031/a/23], Nov. 24, 2003, [117 Stat. 1598][/us/stat/117/1598]; [Pub. L. 108–375, div. A, title X, § 1084(b)(3)][/us/pl/108/375/s1084/b/3], Oct. 28, 2004, [118 Stat. 2060][/us/stat/118/2060]; [Pub. L. 112–81, div. A, title X, § 1061(18)][/us/pl/112/81/s1061/18], Dec. 31, 2011, [125 Stat. 1584][/us/stat/125/1584].)
+(Added [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4225(a), Oct. 23, 1992, [106 Stat. 2683][/us/stat/106/2683]; amended [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1502(a)(22), Feb. 10, 1996, [110 Stat. 505][/us/stat/110/505]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(23), Nov. 24, 2003, [117 Stat. 1598][/us/stat/117/1598]; [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(b)(3), Oct. 28, 2004, [118 Stat. 2060][/us/stat/118/2060]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1061(18), Dec. 31, 2011, [125 Stat. 1584][/us/stat/125/1584].)
 
  __Prior Provisions__ 
 
-    A prior section 2515, added [Pub. L. 101–510, div. A, title VIII, § 823(a)(3)][/us/pl/101/510/s823/a/3], Nov. 5, 1990, [104 Stat. 1602][/us/stat/104/1602], related to computer-integrated manufacturing technology, prior to repeal by [Pub. L. 102–484, § 4202(a)][/us/pl/102/484/s4202/a].
+    A prior section 2515, added [Pub. L. 101–510, div. A, title VIII][/us/pl/101/510/dA/tVIII], § 823(a)(3), Nov. 5, 1990, [104 Stat. 1602][/us/stat/104/1602], related to computer-integrated manufacturing technology, prior to repeal by [Pub. L. 102–484][/us/pl/102/484], § 4202(a).
 
  __Amendments__ 
 
@@ -53,9 +53,9 @@
 
     “(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
 
-    2003—Subsec. (d). [Pub. L. 108–136, § 1031(a)(23)(A)][/us/pl/108/136/s1031/a/23/A], substituted “Biennial” for “Annual” in heading.
+    2003—Subsec. (d). [Pub. L. 108–136][/us/pl/108/136], § 1031(a)(23)(A), substituted “Biennial” for “Annual” in heading.
 
-    Subsec. (d)(1). [Pub. L. 108–136, § 1031(a)(23)(B)][/us/pl/108/136/s1031/a/23/B], substituted “a biennial report” for “an annual report” in first sentence, “each even-numbered year” for “each year” in second sentence, and “during the two fiscal years” for “during the fiscal year” in third sentence.
+    Subsec. (d)(1). [Pub. L. 108–136][/us/pl/108/136], § 1031(a)(23)(B), substituted “a biennial report” for “an annual report” in first sentence, “each even-numbered year” for “each year” in second sentence, and “during the two fiscal years” for “during the fiscal year” in third sentence.
 
     1999—Subsec. (d)(2)(B). [Pub. L. 106–65][/us/pl/106/65] substituted “Committee on Armed Services” for “Committee on National Security”.
 
@@ -63,13 +63,13 @@
 
  __Schedule for Establishment of Office of Technology Transition__ 
 
-[Pub. L. 102–484, div. D, title XLII, § 4225(b)][/us/pl/102/484/s4225/b], Oct. 23, 1992, [106 Stat. 2683][/us/stat/106/2683], provided that: 
+[Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4225(b), Oct. 23, 1992, [106 Stat. 2683][/us/stat/106/2683], provided that: 
 
 > “The Office of Technology Transition shall commence operations within 120 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
 
  __Submission of Annual Report__ 
 
-[Pub. L. 102–484, div. D, title XLII, § 4225(c)(2)][/us/pl/102/484/s4225/c/2], Oct. 23, 1992, [106 Stat. 2684][/us/stat/106/2684], provided that: 
+[Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4225(c)(2), Oct. 23, 1992, [106 Stat. 2684][/us/stat/106/2684], provided that: 
 
 > “Notwithstanding [section 2515(d) of title 10][/us/usc/t10/s2515/d], United States Code (as added by subsection (a))—
 
@@ -85,31 +85,31 @@
 ----------
 
 [/us/usc/t10/s2501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501%2Fa
-[/us/pl/102/484/s4225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4225%2Fa
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2683
-[/us/pl/104/106/s1502/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F22
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F505
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/108/136/s1031/a/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F23
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1598
-[/us/pl/108/375/s1084/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fb%2F3
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2060
-[/us/pl/112/81/s1061/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F18
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1584
-[/us/pl/101/510/s823/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs823%2Fa%2F3
+[/us/pl/101/510/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVIII
 [/us/stat/104/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1602
-[/us/pl/102/484/s4202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4202%2Fa
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/108/136/s1031/a/23/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F23%2FA
-[/us/pl/108/136/s1031/a/23/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F23%2FB
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/102/484/s4225/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4225%2Fb
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2683
-[/us/pl/102/484/s4225/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4225%2Fc%2F2
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2684
 [/us/usc/t10/s2515/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2515%2Fd
 

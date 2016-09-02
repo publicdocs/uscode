@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch33/m__us_usc_t10_s541.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch33A/m__us_usc_t10_s571.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch33A)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch33/m__us_usc_t10_s555...565.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch33A/m__us_usc_t10_s571.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch33A)
 
 #### CHAPTER 33A—APPOINTMENT, PROMOTION, AND INVOLUNTARY SEPARATION AND RETIREMENT FOR MEMBERS ON THE WARRANT OFFICER ACTIVE-DUTY LIST
 
@@ -139,20 +139,20 @@
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–160, div. A, title V, § 504(b)][/us/pl/103/160/s504/b], Nov. 30, 1993, [107 Stat. 1645][/us/stat/107/1645], added item 580a.
+    1993—[Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 504(b), Nov. 30, 1993, [107 Stat. 1645][/us/stat/107/1645], added item 580a.
 
-    1992—[Pub. L. 102–484, div. A, title X, § 1052(6)][/us/pl/102/484/s1052/6], Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499], inserted “to be” after “Information” in item 576 and substituted “Promotions:” for “Promotions;” in item 578.
-
-----------
-
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch33/m__us_usc_t10_s541.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch33A/m__us_usc_t10_s571.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch33A)
+    1992—[Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1052(6), Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499], inserted “to be” after “Information” in item 576 and substituted “Promotions:” for “Promotions;” in item 578.
 
 ----------
+
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch33/m__us_usc_t10_s555...565.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch33A/m__us_usc_t10_s571.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch33A)
+
+----------
 ----------
 
-[/us/pl/103/160/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs504%2Fb
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1645
-[/us/pl/102/484/s1052/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F6
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2499
 
 

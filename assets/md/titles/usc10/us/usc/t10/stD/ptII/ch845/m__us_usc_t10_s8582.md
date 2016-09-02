@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stD/ptII/ch845/m__us_usc_t10_s8581.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch845/m__us_usc_t10_s8583.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8582)
 
-## \[§ 8582. Repealed. [Pub. L. 96–513, title II, § 211][/us/pl/96/513/s211], Dec. 12, 1980, [94 Stat. 2885][/us/stat/94/2885]\]
+## \[§ 8582. Repealed. [Pub. L. 96–513, title II][/us/pl/96/513/tII], § 211, Dec. 12, 1980, [94 Stat. 2885][/us/stat/94/2885]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 531][/us/stat/70A/531], provided that a retired officer has no right to command except when on active duty. See [section 750 of this title][/us/usc/t10/s750].
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/96/513/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs211
+[/us/pl/96/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtII
 [/us/stat/94/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2885
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F531

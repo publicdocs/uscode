@@ -131,7 +131,7 @@ June 28, 1950, ch. 383, § 306(a), 64 Stat. 269.  </td>
 
  __Philippine Scouts__ 
 
-[Act Aug. 10, 1956, ch. 1041, § 42][/us/act/1956-08-10/ch1041/s42], [70A Stat. 636][/us/stat/70A/636], provided that: 
+[Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 42, [70A Stat. 636][/us/stat/70A/636], provided that: 
 
 > “The President is authorized to form the Philippine Scouts into such branches and tactical units as he may deem expedient, within the limit of strength prescribed by law, organized similarly to those of the Regular Army.”
 
@@ -144,7 +144,7 @@ June 28, 1950, ch. 383, § 306(a), 64 Stat. 269.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F166
-[/us/act/1956-08-10/ch1041/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs42
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F636
 
 

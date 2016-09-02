@@ -21,7 +21,7 @@
 
     (2) surplus obsolete brass or bronze cannons, carriages, and cannon balls, for public parks, public buildings, and soldiers’ monuments.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 583][/us/stat/70A/583]; [Pub. L. 96–513, title V, § 514(18)][/us/pl/96/513/s514/18], Dec. 12, 1980, [94 Stat. 2936][/us/stat/94/2936]; [Pub. L. 107–217, § 3(b)(38)][/us/pl/107/217/s3/b/38], Aug. 21, 2002, [116 Stat. 1298][/us/stat/116/1298].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 583][/us/stat/70A/583]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 514(18), Dec. 12, 1980, [94 Stat. 2936][/us/stat/94/2936]; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(38), Aug. 21, 2002, [116 Stat. 1298][/us/stat/116/1298].)
 
 <table>
 
@@ -109,9 +109,9 @@ Mar. 4, 1909, ch. 319, § 47, 35 Stat. 1075; June 28, 1950, ch. 383, § 402(
 [/us/usc/t40/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs121
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F583
-[/us/pl/96/513/s514/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs514%2F18
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2936
-[/us/pl/107/217/s3/b/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F38
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1298
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs121

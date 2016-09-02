@@ -33,7 +33,7 @@
 
         (4) A member in such mobilization category shall be eligible for benefits (other than pay and training) as are normally available to members of the Selected Reserve, as determined by the Secretary of Defense.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)][/us/pl/103/337/s1661/a/1], Oct. 5, 1994, [108 Stat. 2973][/us/stat/108/2973]; amended [Pub. L. 105–85, div. A, title V, § 511(a)][/us/pl/105/85/s511/a], Nov. 18, 1997, [111 Stat. 1728][/us/stat/111/1728].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1661(a)(1), Oct. 5, 1994, [108 Stat. 2973][/us/stat/108/2973]; amended [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 511(a), Nov. 18, 1997, [111 Stat. 1728][/us/stat/111/1728].)
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t10/s12304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12304
-[/us/pl/103/337/s1661/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2973
-[/us/pl/105/85/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs511%2Fa
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1728
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 

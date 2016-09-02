@@ -53,19 +53,19 @@
 
     (e) This section applies to the Secretary of Homeland Security in the same manner and to the same extent as it applies to the Secretary of Defense. The Commandant of the Coast Guard shall take the action set forth in subsection (b) with respect to regular warrant officers of the Coast Guard.
 
-(Added [Pub. L. 103–160, div. A, title V, § 504(a)][/us/pl/103/160/s504/a], Nov. 30, 1993, [107 Stat. 1644][/us/stat/107/1644]; amended [Pub. L. 103–337, div. A, title V, § 541(g)][/us/pl/103/337/s541/g], title X, § 1070(a)(3), Oct. 5, 1994, [108 Stat. 2767][/us/stat/108/2767], 2855; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 114–92, div. A, title V, § 501][/us/pl/114/92/s501], Nov. 25, 2015, [129 Stat. 806][/us/stat/129/806].)
+(Added [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 504(a), Nov. 30, 1993, [107 Stat. 1644][/us/stat/107/1644]; amended [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 541(g), title X, § 1070(a)(3), Oct. 5, 1994, [108 Stat. 2767][/us/stat/108/2767], 2855; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 501, Nov. 25, 2015, [129 Stat. 806][/us/stat/129/806].)
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–92, § 501(1)][/us/pl/114/92/s501/1], substituted “October 1, 2015, and ending on October 1, 2019” for “November 30, 1993, and ending on October 1, 1999”.
+    2015—Subsec. (a). [Pub. L. 114–92][/us/pl/114/92], § 501(1), substituted “October 1, 2015, and ending on October 1, 2019” for “November 30, 1993, and ending on October 1, 1999”.
 
-    Subsec. (c)(3) to (5). [Pub. L. 114–92, § 501(2)][/us/pl/114/92/s501/2], redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “The total number of regular warrant officers described in subsection (b) from any of the armed forces (or from any of the armed forces in a particular grade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of warrant officers of that armed force (or the number of warrant officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year.”
+    Subsec. (c)(3) to (5). [Pub. L. 114–92][/us/pl/114/92], § 501(2), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “The total number of regular warrant officers described in subsection (b) from any of the armed forces (or from any of the armed forces in a particular grade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of warrant officers of that armed force (or the number of warrant officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year.”
 
     2002—Subsec. (e). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
 
-    1994—Subsec. (a). [Pub. L. 103–337, § 1070(a)(3)][/us/pl/103/337/s1070/a/3], substituted “November 30, 1993,” for “the date of the enactment of this section”.
+    1994—Subsec. (a). [Pub. L. 103–337][/us/pl/103/337], § 1070(a)(3), substituted “November 30, 1993,” for “the date of the enactment of this section”.
 
-    Subsec. (e). [Pub. L. 103–337, § 541(g)][/us/pl/103/337/s541/g], added subsec. (e).
+    Subsec. (e). [Pub. L. 103–337][/us/pl/103/337], § 541(g), added subsec. (e).
 
  __Effective Date of 2002 Amendment__ 
 
@@ -83,19 +83,19 @@
 ----------
 
 [/us/usc/t10/s573/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs573%2Fc
-[/us/pl/103/160/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs504%2Fa
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1644
-[/us/pl/103/337/s541/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fg
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2767
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/114/92/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs501
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F806
-[/us/pl/114/92/s501/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs501%2F1
-[/us/pl/114/92/s501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs501%2F2
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/103/337/s1070/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fa%2F3
-[/us/pl/103/337/s541/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fg
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101

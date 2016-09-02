@@ -29,7 +29,7 @@
 
     (d) Under such regulations as the Secretary prescribes, an aviation cadet may be transferred to another enlisted grade or rating in the naval service, released from active duty, or discharged.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 426][/us/stat/70A/426]; [Pub. L. 85–578][/us/pl/85/578], July 31, 1958, [72 Stat. 456][/us/stat/72/456]; [Pub. L. 96–513, title III, § 373(f)][/us/pl/96/513/s373/f], Dec. 12, 1980, [94 Stat. 2903][/us/stat/94/2903]; [Pub. L. 109–163, div. A, title V, § 515(b)(1)(N)][/us/pl/109/163/s515/b/1/N], Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 426][/us/stat/70A/426]; [Pub. L. 85–578][/us/pl/85/578], July 31, 1958, [72 Stat. 456][/us/stat/72/456]; [Pub. L. 96–513, title III][/us/pl/96/513/tIII], § 373(f), Dec. 12, 1980, [94 Stat. 2903][/us/stat/94/2903]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(N), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
 
 <table>
 
@@ -126,9 +126,9 @@ June 13, 1949, ch. 199, § 3, 63 Stat. 175.  </td>
 [/us/stat/70A/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F426
 [/us/pl/85/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F578
 [/us/stat/72/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F456
-[/us/pl/96/513/s373/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs373%2Ff
+[/us/pl/96/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIII
 [/us/stat/94/2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2903
-[/us/pl/109/163/s515/b/1/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FN
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3233
 [/us/act/1952-07-03/ch570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch570
 [/us/stat/66/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F333

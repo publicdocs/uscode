@@ -77,7 +77,7 @@ Amendments  </td>
 
 </table>
 
-    1996—[Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(2)][/us/pl/104/106/s2801/a/2], Feb. 10, 1996, [110 Stat. 551][/us/stat/110/551], added item for subchapter IV.
+    1996—[Pub. L. 104–106, div. B, title XXVIII][/us/pl/104/106/dB/tXXVIII], § 2801(a)(2), Feb. 10, 1996, [110 Stat. 551][/us/stat/110/551], added item for subchapter IV.
 
 ----------
 
@@ -86,7 +86,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/104/106/s2801/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2801%2Fa%2F2
+[/us/pl/104/106/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdB%2FtXXVIII
 [/us/stat/110/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F551
 
 

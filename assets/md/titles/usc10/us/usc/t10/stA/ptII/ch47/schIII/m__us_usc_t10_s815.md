@@ -117,7 +117,7 @@
 
     (g) The Secretary concerned may, by regulation, prescribe the form of records to be kept of proceedings under this article and may also prescribe that certain categories of those proceedings shall be in writing.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 41][/us/stat/70A/41]; [Pub. L. 87–648, § 1][/us/pl/87/648/s1], Sept. 7, 1962, [76 Stat. 447][/us/stat/76/447]; [Pub. L. 90–179, § 1(4)][/us/pl/90/179/s1/4], Dec. 8, 1967, [81 Stat. 545][/us/stat/81/545]; [Pub. L. 90–623, § 2(4)][/us/pl/90/623/s2/4], Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 98–209][/us/pl/98/209], §§ 2(c), 13(b), Dec. 6, 1983, [97 Stat. 1393][/us/stat/97/1393], 1408; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 41][/us/stat/70A/41]; [Pub. L. 87–648][/us/pl/87/648], § 1, Sept. 7, 1962, [76 Stat. 447][/us/stat/76/447]; [Pub. L. 90–179][/us/pl/90/179], § 1(4), Dec. 8, 1967, [81 Stat. 545][/us/stat/81/545]; [Pub. L. 90–623][/us/pl/90/623], § 2(4), Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 98–209][/us/pl/98/209], §§ 2(c), 13(b), Dec. 6, 1983, [97 Stat. 1393][/us/stat/97/1393], 1408; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
 <table>
 
@@ -229,13 +229,13 @@ May 5, 1950, ch. 169, § 1 (Art. 15), 64 Stat. 112.  </td>
 
     2002—Subsec. (e). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation” in concluding provisions.
 
-    1983—[Pub. L. 98–209, § 13(b)(1)][/us/pl/98/209/s13/b/1], substituted “non-judicial” for “nonjudicial” in section catchline.
+    1983—[Pub. L. 98–209][/us/pl/98/209], § 13(b)(1), substituted “non-judicial” for “nonjudicial” in section catchline.
 
-    Subsec. (b). [Pub. L. 98–209, § 13(b)(2)(A)][/us/pl/98/209/s13/b/2/A], struck out “of this section” after “subsection (a)” in provisions preceding par. (1).
+    Subsec. (b). [Pub. L. 98–209][/us/pl/98/209], § 13(b)(2)(A), struck out “of this section” after “subsection (a)” in provisions preceding par. (1).
 
-    Subsec. (b)(2)(H)(i). [Pub. L. 98–209, § 13(b)(2)(B)][/us/pl/98/209/s13/b/2/B], substituted “clause (A)” for “subsection (b)(2)(A)”.
+    Subsec. (b)(2)(H)(i). [Pub. L. 98–209][/us/pl/98/209], § 13(b)(2)(B), substituted “clause (A)” for “subsection (b)(2)(A)”.
 
-    Subsec. (e). [Pub. L. 98–209, § 2(c)][/us/pl/98/209/s2/c], substituted “or a lawyer of the” for “of the Army, Navy, Air Force, or Marine Corps, or a law specialist or lawyer of the Coast Guard or”.
+    Subsec. (e). [Pub. L. 98–209][/us/pl/98/209], § 2(c), substituted “or a lawyer of the” for “of the Army, Navy, Air Force, or Marine Corps, or a law specialist or lawyer of the Coast Guard or”.
 
     1968—Subsec. (e). [Pub. L. 90–623][/us/pl/90/623] substituted “or a law specialist or lawyer of the Coast Guard or Department of Transportation” for “or a law specialist or lawyer of the Marine Corps, Coast Guard, or Treasury Department”.
 
@@ -265,7 +265,7 @@ May 5, 1950, ch. 169, § 1 (Art. 15), 64 Stat. 112.  </td>
 
  __Effective Date of 1962 Amendment__ 
 
-[Pub. L. 87–648, § 2][/us/pl/87/648/s2], Sept. 7, 1962, [76 Stat. 450][/us/stat/76/450], provided that: 
+[Pub. L. 87–648][/us/pl/87/648], § 2, Sept. 7, 1962, [76 Stat. 450][/us/stat/76/450], provided that: 
 
 > “This Act \[amending this section\] becomes effective on the first day of the fifth month following the month in which it is enacted \[September 1962\].”
 
@@ -278,22 +278,22 @@ May 5, 1950, ch. 169, § 1 (Art. 15), 64 Stat. 112.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F41
-[/us/pl/87/648/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F648%2Fs1
+[/us/pl/87/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F648
 [/us/stat/76/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F447
-[/us/pl/90/179/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179%2Fs1%2F4
+[/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
 [/us/stat/81/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F545
-[/us/pl/90/623/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs2%2F4
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1314
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1393
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/usc/t10/s101/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F14
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/98/209/s13/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs13%2Fb%2F1
-[/us/pl/98/209/s13/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs13%2Fb%2F2%2FA
-[/us/pl/98/209/s13/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs13%2Fb%2F2%2FB
-[/us/pl/98/209/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs2%2Fc
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
 [/us/pl/87/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F648
@@ -311,7 +311,7 @@ May 5, 1950, ch. 169, § 1 (Art. 15), 64 Stat. 112.  </td>
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/90/623/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs6
 [/us/usc/t5/s5334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5334
-[/us/pl/87/648/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F648%2Fs2
+[/us/pl/87/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F648
 [/us/stat/76/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F450
 
 

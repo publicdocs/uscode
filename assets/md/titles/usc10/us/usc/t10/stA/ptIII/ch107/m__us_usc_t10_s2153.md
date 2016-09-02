@@ -35,11 +35,11 @@
 
         (2) The authority of the Secretary of Defense to grant a waiver under paragraph (1) may only be delegated to the Deputy Secretary of Defense, an Under Secretary of Defense, or an Assistant Secretary of Defense. Such a waiver may be granted only on a case-by-case basis in the case of an individual officer.
 
-(Added [Pub. L. 108–375, div. A, title V, § 532(a)(2)][/us/pl/108/375/s532/a/2], Oct. 28, 2004, [118 Stat. 1897][/us/stat/118/1897].)
+(Added [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 532(a)(2), Oct. 28, 2004, [118 Stat. 1897][/us/stat/118/1897].)
 
  __References in Text__ 
 
-    [Section 619(e)(4) of this title][/us/usc/t10/s619/e/4], referred to in subsec. (b)(1)(C), was repealed by [Pub. L. 103–160, div. A, title IX, § 931(b)][/us/pl/103/160/s931/b], Nov. 30, 1993, [107 Stat. 1734][/us/stat/107/1734]. See [section 619a(f) of this title][/us/usc/t10/s619a/f].
+    [Section 619(e)(4) of this title][/us/usc/t10/s619/e/4], referred to in subsec. (b)(1)(C), was repealed by [Pub. L. 103–160, div. A, title IX][/us/pl/103/160/dA/tIX], § 931(b), Nov. 30, 1993, [107 Stat. 1734][/us/stat/107/1734]. See [section 619a(f) of this title][/us/usc/t10/s619a/f].
 
 ----------
 
@@ -48,10 +48,10 @@
 ----------
 ----------
 
-[/us/pl/108/375/s532/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs532%2Fa%2F2
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1897
 [/us/usc/t10/s619/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs619%2Fe%2F4
-[/us/pl/103/160/s931/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs931%2Fb
+[/us/pl/103/160/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIX
 [/us/stat/107/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1734
 [/us/usc/t10/s619a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs619a%2Ff
 

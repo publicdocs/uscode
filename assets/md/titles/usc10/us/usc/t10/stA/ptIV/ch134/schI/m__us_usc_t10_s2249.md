@@ -17,7 +17,7 @@
 
     No funds appropriated by the Congress may be obligated or expended to assist any contractor of the Department of Defense in preparing any material, report, lists, or analysis with respect to the actual or projected economic or employment impact in a particular State or congressional district of an acquisition program for which all research, development, testing, and evaluation has not been completed.
 
-(Added [Pub. L. 103–355, title VII, § 7202(a)(1)][/us/pl/103/355/s7202/a/1], Oct. 13, 1994, [108 Stat. 3379][/us/stat/108/3379], § 2247; renumbered § 2249, [Pub. L. 104–106, div. D, title XLIII, § 4321(b)(2)(A)][/us/pl/104/106/s4321/b/2/A], Feb. 10, 1996, [110 Stat. 672][/us/stat/110/672].)
+(Added [Pub. L. 103–355, title VII][/us/pl/103/355/tVII], § 7202(a)(1), Oct. 13, 1994, [108 Stat. 3379][/us/stat/108/3379], § 2247; renumbered § 2249, [Pub. L. 104–106, div. D, title XLIII][/us/pl/104/106/dD/tXLIII], § 4321(b)(2)(A), Feb. 10, 1996, [110 Stat. 672][/us/stat/110/672].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/103/355/s7202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs7202%2Fa%2F1
+[/us/pl/103/355/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtVII
 [/us/stat/108/3379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3379
-[/us/pl/104/106/s4321/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4321%2Fb%2F2%2FA
+[/us/pl/104/106/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdD%2FtXLIII
 [/us/stat/110/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F672
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t10/s2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2247

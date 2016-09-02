@@ -45,7 +45,7 @@
 
     (e) The Secretary of Defense shall prescribe regulations for the administration of this section.
 
-(Added [Pub. L. 98–94, title III, § 305(a)(1)][/us/pl/98/94/s305/a/1], Sept. 24, 1983, [97 Stat. 628][/us/stat/97/628], § 2546; amended [Pub. L. 99–167, title VIII, § 825][/us/pl/99/167/s825], Dec. 3, 1985, [99 Stat. 992][/us/stat/99/992]; renumbered § 2556, [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1033(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–260.)
+(Added [Pub. L. 98–94, title III][/us/pl/98/94/tIII], § 305(a)(1), Sept. 24, 1983, [97 Stat. 628][/us/stat/97/628], § 2546; amended [Pub. L. 99–167, title VIII][/us/pl/99/167/tVIII], § 825, Dec. 3, 1985, [99 Stat. 992][/us/stat/99/992]; renumbered § 2556, [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1033(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–260.)
 
  __Amendments__ 
 
@@ -55,7 +55,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–94, title III, § 305(b)][/us/pl/98/94/s305/b], Sept. 24, 1983, [97 Stat. 629][/us/stat/97/629], provided that: 
+[Pub. L. 98–94, title III][/us/pl/98/94/tIII], § 305(b), Sept. 24, 1983, [97 Stat. 629][/us/stat/97/629], provided that: 
 
 > “Section 2546 \[now 2556\] of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1983.”
 
@@ -66,16 +66,16 @@
 ----------
 ----------
 
-[/us/pl/98/94/s305/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs305%2Fa%2F1
+[/us/pl/98/94/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIII
 [/us/stat/97/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F628
-[/us/pl/99/167/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167%2Fs825
+[/us/pl/99/167/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167%2FtVIII
 [/us/stat/99/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F992
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t10/s2546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2546
 [/us/pl/99/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167
-[/us/pl/98/94/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs305%2Fb
+[/us/pl/98/94/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIII
 [/us/stat/97/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F629
 
 

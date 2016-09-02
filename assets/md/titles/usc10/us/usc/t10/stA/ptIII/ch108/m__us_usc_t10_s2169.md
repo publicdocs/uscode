@@ -27,7 +27,7 @@
 
     The Secretary of Defense may develop the School of Nursing in phases as determined appropriate by the Secretary.
 
-(Added [Pub. L. 111–84, div. A, title V, § 525(a)(2)][/us/pl/111/84/s525/a/2], Oct. 28, 2009, [123 Stat. 2286][/us/stat/123/2286].)
+(Added [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 525(a)(2), Oct. 28, 2009, [123 Stat. 2286][/us/stat/123/2286].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/111/84/s525/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs525%2Fa%2F2
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2286
 
 

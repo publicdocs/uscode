@@ -73,7 +73,7 @@
 
     In this section, the term “family member” has the meaning given that term in [section 481h(b)(1) of title 37][/us/usc/t37/s481h/b/1].
 
-(Added [Pub. L. 108–375, div. A, title V, § 585(a)(1)][/us/pl/108/375/s585/a/1], Oct. 28, 2004, [118 Stat. 1930][/us/stat/118/1930]; amended [Pub. L. 109–364, div. A, title X, § 1071(a)(20)][/us/pl/109/364/s1071/a/20], Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399]; [Pub. L. 112–81, div. A, title V, § 576(a)][/us/pl/112/81/s576/a]–(d)(1), title VI, § 631(f)(4)(A), Dec. 31, 2011, [125 Stat. 1428][/us/stat/125/1428], 1429, 1465; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948].)
+(Added [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 585(a)(1), Oct. 28, 2004, [118 Stat. 1930][/us/stat/118/1930]; amended [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(20), Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 576(a)–(d)(1), title VI, § 631(f)(4)(A), Dec. 31, 2011, [125 Stat. 1428][/us/stat/125/1428], 1429, 1465; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(9), Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948].)
 
  __Codification__ 
 
@@ -81,23 +81,23 @@
 
  __Amendments__ 
 
-    2013—Subsec. (g). [Pub. L. 112–239, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], made technical amendment to directory language of [Pub. L. 112–81, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A]. See 2011 Amendment note below.
+    2013—Subsec. (g). [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(9), made technical amendment to directory language of [Pub. L. 112–81][/us/pl/112/81], § 631(f)(4)(A). See 2011 Amendment note below.
 
-    2011—[Pub. L. 112–81, § 576(d)(1)][/us/pl/112/81/s576/d/1], substituted “Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families” for “Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and their families” in section catchline.
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 576(d)(1), substituted “Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families” for “Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and their families” in section catchline.
 
-    Subsec. (b). [Pub. L. 112–81, § 576(a)][/us/pl/112/81/s576/a], amended subsec. (b) generally. Prior to amendment, subsec. (b) defined travel benefit.
+    Subsec. (b). [Pub. L. 112–81][/us/pl/112/81], § 576(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) defined travel benefit.
 
-    Subsec. (c). [Pub. L. 112–81, § 576(b)][/us/pl/112/81/s576/b], substituted “the business entity referred to in subsection (b)” for “the air or surface carrier” and substituted “the business entity” for “the surface carrier” and for “the carrier”.
+    Subsec. (c). [Pub. L. 112–81][/us/pl/112/81], § 576(b), substituted “the business entity referred to in subsection (b)” for “the air or surface carrier” and substituted “the business entity” for “the surface carrier” and for “the carrier”.
 
-    Subsec. (e)(3). [Pub. L. 112–81, § 576(c)][/us/pl/112/81/s576/c], substituted “the business entity referred to in subsection (b)” for “the air carrier or surface carrier”.
+    Subsec. (e)(3). [Pub. L. 112–81][/us/pl/112/81], § 576(c), substituted “the business entity referred to in subsection (b)” for “the air carrier or surface carrier”.
 
-    Subsec. (g). [Pub. L. 112–81, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A], as amended by [Pub. L. 112–239, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], substituted “481h(b)(1)” for “411h(b)(1)”.
+    Subsec. (g). [Pub. L. 112–81][/us/pl/112/81], § 631(f)(4)(A), as amended by [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(9), substituted “481h(b)(1)” for “411h(b)(1)”.
 
     2006—Subsec. (b). [Pub. L. 109–364][/us/pl/109/364] substituted “In this” for “In the”.
 
  __Effective Date of 2013 Amendment__ 
 
-    [Pub. L. 112–239, div. A, title X, § 1076(a)][/us/pl/112/239/s1076/a], Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
+    [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a), Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
 
 ----------
 
@@ -107,25 +107,25 @@
 ----------
 
 [/us/usc/t37/s481h/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs481h%2Fb%2F1
-[/us/pl/108/375/s585/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs585%2Fa%2F1
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1930
-[/us/pl/109/364/s1071/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F20
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2399
-[/us/pl/112/81/s576/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs576%2Fa
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1428
-[/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
 [/us/usc/t10/s2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2614
-[/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
-[/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA
-[/us/pl/112/81/s576/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs576%2Fd%2F1
-[/us/pl/112/81/s576/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs576%2Fa
-[/us/pl/112/81/s576/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs576%2Fb
-[/us/pl/112/81/s576/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs576%2Fc
-[/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA
-[/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/112/239/s1076/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1947
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 

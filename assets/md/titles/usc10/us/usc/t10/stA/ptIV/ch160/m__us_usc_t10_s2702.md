@@ -47,7 +47,7 @@
 
         The functions of the Secretary under paragraph (1) shall be carried out in cooperation and consultation with the Administrator. To the extent appropriate and agreed upon by the Administrator and the Secretary, the Administrator shall evaluate and disseminate such information through the office of technology demonstration of the Environmental Protection Agency.
 
-(Added [Pub. L. 99–499, title II, § 211(a)(1)(B)][/us/pl/99/499/s211/a/1/B], Oct. 17, 1986, [100 Stat. 1721][/us/stat/100/1721]; amended [Pub. L. 108–375, div. A, title X, § 1084(d)(25)][/us/pl/108/375/s1084/d/25], Oct. 28, 2004, [118 Stat. 2063][/us/stat/118/2063].)
+(Added [Pub. L. 99–499, title II][/us/pl/99/499/tII], § 211(a)(1)(B), Oct. 17, 1986, [100 Stat. 1721][/us/stat/100/1721]; amended [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(d)(25), Oct. 28, 2004, [118 Stat. 2063][/us/stat/118/2063].)
 
  __Amendments__ 
 
@@ -55,13 +55,13 @@
 
  __Partnerships for Investment in Innovative Environmental Technologies__ 
 
-    [Pub. L. 105–85, div. A, title III, § 349][/us/pl/105/85/s349], Nov. 18, 1997, [111 Stat. 1690][/us/stat/111/1690], as amended by [Pub. L. 106–65, div. A, title X, § 1067(4)][/us/pl/106/65/s1067/4], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 112–81, div. A, title X, § 1062(k)(1)][/us/pl/112/81/s1062/k/1], Dec. 31, 2011, [125 Stat. 1586][/us/stat/125/1586], authorized the Secretary of Defense, until three years after Nov. 18, 1997, to enter into a partnership with one or more private entities to demonstrate and validate innovative environmental technologies, and to provide funds to the partner or partners from appropriations available to the Department of Defense for environmental activities for a period of up to five years.
+    [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 349, Nov. 18, 1997, [111 Stat. 1690][/us/stat/111/1690], as amended by [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(4), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1062(k)(1), Dec. 31, 2011, [125 Stat. 1586][/us/stat/125/1586], authorized the Secretary of Defense, until three years after Nov. 18, 1997, to enter into a partnership with one or more private entities to demonstrate and validate innovative environmental technologies, and to provide funds to the partner or partners from appropriations available to the Department of Defense for environmental activities for a period of up to five years.
 
  __Agreements for Services of Other Agencies in Support of Environmental Technology Certification__ 
 
-    [Pub. L. 105–85, div. A, title III, § 342(d)][/us/pl/105/85/s342/d], Nov. 18, 1997, [111 Stat. 1686][/us/stat/111/1686], provided that not later than 90 days after Nov. 18, 1997, the Secretary of Defense was to submit to Congress a report setting forth the guidelines established by the Secretary for reimbursement of State and local governments, and for cost-sharing between the Department of Defense, such governments, and vendors, under cooperative agreements entered into under [section 327 of Pub. L. 104–201][/us/pl/104/201/s327], formerly set out below.
+    [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 342(d), Nov. 18, 1997, [111 Stat. 1686][/us/stat/111/1686], provided that not later than 90 days after Nov. 18, 1997, the Secretary of Defense was to submit to Congress a report setting forth the guidelines established by the Secretary for reimbursement of State and local governments, and for cost-sharing between the Department of Defense, such governments, and vendors, under cooperative agreements entered into under [section 327 of Pub. L. 104–201][/us/pl/104/201/s327], formerly set out below.
 
-    [Pub. L. 104–201, div. A, title III, § 327][/us/pl/104/201/s327], Sept. 23, 1996, [110 Stat. 2483][/us/stat/110/2483], as amended by [Pub. L. 105–85, div. A, title III, § 342(a)][/us/pl/105/85/s342/a]–(c), Nov. 18, 1997, [111 Stat. 1686][/us/stat/111/1686], authorized the Secretary of Defense, until five years after Sept. 23, 1996, to enter into a cooperative agreement with an agency of a State or local government, or with an Indian tribe, to obtain assistance in certifying environmental technologies.
+    [Pub. L. 104–201, div. A, title III][/us/pl/104/201/dA/tIII], § 327, Sept. 23, 1996, [110 Stat. 2483][/us/stat/110/2483], as amended by [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 342(a)–(c), Nov. 18, 1997, [111 Stat. 1686][/us/stat/111/1686], authorized the Secretary of Defense, until five years after Sept. 23, 1996, to enter into a cooperative agreement with an agency of a State or local government, or with an Indian tribe, to obtain assistance in certifying environmental technologies.
 
 ----------
 
@@ -72,24 +72,24 @@
 
 [/us/usc/t42/s9660/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9660%2Fa%2F5
 [/us/usc/t42/s6925/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6925%2Fg
-[/us/pl/99/499/s211/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs211%2Fa%2F1%2FB
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1721
-[/us/pl/108/375/s1084/d/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F25
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2063
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t42/s9660/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9660%2Fa%2F5
-[/us/pl/105/85/s349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs349
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1690
-[/us/pl/106/65/s1067/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F4
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/112/81/s1062/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1062%2Fk%2F1
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1586
-[/us/pl/105/85/s342/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs342%2Fd
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1686
 [/us/pl/104/201/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs327
-[/us/pl/104/201/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs327
+[/us/pl/104/201/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIII
 [/us/stat/110/2483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2483
-[/us/pl/105/85/s342/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs342%2Fa
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1686
 
 

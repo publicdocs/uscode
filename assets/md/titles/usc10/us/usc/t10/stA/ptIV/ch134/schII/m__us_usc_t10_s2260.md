@@ -73,21 +73,21 @@
 
             (B) the Secretary of Homeland Security, with respect to matters concerning the Coast Guard when it is not operating as a service in the Department of the Navy.
 
-(Added [Pub. L. 108–375, div. A, title X, § 1004(a)][/us/pl/108/375/s1004/a], Oct. 28, 2004, [118 Stat. 2035][/us/stat/118/2035]; amended [Pub. L. 110–181, div. A, title VIII, § 882(a)][/us/pl/110/181/s882/a], Jan. 28, 2008, [122 Stat. 263][/us/stat/122/263]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 881, Oct. 14, 2008, [122 Stat. 4559][/us/stat/122/4559].)
+(Added [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1004(a), Oct. 28, 2004, [118 Stat. 2035][/us/stat/118/2035]; amended [Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 882(a), Jan. 28, 2008, [122 Stat. 263][/us/stat/122/263]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 881, Oct. 14, 2008, [122 Stat. 4559][/us/stat/122/4559].)
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–417, § 881(1)][/us/pl/110/417/s881/1], inserted “or the Secretary of Homeland Security” after “Secretary of Defense”.
+    2008—Subsec. (a). [Pub. L. 110–417][/us/pl/110/417], § 881(1), inserted “or the Secretary of Homeland Security” after “Secretary of Defense”.
 
-    Subsecs. (c) to (e). [Pub. L. 110–181, § 882(a)][/us/pl/110/181/s882/a], added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (f).
+    Subsecs. (c) to (e). [Pub. L. 110–181][/us/pl/110/181], § 882(a), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 110–417, § 881(2)][/us/pl/110/417/s881/2], substituted “this section:” for “this section,” and “(1) The” for “the” and added par. (2).
+    Subsec. (f). [Pub. L. 110–417][/us/pl/110/417], § 881(2), substituted “this section:” for “this section,” and “(1) The” for “the” and added par. (2).
 
-    [Pub. L. 110–181, § 882(a)(1)][/us/pl/110/181/s882/a/1], redesignated subsec. (e) as (f).
+    [Pub. L. 110–181][/us/pl/110/181], § 882(a)(1), redesignated subsec. (e) as (f).
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 882(b)][/us/pl/110/181/s882/b], Jan. 28, 2008, [122 Stat. 264][/us/stat/122/264], provided that: 
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 882(b), Jan. 28, 2008, [122 Stat. 264][/us/stat/122/264], provided that: 
 
 > “The Secretary of Defense shall prescribe regulations to implement the amendment made by this section \[amending this section\] not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\].”
 
@@ -101,17 +101,17 @@
 [/us/act/1946-07-05/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fs45
 [/us/usc/t15/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1127
 [/us/usc/t10/s101/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F9
-[/us/pl/108/375/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1004%2Fa
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2035
-[/us/pl/110/181/s882/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs882%2Fa
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F263
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4559
-[/us/pl/110/417/s881/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs881%2F1
-[/us/pl/110/181/s882/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs882%2Fa
-[/us/pl/110/417/s881/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs881%2F2
-[/us/pl/110/181/s882/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs882%2Fa%2F1
-[/us/pl/110/181/s882/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs882%2Fb
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F264
 
 

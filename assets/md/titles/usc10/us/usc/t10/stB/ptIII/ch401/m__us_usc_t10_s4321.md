@@ -41,7 +41,7 @@
 
         (3) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the United States Army War College to award any new or existing degree.
 
-(Added [Pub. L. 106–65, div. A, title V, § 542(a)][/us/pl/106/65/s542/a], Oct. 5, 1999, [113 Stat. 607][/us/stat/113/607]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 543(d)(1), Oct. 14, 2008, [122 Stat. 4459][/us/stat/122/4459].)
+(Added [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 542(a), Oct. 5, 1999, [113 Stat. 607][/us/stat/113/607]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 543(d)(1), Oct. 14, 2008, [122 Stat. 4459][/us/stat/122/4459].)
 
  __Amendments__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/106/65/s542/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs542%2Fa
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F607
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4459

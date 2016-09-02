@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t10/stD/ptIV/ch947/m__us_usc_t10_s9743.md) | [Next](./../../../../../..//us/usc/t10/stD/ptIV/ch947/m__us_usc_t10_s9748.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9746)
 
-## \[§ 9746. Repealed. [Pub. L. 108–375, div. A, title X, § 1072(c)][/us/pl/108/375/s1072/c], Oct. 28, 2004, [118 Stat. 2058][/us/stat/118/2058]\]
+## \[§ 9746. Repealed. [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1072(c), Oct. 28, 2004, [118 Stat. 2058][/us/stat/118/2058]\]
 
-    Section, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 587][/us/stat/70A/587]; [Pub. L. 98–443, § 9(k)][/us/pl/98/443/s9/k], Oct. 4, 1984, [98 Stat. 1708][/us/stat/98/1708], related to civilian personnel in Alaska.
+    Section, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 587][/us/stat/70A/587]; [Pub. L. 98–443][/us/pl/98/443], § 9(k), Oct. 4, 1984, [98 Stat. 1708][/us/stat/98/1708], related to civilian personnel in Alaska.
 
 ----------
 
@@ -24,11 +24,11 @@
 ----------
 ----------
 
-[/us/pl/108/375/s1072/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1072%2Fc
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2058
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F587
-[/us/pl/98/443/s9/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9%2Fk
+[/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/stat/98/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1708
 
 

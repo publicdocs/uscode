@@ -97,15 +97,15 @@ July 28, 1942, ch. 528, § 4, 56 Stat. 723; July 17, 1953, ch. 220, § 1 (a)
 
 </table>
 
-    In subsection (a), the words “a member of” are substituted for the words “any person who, while in”, in 10:612 and 34:285e. The words “armed forces” are substituted for the words “the military service of the United States”, in 10:612; and “the naval service of the United States”, in 34:285e (which did not appear in the source statute for the revised section, as amended by the [act of July 17, 1953, ch. 220, § 1(b)][/us/act/1953-07-17/ch220/s1/b], [67 Stat. 177][/us/stat/67/177]). The words “other than a commissioned grade” are substituted for the words “noncommissioned grade” to make it clear that the revised section covers warrant officers. The words “receive or” are omitted as surplusage.
+    In subsection (a), the words “a member of” are substituted for the words “any person who, while in”, in 10:612 and 34:285e. The words “armed forces” are substituted for the words “the military service of the United States”, in 10:612; and “the naval service of the United States”, in 34:285e (which did not appear in the source statute for the revised section, as amended by the [act of July 17, 1953, ch. 220][/us/act/1953-07-17/ch220], § 1(b), [67 Stat. 177][/us/stat/67/177]). The words “other than a commissioned grade” are substituted for the words “noncommissioned grade” to make it clear that the revised section covers warrant officers. The words “receive or” are omitted as surplusage.
 
     In subsection (b), the words “appointment or promotion”, “and branch of the service”, “official”, and “by such warrant” are omitted as surplusage.
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–417, § 502(b)(1)][/us/pl/110/417/s502/b/1], struck out “in line of duty” before period at end.
+    2008—Subsec. (a). [Pub. L. 110–417][/us/pl/110/417], § 502(b)(1), struck out “in line of duty” before period at end.
 
-    Subsec. (c). [Pub. L. 110–417, § 502(b)(2)][/us/pl/110/417/s502/b/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 110–417][/us/pl/110/417], § 502(b)(2), added subsec. (c).
 
 ----------
 
@@ -118,9 +118,9 @@ July 28, 1942, ch. 528, § 4, 56 Stat. 723; July 17, 1953, ch. 220, § 1 (a)
 [/us/stat/70A/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F116
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4433
-[/us/act/1953-07-17/ch220/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-17%2Fch220%2Fs1%2Fb
+[/us/act/1953-07-17/ch220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-17%2Fch220
 [/us/stat/67/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F177
-[/us/pl/110/417/s502/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs502%2Fb%2F1
-[/us/pl/110/417/s502/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs502%2Fb%2F2
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 
 

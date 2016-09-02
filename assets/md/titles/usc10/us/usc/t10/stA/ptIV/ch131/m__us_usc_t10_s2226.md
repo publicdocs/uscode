@@ -23,7 +23,7 @@
 
     In this section, the term “contract voucher” means a voucher or invoice for the payment to a contractor for services, commercial items (as defined in [section 103 of title 41][/us/usc/t41/s103]), or other deliverable items provided by the contractor under a contract funded by the Department of Defense.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1006(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–247; amended [Pub. L. 111–350, § 5(b)(7)][/us/pl/111/350/s5/b/7], Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842].)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1006(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–247; amended [Pub. L. 111–350][/us/pl/111/350], § 5(b)(7), Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842].)
 
  __Amendments__ 
 
@@ -31,13 +31,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1006(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–248, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1006(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–248, provided that: 
 
 > “[Section 2226 of title 10][/us/usc/t10/s2226], United States Code (as added by subsection (a)), shall take effect on December 1, 2000.”
 
  __Conditional Requirement for Report__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1006(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–248, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1006(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–248, provided that:
 
 >     “(1) If for any month of the noncompliance reporting period the requirement in [section 2226 of title 10][/us/usc/t10/s2226], United States Code (as added by subsection (a)), is not met, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the magnitude of the unpaid contract vouchers. The report for a month shall be submitted not later than 30 days after the end of that month.
 
@@ -77,17 +77,17 @@
 ----------
 
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/111/350/s5/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F7
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3842
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
 [/us/usc/t41/s403/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F12
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s2226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2226
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s2226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2226
 [/us/usc/t10/s2226/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2226%2Fb

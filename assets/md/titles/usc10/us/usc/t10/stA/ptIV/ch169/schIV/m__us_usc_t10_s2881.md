@@ -33,7 +33,7 @@
 
         (5) any nonappropriated fund activity of the Department of Defense for the morale, welfare, and recreation of members of the armed forces.
 
-(Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)][/us/pl/104/106/s2801/a/1], Feb. 10, 1996, [110 Stat. 548][/us/stat/110/548]; amended [Pub. L. 106–65, div. B, title XXVIII, § 2804][/us/pl/106/65/s2804], Oct. 5, 1999, [113 Stat. 849][/us/stat/113/849]; [Pub. L. 109–163, div. B, title XXVIII, § 2805(a)][/us/pl/109/163/s2805/a], Jan. 6, 2006, [119 Stat. 3507][/us/stat/119/3507].)
+(Added [Pub. L. 104–106, div. B, title XXVIII][/us/pl/104/106/dB/tXXVIII], § 2801(a)(1), Feb. 10, 1996, [110 Stat. 548][/us/stat/110/548]; amended [Pub. L. 106–65, div. B, title XXVIII][/us/pl/106/65/dB/tXXVIII], § 2804, Oct. 5, 1999, [113 Stat. 849][/us/stat/113/849]; [Pub. L. 109–163, div. B, title XXVIII][/us/pl/109/163/dB/tXXVIII], § 2805(a), Jan. 6, 2006, [119 Stat. 3507][/us/stat/119/3507].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Construction of 2006 Amendment__ 
 
-[Pub. L. 109–163, div. B, title XXVIII, § 2805(c)][/us/pl/109/163/s2805/c], Jan. 6, 2006, [119 Stat. 3507][/us/stat/119/3507], provided that: 
+[Pub. L. 109–163, div. B, title XXVIII][/us/pl/109/163/dB/tXXVIII], § 2805(c), Jan. 6, 2006, [119 Stat. 3507][/us/stat/119/3507], provided that: 
 
 > “Nothing in the amendment made by subsection (a) \[amending this section\] may be construed to alter any law and regulation applicable to the operation of a child development center, as defined in [section 2871(2) of title 10][/us/usc/t10/s2871/2], United States Code.”
 
@@ -54,15 +54,15 @@
 ----------
 ----------
 
-[/us/pl/104/106/s2801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2801%2Fa%2F1
+[/us/pl/104/106/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdB%2FtXXVIII
 [/us/stat/110/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F548
-[/us/pl/106/65/s2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2804
+[/us/pl/106/65/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdB%2FtXXVIII
 [/us/stat/113/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F849
-[/us/pl/109/163/s2805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2805%2Fa
+[/us/pl/109/163/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdB%2FtXXVIII
 [/us/stat/119/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3507
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/109/163/s2805/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2805%2Fc
+[/us/pl/109/163/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdB%2FtXXVIII
 [/us/stat/119/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3507
 [/us/usc/t10/s2871/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2871%2F2
 

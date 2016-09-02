@@ -23,7 +23,7 @@
 
     A determination described in subsection (a) may be made at any time after receipt of notification of an unrestricted report of a sexual assault or other sex-related offense that identifies the member as an alleged perpetrator.
 
-(Added [Pub. L. 113–66, div. A, title XVII, § 1713(a)][/us/pl/113/66/s1713/a], Dec. 26, 2013, [127 Stat. 963][/us/stat/127/963]; amended [Pub. L. 113–291, div. A, title X, § 1071(f)(8)][/us/pl/113/291/s1071/f/8], Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510].)
+(Added [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1713(a), Dec. 26, 2013, [127 Stat. 963][/us/stat/127/963]; amended [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(f)(8), Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510].)
 
  __Prior Provisions__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t10/s880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs880
-[/us/pl/113/66/s1713/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1713%2Fa
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F963
-[/us/pl/113/291/s1071/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F8
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3510
 [/us/usc/t10/s12306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12306
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291

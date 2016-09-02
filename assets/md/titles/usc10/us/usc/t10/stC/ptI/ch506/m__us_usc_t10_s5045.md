@@ -17,7 +17,7 @@
 
     There are in the Headquarters, Marine Corps, not more than six Deputy Commandants, detailed by the Secretary of the Navy from officers on the active-duty list of the Marine Corps.
 
-(Added [Pub. L. 99–433, title V, § 513(b)][/us/pl/99/433/s513/b], Oct. 1, 1986, [100 Stat. 1054][/us/stat/100/1054]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 902(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–224; [Pub. L. 107–314, div. A, title IX, § 934][/us/pl/107/314/s934], Dec. 2, 2002, [116 Stat. 2626][/us/stat/116/2626].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 513(b), Oct. 1, 1986, [100 Stat. 1054][/us/stat/100/1054]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 902(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–224; [Pub. L. 107–314, div. A, title IX][/us/pl/107/314/dA/tIX], § 934, Dec. 2, 2002, [116 Stat. 2626][/us/stat/116/2626].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/99/433/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs513%2Fb
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1054
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/314/s934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs934
+[/us/pl/107/314/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtIX
 [/us/stat/116/2626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2626
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398

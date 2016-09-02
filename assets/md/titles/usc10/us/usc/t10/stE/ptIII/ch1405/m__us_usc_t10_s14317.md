@@ -61,21 +61,21 @@
 
         (4) Consideration of an officer for promotion under this subsection shall be under regulations prescribed by the Secretary of the military department concerned.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2945][/us/stat/108/2945]; amended [Pub. L. 104–106, div. A, title XV, § 1501(b)(26)][/us/pl/104/106/s1501/b/26], Feb. 10, 1996, [110 Stat. 497][/us/stat/110/497]; [Pub. L. 105–85, div. A, title X, § 1073(a)(68)][/us/pl/105/85/s1073/a/68], Nov. 18, 1997, [111 Stat. 1904][/us/stat/111/1904]; [Pub. L. 108–136, div. A, title V, § 512(a)][/us/pl/108/136/s512/a], Nov. 24, 2003, [117 Stat. 1459][/us/stat/117/1459]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 513, Oct. 14, 2008, [122 Stat. 4441][/us/stat/122/4441].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2945][/us/stat/108/2945]; amended [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(26), Feb. 10, 1996, [110 Stat. 497][/us/stat/110/497]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(68), Nov. 18, 1997, [111 Stat. 1904][/us/stat/111/1904]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 512(a), Nov. 24, 2003, [117 Stat. 1459][/us/stat/117/1459]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 513, Oct. 14, 2008, [122 Stat. 4441][/us/stat/122/4441].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in subsec. (a) of this section were contained in sections 3378, 5906, and 8378 of this title, prior to repeal by [Pub. L. 103–337, § 1629(a)(1)][/us/pl/103/337/s1629/a/1], (b)(2), (c)(1).
+    Provisions similar to those in subsec. (a) of this section were contained in sections 3378, 5906, and 8378 of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(a)(1), (b)(2), (c)(1).
 
  __Amendments__ 
 
-    2008—Subsec. (d). [Pub. L. 110–417, § 513(a)][/us/pl/110/417/s513/a], designated first sentence as par. (1) and second sentence as par. (2) and, in par. (1), substituted “unless the officer—” for “unless the officer”, inserted subpar. (A) designation before “is ordered”, substituted “duty; or” for “duty.”, and added subpar. (B).
+    2008—Subsec. (d). [Pub. L. 110–417][/us/pl/110/417], § 513(a), designated first sentence as par. (1) and second sentence as par. (2) and, in par. (1), substituted “unless the officer—” for “unless the officer”, inserted subpar. (A) designation before “is ordered”, substituted “duty; or” for “duty.”, and added subpar. (B).
 
-    Subsec. (e)(1)(B). [Pub. L. 110–417, § 513(b)][/us/pl/110/417/s513/b], inserted “, or by examination for Federal recognition under title 32” before period at end.
+    Subsec. (e)(1)(B). [Pub. L. 110–417][/us/pl/110/417], § 513(b), inserted “, or by examination for Federal recognition under title 32” before period at end.
 
-    2003—Subsec. (d). [Pub. L. 108–136, § 512(a)(1)][/us/pl/108/136/s512/a/1], substituted “Except as provided in subsection (e), if a reserve officer” for “If a reserve officer”.
+    2003—Subsec. (d). [Pub. L. 108–136][/us/pl/108/136], § 512(a)(1), substituted “Except as provided in subsection (e), if a reserve officer” for “If a reserve officer”.
 
-    Subsec. (e). [Pub. L. 108–136, § 512(a)(2)][/us/pl/108/136/s512/a/2], amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary of the military department concerned, a reserve officer who is not on the active-duty list and who is ordered to active duty in time of war or national emergency may, if eligible, be considered for promotion by a mandatory promotion board convened under section 14101(a) or a special selection board convened under [section 14502 of this title][/us/usc/t10/s14502] for not more than two years from the date the officer is ordered to active duty unless the President suspends the operation of this section under the provisions of section 123 or 10213 of this title.”
+    Subsec. (e). [Pub. L. 108–136][/us/pl/108/136], § 512(a)(2), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary of the military department concerned, a reserve officer who is not on the active-duty list and who is ordered to active duty in time of war or national emergency may, if eligible, be considered for promotion by a mandatory promotion board convened under section 14101(a) or a special selection board convened under [section 14502 of this title][/us/usc/t10/s14502] for not more than two years from the date the officer is ordered to active duty unless the President suspends the operation of this section under the provisions of section 123 or 10213 of this title.”
 
     1997—Subsec. (d). [Pub. L. 105–85][/us/pl/105/85] substituted “section 14315” for “section 14314”.
 
@@ -98,21 +98,21 @@
 [/us/usc/t10/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14502
 [/us/usc/t10/s14101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fa
 [/us/usc/t10/s123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs123%2Fa
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2945
-[/us/pl/104/106/s1501/b/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F26
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F497
-[/us/pl/105/85/s1073/a/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F68
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1904
-[/us/pl/108/136/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs512%2Fa
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1459
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4441
-[/us/pl/103/337/s1629/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fa%2F1
-[/us/pl/110/417/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs513%2Fa
-[/us/pl/110/417/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs513%2Fb
-[/us/pl/108/136/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs512%2Fa%2F1
-[/us/pl/108/136/s512/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs512%2Fa%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t10/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14502
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106

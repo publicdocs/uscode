@@ -135,7 +135,7 @@
 
         (2) A member who separates by the date specified in paragraph (1) may continue to be provided voluntary separation pay and benefits under this section until the member has received the entire amount of pay and benefits to which the member is entitled under this section.
 
-(Added [Pub. L. 109–163, div. A, title VI, § 643(a)(1)][/us/pl/109/163/s643/a/1], Jan. 6, 2006, [119 Stat. 3306][/us/stat/119/3306]; amended [Pub. L. 109–364, div. A, title VI, § 623(a)(1)][/us/pl/109/364/s623/a/1], (2), Oct. 17, 2006, [120 Stat. 2256][/us/stat/120/2256]; [Pub. L. 111–84, div. A, title X, § 1073(a)(14)][/us/pl/111/84/s1073/a/14], Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473]; [Pub. L. 111–383, div. A, title X, § 1075(b)(18)][/us/pl/111/383/s1075/b/18], Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370]; [Pub. L. 112–81, div. A, title V, § 526][/us/pl/112/81/s526], title VI, § 631(f)(4)(A), Dec. 31, 2011, [125 Stat. 1401][/us/stat/125/1401], 1465; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948].)
+(Added [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 643(a)(1), Jan. 6, 2006, [119 Stat. 3306][/us/stat/119/3306]; amended [Pub. L. 109–364, div. A, title VI][/us/pl/109/364/dA/tVI], § 623(a)(1), (2), Oct. 17, 2006, [120 Stat. 2256][/us/stat/120/2256]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(14), Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(18), Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 526, title VI, § 631(f)(4)(A), Dec. 31, 2011, [125 Stat. 1401][/us/stat/125/1401], 1465; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(9), Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948].)
 
  __References in Text__ 
 
@@ -143,27 +143,27 @@
 
  __Amendments__ 
 
-    2013—Subsec. (e)(2)(B). [Pub. L. 112–239, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], made technical amendment to directory language of [Pub. L. 112–81, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A]. See 2011 Amendment note below.
+    2013—Subsec. (e)(2)(B). [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(9), made technical amendment to directory language of [Pub. L. 112–81][/us/pl/112/81], § 631(f)(4)(A). See 2011 Amendment note below.
 
-    2011—Subsec. (e)(2)(B). [Pub. L. 112–81, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A], as amended by [Pub. L. 112–239, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], substituted “474” for “404” and “476” for “406”.
+    2011—Subsec. (e)(2)(B). [Pub. L. 112–81][/us/pl/112/81], § 631(f)(4)(A), as amended by [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(9), substituted “474” for “404” and “476” for “406”.
 
     Subsec. (j)(3). [Pub. L. 111–383][/us/pl/111/383] substituted “this title” for “title 10”.
 
-    Subsec. (k)(1). [Pub. L. 112–81, § 526][/us/pl/112/81/s526], substituted “December 31, 2018” for “December 31, 2012”.
+    Subsec. (k)(1). [Pub. L. 112–81][/us/pl/112/81], § 526, substituted “December 31, 2018” for “December 31, 2012”.
 
     2009—Subsec. (h)(1). [Pub. L. 111–84][/us/pl/111/84] substituted “qualifies” for “qualities”.
 
-    2006—Subsec. (f). [Pub. L. 109–364, § 623(a)(1)][/us/pl/109/364/s623/a/1], substituted “four” for “two”.
+    2006—Subsec. (f). [Pub. L. 109–364][/us/pl/109/364], § 623(a)(1), substituted “four” for “two”.
 
-    Subsec. (k)(1). [Pub. L. 109–364, § 623(a)(2)][/us/pl/109/364/s623/a/2], substituted “2012” for “2008”.
+    Subsec. (k)(1). [Pub. L. 109–364][/us/pl/109/364], § 623(a)(2), substituted “2012” for “2008”.
 
  __Effective Date of 2013 Amendment__ 
 
-    [Pub. L. 112–239, div. A, title X, § 1076(a)][/us/pl/112/239/s1076/a], Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
+    [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a), Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
 
  __Limitation on Applicability__ 
 
-    [Pub. L. 109–163, div. A, title VI, § 643(b)][/us/pl/109/163/s643/b], Jan. 6, 2006, [119 Stat. 3310][/us/stat/119/3310], which provided that, during the period beginning on Jan. 6, 2006, and ending on Dec. 31, 2008, members eligible for separation and for voluntary separation pay and benefits under this section would be limited to officers who had met the eligibility requirements of this section, but had not completed more than 12 years of active service as of the date of separation, was repealed by [Pub. L. 109–364, div. A, title VI, § 623(a)(3)][/us/pl/109/364/s623/a/3], Oct. 17, 2006, [120 Stat. 2256][/us/stat/120/2256].
+    [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 643(b), Jan. 6, 2006, [119 Stat. 3310][/us/stat/119/3310], which provided that, during the period beginning on Jan. 6, 2006, and ending on Dec. 31, 2008, members eligible for separation and for voluntary separation pay and benefits under this section would be limited to officers who had met the eligibility requirements of this section, but had not completed more than 12 years of active service as of the date of separation, was repealed by [Pub. L. 109–364, div. A, title VI][/us/pl/109/364/dA/tVI], § 623(a)(3), Oct. 17, 2006, [120 Stat. 2256][/us/stat/120/2256].
 
 ----------
 
@@ -177,33 +177,33 @@
 [/us/usc/t10/s1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174
 [/us/usc/t10/s1413a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1413a
 [/us/usc/t32/s502/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs502%2Ff%2F1
-[/us/pl/109/163/s643/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs643%2Fa%2F1
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3306
-[/us/pl/109/364/s623/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs623%2Fa%2F1
+[/us/pl/109/364/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVI
 [/us/stat/120/2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2256
-[/us/pl/111/84/s1073/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F14
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2473
-[/us/pl/111/383/s1075/b/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F18
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4370
-[/us/pl/112/81/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs526
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1401
-[/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
-[/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
-[/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA
-[/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA
-[/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/112/81/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs526
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/109/364/s623/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs623%2Fa%2F1
-[/us/pl/109/364/s623/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs623%2Fa%2F2
-[/us/pl/112/239/s1076/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1947
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/109/163/s643/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs643%2Fb
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3310
-[/us/pl/109/364/s623/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs623%2Fa%2F3
+[/us/pl/109/364/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVI
 [/us/stat/120/2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2256
 
 

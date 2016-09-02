@@ -49,7 +49,7 @@
 
         (2) medical logistical activities can, to the extent possible without jeopardizing operational requirements, support an effective organ and tissue donation program.
 
-(Added [Pub. L. 105–261, div. A, title VII, § 741(b)(1)][/us/pl/105/261/s741/b/1], Oct. 17, 1998, [112 Stat. 2073][/us/stat/112/2073]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(8)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–290.)
+(Added [Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 741(b)(1), Oct. 17, 1998, [112 Stat. 2073][/us/stat/112/2073]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(8)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–290.)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Findings__ 
 
-[Pub. L. 105–261, div. A, title VII, § 741(a)][/us/pl/105/261/s741/a], Oct. 17, 1998, [112 Stat. 2073][/us/stat/112/2073], provided that: 
+[Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 741(a), Oct. 17, 1998, [112 Stat. 2073][/us/stat/112/2073], provided that: 
 
 > “Congress makes the following findings:
 
@@ -71,7 +71,7 @@
 
  __Report on Implementation__ 
 
-    [Pub. L. 105–261, div. A, title VII, § 741(c)][/us/pl/105/261/s741/c], Oct. 17, 1998, [112 Stat. 2074][/us/stat/112/2074], as amended by [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], directed the Secretary of Defense to submit to committees of Congress a report on the implementation of this section not later than Sept. 1, 1999.
+    [Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 741(c), Oct. 17, 1998, [112 Stat. 2074][/us/stat/112/2074], as amended by [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(3), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], directed the Secretary of Defense to submit to committees of Congress a report on the implementation of this section not later than Sept. 1, 1999.
 
 ----------
 
@@ -80,16 +80,16 @@
 ----------
 ----------
 
-[/us/pl/105/261/s741/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs741%2Fb%2F1
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2073
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/105/261/s741/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs741%2Fa
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2073
-[/us/pl/105/261/s741/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs741%2Fc
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2074
-[/us/pl/106/65/s1067/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F3
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
 
 

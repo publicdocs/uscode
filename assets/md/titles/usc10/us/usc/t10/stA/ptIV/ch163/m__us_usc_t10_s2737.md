@@ -47,7 +47,7 @@
 
     (h) So far as practicable, regulations prescribed under this section shall be uniform. Regulations prescribed under this section by the Secretaries of the military departments must be approved by the Secretary of Defense.
 
-(Added [Pub. L. 87–769, § 1(1)(A)][/us/pl/87/769/s1/1/A], Oct. 9, 1962, [76 Stat. 767][/us/stat/76/767], § 2736; renumbered § 2737, [Pub. L. 89–718, § 21(a)][/us/pl/89/718/s21/a], Nov. 2, 1966, [80 Stat. 1118][/us/stat/80/1118].)
+(Added [Pub. L. 87–769][/us/pl/87/769], § 1(1)(A), Oct. 9, 1962, [76 Stat. 767][/us/stat/76/767], § 2736; renumbered § 2737, [Pub. L. 89–718][/us/pl/89/718], § 21(a), Nov. 2, 1966, [80 Stat. 1118][/us/stat/80/1118].)
 
  __Transfer of Functions__ 
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/87/769/s1/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F769%2Fs1%2F1%2FA
+[/us/pl/87/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F769
 [/us/stat/76/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F767
-[/us/pl/89/718/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs21%2Fa
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1118
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

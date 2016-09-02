@@ -49,11 +49,11 @@
 
         (11) Tobacco products.
 
-(Added [Pub. L. 101–510, div. A, title III, § 329(a)(1)][/us/pl/101/510/s329/a/1], Nov. 5, 1990, [104 Stat. 1534][/us/stat/104/1534]; amended [Pub. L. 103–160, div. A, title III, § 371(a)][/us/pl/103/160/s371/a], formerly § 371(c), Nov. 30, 1993, [107 Stat. 1635][/us/stat/107/1635], renumbered § 371(a), [Pub. L. 104–106, div. A, title III, § 340(a)(2)][/us/pl/104/106/s340/a/2], Feb. 10, 1996, [110 Stat. 265][/us/stat/110/265]; [Pub. L. 112–81, div. A, title VI, § 641][/us/pl/112/81/s641], Dec. 31, 2011, [125 Stat. 1466][/us/stat/125/1466].)
+(Added [Pub. L. 101–510, div. A, title III][/us/pl/101/510/dA/tIII], § 329(a)(1), Nov. 5, 1990, [104 Stat. 1534][/us/stat/104/1534]; amended [Pub. L. 103–160, div. A, title III][/us/pl/103/160/dA/tIII], § 371(a), formerly § 371(c), Nov. 30, 1993, [107 Stat. 1635][/us/stat/107/1635], renumbered § 371(a), [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 340(a)(2), Feb. 10, 1996, [110 Stat. 265][/us/stat/110/265]; [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 641, Dec. 31, 2011, [125 Stat. 1466][/us/stat/125/1466].)
 
  __Prior Provisions__ 
 
-    A prior section 7604, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 471][/us/stat/70A/471]; Nov. 2, 1966, [Pub. L. 89–718, § 44][/us/pl/89/718/s44], [80 Stat. 1120][/us/stat/80/1120], related to profit on sales from ships’ stores, prior to repeal by [Pub. L. 101–510, § 329(a)(1)][/us/pl/101/510/s329/a/1].
+    A prior section 7604, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 471][/us/stat/70A/471]; Nov. 2, 1966, [Pub. L. 89–718][/us/pl/89/718], § 44, [80 Stat. 1120][/us/stat/80/1120], related to profit on sales from ships’ stores, prior to repeal by [Pub. L. 101–510][/us/pl/101/510], § 329(a)(1).
 
  __Amendments__ 
 
@@ -63,19 +63,19 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–160, div. A, title III, § 371(b)][/us/pl/103/160/s371/b], formerly § 371(d), Nov. 30, 1993, [107 Stat. 1635][/us/stat/107/1635], renumbered § 371(b) by [Pub. L. 104–106, div. A, title III, § 340(a)(2)][/us/pl/104/106/s340/a/2], Feb. 10, 1996, [110 Stat. 265][/us/stat/110/265]; as amended by [Pub. L. 103–337, div. A, title III, § 374(b)][/us/pl/103/337/s374/b], Oct. 5, 1994, [108 Stat. 2736][/us/stat/108/2736], provided that: 
+[Pub. L. 103–160, div. A, title III][/us/pl/103/160/dA/tIII], § 371(b), formerly § 371(d), Nov. 30, 1993, [107 Stat. 1635][/us/stat/107/1635], renumbered § 371(b) by [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 340(a)(2), Feb. 10, 1996, [110 Stat. 265][/us/stat/110/265]; as amended by [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 374(b), Oct. 5, 1994, [108 Stat. 2736][/us/stat/108/2736], provided that: 
 
 > “Subsections (b) and (c) of [section 7604 of title 10][/us/usc/t10/s7604], United States Code, as added by subsection (c) \[now (a)\], shall take effect on October 1, 1994.”
 
  __Regulations__ 
 
-[Pub. L. 101–510, div. A, title III, § 329(a)(3)][/us/pl/101/510/s329/a/3], Nov. 5, 1990, [104 Stat. 1534][/us/stat/104/1534], provided that: 
+[Pub. L. 101–510, div. A, title III][/us/pl/101/510/dA/tIII], § 329(a)(3), Nov. 5, 1990, [104 Stat. 1534][/us/stat/104/1534], provided that: 
 
 > “The regulations required to be prescribed under [section 7604 of title 10][/us/usc/t10/s7604], United States Code (as amended by paragraph (1)), shall be first prescribed not later than 90 days after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
  __Conversion of Ships’ Stores to Operation as Nonappropriated Fund Instrumentalities; Transfer of Funds__ 
 
-    [Pub. L. 103–160, div. A, title III, § 371(a)][/us/pl/103/160/s371/a], (b), Nov. 30, 1993, [107 Stat. 1634][/us/stat/107/1634], 1635, as amended by [Pub. L. 103–337, div. A, title III, § 374(a)][/us/pl/103/337/s374/a], Oct. 5, 1994, [108 Stat. 2736][/us/stat/108/2736], provided that not later than Dec. 31, 1995, Secretary of the Navy was to convert operation of all ships’ stores from operation as activity funded by direct appropriations to operation by Navy Exchange Service Command as activity funded from sources other than appropriated funds, prior to repeal by [Pub. L. 104–106, div. A, title III, § 340(a)(1)][/us/pl/104/106/s340/a/1], Feb. 10, 1996, [110 Stat. 265][/us/stat/110/265].
+    [Pub. L. 103–160, div. A, title III][/us/pl/103/160/dA/tIII], § 371(a), (b), Nov. 30, 1993, [107 Stat. 1634][/us/stat/107/1634], 1635, as amended by [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 374(a), Oct. 5, 1994, [108 Stat. 2736][/us/stat/108/2736], provided that not later than Dec. 31, 1995, Secretary of the Navy was to convert operation of all ships’ stores from operation as activity funded by direct appropriations to operation by Navy Exchange Service Command as activity funded from sources other than appropriated funds, prior to repeal by [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 340(a)(1), Feb. 10, 1996, [110 Stat. 265][/us/stat/110/265].
 
 ----------
 
@@ -84,36 +84,36 @@
 ----------
 ----------
 
-[/us/pl/101/510/s329/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs329%2Fa%2F1
+[/us/pl/101/510/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIII
 [/us/stat/104/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1534
-[/us/pl/103/160/s371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs371%2Fa
+[/us/pl/103/160/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIII
 [/us/stat/107/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1635
-[/us/pl/104/106/s340/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs340%2Fa%2F2
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F265
-[/us/pl/112/81/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs641
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1466
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F471
-[/us/pl/89/718/s44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs44
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1120
-[/us/pl/101/510/s329/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs329%2Fa%2F1
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
-[/us/pl/103/160/s371/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs371%2Fb
+[/us/pl/103/160/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIII
 [/us/stat/107/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1635
-[/us/pl/104/106/s340/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs340%2Fa%2F2
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F265
-[/us/pl/103/337/s374/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs374%2Fb
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2736
 [/us/usc/t10/s7604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7604
-[/us/pl/101/510/s329/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs329%2Fa%2F3
+[/us/pl/101/510/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIII
 [/us/stat/104/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1534
 [/us/usc/t10/s7604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7604
-[/us/pl/103/160/s371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs371%2Fa
+[/us/pl/103/160/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIII
 [/us/stat/107/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1634
-[/us/pl/103/337/s374/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs374%2Fa
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2736
-[/us/pl/104/106/s340/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs340%2Fa%2F1
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F265
 
 

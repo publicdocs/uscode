@@ -35,11 +35,11 @@
 
     In this section, the term ‘basic training’ means the initial entry training program of the Army that constitutes the basic training of new recruits.
 
-(Added [Pub. L. 105–261, div. A, title V, § 521(a)(1)][/us/pl/105/261/s521/a/1], Oct. 17, 1998, [112 Stat. 2009][/us/stat/112/2009].)
+(Added [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 521(a)(1), Oct. 17, 1998, [112 Stat. 2009][/us/stat/112/2009].)
 
  __Implementation__ 
 
-[Pub. L. 105–261, div. A, title V, § 521(a)(3)][/us/pl/105/261/s521/a/3], Oct. 17, 1998, [112 Stat. 2010][/us/stat/112/2010], provided that: 
+[Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 521(a)(3), Oct. 17, 1998, [112 Stat. 2010][/us/stat/112/2010], provided that: 
 
 > “The Secretary of the Army shall implement [section 4319 of title 10][/us/usc/t10/s4319], United States Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999.”
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/105/261/s521/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs521%2Fa%2F1
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2009
-[/us/pl/105/261/s521/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs521%2Fa%2F3
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2010
 [/us/usc/t10/s4319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4319
 

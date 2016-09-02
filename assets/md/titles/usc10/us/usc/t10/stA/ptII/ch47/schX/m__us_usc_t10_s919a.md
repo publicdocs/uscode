@@ -45,7 +45,7 @@
 
     (d) In this section, the term “unborn child” means a child in utero, and the term “child in utero” or “child, who is in utero” means a member of the species homo sapiens, at any stage of development, who is carried in the womb.
 
-(Added [Pub. L. 108–212, § 3(a)][/us/pl/108/212/s3/a], Apr. 1, 2004, [118 Stat. 569][/us/stat/118/569].)
+(Added [Pub. L. 108–212][/us/pl/108/212], § 3(a), Apr. 1, 2004, [118 Stat. 569][/us/stat/118/569].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t18/s1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1365
-[/us/pl/108/212/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F212%2Fs3%2Fa
+[/us/pl/108/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F212
 [/us/stat/118/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F569
 
 

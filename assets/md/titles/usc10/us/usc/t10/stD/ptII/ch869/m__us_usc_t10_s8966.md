@@ -29,7 +29,7 @@
 
     (d) The Secretary shall maintain a retired list containing the name of each retired enlisted member of the Regular Air Force.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 556][/us/stat/70A/556]; [Pub. L. 85–861, § 1(199)][/us/pl/85/861/s1/199], Sept. 2, 1958, [72 Stat. 1541][/us/stat/72/1541]; [Pub. L. 100–180, div. A, title V, § 512(d)(3)][/us/pl/100/180/s512/d/3], Dec. 4, 1987, [101 Stat. 1090][/us/stat/101/1090].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 556][/us/stat/70A/556]; [Pub. L. 85–861][/us/pl/85/861], § 1(199), Sept. 2, 1958, [72 Stat. 1541][/us/stat/72/1541]; [Pub. L. 100–180, div. A, title V][/us/pl/100/180/dA/tV], § 512(d)(3), Dec. 4, 1987, [101 Stat. 1090][/us/stat/101/1090].)
 
 <table>
 
@@ -180,9 +180,9 @@ July 24, 1956, ch. 677, § 2(f), (g), 70 Stat. 623.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F556
-[/us/pl/85/861/s1/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F199
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1541
-[/us/pl/100/180/s512/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs512%2Fd%2F3
+[/us/pl/100/180/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtV
 [/us/stat/101/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1090
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861

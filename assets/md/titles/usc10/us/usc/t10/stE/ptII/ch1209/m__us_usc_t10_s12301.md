@@ -51,7 +51,7 @@
 
         (3) A member of the Army National Guard of the United States or the Air National Guard of the United States may be ordered to active duty under this subsection only with the consent of the Governor or other appropriate authority of the State concerned.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 27][/us/stat/70A/27], § 672; [Pub. L. 85–861][/us/pl/85/861], §§ 1(13), 33(a)(5), Sept. 2, 1958, [72 Stat. 1440][/us/stat/72/1440], 1564; [Pub. L. 96–357, § 6][/us/pl/96/357/s6], Sept. 24, 1980, [94 Stat. 1182][/us/stat/94/1182]; [Pub. L. 96–584, § 1][/us/pl/96/584/s1], Dec. 23, 1980, [94 Stat. 3377][/us/stat/94/3377]; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title IX, § 9122\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–127, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title IX, § 9122\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–127; [Pub. L. 99–661, div. A, title V][/us/pl/99/661], §§ 522, 524(a), Nov. 14, 1986, [100 Stat. 3871][/us/stat/100/3871]; [Pub. L. 100–456, div. A, title XII, § 1234(a)(1)][/us/pl/100/456/s1234/a/1], (2), Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; renumbered § 12301 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337], §§ 1662(e)(2), 1675(c)(1), Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992], 3017; [Pub. L. 106–65, div. A, title V, § 512][/us/pl/106/65/s512], Oct. 5, 1999, [113 Stat. 592][/us/stat/113/592]; [Pub. L. 108–375, div. A, title V, § 514(a)][/us/pl/108/375/s514/a], Oct. 28, 2004, [118 Stat. 1882][/us/stat/118/1882].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 27][/us/stat/70A/27], § 672; [Pub. L. 85–861][/us/pl/85/861], §§ 1(13), 33(a)(5), Sept. 2, 1958, [72 Stat. 1440][/us/stat/72/1440], 1564; [Pub. L. 96–357][/us/pl/96/357], § 6, Sept. 24, 1980, [94 Stat. 1182][/us/stat/94/1182]; [Pub. L. 96–584][/us/pl/96/584], § 1, Dec. 23, 1980, [94 Stat. 3377][/us/stat/94/3377]; [Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title IX, § 9122\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–127, and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title IX, § 9122\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–127; [Pub. L. 99–661, div. A, title V][/us/pl/99/661/dA/tV], §§ 522, 524(a), Nov. 14, 1986, [100 Stat. 3871][/us/stat/100/3871]; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1234(a)(1), (2), Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; renumbered § 12301 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], §§ 1662(e)(2), 1675(c)(1), Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992], 3017; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 512, Oct. 5, 1999, [113 Stat. 592][/us/stat/113/592]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 514(a), Oct. 28, 2004, [118 Stat. 1882][/us/stat/118/1882].)
 
 <table>
 
@@ -199,27 +199,27 @@ Aug. 9, 1955, ch. 665, § 2(e), 69 Stat. 599.  </td>
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–375, § 514(a)(1)][/us/pl/108/375/s514/a/1], struck out “(other than for training)” after “that Secretary to active duty”.
+    2004—Subsec. (a). [Pub. L. 108–375][/us/pl/108/375], § 514(a)(1), struck out “(other than for training)” after “that Secretary to active duty”.
 
-    Subsec. (c). [Pub. L. 108–375, § 514(a)(2)][/us/pl/108/375/s514/a/2], substituted “as provided in subsection (a)” for “(other than for training)” and “so ordered to active duty” for “ordered to active duty (other than for training)”.
+    Subsec. (c). [Pub. L. 108–375][/us/pl/108/375], § 514(a)(2), substituted “as provided in subsection (a)” for “(other than for training)” and “so ordered to active duty” for “ordered to active duty (other than for training)”.
 
-    Subsec. (e). [Pub. L. 108–375, § 514(a)(3)][/us/pl/108/375/s514/a/3], substituted “as provided in subsection (a)” for “(other than for training)”.
+    Subsec. (e). [Pub. L. 108–375][/us/pl/108/375], § 514(a)(3), substituted “as provided in subsection (a)” for “(other than for training)”.
 
     1999—Subsec. (h). [Pub. L. 106–65][/us/pl/106/65] added subsec. (h).
 
-    1994—[Pub. L. 103–337, § 1662(e)(2)][/us/pl/103/337/s1662/e/2], renumbered [section 672 of this title][/us/usc/t10/s672] as this section.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 1662(e)(2), renumbered [section 672 of this title][/us/usc/t10/s672] as this section.
 
-    Subsec. (b). [Pub. L. 103–337, § 1675(c)(1)(A)][/us/pl/103/337/s1675/c/1/A], substituted “(or, in the case of the District of Columbia National Guard, the commanding general of the District of Columbia National Guard)” for “or Territory or Puerto Rico or the commanding general of the District of Columbia National Guard, as the case may be”.
+    Subsec. (b). [Pub. L. 103–337][/us/pl/103/337], § 1675(c)(1)(A), substituted “(or, in the case of the District of Columbia National Guard, the commanding general of the District of Columbia National Guard)” for “or Territory or Puerto Rico or the commanding general of the District of Columbia National Guard, as the case may be”.
 
-    Subsec. (d). [Pub. L. 103–337, § 1675(c)(1)(B)][/us/pl/103/337/s1675/c/1/B], struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is” after “authority of the State”.
+    Subsec. (d). [Pub. L. 103–337][/us/pl/103/337], § 1675(c)(1)(B), struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is” after “authority of the State”.
 
-    1988—Subsec. (b). [Pub. L. 100–456, § 1234(a)(2)][/us/pl/100/456/s1234/a/2], substituted “or Puerto Rico” for “, Puerto Rico, or the Canal Zone,”.
+    1988—Subsec. (b). [Pub. L. 100–456][/us/pl/100/456], § 1234(a)(2), substituted “or Puerto Rico” for “, Puerto Rico, or the Canal Zone,”.
 
-    Subsec. (d). [Pub. L. 100–456, § 1234(a)(1)][/us/pl/100/456/s1234/a/1], struck out “the Canal Zone,” after “Puerto Rico,”.
+    Subsec. (d). [Pub. L. 100–456][/us/pl/100/456], § 1234(a)(1), struck out “the Canal Zone,” after “Puerto Rico,”.
 
-    1986—Subsec. (f). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[§ 9122\], [Pub. L. 99–661, § 522][/us/pl/99/661/s522], amended section identically adding subsec. (f).
+    1986—Subsec. (f). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[§ 9122\], [Pub. L. 99–661][/us/pl/99/661], § 522, amended section identically adding subsec. (f).
 
-    Subsec. (g). [Pub. L. 99–661, § 524(a)][/us/pl/99/661/s524/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 99–661][/us/pl/99/661], § 524(a), added subsec. (g).
 
     1980—Subsec. (a). [Pub. L. 96–357][/us/pl/96/357] struck out cl. (1) designation for second sentence and cl. (2) prohibition against ordering a member of the Standby Reserve to active duty unless the Director of Selective Service determined that the member was available for active duty.
 
@@ -227,7 +227,7 @@ Aug. 9, 1955, ch. 665, § 2(e), 69 Stat. 599.  </td>
 
     1958—Subsec. (a). [Pub. L. 85–861][/us/pl/85/861], §§ 1(13), 33(a)(5), inserted “(other than for training)” after “active duty”, substituted “inactive National Guard” for “inactive Army National Guard or in the inactive Air National Guard”, and inserted provisions prohibiting a member of the Standby Reserve from being ordered to active duty under this subsection unless the Director of Selective Service determines that the member is available for active duty.
 
-    Subsec. (c). [Pub. L. 85–861, § 33(a)(5)][/us/pl/85/861/s33/a/5], inserted “(other than for training)” after “active duty”.
+    Subsec. (c). [Pub. L. 85–861][/us/pl/85/861], § 33(a)(5), inserted “(other than for training)” after “active duty”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -235,7 +235,7 @@ Aug. 9, 1955, ch. 665, § 2(e), 69 Stat. 599.  </td>
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–661, div. A, title V, § 524(b)][/us/pl/99/661/s524/b], Nov. 14, 1986, [100 Stat. 3872][/us/stat/100/3872], provided that: 
+[Pub. L. 99–661, div. A, title V][/us/pl/99/661/dA/tV], § 524(b), Nov. 14, 1986, [100 Stat. 3872][/us/stat/100/3872], provided that: 
 
 > “Section 672(g) \[now 12301(g)\] of title 10, United States Code, as added by subsection (a), does not authorize a member of a reserve component to be ordered to active duty for a period before the date of the enactment of this Act \[Nov. 14, 1986\].”
 
@@ -245,11 +245,11 @@ Aug. 9, 1955, ch. 665, § 2(e), 69 Stat. 599.  </td>
 
  __Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661__ 
 
-    For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see [Pub. L. 100–26, § 6][/us/pl/100/26/s6], Apr. 21, 1987, [101 Stat. 274][/us/stat/101/274], set out as a note under [section 2302 of this title][/us/usc/t10/s2302].
+    For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see [Pub. L. 100–26][/us/pl/100/26], § 6, Apr. 21, 1987, [101 Stat. 274][/us/stat/101/274], set out as a note under [section 2302 of this title][/us/usc/t10/s2302].
 
  __Limitations on Cancellations of Deployment of Certain Reserve Component Units and Involuntary Mobilizations of Certain Reserves__ 
 
-[Pub. L. 113–66, div. A, title V, § 513][/us/pl/113/66/s513], Dec. 26, 2013, [127 Stat. 752][/us/stat/127/752], provided that:
+[Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 513, Dec. 26, 2013, [127 Stat. 752][/us/stat/127/752], provided that:
 
 >     “(a)  __Limitation on Cancellation of Deployment of Certain Units Within __  __180 Days of Scheduled Deployment.—__ 
 
@@ -297,7 +297,7 @@ Aug. 9, 1955, ch. 665, § 2(e), 69 Stat. 599.  </td>
 
  __Advance Notice to Members of Reserve Components of Deployment in Support of Contingency Operations__ 
 
-[Pub. L. 110–181, div. A, title V, § 515][/us/pl/110/181/s515], Jan. 28, 2008, [122 Stat. 99][/us/stat/122/99], provided that:
+[Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 515, Jan. 28, 2008, [122 Stat. 99][/us/stat/122/99], provided that:
 
 >     “(a)  __Advance Notice Required__  __.—__ 
 
@@ -319,61 +319,61 @@ Aug. 9, 1955, ch. 665, § 2(e), 69 Stat. 599.  </td>
 [/us/stat/70A/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F27
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1440
-[/us/pl/96/357/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F357%2Fs6
+[/us/pl/96/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F357
 [/us/stat/94/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1182
-[/us/pl/96/584/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F584%2Fs1
+[/us/pl/96/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F584
 [/us/stat/94/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3377
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtV
 [/us/stat/100/3871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3871
-[/us/pl/100/456/s1234/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fa%2F1
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2992
-[/us/pl/106/65/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs512
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F592
-[/us/pl/108/375/s514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs514%2Fa
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1882
 [/us/usc/t50/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs901%2Fb
 [/us/usc/t50/s961/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs961%2Fa
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/108/375/s514/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs514%2Fa%2F1
-[/us/pl/108/375/s514/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs514%2Fa%2F2
-[/us/pl/108/375/s514/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs514%2Fa%2F3
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/103/337/s1662/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fe%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs672
-[/us/pl/103/337/s1675/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1675%2Fc%2F1%2FA
-[/us/pl/103/337/s1675/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1675%2Fc%2F1%2FB
-[/us/pl/100/456/s1234/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fa%2F2
-[/us/pl/100/456/s1234/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fa%2F1
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
-[/us/pl/99/661/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs522
-[/us/pl/99/661/s524/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs524%2Fa
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/96/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F357
 [/us/pl/96/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F584
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
-[/us/pl/85/861/s33/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F5
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
-[/us/pl/99/661/s524/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs524%2Fb
+[/us/pl/99/661/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtV
 [/us/stat/100/3872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3872
 [/us/pl/85/861/s33/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F5
 [/us/pl/85/861/s33/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/100/26/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs6
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F274
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/113/66/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs513
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F752
 [/us/usc/t10/s101/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F9
-[/us/pl/110/181/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs515
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F99
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
 

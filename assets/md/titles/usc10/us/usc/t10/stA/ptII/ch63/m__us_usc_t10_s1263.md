@@ -19,7 +19,7 @@
 
     (b) The Secretary concerned may defer, for not more than four months, the retirement under subsection (a) of any warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when he would otherwise be required to retire under this section.
 
-(Aug. 10, 1956 ch. 1041, [70A Stat. 101][/us/stat/70A/101]; [Pub. L. 89–718, § 3][/us/pl/89/718/s3], Nov. 2, 1966, [80 Stat. 1115][/us/stat/80/1115]; [Pub. L. 90–130, § 1(6)][/us/pl/90/130/s1/6], Nov. 8, 1967, [81 Stat. 374][/us/stat/81/374]; [Pub. L. 96–513, title V, § 511(46)][/us/pl/96/513/s511/46], Dec. 12, 1980, [94 Stat. 2924][/us/stat/94/2924]; [Pub. L. 102–484, div. A, title X, § 1052(17)][/us/pl/102/484/s1052/17], Oct. 23, 1992, [106 Stat. 2500][/us/stat/106/2500].)
+(Aug. 10, 1956 ch. 1041, [70A Stat. 101][/us/stat/70A/101]; [Pub. L. 89–718][/us/pl/89/718], § 3, Nov. 2, 1966, [80 Stat. 1115][/us/stat/80/1115]; [Pub. L. 90–130][/us/pl/90/130], § 1(6), Nov. 8, 1967, [81 Stat. 374][/us/stat/81/374]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(46), Dec. 12, 1980, [94 Stat. 2924][/us/stat/94/2924]; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1052(17), Oct. 23, 1992, [106 Stat. 2500][/us/stat/106/2500].)
 
 <table>
 
@@ -149,13 +149,13 @@ May 29, 1954, ch. 249, §§ 2(d) (as applicable to § 14(b) (less (1)–(3))
 [/us/usc/t10/s580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs580
 [/us/usc/t5/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8301
 [/us/stat/70A/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F101
-[/us/pl/89/718/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs3
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1115
-[/us/pl/90/130/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs1%2F6
+[/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/stat/81/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F374
-[/us/pl/96/513/s511/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F46
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2924
-[/us/pl/102/484/s1052/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F17
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2500
 [/us/usc/t10/s1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1275
 [/us/act/1949-10-12/ch681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-12%2Fch681

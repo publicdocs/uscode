@@ -83,11 +83,11 @@
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–314, div. A, title V, § 504(d)(3)(B)][/us/pl/107/314/s504/d/3/B], Dec. 2, 2002, [116 Stat. 2532][/us/stat/116/2532], added item 5047.
+    2002—[Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 504(d)(3)(B), Dec. 2, 2002, [116 Stat. 2532][/us/stat/116/2532], added item 5047.
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 902(b)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–224, substituted “Deputy Commandants” for “Chief of Staff; Deputy and Assistant Chiefs of Staff” in item 5045.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 902(b)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–224, substituted “Deputy Commandants” for “Chief of Staff; Deputy and Assistant Chiefs of Staff” in item 5045.
 
-    1986—[Pub. L. 99–661, div. A, title V, § 509(a)(2)][/us/pl/99/661/s509/a/2], Nov. 14, 1986, [100 Stat. 3868][/us/stat/100/3868], added item 5046.
+    1986—[Pub. L. 99–661, div. A, title V][/us/pl/99/661/dA/tV], § 509(a)(2), Nov. 14, 1986, [100 Stat. 3868][/us/stat/100/3868], added item 5046.
 
 ----------
 
@@ -96,11 +96,11 @@
 ----------
 ----------
 
-[/us/pl/107/314/s504/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs504%2Fd%2F3%2FB
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2532
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/99/661/s509/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs509%2Fa%2F2
+[/us/pl/99/661/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtV
 [/us/stat/100/3868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3868
 
 

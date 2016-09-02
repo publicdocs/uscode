@@ -37,7 +37,7 @@
 
     (3) summary courts-martial, consisting of one commissioned officer.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 42][/us/stat/70A/42]; [Pub. L. 90–632, § 2(3)][/us/pl/90/632/s2/3], Oct. 24, 1968, [82 Stat. 1335][/us/stat/82/1335]; [Pub. L. 98–209, § 3(a)][/us/pl/98/209/s3/a], Dec. 6, 1983, [97 Stat. 1394][/us/stat/97/1394]; [Pub. L. 107–107, div. A, title V, § 582(a)][/us/pl/107/107/s582/a], Dec. 28, 2001, [115 Stat. 1124][/us/stat/115/1124].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 42][/us/stat/70A/42]; [Pub. L. 90–632][/us/pl/90/632], § 2(3), Oct. 24, 1968, [82 Stat. 1335][/us/stat/82/1335]; [Pub. L. 98–209][/us/pl/98/209], § 3(a), Dec. 6, 1983, [97 Stat. 1394][/us/stat/97/1394]; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 582(a), Dec. 28, 2001, [115 Stat. 1124][/us/stat/115/1124].)
 
 <table>
 
@@ -95,7 +95,7 @@ May 5, 1950, ch. 169, § 1 (Art. 16), 64 Stat. 113.  </td>
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–107, div. A, title V, § 582(d)][/us/pl/107/107/s582/d], Dec. 28, 2001, [115 Stat. 1125][/us/stat/115/1125], provided that: 
+[Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 582(d), Dec. 28, 2001, [115 Stat. 1125][/us/stat/115/1125], provided that: 
 
 > “The amendments made by this section \[enacting [section 825a of this title][/us/usc/t10/s825a] and amending this section and [section 829 of this title][/us/usc/t10/s829]\] shall apply with respect to offenses committed after December 31, 2002.”
 
@@ -117,17 +117,17 @@ May 5, 1950, ch. 169, § 1 (Art. 16), 64 Stat. 113.  </td>
 [/us/usc/t10/s825a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs825a
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F42
-[/us/pl/90/632/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F3
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1335
-[/us/pl/98/209/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs3%2Fa
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1394
-[/us/pl/107/107/s582/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs582%2Fa
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1124
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t10/s825a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs825a
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
-[/us/pl/107/107/s582/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs582%2Fd
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1125
 [/us/usc/t10/s825a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs825a
 [/us/usc/t10/s829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs829

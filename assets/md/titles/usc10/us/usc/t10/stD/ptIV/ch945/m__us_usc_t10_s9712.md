@@ -49,7 +49,7 @@
 
     (f) As soon as practicable after the effects have been converted into cash under subsection (e), the summary court-martial shall deposit all cash in the court’s possession and belonging to the estate with the officer designated in regulations, and shall send a receipt therefor, together with any will or other papers of value, an inventory of the effects and articles not permitted to be sold, to the executive part of the Department of the Air Force. The Secretary of the Air Force shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Air Force under this subsection.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 585][/us/stat/70A/585]; [Pub. L. 89–718, § 48][/us/pl/89/718/s48], Nov. 2, 1966, [80 Stat. 1121][/us/stat/80/1121]; [Pub. L. 96–513, title V, § 514(19)][/us/pl/96/513/s514/19], Dec. 12, 1980, [94 Stat. 2936][/us/stat/94/2936]; [Pub. L. 99–145, title XIII, § 1301(d)(4)(A)][/us/pl/99/145/s1301/d/4/A], Nov. 8, 1985, [99 Stat. 736][/us/stat/99/736]; [Pub. L. 101–510, div. A, title XV, § 1533(a)(9)][/us/pl/101/510/s1533/a/9], Nov. 5, 1990, [104 Stat. 1735][/us/stat/104/1735]; [Pub. L. 104–316, title II, § 202(g)][/us/pl/104/316/s202/g], Oct. 19, 1996, [110 Stat. 3842][/us/stat/110/3842].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 585][/us/stat/70A/585]; [Pub. L. 89–718][/us/pl/89/718], § 48, Nov. 2, 1966, [80 Stat. 1121][/us/stat/80/1121]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 514(19), Dec. 12, 1980, [94 Stat. 2936][/us/stat/94/2936]; [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1301(d)(4)(A), Nov. 8, 1985, [99 Stat. 736][/us/stat/99/736]; [Pub. L. 101–510, div. A, title XV][/us/pl/101/510/dA/tXV], § 1533(a)(9), Nov. 5, 1990, [104 Stat. 1735][/us/stat/104/1735]; [Pub. L. 104–316, title II][/us/pl/104/316/tII], § 202(g), Oct. 19, 1996, [110 Stat. 3842][/us/stat/110/3842].)
 
 <table>
 
@@ -185,9 +185,9 @@ June 4, 1920, ch. 227, subch. II, § 1 (Art. 112), 41 Stat. 809; May 5, 1950, 
 
     1996—Subsec. (g). [Pub. L. 104–316][/us/pl/104/316] struck out subsec. (g) which read as follows: “The summary court-martial shall make a full report of the transactions under this section, with respect to the deceased, to the Department of the Air Force for transmission to the General Accounting Office for action authorized in the settlement of accounts of deceased members of the Air Force.”
 
-    1990—Subsec. (a)(2). [Pub. L. 101–510, § 1533(a)(9)(A)][/us/pl/101/510/s1533/a/9/A], substituted “a resident of the Armed Forces Retirement Home” for “an inmate of the United States Soldiers’ and Airmen’s Home”.
+    1990—Subsec. (a)(2). [Pub. L. 101–510][/us/pl/101/510], § 1533(a)(9)(A), substituted “a resident of the Armed Forces Retirement Home” for “an inmate of the United States Soldiers’ and Airmen’s Home”.
 
-    Subsec. (f). [Pub. L. 101–510, § 1533(a)(9)(B)][/us/pl/101/510/s1533/a/9/B], struck out “for transmission to the United States Soldiers’ and Airmen’s Home” after “Department of the Air Force” and inserted at end “The Secretary of the Air Force shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Air Force under this subsection.”
+    Subsec. (f). [Pub. L. 101–510][/us/pl/101/510], § 1533(a)(9)(B), struck out “for transmission to the United States Soldiers’ and Airmen’s Home” after “Department of the Air Force” and inserted at end “The Secretary of the Air Force shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Air Force under this subsection.”
 
     1985—Subsec. (d). [Pub. L. 99–145][/us/pl/99/145] substituted pars. (1) to (6) for former pars. (1) to (9) which read as follows:
 
@@ -230,20 +230,20 @@ June 4, 1920, ch. 227, subch. II, § 1 (Art. 112), 41 Stat. 809; May 5, 1950, 
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F585
-[/us/pl/89/718/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs48
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1121
-[/us/pl/96/513/s514/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs514%2F19
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2936
-[/us/pl/99/145/s1301/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1301%2Fd%2F4%2FA
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F736
-[/us/pl/101/510/s1533/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1533%2Fa%2F9
+[/us/pl/101/510/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXV
 [/us/stat/104/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1735
-[/us/pl/104/316/s202/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fg
+[/us/pl/104/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtII
 [/us/stat/110/3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3842
 [/us/usc/t10/s9713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9713
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
-[/us/pl/101/510/s1533/a/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1533%2Fa%2F9%2FA
-[/us/pl/101/510/s1533/a/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1533%2Fa%2F9%2FB
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718

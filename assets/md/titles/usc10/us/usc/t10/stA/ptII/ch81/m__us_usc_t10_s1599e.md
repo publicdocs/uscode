@@ -41,11 +41,11 @@
 
     With respect to any individual described in subsection (b)(1)(A) and to whom this section applies, section 7501(1) and [section 7511(a)(1)(A)(ii) of title 5][/us/usc/t5/s7511/a/1/A/ii] shall be applied to such individual by substituting “completed 2 years” for “completed 1 year” in each instance it appears.
 
-(Added [Pub. L. 114–92, div. A, title XI, § 1105(a)(1)][/us/pl/114/92/s1105/a/1], Nov. 25, 2015, [129 Stat. 1023][/us/stat/129/1023].)
+(Added [Pub. L. 114–92, div. A, title XI][/us/pl/114/92/dA/tXI], § 1105(a)(1), Nov. 25, 2015, [129 Stat. 1023][/us/stat/129/1023].)
 
  __Effective Date__ 
 
-[Pub. L. 114–92, div. A, title XI, § 1105(b)][/us/pl/114/92/s1105/b], Nov. 25, 2015, [129 Stat. 1024][/us/stat/129/1024], provided that: 
+[Pub. L. 114–92, div. A, title XI][/us/pl/114/92/dA/tXI], § 1105(b), Nov. 25, 2015, [129 Stat. 1024][/us/stat/129/1024], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall apply to any covered employee (as that term is defined in [section 1599e of title 10][/us/usc/t10/s1599e], United States Code, as added by such subsection) appointed after the date of the enactment of this section \[Nov. 25, 2015\].”
 
@@ -58,9 +58,9 @@
 
 [/us/usc/t5/s3132/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa%2F4
 [/us/usc/t5/s7511/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7511%2Fa%2F1%2FA%2Fii
-[/us/pl/114/92/s1105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1105%2Fa%2F1
+[/us/pl/114/92/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXI
 [/us/stat/129/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1023
-[/us/pl/114/92/s1105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1105%2Fb
+[/us/pl/114/92/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXI
 [/us/stat/129/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1024
 [/us/usc/t10/s1599e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1599e
 

@@ -35,27 +35,27 @@
 
         (2) The Secretary of Defense may defer the retirement of a reserve officer serving in the position of Chief of the Navy Reserve or Commander of the Marine Forces Reserve, but such deferment may not extend beyond the first day of the month following the month in which the officer becomes 66 years of age. A deferment under this paragraph shall not count toward the limitation on the total number of officers whose retirement may be deferred at any one time under paragraph (1).
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2953][/us/stat/108/2953]; amended [Pub. L. 109–163, div. A, title V][/us/pl/109/163], §§ 511, 515(b)(1)(UU), Jan. 6, 2006, [119 Stat. 3231][/us/stat/119/3231], 3234; [Pub. L. 109–364, div. A, title V, § 503(d)][/us/pl/109/364/s503/d], Oct. 17, 2006, [120 Stat. 2178][/us/stat/120/2178]; [Pub. L. 110–181, div. A, title XVIII, § 1825(b)][/us/pl/110/181/s1825/b], Jan. 28, 2008, [122 Stat. 502][/us/stat/122/502].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2953][/us/stat/108/2953]; amended [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], §§ 511, 515(b)(1)(UU), Jan. 6, 2006, [119 Stat. 3231][/us/stat/119/3231], 3234; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 503(d), Oct. 17, 2006, [120 Stat. 2178][/us/stat/120/2178]; [Pub. L. 110–181, div. A, title XVIII][/us/pl/110/181/dA/tXVIII], § 1825(b), Jan. 28, 2008, [122 Stat. 502][/us/stat/122/502].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 3845, 6391(b), and 8845 of this title, prior to repeal by [Pub. L. 103–337, § 1629(a)(3)][/us/pl/103/337/s1629/a/3], (b)(3), (c)(3).
+    Provisions similar to those in this section were contained in sections 3845, 6391(b), and 8845 of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(a)(3), (b)(3), (c)(3).
 
  __Amendments__ 
 
-    2008—Subsec. (a)(2). [Pub. L. 110–181, § 1825(b)(1)][/us/pl/110/181/s1825/b/1], redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “The Chief of the National Guard Bureau.”
+    2008—Subsec. (a)(2). [Pub. L. 110–181][/us/pl/110/181], § 1825(b)(1), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “The Chief of the National Guard Bureau.”
 
-    Subsec. (b). [Pub. L. 110–181, § 1825(b)(2)][/us/pl/110/181/s1825/b/2], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (b). [Pub. L. 110–181][/us/pl/110/181], § 1825(b)(2), designated existing provisions as par. (1) and added par. (2).
 
-    2006—[Pub. L. 109–364, § 503(d)(2)][/us/pl/109/364/s503/d/2], substituted “66” for “64” in section catchline.
+    2006—[Pub. L. 109–364][/us/pl/109/364], § 503(d)(2), substituted “66” for “64” in section catchline.
 
-    Subsec. (a). [Pub. L. 109–163, § 511][/us/pl/109/163/s511], designated existing provisions as par. (1), substituted “who is specified in paragraph (2)” for “who is Chief of the National Guard Bureau, an adjutant general, or if a reserve officer of the Army, commanding general of the troops of a State,”, and added par. (2).
+    Subsec. (a). [Pub. L. 109–163][/us/pl/109/163], § 511, designated existing provisions as par. (1), substituted “who is specified in paragraph (2)” for “who is Chief of the National Guard Bureau, an adjutant general, or if a reserve officer of the Army, commanding general of the troops of a State,”, and added par. (2).
 
-    Subsec. (a)(1). [Pub. L. 109–364, § 503(d)(1)][/us/pl/109/364/s503/d/1], substituted “66” for “64”.
+    Subsec. (a)(1). [Pub. L. 109–364][/us/pl/109/364], § 503(d)(1), substituted “66” for “64”.
 
-    Subsec. (b). [Pub. L. 109–364, § 503(d)(1)][/us/pl/109/364/s503/d/1], substituted “66” for “64”.
+    Subsec. (b). [Pub. L. 109–364][/us/pl/109/364], § 503(d)(1), substituted “66” for “64”.
 
-    [Pub. L. 109–163, § 515(b)(1)(UU)][/us/pl/109/163/s515/b/1/UU], substituted “Navy Reserve” for “Naval Reserve”.
+    [Pub. L. 109–163][/us/pl/109/163], § 515(b)(1)(UU), substituted “Navy Reserve” for “Naval Reserve”.
 
 ----------
 
@@ -65,21 +65,21 @@
 ----------
 
 [/us/usc/t10/s14515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14515
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2953
-[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3231
-[/us/pl/109/364/s503/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs503%2Fd
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2178
-[/us/pl/110/181/s1825/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1825%2Fb
+[/us/pl/110/181/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVIII
 [/us/stat/122/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F502
-[/us/pl/103/337/s1629/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fa%2F3
-[/us/pl/110/181/s1825/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1825%2Fb%2F1
-[/us/pl/110/181/s1825/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1825%2Fb%2F2
-[/us/pl/109/364/s503/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs503%2Fd%2F2
-[/us/pl/109/163/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs511
-[/us/pl/109/364/s503/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs503%2Fd%2F1
-[/us/pl/109/364/s503/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs503%2Fd%2F1
-[/us/pl/109/163/s515/b/1/UU]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FUU
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 
 

@@ -21,7 +21,7 @@
 
     (2) provide public access to Department of Defense commercial item determinations for the purposes of procurements by the Department of Defense.
 
-(Added [Pub. L. 114–92, div. A, title VIII, § 851(a)(1)][/us/pl/114/92/s851/a/1], Nov. 25, 2015, [129 Stat. 916][/us/stat/129/916].)
+(Added [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 851(a)(1), Nov. 25, 2015, [129 Stat. 916][/us/stat/129/916].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/114/92/s851/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs851%2Fa%2F1
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F916
 
 

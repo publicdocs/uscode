@@ -19,11 +19,11 @@
 
     (b) Regulations prescribed under subsection (a) may not require a college or university, as a condition of maintaining its designation as a military college or for any other purpose, to require female undergraduate students enrolled in such college or university to participate in military training.
 
-(Added [Pub. L. 98–525, title XIV, § 1401(g)(1)][/us/pl/98/525/s1401/g/1], Oct. 19, 1984, [98 Stat. 2619][/us/stat/98/2619].)
+(Added [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1401(g)(1), Oct. 19, 1984, [98 Stat. 2619][/us/stat/98/2619].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [Pub. L. 95–485, title VIII, § 809][/us/pl/95/485/s809], Oct. 20, 1978, [92 Stat. 1623][/us/stat/92/1623], which was set out as a note under [section 2102 of this title][/us/usc/t10/s2102], prior to repeal by [Pub. L. 98–525][/us/pl/98/525], §§ 1403(b), 1404.
+    Provisions similar to those in this section were contained in [Pub. L. 95–485, title VIII][/us/pl/95/485/tVIII], § 809, Oct. 20, 1978, [92 Stat. 1623][/us/stat/92/1623], which was set out as a note under [section 2102 of this title][/us/usc/t10/s2102], prior to repeal by [Pub. L. 98–525][/us/pl/98/525], §§ 1403(b), 1404.
 
  __Effective Date__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/98/525/s1401/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1401%2Fg%2F1
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2619
-[/us/pl/95/485/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs809
+[/us/pl/95/485/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2FtVIII
 [/us/stat/92/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1623
 [/us/usc/t10/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2102
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525

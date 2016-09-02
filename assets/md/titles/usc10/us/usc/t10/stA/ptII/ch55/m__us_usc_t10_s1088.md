@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, and under regulations to be prescribed by the Secretary concerned, a person entitled to medical and dental care under this chapter may be furnished subsistence without charge while being evacuated as a patient by military aircraft of the United States.
 
-(Added [Pub. L. 91–481, § 2(1)][/us/pl/91/481/s2/1], Oct. 21, 1970, [84 Stat. 1081][/us/stat/84/1081].)
+(Added [Pub. L. 91–481][/us/pl/91/481], § 2(1), Oct. 21, 1970, [84 Stat. 1081][/us/stat/84/1081].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/481/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F481%2Fs2%2F1
+[/us/pl/91/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F481
 [/us/stat/84/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1081
 
 

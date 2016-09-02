@@ -105,7 +105,7 @@ July 1, 1952, ch. 539, § 5, 66 Stat. 319; 1953 Reorg. Plan No. 6, § 1(a) (
 
  __Regulations Relating to Increases in Prices for Spare Parts and Replacement Equipment__ 
 
-[Pub. L. 98–94, title XII, § 1215][/us/pl/98/94/s1215], Sept. 24, 1983, [97 Stat. 688][/us/stat/97/688], as amended by [Pub. L. 98–525, title XII, § 1244][/us/pl/98/525/s1244], Oct. 19, 1984, [98 Stat. 2609][/us/stat/98/2609]; [Pub. L. 103–35, title II, § 204(b)][/us/pl/103/35/s204/b], May 31, 1993, [107 Stat. 102][/us/stat/107/102], provided that:
+[Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1215, Sept. 24, 1983, [97 Stat. 688][/us/stat/97/688], as amended by [Pub. L. 98–525, title XII][/us/pl/98/525/tXII], § 1244, Oct. 19, 1984, [98 Stat. 2609][/us/stat/98/2609]; [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 204(b), May 31, 1993, [107 Stat. 102][/us/stat/107/102], provided that:
 
 >     “(a)
 
@@ -131,7 +131,7 @@ July 1, 1952, ch. 539, § 5, 66 Stat. 319; 1953 Reorg. Plan No. 6, § 1(a) (
 
  __Report on Management of Acquisition of Spare Parts__ 
 
-    [Pub. L. 98–94, title XII, § 1216][/us/pl/98/94/s1216], Sept. 24, 1983, [97 Stat. 688][/us/stat/97/688], directed Secretary of Defense to submit to Congress, by June 1, 1984, a comprehensive report on management by Department of Defense of acquisition of initial and replenishment spare parts and on status of efforts within Department (including particularly the Defense Logistics Agency and the military departments) to correct problems associated with increased costs of such parts, directed Secretary, not later than Dec. 1, 1983, to submit to Congress an interim report stating briefly the actions being taken by the Department to improve acquisition and management of spare parts, and directed Secretary to put into effect at the earliest practicable date policies and procedures to achieve a long-term solution to problems relating to excessive costs of, and long lead times in the acquisition of, initial and replenishment spare parts.
+    [Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1216, Sept. 24, 1983, [97 Stat. 688][/us/stat/97/688], directed Secretary of Defense to submit to Congress, by June 1, 1984, a comprehensive report on management by Department of Defense of acquisition of initial and replenishment spare parts and on status of efforts within Department (including particularly the Defense Logistics Agency and the military departments) to correct problems associated with increased costs of such parts, directed Secretary, not later than Dec. 1, 1983, to submit to Congress an interim report stating briefly the actions being taken by the Department to improve acquisition and management of spare parts, and directed Secretary to put into effect at the earliest practicable date policies and procedures to achieve a long-term solution to problems relating to excessive costs of, and long lead times in the acquisition of, initial and replenishment spare parts.
 
 ----------
 
@@ -143,13 +143,13 @@ July 1, 1952, ch. 539, § 5, 66 Stat. 319; 1953 Reorg. Plan No. 6, § 1(a) (
 [/us/usc/t10/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2451
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F139
-[/us/pl/98/94/s1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1215
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F688
-[/us/pl/98/525/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1244
+[/us/pl/98/525/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXII
 [/us/stat/98/2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2609
-[/us/pl/103/35/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs204%2Fb
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F102
-[/us/pl/98/94/s1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1216
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F688
 
 

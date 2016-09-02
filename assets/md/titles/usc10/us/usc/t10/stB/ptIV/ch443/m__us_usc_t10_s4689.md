@@ -17,7 +17,7 @@
 
     The Secretary of the Army is authorized to transfer, without payment, to the Architect of the Capitol, such material and equipment, not required by the Department of the Army, as the Architect may request for use at the Capitol power plant, the Capitol, and the Senate and House Office Buildings.
 
-(Added [Pub. L. 107–217, § 2(1)][/us/pl/107/217/s2/1], Aug. 21, 2002, [116 Stat. 1294][/us/stat/116/1294]; amended [Pub. L. 108–375, div. A, title X, § 1084(d)(29)][/us/pl/108/375/s1084/d/29], Oct. 28, 2004, [118 Stat. 2063][/us/stat/118/2063].)
+(Added [Pub. L. 107–217][/us/pl/107/217], § 2(1), Aug. 21, 2002, [116 Stat. 1294][/us/stat/116/1294]; amended [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(d)(29), Oct. 28, 2004, [118 Stat. 2063][/us/stat/118/2063].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/107/217/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs2%2F1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1294
-[/us/pl/108/375/s1084/d/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F29
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2063
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 

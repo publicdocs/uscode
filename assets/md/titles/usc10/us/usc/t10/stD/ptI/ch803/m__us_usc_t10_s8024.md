@@ -29,7 +29,7 @@
 
         (2) Section 15(k) of the Small Business Act ([15 U.S.C. 644(k)][/us/usc/t15/s644/k]), except for the designations of the Director and the Office, applies to the Director of Small Business Programs.
 
-(Added [Pub. L. 109–163, div. A, title IX, § 904(e)(1)][/us/pl/109/163/s904/e/1], Jan. 6, 2006, [119 Stat. 3401][/us/stat/119/3401].)
+(Added [Pub. L. 109–163, div. A, title IX][/us/pl/109/163/dA/tIX], § 904(e)(1), Jan. 6, 2006, [119 Stat. 3401][/us/stat/119/3401].)
 
  __Change of Name__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t15/s644/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644%2Fk
 [/us/usc/t15/s644/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644%2Fk
-[/us/pl/109/163/s904/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs904%2Fe%2F1
+[/us/pl/109/163/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIX
 [/us/stat/119/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3401
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/163/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs904%2Fa

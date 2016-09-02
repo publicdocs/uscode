@@ -91,17 +91,17 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, div. A, title III, § 375(c)(2)(B)][/us/pl/110/181/s375/c/2/B], Jan. 28, 2008, [122 Stat. 84][/us/stat/122/84], struck out items 9832 “Property accountability: regulations” and 9836 “Individual equipment: unauthorized disposition”.
+    2008—[Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 375(c)(2)(B), Jan. 28, 2008, [122 Stat. 84][/us/stat/122/84], struck out items 9832 “Property accountability: regulations” and 9836 “Individual equipment: unauthorized disposition”.
 
-    2006—[Pub. L. 109–163, div. A, title VI, § 683(c)(2)][/us/pl/109/163/s683/c/2], (3), Jan. 6, 2006, [119 Stat. 3324][/us/stat/119/3324], struck out “enlisted” before “members” in item 9837.
+    2006—[Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 683(c)(2), (3), Jan. 6, 2006, [119 Stat. 3324][/us/stat/119/3324], struck out “enlisted” before “members” in item 9837.
 
-    2002—[Pub. L. 107–314, div. A, title X, § 1006(c)(2)][/us/pl/107/314/s1006/c/2], Dec. 2, 2002, [116 Stat. 2633][/us/stat/116/2633], struck out item 9835 “Reports of survey”.
+    2002—[Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1006(c)(2), Dec. 2, 2002, [116 Stat. 2633][/us/stat/116/2633], struck out item 9835 “Reports of survey”.
 
-    1982—[Pub. L. 97–258, § 2(b)(14)(A)][/us/pl/97/258/s2/b/14/A], Sept. 13, 1982, [96 Stat. 1058][/us/stat/96/1058], added items 9841 and 9842.
+    1982—[Pub. L. 97–258][/us/pl/97/258], § 2(b)(14)(A), Sept. 13, 1982, [96 Stat. 1058][/us/stat/96/1058], added items 9841 and 9842.
 
-    1980—[Pub. L. 96–513, title V, § 514(22)(C)][/us/pl/96/513/s514/22/C], Dec. 12, 1980, [94 Stat. 2937][/us/stat/94/2937], substituted “remission or cancellation of indebtedness of enlisted members” for “deductions from pay” in item 9837.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], § 514(22)(C), Dec. 12, 1980, [94 Stat. 2937][/us/stat/94/2937], substituted “remission or cancellation of indebtedness of enlisted members” for “deductions from pay” in item 9837.
 
-    1962—[Pub. L. 87–480, § 1(5)][/us/pl/87/480/s1/5], June 8, 1962, [76 Stat. 94][/us/stat/76/94], struck out item 9833 “Accountability for public money; disbursing officers; agent officers”.
+    1962—[Pub. L. 87–480][/us/pl/87/480], § 1(5), June 8, 1962, [76 Stat. 94][/us/stat/76/94], struck out item 9833 “Accountability for public money; disbursing officers; agent officers”.
 
 ----------
 
@@ -110,17 +110,17 @@
 ----------
 ----------
 
-[/us/pl/110/181/s375/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs375%2Fc%2F2%2FB
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F84
-[/us/pl/109/163/s683/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs683%2Fc%2F2
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3324
-[/us/pl/107/314/s1006/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1006%2Fc%2F2
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2633
-[/us/pl/97/258/s2/b/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F14%2FA
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1058
-[/us/pl/96/513/s514/22/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs514%2F22%2FC
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2937
-[/us/pl/87/480/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F480%2Fs1%2F5
+[/us/pl/87/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F480
 [/us/stat/76/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F94
 
 

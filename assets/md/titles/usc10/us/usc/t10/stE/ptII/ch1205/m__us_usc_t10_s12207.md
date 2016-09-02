@@ -81,21 +81,21 @@
 
     (f) The grade and position on the reserve active-status list of a person receiving an appointment as a reserve officer who at the time of appointment is credited with service under this section shall be determined under regulations prescribed by the Secretary of Defense based upon the amount of service credited.
 
-(Added § 596b and renumbered § 12207, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337], §§ 1634, 1662(c)(2), Oct. 5, 1994, [108 Stat. 2965][/us/stat/108/2965], 2990; amended [Pub. L. 109–163, div. A, title V, § 515(b)(1)(LL)][/us/pl/109/163/s515/b/1/LL], Jan. 6, 2006, [119 Stat. 3234][/us/stat/119/3234]; [Pub. L. 110–181, div. A, title V, § 512][/us/pl/110/181/s512], Jan. 28, 2008, [122 Stat. 98][/us/stat/122/98].)
+(Added § 596b and renumbered § 12207, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], §§ 1634, 1662(c)(2), Oct. 5, 1994, [108 Stat. 2965][/us/stat/108/2965], 2990; amended [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(LL), Jan. 6, 2006, [119 Stat. 3234][/us/stat/119/3234]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 512, Jan. 28, 2008, [122 Stat. 98][/us/stat/122/98].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 3353, 5600, and 8353 of this title, prior to repeal by [Pub. L. 103–337, § 1629(a)(1)][/us/pl/103/337/s1629/a/1], (c)(1) and [Pub. L. 104–106, § 1501(c)(26)][/us/pl/104/106/s1501/c/26].
+    Provisions similar to those in this section were contained in sections 3353, 5600, and 8353 of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(a)(1), (c)(1) and [Pub. L. 104–106][/us/pl/104/106], § 1501(c)(26).
 
  __Amendments__ 
 
-    2008—Subsec. (b)(2). [Pub. L. 110–181, § 512(a)][/us/pl/110/181/s512/a], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If the Secretary of Defense determines that the number of medical or dental officers serving in an active status in a reserve component of the Army, Navy, or Air Force in grades below major or lieutenant commander is critically below the number needed by such reserve component in such grades, the Secretary of Defense may authorize the Secretary of the military department concerned to credit any person who is receiving an original appointment for service as a medical or dental officer with a period of constructive credit in such amount (in addition to any amount credited such person under subsection (b)) as will result in the grade of such person being that of captain or, in the case of the Navy Reserve, lieutenant.”
+    2008—Subsec. (b)(2). [Pub. L. 110–181][/us/pl/110/181], § 512(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If the Secretary of Defense determines that the number of medical or dental officers serving in an active status in a reserve component of the Army, Navy, or Air Force in grades below major or lieutenant commander is critically below the number needed by such reserve component in such grades, the Secretary of Defense may authorize the Secretary of the military department concerned to credit any person who is receiving an original appointment for service as a medical or dental officer with a period of constructive credit in such amount (in addition to any amount credited such person under subsection (b)) as will result in the grade of such person being that of captain or, in the case of the Navy Reserve, lieutenant.”
 
-    Subsec. (b)(3). [Pub. L. 110–181, § 512(b)][/us/pl/110/181/s512/b], substituted “officers covered by paragraph (2)” for “a medical or dental officer”.
+    Subsec. (b)(3). [Pub. L. 110–181][/us/pl/110/181], § 512(b), substituted “officers covered by paragraph (2)” for “a medical or dental officer”.
 
     2006—Subsec. (b)(2). [Pub. L. 109–163][/us/pl/109/163] substituted “Navy Reserve” for “Naval Reserve”.
 
-    1994—[Pub. L. 103–337, § 1662(c)(2)][/us/pl/103/337/s1662/c/2], renumbered [section 596b of this title][/us/usc/t10/s596b] as this section.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 1662(c)(2), renumbered [section 596b of this title][/us/usc/t10/s596b] as this section.
 
  __Effective Date__ 
 
@@ -108,18 +108,18 @@
 ----------
 ----------
 
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2965
-[/us/pl/109/163/s515/b/1/LL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FLL
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3234
-[/us/pl/110/181/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs512
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F98
-[/us/pl/103/337/s1629/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fa%2F1
-[/us/pl/104/106/s1501/c/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc%2F26
-[/us/pl/110/181/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs512%2Fa
-[/us/pl/110/181/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs512%2Fb
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/103/337/s1662/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fc%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s596b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs596b
 [/us/pl/103/337/s1691/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691%2Fb%2F1
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001

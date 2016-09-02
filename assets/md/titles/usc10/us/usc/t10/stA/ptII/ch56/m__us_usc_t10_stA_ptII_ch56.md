@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    2001—[Pub. L. 107–107, div. A, title VII, § 711(e)(3)][/us/pl/107/107/s711/e/3], Dec. 28, 2001, [115 Stat. 1167][/us/stat/115/1167], inserted “; authority to enter into agreements” after “definitions” in item 1111.
+    2001—[Pub. L. 107–107, div. A, title VII][/us/pl/107/107/dA/tVII], § 711(e)(3), Dec. 28, 2001, [115 Stat. 1167][/us/stat/115/1167], inserted “; authority to enter into agreements” after “definitions” in item 1111.
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/107/107/s711/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs711%2Fe%2F3
+[/us/pl/107/107/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVII
 [/us/stat/115/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1167
 
 

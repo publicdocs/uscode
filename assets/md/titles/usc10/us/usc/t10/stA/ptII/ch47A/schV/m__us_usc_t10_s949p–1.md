@@ -31,7 +31,7 @@
 
     The judicial construction of the Classified Information Procedures Act (18 U.S.C. App.) shall be authoritative in the interpretation of this subchapter, except to the extent that such construction is inconsistent with the specific requirements of this chapter.
 
-(Added [Pub. L. 111–84, div. A, title XVIII, § 1802][/us/pl/111/84/s1802], Oct. 28, 2009, [123 Stat. 2590][/us/stat/123/2590].)
+(Added [Pub. L. 111–84, div. A, title XVIII][/us/pl/111/84/dA/tXVIII], § 1802, Oct. 28, 2009, [123 Stat. 2590][/us/stat/123/2590].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/111/84/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1802
+[/us/pl/111/84/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXVIII
 [/us/stat/123/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2590
 [/us/pl/96/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F456
 [/us/stat/94/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2025

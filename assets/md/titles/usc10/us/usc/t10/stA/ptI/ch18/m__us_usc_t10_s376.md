@@ -17,7 +17,7 @@
 
     Support (including the provision of any equipment or facility or the assignment or detail of any personnel) may not be provided to any civilian law enforcement official under this chapter if the provision of such support will adversely affect the military preparedness of the United States. The Secretary of Defense shall prescribe such regulations as may be necessary to ensure that the provision of any such support does not adversely affect the military preparedness of the United States.
 
-(Added [Pub. L. 97–86][/us/pl/97/86], title, IX, § 905(a)(1), Dec. 1, 1981, [95 Stat. 1116][/us/stat/95/1116]; amended [Pub. L. 100–456, div. A, title XI, § 1104(a)][/us/pl/100/456/s1104/a], Sept. 29, 1988, [102 Stat. 2045][/us/stat/102/2045].)
+(Added [Pub. L. 97–86][/us/pl/97/86], title, IX, § 905(a)(1), Dec. 1, 1981, [95 Stat. 1116][/us/stat/95/1116]; amended [Pub. L. 100–456, div. A, title XI][/us/pl/100/456/dA/tXI], § 1104(a), Sept. 29, 1988, [102 Stat. 2045][/us/stat/102/2045].)
 
  __Amendments__ 
 
@@ -32,7 +32,7 @@
 
 [/us/pl/97/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86
 [/us/stat/95/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1116
-[/us/pl/100/456/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1104%2Fa
+[/us/pl/100/456/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXI
 [/us/stat/102/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2045
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 

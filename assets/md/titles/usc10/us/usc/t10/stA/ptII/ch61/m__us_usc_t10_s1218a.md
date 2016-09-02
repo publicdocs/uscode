@@ -27,7 +27,7 @@
 
     Subsection (a) applies to members of a reserve component who are injured while on active duty in the armed forces.
 
-(Added [Pub. L. 111–84, div. A, title VI, § 641(a)][/us/pl/111/84/s641/a], Oct. 28, 2009, [123 Stat. 2364][/us/stat/123/2364].)
+(Added [Pub. L. 111–84, div. A, title VI][/us/pl/111/84/dA/tVI], § 641(a), Oct. 28, 2009, [123 Stat. 2364][/us/stat/123/2364].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/111/84/s641/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs641%2Fa
+[/us/pl/111/84/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVI
 [/us/stat/123/2364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2364
 
 

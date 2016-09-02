@@ -51,7 +51,7 @@
 
     Funds may not be provided under this section for any activity that has been denied authorization by Congress.
 
-(Added [Pub. L. 107–107, div. A, title XV, § 1512(a)][/us/pl/107/107/s1512/a], Dec. 28, 2001, [115 Stat. 1272][/us/stat/115/1272].)
+(Added [Pub. L. 107–107, div. A, title XV][/us/pl/107/107/dA/tXV], § 1512(a), Dec. 28, 2001, [115 Stat. 1272][/us/stat/115/1272].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/107/107/s1512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1512%2Fa
+[/us/pl/107/107/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXV
 [/us/stat/115/1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1272
 
 

@@ -27,7 +27,7 @@
 
     (c) This section applies with respect to enlisted members of the Navy Reserve and Marine Corps Reserve who are transferred to the Fleet Reserve or the Fleet Marine Corps Reserve after September 30, 1996.
 
-(Added [Pub. L. 104–201, div. A, title V, § 532(b)(1)][/us/pl/104/201/s532/b/1], Sept. 23, 1996, [110 Stat. 2519][/us/stat/110/2519]; amended [Pub. L. 109–163, div. A, title V, § 515(b)(1)(L)][/us/pl/109/163/s515/b/1/L], Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
+(Added [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 532(b)(1), Sept. 23, 1996, [110 Stat. 2519][/us/stat/110/2519]; amended [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(L), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t10/s6330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6330
-[/us/pl/104/201/s532/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs532%2Fb%2F1
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2519
-[/us/pl/109/163/s515/b/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FL
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3233
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 

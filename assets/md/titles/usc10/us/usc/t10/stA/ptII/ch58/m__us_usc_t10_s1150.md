@@ -27,7 +27,7 @@
 
     This section shall apply to the Coast Guard in the same manner and to the same extent as it applies to the Department of Defense. The Secretary of Homeland Security shall prescribe regulations to implement this section for the Coast Guard when it is not operating as a service in the Navy.
 
-(Added [Pub. L. 101–510, div. A, title V, § 502(a)(1)][/us/pl/101/510/s502/a/1], Nov. 5, 1990, [104 Stat. 1557][/us/stat/104/1557]; amended [Pub. L. 102–484, div. A, title V, § 514][/us/pl/102/484/s514], Oct. 23, 1992, [106 Stat. 2406][/us/stat/106/2406]; [Pub. L. 103–160, div. A, title V, § 561(j)][/us/pl/103/160/s561/j], Nov. 30, 1993, [107 Stat. 1668][/us/stat/107/1668]; [Pub. L. 103–337, div. A, title V, § 542(a)(9)][/us/pl/103/337/s542/a/9], Oct. 5, 1994, [108 Stat. 2768][/us/stat/108/2768]; [Pub. L. 105–261, div. A, title V, § 561(p)][/us/pl/105/261/s561/p], Oct. 17, 1998, [112 Stat. 2027][/us/stat/112/2027]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 571(o)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–135; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 112–239, div. A, title X, § 1076(f)(18)][/us/pl/112/239/s1076/f/18], Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952].)
+(Added [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 502(a)(1), Nov. 5, 1990, [104 Stat. 1557][/us/stat/104/1557]; amended [Pub. L. 102–484, div. A, title V][/us/pl/102/484/dA/tV], § 514, Oct. 23, 1992, [106 Stat. 2406][/us/stat/106/2406]; [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 561(j), Nov. 30, 1993, [107 Stat. 1668][/us/stat/107/1668]; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 542(a)(9), Oct. 5, 1994, [108 Stat. 2768][/us/stat/108/2768]; [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 561(p), Oct. 17, 1998, [112 Stat. 2027][/us/stat/112/2027]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 571(o)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–135; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(f)(18), Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952].)
 
  __Amendments__ 
 
@@ -60,21 +60,21 @@
 ----------
 ----------
 
-[/us/pl/101/510/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs502%2Fa%2F1
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1557
-[/us/pl/102/484/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs514
+[/us/pl/102/484/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtV
 [/us/stat/106/2406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2406
-[/us/pl/103/160/s561/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs561%2Fj
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1668
-[/us/pl/103/337/s542/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs542%2Fa%2F9
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2768
-[/us/pl/105/261/s561/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs561%2Fp
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2027
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/112/239/s1076/f/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F18
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1952
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

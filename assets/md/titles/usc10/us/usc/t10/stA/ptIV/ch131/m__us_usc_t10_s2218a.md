@@ -67,7 +67,7 @@
 
         (2) The term “national sea-based deterrence vessel” means any vessel owned, operated, or controlled by the Department of Defense that carries operational intercontinental ballistic missiles.
 
-(Added [Pub. L. 113–291, div. A, title X, § 1022(a)(1)][/us/pl/113/291/s1022/a/1], Dec. 19, 2014, [128 Stat. 3486][/us/stat/128/3486]; amended [Pub. L. 114–92, div. A, title X, § 1022(a)][/us/pl/114/92/s1022/a], Nov. 25, 2015, [129 Stat. 965][/us/stat/129/965].)
+(Added [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1022(a)(1), Dec. 19, 2014, [128 Stat. 3486][/us/stat/128/3486]; amended [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1022(a), Nov. 25, 2015, [129 Stat. 965][/us/stat/129/965].)
 
  __Amendments__ 
 
@@ -80,9 +80,9 @@
 ----------
 ----------
 
-[/us/pl/113/291/s1022/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1022%2Fa%2F1
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3486
-[/us/pl/114/92/s1022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1022%2Fa
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F965
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 

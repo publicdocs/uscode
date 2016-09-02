@@ -47,25 +47,25 @@
 
     (i) The Secretary of Defense shall ensure that regulations prescribed by the Secretaries of the military departments under this section are uniform so far as practicable.
 
-(Added [Pub. L. 99–145, title V, § 532(a)(1)][/us/pl/99/145/s532/a/1], Nov. 8, 1985, [99 Stat. 633][/us/stat/99/633]; amended [Pub. L. 101–189, div. A, title V, § 516(a)][/us/pl/101/189/s516/a], Nov. 29, 1989, [103 Stat. 1441][/us/stat/103/1441]; [Pub. L. 112–239, div. A, title V, § 584][/us/pl/112/239/s584], Jan. 2, 2013, [126 Stat. 1767][/us/stat/126/1767].)
+(Added [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 532(a)(1), Nov. 8, 1985, [99 Stat. 633][/us/stat/99/633]; amended [Pub. L. 101–189, div. A, title V][/us/pl/101/189/dA/tV], § 516(a), Nov. 29, 1989, [103 Stat. 1441][/us/stat/103/1441]; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 584, Jan. 2, 2013, [126 Stat. 1767][/us/stat/126/1767].)
 
  __Amendments__ 
 
-    2013—Subsec. (a)(2) to (4). [Pub. L. 112–239, § 584(1)][/us/pl/112/239/s584/1], inserted “or” at end of par. (2), substituted period at end for “; or” in par. (3), and struck out par. (4) which read as follows: “by foreign armed forces that are hostile to the United States, under circumstances which the Secretary concerned finds to have been comparable to those under which persons have generally been held captive by enemy armed forces during periods of armed conflict.”
+    2013—Subsec. (a)(2) to (4). [Pub. L. 112–239][/us/pl/112/239], § 584(1), inserted “or” at end of par. (2), substituted period at end for “; or” in par. (3), and struck out par. (4) which read as follows: “by foreign armed forces that are hostile to the United States, under circumstances which the Secretary concerned finds to have been comparable to those under which persons have generally been held captive by enemy armed forces during periods of armed conflict.”
 
-    Subsecs. (b) to (i). [Pub. L. 112–239, § 584(2)][/us/pl/112/239/s584/2], (3), added subsec. (b) and redesignated former subsecs. (b) to (h) as (c) to (i), respectively.
+    Subsecs. (b) to (i). [Pub. L. 112–239][/us/pl/112/239], § 584(2), (3), added subsec. (b) and redesignated former subsecs. (b) to (h) as (c) to (i), respectively.
 
     1989—Subsec. (a)(4). [Pub. L. 101–189][/us/pl/101/189] added par. (4).
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–189, div. A, title V, § 516(b)][/us/pl/101/189/s516/b], Nov. 29, 1989, [103 Stat. 1442][/us/stat/103/1442], provided that: 
+[Pub. L. 101–189, div. A, title V][/us/pl/101/189/dA/tV], § 516(b), Nov. 29, 1989, [103 Stat. 1442][/us/stat/103/1442], provided that: 
 
 > “Paragraph (4) of [section 1128(a) of title 10][/us/usc/t10/s1128/a], United States Code, as added by subsection (a), applies with respect to periods of captivity after April 5, 1917.”
 
  __Effective Date__ 
 
-[Pub. L. 99–145, title V, § 532(b)][/us/pl/99/145/s532/b], Nov. 8, 1985, [99 Stat. 634][/us/stat/99/634], provided that: 
+[Pub. L. 99–145, title V][/us/pl/99/145/tV], § 532(b), Nov. 8, 1985, [99 Stat. 634][/us/stat/99/634], provided that: 
 
 > “[Section 1128 of title 10][/us/usc/t10/s1128], United States Code, as added by subsection (a), applies with respect to any person taken prisoner and held captive after April 5, 1917.”
 
@@ -76,19 +76,19 @@
 ----------
 ----------
 
-[/us/pl/99/145/s532/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs532%2Fa%2F1
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F633
-[/us/pl/101/189/s516/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs516%2Fa
+[/us/pl/101/189/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtV
 [/us/stat/103/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1441
-[/us/pl/112/239/s584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs584
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1767
-[/us/pl/112/239/s584/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs584%2F1
-[/us/pl/112/239/s584/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs584%2F2
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
-[/us/pl/101/189/s516/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs516%2Fb
+[/us/pl/101/189/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtV
 [/us/stat/103/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1442
 [/us/usc/t10/s1128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1128%2Fa
-[/us/pl/99/145/s532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs532%2Fb
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F634
 [/us/usc/t10/s1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1128
 

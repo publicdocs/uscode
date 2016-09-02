@@ -23,7 +23,7 @@
 
     In this section, the term “principal course of instruction” means any course of instruction offered at the Joint Forces Staff College as Phase II joint professional military education.
 
-(Added [Pub. L. 108–375, div. A, title V, § 532(a)(2)][/us/pl/108/375/s532/a/2], Oct. 28, 2004, [118 Stat. 1900][/us/stat/118/1900].)
+(Added [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 532(a)(2), Oct. 28, 2004, [118 Stat. 1900][/us/stat/118/1900].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/108/375/s532/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs532%2Fa%2F2
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1900
 
 

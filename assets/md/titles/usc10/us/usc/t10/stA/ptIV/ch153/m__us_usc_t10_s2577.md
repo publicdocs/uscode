@@ -31,7 +31,7 @@
 
     (c) If the balance available to a military installation under this section at the end of any fiscal year is in excess of $2,000,000, the amount of that excess shall be covered into the Treasury as miscellaneous receipts.
 
-(Added [Pub. L. 97–214, § 6(b)(1)][/us/pl/97/214/s6/b/1], July 12, 1982, [96 Stat. 172][/us/stat/96/172]; amended [Pub. L. 98–525, title XIV, § 1405(37)][/us/pl/98/525/s1405/37], Oct. 19, 1984, [98 Stat. 2624][/us/stat/98/2624]; [Pub. L. 107–217, § 3(b)(11)][/us/pl/107/217/s3/b/11], Aug. 21, 2002, [116 Stat. 1296][/us/stat/116/1296].)
+(Added [Pub. L. 97–214][/us/pl/97/214], § 6(b)(1), July 12, 1982, [96 Stat. 172][/us/stat/96/172]; amended [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(37), Oct. 19, 1984, [98 Stat. 2624][/us/stat/98/2624]; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(11), Aug. 21, 2002, [116 Stat. 1296][/us/stat/116/1296].)
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/97/214/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs6%2Fb%2F1
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F172
-[/us/pl/98/525/s1405/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F37
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2624
-[/us/pl/107/217/s3/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F11
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1296
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs484

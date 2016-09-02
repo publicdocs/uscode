@@ -117,47 +117,47 @@
 
             (F) This policy does not make the purchase of renewable energy certificates mandatory, but the policy shall apply whenever original renewable energy certificates are proposed to be swapped for replacement renewable energy certificates.
 
-(Added and amended [Pub. L. 109–364, div. B, title XXVIII][/us/pl/109/364], §§ 2851(a)(1), 2852, Oct. 17, 2006, [120 Stat. 2489][/us/stat/120/2489], 2496; [Pub. L. 111–84, div. B, title XXVIII, § 2842][/us/pl/111/84/s2842], Oct. 28, 2009, [123 Stat. 2680][/us/stat/123/2680]; [Pub. L. 111–383, div. B, title XXVIII][/us/pl/111/383], §§ 2831, 2832(a), Jan. 7, 2011, [124 Stat. 4467][/us/stat/124/4467], 4468; [Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81], §§ 2821(b)(1), 2822(b), 2823(a), 2824(a), 2825(b), Dec. 31, 2011, [125 Stat. 1691][/us/stat/125/1691], 1692, 1694.)
+(Added and amended [Pub. L. 109–364, div. B, title XXVIII][/us/pl/109/364/dB/tXXVIII], §§ 2851(a)(1), 2852, Oct. 17, 2006, [120 Stat. 2489][/us/stat/120/2489], 2496; [Pub. L. 111–84, div. B, title XXVIII][/us/pl/111/84/dB/tXXVIII], § 2842, Oct. 28, 2009, [123 Stat. 2680][/us/stat/123/2680]; [Pub. L. 111–383, div. B, title XXVIII][/us/pl/111/383/dB/tXXVIII], §§ 2831, 2832(a), Jan. 7, 2011, [124 Stat. 4467][/us/stat/124/4467], 4468; [Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], §§ 2821(b)(1), 2822(b), 2823(a), 2824(a), 2825(b), Dec. 31, 2011, [125 Stat. 1691][/us/stat/125/1691], 1692, 1694.)
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–383, § 2832(a)(3)][/us/pl/111/383/s2832/a/3], substituted “Energy performance goals and master plan for the Department of Defense” for “Energy performance goals and plan for Department of Defense” in section catchline.
+    2011—[Pub. L. 111–383][/us/pl/111/383], § 2832(a)(3), substituted “Energy performance goals and master plan for the Department of Defense” for “Energy performance goals and plan for Department of Defense” in section catchline.
 
-    [Pub. L. 111–383, § 2832(a)(2)][/us/pl/111/383/s2832/a/2], substituted “master plan” for “plan” wherever appearing in subsecs. (c) to (e).
+    [Pub. L. 111–383][/us/pl/111/383], § 2832(a)(2), substituted “master plan” for “plan” wherever appearing in subsecs. (c) to (e).
 
-    Subsec. (b). [Pub. L. 111–383, § 2832(a)(1)][/us/pl/111/383/s2832/a/1], amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall develop, and update as necessary, a comprehensive plan to help achieve the energy performance goals for the Department of Defense.”
+    Subsec. (b). [Pub. L. 111–383][/us/pl/111/383], § 2832(a)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall develop, and update as necessary, a comprehensive plan to help achieve the energy performance goals for the Department of Defense.”
 
-    Subsec. (b)(2)(F). [Pub. L. 112–81, § 2825(b)][/us/pl/112/81/s2825/b], added subpar. (F).
+    Subsec. (b)(2)(F). [Pub. L. 112–81][/us/pl/112/81], § 2825(b), added subpar. (F).
 
-    Subsec. (c)(4). [Pub. L. 111–383, § 2831(1)][/us/pl/111/383/s2831/1], inserted “and hybrid-electric drive” after “alternative fuels”.
+    Subsec. (c)(4). [Pub. L. 111–383][/us/pl/111/383], § 2831(1), inserted “and hybrid-electric drive” after “alternative fuels”.
 
-    Subsec. (c)(5) to (11). [Pub. L. 111–383, § 2831(2)][/us/pl/111/383/s2831/2]–(5), added pars. (5) and (10) and redesignated former pars. (5) to (8) and (9) as (6) to (9) and (11), respectively.
+    Subsec. (c)(5) to (11). [Pub. L. 111–383][/us/pl/111/383], § 2831(2)–(5), added pars. (5) and (10) and redesignated former pars. (5) to (8) and (9) as (6) to (9) and (11), respectively.
 
-    Subsec. (c)(12). [Pub. L. 112–81, § 2822(b)][/us/pl/112/81/s2822/b], added par. (12).
+    Subsec. (c)(12). [Pub. L. 112–81][/us/pl/112/81], § 2822(b), added par. (12).
 
-    Subsec. (d). [Pub. L. 112–81, § 2821(b)(1)(A)][/us/pl/112/81/s2821/b/1/A], struck out par. (1) designation, redesignated subpars. (A) to (D) as pars. (1) to (4), respectively, and struck out former par. (2), which defined “energy efficient maintenance”.
+    Subsec. (d). [Pub. L. 112–81][/us/pl/112/81], § 2821(b)(1)(A), struck out par. (1) designation, redesignated subpars. (A) to (D) as pars. (1) to (4), respectively, and struck out former par. (2), which defined “energy efficient maintenance”.
 
-    Subsec. (e)(2). [Pub. L. 112–81, § 2823(a)][/us/pl/112/81/s2823/a], added par. (2).
+    Subsec. (e)(2). [Pub. L. 112–81][/us/pl/112/81], § 2823(a), added par. (2).
 
-    [Pub. L. 112–81, § 2821(b)(1)(B)][/us/pl/112/81/s2821/b/1/B], struck out par. (2), which defined “renewable energy source”.
+    [Pub. L. 112–81][/us/pl/112/81], § 2821(b)(1)(B), struck out par. (2), which defined “renewable energy source”.
 
-    Subsec. (e)(3). [Pub. L. 112–81, § 2824(a)][/us/pl/112/81/s2824/a], added par. (3).
+    Subsec. (e)(3). [Pub. L. 112–81][/us/pl/112/81], § 2824(a), added par. (3).
 
-    2009—Subsec. (e). [Pub. L. 111–84, § 2842(c)][/us/pl/111/84/s2842/c], substituted “Facility Energy Needs” for “Electricity Needs” in heading.
+    2009—Subsec. (e). [Pub. L. 111–84][/us/pl/111/84], § 2842(c), substituted “Facility Energy Needs” for “Electricity Needs” in heading.
 
-    [Pub. L. 111–84, § 2842(a)][/us/pl/111/84/s2842/a], (b), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), in par. (1)(A), substituted “facility energy” for “electric energy” and struck out “and in its activities” after “facilities” and “(as defined in section 203(b) of the Energy Policy Act of 2005 ([42 U.S.C. 15852(b)][/us/usc/t42/s15852/b]))” after “sources”, in par. (1)(B), substituted “facility energy” for “electric energy”, and added par. (2).
+    [Pub. L. 111–84][/us/pl/111/84], § 2842(a), (b), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), in par. (1)(A), substituted “facility energy” for “electric energy” and struck out “and in its activities” after “facilities” and “(as defined in section 203(b) of the Energy Policy Act of 2005 ([42 U.S.C. 15852(b)][/us/usc/t42/s15852/b]))” after “sources”, in par. (1)(B), substituted “facility energy” for “electric energy”, and added par. (2).
 
-    2006—Subsec. (e). [Pub. L. 109–364, § 2852][/us/pl/109/364/s2852], added subsec. (e).
+    2006—Subsec. (e). [Pub. L. 109–364][/us/pl/109/364], § 2852, added subsec. (e).
 
  __Business Case Analysis of any Plan To Design, Refurbish, or Construct a Biofuel Refinery__ 
 
-[Pub. L. 113–291, div. A, title III, § 314][/us/pl/113/291/s314], Dec. 19, 2014, [128 Stat. 3338][/us/stat/128/3338], provided that: 
+[Pub. L. 113–291, div. A, title III][/us/pl/113/291/dA/tIII], § 314, Dec. 19, 2014, [128 Stat. 3338][/us/stat/128/3338], provided that: 
 
 > “Not later than 30 days before entering into a contract for the planning, design, refurbishing, or construction of a biofuel refinery, or of any other facility or infrastructure used to refine biofuels, the Secretary of Defense or the Secretary of the military department concerned shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a business case analysis for such planning, design, refurbishing, or construction.”
 
  __Guidance on Financing for Renewable Energy Projects__ 
 
-[Pub. L. 112–239, div. B, title XXVIII, § 2824][/us/pl/112/239/s2824], Jan. 2, 2013, [126 Stat. 2153][/us/stat/126/2153], as amended by [Pub. L. 113–291, div. A, title IX, § 901(n)(2)][/us/pl/113/291/s901/n/2], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that:
+[Pub. L. 112–239, div. B, title XXVIII][/us/pl/112/239/dB/tXXVIII], § 2824, Jan. 2, 2013, [126 Stat. 2153][/us/stat/126/2153], as amended by [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(n)(2), Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that:
 
 >     “(a)  __Guidance on Use of Available Financing Approaches__  __.—__ 
 
@@ -187,7 +187,7 @@
 
  __Energy-Efficient Technologies in Contracts for Logistics Support of Contingency Operations__ 
 
-[Pub. L. 112–81, div. A, title III, § 315][/us/pl/112/81/s315], Dec. 31, 2011, [125 Stat. 1357][/us/stat/125/1357], provided that:
+[Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 315, Dec. 31, 2011, [125 Stat. 1357][/us/stat/125/1357], provided that:
 
 >     “(a)  __Energy Performance Master Plan__  __.—__ 
 
@@ -221,7 +221,7 @@
 
  __Policy of Pursuing Energy Security__ 
 
-[Pub. L. 112–81, div. B, title XXVIII, § 2822(a)][/us/pl/112/81/s2822/a], Dec. 31, 2011, [125 Stat. 1691][/us/stat/125/1691], provided that:
+[Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], § 2822(a), Dec. 31, 2011, [125 Stat. 1691][/us/stat/125/1691], provided that:
 
 >     “(1)  __Policy required__  __.—__ 
 
@@ -241,19 +241,19 @@
 
  __Deadline for Congressional Notification__ 
 
-[Pub. L. 112–81, div. B, title XXVIII, § 2823(b)][/us/pl/112/81/s2823/b], Dec. 31, 2011, [125 Stat. 1692][/us/stat/125/1692], provided that: 
+[Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], § 2823(b), Dec. 31, 2011, [125 Stat. 1692][/us/stat/125/1692], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of the interim renewable energy goal established pursuant to the amendment made by subsection (a) \[amending this section\].”
 
  __Department of Defense To Capture and Track Data Generated in Metering Department Facilities__ 
 
-[Pub. L. 112–81, div. B, title XXVIII, § 2827][/us/pl/112/81/s2827], Dec. 31, 2011, [125 Stat. 1694][/us/stat/125/1694], provided that: 
+[Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], § 2827, Dec. 31, 2011, [125 Stat. 1694][/us/stat/125/1694], provided that: 
 
 > “The Secretary of Defense shall require that the information generated by the installation energy meters be captured and tracked to determine baseline energy consumption and facilitate efforts to reduce energy consumption.”
 
  __Training Policy for Department of Defense Energy Managers__ 
 
-[Pub. L. 112–81, div. B, title XXVIII, § 2829][/us/pl/112/81/s2829], Dec. 31, 2011, [125 Stat. 1694][/us/stat/125/1694], provided that:
+[Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], § 2829, Dec. 31, 2011, [125 Stat. 1694][/us/stat/125/1694], provided that:
 
 >     “(a)  __Establishment of Training Policy__  __.—__ 
 
@@ -277,7 +277,7 @@
 
  __Pilot Program on Collaborative Energy Security__ 
 
-[Pub. L. 111–383, div. A, title II, § 242][/us/pl/111/383/s242], Jan. 7, 2011, [124 Stat. 4176][/us/stat/124/4176], provided that:
+[Pub. L. 111–383, div. A, title II][/us/pl/111/383/dA/tII], § 242, Jan. 7, 2011, [124 Stat. 4176][/us/stat/124/4176], provided that:
 
 >     “(a)  __Pilot Program__  __.—__ 
 
@@ -349,7 +349,7 @@
 
  __Energy Security on Department of Defense Installations__ 
 
-[Pub. L. 111–84, div. A, title III, § 335][/us/pl/111/84/s335], Oct. 28, 2009, [123 Stat. 2259][/us/stat/123/2259], provided that:
+[Pub. L. 111–84, div. A, title III][/us/pl/111/84/dA/tIII], § 335, Oct. 28, 2009, [123 Stat. 2259][/us/stat/123/2259], provided that:
 
 >     “(a) __Plan for Energy Security Required.—__ 
 
@@ -375,7 +375,7 @@
 
  __Consideration of Fuel Logistics Support Requirements in Planning, Requirements Development, and Acquisition Processes__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 332, Oct. 14, 2008, [122 Stat. 4420][/us/stat/122/4420], as amended by [Pub. L. 111–383, div. A, title X, § 1075(e)(5)][/us/pl/111/383/s1075/e/5], Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374], provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 332, Oct. 14, 2008, [122 Stat. 4420][/us/stat/122/4420], as amended by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(e)(5), Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374], provided that:
 
 >     “(a)  __Planning__  __.—__ 
 
@@ -411,7 +411,7 @@
 
  __Mitigation of Power Outage Risks for Department of Defense Facilities and Activities__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 335, Oct. 14, 2008, [122 Stat. 4422][/us/stat/122/4422], as amended by [Pub. L. 114–92, div. A, title X, § 1079(d)(1)][/us/pl/114/92/s1079/d/1], Nov. 25, 2015, [129 Stat. 999][/us/stat/129/999], provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 335, Oct. 14, 2008, [122 Stat. 4422][/us/stat/122/4422], as amended by [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1079(d)(1), Nov. 25, 2015, [129 Stat. 999][/us/stat/129/999], provided that:
 
 >     “(a)  __Risk Assessment__  __.—__ 
 
@@ -433,7 +433,7 @@
 
  __Use of Energy Efficient Lighting Fixtures and Bulbs in Department of Defense Facilities__ 
 
-[Pub. L. 110–181, div. B, title XXVIII, § 2863][/us/pl/110/181/s2863], Jan. 28, 2008, [122 Stat. 560][/us/stat/122/560], provided that:
+[Pub. L. 110–181, div. B, title XXVIII][/us/pl/110/181/dB/tXXVIII], § 2863, Jan. 28, 2008, [122 Stat. 560][/us/stat/122/560], provided that:
 
 >     “(a)  __Construction and Alteration of Buildings__  __.—__ 
 
@@ -479,17 +479,17 @@
 
  __Reporting Requirements Relating to Renewable Energy Use by Department of Defense To Meet Department Electricity Needs__ 
 
-    [Pub. L. 110–181, div. B, title XXVIII, § 2864][/us/pl/110/181/s2864], Jan. 28, 2008, [122 Stat. 561][/us/stat/122/561], related to reporting requirements relating to renewable energy use by Department of Defense to meet Department electricity needs, prior to repeal by [Pub. L. 113–66, div. A, title X, § 1084(b)(2)(B)][/us/pl/113/66/s1084/b/2/B], Dec. 26, 2013, [127 Stat. 872][/us/stat/127/872].
+    [Pub. L. 110–181, div. B, title XXVIII][/us/pl/110/181/dB/tXXVIII], § 2864, Jan. 28, 2008, [122 Stat. 561][/us/stat/122/561], related to reporting requirements relating to renewable energy use by Department of Defense to meet Department electricity needs, prior to repeal by [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1084(b)(2)(B), Dec. 26, 2013, [127 Stat. 872][/us/stat/127/872].
 
  __Utilization of Fuel Cells as Back-Up Power Systems in Department of Defense Operations__ 
 
-[Pub. L. 109–364, div. A, title III, § 358][/us/pl/109/364/s358], Oct. 17, 2006, [120 Stat. 2164][/us/stat/120/2164], provided that: 
+[Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 358, Oct. 17, 2006, [120 Stat. 2164][/us/stat/120/2164], provided that: 
 
 > “The Secretary of Defense shall consider the utilization of fuel cells as replacements for current back-up power systems in a variety of Department of Defense operations and activities, including in telecommunications networks, perimeter security, individual equipment items, and remote facilities, in order to increase the operational longevity of back-up power systems and stand-by power systems in such operations and activities.”
 
  __Energy Efficiency in Weapons Platforms__ 
 
-[Pub. L. 109–364, div. A, title III, § 360(a)][/us/pl/109/364/s360/a], Oct. 17, 2006, [120 Stat. 2164][/us/stat/120/2164], provided that: 
+[Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 360(a), Oct. 17, 2006, [120 Stat. 2164][/us/stat/120/2164], provided that: 
 
 > “It shall be the policy of the Department of Defense to improve the fuel efficiency of weapons platforms, consistent with mission requirements, in order to—
 
@@ -505,7 +505,7 @@
 
  __Department of Defense Energy Efficiency Program__ 
 
-[Pub. L. 107–107, div. A, title III, § 317][/us/pl/107/107/s317], Dec. 28, 2001, [115 Stat. 1054][/us/stat/115/1054], provided that:
+[Pub. L. 107–107, div. A, title III][/us/pl/107/107/dA/tIII], § 317, Dec. 28, 2001, [115 Stat. 1054][/us/stat/115/1054], provided that:
 
 >     “(a)  __Sense of Congress__  __.—__ 
 
@@ -566,76 +566,76 @@
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t10/s2915/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2915%2Fe%2F2
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdB%2FtXXVIII
 [/us/stat/120/2489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2489
-[/us/pl/111/84/s2842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2842
+[/us/pl/111/84/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdB%2FtXXVIII
 [/us/stat/123/2680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2680
-[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdB%2FtXXVIII
 [/us/stat/124/4467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4467
-[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1691
-[/us/pl/111/383/s2832/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2832%2Fa%2F3
-[/us/pl/111/383/s2832/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2832%2Fa%2F2
-[/us/pl/111/383/s2832/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2832%2Fa%2F1
-[/us/pl/112/81/s2825/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2825%2Fb
-[/us/pl/111/383/s2831/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2831%2F1
-[/us/pl/111/383/s2831/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2831%2F2
-[/us/pl/112/81/s2822/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2822%2Fb
-[/us/pl/112/81/s2821/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2821%2Fb%2F1%2FA
-[/us/pl/112/81/s2823/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2823%2Fa
-[/us/pl/112/81/s2821/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2821%2Fb%2F1%2FB
-[/us/pl/112/81/s2824/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2824%2Fa
-[/us/pl/111/84/s2842/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2842%2Fc
-[/us/pl/111/84/s2842/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2842%2Fa
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/usc/t42/s15852/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15852%2Fb
-[/us/pl/109/364/s2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2852
-[/us/pl/113/291/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs314
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/113/291/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIII
 [/us/stat/128/3338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3338
-[/us/pl/112/239/s2824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2824
+[/us/pl/112/239/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdB%2FtXXVIII
 [/us/stat/126/2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2153
-[/us/pl/113/291/s901/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F2
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
-[/us/pl/112/81/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs315
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1357
 [/us/usc/t10/s2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2911
 [/us/usc/t10/s2925/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2925%2Fb
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
-[/us/pl/112/81/s2822/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2822%2Fa
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1691
 [/us/usc/t10/s2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2924
-[/us/pl/112/81/s2823/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2823%2Fb
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1692
-[/us/pl/112/81/s2827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2827
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1694
-[/us/pl/112/81/s2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2829
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1694
-[/us/pl/111/383/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs242
+[/us/pl/111/383/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtII
 [/us/stat/124/4176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4176
 [/us/usc/t42/s15801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801
 [/us/usc/t50/s2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2471
-[/us/pl/111/84/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs335
+[/us/pl/111/84/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIII
 [/us/stat/123/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2259
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4420
-[/us/pl/111/383/s1075/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fe%2F5
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4374
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4422
-[/us/pl/114/92/s1079/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1079%2Fd%2F1
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F999
-[/us/pl/110/181/s2863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2863
+[/us/pl/110/181/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdB%2FtXXVIII
 [/us/stat/122/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F560
 [/us/usc/t42/s6294a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6294a
 [/us/usc/t10/s2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2802
-[/us/pl/110/181/s2864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2864
+[/us/pl/110/181/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdB%2FtXXVIII
 [/us/stat/122/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F561
-[/us/pl/113/66/s1084/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1084%2Fb%2F2%2FB
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F872
-[/us/pl/109/364/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs358
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2164
-[/us/pl/109/364/s360/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs360%2Fa
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2164
-[/us/pl/107/107/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs317
+[/us/pl/107/107/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIII
 [/us/stat/115/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1054
 [/us/usc/t42/s8251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8251
 

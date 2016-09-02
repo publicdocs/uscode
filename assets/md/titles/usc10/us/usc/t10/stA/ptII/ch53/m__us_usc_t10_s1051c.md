@@ -39,7 +39,7 @@
 
         (2) the security policies, security procedures, or acceptable use policies with respect to an information system.
 
-(Added [Pub. L. 112–81, div. A, title IX, § 951(a)(1)][/us/pl/112/81/s951/a/1], Dec. 31, 2011, [125 Stat. 1548][/us/stat/125/1548].)
+(Added [Pub. L. 112–81, div. A, title IX][/us/pl/112/81/dA/tIX], § 951(a)(1), Dec. 31, 2011, [125 Stat. 1548][/us/stat/125/1548].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/112/81/s951/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs951%2Fa%2F1
+[/us/pl/112/81/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIX
 [/us/stat/125/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1548
 
 

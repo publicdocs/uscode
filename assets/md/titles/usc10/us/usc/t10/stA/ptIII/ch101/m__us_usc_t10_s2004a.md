@@ -67,17 +67,17 @@
 
     No agreement detailing an officer of the armed forces to an accredited medical school or school of osteopathy may be entered into during any period in which the President is authorized by law to induct persons into the armed forces involuntarily. Nothing in this subsection shall affect any agreement entered into during any period when the President is not authorized by law to so induct persons into the armed forces.
 
-(Added [Pub. L. 109–364, div. A, title V, § 536(a)][/us/pl/109/364/s536/a], Oct. 17, 2006, [120 Stat. 2207][/us/stat/120/2207]; amended [Pub. L. 110–181, div. A, title V, § 524(c)][/us/pl/110/181/s524/c], Jan. 28, 2008, [122 Stat. 104][/us/stat/122/104]; [Pub. L. 111–84, div. A, title X, § 1073(a)(18)][/us/pl/111/84/s1073/a/18], Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473].)
+(Added [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 536(a), Oct. 17, 2006, [120 Stat. 2207][/us/stat/120/2207]; amended [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 524(c), Jan. 28, 2008, [122 Stat. 104][/us/stat/122/104]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(18), Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473].)
 
  __Amendments__ 
 
-    2009—Subsec. (b)(1). [Pub. L. 111–84, § 1073(a)(18)(A)][/us/pl/111/84/s1073/a/18/A], substituted “pay grade O–3” for “pay grade 0–3”.
+    2009—Subsec. (b)(1). [Pub. L. 111–84][/us/pl/111/84], § 1073(a)(18)(A), substituted “pay grade O–3” for “pay grade 0–3”.
 
-    Subsec. (i). [Pub. L. 111–84, § 1073(a)(18)(B)][/us/pl/111/84/s1073/a/18/B], inserted period at end.
+    Subsec. (i). [Pub. L. 111–84][/us/pl/111/84], § 1073(a)(18)(B), inserted period at end.
 
-    2008—Subsec. (c). [Pub. L. 110–181, § 524(c)(2)][/us/pl/110/181/s524/c/2], substituted “subsection (b)” for “subsection (c)”.
+    2008—Subsec. (c). [Pub. L. 110–181][/us/pl/110/181], § 524(c)(2), substituted “subsection (b)” for “subsection (c)”.
 
-    Subsecs. (e) to (i). [Pub. L. 110–181, § 524(c)(1)][/us/pl/110/181/s524/c/1], added subsec. (e) and redesignated former subsecs. (e) to (h) as (f) to (i), respectively.
+    Subsecs. (e) to (i). [Pub. L. 110–181][/us/pl/110/181], § 524(c)(1), added subsec. (e) and redesignated former subsecs. (e) to (h) as (f) to (i), respectively.
 
 ----------
 
@@ -86,15 +86,15 @@
 ----------
 ----------
 
-[/us/pl/109/364/s536/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs536%2Fa
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2207
-[/us/pl/110/181/s524/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs524%2Fc
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F104
-[/us/pl/111/84/s1073/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F18
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2473
-[/us/pl/111/84/s1073/a/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F18%2FA
-[/us/pl/111/84/s1073/a/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F18%2FB
-[/us/pl/110/181/s524/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs524%2Fc%2F2
-[/us/pl/110/181/s524/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs524%2Fc%2F1
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

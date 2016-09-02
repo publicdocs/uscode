@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schIII/m__us_usc_t10_stA_ptIV_ch148_schIII.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schIII/m__us_usc_t10_s2514.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2511)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schIII/m__us_usc_t10_stA_ptIV_ch148_schIII.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schIII/m__us_usc_t10_s2512 _us_usc_t10_s2513.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2511)
 
 ## § 2511. Defense dual-use critical technology program
 
@@ -57,15 +57,15 @@
 
     The Secretary of Defense shall prescribe regulations for the purposes of this section.
 
-(Added [Pub. L. 102–484, div. D, title XLII, § 4221(a)][/us/pl/102/484/s4221/a], Oct. 23, 1992, [106 Stat. 2677][/us/stat/106/2677]; amended [Pub. L. 103–160, div. A, title XIII][/us/pl/103/160], §§ 1315(a), 1317(c), Nov. 30, 1993, [107 Stat. 1787][/us/stat/107/1787], 1789; [Pub. L. 103–337, div. A, title XI, § 1115(a)][/us/pl/103/337/s1115/a], Oct. 5, 1994, [108 Stat. 2868][/us/stat/108/2868]; [Pub. L. 104–106, div. A, title X, § 1081(c)][/us/pl/104/106/s1081/c], Feb. 10, 1996, [110 Stat. 452][/us/stat/110/452].)
+(Added [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4221(a), Oct. 23, 1992, [106 Stat. 2677][/us/stat/106/2677]; amended [Pub. L. 103–160, div. A, title XIII][/us/pl/103/160/dA/tXIII], §§ 1315(a), 1317(c), Nov. 30, 1993, [107 Stat. 1787][/us/stat/107/1787], 1789; [Pub. L. 103–337, div. A, title XI][/us/pl/103/337/dA/tXI], § 1115(a), Oct. 5, 1994, [108 Stat. 2868][/us/stat/108/2868]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1081(c), Feb. 10, 1996, [110 Stat. 452][/us/stat/110/452].)
 
  __Prior Provisions__ 
 
-    A prior section 2511, added [Pub. L. 101–510, div. A, title VIII, § 823(a)(3)][/us/pl/101/510/s823/a/3], Nov. 5, 1990, [104 Stat. 1600][/us/stat/104/1600]; amended [Pub. L. 102–190, div. A, title VIII, § 824(b)][/us/pl/102/190/s824/b], Dec. 5, 1991, [105 Stat. 1438][/us/stat/105/1438], defined “manufacturing technology”, “manufacturing extension program”, and “United States-based small manufacturing firm” for purposes of former chapter 149 of this title, prior to repeal and restatement in [section 2491 of this title][/us/usc/t10/s2491] by [Pub. L. 102–484][/us/pl/102/484], §§ 4202(a), 4203(a).
+    A prior section 2511, added [Pub. L. 101–510, div. A, title VIII][/us/pl/101/510/dA/tVIII], § 823(a)(3), Nov. 5, 1990, [104 Stat. 1600][/us/stat/104/1600]; amended [Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], § 824(b), Dec. 5, 1991, [105 Stat. 1438][/us/stat/105/1438], defined “manufacturing technology”, “manufacturing extension program”, and “United States-based small manufacturing firm” for purposes of former chapter 149 of this title, prior to repeal and restatement in [section 2491 of this title][/us/usc/t10/s2491] by [Pub. L. 102–484][/us/pl/102/484], §§ 4202(a), 4203(a).
 
     Another prior section 2511 was renumbered [section 2540 of this title][/us/usc/t10/s2540] and subsequently repealed.
 
-    Provisions similar to those in this section were contained in [section 2523 of this title][/us/usc/t10/s2523], prior to repeal by [Pub. L. 102–484, § 4202(a)][/us/pl/102/484/s4202/a].
+    Provisions similar to those in this section were contained in [section 2523 of this title][/us/usc/t10/s2523], prior to repeal by [Pub. L. 102–484][/us/pl/102/484], § 4202(a).
 
  __Amendments__ 
 
@@ -73,13 +73,13 @@
 
     1994—Subsec. (c)(3). [Pub. L. 103–337][/us/pl/103/337] added par. (3).
 
-    1993—Subsec. (c). [Pub. L. 103–160, § 1315(a)][/us/pl/103/160/s1315/a], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary of Defense shall ensure that, to the maximum extent he determines to be practicable, the amount of the funds provided by the Federal Government under a partnership does not exceed the total amount provided by non-Federal Government participants in that partnership.”
+    1993—Subsec. (c). [Pub. L. 103–160][/us/pl/103/160], § 1315(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary of Defense shall ensure that, to the maximum extent he determines to be practicable, the amount of the funds provided by the Federal Government under a partnership does not exceed the total amount provided by non-Federal Government participants in that partnership.”
 
-    Subsec. (e). [Pub. L. 103–160, § 1317(c)][/us/pl/103/160/s1317/c], struck out “, except that procedures other than competitive procedures may be used in any case in which an exception set out in [section 2304(c) of this title][/us/usc/t10/s2304/c] applies” after “partnerships”.
+    Subsec. (e). [Pub. L. 103–160][/us/pl/103/160], § 1317(c), struck out “, except that procedures other than competitive procedures may be used in any case in which an exception set out in [section 2304(c) of this title][/us/usc/t10/s2304/c] applies” after “partnerships”.
 
  __Dual-Use Science and Technology Program__ 
 
-[Pub. L. 105–85, div. A, title II, § 203][/us/pl/105/85/s203], Nov. 18, 1997, [111 Stat. 1655][/us/stat/111/1655], as amended by [Pub. L. 106–65, div. A, title IX, § 911(a)(1)][/us/pl/106/65/s911/a/1], Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717], provided that:
+[Pub. L. 105–85, div. A, title II][/us/pl/105/85/dA/tII], § 203, Nov. 18, 1997, [111 Stat. 1655][/us/stat/111/1655], as amended by [Pub. L. 106–65, div. A, title IX][/us/pl/106/65/dA/tIX], § 911(a)(1), Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717], provided that:
 
 >     “(a)  __Funding__  __1998.—__ 
 
@@ -173,21 +173,11 @@
 
  __Application of 1993 Amendments to Existing Technology Reinvestment Projects__ 
 
-    [Pub. L. 103–160, div. A, title XIII, § 1315(g)][/us/pl/103/160/s1315/g], Nov. 30, 1993, [107 Stat. 1789][/us/stat/107/1789], provided that in the case of projects funded under section 2511, 2512, 2513, 2523, or 2524 of this title with funds appropriated for a fiscal year beginning before Oct. 1, 1993, the amendments made by [section 1315 of Pub. L. 103–160][/us/pl/103/160/s1315] would not alter the financial commitment requirements in effect on Nov. 30, 1993, for the non-Federal Government participants in the project.
-
-\[§§ 2512, 2513. __Repealed.__  __[__  __Pub. L. 104–106, div. A, title X, § 1081(f)__  __][/us/pl/104/106/s1081/f]__  __,__  __Feb. 10, 1996__  __,__  __[__  __110 Stat. 454__  __][/us/stat/110/454]__  __\]__ 
-
-    Section 2512, added [Pub. L. 102–484, div. D, title XLII, § 4222(a)][/us/pl/102/484/s4222/a], Oct. 23, 1992, [106 Stat. 2679][/us/stat/106/2679]; amended [Pub. L. 103–160, div. A, title XIII, § 1315(b)][/us/pl/103/160/s1315/b], Nov. 30, 1993, [107 Stat. 1787][/us/stat/107/1787]; [Pub. L. 103–337, div. A, title XI, § 1115(b)][/us/pl/103/337/s1115/b], Oct. 5, 1994, [108 Stat. 2868][/us/stat/108/2868], related to commercial-military integration partnerships.
-
-    A prior section 2512, added [Pub. L. 101–510, div. A, title VIII, § 823(a)(3)][/us/pl/101/510/s823/a/3], Nov. 5, 1990, [104 Stat. 1600][/us/stat/104/1600], related to responsibility of Secretary of Defense to provide management and planning, prior to repeal by [Pub. L. 102–484, § 4202(a)][/us/pl/102/484/s4202/a].
-
-    Section 2513, added [Pub. L. 102–190, div. A, title VIII, § 821(a)][/us/pl/102/190/s821/a], Dec. 5, 1991, [105 Stat. 1428][/us/stat/105/1428], § 2524; renumbered § 2513 and amended [Pub. L. 102–484, div. D, title XLII, § 4223(a)][/us/pl/102/484/s4223/a]–(f), Oct. 23, 1992, [106 Stat. 2681][/us/stat/106/2681]; [Pub. L. 103–35, title II, § 201(d)(3)][/us/pl/103/35/s201/d/3], (e)(1), May 31, 1993, [107 Stat. 99][/us/stat/107/99]; [Pub. L. 103–160, div. A, title XI, § 1182(g)(2)][/us/pl/103/160/s1182/g/2], title XIII, §§ 1315(c), 1316, Nov. 30, 1993, [107 Stat. 1774][/us/stat/107/1774], 1787, 1789; [Pub. L. 103–337, div. A, title XI, § 1115(c)][/us/pl/103/337/s1115/c], Oct. 5, 1994, [108 Stat. 2868][/us/stat/108/2868], related to regional technology alliances assistance program.
-
-    A prior section 2513, added [Pub. L. 101–510, div. A, title VIII, § 823(a)(3)][/us/pl/101/510/s823/a/3], Nov. 5, 1990, [104 Stat. 1601][/us/stat/104/1601]; amended [Pub. L. 102–190, div. A, title II, § 203(c)][/us/pl/102/190/s203/c], Dec. 5, 1991, [105 Stat. 1314][/us/stat/105/1314], required annual National Defense Manufacturing Technology Plan, prior to repeal by [Pub. L. 102–484, § 4202(a)][/us/pl/102/484/s4202/a].
+    [Pub. L. 103–160, div. A, title XIII][/us/pl/103/160/dA/tXIII], § 1315(g), Nov. 30, 1993, [107 Stat. 1789][/us/stat/107/1789], provided that in the case of projects funded under section 2511, 2512, 2513, 2523, or 2524 of this title with funds appropriated for a fiscal year beginning before Oct. 1, 1993, the amendments made by [section 1315 of Pub. L. 103–160][/us/pl/103/160/s1315] would not alter the financial commitment requirements in effect on Nov. 30, 1993, for the non-Federal Government participants in the project.
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schIII/m__us_usc_t10_stA_ptIV_ch148_schIII.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schIII/m__us_usc_t10_s2514.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2511)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schIII/m__us_usc_t10_stA_ptIV_ch148_schIII.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schIII/m__us_usc_t10_s2512 _us_usc_t10_s2513.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2511)
 
 ----------
 ----------
@@ -195,31 +185,31 @@
 [/us/usc/t10/s2501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501%2Fa
 [/us/usc/t10/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371
 [/us/usc/t10/s2501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501%2Fa
-[/us/pl/102/484/s4221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4221%2Fa
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2677
-[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIII
 [/us/stat/107/1787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1787
-[/us/pl/103/337/s1115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1115%2Fa
+[/us/pl/103/337/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXI
 [/us/stat/108/2868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2868
-[/us/pl/104/106/s1081/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1081%2Fc
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F452
-[/us/pl/101/510/s823/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs823%2Fa%2F3
+[/us/pl/101/510/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVIII
 [/us/stat/104/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1600
-[/us/pl/102/190/s824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs824%2Fb
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1438
 [/us/usc/t10/s2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2491
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t10/s2540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2540
 [/us/usc/t10/s2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2523
-[/us/pl/102/484/s4202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4202%2Fa
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
-[/us/pl/103/160/s1315/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1315%2Fa
-[/us/pl/103/160/s1317/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1317%2Fc
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/usc/t10/s2304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Fc
-[/us/pl/105/85/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs203
+[/us/pl/105/85/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtII
 [/us/stat/111/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1655
-[/us/pl/106/65/s911/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs911%2Fa%2F1
+[/us/pl/106/65/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIX
 [/us/stat/113/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F717
 [/us/stat/111/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1655
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
@@ -227,34 +217,8 @@
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/pl/104/201/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs203
 [/us/stat/110/2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2451
-[/us/pl/103/160/s1315/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1315%2Fg
+[/us/pl/103/160/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIII
 [/us/stat/107/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1789
 [/us/pl/103/160/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1315
-[/us/pl/104/106/s1081/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1081%2Ff
-[/us/stat/110/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F454
-[/us/pl/102/484/s4222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4222%2Fa
-[/us/stat/106/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2679
-[/us/pl/103/160/s1315/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1315%2Fb
-[/us/stat/107/1787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1787
-[/us/pl/103/337/s1115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1115%2Fb
-[/us/stat/108/2868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2868
-[/us/pl/101/510/s823/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs823%2Fa%2F3
-[/us/stat/104/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1600
-[/us/pl/102/484/s4202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4202%2Fa
-[/us/pl/102/190/s821/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs821%2Fa
-[/us/stat/105/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1428
-[/us/pl/102/484/s4223/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4223%2Fa
-[/us/stat/106/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2681
-[/us/pl/103/35/s201/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fd%2F3
-[/us/stat/107/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F99
-[/us/pl/103/160/s1182/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fg%2F2
-[/us/stat/107/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1774
-[/us/pl/103/337/s1115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1115%2Fc
-[/us/stat/108/2868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2868
-[/us/pl/101/510/s823/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs823%2Fa%2F3
-[/us/stat/104/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1601
-[/us/pl/102/190/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs203%2Fc
-[/us/stat/105/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1314
-[/us/pl/102/484/s4202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4202%2Fa
 
 

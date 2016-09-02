@@ -17,7 +17,7 @@
 
     An officer designated as a medical, dental, veterinary, medical service, or biomedical sciences officer or as a nurse is not entitled to exercise command because of rank, except within the categories prescribed in subsection (a), (b), (c), (d), (e), (f), or (i) of [section 8067 of this title][/us/usc/t10/s8067], or over persons placed under his charge.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 531][/us/stat/70A/531]; [Pub. L. 85–861, § 1(156)][/us/pl/85/861/s1/156], (185), Sept. 2, 1958, [72 Stat. 1513][/us/stat/72/1513], 1533; [Pub. L. 96–513, title II, § 212(b)][/us/pl/96/513/s212/b], Dec. 12, 1980, [94 Stat. 2885][/us/stat/94/2885].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 531][/us/stat/70A/531]; [Pub. L. 85–861][/us/pl/85/861], § 1(156), (185), Sept. 2, 1958, [72 Stat. 1513][/us/stat/72/1513], 1533; [Pub. L. 96–513, title II][/us/pl/96/513/tII], § 212(b), Dec. 12, 1980, [94 Stat. 2885][/us/stat/94/2885].)
 
 <table>
 
@@ -157,9 +157,9 @@ Aug. 9, 1955, ch. 654, § 1, 69 Stat. 579.  </td>
 [/us/usc/t10/s8067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8067
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F531
-[/us/pl/85/861/s1/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F156
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1513
-[/us/pl/96/513/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs212%2Fb
+[/us/pl/96/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtII
 [/us/stat/94/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2885
 [/us/usc/t10/s94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs94
 [/us/usc/t10/s8012/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8012%2Fe

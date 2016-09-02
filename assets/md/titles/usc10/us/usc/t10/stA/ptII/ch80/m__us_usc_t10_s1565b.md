@@ -61,23 +61,23 @@
 
         The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States.
 
-(Added [Pub. L. 112–81, div. A, title V, § 581(b)(1)][/us/pl/112/81/s581/b/1], Dec. 31, 2011, [125 Stat. 1431][/us/stat/125/1431]; amended [Pub. L. 113–66, div. A, title XVII, § 1716(a)(3)(C)][/us/pl/113/66/s1716/a/3/C], Dec. 26, 2013, [127 Stat. 969][/us/stat/127/969]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92], §§ 534(b), 536, Nov. 25, 2015, [129 Stat. 816][/us/stat/129/816], 817.)
+(Added [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 581(b)(1), Dec. 31, 2011, [125 Stat. 1431][/us/stat/125/1431]; amended [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1716(a)(3)(C), Dec. 26, 2013, [127 Stat. 969][/us/stat/127/969]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], §§ 534(b), 536, Nov. 25, 2015, [129 Stat. 816][/us/stat/129/816], 817.)
 
  __Amendments__ 
 
-    2015—Subsec. (a)(3), (4). [Pub. L. 114–92, § 534(b)][/us/pl/114/92/s534/b], added par. (3) and redesignated former par. (3) as (4).
+    2015—Subsec. (a)(3), (4). [Pub. L. 114–92][/us/pl/114/92], § 534(b), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (b)(1). [Pub. L. 114–92, § 536(b)][/us/pl/114/92/s536/b], substituted “an adult dependent” for “a dependent”.
+    Subsec. (b)(1). [Pub. L. 114–92][/us/pl/114/92], § 536(b), substituted “an adult dependent” for “a dependent”.
 
-    Subsec. (b)(3). [Pub. L. 114–92, § 536(a)][/us/pl/114/92/s536/a], added par. (3).
+    Subsec. (b)(3). [Pub. L. 114–92][/us/pl/114/92], § 536(a), added par. (3).
 
-    Subsec. (c). [Pub. L. 114–92, § 536(c)][/us/pl/114/92/s536/c], added subsec. (c).
+    Subsec. (c). [Pub. L. 114–92][/us/pl/114/92], § 536(c), added subsec. (c).
 
     2013—Subsec. (a)(1)(A). [Pub. L. 113–66][/us/pl/113/66] substituted “sections 1044 and 1044e” for “section 1044”.
 
  __Legal Assistance for Victims of Sexual Assault__ 
 
-[Pub. L. 112–81, div. A, title V, § 581(a)][/us/pl/112/81/s581/a], Dec. 31, 2011, [125 Stat. 1430][/us/stat/125/1430], provided that: 
+[Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 581(a), Dec. 31, 2011, [125 Stat. 1430][/us/stat/125/1430], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretaries of the military departments shall prescribe regulations on the provision of legal assistance to victims of sexual assault. Such regulations shall require that legal assistance be provided by military or civilian legal assistance counsel pursuant to [section 1044 of title 10][/us/usc/t10/s1044], United States Code.”
 
@@ -90,18 +90,18 @@
 
 [/us/usc/t10/s1044e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044e
 [/us/usc/t10/s1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044
-[/us/pl/112/81/s581/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs581%2Fb%2F1
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1431
-[/us/pl/113/66/s1716/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1716%2Fa%2F3%2FC
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F969
-[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F816
-[/us/pl/114/92/s534/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs534%2Fb
-[/us/pl/114/92/s536/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs536%2Fb
-[/us/pl/114/92/s536/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs536%2Fa
-[/us/pl/114/92/s536/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs536%2Fc
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/112/81/s581/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs581%2Fa
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1430
 [/us/usc/t10/s1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044
 

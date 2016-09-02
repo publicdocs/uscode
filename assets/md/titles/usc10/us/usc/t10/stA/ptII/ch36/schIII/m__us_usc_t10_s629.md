@@ -41,7 +41,7 @@
 
         (2) If such an officer who is in a grade below the grade of colonel or, in the case of the Navy, captain is not recommended for promotion by the next selection board convened for his grade and competitive category, or if his name is again removed from the list of officers recommended for promotion, or if the Senate again does not give its advice and consent to his promotion, he shall be considered for all purposes to have twice failed of selection for promotion.
 
-(Added [Pub. L. 96–513, title I, § 105][/us/pl/96/513/s105], Dec. 12, 1980, [94 Stat. 2860][/us/stat/94/2860]; amended [Pub. L. 109–364, div. A, title V, § 515(a)][/us/pl/109/364/s515/a], Oct. 17, 2006, [120 Stat. 2185][/us/stat/120/2185]; [Pub. L. 110–181, div. A, title X, § 1063(a)(2)][/us/pl/110/181/s1063/a/2], Jan. 28, 2008, [122 Stat. 321][/us/stat/122/321]; [Pub. L. 111–383, div. A, title V, § 504(a)][/us/pl/111/383/s504/a], Jan. 7, 2011, [124 Stat. 4208][/us/stat/124/4208].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 105, Dec. 12, 1980, [94 Stat. 2860][/us/stat/94/2860]; amended [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 515(a), Oct. 17, 2006, [120 Stat. 2185][/us/stat/120/2185]; [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1063(a)(2), Jan. 28, 2008, [122 Stat. 321][/us/stat/122/321]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 504(a), Jan. 7, 2011, [124 Stat. 4208][/us/stat/124/4208].)
 
  __Amendments__ 
 
@@ -49,19 +49,19 @@
 
     2008—Subsec. (d)(1). [Pub. L. 110–181][/us/pl/110/181] inserted comma after “(a)”.
 
-    2006—Subsec. (a). [Pub. L. 109–364, § 515(a)(4)(A)][/us/pl/109/364/s515/a/4/A], inserted heading.
+    2006—Subsec. (a). [Pub. L. 109–364][/us/pl/109/364], § 515(a)(4)(A), inserted heading.
 
-    Subsec. (b). [Pub. L. 109–364, § 515(a)(1)][/us/pl/109/364/s515/a/1], inserted heading and inserted “to a grade for which appointment is required by [section 624(c) of this title][/us/usc/t10/s624/c] to be made by and with the advice and consent of the Senate” after “the President”.
+    Subsec. (b). [Pub. L. 109–364][/us/pl/109/364], § 515(a)(1), inserted heading and inserted “to a grade for which appointment is required by [section 624(c) of this title][/us/usc/t10/s624/c] to be made by and with the advice and consent of the Senate” after “the President”.
 
-    Subsec. (c). [Pub. L. 109–364, § 515(a)(2)(B)][/us/pl/109/364/s515/a/2/B], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 109–364][/us/pl/109/364], § 515(a)(2)(B), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 109–364, § 515(a)(2)(A)][/us/pl/109/364/s515/a/2/A], (4)(B), redesignated subsec. (c) as (d) and inserted heading.
+    Subsec. (d). [Pub. L. 109–364][/us/pl/109/364], § 515(a)(2)(A), (4)(B), redesignated subsec. (c) as (d) and inserted heading.
 
-    Subsec. (d)(1). [Pub. L. 109–364, § 515(a)(3)][/us/pl/109/364/s515/a/3], substituted “(b), or (c)” for “or (b)”.
+    Subsec. (d)(1). [Pub. L. 109–364][/us/pl/109/364], § 515(a)(3), substituted “(b), or (c)” for “or (b)”.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–364, div. A, title V, § 515(c)][/us/pl/109/364/s515/c], Oct. 17, 2006, [120 Stat. 2187][/us/stat/120/2187], provided that: 
+[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 515(c), Oct. 17, 2006, [120 Stat. 2187][/us/stat/120/2187], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 14310 of this title][/us/usc/t10/s14310]\] shall apply to any promotion list approved by the President after January 1, 2007.”
 
@@ -83,23 +83,23 @@
 [/us/usc/t10/s624/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs624%2Fc
 [/us/usc/t10/s624/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs624%2Fa
 [/us/usc/t10/s624/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs624%2Fc
-[/us/pl/96/513/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs105
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2860
-[/us/pl/109/364/s515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs515%2Fa
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2185
-[/us/pl/110/181/s1063/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fa%2F2
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F321
-[/us/pl/111/383/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs504%2Fa
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4208
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/109/364/s515/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs515%2Fa%2F4%2FA
-[/us/pl/109/364/s515/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs515%2Fa%2F1
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s624/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs624%2Fc
-[/us/pl/109/364/s515/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs515%2Fa%2F2%2FB
-[/us/pl/109/364/s515/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs515%2Fa%2F2%2FA
-[/us/pl/109/364/s515/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs515%2Fa%2F3
-[/us/pl/109/364/s515/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs515%2Fc
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2187
 [/us/usc/t10/s14310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14310
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

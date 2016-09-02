@@ -25,7 +25,7 @@
 
         (2) In lieu of performing any removal or restoration work under paragraph (1), a Federal agency may elect, with the consent of the Secretary, to reimburse the Secretary for the costs incurred by the military department in performing such removal or restoration work.
 
-(Added [Pub. L. 98–407, title VIII, § 804(a)][/us/pl/98/407/s804/a], Aug. 28, 1984, [98 Stat. 1519][/us/stat/98/1519]; amended [Pub. L. 99–145, title XIII, § 1303(a)(17)][/us/pl/99/145/s1303/a/17], Nov. 8, 1985, [99 Stat. 739][/us/stat/99/739]; [Pub. L. 105–261, div. B, title XXVIII, § 2812(a)][/us/pl/105/261/s2812/a], (b)(1), Oct. 17, 1998, [112 Stat. 2205][/us/stat/112/2205]; [Pub. L. 107–217, § 3(b)(15)][/us/pl/107/217/s3/b/15], Aug. 21, 2002, [116 Stat. 1296][/us/stat/116/1296]; [Pub. L. 111–350, § 5(b)(46)][/us/pl/111/350/s5/b/46], Jan. 4, 2011, [124 Stat. 3846][/us/stat/124/3846].)
+(Added [Pub. L. 98–407, title VIII][/us/pl/98/407/tVIII], § 804(a), Aug. 28, 1984, [98 Stat. 1519][/us/stat/98/1519]; amended [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1303(a)(17), Nov. 8, 1985, [99 Stat. 739][/us/stat/99/739]; [Pub. L. 105–261, div. B, title XXVIII][/us/pl/105/261/dB/tXXVIII], § 2812(a), (b)(1), Oct. 17, 1998, [112 Stat. 2205][/us/stat/112/2205]; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(15), Aug. 21, 2002, [116 Stat. 1296][/us/stat/116/1296]; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(46), Jan. 4, 2011, [124 Stat. 3846][/us/stat/124/3846].)
 
  __Amendments__ 
 
@@ -33,9 +33,9 @@
 
     2002—Subsec. (b). [Pub. L. 107–217][/us/pl/107/217] inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “([41 U.S.C. 251][/us/usc/t41/s251] et seq.)” for “([40 U.S.C. 471][/us/usc/t40/s471] et seq.)”.
 
-    1998—[Pub. L. 105–261, § 2812(b)(1)][/us/pl/105/261/s2812/b/1], struck out “from other agencies” after “lease” in section catchline.
+    1998—[Pub. L. 105–261][/us/pl/105/261], § 2812(b)(1), struck out “from other agencies” after “lease” in section catchline.
 
-    Subsec. (c). [Pub. L. 105–261, § 2812(a)][/us/pl/105/261/s2812/a], added subsec. (c).
+    Subsec. (c). [Pub. L. 105–261][/us/pl/105/261], § 2812(a), added subsec. (c).
 
     1985—[Pub. L. 99–145][/us/pl/99/145] substituted “used by” for “used of” in section catchline.
 
@@ -46,23 +46,23 @@
 ----------
 ----------
 
-[/us/pl/98/407/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407%2Fs804%2Fa
+[/us/pl/98/407/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407%2FtVIII
 [/us/stat/98/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1519
-[/us/pl/99/145/s1303/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1303%2Fa%2F17
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F739
-[/us/pl/105/261/s2812/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs2812%2Fa
+[/us/pl/105/261/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdB%2FtXXVIII
 [/us/stat/112/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2205
-[/us/pl/107/217/s3/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F15
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1296
-[/us/pl/111/350/s5/b/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F46
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3846
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
 [/us/usc/t40/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs471
-[/us/pl/105/261/s2812/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs2812%2Fb%2F1
-[/us/pl/105/261/s2812/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs2812%2Fa
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 
 

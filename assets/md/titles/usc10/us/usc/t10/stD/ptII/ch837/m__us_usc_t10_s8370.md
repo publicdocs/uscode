@@ -11,85 +11,24 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch837/m__us_usc_t10_s8356.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch837/m__us_usc_t10_s8379.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8370)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch837/m__us_usc_t10_s8358...8368.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch837/m__us_usc_t10_s8371...8378.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8370)
 
-## \[§ 8370. Repealed. [Pub. L. 90–130, § 1(28)(C)][/us/pl/90/130/s1/28/C], Nov. 8, 1967, [81 Stat. 382][/us/stat/81/382]\]
+## \[§ 8370. Repealed. [Pub. L. 90–130][/us/pl/90/130], § 1(28)(C), Nov. 8, 1967, [81 Stat. 382][/us/stat/81/382]\]
 
-    Section, added [Pub. L. 85–861, § 1(178)(C)][/us/pl/85/861/s1/178/C], Sept. 2, 1958, [72 Stat. 1526][/us/stat/72/1526]; [Pub. L. 86–559, § 1(56)][/us/pl/86/559/s1/56], June 30, 1960, [74 Stat. 276][/us/stat/74/276], placed restrictions on promotion consideration of Air Force nurses, medical specialists, and female officers being considered for promotion to the Reserve grades of lieutenant colonel and colonel.
-
-\[§§ 8371 to 8378. __Repealed.__  __[__  __Pub. L. 103–337, div. A, title XVI, § 1629(c)(1)__  __][/us/pl/103/337/s1629/c/1]__  __,__  __Oct. 5, 1994__  __,__  __[__  __108 Stat. 2963__  __][/us/stat/108/2963]__  __\]__ 
-
-    Section 8371, added [Pub. L. 85–861, § 1(178)(C)][/us/pl/85/861/s1/178/C], Sept. 2, 1958, [72 Stat. 1527][/us/stat/72/1527], related to promotion of officers to grade of colonel to fill vacancies in Air Force Reserve. See section 14301 et seq. of this title.
-
-    Section 8372, added [Pub. L. 85–861, § 1(178)(C)][/us/pl/85/861/s1/178/C], Sept. 2, 1958, [72 Stat. 1527][/us/stat/72/1527]; amended [Pub. L. 86–559, § 1(57)][/us/pl/86/559/s1/57], June 30, 1960, [74 Stat. 276][/us/stat/74/276], related to promotion of officers with special qualifications to grade of captain, major, lieutenant colonel, or colonel of Air Force Reserve. See section 14301 et seq. of this title.
-
-    Section 8373, added [Pub. L. 89–172, § 1][/us/pl/89/172/s1], Sept. 8, 1965, [79 Stat. 662][/us/stat/79/662], related to promotion of officers to grades of brigadier general and major general of Air Force Reserve. See [section 14315 of this title][/us/usc/t10/s14315].
-
-    A prior section 8373, added [Pub. L. 85–861, § 1(178)(C)][/us/pl/85/861/s1/178/C], Sept. 2, 1958, [72 Stat. 1528][/us/stat/72/1528]; amended [Pub. L. 86–559, § 1(58)][/us/pl/86/559/s1/58], June 30, 1960, [74 Stat. 277][/us/stat/74/277], containing similar subject matter, expired by its own terms on June 30, 1964.
-
-    Section 8374, added [Pub. L. 85–861, § 1(178)(C)][/us/pl/85/861/s1/178/C], Sept. 2, 1958, [72 Stat. 1528][/us/stat/72/1528], provided that promotion of reserve commissioned officers be effective upon Federal recognition in next higher grade of Air National Guard. See [section 14308(f) of this title][/us/usc/t10/s14308/f].
-
-    Section 8375, added [Pub. L. 85–861, § 1(178)(C)][/us/pl/85/861/s1/178/C], Sept. 2, 1958, [72 Stat. 1528][/us/stat/72/1528]; amended [Pub. L. 86–559, § 1(59)][/us/pl/86/559/s1/59], June 30, 1960, [74 Stat. 277][/us/stat/74/277]; [Pub. L. 96–513, title V, § 514(3)][/us/pl/96/513/s514/3], Dec. 12, 1980, [94 Stat. 2935][/us/stat/94/2935], related to transfer or discharge of officers promoted to reserve grade of brigadier general or major general ceasing to occupy those positions. See section 14314(a), (c) of this title.
-
-    Section 8376, added [Pub. L. 85–861, § 1(178)(C)][/us/pl/85/861/s1/178/C], Sept. 2, 1958, [72 Stat. 1528][/us/stat/72/1528]; amended [Pub. L. 86–559, § 1(60)][/us/pl/86/559/s1/60], June 30, 1960, [74 Stat. 277][/us/stat/74/277], related to promotion of commissioned officers of Air Force Reserve or Air National Guard of United States to higher reserve grades after temporary appointments. See section 14301 et seq. of this title.
-
-    Section 8377, added [Pub. L. 85–861, § 1(178)(C)][/us/pl/85/861/s1/178/C], Sept. 2, 1958, [72 Stat. 1529][/us/stat/72/1529]; amended [Pub. L. 86–559, § 1(61)][/us/pl/86/559/s1/61], June 30, 1960, [74 Stat. 277][/us/stat/74/277], related to effect of removal of reserve commissioned officer from recommended promotion list by President. See section 14301 et seq. of this title.
-
-    Section 8378, added [Pub. L. 85–861, § 1(178)(C)][/us/pl/85/861/s1/178/C], Sept. 2, 1958, [72 Stat. 1530][/us/stat/72/1530], related to promotion of reserve commissioned officers removed from active status. See [section 14317(a) of this title][/us/usc/t10/s14317/a].
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Oct. 1, 1996, see [section 1691(b)(1) of Pub. L. 103–337][/us/pl/103/337/s1691/b/1], set out as an Effective Date note under [section 10001 of this title][/us/usc/t10/s10001].
+    Section, added [Pub. L. 85–861][/us/pl/85/861], § 1(178)(C), Sept. 2, 1958, [72 Stat. 1526][/us/stat/72/1526]; [Pub. L. 86–559][/us/pl/86/559], § 1(56), June 30, 1960, [74 Stat. 276][/us/stat/74/276], placed restrictions on promotion consideration of Air Force nurses, medical specialists, and female officers being considered for promotion to the Reserve grades of lieutenant colonel and colonel.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch837/m__us_usc_t10_s8356.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch837/m__us_usc_t10_s8379.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8370)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch837/m__us_usc_t10_s8358...8368.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch837/m__us_usc_t10_s8371...8378.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8370)
 
 ----------
 ----------
 
-[/us/pl/90/130/s1/28/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs1%2F28%2FC
+[/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/stat/81/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F382
-[/us/pl/85/861/s1/178/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F178%2FC
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1526
-[/us/pl/86/559/s1/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559%2Fs1%2F56
+[/us/pl/86/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559
 [/us/stat/74/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F276
-[/us/pl/103/337/s1629/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fc%2F1
-[/us/stat/108/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2963
-[/us/pl/85/861/s1/178/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F178%2FC
-[/us/stat/72/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1527
-[/us/pl/85/861/s1/178/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F178%2FC
-[/us/stat/72/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1527
-[/us/pl/86/559/s1/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559%2Fs1%2F57
-[/us/stat/74/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F276
-[/us/pl/89/172/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F172%2Fs1
-[/us/stat/79/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F662
-[/us/usc/t10/s14315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14315
-[/us/pl/85/861/s1/178/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F178%2FC
-[/us/stat/72/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1528
-[/us/pl/86/559/s1/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559%2Fs1%2F58
-[/us/stat/74/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F277
-[/us/pl/85/861/s1/178/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F178%2FC
-[/us/stat/72/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1528
-[/us/usc/t10/s14308/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14308%2Ff
-[/us/pl/85/861/s1/178/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F178%2FC
-[/us/stat/72/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1528
-[/us/pl/86/559/s1/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559%2Fs1%2F59
-[/us/stat/74/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F277
-[/us/pl/96/513/s514/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs514%2F3
-[/us/stat/94/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2935
-[/us/pl/85/861/s1/178/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F178%2FC
-[/us/stat/72/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1528
-[/us/pl/86/559/s1/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559%2Fs1%2F60
-[/us/stat/74/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F277
-[/us/pl/85/861/s1/178/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F178%2FC
-[/us/stat/72/1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1529
-[/us/pl/86/559/s1/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559%2Fs1%2F61
-[/us/stat/74/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F277
-[/us/pl/85/861/s1/178/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F178%2FC
-[/us/stat/72/1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1530
-[/us/usc/t10/s14317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14317%2Fa
-[/us/pl/103/337/s1691/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691%2Fb%2F1
-[/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
 
 

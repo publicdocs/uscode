@@ -57,17 +57,17 @@
 
         (3) The requirements of [section 3109 of title 5][/us/usc/t5/s3109] shall not apply to a contract entered into under this subsection.
 
-(Added [Pub. L. 101–510, div. A, title XIV, § 1481(b)(1)][/us/pl/101/510/s1481/b/1], Nov. 5, 1990, [104 Stat. 1704][/us/stat/104/1704]; amended [Pub. L. 102–190, div. A, title X, § 1061(a)(2)][/us/pl/102/190/s1061/a/2], Dec. 5, 1991, [105 Stat. 1472][/us/stat/105/1472]; [Pub. L. 108–136, div. A, title VIII, § 841(a)][/us/pl/108/136/s841/a], (b)(1), Nov. 24, 2003, [117 Stat. 1552][/us/stat/117/1552].)
+(Added [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1481(b)(1), Nov. 5, 1990, [104 Stat. 1704][/us/stat/104/1704]; amended [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1061(a)(2), Dec. 5, 1991, [105 Stat. 1472][/us/stat/105/1472]; [Pub. L. 108–136, div. A, title VIII][/us/pl/108/136/dA/tVIII], § 841(a), (b)(1), Nov. 24, 2003, [117 Stat. 1552][/us/stat/117/1552].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [Pub. L. 101–165, title IX, § 9002][/us/pl/101/165/s9002], Nov. 21, 1989, [103 Stat. 1129][/us/stat/103/1129], which was set out as a note under [section 2241 of this title][/us/usc/t10/s2241], prior to repeal by [Pub. L. 101–510, § 1481(b)(3)][/us/pl/101/510/s1481/b/3].
+    Provisions similar to those in this section were contained in [Pub. L. 101–165, title IX][/us/pl/101/165/tIX], § 9002, Nov. 21, 1989, [103 Stat. 1129][/us/stat/103/1129], which was set out as a note under [section 2241 of this title][/us/usc/t10/s2241], prior to repeal by [Pub. L. 101–510][/us/pl/101/510], § 1481(b)(3).
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–136, § 841(b)(1)][/us/pl/108/136/s841/b/1], substituted “Authority to procure personal services” for “Experts and consultants: authority to procure services of” in section catchline.
+    2003—[Pub. L. 108–136][/us/pl/108/136], § 841(b)(1), substituted “Authority to procure personal services” for “Experts and consultants: authority to procure services of” in section catchline.
 
-    Subsec. (d). [Pub. L. 108–136, § 841(a)][/us/pl/108/136/s841/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 108–136][/us/pl/108/136], § 841(a), added subsec. (d).
 
     1991—[Pub. L. 102–190][/us/pl/102/190] inserted “of” after “services” in section catchline.
 
@@ -80,18 +80,18 @@
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/101/510/s1481/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1481%2Fb%2F1
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1704
-[/us/pl/102/190/s1061/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fa%2F2
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1472
-[/us/pl/108/136/s841/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs841%2Fa
+[/us/pl/108/136/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVIII
 [/us/stat/117/1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1552
-[/us/pl/101/165/s9002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2Fs9002
+[/us/pl/101/165/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2FtIX
 [/us/stat/103/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1129
 [/us/usc/t10/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2241
-[/us/pl/101/510/s1481/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1481%2Fb%2F3
-[/us/pl/108/136/s841/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs841%2Fb%2F1
-[/us/pl/108/136/s841/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs841%2Fa
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 
 

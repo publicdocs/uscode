@@ -37,11 +37,11 @@
 
     In this section, the term “United States” means the land area of the several States and any territory, commonwealth, or possession of the United States.
 
-(Added [Pub. L. 101–189, div. A, title XII, § 1202(a)(1)][/us/pl/101/189/s1202/a/1], Nov. 29, 1989, [103 Stat. 1563][/us/stat/103/1563]; amended [Pub. L. 102–190, div. A, title X, § 1088(b)][/us/pl/102/190/s1088/b], Dec. 5, 1991, [105 Stat. 1485][/us/stat/105/1485].)
+(Added [Pub. L. 101–189, div. A, title XII][/us/pl/101/189/dA/tXII], § 1202(a)(1), Nov. 29, 1989, [103 Stat. 1563][/us/stat/103/1563]; amended [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1088(b), Dec. 5, 1991, [105 Stat. 1485][/us/stat/105/1485].)
 
  __Prior Provisions__ 
 
-    A prior section 124, added [Pub. L. 87–651, title II, § 201(a)][/us/pl/87/651/s201/a], Sept. 7, 1962, [76 Stat. 514][/us/stat/76/514]; amended [Pub. L. 98–525, title XIII, § 1301(a)][/us/pl/98/525/s1301/a], Oct. 19, 1984, [98 Stat. 2611][/us/stat/98/2611]; [Pub. L. 99–145, title XIII, § 1303(a)(1)][/us/pl/99/145/s1303/a/1], Nov. 8, 1985, [99 Stat. 738][/us/stat/99/738], related to establishment, composition, and functions of combatant commands, prior to repeal by [Pub. L. 99–433, § 211(c)(1)][/us/pl/99/433/s211/c/1]. See section 161 et seq. of this title. Similar provisions were contained in [Pub. L. 100–456, div. A, title XI, § 1102][/us/pl/100/456/s1102], Sept. 29, 1988, [102 Stat. 2042][/us/stat/102/2042], which was set out as a note under [section 113 of this title][/us/usc/t10/s113], prior to repeal by [Pub. L. 101–189, § 1202(b)][/us/pl/101/189/s1202/b].
+    A prior section 124, added [Pub. L. 87–651, title II][/us/pl/87/651/tII], § 201(a), Sept. 7, 1962, [76 Stat. 514][/us/stat/76/514]; amended [Pub. L. 98–525, title XIII][/us/pl/98/525/tXIII], § 1301(a), Oct. 19, 1984, [98 Stat. 2611][/us/stat/98/2611]; [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1303(a)(1), Nov. 8, 1985, [99 Stat. 738][/us/stat/99/738], related to establishment, composition, and functions of combatant commands, prior to repeal by [Pub. L. 99–433][/us/pl/99/433], § 211(c)(1). See section 161 et seq. of this title. Similar provisions were contained in [Pub. L. 100–456, div. A, title XI][/us/pl/100/456/dA/tXI], § 1102, Sept. 29, 1988, [102 Stat. 2042][/us/stat/102/2042], which was set out as a note under [section 113 of this title][/us/usc/t10/s113], prior to repeal by [Pub. L. 101–189][/us/pl/101/189], § 1202(b).
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 
  __Condition on Development of Forward Operating Locations for United States Southern Command Counter-Drug Detection and Monitoring Flights__ 
 
-[Pub. L. 106–65, div. A, title X, § 1024][/us/pl/106/65/s1024], Oct. 5, 1999, [113 Stat. 748][/us/stat/113/748], provided that:
+[Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1024, Oct. 5, 1999, [113 Stat. 748][/us/stat/113/748], provided that:
 
 >     “(a)  __Condition__  __.—__ 
 
@@ -61,7 +61,7 @@
 
  __Counter-Drug Detection and Monitoring Systems Plan__ 
 
-[Pub. L. 102–484, div. A, title X, § 1043][/us/pl/102/484/s1043], Oct. 23, 1992, [106 Stat. 2492][/us/stat/106/2492], provided that:
+[Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1043, Oct. 23, 1992, [106 Stat. 2492][/us/stat/106/2492], provided that:
 
 >     “(a)  __Requirements of Detection and Monitoring Systems__  __.—__ 
 
@@ -113,7 +113,7 @@
 
  __Integration of Communications Network__ 
 
-[Pub. L. 101–189, div. A, title XII, § 1204(a)][/us/pl/101/189/s1204/a], Nov. 29, 1989, [103 Stat. 1564][/us/stat/103/1564], provided that:
+[Pub. L. 101–189, div. A, title XII][/us/pl/101/189/dA/tXII], § 1204(a), Nov. 29, 1989, [103 Stat. 1564][/us/stat/103/1564], provided that:
 
 >     “(1) The Secretary of Defense shall integrate into an effective communications network the command, control, communications, and technical intelligence assets of the United States that are dedicated (in whole or in part) to the interdiction of illegal drugs into the United States.
 
@@ -121,7 +121,7 @@
 
  __Research and Development__ 
 
-[Pub. L. 101–189, div. A, title XII, § 1205][/us/pl/101/189/s1205], Nov. 29, 1989, [103 Stat. 1564][/us/stat/103/1564], provided that: 
+[Pub. L. 101–189, div. A, title XII][/us/pl/101/189/dA/tXII], § 1205, Nov. 29, 1989, [103 Stat. 1564][/us/stat/103/1564], provided that: 
 
 > “The Secretary of Defense shall ensure that adequate research and development activities of the Department of Defense, including research and development activities of the Defense Advanced Research Projects Agency, are devoted to technologies designed to improve—
 
@@ -131,7 +131,7 @@
 
  __Training Exercises in Drug-Interdiction Areas__ 
 
-[Pub. L. 101–189, div. A, title XII, § 1206][/us/pl/101/189/s1206], Nov. 29, 1989, [103 Stat. 1564][/us/stat/103/1564], provided that:
+[Pub. L. 101–189, div. A, title XII][/us/pl/101/189/dA/tXII], § 1206, Nov. 29, 1989, [103 Stat. 1564][/us/stat/103/1564], provided that:
 
 >     “(a)  __Exercises Required__  __.—__ 
 
@@ -160,35 +160,35 @@
 ----------
 ----------
 
-[/us/pl/101/189/s1202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1202%2Fa%2F1
+[/us/pl/101/189/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXII
 [/us/stat/103/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1563
-[/us/pl/102/190/s1088/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1088%2Fb
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1485
-[/us/pl/87/651/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs201%2Fa
+[/us/pl/87/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtII
 [/us/stat/76/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F514
-[/us/pl/98/525/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1301%2Fa
+[/us/pl/98/525/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIII
 [/us/stat/98/2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2611
-[/us/pl/99/145/s1303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1303%2Fa%2F1
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F738
-[/us/pl/99/433/s211/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs211%2Fc%2F1
-[/us/pl/100/456/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1102
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/100/456/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXI
 [/us/stat/102/2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2042
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
-[/us/pl/101/189/s1202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1202%2Fb
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
-[/us/pl/106/65/s1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1024
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F748
 [/us/usc/t10/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805
-[/us/pl/102/484/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1043
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2492
 [/us/usc/t10/s124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs124%2Fa
 [/us/usc/t10/s124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs124%2Fa
-[/us/pl/101/189/s1204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1204%2Fa
+[/us/pl/101/189/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXII
 [/us/stat/103/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1564
-[/us/pl/101/189/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1205
+[/us/pl/101/189/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXII
 [/us/stat/103/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1564
 [/us/usc/t10/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs124
-[/us/pl/101/189/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1206
+[/us/pl/101/189/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXII
 [/us/stat/103/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1564
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of a military department may authorize a member of the armed forces under the jurisdiction of the Secretary who has been deployed in support of a contingency operation for at least 30 days to retain, after that member is no longer so deployed, the combat uniform issued to that member as organizational clothing and individual equipment.
 
-(Added [Pub. L. 110–181, div. A, title III, § 376(a)][/us/pl/110/181/s376/a], Jan. 28, 2008, [122 Stat. 84][/us/stat/122/84].)
+(Added [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 376(a), Jan. 28, 2008, [122 Stat. 84][/us/stat/122/84].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/181/s376/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs376%2Fa
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F84
 
 

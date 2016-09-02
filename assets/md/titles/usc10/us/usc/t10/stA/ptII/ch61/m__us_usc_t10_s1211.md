@@ -61,7 +61,7 @@
 
     (f) Action under this section shall be taken on a fair and equitable basis, with regard being given to the probable opportunities for advancement and promotion that the member might reasonably have had if his name had not been placed on the temporary disability retired list.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 96][/us/stat/70A/96]; [Pub. L. 87–651, title I, § 107(b)][/us/pl/87/651/s107/b], Sept. 7, 1962, [76 Stat. 508][/us/stat/76/508]; [Pub. L. 96–513, title V, § 501(17)][/us/pl/96/513/s501/17], Dec. 12, 1980, [94 Stat. 2908][/us/stat/94/2908]; [Pub. L. 99–145, title V, § 513(a)(3)][/us/pl/99/145/s513/a/3], Nov. 8, 1985, [99 Stat. 627][/us/stat/99/627]; [Pub. L. 107–107, div. A, title V, § 505(c)(4)][/us/pl/107/107/s505/c/4], Dec. 28, 2001, [115 Stat. 1088][/us/stat/115/1088].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 96][/us/stat/70A/96]; [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 107(b), Sept. 7, 1962, [76 Stat. 508][/us/stat/76/508]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 501(17), Dec. 12, 1980, [94 Stat. 2908][/us/stat/94/2908]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 513(a)(3), Nov. 8, 1985, [99 Stat. 627][/us/stat/99/627]; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 505(c)(4), Dec. 28, 2001, [115 Stat. 1088][/us/stat/115/1088].)
 
 <table>
 
@@ -491,13 +491,13 @@ Oct. 12, 1949, ch. 681, §§ 405, 406, 407, 63 Stat. 821.  </td>
 [/us/usc/t10/s1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1210
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F96
-[/us/pl/87/651/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs107%2Fb
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F508
-[/us/pl/96/513/s501/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs501%2F17
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2908
-[/us/pl/99/145/s513/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs513%2Fa%2F3
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F627
-[/us/pl/107/107/s505/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fc%2F4
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1088
 [/us/usc/t10/s1210/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1210%2Ff
 [/us/usc/t10/s277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs277

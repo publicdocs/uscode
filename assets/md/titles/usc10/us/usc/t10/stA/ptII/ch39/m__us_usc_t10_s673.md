@@ -23,7 +23,7 @@
 
     The Secretary concerned shall issue regulations to carry out this section, within guidelines provided by the Secretary of Defense. These guidelines shall provide that the application submitted by a member described in subsection (a) for a change of station or unit transfer must be approved or disapproved by the member’s commanding officer within 72 hours of the submission of the application. Additionally, if the application is disapproved by the commanding officer, the member shall be given the opportunity to request review by the first general officer or flag officer in the chain of command of the member, and that decision must be made within 72 hours of submission of the request for review.
 
-(Added [Pub. L. 112–81, div. A, title V, § 582(a)][/us/pl/112/81/s582/a], Dec. 31, 2011, [125 Stat. 1432][/us/stat/125/1432]; amended [Pub. L. 113–66, div. A, title X, § 1091(a)(8)][/us/pl/113/66/s1091/a/8], title XVII, § 1712, Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], 963.)
+(Added [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 582(a), Dec. 31, 2011, [125 Stat. 1432][/us/stat/125/1432]; amended [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1091(a)(8), title XVII, § 1712, Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], 963.)
 
  __Prior Provisions__ 
 
@@ -31,9 +31,9 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–66, § 1091(a)(8)][/us/pl/113/66/s1091/a/8], inserted “of the Uniform Code of Military Justice” after “120c”.
+    2013—Subsec. (a). [Pub. L. 113–66][/us/pl/113/66], § 1091(a)(8), inserted “of the Uniform Code of Military Justice” after “120c”.
 
-    Subsec. (b). [Pub. L. 113–66, § 1712][/us/pl/113/66/s1712], substituted “The Secretary concerned” for “The Secretaries of the military departments”.
+    Subsec. (b). [Pub. L. 113–66][/us/pl/113/66], § 1712, substituted “The Secretary concerned” for “The Secretaries of the military departments”.
 
 ----------
 
@@ -42,12 +42,12 @@
 ----------
 ----------
 
-[/us/pl/112/81/s582/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs582%2Fa
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1432
-[/us/pl/113/66/s1091/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fa%2F8
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
 [/us/usc/t10/s12302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12302
-[/us/pl/113/66/s1091/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fa%2F8
-[/us/pl/113/66/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1712
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 
 

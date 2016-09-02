@@ -43,7 +43,7 @@
 
         (2) The term “Senior Executive Service position” has the meaning given such term in [section 3132 of title 5][/us/usc/t5/s3132].
 
-(Added [Pub. L. 108–375, div. A, title XI, § 1104(a)][/us/pl/108/375/s1104/a], Oct. 28, 2004, [118 Stat. 2073][/us/stat/118/2073].)
+(Added [Pub. L. 108–375, div. A, title XI][/us/pl/108/375/dA/tXI], § 1104(a), Oct. 28, 2004, [118 Stat. 2073][/us/stat/118/2073].)
 
 ----------
 
@@ -55,7 +55,7 @@
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
 [/us/usc/t5/s5373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5373
 [/us/usc/t5/s3132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132
-[/us/pl/108/375/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1104%2Fa
+[/us/pl/108/375/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtXI
 [/us/stat/118/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2073
 
 

@@ -41,13 +41,13 @@
 
         (2) An officer recommended for early retirement under this section, if approved for deferral under paragraph (1), shall be retired on the date requested by the officer, and approved by the Secretary concerned, which date shall be not later than the first day of the tenth calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement.
 
-(Added [Pub. L. 102–190, div. A, title XI, § 1112(a)][/us/pl/102/190/s1112/a], Dec. 5, 1991, [105 Stat. 1500][/us/stat/105/1500]; amended [Pub. L. 102–484, div. A, title X, § 1052(5)][/us/pl/102/484/s1052/5], Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499]; [Pub. L. 103–337, div. A, title V, § 541(b)(6)][/us/pl/103/337/s541/b/6], Oct. 5, 1994, [108 Stat. 2765][/us/stat/108/2765]; [Pub. L. 104–106, div. A, title V, § 504(a)][/us/pl/104/106/s504/a], Feb. 10, 1996, [110 Stat. 295][/us/stat/110/295]; [Pub. L. 113–291, div. A, title V][/us/pl/113/291], §§ 501, 502(a), Dec. 19, 2014, [128 Stat. 3353][/us/stat/128/3353].)
+(Added [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1112(a), Dec. 5, 1991, [105 Stat. 1500][/us/stat/105/1500]; amended [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1052(5), Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499]; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 541(b)(6), Oct. 5, 1994, [108 Stat. 2765][/us/stat/108/2765]; [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 504(a), Feb. 10, 1996, [110 Stat. 295][/us/stat/110/295]; [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], §§ 501, 502(a), Dec. 19, 2014, [128 Stat. 3353][/us/stat/128/3353].)
 
  __Amendments__ 
 
-    2014—Subsec. (d). [Pub. L. 113–291, § 501][/us/pl/113/291/s501], redesignated second sentence of par. (1) as (2) and former par. (2) as (3), and, in par. (2), substituted “the list shall include—” for “the list shall include each”, inserted “(A) the name of each” before “warrant officer on the active-duty list”, substituted “; or” for period at end, and added subpar. (B).
+    2014—Subsec. (d). [Pub. L. 113–291][/us/pl/113/291], § 501, redesignated second sentence of par. (1) as (2) and former par. (2) as (3), and, in par. (2), substituted “the list shall include—” for “the list shall include each”, inserted “(A) the name of each” before “warrant officer on the active-duty list”, substituted “; or” for period at end, and added subpar. (B).
 
-    Subsec. (e). [Pub. L. 113–291, § 502(a)][/us/pl/113/291/s502/a], designated existing provisions as par. (1), substituted “three months” for “90 days”, and added par. (2).
+    Subsec. (e). [Pub. L. 113–291][/us/pl/113/291], § 502(a), designated existing provisions as par. (1), substituted “three months” for “90 days”, and added par. (2).
 
     1996—Subsec. (e). [Pub. L. 104–106][/us/pl/104/106] added subsec. (e).
 
@@ -69,18 +69,18 @@
 [/us/usc/t10/s573/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs573%2Fc
 [/us/usc/t10/s573/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs573%2Fc
 [/us/usc/t10/s573/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs573%2Fc
-[/us/pl/102/190/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1112%2Fa
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1500
-[/us/pl/102/484/s1052/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F5
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2499
-[/us/pl/103/337/s541/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fb%2F6
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2765
-[/us/pl/104/106/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs504%2Fa
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F295
-[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3353
-[/us/pl/113/291/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs501
-[/us/pl/113/291/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs502%2Fa
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484

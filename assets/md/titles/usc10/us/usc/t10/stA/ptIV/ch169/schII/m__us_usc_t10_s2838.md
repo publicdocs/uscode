@@ -31,7 +31,7 @@
 
         (2) The proceeds deposited into the special account of a military department pursuant to paragraph (1) shall be available to the Secretary of that military department, without further appropriation, for the maintenance, protection, alteration, repair, improvement, or restoration of military housing on the military installation at which the housing leased pursuant to subsection (a) is located.
 
-(Added [Pub. L. 110–417, div. B, title XXVIII, § 2804(a)][/us/pl/110/417/s2804/a], Oct. 14, 2008, [122 Stat. 4720][/us/stat/122/4720].)
+(Added [Pub. L. 110–417, div. B, title XXVIII][/us/pl/110/417/dB/tXXVIII], § 2804(a), Oct. 14, 2008, [122 Stat. 4720][/us/stat/122/4720].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t10/s2674/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2674%2Ff
 [/us/usc/t37/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403%2Fb
-[/us/pl/110/417/s2804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs2804%2Fa
+[/us/pl/110/417/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdB%2FtXXVIII
 [/us/stat/122/4720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4720
 
 

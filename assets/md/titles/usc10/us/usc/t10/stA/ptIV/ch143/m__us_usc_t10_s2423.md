@@ -23,7 +23,7 @@
 
     Subsection (a) shall apply only with respect to a laundry and dry cleaning facility of the Navy Resale and Services Support Office that began operating before October 1, 1989.
 
-(Added [Pub. L. 101–189, div. A, title III, § 323(a)][/us/pl/101/189/s323/a], Nov. 29, 1989, [103 Stat. 1414][/us/stat/103/1414].)
+(Added [Pub. L. 101–189, div. A, title III][/us/pl/101/189/dA/tIII], § 323(a), Nov. 29, 1989, [103 Stat. 1414][/us/stat/103/1414].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/101/189/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs323%2Fa
+[/us/pl/101/189/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIII
 [/us/stat/103/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1414
 
 

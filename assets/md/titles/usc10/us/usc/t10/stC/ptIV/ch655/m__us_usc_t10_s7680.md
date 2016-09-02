@@ -67,7 +67,7 @@ R.S. 1006; R.S. 4636.  </td>
 
     [34 U.S.C. 1146][/us/usc/t34/s1146] and this section reflect—
 
-    (1) Acts of [March 3, 1911, ch. 231, § 128][/us/act/1911-03-03/ch231/s128], [36 Stat. 1133][/us/stat/36/1133], and [February 13, 1925, ch. 229, § 1][/us/act/1925-02-13/ch229/s1], [43 Stat. 938][/us/stat/43/938], which defined the appellate jurisdiction of the United States Circuit Courts of Appeals; and
+    (1) Acts of [March 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 128, [36 Stat. 1133][/us/stat/36/1133], and [February 13, 1925, ch. 229][/us/act/1925-02-13/ch229], § 1, [43 Stat. 938][/us/stat/43/938], which defined the appellate jurisdiction of the United States Circuit Courts of Appeals; and
 
     (2) [Act of June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 869][/us/stat/62/869], which repealed the 1911 and 1925 Acts, but enacted similar provisions and changed the name of the circuit courts to United States Courts of Appeals for the several circuits.
 
@@ -83,9 +83,9 @@ R.S. 1006; R.S. 4636.  </td>
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F483
 [/us/usc/t34/s1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs1146
-[/us/act/1911-03-03/ch231/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs128
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1133
-[/us/act/1925-02-13/ch229/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229%2Fs1
+[/us/act/1925-02-13/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229
 [/us/stat/43/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F938
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F869

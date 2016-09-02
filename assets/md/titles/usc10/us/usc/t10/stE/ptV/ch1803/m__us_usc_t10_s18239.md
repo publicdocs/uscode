@@ -25,15 +25,15 @@
 
         (2) even though the land will be held in other than a fee simple interest in a case in which the Secretary of the military department concerned determines that the interest to be acquired in the land is sufficient for the purposes of the project.
 
-(Added [Pub. L. 97–214, § 3(b)(1)][/us/pl/97/214/s3/b/1], July 12, 1982, [96 Stat. 169][/us/stat/96/169], § 2239; amended [Pub. L. 97–295, § 1(23)][/us/pl/97/295/s1/23], Oct. 12, 1982, [96 Stat. 1290][/us/stat/96/1290]; [Pub. L. 97–321, title VIII, § 805(a)(2)][/us/pl/97/321/s805/a/2], Oct. 15, 1982, [96 Stat. 1573][/us/stat/96/1573]; renumbered § 18239 and amended [Pub. L. 103–337, div. A, title XVI, § 1664(b)(2)][/us/pl/103/337/s1664/b/2], (10), Oct. 5, 1994, [108 Stat. 3010][/us/stat/108/3010], 3011; [Pub. L. 107–217, § 3(b)(42)][/us/pl/107/217/s3/b/42], Aug. 21, 2002, [116 Stat. 1298][/us/stat/116/1298].)
+(Added [Pub. L. 97–214][/us/pl/97/214], § 3(b)(1), July 12, 1982, [96 Stat. 169][/us/stat/96/169], § 2239; amended [Pub. L. 97–295][/us/pl/97/295], § 1(23), Oct. 12, 1982, [96 Stat. 1290][/us/stat/96/1290]; [Pub. L. 97–321, title VIII][/us/pl/97/321/tVIII], § 805(a)(2), Oct. 15, 1982, [96 Stat. 1573][/us/stat/96/1573]; renumbered § 18239 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1664(b)(2), (10), Oct. 5, 1994, [108 Stat. 3010][/us/stat/108/3010], 3011; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(42), Aug. 21, 2002, [116 Stat. 1298][/us/stat/116/1298].)
 
  __Amendments__ 
 
     2002—Subsec. (b)(1). [Pub. L. 107–217][/us/pl/107/217] substituted “[section 3111 of title 40][/us/usc/t40/s3111]” for “section 355 of the Revised Statutes ([40 U.S.C. 255][/us/usc/t40/s255])”.
 
-    1994—[Pub. L. 103–337, § 1664(b)(2)][/us/pl/103/337/s1664/b/2], renumbered [section 2239 of this title][/us/usc/t10/s2239] as this section.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 1664(b)(2), renumbered [section 2239 of this title][/us/usc/t10/s2239] as this section.
 
-    Subsecs. (a), (b). [Pub. L. 103–337, § 1664(b)(10)][/us/pl/103/337/s1664/b/10], substituted “18233” for “2233”.
+    Subsecs. (a), (b). [Pub. L. 103–337][/us/pl/103/337], § 1664(b)(10), substituted “18233” for “2233”.
 
     1982—Subsec. (a). [Pub. L. 97–295][/us/pl/97/295] substituted “section 3324(a) and (b) of title 31” for “section 3648 of the Revised Statutes ([31 U.S.C. 529][/us/usc/t31/s529])”.
 
@@ -57,22 +57,22 @@
 [/us/usc/t10/s18233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs18233
 [/us/usc/t10/s18233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs18233
 [/us/usc/t40/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3111
-[/us/pl/97/214/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs3%2Fb%2F1
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F169
-[/us/pl/97/295/s1/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F23
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1290
-[/us/pl/97/321/s805/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321%2Fs805%2Fa%2F2
+[/us/pl/97/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321%2FtVIII
 [/us/stat/96/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1573
-[/us/pl/103/337/s1664/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1664%2Fb%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3010
-[/us/pl/107/217/s3/b/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F42
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1298
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3111
 [/us/usc/t40/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs255
-[/us/pl/103/337/s1664/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1664%2Fb%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s2239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2239
-[/us/pl/103/337/s1664/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1664%2Fb%2F10
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/usc/t31/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529
 [/us/pl/97/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321

@@ -17,11 +17,11 @@
 
     Whenever Congress determines that more units and organizations are needed for the national security than are in the regular components of the ground and air forces, the Army National Guard of the United States and the Air National Guard of the United States, or such parts of them as are needed, together with units of other reserve components necessary for a balanced force, shall be ordered to active duty and retained as long as so needed.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)][/us/pl/103/337/s1661/a/1], Oct. 5, 1994, [108 Stat. 2970][/us/stat/108/2970]; amended [Pub. L. 104–106, div. A, title XV, § 1501(b)(2)(A)][/us/pl/104/106/s1501/b/2/A], Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1661(a)(1), Oct. 5, 1994, [108 Stat. 2970][/us/stat/108/2970]; amended [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(2)(A), Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 263 of this title][/us/usc/t10/s263], prior to repeal by [Pub. L. 103–337, § 1661(a)(2)(A)][/us/pl/103/337/s1661/a/2/A].
+    Provisions similar to those in this section were contained in [section 263 of this title][/us/usc/t10/s263], prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1661(a)(2)(A).
 
  __Amendments__ 
 
@@ -42,12 +42,12 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1661/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2970
-[/us/pl/104/106/s1501/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F2%2FA
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F495
 [/us/usc/t10/s263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs263
-[/us/pl/103/337/s1661/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F2%2FA
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

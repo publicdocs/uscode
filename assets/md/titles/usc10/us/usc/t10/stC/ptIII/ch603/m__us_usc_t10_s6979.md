@@ -23,7 +23,7 @@
 
     The prohibition specified in subsection (a) does not apply with respect to any item or service provided to midshipmen for which a charge or fee is imposed as of October 5, 1994. The Secretary of Defense shall notify Congress of any change made by the Naval Academy in the amount of a charge or fee authorized under this subsection.
 
-(Added [Pub. L. 108–375, div. A, title V, § 545(b)(1)][/us/pl/108/375/s545/b/1], Oct. 28, 2004, [118 Stat. 1908][/us/stat/118/1908].)
+(Added [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 545(b)(1), Oct. 28, 2004, [118 Stat. 1908][/us/stat/118/1908].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/108/375/s545/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs545%2Fb%2F1
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1908
 
 

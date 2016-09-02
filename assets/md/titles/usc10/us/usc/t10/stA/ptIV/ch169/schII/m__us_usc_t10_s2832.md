@@ -17,7 +17,7 @@
 
     The Secretary of Defense may exercise the authority provided in section 1013 of the Demonstration Cities and Metropolitan Development Act of 1966 ([42 U.S.C. 3374][/us/usc/t42/s3374]).
 
-(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 163][/us/stat/96/163]; amended [Pub. L. 101–189, div. B, title XXVIII, § 2831(a)][/us/pl/101/189/s2831/a], Nov. 29, 1989, [103 Stat. 1660][/us/stat/103/1660]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(26)][/us/pl/104/106/s1502/a/26], Feb. 10, 1996, [110 Stat. 506][/us/stat/110/506]; [Pub. L. 107–107, div. A, title X, § 1048(e)(11)][/us/pl/107/107/s1048/e/11], Dec. 28, 2001, [115 Stat. 1228][/us/stat/115/1228].)
+(Added [Pub. L. 97–214][/us/pl/97/214], § 2(a), July 12, 1982, [96 Stat. 163][/us/stat/96/163]; amended [Pub. L. 101–189, div. B, title XXVIII][/us/pl/101/189/dB/tXXVIII], § 2831(a), Nov. 29, 1989, [103 Stat. 1660][/us/stat/103/1660]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1502(a)(26), Feb. 10, 1996, [110 Stat. 506][/us/stat/110/506]; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(e)(11), Dec. 28, 2001, [115 Stat. 1228][/us/stat/115/1228].)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–189, div. B, title XXVIII, § 2831(b)][/us/pl/101/189/s2831/b], Nov. 29, 1989, [103 Stat. 1660][/us/stat/103/1660], provided that: 
+[Pub. L. 101–189, div. B, title XXVIII][/us/pl/101/189/dB/tXXVIII], § 2831(b), Nov. 29, 1989, [103 Stat. 1660][/us/stat/103/1660], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply only to funds appropriated or transferred to, or otherwise deposited in, the Department of Defense Base Closure Account for, or during, fiscal years beginning after September 30, 1989.”
 
@@ -53,20 +53,20 @@
 ----------
 
 [/us/usc/t42/s3374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3374
-[/us/pl/97/214/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs2%2Fa
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F163
-[/us/pl/101/189/s2831/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs2831%2Fa
+[/us/pl/101/189/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdB%2FtXXVIII
 [/us/stat/103/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1660
-[/us/pl/104/106/s1502/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F26
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F506
-[/us/pl/107/107/s1048/e/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fe%2F11
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1228
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/100/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F526
 [/us/stat/102/2627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2627
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
-[/us/pl/101/189/s2831/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs2831%2Fb
+[/us/pl/101/189/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdB%2FtXXVIII
 [/us/stat/103/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1660
 [/us/pl/97/214/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs12%2Fa
 [/us/usc/t10/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2801

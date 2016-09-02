@@ -17,7 +17,7 @@
 
     If satisfactory proof is presented that a person who was discharged honorably or under honorable conditions has lost his certificate of discharge from an armed force or that it was destroyed without his procurement or connivance, the Secretary concerned may give that person, or his surviving spouse, a certificate of that discharge, indelibly marked to show that it is a certificate in place of the lost or destroyed certificate. A certificate given under this section may not be accepted as a voucher for the payment of a claim against the United States for pay, bounty, or other allowance, or as evidence in any other case.
 
-(Added [Pub. L. 90–235, § 7(a)(2)(A)][/us/pl/90/235/s7/a/2/A], Jan. 2, 1968, [81 Stat. 762][/us/stat/81/762], § 1040; renumbered § 1041, [Pub. L. 96–513, title V, § 511(33)(A)][/us/pl/96/513/s511/33/A], Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922].)
+(Added [Pub. L. 90–235][/us/pl/90/235], § 7(a)(2)(A), Jan. 2, 1968, [81 Stat. 762][/us/stat/81/762], § 1040; renumbered § 1041, [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(33)(A), Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922].)
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/90/235/s7/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs7%2Fa%2F2%2FA
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F762
-[/us/pl/96/513/s511/33/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F33%2FA
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2922
 
 

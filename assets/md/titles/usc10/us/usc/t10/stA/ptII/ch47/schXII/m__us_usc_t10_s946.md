@@ -81,7 +81,7 @@
 
     The Federal Advisory Committee Act (5 U.S.C. App. I) shall not apply to the committee.
 
-(Added [Pub. L. 101–189, div. A, title XIII, § 1301(c)][/us/pl/101/189/s1301/c], Nov. 29, 1989, [103 Stat. 1574][/us/stat/103/1574]; amended [Pub. L. 103–337, div. A, title IX, § 924(c)(1)][/us/pl/103/337/s924/c/1], Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)][/us/pl/104/106/s1502/a/1], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 112–239, div. A, title V, § 532][/us/pl/112/239/s532], Jan. 2, 2013, [126 Stat. 1726][/us/stat/126/1726].)
+(Added [Pub. L. 101–189, div. A, title XIII][/us/pl/101/189/dA/tXIII], § 1301(c), Nov. 29, 1989, [103 Stat. 1574][/us/stat/103/1574]; amended [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(c)(1), Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1502(a)(1), Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 532, Jan. 2, 2013, [126 Stat. 1726][/us/stat/126/1726].)
 
  __References in Text__ 
 
@@ -110,17 +110,17 @@
 ----------
 ----------
 
-[/us/pl/101/189/s1301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1301%2Fc
+[/us/pl/101/189/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXIII
 [/us/stat/103/1574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1574
-[/us/pl/103/337/s924/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fc%2F1
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2831
-[/us/pl/104/106/s1502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F1
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F502
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/112/239/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs532
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1726
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

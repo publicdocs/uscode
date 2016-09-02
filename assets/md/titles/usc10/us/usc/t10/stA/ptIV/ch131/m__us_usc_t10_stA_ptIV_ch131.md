@@ -299,65 +299,65 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–92, div. A, title VIII, § 883(a)(2)][/us/pl/114/92/s883/a/2], Nov. 25, 2015, [129 Stat. 947][/us/stat/129/947], which directed amendment of the analysis for “such chapter” by striking item 2222 and adding a new item 2222, was executed by striking item 2222 “Defense business systems: architecture, accountability, and modernization” and adding item 2222 in the analysis for this chapter, to reflect the probable intent of Congress.
+    2015—[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 883(a)(2), Nov. 25, 2015, [129 Stat. 947][/us/stat/129/947], which directed amendment of the analysis for “such chapter” by striking item 2222 and adding a new item 2222, was executed by striking item 2222 “Defense business systems: architecture, accountability, and modernization” and adding item 2222 in the analysis for this chapter, to reflect the probable intent of Congress.
 
-    2014—[Pub. L. 113–291, div. A, title X, § 1022(a)(2)][/us/pl/113/291/s1022/a/2], Dec. 19, 2014, [128 Stat. 3487][/us/stat/128/3487], added item 2218a.
+    2014—[Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1022(a)(2), Dec. 19, 2014, [128 Stat. 3487][/us/stat/128/3487], added item 2218a.
 
-    2011—[Pub. L. 112–81, div. A, title VIII, § 846(a)(2)][/us/pl/112/81/s846/a/2], Dec. 31, 2011, [125 Stat. 1517][/us/stat/125/1517], added item 2216a.
+    2011—[Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 846(a)(2), Dec. 31, 2011, [125 Stat. 1517][/us/stat/125/1517], added item 2216a.
 
-    [Pub. L. 111–383, div. A, title VIII, § 805(a)(2)][/us/pl/111/383/s805/a/2], Jan. 7, 2011, [124 Stat. 4259][/us/stat/124/4259], added item 2223a.
+    [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 805(a)(2), Jan. 7, 2011, [124 Stat. 4259][/us/stat/124/4259], added item 2223a.
 
-    2008—[Pub. L. 110–181, div. A, title III][/us/pl/110/181], §§ 352(b), 371(f), Jan. 28, 2008, [122 Stat. 72][/us/stat/122/72], 81, added items 2228 and 2229a and struck out former item 2228 “Military equipment and infrastructure: prevention and mitigation of corrosion”.
+    2008—[Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], §§ 352(b), 371(f), Jan. 28, 2008, [122 Stat. 72][/us/stat/122/72], 81, added items 2228 and 2229a and struck out former item 2228 “Military equipment and infrastructure: prevention and mitigation of corrosion”.
 
-    2006—[Pub. L. 109–364, div. A, title III, § 351(b)][/us/pl/109/364/s351/b], Oct. 17, 2006, [120 Stat. 2160][/us/stat/120/2160], added item 2229.
+    2006—[Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 351(b), Oct. 17, 2006, [120 Stat. 2160][/us/stat/120/2160], added item 2229.
 
-    2004—[Pub. L. 108–375, div. A, title III, § 332(a)(2)][/us/pl/108/375/s332/a/2], title VI, § 651(f)(2), Oct. 28, 2004, [118 Stat. 1854][/us/stat/118/1854], 1972, struck out item 2219 “Retention of morale, welfare, and recreation funds by military installations: limitation” and added item 2222.
+    2004—[Pub. L. 108–375, div. A, title III][/us/pl/108/375/dA/tIII], § 332(a)(2), title VI, § 651(f)(2), Oct. 28, 2004, [118 Stat. 1854][/us/stat/118/1854], 1972, struck out item 2219 “Retention of morale, welfare, and recreation funds by military installations: limitation” and added item 2222.
 
-    2002—[Pub. L. 107–314, div. A, title X][/us/pl/107/314], §§ 1004(h)(1), 1052(b)(2), 1067(a)(2), Dec. 2, 2002, [116 Stat. 2631][/us/stat/116/2631], 2649, 2658, struck out item 2222 “Annual financial management improvement plan” and added items 2224a and 2228.
+    2002—[Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], §§ 1004(h)(1), 1052(b)(2), 1067(a)(2), Dec. 2, 2002, [116 Stat. 2631][/us/stat/116/2631], 2649, 2658, struck out item 2222 “Annual financial management improvement plan” and added items 2224a and 2228.
 
-    2001—[Pub. L. 107–107, div. A, title X, § 1009(b)(3)(B)][/us/pl/107/107/s1009/b/3/B], Dec. 28, 2001, [115 Stat. 1209][/us/stat/115/1209], substituted “Annual” for “Biennial” in item 2222.
+    2001—[Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1009(b)(3)(B), Dec. 28, 2001, [115 Stat. 1209][/us/stat/115/1209], substituted “Annual” for “Biennial” in item 2222.
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 812(a)(2), title X, §§ 1006(a)(2), 1008(a)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–214, 1654A–247, 1654A–250, added items 2225, 2226, and 2227.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VIII, § 812(a)(2), title X, §§ 1006(a)(2), 1008(a)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–214, 1654A–247, 1654A–250, added items 2225, 2226, and 2227.
 
-    1999—[Pub. L. 106–65, div. A, title X, § 1043(b)][/us/pl/106/65/s1043/b], Oct. 5, 1999, [113 Stat. 761][/us/stat/113/761], added item 2224.
+    1999—[Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1043(b), Oct. 5, 1999, [113 Stat. 761][/us/stat/113/761], added item 2224.
 
-    1998—[Pub. L. 105–261, div. A, title III, § 331(a)(2)][/us/pl/105/261/s331/a/2], title IX, §§ 906(f)(1), 911(a)(2), title X, § 1008(b), Oct. 17, 1998, [112 Stat. 1968][/us/stat/112/1968], 2096, 2099, 2117, added item 2212, struck out items 2216a “Defense Business Operations Fund” and 2221 “Fisher House trust funds”, and added item 2223.
+    1998—[Pub. L. 105–261, div. A, title III][/us/pl/105/261/dA/tIII], § 331(a)(2), title IX, §§ 906(f)(1), 911(a)(2), title X, § 1008(b), Oct. 17, 1998, [112 Stat. 1968][/us/stat/112/1968], 2096, 2099, 2117, added item 2212, struck out items 2216a “Defense Business Operations Fund” and 2221 “Fisher House trust funds”, and added item 2223.
 
-    1997—[Pub. L. 105–85, div. A, title X, § 1008(a)(2)][/us/pl/105/85/s1008/a/2], Nov. 18, 1997, [111 Stat. 1871][/us/stat/111/1871], added item 2222.
+    1997—[Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1008(a)(2), Nov. 18, 1997, [111 Stat. 1871][/us/stat/111/1871], added item 2222.
 
-    1996—[Pub. L. 104–201, div. A, title X, § 1074(a)(10)][/us/pl/104/201/s1074/a/10], Sept. 23, 1996, [110 Stat. 2659][/us/stat/110/2659], redesignated item 2216 “Defense Business Operations Fund” as 2216a.
+    1996—[Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1074(a)(10), Sept. 23, 1996, [110 Stat. 2659][/us/stat/110/2659], redesignated item 2216 “Defense Business Operations Fund” as 2216a.
 
-    [Pub. L. 104–106, div. A, title III, § 371(a)(2)][/us/pl/104/106/s371/a/2], title IX, §§ 912(a)(2), 914(a)(2), Feb. 10, 1996, [110 Stat. 279][/us/stat/110/279], 410, 412, added two items 2216 and item 2221.
+    [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 371(a)(2), title IX, §§ 912(a)(2), 914(a)(2), Feb. 10, 1996, [110 Stat. 279][/us/stat/110/279], 410, 412, added two items 2216 and item 2221.
 
-    1994—[Pub. L. 103–355, title II, § 2454(c)(3)(A)][/us/pl/103/355/s2454/c/3/A], title III, § 3061(b), title V, § 5001(a)(2), Oct. 13, 1994, [108 Stat. 3326][/us/stat/108/3326], 3336, 3350, substituted “Regulations on procurement, production, warehousing, and supply distribution functions” for “Obligation of funds: limitation” in item 2202, struck out item 2212 “Contracted advisory and assistance services: accounting procedures”, and added item 2220.
+    1994—[Pub. L. 103–355, title II][/us/pl/103/355/tII], § 2454(c)(3)(A), title III, § 3061(b), title V, § 5001(a)(2), Oct. 13, 1994, [108 Stat. 3326][/us/stat/108/3326], 3336, 3350, substituted “Regulations on procurement, production, warehousing, and supply distribution functions” for “Obligation of funds: limitation” in item 2202, struck out item 2212 “Contracted advisory and assistance services: accounting procedures”, and added item 2220.
 
-    [Pub. L. 103–337, div. A, title III, § 373(b)][/us/pl/103/337/s373/b], div. B, title XXVIII, § 2804(b)(2), Oct. 5, 1994, [108 Stat. 2736][/us/stat/108/2736], 3053, substituted “Reimbursements” for “Availability of reimbursements” in item 2205 and added item 2219.
+    [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 373(b), div. B, title XXVIII, § 2804(b)(2), Oct. 5, 1994, [108 Stat. 2736][/us/stat/108/2736], 3053, substituted “Reimbursements” for “Availability of reimbursements” in item 2205 and added item 2219.
 
-    1993—[Pub. L. 103–160, div. A, title XI, § 1106(a)(2)][/us/pl/103/160/s1106/a/2], Nov. 30, 1993, [107 Stat. 1750][/us/stat/107/1750], added item 2215.
+    1993—[Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1106(a)(2), Nov. 30, 1993, [107 Stat. 1750][/us/stat/107/1750], added item 2215.
 
-    1992—[Pub. L. 102–484, div. A, title X, § 1024(a)(2)][/us/pl/102/484/s1024/a/2], Oct. 23, 1992, [106 Stat. 2488][/us/stat/106/2488], added item 2218.
+    1992—[Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1024(a)(2), Oct. 23, 1992, [106 Stat. 2488][/us/stat/106/2488], added item 2218.
 
-    1991—[Pub. L. 102–190, div. A, title III, § 317(b)][/us/pl/102/190/s317/b], Dec. 5, 1991, [105 Stat. 1338][/us/stat/105/1338], added item 2213.
+    1991—[Pub. L. 102–190, div. A, title III][/us/pl/102/190/dA/tIII], § 317(b), Dec. 5, 1991, [105 Stat. 1338][/us/stat/105/1338], added item 2213.
 
-    1990—[Pub. L. 101–510, div. A, title XIII, § 1331(2)][/us/pl/101/510/s1331/2], title XIV, §§ 1482(c)(2), 1484(i)(6), Nov. 5, 1990, [104 Stat. 1673][/us/stat/104/1673], 1710, 1718, struck out item 2213 “Cooperative military airlift agreements”, added item 2214, and struck out items 2215 “Reports on unobligated balances” and 2216 “Annual report on budgeting for inflation”.
+    1990—[Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1331(2), title XIV, §§ 1482(c)(2), 1484(i)(6), Nov. 5, 1990, [104 Stat. 1673][/us/stat/104/1673], 1710, 1718, struck out item 2213 “Cooperative military airlift agreements”, added item 2214, and struck out items 2215 “Reports on unobligated balances” and 2216 “Annual report on budgeting for inflation”.
 
-    1988—[Pub. L. 100–370, § 1(d)(4)][/us/pl/100/370/s1/d/4], July 19, 1988, [102 Stat. 843][/us/stat/102/843], added items 2201, 2212, and 2217.
+    1988—[Pub. L. 100–370][/us/pl/100/370], § 1(d)(4), July 19, 1988, [102 Stat. 843][/us/stat/102/843], added items 2201, 2212, and 2217.
 
-    1986—[Pub. L. 99–661, div. A, title XIII, § 1307(a)(2)][/us/pl/99/661/s1307/a/2], Nov. 14, 1986, [100 Stat. 3981][/us/stat/100/3981], added items 2215 and 2216.
+    1986—[Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1307(a)(2), Nov. 14, 1986, [100 Stat. 3981][/us/stat/100/3981], added items 2215 and 2216.
 
-    1982—[Pub. L. 97–252, title XI, § 1125(b)][/us/pl/97/252/s1125/b], Sept. 8, 1982, [96 Stat. 758][/us/stat/96/758], added item 2213.
+    1982—[Pub. L. 97–252, title XI][/us/pl/97/252/tXI], § 1125(b), Sept. 8, 1982, [96 Stat. 758][/us/stat/96/758], added item 2213.
 
-    [Pub. L. 97–214, § 10(a)(1)][/us/pl/97/214/s10/a/1], July 12, 1982, [96 Stat. 174][/us/stat/96/174], struck out item 2212 “Transmission of annual military construction authorization request”.
+    [Pub. L. 97–214][/us/pl/97/214], § 10(a)(1), July 12, 1982, [96 Stat. 174][/us/stat/96/174], struck out item 2212 “Transmission of annual military construction authorization request”.
 
-    1978—[Pub. L. 95–356, title VIII, § 802(a)(2)][/us/pl/95/356/s802/a/2], Sept. 8, 1978, [92 Stat. 585][/us/stat/92/585], added item 2212.
+    1978—[Pub. L. 95–356, title VIII][/us/pl/95/356/tVIII], § 802(a)(2), Sept. 8, 1978, [92 Stat. 585][/us/stat/92/585], added item 2212.
 
-    1962—[Pub. L. 87–651, title II, § 207(b)][/us/pl/87/651/s207/b], Sept. 7, 1962, [76 Stat. 523][/us/stat/76/523], added items 2203 to 2211.
+    1962—[Pub. L. 87–651, title II][/us/pl/87/651/tII], § 207(b), Sept. 7, 1962, [76 Stat. 523][/us/stat/76/523], added items 2203 to 2211.
 
-    1958—[Pub. L. 85–599, § 3(c)][/us/pl/85/599/s3/c], Aug. 6, 1958, [72 Stat. 516][/us/stat/72/516], struck out item 2201 “General functions of Secretary of Defense”.
+    1958—[Pub. L. 85–599][/us/pl/85/599], § 3(c), Aug. 6, 1958, [72 Stat. 516][/us/stat/72/516], struck out item 2201 “General functions of Secretary of Defense”.
 
  __Strategic Management Plan__ 
 
-[Pub. L. 110–181, div. A, title IX, § 904(d)][/us/pl/110/181/s904/d], (e), Jan. 28, 2008, [122 Stat. 275][/us/stat/122/275], as amended by [Pub. L. 114–92, div. A, title X, § 1079(e)][/us/pl/114/92/s1079/e], Nov. 25, 2015, [129 Stat. 999][/us/stat/129/999], provided that:
+[Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 904(d), (e), Jan. 28, 2008, [122 Stat. 275][/us/stat/122/275], as amended by [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1079(e), Nov. 25, 2015, [129 Stat. 999][/us/stat/129/999], provided that:
 
 >     “(d) __Strategic Management Plan Required.—__ 
 
@@ -390,65 +390,65 @@
 ----------
 ----------
 
-[/us/pl/114/92/s883/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs883%2Fa%2F2
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F947
-[/us/pl/113/291/s1022/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1022%2Fa%2F2
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3487
-[/us/pl/112/81/s846/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs846%2Fa%2F2
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1517
-[/us/pl/111/383/s805/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs805%2Fa%2F2
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4259
-[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F72
-[/us/pl/109/364/s351/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs351%2Fb
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2160
-[/us/pl/108/375/s332/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs332%2Fa%2F2
+[/us/pl/108/375/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIII
 [/us/stat/118/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1854
-[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2631
-[/us/pl/107/107/s1009/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1009%2Fb%2F3%2FB
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1209
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/65/s1043/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1043%2Fb
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F761
-[/us/pl/105/261/s331/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs331%2Fa%2F2
+[/us/pl/105/261/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIII
 [/us/stat/112/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1968
-[/us/pl/105/85/s1008/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1008%2Fa%2F2
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1871
-[/us/pl/104/201/s1074/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fa%2F10
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2659
-[/us/pl/104/106/s371/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs371%2Fa%2F2
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F279
-[/us/pl/103/355/s2454/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2454%2Fc%2F3%2FA
+[/us/pl/103/355/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtII
 [/us/stat/108/3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3326
-[/us/pl/103/337/s373/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs373%2Fb
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2736
-[/us/pl/103/160/s1106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1106%2Fa%2F2
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1750
-[/us/pl/102/484/s1024/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1024%2Fa%2F2
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2488
-[/us/pl/102/190/s317/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs317%2Fb
+[/us/pl/102/190/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtIII
 [/us/stat/105/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1338
-[/us/pl/101/510/s1331/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1331%2F2
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1673
-[/us/pl/100/370/s1/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs1%2Fd%2F4
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F843
-[/us/pl/99/661/s1307/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1307%2Fa%2F2
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3981
-[/us/pl/97/252/s1125/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1125%2Fb
+[/us/pl/97/252/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtXI
 [/us/stat/96/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F758
-[/us/pl/97/214/s10/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs10%2Fa%2F1
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F174
-[/us/pl/95/356/s802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F356%2Fs802%2Fa%2F2
+[/us/pl/95/356/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F356%2FtVIII
 [/us/stat/92/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F585
-[/us/pl/87/651/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs207%2Fb
+[/us/pl/87/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtII
 [/us/stat/76/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F523
-[/us/pl/85/599/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599%2Fs3%2Fc
+[/us/pl/85/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599
 [/us/stat/72/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F516
-[/us/pl/110/181/s904/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs904%2Fd
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F275
-[/us/pl/114/92/s1079/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1079%2Fe
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F999
 
 

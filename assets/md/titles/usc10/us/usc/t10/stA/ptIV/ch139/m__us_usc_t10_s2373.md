@@ -23,17 +23,17 @@
 
     Purchases under this section may be made inside or outside the United States and by contract or otherwise. Chapter 137 of this title applies only when such purchases are made in quantities greater than necessary for experimentation, technical evaluation, assessment of operational utility, or safety or to provide a residual operational capability.
 
-(Added [Pub. L. 103–160, div. A, title VIII, § 822(c)(1)][/us/pl/103/160/s822/c/1], Nov. 30, 1993, [107 Stat. 1706][/us/stat/107/1706]; amended [Pub. L. 103–337, div. A, title X, § 1070(g)][/us/pl/103/337/s1070/g], Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859]; [Pub. L. 104–106, div. A, title VIII, § 812][/us/pl/104/106/s812], Feb. 10, 1996, [110 Stat. 395][/us/stat/110/395]; [Pub. L. 114–92, div. A, title VIII, § 814][/us/pl/114/92/s814], Nov. 25, 2015, [129 Stat. 893][/us/stat/129/893].)
+(Added [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 822(c)(1), Nov. 30, 1993, [107 Stat. 1706][/us/stat/107/1706]; amended [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(g), Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859]; [Pub. L. 104–106, div. A, title VIII][/us/pl/104/106/dA/tVIII], § 812, Feb. 10, 1996, [110 Stat. 395][/us/stat/110/395]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 814, Nov. 25, 2015, [129 Stat. 893][/us/stat/129/893].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 4504 and 9504 of this title, prior to repeal by [Pub. L. 103–160, § 822(c)(2)][/us/pl/103/160/s822/c/2].
+    Provisions similar to those in this section were contained in sections 4504 and 9504 of this title, prior to repeal by [Pub. L. 103–160][/us/pl/103/160], § 822(c)(2).
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–92, § 814(a)][/us/pl/114/92/s814/a], inserted “transportation, energy, medical, space-flight,” before “and aeronautical supplies”.
+    2015—Subsec. (a). [Pub. L. 114–92][/us/pl/114/92], § 814(a), inserted “transportation, energy, medical, space-flight,” before “and aeronautical supplies”.
 
-    Subsec. (b). [Pub. L. 114–92, § 814(b)][/us/pl/114/92/s814/b], substituted “only when such purchases are made in quantities greater than necessary for experimentation, technical evaluation, assessment of operational utility, or safety or to provide a residual operational capability” for “only when such purchases are made in quantity”.
+    Subsec. (b). [Pub. L. 114–92][/us/pl/114/92], § 814(b), substituted “only when such purchases are made in quantities greater than necessary for experimentation, technical evaluation, assessment of operational utility, or safety or to provide a residual operational capability” for “only when such purchases are made in quantity”.
 
     1996—Subsec. (b). [Pub. L. 104–106][/us/pl/104/106] inserted “only” after “applies” in second sentence.
 
@@ -46,17 +46,17 @@
 ----------
 ----------
 
-[/us/pl/103/160/s822/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs822%2Fc%2F1
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1706
-[/us/pl/103/337/s1070/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fg
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2859
-[/us/pl/104/106/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs812
+[/us/pl/104/106/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVIII
 [/us/stat/110/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F395
-[/us/pl/114/92/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs814
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F893
-[/us/pl/103/160/s822/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs822%2Fc%2F2
-[/us/pl/114/92/s814/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs814%2Fa
-[/us/pl/114/92/s814/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs814%2Fb
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 

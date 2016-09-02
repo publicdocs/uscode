@@ -17,7 +17,7 @@
 
     Under regulations prescribed by the Secretary of the Army, the Superintendent of the Academy may (without regard to [section 2601 of this title][/us/usc/t10/s2601]) accept, hold, administer, invest, and spend any gift, devise, or bequest of personal property of a value of $20,000 or less made to the United States on the condition that such gift, devise, or bequest be used for the benefit of the Academy or any entity thereof. The Secretary may pay or authorize the payment of all reasonable and necessary expenses in connection with the conveyance or transfer of a gift, devise, or bequest under this section.
 
-(Added [Pub. L. 97–295, § 1(41)(A)][/us/pl/97/295/s1/41/A], Oct. 12, 1982, [96 Stat. 1297][/us/stat/96/1297].)
+(Added [Pub. L. 97–295][/us/pl/97/295], § 1(41)(A), Oct. 12, 1982, [96 Stat. 1297][/us/stat/96/1297].)
 
 <table>
 
@@ -67,7 +67,7 @@ Sept. 8, 1982, Pub. L. 97–252, § 1133(a), 96 Stat. 761.  </td>
 
  __Applicability of Section__ 
 
-[Pub. L. 97–252, title XI, § 1133][/us/pl/97/252/s1133], Sept. 8, 1982, [96 Stat. 761][/us/stat/96/761], provided that:
+[Pub. L. 97–252, title XI][/us/pl/97/252/tXI], § 1133, Sept. 8, 1982, [96 Stat. 761][/us/stat/96/761], provided that:
 
 >     “(a) __\[Repealed and reenacted as__  __[__  __section 4356 of this title__  __][/us/usc/t10/s4356]__  __by__  __[__  __Pub. L. 97–295__  __][/us/pl/97/295]__  __, §§ 1(41)(A), 6(b),__  __Oct. 12, 1982__  __,__  __[__  __96 Stat. 1297__  __][/us/stat/96/1297]__  __, 1315.\]__ 
 
@@ -81,9 +81,9 @@ Sept. 8, 1982, Pub. L. 97–252, § 1133(a), 96 Stat. 761.  </td>
 ----------
 
 [/us/usc/t10/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2601
-[/us/pl/97/295/s1/41/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F41%2FA
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1297
-[/us/pl/97/252/s1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1133
+[/us/pl/97/252/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtXI
 [/us/stat/96/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F761
 [/us/usc/t10/s4356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4356
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295

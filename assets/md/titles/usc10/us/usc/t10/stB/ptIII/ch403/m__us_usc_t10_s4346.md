@@ -25,7 +25,7 @@
 
         If a candidate for admission refuses to take this oath, his appointment is terminated.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 242][/us/stat/70A/242]; [Pub. L. 104–201, div. A, title V, § 555(b)][/us/pl/104/201/s555/b], Sept. 23, 1996, [110 Stat. 2527][/us/stat/110/2527].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 242][/us/stat/70A/242]; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 555(b), Sept. 23, 1996, [110 Stat. 2527][/us/stat/110/2527].)
 
 <table>
 
@@ -127,7 +127,7 @@ R.S. 1320.  </td>
 
  __Temporary Authority To Waive Maximum Age Limitation on Admission to the Military Service Academies__ 
 
-[Pub. L. 112–81, div. A, title V, § 553][/us/pl/112/81/s553], Dec. 31, 2011, [125 Stat. 1413][/us/stat/125/1413], as amended by [Pub. L. 114–92, div. A, title X, § 1072(b)][/us/pl/114/92/s1072/b], Nov. 25, 2015, [129 Stat. 995][/us/stat/129/995], provided that:
+[Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 553, Dec. 31, 2011, [125 Stat. 1413][/us/stat/125/1413], as amended by [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1072(b), Nov. 25, 2015, [129 Stat. 995][/us/stat/129/995], provided that:
 
 >     “(a)  __Waiver for Certain Enlisted Members__  __.—__ 
 
@@ -155,7 +155,7 @@ R.S. 1320.  </td>
 
  __Authority To Waive Maximum Age Limitation on Admission to Service Academies for Certain Enlisted Members Who Served During Persian Gulf War__ 
 
-[Pub. L. 102–190, div. A, title V, § 514][/us/pl/102/190/s514], Dec. 5, 1991, [105 Stat. 1361][/us/stat/105/1361], provided that:
+[Pub. L. 102–190, div. A, title V][/us/pl/102/190/dA/tV], § 514, Dec. 5, 1991, [105 Stat. 1361][/us/stat/105/1361], provided that:
 
 >     “(a)  __Waiver Authority__  __.—__ 
 
@@ -175,7 +175,7 @@ R.S. 1320.  </td>
 
  __Persons From Countries Assisting U.S. in Vietnam; Service Academy Instruction: Oath of Trainees__ 
 
-    Exemption from oath requirement of subsec. (d) of this section of appointees to the Military Academy, the Naval Academy, and the Air Force Academy from countries assisting U.S. in Vietnam, see [Pub. L. 89–802, § 1(g)][/us/pl/89/802/s1/g], Nov. 9, 1966, [80 Stat. 1519][/us/stat/80/1519], set out as a note under [section 4344 of this title][/us/usc/t10/s4344].
+    Exemption from oath requirement of subsec. (d) of this section of appointees to the Military Academy, the Naval Academy, and the Air Force Academy from countries assisting U.S. in Vietnam, see [Pub. L. 89–802][/us/pl/89/802], § 1(g), Nov. 9, 1966, [80 Stat. 1519][/us/stat/80/1519], set out as a note under [section 4344 of this title][/us/usc/t10/s4344].
 
 ----------
 
@@ -186,20 +186,20 @@ R.S. 1320.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F242
-[/us/pl/104/201/s555/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs555%2Fb
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2527
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/112/81/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs553
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1413
-[/us/pl/114/92/s1072/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1072%2Fb
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F995
-[/us/pl/102/190/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs514
+[/us/pl/102/190/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtV
 [/us/stat/105/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1361
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/stat/105/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F77
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/usc/t38/s101/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F33
-[/us/pl/89/802/s1/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F802%2Fs1%2Fg
+[/us/pl/89/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F802
 [/us/stat/80/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1519
 [/us/usc/t10/s4344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4344
 

@@ -23,7 +23,7 @@
 
     (d) If an agreement made under subsection (a) expires during a war or during a national emergency declared by Congress or the President after January 1, 1953, the Reserve concerned may be kept on active duty, without his consent, as otherwise prescribed by law.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 30][/us/stat/70A/30], § 679; [Pub. L. 96–513, title V, § 511(19)][/us/pl/96/513/s511/19], Dec. 12, 1980, [94 Stat. 2921][/us/stat/94/2921]; renumbered § 12311, [Pub. L. 103–337, div. A, title XVI, § 1662(e)(2)][/us/pl/103/337/s1662/e/2], Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 30][/us/stat/70A/30], § 679; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(19), Dec. 12, 1980, [94 Stat. 2921][/us/stat/94/2921]; renumbered § 12311, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(e)(2), Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
 <table>
 
@@ -148,11 +148,11 @@ July 9, 1952, ch. 608, §§ 235 (less last sentence of (a), and less (b)), 236
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F30
-[/us/pl/96/513/s511/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F19
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2921
-[/us/pl/103/337/s1662/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fe%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2992
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

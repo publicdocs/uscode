@@ -41,7 +41,7 @@
 
         (2) Notwithstanding paragraph (1), the Secretary concerned may authorize the enlistment of a person not described in paragraph (1) if the Secretary determines that such enlistment is vital to the national interest.
 
-(Added [Pub. L. 90–235, § 2(a)(1)(B)][/us/pl/90/235/s2/a/1/B], Jan. 2, 1968, [81 Stat. 754][/us/stat/81/754]; amended [Pub. L. 109–163, div. A, title V, § 542(a)][/us/pl/109/163/s542/a], Jan. 6, 2006, [119 Stat. 3253][/us/stat/119/3253].)
+(Added [Pub. L. 90–235][/us/pl/90/235], § 2(a)(1)(B), Jan. 2, 1968, [81 Stat. 754][/us/stat/81/754]; amended [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 542(a), Jan. 6, 2006, [119 Stat. 3253][/us/stat/119/3253].)
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 
  __Prohibition on Waiver for Commissioning or Enlistment in the Armed Forces for any Individual Convicted of a Felony Sexual Offense__ 
 
-    [Pub. L. 112–239, div. A, title V, § 523][/us/pl/112/239/s523], Jan. 2, 2013, [126 Stat. 1723][/us/stat/126/1723], which provided that an individual may not be provided a waiver for commissioning or enlistment in the Armed Forces if convicted of rape or other sexual offenses, was repealed by [Pub. L. 113–66, div. A, title XVII, § 1711(b)][/us/pl/113/66/s1711/b], Dec. 26, 2013, [127 Stat. 963][/us/stat/127/963]. See [section 657 of this title][/us/usc/t10/s657].
+    [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 523, Jan. 2, 2013, [126 Stat. 1723][/us/stat/126/1723], which provided that an individual may not be provided a waiver for commissioning or enlistment in the Armed Forces if convicted of rape or other sexual offenses, was repealed by [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1711(b), Dec. 26, 2013, [127 Stat. 963][/us/stat/127/963]. See [section 657 of this title][/us/usc/t10/s657].
 
 ----------
 
@@ -69,14 +69,14 @@
 [/us/pl/99/658/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658%2Fs201
 [/us/stat/100/3678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3678
 [/us/usc/t48/s1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1931
-[/us/pl/90/235/s2/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs2%2Fa%2F1%2FB
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F754
-[/us/pl/109/163/s542/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs542%2Fa
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3253
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/112/239/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs523
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1723
-[/us/pl/113/66/s1711/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1711%2Fb
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F963
 [/us/usc/t10/s657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs657
 

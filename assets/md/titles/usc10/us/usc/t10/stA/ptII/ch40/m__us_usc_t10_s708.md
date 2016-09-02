@@ -49,15 +49,15 @@
 
         (2) in the case of an officer, has completed the officer’s initial period of obligated service on active duty.
 
-(Added [Pub. L. 98–525, title VII, § 707(a)(1)][/us/pl/98/525/s707/a/1], Oct. 19, 1984, [98 Stat. 2571][/us/stat/98/2571]; amended [Pub. L. 100–26, § 7(i)(2)][/us/pl/100/26/s7/i/2], (k)(3), Apr. 21, 1987, [101 Stat. 282][/us/stat/101/282], 284; [Pub. L. 103–337, div. A, title X, § 1070(e)(2)][/us/pl/103/337/s1070/e/2], Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859]; [Pub. L. 105–85, div. A, title VI, § 603(d)(2)(A)][/us/pl/105/85/s603/d/2/A], Nov. 18, 1997, [111 Stat. 1782][/us/stat/111/1782]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–375, div. A, title V, § 554][/us/pl/108/375/s554], Oct. 28, 2004, [118 Stat. 1913][/us/stat/118/1913]; [Pub. L. 109–364, div. A, title X, § 1071(g)(3)][/us/pl/109/364/s1071/g/3], Oct. 17, 2006, [120 Stat. 2402][/us/stat/120/2402].)
+(Added [Pub. L. 98–525, title VII][/us/pl/98/525/tVII], § 707(a)(1), Oct. 19, 1984, [98 Stat. 2571][/us/stat/98/2571]; amended [Pub. L. 100–26][/us/pl/100/26], § 7(i)(2), (k)(3), Apr. 21, 1987, [101 Stat. 282][/us/stat/101/282], 284; [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(e)(2), Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859]; [Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 603(d)(2)(A), Nov. 18, 1997, [111 Stat. 1782][/us/stat/111/1782]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 554, Oct. 28, 2004, [118 Stat. 1913][/us/stat/118/1913]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(g)(3), Oct. 17, 2006, [120 Stat. 2402][/us/stat/120/2402].)
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–364][/us/pl/109/364] made technical correction to directory language of [Pub. L. 108–375, § 554(1)][/us/pl/108/375/s554/1]. See 2004 Amendment note below.
+    2006—Subsec. (a). [Pub. L. 109–364][/us/pl/109/364] made technical correction to directory language of [Pub. L. 108–375][/us/pl/108/375], § 554(1). See 2004 Amendment note below.
 
-    2004—Subsec. (a). [Pub. L. 108–375, § 554(2)][/us/pl/108/375/s554/2], inserted at end “The period of a leave of absence granted under this section may not exceed two years, except that the period may exceed two years but may not exceed three years in the case of an eligible member pursuing a program of education in a health care profession.”
+    2004—Subsec. (a). [Pub. L. 108–375][/us/pl/108/375], § 554(2), inserted at end “The period of a leave of absence granted under this section may not exceed two years, except that the period may exceed two years but may not exceed three years in the case of an eligible member pursuing a program of education in a health care profession.”
 
-    [Pub. L. 108–375, § 554(1)][/us/pl/108/375/s554/1], as amended by [Pub. L. 109–364][/us/pl/109/364], struck out “for a period of not to exceed two years” after “leave of absence”.
+    [Pub. L. 108–375][/us/pl/108/375], § 554(1), as amended by [Pub. L. 109–364][/us/pl/109/364], struck out “for a period of not to exceed two years” after “leave of absence”.
 
     2002—Subsec. (a). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
 
@@ -65,13 +65,13 @@
 
     1994—Subsec. (c)(2). [Pub. L. 103–337][/us/pl/103/337] substituted “[section 3021 of title 38][/us/usc/t38/s3021]” for “[section 1421 of title 38][/us/usc/t38/s1421]”.
 
-    1987—Subsec. (d)(1). [Pub. L. 100–26, § 7(i)(2)][/us/pl/100/26/s7/i/2], substituted “October 19, 1984” for “the date of the enactment of this section”.
+    1987—Subsec. (d)(1). [Pub. L. 100–26][/us/pl/100/26], § 7(i)(2), substituted “October 19, 1984” for “the date of the enactment of this section”.
 
-    Subsec. (e). [Pub. L. 100–26, § 7(k)(3)][/us/pl/100/26/s7/k/3], inserted “the term” after “In this section,”.
+    Subsec. (e). [Pub. L. 100–26][/us/pl/100/26], § 7(k)(3), inserted “the term” after “In this section,”.
 
  __Effective Date of 2006 Amendment__ 
 
-    [Pub. L. 109–364, div. A, title X, § 1071(g)][/us/pl/109/364/s1071/g], Oct. 17, 2006, [120 Stat. 2402][/us/stat/120/2402], provided that the amendment made by section 1071(g)(3) is effective as of Oct. 28, 2004, and as if included in [Pub. L. 108–375][/us/pl/108/375] as enacted.
+    [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(g), Oct. 17, 2006, [120 Stat. 2402][/us/stat/120/2402], provided that the amendment made by section 1071(g)(3) is effective as of Oct. 28, 2004, and as if included in [Pub. L. 108–375][/us/pl/108/375] as enacted.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -83,7 +83,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–525, title VII, § 707(b)][/us/pl/98/525/s707/b], Oct. 19, 1984, [98 Stat. 2572][/us/stat/98/2572], provided that: 
+[Pub. L. 98–525, title VII][/us/pl/98/525/tVII], § 707(b), Oct. 19, 1984, [98 Stat. 2572][/us/stat/98/2572], provided that: 
 
 > “[Section 708 of title 10][/us/usc/t10/s708], United States Code, as added by subsection (a), shall take effect on October 1, 1985.”
 
@@ -96,24 +96,24 @@
 
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
 [/us/usc/t38/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3021
-[/us/pl/98/525/s707/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs707%2Fa%2F1
+[/us/pl/98/525/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVII
 [/us/stat/98/2571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2571
-[/us/pl/100/26/s7/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fi%2F2
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F282
-[/us/pl/103/337/s1070/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fe%2F2
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2859
-[/us/pl/105/85/s603/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs603%2Fd%2F2%2FA
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1782
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/108/375/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs554
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1913
-[/us/pl/109/364/s1071/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fg%2F3
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2402
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/108/375/s554/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs554%2F1
-[/us/pl/108/375/s554/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs554%2F2
-[/us/pl/108/375/s554/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs554%2F1
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
@@ -121,9 +121,9 @@
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t38/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3021
 [/us/usc/t38/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1421
-[/us/pl/100/26/s7/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fi%2F2
-[/us/pl/100/26/s7/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fk%2F3
-[/us/pl/109/364/s1071/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fg
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2402
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
@@ -132,7 +132,7 @@
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/105/85/s603/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs603%2Fe
 [/us/usc/t5/s5561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5561
-[/us/pl/98/525/s707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs707%2Fb
+[/us/pl/98/525/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVII
 [/us/stat/98/2572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2572
 [/us/usc/t10/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs708
 

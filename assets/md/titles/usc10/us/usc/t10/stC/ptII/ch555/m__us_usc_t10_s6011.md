@@ -17,7 +17,7 @@
 
     United States Navy Regulations shall be issued by the Secretary of the Navy.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 375][/us/stat/70A/375]; [Pub. L. 97–60, title II, § 204(a)(2)][/us/pl/97/60/s204/a/2], Oct. 14, 1981, [95 Stat. 1007][/us/stat/95/1007].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 375][/us/stat/70A/375]; [Pub. L. 97–60, title II][/us/pl/97/60/tII], § 204(a)(2), Oct. 14, 1981, [95 Stat. 1007][/us/stat/95/1007].)
 
 <table>
 
@@ -71,7 +71,7 @@ R.S. 1547.  </td>
 
  __Navy Regulations Issued Before__  __October 14, 1981__ 
 
-[Pub. L. 97–60, title II, § 204(b)][/us/pl/97/60/s204/b], Oct. 14, 1981, [95 Stat. 1007][/us/stat/95/1007], provided that: 
+[Pub. L. 97–60, title II][/us/pl/97/60/tII], § 204(b), Oct. 14, 1981, [95 Stat. 1007][/us/stat/95/1007], provided that: 
 
 > “United States Navy regulations issued under [section 6011 of title 10][/us/usc/t10/s6011], United States Code, before the date of the enactment of this Act \[Oct. 14, 1981\] shall remain in effect in accordance with their terms until amended or revoked by the Secretary of the Navy.”
 
@@ -88,10 +88,10 @@ R.S. 1547.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F375
-[/us/pl/97/60/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2Fs204%2Fa%2F2
+[/us/pl/97/60/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2FtII
 [/us/stat/95/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1007
 [/us/pl/97/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60
-[/us/pl/97/60/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2Fs204%2Fb
+[/us/pl/97/60/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2FtII
 [/us/stat/95/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1007
 [/us/usc/t10/s6011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6011
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

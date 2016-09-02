@@ -95,23 +95,23 @@
 
             (B) in the case of services, the extent of the services sold.
 
-(Added [Pub. L. 103–337, div. A, title III, § 339(a)(1)][/us/pl/103/337/s339/a/1], Oct. 5, 1994, [108 Stat. 2718][/us/stat/108/2718], § 2553; amended [Pub. L. 106–65, div. A, title III, § 331(a)(2)][/us/pl/106/65/s331/a/2], (b), Oct. 5, 1999, [113 Stat. 566][/us/stat/113/566], 567; renumbered § 2563, [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1033(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–260; [Pub. L. 107–107, div. A, title III, § 343(a)][/us/pl/107/107/s343/a], Dec. 28, 2001, [115 Stat. 1061][/us/stat/115/1061].)
+(Added [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 339(a)(1), Oct. 5, 1994, [108 Stat. 2718][/us/stat/108/2718], § 2553; amended [Pub. L. 106–65, div. A, title III][/us/pl/106/65/dA/tIII], § 331(a)(2), (b), Oct. 5, 1999, [113 Stat. 566][/us/stat/113/566], 567; renumbered § 2563, [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1033(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–260; [Pub. L. 107–107, div. A, title III][/us/pl/107/107/dA/tIII], § 343(a), Dec. 28, 2001, [115 Stat. 1061][/us/stat/115/1061].)
 
  __Amendments__ 
 
-    2001—Subsec. (c)(1)(B). [Pub. L. 107–107, § 343(a)(1)][/us/pl/107/107/s343/a/1], substituted “as provided in paragraph (3)” for “in any case of willful misconduct or gross negligence”.
+    2001—Subsec. (c)(1)(B). [Pub. L. 107–107][/us/pl/107/107], § 343(a)(1), substituted “as provided in paragraph (3)” for “in any case of willful misconduct or gross negligence”.
 
-    Subsec. (c)(3). [Pub. L. 107–107, § 343(a)(2)][/us/pl/107/107/s343/a/2], added par. (3).
+    Subsec. (c)(3). [Pub. L. 107–107][/us/pl/107/107], § 343(a)(2), added par. (3).
 
     2000—[Pub. L. 106–398][/us/pl/106/398] renumbered [section 2553 of this title][/us/usc/t10/s2553] as this section.
 
-    1999—Subsec. (c). [Pub. L. 106–65, § 331(a)(2)][/us/pl/106/65/s331/a/2], designated existing provisions as par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), and added par. (2).
+    1999—Subsec. (c). [Pub. L. 106–65][/us/pl/106/65], § 331(a)(2), designated existing provisions as par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), and added par. (2).
 
-    Subsec. (g)(2), (3). [Pub. L. 106–65, § 331(b)][/us/pl/106/65/s331/b], added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (g)(2), (3). [Pub. L. 106–65][/us/pl/106/65], § 331(b), added par. (2) and redesignated former par. (2) as (3).
 
  __Effective Date__ 
 
-[Pub. L. 103–337, div. A, title III, § 339(b)][/us/pl/103/337/s339/b], Oct. 5, 1994, [108 Stat. 2720][/us/stat/108/2720], provided that: 
+[Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 339(b), Oct. 5, 1994, [108 Stat. 2720][/us/stat/108/2720], provided that: 
 
 > “Section 2553 \[now 2563\] of title 10, United States Code, as added by subsection (a), shall take effect on April 1, 1995.”
 
@@ -124,21 +124,21 @@
 
 [/us/usc/t10/s4543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4543
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
-[/us/pl/103/337/s339/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs339%2Fa%2F1
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2718
-[/us/pl/106/65/s331/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs331%2Fa%2F2
+[/us/pl/106/65/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIII
 [/us/stat/113/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F566
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s343/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs343%2Fa
+[/us/pl/107/107/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIII
 [/us/stat/115/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1061
-[/us/pl/107/107/s343/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs343%2Fa%2F1
-[/us/pl/107/107/s343/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs343%2Fa%2F2
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t10/s2553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2553
-[/us/pl/106/65/s331/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs331%2Fa%2F2
-[/us/pl/106/65/s331/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs331%2Fb
-[/us/pl/103/337/s339/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs339%2Fb
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2720
 
 

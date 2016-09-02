@@ -115,9 +115,9 @@ R.S. 4647.  </td>
 
 </table>
 
-    In subsection (c) the words “on the anniversary of his appointment” are inserted for clarity, as “year” in the context of this section means a year of service as prize commissioner. The words “and shall be credited to the fund for paying naval pensions” are omitted because the [Act of June 26, 1934, ch. 756, § 9][/us/act/1934-06-26/ch756/s9], [48 Stat. 1229][/us/stat/48/1229], abolished the naval pension fund and provided that moneys previously required to be paid into it should be deposited in the Treasury as miscellaneous receipts. The words “as miscellaneous receipts” are omitted as surplusage. The word “amounts” is substituted for the word “sums”.
+    In subsection (c) the words “on the anniversary of his appointment” are inserted for clarity, as “year” in the context of this section means a year of service as prize commissioner. The words “and shall be credited to the fund for paying naval pensions” are omitted because the [Act of June 26, 1934, ch. 756][/us/act/1934-06-26/ch756], § 9, [48 Stat. 1229][/us/stat/48/1229], abolished the naval pension fund and provided that moneys previously required to be paid into it should be deposited in the Treasury as miscellaneous receipts. The words “as miscellaneous receipts” are omitted as surplusage. The word “amounts” is substituted for the word “sums”.
 
-    [34 U.S.C. 1154][/us/usc/t34/s1154] and 1155 and this section reflect the [Act of May 28, 1896, ch. 252, § 6][/us/act/1896-05-28/ch252/s6], [29 Stat. 179][/us/stat/29/179], 180, which provided that United States attorneys should receive fixed annual salaries in lieu of the fees and emoluments previously authorized.
+    [34 U.S.C. 1154][/us/usc/t34/s1154] and 1155 and this section reflect the [Act of May 28, 1896, ch. 252][/us/act/1896-05-28/ch252], § 6, [29 Stat. 179][/us/stat/29/179], 180, which provided that United States attorneys should receive fixed annual salaries in lieu of the fees and emoluments previously authorized.
 
 ----------
 
@@ -128,10 +128,10 @@ R.S. 4647.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F482
-[/us/act/1934-06-26/ch756/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch756%2Fs9
+[/us/act/1934-06-26/ch756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch756
 [/us/stat/48/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1229
 [/us/usc/t34/s1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs1154
-[/us/act/1896-05-28/ch252/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252%2Fs6
+[/us/act/1896-05-28/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252
 [/us/stat/29/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F179
 
 

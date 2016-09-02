@@ -27,7 +27,7 @@
 
     (b) Whenever the beneficiaries on whose behalf the election was made are restricted, under subsection (a), from participating in the annuities provided under this subchapter, the amount withheld from the elector’s retired or retainer pay as a result of an election under this subchapter shall be refunded to the beneficiaries, less the amount of any annuities paid under this subchapter, and in either case without interest.
 
-(Added [Pub. L. 87–381, § 6(1)][/us/pl/87/381/s6/1], Oct. 4, 1961, [75 Stat. 811][/us/stat/75/811]; amended [Pub. L. 90–485, § 1(8)][/us/pl/90/485/s1/8], Aug. 13, 1968, [82 Stat. 754][/us/stat/82/754]; [Pub. L. 92–425, § 1(2)(A)][/us/pl/92/425/s1/2/A], Sept. 21, 1972, [86 Stat. 706][/us/stat/86/706].)
+(Added [Pub. L. 87–381][/us/pl/87/381], § 6(1), Oct. 4, 1961, [75 Stat. 811][/us/stat/75/811]; amended [Pub. L. 90–485][/us/pl/90/485], § 1(8), Aug. 13, 1968, [82 Stat. 754][/us/stat/82/754]; [Pub. L. 92–425][/us/pl/92/425], § 1(2)(A), Sept. 21, 1972, [86 Stat. 706][/us/stat/86/706].)
 
  __Amendments__ 
 
@@ -47,11 +47,11 @@
 ----------
 
 [/us/usc/t10/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1441
-[/us/pl/87/381/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F381%2Fs6%2F1
+[/us/pl/87/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F381
 [/us/stat/75/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F811
-[/us/pl/90/485/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F485%2Fs1%2F8
+[/us/pl/90/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F485
 [/us/stat/82/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F754
-[/us/pl/92/425/s1/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425%2Fs1%2F2%2FA
+[/us/pl/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425
 [/us/stat/86/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F706
 [/us/pl/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425
 [/us/pl/90/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F485

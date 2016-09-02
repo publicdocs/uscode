@@ -103,7 +103,7 @@
 
         (2) The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating, when the Coast Guard is not operating within the Department of the Navy, shall ensure that a member of the armed forces who elects to receive additional training in subjects available under paragraph (1) is able to receive the training.
 
-(Added [Pub. L. 101–510, div. A, title V, § 502(a)(1)][/us/pl/101/510/s502/a/1], Nov. 5, 1990, [104 Stat. 1553][/us/stat/104/1553]; amended [Pub. L. 102–190, div. A, title X, § 1061(a)(6)][/us/pl/102/190/s1061/a/6], Dec. 5, 1991, [105 Stat. 1472][/us/stat/105/1472]; [Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484], §§ 4462(c), 4469, Oct. 23, 1992, [106 Stat. 2740][/us/stat/106/2740], 2752; [Pub. L. 103–337, div. A, title V, § 543(b)][/us/pl/103/337/s543/b], Oct. 5, 1994, [108 Stat. 2769][/us/stat/108/2769]; [Pub. L. 107–103, title III, § 302(b)][/us/pl/107/103/s302/b], Dec. 27, 2001, [115 Stat. 992][/us/stat/115/992]; [Pub. L. 107–107, div. A, title X, § 1048(e)(1)][/us/pl/107/107/s1048/e/1], Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 112–56, title II][/us/pl/112/56], §§ 221(a), 224, 225, Nov. 21, 2011, [125 Stat. 715][/us/stat/125/715], 718; [Pub. L. 113–66, div. A, title V, § 521(a)][/us/pl/113/66/s521/a], Dec. 26, 2013, [127 Stat. 755][/us/stat/127/755]; [Pub. L. 114–92, div. A, title V, § 553][/us/pl/114/92/s553], Nov. 25, 2015, [129 Stat. 823][/us/stat/129/823].)
+(Added [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 502(a)(1), Nov. 5, 1990, [104 Stat. 1553][/us/stat/104/1553]; amended [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1061(a)(6), Dec. 5, 1991, [105 Stat. 1472][/us/stat/105/1472]; [Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], §§ 4462(c), 4469, Oct. 23, 1992, [106 Stat. 2740][/us/stat/106/2740], 2752; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 543(b), Oct. 5, 1994, [108 Stat. 2769][/us/stat/108/2769]; [Pub. L. 107–103, title III][/us/pl/107/103/tIII], § 302(b), Dec. 27, 2001, [115 Stat. 992][/us/stat/115/992]; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(e)(1), Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 112–56, title II][/us/pl/112/56/tII], §§ 221(a), 224, 225, Nov. 21, 2011, [125 Stat. 715][/us/stat/125/715], 718; [Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 521(a), Dec. 26, 2013, [127 Stat. 755][/us/stat/127/755]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 553, Nov. 25, 2015, [129 Stat. 823][/us/stat/129/823].)
 
  __References in Text__ 
 
@@ -117,47 +117,47 @@
 
     2013—Subsec. (b)(9). [Pub. L. 113–66][/us/pl/113/66] added par. (9).
 
-    2011—Subsec. (c). [Pub. L. 112–56, § 221(a)][/us/pl/112/56/s221/a], amended subsec. (c) generally. Prior to amendment, text read as follows: “The Secretary of Defense and the Secretary of Homeland Security shall encourage and otherwise promote maximum participation by members of the armed forces eligible for assistance under the program carried out under this section.”
+    2011—Subsec. (c). [Pub. L. 112–56][/us/pl/112/56], § 221(a), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Secretary of Defense and the Secretary of Homeland Security shall encourage and otherwise promote maximum participation by members of the armed forces eligible for assistance under the program carried out under this section.”
 
-    Subsec. (d)(5). [Pub. L. 112–56, § 224(1)][/us/pl/112/56/s224/1], substituted “public entities;” for “public or private entities; and”.
+    Subsec. (d)(5). [Pub. L. 112–56][/us/pl/112/56], § 224(1), substituted “public entities;” for “public or private entities; and”.
 
-    Subsec. (d)(6), (7). [Pub. L. 112–56, § 224(2)][/us/pl/112/56/s224/2], (3), added par. (6) and redesignated former par. (6) as (7).
+    Subsec. (d)(6), (7). [Pub. L. 112–56][/us/pl/112/56], § 224(2), (3), added par. (6) and redesignated former par. (6) as (7).
 
-    Subsec. (e). [Pub. L. 112–56, § 225][/us/pl/112/56/s225], added subsec. (e).
+    Subsec. (e). [Pub. L. 112–56][/us/pl/112/56], § 225, added subsec. (e).
 
     2002—Subsecs. (a)(1), (2), (b)(4), (c), (d)(2). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
 
     2001—Subsec. (a)(1). [Pub. L. 107–103][/us/pl/107/103], in second sentence, substituted “within the time periods provided under paragraph (3) of [section 1142(a) of this title][/us/usc/t10/s1142/a], except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section” for “during the 180-day period before the member is separated from active duty”.
 
-    Subsec. (a)(3). [Pub. L. 107–107, § 1048(e)(1)(A)][/us/pl/107/107/s1048/e/1/A], struck out at end “The agreement shall be entered into no later than 60 days after the date of the enactment of this section.”
+    Subsec. (a)(3). [Pub. L. 107–107][/us/pl/107/107], § 1048(e)(1)(A), struck out at end “The agreement shall be entered into no later than 60 days after the date of the enactment of this section.”
 
-    Subsec. (e). [Pub. L. 107–107, § 1048(e)(1)(B)][/us/pl/107/107/s1048/e/1/B], struck out heading and text of subsec. (e). Text read as follows:
+    Subsec. (e). [Pub. L. 107–107][/us/pl/107/107], § 1048(e)(1)(B), struck out heading and text of subsec. (e). Text read as follows:
 
     “(1) There is authorized to be appropriated to the Department of Labor to carry out this section $11,000,000 for fiscal year 1993 and $8,000,000 for each of fiscal years 1994 and 1995.
 
     “(2) There is authorized to be appropriated to the Department of Veterans Affairs to carry out this section $6,500,000 for each of fiscal years 1993, 1994, and 1995.”
 
-    1994—Subsec. (a)(1). [Pub. L. 103–337, § 543(b)(1)][/us/pl/103/337/s543/b/1], inserted “, the Secretary of Transportation,” after “Secretary of Defense” and substituted “concerned” for “of a military department”.
+    1994—Subsec. (a)(1). [Pub. L. 103–337][/us/pl/103/337], § 543(b)(1), inserted “, the Secretary of Transportation,” after “Secretary of Defense” and substituted “concerned” for “of a military department”.
 
-    Subsec. (a)(2). [Pub. L. 103–337, § 543(b)(2)][/us/pl/103/337/s543/b/2], inserted “, the Secretary of Transportation,” after “Secretary of Defense”.
+    Subsec. (a)(2). [Pub. L. 103–337][/us/pl/103/337], § 543(b)(2), inserted “, the Secretary of Transportation,” after “Secretary of Defense”.
 
-    Subsec. (b)(4). [Pub. L. 103–337, § 543(b)(3)][/us/pl/103/337/s543/b/3], substituted “Department of Defense and the Department of Transportation are” for “Department of Defense is”.
+    Subsec. (b)(4). [Pub. L. 103–337][/us/pl/103/337], § 543(b)(3), substituted “Department of Defense and the Department of Transportation are” for “Department of Defense is”.
 
-    Subsec. (c). [Pub. L. 103–337, § 543(b)(4)][/us/pl/103/337/s543/b/4], inserted “and the Secretary of Transportation” after “Secretary of Defense”.
+    Subsec. (c). [Pub. L. 103–337][/us/pl/103/337], § 543(b)(4), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
 
-    Subsec. (d)(2). [Pub. L. 103–337, § 543(b)(5)][/us/pl/103/337/s543/b/5], inserted “and the Department of Transportation” after “Department of Defense”.
+    Subsec. (d)(2). [Pub. L. 103–337][/us/pl/103/337], § 543(b)(5), inserted “and the Department of Transportation” after “Department of Defense”.
 
-    1992—Subsec. (b)(8). [Pub. L. 102–484, § 4462(c)][/us/pl/102/484/s4462/c], added par. (8).
+    1992—Subsec. (b)(8). [Pub. L. 102–484][/us/pl/102/484], § 4462(c), added par. (8).
 
-    Subsec. (e)(1). [Pub. L. 102–484, § 4469(1)][/us/pl/102/484/s4469/1], substituted “$11,000,000 for fiscal year 1993 and $8,000,000 for each of fiscal years 1994 and 1995” for “$4,000,000 for fiscal year 1991 and $9,000,000 for each of fiscal years 1992 and 1993”.
+    Subsec. (e)(1). [Pub. L. 102–484][/us/pl/102/484], § 4469(1), substituted “$11,000,000 for fiscal year 1993 and $8,000,000 for each of fiscal years 1994 and 1995” for “$4,000,000 for fiscal year 1991 and $9,000,000 for each of fiscal years 1992 and 1993”.
 
-    Subsec. (e)(2). [Pub. L. 102–484, § 4469(2)][/us/pl/102/484/s4469/2], substituted “$6,500,000 for each of fiscal years 1993, 1994, and 1995” for “$1,000,000 for fiscal year 1991 and $4,000,000 for each of fiscal years 1992 and 1993”.
+    Subsec. (e)(2). [Pub. L. 102–484][/us/pl/102/484], § 4469(2), substituted “$6,500,000 for each of fiscal years 1993, 1994, and 1995” for “$1,000,000 for fiscal year 1991 and $4,000,000 for each of fiscal years 1992 and 1993”.
 
-    1991—Subsec. (b)(1). [Pub. L. 102–190, § 1061(a)(6)(A)][/us/pl/102/190/s1061/a/6/A], substituted “resumé” for “resume” in cl. (C).
+    1991—Subsec. (b)(1). [Pub. L. 102–190][/us/pl/102/190], § 1061(a)(6)(A), substituted “resumé” for “resume” in cl. (C).
 
-    Subsec. (b)(3). [Pub. L. 102–190, § 1061(a)(6)(B)][/us/pl/102/190/s1061/a/6/B], substituted “veterans’ service organizations” for “veterans service organization” and “armed forces” for “Armed Forces”.
+    Subsec. (b)(3). [Pub. L. 102–190][/us/pl/102/190], § 1061(a)(6)(B), substituted “veterans’ service organizations” for “veterans service organization” and “armed forces” for “Armed Forces”.
 
-    Subsec. (b)(6). [Pub. L. 102–190, § 1061(a)(6)(C)][/us/pl/102/190/s1061/a/6/C], substituted “those areas” for “such area”.
+    Subsec. (b)(6). [Pub. L. 102–190][/us/pl/102/190], § 1061(a)(6)(C), substituted “those areas” for “such area”.
 
  __Effective Date of 2011 Amendment__ 
 
@@ -169,7 +169,7 @@
 
  __Enhancement of Information Provided to Members of the Armed Forces and Veterans Regarding Use of Post-9/11 Educational Assistance and Federal Financial Aid Through Transition Assistance Program__ 
 
-[Pub. L. 113–291, div. A, title V, § 557][/us/pl/113/291/s557], Dec. 19, 2014, [128 Stat. 3381][/us/stat/128/3381], provided that:
+[Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 557, Dec. 19, 2014, [128 Stat. 3381][/us/stat/128/3381], provided that:
 
 >     “(a) __Additional Information Required.—__ 
 
@@ -223,7 +223,7 @@
 
  __Procedures for Provision of Certain Information to State Veterans Agencies To Facilitate the Transition of Members of the Armed Forces From Military Service to Civilian Life__ 
 
-[Pub. L. 113–291, div. A, title V, § 558][/us/pl/113/291/s558], Dec. 19, 2014, [128 Stat. 3382][/us/stat/128/3382], provided that:
+[Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 558, Dec. 19, 2014, [128 Stat. 3382][/us/stat/128/3382], provided that:
 
 >     “(a)  __Procedures Required__  __.—__ 
 
@@ -273,13 +273,13 @@
 
  __Deadline for Implementation__ 
 
-[Pub. L. 113–66, div. A, title V, § 521(b)][/us/pl/113/66/s521/b], Dec. 26, 2013, [127 Stat. 755][/us/stat/127/755], provided that: 
+[Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 521(b), Dec. 26, 2013, [127 Stat. 755][/us/stat/127/755], provided that: 
 
 > “The program carried out under [section 1144 of title 10][/us/usc/t10/s1144], United States Code, shall comply with the requirements of subsection (b)(9) of such section, as added by subsection (a), by not later than April 1, 2015.”
 
  __Off-Base Transition Training for Veterans and Their Spouses__ 
 
-[Pub. L. 112–260, title III, § 301][/us/pl/112/260/s301], Jan. 10, 2013, [126 Stat. 2424][/us/stat/126/2424], provided that:
+[Pub. L. 112–260, title III][/us/pl/112/260/tIII], § 301, Jan. 10, 2013, [126 Stat. 2424][/us/stat/126/2424], provided that:
 
 >     “(a)  __Provision of Off-base Transition Training__  __.—__ 
 
@@ -321,7 +321,7 @@
 
  __Individualized Assessment for Members of the Armed Forces Under Transition Assistance on Equivalence Between Skills Developed in Military Occupational Specialties and Qualifications Required for Civilian Employment With the Private Sector__ 
 
-[Pub. L. 112–56, title II, § 222][/us/pl/112/56/s222], Nov. 21, 2011, [125 Stat. 716][/us/stat/125/716], provided that:
+[Pub. L. 112–56, title II][/us/pl/112/56/tII], § 222, Nov. 21, 2011, [125 Stat. 716][/us/stat/125/716], provided that:
 
 >     “(a) __Study on Equivalence Required.—__ 
 
@@ -377,7 +377,7 @@
 
  __Implementation Reports__ 
 
-    [Pub. L. 101–510, div. A, title V, § 502(c)][/us/pl/101/510/s502/c], Nov. 5, 1990, [104 Stat. 1557][/us/stat/104/1557], directed the Secretary of Labor to submit to Congress a report, not later than 90 days after Nov. 5, 1990, setting forth the agreement entered into to carry out this section, and a report, not later than one year after Nov. 5, 1990, containing an evaluation of the program carried out under this section.
+    [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 502(c), Nov. 5, 1990, [104 Stat. 1557][/us/stat/104/1557], directed the Secretary of Labor to submit to Congress a report, not later than 90 days after Nov. 5, 1990, setting forth the agreement entered into to carry out this section, and a report, not later than one year after Nov. 5, 1990, containing an evaluation of the program carried out under this section.
 
 ----------
 
@@ -393,25 +393,25 @@
 [/us/usc/t10/s1143a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1143a
 [/us/stat/50/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F664
 [/us/usc/t29/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs50
-[/us/pl/101/510/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs502%2Fa%2F1
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1553
-[/us/pl/102/190/s1061/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fa%2F6
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1472
-[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2740
-[/us/pl/103/337/s543/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fb
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2769
-[/us/pl/107/103/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2Fs302%2Fb
+[/us/pl/107/103/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103%2FtIII
 [/us/stat/115/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F992
-[/us/pl/107/107/s1048/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fe%2F1
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1227
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
+[/us/pl/112/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2FtII
 [/us/stat/125/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F715
-[/us/pl/113/66/s521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs521%2Fa
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F755
-[/us/pl/114/92/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs553
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F823
 [/us/pl/101/237/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs408
 [/us/usc/t38/s4100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4100
@@ -420,51 +420,51 @@
 [/us/usc/t29/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs50
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/112/56/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs221%2Fa
-[/us/pl/112/56/s224/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs224%2F1
-[/us/pl/112/56/s224/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs224%2F2
-[/us/pl/112/56/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs225
+[/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
+[/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
+[/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
+[/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F103
 [/us/usc/t10/s1142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1142%2Fa
-[/us/pl/107/107/s1048/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fe%2F1%2FA
-[/us/pl/107/107/s1048/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fe%2F1%2FB
-[/us/pl/103/337/s543/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fb%2F1
-[/us/pl/103/337/s543/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fb%2F2
-[/us/pl/103/337/s543/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fb%2F3
-[/us/pl/103/337/s543/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fb%2F4
-[/us/pl/103/337/s543/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fb%2F5
-[/us/pl/102/484/s4462/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4462%2Fc
-[/us/pl/102/484/s4469/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4469%2F1
-[/us/pl/102/484/s4469/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4469%2F2
-[/us/pl/102/190/s1061/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fa%2F6%2FA
-[/us/pl/102/190/s1061/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fa%2F6%2FB
-[/us/pl/102/190/s1061/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fa%2F6%2FC
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/112/56/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs221%2Fa
 [/us/pl/112/56/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs221%2Fc
 [/us/usc/t10/s1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1142
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/113/291/s557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs557
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3381
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
 [/us/usc/t38/s3452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3452
 [/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
-[/us/pl/113/291/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs558
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3382
-[/us/pl/113/66/s521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs521%2Fb
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F755
 [/us/usc/t10/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1144
-[/us/pl/112/260/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs301
+[/us/pl/112/260/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2FtIII
 [/us/stat/126/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2424
 [/us/usc/t10/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1144
 [/us/usc/t10/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1144
-[/us/pl/112/56/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs222
+[/us/pl/112/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2FtII
 [/us/stat/125/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F716
-[/us/pl/101/510/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs502%2Fc
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1557
 
 

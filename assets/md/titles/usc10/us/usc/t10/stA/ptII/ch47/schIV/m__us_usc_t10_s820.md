@@ -17,7 +17,7 @@
 
     Subject to [section 817 of this title][/us/usc/t10/s817] (article 17), summary courts-martial have jurisdiction to try persons subject to this chapter, except officers, cadets, aviation cadets, and midshipmen, for any noncapital offense made punishable by this chapter. No person with respect to whom summary courts-martial have jurisdiction may be brought to trial before a summary court-martial if he objects thereto. If objection to trial by summary court-martial is made by an accused, trial may be ordered by special or general court-martial as may be appropriate. Summary courts-martial may, under such limitations as the President may prescribe, adjudge any punishment not forbidden by this chapter except death, dismissal, dishonorable or bad-conduct discharge, confinement for more than one month, hard-labor without confinement for more than 45 days, restriction to specified limits for more than two months, or forfeiture of more than two-thirds of one month’s pay.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 43][/us/stat/70A/43]; [Pub. L. 90–632, § 2(6)][/us/pl/90/632/s2/6], Oct. 24, 1968, [82 Stat. 1336][/us/stat/82/1336].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 43][/us/stat/70A/43]; [Pub. L. 90–632][/us/pl/90/632], § 2(6), Oct. 24, 1968, [82 Stat. 1336][/us/stat/82/1336].)
 
 <table>
 
@@ -83,7 +83,7 @@ May 5, 1950, ch. 169, § 1 (Art. 20), 64 Stat. 114.  </td>
 [/us/usc/t10/s817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs817
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F43
-[/us/pl/90/632/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F6
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1336
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632

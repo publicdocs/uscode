@@ -59,7 +59,7 @@
 
         (8) Leading the development of improved analytical skills and competencies within the cost assessment and program evaluation workforce of the Department of Defense and improved tools, data, and methods to promote performance, economy, and efficiency in analyzing national security planning and the allocation of defense resources.
 
-(Added [Pub. L. 111–23, title I, § 101(a)(1)][/us/pl/111/23/s101/a/1], May 22, 2009, [123 Stat. 1705][/us/stat/123/1705], § 139c; renumbered § 139a and amended [Pub. L. 111–383, div. A, title IX, § 901(f)][/us/pl/111/383/s901/f], title X, § 1075(b)(5), Jan. 7, 2011, [124 Stat. 4322][/us/stat/124/4322], 4369; [Pub. L. 112–239, div. A, title X, § 1076(f)(4)][/us/pl/112/239/s1076/f/4], Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952].)
+(Added [Pub. L. 111–23, title I][/us/pl/111/23/tI], § 101(a)(1), May 22, 2009, [123 Stat. 1705][/us/stat/123/1705], § 139c; renumbered § 139a and amended [Pub. L. 111–383, div. A, title IX][/us/pl/111/383/dA/tIX], § 901(f), title X, § 1075(b)(5), Jan. 7, 2011, [124 Stat. 4322][/us/stat/124/4322], 4369; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(f)(4), Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952].)
 
  __Prior Provisions__ 
 
@@ -69,11 +69,11 @@
 
  __Amendments__ 
 
-    2013—Subsec. (d)(4). [Pub. L. 112–239][/us/pl/112/239], which directed amendment of par. (4) by inserting a period at end, was not executed to reflect the probable intent of Congress and the prior amendment by [Pub. L. 111–383, § 1075(b)(5)][/us/pl/111/383/s1075/b/5]. See 2011 Amendment note below.
+    2013—Subsec. (d)(4). [Pub. L. 112–239][/us/pl/112/239], which directed amendment of par. (4) by inserting a period at end, was not executed to reflect the probable intent of Congress and the prior amendment by [Pub. L. 111–383][/us/pl/111/383], § 1075(b)(5). See 2011 Amendment note below.
 
-    2011—[Pub. L. 111–383, § 901(f)][/us/pl/111/383/s901/f], renumbered [section 139c of this title][/us/usc/t10/s139c] as this section.
+    2011—[Pub. L. 111–383][/us/pl/111/383], § 901(f), renumbered [section 139c of this title][/us/usc/t10/s139c] as this section.
 
-    Subsec. (d)(4). [Pub. L. 111–383, § 1075(b)(5)][/us/pl/111/383/s1075/b/5], which directed amendment of [section 139c of this title][/us/usc/t10/s139c] by inserting a period at the end of subsec. (d)(4), was executed to this section, to reflect the probable intent of Congress and the renumbering of [section 139c of this title][/us/usc/t10/s139c] as this section by [Pub. L. 111–383, § 901(f)][/us/pl/111/383/s901/f]. See above.
+    Subsec. (d)(4). [Pub. L. 111–383][/us/pl/111/383], § 1075(b)(5), which directed amendment of [section 139c of this title][/us/usc/t10/s139c] by inserting a period at the end of subsec. (d)(4), was executed to this section, to reflect the probable intent of Congress and the renumbering of [section 139c of this title][/us/usc/t10/s139c] as this section by [Pub. L. 111–383][/us/pl/111/383], § 901(f). See above.
 
  __Effective Date of 2011 Amendment__ 
 
@@ -81,7 +81,7 @@
 
  __Transfer of Personnel and Functions__ 
 
-[Pub. L. 111–23, title I, § 101(c)][/us/pl/111/23/s101/c], May 22, 2009, [123 Stat. 1709][/us/stat/123/1709], provided that:
+[Pub. L. 111–23, title I][/us/pl/111/23/tI], § 101(c), May 22, 2009, [123 Stat. 1709][/us/stat/123/1709], provided that:
 
 >     “(1)  __Transfer of functions__  __.—__ 
 
@@ -106,26 +106,26 @@
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
 [/us/usc/t10/s2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2334
 [/us/usc/t10/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs181
-[/us/pl/111/23/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs101%2Fa%2F1
+[/us/pl/111/23/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2FtI
 [/us/stat/123/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1705
-[/us/pl/111/383/s901/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Ff
+[/us/pl/111/383/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIX
 [/us/stat/124/4322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4322
-[/us/pl/112/239/s1076/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F4
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1952
 [/us/usc/t10/s138b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138b
 [/us/usc/t10/s2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/111/383/s1075/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F5
-[/us/pl/111/383/s901/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Ff
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s139c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139c
-[/us/pl/111/383/s1075/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F5
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s139c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139c
 [/us/usc/t10/s139c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139c
-[/us/pl/111/383/s901/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Ff
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/383/s901/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Ff
 [/us/pl/111/383/s901/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fp
 [/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
-[/us/pl/111/23/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs101%2Fc
+[/us/pl/111/23/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2FtI
 [/us/stat/123/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1709
 
 

@@ -91,7 +91,7 @@
 
  __Amendments__ 
 
-    2001—[Pub. L. 107–107, div. A, title V, § 517(f)(2)][/us/pl/107/107/s517/f/2], Dec. 28, 2001, [115 Stat. 1096][/us/stat/115/1096], added item 12108.
+    2001—[Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 517(f)(2), Dec. 28, 2001, [115 Stat. 1096][/us/stat/115/1096], added item 12108.
 
 ----------
 
@@ -100,7 +100,7 @@
 ----------
 ----------
 
-[/us/pl/107/107/s517/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs517%2Ff%2F2
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1096
 
 

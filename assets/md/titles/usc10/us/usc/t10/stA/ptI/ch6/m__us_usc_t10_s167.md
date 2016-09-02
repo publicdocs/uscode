@@ -165,7 +165,7 @@
 
         (2) Before the budget proposal for a military department for any fiscal year is submitted to the Secretary of Defense, the Secretary of that military department shall consult with the commander of the special operations command concerning funding for special operations forces in the military personnel budget for a reserve component in that military department. If the commander of that command does not concur in the recommended level of funding with respect to reserve component special operations units, the Secretary shall include with the budget proposal submitted to the Secretary of Defense the views of the commander of that command.
 
-(Added [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title IX, § 9115(b)(1)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–122, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title IX, § 9115(b)(1)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–122; [Pub. L. 99–661, div. A, title XIII, § 1311(b)(1)][/us/pl/99/661/s1311/b/1], Nov. 14, 1986, [100 Stat. 3983][/us/stat/100/3983]; amended [Pub. L. 100–180, div. A, title XII, § 1211(d)][/us/pl/100/180/s1211/d], Dec. 4, 1987, [101 Stat. 1156][/us/stat/101/1156]; [Pub. L. 100–456, div. A, title VII, § 712][/us/pl/100/456/s712], Sept. 29, 1988, [102 Stat. 1997][/us/stat/102/1997]; [Pub. L. 102–88, title VI, § 602(c)(3)][/us/pl/102/88/s602/c/3], Aug. 14, 1991, [105 Stat. 444][/us/stat/105/444]; [Pub. L. 103–337, div. A, title IX, § 925][/us/pl/103/337/s925], Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832]; [Pub. L. 110–181, div. A, title VIII, § 810][/us/pl/110/181/s810], Jan. 28, 2008, [122 Stat. 217][/us/stat/122/217]; [Pub. L. 112–81, div. A, title X, § 1086(1)][/us/pl/112/81/s1086/1], Dec. 31, 2011, [125 Stat. 1603][/us/stat/125/1603]; [Pub. L. 113–66, div. A, title IX, § 903][/us/pl/113/66/s903], Dec. 26, 2013, [127 Stat. 816][/us/stat/127/816]; [Pub. L. 113–291, div. A, title X, § 1071(c)(3)][/us/pl/113/291/s1071/c/3], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
+(Added [Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title IX, § 9115(b)(1)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–122, and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title IX, § 9115(b)(1)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–122; [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1311(b)(1), Nov. 14, 1986, [100 Stat. 3983][/us/stat/100/3983]; amended [Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1211(d), Dec. 4, 1987, [101 Stat. 1156][/us/stat/101/1156]; [Pub. L. 100–456, div. A, title VII][/us/pl/100/456/dA/tVII], § 712, Sept. 29, 1988, [102 Stat. 1997][/us/stat/102/1997]; [Pub. L. 102–88, title VI][/us/pl/102/88/tVI], § 602(c)(3), Aug. 14, 1991, [105 Stat. 444][/us/stat/105/444]; [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 925, Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832]; [Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 810, Jan. 28, 2008, [122 Stat. 217][/us/stat/122/217]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1086(1), Dec. 31, 2011, [125 Stat. 1603][/us/stat/125/1603]; [Pub. L. 113–66, div. A, title IX][/us/pl/113/66/dA/tIX], § 903, Dec. 26, 2013, [127 Stat. 816][/us/stat/127/816]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(c)(3), Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
 
  __References in Text__ 
 
@@ -227,13 +227,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title IX, § 9115(i)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–125, [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title IX, § 9115(i)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–125, and [Pub. L. 99–661, div. A, title XIII, § 1311(i)][/us/pl/99/661/s1311/i], Nov. 14, 1986, [100 Stat. 3986][/us/stat/100/3986], provided that: 
+[Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title IX, § 9115(i)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–125, [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title IX, § 9115(i)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–125, and [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1311(i), Nov. 14, 1986, [100 Stat. 3986][/us/stat/100/3986], provided that: 
 
 > “[Section 167 of title 10][/us/usc/t10/s167], United States Code (as added by subsection (b)), shall be implemented not later than 180 days after the date of the enactment of this Act \[Oct. 18, 1986\].”
 
  __Memoranda of Agreement on Identification and Dedication of Enabling Capabilities of General Purpose Forces to Fulfill Certain Requirements of Special Operations Forces__ 
 
-[Pub. L. 112–81, div. A, title IX, § 904][/us/pl/112/81/s904], Dec. 31, 2011, [125 Stat. 1533][/us/stat/125/1533], provided that:
+[Pub. L. 112–81, div. A, title IX][/us/pl/112/81/dA/tIX], § 904, Dec. 31, 2011, [125 Stat. 1533][/us/stat/125/1533], provided that:
 
 >     “(a)  __Requirement__  __.—__ 
 
@@ -245,11 +245,11 @@
 
  __Counterterrorism Operational Briefing Requirement__ 
 
-    [Pub. L. 112–81, div. A, title X, § 1031][/us/pl/112/81/s1031], Dec. 31, 2011, [125 Stat. 1570][/us/stat/125/1570], required the Secretary of Defense, beginning not later than March 1, 2012, to provide to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives quarterly briefings outlining Department of Defense counterterrorism operations and related activities involving special operations forces, prior to repeal by [Pub. L. 113–66, div. A, title X, § 1042(b)][/us/pl/113/66/s1042/b], Dec. 26, 2013, [127 Stat. 857][/us/stat/127/857].
+    [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1031, Dec. 31, 2011, [125 Stat. 1570][/us/stat/125/1570], required the Secretary of Defense, beginning not later than March 1, 2012, to provide to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives quarterly briefings outlining Department of Defense counterterrorism operations and related activities involving special operations forces, prior to repeal by [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1042(b), Dec. 26, 2013, [127 Stat. 857][/us/stat/127/857].
 
  __Quarterly Reports on Use of Combat Mission Requirements Funds__ 
 
-[Pub. L. 111–383, div. A, title I, § 123][/us/pl/111/383/s123], Jan. 7, 2011, [124 Stat. 4158][/us/stat/124/4158], as amended by [Pub. L. 112–81, div. A, title I, § 145][/us/pl/112/81/s145], Dec. 31, 2011, [125 Stat. 1326][/us/stat/125/1326], provided that:
+[Pub. L. 111–383, div. A, title I][/us/pl/111/383/dA/tI], § 123, Jan. 7, 2011, [124 Stat. 4158][/us/stat/124/4158], as amended by [Pub. L. 112–81, div. A, title I][/us/pl/112/81/dA/tI], § 145, Dec. 31, 2011, [125 Stat. 1326][/us/stat/125/1326], provided that:
 
 >     “(a) __Quarterly Reports Required.—__ 
 
@@ -299,7 +299,7 @@
 
  __Resources for CINCSOF__ 
 
-[Pub. L. 100–180, div. A, title XII, § 1211(b)][/us/pl/100/180/s1211/b], Dec. 4, 1987, [101 Stat. 1155][/us/stat/101/1155], as amended by [Pub. L. 104–106, div. A, title IX, § 903(f)(5)][/us/pl/104/106/s903/f/5], Feb. 10, 1996, [110 Stat. 402][/us/stat/110/402]; [Pub. L. 104–201, div. A, title IX, § 901][/us/pl/104/201/s901], Sept. 23, 1996, [110 Stat. 2617][/us/stat/110/2617], provided that: 
+[Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1211(b), Dec. 4, 1987, [101 Stat. 1155][/us/stat/101/1155], as amended by [Pub. L. 104–106, div. A, title IX][/us/pl/104/106/dA/tIX], § 903(f)(5), Feb. 10, 1996, [110 Stat. 402][/us/stat/110/402]; [Pub. L. 104–201, div. A, title IX][/us/pl/104/201/dA/tIX], § 901, Sept. 23, 1996, [110 Stat. 2617][/us/stat/110/2617], provided that: 
 
 > “The Secretary of Defense shall provide sufficient resources for the commander of the unified combatant command for special operations forces established pursuant to [section 167 of title 10][/us/usc/t10/s167], United States Code, to carry out his duties and responsibilities, including particularly his duties and responsibilities relating to the following functions:
 
@@ -311,11 +311,11 @@
 
  __Major Force Program Category; Program and Budget Execution; Grade for Commanders of Certain Area Special Operations Commands__ 
 
-    [Pub. L. 102–484, div. A, title IX, § 936(a)][/us/pl/102/484/s936/a], (b), Oct. 23, 1992, [106 Stat. 2479][/us/stat/106/2479], provided that, during the period beginning on Feb. 1, 1993, and ending on Feb. 1, 1995, the provisions of [Pub. L. 99–661, § 1311(e)][/us/pl/99/661/s1311/e], set out below, would apply as if the Secretary of Defense had designated the United States Southern Command and the United States Central Command for the purposes of that section, and required the Secretary of Defense to submit to Congress a report setting forth the Secretary’s recommendations for the grade structure for the special operations forces component commander for each unified command not later than Mar. 1, 1994.
+    [Pub. L. 102–484, div. A, title IX][/us/pl/102/484/dA/tIX], § 936(a), (b), Oct. 23, 1992, [106 Stat. 2479][/us/stat/106/2479], provided that, during the period beginning on Feb. 1, 1993, and ending on Feb. 1, 1995, the provisions of [Pub. L. 99–661][/us/pl/99/661], § 1311(e), set out below, would apply as if the Secretary of Defense had designated the United States Southern Command and the United States Central Command for the purposes of that section, and required the Secretary of Defense to submit to Congress a report setting forth the Secretary’s recommendations for the grade structure for the special operations forces component commander for each unified command not later than Mar. 1, 1994.
 
-    [Pub. L. 100–180, div. A, title XII, § 1211(e)][/us/pl/100/180/s1211/e], Dec. 4, 1987, [101 Stat. 1156][/us/stat/101/1156], directed that the major force program category for special operations forces of the Five-Year Defense Plan of the Department of Defense created pursuant to [Pub. L. 99–661, § 1311(c)][/us/pl/99/661/s1311/c], set out below, was to be created not later than 30 days after Dec. 4, 1987, and required the Secretary of Defense to submit to committees of Congress on such date a report explaining the program recommendations and budget proposals included in such category and a certification that all program recommendations and budget proposals for special operations forces had been included.
+    [Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1211(e), Dec. 4, 1987, [101 Stat. 1156][/us/stat/101/1156], directed that the major force program category for special operations forces of the Five-Year Defense Plan of the Department of Defense created pursuant to [Pub. L. 99–661][/us/pl/99/661], § 1311(c), set out below, was to be created not later than 30 days after Dec. 4, 1987, and required the Secretary of Defense to submit to committees of Congress on such date a report explaining the program recommendations and budget proposals included in such category and a certification that all program recommendations and budget proposals for special operations forces had been included.
 
-[Pub. L. 99–661, div. A, title XIII, § 1311(c)][/us/pl/99/661/s1311/c]–(e), Nov. 14, 1986, [100 Stat. 3985][/us/stat/100/3985], 3986, provided that:
+[Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1311(c)–(e), Nov. 14, 1986, [100 Stat. 3985][/us/stat/100/3985], 3986, provided that:
 
 >     “(c)  __Major Force Program Category__  __.—__ 
 
@@ -329,11 +329,11 @@
 
 >     The commander of the special operations command of the United States European Command, the United States Pacific Command, and any other unified combatant command that the Secretary of Defense may designate for the purposes of this section shall be of general or flag officer grade.”
 
-    \[Identical provisions were contained in section 101(c) \[§ 9115(c)–(e)\] of [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], which was repealed by [Pub. L. 102–484, div. A, title IX, § 936(c)][/us/pl/102/484/s936/c], Oct. 23, 1992, [106 Stat. 2479][/us/stat/106/2479].\]
+    \[Identical provisions were contained in section 101(c) \[§ 9115(c)–(e)\] of [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], which was repealed by [Pub. L. 102–484, div. A, title IX][/us/pl/102/484/dA/tIX], § 936(c), Oct. 23, 1992, [106 Stat. 2479][/us/stat/106/2479].\]
 
  __Report on Capabilities of United States To Conduct Special Operations and Engage in Low Intensity Conflicts__ 
 
-    [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title IX, § 9115(h)(2)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–125, [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title IX, § 9115(h)(2)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–125, and [Pub. L. 99–661, div. A, title XIII, § 1311(h)(2)][/us/pl/99/661/s1311/h/2], Nov. 14, 1986, [100 Stat. 3986][/us/stat/100/3986], required President, not later than one year after the date of enactment, to transmit to Congress a report on capabilities of United States to conduct special operations and engage in low intensity conflicts, the report to include a description of deficiencies in such capabilities, actions being taken throughout executive branch to correct such deficiencies, the principal low intensity conflict threats to interests of United States, and the actions taken and to be taken to implement this section.
+    [Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title IX, § 9115(h)(2)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–125, [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title IX, § 9115(h)(2)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–125, and [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1311(h)(2), Nov. 14, 1986, [100 Stat. 3986][/us/stat/100/3986], required President, not later than one year after the date of enactment, to transmit to Congress a report on capabilities of United States to conduct special operations and engage in low intensity conflicts, the report to include a description of deficiencies in such capabilities, actions being taken throughout executive branch to correct such deficiencies, the principal low intensity conflict threats to interests of United States, and the actions taken and to be taken to implement this section.
 
 ----------
 
@@ -346,27 +346,27 @@
 [/us/usc/t10/s164/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs164%2Fc
 [/us/usc/t10/s166/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs166%2Fb
 [/us/usc/t50/s3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3091
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661/s1311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1311%2Fb%2F1
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3983
-[/us/pl/100/180/s1211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1211%2Fd
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1156
-[/us/pl/100/456/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs712
+[/us/pl/100/456/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVII
 [/us/stat/102/1997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1997
-[/us/pl/102/88/s602/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs602%2Fc%2F3
+[/us/pl/102/88/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2FtVI
 [/us/stat/105/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F444
-[/us/pl/103/337/s925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs925
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2832
-[/us/pl/110/181/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs810
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F217
-[/us/pl/112/81/s1086/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1086%2F1
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1603
-[/us/pl/113/66/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs903
+[/us/pl/113/66/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIX
 [/us/stat/127/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F816
-[/us/pl/113/291/s1071/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F3
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
@@ -388,47 +388,47 @@
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/usc/t10/s164/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs164%2Fc
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661/s1311/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1311%2Fi
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3986
 [/us/usc/t10/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs167
-[/us/pl/112/81/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs904
+[/us/pl/112/81/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIX
 [/us/stat/125/1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1533
-[/us/pl/112/81/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1031
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1570
-[/us/pl/113/66/s1042/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1042%2Fb
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F857
-[/us/pl/111/383/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs123
+[/us/pl/111/383/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtI
 [/us/stat/124/4158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4158
-[/us/pl/112/81/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs145
+[/us/pl/112/81/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtI
 [/us/stat/125/1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1326
-[/us/pl/100/180/s1211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1211%2Fb
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1155
-[/us/pl/104/106/s903/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs903%2Ff%2F5
+[/us/pl/104/106/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIX
 [/us/stat/110/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F402
-[/us/pl/104/201/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs901
+[/us/pl/104/201/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIX
 [/us/stat/110/2617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2617
 [/us/usc/t10/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs167
-[/us/pl/102/484/s936/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs936%2Fa
+[/us/pl/102/484/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIX
 [/us/stat/106/2479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2479
-[/us/pl/99/661/s1311/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1311%2Fe
-[/us/pl/100/180/s1211/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1211%2Fe
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1156
-[/us/pl/99/661/s1311/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1311%2Fc
-[/us/pl/99/661/s1311/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1311%2Fc
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3985
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
-[/us/pl/102/484/s936/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs936%2Fc
+[/us/pl/102/484/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIX
 [/us/stat/106/2479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2479
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661/s1311/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1311%2Fh%2F2
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3986
 
 

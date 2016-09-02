@@ -119,7 +119,7 @@
 
         (4) In this subsection, the term “cadet strength limit” means the authorized maximum strength of Air Force Cadets of the Academy.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 563][/us/stat/70A/563]; [Pub. L. 87–663, § 1(5)][/us/pl/87/663/s1/5], (6), Sept. 14, 1962, [76 Stat. 547][/us/stat/76/547]; [Pub. L. 88–276, § 4(1)][/us/pl/88/276/s4/1], Mar. 3, 1964, [78 Stat. 151][/us/stat/78/151]; [Pub. L. 89–650, § 1(1)][/us/pl/89/650/s1/1]–(3), (5), Oct. 13, 1966, [80 Stat. 896][/us/stat/80/896]; [Pub. L. 90–374][/us/pl/90/374], July 5, 1968, [82 Stat. 283][/us/stat/82/283]; [Pub. L. 90–623, § 2(8)][/us/pl/90/623/s2/8], Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 91–405, title II, § 204(c)][/us/pl/91/405/s204/c], Sept. 22, 1970, [84 Stat. 852][/us/stat/84/852]; [Pub. L. 92–365, § 1(3)][/us/pl/92/365/s1/3], Aug. 7, 1972, [86 Stat. 505][/us/stat/86/505]; [Pub. L. 93–171, § 3(1)][/us/pl/93/171/s3/1]–(4), Nov. 29, 1973, [87 Stat. 690][/us/stat/87/690]; [Pub. L. 94–106, title VIII, § 803(b)(1)][/us/pl/94/106/s803/b/1], Oct. 7, 1975, [89 Stat. 538][/us/stat/89/538]; [Pub. L. 96–513, title V, § 514(11)][/us/pl/96/513/s514/11], Dec. 12, 1980, [94 Stat. 2935][/us/stat/94/2935]; [Pub. L. 96–600, § 2(c)][/us/pl/96/600/s2/c], Dec. 24, 1980, [94 Stat. 3493][/us/stat/94/3493]; [Pub. L. 97–60, title II, § 203(c)(1)][/us/pl/97/60/s203/c/1], Oct. 14, 1981, [95 Stat. 1006][/us/stat/95/1006]; [Pub. L. 98–94, title X, § 1005(a)(3)][/us/pl/98/94/s1005/a/3], (b)(3), Sept. 24, 1983, [97 Stat. 660][/us/stat/97/660], 661; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 101–510, div. A, title V, § 532(c)(1)][/us/pl/101/510/s532/c/1], Nov. 5, 1990, [104 Stat. 1563][/us/stat/104/1563]; [Pub. L. 103–160, div. A, title V, § 531][/us/pl/103/160/s531], Nov. 30, 1993, [107 Stat. 1657][/us/stat/107/1657]; [Pub. L. 103–337, div. A, title XVI, § 1674(c)(3)][/us/pl/103/337/s1674/c/3], Oct. 5, 1994, [108 Stat. 3017][/us/stat/108/3017]; [Pub. L. 104–106, div. A, title V, § 532(c)][/us/pl/104/106/s532/c], title XV, § 1502(a)(1), Feb. 10, 1996, [110 Stat. 315][/us/stat/110/315], 502; [Pub. L. 105–85, div. A, title X, § 1073(a)(62)][/us/pl/105/85/s1073/a/62], Nov. 18, 1997, [111 Stat. 1903][/us/stat/111/1903]; [Pub. L. 106–65, div. A, title V, § 531(b)(3)][/us/pl/106/65/s531/b/3], title X, § 1067(1), Oct. 5, 1999, [113 Stat. 602][/us/stat/113/602], 774; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 531(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–110; [Pub. L. 107–314, div. A, title V, § 532(c)][/us/pl/107/314/s532/c], Dec. 2, 2002, [116 Stat. 2546][/us/stat/116/2546]; [Pub. L. 108–136, div. A, title V, § 524(c)][/us/pl/108/136/s524/c], title X, § 1031(a)(58), Nov. 24, 2003, [117 Stat. 1464][/us/stat/117/1464], 1603; [Pub. L. 109–364, div. A, title X, § 1071(a)(38)][/us/pl/109/364/s1071/a/38], Oct. 17, 2006, [120 Stat. 2400][/us/stat/120/2400]; [Pub. L. 110–229, title VII, § 718(c)][/us/pl/110/229/s718/c], May 8, 2008, [122 Stat. 869][/us/stat/122/869]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 540(c), Oct. 14, 2008, [122 Stat. 4454][/us/stat/122/4454]; [Pub. L. 111–84, div. A, title V, § 527(c)][/us/pl/111/84/s527/c], Oct. 28, 2009, [123 Stat. 2288][/us/stat/123/2288]; [Pub. L. 112–239, div. A, title X, § 1076(f)(42)][/us/pl/112/239/s1076/f/42], Jan. 2, 2013, [126 Stat. 1954][/us/stat/126/1954]; [Pub. L. 114–92, div. A, title V, § 556(c)][/us/pl/114/92/s556/c], Nov. 25, 2015, [129 Stat. 825][/us/stat/129/825].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 563][/us/stat/70A/563]; [Pub. L. 87–663][/us/pl/87/663], § 1(5), (6), Sept. 14, 1962, [76 Stat. 547][/us/stat/76/547]; [Pub. L. 88–276][/us/pl/88/276], § 4(1), Mar. 3, 1964, [78 Stat. 151][/us/stat/78/151]; [Pub. L. 89–650][/us/pl/89/650], § 1(1)–(3), (5), Oct. 13, 1966, [80 Stat. 896][/us/stat/80/896]; [Pub. L. 90–374][/us/pl/90/374], July 5, 1968, [82 Stat. 283][/us/stat/82/283]; [Pub. L. 90–623][/us/pl/90/623], § 2(8), Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 91–405, title II][/us/pl/91/405/tII], § 204(c), Sept. 22, 1970, [84 Stat. 852][/us/stat/84/852]; [Pub. L. 92–365][/us/pl/92/365], § 1(3), Aug. 7, 1972, [86 Stat. 505][/us/stat/86/505]; [Pub. L. 93–171][/us/pl/93/171], § 3(1)–(4), Nov. 29, 1973, [87 Stat. 690][/us/stat/87/690]; [Pub. L. 94–106, title VIII][/us/pl/94/106/tVIII], § 803(b)(1), Oct. 7, 1975, [89 Stat. 538][/us/stat/89/538]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 514(11), Dec. 12, 1980, [94 Stat. 2935][/us/stat/94/2935]; [Pub. L. 96–600][/us/pl/96/600], § 2(c), Dec. 24, 1980, [94 Stat. 3493][/us/stat/94/3493]; [Pub. L. 97–60, title II][/us/pl/97/60/tII], § 203(c)(1), Oct. 14, 1981, [95 Stat. 1006][/us/stat/95/1006]; [Pub. L. 98–94, title X][/us/pl/98/94/tX], § 1005(a)(3), (b)(3), Sept. 24, 1983, [97 Stat. 660][/us/stat/97/660], 661; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 532(c)(1), Nov. 5, 1990, [104 Stat. 1563][/us/stat/104/1563]; [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 531, Nov. 30, 1993, [107 Stat. 1657][/us/stat/107/1657]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1674(c)(3), Oct. 5, 1994, [108 Stat. 3017][/us/stat/108/3017]; [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 532(c), title XV, § 1502(a)(1), Feb. 10, 1996, [110 Stat. 315][/us/stat/110/315], 502; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(62), Nov. 18, 1997, [111 Stat. 1903][/us/stat/111/1903]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 531(b)(3), title X, § 1067(1), Oct. 5, 1999, [113 Stat. 602][/us/stat/113/602], 774; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 531(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–110; [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 532(c), Dec. 2, 2002, [116 Stat. 2546][/us/stat/116/2546]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 524(c), title X, § 1031(a)(58), Nov. 24, 2003, [117 Stat. 1464][/us/stat/117/1464], 1603; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(38), Oct. 17, 2006, [120 Stat. 2400][/us/stat/120/2400]; [Pub. L. 110–229, title VII][/us/pl/110/229/tVII], § 718(c), May 8, 2008, [122 Stat. 869][/us/stat/122/869]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 540(c), Oct. 14, 2008, [122 Stat. 4454][/us/stat/122/4454]; [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 527(c), Oct. 28, 2009, [123 Stat. 2288][/us/stat/123/2288]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(f)(42), Jan. 2, 2013, [126 Stat. 1954][/us/stat/126/1954]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 556(c), Nov. 25, 2015, [129 Stat. 825][/us/stat/129/825].)
 
 <table>
 
@@ -369,69 +369,69 @@ June 30, 1950, ch. 421, §§ 1, 2 (last proviso), 64 stat. 303, 304; June 3, 1
 
  __Amendments__ 
 
-    2015—Subsec. (a)(6). [Pub. L. 114–92, § 556(c)(1)][/us/pl/114/92/s556/c/1], substituted “Four” for “Three”.
+    2015—Subsec. (a)(6). [Pub. L. 114–92][/us/pl/114/92], § 556(c)(1), substituted “Four” for “Three”.
 
-    Subsec. (a)(8). [Pub. L. 114–92, § 556(c)(2)][/us/pl/114/92/s556/c/2], substituted “Four” for “Three”.
+    Subsec. (a)(8). [Pub. L. 114–92][/us/pl/114/92], § 556(c)(2), substituted “Four” for “Three”.
 
-    Subsec. (a)(9). [Pub. L. 114–92, § 556(c)(3)][/us/pl/114/92/s556/c/3], substituted “Three” for “Two”.
+    Subsec. (a)(9). [Pub. L. 114–92][/us/pl/114/92], § 556(c)(3), substituted “Three” for “Two”.
 
-    Subsec. (a)(10). [Pub. L. 114–92, § 556(c)(4)][/us/pl/114/92/s556/c/4], substituted “Three” for “Two”.
+    Subsec. (a)(10). [Pub. L. 114–92][/us/pl/114/92], § 556(c)(4), substituted “Three” for “Two”.
 
-    2013—Subsec. (b)(1). [Pub. L. 112–239, § 1076(f)(42)(A)(i)][/us/pl/112/239/s1076/f/42/A/i], substituted “paragraph” for “clause” in two places in concluding provisions.
+    2013—Subsec. (b)(1). [Pub. L. 112–239][/us/pl/112/239], § 1076(f)(42)(A)(i), substituted “paragraph” for “clause” in two places in concluding provisions.
 
-    Subsec. (b)(5), (d), (f). [Pub. L. 112–239, § 1076(f)(42)(A)(ii)][/us/pl/112/239/s1076/f/42/A/ii]–(C), substituted “paragraphs” for “clauses”.
+    Subsec. (b)(5), (d), (f). [Pub. L. 112–239][/us/pl/112/239], § 1076(f)(42)(A)(ii)–(C), substituted “paragraphs” for “clauses”.
 
     2009—Subsec. (a)(10). [Pub. L. 111–84][/us/pl/111/84] substituted “Two cadets” for “One cadet”.
 
-    2008—Subsec. (a). [Pub. L. 110–417, § 540(c)(1)][/us/pl/110/417/s540/c/1], substituted “4,400 or such lower number” for “4,000 or such higher number” in introductory provisions.
+    2008—Subsec. (a). [Pub. L. 110–417][/us/pl/110/417], § 540(c)(1), substituted “4,400 or such lower number” for “4,000 or such higher number” in introductory provisions.
 
     Subsec. (a)(10). [Pub. L. 110–229][/us/pl/110/229] substituted “Delegate in Congress” for “resident representative”.
 
-    Subsec. (j)(1). [Pub. L. 110–417, § 540(c)(2)][/us/pl/110/417/s540/c/2], struck out last sentence which read as follows: “However, no increase may be prescribed for any academic year after the 2007–2008 academic year.”
+    Subsec. (j)(1). [Pub. L. 110–417][/us/pl/110/417], § 540(c)(2), struck out last sentence which read as follows: “However, no increase may be prescribed for any academic year after the 2007–2008 academic year.”
 
     2006—Subsec. (a)(9). [Pub. L. 109–364][/us/pl/109/364] substituted “cadets” for “cadet”.
 
-    2003—Subsec. (a)(6), (8). [Pub. L. 108–136, § 524(c)(1)][/us/pl/108/136/s524/c/1], substituted “Three” for “Two”.
+    2003—Subsec. (a)(6), (8). [Pub. L. 108–136][/us/pl/108/136], § 524(c)(1), substituted “Three” for “Two”.
 
-    Subsec. (a)(9). [Pub. L. 108–136, § 524(c)(2)][/us/pl/108/136/s524/c/2], substituted “Two” for “One”.
+    Subsec. (a)(9). [Pub. L. 108–136][/us/pl/108/136], § 524(c)(2), substituted “Two” for “One”.
 
-    Subsec. (h). [Pub. L. 108–136, § 1031(a)(58)][/us/pl/108/136/s1031/a/58], substituted “Superintendent” for “Secretary of the Air Force”.
+    Subsec. (h). [Pub. L. 108–136][/us/pl/108/136], § 1031(a)(58), substituted “Superintendent” for “Secretary of the Air Force”.
 
-    2002—Subsec. (a). [Pub. L. 107–314, § 532(c)(1)][/us/pl/107/314/s532/c/1], inserted before period at end of first sentence “or such higher number as may be prescribed by the Secretary of the Air Force under subsection (j)”.
+    2002—Subsec. (a). [Pub. L. 107–314][/us/pl/107/314], § 532(c)(1), inserted before period at end of first sentence “or such higher number as may be prescribed by the Secretary of the Air Force under subsection (j)”.
 
-    Subsec. (j). [Pub. L. 107–314, § 532(c)(2)][/us/pl/107/314/s532/c/2], added subsec. (j).
+    Subsec. (j). [Pub. L. 107–314][/us/pl/107/314], § 532(c)(2), added subsec. (j).
 
-    2000—Subsec. (b)(1)(B). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 531(c)(1)\], struck out “, other than those granted retired pay under [section 12731 of this title][/us/usc/t10/s12731] (or under [section 1331 of this title][/us/usc/t10/s1331] as in effect before the effective date of the Reserve Officer Personnel Management Act)” after “retired or retainer pay”.
+    2000—Subsec. (b)(1)(B). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 531(c)(1)\], struck out “, other than those granted retired pay under [section 12731 of this title][/us/usc/t10/s12731] (or under [section 1331 of this title][/us/usc/t10/s1331] as in effect before the effective date of the Reserve Officer Personnel Management Act)” after “retired or retainer pay”.
 
-    Subsec. (b)(1)(C), (D). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 531(c)(2)\], added subpars. (C) and (D).
+    Subsec. (b)(1)(C), (D). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 531(c)(2)\], added subpars. (C) and (D).
 
-    1999—Subsec. (a). [Pub. L. 106–65, § 531(b)(3)(A)][/us/pl/106/65/s531/b/3/A], substituted “(determined for any year as of the day before the last day of the academic year) is 4,000. Subject to that limitation, Air Force Cadets are selected as follows:” for “is as follows:” in introductory provisions.
+    1999—Subsec. (a). [Pub. L. 106–65][/us/pl/106/65], § 531(b)(3)(A), substituted “(determined for any year as of the day before the last day of the academic year) is 4,000. Subject to that limitation, Air Force Cadets are selected as follows:” for “is as follows:” in introductory provisions.
 
-    Subsec. (g). [Pub. L. 106–65, § 1067(1)][/us/pl/106/65/s1067/1], substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+    Subsec. (g). [Pub. L. 106–65][/us/pl/106/65], § 1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
-    Subsec. (i). [Pub. L. 106–65, § 531(b)(3)(B)][/us/pl/106/65/s531/b/3/B], added subsec. (i).
+    Subsec. (i). [Pub. L. 106–65][/us/pl/106/65], § 531(b)(3)(B), added subsec. (i).
 
     1997—Subsec. (a)(10). [Pub. L. 105–85][/us/pl/105/85] substituted “Mariana” for “Marianas”.
 
-    1996—Subsec. (a)(10). [Pub. L. 104–106, § 532(c)][/us/pl/104/106/s532/c], added par. (10).
+    1996—Subsec. (a)(10). [Pub. L. 104–106][/us/pl/104/106], § 532(c), added par. (10).
 
-    Subsec. (g). [Pub. L. 104–106, § 1502(a)(1)][/us/pl/104/106/s1502/a/1], substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+    Subsec. (g). [Pub. L. 104–106][/us/pl/104/106], § 1502(a)(1), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
     1994—Subsec. (b)(1)(B). [Pub. L. 103–337][/us/pl/103/337] substituted “[section 12731 of this title][/us/usc/t10/s12731] (or under [section 1331 of this title][/us/usc/t10/s1331] as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “[section 1331 of this title][/us/usc/t10/s1331]”.
 
     1993—Subsec. (a). [Pub. L. 103–160][/us/pl/103/160], in concluding provisions, substituted “10 persons” for “a principal candidate and nine alternates” and inserted at end “Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter.”
 
-    1990—Subsec. (a)(8) to (10). [Pub. L. 101–510, § 532(c)(1)(A)][/us/pl/101/510/s532/c/1/A], redesignated cls. (9) and (10) as (8) and (9), respectively, and struck out former cl. (8) which read as follows: “One cadet nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States Government residing in the Republic of Panama who are citizens of the United States.”
+    1990—Subsec. (a)(8) to (10). [Pub. L. 101–510][/us/pl/101/510], § 532(c)(1)(A), redesignated cls. (9) and (10) as (8) and (9), respectively, and struck out former cl. (8) which read as follows: “One cadet nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States Government residing in the Republic of Panama who are citizens of the United States.”
 
-    Subsec. (d). [Pub. L. 101–510, § 532(c)(1)(B)][/us/pl/101/510/s532/c/1/B], substituted “clauses (2) through (9)” for “clauses (2)–(7), (9), or (10)”.
+    Subsec. (d). [Pub. L. 101–510][/us/pl/101/510], § 532(c)(1)(B), substituted “clauses (2) through (9)” for “clauses (2)–(7), (9), or (10)”.
 
-    Subsec. (f). [Pub. L. 101–510, § 532(c)(1)(C)][/us/pl/101/510/s532/c/1/C], substituted “clauses (3) through (9)” for “clauses (3)–(7), (9) and (10)”.
+    Subsec. (f). [Pub. L. 101–510][/us/pl/101/510], § 532(c)(1)(C), substituted “clauses (3) through (9)” for “clauses (3)–(7), (9) and (10)”.
 
     1989—Subsec. (a)(1). [Pub. L. 101–189][/us/pl/101/189] substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-    1983—Subsec. (a)(8). [Pub. L. 98–94, § 1005(b)(3)][/us/pl/98/94/s1005/b/3], substituted: “One cadet nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States Government residing in the Republic of Panama who are citizens of the United States” for “One cadet nominated by the Governor of the Panama Canal from the children of civilians residing in the Canal Zone or the children of civilian personnel of the United States Government, or the Panama Canal Company, residing in the Republic of Panama”.
+    1983—Subsec. (a)(8). [Pub. L. 98–94][/us/pl/98/94], § 1005(b)(3), substituted: “One cadet nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States Government residing in the Republic of Panama who are citizens of the United States” for “One cadet nominated by the Governor of the Panama Canal from the children of civilians residing in the Canal Zone or the children of civilian personnel of the United States Government, or the Panama Canal Company, residing in the Republic of Panama”.
 
-    Subsec. (a)(10). [Pub. L. 98–94, § 1005(a)(3)][/us/pl/98/94/s1005/a/3], substituted “One cadet from American Samoa, nominated by the Delegate in Congress from American Samoa” for “One cadet from American Samoa nominated by the Secretary of the Air Force upon recommendation of the Governor of American Samoa”.
+    Subsec. (a)(10). [Pub. L. 98–94][/us/pl/98/94], § 1005(a)(3), substituted “One cadet from American Samoa, nominated by the Delegate in Congress from American Samoa” for “One cadet from American Samoa nominated by the Secretary of the Air Force upon recommendation of the Governor of American Samoa”.
 
     1981—Subsec. (d). [Pub. L. 97–60][/us/pl/97/60] substituted provisions authorizing the Superintendent to nominate for appointment each year 50 persons from the country at large for provisions that all cadets were to be appointed by the President and that all such appointments were conditional until the cadets were admitted. See [section 9341a of this title][/us/usc/t10/s9341a].
 
@@ -441,13 +441,13 @@ June 30, 1950, ch. 421, §§ 1, 2 (last proviso), 64 stat. 303, 304; June 3, 1
 
     1975—Subsecs. (a)(1), (8), (b)(1), (c). [Pub. L. 94–106][/us/pl/94/106] substituted “children” for “sons” wherever appearing.
 
-    1973—Subsec. (a)(6). [Pub. L. 93–171, § 3(1)][/us/pl/93/171/s3/1], substituted “One cadet from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands” for “Five cadets from each Territory, nominated by the Delegate in Congress from that Territory”.
+    1973—Subsec. (a)(6). [Pub. L. 93–171][/us/pl/93/171], § 3(1), substituted “One cadet from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands” for “Five cadets from each Territory, nominated by the Delegate in Congress from that Territory”.
 
-    Subsec. (a)(9). [Pub. L. 93–171, § 3(2)][/us/pl/93/171/s3/2], struck out reference to American Samoa and Virgin Islands.
+    Subsec. (a)(9). [Pub. L. 93–171][/us/pl/93/171], § 3(2), struck out reference to American Samoa and Virgin Islands.
 
-    Subsec. (a)(10). [Pub. L. 93–171, § 3(3)][/us/pl/93/171/s3/3], added cl. (10).
+    Subsec. (a)(10). [Pub. L. 93–171][/us/pl/93/171], § 3(3), added cl. (10).
 
-    Subsec. (f). [Pub. L. 93–171, § 3(4)][/us/pl/93/171/s3/4], substituted “, (9) and (10) of subsection (a)” for “and (9) of subsection (a)” and struck out reference to Territory.
+    Subsec. (f). [Pub. L. 93–171][/us/pl/93/171], § 3(4), substituted “, (9) and (10) of subsection (a)” for “and (9) of subsection (a)” and struck out reference to Territory.
 
     1972—Subsec. (a)(1). [Pub. L. 92–365][/us/pl/92/365] increased number of Air Force Cadets from 40 to 65 and added sons of members who are in missing status and sons of civilian employees who are in missing status as eligible for competitive examination.
 
@@ -457,19 +457,19 @@ June 30, 1950, ch. 421, §§ 1, 2 (last proviso), 64 stat. 303, 304; June 3, 1
 
     Subsec. (a)(5). [Pub. L. 90–623][/us/pl/90/623] substituted “Commissioner” for “Commissioners”.
 
-    1966—Subsec. (a)(1). [Pub. L. 89–650, § 1(1)][/us/pl/89/650/s1/1], provided for selection of cadets to the Air Force Academy from sons of members of the armed forces who have a 100 per centum service-connected disability and removed the limitation to active service during World War I or World War II or after June 26, 1950, and before Feb. 1, 1955.
+    1966—Subsec. (a)(1). [Pub. L. 89–650][/us/pl/89/650], § 1(1), provided for selection of cadets to the Air Force Academy from sons of members of the armed forces who have a 100 per centum service-connected disability and removed the limitation to active service during World War I or World War II or after June 26, 1950, and before Feb. 1, 1955.
 
-    Subsec. (a)(2). [Pub. L. 89–650, § 1(2)][/us/pl/89/650/s1/2], provided for nominations to Air Force Academy by President pro tempore of Senate if there is no Vice President.
+    Subsec. (a)(2). [Pub. L. 89–650][/us/pl/89/650], § 1(2), provided for nominations to Air Force Academy by President pro tempore of Senate if there is no Vice President.
 
-    Subsec. (b)(1). [Pub. L. 89–650, § 1(3)][/us/pl/89/650/s1/3], increased number of Presidential appointments to Air Force Academy from 75 to 100, provided for selection of eligible persons as stated in items (A) and (B), previously chosen from sons of members of regular components, and declared persons eligible under subsec. (a)(1) ineligible under subsec. (b)(1) of this section.
+    Subsec. (b)(1). [Pub. L. 89–650][/us/pl/89/650], § 1(3), increased number of Presidential appointments to Air Force Academy from 75 to 100, provided for selection of eligible persons as stated in items (A) and (B), previously chosen from sons of members of regular components, and declared persons eligible under subsec. (a)(1) ineligible under subsec. (b)(1) of this section.
 
-    Subsec. (b)(3). [Pub. L. 89–650, § 1(5)][/us/pl/89/650/s1/5], substituted “reserve components of the Air Force” for “the Air Force Reserve”.
+    Subsec. (b)(3). [Pub. L. 89–650][/us/pl/89/650], § 1(5), substituted “reserve components of the Air Force” for “the Air Force Reserve”.
 
     1964—[Pub. L. 88–276][/us/pl/88/276] amended section generally, and among other changes, in the noncompetitive appointments, increased the number of cadets nominated by the Vice President from three to five, each Senator, Representative and Delegate from 4 to 5, and the Commissioner of Puerto Rico from 4 to 5, authorized the Governor of Puerto Rico to appoint one cadet, each Senator, Representative and Delegate to nominate a principal and five alternates for each vacancy, and, in the competitive appointments, permitted the President to appoint 75 cadets annually from the sons of members of the Regular components, instead of a cumulative total of 89, the Secretary of the Air Force to appoint 85 cadets annually from enlisted members of the Regular Air Force, instead of a cumulative total of 90, 85 annually from enlisted members of the Air Force Reserve, instead of a cumulative total of 90, 20 annually from honor graduates of designated honor schools and the A.F.R.O.T.C., instead of a cumulative total of 40 from honor schools only, 150 annually, in order of merit, from among the qualified alternates nominated by Members of Congress, and when the quota of cadets selected under subsec. (b)(1), (2), (3) is not filled, to fill the vacancies by appointing those best qualified from any of the three sources, decreased the number of cadets nominated by the Commissioners of the District of Columbia from 6 to 5, and by the Governor of the Panama Canal from 2 to 1, limited appointments to the number that can be adequately accommodated at the Academy, within the limitation that congressional appointments cannot be limited to less than four, and if limited, a priority of selection is established for the other categories, and, beginning in 1964, the Secretary may upon request of a Member of Congress, furnish him the name of any nominating authority responsible for the nomination of any identified person to the Academy.
 
-    1962—Subsec. (a)(10). [Pub. L. 87–663, § 1(5)][/us/pl/87/663/s1/5], added cl. (10).
+    1962—Subsec. (a)(10). [Pub. L. 87–663][/us/pl/87/663], § 1(5), added cl. (10).
 
-    Subsec. (c). [Pub. L. 87–663, § 1(6)][/us/pl/87/663/s1/6], inserted references to American Samoa, Guam, and the Virgin Islands, and substituted “Clauses (1)–(5) and (10)” for “clauses (1)–(5)”.
+    Subsec. (c). [Pub. L. 87–663][/us/pl/87/663], § 1(6), inserted references to American Samoa, Guam, and the Virgin Islands, and substituted “Clauses (1)–(5) and (10)” for “clauses (1)–(5)”.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -515,7 +515,7 @@ June 30, 1950, ch. 421, §§ 1, 2 (last proviso), 64 stat. 303, 304; June 3, 1
 
  __Effective Date; Interim System for Appointment of Cadets__ 
 
-    [Act Aug. 10, 1956, ch. 1041, § 52(b)][/us/act/1956-08-10/ch1041/s52/b], [70A Stat. 641][/us/stat/70A/641], as amended by [Pub. L. 85–182][/us/pl/85/182], Aug. 28, 1957, [71 Stat. 463][/us/stat/71/463], provided that [section 9342(a) of Title 10][/us/usc/t10/s9342/a], Armed Forces would take effect four years after the entrance of the initial class at the United States Air Force Academy. However, for the four-year period beginning with the class of cadets entering in July 1959, not more than one quarter of the number of cadets authorized by clause (1), (2), (3), (4), (7), or (8) of that section could be appointed in any one academic year; two of the number of cadets authorized by clause (5) of that section could be appointed in the first and third years of that four-year period, and not more than one of the number authorized by it could be appointed in the second and fourth years of that period; and one cadet authorized by clause (6) of that section could be appointed in the first two years of that four-year period, and not more than one of the number authorized by it could be appointed in the second two years of that period. In addition, during that four-year period, the nominating authority named in clauses (1) to (6) of that section could select for each cadet allocated to him for the year concerned a principal candidate and not more than ten alternate candidates, or he could nominate as many candidates as the Secretary prescribed and authorize the Secretary to select the principal candidates in order of merit as determined by competitive examination. In carrying out [section 9343 of Title 10][/us/usc/t10/s9343], during that four-year period, only qualified alternates who were nominated by the authorities named in clauses (1) to (4) of section 9342(a) could be nominated for appointment as cadets. Not more than one qualified alternate nominated by any one authority named in those classes could be appointed as a cadet, after nomination under section 9343, during each year of that four-year period.
+    [Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 52(b), [70A Stat. 641][/us/stat/70A/641], as amended by [Pub. L. 85–182][/us/pl/85/182], Aug. 28, 1957, [71 Stat. 463][/us/stat/71/463], provided that [section 9342(a) of Title 10][/us/usc/t10/s9342/a], Armed Forces would take effect four years after the entrance of the initial class at the United States Air Force Academy. However, for the four-year period beginning with the class of cadets entering in July 1959, not more than one quarter of the number of cadets authorized by clause (1), (2), (3), (4), (7), or (8) of that section could be appointed in any one academic year; two of the number of cadets authorized by clause (5) of that section could be appointed in the first and third years of that four-year period, and not more than one of the number authorized by it could be appointed in the second and fourth years of that period; and one cadet authorized by clause (6) of that section could be appointed in the first two years of that four-year period, and not more than one of the number authorized by it could be appointed in the second two years of that period. In addition, during that four-year period, the nominating authority named in clauses (1) to (6) of that section could select for each cadet allocated to him for the year concerned a principal candidate and not more than ten alternate candidates, or he could nominate as many candidates as the Secretary prescribed and authorize the Secretary to select the principal candidates in order of merit as determined by competitive examination. In carrying out [section 9343 of Title 10][/us/usc/t10/s9343], during that four-year period, only qualified alternates who were nominated by the authorities named in clauses (1) to (4) of section 9342(a) could be nominated for appointment as cadets. Not more than one qualified alternate nominated by any one authority named in those classes could be appointed as a cadet, after nomination under section 9343, during each year of that four-year period.
 
  __Limitation on Number of Cadets and Midshipmen Authorized To Attend Service Academies__ 
 
@@ -542,122 +542,122 @@ June 30, 1950, ch. 421, §§ 1, 2 (last proviso), 64 stat. 303, 304; June 3, 1
 [/us/usc/t10/s9343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9343
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F563
-[/us/pl/87/663/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F663%2Fs1%2F5
+[/us/pl/87/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F663
 [/us/stat/76/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F547
-[/us/pl/88/276/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F276%2Fs4%2F1
+[/us/pl/88/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F276
 [/us/stat/78/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F151
-[/us/pl/89/650/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F650%2Fs1%2F1
+[/us/pl/89/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F650
 [/us/stat/80/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F896
 [/us/pl/90/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F374
 [/us/stat/82/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F283
-[/us/pl/90/623/s2/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs2%2F8
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1314
-[/us/pl/91/405/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405%2Fs204%2Fc
+[/us/pl/91/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405%2FtII
 [/us/stat/84/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F852
-[/us/pl/92/365/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F365%2Fs1%2F3
+[/us/pl/92/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F365
 [/us/stat/86/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F505
-[/us/pl/93/171/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F171%2Fs3%2F1
+[/us/pl/93/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F171
 [/us/stat/87/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F690
-[/us/pl/94/106/s803/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106%2Fs803%2Fb%2F1
+[/us/pl/94/106/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106%2FtVIII
 [/us/stat/89/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F538
-[/us/pl/96/513/s514/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs514%2F11
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2935
-[/us/pl/96/600/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F600%2Fs2%2Fc
+[/us/pl/96/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F600
 [/us/stat/94/3493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3493
-[/us/pl/97/60/s203/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2Fs203%2Fc%2F1
+[/us/pl/97/60/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2FtII
 [/us/stat/95/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1006
-[/us/pl/98/94/s1005/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1005%2Fa%2F3
+[/us/pl/98/94/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtX
 [/us/stat/97/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F660
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1602
-[/us/pl/101/510/s532/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs532%2Fc%2F1
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1563
-[/us/pl/103/160/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs531
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1657
-[/us/pl/103/337/s1674/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1674%2Fc%2F3
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3017
-[/us/pl/104/106/s532/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs532%2Fc
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F315
-[/us/pl/105/85/s1073/a/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F62
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1903
-[/us/pl/106/65/s531/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs531%2Fb%2F3
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F602
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/314/s532/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs532%2Fc
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2546
-[/us/pl/108/136/s524/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs524%2Fc
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1464
-[/us/pl/109/364/s1071/a/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F38
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2400
-[/us/pl/110/229/s718/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs718%2Fc
+[/us/pl/110/229/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVII
 [/us/stat/122/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F869
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4454
-[/us/pl/111/84/s527/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs527%2Fc
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2288
-[/us/pl/112/239/s1076/f/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F42
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1954
-[/us/pl/114/92/s556/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs556%2Fc
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F825
 [/us/usc/t38/s745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs745
-[/us/pl/114/92/s556/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs556%2Fc%2F1
-[/us/pl/114/92/s556/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs556%2Fc%2F2
-[/us/pl/114/92/s556/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs556%2Fc%2F3
-[/us/pl/114/92/s556/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs556%2Fc%2F4
-[/us/pl/112/239/s1076/f/42/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F42%2FA%2Fi
-[/us/pl/112/239/s1076/f/42/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F42%2FA%2Fii
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/110/417/s540/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs540%2Fc%2F1
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
-[/us/pl/110/417/s540/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs540%2Fc%2F2
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/108/136/s524/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs524%2Fc%2F1
-[/us/pl/108/136/s524/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs524%2Fc%2F2
-[/us/pl/108/136/s1031/a/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F58
-[/us/pl/107/314/s532/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs532%2Fc%2F1
-[/us/pl/107/314/s532/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs532%2Fc%2F2
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t10/s12731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12731
 [/us/usc/t10/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1331
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/65/s531/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs531%2Fb%2F3%2FA
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
-[/us/pl/106/65/s531/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs531%2Fb%2F3%2FB
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/104/106/s532/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs532%2Fc
-[/us/pl/104/106/s1502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F1
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s12731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12731
 [/us/usc/t10/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1331
 [/us/usc/t10/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1331
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
-[/us/pl/101/510/s532/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs532%2Fc%2F1%2FA
-[/us/pl/101/510/s532/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs532%2Fc%2F1%2FB
-[/us/pl/101/510/s532/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs532%2Fc%2F1%2FC
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
-[/us/pl/98/94/s1005/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1005%2Fb%2F3
-[/us/pl/98/94/s1005/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1005%2Fa%2F3
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/97/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60
 [/us/usc/t10/s9341a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9341a
 [/us/pl/96/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F600
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/94/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106
-[/us/pl/93/171/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F171%2Fs3%2F1
-[/us/pl/93/171/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F171%2Fs3%2F2
-[/us/pl/93/171/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F171%2Fs3%2F3
-[/us/pl/93/171/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F171%2Fs3%2F4
+[/us/pl/93/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F171
+[/us/pl/93/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F171
+[/us/pl/93/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F171
+[/us/pl/93/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F171
 [/us/pl/92/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F365
 [/us/pl/91/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405
 [/us/pl/90/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F374
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
-[/us/pl/89/650/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F650%2Fs1%2F1
-[/us/pl/89/650/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F650%2Fs1%2F2
-[/us/pl/89/650/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F650%2Fs1%2F3
-[/us/pl/89/650/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F650%2Fs1%2F5
+[/us/pl/89/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F650
+[/us/pl/89/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F650
+[/us/pl/89/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F650
+[/us/pl/89/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F650
 [/us/pl/88/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F276
-[/us/pl/87/663/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F663%2Fs1%2F5
-[/us/pl/87/663/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F663%2Fs1%2F6
+[/us/pl/87/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F663
+[/us/pl/87/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F663
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/114/92/s556/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs556%2Fd
 [/us/usc/t10/s4342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4342
@@ -691,7 +691,7 @@ June 30, 1950, ch. 421, §§ 1, 2 (last proviso), 64 stat. 303, 304; June 3, 1
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/90/623/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs6
 [/us/usc/t5/s5334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5334
-[/us/act/1956-08-10/ch1041/s52/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs52%2Fb
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
 [/us/pl/85/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F182
 [/us/stat/71/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F463

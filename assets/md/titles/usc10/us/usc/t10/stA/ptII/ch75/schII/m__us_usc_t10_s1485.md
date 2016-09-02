@@ -21,7 +21,7 @@
 
     (c) Reimbursement for mortuary services and supplies furnished under this section shall be collected and credited to appropriations available, at the time of reimbursement, for those services and supplies.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 114][/us/stat/70A/114]; [Pub. L. 89–150, § 1(1)][/us/pl/89/150/s1/1], Aug. 28, 1965, [79 Stat. 585][/us/stat/79/585].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 114][/us/stat/70A/114]; [Pub. L. 89–150][/us/pl/89/150], § 1(1), Aug. 28, 1965, [79 Stat. 585][/us/stat/79/585].)
 
 <table>
 
@@ -106,7 +106,7 @@ July 15, 1954, ch. 507, § 7(a) (as applicable to armed forces), 68 Stat. 479.
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F114
-[/us/pl/89/150/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F150%2Fs1%2F1
+[/us/pl/89/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F150
 [/us/stat/79/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F585
 [/us/usc/t10/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F1
 [/us/pl/89/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F150

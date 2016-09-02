@@ -75,11 +75,11 @@
 
  __Amendments__ 
 
-    1980—[Pub. L. 96–513, title V, § 503(42)][/us/pl/96/513/s503/42], Dec. 12, 1980, [94 Stat. 2914][/us/stat/94/2914], struck out item 5982 “Ships and squadrons: detail of retired officers to command”.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], § 503(42), Dec. 12, 1980, [94 Stat. 2914][/us/stat/94/2914], struck out item 5982 “Ships and squadrons: detail of retired officers to command”.
 
-    1970—[Pub. L. 91–482, § 2C][/us/pl/91/482/s2C], Oct. 21, 1970, [84 Stat. 1082][/us/stat/84/1082], struck out item 5981 “Squadrons: detail of officers on active list to command”.
+    1970—[Pub. L. 91–482][/us/pl/91/482], § 2C, Oct. 21, 1970, [84 Stat. 1082][/us/stat/84/1082], struck out item 5981 “Squadrons: detail of officers on active list to command”.
 
-    1968—[Pub. L. 90–235, § 4(a)(4)][/us/pl/90/235/s4/a/4], (b)(3), Jan. 2, 1968, [81 Stat. 759][/us/stat/81/759], 760, struck out item 5984 “Military institutions and colleges: details as superintendents and instructors”, and item 5987 “American National Red Cross: detail of officers in the Medical Corps”.
+    1968—[Pub. L. 90–235][/us/pl/90/235], § 4(a)(4), (b)(3), Jan. 2, 1968, [81 Stat. 759][/us/stat/81/759], 760, struck out item 5984 “Military institutions and colleges: details as superintendents and instructors”, and item 5987 “American National Red Cross: detail of officers in the Medical Corps”.
 
 ----------
 
@@ -88,11 +88,11 @@
 ----------
 ----------
 
-[/us/pl/96/513/s503/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs503%2F42
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2914
-[/us/pl/91/482/s2C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F482%2Fs2C
+[/us/pl/91/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F482
 [/us/stat/84/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1082
-[/us/pl/90/235/s4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs4%2Fa%2F4
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F759
 
 

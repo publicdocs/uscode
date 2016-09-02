@@ -35,13 +35,13 @@
 
     If it is determined that such a board should be appointed, the appointment of, and activities before, a board appointed under this section shall be governed by the provisions of [section 1504 of this title][/us/usc/t10/s1504] with respect to a board appointed under that section.
 
-(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)][/us/pl/104/106/s569/b/1], Feb. 10, 1996, [110 Stat. 345][/us/stat/110/345]; amended [Pub. L. 104–201, div. A, title V, § 578(c)][/us/pl/104/201/s578/c], Sept. 23, 1996, [110 Stat. 2536][/us/stat/110/2536]; [Pub. L. 113–291, div. A, title IX, § 916(c)][/us/pl/113/291/s916/c], Dec. 19, 2014, [128 Stat. 3478][/us/stat/128/3478].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 569(b)(1), Feb. 10, 1996, [110 Stat. 345][/us/stat/110/345]; amended [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 578(c), Sept. 23, 1996, [110 Stat. 2536][/us/stat/110/2536]; [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 916(c), Dec. 19, 2014, [128 Stat. 3478][/us/stat/128/3478].)
 
  __Amendments__ 
 
-    2014—Subsec. (c)(1). [Pub. L. 113–291, § 916(c)(1)][/us/pl/113/291/s916/c/1], substituted “the designated Agency Director” for “the office established under [section 1501 of this title][/us/usc/t10/s1501]”.
+    2014—Subsec. (c)(1). [Pub. L. 113–291][/us/pl/113/291], § 916(c)(1), substituted “the designated Agency Director” for “the office established under [section 1501 of this title][/us/usc/t10/s1501]”.
 
-    Subsec. (c)(2), (3). [Pub. L. 113–291, § 916(c)(2)][/us/pl/113/291/s916/c/2], substituted “designated Agency Director” for “head of the office established under [section 1501 of this title][/us/usc/t10/s1501]”.
+    Subsec. (c)(2), (3). [Pub. L. 113–291][/us/pl/113/291], § 916(c)(2), substituted “designated Agency Director” for “head of the office established under [section 1501 of this title][/us/usc/t10/s1501]”.
 
     1996—Subsec. (b). [Pub. L. 104–201][/us/pl/104/201] reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -68,15 +68,15 @@
 
 [/us/usc/t10/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1504
 [/us/usc/t10/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1504
-[/us/pl/104/106/s569/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fb%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F345
-[/us/pl/104/201/s578/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs578%2Fc
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2536
-[/us/pl/113/291/s916/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fc
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3478
-[/us/pl/113/291/s916/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fc%2F1
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t10/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1501
-[/us/pl/113/291/s916/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fc%2F2
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t10/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1501
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t10/s1502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1502%2Fa

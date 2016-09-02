@@ -17,7 +17,7 @@
 
     A depot-level activity of the Department of Defense shall be eligible to compete for the performance of any depot-level maintenance and repair workload of a Federal agency for which competitive procedures are used to select the entity to perform the workload.
 
-(Added [Pub. L. 103–337, div. A, title III, § 335(a)][/us/pl/103/337/s335/a], Oct. 5, 1994, [108 Stat. 2716][/us/stat/108/2716].)
+(Added [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 335(a), Oct. 5, 1994, [108 Stat. 2716][/us/stat/108/2716].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/337/s335/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs335%2Fa
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2716
 
 

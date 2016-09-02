@@ -31,7 +31,7 @@
 
         (2) except as otherwise directed by the Secretary of Defense in the case of forces assigned to carry out functions of the Secretary of the Navy specified in [section 5013 of this title][/us/usc/t10/s5013], shall assign to the combatant commands (through the Marine Corps component commander for each such command) all such forces assigned to the Marine Forces Reserve under paragraph (1) in the manner specified by the Secretary of Defense.
 
-(Added [Pub. L. 104–201, div. A, title XII, § 1211(a)(1)][/us/pl/104/201/s1211/a/1], Sept. 23, 1996, [110 Stat. 2690][/us/stat/110/2690].)
+(Added [Pub. L. 104–201, div. A, title XII][/us/pl/104/201/dA/tXII], § 1211(a)(1), Sept. 23, 1996, [110 Stat. 2690][/us/stat/110/2690].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t10/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs167
 [/us/usc/t10/s5013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5013
-[/us/pl/104/201/s1211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1211%2Fa%2F1
+[/us/pl/104/201/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXII
 [/us/stat/110/2690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2690
 
 

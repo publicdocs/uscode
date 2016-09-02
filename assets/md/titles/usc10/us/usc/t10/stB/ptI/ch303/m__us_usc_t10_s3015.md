@@ -19,13 +19,13 @@
 
     (b) The Under Secretary shall perform such duties and exercise such powers as the Secretary of the Army may prescribe.
 
-(Added [Pub. L. 99–433, title V, § 501(a)(5)][/us/pl/99/433/s501/a/5], Oct. 1, 1986, [100 Stat. 1037][/us/stat/100/1037].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 501(a)(5), Oct. 1, 1986, [100 Stat. 1037][/us/stat/100/1037].)
 
  __Prior Provisions__ 
 
     Provisions similar to those in this section were contained in [section 3013 of this title][/us/usc/t10/s3013] prior to enactment of [Pub. L. 99–433][/us/pl/99/433].
 
-    A prior section 3015, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 158][/us/stat/70A/158], § 3014; renumbered § 3015, Oct. 1, 1986, [Pub. L. 99–433, title V, § 501(a)(2)][/us/pl/99/433/s501/a/2], [100 Stat. 1034][/us/stat/100/1034], related to Comptroller and Deputy Comptroller of the Army, powers and duties, and appointment, prior to repeal by [Pub. L. 99–433, § 501(a)(5)][/us/pl/99/433/s501/a/5].
+    A prior section 3015, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 158][/us/stat/70A/158], § 3014; renumbered § 3015, Oct. 1, 1986, [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 501(a)(2), [100 Stat. 1034][/us/stat/100/1034], related to Comptroller and Deputy Comptroller of the Army, powers and duties, and appointment, prior to repeal by [Pub. L. 99–433][/us/pl/99/433], § 501(a)(5).
 
     Another prior section 3015 was renumbered [section 3040 of this title][/us/usc/t10/s3040] and subsequently repealed.
 
@@ -40,15 +40,15 @@
 ----------
 ----------
 
-[/us/pl/99/433/s501/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs501%2Fa%2F5
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1037
 [/us/usc/t10/s3013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3013
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F158
-[/us/pl/99/433/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs501%2Fa%2F2
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1034
-[/us/pl/99/433/s501/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs501%2Fa%2F5
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t10/s3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3040
 [/us/usc/t5/s3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3345
 

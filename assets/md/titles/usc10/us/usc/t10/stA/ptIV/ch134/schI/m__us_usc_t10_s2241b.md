@@ -23,7 +23,7 @@
 
     Nothing in subsection (a) shall be construed as prohibiting the Department of Defense from taking actions to facilitate activities intended to honor members of the armed forces at sporting events that are provided on a pro bono basis or otherwise funded with non-Federal funds if such activities are provided and received in accordance with applicable rules and regulations regarding the acceptance of gifts by the military departments, the armed forces, and members of the armed forces.
 
-(Added [Pub. L. 114–92, div. A, title III, § 341(a)][/us/pl/114/92/s341/a], Nov. 25, 2015, [129 Stat. 792][/us/stat/129/792].)
+(Added [Pub. L. 114–92, div. A, title III][/us/pl/114/92/dA/tIII], § 341(a), Nov. 25, 2015, [129 Stat. 792][/us/stat/129/792].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/114/92/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs341%2Fa
+[/us/pl/114/92/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtIII
 [/us/stat/129/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F792
 
 

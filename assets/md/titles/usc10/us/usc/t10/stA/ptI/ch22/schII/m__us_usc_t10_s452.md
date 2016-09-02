@@ -19,7 +19,7 @@
 
     (b) The Secretary of Commerce shall furnish to the National Geospatial-Intelligence Agency, as quickly as possible, all meteorological information received by the Secretary that is necessary for, and of the character used in, preparing pilot charts.
 
-(Added [Pub. L. 97–295, § 1(50)(C)][/us/pl/97/295/s1/50/C], Oct. 12, 1982, [96 Stat. 1299][/us/stat/96/1299], § 2793; renumbered § 452 and amended [Pub. L. 104–201, div. A, title XI, § 1112(b)][/us/pl/104/201/s1112/b], Sept. 23, 1996, [110 Stat. 2682][/us/stat/110/2682]; [Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A)][/us/pl/108/136/s921/d/2/A], Nov. 24, 2003, [117 Stat. 1568][/us/stat/117/1568].)
+(Added [Pub. L. 97–295][/us/pl/97/295], § 1(50)(C), Oct. 12, 1982, [96 Stat. 1299][/us/stat/96/1299], § 2793; renumbered § 452 and amended [Pub. L. 104–201, div. A, title XI][/us/pl/104/201/dA/tXI], § 1112(b), Sept. 23, 1996, [110 Stat. 2682][/us/stat/110/2682]; [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 921(d)(2)(A), Nov. 24, 2003, [117 Stat. 1568][/us/stat/117/1568].)
 
 <table>
 
@@ -86,11 +86,11 @@ Source (Statutes at Large)  </td>
 ----------
 ----------
 
-[/us/pl/97/295/s1/50/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F50%2FC
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1299
-[/us/pl/104/201/s1112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1112%2Fb
+[/us/pl/104/201/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXI
 [/us/stat/110/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2682
-[/us/pl/108/136/s921/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fd%2F2%2FA
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1568
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318
 [/us/usc/t10/s482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs482

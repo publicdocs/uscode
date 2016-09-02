@@ -45,7 +45,7 @@
 
     Authority to transfer funds under this section is in addition to any other authority provided by law to transfer funds (whether enacted before, on, or after the date of the enactment of this section) and is not subject to any dollar limitation or notification requirement contained in any other such authority to transfer funds.
 
-    \[(f) Repealed. [Pub. L. 108–136, div. A, title X, § 1031(a)(60)(B)][/us/pl/108/136/s1031/a/60/B], Nov. 24, 2003, [117 Stat. 1603][/us/stat/117/1603].\]
+    \[(f) Repealed. [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(60)(B), Nov. 24, 2003, [117 Stat. 1603][/us/stat/117/1603].\]
 
     (g)  __Definitions__  __.—__ 
 
@@ -59,7 +59,7 @@
 
         The term “loss” includes damage to or destruction of property, personal injury or death, and other liabilities and expenses covered by the defense-related aviation insurance.
 
-(Added [Pub. L. 104–201, div. A, title X, § 1079(a)(1)][/us/pl/104/201/s1079/a/1], Sept. 23, 1996, [110 Stat. 2667][/us/stat/110/2667]; amended [Pub. L. 108–136, div. A, title X, § 1031(a)(60)][/us/pl/108/136/s1031/a/60], Nov. 24, 2003, [117 Stat. 1603][/us/stat/117/1603]; [Pub. L. 112–81, div. A, title X, § 1064(10)][/us/pl/112/81/s1064/10], Dec. 31, 2011, [125 Stat. 1587][/us/stat/125/1587].)
+(Added [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1079(a)(1), Sept. 23, 1996, [110 Stat. 2667][/us/stat/110/2667]; amended [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(60), Nov. 24, 2003, [117 Stat. 1603][/us/stat/117/1603]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1064(10), Dec. 31, 2011, [125 Stat. 1587][/us/stat/125/1587].)
 
  __References in Text__ 
 
@@ -69,9 +69,9 @@
 
     2011—Subsec. (c). [Pub. L. 112–81][/us/pl/112/81] substituted “$10,000,000” for “$1,000,000”.
 
-    2003—Subsec. (c). [Pub. L. 108–136, § 1031(a)(60)(A)][/us/pl/108/136/s1031/a/60/A], struck out designation for par. (1) before “notification of the loss”, substituted “Congress” for “Congress—” and “loss.” for “loss; and”, and struck out par. (2) which read as follows: “semiannual reports thereafter updating the information submitted under paragraph (1) and showing with respect to losses arising from such incident the total amount expended to cover such losses, the source of those funds, pending litigation, and estimated total cost to the Government.”
+    2003—Subsec. (c). [Pub. L. 108–136][/us/pl/108/136], § 1031(a)(60)(A), struck out designation for par. (1) before “notification of the loss”, substituted “Congress” for “Congress—” and “loss.” for “loss; and”, and struck out par. (2) which read as follows: “semiannual reports thereafter updating the information submitted under paragraph (1) and showing with respect to losses arising from such incident the total amount expended to cover such losses, the source of those funds, pending litigation, and estimated total cost to the Government.”
 
-    Subsec. (f). [Pub. L. 108–136, § 1031(a)(60)(B)][/us/pl/108/136/s1031/a/60/B], struck out heading and text of subsec. (f). Text read as follows: “Not later than March 1 of each year, the Secretary of Defense shall submit to Congress a report setting forth the current amount of the contingent outstanding liability of the United States under the insurance program under chapter 443 of title 49.”
+    Subsec. (f). [Pub. L. 108–136][/us/pl/108/136], § 1031(a)(60)(B), struck out heading and text of subsec. (f). Text read as follows: “Not later than March 1 of each year, the Secretary of Defense shall submit to Congress a report setting forth the current amount of the contingent outstanding liability of the United States under the insurance program under chapter 443 of title 49.”
 
 ----------
 
@@ -80,17 +80,17 @@
 ----------
 ----------
 
-[/us/pl/108/136/s1031/a/60/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F60%2FB
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1603
-[/us/pl/104/201/s1079/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1079%2Fa%2F1
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2667
-[/us/pl/108/136/s1031/a/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F60
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1603
-[/us/pl/112/81/s1064/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1064%2F10
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1587
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/108/136/s1031/a/60/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F60%2FA
-[/us/pl/108/136/s1031/a/60/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F60%2FB
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 
 

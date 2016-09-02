@@ -17,7 +17,7 @@
 
     A Reserve may not be required to serve on active duty, or to participate in inactive duty training, while preparing for the ministry in a recognized theological or divinity school.
 
-(Added [Pub. L. 85–861, § 1(15)][/us/pl/85/861/s1/15], Sept. 2, 1958, [72 Stat. 1441][/us/stat/72/1441], § 685; renumbered § 12317, [Pub. L. 103–337, div. A, title XVI, § 1662(e)(2)][/us/pl/103/337/s1662/e/2], Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(15), Sept. 2, 1958, [72 Stat. 1441][/us/stat/72/1441], § 685; renumbered § 12317, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(e)(2), Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992].)
 
 <table>
 
@@ -76,9 +76,9 @@ Aug. 9, 1955, ch. 665, § 2(g) (last sentence), 69 Stat. 599.  </td>
 ----------
 ----------
 
-[/us/pl/85/861/s1/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F15
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1441
-[/us/pl/103/337/s1662/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fe%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2992
 [/us/usc/t10/s101/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F22
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

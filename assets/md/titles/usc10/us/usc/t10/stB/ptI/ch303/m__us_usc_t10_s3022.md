@@ -57,7 +57,7 @@
 
     (d) The Assistant Secretary of the Army for Financial Management shall transmit to the Secretary of the Army a report each year on the activities of the Assistant Secretary during the preceding year. Each such report shall include a description and analysis of the status of Department of the Army financial management.
 
-(Added [Pub. L. 100–456, div. A, title VII, § 702(a)(2)][/us/pl/100/456/s702/a/2], Sept. 29, 1988, [102 Stat. 1993][/us/stat/102/1993]; amended [Pub. L. 103–337, div. A, title X, § 1070(a)(15)][/us/pl/103/337/s1070/a/15], Oct. 5, 1994, [108 Stat. 2856][/us/stat/108/2856]; [Pub. L. 104–106, div. A, title XV, § 1503(b)(1)][/us/pl/104/106/s1503/b/1], Feb. 10, 1996, [110 Stat. 512][/us/stat/110/512].)
+(Added [Pub. L. 100–456, div. A, title VII][/us/pl/100/456/dA/tVII], § 702(a)(2), Sept. 29, 1988, [102 Stat. 1993][/us/stat/102/1993]; amended [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(a)(15), Oct. 5, 1994, [108 Stat. 2856][/us/stat/108/2856]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1503(b)(1), Feb. 10, 1996, [110 Stat. 512][/us/stat/110/512].)
 
  __Amendments__ 
 
@@ -79,11 +79,11 @@
 [/us/usc/t10/s135/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs135%2Fc
 [/us/usc/t31/s3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3511
 [/us/usc/t31/s3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3512
-[/us/pl/100/456/s702/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs702%2Fa%2F2
+[/us/pl/100/456/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVII
 [/us/stat/102/1993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1993
-[/us/pl/103/337/s1070/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fa%2F15
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2856
-[/us/pl/104/106/s1503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1503%2Fb%2F1
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F512
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

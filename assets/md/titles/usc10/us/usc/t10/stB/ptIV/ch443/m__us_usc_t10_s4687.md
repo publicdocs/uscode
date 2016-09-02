@@ -67,7 +67,7 @@
 
             (B) includes any mutilation, scrapping, melting, burning, or alteration that prevents the use of the ammunition or ammunition components for the military purposes for which the ammunition or ammunition components was designed or for a lethal purpose.
 
-(Added [Pub. L. 105–85, div. A, title X, § 1065(a)(1)][/us/pl/105/85/s1065/a/1], Nov. 18, 1997, [111 Stat. 1893][/us/stat/111/1893]; amended [Pub. L. 109–364, div. A, title X, § 1071(a)(30)][/us/pl/109/364/s1071/a/30], Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399].)
+(Added [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1065(a)(1), Nov. 18, 1997, [111 Stat. 1893][/us/stat/111/1893]; amended [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(30), Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399].)
 
  __Amendments__ 
 
@@ -75,7 +75,7 @@
 
  __Review of Initial Sales__ 
 
-    [Pub. L. 105–85, div. A, title X, § 1065(b)][/us/pl/105/85/s1065/b], Nov. 18, 1997, [111 Stat. 1895][/us/stat/111/1895], provided that for each of the first three fiscal years during which the Secretary of the Army sold ammunition or ammunition components under the authority of this section, the Director of the Army Audit Agency was to conduct a review of sales under this section and, not later than 180 days after the end of each fiscal year in which the review was conducted, the Secretary of the Army was to submit to Congress a report containing the results of the review for the fiscal year covered by the report.
+    [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1065(b), Nov. 18, 1997, [111 Stat. 1895][/us/stat/111/1895], provided that for each of the first three fiscal years during which the Secretary of the Army sold ammunition or ammunition components under the authority of this section, the Director of the Army Audit Agency was to conduct a review of sales under this section and, not later than 180 days after the end of each fiscal year in which the review was conducted, the Secretary of the Army was to submit to Congress a report containing the results of the review for the fiscal year covered by the report.
 
 ----------
 
@@ -86,12 +86,12 @@
 
 [/us/usc/t18/s921/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921%2Fa%2F10
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
-[/us/pl/105/85/s1065/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1065%2Fa%2F1
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1893
-[/us/pl/109/364/s1071/a/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F30
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2399
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/105/85/s1065/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1065%2Fb
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1895
 
 

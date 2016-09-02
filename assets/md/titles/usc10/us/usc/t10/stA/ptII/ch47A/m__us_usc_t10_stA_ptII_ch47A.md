@@ -111,7 +111,7 @@
 
  __Codification__ 
 
-    This chapter was originally added by [Pub. L. 109–366, § 3(a)(1)][/us/pl/109/366/s3/a/1], Oct. 17, 2006, [120 Stat. 2600][/us/stat/120/2600], and amended by [Pub. L. 110–181][/us/pl/110/181], Jan. 28, 2008, [122 Stat. 3][/us/stat/122/3]. This chapter is shown here, however, as having been added by [Pub. L. 111–84, div. A, title XVIII, § 1802][/us/pl/111/84/s1802], Oct. 28, 2009, [123 Stat. 2574][/us/stat/123/2574], without reference to those intervening amendments because of the general amendment of this chapter by [Pub. L. 111–84][/us/pl/111/84].
+    This chapter was originally added by [Pub. L. 109–366][/us/pl/109/366], § 3(a)(1), Oct. 17, 2006, [120 Stat. 2600][/us/stat/120/2600], and amended by [Pub. L. 110–181][/us/pl/110/181], Jan. 28, 2008, [122 Stat. 3][/us/stat/122/3]. This chapter is shown here, however, as having been added by [Pub. L. 111–84, div. A, title XVIII][/us/pl/111/84/dA/tXVIII], § 1802, Oct. 28, 2009, [123 Stat. 2574][/us/stat/123/2574], without reference to those intervening amendments because of the general amendment of this chapter by [Pub. L. 111–84][/us/pl/111/84].
 
 ----------
 
@@ -120,11 +120,11 @@
 ----------
 ----------
 
-[/us/pl/109/366/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs3%2Fa%2F1
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/stat/120/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2600
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/stat/122/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3
-[/us/pl/111/84/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1802
+[/us/pl/111/84/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXVIII
 [/us/stat/123/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2574
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 

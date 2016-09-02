@@ -17,7 +17,7 @@
 
     Upon retirement, any permanent professor of the United States Air Force Academy whose grade is below brigadier general, and whose service as such a professor has been long and distinguished, may, in the discretion of the President, be retired in the grade of brigadier general.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 554][/us/stat/70A/554]; [Pub. L. 85–861, § 1(197)][/us/pl/85/861/s1/197], Sept. 2, 1958, [72 Stat. 1541][/us/stat/72/1541]; [Pub. L. 89–288, § 6][/us/pl/89/288/s6], Oct. 22, 1965, [79 Stat. 1050][/us/stat/79/1050]; [Pub. L. 96–343, § 13(b)(1)][/us/pl/96/343/s13/b/1], (2), Sept. 8, 1980, [94 Stat. 1131][/us/stat/94/1131]; [Pub. L. 96–513, title V, § 504(20)][/us/pl/96/513/s504/20], Dec. 12, 1980, [94 Stat. 2917][/us/stat/94/2917]; [Pub. L. 104–106, div. A, title V, § 502(c)][/us/pl/104/106/s502/c], (d)(1), Feb. 10, 1996, [110 Stat. 293][/us/stat/110/293].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 554][/us/stat/70A/554]; [Pub. L. 85–861][/us/pl/85/861], § 1(197), Sept. 2, 1958, [72 Stat. 1541][/us/stat/72/1541]; [Pub. L. 89–288][/us/pl/89/288], § 6, Oct. 22, 1965, [79 Stat. 1050][/us/stat/79/1050]; [Pub. L. 96–343][/us/pl/96/343], § 13(b)(1), (2), Sept. 8, 1980, [94 Stat. 1131][/us/stat/94/1131]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 504(20), Dec. 12, 1980, [94 Stat. 2917][/us/stat/94/2917]; [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 502(c), (d)(1), Feb. 10, 1996, [110 Stat. 293][/us/stat/110/293].)
 
 <table>
 
@@ -137,11 +137,11 @@ Source (Statutes at Large)  </td>
 
     1996—[Pub. L. 104–106][/us/pl/104/106] designated subsec. (b) as entire section and struck out subsec. (a) which read as follows: “Upon retirement, a commissioned officer of the Air Force who has served (1) as Chief of Staff to the President, (2) as Chief of Staff of the Air Force, (3) as a senior member of the Military Staff Committee of the United Nations, or (4) as Surgeon General of the Air Force in the grade of lieutenant general may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade in which he served on active duty.”
 
-    1980—[Pub. L. 96–343, § 13(b)(2)][/us/pl/96/343/s13/b/2], substituted “positions” for “positions: regular commissioned officers” in section catchline.
+    1980—[Pub. L. 96–343][/us/pl/96/343], § 13(b)(2), substituted “positions” for “positions: regular commissioned officers” in section catchline.
 
     Subsec. (a). [Pub. L. 96–513][/us/pl/96/513] substituted “or (4)” for “(4) in a position of importance and responsibility designated by the President to carry the grade of general or lieutenant general under [section 8066 of this title][/us/usc/t10/s8066], or (5)”.
 
-    [Pub. L. 96–343, § 13(b)(1)][/us/pl/96/343/s13/b/1], substituted “Air Force who has” for “Regular Air Force who has” and “in which he served on active duty” for “held by him at any time on the active list”.
+    [Pub. L. 96–343][/us/pl/96/343], § 13(b)(1), substituted “Air Force who has” for “Regular Air Force who has” and “in which he served on active duty” for “held by him at any time on the active list”.
 
     1965—Subsec. (a). [Pub. L. 89–288][/us/pl/89/288] added the Surgeon General of the Air Force to the list of commissioned officers who may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade held by him at any time on the active list.
 
@@ -168,15 +168,15 @@ Source (Statutes at Large)  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F554
-[/us/pl/85/861/s1/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F197
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1541
-[/us/pl/89/288/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F288%2Fs6
+[/us/pl/89/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F288
 [/us/stat/79/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1050
-[/us/pl/96/343/s13/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343%2Fs13%2Fb%2F1
+[/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
 [/us/stat/94/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1131
-[/us/pl/96/513/s504/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs504%2F20
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2917
-[/us/pl/104/106/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs502%2Fc
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F293
 [/us/usc/t10/s8066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8066
 [/us/usc/t10/s8071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8071
@@ -185,10 +185,10 @@ Source (Statutes at Large)  </td>
 [/us/stat/70/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F222
 [/us/usc/t10/s8963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8963
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/96/343/s13/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343%2Fs13%2Fb%2F2
+[/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/usc/t10/s8066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8066
-[/us/pl/96/343/s13/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343%2Fs13%2Fb%2F1
+[/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
 [/us/pl/89/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F288
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/usc/t10/s8071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8071

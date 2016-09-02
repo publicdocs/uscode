@@ -71,23 +71,23 @@
 
             (C) A vessel not described in subparagraph (A) or (B) that is operated pursuant to a contract entered into by the Secretary of the Navy and the Maritime Administration or the United States Transportation Command in support of Department of Defense operations.
 
-(Added and amended [Pub. L. 103–160, div. A, title III, § 367][/us/pl/103/160/s367], title VIII, § 824(b), Nov. 30, 1993, [107 Stat. 1632][/us/stat/107/1632], 1710; [Pub. L. 104–106, div. A, title X, § 1017][/us/pl/104/106/s1017], Feb. 10, 1996, [110 Stat. 425][/us/stat/110/425]; [Pub. L. 109–364, div. A, title X, § 1014][/us/pl/109/364/s1014], Oct. 17, 2006, [120 Stat. 2376][/us/stat/120/2376]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1012, Oct. 14, 2008, [122 Stat. 4584][/us/stat/122/4584]; [Pub. L. 112–239, div. A, title III, § 344][/us/pl/112/239/s344], Jan. 2, 2013, [126 Stat. 1700][/us/stat/126/1700].)
+(Added and amended [Pub. L. 103–160, div. A, title III][/us/pl/103/160/dA/tIII], § 367, title VIII, § 824(b), Nov. 30, 1993, [107 Stat. 1632][/us/stat/107/1632], 1710; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1017, Feb. 10, 1996, [110 Stat. 425][/us/stat/110/425]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1014, Oct. 17, 2006, [120 Stat. 2376][/us/stat/120/2376]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1012, Oct. 14, 2008, [122 Stat. 4584][/us/stat/122/4584]; [Pub. L. 112–239, div. A, title III][/us/pl/112/239/dA/tIII], § 344, Jan. 2, 2013, [126 Stat. 1700][/us/stat/126/1700].)
 
  __Prior Provisions__ 
 
-    A prior section 7310, added [Pub. L. 97–295, § 1(49)(A)][/us/pl/97/295/s1/49/A], Oct. 12, 1982, [96 Stat. 1298][/us/stat/96/1298], related to policy for constructing combatant vessels, prior to repeal by [Pub. L. 103–160, § 824(a)(8)][/us/pl/103/160/s824/a/8].
+    A prior section 7310, added [Pub. L. 97–295][/us/pl/97/295], § 1(49)(A), Oct. 12, 1982, [96 Stat. 1298][/us/stat/96/1298], related to policy for constructing combatant vessels, prior to repeal by [Pub. L. 103–160][/us/pl/103/160], § 824(a)(8).
 
  __Amendments__ 
 
-    2013—Subsec. (c)(3). [Pub. L. 112–239, § 344(1)(A)][/us/pl/112/239/s344/1/A], substituted “Except as provided in paragraph (4), the report” for “The report” in introductory provisions.
+    2013—Subsec. (c)(3). [Pub. L. 112–239][/us/pl/112/239], § 344(1)(A), substituted “Except as provided in paragraph (4), the report” for “The report” in introductory provisions.
 
-    Subsec. (c)(3)(A). [Pub. L. 112–239, § 344(1)(B)][/us/pl/112/239/s344/1/B], inserted “and operational justification” after “justification under law”.
+    Subsec. (c)(3)(A). [Pub. L. 112–239][/us/pl/112/239], § 344(1)(B), inserted “and operational justification” after “justification under law”.
 
-    Subsec. (c)(4). [Pub. L. 112–239, § 344(3)][/us/pl/112/239/s344/3], added par. (4). Former par. (4) redesignated (5).
+    Subsec. (c)(4). [Pub. L. 112–239][/us/pl/112/239], § 344(3), added par. (4). Former par. (4) redesignated (5).
 
-    Subsec. (c)(5). [Pub. L. 112–239, § 344(2)][/us/pl/112/239/s344/2], redesignated par. (4) as (5).
+    Subsec. (c)(5). [Pub. L. 112–239][/us/pl/112/239], § 344(2), redesignated par. (4) as (5).
 
-    Subsec. (c)(5)(C). [Pub. L. 112–239, § 344(4)][/us/pl/112/239/s344/4], added subpar. (C).
+    Subsec. (c)(5)(C). [Pub. L. 112–239][/us/pl/112/239], § 344(4), added subpar. (C).
 
     2008—Subsec. (c). [Pub. L. 110–417][/us/pl/110/417] added subsec. (c).
 
@@ -95,7 +95,7 @@
 
     1996—Subsec. (a). [Pub. L. 104–106][/us/pl/104/106] inserted “or Guam” after “outside the United States”.
 
-    1993—Subsec. (b). [Pub. L. 103–160, § 367][/us/pl/103/160/s367], amended subsec. (b) generally, designating existing provisions as par. (1) and adding par. (2).
+    1993—Subsec. (b). [Pub. L. 103–160][/us/pl/103/160], § 367, amended subsec. (b) generally, designating existing provisions as par. (1) and adding par. (2).
 
 ----------
 
@@ -105,27 +105,27 @@
 ----------
 
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/103/160/s367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs367
+[/us/pl/103/160/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIII
 [/us/stat/107/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1632
-[/us/pl/104/106/s1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1017
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F425
-[/us/pl/109/364/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1014
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2376
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4584
-[/us/pl/112/239/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs344
+[/us/pl/112/239/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIII
 [/us/stat/126/1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1700
-[/us/pl/97/295/s1/49/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F49%2FA
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1298
-[/us/pl/103/160/s824/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs824%2Fa%2F8
-[/us/pl/112/239/s344/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs344%2F1%2FA
-[/us/pl/112/239/s344/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs344%2F1%2FB
-[/us/pl/112/239/s344/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs344%2F3
-[/us/pl/112/239/s344/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs344%2F2
-[/us/pl/112/239/s344/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs344%2F4
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/160/s367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs367
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 
 

@@ -133,9 +133,9 @@ Code committee.  </td>
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–337, div. A, title IX, § 924(c)(3)(A)][/us/pl/103/337/s924/c/3/A], Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831], substituted “UNITED STATES COURT OF APPEALS FOR THE ARMED FORCES” for “COURT OF MILITARY APPEALS” as subchapter heading.
+    1994—[Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(c)(3)(A), Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831], substituted “UNITED STATES COURT OF APPEALS FOR THE ARMED FORCES” for “COURT OF MILITARY APPEALS” as subchapter heading.
 
-    1990—[Pub. L. 101–510, div. A, title XIV, § 1484(i)(2)][/us/pl/101/510/s1484/i/2], Nov. 5, 1990, [104 Stat. 1718][/us/stat/104/1718], redesignated subchapter XI as XII.
+    1990—[Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1484(i)(2), Nov. 5, 1990, [104 Stat. 1718][/us/stat/104/1718], redesignated subchapter XI as XII.
 
 ----------
 
@@ -144,9 +144,9 @@ Code committee.  </td>
 ----------
 ----------
 
-[/us/pl/103/337/s924/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fc%2F3%2FA
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2831
-[/us/pl/101/510/s1484/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484%2Fi%2F2
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1718
 
 

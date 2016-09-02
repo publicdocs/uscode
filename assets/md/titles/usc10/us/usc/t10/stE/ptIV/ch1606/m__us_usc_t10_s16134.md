@@ -21,7 +21,7 @@
 
     (2) to a member who fails to participate satisfactorily in required training as a member of the Selected Reserve.
 
-(Added [Pub. L. 95–79, title IV, § 402(a)][/us/pl/95/79/s402/a], July 30, 1977, [91 Stat. 330][/us/stat/91/330], § 2134; amended [Pub. L. 98–94, title XII, § 1268(14)][/us/pl/98/94/s1268/14], Sept. 24, 1983, [97 Stat. 707][/us/stat/97/707]; [Pub. L. 98–525, title VII, § 705(a)(1)][/us/pl/98/525/s705/a/1], Oct. 19, 1984, [98 Stat. 2566][/us/stat/98/2566]; renumbered § 16134, [Pub. L. 103–337, div. A, title XVI, § 1663(b)(2)][/us/pl/103/337/s1663/b/2], Oct. 5, 1994, [108 Stat. 3006][/us/stat/108/3006].)
+(Added [Pub. L. 95–79, title IV][/us/pl/95/79/tIV], § 402(a), July 30, 1977, [91 Stat. 330][/us/stat/91/330], § 2134; amended [Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1268(14), Sept. 24, 1983, [97 Stat. 707][/us/stat/97/707]; [Pub. L. 98–525, title VII][/us/pl/98/525/tVII], § 705(a)(1), Oct. 19, 1984, [98 Stat. 2566][/us/stat/98/2566]; renumbered § 16134, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1663(b)(2), Oct. 5, 1994, [108 Stat. 3006][/us/stat/108/3006].)
 
  __Amendments__ 
 
@@ -43,13 +43,13 @@
 ----------
 
 [/us/usc/t10/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2107
-[/us/pl/95/79/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2Fs402%2Fa
+[/us/pl/95/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2FtIV
 [/us/stat/91/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F330
-[/us/pl/98/94/s1268/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1268%2F14
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F707
-[/us/pl/98/525/s705/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs705%2Fa%2F1
+[/us/pl/98/525/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVII
 [/us/stat/98/2566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2566
-[/us/pl/103/337/s1663/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fb%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3006
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s2134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2134

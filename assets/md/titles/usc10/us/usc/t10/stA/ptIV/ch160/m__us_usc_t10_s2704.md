@@ -71,17 +71,17 @@
 
     The functions of the Secretary of Health and Human Services under this section shall be carried out through the Administrator of the Agency for Toxic Substances and Disease Registry of the Department of Health and Human Services established under section 104(i) of CERCLA ([42 U.S.C. 9604(i)][/us/usc/t42/s9604/i]).
 
-(Added [Pub. L. 99–499, title II, § 211(a)(1)(B)][/us/pl/99/499/s211/a/1/B], Oct. 17, 1986, [100 Stat. 1722][/us/stat/100/1722]; amended [Pub. L. 102–25, title VII, § 701(j)(10)][/us/pl/102/25/s701/j/10], Apr. 6, 1991, [105 Stat. 116][/us/stat/105/116]; [Pub. L. 108–375, div. A, title X, § 1084(d)(27)][/us/pl/108/375/s1084/d/27], Oct. 28, 2004, [118 Stat. 2063][/us/stat/118/2063].)
+(Added [Pub. L. 99–499, title II][/us/pl/99/499/tII], § 211(a)(1)(B), Oct. 17, 1986, [100 Stat. 1722][/us/stat/100/1722]; amended [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 701(j)(10), Apr. 6, 1991, [105 Stat. 116][/us/stat/105/116]; [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(d)(27), Oct. 28, 2004, [118 Stat. 2063][/us/stat/118/2063].)
 
  __References in Text__ 
 
     The Toxic Substances Control Act, referred to in subsec. (a)(2)(A), is [Pub. L. 94–469][/us/pl/94/469], Oct. 11, 1976, [90 Stat. 2003][/us/stat/90/2003], as amended, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15][/us/usc/t15/s2601] and Tables.
 
-    The Safe Drinking Water Act, referred to in subsec. (a)(2)(A), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
+    The Safe Drinking Water Act, referred to in subsec. (a)(2)(A), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523][/us/pl/93/523], § 2(a), [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
 
     The Clean Air Act, referred to in subsec. (a)(2)(A), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], as amended, which is classified generally to chapter 15B (§ 1857 et seq.) of Title 42. On enactment of [Pub. L. 95–95][/us/pl/95/95], the Act was reclassified to chapter 85 (§ 7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42][/us/usc/t42/s7401] and Tables.
 
-    The Clean Water Act, referred to in subsec. (a)(2), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
+    The Clean Water Act, referred to in subsec. (a)(2), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
 
  __Amendments__ 
 
@@ -99,16 +99,16 @@
 [/us/usc/t42/s9604/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9604%2Fi
 [/us/usc/t42/s9604/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9604%2Fi
 [/us/usc/t42/s9604/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9604%2Fi
-[/us/pl/99/499/s211/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs211%2Fa%2F1%2FB
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1722
-[/us/pl/102/25/s701/j/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Fj%2F10
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F116
-[/us/pl/108/375/s1084/d/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F27
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2063
 [/us/pl/94/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469
 [/us/stat/90/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2003
 [/us/usc/t15/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2601
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1660
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
@@ -116,7 +116,7 @@
 [/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375

@@ -53,7 +53,7 @@
 
     The total number of officers who are authorized to wear the insignia for a higher grade under this section shall count against the limitation in [section 777(d) of this title][/us/usc/t10/s777/d] on the total number of officers authorized to wear the insignia of a higher grade.
 
-(Added [Pub. L. 111–383, div. A, title V, § 505(a)(1)][/us/pl/111/383/s505/a/1], Jan. 7, 2011, [124 Stat. 4208][/us/stat/124/4208].)
+(Added [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 505(a)(1), Jan. 7, 2011, [124 Stat. 4208][/us/stat/124/4208].)
 
 ----------
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t10/s777/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs777%2Fd
-[/us/pl/111/383/s505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs505%2Fa%2F1
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4208
 
 

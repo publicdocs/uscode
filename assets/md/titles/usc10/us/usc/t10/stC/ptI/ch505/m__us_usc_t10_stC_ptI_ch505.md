@@ -91,11 +91,11 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–106, div. A, title V, § 502(d)(2)][/us/pl/104/106/s502/d/2], Feb. 10, 1996, [110 Stat. 293][/us/stat/110/293], struck out item 5034 “Chief of Naval Operations: retirement”.
+    1996—[Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 502(d)(2), Feb. 10, 1996, [110 Stat. 293][/us/stat/110/293], struck out item 5034 “Chief of Naval Operations: retirement”.
 
-    1992—[Pub. L. 102–484, div. A, title IX, § 935(b)(2)][/us/pl/102/484/s935/b/2], Oct. 23, 1992, [106 Stat. 2478][/us/stat/106/2478], added item 5038.
+    1992—[Pub. L. 102–484, div. A, title IX][/us/pl/102/484/dA/tIX], § 935(b)(2), Oct. 23, 1992, [106 Stat. 2478][/us/stat/106/2478], added item 5038.
 
-    1986—[Pub. L. 99–433, title V, § 512(b)][/us/pl/99/433/s512/b], Oct. 1, 1986, [100 Stat. 1048][/us/stat/100/1048], inserted heading for new chapter 505 relating to the Office of The Chief of Naval Operations, and items 5031 to 5037. The heading for former chapter 505 relating to Secretary, Under Secretary, and Assistant Secretaries of the Navy, and former items 5031 to 5036 were struck out as part of the repeal of former chapter 505 by [Pub. L. 99–433, title V, § 511(e)][/us/pl/99/433/s511/e], Oct. 1, 1986, [100 Stat. 1048][/us/stat/100/1048].
+    1986—[Pub. L. 99–433, title V][/us/pl/99/433/tV], § 512(b), Oct. 1, 1986, [100 Stat. 1048][/us/stat/100/1048], inserted heading for new chapter 505 relating to the Office of The Chief of Naval Operations, and items 5031 to 5037. The heading for former chapter 505 relating to Secretary, Under Secretary, and Assistant Secretaries of the Navy, and former items 5031 to 5036 were struck out as part of the repeal of former chapter 505 by [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 511(e), Oct. 1, 1986, [100 Stat. 1048][/us/stat/100/1048].
 
 ----------
 
@@ -104,13 +104,13 @@
 ----------
 ----------
 
-[/us/pl/104/106/s502/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs502%2Fd%2F2
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F293
-[/us/pl/102/484/s935/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs935%2Fb%2F2
+[/us/pl/102/484/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIX
 [/us/stat/106/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2478
-[/us/pl/99/433/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs512%2Fb
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1048
-[/us/pl/99/433/s511/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fe
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1048
 
 

@@ -31,11 +31,11 @@
 
     This section does not apply to an officer covered by [section 14512 of this title][/us/usc/t10/s14512].
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2953][/us/stat/108/2953]; amended [Pub. L. 109–364, div. A, title V, § 503(a)][/us/pl/109/364/s503/a], Oct. 17, 2006, [120 Stat. 2178][/us/stat/120/2178]; [Pub. L. 110–181, div. A, title XVIII, § 1825(a)(1)][/us/pl/110/181/s1825/a/1], Jan. 28, 2008, [122 Stat. 501][/us/stat/122/501].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2953][/us/stat/108/2953]; amended [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 503(a), Oct. 17, 2006, [120 Stat. 2178][/us/stat/120/2178]; [Pub. L. 110–181, div. A, title XVIII][/us/pl/110/181/dA/tXVIII], § 1825(a)(1), Jan. 28, 2008, [122 Stat. 501][/us/stat/122/501].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 3844 and 8844 of this title, prior to repeal by [Pub. L. 103–337, § 1629(a)(3)][/us/pl/103/337/s1629/a/3], (c)(3).
+    Provisions similar to those in this section were contained in sections 3844 and 8844 of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(a)(3), (c)(3).
 
  __Amendments__ 
 
@@ -52,13 +52,13 @@
 
 [/us/usc/t10/s14515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14515
 [/us/usc/t10/s14512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14512
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2953
-[/us/pl/109/364/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs503%2Fa
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2178
-[/us/pl/110/181/s1825/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1825%2Fa%2F1
+[/us/pl/110/181/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVIII
 [/us/stat/122/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F501
-[/us/pl/103/337/s1629/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fa%2F3
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t10/s14512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14512
 [/us/usc/t10/s14515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14515

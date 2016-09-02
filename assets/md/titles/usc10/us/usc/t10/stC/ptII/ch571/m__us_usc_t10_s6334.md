@@ -91,7 +91,7 @@
 
     </table>
 
-(Added [Pub. L. 100–180, div. A, title V, § 512(b)][/us/pl/100/180/s512/b], Dec. 4, 1987, [101 Stat. 1089][/us/stat/101/1089]; amended [Pub. L. 101–189, div. A, title XVI, § 1622(g)][/us/pl/101/189/s1622/g], Nov. 29, 1989, [103 Stat. 1605][/us/stat/103/1605].)
+(Added [Pub. L. 100–180, div. A, title V][/us/pl/100/180/dA/tV], § 512(b), Dec. 4, 1987, [101 Stat. 1089][/us/stat/101/1089]; amended [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1622(g), Nov. 29, 1989, [103 Stat. 1605][/us/stat/103/1605].)
 
  __Amendments__ 
 
@@ -104,9 +104,9 @@
 ----------
 ----------
 
-[/us/pl/100/180/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs512%2Fb
+[/us/pl/100/180/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtV
 [/us/stat/101/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1089
-[/us/pl/101/189/s1622/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fg
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1605
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 

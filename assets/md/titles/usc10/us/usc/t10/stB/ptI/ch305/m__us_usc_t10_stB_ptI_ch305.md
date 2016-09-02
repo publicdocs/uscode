@@ -107,15 +107,15 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, div. A, title V, § 543(a)(3)(B)][/us/pl/110/181/s543/a/3/B], Jan. 28, 2008, [122 Stat. 115][/us/stat/122/115], substituted “Deputy” for “Assistant” in item 3037.
+    2008—[Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 543(a)(3)(B), Jan. 28, 2008, [122 Stat. 115][/us/stat/122/115], substituted “Deputy” for “Assistant” in item 3037.
 
-    1994—[Pub. L. 103–337, div. A, title IX, § 904(b)(2)][/us/pl/103/337/s904/b/2], Oct. 5, 1994, [108 Stat. 2827][/us/stat/108/2827], struck out item 3040 “Chief of National Guard Bureau: appointment; acting chief”.
+    1994—[Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 904(b)(2), Oct. 5, 1994, [108 Stat. 2827][/us/stat/108/2827], struck out item 3040 “Chief of National Guard Bureau: appointment; acting chief”.
 
-    1986—[Pub. L. 99–433, title V, § 502(g)(2)][/us/pl/99/433/s502/g/2], Oct. 1, 1986, [100 Stat. 1042][/us/stat/100/1042], amended analysis generally, substituting items 3031 to 3040 for former items 3031 to 3040.
+    1986—[Pub. L. 99–433, title V][/us/pl/99/433/tV], § 502(g)(2), Oct. 1, 1986, [100 Stat. 1042][/us/stat/100/1042], amended analysis generally, substituting items 3031 to 3040 for former items 3031 to 3040.
 
-    1980—[Pub. L. 96–513, title V, § 512(2)][/us/pl/96/513/s512/2], Dec. 12, 1980, [94 Stat. 2929][/us/stat/94/2929], substituted “Deputy Chiefs” for “Deputy Chief” in item 2035, and substituted “appointment” for “appointments” in item 3036.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], § 512(2), Dec. 12, 1980, [94 Stat. 2929][/us/stat/94/2929], substituted “Deputy Chiefs” for “Deputy Chief” in item 2035, and substituted “appointment” for “appointments” in item 3036.
 
-    1966—[Pub. L. 89–718, § 25(b)][/us/pl/89/718/s25/b], Nov. 2, 1966, [80 Stat. 1119][/us/stat/80/1119], struck out item 3038 “Chief of Engineers: additional duties”.
+    1966—[Pub. L. 89–718][/us/pl/89/718], § 25(b), Nov. 2, 1966, [80 Stat. 1119][/us/stat/80/1119], struck out item 3038 “Chief of Engineers: additional duties”.
 
 ----------
 
@@ -124,15 +124,15 @@
 ----------
 ----------
 
-[/us/pl/110/181/s543/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs543%2Fa%2F3%2FB
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F115
-[/us/pl/103/337/s904/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs904%2Fb%2F2
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2827
-[/us/pl/99/433/s502/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs502%2Fg%2F2
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1042
-[/us/pl/96/513/s512/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs512%2F2
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2929
-[/us/pl/89/718/s25/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs25%2Fb
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1119
 
 

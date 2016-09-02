@@ -17,7 +17,7 @@
 
     The simplified acquisition procedures contained in the Federal Acquisition Regulation pursuant to [section 1901 of title 41][/us/usc/t41/s1901] shall apply as provided in such section to the agencies named in [section 2303(a) of this title][/us/usc/t10/s2303/a].
 
-(Added [Pub. L. 103–355, title IV, § 4203(a)(1)][/us/pl/103/355/s4203/a/1], Oct. 13, 1994, [108 Stat. 3345][/us/stat/108/3345]; amended [Pub. L. 111–350, § 5(b)(10)][/us/pl/111/350/s5/b/10], Jan. 4, 2011, [124 Stat. 3843][/us/stat/124/3843].)
+(Added [Pub. L. 103–355, title IV][/us/pl/103/355/tIV], § 4203(a)(1), Oct. 13, 1994, [108 Stat. 3345][/us/stat/108/3345]; amended [Pub. L. 111–350][/us/pl/111/350], § 5(b)(10), Jan. 4, 2011, [124 Stat. 3843][/us/stat/124/3843].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 
 [/us/usc/t41/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1901
 [/us/usc/t10/s2303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2303%2Fa
-[/us/pl/103/355/s4203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs4203%2Fa%2F1
+[/us/pl/103/355/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtIV
 [/us/stat/108/3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3345
-[/us/pl/111/350/s5/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F10
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3843
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1901

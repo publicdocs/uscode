@@ -17,7 +17,7 @@
 
     Whenever the President considers that unlawful obstructions, combinations, or assemblages, or rebellion against the authority of the United States, make it impracticable to enforce the laws of the United States in any State by the ordinary course of judicial proceedings, he may call into Federal service such of the militia of any State, and use such of the armed forces, as he considers necessary to enforce those laws or to suppress the rebellion.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 15][/us/stat/70A/15]; [Pub. L. 109–163, div. A, title X, § 1057(a)(2)][/us/pl/109/163/s1057/a/2], Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 15][/us/stat/70A/15]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(a)(2), Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440].)
 
 <table>
 
@@ -67,7 +67,7 @@ R.S. 5298.  </td>
 
  __Derivation__ 
 
-    [Act July 29, 1861, ch. 25, § 1][/us/act/1861-07-29/ch25/s1], [12 Stat. 281][/us/stat/12/281].
+    [Act July 29, 1861, ch. 25][/us/act/1861-07-29/ch25], § 1, [12 Stat. 281][/us/stat/12/281].
 
  __Amendments__ 
 
@@ -98,9 +98,9 @@ R.S. 5298.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F15
-[/us/pl/109/163/s1057/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F2
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3440
-[/us/act/1861-07-29/ch25/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-07-29%2Fch25%2Fs1
+[/us/act/1861-07-29/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-07-29%2Fch25
 [/us/stat/12/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F281
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 

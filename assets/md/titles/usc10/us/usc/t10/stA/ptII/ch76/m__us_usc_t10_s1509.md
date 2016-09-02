@@ -101,47 +101,47 @@
 
         (3) In carrying out the program, the designated Agency Director shall coordinate all external communications and events associated with the program.
 
-(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)][/us/pl/104/106/s569/b/1], Feb. 10, 1996, [110 Stat. 348][/us/stat/110/348]; amended [Pub. L. 104–201, div. A, title V, § 578(f)(1)][/us/pl/104/201/s578/f/1], (2)(A), Sept. 23, 1996, [110 Stat. 2537][/us/stat/110/2537]; [Pub. L. 105–85, div. A, title V, § 599(e)][/us/pl/105/85/s599/e], Nov. 18, 1997, [111 Stat. 1769][/us/stat/111/1769]; [Pub. L. 106–65, div. A, title X, § 1066(a)(14)][/us/pl/106/65/s1066/a/14], Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771]; [Pub. L. 111–84, div. A, title V, § 541(a)][/us/pl/111/84/s541/a], Oct. 28, 2009, [123 Stat. 2296][/us/stat/123/2296]; [Pub. L. 113–291, div. A, title IX, § 916(d)][/us/pl/113/291/s916/d], (f)(1), Dec. 19, 2014, [128 Stat. 3478][/us/stat/128/3478], 3479.)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 569(b)(1), Feb. 10, 1996, [110 Stat. 348][/us/stat/110/348]; amended [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 578(f)(1), (2)(A), Sept. 23, 1996, [110 Stat. 2537][/us/stat/110/2537]; [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 599(e), Nov. 18, 1997, [111 Stat. 1769][/us/stat/111/1769]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1066(a)(14), Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771]; [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 541(a), Oct. 28, 2009, [123 Stat. 2296][/us/stat/123/2296]; [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 916(d), (f)(1), Dec. 19, 2014, [128 Stat. 3478][/us/stat/128/3478], 3479.)
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–291, § 916(f)(1)][/us/pl/113/291/s916/f/1], substituted “Program to resolve missing person cases” for “Program to resolve preenactment missing person cases” in section catchline.
+    2014—[Pub. L. 113–291][/us/pl/113/291], § 916(f)(1), substituted “Program to resolve missing person cases” for “Program to resolve preenactment missing person cases” in section catchline.
 
-    Subsec. (b). [Pub. L. 113–291, § 916(d)(1)(A)][/us/pl/113/291/s916/d/1/A], struck out “Process” after “Implementation” in heading.
+    Subsec. (b). [Pub. L. 113–291][/us/pl/113/291], § 916(d)(1)(A), struck out “Process” after “Implementation” in heading.
 
-    Subsec. (b)(1). [Pub. L. 113–291, § 916(d)(1)(B)][/us/pl/113/291/s916/d/1/B], substituted “through the designated Agency Director” for “POW/MIA accounting community”.
+    Subsec. (b)(1). [Pub. L. 113–291][/us/pl/113/291], § 916(d)(1)(B), substituted “through the designated Agency Director” for “POW/MIA accounting community”.
 
-    Subsec. (b)(2). [Pub. L. 113–291, § 916(d)(1)(C)][/us/pl/113/291/s916/d/1/C], added par. (2) and struck out former par. (2) which defined “POW/MIA accounting community”.
+    Subsec. (b)(2). [Pub. L. 113–291][/us/pl/113/291], § 916(d)(1)(C), added par. (2) and struck out former par. (2) which defined “POW/MIA accounting community”.
 
-    Subsec. (d). [Pub. L. 113–291, § 916(d)(2)(A)][/us/pl/113/291/s916/d/2/A], inserted “; Centralized Database” after “Files” in heading.
+    Subsec. (d). [Pub. L. 113–291][/us/pl/113/291], § 916(d)(2)(A), inserted “; Centralized Database” after “Files” in heading.
 
-    Subsec. (d)(4). [Pub. L. 113–291, § 916(d)(2)(B)][/us/pl/113/291/s916/d/2/B], added par. (4).
+    Subsec. (d)(4). [Pub. L. 113–291][/us/pl/113/291], § 916(d)(2)(B), added par. (4).
 
-    Subsec. (f)(1). [Pub. L. 113–291, § 916(d)(3)(A)][/us/pl/113/291/s916/d/3/A], substituted “In carrying out the program, the designated Agency Director shall ensure coordination” for “In establishing and carrying out the program, the Secretary of Defense shall coordinate”.
+    Subsec. (f)(1). [Pub. L. 113–291][/us/pl/113/291], § 916(d)(3)(A), substituted “In carrying out the program, the designated Agency Director shall ensure coordination” for “In establishing and carrying out the program, the Secretary of Defense shall coordinate”.
 
-    Subsec. (f)(2). [Pub. L. 113–291, § 916(d)(3)(B)][/us/pl/113/291/s916/d/3/B], inserted “staff” after “National Security Council” and struck out “POW/MIA accounting community” after “Department of Defense”.
+    Subsec. (f)(2). [Pub. L. 113–291][/us/pl/113/291], § 916(d)(3)(B), inserted “staff” after “National Security Council” and struck out “POW/MIA accounting community” after “Department of Defense”.
 
-    Subsec. (f)(3). [Pub. L. 113–291, § 916(d)(3)(C)][/us/pl/113/291/s916/d/3/C], added par. (3).
+    Subsec. (f)(3). [Pub. L. 113–291][/us/pl/113/291], § 916(d)(3)(C), added par. (3).
 
     2009—[Pub. L. 111–84][/us/pl/111/84] amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to review of status of missing person cases arising before enactment of this chapter.
 
     1999—Subsec. (a)(2)(A), (B). [Pub. L. 106–65][/us/pl/106/65] substituted “November 18, 1997,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998”.
 
-    1997—Subsec. (a). [Pub. L. 105–85, § 599(e)(1)][/us/pl/105/85/s599/e/1], added subsec. (a) and struck out former subsec. (a) which read as follows:
+    1997—Subsec. (a). [Pub. L. 105–85][/us/pl/105/85], § 599(e)(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
 
     “(a) Review of Status.—In the case of an unaccounted for person covered by [section 1501(c) of this title][/us/usc/t10/s1501/c] who is described in subsection (b), if new information that could change the status of that person is found or received by a United States intelligence agency, by a Department of Defense agency, or by a person specified in [section 1504(g) of this title][/us/usc/t10/s1504/g], that information shall be provided to the Secretary of Defense with a request that the Secretary evaluate the information in accordance with sections 1505(c) and 1505(d) of this title.”
 
-    Subsec. (d). [Pub. L. 105–85, § 599(e)(2)][/us/pl/105/85/s599/e/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 105–85][/us/pl/105/85], § 599(e)(2), added subsec. (d).
 
-    1996—[Pub. L. 104–201, § 578(f)(2)(A)][/us/pl/104/201/s578/f/2/A], struck out “, special interest” after “Preenactment” in section catchline.
+    1996—[Pub. L. 104–201][/us/pl/104/201], § 578(f)(2)(A), struck out “, special interest” after “Preenactment” in section catchline.
 
-    Subsecs. (c), (d). [Pub. L. 104–201, § 578(f)(1)][/us/pl/104/201/s578/f/1], redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows:
+    Subsecs. (c), (d). [Pub. L. 104–201][/us/pl/104/201], § 578(f)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows:
 
     “(c) Special Rule for Persons Classified as ‘KIA/BNR’.—In the case of a person described in subsection (b) who was classified as ‘killed in action/body not recovered’, the case of that person may be reviewed under this section only if the new information referred to in subsection (a) is compelling.”
 
  __Implementation__ 
 
-[Pub. L. 111–84, div. A, title V, § 541(d)][/us/pl/111/84/s541/d], Oct. 28, 2009, [123 Stat. 2298][/us/stat/123/2298], provided that:
+[Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 541(d), Oct. 28, 2009, [123 Stat. 2298][/us/stat/123/2298], provided that:
 
 >     “(1)  __Priority__  __.—__ 
 
@@ -173,36 +173,36 @@
 [/us/usc/t10/s1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1506
 [/us/usc/t10/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1505
 [/us/usc/t10/s1504/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1504%2Fg
-[/us/pl/104/106/s569/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fb%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F348
-[/us/pl/104/201/s578/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs578%2Ff%2F1
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2537
-[/us/pl/105/85/s599/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs599%2Fe
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1769
-[/us/pl/106/65/s1066/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fa%2F14
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F771
-[/us/pl/111/84/s541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs541%2Fa
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2296
-[/us/pl/113/291/s916/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fd
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3478
-[/us/pl/113/291/s916/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Ff%2F1
-[/us/pl/113/291/s916/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fd%2F1%2FA
-[/us/pl/113/291/s916/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fd%2F1%2FB
-[/us/pl/113/291/s916/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fd%2F1%2FC
-[/us/pl/113/291/s916/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fd%2F2%2FA
-[/us/pl/113/291/s916/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fd%2F2%2FB
-[/us/pl/113/291/s916/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fd%2F3%2FA
-[/us/pl/113/291/s916/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fd%2F3%2FB
-[/us/pl/113/291/s916/d/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fd%2F3%2FC
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/105/85/s599/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs599%2Fe%2F1
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/usc/t10/s1501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1501%2Fc
 [/us/usc/t10/s1504/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1504%2Fg
-[/us/pl/105/85/s599/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs599%2Fe%2F2
-[/us/pl/104/201/s578/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs578%2Ff%2F2%2FA
-[/us/pl/104/201/s578/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs578%2Ff%2F1
-[/us/pl/111/84/s541/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs541%2Fd
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2298
 [/us/usc/t10/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1509
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106

@@ -47,7 +47,7 @@
 
     Whenever the Secretary of Defense provides assistance to a foreign nation under this section, the Secretary shall submit to the congressional defense committees a report on the assistance provided. Each such report shall identify the nation to which the assistance was provided and include a description of the type and amount of the assistance provided.
 
-(Added [Pub. L. 110–181, div. A, title XII, § 1207(a)][/us/pl/110/181/s1207/a], Jan. 28, 2008, [122 Stat. 367][/us/stat/122/367]; amended [Pub. L. 112–81, div. A, title X, § 1064(5)][/us/pl/112/81/s1064/5], Dec. 31, 2011, [125 Stat. 1587][/us/stat/125/1587].)
+(Added [Pub. L. 110–181, div. A, title XII][/us/pl/110/181/dA/tXII], § 1207(a), Jan. 28, 2008, [122 Stat. 367][/us/stat/122/367]; amended [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1064(5), Dec. 31, 2011, [125 Stat. 1587][/us/stat/125/1587].)
 
  __Amendments__ 
 
@@ -68,9 +68,9 @@
 ----------
 ----------
 
-[/us/pl/110/181/s1207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1207%2Fa
+[/us/pl/110/181/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXII
 [/us/stat/122/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F367
-[/us/pl/112/81/s1064/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1064%2F5
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1587
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 

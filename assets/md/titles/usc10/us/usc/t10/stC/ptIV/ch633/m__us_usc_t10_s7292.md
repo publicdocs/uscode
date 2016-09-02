@@ -21,7 +21,7 @@
 
     (c) The Secretary of the Navy may change the name of any vessel bought for the Navy.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 448][/us/stat/70A/448]; [Pub. L. 112–239, div. A, title X, § 1018(b)][/us/pl/112/239/s1018/b], Jan. 2, 2013, [126 Stat. 1910][/us/stat/126/1910]; [Pub. L. 113–291, div. A, title X, § 1071(f)(27)][/us/pl/113/291/s1071/f/27], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511]; [Pub. L. 114–92, div. A, title X, § 1074(a)][/us/pl/114/92/s1074/a], Nov. 25, 2015, [129 Stat. 996][/us/stat/129/996].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 448][/us/stat/70A/448]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1018(b), Jan. 2, 2013, [126 Stat. 1910][/us/stat/126/1910]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(f)(27), Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1074(a), Nov. 25, 2015, [129 Stat. 996][/us/stat/129/996].)
 
 <table>
 
@@ -119,13 +119,13 @@ R.S. 1533.  </td>
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–239, div. A, title X, § 1018(c)][/us/pl/112/239/s1018/c], Jan. 2, 2013, [126 Stat. 1911][/us/stat/126/1911], provided that: 
+[Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1018(c), Jan. 2, 2013, [126 Stat. 1911][/us/stat/126/1911], provided that: 
 
 > “This section \[amending this section and enacting provisions set out as a note under this section\] and the amendment made by this section shall go into effect on the date that is 30 days after the date of the enactment of this Act \[Jan. 2, 2013\].”
 
  __Findings__ 
 
-[Pub. L. 112–239, div. A, title X, § 1018(a)][/us/pl/112/239/s1018/a], Jan. 2, 2013, [126 Stat. 1910][/us/stat/126/1910], provided that: 
+[Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1018(a), Jan. 2, 2013, [126 Stat. 1910][/us/stat/126/1910], provided that: 
 
 > “Congress makes the following findings:
 
@@ -144,18 +144,18 @@ R.S. 1533.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F448
-[/us/pl/112/239/s1018/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1018%2Fb
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1910
-[/us/pl/113/291/s1071/f/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F27
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
-[/us/pl/114/92/s1074/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1074%2Fa
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F996
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/112/239/s1018/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1018%2Fc
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1911
-[/us/pl/112/239/s1018/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1018%2Fa
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1910
 
 

@@ -39,7 +39,7 @@
 
         (2) Paragraph (1) shall not apply in the case of the closure of a commissary store as part of the closure of a military installation under a base closure law.
 
-(Added [Pub. L. 108–375, div. A, title VI, § 651(a)(3)][/us/pl/108/375/s651/a/3], Oct. 28, 2004, [118 Stat. 1965][/us/stat/118/1965]; amended [Pub. L. 112–81, div. A, title X, § 1064(6)][/us/pl/112/81/s1064/6], Dec. 31, 2011, [125 Stat. 1587][/us/stat/125/1587].)
+(Added [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 651(a)(3), Oct. 28, 2004, [118 Stat. 1965][/us/stat/118/1965]; amended [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1064(6), Dec. 31, 2011, [125 Stat. 1587][/us/stat/125/1587].)
 
  __Prior Provisions__ 
 
@@ -53,7 +53,7 @@
 
  __Prohibition on Consolidation or Other Organizational Changes of Department of Defense Retail Systems__ 
 
-    [Pub. L. 105–261, div. A, title III, § 367][/us/pl/105/261/s367], Oct. 17, 1998, [112 Stat. 1987][/us/stat/112/1987], which provided that the operation and administration of the defense retail systems could not be consolidated or otherwise merged unless the consolidation or merger was specifically authorized by a law enacted after Oct. 17, 1998, was repealed by [Pub. L. 108–375, div. A, title VI, § 651(e)(3)][/us/pl/108/375/s651/e/3], Oct. 28, 2004, [118 Stat. 1972][/us/stat/118/1972].
+    [Pub. L. 105–261, div. A, title III][/us/pl/105/261/dA/tIII], § 367, Oct. 17, 1998, [112 Stat. 1987][/us/stat/112/1987], which provided that the operation and administration of the defense retail systems could not be consolidated or otherwise merged unless the consolidation or merger was specifically authorized by a law enacted after Oct. 17, 1998, was repealed by [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 651(e)(3), Oct. 28, 2004, [118 Stat. 1972][/us/stat/118/1972].
 
 ----------
 
@@ -62,16 +62,16 @@
 ----------
 ----------
 
-[/us/pl/108/375/s651/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs651%2Fa%2F3
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1965
-[/us/pl/112/81/s1064/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1064%2F6
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1587
 [/us/usc/t10/s2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2485
 [/us/usc/t10/s2492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2492
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/105/261/s367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs367
+[/us/pl/105/261/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIII
 [/us/stat/112/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1987
-[/us/pl/108/375/s651/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs651%2Fe%2F3
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1972
 
 

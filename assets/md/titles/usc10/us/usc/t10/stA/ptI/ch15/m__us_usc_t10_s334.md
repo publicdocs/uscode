@@ -17,7 +17,7 @@
 
     Whenever the President considers it necessary to use the militia or the armed forces under this chapter, he shall, by proclamation, immediately order the insurgents to disperse and retire peaceably to their abodes within a limited time.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 16][/us/stat/70A/16]; [Pub. L. 109–364, div. A, title X, § 1076(a)(2)][/us/pl/109/364/s1076/a/2], Oct. 17, 2006, [120 Stat. 2405][/us/stat/120/2405]; [Pub. L. 110–181, div. A, title X, § 1068(a)(2)][/us/pl/110/181/s1068/a/2], Jan. 28, 2008, [122 Stat. 325][/us/stat/122/325].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 16][/us/stat/70A/16]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1076(a)(2), Oct. 17, 2006, [120 Stat. 2405][/us/stat/120/2405]; [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1068(a)(2), Jan. 28, 2008, [122 Stat. 325][/us/stat/122/325].)
 
 <table>
 
@@ -67,7 +67,7 @@ R.S. 5300.  </td>
 
  __Derivation__ 
 
-    [Act July 29, 1861, ch. 25, § 2][/us/act/1861-07-29/ch25/s2], [12 Stat. 282][/us/stat/12/282].
+    [Act July 29, 1861, ch. 25][/us/act/1861-07-29/ch25], § 2, [12 Stat. 282][/us/stat/12/282].
 
  __Amendments__ 
 
@@ -120,11 +120,11 @@ R.S. 5300.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F16
-[/us/pl/109/364/s1076/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1076%2Fa%2F2
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2405
-[/us/pl/110/181/s1068/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1068%2Fa%2F2
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F325
-[/us/act/1861-07-29/ch25/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-07-29%2Fch25%2Fs2
+[/us/act/1861-07-29/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1861-07-29%2Fch25
 [/us/stat/12/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F282
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364

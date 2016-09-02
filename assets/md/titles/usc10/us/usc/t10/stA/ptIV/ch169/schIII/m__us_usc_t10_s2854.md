@@ -19,7 +19,7 @@
 
     (b) When a decision is made to carry out construction under this section and the cost of the repair, restoration, or replacement is greater than the maximum amount for a minor construction project, the Secretary concerned shall notify in writing the appropriate committees of Congress of that decision, of the justification for the project, of the current estimate of the cost of the project, of the source of funds for the project, and of the justification for carrying out the project under this section. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 
-(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 165][/us/stat/96/165]; amended [Pub. L. 102–190, div. B, title XXVIII, § 2870(7)][/us/pl/102/190/s2870/7], Dec. 5, 1991, [105 Stat. 1563][/us/stat/105/1563]; [Pub. L. 108–136, div. A, title X, § 1031(a)(45)][/us/pl/108/136/s1031/a/45], Nov. 24, 2003, [117 Stat. 1602][/us/stat/117/1602].)
+(Added [Pub. L. 97–214][/us/pl/97/214], § 2(a), July 12, 1982, [96 Stat. 165][/us/stat/96/165]; amended [Pub. L. 102–190, div. B, title XXVIII][/us/pl/102/190/dB/tXXVIII], § 2870(7), Dec. 5, 1991, [105 Stat. 1563][/us/stat/105/1563]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(45), Nov. 24, 2003, [117 Stat. 1602][/us/stat/117/1602].)
 
  __Amendments__ 
 
@@ -39,11 +39,11 @@
 ----------
 
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
-[/us/pl/97/214/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs2%2Fa
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F165
-[/us/pl/102/190/s2870/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs2870%2F7
+[/us/pl/102/190/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdB%2FtXXVIII
 [/us/stat/105/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1563
-[/us/pl/108/136/s1031/a/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F45
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1602
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480

@@ -23,29 +23,29 @@
 
     The Secretary shall ensure that, to the maximum extent practicable, acquisition workforce policies and procedures established in accordance with this chapter are uniform in their implementation throughout the Department of Defense.
 
-(Added [Pub. L. 101–510, div. A, title XII, § 1202(a)][/us/pl/101/510/s1202/a], Nov. 5, 1990, [104 Stat. 1638][/us/stat/104/1638].)
+(Added [Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1202(a), Nov. 5, 1990, [104 Stat. 1638][/us/stat/104/1638].)
 
  __Effective Date__ 
 
-[Pub. L. 101–510, div. A, title XII, § 1211][/us/pl/101/510/s1211], Nov. 5, 1990, [104 Stat. 1667][/us/stat/104/1667], provided that: 
+[Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1211, Nov. 5, 1990, [104 Stat. 1667][/us/stat/104/1667], provided that: 
 
 > “Except as otherwise provided in this title \[see Short Title note below\], this title and the amendments made by this title, including chapter 87 of title 10, United States Code (as added by section 1202), shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\].”
 
  __Short Title__ 
 
-[Pub. L. 101–510, div. A, title XII, § 1201][/us/pl/101/510/s1201], Nov. 5, 1990, [104 Stat. 1638][/us/stat/104/1638], provided that: 
+[Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1201, Nov. 5, 1990, [104 Stat. 1638][/us/stat/104/1638], provided that: 
 
 > “This title \[enacting this chapter, sections 5379 and 5380 of Title 5, Government Organization and Employees, and [section 317 of Title 37][/us/usc/t37/s317], Pay and Allowances of the Uniformed Services, amending sections 101 and 2435 of this title and sections 4107, 4301, 5102, 5532, 5724, 5742, 5924, 5942, 8344, and 8468 of Title 5, repealing sections 1621 to 1624 of this title, enacting provisions set out as notes under this section and sections 1621 to 1623, 1705, 1721, 1722, 1724, 1733, 1734, 1746, 1761, 1762, and 2435 of this title, sections 3326, 5380, and 5532 of Title 5, and [section 317 of Title 37][/us/usc/t37/s317], and repealing provisions set out as a note under [section 2304 of this title][/us/usc/t10/s2304]\] may be cited as the ‘Defense Acquisition Workforce Improvement Act’.”
 
  __Regulations__ 
 
-[Pub. L. 101–510, div. A, title XII, § 1210(a)][/us/pl/101/510/s1210/a], Nov. 5, 1990, [104 Stat. 1667][/us/stat/104/1667], provided that: 
+[Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1210(a), Nov. 5, 1990, [104 Stat. 1667][/us/stat/104/1667], provided that: 
 
 > “Unless otherwise provided in this title \[see Short Title note above\] and in subsection (b) \[set out below\], the Secretary of Defense shall promulgate regulations to implement this title and the amendments made by this title not later than one year after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
  __Pilot Program on Temporary Exchange of Financial Management and Acquisition Personnel__ 
 
-[Pub. L. 114–92, div. A, title XI, § 1110][/us/pl/114/92/s1110], Nov. 25, 2015, [129 Stat. 1030][/us/stat/129/1030], provided that:
+[Pub. L. 114–92, div. A, title XI][/us/pl/114/92/dA/tXI], § 1110, Nov. 25, 2015, [129 Stat. 1030][/us/stat/129/1030], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -151,7 +151,7 @@
 
  __Pilot Program on Enhanced Pay Authority for Certain Acquisition and Technology Positions in the Department of Defense__ 
 
-[Pub. L. 114–92, div. A, title XI, § 1111][/us/pl/114/92/s1111], Nov. 25, 2015, [129 Stat. 1032][/us/stat/129/1032], provided that:
+[Pub. L. 114–92, div. A, title XI][/us/pl/114/92/dA/tXI], § 1111, Nov. 25, 2015, [129 Stat. 1032][/us/stat/129/1032], provided that:
 
 >     “(a)  __Pilot Program Authorized__  __.—__ 
 
@@ -207,7 +207,7 @@
 
  __Pilot Program on Direct Hire Authority for Veteran Technical Experts Into the Defense Acquisition Workforce__ 
 
-[Pub. L. 114–92, div. A, title XI, § 1112][/us/pl/114/92/s1112], Nov. 25, 2015, [129 Stat. 1033][/us/stat/129/1033], provided that:
+[Pub. L. 114–92, div. A, title XI][/us/pl/114/92/dA/tXI], § 1112, Nov. 25, 2015, [129 Stat. 1033][/us/stat/129/1033], provided that:
 
 >     “(a)  __Pilot Program__  __.—__ 
 
@@ -241,7 +241,7 @@
 
  __Direct Hire Authority for Technical Experts Into the Defense Acquisition Workforce__ 
 
-[Pub. L. 114–92, div. A, title XI, § 1113][/us/pl/114/92/s1113], Nov. 25, 2015, [129 Stat. 1033][/us/stat/129/1033], provided that:
+[Pub. L. 114–92, div. A, title XI][/us/pl/114/92/dA/tXI], § 1113, Nov. 25, 2015, [129 Stat. 1033][/us/stat/129/1033], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -269,7 +269,7 @@
 
  __Coordination of Human Systems Integration Activities Related to Acquisition Programs__ 
 
-[Pub. L. 110–181, div. A, title II, § 231][/us/pl/110/181/s231], Jan. 28, 2008, [122 Stat. 45][/us/stat/122/45], provided that:
+[Pub. L. 110–181, div. A, title II][/us/pl/110/181/dA/tII], § 231, Jan. 28, 2008, [122 Stat. 45][/us/stat/122/45], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -293,7 +293,7 @@
 
  __Requirements for Senior Department of Defense Officials Seeking Employment With Defense Contractors__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 847][/us/pl/110/181/s847], Jan. 28, 2008, [122 Stat. 243][/us/stat/122/243], as amended by [Pub. L. 113–291, div. A, title VIII, § 855][/us/pl/113/291/s855], title X, § 1071(b)(2)(C), Dec. 19, 2014, [128 Stat. 3460][/us/stat/128/3460], 3506, provided that:
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 847, Jan. 28, 2008, [122 Stat. 243][/us/stat/122/243], as amended by [Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 855, title X, § 1071(b)(2)(C), Dec. 19, 2014, [128 Stat. 3460][/us/stat/128/3460], 3506, provided that:
 
 >     “(a) __Requirement to Seek and Obtain Written Opinion.—__ 
 
@@ -355,19 +355,19 @@
 
  __Government Performance of Critical Acquisition Functions__ 
 
-    [Pub. L. 109–364, div. A, title VIII, § 820][/us/pl/109/364/s820], Oct. 17, 2006, [120 Stat. 2330][/us/stat/120/2330], as amended by [Pub. L. 111–84, div. A, title VIII, § 805(c)][/us/pl/111/84/s805/c], Oct. 28, 2009, [123 Stat. 2403][/us/stat/123/2403]; [Pub. L. 112–81, div. A, title VIII, § 835(a)][/us/pl/112/81/s835/a], Dec. 31, 2011, [125 Stat. 1507][/us/stat/125/1507], which related to government performance of critical acquisition functions, was repealed by [Pub. L. 112–239, div. A, title VIII, § 824(b)][/us/pl/112/239/s824/b], Jan. 2, 2013, [126 Stat. 1833][/us/stat/126/1833].
+    [Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 820, Oct. 17, 2006, [120 Stat. 2330][/us/stat/120/2330], as amended by [Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], § 805(c), Oct. 28, 2009, [123 Stat. 2403][/us/stat/123/2403]; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 835(a), Dec. 31, 2011, [125 Stat. 1507][/us/stat/125/1507], which related to government performance of critical acquisition functions, was repealed by [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 824(b), Jan. 2, 2013, [126 Stat. 1833][/us/stat/126/1833].
 
  __Demonstration Project Relating to Certain Personnel Management Policies and Procedures__ 
 
-    [Pub. L. 104–106, div. D, title XLIII, § 4308][/us/pl/104/106/s4308], Feb. 10, 1996, [110 Stat. 669][/us/stat/110/669], as amended by [Pub. L. 105–85, div. A, title VIII, § 845][/us/pl/105/85/s845], Nov. 18, 1997, [111 Stat. 1845][/us/stat/111/1845]; [Pub. L. 107–314, div. A, title VIII, § 813(b)][/us/pl/107/314/s813/b], Dec. 2, 2002, [116 Stat. 2609][/us/stat/116/2609]; [Pub. L. 108–136, div. A, title XI, § 1112][/us/pl/108/136/s1112], Nov. 24, 2003, [117 Stat. 1634][/us/stat/117/1634], which encouraged the Secretary of Defense to commence a demonstration project relating to improving the personnel management policies or procedures that apply to the acquisition workforce of the Department of Defense and supporting personnel, was repealed and restated as [section 1762 of this title][/us/usc/t10/s1762] by [Pub. L. 111–383, div. A, title VIII, § 872(a)(1)][/us/pl/111/383/s872/a/1], (b), Jan. 7, 2011, [124 Stat. 4300][/us/stat/124/4300], 4302.
+    [Pub. L. 104–106, div. D, title XLIII][/us/pl/104/106/dD/tXLIII], § 4308, Feb. 10, 1996, [110 Stat. 669][/us/stat/110/669], as amended by [Pub. L. 105–85, div. A, title VIII][/us/pl/105/85/dA/tVIII], § 845, Nov. 18, 1997, [111 Stat. 1845][/us/stat/111/1845]; [Pub. L. 107–314, div. A, title VIII][/us/pl/107/314/dA/tVIII], § 813(b), Dec. 2, 2002, [116 Stat. 2609][/us/stat/116/2609]; [Pub. L. 108–136, div. A, title XI][/us/pl/108/136/dA/tXI], § 1112, Nov. 24, 2003, [117 Stat. 1634][/us/stat/117/1634], which encouraged the Secretary of Defense to commence a demonstration project relating to improving the personnel management policies or procedures that apply to the acquisition workforce of the Department of Defense and supporting personnel, was repealed and restated as [section 1762 of this title][/us/usc/t10/s1762] by [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 872(a)(1), (b), Jan. 7, 2011, [124 Stat. 4300][/us/stat/124/4300], 4302.
 
  __Evaluation by Comptroller General__ 
 
-    [Pub. L. 101–510, div. A, title XII, § 1208][/us/pl/101/510/s1208], Nov. 5, 1990, [104 Stat. 1665][/us/stat/104/1665], as amended by [Pub. L. 102–25, title VII, § 704(b)(2)][/us/pl/102/25/s704/b/2], Apr. 6, 1991, [105 Stat. 119][/us/stat/105/119]; [Pub. L. 102–484, div. A, title VIII, § 812(g)][/us/pl/102/484/s812/g], Oct. 23, 1992, [106 Stat. 2452][/us/stat/106/2452]; [Pub. L. 104–106, div. A, title XV, § 1502(c)(4)(A)][/us/pl/104/106/s1502/c/4/A], Feb. 10, 1996, [110 Stat. 507][/us/stat/110/507], provided for evaluation by Comptroller General of actions taken by Secretary of Defense to carry out requirements of Defense Acquisition Workforce Improvement Act and submission of annual reports to Congress, prior to repeal by [Pub. L. 104–66, title I, § 1031(b)(1)][/us/pl/104/66/s1031/b/1], Dec. 21, 1995, [109 Stat. 714][/us/stat/109/714].
+    [Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1208, Nov. 5, 1990, [104 Stat. 1665][/us/stat/104/1665], as amended by [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 704(b)(2), Apr. 6, 1991, [105 Stat. 119][/us/stat/105/119]; [Pub. L. 102–484, div. A, title VIII][/us/pl/102/484/dA/tVIII], § 812(g), Oct. 23, 1992, [106 Stat. 2452][/us/stat/106/2452]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1502(c)(4)(A), Feb. 10, 1996, [110 Stat. 507][/us/stat/110/507], provided for evaluation by Comptroller General of actions taken by Secretary of Defense to carry out requirements of Defense Acquisition Workforce Improvement Act and submission of annual reports to Congress, prior to repeal by [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1031(b)(1), Dec. 21, 1995, [109 Stat. 714][/us/stat/109/714].
 
  __Deadlines for Qualification Requirements__ 
 
-[Pub. L. 101–510, div. A, title XII, § 1210(b)][/us/pl/101/510/s1210/b], Nov. 5, 1990, [104 Stat. 1667][/us/stat/104/1667], provided that: 
+[Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1210(b), Nov. 5, 1990, [104 Stat. 1667][/us/stat/104/1667], provided that: 
 
 > “Not later than October 1, 1992, the Secretary of Defense shall prescribe regulations to implement sections 1723, 1724, and 1732 of title 10, United States Code (as added by section 1202).”
 
@@ -378,70 +378,70 @@
 ----------
 ----------
 
-[/us/pl/101/510/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1202%2Fa
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1638
-[/us/pl/101/510/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1211
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1667
-[/us/pl/101/510/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1201
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1638
 [/us/usc/t37/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs317
 [/us/usc/t37/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs317
 [/us/usc/t10/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304
-[/us/pl/101/510/s1210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1210%2Fa
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1667
-[/us/pl/114/92/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1110
+[/us/pl/114/92/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXI
 [/us/stat/129/1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1030
 [/us/usc/t10/s2302/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F9
 [/us/usc/t28/s1346/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1346%2Fb
-[/us/pl/114/92/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1111
+[/us/pl/114/92/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXI
 [/us/stat/129/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1032
-[/us/pl/114/92/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1112
+[/us/pl/114/92/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXI
 [/us/stat/129/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1033
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
-[/us/pl/114/92/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1113
+[/us/pl/114/92/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXI
 [/us/stat/129/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1033
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
-[/us/pl/110/181/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs231
+[/us/pl/110/181/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtII
 [/us/stat/122/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F45
-[/us/pl/110/181/s847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs847
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F243
-[/us/pl/113/291/s855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs855
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3460
 [/us/usc/t41/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs2105
 [/us/usc/t41/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs131
 [/us/usc/t37/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs201
 [/us/usc/t18/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207
-[/us/pl/109/364/s820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs820
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2330
-[/us/pl/111/84/s805/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs805%2Fc
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2403
-[/us/pl/112/81/s835/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs835%2Fa
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1507
-[/us/pl/112/239/s824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs824%2Fb
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1833
-[/us/pl/104/106/s4308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4308
+[/us/pl/104/106/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdD%2FtXLIII
 [/us/stat/110/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F669
-[/us/pl/105/85/s845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs845
+[/us/pl/105/85/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVIII
 [/us/stat/111/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1845
-[/us/pl/107/314/s813/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs813%2Fb
+[/us/pl/107/314/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVIII
 [/us/stat/116/2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2609
-[/us/pl/108/136/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1112
+[/us/pl/108/136/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXI
 [/us/stat/117/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1634
 [/us/usc/t10/s1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1762
-[/us/pl/111/383/s872/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs872%2Fa%2F1
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4300
-[/us/pl/101/510/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1208
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1665
-[/us/pl/102/25/s704/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs704%2Fb%2F2
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F119
-[/us/pl/102/484/s812/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs812%2Fg
+[/us/pl/102/484/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVIII
 [/us/stat/106/2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2452
-[/us/pl/104/106/s1502/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fc%2F4%2FA
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F507
-[/us/pl/104/66/s1031/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1031%2Fb%2F1
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F714
-[/us/pl/101/510/s1210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1210%2Fb
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1667
 
 

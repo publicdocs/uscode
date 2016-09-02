@@ -17,17 +17,17 @@
 
     When there is a fraction in the final result of any computation under this chapter for the Navy Reserve or the Marine Corps Reserve, a fraction of one-half or more is counted as one, and a fraction of less than one-half is disregarded.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1662(a)(1)][/us/pl/103/337/s1662/a/1], Oct. 5, 1994, [108 Stat. 2987][/us/stat/108/2987]; amended [Pub. L. 109–163, div. A, title V, § 515(b)(1)(GG)][/us/pl/109/163/s515/b/1/GG], (3)(I), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233], 3234.)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(a)(1), Oct. 5, 1994, [108 Stat. 2987][/us/stat/108/2987]; amended [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(GG), (3)(I), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233], 3234.)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 5454 of this title][/us/usc/t10/s5454], prior to repeal by [Pub. L. 103–337, § 1662(a)(3)][/us/pl/103/337/s1662/a/3].
+    Provisions similar to those in this section were contained in [section 5454 of this title][/us/usc/t10/s5454], prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1662(a)(3).
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–163, § 515(b)(3)(I)][/us/pl/109/163/s515/b/3/I], substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+    2006—[Pub. L. 109–163][/us/pl/109/163], § 515(b)(3)(I), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 
-    [Pub. L. 109–163, § 515(b)(1)(GG)][/us/pl/109/163/s515/b/1/GG], substituted “Navy Reserve” for “Naval Reserve” in text.
+    [Pub. L. 109–163][/us/pl/109/163], § 515(b)(1)(GG), substituted “Navy Reserve” for “Naval Reserve” in text.
 
 ----------
 
@@ -36,13 +36,13 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1662/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fa%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2987
-[/us/pl/109/163/s515/b/1/GG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FGG
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3233
 [/us/usc/t10/s5454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5454
-[/us/pl/103/337/s1662/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fa%2F3
-[/us/pl/109/163/s515/b/3/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F3%2FI
-[/us/pl/109/163/s515/b/1/GG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FGG
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 
 

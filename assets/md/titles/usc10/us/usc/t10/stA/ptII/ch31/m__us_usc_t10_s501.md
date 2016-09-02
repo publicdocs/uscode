@@ -17,7 +17,7 @@
 
     In this chapter “enlistment” means original enlistment or reenlistment.
 
-(Added [Pub. L. 90–235, § 2(a)(1)(B)][/us/pl/90/235/s2/a/1/B], Jan. 2, 1968, [81 Stat. 753][/us/stat/81/753].)
+(Added [Pub. L. 90–235][/us/pl/90/235], § 2(a)(1)(B), Jan. 2, 1968, [81 Stat. 753][/us/stat/81/753].)
 
  __Prior Provisions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/90/235/s2/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs2%2Fa%2F1%2FB
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F753
 
 

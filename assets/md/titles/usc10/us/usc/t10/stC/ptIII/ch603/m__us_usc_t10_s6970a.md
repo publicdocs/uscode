@@ -39,7 +39,7 @@
 
         (2) is entitled to retired pay computed under [section 6333 of this title][/us/usc/t10/s6333].
 
-(Added [Pub. L. 109–163, div. A, title V, § 509(b)(1)][/us/pl/109/163/s509/b/1], Jan. 6, 2006, [119 Stat. 3229][/us/stat/119/3229], § 6970; renumbered § 6970a, [Pub. L. 110–181, div. A, title V, § 508(a)(1)(A)][/us/pl/110/181/s508/a/1/A], Jan. 28, 2008, [122 Stat. 96][/us/stat/122/96].)
+(Added [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 509(b)(1), Jan. 6, 2006, [119 Stat. 3229][/us/stat/119/3229], § 6970; renumbered § 6970a, [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 508(a)(1)(A), Jan. 28, 2008, [122 Stat. 96][/us/stat/122/96].)
 
  __Amendments__ 
 
@@ -55,9 +55,9 @@
 [/us/usc/t10/s1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1252
 [/us/usc/t10/s1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1370
 [/us/usc/t10/s6333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6333
-[/us/pl/109/163/s509/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs509%2Fb%2F1
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3229
-[/us/pl/110/181/s508/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs508%2Fa%2F1%2FA
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F96
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t10/s6970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6970

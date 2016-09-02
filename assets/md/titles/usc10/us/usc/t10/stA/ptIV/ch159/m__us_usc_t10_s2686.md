@@ -41,7 +41,7 @@
 
     (c) To meet local needs the Secretary concerned may make minor expansions and extensions of any distributing system or facility within an activity through which a utility or service is furnished under subsection (a).
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 141][/us/stat/70A/141], § 2481; [Pub. L. 86–156][/us/pl/86/156], Aug. 14, 1959, [73 Stat. 338][/us/stat/73/338]; renumbered § 2686, [Pub. L. 105–85, div. A, title III, § 371(b)(1)][/us/pl/105/85/s371/b/1], Nov. 18, 1997, [111 Stat. 1705][/us/stat/111/1705].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 141][/us/stat/70A/141], § 2481; [Pub. L. 86–156][/us/pl/86/156], Aug. 14, 1959, [73 Stat. 338][/us/stat/73/338]; renumbered § 2686, [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 371(b)(1), Nov. 18, 1997, [111 Stat. 1705][/us/stat/111/1705].)
 
 <table>
 
@@ -223,15 +223,15 @@ July 30, 1947, ch. 394, 61 Stat. 675; Aug. 8, 1949, ch. 403, § 5, 63 Stat. 57
 
  __Prior Provisions__ 
 
-    A prior section 2686, added [Pub. L. 95–82, title V, § 504(a)(1)][/us/pl/95/82/s504/a/1], Aug. 1, 1977, [91 Stat. 371][/us/stat/91/371]; amended [Pub. L. 95–356, title V, § 503(a)][/us/pl/95/356/s503/a], Sept. 8, 1978, [92 Stat. 579][/us/stat/92/579]; [Pub. L. 96–125, title V, § 502(a)][/us/pl/96/125/s502/a], Nov. 26, 1979, [93 Stat. 940][/us/stat/93/940]; [Pub. L. 96–418, title V, § 504(a)][/us/pl/96/418/s504/a], Oct. 10, 1980, [94 Stat. 1765][/us/stat/94/1765], related to military family housing leases, prior to repeal by [Pub. L. 97–214][/us/pl/97/214], §§ 7(1), 12(a), July 12, 1982, [96 Stat. 173][/us/stat/96/173], 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2828(a), (b) of this title.
+    A prior section 2686, added [Pub. L. 95–82, title V][/us/pl/95/82/tV], § 504(a)(1), Aug. 1, 1977, [91 Stat. 371][/us/stat/91/371]; amended [Pub. L. 95–356, title V][/us/pl/95/356/tV], § 503(a), Sept. 8, 1978, [92 Stat. 579][/us/stat/92/579]; [Pub. L. 96–125, title V][/us/pl/96/125/tV], § 502(a), Nov. 26, 1979, [93 Stat. 940][/us/stat/93/940]; [Pub. L. 96–418, title V][/us/pl/96/418/tV], § 504(a), Oct. 10, 1980, [94 Stat. 1765][/us/stat/94/1765], related to military family housing leases, prior to repeal by [Pub. L. 97–214][/us/pl/97/214], §§ 7(1), 12(a), July 12, 1982, [96 Stat. 173][/us/stat/96/173], 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2828(a), (b) of this title.
 
  __Amendments__ 
 
     1997—[Pub. L. 105–85][/us/pl/105/85] renumbered [section 2481 of this title][/us/usc/t10/s2481] as this section.
 
-    1959—Subsec. (a). [Pub. L. 86–156, § 1(1)][/us/pl/86/156/s1/1], substituted “concerned” for “of a military department” and inserted “or Coast Guard,” after “Marine Corps,”.
+    1959—Subsec. (a). [Pub. L. 86–156][/us/pl/86/156], § 1(1), substituted “concerned” for “of a military department” and inserted “or Coast Guard,” after “Marine Corps,”.
 
-    Subsec. (c). [Pub. L. 86–156, § 1(2)][/us/pl/86/156/s1/2], struck out “of the military department” after “Secretary”.
+    Subsec. (c). [Pub. L. 86–156][/us/pl/86/156], § 1(2), struck out “of the military department” after “Secretary”.
 
  __Transfer of Functions__ 
 
@@ -248,22 +248,22 @@ July 30, 1947, ch. 394, 61 Stat. 675; Aug. 8, 1949, ch. 403, § 5, 63 Stat. 57
 [/us/stat/70A/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F141
 [/us/pl/86/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F156
 [/us/stat/73/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F338
-[/us/pl/105/85/s371/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs371%2Fb%2F1
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1705
-[/us/pl/95/82/s504/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F82%2Fs504%2Fa%2F1
+[/us/pl/95/82/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F82%2FtV
 [/us/stat/91/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F371
-[/us/pl/95/356/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F356%2Fs503%2Fa
+[/us/pl/95/356/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F356%2FtV
 [/us/stat/92/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F579
-[/us/pl/96/125/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F125%2Fs502%2Fa
+[/us/pl/96/125/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F125%2FtV
 [/us/stat/93/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F940
-[/us/pl/96/418/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F418%2Fs504%2Fa
+[/us/pl/96/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F418%2FtV
 [/us/stat/94/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1765
 [/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F173
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/usc/t10/s2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2481
-[/us/pl/86/156/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F156%2Fs1%2F1
-[/us/pl/86/156/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F156%2Fs1%2F2
+[/us/pl/86/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F156
+[/us/pl/86/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F156
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

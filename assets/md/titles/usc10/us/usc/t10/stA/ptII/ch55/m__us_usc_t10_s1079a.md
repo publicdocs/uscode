@@ -17,15 +17,15 @@
 
     All refunds and other amounts collected in the administration of the Civilian Health and Medical Program of the Uniformed Services shall be credited to the appropriation available for that program for the fiscal year in which the refund or amount is collected.
 
-(Added [Pub. L. 104–201, div. A, title VII, § 733(a)(1)][/us/pl/104/201/s733/a/1], Sept. 23, 1996, [110 Stat. 2597][/us/stat/110/2597].)
+(Added [Pub. L. 104–201, div. A, title VII][/us/pl/104/201/dA/tVII], § 733(a)(1), Sept. 23, 1996, [110 Stat. 2597][/us/stat/110/2597].)
 
  __Prior Provisions__ 
 
 Provisions similar to those in this section were contained in the following appropriations acts:
 
-    [Pub. L. 104–61, title VIII, § 8094][/us/pl/104/61/s8094], Dec. 1, 1995, [109 Stat. 671][/us/stat/109/671].
+    [Pub. L. 104–61, title VIII][/us/pl/104/61/tVIII], § 8094, Dec. 1, 1995, [109 Stat. 671][/us/stat/109/671].
 
-    [Pub. L. 103–335, title VIII, § 8144][/us/pl/103/335/s8144], Sept. 30, 1994, [108 Stat. 2656][/us/stat/108/2656].
+    [Pub. L. 103–335, title VIII][/us/pl/103/335/tVIII], § 8144, Sept. 30, 1994, [108 Stat. 2656][/us/stat/108/2656].
 
 ----------
 
@@ -34,11 +34,11 @@ Provisions similar to those in this section were contained in the following appr
 ----------
 ----------
 
-[/us/pl/104/201/s733/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs733%2Fa%2F1
+[/us/pl/104/201/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVII
 [/us/stat/110/2597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2597
-[/us/pl/104/61/s8094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F61%2Fs8094
+[/us/pl/104/61/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F61%2FtVIII
 [/us/stat/109/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F671
-[/us/pl/103/335/s8144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F335%2Fs8144
+[/us/pl/103/335/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F335%2FtVIII
 [/us/stat/108/2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2656
 
 

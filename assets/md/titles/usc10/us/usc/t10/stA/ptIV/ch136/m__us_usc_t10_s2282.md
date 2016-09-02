@@ -137,7 +137,7 @@
 
         (2) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
 
-(Added [Pub. L. 113–291, div. A, title XII, § 1205(a)(1)][/us/pl/113/291/s1205/a/1], Dec. 19, 2014, [128 Stat. 3533][/us/stat/128/3533].)
+(Added [Pub. L. 113–291, div. A, title XII][/us/pl/113/291/dA/tXII], § 1205(a)(1), Dec. 19, 2014, [128 Stat. 3533][/us/stat/128/3533].)
 
  __References in Text__ 
 
@@ -147,11 +147,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 2282, added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title I, § 131(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–28; amended [Pub. L. 108–136, div. A, title X, § 1031(a)(14)][/us/pl/108/136/s1031/a/14], Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597], related to annual report on the B–2 bomber aircraft, prior to repeal by [Pub. L. 112–81, div. A, title X, § 1061(13)(A)][/us/pl/112/81/s1061/13/A], Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583].
+    A prior section 2282, added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title I, § 131(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–28; amended [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(14), Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597], related to annual report on the B–2 bomber aircraft, prior to repeal by [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1061(13)(A), Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583].
 
  __Authority to Provide Support to National Military Forces of Allied Countries for Counterterrorism Operations in Africa__ 
 
-[Pub. L. 114–92, div. A, title XII, § 1207][/us/pl/114/92/s1207], Nov. 25, 2015, [129 Stat. 1040][/us/stat/129/1040], provided that:
+[Pub. L. 114–92, div. A, title XII][/us/pl/114/92/dA/tXII], § 1207, Nov. 25, 2015, [129 Stat. 1040][/us/stat/129/1040], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -205,7 +205,7 @@
 
  __Training for Eastern European National Military Forces in the Course of Multilateral Exercises__ 
 
-[Pub. L. 114–92, div. A, title XII, § 1251][/us/pl/114/92/s1251], Nov. 25, 2015, [129 Stat. 1070][/us/stat/129/1070], provided that:
+[Pub. L. 114–92, div. A, title XII][/us/pl/114/92/dA/tXII], § 1251, Nov. 25, 2015, [129 Stat. 1070][/us/stat/129/1070], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -281,7 +281,7 @@
 
  __South China Sea Initiative__ 
 
-[Pub. L. 114–92, div. A, title XII, § 1263][/us/pl/114/92/s1263], Nov. 25, 2015, [129 Stat. 1073][/us/stat/129/1073], provided that:
+[Pub. L. 114–92, div. A, title XII][/us/pl/114/92/dA/tXII], § 1263, Nov. 25, 2015, [129 Stat. 1073][/us/stat/129/1073], provided that:
 
 >     “(a) __Assistance and Training.—__ 
 
@@ -387,7 +387,7 @@
 
  __Training of Security Forces and Associated Security Ministries of Foreign Countries To Promote Respect for the Rule of Law and Human Rights__ 
 
-[Pub. L. 113–291, div. A, title XII, § 1206][/us/pl/113/291/s1206], Dec. 19, 2014, [128 Stat. 3538][/us/stat/128/3538], provided that:
+[Pub. L. 113–291, div. A, title XII][/us/pl/113/291/dA/tXII], § 1206, Dec. 19, 2014, [128 Stat. 3538][/us/stat/128/3538], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -460,28 +460,28 @@
 
 [/us/usc/t22/s2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291
 [/us/usc/t10/s374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs374
-[/us/pl/113/291/s1205/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1205%2Fa%2F1
+[/us/pl/113/291/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXII
 [/us/stat/128/3533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3533
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/105/85/s1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1033
 [/us/stat/111/1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1881
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/136/s1031/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F14
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1597
-[/us/pl/112/81/s1061/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F13%2FA
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1583
-[/us/pl/114/92/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1207
+[/us/pl/114/92/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXII
 [/us/stat/129/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1040
 [/us/usc/t10/s2350/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2350%2F1
-[/us/pl/114/92/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1251
+[/us/pl/114/92/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXII
 [/us/stat/129/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1070
 [/us/usc/t10/s2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2282
-[/us/pl/114/92/s1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1263
+[/us/pl/114/92/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXII
 [/us/stat/129/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1073
-[/us/pl/113/291/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1206
+[/us/pl/113/291/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXII
 [/us/stat/128/3538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3538
 [/us/usc/t10/s2249e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2249e
 

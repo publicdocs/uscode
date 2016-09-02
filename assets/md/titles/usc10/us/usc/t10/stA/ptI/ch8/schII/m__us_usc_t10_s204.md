@@ -45,7 +45,7 @@
 
     In this section, the term “defense audit agency” means the Defense Contract Audit Agency and the Defense Contract Management Agency.
 
-(Added [Pub. L. 112–239, div. A, title XVI, § 1612(a)][/us/pl/112/239/s1612/a], Jan. 2, 2013, [126 Stat. 2064][/us/stat/126/2064].)
+(Added [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1612(a), Jan. 2, 2013, [126 Stat. 2064][/us/stat/126/2064].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/112/239/s1612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1612%2Fa
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2064
 
 

@@ -51,7 +51,7 @@
 
         (3) The term “national security system” has the meaning given that term by section [section 3552(b)(6) of title 44][/us/usc/t44/s3552/b/6].
 
-(Added [Pub. L. 105–261, div. A, title III, § 331(a)(1)][/us/pl/105/261/s331/a/1], Oct. 17, 1998, [112 Stat. 1967][/us/stat/112/1967]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 811(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–210; [Pub. L. 107–217, § 3(b)(1)][/us/pl/107/217/s3/b/1], Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 109–364, div. A, title IX, § 906(b)][/us/pl/109/364/s906/b], Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354]; [Pub. L. 113–283, § 2(e)(5)(B)][/us/pl/113/283/s2/e/5/B], Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087]; [Pub. L. 114–92, div. A, title X, § 1081(a)(7)][/us/pl/114/92/s1081/a/7], Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001].)
+(Added [Pub. L. 105–261, div. A, title III][/us/pl/105/261/dA/tIII], § 331(a)(1), Oct. 17, 1998, [112 Stat. 1967][/us/stat/112/1967]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VIII, § 811(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–210; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(1), Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 109–364, div. A, title IX][/us/pl/109/364/dA/tIX], § 906(b), Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354]; [Pub. L. 113–283][/us/pl/113/283], § 2(e)(5)(B), Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1081(a)(7), Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001].)
 
  __Amendments__ 
 
@@ -61,23 +61,23 @@
 
     2006—Subsec. (c)(3). [Pub. L. 109–364][/us/pl/109/364] substituted “[section 3542(b)(2) of title 44][/us/usc/t44/s3542/b/2]” for “[section 11103 of title 40][/us/usc/t40/s11103]”.
 
-    2002—Subsecs. (a), (b). [Pub. L. 107–217, § 3(b)(1)(A)][/us/pl/107/217/s3/b/1/A], (B), substituted “[section 11315 of title 40][/us/usc/t40/s11315]” for “section 5125 of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1425][/us/usc/t40/s1425])” in introductory provisions.
+    2002—Subsecs. (a), (b). [Pub. L. 107–217][/us/pl/107/217], § 3(b)(1)(A), (B), substituted “[section 11315 of title 40][/us/usc/t40/s11315]” for “section 5125 of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1425][/us/usc/t40/s1425])” in introductory provisions.
 
-    Subsec. (c)(2). [Pub. L. 107–217, § 3(b)(1)(C)][/us/pl/107/217/s3/b/1/C], substituted “[section 11101 of title 40][/us/usc/t40/s11101]” for “section 5002 of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1401][/us/usc/t40/s1401])”.
+    Subsec. (c)(2). [Pub. L. 107–217][/us/pl/107/217], § 3(b)(1)(C), substituted “[section 11101 of title 40][/us/usc/t40/s11101]” for “section 5002 of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1401][/us/usc/t40/s1401])”.
 
-    Subsec. (c)(3). [Pub. L. 107–217, § 3(b)(1)(D)][/us/pl/107/217/s3/b/1/D], substituted “[section 11103 of title 40][/us/usc/t40/s11103]” for “section 5142 of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1452][/us/usc/t40/s1452])”.
+    Subsec. (c)(3). [Pub. L. 107–217][/us/pl/107/217], § 3(b)(1)(D), substituted “[section 11103 of title 40][/us/usc/t40/s11103]” for “section 5142 of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1452][/us/usc/t40/s1452])”.
 
     2000—Subsec. (a)(5). [Pub. L. 106–398][/us/pl/106/398] added par. (5).
 
  __Effective Date__ 
 
-[Pub. L. 105–261, div. A, title III, § 331(b)][/us/pl/105/261/s331/b], Oct. 17, 1998, [112 Stat. 1968][/us/stat/112/1968], provided that: 
+[Pub. L. 105–261, div. A, title III][/us/pl/105/261/dA/tIII], § 331(b), Oct. 17, 1998, [112 Stat. 1968][/us/stat/112/1968], provided that: 
 
 > “[Section 2223 of title 10][/us/usc/t10/s2223], United States Code, as added by subsection (a), shall take effect on October 1, 1998.”
 
  __Additional Requirements Relating to the Software Licenses of the Department of Defense__ 
 
-[Pub. L. 113–66, div. A, title IX, § 935][/us/pl/113/66/s935], Dec. 26, 2013, [127 Stat. 833][/us/stat/127/833], provided that:
+[Pub. L. 113–66, div. A, title IX][/us/pl/113/66/dA/tIX], § 935, Dec. 26, 2013, [127 Stat. 833][/us/stat/127/833], provided that:
 
 >     “(a) __Updated Plan.—__ 
 
@@ -105,7 +105,7 @@
 
  __Collection and Analysis of Network Flow Data__ 
 
-[Pub. L. 112–239, div. A, title IX, § 935][/us/pl/112/239/s935], Jan. 2, 2013, [126 Stat. 1886][/us/stat/126/1886], provided that:
+[Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 935, Jan. 2, 2013, [126 Stat. 1886][/us/stat/126/1886], provided that:
 
 >     “(a)  __Development of Technologies__  __.—__ 
 
@@ -131,7 +131,7 @@
 
  __Competition for Large-Scale Software Database and Data Analysis Tools__ 
 
-[Pub. L. 112–239, div. A, title IX, § 936][/us/pl/112/239/s936], Jan. 2, 2013, [126 Stat. 1886][/us/stat/126/1886], provided that:
+[Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 936, Jan. 2, 2013, [126 Stat. 1886][/us/stat/126/1886], provided that:
 
 >     “(a)  __Analysis__  __.—__ 
 
@@ -163,7 +163,7 @@
 
  __Software Licenses of the Department of Defense__ 
 
-[Pub. L. 112–239, div. A, title IX, § 937][/us/pl/112/239/s937], Jan. 2, 2013, [126 Stat. 1887][/us/stat/126/1887], provided that:
+[Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 937, Jan. 2, 2013, [126 Stat. 1887][/us/stat/126/1887], provided that:
 
 >     “(a)  __Plan for Inventory of Licenses__  __.—__ 
 
@@ -191,7 +191,7 @@
 
  __Ozone Widget Framework__ 
 
-[Pub. L. 112–81, div. A, title IX, § 924][/us/pl/112/81/s924], Dec. 31, 2011, [125 Stat. 1539][/us/stat/125/1539], provided that:
+[Pub. L. 112–81, div. A, title IX][/us/pl/112/81/dA/tIX], § 924, Dec. 31, 2011, [125 Stat. 1539][/us/stat/125/1539], provided that:
 
 >     “(a)  __Mechanism for Internet Publication of Information for Development of Analysis Tools and Applications__  __.—__ 
 
@@ -211,7 +211,7 @@
 
  __Continuous Monitoring of Department of Defense Information Systems for Cybersecurity__ 
 
-[Pub. L. 111–383, div. A, title IX, § 931][/us/pl/111/383/s931], Jan. 7, 2011, [124 Stat. 4334][/us/stat/124/4334], provided that:
+[Pub. L. 111–383, div. A, title IX][/us/pl/111/383/dA/tIX], § 931, Jan. 7, 2011, [124 Stat. 4334][/us/stat/124/4334], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -255,49 +255,49 @@
 [/us/usc/t44/s3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3506
 [/us/usc/t40/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101
 [/us/usc/t44/s3552/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552%2Fb%2F6
-[/us/pl/105/261/s331/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs331%2Fa%2F1
+[/us/pl/105/261/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIII
 [/us/stat/112/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1967
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/217/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F1
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1295
-[/us/pl/109/364/s906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs906%2Fb
+[/us/pl/109/364/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIX
 [/us/stat/120/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2354
-[/us/pl/113/283/s2/e/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fe%2F5%2FB
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/stat/128/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3087
-[/us/pl/114/92/s1081/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F7
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1001
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t44/s3542/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542%2Fb%2F2
 [/us/usc/t40/s11103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11103
-[/us/pl/107/217/s3/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F1%2FA
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s11315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11315
 [/us/usc/t40/s1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1425
-[/us/pl/107/217/s3/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F1%2FC
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101
 [/us/usc/t40/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1401
-[/us/pl/107/217/s3/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F1%2FD
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s11103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11103
 [/us/usc/t40/s1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1452
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/105/261/s331/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs331%2Fb
+[/us/pl/105/261/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIII
 [/us/stat/112/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1968
 [/us/usc/t10/s2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2223
-[/us/pl/113/66/s935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs935
+[/us/pl/113/66/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIX
 [/us/stat/127/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F833
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t10/s2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2223
-[/us/pl/112/239/s935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs935
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
 [/us/stat/126/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1886
-[/us/pl/112/239/s936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs936
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
 [/us/stat/126/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1886
-[/us/pl/112/239/s937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs937
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
 [/us/stat/126/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1887
-[/us/pl/112/81/s924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs924
+[/us/pl/112/81/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIX
 [/us/stat/125/1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1539
-[/us/pl/111/383/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs931
+[/us/pl/111/383/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIX
 [/us/stat/124/4334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4334
 [/us/usc/t15/s278g–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933
 [/us/usc/t44/s3505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3505%2Fc

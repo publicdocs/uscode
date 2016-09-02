@@ -55,25 +55,25 @@
 
         (5) Fees paid by sources of products in order to obtain favorable display of the products for resale, known as business related management fees.
 
-(Added [Pub. L. 93–552, title VI, § 611][/us/pl/93/552/s611], Dec. 27, 1974, [88 Stat. 1765][/us/stat/88/1765]; amended [Pub. L. 95–82, title VI, § 614][/us/pl/95/82/s614], Aug. 1, 1977, [91 Stat. 380][/us/stat/91/380]; [Pub. L. 97–321, title VIII, § 804][/us/pl/97/321/s804], Oct. 15, 1982, [96 Stat. 1572][/us/stat/96/1572]; [Pub. L. 103–337, div. B, title XXVIII, § 2851][/us/pl/103/337/s2851], Oct. 5, 1994, [108 Stat. 3072][/us/stat/108/3072]; [Pub. L. 105–85, div. A, title III, § 374][/us/pl/105/85/s374], Nov. 18, 1997, [111 Stat. 1707][/us/stat/111/1707]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 333(a), (b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–60.)
+(Added [Pub. L. 93–552, title VI][/us/pl/93/552/tVI], § 611, Dec. 27, 1974, [88 Stat. 1765][/us/stat/88/1765]; amended [Pub. L. 95–82, title VI][/us/pl/95/82/tVI], § 614, Aug. 1, 1977, [91 Stat. 380][/us/stat/91/380]; [Pub. L. 97–321, title VIII][/us/pl/97/321/tVIII], § 804, Oct. 15, 1982, [96 Stat. 1572][/us/stat/96/1572]; [Pub. L. 103–337, div. B, title XXVIII][/us/pl/103/337/dB/tXXVIII], § 2851, Oct. 5, 1994, [108 Stat. 3072][/us/stat/108/3072]; [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 374, Nov. 18, 1997, [111 Stat. 1707][/us/stat/111/1707]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 333(a), (b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–60.)
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 333(b)(1)\], substituted “Secretary of Defense” for “Secretary of a military department, under regulations established by him and approved by the Secretary of Defense,”.
+    2000—Subsec. (a). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 333(b)(1)\], substituted “Secretary of Defense” for “Secretary of a military department, under regulations established by him and approved by the Secretary of Defense,”.
 
-    Subsec. (b). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 333(a)\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of a military department, under regulations established by him and approved by the Secretary of Defense, may use the proceeds from the adjustments or surcharges authorized by subsection (a) to acquire, construct, convert, expand, install, or otherwise improve commissary store facilities at defense installations and for related environmental evaluation and construction costs, including surveys, administration, overhead, planning, and design.”
+    Subsec. (b). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 333(a)\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of a military department, under regulations established by him and approved by the Secretary of Defense, may use the proceeds from the adjustments or surcharges authorized by subsection (a) to acquire, construct, convert, expand, install, or otherwise improve commissary store facilities at defense installations and for related environmental evaluation and construction costs, including surveys, administration, overhead, planning, and design.”
 
-    Subsec. (c). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 333(b)(2)\], substituted “Secretary of Defense, with the approval of” for “Secretary of a military department, with the approval of the Secretary of Defense and” and “Secretary determines” for “Secretary of the military department determines”.
+    Subsec. (c). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 333(b)(2)\], substituted “Secretary of Defense, with the approval of” for “Secretary of a military department, with the approval of the Secretary of Defense and” and “Secretary determines” for “Secretary of the military department determines”.
 
-    Subsec. (d)(1). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 333(b)(3)\], substituted “Secretary of Defense” for “Secretary of a military department”.
+    Subsec. (d)(1). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 333(b)(3)\], substituted “Secretary of Defense” for “Secretary of a military department”.
 
-    1997—Subsecs. (a) to (d). [Pub. L. 105–85, § 374(b)][/us/pl/105/85/s374/b], inserted subsec. headings.
+    1997—Subsecs. (a) to (d). [Pub. L. 105–85][/us/pl/105/85], § 374(b), inserted subsec. headings.
 
-    Subsec. (e). [Pub. L. 105–85, § 374(a)][/us/pl/105/85/s374/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–85][/us/pl/105/85], § 374(a), added subsec. (e).
 
-    1994—Subsec. (c). [Pub. L. 103–337, § 2851(b)][/us/pl/103/337/s2851/b], inserted “or (d)” after “subsection (b)” in two places.
+    1994—Subsec. (c). [Pub. L. 103–337][/us/pl/103/337], § 2851(b), inserted “or (d)” after “subsection (b)” in two places.
 
-    Subsec. (d). [Pub. L. 103–337, § 2851(a)][/us/pl/103/337/s2851/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 103–337][/us/pl/103/337], § 2851(a), added subsec. (d).
 
     1982—Subsec. (c). [Pub. L. 97–321][/us/pl/97/321] added subsec. (c).
 
@@ -81,7 +81,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 333(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–60, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 333(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–60, provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2001.”
 
@@ -92,29 +92,29 @@
 ----------
 ----------
 
-[/us/pl/93/552/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F552%2Fs611
+[/us/pl/93/552/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F552%2FtVI
 [/us/stat/88/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1765
-[/us/pl/95/82/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F82%2Fs614
+[/us/pl/95/82/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F82%2FtVI
 [/us/stat/91/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F380
-[/us/pl/97/321/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321%2Fs804
+[/us/pl/97/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321%2FtVIII
 [/us/stat/96/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1572
-[/us/pl/103/337/s2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs2851
+[/us/pl/103/337/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdB%2FtXXVIII
 [/us/stat/108/3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3072
-[/us/pl/105/85/s374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs374
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1707
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/105/85/s374/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs374%2Fb
-[/us/pl/105/85/s374/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs374%2Fa
-[/us/pl/103/337/s2851/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs2851%2Fb
-[/us/pl/103/337/s2851/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs2851%2Fa
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/97/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321
 [/us/pl/95/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F82
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

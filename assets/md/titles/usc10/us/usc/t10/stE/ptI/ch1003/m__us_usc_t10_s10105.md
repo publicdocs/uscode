@@ -21,15 +21,15 @@
 
     (2) members of the Army National Guard who are also Reserves of the Army.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)][/us/pl/103/337/s1661/a/1], Oct. 5, 1994, [108 Stat. 2970][/us/stat/108/2970].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1661(a)(1), Oct. 5, 1994, [108 Stat. 2970][/us/stat/108/2970].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 3077 of this title][/us/usc/t10/s3077], prior to repeal by [Pub. L. 103–337, § 1661(a)(3)(A)][/us/pl/103/337/s1661/a/3/A].
+    Provisions similar to those in this section were contained in [section 3077 of this title][/us/usc/t10/s3077], prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1661(a)(3)(A).
 
  __Active Component Support for Reserve Training__ 
 
-[Pub. L. 103–160, div. A, title V, § 515][/us/pl/103/160/s515], Nov. 30, 1993, [107 Stat. 1650][/us/stat/107/1650], provided that:
+[Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 515, Nov. 30, 1993, [107 Stat. 1650][/us/stat/107/1650], provided that:
 
 >     “(a)  __Requirement To Establish__  __.—__ 
 
@@ -41,11 +41,11 @@
 
  __Test Program for Reserve Combat Maneuver Unit Integration__ 
 
-    [Pub. L. 103–160, div. A, title V, § 516][/us/pl/103/160/s516], Nov. 30, 1993, [107 Stat. 1650][/us/stat/107/1650], directed Secretary of the Army to prepare a plan for carrying out a test program to determine feasibility and advisability of applying the roundout and roundup models for integration of active and reserve component Army units at the battalion and company levels and submit to Congress not later than Mar. 31, 1994, a report that includes the plan for the test program.
+    [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 516, Nov. 30, 1993, [107 Stat. 1650][/us/stat/107/1650], directed Secretary of the Army to prepare a plan for carrying out a test program to determine feasibility and advisability of applying the roundout and roundup models for integration of active and reserve component Army units at the battalion and company levels and submit to Congress not later than Mar. 31, 1994, a report that includes the plan for the test program.
 
  __Army National Guard Combat Readiness Reform__ 
 
-[Pub. L. 102–484, div. A, title XI][/us/pl/102/484], Oct. 23, 1992, [106 Stat. 2536][/us/stat/106/2536], as amended by [Pub. L. 103–35, title II, § 202(a)(11)][/us/pl/103/35/s202/a/11], May 31, 1993, [107 Stat. 101][/us/stat/107/101]; [Pub. L. 103–160, div. A, title V, § 520][/us/pl/103/160/s520], Nov. 30, 1993, [107 Stat. 1651][/us/stat/107/1651]; [Pub. L. 103–337, div. A, title V, § 516][/us/pl/103/337/s516], Oct. 5, 1994, [108 Stat. 2754][/us/stat/108/2754]; [Pub. L. 104–106, div. A, title V][/us/pl/104/106], §§ 514, 515, title VII, § 704(b), Feb. 10, 1996, [110 Stat. 307][/us/stat/110/307], 308, 372, provided that:
+[Pub. L. 102–484, div. A, title XI][/us/pl/102/484/dA/tXI], Oct. 23, 1992, [106 Stat. 2536][/us/stat/106/2536], as amended by [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 202(a)(11), May 31, 1993, [107 Stat. 101][/us/stat/107/101]; [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 520, Nov. 30, 1993, [107 Stat. 1651][/us/stat/107/1651]; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 516, Oct. 5, 1994, [108 Stat. 2754][/us/stat/108/2754]; [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], §§ 514, 515, title VII, § 704(b), Feb. 10, 1996, [110 Stat. 307][/us/stat/110/307], 308, 372, provided that:
 
 > “SEC. 1101. __SHORT TITLE.__ 
 
@@ -125,7 +125,7 @@
 
 >     “The Secretary of the Army shall transfer the personnel classification of a member of the Army Selected Reserve from the Selected Reserve unit of the member to the personnel account established pursuant to section 1115 if the member does not meet minimum physical profile standards required for deployment. Any such transfer shall be made not later than 90 days after the date on which the determination that the member does not meet such standards is made.
 
->     “\[SECS. 1117, 1118. Repealed. [Pub. L. 104–106, div. A, title VII, § 704(b)][/us/pl/104/106/s704/b], Feb. 10, 1996, [110 Stat. 372][/us/stat/110/372].\]
+>     “\[SECS. 1117, 1118. Repealed. [Pub. L. 104–106, div. A, title VII][/us/pl/104/106/dA/tVII], § 704(b), Feb. 10, 1996, [110 Stat. 372][/us/stat/110/372].\]
 
 > “SEC. 1119. __COMBAT UNIT TRAINING.__ 
 
@@ -256,27 +256,27 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1661/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2970
 [/us/usc/t10/s3077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3077
-[/us/pl/103/337/s1661/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F3%2FA
-[/us/pl/103/160/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs515
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1650
-[/us/pl/103/160/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs516
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1650
-[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXI
 [/us/stat/106/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2536
-[/us/pl/103/35/s202/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs202%2Fa%2F11
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F101
-[/us/pl/103/160/s520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs520
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1651
-[/us/pl/103/337/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs516
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2754
-[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F307
 [/us/pl/103/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F139
 [/us/stat/107/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1441
-[/us/pl/104/106/s704/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs704%2Fb
+[/us/pl/104/106/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVII
 [/us/stat/110/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F372
 [/us/usc/t32/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs105
 [/us/pl/102/190/s414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs414%2Fc

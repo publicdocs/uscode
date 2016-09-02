@@ -75,9 +75,9 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–163, div. A, title V, § 522(f)(2)][/us/pl/109/163/s522/f/2], Jan. 6, 2006, [119 Stat. 3244][/us/stat/119/3244], added item 9417.
+    2006—[Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 522(f)(2), Jan. 6, 2006, [119 Stat. 3244][/us/stat/119/3244], added item 9417.
 
-    1990—[Pub. L. 101–510, div. A, title III, § 330(b)][/us/pl/101/510/s330/b], Nov. 5, 1990, [104 Stat. 1535][/us/stat/104/1535], added item 9415.
+    1990—[Pub. L. 101–510, div. A, title III][/us/pl/101/510/dA/tIII], § 330(b), Nov. 5, 1990, [104 Stat. 1535][/us/stat/104/1535], added item 9415.
 
 ----------
 
@@ -86,9 +86,9 @@
 ----------
 ----------
 
-[/us/pl/109/163/s522/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs522%2Ff%2F2
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3244
-[/us/pl/101/510/s330/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs330%2Fb
+[/us/pl/101/510/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIII
 [/us/stat/104/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1535
 
 

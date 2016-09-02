@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    2001—[Pub. L. 107–107, div. A, title X, § 1048(e)(6)(B)][/us/pl/107/107/s1048/e/6/B], Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227], struck out item 1736 “Applicability”.
+    2001—[Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(e)(6)(B), Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227], struck out item 1736 “Applicability”.
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/107/107/s1048/e/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fe%2F6%2FB
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1227
 
 

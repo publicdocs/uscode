@@ -33,7 +33,7 @@
 
         (4) In this subsection, the term “an employee of a nonappropriated fund instrumentality” means an employee described in [section 2105(c) of title 5][/us/usc/t5/s2105/c].
 
-(Added [Pub. L. 107–314, div. A, title III, § 323(a)][/us/pl/107/314/s323/a], Dec. 2, 2002, [116 Stat. 2510][/us/stat/116/2510], § 2494; renumbered § 2491, [Pub. L. 108–375, div. A, title VI, § 651(c)(2)][/us/pl/108/375/s651/c/2], Oct. 28, 2004, [118 Stat. 1972][/us/stat/118/1972].)
+(Added [Pub. L. 107–314, div. A, title III][/us/pl/107/314/dA/tIII], § 323(a), Dec. 2, 2002, [116 Stat. 2510][/us/stat/116/2510], § 2494; renumbered § 2491, [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 651(c)(2), Oct. 28, 2004, [118 Stat. 1972][/us/stat/118/1972].)
 
  __Prior Provisions__ 
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/usc/t5/s2105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105%2Fc
-[/us/pl/107/314/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs323%2Fa
+[/us/pl/107/314/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtIII
 [/us/stat/116/2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2510
-[/us/pl/108/375/s651/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs651%2Fc%2F2
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1972
 [/us/usc/t10/s2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2500
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375

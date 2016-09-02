@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_s5503.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_s5507.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5506)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_s5504 _us_usc_t10_s5505.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_s5507.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5506)
 
-## \[§ 5506. Repealed. [Pub. L. 103–337, div. A, title XVI, § 1673(d)(1)][/us/pl/103/337/s1673/d/1], Oct. 5, 1994, [108 Stat. 3016][/us/stat/108/3016]\]
+## \[§ 5506. Repealed. [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1673(d)(1), Oct. 5, 1994, [108 Stat. 3016][/us/stat/108/3016]\]
 
-    Section, added [Pub. L. 85–861, § 1(114)(A)][/us/pl/85/861/s1/114/A], Sept. 2, 1958, [72 Stat. 1492][/us/stat/72/1492], and amended [Pub. L. 96–513, title V, § 503(26)][/us/pl/96/513/s503/26], Dec. 12, 1980, [94 Stat. 2913][/us/stat/94/2913], related to ranking of officers in active status in Naval Reserve and Marine Corps Reserve.
+    Section, added [Pub. L. 85–861][/us/pl/85/861], § 1(114)(A), Sept. 2, 1958, [72 Stat. 1492][/us/stat/72/1492], and amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 503(26), Dec. 12, 1980, [94 Stat. 2913][/us/stat/94/2913], related to ranking of officers in active status in Naval Reserve and Marine Corps Reserve.
 
  __Effective Date of Repeal__ 
 
@@ -23,16 +23,16 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_s5503.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_s5507.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5506)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_s5504 _us_usc_t10_s5505.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_s5507.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5506)
 
 ----------
 ----------
 
-[/us/pl/103/337/s1673/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1673%2Fd%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3016
-[/us/pl/85/861/s1/114/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F114%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1492
-[/us/pl/96/513/s503/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs503%2F26
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2913
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001

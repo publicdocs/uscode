@@ -31,7 +31,7 @@
 
     The amount computed under subsection (b), if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 557][/us/stat/70A/557]; [Pub. L. 96–342, title VIII, § 813(e)][/us/pl/96/342/s813/e], Sept. 8, 1980, [94 Stat. 1109][/us/stat/94/1109]; [Pub. L. 96–513, title V, § 514(8)][/us/pl/96/513/s514/8], Dec. 12, 1980, [94 Stat. 2935][/us/stat/94/2935]; [Pub. L. 97–295, § 1(52)][/us/pl/97/295/s1/52], Oct. 12, 1982, [96 Stat. 1300][/us/stat/96/1300]; [Pub. L. 98–94, title IX][/us/pl/98/94], §§ 922(a)(13), 923(a)(1), (2)(I), Sept. 24, 1983, [97 Stat. 642][/us/stat/97/642], 643; [Pub. L. 99–348, title II, § 204(b)][/us/pl/99/348/s204/b], July 1, 1986, [100 Stat. 698][/us/stat/100/698]; [Pub. L. 103–337, div. A, title VI, § 635(c)(3)][/us/pl/103/337/s635/c/3], Oct. 5, 1994, [108 Stat. 2789][/us/stat/108/2789].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 557][/us/stat/70A/557]; [Pub. L. 96–342, title VIII][/us/pl/96/342/tVIII], § 813(e), Sept. 8, 1980, [94 Stat. 1109][/us/stat/94/1109]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 514(8), Dec. 12, 1980, [94 Stat. 2935][/us/stat/94/2935]; [Pub. L. 97–295][/us/pl/97/295], § 1(52), Oct. 12, 1982, [96 Stat. 1300][/us/stat/96/1300]; [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], §§ 922(a)(13), 923(a)(1), (2)(I), Sept. 24, 1983, [97 Stat. 642][/us/stat/97/642], 643; [Pub. L. 99–348, title II][/us/pl/99/348/tII], § 204(b), July 1, 1986, [100 Stat. 698][/us/stat/100/698]; [Pub. L. 103–337, div. A, title VI][/us/pl/103/337/dA/tVI], § 635(c)(3), Oct. 5, 1994, [108 Stat. 2789][/us/stat/108/2789].)
 
 <table>
 
@@ -115,9 +115,9 @@ The words “basic pay \* \* \* as the case may be” are inserted to confor
 
     1986—[Pub. L. 99–348][/us/pl/99/348] revised table generally by striking out provision in column 1 that for a person who first became a member of a uniformed service, as defined in section 1407(a)(2), after Sept. 7, 1980, one multiplier is the monthly retired pay base as computed under section 1407(e), substituting in formulas A and B provision that the retired pay base as computed under section 1406(e) or 1407 of this title be multiplied by the retired pay multiplier prescribed in [section 1409 of this title][/us/usc/t10/s1409] for the number of years credited for provisions that the monthly basic pay or base and longevity pay, as the case may be, subject to footnote 1, of the grade to which the member is advanced on the retired list be multiplied by 2½% of years of service credited, subject to footnote 2, and have subtracted from it the excess over 75% of pay upon which the computation is based, struck out footnote 1, which provided that the computation be at the rate applicable on the date of retirement, and redesignated footnote 2 as 1 and substituted “In determining retired pay multiplier” for “Before applying percentage factor” and “1/12” for “one-twelfth”.
 
-    1983—[Pub. L. 98–94, § 923(a)(1)][/us/pl/98/94/s923/a/1], (2)(I), in footnote 2 to table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
+    1983—[Pub. L. 98–94][/us/pl/98/94], § 923(a)(1), (2)(I), in footnote 2 to table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
 
-    [Pub. L. 98–94, § 922(a)(13)][/us/pl/98/94/s922/a/13], inserted “The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
+    [Pub. L. 98–94][/us/pl/98/94], § 922(a)(13), inserted “The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
 
     1982—[Pub. L. 97–295][/us/pl/97/295] inserted “enlisted” before “member of the Air Force” and formula B relating to warrant officers.
 
@@ -151,17 +151,17 @@ The words “basic pay \* \* \* as the case may be” are inserted to confor
 [/us/usc/t10/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1405
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F557
-[/us/pl/96/342/s813/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs813%2Fe
+[/us/pl/96/342/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtVIII
 [/us/stat/94/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1109
-[/us/pl/96/513/s514/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs514%2F8
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2935
-[/us/pl/97/295/s1/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F52
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1300
-[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F642
-[/us/pl/99/348/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs204%2Fb
+[/us/pl/99/348/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtII
 [/us/stat/100/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F698
-[/us/pl/103/337/s635/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs635%2Fc%2F3
+[/us/pl/103/337/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVI
 [/us/stat/108/2789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2789
 [/us/stat/63/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F802
 [/us/usc/t37/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs231
@@ -169,8 +169,8 @@ The words “basic pay \* \* \* as the case may be” are inserted to confor
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
 [/us/usc/t10/s1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1409
-[/us/pl/98/94/s923/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs923%2Fa%2F1
-[/us/pl/98/94/s922/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs922%2Fa%2F13
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342

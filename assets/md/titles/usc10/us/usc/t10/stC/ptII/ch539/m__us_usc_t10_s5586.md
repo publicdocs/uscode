@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5585.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5587.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5586)
 
-## \[§ 5586. Repealed. [Pub. L. 96–513, title III, § 321][/us/pl/96/513/s321], Dec. 12, 1980, [94 Stat. 2892][/us/stat/94/2892]\]
+## \[§ 5586. Repealed. [Pub. L. 96–513, title III][/us/pl/96/513/tIII], § 321, Dec. 12, 1980, [94 Stat. 2892][/us/stat/94/2892]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 324][/us/stat/70A/324], prescribed requirements for original appointments to the active list of the Navy in the line or in any staff corps, except the Medical Service Corps and the Nurse Corps, in grades not above lieutenant and to the active list of the Marine Corps in grades not above captain from warrant officers and enlisted members of the Regular Navy and Regular Marine Corps. See [section 532 of this title][/us/usc/t10/s532].
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/96/513/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs321
+[/us/pl/96/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIII
 [/us/stat/94/2892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2892
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F324

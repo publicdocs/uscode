@@ -19,7 +19,7 @@
 
     (b) Notwithstanding any other provision of law, a cadet who completes the prescribed course of instruction may, upon graduation, be appointed a second lieutenant in the Regular Air Force under [section 531 of this title][/us/usc/t10/s531].
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 567][/us/stat/70A/567]; [Pub. L. 85–861][/us/pl/85/861], §§ 1(201), 33(a)(43), Sept. 2, 1958, [72 Stat. 1541][/us/stat/72/1541], 1567; [Pub. L. 96–513, title V, § 504(25)][/us/pl/96/513/s504/25], Dec. 12, 1980, [94 Stat. 2917][/us/stat/94/2917]; [Pub. L. 105–85, div. A, title V, § 542(d)][/us/pl/105/85/s542/d], Nov. 18, 1997, [111 Stat. 1743][/us/stat/111/1743].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 567][/us/stat/70A/567]; [Pub. L. 85–861][/us/pl/85/861], §§ 1(201), 33(a)(43), Sept. 2, 1958, [72 Stat. 1541][/us/stat/72/1541], 1567; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 504(25), Dec. 12, 1980, [94 Stat. 2917][/us/stat/94/2917]; [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 542(d), Nov. 18, 1997, [111 Stat. 1743][/us/stat/111/1743].)
 
 <table>
 
@@ -151,9 +151,9 @@ July 20, 1956, ch. 646, § 203(e) (1st sentence), 70 Stat. 585.  </td>
 
     1980—Subsec. (b). [Pub. L. 96–513][/us/pl/96/513] inserted “under [section 531 of this title][/us/usc/t10/s531]” after “Regular Air Force”.
 
-    1958—Subsec. (a). [Pub. L. 85–861, § 33(a)(43)][/us/pl/85/861/s33/a/43], permitted conferring of degrees only after date of accrediting of Academy.
+    1958—Subsec. (a). [Pub. L. 85–861][/us/pl/85/861], § 33(a)(43), permitted conferring of degrees only after date of accrediting of Academy.
 
-    Subsec. (b). [Pub. L. 85–861, § 1(201)][/us/pl/85/861/s1/201], struck out “except [section 541 of this title][/us/usc/t10/s541]” after “provision of law”.
+    Subsec. (b). [Pub. L. 85–861][/us/pl/85/861], § 1(201), struck out “except [section 541 of this title][/us/usc/t10/s541]” after “provision of law”.
 
  __Effective Date of 1980 Amendment__ 
 
@@ -175,9 +175,9 @@ July 20, 1956, ch. 646, § 203(e) (1st sentence), 70 Stat. 585.  </td>
 [/us/stat/70A/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F567
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1541
-[/us/pl/96/513/s504/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs504%2F25
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2917
-[/us/pl/105/85/s542/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs542%2Fd
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1743
 [/us/usc/t10/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs541
 [/us/usc/t10/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs541
@@ -186,8 +186,8 @@ July 20, 1956, ch. 646, § 203(e) (1st sentence), 70 Stat. 585.  </td>
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/usc/t10/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs531
-[/us/pl/85/861/s33/a/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F43
-[/us/pl/85/861/s1/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F201
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/usc/t10/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs541
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701

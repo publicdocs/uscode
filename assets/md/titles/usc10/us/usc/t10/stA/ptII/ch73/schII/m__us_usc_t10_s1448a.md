@@ -57,17 +57,17 @@
 
     Paragraphs (4)(B) and (5)(C) of [section 1448(a) of this title][/us/usc/t10/s1448/a] do not apply to prevent an election under subsection (a).
 
-(Added [Pub. L. 105–85, div. A, title VI, § 641(a)(1)][/us/pl/105/85/s641/a/1], Nov. 18, 1997, [111 Stat. 1797][/us/stat/111/1797].)
+(Added [Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 641(a)(1), Nov. 18, 1997, [111 Stat. 1797][/us/stat/111/1797].)
 
  __Effective Date__ 
 
-[Pub. L. 105–85, div. A, title VI, § 641(c)][/us/pl/105/85/s641/c], Nov. 18, 1997, [111 Stat. 1799][/us/stat/111/1799], provided that: 
+[Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 641(c), Nov. 18, 1997, [111 Stat. 1799][/us/stat/111/1799], provided that: 
 
 > “[Section 1448a of title 10][/us/usc/t10/s1448a], United States Code, as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act \[Nov. 18, 1997\].”
 
  __Transition Provision for Current Participants__ 
 
-[Pub. L. 105–85, div. A, title VI, § 641(b)][/us/pl/105/85/s641/b], Nov. 18, 1997, [111 Stat. 1798][/us/stat/111/1798], provided that: 
+[Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 641(b), Nov. 18, 1997, [111 Stat. 1798][/us/stat/111/1798], provided that: 
 
 > “Notwithstanding the limitation on the time for making an election under [section 1448a of title 10][/us/usc/t10/s1448a], United States Code (as added by subsection (a)), that is specified in subsection (a) of such section, a participant in the Survivor Benefit Plan under subchapter II of chapter 73 of such title may make an election in accordance with that section within one year after the effective date of that section under subsection (c) \[set out as an Effective Date note above\] if the second anniversary of the commencement of payment of retired pay to the participant precedes that effective date.”
 
@@ -84,12 +84,12 @@
 [/us/usc/t10/s1448/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fb%2F1%2FE
 [/us/usc/t10/s1448/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fb
 [/us/usc/t10/s1448/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fa
-[/us/pl/105/85/s641/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs641%2Fa%2F1
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1797
-[/us/pl/105/85/s641/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs641%2Fc
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1799
 [/us/usc/t10/s1448a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448a
-[/us/pl/105/85/s641/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs641%2Fb
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1798
 [/us/usc/t10/s1448a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448a
 

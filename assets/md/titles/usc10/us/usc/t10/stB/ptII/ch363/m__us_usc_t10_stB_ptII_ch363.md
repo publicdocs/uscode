@@ -11,64 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch361/m__us_usc_t10_s3818.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch363/m__us_usc_t10_s3847.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch363)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch361/m__us_usc_t10_s3819 _us_usc_t10_s3820.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch363/m__us_usc_t10_s3841 _us_usc_t10_s3842.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch363)
 
 #### \[CHAPTER 363—REPEALED\]
 
-\[§§ 3841, 3842. __Repealed.__  __[__  __Pub. L. 86–559, § 1(22)__  __][/us/pl/86/559/s1/22]__  __,__  __June 30, 1960__  __,__  __[__  __74 Stat. 271__  __][/us/stat/74/271]__  __\]__ 
-
-    Section 3841, added [Pub. L. 85–861, § 1(94)][/us/pl/85/861/s1/94], Sept. 2, 1958, [72 Stat. 1483][/us/stat/72/1483], related to separation or transfer to retired reserve of reserve nurses and medical specialists at age 50 if in a reserve grade below major.
-
-    Section 3842, added [Pub. L. 85–861, § 1(94)][/us/pl/85/861/s1/94], Sept. 2, 1958, [72 Stat. 1483][/us/stat/72/1483], related to separation or transfer to Retired Reserve of Reserve nurses and medical specialists at age 55 if in a Reserve grade above captain.
-
-\[§§ 3843 to 3846. __Repealed.__  __[__  __Pub. L. 103–337, div. A, title XVI, § 1629(a)(3)__  __][/us/pl/103/337/s1629/a/3]__  __,__  __Oct. 5, 1994__  __,__  __[__  __108 Stat. 2963__  __][/us/stat/108/2963]__  __\]__ 
-
-    Section 3843, added [Pub. L. 85–861, § 1(94)][/us/pl/85/861/s1/94], Sept. 2, 1958, [72 Stat. 1483][/us/stat/72/1483]; amended [Pub. L. 86–559, § 1(23)][/us/pl/86/559/s1/23], June 30, 1960, [74 Stat. 271][/us/stat/74/271]; [Pub. L. 99–145, title XIII, § 1303(a)(20)(A)][/us/pl/99/145/s1303/a/20/A], Nov. 8, 1985, [99 Stat. 739][/us/stat/99/739], related to transfer or discharge of reserve commissioned officers below grade of major general. See sections 14509 and 14510 of this title.
-
-    Section 3844, added [Pub. L. 85–861, § 1(94)][/us/pl/85/861/s1/94], Sept. 2, 1958, [72 Stat. 1484][/us/stat/72/1484]; amended [Pub. L. 86–559, § 1(24)][/us/pl/86/559/s1/24], June 30, 1960, [74 Stat. 271][/us/stat/74/271], related to transfer or discharge of certain reserve major generals and brigadier generals who are 62 years old. See [section 14511 of this title][/us/usc/t10/s14511].
-
-    Section 3845, added [Pub. L. 85–861, § 1(94)][/us/pl/85/861/s1/94], Sept. 2, 1958, [72 Stat. 1484][/us/stat/72/1484]; amended [Pub. L. 100–456, div. A, title XII, § 1234(a)(1)][/us/pl/100/456/s1234/a/1], Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059], related to transfer or discharge of certain officers of Army National Guard of United States who are 64 years of age. See [section 14512(a) of this title][/us/usc/t10/s14512/a].
-
-    Section 3846, added [Pub. L. 85–861, § 1(94)][/us/pl/85/861/s1/94], Sept. 2, 1958, [72 Stat. 1484][/us/stat/72/1484], related to transfer or discharge of reserve first lieutenants, captains, and majors not recommended for promotion by two selection boards. See section 14501 et seq. of this title.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Oct. 1, 1996, see [section 1691(b)(1) of Pub. L. 103–337][/us/pl/103/337/s1691/b/1], set out as an Effective Date note under [section 10001 of this title][/us/usc/t10/s10001].
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch361/m__us_usc_t10_s3818.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch363/m__us_usc_t10_s3847.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch363)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch361/m__us_usc_t10_s3819 _us_usc_t10_s3820.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch363/m__us_usc_t10_s3841 _us_usc_t10_s3842.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch363)
 
 ----------
 ----------
 
-[/us/pl/86/559/s1/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559%2Fs1%2F22
-[/us/stat/74/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F271
-[/us/pl/85/861/s1/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F94
-[/us/stat/72/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1483
-[/us/pl/85/861/s1/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F94
-[/us/stat/72/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1483
-[/us/pl/103/337/s1629/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fa%2F3
-[/us/stat/108/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2963
-[/us/pl/85/861/s1/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F94
-[/us/stat/72/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1483
-[/us/pl/86/559/s1/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559%2Fs1%2F23
-[/us/stat/74/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F271
-[/us/pl/99/145/s1303/a/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1303%2Fa%2F20%2FA
-[/us/stat/99/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F739
-[/us/pl/85/861/s1/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F94
-[/us/stat/72/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1484
-[/us/pl/86/559/s1/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559%2Fs1%2F24
-[/us/stat/74/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F271
-[/us/usc/t10/s14511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14511
-[/us/pl/85/861/s1/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F94
-[/us/stat/72/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1484
-[/us/pl/100/456/s1234/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fa%2F1
-[/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
-[/us/usc/t10/s14512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14512%2Fa
-[/us/pl/85/861/s1/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F94
-[/us/stat/72/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1484
-[/us/pl/103/337/s1691/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691%2Fb%2F1
-[/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
 
 

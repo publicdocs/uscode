@@ -103,7 +103,7 @@
 
         (10) In this subsection, the term “remedy coordination official”, with respect to an agency, means the person or entity in that agency who coordinates within that agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigations of fraud or corruption related to procurement activities.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 131][/us/stat/70A/131]; [Pub. L. 85–800, § 9][/us/pl/85/800/s9], Aug. 28, 1958, [72 Stat. 967][/us/stat/72/967]; [Pub. L. 93–155, title VIII, § 807(c)][/us/pl/93/155/s807/c], Nov. 16, 1973, [87 Stat. 616][/us/stat/87/616]; [Pub. L. 100–370, § 1(f)(1)(A)][/us/pl/100/370/s1/f/1/A], July 19, 1988, [102 Stat. 846][/us/stat/102/846]; [Pub. L. 101–510, div. A, title VIII, § 836(a)][/us/pl/101/510/s836/a], (b), title XIII, § 1322(a)(4), Nov. 5, 1990, [104 Stat. 1615][/us/stat/104/1615], 1616, 1671; [Pub. L. 102–25, title VII, § 701(d)(4)][/us/pl/102/25/s701/d/4], (j)(2)(A), Apr. 6, 1991, [105 Stat. 114][/us/stat/105/114], 116; [Pub. L. 102–190, div. A, title X, § 1061(a)(10)][/us/pl/102/190/s1061/a/10], Dec. 5, 1991, [105 Stat. 1472][/us/stat/105/1472]; [Pub. L. 102–484, div. A, title X, § 1052(24)][/us/pl/102/484/s1052/24], Oct. 23, 1992, [106 Stat. 2500][/us/stat/106/2500]; [Pub. L. 103–355, title II, § 2001(a)][/us/pl/103/355/s2001/a]–(g), Oct. 13, 1994, [108 Stat. 3301][/us/stat/108/3301], 3302; [Pub. L. 105–85, div. A, title VIII, § 802][/us/pl/105/85/s802], Nov. 18, 1997, [111 Stat. 1831][/us/stat/111/1831]; [Pub. L. 106–391, title III, § 306][/us/pl/106/391/s306], Oct. 30, 2000, [114 Stat. 1592][/us/stat/114/1592].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 131][/us/stat/70A/131]; [Pub. L. 85–800][/us/pl/85/800], § 9, Aug. 28, 1958, [72 Stat. 967][/us/stat/72/967]; [Pub. L. 93–155, title VIII][/us/pl/93/155/tVIII], § 807(c), Nov. 16, 1973, [87 Stat. 616][/us/stat/87/616]; [Pub. L. 100–370][/us/pl/100/370], § 1(f)(1)(A), July 19, 1988, [102 Stat. 846][/us/stat/102/846]; [Pub. L. 101–510, div. A, title VIII][/us/pl/101/510/dA/tVIII], § 836(a), (b), title XIII, § 1322(a)(4), Nov. 5, 1990, [104 Stat. 1615][/us/stat/104/1615], 1616, 1671; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 701(d)(4), (j)(2)(A), Apr. 6, 1991, [105 Stat. 114][/us/stat/105/114], 116; [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1061(a)(10), Dec. 5, 1991, [105 Stat. 1472][/us/stat/105/1472]; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1052(24), Oct. 23, 1992, [106 Stat. 2500][/us/stat/106/2500]; [Pub. L. 103–355, title II][/us/pl/103/355/tII], § 2001(a)–(g), Oct. 13, 1994, [108 Stat. 3301][/us/stat/108/3301], 3302; [Pub. L. 105–85, div. A, title VIII][/us/pl/105/85/dA/tVIII], § 802, Nov. 18, 1997, [111 Stat. 1831][/us/stat/111/1831]; [Pub. L. 106–391, title III][/us/pl/106/391/tIII], § 306, Oct. 30, 2000, [114 Stat. 1592][/us/stat/114/1592].)
 
 <table>
 
@@ -167,7 +167,7 @@ Feb. 19, 1948, ch. 65, § 5, 62 Stat. 23.  </td>
 
  __1988__  __Act__ 
 
-    Subsection (e) is based on [Pub. L. 99–145, title IX, § 916][/us/pl/99/145/s916], Nov. 8, 1985, [99 Stat. 688][/us/stat/99/688].
+    Subsection (e) is based on [Pub. L. 99–145, title IX][/us/pl/99/145/tIX], § 916, Nov. 8, 1985, [99 Stat. 688][/us/stat/99/688].
 
  __References in Text__ 
 
@@ -175,7 +175,7 @@ Feb. 19, 1948, ch. 65, § 5, 62 Stat. 23.  </td>
 
  __Prior Provisions__ 
 
-    Provisions similar to those in subsec. (g) of this section were contained in sections 7312, 7364, and 7521 of this title prior to repeal by [Pub. L. 103–355, § 2001(j)(1)][/us/pl/103/355/s2001/j/1].
+    Provisions similar to those in subsec. (g) of this section were contained in sections 7312, 7364, and 7521 of this title prior to repeal by [Pub. L. 103–355][/us/pl/103/355], § 2001(j)(1).
 
  __Amendments__ 
 
@@ -183,55 +183,55 @@ Feb. 19, 1948, ch. 65, § 5, 62 Stat. 23.  </td>
 
     1997—Subsecs. (h), (i). [Pub. L. 105–85][/us/pl/105/85] added subsec. (h) and redesignated former subsec. (h) as (i).
 
-    1994—[Pub. L. 103–355, § 2001(a)(1)][/us/pl/103/355/s2001/a/1], substituted “Contract financing” for “Advance payments” in section catchline.
+    1994—[Pub. L. 103–355][/us/pl/103/355], § 2001(a)(1), substituted “Contract financing” for “Advance payments” in section catchline.
 
-    Subsec. (a). [Pub. L. 103–355, § 2001(a)(2)][/us/pl/103/355/s2001/a/2], inserted heading.
+    Subsec. (a). [Pub. L. 103–355][/us/pl/103/355], § 2001(a)(2), inserted heading.
 
-    Subsec. (a)(2). [Pub. L. 103–355, § 2001(c)][/us/pl/103/355/s2001/c], struck out “bid” before “solicitations”.
+    Subsec. (a)(2). [Pub. L. 103–355][/us/pl/103/355], § 2001(c), struck out “bid” before “solicitations”.
 
-    Subsec. (b). [Pub. L. 103–355, § 2001(a)(7)][/us/pl/103/355/s2001/a/7], (b), added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsec. (b). [Pub. L. 103–355][/us/pl/103/355], § 2001(a)(7), (b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-    [Pub. L. 103–355, § 2001(a)(3)][/us/pl/103/355/s2001/a/3], inserted heading.
+    [Pub. L. 103–355][/us/pl/103/355], § 2001(a)(3), inserted heading.
 
-    Subsec. (c). [Pub. L. 103–355, § 2001(a)(7)][/us/pl/103/355/s2001/a/7], redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 103–355][/us/pl/103/355], § 2001(a)(7), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    [Pub. L. 103–355, § 2001(a)(4)][/us/pl/103/355/s2001/a/4], inserted heading.
+    [Pub. L. 103–355][/us/pl/103/355], § 2001(a)(4), inserted heading.
 
-    Subsec. (d). [Pub. L. 103–355, § 2001(d)][/us/pl/103/355/s2001/d], inserted before period at end “and is effective immediately upon the first advancement of funds without filing, notice, or any other action by the United States”.
+    Subsec. (d). [Pub. L. 103–355][/us/pl/103/355], § 2001(d), inserted before period at end “and is effective immediately upon the first advancement of funds without filing, notice, or any other action by the United States”.
 
-    [Pub. L. 103–355, § 2001(a)(7)][/us/pl/103/355/s2001/a/7], redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    [Pub. L. 103–355][/us/pl/103/355], § 2001(a)(7), redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    [Pub. L. 103–355, § 2001(a)(5)][/us/pl/103/355/s2001/a/5], inserted heading.
+    [Pub. L. 103–355][/us/pl/103/355], § 2001(a)(5), inserted heading.
 
-    Subsec. (e). [Pub. L. 103–355, § 2001(a)(7)][/us/pl/103/355/s2001/a/7], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (h).
+    Subsec. (e). [Pub. L. 103–355][/us/pl/103/355], § 2001(a)(7), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (h).
 
-    [Pub. L. 103–355, § 2001(a)(6)][/us/pl/103/355/s2001/a/6], inserted heading.
+    [Pub. L. 103–355][/us/pl/103/355], § 2001(a)(6), inserted heading.
 
-    Subsec. (e)(1). [Pub. L. 103–355, § 2001(e)(1)][/us/pl/103/355/s2001/e/1], substituted “work accomplished that meets standards established under the contract” for “work, which meets standards of quality established under the contract, that has been accomplished”.
+    Subsec. (e)(1). [Pub. L. 103–355][/us/pl/103/355], § 2001(e)(1), substituted “work accomplished that meets standards established under the contract” for “work, which meets standards of quality established under the contract, that has been accomplished”.
 
-    Subsec. (e)(3). [Pub. L. 103–355, § 2001(e)(2)][/us/pl/103/355/s2001/e/2], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “This subsection does not apply to any contract for an amount not in excess of the amount of the small purchase threshold.”
+    Subsec. (e)(3). [Pub. L. 103–355][/us/pl/103/355], § 2001(e)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “This subsection does not apply to any contract for an amount not in excess of the amount of the small purchase threshold.”
 
-    Subsecs. (f), (g). [Pub. L. 103–355, § 2001(f)][/us/pl/103/355/s2001/f], (g), added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 103–355][/us/pl/103/355], § 2001(f), (g), added subsecs. (f) and (g).
 
-    Subsec. (h). [Pub. L. 103–355, § 2001(a)(7)][/us/pl/103/355/s2001/a/7], redesignated subsec. (e) as (h).
+    Subsec. (h). [Pub. L. 103–355][/us/pl/103/355], § 2001(a)(7), redesignated subsec. (e) as (h).
 
     1992—Subsec. (e)(1). [Pub. L. 102–484][/us/pl/102/484] substituted “(1)” for “(l)” as par. designation after “(e)”.
 
-    1991—Subsec. (d)(3). [Pub. L. 102–25, § 701(d)(4)][/us/pl/102/25/s701/d/4], substituted “any contract for an amount not in excess of the amount of the small purchase threshold” for “contracts for amounts less than the maximum amount for small purchases specified in [section 2304(g)(2) of this title][/us/usc/t10/s2304/g/2]”.
+    1991—Subsec. (d)(3). [Pub. L. 102–25][/us/pl/102/25], § 701(d)(4), substituted “any contract for an amount not in excess of the amount of the small purchase threshold” for “contracts for amounts less than the maximum amount for small purchases specified in [section 2304(g)(2) of this title][/us/usc/t10/s2304/g/2]”.
 
-    Subsec. (e). [Pub. L. 102–25, § 701(j)(2)(A)][/us/pl/102/25/s701/j/2/A], redesignated subsec. (f) as (e).
+    Subsec. (e). [Pub. L. 102–25][/us/pl/102/25], § 701(j)(2)(A), redesignated subsec. (f) as (e).
 
     Subsec. (f). [Pub. L. 102–190][/us/pl/102/190], which directed the substitution of “(1)” for “(l)” as par. designation after “(f)”, could not be executed because “(l)” did not appear after “(f)”.
 
-    [Pub. L. 102–25, § 701(j)(2)(A)][/us/pl/102/25/s701/j/2/A], redesignated subsec. (f) as (e).
+    [Pub. L. 102–25][/us/pl/102/25], § 701(j)(2)(A), redesignated subsec. (f) as (e).
 
-    1990—Subsec. (d). [Pub. L. 101–510, § 1322(a)(4)][/us/pl/101/510/s1322/a/4], redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Payments under subsection (a) in the case of any contract, other than partial, progress, or other payments specifically provided for in such contract at the time such contract was initially entered into, may not exceed $25,000,000 unless the Committees on Armed Services of the Senate and the House of Representatives have been notified in writing of such proposed payments and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees and neither House of Congress has adopted, within such 60-day period, a resolution disapproving such payments. For purposes of this section, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of such 60-day period.”
+    1990—Subsec. (d). [Pub. L. 101–510][/us/pl/101/510], § 1322(a)(4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Payments under subsection (a) in the case of any contract, other than partial, progress, or other payments specifically provided for in such contract at the time such contract was initially entered into, may not exceed $25,000,000 unless the Committees on Armed Services of the Senate and the House of Representatives have been notified in writing of such proposed payments and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees and neither House of Congress has adopted, within such 60-day period, a resolution disapproving such payments. For purposes of this section, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of such 60-day period.”
 
-    Subsec. (e). [Pub. L. 101–510, § 1322(a)(4)(B)][/us/pl/101/510/s1322/a/4/B], redesignated subsec. (e) as (d).
+    Subsec. (e). [Pub. L. 101–510][/us/pl/101/510], § 1322(a)(4)(B), redesignated subsec. (e) as (d).
 
-    [Pub. L. 101–510, § 836(b)][/us/pl/101/510/s836/b], inserted at end of par. (1) “The contractor shall provide such information and evidence as the Secretary of Defense determines necessary to permit the Secretary to carry out the preceding sentence.”
+    [Pub. L. 101–510][/us/pl/101/510], § 836(b), inserted at end of par. (1) “The contractor shall provide such information and evidence as the Secretary of Defense determines necessary to permit the Secretary to carry out the preceding sentence.”
 
-    Subsec. (f). [Pub. L. 101–510, § 836(a)][/us/pl/101/510/s836/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–510][/us/pl/101/510], § 836(a), added subsec. (f).
 
     1988—Subsec. (e). [Pub. L. 100–370][/us/pl/100/370] added subsec. (e).
 
@@ -245,23 +245,23 @@ Feb. 19, 1948, ch. 65, § 5, 62 Stat. 23.  </td>
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–510, div. A, title VIII, § 836(c)][/us/pl/101/510/s836/c], Nov. 5, 1990, [104 Stat. 1616][/us/stat/104/1616], as amended by [Pub. L. 102–25, title VII, § 701(j)(2)(B)][/us/pl/102/25/s701/j/2/B], Apr. 6, 1991, [105 Stat. 116][/us/stat/105/116], provided that: 
+[Pub. L. 101–510, div. A, title VIII][/us/pl/101/510/dA/tVIII], § 836(c), Nov. 5, 1990, [104 Stat. 1616][/us/stat/104/1616], as amended by [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 701(j)(2)(B), Apr. 6, 1991, [105 Stat. 116][/us/stat/105/116], provided that: 
 
 > “The provisions of [section 2307 of title 10][/us/usc/t10/s2307], United States Code, that are added by the amendments made by subsections (a) and (b) shall apply with respect to contracts entered into on or after May 6, 1991.”
 
  __Relationship of 1994 Amendment to Prompt Payment Requirements__ 
 
-[Pub. L. 103–355, title II, § 2001(h)][/us/pl/103/355/s2001/h], Oct. 13, 1994, [108 Stat. 3303][/us/stat/108/3303], provided that: 
+[Pub. L. 103–355, title II][/us/pl/103/355/tII], § 2001(h), Oct. 13, 1994, [108 Stat. 3303][/us/stat/108/3303], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 7522 of this title][/us/usc/t10/s7522] and repealing sections 7312, 7364, and 7521 of this title\] are not intended to impair or modify procedures required by the provisions of chapter 39 of title 31, United States Code, and the regulations issued pursuant to such provisions of law (as such procedures are in effect on the date of the enactment of this Act \[Oct. 13, 1994\]), except that the Government may accept payment terms offered by a contractor offering a commercial item.”
 
  __Limitations on Progress Payments__ 
 
-    [Pub. L. 99–145, title IX, § 916][/us/pl/99/145/s916], Nov. 8, 1985, [99 Stat. 688][/us/stat/99/688], which required Secretary of Defense to ensure that any progress payment under a defense contract be commensurate with work accomplished at standard of quality in contract, that such payments be limited to 80 percent of work accomplished so long as contract terms are indefinite, that this provision be waived for small purchases, and that this provision apply only to contracts for which solicitations were issued on or after 150 days after Nov. 8, 1985, was repealed and restated in subsec. (e) of this section by [Pub. L. 100–370, § 1(f)(1)][/us/pl/100/370/s1/f/1], July 19, 1988, [102 Stat. 846][/us/stat/102/846].
+    [Pub. L. 99–145, title IX][/us/pl/99/145/tIX], § 916, Nov. 8, 1985, [99 Stat. 688][/us/stat/99/688], which required Secretary of Defense to ensure that any progress payment under a defense contract be commensurate with work accomplished at standard of quality in contract, that such payments be limited to 80 percent of work accomplished so long as contract terms are indefinite, that this provision be waived for small purchases, and that this provision apply only to contracts for which solicitations were issued on or after 150 days after Nov. 8, 1985, was repealed and restated in subsec. (e) of this section by [Pub. L. 100–370][/us/pl/100/370], § 1(f)(1), July 19, 1988, [102 Stat. 846][/us/stat/102/846].
 
  __Obligations Entered Into Before__  __November 16, 1973__ 
 
-[Pub. L. 93–155, title VIII, § 807(e)][/us/pl/93/155/s807/e], Nov. 16, 1973, [87 Stat. 616][/us/stat/87/616], provided that: 
+[Pub. L. 93–155, title VIII][/us/pl/93/155/tVIII], § 807(e), Nov. 16, 1973, [87 Stat. 616][/us/stat/87/616], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1431, 3816, and 4532 of Title 50, War and National Defense\] shall not affect the carrying out of any contract, loan, guarantee, commitment, or other obligation entered into prior to the date of enactment of this section \[Nov. 16, 1973\].”
 
@@ -275,77 +275,77 @@ Feb. 19, 1948, ch. 65, § 5, 62 Stat. 23.  </td>
 [/us/usc/t10/s2303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2303%2Fa
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F131
-[/us/pl/85/800/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F800%2Fs9
+[/us/pl/85/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F800
 [/us/stat/72/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F967
-[/us/pl/93/155/s807/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2Fs807%2Fc
+[/us/pl/93/155/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2FtVIII
 [/us/stat/87/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F616
-[/us/pl/100/370/s1/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs1%2Ff%2F1%2FA
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F846
-[/us/pl/101/510/s836/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs836%2Fa
+[/us/pl/101/510/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVIII
 [/us/stat/104/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1615
-[/us/pl/102/25/s701/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Fd%2F4
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F114
-[/us/pl/102/190/s1061/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fa%2F10
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1472
-[/us/pl/102/484/s1052/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F24
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2500
-[/us/pl/103/355/s2001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fa
+[/us/pl/103/355/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtII
 [/us/stat/108/3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3301
-[/us/pl/105/85/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs802
+[/us/pl/105/85/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVIII
 [/us/stat/111/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1831
-[/us/pl/106/391/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F391%2Fs306
+[/us/pl/106/391/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F391%2FtIII
 [/us/stat/114/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1592
-[/us/pl/99/145/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs916
+[/us/pl/99/145/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtIX
 [/us/stat/99/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F688
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/103/355/s2001/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fj%2F1
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/106/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F391
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/103/355/s2001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fa%2F1
-[/us/pl/103/355/s2001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fa%2F2
-[/us/pl/103/355/s2001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fc
-[/us/pl/103/355/s2001/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fa%2F7
-[/us/pl/103/355/s2001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fa%2F3
-[/us/pl/103/355/s2001/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fa%2F7
-[/us/pl/103/355/s2001/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fa%2F4
-[/us/pl/103/355/s2001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fd
-[/us/pl/103/355/s2001/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fa%2F7
-[/us/pl/103/355/s2001/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fa%2F5
-[/us/pl/103/355/s2001/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fa%2F7
-[/us/pl/103/355/s2001/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fa%2F6
-[/us/pl/103/355/s2001/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fe%2F1
-[/us/pl/103/355/s2001/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fe%2F2
-[/us/pl/103/355/s2001/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Ff
-[/us/pl/103/355/s2001/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fa%2F7
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/102/25/s701/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Fd%2F4
+[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/usc/t10/s2304/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Fg%2F2
-[/us/pl/102/25/s701/j/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Fj%2F2%2FA
+[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
-[/us/pl/102/25/s701/j/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Fj%2F2%2FA
-[/us/pl/101/510/s1322/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1322%2Fa%2F4
-[/us/pl/101/510/s1322/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1322%2Fa%2F4%2FB
-[/us/pl/101/510/s836/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs836%2Fb
-[/us/pl/101/510/s836/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs836%2Fa
+[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/pl/93/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155
 [/us/pl/85/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F800
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/103/355/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10001
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/101/510/s836/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs836%2Fc
+[/us/pl/101/510/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVIII
 [/us/stat/104/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1616
-[/us/pl/102/25/s701/j/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Fj%2F2%2FB
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F116
 [/us/usc/t10/s2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2307
-[/us/pl/103/355/s2001/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fh
+[/us/pl/103/355/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtII
 [/us/stat/108/3303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3303
 [/us/usc/t10/s7522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7522
-[/us/pl/99/145/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs916
+[/us/pl/99/145/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtIX
 [/us/stat/99/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F688
-[/us/pl/100/370/s1/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs1%2Ff%2F1
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F846
-[/us/pl/93/155/s807/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2Fs807%2Fe
+[/us/pl/93/155/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2FtVIII
 [/us/stat/87/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F616
 
 

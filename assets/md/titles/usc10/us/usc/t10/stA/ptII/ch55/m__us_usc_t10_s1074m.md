@@ -97,7 +97,7 @@
 
         (2) Not later than 270 days after the date of the issuance of the regulations prescribed under paragraph (1), the Secretary shall notify the congressional defense committees of the implementation of the regulations by the military departments.
 
-(Added [Pub. L. 112–81, div. A, title VII, § 702(a)(1)][/us/pl/112/81/s702/a/1], Dec. 31, 2011, [125 Stat. 1469][/us/stat/125/1469]; amended [Pub. L. 112–239, div. A, title VII, § 703][/us/pl/112/239/s703], Jan. 2, 2013, [126 Stat. 1800][/us/stat/126/1800]; [Pub. L. 113–291, div. A, title VII, § 701(a)(5)][/us/pl/113/291/s701/a/5], (b), title X, § 1071(f)(13), Dec. 19, 2014, [128 Stat. 3409][/us/stat/128/3409], 3510.)
+(Added [Pub. L. 112–81, div. A, title VII][/us/pl/112/81/dA/tVII], § 702(a)(1), Dec. 31, 2011, [125 Stat. 1469][/us/stat/125/1469]; amended [Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 703, Jan. 2, 2013, [126 Stat. 1800][/us/stat/126/1800]; [Pub. L. 113–291, div. A, title VII][/us/pl/113/291/dA/tVII], § 701(a)(5), (b), title X, § 1071(f)(13), Dec. 19, 2014, [128 Stat. 3409][/us/stat/128/3409], 3510.)
 
  __References in Text__ 
 
@@ -105,21 +105,21 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1)(B) to (D). [Pub. L. 113–291, § 701(b)(1)(A)][/us/pl/113/291/s701/b/1/A], added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+    2014—Subsec. (a)(1)(B) to (D). [Pub. L. 113–291][/us/pl/113/291], § 701(b)(1)(A), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
-    Subsec. (a)(2). [Pub. L. 113–291, § 1071(f)(13)][/us/pl/113/291/s1071/f/13], which directed substitution of “subparagraphs” for “subparagraph” in introductory provisions, could not be executed because of the prior amendment by [Pub. L. 113–291, § 701(b)(2)][/us/pl/113/291/s701/b/2]. See below.
+    Subsec. (a)(2). [Pub. L. 113–291][/us/pl/113/291], § 1071(f)(13), which directed substitution of “subparagraphs” for “subparagraph” in introductory provisions, could not be executed because of the prior amendment by [Pub. L. 113–291][/us/pl/113/291], § 701(b)(2). See below.
 
-    [Pub. L. 113–291, § 701(b)(2)][/us/pl/113/291/s701/b/2], substituted “subparagraphs (C) and (D)” for “subparagraph (B) and (C)” in introductory provisions.
+    [Pub. L. 113–291][/us/pl/113/291], § 701(b)(2), substituted “subparagraphs (C) and (D)” for “subparagraph (B) and (C)” in introductory provisions.
 
-    Subsec. (c)(1)(A)(ii), (iii). [Pub. L. 113–291, § 701(b)(1)(B)][/us/pl/113/291/s701/b/1/B], added cl. (ii) and redesignated former cl. (ii) as (iii).
+    Subsec. (c)(1)(A)(ii), (iii). [Pub. L. 113–291][/us/pl/113/291], § 701(b)(1)(B), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-    Subsec. (e)(1). [Pub. L. 113–291, § 701(a)(5)][/us/pl/113/291/s701/a/5], inserted “and [section 1074n of this title][/us/usc/t10/s1074n]” after “pursuant to this section”.
+    Subsec. (e)(1). [Pub. L. 113–291][/us/pl/113/291], § 701(a)(5), inserted “and [section 1074n of this title][/us/usc/t10/s1074n]” after “pursuant to this section”.
 
     2013—Subsec. (a)(1)(C)(i). [Pub. L. 112–239][/us/pl/112/239] substituted “18 months” for “one year”.
 
  __Regulations__ 
 
-[Pub. L. 112–81, div. A, title VII, § 702(a)(3)][/us/pl/112/81/s702/a/3], Dec. 31, 2011, [125 Stat. 1471][/us/stat/125/1471], provided that: 
+[Pub. L. 112–81, div. A, title VII][/us/pl/112/81/dA/tVII], § 702(a)(3), Dec. 31, 2011, [125 Stat. 1471][/us/stat/125/1471], provided that: 
 
 > “The Secretary of Defense shall prescribe an interim final rule with respect to the amendment made by paragraph (1) \[enacting this section\], effective not later than 90 days after the date of the enactment of this Act \[Dec. 31, 2011\].”
 
@@ -138,22 +138,22 @@
 [/us/stat/122/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F443
 [/us/usc/t10/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1071
 [/us/usc/t38/s1720F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720F
-[/us/pl/112/81/s702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs702%2Fa%2F1
+[/us/pl/112/81/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVII
 [/us/stat/125/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1469
-[/us/pl/112/239/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs703
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1800
-[/us/pl/113/291/s701/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs701%2Fa%2F5
+[/us/pl/113/291/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVII
 [/us/stat/128/3409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3409
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/113/291/s701/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs701%2Fb%2F1%2FA
-[/us/pl/113/291/s1071/f/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F13
-[/us/pl/113/291/s701/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs701%2Fb%2F2
-[/us/pl/113/291/s701/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs701%2Fb%2F2
-[/us/pl/113/291/s701/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs701%2Fb%2F1%2FB
-[/us/pl/113/291/s701/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs701%2Fa%2F5
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t10/s1074n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074n
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/112/81/s702/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs702%2Fa%2F3
+[/us/pl/112/81/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVII
 [/us/stat/125/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1471
 
 

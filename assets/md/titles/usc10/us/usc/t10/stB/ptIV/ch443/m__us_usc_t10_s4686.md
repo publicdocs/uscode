@@ -17,7 +17,7 @@
 
     Subject to regulations under [section 121 of title 40][/us/usc/t40/s121], the Secretary of the Army may give not more than two obsolete bronze or iron cannons suitable for firing salutes to any home for soldiers or sailors established and maintained under State authority.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 263][/us/stat/70A/263]; [Pub. L. 96–513, title V, § 512(19)][/us/pl/96/513/s512/19], Dec. 12, 1980, [94 Stat. 2930][/us/stat/94/2930]; [Pub. L. 107–217, § 3(b)(27)][/us/pl/107/217/s3/b/27], Aug. 21, 2002, [116 Stat. 1297][/us/stat/116/1297].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 263][/us/stat/70A/263]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 512(19), Dec. 12, 1980, [94 Stat. 2930][/us/stat/94/2930]; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(27), Aug. 21, 2002, [116 Stat. 1297][/us/stat/116/1297].)
 
 <table>
 
@@ -99,9 +99,9 @@ Mar. 3, 1899, ch. 423 (1st proviso under “Ordnance Department”), 30 Stat. 10
 [/us/usc/t40/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs121
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F263
-[/us/pl/96/513/s512/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs512%2F19
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2930
-[/us/pl/107/217/s3/b/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F27
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1297
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs121

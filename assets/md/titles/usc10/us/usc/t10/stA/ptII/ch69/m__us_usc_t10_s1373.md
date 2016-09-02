@@ -17,7 +17,7 @@
 
     Unless entitled to a higher retired grade under some other provision of law, a member of an armed force whose retired pay is computed under section 1402(d) or 1402a(d) of this title is entitled, upon his release from active duty, to the grade equivalent to the grade or rank upon which his retired pay is based under that section.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 105][/us/stat/70A/105]; [Pub. L. 96–342, title VIII, § 813(b)(3)(C)][/us/pl/96/342/s813/b/3/C], Sept. 8, 1980, [94 Stat. 1104][/us/stat/94/1104].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 105][/us/stat/70A/105]; [Pub. L. 96–342, title VIII][/us/pl/96/342/tVIII], § 813(b)(3)(C), Sept. 8, 1980, [94 Stat. 1104][/us/stat/94/1104].)
 
 <table>
 
@@ -80,7 +80,7 @@ Oct. 12, 1949, ch. 681, §§ 402(d) (last proviso, as applicable to retired gr
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F105
-[/us/pl/96/342/s813/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs813%2Fb%2F3%2FC
+[/us/pl/96/342/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtVIII
 [/us/stat/94/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1104
 [/us/pl/96/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342
 [/us/usc/t10/s1402a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1402a%2Fd

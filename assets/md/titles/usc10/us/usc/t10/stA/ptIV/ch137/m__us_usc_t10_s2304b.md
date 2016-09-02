@@ -77,7 +77,7 @@
 
     In this section, the term “advisory and assistance services” has the meaning given such term in [section 1105(g) of title 31][/us/usc/t31/s1105/g].
 
-(Added [Pub. L. 103–355, title I, § 1004(a)(1)][/us/pl/103/355/s1004/a/1], Oct. 13, 1994, [108 Stat. 3251][/us/stat/108/3251]; amended [Pub. L. 111–350, § 5(b)(13)][/us/pl/111/350/s5/b/13], Jan. 4, 2011, [124 Stat. 3843][/us/stat/124/3843].)
+(Added [Pub. L. 103–355, title I][/us/pl/103/355/tI], § 1004(a)(1), Oct. 13, 1994, [108 Stat. 3251][/us/stat/108/3251]; amended [Pub. L. 111–350][/us/pl/111/350], § 5(b)(13), Jan. 4, 2011, [124 Stat. 3843][/us/stat/124/3843].)
 
  __Amendments__ 
 
@@ -93,7 +93,7 @@
 
  __Waivers To Extend Task Order Contracts for Advisory and Assistance Services__ 
 
-[Pub. L. 109–364, div. A, title VIII, § 834][/us/pl/109/364/s834], Oct. 17, 2006, [120 Stat. 2332][/us/stat/120/2332], provided that:
+[Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 834, Oct. 17, 2006, [120 Stat. 2332][/us/stat/120/2332], provided that:
 
 >     “(a) __Defense Contracts.—__ 
 
@@ -219,9 +219,9 @@
 [/us/usc/t41/s1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1708
 [/us/usc/t15/s637/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fe
 [/us/usc/t31/s1105/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fg
-[/us/pl/103/355/s1004/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1004%2Fa%2F1
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3251
-[/us/pl/111/350/s5/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F13
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3843
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1708
@@ -232,7 +232,7 @@
 [/us/usc/t40/s759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs759
 [/us/pl/103/355/s1004/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1004%2Fd
 [/us/usc/t10/s2304a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304a
-[/us/pl/109/364/s834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs834
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2332
 [/us/usc/t10/s2304b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304b
 [/us/usc/t10/s2304b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304b

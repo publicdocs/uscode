@@ -51,11 +51,11 @@
 
         (3) The term “legal assistance” means legal services authorized under [section 1044 of this title][/us/usc/t10/s1044].
 
-(Added [Pub. L. 104–106, div. A, title VII, § 749(a)(1)][/us/pl/104/106/s749/a/1], Feb. 10, 1996, [110 Stat. 388][/us/stat/110/388].)
+(Added [Pub. L. 104–106, div. A, title VII][/us/pl/104/106/dA/tVII], § 749(a)(1), Feb. 10, 1996, [110 Stat. 388][/us/stat/110/388].)
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–106, div. A, title VII, § 749(b)][/us/pl/104/106/s749/b], Feb. 10, 1996, [110 Stat. 389][/us/stat/110/389], provided that: 
+[Pub. L. 104–106, div. A, title VII][/us/pl/104/106/dA/tVII], § 749(b), Feb. 10, 1996, [110 Stat. 389][/us/stat/110/389], provided that: 
 
 > “[Section 1044c of title 10][/us/usc/t10/s1044c], United States Code, shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\] and shall apply to advance medical directives referred to in that section that are executed before, on, or after that date.”
 
@@ -68,9 +68,9 @@
 
 [/us/usc/t10/s1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044
 [/us/usc/t10/s1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044
-[/us/pl/104/106/s749/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs749%2Fa%2F1
+[/us/pl/104/106/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVII
 [/us/stat/110/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F388
-[/us/pl/104/106/s749/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs749%2Fb
+[/us/pl/104/106/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVII
 [/us/stat/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F389
 [/us/usc/t10/s1044c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044c
 

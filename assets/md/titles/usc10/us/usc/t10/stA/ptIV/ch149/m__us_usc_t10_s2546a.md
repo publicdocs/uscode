@@ -27,7 +27,7 @@
 
     The customer of a major defense acquisition program shall be responsible for balancing resources against priorities on the acquisition program and ensuring that appropriate trade-offs are made among cost, schedule, technical feasibility, and performance on a continuing basis throughout the life of the acquisition program.
 
-(Added [Pub. L. 114–92, div. A, title VIII, § 802(a)(1)][/us/pl/114/92/s802/a/1], Nov. 25, 2015, [129 Stat. 878][/us/stat/129/878].)
+(Added [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 802(a)(1), Nov. 25, 2015, [129 Stat. 878][/us/stat/129/878].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/114/92/s802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs802%2Fa%2F1
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F878
 
 

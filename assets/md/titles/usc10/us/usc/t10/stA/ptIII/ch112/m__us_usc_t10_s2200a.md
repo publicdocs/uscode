@@ -79,17 +79,17 @@
 
         (2) may, upon satisfactory completion of two years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 922(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–234; amended [Pub. L. 109–163, div. A, title VI, § 687(c)(8)][/us/pl/109/163/s687/c/8], Jan. 6, 2006, [119 Stat. 3334][/us/stat/119/3334]; [Pub. L. 111–84, div. A, title X, § 1073(a)(20)][/us/pl/111/84/s1073/a/20], title XI, § 1103, Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473], 2485.)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 922(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–234; amended [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 687(c)(8), Jan. 6, 2006, [119 Stat. 3334][/us/stat/119/3334]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(20), title XI, § 1103, Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473], 2485.)
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–84, § 1103(b)][/us/pl/111/84/s1103/b], substituted “subsection (f),” for “subsection (g),” in introductory provisions.
+    2009—Subsec. (a). [Pub. L. 111–84][/us/pl/111/84], § 1103(b), substituted “subsection (f),” for “subsection (g),” in introductory provisions.
 
-    Subsec. (e)(1). [Pub. L. 111–84, § 1073(a)(20)][/us/pl/111/84/s1073/a/20], substituted “subsection (b)” for “section (b)”.
+    Subsec. (e)(1). [Pub. L. 111–84][/us/pl/111/84], § 1073(a)(20), substituted “subsection (b)” for “section (b)”.
 
-    Subsec. (g). [Pub. L. 111–84, § 1103(a)][/us/pl/111/84/s1103/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 111–84][/us/pl/111/84], § 1103(a), added subsec. (g).
 
-    2006—Subsec. (e). [Pub. L. 109–163, § 687(c)(8)(A)][/us/pl/109/163/s687/c/8/A], added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows:
+    2006—Subsec. (e). [Pub. L. 109–163][/us/pl/109/163], § 687(c)(8)(A), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows:
 
     “(1) A person who voluntarily terminates service before the end of the period of obligated service required under an agreement entered into under subsection (b) shall refund to the United States an amount determined by the Secretary of Defense as being appropriate to obtain adequate service in exchange for financial assistance and otherwise to achieve the goals set forth in [section 2200(a) of this title][/us/usc/t10/s2200/a].
 
@@ -97,7 +97,7 @@
 
     “(3) The Secretary of Defense may waive, in whole or in part, a refund required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States.”
 
-    Subsecs. (f), (g). [Pub. L. 109–163, § 687(c)(8)(B)][/us/pl/109/163/s687/c/8/B], (C), redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f). Text read as follows: “A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (e).”
+    Subsecs. (f), (g). [Pub. L. 109–163][/us/pl/109/163], § 687(c)(8)(B), (C), redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f). Text read as follows: “A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (e).”
 
  __Savings Provision__ 
 
@@ -116,18 +116,18 @@
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
 [/us/usc/t10/s2200b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2200b
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/109/163/s687/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fc%2F8
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3334
-[/us/pl/111/84/s1073/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F20
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2473
-[/us/pl/111/84/s1103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1103%2Fb
-[/us/pl/111/84/s1073/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F20
-[/us/pl/111/84/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1103%2Fa
-[/us/pl/109/163/s687/c/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fc%2F8%2FA
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/usc/t10/s2200/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2200%2Fa
-[/us/pl/109/163/s687/c/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fc%2F8%2FB
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/163/s687/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fc
 [/us/pl/109/163/s687/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Ff
 [/us/usc/t10/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs510

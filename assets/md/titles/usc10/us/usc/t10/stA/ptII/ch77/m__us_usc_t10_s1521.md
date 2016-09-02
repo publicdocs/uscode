@@ -29,7 +29,7 @@
 
     (c) A commission issued under subsection (a) in connection with the promotion of a deceased member to a higher commissioned grade shall require certification by the Secretary concerned that, at the time of death of the member, the member was qualified for appointment to that higher grade.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 115][/us/stat/70A/115]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 505\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–102; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 502(a), Oct. 14, 2008, [122 Stat. 4433][/us/stat/122/4433].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 115][/us/stat/70A/115]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 505\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–102; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 502(a), Oct. 14, 2008, [122 Stat. 4433][/us/stat/122/4433].)
 
 <table>
 
@@ -205,19 +205,19 @@ July 28, 1942, ch. 528, §§ 1–3, 56 Stat. 722, 723; July 17, 1953, ch. 220,
 
 </table>
 
-In subsection (a), the words “a member of” are substituted for the words “any person who, while in”, in 10:491a, 491b, 491c, and 34:285b, 285c, and 285d. The words “armed forces” are substituted for the words “military service of the United States”, in 10:491a, 491b, and 491c; and the words “naval service of the United States”, in 34:285b, 285c, and 285d (which did not appear in the source statute for the revised section, as amended by the [Act of July 17, 1953, ch. 220, § 1(b)][/us/act/1953-07-17/ch220/s1/b], [67 Stat. 177][/us/stat/67/177]). The words “to such grade”, in 10:491a and 34:285b, “receive or”, in 10:491c and 34:285d, are omitted as surplusage.
+In subsection (a), the words “a member of” are substituted for the words “any person who, while in”, in 10:491a, 491b, 491c, and 34:285b, 285c, and 285d. The words “armed forces” are substituted for the words “military service of the United States”, in 10:491a, 491b, and 491c; and the words “naval service of the United States”, in 34:285b, 285c, and 285d (which did not appear in the source statute for the revised section, as amended by the [Act of July 17, 1953, ch. 220][/us/act/1953-07-17/ch220], § 1(b), [67 Stat. 177][/us/stat/67/177]). The words “to such grade”, in 10:491a and 34:285b, “receive or”, in 10:491c and 34:285d, are omitted as surplusage.
 
     In subsection (b), the words “if any” are substituted for words “of the service”. The words “appointment and”, in 10:491b and 34:285c, and “appointment or promotion and”, in 10:491c and 34:285d, are omitted as surplusage.
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–417, § 502(a)(1)][/us/pl/110/417/s502/a/1], struck out “in line of duty” after “death” in pars. (1) to (3).
+    2008—Subsec. (a). [Pub. L. 110–417][/us/pl/110/417], § 502(a)(1), struck out “in line of duty” after “death” in pars. (1) to (3).
 
-    Subsec. (c). [Pub. L. 110–417, § 502(a)(2)][/us/pl/110/417/s502/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 110–417][/us/pl/110/417], § 502(a)(2), added subsec. (c).
 
-    2000—Subsec. (a)(3). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 505(a)\], struck out “and the recommendation for whose appointment or promotion was approved by the Secretary concerned” after “commissioned grade”.
+    2000—Subsec. (a)(3). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 505(a)\], struck out “and the recommendation for whose appointment or promotion was approved by the Secretary concerned” after “commissioned grade”.
 
-    Subsec. (b). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 505(b)\], substituted “official recommendation” for “approval” in two places.
+    Subsec. (b). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 505(b)\], substituted “official recommendation” for “approval” in two places.
 
  __Delegation of Functions__ 
 
@@ -225,7 +225,7 @@ In subsection (a), the words “a member of” are substituted for the words “
 
  __Determination of Date of Death Under Missing Persons Act__ 
 
-    [Act July 28, 1942, ch. 528, § 5][/us/act/1942-07-28/ch528/s5], as added [July 17, 1953, ch. 220, § 1(e)][/us/act/1953-07-17/ch220/s1/e], [67 Stat. 177][/us/stat/67/177], provided that for purposes of this chapter, in any case where the date of death is established under the Missing Persons Act, as amended, the date of death is the date of receipt by the head of the department concerned of evidence that the person is dead, or the date the finding of death is made under section 5 of that Act, prior to repeal by [Pub. L. 89–718, § 12(b)][/us/pl/89/718/s12/b], Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117]. See [section 1524 of this title][/us/usc/t10/s1524].
+    [Act July 28, 1942, ch. 528][/us/act/1942-07-28/ch528], § 5, as added [July 17, 1953, ch. 220][/us/act/1953-07-17/ch220], § 1(e), [67 Stat. 177][/us/stat/67/177], provided that for purposes of this chapter, in any case where the date of death is established under the Missing Persons Act, as amended, the date of death is the date of receipt by the head of the department concerned of evidence that the person is dead, or the date the finding of death is made under section 5 of that Act, prior to repeal by [Pub. L. 89–718][/us/pl/89/718], § 12(b), Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117]. See [section 1524 of this title][/us/usc/t10/s1524].
 
 ----------
 
@@ -236,21 +236,21 @@ In subsection (a), the words “a member of” are substituted for the words “
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F115
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4433
-[/us/act/1953-07-17/ch220/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-17%2Fch220%2Fs1%2Fb
+[/us/act/1953-07-17/ch220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-17%2Fch220
 [/us/stat/67/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F177
-[/us/pl/110/417/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs502%2Fa%2F1
-[/us/pl/110/417/s502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs502%2Fa%2F2
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/act/1942-07-28/ch528/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-07-28%2Fch528%2Fs5
-[/us/act/1953-07-17/ch220/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-17%2Fch220%2Fs1%2Fe
+[/us/act/1942-07-28/ch528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-07-28%2Fch528
+[/us/act/1953-07-17/ch220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-17%2Fch220
 [/us/stat/67/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F177
-[/us/pl/89/718/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs12%2Fb
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1117
 [/us/usc/t10/s1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1524
 

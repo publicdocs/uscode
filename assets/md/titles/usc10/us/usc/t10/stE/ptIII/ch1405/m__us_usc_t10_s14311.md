@@ -57,33 +57,33 @@
 
         (4) If an officer whose promotion is delayed under paragraph (1) or (2) completes the period of active duty or full-time National Guard duty that the officer is required by law or regulation to perform as a member of a reserve component, the officer may request release from active duty or full-time National Guard duty. If the request is granted, the officer’s promotion shall be effective upon the officer’s release from such duty. The date of rank and position on the reserve active-status list of the officer shall be the date the officer would have been promoted to or recognized in the higher grade had the limitations imposed under regulations prescribed by the Secretary of Defense contained in [section 12011 of this title][/us/usc/t10/s12011] not existed. If an officer whose promotion is delayed under paragraph (1) or (2) has not completed the period of active duty or full-time National Guard duty that the officer is required by law or regulation to perform as a member of a reserve component, the officer may be retained on active duty or on full-time National Guard duty in the grade in which the officer was serving before the officer’s being found qualified for Federal recognition or the officer’s selection for the promotion until the officer completes that required period of duty.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2939][/us/stat/108/2939]; amended [Pub. L. 107–107, div. A, title V, § 505(c)(2)(B)][/us/pl/107/107/s505/c/2/B], Dec. 28, 2001, [115 Stat. 1088][/us/stat/115/1088]; [Pub. L. 109–364, div. A, title V, § 511(b)][/us/pl/109/364/s511/b], Oct. 17, 2006, [120 Stat. 2182][/us/stat/120/2182]; [Pub. L. 111–383, div. A, title X, § 1075(g)(4)][/us/pl/111/383/s1075/g/4], Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2939][/us/stat/108/2939]; amended [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 505(c)(2)(B), Dec. 28, 2001, [115 Stat. 1088][/us/stat/115/1088]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 511(b), Oct. 17, 2006, [120 Stat. 2182][/us/stat/120/2182]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(g)(4), Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 3363(e), 3380(b), 5902(d), 8363(g), and 8380(b) of this title, prior to repeal by [Pub. L. 103–337, § 1629(a)(1)][/us/pl/103/337/s1629/a/1], (b)(2), (c)(1).
+    Provisions similar to those in this section were contained in sections 3363(e), 3380(b), 5902(d), 8363(g), and 8380(b) of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(a)(1), (b)(2), (c)(1).
 
  __Amendments__ 
 
-    2011—Subsec. (b). [Pub. L. 111–383][/us/pl/111/383] made technical amendment to directory language of [Pub. L. 109–364, § 511(b)(3)][/us/pl/109/364/s511/b/3]. See 2006 Amendment note below.
+    2011—Subsec. (b). [Pub. L. 111–383][/us/pl/111/383] made technical amendment to directory language of [Pub. L. 109–364][/us/pl/109/364], § 511(b)(3). See 2006 Amendment note below.
 
-    2006—Subsec. (a)(1). [Pub. L. 109–364, § 511(b)(1)][/us/pl/109/364/s511/b/1], substituted “Secretary of Defense” for “Secretary of the military department concerned” in introductory provisions.
+    2006—Subsec. (a)(1). [Pub. L. 109–364][/us/pl/109/364], § 511(b)(1), substituted “Secretary of Defense” for “Secretary of the military department concerned” in introductory provisions.
 
-    Subsec. (a)(1)(E). [Pub. L. 109–364, § 511(b)(2)(A)][/us/pl/109/364/s511/b/2/A], added subpar. (E).
+    Subsec. (a)(1)(E). [Pub. L. 109–364][/us/pl/109/364], § 511(b)(2)(A), added subpar. (E).
 
-    Subsec. (a)(2). [Pub. L. 109–364, § 511(b)(2)(B)][/us/pl/109/364/s511/b/2/B], struck out “or” after “show cause for retention,” and inserted “or if, after a review of substantiated adverse information about the officer regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion,” after “of the charges,”.
+    Subsec. (a)(2). [Pub. L. 109–364][/us/pl/109/364], § 511(b)(2)(B), struck out “or” after “show cause for retention,” and inserted “or if, after a review of substantiated adverse information about the officer regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion,” after “of the charges,”.
 
-    Subsec. (b). [Pub. L. 109–364, § 511(b)(3)][/us/pl/109/364/s511/b/3], as amended by [Pub. L. 111–383, § 1075(g)(4)][/us/pl/111/383/s1075/g/4], inserted “has not met the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, or” before “is mentally, physically,” and substituted “If it is later determined by a civilian official of the Department of Defense (not below the level of Secretary of a military department) that the officer is qualified for promotion to the higher grade and, after a review of adverse information regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion to the higher grade” for “If the Secretary concerned later determines that the officer is qualified for promotion to the higher grade”.
+    Subsec. (b). [Pub. L. 109–364][/us/pl/109/364], § 511(b)(3), as amended by [Pub. L. 111–383][/us/pl/111/383], § 1075(g)(4), inserted “has not met the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, or” before “is mentally, physically,” and substituted “If it is later determined by a civilian official of the Department of Defense (not below the level of Secretary of a military department) that the officer is qualified for promotion to the higher grade and, after a review of adverse information regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion to the higher grade” for “If the Secretary concerned later determines that the officer is qualified for promotion to the higher grade”.
 
-    [Pub. L. 109–364, § 511(b)(1)][/us/pl/109/364/s511/b/1], substituted “Secretary of Defense” for “Secretary of the military department concerned”.
+    [Pub. L. 109–364][/us/pl/109/364], § 511(b)(1), substituted “Secretary of Defense” for “Secretary of the military department concerned”.
 
-    2001—Subsec. (a)(2). [Pub. L. 107–107, § 505(c)(2)(B)(i)][/us/pl/107/107/s505/c/2/B/i], inserted “(including an approved all-fully-qualified-officers list, if applicable)” after “on the promotion list”.
+    2001—Subsec. (a)(2). [Pub. L. 107–107][/us/pl/107/107], § 505(c)(2)(B)(i), inserted “(including an approved all-fully-qualified-officers list, if applicable)” after “on the promotion list”.
 
-    Subsec. (b). [Pub. L. 107–107, § 505(c)(2)(B)(ii)][/us/pl/107/107/s505/c/2/B/ii], inserted “(including an approved all-fully-qualified-officers list, if applicable)” after “on the promotion list” in second sentence.
+    Subsec. (b). [Pub. L. 107–107][/us/pl/107/107], § 505(c)(2)(B)(ii), inserted “(including an approved all-fully-qualified-officers list, if applicable)” after “on the promotion list” in second sentence.
 
  __Effective Date of 2011 Amendment__ 
 
-    [Pub. L. 111–383, div. A, title X, § 1075(g)][/us/pl/111/383/s1075/g], Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376], provided that amendment by section 1075(g)(4) is effective as of Oct. 17, 2006, and as if included in [Pub. L. 109–364][/us/pl/109/364] as enacted.
+    [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(g), Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376], provided that amendment by section 1075(g)(4) is effective as of Oct. 17, 2006, and as if included in [Pub. L. 109–364][/us/pl/109/364] as enacted.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -91,7 +91,7 @@
 
  __Delays in Promotions__ 
 
-[Pub. L. 103–337, div. A, title XVI, § 1684(a)][/us/pl/103/337/s1684/a], Oct. 5, 1994, [108 Stat. 3024][/us/stat/108/3024], provided that:
+[Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1684(a), Oct. 5, 1994, [108 Stat. 3024][/us/stat/108/3024], provided that:
 
 >     “(1) A delay in a promotion that is in effect on the day before the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of [Pub. L. 103–337][/us/pl/103/337], set out as an Effective Date note under [section 10001 of this title][/us/usc/t10/s10001]\] under the laws and regulations in effect on that date shall continue in effect on and after that date as if the promotion had been delayed under [section 14311 of title 10][/us/usc/t10/s14311], United States Code, as added by this title.
 
@@ -108,32 +108,32 @@
 [/us/usc/t10/s12011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12011
 [/us/usc/t10/s12011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12011
 [/us/usc/t10/s12011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12011
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2939
-[/us/pl/107/107/s505/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fc%2F2%2FB
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1088
-[/us/pl/109/364/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fb
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2182
-[/us/pl/111/383/s1075/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fg%2F4
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4377
-[/us/pl/103/337/s1629/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fa%2F1
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/109/364/s511/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fb%2F3
-[/us/pl/109/364/s511/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fb%2F1
-[/us/pl/109/364/s511/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fb%2F2%2FA
-[/us/pl/109/364/s511/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fb%2F2%2FB
-[/us/pl/109/364/s511/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fb%2F3
-[/us/pl/111/383/s1075/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fg%2F4
-[/us/pl/109/364/s511/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fb%2F1
-[/us/pl/107/107/s505/c/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fc%2F2%2FB%2Fi
-[/us/pl/107/107/s505/c/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fc%2F2%2FB%2Fii
-[/us/pl/111/383/s1075/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fg
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4376
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/364/s511/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fe
 [/us/usc/t10/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs624
-[/us/pl/103/337/s1684/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1684%2Fa
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3024
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001

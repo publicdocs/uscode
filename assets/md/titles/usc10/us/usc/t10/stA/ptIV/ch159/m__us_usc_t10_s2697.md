@@ -31,7 +31,7 @@
 
     The Secretary of a military department shall determine whether consideration for a landing fee has been received in a lease, license, or other real estate agreement for an airfield and shall use such a determination to offset appropriate amounts imposed under subsection (a) for that airfield.
 
-(Added [Pub. L. 111–383, div. A, title III, § 341(a)][/us/pl/111/383/s341/a], Jan. 7, 2011, [124 Stat. 4189][/us/stat/124/4189].)
+(Added [Pub. L. 111–383, div. A, title III][/us/pl/111/383/dA/tIII], § 341(a), Jan. 7, 2011, [124 Stat. 4189][/us/stat/124/4189].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/111/383/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs341%2Fa
+[/us/pl/111/383/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIII
 [/us/stat/124/4189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4189
 
 

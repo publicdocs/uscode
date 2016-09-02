@@ -21,7 +21,7 @@
 
     (c) Appointments as Reserves in permanent warrant officer grades are for an indefinite term and are held during the pleasure of the Secretary concerned.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 26][/us/stat/70A/26], § 597; [Pub. L. 99–145, title V, § 531(b)][/us/pl/99/145/s531/b], Nov. 8, 1985, [99 Stat. 633][/us/stat/99/633]; [Pub. L. 102–190, div. A, title XI, § 1131(2)][/us/pl/102/190/s1131/2], Dec. 5, 1991, [105 Stat. 1505][/us/stat/105/1505]; renumbered § 12241, [Pub. L. 103–337, div. A, title XVI, § 1662(d)(2)][/us/pl/103/337/s1662/d/2], Oct. 5, 1994, [108 Stat. 2991][/us/stat/108/2991]; [Pub. L. 111–383, div. A, title V, § 502(b)][/us/pl/111/383/s502/b], Jan. 7, 2011, [124 Stat. 4207][/us/stat/124/4207].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 26][/us/stat/70A/26], § 597; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 531(b), Nov. 8, 1985, [99 Stat. 633][/us/stat/99/633]; [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1131(2), Dec. 5, 1991, [105 Stat. 1505][/us/stat/105/1505]; renumbered § 12241, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(d)(2), Oct. 5, 1994, [108 Stat. 2991][/us/stat/108/2991]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 502(b), Jan. 7, 2011, [124 Stat. 4207][/us/stat/124/4207].)
 
 <table>
 
@@ -165,13 +165,13 @@ July 9, 1952, ch. 608, §§ 220, 223, 224 (less 3d and 4th sentences, and less
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–145, title V, § 531(d)][/us/pl/99/145/s531/d], Nov. 8, 1985, [99 Stat. 633][/us/stat/99/633], provided that: 
+[Pub. L. 99–145, title V][/us/pl/99/145/tV], § 531(d), Nov. 8, 1985, [99 Stat. 633][/us/stat/99/633], provided that: 
 
 > “This section \[amending this section and [section 555 of this title][/us/usc/t10/s555] and enacting provisions set out below\] takes effect six months after the date of the enactment of this Act \[Nov. 8, 1985\].”
 
  __Transition Provisions for 1985 Amendment__ 
 
-[Pub. L. 99–145, title V, § 531(c)][/us/pl/99/145/s531/c], Nov. 8, 1985, [99 Stat. 633][/us/stat/99/633], provided that:
+[Pub. L. 99–145, title V][/us/pl/99/145/tV], § 531(c), Nov. 8, 1985, [99 Stat. 633][/us/stat/99/633], provided that:
 
 >     “(1) The amendments made by subsections (a) and (b) \[amending this section and [section 555 of this title][/us/usc/t10/s555]\] apply to any appointment of a warrant officer or chief warrant officer on or after the effective date of this section \[see Effective Date of 1985 Amendment note above\].
 
@@ -179,7 +179,7 @@ July 9, 1952, ch. 608, §§ 220, 223, 224 (less 3d and 4th sentences, and less
 
  __Presidential Functions__ 
 
-[Pub. L. 111–383, div. A, title V, § 502(c)][/us/pl/111/383/s502/c], Jan. 7, 2011, [124 Stat. 4207][/us/stat/124/4207], provided that: 
+[Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 502(c), Jan. 7, 2011, [124 Stat. 4207][/us/stat/124/4207], provided that: 
 
 > “Except as otherwise provided by the President by Executive order, the provisions of Executive Order 13384 ([10 U.S.C. 531][/us/usc/t10/s531] note) relating to the functions of the President under the second sentence of [section 571(b) of title 10][/us/usc/t10/s571/b], United States Code, shall apply in the same manner to the functions of the President under [section 12241(b) of title 10][/us/usc/t10/s12241/b], United States Code.”
 
@@ -194,13 +194,13 @@ July 9, 1952, ch. 608, §§ 220, 223, 224 (less 3d and 4th sentences, and less
 [/us/usc/t10/s571/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs571%2Fb
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F26
-[/us/pl/99/145/s531/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs531%2Fb
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F633
-[/us/pl/102/190/s1131/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1131%2F2
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1505
-[/us/pl/103/337/s1662/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fd%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2991
-[/us/pl/111/383/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs502%2Fb
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4207
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
@@ -210,13 +210,13 @@ July 9, 1952, ch. 608, §§ 220, 223, 224 (less 3d and 4th sentences, and less
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/102/190/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1132
 [/us/usc/t10/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs521
-[/us/pl/99/145/s531/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs531%2Fd
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F633
 [/us/usc/t10/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs555
-[/us/pl/99/145/s531/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs531%2Fc
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F633
 [/us/usc/t10/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs555
-[/us/pl/111/383/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs502%2Fc
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4207
 [/us/usc/t10/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs531
 [/us/usc/t10/s571/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs571%2Fb

@@ -33,7 +33,7 @@
 
     (d) Subsections (a), (b), and (c) do not apply to a court-martial composed of a military judge only. The military judge of such a court-martial shall determine all questions of law and fact arising during the proceedings and, if the accused is convicted, adjudge an appropriate sentence. The military judge of such a court-martial shall make a general finding and shall in addition on request find the facts specially. If an opinion or memorandum of decision is filed, it will be sufficient if the findings of fact appear therein.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 54][/us/stat/70A/54]; [Pub. L. 90–632, § 2(21)][/us/pl/90/632/s2/21], Oct. 24, 1968, [82 Stat. 1340][/us/stat/82/1340].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 54][/us/stat/70A/54]; [Pub. L. 90–632][/us/pl/90/632], § 2(21), Oct. 24, 1968, [82 Stat. 1340][/us/stat/82/1340].)
 
 <table>
 
@@ -105,13 +105,13 @@ May 5, 1950, ch. 169, § 1 (Art. 51), 64 Stat. 124.  </td>
 
  __Amendments__ 
 
-    1968—Subsec. (a). [Pub. L. 90–632, § 2(21)(A)][/us/pl/90/632/s2/21/A], limited the balloting on the question of challenges to courts-martial without military judges.
+    1968—Subsec. (a). [Pub. L. 90–632][/us/pl/90/632], § 2(21)(A), limited the balloting on the question of challenges to courts-martial without military judges.
 
-    Subsec. (b). [Pub. L. 90–632, § 2(21)(B)][/us/pl/90/632/s2/21/B], substituted “military judge” for “law officer” and inserted reference to the military judge’s ruling upon challenges for cause when a military judge is part of a court-martial and reference to questions of law.
+    Subsec. (b). [Pub. L. 90–632][/us/pl/90/632], § 2(21)(B), substituted “military judge” for “law officer” and inserted reference to the military judge’s ruling upon challenges for cause when a military judge is part of a court-martial and reference to questions of law.
 
-    Subsec. (c). [Pub. L. 90–632, § 2(21)(C)][/us/pl/90/632/s2/21/C], substituted “military judge” for “law officer” and made minor changes in phraseology eliminating the division between general and special court-martials.
+    Subsec. (c). [Pub. L. 90–632][/us/pl/90/632], § 2(21)(C), substituted “military judge” for “law officer” and made minor changes in phraseology eliminating the division between general and special court-martials.
 
-    Subsec. (d). [Pub. L. 90–632, § 2(21)(D)][/us/pl/90/632/s2/21/D], added subsec. (d).
+    Subsec. (d). [Pub. L. 90–632][/us/pl/90/632], § 2(21)(D), added subsec. (d).
 
  __Effective Date of 1968 Amendment__ 
 
@@ -127,12 +127,12 @@ May 5, 1950, ch. 169, § 1 (Art. 51), 64 Stat. 124.  </td>
 [/us/usc/t10/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs852
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F54
-[/us/pl/90/632/s2/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F21
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1340
-[/us/pl/90/632/s2/21/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F21%2FA
-[/us/pl/90/632/s2/21/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F21%2FB
-[/us/pl/90/632/s2/21/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F21%2FC
-[/us/pl/90/632/s2/21/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F21%2FD
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/pl/90/632/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs4
 [/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801

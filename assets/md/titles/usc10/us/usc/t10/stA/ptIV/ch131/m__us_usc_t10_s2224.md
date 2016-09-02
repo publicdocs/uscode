@@ -43,7 +43,7 @@
 
     In carrying out the program, the Secretary shall coordinate, as appropriate, with the head of any relevant Federal agency and with representatives of those national critical information infrastructure systems that are essential to the operations of the Department and the armed forces on information assurance measures necessary to the protection of these systems.
 
-    \[(e) Repealed. [Pub. L. 108–136, div. A, title X, § 1031(a)(12)][/us/pl/108/136/s1031/a/12], Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597].\]
+    \[(e) Repealed. [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(12), Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597].\]
 
     (f)  __Information Assurance Test Bed__  __.—__ 
 
@@ -53,7 +53,7 @@
 
         (2) organization and planning means for the conduct by the Department of the integrated or joint exercises and experiments with elements of the national information systems infrastructure and other non-Department of Defense organizations that are responsible for the oversight and management of critical information systems and infrastructures on which the Department, the armed forces, and supporting activities depend for the conduct of daily operations and operations during crisis.
 
-(Added [Pub. L. 106–65, div. A, title X, § 1043(a)][/us/pl/106/65/s1043/a], Oct. 5, 1999, [113 Stat. 760][/us/stat/113/760]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1063\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–274; [Pub. L. 107–296, title X, § 1001(c)(1)(B)][/us/pl/107/296/s1001/c/1/B], Nov. 25, 2002, [116 Stat. 2267][/us/stat/116/2267]; [Pub. L. 107–347, title III, § 301(c)(1)(B)][/us/pl/107/347/s301/c/1/B], Dec. 17, 2002, [116 Stat. 2955][/us/stat/116/2955]; [Pub. L. 108–136, div. A, title X, § 1031(a)(12)][/us/pl/108/136/s1031/a/12], Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597]; [Pub. L. 108–375, div. A, title X, § 1084(d)(17)][/us/pl/108/375/s1084/d/17], Oct. 28, 2004, [118 Stat. 2062][/us/stat/118/2062].)
+(Added [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1043(a), Oct. 5, 1999, [113 Stat. 760][/us/stat/113/760]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1063\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–274; [Pub. L. 107–296, title X][/us/pl/107/296/tX], § 1001(c)(1)(B), Nov. 25, 2002, [116 Stat. 2267][/us/stat/116/2267]; [Pub. L. 107–347, title III][/us/pl/107/347/tIII], § 301(c)(1)(B), Dec. 17, 2002, [116 Stat. 2955][/us/stat/116/2955]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(12), Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597]; [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(d)(17), Oct. 28, 2004, [118 Stat. 2062][/us/stat/118/2062].)
 
  __Amendments__ 
 
@@ -61,19 +61,19 @@
 
     2003—Subsec. (e). [Pub. L. 108–136][/us/pl/108/136] struck out subsec. (e) which directed the Secretary of Defense to annually submit to Congress a report on the Defense Information Assurance Program.
 
-    2002—Subsec. (b). [Pub. L. 107–296, § 1001(c)(1)(B)(i)][/us/pl/107/296/s1001/c/1/B/i], and [Pub. L. 107–347, § 301(c)(1)(B)(i)][/us/pl/107/347/s301/c/1/B/i], amended subsec. (b) identically, substituting “Objectives of the Program” for “Objectives and Minimum Requirements” in heading and striking out par. (1) designation before “The objectives”.
+    2002—Subsec. (b). [Pub. L. 107–296][/us/pl/107/296], § 1001(c)(1)(B)(i), and [Pub. L. 107–347][/us/pl/107/347], § 301(c)(1)(B)(i), amended subsec. (b) identically, substituting “Objectives of the Program” for “Objectives and Minimum Requirements” in heading and striking out par. (1) designation before “The objectives”.
 
-    Subsec. (b)(2). [Pub. L. 107–347, § 301(c)(1)(B)(ii)][/us/pl/107/347/s301/c/1/B/ii], struck out par. (2) which read as follows: “The program shall at a minimum meet the requirements of sections 3534 and 3535 of title 44.”
+    Subsec. (b)(2). [Pub. L. 107–347][/us/pl/107/347], § 301(c)(1)(B)(ii), struck out par. (2) which read as follows: “The program shall at a minimum meet the requirements of sections 3534 and 3535 of title 44.”
 
-    [Pub. L. 107–296, § 1001(c)(1)(B)(ii)][/us/pl/107/296/s1001/c/1/B/ii], which directed the striking out of “(2) the program shall at a minimum meet the requirements of section 3534 and 3535 of title 44, United States Code.” could not be executed. See above par.
+    [Pub. L. 107–296][/us/pl/107/296], § 1001(c)(1)(B)(ii), which directed the striking out of “(2) the program shall at a minimum meet the requirements of section 3534 and 3535 of title 44, United States Code.” could not be executed. See above par.
 
-    Subsec. (c). [Pub. L. 107–347, § 301(c)(1)(B)(iii)][/us/pl/107/347/s301/c/1/B/iii], inserted “, including through compliance with subchapter III of chapter 35 of title 44” after “infrastructure” in introductory provisions.
+    Subsec. (c). [Pub. L. 107–347][/us/pl/107/347], § 301(c)(1)(B)(iii), inserted “, including through compliance with subchapter III of chapter 35 of title 44” after “infrastructure” in introductory provisions.
 
-    [Pub. L. 107–296, § 1001(c)(1)(B)(iii)][/us/pl/107/296/s1001/c/1/B/iii], inserted “, including through compliance with subtitle II of chapter 35 of title 44” after “infrastructure” in introductory provisions.
+    [Pub. L. 107–296][/us/pl/107/296], § 1001(c)(1)(B)(iii), inserted “, including through compliance with subtitle II of chapter 35 of title 44” after “infrastructure” in introductory provisions.
 
-    2000—Subsec. (b). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1063(a)\], substituted “Objectives and Minimum Requirements” for “Objectives of the Program” in heading, designated existing provisions as par. (1), and added par. (2).
+    2000—Subsec. (b). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1063(a)\], substituted “Objectives and Minimum Requirements” for “Objectives of the Program” in heading, designated existing provisions as par. (1), and added par. (2).
 
-    Subsec. (e)(7). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1063(b)\], added par. (7).
+    Subsec. (e)(7). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1063(b)\], added par. (7).
 
  __Effective Date of 2002 Amendment__ 
 
@@ -85,7 +85,7 @@
 
  __Acquisition Authority of the Commander of United States Cyber Command__ 
 
-[Pub. L. 114–92, div. A, title VIII, § 807][/us/pl/114/92/s807], Nov. 25, 2015, [129 Stat. 886][/us/stat/129/886], provided that:
+[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 807, Nov. 25, 2015, [129 Stat. 886][/us/stat/129/886], provided that:
 
 >     “(a) __Authority.—__ 
 
@@ -201,7 +201,7 @@
 
  __Notification of Foreign Threats to Information Technology Systems Impacting National Security__ 
 
-[Pub. L. 113–291, div. A, title X, § 1078][/us/pl/113/291/s1078], Dec. 19, 2014, [128 Stat. 3520][/us/stat/128/3520], provided that:
+[Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1078, Dec. 19, 2014, [128 Stat. 3520][/us/stat/128/3520], provided that:
 
 >     “(a) __Notification Required.—__ 
 
@@ -227,7 +227,7 @@
 
  __Authorities, Capabilities, and Oversight of the United States Cyber Command__ 
 
-[Pub. L. 113–66, div. A, title IX, § 932][/us/pl/113/66/s932], Dec. 26, 2013, [127 Stat. 829][/us/stat/127/829], provided that:
+[Pub. L. 113–66, div. A, title IX][/us/pl/113/66/dA/tIX], § 932, Dec. 26, 2013, [127 Stat. 829][/us/stat/127/829], provided that:
 
 >     “(a)  __Provision of Certain Operational Capabilities__  __.—__ 
 
@@ -275,7 +275,7 @@
 
  __Joint Federated Centers for Trusted Defense Systems for the Department of Defense__ 
 
-[Pub. L. 113–66, div. A, title IX, § 937][/us/pl/113/66/s937], Dec. 26, 2013, [127 Stat. 834][/us/stat/127/834], as amended by [Pub. L. 114–92, div. A, title II, § 231][/us/pl/114/92/s231], Nov. 25, 2015, [129 Stat. 778][/us/stat/129/778], provided that:
+[Pub. L. 113–66, div. A, title IX][/us/pl/113/66/dA/tIX], § 937, Dec. 26, 2013, [127 Stat. 834][/us/stat/127/834], as amended by [Pub. L. 114–92, div. A, title II][/us/pl/114/92/dA/tII], § 231, Nov. 25, 2015, [129 Stat. 778][/us/stat/129/778], provided that:
 
 >     “(a) __Federation Required.—__ 
 
@@ -317,7 +317,7 @@
 
  __Improvements in Assurance of Computer Software Procured by the Department of Defense__ 
 
-[Pub. L. 112–239, div. A, title IX, § 933][/us/pl/112/239/s933], Jan. 2, 2013, [126 Stat. 1884][/us/stat/126/1884], provided that:
+[Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 933, Jan. 2, 2013, [126 Stat. 1884][/us/stat/126/1884], provided that:
 
 >     “(a)  __Baseline Software Assurance Policy__  __.—__ 
 
@@ -375,11 +375,11 @@
 
  __Reports to Department of Defense on Penetrations of Networks and Information Systems of Certain Contractors__ 
 
-    [Pub. L. 112–239, div. A, title IX, § 941][/us/pl/112/239/s941], Jan. 2, 2013, [126 Stat. 1889][/us/stat/126/1889], which authorized the Secretary of Defense to establish criteria and reporting procedures applicable to penetration of cleared defense contractors’ networks or information systems, was transferred to chapter 19 of this title and redesignated as section 393 and amended by [Pub. L. 114–92, div. A, title XVI, § 1641(a)][/us/pl/114/92/s1641/a], Nov. 25, 2015, [129 Stat. 1114][/us/stat/129/1114].
+    [Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 941, Jan. 2, 2013, [126 Stat. 1889][/us/stat/126/1889], which authorized the Secretary of Defense to establish criteria and reporting procedures applicable to penetration of cleared defense contractors’ networks or information systems, was transferred to chapter 19 of this title and redesignated as section 393 and amended by [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1641(a), Nov. 25, 2015, [129 Stat. 1114][/us/stat/129/1114].
 
  __Insider Threat Detection__ 
 
-[Pub. L. 112–81, div. A, title IX, § 922][/us/pl/112/81/s922], Dec. 31, 2011, [125 Stat. 1537][/us/stat/125/1537], as amended by [Pub. L. 114–92, div. A, title X, § 1073(e)][/us/pl/114/92/s1073/e], Nov. 25, 2015, [129 Stat. 996][/us/stat/129/996], provided that:
+[Pub. L. 112–81, div. A, title IX][/us/pl/112/81/dA/tIX], § 922, Dec. 31, 2011, [125 Stat. 1537][/us/stat/125/1537], as amended by [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1073(e), Nov. 25, 2015, [129 Stat. 996][/us/stat/129/996], provided that:
 
 >     “(a)  __Program Required__  __.—__ 
 
@@ -467,7 +467,7 @@
 
  __Strategy To Acquire Capabilities To Detect Previously Unknown Cyber Attacks__ 
 
-[Pub. L. 112–81, div. A, title IX, § 953][/us/pl/112/81/s953], Dec. 31, 2011, [125 Stat. 1550][/us/stat/125/1550], provided that:
+[Pub. L. 112–81, div. A, title IX][/us/pl/112/81/dA/tIX], § 953, Dec. 31, 2011, [125 Stat. 1550][/us/stat/125/1550], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -529,7 +529,7 @@
 
  __Strategy on Computer Software Assurance__ 
 
-[Pub. L. 111–383, div. A, title IX, § 932][/us/pl/111/383/s932], Jan. 7, 2011, [124 Stat. 4335][/us/stat/124/4335], provided that:
+[Pub. L. 111–383, div. A, title IX][/us/pl/111/383/dA/tIX], § 932, Jan. 7, 2011, [124 Stat. 4335][/us/stat/124/4335], provided that:
 
 >     “(a)  __Strategy Required__  __.—__ 
 
@@ -609,7 +609,7 @@
 
  __Institute for Defense Computer Security and Information Protection__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 921\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–233, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 921\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–233, provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -642,30 +642,30 @@
 ----------
 ----------
 
-[/us/pl/108/136/s1031/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F12
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1597
-[/us/pl/106/65/s1043/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1043%2Fa
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F760
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/296/s1001/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1001%2Fc%2F1%2FB
+[/us/pl/107/296/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtX
 [/us/stat/116/2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2267
-[/us/pl/107/347/s301/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs301%2Fc%2F1%2FB
+[/us/pl/107/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtIII
 [/us/stat/116/2955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2955
-[/us/pl/108/136/s1031/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F12
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1597
-[/us/pl/108/375/s1084/d/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F17
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2062
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/107/296/s1001/c/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1001%2Fc%2F1%2FB%2Fi
-[/us/pl/107/347/s301/c/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs301%2Fc%2F1%2FB%2Fi
-[/us/pl/107/347/s301/c/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs301%2Fc%2F1%2FB%2Fii
-[/us/pl/107/296/s1001/c/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1001%2Fc%2F1%2FB%2Fii
-[/us/pl/107/347/s301/c/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs301%2Fc%2F1%2FB%2Fiii
-[/us/pl/107/296/s1001/c/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1001%2Fc%2F1%2FB%2Fiii
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
@@ -673,44 +673,44 @@
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t44/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3531
-[/us/pl/114/92/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs807
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F886
 [/us/usc/t10/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs166
 [/us/usc/t50/s3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3091
-[/us/pl/113/291/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1078
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3520
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/stat/124/4260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4260
 [/us/usc/t10/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304
 [/us/usc/t50/s1801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801%2Fb
-[/us/pl/113/66/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs932
+[/us/pl/113/66/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIX
 [/us/stat/127/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F829
-[/us/pl/113/66/s937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs937
+[/us/pl/113/66/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIX
 [/us/stat/127/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F834
-[/us/pl/114/92/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs231
+[/us/pl/114/92/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtII
 [/us/stat/129/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F778
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/112/239/s933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs933
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
 [/us/stat/126/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1884
 [/us/usc/t10/s2302/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F5
 [/us/usc/t44/s3542/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542%2Fb%2F2
 [/us/usc/t44/s3552/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552%2Fb%2F6
-[/us/pl/112/239/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs941
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
 [/us/stat/126/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1889
-[/us/pl/114/92/s1641/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1641%2Fa
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1114
-[/us/pl/112/81/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs922
+[/us/pl/112/81/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIX
 [/us/stat/125/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1537
-[/us/pl/114/92/s1073/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1073%2Fe
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F996
-[/us/pl/112/81/s953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs953
+[/us/pl/112/81/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIX
 [/us/stat/125/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1550
-[/us/pl/111/383/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs932
+[/us/pl/111/383/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIX
 [/us/stat/124/4335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4335
 [/us/usc/t10/s2302/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F5
 [/us/usc/t44/s3542/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542%2Fb%2F2
 [/us/usc/t44/s3552/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552%2Fb%2F6
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 

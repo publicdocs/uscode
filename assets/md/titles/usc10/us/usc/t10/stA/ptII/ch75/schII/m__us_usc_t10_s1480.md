@@ -39,7 +39,7 @@
 
     (d) Payments under sections 1475–1477 of this title shall be made from appropriations available for the payment of members of the armed force concerned.
 
-(Added [Pub. L. 85–861, § 1(32)(A)][/us/pl/85/861/s1/32/A], Sept. 2, 1958, [72 Stat. 1455][/us/stat/72/1455]; amended [Pub. L. 101–189, div. A, title XVI, § 1621(a)(2)][/us/pl/101/189/s1621/a/2], (5), Nov. 29, 1989, [103 Stat. 1603][/us/stat/103/1603].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(32)(A), Sept. 2, 1958, [72 Stat. 1455][/us/stat/72/1455]; amended [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(2), (5), Nov. 29, 1989, [103 Stat. 1603][/us/stat/103/1603].)
 
 <table>
 
@@ -103,9 +103,9 @@ Aug. 1, 1956, ch. 837, §§ 102(6)(B) (less 1st sentence, as applicable to dea
 
  __Amendments__ 
 
-    1989—Subsec. (b). [Pub. L. 101–189, § 1621(a)(2)][/us/pl/101/189/s1621/a/2], substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+    1989—Subsec. (b). [Pub. L. 101–189][/us/pl/101/189], § 1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-    Subsec. (c). [Pub. L. 101–189, § 1621(a)(2)][/us/pl/101/189/s1621/a/2], (5), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” after “[section 1476 of this title][/us/usc/t10/s1476], the” and “the Secretary concerned or the Secretary of Veterans Affairs” for “the Secretary or the Administrator”.
+    Subsec. (c). [Pub. L. 101–189][/us/pl/101/189], § 1621(a)(2), (5), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” after “[section 1476 of this title][/us/usc/t10/s1476], the” and “the Secretary concerned or the Secretary of Veterans Affairs” for “the Secretary or the Administrator”.
 
 ----------
 
@@ -116,12 +116,12 @@ Aug. 1, 1956, ch. 837, §§ 102(6)(B) (less 1st sentence, as applicable to dea
 
 [/us/usc/t10/s1475/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1475%2Fa%2F3
 [/us/usc/t10/s1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1476
-[/us/pl/85/861/s1/32/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F32%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1455
-[/us/pl/101/189/s1621/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F2
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1603
-[/us/pl/101/189/s1621/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F2
-[/us/pl/101/189/s1621/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F2
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t10/s1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1476
 
 

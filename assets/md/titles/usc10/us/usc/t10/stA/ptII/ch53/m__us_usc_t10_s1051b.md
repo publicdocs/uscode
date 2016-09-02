@@ -35,7 +35,7 @@
 
     Expenditures for the purchase or production of mementos for award under this section may not exceed the minimal value in effect under [section 7342(a)(5) of title 5][/us/usc/t5/s7342/a/5].
 
-(Added [Pub. L. 108–136, div. A, title XII, § 1222(a)][/us/pl/108/136/s1222/a], Nov. 24, 2003, [117 Stat. 1652][/us/stat/117/1652].)
+(Added [Pub. L. 108–136, div. A, title XII][/us/pl/108/136/dA/tXII], § 1222(a), Nov. 24, 2003, [117 Stat. 1652][/us/stat/117/1652].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t5/s7342/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7342%2Fa%2F5
-[/us/pl/108/136/s1222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1222%2Fa
+[/us/pl/108/136/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXII
 [/us/stat/117/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1652
 
 

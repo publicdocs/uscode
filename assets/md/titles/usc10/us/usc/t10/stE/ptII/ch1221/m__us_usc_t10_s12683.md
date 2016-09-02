@@ -35,27 +35,27 @@
 
         (4) A separation of an officer who is in an inactive status in the Standby Reserve and who is not qualified for transfer to the Retired Reserve or is qualified for transfer to the Retired Reserve and does not apply for such a transfer.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1662(i)(1)][/us/pl/103/337/s1662/i/1], Oct. 5, 1994, [108 Stat. 2997][/us/stat/108/2997]; amended [Pub. L. 105–85, div. A, title V, § 516][/us/pl/105/85/s516], Nov. 18, 1997, [111 Stat. 1733][/us/stat/111/1733]; [Pub. L. 105–261, div. A, title X, § 1069(a)(8)][/us/pl/105/261/s1069/a/8], Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(i)(1), Oct. 5, 1994, [108 Stat. 2997][/us/stat/108/2997]; amended [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 516, Nov. 18, 1997, [111 Stat. 1733][/us/stat/111/1733]; [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1069(a)(8), Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 1163(a) of this title][/us/usc/t10/s1163/a], prior to repeal by [Pub. L. 103–337, § 1662(i)(2)][/us/pl/103/337/s1662/i/2].
+    Provisions similar to those in this section were contained in [section 1163(a) of this title][/us/usc/t10/s1163/a], prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1662(i)(2).
 
  __Amendments__ 
 
     1998—Subsec. (b)(2). [Pub. L. 105–261][/us/pl/105/261] substituted a period for “; or” at end.
 
-    1997—Subsec. (b). [Pub. L. 105–85, § 516(a)(1)][/us/pl/105/85/s516/a/1], substi­tuted “apply to any of the following:” for “apply—” in introductory provisions.
+    1997—Subsec. (b). [Pub. L. 105–85][/us/pl/105/85], § 516(a)(1), substi­tuted “apply to any of the following:” for “apply—” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 105–85, § 516(b)(1)][/us/pl/105/85/s516/b/1], (2), substituted “A” for “to a” and “title.” for “title;”.
+    Subsec. (b)(1). [Pub. L. 105–85][/us/pl/105/85], § 516(b)(1), (2), substituted “A” for “to a” and “title.” for “title;”.
 
-    Subsec. (b)(2). [Pub. L. 105–85, § 516(b)(3)][/us/pl/105/85/s516/b/3], which directed substitution of a period for “; and” at end of par. (2), could not be executed because “; and” did not appear in par. (2).
+    Subsec. (b)(2). [Pub. L. 105–85][/us/pl/105/85], § 516(b)(3), which directed substitution of a period for “; and” at end of par. (2), could not be executed because “; and” did not appear in par. (2).
 
-    [Pub. L. 105–85, § 516(b)(1)][/us/pl/105/85/s516/b/1], substituted “A” for “to a”.
+    [Pub. L. 105–85][/us/pl/105/85], § 516(b)(1), substituted “A” for “to a”.
 
-    Subsec. (b)(3). [Pub. L. 105–85, § 516(b)(1)][/us/pl/105/85/s516/b/1], substituted “A” for “to a”.
+    Subsec. (b)(3). [Pub. L. 105–85][/us/pl/105/85], § 516(b)(1), substituted “A” for “to a”.
 
-    Subsec. (b)(4). [Pub. L. 105–85, § 516(a)(2)][/us/pl/105/85/s516/a/2], added par. (4).
+    Subsec. (b)(4). [Pub. L. 105–85][/us/pl/105/85], § 516(a)(2), added par. (4).
 
 ----------
 
@@ -65,20 +65,20 @@
 ----------
 
 [/us/usc/t10/s1161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1161%2Fa
-[/us/pl/103/337/s1662/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fi%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2997
-[/us/pl/105/85/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs516
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1733
-[/us/pl/105/261/s1069/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1069%2Fa%2F8
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2136
 [/us/usc/t10/s1163/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1163%2Fa
-[/us/pl/103/337/s1662/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fi%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
-[/us/pl/105/85/s516/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs516%2Fa%2F1
-[/us/pl/105/85/s516/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs516%2Fb%2F1
-[/us/pl/105/85/s516/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs516%2Fb%2F3
-[/us/pl/105/85/s516/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs516%2Fb%2F1
-[/us/pl/105/85/s516/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs516%2Fb%2F1
-[/us/pl/105/85/s516/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs516%2Fa%2F2
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 
 

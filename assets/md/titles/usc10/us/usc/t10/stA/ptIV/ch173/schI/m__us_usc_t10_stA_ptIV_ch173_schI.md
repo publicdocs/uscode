@@ -99,9 +99,9 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–383, div. B, title XXVIII, § 2832(c)(2)][/us/pl/111/383/s2832/c/2], Jan. 7, 2011, [124 Stat. 4470][/us/stat/124/4470], added items 2911 and 2915 and struck out former items 2911 “Energy performance goals and plan for Department of Defense” and 2915 “New construction: use of renewable forms of energy and energy efficient products”.
+    2011—[Pub. L. 111–383, div. B, title XXVIII][/us/pl/111/383/dB/tXXVIII], § 2832(c)(2), Jan. 7, 2011, [124 Stat. 4470][/us/stat/124/4470], added items 2911 and 2915 and struck out former items 2911 “Energy performance goals and plan for Department of Defense” and 2915 “New construction: use of renewable forms of energy and energy efficient products”.
 
-    2009—[Pub. L. 111–84, div. B, title XXVIII, § 2843(b)][/us/pl/111/84/s2843/b], Oct. 28, 2009, [123 Stat. 2682][/us/stat/123/2682], added item 2919.
+    2009—[Pub. L. 111–84, div. B, title XXVIII][/us/pl/111/84/dB/tXXVIII], § 2843(b), Oct. 28, 2009, [123 Stat. 2682][/us/stat/123/2682], added item 2919.
 
 ----------
 
@@ -110,9 +110,9 @@
 ----------
 ----------
 
-[/us/pl/111/383/s2832/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2832%2Fc%2F2
+[/us/pl/111/383/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdB%2FtXXVIII
 [/us/stat/124/4470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4470
-[/us/pl/111/84/s2843/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2843%2Fb
+[/us/pl/111/84/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdB%2FtXXVIII
 [/us/stat/123/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2682
 
 

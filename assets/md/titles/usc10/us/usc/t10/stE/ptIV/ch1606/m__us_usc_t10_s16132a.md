@@ -147,13 +147,13 @@
 
         (4) the manner in which the provisions referred to in subsections (h)(4) and (5) shall be administered with respect to a dependent to whom entitlement is transferred under this section.
 
-(Added [Pub. L. 110–252, title V, § 5006(b)][/us/pl/110/252/s5006/b], June 30, 2008, [122 Stat. 2381][/us/stat/122/2381]; amended [Pub. L. 111–383, div. A, title X, § 1075(b)(55)][/us/pl/111/383/s1075/b/55], Jan. 7, 2011, [124 Stat. 4372][/us/stat/124/4372].)
+(Added [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5006(b), June 30, 2008, [122 Stat. 2381][/us/stat/122/2381]; amended [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(55), Jan. 7, 2011, [124 Stat. 4372][/us/stat/124/4372].)
 
  __Amendments__ 
 
-    2011—Subsec. (b)(1). [Pub. L. 111–383, § 1075(b)(55)(A)][/us/pl/111/383/s1075/b/55/A], substituted “agreement to serve” for “agreement to service”.
+    2011—Subsec. (b)(1). [Pub. L. 111–383][/us/pl/111/383], § 1075(b)(55)(A), substituted “agreement to serve” for “agreement to service”.
 
-    Subsec. (i)(2). [Pub. L. 111–383, § 1075(b)(55)(B)][/us/pl/111/383/s1075/b/55/B], struck out “whose” after “member’s”.
+    Subsec. (i)(2). [Pub. L. 111–383][/us/pl/111/383], § 1075(b)(55)(B), struck out “whose” after “member’s”.
 
 ----------
 
@@ -163,11 +163,11 @@
 ----------
 
 [/us/usc/t38/s3685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3685
-[/us/pl/110/252/s5006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5006%2Fb
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2381
-[/us/pl/111/383/s1075/b/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F55
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4372
-[/us/pl/111/383/s1075/b/55/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F55%2FA
-[/us/pl/111/383/s1075/b/55/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F55%2FB
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 
 

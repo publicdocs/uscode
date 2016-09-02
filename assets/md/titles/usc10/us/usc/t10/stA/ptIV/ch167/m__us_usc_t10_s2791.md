@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch167/m__us_usc_t10_stA_ptIV_ch167.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch167/m__us_usc_t10_s2792.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2791)
 
-## \[§ 2791. Repealed. [Pub. L. 104–201, div. A, title XI, § 1121(b)][/us/pl/104/201/s1121/b], Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687]\]
+## \[§ 2791. Repealed. [Pub. L. 104–201, div. A, title XI][/us/pl/104/201/dA/tXI], § 1121(b), Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687]\]
 
-    Section, added [Pub. L. 97–295, § 1(50)(C)][/us/pl/97/295/s1/50/C], Oct. 12, 1982, [96 Stat. 1299][/us/stat/96/1299], related to establishment and duties of Defense Mapping Agency.
+    Section, added [Pub. L. 97–295][/us/pl/97/295], § 1(50)(C), Oct. 12, 1982, [96 Stat. 1299][/us/stat/96/1299], related to establishment and duties of Defense Mapping Agency.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/104/201/s1121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1121%2Fb
+[/us/pl/104/201/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXI
 [/us/stat/110/2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2687
-[/us/pl/97/295/s1/50/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F50%2FC
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1299
 [/us/pl/104/201/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1124
 [/us/usc/t10/s193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs193

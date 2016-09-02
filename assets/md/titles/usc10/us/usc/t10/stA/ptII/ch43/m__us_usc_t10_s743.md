@@ -17,7 +17,7 @@
 
     The Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, and the Commandant of the Marine Corps rank among themselves according to dates of appointment to those offices, and rank above all other officers on the active-duty list of the Army, Navy, Air Force, and Marine Corps, except the Chairman and the Vice Chairman of the Joint Chiefs of Staff.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 34][/us/stat/70A/34]; [Pub. L. 96–513, title I, § 501(11)][/us/pl/96/513/s501/11], Dec. 12, 1980, [94 Stat. 2908][/us/stat/94/2908]; [Pub. L. 99–433, title II, § 202(b)][/us/pl/99/433/s202/b], Oct. 1, 1986, [100 Stat. 1010][/us/stat/100/1010]; [Pub. L. 100–180, div. A, title XIII, § 1314(a)(2)][/us/pl/100/180/s1314/a/2], (b)(5)(A), Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 34][/us/stat/70A/34]; [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 501(11), Dec. 12, 1980, [94 Stat. 2908][/us/stat/94/2908]; [Pub. L. 99–433, title II][/us/pl/99/433/tII], § 202(b), Oct. 1, 1986, [100 Stat. 1010][/us/stat/100/1010]; [Pub. L. 100–180, div. A, title XIII][/us/pl/100/180/dA/tXIII], § 1314(a)(2), (b)(5)(A), Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175].)
 
 <table>
 
@@ -67,17 +67,17 @@ July 26, 1947, ch. 343, § 208(b), 61 Stat. 503; Sept. 19, 1951, ch. 407, §�
 
  __Amendments__ 
 
-    1987—[Pub. L. 100–180, § 1314(b)(5)(A)][/us/pl/100/180/s1314/b/5/A], inserted “; Commandant of the Marine Corps” after “Air Force” in section catchline.
+    1987—[Pub. L. 100–180][/us/pl/100/180], § 1314(b)(5)(A), inserted “; Commandant of the Marine Corps” after “Air Force” in section catchline.
 
-    [Pub. L. 100–180, § 1314(a)(2)][/us/pl/100/180/s1314/a/2], made technical correction in directory language of [Pub. L. 99–433][/us/pl/99/433]. See 1986 Amendment note below.
+    [Pub. L. 100–180][/us/pl/100/180], § 1314(a)(2), made technical correction in directory language of [Pub. L. 99–433][/us/pl/99/433]. See 1986 Amendment note below.
 
-    1986—[Pub. L. 99–433][/us/pl/99/433], as amended by [Pub. L. 100–180, § 1314(a)(2)][/us/pl/100/180/s1314/a/2], inserted reference to the Commandant of the Marine Corp and the Vice Chairman of the Joint Chiefs of Staff.
+    1986—[Pub. L. 99–433][/us/pl/99/433], as amended by [Pub. L. 100–180][/us/pl/100/180], § 1314(a)(2), inserted reference to the Commandant of the Marine Corp and the Vice Chairman of the Joint Chiefs of Staff.
 
     1980—[Pub. L. 96–513][/us/pl/96/513] substituted “active-duty list” for “active list”.
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–180, div. A, title XIII, § 1314(e)(1)][/us/pl/100/180/s1314/e/1], Dec. 4, 1987, [101 Stat. 1176][/us/stat/101/1176], provided that: 
+[Pub. L. 100–180, div. A, title XIII][/us/pl/100/180/dA/tXIII], § 1314(e)(1), Dec. 4, 1987, [101 Stat. 1176][/us/stat/101/1176], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section, sections 2431 to 2434 of this title, and provisions set out as notes under sections 111 and 3033 of this title\] shall apply as if included in the enactment of the Goldwater-Nichols Department of Defense Reorganization Act of 1986 ([Public Law 99–433][/us/pl/99/433]).”
 
@@ -94,23 +94,23 @@ July 26, 1947, ch. 343, § 208(b), 61 Stat. 503; Sept. 19, 1951, ch. 407, §�
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F34
-[/us/pl/96/513/s501/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs501%2F11
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2908
-[/us/pl/99/433/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs202%2Fb
+[/us/pl/99/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtII
 [/us/stat/100/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1010
-[/us/pl/100/180/s1314/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fa%2F2
+[/us/pl/100/180/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXIII
 [/us/stat/101/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1175
 [/us/usc/t10/s8034/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8034%2Fd
 [/us/usc/t10/s8034/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8034%2Fb
 [/us/usc/t10/s142/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs142%2Fc
 [/us/usc/t10/s5081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5081
-[/us/pl/100/180/s1314/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fb%2F5%2FA
-[/us/pl/100/180/s1314/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fa%2F2
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
-[/us/pl/100/180/s1314/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fa%2F2
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
-[/us/pl/100/180/s1314/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fe%2F1
+[/us/pl/100/180/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXIII
 [/us/stat/101/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1176
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

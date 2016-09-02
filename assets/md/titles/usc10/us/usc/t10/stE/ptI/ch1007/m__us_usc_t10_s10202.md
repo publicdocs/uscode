@@ -21,11 +21,11 @@
 
     (c) So far as practicable, regulations for all reserve components shall be uniform.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)][/us/pl/103/337/s1661/a/1], Oct. 5, 1994, [108 Stat. 2976][/us/stat/108/2976]; amended [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1661(a)(1), Oct. 5, 1994, [108 Stat. 2976][/us/stat/108/2976]; amended [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 280 of this title][/us/usc/t10/s280], prior to repeal by [Pub. L. 103–337, § 1661(a)(2)(A)][/us/pl/103/337/s1661/a/2/A].
+    Provisions similar to those in this section were contained in [section 280 of this title][/us/usc/t10/s280], prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1661(a)(2)(A).
 
  __Amendments__ 
 
@@ -42,12 +42,12 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1661/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2976
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/usc/t10/s280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs280
-[/us/pl/103/337/s1661/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F2%2FA
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg

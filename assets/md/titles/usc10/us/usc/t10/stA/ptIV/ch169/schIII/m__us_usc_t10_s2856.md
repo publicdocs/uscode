@@ -17,7 +17,7 @@
 
     In the construction, acquisition, and improvement of military unaccompanied housing, the Secretary concerned shall ensure that the floor areas of such housing in a particular locality (as designated by the Secretary concerned for purposes of this section) do not exceed the floor areas of similar housing in the private sector in that locality.
 
-(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 166][/us/stat/96/166]; amended [Pub. L. 101–510, div. A, title XIII, § 1301(19)][/us/pl/101/510/s1301/19], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 109–364, div. B, title XXVIII, § 2807(a)(1)][/us/pl/109/364/s2807/a/1], Oct. 17, 2006, [120 Stat. 2468][/us/stat/120/2468].)
+(Added [Pub. L. 97–214][/us/pl/97/214], § 2(a), July 12, 1982, [96 Stat. 166][/us/stat/96/166]; amended [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1301(19), Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 109–364, div. B, title XXVIII][/us/pl/109/364/dB/tXXVIII], § 2807(a)(1), Oct. 17, 2006, [120 Stat. 2468][/us/stat/120/2468].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/97/214/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs2%2Fa
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F166
-[/us/pl/101/510/s1301/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1301%2F19
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1668
-[/us/pl/109/364/s2807/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2807%2Fa%2F1
+[/us/pl/109/364/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdB%2FtXXVIII
 [/us/stat/120/2468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2468
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510

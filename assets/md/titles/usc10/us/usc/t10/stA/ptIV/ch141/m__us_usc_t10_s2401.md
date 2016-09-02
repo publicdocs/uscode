@@ -167,7 +167,7 @@
 
         (2) a period of 60 days has expired following the date on which notice was received by such committees.
 
-(Added [Pub. L. 98–94, title XII, § 1202(a)(1)][/us/pl/98/94/s1202/a/1], Sept. 24, 1983, [97 Stat. 679][/us/stat/97/679]; amended [Pub. L. 98–525, title XII, § 1232(a)][/us/pl/98/525/s1232/a], Oct. 19, 1984, [98 Stat. 2600][/us/stat/98/2600]; [Pub. L. 100–26, § 7(h)(1)][/us/pl/100/26/s7/h/1], Apr. 21, 1987, [101 Stat. 282][/us/stat/101/282]; [Pub. L. 103–35, title II, § 201(c)(6)][/us/pl/103/35/s201/c/6], May 31, 1993, [107 Stat. 98][/us/stat/107/98]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106], §§ 1502(a)(20), 1503(a)(21), Feb. 10, 1996, [110 Stat. 504][/us/stat/110/504], 512; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(13)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–291; [Pub. L. 109–163, div. A, title VIII, § 815(a)][/us/pl/109/163/s815/a]–(d)(1), Jan. 6, 2006, [119 Stat. 3381][/us/stat/119/3381], 3382; [Pub. L. 110–181, div. A, title VIII, § 824][/us/pl/110/181/s824], title X, § 1011, Jan. 28, 2008, [122 Stat. 227][/us/stat/122/227], 303; [Pub. L. 111–84, div. A, title X, § 1073(a)(24)][/us/pl/111/84/s1073/a/24], Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473]; [Pub. L. 112–239, div. A, title VIII, § 821][/us/pl/112/239/s821], title X, § 1076(f)(26), Jan. 2, 2013, [126 Stat. 1830][/us/stat/126/1830], 1953.)
+(Added [Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1202(a)(1), Sept. 24, 1983, [97 Stat. 679][/us/stat/97/679]; amended [Pub. L. 98–525, title XII][/us/pl/98/525/tXII], § 1232(a), Oct. 19, 1984, [98 Stat. 2600][/us/stat/98/2600]; [Pub. L. 100–26][/us/pl/100/26], § 7(h)(1), Apr. 21, 1987, [101 Stat. 282][/us/stat/101/282]; [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 201(c)(6), May 31, 1993, [107 Stat. 98][/us/stat/107/98]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], §§ 1502(a)(20), 1503(a)(21), Feb. 10, 1996, [110 Stat. 504][/us/stat/110/504], 512; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(13)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–291; [Pub. L. 109–163, div. A, title VIII][/us/pl/109/163/dA/tVIII], § 815(a)–(d)(1), Jan. 6, 2006, [119 Stat. 3381][/us/stat/119/3381], 3382; [Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 824, title X, § 1011, Jan. 28, 2008, [122 Stat. 227][/us/stat/122/227], 303; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(24), Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473]; [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 821, title X, § 1076(f)(26), Jan. 2, 2013, [126 Stat. 1830][/us/stat/126/1830], 1953.)
 
  __References in Text__ 
 
@@ -175,65 +175,65 @@
 
  __Amendments__ 
 
-    2013—Subsecs. (b)(1)(B), (h)(1). [Pub. L. 112–239, § 1076(f)(26)][/us/pl/112/239/s1076/f/26], substituted “the congressional defense committees” for “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives”.
+    2013—Subsecs. (b)(1)(B), (h)(1). [Pub. L. 112–239][/us/pl/112/239], § 1076(f)(26), substituted “the congressional defense committees” for “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives”.
 
-    Subsec. (h)(2). [Pub. L. 112–239, § 821][/us/pl/112/239/s821], substituted “60 days” for “30 days of continuous session of Congress”.
+    Subsec. (h)(2). [Pub. L. 112–239][/us/pl/112/239], § 821, substituted “60 days” for “30 days of continuous session of Congress”.
 
     2009—Subsec. (f)(2). [Pub. L. 111–84][/us/pl/111/84] substituted “January 6, 2006” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2006”.
 
-    2008—Subsec. (b)(5). [Pub. L. 110–181, § 824][/us/pl/110/181/s824], added par. (5).
+    2008—Subsec. (b)(5). [Pub. L. 110–181][/us/pl/110/181], § 824, added par. (5).
 
-    Subsec. (h). [Pub. L. 110–181, § 1011][/us/pl/110/181/s1011], added subsec. (h).
+    Subsec. (h). [Pub. L. 110–181][/us/pl/110/181], § 1011, added subsec. (h).
 
-    2006—[Pub. L. 109–163, § 815(d)(1)][/us/pl/109/163/s815/d/1], substituted “Requirement for authorization by law of certain contracts relating to vessels, aircraft, and combat vehicles” for “Requirement for authorization by law of certain contracts relating to vessels and aircraft” in section catchline.
+    2006—[Pub. L. 109–163][/us/pl/109/163], § 815(d)(1), substituted “Requirement for authorization by law of certain contracts relating to vessels, aircraft, and combat vehicles” for “Requirement for authorization by law of certain contracts relating to vessels and aircraft” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 109–163, § 815(a)(1)][/us/pl/109/163/s815/a/1], substituted “vessel, aircraft, or combat vehicle” for “vessel or aircraft” in two places in introductory provisions.
+    Subsec. (a)(1). [Pub. L. 109–163][/us/pl/109/163], § 815(a)(1), substituted “vessel, aircraft, or combat vehicle” for “vessel or aircraft” in two places in introductory provisions.
 
-    Subsec. (b)(1)(C). [Pub. L. 109–163, § 815(a)(1)][/us/pl/109/163/s815/a/1], substituted “vessel, aircraft, or combat vehicle” for “vessel or aircraft”.
+    Subsec. (b)(1)(C). [Pub. L. 109–163][/us/pl/109/163], § 815(a)(1), substituted “vessel, aircraft, or combat vehicle” for “vessel or aircraft”.
 
-    Subsec. (b)(1)(D). [Pub. L. 109–163, § 815(b)(1)][/us/pl/109/163/s815/b/1], added subpar. (D).
+    Subsec. (b)(1)(D). [Pub. L. 109–163][/us/pl/109/163], § 815(b)(1), added subpar. (D).
 
-    Subsec. (b)(3), (4). [Pub. L. 109–163, § 815(b)(2)][/us/pl/109/163/s815/b/2], added pars. (3) and (4).
+    Subsec. (b)(3), (4). [Pub. L. 109–163][/us/pl/109/163], § 815(b)(2), added pars. (3) and (4).
 
-    Subsec. (c)(1). [Pub. L. 109–163, § 815(a)(2)][/us/pl/109/163/s815/a/2], substituted “aircraft, naval vessel, or combat vehicle” for “aircraft or naval vessel” in subpars. (A) and (B).
+    Subsec. (c)(1). [Pub. L. 109–163][/us/pl/109/163], § 815(a)(2), substituted “aircraft, naval vessel, or combat vehicle” for “aircraft or naval vessel” in subpars. (A) and (B).
 
-    Subsec. (d)(1)(A)(i), (2)(A), (B). [Pub. L. 109–163, § 815(a)(1)][/us/pl/109/163/s815/a/1], substituted “vessel, aircraft, or combat vehicle” for “vessel or aircraft”.
+    Subsec. (d)(1)(A)(i), (2)(A), (B). [Pub. L. 109–163][/us/pl/109/163], § 815(a)(1), substituted “vessel, aircraft, or combat vehicle” for “vessel or aircraft”.
 
-    Subsec. (e)(1), (3). [Pub. L. 109–163, § 815(a)(3)][/us/pl/109/163/s815/a/3], substituted “aircraft, naval vessels, or combat vehicles” for “aircraft or naval vessels” wherever appearing.
+    Subsec. (e)(1), (3). [Pub. L. 109–163][/us/pl/109/163], § 815(a)(3), substituted “aircraft, naval vessels, or combat vehicles” for “aircraft or naval vessels” wherever appearing.
 
-    Subsec. (f). [Pub. L. 109–163, § 815(c)(2)][/us/pl/109/163/s815/c/2], added subsec. (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 109–163][/us/pl/109/163], § 815(c)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
-    [Pub. L. 109–163, § 815(a)(4)][/us/pl/109/163/s815/a/4], substituted “aircraft, naval vessels, and combat vehicles” for “aircraft and naval vessels” and “such aircraft, vessels, and combat vehicles” for “such aircraft and vessels”.
+    [Pub. L. 109–163][/us/pl/109/163], § 815(a)(4), substituted “aircraft, naval vessels, and combat vehicles” for “aircraft and naval vessels” and “such aircraft, vessels, and combat vehicles” for “such aircraft and vessels”.
 
-    Subsec. (g). [Pub. L. 109–163, § 815(c)(1)][/us/pl/109/163/s815/c/1], redesignated subsec. (f) as (g).
+    Subsec. (g). [Pub. L. 109–163][/us/pl/109/163], § 815(c)(1), redesignated subsec. (f) as (g).
 
     2000—Subsec. (b)(1)(B). [Pub. L. 106–398][/us/pl/106/398] substituted “Committee on Appropriations of the House” for “Committees on Appropriations of the House”.
 
     1999—Subsec. (b)(1)(B). [Pub. L. 106–65][/us/pl/106/65] substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-    1996—Subsec. (b)(1)(B). [Pub. L. 104–106, § 1502(a)(20)(A)][/us/pl/104/106/s1502/a/20/A], substituted “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committees on Appropriations of the” for “the Committees on Armed Services and on Appropriations of the Senate and”.
+    1996—Subsec. (b)(1)(B). [Pub. L. 104–106][/us/pl/104/106], § 1502(a)(20)(A), substituted “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committees on Appropriations of the” for “the Committees on Armed Services and on Appropriations of the Senate and”.
 
-    Subsec. (b)(1)(C). [Pub. L. 104–106, § 1502(a)(20)(B)][/us/pl/104/106/s1502/a/20/B], substituted “those committees” for “the Committees on Armed Services and on Appropriations of the Senate and House of Representatives”.
+    Subsec. (b)(1)(C). [Pub. L. 104–106][/us/pl/104/106], § 1502(a)(20)(B), substituted “those committees” for “the Committees on Armed Services and on Appropriations of the Senate and House of Representatives”.
 
-    Subsec. (c)(2). [Pub. L. 104–106, § 1503(a)(21)][/us/pl/104/106/s1503/a/21], struck out “pursuant to an authorization contained in the Department of Defense Authorization Act, 1984 ([Public Law 98–94][/us/pl/98/94]), or in any other law enacted after September 24, 1983,” before “may not be used”.
+    Subsec. (c)(2). [Pub. L. 104–106][/us/pl/104/106], § 1503(a)(21), struck out “pursuant to an authorization contained in the Department of Defense Authorization Act, 1984 ([Public Law 98–94][/us/pl/98/94]), or in any other law enacted after September 24, 1983,” before “may not be used”.
 
     1993—Subsec. (c)(2)(A). [Pub. L. 103–35][/us/pl/103/35] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
     1987—Subsec. (d)(1)(B). [Pub. L. 100–26][/us/pl/100/26] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    1984—Subsec. (c). [Pub. L. 98–525, § 1232(a)(1)][/us/pl/98/525/s1232/a/1], designated existing provisions as par. (1), redesignated as cls. (A) and (B) former cls. (1) and (2), respectively, and added par. (2).
+    1984—Subsec. (c). [Pub. L. 98–525][/us/pl/98/525], § 1232(a)(1), designated existing provisions as par. (1), redesignated as cls. (A) and (B) former cls. (1) and (2), respectively, and added par. (2).
 
-    Subsec. (f). [Pub. L. 98–525, § 1232(a)(2)][/us/pl/98/525/s1232/a/2], struck out at end “Such guidelines shall be issued not later than 90 days after the date of enactment of this section \[Sept. 24, 1983\].”
+    Subsec. (f). [Pub. L. 98–525][/us/pl/98/525], § 1232(a)(2), struck out at end “Such guidelines shall be issued not later than 90 days after the date of enactment of this section \[Sept. 24, 1983\].”
 
  __Effective Date__ 
 
-[Pub. L. 98–94, title XII, § 1202(a)(3)][/us/pl/98/94/s1202/a/3], Sept. 24, 1983, [97 Stat. 681][/us/stat/97/681], provided that: 
+[Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1202(a)(3), Sept. 24, 1983, [97 Stat. 681][/us/stat/97/681], provided that: 
 
 > “[Section 2401 of title 10][/us/usc/t10/s2401], United States Code, as added by paragraph (1), shall not apply in the case of any lease or charter agreement entered into by the Department of Defense before December 1, 1983.”
 
  __Riding Gang Member Requirements__ 
 
-[Pub. L. 109–364, div. A, title X, § 1018][/us/pl/109/364/s1018], Oct. 17, 2006, [120 Stat. 2380][/us/stat/120/2380], as amended by [Pub. L. 110–417, div. C, title XXXV, § 3504][/us/pl/110/417/s3504], Oct. 14, 2008, [122 Stat. 4762][/us/stat/122/4762], provided that:
+[Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1018, Oct. 17, 2006, [120 Stat. 2380][/us/stat/120/2380], as amended by [Pub. L. 110–417, div. C, title XXXV][/us/pl/110/417/dC/tXXXV], § 3504, Oct. 14, 2008, [122 Stat. 4762][/us/stat/122/4762], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -283,7 +283,7 @@
 
  __Long-Term Lease or Charter Authority for Certain Double-Hull Tankers and Oceanographic Vessels__ 
 
-[Pub. L. 103–160, div. A, title I, § 126][/us/pl/103/160/s126], Nov. 30, 1993, [107 Stat. 1567][/us/stat/107/1567], as amended by [Pub. L. 104–106, div. D, title XLIII, § 4321(i)(1)(A)][/us/pl/104/106/s4321/i/1/A], Feb. 10, 1996, [110 Stat. 676][/us/stat/110/676], provided that:
+[Pub. L. 103–160, div. A, title I][/us/pl/103/160/dA/tI], § 126, Nov. 30, 1993, [107 Stat. 1567][/us/stat/107/1567], as amended by [Pub. L. 104–106, div. D, title XLIII][/us/pl/104/106/dD/tXLIII], § 4321(i)(1)(A), Feb. 10, 1996, [110 Stat. 676][/us/stat/110/676], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -309,21 +309,21 @@
 
  __Limitation on Use of Funds for Contracts for Lease or Charter of Any Vessel, Aircraft, or Vehicles__ 
 
-    [Pub. L. 101–165, title IX, § 9081][/us/pl/101/165/s9081], Nov. 21, 1989, [103 Stat. 1147][/us/stat/103/1147], directed that no funds available to Department of Defense could be used to enter into any contract with term of eighteen months or more or to extend or renew any contract for term of eighteen months or more, for any vessel, aircraft, or vehicle, through lease, charter, or similar agreement without previously having been submitted to Committees on Appropriations, with further requirement with respect to contractual agreements which imposed certain termination liability on Government, prior to repeal by [Pub. L. 103–355, title III, § 3065(b)][/us/pl/103/355/s3065/b], Oct. 13, 1994, [108 Stat. 3337][/us/stat/108/3337]. See [section 2401a of this title][/us/usc/t10/s2401a].
+    [Pub. L. 101–165, title IX][/us/pl/101/165/tIX], § 9081, Nov. 21, 1989, [103 Stat. 1147][/us/stat/103/1147], directed that no funds available to Department of Defense could be used to enter into any contract with term of eighteen months or more or to extend or renew any contract for term of eighteen months or more, for any vessel, aircraft, or vehicle, through lease, charter, or similar agreement without previously having been submitted to Committees on Appropriations, with further requirement with respect to contractual agreements which imposed certain termination liability on Government, prior to repeal by [Pub. L. 103–355, title III][/us/pl/103/355/tIII], § 3065(b), Oct. 13, 1994, [108 Stat. 3337][/us/stat/108/3337]. See [section 2401a of this title][/us/usc/t10/s2401a].
 
  __Issuance of Guidelines__ 
 
-    [Pub. L. 98–525, title XII, § 1232(a)(2)][/us/pl/98/525/s1232/a/2], Oct. 19, 1984, [98 Stat. 2600][/us/stat/98/2600], provided in part that guidelines required to be issued under subsec. (f) of this section shall be issued not later than Oct. 31, 1984.
+    [Pub. L. 98–525, title XII][/us/pl/98/525/tXII], § 1232(a)(2), Oct. 19, 1984, [98 Stat. 2600][/us/stat/98/2600], provided in part that guidelines required to be issued under subsec. (f) of this section shall be issued not later than Oct. 31, 1984.
 
  __Limitation on Funds Available to Department of Defense To Enter Into Contracts During Fiscal Year 1984__ 
 
-[Pub. L. 98–94, title XII, § 1202(d)][/us/pl/98/94/s1202/d], Sept. 24, 1983, [97 Stat. 682][/us/stat/97/682], provided that: 
+[Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1202(d), Sept. 24, 1983, [97 Stat. 682][/us/stat/97/682], provided that: 
 
 > “Funds available to the Department of Defense may not be used to enter into any contract during fiscal year 1984 under [section 2401 of title 10][/us/usc/t10/s2401], United States Code, as added by subsection (a), the term of which is for 3 years or more, inclusive of any option for contract extension or renewal, for any vessels, aircraft, or vehicles, through a lease, charter, or similar agreement, that imposes an estimated termination liability (excluding the estimated value of the leased item at the time of termination) on the United States exceeding 50 percent of the original purchase value of the vessel, aircraft, or vehicle involved for which the Congress has not specifically provided budget authority for the obligation of 10 percent of such termination liability.”
 
  __Limitation on Use of Funds Appropriated Pursuant to Authorizations Contained in Department of Defense Authorization Act, 1984__ 
 
-[Pub. L. 98–94, title XII, § 1202(b)][/us/pl/98/94/s1202/b], Sept. 24, 1983, [97 Stat. 681][/us/stat/97/681], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1202(b), Sept. 24, 1983, [97 Stat. 681][/us/stat/97/681], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “Funds appropriated pursuant to an authorization contained in this Act may not be used to indemnify any person under the terms of a contract entered into with the United States under [section 2401 of title 10][/us/usc/t10/s2401], United States Code (as added by subsection (a))—
 
@@ -338,83 +338,83 @@
 ----------
 ----------
 
-[/us/pl/98/94/s1202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1202%2Fa%2F1
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F679
-[/us/pl/98/525/s1232/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1232%2Fa
+[/us/pl/98/525/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXII
 [/us/stat/98/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2600
-[/us/pl/100/26/s7/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fh%2F1
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F282
-[/us/pl/103/35/s201/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fc%2F6
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F98
-[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F504
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/109/163/s815/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs815%2Fa
+[/us/pl/109/163/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVIII
 [/us/stat/119/3381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3381
-[/us/pl/110/181/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs824
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F227
-[/us/pl/111/84/s1073/a/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F24
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2473
-[/us/pl/112/239/s821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs821
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1830
 [/us/usc/t26/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs168
-[/us/pl/112/239/s1076/f/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F26
-[/us/pl/112/239/s821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs821
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/110/181/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs824
-[/us/pl/110/181/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1011
-[/us/pl/109/163/s815/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs815%2Fd%2F1
-[/us/pl/109/163/s815/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs815%2Fa%2F1
-[/us/pl/109/163/s815/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs815%2Fa%2F1
-[/us/pl/109/163/s815/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs815%2Fb%2F1
-[/us/pl/109/163/s815/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs815%2Fb%2F2
-[/us/pl/109/163/s815/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs815%2Fa%2F2
-[/us/pl/109/163/s815/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs815%2Fa%2F1
-[/us/pl/109/163/s815/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs815%2Fa%2F3
-[/us/pl/109/163/s815/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs815%2Fc%2F2
-[/us/pl/109/163/s815/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs815%2Fa%2F4
-[/us/pl/109/163/s815/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs815%2Fc%2F1
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/104/106/s1502/a/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F20%2FA
-[/us/pl/104/106/s1502/a/20/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F20%2FB
-[/us/pl/104/106/s1503/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1503%2Fa%2F21
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
-[/us/pl/98/525/s1232/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1232%2Fa%2F1
-[/us/pl/98/525/s1232/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1232%2Fa%2F2
-[/us/pl/98/94/s1202/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1202%2Fa%2F3
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F681
 [/us/usc/t10/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2401
-[/us/pl/109/364/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1018
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2380
-[/us/pl/110/417/s3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3504
+[/us/pl/110/417/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdC%2FtXXXV
 [/us/stat/122/4762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4762
 [/us/usc/t46/s8106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs8106
 [/us/usc/t46/s8106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs8106
 [/us/usc/t46/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3304
-[/us/pl/103/160/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs126
+[/us/pl/103/160/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtI
 [/us/stat/107/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1567
-[/us/pl/104/106/s4321/i/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4321%2Fi%2F1%2FA
+[/us/pl/104/106/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdD%2FtXLIII
 [/us/stat/110/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F676
 [/us/usc/t10/s2401/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2401%2Fd%2F1
-[/us/pl/101/165/s9081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2Fs9081
+[/us/pl/101/165/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2FtIX
 [/us/stat/103/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1147
-[/us/pl/103/355/s3065/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3065%2Fb
+[/us/pl/103/355/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtIII
 [/us/stat/108/3337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3337
 [/us/usc/t10/s2401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2401a
-[/us/pl/98/525/s1232/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1232%2Fa%2F2
+[/us/pl/98/525/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXII
 [/us/stat/98/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2600
-[/us/pl/98/94/s1202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1202%2Fd
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F682
 [/us/usc/t10/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2401
-[/us/pl/98/94/s1202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1202%2Fb
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F681
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t10/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2401
 

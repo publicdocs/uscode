@@ -125,47 +125,47 @@
 
         (5) The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
 
-(Added [Pub. L. 107–314, div. A, title X, § 1067(a)(1)][/us/pl/107/314/s1067/a/1], Dec. 2, 2002, [116 Stat. 2657][/us/stat/116/2657]; amended [Pub. L. 110–181, div. A, title III, § 371(a)][/us/pl/110/181/s371/a]–(e), Jan. 28, 2008, [122 Stat. 79–81][/us/stat/122/79-81]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(1), Oct. 14, 2008, [122 Stat. 4612][/us/stat/122/4612]; [Pub. L. 111–383, div. A, title III, § 331][/us/pl/111/383/s331], Jan. 7, 2011, [124 Stat. 4185][/us/stat/124/4185]; [Pub. L. 112–239, div. A, title III, § 341][/us/pl/112/239/s341], Jan. 2, 2013, [126 Stat. 1699][/us/stat/126/1699].)
+(Added [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1067(a)(1), Dec. 2, 2002, [116 Stat. 2657][/us/stat/116/2657]; amended [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 371(a)–(e), Jan. 28, 2008, [122 Stat. 79–81][/us/stat/122/79-81]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(1), Oct. 14, 2008, [122 Stat. 4612][/us/stat/122/4612]; [Pub. L. 111–383, div. A, title III][/us/pl/111/383/dA/tIII], § 331, Jan. 7, 2011, [124 Stat. 4185][/us/stat/124/4185]; [Pub. L. 112–239, div. A, title III][/us/pl/112/239/dA/tIII], § 341, Jan. 2, 2013, [126 Stat. 1699][/us/stat/126/1699].)
 
  __Amendments__ 
 
-    2013—Subsec. (e)(1)(B). [Pub. L. 112–239, § 341(1)(A)][/us/pl/112/239/s341/1/A], inserted “, including available validated data on return on investment for completed corrosion projects and activities” before period at end.
+    2013—Subsec. (e)(1)(B). [Pub. L. 112–239][/us/pl/112/239], § 341(1)(A), inserted “, including available validated data on return on investment for completed corrosion projects and activities” before period at end.
 
-    Subsec. (e)(1)(E). [Pub. L. 112–239, § 341(1)(B)][/us/pl/112/239/s341/1/B], substituted “For the fiscal year preceding the fiscal year covered by the report” for “For the fiscal year covered by the report and the preceding fiscal year”.
+    Subsec. (e)(1)(E). [Pub. L. 112–239][/us/pl/112/239], § 341(1)(B), substituted “For the fiscal year preceding the fiscal year covered by the report” for “For the fiscal year covered by the report and the preceding fiscal year”.
 
-    Subsec. (e)(1)(F). [Pub. L. 112–239, § 341(1)(C)][/us/pl/112/239/s341/1/C], added subpar. (F).
+    Subsec. (e)(1)(F). [Pub. L. 112–239][/us/pl/112/239], § 341(1)(C), added subpar. (F).
 
-    Subsec. (e)(2), (3). [Pub. L. 112–239, § 341(2)][/us/pl/112/239/s341/2], (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Within 60 days after submission of the budget for a fiscal year, the Comptroller General shall provide to the congressional defense committees—
+    Subsec. (e)(2), (3). [Pub. L. 112–239][/us/pl/112/239], § 341(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Within 60 days after submission of the budget for a fiscal year, the Comptroller General shall provide to the congressional defense committees—
 
     “(A) an analysis of the budget submission for corrosion control and prevention by the Department of Defense; and
 
     “(B) an analysis of the report required under paragraph (1), including the annex to the report described in paragraph (3).”
 
-    2011—Subsec. (e)(1)(C). [Pub. L. 111–383, § 331(1)(A)][/us/pl/111/383/s331/1/A], substituted “For the fiscal year covered by the report and the preceding fiscal year, the” for “The”.
+    2011—Subsec. (e)(1)(C). [Pub. L. 111–383][/us/pl/111/383], § 331(1)(A), substituted “For the fiscal year covered by the report and the preceding fiscal year, the” for “The”.
 
-    Subsec. (e)(1)(E). [Pub. L. 111–383, § 331(1)(B)][/us/pl/111/383/s331/1/B], added subpar. (E).
+    Subsec. (e)(1)(E). [Pub. L. 111–383][/us/pl/111/383], § 331(1)(B), added subpar. (E).
 
-    Subsec. (e)(2)(B). [Pub. L. 111–383, § 331(2)][/us/pl/111/383/s331/2], inserted before period at end “, including the annex to the report described in paragraph (3)”.
+    Subsec. (e)(2)(B). [Pub. L. 111–383][/us/pl/111/383], § 331(2), inserted before period at end “, including the annex to the report described in paragraph (3)”.
 
-    Subsec. (e)(3). [Pub. L. 111–383, § 331(3)][/us/pl/111/383/s331/3], added par. (3).
+    Subsec. (e)(3). [Pub. L. 111–383][/us/pl/111/383], § 331(3), added par. (3).
 
-    2008—[Pub. L. 110–181, § 371(a)(1)][/us/pl/110/181/s371/a/1], substituted “Office of Corrosion Policy and Oversight” for “Military equipment and infrastructure: prevention and mitigation of corrosion” in section catchline.
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 371(a)(1), substituted “Office of Corrosion Policy and Oversight” for “Military equipment and infrastructure: prevention and mitigation of corrosion” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–181, § 371(a)(1)][/us/pl/110/181/s371/a/1], added subsec. (a) and struck out heading and text of former subsec. (a). Former text read as follows: “The Secretary of Defense shall designate an officer or employee of the Department of Defense, or a standing board or committee of the Department of Defense, as the senior official or organization responsible in the Department to the Secretary of Defense (after the Under Secretary of Defense for Acquisition, Technology, and Logistics) for the prevention and mitigation of corrosion of the military equipment and infrastructure of the Department.”
+    Subsec. (a). [Pub. L. 110–181][/us/pl/110/181], § 371(a)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Former text read as follows: “The Secretary of Defense shall designate an officer or employee of the Department of Defense, or a standing board or committee of the Department of Defense, as the senior official or organization responsible in the Department to the Secretary of Defense (after the Under Secretary of Defense for Acquisition, Technology, and Logistics) for the prevention and mitigation of corrosion of the military equipment and infrastructure of the Department.”
 
-    Subsec. (b)(1). [Pub. L. 110–181, § 371(a)(2)(A)][/us/pl/110/181/s371/a/2/A], substituted “Director of Corrosion Policy and Oversight (in this section referred to as the ‘Director’)” for “official or organization designated under subsection (a)”.
+    Subsec. (b)(1). [Pub. L. 110–181][/us/pl/110/181], § 371(a)(2)(A), substituted “Director of Corrosion Policy and Oversight (in this section referred to as the ‘Director’)” for “official or organization designated under subsection (a)”.
 
-    Subsec. (b)(2) to (5). [Pub. L. 110–181, § 371(a)(2)(B)][/us/pl/110/181/s371/a/2/B], substituted “Director” for “designated official or organization”.
+    Subsec. (b)(2) to (5). [Pub. L. 110–181][/us/pl/110/181], § 371(a)(2)(B), substituted “Director” for “designated official or organization”.
 
-    Subsecs. (c), (d). [Pub. L. 110–181, § 371(b)][/us/pl/110/181/s371/b], added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (f).
+    Subsecs. (c), (d). [Pub. L. 110–181][/us/pl/110/181], § 371(b), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (f).
 
-    Subsec. (d)(2)(D). [Pub. L. 110–181, § 371(c)][/us/pl/110/181/s371/c], as amended by [Pub. L. 110–417][/us/pl/110/417], inserted “, including through the establishment of memoranda of agreement, joint funding agreements, public-private partnerships, university research and education centers, and other cooperative research agreements” after “operational systems”.
+    Subsec. (d)(2)(D). [Pub. L. 110–181][/us/pl/110/181], § 371(c), as amended by [Pub. L. 110–417][/us/pl/110/417], inserted “, including through the establishment of memoranda of agreement, joint funding agreements, public-private partnerships, university research and education centers, and other cooperative research agreements” after “operational systems”.
 
-    Subsec. (e). [Pub. L. 110–181, § 371(d)][/us/pl/110/181/s371/d], added subsec. (e).
+    Subsec. (e). [Pub. L. 110–181][/us/pl/110/181], § 371(d), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 110–181, § 371(b)][/us/pl/110/181/s371/b], redesignated subsec. (d) as (f).
+    Subsec. (f). [Pub. L. 110–181][/us/pl/110/181], § 371(b), redesignated subsec. (d) as (f).
 
-    Subsec. (f)(4), (5). [Pub. L. 110–181, § 371(e)][/us/pl/110/181/s371/e], added pars. (4) and (5).
+    Subsec. (f)(4), (5). [Pub. L. 110–181][/us/pl/110/181], § 371(e), added pars. (4) and (5).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -173,7 +173,7 @@
 
  __Implementation of Corrective Actions Resulting From Corrosion Study of the F–22 and F–35 Aircraft__ 
 
-[Pub. L. 112–81, div. A, title III, § 324][/us/pl/112/81/s324], Dec. 31, 2011, [125 Stat. 1362][/us/stat/125/1362], provided that:
+[Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 324, Dec. 31, 2011, [125 Stat. 1362][/us/stat/125/1362], provided that:
 
 >     “(a)  __Implementation; Congressional Briefing__  __.—__ 
 
@@ -205,7 +205,7 @@
 
  __Corrosion Control and Prevention Executives for the Military Departments__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 903, Oct. 14, 2008, [122 Stat. 4566][/us/stat/122/4566], as amended by [Pub. L. 113–66, div. A, title III, § 334][/us/pl/113/66/s334], title X, § 1084(b)(1), Dec. 26, 2013, [127 Stat. 740][/us/stat/127/740], 871, provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 903, Oct. 14, 2008, [122 Stat. 4566][/us/stat/122/4566], as amended by [Pub. L. 113–66, div. A, title III][/us/pl/113/66/dA/tIII], § 334, title X, § 1084(b)(1), Dec. 26, 2013, [127 Stat. 740][/us/stat/127/740], 871, provided that:
 
 >     “(a)  __Requirement to Designate Corrosion Control and Prevention Executive__  __.—__ 
 
@@ -257,7 +257,7 @@
 
  __Deadline for Designation of Responsible Official or Organization; Interim Report; Deadline for Long-Term Strategy; GAO Review__ 
 
-    [Pub. L. 107–314, div. A, title X, § 1067(b)][/us/pl/107/314/s1067/b]–(e), Dec. 2, 2002, [116 Stat. 2658][/us/stat/116/2658], 2659, directed the Secretary of Defense to designate a responsible official or organization under subsec. (a) of this section not later than 90 days after Dec. 2, 2002, directed the Secretary to submit to Congress a report setting forth the long-term strategy required under subsec. (c) of this section not later than one year after Dec. 2, 2002, and required the Comptroller General to monitor the implementation of such long-term strategy and, not later than 18 months after Dec. 2, 2002, to submit to Congress an assessment of the extent to which that strategy had been implemented.
+    [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1067(b)–(e), Dec. 2, 2002, [116 Stat. 2658][/us/stat/116/2658], 2659, directed the Secretary of Defense to designate a responsible official or organization under subsec. (a) of this section not later than 90 days after Dec. 2, 2002, directed the Secretary to submit to Congress a report setting forth the long-term strategy required under subsec. (c) of this section not later than one year after Dec. 2, 2002, and required the Comptroller General to monitor the implementation of such long-term strategy and, not later than 18 months after Dec. 2, 2002, to submit to Congress an assessment of the extent to which that strategy had been implemented.
 
 ----------
 
@@ -271,48 +271,48 @@
 [/us/stat/122/4567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4567
 [/us/usc/t10/s2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2228
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/107/314/s1067/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1067%2Fa%2F1
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2657
-[/us/pl/110/181/s371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs371%2Fa
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/79-81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F79-81
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4612
-[/us/pl/111/383/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs331
+[/us/pl/111/383/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIII
 [/us/stat/124/4185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4185
-[/us/pl/112/239/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs341
+[/us/pl/112/239/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIII
 [/us/stat/126/1699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1699
-[/us/pl/112/239/s341/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs341%2F1%2FA
-[/us/pl/112/239/s341/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs341%2F1%2FB
-[/us/pl/112/239/s341/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs341%2F1%2FC
-[/us/pl/112/239/s341/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs341%2F2
-[/us/pl/111/383/s331/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs331%2F1%2FA
-[/us/pl/111/383/s331/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs331%2F1%2FB
-[/us/pl/111/383/s331/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs331%2F2
-[/us/pl/111/383/s331/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs331%2F3
-[/us/pl/110/181/s371/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs371%2Fa%2F1
-[/us/pl/110/181/s371/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs371%2Fa%2F1
-[/us/pl/110/181/s371/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs371%2Fa%2F2%2FA
-[/us/pl/110/181/s371/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs371%2Fa%2F2%2FB
-[/us/pl/110/181/s371/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs371%2Fb
-[/us/pl/110/181/s371/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs371%2Fc
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/110/181/s371/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs371%2Fd
-[/us/pl/110/181/s371/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs371%2Fb
-[/us/pl/110/181/s371/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs371%2Fe
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/110/417/s1061/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs1061%2Fb
 [/us/usc/t5/s6382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6382
-[/us/pl/112/81/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs324
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1362
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4566
-[/us/pl/113/66/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs334
+[/us/pl/113/66/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIII
 [/us/stat/127/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F740
 [/us/usc/t10/s2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2228
 [/us/usc/t10/s2228/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2228%2Fd
-[/us/pl/107/314/s1067/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1067%2Fb
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2658
 
 

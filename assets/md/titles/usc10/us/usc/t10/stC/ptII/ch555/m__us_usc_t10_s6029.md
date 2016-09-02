@@ -67,7 +67,7 @@ Dec. 28, 1945, ch. 604, § 4, 59 Stat. 667.  </td>
 
     The words “for establishing” are omitted as executed and unnecessary.
 
-    The last sentence of [§ 4 of the Act of December 28, 1945, ch. 604][/us/act/1945-12-28/ch604/s4], [59 Stat. 667][/us/stat/59/667], was a repealing clause and savings provision. It is omitted from this section.
+    The last sentence of § 4 of the [Act of December 28, 1945, ch. 604][/us/act/1945-12-28/ch604], [59 Stat. 667][/us/stat/59/667], was a repealing clause and savings provision. It is omitted from this section.
 
 ----------
 
@@ -78,7 +78,7 @@ Dec. 28, 1945, ch. 604, § 4, 59 Stat. 667.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F377
-[/us/act/1945-12-28/ch604/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-28%2Fch604%2Fs4
+[/us/act/1945-12-28/ch604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-28%2Fch604
 [/us/stat/59/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F667
 
 

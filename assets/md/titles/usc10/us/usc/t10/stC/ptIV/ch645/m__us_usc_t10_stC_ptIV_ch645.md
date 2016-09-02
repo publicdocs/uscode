@@ -59,9 +59,9 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–355, title II, § 2001(j)(3)(C)][/us/pl/103/355/s2001/j/3/C], Oct. 13, 1994, [108 Stat. 3303][/us/stat/108/3303], struck out item 7521 “Progress payment for work done; lien based on payment”.
+    1994—[Pub. L. 103–355, title II][/us/pl/103/355/tII], § 2001(j)(3)(C), Oct. 13, 1994, [108 Stat. 3303][/us/stat/108/3303], struck out item 7521 “Progress payment for work done; lien based on payment”.
 
-    1986—[Pub. L. 99–661, div. A, title XIII, § 1354(b)][/us/pl/99/661/s1354/b], Nov. 14, 1986, [100 Stat. 3996][/us/stat/100/3996], added item 7524.
+    1986—[Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1354(b), Nov. 14, 1986, [100 Stat. 3996][/us/stat/100/3996], added item 7524.
 
 ----------
 
@@ -70,9 +70,9 @@
 ----------
 ----------
 
-[/us/pl/103/355/s2001/j/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2001%2Fj%2F3%2FC
+[/us/pl/103/355/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtII
 [/us/stat/108/3303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3303
-[/us/pl/99/661/s1354/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1354%2Fb
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3996
 
 

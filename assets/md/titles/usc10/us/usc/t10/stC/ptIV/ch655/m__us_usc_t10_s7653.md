@@ -21,7 +21,7 @@
 
     (c) If the prize property is lost or entirely destroyed or if, because of its condition, no part of it has been or can be sent in for adjudication, proceedings for adjudication of the cause may be brought in any district designated by the Secretary of the Navy. In such cases the proceeds of anything sold shall be deposited with the Treasurer of the United States or public depositary in or nearest the district designated by the Secretary, subject to the orders of the court for that district.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 474][/us/stat/70A/474]; [Pub. L. 109–163, div. A, title X, § 1057(a)(5)][/us/pl/109/163/s1057/a/5], Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 474][/us/stat/70A/474]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(a)(5), Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440].)
 
 <table>
 
@@ -87,7 +87,7 @@ R.S. 4625 (less last sentence).  </td>
 
     In subsection (b) the requisites for jurisdiction conferred under the 1942 Act are substituted for the words “brought under the jurisdiction conferred by this Act”. The substituted words are the same as those used in clauses (2), (3), and (4) of the preceding section except that the words “before proceedings are started” are added following the words “appropriated for the use of the United States” for clarity. An appropriation can take place before or after proceedings are commenced, but in the latter case there is no occasion for the Attorney General to determine venue.
 
-    In subsection (c) the words “or if because the whole has been appropriated to the use of the United States” and the words “or the value of anything taken or appropriated for the use of the United States” are omitted. The provision in the 1942 Act which empowers the Attorney General to decide the venue of proceedings when the prize property has been appropriated is incompatible with the provision in R.S. 4625 which authorizes the Secretary of the Navy to select the judicial district in such cases. Hence the 1942 Act superseded R.S. 4625 with respect to cases of this type. Deposit of the value of prize property appropriated by the United States is adequately covered in [§ 7663 of this title][/us/usc/t10/s7663] and is not mentioned here. The second sentence of [34 U.S.C. 1141][/us/usc/t34/s1141] (R.S. 4625), relating to proceedings by captors, is omitted because it was rendered inoperative by the [Act of March 3, 1899, ch. 413, § 13][/us/act/1899-03-03/ch413/s13], [30 Stat. 1007][/us/stat/30/1007], which repealed all laws authorizing the distribution of prize money to captors.
+    In subsection (c) the words “or if because the whole has been appropriated to the use of the United States” and the words “or the value of anything taken or appropriated for the use of the United States” are omitted. The provision in the 1942 Act which empowers the Attorney General to decide the venue of proceedings when the prize property has been appropriated is incompatible with the provision in R.S. 4625 which authorizes the Secretary of the Navy to select the judicial district in such cases. Hence the 1942 Act superseded R.S. 4625 with respect to cases of this type. Deposit of the value of prize property appropriated by the United States is adequately covered in § 7663 of this title and is not mentioned here. The second sentence of [34 U.S.C. 1141][/us/usc/t34/s1141] (R.S. 4625), relating to proceedings by captors, is omitted because it was rendered inoperative by the [Act of March 3, 1899, ch. 413][/us/act/1899-03-03/ch413], § 13, [30 Stat. 1007][/us/stat/30/1007], which repealed all laws authorizing the distribution of prize money to captors.
 
  __Amendments__ 
 
@@ -102,12 +102,11 @@ R.S. 4625 (less last sentence).  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F474
-[/us/pl/109/163/s1057/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F5
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3440
 [/us/usc/t34/s1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs1135
-[/us/usc/t10/s7663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7663
 [/us/usc/t34/s1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs1141
-[/us/act/1899-03-03/ch413/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch413%2Fs13
+[/us/act/1899-03-03/ch413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch413
 [/us/stat/30/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1007
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 

@@ -45,11 +45,11 @@
 
     (d) In this section, the term “landlord” means a person who leases a rental unit to a member of the armed forces.
 
-(Added [Pub. L. 100–456, div. A, title VI, § 621(a)(1)][/us/pl/100/456/s621/a/1], Sept. 29, 1988, [102 Stat. 1982][/us/stat/102/1982].)
+(Added [Pub. L. 100–456, div. A, title VI][/us/pl/100/456/dA/tVI], § 621(a)(1), Sept. 29, 1988, [102 Stat. 1982][/us/stat/102/1982].)
 
  __Effective Date__ 
 
-[Pub. L. 100–456, div. A, title VI, § 621(b)][/us/pl/100/456/s621/b], Sept. 29, 1988, [102 Stat. 1983][/us/stat/102/1983], provided that: 
+[Pub. L. 100–456, div. A, title VI][/us/pl/100/456/dA/tVI], § 621(b), Sept. 29, 1988, [102 Stat. 1983][/us/stat/102/1983], provided that: 
 
 > “[Section 1055 of title 10][/us/usc/t10/s1055], United States Code, as added by subsection (a), shall take effect on October 1, 1988.”
 
@@ -63,9 +63,9 @@
 [/us/usc/t37/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs1007
 [/us/usc/t37/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs1007
 [/us/usc/t5/s5514/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5514%2Fa%2F2
-[/us/pl/100/456/s621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs621%2Fa%2F1
+[/us/pl/100/456/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVI
 [/us/stat/102/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1982
-[/us/pl/100/456/s621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs621%2Fb
+[/us/pl/100/456/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVI
 [/us/stat/102/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1983
 [/us/usc/t10/s1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1055
 

@@ -53,17 +53,17 @@
 
     While receiving instruction at the United States Air Force Institute of Technology, defense industry employees enrolled under this section, to the extent practicable, are subject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the school.
 
-(Added [Pub. L. 111–383, div. A, title V, § 593(a)][/us/pl/111/383/s593/a], Jan. 7, 2011, [124 Stat. 4232][/us/stat/124/4232]; amended [Pub. L. 112–239, div. A, title V, § 589(b)][/us/pl/112/239/s589/b], Jan. 2, 2013, [126 Stat. 1769][/us/stat/126/1769]; [Pub. L. 114–92, div. A, title V, § 558][/us/pl/114/92/s558], title X, § 1081(a)(13), Nov. 25, 2015, [129 Stat. 827][/us/stat/129/827], 1001.)
+(Added [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 593(a), Jan. 7, 2011, [124 Stat. 4232][/us/stat/124/4232]; amended [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 589(b), Jan. 2, 2013, [126 Stat. 1769][/us/stat/126/1769]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 558, title X, § 1081(a)(13), Nov. 25, 2015, [129 Stat. 827][/us/stat/129/827], 1001.)
 
  __Amendments__ 
 
-    2015—Subsec. (b). [Pub. L. 114–92, § 1081(a)(13)][/us/pl/114/92/s1081/a/13], substituted “only so long as” for “only so long at”.
+    2015—Subsec. (b). [Pub. L. 114–92][/us/pl/114/92], § 1081(a)(13), substituted “only so long as” for “only so long at”.
 
-    Subsec. (c)(2). [Pub. L. 114–92, § 558][/us/pl/114/92/s558], substituted “will not require an increase in the permanently authorized size of the faculty” for “will be done on a space-available basis and not require an increase in the size of the faculty”.
+    Subsec. (c)(2). [Pub. L. 114–92][/us/pl/114/92], § 558, substituted “will not require an increase in the permanently authorized size of the faculty” for “will be done on a space-available basis and not require an increase in the size of the faculty”.
 
-    2013—Subsec. (a)(1). [Pub. L. 112–239, § 589(b)(1)][/us/pl/112/239/s589/b/1], inserted “or professional continuing education certificate” after “graduate degree”.
+    2013—Subsec. (a)(1). [Pub. L. 112–239][/us/pl/112/239], § 589(b)(1), inserted “or professional continuing education certificate” after “graduate degree”.
 
-    Subsec. (a)(3). [Pub. L. 112–239, § 589(b)(2)][/us/pl/112/239/s589/b/2], inserted “or an appropriate professional continuing education certificate, as applicable” before period at end.
+    Subsec. (a)(3). [Pub. L. 112–239][/us/pl/112/239], § 589(b)(2), inserted “or an appropriate professional continuing education certificate, as applicable” before period at end.
 
 ----------
 
@@ -73,15 +73,15 @@
 ----------
 
 [/us/usc/t10/s9314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9314
-[/us/pl/111/383/s593/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs593%2Fa
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4232
-[/us/pl/112/239/s589/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs589%2Fb
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1769
-[/us/pl/114/92/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs558
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F827
-[/us/pl/114/92/s1081/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F13
-[/us/pl/114/92/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs558
-[/us/pl/112/239/s589/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs589%2Fb%2F1
-[/us/pl/112/239/s589/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs589%2Fb%2F2
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 
 

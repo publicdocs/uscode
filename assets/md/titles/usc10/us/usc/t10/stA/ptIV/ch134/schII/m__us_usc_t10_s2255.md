@@ -63,7 +63,7 @@
 
         (2) The term “mishap unit”, with respect to an aircraft accident investigation, means the unit of the armed forces (at the squadron or battalion level or equivalent) to which was assigned the flight crew of the aircraft that sustained the accident that is the subject of the investigation.
 
-(Added [Pub. L. 104–201, div. A, title IX, § 911(a)(1)][/us/pl/104/201/s911/a/1], Sept. 23, 1996, [110 Stat. 2621][/us/stat/110/2621]; amended [Pub. L. 108–136, div. A, title X, § 1031(a)(13)][/us/pl/108/136/s1031/a/13], Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597].)
+(Added [Pub. L. 104–201, div. A, title IX][/us/pl/104/201/dA/tIX], § 911(a)(1), Sept. 23, 1996, [110 Stat. 2621][/us/stat/110/2621]; amended [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(13), Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597].)
 
  __Amendments__ 
 
@@ -71,7 +71,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–201, div. A, title IX, § 911(b)][/us/pl/104/201/s911/b], Sept. 23, 1996, [110 Stat. 2622][/us/stat/110/2622], provided that: 
+[Pub. L. 104–201, div. A, title IX][/us/pl/104/201/dA/tIX], § 911(b), Sept. 23, 1996, [110 Stat. 2622][/us/stat/110/2622], provided that: 
 
 > “[Section 2255 of title 10][/us/usc/t10/s2255], United States Code, as added by subsection (a), shall apply with respect to any aircraft accident investigation board convened by the Secretary of a military department after the end of the six-month period beginning on the date of the enactment of this Act \[Sept. 23, 1996\].”
 
@@ -83,12 +83,12 @@
 ----------
 
 [/us/usc/t10/s2254/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2254%2Fa%2F2
-[/us/pl/104/201/s911/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs911%2Fa%2F1
+[/us/pl/104/201/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIX
 [/us/stat/110/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2621
-[/us/pl/108/136/s1031/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F13
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1597
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/104/201/s911/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs911%2Fb
+[/us/pl/104/201/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIX
 [/us/stat/110/2622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2622
 [/us/usc/t10/s2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2255
 

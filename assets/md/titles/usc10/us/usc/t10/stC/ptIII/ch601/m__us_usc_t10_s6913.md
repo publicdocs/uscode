@@ -19,7 +19,7 @@
 
     (b) Aviation cadets who complete their training at approximately the same time are considered for all purposes to have begun their commissioned service on the same date, and the decision of the Secretary of the Navy in this regard is conclusive.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 427][/us/stat/70A/427]; [Pub. L. 96–513, title V, § 513(20)][/us/pl/96/513/s513/20], Dec. 12, 1980, [94 Stat. 2932][/us/stat/94/2932]; [Pub. L. 109–163, div. A, title V, § 515(b)(1)(O)][/us/pl/109/163/s515/b/1/O], Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 427][/us/stat/70A/427]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(20), Dec. 12, 1980, [94 Stat. 2932][/us/stat/94/2932]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(O), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
 
 <table>
 
@@ -81,7 +81,7 @@ Aug. 4, 1942, ch. 547, § 8, 56 Stat. 738.  </td>
 
 </table>
 
-    In subsection (a) the proviso is omitted as unnecessary. [Section 1 of the Act of April 28, 1950, ch. 120][/us/act/1950-04-28/ch120/s1], [64 Stat. 90][/us/stat/64/90], terminated service credit for lump-sum payments granted under [§ 12 of the Act of August 4, 1942, ch. 547][/us/act/1942-08-04/ch547/s12], [56 Stat. 738][/us/stat/56/738], and thereby removed the only consequences of the proviso. The words “[section 6023(b) of this title][/us/usc/t10/s6023/b]” are substituted for the words “law for designation or appointment as naval aviators” to provide specific reference to those requirements. The words “and designated a naval aviator” are added for clarity and to authorize specifically the designation, which is implied in [34 U.S.C. 850f][/us/usc/t34/s850f].
+    In subsection (a) the proviso is omitted as unnecessary. [Section 1 of the Act of April 28, 1950, ch. 120][/us/act/1950-04-28/ch120/s1], [64 Stat. 90][/us/stat/64/90], terminated service credit for lump-sum payments granted under § 12 of the [Act of August 4, 1942, ch. 547][/us/act/1942-08-04/ch547], [56 Stat. 738][/us/stat/56/738], and thereby removed the only consequences of the proviso. The words “[section 6023(b) of this title][/us/usc/t10/s6023/b]” are substituted for the words “law for designation or appointment as naval aviators” to provide specific reference to those requirements. The words “and designated a naval aviator” are added for clarity and to authorize specifically the designation, which is implied in [34 U.S.C. 850f][/us/usc/t34/s850f].
 
  __Amendments__ 
 
@@ -103,13 +103,13 @@ Aug. 4, 1942, ch. 547, § 8, 56 Stat. 738.  </td>
 [/us/usc/t10/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2003
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F427
-[/us/pl/96/513/s513/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F20
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2932
-[/us/pl/109/163/s515/b/1/O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FO
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3233
 [/us/act/1950-04-28/ch120/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-28%2Fch120%2Fs1
 [/us/stat/64/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F90
-[/us/act/1942-08-04/ch547/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-08-04%2Fch547%2Fs12
+[/us/act/1942-08-04/ch547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-08-04%2Fch547
 [/us/stat/56/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F738
 [/us/usc/t10/s6023/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6023%2Fb
 [/us/usc/t34/s850f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs850f

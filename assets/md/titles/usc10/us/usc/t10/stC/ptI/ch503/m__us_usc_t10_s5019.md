@@ -19,7 +19,7 @@
 
     (b) The General Counsel shall perform such functions as the Secretary of the Navy may prescribe.
 
-(Added [Pub. L. 99–433, title V, § 511(c)(4)][/us/pl/99/433/s511/c/4], Oct. 1, 1986, [100 Stat. 1047][/us/stat/100/1047]; amended [Pub. L. 100–456, div. A, title VII, § 703(a)][/us/pl/100/456/s703/a], Sept. 29, 1988, [102 Stat. 1996][/us/stat/102/1996].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 511(c)(4), Oct. 1, 1986, [100 Stat. 1047][/us/stat/100/1047]; amended [Pub. L. 100–456, div. A, title VII][/us/pl/100/456/dA/tVII], § 703(a), Sept. 29, 1988, [102 Stat. 1996][/us/stat/102/1996].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/99/433/s511/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fc%2F4
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1047
-[/us/pl/100/456/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs703%2Fa
+[/us/pl/100/456/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVII
 [/us/stat/102/1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1996
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456

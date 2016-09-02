@@ -19,7 +19,7 @@
 
     (b) While serving as Dean of the Faculty, an officer on active duty who holds a grade lower than brigadier general (or the equivalent) shall hold the grade of brigadier general (or the equivalent), if appointed to that grade by the President, by and with the advice and consent of the Senate. The retirement age of an officer so appointed is that of a permanent professor of the Academy. An officer so appointed is counted for purposes of the applicable limitation in [section 526(a) of this title][/us/usc/t10/s526/a] on general officers on active duty.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 562][/us/stat/70A/562]; [Pub. L. 85–861, § 33(a)(46)(A)][/us/pl/85/861/s33/a/46/A], Sept. 2, 1958, [72 Stat. 1567][/us/stat/72/1567]; [Pub. L. 99–661, div. A, title V, § 508(c)][/us/pl/99/661/s508/c], Nov. 14, 1986, [100 Stat. 3867][/us/stat/100/3867]; [Pub. L. 102–484, div. A, title V, § 521(b)][/us/pl/102/484/s521/b], Oct. 23, 1992, [106 Stat. 2409][/us/stat/106/2409]; [Pub. L. 106–65, div. A, title V, § 533(b)][/us/pl/106/65/s533/b], Oct. 5, 1999, [113 Stat. 605][/us/stat/113/605]; [Pub. L. 108–136, div. A, title V, § 529(a)][/us/pl/108/136/s529/a], (b), Nov. 24, 2003, [117 Stat. 1471][/us/stat/117/1471]; [Pub. L. 108–375, div. A, title V, § 542][/us/pl/108/375/s542], Oct. 28, 2004, [118 Stat. 1904][/us/stat/118/1904].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 562][/us/stat/70A/562]; [Pub. L. 85–861][/us/pl/85/861], § 33(a)(46)(A), Sept. 2, 1958, [72 Stat. 1567][/us/stat/72/1567]; [Pub. L. 99–661, div. A, title V][/us/pl/99/661/dA/tV], § 508(c), Nov. 14, 1986, [100 Stat. 3867][/us/stat/100/3867]; [Pub. L. 102–484, div. A, title V][/us/pl/102/484/dA/tV], § 521(b), Oct. 23, 1992, [106 Stat. 2409][/us/stat/106/2409]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 533(b), Oct. 5, 1999, [113 Stat. 605][/us/stat/113/605]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 529(a), (b), Nov. 24, 2003, [117 Stat. 1471][/us/stat/117/1471]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 542, Oct. 28, 2004, [118 Stat. 1904][/us/stat/118/1904].)
 
 <table>
 
@@ -87,9 +87,9 @@ June 26, 1946, ch. 495, § 3 (less 1st 20 words), 60 Stat. 312.  </td>
 
     2004—Subsec. (a). [Pub. L. 108–375][/us/pl/108/375] inserted “, except that a person may not be appointed or assigned as Dean unless that person holds the highest academic degree in that person’s academic field” after “Secretary of the Air Force”.
 
-    2003—Subsec. (a). [Pub. L. 108–136, § 529(a)][/us/pl/108/136/s529/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Dean of the Faculty shall be appointed as an additional permanent professor from the permanent professors who have served as heads of departments of instruction at the Academy.”
+    2003—Subsec. (a). [Pub. L. 108–136][/us/pl/108/136], § 529(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Dean of the Faculty shall be appointed as an additional permanent professor from the permanent professors who have served as heads of departments of instruction at the Academy.”
 
-    Subsec. (b). [Pub. L. 108–136, § 529(b)][/us/pl/108/136/s529/b], in first sentence, substituted “on active duty” for “of the Air Force” and inserted “(or the equivalent)” after “brigadier general” in two places and, in last sentence, inserted “applicable” before “limitation” and struck out “of the Air Force” after “general officers”.
+    Subsec. (b). [Pub. L. 108–136][/us/pl/108/136], § 529(b), in first sentence, substituted “on active duty” for “of the Air Force” and inserted “(or the equivalent)” after “brigadier general” in two places and, in last sentence, inserted “applicable” before “limitation” and struck out “of the Air Force” after “general officers”.
 
     1999—[Pub. L. 106–65][/us/pl/106/65] designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -121,22 +121,22 @@ June 26, 1946, ch. 495, § 3 (less 1st 20 words), 60 Stat. 312.  </td>
 [/us/usc/t10/s526/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs526%2Fa
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F562
-[/us/pl/85/861/s33/a/46/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F46%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1567
-[/us/pl/99/661/s508/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs508%2Fc
+[/us/pl/99/661/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtV
 [/us/stat/100/3867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3867
-[/us/pl/102/484/s521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs521%2Fb
+[/us/pl/102/484/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtV
 [/us/stat/106/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2409
-[/us/pl/106/65/s533/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs533%2Fb
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F605
-[/us/pl/108/136/s529/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs529%2Fa
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1471
-[/us/pl/108/375/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs542
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1904
 [/us/usc/t10/s8012/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8012%2Fe
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/108/136/s529/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs529%2Fa
-[/us/pl/108/136/s529/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs529%2Fb
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661

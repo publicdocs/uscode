@@ -51,11 +51,11 @@
 
  __Prior Provisions__ 
 
-    A prior chapter 85 of this title was repealed by [Pub. L. 102–190, div. A, title X, § 1061(a)(26)(C)(i)][/us/pl/102/190/s1061/a/26/C/i], Dec. 5, 1991, [105 Stat. 1474][/us/stat/105/1474], effective Oct. 1, 1993. Previously, the individual sections of that chapter, sections 1621 to 1624, were repealed by [Pub. L. 101–510, div. A, title XII, § 1207(c)(1)][/us/pl/101/510/s1207/c/1], (3), (4), Nov. 5, 1990, [104 Stat. 1665][/us/stat/104/1665].
+    A prior chapter 85 of this title was repealed by [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1061(a)(26)(C)(i), Dec. 5, 1991, [105 Stat. 1474][/us/stat/105/1474], effective Oct. 1, 1993. Previously, the individual sections of that chapter, sections 1621 to 1624, were repealed by [Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1207(c)(1), (3), (4), Nov. 5, 1990, [104 Stat. 1665][/us/stat/104/1665].
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–201, div. A, title XVI, § 1632(a)(3)][/us/pl/104/201/s1632/a/3], Sept. 23, 1996, [110 Stat. 2745][/us/stat/110/2745], substituted “CIVILIAN DEFENSE INTELLIGENCE EMPLOYEES” for “DEFENSE INTELLIGENCE AGENCY AND CENTRAL IMAGERY OFFICE CIVILIAN PERSONNEL” as chapter heading and added subchapter analysis.
+    1996—[Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1632(a)(3), Sept. 23, 1996, [110 Stat. 2745][/us/stat/110/2745], substituted “CIVILIAN DEFENSE INTELLIGENCE EMPLOYEES” for “DEFENSE INTELLIGENCE AGENCY AND CENTRAL IMAGERY OFFICE CIVILIAN PERSONNEL” as chapter heading and added subchapter analysis.
 
 ----------
 
@@ -64,11 +64,11 @@
 ----------
 ----------
 
-[/us/pl/102/190/s1061/a/26/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fa%2F26%2FC%2Fi
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1474
-[/us/pl/101/510/s1207/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1207%2Fc%2F1
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1665
-[/us/pl/104/201/s1632/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1632%2Fa%2F3
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2745
 
 

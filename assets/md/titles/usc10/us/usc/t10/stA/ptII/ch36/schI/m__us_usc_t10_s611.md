@@ -21,15 +21,15 @@
 
     (c) The convening of selection boards under subsections (a) and (b) shall be under regulations prescribed by the Secretary of Defense.
 
-(Added [Pub. L. 96–513, title I, § 105][/us/pl/96/513/s105], Dec. 12, 1980, [94 Stat. 2851][/us/stat/94/2851]; amended [Pub. L. 97–86, title IV, § 405(b)(1)][/us/pl/97/86/s405/b/1], Dec. 1, 1981, [95 Stat. 1105][/us/stat/95/1105]; [Pub. L. 99–145, title V, § 514(b)(1)][/us/pl/99/145/s514/b/1], Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628]; [Pub. L. 107–107, div. A, title V, § 505(a)(3)][/us/pl/107/107/s505/a/3], Dec. 28, 2001, [115 Stat. 1086][/us/stat/115/1086].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 105, Dec. 12, 1980, [94 Stat. 2851][/us/stat/94/2851]; amended [Pub. L. 97–86, title IV][/us/pl/97/86/tIV], § 405(b)(1), Dec. 1, 1981, [95 Stat. 1105][/us/stat/95/1105]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 514(b)(1), Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628]; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 505(a)(3), Dec. 28, 2001, [115 Stat. 1086][/us/stat/115/1086].)
 
  __Amendments__ 
 
-    2001—Subsec. (a). [Pub. L. 107–107, § 505(a)(3)(A)][/us/pl/107/107/s505/a/3/A], substituted “Whenever the needs of the service require, the Secretary of the military department concerned” for “Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned, whenever the needs of the service require,” and inserted at end “The preceding sentence does not require the convening of a selection board in the case of officers in the permanent grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) when the Secretary concerned recommends for promotion to the next higher grade under [section 624(a)(3) of this title][/us/usc/t10/s624/a/3] all such officers whom the Secretary finds to be fully qualified for promotion.”
+    2001—Subsec. (a). [Pub. L. 107–107][/us/pl/107/107], § 505(a)(3)(A), substituted “Whenever the needs of the service require, the Secretary of the military department concerned” for “Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned, whenever the needs of the service require,” and inserted at end “The preceding sentence does not require the convening of a selection board in the case of officers in the permanent grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) when the Secretary concerned recommends for promotion to the next higher grade under [section 624(a)(3) of this title][/us/usc/t10/s624/a/3] all such officers whom the Secretary finds to be fully qualified for promotion.”
 
-    Subsec. (b). [Pub. L. 107–107, § 505(a)(3)(B)][/us/pl/107/107/s505/a/3/B], substituted “Whenever the needs of the service require, the Secretary of the military department concerned” for “Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned, whenever the needs of the service require,”.
+    Subsec. (b). [Pub. L. 107–107][/us/pl/107/107], § 505(a)(3)(B), substituted “Whenever the needs of the service require, the Secretary of the military department concerned” for “Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned, whenever the needs of the service require,”.
 
-    Subsec. (c). [Pub. L. 107–107, § 505(a)(3)(C)][/us/pl/107/107/s505/a/3/C], added subsec. (c).
+    Subsec. (c). [Pub. L. 107–107][/us/pl/107/107], § 505(a)(3)(C), added subsec. (c).
 
     1985—Subsec. (a). [Pub. L. 99–145][/us/pl/99/145] substituted “rear admiral (lower half)” for “commodore”.
 
@@ -45,7 +45,7 @@
 
  __Transition From Grade of Commodore to Grade of Rear Admiral (Lower Half)__ 
 
-[Pub. L. 99–145, title V, § 514(e)][/us/pl/99/145/s514/e], Nov. 8, 1985, [99 Stat. 630][/us/stat/99/630], provided that:
+[Pub. L. 99–145, title V][/us/pl/99/145/tV], § 514(e), Nov. 8, 1985, [99 Stat. 630][/us/stat/99/630], provided that:
 
 >     “(1) An officer who on the day before the date of the enactment of this Act \[Nov. 8, 1985\] is serving in or has the grade of commodore shall as of the date of the enactment of this Act be serving in or have the grade of rear admiral (lower half).
 
@@ -53,7 +53,7 @@
 
  __Transition Provisions Covering 1980 Amendments by Defense Officer Personnel Management Act \[__  __[__  __Pub. L. 96–513__  __][/us/pl/96/513]__  __\]__ 
 
-Parts A to C of title VI of [Pub. L. 96–513][/us/pl/96/513], Dec. 12, 1980, [94 Stat. 2940][/us/stat/94/2940], as amended by [Pub. L. 97–22, § 8(a)][/us/pl/97/22/s8/a]–(n), July 10, 1981, [95 Stat. 132–135][/us/stat/95/132-135]; [Pub. L. 97–86, title IV, § 405(d)(1)][/us/pl/97/86/s405/d/1], (2)(A), (e), (f), Dec. 1, 1981, [95 Stat. 1106][/us/stat/95/1106], eff. Sept. 15, 1981; [Pub. L. 98–525, title V][/us/pl/98/525], §§ 530–532, Oct. 19, 1984, [98 Stat. 2527][/us/stat/98/2527]; [Pub. L. 100–456, div. A, title V, § 503][/us/pl/100/456/s503], Sept. 29, 1988, [102 Stat. 1967][/us/stat/102/1967], provided that:
+Parts A to C of title VI of [Pub. L. 96–513][/us/pl/96/513], Dec. 12, 1980, [94 Stat. 2940][/us/stat/94/2940], as amended by [Pub. L. 97–22][/us/pl/97/22], § 8(a)–(n), July 10, 1981, [95 Stat. 132–135][/us/stat/95/132-135]; [Pub. L. 97–86, title IV][/us/pl/97/86/tIV], § 405(d)(1), (2)(A), (e), (f), Dec. 1, 1981, [95 Stat. 1106][/us/stat/95/1106], eff. Sept. 15, 1981; [Pub. L. 98–525, title V][/us/pl/98/525/tV], §§ 530–532, Oct. 19, 1984, [98 Stat. 2527][/us/stat/98/2527]; [Pub. L. 100–456, div. A, title V][/us/pl/100/456/dA/tV], § 503, Sept. 29, 1988, [102 Stat. 1967][/us/stat/102/1967], provided that:
 
 > “Part A— __Transition Provisions Relating Only to the Army and Air Force__ 
 
@@ -811,18 +811,18 @@ Parts A to C of title VI of [Pub. L. 96–513][/us/pl/96/513], Dec. 12, 1980, [9
 [/us/usc/t10/s624/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs624%2Fa%2F3
 [/us/usc/t10/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs637
 [/us/usc/t10/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs638
-[/us/pl/96/513/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs105
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2851
-[/us/pl/97/86/s405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs405%2Fb%2F1
+[/us/pl/97/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIV
 [/us/stat/95/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1105
-[/us/pl/99/145/s514/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fb%2F1
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F628
-[/us/pl/107/107/s505/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fa%2F3
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1086
-[/us/pl/107/107/s505/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fa%2F3%2FA
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t10/s624/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs624%2Fa%2F3
-[/us/pl/107/107/s505/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fa%2F3%2FB
-[/us/pl/107/107/s505/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fa%2F3%2FC
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/97/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86
 [/us/pl/97/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86
@@ -830,18 +830,18 @@ Parts A to C of title VI of [Pub. L. 96–513][/us/pl/96/513], Dec. 12, 1980, [9
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/99/145/s514/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fe
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F630
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/stat/94/2940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2940
-[/us/pl/97/22/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs8%2Fa
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/132-135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F132-135
-[/us/pl/97/86/s405/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs405%2Fd%2F1
+[/us/pl/97/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIV
 [/us/stat/95/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1106
-[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtV
 [/us/stat/98/2527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2527
-[/us/pl/100/456/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs503
+[/us/pl/100/456/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtV
 [/us/stat/102/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1967
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101

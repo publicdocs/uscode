@@ -49,7 +49,7 @@
 
     (c) Payments shall be available under this section only to the extent that such payments are not otherwise authorized by law.
 
-(Added [Pub. L. 99–399, title VIII, § 806(d)(1)][/us/pl/99/399/s806/d/1], Aug. 27, 1986, [100 Stat. 888][/us/stat/100/888].)
+(Added [Pub. L. 99–399, title VIII][/us/pl/99/399/tVIII], § 806(d)(1), Aug. 27, 1986, [100 Stat. 888][/us/stat/100/888].)
 
 ----------
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t10/s2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2184
-[/us/pl/99/399/s806/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs806%2Fd%2F1
+[/us/pl/99/399/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVIII
 [/us/stat/100/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F888
 
 

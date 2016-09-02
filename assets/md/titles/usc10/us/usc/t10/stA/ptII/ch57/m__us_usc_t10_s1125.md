@@ -21,7 +21,7 @@
 
     (2) provide badges or buttons in recognition of special service, good conduct, and discharge under conditions other than dishonorable.
 
-(Added [Pub. L. 89–529, § 1(1)][/us/pl/89/529/s1/1], Aug. 11, 1966, [80 Stat. 339][/us/stat/80/339].)
+(Added [Pub. L. 89–529][/us/pl/89/529], § 1(1), Aug. 11, 1966, [80 Stat. 339][/us/stat/80/339].)
 
  __Ex. Ord. No. 11545. Defense Distinguished Service Medal__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/89/529/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F529%2Fs1%2F1
+[/us/pl/89/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F529
 [/us/stat/80/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F339
 
 

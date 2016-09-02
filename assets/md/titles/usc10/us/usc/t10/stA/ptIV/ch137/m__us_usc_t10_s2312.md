@@ -17,7 +17,7 @@
 
     Upon the recommendation of the head of an agency, the Secretary of the Treasury may remit all or part, as he considers just and equitable, of any liquidated damages assessed for delay in performing a contract, made by that agency, that provides for such damages.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 132][/us/stat/70A/132]; [Pub. L. 104–316, title II, § 202(c)][/us/pl/104/316/s202/c], Oct. 19, 1996, [110 Stat. 3842][/us/stat/110/3842].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 132][/us/stat/70A/132]; [Pub. L. 104–316, title II][/us/pl/104/316/tII], § 202(c), Oct. 19, 1996, [110 Stat. 3842][/us/stat/110/3842].)
 
 <table>
 
@@ -78,7 +78,7 @@ Feb. 19, 1948, ch. 65, § 6, 62 Stat. 24.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F132
-[/us/pl/104/316/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fc
+[/us/pl/104/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtII
 [/us/stat/110/3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3842
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 

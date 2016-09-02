@@ -23,7 +23,7 @@
 
     (b) Not more than one Soldier’s Medal may be awarded to a person. However, for each succeeding act that would otherwise justify the award of such a medal, the President may award a suitable bar or other device to be worn as he directs.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 217][/us/stat/70A/217]; [Pub. L. 105–85, div. A, title V, § 574(a)][/us/pl/105/85/s574/a], Nov. 18, 1997, [111 Stat. 1758][/us/stat/111/1758].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 217][/us/stat/70A/217]; [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 574(a), Nov. 18, 1997, [111 Stat. 1758][/us/stat/111/1758].)
 
 <table>
 
@@ -101,7 +101,7 @@ July 2, 1926, ch. 721, § 11, 44 Stat. 789.  </td>
 [/us/usc/t10/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fd
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F217
-[/us/pl/105/85/s574/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs574%2Fa
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1758
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85

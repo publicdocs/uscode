@@ -65,7 +65,7 @@
 
             (B) health benefits contracted for under the authority of [section 1079(a) of this title][/us/usc/t10/s1079/a] and subject to the same rates and conditions as apply to persons covered under that section.
 
-(Added [Pub. L. 108–375, div. A, title VII, § 701(a)(1)][/us/pl/108/375/s701/a/1], Oct. 28, 2004, [118 Stat. 1980][/us/stat/118/1980]; amended [Pub. L. 109–163, div. A, title VII, § 701(a)][/us/pl/109/163/s701/a]–(f)(1), Jan. 6, 2006, [119 Stat. 3339][/us/stat/119/3339], 3340; [Pub. L. 109–364, div. A, title VII][/us/pl/109/364], §§ 704(c), 706(a)–(c), Oct. 17, 2006, [120 Stat. 2280][/us/stat/120/2280], 2282; [Pub. L. 110–181, div. A, title VII, § 701(c)][/us/pl/110/181/s701/c], Jan. 28, 2008, [122 Stat. 188][/us/stat/122/188]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 704(a), Oct. 14, 2008, [122 Stat. 4498][/us/stat/122/4498]; [Pub. L. 111–84, div. A, title X, § 1073(a)(11)][/us/pl/111/84/s1073/a/11], Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473]; [Pub. L. 112–239, div. A, title VII, § 701(a)][/us/pl/112/239/s701/a], Jan. 2, 2013, [126 Stat. 1798][/us/stat/126/1798].)
+(Added [Pub. L. 108–375, div. A, title VII][/us/pl/108/375/dA/tVII], § 701(a)(1), Oct. 28, 2004, [118 Stat. 1980][/us/stat/118/1980]; amended [Pub. L. 109–163, div. A, title VII][/us/pl/109/163/dA/tVII], § 701(a)–(f)(1), Jan. 6, 2006, [119 Stat. 3339][/us/stat/119/3339], 3340; [Pub. L. 109–364, div. A, title VII][/us/pl/109/364/dA/tVII], §§ 704(c), 706(a)–(c), Oct. 17, 2006, [120 Stat. 2280][/us/stat/120/2280], 2282; [Pub. L. 110–181, div. A, title VII][/us/pl/110/181/dA/tVII], § 701(c), Jan. 28, 2008, [122 Stat. 188][/us/stat/122/188]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 704(a), Oct. 14, 2008, [122 Stat. 4498][/us/stat/122/4498]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(11), Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473]; [Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 701(a), Jan. 2, 2013, [126 Stat. 1798][/us/stat/126/1798].)
 
  __References in Text__ 
 
@@ -81,39 +81,39 @@
 
     [Pub. L. 110–181][/us/pl/110/181] substituted “September 30, 2008” for “September 30, 2007”.
 
-    2006—[Pub. L. 109–364, § 706(c)(2)][/us/pl/109/364/s706/c/2], substituted “TRICARE standard coverage for members of the Selected Reserve” for “coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation” in section catchline.
+    2006—[Pub. L. 109–364][/us/pl/109/364], § 706(c)(2), substituted “TRICARE standard coverage for members of the Selected Reserve” for “coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation” in section catchline.
 
-    [Pub. L. 109–163, § 701(f)(1)][/us/pl/109/163/s701/f/1], substituted “active duty in support of a contingency operation” for “active duty” in section catchline.
+    [Pub. L. 109–163][/us/pl/109/163], § 701(f)(1), substituted “active duty in support of a contingency operation” for “active duty” in section catchline.
 
-    Subsec. (a). [Pub. L. 109–364, § 706(a)][/us/pl/109/364/s706/a], designated introductory provisions as par. (1), substituted “Except as provided in paragraph (2), a member” for “A member”, substituted period at end for “after the member completes service on active duty to which the member was called or ordered for a period of more than 30 days on or after September 11, 2001, under a provision of law referred to in section 101(a)(13)(B), if the member—”, added par. (2), and struck out former pars. (1) and (2) which read as follows:
+    Subsec. (a). [Pub. L. 109–364][/us/pl/109/364], § 706(a), designated introductory provisions as par. (1), substituted “Except as provided in paragraph (2), a member” for “A member”, substituted period at end for “after the member completes service on active duty to which the member was called or ordered for a period of more than 30 days on or after September 11, 2001, under a provision of law referred to in section 101(a)(13)(B), if the member—”, added par. (2), and struck out former pars. (1) and (2) which read as follows:
 
     “(1) served continuously on active duty for 90 or more days pursuant to such call or order; and
 
     “(2) not later than 90 days after release from such active-duty service, entered into an agreement with the Secretary concerned to serve continuously in the Selected Reserve for a period of one or more whole years following such date.”
 
-    Subsec. (a)(2). [Pub. L. 109–163, § 701(d)][/us/pl/109/163/s701/d], substituted “not later than 90 days after release” for “on or before the date of the release”.
+    Subsec. (a)(2). [Pub. L. 109–163][/us/pl/109/163], § 701(d), substituted “not later than 90 days after release” for “on or before the date of the release”.
 
-    Subsec. (b). [Pub. L. 109–364, § 706(b)][/us/pl/109/364/s706/b], substituted “Termination of Eligibility Upon Termination of Service” for “Period of Coverage” in heading, struck out “(4)” before “Eligibility”, and struck out pars. (1) to (3) and (5), which related to beginning of period of coverage, length of coverage period, period of coverage in the case of a member recalled to active duty, and coverage for a member of the Individual Ready Reserve.
+    Subsec. (b). [Pub. L. 109–364][/us/pl/109/364], § 706(b), substituted “Termination of Eligibility Upon Termination of Service” for “Period of Coverage” in heading, struck out “(4)” before “Eligibility”, and struck out pars. (1) to (3) and (5), which related to beginning of period of coverage, length of coverage period, period of coverage in the case of a member recalled to active duty, and coverage for a member of the Individual Ready Reserve.
 
-    Subsec. (b)(2). [Pub. L. 109–163, § 701(a)(2)][/us/pl/109/163/s701/a/2], substituted “Subject to paragraph (3) and unless earlier terminated under paragraph (4)” for “Unless earlier terminated under paragraph (3)”.
+    Subsec. (b)(2). [Pub. L. 109–163][/us/pl/109/163], § 701(a)(2), substituted “Subject to paragraph (3) and unless earlier terminated under paragraph (4)” for “Unless earlier terminated under paragraph (3)”.
 
-    Subsec. (b)(3), (4). [Pub. L. 109–163, § 701(a)(1)][/us/pl/109/163/s701/a/1], added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (b)(3), (4). [Pub. L. 109–163][/us/pl/109/163], § 701(a)(1), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (b)(5). [Pub. L. 109–163, § 701(b)][/us/pl/109/163/s701/b], added par. (5).
+    Subsec. (b)(5). [Pub. L. 109–163][/us/pl/109/163], § 701(b), added par. (5).
 
-    Subsec. (c). [Pub. L. 109–163, § 701(c)][/us/pl/109/163/s701/c], inserted at end “If a member of a reserve component dies while in a period of coverage under this section, the eligibility of the members of the immediate family of such member for TRICARE Standard coverage shall continue for six months beyond the date of death of the member.”
+    Subsec. (c). [Pub. L. 109–163][/us/pl/109/163], § 701(c), inserted at end “If a member of a reserve component dies while in a period of coverage under this section, the eligibility of the members of the immediate family of such member for TRICARE Standard coverage shall continue for six months beyond the date of death of the member.”
 
-    Subsec. (d)(3). [Pub. L. 109–364, § 704(c)][/us/pl/109/364/s704/c], inserted at end “During the period beginning on April 1, 2006, and ending on September 30, 2007, the monthly amount of the premium may not be increased above the amount in effect for the month of March 2006.”
+    Subsec. (d)(3). [Pub. L. 109–364][/us/pl/109/364], § 704(c), inserted at end “During the period beginning on April 1, 2006, and ending on September 30, 2007, the monthly amount of the premium may not be increased above the amount in effect for the month of March 2006.”
 
-    Subsec. (e). [Pub. L. 109–364, § 706(c)(1)(A)][/us/pl/109/364/s706/c/1/A], (B), redesignated subsec. (g) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “The service agreement required of a member of a reserve component under subsection (a)(2) is separate from any other form of commitment of the member to a period of obligated service in that reserve component and may cover any part or all of the same period that is covered by another commitment of the member to a period of obligated service in that reserve component.”.
+    Subsec. (e). [Pub. L. 109–364][/us/pl/109/364], § 706(c)(1)(A), (B), redesignated subsec. (g) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “The service agreement required of a member of a reserve component under subsection (a)(2) is separate from any other form of commitment of the member to a period of obligated service in that reserve component and may cover any part or all of the same period that is covered by another commitment of the member to a period of obligated service in that reserve component.”.
 
-    Subsec. (f)(2). [Pub. L. 109–163, § 701(e)][/us/pl/109/163/s701/e], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘TRICARE Standard’ means the Civilian Health and Medical Program of the Uniformed Services option under the TRICARE program.”
+    Subsec. (f)(2). [Pub. L. 109–163][/us/pl/109/163], § 701(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘TRICARE Standard’ means the Civilian Health and Medical Program of the Uniformed Services option under the TRICARE program.”
 
-    Subsec. (f)(3). [Pub. L. 109–364, § 706(c)(1)(C)][/us/pl/109/364/s706/c/1/C], struck out par. (3) which read as follows: “The term ‘member recalled to active duty’ means, with respect to a member who is eligible for coverage under this section based on a period of active duty service, a member who is called or ordered to active duty for an additional period of active duty subsequent to the period of active duty on which that eligibility is based.”
+    Subsec. (f)(3). [Pub. L. 109–364][/us/pl/109/364], § 706(c)(1)(C), struck out par. (3) which read as follows: “The term ‘member recalled to active duty’ means, with respect to a member who is eligible for coverage under this section based on a period of active duty service, a member who is called or ordered to active duty for an additional period of active duty subsequent to the period of active duty on which that eligibility is based.”
 
-    [Pub. L. 109–163, § 701(a)(3)][/us/pl/109/163/s701/a/3], added par. (3).
+    [Pub. L. 109–163][/us/pl/109/163], § 701(a)(3), added par. (3).
 
-    Subsec. (g). [Pub. L. 109–364, § 706(c)(1)(B)][/us/pl/109/364/s706/c/1/B], redesignated subsec. (g) as (e).
+    Subsec. (g). [Pub. L. 109–364][/us/pl/109/364], § 706(c)(1)(B), redesignated subsec. (g) as (e).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -123,19 +123,19 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–364, div. A, title VII, § 706(g)][/us/pl/109/364/s706/g], Oct. 17, 2006, [120 Stat. 2282][/us/stat/120/2282], provided that: 
+[Pub. L. 109–364, div. A, title VII][/us/pl/109/364/dA/tVII], § 706(g), Oct. 17, 2006, [120 Stat. 2282][/us/stat/120/2282], provided that: 
 
 > “The Secretary of Defense shall ensure that health care under TRICARE Standard is provided under [section 1076d of title 10][/us/usc/t10/s1076d], United States Code, as amended by this section, beginning not later than October 1, 2007.”
 
  __Savings Provision__ 
 
-[Pub. L. 109–364, div. A, title VII, § 706(f)][/us/pl/109/364/s706/f], Oct. 17, 2006, [120 Stat. 2282][/us/stat/120/2282], as amended by [Pub. L. 110–181, div. A, title VII, § 706(a)][/us/pl/110/181/s706/a], Jan. 28, 2008, [122 Stat. 189][/us/stat/122/189], provided that:
+[Pub. L. 109–364, div. A, title VII][/us/pl/109/364/dA/tVII], § 706(f), Oct. 17, 2006, [120 Stat. 2282][/us/stat/120/2282], as amended by [Pub. L. 110–181, div. A, title VII][/us/pl/110/181/dA/tVII], § 706(a), Jan. 28, 2008, [122 Stat. 189][/us/stat/122/189], provided that:
 
 >     “(1) Except as provided in paragraph (2), enrollments in TRICARE Standard that are in effect on the day before the date of the enactment of this Act \[Oct. 17, 2006\] under [section 1076d of title 10][/us/usc/t10/s1076d], United States Code, as in effect on such day, shall be continued until terminated after such day under such section 1076d as amended by this section.
 
 >     “(2) The enrollment of a member in TRICARE Standard that is in effect on the day before health care under TRICARE Standard is provided pursuant to the effective date in subsection (g) \[set out as an Effective Date of 2006 Amendment note above\] shall not be terminated by operation of the exclusion of eligibility under subsection (a)(2) of such section 1076d, as so amended, for the duration of the eligibility of the member under TRICARE Standard as in effect on October 16, 2006.”
 
-\[[Pub. L. 110–181, div. A, title VII, § 706(b)][/us/pl/110/181/s706/b], Jan. 28, 2008, [122 Stat. 189][/us/stat/122/189], provided that: 
+\[[Pub. L. 110–181, div. A, title VII][/us/pl/110/181/dA/tVII], § 706(b), Jan. 28, 2008, [122 Stat. 189][/us/stat/122/189], provided that: 
 
 > “The amendments made by subsection (a) \[amending [section 706(f) of Pub. L. 109–364][/us/pl/109/364/s706/f], set out above\] shall take effect on October 1, 2007.”
 
@@ -149,7 +149,7 @@
 
  __Implementation__ 
 
-[Pub. L. 108–375, div. A, title VII, § 701(b)][/us/pl/108/375/s701/b], Oct. 28, 2004, [118 Stat. 1981][/us/stat/118/1981], provided that:
+[Pub. L. 108–375, div. A, title VII][/us/pl/108/375/dA/tVII], § 701(b), Oct. 28, 2004, [118 Stat. 1981][/us/stat/118/1981], provided that:
 
 >     “(1) The Secretary of Defense shall implement [section 1076d of title 10][/us/usc/t10/s1076d], United States Code, not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2004\].
 
@@ -177,57 +177,57 @@
 [/us/usc/t10/s1072/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2
 [/us/usc/t10/s1076/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076%2Fa%2F2
 [/us/usc/t10/s1079/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079%2Fa
-[/us/pl/108/375/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs701%2Fa%2F1
+[/us/pl/108/375/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVII
 [/us/stat/118/1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1980
-[/us/pl/109/163/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs701%2Fa
+[/us/pl/109/163/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVII
 [/us/stat/119/3339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3339
-[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVII
 [/us/stat/120/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2280
-[/us/pl/110/181/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs701%2Fc
+[/us/pl/110/181/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVII
 [/us/stat/122/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F188
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4498
-[/us/pl/111/84/s1073/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F11
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2473
-[/us/pl/112/239/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs701%2Fa
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1798
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/109/364/s706/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs706%2Fc%2F2
-[/us/pl/109/163/s701/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs701%2Ff%2F1
-[/us/pl/109/364/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs706%2Fa
-[/us/pl/109/163/s701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs701%2Fd
-[/us/pl/109/364/s706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs706%2Fb
-[/us/pl/109/163/s701/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs701%2Fa%2F2
-[/us/pl/109/163/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs701%2Fa%2F1
-[/us/pl/109/163/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs701%2Fb
-[/us/pl/109/163/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs701%2Fc
-[/us/pl/109/364/s704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs704%2Fc
-[/us/pl/109/364/s706/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs706%2Fc%2F1%2FA
-[/us/pl/109/163/s701/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs701%2Fe
-[/us/pl/109/364/s706/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs706%2Fc%2F1%2FC
-[/us/pl/109/163/s701/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs701%2Fa%2F3
-[/us/pl/109/364/s706/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs706%2Fc%2F1%2FB
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4499
-[/us/pl/109/364/s706/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs706%2Fg
+[/us/pl/109/364/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVII
 [/us/stat/120/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2282
 [/us/usc/t10/s1076d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076d
-[/us/pl/109/364/s706/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs706%2Ff
+[/us/pl/109/364/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVII
 [/us/stat/120/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2282
-[/us/pl/110/181/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs706%2Fa
+[/us/pl/110/181/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVII
 [/us/stat/122/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F189
 [/us/usc/t10/s1076d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076d
-[/us/pl/110/181/s706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs706%2Fb
+[/us/pl/110/181/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVII
 [/us/stat/122/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F189
 [/us/pl/109/364/s706/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs706%2Ff
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4499
 [/us/usc/t10/s1076d/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076d%2Fd%2F3
-[/us/pl/108/375/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs701%2Fb
+[/us/pl/108/375/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVII
 [/us/stat/118/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1981
 [/us/usc/t10/s1076d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076d
 [/us/usc/t10/s1076d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076d

@@ -17,7 +17,7 @@
 
     A retired officer has no right to command except when on active duty.
 
-(Added [Pub. L. 96–513, title I, § 108][/us/pl/96/513/s108], Dec. 12, 1980, [94 Stat. 2870][/us/stat/94/2870].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 108, Dec. 12, 1980, [94 Stat. 2870][/us/stat/94/2870].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/513/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs108
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2870
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101

@@ -43,11 +43,11 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–375, div. A, title X, § 1072(d)(2)][/us/pl/108/375/s1072/d/2], Oct. 28, 2004, [118 Stat. 2058][/us/stat/118/2058], struck out items 4741 “Control and supervision”, 4743 “Officers: use of transportation”, 4744 “Persons and supplies: sea transportation”, 4745 “Civilian passengers and commercial cargoes: transports in trans-Atlantic service”, 4746 “Civilian personnel in Alaska”, and 4747 “Passengers and merchandise to Guam: sea transport”.
+    2004—[Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1072(d)(2), Oct. 28, 2004, [118 Stat. 2058][/us/stat/118/2058], struck out items 4741 “Control and supervision”, 4743 “Officers: use of transportation”, 4744 “Persons and supplies: sea transportation”, 4745 “Civilian passengers and commercial cargoes: transports in trans-Atlantic service”, 4746 “Civilian personnel in Alaska”, and 4747 “Passengers and merchandise to Guam: sea transport”.
 
-    1996—[Pub. L. 104–201, div. A, title IX, § 906(d)(2)][/us/pl/104/201/s906/d/2], Sept. 23, 1996, [110 Stat. 2620][/us/stat/110/2620], struck out item 4742 “Control of transportation systems in time of war”.
+    1996—[Pub. L. 104–201, div. A, title IX][/us/pl/104/201/dA/tIX], § 906(d)(2), Sept. 23, 1996, [110 Stat. 2620][/us/stat/110/2620], struck out item 4742 “Control of transportation systems in time of war”.
 
-    1962—[Pub. L. 87–651, title I, § 119(2)][/us/pl/87/651/s119/2], Sept. 7, 1962, [76 Stat. 513][/us/stat/76/513], struck out item 4748 “Motor vehicles: for members on permanent change of station”.
+    1962—[Pub. L. 87–651, title I][/us/pl/87/651/tI], § 119(2), Sept. 7, 1962, [76 Stat. 513][/us/stat/76/513], struck out item 4748 “Motor vehicles: for members on permanent change of station”.
 
 ----------
 
@@ -56,11 +56,11 @@
 ----------
 ----------
 
-[/us/pl/108/375/s1072/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1072%2Fd%2F2
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2058
-[/us/pl/104/201/s906/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs906%2Fd%2F2
+[/us/pl/104/201/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIX
 [/us/stat/110/2620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2620
-[/us/pl/87/651/s119/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs119%2F2
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F513
 
 

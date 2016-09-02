@@ -23,7 +23,7 @@
 
     The assistance authorized by this section should be directed primarily toward providing needed family support, including child care, education, and other youth services, for children of members of the armed forces who are deployed, assigned to duty, or ordered to active duty in connection with a contingency operation.
 
-(Added [Pub. L. 107–314, div. A, title VI, § 652(a)(1)][/us/pl/107/314/s652/a/1], Dec. 2, 2002, [116 Stat. 2581][/us/stat/116/2581]; amended [Pub. L. 111–383, div. A, title X, § 1075(b)(25)][/us/pl/111/383/s1075/b/25], Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370].)
+(Added [Pub. L. 107–314, div. A, title VI][/us/pl/107/314/dA/tVI], § 652(a)(1), Dec. 2, 2002, [116 Stat. 2581][/us/stat/116/2581]; amended [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(25), Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370].)
 
  __Amendments__ 
 
@@ -31,13 +31,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 107–314, div. A, title VI, § 652(b)][/us/pl/107/314/s652/b], Dec. 2, 2002, [116 Stat. 2581][/us/stat/116/2581], provided that: 
+[Pub. L. 107–314, div. A, title VI][/us/pl/107/314/dA/tVI], § 652(b), Dec. 2, 2002, [116 Stat. 2581][/us/stat/116/2581], provided that: 
 
 > “[Section 1788 of title 10][/us/usc/t10/s1788], United States Code, as added by subsection (a), shall take effect on October 1, 2002.”
 
  __Family Support Programs for Immediate Family Members of Members of the Armed Forces Assigned to Special Operations Forces__ 
 
-[Pub. L. 113–66, div. A, title V, § 554][/us/pl/113/66/s554], Dec. 26, 2013, [127 Stat. 765][/us/stat/127/765], as amended by [Pub. L. 114–92, div. A, title V, § 574][/us/pl/114/92/s574], Nov. 25, 2015, [129 Stat. 831][/us/stat/129/831], provided that:
+[Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 554, Dec. 26, 2013, [127 Stat. 765][/us/stat/127/765], as amended by [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 574, Nov. 25, 2015, [129 Stat. 831][/us/stat/129/831], provided that:
 
 >     “(a)  __Pilot Programs Authorized__  __.—__ 
 
@@ -95,7 +95,7 @@
 
  __Pilot Program on Parent Education To Promote Early Childhood Education for Dependent Children Affected by Military Deployment or Relocation of Military Units__ 
 
-[Pub. L. 109–364, div. A, title V, § 575][/us/pl/109/364/s575], Oct. 17, 2006, [120 Stat. 2227][/us/stat/120/2227], provided that:
+[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 575, Oct. 17, 2006, [120 Stat. 2227][/us/stat/120/2227], provided that:
 
 >     “(a)  __Pilot Program Authorized__  __.—__ 
 
@@ -160,20 +160,20 @@
 ----------
 ----------
 
-[/us/pl/107/314/s652/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs652%2Fa%2F1
+[/us/pl/107/314/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVI
 [/us/stat/116/2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2581
-[/us/pl/111/383/s1075/b/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F25
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4370
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/107/314/s652/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs652%2Fb
+[/us/pl/107/314/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVI
 [/us/stat/116/2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2581
 [/us/usc/t10/s1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1788
-[/us/pl/113/66/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs554
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F765
-[/us/pl/114/92/s574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs574
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F831
 [/us/usc/t10/s1789/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1789%2Fc
-[/us/pl/109/364/s575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs575
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2227
 
 

@@ -25,7 +25,7 @@
 
         (2) the disability was incurred during a period of unauthorized absence.
 
-(Added [Pub. L. 106–65, div. A, title VI, § 653(b)(1)][/us/pl/106/65/s653/b/1], Oct. 5, 1999, [113 Stat. 666][/us/stat/113/666].)
+(Added [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 653(b)(1), Oct. 5, 1999, [113 Stat. 666][/us/stat/113/666].)
 
 ----------
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t10/s12731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12731
 [/us/usc/t10/s12732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12732
-[/us/pl/106/65/s653/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs653%2Fb%2F1
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F666
 
 

@@ -17,7 +17,7 @@
 
     That part of the retired pay of a member of an armed force, computed under formula No. 1 or 2 of section 1401, or under section 1402(d) or 1402a(d) of this title on the basis of years of service, which exceeds the retired pay that he would receive if it were computed on the basis of percentage of disability is not considered as a pension, annuity, or similar allowance for personal injury, or sickness, resulting from active service in the armed forces, under section 104(a) of the Internal Revenue Code of 1986.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 108][/us/stat/70A/108]; [Pub. L. 96–342, title VIII, § 813(b)(3)(C)][/us/pl/96/342/s813/b/3/C], Sept. 8, 1980, [94 Stat. 1104][/us/stat/94/1104]; [Pub. L. 96–513, title V, § 511(52)(A)][/us/pl/96/513/s511/52/A], (B), Dec. 12, 1980, [94 Stat. 2925][/us/stat/94/2925]; [Pub. L. 100–26, § 7(h)(1)][/us/pl/100/26/s7/h/1], (2)(A), Apr. 21, 1987, [101 Stat. 282][/us/stat/101/282].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 108][/us/stat/70A/108]; [Pub. L. 96–342, title VIII][/us/pl/96/342/tVIII], § 813(b)(3)(C), Sept. 8, 1980, [94 Stat. 1104][/us/stat/94/1104]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(52)(A), (B), Dec. 12, 1980, [94 Stat. 2925][/us/stat/94/2925]; [Pub. L. 100–26][/us/pl/100/26], § 7(h)(1), (2)(A), Apr. 21, 1987, [101 Stat. 282][/us/stat/101/282].)
 
 <table>
 
@@ -88,11 +88,11 @@ Oct. 12, 1949, ch. 681, § 402(h), 63 Stat. 820.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F108
-[/us/pl/96/342/s813/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs813%2Fb%2F3%2FC
+[/us/pl/96/342/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtVIII
 [/us/stat/94/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1104
-[/us/pl/96/513/s511/52/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F52%2FA
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2925
-[/us/pl/100/26/s7/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fh%2F1
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F282
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

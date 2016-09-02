@@ -17,7 +17,7 @@
 
     When the Secretary of the Navy decides that an expenditure by the Department of the Navy from an appropriation for obtaining information from anywhere in the world may be made public, the expenditure shall be accounted for specifically. When the Secretary decides that an expenditure should not be made public, the Secretary shall make a certificate on the amount of the expenditure. The certificate is a sufficient voucher for the amount stated to have been spent.
 
-(Added [Pub. L. 97–258, § 2(b)(11)(B)][/us/pl/97/258/s2/b/11/B], Sept. 13, 1982, [96 Stat. 1057][/us/stat/96/1057].)
+(Added [Pub. L. 97–258][/us/pl/97/258], § 2(b)(11)(B), Sept. 13, 1982, [96 Stat. 1057][/us/stat/96/1057].)
 
 <table>
 
@@ -72,7 +72,7 @@ Aug. 29, 1916, ch. 417 (2d proviso under heading “Pay, Miscellaneous”), 39 S
 ----------
 ----------
 
-[/us/pl/97/258/s2/b/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F11%2FB
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1057
 
 

@@ -39,7 +39,7 @@
 
         (2) The term “dependent” has the meaning given that term in section 551 of that title.
 
-(Added [Pub. L. 99–399, title VIII, § 806(c)(1)][/us/pl/99/399/s806/c/1], Aug. 27, 1986, [100 Stat. 886][/us/stat/100/886], § 1095; renumbered § 1095a, [Pub. L. 100–26, § 7(e)(2)][/us/pl/100/26/s7/e/2], Apr. 21, 1987, [101 Stat. 281][/us/stat/101/281]; amended [Pub. L. 100–526, title I, § 106(b)(1)][/us/pl/100/526/s106/b/1], Oct. 24, 1988, [102 Stat. 2625][/us/stat/102/2625].)
+(Added [Pub. L. 99–399, title VIII][/us/pl/99/399/tVIII], § 806(c)(1), Aug. 27, 1986, [100 Stat. 886][/us/stat/100/886], § 1095; renumbered § 1095a, [Pub. L. 100–26][/us/pl/100/26], § 7(e)(2), Apr. 21, 1987, [101 Stat. 281][/us/stat/101/281]; amended [Pub. L. 100–526, title I][/us/pl/100/526/tI], § 106(b)(1), Oct. 24, 1988, [102 Stat. 2625][/us/stat/102/2625].)
 
  __Amendments__ 
 
@@ -47,7 +47,7 @@
 
  __Effective Date; Regulations__ 
 
-[Pub. L. 99–399, title VIII, § 806(c)(3)][/us/pl/99/399/s806/c/3], Aug. 27, 1986, [100 Stat. 886][/us/stat/100/886], provided that:
+[Pub. L. 99–399, title VIII][/us/pl/99/399/tVIII], § 806(c)(3), Aug. 27, 1986, [100 Stat. 886][/us/stat/100/886], provided that:
 
 >     “(A) Section 1095 \[now 1095a\] of title 10, United States Code, as added by paragraph (1), shall apply with respect to any person whose captive status begins after January 21, 1981.
 
@@ -65,14 +65,14 @@
 ----------
 
 [/us/usc/t37/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs559
-[/us/pl/99/399/s806/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs806%2Fc%2F1
+[/us/pl/99/399/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVIII
 [/us/stat/100/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F886
-[/us/pl/100/26/s7/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fe%2F2
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F281
-[/us/pl/100/526/s106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F526%2Fs106%2Fb%2F1
+[/us/pl/100/526/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F526%2FtI
 [/us/stat/102/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2625
 [/us/pl/100/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F526
-[/us/pl/99/399/s806/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs806%2Fc%2F3
+[/us/pl/99/399/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVIII
 [/us/stat/100/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F886
 [/us/usc/t5/s5569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5569
 

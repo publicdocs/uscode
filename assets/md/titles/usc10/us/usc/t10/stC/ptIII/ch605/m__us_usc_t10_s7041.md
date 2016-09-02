@@ -23,7 +23,7 @@
 
     (3) the integration of naval operations and systems into joint, combined, and multinational operations.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 437][/us/stat/70A/437]; [Pub. L. 109–163, div. A, title V, § 523(a)][/us/pl/109/163/s523/a], Jan. 6, 2006, [119 Stat. 3244][/us/stat/119/3244].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 437][/us/stat/70A/437]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 523(a), Jan. 6, 2006, [119 Stat. 3244][/us/stat/119/3244].)
 
 <table>
 
@@ -84,7 +84,7 @@ July 31, 1947, ch. 420, § 1, 61 Stat. 705.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F437
-[/us/pl/109/163/s523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs523%2Fa
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3244
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 

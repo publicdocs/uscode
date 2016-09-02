@@ -37,7 +37,7 @@
 
             (B) The Secretary of Defense shall prescribe the procedures for initiating and determining appeals of adverse actions pursuant to elections made under subparagraph (A).
 
-(Added [Pub. L. 104–201, div. A, title XVI, § 1632(d)][/us/pl/104/201/s1632/d], Sept. 23, 1996, [110 Stat. 2750][/us/stat/110/2750].)
+(Added [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1632(d), Sept. 23, 1996, [110 Stat. 2750][/us/stat/110/2750].)
 
  __Effective Date__ 
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t5/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2301
 [/us/usc/t10/s1601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1601%2Fa%2F1
-[/us/pl/104/201/s1632/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1632%2Fd
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2750
 [/us/pl/104/201/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1635
 [/us/usc/t10/s1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1593

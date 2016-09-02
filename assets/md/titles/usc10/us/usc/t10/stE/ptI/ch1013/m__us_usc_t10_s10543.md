@@ -41,7 +41,7 @@
 
         (3) A report required under paragraph (1) for a fiscal year shall be submitted not later than 90 days after the date on which the President submits to Congress the budget for such fiscal year under [section 1105(a) of title 31][/us/usc/t31/s1105/a].
 
-(Added [Pub. L. 104–201, div. A, title XII, § 1257(a)(1)][/us/pl/104/201/s1257/a/1], Sept. 23, 1996, [110 Stat. 2699][/us/stat/110/2699]; amended [Pub. L. 105–85, div. A, title X, § 1009(a)][/us/pl/105/85/s1009/a], Nov. 18, 1997, [111 Stat. 1872][/us/stat/111/1872]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 931\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–237; [Pub. L. 112–81, div. A, title X, § 1064(11)][/us/pl/112/81/s1064/11], Dec. 31, 2011, [125 Stat. 1587][/us/stat/125/1587].)
+(Added [Pub. L. 104–201, div. A, title XII][/us/pl/104/201/dA/tXII], § 1257(a)(1), Sept. 23, 1996, [110 Stat. 2699][/us/stat/110/2699]; amended [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1009(a), Nov. 18, 1997, [111 Stat. 1872][/us/stat/111/1872]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 931\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–237; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1064(11), Dec. 31, 2011, [125 Stat. 1587][/us/stat/125/1587].)
 
  __Amendments__ 
 
@@ -53,13 +53,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–201, div. A, title XII, § 1257(b)][/us/pl/104/201/s1257/b], Sept. 23, 1996, [110 Stat. 2699][/us/stat/110/2699], provided that: 
+[Pub. L. 104–201, div. A, title XII][/us/pl/104/201/dA/tXII], § 1257(b), Sept. 23, 1996, [110 Stat. 2699][/us/stat/110/2699], provided that: 
 
 > “[Section 10543 of title 10][/us/usc/t10/s10543], United States Code, as added by subsection (a), shall apply with respect to each future-years defense program submitted to Congress after the date of the enactment of this Act \[Sept. 23, 1996\].”
 
  __Required Level of Detail__ 
 
-[Pub. L. 105–85, div. A, title X, § 1009(b)][/us/pl/105/85/s1009/b], Nov. 18, 1997, [111 Stat. 1872][/us/stat/111/1872], provided that: 
+[Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1009(b), Nov. 18, 1997, [111 Stat. 1872][/us/stat/111/1872], provided that: 
 
 > “The level of detail provided for procurement and military construction in the future-years defense programs for fiscal years after fiscal year 1998 may not be less than the level of detail provided for procurement and military construction in the future-years defense program for fiscal year 1998.”
 
@@ -72,21 +72,21 @@
 
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/104/201/s1257/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1257%2Fa%2F1
+[/us/pl/104/201/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXII
 [/us/stat/110/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2699
-[/us/pl/105/85/s1009/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1009%2Fa
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1872
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/112/81/s1064/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1064%2F11
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1587
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/104/201/s1257/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1257%2Fb
+[/us/pl/104/201/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXII
 [/us/stat/110/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2699
 [/us/usc/t10/s10543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10543
-[/us/pl/105/85/s1009/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1009%2Fb
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1872
 
 

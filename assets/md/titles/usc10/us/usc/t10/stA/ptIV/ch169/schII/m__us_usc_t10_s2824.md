@@ -23,7 +23,7 @@
 
     (d) Family housing units may not be acquired under this section through the exercise of eminent domain authority.
 
-(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 159][/us/stat/96/159]; amended [Pub. L. 104–106, div. B, title XXVIII, § 2813][/us/pl/104/106/s2813], Feb. 10, 1996, [110 Stat. 553][/us/stat/110/553]; [Pub. L. 104–201, div. A, title X, § 1074(a)(17)][/us/pl/104/201/s1074/a/17], Sept. 23, 1996, [110 Stat. 2659][/us/stat/110/2659].)
+(Added [Pub. L. 97–214][/us/pl/97/214], § 2(a), July 12, 1982, [96 Stat. 159][/us/stat/96/159]; amended [Pub. L. 104–106, div. B, title XXVIII][/us/pl/104/106/dB/tXXVIII], § 2813, Feb. 10, 1996, [110 Stat. 553][/us/stat/110/553]; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1074(a)(17), Sept. 23, 1996, [110 Stat. 2659][/us/stat/110/2659].)
 
  __Amendments__ 
 
@@ -43,11 +43,11 @@
 ----------
 
 [/us/usc/t10/s2826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2826
-[/us/pl/97/214/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs2%2Fa
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F159
-[/us/pl/104/106/s2813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2813
+[/us/pl/104/106/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdB%2FtXXVIII
 [/us/stat/110/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F553
-[/us/pl/104/201/s1074/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fa%2F17
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2659
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106

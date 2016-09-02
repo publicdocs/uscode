@@ -1573,11 +1573,11 @@
 
     In this section, the term “full-time reserve component duty” has the meaning given the term in [section 12011(e) of this title][/us/usc/t10/s12011/e].
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1662(a)(1)][/us/pl/103/337/s1662/a/1], Oct. 5, 1994, [108 Stat. 2987][/us/stat/108/2987]; amended [Pub. L. 104–106, div. A, title IV, § 414(b)][/us/pl/104/106/s414/b], title XV, § 1501(b)(10), Feb. 10, 1996, [110 Stat. 288][/us/stat/110/288], 496; [Pub. L. 105–261, div. A, title IV, § 414(b)][/us/pl/105/261/s414/b], Oct. 17, 1998, [112 Stat. 1998][/us/stat/112/1998]; [Pub. L. 106–65, div. A, title IV, § 414(b)][/us/pl/106/65/s414/b], Oct. 5, 1999, [113 Stat. 586][/us/stat/113/586]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IV, §§ 415(b), 421(c), 424(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–94 to 1654A–96; [Pub. L. 107–107, div. A, title IV, § 415(b)][/us/pl/107/107/s415/b], Dec. 28, 2001, [115 Stat. 1073][/us/stat/115/1073]; [Pub. L. 108–375, div. A, title X, § 1084(d)(34)][/us/pl/108/375/s1084/d/34], Oct. 28, 2004, [118 Stat. 2063][/us/stat/118/2063]; [Pub. L. 109–163, div. A, title V, § 515(b)(1)(II)][/us/pl/109/163/s515/b/1/II], Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 512(c), Oct. 14, 2008, [122 Stat. 4440][/us/stat/122/4440].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(a)(1), Oct. 5, 1994, [108 Stat. 2987][/us/stat/108/2987]; amended [Pub. L. 104–106, div. A, title IV][/us/pl/104/106/dA/tIV], § 414(b), title XV, § 1501(b)(10), Feb. 10, 1996, [110 Stat. 288][/us/stat/110/288], 496; [Pub. L. 105–261, div. A, title IV][/us/pl/105/261/dA/tIV], § 414(b), Oct. 17, 1998, [112 Stat. 1998][/us/stat/112/1998]; [Pub. L. 106–65, div. A, title IV][/us/pl/106/65/dA/tIV], § 414(b), Oct. 5, 1999, [113 Stat. 586][/us/stat/113/586]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IV, §§ 415(b), 421(c), 424(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–94 to 1654A–96; [Pub. L. 107–107, div. A, title IV][/us/pl/107/107/dA/tIV], § 415(b), Dec. 28, 2001, [115 Stat. 1073][/us/stat/115/1073]; [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(d)(34), Oct. 28, 2004, [118 Stat. 2063][/us/stat/118/2063]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(II), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 512(c), Oct. 14, 2008, [122 Stat. 4440][/us/stat/122/4440].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in section 517(b), (c) of this title, prior to amendment by [Pub. L. 103–337, § 1662(a)(4)][/us/pl/103/337/s1662/a/4].
+    Provisions similar to those in this section were contained in section 517(b), (c) of this title, prior to amendment by [Pub. L. 103–337][/us/pl/103/337], § 1662(a)(4).
 
  __Amendments__ 
 
@@ -1597,19 +1597,19 @@
 
     Subsec. (e). [Pub. L. 107–107][/us/pl/107/107] added subsec. (e).
 
-    2000—Subsec. (a). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IV, § 415(b)\], amended table generally, increasing the fiscal year limitation on number of enlisted members in the Army in grade of E–9 from 645 to 764 and in grade of E–8 from 2,593 to 2,821, and in the Air Force in grade of E–9 from 405 to 502 and in grade of E–8 from 1,041 to 1,117.
+    2000—Subsec. (a). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IV, § 415(b)\], amended table generally, increasing the fiscal year limitation on number of enlisted members in the Army in grade of E–9 from 645 to 764 and in grade of E–8 from 2,593 to 2,821, and in the Air Force in grade of E–9 from 405 to 502 and in grade of E–8 from 1,041 to 1,117.
 
-    Subsec. (c). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IV, § 421(c)\], added subsec. (c).
+    Subsec. (c). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IV, § 421(c)\], added subsec. (c).
 
-    Subsec. (d). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IV, § 424(b)\], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IV, § 424(b)\], added subsec. (d).
 
     1999—Subsec. (a). [Pub. L. 106–65][/us/pl/106/65] amended table generally, increasing the fiscal year limitation on number of enlisted members in the Army in grade of E–9 from 623 to 645 and in grade of E–8 from 2,585 to 2,593, and in the Air Force in grade of E–9 from 395 to 405 and in grade of E–8 from 997 to 1,041.
 
     1998—Subsec. (a). [Pub. L. 105–261][/us/pl/105/261], in table, in grade E–9 increased figure for Army from 603 to 623 and for Air Force from 366 to 395, and in grade E–8 increased figure for Air Force from 890 to 997.
 
-    1996—[Pub. L. 104–106, § 1501(b)(10)][/us/pl/104/106/s1501/b/10], substituted “the National” for “National” in section catchline.
+    1996—[Pub. L. 104–106][/us/pl/104/106], § 1501(b)(10), substituted “the National” for “National” in section catchline.
 
-    Subsec. (a). [Pub. L. 104–106, § 414(b)][/us/pl/104/106/s414/b], in table, in grade E–9, increased figure for Army from 569 to 603, for Air Force from 328 to 366, and for Marine Corps from 14 to 20, and in grade E–8, increased figure for Air Force from 840 to 890 and for Marine Corps from 74 to 94. All other figures remained unchanged.
+    Subsec. (a). [Pub. L. 104–106][/us/pl/104/106], § 414(b), in table, in grade E–9, increased figure for Army from 569 to 603, for Air Force from 328 to 366, and for Marine Corps from 14 to 20, and in grade E–8, increased figure for Air Force from 840 to 890 and for Marine Corps from 74 to 94. All other figures remained unchanged.
 
  __Effective Date of 2000 Amendment__ 
 
@@ -1632,25 +1632,25 @@
 
 [/us/usc/t32/s502/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs502%2Ff
 [/us/usc/t10/s12011/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12011%2Fe
-[/us/pl/103/337/s1662/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fa%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2987
-[/us/pl/104/106/s414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs414%2Fb
+[/us/pl/104/106/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIV
 [/us/stat/110/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F288
-[/us/pl/105/261/s414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs414%2Fb
+[/us/pl/105/261/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIV
 [/us/stat/112/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1998
-[/us/pl/106/65/s414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs414%2Fb
+[/us/pl/106/65/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIV
 [/us/stat/113/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F586
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs415%2Fb
+[/us/pl/107/107/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIV
 [/us/stat/115/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1073
-[/us/pl/108/375/s1084/d/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F34
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2063
-[/us/pl/109/163/s515/b/1/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FII
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3233
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4440
-[/us/pl/103/337/s1662/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fa%2F4
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
@@ -1661,13 +1661,13 @@
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t10/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs115
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
-[/us/pl/104/106/s1501/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F10
-[/us/pl/104/106/s414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs414%2Fb
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t10/s12011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12011

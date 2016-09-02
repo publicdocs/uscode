@@ -51,11 +51,11 @@
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–88, title V, § 504(a)(1)][/us/pl/102/88/s504/a/1], Aug. 14, 1991, [105 Stat. 437][/us/stat/105/437], added items for subchapters I and II.
+    1991—[Pub. L. 102–88, title V][/us/pl/102/88/tV], § 504(a)(1), Aug. 14, 1991, [105 Stat. 437][/us/stat/105/437], added items for subchapters I and II.
 
  __Department of Defense Intelligence Priorities__ 
 
-[Pub. L. 113–66, div. A, title IX, § 922][/us/pl/113/66/s922], Dec. 26, 2013, [127 Stat. 828][/us/stat/127/828], provided that: 
+[Pub. L. 113–66, div. A, title IX][/us/pl/113/66/dA/tIX], § 922, Dec. 26, 2013, [127 Stat. 828][/us/stat/127/828], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall—
 
@@ -67,7 +67,7 @@
 
  __Defense Clandestine Service__ 
 
-[Pub. L. 113–66, div. A, title IX, § 923][/us/pl/113/66/s923], Dec. 26, 2013, [127 Stat. 828][/us/stat/127/828], provided that:
+[Pub. L. 113–66, div. A, title IX][/us/pl/113/66/dA/tIX], § 923, Dec. 26, 2013, [127 Stat. 828][/us/stat/127/828], provided that:
 
 >     “(a)  __Certification Required__  __.—__ 
 
@@ -106,11 +106,11 @@
 ----------
 ----------
 
-[/us/pl/102/88/s504/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs504%2Fa%2F1
+[/us/pl/102/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2FtV
 [/us/stat/105/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F437
-[/us/pl/113/66/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs922
+[/us/pl/113/66/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIX
 [/us/stat/127/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F828
-[/us/pl/113/66/s923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs923
+[/us/pl/113/66/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIX
 [/us/stat/127/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F828
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 

@@ -45,7 +45,7 @@
 
     Transportation services authorized under subsection (b) may be provided in response to a manmade or natural disaster to prevent serious harm to the environment, when human lives are not at risk, only if other sources to provide such transportation are not readily available.
 
-(Added [Pub. L. 103–337, div. A, title XIV, § 1412(a)][/us/pl/103/337/s1412/a], Oct. 5, 1994, [108 Stat. 2912][/us/stat/108/2912]; amended [Pub. L. 108–136, div. A, title III, § 312(c)][/us/pl/108/136/s312/c], Nov. 24, 2003, [117 Stat. 1430][/us/stat/117/1430].)
+(Added [Pub. L. 103–337, div. A, title XIV][/us/pl/103/337/dA/tXIV], § 1412(a), Oct. 5, 1994, [108 Stat. 2912][/us/stat/108/2912]; amended [Pub. L. 108–136, div. A, title III][/us/pl/108/136/dA/tIII], § 312(c), Nov. 24, 2003, [117 Stat. 1430][/us/stat/117/1430].)
 
  __Prior Provisions__ 
 
@@ -53,11 +53,11 @@
 
  __Amendments__ 
 
-    2003—Subsec. (a). [Pub. L. 108–136, § 312(c)(1)][/us/pl/108/136/s312/c/1], inserted “or serious harm to the environment” after “loss of lives”.
+    2003—Subsec. (a). [Pub. L. 108–136][/us/pl/108/136], § 312(c)(1), inserted “or serious harm to the environment” after “loss of lives”.
 
-    Subsec. (c)(2). [Pub. L. 108–136, § 312(c)(2)][/us/pl/108/136/s312/c/2], inserted “or the environment” after “human lives”.
+    Subsec. (c)(2). [Pub. L. 108–136][/us/pl/108/136], § 312(c)(2), inserted “or the environment” after “human lives”.
 
-    Subsec. (e). [Pub. L. 108–136, § 312(c)(3)][/us/pl/108/136/s312/c/3], added subsec. (e).
+    Subsec. (e). [Pub. L. 108–136][/us/pl/108/136], § 312(c)(3), added subsec. (e).
 
  __Ex. Ord. No. 12966. Foreign Disaster Assistance__ 
 
@@ -90,14 +90,14 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/pl/103/337/s1412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1412%2Fa
+[/us/pl/103/337/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXIV
 [/us/stat/108/2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2912
-[/us/pl/108/136/s312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs312%2Fc
+[/us/pl/108/136/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIII
 [/us/stat/117/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1430
 [/us/usc/t10/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs401%2Fd
-[/us/pl/108/136/s312/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs312%2Fc%2F1
-[/us/pl/108/136/s312/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs312%2Fc%2F2
-[/us/pl/108/136/s312/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs312%2Fc%2F3
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t10/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs404

@@ -17,7 +17,7 @@
 
     For the purpose of this chapter, service as a nurse in the armed forces before April 16, 1947, is considered as commissioned service.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 394][/us/stat/70A/394]; [Pub. L. 86–197, § 1(6)][/us/pl/86/197/s1/6], Aug. 25, 1959, [73 Stat. 426][/us/stat/73/426]; [Pub. L. 89–609, § 1(15)][/us/pl/89/609/s1/15], Sept. 30, 1966, [80 Stat. 853][/us/stat/80/853]; [Pub. L. 90–130, § 1(23)(A)][/us/pl/90/130/s1/23/A], Nov. 8, 1967, [81 Stat. 380][/us/stat/81/380].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 394][/us/stat/70A/394]; [Pub. L. 86–197][/us/pl/86/197], § 1(6), Aug. 25, 1959, [73 Stat. 426][/us/stat/73/426]; [Pub. L. 89–609][/us/pl/89/609], § 1(15), Sept. 30, 1966, [80 Stat. 853][/us/stat/80/853]; [Pub. L. 90–130][/us/pl/90/130], § 1(23)(A), Nov. 8, 1967, [81 Stat. 380][/us/stat/81/380].)
 
 <table>
 
@@ -86,11 +86,11 @@ Apr. 16, 1947, ch. 38, § 207(i), 61 Stat. 50; redesignated (h), Aug. 7, 1947,
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F394
-[/us/pl/86/197/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F197%2Fs1%2F6
+[/us/pl/86/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F197
 [/us/stat/73/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F426
-[/us/pl/89/609/s1/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F609%2Fs1%2F15
+[/us/pl/89/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F609
 [/us/stat/80/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F853
-[/us/pl/90/130/s1/23/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs1%2F23%2FA
+[/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/stat/81/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F380
 [/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/pl/89/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F609

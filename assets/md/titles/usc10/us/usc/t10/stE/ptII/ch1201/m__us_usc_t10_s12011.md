@@ -1955,7 +1955,7 @@
 
         (3) Active duty described in [section 708 of title 32][/us/usc/t32/s708].
 
-(Added [Pub. L. 96–513, title I, § 103][/us/pl/96/513/s103], Dec. 12, 1980, [94 Stat. 2844][/us/stat/94/2844], § 524; amended [Pub. L. 97–86, title V, § 503(b)][/us/pl/97/86/s503/b], Dec. 1, 1981, [95 Stat. 1108][/us/stat/95/1108]; [Pub. L. 97–252, title V, § 503(b)][/us/pl/97/252/s503/b], Sept. 8, 1982, [96 Stat. 727][/us/stat/96/727]; [Pub. L. 98–94, title V, § 503(b)][/us/pl/98/94/s503/b], Sept. 24, 1983, [97 Stat. 631][/us/stat/97/631]; [Pub. L. 98–525, title IV][/us/pl/98/525], §§ 413(b), 414(a)(4)(A), (B)(i), Oct. 19, 1984, [98 Stat. 2518][/us/stat/98/2518], 2519; [Pub. L. 99–145, title IV, § 413(b)][/us/pl/99/145/s413/b], Nov. 8, 1985, [99 Stat. 619][/us/stat/99/619]; [Pub. L. 100–180, div. A, title IV, § 413(b)][/us/pl/100/180/s413/b], Dec. 4, 1987, [101 Stat. 1083][/us/stat/101/1083]; [Pub. L. 101–189, div. A, title IV, § 413(b)][/us/pl/101/189/s413/b], Nov. 29, 1989, [103 Stat. 1433][/us/stat/103/1433]; [Pub. L. 102–190, div. A, title IV, § 413(b)][/us/pl/102/190/s413/b], Dec. 5, 1991, [105 Stat. 1352][/us/stat/105/1352]; [Pub. L. 103–160, div. A, title IV, § 413(b)][/us/pl/103/160/s413/b], Nov. 30, 1993, [107 Stat. 1642][/us/stat/107/1642]; renumbered § 12011 and amended [Pub. L. 103–337, div. A, title XVI, § 1662(a)(2)][/us/pl/103/337/s1662/a/2], Oct. 5, 1994, [108 Stat. 2988][/us/stat/108/2988]; [Pub. L. 104–106, div. A, title IV, § 414(a)][/us/pl/104/106/s414/a], Feb. 10, 1996, [110 Stat. 288][/us/stat/110/288]; [Pub. L. 105–261, div. A, title IV, § 414(a)][/us/pl/105/261/s414/a], Oct. 17, 1998, [112 Stat. 1998][/us/stat/112/1998]; [Pub. L. 106–65, div. A, title IV, § 414(a)][/us/pl/106/65/s414/a], Oct. 5, 1999, [113 Stat. 586][/us/stat/113/586]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IV, §§ 415(a), 421(b), 424(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–94 to 1654A–96; [Pub. L. 107–107, div. A, title IV, § 415(a)][/us/pl/107/107/s415/a], Dec. 28, 2001, [115 Stat. 1070][/us/stat/115/1070]; [Pub. L. 108–375, div. A, title IV, § 416(h)][/us/pl/108/375/s416/h], Oct. 28, 2004, [118 Stat. 1869][/us/stat/118/1869]; [Pub. L. 109–163, div. A, title V, § 515(b)(1)(HH)][/us/pl/109/163/s515/b/1/HH], Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 512(a), (b), Oct. 14, 2008, [122 Stat. 4439][/us/stat/122/4439], 4440.)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 103, Dec. 12, 1980, [94 Stat. 2844][/us/stat/94/2844], § 524; amended [Pub. L. 97–86, title V][/us/pl/97/86/tV], § 503(b), Dec. 1, 1981, [95 Stat. 1108][/us/stat/95/1108]; [Pub. L. 97–252, title V][/us/pl/97/252/tV], § 503(b), Sept. 8, 1982, [96 Stat. 727][/us/stat/96/727]; [Pub. L. 98–94, title V][/us/pl/98/94/tV], § 503(b), Sept. 24, 1983, [97 Stat. 631][/us/stat/97/631]; [Pub. L. 98–525, title IV][/us/pl/98/525/tIV], §§ 413(b), 414(a)(4)(A), (B)(i), Oct. 19, 1984, [98 Stat. 2518][/us/stat/98/2518], 2519; [Pub. L. 99–145, title IV][/us/pl/99/145/tIV], § 413(b), Nov. 8, 1985, [99 Stat. 619][/us/stat/99/619]; [Pub. L. 100–180, div. A, title IV][/us/pl/100/180/dA/tIV], § 413(b), Dec. 4, 1987, [101 Stat. 1083][/us/stat/101/1083]; [Pub. L. 101–189, div. A, title IV][/us/pl/101/189/dA/tIV], § 413(b), Nov. 29, 1989, [103 Stat. 1433][/us/stat/103/1433]; [Pub. L. 102–190, div. A, title IV][/us/pl/102/190/dA/tIV], § 413(b), Dec. 5, 1991, [105 Stat. 1352][/us/stat/105/1352]; [Pub. L. 103–160, div. A, title IV][/us/pl/103/160/dA/tIV], § 413(b), Nov. 30, 1993, [107 Stat. 1642][/us/stat/107/1642]; renumbered § 12011 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(a)(2), Oct. 5, 1994, [108 Stat. 2988][/us/stat/108/2988]; [Pub. L. 104–106, div. A, title IV][/us/pl/104/106/dA/tIV], § 414(a), Feb. 10, 1996, [110 Stat. 288][/us/stat/110/288]; [Pub. L. 105–261, div. A, title IV][/us/pl/105/261/dA/tIV], § 414(a), Oct. 17, 1998, [112 Stat. 1998][/us/stat/112/1998]; [Pub. L. 106–65, div. A, title IV][/us/pl/106/65/dA/tIV], § 414(a), Oct. 5, 1999, [113 Stat. 586][/us/stat/113/586]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IV, §§ 415(a), 421(b), 424(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–94 to 1654A–96; [Pub. L. 107–107, div. A, title IV][/us/pl/107/107/dA/tIV], § 415(a), Dec. 28, 2001, [115 Stat. 1070][/us/stat/115/1070]; [Pub. L. 108–375, div. A, title IV][/us/pl/108/375/dA/tIV], § 416(h), Oct. 28, 2004, [118 Stat. 1869][/us/stat/118/1869]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(HH), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 512(a), (b), Oct. 14, 2008, [122 Stat. 4439][/us/stat/122/4439], 4440.)
 
  __Amendments__ 
 
@@ -1975,11 +1975,11 @@
 
     Subsec. (e). [Pub. L. 107–107][/us/pl/107/107] added subsec. (e).
 
-    2000—Subsec. (a). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IV, § 415(a)\], amended table generally, increasing the fiscal year limitation on number of reserve officers in the Army in grade of Major or Lieutenant Commander from 3,227 to 3,316, in grade of Lieutenant Colonel or Commander from 1,611 to 1,759, and in grade of Colonel or Navy Captain from 471 to 529, and in the Air Force in grade of Major or Lieutenant Commander from 860 to 948, in grade of Lieutenant Colonel or Commander from 777 to 852, and in grade of Colonel or Navy Captain from 297 to 317.
+    2000—Subsec. (a). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IV, § 415(a)\], amended table generally, increasing the fiscal year limitation on number of reserve officers in the Army in grade of Major or Lieutenant Commander from 3,227 to 3,316, in grade of Lieutenant Colonel or Commander from 1,611 to 1,759, and in grade of Colonel or Navy Captain from 471 to 529, and in the Air Force in grade of Major or Lieutenant Commander from 860 to 948, in grade of Lieutenant Colonel or Commander from 777 to 852, and in grade of Colonel or Navy Captain from 297 to 317.
 
-    Subsec. (c). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IV, § 421(b)\], added subsec. (c).
+    Subsec. (c). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IV, § 421(b)\], added subsec. (c).
 
-    Subsec. (d). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IV, § 424(a)\], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IV, § 424(a)\], added subsec. (d).
 
     1999—Subsec. (a). [Pub. L. 106–65][/us/pl/106/65] amended table generally, increasing the fiscal year limitation on number of reserve officers in the Army in grade of Major or Lieutenant Commander from 3,219 to 3,227, in grade of Lieutenant Colonel or Commander from 1,524 to 1,611, and in grade of Colonel or Navy Captain from 438 to 471, and in the Air Force in grade of Major or Lieutenant Commander from 791 to 860 and in grade of Lieutenant Colonel or Commander from 713 to 777.
 
@@ -1993,21 +1993,21 @@
 
     1991—Subsec. (a). [Pub. L. 102–190][/us/pl/102/190], in table, increased fiscal year limitation on number of reserve officers in the Army in grade of Colonel or Navy Captain from 364 to 372, and increased such limitation on number of reserve officers in the Air Force in grade of Lieutenant Colonel or Commander from 532 to 595 and in grade of Colonel or Navy Captain from 194 to 227. Navy and Marine Corps figures remained unchanged.
 
-    1989—Subsec. (a). [Pub. L. 101–189, § 413(b)(2)][/us/pl/101/189/s413/b/2], in table, increased fiscal year limitation on number of reserve officers in grade of Major or Lieutenant Commander, Lieutenant Colonel or Commander, and Colonel or Navy Captain who may be on active duty to, respectively: Army, to 3,219, 1,524, and 364 from 3,030, 1,448, and 351; Navy, to 1,071, 520, and 188 from 1,065, 520, and 188; Air Force, to 575, 532, and 194 from 575, 476, and 190. Marine Corps figures remained unchanged.
+    1989—Subsec. (a). [Pub. L. 101–189][/us/pl/101/189], § 413(b)(2), in table, increased fiscal year limitation on number of reserve officers in grade of Major or Lieutenant Commander, Lieutenant Colonel or Commander, and Colonel or Navy Captain who may be on active duty to, respectively: Army, to 3,219, 1,524, and 364 from 3,030, 1,448, and 351; Navy, to 1,071, 520, and 188 from 1,065, 520, and 188; Air Force, to 575, 532, and 194 from 575, 476, and 190. Marine Corps figures remained unchanged.
 
-    [Pub. L. 101–189, § 413(b)(1)][/us/pl/101/189/s413/b/1], in table, increased fiscal year limitation on number of reserve officers in grade of Major or Lieutenant Commander, Lieutenant Colonel or Commander, and Colonel or Navy Captain who may be on active duty to, respectively: Army, to 3,030, 1,448, and 351 from 2,600, 1,250, and 348; Navy, to 1,065, 520, and 188 from 875, 520, and 185; Air Force, to 575, 476, and 190 from 575, 322, and 190. Marine Corps figures remained unchanged.
+    [Pub. L. 101–189][/us/pl/101/189], § 413(b)(1), in table, increased fiscal year limitation on number of reserve officers in grade of Major or Lieutenant Commander, Lieutenant Colonel or Commander, and Colonel or Navy Captain who may be on active duty to, respectively: Army, to 3,030, 1,448, and 351 from 2,600, 1,250, and 348; Navy, to 1,065, 520, and 188 from 875, 520, and 185; Air Force, to 575, 476, and 190 from 575, 322, and 190. Marine Corps figures remained unchanged.
 
-    1987—Subsec. (a). [Pub. L. 100–180, § 413(b)(2)][/us/pl/100/180/s413/b/2], in table, increased fiscal year limitation on number of reserve officers in grade of Major or Lieutenant Commander, Lieutenant Colonel or Commander, and Colonel or Navy Captain who may be on active duty to, respectively: Army, to 2,600, 1,250, and 348 from 2,550, 1,152, and 348; Navy, to 875, 520, and 185 from 850, 520, and 185; Air Force, to 575, 322, and 190 from 575, 322, and 184; and Marine Corps, to 110, 75, and 25 from 105, 70, and 25.
+    1987—Subsec. (a). [Pub. L. 100–180][/us/pl/100/180], § 413(b)(2), in table, increased fiscal year limitation on number of reserve officers in grade of Major or Lieutenant Commander, Lieutenant Colonel or Commander, and Colonel or Navy Captain who may be on active duty to, respectively: Army, to 2,600, 1,250, and 348 from 2,550, 1,152, and 348; Navy, to 875, 520, and 185 from 850, 520, and 185; Air Force, to 575, 322, and 190 from 575, 322, and 184; and Marine Corps, to 110, 75, and 25 from 105, 70, and 25.
 
-    [Pub. L. 100–180, § 413(b)(1)][/us/pl/100/180/s413/b/1], in table, changed fiscal year limitation on number of reserve officers in grade of Major or Lieutenant Commander, Lieutenant Colonel or Commander, and Colonel or Navy Captain who may be on active duty to, respectively: Army, to 2,550, 1,152, and 348 from 2,317, 1,152, and 348; Navy, to 850, 520, and 185 from 850, 520, and 177; Air Force, to 575, 322, and 184 from 476, 318, and 189; and Marine Corps, to 105, 70, and 25 from 100, 60, and 25.
+    [Pub. L. 100–180][/us/pl/100/180], § 413(b)(1), in table, changed fiscal year limitation on number of reserve officers in grade of Major or Lieutenant Commander, Lieutenant Colonel or Commander, and Colonel or Navy Captain who may be on active duty to, respectively: Army, to 2,550, 1,152, and 348 from 2,317, 1,152, and 348; Navy, to 850, 520, and 185 from 850, 520, and 177; Air Force, to 575, 322, and 184 from 476, 318, and 189; and Marine Corps, to 105, 70, and 25 from 100, 60, and 25.
 
     1985—Subsec. (a). [Pub. L. 99–145][/us/pl/99/145] increased fiscal year limitation on number of reserve officers in grade of Major or Lieutenant Commander, Lieutenant Colonel or Commander, and Colonel or Navy Captain who may be on active duty to, respectively: Army, to 2,317, 1,152, and 348 from 2,261, 1,121, and 345; Navy, to 850, 520, and 177 from 823, 520, and 177; Air Force, to 476, 318, and 189, from 471, 293, and 172; and Marine Corps, to 100, 60, and 25 from 100, 50, and 25.
 
-    1984—[Pub. L. 98–525, § 414(a)(4)(B)(i)][/us/pl/98/525/s414/a/4/B/i], inserted references to National Guard and to full-time National Guard duty in section catchline.
+    1984—[Pub. L. 98–525][/us/pl/98/525], § 414(a)(4)(B)(i), inserted references to National Guard and to full-time National Guard duty in section catchline.
 
-    Subsec. (a). [Pub. L. 98–525, § 414(a)(4)(A)][/us/pl/98/525/s414/a/4/A], inserted “or full-time National Guard duty” after “Marine Corps who may be on active duty” and inserted “or full-time National Guard duty (other than for training) under [section 502(f) of title 32][/us/usc/t32/s502/f]”.
+    Subsec. (a). [Pub. L. 98–525][/us/pl/98/525], § 414(a)(4)(A), inserted “or full-time National Guard duty” after “Marine Corps who may be on active duty” and inserted “or full-time National Guard duty (other than for training) under [section 502(f) of title 32][/us/usc/t32/s502/f]”.
 
-    [Pub. L. 98–525, § 413(b)][/us/pl/98/525/s413/b], increased fiscal year limitation on number of reserve officers in grade of major or lieutenant commander, lieutenant colonel or commander, and colonel or Navy captain who may be on active duty to, respectively: Army, to 2,261, 1,121, and 345 from 1,948, 967, and 338; Air Force, to 471, 293, and 172 from 408, 303, and 171; Marine Corps, to 100, 50, and 25 from 95, 48, and 23. Figures for the Navy remained unchanged.
+    [Pub. L. 98–525][/us/pl/98/525], § 413(b), increased fiscal year limitation on number of reserve officers in grade of major or lieutenant commander, lieutenant colonel or commander, and colonel or Navy captain who may be on active duty to, respectively: Army, to 2,261, 1,121, and 345 from 1,948, 967, and 338; Air Force, to 471, 293, and 172 from 408, 303, and 171; Marine Corps, to 100, 50, and 25 from 95, 48, and 23. Figures for the Navy remained unchanged.
 
     1983—Subsec. (a). [Pub. L. 98–94][/us/pl/98/94] increased fiscal year limitation on number of reserve officers in grade major or lieutenant commander; lieutenant colonel or commander; and colonel or Navy captain who may be on active duty to, respectively: Army, to 1,948, 967, and 338 from 1,351, 671, and 234; Navy, to 823, 520, and 177 from 823, 425, and 177; Air Force, to 408, 303, and 171 from 281, 267, and 170; Marine Corps, to 95, 48, and 23 from 95, 40, and 21.
 
@@ -2017,13 +2017,13 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IV, § 415(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–94, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IV, § 415(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–94, provided that: 
 
 > “The amendments made by this section \[amending this section and [section 12012 of this title][/us/usc/t10/s12012]\] shall take effect on October 1, 2000.”
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–261, div. A, title IV, § 414(c)][/us/pl/105/261/s414/c], Oct. 17, 1998, [112 Stat. 1998][/us/stat/112/1998], provided that: 
+[Pub. L. 105–261, div. A, title IV][/us/pl/105/261/dA/tIV], § 414(c), Oct. 17, 1998, [112 Stat. 1998][/us/stat/112/1998], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 12012 of this title][/us/usc/t10/s12012]\] shall take efffect \[sic\] on October 1, 1998.”
 
@@ -2033,11 +2033,11 @@
 
  __Effective Date of 1989 Amendment__ 
 
-    [Pub. L. 101–189, div. A, title IV, § 413(b)(2)][/us/pl/101/189/s413/b/2], Nov. 29, 1989, [103 Stat. 1433][/us/stat/103/1433], provided that the amendment made by that section is effective Oct. 1, 1990.
+    [Pub. L. 101–189, div. A, title IV][/us/pl/101/189/dA/tIV], § 413(b)(2), Nov. 29, 1989, [103 Stat. 1433][/us/stat/103/1433], provided that the amendment made by that section is effective Oct. 1, 1990.
 
  __Effective Date of 1987 Amendment__ 
 
-    [Pub. L. 100–180, div. A, title IV, § 413(b)(2)][/us/pl/100/180/s413/b/2], Dec. 4, 1987, [101 Stat. 1083][/us/stat/101/1083], provided that the amendment made by that section is effective Oct. 1, 1988.
+    [Pub. L. 100–180, div. A, title IV][/us/pl/100/180/dA/tIV], § 413(b)(2), Dec. 4, 1987, [101 Stat. 1083][/us/stat/101/1083], provided that the amendment made by that section is effective Oct. 1, 1988.
 
  __Effective Date of 1985 Amendment__ 
 
@@ -2061,41 +2061,41 @@
 [/us/usc/t32/s502/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs502%2Ff
 [/us/usc/t10/s115/i/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs115%2Fi%2F9
 [/us/usc/t32/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs708
-[/us/pl/96/513/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs103
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2844
-[/us/pl/97/86/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs503%2Fb
+[/us/pl/97/86/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtV
 [/us/stat/95/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1108
-[/us/pl/97/252/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs503%2Fb
+[/us/pl/97/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtV
 [/us/stat/96/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F727
-[/us/pl/98/94/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs503%2Fb
+[/us/pl/98/94/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtV
 [/us/stat/97/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F631
-[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtIV
 [/us/stat/98/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2518
-[/us/pl/99/145/s413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs413%2Fb
+[/us/pl/99/145/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtIV
 [/us/stat/99/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F619
-[/us/pl/100/180/s413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs413%2Fb
+[/us/pl/100/180/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtIV
 [/us/stat/101/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1083
-[/us/pl/101/189/s413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs413%2Fb
+[/us/pl/101/189/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIV
 [/us/stat/103/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1433
-[/us/pl/102/190/s413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs413%2Fb
+[/us/pl/102/190/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtIV
 [/us/stat/105/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1352
-[/us/pl/103/160/s413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs413%2Fb
+[/us/pl/103/160/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIV
 [/us/stat/107/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1642
-[/us/pl/103/337/s1662/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fa%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2988
-[/us/pl/104/106/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs414%2Fa
+[/us/pl/104/106/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIV
 [/us/stat/110/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F288
-[/us/pl/105/261/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs414%2Fa
+[/us/pl/105/261/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIV
 [/us/stat/112/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1998
-[/us/pl/106/65/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs414%2Fa
+[/us/pl/106/65/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIV
 [/us/stat/113/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F586
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs415%2Fa
+[/us/pl/107/107/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIV
 [/us/stat/115/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1070
-[/us/pl/108/375/s416/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs416%2Fh
+[/us/pl/108/375/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIV
 [/us/stat/118/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1869
-[/us/pl/109/163/s515/b/1/HH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FHH
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3233
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4439
@@ -2110,9 +2110,9 @@
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t10/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs115
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
@@ -2120,30 +2120,30 @@
 [/us/usc/t10/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs524
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
-[/us/pl/101/189/s413/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs413%2Fb%2F2
-[/us/pl/101/189/s413/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs413%2Fb%2F1
-[/us/pl/100/180/s413/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs413%2Fb%2F2
-[/us/pl/100/180/s413/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs413%2Fb%2F1
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
-[/us/pl/98/525/s414/a/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs414%2Fa%2F4%2FB%2Fi
-[/us/pl/98/525/s414/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs414%2Fa%2F4%2FA
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/usc/t32/s502/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs502%2Ff
-[/us/pl/98/525/s413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs413%2Fb
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/97/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252
 [/us/pl/97/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s12012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12012
-[/us/pl/105/261/s414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs414%2Fc
+[/us/pl/105/261/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIV
 [/us/stat/112/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1998
 [/us/usc/t10/s12012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12012
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
-[/us/pl/101/189/s413/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs413%2Fb%2F2
+[/us/pl/101/189/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIV
 [/us/stat/103/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1433
-[/us/pl/100/180/s413/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs413%2Fb%2F2
+[/us/pl/100/180/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtIV
 [/us/stat/101/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1083
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/99/145/s413/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs413%2Fc

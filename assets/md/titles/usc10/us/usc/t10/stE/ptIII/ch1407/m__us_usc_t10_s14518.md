@@ -17,7 +17,7 @@
 
     The Secretary concerned may delay the separation or retirement under this chapter of an officer against whom an action has been commenced with a view to trying the officer by court-martial. Any such delay may continue until the completion of the disciplinary action against the officer.
 
-(Added [Pub. L. 106–65, div. A, title V, § 511(a)][/us/pl/106/65/s511/a], Oct. 5, 1999, [113 Stat. 592][/us/stat/113/592].)
+(Added [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 511(a), Oct. 5, 1999, [113 Stat. 592][/us/stat/113/592].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/65/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs511%2Fa
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F592
 
 

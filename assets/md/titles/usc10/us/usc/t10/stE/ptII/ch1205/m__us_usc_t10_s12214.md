@@ -19,7 +19,7 @@
 
     (b) Unless discharged from his appointment as a Reserve, an officer of the Air National Guard of the United States whose Federal recognition as a member of the Air National Guard is withdrawn becomes a member of the Air Force Reserve. An officer who so becomes a member of the Air Force Reserve ceases to be a member of the Air National Guard of the United States.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 520][/us/stat/70A/520], § 8352; [Pub. L. 87–651, title I, § 126][/us/pl/87/651/s126], Sept. 7, 1962, [76 Stat. 514][/us/stat/76/514]; [Pub. L. 100–456, div. A, title XII, § 1234(a)(1)][/us/pl/100/456/s1234/a/1], Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; renumbered § 12214 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337], §§ 1662(c)(3), 1675(b)(2), Oct. 5, 1994, [108 Stat. 2990][/us/stat/108/2990], 3017; [Pub. L. 104–106, div. A, title XV, § 1501(b)(13)(A)][/us/pl/104/106/s1501/b/13/A], Feb. 10, 1996, [110 Stat. 496][/us/stat/110/496].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 520][/us/stat/70A/520], § 8352; [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 126, Sept. 7, 1962, [76 Stat. 514][/us/stat/76/514]; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1234(a)(1), Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; renumbered § 12214 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], §§ 1662(c)(3), 1675(b)(2), Oct. 5, 1994, [108 Stat. 2990][/us/stat/108/2990], 3017; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(13)(A), Feb. 10, 1996, [110 Stat. 496][/us/stat/110/496].)
 
 <table>
 
@@ -81,9 +81,9 @@ July 9, 1952, ch. 608, §§ 706 (less last 15 words of 1st sentence, and less 
 
     1996—[Pub. L. 104–106][/us/pl/104/106] inserted “the” after “National Guard of” in section catchline.
 
-    1994—[Pub. L. 103–337, § 1662(c)(3)][/us/pl/103/337/s1662/c/3], renumbered [section 8352 of this title][/us/usc/t10/s8352] as this section.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 1662(c)(3), renumbered [section 8352 of this title][/us/usc/t10/s8352] as this section.
 
-    Subsec. (a). [Pub. L. 103–337, § 1675(b)(2)][/us/pl/103/337/s1675/b/2], struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is” after “authority of the State”.
+    Subsec. (a). [Pub. L. 103–337][/us/pl/103/337], § 1675(b)(2), struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is” after “authority of the State”.
 
     1988—Subsec. (a). [Pub. L. 100–456][/us/pl/100/456] struck out “the Canal Zone,” after “Puerto Rico,”.
 
@@ -106,19 +106,19 @@ July 9, 1952, ch. 608, §§ 706 (less last 15 words of 1st sentence, and less 
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F520
-[/us/pl/87/651/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs126
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F514
-[/us/pl/100/456/s1234/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fa%2F1
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2990
-[/us/pl/104/106/s1501/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F13%2FA
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F496
 [/us/stat/68/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1172
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/337/s1662/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fc%2F3
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s8352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8352
-[/us/pl/103/337/s1675/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1675%2Fb%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/87/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106

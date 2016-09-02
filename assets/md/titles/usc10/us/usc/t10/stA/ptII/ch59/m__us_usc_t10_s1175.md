@@ -135,13 +135,13 @@
 
     (j) A member of the armed forces who is provided a voluntary separation incentive under this section shall be eligible for the same benefits and services as are provided under chapter 58 of this title, sections 474 and 476 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 ([104 Stat. 1558][/us/stat/104/1558]; [37 U.S.C. 476][/us/usc/t37/s476] note) for members of the armed forces who are involuntarily separated within the meaning of [section 1141 of this title][/us/usc/t10/s1141].
 
-(Added [Pub. L. 102–190, div. A, title VI, § 662(a)(1)][/us/pl/102/190/s662/a/1], Dec. 5, 1991, [105 Stat. 1396][/us/stat/105/1396]; amended [Pub. L. 102–484, div. A, title X, § 1052(16)][/us/pl/102/484/s1052/16], div. D, title XLIV, §§ 4405(b), 4406(a), (b), 4422(b), Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499], 2706, 2707, 2719; [Pub. L. 103–160, div. A, title V][/us/pl/103/160], §§ 502, 561(h), Nov. 30, 1993, [107 Stat. 1644][/us/stat/107/1644], 1668; [Pub. L. 103–337, div. A, title V, § 542(c)][/us/pl/103/337/s542/c], Oct. 5, 1994, [108 Stat. 2769][/us/stat/108/2769]; [Pub. L. 105–261, div. A, title V][/us/pl/105/261], §§ 561(b), 563(a), (b), Oct. 17, 1998, [112 Stat. 2025][/us/stat/112/2025], 2028; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, §§ 571(b), 572(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–134, 1654A–135; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 110–181, div. A, title IX, § 906(c)(1)][/us/pl/110/181/s906/c/1], Jan. 28, 2008, [122 Stat. 277][/us/stat/122/277]; [Pub. L. 111–32, title III, § 318(b)][/us/pl/111/32/s318/b], June 24, 2009, [123 Stat. 1874][/us/stat/123/1874]; [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A], Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465]; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948].)
+(Added [Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], § 662(a)(1), Dec. 5, 1991, [105 Stat. 1396][/us/stat/105/1396]; amended [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1052(16), div. D, title XLIV, §§ 4405(b), 4406(a), (b), 4422(b), Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499], 2706, 2707, 2719; [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], §§ 502, 561(h), Nov. 30, 1993, [107 Stat. 1644][/us/stat/107/1644], 1668; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 542(c), Oct. 5, 1994, [108 Stat. 2769][/us/stat/108/2769]; [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], §§ 561(b), 563(a), (b), Oct. 17, 1998, [112 Stat. 2025][/us/stat/112/2025], 2028; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, §§ 571(b), 572(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–134, 1654A–135; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 906(c)(1), Jan. 28, 2008, [122 Stat. 277][/us/stat/122/277]; [Pub. L. 111–32, title III][/us/pl/111/32/tIII], § 318(b), June 24, 2009, [123 Stat. 1874][/us/stat/123/1874]; [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(f)(4)(A), Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(9), Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948].)
 
  __Amendments__ 
 
-    2013—Subsec. (j). [Pub. L. 112–239, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], made technical amendment to directory language of [Pub. L. 112–81, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A]. See 2011 Amendment note below.
+    2013—Subsec. (j). [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(9), made technical amendment to directory language of [Pub. L. 112–81][/us/pl/112/81], § 631(f)(4)(A). See 2011 Amendment note below.
 
-    2011—Subsec. (j). [Pub. L. 112–81, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A], as amended by [Pub. L. 112–239, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], substituted “474” for “404” and substituted “476” for “406” in two places.
+    2011—Subsec. (j). [Pub. L. 112–81][/us/pl/112/81], § 631(f)(4)(A), as amended by [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(9), substituted “474” for “404” and substituted “476” for “406” in two places.
 
     2009—Subsec. (e)(3)(A). [Pub. L. 111–32][/us/pl/111/32] amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “A member who has received the voluntary separation incentive and who qualifies for retired or retainer pay under this title shall have deducted from each payment of such retired or retainer pay so much of such pay as is based on the service for which he received the voluntary separation incentive until the total amount deducted equals the total amount of voluntary separation incentive received. If the member elected to have a reduction in voluntary separation incentive for any period pursuant to paragraph (2), the deduction required under the preceding sentence shall be reduced accordingly.”
 
@@ -149,51 +149,51 @@
 
     2002—Subsecs. (a)(1), (2)(B)(ii), (b), (g), (i). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
 
-    2000—Subsec. (d)(3). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 571(b)\], substituted “December 31, 2001” for “September 30, 2001”.
+    2000—Subsec. (d)(3). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 571(b)\], substituted “December 31, 2001” for “September 30, 2001”.
 
-    Subsec. (e)(3). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 572(a)\], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (e)(3). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 572(a)\], designated existing provisions as subpar. (A) and added subpar. (B).
 
-    1998—Subsec. (a). [Pub. L. 105–261, § 563(a)][/us/pl/105/261/s563/a], designated existing provisions as par. (1), struck out “, for the period of time the member serves in a reserve component” after “under subsection (c)”, and added par. (2).
+    1998—Subsec. (a). [Pub. L. 105–261][/us/pl/105/261], § 563(a), designated existing provisions as par. (1), struck out “, for the period of time the member serves in a reserve component” after “under subsection (c)”, and added par. (2).
 
-    Subsec. (d)(3). [Pub. L. 105–261, § 561(b)][/us/pl/105/261/s561/b], substituted “September 30, 2001” for “September 30, 1999”.
+    Subsec. (d)(3). [Pub. L. 105–261][/us/pl/105/261], § 561(b), substituted “September 30, 2001” for “September 30, 1999”.
 
-    Subsec. (e)(1). [Pub. L. 105–261, § 563(b)][/us/pl/105/261/s563/b], struck out at end “The annual payment will be made for a period equal to the number of years that is equal to twice the number of years of service of the member.”
+    Subsec. (e)(1). [Pub. L. 105–261][/us/pl/105/261], § 563(b), struck out at end “The annual payment will be made for a period equal to the number of years that is equal to twice the number of years of service of the member.”
 
-    1994—Subsecs. (a), (b). [Pub. L. 103–337, § 542(c)(1)][/us/pl/103/337/s542/c/1], inserted “and the Secretary of Transportation” after “Secretary of Defense”.
+    1994—Subsecs. (a), (b). [Pub. L. 103–337][/us/pl/103/337], § 542(c)(1), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
 
-    Subsec. (c). [Pub. L. 103–337, § 542(c)(2)][/us/pl/103/337/s542/c/2], struck out “of the military department” after “Secretary”.
+    Subsec. (c). [Pub. L. 103–337][/us/pl/103/337], § 542(c)(2), struck out “of the military department” after “Secretary”.
 
-    Subsec. (g). [Pub. L. 103–337, § 542(c)(3)][/us/pl/103/337/s542/c/3], inserted “and the Department of Transportation for the Coast Guard” before period at end.
+    Subsec. (g). [Pub. L. 103–337][/us/pl/103/337], § 542(c)(3), inserted “and the Department of Transportation for the Coast Guard” before period at end.
 
-    Subsec. (h)(3). [Pub. L. 103–337, § 542(c)(4)][/us/pl/103/337/s542/c/4], inserted “by the Secretary of Defense” after “incentive payments made” and “to the Secretary” after “shall be available”.
+    Subsec. (h)(3). [Pub. L. 103–337][/us/pl/103/337], § 542(c)(4), inserted “by the Secretary of Defense” after “incentive payments made” and “to the Secretary” after “shall be available”.
 
-    Subsec. (i). [Pub. L. 103–337, § 542(c)(5)][/us/pl/103/337/s542/c/5], inserted “and the Secretary of Transportation” after “Secretary of Defense”.
+    Subsec. (i). [Pub. L. 103–337][/us/pl/103/337], § 542(c)(5), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
 
-    1993—Subsec. (d)(1). [Pub. L. 103–160, § 502][/us/pl/103/160/s502], struck out “before December 5, 1991” after “active service”.
+    1993—Subsec. (d)(1). [Pub. L. 103–160][/us/pl/103/160], § 502, struck out “before December 5, 1991” after “active service”.
 
-    Subsecs. (d)(3), (h)(6). [Pub. L. 103–160, § 561(h)(1)][/us/pl/103/160/s561/h/1], substituted “September 30, 1999” for “September 30, 1995” wherever appearing.
+    Subsecs. (d)(3), (h)(6). [Pub. L. 103–160][/us/pl/103/160], § 561(h)(1), substituted “September 30, 1999” for “September 30, 1995” wherever appearing.
 
-    Subsec. (h)(7)(A). [Pub. L. 103–160, § 561(h)(2)][/us/pl/103/160/s561/h/2], substituted “fiscal year 1999” for “fiscal year 1996”.
+    Subsec. (h)(7)(A). [Pub. L. 103–160][/us/pl/103/160], § 561(h)(2), substituted “fiscal year 1999” for “fiscal year 1996”.
 
-    1992—Subsec. (a). [Pub. L. 102–484, § 1052(16)(A)][/us/pl/102/484/s1052/16/A], substituted “reserve component” for “Reserve component” after “transfer to a”.
+    1992—Subsec. (a). [Pub. L. 102–484][/us/pl/102/484], § 1052(16)(A), substituted “reserve component” for “Reserve component” after “transfer to a”.
 
-    Subsec. (b)(1), (2). [Pub. L. 102–484, § 4422(b)(1)][/us/pl/102/484/s4422/b/1], (2), inserted “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty”.
+    Subsec. (b)(1), (2). [Pub. L. 102–484][/us/pl/102/484], § 4422(b)(1), (2), inserted “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty”.
 
-    Subsec. (b)(3), (4). [Pub. L. 102–484, § 4424(b)(3)][/us/pl/102/484/s4424/b/3], redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “if a Reserve, is on the active duty list; and”.
+    Subsec. (b)(3), (4). [Pub. L. 102–484][/us/pl/102/484], § 4424(b)(3), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “if a Reserve, is on the active duty list; and”.
 
-    Subsec. (d)(1). [Pub. L. 102–484, § 1052(16)(B)][/us/pl/102/484/s1052/16/B], substituted “before December 5, 1991” for “prior to the time this provision is enacted”.
+    Subsec. (d)(1). [Pub. L. 102–484][/us/pl/102/484], § 1052(16)(B), substituted “before December 5, 1991” for “prior to the time this provision is enacted”.
 
-    Subsec. (e)(2). [Pub. L. 102–484, § 4406(a)(1)][/us/pl/102/484/s4406/a/1], substituted “may elect to have a reduction in the voluntary separation incentive payable for the same period in an amount not to exceed the amount of the basic pay or compensation received for that period.” for “shall forfeit an amount of voluntary separation incentive payable for the same period that is equal to the total amount of basic pay, or compensation, received.”
+    Subsec. (e)(2). [Pub. L. 102–484][/us/pl/102/484], § 4406(a)(1), substituted “may elect to have a reduction in the voluntary separation incentive payable for the same period in an amount not to exceed the amount of the basic pay or compensation received for that period.” for “shall forfeit an amount of voluntary separation incentive payable for the same period that is equal to the total amount of basic pay, or compensation, received.”
 
-    Subsec. (e)(3). [Pub. L. 102–484, § 4406(a)(2)][/us/pl/102/484/s4406/a/2], inserted at end “If the member elected to have a reduction in voluntary separation incentive for any period pursuant to paragraph (2), the deduction required under the preceding sentence shall be reduced accordingly.”
+    Subsec. (e)(3). [Pub. L. 102–484][/us/pl/102/484], § 4406(a)(2), inserted at end “If the member elected to have a reduction in voluntary separation incentive for any period pursuant to paragraph (2), the deduction required under the preceding sentence shall be reduced accordingly.”
 
-    Subsec. (e)(6). [Pub. L. 102–484, § 4406(b)][/us/pl/102/484/s4406/b], struck out par. (6) which read as follows: “Years of service that form the basis of the payment under paragraph (5) may not be counted in computing eligibility for, or the amount of, annuities under title 5 or any other law providing annuities to Federal civilian employees.”
+    Subsec. (e)(6). [Pub. L. 102–484][/us/pl/102/484], § 4406(b), struck out par. (6) which read as follows: “Years of service that form the basis of the payment under paragraph (5) may not be counted in computing eligibility for, or the amount of, annuities under title 5 or any other law providing annuities to Federal civilian employees.”
 
-    Subsec. (j). [Pub. L. 102–484, § 4405(b)][/us/pl/102/484/s4405/b], added subsec. (j).
+    Subsec. (j). [Pub. L. 102–484][/us/pl/102/484], § 4405(b), added subsec. (j).
 
  __Effective Date of 2013 Amendment__ 
 
-    [Pub. L. 112–239, div. A, title X, § 1076(a)][/us/pl/112/239/s1076/a], Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
+    [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a), Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -205,13 +205,13 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 572(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–136, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 572(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–136, provided that: 
 
 > “Subparagraph (B) of [section 1175(e)(3) of title 10][/us/usc/t10/s1175/e/3], United States Code, as added by subsection (a), shall apply with respect to decisions by members to terminate voluntary separation incentive payments under [section 1175 of title 10][/us/usc/t10/s1175], United States Code, to be effective after September 30, 2000.”
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–261, div. A, title V, § 563(c)][/us/pl/105/261/s563/c], Oct. 17, 1998, [112 Stat. 2028][/us/stat/112/2028], provided that: 
+[Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 563(c), Oct. 17, 1998, [112 Stat. 2028][/us/stat/112/2028], provided that: 
 
 > “The amendments made by this section \[amending this section\] apply with respect to any person provided a voluntary separation incentive under [section 1175 of title 10][/us/usc/t10/s1175], United States Code (whether before, on, or after the date of the enactment of this Act) \[Oct. 17, 1998\].”
 
@@ -223,25 +223,25 @@
 
     Amendment by [section 4405(b) of Pub. L. 102–484][/us/pl/102/484/s4405/b] applicable as if included in this section as enacted Dec. 5, 1991, with any benefits or services payable by reason of applicability of that amendment during the period beginning Dec. 5, 1991, and ending Oct. 23, 1992, to be subject to availability of appropriations, see [section 4405(c) of Pub. L. 102–484][/us/pl/102/484/s4405/c], set out as a note under [section 1174a of this title][/us/usc/t10/s1174a].
 
-[Pub. L. 102–484, div. D, title XLIV, § 4406(c)][/us/pl/102/484/s4406/c], Oct. 23, 1992, [106 Stat. 2707][/us/stat/106/2707], provided that: 
+[Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], § 4406(c), Oct. 23, 1992, [106 Stat. 2707][/us/stat/106/2707], provided that: 
 
 > “The amendments to [section 1175 of title 10][/us/usc/t10/s1175], United States Code, made by subsections (a) and (b) shall apply as if included in [section 1175 of title 10][/us/usc/t10/s1175], United States Code, as enacted on December 5, 1991.”
 
  __Payment of Incentives From Voluntary Separation Incentive Fund__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(b)][/us/pl/104/208/s101/b] \[title VIII, § 8044\], Sept. 30, 1996, [110 Stat. 3009–71][/us/stat/110/3009-71], 3009–98, provided that: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(b) \[title VIII, § 8044\], Sept. 30, 1996, [110 Stat. 3009–71][/us/stat/110/3009-71], 3009–98, provided that: 
 
 > “During the current fiscal year and hereafter, voluntary separation incentives payable under [10 U.S.C. 1175][/us/usc/t10/s1175] may be paid in such amounts as are necessary from the assets of the Voluntary Separation Incentive Fund established by section 1175(h)(1).”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 104–61, title VIII, § 8054][/us/pl/104/61/s8054], Dec. 1, 1995, [109 Stat. 662][/us/stat/109/662].
+    [Pub. L. 104–61, title VIII][/us/pl/104/61/tVIII], § 8054, Dec. 1, 1995, [109 Stat. 662][/us/stat/109/662].
 
-    [Pub. L. 103–335, title VIII, § 8062][/us/pl/103/335/s8062], Sept. 30, 1994, [108 Stat. 2633][/us/stat/108/2633].
+    [Pub. L. 103–335, title VIII][/us/pl/103/335/tVIII], § 8062, Sept. 30, 1994, [108 Stat. 2633][/us/stat/108/2633].
 
-    [Pub. L. 103–139, title VIII, § 8073][/us/pl/103/139/s8073], Nov. 11, 1993, [107 Stat. 1457][/us/stat/107/1457].
+    [Pub. L. 103–139, title VIII][/us/pl/103/139/tVIII], § 8073, Nov. 11, 1993, [107 Stat. 1457][/us/stat/107/1457].
 
-    [Pub. L. 102–396, title IX, § 9106][/us/pl/102/396/s9106], Oct. 6, 1992, [106 Stat. 1927][/us/stat/106/1927].
+    [Pub. L. 102–396, title IX][/us/pl/102/396/tIX], § 9106, Oct. 6, 1992, [106 Stat. 1927][/us/stat/106/1927].
 
  __Separation Payments; Reductions and Prohibitions__ 
 
@@ -249,7 +249,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Tax Treatment of Incentive Payment__ 
 
-[Pub. L. 102–190, div. A, title VI, § 662(b)][/us/pl/102/190/s662/b], Dec. 5, 1991, [105 Stat. 1398][/us/stat/105/1398], provided that: 
+[Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], § 662(b), Dec. 5, 1991, [105 Stat. 1398][/us/stat/105/1398], provided that: 
 
 > “Notwithstanding the Internal Revenue Code of 1986 \[[26 U.S.C. 1][/us/usc/t26/s1] et seq.\] and any other provision of law, any voluntary separation incentive paid to a member of the Armed Forces under [section 1175 of title 10][/us/usc/t10/s1175], United States Code (as added by subsection (a)), shall be includable in gross income for federal tax purposes only for the taxable year in which such incentive is paid to the participant or beneficiary of the member.”
 
@@ -266,57 +266,57 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/104/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1558
 [/us/usc/t37/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs476
 [/us/usc/t10/s1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1141
-[/us/pl/102/190/s662/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs662%2Fa%2F1
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1396
-[/us/pl/102/484/s1052/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F16
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2499
-[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1644
-[/us/pl/103/337/s542/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs542%2Fc
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2769
-[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2025
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/110/181/s906/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs906%2Fc%2F1
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F277
-[/us/pl/111/32/s318/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs318%2Fb
+[/us/pl/111/32/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2FtIII
 [/us/stat/123/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1874
-[/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1465
-[/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
-[/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
-[/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA
-[/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA
-[/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/105/261/s563/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs563%2Fa
-[/us/pl/105/261/s561/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs561%2Fb
-[/us/pl/105/261/s563/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs563%2Fb
-[/us/pl/103/337/s542/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs542%2Fc%2F1
-[/us/pl/103/337/s542/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs542%2Fc%2F2
-[/us/pl/103/337/s542/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs542%2Fc%2F3
-[/us/pl/103/337/s542/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs542%2Fc%2F4
-[/us/pl/103/337/s542/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs542%2Fc%2F5
-[/us/pl/103/160/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs502
-[/us/pl/103/160/s561/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs561%2Fh%2F1
-[/us/pl/103/160/s561/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs561%2Fh%2F2
-[/us/pl/102/484/s1052/16/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F16%2FA
-[/us/pl/102/484/s4422/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4422%2Fb%2F1
-[/us/pl/102/484/s4424/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4424%2Fb%2F3
-[/us/pl/102/484/s1052/16/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F16%2FB
-[/us/pl/102/484/s4406/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4406%2Fa%2F1
-[/us/pl/102/484/s4406/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4406%2Fa%2F2
-[/us/pl/102/484/s4406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4406%2Fb
-[/us/pl/102/484/s4405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4405%2Fb
-[/us/pl/112/239/s1076/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1947
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
@@ -325,11 +325,11 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s1175/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1175%2Fe%2F3
 [/us/usc/t10/s1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1175
-[/us/pl/105/261/s563/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs563%2Fc
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2028
 [/us/usc/t10/s1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1175
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
@@ -338,23 +338,23 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/102/484/s4405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4405%2Fb
 [/us/pl/102/484/s4405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4405%2Fc
 [/us/usc/t10/s1174a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174a
-[/us/pl/102/484/s4406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4406%2Fc
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2707
 [/us/usc/t10/s1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1175
 [/us/usc/t10/s1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1175
-[/us/pl/104/208/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fb
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-71
 [/us/usc/t10/s1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1175
-[/us/pl/104/61/s8054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F61%2Fs8054
+[/us/pl/104/61/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F61%2FtVIII
 [/us/stat/109/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F662
-[/us/pl/103/335/s8062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F335%2Fs8062
+[/us/pl/103/335/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F335%2FtVIII
 [/us/stat/108/2633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2633
-[/us/pl/103/139/s8073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F139%2Fs8073
+[/us/pl/103/139/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F139%2FtVIII
 [/us/stat/107/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1457
-[/us/pl/102/396/s9106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9106
+[/us/pl/102/396/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2FtIX
 [/us/stat/106/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1927
 [/us/usc/t10/s1174a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174a
-[/us/pl/102/190/s662/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs662%2Fb
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1398
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t10/s1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1175

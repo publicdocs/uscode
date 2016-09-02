@@ -111,13 +111,13 @@
 
         (2) the annual report prepared by the Director of the Office of Performance Assessment and Root Cause Analysis pursuant to section 2438(f)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title shall include information on the activities undertaken by the Department pursuant to such section, including a summary of significant findings or recommendations arising out of performance assessments.
 
-(Added [Pub. L. 111–383, div. A, title VIII, § 861(a)][/us/pl/111/383/s861/a], Jan. 7, 2011, [124 Stat. 4289][/us/stat/124/4289]; amended [Pub. L. 112–239, div. A, title X, § 1076(d)(5)][/us/pl/112/239/s1076/d/5], (f)(30), Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951], 1953.)
+(Added [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 861(a), Jan. 7, 2011, [124 Stat. 4289][/us/stat/124/4289]; amended [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(d)(5), (f)(30), Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951], 1953.)
 
  __References in Text__ 
 
     The Government Performance and Results Act of 1993, referred to in subsec. (d), is [Pub. L. 103–62][/us/pl/103/62], Aug. 3, 1993, [107 Stat. 285][/us/stat/107/285], which enacted [section 306 of Title 5][/us/usc/t5/s306], Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended [section 1105 of Title 31][/us/usc/t31/s1105], and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 1101 of Title 31][/us/usc/t31/s1101] and Tables.
 
-    [Section 2438(f) of this title][/us/usc/t10/s2438/f], referred to in subsec. (e)(2), was repealed by [Pub. L. 114–92, div. A, title X, § 1077(b)][/us/pl/114/92/s1077/b], Nov. 25, 2015, [129 Stat. 998][/us/stat/129/998].
+    [Section 2438(f) of this title][/us/usc/t10/s2438/f], referred to in subsec. (e)(2), was repealed by [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1077(b), Nov. 25, 2015, [129 Stat. 998][/us/stat/129/998].
 
  __Prior Provisions__ 
 
@@ -125,15 +125,15 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 112–239, § 1076(f)(30)(A)(i)][/us/pl/112/239/s1076/f/30/A/i], substituted “The Secretary” for “Not later than 180 days after the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, the Secretary” in introductory provisions.
+    2013—Subsec. (a). [Pub. L. 112–239][/us/pl/112/239], § 1076(f)(30)(A)(i), substituted “The Secretary” for “Not later than 180 days after the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, the Secretary” in introductory provisions.
 
-    Subsec. (a)(3). [Pub. L. 112–239, § 1076(f)(30)(A)(ii)][/us/pl/112/239/s1076/f/30/A/ii], inserted period at end.
+    Subsec. (a)(3). [Pub. L. 112–239][/us/pl/112/239], § 1076(f)(30)(A)(ii), inserted period at end.
 
-    Subsec. (d). [Pub. L. 112–239, § 1076(f)(30)(B)][/us/pl/112/239/s1076/f/30/B], inserted “and” after “Government Performance” in heading and substituted “The” for “Beginning with fiscal year 2012, the” in text.
+    Subsec. (d). [Pub. L. 112–239][/us/pl/112/239], § 1076(f)(30)(B), inserted “and” after “Government Performance” in heading and substituted “The” for “Beginning with fiscal year 2012, the” in text.
 
-    Subsec. (e)(1). [Pub. L. 112–239, § 1076(f)(30)(C)][/us/pl/112/239/s1076/f/30/C], struck out “, United States Code,” after “title 31”.
+    Subsec. (e)(1). [Pub. L. 112–239][/us/pl/112/239], § 1076(f)(30)(C), struck out “, United States Code,” after “title 31”.
 
-    Subsec. (e)(2). [Pub. L. 112–239, § 1076(d)(5)][/us/pl/112/239/s1076/d/5], substituted “[section 2438(f) of this title][/us/usc/t10/s2438/f]” for “section 103(f) of the Weapon Systems Acquisition Reform Act of 2009 ([10 U.S.C. 2430][/us/usc/t10/s2430] note),”.
+    Subsec. (e)(2). [Pub. L. 112–239][/us/pl/112/239], § 1076(d)(5), substituted “[section 2438(f) of this title][/us/usc/t10/s2438/f]” for “section 103(f) of the Weapon Systems Acquisition Reform Act of 2009 ([10 U.S.C. 2430][/us/usc/t10/s2430] note),”.
 
 ----------
 
@@ -146,9 +146,9 @@
 [/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
 [/us/usc/t31/s1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1115
 [/us/usc/t31/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1116
-[/us/pl/111/383/s861/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs861%2Fa
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4289
-[/us/pl/112/239/s1076/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fd%2F5
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1951
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
@@ -156,14 +156,14 @@
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
 [/us/usc/t10/s2438/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2438%2Ff
-[/us/pl/114/92/s1077/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1077%2Fb
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F998
 [/us/usc/t10/s2558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2558
-[/us/pl/112/239/s1076/f/30/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F30%2FA%2Fi
-[/us/pl/112/239/s1076/f/30/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F30%2FA%2Fii
-[/us/pl/112/239/s1076/f/30/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F30%2FB
-[/us/pl/112/239/s1076/f/30/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F30%2FC
-[/us/pl/112/239/s1076/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fd%2F5
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t10/s2438/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2438%2Ff
 [/us/usc/t10/s2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2430
 

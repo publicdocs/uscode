@@ -95,7 +95,7 @@
 
         (2) In the case of an installation approved for closure pursuant to such a law, the Department of Defense Base Closure Account established under section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).
 
-(Added [Pub. L. 99–499, title II, § 211(a)(1)(B)][/us/pl/99/499/s211/a/1/B], Oct. 17, 1986, [100 Stat. 1724][/us/stat/100/1724]; amended [Pub. L. 103–337, div. A, title III, § 326(a)][/us/pl/103/337/s326/a]–(c), Oct. 5, 1994, [108 Stat. 2712][/us/stat/108/2712], 2713; [Pub. L. 104–106, div. A, title III, § 324(a)][/us/pl/104/106/s324/a]–(d)(1), (e), Feb. 10, 1996, [110 Stat. 252–254][/us/stat/110/252-254]; [Pub. L. 104–201, div. A, title III, § 322(c)][/us/pl/104/201/s322/c], Sept. 23, 1996, [110 Stat. 2479][/us/stat/110/2479]; [Pub. L. 108–136, div. A, title III, § 317(b)][/us/pl/108/136/s317/b], title X, § 1043(c)(5), Nov. 24, 2003, [117 Stat. 1432][/us/stat/117/1432], 1612; [Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(C)][/us/pl/112/239/s2711/c/4/C], Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144].)
+(Added [Pub. L. 99–499, title II][/us/pl/99/499/tII], § 211(a)(1)(B), Oct. 17, 1986, [100 Stat. 1724][/us/stat/100/1724]; amended [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 326(a)–(c), Oct. 5, 1994, [108 Stat. 2712][/us/stat/108/2712], 2713; [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 324(a)–(d)(1), (e), Feb. 10, 1996, [110 Stat. 252–254][/us/stat/110/252-254]; [Pub. L. 104–201, div. A, title III][/us/pl/104/201/dA/tIII], § 322(c), Sept. 23, 1996, [110 Stat. 2479][/us/stat/110/2479]; [Pub. L. 108–136, div. A, title III][/us/pl/108/136/dA/tIII], § 317(b), title X, § 1043(c)(5), Nov. 24, 2003, [117 Stat. 1432][/us/stat/117/1432], 1612; [Pub. L. 112–239, div. B, title XXVII][/us/pl/112/239/dB/tXXVII], § 2711(c)(4)(C), Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144].)
 
  __References in Text__ 
 
@@ -105,9 +105,9 @@
 
     2013—Subsec. (g)(2). [Pub. L. 112–239][/us/pl/112/239] substituted “Closure Account” for “Closure Account 1990”.
 
-    2003—Subsec. (d)(2)(C). [Pub. L. 108–136, § 317(b)][/us/pl/108/136/s317/b], added subpar. (C).
+    2003—Subsec. (d)(2)(C). [Pub. L. 108–136][/us/pl/108/136], § 317(b), added subpar. (C).
 
-    Subsec. (h). [Pub. L. 108–136, § 1043(c)(5)][/us/pl/108/136/s1043/c/5], struck out heading and text of subsec. (h). Text read as follows: “In this section, the term ‘base closure law’ means the following:
+    Subsec. (h). [Pub. L. 108–136][/us/pl/108/136], § 1043(c)(5), struck out heading and text of subsec. (h). Text read as follows: “In this section, the term ‘base closure law’ means the following:
 
     “(1) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act ([Public Law 100–526][/us/pl/100/526]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).
 
@@ -115,17 +115,17 @@
 
     “(3) [Section 2687 of this title][/us/usc/t10/s2687].”
 
-    1996—Subsec. (d)(2). [Pub. L. 104–106, § 324(a)][/us/pl/104/106/s324/a], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall prescribe regulations regarding the characteristics, composition, funding, and establishment of restoration advisory boards pursuant to this subsection. However, the issuance of regulations shall not be a precondition to the establishment of a restoration advisory board or affect the existence or operation of a restoration advisory board established before the date of the enactment of this section.”
+    1996—Subsec. (d)(2). [Pub. L. 104–106][/us/pl/104/106], § 324(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall prescribe regulations regarding the characteristics, composition, funding, and establishment of restoration advisory boards pursuant to this subsection. However, the issuance of regulations shall not be a precondition to the establishment of a restoration advisory board or affect the existence or operation of a restoration advisory board established before the date of the enactment of this section.”
 
-    Subsec. (d)(3). [Pub. L. 104–106, § 324(b)][/us/pl/104/106/s324/b], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary may provide for the payment of routine administrative expenses of a restoration advisory board from funds available for the operation and maintenance of the installation (or installations) for which the board is established or from the funds available under subsection (e)(3).”
+    Subsec. (d)(3). [Pub. L. 104–106][/us/pl/104/106], § 324(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary may provide for the payment of routine administrative expenses of a restoration advisory board from funds available for the operation and maintenance of the installation (or installations) for which the board is established or from the funds available under subsection (e)(3).”
 
-    Subsec. (e). [Pub. L. 104–106, § 324(c)][/us/pl/104/106/s324/c], added subsec. (e) and struck out former subsec. (e) which authorized Secretary to make technical assistance grants under [section 9617(e) of title 42][/us/usc/t42/s9617/e] in connection with installations containing facilities listed on the National Priorities List and to make funds available to facilitate participation on technical review committees and restoration advisory boards relating to environmental restoration activities at other installations.
+    Subsec. (e). [Pub. L. 104–106][/us/pl/104/106], § 324(c), added subsec. (e) and struck out former subsec. (e) which authorized Secretary to make technical assistance grants under [section 9617(e) of title 42][/us/usc/t42/s9617/e] in connection with installations containing facilities listed on the National Priorities List and to make funds available to facilitate participation on technical review committees and restoration advisory boards relating to environmental restoration activities at other installations.
 
-    Subsec. (g). [Pub. L. 104–106, § 324(d)(1)][/us/pl/104/106/s324/d/1], added subsec. (g).
+    Subsec. (g). [Pub. L. 104–106][/us/pl/104/106], § 324(d)(1), added subsec. (g).
 
     Subsec. (g)(1). [Pub. L. 104–201][/us/pl/104/201] substituted “the environmental restoration account concerned” for “the Defense Environmental Restoration Account established”.
 
-    Subsec. (h). [Pub. L. 104–106, § 324(e)][/us/pl/104/106/s324/e], added subsec. (h).
+    Subsec. (h). [Pub. L. 104–106][/us/pl/104/106], § 324(e), added subsec. (h).
 
     1994—Subsecs. (d) to (f). [Pub. L. 103–337][/us/pl/103/337] added subsecs. (d) to (f).
 
@@ -139,7 +139,7 @@
 
  __Requirements for Restoration Advisory Boards and Exemption From Federal Advisory Committee Act__ 
 
-[Pub. L. 108–136, div. A, title III, § 317(a)][/us/pl/108/136/s317/a], Nov. 24, 2003, [117 Stat. 1432][/us/stat/117/1432], provided that: 
+[Pub. L. 108–136, div. A, title III][/us/pl/108/136/dA/tIII], § 317(a), Nov. 24, 2003, [117 Stat. 1432][/us/stat/117/1432], provided that: 
 
 > “The Secretary of Defense shall amend the regulations required by [section 2705(d)(2) of title 10][/us/usc/t10/s2705/d/2], United States Code, relating to the establishment, characteristics, composition, and funding of restoration advisory boards to ensure that each restoration advisory board complies with the following requirements:
 
@@ -163,7 +163,7 @@
 
  __Implementation Requirements for Restoration Advisory Boards__ 
 
-[Pub. L. 103–337, div. A, title III, § 326(d)][/us/pl/103/337/s326/d], Oct. 5, 1994, [108 Stat. 2713][/us/stat/108/2713], provided that: 
+[Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 326(d), Oct. 5, 1994, [108 Stat. 2713][/us/stat/108/2713], provided that: 
 
 > “Not later than 180 days after the date on which the Secretary of Defense announces a decision to establish restoration advisory boards, the Secretary shall—
 
@@ -173,11 +173,11 @@
 
  __Report on Restoration Advisory Boards and Assistance for Citizen Participation on Committees and Boards__ 
 
-    [Pub. L. 103–337, div. A, title III, § 326(e)][/us/pl/103/337/s326/e], Oct. 5, 1994, [108 Stat. 2713][/us/stat/108/2713], directed Secretary of Defense to submit, not later than May 1, 1996, report regarding establishment of restoration advisory boards under subsections (d) and (e) of this section and the expenditure of funds for assistance for citizen participation on technical review committees under subsection (e) of this section.
+    [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 326(e), Oct. 5, 1994, [108 Stat. 2713][/us/stat/108/2713], directed Secretary of Defense to submit, not later than May 1, 1996, report regarding establishment of restoration advisory boards under subsections (d) and (e) of this section and the expenditure of funds for assistance for citizen participation on technical review committees under subsection (e) of this section.
 
  __Restrictions on Administrative and Technical Assistance Funding__ 
 
-[Pub. L. 104–106, div. A, title III, § 324(d)(2)][/us/pl/104/106/s324/d/2], Feb. 10, 1996, [110 Stat. 254][/us/stat/110/254], provided that:
+[Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 324(d)(2), Feb. 10, 1996, [110 Stat. 254][/us/stat/110/254], provided that:
 
 >     “(2)
 
@@ -195,35 +195,35 @@
 [/us/usc/t10/s2703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2703%2Fa
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
-[/us/pl/99/499/s211/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs211%2Fa%2F1%2FB
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1724
-[/us/pl/103/337/s326/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs326%2Fa
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2712
-[/us/pl/104/106/s324/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs324%2Fa
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/252-254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F252-254
-[/us/pl/104/201/s322/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs322%2Fc
+[/us/pl/104/201/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIII
 [/us/stat/110/2479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2479
-[/us/pl/108/136/s317/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs317%2Fb
+[/us/pl/108/136/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIII
 [/us/stat/117/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1432
-[/us/pl/112/239/s2711/c/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711%2Fc%2F4%2FC
+[/us/pl/112/239/dB/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdB%2FtXXVII
 [/us/stat/126/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2144
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/108/136/s317/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs317%2Fb
-[/us/pl/108/136/s1043/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1043%2Fc%2F5
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/100/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F526
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
-[/us/pl/104/106/s324/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs324%2Fa
-[/us/pl/104/106/s324/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs324%2Fb
-[/us/pl/104/106/s324/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs324%2Fc
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t42/s9617/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9617%2Fe
-[/us/pl/104/106/s324/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs324%2Fd%2F1
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/104/106/s324/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs324%2Fe
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
@@ -232,17 +232,17 @@
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/201/s322/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs322%2Fe
 [/us/usc/t10/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2703
-[/us/pl/108/136/s317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs317%2Fa
+[/us/pl/108/136/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIII
 [/us/stat/117/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1432
 [/us/usc/t10/s2705/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2705%2Fd%2F2
 [/us/usc/t5/s552b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b%2Fc
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/103/337/s326/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs326%2Fd
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2713
 [/us/usc/t10/s2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2705
-[/us/pl/103/337/s326/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs326%2Fe
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2713
-[/us/pl/104/106/s324/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs324%2Fd%2F2
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F254
 [/us/usc/t10/s2705/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2705%2Fg
 

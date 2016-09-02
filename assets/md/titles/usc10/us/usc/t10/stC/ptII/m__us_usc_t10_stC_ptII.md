@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t10/stC/ptI/ch519/m__us_usc_t10_stC_ptI_ch519.md) | [Next](./../../../../..//us/usc/t10/stC/ptII/ch531/m__us_usc_t10_stC_ptII_ch531.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII)
+[Previous](./../../../../..//us/usc/t10/stC/ptI/ch519/m__us_usc_t10_s5251 _us_usc_t10_s5252.md) | [Next](./../../../../..//us/usc/t10/stC/ptII/ch531/m__us_usc_t10_stC_ptII_ch531.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII)
 
 ### PART II—PERSONNEL
 
@@ -281,15 +281,15 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–337, div. A, title XVI, § 1673(a)(3)][/us/pl/103/337/s1673/a/3], Oct. 5, 1994, [108 Stat. 3015][/us/stat/108/3015], struck out items for chapters 531 “Strength of Naval Reserve and Marine Corps Reserve”, 541 “Running Mates for Reserve Officers”, and 549 “Reserve Promotions”.
+    1994—[Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1673(a)(3), Oct. 5, 1994, [108 Stat. 3015][/us/stat/108/3015], struck out items for chapters 531 “Strength of Naval Reserve and Marine Corps Reserve”, 541 “Running Mates for Reserve Officers”, and 549 “Reserve Promotions”.
 
-    1980—[Pub. L. 96–513, title V, § 503(16)][/us/pl/96/513/s503/16], Dec. 12, 1980, [94 Stat. 2912][/us/stat/94/2912], inserted “of Naval Reserve and Marine Corps Reserve” after “Strength” in item for chapter 531, inserted “for Reserve Officers” after “Running Mates” in item for chapter 541, struck out item for chapter 543 “Selection Boards”, added item for chapter 544, and struck out items for chapter 545 “Promotions” and for chapter 547 “Examinations for Promotion”.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], § 503(16), Dec. 12, 1980, [94 Stat. 2912][/us/stat/94/2912], inserted “of Naval Reserve and Marine Corps Reserve” after “Strength” in item for chapter 531, inserted “for Reserve Officers” after “Running Mates” in item for chapter 541, struck out item for chapter 543 “Selection Boards”, added item for chapter 544, and struck out items for chapter 545 “Promotions” and for chapter 547 “Examinations for Promotion”.
 
-    1958—[Pub. L. 85–861, § 1(134)][/us/pl/85/861/s1/134], Sept. 2, 1958, [72 Stat. 1507][/us/stat/72/1507], added item for chapter 549.
+    1958—[Pub. L. 85–861][/us/pl/85/861], § 1(134), Sept. 2, 1958, [72 Stat. 1507][/us/stat/72/1507], added item for chapter 549.
 
  __Suspension of Certain Sections of Title 10 and Amendments to Officer Personnel Act of 1947__ 
 
-[Act Aug. 10, 1956, ch. 1041, § 48][/us/act/1956-08-10/ch1041/s48], [70A Stat. 639][/us/stat/70A/639], as amended by [Pub. L. 109–163, div. A, title V, § 515(h)][/us/pl/109/163/s515/h], Jan. 6, 2006, [119 Stat. 3237][/us/stat/119/3237], provided that:
+[Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 48, [70A Stat. 639][/us/stat/70A/639], as amended by [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(h), Jan. 6, 2006, [119 Stat. 3237][/us/stat/119/3237], provided that:
 
 > “Sec. 48.
 
@@ -309,28 +309,28 @@
 
 >     “(c) Title IV of the Officer Personnel Act of 1947 ([61 Stat. 869][/us/stat/61/869]), as amended, is amended by adding the following new section at the end thereof:
 
-> “\[Sec. 437. Repealed. [Pub. L. 104–106, div. A, title XV, § 1505(a)][/us/pl/104/106/s1505/a], Feb. 10, 1996, [110 Stat. 514][/us/stat/110/514].\]”
+> “\[Sec. 437. Repealed. [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1505(a), Feb. 10, 1996, [110 Stat. 514][/us/stat/110/514].\]”
 
 ----------
 
-[Previous](./../../../../..//us/usc/t10/stC/ptI/ch519/m__us_usc_t10_stC_ptI_ch519.md) | [Next](./../../../../..//us/usc/t10/stC/ptII/ch531/m__us_usc_t10_stC_ptII_ch531.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII)
+[Previous](./../../../../..//us/usc/t10/stC/ptI/ch519/m__us_usc_t10_s5251 _us_usc_t10_s5252.md) | [Next](./../../../../..//us/usc/t10/stC/ptII/ch531/m__us_usc_t10_stC_ptII_ch531.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII)
 
 ----------
 ----------
 
-[/us/pl/103/337/s1673/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1673%2Fa%2F3
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3015
-[/us/pl/96/513/s503/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs503%2F16
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2912
-[/us/pl/85/861/s1/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F134
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1507
-[/us/act/1956-08-10/ch1041/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs48
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F639
-[/us/pl/109/163/s515/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fh
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3237
 [/us/usc/t10/s5590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5590
 [/us/stat/61/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F869
-[/us/pl/104/106/s1505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1505%2Fa
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F514
 
 

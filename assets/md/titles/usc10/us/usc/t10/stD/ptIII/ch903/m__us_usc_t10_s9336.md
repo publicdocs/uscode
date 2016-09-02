@@ -19,7 +19,7 @@
 
     (b) A person appointed as director of admissions of the Academy has the regular grade of lieutenant colonel, and, after he has served six years as director of admissions, has the regular grade of colonel. However, a person appointed from the Regular Air Force has the regular grade of colonel after the date when he completes six years of service as director of admissions, or after the date on which he would have been promoted had he been selected for promotion from among officers in the promotion zone, whichever is earlier.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 562][/us/stat/70A/562]; [Pub. L. 85–600, § 1(22)][/us/pl/85/600/s1/22], Aug. 6, 1958, [72 Stat. 524][/us/stat/72/524]; [Pub. L. 85–861, § 33(a)(46)(B)][/us/pl/85/861/s33/a/46/B], Sept. 2, 1958, [72 Stat. 1567][/us/stat/72/1567]; [Pub. L. 96–513, title II, § 218(b)][/us/pl/96/513/s218/b], title V, § 504(24), Dec. 12, 1980, [94 Stat. 2886][/us/stat/94/2886], 2917; [Pub. L. 98–525, title V, § 533(d)(2)][/us/pl/98/525/s533/d/2], Oct. 19, 1984, [98 Stat. 2528][/us/stat/98/2528]; [Pub. L. 101–189, div. A, title V, § 515(a)(4)][/us/pl/101/189/s515/a/4], (b)(1), Nov. 29, 1989, [103 Stat. 1441][/us/stat/103/1441]; [Pub. L. 108–136, div. A, title V, § 529(c)(2)][/us/pl/108/136/s529/c/2], Nov. 24, 2003, [117 Stat. 1472][/us/stat/117/1472].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 562][/us/stat/70A/562]; [Pub. L. 85–600][/us/pl/85/600], § 1(22), Aug. 6, 1958, [72 Stat. 524][/us/stat/72/524]; [Pub. L. 85–861][/us/pl/85/861], § 33(a)(46)(B), Sept. 2, 1958, [72 Stat. 1567][/us/stat/72/1567]; [Pub. L. 96–513, title II][/us/pl/96/513/tII], § 218(b), title V, § 504(24), Dec. 12, 1980, [94 Stat. 2886][/us/stat/94/2886], 2917; [Pub. L. 98–525, title V][/us/pl/98/525/tV], § 533(d)(2), Oct. 19, 1984, [98 Stat. 2528][/us/stat/98/2528]; [Pub. L. 101–189, div. A, title V][/us/pl/101/189/dA/tV], § 515(a)(4), (b)(1), Nov. 29, 1989, [103 Stat. 1441][/us/stat/103/1441]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 529(c)(2), Nov. 24, 2003, [117 Stat. 1472][/us/stat/117/1472].)
 
 <table>
 
@@ -83,23 +83,23 @@ Aug. 7, 1947, ch. 512, § 520(a) 61 Stat. 912.  </td>
 
     2003—Subsec. (a). [Pub. L. 108–136][/us/pl/108/136] struck out “, other than the Dean of the Faculty,” after “Academy”.
 
-    1989—[Pub. L. 101–189, § 515(b)][/us/pl/101/189/s515/b], substituted “director of admissions” for “registrar” in section catchline.
+    1989—[Pub. L. 101–189][/us/pl/101/189], § 515(b), substituted “director of admissions” for “registrar” in section catchline.
 
-    Subsec. (b). [Pub. L. 101–189, § 515(a)(4)][/us/pl/101/189/s515/a/4], substituted “director of admissions” for “registrar” in three places.
+    Subsec. (b). [Pub. L. 101–189][/us/pl/101/189], § 515(a)(4), substituted “director of admissions” for “registrar” in three places.
 
     1984—Subsecs. (a), (b). [Pub. L. 98–525][/us/pl/98/525] substituted “on which he would have been promoted had he been selected for promotion from among officers in the promotion zone,” for “when a regular officer, junior to him on the promotion list or active-duty list on which his name was carried before his appointment as a professor, is promoted to the regular grade of colonel,”.
 
-    1980—Subsecs. (a), (b). [Pub. L. 96–513, § 504(24)][/us/pl/96/513/s504/24], substituted “after the date when a regular officer, junior to him on the promotion list or active-duty list on which his name was carried” for “after the date when a promotion-list officer, junior to him on the promotion list on which his name was carried”.
+    1980—Subsecs. (a), (b). [Pub. L. 96–513][/us/pl/96/513], § 504(24), substituted “after the date when a regular officer, junior to him on the promotion list or active-duty list on which his name was carried” for “after the date when a promotion-list officer, junior to him on the promotion list on which his name was carried”.
 
-    Subsec. (c). [Pub. L. 96–513, § 218(b)][/us/pl/96/513/s218/b], struck out subsec. (c) which provided that, unless he is serving in a higher grade, an officer detailed to perform the duties of registrar has, while performing those duties, the temporary grade of lieutenant colonel and, after performing those duties for a period of six years, has the temporary grade of colonel.
+    Subsec. (c). [Pub. L. 96–513][/us/pl/96/513], § 218(b), struck out subsec. (c) which provided that, unless he is serving in a higher grade, an officer detailed to perform the duties of registrar has, while performing those duties, the temporary grade of lieutenant colonel and, after performing those duties for a period of six years, has the temporary grade of colonel.
 
-    1958—[Pub. L. 85–600, § 1(22)(C)][/us/pl/85/600/s1/22/C], inserted “; registrar” in section catchline.
+    1958—[Pub. L. 85–600][/us/pl/85/600], § 1(22)(C), inserted “; registrar” in section catchline.
 
     Subsec. (a). [Pub. L. 85–861][/us/pl/85/861] substituted “has the grade of colonel” for “has the regular grade of colonel” in two places, and “have the grade of lieutenant colonel” for “have the regular grade of lieutenant colonel”.
 
-    [Pub. L. 85–600, § 1(22)(A)][/us/pl/85/600/s1/22/A], designated existing provisions as subsec. (a).
+    [Pub. L. 85–600][/us/pl/85/600], § 1(22)(A), designated existing provisions as subsec. (a).
 
-    Subsecs. (b), (c). [Pub. L. 85–600, § 1(22)(B)][/us/pl/85/600/s1/22/B], added subsecs. (b) and (c).
+    Subsecs. (b), (c). [Pub. L. 85–600][/us/pl/85/600], § 1(22)(B), added subsecs. (b) and (c).
 
  __Effective Date of 2003 Amendment__ 
 
@@ -128,28 +128,28 @@ Aug. 7, 1947, ch. 512, § 520(a) 61 Stat. 912.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F562
-[/us/pl/85/600/s1/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F600%2Fs1%2F22
+[/us/pl/85/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F600
 [/us/stat/72/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F524
-[/us/pl/85/861/s33/a/46/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F46%2FB
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1567
-[/us/pl/96/513/s218/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs218%2Fb
+[/us/pl/96/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtII
 [/us/stat/94/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2886
-[/us/pl/98/525/s533/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs533%2Fd%2F2
+[/us/pl/98/525/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtV
 [/us/stat/98/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2528
-[/us/pl/101/189/s515/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs515%2Fa%2F4
+[/us/pl/101/189/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtV
 [/us/stat/103/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1441
-[/us/pl/108/136/s529/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs529%2Fc%2F2
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1472
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/101/189/s515/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs515%2Fb
-[/us/pl/101/189/s515/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs515%2Fa%2F4
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
-[/us/pl/96/513/s504/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs504%2F24
-[/us/pl/96/513/s218/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs218%2Fb
-[/us/pl/85/600/s1/22/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F600%2Fs1%2F22%2FC
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/85/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F600
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
-[/us/pl/85/600/s1/22/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F600%2Fs1%2F22%2FA
-[/us/pl/85/600/s1/22/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F600%2Fs1%2F22%2FB
+[/us/pl/85/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F600
+[/us/pl/85/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F600
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/108/136/s529/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs529%2Fd
 [/us/usc/t10/s9331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9331

@@ -55,7 +55,7 @@
 
         (3) The authority under paragraph (1) may be exercised without regard to [section 3302(b) of title 31][/us/usc/t31/s3302/b] and any other provision of law.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 344(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–69; amended [Pub. L. 109–163, div. A, title III, § 323(b)][/us/pl/109/163/s323/b], Jan. 6, 2006, [119 Stat. 3194][/us/stat/119/3194].)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 344(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–69; amended [Pub. L. 109–163, div. A, title III][/us/pl/109/163/dA/tIII], § 323(b), Jan. 6, 2006, [119 Stat. 3194][/us/stat/119/3194].)
 
  __Amendments__ 
 
@@ -63,13 +63,13 @@
 
  __Temporary Authority To Extend Contracts and Leases Under the Arms Initiative__ 
 
-[Pub. L. 114–92, div. A, title III, § 343][/us/pl/114/92/s343], Nov. 25, 2015, [129 Stat. 794][/us/stat/129/794], provided that: 
+[Pub. L. 114–92, div. A, title III][/us/pl/114/92/dA/tIII], § 343, Nov. 25, 2015, [129 Stat. 794][/us/stat/129/794], provided that: 
 
 > “Contracts or subcontracts entered into pursuant to [section 4554(a)(3)(A) of title 10][/us/usc/t10/s4554/a/3/A], United States Code, on or before the date that is five years after the date of the enactment of this Act \[Nov. 25, 2015\] may include an option to extend the term of the contract or subcontract for an additional 25 years.”
 
  __Implementation Report__ 
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 344(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–71, provided that, not later than July 1, 2001, the Secretary of Defense was to submit to the congressional defense committees a report on the procedures and controls implemented to carry out this section.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 344(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–71, provided that, not later than July 1, 2001, the Secretary of Defense was to submit to the congressional defense committees a report on the procedures and controls implemented to carry out this section.
 
 ----------
 
@@ -80,15 +80,15 @@
 
 [/us/usc/t10/s2304/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Fc%2F5
 [/us/usc/t31/s3302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302%2Fb
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/109/163/s323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs323%2Fb
+[/us/pl/109/163/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIII
 [/us/stat/119/3194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3194
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/114/92/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs343
+[/us/pl/114/92/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtIII
 [/us/stat/129/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F794
 [/us/usc/t10/s4554/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4554%2Fa%2F3%2FA
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

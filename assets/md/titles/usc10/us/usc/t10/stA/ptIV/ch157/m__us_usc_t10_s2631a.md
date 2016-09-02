@@ -23,7 +23,7 @@
 
     The Secretary shall afford each operator of a vessel referred to in subsection (a), not less often than annually, an opportunity to present to the Department of Defense information on its port-to-port and intermodal transportation capacities.
 
-(Added [Pub. L. 103–160, div. A, title XI, § 1173(a)][/us/pl/103/160/s1173/a], Nov. 30, 1993, [107 Stat. 1767][/us/stat/107/1767].)
+(Added [Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1173(a), Nov. 30, 1993, [107 Stat. 1767][/us/stat/107/1767].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/160/s1173/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1173%2Fa
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1767
 
 

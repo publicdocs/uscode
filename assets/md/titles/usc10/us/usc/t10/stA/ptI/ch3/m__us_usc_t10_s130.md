@@ -21,7 +21,7 @@
 
     (c) In this section, the term “technical data with military or space application” means any blueprints, drawings, plans, instructions, computer software and documentation, or other technical information that can be used, or be adapted for use, to design, engineer, produce, manufacture, operate, repair, overhaul, or reproduce any military or space equipment or technology concerning such equipment.
 
-(Added [Pub. L. 98–94, title XII, § 1217(a)][/us/pl/98/94/s1217/a], Sept. 24, 1983, [97 Stat. 690][/us/stat/97/690], § 140c; amended [Pub. L. 99–145, title XIII, § 1303(a)(3)][/us/pl/99/145/s1303/a/3], Nov. 8, 1985, [99 Stat. 738][/us/stat/99/738]; renumbered § 130 and amended [Pub. L. 99–433, title I][/us/pl/99/433], §§ 101(a)(3), 110(d)(6), Oct. 1, 1986, [100 Stat. 994][/us/stat/100/994], 1003; [Pub. L. 100–26, § 7(k)(3)][/us/pl/100/26/s7/k/3], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 101–510, div. A, title XIV, § 1484(b)(1)][/us/pl/101/510/s1484/b/1], Nov. 5, 1990, [104 Stat. 1715][/us/stat/104/1715].)
+(Added [Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1217(a), Sept. 24, 1983, [97 Stat. 690][/us/stat/97/690], § 140c; amended [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1303(a)(3), Nov. 8, 1985, [99 Stat. 738][/us/stat/99/738]; renumbered § 130 and amended [Pub. L. 99–433, title I][/us/pl/99/433/tI], §§ 101(a)(3), 110(d)(6), Oct. 1, 1986, [100 Stat. 994][/us/stat/100/994], 1003; [Pub. L. 100–26][/us/pl/100/26], § 7(k)(3), Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1484(b)(1), Nov. 5, 1990, [104 Stat. 1715][/us/stat/104/1715].)
 
  __References in Text__ 
 
@@ -47,15 +47,15 @@
 ----------
 
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
-[/us/pl/98/94/s1217/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1217%2Fa
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F690
-[/us/pl/99/145/s1303/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1303%2Fa%2F3
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F738
-[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/99/433/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtI
 [/us/stat/100/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F994
-[/us/pl/100/26/s7/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fk%2F3
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F284
-[/us/pl/101/510/s1484/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484%2Fb%2F1
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1715
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503

@@ -73,11 +73,11 @@
 
     A reserve officer of the Army or the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Army Reserve or the Air Force Reserve, as the case may be, in that grade.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2937][/us/stat/108/2937]; amended [Pub. L. 105–85, div. A, title V, § 514(c)][/us/pl/105/85/s514/c], Nov. 18, 1997, [111 Stat. 1732][/us/stat/111/1732]; [Pub. L. 107–107, div. A, title V][/us/pl/107/107], §§ 505(b)(1), 506(b), Dec. 28, 2001, [115 Stat. 1086][/us/stat/115/1086], 1089; [Pub. L. 109–364, div. A, title V, § 511(d)(2)][/us/pl/109/364/s511/d/2], Oct. 17, 2006, [120 Stat. 2183][/us/stat/120/2183]; [Pub. L. 114–92, div. A, title V, § 502(b)][/us/pl/114/92/s502/b], Nov. 25, 2015, [129 Stat. 806][/us/stat/129/806].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2937][/us/stat/108/2937]; amended [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 514(c), Nov. 18, 1997, [111 Stat. 1732][/us/stat/111/1732]; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], §§ 505(b)(1), 506(b), Dec. 28, 2001, [115 Stat. 1086][/us/stat/115/1086], 1089; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 511(d)(2), Oct. 17, 2006, [120 Stat. 2183][/us/stat/120/2183]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 502(b), Nov. 25, 2015, [129 Stat. 806][/us/stat/129/806].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in subsecs. (a), (d), and (f) of this section were contained in sections 3385, 5902(a) to (c), and 8374 of this title, prior to repeal by [Pub. L. 103–337, § 1629(a)(1)][/us/pl/103/337/s1629/a/1], (b)(2), (c)(1).
+    Provisions similar to those in subsecs. (a), (d), and (f) of this section were contained in sections 3385, 5902(a) to (c), and 8374 of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(a)(1), (b)(2), (c)(1).
 
  __Amendments__ 
 
@@ -85,15 +85,15 @@
 
     2006—Subsec. (a). [Pub. L. 109–364][/us/pl/109/364] inserted at end “A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.”
 
-    2001—Subsec. (b)(4). [Pub. L. 107–107, § 505(b)(1)][/us/pl/107/107/s505/b/1], added par. (4).
+    2001—Subsec. (b)(4). [Pub. L. 107–107][/us/pl/107/107], § 505(b)(1), added par. (4).
 
-    Subsec. (c)(2). [Pub. L. 107–107, § 506(b)(1)(B)][/us/pl/107/107/s506/b/1/B], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (c)(2). [Pub. L. 107–107][/us/pl/107/107], § 506(b)(1)(B), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (c)(3). [Pub. L. 107–107, § 506(b)(1)(A)][/us/pl/107/107/s506/b/1/A], (2), redesignated par. (2) as (3) and inserted “provided in paragraph (2) or as otherwise” after “Except as”.
+    Subsec. (c)(3). [Pub. L. 107–107][/us/pl/107/107], § 506(b)(1)(A), (2), redesignated par. (2) as (3) and inserted “provided in paragraph (2) or as otherwise” after “Except as”.
 
-    1997—Subsec. (e)(2). [Pub. L. 105–85, § 514(c)(1)][/us/pl/105/85/s514/c/1], inserted “a grade below colonel in” after “an officer in”.
+    1997—Subsec. (e)(2). [Pub. L. 105–85][/us/pl/105/85], § 514(c)(1), inserted “a grade below colonel in” after “an officer in”.
 
-    Subsec. (g). [Pub. L. 105–85, § 514(c)(2)][/us/pl/105/85/s514/c/2], inserted “or the Air Force” after “A reserve officer of the Army”, substituted “in the Army Reserve or the Air Force Reserve, as the case may be, in that grade” for “in that grade in a unit of the Army Reserve that is organized to serve as a unit and that has attained the strength prescribed by the Secretary of the Army”, and struck out at end “A reserve officer of the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Air Force Reserve in that grade.”
+    Subsec. (g). [Pub. L. 105–85][/us/pl/105/85], § 514(c)(2), inserted “or the Air Force” after “A reserve officer of the Army”, substituted “in the Army Reserve or the Air Force Reserve, as the case may be, in that grade” for “in that grade in a unit of the Army Reserve that is organized to serve as a unit and that has attained the strength prescribed by the Secretary of the Army”, and struck out at end “A reserve officer of the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Air Force Reserve in that grade.”
 
  __Effective Date of 2006 Amendment__ 
 
@@ -120,24 +120,24 @@
 [/us/usc/t10/s14311/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14311%2Fe
 [/us/usc/t10/s14101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fa
 [/us/usc/t10/s14101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fa
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2937
-[/us/pl/105/85/s514/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs514%2Fc
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1732
-[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1086
-[/us/pl/109/364/s511/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fd%2F2
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2183
-[/us/pl/114/92/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs502%2Fb
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F806
-[/us/pl/103/337/s1629/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fa%2F1
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/107/107/s505/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fb%2F1
-[/us/pl/107/107/s506/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs506%2Fb%2F1%2FB
-[/us/pl/107/107/s506/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs506%2Fb%2F1%2FA
-[/us/pl/105/85/s514/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs514%2Fc%2F1
-[/us/pl/105/85/s514/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs514%2Fc%2F2
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/364/s511/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fe
 [/us/usc/t10/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs624

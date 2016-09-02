@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5590.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5600.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5596)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5591...5595.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5597...5599.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5596)
 
 ## § 5596. Navy and Marine Corps: temporary appointments of officers designated for limited duty
 
@@ -35,7 +35,7 @@
 
     (e) The Secretary of the Navy may terminate any appointment made under this section.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 328][/us/stat/70A/328]; [Pub. L. 96–513, title III, § 326][/us/pl/96/513/s326], Dec. 12, 1980, [94 Stat. 2894][/us/stat/94/2894]; [Pub. L. 102–190, div. A, title XI, § 1113(c)][/us/pl/102/190/s1113/c], (d)(2)(A), Dec. 5, 1991, [105 Stat. 1502][/us/stat/105/1502]; [Pub. L. 109–163, div. A, title V, § 515(b)(1)(G)][/us/pl/109/163/s515/b/1/G], Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 328][/us/stat/70A/328]; [Pub. L. 96–513, title III][/us/pl/96/513/tIII], § 326, Dec. 12, 1980, [94 Stat. 2894][/us/stat/94/2894]; [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1113(c), (d)(2)(A), Dec. 5, 1991, [105 Stat. 1502][/us/stat/105/1502]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(G), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
 
 <table>
 
@@ -317,11 +317,11 @@ Aug. 7, 1947, ch. 512, § 316(d) (as applicable to temporary appointments unde
 
     2006—Subsec. (c)(2) to (4). [Pub. L. 109–163][/us/pl/109/163] substituted “Navy Reserve” for “Naval Reserve” wherever appearing.
 
-    1991—[Pub. L. 102–190, § 1113(d)(2)(A)][/us/pl/102/190/s1113/d/2/A], struck out “warrant officers and” before “officers designated” in section catchline.
+    1991—[Pub. L. 102–190][/us/pl/102/190], § 1113(d)(2)(A), struck out “warrant officers and” before “officers designated” in section catchline.
 
-    Subsec. (a). [Pub. L. 102–190, § 1113(c)(1)][/us/pl/102/190/s1113/c/1], reorganized subsec. (a), striking out par. (1) relating to warrant officer grades, and striking out par. (2) designation.
+    Subsec. (a). [Pub. L. 102–190][/us/pl/102/190], § 1113(c)(1), reorganized subsec. (a), striking out par. (1) relating to warrant officer grades, and striking out par. (2) designation.
 
-    Subsec. (d). [Pub. L. 102–190, § 1113(c)(2)][/us/pl/102/190/s1113/c/2], substituted “subsection (a)” for “subsection (a)(2)”.
+    Subsec. (d). [Pub. L. 102–190][/us/pl/102/190], § 1113(c)(2), substituted “subsection (a)” for “subsection (a)(2)”.
 
     1980—Subsec. (a). [Pub. L. 96–513][/us/pl/96/513] substituted provisions authorizing the Secretary of the Navy to make temporary appointments in warrant officer grades and of certain officers designated for limited duty for provisions authorizing such appointments only when the number of male officers serving on active duty in the grade of ensign and above in the line of the Navy exceeded the number of male officers on the active list in the line of the Navy.
 
@@ -351,21 +351,9 @@ Aug. 7, 1947, ch. 512, § 316(d) (as applicable to temporary appointments unde
 
     For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of [Pub. L. 96–513][/us/pl/96/513] and otherwise to allow for an orderly transition to the system of officer personnel management put in place under [Pub. L. 96–513][/us/pl/96/513], see section 601 et seq. of [Pub. L. 96–513][/us/pl/96/513], set out as a note under [section 611 of this title][/us/usc/t10/s611].
 
-\[§§ 5597 to 5599. __Repealed.__  __[__  __Pub. L. 96–513, title III, § 327__  __][/us/pl/96/513/s327]__  __,__  __Dec. 12, 1980__  __,__  __[__  __94 Stat. 2894__  __][/us/stat/94/2894]__  __\]__ 
-
-    Section 5597, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 330][/us/stat/70A/330]; Sept. 7, 1962, [Pub. L. 87–649][/us/pl/87/649], §§ 5(a), 14c(28), [76 Stat. 493][/us/stat/76/493], 501; Sept. 28, 1971, [Pub. L. 92–129, title VI, § 603(a)][/us/pl/92/129/s603/a], [85 Stat. 362][/us/stat/85/362], authorized temporary appointments in Navy and Marine Corps in times of war or national emergency. See [section 603 of this title][/us/usc/t10/s603].
-
-    Section 5598, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 331][/us/stat/70A/331], authorized temporary appointments in Naval Reserve and Marine Corps Reserve in times of war or national emergency. See [section 603 of this title][/us/usc/t10/s603].
-
-    Section 5599, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 331][/us/stat/70A/331], provided that the President alone could make appointments for temporary service in Medical Corps in grade of lieutenant (junior grade). See [section 603 of this title][/us/usc/t10/s603].
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Sept. 15, 1981, see [section 701 of Pub. L. 96–513][/us/pl/96/513/s701], set out as an Effective Date of 1980 Amendment note under [section 101 of this title][/us/usc/t10/s101].
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5590.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5600.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5596)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5591...5595.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5597...5599.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5596)
 
 ----------
 ----------
@@ -373,19 +361,19 @@ Aug. 7, 1947, ch. 512, § 316(d) (as applicable to temporary appointments unde
 [/us/usc/t10/s5589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5589
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F328
-[/us/pl/96/513/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs326
+[/us/pl/96/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIII
 [/us/stat/94/2894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2894
-[/us/pl/102/190/s1113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1113%2Fc
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1502
-[/us/pl/109/163/s515/b/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FG
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3233
 [/us/usc/t34/s3d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs3d
 [/us/usc/t34/s3c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs3c%2Fa
 [/us/usc/t34/s3c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs3c%2Fa
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/102/190/s1113/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1113%2Fd%2F2%2FA
-[/us/pl/102/190/s1113/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1113%2Fc%2F1
-[/us/pl/102/190/s1113/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1113%2Fc%2F2
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
@@ -404,22 +392,5 @@ Aug. 7, 1947, ch. 512, § 316(d) (as applicable to temporary appointments unde
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/usc/t10/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs611
-[/us/pl/96/513/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs327
-[/us/stat/94/2894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2894
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F330
-[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
-[/us/stat/76/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F493
-[/us/pl/92/129/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs603%2Fa
-[/us/stat/85/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F362
-[/us/usc/t10/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs603
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F331
-[/us/usc/t10/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs603
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F331
-[/us/usc/t10/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs603
-[/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
-[/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 
 

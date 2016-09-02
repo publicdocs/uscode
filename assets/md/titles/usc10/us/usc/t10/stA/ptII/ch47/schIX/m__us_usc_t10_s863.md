@@ -17,7 +17,7 @@
 
     Each rehearing under this chapter shall take place before a court-martial composed of members not members of the court-martial which first heard the case. Upon a rehearing the accused may not be tried for any offense of which he was found not guilty by the first court-martial, and no sentence in excess of or more severe than the original sentence may be approved, unless the sentence is based upon a finding of guilty of an offense not considered upon the merits in the original proceedings, or unless the sentence prescribed for the offense is mandatory. If the sentence approved after the first court-martial was in accordance with a pretrial agreement and the accused at the rehearing changes his plea with respect to the charges or specifications upon which the pretrial agreement was based, or otherwise does not comply with the pretrial agreement, the approved sentence as to those charges or specifications may include any punishment not in excess of that lawfully adjudged at the first court-martial.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 58][/us/stat/70A/58]; [Pub. L. 98–209, § 5(d)][/us/pl/98/209/s5/d], Dec. 6, 1983, [97 Stat. 1398][/us/stat/97/1398]; [Pub. L. 102–484, div. A, title X, § 1065][/us/pl/102/484/s1065], Oct. 23, 1992, [106 Stat. 2506][/us/stat/106/2506].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 58][/us/stat/70A/58]; [Pub. L. 98–209][/us/pl/98/209], § 5(d), Dec. 6, 1983, [97 Stat. 1398][/us/stat/97/1398]; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1065, Oct. 23, 1992, [106 Stat. 2506][/us/stat/106/2506].)
 
 <table>
 
@@ -94,9 +94,9 @@ May 5, 1950, ch. 169, § 1 (Art. 63), 64 Stat. 127.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F58
-[/us/pl/98/209/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs5%2Fd
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1398
-[/us/pl/102/484/s1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1065
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2506
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209

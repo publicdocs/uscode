@@ -43,7 +43,7 @@
 
     Amounts received by the Defense Cyber Investigations Training Academy for instruction of students enrolled under this section shall be retained by the Academy to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the Academy.
 
-(Added [Pub. L. 111–84, div. A, title IX, § 901(a)][/us/pl/111/84/s901/a], Oct. 28, 2009, [123 Stat. 2422][/us/stat/123/2422].)
+(Added [Pub. L. 111–84, div. A, title IX][/us/pl/111/84/dA/tIX], § 901(a), Oct. 28, 2009, [123 Stat. 2422][/us/stat/123/2422].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/111/84/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs901%2Fa
+[/us/pl/111/84/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIX
 [/us/stat/123/2422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2422
 
 

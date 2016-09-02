@@ -85,25 +85,25 @@
 
         (3) provide methodologies for establishing standard processes and reports for collecting and sharing market research across the Department.
 
-(Added [Pub. L. 103–355, title VIII, § 8104(a)][/us/pl/103/355/s8104/a], Oct. 13, 1994, [108 Stat. 3390][/us/stat/108/3390]; amended [Pub. L. 110–181, div. A, title VIII, § 826(a)][/us/pl/110/181/s826/a], Jan. 28, 2008, [122 Stat. 227][/us/stat/122/227]; [Pub. L. 114–92, div. A, title VIII, § 844(a)][/us/pl/114/92/s844/a], Nov. 25, 2015, [129 Stat. 915][/us/stat/129/915].)
+(Added [Pub. L. 103–355, title VIII][/us/pl/103/355/tVIII], § 8104(a), Oct. 13, 1994, [108 Stat. 3390][/us/stat/108/3390]; amended [Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 826(a), Jan. 28, 2008, [122 Stat. 227][/us/stat/122/227]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 844(a), Nov. 25, 2015, [129 Stat. 915][/us/stat/129/915].)
 
  __Amendments__ 
 
     2015—Subsec. (d). [Pub. L. 114–92][/us/pl/114/92] added subsec. (d).
 
-    2008—Subsec. (c)(1)(C). [Pub. L. 110–181, § 826(a)(1)][/us/pl/110/181/s826/a/1], added subpar. (C).
+    2008—Subsec. (c)(1)(C). [Pub. L. 110–181][/us/pl/110/181], § 826(a)(1), added subpar. (C).
 
-    Subsec. (c)(4). [Pub. L. 110–181, § 826(a)(2)][/us/pl/110/181/s826/a/2], added par. (4).
+    Subsec. (c)(4). [Pub. L. 110–181][/us/pl/110/181], § 826(a)(2), added par. (4).
 
  __Incorporation Into Management Certification Training Mandate__ 
 
-[Pub. L. 114–92, div. A, title VIII, § 844(b)][/us/pl/114/92/s844/b], Nov. 25, 2015, [129 Stat. 915][/us/stat/129/915], provided that: 
+[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 844(b), Nov. 25, 2015, [129 Stat. 915][/us/stat/129/915], provided that: 
 
 > “The Chairman of the Joint Chiefs of Staff shall ensure that the requirements of [section 2377(d) of title 10][/us/usc/t10/s2377/d], United States Code, as added by subsection (a), are incorporated into the requirements management certification training mandate of the Joint Capabilities Integration Development System.”
 
  __Market Research and Preference for Commercial Items__ 
 
-[Pub. L. 114–92, div. A, title VIII, § 855][/us/pl/114/92/s855], Nov. 25, 2015, [129 Stat. 919][/us/stat/129/919], provided that:
+[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 855, Nov. 25, 2015, [129 Stat. 919][/us/stat/129/919], provided that:
 
 >     “(a)  __Guidance Required__  __.—__ 
 
@@ -123,7 +123,7 @@
 
  __Limitation on Conversion of Procurements From Commercial Acquisition Procedures__ 
 
-[Pub. L. 114–92, div. A, title VIII, § 856][/us/pl/114/92/s856], Nov. 25, 2015, [129 Stat. 920][/us/stat/129/920], provided that:
+[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 856, Nov. 25, 2015, [129 Stat. 920][/us/stat/129/920], provided that:
 
 >     “(a) __Limitation.—__ 
 
@@ -181,7 +181,7 @@
 
  __Requirement To Develop Training and Tools__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 826(b)][/us/pl/110/181/s826/b], Jan. 28, 2008, [122 Stat. 228][/us/stat/122/228], provided that: 
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 826(b), Jan. 28, 2008, [122 Stat. 228][/us/stat/122/228], provided that: 
 
 > “The Secretary of Defense shall develop training to assist contracting officers, and market research tools to assist such officers and prime contractors, in performing appropriate market research as required by subsection (c) of [section 2377 of title 10][/us/usc/t10/s2377], United States Code, as amended by this section.”
 
@@ -192,27 +192,27 @@
 ----------
 ----------
 
-[/us/pl/103/355/s8104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs8104%2Fa
+[/us/pl/103/355/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtVIII
 [/us/stat/108/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3390
-[/us/pl/110/181/s826/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs826%2Fa
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F227
-[/us/pl/114/92/s844/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs844%2Fa
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F915
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
-[/us/pl/110/181/s826/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs826%2Fa%2F1
-[/us/pl/110/181/s826/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs826%2Fa%2F2
-[/us/pl/114/92/s844/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs844%2Fb
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F915
 [/us/usc/t10/s2377/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2377%2Fd
-[/us/pl/114/92/s855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs855
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F919
 [/us/usc/t10/s2377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2377
 [/us/usc/t10/s2377/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2377%2Fc
-[/us/pl/114/92/s856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs856
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F920
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4519
-[/us/pl/110/181/s826/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs826%2Fb
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F228
 [/us/usc/t10/s2377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2377
 

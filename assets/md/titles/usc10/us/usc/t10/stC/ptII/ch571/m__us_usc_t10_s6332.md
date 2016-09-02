@@ -27,7 +27,7 @@
 
     the transfer is conclusive for all purposes. Each member so transferred is entitled, when not on active duty, to retainer pay or retired pay from the date of transfer in accordance with his grade and number of years of creditable service as determined by the Secretary. The Secretary may correct any error or omission in his determination as to a member’s grade and years of creditable service. When such a correction is made, the member is entitled, when not on active duty, to retainer pay or retired pay in accordance with his grade and number of years of creditable service, as corrected, from the date of transfer.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 397][/us/stat/70A/397]; [Pub. L. 85–583, § 1(7)][/us/pl/85/583/s1/7], Aug. 1, 1958, [72 Stat. 480][/us/stat/72/480]; [Pub. L. 85–861, § 33(a)(33)][/us/pl/85/861/s33/a/33], Sept. 2, 1958, [72 Stat. 1566][/us/stat/72/1566].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 397][/us/stat/70A/397]; [Pub. L. 85–583][/us/pl/85/583], § 1(7), Aug. 1, 1958, [72 Stat. 480][/us/stat/72/480]; [Pub. L. 85–861][/us/pl/85/861], § 33(a)(33), Sept. 2, 1958, [72 Stat. 1566][/us/stat/72/1566].)
 
 <table>
 
@@ -110,9 +110,9 @@ July 9, 1952, ch. 608, § 803 (3d sentence), 66 Stat. 505.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F397
-[/us/pl/85/583/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F583%2Fs1%2F7
+[/us/pl/85/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F583
 [/us/stat/72/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F480
-[/us/pl/85/861/s33/a/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F33
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1566
 [/us/usc/t37/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs231
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861

@@ -39,11 +39,11 @@
 
     Upon the completion of a survey under this section, the Secretary shall submit to Congress a report containing the results of the survey.
 
-(Added [Pub. L. 113–291, div. A, title X, § 1073(a)(1)][/us/pl/113/291/s1073/a/1], Dec. 19, 2014, [128 Stat. 3517][/us/stat/128/3517].)
+(Added [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1073(a)(1), Dec. 19, 2014, [128 Stat. 3517][/us/stat/128/3517].)
 
  __Initial Survey__ 
 
-[Pub. L. 113–291, div. A, title X, § 1073(a)(3)][/us/pl/113/291/s1073/a/3], Dec. 19, 2014, [128 Stat. 3518][/us/stat/128/3518], provided that: 
+[Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1073(a)(3), Dec. 19, 2014, [128 Stat. 3518][/us/stat/128/3518], provided that: 
 
 > “The Secretary of Defense shall carry out the first survey required by [section 481a of title 10][/us/usc/t10/s481a], United States Code (as added by this subsection), during fiscal year 2016.”
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/113/291/s1073/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1073%2Fa%2F1
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3517
-[/us/pl/113/291/s1073/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1073%2Fa%2F3
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3518
 [/us/usc/t10/s481a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs481a
 

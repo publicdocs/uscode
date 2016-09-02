@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch855/m__us_usc_t10_stD_ptII_ch855.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch857/m__us_usc_t10_stD_ptII_ch857.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8723)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch855/m__us_usc_t10_s8721 _us_usc_t10_s8722.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch857/m__us_usc_t10_stD_ptII_ch857.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8723)
 
 ## § 8723. When Secretary may require
 
     The Secretary of the Air Force may order the hospitalization, medical and surgical treatment, and domiciliary care for as long as necessary, of any member of the Air Force on active duty, and may incur obligations with respect thereto, whether or not the member incurred an injury, illness, or disease in line of duty, except in the case of a member treated in a private hospital, or by a civilian physician, while on leave of absence for more than 24 hours.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 539][/us/stat/70A/539]; [Pub. L. 99–661, div. A, title VI, § 604(f)(1)(D)][/us/pl/99/661/s604/f/1/D], Nov. 14, 1986, [100 Stat. 3878][/us/stat/100/3878]; [Pub. L. 100–26, § 7(j)(11)][/us/pl/100/26/s7/j/11], Apr. 21, 1987, [101 Stat. 283][/us/stat/101/283].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 539][/us/stat/70A/539]; [Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], § 604(f)(1)(D), Nov. 14, 1986, [100 Stat. 3878][/us/stat/100/3878]; [Pub. L. 100–26][/us/pl/100/26], § 7(j)(11), Apr. 21, 1987, [101 Stat. 283][/us/stat/101/283].)
 
 <table>
 
@@ -79,16 +79,16 @@ July 15, 1939, ch. 282; restated Oct. 14, 1940, ch. 875, § 5, 54 Stat. 1137. 
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch855/m__us_usc_t10_stD_ptII_ch855.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch857/m__us_usc_t10_stD_ptII_ch857.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8723)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch855/m__us_usc_t10_s8721 _us_usc_t10_s8722.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch857/m__us_usc_t10_stD_ptII_ch857.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8723)
 
 ----------
 ----------
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F539
-[/us/pl/99/661/s604/f/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs604%2Ff%2F1%2FD
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3878
-[/us/pl/100/26/s7/j/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fj%2F11
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F283
 [/us/usc/t32/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs320
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26

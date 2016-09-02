@@ -61,13 +61,13 @@
 
             (B) the person retires from service in an active status within that 180-day period.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 653(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–164; amended [Pub. L. 107–107, div. A, title X, § 1048(a)(31)][/us/pl/107/107/s1048/a/31], Dec. 28, 2001, [115 Stat. 1225][/us/stat/115/1225]; [Pub. L. 109–364, div. A, title X, § 1071(a)(41)][/us/pl/109/364/s1071/a/41], Oct. 17, 2006, [120 Stat. 2400][/us/stat/120/2400]; [Pub. L. 111–84, div. A, title VI, § 643(a)][/us/pl/111/84/s643/a]–(c), (e)(1), Oct. 28, 2009, [123 Stat. 2366][/us/stat/123/2366], 2367.)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 653(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–164; amended [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(a)(31), Dec. 28, 2001, [115 Stat. 1225][/us/stat/115/1225]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(41), Oct. 17, 2006, [120 Stat. 2400][/us/stat/120/2400]; [Pub. L. 111–84, div. A, title VI][/us/pl/111/84/dA/tVI], § 643(a)–(c), (e)(1), Oct. 28, 2009, [123 Stat. 2366][/us/stat/123/2366], 2367.)
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–84, § 643(e)(1)][/us/pl/111/84/s643/e/1], substituted “Retirement for service in an active status performed in the Selected Reserve of the Ready Reserve after eligibility for regular retirement” for “Retirement from active reserve service performed after regular retirement” in section catchline.
+    2009—[Pub. L. 111–84][/us/pl/111/84], § 643(e)(1), substituted “Retirement for service in an active status performed in the Selected Reserve of the Ready Reserve after eligibility for regular retirement” for “Retirement from active reserve service performed after regular retirement” in section catchline.
 
-    Subsec. (a). [Pub. L. 111–84, § 643(a)][/us/pl/111/84/s643/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+    Subsec. (a). [Pub. L. 111–84][/us/pl/111/84], § 643(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
     “(a) Election of Reserve Retired Pay.—A person who, after becoming entitled to retired or retainer pay under chapter 65, 367, 571, or 867 of this title, serves in an active status in a reserve component is entitled to retired pay under this chapter if—
 
@@ -77,11 +77,11 @@
 
     “(3) the person’s service in an active status after having become entitled to retired or retainer pay under that chapter is determined by the Secretary concerned to have been satisfactory.”
 
-    Subsec. (b)(1). [Pub. L. 111–84, § 643(b)][/us/pl/111/84/s643/b], added par. (1) and struck out former par. (1) which read as follows: “terminate the person’s entitlement to retired or retainer pay under the applicable chapter of this title referred to in subsection (a); and”.
+    Subsec. (b)(1). [Pub. L. 111–84][/us/pl/111/84], § 643(b), added par. (1) and struck out former par. (1) which read as follows: “terminate the person’s entitlement to retired or retainer pay under the applicable chapter of this title referred to in subsection (a); and”.
 
-    Subsec. (d)(1). [Pub. L. 111–84, § 643(c)(1)][/us/pl/111/84/s643/c/1], substituted “attains the eligibility age applicable to the person under [section 12731(f) of this title][/us/usc/t10/s12731/f]” for “attains 60 years of age”.
+    Subsec. (d)(1). [Pub. L. 111–84][/us/pl/111/84], § 643(c)(1), substituted “attains the eligibility age applicable to the person under [section 12731(f) of this title][/us/usc/t10/s12731/f]” for “attains 60 years of age”.
 
-    Subsec. (d)(2)(A). [Pub. L. 111–84, § 643(c)(2)][/us/pl/111/84/s643/c/2], substituted “attains the eligibility age applicable to the person under such section” for “attains 60 years of age”.
+    Subsec. (d)(2)(A). [Pub. L. 111–84][/us/pl/111/84], § 643(c)(2), substituted “attains the eligibility age applicable to the person under such section” for “attains 60 years of age”.
 
     2006—Subsecs. (c), (d). [Pub. L. 109–364][/us/pl/109/364] substituted “subsection (a)” for “subsection (b)”.
 
@@ -89,7 +89,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 653(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–165, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 653(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–165, provided that: 
 
 > “[Section 12741 of title 10][/us/usc/t10/s12741], United States Code, as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act \[Oct. 30, 2000\] and shall apply with respect to retired pay payable for months beginning on or after that effective date.”
 
@@ -104,24 +104,24 @@
 [/us/usc/t32/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs314
 [/us/usc/t32/s324/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs324%2Fb
 [/us/usc/t10/s12731/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12731%2Ff
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s1048/a/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fa%2F31
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1225
-[/us/pl/109/364/s1071/a/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F41
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2400
-[/us/pl/111/84/s643/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs643%2Fa
+[/us/pl/111/84/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVI
 [/us/stat/123/2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2366
-[/us/pl/111/84/s643/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs643%2Fe%2F1
-[/us/pl/111/84/s643/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs643%2Fa
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/usc/t10/s12731/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12731%2Fa
-[/us/pl/111/84/s643/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs643%2Fb
-[/us/pl/111/84/s643/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs643%2Fc%2F1
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/usc/t10/s12731/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12731%2Ff
-[/us/pl/111/84/s643/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs643%2Fc%2F2
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s12741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12741
 

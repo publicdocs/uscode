@@ -47,7 +47,7 @@
 
     In this section, the term “financial management position” means a position or group of positions (including civilian and military positions), as designated by the Secretary for purposes of this section, that perform, supervise, or manage work of a fiscal, financial management, accounting, auditing, cost, or budgetary nature, or that require the performance of financial management-related work.
 
-(Added [Pub. L. 107–314, div. A, title XI, § 1104(a)(1)][/us/pl/107/314/s1104/a/1], Dec. 2, 2002, [116 Stat. 2661][/us/stat/116/2661]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1110, Oct. 14, 2008, [122 Stat. 4619][/us/stat/122/4619]; [Pub. L. 112–81, div. A, title X, § 1051(a)][/us/pl/112/81/s1051/a], Dec. 31, 2011, [125 Stat. 1581][/us/stat/125/1581].)
+(Added [Pub. L. 107–314, div. A, title XI][/us/pl/107/314/dA/tXI], § 1104(a)(1), Dec. 2, 2002, [116 Stat. 2661][/us/stat/116/2661]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1110, Oct. 14, 2008, [122 Stat. 4619][/us/stat/122/4619]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1051(a), Dec. 31, 2011, [125 Stat. 1581][/us/stat/125/1581].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 107–314, div. A, title XI, § 1104(b)][/us/pl/107/314/s1104/b], Dec. 2, 2002, [116 Stat. 2661][/us/stat/116/2661], provided that: 
+[Pub. L. 107–314, div. A, title XI][/us/pl/107/314/dA/tXI], § 1104(b), Dec. 2, 2002, [116 Stat. 2661][/us/stat/116/2661], provided that: 
 
 > “Standards established pursuant to [section 1599d of title 10][/us/usc/t10/s1599d], United States Code, as added by subsection (a), may take effect no sooner than 120 days after the date of the enactment of this Act \[Dec. 2, 2002\].”
 
@@ -68,15 +68,15 @@
 ----------
 ----------
 
-[/us/pl/107/314/s1104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1104%2Fa%2F1
+[/us/pl/107/314/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtXI
 [/us/stat/116/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2661
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4619
-[/us/pl/112/81/s1051/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1051%2Fa
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1581
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/107/314/s1104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1104%2Fb
+[/us/pl/107/314/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtXI
 [/us/stat/116/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2661
 [/us/usc/t10/s1599d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1599d
 

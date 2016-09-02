@@ -17,7 +17,7 @@
 
     Provisions regarding long-term care insurance for members and certain former members of the uniformed services and their families are set forth in chapter 90 of title 5.
 
-(Added [Pub. L. 107–107, div. A, title VII, § 701(f)(1)][/us/pl/107/107/s701/f/1], Dec. 28, 2001, [115 Stat. 1161][/us/stat/115/1161].)
+(Added [Pub. L. 107–107, div. A, title VII][/us/pl/107/107/dA/tVII], § 701(f)(1), Dec. 28, 2001, [115 Stat. 1161][/us/stat/115/1161].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/107/s701/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs701%2Ff%2F1
+[/us/pl/107/107/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVII
 [/us/stat/115/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1161
 
 

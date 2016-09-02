@@ -27,7 +27,7 @@
 
     The transfer of funds under the authority of subsection (a) is limited to such amounts as may be provided in advance in appropriations Acts.
 
-(Added [Pub. L. 107–107, div. B, title XXVIII, § 2804(a)][/us/pl/107/107/s2804/a], Dec. 28, 2001, [115 Stat. 1305][/us/stat/115/1305].)
+(Added [Pub. L. 107–107, div. B, title XXVIII][/us/pl/107/107/dB/tXXVIII], § 2804(a), Dec. 28, 2001, [115 Stat. 1305][/us/stat/115/1305].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
-[/us/pl/107/107/s2804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs2804%2Fa
+[/us/pl/107/107/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdB%2FtXXVIII
 [/us/stat/115/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1305
 
 

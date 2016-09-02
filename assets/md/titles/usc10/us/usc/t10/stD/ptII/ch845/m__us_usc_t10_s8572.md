@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch845/m__us_usc_t10_s8571.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch845/m__us_usc_t10_s8575.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8572)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch845/m__us_usc_t10_s8571.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch845/m__us_usc_t10_s8573 _us_usc_t10_s8574.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8572)
 
 ## § 8572. Rank: commissioned officers serving under temporary appointments
 
@@ -65,36 +65,14 @@ Aug. 7, 1947, ch. 512, § 515(c) (last sentence), 61 Stat. 907.  </td>
 
     The word “commissioned” is inserted for clarity, since the source statute related only to commissioned officers. The words “in his discretion, from time to time” are omitted as surplusage.
 
-\[§§ 8573, 8574. __Repealed.__  __[__  __Pub. L. 96–513, title II, § 211__  __][/us/pl/96/513/s211]__  __,__  __Dec. 12, 1980__  __,__  __[__  __94 Stat. 2885__  __][/us/stat/94/2885]__  __\]__ 
-
-    Section 8573, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 529][/us/stat/70A/529], specified date of rank of an officer whose regular grade is brigadier general and date of rank of an officer whose regular grade is major general and provided that names of general officers of Regular Air Force be carried on a seniority list in order of seniority in both regular grade and date of rank. See [section 741 of this title][/us/usc/t10/s741].
-
-    Section 8574, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 530][/us/stat/70A/530]; Sept. 2, 1958, [Pub. L. 85–861][/us/pl/85/861], §§ 1(184), 33(a)(24), [72 Stat. 1533][/us/stat/72/1533], 1565, provided for determination of rank of commissioned officers of same grade in Regular Air Force who are on same promotion list, rank of commissioned officers of same grade in Regular Air Force who are not on same promotion list or not on a promotion list, and rank among graduates of each class at United States Military, Naval, or Air Force Academies who, upon graduation, are appointed to Regular Air Force. See [section 741 of this title][/us/usc/t10/s741].
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Sept. 15, 1981, see [section 701 of Pub. L. 96–513][/us/pl/96/513/s701], set out as an Effective Date of 1980 Amendment note under [section 101 of this title][/us/usc/t10/s101].
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch845/m__us_usc_t10_s8571.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch845/m__us_usc_t10_s8575.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8572)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch845/m__us_usc_t10_s8571.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch845/m__us_usc_t10_s8573 _us_usc_t10_s8574.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8572)
 
 ----------
 ----------
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F529
-[/us/pl/96/513/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs211
-[/us/stat/94/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2885
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F529
-[/us/usc/t10/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs741
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F530
-[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
-[/us/stat/72/1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1533
-[/us/usc/t10/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs741
-[/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
-[/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 
 

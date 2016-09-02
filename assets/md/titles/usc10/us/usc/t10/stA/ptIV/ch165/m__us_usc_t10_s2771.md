@@ -37,7 +37,7 @@
 
     (d) A payment under this section bars recovery by any other person of the amount paid.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 155][/us/stat/70A/155]; [Pub. L. 85–861, § 1(56)][/us/pl/85/861/s1/56], Sept. 2, 1958, [72 Stat. 1461][/us/stat/72/1461]; [Pub. L. 86–641][/us/pl/86/641], July 12, 1960, [74 Stat. 473][/us/stat/74/473]; [Pub. L. 89–718, § 8(a)][/us/pl/89/718/s8/a], Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117]; [Pub. L. 96–513, title V, § 511(97)][/us/pl/96/513/s511/97], Dec. 12, 1980, [94 Stat. 2928][/us/stat/94/2928]; [Pub. L. 103–160, div. A, title XI, § 1182(a)(11)][/us/pl/103/160/s1182/a/11], Nov. 30, 1993, [107 Stat. 1771][/us/stat/107/1771]; [Pub. L. 104–316, title II, § 202(f)][/us/pl/104/316/s202/f], Oct. 19, 1996, [110 Stat. 3842][/us/stat/110/3842].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 155][/us/stat/70A/155]; [Pub. L. 85–861][/us/pl/85/861], § 1(56), Sept. 2, 1958, [72 Stat. 1461][/us/stat/72/1461]; [Pub. L. 86–641][/us/pl/86/641], July 12, 1960, [74 Stat. 473][/us/stat/74/473]; [Pub. L. 89–718][/us/pl/89/718], § 8(a), Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(97), Dec. 12, 1980, [94 Stat. 2928][/us/stat/94/2928]; [Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1182(a)(11), Nov. 30, 1993, [107 Stat. 1771][/us/stat/107/1771]; [Pub. L. 104–316, title II][/us/pl/104/316/tII], § 202(f), Oct. 19, 1996, [110 Stat. 3842][/us/stat/110/3842].)
 
 <table>
 
@@ -207,13 +207,13 @@ In subsection (a), the definition of the term “Department”, in 37:361, is om
 
     “(2) as otherwise authorized by the Comptroller General.”
 
-    1993—Subsec. (a). [Pub. L. 103–160, § 1182(a)(11)(A)][/us/pl/103/160/s1182/a/11/A], struck out “who dies after December 31, 1955” after “armed forces” in introductory provisions.
+    1993—Subsec. (a). [Pub. L. 103–160][/us/pl/103/160], § 1182(a)(11)(A), struck out “who dies after December 31, 1955” after “armed forces” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 103–160, § 1182(a)(11)(B)][/us/pl/103/160/s1182/a/11/B], substituted “for the uniformed services” for “for the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service”.
+    Subsec. (b). [Pub. L. 103–160][/us/pl/103/160], § 1182(a)(11)(B), substituted “for the uniformed services” for “for the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service”.
 
-    1980—Subsec. (b). [Pub. L. 96–513, § 511(97)(A)][/us/pl/96/513/s511/97/A], substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+    1980—Subsec. (b). [Pub. L. 96–513][/us/pl/96/513], § 511(97)(A), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
-    Subsec. (c). [Pub. L. 96–513, § 511(97)(B)][/us/pl/96/513/s511/97/B], substituted “Department of Transportation” for “Department of the Treasury”.
+    Subsec. (c). [Pub. L. 96–513][/us/pl/96/513], § 511(97)(B), substituted “Department of Transportation” for “Department of the Treasury”.
 
     1966—Subsec. (b). [Pub. L. 89–718][/us/pl/89/718] substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
@@ -231,7 +231,7 @@ In subsection (a), the definition of the term “Department”, in 37:361, is om
 
  __Repeals__ 
 
-    The directory language of, but not the amendment made by, [Pub. L. 89–718, § 8(a)][/us/pl/89/718/s8/a], Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117], cited as a credit to this section, was repealed by [Pub. L. 97–295, § 6(b)][/us/pl/97/295/s6/b], Oct. 12, 1982, [96 Stat. 1314][/us/stat/96/1314].
+    The directory language of, but not the amendment made by, [Pub. L. 89–718][/us/pl/89/718], § 8(a), Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117], cited as a credit to this section, was repealed by [Pub. L. 97–295][/us/pl/97/295], § 6(b), Oct. 12, 1982, [96 Stat. 1314][/us/stat/96/1314].
 
  __Transfer of Functions__ 
 
@@ -239,11 +239,11 @@ In subsection (a), the definition of the term “Department”, in 37:361, is om
 
  __Final Settlement of Accounts of Members Who Died Before__  __January 1, 1960__ 
 
-    [Pub. L. 85–861, § 29][/us/pl/85/861/s29], Sept. 2, 1958, [72 Stat. 1563][/us/stat/72/1563], authorized the General Accounting Office, in the settlement of the accounts of a member of the Army, Navy, Air Force, or Marine Corps who died before Jan. 1, 1956, to allow any amount due to the person highest on a list of persons living on the date of settlement and to provide reimbursement for funeral expenses from the amount due the decedent’s estate.
+    [Pub. L. 85–861][/us/pl/85/861], § 29, Sept. 2, 1958, [72 Stat. 1563][/us/stat/72/1563], authorized the General Accounting Office, in the settlement of the accounts of a member of the Army, Navy, Air Force, or Marine Corps who died before Jan. 1, 1956, to allow any amount due to the person highest on a list of persons living on the date of settlement and to provide reimbursement for funeral expenses from the amount due the decedent’s estate.
 
  __Designation of Beneficiary Made Before January 1, 1956__ 
 
-[Pub. L. 85–861, § 31][/us/pl/85/861/s31], Sept. 2, 1958, [72 Stat. 1563][/us/stat/72/1563], provided that: 
+[Pub. L. 85–861][/us/pl/85/861], § 31, Sept. 2, 1958, [72 Stat. 1563][/us/stat/72/1563], provided that: 
 
 > “The designation of a beneficiary made for the purposes of any six months’ death gratuity, including the designation of a person whose right to the gratuity does not depend upon that designation, and received in the military department concerned, the Department of the Treasury, the Department of Commerce, or the Department of Health, Education, and Welfare, as the case may be, before January 1, 1956, is considered as the designation of a beneficiary for the purposes of [section 2771 of title 10][/us/usc/t10/s2771], United States Code \[this section\], [section 714 of title 32][/us/usc/t32/s714], United States Code, and sections 3 and 4 of this Act \[amending [section 857a of Title 33][/us/usc/t33/s857a], and [section 213a of Title 42][/us/usc/t42/s213a]\], in the absence of a designation under one of those sections, unless the member making the designation was missing, missing in action, in the hands of a hostile force, or interned in a foreign country any time after July 11, 1955, and before January 1, 1956.”
 
@@ -256,23 +256,23 @@ In subsection (a), the definition of the term “Department”, in 37:361, is om
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F155
-[/us/pl/85/861/s1/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F56
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1461
 [/us/pl/86/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F641
 [/us/stat/74/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F473
-[/us/pl/89/718/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs8%2Fa
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1117
-[/us/pl/96/513/s511/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F97
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2928
-[/us/pl/103/160/s1182/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fa%2F11
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1771
-[/us/pl/104/316/s202/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Ff
+[/us/pl/104/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtII
 [/us/stat/110/3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3842
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
-[/us/pl/103/160/s1182/a/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fa%2F11%2FA
-[/us/pl/103/160/s1182/a/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fa%2F11%2FB
-[/us/pl/96/513/s511/97/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F97%2FA
-[/us/pl/96/513/s511/97/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F97%2FB
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/pl/86/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F641
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
@@ -281,14 +281,14 @@ In subsection (a), the definition of the term “Department”, in 37:361, is om
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/89/718/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs8%2Fa
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1117
-[/us/pl/97/295/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs6%2Fb
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1314
 [/us/usc/t10/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs802
-[/us/pl/85/861/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs29
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1563
-[/us/pl/85/861/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs31
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1563
 [/us/usc/t10/s2771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2771
 [/us/usc/t32/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs714

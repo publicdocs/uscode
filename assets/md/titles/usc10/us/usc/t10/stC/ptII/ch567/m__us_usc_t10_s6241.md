@@ -23,7 +23,7 @@
 
     (3) while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 389][/us/stat/70A/389]; [Pub. L. 88–77, § 2(1)][/us/pl/88/77/s2/1], July 25, 1963, [77 Stat. 93][/us/stat/77/93]; [Pub. L. 104–106, div. A, title XV, § 1503(b)(2)][/us/pl/104/106/s1503/b/2], Feb. 10, 1996, [110 Stat. 512][/us/stat/110/512].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 389][/us/stat/70A/389]; [Pub. L. 88–77][/us/pl/88/77], § 2(1), July 25, 1963, [77 Stat. 93][/us/stat/77/93]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1503(b)(2), Feb. 10, 1996, [110 Stat. 512][/us/stat/110/512].)
 
 <table>
 
@@ -92,9 +92,9 @@ Feb. 4, 1919, ch. 14, § 1, 40 Stat. 1056; Aug. 7, 1942, ch. 551, § 1, 56 S
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F389
-[/us/pl/88/77/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F77%2Fs2%2F1
+[/us/pl/88/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F77
 [/us/stat/77/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F93
-[/us/pl/104/106/s1503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1503%2Fb%2F2
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F512
 [/us/stat/12/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F330
 [/us/usc/t34/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs354

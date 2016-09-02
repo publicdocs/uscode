@@ -35,7 +35,7 @@
 
         (4) The Secretary of Defense may take such actions as are necessary to ensure that there is an effective transition in the furnishing of part-time or intermittent home health care benefits for covered beneficiaries who were receiving such benefits before the establishment of the program under this section. The actions taken under this paragraph may include the continuation of such benefits on an extended basis for such time as the Secretary determines appropriate.
 
-(Added [Pub. L. 107–107, div. A, title VII, § 701(a)(1)][/us/pl/107/107/s701/a/1], Dec. 28, 2001, [115 Stat. 1158][/us/stat/115/1158]; amended [Pub. L. 108–375, div. A, title VII, § 713][/us/pl/108/375/s713], Oct. 28, 2004, [118 Stat. 1985][/us/stat/118/1985].)
+(Added [Pub. L. 107–107, div. A, title VII][/us/pl/107/107/dA/tVII], § 701(a)(1), Dec. 28, 2001, [115 Stat. 1158][/us/stat/115/1158]; amended [Pub. L. 108–375, div. A, title VII][/us/pl/108/375/dA/tVII], § 713, Oct. 28, 2004, [118 Stat. 1985][/us/stat/118/1985].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 [/us/usc/t42/s1395i–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fa
 [/us/usc/t42/s1395x/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fa
 [/us/usc/t42/s1395x/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fm
-[/us/pl/107/107/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs701%2Fa%2F1
+[/us/pl/107/107/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVII
 [/us/stat/115/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1158
-[/us/pl/108/375/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs713
+[/us/pl/108/375/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVII
 [/us/stat/118/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1985
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 

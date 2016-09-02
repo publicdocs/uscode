@@ -61,7 +61,7 @@
 
         (3) The term “joint intermediate level school” includes the National Defense Intelligence College.
 
-(Added [Pub. L. 108–375, div. A, title V, § 532(a)(2)][/us/pl/108/375/s532/a/2], Oct. 28, 2004, [118 Stat. 1897][/us/stat/118/1897]; amended [Pub. L. 112–81, div. A, title V, § 552(a)(2)][/us/pl/112/81/s552/a/2], Dec. 31, 2011, [125 Stat. 1412][/us/stat/125/1412]; [Pub. L. 112–239, div. A, title VIII, § 845(c)][/us/pl/112/239/s845/c], Jan. 2, 2013, [126 Stat. 1848][/us/stat/126/1848].)
+(Added [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 532(a)(2), Oct. 28, 2004, [118 Stat. 1897][/us/stat/118/1897]; amended [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 552(a)(2), Dec. 31, 2011, [125 Stat. 1412][/us/stat/125/1412]; [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 845(c), Jan. 2, 2013, [126 Stat. 1848][/us/stat/126/1848].)
 
  __Amendments__ 
 
@@ -80,11 +80,11 @@
 ----------
 ----------
 
-[/us/pl/108/375/s532/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs532%2Fa%2F2
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1897
-[/us/pl/112/81/s552/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs552%2Fa%2F2
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1412
-[/us/pl/112/239/s845/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs845%2Fc
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1848
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81

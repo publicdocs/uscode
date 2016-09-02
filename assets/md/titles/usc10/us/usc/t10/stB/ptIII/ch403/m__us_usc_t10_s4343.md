@@ -17,7 +17,7 @@
 
     If it is determined that, upon the admission of a new class to the Academy, the number of cadets at the Academy will be below the authorized number, the Secretary of the Army may fill the vacancies by nominating additional cadets from qualified candidates designated as alternates and from other qualified candidates who competed for nomination and are recommended and found qualified by the Academic Board. At least three-fourths of those nominated under this section shall be selected from qualified alternates nominated by the persons named in paragraphs (2) through (8) of [section 4342(a) of this title][/us/usc/t10/s4342/a], and the remainder from qualified candidates holding competitive nominations under any other provision of law. An appointment under this section is an additional appointment and is not in place of an appointment otherwise authorized by law.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 242][/us/stat/70A/242]; [Pub. L. 88–276, § 1(2)][/us/pl/88/276/s1/2], Mar. 3, 1964, [78 Stat. 150][/us/stat/78/150]; [Pub. L. 93–171, § 1(5)][/us/pl/93/171/s1/5], Nov. 29, 1973, [87 Stat. 690][/us/stat/87/690]; [Pub. L. 102–25, title VII, § 701(f)(5)][/us/pl/102/25/s701/f/5], Apr. 6, 1991, [105 Stat. 115][/us/stat/105/115]; [Pub. L. 112–239, div. A, title X, § 1076(f)(39)][/us/pl/112/239/s1076/f/39], Jan. 2, 2013, [126 Stat. 1954][/us/stat/126/1954].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 242][/us/stat/70A/242]; [Pub. L. 88–276][/us/pl/88/276], § 1(2), Mar. 3, 1964, [78 Stat. 150][/us/stat/78/150]; [Pub. L. 93–171][/us/pl/93/171], § 1(5), Nov. 29, 1973, [87 Stat. 690][/us/stat/87/690]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 701(f)(5), Apr. 6, 1991, [105 Stat. 115][/us/stat/105/115]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(f)(39), Jan. 2, 2013, [126 Stat. 1954][/us/stat/126/1954].)
 
 <table>
 
@@ -81,7 +81,7 @@ June 30, 1950, ch. 421, § 4, 64 Stat. 305.  </td>
 
  __Number of Alternate-Appointees From Congressional Sources Not To Be Reduced Because of Additional Presidential Appointments__ 
 
-[Pub. L. 89–650, § 2][/us/pl/89/650/s2], Oct. 13, 1966, [80 Stat. 896][/us/stat/80/896], provided that: 
+[Pub. L. 89–650][/us/pl/89/650], § 2, Oct. 13, 1966, [80 Stat. 896][/us/stat/80/896], provided that: 
 
 > “Notwithstanding any other provision of law, none of the additional appointments authorized in sections 4342(b)(1), 6954(b)(1) and 9342(b)(1) of this title as provided by this Act shall serve to reduce or diminish the number of qualified alternates from congressional sources who would otherwise be appointed by the appropriate service Secretary under the authority contained in sections 4343, 6956, and 9343 of title 10, United States Code.”
 
@@ -95,13 +95,13 @@ June 30, 1950, ch. 421, § 4, 64 Stat. 305.  </td>
 [/us/usc/t10/s4342/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4342%2Fa
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F242
-[/us/pl/88/276/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F276%2Fs1%2F2
+[/us/pl/88/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F276
 [/us/stat/78/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F150
-[/us/pl/93/171/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F171%2Fs1%2F5
+[/us/pl/93/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F171
 [/us/stat/87/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F690
-[/us/pl/102/25/s701/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Ff%2F5
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F115
-[/us/pl/112/239/s1076/f/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F39
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1954
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
@@ -110,7 +110,7 @@ June 30, 1950, ch. 421, § 4, 64 Stat. 305.  </td>
 [/us/pl/93/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F171
 [/us/pl/93/171/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F171%2Fs4
 [/us/usc/t10/s4342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4342
-[/us/pl/89/650/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F650%2Fs2
+[/us/pl/89/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F650
 [/us/stat/80/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F896
 
 

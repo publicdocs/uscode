@@ -65,7 +65,7 @@
 
         (2) to waive the cargo preference laws of the United States, including [section 2631 of this title][/us/usc/t10/s2631] and [section 55305 of title 46][/us/usc/t46/s55305].
 
-(Added [Pub. L. 99–145, title XI, § 1102(b)(1)][/us/pl/99/145/s1102/b/1], Nov. 8, 1985, [99 Stat. 710][/us/stat/99/710], § 2407; amended [Pub. L. 99–661, div. A, title XI, § 1103(b)(1)][/us/pl/99/661/s1103/b/1], (2)(A), title XIII, § 1343(a)(15), Nov. 14, 1986, [100 Stat. 3963][/us/stat/100/3963], 3993; renumbered § 2350b and amended [Pub. L. 101–189, div. A, title IX, § 931(b)(1)][/us/pl/101/189/s931/b/1], (e)(3), Nov. 29, 1989, [103 Stat. 1534][/us/stat/103/1534], 1535; [Pub. L. 104–106, div. A, title XIII, § 1335][/us/pl/104/106/s1335], div. D, title XLIII, § 4321(b)(10), Feb. 10, 1996, [110 Stat. 484][/us/stat/110/484], 672; [Pub. L. 108–375, div. A, title X, § 1084(d)(19)][/us/pl/108/375/s1084/d/19], Oct. 28, 2004, [118 Stat. 2062][/us/stat/118/2062]; [Pub. L. 109–304, § 17(a)(3)][/us/pl/109/304/s17/a/3], Oct. 6, 2006, [120 Stat. 1706][/us/stat/120/1706].)
+(Added [Pub. L. 99–145, title XI][/us/pl/99/145/tXI], § 1102(b)(1), Nov. 8, 1985, [99 Stat. 710][/us/stat/99/710], § 2407; amended [Pub. L. 99–661, div. A, title XI][/us/pl/99/661/dA/tXI], § 1103(b)(1), (2)(A), title XIII, § 1343(a)(15), Nov. 14, 1986, [100 Stat. 3963][/us/stat/100/3963], 3993; renumbered § 2350b and amended [Pub. L. 101–189, div. A, title IX][/us/pl/101/189/dA/tIX], § 931(b)(1), (e)(3), Nov. 29, 1989, [103 Stat. 1534][/us/stat/103/1534], 1535; [Pub. L. 104–106, div. A, title XIII][/us/pl/104/106/dA/tXIII], § 1335, div. D, title XLIII, § 4321(b)(10), Feb. 10, 1996, [110 Stat. 484][/us/stat/110/484], 672; [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(d)(19), Oct. 28, 2004, [118 Stat. 2062][/us/stat/118/2062]; [Pub. L. 109–304][/us/pl/109/304], § 17(a)(3), Oct. 6, 2006, [120 Stat. 1706][/us/stat/120/1706].)
 
  __References in Text__ 
 
@@ -75,29 +75,29 @@
 
     2006—Subsec. (g)(2). [Pub. L. 109–304][/us/pl/109/304] substituted “[section 55305 of title 46][/us/usc/t46/s55305]” for “section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b))”.
 
-    2004—Subsec. (g). [Pub. L. 108–375, § 1084(d)(19)(A)][/us/pl/108/375/s1084/d/19/A], inserted “the Secretary of Defense” after “authorizing” in introductory provisions.
+    2004—Subsec. (g). [Pub. L. 108–375][/us/pl/108/375], § 1084(d)(19)(A), inserted “the Secretary of Defense” after “authorizing” in introductory provisions.
 
-    Subsec. (g)(1). [Pub. L. 108–375, § 1084(d)(19)(B)][/us/pl/108/375/s1084/d/19/B], struck out “the Secretary of Defense” before “to waive”.
+    Subsec. (g)(1). [Pub. L. 108–375][/us/pl/108/375], § 1084(d)(19)(B), struck out “the Secretary of Defense” before “to waive”.
 
-    1996—Subsec. (c)(1). [Pub. L. 104–106, § 4321(b)(10)(A)][/us/pl/104/106/s4321/b/10/A], inserted “prescribes” after “specifically” in introductory provisions and struck out “prescribe” before “procedures” in subpar. (A), before “terms” in subpar. (B), and before “requirements” in subpars. (C) and (D).
+    1996—Subsec. (c)(1). [Pub. L. 104–106][/us/pl/104/106], § 4321(b)(10)(A), inserted “prescribes” after “specifically” in introductory provisions and struck out “prescribe” before “procedures” in subpar. (A), before “terms” in subpar. (B), and before “requirements” in subpars. (C) and (D).
 
-    Subsec. (d)(1). [Pub. L. 104–106, § 4321(b)(10)(B)][/us/pl/104/106/s4321/b/10/B], struck out “to” after “subcontract”.
+    Subsec. (d)(1). [Pub. L. 104–106][/us/pl/104/106], § 4321(b)(10)(B), struck out “to” after “subcontract”.
 
-    Subsec. (e)(1). [Pub. L. 104–106, § 1335(1)][/us/pl/104/106/s1335/1], inserted “or a NATO organization” after “United States)”.
+    Subsec. (e)(1). [Pub. L. 104–106][/us/pl/104/106], § 1335(1), inserted “or a NATO organization” after “United States)”.
 
-    Subsec. (e)(2). [Pub. L. 104–106, § 1335(2)][/us/pl/104/106/s1335/2], substituted “such a cooperative project or a NATO organization” for “a cooperative project”.
+    Subsec. (e)(2). [Pub. L. 104–106][/us/pl/104/106], § 1335(2), substituted “such a cooperative project or a NATO organization” for “a cooperative project”.
 
     1989—[Pub. L. 101–189][/us/pl/101/189] renumbered [section 2407 of this title][/us/usc/t10/s2407] as this section and substituted “Cooperative projects under Arms Export Control Act: acquisition of defense equipment” for “Acquisition of defense equipment under cooperative projects” as section catchline.
 
-    1986—[Pub. L. 99–661, § 1103(b)(2)(A)][/us/pl/99/661/s1103/b/2/A], struck out “North Atlantic Treaty Organization” before “cooperative projects” in section catchline.
+    1986—[Pub. L. 99–661][/us/pl/99/661], § 1103(b)(2)(A), struck out “North Atlantic Treaty Organization” before “cooperative projects” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 99–661, § 1103(b)(1)(A)][/us/pl/99/661/s1103/b/1/A], struck out “North Atlantic Treaty Organization (NATO)” before “cooperative projects”.
+    Subsec. (a)(1). [Pub. L. 99–661][/us/pl/99/661], § 1103(b)(1)(A), struck out “North Atlantic Treaty Organization (NATO)” before “cooperative projects”.
 
-    Subsec. (c)(2). [Pub. L. 99–661, § 1103(b)(1)(B)][/us/pl/99/661/s1103/b/1/B], struck out “NATO” after “will significantly further”.
+    Subsec. (c)(2). [Pub. L. 99–661][/us/pl/99/661], § 1103(b)(1)(B), struck out “NATO” after “will significantly further”.
 
-    Subsec. (e). [Pub. L. 99–661, § 1103(b)(1)(C)][/us/pl/99/661/s1103/b/1/C], struck out “NATO” after “will significantly further” in par. (1) and after “United States) in a” in par. (2).
+    Subsec. (e). [Pub. L. 99–661][/us/pl/99/661], § 1103(b)(1)(C), struck out “NATO” after “will significantly further” in par. (1) and after “United States) in a” in par. (2).
 
-    Subsec. (g)(2). [Pub. L. 99–661, § 1343(a)(15)][/us/pl/99/661/s1343/a/15], substituted “[section 2631 of this title][/us/usc/t10/s2631] and section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b))” for “the Military Cargo Preference Act of 1904 ([10 U.S.C. 2631][/us/usc/t10/s2631]) and the Cargo Preference Act of 1954 ([46 U.S.C. 1241(b)][/us/usc/t46/s1241/b])”.
+    Subsec. (g)(2). [Pub. L. 99–661][/us/pl/99/661], § 1343(a)(15), substituted “[section 2631 of this title][/us/usc/t10/s2631] and section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b))” for “the Military Cargo Preference Act of 1904 ([10 U.S.C. 2631][/us/usc/t10/s2631]) and the Cargo Preference Act of 1954 ([46 U.S.C. 1241(b)][/us/usc/t46/s1241/b])”.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -115,36 +115,36 @@
 [/us/usc/t22/s2767/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2767%2Fe
 [/us/usc/t10/s2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2631
 [/us/usc/t46/s55305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55305
-[/us/pl/99/145/s1102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1102%2Fb%2F1
+[/us/pl/99/145/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXI
 [/us/stat/99/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F710
-[/us/pl/99/661/s1103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1103%2Fb%2F1
+[/us/pl/99/661/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXI
 [/us/stat/100/3963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3963
-[/us/pl/101/189/s931/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs931%2Fb%2F1
+[/us/pl/101/189/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIX
 [/us/stat/103/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1534
-[/us/pl/104/106/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1335
+[/us/pl/104/106/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXIII
 [/us/stat/110/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F484
-[/us/pl/108/375/s1084/d/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F19
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2062
-[/us/pl/109/304/s17/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Fa%2F3
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1706
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s55305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55305
-[/us/pl/108/375/s1084/d/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F19%2FA
-[/us/pl/108/375/s1084/d/19/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F19%2FB
-[/us/pl/104/106/s4321/b/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4321%2Fb%2F10%2FA
-[/us/pl/104/106/s4321/b/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4321%2Fb%2F10%2FB
-[/us/pl/104/106/s1335/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1335%2F1
-[/us/pl/104/106/s1335/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1335%2F2
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t10/s2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2407
-[/us/pl/99/661/s1103/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1103%2Fb%2F2%2FA
-[/us/pl/99/661/s1103/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1103%2Fb%2F1%2FA
-[/us/pl/99/661/s1103/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1103%2Fb%2F1%2FB
-[/us/pl/99/661/s1103/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1103%2Fb%2F1%2FC
-[/us/pl/99/661/s1343/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1343%2Fa%2F15
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/usc/t10/s2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2631
 [/us/usc/t10/s2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2631
 [/us/usc/t46/s1241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1241%2Fb

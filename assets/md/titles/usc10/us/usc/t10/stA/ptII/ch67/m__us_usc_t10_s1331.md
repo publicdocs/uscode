@@ -17,7 +17,7 @@
 
     Provisions of law relating to retired pay for nonregular service are set forth in chapter 1223 of this title (beginning with section 12731).
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1662(j)(7)][/us/pl/103/337/s1662/j/7], Oct. 5, 1994, [108 Stat. 3005][/us/stat/108/3005].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(j)(7), Oct. 5, 1994, [108 Stat. 3005][/us/stat/108/3005].)
 
  __Prior Provisions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1662/j/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fj%2F7
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3005
 
 

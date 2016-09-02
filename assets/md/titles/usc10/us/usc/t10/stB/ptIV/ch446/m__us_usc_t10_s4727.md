@@ -37,7 +37,7 @@
 
     In this section, the term “concession contract” means a contract authorized and entered into under this section.
 
-(Added [Pub. L. 113–66, div. A, title V, § 585(a)][/us/pl/113/66/s585/a], Dec. 26, 2013, [127 Stat. 777][/us/stat/127/777].)
+(Added [Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 585(a), Dec. 26, 2013, [127 Stat. 777][/us/stat/127/777].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/113/66/s585/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs585%2Fa
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F777
 
 

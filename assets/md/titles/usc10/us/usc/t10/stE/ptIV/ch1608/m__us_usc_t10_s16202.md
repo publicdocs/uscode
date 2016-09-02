@@ -27,13 +27,13 @@
 
         (2) not less than five days of active duty for training each year during the period of service required by the agreement.
 
-(Added [Pub. L. 100–180, div. A, title VII, § 711(a)(3)][/us/pl/100/180/s711/a/3], Dec. 4, 1987, [101 Stat. 1111][/us/stat/101/1111], § 2129; renumbered § 16202 and amended [Pub. L. 103–337, div. A, title XVI, § 1663(c)(3)][/us/pl/103/337/s1663/c/3], (6), Oct. 5, 1994, [108 Stat. 3007][/us/stat/108/3007], 3008.)
+(Added [Pub. L. 100–180, div. A, title VII][/us/pl/100/180/dA/tVII], § 711(a)(3), Dec. 4, 1987, [101 Stat. 1111][/us/stat/101/1111], § 2129; renumbered § 16202 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1663(c)(3), (6), Oct. 5, 1994, [108 Stat. 3007][/us/stat/108/3007], 3008.)
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–337, § 1663(c)(3)][/us/pl/103/337/s1663/c/3], renumbered [section 2129 of this title][/us/usc/t10/s2129] as this section.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 1663(c)(3), renumbered [section 2129 of this title][/us/usc/t10/s2129] as this section.
 
-    Subsecs. (a), (b). [Pub. L. 103–337, § 1663(c)(6)][/us/pl/103/337/s1663/c/6], substituted “16201” for “2128”.
+    Subsecs. (a), (b). [Pub. L. 103–337][/us/pl/103/337], § 1663(c)(6), substituted “16201” for “2128”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -48,13 +48,13 @@
 
 [/us/usc/t10/s16201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16201
 [/us/usc/t10/s16201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16201
-[/us/pl/100/180/s711/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs711%2Fa%2F3
+[/us/pl/100/180/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVII
 [/us/stat/101/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1111
-[/us/pl/103/337/s1663/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fc%2F3
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3007
-[/us/pl/103/337/s1663/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fc%2F3
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2129
-[/us/pl/103/337/s1663/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fc%2F6
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001

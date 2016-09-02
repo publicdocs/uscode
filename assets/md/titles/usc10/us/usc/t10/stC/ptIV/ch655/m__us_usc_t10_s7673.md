@@ -63,7 +63,7 @@ R.S. 4645.  </td>
 
 </table>
 
-    [34 U.S.C. 1153][/us/usc/t34/s1153] and the revised section reflect the [Act of May 28, 1896, ch. 252, § 6][/us/act/1896-05-28/ch252/s6], [29 Stat. 179][/us/stat/29/179], which provided that marshals should receive annual salaries in lieu of the fees and emoluments previously allowed them.
+    [34 U.S.C. 1153][/us/usc/t34/s1153] and the revised section reflect the [Act of May 28, 1896, ch. 252][/us/act/1896-05-28/ch252], § 6, [29 Stat. 179][/us/stat/29/179], which provided that marshals should receive annual salaries in lieu of the fees and emoluments previously allowed them.
 
 ----------
 
@@ -75,7 +75,7 @@ R.S. 4645.  </td>
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F481
 [/us/usc/t34/s1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs1153
-[/us/act/1896-05-28/ch252/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252%2Fs6
+[/us/act/1896-05-28/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252
 [/us/stat/29/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F179
 
 

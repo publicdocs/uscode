@@ -21,13 +21,13 @@
 
     (2) be discharged from the officer’s reserve appointment if the officer is not qualified for transfer to the Retired Reserve or has requested (in accordance with regulations prescribed by the Secretary concerned) not to be so transferred.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2953][/us/stat/108/2953]; amended [Pub. L. 107–107, div. A, title V, § 517(c)][/us/pl/107/107/s517/c], Dec. 28, 2001, [115 Stat. 1094][/us/stat/115/1094].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2953][/us/stat/108/2953]; amended [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 517(c), Dec. 28, 2001, [115 Stat. 1094][/us/stat/115/1094].)
 
  __Amendments__ 
 
-    2001—Par. (1). [Pub. L. 107–107, § 517(c)(1)][/us/pl/107/107/s517/c/1], substituted “if the officer is qualified for such transfer and does not request (in accordance with regulations prescribed by the Secretary concerned) not to be transferred to the Retired Reserve” for “, if the officer is qualified and applies for such transfer”.
+    2001—Par. (1). [Pub. L. 107–107][/us/pl/107/107], § 517(c)(1), substituted “if the officer is qualified for such transfer and does not request (in accordance with regulations prescribed by the Secretary concerned) not to be transferred to the Retired Reserve” for “, if the officer is qualified and applies for such transfer”.
 
-    Par. (2). [Pub. L. 107–107, § 517(c)(2)][/us/pl/107/107/s517/c/2], added par. (2) and struck out former par. (2) which read as follows: “if the officer is not qualified or does not apply for such transfer, be discharged from the officer’s reserve appointment.”
+    Par. (2). [Pub. L. 107–107][/us/pl/107/107], § 517(c)(2), added par. (2) and struck out former par. (2) which read as follows: “if the officer is not qualified or does not apply for such transfer, be discharged from the officer’s reserve appointment.”
 
  __Effective Date of 2001 Amendment__ 
 
@@ -40,12 +40,12 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2953
-[/us/pl/107/107/s517/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs517%2Fc
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1094
-[/us/pl/107/107/s517/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs517%2Fc%2F1
-[/us/pl/107/107/s517/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs517%2Fc%2F2
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/107/107/s517/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs517%2Fg
 [/us/usc/t10/s10154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10154

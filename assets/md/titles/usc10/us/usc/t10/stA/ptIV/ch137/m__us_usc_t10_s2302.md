@@ -79,7 +79,7 @@
 
     (9) The term “nontraditional defense contractor”, with respect to a procurement or with respect to a transaction authorized under section 2371(a) or 2371b of this title, means an entity that is not currently performing and has not performed, for at least the one-year period preceding the solicitation of sources by the Department of Defense for the procurement or transaction, any contract or subcontract for the Department of Defense that is subject to full coverage under the cost accounting standards prescribed pursuant to [section 1502 of title 41][/us/usc/t41/s1502] and the regulations implementing such section.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 127][/us/stat/70A/127]; [Pub. L. 85–568, title III, § 301(b)][/us/pl/85/568/s301/b], July 29, 1958, [72 Stat. 432][/us/stat/72/432]; [Pub. L. 85–861, § 1][/us/pl/85/861/s1](43A), Sept. 2, 1958, [72 Stat. 1457][/us/stat/72/1457]; [Pub. L. 96–513, title V, § 511(74)][/us/pl/96/513/s511/74], Dec. 12, 1980, [94 Stat. 2926][/us/stat/94/2926]; [Pub. L. 98–369, div. B, title VII, § 2722(a)][/us/pl/98/369/s2722/a], July 18, 1984, [98 Stat. 1186][/us/stat/98/1186]; [Pub. L. 98–525, title XII, § 1211][/us/pl/98/525/s1211], Oct. 19, 1984, [98 Stat. 2589][/us/stat/98/2589]; [Pub. L. 98–577, title V, § 504(b)(3)][/us/pl/98/577/s504/b/3], Oct. 30, 1984, [98 Stat. 3087][/us/stat/98/3087]; [Pub. L. 99–661, div. A, title XIII, § 1343(a)(13)][/us/pl/99/661/s1343/a/13], Nov. 14, 1986, [100 Stat. 3993][/us/stat/100/3993]; [Pub. L. 100–26, § 7(k)(2)][/us/pl/100/26/s7/k/2], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 101–189, div. A, title VIII, § 853(b)(1)][/us/pl/101/189/s853/b/1], Nov. 29, 1989, [103 Stat. 1518][/us/stat/103/1518]; [Pub. L. 102–25, title VII, § 701(d)(1)][/us/pl/102/25/s701/d/1], Apr. 6, 1991, [105 Stat. 113][/us/stat/105/113]; [Pub. L. 102–190, div. A, title VIII, § 805][/us/pl/102/190/s805], Dec. 5, 1991, [105 Stat. 1417][/us/stat/105/1417]; [Pub. L. 103–355, title I, § 1502][/us/pl/103/355/s1502], Oct. 13, 1994, [108 Stat. 3296][/us/stat/108/3296]; [Pub. L. 104–106, div. D, title XLIII, § 4321(b)(3)][/us/pl/104/106/s4321/b/3], Feb. 10, 1996, [110 Stat. 672][/us/stat/110/672]; [Pub. L. 104–201, div. A, title VIII][/us/pl/104/201], §§ 805(a)(1), 807(a), Sept. 23, 1996, [110 Stat. 2605][/us/stat/110/2605], 2606; [Pub. L. 105–85, div. A, title VIII, § 803(b)][/us/pl/105/85/s803/b], Nov. 18, 1997, [111 Stat. 1832][/us/stat/111/1832]; [Pub. L. 107–217, § 3(b)(2)][/us/pl/107/217/s3/b/2], Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 111–350, § 5(b)(8)][/us/pl/111/350/s5/b/8], Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842]; [Pub. L. 111–383, div. A, title VIII, § 866(g)(1)][/us/pl/111/383/s866/g/1], Jan. 7, 2011, [124 Stat. 4298][/us/stat/124/4298]; [Pub. L. 113–291, div. A, title X, § 1071(a)(2)][/us/pl/113/291/s1071/a/2], Dec. 19, 2014, [128 Stat. 3504][/us/stat/128/3504]; [Pub. L. 114–92, div. A, title VIII, § 815(b)][/us/pl/114/92/s815/b], Nov. 25, 2015, [129 Stat. 896][/us/stat/129/896].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 127][/us/stat/70A/127]; [Pub. L. 85–568, title III][/us/pl/85/568/tIII], § 301(b), July 29, 1958, [72 Stat. 432][/us/stat/72/432]; [Pub. L. 85–861][/us/pl/85/861], § 1(43A), Sept. 2, 1958, [72 Stat. 1457][/us/stat/72/1457]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(74), Dec. 12, 1980, [94 Stat. 2926][/us/stat/94/2926]; [Pub. L. 98–369, div. B, title VII][/us/pl/98/369/dB/tVII], § 2722(a), July 18, 1984, [98 Stat. 1186][/us/stat/98/1186]; [Pub. L. 98–525, title XII][/us/pl/98/525/tXII], § 1211, Oct. 19, 1984, [98 Stat. 2589][/us/stat/98/2589]; [Pub. L. 98–577, title V][/us/pl/98/577/tV], § 504(b)(3), Oct. 30, 1984, [98 Stat. 3087][/us/stat/98/3087]; [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1343(a)(13), Nov. 14, 1986, [100 Stat. 3993][/us/stat/100/3993]; [Pub. L. 100–26][/us/pl/100/26], § 7(k)(2), Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 101–189, div. A, title VIII][/us/pl/101/189/dA/tVIII], § 853(b)(1), Nov. 29, 1989, [103 Stat. 1518][/us/stat/103/1518]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 701(d)(1), Apr. 6, 1991, [105 Stat. 113][/us/stat/105/113]; [Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], § 805, Dec. 5, 1991, [105 Stat. 1417][/us/stat/105/1417]; [Pub. L. 103–355, title I][/us/pl/103/355/tI], § 1502, Oct. 13, 1994, [108 Stat. 3296][/us/stat/108/3296]; [Pub. L. 104–106, div. D, title XLIII][/us/pl/104/106/dD/tXLIII], § 4321(b)(3), Feb. 10, 1996, [110 Stat. 672][/us/stat/110/672]; [Pub. L. 104–201, div. A, title VIII][/us/pl/104/201/dA/tVIII], §§ 805(a)(1), 807(a), Sept. 23, 1996, [110 Stat. 2605][/us/stat/110/2605], 2606; [Pub. L. 105–85, div. A, title VIII][/us/pl/105/85/dA/tVIII], § 803(b), Nov. 18, 1997, [111 Stat. 1832][/us/stat/111/1832]; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(2), Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(8), Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842]; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 866(g)(1), Jan. 7, 2011, [124 Stat. 4298][/us/stat/124/4298]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(a)(2), Dec. 19, 2014, [128 Stat. 3504][/us/stat/128/3504]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 815(b), Nov. 25, 2015, [129 Stat. 896][/us/stat/129/896].)
 
 <table>
 
@@ -191,15 +191,15 @@ Source (Statutes at Large)  </td>
 
     “(B) Any other contract in excess of $500,000 under which the contractor is required to submit certified cost or pricing data under [section 2306a of this title][/us/usc/t10/s2306a].”
 
-    2014—Par. (7). [Pub. L. 113–291, § 1071(a)(2)(A)][/us/pl/113/291/s1071/a/2/A], substituted “such section” for “section 4 of such Act”.
+    2014—Par. (7). [Pub. L. 113–291][/us/pl/113/291], § 1071(a)(2)(A), substituted “such section” for “section 4 of such Act”.
 
-    Par. (9)(A). [Pub. L. 113–291, § 1071(a)(2)(B)][/us/pl/113/291/s1071/a/2/B], substituted “chapter 15 of title 41” for “section 26 of the Office of Federal Procurement Policy Act ([41 U.S.C. 422][/us/usc/t41/s422])” and “such chapter” for “such section”.
+    Par. (9)(A). [Pub. L. 113–291][/us/pl/113/291], § 1071(a)(2)(B), substituted “chapter 15 of title 41” for “section 26 of the Office of Federal Procurement Policy Act ([41 U.S.C. 422][/us/usc/t41/s422])” and “such chapter” for “such section”.
 
-    2011—Par. (3). [Pub. L. 111–350, § 5(b)(8)(A)][/us/pl/111/350/s5/b/8/A], substituted “chapter 1 of title 41” for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])” in introductory provisions.
+    2011—Par. (3). [Pub. L. 111–350][/us/pl/111/350], § 5(b)(8)(A), substituted “chapter 1 of title 41” for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])” in introductory provisions.
 
-    Par. (6). [Pub. L. 111–350, § 5(b)(8)(B)][/us/pl/111/350/s5/b/8/B], substituted “[section 1303(a)(1) of title 41][/us/usc/t41/s1303/a/1]” for “section 25(c)(1) of the Office of Federal Procurement Policy Act ([41 U.S.C. 421(c)(1)][/us/usc/t41/s421/c/1])”.
+    Par. (6). [Pub. L. 111–350][/us/pl/111/350], § 5(b)(8)(B), substituted “[section 1303(a)(1) of title 41][/us/usc/t41/s1303/a/1]” for “section 25(c)(1) of the Office of Federal Procurement Policy Act ([41 U.S.C. 421(c)(1)][/us/usc/t41/s421/c/1])”.
 
-    Par. (7). [Pub. L. 111–350, § 5(b)(8)(C)][/us/pl/111/350/s5/b/8/C], substituted “[section 134 of title 41][/us/usc/t41/s134]” for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])”.
+    Par. (7). [Pub. L. 111–350][/us/pl/111/350], § 5(b)(8)(C), substituted “[section 134 of title 41][/us/usc/t41/s134]” for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])”.
 
     Par. (9). [Pub. L. 111–383][/us/pl/111/383] added par. (9).
 
@@ -211,13 +211,13 @@ Source (Statutes at Large)  </td>
 
     1996—Par. (3)(K). [Pub. L. 104–106][/us/pl/104/106] inserted period at end.
 
-    Par. (5). [Pub. L. 104–201, § 805(a)(1)][/us/pl/104/201/s805/a/1], substituted “A system shall be considered a major system if (A) the conditions of [section 2302d of this title][/us/usc/t10/s2302d] are satisfied, or (B) the system is designated a ‘major system’ by the head of the agency responsible for the system.” for “A system shall be considered a major system if (A) the Department of Defense is responsible for the system and the total expenditures for research, development, test, and evaluation for the system are estimated to be more than $75,000,000 (based on fiscal year 1980 constant dollars) or the eventual total expenditure for procurement of more than $300,000,000 (based on fiscal year 1980 constant dollars); (B) a civilian agency is responsible for the system and total expenditures for the system are estimated to exceed $750,000 (based on fiscal year 1980 constant dollars) or the dollar threshold for a ‘major system’ established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled ‘Major Systems Acquisitions’, whichever is greater; or (C) the system is designated a ‘major system’ by the head of the agency responsible for the system.”
+    Par. (5). [Pub. L. 104–201][/us/pl/104/201], § 805(a)(1), substituted “A system shall be considered a major system if (A) the conditions of [section 2302d of this title][/us/usc/t10/s2302d] are satisfied, or (B) the system is designated a ‘major system’ by the head of the agency responsible for the system.” for “A system shall be considered a major system if (A) the Department of Defense is responsible for the system and the total expenditures for research, development, test, and evaluation for the system are estimated to be more than $75,000,000 (based on fiscal year 1980 constant dollars) or the eventual total expenditure for procurement of more than $300,000,000 (based on fiscal year 1980 constant dollars); (B) a civilian agency is responsible for the system and total expenditures for the system are estimated to exceed $750,000 (based on fiscal year 1980 constant dollars) or the dollar threshold for a ‘major system’ established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled ‘Major Systems Acquisitions’, whichever is greater; or (C) the system is designated a ‘major system’ by the head of the agency responsible for the system.”
 
-    Par. (7). [Pub. L. 104–201, § 807(a)][/us/pl/104/201/s807/a], designated existing provisions as subpar. (A), inserted “or a humanitarian or peacekeeping operation” after “contingency operation”, and added subpar. (B).
+    Par. (7). [Pub. L. 104–201][/us/pl/104/201], § 807(a), designated existing provisions as subpar. (A), inserted “or a humanitarian or peacekeeping operation” after “contingency operation”, and added subpar. (B).
 
-    1994—Par. (3). [Pub. L. 103–355, § 1502(1)][/us/pl/103/355/s1502/1], added par. (3) and struck out former par. (3) which read as follows: “The terms ‘full and open competition’ and ‘responsible source’ have the same meanings provided such terms in section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403]).”
+    1994—Par. (3). [Pub. L. 103–355][/us/pl/103/355], § 1502(1), added par. (3) and struck out former par. (3) which read as follows: “The terms ‘full and open competition’ and ‘responsible source’ have the same meanings provided such terms in section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403]).”
 
-    Par. (7). [Pub. L. 103–355, § 1502(2)][/us/pl/103/355/s1502/2], added par. (7) and struck out former par. (7) which read as follows: “The term ‘small purchase threshold’ has the meaning given that term in section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)][/us/usc/t41/s403/11]), except that, in the case of any contract to be awarded and performed, or purchase to be made, outside the United States in support of a contingency operation, the term means $100,000.”
+    Par. (7). [Pub. L. 103–355][/us/pl/103/355], § 1502(2), added par. (7) and struck out former par. (7) which read as follows: “The term ‘small purchase threshold’ has the meaning given that term in section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)][/us/usc/t41/s403/11]), except that, in the case of any contract to be awarded and performed, or purchase to be made, outside the United States in support of a contingency operation, the term means $100,000.”
 
     1991—Par. (7). [Pub. L. 102–190][/us/pl/102/190] inserted before period “, except that, in the case of any contract to be awarded and performed, or purchase to be made, outside the United States in support of a contingency operation, the term means $100,000”.
 
@@ -225,7 +225,7 @@ Source (Statutes at Large)  </td>
 
     1989—Par. (6). [Pub. L. 101–189][/us/pl/101/189] added par. (6).
 
-    1987—[Pub. L. 100–26, § 7(k)(2)(A)][/us/pl/100/26/s7/k/2/A], inserted “The term” after each par. designation except par. (3) and struck out uppercase letter of first word after first quotation marks in each par. and substituted lowercase letter.
+    1987—[Pub. L. 100–26][/us/pl/100/26], § 7(k)(2)(A), inserted “The term” after each par. designation except par. (3) and struck out uppercase letter of first word after first quotation marks in each par. and substituted lowercase letter.
 
     1986—Par. (2)(A). [Pub. L. 99–661][/us/pl/99/661] substituted “(40 U.S.C.” for “(41 U.S.C.”.
 
@@ -247,7 +247,7 @@ Source (Statutes at Large)  </td>
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–106, div. D, title XLIV, § 4401][/us/pl/104/106/s4401], Feb. 10, 1996, [110 Stat. 678][/us/stat/110/678], provided that:
+[Pub. L. 104–106, div. D, title XLIV][/us/pl/104/106/dD/tXLIV], § 4401, Feb. 10, 1996, [110 Stat. 678][/us/stat/110/678], provided that:
 
 >     “(a)  __Effective Date__  __.—__ 
 
@@ -275,7 +275,7 @@ Source (Statutes at Large)  </td>
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–355, title X, § 10001][/us/pl/103/355/s10001], Oct. 13, 1994, [108 Stat. 3404][/us/stat/108/3404], provided that:
+[Pub. L. 103–355, title X][/us/pl/103/355/tX], § 10001, Oct. 13, 1994, [108 Stat. 3404][/us/stat/108/3404], provided that:
 
 >     “(a)  __Effective Date__  __.—__ 
 
@@ -303,7 +303,7 @@ Source (Statutes at Large)  </td>
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. B, title VII, § 2751][/us/pl/98/369/s2751], July 18, 1984, [98 Stat. 1203][/us/stat/98/1203], provided that:
+[Pub. L. 98–369, div. B, title VII][/us/pl/98/369/dB/tVII], § 2751, July 18, 1984, [98 Stat. 1203][/us/stat/98/1203], provided that:
 
 >     “(a) Except as provided in subsection (b), the amendments made by this title \[see Tables for classification\] shall apply with respect to any solicitation for bids or proposals issued after March 31, 1985.
 
@@ -315,31 +315,31 @@ Source (Statutes at Large)  </td>
 
  __Effective Date of 1958 Amendment__ 
 
-[Pub. L. 85–568, title III, § 301(e)][/us/pl/85/568/s301/e], July 29, 1958, [72 Stat. 433][/us/stat/72/433], provided that: 
+[Pub. L. 85–568, title III][/us/pl/85/568/tIII], § 301(e), July 29, 1958, [72 Stat. 433][/us/stat/72/433], provided that: 
 
 > “This section \[amending this section, [section 2303 of this title][/us/usc/t10/s2303], section 22–1 of former Title 5, and sections 511 to 513 and 515 of Title 50, War and National Defense, and enacting provisions set out as a note under [section 2472 of Title 42][/us/usc/t42/s2472], The Public Health and Welfare\] shall take effect ninety days after the date of the enactment of this Act \[July 29, 1958\], or on any earlier date on which the Administrator \[of the National Aeronautics and Space Administration\] shall determine, and announce by proclamation published in the Federal Register, that the Administration has been organized and is prepared to discharge the duties and exercise the powers conferred upon it by this Act.”
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 900\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–130, [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 900\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–130, and [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 900, Nov. 14, 1986, [100 Stat. 3910][/us/stat/100/3910], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], provided that: 
+[Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title X, § 900\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–130, [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 900\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–130, and [Pub. L. 99–661, div. A, title IX][/us/pl/99/661/dA/tIX], formerly title IV, § 900, Nov. 14, 1986, [100 Stat. 3910][/us/stat/100/3910], renumbered title IX, [Pub. L. 100–26][/us/pl/100/26], § 3(5), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], provided that: 
 
 > “This title \[enacting sections 133a, 2306a, 2325–2328, 2365–2367, 2397b, 2397c, 2408, 2409, 2416, and 2435–2437 of this title, amending sections 133, 134, 135, 138, 171, 1622, 2301, 2304, 2305, 2306, 2320, 2321, 2323, 2384, 2406, 2411, 2413, 2432, and 2433 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 632, 637, and 644 of Title 15, Commerce and Trade, and [section 416 of Title 41][/us/usc/t41/s416], Public Contracts, renumbering section 2416 as 2417 of this title, enacting provisions set out as notes under sections 113, 1621, 2304, 2305, 2306a, 2320, 2323, 2325–2328, 2365–2367, 2384, 2397b, 2406, 2408, 2409, 2416, 2432, 2435–2437 of this title and [section 632 of Title 15][/us/usc/t15/s632], amending provisions set out as a note under this section, and repealing provisions set out as notes under section 2304 and 2397a of this title\] may be cited as the ‘Defense Acquisition Improvement Act of 1986’.”
 
  __Short Title of 1985 Amendment__ 
 
-[Pub. L. 99–145, title IX, § 901][/us/pl/99/145/s901], Nov. 8, 1985, [99 Stat. 682][/us/stat/99/682], provided that: 
+[Pub. L. 99–145, title IX][/us/pl/99/145/tIX], § 901, Nov. 8, 1985, [99 Stat. 682][/us/stat/99/682], provided that: 
 
 > “This title \[enacting sections 1621 to 1624, 2305a, 2324, 2397a, and 2406 of this title, amending sections 2304, 2313, 2320, 2323, 2397, and 2411 to 2415 of this title, section 759 of former Title 40, Public Buildings, Property, and Works, sections 253 and 418a of Title 41, Public Contracts, and former section 2168 of the former Appendix to Title 50, War and National Defense, enacting provisions set out as notes under this section and sections 139, 139c, 1622 to 1624, 2304, 2305a, 2307, 2324, 2397a, and 2411 of this title, [section 287 of Title 18][/us/usc/t18/s287], Crimes and Criminal Procedure, [section 3729 of Title 31][/us/usc/t31/s3729], Money and Finance, and former section 2168 of the former Appendix to Title 50, and amending provisions set out as a note under [section 418a of Title 41][/us/usc/t41/s418a]\] may be cited as the ‘Defense Procurement Improvement Act of 1985’.”
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–525, title XII, § 1201][/us/pl/98/525/s1201], Oct. 19, 1984, [98 Stat. 2588][/us/stat/98/2588], provided that: 
+[Pub. L. 98–525, title XII][/us/pl/98/525/tXII], § 1201, Oct. 19, 1984, [98 Stat. 2588][/us/stat/98/2588], provided that: 
 
 > “This title \[enacting sections 2303a, 2317 to 2323, 2384a, 2402 to 2405, and 2411 to 2416 of this title, amending sections 139a, 139b, 2302, 2305, 2311, 2384, and 2401 of this title, enacting provisions set out as notes under this section and sections 139, 139a, 2303a, 2305, 2318, 2319, 2322, 2323, 2384, 2384a, 2392, and 2402 of this title, amending provisions set out as notes under sections 2392, 2401, and 2452 of this title, and repealing provisions set out as notes under [section 2304 of this title][/us/usc/t10/s2304]\] may be cited as the ‘Defense Procurement Reform Act of 1984’.”
 
  __Middle Tier of Acquisition for Rapid Prototyping and Rapid Fielding__ 
 
-[Pub. L. 114–92, div. A, title VIII, § 804][/us/pl/114/92/s804], Nov. 25, 2015, [129 Stat. 882][/us/stat/129/882], provided that:
+[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 804, Nov. 25, 2015, [129 Stat. 882][/us/stat/129/882], provided that:
 
 >     “(a)  __Guidance Required__  __.—__ 
 
@@ -423,7 +423,7 @@ Source (Statutes at Large)  </td>
 
  __Use of Alternative Acquisition Paths To Acquire Critical National Security Capabilities__ 
 
-[Pub. L. 114–92, div. A, title VIII, § 805][/us/pl/114/92/s805], Nov. 25, 2015, [129 Stat. 885][/us/stat/129/885], provided that: 
+[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 805, Nov. 25, 2015, [129 Stat. 885][/us/stat/129/885], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall establish procedures for alternative acquisition pathways to acquire capital assets and services that meet critical national security needs. The procedures shall—
 
@@ -437,7 +437,7 @@ Source (Statutes at Large)  </td>
 
  __Secretary of Defense Waiver of Acquisition Laws To Acquire Vital National Security Capabilities__ 
 
-[Pub. L. 114–92, div. A, title VIII, § 806][/us/pl/114/92/s806], Nov. 25, 2015, [129 Stat. 885][/us/stat/129/885], provided that:
+[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 806, Nov. 25, 2015, [129 Stat. 885][/us/stat/129/885], provided that:
 
 >     “(a)  __Waiver Authority__  __.—__ 
 
@@ -499,7 +499,7 @@ Source (Statutes at Large)  </td>
 
  __Consideration of Potential Program Cost Increases and Schedule Delays Resulting From Oversight of Defense Acquisition Programs__ 
 
-[Pub. L. 114–92, div. A, title VIII, § 881][/us/pl/114/92/s881], Nov. 25, 2015, [129 Stat. 942][/us/stat/129/942], provided that:
+[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 881, Nov. 25, 2015, [129 Stat. 942][/us/stat/129/942], provided that:
 
 >     “(a)  __Avoidance of Unnecessary Cost Increases and Schedule Delays__  __.—__ 
 
@@ -511,13 +511,13 @@ Source (Statutes at Large)  </td>
 
  __Procurement of Personal Protective Equipment__ 
 
-[Pub. L. 114–92, div. A, title VIII, § 884][/us/pl/114/92/s884], Nov. 25, 2015, [129 Stat. 948][/us/stat/129/948], provided that: 
+[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 884, Nov. 25, 2015, [129 Stat. 948][/us/stat/129/948], provided that: 
 
 > “The Secretary of Defense shall ensure that the Secretaries of the Army, Navy, and Air Force, in procuring an item of personal protective equipment or a critical safety item, use source selection criteria that is predominately based on technical qualifications of the item and not predominately based on price to the maximum extent practicable if the level of quality or failure of the item could result in death or severe bodily harm to the user, as determined by the Secretaries.”
 
  __Prohibition on Contracting With the Enemy__ 
 
-[Pub. L. 113–291, div. A, title VIII][/us/pl/113/291], subtitle E, Dec. 19, 2014, [128 Stat. 3450][/us/stat/128/3450], provided that:
+[Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], subtitle E, Dec. 19, 2014, [128 Stat. 3450][/us/stat/128/3450], provided that:
 
 > “SEC. 841. __PROHIBITION ON PROVIDING FUNDS TO THE ENEMY.__ 
 
@@ -789,13 +789,13 @@ Source (Statutes at Large)  </td>
 
 >     The term ‘Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards’ means the guidance issued by the Office of Management and Budget in part 200 of chapter II of title 2 of the Code of Federal Regulations.”
 
-    [Pub. L. 113–66, div. A, title VIII, § 831][/us/pl/113/66/s831], Dec. 26, 2013, [127 Stat. 810][/us/stat/127/810], related to prohibition on contracting with the enemy, prior to repeal by [Pub. L. 113–291, div. A, title VIII, § 841(m)(2)][/us/pl/113/291/s841/m/2], Dec. 19, 2014, [128 Stat. 3454][/us/stat/128/3454], effective 270 days after Dec. 19, 2014.
+    [Pub. L. 113–66, div. A, title VIII][/us/pl/113/66/dA/tVIII], § 831, Dec. 26, 2013, [127 Stat. 810][/us/stat/127/810], related to prohibition on contracting with the enemy, prior to repeal by [Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 841(m)(2), Dec. 19, 2014, [128 Stat. 3454][/us/stat/128/3454], effective 270 days after Dec. 19, 2014.
 
-    [Pub. L. 112–81, div. A, title VIII, § 841][/us/pl/112/81/s841], Dec. 31, 2011, [125 Stat. 1510][/us/stat/125/1510], related to prohibition on contracting with the enemy in the United States Central Command theater of operations, prior to repeal by [Pub. L. 113–291, div. A, title VIII, § 841(m)(1)][/us/pl/113/291/s841/m/1], Dec. 19, 2014, [128 Stat. 3454][/us/stat/128/3454], effective 270 days after Dec. 19, 2014.
+    [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 841, Dec. 31, 2011, [125 Stat. 1510][/us/stat/125/1510], related to prohibition on contracting with the enemy in the United States Central Command theater of operations, prior to repeal by [Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 841(m)(1), Dec. 19, 2014, [128 Stat. 3454][/us/stat/128/3454], effective 270 days after Dec. 19, 2014.
 
  __Rapid Acquisition and Deployment Procedures for United States Special Operations Command__ 
 
-[Pub. L. 113–291, div. A, title VIII, § 851][/us/pl/113/291/s851], Dec. 19, 2014, [128 Stat. 3457][/us/stat/128/3457], provided that:
+[Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 851, Dec. 19, 2014, [128 Stat. 3457][/us/stat/128/3457], provided that:
 
 >     “(a)  __Authority to Establish Procedures__  __.—__ 
 
@@ -871,13 +871,13 @@ Source (Statutes at Large)  </td>
 
  __Consideration of Corrosion Control in Preliminary Design Review__ 
 
-[Pub. L. 113–291, div. A, title VIII, § 852][/us/pl/113/291/s852], Dec. 19, 2014, [128 Stat. 3458][/us/stat/128/3458], provided that: 
+[Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 852, Dec. 19, 2014, [128 Stat. 3458][/us/stat/128/3458], provided that: 
 
 > “The Under Secretary of Defense for Acquisition, Technology, and Logistics shall ensure that Department of Defense Instruction 5000.02 and other applicable guidance require full consideration, during preliminary design review for a product, of metals, materials, and technologies that effectively prevent or control corrosion over the life cycle of the product.”
 
  __Equipment Disposal__ 
 
-[Pub. L. 113–66, div. A, title XV, § 1531(d)][/us/pl/113/66/s1531/d], Dec. 26, 2013, [127 Stat. 938][/us/stat/127/938], as amended by [Pub. L. 113–291, div. A, title XV, § 1532(d)][/us/pl/113/291/s1532/d], Dec. 19, 2014, [128 Stat. 3614][/us/stat/128/3614], provided that:
+[Pub. L. 113–66, div. A, title XV][/us/pl/113/66/dA/tXV], § 1531(d), Dec. 26, 2013, [127 Stat. 938][/us/stat/127/938], as amended by [Pub. L. 113–291, div. A, title XV][/us/pl/113/291/dA/tXV], § 1532(d), Dec. 19, 2014, [128 Stat. 3614][/us/stat/128/3614], provided that:
 
 >     “(1)  __Acceptance of certain equipment__  __.—__ 
 
@@ -889,7 +889,7 @@ Source (Statutes at Large)  </td>
 
  __Department of Defense Policy on Contractor Profits__ 
 
-[Pub. L. 112–239, div. A, title VIII, § 804][/us/pl/112/239/s804], Jan. 2, 2013, [126 Stat. 1826][/us/stat/126/1826], provided that:
+[Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 804, Jan. 2, 2013, [126 Stat. 1826][/us/stat/126/1826], provided that:
 
 >     “(a)  __Review of Guidelines on Profits__  __.—__ 
 
@@ -911,7 +911,7 @@ Source (Statutes at Large)  </td>
 
  __Extension of Contractor Conflict of Interest Limitations__ 
 
-[Pub. L. 112–239, div. A, title VIII, § 829][/us/pl/112/239/s829], Jan. 2, 2013, [126 Stat. 1841][/us/stat/126/1841], provided that:
+[Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 829, Jan. 2, 2013, [126 Stat. 1841][/us/stat/126/1841], provided that:
 
 >     “(a)  __Assessment of Extension of Limitations to Certain Additional Functions and Contracts__  __.—__ 
 
@@ -937,7 +937,7 @@ Source (Statutes at Large)  </td>
 
  __Responsibility Within Department of Defense for Operational Contract Support__ 
 
-[Pub. L. 112–239, div. A, title VIII, § 843][/us/pl/112/239/s843], Jan. 2, 2013, [126 Stat. 1845][/us/stat/126/1845], provided that:
+[Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 843, Jan. 2, 2013, [126 Stat. 1845][/us/stat/126/1845], provided that:
 
 >     “(a)  __Guidance Required__  __.—__ 
 
@@ -971,7 +971,7 @@ Source (Statutes at Large)  </td>
 
  __Data Collection on Contract Support for Future Overseas Contingency Operations Involving Combat Operations__ 
 
-[Pub. L. 112–239, div. A, title VIII, § 844][/us/pl/112/239/s844], Jan. 2, 2013, [126 Stat. 1846][/us/stat/126/1846], provided that:
+[Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 844, Jan. 2, 2013, [126 Stat. 1846][/us/stat/126/1846], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1029,7 +1029,7 @@ Source (Statutes at Large)  </td>
 
  __Requirements for Risk Assessments Related to Contractor Performance__ 
 
-[Pub. L. 112–239, div. A, title VIII, § 846][/us/pl/112/239/s846], Jan. 2, 2013, [126 Stat. 1848][/us/stat/126/1848], provided that:
+[Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 846, Jan. 2, 2013, [126 Stat. 1848][/us/stat/126/1848], provided that:
 
 >     “(a)  __Risk Assessments for Contractor Performance in Operational or Contingency Plans__  __.—__ 
 
@@ -1111,7 +1111,7 @@ Source (Statutes at Large)  </td>
 
  __Requirement for Focus on Urgent Operational Needs and Rapid Acquisition__ 
 
-[Pub. L. 112–239, div. A, title IX, § 902][/us/pl/112/239/s902], Jan. 2, 2013, [126 Stat. 1865][/us/stat/126/1865], provided that:
+[Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 902, Jan. 2, 2013, [126 Stat. 1865][/us/stat/126/1865], provided that:
 
 >     “(a)  __Designation of Senior Official Responsible for Focus on Urgent Operational Needs and Rapid Acquisition__  __.—__ 
 
@@ -1139,7 +1139,7 @@ Source (Statutes at Large)  </td>
 
  __Procurement of Tents or Other Temporary Structures__ 
 
-[Pub. L. 112–81, div. A, title III, § 368][/us/pl/112/81/s368], Dec. 31, 2011, [125 Stat. 1381][/us/stat/125/1381], provided that:
+[Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 368, Dec. 31, 2011, [125 Stat. 1381][/us/stat/125/1381], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1151,7 +1151,7 @@ Source (Statutes at Large)  </td>
 
  __Inclusion of Data on Contractor Performance in Past Performance Databases for Source Selection Decisions__ 
 
-[Pub. L. 112–81, div. A, title VIII, § 806][/us/pl/112/81/s806], Dec. 31, 2011, [125 Stat. 1487][/us/stat/125/1487], as amended by [Pub. L. 112–239, div. A, title X, § 1076(a)(11)][/us/pl/112/239/s1076/a/11], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948], provided that:
+[Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 806, Dec. 31, 2011, [125 Stat. 1487][/us/stat/125/1487], as amended by [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(11), Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948], provided that:
 
 >     “(a)  __Strategy on Inclusion Required__  __.—__ 
 
@@ -1187,7 +1187,7 @@ Source (Statutes at Large)  </td>
 
  __Detection and Avoidance of Counterfeit Electronic Parts__ 
 
-[Pub. L. 112–81, div. A, title VIII, § 818(a)][/us/pl/112/81/s818/a]–(g), Dec. 31, 2011, [125 Stat. 1493–1496][/us/stat/125/1493-1496], as amended by [Pub. L. 112–239, div. A, title VIII, § 833][/us/pl/112/239/s833], Jan. 2, 2013, [126 Stat. 1844][/us/stat/126/1844]; [Pub. L. 113–291, div. A, title VIII, § 817][/us/pl/113/291/s817], Dec. 19, 2014, [128 Stat. 3432][/us/stat/128/3432]; [Pub. L. 114–92, div. A, title VIII, § 885][/us/pl/114/92/s885], Nov. 25, 2015, [129 Stat. 948][/us/stat/129/948], provided that:
+[Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 818(a)–(g), Dec. 31, 2011, [125 Stat. 1493–1496][/us/stat/125/1493-1496], as amended by [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 833, Jan. 2, 2013, [126 Stat. 1844][/us/stat/126/1844]; [Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 817, Dec. 19, 2014, [128 Stat. 3432][/us/stat/128/3432]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 885, Nov. 25, 2015, [129 Stat. 948][/us/stat/129/948], provided that:
 
 >     “(a)  __Assessment of Department of Defense Policies and Systems__  __.—__ 
 
@@ -1327,7 +1327,7 @@ Source (Statutes at Large)  </td>
 
  __Reach-Back Contracting Authority for Operation Enduring Freedom and Operation New Dawn__ 
 
-[Pub. L. 112–81, div. A, title VIII, § 843][/us/pl/112/81/s843], Dec. 31, 2011, [125 Stat. 1514][/us/stat/125/1514], provided that:
+[Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 843, Dec. 31, 2011, [125 Stat. 1514][/us/stat/125/1514], provided that:
 
 >     “(a)  __Authority To Designate Lead Contracting Activity__  __.—__ 
 
@@ -1347,7 +1347,7 @@ Source (Statutes at Large)  </td>
 
  __Competition and Review of Contracts for Property or Services in Support of a Contingency Operation__ 
 
-[Pub. L. 112–81, div. A, title VIII, § 844(a)][/us/pl/112/81/s844/a], (b), Dec. 31, 2011, [125 Stat. 1515][/us/stat/125/1515], provided that:
+[Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 844(a), (b), Dec. 31, 2011, [125 Stat. 1515][/us/stat/125/1515], provided that:
 
 >     “(a)  __Contracting Goals__  __.—__ 
 
@@ -1363,7 +1363,7 @@ Source (Statutes at Large)  </td>
 
  __Contracts for Commercial Imaging Satellite Capacities__ 
 
-[Pub. L. 111–383, div. A, title I, § 127][/us/pl/111/383/s127], Jan. 7, 2011, [124 Stat. 4161][/us/stat/124/4161], provided that:
+[Pub. L. 111–383, div. A, title I][/us/pl/111/383/dA/tI], § 127, Jan. 7, 2011, [124 Stat. 4161][/us/stat/124/4161], provided that:
 
 >     “(a)  __Telescope Requirements Under Contracts After__  __2010.—__ 
 
@@ -1383,7 +1383,7 @@ Source (Statutes at Large)  </td>
 
  __Review of Acquisition Process for Rapid Fielding of Capabilities in Response to Urgent Operational Needs__ 
 
-[Pub. L. 111–383, div. A, title VIII, § 804][/us/pl/111/383/s804], Jan. 7, 2011, [124 Stat. 4256][/us/stat/124/4256], provided that:
+[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 804, Jan. 7, 2011, [124 Stat. 4256][/us/stat/124/4256], provided that:
 
 >     “(a) __Review of Rapid Acquisition Process Required.—__ 
 
@@ -1485,7 +1485,7 @@ Source (Statutes at Large)  </td>
 
  __Standards and Certification for Private Security Contractors__ 
 
-[Pub. L. 111–383, div. A, title VIII, § 833][/us/pl/111/383/s833], Jan. 7, 2011, [124 Stat. 4276][/us/stat/124/4276], provided that:
+[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 833, Jan. 7, 2011, [124 Stat. 4276][/us/stat/124/4276], provided that:
 
 >     “(a)  __Review of Third-Party Standards and Certification Processes__  __.—__ 
 
@@ -1551,7 +1551,7 @@ Source (Statutes at Large)  </td>
 
  __Pilot Program on Acquisition of Military Purpose Nondevelopmental Items__ 
 
-[Pub. L. 111–383, div. A, title VIII, § 866(a)][/us/pl/111/383/s866/a]–(f), Jan. 7, 2011, [124 Stat. 4296–4298][/us/stat/124/4296-4298], as amended by [Pub. L. 113–66, div. A, title VIII, § 814][/us/pl/113/66/s814], Dec. 26, 2013, [127 Stat. 808][/us/stat/127/808]; [Pub. L. 113–291, div. A, title X, § 1071(b)(1)(B)][/us/pl/113/291/s1071/b/1/B], Dec. 19, 2014, [128 Stat. 3505][/us/stat/128/3505]; [Pub. L. 114–92, div. A, title VIII, § 892][/us/pl/114/92/s892], Nov. 25, 2015, [129 Stat. 952][/us/stat/129/952], provided that:
+[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 866(a)–(f), Jan. 7, 2011, [124 Stat. 4296–4298][/us/stat/124/4296-4298], as amended by [Pub. L. 113–66, div. A, title VIII][/us/pl/113/66/dA/tVIII], § 814, Dec. 26, 2013, [127 Stat. 808][/us/stat/127/808]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(b)(1)(B), Dec. 19, 2014, [128 Stat. 3505][/us/stat/128/3505]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 892, Nov. 25, 2015, [129 Stat. 952][/us/stat/129/952], provided that:
 
 >     “(a) __Pilot Program Authorized.—__ 
 
@@ -1653,7 +1653,7 @@ Source (Statutes at Large)  </td>
 
  __Contractor Business Systems__ 
 
-[Pub. L. 111–383, div. A, title VIII, § 893][/us/pl/111/383/s893], Jan. 7, 2011, [124 Stat. 4311][/us/stat/124/4311], as amended by [Pub. L. 112–81, div. A, title VIII, § 816][/us/pl/112/81/s816], Dec. 31, 2011, [125 Stat. 1493][/us/stat/125/1493]; [Pub. L. 113–291, div. A, title X, § 1071(b)(1)(C)][/us/pl/113/291/s1071/b/1/C], Dec. 19, 2014, [128 Stat. 3505][/us/stat/128/3505], provided that:
+[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 893, Jan. 7, 2011, [124 Stat. 4311][/us/stat/124/4311], as amended by [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 816, Dec. 31, 2011, [125 Stat. 1493][/us/stat/125/1493]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(b)(1)(C), Dec. 19, 2014, [128 Stat. 3505][/us/stat/128/3505], provided that:
 
 >     “(a)  __Improvement Program__  __.—__ 
 
@@ -1725,11 +1725,11 @@ Source (Statutes at Large)  </td>
 
  __Life-Cycle Management and Product Support__ 
 
-    [Pub. L. 111–84, div. A, title VIII, § 805][/us/pl/111/84/s805], Oct. 28, 2009, [123 Stat. 2403][/us/stat/123/2403], which directed the Secretary of Defense to issue comprehensive guidance on life-cycle management and the development and implementation of product support strategies for major weapon systems and required each major weapon system to be supported by a product support manager, was repealed by [Pub. L. 112–239, div. A, title VIII, § 823(b)][/us/pl/112/239/s823/b], Jan. 2, 2013, [126 Stat. 1832][/us/stat/126/1832].
+    [Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], § 805, Oct. 28, 2009, [123 Stat. 2403][/us/stat/123/2403], which directed the Secretary of Defense to issue comprehensive guidance on life-cycle management and the development and implementation of product support strategies for major weapon systems and required each major weapon system to be supported by a product support manager, was repealed by [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 823(b), Jan. 2, 2013, [126 Stat. 1832][/us/stat/126/1832].
 
  __Contract Authority for Advanced Component Development or Prototype Units__ 
 
-[Pub. L. 111–84, div. A, title VIII, § 819][/us/pl/111/84/s819], Oct. 28, 2009, [123 Stat. 2409][/us/stat/123/2409], as amended by [Pub. L. 113–291, div. A, title VIII, § 811][/us/pl/113/291/s811], Dec. 19, 2014, [128 Stat. 3428][/us/stat/128/3428], provided that:
+[Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], § 819, Oct. 28, 2009, [123 Stat. 2409][/us/stat/123/2409], as amended by [Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 811, Dec. 19, 2014, [128 Stat. 3428][/us/stat/128/3428], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -1779,7 +1779,7 @@ Source (Statutes at Large)  </td>
 
  __Congressional Earmarks__ 
 
-[Pub. L. 111–84, div. A, title X, § 1062][/us/pl/111/84/s1062], Oct. 28, 2009, [123 Stat. 2468][/us/stat/123/2468], provided that:
+[Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1062, Oct. 28, 2009, [123 Stat. 2468][/us/stat/123/2468], provided that:
 
 >     “(a) __Report on Recurring Earmarks.—__ 
 
@@ -1815,7 +1815,7 @@ Source (Statutes at Large)  </td>
 
  __Consideration of Trade-Offs Among Cost, Schedule, and Performance Objectives in Department of Defense Acquisition Programs__ 
 
-[Pub. L. 111–23, title II, § 201(a)][/us/pl/111/23/s201/a], May 22, 2009, [123 Stat. 1719][/us/stat/123/1719], provided that:
+[Pub. L. 111–23, title II][/us/pl/111/23/tII], § 201(a), May 22, 2009, [123 Stat. 1719][/us/stat/123/1719], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -1831,7 +1831,7 @@ Source (Statutes at Large)  </td>
 
  __Awards for Department of Defense Personnel for Excellence in the Acquisition of Products and Services__ 
 
-[Pub. L. 111–23, title III, § 301][/us/pl/111/23/s301], May 22, 2009, [123 Stat. 1730][/us/stat/123/1730], provided that:
+[Pub. L. 111–23, title III][/us/pl/111/23/tIII], § 301, May 22, 2009, [123 Stat. 1730][/us/stat/123/1730], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1943,7 +1943,7 @@ Source (Statutes at Large)  </td>
 
  __Increase of Domestic Breeding of Military Working Dogs Used by the Department of Defense__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 358, Oct. 14, 2008, [122 Stat. 4427][/us/stat/122/4427], as amended by [Pub. L. 111–84, div. A, title III, § 341][/us/pl/111/84/s341], Oct. 28, 2009, [123 Stat. 2260][/us/stat/123/2260]; [Pub. L. 111–383, div. A, title X, § 1075(e)(6)][/us/pl/111/383/s1075/e/6], Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374]; [Pub. L. 112–81, div. A, title III, § 349][/us/pl/112/81/s349], Dec. 31, 2011, [125 Stat. 1375][/us/stat/125/1375]; [Pub. L. 114–92, div. A, title X, § 1073(h)][/us/pl/114/92/s1073/h], Nov. 25, 2015, [129 Stat. 996][/us/stat/129/996], provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 358, Oct. 14, 2008, [122 Stat. 4427][/us/stat/122/4427], as amended by [Pub. L. 111–84, div. A, title III][/us/pl/111/84/dA/tIII], § 341, Oct. 28, 2009, [123 Stat. 2260][/us/stat/123/2260]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(e)(6), Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374]; [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 349, Dec. 31, 2011, [125 Stat. 1375][/us/stat/125/1375]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1073(h), Nov. 25, 2015, [129 Stat. 996][/us/stat/129/996], provided that:
 
 >     “(a)  __Increased Capacity__  __.—__ 
 
@@ -2027,13 +2027,13 @@ Source (Statutes at Large)  </td>
 
  __Sales of Commercial Items to Nongovernmental Entities__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 815(b)][/us/pl/110/181/s815/b], Jan. 28, 2008, [122 Stat. 223][/us/stat/122/223], provided that: 
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 815(b), Jan. 28, 2008, [122 Stat. 223][/us/stat/122/223], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall modify the regulations of the Department of Defense on the procurement of commercial items in order to clarify that the terms ‘general public’ and ‘nongovernmental entities’ in such regulations do not include the Federal Government or a State, local, or foreign government.”
 
  __Investigation of Waste, Fraud, and Abuse in Wartime Contracts and Contracting Processes in Iraq and Afghanistan__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 842][/us/pl/110/181/s842], Jan. 28, 2008, [122 Stat. 234][/us/stat/122/234], provided that:
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 842, Jan. 28, 2008, [122 Stat. 234][/us/stat/122/234], provided that:
 
 >     “(a)  __Audits Required__  __.—__ 
 
@@ -2107,7 +2107,7 @@ Source (Statutes at Large)  </td>
 
  __Contracts in Iraq and Afghanistan and Private Security Contracts in Areas of Other Significant Military Operations__ 
 
-[Pub. L. 111–383, div. A, title VIII, § 831(b)][/us/pl/111/383/s831/b], Jan. 7, 2011, [124 Stat. 4274][/us/stat/124/4274], provided that:
+[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 831(b), Jan. 7, 2011, [124 Stat. 4274][/us/stat/124/4274], provided that:
 
 >     “(1)  __Deadline for regulations__  __.—__ 
 
@@ -2129,7 +2129,7 @@ Source (Statutes at Large)  </td>
 
 >         “(B) Any task or delivery order described in paragraph (2)(B).”
 
-[Pub. L. 111–383, div. A, title VIII, § 832(b)][/us/pl/111/383/s832/b], Jan. 7, 2011, [124 Stat. 4275][/us/stat/124/4275], provided that:
+[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 832(b), Jan. 7, 2011, [124 Stat. 4275][/us/stat/124/4275], provided that:
 
 >     “(1)  __Determination required for certain areas__  __.—__ 
 
@@ -2149,7 +2149,7 @@ Source (Statutes at Large)  </td>
 
 >     “(1)  __Through memorandum of understanding__  __.—__ 
 
->     The memorandum of understanding required by section 861(a) of the National Defense Authorization Act for Fiscal Year 2008 ([Public Law 110–181][/us/pl/110/181]; [122 Stat. 253][/us/stat/122/253]; [10 U.S.C. 2302][/us/usc/t10/s2302] note) shall be modified to address the requirements under the amendment made by subsection (a) \[amending [Pub. L. 110–181, § 861(b)][/us/pl/110/181/s861/b], set out below\] not later than 120 days after the date of the enactment of this Act \[Oct. 14, 2008\].
+>     The memorandum of understanding required by section 861(a) of the National Defense Authorization Act for Fiscal Year 2008 ([Public Law 110–181][/us/pl/110/181]; [122 Stat. 253][/us/stat/122/253]; [10 U.S.C. 2302][/us/usc/t10/s2302] note) shall be modified to address the requirements under the amendment made by subsection (a) \[amending [Pub. L. 110–181][/us/pl/110/181], § 861(b), set out below\] not later than 120 days after the date of the enactment of this Act \[Oct. 14, 2008\].
 
 >     “(2)  __As condition of current and future contracts__  __.—__ 
 
@@ -2159,7 +2159,7 @@ Source (Statutes at Large)  </td>
 
 > “Beginning not later than 270 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall make publicly available a numerical accounting of alleged offenses described in [section 861(b)(6) of Public Law 110–181][/us/pl/110/181/s861/b/6] \[set out below\] that have been reported under that section that occurred after the date of the enactment of this Act. The information shall be updated no less frequently than semi-annually.”
 
-[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181], subtitle F, Jan. 28, 2008, [122 Stat. 253][/us/stat/122/253], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, §§ 853, 854(a), (d), Oct. 14, 2008, [122 Stat. 4544][/us/stat/122/4544], 4545; [Pub. L. 111–84, div. A, title VIII, § 813(a)][/us/pl/111/84/s813/a]–(c), Oct. 28, 2009, [123 Stat. 2406][/us/stat/123/2406], 2407; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383], §§ 831(a), 832(a), (c), 835, title X, § 1075(d)(9), Jan. 7, 2011, [124 Stat. 4273][/us/stat/124/4273], 4275, 4276, 4279, 4373; [Pub. L. 112–81, div. A, title VIII, § 844(c)][/us/pl/112/81/s844/c], Dec. 31, 2011, [125 Stat. 1515][/us/stat/125/1515]; [Pub. L. 112–239, div. A, title VIII, § 847][/us/pl/112/239/s847], Jan. 2, 2013, [126 Stat. 1850][/us/stat/126/1850]; [Pub. L. 113–291, div. A, title X, § 1071(b)(2)(D)][/us/pl/113/291/s1071/b/2/D], Dec. 19, 2014, [128 Stat. 3506][/us/stat/128/3506], provided that:
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], subtitle F, Jan. 28, 2008, [122 Stat. 253][/us/stat/122/253], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, §§ 853, 854(a), (d), Oct. 14, 2008, [122 Stat. 4544][/us/stat/122/4544], 4545; [Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], § 813(a)–(c), Oct. 28, 2009, [123 Stat. 2406][/us/stat/123/2406], 2407; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], §§ 831(a), 832(a), (c), 835, title X, § 1075(d)(9), Jan. 7, 2011, [124 Stat. 4273][/us/stat/124/4273], 4275, 4276, 4279, 4373; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 844(c), Dec. 31, 2011, [125 Stat. 1515][/us/stat/125/1515]; [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 847, Jan. 2, 2013, [126 Stat. 1850][/us/stat/126/1850]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(b)(2)(D), Dec. 19, 2014, [128 Stat. 3506][/us/stat/128/3506], provided that:
 
 > “SEC. 861. __MEMORANDUM OF UNDERSTANDING ON MATTERS RELATING TO CONTRACTING.__ 
 
@@ -2559,7 +2559,7 @@ Source (Statutes at Large)  </td>
 
  __Enhanced Authority To Acquire Products and Services Produced in Afghanistan__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 886][/us/pl/110/181/s886], Jan. 28, 2008, [122 Stat. 266][/us/stat/122/266], as amended by [Pub. L. 112–239, div. A, title VIII, § 842][/us/pl/112/239/s842], Jan. 2, 2013, [126 Stat. 1845][/us/stat/126/1845]; [Pub. L. 114–92, div. A, title VIII, § 886(a)][/us/pl/114/92/s886/a], Nov. 25, 2015, [129 Stat. 949][/us/stat/129/949], provided that:
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 886, Jan. 28, 2008, [122 Stat. 266][/us/stat/122/266], as amended by [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 842, Jan. 2, 2013, [126 Stat. 1845][/us/stat/126/1845]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 886(a), Nov. 25, 2015, [129 Stat. 949][/us/stat/129/949], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -2611,11 +2611,11 @@ Source (Statutes at Large)  </td>
 
 >     The authority under subsection (a) shall not be available for the procurement of any good that is contained in the procurement catalog described in [section 8503(a) of title 41][/us/usc/t41/s8503/a], United States Code, in Afghanistan if such good can be produced and delivered by a qualified nonprofit agency for the blind or a nonprofit agency for other severely disabled \[sic\] in a timely fashion to support mission requirements.”
 
-    \[[Pub. L. 112–239, div. A, title VIII, § 842(1)][/us/pl/112/239/s842/1], Jan. 2, 2013, [126 Stat. 1845][/us/stat/126/1845], which directed amendment of [section 886 of Pub. L. 110–181][/us/pl/110/181/s886], set out above, by striking “Iraq or” in section heading, was executed by striking “Iraq and”, to reflect the probable intent of Congress.\]
+    \[[Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 842(1), Jan. 2, 2013, [126 Stat. 1845][/us/stat/126/1845], which directed amendment of [section 886 of Pub. L. 110–181][/us/pl/110/181/s886], set out above, by striking “Iraq or” in section heading, was executed by striking “Iraq and”, to reflect the probable intent of Congress.\]
 
  __Prevention of Export Control Violations__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 890][/us/pl/110/181/s890], Jan. 28, 2008, [122 Stat. 269][/us/stat/122/269], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(6), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613]; [Pub. L. 111–383, div. A, title X, § 1075(f)(6)][/us/pl/111/383/s1075/f/6], Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376], provided that:
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 890, Jan. 28, 2008, [122 Stat. 269][/us/stat/122/269], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(6), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(f)(6), Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376], provided that:
 
 >     “(a)  __Prevention of Export Control Violations__  __.—__ 
 
@@ -2651,7 +2651,7 @@ Source (Statutes at Large)  </td>
 
  __Quality Control in Procurement of Ship Critical Safety Items and Related Services__ 
 
-[Pub. L. 109–364, div. A, title I, § 130(a)][/us/pl/109/364/s130/a]–(c), Oct. 17, 2006, [120 Stat. 2110][/us/stat/120/2110], provided that:
+[Pub. L. 109–364, div. A, title I][/us/pl/109/364/dA/tI], § 130(a)–(c), Oct. 17, 2006, [120 Stat. 2110][/us/stat/120/2110], provided that:
 
 >     “(a)  __Quality Control Policy__  __.—__ 
 
@@ -2677,7 +2677,7 @@ Source (Statutes at Large)  </td>
 
  __Pilot Program on Time-Certain Development in Acquisition of Major Weapon Systems__ 
 
-[Pub. L. 109–364, div. A, title VIII, § 812][/us/pl/109/364/s812], Oct. 17, 2006, [120 Stat. 2317][/us/stat/120/2317], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 813(d)(3), Oct. 14, 2008, [122 Stat. 4527][/us/stat/122/4527]; [Pub. L. 111–84, div. A, title X, § 1073(c)(5)][/us/pl/111/84/s1073/c/5], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that:
+[Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 812, Oct. 17, 2006, [120 Stat. 2317][/us/stat/120/2317], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 813(d)(3), Oct. 14, 2008, [122 Stat. 4527][/us/stat/122/4527]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c)(5), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that:
 
 >     “(a)  __Pilot Program Authorized__  __.—__ 
 
@@ -2823,11 +2823,11 @@ Source (Statutes at Large)  </td>
 
 >     In this section, the term ‘major weapon system’ means a weapon system that is treatable as a major system under [section 2302(5) of title 10][/us/usc/t10/s2302/5], United States Code.”
 
-    \[[Pub. L. 111–84, div. A, title X, § 1073(c)][/us/pl/111/84/s1073/c], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that the amendment made by section 1073(c)(5) to [section 813(d)(3) of Pub. L. 110–417][/us/pl/110/417/s813/d/3], set out above, is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.\]
+    \[[Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that the amendment made by section 1073(c)(5) to [section 813(d)(3) of Pub. L. 110–417][/us/pl/110/417/s813/d/3], set out above, is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.\]
 
  __Linking of Award and Incentive Fees to Acquisition Outcomes__ 
 
-[Pub. L. 111–84, div. A, title VIII, § 823][/us/pl/111/84/s823], Oct. 28, 2009, [123 Stat. 2412][/us/stat/123/2412], as amended by [Pub. L. 111–383, div. A, title VIII, § 834(a)][/us/pl/111/383/s834/a]–(c), Jan. 7, 2011, [124 Stat. 4278][/us/stat/124/4278], 4279, provided that:
+[Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], § 823, Oct. 28, 2009, [123 Stat. 2412][/us/stat/123/2412], as amended by [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 834(a)–(c), Jan. 7, 2011, [124 Stat. 4278][/us/stat/124/4278], 4279, provided that:
 
 >     “(a)  __Authority To Reduce or Deny Award Fees__  __.—__ 
 
@@ -2901,7 +2901,7 @@ Source (Statutes at Large)  </td>
 
 >     This section shall apply with respect to contracts entered into after the date occurring 180 days after the date of the enactment of this Act \[Oct. 28, 2009\].”
 
-\[[Pub. L. 111–383, div. A, title VIII, § 834(e)][/us/pl/111/383/s834/e], Jan. 7, 2011, [124 Stat. 4279][/us/stat/124/4279], provided that: 
+\[[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 834(e), Jan. 7, 2011, [124 Stat. 4279][/us/stat/124/4279], provided that: 
 
 > “The requirements of section 823 of the National Defense Authorization Act for Fiscal Year 2010 \[[Pub. L. 111–84][/us/pl/111/84], set out above\], as amended by subsections (a) through (c), shall apply with respect to the following:
 
@@ -2909,11 +2909,11 @@ Source (Statutes at Large)  </td>
 
     \[“(2) Any task order or delivery order issued on or after the date of the enactment of this Act under a contract entered into before, on, or after that date.”\]
 
-[Pub. L. 110–329, div. C, title VIII, § 8105][/us/pl/110/329/s8105], Sept. 30, 2008, [122 Stat. 3644][/us/stat/122/3644], provided that: 
+[Pub. L. 110–329, div. C, title VIII][/us/pl/110/329/dC/tVIII], § 8105, Sept. 30, 2008, [122 Stat. 3644][/us/stat/122/3644], provided that: 
 
 > “During the current fiscal year and hereafter, none of the funds appropriated or otherwise available to the Department of Defense may be obligated or expended to provide award fees to any defense contractor contrary to the provisions of section 814 of the National Defense Authorization Act, Fiscal Year 2007 ([Public Law 109–364][/us/pl/109/364]) \[set out below\].”
 
-[Pub. L. 109–364, div. A, title VIII, § 814][/us/pl/109/364/s814], Oct. 17, 2006, [120 Stat. 2321][/us/stat/120/2321], provided that:
+[Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 814, Oct. 17, 2006, [120 Stat. 2321][/us/stat/120/2321], provided that:
 
 >     “(a)  __Guidance on Linking of Award and Incentive Fees to Acquisition Outcomes__  __.—__ 
 
@@ -2969,7 +2969,7 @@ Source (Statutes at Large)  </td>
 
  __Limitation on Contracts for the Acquisition of Certain Services__ 
 
-[Pub. L. 109–364, div. A, title VIII, § 832][/us/pl/109/364/s832], Oct. 17, 2006, [120 Stat. 2331][/us/stat/120/2331], as amended by [Pub. L. 110–181, div. A, title VIII, § 883][/us/pl/110/181/s883], Jan. 28, 2008, [122 Stat. 264][/us/stat/122/264]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(5), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613]; [Pub. L. 113–291, div. A, title X, § 1071(b)(3)(A)][/us/pl/113/291/s1071/b/3/A], Dec. 19, 2014, [128 Stat. 3506][/us/stat/128/3506], provided that:
+[Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 832, Oct. 17, 2006, [120 Stat. 2331][/us/stat/120/2331], as amended by [Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 883, Jan. 28, 2008, [122 Stat. 264][/us/stat/122/264]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(5), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(b)(3)(A), Dec. 19, 2014, [128 Stat. 3506][/us/stat/128/3506], provided that:
 
 >     “(a)  __Limitation__  __.—__ 
 
@@ -3023,7 +3023,7 @@ Source (Statutes at Large)  </td>
 
  __Congressional Notification of Cancellation of Major Automated Information Systems__ 
 
-[Pub. L. 109–163, div. A, title VIII, § 806][/us/pl/109/163/s806], Jan. 6, 2006, [119 Stat. 3373][/us/stat/119/3373], provided that:
+[Pub. L. 109–163, div. A, title VIII][/us/pl/109/163/dA/tVIII], § 806, Jan. 6, 2006, [119 Stat. 3373][/us/stat/119/3373], provided that:
 
 >     “(a)  __Report Required__  __.—__ 
 
@@ -3051,7 +3051,7 @@ Source (Statutes at Large)  </td>
 
  __Joint Policy on Contingency Contracting__ 
 
-[Pub. L. 109–163, div. A, title VIII, § 817][/us/pl/109/163/s817], Jan. 6, 2006, [119 Stat. 3382][/us/stat/119/3382], provided that:
+[Pub. L. 109–163, div. A, title VIII][/us/pl/109/163/dA/tVIII], § 817, Jan. 6, 2006, [119 Stat. 3382][/us/stat/119/3382], provided that:
 
 >     “(a) __Joint Policy.—__ 
 
@@ -3133,7 +3133,7 @@ Source (Statutes at Large)  </td>
 
  __Prohibition on Procurements From Communist Chinese Military Companies__ 
 
-[Pub. L. 109–163, div. A, title XII, § 1211][/us/pl/109/163/s1211], Jan. 6, 2006, [119 Stat. 3461][/us/stat/119/3461], as amended by [Pub. L. 112–81, div. A, title XII, § 1243(a)][/us/pl/112/81/s1243/a], (b), Dec. 31, 2011, [125 Stat. 1645][/us/stat/125/1645], provided that:
+[Pub. L. 109–163, div. A, title XII][/us/pl/109/163/dA/tXII], § 1211, Jan. 6, 2006, [119 Stat. 3461][/us/stat/119/3461], as amended by [Pub. L. 112–81, div. A, title XII][/us/pl/112/81/dA/tXII], § 1243(a), (b), Dec. 31, 2011, [125 Stat. 1645][/us/stat/125/1645], provided that:
 
 >     “(a)  __Prohibition__  __.—__ 
 
@@ -3165,7 +3165,7 @@ Source (Statutes at Large)  </td>
 
 >         “(2) The term ‘munitions list of the International Trafficking in Arms Regulations’ means the United States Munitions List contained in part 121 of subchapter M of title 22 of the Code of Federal Regulations.”
 
-\[[Pub. L. 112–81, div. A, title XII, § 1243(c)][/us/pl/112/81/s1243/c], Dec. 31, 2011, [125 Stat. 1646][/us/stat/125/1646], provided that: 
+\[[Pub. L. 112–81, div. A, title XII][/us/pl/112/81/dA/tXII], § 1243(c), Dec. 31, 2011, [125 Stat. 1646][/us/stat/125/1646], provided that: 
 
 > “The amendments made by this section \[amending [section 1211 of Pub. L. 109–163][/us/pl/109/163/s1211], set out above\] take effect on the date of the enactment of this Act \[Dec. 31, 2011\] and apply with respect to contracts and subcontracts of the Department of Defense entered into on or after the date of the enactment of this Act.”
 
@@ -3173,7 +3173,7 @@ Source (Statutes at Large)  </td>
 
  __Development of Deployable Systems To Include Consideration of Force Protection in Asymmetric Threat Environments__ 
 
-[Pub. L. 108–375, div. A, title I, § 141][/us/pl/108/375/s141], Oct. 28, 2004, [118 Stat. 1829][/us/stat/118/1829], provided that:
+[Pub. L. 108–375, div. A, title I][/us/pl/108/375/dA/tI], § 141, Oct. 28, 2004, [118 Stat. 1829][/us/stat/118/1829], provided that:
 
 >     “(a)  __Requirement for Systems Development__  __.—__ 
 
@@ -3201,7 +3201,7 @@ Source (Statutes at Large)  </td>
 
  __Internal Controls for Department of Defense Procurements Through GSA Client Support Centers__ 
 
-[Pub. L. 108–375, div. A, title VIII, § 802][/us/pl/108/375/s802], Oct. 28, 2004, [118 Stat. 2004][/us/stat/118/2004], as amended by [Pub. L. 109–313, § 2(c)(2)][/us/pl/109/313/s2/c/2], Oct. 6, 2006, [120 Stat. 1735][/us/stat/120/1735], provided that:
+[Pub. L. 108–375, div. A, title VIII][/us/pl/108/375/dA/tVIII], § 802, Oct. 28, 2004, [118 Stat. 2004][/us/stat/118/2004], as amended by [Pub. L. 109–313][/us/pl/109/313], § 2(c)(2), Oct. 6, 2006, [120 Stat. 1735][/us/stat/120/1735], provided that:
 
 >     “(a)  __Initial Inspector General Review and Determination__  __.—__ 
 
@@ -3261,7 +3261,7 @@ Source (Statutes at Large)  </td>
 
  __Data Review__ 
 
-[Pub. L. 108–136, div. A, title VIII, § 801(b)][/us/pl/108/136/s801/b], Nov. 24, 2003, [117 Stat. 1540][/us/stat/117/1540], provided that:
+[Pub. L. 108–136, div. A, title VIII][/us/pl/108/136/dA/tVIII], § 801(b), Nov. 24, 2003, [117 Stat. 1540][/us/stat/117/1540], provided that:
 
 >     “(1) The Secretary of Defense shall revise the data collection systems of the Department of Defense to ensure that such systems are capable of identifying each procurement that involves a consolidation of contract requirements within the department with a total value in excess of $5,000,000.
 
@@ -3283,7 +3283,7 @@ Source (Statutes at Large)  </td>
 
  __Quality Control in Procurement of Aviation Critical Safety Items and Related Services__ 
 
-[Pub. L. 108–136, div. A, title VIII, § 802(a)][/us/pl/108/136/s802/a]–(c), Nov. 24, 2003, [117 Stat. 1540][/us/stat/117/1540], provided that:
+[Pub. L. 108–136, div. A, title VIII][/us/pl/108/136/dA/tVIII], § 802(a)–(c), Nov. 24, 2003, [117 Stat. 1540][/us/stat/117/1540], provided that:
 
 >     “(a)  __Quality Control Policy__  __.—__ 
 
@@ -3305,13 +3305,13 @@ Source (Statutes at Large)  </td>
 
  __Competitive Award of Contracts for Reconstruction Activities in Iraq__ 
 
-[Pub. L. 108–136, div. A, title VIII, § 805(a)][/us/pl/108/136/s805/a], Nov. 24, 2003, [117 Stat. 1542][/us/stat/117/1542], provided that: 
+[Pub. L. 108–136, div. A, title VIII][/us/pl/108/136/dA/tVIII], § 805(a), Nov. 24, 2003, [117 Stat. 1542][/us/stat/117/1542], provided that: 
 
 > “The Department of Defense shall fully comply with chapter 137 of title 10, United States Code, and other applicable procurement laws and regulations for any contract awarded for reconstruction activities in Iraq, and shall conduct a full and open competition for performing work needed for the reconstruction of the Iraqi oil industry.”
 
  __Demonstration Project for Contractors Employing Persons With Disabilities__ 
 
-[Pub. L. 108–136, div. A, title VIII, § 853][/us/pl/108/136/s853], Nov. 24, 2003, [117 Stat. 1557][/us/stat/117/1557], as amended by [Pub. L. 108–199, div. H, § 110][/us/pl/108/199/s110], Jan. 23, 2004, [118 Stat. 438][/us/stat/118/438], provided that:
+[Pub. L. 108–136, div. A, title VIII][/us/pl/108/136/dA/tVIII], § 853, Nov. 24, 2003, [117 Stat. 1557][/us/stat/117/1557], as amended by [Pub. L. 108–199, div. H][/us/pl/108/199/dH], § 110, Jan. 23, 2004, [118 Stat. 438][/us/stat/118/438], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -3345,7 +3345,7 @@ Source (Statutes at Large)  </td>
 
  __Procurement of Defense Biomedical Countermeasures__ 
 
-[Pub. L. 108–136, div. A, title XVI, § 1602][/us/pl/108/136/s1602], Nov. 24, 2003, [117 Stat. 1682][/us/stat/117/1682], as amended by [Pub. L. 110–181, div. A, title X, § 1063(g)(3)][/us/pl/110/181/s1063/g/3], Jan. 28, 2008, [122 Stat. 324][/us/stat/122/324], provided that:
+[Pub. L. 108–136, div. A, title XVI][/us/pl/108/136/dA/tXVI], § 1602, Nov. 24, 2003, [117 Stat. 1682][/us/stat/117/1682], as amended by [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1063(g)(3), Jan. 28, 2008, [122 Stat. 324][/us/stat/122/324], provided that:
 
 >     “(a)  __Determination of Material Threats__  __.—__ 
 
@@ -3415,11 +3415,11 @@ Source (Statutes at Large)  </td>
 
  __Encouragement of Small Businesses and Nontraditional Defense Contractors To Submit Proposals Potentially Beneficial for Combating Terrorism__ 
 
-    [Pub. L. 107–314, div. A, title II, § 244][/us/pl/107/314/s244], Dec. 2, 2002, [116 Stat. 2498][/us/stat/116/2498], provided that during fiscal years 2003, 2004, and 2005, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, was to carry out a program of outreach to small businesses and nontraditional defense contractors with the purpose of providing a process for reviewing and evaluating research activities of, and new technologies being developed by, small businesses and nontraditional defense contractors that had the potential for meeting a defense requirement or technology development goal of the Department of Defense that related to the mission of the Department of Defense to combat terrorism.
+    [Pub. L. 107–314, div. A, title II][/us/pl/107/314/dA/tII], § 244, Dec. 2, 2002, [116 Stat. 2498][/us/stat/116/2498], provided that during fiscal years 2003, 2004, and 2005, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, was to carry out a program of outreach to small businesses and nontraditional defense contractors with the purpose of providing a process for reviewing and evaluating research activities of, and new technologies being developed by, small businesses and nontraditional defense contractors that had the potential for meeting a defense requirement or technology development goal of the Department of Defense that related to the mission of the Department of Defense to combat terrorism.
 
  __Procurement of Environmentally Preferable Procurement Items__ 
 
-[Pub. L. 107–314, div. A, title III, § 314][/us/pl/107/314/s314], Dec. 2, 2002, [116 Stat. 2508][/us/stat/116/2508], as amended by [Pub. L. 109–163, div. A, title X, § 1056(e)(1)][/us/pl/109/163/s1056/e/1], Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440], provided that:
+[Pub. L. 107–314, div. A, title III][/us/pl/107/314/dA/tIII], § 314, Dec. 2, 2002, [116 Stat. 2508][/us/stat/116/2508], as amended by [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1056(e)(1), Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440], provided that:
 
 >     “(a)  __Tracking System__  __.—__ 
 
@@ -3447,7 +3447,7 @@ Source (Statutes at Large)  </td>
 
  __Policy Regarding Acquisition of Information Assurance and Information Assurance-Enabled Information Technology Products__ 
 
-[Pub. L. 107–314, div. A, title III, § 352][/us/pl/107/314/s352], Dec. 2, 2002, [116 Stat. 2518][/us/stat/116/2518], provided that:
+[Pub. L. 107–314, div. A, title III][/us/pl/107/314/dA/tIII], § 352, Dec. 2, 2002, [116 Stat. 2518][/us/stat/116/2518], provided that:
 
 >     “(a)  __Establishment of Policy__  __.—__ 
 
@@ -3463,11 +3463,11 @@ Source (Statutes at Large)  </td>
 
  __Logistics Support and Services for Weapon Systems Contractors__ 
 
-    [Pub. L. 107–314, div. A, title III, § 365][/us/pl/107/314/s365], Dec. 2, 2002, [116 Stat. 2520][/us/stat/116/2520], as amended by [Pub. L. 109–163, div. A, title III, § 331][/us/pl/109/163/s331], Jan. 6, 2006, [119 Stat. 3195][/us/stat/119/3195], authorized the Secretary of Defense to make certain logistics support and services available to weapon systems contractors and provided for the expiration of such authority on Sept. 30, 2010.
+    [Pub. L. 107–314, div. A, title III][/us/pl/107/314/dA/tIII], § 365, Dec. 2, 2002, [116 Stat. 2520][/us/stat/116/2520], as amended by [Pub. L. 109–163, div. A, title III][/us/pl/109/163/dA/tIII], § 331, Jan. 6, 2006, [119 Stat. 3195][/us/stat/119/3195], authorized the Secretary of Defense to make certain logistics support and services available to weapon systems contractors and provided for the expiration of such authority on Sept. 30, 2010.
 
  __Improvement of Software Acquisition Processes__ 
 
-[Pub. L. 107–314, div. A, title VIII, § 804][/us/pl/107/314/s804], Dec. 2, 2002, [116 Stat. 2604][/us/stat/116/2604], provided that:
+[Pub. L. 107–314, div. A, title VIII][/us/pl/107/314/dA/tVIII], § 804, Dec. 2, 2002, [116 Stat. 2604][/us/stat/116/2604], provided that:
 
 >     “(a)  __Establishment of Programs__  __.—__ 
 
@@ -3513,7 +3513,7 @@ Source (Statutes at Large)  </td>
 
  __Rapid Acquisition and Deployment Procedures__ 
 
-[Pub. L. 107–314, div. A, title VIII, § 806][/us/pl/107/314/s806], Dec. 2, 2002, [116 Stat. 2607][/us/stat/116/2607], as amended by [Pub. L. 108–136, div. A, title VIII, § 845][/us/pl/108/136/s845], Nov. 24, 2003, [117 Stat. 1553][/us/stat/117/1553]; [Pub. L. 108–375, div. A, title VIII, § 811][/us/pl/108/375/s811], Oct. 28, 2004, [118 Stat. 2012][/us/stat/118/2012]; [Pub. L. 109–364, div. A, title X, § 1071(h)][/us/pl/109/364/s1071/h], Oct. 17, 2006, [120 Stat. 2403][/us/stat/120/2403]; [Pub. L. 111–383, div. A, title VIII, § 803][/us/pl/111/383/s803], Jan. 7, 2011, [124 Stat. 4255][/us/stat/124/4255]; [Pub. L. 112–81, div. A, title VIII, § 845(a)][/us/pl/112/81/s845/a], (b), Dec. 31, 2011, [125 Stat. 1515][/us/stat/125/1515]; [Pub. L. 114–92, div. A, title VIII, § 803][/us/pl/114/92/s803], Nov. 25, 2015, [129 Stat. 880][/us/stat/129/880], provided that:
+[Pub. L. 107–314, div. A, title VIII][/us/pl/107/314/dA/tVIII], § 806, Dec. 2, 2002, [116 Stat. 2607][/us/stat/116/2607], as amended by [Pub. L. 108–136, div. A, title VIII][/us/pl/108/136/dA/tVIII], § 845, Nov. 24, 2003, [117 Stat. 1553][/us/stat/117/1553]; [Pub. L. 108–375, div. A, title VIII][/us/pl/108/375/dA/tVIII], § 811, Oct. 28, 2004, [118 Stat. 2012][/us/stat/118/2012]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(h), Oct. 17, 2006, [120 Stat. 2403][/us/stat/120/2403]; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 803, Jan. 7, 2011, [124 Stat. 4255][/us/stat/124/4255]; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 845(a), (b), Dec. 31, 2011, [125 Stat. 1515][/us/stat/125/1515]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 803, Nov. 25, 2015, [129 Stat. 880][/us/stat/129/880], provided that:
 
 >     “(a)  __Requirement To Establish Procedures__  __.—__ 
 
@@ -3653,7 +3653,7 @@ Source (Statutes at Large)  </td>
 
 >     In this section, the term ‘associated support services’ means training, operation, maintenance, and support services needed in connection with the deployment of supplies to be acquired pursuant to the authority of this section. The term does not include functions that are inherently governmental or otherwise exempted from private sector performance.”
 
-\[[Pub. L. 112–81, div. A, title VIII, § 845(c)][/us/pl/112/81/s845/c], Dec. 31, 2011, [125 Stat. 1515][/us/stat/125/1515], provided that: 
+\[[Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 845(c), Dec. 31, 2011, [125 Stat. 1515][/us/stat/125/1515], provided that: 
 
 > “The authority to acquire associated support services pursuant to section 806 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 \[[Pub. L. 107–314][/us/pl/107/314], set out above\], as amended by this section, shall not take effect until the Secretary of Defense certifies to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that the Secretary has developed and implemented an expedited review process in compliance with the requirements of section 804 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 ([Public Law 111–383][/us/pl/111/383]; [124 Stat. 4256][/us/stat/124/4256]; [10 U.S.C. 2302][/us/usc/t10/s2302] note).”
 
@@ -3661,7 +3661,7 @@ Source (Statutes at Large)  </td>
 
  __Procurement of Alternative Fueled and Hybrid Light Duty Trucks__ 
 
-[Pub. L. 107–107, div. A, title III, § 318][/us/pl/107/107/s318], Dec. 28, 2001, [115 Stat. 1055][/us/stat/115/1055], provided that:
+[Pub. L. 107–107, div. A, title III][/us/pl/107/107/dA/tIII], § 318, Dec. 28, 2001, [115 Stat. 1055][/us/stat/115/1055], provided that:
 
 >     “(a)  __Defense Fleets Not Covered by Requirement in Energy Policy Act of__  __1992.—__ 
 
@@ -3711,11 +3711,11 @@ Source (Statutes at Large)  </td>
 
  __Temporary Emergency Procurement Authority to Facilitate the Defense Against Terrorism or Biological or Chemical Attack__ 
 
-    [Pub. L. 107–107, div. A, title VIII, § 836][/us/pl/107/107/s836], Dec. 28, 2001, [115 Stat. 1192][/us/stat/115/1192], provided special authorities relating to increased flexibility for use of streamlined procedures and commercial item treatment for procurements of biotechnology to facilitate the defense against terrorism or biological or chemical attack which would be applicable to procurements for which funds had been obligated during fiscal years 2002 and 2003, directed the Secretary of Defense to submit to committees of Congress, not later than Mar. 1, 2002, a report containing the Secretary’s recommendations for additional emergency procurement authority that the Secretary had determined necessary to support operations carried out to combat terrorism, and provided that no contract could be entered into pursuant to such authority after Sept. 30, 2003.
+    [Pub. L. 107–107, div. A, title VIII][/us/pl/107/107/dA/tVIII], § 836, Dec. 28, 2001, [115 Stat. 1192][/us/stat/115/1192], provided special authorities relating to increased flexibility for use of streamlined procedures and commercial item treatment for procurements of biotechnology to facilitate the defense against terrorism or biological or chemical attack which would be applicable to procurements for which funds had been obligated during fiscal years 2002 and 2003, directed the Secretary of Defense to submit to committees of Congress, not later than Mar. 1, 2002, a report containing the Secretary’s recommendations for additional emergency procurement authority that the Secretary had determined necessary to support operations carried out to combat terrorism, and provided that no contract could be entered into pursuant to such authority after Sept. 30, 2003.
 
  __Improvements in Procurements of Services__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 821\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–217, as amended by [Pub. L. 108–136, div. A, title XIV, § 1431(c)][/us/pl/108/136/s1431/c], Nov. 24, 2003, [117 Stat. 1672][/us/stat/117/1672], provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VIII, § 821\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–217, as amended by [Pub. L. 108–136, div. A, title XIV][/us/pl/108/136/dA/tXIV], § 1431(c), Nov. 24, 2003, [117 Stat. 1672][/us/stat/117/1672], provided that:
 
 >     “(a)  __Preference for Performance-Based Service Contracting__  __.—__ 
 
@@ -3727,7 +3727,7 @@ Source (Statutes at Large)  </td>
 
 >         “(3) Any contract or task order that is not a performance-based contract or a performance-based task order.
 
->     “\[(b) Repealed. [Pub. L. 108–136, div. A, title XIV, § 1431(c)][/us/pl/108/136/s1431/c], Nov. 24, 2003, [117 Stat. 1672][/us/stat/117/1672].\]
+>     “\[(b) Repealed. [Pub. L. 108–136, div. A, title XIV][/us/pl/108/136/dA/tXIV], § 1431(c), Nov. 24, 2003, [117 Stat. 1672][/us/stat/117/1672].\]
 
 >     “(c)  __Centers of Excellence in Service Contracting__  __.—__ 
 
@@ -3751,7 +3751,7 @@ Source (Statutes at Large)  </td>
 
  __Program To Increase Business Innovation in Defense Acquisition Programs__ 
 
-[Pub. L. 106–65, div. A, title VIII, § 812(a)][/us/pl/106/65/s812/a]–(c), (e), Oct. 5, 1999, [113 Stat. 709][/us/stat/113/709], 710, provided that:
+[Pub. L. 106–65, div. A, title VIII][/us/pl/106/65/dA/tVIII], § 812(a)–(c), (e), Oct. 5, 1999, [113 Stat. 709][/us/stat/113/709], 710, provided that:
 
 >     “(a)  __Requirement To Develop Plan__  __.—__ 
 
@@ -3779,11 +3779,11 @@ Source (Statutes at Large)  </td>
 
  __Year 2000 Software Conversion__ 
 
-    [Pub. L. 104–201, div. A, title VIII, § 831][/us/pl/104/201/s831], Sept. 23, 1996, [110 Stat. 2615][/us/stat/110/2615], directed the Secretary of Defense to ensure that all information technology acquired by the Department of Defense pursuant to contracts entered into after Sept. 30, 1996, would have the capabilities to process date and date-related data in 2000, and directed the Secretary to assess all information technology within the Department to determine the extent to which such technology would have the capabilities to operate effectively, and to submit to Congress a detailed plan for eliminating any deficiencies not later than Jan. 1, 1997.
+    [Pub. L. 104–201, div. A, title VIII][/us/pl/104/201/dA/tVIII], § 831, Sept. 23, 1996, [110 Stat. 2615][/us/stat/110/2615], directed the Secretary of Defense to ensure that all information technology acquired by the Department of Defense pursuant to contracts entered into after Sept. 30, 1996, would have the capabilities to process date and date-related data in 2000, and directed the Secretary to assess all information technology within the Department to determine the extent to which such technology would have the capabilities to operate effectively, and to submit to Congress a detailed plan for eliminating any deficiencies not later than Jan. 1, 1997.
 
  __Defense Facility-Wide Pilot Program__ 
 
-[Pub. L. 104–106, div. A, title VIII, § 822][/us/pl/104/106/s822], Feb. 10, 1996, [110 Stat. 396][/us/stat/110/396], as amended by [Pub. L. 106–65, div. A, title X, § 1067(6)][/us/pl/106/65/s1067/6], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], provided that:
+[Pub. L. 104–106, div. A, title VIII][/us/pl/104/106/dA/tVIII], § 822, Feb. 10, 1996, [110 Stat. 396][/us/stat/110/396], as amended by [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(6), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], provided that:
 
 >     “(a)  __Authority To Conduct Defense Facility-Wide Pilot Program__  __.—__ 
 
@@ -3919,7 +3919,7 @@ Source (Statutes at Large)  </td>
 
  __Elimination of Use of Class I Ozone-Depleting Substances in Certain Military Procurement Contracts__ 
 
-[Pub. L. 102–484, div. A, title III, § 326][/us/pl/102/484/s326], Oct. 23, 1992, [106 Stat. 2368][/us/stat/106/2368], as amended by [Pub. L. 104–106, div. A, title XV][/us/pl/104/106], §§ 1502(c)(2)(A), 1504(c)(1), Feb. 10, 1996, [110 Stat. 506][/us/stat/110/506], 514; [Pub. L. 106–65, div. A, title X, § 1067(8)][/us/pl/106/65/s1067/8], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 113–291, div. A, title X, § 1071(b)(14)][/us/pl/113/291/s1071/b/14], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508], provided that:
+[Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 326, Oct. 23, 1992, [106 Stat. 2368][/us/stat/106/2368], as amended by [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], §§ 1502(c)(2)(A), 1504(c)(1), Feb. 10, 1996, [110 Stat. 506][/us/stat/110/506], 514; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(8), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(b)(14), Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508], provided that:
 
 >     “(a)  __Elimination of Use of Class I Ozone-Depleting Substances__  __.—__ 
 
@@ -3979,7 +3979,7 @@ Source (Statutes at Large)  </td>
 
  __Payment Protections for Subcontractors and Suppliers__ 
 
-[Pub. L. 102–190, div. A, title VIII, § 806][/us/pl/102/190/s806], Dec. 5, 1991, [105 Stat. 1417][/us/stat/105/1417], as amended by [Pub. L. 102–484, div. A, title X, § 1053(5)][/us/pl/102/484/s1053/5], Oct. 23, 1992, [106 Stat. 2502][/us/stat/106/2502]; [Pub. L. 103–355, title II, § 2091][/us/pl/103/355/s2091], title VIII, § 8105(k), Oct. 13, 1994, [108 Stat. 3306][/us/stat/108/3306], 3393; [Pub. L. 113–291, div. A, title X, § 1071(b)(15)][/us/pl/113/291/s1071/b/15], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508], provided that:
+[Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], § 806, Dec. 5, 1991, [105 Stat. 1417][/us/stat/105/1417], as amended by [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1053(5), Oct. 23, 1992, [106 Stat. 2502][/us/stat/106/2502]; [Pub. L. 103–355, title II][/us/pl/103/355/tII], § 2091, title VIII, § 8105(k), Oct. 13, 1994, [108 Stat. 3306][/us/stat/108/3306], 3393; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(b)(15), Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508], provided that:
 
 >     “(a)  __Regulations__  __.—__ 
 
@@ -4149,11 +4149,11 @@ Source (Statutes at Large)  </td>
 
  __Advisory Panel on Streamlining and Codifying Acquisition Laws__ 
 
-    [Pub. L. 101–510, div. A, title VIII, § 800][/us/pl/101/510/s800], Nov. 5, 1990, [104 Stat. 1587][/us/stat/104/1587], as amended by [Pub. L. 103–160, div. A, title IX, § 904(f)][/us/pl/103/160/s904/f], Nov. 30, 1993, [107 Stat. 1729][/us/stat/107/1729], directed Under Secretary of Defense for Acquisition and Technology, not later than Jan. 15, 1991, to establish under sponsorship of Defense Systems Management College an advisory panel on streamlining and codifying acquisition laws, to review the acquisition laws applicable to Department of Defense with a view toward streamlining the defense acquisition process, to make any recommendations for repeal or amendment of such laws that the panel considers necessary, as a result of such review, and to prepare a proposed code of relevant acquisition laws, directed the advisory panel, not later than Dec. 15, 1992, to transmit a final report on the actions of the panel to the Under Secretary of Defense for Acquisition and Technology, and directed the Secretary of Defense, not later than Jan. 15, 1993, to transmit the final report, together with such comments as he deems appropriate, to Congress.
+    [Pub. L. 101–510, div. A, title VIII][/us/pl/101/510/dA/tVIII], § 800, Nov. 5, 1990, [104 Stat. 1587][/us/stat/104/1587], as amended by [Pub. L. 103–160, div. A, title IX][/us/pl/103/160/dA/tIX], § 904(f), Nov. 30, 1993, [107 Stat. 1729][/us/stat/107/1729], directed Under Secretary of Defense for Acquisition and Technology, not later than Jan. 15, 1991, to establish under sponsorship of Defense Systems Management College an advisory panel on streamlining and codifying acquisition laws, to review the acquisition laws applicable to Department of Defense with a view toward streamlining the defense acquisition process, to make any recommendations for repeal or amendment of such laws that the panel considers necessary, as a result of such review, and to prepare a proposed code of relevant acquisition laws, directed the advisory panel, not later than Dec. 15, 1992, to transmit a final report on the actions of the panel to the Under Secretary of Defense for Acquisition and Technology, and directed the Secretary of Defense, not later than Jan. 15, 1993, to transmit the final report, together with such comments as he deems appropriate, to Congress.
 
  __Mentor-Protege Pilot Program__ 
 
-[Pub. L. 114–92, div. A, title VIII, § 861(b)][/us/pl/114/92/s861/b], Nov. 25, 2015, [129 Stat. 925][/us/stat/129/925], provided that:
+[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 861(b), Nov. 25, 2015, [129 Stat. 925][/us/stat/129/925], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -4163,11 +4163,11 @@ Source (Statutes at Large)  </td>
 
 >     The amendments made by subsection (a)(10) \[amending [section 831 of Pub. L. 101–510][/us/pl/101/510/s831], set out below, by adding subsecs. (l) and (m)\] shall apply to a mentor-protege agreement made pursuant to section 831 of the National Defense Authorization Act for Fiscal Year 1991 ([Public Law 101–510][/us/pl/101/510]; [104 Stat. 1607][/us/stat/104/1607]; [10 U.S.C. 2302][/us/usc/t10/s2302] note) entered into before, on, or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016 \[Nov. 25, 2015\].”
 
-    [Pub. L. 106–65, div. A, title VIII, § 811(d)(2)][/us/pl/106/65/s811/d/2], (3), Oct. 5, 1999, [113 Stat. 708][/us/stat/113/708], 709, as amended by [Pub. L. 107–107, div. A, title X, § 1048(g)(5)][/us/pl/107/107/s1048/g/5], Dec. 28, 2001, [115 Stat. 1228][/us/stat/115/1228], directed the Secretary of Defense to conduct a review of the Mentor-Protege Program established in [Pub. L. 101–510, § 831][/us/pl/101/510/s831], set out below, to assess the feasibility of transitioning such program to operation without a specific appropriation or authority to provide reimbursement to a mentor firm and to assess additional incentives that could be extended to mentor firms to ensure adequate support and participation in the Program, directed the Secretary to submit to committees of Congress a report on the results of the review and recommendations not later than Sept. 30, 2000, and directed the Comptroller General to conduct a study on the implementation of the Program and the extent to which the Program was achieving its purposes in a cost-effective manner and to submit to committees of Congress a report on the results of the study not later than Jan. 1, 2002.
+    [Pub. L. 106–65, div. A, title VIII][/us/pl/106/65/dA/tVIII], § 811(d)(2), (3), Oct. 5, 1999, [113 Stat. 708][/us/stat/113/708], 709, as amended by [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(g)(5), Dec. 28, 2001, [115 Stat. 1228][/us/stat/115/1228], directed the Secretary of Defense to conduct a review of the Mentor-Protege Program established in [Pub. L. 101–510][/us/pl/101/510], § 831, set out below, to assess the feasibility of transitioning such program to operation without a specific appropriation or authority to provide reimbursement to a mentor firm and to assess additional incentives that could be extended to mentor firms to ensure adequate support and participation in the Program, directed the Secretary to submit to committees of Congress a report on the results of the review and recommendations not later than Sept. 30, 2000, and directed the Comptroller General to conduct a study on the implementation of the Program and the extent to which the Program was achieving its purposes in a cost-effective manner and to submit to committees of Congress a report on the results of the study not later than Jan. 1, 2002.
 
-    [Pub. L. 102–484, div. A, title VIII, § 807(a)][/us/pl/102/484/s807/a], Oct. 23, 1992, [106 Stat. 2448][/us/stat/106/2448], directed the Secretary of Defense, within 15 days after Oct. 23, 1992, to publish in the Department of Defense Supplement to the Federal Acquisition Regulation the Department of Defense policy for the pilot Mentor-Protege Program and the regulations, directives, and administrative guidance pertaining to such program as such policy, regulations, directives, and administrative guidance had existed on Dec. 6, 1991, and directed that proposed modifications to that policy and any amendments proposed in order to implement any of the amendments made by this section, amending [Pub. L. 101–510, § 831][/us/pl/101/510/s831], set out below, were to be published in final form within 120 days after Oct. 23, 1992.
+    [Pub. L. 102–484, div. A, title VIII][/us/pl/102/484/dA/tVIII], § 807(a), Oct. 23, 1992, [106 Stat. 2448][/us/stat/106/2448], directed the Secretary of Defense, within 15 days after Oct. 23, 1992, to publish in the Department of Defense Supplement to the Federal Acquisition Regulation the Department of Defense policy for the pilot Mentor-Protege Program and the regulations, directives, and administrative guidance pertaining to such program as such policy, regulations, directives, and administrative guidance had existed on Dec. 6, 1991, and directed that proposed modifications to that policy and any amendments proposed in order to implement any of the amendments made by this section, amending [Pub. L. 101–510][/us/pl/101/510], § 831, set out below, were to be published in final form within 120 days after Oct. 23, 1992.
 
-[Pub. L. 101–510, div. A, title VIII, § 831][/us/pl/101/510/s831], Nov. 5, 1990, [104 Stat. 1607][/us/stat/104/1607], as amended by [Pub. L. 102–25, title VII, § 704(c)][/us/pl/102/25/s704/c], Apr. 6, 1991, [105 Stat. 119][/us/stat/105/119]; [Pub. L. 102–172, title VIII, § 8064A][/us/pl/102/172/s8064A], Nov. 26, 1991, [105 Stat. 1186][/us/stat/105/1186]; [Pub. L. 102–190, div. A, title VIII, § 814(b)][/us/pl/102/190/s814/b], Dec. 5, 1991, [105 Stat. 1425][/us/stat/105/1425]; [Pub. L. 102–484, div. A, title VIII][/us/pl/102/484], §§ 801(h)(4), 807(b)(1), title X, § 1054(d), Oct. 23, 1992, [106 Stat. 2445][/us/stat/106/2445], 2448, 2503; [Pub. L. 103–160, div. A, title VIII, § 813(b)(1)][/us/pl/103/160/s813/b/1], (c), Nov. 30, 1993, [107 Stat. 1703][/us/stat/107/1703]; [Pub. L. 104–106, div. A, title VIII, § 824][/us/pl/104/106/s824], Feb. 10, 1996, [110 Stat. 399][/us/stat/110/399]; [Pub. L. 104–201, div. A, title VIII, § 802][/us/pl/104/201/s802], Sept. 23, 1996, [110 Stat. 2604][/us/stat/110/2604]; [Pub. L. 105–85, div. A, title VIII, § 821(a)][/us/pl/105/85/s821/a], title X, § 1073(c)(6), Nov. 18, 1997, [111 Stat. 1840][/us/stat/111/1840], 1904; [Pub. L. 106–65, div. A, title VIII, § 811(a)][/us/pl/106/65/s811/a]–(d)(1), (e), Oct. 5, 1999, [113 Stat. 706][/us/stat/113/706], 707, 709; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 807\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–208; [Pub. L. 107–107, div. A, title VIII, § 812][/us/pl/107/107/s812], Dec. 28, 2001, [115 Stat. 1181][/us/stat/115/1181]; [Pub. L. 108–375, div. A, title VIII][/us/pl/108/375], §§ 841(a), (b), 842, Oct. 28, 2004, [118 Stat. 2018][/us/stat/118/2018], 2019; [Pub. L. 112–10, div. A, title VIII, § 8016][/us/pl/112/10/s8016], Apr. 15, 2011, [125 Stat. 60][/us/stat/125/60]; [Pub. L. 112–81, div. A, title VIII, § 867][/us/pl/112/81/s867], title X, § 1062(n), Dec. 31, 2011, [125 Stat. 1526][/us/stat/125/1526], 1586; [Pub. L. 112–239, div. A, title X, § 1076(a)(17)][/us/pl/112/239/s1076/a/17], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948]; [Pub. L. 113–291, div. A, title X, § 1071(b)(16)][/us/pl/113/291/s1071/b/16], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508]; [Pub. L. 114–92, div. A, title VIII, § 861(a)][/us/pl/114/92/s861/a], Nov. 25, 2015, [129 Stat. 921][/us/stat/129/921], provided that:
+[Pub. L. 101–510, div. A, title VIII][/us/pl/101/510/dA/tVIII], § 831, Nov. 5, 1990, [104 Stat. 1607][/us/stat/104/1607], as amended by [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 704(c), Apr. 6, 1991, [105 Stat. 119][/us/stat/105/119]; [Pub. L. 102–172, title VIII][/us/pl/102/172/tVIII], § 8064A, Nov. 26, 1991, [105 Stat. 1186][/us/stat/105/1186]; [Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], § 814(b), Dec. 5, 1991, [105 Stat. 1425][/us/stat/105/1425]; [Pub. L. 102–484, div. A, title VIII][/us/pl/102/484/dA/tVIII], §§ 801(h)(4), 807(b)(1), title X, § 1054(d), Oct. 23, 1992, [106 Stat. 2445][/us/stat/106/2445], 2448, 2503; [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 813(b)(1), (c), Nov. 30, 1993, [107 Stat. 1703][/us/stat/107/1703]; [Pub. L. 104–106, div. A, title VIII][/us/pl/104/106/dA/tVIII], § 824, Feb. 10, 1996, [110 Stat. 399][/us/stat/110/399]; [Pub. L. 104–201, div. A, title VIII][/us/pl/104/201/dA/tVIII], § 802, Sept. 23, 1996, [110 Stat. 2604][/us/stat/110/2604]; [Pub. L. 105–85, div. A, title VIII][/us/pl/105/85/dA/tVIII], § 821(a), title X, § 1073(c)(6), Nov. 18, 1997, [111 Stat. 1840][/us/stat/111/1840], 1904; [Pub. L. 106–65, div. A, title VIII][/us/pl/106/65/dA/tVIII], § 811(a)–(d)(1), (e), Oct. 5, 1999, [113 Stat. 706][/us/stat/113/706], 707, 709; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VIII, § 807\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–208; [Pub. L. 107–107, div. A, title VIII][/us/pl/107/107/dA/tVIII], § 812, Dec. 28, 2001, [115 Stat. 1181][/us/stat/115/1181]; [Pub. L. 108–375, div. A, title VIII][/us/pl/108/375/dA/tVIII], §§ 841(a), (b), 842, Oct. 28, 2004, [118 Stat. 2018][/us/stat/118/2018], 2019; [Pub. L. 112–10, div. A, title VIII][/us/pl/112/10/dA/tVIII], § 8016, Apr. 15, 2011, [125 Stat. 60][/us/stat/125/60]; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 867, title X, § 1062(n), Dec. 31, 2011, [125 Stat. 1526][/us/stat/125/1526], 1586; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(17), Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(b)(16), Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 861(a), Nov. 25, 2015, [129 Stat. 921][/us/stat/129/921], provided that:
 
 >     “(a)  __Establishment of Pilot Program__  __.—__ 
 
@@ -4427,9 +4427,9 @@ Source (Statutes at Large)  </td>
 
 >             “(G) the Small Business Administration has made a determination of affiliation or control under subsection (h).”
 
-    \[[Pub. L. 114–92, § 861(a)(11)(B)(iii)][/us/pl/114/92/s861/a/11/B/iii], which directed amendment of [section 831(n)(2)(G) of Pub. L. 101–510][/us/pl/101/510/s831/n/2/G], set out above, by substituting “Small Business Act ([15 U.S.C. 632(p)][/us/usc/t15/s632/p]); or” for “Small Business Act.”, was executed by making the substitution for “Small Business Act).” to reflect the probable intent of Congress.\]
+    \[[Pub. L. 114–92][/us/pl/114/92], § 861(a)(11)(B)(iii), which directed amendment of [section 831(n)(2)(G) of Pub. L. 101–510][/us/pl/101/510/s831/n/2/G], set out above, by substituting “Small Business Act ([15 U.S.C. 632(p)][/us/usc/t15/s632/p]); or” for “Small Business Act.”, was executed by making the substitution for “Small Business Act).” to reflect the probable intent of Congress.\]
 
-\[[Pub. L. 106–65, div. A, title VIII, § 811(f)][/us/pl/106/65/s811/f], Oct. 5, 1999, [113 Stat. 709][/us/stat/113/709], provided that:
+\[[Pub. L. 106–65, div. A, title VIII][/us/pl/106/65/dA/tVIII], § 811(f), Oct. 5, 1999, [113 Stat. 709][/us/stat/113/709], provided that:
 
     \[“(1) The amendments made by this section \[amending [section 831 of Pub. L. 101–510][/us/pl/101/510/s831], set out above\] shall take effect on October 1, 1999, and shall apply with respect to mentor-protege agreements that are entered into under section 831(e) of the National Defense Authorization Act for Fiscal Year 1991 \[[Pub. L. 101–510][/us/pl/101/510], set out above\] on or after that date.
 
@@ -4443,17 +4443,17 @@ Source (Statutes at Large)  </td>
 
  __Credit for Indian Contracting in Meeting Certain Minority Subcontracting Goals__ 
 
-    [Pub. L. 101–189, div. A, title VIII, § 832][/us/pl/101/189/s832], Nov. 29, 1989, [103 Stat. 1508][/us/stat/103/1508], which provided credit for Indian contracting in meeting certain minority contracting goals, was repealed and restated in [section 2323a of this title][/us/usc/t10/s2323a] by [Pub. L. 102–484, § 801(g)(1)(B)][/us/pl/102/484/s801/g/1/B], (h)(5).
+    [Pub. L. 101–189, div. A, title VIII][/us/pl/101/189/dA/tVIII], § 832, Nov. 29, 1989, [103 Stat. 1508][/us/stat/103/1508], which provided credit for Indian contracting in meeting certain minority contracting goals, was repealed and restated in [section 2323a of this title][/us/usc/t10/s2323a] by [Pub. L. 102–484][/us/pl/102/484], § 801(g)(1)(B), (h)(5).
 
  __Equitable Participation of American Small and Minority-Owned Business in Furnishing of Commodities and Services__ 
 
-[Pub. L. 101–165, title IX, § 9004][/us/pl/101/165/s9004], Nov. 21, 1989, [103 Stat. 1129][/us/stat/103/1129], provided that: 
+[Pub. L. 101–165, title IX][/us/pl/101/165/tIX], § 9004, Nov. 21, 1989, [103 Stat. 1129][/us/stat/103/1129], provided that: 
 
 > “During the current fiscal year and hereafter, the Secretary of Defense and each purchasing and contracting agency of the Department of Defense shall assist American small and minority-owned business to participate equitably in the furnishing of commodities and services financed with funds appropriated under this Act \[see Tables for classification\] by increasing, to an optimum level, the resources and number of personnel jointly assigned to promoting both small and minority business involvement in purchases financed with funds appropriated herein, and by making available or causing to be made available to such businesses, information, as far in advance as possible, with respect to purchases proposed to be financed with funds appropriated under this Act, and by assisting small and minority business concerns to participate equitably as subcontractors on contracts financed with funds appropriated herein, and by otherwise advocating and providing small and minority business opportunities to participate in the furnishing of commodities and services financed with funds appropriated by this Act.”
 
  __Requirement for Substantial Progress on Minority and Small Business Contract Awards__ 
 
-    [Pub. L. 100–180, div. A, title VIII, § 806(a)][/us/pl/100/180/s806/a]–(c), Dec. 4, 1987, [101 Stat. 1126][/us/stat/101/1126], 1127, directed Secretary of Defense to issue regulations to ensure that substantial progress was made in increasing awards of Department of Defense contracts to small business concerns, historically Black colleges and universities, and minority institutions described in [section 1207(a) of Pub. L. 99–661][/us/pl/99/661/s1207/a] \[formerly set out below\], prior to repeal by [Pub. L. 102–484, div. A, title VIII, § 801(h)(7)][/us/pl/102/484/s801/h/7], Oct. 23, 1992, [106 Stat. 2446][/us/stat/106/2446].
+    [Pub. L. 100–180, div. A, title VIII][/us/pl/100/180/dA/tVIII], § 806(a)–(c), Dec. 4, 1987, [101 Stat. 1126][/us/stat/101/1126], 1127, directed Secretary of Defense to issue regulations to ensure that substantial progress was made in increasing awards of Department of Defense contracts to small business concerns, historically Black colleges and universities, and minority institutions described in [section 1207(a) of Pub. L. 99–661][/us/pl/99/661/s1207/a] \[formerly set out below\], prior to repeal by [Pub. L. 102–484, div. A, title VIII][/us/pl/102/484/dA/tVIII], § 801(h)(7), Oct. 23, 1992, [106 Stat. 2446][/us/stat/106/2446].
 
  __Definitions; Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661__ 
 
@@ -4587,11 +4587,11 @@ Source (Statutes at Large)  </td>
 
  __Contract Goal for Minorities__ 
 
-    [Pub. L. 99–661, div. A, title XII, § 1207][/us/pl/99/661/s1207], Nov. 14, 1986, [100 Stat. 3973][/us/stat/100/3973], as amended by [Pub. L. 100–180, div. A, title VIII, § 806(d)][/us/pl/100/180/s806/d], [101 Stat. 1127][/us/stat/101/1127]; [Pub. L. 100–456, div. A, title VIII, § 844][/us/pl/100/456/s844], Sept. 29, 1988, [102 Stat. 2027][/us/stat/102/2027]; [Pub. L. 101–189, div. A, title VIII, § 831][/us/pl/101/189/s831], Nov. 29, 1989, [103 Stat. 1507][/us/stat/103/1507]; [Pub. L. 101–510, div. A, title VIII][/us/pl/101/510], §§ 811, 832, title XIII, §§ 1302(d), 1312(b), Nov. 5, 1990, [104 Stat. 1596][/us/stat/104/1596], 1612, 1669, 1670; [Pub. L. 102–25, title VII][/us/pl/102/25], §§ 704(a)(6), 705(e), Apr. 6, 1991, [105 Stat. 118][/us/stat/105/118], 120, which set contract goals for small disadvantaged businesses and certain institutions of higher education, was repealed and restated in [section 2323 of this title][/us/usc/t10/s2323] by [Pub. L. 102–484, § 801(a)(1)(B)][/us/pl/102/484/s801/a/1/B], (h)(1).
+    [Pub. L. 99–661, div. A, title XII][/us/pl/99/661/dA/tXII], § 1207, Nov. 14, 1986, [100 Stat. 3973][/us/stat/100/3973], as amended by [Pub. L. 100–180, div. A, title VIII][/us/pl/100/180/dA/tVIII], § 806(d), [101 Stat. 1127][/us/stat/101/1127]; [Pub. L. 100–456, div. A, title VIII][/us/pl/100/456/dA/tVIII], § 844, Sept. 29, 1988, [102 Stat. 2027][/us/stat/102/2027]; [Pub. L. 101–189, div. A, title VIII][/us/pl/101/189/dA/tVIII], § 831, Nov. 29, 1989, [103 Stat. 1507][/us/stat/103/1507]; [Pub. L. 101–510, div. A, title VIII][/us/pl/101/510/dA/tVIII], §§ 811, 832, title XIII, §§ 1302(d), 1312(b), Nov. 5, 1990, [104 Stat. 1596][/us/stat/104/1596], 1612, 1669, 1670; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], §§ 704(a)(6), 705(e), Apr. 6, 1991, [105 Stat. 118][/us/stat/105/118], 120, which set contract goals for small disadvantaged businesses and certain institutions of higher education, was repealed and restated in [section 2323 of this title][/us/usc/t10/s2323] by [Pub. L. 102–484][/us/pl/102/484], § 801(a)(1)(B), (h)(1).
 
  __Minimum Percentage of Competitive Procurements__ 
 
-[Pub. L. 99–145, title IX, § 913][/us/pl/99/145/s913], Nov. 8, 1985, [99 Stat. 687][/us/stat/99/687], as amended by [Pub. L. 101–510, div. A, title XIII, § 1322(d)(1)][/us/pl/101/510/s1322/d/1], Nov. 5, 1990, [104 Stat. 1672][/us/stat/104/1672], provided that:
+[Pub. L. 99–145, title IX][/us/pl/99/145/tIX], § 913, Nov. 8, 1985, [99 Stat. 687][/us/stat/99/687], as amended by [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1322(d)(1), Nov. 5, 1990, [104 Stat. 1672][/us/stat/104/1672], provided that:
 
 >     “(a)  __Annual Goal__  __.—__ 
 
@@ -4603,7 +4603,7 @@ Source (Statutes at Large)  </td>
 
  __Defense Procurement Reform: Congressional Findings and Policy__ 
 
-[Pub. L. 98–525, title XII, § 1202][/us/pl/98/525/s1202], Oct. 19, 1984, [98 Stat. 2588][/us/stat/98/2588], as amended by [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 953(c)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–172, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 953(c)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–172; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 953(c), Nov. 14, 1986, [100 Stat. 3952][/us/stat/100/3952], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], provided that: 
+[Pub. L. 98–525, title XII][/us/pl/98/525/tXII], § 1202, Oct. 19, 1984, [98 Stat. 2588][/us/stat/98/2588], as amended by [Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title X, § 953(c)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–172, and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 953(c)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–172; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661/dA/tIX], formerly title IV, § 953(c), Nov. 14, 1986, [100 Stat. 3952][/us/stat/100/3952], renumbered title IX, [Pub. L. 100–26][/us/pl/100/26], § 3(5), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], provided that: 
 
 > “The Congress finds that recent disclosures of excessive payments by the Department of Defense for replenishment parts have undermined confidence by the public and Congress in the defense procurement system. The Secretary of Defense should make every effort to reform procurement practices relating to replenishment parts. Such efforts should, among other matters, be directed to the elimination of excessive pricing of replenishment spare parts and the recovery of unjustified payments. Specifically, the Secretary should—
 
@@ -4619,11 +4619,11 @@ Source (Statutes at Large)  </td>
 
  __Modification of Regulations and Directives To Accommodate a Policy of Multiyear Procurement__ 
 
-    [Pub. L. 97–86, title IX, § 909(d)][/us/pl/97/86/s909/d], Dec. 1, 1981, [95 Stat. 1120][/us/stat/95/1120], directed Secretary of Defense, not later than the end of the 90-day period beginning Dec. 1, 1981, to issue such modifications to existing regulations governing defense acquisitions as might be necessary to implement the amendments made by subsections (a), (b), and (c) \[amending sections 139, 2301, and 2306 of this title\] and directed Director of the Office of Management and Budget to issue such modifications to existing Office of Management and Budget directives as might be necessary to take into account the amendments made by subsections (a) and (b) \[amending sections 2301 and 2306 of this title\].
+    [Pub. L. 97–86, title IX][/us/pl/97/86/tIX], § 909(d), Dec. 1, 1981, [95 Stat. 1120][/us/stat/95/1120], directed Secretary of Defense, not later than the end of the 90-day period beginning Dec. 1, 1981, to issue such modifications to existing regulations governing defense acquisitions as might be necessary to implement the amendments made by subsections (a), (b), and (c) \[amending sections 139, 2301, and 2306 of this title\] and directed Director of the Office of Management and Budget to issue such modifications to existing Office of Management and Budget directives as might be necessary to take into account the amendments made by subsections (a) and (b) \[amending sections 2301 and 2306 of this title\].
 
  __Procurement Requirements for Goods Which Are Not American Goods__ 
 
-    [Pub. L. 93–365, title VII, § 707][/us/pl/93/365/s707], Aug. 5, 1974, [88 Stat. 406][/us/stat/88/406], which prohibited contracts by the Department of Defense for other than American goods after Aug. 5, 1974, unless adequate consideration was first given to bids of firms in labor surplus areas of the United States, of small business firms, and of all other United States firms which had offered to furnish American goods, balance of payments, cost of shipping other than American goods, and any duty, tariff, or surcharge on such goods, was repealed and restated in [section 2501 of this title][/us/usc/t10/s2501] by [Pub. L. 100–370, § 3(a)][/us/pl/100/370/s3/a], (c). [Section 2501 of this title][/us/usc/t10/s2501] was renumbered section 2506 by [Pub. L. 100–456, § 821(b)(1)(A)][/us/pl/100/456/s821/b/1/A]. [Section 2506 of this title][/us/usc/t10/s2506] was renumbered section 2533 by [Pub. L. 102–484, § 4202(a)][/us/pl/102/484/s4202/a].
+    [Pub. L. 93–365, title VII][/us/pl/93/365/tVII], § 707, Aug. 5, 1974, [88 Stat. 406][/us/stat/88/406], which prohibited contracts by the Department of Defense for other than American goods after Aug. 5, 1974, unless adequate consideration was first given to bids of firms in labor surplus areas of the United States, of small business firms, and of all other United States firms which had offered to furnish American goods, balance of payments, cost of shipping other than American goods, and any duty, tariff, or surcharge on such goods, was repealed and restated in [section 2501 of this title][/us/usc/t10/s2501] by [Pub. L. 100–370][/us/pl/100/370], § 3(a), (c). [Section 2501 of this title][/us/usc/t10/s2501] was renumbered section 2506 by [Pub. L. 100–456][/us/pl/100/456], § 821(b)(1)(A). [Section 2506 of this title][/us/usc/t10/s2506] was renumbered section 2533 by [Pub. L. 102–484][/us/pl/102/484], § 4202(a).
 
 ----------
 
@@ -4640,62 +4640,62 @@ Source (Statutes at Large)  </td>
 [/us/usc/t41/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1502
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F127
-[/us/pl/85/568/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2Fs301%2Fb
+[/us/pl/85/568/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2FtIII
 [/us/stat/72/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F432
-[/us/pl/85/861/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1457
-[/us/pl/96/513/s511/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F74
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2926
-[/us/pl/98/369/s2722/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2722%2Fa
+[/us/pl/98/369/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVII
 [/us/stat/98/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1186
-[/us/pl/98/525/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1211
+[/us/pl/98/525/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXII
 [/us/stat/98/2589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2589
-[/us/pl/98/577/s504/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F577%2Fs504%2Fb%2F3
+[/us/pl/98/577/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F577%2FtV
 [/us/stat/98/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3087
-[/us/pl/99/661/s1343/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1343%2Fa%2F13
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3993
-[/us/pl/100/26/s7/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fk%2F2
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F284
-[/us/pl/101/189/s853/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs853%2Fb%2F1
+[/us/pl/101/189/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVIII
 [/us/stat/103/1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1518
-[/us/pl/102/25/s701/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Fd%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F113
-[/us/pl/102/190/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs805
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1417
-[/us/pl/103/355/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1502
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3296
-[/us/pl/104/106/s4321/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4321%2Fb%2F3
+[/us/pl/104/106/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdD%2FtXLIII
 [/us/stat/110/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F672
-[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVIII
 [/us/stat/110/2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2605
-[/us/pl/105/85/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs803%2Fb
+[/us/pl/105/85/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVIII
 [/us/stat/111/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1832
-[/us/pl/107/217/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F2
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1295
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/111/350/s5/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F8
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3842
-[/us/pl/111/383/s866/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs866%2Fg%2F1
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4298
-[/us/pl/113/291/s1071/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F2
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3504
-[/us/pl/114/92/s815/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs815%2Fb
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F896
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280
 [/us/usc/t10/s2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2305
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/usc/t10/s2371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371%2Fa
 [/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
-[/us/pl/113/291/s1071/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F2%2FA
-[/us/pl/113/291/s1071/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F2%2FB
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t41/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs422
-[/us/pl/111/350/s5/b/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F8%2FA
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
-[/us/pl/111/350/s5/b/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F8%2FB
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s1303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303%2Fa%2F1
 [/us/usc/t41/s421/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs421%2Fc%2F1
-[/us/pl/111/350/s5/b/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F8%2FC
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
 [/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
@@ -4704,17 +4704,17 @@ Source (Statutes at Large)  </td>
 [/us/usc/t40/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs541
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/104/201/s805/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs805%2Fa%2F1
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t10/s2302d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302d
-[/us/pl/104/201/s807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs807%2Fa
-[/us/pl/103/355/s1502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1502%2F1
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
-[/us/pl/103/355/s1502/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1502%2F2
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/usc/t41/s403/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F11
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
-[/us/pl/100/26/s7/k/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fk%2F2%2FA
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F577
@@ -4726,52 +4726,52 @@ Source (Statutes at Large)  </td>
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/104/106/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4401
+[/us/pl/104/106/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdD%2FtXLIV
 [/us/stat/110/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F678
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/stat/110/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F678
-[/us/pl/103/355/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10001
+[/us/pl/103/355/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtX
 [/us/stat/108/3404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3404
 [/us/stat/108/3404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3404
-[/us/pl/98/369/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2751
+[/us/pl/98/369/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVII
 [/us/stat/98/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1203
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/85/568/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2Fs301%2Fe
+[/us/pl/85/568/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2FtIII
 [/us/stat/72/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F433
 [/us/usc/t10/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2303
 [/us/usc/t42/s2472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2472
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIX
 [/us/stat/100/3910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3910
-[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
 [/us/usc/t41/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs416
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/99/145/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs901
+[/us/pl/99/145/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtIX
 [/us/stat/99/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F682
 [/us/usc/t18/s287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs287
 [/us/usc/t31/s3729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3729
 [/us/usc/t41/s418a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs418a
-[/us/pl/98/525/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1201
+[/us/pl/98/525/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXII
 [/us/stat/98/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2588
 [/us/usc/t10/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304
-[/us/pl/114/92/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs804
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F882
 [/us/usc/t10/s2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2430
-[/us/pl/114/92/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs805
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F885
-[/us/pl/114/92/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs806
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F885
-[/us/pl/114/92/s881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs881
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F942
-[/us/pl/114/92/s884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs884
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F948
-[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3450
 [/us/pl/112/81/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs841
 [/us/pl/113/66/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs831
@@ -4784,27 +4784,27 @@ Source (Statutes at Large)  </td>
 [/us/usc/t10/s2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2313
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
 [/us/usc/t41/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs133
-[/us/pl/113/66/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs831
+[/us/pl/113/66/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVIII
 [/us/stat/127/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F810
-[/us/pl/113/291/s841/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs841%2Fm%2F2
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3454
-[/us/pl/112/81/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs841
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1510
-[/us/pl/113/291/s841/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs841%2Fm%2F1
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3454
-[/us/pl/113/291/s851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs851
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3457
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/113/291/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs852
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3458
-[/us/pl/113/66/s1531/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1531%2Fd
+[/us/pl/113/66/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXV
 [/us/stat/127/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F938
-[/us/pl/113/291/s1532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1532%2Fd
+[/us/pl/113/291/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXV
 [/us/stat/128/3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3614
-[/us/pl/112/239/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs804
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1826
-[/us/pl/112/239/s829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs829
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1841
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4537
@@ -4812,33 +4812,33 @@ Source (Statutes at Large)  </td>
 [/us/usc/t10/s2383/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2383%2Fb%2F3
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/stat/125/1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1490
-[/us/pl/112/239/s843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs843
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1845
-[/us/pl/112/239/s844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs844
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1846
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
-[/us/pl/112/239/s846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs846
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1848
 [/us/usc/t10/s164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs164
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/112/239/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs902
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
 [/us/stat/126/1865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1865
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/112/81/s368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs368
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1381
-[/us/pl/112/81/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs806
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1487
-[/us/pl/112/239/s1076/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F11
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
-[/us/pl/112/81/s818/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs818%2Fa
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1493-1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1493-1496
-[/us/pl/112/239/s833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs833
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1844
-[/us/pl/113/291/s817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs817
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3432
-[/us/pl/114/92/s885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs885
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F948
 [/us/usc/t10/s2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2319
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
@@ -4846,69 +4846,69 @@ Source (Statutes at Large)  </td>
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
 [/us/usc/t15/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1124
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
-[/us/pl/112/81/s843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs843
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1514
 [/us/usc/t41/s1903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1903%2Fb
 [/us/usc/t41/s1903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1903%2Fb
-[/us/pl/112/81/s844/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs844%2Fa
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1515
-[/us/pl/111/383/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs127
+[/us/pl/111/383/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtI
 [/us/stat/124/4161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4161
-[/us/pl/111/383/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs804
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4256
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/111/383/s833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs833
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4276
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/111/383/s866/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs866%2Fa
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4296-4298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4296-4298
-[/us/pl/113/66/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs814
+[/us/pl/113/66/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVIII
 [/us/stat/127/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F808
-[/us/pl/113/291/s1071/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F1%2FB
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3505
-[/us/pl/114/92/s892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs892
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F952
 [/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
 [/us/usc/t10/s2306a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a%2Fd
 [/us/usc/t41/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs110
 [/us/usc/t10/s2302/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F9
-[/us/pl/111/383/s893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs893
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4311
-[/us/pl/112/81/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs816
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1493
-[/us/pl/113/291/s1071/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F1%2FC
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3505
 [/us/usc/t41/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1502
-[/us/pl/111/84/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs805
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2403
-[/us/pl/112/239/s823/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs823%2Fb
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1832
-[/us/pl/111/84/s819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs819
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2409
-[/us/pl/113/291/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs811
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3428
 [/us/usc/t10/s2302/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F2%2FB
-[/us/pl/111/84/s1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1062
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2468
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/111/23/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs201%2Fa
+[/us/pl/111/23/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2FtII
 [/us/stat/123/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1719
-[/us/pl/111/23/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs301
+[/us/pl/111/23/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2FtIII
 [/us/stat/123/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1730
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4402
 [/us/usc/t10/s2302/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F5
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4427
-[/us/pl/111/84/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs341
+[/us/pl/111/84/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIII
 [/us/stat/123/2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2260
-[/us/pl/111/383/s1075/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fe%2F6
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4374
-[/us/pl/112/81/s349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs349
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1375
-[/us/pl/114/92/s1073/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1073%2Fh
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F996
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4543
@@ -4919,16 +4919,16 @@ Source (Statutes at Large)  </td>
 [/us/stat/122/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F230
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4560
-[/us/pl/110/181/s815/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs815%2Fb
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F223
-[/us/pl/110/181/s842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs842
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F234
 [/us/stat/122/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F230
-[/us/pl/111/383/s831/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs831%2Fb
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4274
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/111/383/s832/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs832%2Fb
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4275
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
@@ -4937,128 +4937,128 @@ Source (Statutes at Large)  </td>
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/stat/122/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F253
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/110/181/s861/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs861%2Fb
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/110/181/s864/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs864%2Fa%2F2
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4545
 [/us/pl/110/181/s861/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs861%2Fb%2F6
-[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F253
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4544
-[/us/pl/111/84/s813/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs813%2Fa
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2406
-[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4273
-[/us/pl/112/81/s844/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs844%2Fc
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1515
-[/us/pl/112/239/s847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs847
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1850
-[/us/pl/113/291/s1071/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F2%2FD
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3506
 [/us/usc/t10/s802/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs802%2Fa%2F10
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t41/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303
 [/us/usc/t41/s1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1126
-[/us/pl/110/181/s886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs886
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F266
-[/us/pl/112/239/s842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs842
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1845
-[/us/pl/114/92/s886/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs886%2Fa
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F949
 [/us/usc/t41/s8503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8503%2Fa
-[/us/pl/112/239/s842/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs842%2F1
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1845
 [/us/pl/110/181/s886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs886
-[/us/pl/110/181/s890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs890
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F269
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4613
-[/us/pl/111/383/s1075/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Ff%2F6
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4376
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/109/364/s130/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs130%2Fa
+[/us/pl/109/364/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtI
 [/us/stat/120/2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2110
 [/us/usc/t10/s2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2319
 [/us/usc/t10/s2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2319
-[/us/pl/109/364/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs812
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2317
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4527
-[/us/pl/111/84/s1073/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc%2F5
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
 [/us/usc/t10/s2366b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2366b
 [/us/usc/t10/s2302/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F5
-[/us/pl/111/84/s1073/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
 [/us/pl/110/417/s813/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs813%2Fd%2F3
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/111/84/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs823
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2412
-[/us/pl/111/383/s834/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs834%2Fa
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4278
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/111/383/s834/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs834%2Fe
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4279
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/110/329/s8105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs8105
+[/us/pl/110/329/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2FdC%2FtVIII
 [/us/stat/122/3644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3644
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/109/364/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs814
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2321
-[/us/pl/109/364/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs832
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2331
-[/us/pl/110/181/s883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs883
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F264
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4613
-[/us/pl/113/291/s1071/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F3%2FA
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3506
 [/us/usc/t41/s6701/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6701%2F3
-[/us/pl/109/163/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs806
+[/us/pl/109/163/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVIII
 [/us/stat/119/3373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3373
-[/us/pl/109/163/s817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs817
+[/us/pl/109/163/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVIII
 [/us/stat/119/3382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3382
 [/us/usc/t10/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304
 [/us/usc/t15/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa
 [/us/usc/t10/s101/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F13
-[/us/pl/109/163/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1211
+[/us/pl/109/163/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtXII
 [/us/stat/119/3461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3461
-[/us/pl/112/81/s1243/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1243%2Fa
+[/us/pl/112/81/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXII
 [/us/stat/125/1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1645
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/112/81/s1243/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1243%2Fc
+[/us/pl/112/81/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXII
 [/us/stat/125/1646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1646
 [/us/pl/109/163/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1211
-[/us/pl/108/375/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs141
+[/us/pl/108/375/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtI
 [/us/stat/118/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1829
-[/us/pl/108/375/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs802
+[/us/pl/108/375/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVIII
 [/us/stat/118/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2004
-[/us/pl/109/313/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs2%2Fc%2F2
+[/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/stat/120/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1735
-[/us/pl/108/136/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs801%2Fb
+[/us/pl/108/136/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVIII
 [/us/stat/117/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1540
 [/us/usc/t10/s2382/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2382%2Fc%2F1
 [/us/usc/t15/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fa
-[/us/pl/108/136/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs802%2Fa
+[/us/pl/108/136/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVIII
 [/us/stat/117/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1540
 [/us/usc/t10/s2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2319
 [/us/usc/t10/s2319/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2319%2Fg
-[/us/pl/108/136/s805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs805%2Fa
+[/us/pl/108/136/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVIII
 [/us/stat/117/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1542
-[/us/pl/108/136/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs853
+[/us/pl/108/136/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVIII
 [/us/stat/117/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1557
-[/us/pl/108/199/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs110
+[/us/pl/108/199/dH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdH
 [/us/stat/118/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F438
 [/us/usc/t10/s2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2323
 [/us/usc/t15/s644/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644%2Fg%2F1
 [/us/usc/t29/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206
 [/us/usc/t42/s12102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12102
-[/us/pl/108/136/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1602
+[/us/pl/108/136/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXVI
 [/us/stat/117/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1682
-[/us/pl/110/181/s1063/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fg%2F3
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F324
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
@@ -5068,73 +5068,73 @@ Source (Statutes at Large)  </td>
 [/us/usc/t42/s262/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262%2Fi
 [/us/usc/t42/s300hh–12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300hh%E2%80%9312%2Fa
 [/us/stat/117/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1582
-[/us/pl/107/314/s244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs244
+[/us/pl/107/314/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtII
 [/us/stat/116/2498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2498
-[/us/pl/107/314/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs314
+[/us/pl/107/314/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtIII
 [/us/stat/116/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2508
-[/us/pl/109/163/s1056/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1056%2Fe%2F1
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3440
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
-[/us/pl/107/314/s352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs352
+[/us/pl/107/314/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtIII
 [/us/stat/116/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2518
-[/us/pl/107/314/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs365
+[/us/pl/107/314/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtIII
 [/us/stat/116/2520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2520
-[/us/pl/109/163/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs331
+[/us/pl/109/163/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIII
 [/us/stat/119/3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3195
-[/us/pl/107/314/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs804
+[/us/pl/107/314/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVIII
 [/us/stat/116/2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2604
 [/us/usc/t10/s101/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F11
 [/us/usc/t10/s139/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139%2Fa%2F2%2FB
-[/us/pl/107/314/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs806
+[/us/pl/107/314/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVIII
 [/us/stat/116/2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2607
-[/us/pl/108/136/s845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs845
+[/us/pl/108/136/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVIII
 [/us/stat/117/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1553
-[/us/pl/108/375/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs811
+[/us/pl/108/375/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVIII
 [/us/stat/118/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2012
-[/us/pl/109/364/s1071/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fh
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2403
-[/us/pl/111/383/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs803
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4255
-[/us/pl/112/81/s845/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs845%2Fa
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1515
-[/us/pl/114/92/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs803
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F880
 [/us/usc/t10/s139/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139%2Fe%2F3
 [/us/usc/t10/s2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2400
-[/us/pl/112/81/s845/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs845%2Fc
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1515
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/stat/124/4256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4256
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/107/107/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs318
+[/us/pl/107/107/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIII
 [/us/stat/115/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1055
 [/us/usc/t42/s13212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13212
 [/us/usc/t42/s13212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13212
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t42/s13211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13211
-[/us/pl/107/107/s836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs836
+[/us/pl/107/107/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVIII
 [/us/stat/115/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1192
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/136/s1431/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1431%2Fc
+[/us/pl/108/136/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXIV
 [/us/stat/117/1672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1672
 [/us/usc/t41/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs405
 [/us/usc/t41/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1121
-[/us/pl/108/136/s1431/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1431%2Fc
+[/us/pl/108/136/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXIV
 [/us/stat/117/1672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1672
 [/us/usc/t41/s403/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F12
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
 [/us/usc/t10/s101/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F11
-[/us/pl/106/65/s812/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs812%2Fa
+[/us/pl/106/65/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVIII
 [/us/stat/113/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F709
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/104/201/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs831
+[/us/pl/104/201/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVIII
 [/us/stat/110/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2615
-[/us/pl/104/106/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs822
+[/us/pl/104/106/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVIII
 [/us/stat/110/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F396
-[/us/pl/106/65/s1067/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F6
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
 [/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
 [/us/usc/t41/s422/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs422%2Ff
@@ -5149,23 +5149,23 @@ Source (Statutes at Large)  </td>
 [/us/usc/t41/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs430
 [/us/usc/t41/s1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1906
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
-[/us/pl/102/484/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs326
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2368
-[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F506
-[/us/pl/106/65/s1067/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F8
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/113/291/s1071/b/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F14
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
 [/us/usc/t42/s7671a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7671a%2Fa
 [/us/usc/t41/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303%2Fa
-[/us/pl/102/190/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs806
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1417
-[/us/pl/102/484/s1053/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1053%2F5
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2502
-[/us/pl/103/355/s2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2091
+[/us/pl/103/355/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtII
 [/us/stat/108/3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3306
-[/us/pl/113/291/s1071/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F15
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
 [/us/usc/t5/s552/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F1
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
@@ -5174,11 +5174,11 @@ Source (Statutes at Large)  </td>
 [/us/usc/t31/s3903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3903%2Fb
 [/us/usc/t40/s270a–270d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs270a%E2%80%93270d
 [/us/usc/t40/s3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3131
-[/us/pl/101/510/s800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs800
+[/us/pl/101/510/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVIII
 [/us/stat/104/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1587
-[/us/pl/103/160/s904/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs904%2Ff
+[/us/pl/103/160/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIX
 [/us/stat/107/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1729
-[/us/pl/114/92/s861/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs861%2Fb
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F925
 [/us/pl/101/510/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs831
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
@@ -5188,49 +5188,49 @@ Source (Statutes at Large)  </td>
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/stat/104/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1607
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/106/65/s811/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs811%2Fd%2F2
+[/us/pl/106/65/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVIII
 [/us/stat/113/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F708
-[/us/pl/107/107/s1048/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fg%2F5
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1228
-[/us/pl/101/510/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs831
-[/us/pl/102/484/s807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs807%2Fa
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/102/484/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVIII
 [/us/stat/106/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2448
-[/us/pl/101/510/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs831
-[/us/pl/101/510/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs831
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVIII
 [/us/stat/104/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1607
-[/us/pl/102/25/s704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs704%2Fc
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F119
-[/us/pl/102/172/s8064A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2Fs8064A
+[/us/pl/102/172/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2FtVIII
 [/us/stat/105/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1186
-[/us/pl/102/190/s814/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs814%2Fb
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1425
-[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVIII
 [/us/stat/106/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2445
-[/us/pl/103/160/s813/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs813%2Fb%2F1
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1703
-[/us/pl/104/106/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs824
+[/us/pl/104/106/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVIII
 [/us/stat/110/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F399
-[/us/pl/104/201/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs802
+[/us/pl/104/201/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVIII
 [/us/stat/110/2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2604
-[/us/pl/105/85/s821/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs821%2Fa
+[/us/pl/105/85/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVIII
 [/us/stat/111/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1840
-[/us/pl/106/65/s811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs811%2Fa
+[/us/pl/106/65/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVIII
 [/us/stat/113/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F706
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs812
+[/us/pl/107/107/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVIII
 [/us/stat/115/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1181
-[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVIII
 [/us/stat/118/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2018
-[/us/pl/112/10/s8016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs8016
+[/us/pl/112/10/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdA%2FtVIII
 [/us/stat/125/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F60
-[/us/pl/112/81/s867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs867
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1526
-[/us/pl/112/239/s1076/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F17
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
-[/us/pl/113/291/s1071/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F16
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
-[/us/pl/114/92/s861/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs861%2Fa
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F921
 [/us/usc/t15/s648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
@@ -5252,25 +5252,25 @@ Source (Statutes at Large)  </td>
 [/us/usc/t15/s637/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fd
 [/us/usc/t29/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206
 [/us/usc/t41/s8501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8501
-[/us/pl/114/92/s861/a/11/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs861%2Fa%2F11%2FB%2Fiii
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/101/510/s831/n/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs831%2Fn%2F2%2FG
 [/us/usc/t15/s632/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fp
-[/us/pl/106/65/s811/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs811%2Ff
+[/us/pl/106/65/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVIII
 [/us/stat/113/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F709
 [/us/pl/101/510/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs831
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/102/484/s807/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs807%2Fb%2F2
 [/us/pl/101/510/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs831
-[/us/pl/101/189/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs832
+[/us/pl/101/189/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVIII
 [/us/stat/103/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1508
 [/us/usc/t10/s2323a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2323a
-[/us/pl/102/484/s801/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs801%2Fg%2F1%2FB
-[/us/pl/101/165/s9004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2Fs9004
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/101/165/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2FtIX
 [/us/stat/103/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1129
-[/us/pl/100/180/s806/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs806%2Fa
+[/us/pl/100/180/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVIII
 [/us/stat/101/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1126
 [/us/pl/99/661/s1207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1207%2Fa
-[/us/pl/102/484/s801/h/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs801%2Fh%2F7
+[/us/pl/102/484/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVIII
 [/us/stat/106/2446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2446
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
@@ -5286,44 +5286,44 @@ Source (Statutes at Large)  </td>
 [/us/stat/100/3910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3910
 [/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/661/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1207
+[/us/pl/99/661/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXII
 [/us/stat/100/3973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3973
-[/us/pl/100/180/s806/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs806%2Fd
+[/us/pl/100/180/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVIII
 [/us/stat/101/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1127
-[/us/pl/100/456/s844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs844
+[/us/pl/100/456/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVIII
 [/us/stat/102/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2027
-[/us/pl/101/189/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs831
+[/us/pl/101/189/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVIII
 [/us/stat/103/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1507
-[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVIII
 [/us/stat/104/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1596
-[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F118
 [/us/usc/t10/s2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2323
-[/us/pl/102/484/s801/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs801%2Fa%2F1%2FB
-[/us/pl/99/145/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs913
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/99/145/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtIX
 [/us/stat/99/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F687
-[/us/pl/101/510/s1322/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1322%2Fd%2F1
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1672
 [/us/usc/t10/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304
-[/us/pl/98/525/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1202
+[/us/pl/98/525/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXII
 [/us/stat/98/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2588
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIX
 [/us/stat/100/3952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3952
-[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
-[/us/pl/97/86/s909/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs909%2Fd
+[/us/pl/97/86/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIX
 [/us/stat/95/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1120
-[/us/pl/93/365/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F365%2Fs707
+[/us/pl/93/365/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F365%2FtVII
 [/us/stat/88/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F406
 [/us/usc/t10/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501
-[/us/pl/100/370/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs3%2Fa
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/usc/t10/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501
-[/us/pl/100/456/s821/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs821%2Fb%2F1%2FA
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/usc/t10/s2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2506
-[/us/pl/102/484/s4202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4202%2Fa
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 
 

@@ -37,7 +37,7 @@
 
     (7) The term “Fund” means the Reserve Mobilization Income Insurance Fund established by [section 12528(a) of this title][/us/usc/t10/s12528/a].
 
-(Added [Pub. L. 104–106, div. A, title V, § 512(a)(1)][/us/pl/104/106/s512/a/1], Feb. 10, 1996, [110 Stat. 299][/us/stat/110/299]; amended [Pub. L. 110–181, div. A, title IX, § 906(c)(4)][/us/pl/110/181/s906/c/4], Jan. 28, 2008, [122 Stat. 277][/us/stat/122/277].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 512(a)(1), Feb. 10, 1996, [110 Stat. 299][/us/stat/110/299]; amended [Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 906(c)(4), Jan. 28, 2008, [122 Stat. 277][/us/stat/122/277].)
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–106, div. A, title V, § 512(b)][/us/pl/104/106/s512/b], Feb. 10, 1996, [110 Stat. 305][/us/stat/110/305], provided that: 
+[Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 512(b), Feb. 10, 1996, [110 Stat. 305][/us/stat/110/305], provided that: 
 
 > “The insurance program provided for in chapter 1214 of title 10, United States Code, as added by subsection (a), and the requirement for deductions and contributions for that program shall take effect on September 30, 1996, or on any earlier date declared by the Secretary and published in the Federal Register.”
 
@@ -60,14 +60,14 @@
 [/us/usc/t10/s12524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12524
 [/us/usc/t10/s183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs183
 [/us/usc/t10/s12528/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12528%2Fa
-[/us/pl/104/106/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs512%2Fa%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F299
-[/us/pl/110/181/s906/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs906%2Fc%2F4
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F277
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t10/s183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs183
 [/us/usc/t10/s2006/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2006%2Fe%2F1
-[/us/pl/104/106/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs512%2Fb
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F305
 
 

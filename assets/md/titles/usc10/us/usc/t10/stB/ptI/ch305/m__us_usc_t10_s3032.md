@@ -31,7 +31,7 @@
 
         (5) perform such other duties, not otherwise assigned by law, as may be prescribed by the Secretary.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 161][/us/stat/70A/161]; [Pub. L. 85–599, § 4(g)][/us/pl/85/599/s4/g], Aug. 6, 1958, [72 Stat. 517][/us/stat/72/517]; [Pub. L. 99–433, title V, § 502(b)][/us/pl/99/433/s502/b], Oct. 1, 1986, [100 Stat. 1040][/us/stat/100/1040].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 161][/us/stat/70A/161]; [Pub. L. 85–599][/us/pl/85/599], § 4(g), Aug. 6, 1958, [72 Stat. 517][/us/stat/72/517]; [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 502(b), Oct. 1, 1986, [100 Stat. 1040][/us/stat/100/1040].)
 
 <table>
 
@@ -89,11 +89,11 @@ June 28, 1950, ch. 383, § 205, 64 Stat. 266.  </td>
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–433, § 502(b)(3)][/us/pl/99/433/s502/b/3], substituted “The Army Staff: general duties” for “General duties” in section catchline.
+    1986—[Pub. L. 99–433][/us/pl/99/433], § 502(b)(3), substituted “The Army Staff: general duties” for “General duties” in section catchline.
 
-    Subsec. (a). [Pub. L. 99–433, § 502(b)(1)][/us/pl/99/433/s502/b/1], inserted “and to the Chief of Staff of the Army”.
+    Subsec. (a). [Pub. L. 99–433][/us/pl/99/433], § 502(b)(1), inserted “and to the Chief of Staff of the Army”.
 
-    Subsec. (b). [Pub. L. 99–433, § 502(b)(2)][/us/pl/99/433/s502/b/2], substituted “authority, direction, and control of the Secretary of the Army” for “direction and control of the Secretary” in introductory provisions, inserted “subject to subsections (c) and (d) of [section 3014 of this title][/us/usc/t10/s3014],” and substituted “(including those aspects of research and development assigned by the Secretary of the Army), training, servicing, mobilizing, demobilizing, administering, and maintaining” for “, training, serving, mobilizing, and demobilizing” in cl. (1), substituted “to support military operations by combatant commands” for “for military operations” in cl. (2), and amended cl. (4) generally. Prior to amendment, cl. (4) read as follows: “act as agent of the Secretary and the Chief of Staff in coordinating the action of all organizations of the Department of the Army; and”.
+    Subsec. (b). [Pub. L. 99–433][/us/pl/99/433], § 502(b)(2), substituted “authority, direction, and control of the Secretary of the Army” for “direction and control of the Secretary” in introductory provisions, inserted “subject to subsections (c) and (d) of [section 3014 of this title][/us/usc/t10/s3014],” and substituted “(including those aspects of research and development assigned by the Secretary of the Army), training, servicing, mobilizing, demobilizing, administering, and maintaining” for “, training, serving, mobilizing, and demobilizing” in cl. (1), substituted “to support military operations by combatant commands” for “for military operations” in cl. (2), and amended cl. (4) generally. Prior to amendment, cl. (4) read as follows: “act as agent of the Secretary and the Chief of Staff in coordinating the action of all organizations of the Department of the Army; and”.
 
     1958—Subsec. (b)(1). [Pub. L. 85–599][/us/pl/85/599] substituted “prepare for such employment of the Army” for “prepare such plans for the national security, for employment of the Army for that purpose, both separately and in conjunction with the naval and air forces”.
 
@@ -107,13 +107,13 @@ June 28, 1950, ch. 383, § 205, 64 Stat. 266.  </td>
 [/us/usc/t10/s3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3014
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F161
-[/us/pl/85/599/s4/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599%2Fs4%2Fg
+[/us/pl/85/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599
 [/us/stat/72/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F517
-[/us/pl/99/433/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs502%2Fb
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1040
-[/us/pl/99/433/s502/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs502%2Fb%2F3
-[/us/pl/99/433/s502/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs502%2Fb%2F1
-[/us/pl/99/433/s502/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs502%2Fb%2F2
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t10/s3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3014
 [/us/pl/85/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599
 

@@ -27,11 +27,11 @@
 
     The presentation of a flag under this section shall be at no cost to the recipient.
 
-(Added [Pub. L. 105–261, div. A, title VI, § 644(c)(1)][/us/pl/105/261/s644/c/1], Oct. 17, 1998, [112 Stat. 2049][/us/stat/112/2049]; amended [Pub. L. 106–65, div. A, title VI, § 652(e)][/us/pl/106/65/s652/e], Oct. 5, 1999, [113 Stat. 666][/us/stat/113/666].)
+(Added [Pub. L. 105–261, div. A, title VI][/us/pl/105/261/dA/tVI], § 644(c)(1), Oct. 17, 1998, [112 Stat. 2049][/us/stat/112/2049]; amended [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 652(e), Oct. 5, 1999, [113 Stat. 666][/us/stat/113/666].)
 
  __Prior Provisions__ 
 
-    A prior section 8681, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 534][/us/stat/70A/534], prescribed service to be listed in official Air Force Register, prior to repeal by [Pub. L. 85–861, § 36B(28)][/us/pl/85/861/s36B/28], Sept. 2, 1958, [72 Stat. 1571][/us/stat/72/1571].
+    A prior section 8681, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 534][/us/stat/70A/534], prescribed service to be listed in official Air Force Register, prior to repeal by [Pub. L. 85–861][/us/pl/85/861], § 36B(28), Sept. 2, 1958, [72 Stat. 1571][/us/stat/72/1571].
 
  __Amendments__ 
 
@@ -48,13 +48,13 @@
 ----------
 ----------
 
-[/us/pl/105/261/s644/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs644%2Fc%2F1
+[/us/pl/105/261/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVI
 [/us/stat/112/2049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2049
-[/us/pl/106/65/s652/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs652%2Fe
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F666
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F534
-[/us/pl/85/861/s36B/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs36B%2F28
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1571
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t14/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs516

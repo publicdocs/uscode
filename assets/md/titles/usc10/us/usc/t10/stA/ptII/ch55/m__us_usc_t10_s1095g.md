@@ -35,7 +35,7 @@
 
     Any determination by the Secretary under this section to waive or decline to waive recoupment under subsection (a) is a final determination and shall not be subject to appeal or judicial review.
 
-(Added [Pub. L. 114–92, div. A, title VII, § 711(a)][/us/pl/114/92/s711/a], Nov. 25, 2015, [129 Stat. 864][/us/stat/129/864].)
+(Added [Pub. L. 114–92, div. A, title VII][/us/pl/114/92/dA/tVII], § 711(a), Nov. 25, 2015, [129 Stat. 864][/us/stat/129/864].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/114/92/s711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs711%2Fa
+[/us/pl/114/92/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVII
 [/us/stat/129/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F864
 
 

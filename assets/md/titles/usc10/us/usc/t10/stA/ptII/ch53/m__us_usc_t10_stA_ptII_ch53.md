@@ -379,93 +379,93 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–66, div. A, title VI, § 621(a)(2)(B)][/us/pl/113/66/s621/a/2/B], (c)(2)(B), title XVII, § 1716(a)(2), Dec. 26, 2013, [127 Stat. 783][/us/stat/127/783], 784, 969, added item 1044e and struck out items 1036 “Escorts for dependents of members: transportation and travel allowances” and 1053a “Expenses incurred in connection with leave canceled due to contingency operations: reimbursement”.
+    2013—[Pub. L. 113–66, div. A, title VI][/us/pl/113/66/dA/tVI], § 621(a)(2)(B), (c)(2)(B), title XVII, § 1716(a)(2), Dec. 26, 2013, [127 Stat. 783][/us/stat/127/783], 784, 969, added item 1044e and struck out items 1036 “Escorts for dependents of members: transportation and travel allowances” and 1053a “Expenses incurred in connection with leave canceled due to contingency operations: reimbursement”.
 
-    2011—[Pub. L. 112–81, div. A, title V, § 588(b)][/us/pl/112/81/s588/b], title IX, § 951(a)(2), Dec. 31, 2011, [125 Stat. 1437][/us/stat/125/1437], 1549, added items 1051c and 1056a.
+    2011—[Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 588(b), title IX, § 951(a)(2), Dec. 31, 2011, [125 Stat. 1437][/us/stat/125/1437], 1549, added items 1051c and 1056a.
 
-    [Pub. L. 111–383, div. A, title XII, § 1204(b)][/us/pl/111/383/s1204/b], Jan. 7, 2011, [124 Stat. 4387][/us/stat/124/4387], added item 1050a.
+    [Pub. L. 111–383, div. A, title XII][/us/pl/111/383/dA/tXII], § 1204(b), Jan. 7, 2011, [124 Stat. 4387][/us/stat/124/4387], added item 1050a.
 
     2008—[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XII, § 1231(c)(2), Oct. 14, 2008, [122 Stat. 4637][/us/stat/122/4637], added item 1051 and struck out former item 1051 “Bilateral or regional cooperation programs: payment of personnel expenses”.
 
-    [Pub. L. 110–181, div. A, title VI, § 671(b)(2)][/us/pl/110/181/s671/b/2], title XII, § 1203(e)(2), Jan. 28, 2008, [122 Stat. 184][/us/stat/122/184], 365, added items 1030 and 1051a and struck out former item 1051a “Coalition liaison officers: administrative services and support; travel, subsistence, and other personal expenses”.
+    [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 671(b)(2), title XII, § 1203(e)(2), Jan. 28, 2008, [122 Stat. 184][/us/stat/122/184], 365, added items 1030 and 1051a and struck out former item 1051a “Coalition liaison officers: administrative services and support; travel, subsistence, and other personal expenses”.
 
-    2006—[Pub. L. 109–364, div. A, title V, § 598(b)(2)][/us/pl/109/364/s598/b/2], Oct. 17, 2006, [120 Stat. 2237][/us/stat/120/2237], struck out “; issuance of permanent ID card after attaining 75 years of age” after “retirees” in item 1060b.
+    2006—[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 598(b)(2), Oct. 17, 2006, [120 Stat. 2237][/us/stat/120/2237], struck out “; issuance of permanent ID card after attaining 75 years of age” after “retirees” in item 1060b.
 
-    2004—[Pub. L. 108–375, div. A, title V, § 583(a)(2)][/us/pl/108/375/s583/a/2], Oct. 28, 2004, [118 Stat. 1929][/us/stat/118/1929], added item 1060b.
+    2004—[Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 583(a)(2), Oct. 28, 2004, [118 Stat. 1929][/us/stat/118/1929], added item 1060b.
 
-    2003—[Pub. L. 108–136, div. A, title XII, § 1222(b)][/us/pl/108/136/s1222/b], Nov. 24, 2003, [117 Stat. 1652][/us/stat/117/1652], added item 1051b.
+    2003—[Pub. L. 108–136, div. A, title XII][/us/pl/108/136/dA/tXII], § 1222(b), Nov. 24, 2003, [117 Stat. 1652][/us/stat/117/1652], added item 1051b.
 
-    2002—[Pub. L. 107–314, div. A, title XII, § 1201(a)(2)][/us/pl/107/314/s1201/a/2], Dec. 2, 2002, [116 Stat. 2663][/us/stat/116/2663], added item 1051a.
+    2002—[Pub. L. 107–314, div. A, title XII][/us/pl/107/314/dA/tXII], § 1201(a)(2), Dec. 2, 2002, [116 Stat. 2663][/us/stat/116/2663], added item 1051a.
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, §§ 551(b), 579(c)(3)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–125, 1654A–142, added items 1044d, 1052, 1053, and 1053a, and struck out former items 1052 “Reimbursement for adoption expenses” and 1053 “Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay”.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, §§ 551(b), 579(c)(3)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–125, 1654A–142, added items 1044d, 1052, 1053, and 1053a, and struck out former items 1052 “Reimbursement for adoption expenses” and 1053 “Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay”.
 
-    1997—[Pub. L. 105–85, div. A, title V, § 593(a)(2)][/us/pl/105/85/s593/a/2], Nov. 18, 1997, [111 Stat. 1763][/us/stat/111/1763], added item 1033.
+    1997—[Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 593(a)(2), Nov. 18, 1997, [111 Stat. 1763][/us/stat/111/1763], added item 1033.
 
-    1996—[Pub. L. 104–106, div. A, title VII, § 749(a)(2)][/us/pl/104/106/s749/a/2], Feb. 10, 1996, [110 Stat. 389][/us/stat/110/389], added item 1044c.
+    1996—[Pub. L. 104–106, div. A, title VII][/us/pl/104/106/dA/tVII], § 749(a)(2), Feb. 10, 1996, [110 Stat. 389][/us/stat/110/389], added item 1044c.
 
-    [Pub. L. 104–106, div. A, title XV, § 1504(a)(2)][/us/pl/104/106/s1504/a/2], Feb. 10, 1996, [110 Stat. 513][/us/stat/110/513], made technical correction to [Pub. L. 103–337, § 531(g)(2)][/us/pl/103/337/s531/g/2]. See 1994 Amendment note below.
+    [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1504(a)(2), Feb. 10, 1996, [110 Stat. 513][/us/stat/110/513], made technical correction to [Pub. L. 103–337][/us/pl/103/337], § 531(g)(2). See 1994 Amendment note below.
 
-    1994—[Pub. L. 103–337, div. A, title V, § 531(g)(2)][/us/pl/103/337/s531/g/2], Oct. 5, 1994, [108 Stat. 2758][/us/stat/108/2758], as amended by [Pub. L. 104–106, div. A, title XV, § 1504(a)(2)][/us/pl/104/106/s1504/a/2], Feb. 10, 1996, [110 Stat. 513][/us/stat/110/513], substituted “Protected communications;” for “Communicating with a Member of Congress or Inspector General;” in item 1034.
+    1994—[Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 531(g)(2), Oct. 5, 1994, [108 Stat. 2758][/us/stat/108/2758], as amended by [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1504(a)(2), Feb. 10, 1996, [110 Stat. 513][/us/stat/110/513], substituted “Protected communications;” for “Communicating with a Member of Congress or Inspector General;” in item 1034.
 
-    [Pub. L. 103–337, div. A, title V, § 535(c)(2)][/us/pl/103/337/s535/c/2], title VI, § 653(b), title X, § 1070(a)(5)(B), (6)(B), title XVI, § 1671(b)(9), Oct. 5, 1994, [108 Stat. 2763][/us/stat/108/2763], 2795, 2855, 3013, struck out item 1033 “Compensation: Reserve on active duty accepting from any person”, redesignated item 1058 “Dependents of members separated for dependent abuse: transitional compensation” as item 1059 and amended it generally, redesignated item 1058 “Military service of retired members with newly democratic nations: consent of Congress” as item 1060, and added item 1060a.
+    [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 535(c)(2), title VI, § 653(b), title X, § 1070(a)(5)(B), (6)(B), title XVI, § 1671(b)(9), Oct. 5, 1994, [108 Stat. 2763][/us/stat/108/2763], 2795, 2855, 3013, struck out item 1033 “Compensation: Reserve on active duty accepting from any person”, redesignated item 1058 “Dependents of members separated for dependent abuse: transitional compensation” as item 1059 and amended it generally, redesignated item 1058 “Military service of retired members with newly democratic nations: consent of Congress” as item 1060, and added item 1060a.
 
-    [Pub. L. 103–337, div. A, title X, § 1070(b)(4)][/us/pl/103/337/s1070/b/4], Oct. 5, 1994, [108 Stat. 2856][/us/stat/108/2856], made technical correction to [Pub. L. 103–160, § 554(a)(2)][/us/pl/103/160/s554/a/2]. See 1993 Amendment note below.
+    [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(b)(4), Oct. 5, 1994, [108 Stat. 2856][/us/stat/108/2856], made technical correction to [Pub. L. 103–160][/us/pl/103/160], § 554(a)(2). See 1993 Amendment note below.
 
-    1993—[Pub. L. 103–160, div. A, title V][/us/pl/103/160], §§ 551(a)(2), 574(b), title XIV, § 1433(b)(2), Nov. 30, 1993, [107 Stat. 1662][/us/stat/107/1662], 1675, 1834, added item 1044b and items 1058 “Responsibilities of military law enforcement officials at scenes of domestic violence” and 1058 “Military service of retired members with newly democratic nations: consent of Congress”.
+    1993—[Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], §§ 551(a)(2), 574(b), title XIV, § 1433(b)(2), Nov. 30, 1993, [107 Stat. 1662][/us/stat/107/1662], 1675, 1834, added item 1044b and items 1058 “Responsibilities of military law enforcement officials at scenes of domestic violence” and 1058 “Military service of retired members with newly democratic nations: consent of Congress”.
 
-    [Pub. L. 103–160, div. A, title V, § 554(a)(2)][/us/pl/103/160/s554/a/2], Nov. 30, 1993, [107 Stat. 1666][/us/stat/107/1666], as amended by [Pub. L. 103–337, div. A, title X, § 1070(b)(4)][/us/pl/103/337/s1070/b/4], Oct. 5, 1994, [108 Stat. 2856][/us/stat/108/2856], added item 1058 “Dependents of members separated for dependent abuse: transitional compensation”.
+    [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 554(a)(2), Nov. 30, 1993, [107 Stat. 1666][/us/stat/107/1666], as amended by [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(b)(4), Oct. 5, 1994, [108 Stat. 2856][/us/stat/108/2856], added item 1058 “Dependents of members separated for dependent abuse: transitional compensation”.
 
-    1992—[Pub. L. 102–484, div. A, title VI, § 651(b)][/us/pl/102/484/s651/b], title X, § 1080(b), Oct. 23, 1992, [106 Stat. 2426][/us/stat/106/2426], 2514, added items 1046 and 1057.
+    1992—[Pub. L. 102–484, div. A, title VI][/us/pl/102/484/dA/tVI], § 651(b), title X, § 1080(b), Oct. 23, 1992, [106 Stat. 2426][/us/stat/106/2426], 2514, added items 1046 and 1057.
 
-    1991—[Pub. L. 102–190, div. A, title VI, § 651(a)(2)][/us/pl/102/190/s651/a/2], Dec. 5, 1991, [105 Stat. 1386][/us/stat/105/1386], added item 1052.
+    1991—[Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], § 651(a)(2), Dec. 5, 1991, [105 Stat. 1386][/us/stat/105/1386], added item 1052.
 
-    [Pub. L. 102–25, title VII, § 701(e)(8)(B)][/us/pl/102/25/s701/e/8/B], Apr. 6, 1991, [105 Stat. 115][/us/stat/105/115], struck out “mandatory” after “error in” in item 1053.
+    [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 701(e)(8)(B), Apr. 6, 1991, [105 Stat. 115][/us/stat/105/115], struck out “mandatory” after “error in” in item 1053.
 
-    1990—[Pub. L. 101–510, div. A, title V][/us/pl/101/510], §§ 502(b)(2), 551(a)(2), title XIV, § 1481(c)(2), Nov. 5, 1990, [104 Stat. 1557][/us/stat/104/1557], 1566, 1705, added items 1044a and 1056 and struck out item 1046 “Preseparation counseling requirement”.
+    1990—[Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], §§ 502(b)(2), 551(a)(2), title XIV, § 1481(c)(2), Nov. 5, 1990, [104 Stat. 1557][/us/stat/104/1557], 1566, 1705, added items 1044a and 1056 and struck out item 1046 “Preseparation counseling requirement”.
 
-    1989—[Pub. L. 101–189, div. A, title VI, § 664(a)(3)(B)][/us/pl/101/189/s664/a/3/B], Nov. 29, 1989, [103 Stat. 1466][/us/stat/103/1466], substituted “Reimbursement for financial institution charges incurred because of Government” for “Relief for expenses because of” in item 1053.
+    1989—[Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 664(a)(3)(B), Nov. 29, 1989, [103 Stat. 1466][/us/stat/103/1466], substituted “Reimbursement for financial institution charges incurred because of Government” for “Relief for expenses because of” in item 1053.
 
-    1988—[Pub. L. 100–456, div. A, title VI, § 621(a)(2)][/us/pl/100/456/s621/a/2], title VIII, § 846(a)(2), Sept. 29, 1988, [102 Stat. 1983][/us/stat/102/1983], 2030, substituted “Communicating with a Member of Congress or Inspector General; prohibition of retaliatory personnel actions” for “Communicating with a Member of Congress” in item 1034 and added item 1055.
+    1988—[Pub. L. 100–456, div. A, title VI][/us/pl/100/456/dA/tVI], § 621(a)(2), title VIII, § 846(a)(2), Sept. 29, 1988, [102 Stat. 1983][/us/stat/102/1983], 2030, substituted “Communicating with a Member of Congress or Inspector General; prohibition of retaliatory personnel actions” for “Communicating with a Member of Congress” in item 1034 and added item 1055.
 
-    [Pub. L. 100–370, § 1(c)(2)(B)][/us/pl/100/370/s1/c/2/B], July 19, 1988, [102 Stat. 841][/us/stat/102/841], struck out item 1052 “Period for use of commissary stores; eligibility attributable to active duty for training”.
+    [Pub. L. 100–370][/us/pl/100/370], § 1(c)(2)(B), July 19, 1988, [102 Stat. 841][/us/stat/102/841], struck out item 1052 “Period for use of commissary stores; eligibility attributable to active duty for training”.
 
-    1987—[Pub. L. 100–26, § 7(e)(1)(B)][/us/pl/100/26/s7/e/1/B], Apr. 21, 1987, [101 Stat. 281][/us/stat/101/281], added item 1032 and struck out second item 1051 “Disability and death compensation: dependents of members held as captives”.
+    1987—[Pub. L. 100–26][/us/pl/100/26], § 7(e)(1)(B), Apr. 21, 1987, [101 Stat. 281][/us/stat/101/281], added item 1032 and struck out second item 1051 “Disability and death compensation: dependents of members held as captives”.
 
-    1986—[Pub. L. 99–661, div. A, title VI][/us/pl/99/661], §§ 656(a)(2), 662(a)(2), title XIII, §§ 1322(b), 1356(a)(2), Nov. 14, 1986, [100 Stat. 3891][/us/stat/100/3891], 3894, 3989, 3998, added item 1051 “Bilateral or regional cooperation programs: payment of personnel expenses” and items 1052 to 1054.
+    1986—[Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], §§ 656(a)(2), 662(a)(2), title XIII, §§ 1322(b), 1356(a)(2), Nov. 14, 1986, [100 Stat. 3891][/us/stat/100/3891], 3894, 3989, 3998, added item 1051 “Bilateral or regional cooperation programs: payment of personnel expenses” and items 1052 to 1054.
 
-    [Pub. L. 99–399, title VIII, § 806(b)(2)][/us/pl/99/399/s806/b/2], Aug. 27, 1986, [100 Stat. 886][/us/stat/100/886], added item 1051 “Disability and death compensation: dependents of members held as captives”.
+    [Pub. L. 99–399, title VIII][/us/pl/99/399/tVIII], § 806(b)(2), Aug. 27, 1986, [100 Stat. 886][/us/stat/100/886], added item 1051 “Disability and death compensation: dependents of members held as captives”.
 
-    1985—[Pub. L. 99–145, title XIII, § 1303(a)(6)][/us/pl/99/145/s1303/a/6], Nov. 8, 1985, [99 Stat. 739][/us/stat/99/739], substituted “Atmospheric” for “Atomospheric” in item 1043.
+    1985—[Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1303(a)(6), Nov. 8, 1985, [99 Stat. 739][/us/stat/99/739], substituted “Atmospheric” for “Atomospheric” in item 1043.
 
-    1984—[Pub. L. 98–525, title VI][/us/pl/98/525], §§ 651(b), 654(b), title VII, § 708(a)(2), title XIV, §§ 1401(d)(2), 1405(19)(B)(ii), Oct. 19, 1984, [98 Stat. 2549][/us/stat/98/2549], 2552, 2572, 2616, 2623, added items 1044 to 1050 and substituted “Member” for “member” in item 1034.
+    1984—[Pub. L. 98–525, title VI][/us/pl/98/525/tVI], §§ 651(b), 654(b), title VII, § 708(a)(2), title XIV, §§ 1401(d)(2), 1405(19)(B)(ii), Oct. 19, 1984, [98 Stat. 2549][/us/stat/98/2549], 2552, 2572, 2616, 2623, added items 1044 to 1050 and substituted “Member” for “member” in item 1034.
 
-    1983—[Pub. L. 98–94, title X, § 1007(b)(2)][/us/pl/98/94/s1007/b/2], Sept. 24, 1983, [97 Stat. 662][/us/stat/97/662], added item 1043.
+    1983—[Pub. L. 98–94, title X][/us/pl/98/94/tX], § 1007(b)(2), Sept. 24, 1983, [97 Stat. 662][/us/stat/97/662], added item 1043.
 
-    1982—[Pub. L. 97–258, § 2(b)(2)(A)][/us/pl/97/258/s2/b/2/A], Sept. 13, 1982, [96 Stat. 1052][/us/stat/96/1052], added item 1042.
+    1982—[Pub. L. 97–258][/us/pl/97/258], § 2(b)(2)(A), Sept. 13, 1982, [96 Stat. 1052][/us/stat/96/1052], added item 1042.
 
-    1980—[Pub. L. 96–513, title V, § 511(33)(B)][/us/pl/96/513/s511/33/B], Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922], redesignated item 1040 as added by [Pub. L. 90–285][/us/pl/90/285] as item 1041.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(33)(B), Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922], redesignated item 1040 as added by [Pub. L. 90–285][/us/pl/90/285] as item 1041.
 
-    1977—[Pub. L. 95–105, title V, § 509(d)(2)][/us/pl/95/105/s509/d/2], Aug. 17, 1977, [91 Stat. 860][/us/stat/91/860], struck out item 1032 “Dual capacity: Reserve accepting employment with foreign government or concern”.
+    1977—[Pub. L. 95–105, title V][/us/pl/95/105/tV], § 509(d)(2), Aug. 17, 1977, [91 Stat. 860][/us/stat/91/860], struck out item 1032 “Dual capacity: Reserve accepting employment with foreign government or concern”.
 
-    1968—[Pub. L. 90–235, § 7(a)(2)(B)][/us/pl/90/235/s7/a/2/B], Jan. 2, 1968, [81 Stat. 763][/us/stat/81/763], added item 1040: “Replacement of certificate of discharge”. Another item 1040: “Transportation of dependent patients”, was added by [Pub. L. 89–140, § 1(2)][/us/pl/89/140/s1/2], Aug. 28, 1965, [79 Stat. 579][/us/stat/79/579].
+    1968—[Pub. L. 90–235][/us/pl/90/235], § 7(a)(2)(B), Jan. 2, 1968, [81 Stat. 763][/us/stat/81/763], added item 1040: “Replacement of certificate of discharge”. Another item 1040: “Transportation of dependent patients”, was added by [Pub. L. 89–140][/us/pl/89/140], § 1(2), Aug. 28, 1965, [79 Stat. 579][/us/stat/79/579].
 
-    1966—[Pub. L. 89–538, § 1(2)][/us/pl/89/538/s1/2], Aug. 14, 1966, [80 Stat. 347][/us/stat/80/347], substituted “Deposits of savings” for “Enlisted members’ deposits” in item 1035.
+    1966—[Pub. L. 89–538][/us/pl/89/538], § 1(2), Aug. 14, 1966, [80 Stat. 347][/us/stat/80/347], substituted “Deposits of savings” for “Enlisted members’ deposits” in item 1035.
 
-    1965—[Pub. L. 89–140, § 1(2)][/us/pl/89/140/s1/2], Aug. 28, 1965, [79 Stat. 579][/us/stat/79/579], added item 1040 “Transportation of dependent patients”.
+    1965—[Pub. L. 89–140][/us/pl/89/140], § 1(2), Aug. 28, 1965, [79 Stat. 579][/us/stat/79/579], added item 1040 “Transportation of dependent patients”.
 
-    [Pub. L. 89–132, § 9(b)][/us/pl/89/132/s9/b], Aug. 21, 1965, [79 Stat. 548][/us/stat/79/548], added item 1040 “Free postage from combat zone” which was repealed by [Pub. L. 89–315, § 3(b)][/us/pl/89/315/s3/b], Nov. 1, 1965, [79 Stat. 1165][/us/stat/79/1165].
+    [Pub. L. 89–132][/us/pl/89/132], § 9(b), Aug. 21, 1965, [79 Stat. 548][/us/stat/79/548], added item 1040 “Free postage from combat zone” which was repealed by [Pub. L. 89–315][/us/pl/89/315], § 3(b), Nov. 1, 1965, [79 Stat. 1165][/us/stat/79/1165].
 
-    1961—[Pub. L. 87–165, § 1(2)][/us/pl/87/165/s1/2], Aug. 25, 1961, [75 Stat. 401][/us/stat/75/401], added item 1039.
+    1961—[Pub. L. 87–165][/us/pl/87/165], § 1(2), Aug. 25, 1961, [75 Stat. 401][/us/stat/75/401], added item 1039.
 
-    1959—[Pub. L. 86–160, § 1(2)][/us/pl/86/160/s1/2], Aug. 14, 1959, [73 Stat. 358][/us/stat/73/358], added item 1036.
+    1959—[Pub. L. 86–160][/us/pl/86/160], § 1(2), Aug. 14, 1959, [73 Stat. 358][/us/stat/73/358], added item 1036.
 
-    [Pub. L. 86–142, § 1(2)][/us/pl/86/142/s1/2], Aug. 7, 1959, [73 Stat. 289][/us/stat/73/289], added item 1038.
+    [Pub. L. 86–142][/us/pl/86/142], § 1(2), Aug. 7, 1959, [73 Stat. 289][/us/stat/73/289], added item 1038.
 
-    1958—[Pub. L. 85–861, § 1(24)(B)][/us/pl/85/861/s1/24/B], Sept. 2, 1958, [72 Stat. 1445][/us/stat/72/1445], added item 1037.
+    1958—[Pub. L. 85–861][/us/pl/85/861], § 1(24)(B), Sept. 2, 1958, [72 Stat. 1445][/us/stat/72/1445], added item 1037.
 
  __Protection of Rights of Conscience of Members of the Armed Forces and Chaplains of Such Members__ 
 
-[Pub. L. 112–239, div. A, title V, § 533][/us/pl/112/239/s533], Jan. 2, 2013, [126 Stat. 1727][/us/stat/126/1727], as amended by [Pub. L. 113–66, div. A, title V, § 532(a)][/us/pl/113/66/s532/a], Dec. 26, 2013, [127 Stat. 759][/us/stat/127/759], provided that:
+[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 533, Jan. 2, 2013, [126 Stat. 1727][/us/stat/126/1727], as amended by [Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 532(a), Dec. 26, 2013, [127 Stat. 759][/us/stat/127/759], provided that:
 
 >     “(a) __Protection of Rights of Conscience.—__ 
 
@@ -489,7 +489,7 @@
 
 >     The Secretary of Defense shall issue regulations implementing the protections afforded by this section.”
 
-\[[Pub. L. 113–66, div. A, title V, § 532(b)][/us/pl/113/66/s532/b], Dec. 26, 2013, [127 Stat. 759][/us/stat/127/759], provided that: 
+\[[Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 532(b), Dec. 26, 2013, [127 Stat. 759][/us/stat/127/759], provided that: 
 
 > “Not later than 90 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall prescribe the implementing regulations required by subsection (c) of such section \[[section 533 of Pub. L. 112–239][/us/pl/112/239/s533], set out above\]. In prescribing such regulations, the Secretary shall consult with the official military faith-group representatives who endorse military chaplains.”
 
@@ -497,13 +497,13 @@
 
  __Freedom of Conscience of Military Chaplains With Respect to the Performance of Marriages__ 
 
-[Pub. L. 112–81, div. A, title V, § 544][/us/pl/112/81/s544], Dec. 31, 2011, [125 Stat. 1412][/us/stat/125/1412], provided that: 
+[Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 544, Dec. 31, 2011, [125 Stat. 1412][/us/stat/125/1412], provided that: 
 
 > “A military chaplain who, as a matter of conscience or moral principle, does not wish to perform a marriage may not be required to do so.”
 
  __Prohibition on Infringing on the Individual Right to Lawfully Acquire, Possess, Own, Carry, and Otherwise Use Privately Owned Firearms, Ammunition, and Other Weapons__ 
 
-[Pub. L. 111–383, div. A, title X, § 1062][/us/pl/111/383/s1062], Jan. 7, 2011, [124 Stat. 4363][/us/stat/124/4363], as amended by [Pub. L. 112–239, div. A, title X, § 1057][/us/pl/112/239/s1057], Jan. 2, 2013, [126 Stat. 1938][/us/stat/126/1938], provided that:
+[Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1062, Jan. 7, 2011, [124 Stat. 4363][/us/stat/124/4363], as amended by [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1057, Jan. 2, 2013, [126 Stat. 1938][/us/stat/126/1938], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -553,7 +553,7 @@
 
  __Department of Defense Telecommunications Benefit__ 
 
-[Pub. L. 108–136, div. A, title III, § 344][/us/pl/108/136/s344], Nov. 24, 2003, [117 Stat. 1448][/us/stat/117/1448], as amended by [Pub. L. 108–375, div. A, title III, § 341][/us/pl/108/375/s341], Oct. 28, 2004, [118 Stat. 1857][/us/stat/118/1857]; [Pub. L. 109–163, div. A, title III, § 375][/us/pl/109/163/s375], Jan. 6, 2006, [119 Stat. 3213][/us/stat/119/3213]; [Pub. L. 109–364, div. A, title III, § 355(a)][/us/pl/109/364/s355/a]–(c), Oct. 17, 2006, [120 Stat. 2162][/us/stat/120/2162], 2163; [Pub. L. 111–383, div. A, title X, § 1075(g)(3)][/us/pl/111/383/s1075/g/3], Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376], provided that:
+[Pub. L. 108–136, div. A, title III][/us/pl/108/136/dA/tIII], § 344, Nov. 24, 2003, [117 Stat. 1448][/us/stat/117/1448], as amended by [Pub. L. 108–375, div. A, title III][/us/pl/108/375/dA/tIII], § 341, Oct. 28, 2004, [118 Stat. 1857][/us/stat/118/1857]; [Pub. L. 109–163, div. A, title III][/us/pl/109/163/dA/tIII], § 375, Jan. 6, 2006, [119 Stat. 3213][/us/stat/119/3213]; [Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 355(a)–(c), Oct. 17, 2006, [120 Stat. 2162][/us/stat/120/2162], 2163; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(g)(3), Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376], provided that:
 
 >     “(a)  __Provision of Benefit__  __.—__ 
 
@@ -610,123 +610,123 @@
 ----------
 ----------
 
-[/us/pl/113/66/s621/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Fa%2F2%2FB
+[/us/pl/113/66/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVI
 [/us/stat/127/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F783
-[/us/pl/112/81/s588/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs588%2Fb
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1437
-[/us/pl/111/383/s1204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1204%2Fb
+[/us/pl/111/383/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXII
 [/us/stat/124/4387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4387
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4637
-[/us/pl/110/181/s671/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs671%2Fb%2F2
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F184
-[/us/pl/109/364/s598/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs598%2Fb%2F2
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2237
-[/us/pl/108/375/s583/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs583%2Fa%2F2
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1929
-[/us/pl/108/136/s1222/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1222%2Fb
+[/us/pl/108/136/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtXII
 [/us/stat/117/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1652
-[/us/pl/107/314/s1201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1201%2Fa%2F2
+[/us/pl/107/314/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtXII
 [/us/stat/116/2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2663
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/105/85/s593/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs593%2Fa%2F2
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1763
-[/us/pl/104/106/s749/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs749%2Fa%2F2
+[/us/pl/104/106/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVII
 [/us/stat/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F389
-[/us/pl/104/106/s1504/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1504%2Fa%2F2
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F513
-[/us/pl/103/337/s531/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fg%2F2
-[/us/pl/103/337/s531/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fg%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2758
-[/us/pl/104/106/s1504/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1504%2Fa%2F2
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F513
-[/us/pl/103/337/s535/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs535%2Fc%2F2
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2763
-[/us/pl/103/337/s1070/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fb%2F4
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2856
-[/us/pl/103/160/s554/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs554%2Fa%2F2
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1662
-[/us/pl/103/160/s554/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs554%2Fa%2F2
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1666
-[/us/pl/103/337/s1070/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fb%2F4
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2856
-[/us/pl/102/484/s651/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs651%2Fb
+[/us/pl/102/484/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVI
 [/us/stat/106/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2426
-[/us/pl/102/190/s651/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs651%2Fa%2F2
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1386
-[/us/pl/102/25/s701/e/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Fe%2F8%2FB
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F115
-[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1557
-[/us/pl/101/189/s664/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs664%2Fa%2F3%2FB
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1466
-[/us/pl/100/456/s621/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs621%2Fa%2F2
+[/us/pl/100/456/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVI
 [/us/stat/102/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1983
-[/us/pl/100/370/s1/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs1%2Fc%2F2%2FB
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F841
-[/us/pl/100/26/s7/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fe%2F1%2FB
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F281
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3891
-[/us/pl/99/399/s806/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs806%2Fb%2F2
+[/us/pl/99/399/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVIII
 [/us/stat/100/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F886
-[/us/pl/99/145/s1303/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1303%2Fa%2F6
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F739
-[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVI
 [/us/stat/98/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2549
-[/us/pl/98/94/s1007/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1007%2Fb%2F2
+[/us/pl/98/94/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtX
 [/us/stat/97/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F662
-[/us/pl/97/258/s2/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F2%2FA
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1052
-[/us/pl/96/513/s511/33/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F33%2FB
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2922
 [/us/pl/90/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F285
-[/us/pl/95/105/s509/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2Fs509%2Fd%2F2
+[/us/pl/95/105/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F105%2FtV
 [/us/stat/91/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F860
-[/us/pl/90/235/s7/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs7%2Fa%2F2%2FB
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F763
-[/us/pl/89/140/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F140%2Fs1%2F2
+[/us/pl/89/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F140
 [/us/stat/79/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F579
-[/us/pl/89/538/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F538%2Fs1%2F2
+[/us/pl/89/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F538
 [/us/stat/80/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F347
-[/us/pl/89/140/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F140%2Fs1%2F2
+[/us/pl/89/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F140
 [/us/stat/79/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F579
-[/us/pl/89/132/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F132%2Fs9%2Fb
+[/us/pl/89/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F132
 [/us/stat/79/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F548
-[/us/pl/89/315/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F315%2Fs3%2Fb
+[/us/pl/89/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F315
 [/us/stat/79/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1165
-[/us/pl/87/165/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F165%2Fs1%2F2
+[/us/pl/87/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F165
 [/us/stat/75/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F401
-[/us/pl/86/160/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F160%2Fs1%2F2
+[/us/pl/86/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F160
 [/us/stat/73/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F358
-[/us/pl/86/142/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F142%2Fs1%2F2
+[/us/pl/86/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F142
 [/us/stat/73/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F289
-[/us/pl/85/861/s1/24/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F24%2FB
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1445
-[/us/pl/112/239/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs533
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1727
-[/us/pl/113/66/s532/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs532%2Fa
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F759
-[/us/pl/113/66/s532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs532%2Fb
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F759
 [/us/pl/112/239/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs533
-[/us/pl/112/81/s544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs544
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1412
-[/us/pl/111/383/s1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1062
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4363
-[/us/pl/112/239/s1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1057
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1938
-[/us/pl/108/136/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs344
+[/us/pl/108/136/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIII
 [/us/stat/117/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1448
-[/us/pl/108/375/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs341
+[/us/pl/108/375/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIII
 [/us/stat/118/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1857
-[/us/pl/109/163/s375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs375
+[/us/pl/109/163/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIII
 [/us/stat/119/3213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3213
-[/us/pl/109/364/s355/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs355%2Fa
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2162
-[/us/pl/111/383/s1075/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fg%2F3
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4376
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
 

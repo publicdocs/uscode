@@ -21,7 +21,7 @@
 
     (c) When the Army National Guard of the United States is ordered to active duty, any officer of the Army National Guard who is not a Reserve of the Army may be appointed by the President as a Reserve for service as a member of the Army National Guard of the United States in the grade that he holds in the Army National Guard.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 193][/us/stat/70A/193], § 3351; renumbered § 12211, [Pub. L. 103–337, div. A, title XVI, § 1662(c)(3)][/us/pl/103/337/s1662/c/3], Oct. 5, 1994, [108 Stat. 2990][/us/stat/108/2990]; [Pub. L. 104–106, div. A, title XV, § 1501(b)(13)(A)][/us/pl/104/106/s1501/b/13/A], Feb. 10, 1996, [110 Stat. 496][/us/stat/110/496].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 193][/us/stat/70A/193], § 3351; renumbered § 12211, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(c)(3), Oct. 5, 1994, [108 Stat. 2990][/us/stat/108/2990]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(13)(A), Feb. 10, 1996, [110 Stat. 496][/us/stat/110/496].)
 
 <table>
 
@@ -100,9 +100,9 @@ July 9, 1952, ch. 608, §§ 703 (less (a)), 704 (2d sentence), 705(a) (last 39
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F193
-[/us/pl/103/337/s1662/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fc%2F3
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2990
-[/us/pl/104/106/s1501/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F13%2FA
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F496
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

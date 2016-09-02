@@ -139,11 +139,11 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–291, div. A, title IX, § 916(f)(2)][/us/pl/113/291/s916/f/2], Dec. 19, 2014, [128 Stat. 3479][/us/stat/128/3479], added item 1501a and substituted “Program to resolve missing person cases” for “Program to resolve preenactment missing person cases” in item 1509.
+    2014—[Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 916(f)(2), Dec. 19, 2014, [128 Stat. 3479][/us/stat/128/3479], added item 1501a and substituted “Program to resolve missing person cases” for “Program to resolve preenactment missing person cases” in item 1509.
 
-    2009—[Pub. L. 111–84, div. A, title V, § 541(b)][/us/pl/111/84/s541/b], Oct. 28, 2009, [123 Stat. 2298][/us/stat/123/2298], substituted “Program to resolve preenactment missing person cases” for “Preenactment cases” in item 1509.
+    2009—[Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 541(b), Oct. 28, 2009, [123 Stat. 2298][/us/stat/123/2298], substituted “Program to resolve preenactment missing person cases” for “Preenactment cases” in item 1509.
 
-    1996—[Pub. L. 104–201, div. A, title V, § 578(f)(2)(B)][/us/pl/104/201/s578/f/2/B], Sept. 23, 1996, [110 Stat. 2537][/us/stat/110/2537], struck out “, special interest” after “Preenactment” in item 1509.
+    1996—[Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 578(f)(2)(B), Sept. 23, 1996, [110 Stat. 2537][/us/stat/110/2537], struck out “, special interest” after “Preenactment” in item 1509.
 
 ----------
 
@@ -152,11 +152,11 @@
 ----------
 ----------
 
-[/us/pl/113/291/s916/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Ff%2F2
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3479
-[/us/pl/111/84/s541/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs541%2Fb
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2298
-[/us/pl/104/201/s578/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs578%2Ff%2F2%2FB
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2537
 
 

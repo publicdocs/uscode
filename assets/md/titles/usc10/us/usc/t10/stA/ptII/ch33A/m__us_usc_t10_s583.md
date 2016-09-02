@@ -47,7 +47,7 @@
 
     (4) The active-duty list referred to in [section 573(b) of this title][/us/usc/t10/s573/b] includes the active-duty promotion list established by [section 41a of title 14][/us/usc/t14/s41a].
 
-(Added [Pub. L. 102–190, div. A, title XI, § 1112(a)][/us/pl/102/190/s1112/a], Dec. 5, 1991, [105 Stat. 1501][/us/stat/105/1501]; amended [Pub. L. 103–337, div. A, title V, § 541(f)(7)][/us/pl/103/337/s541/f/7], Oct. 5, 1994, [108 Stat. 2767][/us/stat/108/2767].)
+(Added [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1112(a), Dec. 5, 1991, [105 Stat. 1501][/us/stat/105/1501]; amended [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 541(f)(7), Oct. 5, 1994, [108 Stat. 2767][/us/stat/108/2767].)
 
  __Amendments__ 
 
@@ -66,9 +66,9 @@
 
 [/us/usc/t10/s573/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs573%2Fb
 [/us/usc/t14/s41a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs41a
-[/us/pl/102/190/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1112%2Fa
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1501
-[/us/pl/103/337/s541/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Ff%2F7
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2767
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

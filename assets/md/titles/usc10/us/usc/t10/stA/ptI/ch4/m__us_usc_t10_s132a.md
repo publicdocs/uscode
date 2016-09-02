@@ -27,11 +27,11 @@
 
     The Deputy Chief Management Officer takes precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, and the Under Secretaries of Defense.
 
-(Added [Pub. L. 111–383, div. A, title IX, § 901(c)(1)][/us/pl/111/383/s901/c/1], Jan. 7, 2011, [124 Stat. 4320][/us/stat/124/4320]; amended [Pub. L. 113–291, div. A, title IX, § 901(a)(1)][/us/pl/113/291/s901/a/1], Dec. 19, 2014, [128 Stat. 3462][/us/stat/128/3462].)
+(Added [Pub. L. 111–383, div. A, title IX][/us/pl/111/383/dA/tIX], § 901(c)(1), Jan. 7, 2011, [124 Stat. 4320][/us/stat/124/4320]; amended [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(a)(1), Dec. 19, 2014, [128 Stat. 3462][/us/stat/128/3462].)
 
  __Amendment of Section__ 
 
-    [Pub. L. 113–291, div. A, title IX, § 901(a)(1)][/us/pl/113/291/s901/a/1], Dec. 19, 2014, [128 Stat. 3462][/us/stat/128/3462], provided that, effective on Feb. 1, 2017, this section is amended to read as follows:
+    [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(a)(1), Dec. 19, 2014, [128 Stat. 3462][/us/stat/128/3462], provided that, effective on Feb. 1, 2017, this section is amended to read as follows:
 
     § 132a. Under Secretary of Defense for Business Management and Information
 
@@ -65,7 +65,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    [Pub. L. 113–291, div. A, title IX, § 901(a)(1)][/us/pl/113/291/s901/a/1], Dec. 19, 2014, [128 Stat. 3462][/us/stat/128/3462], provided that the amendment made by section 901(a)(1) is effective Feb. 1, 2017.
+    [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(a)(1), Dec. 19, 2014, [128 Stat. 3462][/us/stat/128/3462], provided that the amendment made by section 901(a)(1) is effective Feb. 1, 2017.
 
  __Effective Date__ 
 
@@ -79,15 +79,15 @@
 ----------
 
 [/us/usc/t10/s132/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs132%2Fc
-[/us/pl/111/383/s901/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fc%2F1
+[/us/pl/111/383/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIX
 [/us/stat/124/4320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4320
-[/us/pl/113/291/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fa%2F1
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3462
-[/us/pl/113/291/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fa%2F1
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3462
 [/us/usc/t10/s132/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs132%2Fc
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
-[/us/pl/113/291/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fa%2F1
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3462
 [/us/pl/111/383/s901/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fp
 [/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131

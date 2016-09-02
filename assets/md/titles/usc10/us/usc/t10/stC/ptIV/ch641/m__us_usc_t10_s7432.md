@@ -29,7 +29,7 @@
 
     (b) Contracts under this chapter providing for the obligation of funds may be entered into for a period of five years, renewable for an additional five-year period; however, such contracts may obligate funds only to the extent that such funds are made available in appropriation Acts.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 461][/us/stat/70A/461]; [Pub. L. 87–796, § 1(8)][/us/pl/87/796/s1/8], Oct. 11, 1962, [76 Stat. 905][/us/stat/76/905]; [Pub. L. 94–258, title II, § 201(13)][/us/pl/94/258/s201/13], Apr. 5, 1976, [90 Stat. 312][/us/stat/90/312]; [Pub. L. 96–137, § 3(b)(1)][/us/pl/96/137/s3/b/1], Dec. 12, 1979, [93 Stat. 1061][/us/stat/93/1061]; [Pub. L. 96–513, title V, § 513(35)][/us/pl/96/513/s513/35], Dec. 12, 1980, [94 Stat. 2934][/us/stat/94/2934].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 461][/us/stat/70A/461]; [Pub. L. 87–796][/us/pl/87/796], § 1(8), Oct. 11, 1962, [76 Stat. 905][/us/stat/76/905]; [Pub. L. 94–258, title II][/us/pl/94/258/tII], § 201(13), Apr. 5, 1976, [90 Stat. 312][/us/stat/90/312]; [Pub. L. 96–137][/us/pl/96/137], § 3(b)(1), Dec. 12, 1979, [93 Stat. 1061][/us/stat/93/1061]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(35), Dec. 12, 1980, [94 Stat. 2934][/us/stat/94/2934].)
 
 <table>
 
@@ -101,7 +101,7 @@ June 4, 1920, ch. 228 (3d par., less 2d sentence; 5th par., 124th through 168th 
 
  __Abolition of Naval Petroleum Reserves Special Account__ 
 
-[Pub. L. 96–137, § 3(c)][/us/pl/96/137/s3/c], Dec. 12, 1979, [93 Stat. 1062][/us/stat/93/1062], provided that: 
+[Pub. L. 96–137][/us/pl/96/137], § 3(c), Dec. 12, 1979, [93 Stat. 1062][/us/stat/93/1062], provided that: 
 
 > “The naval petroleum reserves special account established by [section 7432 of title 10][/us/usc/t10/s7432], United States Code, as in existence on the day before the date of the enactment of this Act \[Dec. 12, 1979\], is abolished. Unappropriated balances of funds in the naval petroleum reserves special account on the date of the enactment of this Act shall be transferred on the books of the Treasury into miscellaneous receipts, and all moneys accruing to the United States after such date under chapter 641 of title 10, United States Code, shall be covered into the Treasury as miscellaneous receipts.”
 
@@ -114,13 +114,13 @@ June 4, 1920, ch. 228 (3d par., less 2d sentence; 5th par., 124th through 168th 
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F461
-[/us/pl/87/796/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F796%2Fs1%2F8
+[/us/pl/87/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F796
 [/us/stat/76/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F905
-[/us/pl/94/258/s201/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2Fs201%2F13
+[/us/pl/94/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2FtII
 [/us/stat/90/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F312
-[/us/pl/96/137/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F137%2Fs3%2Fb%2F1
+[/us/pl/96/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F137
 [/us/stat/93/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1061
-[/us/pl/96/513/s513/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F35
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2934
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F137
@@ -132,7 +132,7 @@ June 4, 1920, ch. 228 (3d par., less 2d sentence; 5th par., 124th through 168th 
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/96/137/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F137%2Fs3%2Fc
+[/us/pl/96/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F137
 [/us/stat/93/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1062
 [/us/usc/t10/s7432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7432
 

@@ -171,13 +171,13 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–81, div. A, title V, § 591(a)(2)][/us/pl/112/81/s591/a/2], Dec. 31, 2011, [125 Stat. 1441][/us/stat/125/1441], added item for chapter 446.
+    2011—[Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 591(a)(2), Dec. 31, 2011, [125 Stat. 1441][/us/stat/125/1441], added item for chapter 446.
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 344(a)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–71, added item for chapter 434.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 344(a)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–71, added item for chapter 434.
 
-    1999—[Pub. L. 106–65, div. A, title VII, § 721(c)(7)][/us/pl/106/65/s721/c/7], Oct. 5, 1999, [113 Stat. 695][/us/stat/113/695], substituted “Disposition” for “Inquests; Disposition” and “4712” for “4711” in item for chapter 445.
+    1999—[Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 721(c)(7), Oct. 5, 1999, [113 Stat. 695][/us/stat/113/695], substituted “Disposition” for “Inquests; Disposition” and “4712” for “4711” in item for chapter 445.
 
-    1993—[Pub. L. 103–160, div. A, title VIII, § 828(b)(2)][/us/pl/103/160/s828/b/2], Nov. 30, 1993, [107 Stat. 1714][/us/stat/107/1714], struck out item for chapter 431 “Industrial Mobilization, Research, and Development”.
+    1993—[Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 828(b)(2), Nov. 30, 1993, [107 Stat. 1714][/us/stat/107/1714], struck out item for chapter 431 “Industrial Mobilization, Research, and Development”.
 
 ----------
 
@@ -186,13 +186,13 @@
 ----------
 ----------
 
-[/us/pl/112/81/s591/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs591%2Fa%2F2
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1441
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/65/s721/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs721%2Fc%2F7
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F695
-[/us/pl/103/160/s828/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs828%2Fb%2F2
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1714
 
 

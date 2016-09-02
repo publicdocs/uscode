@@ -59,11 +59,11 @@
 
         (2) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
 
-(Added [Pub. L. 113–291, div. A, title XII, § 1204(a)(1)][/us/pl/113/291/s1204/a/1], Dec. 19, 2014, [128 Stat. 3531][/us/stat/128/3531].)
+(Added [Pub. L. 113–291, div. A, title XII][/us/pl/113/291/dA/tXII], § 1204(a)(1), Dec. 19, 2014, [128 Stat. 3531][/us/stat/128/3531].)
 
  __Annual Reports__ 
 
-[Pub. L. 113–291, div. A, title XII, § 1204(b)][/us/pl/113/291/s1204/b], Dec. 19, 2014, [128 Stat. 3533][/us/stat/128/3533], provided that:
+[Pub. L. 113–291, div. A, title XII][/us/pl/113/291/dA/tXII], § 1204(b), Dec. 19, 2014, [128 Stat. 3533][/us/stat/128/3533], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -94,9 +94,9 @@
 ----------
 ----------
 
-[/us/pl/113/291/s1204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1204%2Fa%2F1
+[/us/pl/113/291/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXII
 [/us/stat/128/3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3531
-[/us/pl/113/291/s1204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1204%2Fb
+[/us/pl/113/291/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXII
 [/us/stat/128/3533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3533
 [/us/usc/t10/s2249e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2249e
 [/us/usc/t10/s2249e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2249e

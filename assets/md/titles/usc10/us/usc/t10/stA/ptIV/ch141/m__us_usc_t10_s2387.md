@@ -33,7 +33,7 @@
 
         (6) landing forces and expeditions.
 
-(Added [Pub. L. 85–861, § 1(45)][/us/pl/85/861/s1/45], Sept. 2, 1958, [72 Stat. 1458][/us/stat/72/1458].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(45), Sept. 2, 1958, [72 Stat. 1458][/us/stat/72/1458].)
 
 <table>
 
@@ -102,7 +102,7 @@ July 13, 1955, ch. 358, § 614, 69 Stat. 317.  </td>
 ----------
 ----------
 
-[/us/pl/85/861/s1/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F45
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1458
 
 

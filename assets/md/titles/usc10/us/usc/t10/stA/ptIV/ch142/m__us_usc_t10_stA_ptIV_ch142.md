@@ -107,15 +107,15 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–66, div. A, title XVI, § 1611(a)(2)][/us/pl/113/66/s1611/a/2], Dec. 26, 2013, [127 Stat. 947][/us/stat/127/947], added item 2419 and redesignated former item 2419 as 2420.
+    2013—[Pub. L. 113–66, div. A, title XVI][/us/pl/113/66/dA/tXVI], § 1611(a)(2), Dec. 26, 2013, [127 Stat. 947][/us/stat/127/947], added item 2419 and redesignated former item 2419 as 2420.
 
-    1993—[Pub. L. 103–35, title II, § 201(d)(2)][/us/pl/103/35/s201/d/2], May 31, 1993, [107 Stat. 99][/us/stat/107/99], made technical amendment to items 2418 and 2419.
+    1993—[Pub. L. 103–35, title II][/us/pl/103/35/tII], § 201(d)(2), May 31, 1993, [107 Stat. 99][/us/stat/107/99], made technical amendment to items 2418 and 2419.
 
-    1992—[Pub. L. 102–484, div. D, title XLII, § 4236(a)(2)][/us/pl/102/484/s4236/a/2], Oct. 23, 1992, [106 Stat. 2691][/us/stat/106/2691], added item 2418 and redesignated former item 2418 as 2419.
+    1992—[Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4236(a)(2), Oct. 23, 1992, [106 Stat. 2691][/us/stat/106/2691], added item 2418 and redesignated former item 2418 as 2419.
 
-    1990—[Pub. L. 101–510, div. A, title VIII, § 814(a)(2)][/us/pl/101/510/s814/a/2], Nov. 5, 1990, [104 Stat. 1597][/us/stat/104/1597], added item 2417 and redesignated former item 2417 as 2418.
+    1990—[Pub. L. 101–510, div. A, title VIII][/us/pl/101/510/dA/tVIII], § 814(a)(2), Nov. 5, 1990, [104 Stat. 1597][/us/stat/104/1597], added item 2417 and redesignated former item 2417 as 2418.
 
-    1986—[Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 957(a)(2)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–175, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 957(a)(2)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–175; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 957(a)(2), Nov. 14, 1986, [100 Stat. 3955][/us/stat/100/3955], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], amended analysis identically adding item 2416 and redesignating former item 2416 as 2417.
+    1986—[Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title X, § 957(a)(2)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–175, and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 957(a)(2)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–175; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661/dA/tIX], formerly title IV, § 957(a)(2), Nov. 14, 1986, [100 Stat. 3955][/us/stat/100/3955], renumbered title IX, [Pub. L. 100–26][/us/pl/100/26], § 3(5), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], amended analysis identically adding item 2416 and redesignating former item 2416 as 2417.
 
 ----------
 
@@ -124,21 +124,21 @@
 ----------
 ----------
 
-[/us/pl/113/66/s1611/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1611%2Fa%2F2
+[/us/pl/113/66/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVI
 [/us/stat/127/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F947
-[/us/pl/103/35/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fd%2F2
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F99
-[/us/pl/102/484/s4236/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4236%2Fa%2F2
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2691
-[/us/pl/101/510/s814/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs814%2Fa%2F2
+[/us/pl/101/510/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVIII
 [/us/stat/104/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1597
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIX
 [/us/stat/100/3955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3955
-[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
 
 

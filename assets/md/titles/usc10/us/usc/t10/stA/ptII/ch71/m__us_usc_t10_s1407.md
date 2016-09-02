@@ -97,11 +97,11 @@
 
         In the case of a member who retires within three years after having been reduced in grade as described in paragraph (2)(A), who retires in an enlisted grade that is lower than the grade from which reduced, and who would be subject to paragraph (1) but for a subsequent promotion to a higher enlisted grade or a subsequent appointment to a warrant or commissioned grade, the rates of basic pay used in the computation of the member’s high-36 average for the period of the member’s service in a grade higher than the grade in which retired shall be the rates of pay that would apply if the member had been serving for that period in the grade in which retired.
 
-(Added [Pub. L. 99–348, title I, § 104(b)][/us/pl/99/348/s104/b], July 1, 1986, [100 Stat. 689][/us/stat/100/689]; amended [Pub. L. 101–189, div. A, title VI, § 651(a)][/us/pl/101/189/s651/a], (b)(2), Nov. 29, 1989, [103 Stat. 1459][/us/stat/103/1459], 1460; [Pub. L. 103–337, div. A, title XVI, § 1662(j)(5)][/us/pl/103/337/s1662/j/5], Oct. 5, 1994, [108 Stat. 3004][/us/stat/108/3004]; [Pub. L. 104–106, div. A, title XV, § 1501(c)(15)][/us/pl/104/106/s1501/c/15], Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 651\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–163; [Pub. L. 107–107, div. A, title X, § 1048(c)(8)][/us/pl/107/107/s1048/c/8], Dec. 28, 2001, [115 Stat. 1226][/us/stat/115/1226]; [Pub. L. 108–375, div. A, title VI, § 641(a)][/us/pl/108/375/s641/a], Oct. 28, 2004, [118 Stat. 1957][/us/stat/118/1957]; [Pub. L. 111–84, div. A, title VI, § 643(d)(2)][/us/pl/111/84/s643/d/2], Oct. 28, 2009, [123 Stat. 2367][/us/stat/123/2367].)
+(Added [Pub. L. 99–348, title I][/us/pl/99/348/tI], § 104(b), July 1, 1986, [100 Stat. 689][/us/stat/100/689]; amended [Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 651(a), (b)(2), Nov. 29, 1989, [103 Stat. 1459][/us/stat/103/1459], 1460; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(j)(5), Oct. 5, 1994, [108 Stat. 3004][/us/stat/108/3004]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(c)(15), Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 651\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–163; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(c)(8), Dec. 28, 2001, [115 Stat. 1226][/us/stat/115/1226]; [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 641(a), Oct. 28, 2004, [118 Stat. 1957][/us/stat/118/1957]; [Pub. L. 111–84, div. A, title VI][/us/pl/111/84/dA/tVI], § 643(d)(2), Oct. 28, 2009, [123 Stat. 2367][/us/stat/123/2367].)
 
  __Prior Provisions__ 
 
-    A prior section 1407, added [Pub. L. 96–342, title VIII, § 813(a)(1)][/us/pl/96/342/s813/a/1], Sept. 8, 1980, [94 Stat. 1100][/us/stat/94/1100]; amended [Pub. L. 96–513, title I, § 113(c)][/us/pl/96/513/s113/c], title V, §§ 501(21), 511(53), Dec. 12, 1980, [94 Stat. 2877][/us/stat/94/2877], 2908, 2925, related to determination of retired base pay, prior to repeal by [Pub. L. 99–348, § 104(b)][/us/pl/99/348/s104/b].
+    A prior section 1407, added [Pub. L. 96–342, title VIII][/us/pl/96/342/tVIII], § 813(a)(1), Sept. 8, 1980, [94 Stat. 1100][/us/stat/94/1100]; amended [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 113(c), title V, §§ 501(21), 511(53), Dec. 12, 1980, [94 Stat. 2877][/us/stat/94/2877], 2908, 2925, related to determination of retired base pay, prior to repeal by [Pub. L. 99–348][/us/pl/99/348], § 104(b).
 
  __Amendments__ 
 
@@ -111,31 +111,31 @@
 
     2001—Subsec. (f)(2). [Pub. L. 107–107][/us/pl/107/107] substituted “October 30, 2000—” for “the date of the enactment of this subsection—” in introductory provisions.
 
-    2000—Subsec. (b). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 651(1)\], substituted “Except as provided in subsection (f), the retired pay base” for “The retired pay base”.
+    2000—Subsec. (b). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 651(1)\], substituted “Except as provided in subsection (f), the retired pay base” for “The retired pay base”.
 
-    Subsec. (f). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 651(2)\], added subsec. (f).
+    Subsec. (f). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 651(2)\], added subsec. (f).
 
-    1996—Subsec. (c)(1). [Pub. L. 104–106, § 1501(c)(15)(A)][/us/pl/104/106/s1501/c/15/A], substituted “section 12731” for “section 1331”.
+    1996—Subsec. (c)(1). [Pub. L. 104–106][/us/pl/104/106], § 1501(c)(15)(A), substituted “section 12731” for “section 1331”.
 
     Subsec. (d)(1). [Pub. L. 104–106][/us/pl/104/106] substituted in heading “chapter 1223” for “chapter 67” and in text “section 12731” for “section 1331”.
 
-    1994—Subsec. (c)(2)(B). [Pub. L. 103–337, § 1662(j)(5)(A)][/us/pl/103/337/s1662/j/5/A], which directed substitution of “chapter 1223” for “chapter 67”, could not be executed because the words “chapter 67” did not appear subsequent to amendment by [Pub. L. 101–189, § 651(a)(2)][/us/pl/101/189/s651/a/2], (4). See 1989 Amendment note below.
+    1994—Subsec. (c)(2)(B). [Pub. L. 103–337][/us/pl/103/337], § 1662(j)(5)(A), which directed substitution of “chapter 1223” for “chapter 67”, could not be executed because the words “chapter 67” did not appear subsequent to amendment by [Pub. L. 101–189][/us/pl/101/189], § 651(a)(2), (4). See 1989 Amendment note below.
 
-    Subsec. (f)(2). [Pub. L. 103–337, § 1662(j)(5)(B)][/us/pl/103/337/s1662/j/5/B], which directed amendment of subsec. (f)(2) by substituting “Chapter 1223” for “Chapter 67” in heading and “section 12731” for “section 1331” in text, could not be executed because of previous repeal of subsec. (f) by [Pub. L. 101–189, § 651(a)(2)][/us/pl/101/189/s651/a/2]. See 1989 Amendment note below.
+    Subsec. (f)(2). [Pub. L. 103–337][/us/pl/103/337], § 1662(j)(5)(B), which directed amendment of subsec. (f)(2) by substituting “Chapter 1223” for “Chapter 67” in heading and “section 12731” for “section 1331” in text, could not be executed because of previous repeal of subsec. (f) by [Pub. L. 101–189][/us/pl/101/189], § 651(a)(2). See 1989 Amendment note below.
 
-    1989—Subsec. (b). [Pub. L. 101–189, § 651(a)(1)][/us/pl/101/189/s651/a/1], (b)(2), substituted “person” for “member”, “person’s” for “member’s”, and “subsection (c) or (d)” for “subsection (c)”.
+    1989—Subsec. (b). [Pub. L. 101–189][/us/pl/101/189], § 651(a)(1), (b)(2), substituted “person” for “member”, “person’s” for “member’s”, and “subsection (c) or (d)” for “subsection (c)”.
 
-    Subsec. (c). [Pub. L. 101–189, § 651(a)(2)][/us/pl/101/189/s651/a/2], (4), added subsec. (c) and struck out former subsec. (c) which related to computation of high-three average.
+    Subsec. (c). [Pub. L. 101–189][/us/pl/101/189], § 651(a)(2), (4), added subsec. (c) and struck out former subsec. (c) which related to computation of high-three average.
 
-    Subsec. (d). [Pub. L. 101–189, § 651(a)(4)][/us/pl/101/189/s651/a/4], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 101–189][/us/pl/101/189], § 651(a)(4), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 101–189, § 651(a)(2)][/us/pl/101/189/s651/a/2], (3), redesignated subsec. (d) as (e) and struck out former subsec. (e) which related to special rules for short-term disability retirees.
+    Subsec. (e). [Pub. L. 101–189][/us/pl/101/189], § 651(a)(2), (3), redesignated subsec. (d) as (e) and struck out former subsec. (e) which related to special rules for short-term disability retirees.
 
-    Subsecs. (f), (g). [Pub. L. 101–189, § 651(a)(2)][/us/pl/101/189/s651/a/2], struck out subsec. (f) which related to special rule for members retiring with non-regular service, and subsec. (g) which defined the term “years of creditable service”.
+    Subsecs. (f), (g). [Pub. L. 101–189][/us/pl/101/189], § 651(a)(2), struck out subsec. (f) which related to special rule for members retiring with non-regular service, and subsec. (g) which defined the term “years of creditable service”.
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–375, div. A, title VI, § 641(b)][/us/pl/108/375/s641/b], Oct. 28, 2004, [118 Stat. 1957][/us/stat/118/1957], provided that: 
+[Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 641(b), Oct. 28, 2004, [118 Stat. 1957][/us/stat/118/1957], provided that: 
 
 > “Paragraph (3) of [section 1407(c) of title 10][/us/usc/t10/s1407/c], United States Code, as added by subsection (a), shall take effect—
 
@@ -145,7 +145,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–106, div. A, title XV, § 1501(c)][/us/pl/104/106/s1501/c], Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498], provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as originally enacted.
+    [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(c), Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498], provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as originally enacted.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -164,48 +164,48 @@
 [/us/usc/t10/s6330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6330
 [/us/usc/t10/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1406
 [/us/usc/t10/s1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1370
-[/us/pl/99/348/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs104%2Fb
+[/us/pl/99/348/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtI
 [/us/stat/100/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F689
-[/us/pl/101/189/s651/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs651%2Fa
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1459
-[/us/pl/103/337/s1662/j/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fj%2F5
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3004
-[/us/pl/104/106/s1501/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc%2F15
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F499
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s1048/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fc%2F8
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1226
-[/us/pl/108/375/s641/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs641%2Fa
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1957
-[/us/pl/111/84/s643/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs643%2Fd%2F2
+[/us/pl/111/84/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVI
 [/us/stat/123/2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2367
-[/us/pl/96/342/s813/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs813%2Fa%2F1
+[/us/pl/96/342/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtVIII
 [/us/stat/94/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1100
-[/us/pl/96/513/s113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs113%2Fc
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2877
-[/us/pl/99/348/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs104%2Fb
+[/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/usc/t10/s12741/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12741%2Fa
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/104/106/s1501/c/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc%2F15%2FA
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/337/s1662/j/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fj%2F5%2FA
-[/us/pl/101/189/s651/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs651%2Fa%2F2
-[/us/pl/103/337/s1662/j/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fj%2F5%2FB
-[/us/pl/101/189/s651/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs651%2Fa%2F2
-[/us/pl/101/189/s651/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs651%2Fa%2F1
-[/us/pl/101/189/s651/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs651%2Fa%2F2
-[/us/pl/101/189/s651/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs651%2Fa%2F4
-[/us/pl/101/189/s651/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs651%2Fa%2F2
-[/us/pl/101/189/s651/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs651%2Fa%2F2
-[/us/pl/108/375/s641/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs641%2Fb
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1957
 [/us/usc/t10/s1407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1407%2Fc
-[/us/pl/104/106/s1501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F498
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

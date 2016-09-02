@@ -171,13 +171,13 @@
 
  __Amendments__ 
 
-    1999—[Pub. L. 106–65, div. A, title VI, § 655(b)][/us/pl/106/65/s655/b], Oct. 5, 1999, [113 Stat. 667][/us/stat/113/667], added item 1436a.
+    1999—[Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 655(b), Oct. 5, 1999, [113 Stat. 667][/us/stat/113/667], added item 1436a.
 
-    1991—[Pub. L. 102–190, div. A, title VI, § 654(b)(2)][/us/pl/102/190/s654/b/2], Dec. 5, 1991, [105 Stat. 1390][/us/stat/105/1390], added item 1444a.
+    1991—[Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], § 654(b)(2), Dec. 5, 1991, [105 Stat. 1390][/us/stat/105/1390], added item 1444a.
 
-    1972—[Pub. L. 92–425, § 1(2)(B)][/us/pl/92/425/s1/2/B], (C), Sept. 21, 1972, [86 Stat. 706][/us/stat/86/706], struck out item 1443 “Board of Actuaries”, and struck out “reports to Congress” from item 1444.
+    1972—[Pub. L. 92–425][/us/pl/92/425], § 1(2)(B), (C), Sept. 21, 1972, [86 Stat. 706][/us/stat/86/706], struck out item 1443 “Board of Actuaries”, and struck out “reports to Congress” from item 1444.
 
-    1961—[Pub. L. 87–381, § 6(2)][/us/pl/87/381/s6/2], (3), Oct. 4, 1961, [75 Stat. 812][/us/stat/75/812], inserted “; withdrawal for severe financial hardship” in item 1436, and added items 1445 and 1446.
+    1961—[Pub. L. 87–381][/us/pl/87/381], § 6(2), (3), Oct. 4, 1961, [75 Stat. 812][/us/stat/75/812], inserted “; withdrawal for severe financial hardship” in item 1436, and added items 1445 and 1446.
 
 ----------
 
@@ -186,13 +186,13 @@
 ----------
 ----------
 
-[/us/pl/106/65/s655/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs655%2Fb
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F667
-[/us/pl/102/190/s654/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs654%2Fb%2F2
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1390
-[/us/pl/92/425/s1/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425%2Fs1%2F2%2FB
+[/us/pl/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425
 [/us/stat/86/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F706
-[/us/pl/87/381/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F381%2Fs6%2F2
+[/us/pl/87/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F381
 [/us/stat/75/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F812
 
 

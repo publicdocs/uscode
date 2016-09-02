@@ -55,7 +55,7 @@
 
         (8) Subsistence.
 
-(Added [Pub. L. 102–484, div. A, title VIII, § 840(a)(1)][/us/pl/102/484/s840/a/1], Oct. 23, 1992, [106 Stat. 2466][/us/stat/106/2466]; amended [Pub. L. 104–106, div. D, title XLIII, § 4321(b)(16)][/us/pl/104/106/s4321/b/16], Feb. 10, 1996, [110 Stat. 673][/us/stat/110/673]; [Pub. L. 111–350, § 5(b)(30)][/us/pl/111/350/s5/b/30], Jan. 4, 2011, [124 Stat. 3845][/us/stat/124/3845].)
+(Added [Pub. L. 102–484, div. A, title VIII][/us/pl/102/484/dA/tVIII], § 840(a)(1), Oct. 23, 1992, [106 Stat. 2466][/us/stat/106/2466]; amended [Pub. L. 104–106, div. D, title XLIII][/us/pl/104/106/dD/tXLIII], § 4321(b)(16), Feb. 10, 1996, [110 Stat. 673][/us/stat/110/673]; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(30), Jan. 4, 2011, [124 Stat. 3845][/us/stat/124/3845].)
 
  __Amendments__ 
 
@@ -69,7 +69,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–484, div. A, title VIII, § 840(b)][/us/pl/102/484/s840/b], Oct. 23, 1992, [106 Stat. 2467][/us/stat/106/2467], provided that: 
+[Pub. L. 102–484, div. A, title VIII][/us/pl/102/484/dA/tVIII], § 840(b), Oct. 23, 1992, [106 Stat. 2467][/us/stat/106/2467], provided that: 
 
 > “[Section 2410g of title 10][/us/usc/t10/s2410g], United States Code (as added by subsection (a)), shall take effect 90 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
 
@@ -82,11 +82,11 @@
 
 [/us/usc/t10/s2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2505
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
-[/us/pl/102/484/s840/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs840%2Fa%2F1
+[/us/pl/102/484/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVIII
 [/us/stat/106/2466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2466
-[/us/pl/104/106/s4321/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4321%2Fb%2F16
+[/us/pl/104/106/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdD%2FtXLIII
 [/us/stat/110/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F673
-[/us/pl/111/350/s5/b/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F30
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3845
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
@@ -96,7 +96,7 @@
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/106/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4401
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/102/484/s840/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs840%2Fb
+[/us/pl/102/484/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVIII
 [/us/stat/106/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2467
 [/us/usc/t10/s2410g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2410g
 

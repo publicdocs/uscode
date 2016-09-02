@@ -19,7 +19,7 @@
 
     (b) All statements, reports, and representations required by the regulations shall be under oath, unless otherwise specified, and in such form as the Secretary requires.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 461][/us/stat/70A/461]; [Pub. L. 94–258, title II, § 201(18)][/us/pl/94/258/s201/18], Apr. 5, 1976, [90 Stat. 313][/us/stat/90/313].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 461][/us/stat/70A/461]; [Pub. L. 94–258, title II][/us/pl/94/258/tII], § 201(18), Apr. 5, 1976, [90 Stat. 313][/us/stat/90/313].)
 
 <table>
 
@@ -80,7 +80,7 @@ June 4, 1920, ch. 228 (9th par. of amended 3d and 4th provisos), 41 Stat. 813; J
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F461
-[/us/pl/94/258/s201/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2Fs201%2F18
+[/us/pl/94/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2FtII
 [/us/stat/90/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F313
 [/us/pl/94/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258
 

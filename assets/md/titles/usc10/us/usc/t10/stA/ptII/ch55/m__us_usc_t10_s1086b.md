@@ -17,7 +17,7 @@
 
     The Secretary of Defense may not take any action that would require, or have the effect of requiring, a member or former member of the armed forces who is entitled to retired or retainer pay to enroll to receive health care from the Federal Government only through the Department of Defense.
 
-(Added [Pub. L. 107–107, div. A, title VII, § 731(a)][/us/pl/107/107/s731/a], Dec. 28, 2001, [115 Stat. 1169][/us/stat/115/1169].)
+(Added [Pub. L. 107–107, div. A, title VII][/us/pl/107/107/dA/tVII], § 731(a), Dec. 28, 2001, [115 Stat. 1169][/us/stat/115/1169].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/107/s731/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs731%2Fa
+[/us/pl/107/107/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVII
 [/us/stat/115/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1169
 
 

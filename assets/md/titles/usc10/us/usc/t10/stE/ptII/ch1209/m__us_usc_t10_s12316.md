@@ -25,7 +25,7 @@
 
     (b) Unless the payments because of his earlier military service are greater than the compensation prescribed by subsection (a)(2), a Reserve of the Army, Navy, Air Force, Marine Corps, or Coast Guard who because of his earlier military service is entitled to a pension, retired or retainer pay, or disability compensation, and who upon being ordered to active duty for a period of more than 30 days in time of war or national emergency is found physically qualified to perform that duty, ceases to be entitled to the payments because of his earlier military service until the period of active duty ends. While on that active duty, he is entitled to the compensation prescribed by subsection (a)(2). Other rights and benefits of the member or his dependents are unaffected by this subsection.
 
-(Added [Pub. L. 85–861, § 1(15)][/us/pl/85/861/s1/15], Sept. 2, 1958, [72 Stat. 1441][/us/stat/72/1441], § 684; amended [Pub. L. 93–586, § 1][/us/pl/93/586/s1], Jan. 2, 1975, [88 Stat. 1920][/us/stat/88/1920]; renumbered § 12316, [Pub. L. 103–337, div. A, title XVI, § 1662(e)(2)][/us/pl/103/337/s1662/e/2], Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(15), Sept. 2, 1958, [72 Stat. 1441][/us/stat/72/1441], § 684; amended [Pub. L. 93–586][/us/pl/93/586], § 1, Jan. 2, 1975, [88 Stat. 1920][/us/stat/88/1920]; renumbered § 12316, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(e)(2), Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992].)
 
 <table>
 
@@ -118,11 +118,11 @@ Sept. 27, 1950, ch. 1053, § 2, 64 Stat. 1067; July 12, 1955, ch. 337, §§ 
 ----------
 ----------
 
-[/us/pl/85/861/s1/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F15
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1441
-[/us/pl/93/586/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F586%2Fs1
+[/us/pl/93/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F586
 [/us/stat/88/1920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1920
-[/us/pl/103/337/s1662/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fe%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2992
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs684

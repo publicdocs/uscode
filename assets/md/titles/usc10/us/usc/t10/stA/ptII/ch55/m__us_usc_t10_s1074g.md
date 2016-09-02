@@ -173,7 +173,7 @@
 
     The Secretary of Defense shall, after consultation with the other administering Secretaries, prescribe regulations to carry out this section.
 
-(Added [Pub. L. 106–65, div. A, title VII, § 701(a)(1)][/us/pl/106/65/s701/a/1], Oct. 5, 1999, [113 Stat. 677][/us/stat/113/677]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(5)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–290; [Pub. L. 107–107, div. A, title X, § 1048(c)(4)][/us/pl/107/107/s1048/c/4], Dec. 28, 2001, [115 Stat. 1226][/us/stat/115/1226]; [Pub. L. 108–136, div. A, title VII, § 725][/us/pl/108/136/s725], Nov. 24, 2003, [117 Stat. 1535][/us/stat/117/1535]; [Pub. L. 108–375, div. A, title VII, § 714][/us/pl/108/375/s714], Oct. 28, 2004, [118 Stat. 1985][/us/stat/118/1985]; [Pub. L. 110–181, div. A, title VII, § 703(a)][/us/pl/110/181/s703/a], Jan. 28, 2008, [122 Stat. 188][/us/stat/122/188]; [Pub. L. 111–84, div. A, title X, § 1073(a)(10)][/us/pl/111/84/s1073/a/10], Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473]; [Pub. L. 112–239, div. A, title VII][/us/pl/112/239], §§ 702, 712(a), Jan. 2, 2013, [126 Stat. 1798][/us/stat/126/1798], 1802; [Pub. L. 113–291, div. A, title VII, § 702(a)][/us/pl/113/291/s702/a]–(c)(1), Dec. 19, 2014, [128 Stat. 3410][/us/stat/128/3410]; [Pub. L. 114–92, div. A, title VII][/us/pl/114/92], §§ 702, 715(f), Nov. 25, 2015, [129 Stat. 860][/us/stat/129/860], 867.)
+(Added [Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 701(a)(1), Oct. 5, 1999, [113 Stat. 677][/us/stat/113/677]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(5)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–290; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(c)(4), Dec. 28, 2001, [115 Stat. 1226][/us/stat/115/1226]; [Pub. L. 108–136, div. A, title VII][/us/pl/108/136/dA/tVII], § 725, Nov. 24, 2003, [117 Stat. 1535][/us/stat/117/1535]; [Pub. L. 108–375, div. A, title VII][/us/pl/108/375/dA/tVII], § 714, Oct. 28, 2004, [118 Stat. 1985][/us/stat/118/1985]; [Pub. L. 110–181, div. A, title VII][/us/pl/110/181/dA/tVII], § 703(a), Jan. 28, 2008, [122 Stat. 188][/us/stat/122/188]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(10), Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473]; [Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], §§ 702, 712(a), Jan. 2, 2013, [126 Stat. 1798][/us/stat/126/1798], 1802; [Pub. L. 113–291, div. A, title VII][/us/pl/113/291/dA/tVII], § 702(a)–(c)(1), Dec. 19, 2014, [128 Stat. 3410][/us/stat/128/3410]; [Pub. L. 114–92, div. A, title VII][/us/pl/114/92/dA/tVII], §§ 702, 715(f), Nov. 25, 2015, [129 Stat. 860][/us/stat/129/860], 867.)
 
  __References in Text__ 
 
@@ -181,81 +181,81 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(2)(A). [Pub. L. 114–92, § 715(f)][/us/pl/114/92/s715/f], inserted at end “With respect to members of the uniformed services, such uniform formulary shall include pharmaceutical agents on the joint uniform formulary established under section 715 of the National Defense Authorization Act for Fiscal Year 2016.”
+    2015—Subsec. (a)(2)(A). [Pub. L. 114–92][/us/pl/114/92], § 715(f), inserted at end “With respect to members of the uniformed services, such uniform formulary shall include pharmaceutical agents on the joint uniform formulary established under section 715 of the National Defense Authorization Act for Fiscal Year 2016.”
 
-    Subsec. (a)(6)(A)(i)(I). [Pub. L. 114–92, § 702(a)(1)(A)][/us/pl/114/92/s702/a/1/A], substituted “$10” for “$8”.
+    Subsec. (a)(6)(A)(i)(I). [Pub. L. 114–92][/us/pl/114/92], § 702(a)(1)(A), substituted “$10” for “$8”.
 
-    Subsec. (a)(6)(A)(i)(II). [Pub. L. 114–92, § 702(a)(1)(B)][/us/pl/114/92/s702/a/1/B], substituted “$24” for “$20”.
+    Subsec. (a)(6)(A)(i)(II). [Pub. L. 114–92][/us/pl/114/92], § 702(a)(1)(B), substituted “$24” for “$20”.
 
-    Subsec. (a)(6)(A)(ii)(II). [Pub. L. 114–92, § 702(a)(2)(A)][/us/pl/114/92/s702/a/2/A], substituted “$20” for “$16”.
+    Subsec. (a)(6)(A)(ii)(II). [Pub. L. 114–92][/us/pl/114/92], § 702(a)(2)(A), substituted “$20” for “$16”.
 
-    Subsec. (a)(6)(A)(ii)(III). [Pub. L. 114–92, § 702(a)(2)(B)][/us/pl/114/92/s702/a/2/B], substituted “$49” for “$46”.
+    Subsec. (a)(6)(A)(ii)(III). [Pub. L. 114–92][/us/pl/114/92], § 702(a)(2)(B), substituted “$49” for “$46”.
 
-    Subsec. (a)(6)(C)(i). [Pub. L. 114–92, § 702(b)(1)][/us/pl/114/92/s702/b/1], substituted “Beginning October 1, 2016,” for “Beginning October 1, 2013,”.
+    Subsec. (a)(6)(C)(i). [Pub. L. 114–92][/us/pl/114/92], § 702(b)(1), substituted “Beginning October 1, 2016,” for “Beginning October 1, 2013,”.
 
-    Subsec. (a)(6)(C)(ii). [Pub. L. 114–92, § 702(b)(2)][/us/pl/114/92/s702/b/2], added cl. (ii) and struck out former cl. (ii) which read as follows: “If the amount of the increase otherwise provided for a year by clause (i) is less than $1, the increase shall not be made for such year, but shall be carried over to, and accumulated with, the amount of the increase for the subsequent year or years and made when the aggregate amount of increases carried over under this clause for a year is $1 or more.”
+    Subsec. (a)(6)(C)(ii). [Pub. L. 114–92][/us/pl/114/92], § 702(b)(2), added cl. (ii) and struck out former cl. (ii) which read as follows: “If the amount of the increase otherwise provided for a year by clause (i) is less than $1, the increase shall not be made for such year, but shall be carried over to, and accumulated with, the amount of the increase for the subsequent year or years and made when the aggregate amount of increases carried over under this clause for a year is $1 or more.”
 
-    2014—Subsec. (a)(5). [Pub. L. 113–291, § 702(a)][/us/pl/113/291/s702/a], substituted “the national mail-order pharmacy program” for “at least one of the means described in paragraph (2)(E)” and “shall include cost-sharing by the eligible covered beneficiary as specified in paragraph (6).” for “may include cost sharing by the eligible covered beneficiary in addition to any such cost sharing applicable to agents on the uniform formulary.”
+    2014—Subsec. (a)(5). [Pub. L. 113–291][/us/pl/113/291], § 702(a), substituted “the national mail-order pharmacy program” for “at least one of the means described in paragraph (2)(E)” and “shall include cost-sharing by the eligible covered beneficiary as specified in paragraph (6).” for “may include cost sharing by the eligible covered beneficiary in addition to any such cost sharing applicable to agents on the uniform formulary.”
 
-    Subsec. (a)(6)(A)(i)(I). [Pub. L. 113–291, § 702(b)(1)(A)][/us/pl/113/291/s702/b/1/A], substituted “$8” for “$5”.
+    Subsec. (a)(6)(A)(i)(I). [Pub. L. 113–291][/us/pl/113/291], § 702(b)(1)(A), substituted “$8” for “$5”.
 
-    Subsec. (a)(6)(A)(i)(II). [Pub. L. 113–291, § 702(b)(1)(B)][/us/pl/113/291/s702/b/1/B], substituted “$20.” for “$17; and”.
+    Subsec. (a)(6)(A)(i)(II). [Pub. L. 113–291][/us/pl/113/291], § 702(b)(1)(B), substituted “$20.” for “$17; and”.
 
-    Subsec. (a)(6)(A)(i)(III). [Pub. L. 113–291, § 702(b)(1)(C)][/us/pl/113/291/s702/b/1/C], struck out subcl. (III) which read as follows: “in the case of nonformulary agents, $44.”
+    Subsec. (a)(6)(A)(i)(III). [Pub. L. 113–291][/us/pl/113/291], § 702(b)(1)(C), struck out subcl. (III) which read as follows: “in the case of nonformulary agents, $44.”
 
-    Subsec. (a)(6)(A)(ii)(II). [Pub. L. 113–291, § 702(b)(2)(A)][/us/pl/113/291/s702/b/2/A], substituted “$16” for “$13”.
+    Subsec. (a)(6)(A)(ii)(II). [Pub. L. 113–291][/us/pl/113/291], § 702(b)(2)(A), substituted “$16” for “$13”.
 
-    Subsec. (a)(6)(A)(ii)(III). [Pub. L. 113–291, § 702(b)(2)(B)][/us/pl/113/291/s702/b/2/B], substituted “$46” for “$43”.
+    Subsec. (a)(6)(A)(ii)(III). [Pub. L. 113–291][/us/pl/113/291], § 702(b)(2)(B), substituted “$46” for “$43”.
 
-    Subsec. (a)(9). [Pub. L. 113–291, § 702(c)(1)][/us/pl/113/291/s702/c/1], which directed amendment of such section by adding par. (9) at the end, was executed by adding par. (9) at the end of subsec. (a), to reflect the probable intent of Congress.
+    Subsec. (a)(9). [Pub. L. 113–291][/us/pl/113/291], § 702(c)(1), which directed amendment of such section by adding par. (9) at the end, was executed by adding par. (9) at the end of subsec. (a), to reflect the probable intent of Congress.
 
-    2013—Subsec. (a)(2)(D). [Pub. L. 112–239, § 702(a)(1)][/us/pl/112/239/s702/a/1], (c)(2)(A), substituted “Except as provided in subparagraph (F), no pharmaceutical agent may be excluded” for “No pharmaceutical agent may be excluded” and struck out at end “The Secretary shall begin to implement the uniform formulary not later than October 1, 2000.”.
+    2013—Subsec. (a)(2)(D). [Pub. L. 112–239][/us/pl/112/239], § 702(a)(1), (c)(2)(A), substituted “Except as provided in subparagraph (F), no pharmaceutical agent may be excluded” for “No pharmaceutical agent may be excluded” and struck out at end “The Secretary shall begin to implement the uniform formulary not later than October 1, 2000.”.
 
-    Subsec. (a)(2)(F). [Pub. L. 112–239, § 702(a)(2)][/us/pl/112/239/s702/a/2], added subpar. (F).
+    Subsec. (a)(2)(F). [Pub. L. 112–239][/us/pl/112/239], § 702(a)(2), added subpar. (F).
 
-    Subsec. (a)(6)(A). [Pub. L. 112–239, § 712(a)(1)][/us/pl/112/239/s712/a/1], added subpar. (A) and struck out former subpar. (A) which read as follows: “The Secretary, in the regulations prescribed under subsection (g), may establish cost sharing requirements (which may be established as a percentage or fixed dollar amount) under the pharmacy benefits program for generic, formulary, and nonformulary agents. For nonformulary agents, cost sharing shall be consistent with common industry practice and not in excess of amounts generally comparable to 20 percent for beneficiaries covered by [section 1079 of this title][/us/usc/t10/s1079] or 25 percent for beneficiaries covered by [section 1086 of this title][/us/usc/t10/s1086].”
+    Subsec. (a)(6)(A). [Pub. L. 112–239][/us/pl/112/239], § 712(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “The Secretary, in the regulations prescribed under subsection (g), may establish cost sharing requirements (which may be established as a percentage or fixed dollar amount) under the pharmacy benefits program for generic, formulary, and nonformulary agents. For nonformulary agents, cost sharing shall be consistent with common industry practice and not in excess of amounts generally comparable to 20 percent for beneficiaries covered by [section 1079 of this title][/us/usc/t10/s1079] or 25 percent for beneficiaries covered by [section 1086 of this title][/us/usc/t10/s1086].”
 
-    Subsec. (a)(6)(C). [Pub. L. 112–239, § 712(a)(2)][/us/pl/112/239/s712/a/2], added subpar. (C).
+    Subsec. (a)(6)(C). [Pub. L. 112–239][/us/pl/112/239], § 712(a)(2), added subpar. (C).
 
-    Subsec. (b)(1). [Pub. L. 112–239, § 702(c)(1)][/us/pl/112/239/s702/c/1], substituted “subsection (h)” for “subsection (g)”.
+    Subsec. (b)(1). [Pub. L. 112–239][/us/pl/112/239], § 702(c)(1), substituted “subsection (h)” for “subsection (g)”.
 
-    Subsec. (b)(2). [Pub. L. 112–239, § 702(c)(2)(B)][/us/pl/112/239/s702/c/2/B], substituted “The committee” for “Not later than 90 days after the establishment of the Pharmacy and Therapeutics Committee by the Secretary, the committee shall convene to design a proposed uniform formulary for submission to the Secretary. After such 90-day period, the committee”.
+    Subsec. (b)(2). [Pub. L. 112–239][/us/pl/112/239], § 702(c)(2)(B), substituted “The committee” for “Not later than 90 days after the establishment of the Pharmacy and Therapeutics Committee by the Secretary, the committee shall convene to design a proposed uniform formulary for submission to the Secretary. After such 90-day period, the committee”.
 
-    Subsec. (d)(2). [Pub. L. 112–239, § 702(c)(2)(C)][/us/pl/112/239/s702/c/2/C], substituted “The Secretary” for “Effective not later than April 5, 2000, the Secretary” and “the managed care support contracts current as of October 5, 1999,” for “the current managed care support contracts”.
+    Subsec. (d)(2). [Pub. L. 112–239][/us/pl/112/239], § 702(c)(2)(C), substituted “The Secretary” for “Effective not later than April 5, 2000, the Secretary” and “the managed care support contracts current as of October 5, 1999,” for “the current managed care support contracts”.
 
-    Subsec. (g)(3), (4). [Pub. L. 112–239, § 702(b)][/us/pl/112/239/s702/b], added pars. (3) and (4).
+    Subsec. (g)(3), (4). [Pub. L. 112–239][/us/pl/112/239], § 702(b), added pars. (3) and (4).
 
     2009—Subsec. (f). [Pub. L. 111–84][/us/pl/111/84] substituted “after January 28, 2008” for “on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008”.
 
     2008—Subsecs. (f) to (h). [Pub. L. 110–181][/us/pl/110/181] added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-    2004—Subsec. (a)(2)(E)(i). [Pub. L. 108–375, § 714(b)][/us/pl/108/375/s714/b], inserted before semicolon at end “and additional determinations by the Pharmacy and Therapeutics Committee of the relative clinical and cost effectiveness of the agents”.
+    2004—Subsec. (a)(2)(E)(i). [Pub. L. 108–375][/us/pl/108/375], § 714(b), inserted before semicolon at end “and additional determinations by the Pharmacy and Therapeutics Committee of the relative clinical and cost effectiveness of the agents”.
 
-    Subsec. (a)(6). [Pub. L. 108–375, § 714(a)][/us/pl/108/375/s714/a], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (a)(6). [Pub. L. 108–375][/us/pl/108/375], § 714(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    2003—Subsec. (b)(1). [Pub. L. 108–136, § 725(1)][/us/pl/108/136/s725/1], substituted “facilities and representatives of providers in facilities of the uniformed services” for “facilities, contractors responsible for the TRICARE retail pharmacy program, contractors responsible for the national mail-order pharmacy program, providers in facilities of the uniformed services, and TRICARE network providers” in second sentence.
+    2003—Subsec. (b)(1). [Pub. L. 108–136][/us/pl/108/136], § 725(1), substituted “facilities and representatives of providers in facilities of the uniformed services” for “facilities, contractors responsible for the TRICARE retail pharmacy program, contractors responsible for the national mail-order pharmacy program, providers in facilities of the uniformed services, and TRICARE network providers” in second sentence.
 
-    Subsec. (c)(2). [Pub. L. 108–136, § 725(2)][/us/pl/108/136/s725/2], substituted “represent—” for “represent nongovernmental”, inserted “(A) nongovernmental” before “organizations”, substituted “beneficiaries;” for “beneficiaries.”, and added subpars. (B) to (D).
+    Subsec. (c)(2). [Pub. L. 108–136][/us/pl/108/136], § 725(2), substituted “represent—” for “represent nongovernmental”, inserted “(A) nongovernmental” before “organizations”, substituted “beneficiaries;” for “beneficiaries.”, and added subpars. (B) to (D).
 
     2001—Subsec. (a)(8). [Pub. L. 107–107][/us/pl/107/107] substituted “October 5, 1999,” for “the date of the enactment of this section”.
 
-    2000—Subsec. (a)(6). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(5)(A)\], substituted “in the regulations prescribed” for “as part of the regulations established”.
+    2000—Subsec. (a)(6). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(5)(A)\], substituted “in the regulations prescribed” for “as part of the regulations established”.
 
-    Subsec. (a)(7). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(5)(B)\], substituted “that are not included on the uniform formulary but that are” for “not included on the uniform formulary, but,”.
+    Subsec. (a)(7). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(5)(B)\], substituted “that are not included on the uniform formulary but that are” for “not included on the uniform formulary, but,”.
 
-    Subsec. (b)(1). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(5)(C)\], substituted “prescribed under” for “required by” in last sentence.
+    Subsec. (b)(1). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(5)(C)\], substituted “prescribed under” for “required by” in last sentence.
 
-    Subsec. (d)(2). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(5)(D)\], substituted “Effective not later than April 5, 2000, the Secretary shall use” for “Not later than 6 months after the date of the enactment of this section, the Secretary shall utilize”.
+    Subsec. (d)(2). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(5)(D)\], substituted “Effective not later than April 5, 2000, the Secretary shall use” for “Not later than 6 months after the date of the enactment of this section, the Secretary shall utilize”.
 
-    Subsec. (e). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(5)(E)\], substituted “The” for “Not later than April 1, 2000, the” and inserted “in” before “the TRICARE” and before “the national”.
+    Subsec. (e). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(5)(E)\], substituted “The” for “Not later than April 1, 2000, the” and inserted “in” before “the TRICARE” and before “the national”.
 
-    Subsec. (f). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(5)(F)\], substituted “In this section:” for “As used in this section—” in introductory provisions, “The term” for “the term” in pars. (1) and (2), and a period for “; and” at end of par. (1).
+    Subsec. (f). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(5)(F)\], substituted “In this section:” for “As used in this section—” in introductory provisions, “The term” for “the term” in pars. (1) and (2), and a period for “; and” at end of par. (1).
 
-    Subsec. (g). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(5)(G)\], substituted “prescribe” for “promulgate”.
+    Subsec. (g). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(5)(G)\], substituted “prescribe” for “promulgate”.
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–239, div. A, title VII, § 712(b)][/us/pl/112/239/s712/b], Jan. 2, 2013, [126 Stat. 1802][/us/stat/126/1802], provided that:
+[Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 712(b), Jan. 2, 2013, [126 Stat. 1802][/us/stat/126/1802], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -267,11 +267,11 @@
 
  __Regulations__ 
 
-[Pub. L. 110–181, div. A, title VII, § 703(b)][/us/pl/110/181/s703/b], Jan. 28, 2008, [122 Stat. 188][/us/stat/122/188], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(3), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613]; [Pub. L. 111–84, div. A, title X, § 1073(c)(12)][/us/pl/111/84/s1073/c/12], Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475], provided that: 
+[Pub. L. 110–181, div. A, title VII][/us/pl/110/181/dA/tVII], § 703(b), Jan. 28, 2008, [122 Stat. 188][/us/stat/122/188], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(3), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c)(12), Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475], provided that: 
 
 > “The Secretary of Defense shall, after consultation with the other administering Secretaries under chapter 55 of title 10, United States Code, modify the regulations under subsection (h) of [section 1074g of title 10][/us/usc/t10/s1074g], United States Code (as redesignated by subsection (a)(1) of this section), to implement the requirements of subsection (f) of [section 1074g of title 10][/us/usc/t10/s1074g], United States Code (as inserted by subsection (a)(2) of this section). The Secretary shall so modify such regulations not later than December 31, 2007.”
 
-    \[[Pub. L. 111–84, div. A, title X, § 1073(c)][/us/pl/111/84/s1073/c], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that the amendment made by section 1073(c)(12) to [section 1061(b)(3) of Pub. L. 110–417][/us/pl/110/417/s1061/b/3], included in the credit set out above, is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.\]
+    \[[Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that the amendment made by section 1073(c)(12) to [section 1061(b)(3) of Pub. L. 110–417][/us/pl/110/417/s1061/b/3], included in the credit set out above, is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.\]
 
  __Termination of Advisory Panels__ 
 
@@ -279,7 +279,7 @@
 
  __Joint Uniform Formulary for Transition of Care__ 
 
-[Pub. L. 114–92, div. A, title VII, § 715][/us/pl/114/92/s715], Nov. 25, 2015, [129 Stat. 866][/us/stat/129/866], provided that:
+[Pub. L. 114–92, div. A, title VII][/us/pl/114/92/dA/tVII], § 715, Nov. 25, 2015, [129 Stat. 866][/us/stat/129/866], provided that:
 
 >     “(a)  __Joint Formulary__  __.—__ 
 
@@ -321,7 +321,7 @@
 
  __Pilot Program on Medication Therapy Management Under TRICARE Program__ 
 
-[Pub. L. 113–291, div. A, title VII, § 726][/us/pl/113/291/s726], Dec. 19, 2014, [128 Stat. 3419][/us/stat/128/3419], provided that:
+[Pub. L. 113–291, div. A, title VII][/us/pl/113/291/dA/tVII], § 726, Dec. 19, 2014, [128 Stat. 3419][/us/stat/128/3419], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -407,7 +407,7 @@
 
  __Pilot Program for Refills of Maintenance Medications for TRICARE for Life Beneficiaries Through the TRICARE Mail-Order Pharmacy Program__ 
 
-[Pub. L. 112–239, div. A, title VII, § 716][/us/pl/112/239/s716], Jan. 2, 2013, [126 Stat. 1804][/us/stat/126/1804], as amended by [Pub. L. 113–291, div. A, title VII, § 702(c)(2)][/us/pl/113/291/s702/c/2], Dec. 19, 2014, [128 Stat. 3411][/us/stat/128/3411], provided that:
+[Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 716, Jan. 2, 2013, [126 Stat. 1804][/us/stat/126/1804], as amended by [Pub. L. 113–291, div. A, title VII][/us/pl/113/291/dA/tVII], § 702(c)(2), Dec. 19, 2014, [128 Stat. 3411][/us/stat/128/3411], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -479,7 +479,7 @@
 
  __Education and Training on Use of Pharmaceuticals in Rehabilitation Programs for Wounded Warriors__ 
 
-[Pub. L. 111–383, div. A, title VII, § 716][/us/pl/111/383/s716], Jan. 7, 2011, [124 Stat. 4250][/us/stat/124/4250], provided that:
+[Pub. L. 111–383, div. A, title VII][/us/pl/111/383/dA/tVII], § 716, Jan. 7, 2011, [124 Stat. 4250][/us/stat/124/4250], provided that:
 
 >     “(a)  __Education and Training Required__  __.—__ 
 
@@ -529,7 +529,7 @@
 
  __Demonstration Project on Coverage of Selected Over-the-Counter Drugs Under the Pharmacy Benefits Program__ 
 
-[Pub. L. 109–364, div. A, title VII, § 705][/us/pl/109/364/s705], Oct. 17, 2006, [120 Stat. 2280][/us/stat/120/2280], as amended by [Pub. L. 111–383, div. A, title X, § 1075(g)(5)][/us/pl/111/383/s1075/g/5], Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], provided that:
+[Pub. L. 109–364, div. A, title VII][/us/pl/109/364/dA/tVII], § 705, Oct. 17, 2006, [120 Stat. 2280][/us/stat/120/2280], as amended by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(g)(5), Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], provided that:
 
 >     “(a)  __Requirement to Conduct Demonstration__  __.—__ 
 
@@ -605,7 +605,7 @@
 
  __Interoperability of Department of Veterans Affairs and Department of Defense Pharmacy Data Systems__ 
 
-[Pub. L. 107–314, div. A, title VII, § 724][/us/pl/107/314/s724], Dec. 2, 2002, [116 Stat. 2598][/us/stat/116/2598], provided that:
+[Pub. L. 107–314, div. A, title VII][/us/pl/107/314/dA/tVII], § 724, Dec. 2, 2002, [116 Stat. 2598][/us/stat/116/2598], provided that:
 
 >     “(a)  __Interoperability__  __.—__ 
 
@@ -621,15 +621,15 @@
 
  __Deadline for Establishment of Committee__ 
 
-    [Pub. L. 106–65, div. A, title VII, § 701(b)][/us/pl/106/65/s701/b], Oct. 5, 1999, [113 Stat. 680][/us/stat/113/680], directed the Secretary of Defense to establish the Pharmacy and Therapeutics Committee required by subsec. (b) of this section not later than 30 days after Oct. 5, 1999.
+    [Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 701(b), Oct. 5, 1999, [113 Stat. 680][/us/stat/113/680], directed the Secretary of Defense to establish the Pharmacy and Therapeutics Committee required by subsec. (b) of this section not later than 30 days after Oct. 5, 1999.
 
  __Reports Required__ 
 
-    [Pub. L. 106–65, div. A, title VII, § 701(c)][/us/pl/106/65/s701/c], Oct. 5, 1999, [113 Stat. 680][/us/stat/113/680], directed the Secretary of Defense to submit reports to Congress, not later than Apr. 1 and Oct. 1 of fiscal years 2000 and 2001, on the implementation of the uniform formulary required under subsec. (a) of this section, the results of a survey conducted by the Secretary of prescribers for military medical treatment facilities and TRICARE contractors, the operation of the Pharmacy Data Transaction Service required by subsec. (e) of this section, and any other actions taken by the Secretary to improve management of the pharmacy benefits program under this section.
+    [Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 701(c), Oct. 5, 1999, [113 Stat. 680][/us/stat/113/680], directed the Secretary of Defense to submit reports to Congress, not later than Apr. 1 and Oct. 1 of fiscal years 2000 and 2001, on the implementation of the uniform formulary required under subsec. (a) of this section, the results of a survey conducted by the Secretary of prescribers for military medical treatment facilities and TRICARE contractors, the operation of the Pharmacy Data Transaction Service required by subsec. (e) of this section, and any other actions taken by the Secretary to improve management of the pharmacy benefits program under this section.
 
  __Study for Design of Pharmacy Benefit for Certain Covered Beneficiaries__ 
 
-    [Pub. L. 106–65, div. A, title VII, § 701(d)][/us/pl/106/65/s701/d], Oct. 5, 1999, [113 Stat. 680][/us/stat/113/680], required the Secretary of Defense to prepare and submit to Congress, by Apr. 15, 2001, a study on a design for a comprehensive pharmacy benefit for covered beneficiaries under chapter 55 of title 10, who are entitled to benefits under part A, and enrolled under part B, of title XVIII of the Social Security Act, and to provide an estimate of the costs of implementing and operating such design, prior to repeal by [Pub. L. 107–107, div. A, title VII, § 723][/us/pl/107/107/s723], Dec. 28, 2001, [115 Stat. 1168][/us/stat/115/1168].
+    [Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 701(d), Oct. 5, 1999, [113 Stat. 680][/us/stat/113/680], required the Secretary of Defense to prepare and submit to Congress, by Apr. 15, 2001, a study on a design for a comprehensive pharmacy benefit for covered beneficiaries under chapter 55 of title 10, who are entitled to benefits under part A, and enrolled under part B, of title XVIII of the Social Security Act, and to provide an estimate of the costs of implementing and operating such design, prior to repeal by [Pub. L. 107–107, div. A, title VII][/us/pl/107/107/dA/tVII], § 723, Dec. 28, 2001, [115 Stat. 1168][/us/stat/115/1168].
 
 ----------
 
@@ -644,114 +644,114 @@
 [/us/usc/t38/s8126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8126
 [/us/usc/t21/s353/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb
 [/us/usc/t21/s353/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb
-[/us/pl/106/65/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs701%2Fa%2F1
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F677
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s1048/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fc%2F4
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1226
-[/us/pl/108/136/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs725
+[/us/pl/108/136/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVII
 [/us/stat/117/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1535
-[/us/pl/108/375/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs714
+[/us/pl/108/375/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVII
 [/us/stat/118/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1985
-[/us/pl/110/181/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs703%2Fa
+[/us/pl/110/181/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVII
 [/us/stat/122/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F188
-[/us/pl/111/84/s1073/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F10
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2473
-[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1798
-[/us/pl/113/291/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs702%2Fa
+[/us/pl/113/291/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVII
 [/us/stat/128/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3410
-[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVII
 [/us/stat/129/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F860
 [/us/pl/114/92/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs715
-[/us/pl/114/92/s715/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs715%2Ff
-[/us/pl/114/92/s702/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs702%2Fa%2F1%2FA
-[/us/pl/114/92/s702/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs702%2Fa%2F1%2FB
-[/us/pl/114/92/s702/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs702%2Fa%2F2%2FA
-[/us/pl/114/92/s702/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs702%2Fa%2F2%2FB
-[/us/pl/114/92/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs702%2Fb%2F1
-[/us/pl/114/92/s702/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs702%2Fb%2F2
-[/us/pl/113/291/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs702%2Fa
-[/us/pl/113/291/s702/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs702%2Fb%2F1%2FA
-[/us/pl/113/291/s702/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs702%2Fb%2F1%2FB
-[/us/pl/113/291/s702/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs702%2Fb%2F1%2FC
-[/us/pl/113/291/s702/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs702%2Fb%2F2%2FA
-[/us/pl/113/291/s702/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs702%2Fb%2F2%2FB
-[/us/pl/113/291/s702/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs702%2Fc%2F1
-[/us/pl/112/239/s702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs702%2Fa%2F1
-[/us/pl/112/239/s702/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs702%2Fa%2F2
-[/us/pl/112/239/s712/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs712%2Fa%2F1
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t10/s1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079
 [/us/usc/t10/s1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1086
-[/us/pl/112/239/s712/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs712%2Fa%2F2
-[/us/pl/112/239/s702/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs702%2Fc%2F1
-[/us/pl/112/239/s702/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs702%2Fc%2F2%2FB
-[/us/pl/112/239/s702/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs702%2Fc%2F2%2FC
-[/us/pl/112/239/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs702%2Fb
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/108/375/s714/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs714%2Fb
-[/us/pl/108/375/s714/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs714%2Fa
-[/us/pl/108/136/s725/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs725%2F1
-[/us/pl/108/136/s725/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs725%2F2
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/112/239/s712/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs712%2Fb
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1802
 [/us/usc/t10/s1074g/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074g%2Fa%2F6
-[/us/pl/110/181/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs703%2Fb
+[/us/pl/110/181/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVII
 [/us/stat/122/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F188
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4613
-[/us/pl/111/84/s1073/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc%2F12
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2475
 [/us/usc/t10/s1074g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074g
 [/us/usc/t10/s1074g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074g
-[/us/pl/111/84/s1073/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
 [/us/pl/110/417/s1061/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs1061%2Fb%2F3
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/114/92/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs715
+[/us/pl/114/92/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVII
 [/us/stat/129/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F866
 [/us/usc/t10/s1074g/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074g%2Fg
-[/us/pl/113/291/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs726
+[/us/pl/113/291/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVII
 [/us/stat/128/3419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3419
 [/us/usc/t10/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1092
 [/us/usc/t42/s1395w–101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%93101
 [/us/usc/t10/s1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072
-[/us/pl/112/239/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs716
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1804
-[/us/pl/113/291/s702/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs702%2Fc%2F2
+[/us/pl/113/291/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVII
 [/us/stat/128/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3411
 [/us/usc/t10/s1074g/a/2/E/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074g%2Fa%2F2%2FE%2Fiii
 [/us/usc/t10/s1074g/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074g%2Fa%2F2%2FE
 [/us/usc/t10/s1086/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1086%2Fd
-[/us/pl/111/383/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs716
+[/us/pl/111/383/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVII
 [/us/stat/124/4250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4250
-[/us/pl/109/364/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs705
+[/us/pl/109/364/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVII
 [/us/stat/120/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2280
-[/us/pl/111/383/s1075/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fg%2F5
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4377
 [/us/usc/t10/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1092
 [/us/usc/t21/s353/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb
-[/us/pl/107/314/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs724
+[/us/pl/107/314/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVII
 [/us/stat/116/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2598
-[/us/pl/106/65/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs701%2Fb
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F680
-[/us/pl/106/65/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs701%2Fc
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F680
-[/us/pl/106/65/s701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs701%2Fd
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F680
-[/us/pl/107/107/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs723
+[/us/pl/107/107/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVII
 [/us/stat/115/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1168
 
 

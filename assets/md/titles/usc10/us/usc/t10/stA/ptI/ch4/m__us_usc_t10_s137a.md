@@ -39,45 +39,45 @@
 
     (d) The Principal Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, the Under Secretaries of Defense, and the Deputy Chief Management Officer of the Department of Defense. The Principal Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
 
-(Added [Pub. L. 111–84, div. A, title IX, § 906(a)(1)][/us/pl/111/84/s906/a/1], Oct. 28, 2009, [123 Stat. 2425][/us/stat/123/2425]; amended [Pub. L. 111–383, div. A, title IX, § 901(b)(3)][/us/pl/111/383/s901/b/3], (k)(1)(A), Jan. 7, 2011, [124 Stat. 4318][/us/stat/124/4318], 4325; [Pub. L. 113–291, div. A, title IX, § 901(i)(1)][/us/pl/113/291/s901/i/1], (j)(2)(C), (k)(3), Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467], 3468.)
+(Added [Pub. L. 111–84, div. A, title IX][/us/pl/111/84/dA/tIX], § 906(a)(1), Oct. 28, 2009, [123 Stat. 2425][/us/stat/123/2425]; amended [Pub. L. 111–383, div. A, title IX][/us/pl/111/383/dA/tIX], § 901(b)(3), (k)(1)(A), Jan. 7, 2011, [124 Stat. 4318][/us/stat/124/4318], 4325; [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(i)(1), (j)(2)(C), (k)(3), Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467], 3468.)
 
  __Amendment of Subsection (d)__ 
 
-    [Pub. L. 113–291, div. A, title IX, § 901(j)(2)][/us/pl/113/291/s901/j/2], Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467], provided that, effective Feb. 1, 2017, subsection (d) of this section is amended in the first sentence by striking all that follows after “the military departments,” and inserting “and the Under Secretaries of Defense.” See 2014 Amendment note below.
+    [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(j)(2), Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467], provided that, effective Feb. 1, 2017, subsection (d) of this section is amended in the first sentence by striking all that follows after “the military departments,” and inserting “and the Under Secretaries of Defense.” See 2014 Amendment note below.
 
  __Amendments__ 
 
-    2014—Subsec. (a)(3). [Pub. L. 113–291, § 901(i)(1)][/us/pl/113/291/s901/i/1], added par. (3).
+    2014—Subsec. (a)(3). [Pub. L. 113–291][/us/pl/113/291], § 901(i)(1), added par. (3).
 
-    Subsec. (b). [Pub. L. 113–291, § 901(k)(3)][/us/pl/113/291/s901/k/3], substituted “dies, resigns, or is otherwise unable to perform the functions and duties of the office” for “is absent or disabled”.
+    Subsec. (b). [Pub. L. 113–291][/us/pl/113/291], § 901(k)(3), substituted “dies, resigns, or is otherwise unable to perform the functions and duties of the office” for “is absent or disabled”.
 
-    Subsec. (d). [Pub. L. 113–291, § 901(j)(2)(C)][/us/pl/113/291/s901/j/2/C], substituted “and the Under Secretaries of Defense.” for “the military departments, the Under Secretaries of Defense, and the Deputy Chief Management Officer of the Department of Defense.”
+    Subsec. (d). [Pub. L. 113–291][/us/pl/113/291], § 901(j)(2)(C), substituted “and the Under Secretaries of Defense.” for “the military departments, the Under Secretaries of Defense, and the Deputy Chief Management Officer of the Department of Defense.”
 
-    2011—[Pub. L. 111–383, § 901(k)(1)(A)][/us/pl/111/383/s901/k/1/A], substituted “Principal Deputy Under Secretaries of Defense” for “Deputy Under Secretaries of Defense” in section catchline.
+    2011—[Pub. L. 111–383][/us/pl/111/383], § 901(k)(1)(A), substituted “Principal Deputy Under Secretaries of Defense” for “Deputy Under Secretaries of Defense” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 111–383, § 901(b)(3)(A)][/us/pl/111/383/s901/b/3/A], substituted “Principal Deputy Under” for “Deputy Under”.
+    Subsec. (a)(1). [Pub. L. 111–383][/us/pl/111/383], § 901(b)(3)(A), substituted “Principal Deputy Under” for “Deputy Under”.
 
-    Subsec. (a)(2). [Pub. L. 111–383, § 901(b)(3)(B)][/us/pl/111/383/s901/b/3/B], struck out subpar. (A) and subpar. (B) designation and substituted “The Principal Deputy Under Secretaries of Defense” for “The Deputy Under Secretaries of Defense referred to in paragraphs (4) and (5) of subsection (c)”. Prior to amendment, subpar. (A) read as follows: “The Deputy Under Secretaries of Defense referred to in paragraphs (1) through (3) of subsection (c) shall be appointed as provided in the applicable paragraph.”
+    Subsec. (a)(2). [Pub. L. 111–383][/us/pl/111/383], § 901(b)(3)(B), struck out subpar. (A) and subpar. (B) designation and substituted “The Principal Deputy Under Secretaries of Defense” for “The Deputy Under Secretaries of Defense referred to in paragraphs (4) and (5) of subsection (c)”. Prior to amendment, subpar. (A) read as follows: “The Deputy Under Secretaries of Defense referred to in paragraphs (1) through (3) of subsection (c) shall be appointed as provided in the applicable paragraph.”
 
-    Subsec. (b). [Pub. L. 111–383, § 901(b)(3)(A)][/us/pl/111/383/s901/b/3/A], substituted “Principal Deputy Under” for “Deputy Under”.
+    Subsec. (b). [Pub. L. 111–383][/us/pl/111/383], § 901(b)(3)(A), substituted “Principal Deputy Under” for “Deputy Under”.
 
-    Subsec. (c)(1). [Pub. L. 111–383, § 901(b)(3)(C)(i)][/us/pl/111/383/s901/b/3/C/i], (ii), substituted “One of the Principal Deputy” for “One of the Deputy” and struck out “appointed pursuant to [section 133a of this title][/us/usc/t10/s133a]” after “Logistics”.
+    Subsec. (c)(1). [Pub. L. 111–383][/us/pl/111/383], § 901(b)(3)(C)(i), (ii), substituted “One of the Principal Deputy” for “One of the Deputy” and struck out “appointed pursuant to [section 133a of this title][/us/usc/t10/s133a]” after “Logistics”.
 
-    Subsec. (c)(2). [Pub. L. 111–383, § 901(b)(3)(C)(i)][/us/pl/111/383/s901/b/3/C/i], (ii), substituted “One of the Principal Deputy” for “One of the Deputy” and struck out “appointed pursuant to [section 134a of this title][/us/usc/t10/s134a]” after “Policy”.
+    Subsec. (c)(2). [Pub. L. 111–383][/us/pl/111/383], § 901(b)(3)(C)(i), (ii), substituted “One of the Principal Deputy” for “One of the Deputy” and struck out “appointed pursuant to [section 134a of this title][/us/usc/t10/s134a]” after “Policy”.
 
-    Subsec. (c)(3). [Pub. L. 111–383, § 901(b)(3)(C)(i)][/us/pl/111/383/s901/b/3/C/i], (ii), substituted “One of the Principal Deputy” for “One of the Deputy” and struck out “appointed pursuant to [section 136a of this title][/us/usc/t10/s136a]” after “Readiness”.
+    Subsec. (c)(3). [Pub. L. 111–383][/us/pl/111/383], § 901(b)(3)(C)(i), (ii), substituted “One of the Principal Deputy” for “One of the Deputy” and struck out “appointed pursuant to [section 136a of this title][/us/usc/t10/s136a]” after “Readiness”.
 
-    Subsec. (c)(4). [Pub. L. 111–383, § 901(b)(3)(C)(i)][/us/pl/111/383/s901/b/3/C/i], (iii), substituted “One of the Principal Deputy Under Secretaries is” for “One of the Deputy Under Secretaries shall be”.
+    Subsec. (c)(4). [Pub. L. 111–383][/us/pl/111/383], § 901(b)(3)(C)(i), (iii), substituted “One of the Principal Deputy Under Secretaries is” for “One of the Deputy Under Secretaries shall be”.
 
-    Subsec. (c)(5). [Pub. L. 111–383, § 901(b)(3)(C)(i)][/us/pl/111/383/s901/b/3/C/i], (iii), (iv), substituted “One of the Principal Deputy Under Secretaries is” for “One of the Deputy Under Secretaries shall be” and inserted before period at end “, who shall be appointed from among persons who have extensive expertise in intelligence matters”.
+    Subsec. (c)(5). [Pub. L. 111–383][/us/pl/111/383], § 901(b)(3)(C)(i), (iii), (iv), substituted “One of the Principal Deputy Under Secretaries is” for “One of the Deputy Under Secretaries shall be” and inserted before period at end “, who shall be appointed from among persons who have extensive expertise in intelligence matters”.
 
-    Subsec. (d). [Pub. L. 111–383, § 901(b)(3)(A)][/us/pl/111/383/s901/b/3/A], (D), substituted “Principal Deputy Under” for “Deputy Under” and inserted at end “The Principal Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.”
+    Subsec. (d). [Pub. L. 111–383][/us/pl/111/383], § 901(b)(3)(A), (D), substituted “Principal Deputy Under” for “Deputy Under” and inserted at end “The Principal Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.”
 
  __Effective Date of 2014 Amendment__ 
 
-    [Pub. L. 113–291, div. A, title IX, § 901(i)(1)][/us/pl/113/291/s901/i/1], Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467], provided that the amendment made by section 901(i)(1) is effective Jan. 1, 2015.
+    [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(i)(1), Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467], provided that the amendment made by section 901(i)(1) is effective Jan. 1, 2015.
 
-    [Pub. L. 113–291, div. A, title IX, § 901(j)(2)][/us/pl/113/291/s901/j/2], Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467], provided that the amendment made by section 901(j)(2)(C) is effective on the effective date specified in [section 901(a)(1) of Pub. L. 113–291][/us/pl/113/291/s901/a/1], which is Feb. 1, 2017.
+    [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(j)(2), Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467], provided that the amendment made by section 901(j)(2)(C) is effective on the effective date specified in [section 901(a)(1) of Pub. L. 113–291][/us/pl/113/291/s901/a/1], which is Feb. 1, 2017.
 
  __Effective Date of 2011 Amendment__ 
 
@@ -85,7 +85,7 @@
 
  __Savings Provisions__ 
 
-[Pub. L. 111–84, div. A, title IX, § 906(e)][/us/pl/111/84/s906/e], Oct. 28, 2009, [123 Stat. 2428][/us/stat/123/2428], provided that:
+[Pub. L. 111–84, div. A, title IX][/us/pl/111/84/dA/tIX], § 906(e), Oct. 28, 2009, [123 Stat. 2428][/us/stat/123/2428], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -101,15 +101,15 @@
 
  __Temporary Authority for Additional DUSDS__ 
 
-[Pub. L. 111–383, div. A, title IX, § 901(i)(2)][/us/pl/111/383/s901/i/2], Jan. 7, 2011, [124 Stat. 4323][/us/stat/124/4323], provided that: 
+[Pub. L. 111–383, div. A, title IX][/us/pl/111/383/dA/tIX], § 901(i)(2), Jan. 7, 2011, [124 Stat. 4323][/us/stat/124/4323], provided that: 
 
 > “During the period beginning on the date of the enactment of this Act \[Jan. 7, 2011\] and ending on January 1, 2015, the Secretary of Defense may, in the Secretary’s discretion, appoint not more than five Deputy Under Secretaries of Defense in addition to the five Principal Deputy Under Secretaries of Defense authorized by [section 137a of title 10][/us/usc/t10/s137a], United States Code (as amended by subsection (b)(3)).”
 
  __Delayed Limitation on Number of Deputy Under Secretaries of Defense__ 
 
-    [Pub. L. 111–84, div. A, title IX, § 906(a)(2)][/us/pl/111/84/s906/a/2], Oct. 28, 2009, [123 Stat. 2426][/us/stat/123/2426], as amended by [Pub. L. 111–383, div. A, title IX, § 901(i)(1)][/us/pl/111/383/s901/i/1], Jan. 7, 2011, [124 Stat. 4323][/us/stat/124/4323], which provided that, effective Jan. 1, 2015, the five Deputy Under Secretaries of Defense authorized by [section 137a of title 10][/us/usc/t10/s137a] would be the only Deputy Under Secretaries of Defense, was repealed by [Pub. L. 113–291, div. A, title IX, § 901(i)(2)][/us/pl/113/291/s901/i/2], Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467].
+    [Pub. L. 111–84, div. A, title IX][/us/pl/111/84/dA/tIX], § 906(a)(2), Oct. 28, 2009, [123 Stat. 2426][/us/stat/123/2426], as amended by [Pub. L. 111–383, div. A, title IX][/us/pl/111/383/dA/tIX], § 901(i)(1), Jan. 7, 2011, [124 Stat. 4323][/us/stat/124/4323], which provided that, effective Jan. 1, 2015, the five Deputy Under Secretaries of Defense authorized by [section 137a of title 10][/us/usc/t10/s137a] would be the only Deputy Under Secretaries of Defense, was repealed by [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(i)(2), Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467].
 
-    \[[Pub. L. 113–291, div. A, title IX, § 901(i)(2)][/us/pl/113/291/s901/i/2], Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467], provided that section 901(i)(2), which repealed [section 906(a)(2) of Pub. L. 111–84][/us/pl/111/84/s906/a/2], formerly set out above, is effective on the effective date specified in [section 901(i)(1) of Pub. L. 113–291][/us/pl/113/291/s901/i/1], which is Jan. 1, 2015.\]
+    \[[Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(i)(2), Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467], provided that section 901(i)(2), which repealed [section 906(a)(2) of Pub. L. 111–84][/us/pl/111/84/s906/a/2], formerly set out above, is effective on the effective date specified in [section 901(i)(1) of Pub. L. 113–291][/us/pl/113/291/s901/i/1], which is Jan. 1, 2015.\]
 
 ----------
 
@@ -118,51 +118,51 @@
 ----------
 ----------
 
-[/us/pl/111/84/s906/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs906%2Fa%2F1
+[/us/pl/111/84/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIX
 [/us/stat/123/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2425
-[/us/pl/111/383/s901/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fb%2F3
+[/us/pl/111/383/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIX
 [/us/stat/124/4318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4318
-[/us/pl/113/291/s901/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fi%2F1
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3467
-[/us/pl/113/291/s901/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fj%2F2
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3467
-[/us/pl/113/291/s901/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fi%2F1
-[/us/pl/113/291/s901/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fk%2F3
-[/us/pl/113/291/s901/j/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fj%2F2%2FC
-[/us/pl/111/383/s901/k/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fk%2F1%2FA
-[/us/pl/111/383/s901/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fb%2F3%2FA
-[/us/pl/111/383/s901/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fb%2F3%2FB
-[/us/pl/111/383/s901/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fb%2F3%2FA
-[/us/pl/111/383/s901/b/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fb%2F3%2FC%2Fi
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s133a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs133a
-[/us/pl/111/383/s901/b/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fb%2F3%2FC%2Fi
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s134a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs134a
-[/us/pl/111/383/s901/b/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fb%2F3%2FC%2Fi
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s136a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs136a
-[/us/pl/111/383/s901/b/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fb%2F3%2FC%2Fi
-[/us/pl/111/383/s901/b/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fb%2F3%2FC%2Fi
-[/us/pl/111/383/s901/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fb%2F3%2FA
-[/us/pl/113/291/s901/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fi%2F1
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3467
-[/us/pl/113/291/s901/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fj%2F2
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3467
 [/us/pl/113/291/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fa%2F1
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/383/s901/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fp
 [/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
-[/us/pl/111/84/s906/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs906%2Fe
+[/us/pl/111/84/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIX
 [/us/stat/123/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2428
-[/us/pl/111/383/s901/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fi%2F2
+[/us/pl/111/383/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIX
 [/us/stat/124/4323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4323
 [/us/usc/t10/s137a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs137a
-[/us/pl/111/84/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs906%2Fa%2F2
+[/us/pl/111/84/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIX
 [/us/stat/123/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2426
-[/us/pl/111/383/s901/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fi%2F1
+[/us/pl/111/383/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIX
 [/us/stat/124/4323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4323
 [/us/usc/t10/s137a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs137a
-[/us/pl/113/291/s901/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fi%2F2
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3467
-[/us/pl/113/291/s901/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fi%2F2
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3467
 [/us/pl/111/84/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs906%2Fa%2F2
 [/us/pl/113/291/s901/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fi%2F1

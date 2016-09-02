@@ -39,7 +39,7 @@
 
     (e) A chief warrant officer may not be considered for promotion to the next higher grade under this chapter until the officer has completed two years of service on active duty in the grade in which the officer is serving.
 
-(Added [Pub. L. 102–190, div. A, title XI, § 1112(a)][/us/pl/102/190/s1112/a], Dec. 5, 1991, [105 Stat. 1494][/us/stat/105/1494]; amended [Pub. L. 102–484, div. A, title X, § 1052(3)][/us/pl/102/484/s1052/3], Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499]; [Pub. L. 103–337, div. A, title V, § 541(b)(2)][/us/pl/103/337/s541/b/2], Oct. 5, 1994, [108 Stat. 2764][/us/stat/108/2764]; [Pub. L. 104–201, div. A, title V, § 506(a)][/us/pl/104/201/s506/a], Sept. 23, 1996, [110 Stat. 2512][/us/stat/110/2512].)
+(Added [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1112(a), Dec. 5, 1991, [105 Stat. 1494][/us/stat/105/1494]; amended [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1052(3), Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499]; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 541(b)(2), Oct. 5, 1994, [108 Stat. 2764][/us/stat/108/2764]; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 506(a), Sept. 23, 1996, [110 Stat. 2512][/us/stat/110/2512].)
 
  __Amendments__ 
 
@@ -62,13 +62,13 @@
 
 [/us/usc/t10/s582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs582
 [/us/usc/t10/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs573
-[/us/pl/102/190/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1112%2Fa
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1494
-[/us/pl/102/484/s1052/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F3
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2499
-[/us/pl/103/337/s541/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fb%2F2
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2764
-[/us/pl/104/201/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs506%2Fa
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2512
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

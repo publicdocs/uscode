@@ -29,13 +29,13 @@
 
     (6) The Coast Guard when it is operating as a service in the Navy.
 
-(Added [Pub. L. 99–433, title V, § 511(b)(1)][/us/pl/99/433/s511/b/1], Oct. 1, 1986, [100 Stat. 1043][/us/stat/100/1043].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 511(b)(1), Oct. 1, 1986, [100 Stat. 1043][/us/stat/100/1043].)
 
  __Prior Provisions__ 
 
     Provisions similar to those in this section were contained in [section 5011 of this title][/us/usc/t10/s5011] prior to enactment of [Pub. L. 99–433][/us/pl/99/433].
 
-    A prior section 5061, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 280][/us/stat/70A/280], related to appointment and functions of Comptroller of the Navy, prior to repeal by [Pub. L. 99–433, § 511(a)][/us/pl/99/433/s511/a].
+    A prior section 5061, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 280][/us/stat/70A/280], related to appointment and functions of Comptroller of the Navy, prior to repeal by [Pub. L. 99–433][/us/pl/99/433], § 511(a).
 
  __Transfer of Functions__ 
 
@@ -48,13 +48,13 @@
 ----------
 ----------
 
-[/us/pl/99/433/s511/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fb%2F1
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1043
 [/us/usc/t10/s5011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5011
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F280
-[/us/pl/99/433/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fa
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

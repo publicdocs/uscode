@@ -81,7 +81,7 @@
 
         (3) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Marianas, Guam, the Virgin Islands, and American Samoa.
 
-(Added [Pub. L. 107–314, div. B, title XXVIII, § 2812(a)(1)][/us/pl/107/314/s2812/a/1], Dec. 2, 2002, [116 Stat. 2707][/us/stat/116/2707]; amended [Pub. L. 109–163, div. A, title X, § 1056(a)(1)][/us/pl/109/163/s1056/a/1], (b), Jan. 6, 2006, [119 Stat. 3438][/us/stat/119/3438], 3439; [Pub. L. 109–364, div. A, title X, § 1071(a)(22)][/us/pl/109/364/s1071/a/22], Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399]; [Pub. L. 111–383, div. B, title XXVIII, § 2803(a)][/us/pl/111/383/s2803/a], Jan. 7, 2011, [124 Stat. 4458][/us/stat/124/4458].)
+(Added [Pub. L. 107–314, div. B, title XXVIII][/us/pl/107/314/dB/tXXVIII], § 2812(a)(1), Dec. 2, 2002, [116 Stat. 2707][/us/stat/116/2707]; amended [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1056(a)(1), (b), Jan. 6, 2006, [119 Stat. 3438][/us/stat/119/3438], 3439; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(22), Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399]; [Pub. L. 111–383, div. B, title XXVIII][/us/pl/111/383/dB/tXXVIII], § 2803(a), Jan. 7, 2011, [124 Stat. 4458][/us/stat/124/4458].)
 
  __References in Text__ 
 
@@ -106,13 +106,13 @@
 [/us/pl/106/504/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F504%2Fs1
 [/us/stat/114/2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2309
 [/us/usc/t10/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2801
-[/us/pl/107/314/s2812/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs2812%2Fa%2F1
+[/us/pl/107/314/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdB%2FtXXVIII
 [/us/stat/116/2707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2707
-[/us/pl/109/163/s1056/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1056%2Fa%2F1
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3438
-[/us/pl/109/364/s1071/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F22
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2399
-[/us/pl/111/383/s2803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2803%2Fa
+[/us/pl/111/383/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdB%2FtXXVIII
 [/us/stat/124/4458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4458
 [/us/pl/106/504/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F504%2Fs1
 [/us/stat/114/2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2309

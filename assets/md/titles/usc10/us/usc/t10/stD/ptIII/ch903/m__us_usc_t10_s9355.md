@@ -69,7 +69,7 @@
 
     (h) While performing duties as a member of the Board, each member of the Board and each adviser shall be reimbursed under Government travel regulations for travel expenses.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 567][/us/stat/70A/567]; [Pub. L. 96–579, § 13(c)][/us/pl/96/579/s13/c], Dec. 23, 1980, [94 Stat. 3369][/us/stat/94/3369]; [Pub. L. 104–106, div. A, title X, § 1061(e)(2)][/us/pl/104/106/s1061/e/2], title XV, § 1502(a)(12), Feb. 10, 1996, [110 Stat. 443][/us/stat/110/443], 503; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–375, div. A, title V, § 543][/us/pl/108/375/s543], Oct. 28, 2004, [118 Stat. 1904][/us/stat/118/1904]; [Pub. L. 109–364, div. A, title X, § 1071(a)(39)][/us/pl/109/364/s1071/a/39], Oct. 17, 2006, [120 Stat. 2400][/us/stat/120/2400].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 567][/us/stat/70A/567]; [Pub. L. 96–579][/us/pl/96/579], § 13(c), Dec. 23, 1980, [94 Stat. 3369][/us/stat/94/3369]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1061(e)(2), title XV, § 1502(a)(12), Feb. 10, 1996, [110 Stat. 443][/us/stat/110/443], 503; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 543, Oct. 28, 2004, [118 Stat. 1904][/us/stat/118/1904]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(39), Oct. 17, 2006, [120 Stat. 2400][/us/stat/120/2400].)
 
 <table>
 
@@ -223,9 +223,9 @@ June 29, 1948, ch. 714, §§ 1–6, 62 Stat. 1094; June 30, 1954, ch. 432, §�
 
     1999—Subsec. (a)(3). [Pub. L. 106–65][/us/pl/106/65] substituted “Committee on Armed Services” for “Committee on National Security”.
 
-    1996—Subsec. (a)(3). [Pub. L. 104–106, § 1502(a)(12)][/us/pl/104/106/s1502/a/12], substituted “National Security” for “Armed Services”.
+    1996—Subsec. (a)(3). [Pub. L. 104–106][/us/pl/104/106], § 1502(a)(12), substituted “National Security” for “Armed Services”.
 
-    Subsec. (h). [Pub. L. 104–106, § 1061(e)(2)][/us/pl/104/106/s1061/e/2], struck out “is entitled to not more than $5 a day and” after “each adviser”.
+    Subsec. (h). [Pub. L. 104–106][/us/pl/104/106], § 1061(e)(2), struck out “is entitled to not more than $5 a day and” after “each adviser”.
 
     1980—Subsec. (b). [Pub. L. 96–579][/us/pl/96/579] required member whose term of office had expired to continue service until appointment of a successor.
 
@@ -238,21 +238,21 @@ June 29, 1948, ch. 714, §§ 1–6, 62 Stat. 1094; June 30, 1954, ch. 432, §�
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F567
-[/us/pl/96/579/s13/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579%2Fs13%2Fc
+[/us/pl/96/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579
 [/us/stat/94/3369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3369
-[/us/pl/104/106/s1061/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1061%2Fe%2F2
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F443
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/108/375/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs543
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1904
-[/us/pl/109/364/s1071/a/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F39
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2400
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/104/106/s1502/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F12
-[/us/pl/104/106/s1061/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1061%2Fe%2F2
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/96/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579
 
 

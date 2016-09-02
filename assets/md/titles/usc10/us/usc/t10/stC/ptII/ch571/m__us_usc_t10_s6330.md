@@ -51,7 +51,7 @@
 
             (B) In the case of a member who is transferred to the Fleet Reserve or the Fleet Marine Corps Reserve under this section after December 30, 1977, service attributable under subparagraph (A) to time which, after December 31, 1977, is not actually served by the member may not be counted.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 396][/us/stat/70A/396]; [Pub. L. 85–583, § 1(2)][/us/pl/85/583/s1/2], (3), Aug. 1, 1958, [72 Stat. 480][/us/stat/72/480]; [Pub. L. 90–207, § 3(4)][/us/pl/90/207/s3/4], Dec. 16, 1967, [81 Stat. 653][/us/stat/81/653]; [Pub. L. 96–342, title VIII, § 813(d)(5)][/us/pl/96/342/s813/d/5], Sept. 8, 1980, [94 Stat. 1105][/us/stat/94/1105]; [Pub. L. 96–513, title V, § 513(17)][/us/pl/96/513/s513/17], (19), Dec. 12, 1980, [94 Stat. 2932][/us/stat/94/2932]; [Pub. L. 98–94, title IX, § 923(c)(3)][/us/pl/98/94/s923/c/3], Sept. 24, 1983, [97 Stat. 643][/us/stat/97/643]; [Pub. L. 99–348, title II, § 203(b)(6)][/us/pl/99/348/s203/b/6], title III, § 305(a)(1), July 1, 1986, [100 Stat. 696][/us/stat/100/696], 704; [Pub. L. 101–189, div. A, title VI, § 652(a)(5)][/us/pl/101/189/s652/a/5], Nov. 29, 1989, [103 Stat. 1461][/us/stat/103/1461]; [Pub. L. 109–163, div. A, title V, § 515(b)(1)(J)][/us/pl/109/163/s515/b/1/J], Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 396][/us/stat/70A/396]; [Pub. L. 85–583][/us/pl/85/583], § 1(2), (3), Aug. 1, 1958, [72 Stat. 480][/us/stat/72/480]; [Pub. L. 90–207][/us/pl/90/207], § 3(4), Dec. 16, 1967, [81 Stat. 653][/us/stat/81/653]; [Pub. L. 96–342, title VIII][/us/pl/96/342/tVIII], § 813(d)(5), Sept. 8, 1980, [94 Stat. 1105][/us/stat/94/1105]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(17), (19), Dec. 12, 1980, [94 Stat. 2932][/us/stat/94/2932]; [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], § 923(c)(3), Sept. 24, 1983, [97 Stat. 643][/us/stat/97/643]; [Pub. L. 99–348, title II][/us/pl/99/348/tII], § 203(b)(6), title III, § 305(a)(1), July 1, 1986, [100 Stat. 696][/us/stat/100/696], 704; [Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 652(a)(5), Nov. 29, 1989, [103 Stat. 1461][/us/stat/103/1461]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(J), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
 
 <table>
 
@@ -165,11 +165,11 @@ June 25, 1938, ch. 690, § 202 (less provisos), 52 Stat. 1178.  </td>
 
     “(2) this section.”
 
-    1986—Subsec. (c)(1). [Pub. L. 99–348, § 203(b)(6)(A)][/us/pl/99/348/s203/b/6/A], substituted provision that retainer pay be computed under section 6333 for provision that retainer pay, in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 2½ percent of the basic pay that he received at the time of transfer or, in the case of a member who served as master chief petty officer of the Navy or sergeant major of the Marine Corps, of the highest basic pay to which he was entitled while so serving, if that basic pay is higher than the basic pay received at the time of transfer, or in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 2½ percent of the monthly retainer pay base computed under section 1407(d), which rates were to be multiplied by the number of years of active service in the armed forces.
+    1986—Subsec. (c)(1). [Pub. L. 99–348][/us/pl/99/348], § 203(b)(6)(A), substituted provision that retainer pay be computed under section 6333 for provision that retainer pay, in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 2½ percent of the basic pay that he received at the time of transfer or, in the case of a member who served as master chief petty officer of the Navy or sergeant major of the Marine Corps, of the highest basic pay to which he was entitled while so serving, if that basic pay is higher than the basic pay received at the time of transfer, or in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 2½ percent of the monthly retainer pay base computed under section 1407(d), which rates were to be multiplied by the number of years of active service in the armed forces.
 
-    Subsec. (c)(4). [Pub. L. 99–348, § 203(b)(6)(B)][/us/pl/99/348/s203/b/6/B], struck out par. (4) which provided that in no case could a member’s retainer pay be more than 75 percent of the basic pay or monthly retainer pay base upon which computation of retainer pay was based.
+    Subsec. (c)(4). [Pub. L. 99–348][/us/pl/99/348], § 203(b)(6)(B), struck out par. (4) which provided that in no case could a member’s retainer pay be more than 75 percent of the basic pay or monthly retainer pay base upon which computation of retainer pay was based.
 
-    Subsec. (d). [Pub. L. 99–348, § 305(a)(1)][/us/pl/99/348/s305/a/1], designated existing provisions as par. (1), struck out provision that a completed minority enlistment be counted as four years of active service and an enlistment terminated within three months before the end of the term be counted as active service for the full term, and added pars. (2) and (3).
+    Subsec. (d). [Pub. L. 99–348][/us/pl/99/348], § 305(a)(1), designated existing provisions as par. (1), struck out provision that a completed minority enlistment be counted as four years of active service and an enlistment terminated within three months before the end of the term be counted as active service for the full term, and added pars. (2) and (3).
 
     1983—Subsec. (d). [Pub. L. 98–94][/us/pl/98/94] substituted “For the purposes of subsection (c), each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “For the purposes of subsections (b) and (c), a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded”.
 
@@ -179,9 +179,9 @@ June 25, 1938, ch. 690, § 202 (less provisos), 52 Stat. 1178.  </td>
 
     1967—Subsec. (c). [Pub. L. 90–207][/us/pl/90/207] inserted “, except that in the case of a member who has served as senior enlisted advisor of the Navy or sergeant major of the Marine Corps, retainer pay shall be computed on the basis of the highest basic pay to which he was entitled while so serving, if that basic pay is higher than the basic pay received at the time of transfer” after “armed forces”.
 
-    1958—Subsec. (a). [Pub. L. 85–583, § 1(2)][/us/pl/85/583/s1/2], substituted “naval service” for “Regular Navy and the Regular Marine Corps, respectively,”.
+    1958—Subsec. (a). [Pub. L. 85–583][/us/pl/85/583], § 1(2), substituted “naval service” for “Regular Navy and the Regular Marine Corps, respectively,”.
 
-    Subsec. (b). [Pub. L. 85–583, § 1(3)][/us/pl/85/583/s1/3], inserted “or the Naval Reserve” after “Regular Navy” and “or the Marine Corps Reserve” after “Regular Marine Corps”.
+    Subsec. (b). [Pub. L. 85–583][/us/pl/85/583], § 1(3), inserted “or the Naval Reserve” after “Regular Navy” and “or the Marine Corps Reserve” after “Regular Marine Corps”.
 
  __Effective Date of 1983 Amendment__ 
 
@@ -201,7 +201,7 @@ June 25, 1938, ch. 690, § 202 (less provisos), 52 Stat. 1178.  </td>
 
  __Retainer Pay of Enlisted Members of Regular Navy, Naval Reserve, Regular Marine Corps, or Marine Corps Reserve Transferred to Fleet Reserve or Fleet Marine Corps Reserve__ 
 
-    [Pub. L. 98–473, title I, § 101(h)][/us/pl/98/473/s101/h] \[title VIII, § 8039\], Oct. 12, 1984, [98 Stat. 1904][/us/stat/98/1904], 1930, limited the use of assets of the Department of Defense Military Retirement Fund to pay the retainer pay of enlisted members of the Regular Navy, the Naval Reserve, the Regular Marine Corps, or the Marine Corps Reserve who were transferred to the Fleet Reserve or the Fleet Marine Corps Reserve under this section on or after Dec. 31, 1977, prior to repeal by [Pub. L. 99–348, title III, § 305(a)(2)][/us/pl/99/348/s305/a/2], July 1, 1986, [100 Stat. 704][/us/stat/100/704]. See section 6330(d)(2) and (3) of this title.
+    [Pub. L. 98–473, title I][/us/pl/98/473/tI], § 101(h) \[title VIII, § 8039\], Oct. 12, 1984, [98 Stat. 1904][/us/stat/98/1904], 1930, limited the use of assets of the Department of Defense Military Retirement Fund to pay the retainer pay of enlisted members of the Regular Navy, the Naval Reserve, the Regular Marine Corps, or the Marine Corps Reserve who were transferred to the Fleet Reserve or the Fleet Marine Corps Reserve under this section on or after Dec. 31, 1977, prior to repeal by [Pub. L. 99–348, title III][/us/pl/99/348/tIII], § 305(a)(2), July 1, 1986, [100 Stat. 704][/us/stat/100/704]. See section 6330(d)(2) and (3) of this title.
 
  __Transfer of Former Members of Navy or Marine Corps to Fleet Reserve or Fleet Marine Corps Reserve; Transfer to Retired List__ 
 
@@ -233,21 +233,21 @@ June 25, 1938, ch. 690, § 202 (less provisos), 52 Stat. 1178.  </td>
 [/us/usc/t10/s6333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6333
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F396
-[/us/pl/85/583/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F583%2Fs1%2F2
+[/us/pl/85/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F583
 [/us/stat/72/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F480
-[/us/pl/90/207/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F207%2Fs3%2F4
+[/us/pl/90/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F207
 [/us/stat/81/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F653
-[/us/pl/96/342/s813/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs813%2Fd%2F5
+[/us/pl/96/342/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtVIII
 [/us/stat/94/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1105
-[/us/pl/96/513/s513/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F17
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2932
-[/us/pl/98/94/s923/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs923%2Fc%2F3
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F643
-[/us/pl/99/348/s203/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs203%2Fb%2F6
+[/us/pl/99/348/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtII
 [/us/stat/100/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F696
-[/us/pl/101/189/s652/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs652%2Fa%2F5
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1461
-[/us/pl/109/163/s515/b/1/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FJ
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3233
 [/us/usc/t34/s854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs854
 [/us/stat/66/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F505
@@ -262,16 +262,16 @@ June 25, 1938, ch. 690, § 202 (less provisos), 52 Stat. 1178.  </td>
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/stat/52/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1178
-[/us/pl/99/348/s203/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs203%2Fb%2F6%2FA
-[/us/pl/99/348/s203/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs203%2Fb%2F6%2FB
-[/us/pl/99/348/s305/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs305%2Fa%2F1
+[/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
+[/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
+[/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342
 [/us/usc/t10/s1402a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1402a
 [/us/pl/90/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F207
-[/us/pl/85/583/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F583%2Fs1%2F2
-[/us/pl/85/583/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F583%2Fs1%2F3
+[/us/pl/85/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F583
+[/us/pl/85/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F583
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/98/94/s923/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs923%2Fg
 [/us/usc/t10/s1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174
@@ -283,9 +283,9 @@ June 25, 1938, ch. 690, § 202 (less provisos), 52 Stat. 1178.  </td>
 [/us/usc/t37/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs203
 [/us/pl/102/484/s4403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4403
 [/us/usc/t10/s1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1293
-[/us/pl/98/473/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2Fh
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1904
-[/us/pl/99/348/s305/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs305%2Fa%2F2
+[/us/pl/99/348/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtIII
 [/us/stat/100/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F704
 [/us/act/1956-07-24/ch683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-24%2Fch683
 [/us/stat/70/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F626

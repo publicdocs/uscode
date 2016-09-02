@@ -41,7 +41,7 @@
 
         (2) The term “sensitive information” means confidential commercial, financial, or proprietary information, technical data, or other privileged information.
 
-(Added [Pub. L. 112–81, div. A, title VIII, § 802(a)(1)][/us/pl/112/81/s802/a/1], Dec. 31, 2011, [125 Stat. 1484][/us/stat/125/1484].)
+(Added [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 802(a)(1), Dec. 31, 2011, [125 Stat. 1484][/us/stat/125/1484].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/112/81/s802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs802%2Fa%2F1
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1484
 
 

@@ -17,7 +17,7 @@
 
     There is in the Marine Corps a Legislative Assistant to the Commandant. An officer assigned to that position shall be in a grade above colonel.
 
-(Added [Pub. L. 107–314, div. A, title V, § 504(d)(3)(A)][/us/pl/107/314/s504/d/3/A], Dec. 2, 2002, [116 Stat. 2532][/us/stat/116/2532].)
+(Added [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 504(d)(3)(A), Dec. 2, 2002, [116 Stat. 2532][/us/stat/116/2532].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/314/s504/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs504%2Fd%2F3%2FA
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2532
 
 

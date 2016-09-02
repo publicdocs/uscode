@@ -39,7 +39,7 @@
 
             (D) communicate, as appropriate, the requirements of the combatant commands to other elements of the Department of Defense.
 
-(Added [Pub. L. 99–433, title II, § 211(a)][/us/pl/99/433/s211/a], Oct. 1, 1986, [100 Stat. 1013][/us/stat/100/1013].)
+(Added [Pub. L. 99–433, title II][/us/pl/99/433/tII], § 211(a), Oct. 1, 1986, [100 Stat. 1013][/us/stat/100/1013].)
 
 ----------
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t10/s152/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs152%2Fc
 [/us/usc/t10/s164/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs164%2Fb%2F2
-[/us/pl/99/433/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs211%2Fa
+[/us/pl/99/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtII
 [/us/stat/100/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1013
 
 

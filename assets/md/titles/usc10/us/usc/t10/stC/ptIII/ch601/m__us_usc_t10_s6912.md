@@ -17,7 +17,7 @@
 
     Except as provided in section 402(a) and (b) of title 37, aviation cadets or their beneficiaries are entitled to the same allowances, pensions, gratuities, and other benefits as are provided for enlisted members in pay grade E–4. While on active duty, an aviation cadet is entitled to uniforms, clothing, and equipment at the expense of the United States.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 426][/us/stat/70A/426]; [Pub. L. 85–861, § 1(147)(A)][/us/pl/85/861/s1/147/A], Sept. 2, 1958, [72 Stat. 1513][/us/stat/72/1513]; [Pub. L. 87–649, § 6(f)(6)][/us/pl/87/649/s6/f/6], Sept. 7, 1962, [76 Stat. 494][/us/stat/76/494].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 426][/us/stat/70A/426]; [Pub. L. 85–861][/us/pl/85/861], § 1(147)(A), Sept. 2, 1958, [72 Stat. 1513][/us/stat/72/1513]; [Pub. L. 87–649][/us/pl/87/649], § 6(f)(6), Sept. 7, 1962, [76 Stat. 494][/us/stat/76/494].)
 
 <table>
 
@@ -156,9 +156,9 @@ Source (Statutes at Large)  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F426
-[/us/pl/85/861/s1/147/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F147%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1513
-[/us/pl/87/649/s6/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs6%2Ff%2F6
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F494
 [/us/usc/t37/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs231
 [/us/stat/65/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F37

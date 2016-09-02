@@ -31,7 +31,7 @@
 
     (d) Payment of an amount under subsection (a) is not an admission by the United States of liability for the accident concerned.
 
-(Added [Pub. L. 87–212, § 1(1)][/us/pl/87/212/s1/1], Sept. 8, 1961, [75 Stat. 488][/us/stat/75/488]; amended [Pub. L. 90–521, § 2][/us/pl/90/521/s2], Sept. 26, 1968, [82 Stat. 874][/us/stat/82/874]; [Pub. L. 98–564, § 3][/us/pl/98/564/s3], Oct. 30, 1984, [98 Stat. 2919][/us/stat/98/2919]; [Pub. L. 100–456, div. A, title VII, § 735(a)][/us/pl/100/456/s735/a], Sept. 29, 1988, [102 Stat. 2005][/us/stat/102/2005].)
+(Added [Pub. L. 87–212][/us/pl/87/212], § 1(1), Sept. 8, 1961, [75 Stat. 488][/us/stat/75/488]; amended [Pub. L. 90–521][/us/pl/90/521], § 2, Sept. 26, 1968, [82 Stat. 874][/us/stat/82/874]; [Pub. L. 98–564][/us/pl/98/564], § 3, Oct. 30, 1984, [98 Stat. 2919][/us/stat/98/2919]; [Pub. L. 100–456, div. A, title VII][/us/pl/100/456/dA/tVII], § 735(a), Sept. 29, 1988, [102 Stat. 2005][/us/stat/102/2005].)
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–456, div. A, title VII, § 735(b)][/us/pl/100/456/s735/b], Sept. 29, 1988, [102 Stat. 2006][/us/stat/102/2006], provided that: 
+[Pub. L. 100–456, div. A, title VII][/us/pl/100/456/dA/tVII], § 735(b), Sept. 29, 1988, [102 Stat. 2006][/us/stat/102/2006], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to any claim which would otherwise be payable under section 2733 or 2734 of title 10, United States Code, or under [section 715 of title 32][/us/usc/t32/s715], United States Code, and which has not been finally settled on or before the date of the enactment of this Act \[Sept. 29, 1988\].”
 
@@ -57,20 +57,20 @@
 ----------
 
 [/us/usc/t32/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs715
-[/us/pl/87/212/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F212%2Fs1%2F1
+[/us/pl/87/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F212
 [/us/stat/75/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F488
-[/us/pl/90/521/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F521%2Fs2
+[/us/pl/90/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F521
 [/us/stat/82/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F874
-[/us/pl/98/564/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F564%2Fs3
+[/us/pl/98/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F564
 [/us/stat/98/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2919
-[/us/pl/100/456/s735/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs735%2Fa
+[/us/pl/100/456/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVII
 [/us/stat/102/2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2005
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/usc/t32/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs715
 [/us/pl/98/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F564
 [/us/pl/90/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F521
 [/us/pl/90/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F521
-[/us/pl/100/456/s735/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs735%2Fb
+[/us/pl/100/456/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVII
 [/us/stat/102/2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2006
 [/us/usc/t32/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs715
 

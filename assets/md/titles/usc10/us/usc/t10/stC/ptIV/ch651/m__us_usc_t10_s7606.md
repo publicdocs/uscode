@@ -51,7 +51,7 @@
 
     (h) Appropriations for subsistence of the Navy or Marine Corps may be applied to the purchase of subsistence supplies for sale to members of the Navy and Marine Corps on active duty for the use of such members and their families.
 
-(Added [Pub. L. 104–106, div. A, title III, § 375(a)(1)][/us/pl/104/106/s375/a/1], Feb. 10, 1996, [110 Stat. 281][/us/stat/110/281]; amended [Pub. L. 105–85, div. A, title X, § 1073(a)(63)][/us/pl/105/85/s1073/a/63], Nov. 18, 1997, [111 Stat. 1903][/us/stat/111/1903].)
+(Added [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 375(a)(1), Feb. 10, 1996, [110 Stat. 281][/us/stat/110/281]; amended [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(63), Nov. 18, 1997, [111 Stat. 1903][/us/stat/111/1903].)
 
  __Amendments__ 
 
@@ -65,9 +65,9 @@
 ----------
 
 [/us/usc/t10/s2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2208
-[/us/pl/104/106/s375/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs375%2Fa%2F1
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F281
-[/us/pl/105/85/s1073/a/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F63
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1903
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 

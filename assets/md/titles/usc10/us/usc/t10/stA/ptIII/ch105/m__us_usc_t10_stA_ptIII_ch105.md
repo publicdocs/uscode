@@ -51,11 +51,11 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–337, div. A, title XVI, § 1663(c)(7)(A)][/us/pl/103/337/s1663/c/7/A], Oct. 5, 1994, [108 Stat. 3008][/us/stat/108/3008], redesignated item for subchapter III as item for subchapter II and struck out former item for subchapter II “Health Professions Stipend Program for Reserve Service”.
+    1994—[Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1663(c)(7)(A), Oct. 5, 1994, [108 Stat. 3008][/us/stat/108/3008], redesignated item for subchapter III as item for subchapter II and struck out former item for subchapter II “Health Professions Stipend Program for Reserve Service”.
 
-    1989—[Pub. L. 101–189, div. A, title VII][/us/pl/101/189], §§ 707(b), 725(h)(3), Nov. 29, 1989, [103 Stat. 1475][/us/stat/103/1475], 1480, substituted “and Financial Assistance Program” for “Program” in item for subchapter I and added item for subchapter III.
+    1989—[Pub. L. 101–189, div. A, title VII][/us/pl/101/189/dA/tVII], §§ 707(b), 725(h)(3), Nov. 29, 1989, [103 Stat. 1475][/us/stat/103/1475], 1480, substituted “and Financial Assistance Program” for “Program” in item for subchapter I and added item for subchapter III.
 
-    1987—[Pub. L. 100–180, div. A, title VII, § 711(a)(1)][/us/pl/100/180/s711/a/1], Dec. 4, 1987, [101 Stat. 1108][/us/stat/101/1108], substituted “FINANCIAL ASSISTANCE PROGRAMS” for “SCHOLARSHIP PROGRAM” in chapter heading, and added subchapter analysis, consisting of subchapters I and II.
+    1987—[Pub. L. 100–180, div. A, title VII][/us/pl/100/180/dA/tVII], § 711(a)(1), Dec. 4, 1987, [101 Stat. 1108][/us/stat/101/1108], substituted “FINANCIAL ASSISTANCE PROGRAMS” for “SCHOLARSHIP PROGRAM” in chapter heading, and added subchapter analysis, consisting of subchapters I and II.
 
 ----------
 
@@ -64,11 +64,11 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1663/c/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fc%2F7%2FA
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3008
-[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVII
 [/us/stat/103/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1475
-[/us/pl/100/180/s711/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs711%2Fa%2F1
+[/us/pl/100/180/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVII
 [/us/stat/101/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1108
 
 

@@ -35,11 +35,11 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–375, div. A, title X, § 1072(d)(3)][/us/pl/108/375/s1072/d/3], Oct. 28, 2004, [118 Stat. 2058][/us/stat/118/2058], struck out items 9741 “Control and supervision”, 9743 “Officers: use of transportation”, and 9746 “Civilian personnel in Alaska”.
+    2004—[Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1072(d)(3), Oct. 28, 2004, [118 Stat. 2058][/us/stat/118/2058], struck out items 9741 “Control and supervision”, 9743 “Officers: use of transportation”, and 9746 “Civilian personnel in Alaska”.
 
-    1996—[Pub. L. 104–201, div. A, title IX, § 906(d)(3)][/us/pl/104/201/s906/d/3], Sept. 23, 1996, [110 Stat. 2620][/us/stat/110/2620], struck out item 9742 “Control of transportation systems in time of war”.
+    1996—[Pub. L. 104–201, div. A, title IX][/us/pl/104/201/dA/tIX], § 906(d)(3), Sept. 23, 1996, [110 Stat. 2620][/us/stat/110/2620], struck out item 9742 “Control of transportation systems in time of war”.
 
-    1962—[Pub. L. 87–651, title I, § 129(2)][/us/pl/87/651/s129/2], Sept. 7, 1962, [76 Stat. 514][/us/stat/76/514], struck out item 9748 “Motor vehicles: for members on permanent change of station”.
+    1962—[Pub. L. 87–651, title I][/us/pl/87/651/tI], § 129(2), Sept. 7, 1962, [76 Stat. 514][/us/stat/76/514], struck out item 9748 “Motor vehicles: for members on permanent change of station”.
 
 ----------
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/pl/108/375/s1072/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1072%2Fd%2F3
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2058
-[/us/pl/104/201/s906/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs906%2Fd%2F3
+[/us/pl/104/201/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIX
 [/us/stat/110/2620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2620
-[/us/pl/87/651/s129/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs129%2F2
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F514
 
 

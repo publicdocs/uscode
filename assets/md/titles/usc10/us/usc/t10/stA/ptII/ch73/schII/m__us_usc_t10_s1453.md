@@ -27,7 +27,7 @@
 
         (2) recovery of such amount would be contrary to the purposes of this subchapter or against equity and good conscience.
 
-(Added [Pub. L. 92–425, § 1(3)][/us/pl/92/425/s1/3], Sept. 21, 1972, [86 Stat. 710][/us/stat/86/710]; amended [Pub. L. 104–201, div. A, title VI, § 634][/us/pl/104/201/s634], Sept. 23, 1996, [110 Stat. 2577][/us/stat/110/2577]; [Pub. L. 104–316, title I, § 105(a)][/us/pl/104/316/s105/a], Oct. 19, 1996, [110 Stat. 3830][/us/stat/110/3830].)
+(Added [Pub. L. 92–425][/us/pl/92/425], § 1(3), Sept. 21, 1972, [86 Stat. 710][/us/stat/86/710]; amended [Pub. L. 104–201, div. A, title VI][/us/pl/104/201/dA/tVI], § 634, Sept. 23, 1996, [110 Stat. 2577][/us/stat/110/2577]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 105(a), Oct. 19, 1996, [110 Stat. 3830][/us/stat/110/3830].)
 
  __Amendments__ 
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/pl/92/425/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425%2Fs1%2F3
+[/us/pl/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425
 [/us/stat/86/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F710
-[/us/pl/104/201/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs634
+[/us/pl/104/201/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVI
 [/us/stat/110/2577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2577
-[/us/pl/104/316/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs105%2Fa
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3830
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316

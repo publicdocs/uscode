@@ -17,7 +17,7 @@
 
     Under regulations prescribed by the Secretary concerned, an accused who has been sentenced by a court-martial may be required to take leave pending completion of action under this subchapter if the sentence, as approved under [section 860 of this title][/us/usc/t10/s860] (article 60), includes an unsuspended dismissal or an unsuspended dishonorable or bad-conduct discharge. The accused may be required to begin such leave on the date on which the sentence is approved under [section 860 of this title][/us/usc/t10/s860] (article 60) or at any time after such date, and such leave may be continued until the date on which action under this subchapter is completed or may be terminated at any earlier time.
 
-(Added [Pub. L. 97–81, § 2(c)(1)][/us/pl/97/81/s2/c/1], Nov. 20, 1981, [95 Stat. 1087][/us/stat/95/1087]; amended [Pub. L. 98–209, § 5(g)][/us/pl/98/209/s5/g], Dec. 6, 1983, [97 Stat. 1400][/us/stat/97/1400].)
+(Added [Pub. L. 97–81][/us/pl/97/81], § 2(c)(1), Nov. 20, 1981, [95 Stat. 1087][/us/stat/95/1087]; amended [Pub. L. 98–209][/us/pl/98/209], § 5(g), Dec. 6, 1983, [97 Stat. 1400][/us/stat/97/1400].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 
 [/us/usc/t10/s860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs860
 [/us/usc/t10/s860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs860
-[/us/pl/97/81/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81%2Fs2%2Fc%2F1
+[/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/stat/95/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1087
-[/us/pl/98/209/s5/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs5%2Fg
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1400
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/usc/t10/s860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs860

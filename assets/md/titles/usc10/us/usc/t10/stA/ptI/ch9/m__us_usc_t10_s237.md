@@ -17,7 +17,7 @@
 
     The Secretary of Defense shall submit to Congress, as a part of the documentation that supports the President’s annual budget for the Department of Defense, a budget justification display with respect to embedded mental health providers within each reserve component, including the amount requested for each such component.
 
-(Added [Pub. L. 113–66, div. A, title VII, § 721(a)][/us/pl/113/66/s721/a], Dec. 26, 2013, [127 Stat. 799][/us/stat/127/799].)
+(Added [Pub. L. 113–66, div. A, title VII][/us/pl/113/66/dA/tVII], § 721(a), Dec. 26, 2013, [127 Stat. 799][/us/stat/127/799].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/113/66/s721/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs721%2Fa
+[/us/pl/113/66/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVII
 [/us/stat/127/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F799
 
 

@@ -29,7 +29,7 @@
 
     (b) If the sentence of a member who is reduced in pay grade under subsection (a) is set aside or disapproved, or, as finally approved, does not include any punishment named in subsection (a)(1), (2), or (3), the rights and privileges of which he was deprived because of that reduction shall be restored to him and he is entitled to the pay and allowances to which he would have been entitled, for the period the reduction was in effect, had he not been so reduced.
 
-(Added [Pub. L. 86–633, § 1(1)][/us/pl/86/633/s1/1], July 12, 1960, [74 Stat. 468][/us/stat/74/468].)
+(Added [Pub. L. 86–633][/us/pl/86/633], § 1(1), July 12, 1960, [74 Stat. 468][/us/stat/74/468].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/86/633/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F633%2Fs1%2F1
+[/us/pl/86/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F633
 [/us/stat/74/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F468
 
 

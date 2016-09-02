@@ -27,7 +27,7 @@
 
     (b) This section does not apply to a contract that is for an amount not greater than the simplified acquisition threshold (as defined in [section 134 of title 41][/us/usc/t41/s134]).
 
-(Added [Pub. L. 87–651, title II, § 207(a)][/us/pl/87/651/s207/a], Sept. 7, 1962, [76 Stat. 520][/us/stat/76/520]; amended [Pub. L. 104–106, div. A, title VIII, § 801][/us/pl/104/106/s801], Feb. 10, 1996, [110 Stat. 389][/us/stat/110/389]; [Pub. L. 111–350, § 5(b)(5)][/us/pl/111/350/s5/b/5], Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842].)
+(Added [Pub. L. 87–651, title II][/us/pl/87/651/tII], § 207(a), Sept. 7, 1962, [76 Stat. 520][/us/stat/76/520]; amended [Pub. L. 104–106, div. A, title VIII][/us/pl/104/106/dA/tVIII], § 801, Feb. 10, 1996, [110 Stat. 389][/us/stat/110/389]; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(5), Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842].)
 
 <table>
 
@@ -89,11 +89,11 @@ June 30, 1954, ch. 432, § 719, 68 Stat. 353.  </td>
 ----------
 
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
-[/us/pl/87/651/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs207%2Fa
+[/us/pl/87/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtII
 [/us/stat/76/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F520
-[/us/pl/104/106/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs801
+[/us/pl/104/106/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVIII
 [/us/stat/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F389
-[/us/pl/111/350/s5/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3842
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134

@@ -17,7 +17,7 @@
 
     Under regulations prescribed by the Secretary of the Army, the Commandant of the Judge Advocate General’s School of the Army may, upon recommendation by the faculty of such school, confer the degree of master of laws (LL.M.) in military law upon graduates of the school who have fulfilled the requirements for that degree.
 
-(Added [Pub. L. 100–180, div. A, title V, § 504(a)][/us/pl/100/180/s504/a], Dec. 4, 1987, [101 Stat. 1086][/us/stat/101/1086].)
+(Added [Pub. L. 100–180, div. A, title V][/us/pl/100/180/dA/tV], § 504(a), Dec. 4, 1987, [101 Stat. 1086][/us/stat/101/1086].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/180/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs504%2Fa
+[/us/pl/100/180/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtV
 [/us/stat/101/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1086
 
 

@@ -31,7 +31,7 @@
 
     In this section, the term “armor-piercing ammunition” means a center-fire cartridge the military designation of which includes the term “armor penetrator” or “armor-piercing”, including a center-fire cartridge designated as armor-piercing incendiary (API) or armor-piercing incendiary-tracer (API–T).
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 382(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–85.)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 382(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–85.)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 382(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–85, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 382(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–85, provided that: 
 
 > “[Section 4688 of title 10][/us/usc/t10/s4688], United States Code, as added by subsection (a), shall apply with respect to any disposal of ammunition or components referred to in that section after the date of the enactment of this Act \[Oct. 30, 2000\].”
 
@@ -51,12 +51,12 @@
 ----------
 
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s4688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4688
 

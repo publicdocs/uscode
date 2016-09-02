@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–92, div. A, title X, § 1073(c)(2)][/us/pl/114/92/s1073/c/2], Nov. 25, 2015, [129 Stat. 996][/us/stat/129/996], struck out item 10542 “Army National Guard combat readiness: annual report”.
+    2015—[Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1073(c)(2), Nov. 25, 2015, [129 Stat. 996][/us/stat/129/996], struck out item 10542 “Army National Guard combat readiness: annual report”.
 
-    1996—[Pub. L. 104–201, title XII, § 1257(a)(2)][/us/pl/104/201/s1257/a/2], Sept. 23, 1996, [110 Stat. 2699][/us/stat/110/2699], added item 10543.
+    1996—[Pub. L. 104–201, title XII][/us/pl/104/201/tXII], § 1257(a)(2), Sept. 23, 1996, [110 Stat. 2699][/us/stat/110/2699], added item 10543.
 
 ----------
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/114/92/s1073/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1073%2Fc%2F2
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F996
-[/us/pl/104/201/s1257/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1257%2Fa%2F2
+[/us/pl/104/201/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FtXII
 [/us/stat/110/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2699
 
 

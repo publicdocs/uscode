@@ -57,37 +57,37 @@
 
         (2) The term “GPS Standard Positioning Service” means the civil and commercial service provided by the basic Global Positioning System as defined in the 1996 Federal Radionavigation Plan (published jointly by the Secretary of Defense and the Secretary of Transportation in July 1997).
 
-(Added [Pub. L. 105–85, div. A, title X, § 1074(d)(1)][/us/pl/105/85/s1074/d/1], Nov. 18, 1997, [111 Stat. 1909][/us/stat/111/1909]; amended [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title IX, § 914][/us/pl/108/136/s914], Nov. 24, 2003, [117 Stat. 1567][/us/stat/117/1567]; [Pub. L. 111–84, div. A, title X, § 1032][/us/pl/111/84/s1032], Oct. 28, 2009, [123 Stat. 2448][/us/stat/123/2448]; [Pub. L. 112–239, div. A, title X, § 1064][/us/pl/112/239/s1064], Jan. 2, 2013, [126 Stat. 1941][/us/stat/126/1941].)
+(Added [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1074(d)(1), Nov. 18, 1997, [111 Stat. 1909][/us/stat/111/1909]; amended [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 914, Nov. 24, 2003, [117 Stat. 1567][/us/stat/117/1567]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1032, Oct. 28, 2009, [123 Stat. 2448][/us/stat/123/2448]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1064, Jan. 2, 2013, [126 Stat. 1941][/us/stat/126/1941].)
 
  __References in Text__ 
 
-    Section 507 of the International Maritime Satellite Telecommunications Act, referred to in subsec. (c), is [section 507 of Pub. L. 87–624][/us/pl/87/624/s507] which was classified to [section 756 of Title 47][/us/usc/t47/s756], Telecommunications, prior to repeal by [Pub. L. 103–414, title III, § 304(b)(5)][/us/pl/103/414/s304/b/5], Oct. 25, 1994, [108 Stat. 4298][/us/stat/108/4298].
+    Section 507 of the International Maritime Satellite Telecommunications Act, referred to in subsec. (c), is [section 507 of Pub. L. 87–624][/us/pl/87/624/s507] which was classified to [section 756 of Title 47][/us/usc/t47/s756], Telecommunications, prior to repeal by [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 304(b)(5), Oct. 25, 1994, [108 Stat. 4298][/us/stat/108/4298].
 
  __Amendments__ 
 
     2013—Subsecs. (d), (e). [Pub. L. 112–239][/us/pl/112/239] redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to biennial reports on the Global Positioning System.
 
-    2009—Subsec. (d)(1). [Pub. L. 111–84, § 1032(a)(1)][/us/pl/111/84/s1032/a/1], in introductory provisions, substituted “the Deputy Secretary of Defense and the Deputy Secretary of Transportation, in their capacity as co-chairs of the National Executive Committee for Space-Based Positioning, Navigation, and Timing,” for “the Secretary of Defense” and “the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on Armed Services, Energy and Commerce, and Transportation and Infrastructure of the House of Representatives” for “the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives”.
+    2009—Subsec. (d)(1). [Pub. L. 111–84][/us/pl/111/84], § 1032(a)(1), in introductory provisions, substituted “the Deputy Secretary of Defense and the Deputy Secretary of Transportation, in their capacity as co-chairs of the National Executive Committee for Space-Based Positioning, Navigation, and Timing,” for “the Secretary of Defense” and “the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on Armed Services, Energy and Commerce, and Transportation and Infrastructure of the House of Representatives” for “the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives”.
 
-    Subsec. (d)(1)(B)(ii). [Pub. L. 111–84, § 1032(b)][/us/pl/111/84/s1032/b], inserted “validated” before “performance requirements” and “in accordance with Office of Management and Budget Circular A–109” after “Plan”.
+    Subsec. (d)(1)(B)(ii). [Pub. L. 111–84][/us/pl/111/84], § 1032(b), inserted “validated” before “performance requirements” and “in accordance with Office of Management and Budget Circular A–109” after “Plan”.
 
-    Subsec. (d)(2). [Pub. L. 111–84, § 1032(a)(2)][/us/pl/111/84/s1032/a/2], added par. (2) and struck out former par. (2), which read as follows: “In preparing the parts of each such report required under subparagraphs (C), (D), (E), (F), and (G) of paragraph (1), the Secretary of Defense shall consult with the Secretary of State, the Secretary of Commerce, and the Secretary of Transportation.”
+    Subsec. (d)(2). [Pub. L. 111–84][/us/pl/111/84], § 1032(a)(2), added par. (2) and struck out former par. (2), which read as follows: “In preparing the parts of each such report required under subparagraphs (C), (D), (E), (F), and (G) of paragraph (1), the Secretary of Defense shall consult with the Secretary of State, the Secretary of Commerce, and the Secretary of Transportation.”
 
-    2003—Subsec. (d)(1)(C). [Pub. L. 108–136, § 914(a)(1)][/us/pl/108/136/s914/a/1], (2), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The most recent determination by the President regarding continued use of the selective availability feature of the system and the expected date of any change or elimination of the use of that feature.”
+    2003—Subsec. (d)(1)(C). [Pub. L. 108–136][/us/pl/108/136], § 914(a)(1), (2), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The most recent determination by the President regarding continued use of the selective availability feature of the system and the expected date of any change or elimination of the use of that feature.”
 
-    Subsec. (d)(1)(D). [Pub. L. 108–136, § 914(a)(3)][/us/pl/108/136/s914/a/3], redesignated subpar. (E) as (D) and substituted “Progress and challenges in” for “Any progress made toward”. Former subpar. (D) redesignated (C).
+    Subsec. (d)(1)(D). [Pub. L. 108–136][/us/pl/108/136], § 914(a)(3), redesignated subpar. (E) as (D) and substituted “Progress and challenges in” for “Any progress made toward”. Former subpar. (D) redesignated (C).
 
-    Subsec. (d)(1)(E). [Pub. L. 108–136, § 914(a)(4)][/us/pl/108/136/s914/a/4], added subpar. (E). Former subpar. (E) redesignated (D).
+    Subsec. (d)(1)(E). [Pub. L. 108–136][/us/pl/108/136], § 914(a)(4), added subpar. (E). Former subpar. (E) redesignated (D).
 
-    Subsec. (d)(1)(F). [Pub. L. 108–136, § 914(a)(4)][/us/pl/108/136/s914/a/4], added subpar. (F) and struck out former subpar. (F) which read as follows: “Any progress made toward protecting GPS from disruption and interference.”
+    Subsec. (d)(1)(F). [Pub. L. 108–136][/us/pl/108/136], § 914(a)(4), added subpar. (F) and struck out former subpar. (F) which read as follows: “Any progress made toward protecting GPS from disruption and interference.”
 
-    Subsec. (d)(2). [Pub. L. 108–136, § 914(b)][/us/pl/108/136/s914/b], inserted “(C),” after “under subparagraphs”.
+    Subsec. (d)(2). [Pub. L. 108–136][/us/pl/108/136], § 914(b), inserted “(C),” after “under subparagraphs”.
 
     1999—Subsec. (d)(1). [Pub. L. 106–65][/us/pl/106/65] substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
  __Quarterly Reports on Global Positioning System III Space Segment, Global Positioning System Operational Control Segment, and Military Global Positioning System User Equipment Acquisition Programs__ 
 
-[Pub. L. 114–92, div. A, title XVI, § 1621][/us/pl/114/92/s1621], Nov. 25, 2015, [129 Stat. 1109][/us/stat/129/1109], provided that:
+[Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1621, Nov. 25, 2015, [129 Stat. 1109][/us/stat/129/1109], provided that:
 
 >     “(a)  __Reports Required__  __.—__ 
 
@@ -121,7 +121,7 @@
 
  __Limitation on Construction on United States Territory of Satellite Positioning Ground Monitoring Stations of Foreign Governments__ 
 
-[Pub. L. 113–66, div. A, title XVI, § 1602(b)][/us/pl/113/66/s1602/b], Dec. 26, 2013, [127 Stat. 943][/us/stat/127/943], provided that:
+[Pub. L. 113–66, div. A, title XVI][/us/pl/113/66/dA/tXVI], § 1602(b), Dec. 26, 2013, [127 Stat. 943][/us/stat/127/943], provided that:
 
 >     “(1) __Certification.—__ 
 
@@ -185,13 +185,13 @@
 
  __Use of Funds for Global Positioning System__ 
 
-[Pub. L. 112–10, div. A, title VIII, § 8068][/us/pl/112/10/s8068], Apr. 15, 2011, [125 Stat. 73][/us/stat/125/73], provided that: 
+[Pub. L. 112–10, div. A, title VIII][/us/pl/112/10/dA/tVIII], § 8068, Apr. 15, 2011, [125 Stat. 73][/us/stat/125/73], provided that: 
 
 > “Funds available to the Department of Defense for the Global Positioning System during the current fiscal year, and hereafter, may be used to fund civil requirements associated with the satellite and ground control segments of such system’s modernization program.”
 
  __Limitation on Use of Funds for Purchasing Global Positioning System User Equipment__ 
 
-[Pub. L. 111–383, div. A, title IX, § 913][/us/pl/111/383/s913], Jan. 7, 2011, [124 Stat. 4328][/us/stat/124/4328], as amended by [Pub. L. 114–92, div. A, title XVI, § 1605][/us/pl/114/92/s1605], Nov. 25, 2015, [129 Stat. 1099][/us/stat/129/1099], provided that:
+[Pub. L. 111–383, div. A, title IX][/us/pl/111/383/dA/tIX], § 913, Jan. 7, 2011, [124 Stat. 4328][/us/stat/124/4328], as amended by [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1605, Nov. 25, 2015, [129 Stat. 1099][/us/stat/129/1099], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -215,7 +215,7 @@
 
  __Authorization of Interagency Support for Global Positioning System__ 
 
-[Pub. L. 106–405, § 8][/us/pl/106/405/s8], Nov. 1, 2000, [114 Stat. 1753][/us/stat/114/1753], as amended by [Pub. L. 109–364, div. A, title IX, § 911][/us/pl/109/364/s911], Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354], provided that: 
+[Pub. L. 106–405][/us/pl/106/405], § 8, Nov. 1, 2000, [114 Stat. 1753][/us/stat/114/1753], as amended by [Pub. L. 109–364, div. A, title IX][/us/pl/109/364/dA/tIX], § 911, Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354], provided that: 
 
 > “The use of multi-agency funding and other forms of support is hereby authorized for the functions and activities of the following organizations established pursuant to the United States Space-Based Position, Navigation, and Timing Policy issued December 8, 2004 (and any successor organization, to the extent the successor organization performs the functions of the specified organization):
 
@@ -227,7 +227,7 @@
 
  __Enhanced Global Positioning System Program__ 
 
-[Pub. L. 105–261, div. A, title II, § 218][/us/pl/105/261/s218], Oct. 17, 1998, [112 Stat. 1951][/us/stat/112/1951], provided that:
+[Pub. L. 105–261, div. A, title II][/us/pl/105/261/dA/tII], § 218, Oct. 17, 1998, [112 Stat. 1951][/us/stat/112/1951], provided that:
 
 >     “(a)  __Policy on Priority for Development of Enhanced GPS System__  __.—__ 
 
@@ -265,7 +265,7 @@
 
  __Sustainment and Operation of Global Positioning System__ 
 
-[Pub. L. 105–85, div. A, title X, § 1074(a)][/us/pl/105/85/s1074/a], (b), Nov. 18, 1997, [111 Stat. 1907][/us/stat/111/1907], provided that:
+[Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1074(a), (b), Nov. 18, 1997, [111 Stat. 1907][/us/stat/111/1907], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -311,7 +311,7 @@
 
  __Access to Global Positioning System__ 
 
-[Pub. L. 104–106, div. A, title II, § 279][/us/pl/104/106/s279], Feb. 10, 1996, [110 Stat. 243][/us/stat/110/243], provided that:
+[Pub. L. 104–106, div. A, title II][/us/pl/104/106/dA/tII], § 279, Feb. 10, 1996, [110 Stat. 243][/us/stat/110/243], provided that:
 
 >     “(a)  __Conditional Prohibition on Use of Selective Availability Feature__  __.—__ 
 
@@ -327,11 +327,11 @@
 
  __Limitation on Procurement of Systems Not GPS-Equipped__ 
 
-[Pub. L. 103–160, div. A, title I, § 152(b)][/us/pl/103/160/s152/b], Nov. 30, 1993, [107 Stat. 1578][/us/stat/107/1578], as amended by [Pub. L. 105–261, div. A, title II, § 218(e)][/us/pl/105/261/s218/e], Oct. 17, 1998, [112 Stat. 1952][/us/stat/112/1952]; [Pub. L. 109–163, div. A, title II, § 260(a)][/us/pl/109/163/s260/a], Jan. 6, 2006, [119 Stat. 3185][/us/stat/119/3185], provided that: 
+[Pub. L. 103–160, div. A, title I][/us/pl/103/160/dA/tI], § 152(b), Nov. 30, 1993, [107 Stat. 1578][/us/stat/107/1578], as amended by [Pub. L. 105–261, div. A, title II][/us/pl/105/261/dA/tII], § 218(e), Oct. 17, 1998, [112 Stat. 1952][/us/stat/112/1952]; [Pub. L. 109–163, div. A, title II][/us/pl/109/163/dA/tII], § 260(a), Jan. 6, 2006, [119 Stat. 3185][/us/stat/119/3185], provided that: 
 
 > “After September 30, 2007, funds may not be obligated to modify or procure any Department of Defense aircraft, ship, armored vehicle, or indirect-fire weapon system that is not equipped with a Global Positioning System receiver.”
 
-\[[Pub. L. 109–163, div. A, title II, § 260(b)][/us/pl/109/163/s260/b], Jan. 6, 2006, [119 Stat. 3186][/us/stat/119/3186], provided that: 
+\[[Pub. L. 109–163, div. A, title II][/us/pl/109/163/dA/tII], § 260(b), Jan. 6, 2006, [119 Stat. 3186][/us/stat/119/3186], provided that: 
 
 > “The amendment made by subsection (a) \[amending [section 152(b) of Pub. L. 103–160][/us/pl/103/160/s152/b], set out above\] shall be deemed to have taken effect at the close of September 30, 2005, and any obligation or expenditure of funds by the Department of Defense during the period beginning on October 1, 2005, and ending on the date of the enactment of this Act \[Jan. 6, 2006\] to modify or procure a Department of Defense aircraft, ship, armored vehicle, or indirect-fire weapon system that is not equipped with a Global Positioning System receiver is hereby ratified with respect to the provision of law specified in subsection (a).”
 
@@ -345,62 +345,62 @@
 ----------
 
 [/us/usc/t47/s756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs756
-[/us/pl/105/85/s1074/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1074%2Fd%2F1
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1909
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/108/136/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs914
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1567
-[/us/pl/111/84/s1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1032
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2448
-[/us/pl/112/239/s1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1064
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1941
 [/us/pl/87/624/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2Fs507
 [/us/usc/t47/s756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs756
-[/us/pl/103/414/s304/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs304%2Fb%2F5
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4298
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/111/84/s1032/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1032%2Fa%2F1
-[/us/pl/111/84/s1032/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1032%2Fb
-[/us/pl/111/84/s1032/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1032%2Fa%2F2
-[/us/pl/108/136/s914/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs914%2Fa%2F1
-[/us/pl/108/136/s914/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs914%2Fa%2F3
-[/us/pl/108/136/s914/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs914%2Fa%2F4
-[/us/pl/108/136/s914/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs914%2Fa%2F4
-[/us/pl/108/136/s914/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs914%2Fb
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/114/92/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1621
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1109
-[/us/pl/113/66/s1602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1602%2Fb
+[/us/pl/113/66/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVI
 [/us/stat/127/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F943
-[/us/pl/112/10/s8068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs8068
+[/us/pl/112/10/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdA%2FtVIII
 [/us/stat/125/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F73
-[/us/pl/111/383/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs913
+[/us/pl/111/383/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIX
 [/us/stat/124/4328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4328
-[/us/pl/114/92/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1605
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1099
-[/us/pl/106/405/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F405%2Fs8
+[/us/pl/106/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F405
 [/us/stat/114/1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1753
-[/us/pl/109/364/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs911
+[/us/pl/109/364/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIX
 [/us/stat/120/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2354
-[/us/pl/105/261/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs218
+[/us/pl/105/261/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtII
 [/us/stat/112/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1951
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/stat/110/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F243
 [/us/usc/t10/s2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2281
 [/us/pl/103/160/s152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs152%2Fb
 [/us/stat/112/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1946
-[/us/pl/105/85/s1074/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1074%2Fa
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1907
-[/us/pl/104/106/s279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs279
+[/us/pl/104/106/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtII
 [/us/stat/110/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F243
-[/us/pl/103/160/s152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs152%2Fb
+[/us/pl/103/160/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtI
 [/us/stat/107/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1578
-[/us/pl/105/261/s218/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs218%2Fe
+[/us/pl/105/261/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtII
 [/us/stat/112/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1952
-[/us/pl/109/163/s260/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs260%2Fa
+[/us/pl/109/163/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtII
 [/us/stat/119/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3185
-[/us/pl/109/163/s260/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs260%2Fb
+[/us/pl/109/163/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtII
 [/us/stat/119/3186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3186
 [/us/pl/103/160/s152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs152%2Fb
 

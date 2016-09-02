@@ -31,11 +31,11 @@
 
         (2) The term “immediate dependent” means a dependent described in subparagraph (A), (B), (C), or (D) of [section 1072(2) of this title][/us/usc/t10/s1072/2].
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 706(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–175.)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 706(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–175.)
 
  __Effective Date__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 706(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–175, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 706(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–175, provided that: 
 
 > “[Section 1074h of title 10][/us/usc/t10/s1074h], United States Code, shall apply with respect to medical and dental care provided on or after the date of the enactment of this Act \[Oct. 30, 2000\].”
 
@@ -48,9 +48,9 @@
 
 [/us/usc/t14/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs491
 [/us/usc/t10/s1072/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s1074h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074h
 

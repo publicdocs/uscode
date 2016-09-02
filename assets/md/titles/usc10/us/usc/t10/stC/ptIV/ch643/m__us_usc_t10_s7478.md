@@ -27,7 +27,7 @@
 
     This section shall not apply with respect to professors, instructors, and lecturers employed at a school of the Naval War College or of the Marine Corps University if the duration of the principal course of instruction offered at the school or college involved is less than 10 months.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 464][/us/stat/70A/464]; [Pub. L. 101–189, div. A, title XI, § 1124(c)(1)][/us/pl/101/189/s1124/c/1], Nov. 29, 1989, [103 Stat. 1559][/us/stat/103/1559]; [Pub. L. 105–85, div. A, title XI, § 1109(a)][/us/pl/105/85/s1109/a], (b)(1), Nov. 18, 1997, [111 Stat. 1927][/us/stat/111/1927].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 464][/us/stat/70A/464]; [Pub. L. 101–189, div. A, title XI][/us/pl/101/189/dA/tXI], § 1124(c)(1), Nov. 29, 1989, [103 Stat. 1559][/us/stat/103/1559]; [Pub. L. 105–85, div. A, title XI][/us/pl/105/85/dA/tXI], § 1109(a), (b)(1), Nov. 18, 1997, [111 Stat. 1927][/us/stat/111/1927].)
 
 <table>
 
@@ -95,9 +95,9 @@ Aug. 2, 1946, ch. 756, § 39, 60 Stat. 858.  </td>
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–85, § 1109(b)(1)][/us/pl/105/85/s1109/b/1], substituted “Marine Corps University” for “Marine Corps Command and Staff College” in section catchline.
+    1997—[Pub. L. 105–85][/us/pl/105/85], § 1109(b)(1), substituted “Marine Corps University” for “Marine Corps Command and Staff College” in section catchline.
 
-    Subsecs. (a), (c). [Pub. L. 105–85, § 1109(a)][/us/pl/105/85/s1109/a], substituted “of the Marine Corps University” for “at the Marine Corps Command and Staff College”.
+    Subsecs. (a), (c). [Pub. L. 105–85][/us/pl/105/85], § 1109(a), substituted “of the Marine Corps University” for “at the Marine Corps Command and Staff College”.
 
     1989—[Pub. L. 101–189][/us/pl/101/189] substituted “Naval War College and Marine Corps Command and Staff College: civilian faculty members” for “Naval War College: employment of civilian professors; compensation” as section catchline and amended text generally. Prior to amendment, text read as follows:
 
@@ -116,13 +116,13 @@ Aug. 2, 1946, ch. 756, § 39, 60 Stat. 858.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F464
-[/us/pl/101/189/s1124/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1124%2Fc%2F1
+[/us/pl/101/189/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXI
 [/us/stat/103/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1559
-[/us/pl/105/85/s1109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1109%2Fa
+[/us/pl/105/85/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtXI
 [/us/stat/111/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1927
 [/us/usc/t34/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs1071
-[/us/pl/105/85/s1109/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1109%2Fb%2F1
-[/us/pl/105/85/s1109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1109%2Fa
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 
 

@@ -57,7 +57,7 @@
 
         (3) Subject to the authority, direction, and control of the Secretary of Defense, the Chief of Staff shall keep the Secretary of the Air Force fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 492][/us/stat/70A/492], § 8034; [Pub. L. 85–599, § 4(d)][/us/pl/85/599/s4/d], (e), Aug. 6, 1958, [72 Stat. 517][/us/stat/72/517]; [Pub. L. 87–651, title I, § 114][/us/pl/87/651/s114], Sept. 7, 1962, [76 Stat. 513][/us/stat/76/513]; [Pub. L. 90–22, title IV, § 403][/us/pl/90/22/s403], June 5, 1967, [81 Stat. 53][/us/stat/81/53]; [Pub. L. 96–513, title V, § 504(2)][/us/pl/96/513/s504/2], Dec. 12, 1980, [94 Stat. 2915][/us/stat/94/2915]; [Pub. L. 97–22, § 10(b)(9)][/us/pl/97/22/s10/b/9], July 10, 1981, [95 Stat. 137][/us/stat/95/137]; renumbered § 8033 and amended [Pub. L. 99–433, title V, § 522(c)][/us/pl/99/433/s522/c], Oct. 1, 1986, [100 Stat. 1061][/us/stat/100/1061]; [Pub. L. 100–456, div. A, title V, § 519(a)(3)][/us/pl/100/456/s519/a/3], Sept. 29, 1988, [102 Stat. 1972][/us/stat/102/1972]; [Pub. L. 114–92, div. A, title VIII, § 802(d)(4)(D)][/us/pl/114/92/s802/d/4/D], title XVI, § 1652(a)(3), Nov. 25, 2015, [129 Stat. 880][/us/stat/129/880], 1122.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 492][/us/stat/70A/492], § 8034; [Pub. L. 85–599][/us/pl/85/599], § 4(d), (e), Aug. 6, 1958, [72 Stat. 517][/us/stat/72/517]; [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 114, Sept. 7, 1962, [76 Stat. 513][/us/stat/76/513]; [Pub. L. 90–22, title IV][/us/pl/90/22/tIV], § 403, June 5, 1967, [81 Stat. 53][/us/stat/81/53]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 504(2), Dec. 12, 1980, [94 Stat. 2915][/us/stat/94/2915]; [Pub. L. 97–22][/us/pl/97/22], § 10(b)(9), July 10, 1981, [95 Stat. 137][/us/stat/95/137]; renumbered § 8033 and amended [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 522(c), Oct. 1, 1986, [100 Stat. 1061][/us/stat/100/1061]; [Pub. L. 100–456, div. A, title V][/us/pl/100/456/dA/tV], § 519(a)(3), Sept. 29, 1988, [102 Stat. 1972][/us/stat/102/1972]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 802(d)(4)(D), title XVI, § 1652(a)(3), Nov. 25, 2015, [129 Stat. 880][/us/stat/129/880], 1122.)
 
 <table>
 
@@ -161,9 +161,9 @@ June 3, 1916, ch. 134, § 5 (last par.); added June 15, 1933, ch. 87, § 2 (
 
  __Amendments__ 
 
-    2015—Subsec. (d)(5). [Pub. L. 114–92, § 1652(a)(3)][/us/pl/114/92/s1652/a/3], inserted “, including pursuant to [section 8040 of this title][/us/usc/t10/s8040]” after “other provisions of law”.
+    2015—Subsec. (d)(5). [Pub. L. 114–92][/us/pl/114/92], § 1652(a)(3), inserted “, including pursuant to [section 8040 of this title][/us/usc/t10/s8040]” after “other provisions of law”.
 
-    [Pub. L. 114–92, § 802(d)(4)(D)][/us/pl/114/92/s802/d/4/D], substituted “sections 171 and 2547” for “section 171”.
+    [Pub. L. 114–92][/us/pl/114/92], § 802(d)(4)(D), substituted “sections 171 and 2547” for “section 171”.
 
     1988—Subsec. (a)(2)(B). [Pub. L. 100–456][/us/pl/100/456] substituted “full tour of duty in a joint duty assignment (as defined in [section 664(f) of this title][/us/usc/t10/s664/f])” for “joint duty assignment”.
 
@@ -201,7 +201,7 @@ June 3, 1916, ch. 134, § 5 (last par.); added June 15, 1933, ch. 87, § 2 (
 
  __Effective Date of 1981 Amendment__ 
 
-    [Pub. L. 97–22, § 10(b)][/us/pl/97/22/s10/b], July 10, 1981, [95 Stat. 137][/us/stat/95/137], provided that the amendment made by that section is effective Sept. 15, 1981.
+    [Pub. L. 97–22][/us/pl/97/22], § 10(b), July 10, 1981, [95 Stat. 137][/us/stat/95/137], provided that the amendment made by that section is effective Sept. 15, 1981.
 
  __Effective Date of 1980 Amendment__ 
 
@@ -228,30 +228,30 @@ June 3, 1916, ch. 134, § 5 (last par.); added June 15, 1933, ch. 87, § 2 (
 [/us/usc/t10/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs151
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F492
-[/us/pl/85/599/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599%2Fs4%2Fd
+[/us/pl/85/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599
 [/us/stat/72/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F517
-[/us/pl/87/651/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs114
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F513
-[/us/pl/90/22/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F22%2Fs403
+[/us/pl/90/22/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F22%2FtIV
 [/us/stat/81/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F53
-[/us/pl/96/513/s504/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs504%2F2
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2915
-[/us/pl/97/22/s10/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs10%2Fb%2F9
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F137
-[/us/pl/99/433/s522/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs522%2Fc
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1061
-[/us/pl/100/456/s519/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs519%2Fa%2F3
+[/us/pl/100/456/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtV
 [/us/stat/102/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1972
-[/us/pl/114/92/s802/d/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs802%2Fd%2F4%2FD
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F880
 [/us/usc/t10/s743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs743
 [/us/stat/63/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F802
 [/us/usc/t37/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs231
 [/us/usc/t10/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs124
 [/us/usc/t10/s10305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10305
-[/us/pl/114/92/s1652/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1652%2Fa%2F3
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/usc/t10/s8040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8040
-[/us/pl/114/92/s802/d/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs802%2Fd%2F4%2FD
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/usc/t10/s664/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs664%2Ff
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
@@ -264,7 +264,7 @@ June 3, 1916, ch. 134, § 5 (last par.); added June 15, 1933, ch. 87, § 2 (
 [/us/pl/87/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651
 [/us/usc/t10/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs124
 [/us/pl/85/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599
-[/us/pl/97/22/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs10%2Fb
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F137
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701

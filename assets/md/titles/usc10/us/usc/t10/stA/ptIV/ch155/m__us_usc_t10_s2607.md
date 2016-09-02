@@ -23,7 +23,7 @@
 
     (d) In this section, the term “gift” includes a bequest of personal property or a devise of real property.
 
-(Added [Pub. L. 101–193, title V, § 502(a)][/us/pl/101/193/s502/a], Nov. 30, 1989, [103 Stat. 1708][/us/stat/103/1708].)
+(Added [Pub. L. 101–193, title V][/us/pl/101/193/tV], § 502(a), Nov. 30, 1989, [103 Stat. 1708][/us/stat/103/1708].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t10/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2601
-[/us/pl/101/193/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F193%2Fs502%2Fa
+[/us/pl/101/193/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F193%2FtV
 [/us/stat/103/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1708
 
 

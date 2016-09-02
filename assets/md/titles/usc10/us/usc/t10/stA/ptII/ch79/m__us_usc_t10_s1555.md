@@ -35,7 +35,7 @@
 
         (3) with respect to the Department of the Air Force, the Air Force Review Boards Agency.
 
-(Added [Pub. L. 105–261, div. A, title V, § 542(a)(1)][/us/pl/105/261/s542/a/1], Oct. 17, 1998, [112 Stat. 2020][/us/stat/112/2020]; amended [Pub. L. 106–65, div. A, title V, § 582][/us/pl/106/65/s582], Oct. 5, 1999, [113 Stat. 634][/us/stat/113/634].)
+(Added [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 542(a)(1), Oct. 17, 1998, [112 Stat. 2020][/us/stat/112/2020]; amended [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 582, Oct. 5, 1999, [113 Stat. 634][/us/stat/113/634].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 105–261, div. A, title V, § 542(b)][/us/pl/105/261/s542/b], Oct. 17, 1998, [112 Stat. 2020][/us/stat/112/2020], provided that: 
+[Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 542(b), Oct. 17, 1998, [112 Stat. 2020][/us/stat/112/2020], provided that: 
 
 > “[Section 1555 of title 10][/us/usc/t10/s1555], United States Code, as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act \[Oct. 17, 1998\].”
 
@@ -54,12 +54,12 @@
 ----------
 ----------
 
-[/us/pl/105/261/s542/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs542%2Fa%2F1
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2020
-[/us/pl/106/65/s582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs582
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F634
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/105/261/s542/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs542%2Fb
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2020
 [/us/usc/t10/s1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1555
 

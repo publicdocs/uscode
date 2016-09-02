@@ -21,7 +21,7 @@
 
     (c) The proceeds from furnishing services and facilities under this section shall be paid to the credit of the appropriation or fund out of which the services or facilities were supplied.
 
-(Added [Pub. L. 85–44, § 1][/us/pl/85/44/s1], June 1, 1957, [71 Stat. 45][/us/stat/71/45]; amended [Pub. L. 87–651, title I, § 111(a)][/us/pl/87/651/s111/a], Sept. 7, 1962, [76 Stat. 510][/us/stat/76/510]; [Pub. L. 96–513, title V, § 511(87)][/us/pl/96/513/s511/87], Dec. 12, 1980, [94 Stat. 2927][/us/stat/94/2927]; [Pub. L. 97–258, § 3(b)(7)][/us/pl/97/258/s3/b/7], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063].)
+(Added [Pub. L. 85–44][/us/pl/85/44], § 1, June 1, 1957, [71 Stat. 45][/us/stat/71/45]; amended [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 111(a), Sept. 7, 1962, [76 Stat. 510][/us/stat/76/510]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(87), Dec. 12, 1980, [94 Stat. 2927][/us/stat/94/2927]; [Pub. L. 97–258][/us/pl/97/258], § 3(b)(7), Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063].)
 
  __Historical and Revision Notes__ 
 
@@ -49,13 +49,13 @@
 ----------
 
 [/us/usc/t31/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1301%2Fa
-[/us/pl/85/44/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F44%2Fs1
+[/us/pl/85/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F44
 [/us/stat/71/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F45
-[/us/pl/87/651/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs111%2Fa
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F510
-[/us/pl/96/513/s511/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F87
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2927
-[/us/pl/97/258/s3/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fb%2F7
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1063
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/usc/t31/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1301%2Fa

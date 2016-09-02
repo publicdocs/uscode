@@ -59,7 +59,7 @@
 
         The term “grant” means an authorized grant as described in [section 6304 of title 31][/us/usc/t31/s6304].
 
-(Added [Pub. L. 113–291, div. A, title IX, § 916(b)][/us/pl/113/291/s916/b], Dec. 19, 2014, [128 Stat. 3477][/us/stat/128/3477].)
+(Added [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 916(b), Dec. 19, 2014, [128 Stat. 3477][/us/stat/128/3477].)
 
 ----------
 
@@ -73,7 +73,7 @@
 [/us/usc/t10/s2304/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Fc%2F5
 [/us/usc/t31/s6305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6305
 [/us/usc/t31/s6304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6304
-[/us/pl/113/291/s916/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fb
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3477
 
 

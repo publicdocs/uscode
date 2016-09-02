@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stB/ptII/ch353/m__us_usc_t10_s3691.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch353/m__us_usc_t10_s3693.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3692)
 
-## \[§ 3692. Repealed. [Pub. L. 92–168, § 1(1)][/us/pl/92/168/s1/1], Nov. 24, 1971, [85 Stat. 489][/us/stat/85/489]\]
+## \[§ 3692. Repealed. [Pub. L. 92–168][/us/pl/92/168], § 1(1), Nov. 24, 1971, [85 Stat. 489][/us/stat/85/489]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 213][/us/stat/70A/213], provided qualifications to receive a rating as a pilot in time of peace. See [section 2003 of this title][/us/usc/t10/s2003].
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/pl/92/168/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F168%2Fs1%2F1
+[/us/pl/92/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F168
 [/us/stat/85/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F489
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F213

@@ -93,7 +93,7 @@ R.S. 4622 (less applicability to procedure for interrogating witnesses).  </td>
 
 </table>
 
-    The words “but the custody of the property shall be in the marshal only” are omitted as surplusage, since this fact is made clear in [§ 7662 of this title][/us/usc/t10/s7662].
+    The words “but the custody of the property shall be in the marshal only” are omitted as surplusage, since this fact is made clear in § 7662 of this title.
 
 ----------
 
@@ -106,6 +106,5 @@ R.S. 4622 (less applicability to procedure for interrogating witnesses).  </td>
 [/us/usc/t10/s7661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7661
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F477
-[/us/usc/t10/s7662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7662
 
 

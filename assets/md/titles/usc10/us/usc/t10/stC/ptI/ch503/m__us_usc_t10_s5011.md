@@ -17,7 +17,7 @@
 
     The Department of the Navy is separately organized under the Secretary of the Navy. It operates under the authority, direction, and control of the Secretary of Defense.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 277][/us/stat/70A/277]; [Pub. L. 87–651, title II, § 212][/us/pl/87/651/s212], Sept. 7, 1962, [76 Stat. 524][/us/stat/76/524]; [Pub. L. 99–433, title V, § 511(b)(2)][/us/pl/99/433/s511/b/2], (c)(1), Oct. 1, 1986, [100 Stat. 1043][/us/stat/100/1043].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 277][/us/stat/70A/277]; [Pub. L. 87–651, title II][/us/pl/87/651/tII], § 212, Sept. 7, 1962, [76 Stat. 524][/us/stat/76/524]; [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 511(b)(2), (c)(1), Oct. 1, 1986, [100 Stat. 1043][/us/stat/100/1043].)
 
  __Historical and Revision Notes__ 
 
@@ -73,9 +73,9 @@ July 26, 1947, ch. 343, § 202(c)(7) (1st sentence, less applicability to Depa
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–433, § 511(c)(1)][/us/pl/99/433/s511/c/1], substituted “Organization” for “Composition” in section catchline.
+    1986—[Pub. L. 99–433][/us/pl/99/433], § 511(c)(1), substituted “Organization” for “Composition” in section catchline.
 
-    [Pub. L. 99–433, § 511(b)(2)][/us/pl/99/433/s511/b/2], struck out the last two sentences which read as follows: “It is composed of the executive part of the Department of the Navy; the Headquarters, United States Marine Corps; the entire operating forces, including naval aviation, of the United States Navy and of the United States Marine Corps, and the reserve components of those operating forces; and all field activities, headquarters, forces, bases, installations, activities, and functions under the control or supervision of the Secretary of the Navy. It includes the United States Coast Guard when it is operating as a service in the Navy.” See [section 5061 of this title][/us/usc/t10/s5061].
+    [Pub. L. 99–433][/us/pl/99/433], § 511(b)(2), struck out the last two sentences which read as follows: “It is composed of the executive part of the Department of the Navy; the Headquarters, United States Marine Corps; the entire operating forces, including naval aviation, of the United States Navy and of the United States Marine Corps, and the reserve components of those operating forces; and all field activities, headquarters, forces, bases, installations, activities, and functions under the control or supervision of the Secretary of the Navy. It includes the United States Coast Guard when it is operating as a service in the Navy.” See [section 5061 of this title][/us/usc/t10/s5061].
 
     1962—[Pub. L. 87–651][/us/pl/87/651] inserted sentences providing that the Department of the Navy is separately organized under the Secretary of the Navy, and that it operates under the authority, direction, and control of the Secretary of Defense.
 
@@ -88,9 +88,9 @@ July 26, 1947, ch. 343, § 202(c)(7) (1st sentence, less applicability to Depa
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F277
-[/us/pl/87/651/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs212
+[/us/pl/87/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtII
 [/us/stat/76/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F524
-[/us/pl/99/433/s511/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fb%2F2
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1043
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/usc/t5/s411a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs411a%2Fa
@@ -98,8 +98,8 @@ July 26, 1947, ch. 343, § 202(c)(7) (1st sentence, less applicability to Depa
 [/us/usc/t5/s423a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs423a%2Fa
 [/us/act/1946-08-02/ch756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch756
 [/us/usc/t5/s421g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs421g
-[/us/pl/99/433/s511/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fc%2F1
-[/us/pl/99/433/s511/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fb%2F2
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t10/s5061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5061
 [/us/pl/87/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651
 

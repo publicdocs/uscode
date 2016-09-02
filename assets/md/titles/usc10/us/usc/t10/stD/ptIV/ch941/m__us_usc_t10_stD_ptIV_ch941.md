@@ -75,9 +75,9 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–239, div. A, title V, § 552(c)(4)][/us/pl/112/239/s552/c/4], Jan. 2, 2013, [126 Stat. 1741][/us/stat/126/1741], struck out item 9651 “Arms, tentage, and equipment: educational institutions not maintaining units of A.F.R.O.T.C.”
+    2013—[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 552(c)(4), Jan. 2, 2013, [126 Stat. 1741][/us/stat/126/1741], struck out item 9651 “Arms, tentage, and equipment: educational institutions not maintaining units of A.F.R.O.T.C.”
 
-    2009—[Pub. L. 111–84, div. A, title X, § 1073(a)(32)][/us/pl/111/84/s1073/a/32], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], transferred item 9515 “Charter air transportation services: minimum annual purchase amount for carriers participating in Civil Reserve Air Fleet” to chapter 931 of this title.
+    2009—[Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(32), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], transferred item 9515 “Charter air transportation services: minimum annual purchase amount for carriers participating in Civil Reserve Air Fleet” to chapter 931 of this title.
 
     2008—[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1033(b), Oct. 14, 2008, [122 Stat. 4593][/us/stat/122/4593], added item 9515 at end.
 
@@ -88,9 +88,9 @@
 ----------
 ----------
 
-[/us/pl/112/239/s552/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs552%2Fc%2F4
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1741
-[/us/pl/111/84/s1073/a/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F32
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4593

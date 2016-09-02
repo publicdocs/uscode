@@ -33,7 +33,7 @@
 
     (f) The Secretary of the military department concerned shall require, from each institution to which property is issued under subsection (a), a bond or other indemnity in such amount as he considers adequate, but not less than $5,000, for the care and safekeeping of all property so issued except uniforms, expendable articles, and supplies expended in operation, maintenance, and instruction. The Secretary may accept a bond without surety if the institution to which the property is issued furnishes to him satisfactory evidence of its financial responsibility.
 
-(Added [Pub. L. 88–647, title II, § 201(1)][/us/pl/88/647/s201/1], Oct. 13, 1964, [78 Stat. 1069][/us/stat/78/1069]; amended [Pub. L. 89–718, § 18][/us/pl/89/718/s18], Nov. 2, 1966, [80 Stat. 1118][/us/stat/80/1118]; [Pub. L. 94–273, § 11(2)][/us/pl/94/273/s11/2], Apr. 21, 1976, [90 Stat. 378][/us/stat/90/378]; [Pub. L. 97–375, title I, § 104(c)][/us/pl/97/375/s104/c], Dec. 21, 1982, [96 Stat. 1819][/us/stat/96/1819].)
+(Added [Pub. L. 88–647, title II][/us/pl/88/647/tII], § 201(1), Oct. 13, 1964, [78 Stat. 1069][/us/stat/78/1069]; amended [Pub. L. 89–718][/us/pl/89/718], § 18, Nov. 2, 1966, [80 Stat. 1118][/us/stat/80/1118]; [Pub. L. 94–273][/us/pl/94/273], § 11(2), Apr. 21, 1976, [90 Stat. 378][/us/stat/90/378]; [Pub. L. 97–375, title I][/us/pl/97/375/tI], § 104(c), Dec. 21, 1982, [96 Stat. 1819][/us/stat/96/1819].)
 
  __Amendments__ 
 
@@ -50,13 +50,13 @@
 ----------
 ----------
 
-[/us/pl/88/647/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2Fs201%2F1
+[/us/pl/88/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2FtII
 [/us/stat/78/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1069
-[/us/pl/89/718/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs18
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1118
-[/us/pl/94/273/s11/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs11%2F2
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F378
-[/us/pl/97/375/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs104%2Fc
+[/us/pl/97/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtI
 [/us/stat/96/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1819
 [/us/pl/97/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273

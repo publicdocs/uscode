@@ -113,13 +113,13 @@
 
     Within 6 months after the authority to conduct a demonstration project under this section is terminated as provided in subsection (g), employees in the project shall convert to the civilian personnel system created pursuant to [section 9902 of title 5][/us/usc/t5/s9902].
 
-(Added [Pub. L. 111–383, div. A, title VIII, § 872(a)(1)][/us/pl/111/383/s872/a/1], Jan. 7, 2011, [124 Stat. 4300][/us/stat/124/4300]; amended [Pub. L. 114–92, div. A, title VIII, § 846][/us/pl/114/92/s846], Nov. 25, 2015, [129 Stat. 916][/us/stat/129/916].)
+(Added [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 872(a)(1), Jan. 7, 2011, [124 Stat. 4300][/us/stat/124/4300]; amended [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 846, Nov. 25, 2015, [129 Stat. 916][/us/stat/129/916].)
 
  __Prior Provisions__ 
 
-    A prior section 1762, added [Pub. L. 101–510, div. A, title XII, § 1202(a)][/us/pl/101/510/s1202/a], Nov. 5, 1990, [104 Stat. 1654][/us/stat/104/1654]; amended [Pub. L. 103–160, div. A, title IX, § 904(d)(1)][/us/pl/103/160/s904/d/1], Nov. 30, 1993, [107 Stat. 1728][/us/stat/107/1728]; [Pub. L. 106–65, div. A, title IX, § 911(a)(1)][/us/pl/106/65/s911/a/1], Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717], related to report by the Under Secretary of Defense for Acquisition, Technology, and Logistics to the Secretary of Defense on the status of the defense acquisition workforce, prior to repeal by [Pub. L. 107–107, div. A, title X, § 1048(e)(7)(A)][/us/pl/107/107/s1048/e/7/A], Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227].
+    A prior section 1762, added [Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1202(a), Nov. 5, 1990, [104 Stat. 1654][/us/stat/104/1654]; amended [Pub. L. 103–160, div. A, title IX][/us/pl/103/160/dA/tIX], § 904(d)(1), Nov. 30, 1993, [107 Stat. 1728][/us/stat/107/1728]; [Pub. L. 106–65, div. A, title IX][/us/pl/106/65/dA/tIX], § 911(a)(1), Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717], related to report by the Under Secretary of Defense for Acquisition, Technology, and Logistics to the Secretary of Defense on the status of the defense acquisition workforce, prior to repeal by [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(e)(7)(A), Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227].
 
-    Provisions similar to those in this section were contained in [Pub. L. 104–106, div. D, title XLIII, § 4308][/us/pl/104/106/s4308], Feb. 10, 1996, [110 Stat. 669][/us/stat/110/669], which was set out as a note under [section 1701 of this title][/us/usc/t10/s1701], prior to repeal by [Pub. L. 111–383, § 872(b)][/us/pl/111/383/s872/b].
+    Provisions similar to those in this section were contained in [Pub. L. 104–106, div. D, title XLIII][/us/pl/104/106/dD/tXLIII], § 4308, Feb. 10, 1996, [110 Stat. 669][/us/stat/110/669], which was set out as a note under [section 1701 of this title][/us/usc/t10/s1701], prior to repeal by [Pub. L. 111–383][/us/pl/111/383], § 872(b).
 
  __Amendments__ 
 
@@ -135,22 +135,22 @@
 [/us/usc/t5/s4703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4703
 [/us/usc/t5/s4703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4703
 [/us/usc/t5/s9902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9902
-[/us/pl/111/383/s872/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs872%2Fa%2F1
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4300
-[/us/pl/114/92/s846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs846
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F916
-[/us/pl/101/510/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1202%2Fa
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1654
-[/us/pl/103/160/s904/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs904%2Fd%2F1
+[/us/pl/103/160/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIX
 [/us/stat/107/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1728
-[/us/pl/106/65/s911/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs911%2Fa%2F1
+[/us/pl/106/65/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIX
 [/us/stat/113/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F717
-[/us/pl/107/107/s1048/e/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fe%2F7%2FA
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1227
-[/us/pl/104/106/s4308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4308
+[/us/pl/104/106/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdD%2FtXLIII
 [/us/stat/110/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F669
 [/us/usc/t10/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1701
-[/us/pl/111/383/s872/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs872%2Fb
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 
 

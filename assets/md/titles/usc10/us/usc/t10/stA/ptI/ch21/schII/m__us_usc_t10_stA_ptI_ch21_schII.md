@@ -83,9 +83,9 @@
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–484, div. A, title X, § 1052(1)][/us/pl/102/484/s1052/1], Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499], inserted “Sec.” above item “431”.
+    1992—[Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1052(1), Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499], inserted “Sec.” above item “431”.
 
-    1991—[Pub. L. 102–88, title V, § 504(a)(2)][/us/pl/102/88/s504/a/2], Aug. 14, 1991, [105 Stat. 437][/us/stat/105/437], added subchapter heading and analysis of sections.
+    1991—[Pub. L. 102–88, title V][/us/pl/102/88/tV], § 504(a)(2), Aug. 14, 1991, [105 Stat. 437][/us/stat/105/437], added subchapter heading and analysis of sections.
 
 ----------
 
@@ -94,9 +94,9 @@
 ----------
 ----------
 
-[/us/pl/102/484/s1052/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F1
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2499
-[/us/pl/102/88/s504/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs504%2Fa%2F2
+[/us/pl/102/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2FtV
 [/us/stat/105/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F437
 
 

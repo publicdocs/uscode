@@ -25,7 +25,7 @@
 
     (b) This section does not apply to adjutants general and assistant adjutants general of the several States, Puerto Rico, and the District of Columbia.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 25][/us/stat/70A/25], § 594; [Pub. L. 100–456, div. A, title XII, § 1234(a)(1)][/us/pl/100/456/s1234/a/1], Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; renumbered § 12204, [Pub. L. 103–337, div. A, title XVI, § 1662(c)(2)][/us/pl/103/337/s1662/c/2], Oct. 5, 1994, [108 Stat. 2990][/us/stat/108/2990]; [Pub. L. 109–163, div. A, title X, § 1057(a)(2)][/us/pl/109/163/s1057/a/2], Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 25][/us/stat/70A/25], § 594; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1234(a)(1), Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; renumbered § 12204, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(c)(2), Oct. 5, 1994, [108 Stat. 2990][/us/stat/108/2990]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(a)(2), Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440].)
 
 <table>
 
@@ -104,11 +104,11 @@ July 9, 1952, ch. 608 § 217(c), 66 Stat. 487.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F25
-[/us/pl/100/456/s1234/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fa%2F1
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
-[/us/pl/103/337/s1662/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fc%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2990
-[/us/pl/109/163/s1057/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F2
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3440
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

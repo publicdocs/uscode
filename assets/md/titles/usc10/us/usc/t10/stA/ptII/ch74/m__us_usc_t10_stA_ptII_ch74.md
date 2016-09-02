@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch73/schIII/m__us_usc_t10_stA_ptII_ch73_schIII.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch74/m__us_usc_t10_s1461.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch74)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch73/schIII/m__us_usc_t10_s1456...1460b.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch74/m__us_usc_t10_s1461.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch74)
 
 #### CHAPTER 74—DEPARTMENT OF DEFENSE MILITARY RETIREMENT FUND
 
@@ -83,16 +83,16 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, div. A, title IX, § 906(b)(1)(B)][/us/pl/110/181/s906/b/1/B], Jan. 28, 2008, [122 Stat. 277][/us/stat/122/277], struck out item 1464 “Board of Actuaries”.
+    2008—[Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 906(b)(1)(B), Jan. 28, 2008, [122 Stat. 277][/us/stat/122/277], struck out item 1464 “Board of Actuaries”.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch73/schIII/m__us_usc_t10_stA_ptII_ch73_schIII.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch74/m__us_usc_t10_s1461.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch74)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch73/schIII/m__us_usc_t10_s1456...1460b.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch74/m__us_usc_t10_s1461.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch74)
 
 ----------
 ----------
 
-[/us/pl/110/181/s906/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs906%2Fb%2F1%2FB
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F277
 
 

@@ -31,7 +31,7 @@
 
     (3) The term “Center of Academic Excellence in Information Assurance Education” means an institution of higher education that is designated by the Director of the National Security Agency as a Center of Academic Excellence in Information Assurance Education.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 922(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–236.)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 922(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–236.)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

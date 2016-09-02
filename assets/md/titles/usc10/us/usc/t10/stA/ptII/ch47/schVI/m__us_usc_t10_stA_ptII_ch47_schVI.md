@@ -133,7 +133,7 @@ Service of charges.  </td>
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–66, div. A, title XVII, § 1702(a)(2)][/us/pl/113/66/s1702/a/2], Dec. 26, 2013, [127 Stat. 955][/us/stat/127/955], substituted “Preliminary hearing” for “Investigation” in item 832.
+    2013—[Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1702(a)(2), Dec. 26, 2013, [127 Stat. 955][/us/stat/127/955], substituted “Preliminary hearing” for “Investigation” in item 832.
 
 ----------
 
@@ -142,7 +142,7 @@ Service of charges.  </td>
 ----------
 ----------
 
-[/us/pl/113/66/s1702/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fa%2F2
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F955
 
 

@@ -83,9 +83,9 @@
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–160, div. A, title VIII, § 828(a)(9)][/us/pl/103/160/s828/a/9], Nov. 30, 1993, [107 Stat. 1713][/us/stat/107/1713], struck out items 9531, “Authorization”, 9534, “Subsistence supplies: contract stipulations; place of delivery on inspection”, 9535, “Exceptional subsistence supplies: purchases without advertising”, 9537, “Military surveys and maps: assistance of United States mapping agencies”, 9538, “Unserviceable ammunition: exchange and reclamation”, and 9541, “Gratuitous services of officers of the Air Force Reserve”.
+    1993—[Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 828(a)(9), Nov. 30, 1993, [107 Stat. 1713][/us/stat/107/1713], struck out items 9531, “Authorization”, 9534, “Subsistence supplies: contract stipulations; place of delivery on inspection”, 9535, “Exceptional subsistence supplies: purchases without advertising”, 9537, “Military surveys and maps: assistance of United States mapping agencies”, 9538, “Unserviceable ammunition: exchange and reclamation”, and 9541, “Gratuitous services of officers of the Air Force Reserve”.
 
-    1982—[Pub. L. 97–258, § 2(b)(13)(A)][/us/pl/97/258/s2/b/13/A], Sept. 13, 1982, [96 Stat. 1058][/us/stat/96/1058], added item 9541.
+    1982—[Pub. L. 97–258][/us/pl/97/258], § 2(b)(13)(A), Sept. 13, 1982, [96 Stat. 1058][/us/stat/96/1058], added item 9541.
 
 ----------
 
@@ -94,9 +94,9 @@
 ----------
 ----------
 
-[/us/pl/103/160/s828/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs828%2Fa%2F9
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1713
-[/us/pl/97/258/s2/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F13%2FA
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1058
 
 

@@ -25,7 +25,7 @@
 
     (4) The temporary grade to which he would have been promoted had it not been for the physical disability for which he is retired, if eligibility for that promotion was required to be based on cumulative years of service or years of service in grade and the disability was discovered as a result of a physical examination.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 105][/us/stat/70A/105]; [Pub. L. 104–201, div. A, title V, § 577][/us/pl/104/201/s577], Sept. 23, 1996, [110 Stat. 2536][/us/stat/110/2536].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 105][/us/stat/70A/105]; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 577, Sept. 23, 1996, [110 Stat. 2536][/us/stat/110/2536].)
 
 <table>
 
@@ -88,7 +88,7 @@ Oct. 12, 1949, ch. 681, §§ 402(d) (104th through 128th words, as applicable 
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F105
-[/us/pl/104/201/s577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs577
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2536
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 

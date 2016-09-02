@@ -59,11 +59,11 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–383, div. A, title VIII, § 872(a)(2)][/us/pl/111/383/s872/a/2], Jan. 7, 2011, [124 Stat. 4302][/us/stat/124/4302], added item 1762.
+    2011—[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 872(a)(2), Jan. 7, 2011, [124 Stat. 4302][/us/stat/124/4302], added item 1762.
 
-    2003—[Pub. L. 108–136, div. A, title VIII, § 836(4)][/us/pl/108/136/s836/4], Nov. 24, 2003, [117 Stat. 1552][/us/stat/117/1552], added item 1764 and struck out item 1763 “Reassignment of authority”.
+    2003—[Pub. L. 108–136, div. A, title VIII][/us/pl/108/136/dA/tVIII], § 836(4), Nov. 24, 2003, [117 Stat. 1552][/us/stat/117/1552], added item 1764 and struck out item 1763 “Reassignment of authority”.
 
-    2001—[Pub. L. 107–107, div. A, title X, § 1048(e)(7)(B)][/us/pl/107/107/s1048/e/7/B], Dec. 28, 2001, [115 Stat. 1228][/us/stat/115/1228], struck out items 1762 “Report to Secretary of Defense” and 1764 “Authority to establish different minimum experience requirements”.
+    2001—[Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(e)(7)(B), Dec. 28, 2001, [115 Stat. 1228][/us/stat/115/1228], struck out items 1762 “Report to Secretary of Defense” and 1764 “Authority to establish different minimum experience requirements”.
 
 ----------
 
@@ -72,11 +72,11 @@
 ----------
 ----------
 
-[/us/pl/111/383/s872/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs872%2Fa%2F2
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4302
-[/us/pl/108/136/s836/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs836%2F4
+[/us/pl/108/136/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVIII
 [/us/stat/117/1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1552
-[/us/pl/107/107/s1048/e/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fe%2F7%2FB
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1228
 
 

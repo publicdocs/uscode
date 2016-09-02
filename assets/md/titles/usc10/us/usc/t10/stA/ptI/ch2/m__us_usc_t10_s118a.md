@@ -75,7 +75,7 @@
 
         (2) The report shall be submitted in the year following the year in which the review is conducted, but not later than the date on which the President submits the budget for the next fiscal year to Congress under [section 1105(a) of title 31][/us/usc/t31/s1105/a].
 
-(Added [Pub. L. 107–314, div. A, title V, § 581(a)(1)][/us/pl/107/314/s581/a/1], Dec. 2, 2002, [116 Stat. 2559][/us/stat/116/2559]; amended [Pub. L. 113–291, div. A, title X, § 1071(c)(2)][/us/pl/113/291/s1071/c/2], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
+(Added [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 581(a)(1), Dec. 2, 2002, [116 Stat. 2559][/us/stat/116/2559]; amended [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(c)(2), Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
 
  __Amendments__ 
 
@@ -83,7 +83,7 @@
 
  __First Quadrennial Quality of Life Review__ 
 
-    [Pub. L. 107–314, div. A, title V, § 581(b)][/us/pl/107/314/s581/b], Dec. 2, 2002, [116 Stat. 2561][/us/stat/116/2561], directed that the first quadrennial quality of life review under this section would be conducted during 2003, and that the report on such review was to be submitted not later than the date on which the President submitted the budget for fiscal year 2005 to Congress.
+    [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 581(b), Dec. 2, 2002, [116 Stat. 2561][/us/stat/116/2561], directed that the first quadrennial quality of life review under this section would be conducted during 2003, and that the report on such review was to be submitted not later than the date on which the President submitted the budget for fiscal year 2005 to Congress.
 
 ----------
 
@@ -94,14 +94,14 @@
 
 [/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/107/314/s581/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs581%2Fa%2F1
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2559
-[/us/pl/113/291/s1071/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F2
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
-[/us/pl/107/314/s581/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs581%2Fb
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2561
 
 

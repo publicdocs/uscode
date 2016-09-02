@@ -83,19 +83,19 @@
 
     The Secretary of the military department concerned may designate a promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] as a special selection board convened under this section. A board so designated may function in both capacities.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2947][/us/stat/108/2947]; amended [Pub. L. 107–107, div. A, title V, § 505(c)(3)(B)][/us/pl/107/107/s505/c/3/B], Dec. 28, 2001, [115 Stat. 1088][/us/stat/115/1088]; [Pub. L. 109–364, div. A, title V, § 514(b)][/us/pl/109/364/s514/b], Oct. 17, 2006, [120 Stat. 2185][/us/stat/120/2185]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92], §§ 502(c)(2), 512, Nov. 25, 2015, [129 Stat. 807][/us/stat/129/807], 809.)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2947][/us/stat/108/2947]; amended [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 505(c)(3)(B), Dec. 28, 2001, [115 Stat. 1088][/us/stat/115/1088]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 514(b), Oct. 17, 2006, [120 Stat. 2185][/us/stat/120/2185]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], §§ 502(c)(2), 512, Nov. 25, 2015, [129 Stat. 807][/us/stat/129/807], 809.)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 5904 of this title][/us/usc/t10/s5904], prior to repeal by [Pub. L. 103–337, § 1629(b)(2)][/us/pl/103/337/s1629/b/2].
+    Provisions similar to those in this section were contained in [section 5904 of this title][/us/usc/t10/s5904], prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(b)(2).
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1). [Pub. L. 114–92, § 502(c)(2)][/us/pl/114/92/s502/c/2], struck out “or whose name was not placed on an all-fully-qualified-officers list under [section 14308(b)(4) of this title][/us/usc/t10/s14308/b/4] because of administrative error,” after “administrative error,”.
+    2015—Subsec. (a)(1). [Pub. L. 114–92][/us/pl/114/92], § 502(c)(2), struck out “or whose name was not placed on an all-fully-qualified-officers list under [section 14308(b)(4) of this title][/us/usc/t10/s14308/b/4] because of administrative error,” after “administrative error,”.
 
-    Subsec. (b)(1). [Pub. L. 114–92, § 512(1)][/us/pl/114/92/s512/1], substituted “a mandatory promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a]” for “a selection board” in introductory provisions and “mandatory promotion board” for “selection board” in subpars. (A) and (B).
+    Subsec. (b)(1). [Pub. L. 114–92][/us/pl/114/92], § 512(1), substituted “a mandatory promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a]” for “a selection board” in introductory provisions and “mandatory promotion board” for “selection board” in subpars. (A) and (B).
 
-    Subsec. (b)(3). [Pub. L. 114–92, § 512(2)][/us/pl/114/92/s512/2], in first sentence, substituted “The special selection board” for “Such board” and “mandatory promotion board” for “selection board”.
+    Subsec. (b)(3). [Pub. L. 114–92][/us/pl/114/92], § 512(2), in first sentence, substituted “The special selection board” for “Such board” and “mandatory promotion board” for “selection board”.
 
     2006—Subsec. (b)(1)(A). [Pub. L. 109–364][/us/pl/109/364] inserted “in a matter material to the decision of the board” after “contrary to law”.
 
@@ -121,21 +121,21 @@
 [/us/usc/t10/s14101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fa
 [/us/usc/t10/s1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1552
 [/us/usc/t10/s14101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fa
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2947
-[/us/pl/107/107/s505/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fc%2F3%2FB
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1088
-[/us/pl/109/364/s514/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs514%2Fb
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2185
-[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F807
 [/us/usc/t10/s5904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5904
-[/us/pl/103/337/s1629/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fb%2F2
-[/us/pl/114/92/s502/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs502%2Fc%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/usc/t10/s14308/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14308%2Fb%2F4
-[/us/pl/114/92/s512/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs512%2F1
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/usc/t10/s14101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fa
-[/us/pl/114/92/s512/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs512%2F2
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t10/s14308/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14308%2Fb%2F4

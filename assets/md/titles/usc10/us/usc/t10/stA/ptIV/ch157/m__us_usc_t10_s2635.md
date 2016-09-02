@@ -27,7 +27,7 @@
 
     (b) No individual (or his estate) who is authorized by the Department of Defense to perform services under a program established pursuant to subsection (a), and who is acting within the scope of his duties, shall be liable for injury to, or loss of property or personal injury or death which may be caused incident to providing such services.
 
-(Added [Pub. L. 93–155, title VIII, § 814(a)][/us/pl/93/155/s814/a], Nov. 16, 1973, [87 Stat. 620][/us/stat/87/620]; amended [Pub. L. 96–513, title V, § 511(88)][/us/pl/96/513/s511/88], Dec. 12, 1980, [94 Stat. 2928][/us/stat/94/2928]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+(Added [Pub. L. 93–155, title VIII][/us/pl/93/155/tVIII], § 814(a), Nov. 16, 1973, [87 Stat. 620][/us/stat/87/620]; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(88), Dec. 12, 1980, [94 Stat. 2928][/us/stat/94/2928]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/93/155/s814/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2Fs814%2Fa
+[/us/pl/93/155/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2FtVIII
 [/us/stat/87/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F620
-[/us/pl/96/513/s511/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F88
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2928
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

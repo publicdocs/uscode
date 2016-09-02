@@ -17,7 +17,7 @@
 
     The Secretary of the Air Force may spend, from any appropriation for contingent expenses of the Department of the Air Force, amounts necessary to provide medals and devices under sections 8741, 8742, 8743, 8744, 8746, 8747, and 8752 of this title.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 541][/us/stat/70A/541]; [Pub. L. 86–593, § 1(5)][/us/pl/86/593/s1/5], July 6, 1960, [74 Stat. 332][/us/stat/74/332].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 541][/us/stat/70A/541]; [Pub. L. 86–593][/us/pl/86/593], § 1(5), July 6, 1960, [74 Stat. 332][/us/stat/74/332].)
 
 <table>
 
@@ -78,7 +78,7 @@ July 9, 1918, ch. 143 (13th par. under “Ordnance Department”), 40 Stat. 871.
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F541
-[/us/pl/86/593/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F593%2Fs1%2F5
+[/us/pl/86/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F593
 [/us/stat/74/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F332
 [/us/pl/86/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F593
 

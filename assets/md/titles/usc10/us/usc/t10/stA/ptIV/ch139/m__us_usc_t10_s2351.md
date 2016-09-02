@@ -25,7 +25,7 @@
 
         (2) for purposes related to research and development for which expenditures are specifically authorized in other appropriations of the Department of Defense.
 
-(Added [Pub. L. 97–258, § 2(b)(3)(B)][/us/pl/97/258/s2/b/3/B], Sept. 13, 1982, [96 Stat. 1052][/us/stat/96/1052], § 2361; renumbered § 2351 and amended [Pub. L. 100–370, § 1(g)(1)][/us/pl/100/370/s1/g/1], July 19, 1988, [102 Stat. 846][/us/stat/102/846].)
+(Added [Pub. L. 97–258][/us/pl/97/258], § 2(b)(3)(B), Sept. 13, 1982, [96 Stat. 1052][/us/stat/96/1052], § 2361; renumbered § 2351 and amended [Pub. L. 100–370][/us/pl/100/370], § 1(g)(1), July 19, 1988, [102 Stat. 846][/us/stat/102/846].)
 
 <table>
 
@@ -85,11 +85,11 @@ Aug. 10, 1956, ch. 1041, § 40(2), 70A Stat. 636; Nov. 17, 1971, Pub. L. 92–
 
     Subsection (a) is based on [section 2361 of this title][/us/usc/t10/s2361].
 
-    Subsection (b) is based on [Pub. L. 99–190, § 101(b)][/us/pl/99/190/s101/b] \[title VIII, § 8015\], Dec. 19, 1985, [99 Stat. 1185][/us/stat/99/1185], 1205.
+    Subsection (b) is based on [Pub. L. 99–190][/us/pl/99/190], § 101(b) \[title VIII, § 8015\], Dec. 19, 1985, [99 Stat. 1185][/us/stat/99/1185], 1205.
 
  __Prior Provisions__ 
 
-    A prior section 2351, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 133][/us/stat/70A/133], related to policy, plans, and coordination relative to research and development on scientific problems relating to the national security, prior to repeal by [Pub. L. 85–599, § 3(d)][/us/pl/85/599/s3/d].
+    A prior section 2351, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 133][/us/stat/70A/133], related to policy, plans, and coordination relative to research and development on scientific problems relating to the national security, prior to repeal by [Pub. L. 85–599][/us/pl/85/599], § 3(d).
 
  __Amendments__ 
 
@@ -103,16 +103,16 @@ Aug. 10, 1956, ch. 1041, § 40(2), 70A Stat. 636; Nov. 17, 1971, Pub. L. 92–
 ----------
 
 [/us/usc/t10/s2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2353
-[/us/pl/97/258/s2/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F3%2FB
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1052
-[/us/pl/100/370/s1/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs1%2Fg%2F1
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F846
 [/us/usc/t10/s2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2361
-[/us/pl/99/190/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fb
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1185
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F133
-[/us/pl/85/599/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599%2Fs3%2Fd
+[/us/pl/85/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599
 [/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/usc/t10/s2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2361
 

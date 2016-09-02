@@ -43,7 +43,7 @@
 
         (2) The restriction on duplication of educational assistance under paragraph (1) does not apply to the entitlement of educational assistance under [section 16131(i) of this title][/us/usc/t10/s16131/i].
 
-(Added [Pub. L. 108–375, div. A, title V, § 527(a)][/us/pl/108/375/s527/a], Oct. 28, 2004, [118 Stat. 1892][/us/stat/118/1892]; amended [Pub. L. 109–163, div. A, title V, § 540(a)][/us/pl/109/163/s540/a], Jan. 6, 2006, [119 Stat. 3251][/us/stat/119/3251]; [Pub. L. 110–252, title V, § 5003(b)(1)(C)][/us/pl/110/252/s5003/b/1/C], June 30, 2008, [122 Stat. 2375][/us/stat/122/2375]; [Pub. L. 111–84, div. A, title X, § 1073(a)(36)][/us/pl/111/84/s1073/a/36], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474].)
+(Added [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 527(a), Oct. 28, 2004, [118 Stat. 1892][/us/stat/118/1892]; amended [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 540(a), Jan. 6, 2006, [119 Stat. 3251][/us/stat/119/3251]; [Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5003(b)(1)(C), June 30, 2008, [122 Stat. 2375][/us/stat/122/2375]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(36), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–252, title V, § 5003(d)][/us/pl/110/252/s5003/d], June 30, 2008, [122 Stat. 2378][/us/stat/122/2378], provided that: 
+[Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5003(d), June 30, 2008, [122 Stat. 2378][/us/stat/122/2378], provided that: 
 
 > “This section \[enacting chapter 33 of Title 38, Veterans’ Benefits, amending this section and sections 3033, 3485, 3688 to 3690, 3692, 3695, 3697, and 3697A of Title 38, and enacting provisions set out as a note under [section 3301 of Title 38][/us/usc/t38/s3301]\] and the amendments made by this section shall take effect on August 1, 2009.”
 
@@ -76,13 +76,13 @@
 [/us/pl/96/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F449
 [/us/usc/t5/s5561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5561
 [/us/usc/t10/s16131/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16131%2Fi
-[/us/pl/108/375/s527/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs527%2Fa
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1892
-[/us/pl/109/163/s540/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs540%2Fa
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3251
-[/us/pl/110/252/s5003/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fb%2F1%2FC
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2375
-[/us/pl/111/84/s1073/a/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F36
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
 [/us/pl/96/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F449
 [/us/stat/94/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1967
@@ -90,7 +90,7 @@
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/110/252/s5003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fd
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2378
 [/us/usc/t38/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3301
 

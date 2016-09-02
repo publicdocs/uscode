@@ -25,7 +25,7 @@
 
     (e) The Secretary of the military department concerned may, when he determines that the interest of the service so requires, release any person from the program and discharge him from his armed force.
 
-(Added [Pub. L. 88–647, title II, § 201(1)][/us/pl/88/647/s201/1], Oct. 13, 1964, [78 Stat. 1068][/us/stat/78/1068]; amended [Pub. L. 96–357, § 1(d)][/us/pl/96/357/s1/d], Sept. 24, 1980, [94 Stat. 1180][/us/stat/94/1180].)
+(Added [Pub. L. 88–647, title II][/us/pl/88/647/tII], § 201(1), Oct. 13, 1964, [78 Stat. 1068][/us/stat/78/1068]; amended [Pub. L. 96–357][/us/pl/96/357], § 1(d), Sept. 24, 1980, [94 Stat. 1180][/us/stat/94/1180].)
 
  __Amendments__ 
 
@@ -43,9 +43,9 @@
 ----------
 
 [/us/usc/t10/s2107a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2107a
-[/us/pl/88/647/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2Fs201%2F1
+[/us/pl/88/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2FtII
 [/us/stat/78/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1068
-[/us/pl/96/357/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F357%2Fs1%2Fd
+[/us/pl/96/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F357
 [/us/stat/94/1180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1180
 [/us/pl/96/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F357
 [/us/pl/96/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F357

@@ -31,11 +31,11 @@
 
         (2) any child (as defined in [section 1072(6) of this title][/us/usc/t10/s1072/6]) of the member who is described in subparagraph (D) of [section 1072(2) of this title][/us/usc/t10/s1072/2].
 
-(Added [Pub. L. 108–136, div. A, title V, § 582(a)(1)][/us/pl/108/136/s582/a/1], Nov. 24, 2003, [117 Stat. 1489][/us/stat/117/1489].)
+(Added [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 582(a)(1), Nov. 24, 2003, [117 Stat. 1489][/us/stat/117/1489].)
 
  __Effective Date__ 
 
-[Pub. L. 108–136, div. A, title V, § 582(b)][/us/pl/108/136/s582/b], Nov. 24, 2003, [117 Stat. 1490][/us/stat/117/1490], provided that: 
+[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 582(b), Nov. 24, 2003, [117 Stat. 1490][/us/stat/117/1490], provided that: 
 
 > “[Section 1789 of title 10][/us/usc/t10/s1789], United States Code, as added by subsection (a), shall take effect on October 1, 2003.”
 
@@ -48,9 +48,9 @@
 
 [/us/usc/t10/s1072/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F6
 [/us/usc/t10/s1072/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2
-[/us/pl/108/136/s582/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs582%2Fa%2F1
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1489
-[/us/pl/108/136/s582/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs582%2Fb
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1490
 [/us/usc/t10/s1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1789
 

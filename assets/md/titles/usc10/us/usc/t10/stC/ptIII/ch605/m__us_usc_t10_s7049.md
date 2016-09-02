@@ -53,7 +53,7 @@
 
     Amounts received by the school for instruction of students enrolled under this section shall be retained by the school to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the school.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 535(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–112; amended [Pub. L. 108–136, div. A, title X, § 1031(a)(57)][/us/pl/108/136/s1031/a/57], Nov. 24, 2003, [117 Stat. 1603][/us/stat/117/1603]; [Pub. L. 108–375, div. A, title V, § 557(a)(4)(B)][/us/pl/108/375/s557/a/4/B], Oct. 28, 2004, [118 Stat. 1915][/us/stat/118/1915]; [Pub. L. 109–163, div. A, title V, § 525][/us/pl/109/163/s525], Jan. 6, 2006, [119 Stat. 3245][/us/stat/119/3245]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 542, Oct. 14, 2008, [122 Stat. 4456][/us/stat/122/4456]; [Pub. L. 112–239, div. A, title V, § 589(a)][/us/pl/112/239/s589/a], Jan. 2, 2013, [126 Stat. 1769][/us/stat/126/1769].)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 535(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–112; amended [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(57), Nov. 24, 2003, [117 Stat. 1603][/us/stat/117/1603]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 557(a)(4)(B), Oct. 28, 2004, [118 Stat. 1915][/us/stat/118/1915]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 525, Jan. 6, 2006, [119 Stat. 3245][/us/stat/119/3245]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 542, Oct. 14, 2008, [122 Stat. 4456][/us/stat/122/4456]; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 589(a), Jan. 2, 2013, [126 Stat. 1769][/us/stat/126/1769].)
 
  __Amendments__ 
 
@@ -69,13 +69,13 @@
 
  __Request for Increase in Number of Defense Industry Civilians Authorized for Admission__ 
 
-[Pub. L. 112–239, div. A, title V, § 589(c)][/us/pl/112/239/s589/c], Jan. 2, 2013, [126 Stat. 1769][/us/stat/126/1769], provided that: 
+[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 589(c), Jan. 2, 2013, [126 Stat. 1769][/us/stat/126/1769], provided that: 
 
 > “If the Secretary of Defense determines that it is in the best interest of the Department of Defense to increase the maximum number of defense industry employees authorized to be enrolled in the Naval Defense Development Program or the Air Force Institute of Technology at any one time, as specified in sections 7049(a) and 9314a(a) of title 10, United States Code, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a request for such an increase, including draft legislation to effectuate the increase.”
 
  __Program Evaluation and Report__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 535(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–113, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 535(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–113, provided that:
 
 >     “(1)
 
@@ -109,26 +109,26 @@
 ----------
 
 [/us/usc/t10/s7048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7048
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/136/s1031/a/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F57
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1603
-[/us/pl/108/375/s557/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs557%2Fa%2F4%2FB
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1915
-[/us/pl/109/163/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs525
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3245
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4456
-[/us/pl/112/239/s589/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs589%2Fa
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1769
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/112/239/s589/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs589%2Fc
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1769
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s7049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7049
 

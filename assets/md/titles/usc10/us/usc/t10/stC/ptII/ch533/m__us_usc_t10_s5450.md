@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5446.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5451.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5450)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5447...5449.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5451.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5450)
 
 ## § 5450. Regular Navy: retired flag officers on active duty
 
     Except in time of war or national emergency, not more than ten retired flag officers of the Regular Navy may be on active duty.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 312][/us/stat/70A/312]; [Pub. L. 96–513, title V, § 503(21)][/us/pl/96/513/s503/21], Dec. 12, 1980, [94 Stat. 2912][/us/stat/94/2912].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 312][/us/stat/70A/312]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 503(21), Dec. 12, 1980, [94 Stat. 2912][/us/stat/94/2912].)
 
 <table>
 
@@ -77,14 +77,14 @@ Aug. 7, 1947, ch. 512, § 430, 61 Stat. 881; Sept. 3, 1954, ch. 1257, § 702
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5446.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5451.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5450)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5447...5449.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5451.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5450)
 
 ----------
 ----------
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F312
-[/us/pl/96/513/s503/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs503%2F21
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2912
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

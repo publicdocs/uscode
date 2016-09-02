@@ -57,7 +57,7 @@
 
     The authority of the Secretary of Defense under this section is in addition to the authority of the Secretary under subchapter I and any other provision of law.
 
-(Added and amended [Pub. L. 101–189, div. A, title IX][/us/pl/101/189], §§ 931(c), 938(c), Nov. 29, 1989, [103 Stat. 1534][/us/stat/103/1534], 1539; [Pub. L. 102–484, div. A, title VIII, § 843(b)(2)][/us/pl/102/484/s843/b/2], Oct. 23, 1992, [106 Stat. 2469][/us/stat/106/2469]; [Pub. L. 113–66, div. A, title XII, § 1250(a)][/us/pl/113/66/s1250/a], Dec. 26, 2013, [127 Stat. 926][/us/stat/127/926].)
+(Added and amended [Pub. L. 101–189, div. A, title IX][/us/pl/101/189/dA/tIX], §§ 931(c), 938(c), Nov. 29, 1989, [103 Stat. 1534][/us/stat/103/1534], 1539; [Pub. L. 102–484, div. A, title VIII][/us/pl/102/484/dA/tVIII], § 843(b)(2), Oct. 23, 1992, [106 Stat. 2469][/us/stat/106/2469]; [Pub. L. 113–66, div. A, title XII][/us/pl/113/66/dA/tXII], § 1250(a), Dec. 26, 2013, [127 Stat. 926][/us/stat/127/926].)
 
  __References in Text__ 
 
@@ -65,29 +65,29 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [Pub. L. 99–661, div. A, title XI, § 1102][/us/pl/99/661/s1102], Nov. 14, 1986, [100 Stat. 3961][/us/stat/100/3961], which was set out as a note under [section 2407 of this title][/us/usc/t10/s2407], prior to repeal by [Pub. L. 101–189, § 931(d)(2)][/us/pl/101/189/s931/d/2].
+    Provisions similar to those in this section were contained in [Pub. L. 99–661, div. A, title XI][/us/pl/99/661/dA/tXI], § 1102, Nov. 14, 1986, [100 Stat. 3961][/us/stat/100/3961], which was set out as a note under [section 2407 of this title][/us/usc/t10/s2407], prior to repeal by [Pub. L. 101–189][/us/pl/101/189], § 931(d)(2).
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1). [Pub. L. 113–66, § 1250(a)(1)][/us/pl/113/66/s1250/a/1], (2)(A), in introductory provisions, substituted “Support Partnership Agreements” for “Weapon System Partnership Agreements” and “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization”.
+    2013—Subsec. (a)(1). [Pub. L. 113–66][/us/pl/113/66], § 1250(a)(1), (2)(A), in introductory provisions, substituted “Support Partnership Agreements” for “Weapon System Partnership Agreements” and “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization”.
 
-    Subsec. (a)(1)(A). [Pub. L. 113–66, § 1250(a)(1)][/us/pl/113/66/s1250/a/1], substituted “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization”.
+    Subsec. (a)(1)(A). [Pub. L. 113–66][/us/pl/113/66], § 1250(a)(1), substituted “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization”.
 
-    Subsec. (a)(1)(B). [Pub. L. 113–66, § 1250(a)(2)(B)][/us/pl/113/66/s1250/a/2/B], substituted “activities” for “a specific weapon system”.
+    Subsec. (a)(1)(B). [Pub. L. 113–66][/us/pl/113/66], § 1250(a)(2)(B), substituted “activities” for “a specific weapon system”.
 
-    Subsec. (a)(2)(A). [Pub. L. 113–66, § 1250(a)(1)][/us/pl/113/66/s1250/a/1], substituted “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization”.
+    Subsec. (a)(2)(A). [Pub. L. 113–66][/us/pl/113/66], § 1250(a)(1), substituted “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization”.
 
-    Subsec. (b). [Pub. L. 113–66, § 1250(a)(3)][/us/pl/113/66/s1250/a/3], substituted “Support Partnership Agreement” for “Weapon System Partnership Agreement” in introductory provisions.
+    Subsec. (b). [Pub. L. 113–66][/us/pl/113/66], § 1250(a)(3), substituted “Support Partnership Agreement” for “Weapon System Partnership Agreement” in introductory provisions.
 
-    [Pub. L. 113–66, § 1250(a)(1)][/us/pl/113/66/s1250/a/1], substituted “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization” wherever appearing.
+    [Pub. L. 113–66][/us/pl/113/66], § 1250(a)(1), substituted “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization” wherever appearing.
 
-    Subsecs. (c), (d). [Pub. L. 113–66, § 1250(a)(3)][/us/pl/113/66/s1250/a/3], substituted “Support Partnership Agreement” for “Weapon System Partnership Agreement”.
+    Subsecs. (c), (d). [Pub. L. 113–66][/us/pl/113/66], § 1250(a)(3), substituted “Support Partnership Agreement” for “Weapon System Partnership Agreement”.
 
-    Subsec. (e). [Pub. L. 113–66, § 1250(a)(1)][/us/pl/113/66/s1250/a/1], (3), substituted “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization” and “Support Partnership Agreement” for “Weapon System Partnership Agreement”.
+    Subsec. (e). [Pub. L. 113–66][/us/pl/113/66], § 1250(a)(1), (3), substituted “NATO Support Organization and its executive agencies” for “NATO Maintenance and Supply Organization” and “Support Partnership Agreement” for “Weapon System Partnership Agreement”.
 
     1992—Subsec. (c). [Pub. L. 102–484][/us/pl/102/484] inserted “and costs of claims” after “administrative costs”.
 
-    1989—Subsec. (e). [Pub. L. 101–189, § 938(c)][/us/pl/101/189/s938/c], inserted “this chapter and” after “in accordance with”.
+    1989—Subsec. (e). [Pub. L. 101–189][/us/pl/101/189], § 938(c), inserted “this chapter and” after “in accordance with”.
 
 ----------
 
@@ -97,28 +97,28 @@
 ----------
 
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
-[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIX
 [/us/stat/103/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1534
-[/us/pl/102/484/s843/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs843%2Fb%2F2
+[/us/pl/102/484/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVIII
 [/us/stat/106/2469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2469
-[/us/pl/113/66/s1250/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1250%2Fa
+[/us/pl/113/66/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXII
 [/us/stat/127/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F926
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
-[/us/pl/99/661/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1102
+[/us/pl/99/661/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXI
 [/us/stat/100/3961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3961
 [/us/usc/t10/s2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2407
-[/us/pl/101/189/s931/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs931%2Fd%2F2
-[/us/pl/113/66/s1250/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1250%2Fa%2F1
-[/us/pl/113/66/s1250/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1250%2Fa%2F1
-[/us/pl/113/66/s1250/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1250%2Fa%2F2%2FB
-[/us/pl/113/66/s1250/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1250%2Fa%2F1
-[/us/pl/113/66/s1250/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1250%2Fa%2F3
-[/us/pl/113/66/s1250/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1250%2Fa%2F1
-[/us/pl/113/66/s1250/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1250%2Fa%2F3
-[/us/pl/113/66/s1250/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1250%2Fa%2F1
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/101/189/s938/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs938%2Fc
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 
 

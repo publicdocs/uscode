@@ -41,21 +41,21 @@
 
         (2) Each strategic plan submitted under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
 
-(Added [Pub. L. 108–136, div. A, title X, § 1054(a)][/us/pl/108/136/s1054/a], Nov. 24, 2003, [117 Stat. 1615][/us/stat/117/1615]; amended [Pub. L. 113–66, div. A, title X, § 1072(a)][/us/pl/113/66/s1072/a], (b)(1), Dec. 26, 2013, [127 Stat. 868][/us/stat/127/868], 869; [Pub. L. 113–291, div. A, title X, § 1071(f)(7)][/us/pl/113/291/s1071/f/7], Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510].)
+(Added [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1054(a), Nov. 24, 2003, [117 Stat. 1615][/us/stat/117/1615]; amended [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1072(a), (b)(1), Dec. 26, 2013, [127 Stat. 868][/us/stat/127/868], 869; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(f)(7), Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510].)
 
  __Amendments__ 
 
     2014—Subsec. (a). [Pub. L. 113–291][/us/pl/113/291] inserted a comma after “Every three years” in introductory provisions.
 
-    2013—[Pub. L. 113–66, § 1072(b)(1)][/us/pl/113/66/s1072/b/1], struck out “: biennial strategic plan” after “spectrum” in section catchline.
+    2013—[Pub. L. 113–66][/us/pl/113/66], § 1072(b)(1), struck out “: biennial strategic plan” after “spectrum” in section catchline.
 
-    Subsec. (a). [Pub. L. 113–66, § 1072(a)(1)][/us/pl/113/66/s1072/a/1], substituted “three years” for “other year, and in time for submission to Congress under subsection (b),”, inserted “, in consultation with the Director of National Intelligence and the Secretary of Commerce,” after “Secretary of Defense”, substituted “the national security of the United States. Each such strategic plan shall include each of the following:” for “the mission of the Department of Defense.”, and added pars. (1) to (3).
+    Subsec. (a). [Pub. L. 113–66][/us/pl/113/66], § 1072(a)(1), substituted “three years” for “other year, and in time for submission to Congress under subsection (b),”, inserted “, in consultation with the Director of National Intelligence and the Secretary of Commerce,” after “Secretary of Defense”, substituted “the national security of the United States. Each such strategic plan shall include each of the following:” for “the mission of the Department of Defense.”, and added pars. (1) to (3).
 
-    Subsec. (b). [Pub. L. 113–66, § 1072(a)(2)][/us/pl/113/66/s1072/a/2], added subsec. (b). Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 113–66][/us/pl/113/66], § 1072(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 113–66, § 1072(a)(3)][/us/pl/113/66/s1072/a/3], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (c). [Pub. L. 113–66][/us/pl/113/66], § 1072(a)(3), designated existing provisions as par. (1) and added par. (2).
 
-    [Pub. L. 113–66, § 1072(a)(2)][/us/pl/113/66/s1072/a/2], redesignated subsec. (b) as (c).
+    [Pub. L. 113–66][/us/pl/113/66], § 1072(a)(2), redesignated subsec. (b) as (c).
 
 ----------
 
@@ -65,17 +65,17 @@
 ----------
 
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/108/136/s1054/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1054%2Fa
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1615
-[/us/pl/113/66/s1072/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1072%2Fa
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F868
-[/us/pl/113/291/s1071/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F7
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3510
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
-[/us/pl/113/66/s1072/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1072%2Fb%2F1
-[/us/pl/113/66/s1072/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1072%2Fa%2F1
-[/us/pl/113/66/s1072/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1072%2Fa%2F2
-[/us/pl/113/66/s1072/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1072%2Fa%2F3
-[/us/pl/113/66/s1072/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1072%2Fa%2F2
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 
 

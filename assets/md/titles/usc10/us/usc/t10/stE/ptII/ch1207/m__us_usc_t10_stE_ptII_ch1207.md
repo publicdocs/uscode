@@ -59,9 +59,9 @@
 
  __Amendments__ 
 
-    2001—[Pub. L. 107–107, div. A, title V, § 517(e)(2)][/us/pl/107/107/s517/e/2], Dec. 28, 2001, [115 Stat. 1095][/us/stat/115/1095], added item 12244.
+    2001—[Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 517(e)(2), Dec. 28, 2001, [115 Stat. 1095][/us/stat/115/1095], added item 12244.
 
-    1996—[Pub. L. 104–106, div. A, title XV, § 1501(b)(15)][/us/pl/104/106/s1501/b/15], Feb. 10, 1996, [110 Stat. 496][/us/stat/110/496], substituted “promotion” for “promotions” in item 12243.
+    1996—[Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(15), Feb. 10, 1996, [110 Stat. 496][/us/stat/110/496], substituted “promotion” for “promotions” in item 12243.
 
 ----------
 
@@ -70,9 +70,9 @@
 ----------
 ----------
 
-[/us/pl/107/107/s517/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs517%2Fe%2F2
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1095
-[/us/pl/104/106/s1501/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F15
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F496
 
 

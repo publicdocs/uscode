@@ -21,7 +21,7 @@
 
     (c) No law imposing restrictions, requirements, or penalties in relation to the employment of persons, the performance of services, the payment or receipt of compensation in connection with any claim, proceeding, or matter involving the United States applies to members of the Committee solely by reason of their membership on the Committee.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 291][/us/stat/70A/291], § 5153; [Pub. L. 97–60, title II, § 205][/us/pl/97/60/s205], Oct. 14, 1981, [95 Stat. 1007][/us/stat/95/1007]; renumbered § 5024 and amended [Pub. L. 99–433, title V][/us/pl/99/433], §§ 511(d), 514(d)(2), Oct. 1, 1986, [100 Stat. 1048][/us/stat/100/1048], 1055.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 291][/us/stat/70A/291], § 5153; [Pub. L. 97–60, title II][/us/pl/97/60/tII], § 205, Oct. 14, 1981, [95 Stat. 1007][/us/stat/95/1007]; renumbered § 5024 and amended [Pub. L. 99–433, title V][/us/pl/99/433/tV], §§ 511(d), 514(d)(2), Oct. 1, 1986, [100 Stat. 1048][/us/stat/100/1048], 1055.)
 
 <table>
 
@@ -73,9 +73,9 @@ Aug. 1, 1946, ch. 727, § 4, 60 Stat. 779; Sept. 3, 1954, ch. 1263, § 12, 6
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–433, § 511(d)][/us/pl/99/433/s511/d], renumbered [section 5153 of this title][/us/usc/t10/s5153] as this section.
+    1986—[Pub. L. 99–433][/us/pl/99/433], § 511(d), renumbered [section 5153 of this title][/us/usc/t10/s5153] as this section.
 
-    Subsec. (c). [Pub. L. 99–433, § 514(d)(2)][/us/pl/99/433/s514/d/2], substituted “claim, proceeding,” for “claim proceeding”.
+    Subsec. (c). [Pub. L. 99–433][/us/pl/99/433], § 514(d)(2), substituted “claim, proceeding,” for “claim proceeding”.
 
     1981—Subsecs. (c), (d). [Pub. L. 97–60][/us/pl/97/60] redesignated subsec. (d) as (c). Former subsec. (c), which allowed each member of the Committee compensation of $50 for each day or part of a day that the member attended any regularly called meeting of the Committee and also allowed that member reimbursement for all travel expenses incident to that attendance, was struck out.
 
@@ -92,13 +92,13 @@ Aug. 1, 1946, ch. 727, § 4, 60 Stat. 779; Sept. 3, 1954, ch. 1263, § 12, 6
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F291
-[/us/pl/97/60/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2Fs205
+[/us/pl/97/60/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2FtII
 [/us/stat/95/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1007
-[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1048
-[/us/pl/99/433/s511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fd
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t10/s5153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5153
-[/us/pl/99/433/s514/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs514%2Fd%2F2
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/pl/97/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776

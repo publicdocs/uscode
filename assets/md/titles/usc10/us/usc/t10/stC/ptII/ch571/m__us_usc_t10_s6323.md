@@ -41,7 +41,7 @@
 
     (f) Officers of the Navy Reserve and the Marine Corps Reserve who were transferred to the Retired Reserve from an honorary retired list under section 213(b) of the Armed Forces Reserve Act of 1952 ([66 Stat. 485][/us/stat/66/485]), or are transferred to the Retired Reserve under [section 6327 of this title][/us/usc/t10/s6327], may be retired under this section, notwithstanding their retired status, if they are otherwise eligible.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 394][/us/stat/70A/394]; [Pub. L. 85–861, § 1(142)][/us/pl/85/861/s1/142], Sept. 2, 1958, [72 Stat. 1509][/us/stat/72/1509]; [Pub. L. 88–132, § 5(h)(4)][/us/pl/88/132/s5/h/4], Oct. 2, 1963, [77 Stat. 214][/us/stat/77/214]; [Pub. L. 96–342, title VIII, § 813(d)(2)][/us/pl/96/342/s813/d/2], Sept. 8, 1980, [94 Stat. 1104][/us/stat/94/1104]; [Pub. L. 96–513, title V][/us/pl/96/513], §§ 503(47)(A), 513(17), Dec. 12, 1980, [94 Stat. 2914][/us/stat/94/2914], 2932; [Pub. L. 99–348, title II, § 203(b)(2)][/us/pl/99/348/s203/b/2], July 1, 1986, [100 Stat. 696][/us/stat/100/696]; [Pub. L. 101–510, div. A, title V, § 523(b)][/us/pl/101/510/s523/b], Nov. 5, 1990, [104 Stat. 1562][/us/stat/104/1562]; [Pub. L. 103–160, div. A, title V, § 561(c)][/us/pl/103/160/s561/c], Nov. 30, 1993, [107 Stat. 1667][/us/stat/107/1667]; [Pub. L. 105–261, div. A, title V, § 561(e)][/us/pl/105/261/s561/e], Oct. 17, 1998, [112 Stat. 2025][/us/stat/112/2025]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 571(e)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–134; [Pub. L. 109–163, div. A, title V][/us/pl/109/163], §§ 502(b), 515(b)(1)(H), Jan. 6, 2006, [119 Stat. 3225][/us/stat/119/3225], 3233; [Pub. L. 109–364, div. A, title X, § 1071(a)(33)][/us/pl/109/364/s1071/a/33], Oct. 17, 2006, [120 Stat. 2400][/us/stat/120/2400]; [Pub. L. 111–383, div. A, title V, § 506(b)][/us/pl/111/383/s506/b], Jan. 7, 2011, [124 Stat. 4210][/us/stat/124/4210]; [Pub. L. 112–239, div. A, title V, § 505(b)][/us/pl/112/239/s505/b], title X, § 1076(e)(6), Jan. 2, 2013, [126 Stat. 1715][/us/stat/126/1715], 1951.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 394][/us/stat/70A/394]; [Pub. L. 85–861][/us/pl/85/861], § 1(142), Sept. 2, 1958, [72 Stat. 1509][/us/stat/72/1509]; [Pub. L. 88–132][/us/pl/88/132], § 5(h)(4), Oct. 2, 1963, [77 Stat. 214][/us/stat/77/214]; [Pub. L. 96–342, title VIII][/us/pl/96/342/tVIII], § 813(d)(2), Sept. 8, 1980, [94 Stat. 1104][/us/stat/94/1104]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], §§ 503(47)(A), 513(17), Dec. 12, 1980, [94 Stat. 2914][/us/stat/94/2914], 2932; [Pub. L. 99–348, title II][/us/pl/99/348/tII], § 203(b)(2), July 1, 1986, [100 Stat. 696][/us/stat/100/696]; [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 523(b), Nov. 5, 1990, [104 Stat. 1562][/us/stat/104/1562]; [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 561(c), Nov. 30, 1993, [107 Stat. 1667][/us/stat/107/1667]; [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 561(e), Oct. 17, 1998, [112 Stat. 2025][/us/stat/112/2025]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 571(e)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–134; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], §§ 502(b), 515(b)(1)(H), Jan. 6, 2006, [119 Stat. 3225][/us/stat/119/3225], 3233; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(33), Oct. 17, 2006, [120 Stat. 2400][/us/stat/120/2400]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 506(b), Jan. 7, 2011, [124 Stat. 4210][/us/stat/124/4210]; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 505(b), title X, § 1076(e)(6), Jan. 2, 2013, [126 Stat. 1715][/us/stat/126/1715], 1951.)
 
 <table>
 
@@ -225,17 +225,17 @@ In subsection (d), the second and third provisos of 34 App.:410b, relating to of
 
  __Amendments__ 
 
-    2013—Subsec. (a)(2)(B). [Pub. L. 112–239, § 1076(e)(6)][/us/pl/112/239/s1076/e/6], substituted “January 7, 2011,” for “the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011”.
+    2013—Subsec. (a)(2)(B). [Pub. L. 112–239][/us/pl/112/239], § 1076(e)(6), substituted “January 7, 2011,” for “the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011”.
 
-    [Pub. L. 112–239, § 505(b)][/us/pl/112/239/s505/b], substituted “September 30, 2018” for “September 30, 2013”.
+    [Pub. L. 112–239][/us/pl/112/239], § 505(b), substituted “September 30, 2018” for “September 30, 2013”.
 
     2011—Subsec. (a)(2)(B). [Pub. L. 111–383][/us/pl/111/383] substituted “the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 and ending on September 30, 2013” for “January 6, 2006, and ending on December 31, 2008”.
 
     2006—Subsec. (a)(2). [Pub. L. 109–364][/us/pl/109/364] struck out second comma after “subparagraph (B)” in subpar. (A) and substituted “January 6, 2006,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2006” in subpar. (B).
 
-    [Pub. L. 109–163, § 502(b)][/us/pl/109/163/s502/b], designated existing provisions as subpar. (A), substituted “during the period specified in subparagraph (B),” for “during the period beginning on October 1, 1990, and ending on December 31, 2001”, and added subpar. (B).
+    [Pub. L. 109–163][/us/pl/109/163], § 502(b), designated existing provisions as subpar. (A), substituted “during the period specified in subparagraph (B),” for “during the period beginning on October 1, 1990, and ending on December 31, 2001”, and added subpar. (B).
 
-    Subsec. (f). [Pub. L. 109–163, § 515(b)(1)(H)][/us/pl/109/163/s515/b/1/H], substituted “Navy Reserve” for “Naval Reserve”.
+    Subsec. (f). [Pub. L. 109–163][/us/pl/109/163], § 515(b)(1)(H), substituted “Navy Reserve” for “Naval Reserve”.
 
     2000—Subsec. (a)(2). [Pub. L. 106–398][/us/pl/106/398] substituted “December 31, 2001” for “September 30, 2001”.
 
@@ -247,9 +247,9 @@ In subsection (d), the second and third provisos of 34 App.:410b, relating to of
 
     1986—Subsec. (e). [Pub. L. 99–348][/us/pl/99/348] substituted provision that retired pay be computed under section 6333 for provision that retired pay, in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 2½ percent of the basic pay of the grade in which retired, or in the case of an officer who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 2½ percent of the monthly retired pay base computed under section 1407(d), which rates were to be multiplied by the number of years of service credited under section 1405, but such retired pay was not to be more than 75 percent of the basic pay or monthly retired pay base upon which the computation of retired pay was based.
 
-    1980—Subsec. (c). [Pub. L. 96–513, § 503(47)(A)][/us/pl/96/513/s503/47/A], substituted provisions that the retired grade of an officer retired under this section is the grade determined under [section 1370 of this title][/us/usc/t10/s1370] for provisions that had set the grade of officers retired under this section at the highest grade, permanent or temporary, in which he had served satisfactorily on active duty as determined by the Secretary of the Navy; or, if the Secretary determined that he had not served satisfactorily in his highest temporary grade, in the next lower grade in which he had served, but not lower than his permanent grade.
+    1980—Subsec. (c). [Pub. L. 96–513][/us/pl/96/513], § 503(47)(A), substituted provisions that the retired grade of an officer retired under this section is the grade determined under [section 1370 of this title][/us/usc/t10/s1370] for provisions that had set the grade of officers retired under this section at the highest grade, permanent or temporary, in which he had served satisfactorily on active duty as determined by the Secretary of the Navy; or, if the Secretary determined that he had not served satisfactorily in his highest temporary grade, in the next lower grade in which he had served, but not lower than his permanent grade.
 
-    Subsec. (e). [Pub. L. 96–513, § 513(17)][/us/pl/96/513/s513/17], substituted “September 8, 1980” for “the date of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing.
+    Subsec. (e). [Pub. L. 96–513][/us/pl/96/513], § 513(17), substituted “September 8, 1980” for “the date of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing.
 
     [Pub. L. 96–342][/us/pl/96/342] designated existing provisions as par. (1), inserted provision limiting applicability to officers who became members of the uniformed services before the date of the enactment of the Department of Defense Authorization Act, 1981, and added par. (2).
 
@@ -292,31 +292,31 @@ In subsection (d), the second and third provisos of 34 App.:410b, relating to of
 [/us/usc/t10/s6327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6327
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F394
-[/us/pl/85/861/s1/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F142
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1509
-[/us/pl/88/132/s5/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132%2Fs5%2Fh%2F4
+[/us/pl/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132
 [/us/stat/77/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F214
-[/us/pl/96/342/s813/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs813%2Fd%2F2
+[/us/pl/96/342/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtVIII
 [/us/stat/94/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1104
-[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2914
-[/us/pl/99/348/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs203%2Fb%2F2
+[/us/pl/99/348/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtII
 [/us/stat/100/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F696
-[/us/pl/101/510/s523/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs523%2Fb
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1562
-[/us/pl/103/160/s561/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs561%2Fc
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1667
-[/us/pl/105/261/s561/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs561%2Fe
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2025
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3225
-[/us/pl/109/364/s1071/a/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F33
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2400
-[/us/pl/111/383/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs506%2Fb
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4210
-[/us/pl/112/239/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs505%2Fb
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1715
 [/us/usc/t34/s410b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs410b%E2%80%931
 [/us/usc/t34/s410b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs410b
@@ -326,20 +326,20 @@ In subsection (d), the second and third provisos of 34 App.:410b, relating to of
 [/us/usc/t37/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs231
 [/us/stat/66/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F485
 [/us/usc/t50/s933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs933
-[/us/pl/112/239/s1076/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fe%2F6
-[/us/pl/112/239/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs505%2Fb
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/109/163/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs502%2Fb
-[/us/pl/109/163/s515/b/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FH
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
-[/us/pl/96/513/s503/47/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs503%2F47%2FA
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/usc/t10/s1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1370
-[/us/pl/96/513/s513/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F17
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342
 [/us/pl/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861

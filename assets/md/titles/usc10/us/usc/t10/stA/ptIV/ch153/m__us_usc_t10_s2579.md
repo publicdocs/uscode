@@ -39,11 +39,11 @@
 
             (C) A charge may be assessed in connection with each weapon in an amount sufficient to cover the full cost of rendering the weapon unserviceable.
 
-(Added [Pub. L. 103–160, div. A, title XI, § 1171(a)(1)][/us/pl/103/160/s1171/a/1], Nov. 30, 1993, [107 Stat. 1765][/us/stat/107/1765].)
+(Added [Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1171(a)(1), Nov. 30, 1993, [107 Stat. 1765][/us/stat/107/1765].)
 
  __Regulations__ 
 
-[Pub. L. 103–160, div. A, title XI, § 1171(b)][/us/pl/103/160/s1171/b], Nov. 30, 1993, [107 Stat. 1766][/us/stat/107/1766], provided that: 
+[Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1171(b), Nov. 30, 1993, [107 Stat. 1766][/us/stat/107/1766], provided that: 
 
 > “The initial regulations required by [section 2579 of title 10][/us/usc/t10/s2579], United States Code, as added by subsection (a), shall be prescribed not later than 270 days after the date of enactment of this Act \[Nov. 30, 1993\]. Such regulations shall specifically address the following, consistent with [section 2579 of title 10][/us/usc/t10/s2579], United States Code, as added by subsection (a):
 
@@ -68,9 +68,9 @@
 ----------
 ----------
 
-[/us/pl/103/160/s1171/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1171%2Fa%2F1
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1765
-[/us/pl/103/160/s1171/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1171%2Fb
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1766
 [/us/usc/t10/s2579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2579
 [/us/usc/t10/s2579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2579

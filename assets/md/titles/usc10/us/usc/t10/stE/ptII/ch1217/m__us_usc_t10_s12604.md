@@ -23,11 +23,11 @@
 
     The Secretary shall include in the regulations the means for confirming a Reserve’s eligibility for billeting under subsection (a).
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 663(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–168.)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 663(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–168.)
 
  __Effective Date__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 663(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–168, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 663(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–168, provided that: 
 
 > “[Section 12604 of title 10][/us/usc/t10/s12604], United States Code, as added by subsection (a), shall apply with respect to periods of inactive-duty training beginning more than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\].”
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s12604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12604
 

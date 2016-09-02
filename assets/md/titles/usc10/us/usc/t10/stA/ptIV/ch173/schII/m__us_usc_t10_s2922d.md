@@ -35,7 +35,7 @@
 
     In order to facilitate the procurement by the Department of Defense of covered fuel under subsection (b), the Secretary of Defense may carry out a comprehensive assessment of current and potential locations in the United States for the supply of covered fuel to the Department.
 
-(Added [Pub. L. 109–58, title III, § 369(q)(1)][/us/pl/109/58/s369/q/1], Aug. 8, 2005, [119 Stat. 733][/us/stat/119/733], § 2398a; renumbered § 2922d, [Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2)][/us/pl/109/364/s2851/b/2], Oct. 17, 2006, [120 Stat. 2494][/us/stat/120/2494]; [Pub. L. 111–383, div. A, title X, § 1075(b)(48)][/us/pl/111/383/s1075/b/48], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371].)
+(Added [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 369(q)(1), Aug. 8, 2005, [119 Stat. 733][/us/stat/119/733], § 2398a; renumbered § 2922d, [Pub. L. 109–364, div. B, title XXVIII][/us/pl/109/364/dB/tXXVIII], § 2851(b)(2), Oct. 17, 2006, [120 Stat. 2494][/us/stat/120/2494]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(48), Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371].)
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/109/58/s369/q/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs369%2Fq%2F1
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F733
-[/us/pl/109/364/s2851/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2851%2Fb%2F2
+[/us/pl/109/364/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdB%2FtXXVIII
 [/us/stat/120/2494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2494
-[/us/pl/111/383/s1075/b/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F48
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4371
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364

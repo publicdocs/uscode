@@ -65,7 +65,7 @@ R.S. 4619.  </td>
 
 </table>
 
-    The [Act of March 3, 1899, ch. 413, § 13][/us/act/1899-03-03/ch413/s13], [30 Stat. 1007][/us/stat/30/1007], which repealed all laws authorizing the distribution of prize money to captors, rendered inoperative parts of R.S. 4619 relative to protection of captors’ interest. These parts are omitted from [34 U.S.C. 1136][/us/usc/t34/s1136] and from the revised section.
+    The [Act of March 3, 1899, ch. 413][/us/act/1899-03-03/ch413], § 13, [30 Stat. 1007][/us/stat/30/1007], which repealed all laws authorizing the distribution of prize money to captors, rendered inoperative parts of R.S. 4619 relative to protection of captors’ interest. These parts are omitted from [34 U.S.C. 1136][/us/usc/t34/s1136] and from the revised section.
 
 ----------
 
@@ -76,7 +76,7 @@ R.S. 4619.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F475
-[/us/act/1899-03-03/ch413/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch413%2Fs13
+[/us/act/1899-03-03/ch413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch413
 [/us/stat/30/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1007
 [/us/usc/t34/s1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs1136
 

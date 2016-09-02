@@ -79,29 +79,29 @@
 
     The Secretary of each military department, under uniform regulations prescribed by the Secretary of Defense, shall include in guidelines furnished to a promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] that is considering officers in a health-professions competitive category for promotion to a grade below colonel or, in the case of officers of the Navy Reserve, captain, a direction that the board give consideration to an officer’s clinical proficiency and skill as a health professional to at least as great an extent as the board gives to the officer’s administrative and management skills.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2926][/us/stat/108/2926]; amended [Pub. L. 109–163, div. A, title V][/us/pl/109/163], §§ 506(b), 515(b)(1)(QQ), Jan. 6, 2006, [119 Stat. 3227][/us/stat/119/3227], 3234.)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2926][/us/stat/108/2926]; amended [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], §§ 506(b), 515(b)(1)(QQ), Jan. 6, 2006, [119 Stat. 3227][/us/stat/119/3227], 3234.)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in subsec. (b) of this section were contained in [section 5895 of this title][/us/usc/t10/s5895], prior to repeal by [Pub. L. 103–337, § 1629(b)(2)][/us/pl/103/337/s1629/b/2].
+    Provisions similar to those in subsec. (b) of this section were contained in [section 5895 of this title][/us/usc/t10/s5895], prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(b)(2).
 
  __Amendments__ 
 
-    2006—Subsec. (a)(3). [Pub. L. 109–163, § 506(b)(1)(B)][/us/pl/109/163/s506/b/1/B], added par. (3). Former par. (3) redesignated (4).
+    2006—Subsec. (a)(3). [Pub. L. 109–163][/us/pl/109/163], § 506(b)(1)(B), added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (a)(4). [Pub. L. 109–163, § 506(b)(1)(A)][/us/pl/109/163/s506/b/1/A], (2)(A), redesignated par. (3) as (4) and substituted “paragraphs (2) and (3)” for “paragraph (2)”. Former par. (4) redesignated (5).
+    Subsec. (a)(4). [Pub. L. 109–163][/us/pl/109/163], § 506(b)(1)(A), (2)(A), redesignated par. (3) as (4) and substituted “paragraphs (2) and (3)” for “paragraph (2)”. Former par. (4) redesignated (5).
 
-    Subsec. (a)(5). [Pub. L. 109–163, § 506(b)(1)(A)][/us/pl/109/163/s506/b/1/A], (2)(B), redesignated par. (4) as (5) and substituted “, (3), and (4)” for “and (3)”. Former par. (5) redesignated (6).
+    Subsec. (a)(5). [Pub. L. 109–163][/us/pl/109/163], § 506(b)(1)(A), (2)(B), redesignated par. (4) as (5) and substituted “, (3), and (4)” for “and (3)”. Former par. (5) redesignated (6).
 
-    Subsec. (a)(6). [Pub. L. 109–163, § 506(b)(1)(A)][/us/pl/109/163/s506/b/1/A], (2)(C)(i), redesignated par. (5) as (6) and inserted “, or in paragraph (3),” after “paragraph (2)” in introductory provisions. Former par. (6) redesignated (7).
+    Subsec. (a)(6). [Pub. L. 109–163][/us/pl/109/163], § 506(b)(1)(A), (2)(C)(i), redesignated par. (5) as (6) and inserted “, or in paragraph (3),” after “paragraph (2)” in introductory provisions. Former par. (6) redesignated (7).
 
-    Subsec. (a)(6)(B). [Pub. L. 109–163, § 506(b)(2)(C)(ii)][/us/pl/109/163/s506/b/2/C/ii], inserted “or (3), as applicable” after “paragraph (2)”.
+    Subsec. (a)(6)(B). [Pub. L. 109–163][/us/pl/109/163], § 506(b)(2)(C)(ii), inserted “or (3), as applicable” after “paragraph (2)”.
 
-    Subsec. (a)(7). [Pub. L. 109–163, § 506(b)(1)(A)][/us/pl/109/163/s506/b/1/A], redesignated par. (6) as (7).
+    Subsec. (a)(7). [Pub. L. 109–163][/us/pl/109/163], § 506(b)(1)(A), redesignated par. (6) as (7).
 
-    Subsec. (a)(7)(A). [Pub. L. 109–163, § 506(b)(2)(D)][/us/pl/109/163/s506/b/2/D], inserted “or (3)” after “paragraph (2)(B)”.
+    Subsec. (a)(7)(A). [Pub. L. 109–163][/us/pl/109/163], § 506(b)(2)(D), inserted “or (3)” after “paragraph (2)(B)”.
 
-    Subsec. (d). [Pub. L. 109–163, § 515(b)(1)(QQ)][/us/pl/109/163/s515/b/1/QQ], substituted “Navy Reserve” for “Naval Reserve”.
+    Subsec. (d). [Pub. L. 109–163][/us/pl/109/163], § 515(b)(1)(QQ), substituted “Navy Reserve” for “Naval Reserve”.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -121,20 +121,20 @@
 [/us/usc/t10/s14109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14109%2Fa
 [/us/usc/t10/s14110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14110%2Fa
 [/us/usc/t10/s14101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fa
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2926
-[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3227
 [/us/usc/t10/s5895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5895
-[/us/pl/103/337/s1629/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fb%2F2
-[/us/pl/109/163/s506/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fb%2F1%2FB
-[/us/pl/109/163/s506/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fb%2F1%2FA
-[/us/pl/109/163/s506/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fb%2F1%2FA
-[/us/pl/109/163/s506/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fb%2F1%2FA
-[/us/pl/109/163/s506/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fb%2F2%2FC%2Fii
-[/us/pl/109/163/s506/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fb%2F1%2FA
-[/us/pl/109/163/s506/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fb%2F2%2FD
-[/us/pl/109/163/s515/b/1/QQ]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FQQ
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/163/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fb
 [/us/pl/109/163/s506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fc
 [/us/usc/t10/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs615

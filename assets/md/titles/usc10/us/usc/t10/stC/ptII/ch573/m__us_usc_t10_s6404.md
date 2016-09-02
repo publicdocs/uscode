@@ -17,7 +17,7 @@
 
     In determining the total number of years of service to be used as a multiplier in computing retired pay and separation pay on discharge under this chapter, each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 415][/us/stat/70A/415]; [Pub. L. 96–513, title V, § 503(50)][/us/pl/96/513/s503/50], Dec. 12, 1980, [94 Stat. 2915][/us/stat/94/2915]; [Pub. L. 98–94, title IX, § 923(c)(4)][/us/pl/98/94/s923/c/4], Sept. 24, 1983, [97 Stat. 643][/us/stat/97/643].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 415][/us/stat/70A/415]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 503(50), Dec. 12, 1980, [94 Stat. 2915][/us/stat/94/2915]; [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], § 923(c)(4), Sept. 24, 1983, [97 Stat. 643][/us/stat/97/643].)
 
 <table>
 
@@ -200,9 +200,9 @@ June 12, 1948, ch. 449, § 213(a), 62 Stat. 369.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F415
-[/us/pl/96/513/s503/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs503%2F50
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2915
-[/us/pl/98/94/s923/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs923%2Fc%2F4
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F643
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

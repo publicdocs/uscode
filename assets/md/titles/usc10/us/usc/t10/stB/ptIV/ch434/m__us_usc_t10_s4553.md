@@ -67,7 +67,7 @@
 
         (2) A full annual accounting of such expenses for each fiscal year shall be provided to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives not later than March 30 of the following fiscal year.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 344(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–68; amended [Pub. L. 108–178, § 4(b)(5)][/us/pl/108/178/s4/b/5], Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641]; [Pub. L. 109–163, div. A, title III, § 323(d)][/us/pl/109/163/s323/d], Jan. 6, 2006, [119 Stat. 3194][/us/stat/119/3194].)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 344(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–68; amended [Pub. L. 108–178][/us/pl/108/178], § 4(b)(5), Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641]; [Pub. L. 109–163, div. A, title III][/us/pl/109/163/dA/tIII], § 323(d), Jan. 6, 2006, [119 Stat. 3194][/us/stat/119/3194].)
 
  __Amendments__ 
 
@@ -87,11 +87,11 @@
 ----------
 
 [/us/usc/t40/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1302
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/178/s4/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs4%2Fb%2F5
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/stat/117/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2641
-[/us/pl/109/163/s323/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs323%2Fd
+[/us/pl/109/163/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIII
 [/us/stat/119/3194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3194
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178

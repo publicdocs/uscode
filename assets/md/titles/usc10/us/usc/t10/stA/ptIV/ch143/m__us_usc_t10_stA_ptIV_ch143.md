@@ -59,9 +59,9 @@
 
  __Amendments__ 
 
-    1989—[Pub. L. 101–189, div. A, title III][/us/pl/101/189], §§ 323(b), 324(b), Nov. 29, 1989, [103 Stat. 1414][/us/stat/103/1414], 1415, added items 2423 and 2424.
+    1989—[Pub. L. 101–189, div. A, title III][/us/pl/101/189/dA/tIII], §§ 323(b), 324(b), Nov. 29, 1989, [103 Stat. 1414][/us/stat/103/1414], 1415, added items 2423 and 2424.
 
-    1986—[Pub. L. 99–661, div. A, title III, § 312(b)][/us/pl/99/661/s312/b], Nov. 14, 1986, [100 Stat. 3852][/us/stat/100/3852], added item 2422.
+    1986—[Pub. L. 99–661, div. A, title III][/us/pl/99/661/dA/tIII], § 312(b), Nov. 14, 1986, [100 Stat. 3852][/us/stat/100/3852], added item 2422.
 
 ----------
 
@@ -70,9 +70,9 @@
 ----------
 ----------
 
-[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIII
 [/us/stat/103/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1414
-[/us/pl/99/661/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs312%2Fb
+[/us/pl/99/661/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIII
 [/us/stat/100/3852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3852
 
 

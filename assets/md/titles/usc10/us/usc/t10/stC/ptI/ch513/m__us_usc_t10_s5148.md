@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5144.md) | [Next](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5149.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5148)
+[Previous](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5145...5147.md) | [Next](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5149.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5148)
 
 ## § 5148. Judge Advocate General’s Corps: Office of the Judge Advocate General; Judge Advocate General; appointment, term, emoluments, duties
 
@@ -41,7 +41,7 @@
 
         (2) the ability of judge advocates of the Navy assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 289][/us/stat/70A/289]; [Pub. L. 87–649, § 14c(20)][/us/pl/87/649/s14c/20], Sept. 7, 1962, [76 Stat. 501][/us/stat/76/501]; [Pub. L. 90–179, § 2(1)][/us/pl/90/179/s2/1], Dec. 8, 1967, [81 Stat. 546][/us/stat/81/546]; [Pub. L. 96–513, title III, § 343][/us/pl/96/513/s343], Dec. 12, 1980, [94 Stat. 2901][/us/stat/94/2901]; [Pub. L. 103–337, div. A, title V, § 504(b)(1)][/us/pl/103/337/s504/b/1], Oct. 5, 1994, [108 Stat. 2750][/us/stat/108/2750]; [Pub. L. 108–375, div. A, title V, § 574(b)(1)][/us/pl/108/375/s574/b/1], Oct. 28, 2004, [118 Stat. 1922][/us/stat/118/1922]; [Pub. L. 109–163, div. A, title V, § 508(b)][/us/pl/109/163/s508/b], title X, § 1057(a)(2), Jan. 6, 2006, [119 Stat. 3229][/us/stat/119/3229], 3440; [Pub. L. 110–181, div. A, title V, § 543(b)][/us/pl/110/181/s543/b], Jan. 28, 2008, [122 Stat. 115][/us/stat/122/115].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 289][/us/stat/70A/289]; [Pub. L. 87–649][/us/pl/87/649], § 14c(20), Sept. 7, 1962, [76 Stat. 501][/us/stat/76/501]; [Pub. L. 90–179][/us/pl/90/179], § 2(1), Dec. 8, 1967, [81 Stat. 546][/us/stat/81/546]; [Pub. L. 96–513, title III][/us/pl/96/513/tIII], § 343, Dec. 12, 1980, [94 Stat. 2901][/us/stat/94/2901]; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 504(b)(1), Oct. 5, 1994, [108 Stat. 2750][/us/stat/108/2750]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 574(b)(1), Oct. 28, 2004, [118 Stat. 1922][/us/stat/118/1922]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 508(b), title X, § 1057(a)(2), Jan. 6, 2006, [119 Stat. 3229][/us/stat/119/3229], 3440; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 543(b), Jan. 28, 2008, [122 Stat. 115][/us/stat/122/115].)
 
 <table>
 
@@ -145,21 +145,21 @@ June 22, 1938, ch. 567 (as applicable to JAG), 52 Stat. 839.  </td>
 
     2008—Subsec. (b). [Pub. L. 110–181][/us/pl/110/181] substituted “The Judge Advocate General, while so serving, has the grade of vice admiral or lieutenant general, as appropriate.” for “The Judge Advocate General, while so serving, shall hold a grade not lower than rear admiral or major general, as appropriate.”
 
-    2006—Subsec. (b). [Pub. L. 109–163, § 1057(a)(2)][/us/pl/109/163/s1057/a/2], struck out “or Territory” after “highest court of a State”.
+    2006—Subsec. (b). [Pub. L. 109–163][/us/pl/109/163], § 1057(a)(2), struck out “or Territory” after “highest court of a State”.
 
-    [Pub. L. 109–163, § 508(b)][/us/pl/109/163/s508/b], substituted “The Judge Advocate General, while so serving, shall hold a grade not lower than rear admiral or major general, as appropriate.” for “If an officer appointed as the Judge Advocate General holds a lower regular grade, the officer shall be appointed in the regular grade of rear admiral or major general, as appropriate.”
+    [Pub. L. 109–163][/us/pl/109/163], § 508(b), substituted “The Judge Advocate General, while so serving, shall hold a grade not lower than rear admiral or major general, as appropriate.” for “If an officer appointed as the Judge Advocate General holds a lower regular grade, the officer shall be appointed in the regular grade of rear admiral or major general, as appropriate.”
 
     2004—Subsec. (e). [Pub. L. 108–375][/us/pl/108/375] added subsec. (e).
 
-    1994—Subsec. (b). [Pub. L. 103–337, § 504(b)(1)(A)][/us/pl/103/337/s504/b/1/A], added last sentence and struck out former last sentence which read as follows: “While so serving, the Judge Advocate General of the Navy shall be entitled to the rank and grade of rear admiral or major general, as appropriate, unless entitled to a higher rank and grade under another provision of law.”
+    1994—Subsec. (b). [Pub. L. 103–337][/us/pl/103/337], § 504(b)(1)(A), added last sentence and struck out former last sentence which read as follows: “While so serving, the Judge Advocate General of the Navy shall be entitled to the rank and grade of rear admiral or major general, as appropriate, unless entitled to a higher rank and grade under another provision of law.”
 
-    Subsec. (c). [Pub. L. 103–337, § 504(b)(1)(B)][/us/pl/103/337/s504/b/1/B], added subsec. (c) and struck out former subsec. (c) which read as follows: “The Judge Advocate General of the Navy is entitled to the same rank and privileges of retirement as provided for chiefs of bureaus in [section 5133 of this title][/us/usc/t10/s5133].”
+    Subsec. (c). [Pub. L. 103–337][/us/pl/103/337], § 504(b)(1)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Judge Advocate General of the Navy is entitled to the same rank and privileges of retirement as provided for chiefs of bureaus in [section 5133 of this title][/us/usc/t10/s5133].”
 
     1980—Subsec. (b). [Pub. L. 96–513][/us/pl/96/513] inserted provision entitling Judge Advocate General of Navy to rank and grade of rear admiral or major general, as appropriate.
 
-    1967—[Pub. L. 90–179, § 2(1)(A)][/us/pl/90/179/s2/1/A], inserted reference to Judge Advocate General’s Corps in section catchline.
+    1967—[Pub. L. 90–179][/us/pl/90/179], § 2(1)(A), inserted reference to Judge Advocate General’s Corps in section catchline.
 
-    Subsecs. (a) to (d). [Pub. L. 90–179, § 2(1)(B)][/us/pl/90/179/s2/1/B], (C), added subsec. (a), redesignated existing subsecs. (a) to (c) as (b) to (d), respectively, and in subsec. (b) as so redesignated substituted “judge advocates” for “officers”.
+    Subsecs. (a) to (d). [Pub. L. 90–179][/us/pl/90/179], § 2(1)(B), (C), added subsec. (a), redesignated existing subsecs. (a) to (c) as (b) to (d), respectively, and in subsec. (b) as so redesignated substituted “judge advocates” for “officers”.
 
     1962—Subsec. (b). [Pub. L. 87–649][/us/pl/87/649] struck out “, pay, allowances,” after “same rank”. See Title 37, Pay and Allowances of the Uniformed Services.
 
@@ -173,7 +173,7 @@ June 22, 1938, ch. 567 (as applicable to JAG), 52 Stat. 839.  </td>
 
  __Redesignation of Navy Law Specialists as Judge Advocates__ 
 
-[Pub. L. 90–179, § 8][/us/pl/90/179/s8], Dec. 8, 1967, [81 Stat. 549][/us/stat/81/549], provided that:
+[Pub. L. 90–179][/us/pl/90/179], § 8, Dec. 8, 1967, [81 Stat. 549][/us/stat/81/549], provided that:
 
 >     “(a) In this section ‘law specialist’ means a line officer on the active or retired list of the Regular Navy or of the Naval Reserve designated for special duty (law) or a line officer of the Naval Reserve \[now Navy Reserve\] assigned a numerical designator indicating a special duty officer (law).
 
@@ -181,50 +181,50 @@ June 22, 1938, ch. 567 (as applicable to JAG), 52 Stat. 839.  </td>
 
  __Savings Provision__ 
 
-[Pub. L. 90–179, § 10][/us/pl/90/179/s10], Dec. 8, 1967, [81 Stat. 549][/us/stat/81/549], provided that: 
+[Pub. L. 90–179][/us/pl/90/179], § 10, Dec. 8, 1967, [81 Stat. 549][/us/stat/81/549], provided that: 
 
 > “This Act \[enacting sections 5578a and 5587a of this title, amending this section, sections 801, 806, 815, 827, 865, 936, 5149, 5404, 5508, 5581, 5587, 5600, 5652a, 5702, 5708, 5753, 5762, 5896, 5897 and 6378 of this title, and [section 202 of Title 37][/us/usc/t37/s202], and enacting provisions set out as notes under this section and [section 5149 of this title][/us/usc/t10/s5149]\] does not affect rights accrued, duties matured, or proceedings commenced before its effective date. Redesignation of an officer under section 8(b) of this Act \[set out as a note under this section\] shall not operate to change the computation of his service for any purpose.”
 
  __Women Officers in Judge Advocate General’s Corps of Navy__ 
 
-    [Pub. L. 90–179, § 11][/us/pl/90/179/s11], Dec. 8, 1967, [81 Stat. 549][/us/stat/81/549], provided that all provisions of law applicable to male officers in the Navy Judge Advocate General’s Corps, including Naval Reserve, were applicable to women Corps officers, prior to repeal by [Pub. L. 97–295, § 6(b)][/us/pl/97/295/s6/b], Oct. 12, 1982, [96 Stat. 1314][/us/stat/96/1314].
+    [Pub. L. 90–179][/us/pl/90/179], § 11, Dec. 8, 1967, [81 Stat. 549][/us/stat/81/549], provided that all provisions of law applicable to male officers in the Navy Judge Advocate General’s Corps, including Naval Reserve, were applicable to women Corps officers, prior to repeal by [Pub. L. 97–295][/us/pl/97/295], § 6(b), Oct. 12, 1982, [96 Stat. 1314][/us/stat/96/1314].
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5144.md) | [Next](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5149.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5148)
+[Previous](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5145...5147.md) | [Next](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5149.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5148)
 
 ----------
 ----------
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F289
-[/us/pl/87/649/s14c/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs14c%2F20
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F501
-[/us/pl/90/179/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179%2Fs2%2F1
+[/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
 [/us/stat/81/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F546
-[/us/pl/96/513/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs343
+[/us/pl/96/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIII
 [/us/stat/94/2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2901
-[/us/pl/103/337/s504/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs504%2Fb%2F1
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2750
-[/us/pl/108/375/s574/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs574%2Fb%2F1
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1922
-[/us/pl/109/163/s508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs508%2Fb
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3229
-[/us/pl/110/181/s543/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs543%2Fb
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F115
 [/us/usc/t5/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs441
 [/us/usc/t5/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs441
 [/us/usc/t5/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs428
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/109/163/s1057/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F2
-[/us/pl/109/163/s508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs508%2Fb
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/103/337/s504/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs504%2Fb%2F1%2FA
-[/us/pl/103/337/s504/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs504%2Fb%2F1%2FB
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s5133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5133
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
-[/us/pl/90/179/s2/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179%2Fs2%2F1%2FA
-[/us/pl/90/179/s2/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179%2Fs2%2F1%2FB
+[/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
+[/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
@@ -233,15 +233,15 @@ June 22, 1938, ch. 567 (as applicable to JAG), 52 Stat. 839.  </td>
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/pl/87/649/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs15
 [/us/usc/t37/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs101
-[/us/pl/90/179/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179%2Fs8
+[/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
 [/us/stat/81/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F549
-[/us/pl/90/179/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179%2Fs10
+[/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
 [/us/stat/81/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F549
 [/us/usc/t37/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs202
 [/us/usc/t10/s5149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5149
-[/us/pl/90/179/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179%2Fs11
+[/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
 [/us/stat/81/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F549
-[/us/pl/97/295/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs6%2Fb
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1314
 
 

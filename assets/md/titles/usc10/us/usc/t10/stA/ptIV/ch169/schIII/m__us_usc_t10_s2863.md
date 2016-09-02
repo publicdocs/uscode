@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Secretary concerned may pay meritorious contractor claims that arise under military construction contracts or family housing contracts. The Secretary of Defense, with respect to a Defense Agency, or the Secretary of a military department may use for such purpose any unobligated funds appropriated to such department and available for military construction or family housing construction, as the case may be.
 
-(Added [Pub. L. 100–180, div. B][/us/pl/100/180], subdiv. 3, title I, § 2303(a), Dec. 4, 1987, [101 Stat. 1215][/us/stat/101/1215].)
+(Added [Pub. L. 100–180, div. B][/us/pl/100/180/dB], subdiv. 3, title I, § 2303(a), Dec. 4, 1987, [101 Stat. 1215][/us/stat/101/1215].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdB
 [/us/stat/101/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1215
 
 

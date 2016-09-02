@@ -53,7 +53,7 @@
 
         (5) To disseminate through the National Technical Information Service of the Department of Commerce unclassified information and assessments regarding defense critical technologies having potential commercial uses so that such information and assessments may be further disseminated within the Federal Government and to the private sector.
 
-(Added [Pub. L. 102–190, div. A, title VIII, § 821(a)][/us/pl/102/190/s821/a], Dec. 5, 1991, [105 Stat. 1430][/us/stat/105/1430], § 2525; renumbered § 2517 and amended [Pub. L. 102–484, div. D, title XLII, § 4227][/us/pl/102/484/s4227], Oct. 23, 1992, [106 Stat. 2685][/us/stat/106/2685]; [Pub. L. 111–383, div. A, title IX, § 901(j)(4)][/us/pl/111/383/s901/j/4], Jan. 7, 2011, [124 Stat. 4324][/us/stat/124/4324].)
+(Added [Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], § 821(a), Dec. 5, 1991, [105 Stat. 1430][/us/stat/105/1430], § 2525; renumbered § 2517 and amended [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4227, Oct. 23, 1992, [106 Stat. 2685][/us/stat/106/2685]; [Pub. L. 111–383, div. A, title IX][/us/pl/111/383/dA/tIX], § 901(j)(4), Jan. 7, 2011, [124 Stat. 4324][/us/stat/124/4324].)
 
  __Prior Provisions__ 
 
@@ -76,11 +76,11 @@
 ----------
 ----------
 
-[/us/pl/102/190/s821/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs821%2Fa
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1430
-[/us/pl/102/484/s4227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4227
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2685
-[/us/pl/111/383/s901/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fj%2F4
+[/us/pl/111/383/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIX
 [/us/stat/124/4324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4324
 [/us/usc/t10/s2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2523
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

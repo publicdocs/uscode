@@ -17,7 +17,7 @@
 
     The Secretary, on terms prescribed by him, may re-lease lands in the naval petroleum reserves that were covered by leases made before July 1, 1936, and terminated by law at the expiration of their initial twenty-year periods. If any such land is to be re-leased, the Secretary shall give to the former lessee preferential rights to the new lease.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 460][/us/stat/70A/460]; [Pub. L. 94–258, title II, § 201(10)][/us/pl/94/258/s201/10], Apr. 5, 1976, [90 Stat. 309][/us/stat/90/309].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 460][/us/stat/70A/460]; [Pub. L. 94–258, title II][/us/pl/94/258/tII], § 201(10), Apr. 5, 1976, [90 Stat. 309][/us/stat/90/309].)
 
 <table>
 
@@ -78,7 +78,7 @@ June 4, 1920, ch. 228 (6th par., less proviso, of amended 3d and 4th provisos), 
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F460
-[/us/pl/94/258/s201/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2Fs201%2F10
+[/us/pl/94/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2FtII
 [/us/stat/90/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F309
 [/us/pl/94/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258
 

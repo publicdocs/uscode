@@ -17,7 +17,7 @@
 
     As provided in [section 701 of title 14][/us/usc/t14/s701], the Coast Guard Reserve is a component of the Coast Guard and is organized, administered, trained, and supplied under the direction of the Commandant of the Coast Guard. Laws applicable to the Coast Guard Reserve are set forth in chapter 21 of title 14 ([14 U.S.C. 701][/us/usc/t14/s701] et seq.).
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)][/us/pl/103/337/s1661/a/1], Oct. 5, 1994, [108 Stat. 2971][/us/stat/108/2971].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1661(a)(1), Oct. 5, 1994, [108 Stat. 2971][/us/stat/108/2971].)
 
  __Transfer of Functions__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t14/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs701
 [/us/usc/t14/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs701
-[/us/pl/103/337/s1661/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2971
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

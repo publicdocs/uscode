@@ -71,7 +71,7 @@
 
     In this section, the term “defense budget materials” has the meaning given that term in [section 231(f)(2) of this title][/us/usc/t10/s231/f/2].
 
-(Added [Pub. L. 112–81, div. A, title V, § 516(a)(1)][/us/pl/112/81/s516/a/1], Dec. 31, 2011, [125 Stat. 1395][/us/stat/125/1395]; amended [Pub. L. 112–239, div. A, title X, § 1014(b)][/us/pl/112/239/s1014/b], Jan. 2, 2013, [126 Stat. 1908][/us/stat/126/1908].)
+(Added [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 516(a)(1), Dec. 31, 2011, [125 Stat. 1395][/us/stat/125/1395]; amended [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1014(b), Jan. 2, 2013, [126 Stat. 1908][/us/stat/126/1908].)
 
  __References in Text__ 
 
@@ -91,9 +91,9 @@
 [/us/usc/t10/s10143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10143%2Fa
 [/us/usc/t50/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1541
 [/us/usc/t10/s231/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs231%2Ff%2F2
-[/us/pl/112/81/s516/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs516%2Fa%2F1
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1395
-[/us/pl/112/239/s1014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1014%2Fb
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1908
 [/us/pl/93/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148
 [/us/stat/87/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F555

@@ -11,40 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch339/m__us_usc_t10_s3446.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch341/m__us_usc_t10_stB_ptII_ch341.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3450)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch339/m__us_usc_t10_s3447...3449.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch339/m__us_usc_t10_s3451 _us_usc_t10_s3452.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3450)
 
-## \[§ 3450. Repealed. [Pub. L. 90–235, § 3(b)(1)][/us/pl/90/235/s3/b/1], Jan. 2, 1968, [81 Stat. 758][/us/stat/81/758]\]
+## \[§ 3450. Repealed. [Pub. L. 90–235][/us/pl/90/235], § 3(b)(1), Jan. 2, 1968, [81 Stat. 758][/us/stat/81/758]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 197][/us/stat/70A/197], provided for suspension of laws for promotion or mandatory retirement or separation during war or emergency of temporary warrant officers of the Army.
 
-\[§§ 3451, 3452. __Repealed.__  __[__  __Pub. L. 96–513, title II, § 207__  __][/us/pl/96/513/s207]__  __,__  __Dec. 12, 1980__  __,__  __[__  __94 Stat. 2884__  __][/us/stat/94/2884]__  __\]__ 
-
-    Section 3451, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 197][/us/stat/70A/197], provided that an officer who is promoted to a temporary grade is considered to have accepted his promotion on the date of the order announcing it, unless he expressly declines the promotion.
-
-    Section 3452, added [Pub. L. 85–861, § 1(81)(E)][/us/pl/85/861/s1/81/E], Sept. 2, 1958, [72 Stat. 1480][/us/stat/72/1480], provided that, notwithstanding any other provision of law, an officer of Medical Corps or Dental Corps may be promoted to temporary grade of captain at any time after first anniversary of date upon which he graduated from a medical, osteopathic, or dental school.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Sept. 15, 1981, see [section 701 of Pub. L. 96–513][/us/pl/96/513/s701], set out as an Effective Date of 1980 Amendment note under [section 101 of this title][/us/usc/t10/s101].
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch339/m__us_usc_t10_s3446.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch341/m__us_usc_t10_stB_ptII_ch341.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3450)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch339/m__us_usc_t10_s3447...3449.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch339/m__us_usc_t10_s3451 _us_usc_t10_s3452.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3450)
 
 ----------
 ----------
 
-[/us/pl/90/235/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs3%2Fb%2F1
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F758
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F197
-[/us/pl/96/513/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs207
-[/us/stat/94/2884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2884
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F197
-[/us/pl/85/861/s1/81/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F81%2FE
-[/us/stat/72/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1480
-[/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
-[/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 
 

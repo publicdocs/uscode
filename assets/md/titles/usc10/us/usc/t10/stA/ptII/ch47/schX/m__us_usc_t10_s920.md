@@ -131,7 +131,7 @@
 
             (C) Lack of consent may be inferred based on the circumstances of the offense. All the surrounding circumstances are to be considered in determining whether a person gave consent, or whether a person did not resist or ceased to resist only because of another person’s actions.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 73][/us/stat/70A/73]; [Pub. L. 102–484, div. A, title X, § 1066(c)][/us/pl/102/484/s1066/c], Oct. 23, 1992, [106 Stat. 2506][/us/stat/106/2506]; [Pub. L. 104–106, div. A, title XI, § 1113][/us/pl/104/106/s1113], Feb. 10, 1996, [110 Stat. 462][/us/stat/110/462]; [Pub. L. 109–163, div. A, title V, § 552(a)(1)][/us/pl/109/163/s552/a/1], Jan. 6, 2006, [119 Stat. 3256][/us/stat/119/3256]; [Pub. L. 112–81, div. A, title V, § 541(a)][/us/pl/112/81/s541/a], Dec. 31, 2011, [125 Stat. 1404][/us/stat/125/1404]; [Pub. L. 112–239, div. A, title X, § 1076(f)(9)][/us/pl/112/239/s1076/f/9], Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 73][/us/stat/70A/73]; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1066(c), Oct. 23, 1992, [106 Stat. 2506][/us/stat/106/2506]; [Pub. L. 104–106, div. A, title XI][/us/pl/104/106/dA/tXI], § 1113, Feb. 10, 1996, [110 Stat. 462][/us/stat/110/462]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 552(a)(1), Jan. 6, 2006, [119 Stat. 3256][/us/stat/119/3256]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 541(a), Dec. 31, 2011, [125 Stat. 1404][/us/stat/125/1404]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(f)(9), Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952].)
 
 <table>
 
@@ -191,75 +191,75 @@ May 5, 1950, ch. 169, § 1 (Art. 120), 64 Stat. 140.  </td>
 
     2013—Subsec. (g)(7). [Pub. L. 112–239][/us/pl/112/239] struck out second period at end.
 
-    2011—[Pub. L. 112–81, § 541(a)(11)][/us/pl/112/81/s541/a/11], substituted “Art. 120. Rape and sexual assault generally” for “Art. 120. Rape, sexual assault, and other sexual misconduct” in section catchline.
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 541(a)(11), substituted “Art. 120. Rape and sexual assault generally” for “Art. 120. Rape, sexual assault, and other sexual misconduct” in section catchline.
 
-    Subsec. (a). [Pub. L. 112–81, § 541(a)(1)][/us/pl/112/81/s541/a/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) related to rape.
+    Subsec. (a). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to rape.
 
-    Subsec. (b). [Pub. L. 112–81, § 541(a)(3)][/us/pl/112/81/s541/a/3], redesignated subsec. (c) as (b) and amended it generally. [Pub. L. 112–81, § 541(a)(2)][/us/pl/112/81/s541/a/2], struck out subsec. (b) which related to rape of a child.
+    Subsec. (b). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(3), redesignated subsec. (c) as (b) and amended it generally. [Pub. L. 112–81][/us/pl/112/81], § 541(a)(2), struck out subsec. (b) which related to rape of a child.
 
-    Subsec. (c). [Pub. L. 112–81, § 541(a)(4)][/us/pl/112/81/s541/a/4], redesignated subsec. (e) as (c) and substituted “commits” for “engages in” and “upon” for “with”. Former subsec. (c) redesignated (b).
+    Subsec. (c). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(4), redesignated subsec. (e) as (c) and substituted “commits” for “engages in” and “upon” for “with”. Former subsec. (c) redesignated (b).
 
-    Subsec. (d). [Pub. L. 112–81, § 541(a)(5)][/us/pl/112/81/s541/a/5], redesignated subsec. (h) as (d) and substituted “commits” for “engages in”, “upon” for “with”, and “subsection (b) (sexual assault)” for “subsection (c) (aggravated sexual assault)”.
+    Subsec. (d). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(5), redesignated subsec. (h) as (d) and substituted “commits” for “engages in”, “upon” for “with”, and “subsection (b) (sexual assault)” for “subsection (c) (aggravated sexual assault)”.
 
-    [Pub. L. 112–81, § 541(a)(2)][/us/pl/112/81/s541/a/2], struck out subsec. (d) which related to aggravated sexual assault of a child.
+    [Pub. L. 112–81][/us/pl/112/81], § 541(a)(2), struck out subsec. (d) which related to aggravated sexual assault of a child.
 
-    Subsec. (e). [Pub. L. 112–81, § 541(a)(7)][/us/pl/112/81/s541/a/7], redesignated subsec. (p) as (e) and substituted “a person made” for “the accused made” and “the person actually” for “the accused actually” and inserted “or had the ability to carry out the threat” before period at end. Former subsec. (e) redesignated (c).
+    Subsec. (e). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(7), redesignated subsec. (p) as (e) and substituted “a person made” for “the accused made” and “the person actually” for “the accused actually” and inserted “or had the ability to carry out the threat” before period at end. Former subsec. (e) redesignated (c).
 
-    Subsec. (f). [Pub. L. 112–81, § 541(a)(8)][/us/pl/112/81/s541/a/8], redesignated subsec. (q) as (f) and amended it generally.
+    Subsec. (f). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(8), redesignated subsec. (q) as (f) and amended it generally.
 
-    [Pub. L. 112–81, § 541(a)(2)][/us/pl/112/81/s541/a/2], struck out subsec. (f) which related to aggravated sexual abuse of a child.
+    [Pub. L. 112–81][/us/pl/112/81], § 541(a)(2), struck out subsec. (f) which related to aggravated sexual abuse of a child.
 
-    Subsec. (g). [Pub. L. 112–81, § 541(a)(2)][/us/pl/112/81/s541/a/2], (10), redesignated subsec. (t) as (g) and struck out former subsec. (g) which related to aggravated sexual contact with a child.
+    Subsec. (g). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(2), (10), redesignated subsec. (t) as (g) and struck out former subsec. (g) which related to aggravated sexual contact with a child.
 
-    Subsec. (g)(1)(A). [Pub. L. 112–81, § 541(a)(10)(A)(i)][/us/pl/112/81/s541/a/10/A/i], inserted “or anus or mouth” after “vulva”.
+    Subsec. (g)(1)(A). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(10)(A)(i), inserted “or anus or mouth” after “vulva”.
 
-    Subsec. (g)(1)(B). [Pub. L. 112–81, § 541(a)(10)(A)(ii)][/us/pl/112/81/s541/a/10/A/ii], substituted “vulva or anus or mouth,” for “genital opening” and “any part of the body” for “a hand or finger”.
+    Subsec. (g)(1)(B). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(10)(A)(ii), substituted “vulva or anus or mouth,” for “genital opening” and “any part of the body” for “a hand or finger”.
 
-    Subsec. (g)(2). [Pub. L. 112–81, § 541(a)(10)(B)][/us/pl/112/81/s541/a/10/B], amended par. (2) generally. Prior to amendment, par. (2) defined “sexual contact”.
+    Subsec. (g)(2). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(10)(B), amended par. (2) generally. Prior to amendment, par. (2) defined “sexual contact”.
 
-    Subsec. (g)(3). [Pub. L. 112–81, § 541(a)(10)(D)][/us/pl/112/81/s541/a/10/D], redesignated par. (8) as (3) and inserted “, including any nonconsensual sexual act or nonconsensual sexual contact” before period at end. Former par. (3) redesignated (4).
+    Subsec. (g)(3). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(10)(D), redesignated par. (8) as (3) and inserted “, including any nonconsensual sexual act or nonconsensual sexual contact” before period at end. Former par. (3) redesignated (4).
 
-    Subsec. (g)(4). [Pub. L. 112–81, § 541(a)(10)(E)][/us/pl/112/81/s541/a/10/E], struck out at end “It does not include minor injuries such as a black eye or a bloody nose. It is the same level of injury as in section 928 (article 128) of this chapter, and a lesser degree of injury than in [section 2246(4) of title 18][/us/usc/t18/s2246/4].”
+    Subsec. (g)(4). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(10)(E), struck out at end “It does not include minor injuries such as a black eye or a bloody nose. It is the same level of injury as in section 928 (article 128) of this chapter, and a lesser degree of injury than in [section 2246(4) of title 18][/us/usc/t18/s2246/4].”
 
-    [Pub. L. 112–81, § 541(a)(10)(C)][/us/pl/112/81/s541/a/10/C], redesignated par. (3) as (4) and struck out former par. (4) which defined “dangerous weapon or object”.
+    [Pub. L. 112–81][/us/pl/112/81], § 541(a)(10)(C), redesignated par. (3) as (4) and struck out former par. (4) which defined “dangerous weapon or object”.
 
-    Subsec. (g)(5). [Pub. L. 112–81, § 541(a)(10)(F)][/us/pl/112/81/s541/a/10/F], (H), added par. (5) and struck out former par. (5) which defined “force”.
+    Subsec. (g)(5). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(10)(F), (H), added par. (5) and struck out former par. (5) which defined “force”.
 
-    Subsec. (g)(6). [Pub. L. 112–81, § 541(a)(10)(H)][/us/pl/112/81/s541/a/10/H], added par. (6). Former par. (6) redesignated (7).
+    Subsec. (g)(6). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(10)(H), added par. (6). Former par. (6) redesignated (7).
 
-    Subsec. (g)(7). [Pub. L. 112–81, § 541(a)(10)(G)][/us/pl/112/81/s541/a/10/G], (I), redesignated par. (6) as (7), struck out “under paragraph (3) of subsection (a) (rape), or under subsection (e) (aggravated sexual contact),” after “person in fear’ ”, and substituted “the wrongful action contemplated by the communication or action.” for “death, grievous bodily harm, or kidnapping”.
+    Subsec. (g)(7). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(10)(G), (I), redesignated par. (6) as (7), struck out “under paragraph (3) of subsection (a) (rape), or under subsection (e) (aggravated sexual contact),” after “person in fear’ ”, and substituted “the wrongful action contemplated by the communication or action.” for “death, grievous bodily harm, or kidnapping”.
 
-    [Pub. L. 112–81, § 541(a)(10)(F)][/us/pl/112/81/s541/a/10/F], struck out par. (7) which defined “threatening or placing that other person in fear”.
+    [Pub. L. 112–81][/us/pl/112/81], § 541(a)(10)(F), struck out par. (7) which defined “threatening or placing that other person in fear”.
 
-    Subsec. (g)(8). [Pub. L. 112–81, § 541(a)(10)(K)][/us/pl/112/81/s541/a/10/K], redesignated par. (14) as (8), designated introductory provisions as subpar. (A), in first sentence, struck out “words or overt acts indicating” before “a freely given” and “sexual” before “conduct”, in third sentence, struck out “accused’s” before “use of force”, in fourth sentence, inserted “or social or sexual” before “relationship” and struck out “sexual” before “conduct” and last sentence, including subpars. (A) and (B), which related to a person who cannot consent to sexual activity, and added subpars. (B) and (C). Former par. (8) redesignated (3).
+    Subsec. (g)(8). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(10)(K), redesignated par. (14) as (8), designated introductory provisions as subpar. (A), in first sentence, struck out “words or overt acts indicating” before “a freely given” and “sexual” before “conduct”, in third sentence, struck out “accused’s” before “use of force”, in fourth sentence, inserted “or social or sexual” before “relationship” and struck out “sexual” before “conduct” and last sentence, including subpars. (A) and (B), which related to a person who cannot consent to sexual activity, and added subpars. (B) and (C). Former par. (8) redesignated (3).
 
-    Subsec. (g)(9) to (13). [Pub. L. 112–81, § 541(a)(10)(J)][/us/pl/112/81/s541/a/10/J], struck out pars. (9) to (13) which defined “child”, “lewd act”, “indecent liberty”, “indecent conduct”, and “act of prostitution”, respectively.
+    Subsec. (g)(9) to (13). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(10)(J), struck out pars. (9) to (13) which defined “child”, “lewd act”, “indecent liberty”, “indecent conduct”, and “act of prostitution”, respectively.
 
-    Subsec. (g)(14). [Pub. L. 112–81, § 541(a)(10)(K)][/us/pl/112/81/s541/a/10/K], redesignated par. (14) as (8).
+    Subsec. (g)(14). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(10)(K), redesignated par. (14) as (8).
 
-    Subsec. (g)(15), (16). [Pub. L. 112–81, § 541(a)(10)(L)][/us/pl/112/81/s541/a/10/L], struck out pars. (15) and (16) which defined “mistake of fact as to consent” and “affirmative defense”, respectively.
+    Subsec. (g)(15), (16). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(10)(L), struck out pars. (15) and (16) which defined “mistake of fact as to consent” and “affirmative defense”, respectively.
 
-    Subsec. (h). [Pub. L. 112–81, § 541(a)(5)][/us/pl/112/81/s541/a/5], redesignated subsec. (h) as (d).
+    Subsec. (h). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(5), redesignated subsec. (h) as (d).
 
-    Subsecs. (i), (j). [Pub. L. 112–81, § 541(a)(2)][/us/pl/112/81/s541/a/2], struck out subsecs. (i) and (j) which related to abusive sexual contact with a child and indecent liberty with a child, respectively.
+    Subsecs. (i), (j). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(2), struck out subsecs. (i) and (j) which related to abusive sexual contact with a child and indecent liberty with a child, respectively.
 
-    Subsecs. (k) to (n). [Pub. L. 112–81, § 541(a)(6)][/us/pl/112/81/s541/a/6], struck out subsecs. (k) to (n) which related to indecent act, forcible pandering, wrongful sexual contact, and indecent exposure, respectively.
+    Subsecs. (k) to (n). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(6), struck out subsecs. (k) to (n) which related to indecent act, forcible pandering, wrongful sexual contact, and indecent exposure, respectively.
 
-    Subsec. (o). [Pub. L. 112–81, § 541(a)(2)][/us/pl/112/81/s541/a/2], struck out subsec. (o) which related to age of child.
+    Subsec. (o). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(2), struck out subsec. (o) which related to age of child.
 
-    Subsec. (p). [Pub. L. 112–81, § 541(a)(7)][/us/pl/112/81/s541/a/7], redesignated subsec. (p) as (e).
+    Subsec. (p). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(7), redesignated subsec. (p) as (e).
 
-    Subsec. (q). [Pub. L. 112–81, § 541(a)(8)][/us/pl/112/81/s541/a/8], redesignated subsec. (q) as (f).
+    Subsec. (q). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(8), redesignated subsec. (q) as (f).
 
-    Subsecs. (r), (s). [Pub. L. 112–81, § 541(a)(9)][/us/pl/112/81/s541/a/9], struck out subsecs. (r) and (s) which related to consent and mistake of fact as to consent and other affirmative defenses not precluded, respectively.
+    Subsecs. (r), (s). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(9), struck out subsecs. (r) and (s) which related to consent and mistake of fact as to consent and other affirmative defenses not precluded, respectively.
 
-    Subsec. (t). [Pub. L. 112–81, § 541(a)(10)][/us/pl/112/81/s541/a/10], redesignated subsec. (t) as (g).
+    Subsec. (t). [Pub. L. 112–81][/us/pl/112/81], § 541(a)(10), redesignated subsec. (t) as (g).
 
     2006—[Pub. L. 109–163][/us/pl/109/163] amended section generally, substituting subsecs. (a) to (t) relating to rape, sexual assault, and other sexual misconduct for subsecs. (a) to (d) relating to rape and carnal knowledge.
 
-    1996—Subsec. (b). [Pub. L. 104–106, § 1113(a)][/us/pl/104/106/s1113/a], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any person subject to this chapter who, under circumstances not amounting to rape, commits an act of sexual intercourse with a female not his wife who has not attained the age of sixteen years, is guilty of carnal knowledge and shall be punished as a court-martial may direct.”
+    1996—Subsec. (b). [Pub. L. 104–106][/us/pl/104/106], § 1113(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any person subject to this chapter who, under circumstances not amounting to rape, commits an act of sexual intercourse with a female not his wife who has not attained the age of sixteen years, is guilty of carnal knowledge and shall be punished as a court-martial may direct.”
 
-    Subsec. (d). [Pub. L. 104–106, § 1113(b)][/us/pl/104/106/s1113/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–106][/us/pl/104/106], § 1113(b), added subsec. (d).
 
     1992—Subsec. (a). [Pub. L. 102–484][/us/pl/102/484] struck out “with a female not his wife” after “intercourse” and “her” after “without”.
 
@@ -269,7 +269,7 @@ May 5, 1950, ch. 169, § 1 (Art. 120), 64 Stat. 140.  </td>
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–163, div. A, title V, § 552(c)][/us/pl/109/163/s552/c], Jan. 6, 2006, [119 Stat. 3263][/us/stat/119/3263], provided that: 
+[Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 552(c), Jan. 6, 2006, [119 Stat. 3263][/us/stat/119/3263], provided that: 
 
 > “[Section 920 of title 10][/us/usc/t10/s920], United States Code (article 120 of the Uniform Code of Military Justice), as amended by subsection (a), shall apply with respect to offenses committed on or after the effective date specified in subsection (f) \[see note below\].”
 
@@ -281,7 +281,7 @@ May 5, 1950, ch. 169, § 1 (Art. 120), 64 Stat. 140.  </td>
 
  __Interim Maximum Punishments__ 
 
-[Pub. L. 109–163, div. A, title V, § 552(b)][/us/pl/109/163/s552/b], Jan. 6, 2006, [119 Stat. 3263][/us/stat/119/3263], provided that: 
+[Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 552(b), Jan. 6, 2006, [119 Stat. 3263][/us/stat/119/3263], provided that: 
 
 > “Until the President otherwise provides pursuant to [section 856 of title 10][/us/usc/t10/s856], United States Code (article 56 of the Uniform Code of Military Justice), the punishment which a court-martial may direct for an offense under section 920 of such title (article 120 of the Uniform Code of Military Justice), as amended by subsection (a), may not exceed the following limits:
 
@@ -324,59 +324,59 @@ May 5, 1950, ch. 169, § 1 (Art. 120), 64 Stat. 140.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F73
-[/us/pl/102/484/s1066/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1066%2Fc
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2506
-[/us/pl/104/106/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1113
+[/us/pl/104/106/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXI
 [/us/stat/110/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F462
-[/us/pl/109/163/s552/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs552%2Fa%2F1
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3256
-[/us/pl/112/81/s541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1404
-[/us/pl/112/239/s1076/f/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F9
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1952
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/112/81/s541/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F11
-[/us/pl/112/81/s541/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F1
-[/us/pl/112/81/s541/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F3
-[/us/pl/112/81/s541/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F2
-[/us/pl/112/81/s541/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F4
-[/us/pl/112/81/s541/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F5
-[/us/pl/112/81/s541/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F2
-[/us/pl/112/81/s541/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F7
-[/us/pl/112/81/s541/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F8
-[/us/pl/112/81/s541/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F2
-[/us/pl/112/81/s541/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F2
-[/us/pl/112/81/s541/a/10/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F10%2FA%2Fi
-[/us/pl/112/81/s541/a/10/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F10%2FA%2Fii
-[/us/pl/112/81/s541/a/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F10%2FB
-[/us/pl/112/81/s541/a/10/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F10%2FD
-[/us/pl/112/81/s541/a/10/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F10%2FE
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t18/s2246/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2246%2F4
-[/us/pl/112/81/s541/a/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F10%2FC
-[/us/pl/112/81/s541/a/10/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F10%2FF
-[/us/pl/112/81/s541/a/10/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F10%2FH
-[/us/pl/112/81/s541/a/10/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F10%2FG
-[/us/pl/112/81/s541/a/10/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F10%2FF
-[/us/pl/112/81/s541/a/10/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F10%2FK
-[/us/pl/112/81/s541/a/10/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F10%2FJ
-[/us/pl/112/81/s541/a/10/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F10%2FK
-[/us/pl/112/81/s541/a/10/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F10%2FL
-[/us/pl/112/81/s541/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F5
-[/us/pl/112/81/s541/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F2
-[/us/pl/112/81/s541/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F6
-[/us/pl/112/81/s541/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F2
-[/us/pl/112/81/s541/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F7
-[/us/pl/112/81/s541/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F8
-[/us/pl/112/81/s541/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F9
-[/us/pl/112/81/s541/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fa%2F10
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/104/106/s1113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1113%2Fa
-[/us/pl/104/106/s1113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1113%2Fb
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/112/81/s541/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Ff
 [/us/usc/t10/s843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs843
-[/us/pl/109/163/s552/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs552%2Fc
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3263
 [/us/usc/t10/s920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs920
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
@@ -385,7 +385,7 @@ May 5, 1950, ch. 169, § 1 (Art. 120), 64 Stat. 140.  </td>
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/484/s1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1067
 [/us/usc/t10/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs803
-[/us/pl/109/163/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs552%2Fb
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3263
 [/us/usc/t10/s856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs856
 [/us/usc/t10/s920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs920

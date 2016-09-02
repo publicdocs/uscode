@@ -107,7 +107,7 @@
 
     The Council shall terminate on the date that is 10 years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016.
 
-(Added [Pub. L. 114–92, div. A, title XVI, § 1603(a)][/us/pl/114/92/s1603/a], Nov. 25, 2015, [129 Stat. 1096][/us/stat/129/1096].)
+(Added [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1603(a), Nov. 25, 2015, [129 Stat. 1096][/us/stat/129/1096].)
 
  __References in Text__ 
 
@@ -123,7 +123,7 @@
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/114/92/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1603%2Fa
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1096
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 

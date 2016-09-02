@@ -17,7 +17,7 @@
 
     Pursuant to an agreement entered into by the Secretary concerned and a lessor of military family housing or military unaccompanied housing to members of the armed forces, the Secretary may pay the lessor an amount in addition to the rental payments for the housing made by the members as the Secretary determines appropriate to encourage the lessor to make the housing available to members of the armed forces as military family housing or as military unaccompanied housing.
 
-(Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)][/us/pl/104/106/s2801/a/1], Feb. 10, 1996, [110 Stat. 547][/us/stat/110/547]; amended [Pub. L. 106–65, div. B, title XXVIII, § 2803(f)][/us/pl/106/65/s2803/f], Oct. 5, 1999, [113 Stat. 849][/us/stat/113/849].)
+(Added [Pub. L. 104–106, div. B, title XXVIII][/us/pl/104/106/dB/tXXVIII], § 2801(a)(1), Feb. 10, 1996, [110 Stat. 547][/us/stat/110/547]; amended [Pub. L. 106–65, div. B, title XXVIII][/us/pl/106/65/dB/tXXVIII], § 2803(f), Oct. 5, 1999, [113 Stat. 849][/us/stat/113/849].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/104/106/s2801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2801%2Fa%2F1
+[/us/pl/104/106/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdB%2FtXXVIII
 [/us/stat/110/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F547
-[/us/pl/106/65/s2803/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2803%2Ff
+[/us/pl/106/65/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdB%2FtXXVIII
 [/us/stat/113/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F849
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 

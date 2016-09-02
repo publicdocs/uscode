@@ -37,7 +37,7 @@
 
     (b) The text of the Uniform Code of Military Justice and of the regulations prescribed by the President under such Code shall be made available to a member on active duty or to a member of a reserve component, upon request by the member, for the member’s personal examination.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 78][/us/stat/70A/78]; [Pub. L. 99–661, div. A, title VIII, § 804(d)][/us/pl/99/661/s804/d], Nov. 14, 1986, [100 Stat. 3907][/us/stat/100/3907]; [Pub. L. 104–106, div. A, title XI, § 1152][/us/pl/104/106/s1152], Feb. 10, 1996, [110 Stat. 468][/us/stat/110/468].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 78][/us/stat/70A/78]; [Pub. L. 99–661, div. A, title VIII][/us/pl/99/661/dA/tVIII], § 804(d), Nov. 14, 1986, [100 Stat. 3907][/us/stat/100/3907]; [Pub. L. 104–106, div. A, title XI][/us/pl/104/106/dA/tXI], § 1152, Feb. 10, 1996, [110 Stat. 468][/us/stat/110/468].)
 
 <table>
 
@@ -108,9 +108,9 @@ May 5, 1950, ch. 169, § 1 (Art. 137), 64 Stat. 144.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F78
-[/us/pl/99/661/s804/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs804%2Fd
+[/us/pl/99/661/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVIII
 [/us/stat/100/3907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3907
-[/us/pl/104/106/s1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1152
+[/us/pl/104/106/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXI
 [/us/stat/110/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F468
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661

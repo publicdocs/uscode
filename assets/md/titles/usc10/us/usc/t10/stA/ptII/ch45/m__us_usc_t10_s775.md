@@ -31,7 +31,7 @@
 
     Notwithstanding [section 771a of this title][/us/usc/t10/s771a], a uniform issued to a member under this section may be retained by the member as a personal item.
 
-(Added [Pub. L. 102–484, div. A, title III, § 377(a)(2)][/us/pl/102/484/s377/a/2], Oct. 23, 1992, [106 Stat. 2386][/us/stat/106/2386].)
+(Added [Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 377(a)(2), Oct. 23, 1992, [106 Stat. 2386][/us/stat/106/2386].)
 
  __Prior Provisions__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t10/s771a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs771a
-[/us/pl/102/484/s377/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs377%2Fa%2F2
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2386
 [/us/usc/t10/s776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs776
 

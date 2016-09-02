@@ -17,7 +17,7 @@
 
     The Secretary of the Navy shall have a seal for the Department of the Navy. The design of the seal must be approved by the President. Judicial notice shall be taken of the seal.
 
-(Added [Pub. L. 99–433, title V, § 511(c)(2)][/us/pl/99/433/s511/c/2], Oct. 1, 1986, [100 Stat. 1043][/us/stat/100/1043].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 511(c)(2), Oct. 1, 1986, [100 Stat. 1043][/us/stat/100/1043].)
 
  __Prior Provisions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/433/s511/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fc%2F2
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1043
 [/us/usc/t10/s5062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5062
 

@@ -35,7 +35,7 @@
 
     (e) [Section 972(b) of this title][/us/usc/t10/s972/b] excludes from computation of an officer’s years of service for purposes of this section any time identified with respect to that officer under that section.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 228][/us/stat/70A/228]; [Pub. L. 86–197, § 1(5)][/us/pl/86/197/s1/5], Aug. 25, 1959, [73 Stat. 426][/us/stat/73/426]; [Pub. L. 104–106, div. A, title V, § 561(d)(2)(B)][/us/pl/104/106/s561/d/2/B], Feb. 10, 1996, [110 Stat. 322][/us/stat/110/322].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 228][/us/stat/70A/228]; [Pub. L. 86–197][/us/pl/86/197], § 1(5), Aug. 25, 1959, [73 Stat. 426][/us/stat/73/426]; [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 561(d)(2)(B), Feb. 10, 1996, [110 Stat. 322][/us/stat/110/322].)
 
 <table>
 
@@ -167,7 +167,7 @@ May 29, 1928, ch. 902, 45 Stat. 996; Jan. 29, 1938, ch. 12, § 2, 52 Stat. 8. 
 
  __References in Text__ 
 
-    [Section 3683 of this title][/us/usc/t10/s3683], referred to in subsecs. (a)(3) and (d), was repealed (subject to a savings clause) by [Pub. L. 99–145, title XIII, § 1301(b)(1)(A)][/us/pl/99/145/s1301/b/1/A], (C), Nov. 8, 1985, [99 Stat. 735][/us/stat/99/735].
+    [Section 3683 of this title][/us/usc/t10/s3683], referred to in subsecs. (a)(3) and (d), was repealed (subject to a savings clause) by [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1301(b)(1)(A), (C), Nov. 8, 1985, [99 Stat. 735][/us/stat/99/735].
 
  __Amendments__ 
 
@@ -190,9 +190,9 @@ May 29, 1928, ch. 902, 45 Stat. 996; Jan. 29, 1938, ch. 12, § 2, 52 Stat. 8. 
 [/us/usc/t10/s972/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs972%2Fb
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F228
-[/us/pl/86/197/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F197%2Fs1%2F5
+[/us/pl/86/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F197
 [/us/stat/73/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F426
-[/us/pl/104/106/s561/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs561%2Fd%2F2%2FB
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F322
 [/us/stat/63/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F807
 [/us/usc/t37/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs233
@@ -202,7 +202,7 @@ May 29, 1928, ch. 902, 45 Stat. 996; Jan. 29, 1938, ch. 12, § 2, 52 Stat. 8. 
 [/us/stat/62/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1084
 [/us/usc/t10/s3683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3683
 [/us/usc/t10/s3683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3683
-[/us/pl/99/145/s1301/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1301%2Fb%2F1%2FA
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F735
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/86/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F197

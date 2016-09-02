@@ -101,7 +101,7 @@
 
         (6) An assessment of cost assessed to members of the armed forces for utilities compared to utility rates in the local area.
 
-(Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)][/us/pl/104/106/s2801/a/1], Feb. 10, 1996, [110 Stat. 550][/us/stat/110/550]; amended [Pub. L. 108–136, div. B, title XXVIII, § 2807][/us/pl/108/136/s2807], Nov. 24, 2003, [117 Stat. 1722][/us/stat/117/1722]; [Pub. L. 108–375, div. B, title XXVIII, § 2806][/us/pl/108/375/s2806], Oct. 28, 2004, [118 Stat. 2122][/us/stat/118/2122]; [Pub. L. 109–163, div. B, title XXVIII, § 2806(c)][/us/pl/109/163/s2806/c], Jan. 6, 2006, [119 Stat. 3507][/us/stat/119/3507]; [Pub. L. 110–417, div. B, title XXVIII, § 2805(b)][/us/pl/110/417/s2805/b], (f), Oct. 14, 2008, [122 Stat. 4723][/us/stat/122/4723], 4724; [Pub. L. 111–383, div. A, title X, § 1075(h)(6)][/us/pl/111/383/s1075/h/6], div. B, title XXVIII, § 2803(g), Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], 4459; [Pub. L. 112–239, div. B, title XXVIII, § 2803(b)][/us/pl/112/239/s2803/b], Jan. 2, 2013, [126 Stat. 2148][/us/stat/126/2148]; [Pub. L. 113–66, div. B, title XXVIII, § 2806][/us/pl/113/66/s2806], Dec. 26, 2013, [127 Stat. 1008][/us/stat/127/1008]; [Pub. L. 113–291, div. A, title X, § 1071(f)(26)][/us/pl/113/291/s1071/f/26], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511].)
+(Added [Pub. L. 104–106, div. B, title XXVIII][/us/pl/104/106/dB/tXXVIII], § 2801(a)(1), Feb. 10, 1996, [110 Stat. 550][/us/stat/110/550]; amended [Pub. L. 108–136, div. B, title XXVIII][/us/pl/108/136/dB/tXXVIII], § 2807, Nov. 24, 2003, [117 Stat. 1722][/us/stat/117/1722]; [Pub. L. 108–375, div. B, title XXVIII][/us/pl/108/375/dB/tXXVIII], § 2806, Oct. 28, 2004, [118 Stat. 2122][/us/stat/118/2122]; [Pub. L. 109–163, div. B, title XXVIII][/us/pl/109/163/dB/tXXVIII], § 2806(c), Jan. 6, 2006, [119 Stat. 3507][/us/stat/119/3507]; [Pub. L. 110–417, div. B, title XXVIII][/us/pl/110/417/dB/tXXVIII], § 2805(b), (f), Oct. 14, 2008, [122 Stat. 4723][/us/stat/122/4723], 4724; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(h)(6), div. B, title XXVIII, § 2803(g), Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], 4459; [Pub. L. 112–239, div. B, title XXVIII][/us/pl/112/239/dB/tXXVIII], § 2803(b), Jan. 2, 2013, [126 Stat. 2148][/us/stat/126/2148]; [Pub. L. 113–66, div. B, title XXVIII][/us/pl/113/66/dB/tXXVIII], § 2806, Dec. 26, 2013, [127 Stat. 1008][/us/stat/127/1008]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(f)(26), Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511].)
 
  __Amendments__ 
 
@@ -111,37 +111,37 @@
 
     Subsec. (c)(3). [Pub. L. 113–66][/us/pl/113/66] inserted “, to specifically include any unique variances associated with litigation costs” before period at end.
 
-    2011—Subsec. (a)(4). [Pub. L. 111–383, § 2803(g)][/us/pl/111/383/s2803/g], inserted before period at end “or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480]”.
+    2011—Subsec. (a)(4). [Pub. L. 111–383][/us/pl/111/383], § 2803(g), inserted before period at end “or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480]”.
 
-    Subsec. (b)(1). [Pub. L. 111–383, § 1075(h)(6)][/us/pl/111/383/s1075/h/6], made technical correction to directory language of [Pub. L. 109–163, § 2806(c)(2)(A)][/us/pl/109/163/s2806/c/2/A]. See 2006 Amendment note below.
+    Subsec. (b)(1). [Pub. L. 111–383][/us/pl/111/383], § 1075(h)(6), made technical correction to directory language of [Pub. L. 109–163][/us/pl/109/163], § 2806(c)(2)(A). See 2006 Amendment note below.
 
-    2008—Subsec. (b)(7). [Pub. L. 110–417, § 2805(b)][/us/pl/110/417/s2805/b], added par. (7).
+    2008—Subsec. (b)(7). [Pub. L. 110–417][/us/pl/110/417], § 2805(b), added par. (7).
 
-    Subsec. (b)(8). [Pub. L. 110–417, § 2805(f)][/us/pl/110/417/s2805/f], added par. (8).
+    Subsec. (b)(8). [Pub. L. 110–417][/us/pl/110/417], § 2805(f), added par. (8).
 
-    2006—Subsec. (a)(2)(D). [Pub. L. 109–163, § 2806(c)(1)][/us/pl/109/163/s2806/c/1], inserted before period “, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under [section 2883 of this title][/us/usc/t10/s2883] in order to finance the contract, conveyance, or lease”.
+    2006—Subsec. (a)(2)(D). [Pub. L. 109–163][/us/pl/109/163], § 2806(c)(1), inserted before period “, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under [section 2883 of this title][/us/usc/t10/s2883] in order to finance the contract, conveyance, or lease”.
 
-    Subsec. (b)(1). [Pub. L. 109–163, § 2806(c)(2)(B)][/us/pl/109/163/s2806/c/2/B], (C), substituted “covering each of the Funds” for “covering the Funds” and inserted before period at end “, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred and the privatization projects or contracts to which those funds were transferred. Each report shall also include, for each military department or defense agency, a description of all funds to be transferred to such Funds for the current fiscal year and the next fiscal year”.
+    Subsec. (b)(1). [Pub. L. 109–163][/us/pl/109/163], § 2806(c)(2)(B), (C), substituted “covering each of the Funds” for “covering the Funds” and inserted before period at end “, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred and the privatization projects or contracts to which those funds were transferred. Each report shall also include, for each military department or defense agency, a description of all funds to be transferred to such Funds for the current fiscal year and the next fiscal year”.
 
-    [Pub. L. 109–163, § 2806(c)(2)(A)][/us/pl/109/163/s2806/c/2/A], as amended by [Pub. L. 111–383, § 1075(h)(6)][/us/pl/111/383/s1075/h/6], substituted “A separate report” for “A report”.
+    [Pub. L. 109–163][/us/pl/109/163], § 2806(c)(2)(A), as amended by [Pub. L. 111–383][/us/pl/111/383], § 1075(h)(6), substituted “A separate report” for “A report”.
 
-    2004—Subsec. (a)(2). [Pub. L. 108–375, § 2806(a)][/us/pl/108/375/s2806/a], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The report shall describe the proposed contract, conveyance, or lease and the intended method of participation of the United States in the contract, conveyance, or lease and provide a justification of such method of participation.”
+    2004—Subsec. (a)(2). [Pub. L. 108–375][/us/pl/108/375], § 2806(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The report shall describe the proposed contract, conveyance, or lease and the intended method of participation of the United States in the contract, conveyance, or lease and provide a justification of such method of participation.”
 
-    Subsec. (b)(5), (6). [Pub. L. 108–375, § 2806(b)][/us/pl/108/375/s2806/b], added par. (5) and redesignated former par. (5) as (6).
+    Subsec. (b)(5), (6). [Pub. L. 108–375][/us/pl/108/375], § 2806(b), added par. (5) and redesignated former par. (5) as (6).
 
-    2003—Subsec. (a)(2) to (4). [Pub. L. 108–136, § 2807(a)][/us/pl/108/136/s2807/a], designated second sentence of par. (2) as par. (4) and added par. (3).
+    2003—Subsec. (a)(2) to (4). [Pub. L. 108–136][/us/pl/108/136], § 2807(a), designated second sentence of par. (2) as par. (4) and added par. (3).
 
-    Subsec. (b)(2). [Pub. L. 108–136, § 2807(b)(1)][/us/pl/108/136/s2807/b/1], inserted before period at end “, and such recommendations as the Secretary considers necessary for improving the extent and effectiveness of the use of such authorities in the future”.
+    Subsec. (b)(2). [Pub. L. 108–136][/us/pl/108/136], § 2807(b)(1), inserted before period at end “, and such recommendations as the Secretary considers necessary for improving the extent and effectiveness of the use of such authorities in the future”.
 
-    Subsec. (b)(3) to (5). [Pub. L. 108–136, § 2807(b)(2)][/us/pl/108/136/s2807/b/2], added pars. (3) to (5) and struck out former par. (3) which read as follows: “A description of the objectives of the Department of Defense for providing military family housing and military unaccompanied housing for members of the armed forces.”
+    Subsec. (b)(3) to (5). [Pub. L. 108–136][/us/pl/108/136], § 2807(b)(2), added pars. (3) to (5) and struck out former par. (3) which read as follows: “A description of the objectives of the Department of Defense for providing military family housing and military unaccompanied housing for members of the armed forces.”
 
  __Effective Date of 2011 Amendment__ 
 
-    [Pub. L. 111–383, div. A, title X, § 1075(h)][/us/pl/111/383/s1075/h], Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], provided that amendment by section 1075(h)(6) is effective as of Jan. 6, 2006, and as if included in [Pub. L. 109–163][/us/pl/109/163] as enacted.
+    [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(h), Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], provided that amendment by section 1075(h)(6) is effective as of Jan. 6, 2006, and as if included in [Pub. L. 109–163][/us/pl/109/163] as enacted.
 
  __Final Report__ 
 
-    [Pub. L. 104–106, div. B, title XXVIII, § 2801(b)][/us/pl/104/106/s2801/b], Feb. 10, 1996, [110 Stat. 551][/us/stat/110/551], provided that, not later than Mar. 1, 2000, the Secretary of Defense was to submit to the congressional defense committees a report on the use by the Secretary of Defense and the Secretaries of the military departments of the authorities provided by subchapter IV of chapter 169 of this title.
+    [Pub. L. 104–106, div. B, title XXVIII][/us/pl/104/106/dB/tXXVIII], § 2801(b), Feb. 10, 1996, [110 Stat. 551][/us/stat/110/551], provided that, not later than Mar. 1, 2000, the Secretary of Defense was to submit to the congressional defense committees a report on the use by the Secretary of Defense and the Secretaries of the military departments of the authorities provided by subchapter IV of chapter 169 of this title.
 
 ----------
 
@@ -159,47 +159,47 @@
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
 [/us/usc/t10/s2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2885
-[/us/pl/104/106/s2801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2801%2Fa%2F1
+[/us/pl/104/106/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdB%2FtXXVIII
 [/us/stat/110/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F550
-[/us/pl/108/136/s2807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs2807
+[/us/pl/108/136/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdB%2FtXXVIII
 [/us/stat/117/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1722
-[/us/pl/108/375/s2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs2806
+[/us/pl/108/375/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdB%2FtXXVIII
 [/us/stat/118/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2122
-[/us/pl/109/163/s2806/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2806%2Fc
+[/us/pl/109/163/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdB%2FtXXVIII
 [/us/stat/119/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3507
-[/us/pl/110/417/s2805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs2805%2Fb
+[/us/pl/110/417/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdB%2FtXXVIII
 [/us/stat/122/4723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4723
-[/us/pl/111/383/s1075/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fh%2F6
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4377
-[/us/pl/112/239/s2803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2803%2Fb
+[/us/pl/112/239/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdB%2FtXXVIII
 [/us/stat/126/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2148
-[/us/pl/113/66/s2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2806
+[/us/pl/113/66/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdB%2FtXXVIII
 [/us/stat/127/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1008
-[/us/pl/113/291/s1071/f/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F26
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/111/383/s2803/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2803%2Fg
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
-[/us/pl/111/383/s1075/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fh%2F6
-[/us/pl/109/163/s2806/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2806%2Fc%2F2%2FA
-[/us/pl/110/417/s2805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs2805%2Fb
-[/us/pl/110/417/s2805/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs2805%2Ff
-[/us/pl/109/163/s2806/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2806%2Fc%2F1
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/usc/t10/s2883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2883
-[/us/pl/109/163/s2806/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2806%2Fc%2F2%2FB
-[/us/pl/109/163/s2806/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2806%2Fc%2F2%2FA
-[/us/pl/111/383/s1075/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fh%2F6
-[/us/pl/108/375/s2806/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs2806%2Fa
-[/us/pl/108/375/s2806/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs2806%2Fb
-[/us/pl/108/136/s2807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs2807%2Fa
-[/us/pl/108/136/s2807/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs2807%2Fb%2F1
-[/us/pl/108/136/s2807/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs2807%2Fb%2F2
-[/us/pl/111/383/s1075/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fh
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4377
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/104/106/s2801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2801%2Fb
+[/us/pl/104/106/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdB%2FtXXVIII
 [/us/stat/110/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F551
 
 

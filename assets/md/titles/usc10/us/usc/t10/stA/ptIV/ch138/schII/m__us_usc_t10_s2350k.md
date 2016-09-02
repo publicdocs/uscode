@@ -45,7 +45,7 @@
 
         (3) Cash, which shall be deposited in a separate trust fund in the United States Treasury pending expenditure and which shall accrue interest in accordance with [section 9702 of title 31][/us/usc/t31/s9702].
 
-(Added [Pub. L. 104–106, div. A, title XIII, § 1332(a)(1)][/us/pl/104/106/s1332/a/1], Feb. 10, 1996, [110 Stat. 482][/us/stat/110/482]; amended [Pub. L. 107–314, div. A, title X, § 1041(a)(11)][/us/pl/107/314/s1041/a/11], Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645].)
+(Added [Pub. L. 104–106, div. A, title XIII][/us/pl/104/106/dA/tXIII], § 1332(a)(1), Feb. 10, 1996, [110 Stat. 482][/us/stat/110/482]; amended [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1041(a)(11), Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–106, div. A, title XIII, § 1332(b)][/us/pl/104/106/s1332/b], Feb. 10, 1996, [110 Stat. 484][/us/stat/110/484], provided that: 
+[Pub. L. 104–106, div. A, title XIII][/us/pl/104/106/dA/tXIII], § 1332(b), Feb. 10, 1996, [110 Stat. 484][/us/stat/110/484], provided that: 
 
 > “[Section 2350k of title 10][/us/usc/t10/s2350k], United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\] and shall apply to contributions for relocation of elements of the Armed Forces in or to any nation received on or after such date.”
 
@@ -69,12 +69,12 @@
 ----------
 
 [/us/usc/t31/s9702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9702
-[/us/pl/104/106/s1332/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1332%2Fa%2F1
+[/us/pl/104/106/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXIII
 [/us/stat/110/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F482
-[/us/pl/107/314/s1041/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1041%2Fa%2F11
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2645
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
-[/us/pl/104/106/s1332/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1332%2Fb
+[/us/pl/104/106/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXIII
 [/us/stat/110/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F484
 [/us/usc/t10/s2350k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2350k
 

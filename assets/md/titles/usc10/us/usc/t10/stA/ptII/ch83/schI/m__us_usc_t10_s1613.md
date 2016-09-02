@@ -23,7 +23,7 @@
 
     The Secretary of Defense shall notify Congress of any regulations prescribed to carry out this subchapter (other than sections 1605 and 1611). Such notice shall be provided by submitting a copy of the regulations to the congressional oversight committees not less than 60 days before such regulations take effect.
 
-(Added [Pub. L. 104–201, div. A, title XVI, § 1632(d)][/us/pl/104/201/s1632/d], Sept. 23, 1996, [110 Stat. 2750][/us/stat/110/2750]; amended [Pub. L. 105–85, div. A, title X, § 1073(a)(32)][/us/pl/105/85/s1073/a/32], Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902].)
+(Added [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1632(d), Sept. 23, 1996, [110 Stat. 2750][/us/stat/110/2750]; amended [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(32), Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/104/201/s1632/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1632%2Fd
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2750
-[/us/pl/105/85/s1073/a/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F32
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1902
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/201/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1635

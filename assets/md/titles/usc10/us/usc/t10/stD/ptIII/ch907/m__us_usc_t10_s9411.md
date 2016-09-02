@@ -67,7 +67,7 @@ June 3, 1916, ch. 134, § 47d (words before 1st semicolon of 1st sentence); ad
 
  __Inter-European Air Forces Academy__ 
 
-[Pub. L. 113–291, div. A, title XII, § 1268][/us/pl/113/291/s1268], Dec. 19, 2014, [128 Stat. 3585][/us/stat/128/3585], provided that:
+[Pub. L. 113–291, div. A, title XII][/us/pl/113/291/dA/tXII], § 1268, Dec. 19, 2014, [128 Stat. 3585][/us/stat/128/3585], provided that:
 
 >     “(a)  __Operation__  __.—__ 
 
@@ -138,7 +138,7 @@ June 3, 1916, ch. 134, § 47d (words before 1st semicolon of 1st sentence); ad
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F571
-[/us/pl/113/291/s1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1268
+[/us/pl/113/291/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXII
 [/us/stat/128/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3585
 
 

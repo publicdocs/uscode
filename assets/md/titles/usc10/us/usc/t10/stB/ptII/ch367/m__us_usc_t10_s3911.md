@@ -23,7 +23,7 @@
 
         (2) The period specified in this paragraph is the period beginning on January 7, 2011, and ending on September 30, 2018.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 224][/us/stat/70A/224]; [Pub. L. 101–510, div. A, title V, § 523(a)][/us/pl/101/510/s523/a], Nov. 5, 1990, [104 Stat. 1562][/us/stat/104/1562]; [Pub. L. 103–160, div. A, title V, § 561(c)][/us/pl/103/160/s561/c], Nov. 30, 1993, [107 Stat. 1667][/us/stat/107/1667]; [Pub. L. 105–261, div. A, title V, § 561(e)][/us/pl/105/261/s561/e], Oct. 17, 1998, [112 Stat. 2025][/us/stat/112/2025]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 571(e)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–134; [Pub. L. 109–163, div. A, title V, § 502(a)][/us/pl/109/163/s502/a], Jan. 6, 2006, [119 Stat. 3225][/us/stat/119/3225]; [Pub. L. 109–364, div. A, title X, § 1071(a)(27)][/us/pl/109/364/s1071/a/27], Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399]; [Pub. L. 111–383, div. A, title V, § 506(a)][/us/pl/111/383/s506/a], Jan. 7, 2011, [124 Stat. 4210][/us/stat/124/4210]; [Pub. L. 112–239, div. A, title V, § 505(a)][/us/pl/112/239/s505/a], title X, § 1076(e)(6), Jan. 2, 2013, [126 Stat. 1715][/us/stat/126/1715], 1951.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 224][/us/stat/70A/224]; [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 523(a), Nov. 5, 1990, [104 Stat. 1562][/us/stat/104/1562]; [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 561(c), Nov. 30, 1993, [107 Stat. 1667][/us/stat/107/1667]; [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 561(e), Oct. 17, 1998, [112 Stat. 2025][/us/stat/112/2025]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 571(e)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–134; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 502(a), Jan. 6, 2006, [119 Stat. 3225][/us/stat/119/3225]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(27), Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 506(a), Jan. 7, 2011, [124 Stat. 4210][/us/stat/124/4210]; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 505(a), title X, § 1076(e)(6), Jan. 2, 2013, [126 Stat. 1715][/us/stat/126/1715], 1951.)
 
 <table>
 
@@ -75,9 +75,9 @@ July 31, 1935, ch. 422, § 5 (1st 101 words); restated June 13, 1940, ch. 344,
 
  __Amendments__ 
 
-    2013—Subsec. (b)(2). [Pub. L. 112–239, § 1076(e)(6)][/us/pl/112/239/s1076/e/6], substituted “January 7, 2011,” for “the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011”.
+    2013—Subsec. (b)(2). [Pub. L. 112–239][/us/pl/112/239], § 1076(e)(6), substituted “January 7, 2011,” for “the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011”.
 
-    [Pub. L. 112–239, § 505(a)][/us/pl/112/239/s505/a], substituted “September 30, 2018” for “September 30, 2013”.
+    [Pub. L. 112–239][/us/pl/112/239], § 505(a), substituted “September 30, 2018” for “September 30, 2013”.
 
     2011—Subsec. (b)(2). [Pub. L. 111–383][/us/pl/111/383] substituted “the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 and ending on September 30, 2013” for “January 6, 2006, and ending on December 31, 2008”.
 
@@ -107,25 +107,25 @@ July 31, 1935, ch. 422, § 5 (1st 101 words); restated June 13, 1940, ch. 344,
 [/us/usc/t10/s3926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3926
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F224
-[/us/pl/101/510/s523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs523%2Fa
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1562
-[/us/pl/103/160/s561/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs561%2Fc
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1667
-[/us/pl/105/261/s561/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs561%2Fe
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2025
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/109/163/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs502%2Fa
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3225
-[/us/pl/109/364/s1071/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F27
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2399
-[/us/pl/111/383/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs506%2Fa
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4210
-[/us/pl/112/239/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs505%2Fa
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1715
 [/us/usc/t10/s3926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3926
-[/us/pl/112/239/s1076/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fe%2F6
-[/us/pl/112/239/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs505%2Fa
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163

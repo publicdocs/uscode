@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptIV/ch933/m__us_usc_t10_s9531.md) | [Next](./../../../../../..//us/usc/t10/stD/ptIV/ch933/m__us_usc_t10_s9536.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9532)
+[Previous](./../../../../../..//us/usc/t10/stD/ptIV/ch933/m__us_usc_t10_s9531.md) | [Next](./../../../../../..//us/usc/t10/stD/ptIV/ch933/m__us_usc_t10_s9534 _us_usc_t10_s9535.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9532)
 
 ## § 9532. Factories, arsenals, and depots: manufacture at
 
@@ -65,25 +65,13 @@ Sept. 19, 1951, ch. 407, § 101(e), 65 Stat. 327.  </td>
 
     The word “made” is substituted for the words “manufactured or produced”. The words “United States” are substituted for the word “Government”.
 
-\[§§ 9534, 9535. __Repealed.__  __[__  __Pub. L. 103–160, div. A, title VIII, § 823(4)__  __][/us/pl/103/160/s823/4]__  __, (5),__  __Nov. 30, 1993__  __,__  __[__  __107 Stat. 1707__  __][/us/stat/107/1707]__  __\]__ 
-
-    Section 9534, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 576][/us/stat/70A/576], related to provisions in contracts for subsistence supplies.
-
-    Section 9535, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 576][/us/stat/70A/576], related to purchases without advertising of exceptional subsistence supplies.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptIV/ch933/m__us_usc_t10_s9531.md) | [Next](./../../../../../..//us/usc/t10/stD/ptIV/ch933/m__us_usc_t10_s9536.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9532)
+[Previous](./../../../../../..//us/usc/t10/stD/ptIV/ch933/m__us_usc_t10_s9531.md) | [Next](./../../../../../..//us/usc/t10/stD/ptIV/ch933/m__us_usc_t10_s9534 _us_usc_t10_s9535.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9532)
 
 ----------
 ----------
 
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F576
-[/us/pl/103/160/s823/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs823%2F4
-[/us/stat/107/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1707
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F576
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F576
 

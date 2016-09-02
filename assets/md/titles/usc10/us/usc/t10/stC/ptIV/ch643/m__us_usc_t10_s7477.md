@@ -79,7 +79,7 @@ Feb. 18, 1946, ch. 30 (3d par.), 60 Stat. 20; Oct. 12, 1949, ch. 681, § 524, 
 
 </table>
 
-    In subsection (a) the words “without regard to rank or grade” and “or subsequent to the discharge or release of such personnel from active service” are omitted as applicable only to members of the naval service. The Act of February 18, 1946, [60 Stat. 20][/us/stat/60/20], applied to both civilian and naval personnel and was amended by the [Act of October 12, 1949, ch. 681, § 524][/us/act/1949-10-12/ch681/s524], by deleting therefrom all reference to naval personnel. The words “the continental limits of” and “or in Alaska” are omitted as covered by the term “outside the United States”.
+    In subsection (a) the words “without regard to rank or grade” and “or subsequent to the discharge or release of such personnel from active service” are omitted as applicable only to members of the naval service. The Act of February 18, 1946, [60 Stat. 20][/us/stat/60/20], applied to both civilian and naval personnel and was amended by the [Act of October 12, 1949, ch. 681][/us/act/1949-10-12/ch681], § 524, by deleting therefrom all reference to naval personnel. The words “the continental limits of” and “or in Alaska” are omitted as covered by the term “outside the United States”.
 
 ----------
 
@@ -91,6 +91,6 @@ Feb. 18, 1946, ch. 30 (3d par.), 60 Stat. 20; Oct. 12, 1949, ch. 681, § 524, 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F463
 [/us/stat/60/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F20
-[/us/act/1949-10-12/ch681/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-12%2Fch681%2Fs524
+[/us/act/1949-10-12/ch681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-12%2Fch681
 
 

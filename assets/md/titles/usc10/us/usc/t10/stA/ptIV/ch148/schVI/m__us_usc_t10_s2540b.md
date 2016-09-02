@@ -27,7 +27,7 @@
 
     The Secretary of Defense may not accelerate any guaranteed loan or increment, and may not pay any amount, in respect of a guarantee issued under this subchapter, other than in accordance with the original payment terms of the loan.
 
-(Added [Pub. L. 104–106, div. A, title XIII, § 1321(a)(1)][/us/pl/104/106/s1321/a/1], Feb. 10, 1996, [110 Stat. 476][/us/stat/110/476].)
+(Added [Pub. L. 104–106, div. A, title XIII][/us/pl/104/106/dA/tXIII], § 1321(a)(1), Feb. 10, 1996, [110 Stat. 476][/us/stat/110/476].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/104/106/s1321/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1321%2Fa%2F1
+[/us/pl/104/106/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXIII
 [/us/stat/110/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F476
 
 

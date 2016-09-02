@@ -31,19 +31,19 @@
 
         (3) The Secretary of Defense shall be the final approval authority for any case determined by the Secretary of a military department to warrant administrative separation or denial of reenlistment based on a determination that the member is unsuitable for continued service due to the same medical condition of the member considered by a Physical Evaluation Board that found the member fit for duty.
 
-(Added [Pub. L. 111–383, div. A, title V, § 534(a)(1)][/us/pl/111/383/s534/a/1], Jan. 7, 2011, [124 Stat. 4216][/us/stat/124/4216]; amended [Pub. L. 112–81, div. A, title V, § 527(a)][/us/pl/112/81/s527/a]–(c)(1), Dec. 31, 2011, [125 Stat. 1401][/us/stat/125/1401], 1402.)
+(Added [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 534(a)(1), Jan. 7, 2011, [124 Stat. 4216][/us/stat/124/4216]; amended [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 527(a)–(c)(1), Dec. 31, 2011, [125 Stat. 1401][/us/stat/125/1401], 1402.)
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–81, § 527(c)(1)][/us/pl/112/81/s527/c/1], substituted “Members determined fit for duty in Physical Evaluation Board: prohibition on involuntary administrative separation or denial of reenlistment due to unsuitability based on medical conditions considered in evaluation” for “Members determined fit for duty in Physical Evaluation Board evaluation: prohibition on involuntary administrative separation due to unsuitability based on medical conditions considered in evaluation” in section catchline.
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 527(c)(1), substituted “Members determined fit for duty in Physical Evaluation Board: prohibition on involuntary administrative separation or denial of reenlistment due to unsuitability based on medical conditions considered in evaluation” for “Members determined fit for duty in Physical Evaluation Board evaluation: prohibition on involuntary administrative separation due to unsuitability based on medical conditions considered in evaluation” in section catchline.
 
-    Subsec. (a). [Pub. L. 112–81, § 527(a)][/us/pl/112/81/s527/a], inserted “, or deny reenlistment of the member,” after “a member described in subsection (b)”.
+    Subsec. (a). [Pub. L. 112–81][/us/pl/112/81], § 527(a), inserted “, or deny reenlistment of the member,” after “a member described in subsection (b)”.
 
-    Subsec. (c)(3). [Pub. L. 112–81, § 527(b)][/us/pl/112/81/s527/b], inserted “or denial of reenlistment” after “to warrant administrative separation”.
+    Subsec. (c)(3). [Pub. L. 112–81][/us/pl/112/81], § 527(b), inserted “or denial of reenlistment” after “to warrant administrative separation”.
 
  __Effective Date__ 
 
-[Pub. L. 111–383, div. A, title V, § 534(b)][/us/pl/111/383/s534/b], Jan. 7, 2011, [124 Stat. 4217][/us/stat/124/4217], provided that: 
+[Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 534(b), Jan. 7, 2011, [124 Stat. 4217][/us/stat/124/4217], provided that: 
 
 > “The amendments made by subsection (a) \[enacting this section\] shall take effect on the date of the enactment of this Act \[Jan. 7, 2011\], and shall apply with respect to members evaluated for fitness for duty by Physical Evaluation Boards on or after that date.”
 
@@ -54,14 +54,14 @@
 ----------
 ----------
 
-[/us/pl/111/383/s534/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs534%2Fa%2F1
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4216
-[/us/pl/112/81/s527/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs527%2Fa
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1401
-[/us/pl/112/81/s527/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs527%2Fc%2F1
-[/us/pl/112/81/s527/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs527%2Fa
-[/us/pl/112/81/s527/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs527%2Fb
-[/us/pl/111/383/s534/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs534%2Fb
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4217
 
 

@@ -39,7 +39,7 @@
 
     The Secretary shall prescribe regulations for the administration of this section.
 
-(Added [Pub. L. 109–163, div. A, title V, § 522(c)(1)][/us/pl/109/163/s522/c/1], Jan. 6, 2006, [119 Stat. 3241][/us/stat/119/3241].)
+(Added [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 522(c)(1), Jan. 6, 2006, [119 Stat. 3241][/us/stat/119/3241].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/109/163/s522/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs522%2Fc%2F1
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3241
 
 

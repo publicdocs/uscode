@@ -49,13 +49,13 @@
 
     The Secretary shall prescribe regulations for the purposes of this section.
 
-(Added [Pub. L. 103–337, div. A, title XI, § 1113(a)][/us/pl/103/337/s1113/a], Oct. 5, 1994, [108 Stat. 2864][/us/stat/108/2864]; amended [Pub. L. 104–106, div. A, title X, § 1081(d)][/us/pl/104/106/s1081/d], Feb. 10, 1996, [110 Stat. 454][/us/stat/110/454].)
+(Added [Pub. L. 103–337, div. A, title XI][/us/pl/103/337/dA/tXI], § 1113(a), Oct. 5, 1994, [108 Stat. 2864][/us/stat/108/2864]; amended [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1081(d), Feb. 10, 1996, [110 Stat. 454][/us/stat/110/454].)
 
  __Amendments__ 
 
-    1996—Subsec. (b). [Pub. L. 104–106, § 1081(d)(1)][/us/pl/104/106/s1081/d/1], struck out “referred to in [section 2511(b) of this title][/us/usc/t10/s2511/b]” after “corporations”.
+    1996—Subsec. (b). [Pub. L. 104–106][/us/pl/104/106], § 1081(d)(1), struck out “referred to in [section 2511(b) of this title][/us/usc/t10/s2511/b]” after “corporations”.
 
-    Subsec. (f). [Pub. L. 104–106, § 1081(d)(2)][/us/pl/104/106/s1081/d/2], substituted “section 2511(e)” for “section 2511(f)”.
+    Subsec. (f). [Pub. L. 104–106][/us/pl/104/106], § 1081(d)(2), substituted “section 2511(e)” for “section 2511(f)”.
 
 ----------
 
@@ -69,12 +69,12 @@
 [/us/usc/t15/s3710a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a
 [/us/usc/t10/s2511/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2511%2Fc%2F2
 [/us/usc/t10/s2511/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2511%2Fe
-[/us/pl/103/337/s1113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1113%2Fa
+[/us/pl/103/337/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXI
 [/us/stat/108/2864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2864
-[/us/pl/104/106/s1081/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1081%2Fd
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F454
-[/us/pl/104/106/s1081/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1081%2Fd%2F1
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t10/s2511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2511%2Fb
-[/us/pl/104/106/s1081/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1081%2Fd%2F2
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 
 

@@ -19,7 +19,7 @@
 
     The Secretary of the Navy shall establish areas, to be known as “Southern Sea Otter Military Readiness Areas”, for national defense purposes. Such areas shall include each of the following:
 
-        (1) The area that includes Naval Base Ventura County, San Nicolas Island, and Begg Rock and the adjacent and surrounding waters within the following coordinates:    N. Latitude/W. Longitude′
+        (1) The area that includes Naval Base Ventura County, San Nicolas Island, and Begg Rock and the adjacent and surrounding waters within the following coordinates:    N. Latitude/W. Longitude
 
             33°27.8′/119°34.3′
 
@@ -99,7 +99,7 @@
 
         The term “optimum sustainable population” means, with respect to any population stock, the number of animals that will result in the maximum productivity of the population or the species, keeping in mind the carrying capacity of the habitat and the health of the ecosystem of which they form a constituent element.
 
-(Added [Pub. L. 114–92, div. A, title III, § 312(a)][/us/pl/114/92/s312/a], Nov. 25, 2015, [129 Stat. 787][/us/stat/129/787].)
+(Added [Pub. L. 114–92, div. A, title III][/us/pl/114/92/dA/tIII], § 312(a), Nov. 25, 2015, [129 Stat. 787][/us/stat/129/787].)
 
  __References in Text__ 
 
@@ -123,7 +123,7 @@
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1361
 [/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703
-[/us/pl/114/92/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs312%2Fa
+[/us/pl/114/92/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtIII
 [/us/stat/129/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F787
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205

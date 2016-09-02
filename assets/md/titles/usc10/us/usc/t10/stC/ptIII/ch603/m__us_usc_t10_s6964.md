@@ -27,7 +27,7 @@
 
     (f) A midshipman who is dismissed from the Academy for hazing may not be reappointed as a midshipman or be appointed as a commissioned officer in the Army, Navy, Air Force, or Marine Corps until two years after the graduation of the class of which he was a member.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 433][/us/stat/70A/433]; [Pub. L. 99–145, title XIII, § 1301(c)(2)][/us/pl/99/145/s1301/c/2], Nov. 8, 1985, [99 Stat. 736][/us/stat/99/736]; [Pub. L. 101–189, div. A, title XVI, § 1622(e)(8)][/us/pl/101/189/s1622/e/8], Nov. 29, 1989, [103 Stat. 1605][/us/stat/103/1605].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 433][/us/stat/70A/433]; [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1301(c)(2), Nov. 8, 1985, [99 Stat. 736][/us/stat/99/736]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1622(e)(8), Nov. 29, 1989, [103 Stat. 1605][/us/stat/103/1605].)
 
 <table>
 
@@ -137,7 +137,7 @@ Mar. 3, 1903, ch. 1010, 32 Stat. 1198 (last 43 words of 1st proviso).  </td>
 
 </table>
 
-    In subsection (a) the words “privilege, or advantage to which he shall legally be entitled” are omitted as surplusage, since they are covered by the word “right”. The definition in this subsection is made applicable throughout the chapter to cover [§ 6965 of this title][/us/usc/t10/s6965], since the reference in that section to hazing was also derived from the act which is the source for this subsection.
+    In subsection (a) the words “privilege, or advantage to which he shall legally be entitled” are omitted as surplusage, since they are covered by the word “right”. The definition in this subsection is made applicable throughout the chapter to cover § 6965 of this title, since the reference in that section to hazing was also derived from the act which is the source for this subsection.
 
     In subsection (b) the words “prescribe regulations \* \* \* to prevent hazing” are substituted for the words “make such rules \* \* \* as will effectually prevent the practice of hazing”.
 
@@ -160,11 +160,10 @@ Mar. 3, 1903, ch. 1010, 32 Stat. 1198 (last 43 words of 1st proviso).  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F433
-[/us/pl/99/145/s1301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1301%2Fc%2F2
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F736
-[/us/pl/101/189/s1622/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fe%2F8
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1605
-[/us/usc/t10/s6965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6965
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 

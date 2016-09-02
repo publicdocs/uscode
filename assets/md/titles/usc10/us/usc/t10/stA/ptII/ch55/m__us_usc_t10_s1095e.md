@@ -35,7 +35,7 @@
 
     The Secretary shall prescribe the duties of the position of beneficiary counseling and assistance coordinator in the regulations required by subsection (a).
 
-(Added [Pub. L. 106–65, div. A, title VII, § 715(a)(1)][/us/pl/106/65/s715/a/1], Oct. 5, 1999, [113 Stat. 690][/us/stat/113/690]; amended [Pub. L. 108–136, div. A, title VII, § 707][/us/pl/108/136/s707], Nov. 24, 2003, [117 Stat. 1529][/us/stat/117/1529].)
+(Added [Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 715(a)(1), Oct. 5, 1999, [113 Stat. 690][/us/stat/113/690]; amended [Pub. L. 108–136, div. A, title VII][/us/pl/108/136/dA/tVII], § 707, Nov. 24, 2003, [117 Stat. 1529][/us/stat/117/1529].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Deadline for Initial Designations__ 
 
-    [Pub. L. 106–65, div. A, title VII, § 715(b)][/us/pl/106/65/s715/b], Oct. 5, 1999, [113 Stat. 690][/us/stat/113/690], directed that each beneficiary counseling and assistance coordinator required under the regulations described in subsec. (a) of this section be designated not later than Jan. 15, 2000.
+    [Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 715(b), Oct. 5, 1999, [113 Stat. 690][/us/stat/113/690], directed that each beneficiary counseling and assistance coordinator required under the regulations described in subsec. (a) of this section be designated not later than Jan. 15, 2000.
 
 ----------
 
@@ -52,12 +52,12 @@
 ----------
 ----------
 
-[/us/pl/106/65/s715/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs715%2Fa%2F1
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F690
-[/us/pl/108/136/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs707
+[/us/pl/108/136/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVII
 [/us/stat/117/1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1529
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/106/65/s715/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs715%2Fb
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F690
 
 

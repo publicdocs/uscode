@@ -177,7 +177,7 @@
 
         (3) The determination of the Secretary concerned as to extraordinary heroism is conclusive for all purposes.
 
-(Added [Pub. L. 96–342, title VIII, § 813(b)(3)(A)][/us/pl/96/342/s813/b/3/A], Sept. 8, 1980, [94 Stat. 1102][/us/stat/94/1102]; amended [Pub. L. 96–513, title V, § 511(51)(A)][/us/pl/96/513/s511/51/A], (B), Dec. 12, 1980, [94 Stat. 2924][/us/stat/94/2924]; [Pub. L. 98–94, title IX][/us/pl/98/94], §§ 922(a)(5), (6), 923(a)(1), (2)(D), (E), Sept. 24, 1983, [97 Stat. 641][/us/stat/97/641], 642; [Pub. L. 99–348, title II, § 201(b)(1)][/us/pl/99/348/s201/b/1], (2), July 1, 1986, [100 Stat. 693][/us/stat/100/693]; [Pub. L. 102–484, div. A, title VI, § 642(b)][/us/pl/102/484/s642/b], Oct. 23, 1992, [106 Stat. 2425][/us/stat/106/2425]; [Pub. L. 111–383, div. A, title VI, § 631(c)][/us/pl/111/383/s631/c], Jan. 7, 2011, [124 Stat. 4239][/us/stat/124/4239].)
+(Added [Pub. L. 96–342, title VIII][/us/pl/96/342/tVIII], § 813(b)(3)(A), Sept. 8, 1980, [94 Stat. 1102][/us/stat/94/1102]; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(51)(A), (B), Dec. 12, 1980, [94 Stat. 2924][/us/stat/94/2924]; [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], §§ 922(a)(5), (6), 923(a)(1), (2)(D), (E), Sept. 24, 1983, [97 Stat. 641][/us/stat/97/641], 642; [Pub. L. 99–348, title II][/us/pl/99/348/tII], § 201(b)(1), (2), July 1, 1986, [100 Stat. 693][/us/stat/100/693]; [Pub. L. 102–484, div. A, title VI][/us/pl/102/484/dA/tVI], § 642(b), Oct. 23, 1992, [106 Stat. 2425][/us/stat/106/2425]; [Pub. L. 111–383, div. A, title VI][/us/pl/111/383/dA/tVI], § 631(c), Jan. 7, 2011, [124 Stat. 4239][/us/stat/124/4239].)
 
  __Amendments__ 
 
@@ -185,27 +185,27 @@
 
     1992—Subsec. (f). [Pub. L. 102–484][/us/pl/102/484] added subsec. (f).
 
-    1986—Subsec. (a). [Pub. L. 99–348, § 201(b)(1)][/us/pl/99/348/s201/b/1], amended subsec. (a) generally. Prior to the amendment, subsec. (a) read as follows: “A member of an armed force who first became a member of a uniformed service (as defined in [section 1407(a)(2) of this title][/us/usc/t10/s1407/a/2]) after September 7, 1980, who has become entitled to retired pay or retainer pay, and who thereafter serves on active duty (other than for training), is entitled to recompute his retired pay or retainer pay upon his release from that duty according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
+    1986—Subsec. (a). [Pub. L. 99–348][/us/pl/99/348], § 201(b)(1), amended subsec. (a) generally. Prior to the amendment, subsec. (a) read as follows: “A member of an armed force who first became a member of a uniformed service (as defined in [section 1407(a)(2) of this title][/us/usc/t10/s1407/a/2]) after September 7, 1980, who has become entitled to retired pay or retainer pay, and who thereafter serves on active duty (other than for training), is entitled to recompute his retired pay or retainer pay upon his release from that duty according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
 
-    Subsec. (b). [Pub. L. 99–348, § 201(b)(2)(A)][/us/pl/99/348/s201/b/2/A], inserted heading.
+    Subsec. (b). [Pub. L. 99–348][/us/pl/99/348], § 201(b)(2)(A), inserted heading.
 
-    Subsec. (c). [Pub. L. 99–348, § 201(b)(2)(B)][/us/pl/99/348/s201/b/2/B], inserted heading.
+    Subsec. (c). [Pub. L. 99–348][/us/pl/99/348], § 201(b)(2)(B), inserted heading.
 
-    Subsec. (d). [Pub. L. 99–348, § 201(b)(2)(C)][/us/pl/99/348/s201/b/2/C], inserted heading, struck out provision that if the amount recomputed is not a multiple of $1, it be rounded to the next lower multiple of $1, and in column 1 of table struck out “monthly” before “retired pay” and in column 4 of table struck out “monthly” before “retired or”.
+    Subsec. (d). [Pub. L. 99–348][/us/pl/99/348], § 201(b)(2)(C), inserted heading, struck out provision that if the amount recomputed is not a multiple of $1, it be rounded to the next lower multiple of $1, and in column 1 of table struck out “monthly” before “retired pay” and in column 4 of table struck out “monthly” before “retired or”.
 
-    Subsec. (e). [Pub. L. 99–348, § 201(b)(2)(D)][/us/pl/99/348/s201/b/2/D], inserted heading.
+    Subsec. (e). [Pub. L. 99–348][/us/pl/99/348], § 201(b)(2)(D), inserted heading.
 
-    1983—Subsec. (a). [Pub. L. 98–94, § 922(a)(5)][/us/pl/98/94/s922/a/5], substituted “according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.” for “as follows:”.
+    1983—Subsec. (a). [Pub. L. 98–94][/us/pl/98/94], § 922(a)(5), substituted “according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.” for “as follows:”.
 
-    [Pub. L. 98–94, § 923(a)(1)][/us/pl/98/94/s923/a/1], (2)(D), in footnote 1 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
+    [Pub. L. 98–94][/us/pl/98/94], § 923(a)(1), (2)(D), in footnote 1 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
 
-    Subsec. (d). [Pub. L. 98–94, § 922(a)(6)][/us/pl/98/94/s922/a/6], substituted “according to the following table. The amount computed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.” for “as follows:”.
+    Subsec. (d). [Pub. L. 98–94][/us/pl/98/94], § 922(a)(6), substituted “according to the following table. The amount computed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.” for “as follows:”.
 
-    [Pub. L. 98–94, § 923(a)(1)][/us/pl/98/94/s923/a/1], (2)(E), in footnote 1 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
+    [Pub. L. 98–94][/us/pl/98/94], § 923(a)(1), (2)(E), in footnote 1 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
 
-    1980—[Pub. L. 96–513, § 511(51)(B)][/us/pl/96/513/s511/51/B], substituted “of members who first became members after September 7, 1980” for “in case of members who first became members after the enactment of the Department of Defense Authorization Act, 1981” in section catchline.
+    1980—[Pub. L. 96–513][/us/pl/96/513], § 511(51)(B), substituted “of members who first became members after September 7, 1980” for “in case of members who first became members after the enactment of the Department of Defense Authorization Act, 1981” in section catchline.
 
-    Subsecs. (a) to (c). [Pub. L. 96–513, § 511(51)(A)][/us/pl/96/513/s511/51/A], substituted “after September 7, 1980” for “on or after the date of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing.
+    Subsecs. (a) to (c). [Pub. L. 96–513][/us/pl/96/513], § 511(51)(A), substituted “after September 7, 1980” for “on or after the date of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing.
 
  __Effective Date of 2011 Amendment__ 
 
@@ -234,32 +234,32 @@
 
 [/us/usc/t10/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a
 [/us/usc/t10/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a
-[/us/pl/96/342/s813/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs813%2Fb%2F3%2FA
+[/us/pl/96/342/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtVIII
 [/us/stat/94/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1102
-[/us/pl/96/513/s511/51/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F51%2FA
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2924
-[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F641
-[/us/pl/99/348/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs201%2Fb%2F1
+[/us/pl/99/348/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtII
 [/us/stat/100/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F693
-[/us/pl/102/484/s642/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs642%2Fb
+[/us/pl/102/484/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVI
 [/us/stat/106/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2425
-[/us/pl/111/383/s631/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs631%2Fc
+[/us/pl/111/383/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVI
 [/us/stat/124/4239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/99/348/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs201%2Fb%2F1
+[/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
 [/us/usc/t10/s1407/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1407%2Fa%2F2
-[/us/pl/99/348/s201/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs201%2Fb%2F2%2FA
-[/us/pl/99/348/s201/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs201%2Fb%2F2%2FB
-[/us/pl/99/348/s201/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs201%2Fb%2F2%2FC
-[/us/pl/99/348/s201/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs201%2Fb%2F2%2FD
-[/us/pl/98/94/s922/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs922%2Fa%2F5
-[/us/pl/98/94/s923/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs923%2Fa%2F1
-[/us/pl/98/94/s922/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs922%2Fa%2F6
-[/us/pl/98/94/s923/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs923%2Fa%2F1
-[/us/pl/96/513/s511/51/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F51%2FB
-[/us/pl/96/513/s511/51/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F51%2FA
+[/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
+[/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
+[/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
+[/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/383/s631/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs631%2Fd
 [/us/usc/t10/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401

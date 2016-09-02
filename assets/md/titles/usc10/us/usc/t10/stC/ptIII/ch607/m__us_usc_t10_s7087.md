@@ -29,7 +29,7 @@
 
     (c) The annuity payable under this section to the beneficiary of a deceased civilian member shall be terminated upon the death of the beneficiary.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 440][/us/stat/70A/440]; [Pub. L. 97–295, § 1(45)][/us/pl/97/295/s1/45], Oct. 12, 1982, [96 Stat. 1298][/us/stat/96/1298].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 440][/us/stat/70A/440]; [Pub. L. 97–295][/us/pl/97/295], § 1(45), Oct. 12, 1982, [96 Stat. 1298][/us/stat/96/1298].)
 
 <table>
 
@@ -102,7 +102,7 @@ Jan. 16, 1936, ch. 3, § 4C; added Aug. 2, 1946, ch. 740, 60 Stat. 805.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F440
-[/us/pl/97/295/s1/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F45
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1298
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295

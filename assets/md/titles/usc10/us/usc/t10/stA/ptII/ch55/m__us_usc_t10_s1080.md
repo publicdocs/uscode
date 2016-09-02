@@ -29,7 +29,7 @@
 
         (2) The Secretary of Defense may waive the requirement to obtain nonavailability-of-health-care statements following an evaluation of the effectiveness of such statements in optimizing the use of facilities of the uniformed services.
 
-(Added [Pub. L. 85–861, § 1(25)(B)][/us/pl/85/861/s1/25/B], Sept. 2, 1958, [72 Stat. 1449][/us/stat/72/1449]; amended [Pub. L. 96–513, title V, § 511(36)][/us/pl/96/513/s511/36], Dec. 12, 1980, [94 Stat. 2923][/us/stat/94/2923]; [Pub. L. 98–557, § 19(8)][/us/pl/98/557/s19/8], Oct. 30, 1984, [98 Stat. 2870][/us/stat/98/2870]; [Pub. L. 103–160, div. A, title VII, § 716(b)(1)][/us/pl/103/160/s716/b/1], Nov. 30, 1993, [107 Stat. 1692][/us/stat/107/1692]; [Pub. L. 104–201, div. A, title VII, § 734(a)(1)][/us/pl/104/201/s734/a/1], (b)(1), (c), Sept. 23, 1996, [110 Stat. 2598][/us/stat/110/2598]; [Pub. L. 106–65, div. A, title VII, § 712(c)][/us/pl/106/65/s712/c], Oct. 5, 1999, [113 Stat. 687][/us/stat/113/687].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(25)(B), Sept. 2, 1958, [72 Stat. 1449][/us/stat/72/1449]; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(36), Dec. 12, 1980, [94 Stat. 2923][/us/stat/94/2923]; [Pub. L. 98–557][/us/pl/98/557], § 19(8), Oct. 30, 1984, [98 Stat. 2870][/us/stat/98/2870]; [Pub. L. 103–160, div. A, title VII][/us/pl/103/160/dA/tVII], § 716(b)(1), Nov. 30, 1993, [107 Stat. 1692][/us/stat/107/1692]; [Pub. L. 104–201, div. A, title VII][/us/pl/104/201/dA/tVII], § 734(a)(1), (b)(1), (c), Sept. 23, 1996, [110 Stat. 2598][/us/stat/110/2598]; [Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 712(c), Oct. 5, 1999, [113 Stat. 687][/us/stat/113/687].)
 
 <table>
 
@@ -79,17 +79,17 @@ June 7, 1956, ch. 374, § 201(c), 70 Stat. 252.  </td>
 
  __Prior Provisions__ 
 
-    A prior section 1080, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 85][/us/stat/70A/85], related to style and marking of envelopes, inserts, return envelopes, and to weight of ballots, prior to repeal by [Pub. L. 85–861, § 36B(5)][/us/pl/85/861/s36B/5], Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570], as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+    A prior section 1080, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 85][/us/stat/70A/85], related to style and marking of envelopes, inserts, return envelopes, and to weight of ballots, prior to repeal by [Pub. L. 85–861][/us/pl/85/861], § 36B(5), Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570], as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
  __Amendments__ 
 
     1999—Subsec. (b). [Pub. L. 106–65][/us/pl/106/65] inserted at end “Notwithstanding any other provision of law, with respect to obstetrics and gynecological care for beneficiaries not enrolled in a managed care plan offered pursuant to any contract or agreement under this chapter, a nonavailability-of-health-care statement shall be required for receipt of health care services related to outpatient prenatal, outpatient or inpatient delivery, and outpatient post-partum care subsequent to the visit which confirms the pregnancy.”
 
-    1996—Subsec. (a). [Pub. L. 104–201, § 734(a)(1)][/us/pl/104/201/s734/a/1], inserted “inpatient” before “medical care” in first sentence.
+    1996—Subsec. (a). [Pub. L. 104–201][/us/pl/104/201], § 734(a)(1), inserted “inpatient” before “medical care” in first sentence.
 
-    Subsec. (b). [Pub. L. 104–201, § 734(c)][/us/pl/104/201/s734/c], substituted “Nonavailability-of-Health-Care Statements” for “Nonavailability of Health Care Statements” in heading and “nonavailability-of-health-care statement” for “nonavailability of health care statement” in text.
+    Subsec. (b). [Pub. L. 104–201][/us/pl/104/201], § 734(c), substituted “Nonavailability-of-Health-Care Statements” for “Nonavailability of Health Care Statements” in heading and “nonavailability-of-health-care statement” for “nonavailability of health care statement” in text.
 
-    Subsec. (c). [Pub. L. 104–201, § 734(b)(1)][/us/pl/104/201/s734/b/1], added subsec. (c).
+    Subsec. (c). [Pub. L. 104–201][/us/pl/104/201], § 734(b)(1), added subsec. (c).
 
     1993—[Pub. L. 103–160][/us/pl/103/160] designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -110,27 +110,27 @@ June 7, 1956, ch. 374, § 201(c), 70 Stat. 252.  </td>
 
 [/us/usc/t10/s1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079
 [/us/usc/t10/s1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079
-[/us/pl/85/861/s1/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F25%2FB
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1449
-[/us/pl/96/513/s511/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F36
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2923
-[/us/pl/98/557/s19/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs19%2F8
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2870
-[/us/pl/103/160/s716/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs716%2Fb%2F1
+[/us/pl/103/160/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVII
 [/us/stat/107/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1692
-[/us/pl/104/201/s734/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs734%2Fa%2F1
+[/us/pl/104/201/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVII
 [/us/stat/110/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2598
-[/us/pl/106/65/s712/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs712%2Fc
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F687
 [/us/usc/t10/s1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F85
-[/us/pl/85/861/s36B/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs36B%2F5
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1570
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/104/201/s734/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs734%2Fa%2F1
-[/us/pl/104/201/s734/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs734%2Fc
-[/us/pl/104/201/s734/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs734%2Fb%2F1
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

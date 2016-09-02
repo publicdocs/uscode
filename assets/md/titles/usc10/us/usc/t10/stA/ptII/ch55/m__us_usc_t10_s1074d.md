@@ -41,25 +41,25 @@
 
         (8) Colon cancer screening, at the intervals and using the screening methods prescribed under subsection (a)(2).
 
-(Added [Pub. L. 103–160, div. A, title VII, § 701(a)(1)][/us/pl/103/160/s701/a/1], Nov. 30, 1993, [107 Stat. 1685][/us/stat/107/1685]; amended [Pub. L. 104–201, div. A, title VII, § 701(a)(1)][/us/pl/104/201/s701/a/1], (2)(A), Sept. 23, 1996, [110 Stat. 2587][/us/stat/110/2587]; [Pub. L. 109–364, div. A, title VII, § 703(a)][/us/pl/109/364/s703/a], Oct. 17, 2006, [120 Stat. 2279][/us/stat/120/2279].)
+(Added [Pub. L. 103–160, div. A, title VII][/us/pl/103/160/dA/tVII], § 701(a)(1), Nov. 30, 1993, [107 Stat. 1685][/us/stat/107/1685]; amended [Pub. L. 104–201, div. A, title VII][/us/pl/104/201/dA/tVII], § 701(a)(1), (2)(A), Sept. 23, 1996, [110 Stat. 2587][/us/stat/110/2587]; [Pub. L. 109–364, div. A, title VII][/us/pl/109/364/dA/tVII], § 703(a), Oct. 17, 2006, [120 Stat. 2279][/us/stat/120/2279].)
 
  __Amendments__ 
 
-    2006—Subsec. (a)(1). [Pub. L. 109–364, § 703(a)(1)][/us/pl/109/364/s703/a/1], inserted at end “The services described in paragraphs (1) and (2) of subsection (b) shall be provided under such procedures and at such intervals as the Secretary of Defense shall prescribe.”
+    2006—Subsec. (a)(1). [Pub. L. 109–364][/us/pl/109/364], § 703(a)(1), inserted at end “The services described in paragraphs (1) and (2) of subsection (b) shall be provided under such procedures and at such intervals as the Secretary of Defense shall prescribe.”
 
-    Subsec. (b)(1). [Pub. L. 109–364, § 703(a)(2)(A)][/us/pl/109/364/s703/a/2/A], substituted “Cervical cancer screening” for “Papanicolaou tests (pap smear)”.
+    Subsec. (b)(1). [Pub. L. 109–364][/us/pl/109/364], § 703(a)(2)(A), substituted “Cervical cancer screening” for “Papanicolaou tests (pap smear)”.
 
-    Subsec. (b)(2). [Pub. L. 109–364, § 703(a)(2)(B)][/us/pl/109/364/s703/a/2/B], substituted “Breast cancer screening” for “Breast examinations and mammography”.
+    Subsec. (b)(2). [Pub. L. 109–364][/us/pl/109/364], § 703(a)(2)(B), substituted “Breast cancer screening” for “Breast examinations and mammography”.
 
-    1996—[Pub. L. 104–201, § 701(a)(2)(A)][/us/pl/104/201/s701/a/2/A], amended catchline generally, substituting “Certain primary and preventive health care services” for “Primary and preventive health care services for women”.
+    1996—[Pub. L. 104–201][/us/pl/104/201], § 701(a)(2)(A), amended catchline generally, substituting “Certain primary and preventive health care services” for “Primary and preventive health care services for women”.
 
-    Subsec. (a). [Pub. L. 104–201, § 701(a)(1)(A)][/us/pl/104/201/s701/a/1/A], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (a). [Pub. L. 104–201][/us/pl/104/201], § 701(a)(1)(A), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (b)(8). [Pub. L. 104–201, § 701(a)(1)(B)][/us/pl/104/201/s701/a/1/B], added par. (8).
+    Subsec. (b)(8). [Pub. L. 104–201][/us/pl/104/201], § 701(a)(1)(B), added par. (8).
 
  __Comprehensive Standards and Access to Contraception Counseling for Members of the Armed Forces__ 
 
-[Pub. L. 114–92, div. A, title VII, § 718][/us/pl/114/92/s718], Nov. 25, 2015, [129 Stat. 868][/us/stat/129/868], provided that:
+[Pub. L. 114–92, div. A, title VII][/us/pl/114/92/dA/tVII], § 718, Nov. 25, 2015, [129 Stat. 868][/us/stat/129/868], provided that:
 
 >     “(a) __Clinical Practice Guidelines.—__ 
 
@@ -97,7 +97,7 @@
 
  __Defense Women’s Health Research Program__ 
 
-[Pub. L. 103–337, div. A, title II, § 241][/us/pl/103/337/s241], Oct. 5, 1994, [108 Stat. 2701][/us/stat/108/2701], provided that:
+[Pub. L. 103–337, div. A, title II][/us/pl/103/337/dA/tII], § 241, Oct. 5, 1994, [108 Stat. 2701][/us/stat/108/2701], provided that:
 
 >     “(a)  __Continuation of Program__  __.—__ 
 
@@ -133,7 +133,7 @@
 
 >     Of the amount authorized to be appropriated pursuant to section 201 \[[108 Stat. 2690][/us/stat/108/2690]\], $40,000,000 shall be available for the Defense Women’s Health Research Program referred to in subsection (a).”
 
-[Pub. L. 103–160, div. A, title II, § 251][/us/pl/103/160/s251], Nov. 30, 1993, [107 Stat. 1606][/us/stat/107/1606], provided that:
+[Pub. L. 103–160, div. A, title II][/us/pl/103/160/dA/tII], § 251, Nov. 30, 1993, [107 Stat. 1606][/us/stat/107/1606], provided that:
 
 >     “(a)  __Authority To Establish Center__  __.—__ 
 
@@ -185,7 +185,7 @@
 
  __Report on Provision of Primary and Preventative Health Care Services for Women__ 
 
-    [Pub. L. 103–160, div. A, title VII, § 735][/us/pl/103/160/s735], Nov. 30, 1993, [107 Stat. 1698][/us/stat/107/1698], directed the Secretary of Defense to prepare a report evaluating the provision of primary and preventive health care services through military medical treatment facilities and the Civilian Health and Medical Program of the Uniformed Services to female members of the uniformed services and female covered beneficiaries eligible for health care under this chapter, and directed the Secretary, as part of such report, to conduct a study to determine the health care needs of female members and female covered beneficiaries, and to submit such report to Congress not later than Oct. 1, 1994, and a revised report not later than Oct. 1, 1999.
+    [Pub. L. 103–160, div. A, title VII][/us/pl/103/160/dA/tVII], § 735, Nov. 30, 1993, [107 Stat. 1698][/us/stat/107/1698], directed the Secretary of Defense to prepare a report evaluating the provision of primary and preventive health care services through military medical treatment facilities and the Civilian Health and Medical Program of the Uniformed Services to female members of the uniformed services and female covered beneficiaries eligible for health care under this chapter, and directed the Secretary, as part of such report, to conduct a study to determine the health care needs of female members and female covered beneficiaries, and to submit such report to Congress not later than Oct. 1, 1994, and a revised report not later than Oct. 1, 1999.
 
 ----------
 
@@ -194,30 +194,30 @@
 ----------
 ----------
 
-[/us/pl/103/160/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs701%2Fa%2F1
+[/us/pl/103/160/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVII
 [/us/stat/107/1685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1685
-[/us/pl/104/201/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs701%2Fa%2F1
+[/us/pl/104/201/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVII
 [/us/stat/110/2587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2587
-[/us/pl/109/364/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs703%2Fa
+[/us/pl/109/364/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVII
 [/us/stat/120/2279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2279
-[/us/pl/109/364/s703/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs703%2Fa%2F1
-[/us/pl/109/364/s703/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs703%2Fa%2F2%2FA
-[/us/pl/109/364/s703/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs703%2Fa%2F2%2FB
-[/us/pl/104/201/s701/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs701%2Fa%2F2%2FA
-[/us/pl/104/201/s701/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs701%2Fa%2F1%2FA
-[/us/pl/104/201/s701/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs701%2Fa%2F1%2FB
-[/us/pl/114/92/s718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs718
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/114/92/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVII
 [/us/stat/129/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F868
-[/us/pl/103/337/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs241
+[/us/pl/103/337/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtII
 [/us/stat/108/2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2701
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/stat/107/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1606
 [/us/pl/103/160/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs251
 [/us/stat/108/2690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2690
-[/us/pl/103/160/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs251
+[/us/pl/103/160/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtII
 [/us/stat/107/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1606
 [/us/stat/107/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1583
-[/us/pl/103/160/s735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs735
+[/us/pl/103/160/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVII
 [/us/stat/107/1698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1698
 
 

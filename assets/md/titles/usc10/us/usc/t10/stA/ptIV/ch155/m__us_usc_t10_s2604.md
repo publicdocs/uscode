@@ -35,17 +35,17 @@
 
     (f) For the purposes of this section, employees of the United Seamen’s Service may not be considered as employees of the United States.
 
-(Added [Pub. L. 91–603, § 3(1)][/us/pl/91/603/s3/1], Dec. 31, 1970, [84 Stat. 1674][/us/stat/84/1674].)
+(Added [Pub. L. 91–603][/us/pl/91/603], § 3(1), Dec. 31, 1970, [84 Stat. 1674][/us/stat/84/1674].)
 
  __Short Title__ 
 
-[Pub. L. 91–603, § 1][/us/pl/91/603/s1], Dec. 31, 1970, [84 Stat. 1674][/us/stat/84/1674], provided: 
+[Pub. L. 91–603][/us/pl/91/603], § 1, Dec. 31, 1970, [84 Stat. 1674][/us/stat/84/1674], provided: 
 
 > “That this Act \[enacting this section, amending sections 1151, 1152, 1171, and 1223 of Title 46, Appendix, Shipping, and enacting provisions set out as a note under this section\] may be cited as the ‘Seamen’s Service Act’.”
 
  __Congressional Declaration of Purpose__ 
 
-[Pub. L. 91–603, § 2][/us/pl/91/603/s2], Dec. 31, 1970, [84 Stat. 1674][/us/stat/84/1674], provided that: 
+[Pub. L. 91–603][/us/pl/91/603], § 2, Dec. 31, 1970, [84 Stat. 1674][/us/stat/84/1674], provided that: 
 
 > “It is the purpose of this Act \[enacting this section and amending sections 1151, 1152, 1171 and 1223 of Title 46, Appendix, Shipping\], by authorizing appropriate departments and agencies of the United States Government to cooperate with the United Seamen’s Service (a nonprofit, charitable organization incorporated under the laws of the State of New York) in the establishment and operation of facilities for United States merchant seamen in foreign areas, to promote the welfare of such seamen, essential to the overall interests of shipment of United States goods and supplies to such areas.”
 
@@ -56,11 +56,11 @@
 ----------
 ----------
 
-[/us/pl/91/603/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F603%2Fs3%2F1
+[/us/pl/91/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F603
 [/us/stat/84/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1674
-[/us/pl/91/603/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F603%2Fs1
+[/us/pl/91/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F603
 [/us/stat/84/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1674
-[/us/pl/91/603/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F603%2Fs2
+[/us/pl/91/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F603
 [/us/stat/84/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1674
 
 

@@ -33,11 +33,11 @@
 
             (C) fails to complete the minimum two years of service solely because the appointment of the member to such position is terminated or vacated as described in [section 324(b) of title 32][/us/usc/t32/s324/b].
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1662(k)(1)][/us/pl/103/337/s1662/k/1], Oct. 5, 1994, [108 Stat. 3005][/us/stat/108/3005]; amended [Pub. L. 111–84, div. A, title VI, § 642(b)][/us/pl/111/84/s642/b], Oct. 28, 2009, [123 Stat. 2365][/us/stat/123/2365].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(k)(1), Oct. 5, 1994, [108 Stat. 3005][/us/stat/108/3005]; amended [Pub. L. 111–84, div. A, title VI][/us/pl/111/84/dA/tVI], § 642(b), Oct. 28, 2009, [123 Stat. 2365][/us/stat/123/2365].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in section 1374(b), (f) of this title, prior to repeal by [Pub. L. 103–337, § 1662(k)(2)][/us/pl/103/337/s1662/k/2].
+    Provisions similar to those in this section were contained in section 1374(b), (f) of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1662(k)(2).
 
  __Amendments__ 
 
@@ -59,11 +59,11 @@
 [/us/usc/t10/s1370/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1370%2Fd
 [/us/usc/t32/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs314
 [/us/usc/t32/s324/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs324%2Fb
-[/us/pl/103/337/s1662/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fk%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3005
-[/us/pl/111/84/s642/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs642%2Fb
+[/us/pl/111/84/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVI
 [/us/stat/123/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2365
-[/us/pl/103/337/s1662/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fk%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001

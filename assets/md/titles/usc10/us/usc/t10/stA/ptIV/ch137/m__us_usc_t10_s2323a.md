@@ -67,11 +67,11 @@
 
         (4) The term “tribally owned corporation” means a corporation owned entirely by an Indian tribe.
 
-(Added [Pub. L. 102–484, div. A, title VIII, § 801(g)(1)][/us/pl/102/484/s801/g/1], Oct. 23, 1992, [106 Stat. 2445][/us/stat/106/2445]; amended [Pub. L. 104–201, div. A, title X, § 1074(a)(13)][/us/pl/104/201/s1074/a/13], Sept. 23, 1996, [110 Stat. 2659][/us/stat/110/2659].)
+(Added [Pub. L. 102–484, div. A, title VIII][/us/pl/102/484/dA/tVIII], § 801(g)(1), Oct. 23, 1992, [106 Stat. 2445][/us/stat/106/2445]; amended [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1074(a)(13), Sept. 23, 1996, [110 Stat. 2659][/us/stat/110/2659].)
 
  __Codification__ 
 
-    Section, as added by [Pub. L. 102–484][/us/pl/102/484], consists of text of [Pub. L. 101–189, div. A, title VIII, § 832][/us/pl/101/189/s832], Nov. 29, 1989, [103 Stat. 1508][/us/stat/103/1508], revised by [Pub. L. 102–484][/us/pl/102/484] by substituting “[section 2323 of this title][/us/usc/t10/s2323]” for “section 1207 of the National Defense Authorization Act for Fiscal Year 1987 ([10 U.S.C. 2301][/us/usc/t10/s2301] note)” in subsec. (a). [Section 832 of Pub. L. 101–189][/us/pl/101/189/s832], which was formerly set out as a note under [section 2301 of this title][/us/usc/t10/s2301], was repealed by [Pub. L. 102–484, div. A, title VIII, § 801(h)(5)][/us/pl/102/484/s801/h/5], Oct. 23, 1992, [106 Stat. 2445][/us/stat/106/2445].
+    Section, as added by [Pub. L. 102–484][/us/pl/102/484], consists of text of [Pub. L. 101–189, div. A, title VIII][/us/pl/101/189/dA/tVIII], § 832, Nov. 29, 1989, [103 Stat. 1508][/us/stat/103/1508], revised by [Pub. L. 102–484][/us/pl/102/484] by substituting “[section 2323 of this title][/us/usc/t10/s2323]” for “section 1207 of the National Defense Authorization Act for Fiscal Year 1987 ([10 U.S.C. 2301][/us/usc/t10/s2301] note)” in subsec. (a). [Section 832 of Pub. L. 101–189][/us/pl/101/189/s832], which was formerly set out as a note under [section 2301 of this title][/us/usc/t10/s2301], was repealed by [Pub. L. 102–484, div. A, title VIII][/us/pl/102/484/dA/tVIII], § 801(h)(5), Oct. 23, 1992, [106 Stat. 2445][/us/stat/106/2445].
 
  __Amendments__ 
 
@@ -90,19 +90,19 @@
 [/us/usc/t25/s2703/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2703%2F4
 [/us/usc/t25/s450b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fd
 [/us/usc/t25/s450b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fe
-[/us/pl/102/484/s801/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs801%2Fg%2F1
+[/us/pl/102/484/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVIII
 [/us/stat/106/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2445
-[/us/pl/104/201/s1074/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fa%2F13
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2659
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/101/189/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs832
+[/us/pl/101/189/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVIII
 [/us/stat/103/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1508
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t10/s2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2323
 [/us/usc/t10/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2301
 [/us/pl/101/189/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs832
 [/us/usc/t10/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2301
-[/us/pl/102/484/s801/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs801%2Fh%2F5
+[/us/pl/102/484/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVIII
 [/us/stat/106/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2445
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t10/s2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2323

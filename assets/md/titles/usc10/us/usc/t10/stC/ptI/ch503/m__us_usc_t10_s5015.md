@@ -19,7 +19,7 @@
 
     (b) The Under Secretary shall perform such duties and exercise such powers as the Secretary of the Navy may prescribe.
 
-(Added [Pub. L. 99–433, title V, § 511(c)(4)][/us/pl/99/433/s511/c/4], Oct. 1, 1986, [100 Stat. 1047][/us/stat/100/1047].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 511(c)(4), Oct. 1, 1986, [100 Stat. 1047][/us/stat/100/1047].)
 
  __Prior Provisions__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/99/433/s511/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fc%2F4
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1047
 [/us/usc/t10/s5033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5033
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433

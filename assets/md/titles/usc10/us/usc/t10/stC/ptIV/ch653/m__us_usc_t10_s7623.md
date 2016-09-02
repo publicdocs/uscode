@@ -45,7 +45,7 @@
 
     (e) This section does not apply to any claim while there is pending as to that claim a suit filed by or against the United States.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 472][/us/stat/70A/472]; [Pub. L. 89–67][/us/pl/89/67], July 7, 1965, [79 Stat. 212][/us/stat/79/212]; [Pub. L. 101–189, div. A, title XVI, § 1633][/us/pl/101/189/s1633], Nov. 29, 1989, [103 Stat. 1608][/us/stat/103/1608]; [Pub. L. 107–107, div. A, title X, § 1014(b)][/us/pl/107/107/s1014/b], Dec. 28, 2001, [115 Stat. 1212][/us/stat/115/1212]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1032, Oct. 14, 2008, [122 Stat. 4591][/us/stat/122/4591].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 472][/us/stat/70A/472]; [Pub. L. 89–67][/us/pl/89/67], July 7, 1965, [79 Stat. 212][/us/stat/79/212]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1633, Nov. 29, 1989, [103 Stat. 1608][/us/stat/103/1608]; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1014(b), Dec. 28, 2001, [115 Stat. 1212][/us/stat/115/1212]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1032, Oct. 14, 2008, [122 Stat. 4591][/us/stat/122/4591].)
 
 <table>
 
@@ -139,9 +139,9 @@ Dec. 5, 1945, ch. 555, § 3, 59 Stat. 596.  </td>
 
     2008—Subsec. (b). [Pub. L. 110–417][/us/pl/110/417] designated existing provisions as par. (1), struck out last sentence which read “Amounts received under this section shall be covered into the Treasury.”, and added par. (2).
 
-    2001—Subsec. (a)(2). [Pub. L. 107–107, § 1014(b)(1)][/us/pl/107/107/s1014/b/1], substituted “$15,000,000” for “$1,000,000”.
+    2001—Subsec. (a)(2). [Pub. L. 107–107][/us/pl/107/107], § 1014(b)(1), substituted “$15,000,000” for “$1,000,000”.
 
-    Subsec. (c). [Pub. L. 107–107, § 1014(b)(2)][/us/pl/107/107/s1014/b/2], substituted “$1,000,000” for “$100,000”.
+    Subsec. (c). [Pub. L. 107–107][/us/pl/107/107], § 1014(b)(2), substituted “$1,000,000” for “$100,000”.
 
     1989—Subsec. (c). [Pub. L. 101–189][/us/pl/101/189] substituted “$100,000” for “$10,000”.
 
@@ -162,17 +162,17 @@ Dec. 5, 1945, ch. 555, § 3, 59 Stat. 596.  </td>
 [/us/stat/70A/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F472
 [/us/pl/89/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F67
 [/us/stat/79/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F212
-[/us/pl/101/189/s1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1633
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1608
-[/us/pl/107/107/s1014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1014%2Fb
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1212
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4591
 [/us/usc/t10/s7621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7621%2Fb
 [/us/usc/t34/s600a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs600a
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/107/107/s1014/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1014%2Fb%2F1
-[/us/pl/107/107/s1014/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1014%2Fb%2F2
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/89/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F67
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107

@@ -83,9 +83,9 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–81, div. A, title IX, § 923(b)(2)][/us/pl/112/81/s923/b/2], Dec. 31, 2011, [125 Stat. 1539][/us/stat/125/1539], added item 454 and struck out former item 454 “Exchange of mapping, charting, and geodetic data with foreign countries and international organizations”.
+    2011—[Pub. L. 112–81, div. A, title IX][/us/pl/112/81/dA/tIX], § 923(b)(2), Dec. 31, 2011, [125 Stat. 1539][/us/stat/125/1539], added item 454 and struck out former item 454 “Exchange of mapping, charting, and geodetic data with foreign countries and international organizations”.
 
-    1999—[Pub. L. 106–65, div. A, title X][/us/pl/106/65], §§ 1010(b), 1045(b), Oct. 5, 1999, [113 Stat. 739][/us/stat/113/739], 763, substituted “Sale of maps, charts, and navigational publications: prices; use of proceeds” for “Prices of maps, charts, and navigational publications” in item 453 and added item 457.
+    1999—[Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], §§ 1010(b), 1045(b), Oct. 5, 1999, [113 Stat. 739][/us/stat/113/739], 763, substituted “Sale of maps, charts, and navigational publications: prices; use of proceeds” for “Prices of maps, charts, and navigational publications” in item 453 and added item 457.
 
 ----------
 
@@ -94,9 +94,9 @@
 ----------
 ----------
 
-[/us/pl/112/81/s923/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs923%2Fb%2F2
+[/us/pl/112/81/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIX
 [/us/stat/125/1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1539
-[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F739
 
 

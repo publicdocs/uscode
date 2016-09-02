@@ -73,11 +73,11 @@
 
     If the Secretary determines that a commercial or foreign entity has declined or is reluctant to provide data or information to the Secretary in accordance with this section due to the concerns of such entity about the potential disclosure of such data or information, the Secretary shall, not later than 60 days after the Secretary makes that determination, provide notice to the congressional defense committees of the declination or reluctance of such entity.
 
-(Added [Pub. L. 108–136, div. A, title IX, § 913(a)][/us/pl/108/136/s913/a], Nov. 24, 2003, [117 Stat. 1565][/us/stat/117/1565]; amended [Pub. L. 109–364, div. A, title IX, § 912][/us/pl/109/364/s912], Oct. 17, 2006, [120 Stat. 2355][/us/stat/120/2355]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 911, Oct. 14, 2008, [122 Stat. 4571][/us/stat/122/4571]; [Pub. L. 111–84, div. A, title IX, § 912(a)][/us/pl/111/84/s912/a], Oct. 28, 2009, [123 Stat. 2429][/us/stat/123/2429].)
+(Added [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 913(a), Nov. 24, 2003, [117 Stat. 1565][/us/stat/117/1565]; amended [Pub. L. 109–364, div. A, title IX][/us/pl/109/364/dA/tIX], § 912, Oct. 17, 2006, [120 Stat. 2355][/us/stat/120/2355]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 911, Oct. 14, 2008, [122 Stat. 4571][/us/stat/122/4571]; [Pub. L. 111–84, div. A, title IX][/us/pl/111/84/dA/tIX], § 912(a), Oct. 28, 2009, [123 Stat. 2429][/us/stat/123/2429].)
 
  __Prior Provisions__ 
 
-    A prior section 2274, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 126][/us/stat/70A/126], which related to procurement for experimental purposes, was repealed by [Pub. L. 103–160, div. A, title VIII, § 821(a)(1)][/us/pl/103/160/s821/a/1], Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
+    A prior section 2274, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 126][/us/stat/70A/126], which related to procurement for experimental purposes, was repealed by [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 821(a)(1), Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
 
  __Amendments__ 
 
@@ -89,7 +89,7 @@
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–84, div. A, title IX, § 912(c)][/us/pl/111/84/s912/c], Oct. 28, 2009, [123 Stat. 2431][/us/stat/123/2431], provided that: 
+[Pub. L. 111–84, div. A, title IX][/us/pl/111/84/dA/tIX], § 912(c), Oct. 28, 2009, [123 Stat. 2431][/us/stat/123/2431], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on October 1, 2009, or the date of the enactment of this Act \[Oct. 28, 2009\], whichever is later.”
 
@@ -100,22 +100,22 @@
 ----------
 ----------
 
-[/us/pl/108/136/s913/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs913%2Fa
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1565
-[/us/pl/109/364/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs912
+[/us/pl/109/364/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIX
 [/us/stat/120/2355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2355
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4571
-[/us/pl/111/84/s912/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs912%2Fa
+[/us/pl/111/84/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIX
 [/us/stat/123/2429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2429
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F126
-[/us/pl/103/160/s821/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs821%2Fa%2F1
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1704
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/111/84/s912/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs912%2Fc
+[/us/pl/111/84/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIX
 [/us/stat/123/2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2431
 
 

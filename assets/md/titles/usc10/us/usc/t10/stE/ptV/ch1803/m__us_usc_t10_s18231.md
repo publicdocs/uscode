@@ -25,7 +25,7 @@
 
     (4) any other use of those facilities by the United States, in time of war or national emergency, to the greatest practicable extent for efficiency and economy.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 120][/us/stat/70A/120], § 2231; [Pub. L. 85–215, § 1][/us/pl/85/215/s1], Aug. 29, 1957, [71 Stat. 489][/us/stat/71/489]; renumbered § 18231, [Pub. L. 103–337, div. A, title XVI, § 1664(b)(2)][/us/pl/103/337/s1664/b/2], Oct. 5, 1994, [108 Stat. 3010][/us/stat/108/3010].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 120][/us/stat/70A/120], § 2231; [Pub. L. 85–215][/us/pl/85/215], § 1, Aug. 29, 1957, [71 Stat. 489][/us/stat/71/489]; renumbered § 18231, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1664(b)(2), Oct. 5, 1994, [108 Stat. 3010][/us/stat/108/3010].)
 
 <table>
 
@@ -90,9 +90,9 @@ Sept. 11, 1950, ch. 945, § 2, 64 Stat. 829.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F120
-[/us/pl/85/215/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F215%2Fs1
+[/us/pl/85/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F215
 [/us/stat/71/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F489
-[/us/pl/103/337/s1664/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1664%2Fb%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3010
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2231

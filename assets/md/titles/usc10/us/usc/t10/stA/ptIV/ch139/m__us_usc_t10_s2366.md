@@ -117,7 +117,7 @@
 
         (8) The term “Milestone C approval” means a decision to enter into production and deployment pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.
 
-(Added [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 910(a)(1)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–143, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 910(a)(1)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–143; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 910(a)(1), Nov. 14, 1986, [100 Stat. 3923][/us/stat/100/3923], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; amended [Pub. L. 100–180, div. A, title VIII, § 802][/us/pl/100/180/s802], title XII, § 1231(11), Dec. 4, 1987, [101 Stat. 1123][/us/stat/101/1123], 1160; [Pub. L. 100–456, div. A, title XII, § 1233][/us/pl/100/456/s1233](l)(3), Sept. 29, 1988, [102 Stat. 2058][/us/stat/102/2058]; [Pub. L. 101–189, div. A, title VIII][/us/pl/101/189], §§ 802(c)(1)–(4)(A), 804, Nov. 29, 1989, [103 Stat. 1486][/us/stat/103/1486], 1488; [Pub. L. 101–510, div. A, title XIV, § 1484(h)(7)][/us/pl/101/510/s1484/h/7], Nov. 5, 1990, [104 Stat. 1718][/us/stat/104/1718]; [Pub. L. 103–160, div. A, title VIII, § 828(d)(2)][/us/pl/103/160/s828/d/2], Nov. 30, 1993, [107 Stat. 1715][/us/stat/107/1715]; [Pub. L. 103–355, title III, § 3014][/us/pl/103/355/s3014], Oct. 13, 1994, [108 Stat. 3332][/us/stat/108/3332]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(18)][/us/pl/104/106/s1502/a/18], Feb. 10, 1996, [110 Stat. 504][/us/stat/110/504]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 107–107, div. A, title VIII, § 821(a)][/us/pl/107/107/s821/a], Dec. 28, 2001, [115 Stat. 1181][/us/stat/115/1181]; [Pub. L. 107–314, div. A, title VIII, § 818][/us/pl/107/314/s818], Dec. 2, 2002, [116 Stat. 2611][/us/stat/116/2611]; [Pub. L. 108–136, div. A, title X, § 1043(b)(13)][/us/pl/108/136/s1043/b/13], Nov. 24, 2003, [117 Stat. 1611][/us/stat/117/1611]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 251(a), (b), Oct. 14, 2008, [122 Stat. 4400][/us/stat/122/4400].)
+(Added [Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title X, § 910(a)(1)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–143, and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 910(a)(1)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–143; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661/dA/tIX], formerly title IV, § 910(a)(1), Nov. 14, 1986, [100 Stat. 3923][/us/stat/100/3923], renumbered title IX, [Pub. L. 100–26][/us/pl/100/26], § 3(5), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; amended [Pub. L. 100–180, div. A, title VIII][/us/pl/100/180/dA/tVIII], § 802, title XII, § 1231(11), Dec. 4, 1987, [101 Stat. 1123][/us/stat/101/1123], 1160; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1233(l)(3), Sept. 29, 1988, [102 Stat. 2058][/us/stat/102/2058]; [Pub. L. 101–189, div. A, title VIII][/us/pl/101/189/dA/tVIII], §§ 802(c)(1)–(4)(A), 804, Nov. 29, 1989, [103 Stat. 1486][/us/stat/103/1486], 1488; [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1484(h)(7), Nov. 5, 1990, [104 Stat. 1718][/us/stat/104/1718]; [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 828(d)(2), Nov. 30, 1993, [107 Stat. 1715][/us/stat/107/1715]; [Pub. L. 103–355, title III][/us/pl/103/355/tIII], § 3014, Oct. 13, 1994, [108 Stat. 3332][/us/stat/108/3332]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1502(a)(18), Feb. 10, 1996, [110 Stat. 504][/us/stat/110/504]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 107–107, div. A, title VIII][/us/pl/107/107/dA/tVIII], § 821(a), Dec. 28, 2001, [115 Stat. 1181][/us/stat/115/1181]; [Pub. L. 107–314, div. A, title VIII][/us/pl/107/314/dA/tVIII], § 818, Dec. 2, 2002, [116 Stat. 2611][/us/stat/116/2611]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1043(b)(13), Nov. 24, 2003, [117 Stat. 1611][/us/stat/117/1611]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 251(a), (b), Oct. 14, 2008, [122 Stat. 4400][/us/stat/122/4400].)
 
  __Codification__ 
 
@@ -127,9 +127,9 @@
 
  __Amendments__ 
 
-    2008—Subsec. (d). [Pub. L. 110–417, § 251(b)][/us/pl/110/417/s251/b], designated existing provisions as par. (1) and added par. (2).
+    2008—Subsec. (d). [Pub. L. 110–417][/us/pl/110/417], § 251(b), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (e)(1). [Pub. L. 110–417, § 251(a)][/us/pl/110/417/s251/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘covered system’ means a vehicle, weapon platform, or conventional weapon system—
+    Subsec. (e)(1). [Pub. L. 110–417][/us/pl/110/417], § 251(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘covered system’ means a vehicle, weapon platform, or conventional weapon system—
 
     “(A) that includes features designed to provide some degree of protection to users in combat; and
 
@@ -141,75 +141,75 @@
 
     “(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
 
-    2002—Subsec. (c)(1). [Pub. L. 107–314, § 818(a)][/us/pl/107/314/s818/a], amended par. (1) generally. Prior to amendment par. (1) read as follows: “The Secretary of Defense may waive the application of the survivability and lethality tests of this section to a covered system, munitions program, missile program, or covered product improvement program if the Secretary, before the system or program enters system development and demonstration, certifies to Congress that live-fire testing of such system or program would be unreasonably expensive and impractical.”
+    2002—Subsec. (c)(1). [Pub. L. 107–314][/us/pl/107/314], § 818(a), amended par. (1) generally. Prior to amendment par. (1) read as follows: “The Secretary of Defense may waive the application of the survivability and lethality tests of this section to a covered system, munitions program, missile program, or covered product improvement program if the Secretary, before the system or program enters system development and demonstration, certifies to Congress that live-fire testing of such system or program would be unreasonably expensive and impractical.”
 
-    Subsec. (e)(8), (9). [Pub. L. 107–314, § 818(b)][/us/pl/107/314/s818/b], added pars. (8) and (9).
+    Subsec. (e)(8), (9). [Pub. L. 107–314][/us/pl/107/314], § 818(b), added pars. (8) and (9).
 
     2001—Subsec. (c)(1), (2). [Pub. L. 107–107][/us/pl/107/107] substituted “system development and demonstration” for “engineering and manufacturing development”.
 
     1999—Subsec. (e)(7)(B). [Pub. L. 106–65][/us/pl/106/65] substituted “Committee on Armed Services” for “Committee on National Security”.
 
-    1996—Subsec. (d). [Pub. L. 104–106, § 1502(a)(18)(A)][/us/pl/104/106/s1502/a/18/A], substituted “the congressional defense committees” for “the Committees on Armed Services and on Appropriations of the Senate and House of Representatives”.
+    1996—Subsec. (d). [Pub. L. 104–106][/us/pl/104/106], § 1502(a)(18)(A), substituted “the congressional defense committees” for “the Committees on Armed Services and on Appropriations of the Senate and House of Representatives”.
 
-    Subsec. (e)(7). [Pub. L. 104–106, § 1502(a)(18)(B)][/us/pl/104/106/s1502/a/18/B], added par. (7).
+    Subsec. (e)(7). [Pub. L. 104–106][/us/pl/104/106], § 1502(a)(18)(B), added par. (7).
 
-    1994—Subsec. (c)(1). [Pub. L. 103–355, § 3014(a)(2)][/us/pl/103/355/s3014/a/2], (b), substituted “engineering and manufacturing development” for “full-scale engineering development” in first sentence and redesignated second sentence as par. (3).
+    1994—Subsec. (c)(1). [Pub. L. 103–355][/us/pl/103/355], § 3014(a)(2), (b), substituted “engineering and manufacturing development” for “full-scale engineering development” in first sentence and redesignated second sentence as par. (3).
 
-    Subsec. (c)(2). [Pub. L. 103–355, § 3014(a)(1)][/us/pl/103/355/s3014/a/1], (3), added par. (2) and redesignated former par. (2) as (4).
+    Subsec. (c)(2). [Pub. L. 103–355][/us/pl/103/355], § 3014(a)(1), (3), added par. (2) and redesignated former par. (2) as (4).
 
-    Subsec. (c)(3). [Pub. L. 103–355, § 3014(a)(2)][/us/pl/103/355/s3014/a/2], redesignated second sentence of par. (1) as par. (3) and substituted “certification under paragraph (1) or (2)” for “such certification”.
+    Subsec. (c)(3). [Pub. L. 103–355][/us/pl/103/355], § 3014(a)(2), redesignated second sentence of par. (1) as par. (3) and substituted “certification under paragraph (1) or (2)” for “such certification”.
 
-    Subsec. (c)(4). [Pub. L. 103–355, § 3014(a)(1)][/us/pl/103/355/s3014/a/1], redesignated par. (2) as (4).
+    Subsec. (c)(4). [Pub. L. 103–355][/us/pl/103/355], § 3014(a)(1), redesignated par. (2) as (4).
 
     1993—Subsec. (d). [Pub. L. 103–160][/us/pl/103/160] substituted “to the Committees on Armed Services and on Appropriations of the Senate and House of Representatives” for “to the defense committees of Congress (as defined in [section 2362(e)(3) of this title][/us/usc/t10/s2362/e/3])”.
 
-    1990—Subsec. (a)(1)(A), (B). [Pub. L. 101–510][/us/pl/101/510] made technical correction to directory language of [Pub. L. 101–189, § 804(a)][/us/pl/101/189/s804/a], see 1989 Amendment note below.
+    1990—Subsec. (a)(1)(A), (B). [Pub. L. 101–510][/us/pl/101/510] made technical correction to directory language of [Pub. L. 101–189][/us/pl/101/189], § 804(a), see 1989 Amendment note below.
 
-    1989—[Pub. L. 101–189, § 802(c)(4)(A)][/us/pl/101/189/s802/c/4/A], substituted “testing and lethality testing required before full-scale production” for “and lethality testing; operational testing” in section catchline.
+    1989—[Pub. L. 101–189][/us/pl/101/189], § 802(c)(4)(A), substituted “testing and lethality testing required before full-scale production” for “and lethality testing; operational testing” in section catchline.
 
     Subsec. (a)(1)(A). [Pub. L. 101–189][/us/pl/101/189], §§ 802(c)(1)(A), 804(a), as amended by [Pub. L. 101–510][/us/pl/101/510], substituted “this section and the report required by subsection (d) with respect to that testing is submitted in accordance with that subsection; and” for “this section;”.
 
     Subsec. (a)(1)(B). [Pub. L. 101–189][/us/pl/101/189], §§ 802(c)(1)(B), 804(a), as amended by [Pub. L. 101–510][/us/pl/101/510], substituted “this section and the report required by subsection (d) with respect to that testing is submitted in accordance with that subsection.” for “this section; and”.
 
-    Subsec. (a)(1)(C). [Pub. L. 101–189, § 802(c)(1)(C)][/us/pl/101/189/s802/c/1/C], struck out subpar. (C) which read as follows: “a major defense acquisition program may not proceed beyond low-rate initial production until initial operational test and evaluation of the program is completed in accordance with this section.”
+    Subsec. (a)(1)(C). [Pub. L. 101–189][/us/pl/101/189], § 802(c)(1)(C), struck out subpar. (C) which read as follows: “a major defense acquisition program may not proceed beyond low-rate initial production until initial operational test and evaluation of the program is completed in accordance with this section.”
 
-    Subsec. (b)(2), (3). [Pub. L. 101–189, § 802(c)(2)][/us/pl/101/189/s802/c/2], redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “In the case of a major defense acquisition program, no person employed by the contractor for the system being tested may be involved in the conduct of the operational test and evaluation required under subsection (a). The limitation in the preceding sentence does not apply to the extent that the Secretary of Defense plans for persons employed by that contractor to be involved in the operation, maintenance, and support of the system being tested when the system is deployed in combat.”
+    Subsec. (b)(2), (3). [Pub. L. 101–189][/us/pl/101/189], § 802(c)(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “In the case of a major defense acquisition program, no person employed by the contractor for the system being tested may be involved in the conduct of the operational test and evaluation required under subsection (a). The limitation in the preceding sentence does not apply to the extent that the Secretary of Defense plans for persons employed by that contractor to be involved in the operation, maintenance, and support of the system being tested when the system is deployed in combat.”
 
-    Subsec. (d). [Pub. L. 101–189, § 804(b)][/us/pl/101/189/s804/b], inserted at end “Each such report shall describe the results of the survivability or lethality testing and shall give the Secretary’s overall assessment of the testing.”
+    Subsec. (d). [Pub. L. 101–189][/us/pl/101/189], § 804(b), inserted at end “Each such report shall describe the results of the survivability or lethality testing and shall give the Secretary’s overall assessment of the testing.”
 
-    Subsec. (e)(3) to (8). [Pub. L. 101–189, § 802(c)(3)][/us/pl/101/189/s802/c/3], redesignated pars. (4), (5), (6), and (8) as (3), (4), (5), and (6), respectively, and struck out former par. (3) which defined “major defense acquisition program” and former par. (7) which defined “operational test and evaluation”.
+    Subsec. (e)(3) to (8). [Pub. L. 101–189][/us/pl/101/189], § 802(c)(3), redesignated pars. (4), (5), (6), and (8) as (3), (4), (5), and (6), respectively, and struck out former par. (3) which defined “major defense acquisition program” and former par. (7) which defined “operational test and evaluation”.
 
-    1988—Subsec. (a)(2). [Pub. L. 100–456][/us/pl/100/456] made technical correction to directory language of [Pub. L. 100–180, § 802(a)(1)(C)][/us/pl/100/180/s802/a/1/C]. See 1987 Amendment note below.
+    1988—Subsec. (a)(2). [Pub. L. 100–456][/us/pl/100/456] made technical correction to directory language of [Pub. L. 100–180][/us/pl/100/180], § 802(a)(1)(C). See 1987 Amendment note below.
 
-    1987—Subsec. (a). [Pub. L. 100–180, § 802(a)(1)][/us/pl/100/180/s802/a/1], as amended by [Pub. L. 100–456][/us/pl/100/456], designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), and added par. (2).
+    1987—Subsec. (a). [Pub. L. 100–180][/us/pl/100/180], § 802(a)(1), as amended by [Pub. L. 100–456][/us/pl/100/456], designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), and added par. (2).
 
-    Subsec. (b)(1). [Pub. L. 100–180, § 802(a)(2)][/us/pl/100/180/s802/a/2], inserted “(including a covered product improvement program)” after “system or program” and “(or in the product modification or upgrade to the system, munition, or missile)” after “or missile”.
+    Subsec. (b)(1). [Pub. L. 100–180][/us/pl/100/180], § 802(a)(2), inserted “(including a covered product improvement program)” after “system or program” and “(or in the product modification or upgrade to the system, munition, or missile)” after “or missile”.
 
-    Subsec. (b)(2). [Pub. L. 100–180, § 802(b)][/us/pl/100/180/s802/b], inserted at end “The limitation in the preceding sentence does not apply to the extent that the Secretary of Defense plans for persons employed by that contractor to be involved in the operation, maintenance, and support of the system being tested when the system is deployed in combat.”
+    Subsec. (b)(2). [Pub. L. 100–180][/us/pl/100/180], § 802(b), inserted at end “The limitation in the preceding sentence does not apply to the extent that the Secretary of Defense plans for persons employed by that contractor to be involved in the operation, maintenance, and support of the system being tested when the system is deployed in combat.”
 
-    Subsec. (c). [Pub. L. 100–180, § 802(a)(3)][/us/pl/100/180/s802/a/3], (c), (d)(1), designated existing provisions as par. (1), substituted “missile program, or covered product improvement program” for “or missile program”, and inserted at end “The Secretary shall include with any such certification a report explaining how the Secretary plans to evaluate the survivability or the lethality of the system or program and assessing possible alternatives to realistic survivability testing of the system or program.”
+    Subsec. (c). [Pub. L. 100–180][/us/pl/100/180], § 802(a)(3), (c), (d)(1), designated existing provisions as par. (1), substituted “missile program, or covered product improvement program” for “or missile program”, and inserted at end “The Secretary shall include with any such certification a report explaining how the Secretary plans to evaluate the survivability or the lethality of the system or program and assessing possible alternatives to realistic survivability testing of the system or program.”
 
-    [Pub. L. 100–180, § 802(d)(2)][/us/pl/100/180/s802/d/2], designated existing provisions of former subsec. (d) as par. (2) of subsec. (c) and struck out heading of former subsec. (d) “Waiver in time of war or mobilization”.
+    [Pub. L. 100–180][/us/pl/100/180], § 802(d)(2), designated existing provisions of former subsec. (d) as par. (2) of subsec. (c) and struck out heading of former subsec. (d) “Waiver in time of war or mobilization”.
 
-    Subsec. (d). [Pub. L. 100–180, § 802(d)(3)][/us/pl/100/180/s802/d/3], added subsec. (d). Former subsec. (d) redesignated subsec. (c)(2).
+    Subsec. (d). [Pub. L. 100–180][/us/pl/100/180], § 802(d)(3), added subsec. (d). Former subsec. (d) redesignated subsec. (c)(2).
 
-    Subsec. (e)(1)(B). [Pub. L. 100–180, § 1231(11)][/us/pl/100/180/s1231/11], substituted “section 2302(5)” for “section 2303(5)”.
+    Subsec. (e)(1)(B). [Pub. L. 100–180][/us/pl/100/180], § 1231(11), substituted “section 2302(5)” for “section 2303(5)”.
 
-    Subsec. (e)(4). [Pub. L. 100–180, § 802(a)(4)(A)][/us/pl/100/180/s802/a/4/A], (e), inserted “(or a covered product improvement program for a covered system)” after “covered system”, struck out “and survivability” after “for vulnerability”, and substituted “susceptibility to attack” for “operational requirements”.
+    Subsec. (e)(4). [Pub. L. 100–180][/us/pl/100/180], § 802(a)(4)(A), (e), inserted “(or a covered product improvement program for a covered system)” after “covered system”, struck out “and survivability” after “for vulnerability”, and substituted “susceptibility to attack” for “operational requirements”.
 
-    Subsec. (e)(5). [Pub. L. 100–180, § 802(a)(4)(B)][/us/pl/100/180/s802/a/4/B], inserted “(or a covered product improvement program for such a program)” after “missile program”.
+    Subsec. (e)(5). [Pub. L. 100–180][/us/pl/100/180], § 802(a)(4)(B), inserted “(or a covered product improvement program for such a program)” after “missile program”.
 
-    Subsec. (e)(8). [Pub. L. 100–180, § 802(a)(4)(C)][/us/pl/100/180/s802/a/4/C], added par. (8).
+    Subsec. (e)(8). [Pub. L. 100–180][/us/pl/100/180], § 802(a)(4)(C), added par. (8).
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–456, div. A, title XII, § 1233][/us/pl/100/456/s1233](l)(5), Sept. 29, 1988, [102 Stat. 2058][/us/stat/102/2058], provided that: 
+[Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1233(l)(5), Sept. 29, 1988, [102 Stat. 2058][/us/stat/102/2058], provided that: 
 
 > “The amendments made by this subsection \[amending this section and sections 2435 and 8855 of this title and [section 301c of Title 37][/us/usc/t37/s301c], Pay and Allowances of the Uniformed Services\] shall apply as if included in the enactment of [Public Law 100–180][/us/pl/100/180].”
 
  __Effective Date__ 
 
-[Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 910(b)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–145, [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 910(b)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–145, and [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 910(b), Nov. 14, 1986, [100 Stat. 3924][/us/stat/100/3924], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], provided that: 
+[Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title X, § 910(b)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–145, [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 910(b)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–145, and [Pub. L. 99–661, div. A, title IX][/us/pl/99/661/dA/tIX], formerly title IV, § 910(b), Nov. 14, 1986, [100 Stat. 3924][/us/stat/100/3924], renumbered title IX, [Pub. L. 100–26][/us/pl/100/26], § 3(5), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], provided that: 
 
 > “[Section 2366 of title 10][/us/usc/t10/s2366], United States Code (as added by subsection (a)), shall apply with respect to any decision to proceed with a program beyond low-rate initial production that is made—
 
@@ -226,35 +226,35 @@
 
 [/us/usc/t10/s2302/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F5
 [/us/usc/t10/s2302/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F5
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIX
 [/us/stat/100/3923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3923
-[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
-[/us/pl/100/180/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs802
+[/us/pl/100/180/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVIII
 [/us/stat/101/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1123
-[/us/pl/100/456/s1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1233
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2058
-[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVIII
 [/us/stat/103/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1486
-[/us/pl/101/510/s1484/h/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484%2Fh%2F7
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1718
-[/us/pl/103/160/s828/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs828%2Fd%2F2
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1715
-[/us/pl/103/355/s3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3014
+[/us/pl/103/355/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtIII
 [/us/stat/108/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3332
-[/us/pl/104/106/s1502/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F18
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F504
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/107/107/s821/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs821%2Fa
+[/us/pl/107/107/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVIII
 [/us/stat/115/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1181
-[/us/pl/107/314/s818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs818
+[/us/pl/107/314/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVIII
 [/us/stat/116/2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2611
-[/us/pl/108/136/s1043/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1043%2Fb%2F13
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1611
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4400
@@ -263,57 +263,57 @@
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
-[/us/pl/110/417/s251/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs251%2Fb
-[/us/pl/110/417/s251/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs251%2Fa
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/usc/t10/s2302/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F5
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/107/314/s818/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs818%2Fa
-[/us/pl/107/314/s818/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs818%2Fb
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/104/106/s1502/a/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F18%2FA
-[/us/pl/104/106/s1502/a/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F18%2FB
-[/us/pl/103/355/s3014/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3014%2Fa%2F2
-[/us/pl/103/355/s3014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3014%2Fa%2F1
-[/us/pl/103/355/s3014/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3014%2Fa%2F2
-[/us/pl/103/355/s3014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3014%2Fa%2F1
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/usc/t10/s2362/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2362%2Fe%2F3
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/101/189/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs804%2Fa
-[/us/pl/101/189/s802/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs802%2Fc%2F4%2FA
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/101/189/s802/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs802%2Fc%2F1%2FC
-[/us/pl/101/189/s802/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs802%2Fc%2F2
-[/us/pl/101/189/s804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs804%2Fb
-[/us/pl/101/189/s802/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs802%2Fc%2F3
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
-[/us/pl/100/180/s802/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs802%2Fa%2F1%2FC
-[/us/pl/100/180/s802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs802%2Fa%2F1
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
-[/us/pl/100/180/s802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs802%2Fa%2F2
-[/us/pl/100/180/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs802%2Fb
-[/us/pl/100/180/s802/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs802%2Fa%2F3
-[/us/pl/100/180/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs802%2Fd%2F2
-[/us/pl/100/180/s802/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs802%2Fd%2F3
-[/us/pl/100/180/s1231/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1231%2F11
-[/us/pl/100/180/s802/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs802%2Fa%2F4%2FA
-[/us/pl/100/180/s802/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs802%2Fa%2F4%2FB
-[/us/pl/100/180/s802/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs802%2Fa%2F4%2FC
-[/us/pl/100/456/s1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1233
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2058
 [/us/usc/t37/s301c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs301c
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIX
 [/us/stat/100/3924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3924
-[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
 [/us/usc/t10/s2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2366
 

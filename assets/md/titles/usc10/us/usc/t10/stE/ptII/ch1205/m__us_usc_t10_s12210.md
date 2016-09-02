@@ -17,7 +17,7 @@
 
     While serving as Attending Physician to the Congress, a Reserve holds the reserve grade of major general or rear admiral, as appropriate.
 
-(Added [Pub. L. 99–661, div. A, title V, § 508(d)(1)(A)][/us/pl/99/661/s508/d/1/A], Nov. 14, 1986, [100 Stat. 3867][/us/stat/100/3867], § 600a; renumbered § 12210, [Pub. L. 103–337, div. A, title XVI, § 1662(c)(3)][/us/pl/103/337/s1662/c/3], Oct. 5, 1994, [108 Stat. 2990][/us/stat/108/2990]; amended [Pub. L. 104–106, div. A, title XV, § 1501(b)(12)(B)][/us/pl/104/106/s1501/b/12/B], Feb. 10, 1996, [110 Stat. 496][/us/stat/110/496]; [Pub. L. 109–364, div. A, title V, § 507(a)(2)(A)][/us/pl/109/364/s507/a/2/A], (B), Oct. 17, 2006, [120 Stat. 2180][/us/stat/120/2180].)
+(Added [Pub. L. 99–661, div. A, title V][/us/pl/99/661/dA/tV], § 508(d)(1)(A), Nov. 14, 1986, [100 Stat. 3867][/us/stat/100/3867], § 600a; renumbered § 12210, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(c)(3), Oct. 5, 1994, [108 Stat. 2990][/us/stat/108/2990]; amended [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(12)(B), Feb. 10, 1996, [110 Stat. 496][/us/stat/110/496]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 507(a)(2)(A), (B), Oct. 17, 2006, [120 Stat. 2180][/us/stat/120/2180].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–661, div. A][/us/pl/99/661]. title V, § 508(f), Nov. 14, 1986, [100 Stat. 3868][/us/stat/100/3868], provided that: 
+[Pub. L. 99–661, div. A][/us/pl/99/661/dA]. title V, § 508(f), Nov. 14, 1986, [100 Stat. 3868][/us/stat/100/3868], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 1374, 4335, 5149, and 9335 of this title\] shall apply only with respect to appointments or details made on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
@@ -44,13 +44,13 @@
 ----------
 ----------
 
-[/us/pl/99/661/s508/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs508%2Fd%2F1%2FA
+[/us/pl/99/661/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtV
 [/us/stat/100/3867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3867
-[/us/pl/103/337/s1662/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fc%2F3
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2990
-[/us/pl/104/106/s1501/b/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F12%2FB
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F496
-[/us/pl/109/364/s507/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs507%2Fa%2F2%2FA
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2180
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
@@ -60,7 +60,7 @@
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/104/106/s1501/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Ff%2F3
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA
 [/us/stat/100/3868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3868
 
 

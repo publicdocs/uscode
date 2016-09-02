@@ -41,7 +41,7 @@
 
         (3) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the Naval War College to award any new or existing degree.
 
-(Added [Pub. L. 101–510, div. A, title IX, § 912(a)][/us/pl/101/510/s912/a], Nov. 5, 1990, [104 Stat. 1626][/us/stat/104/1626]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 543(f)(1), Oct. 14, 2008, [122 Stat. 4461][/us/stat/122/4461].)
+(Added [Pub. L. 101–510, div. A, title IX][/us/pl/101/510/dA/tIX], § 912(a), Nov. 5, 1990, [104 Stat. 1626][/us/stat/104/1626]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 543(f)(1), Oct. 14, 2008, [122 Stat. 4461][/us/stat/122/4461].)
 
  __Amendments__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/101/510/s912/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs912%2Fa
+[/us/pl/101/510/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIX
 [/us/stat/104/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1626
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4461

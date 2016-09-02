@@ -65,7 +65,7 @@
 
         (2) When a decision is made to carry out a project under paragraph (1), the Secretary of Defense shall notify the appropriate committees of Congress of that decision. Such project may be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 
-(Added [Pub. L. 103–160, div. B, title XXVIII, § 2803(a)][/us/pl/103/160/s2803/a], Nov. 30, 1993, [107 Stat. 1884][/us/stat/107/1884]; amended [Pub. L. 104–106, div. A, title XV, § 1502(a)(27)][/us/pl/104/106/s1502/a/27], Feb. 10, 1996, [110 Stat. 506][/us/stat/110/506]; [Pub. L. 105–85, div. B, title XXVIII, § 2804(b)][/us/pl/105/85/s2804/b], Nov. 18, 1997, [111 Stat. 1991][/us/stat/111/1991]; [Pub. L. 108–136, div. A, title X, § 1031(a)(48)][/us/pl/108/136/s1031/a/48], Nov. 24, 2003, [117 Stat. 1602][/us/stat/117/1602]; [Pub. L. 109–364, div. B, title XXVIII, § 2851(d)][/us/pl/109/364/s2851/d], Oct. 17, 2006, [120 Stat. 2495][/us/stat/120/2495]; [Pub. L. 113–291, div. A, title X, § 1071(f)(25)][/us/pl/113/291/s1071/f/25], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511].)
+(Added [Pub. L. 103–160, div. B, title XXVIII][/us/pl/103/160/dB/tXXVIII], § 2803(a), Nov. 30, 1993, [107 Stat. 1884][/us/stat/107/1884]; amended [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1502(a)(27), Feb. 10, 1996, [110 Stat. 506][/us/stat/110/506]; [Pub. L. 105–85, div. B, title XXVIII][/us/pl/105/85/dB/tXXVIII], § 2804(b), Nov. 18, 1997, [111 Stat. 1991][/us/stat/111/1991]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(48), Nov. 24, 2003, [117 Stat. 1602][/us/stat/117/1602]; [Pub. L. 109–364, div. B, title XXVIII][/us/pl/109/364/dB/tXXVIII], § 2851(d), Oct. 17, 2006, [120 Stat. 2495][/us/stat/120/2495]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(f)(25), Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511].)
 
  __Amendments__ 
 
@@ -94,17 +94,17 @@
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
-[/us/pl/103/160/s2803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs2803%2Fa
+[/us/pl/103/160/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdB%2FtXXVIII
 [/us/stat/107/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1884
-[/us/pl/104/106/s1502/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F27
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F506
-[/us/pl/105/85/s2804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2804%2Fb
+[/us/pl/105/85/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdB%2FtXXVIII
 [/us/stat/111/1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1991
-[/us/pl/108/136/s1031/a/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F48
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1602
-[/us/pl/109/364/s2851/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2851%2Fd
+[/us/pl/109/364/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdB%2FtXXVIII
 [/us/stat/120/2495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2495
-[/us/pl/113/291/s1071/f/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F25
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364

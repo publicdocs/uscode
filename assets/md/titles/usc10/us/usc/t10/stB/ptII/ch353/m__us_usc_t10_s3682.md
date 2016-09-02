@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stB/ptII/ch353/m__us_usc_t10_s3681.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch353/m__us_usc_t10_s3683.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3682)
 
-## \[§ 3682. Repealed. [Pub. L. 90–235, § 6(a)(2)][/us/pl/90/235/s6/a/2], Jan. 2, 1968, [81 Stat. 761][/us/stat/81/761]\]
+## \[§ 3682. Repealed. [Pub. L. 90–235][/us/pl/90/235], § 6(a)(2), Jan. 2, 1968, [81 Stat. 761][/us/stat/81/761]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 210][/us/stat/70A/210], provided that in computing length of service, no commissioned officer of the Army could be credited with service as a cadet at the Military Academy or as a midshipman at the Naval Academy, if he was appointed as a cadet or midshipman after Aug. 24, 1912. See [section 971 of this title][/us/usc/t10/s971].
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/pl/90/235/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs6%2Fa%2F2
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F761
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F210

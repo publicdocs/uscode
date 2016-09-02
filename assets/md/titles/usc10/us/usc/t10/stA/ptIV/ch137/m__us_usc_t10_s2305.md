@@ -263,7 +263,7 @@
 
         (3) In this subsection, the term “proposal” means any proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 130][/us/stat/70A/130]; [Pub. L. 85–861, § 1(44)][/us/pl/85/861/s1/44], Sept. 2, 1958, [72 Stat. 1457][/us/stat/72/1457]; [Pub. L. 90–268, § 3][/us/pl/90/268/s3], Mar. 16, 1968, [82 Stat. 49][/us/stat/82/49]; [Pub. L. 98–369, div. B, title VII, § 2723(b)][/us/pl/98/369/s2723/b], July 18, 1984, [98 Stat. 1191][/us/stat/98/1191]; [Pub. L. 98–525, title XII, § 1213(a)][/us/pl/98/525/s1213/a], Oct. 19, 1984, [98 Stat. 2591][/us/stat/98/2591]; [Pub. L. 99–145, title XIII, § 1303(a)(14)][/us/pl/99/145/s1303/a/14], Nov. 8, 1985, [99 Stat. 739][/us/stat/99/739]; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 924(a), (b)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–153, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 924(a), (b)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–153; [Pub. L. 99–661, div. A, title III, § 313(b)][/us/pl/99/661/s313/b], title IX, formerly title IV, § 924(a), (b), Nov. 14, 1986, [100 Stat. 3853][/us/stat/100/3853], 3932, 3933, renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–456, div. A, title VIII, § 806][/us/pl/100/456/s806], Sept. 29, 1988, [102 Stat. 2010][/us/stat/102/2010]; [Pub. L. 101–189, div. A, title VIII, § 853(f)][/us/pl/101/189/s853/f], Nov. 29, 1989, [103 Stat. 1519][/us/stat/103/1519]; [Pub. L. 101–510, div. A, title VIII, § 802(a)][/us/pl/101/510/s802/a]–(d), Nov. 5, 1990, [104 Stat. 1588][/us/stat/104/1588], 1589; [Pub. L. 103–160, div. A, title XI, § 1182(a)(5)][/us/pl/103/160/s1182/a/5], Nov. 30, 1993, [107 Stat. 1771][/us/stat/107/1771]; [Pub. L. 103–355, title I][/us/pl/103/355], §§ 1011–1016, title IV, § 4401(b), Oct. 13, 1994, [108 Stat. 3254–3257][/us/stat/108/3254-3257], 3347; [Pub. L. 104–106, div. D, title XLI][/us/pl/104/106], §§ 4103(a), 4104(a), title XLII, § 4202(a)(2), div. E, title LVI, § 5601(a), Feb. 10, 1996, [110 Stat. 643][/us/stat/110/643], 644, 653, 699; [Pub. L. 104–201, div. A, title VIII, § 821(a)][/us/pl/104/201/s821/a], title X, § 1074(a)(11), (b)(4)(A), Sept. 23, 1996, [110 Stat. 2609][/us/stat/110/2609], 2659, 2660; [Pub. L. 106–65, div. A, title VIII, § 821][/us/pl/106/65/s821], Oct. 5, 1999, [113 Stat. 714][/us/stat/113/714].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 130][/us/stat/70A/130]; [Pub. L. 85–861][/us/pl/85/861], § 1(44), Sept. 2, 1958, [72 Stat. 1457][/us/stat/72/1457]; [Pub. L. 90–268][/us/pl/90/268], § 3, Mar. 16, 1968, [82 Stat. 49][/us/stat/82/49]; [Pub. L. 98–369, div. B, title VII][/us/pl/98/369/dB/tVII], § 2723(b), July 18, 1984, [98 Stat. 1191][/us/stat/98/1191]; [Pub. L. 98–525, title XII][/us/pl/98/525/tXII], § 1213(a), Oct. 19, 1984, [98 Stat. 2591][/us/stat/98/2591]; [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1303(a)(14), Nov. 8, 1985, [99 Stat. 739][/us/stat/99/739]; [Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title X, § 924(a), (b)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–153, and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 924(a), (b)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–153; [Pub. L. 99–661, div. A, title III][/us/pl/99/661/dA/tIII], § 313(b), title IX, formerly title IV, § 924(a), (b), Nov. 14, 1986, [100 Stat. 3853][/us/stat/100/3853], 3932, 3933, renumbered title IX, [Pub. L. 100–26][/us/pl/100/26], § 3(5), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–456, div. A, title VIII][/us/pl/100/456/dA/tVIII], § 806, Sept. 29, 1988, [102 Stat. 2010][/us/stat/102/2010]; [Pub. L. 101–189, div. A, title VIII][/us/pl/101/189/dA/tVIII], § 853(f), Nov. 29, 1989, [103 Stat. 1519][/us/stat/103/1519]; [Pub. L. 101–510, div. A, title VIII][/us/pl/101/510/dA/tVIII], § 802(a)–(d), Nov. 5, 1990, [104 Stat. 1588][/us/stat/104/1588], 1589; [Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1182(a)(5), Nov. 30, 1993, [107 Stat. 1771][/us/stat/107/1771]; [Pub. L. 103–355, title I][/us/pl/103/355/tI], §§ 1011–1016, title IV, § 4401(b), Oct. 13, 1994, [108 Stat. 3254–3257][/us/stat/108/3254-3257], 3347; [Pub. L. 104–106, div. D, title XLI][/us/pl/104/106/dD/tXLI], §§ 4103(a), 4104(a), title XLII, § 4202(a)(2), div. E, title LVI, § 5601(a), Feb. 10, 1996, [110 Stat. 643][/us/stat/110/643], 644, 653, 699; [Pub. L. 104–201, div. A, title VIII][/us/pl/104/201/dA/tVIII], § 821(a), title X, § 1074(a)(11), (b)(4)(A), Sept. 23, 1996, [110 Stat. 2609][/us/stat/110/2609], 2659, 2660; [Pub. L. 106–65, div. A, title VIII][/us/pl/106/65/dA/tVIII], § 821, Oct. 5, 1999, [113 Stat. 714][/us/stat/113/714].)
 
 <table>
 
@@ -393,79 +393,79 @@ Aug. 9, 1955, ch. 628, § 15, 69 Stat. 551.  </td>
 
     1999—Subsec. (g)(1). [Pub. L. 106–65][/us/pl/106/65] substituted “an agency named in [section 2303 of this title][/us/usc/t10/s2303]” for “the Department of Defense”.
 
-    1996—Subsec. (a)(2). [Pub. L. 104–106, § 4202(a)(2)][/us/pl/104/106/s4202/a/2], inserted “a procurement for commercial items using special simplified procedures or” after “(other than for”.
+    1996—Subsec. (a)(2). [Pub. L. 104–106][/us/pl/104/106], § 4202(a)(2), inserted “a procurement for commercial items using special simplified procedures or” after “(other than for”.
 
-    Subsec. (b)(4)(B). [Pub. L. 104–106, § 4103(a)(3)][/us/pl/104/106/s4103/a/3], added subpar. (B). Former subpar. (B) redesignated (C).
+    Subsec. (b)(4)(B). [Pub. L. 104–106][/us/pl/104/106], § 4103(a)(3), added subpar. (B). Former subpar. (B) redesignated (C).
 
-    [Pub. L. 104–106, § 4103(a)(1)][/us/pl/104/106/s4103/a/1], transferred text of subpar. (C) to end of subpar. (B) and substituted “This subparagraph” for “Subparagraph (B)” at beginning of that text.
+    [Pub. L. 104–106][/us/pl/104/106], § 4103(a)(1), transferred text of subpar. (C) to end of subpar. (B) and substituted “This subparagraph” for “Subparagraph (B)” at beginning of that text.
 
-    Subsec. (b)(4)(C). [Pub. L. 104–106, § 4103(a)(2)][/us/pl/104/106/s4103/a/2], redesignated subpar. (B) as (C).
+    Subsec. (b)(4)(C). [Pub. L. 104–106][/us/pl/104/106], § 4103(a)(2), redesignated subpar. (B) as (C).
 
-    [Pub. L. 104–106, § 4103(a)(1)][/us/pl/104/106/s4103/a/1], struck out “(C)” before “Subparagraph (B)” and transferred text of subpar. (C) to end of subpar. (B).
+    [Pub. L. 104–106][/us/pl/104/106], § 4103(a)(1), struck out “(C)” before “Subparagraph (B)” and transferred text of subpar. (C) to end of subpar. (B).
 
-    Subsec. (b)(5)(F). [Pub. L. 104–106, § 4104(a)(1)][/us/pl/104/106/s4104/a/1], struck out subpar. (F) which read as follows: “The contracting officer shall include a summary of the debriefing in the contract file.”
+    Subsec. (b)(5)(F). [Pub. L. 104–106][/us/pl/104/106], § 4104(a)(1), struck out subpar. (F) which read as follows: “The contracting officer shall include a summary of the debriefing in the contract file.”
 
-    Subsec. (b)(6). [Pub. L. 104–106, § 4104(a)(3)][/us/pl/104/106/s4104/a/3], added par. (6). Former par. (6) redesignated (9).
+    Subsec. (b)(6). [Pub. L. 104–106][/us/pl/104/106], § 4104(a)(3), added par. (6). Former par. (6) redesignated (9).
 
-    Subsec. (b)(6)(B). [Pub. L. 104–201, § 1074(a)(11)(A)][/us/pl/104/201/s1074/a/11/A], struck out “of this section” after “paragraph (5)” and “of this paragraph” after “subparagraph (A)”.
+    Subsec. (b)(6)(B). [Pub. L. 104–201][/us/pl/104/201], § 1074(a)(11)(A), struck out “of this section” after “paragraph (5)” and “of this paragraph” after “subparagraph (A)”.
 
-    Subsec. (b)(6)(C). [Pub. L. 104–201, § 1074(a)(11)(B)][/us/pl/104/201/s1074/a/11/B], substituted “subparagraph (A)” for “this subsection” in introductory provisions.
+    Subsec. (b)(6)(C). [Pub. L. 104–201][/us/pl/104/201], § 1074(a)(11)(B), substituted “subparagraph (A)” for “this subsection” in introductory provisions.
 
-    Subsec. (b)(6)(D). [Pub. L. 104–201, § 1074(a)(11)(C)][/us/pl/104/201/s1074/a/11/C], substituted “under subparagraph (A)” for “pursuant to this subsection”.
+    Subsec. (b)(6)(D). [Pub. L. 104–201][/us/pl/104/201], § 1074(a)(11)(C), substituted “under subparagraph (A)” for “pursuant to this subsection”.
 
-    Subsec. (b)(7), (8). [Pub. L. 104–106, § 4104(a)(3)][/us/pl/104/106/s4104/a/3], added pars. (7) and (8).
+    Subsec. (b)(7), (8). [Pub. L. 104–106][/us/pl/104/106], § 4104(a)(3), added pars. (7) and (8).
 
-    Subsec. (b)(9). [Pub. L. 104–106, § 4104(a)(2)][/us/pl/104/106/s4104/a/2], redesignated par. (6) as (9).
+    Subsec. (b)(9). [Pub. L. 104–106][/us/pl/104/106], § 4104(a)(2), redesignated par. (6) as (9).
 
-    Subsec. (e)(3). [Pub. L. 104–106, § 5601(a)][/us/pl/104/106/s5601/a], as amended by [Pub. L. 104–201, § 1074(b)(4)(A)][/us/pl/104/201/s1074/b/4/A], struck out par. (3) which read as follows: “Regulations implementing this subsection shall be consistent with the regulations regarding the preparation and submission of an agency’s protest file (the so-called ‘rule 4 file’) for protests to the General Services Board of Contract Appeals under section 111 of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 759][/us/usc/t41/s759]).”
+    Subsec. (e)(3). [Pub. L. 104–106][/us/pl/104/106], § 5601(a), as amended by [Pub. L. 104–201][/us/pl/104/201], § 1074(b)(4)(A), struck out par. (3) which read as follows: “Regulations implementing this subsection shall be consistent with the regulations regarding the preparation and submission of an agency’s protest file (the so-called ‘rule 4 file’) for protests to the General Services Board of Contract Appeals under section 111 of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 759][/us/usc/t41/s759]).”
 
-    Subsec. (g). [Pub. L. 104–201, § 821(a)][/us/pl/104/201/s821/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 104–201][/us/pl/104/201], § 821(a), added subsec. (g).
 
-    1994—Subsec. (a)(2). [Pub. L. 103–355, § 4401(b)][/us/pl/103/355/s4401/b], substituted “a purchase for an amount not greater than the simplified acquisition threshold)” for “small purchases)” in introductory provisions.
+    1994—Subsec. (a)(2). [Pub. L. 103–355][/us/pl/103/355], § 4401(b), substituted “a purchase for an amount not greater than the simplified acquisition threshold)” for “small purchases)” in introductory provisions.
 
-    Subsec. (a)(2)(A)(i). [Pub. L. 103–355, § 1011(a)(1)][/us/pl/103/355/s1011/a/1], substituted “and significant subfactors” for “(and significant subfactors)” and “cost-related or price-related factors and subfactors, and noncost-related or nonprice-related factors and subfactors” for “cost- or price-related factors, and noncost- or nonprice-related factors”.
+    Subsec. (a)(2)(A)(i). [Pub. L. 103–355][/us/pl/103/355], § 1011(a)(1), substituted “and significant subfactors” for “(and significant subfactors)” and “cost-related or price-related factors and subfactors, and noncost-related or nonprice-related factors and subfactors” for “cost- or price-related factors, and noncost- or nonprice-related factors”.
 
-    Subsec. (a)(2)(A)(ii). [Pub. L. 103–355, § 1011(a)(2)][/us/pl/103/355/s1011/a/2], substituted “and subfactors” for “(and subfactors)”.
+    Subsec. (a)(2)(A)(ii). [Pub. L. 103–355][/us/pl/103/355], § 1011(a)(2), substituted “and subfactors” for “(and subfactors)”.
 
-    Subsec. (a)(2)(B)(ii)(I). [Pub. L. 103–355, § 1011(a)(3)][/us/pl/103/355/s1011/a/3], amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “a statement that the proposals are intended to be evaluated with, and award made after, discussions with the offerors, or a statement that the proposals are intended to be evaluated, and award made, without discussions with the offerors (other than discussions conducted for the purpose of minor clarification), unless discussions are determined to be necessary; and”.
+    Subsec. (a)(2)(B)(ii)(I). [Pub. L. 103–355][/us/pl/103/355], § 1011(a)(3), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “a statement that the proposals are intended to be evaluated with, and award made after, discussions with the offerors, or a statement that the proposals are intended to be evaluated, and award made, without discussions with the offerors (other than discussions conducted for the purpose of minor clarification), unless discussions are determined to be necessary; and”.
 
-    Subsec. (a)(3). [Pub. L. 103–355, § 1011(b)][/us/pl/103/355/s1011/b], added par. (3) and struck out former par. (3), which read as follows: “In prescribing the evaluation factors to be included in each solicitation for competitive proposals, the head of an agency shall clearly establish the relative importance assigned to the evaluation factors and subfactors, including the quality of the product or services to be provided (including technical capability, management capability, and prior experience of the offeror).”
+    Subsec. (a)(3). [Pub. L. 103–355][/us/pl/103/355], § 1011(b), added par. (3) and struck out former par. (3), which read as follows: “In prescribing the evaluation factors to be included in each solicitation for competitive proposals, the head of an agency shall clearly establish the relative importance assigned to the evaluation factors and subfactors, including the quality of the product or services to be provided (including technical capability, management capability, and prior experience of the offeror).”
 
-    Subsec. (a)(4). [Pub. L. 103–355, § 1011(b)][/us/pl/103/355/s1011/b], added par. (4).
+    Subsec. (a)(4). [Pub. L. 103–355][/us/pl/103/355], § 1011(b), added par. (4).
 
-    Subsec. (a)(5). [Pub. L. 103–355, § 1012][/us/pl/103/355/s1012], added par. (5).
+    Subsec. (a)(5). [Pub. L. 103–355][/us/pl/103/355], § 1012, added par. (5).
 
-    Subsec. (b)(3). [Pub. L. 103–355, § 1013(a)][/us/pl/103/355/s1013/a], substituted “transmitting, in writing or by electronic means, notice” for “transmitting written notice” and inserted at end “Within three days after the date of contract award, the head of the agency shall notify, in writing or by electronic means, each bidder not awarded the contract that the contract has been awarded.”
+    Subsec. (b)(3). [Pub. L. 103–355][/us/pl/103/355], § 1013(a), substituted “transmitting, in writing or by electronic means, notice” for “transmitting written notice” and inserted at end “Within three days after the date of contract award, the head of the agency shall notify, in writing or by electronic means, each bidder not awarded the contract that the contract has been awarded.”
 
-    Subsec. (b)(4)(B). [Pub. L. 103–355, § 1013(b)][/us/pl/103/355/s1013/b], substituted “transmitting, in writing or by electronic means, notice” for “transmitting written notice” and “, within three days after the date of contract award, shall notify, in writing or by electronic means,” for “shall promptly notify”.
+    Subsec. (b)(4)(B). [Pub. L. 103–355][/us/pl/103/355], § 1013(b), substituted “transmitting, in writing or by electronic means, notice” for “transmitting written notice” and “, within three days after the date of contract award, shall notify, in writing or by electronic means,” for “shall promptly notify”.
 
-    Subsec. (b)(5), (6). [Pub. L. 103–355, § 1014][/us/pl/103/355/s1014], added par. (5) and redesignated former par. (5) as (6).
+    Subsec. (b)(5), (6). [Pub. L. 103–355][/us/pl/103/355], § 1014, added par. (5) and redesignated former par. (5) as (6).
 
-    Subsec. (e). [Pub. L. 103–355, § 1015][/us/pl/103/355/s1015], added subsec. (e).
+    Subsec. (e). [Pub. L. 103–355][/us/pl/103/355], § 1015, added subsec. (e).
 
-    Subsec. (f). [Pub. L. 103–355, § 1016][/us/pl/103/355/s1016], added subsec. (f).
+    Subsec. (f). [Pub. L. 103–355][/us/pl/103/355], § 1016, added subsec. (f).
 
     1993—Subsec. (b)(4)(A). [Pub. L. 103–160][/us/pl/103/160] realigned margins of cls. (i) and (ii).
 
-    1990—Subsec. (a)(2)(A)(i). [Pub. L. 101–510, § 802(a)(1)][/us/pl/101/510/s802/a/1], inserted “(and significant subfactors)” after “significant factors” and substituted “(including cost or price, cost- or price-related factors, and noncost- or nonprice-related factors)” for “(including cost or price)”.
+    1990—Subsec. (a)(2)(A)(i). [Pub. L. 101–510][/us/pl/101/510], § 802(a)(1), inserted “(and significant subfactors)” after “significant factors” and substituted “(including cost or price, cost- or price-related factors, and noncost- or nonprice-related factors)” for “(including cost or price)”.
 
-    Subsec. (a)(2)(A)(ii). [Pub. L. 101–510, § 802(a)(2)][/us/pl/101/510/s802/a/2], inserted “(and subfactors)” after “those factors”.
+    Subsec. (a)(2)(A)(ii). [Pub. L. 101–510][/us/pl/101/510], § 802(a)(2), inserted “(and subfactors)” after “those factors”.
 
-    Subsec. (a)(2(B)(ii)(I). [Pub. L. 101–510, § 802(b)][/us/pl/101/510/s802/b], amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “a statement that the proposals are intended to be evaluated with, and awards made after, discussions with the offerors, but might be evaluated and awarded without discussions with the offerors; and”.
+    Subsec. (a)(2(B)(ii)(I). [Pub. L. 101–510][/us/pl/101/510], § 802(b), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “a statement that the proposals are intended to be evaluated with, and awards made after, discussions with the offerors, but might be evaluated and awarded without discussions with the offerors; and”.
 
-    Subsec. (a)(3). [Pub. L. 101–510, § 802(c)][/us/pl/101/510/s802/c], substituted “the evaluation factors and subfactors, including the quality of the product or services” for “the quality of the services”.
+    Subsec. (a)(3). [Pub. L. 101–510][/us/pl/101/510], § 802(c), substituted “the evaluation factors and subfactors, including the quality of the product or services” for “the quality of the services”.
 
-    Subsec. (b)(1). [Pub. L. 101–510, § 802(d)(1)][/us/pl/101/510/s802/d/1], inserted “and make an award” after “competitive proposals”.
+    Subsec. (b)(1). [Pub. L. 101–510][/us/pl/101/510], § 802(d)(1), inserted “and make an award” after “competitive proposals”.
 
-    Subsec. (b)(3). [Pub. L. 101–510, § 802(d)(2)][/us/pl/101/510/s802/d/2], inserted “in accordance with paragraph (1)” after “shall evaluate the bids”.
+    Subsec. (b)(3). [Pub. L. 101–510][/us/pl/101/510], § 802(d)(2), inserted “in accordance with paragraph (1)” after “shall evaluate the bids”.
 
-    Subsec. (b)(4)(A). [Pub. L. 101–510, § 802(d)(3)(A)][/us/pl/101/510/s802/d/3/A], substituted “competitive proposals in accordance with paragraph (1)” for “competitive proposals” in introductory provisions, added cls. (i) and (ii), and struck out former cls. (i) and (ii) which read as follows:
+    Subsec. (b)(4)(A). [Pub. L. 101–510][/us/pl/101/510], § 802(d)(3)(A), substituted “competitive proposals in accordance with paragraph (1)” for “competitive proposals” in introductory provisions, added cls. (i) and (ii), and struck out former cls. (i) and (ii) which read as follows:
 
     “(i) after discussions conducted with the offerors at any time after receipt of the proposals and before the award of the contract; or
 
     “(ii) without discussions with the offerors (other than discussions conducted for the purpose of minor clarification) when it can be clearly demonstrated from the existence of full and open competition or accurate prior cost experience with the product or service that acceptance of an initial proposal without discussions would result in the lowest overall cost to the United States.”
 
-    Subsec. (b)(4)(B) to (E). [Pub. L. 101–510, § 802(d)(3)(B)][/us/pl/101/510/s802/d/3/B]–(D), redesignated subpars. (D) and (E) as (B) and (C), respectively, substituted “Subparagraph (B)” for “Subparagraph (D)” in subpar. (C), and struck out former subpars. (B) and (C) which read as follows:
+    Subsec. (b)(4)(B) to (E). [Pub. L. 101–510][/us/pl/101/510], § 802(d)(3)(B)–(D), redesignated subpars. (D) and (E) as (B) and (C), respectively, substituted “Subparagraph (B)” for “Subparagraph (D)” in subpar. (C), and struck out former subpars. (B) and (C) which read as follows:
 
     “(B) In the case of award of a contract under subparagraph (A)(i), the head of the agency shall conduct, before such award, written or oral discussions with all responsible sources who submit proposals within the competitive range, considering only cost or price and the other factors included in the solicitation.
 
@@ -473,19 +473,19 @@ Aug. 9, 1955, ch. 628, § 15, 69 Stat. 551.  </td>
 
     1989—Subsec. (b)(4)(D). [Pub. L. 101–189][/us/pl/101/189] inserted “cost or” after “considering only”.
 
-    1988—Subsec. (d)(1)(B). [Pub. L. 100–456, § 806(b)][/us/pl/100/456/s806/b], substituted “Proposals referred to in the first sentence of subparagraph (A) are” for “The proposals that the head of an agency is to consider requiring in a solicitation for the award of a development contract are”.
+    1988—Subsec. (d)(1)(B). [Pub. L. 100–456][/us/pl/100/456], § 806(b), substituted “Proposals referred to in the first sentence of subparagraph (A) are” for “The proposals that the head of an agency is to consider requiring in a solicitation for the award of a development contract are”.
 
-    Subsec. (d)(2)(B). [Pub. L. 100–456, § 806(b)][/us/pl/100/456/s806/b], substituted “Proposals referred to in the first sentence of subparagraph (A) are” for “The proposals that the head of an agency is to consider requiring in a solicitation for the award of a production contract are”.
+    Subsec. (d)(2)(B). [Pub. L. 100–456][/us/pl/100/456], § 806(b), substituted “Proposals referred to in the first sentence of subparagraph (A) are” for “The proposals that the head of an agency is to consider requiring in a solicitation for the award of a production contract are”.
 
-    Subsec. (d)(3). [Pub. L. 100–456, § 806(a)(2)][/us/pl/100/456/s806/a/2], inserted provision that objectives may not impair the rights of prospective contractors or subcontractors otherwise provided by law.
+    Subsec. (d)(3). [Pub. L. 100–456][/us/pl/100/456], § 806(a)(2), inserted provision that objectives may not impair the rights of prospective contractors or subcontractors otherwise provided by law.
 
-    Subsec. (d)(4). [Pub. L. 100–456, § 806(a)(1)][/us/pl/100/456/s806/a/1], added par. (4).
+    Subsec. (d)(4). [Pub. L. 100–456][/us/pl/100/456], § 806(a)(1), added par. (4).
 
-    1986—Subsec. (a). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[§ 924(a)\], [Pub. L. 99–661, § 924(a)][/us/pl/99/661/s924/a], amended subsec. (a) identically, in par. (2)(A)(i) striking out “(including price)” after “factors” and inserting “(including price)” and “(including cost and price)” and adding par. (3).
+    1986—Subsec. (a). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[§ 924(a)\], [Pub. L. 99–661][/us/pl/99/661], § 924(a), amended subsec. (a) identically, in par. (2)(A)(i) striking out “(including price)” after “factors” and inserting “(including price)” and “(including cost and price)” and adding par. (3).
 
-    Subsec. (b)(4)(B). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[§ 924(b)\], [Pub. L. 99–661, § 924(b)][/us/pl/99/661/s924/b], amended subpar. (B) identically, inserting “cost or”.
+    Subsec. (b)(4)(B). [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[§ 924(b)\], [Pub. L. 99–661][/us/pl/99/661], § 924(b), amended subpar. (B) identically, inserting “cost or”.
 
-    Subsec. (b)(4)(E). [Pub. L. 99–661, § 313(b)][/us/pl/99/661/s313/b], added subpar. (E).
+    Subsec. (b)(4)(E). [Pub. L. 99–661][/us/pl/99/661], § 313(b), added subpar. (E).
 
     1985—Subsec. (b)(5). [Pub. L. 99–145][/us/pl/99/145] aligned the margin of par. (5).
 
@@ -509,7 +509,7 @@ Aug. 9, 1955, ch. 628, § 15, 69 Stat. 551.  </td>
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–510, div. A, title VIII, § 802(e)][/us/pl/101/510/s802/e], Nov. 5, 1990, [104 Stat. 1589][/us/stat/104/1589], provided that:
+[Pub. L. 101–510, div. A, title VIII][/us/pl/101/510/dA/tVIII], § 802(e), Nov. 5, 1990, [104 Stat. 1589][/us/stat/104/1589], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply with respect to solicitations for sealed bids or competitive proposals issued after the end of the 120-day period beginning on the date of the enactment of this Act \[Nov. 5, 1990\].
 
@@ -517,13 +517,13 @@ Aug. 9, 1955, ch. 628, § 15, 69 Stat. 551.  </td>
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 924(c)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–153, [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 924(c)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–153, and [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 924(c), Nov. 14, 1986, [100 Stat. 3933][/us/stat/100/3933], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], provided that: 
+[Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title X, § 924(c)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–153, [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 924(c)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–153, and [Pub. L. 99–661, div. A, title IX][/us/pl/99/661/dA/tIX], formerly title IV, § 924(c), Nov. 14, 1986, [100 Stat. 3933][/us/stat/100/3933], renumbered title IX, [Pub. L. 100–26][/us/pl/100/26], § 3(5), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to solicitations for sealed bids or competitive proposals issued after the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
 
  __Effective Date of 1984 Amendments__ 
 
-[Pub. L. 98–525, title XII, § 1213(b)][/us/pl/98/525/s1213/b], Oct. 19, 1984, [98 Stat. 2592][/us/stat/98/2592], provided that: 
+[Pub. L. 98–525, title XII][/us/pl/98/525/tXII], § 1213(b), Oct. 19, 1984, [98 Stat. 2592][/us/stat/98/2592], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 19, 1984\].”
 
@@ -531,7 +531,7 @@ Aug. 9, 1955, ch. 628, § 15, 69 Stat. 551.  </td>
 
  __Guidance on Use of Tiered Evaluations of Offers for Contracts and Task Orders Under Contracts__ 
 
-[Pub. L. 109–163, div. A, title VIII, § 816][/us/pl/109/163/s816], Jan. 6, 2006, [119 Stat. 3382][/us/stat/119/3382], provided that:
+[Pub. L. 109–163, div. A, title VIII][/us/pl/109/163/dA/tVIII], § 816, Jan. 6, 2006, [119 Stat. 3382][/us/stat/119/3382], provided that:
 
 >     “(a)  __Guidance Required__  __.—__ 
 
@@ -549,7 +549,7 @@ Aug. 9, 1955, ch. 628, § 15, 69 Stat. 551.  </td>
 
  __Authorization of Evaluation Factor for Defense Contractors Employing or Subcontracting With Members of the Selected Reserve of the Reserve Components of the Armed Forces__ 
 
-[Pub. L. 109–163, div. A, title VIII, § 819][/us/pl/109/163/s819], Jan. 6, 2006, [119 Stat. 3385][/us/stat/119/3385], provided that:
+[Pub. L. 109–163, div. A, title VIII][/us/pl/109/163/dA/tVIII], § 819, Jan. 6, 2006, [119 Stat. 3385][/us/stat/119/3385], provided that:
 
 >     “(a)  __Defense Contracts__  __.—__ 
 
@@ -565,7 +565,7 @@ Aug. 9, 1955, ch. 628, § 15, 69 Stat. 551.  </td>
 
  __Certificate of Competency Requirements__ 
 
-    [Pub. L. 102–484, div. A, title VIII, § 804][/us/pl/102/484/s804], Oct. 23, 1992, [106 Stat. 2447][/us/stat/106/2447], provided that, in case of contract to be entered into pursuant to this chapter, other than pursuant to simplified procedures under [section 2304(g) of this title][/us/usc/t10/s2304/g], solicitation was to contain notice of right of bidding small business concern, in case of determination by contracting officer that concern was nonresponsible, to request Small Business Administration to make determination of responsibility under [section 637(b)(7) of Title 15][/us/usc/t15/s637/b/7], Commerce and Trade, that if contracting officer determined that concern was nonresponsible, such officer was to notify concern in writing, of such determination, that concern had right to request Small Business Administration to make determination, and that, if concern desired to request such determination, concern was to inform officer in writing, within 14 days after receipt of notice, of such desire, and that, after being so informed, officer was to transmit request to Administration, or, if not so informed, officer was to proceed with award of contract, and contained provisions relating to effective and termination dates and report to be submitted to Congress, prior to repeal by [Pub. L. 103–355, title VII, § 7101(b)][/us/pl/103/355/s7101/b], Oct. 13, 1994, [108 Stat. 3367][/us/stat/108/3367].
+    [Pub. L. 102–484, div. A, title VIII][/us/pl/102/484/dA/tVIII], § 804, Oct. 23, 1992, [106 Stat. 2447][/us/stat/106/2447], provided that, in case of contract to be entered into pursuant to this chapter, other than pursuant to simplified procedures under [section 2304(g) of this title][/us/usc/t10/s2304/g], solicitation was to contain notice of right of bidding small business concern, in case of determination by contracting officer that concern was nonresponsible, to request Small Business Administration to make determination of responsibility under [section 637(b)(7) of Title 15][/us/usc/t15/s637/b/7], Commerce and Trade, that if contracting officer determined that concern was nonresponsible, such officer was to notify concern in writing, of such determination, that concern had right to request Small Business Administration to make determination, and that, if concern desired to request such determination, concern was to inform officer in writing, within 14 days after receipt of notice, of such desire, and that, after being so informed, officer was to transmit request to Administration, or, if not so informed, officer was to proceed with award of contract, and contained provisions relating to effective and termination dates and report to be submitted to Congress, prior to repeal by [Pub. L. 103–355, title VII][/us/pl/103/355/tVII], § 7101(b), Oct. 13, 1994, [108 Stat. 3367][/us/stat/108/3367].
 
  __Construction of 1984 Amendment__ 
 
@@ -586,93 +586,93 @@ Aug. 9, 1955, ch. 628, § 15, 69 Stat. 551.  </td>
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F130
-[/us/pl/85/861/s1/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F44
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1457
-[/us/pl/90/268/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F268%2Fs3
+[/us/pl/90/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F268
 [/us/stat/82/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F49
-[/us/pl/98/369/s2723/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2723%2Fb
+[/us/pl/98/369/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVII
 [/us/stat/98/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1191
-[/us/pl/98/525/s1213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1213%2Fa
+[/us/pl/98/525/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXII
 [/us/stat/98/2591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2591
-[/us/pl/99/145/s1303/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1303%2Fa%2F14
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F739
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs313%2Fb
+[/us/pl/99/661/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIII
 [/us/stat/100/3853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3853
-[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
-[/us/pl/100/456/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs806
+[/us/pl/100/456/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVIII
 [/us/stat/102/2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2010
-[/us/pl/101/189/s853/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs853%2Ff
+[/us/pl/101/189/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVIII
 [/us/stat/103/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1519
-[/us/pl/101/510/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs802%2Fa
+[/us/pl/101/510/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVIII
 [/us/stat/104/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1588
-[/us/pl/103/160/s1182/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fa%2F5
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1771
-[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3254-3257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3254-3257
-[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdD%2FtXLI
 [/us/stat/110/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F643
-[/us/pl/104/201/s821/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs821%2Fa
+[/us/pl/104/201/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVIII
 [/us/stat/110/2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2609
-[/us/pl/106/65/s821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs821
+[/us/pl/106/65/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVIII
 [/us/stat/113/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F714
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t10/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2303
-[/us/pl/104/106/s4202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4202%2Fa%2F2
-[/us/pl/104/106/s4103/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4103%2Fa%2F3
-[/us/pl/104/106/s4103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4103%2Fa%2F1
-[/us/pl/104/106/s4103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4103%2Fa%2F2
-[/us/pl/104/106/s4103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4103%2Fa%2F1
-[/us/pl/104/106/s4104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4104%2Fa%2F1
-[/us/pl/104/106/s4104/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4104%2Fa%2F3
-[/us/pl/104/201/s1074/a/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fa%2F11%2FA
-[/us/pl/104/201/s1074/a/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fa%2F11%2FB
-[/us/pl/104/201/s1074/a/11/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fa%2F11%2FC
-[/us/pl/104/106/s4104/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4104%2Fa%2F3
-[/us/pl/104/106/s4104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4104%2Fa%2F2
-[/us/pl/104/106/s5601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5601%2Fa
-[/us/pl/104/201/s1074/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fb%2F4%2FA
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t41/s759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs759
-[/us/pl/104/201/s821/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs821%2Fa
-[/us/pl/103/355/s4401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs4401%2Fb
-[/us/pl/103/355/s1011/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1011%2Fa%2F1
-[/us/pl/103/355/s1011/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1011%2Fa%2F2
-[/us/pl/103/355/s1011/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1011%2Fa%2F3
-[/us/pl/103/355/s1011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1011%2Fb
-[/us/pl/103/355/s1011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1011%2Fb
-[/us/pl/103/355/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1012
-[/us/pl/103/355/s1013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1013%2Fa
-[/us/pl/103/355/s1013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1013%2Fb
-[/us/pl/103/355/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1014
-[/us/pl/103/355/s1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1015
-[/us/pl/103/355/s1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1016
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
-[/us/pl/101/510/s802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs802%2Fa%2F1
-[/us/pl/101/510/s802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs802%2Fa%2F2
-[/us/pl/101/510/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs802%2Fb
-[/us/pl/101/510/s802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs802%2Fc
-[/us/pl/101/510/s802/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs802%2Fd%2F1
-[/us/pl/101/510/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs802%2Fd%2F2
-[/us/pl/101/510/s802/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs802%2Fd%2F3%2FA
-[/us/pl/101/510/s802/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs802%2Fd%2F3%2FB
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
-[/us/pl/100/456/s806/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs806%2Fb
-[/us/pl/100/456/s806/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs806%2Fb
-[/us/pl/100/456/s806/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs806%2Fa%2F2
-[/us/pl/100/456/s806/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs806%2Fa%2F1
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
-[/us/pl/99/661/s924/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs924%2Fa
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
-[/us/pl/99/661/s924/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs924%2Fb
-[/us/pl/99/661/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs313%2Fb
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
@@ -687,30 +687,30 @@ Aug. 9, 1955, ch. 628, § 15, 69 Stat. 551.  </td>
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/103/355/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10001
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/101/510/s802/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs802%2Fe
+[/us/pl/101/510/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVIII
 [/us/stat/104/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1589
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIX
 [/us/stat/100/3933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3933
-[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
-[/us/pl/98/525/s1213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1213%2Fb
+[/us/pl/98/525/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXII
 [/us/stat/98/2592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2592
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2751
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/109/163/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs816
+[/us/pl/109/163/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVIII
 [/us/stat/119/3382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3382
-[/us/pl/109/163/s819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs819
+[/us/pl/109/163/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVIII
 [/us/stat/119/3385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3385
-[/us/pl/102/484/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs804
+[/us/pl/102/484/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVIII
 [/us/stat/106/2447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2447
 [/us/usc/t10/s2304/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Fg
 [/us/usc/t15/s637/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fb%2F7
-[/us/pl/103/355/s7101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs7101%2Fb
+[/us/pl/103/355/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtVII
 [/us/stat/108/3367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3367
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t15/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa

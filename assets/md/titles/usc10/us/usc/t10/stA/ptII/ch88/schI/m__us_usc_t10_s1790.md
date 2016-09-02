@@ -17,7 +17,7 @@
 
     Using funds provided for operation and maintenance and notwithstanding [section 2215 of this title][/us/usc/t10/s2215], the Secretary of Defense may reimburse the Secretary of Homeland Security for costs associated with the processing and adjudication by the United States Citizenship and Immigration Services (USCIS) of applications for naturalization described in sections 328(b)(4) and 329(b)(4) of the Immigration and Nationality Act ([8 U.S.C. 1439(b)(4)][/us/usc/t8/s1439/b/4] and 1440(b)(4)). Such reimbursements shall be deposited and remain available as provided by subsections (m) and (n) of section 286 of such Act ([8 U.S.C. 1356][/us/usc/t8/s1356]). Such reimbursements shall be based on actual costs incurred by USCIS for processing applications for naturalization, and shall not exceed $7,500,000 per fiscal year.
 
-(Added [Pub. L. 112–74, div. A, title VIII, § 8070(a)][/us/pl/112/74/s8070/a], Dec. 23, 2011, [125 Stat. 822][/us/stat/125/822]; amended [Pub. L. 112–239, div. A, title X, § 1076(f)(22)][/us/pl/112/239/s1076/f/22], Jan. 2, 2013, [126 Stat. 1953][/us/stat/126/1953].)
+(Added [Pub. L. 112–74, div. A, title VIII][/us/pl/112/74/dA/tVIII], § 8070(a), Dec. 23, 2011, [125 Stat. 822][/us/stat/125/822]; amended [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(f)(22), Jan. 2, 2013, [126 Stat. 1953][/us/stat/126/1953].)
 
  __Amendments__ 
 
@@ -33,9 +33,9 @@
 [/us/usc/t10/s2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2215
 [/us/usc/t8/s1439/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1439%2Fb%2F4
 [/us/usc/t8/s1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1356
-[/us/pl/112/74/s8070/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs8070%2Fa
+[/us/pl/112/74/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdA%2FtVIII
 [/us/stat/125/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F822
-[/us/pl/112/239/s1076/f/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F22
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1953
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t8/s1439/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1439%2Fb%2F4

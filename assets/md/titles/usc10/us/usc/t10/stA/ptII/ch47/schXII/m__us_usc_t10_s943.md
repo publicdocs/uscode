@@ -53,7 +53,7 @@
 
         (2) In making appointments to the positions described in paragraph (1), preference shall be given, among equally qualified persons, to persons who are preference eligibles (as defined in [section 2108(3) of title 5][/us/usc/t5/s2108/3]).
 
-(Added [Pub. L. 101–189, div. A, title XIII, § 1301(c)][/us/pl/101/189/s1301/c], Nov. 29, 1989, [103 Stat. 1572][/us/stat/103/1572]; amended [Pub. L. 102–484, div. A, title X, § 1061(a)(1)][/us/pl/102/484/s1061/a/1], Oct. 23, 1992, [106 Stat. 2503][/us/stat/106/2503]; [Pub. L. 103–337, div. A, title IX, § 924(c)(1)][/us/pl/103/337/s924/c/1], Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831]; [Pub. L. 104–201, div. A, title X, § 1068(b)][/us/pl/104/201/s1068/b], Sept. 23, 1996, [110 Stat. 2655][/us/stat/110/2655]; [Pub. L. 105–85, div. A, title X, § 1073(a)(11)][/us/pl/105/85/s1073/a/11], Nov. 18, 1997, [111 Stat. 1900][/us/stat/111/1900].)
+(Added [Pub. L. 101–189, div. A, title XIII][/us/pl/101/189/dA/tXIII], § 1301(c), Nov. 29, 1989, [103 Stat. 1572][/us/stat/103/1572]; amended [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1061(a)(1), Oct. 23, 1992, [106 Stat. 2503][/us/stat/106/2503]; [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(c)(1), Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831]; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1068(b), Sept. 23, 1996, [110 Stat. 2655][/us/stat/110/2655]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(11), Nov. 18, 1997, [111 Stat. 1900][/us/stat/111/1900].)
 
  __Amendments__ 
 
@@ -67,7 +67,7 @@
 
  __Transition Provision__ 
 
-[Pub. L. 102–484, div. A, title X, § 1061(b)][/us/pl/102/484/s1061/b], Oct. 23, 1992, [106 Stat. 2504][/us/stat/106/2504], provided that: 
+[Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1061(b), Oct. 23, 1992, [106 Stat. 2504][/us/stat/106/2504], provided that: 
 
 > “For purposes of section 943(a) (article 943(a)) of title 10, United States Code, as amended by subsection (a)—
 
@@ -87,21 +87,21 @@
 ----------
 
 [/us/usc/t5/s2108/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2108%2F3
-[/us/pl/101/189/s1301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1301%2Fc
+[/us/pl/101/189/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXIII
 [/us/stat/103/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1572
-[/us/pl/102/484/s1061/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1061%2Fa%2F1
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2503
-[/us/pl/103/337/s924/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fc%2F1
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2831
-[/us/pl/104/201/s1068/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1068%2Fb
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2655
-[/us/pl/105/85/s1073/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F11
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1900
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/102/484/s1061/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1061%2Fb
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2504
 [/us/pl/101/189/s1301/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1301%2Fh
 [/us/usc/t10/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs942

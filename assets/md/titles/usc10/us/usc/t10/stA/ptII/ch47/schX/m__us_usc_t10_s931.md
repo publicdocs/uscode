@@ -23,7 +23,7 @@
 
     is guilty of perjury and shall be punished as a court-martial may direct.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 75][/us/stat/70A/75]; [Pub. L. 94–550, § 3][/us/pl/94/550/s3], Oct. 18, 1976, [90 Stat. 2535][/us/stat/90/2535]; [Pub. L. 97–295, § 1(13)][/us/pl/97/295/s1/13], Oct. 12, 1982, [96 Stat. 1289][/us/stat/96/1289].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 75][/us/stat/70A/75]; [Pub. L. 94–550][/us/pl/94/550], § 3, Oct. 18, 1976, [90 Stat. 2535][/us/stat/90/2535]; [Pub. L. 97–295][/us/pl/97/295], § 1(13), Oct. 12, 1982, [96 Stat. 1289][/us/stat/96/1289].)
 
 <table>
 
@@ -87,9 +87,9 @@ May 5, 1950, ch. 169, § 1 (Art. 131), 64 Stat. 142.  </td>
 [/us/usc/t28/s1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1746
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F75
-[/us/pl/94/550/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F550%2Fs3
+[/us/pl/94/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F550
 [/us/stat/90/2535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2535
-[/us/pl/97/295/s1/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F13
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1289
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/pl/94/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F550

@@ -17,11 +17,11 @@
 
     For the purposes of promotion, persons originally appointed in regular or reserve warrant officer grades shall be credited with such service as the Secretary concerned may prescribe. However, such a person may not be credited with a period of service greater than the period of active service performed in the grade, or pay grade corresponding to the grade, in which so appointed, or in any higher grade or pay grade.
 
-(Added [Pub. L. 102–190, div. A, title XI, § 1112(a)][/us/pl/102/190/s1112/a], Dec. 5, 1991, [105 Stat. 1493][/us/stat/105/1493].)
+(Added [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1112(a), Dec. 5, 1991, [105 Stat. 1493][/us/stat/105/1493].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 556 of this title][/us/usc/t10/s556] prior to repeal by [Pub. L. 102–190, § 1112(a)][/us/pl/102/190/s1112/a].
+    Provisions similar to those in this section were contained in [section 556 of this title][/us/usc/t10/s556] prior to repeal by [Pub. L. 102–190][/us/pl/102/190], § 1112(a).
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/102/190/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1112%2Fa
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1493
 [/us/usc/t10/s556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs556
-[/us/pl/102/190/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1112%2Fa
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 
 

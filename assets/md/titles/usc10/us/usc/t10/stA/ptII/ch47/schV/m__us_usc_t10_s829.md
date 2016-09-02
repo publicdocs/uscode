@@ -27,7 +27,7 @@
 
     (d) If the military judge of a court-martial composed of a military judge only is unable to proceed with the trial because of physical disability, as a result of a challenge, or for other good cause, the trial shall proceed, subject to any applicable conditions of section 816(1)(B) or (2)(C) of this title (article 16(1)(B) or (2)(C)), after the detail of a new military judge as if no evidence had previously been introduced, unless a verbatim record of the evidence previously introduced or a stipulation thereof is read in court in the presence of the new military judge, the accused, and counsel for both sides.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 47][/us/stat/70A/47]; [Pub. L. 90–632, § 2(11)][/us/pl/90/632/s2/11], Oct. 24, 1968, [82 Stat. 1337][/us/stat/82/1337]; [Pub. L. 98–209, § 3(d)][/us/pl/98/209/s3/d], Dec. 6, 1983, [97 Stat. 1394][/us/stat/97/1394]; [Pub. L. 107–107, div. A, title V, § 582(c)][/us/pl/107/107/s582/c], Dec. 28, 2001, [115 Stat. 1124][/us/stat/115/1124].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 47][/us/stat/70A/47]; [Pub. L. 90–632][/us/pl/90/632], § 2(11), Oct. 24, 1968, [82 Stat. 1337][/us/stat/82/1337]; [Pub. L. 98–209][/us/pl/98/209], § 3(d), Dec. 6, 1983, [97 Stat. 1394][/us/stat/97/1394]; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 582(c), Dec. 28, 2001, [115 Stat. 1124][/us/stat/115/1124].)
 
 <table>
 
@@ -101,13 +101,13 @@ May 5, 1950, ch. 169, § 1 (Art. 29), 64 Stat. 117.  </td>
 
     1983—Subsec. (a). [Pub. L. 98–209][/us/pl/98/209] substituted “unless excused as a result of a challenge, excused by the military judge for physical disability or other good cause, or excused by order of the convening authority for good cause” for “except for physical disability or as a result of a challenge or by order of the convening authority for good cause”.
 
-    1968—Subsec. (a). [Pub. L. 90–632, § 2(11)(A)][/us/pl/90/632/s2/11/A], substituted “court has been assembled for the trial of the accused” for “accused has been arraigned”.
+    1968—Subsec. (a). [Pub. L. 90–632][/us/pl/90/632], § 2(11)(A), substituted “court has been assembled for the trial of the accused” for “accused has been arraigned”.
 
-    Subsec. (b). [Pub. L. 90–632, § 2(11)(B)][/us/pl/90/632/s2/11/B], inserted reference to court-martial composed of a military judge alone, struck out reference to oath of members, and inserted provisions requiring that only the evidence which has been introduced before members of the court be read to the court and that all evidence, not merely testimony, be included.
+    Subsec. (b). [Pub. L. 90–632][/us/pl/90/632], § 2(11)(B), inserted reference to court-martial composed of a military judge alone, struck out reference to oath of members, and inserted provisions requiring that only the evidence which has been introduced before members of the court be read to the court and that all evidence, not merely testimony, be included.
 
-    Subsec. (c). [Pub. L. 90–632, § 2(11)(C)][/us/pl/90/632/s2/11/C], inserted reference to court-martial composed of a military judge alone, struck out reference to oath of members, and substituted evidence previously introduced for testimony of previously examined witnesses as the body of evidence which the verbatim record must cover.
+    Subsec. (c). [Pub. L. 90–632][/us/pl/90/632], § 2(11)(C), inserted reference to court-martial composed of a military judge alone, struck out reference to oath of members, and substituted evidence previously introduced for testimony of previously examined witnesses as the body of evidence which the verbatim record must cover.
 
-    Subsec. (d) [Pub. L. 90–632, § 2(11)(D)][/us/pl/90/632/s2/11/D], added subsec. (d).
+    Subsec. (d) [Pub. L. 90–632][/us/pl/90/632], § 2(11)(D), added subsec. (d).
 
  __Effective Date of 2001 Amendment__ 
 
@@ -131,18 +131,18 @@ May 5, 1950, ch. 169, § 1 (Art. 29), 64 Stat. 117.  </td>
 [/us/usc/t10/s825a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs825a
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F47
-[/us/pl/90/632/s2/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F11
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1337
-[/us/pl/98/209/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs3%2Fd
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1394
-[/us/pl/107/107/s582/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs582%2Fc
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1124
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
-[/us/pl/90/632/s2/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F11%2FA
-[/us/pl/90/632/s2/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F11%2FB
-[/us/pl/90/632/s2/11/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F11%2FC
-[/us/pl/90/632/s2/11/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F11%2FD
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/107/107/s582/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs582%2Fd
 [/us/usc/t10/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs816

@@ -27,11 +27,11 @@
 
         (2) Members of each safety cell shall be assigned in sufficient numbers to serve as advisers to the officers in charge of the major phase of Ranger training and shall assist those officers in making informed daily “go” and “no-go” decisions regarding training in light of all relevant conditions, including conditions of terrain, weather, water, and climate and other conditions.
 
-(Added [Pub. L. 104–106, div. A, title V, § 562(a)(1)][/us/pl/104/106/s562/a/1], Feb. 10, 1996, [110 Stat. 323][/us/stat/110/323].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 562(a)(1), Feb. 10, 1996, [110 Stat. 323][/us/stat/110/323].)
 
  __Accomplishment of Required Manning Levels; GAO Assessment__ 
 
-[Pub. L. 104–106, div. A, title V, § 562(b)][/us/pl/104/106/s562/b], (c), Feb. 10, 1996, [110 Stat. 324][/us/stat/110/324], provided that:
+[Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 562(b), (c), Feb. 10, 1996, [110 Stat. 324][/us/stat/110/324], provided that:
 
 >     “(b)  __Accomplishment of Required Manning Levels__  __.—__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/104/106/s562/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs562%2Fa%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F323
-[/us/pl/104/106/s562/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs562%2Fb
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F324
 [/us/usc/t10/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4303
 [/us/usc/t10/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4303

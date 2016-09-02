@@ -49,13 +49,13 @@
 
     Not later than 60 days after the submission of an annual report to the congressional defense committees under subsection (b), the Director shall make the report available on the publicly available website of the Agency or such other publicly available website as the Director considers appropriate.
 
-(Added [Pub. L. 112–81, div. A, title VIII, § 805(a)][/us/pl/112/81/s805/a], Dec. 31, 2011, [125 Stat. 1486][/us/stat/125/1486]; amended [Pub. L. 114–92, div. A, title VIII, § 893(b)][/us/pl/114/92/s893/b], Nov. 25, 2015, [129 Stat. 952][/us/stat/129/952].)
+(Added [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 805(a), Dec. 31, 2011, [125 Stat. 1486][/us/stat/125/1486]; amended [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 893(b), Nov. 25, 2015, [129 Stat. 952][/us/stat/129/952].)
 
  __Amendments__ 
 
-    2015—Subsec. (a)(2)(D). [Pub. L. 114–92, § 893(b)(1)][/us/pl/114/92/s893/b/1], amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the total dollar value of questioned costs (including a separate category for the dollar value of unsupported costs); and”.
+    2015—Subsec. (a)(2)(D). [Pub. L. 114–92][/us/pl/114/92], § 893(b)(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the total dollar value of questioned costs (including a separate category for the dollar value of unsupported costs); and”.
 
-    Subsec. (a)(4), (5). [Pub. L. 114–92, § 893(b)(2)][/us/pl/114/92/s893/b/2]–(4), added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (a)(4), (5). [Pub. L. 114–92][/us/pl/114/92], § 893(b)(2)–(4), added par. (4) and redesignated former par. (4) as (5).
 
 ----------
 
@@ -64,11 +64,11 @@
 ----------
 ----------
 
-[/us/pl/112/81/s805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs805%2Fa
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1486
-[/us/pl/114/92/s893/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs893%2Fb
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F952
-[/us/pl/114/92/s893/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs893%2Fb%2F1
-[/us/pl/114/92/s893/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs893%2Fb%2F2
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 
 

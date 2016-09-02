@@ -45,7 +45,7 @@
 
         (4) The Secretary shall ensure that the data published under paragraph (1) and updated under paragraph (2) is accessible to the public through the primary Internet website of the Department and the primary Internet website of the military medical treatment facility with respect to which such data applies.
 
-(Added [Pub. L. 108–375, div. A, title VII, § 739(a)(1)][/us/pl/108/375/s739/a/1], Oct. 28, 2004, [118 Stat. 2001][/us/stat/118/2001]; amended [Pub. L. 114–92, div. A, title VII, § 712][/us/pl/114/92/s712], Nov. 25, 2015, [129 Stat. 864][/us/stat/129/864].)
+(Added [Pub. L. 108–375, div. A, title VII][/us/pl/108/375/dA/tVII], § 739(a)(1), Oct. 28, 2004, [118 Stat. 2001][/us/stat/118/2001]; amended [Pub. L. 114–92, div. A, title VII][/us/pl/114/92/dA/tVII], § 712, Nov. 25, 2015, [129 Stat. 864][/us/stat/129/864].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
  __Initial Reports__ 
 
-    [Pub. L. 108–375, div. A, title VII, § 739(a)(3)][/us/pl/108/375/s739/a/3], Oct. 28, 2004, [118 Stat. 2002][/us/stat/118/2002], directed that the first reports under this section be completed not later than 180 days after Oct. 28, 2004.
+    [Pub. L. 108–375, div. A, title VII][/us/pl/108/375/dA/tVII], § 739(a)(3), Oct. 28, 2004, [118 Stat. 2002][/us/stat/118/2002], directed that the first reports under this section be completed not later than 180 days after Oct. 28, 2004.
 
 ----------
 
@@ -74,9 +74,9 @@
 
 [/us/usc/t10/s1074f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074f
 [/us/usc/t10/s1074f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074f%2Fc
-[/us/pl/108/375/s739/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs739%2Fa%2F1
+[/us/pl/108/375/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVII
 [/us/stat/118/2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2001
-[/us/pl/114/92/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs712
+[/us/pl/114/92/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVII
 [/us/stat/129/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F864
 [/us/pl/108/375/s733/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs733%2Fb
 [/us/usc/t10/s1074f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074f
@@ -85,7 +85,7 @@
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/108/375/s740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs740
 [/us/usc/t10/s1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074
-[/us/pl/108/375/s739/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs739%2Fa%2F3
+[/us/pl/108/375/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVII
 [/us/stat/118/2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2002
 
 

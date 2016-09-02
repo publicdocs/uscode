@@ -29,7 +29,7 @@
 
         (3) An officer who is a permanent professor or the registrar of the United States Air Force Academy.
 
-(Added [Pub. L. 109–163, div. A, title V, § 509(c)(1)][/us/pl/109/163/s509/c/1], Jan. 6, 2006, [119 Stat. 3230][/us/stat/119/3230].)
+(Added [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 509(c)(1), Jan. 6, 2006, [119 Stat. 3230][/us/stat/119/3230].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/109/163/s509/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs509%2Fc%2F1
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3230
 
 

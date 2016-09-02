@@ -91,7 +91,7 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–364, div. A, title X, § 1071(a)(35)][/us/pl/109/364/s1071/a/35], Oct. 17, 2006, [120 Stat. 2400][/us/stat/120/2400], substituted “Civilian member:” for “Civilian member;” in item 7081.
+    2006—[Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(35), Oct. 17, 2006, [120 Stat. 2400][/us/stat/120/2400], substituted “Civilian member:” for “Civilian member;” in item 7081.
 
 ----------
 
@@ -100,7 +100,7 @@
 ----------
 ----------
 
-[/us/pl/109/364/s1071/a/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F35
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2400
 
 

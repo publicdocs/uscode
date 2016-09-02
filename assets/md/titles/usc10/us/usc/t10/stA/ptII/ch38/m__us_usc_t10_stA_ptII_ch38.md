@@ -91,13 +91,13 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–291, div. A, title V, § 505(b)][/us/pl/113/291/s505/b], Dec. 19, 2014, [128 Stat. 3356][/us/stat/128/3356], struck out item 667 “Annual report to Congress”.
+    2014—[Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 505(b), Dec. 19, 2014, [128 Stat. 3356][/us/stat/128/3356], struck out item 667 “Annual report to Congress”.
 
     2008—[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 522(a)(3), (c)(3), Oct. 14, 2008, [122 Stat. 4445][/us/stat/122/4445], added items 661 and 665 and struck out former items 661 “Management policies for officers who are joint qualified” and 665 “Procedures for monitoring careers of joint officers”.
 
-    2006—[Pub. L. 109–364, div. A, title V, § 516(e)(2)][/us/pl/109/364/s516/e/2], Oct. 17, 2006, [120 Stat. 2189][/us/stat/120/2189], substituted “officers who are joint qualified” for “joint specialty officers” in item 661.
+    2006—[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 516(e)(2), Oct. 17, 2006, [120 Stat. 2189][/us/stat/120/2189], substituted “officers who are joint qualified” for “joint specialty officers” in item 661.
 
-    2004—[Pub. L. 108–375, div. A, title V, § 532(c)(2)(B)][/us/pl/108/375/s532/c/2/B], Oct. 28, 2004, [118 Stat. 1900][/us/stat/118/1900], substituted “Joint duty assignments after completion of joint professional military education” for “Education” in item 663.
+    2004—[Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 532(c)(2)(B), Oct. 28, 2004, [118 Stat. 1900][/us/stat/118/1900], substituted “Joint duty assignments after completion of joint professional military education” for “Education” in item 663.
 
 ----------
 
@@ -106,13 +106,13 @@
 ----------
 ----------
 
-[/us/pl/113/291/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs505%2Fb
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3356
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4445
-[/us/pl/109/364/s516/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs516%2Fe%2F2
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2189
-[/us/pl/108/375/s532/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs532%2Fc%2F2%2FB
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1900
 
 

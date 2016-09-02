@@ -31,7 +31,7 @@
 
     (c) Commissioned officers of the Regular Army may be appointed in a special branch, but the Secretary may not assign any officer of the Regular Army to a special branch.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 167][/us/stat/70A/167]; [Pub. L. 90–329][/us/pl/90/329], June 4, 1968, [82 Stat. 170][/us/stat/82/170]; [Pub. L. 96–513, title II, § 231][/us/pl/96/513/s231], Dec. 12, 1980, [94 Stat. 2886][/us/stat/94/2886]; [Pub. L. 97–22, § 5(a)][/us/pl/97/22/s5/a], July 10, 1981, [95 Stat. 128][/us/stat/95/128].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 167][/us/stat/70A/167]; [Pub. L. 90–329][/us/pl/90/329], June 4, 1968, [82 Stat. 170][/us/stat/82/170]; [Pub. L. 96–513, title II][/us/pl/96/513/tII], § 231, Dec. 12, 1980, [94 Stat. 2886][/us/stat/94/2886]; [Pub. L. 97–22][/us/pl/97/22], § 5(a), July 10, 1981, [95 Stat. 128][/us/stat/95/128].)
 
 <table>
 
@@ -97,13 +97,13 @@ June 28, 1950, ch. 383, § 306(b), 64 Stat. 269.  </td>
 
  __Amendments__ 
 
-    1981—Subsec. (b). [Pub. L. 97–22, § 5(a)(1)][/us/pl/97/22/s5/a/1], substituted “may assign commissioned officers (other than officers of the Regular Army) and members to such branches” for “may appoint commissioned officers in, and may assign members to, such branches”.
+    1981—Subsec. (b). [Pub. L. 97–22][/us/pl/97/22], § 5(a)(1), substituted “may assign commissioned officers (other than officers of the Regular Army) and members to such branches” for “may appoint commissioned officers in, and may assign members to, such branches”.
 
-    Subsec. (c). [Pub. L. 97–22, § 5(a)(2)][/us/pl/97/22/s5/a/2], substituted “Commissioned officers of the Regular Army may be appointed in a special branch, but the Secretary” for “The Secretary”.
+    Subsec. (c). [Pub. L. 97–22][/us/pl/97/22], § 5(a)(2), substituted “Commissioned officers of the Regular Army may be appointed in a special branch, but the Secretary” for “The Secretary”.
 
-    1980—Subsec. (a)(4). [Pub. L. 96–513, § 231(1)][/us/pl/96/513/s231/1], added cl. (4).
+    1980—Subsec. (a)(4). [Pub. L. 96–513][/us/pl/96/513], § 231(1), added cl. (4).
 
-    Subsecs. (b), (c). [Pub. L. 96–513, § 231(2)][/us/pl/96/513/s231/2], (3), added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsecs. (b), (c). [Pub. L. 96–513][/us/pl/96/513], § 231(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
     1968—Subsec. (a)(1). [Pub. L. 90–329][/us/pl/90/329] substituted “Army Medical Department” for “Army Medical Service”.
 
@@ -122,14 +122,14 @@ June 28, 1950, ch. 383, § 306(b), 64 Stat. 269.  </td>
 [/us/stat/70A/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F167
 [/us/pl/90/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F329
 [/us/stat/82/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F170
-[/us/pl/96/513/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs231
+[/us/pl/96/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtII
 [/us/stat/94/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2886
-[/us/pl/97/22/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs5%2Fa
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F128
-[/us/pl/97/22/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs5%2Fa%2F1
-[/us/pl/97/22/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs5%2Fa%2F2
-[/us/pl/96/513/s231/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs231%2F1
-[/us/pl/96/513/s231/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs231%2F2
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/90/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F329
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

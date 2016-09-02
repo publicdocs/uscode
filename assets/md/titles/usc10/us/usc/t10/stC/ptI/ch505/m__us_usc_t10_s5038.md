@@ -23,7 +23,7 @@
 
     (d) The Chief of Naval Operations shall transfer duties, responsibilities, and staff from other personnel within the Office of the Chief of Naval Operations as necessary to fully support the Director for Expeditionary Warfare.
 
-(Added [Pub. L. 102–484, div. A, title IX, § 935(b)(1)][/us/pl/102/484/s935/b/1], Oct. 23, 1992, [106 Stat. 2478][/us/stat/106/2478]; amended [Pub. L. 103–35, title II, § 201(c)(10)][/us/pl/103/35/s201/c/10], May 31, 1993, [107 Stat. 98][/us/stat/107/98]; [Pub. L. 103–160, div. A, title IX, § 944][/us/pl/103/160/s944], Nov. 30, 1993, [107 Stat. 1737][/us/stat/107/1737]; [Pub. L. 107–107, div. A, title IX, § 932][/us/pl/107/107/s932], Dec. 28, 2001, [115 Stat. 1200][/us/stat/115/1200].)
+(Added [Pub. L. 102–484, div. A, title IX][/us/pl/102/484/dA/tIX], § 935(b)(1), Oct. 23, 1992, [106 Stat. 2478][/us/stat/106/2478]; amended [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 201(c)(10), May 31, 1993, [107 Stat. 98][/us/stat/107/98]; [Pub. L. 103–160, div. A, title IX][/us/pl/103/160/dA/tIX], § 944, Nov. 30, 1993, [107 Stat. 1737][/us/stat/107/1737]; [Pub. L. 107–107, div. A, title IX][/us/pl/107/107/dA/tIX], § 932, Dec. 28, 2001, [115 Stat. 1200][/us/stat/115/1200].)
 
  __Amendments__ 
 
@@ -40,13 +40,13 @@
 ----------
 ----------
 
-[/us/pl/102/484/s935/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs935%2Fb%2F1
+[/us/pl/102/484/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIX
 [/us/stat/106/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2478
-[/us/pl/103/35/s201/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fc%2F10
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F98
-[/us/pl/103/160/s944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs944
+[/us/pl/103/160/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIX
 [/us/stat/107/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1737
-[/us/pl/107/107/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs932
+[/us/pl/107/107/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIX
 [/us/stat/115/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1200
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160

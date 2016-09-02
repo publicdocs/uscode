@@ -231,45 +231,45 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–92, div. A, title X, § 1081(a)(1)][/us/pl/114/92/s1081/a/1], Nov. 25, 2015, [129 Stat. 1000][/us/stat/129/1000], substituted “Cyber Matters” for “Cyber matters” in item for chapter 19.
+    2015—[Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1081(a)(1), Nov. 25, 2015, [129 Stat. 1000][/us/stat/129/1000], substituted “Cyber Matters” for “Cyber matters” in item for chapter 19.
 
-    2014—[Pub. L. 113–291, div. A, title XVI, § 1632(d)][/us/pl/113/291/s1632/d], Dec. 19, 2014, [128 Stat. 3640][/us/stat/128/3640], added item for chapter 19.
+    2014—[Pub. L. 113–291, div. A, title XVI][/us/pl/113/291/dA/tXVI], § 1632(d), Dec. 19, 2014, [128 Stat. 3640][/us/stat/128/3640], added item for chapter 19.
 
-    2013—[Pub. L. 113–66, div. A, title X, § 1091(a)(1)][/us/pl/113/66/s1091/a/1], Dec. 26, 2013, [127 Stat. 875][/us/stat/127/875], substituted “Nuclear Posture” for “Nuclear posture” in item for chapter 24.
+    2013—[Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1091(a)(1), Dec. 26, 2013, [127 Stat. 875][/us/stat/127/875], substituted “Nuclear Posture” for “Nuclear posture” in item for chapter 24.
 
-    [Pub. L. 112–239, div. A, title X, § 1031(b)(2)][/us/pl/112/239/s1031/b/2], Jan. 2, 2013, [126 Stat. 1918][/us/stat/126/1918], added item for chapter 24.
+    [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1031(b)(2), Jan. 2, 2013, [126 Stat. 1918][/us/stat/126/1918], added item for chapter 24.
 
-    2008—[Pub. L. 110–181, div. A, title X, § 1068(a)(4)(B)][/us/pl/110/181/s1068/a/4/B], Jan. 28, 2008, [122 Stat. 326][/us/stat/122/326], substituted “Insurrection” for “Enforcement of the Laws to Restore Public Order” in item for chapter 15.
+    2008—[Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1068(a)(4)(B), Jan. 28, 2008, [122 Stat. 326][/us/stat/122/326], substituted “Insurrection” for “Enforcement of the Laws to Restore Public Order” in item for chapter 15.
 
-    2006—[Pub. L. 109–364, div. A, title X, § 1076(a)(4)(A)][/us/pl/109/364/s1076/a/4/A], Oct. 17, 2006, [120 Stat. 2405][/us/stat/120/2405], substituted “Enforcement of the Laws to Restore Public Order” for “Insurrection” in item for chapter 15.
+    2006—[Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1076(a)(4)(A), Oct. 17, 2006, [120 Stat. 2405][/us/stat/120/2405], substituted “Enforcement of the Laws to Restore Public Order” for “Insurrection” in item for chapter 15.
 
-    2004—[Pub. L. 108–375, div. A, title X, § 1084(d)(1)][/us/pl/108/375/s1084/d/1], Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061], substituted “480” for “481” in item for chapter 23.
+    2004—[Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(d)(1), Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061], substituted “480” for “481” in item for chapter 23.
 
-    2003—[Pub. L. 108–136, div. A, title IX, § 921(d)(8)][/us/pl/108/136/s921/d/8], Nov. 24, 2003, [117 Stat. 1569][/us/stat/117/1569], substituted “Geospatial-Intelligence” for “Imagery and Mapping” in item for chapter 22.
+    2003—[Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 921(d)(8), Nov. 24, 2003, [117 Stat. 1569][/us/stat/117/1569], substituted “Geospatial-Intelligence” for “Imagery and Mapping” in item for chapter 22.
 
-    1997—[Pub. L. 105–85, div. A, title X, § 1073(a)(1)][/us/pl/105/85/s1073/a/1], Nov. 18, 1997, [111 Stat. 1900][/us/stat/111/1900], substituted “481” for “471” in item for chapter 23.
+    1997—[Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(1), Nov. 18, 1997, [111 Stat. 1900][/us/stat/111/1900], substituted “481” for “471” in item for chapter 23.
 
-    1996—[Pub. L. 104–201, div. A, title XI, § 1123(a)(2)][/us/pl/104/201/s1123/a/2], Sept. 23, 1996, [110 Stat. 2688][/us/stat/110/2688], substituted “National Imagery and Mapping Agency” for “Miscellaneous Studies and Reports” and “441” for “451” in item for chapter 22 and added item for chapter 23.
+    1996—[Pub. L. 104–201, div. A, title XI][/us/pl/104/201/dA/tXI], § 1123(a)(2), Sept. 23, 1996, [110 Stat. 2688][/us/stat/110/2688], substituted “National Imagery and Mapping Agency” for “Miscellaneous Studies and Reports” and “441” for “451” in item for chapter 22 and added item for chapter 23.
 
-    1994—[Pub. L. 103–337, div. A, title V, § 554(a)(2)][/us/pl/103/337/s554/a/2], Oct. 5, 1994, [108 Stat. 2773][/us/stat/108/2773], added item for chapter 22.
+    1994—[Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 554(a)(2), Oct. 5, 1994, [108 Stat. 2773][/us/stat/108/2773], added item for chapter 22.
 
-    1991—[Pub. L. 102–190, div. A, title X, § 1002(a)(2)][/us/pl/102/190/s1002/a/2], Dec. 5, 1991, [105 Stat. 1455][/us/stat/105/1455], substituted “Defense Budget Matters” for “Regular Components” and inserted “221” in item for chapter 9.
+    1991—[Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1002(a)(2), Dec. 5, 1991, [105 Stat. 1455][/us/stat/105/1455], substituted “Defense Budget Matters” for “Regular Components” and inserted “221” in item for chapter 9.
 
-    1988—[Pub. L. 100–456, div. A, title XI, § 1104(b)][/us/pl/100/456/s1104/b], Sept. 29, 1988, [102 Stat. 2046][/us/stat/102/2046], substituted “Support for” for “Cooperation With” and “Agencies” for “Officials” in item for chapter 18.
+    1988—[Pub. L. 100–456, div. A, title XI][/us/pl/100/456/dA/tXI], § 1104(b), Sept. 29, 1988, [102 Stat. 2046][/us/stat/102/2046], substituted “Support for” for “Cooperation With” and “Agencies” for “Officials” in item for chapter 18.
 
-    1987—[Pub. L. 100–180, div. A, title III, § 332(c)][/us/pl/100/180/s332/c], Dec. 4, 1987, [101 Stat. 1080][/us/stat/101/1080], substituted “Humanitarian and Other Assistance” for “Humanitarian and Civic Assistance Provided in Conjunction With Military Operations” in item for chapter 20.
+    1987—[Pub. L. 100–180, div. A, title III][/us/pl/100/180/dA/tIII], § 332(c), Dec. 4, 1987, [101 Stat. 1080][/us/stat/101/1080], substituted “Humanitarian and Other Assistance” for “Humanitarian and Civic Assistance Provided in Conjunction With Military Operations” in item for chapter 20.
 
-    [Pub. L. 100–26, § 9(b)(4)][/us/pl/100/26/s9/b/4], Apr. 21, 1987, [101 Stat. 287][/us/stat/101/287], added item for chapter 21.
+    [Pub. L. 100–26][/us/pl/100/26], § 9(b)(4), Apr. 21, 1987, [101 Stat. 287][/us/stat/101/287], added item for chapter 21.
 
-    1986—[Pub. L. 99–661, div. A, title III, § 333(a)(2)][/us/pl/99/661/s333/a/2], Nov. 14, 1986, [100 Stat. 3859][/us/stat/100/3859], added item for chapter 20.
+    1986—[Pub. L. 99–661, div. A, title III][/us/pl/99/661/dA/tIII], § 333(a)(2), Nov. 14, 1986, [100 Stat. 3859][/us/stat/100/3859], added item for chapter 20.
 
-    [Pub. L. 99–433, title VI, § 605(a)][/us/pl/99/433/s605/a], Oct. 1, 1986, [100 Stat. 1075][/us/stat/100/1075]a, added items for chapters 2 and 6, inserted “and Functions” in item for chapter 3, substituted “Office of the Secretary of Defense” for “Department of Defense” in item for chapter 4, substituted “151” for “141” as section number in item for chapter 5, reenacted item for chapter 7 without change, and inserted “and Department of Defense Field activities” in item for chapter 8.
+    [Pub. L. 99–433, title VI][/us/pl/99/433/tVI], § 605(a), Oct. 1, 1986, [100 Stat. 1075][/us/stat/100/1075]a, added items for chapters 2 and 6, inserted “and Functions” in item for chapter 3, substituted “Office of the Secretary of Defense” for “Department of Defense” in item for chapter 4, substituted “151” for “141” as section number in item for chapter 5, reenacted item for chapter 7 without change, and inserted “and Department of Defense Field activities” in item for chapter 8.
 
-    1982—[Pub. L. 97–269, title V, § 501(b)][/us/pl/97/269/s501/b], Sept. 27, 1982, [96 Stat. 1145][/us/stat/96/1145], added item for chapter 8.
+    1982—[Pub. L. 97–269, title V][/us/pl/97/269/tV], § 501(b), Sept. 27, 1982, [96 Stat. 1145][/us/stat/96/1145], added item for chapter 8.
 
-    1981—[Pub. L. 97–86, title IX, § 905(a)(2)][/us/pl/97/86/s905/a/2], Dec. 1, 1981, [95 Stat. 1116][/us/stat/95/1116], added item for chapter 18.
+    1981—[Pub. L. 97–86, title IX][/us/pl/97/86/tIX], § 905(a)(2), Dec. 1, 1981, [95 Stat. 1116][/us/stat/95/1116], added item for chapter 18.
 
-    1962—[Pub. L. 87–651, title II, § 203][/us/pl/87/651/s203], Sept. 7, 1962, [76 Stat. 519][/us/stat/76/519], added item for chapter 4.
+    1962—[Pub. L. 87–651, title II][/us/pl/87/651/tII], § 203, Sept. 7, 1962, [76 Stat. 519][/us/stat/76/519], added item for chapter 4.
 
 ----------
 
@@ -278,45 +278,45 @@
 ----------
 ----------
 
-[/us/pl/114/92/s1081/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F1
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1000
-[/us/pl/113/291/s1632/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1632%2Fd
+[/us/pl/113/291/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXVI
 [/us/stat/128/3640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3640
-[/us/pl/113/66/s1091/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fa%2F1
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F875
-[/us/pl/112/239/s1031/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fb%2F2
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1918
-[/us/pl/110/181/s1068/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1068%2Fa%2F4%2FB
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F326
-[/us/pl/109/364/s1076/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1076%2Fa%2F4%2FA
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2405
-[/us/pl/108/375/s1084/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F1
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2061
-[/us/pl/108/136/s921/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fd%2F8
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1569
-[/us/pl/105/85/s1073/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F1
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1900
-[/us/pl/104/201/s1123/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1123%2Fa%2F2
+[/us/pl/104/201/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXI
 [/us/stat/110/2688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2688
-[/us/pl/103/337/s554/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs554%2Fa%2F2
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2773
-[/us/pl/102/190/s1002/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1002%2Fa%2F2
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1455
-[/us/pl/100/456/s1104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1104%2Fb
+[/us/pl/100/456/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXI
 [/us/stat/102/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2046
-[/us/pl/100/180/s332/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs332%2Fc
+[/us/pl/100/180/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtIII
 [/us/stat/101/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1080
-[/us/pl/100/26/s9/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs9%2Fb%2F4
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F287
-[/us/pl/99/661/s333/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs333%2Fa%2F2
+[/us/pl/99/661/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIII
 [/us/stat/100/3859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3859
-[/us/pl/99/433/s605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs605%2Fa
+[/us/pl/99/433/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtVI
 [/us/stat/100/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1075
-[/us/pl/97/269/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F269%2Fs501%2Fb
+[/us/pl/97/269/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F269%2FtV
 [/us/stat/96/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1145
-[/us/pl/97/86/s905/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs905%2Fa%2F2
+[/us/pl/97/86/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIX
 [/us/stat/95/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1116
-[/us/pl/87/651/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs203
+[/us/pl/87/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtII
 [/us/stat/76/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F519
 
 

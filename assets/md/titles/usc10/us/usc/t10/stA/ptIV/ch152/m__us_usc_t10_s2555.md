@@ -21,7 +21,7 @@
 
     (c) Amounts paid to the United States to reimburse it for the actual costs of transportation furnished under subsection (a) shall be credited to the current applicable appropriations or funds to which such costs were charged and shall be available for the same purposes as such appropriations or funds.
 
-(Added [Pub. L. 95–492, § 1][/us/pl/95/492/s1], Oct. 20, 1978, [92 Stat. 1642][/us/stat/92/1642], § 2545; renumbered § 2555, [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1033(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–260; [Pub. L. 107–107, div. A, title IX, § 931(a)][/us/pl/107/107/s931/a], Dec. 28, 2001, [115 Stat. 1200][/us/stat/115/1200].)
+(Added [Pub. L. 95–492][/us/pl/95/492], § 1, Oct. 20, 1978, [92 Stat. 1642][/us/stat/92/1642], § 2545; renumbered § 2555, [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1033(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–260; [Pub. L. 107–107, div. A, title IX][/us/pl/107/107/dA/tIX], § 931(a), Dec. 28, 2001, [115 Stat. 1200][/us/stat/115/1200].)
 
  __Codification__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/95/492/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F492%2Fs1
+[/us/pl/95/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F492
 [/us/stat/92/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1642
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s931/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs931%2Fa
+[/us/pl/107/107/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIX
 [/us/stat/115/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1200
 [/us/usc/t10/s2565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2565
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107

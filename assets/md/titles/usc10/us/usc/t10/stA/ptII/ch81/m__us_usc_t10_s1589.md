@@ -37,11 +37,11 @@
 
     The Secretary of Defense, and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to carry out this section.
 
-(Added [Pub. L. 105–85, div. A, title V, § 593(b)(1)][/us/pl/105/85/s593/b/1], Nov. 18, 1997, [111 Stat. 1763][/us/stat/111/1763]; amended [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+(Added [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 593(b)(1), Nov. 18, 1997, [111 Stat. 1763][/us/stat/111/1763]; amended [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
  __Prior Provisions__ 
 
-    A prior section 1589, added [Pub. L. 98–525, title XIV, § 1401(f)(1)][/us/pl/98/525/s1401/f/1], Oct. 19, 1984, [98 Stat. 2618][/us/stat/98/2618], provided, with exceptions, for prohibition on payment of lodging expenses when adequate Government quarters were available, prior to repeal by [Pub. L. 104–201, div. A, title XVI, § 1614(b)(1)][/us/pl/104/201/s1614/b/1], Sept. 23, 1996, [110 Stat. 2739][/us/stat/110/2739].
+    A prior section 1589, added [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1401(f)(1), Oct. 19, 1984, [98 Stat. 2618][/us/stat/98/2618], provided, with exceptions, for prohibition on payment of lodging expenses when adequate Government quarters were available, prior to repeal by [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1614(b)(1), Sept. 23, 1996, [110 Stat. 2739][/us/stat/110/2739].
 
  __Amendments__ 
 
@@ -59,13 +59,13 @@
 ----------
 
 [/us/usc/t10/s1033/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1033%2Fb
-[/us/pl/105/85/s593/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs593%2Fb%2F1
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1763
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/98/525/s1401/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1401%2Ff%2F1
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2618
-[/us/pl/104/201/s1614/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1614%2Fb%2F1
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2739
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

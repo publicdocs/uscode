@@ -27,7 +27,7 @@
 
     (b) When a function, power, or duty or an activity of a department or agency of the Department of Defense is transferred to another department or agency of that department, those civilian employees of the department or agency from which the transfer is made that the Secretary of Defense determines are needed to perform that function, power, or duty, or for that activity, as the case may be, may, with the approval of the President, be transferred to the department or agency to which that function, power, duty, or activity, as the case may be, is transferred. The authorized strength in civilian employees of a department or agency from which employees are transferred under this section is reduced by the number of employees so transferred. The authorized strength in civilian employees of a department or agency to which employees are transferred under this section is increased by the number of employees so transferred.
 
-(Added [Pub. L. 87–651, title II, § 201(a)][/us/pl/87/651/s201/a], Sept. 7, 1962, [76 Stat. 516][/us/stat/76/516]; amended [Pub. L. 96–513, title V, § 511(2)][/us/pl/96/513/s511/2], Dec. 12, 1980, [94 Stat. 2920][/us/stat/94/2920].)
+(Added [Pub. L. 87–651, title II][/us/pl/87/651/tII], § 201(a), Sept. 7, 1962, [76 Stat. 516][/us/stat/76/516]; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(2), Dec. 12, 1980, [94 Stat. 2920][/us/stat/94/2920].)
 
 <table>
 
@@ -118,9 +118,9 @@ July 26, 1947, ch. 343, § 308(a) (as applicable to § 407), 61 Stat. 509.  
 ----------
 ----------
 
-[/us/pl/87/651/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs201%2Fa
+[/us/pl/87/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtII
 [/us/stat/76/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F516
-[/us/pl/96/513/s511/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F2
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2920
 [/us/usc/t5/s172f/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs172f%2Fb
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

@@ -37,7 +37,7 @@
 
         (3) In this subsection, the term “simplified acquisition threshold” has the meaning given that term in [section 134 of title 41][/us/usc/t41/s134].
 
-(Added [Pub. L. 97–258, § 2(b)(5)(B)][/us/pl/97/258/s2/b/5/B], Sept. 13, 1982, [96 Stat. 1053][/us/stat/96/1053]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1009(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–250; [Pub. L. 111–350, § 5(b)(43)][/us/pl/111/350/s5/b/43], Jan. 4, 2011, [124 Stat. 3846][/us/stat/124/3846].)
+(Added [Pub. L. 97–258][/us/pl/97/258], § 2(b)(5)(B), Sept. 13, 1982, [96 Stat. 1053][/us/stat/96/1053]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1009(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–250; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(43), Jan. 4, 2011, [124 Stat. 3846][/us/stat/124/3846].)
 
 <table>
 
@@ -93,7 +93,7 @@ June 25, 1956, ch. 442, § 1, 70 Stat. 336.  </td>
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1009(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–251, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1009(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–251, provided that: 
 
 > “Subsections (a)(2) and (b) of [section 2636 of title 10][/us/usc/t10/s2636], United States Code, as added by subsection (a)(1), shall apply with respect to contracts entered into after the date of the enactment of this Act \[Oct. 30, 2000\].”
 
@@ -107,11 +107,11 @@ June 25, 1956, ch. 442, § 1, 70 Stat. 336.  </td>
 [/us/usc/t31/s3716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3716
 [/us/usc/t31/s3716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3716
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
-[/us/pl/97/258/s2/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F5%2FB
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1053
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/111/350/s5/b/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F43
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3846
 [/us/act/1947-07-26/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fs205%2Fa
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
@@ -123,7 +123,7 @@ June 25, 1956, ch. 442, § 1, 70 Stat. 336.  </td>
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
 [/us/usc/t41/s403/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F11
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s2636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2636
 

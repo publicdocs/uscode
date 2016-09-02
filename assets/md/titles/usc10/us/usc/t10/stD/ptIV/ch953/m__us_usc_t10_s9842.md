@@ -17,7 +17,7 @@
 
     The Comptroller General shall settle the account of a line officer of the Air Force for pay due the officer even if the officer cannot account for property entrusted to the officer or cannot make a monthly report or return, when the Comptroller General is satisfied that the inability to account for property or make a report or return was the result of the officer having been a prisoner, or of an accident or casualty of war.
 
-(Added [Pub. L. 97–258, § 2(b)(14)(B)][/us/pl/97/258/s2/b/14/B], Sept. 13, 1982, [96 Stat. 1058][/us/stat/96/1058].)
+(Added [Pub. L. 97–258][/us/pl/97/258], § 2(b)(14)(B), Sept. 13, 1982, [96 Stat. 1058][/us/stat/96/1058].)
 
 <table>
 
@@ -88,7 +88,7 @@ The section is made applicable to the Air Force by section 207(a) and (f) of the
 ----------
 ----------
 
-[/us/pl/97/258/s2/b/14/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F14%2FB
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1058
 [/us/stat/61/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F502
 

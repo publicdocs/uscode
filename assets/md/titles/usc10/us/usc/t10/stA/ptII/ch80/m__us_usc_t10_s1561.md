@@ -65,21 +65,21 @@
 
         (3) Any deliberate or repeated unwelcome verbal comment or gesture of a sexual nature in the workplace by any member of the armed forces or civilian employee of the Department of Defense.
 
-(Added [Pub. L. 105–85, div. A, title V, § 591(a)(1)][/us/pl/105/85/s591/a/1], Nov. 18, 1997, [111 Stat. 1760][/us/stat/111/1760].)
+(Added [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 591(a)(1), Nov. 18, 1997, [111 Stat. 1760][/us/stat/111/1760].)
 
  __Prior Provisions__ 
 
-    Prior sections 1571 to 1577, [Pub. L. 89–690, § 1][/us/pl/89/690/s1], Oct. 15, 1966, [80 Stat. 1016][/us/stat/80/1016], related to creation of Exemplary Rehabilitation Certificates to be issued by the Secretary of Labor to persons discharged or dismissed from the Armed Forces under conditions other than honorable or to persons who had received a general discharge but who had established that they had rehabilitated themselves and established the administrative and other authority in connection therewith, prior to repeal by [Pub. L. 90–83, § 3(2)][/us/pl/90/83/s3/2], Sept. 11, 1967, [81 Stat. 220][/us/stat/81/220].
+    Prior sections 1571 to 1577, [Pub. L. 89–690][/us/pl/89/690], § 1, Oct. 15, 1966, [80 Stat. 1016][/us/stat/80/1016], related to creation of Exemplary Rehabilitation Certificates to be issued by the Secretary of Labor to persons discharged or dismissed from the Armed Forces under conditions other than honorable or to persons who had received a general discharge but who had established that they had rehabilitated themselves and established the administrative and other authority in connection therewith, prior to repeal by [Pub. L. 90–83][/us/pl/90/83], § 3(2), Sept. 11, 1967, [81 Stat. 220][/us/stat/81/220].
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–311, § 1][/us/pl/107/311/s1], Dec. 2, 2002, [116 Stat. 2455][/us/stat/116/2455], provided that: 
+[Pub. L. 107–311][/us/pl/107/311], § 1, Dec. 2, 2002, [116 Stat. 2455][/us/stat/116/2455], provided that: 
 
 > “This Act \[enacting [section 1561a of this title][/us/usc/t10/s1561a]\] may be cited as the ‘Armed Forces Domestic Security Act’.”
 
  __Retention of Case Notes in Investigations of sex-Related Offenses Involving Members of the Army, Navy, Air Force, or Marine Corps__ 
 
-[Pub. L. 114–92, div. A, title V, § 541][/us/pl/114/92/s541], Nov. 25, 2015, [129 Stat. 819][/us/stat/129/819], provided that:
+[Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 541, Nov. 25, 2015, [129 Stat. 819][/us/stat/129/819], provided that:
 
 >     “(a)  __Retention of All Investigative Records Required__  __.—__ 
 
@@ -107,7 +107,7 @@
 
  __Required Consideration of Certain Elements of Command Climate in Performance Appraisals of Commanding Officers__ 
 
-[Pub. L. 113–291, div. A, title V, § 508][/us/pl/113/291/s508], Dec. 19, 2014, [128 Stat. 3357][/us/stat/128/3357], provided that: 
+[Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 508, Dec. 19, 2014, [128 Stat. 3357][/us/stat/128/3357], provided that: 
 
 > “The Secretary of a military department shall ensure that the performance appraisal of a commanding officer in an Armed Force under the jurisdiction of that Secretary indicates the extent to which the commanding officer has or has not established a command climate in which—
 
@@ -117,7 +117,7 @@
 
  __Requirements Relating to Sexual Assault Forensic Examiners for the Armed Forces__ 
 
-[Pub. L. 113–291, div. A, title V, § 539(a)][/us/pl/113/291/s539/a], (b), Dec. 19, 2014, [128 Stat. 3370][/us/stat/128/3370], provided that:
+[Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 539(a), (b), Dec. 19, 2014, [128 Stat. 3370][/us/stat/128/3370], provided that:
 
 >     “(a) __Personnel Eligible for Assignment.—__ 
 
@@ -163,7 +163,7 @@
 
  __Defense Advisory Committee on Investigation, Prosecution, and Defense of Sexual Assault in the Armed Forces__ 
 
-[Pub. L. 113–291, div. A, title V, § 546(a)][/us/pl/113/291/s546/a]–(e), Dec. 19, 2014, [128 Stat. 3374][/us/stat/128/3374], 3375, as amended by [Pub. L. 114–92, div. A, title V, § 537][/us/pl/114/92/s537], Nov. 25, 2015, [129 Stat. 817][/us/stat/129/817], provided that:
+[Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 546(a)–(e), Dec. 19, 2014, [128 Stat. 3374][/us/stat/128/3374], 3375, as amended by [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 537, Nov. 25, 2015, [129 Stat. 817][/us/stat/129/817], provided that:
 
 >     “(a) __Establishment Required.—__ 
 
@@ -205,7 +205,7 @@
 
  __Improved Climate Assessments and Dissemination of Results__ 
 
-[Pub. L. 113–66, div. A, title V, § 587][/us/pl/113/66/s587], Dec. 26, 2013, [127 Stat. 778][/us/stat/127/778], provided that:
+[Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 587, Dec. 26, 2013, [127 Stat. 778][/us/stat/127/778], provided that:
 
 >     “(a)  __Improved Dissemination of Results in Chain of Command__  __.—__ 
 
@@ -221,7 +221,7 @@
 
  __Availability of Sexual Assault Forensic Examiners at Military Medical Treatment Facilities__ 
 
-[Pub. L. 113–66, div. A, title XVII, § 1725(b)][/us/pl/113/66/s1725/b], Dec. 26, 2013, [127 Stat. 971][/us/stat/127/971], as amended by [Pub. L. 113–291, div. A, title V, § 539(d)(1)][/us/pl/113/291/s539/d/1], Dec. 19, 2014, [128 Stat. 3371][/us/stat/128/3371], provided that:
+[Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1725(b), Dec. 26, 2013, [127 Stat. 971][/us/stat/127/971], as amended by [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 539(d)(1), Dec. 19, 2014, [128 Stat. 3371][/us/stat/128/3371], provided that:
 
 >     “(1)  __Facilities with full-time emergency department__  __.—__ 
 
@@ -233,7 +233,7 @@
 
  __Commanding Officer Action on Reports on Sexual Offenses Involving Members of the Armed Forces__ 
 
-[Pub. L. 113–66, div. A, title XVII, § 1742][/us/pl/113/66/s1742], Dec. 26, 2013, [127 Stat. 979][/us/stat/127/979], provided that:
+[Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1742, Dec. 26, 2013, [127 Stat. 979][/us/stat/127/979], provided that:
 
 >     “(a)  __Immediate Action Required__  __.—__ 
 
@@ -245,7 +245,7 @@
 
  __Eight-Day Incident Reporting Requirement in Response to Unrestricted Report of Sexual Assault in Which the Victim is a Member of the Armed Forces__ 
 
-[Pub. L. 113–66, div. A, title XVII, § 1743][/us/pl/113/66/s1743], Dec. 26, 2013, [127 Stat. 979][/us/stat/127/979], provided that:
+[Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1743, Dec. 26, 2013, [127 Stat. 979][/us/stat/127/979], provided that:
 
 >     “(a)  __Incident Reporting Policy Requirement__  __.—__ 
 
@@ -303,7 +303,7 @@
 
  __Inclusion and Command Review of Information on Sex-Related Offenses in Personnel Service Records of Members of the Armed Forces__ 
 
-[Pub. L. 113–66, div. A, title XVII, § 1745][/us/pl/113/66/s1745], Dec. 26, 2013, [127 Stat. 982][/us/stat/127/982], provided that:
+[Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1745, Dec. 26, 2013, [127 Stat. 982][/us/stat/127/982], provided that:
 
 >     “(a) __Information on Reports on Sex-Related Offenses.—__ 
 
@@ -335,7 +335,7 @@
 
  __Establishment of Special Victim Capabilities Within the Military Departments To Respond to Allegations of Certain Special Victim Offenses__ 
 
-[Pub. L. 112–239, div. A, title V, § 573][/us/pl/112/239/s573], Jan. 2, 2013, [126 Stat. 1755][/us/stat/126/1755], provided that:
+[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 573, Jan. 2, 2013, [126 Stat. 1755][/us/stat/126/1755], provided that:
 
 >     “(a)  __Establishment Required__  __.—__ 
 
@@ -399,7 +399,7 @@
 
  __Retention of Certain Forms in Connection With Restricted Reports and Unrestricted Reports on Sexual Assault Involving Members of the Armed Forces__ 
 
-[Pub. L. 112–239, div. A, title V, § 577][/us/pl/112/239/s577], Jan. 2, 2013, [126 Stat. 1762][/us/stat/126/1762], as amended by [Pub. L. 113–66, div. A, title XVII, § 1723][/us/pl/113/66/s1723], Dec. 26, 2013, [127 Stat. 970][/us/stat/127/970], provided that:
+[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 577, Jan. 2, 2013, [126 Stat. 1762][/us/stat/126/1762], as amended by [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1723, Dec. 26, 2013, [127 Stat. 970][/us/stat/127/970], provided that:
 
 >     “(a)  __Period of Retention__  __.—__ 
 
@@ -415,7 +415,7 @@
 
  __General or Flag Officer Review of and Concurrence in Separation of Members of the Armed Forces Making an Unrestricted Report of Sexual Assault__ 
 
-[Pub. L. 112–239, div. A, title V, § 578][/us/pl/112/239/s578], Jan. 2, 2013, [126 Stat. 1763][/us/stat/126/1763], provided that:
+[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 578, Jan. 2, 2013, [126 Stat. 1763][/us/stat/126/1763], provided that:
 
 >     “(a)  __Review Required__  __.—__ 
 
@@ -441,7 +441,7 @@
 
  __Department of Defense Policy and Plan for Prevention and Response to Sexual Harassment in the Armed Forces__ 
 
-[Pub. L. 112–239, div. A, title V, § 579][/us/pl/112/239/s579], Jan. 2, 2013, [126 Stat. 1763][/us/stat/126/1763], provided that:
+[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 579, Jan. 2, 2013, [126 Stat. 1763][/us/stat/126/1763], provided that:
 
 >     “(a)  __Comprehensive Prevention and Response Policy.__  __—__ 
 
@@ -479,7 +479,7 @@
 
  __Sexual Assault Response Coordinators and Sexual Assault Victim Advocates__ 
 
-[Pub. L. 112–81, div. A, title V, § 584][/us/pl/112/81/s584], Dec. 31, 2011, [125 Stat. 1432][/us/stat/125/1432], as amended by [Pub. L. 113–66, div. A, title XVII, § 1724][/us/pl/113/66/s1724], Dec. 26, 2013, [127 Stat. 970][/us/stat/127/970], provided that:
+[Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 584, Dec. 31, 2011, [125 Stat. 1432][/us/stat/125/1432], as amended by [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1724, Dec. 26, 2013, [127 Stat. 970][/us/stat/127/970], provided that:
 
 >     “(a) __Assignment of Coordinators.—__ 
 
@@ -533,11 +533,11 @@
 
  __Training and Education Programs for Sexual Assault Prevention and Response Program__ 
 
-[Pub. L. 113–66, div. A, title XVII, § 1713(c)][/us/pl/113/66/s1713/c], Dec. 26, 2013, [127 Stat. 964][/us/stat/127/964], provided that: 
+[Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1713(c), Dec. 26, 2013, [127 Stat. 964][/us/stat/127/964], provided that: 
 
 > “The Secretary of Defense shall provide for the inclusion of information and discussion regarding the availability and use of the authority described by [section 674 of title 10][/us/usc/t10/s674], United States Code, as added by subsection (a), as part of the training for new and prospective commanders at all levels of command required by section 585(b) of the National Defense Authorization Act for Fiscal Year 2012 ([Public Law 112–81][/us/pl/112/81]; [10 U.S.C. 1561][/us/usc/t10/s1561] note).”
 
-[Pub. L. 112–81, div. A, title V, § 585][/us/pl/112/81/s585], Dec. 31, 2011, [125 Stat. 1434][/us/stat/125/1434], as amended by [Pub. L. 112–239, div. A, title V, § 574][/us/pl/112/239/s574], Jan. 2, 2013, [126 Stat. 1756][/us/stat/126/1756]; [Pub. L. 113–66, div. A, title X, § 1091(c)(2)][/us/pl/113/66/s1091/c/2], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided that:
+[Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 585, Dec. 31, 2011, [125 Stat. 1434][/us/stat/125/1434], as amended by [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 574, Jan. 2, 2013, [126 Stat. 1756][/us/stat/126/1756]; [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1091(c)(2), Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided that:
 
 >     “(a) __Sexual Assault Prevention and Response Training and Education.—__ 
 
@@ -601,11 +601,11 @@
 
 >             “(B) The resources available with respect to sexual assault reporting and prevention and the procedures to be followed by a member seeking to access those resources.”
 
-    \[[Pub. L. 113–66, div. A, title X, § 1091(c)][/us/pl/113/66/s1091/c], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided in part that the amendment made by section 1091(c)(2) to [section 585 of Pub. L. 112–81][/us/pl/112/81/s585], set out above, is effective as of Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.\]
+    \[[Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1091(c), Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided in part that the amendment made by section 1091(c)(2) to [section 585 of Pub. L. 112–81][/us/pl/112/81/s585], set out above, is effective as of Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.\]
 
  __Department of Defense Policy and Procedures on Retention and Access to Evidence and Records Relating to Sexual Assaults Involving Members of the Armed Forces__ 
 
-[Pub. L. 112–81, div. A, title V, § 586(a)][/us/pl/112/81/s586/a]–(d), (f), Dec. 31, 2011, [125 Stat. 1434][/us/stat/125/1434], 1435, as amended by [Pub. L. 113–291, div. A, title V, § 538][/us/pl/113/291/s538], Dec. 19, 2014, [128 Stat. 3369][/us/stat/128/3369], provided that:
+[Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 586(a)–(d), (f), Dec. 31, 2011, [125 Stat. 1434][/us/stat/125/1434], 1435, as amended by [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 538, Dec. 19, 2014, [128 Stat. 3369][/us/stat/128/3369], provided that:
 
 >     “(a)  __Comprehensive Policy on Retention and Access to Records__  __.—__ 
 
@@ -657,7 +657,7 @@
 
  __Improved Sexual Assault Prevention and Response in the Armed Forces__ 
 
-[Pub. L. 112–239, div. A, title V, § 572][/us/pl/112/239/s572], Jan. 2, 2013, [126 Stat. 1753][/us/stat/126/1753], as amended by [Pub. L. 113–66, div. A, title XVII, § 1721][/us/pl/113/66/s1721], Dec. 26, 2013, [127 Stat. 970][/us/stat/127/970], provided that:
+[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 572, Jan. 2, 2013, [126 Stat. 1753][/us/stat/126/1753], as amended by [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1721, Dec. 26, 2013, [127 Stat. 970][/us/stat/127/970], provided that:
 
 >     “(a)  __Policy Modifications__  __.—__ 
 
@@ -715,7 +715,7 @@
 
 >     The Secretary of Defense shall direct the Secretaries of the military departments to verify and track the compliance of commanding officers in conducting organizational climate assessments, as required by subsection (a)(3).”
 
-[Pub. L. 111–383, div. A, title XVI][/us/pl/111/383], Jan. 7, 2011, [124 Stat. 4429][/us/stat/124/4429], as amended by [Pub. L. 112–81, div. A, title V, § 583][/us/pl/112/81/s583], Dec. 31, 2011, [125 Stat. 1432][/us/stat/125/1432]; [Pub. L. 112–239, div. A, title V, § 575(a)][/us/pl/112/239/s575/a], (b), Jan. 2, 2013, [126 Stat. 1757][/us/stat/126/1757], 1758; [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66], §§ 1725(a), 1726, Dec. 26, 2013, [127 Stat. 971][/us/stat/127/971], 972; [Pub. L. 113–291, div. A, title V, § 542(a)][/us/pl/113/291/s542/a], (b), title X, § 1071(i), Dec. 19, 2014, [128 Stat. 3372][/us/stat/128/3372], 3373, 3512, provided that:
+[Pub. L. 111–383, div. A, title XVI][/us/pl/111/383/dA/tXVI], Jan. 7, 2011, [124 Stat. 4429][/us/stat/124/4429], as amended by [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 583, Dec. 31, 2011, [125 Stat. 1432][/us/stat/125/1432]; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 575(a), (b), Jan. 2, 2013, [126 Stat. 1757][/us/stat/126/1757], 1758; [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], §§ 1725(a), 1726, Dec. 26, 2013, [127 Stat. 971][/us/stat/127/971], 972; [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 542(a), (b), title X, § 1071(i), Dec. 19, 2014, [128 Stat. 3372][/us/stat/128/3372], 3373, 3512, provided that:
 
 > “SEC. 1601. __DEFINITION OF DEPARTMENT OF DEFENSE SEXUAL ASSAULT PREVENTION AND RESPONSE PROGRAM AND OTHER DEFINITIONS.__ 
 
@@ -1033,13 +1033,13 @@
 
 >     The Secretary of Defense shall submit the results of the evaluations required by this section to the Committees on Armed Services of the Senate and House of Representatives.”
 
-\[[Pub. L. 113–291, div. A, title V, § 542(c)][/us/pl/113/291/s542/c], Dec. 19, 2014, [128 Stat. 3373][/us/stat/128/3373], provided that: 
+\[[Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 542(c), Dec. 19, 2014, [128 Stat. 3373][/us/stat/128/3373], provided that: 
 
 > “The amendments made by this section \[amending [section 1631 of Pub. L. 111–383][/us/pl/111/383/s1631], set out above\] shall take effect on the date of the enactment of this Act \[Dec. 19, 2014\] and apply beginning with the report regarding sexual assaults involving members of the Armed Forces required to be submitted by March 1, 2015, under section 1631 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 \[[Pub. L. 111–383][/us/pl/111/383]\].”
 
 \]
 
-\[[Pub. L. 112–239, div. A, title V, § 575(c)][/us/pl/112/239/s575/c], Jan. 2, 2013, [126 Stat. 1758][/us/stat/126/1758]. provided that: 
+\[[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 575(c), Jan. 2, 2013, [126 Stat. 1758][/us/stat/126/1758]. provided that: 
 
 > “The amendments made by this section \[amending [section 1631 of Pub. L. 111–383][/us/pl/111/383/s1631], set out above\] shall apply beginning with the report regarding sexual assaults involving members of the Armed Forces required to be submitted by March 1, 2014, under section 1631 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 \[[Pub. L. 111–383][/us/pl/111/383]\].”
 
@@ -1047,7 +1047,7 @@
 
  __Defense Incident-Based Reporting System and Defense Sexual Assault Incident Database__ 
 
-[Pub. L. 111–84, div. A, title V, § 598][/us/pl/111/84/s598], Oct. 28, 2009, [123 Stat. 2345][/us/stat/123/2345], provided that: 
+[Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 598, Oct. 28, 2009, [123 Stat. 2345][/us/stat/123/2345], provided that: 
 
 > “Not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2009\], and every six months thereafter, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report detailing the progress of the Secretary with respect to the completion of the following:
 
@@ -1089,7 +1089,7 @@
 
 >         “(1) section 577(f) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 ([Public Law 108–375][/us/pl/108/375]) \[set out below\];
 
->         “(2) section 596(c) of the National Defense Authorization Act for Fiscal Year 2006 ([Public Law 109–163][/us/pl/109/163]) \[amending [Pub. L. 108–375, § 577][/us/pl/108/375/s577], set out below\];
+>         “(2) section 596(c) of the National Defense Authorization Act for Fiscal Year 2006 ([Public Law 109–163][/us/pl/109/163]) \[amending [Pub. L. 108–375][/us/pl/108/375], § 577, set out below\];
 
 >         “(3) section 532 of the John Warner National Defense Authorization Act for Fiscal Year 2007 ([Public Law 109–364][/us/pl/109/364]) \[enacting sections 4361, 6980, and 9361 of this title and provisions set out as a note under [section 4361 of this title][/us/usc/t10/s4361] and repealing provisions set out as a note under [section 4331 of this title][/us/usc/t10/s4331]\]; and
 
@@ -1097,7 +1097,7 @@
 
  __Improvement to Department of Defense Capacity To Respond to Sexual Assault Affecting Members of the Armed Forces__ 
 
-[Pub. L. 109–163, div. A, title V, § 596(a)][/us/pl/109/163/s596/a], (b), Jan. 6, 2006, [119 Stat. 3282][/us/stat/119/3282], provided that:
+[Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 596(a), (b), Jan. 6, 2006, [119 Stat. 3282][/us/stat/119/3282], provided that:
 
 >     “(a) __Plan for System to Track Cases in Which Care or Prosecution Hindered by Lack of Availability.—__ 
 
@@ -1125,7 +1125,7 @@
 
  __Department of Defense Policy and Procedures on Prevention and Response to Sexual Assaults Involving Members of the Armed Forces__ 
 
-[Pub. L. 111–84, div. A, title V, § 567(c)][/us/pl/111/84/s567/c], Oct. 28, 2009, [123 Stat. 2314][/us/stat/123/2314], provided that:
+[Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 567(c), Oct. 28, 2009, [123 Stat. 2314][/us/stat/123/2314], provided that:
 
 >     “(1) __Requirement for data collection.—__ 
 
@@ -1145,7 +1145,7 @@
 
 >     Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report explaining the measures being taken to ensure that, when a military protective order has been issued, the member of the Armed Forces who is protected by the order is informed, in a timely manner, of the member’s option to request transfer from the command to which the member is assigned.”
 
-[Pub. L. 108–375, div. A, title V, § 577][/us/pl/108/375/s577], Oct. 28, 2004, [118 Stat. 1926][/us/stat/118/1926], as amended by [Pub. L. 109–163, div. A, title V, § 596(c)][/us/pl/109/163/s596/c], Jan. 6, 2006, [119 Stat. 3283][/us/stat/119/3283]; [Pub. L. 109–364, div. A, title V, § 583][/us/pl/109/364/s583], Oct. 17, 2006, [120 Stat. 2230][/us/stat/120/2230]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 563(e), Oct. 14, 2008, [122 Stat. 4471][/us/stat/122/4471]; [Pub. L. 111–383, div. A, title X, § 1075(i)(1)][/us/pl/111/383/s1075/i/1], title XVI, § 1631(e)(1), Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], 4435, provided that:
+[Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 577, Oct. 28, 2004, [118 Stat. 1926][/us/stat/118/1926], as amended by [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 596(c), Jan. 6, 2006, [119 Stat. 3283][/us/stat/119/3283]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 583, Oct. 17, 2006, [120 Stat. 2230][/us/stat/120/2230]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 563(e), Oct. 14, 2008, [122 Stat. 4471][/us/stat/122/4471]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(i)(1), title XVI, § 1631(e)(1), Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], 4435, provided that:
 
 >     “(a)  __Comprehensive Policy on Prevention and Response to Sexual Assaults__  __.—__ 
 
@@ -1231,11 +1231,11 @@
 
  __Reports__ 
 
-    [Pub. L. 105–85, div. A, title V, § 591(b)][/us/pl/105/85/s591/b], Nov. 18, 1997, [111 Stat. 1762][/us/stat/111/1762], required each officer receiving a complaint forwarded in accordance with subsec. (b) of this section during 1997 and 1998 to submit to the Secretary of the military department concerned a report on all such complaints and the investigations of such complaints not later than Jan. 1 of each of 1998 and 1999, required each Secretary receiving a report for a year to submit to the Secretary of Defense a report on all reports received not later than Mar. 1 of each of 1998 and 1999, and required the Secretary of Defense to transmit to Congress all reports received for the year together with the Secretary’s assessment of each report not later than Apr. 1 following receipt of a report for a year.
+    [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 591(b), Nov. 18, 1997, [111 Stat. 1762][/us/stat/111/1762], required each officer receiving a complaint forwarded in accordance with subsec. (b) of this section during 1997 and 1998 to submit to the Secretary of the military department concerned a report on all such complaints and the investigations of such complaints not later than Jan. 1 of each of 1998 and 1999, required each Secretary receiving a report for a year to submit to the Secretary of Defense a report on all reports received not later than Mar. 1 of each of 1998 and 1999, and required the Secretary of Defense to transmit to Congress all reports received for the year together with the Secretary’s assessment of each report not later than Apr. 1 following receipt of a report for a year.
 
  __Department of Defense Policies and Procedures on Discrimination and Sexual Harassment__ 
 
-[Pub. L. 103–337, div. A, title V, § 532][/us/pl/103/337/s532], Oct. 5, 1994, [108 Stat. 2759][/us/stat/108/2759], provided that:
+[Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 532, Oct. 5, 1994, [108 Stat. 2759][/us/stat/108/2759], provided that:
 
 >     “(a)  __Report of Task Force__  __.—__ 
 
@@ -1306,83 +1306,83 @@
 ----------
 ----------
 
-[/us/pl/105/85/s591/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs591%2Fa%2F1
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1760
-[/us/pl/89/690/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F690%2Fs1
+[/us/pl/89/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F690
 [/us/stat/80/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1016
-[/us/pl/90/83/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs3%2F2
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F220
-[/us/pl/107/311/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F311%2Fs1
+[/us/pl/107/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F311
 [/us/stat/116/2455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2455
 [/us/usc/t10/s1561a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1561a
-[/us/pl/114/92/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs541
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F819
 [/us/usc/t10/s1044e/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044e%2Fg
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t10/s1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1561
-[/us/pl/113/291/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs508
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3357
-[/us/pl/113/291/s539/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs539%2Fa
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3370
-[/us/pl/113/291/s546/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs546%2Fa
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3374
-[/us/pl/114/92/s537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs537
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F817
-[/us/pl/113/66/s587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs587
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F778
-[/us/pl/113/66/s1725/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1725%2Fb
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F971
-[/us/pl/113/291/s539/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs539%2Fd%2F1
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3371
-[/us/pl/113/66/s1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1742
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F979
-[/us/pl/113/66/s1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1743
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F979
-[/us/pl/113/66/s1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1745
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F982
-[/us/pl/112/239/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs573
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1755
-[/us/pl/112/239/s577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs577
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1762
-[/us/pl/113/66/s1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1723
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F970
-[/us/pl/112/239/s578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs578
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1763
-[/us/pl/112/239/s579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs579
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1763
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/stat/124/4433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4433
 [/us/usc/t10/s1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1561
-[/us/pl/112/81/s584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs584
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1432
-[/us/pl/113/66/s1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1724
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F970
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1561
-[/us/pl/113/66/s1713/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1713%2Fc
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F964
 [/us/usc/t10/s674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs674
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t10/s1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1561
-[/us/pl/112/81/s585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs585
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1434
-[/us/pl/112/239/s574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs574
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1756
-[/us/pl/113/66/s1091/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fc%2F2
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
-[/us/pl/113/66/s1091/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fc
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
 [/us/pl/112/81/s585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs585
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/112/81/s586/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs586%2Fa
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1434
-[/us/pl/113/291/s538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs538
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3369
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/112/239/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs572
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1753
-[/us/pl/113/66/s1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1721
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F970
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/stat/124/4430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4430
@@ -1392,15 +1392,15 @@
 [/us/usc/t10/s920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs920
 [/us/usc/t10/s925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs925
 [/us/usc/t10/s880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs880
-[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXVI
 [/us/stat/124/4429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4429
-[/us/pl/112/81/s583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs583
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1432
-[/us/pl/112/239/s575/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs575%2Fa
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1757
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F971
-[/us/pl/113/291/s542/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs542%2Fa
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3372
 [/us/usc/t10/s1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072
 [/us/usc/t10/s101/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F6
@@ -1423,41 +1423,41 @@
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
 [/us/usc/t10/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs832
-[/us/pl/113/291/s542/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs542%2Fc
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3373
 [/us/pl/111/383/s1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1631
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/112/239/s575/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs575%2Fc
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1758
 [/us/pl/111/383/s1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1631
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/111/84/s598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs598
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2345
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4470
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/108/375/s577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs577
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s4361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4361
 [/us/usc/t10/s4331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4331
-[/us/pl/109/163/s596/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs596%2Fa
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3282
-[/us/pl/111/84/s567/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs567%2Fc
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2314
-[/us/pl/108/375/s577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs577
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1926
-[/us/pl/109/163/s596/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs596%2Fc
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3283
-[/us/pl/109/364/s583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs583
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2230
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4471
-[/us/pl/111/383/s1075/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fi%2F1
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4377
-[/us/pl/105/85/s591/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs591%2Fb
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1762
-[/us/pl/103/337/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs532
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2759
 
 

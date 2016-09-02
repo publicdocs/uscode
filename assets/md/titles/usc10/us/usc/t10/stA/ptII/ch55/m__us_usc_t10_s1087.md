@@ -35,7 +35,7 @@
 
         (2) In addition, a determination made for the purpose of clause (2) of subsection (a) shall be made in accordance with an economic analysis (including a life-cycle cost analysis) of the facility and consideration of all reasonable and available medical care treatment alternatives (including treatment provided under a contract under [section 1086 of this title][/us/usc/t10/s1086] or under part A of title XVIII of the Social Security Act ([42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.)).
 
-(Added [Pub. L. 89–614, § 2(7)][/us/pl/89/614/s2/7], Sept. 30, 1966, [80 Stat. 866][/us/stat/80/866]; amended [Pub. L. 97–337, § 1][/us/pl/97/337/s1], Oct. 15, 1982, [96 Stat. 1631][/us/stat/96/1631]; [Pub. L. 98–525, title XIV, § 1405(24)][/us/pl/98/525/s1405/24], Oct. 19, 1984, [98 Stat. 2623][/us/stat/98/2623]; [Pub. L. 99–661, div. A, title XIII, § 1343(a)(4)][/us/pl/99/661/s1343/a/4], Nov. 14, 1986, [100 Stat. 3992][/us/stat/100/3992].)
+(Added [Pub. L. 89–614][/us/pl/89/614], § 2(7), Sept. 30, 1966, [80 Stat. 866][/us/stat/80/866]; amended [Pub. L. 97–337][/us/pl/97/337], § 1, Oct. 15, 1982, [96 Stat. 1631][/us/stat/96/1631]; [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(24), Oct. 19, 1984, [98 Stat. 2623][/us/stat/98/2623]; [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1343(a)(4), Nov. 14, 1986, [100 Stat. 3992][/us/stat/100/3992].)
 
  __References in Text__ 
 
@@ -47,15 +47,15 @@
 
     1984—Subsec. (b)(2). [Pub. L. 98–525][/us/pl/98/525] which directed that “([42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.)” be inserted after “the Social Security Act.”, was executed by inserting parenthetical after “the Social Security Act” to reflect the probable intent of Congress. See 1986 Amendment note above.
 
-    1982—Subsec. (a). [Pub. L. 97–337, § 1(1)][/us/pl/97/337/s1/1], designated existing provisions as subsec. (a).
+    1982—Subsec. (a). [Pub. L. 97–337][/us/pl/97/337], § 1(1), designated existing provisions as subsec. (a).
 
-    [Pub. L. 97–337, § 1(2)][/us/pl/97/337/s1/2], substituted provisions limiting the maximum amount of space to be programed as the greater of the amounts of space described in par. (1) or (2) for provisions limiting the amount of space to be programed to that amount needed to support teaching and training requirements, except that space may be programed in areas having large concentrations of retired members where there is a critical shortage of facilities.
+    [Pub. L. 97–337][/us/pl/97/337], § 1(2), substituted provisions limiting the maximum amount of space to be programed as the greater of the amounts of space described in par. (1) or (2) for provisions limiting the amount of space to be programed to that amount needed to support teaching and training requirements, except that space may be programed in areas having large concentrations of retired members where there is a critical shortage of facilities.
 
-    Subsec. (b). [Pub. L. 97–337, § 1(2)][/us/pl/97/337/s1/2], added subsec. (b).
+    Subsec. (b). [Pub. L. 97–337][/us/pl/97/337], § 1(2), added subsec. (b).
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–337, § 2][/us/pl/97/337/s2], Oct. 15, 1982, [96 Stat. 1632][/us/stat/96/1632], provided that: 
+[Pub. L. 97–337][/us/pl/97/337], § 2, Oct. 15, 1982, [96 Stat. 1632][/us/stat/96/1632], provided that: 
 
 > “The amendment made by paragraph (2) of the first section of this Act \[amending this section\] shall apply only with respect to a facility for which funds for construction (or a major alteration) are first appropriated for a fiscal year after fiscal year 1983.”
 
@@ -72,13 +72,13 @@
 
 [/us/usc/t10/s1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1086
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
-[/us/pl/89/614/s2/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614%2Fs2%2F7
+[/us/pl/89/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614
 [/us/stat/80/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F866
-[/us/pl/97/337/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F337%2Fs1
+[/us/pl/97/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F337
 [/us/stat/96/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1631
-[/us/pl/98/525/s1405/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F24
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2623
-[/us/pl/99/661/s1343/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1343%2Fa%2F4
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3992
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -88,10 +88,10 @@
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
-[/us/pl/97/337/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F337%2Fs1%2F1
-[/us/pl/97/337/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F337%2Fs1%2F2
-[/us/pl/97/337/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F337%2Fs1%2F2
-[/us/pl/97/337/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F337%2Fs2
+[/us/pl/97/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F337
+[/us/pl/97/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F337
+[/us/pl/97/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F337
+[/us/pl/97/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F337
 [/us/stat/96/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1632
 [/us/pl/89/614/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614%2Fs3
 [/us/usc/t10/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1071

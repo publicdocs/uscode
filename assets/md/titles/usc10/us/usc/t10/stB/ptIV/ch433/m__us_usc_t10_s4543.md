@@ -93,7 +93,7 @@
 
             (B) in the case of services, the extent of the services sold.
 
-(Added [Pub. L. 103–160, div. A, title I, § 158(a)(1)][/us/pl/103/160/s158/a/1], Nov. 30, 1993, [107 Stat. 1581][/us/stat/107/1581]; amended [Pub. L. 103–337, div. A, title I, § 141][/us/pl/103/337/s141], Oct. 5, 1994, [108 Stat. 2688][/us/stat/108/2688].)
+(Added [Pub. L. 103–160, div. A, title I][/us/pl/103/160/dA/tI], § 158(a)(1), Nov. 30, 1993, [107 Stat. 1581][/us/stat/107/1581]; amended [Pub. L. 103–337, div. A, title I][/us/pl/103/337/dA/tI], § 141, Oct. 5, 1994, [108 Stat. 2688][/us/stat/108/2688].)
 
  __Amendments__ 
 
@@ -101,17 +101,17 @@
 
  __Regulations__ 
 
-[Pub. L. 103–160, div. A, title I, § 158(c)][/us/pl/103/160/s158/c], Nov. 30, 1993, [107 Stat. 1582][/us/stat/107/1582], provided that: 
+[Pub. L. 103–160, div. A, title I][/us/pl/103/160/dA/tI], § 158(c), Nov. 30, 1993, [107 Stat. 1582][/us/stat/107/1582], provided that: 
 
 > “Regulations under subsection (b) of [section 4543 of title 10][/us/usc/t10/s4543], United States Code, as added by subsection (a), shall be prescribed not later than 30 days after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
  __Pilot Program on Sales of Manufactured Articles and Services of Certain Army Industrial Facilities Without Regard to Availability From Domestic Sources__ 
 
-[Pub. L. 107–314, div. A, title I, § 111(c)][/us/pl/107/314/s111/c], Dec. 2, 2002, [116 Stat. 2473][/us/stat/116/2473], provided that: 
+[Pub. L. 107–314, div. A, title I][/us/pl/107/314/dA/tI], § 111(c), Dec. 2, 2002, [116 Stat. 2473][/us/stat/116/2473], provided that: 
 
 > “The Inspector General of the Department of Defense shall review the experience under the pilot program carried out under such section 141 \[[section 141 of Pub. L. 105–85][/us/pl/105/85/s141], set out as a note below\] and, not later than July 1, 2003, submit to Congress a report on the results of the review. The report shall contain the views, information, and recommendations called for under subsection (d) of such section (as redesignated by subsection (b)(2)). In carrying out the review and preparing the report, the Inspector General shall take into consideration the report submitted to Congress under such subsection (as so redesignated).”
 
-[Pub. L. 105–85, div. A, title I, § 141][/us/pl/105/85/s141], Nov. 18, 1997, [111 Stat. 1652][/us/stat/111/1652], as amended by [Pub. L. 106–65, div. A, title I, § 115][/us/pl/106/65/s115], Oct. 5, 1999, [113 Stat. 533][/us/stat/113/533]; [Pub. L. 107–107, div. A, title I, § 112][/us/pl/107/107/s112], Dec. 28, 2001, [115 Stat. 1029][/us/stat/115/1029]; [Pub. L. 107–314, div. A, title I, § 111(a)][/us/pl/107/314/s111/a], (b), Dec. 2, 2002, [116 Stat. 2473][/us/stat/116/2473]; [Pub. L. 108–375, div. A, title VIII, § 844][/us/pl/108/375/s844], Oct. 28, 2004, [118 Stat. 2019][/us/stat/118/2019], provided that:
+[Pub. L. 105–85, div. A, title I][/us/pl/105/85/dA/tI], § 141, Nov. 18, 1997, [111 Stat. 1652][/us/stat/111/1652], as amended by [Pub. L. 106–65, div. A, title I][/us/pl/106/65/dA/tI], § 115, Oct. 5, 1999, [113 Stat. 533][/us/stat/113/533]; [Pub. L. 107–107, div. A, title I][/us/pl/107/107/dA/tI], § 112, Dec. 28, 2001, [115 Stat. 1029][/us/stat/115/1029]; [Pub. L. 107–314, div. A, title I][/us/pl/107/314/dA/tI], § 111(a), (b), Dec. 2, 2002, [116 Stat. 2473][/us/stat/116/2473]; [Pub. L. 108–375, div. A, title VIII][/us/pl/108/375/dA/tVIII], § 844, Oct. 28, 2004, [118 Stat. 2019][/us/stat/118/2019], provided that:
 
 >     “(a)  __Pilot Program Required__  __.—__ 
 
@@ -154,26 +154,26 @@
 
 [/us/usc/t10/s2208/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2208%2Fh
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
-[/us/pl/103/160/s158/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs158%2Fa%2F1
+[/us/pl/103/160/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtI
 [/us/stat/107/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1581
-[/us/pl/103/337/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs141
+[/us/pl/103/337/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtI
 [/us/stat/108/2688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2688
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
-[/us/pl/103/160/s158/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs158%2Fc
+[/us/pl/103/160/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtI
 [/us/stat/107/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1582
 [/us/usc/t10/s4543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4543
-[/us/pl/107/314/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs111%2Fc
+[/us/pl/107/314/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtI
 [/us/stat/116/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2473
 [/us/pl/105/85/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs141
-[/us/pl/105/85/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs141
+[/us/pl/105/85/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtI
 [/us/stat/111/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1652
-[/us/pl/106/65/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs115
+[/us/pl/106/65/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtI
 [/us/stat/113/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F533
-[/us/pl/107/107/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs112
+[/us/pl/107/107/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtI
 [/us/stat/115/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1029
-[/us/pl/107/314/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs111%2Fa
+[/us/pl/107/314/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtI
 [/us/stat/116/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2473
-[/us/pl/108/375/s844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs844
+[/us/pl/108/375/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVIII
 [/us/stat/118/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2019
 [/us/usc/t10/s4543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4543
 [/us/usc/t10/s4543/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4543%2Fa%2F5

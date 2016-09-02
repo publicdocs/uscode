@@ -37,7 +37,7 @@
 
     In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and a possession of the United States.
 
-(Added [Pub. L. 103–160, div. A, title V, § 574(a)][/us/pl/103/160/s574/a], Nov. 30, 1993, [107 Stat. 1674][/us/stat/107/1674].)
+(Added [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 574(a), Nov. 30, 1993, [107 Stat. 1674][/us/stat/107/1674].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t10/s1044a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044a
-[/us/pl/103/160/s574/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs574%2Fa
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1674
 
 

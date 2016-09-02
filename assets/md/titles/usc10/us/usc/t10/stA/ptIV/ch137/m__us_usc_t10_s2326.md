@@ -89,7 +89,7 @@
 
         (2) The term “qualifying proposal” means a proposal that contains sufficient information to enable the Department of Defense to conduct complete and meaningful audits of the information contained in the proposal and of any other information that the Department is entitled to review in connection with the contract, as determined by the contracting officer.
 
-(Added [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 908(d)(1)(A)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–140, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 908(d)(1)(A)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–140; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 908(d)(1)(A), Nov. 14, 1986, [100 Stat. 3920][/us/stat/100/3920], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; amended [Pub. L. 101–189, div. A, title XVI, § 1622(c)(6)][/us/pl/101/189/s1622/c/6], Nov. 29, 1989, [103 Stat. 1604][/us/stat/103/1604]; [Pub. L. 102–25, title VII, § 701(d)(5)][/us/pl/102/25/s701/d/5], Apr. 6, 1991, [105 Stat. 114][/us/stat/105/114]; [Pub. L. 103–355, title I, § 1505][/us/pl/103/355/s1505], Oct. 13, 1994, [108 Stat. 3298][/us/stat/108/3298]; [Pub. L. 105–85, div. A, title VIII, § 803(a)][/us/pl/105/85/s803/a], Nov. 18, 1997, [111 Stat. 1831][/us/stat/111/1831].)
+(Added [Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title X, § 908(d)(1)(A)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–140, and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 908(d)(1)(A)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–140; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661/dA/tIX], formerly title IV, § 908(d)(1)(A), Nov. 14, 1986, [100 Stat. 3920][/us/stat/100/3920], renumbered title IX, [Pub. L. 100–26][/us/pl/100/26], § 3(5), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; amended [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1622(c)(6), Nov. 29, 1989, [103 Stat. 1604][/us/stat/103/1604]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 701(d)(5), Apr. 6, 1991, [105 Stat. 114][/us/stat/105/114]; [Pub. L. 103–355, title I][/us/pl/103/355/tI], § 1505, Oct. 13, 1994, [108 Stat. 3298][/us/stat/108/3298]; [Pub. L. 105–85, div. A, title VIII][/us/pl/105/85/dA/tVIII], § 803(a), Nov. 18, 1997, [111 Stat. 1831][/us/stat/111/1831].)
 
  __Codification__ 
 
@@ -105,17 +105,17 @@
 
     1997—Subsec. (b)(4). [Pub. L. 105–85][/us/pl/105/85] amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The head of an agency may waive the provisions of this subsection with respect to a contract of that agency if such head of an agency determines that the waiver is necessary in order to support a contingency operation.”
 
-    1994—Subsec. (b). [Pub. L. 103–355, § 1505(a)(1)][/us/pl/103/355/s1505/a/1], struck out “and expenditure” after “obligation” in heading.
+    1994—Subsec. (b). [Pub. L. 103–355][/us/pl/103/355], § 1505(a)(1), struck out “and expenditure” after “obligation” in heading.
 
-    Subsec. (b)(1)(B). [Pub. L. 103–355, § 1505(a)(2)][/us/pl/103/355/s1505/a/2], struck out “or expended” after “obligated”.
+    Subsec. (b)(1)(B). [Pub. L. 103–355][/us/pl/103/355], § 1505(a)(2), struck out “or expended” after “obligated”.
 
-    Subsec. (b)(2). [Pub. L. 103–355, § 1505(a)(3)][/us/pl/103/355/s1505/a/3], substituted “obligate” for “expend”.
+    Subsec. (b)(2). [Pub. L. 103–355][/us/pl/103/355], § 1505(a)(3), substituted “obligate” for “expend”.
 
-    Subsec. (b)(3). [Pub. L. 103–355, § 1505(a)(4)][/us/pl/103/355/s1505/a/4], substituted “obligated” for “expended” and “obligate” for “expend”.
+    Subsec. (b)(3). [Pub. L. 103–355][/us/pl/103/355], § 1505(a)(4), substituted “obligated” for “expended” and “obligate” for “expend”.
 
-    Subsec. (b)(4), (5). [Pub. L. 103–355, § 1505(b)][/us/pl/103/355/s1505/b], added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (b)(4), (5). [Pub. L. 103–355][/us/pl/103/355], § 1505(b), added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (g)(1)(B). [Pub. L. 103–355, § 1505(c)][/us/pl/103/355/s1505/c], substituted “simplified acquisition threshold” for “small purchase threshold”.
+    Subsec. (g)(1)(B). [Pub. L. 103–355][/us/pl/103/355], § 1505(c), substituted “simplified acquisition threshold” for “small purchase threshold”.
 
     1991—Subsec. (g)(1)(B). [Pub. L. 102–25][/us/pl/102/25] substituted “in an amount not in excess of the amount of the small purchase threshold” for “of less than $25,000”.
 
@@ -127,7 +127,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 908(d)(2)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–142, [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 908(d)(2)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–142, and [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 908(d)(2), Nov. 14, 1986, [100 Stat. 3921][/us/stat/100/3921], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], provided that: 
+[Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title X, § 908(d)(2)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–142, [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 908(d)(2)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–142, and [Pub. L. 99–661, div. A, title IX][/us/pl/99/661/dA/tIX], formerly title IV, § 908(d)(2), Nov. 14, 1986, [100 Stat. 3921][/us/stat/100/3921], renumbered title IX, [Pub. L. 100–26][/us/pl/100/26], § 3(5), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], provided that: 
 
 > “[Section 2326 of title 10][/us/usc/t10/s2326], United States Code (as added by subsection (d)(1)), applies to undefinitized contractual actions that are entered into after the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
 
@@ -137,7 +137,7 @@
 
  __Revision of Defense Supplement Relating to Payment of Costs Prior to Definitization__ 
 
-[Pub. L. 111–84, div. A, title VIII, § 812][/us/pl/111/84/s812], Oct. 28, 2009, [123 Stat. 2406][/us/stat/123/2406], provided that:
+[Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], § 812, Oct. 28, 2009, [123 Stat. 2406][/us/stat/123/2406], provided that:
 
 >     “(a)  __Revision Required__  __.—__ 
 
@@ -153,7 +153,7 @@
 
  __Implementation and Enforcement of Requirements Applicable to Undefinitized Contractual Actions__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 809][/us/pl/110/181/s809], Jan. 28, 2008, [122 Stat. 216][/us/stat/122/216], provided that:
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 809, Jan. 28, 2008, [122 Stat. 216][/us/stat/122/216], provided that:
 
 >     “(a)  __Guidance and Instructions__  __.—__ 
 
@@ -195,7 +195,7 @@
 
  __Limitation on Use of Funds for Undefinitized Contractual Actions; Oversight by Inspector General; Waiver Authority__ 
 
-[Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 908(a)–(c), (e)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–139, 1783–140, 1783–142, [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 908(a)–(c), (e)\], Oct. 18, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–139, 3341–140, 3341–142, and [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 908(a)–(c), (e), Nov. 14, 1986, [100 Stat. 3918][/us/stat/100/3918], 3919, 3921, renumbered title IX and amended by [Pub. L. 100–26][/us/pl/100/26], §§ 3(5), 5(2), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], 274; [Pub. L. 104–106, div. D, title XLIII, § 4322(b)(2)][/us/pl/104/106/s4322/b/2], Feb. 10, 1996, [110 Stat. 677][/us/stat/110/677], provided that:
+[Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title X, § 908(a)–(c), (e)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–139, 1783–140, 1783–142, [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 908(a)–(c), (e)\], Oct. 18, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–139, 3341–140, 3341–142, and [Pub. L. 99–661, div. A, title IX][/us/pl/99/661/dA/tIX], formerly title IV, § 908(a)–(c), (e), Nov. 14, 1986, [100 Stat. 3918][/us/stat/100/3918], 3919, 3921, renumbered title IX and amended by [Pub. L. 100–26][/us/pl/100/26], §§ 3(5), 5(2), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], 274; [Pub. L. 104–106, div. D, title XLIII][/us/pl/104/106/dD/tXLIII], § 4322(b)(2), Feb. 10, 1996, [110 Stat. 677][/us/stat/110/677], provided that:
 
 >     “(a)  __Limitation on Use of Funds for Undefinitized Contractual Actions__  __.—__ 
 
@@ -268,21 +268,21 @@
 ----------
 ----------
 
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIX
 [/us/stat/100/3920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3920
-[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
-[/us/pl/101/189/s1622/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fc%2F6
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1604
-[/us/pl/102/25/s701/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Fd%2F5
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F114
-[/us/pl/103/355/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1505
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3298
-[/us/pl/105/85/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs803%2Fa
+[/us/pl/105/85/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVIII
 [/us/stat/111/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1831
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
@@ -291,42 +291,42 @@
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/usc/t10/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2346
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/103/355/s1505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1505%2Fa%2F1
-[/us/pl/103/355/s1505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1505%2Fa%2F2
-[/us/pl/103/355/s1505/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1505%2Fa%2F3
-[/us/pl/103/355/s1505/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1505%2Fa%2F4
-[/us/pl/103/355/s1505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1505%2Fb
-[/us/pl/103/355/s1505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1505%2Fc
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/103/355/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10001
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIX
 [/us/stat/100/3921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3921
-[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
 [/us/usc/t10/s2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2326
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/111/84/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs812
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2406
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t10/s2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2326
-[/us/pl/110/181/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs809
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F216
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIX
 [/us/stat/100/3918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3918
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
-[/us/pl/104/106/s4322/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4322%2Fb%2F2
+[/us/pl/104/106/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdD%2FtXLIII
 [/us/stat/110/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F677
 [/us/usc/t10/s2326/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2326%2Fg
 

@@ -17,7 +17,7 @@
 
     The President may detail not more than three officers assigned to the Corps of Engineers to assist the Mayor of the District of Columbia in discharging his duties.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 201][/us/stat/70A/201]; [Pub. L. 90–623, § 2(5)][/us/pl/90/623/s2/5], Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 96–513, title V, § 512(5)(A)][/us/pl/96/513/s512/5/A], (B), Dec. 12, 1980, [94 Stat. 2929][/us/stat/94/2929].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 201][/us/stat/70A/201]; [Pub. L. 90–623][/us/pl/90/623], § 2(5), Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 512(5)(A), (B), Dec. 12, 1980, [94 Stat. 2929][/us/stat/94/2929].)
 
 <table>
 
@@ -144,9 +144,9 @@ Dec. 24, 1890, J. Res. 7 (last sentence), 26 Stat. 1113.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F201
-[/us/pl/90/623/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs2%2F5
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1314
-[/us/pl/96/513/s512/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs512%2F5%2FA
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2929
 [/us/usc/t10/s3063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3063
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

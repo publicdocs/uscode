@@ -31,11 +31,11 @@
 
     An airlift services contract for which the rate of payment is determined in accordance with subsection (a) shall not be subject to the provisions of [section 2306a of this title][/us/usc/t10/s2306a] or to the provisions of subsections (a) and (b) of [section 1502 of title 41][/us/usc/t41/s1502].
 
-(Added [Pub. L. 112–81, div. A, title III, § 366(a)][/us/pl/112/81/s366/a], Dec. 31, 2011, [125 Stat. 1380][/us/stat/125/1380].)
+(Added [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 366(a), Dec. 31, 2011, [125 Stat. 1380][/us/stat/125/1380].)
 
  __Initial Regulations__ 
 
-[Pub. L. 112–81, div. A, title III, § 366(c)][/us/pl/112/81/s366/c], Dec. 31, 2011, [125 Stat. 1381][/us/stat/125/1381], provided that: 
+[Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 366(c), Dec. 31, 2011, [125 Stat. 1381][/us/stat/125/1381], provided that: 
 
 > “Regulations shall be prescribed under [section 9511a(b) of title 10][/us/usc/t10/s9511a/b], United States Code, as added by subsection (a), not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\].”
 
@@ -48,9 +48,9 @@
 
 [/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
 [/us/usc/t41/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1502
-[/us/pl/112/81/s366/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs366%2Fa
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1380
-[/us/pl/112/81/s366/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs366%2Fc
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1381
 [/us/usc/t10/s9511a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9511a%2Fb
 

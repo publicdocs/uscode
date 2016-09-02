@@ -17,7 +17,7 @@
 
     The Secretary of the Navy may buy such mileage books, commutation tickets, and other similar transportation tickets as he considers necessary, and he may furnish them to persons ordered to perform travel on official business. Payment for those tickets before the travel is performed is not an advance of public money within the meaning of subsections (a) and (b) of [section 3324 of title 31][/us/usc/t31/s3324].
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 386][/us/stat/70A/386]; [Pub. L. 97–258, § 3(b)(8)][/us/pl/97/258/s3/b/8], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 98–525, title XIV, § 1405(56)(A)][/us/pl/98/525/s1405/56/A], Oct. 19, 1984, [98 Stat. 2626][/us/stat/98/2626].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 386][/us/stat/70A/386]; [Pub. L. 97–258][/us/pl/97/258], § 3(b)(8), Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(56)(A), Oct. 19, 1984, [98 Stat. 2626][/us/stat/98/2626].)
 
 <table>
 
@@ -81,9 +81,9 @@ Apr. 27, 1904, ch. 1630, 33 Stat. 403 (6th par., 2d sentence).  </td>
 [/us/usc/t31/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3324
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F386
-[/us/pl/97/258/s3/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fb%2F8
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1063
-[/us/pl/98/525/s1405/56/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F56%2FA
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2626
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258

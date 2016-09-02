@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–261, div. A, title V, § 522(b)(2)][/us/pl/105/261/s522/b/2], Oct. 17, 1998, [112 Stat. 2013][/us/stat/112/2013], added item 6932.
+    1998—[Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 522(b)(2), Oct. 17, 1998, [112 Stat. 2013][/us/stat/112/2013], added item 6932.
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/105/261/s522/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs522%2Fb%2F2
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2013
 
 

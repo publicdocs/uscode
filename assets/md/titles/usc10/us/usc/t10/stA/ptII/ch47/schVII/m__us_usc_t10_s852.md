@@ -31,7 +31,7 @@
 
     (c) All other questions to be decided by the members of a general or special court-martial shall be determined by a majority vote, but a determination to reconsider a finding of guilty or to reconsider a sentence, with a view toward decreasing it, may be made by any lesser vote which indicates that the reconsideration is not opposed by the number of votes required for that finding or sentence. A tie vote on a challenge disqualifies the member challenged. A tie vote on a motion for a finding of not guilty or on a motion relating to the question of the accused’s sanity is a determination against the accused. A tie vote on any other question is a determination in favor of the accused.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 55][/us/stat/70A/55]; [Pub. L. 90–632, § 2(22)][/us/pl/90/632/s2/22], Oct. 24, 1968, [82 Stat. 1340][/us/stat/82/1340].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 55][/us/stat/70A/55]; [Pub. L. 90–632][/us/pl/90/632], § 2(22), Oct. 24, 1968, [82 Stat. 1340][/us/stat/82/1340].)
 
 <table>
 
@@ -103,9 +103,9 @@ May 5, 1950, ch. 169, § 1 (Art. 52), 64 Stat. 125.  </td>
 
  __Amendments__ 
 
-    1968—Subsec. (a)(2). [Pub. L. 90–632, § 2(22)(A)][/us/pl/90/632/s2/22/A], inserted reference to the exception provided in [section 845(b) of this title][/us/usc/t10/s845/b] (article 45(b)).
+    1968—Subsec. (a)(2). [Pub. L. 90–632][/us/pl/90/632], § 2(22)(A), inserted reference to the exception provided in [section 845(b) of this title][/us/usc/t10/s845/b] (article 45(b)).
 
-    Subsec. (c). [Pub. L. 90–632, § 2(22)(B)][/us/pl/90/632/s2/22/B], provided that a determination to reconsider a finding of guilty or to reconsider a sentence, with a view toward decreasing it, may be made by a vote of less than a majority vote which indicates that the reconsideration is not opposed by the number of votes required for that finding or sentence.
+    Subsec. (c). [Pub. L. 90–632][/us/pl/90/632], § 2(22)(B), provided that a determination to reconsider a finding of guilty or to reconsider a sentence, with a view toward decreasing it, may be made by a vote of less than a majority vote which indicates that the reconsideration is not opposed by the number of votes required for that finding or sentence.
 
  __Effective Date of 1968 Amendment__ 
 
@@ -121,11 +121,11 @@ May 5, 1950, ch. 169, § 1 (Art. 52), 64 Stat. 125.  </td>
 [/us/usc/t10/s845/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs845%2Fb
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F55
-[/us/pl/90/632/s2/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F22
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1340
-[/us/pl/90/632/s2/22/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F22%2FA
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/usc/t10/s845/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs845%2Fb
-[/us/pl/90/632/s2/22/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F22%2FB
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/pl/90/632/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs4
 [/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801

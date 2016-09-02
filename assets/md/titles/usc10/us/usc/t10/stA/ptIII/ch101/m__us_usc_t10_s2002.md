@@ -29,7 +29,7 @@
 
     (b) In this section, the term “dependent” has the same meaning that it has under [section 401 of title 37][/us/usc/t37/s401].
 
-(Added [Pub. L. 89–160, § 1(1)][/us/pl/89/160/s1/1], Sept. 1, 1965, [79 Stat. 615][/us/stat/79/615]; amended [Pub. L. 91–278, § 2(1)][/us/pl/91/278/s2/1], (2), June 12, 1970, [84 Stat. 306][/us/stat/84/306]; [Pub. L. 96–465, title II, § 2206(c)(1)][/us/pl/96/465/s2206/c/1], Oct. 17, 1980, [94 Stat. 2162][/us/stat/94/2162]; [Pub. L. 97–22, § 11(a)(7)][/us/pl/97/22/s11/a/7], July 10, 1981, [95 Stat. 138][/us/stat/95/138]; [Pub. L. 98–525, title XIV, § 1405(30)][/us/pl/98/525/s1405/30], Oct. 19, 1984, [98 Stat. 2624][/us/stat/98/2624]; [Pub. L. 100–180, div. A, title XII, § 1231(18)(A)][/us/pl/100/180/s1231/18/A], Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–136, div. A, title X, § 1045(a)(4)][/us/pl/108/136/s1045/a/4], Nov. 24, 2003, [117 Stat. 1612][/us/stat/117/1612].)
+(Added [Pub. L. 89–160][/us/pl/89/160], § 1(1), Sept. 1, 1965, [79 Stat. 615][/us/stat/79/615]; amended [Pub. L. 91–278][/us/pl/91/278], § 2(1), (2), June 12, 1970, [84 Stat. 306][/us/stat/84/306]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2206(c)(1), Oct. 17, 1980, [94 Stat. 2162][/us/stat/94/2162]; [Pub. L. 97–22][/us/pl/97/22], § 11(a)(7), July 10, 1981, [95 Stat. 138][/us/stat/95/138]; [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(30), Oct. 19, 1984, [98 Stat. 2624][/us/stat/98/2624]; [Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1231(18)(A), Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1045(a)(4), Nov. 24, 2003, [117 Stat. 1612][/us/stat/117/1612].)
 
  __Amendments__ 
 
@@ -45,11 +45,11 @@
 
     1980—Subsec. (a). [Pub. L. 96–465][/us/pl/96/465], in provisions preceding par. (1) substituted “section 701(b) of the Foreign Service Act of 1980” for “[section 1041 of title 22][/us/usc/t22/s1041]” and in par. (2) substituted “section 701(a) of the Foreign Service Act of 1980” for “[section 1041 of title 22][/us/usc/t22/s1041]”.
 
-    1970—[Pub. L. 91–278, § 2(1)][/us/pl/91/278/s2/1], substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps” in section catchline.
+    1970—[Pub. L. 91–278][/us/pl/91/278], § 2(1), substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps” in section catchline.
 
-    Subsec. (a). [Pub. L. 91–278, § 2(2)(A)][/us/pl/91/278/s2/2/A], authorized Secretary of Transportation to prescribe regulations for Coast Guard when not operating as a service in the Navy.
+    Subsec. (a). [Pub. L. 91–278][/us/pl/91/278], § 2(2)(A), authorized Secretary of Transportation to prescribe regulations for Coast Guard when not operating as a service in the Navy.
 
-    Subsec. (a)(3). [Pub. L. 91–278, § 2(2)(B)][/us/pl/91/278/s2/2/B], substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps”.
+    Subsec. (a)(3). [Pub. L. 91–278][/us/pl/91/278], § 2(2)(B), substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps”.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -69,21 +69,21 @@
 [/us/usc/t22/s4021/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4021%2Fb
 [/us/usc/t22/s4021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4021%2Fa
 [/us/usc/t37/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs401
-[/us/pl/89/160/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F160%2Fs1%2F1
+[/us/pl/89/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F160
 [/us/stat/79/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F615
-[/us/pl/91/278/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278%2Fs2%2F1
+[/us/pl/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278
 [/us/stat/84/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F306
-[/us/pl/96/465/s2206/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fc%2F1
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2162
-[/us/pl/97/22/s11/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs11%2Fa%2F7
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F138
-[/us/pl/98/525/s1405/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F30
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2624
-[/us/pl/100/180/s1231/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1231%2F18%2FA
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1161
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/108/136/s1045/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1045%2Fa%2F4
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1612
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
@@ -95,9 +95,9 @@
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/usc/t22/s1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1041
 [/us/usc/t22/s1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1041
-[/us/pl/91/278/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278%2Fs2%2F1
-[/us/pl/91/278/s2/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278%2Fs2%2F2%2FA
-[/us/pl/91/278/s2/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278%2Fs2%2F2%2FB
+[/us/pl/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278
+[/us/pl/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278
+[/us/pl/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101

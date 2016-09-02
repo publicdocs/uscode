@@ -25,13 +25,13 @@
 
     (4) The term “specialized training” means advanced training in a health professions specialty received in an accredited program that is beyond the basic education required for appointment as a commissioned officer with a designation as a health professional.
 
-(Added [Pub. L. 92–426, § 2(a)][/us/pl/92/426/s2/a], Sept. 21, 1972, [86 Stat. 717][/us/stat/86/717]; amended [Pub. L. 98–94, title XII, § 1268(13)][/us/pl/98/94/s1268/13], Sept. 24, 1983, [97 Stat. 706][/us/stat/97/706]; [Pub. L. 100–26, § 7(k)(2)][/us/pl/100/26/s7/k/2], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 100–180, div. A, title VII, § 711(a)(2)][/us/pl/100/180/s711/a/2], Dec. 4, 1987, [101 Stat. 1108][/us/stat/101/1108]; [Pub. L. 101–189, div. A, title VII, § 725(a)][/us/pl/101/189/s725/a], (h)(1), Nov. 29, 1989, [103 Stat. 1478][/us/stat/103/1478], 1480.)
+(Added [Pub. L. 92–426][/us/pl/92/426], § 2(a), Sept. 21, 1972, [86 Stat. 717][/us/stat/86/717]; amended [Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1268(13), Sept. 24, 1983, [97 Stat. 706][/us/stat/97/706]; [Pub. L. 100–26][/us/pl/100/26], § 7(k)(2), Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 100–180, div. A, title VII][/us/pl/100/180/dA/tVII], § 711(a)(2), Dec. 4, 1987, [101 Stat. 1108][/us/stat/101/1108]; [Pub. L. 101–189, div. A, title VII][/us/pl/101/189/dA/tVII], § 725(a), (h)(1), Nov. 29, 1989, [103 Stat. 1478][/us/stat/103/1478], 1480.)
 
  __Amendments__ 
 
-    1989—Pars. (1), (2). [Pub. L. 101–189, § 725(h)(1)][/us/pl/101/189/s725/h/1], substituted “Scholarship and Financial Assistance program” for “Scholarship program”.
+    1989—Pars. (1), (2). [Pub. L. 101–189][/us/pl/101/189], § 725(h)(1), substituted “Scholarship and Financial Assistance program” for “Scholarship program”.
 
-    Par. (4). [Pub. L. 101–189, § 725(a)][/us/pl/101/189/s725/a], added par. (4).
+    Par. (4). [Pub. L. 101–189][/us/pl/101/189], § 725(a), added par. (4).
 
     1987—[Pub. L. 100–180][/us/pl/100/180] substituted “subchapter” for “chapter” in introductory text and in par. (1).
 
@@ -41,7 +41,7 @@
 
  __Demonstration Project on Service of Retired Nurse Corps Officers as Faculty at Civilian Nursing Schools__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 597, Oct. 14, 2008, [122 Stat. 4479][/us/stat/122/4479], as amended by [Pub. L. 111–383, div. A, title X, § 1075(e)(8)][/us/pl/111/383/s1075/e/8], Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375], provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 597, Oct. 14, 2008, [122 Stat. 4479][/us/stat/122/4479], as amended by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(e)(8), Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -136,24 +136,24 @@
 ----------
 ----------
 
-[/us/pl/92/426/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F426%2Fs2%2Fa
+[/us/pl/92/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F426
 [/us/stat/86/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F717
-[/us/pl/98/94/s1268/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1268%2F13
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F706
-[/us/pl/100/26/s7/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fk%2F2
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F284
-[/us/pl/100/180/s711/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs711%2Fa%2F2
+[/us/pl/100/180/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVII
 [/us/stat/101/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1108
-[/us/pl/101/189/s725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs725%2Fa
+[/us/pl/101/189/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVII
 [/us/stat/103/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1478
-[/us/pl/101/189/s725/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs725%2Fh%2F1
-[/us/pl/101/189/s725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs725%2Fa
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4479
-[/us/pl/111/383/s1075/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fe%2F8
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4375
 [/us/usc/t10/s983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs983
 [/us/usc/t42/s296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs296

@@ -17,11 +17,11 @@
 
     This chapter shall be administered under regulations prescribed by the Secretary of Defense.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1663(c)(1)][/us/pl/103/337/s1663/c/1], Oct. 5, 1994, [108 Stat. 3007][/us/stat/108/3007].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1663(c)(1), Oct. 5, 1994, [108 Stat. 3007][/us/stat/108/3007].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 2130(c) of this title][/us/usc/t10/s2130/c], prior to amendment by [Pub. L. 103–337, § 1663(c)(4)(A)][/us/pl/103/337/s1663/c/4/A].
+    Provisions similar to those in this section were contained in [section 2130(c) of this title][/us/usc/t10/s2130/c], prior to amendment by [Pub. L. 103–337][/us/pl/103/337], § 1663(c)(4)(A).
 
  __Effective Date__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1663/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fc%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3007
 [/us/usc/t10/s2130/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2130%2Fc
-[/us/pl/103/337/s1663/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fc%2F4%2FA
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
 

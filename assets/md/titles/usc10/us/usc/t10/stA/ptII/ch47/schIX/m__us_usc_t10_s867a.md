@@ -19,7 +19,7 @@
 
     (b) The accused may petition the Supreme Court for a writ of certiorari without prepayment of fees and costs or security therefor and without filing the affidavit required by [section 1915(a) of title 28][/us/usc/t28/s1915/a].
 
-(Added [Pub. L. 101–189, div. A, title XIII, § 1301(b)][/us/pl/101/189/s1301/b], Nov. 29, 1989, [103 Stat. 1569][/us/stat/103/1569]; amended [Pub. L. 103–337, div. A, title IX, § 924(c)(1)][/us/pl/103/337/s924/c/1], Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831].)
+(Added [Pub. L. 101–189, div. A, title XIII][/us/pl/101/189/dA/tXIII], § 1301(b), Nov. 29, 1989, [103 Stat. 1569][/us/stat/103/1569]; amended [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(c)(1), Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 
 [/us/usc/t28/s1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1259
 [/us/usc/t28/s1915/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1915%2Fa
-[/us/pl/101/189/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1301%2Fb
+[/us/pl/101/189/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXIII
 [/us/stat/103/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1569
-[/us/pl/103/337/s924/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fc%2F1
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2831
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 

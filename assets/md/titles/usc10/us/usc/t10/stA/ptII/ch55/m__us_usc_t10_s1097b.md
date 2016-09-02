@@ -67,7 +67,7 @@
 
     The Secretary of Defense shall carry out the responsibilities under this section after consultation with the other administering Secretaries.
 
-(Added [Pub. L. 106–65, div. A, title VII, § 716(a)(1)][/us/pl/106/65/s716/a/1], Oct. 5, 1999, [113 Stat. 690][/us/stat/113/690]; amended [Pub. L. 112–81, div. A, title VII, § 715][/us/pl/112/81/s715], Dec. 31, 2011, [125 Stat. 1477][/us/stat/125/1477].)
+(Added [Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 716(a)(1), Oct. 5, 1999, [113 Stat. 690][/us/stat/113/690]; amended [Pub. L. 112–81, div. A, title VII][/us/pl/112/81/dA/tVII], § 715, Dec. 31, 2011, [125 Stat. 1477][/us/stat/125/1477].)
 
  __Amendments__ 
 
@@ -75,13 +75,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–65, div. A, title VII, § 716(d)][/us/pl/106/65/s716/d], Oct. 5, 1999, [113 Stat. 692][/us/stat/113/692], provided that: 
+[Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 716(d), Oct. 5, 1999, [113 Stat. 692][/us/stat/113/692], provided that: 
 
 > “The amendments made by subsection (a) \[enacting this section\] shall take effect one year after the date of the enactment of this Act \[Oct. 5, 1999\].”
 
  __Report on Implementation__ 
 
-    [Pub. L. 106–65, div. A, title VII, § 716(b)][/us/pl/106/65/s716/b], Oct. 5, 1999, [113 Stat. 691][/us/stat/113/691], directed the Secretary of Defense to submit to Congress a report assessing the effects of the implementation of the requirements and authorities set forth in this section not later than 6 months after Oct. 5, 1999.
+    [Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 716(b), Oct. 5, 1999, [113 Stat. 691][/us/stat/113/691], directed the Secretary of Defense to submit to Congress a report assessing the effects of the implementation of the requirements and authorities set forth in this section not later than 6 months after Oct. 5, 1999.
 
 ----------
 
@@ -91,14 +91,14 @@
 ----------
 
 [/us/usc/t10/s1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1095
-[/us/pl/106/65/s716/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs716%2Fa%2F1
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F690
-[/us/pl/112/81/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs715
+[/us/pl/112/81/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVII
 [/us/stat/125/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1477
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/106/65/s716/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs716%2Fd
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F692
-[/us/pl/106/65/s716/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs716%2Fb
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F691
 
 

@@ -27,7 +27,7 @@
 
         However, sales to civilian officers and employees inside the United States may be made only to those residing within military installations.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 470][/us/stat/70A/470]; [Pub. L. 99–145, title XIII, § 1301(c)(3)(A)][/us/pl/99/145/s1301/c/3/A], (B), Nov. 8, 1985, [99 Stat. 736][/us/stat/99/736].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 470][/us/stat/70A/470]; [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1301(c)(3)(A), (B), Nov. 8, 1985, [99 Stat. 736][/us/stat/99/736].)
 
 <table>
 
@@ -95,9 +95,9 @@ Aug. 8, 1953, ch. 390, § 1 (as applicable to Secretary of the Navy), 67 Stat.
 
  __Amendments__ 
 
-    1985—[Pub. L. 99–145, § 1301(c)(3)(B)][/us/pl/99/145/s1301/c/3/B], inserted “the” before “naval service” and “and widowers” after “widows” in section catchline.
+    1985—[Pub. L. 99–145][/us/pl/99/145], § 1301(c)(3)(B), inserted “the” before “naval service” and “and widowers” after “widows” in section catchline.
 
-    Subsec. (a). [Pub. L. 99–145, § 1301(c)(3)(A)][/us/pl/99/145/s1301/c/3/A], inserted “and widowers” after “widows”.
+    Subsec. (a). [Pub. L. 99–145][/us/pl/99/145], § 1301(c)(3)(A), inserted “and widowers” after “widows”.
 
  __Transfer of Functions__ 
 
@@ -112,12 +112,12 @@ Aug. 8, 1953, ch. 390, § 1 (as applicable to Secretary of the Navy), 67 Stat.
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F470
-[/us/pl/99/145/s1301/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1301%2Fc%2F3%2FA
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F736
 [/us/usc/t10/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F1
 [/us/usc/t34/s533a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs533a
-[/us/pl/99/145/s1301/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1301%2Fc%2F3%2FB
-[/us/pl/99/145/s1301/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1301%2Fc%2F3%2FA
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

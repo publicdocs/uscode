@@ -27,7 +27,7 @@
 
         (2) Any premium pay or compensatory time off for hours of work or tours of duty in excess of the regularly scheduled hours or tours of duty.
 
-(Added [Pub. L. 103–160, div. A, title V, § 533(b)(1)][/us/pl/103/160/s533/b/1], Nov. 30, 1993, [107 Stat. 1658][/us/stat/107/1658]; amended [Pub. L. 106–65, div. A, title XI, § 1107(c)][/us/pl/106/65/s1107/c], Oct. 5, 1999, [113 Stat. 778][/us/stat/113/778].)
+(Added [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 533(b)(1), Nov. 30, 1993, [107 Stat. 1658][/us/stat/107/1658]; amended [Pub. L. 106–65, div. A, title XI][/us/pl/106/65/dA/tXI], § 1107(c), Oct. 5, 1999, [113 Stat. 778][/us/stat/113/778].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/103/160/s533/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs533%2Fb%2F1
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1658
-[/us/pl/106/65/s1107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1107%2Fc
+[/us/pl/106/65/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtXI
 [/us/stat/113/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F778
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 

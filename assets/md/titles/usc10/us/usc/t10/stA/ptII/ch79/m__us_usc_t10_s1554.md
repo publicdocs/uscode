@@ -21,7 +21,7 @@
 
     (c) A review by a board established under this section shall be based upon the records of the armed forces concerned and such other evidence as may be presented to the board. A witness may present evidence to the board in person or by affidavit. A person who requests a review under this section may appear before the board in person or by counsel or an accredited representative of an organization recognized by the Secretary of Veterans Affairs under chapter 59 of title 38.
 
-(Added [Pub. L. 85–857, § 13(v)(2)][/us/pl/85/857/s13/v/2], Sept. 2, 1958, [72 Stat. 1267][/us/stat/72/1267]; amended [Pub. L. 87–651, title I, § 110(a)][/us/pl/87/651/s110/a], Sept. 7, 1962, [76 Stat. 510][/us/stat/76/510]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(2)][/us/pl/101/189/s1621/a/2], Nov. 29, 1989, [103 Stat. 1603][/us/stat/103/1603]; [Pub. L. 111–383, div. A, title V, § 533(a)][/us/pl/111/383/s533/a], Jan. 7, 2011, [124 Stat. 4216][/us/stat/124/4216].)
+(Added [Pub. L. 85–857][/us/pl/85/857], § 13(v)(2), Sept. 2, 1958, [72 Stat. 1267][/us/stat/72/1267]; amended [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 110(a), Sept. 7, 1962, [76 Stat. 510][/us/stat/76/510]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(2), Nov. 29, 1989, [103 Stat. 1603][/us/stat/103/1603]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 533(a), Jan. 7, 2011, [124 Stat. 4216][/us/stat/124/4216].)
 
  __Historical and Revision Notes__ 
 
@@ -50,13 +50,13 @@
 ----------
 ----------
 
-[/us/pl/85/857/s13/v/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs13%2Fv%2F2
+[/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1267
-[/us/pl/87/651/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs110%2Fa
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F510
-[/us/pl/101/189/s1621/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F2
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1603
-[/us/pl/111/383/s533/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs533%2Fa
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4216
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189

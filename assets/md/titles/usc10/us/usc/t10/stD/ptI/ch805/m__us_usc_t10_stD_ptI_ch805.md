@@ -107,13 +107,13 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–92, § 1652(a)(2)][/us/pl/114/92/s1652/a/2], Nov. 25, 2015, [129 Stat. 1122][/us/stat/129/1122], added item 8040.
+    2015—[Pub. L. 114–92][/us/pl/114/92], § 1652(a)(2), Nov. 25, 2015, [129 Stat. 1122][/us/stat/129/1122], added item 8040.
 
-    2013—[Pub. L. 112–239, div. A, title V, § 508(b)][/us/pl/112/239/s508/b], Jan. 2, 2013, [126 Stat. 1717][/us/stat/126/1717], added item 8039.
+    2013—[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 508(b), Jan. 2, 2013, [126 Stat. 1717][/us/stat/126/1717], added item 8039.
 
-    1986—[Pub. L. 99–433, title V, § 522(g)(1)][/us/pl/99/433/s522/g/1], Oct. 1, 1986, [100 Stat. 1063][/us/stat/100/1063], amended analysis generally, substituting items 8031 to 8038 for former items 8031 to 8036.
+    1986—[Pub. L. 99–433, title V][/us/pl/99/433/tV], § 522(g)(1), Oct. 1, 1986, [100 Stat. 1063][/us/stat/100/1063], amended analysis generally, substituting items 8031 to 8038 for former items 8031 to 8036.
 
-    1965—[Pub. L. 89–288, § 5(b)][/us/pl/89/288/s5/b], Oct. 22, 1965, [79 Stat. 1050][/us/stat/79/1050], added item 8036.
+    1965—[Pub. L. 89–288][/us/pl/89/288], § 5(b), Oct. 22, 1965, [79 Stat. 1050][/us/stat/79/1050], added item 8036.
 
 ----------
 
@@ -122,13 +122,13 @@
 ----------
 ----------
 
-[/us/pl/114/92/s1652/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1652%2Fa%2F2
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/stat/129/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1122
-[/us/pl/112/239/s508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs508%2Fb
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1717
-[/us/pl/99/433/s522/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs522%2Fg%2F1
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1063
-[/us/pl/89/288/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F288%2Fs5%2Fb
+[/us/pl/89/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F288
 [/us/stat/79/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1050
 
 

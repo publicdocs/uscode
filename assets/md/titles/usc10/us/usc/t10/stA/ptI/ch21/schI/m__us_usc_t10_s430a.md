@@ -23,7 +23,7 @@
 
     The Secretary shall prescribe the roles, responsibilities, and authorities of the executive agent designated under subsection (a). Such roles, responsibilities, and authorities shall include the development of an annual management and oversight plan for Department-wide accountability and reporting to the congressional defense committees.
 
-(Added [Pub. L. 114–92, div. A, title X, § 1083(a)(1)][/us/pl/114/92/s1083/a/1], Nov. 25, 2015, [129 Stat. 1003][/us/stat/129/1003].)
+(Added [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1083(a)(1), Nov. 25, 2015, [129 Stat. 1003][/us/stat/129/1003].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/114/92/s1083/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1083%2Fa%2F1
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1003
 
 

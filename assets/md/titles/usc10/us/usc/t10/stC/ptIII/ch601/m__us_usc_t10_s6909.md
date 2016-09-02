@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stC/ptIII/ch601/m__us_usc_t10_s6908.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIII/ch601/m__us_usc_t10_s6910.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6909)
 
-## \[§ 6909. Repealed. [Pub. L. 96–513, title III, § 329][/us/pl/96/513/s329], Dec. 12, 1980, [94 Stat. 2896][/us/stat/94/2896]\]
+## \[§ 6909. Repealed. [Pub. L. 96–513, title III][/us/pl/96/513/tIII], § 329, Dec. 12, 1980, [94 Stat. 2896][/us/stat/94/2896]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 425][/us/stat/70A/425], related to direct procurement of ensigns and second lieutenants.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/96/513/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs329
+[/us/pl/96/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIII
 [/us/stat/94/2896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2896
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F425

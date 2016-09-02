@@ -165,13 +165,13 @@ Sentences: forfeiture of pay and allowances during confinement.  </td>
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–66, div. A, title XVII, § 1705(a)(2)(B)][/us/pl/113/66/s1705/a/2/B], Dec. 26, 2013, [127 Stat. 959][/us/stat/127/959], substituted “Maximum and minimum limits” for “Maximum limits” in item 856.
+    2013—[Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1705(a)(2)(B), Dec. 26, 2013, [127 Stat. 959][/us/stat/127/959], substituted “Maximum and minimum limits” for “Maximum limits” in item 856.
 
-    1997—[Pub. L. 105–85, div. A, title V, § 581(a)(2)][/us/pl/105/85/s581/a/2], Nov. 18, 1997, [111 Stat. 1760][/us/stat/111/1760], added item 856a.
+    1997—[Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 581(a)(2), Nov. 18, 1997, [111 Stat. 1760][/us/stat/111/1760], added item 856a.
 
-    1996—[Pub. L. 104–106, div. A, title XI][/us/pl/104/106], §§ 1122(a)(2), 1123(b), Feb. 10, 1996, [110 Stat. 463][/us/stat/110/463], 464, added items 857a and 858b.
+    1996—[Pub. L. 104–106, div. A, title XI][/us/pl/104/106/dA/tXI], §§ 1122(a)(2), 1123(b), Feb. 10, 1996, [110 Stat. 463][/us/stat/110/463], 464, added items 857a and 858b.
 
-    1960—[Pub. L. 86–633, § 1(2)][/us/pl/86/633/s1/2], July 12, 1960, [74 Stat. 468][/us/stat/74/468], added item 858a.
+    1960—[Pub. L. 86–633][/us/pl/86/633], § 1(2), July 12, 1960, [74 Stat. 468][/us/stat/74/468], added item 858a.
 
 ----------
 
@@ -180,13 +180,13 @@ Sentences: forfeiture of pay and allowances during confinement.  </td>
 ----------
 ----------
 
-[/us/pl/113/66/s1705/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1705%2Fa%2F2%2FB
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F959
-[/us/pl/105/85/s581/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs581%2Fa%2F2
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1760
-[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXI
 [/us/stat/110/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F463
-[/us/pl/86/633/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F633%2Fs1%2F2
+[/us/pl/86/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F633
 [/us/stat/74/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F468
 
 

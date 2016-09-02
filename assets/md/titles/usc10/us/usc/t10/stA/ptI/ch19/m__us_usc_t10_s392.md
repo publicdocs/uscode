@@ -93,11 +93,11 @@
 
         (3) The term “executive agent” has the meaning given the term “DoD Executive Agent” in Directive 5101.1.
 
-(Added [Pub. L. 113–291, div. A, title XVI, § 1633(a)][/us/pl/113/291/s1633/a], Dec. 19, 2014, [128 Stat. 3641][/us/stat/128/3641].)
+(Added [Pub. L. 113–291, div. A, title XVI][/us/pl/113/291/dA/tXVI], § 1633(a), Dec. 19, 2014, [128 Stat. 3641][/us/stat/128/3641].)
 
  __Designation and Roles and Responsibilities; Selection of Standard Language__ 
 
-[Pub. L. 113–291, div. A, title XVI, § 1633(b)][/us/pl/113/291/s1633/b], (c), Dec. 19, 2014, [128 Stat. 3642][/us/stat/128/3642], provided that:
+[Pub. L. 113–291, div. A, title XVI][/us/pl/113/291/dA/tXVI], § 1633(b), (c), Dec. 19, 2014, [128 Stat. 3642][/us/stat/128/3642], provided that:
 
 >     “(b)  __Designation and Roles and Responsibilities__  __.—__ 
 
@@ -118,9 +118,9 @@
 ----------
 ----------
 
-[/us/pl/113/291/s1633/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1633%2Fa
+[/us/pl/113/291/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXVI
 [/us/stat/128/3641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3641
-[/us/pl/113/291/s1633/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1633%2Fb
+[/us/pl/113/291/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXVI
 [/us/stat/128/3642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3642
 [/us/usc/t10/s392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs392
 [/us/usc/t10/s392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs392

@@ -45,7 +45,7 @@
 
     In this section, the term “certifying official” means an employee who has the responsibilities specified in [section 3528(a) of title 31][/us/usc/t31/s3528/a].
 
-(Added [Pub. L. 107–314, div. A, title X, § 1005(a)][/us/pl/107/314/s1005/a], Dec. 2, 2002, [116 Stat. 2631][/us/stat/116/2631]; amended [Pub. L. 109–163, div. A, title X, § 1056(c)(8)][/us/pl/109/163/s1056/c/8], Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440].)
+(Added [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1005(a), Dec. 2, 2002, [116 Stat. 2631][/us/stat/116/2631]; amended [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1056(c)(8), Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440].)
 
  __Amendments__ 
 
@@ -59,9 +59,9 @@
 ----------
 
 [/us/usc/t31/s3528/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3528%2Fa
-[/us/pl/107/314/s1005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1005%2Fa
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2631
-[/us/pl/109/163/s1056/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1056%2Fc%2F8
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3440
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 

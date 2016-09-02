@@ -23,13 +23,13 @@
 
     (d) Muster duty under this section shall not be credited in determining entitlement to, or in computing, retired pay under chapter 1223 of this title.
 
-(Added [Pub. L. 101–189, div. A, title V, § 502(a)(1)][/us/pl/101/189/s502/a/1], Nov. 29, 1989, [103 Stat. 1436][/us/stat/103/1436], § 687; renumbered § 12319 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337], §§ 1662(e)(2), 1675(c)(10), Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992], 3018.)
+(Added [Pub. L. 101–189, div. A, title V][/us/pl/101/189/dA/tV], § 502(a)(1), Nov. 29, 1989, [103 Stat. 1436][/us/stat/103/1436], § 687; renumbered § 12319 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], §§ 1662(e)(2), 1675(c)(10), Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992], 3018.)
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–337, § 1662(e)(2)][/us/pl/103/337/s1662/e/2], renumbered [section 687 of this title][/us/usc/t10/s687] as this section.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 1662(e)(2), renumbered [section 687 of this title][/us/usc/t10/s687] as this section.
 
-    Subsec. (d). [Pub. L. 103–337, § 1675(c)(10)][/us/pl/103/337/s1675/c/10], substituted “1223” for “67”.
+    Subsec. (d). [Pub. L. 103–337][/us/pl/103/337], § 1675(c)(10), substituted “1223” for “67”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -42,13 +42,13 @@
 ----------
 ----------
 
-[/us/pl/101/189/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs502%2Fa%2F1
+[/us/pl/101/189/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtV
 [/us/stat/103/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1436
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2992
-[/us/pl/103/337/s1662/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fe%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs687
-[/us/pl/103/337/s1675/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1675%2Fc%2F10
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t10/stC/ptII/ch547/m__us_usc_t10_s5866.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch549/m__us_usc_t10_stC_ptII_ch549.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5867)
 
-## \[§ 5867. Repealed. [Pub. L. 96–513, title III, § 333][/us/pl/96/513/s333], Dec. 12, 1980, [94 Stat. 2897][/us/stat/94/2897]\]
+## \[§ 5867. Repealed. [Pub. L. 96–513, title III][/us/pl/96/513/tIII], § 333, Dec. 12, 1980, [94 Stat. 2897][/us/stat/94/2897]\]
 
-    Section, added [Pub. L. 85–861, § 1(132)(A)][/us/pl/85/861/s1/132/A], Sept. 2, 1958, [72 Stat. 1498][/us/stat/72/1498], required moral, professional, and physical examinations before officers of the Naval or Marine Corps Reserves could be promoted to the next higher grades. See [section 624 of this title][/us/usc/t10/s624].
+    Section, added [Pub. L. 85–861][/us/pl/85/861], § 1(132)(A), Sept. 2, 1958, [72 Stat. 1498][/us/stat/72/1498], required moral, professional, and physical examinations before officers of the Naval or Marine Corps Reserves could be promoted to the next higher grades. See [section 624 of this title][/us/usc/t10/s624].
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/96/513/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs333
+[/us/pl/96/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIII
 [/us/stat/94/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2897
-[/us/pl/85/861/s1/132/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F132%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1498
 [/us/usc/t10/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs624
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701

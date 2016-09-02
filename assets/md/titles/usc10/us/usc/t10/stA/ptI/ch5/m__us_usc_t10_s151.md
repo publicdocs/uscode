@@ -81,7 +81,7 @@
 
             (D) determine when issues under consideration by the Joint Chiefs of Staff shall be decided.
 
-(Added [Pub. L. 99–433, title II, § 201][/us/pl/99/433/s201], Oct. 1, 1986, [100 Stat. 1005][/us/stat/100/1005]; amended [Pub. L. 102–484, div. A, title IX, § 911(a)][/us/pl/102/484/s911/a], Oct. 23, 1992, [106 Stat. 2473][/us/stat/106/2473]; [Pub. L. 109–163, div. A, title IX, § 908(a)][/us/pl/109/163/s908/a], Jan. 6, 2006, [119 Stat. 3403][/us/stat/119/3403]; [Pub. L. 112–81, div. A, title V, § 512(a)][/us/pl/112/81/s512/a], Dec. 31, 2011, [125 Stat. 1393][/us/stat/125/1393].)
+(Added [Pub. L. 99–433, title II][/us/pl/99/433/tII], § 201, Oct. 1, 1986, [100 Stat. 1005][/us/stat/100/1005]; amended [Pub. L. 102–484, div. A, title IX][/us/pl/102/484/dA/tIX], § 911(a), Oct. 23, 1992, [106 Stat. 2473][/us/stat/106/2473]; [Pub. L. 109–163, div. A, title IX][/us/pl/109/163/dA/tIX], § 908(a), Jan. 6, 2006, [119 Stat. 3403][/us/stat/119/3403]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 512(a), Dec. 31, 2011, [125 Stat. 1393][/us/stat/125/1393].)
 
  __Amendments__ 
 
@@ -98,13 +98,13 @@
 ----------
 ----------
 
-[/us/pl/99/433/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs201
+[/us/pl/99/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtII
 [/us/stat/100/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1005
-[/us/pl/102/484/s911/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs911%2Fa
+[/us/pl/102/484/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIX
 [/us/stat/106/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2473
-[/us/pl/109/163/s908/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs908%2Fa
+[/us/pl/109/163/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIX
 [/us/stat/119/3403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3403
-[/us/pl/112/81/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs512%2Fa
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1393
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163

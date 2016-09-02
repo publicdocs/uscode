@@ -27,7 +27,7 @@
 
         (3) the authority provided in [section 1408(h) of this title][/us/usc/t10/s1408/h].
 
-(Added [Pub. L. 98–94, title IX, § 925(a)(1)][/us/pl/98/94/s925/a/1], Sept. 24, 1983, [97 Stat. 644][/us/stat/97/644]; amended [Pub. L. 101–189, div. A, title XVI, § 1622(e)(7)][/us/pl/101/189/s1622/e/7], Nov. 29, 1989, [103 Stat. 1605][/us/stat/103/1605]; [Pub. L. 102–484, div. A, title VI, § 653(b)(1)][/us/pl/102/484/s653/b/1], Oct. 23, 1992, [106 Stat. 2428][/us/stat/106/2428].)
+(Added [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], § 925(a)(1), Sept. 24, 1983, [97 Stat. 644][/us/stat/97/644]; amended [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1622(e)(7), Nov. 29, 1989, [103 Stat. 1605][/us/stat/103/1605]; [Pub. L. 102–484, div. A, title VI][/us/pl/102/484/dA/tVI], § 653(b)(1), Oct. 23, 1992, [106 Stat. 2428][/us/stat/106/2428].)
 
  __References in Text__ 
 
@@ -51,11 +51,11 @@
 [/us/pl/92/425/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425%2Fs4
 [/us/pl/96/402/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F402%2Fs5
 [/us/usc/t10/s1408/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1408%2Fh
-[/us/pl/98/94/s925/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs925%2Fa%2F1
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F644
-[/us/pl/101/189/s1622/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fe%2F7
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1605
-[/us/pl/102/484/s653/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs653%2Fb%2F1
+[/us/pl/102/484/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVI
 [/us/stat/106/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2428
 [/us/pl/92/425/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425%2Fs4
 [/us/usc/t10/s1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448

@@ -33,7 +33,7 @@
 
         (6) Housing units constructed or provided under [section 2869 of this title][/us/usc/t10/s2869].
 
-(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 158][/us/stat/96/158]; amended [Pub. L. 98–525, title XIV, § 1405(44)][/us/pl/98/525/s1405/44], Oct. 19, 1984, [98 Stat. 2625][/us/stat/98/2625]; [Pub. L. 100–180, div. B][/us/pl/100/180], subdiv. 3, title I, § 2308, Dec. 4, 1987, [101 Stat. 1216][/us/stat/101/1216]; [Pub. L. 101–510, div. A, title XIII, § 1301(17)][/us/pl/101/510/s1301/17], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 102–25, title VII, § 701(j)(9)][/us/pl/102/25/s701/j/9], Apr. 6, 1991, [105 Stat. 116][/us/stat/105/116]; [Pub. L. 102–484, div. B, title XXVIII, § 2802(b)][/us/pl/102/484/s2802/b], Oct. 23, 1992, [106 Stat. 2606][/us/stat/106/2606]; [Pub. L. 108–136, div. B, title XXVIII, § 2805(b)][/us/pl/108/136/s2805/b], Nov. 24, 2003, [117 Stat. 1721][/us/stat/117/1721].)
+(Added [Pub. L. 97–214][/us/pl/97/214], § 2(a), July 12, 1982, [96 Stat. 158][/us/stat/96/158]; amended [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(44), Oct. 19, 1984, [98 Stat. 2625][/us/stat/98/2625]; [Pub. L. 100–180, div. B][/us/pl/100/180/dB], subdiv. 3, title I, § 2308, Dec. 4, 1987, [101 Stat. 1216][/us/stat/101/1216]; [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1301(17), Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 701(j)(9), Apr. 6, 1991, [105 Stat. 116][/us/stat/105/116]; [Pub. L. 102–484, div. B, title XXVIII][/us/pl/102/484/dB/tXXVIII], § 2802(b), Oct. 23, 1992, [106 Stat. 2606][/us/stat/106/2606]; [Pub. L. 108–136, div. B, title XXVIII][/us/pl/108/136/dB/tXXVIII], § 2805(b), Nov. 24, 2003, [117 Stat. 1721][/us/stat/117/1721].)
 
  __Amendments__ 
 
@@ -69,19 +69,19 @@
 [/us/usc/t10/s2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2832
 [/us/usc/t10/s2825/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2825%2Fc
 [/us/usc/t10/s2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2869
-[/us/pl/97/214/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs2%2Fa
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F158
-[/us/pl/98/525/s1405/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F44
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2625
-[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdB
 [/us/stat/101/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1216
-[/us/pl/101/510/s1301/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1301%2F17
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1668
-[/us/pl/102/25/s701/j/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Fj%2F9
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F116
-[/us/pl/102/484/s2802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs2802%2Fb
+[/us/pl/102/484/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdB%2FtXXVIII
 [/us/stat/106/2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2606
-[/us/pl/108/136/s2805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs2805%2Fb
+[/us/pl/108/136/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdB%2FtXXVIII
 [/us/stat/117/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1721
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484

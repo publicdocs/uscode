@@ -59,7 +59,7 @@
 
         (2) Amounts so credited shall be merged with funds in the appropriation to which credited and shall be available for the same purposes, and subject to the same conditions and limitations, as the appropriation with which merged.
 
-    \[(f) Repealed. [Pub. L. 112–81, div. A, title X, § 1061(21)(C)][/us/pl/112/81/s1061/21/C], Dec. 31, 2011, [125 Stat. 1584][/us/stat/125/1584].\]
+    \[(f) Repealed. [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1061(21)(C), Dec. 31, 2011, [125 Stat. 1584][/us/stat/125/1584].\]
 
     (g)  __Additional Terms and Conditions__  __.—__ 
 
@@ -113,17 +113,17 @@
 
     This section shall not apply to projects constructed or operated by the Army Corps of Engineers under its civil works authorities.
 
-(Added [Pub. L. 105–85, div. B, title XXVIII, § 2812(a)][/us/pl/105/85/s2812/a], Nov. 18, 1997, [111 Stat. 1992][/us/stat/111/1992]; amended [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], div. B, title XXVIII, § 2812, Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], 851; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(15), div. B, title XXVIII, § 2813\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–291, 1654A–418; [Pub. L. 108–136, div. A, title X, § 1031(a)(32)][/us/pl/108/136/s1031/a/32], Nov. 24, 2003, [117 Stat. 1600][/us/stat/117/1600]; [Pub. L. 109–163, div. B, title XXVIII, § 2823(a)][/us/pl/109/163/s2823/a]–(d), Jan. 6, 2006, [119 Stat. 3514–3516][/us/stat/119/3514-3516]; [Pub. L. 110–417, div. B, title XXVIII, § 2813][/us/pl/110/417/s2813], Oct. 14, 2008, [122 Stat. 4728][/us/stat/122/4728]; [Pub. L. 111–84, div. B, title XXVIII, § 2821][/us/pl/111/84/s2821], Oct. 28, 2009, [123 Stat. 2664][/us/stat/123/2664]; [Pub. L. 112–81, div. A, title X, § 1061(21)][/us/pl/112/81/s1061/21], Dec. 31, 2011, [125 Stat. 1584][/us/stat/125/1584]; [Pub. L. 113–66, div. B, title XXVIII, § 2813][/us/pl/113/66/s2813], Dec. 26, 2013, [127 Stat. 1014][/us/stat/127/1014]; [Pub. L. 114–92, div. B, title XXVIII, § 2813][/us/pl/114/92/s2813], Nov. 25, 2015, [129 Stat. 1175][/us/stat/129/1175].)
+(Added [Pub. L. 105–85, div. B, title XXVIII][/us/pl/105/85/dB/tXXVIII], § 2812(a), Nov. 18, 1997, [111 Stat. 1992][/us/stat/111/1992]; amended [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), div. B, title XXVIII, § 2812, Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], 851; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(15), div. B, title XXVIII, § 2813\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–291, 1654A–418; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(32), Nov. 24, 2003, [117 Stat. 1600][/us/stat/117/1600]; [Pub. L. 109–163, div. B, title XXVIII][/us/pl/109/163/dB/tXXVIII], § 2823(a)–(d), Jan. 6, 2006, [119 Stat. 3514–3516][/us/stat/119/3514-3516]; [Pub. L. 110–417, div. B, title XXVIII][/us/pl/110/417/dB/tXXVIII], § 2813, Oct. 14, 2008, [122 Stat. 4728][/us/stat/122/4728]; [Pub. L. 111–84, div. B, title XXVIII][/us/pl/111/84/dB/tXXVIII], § 2821, Oct. 28, 2009, [123 Stat. 2664][/us/stat/123/2664]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1061(21), Dec. 31, 2011, [125 Stat. 1584][/us/stat/125/1584]; [Pub. L. 113–66, div. B, title XXVIII][/us/pl/113/66/dB/tXXVIII], § 2813, Dec. 26, 2013, [127 Stat. 1014][/us/stat/127/1014]; [Pub. L. 114–92, div. B, title XXVIII][/us/pl/114/92/dB/tXXVIII], § 2813, Nov. 25, 2015, [129 Stat. 1175][/us/stat/129/1175].)
 
  __Prior Provisions__ 
 
-    A prior section 2688, added [Pub. L. 96–125, title VIII, § 804(a)(1)][/us/pl/96/125/s804/a/1], Nov. 26, 1979, [93 Stat. 948][/us/stat/93/948]; amended [Pub. L. 96–418, title VIII, § 804][/us/pl/96/418/s804], Oct. 10, 1980, [94 Stat. 1777][/us/stat/94/1777]; [Pub. L. 97–22, § 11(a)(9)][/us/pl/97/22/s11/a/9], July 10, 1981, [95 Stat. 138][/us/stat/95/138]; [Pub. L. 97–99, title IX, § 901][/us/pl/97/99/s901], Dec. 23, 1981, [95 Stat. 1381][/us/stat/95/1381], related to use of solar energy systems in new facilities, prior to repeal by [Pub. L. 97–214][/us/pl/97/214], §§ 7(1), 12(a), July 12, 1982, [96 Stat. 173][/us/stat/96/173], 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See [section 2915 of this title][/us/usc/t10/s2915].
+    A prior section 2688, added [Pub. L. 96–125, title VIII][/us/pl/96/125/tVIII], § 804(a)(1), Nov. 26, 1979, [93 Stat. 948][/us/stat/93/948]; amended [Pub. L. 96–418, title VIII][/us/pl/96/418/tVIII], § 804, Oct. 10, 1980, [94 Stat. 1777][/us/stat/94/1777]; [Pub. L. 97–22][/us/pl/97/22], § 11(a)(9), July 10, 1981, [95 Stat. 138][/us/stat/95/138]; [Pub. L. 97–99, title IX][/us/pl/97/99/tIX], § 901, Dec. 23, 1981, [95 Stat. 1381][/us/stat/95/1381], related to use of solar energy systems in new facilities, prior to repeal by [Pub. L. 97–214][/us/pl/97/214], §§ 7(1), 12(a), July 12, 1982, [96 Stat. 173][/us/stat/96/173], 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See [section 2915 of this title][/us/usc/t10/s2915].
 
  __Amendments__ 
 
-    2015—Subsec. (j). [Pub. L. 114–92, § 2813(1)][/us/pl/114/92/s2813/1], substituted “Conveyance of Additional” for “Construction of” in heading.
+    2015—Subsec. (j). [Pub. L. 114–92][/us/pl/114/92], § 2813(1), substituted “Conveyance of Additional” for “Construction of” in heading.
 
-    Subsec. (j)(1). [Pub. L. 114–92, § 2813(2)][/us/pl/114/92/s2813/2], redesignated subpar. (B) as (A) and substituted “utility system or operation of the additional utility infrastructure by the utility or entity would be in the best interest of the Government; and” for “utility system;”, redesignated subpar. (D) as (B) and substituted “amount for” for “amount equal to the fair market value of”, and struck out former subpars. (A) and (C) which read as follows:
+    Subsec. (j)(1). [Pub. L. 114–92][/us/pl/114/92], § 2813(2), redesignated subpar. (B) as (A) and substituted “utility system or operation of the additional utility infrastructure by the utility or entity would be in the best interest of the Government; and” for “utility system;”, redesignated subpar. (D) as (B) and substituted “amount for” for “amount equal to the fair market value of”, and struck out former subpars. (A) and (C) which read as follows:
 
     “(A) the additional utility infrastructure was constructed or installed after the date of the conveyance of the utility system;
 
@@ -131,45 +131,45 @@
 
     2013—Subsec. (d)(2). [Pub. L. 113–66][/us/pl/113/66] inserted at end “The determination of cost effectiveness shall be made using a business case analysis that includes an independent estimate of the level of investment that should be required to maintain adequate operation of the utility system over the proposed term of the contract.”
 
-    2011—Subsec. (a). [Pub. L. 112–81, § 1061(21)(A)][/us/pl/112/81/s1061/21/A], struck out par. (1) designation before “The Secretary of a military department” and struck out pars. (2) and (3) which related to conditions for entry into a contract to convey all or part of a utility system and conditions under which the Secretary concerned could not reconsider conversion to contractor operation under [section 2461 of this title][/us/usc/t10/s2461] for a five-year period, respectively.
+    2011—Subsec. (a). [Pub. L. 112–81][/us/pl/112/81], § 1061(21)(A), struck out par. (1) designation before “The Secretary of a military department” and struck out pars. (2) and (3) which related to conditions for entry into a contract to convey all or part of a utility system and conditions under which the Secretary concerned could not reconsider conversion to contractor operation under [section 2461 of this title][/us/usc/t10/s2461] for a five-year period, respectively.
 
-    Subsec. (d)(2). [Pub. L. 112–81, § 1061(21)(B)][/us/pl/112/81/s1061/21/B], struck out at end “The economic analysis submitted to the congressional defense committees under subsection (a)(2) for the conveyance of the utility system, or part thereof, with regard to which the utility services contract will be entered into by the Secretary concerned shall include the determination required by this paragraph, an explanation of the need for the longer term contract, and a comparison of costs between a 10-year contract and the longer-term contract.”
+    Subsec. (d)(2). [Pub. L. 112–81][/us/pl/112/81], § 1061(21)(B), struck out at end “The economic analysis submitted to the congressional defense committees under subsection (a)(2) for the conveyance of the utility system, or part thereof, with regard to which the utility services contract will be entered into by the Secretary concerned shall include the determination required by this paragraph, an explanation of the need for the longer term contract, and a comparison of costs between a 10-year contract and the longer-term contract.”
 
-    Subsec. (f). [Pub. L. 112–81, § 1061(21)(C)][/us/pl/112/81/s1061/21/C], struck out subsec. (f). Prior to amendment, text read as follows: “Not later than 30 days after the end of each quarter of a fiscal year, the Secretary shall submit to the congressional defense committees a report on the conveyances made under subsection (a) during such fiscal quarter.”
+    Subsec. (f). [Pub. L. 112–81][/us/pl/112/81], § 1061(21)(C), struck out subsec. (f). Prior to amendment, text read as follows: “Not later than 30 days after the end of each quarter of a fiscal year, the Secretary shall submit to the congressional defense committees a report on the conveyances made under subsection (a) during such fiscal quarter.”
 
-    Subsec. (h). [Pub. L. 112–81, § 1061(21)(D)][/us/pl/112/81/s1061/21/D], struck out at end “The Secretary concerned shall consider any such contribution in the economic analysis required under subsection (a)(2).”
+    Subsec. (h). [Pub. L. 112–81][/us/pl/112/81], § 1061(21)(D), struck out at end “The Secretary concerned shall consider any such contribution in the economic analysis required under subsection (a)(2).”
 
-    2009—Subsec. (a)(2)(A)(ii). [Pub. L. 111–84, § 2821(a)][/us/pl/111/84/s2821/a], substituted “system by 10 percent of the long-term cost for provision of those utility services in the agency tender; and” for “system; and”.
+    2009—Subsec. (a)(2)(A)(ii). [Pub. L. 111–84][/us/pl/111/84], § 2821(a), substituted “system by 10 percent of the long-term cost for provision of those utility services in the agency tender; and” for “system; and”.
 
-    Subsec. (a)(3). [Pub. L. 111–84, § 2821(b)][/us/pl/111/84/s2821/b], added par. (3).
+    Subsec. (a)(3). [Pub. L. 111–84][/us/pl/111/84], § 2821(b), added par. (3).
 
     2008—Subsecs. (j), (k). [Pub. L. 110–417][/us/pl/110/417] added subsec. (j) and redesignated former subsec. (j) as (k).
 
-    2006—Subsec. (a). [Pub. L. 109–163, § 2823(a)][/us/pl/109/163/s2823/a], designated existing provisions as par. (1) and added par. (2).
+    2006—Subsec. (a). [Pub. L. 109–163][/us/pl/109/163], § 2823(a), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (c)(1). [Pub. L. 109–163, § 2823(b)][/us/pl/109/163/s2823/b], substituted “may require” for “shall require” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 109–163][/us/pl/109/163], § 2823(b), substituted “may require” for “shall require” in introductory provisions.
 
-    Subsec. (c)(3). [Pub. L. 109–163, § 2823(c)(2)][/us/pl/109/163/s2823/c/2], redesignated subsec. (c)(3) as (d).
+    Subsec. (c)(3). [Pub. L. 109–163][/us/pl/109/163], § 2823(c)(2), redesignated subsec. (c)(3) as (d).
 
-    Subsec. (d). [Pub. L. 109–163, § 2823(c)(2)][/us/pl/109/163/s2823/c/2], redesignated subsec. (c)(3) as (d), substituted “Contracts for Utility Services.—(1) Except as provided in paragraph (2), a contract” for “A contract”, “subsection (c)” for “paragraph (1)”, and “10 years” for “50 years”, and added par. (2). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 109–163][/us/pl/109/163], § 2823(c)(2), redesignated subsec. (c)(3) as (d), substituted “Contracts for Utility Services.—(1) Except as provided in paragraph (2), a contract” for “A contract”, “subsection (c)” for “paragraph (1)”, and “10 years” for “50 years”, and added par. (2). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 109–163, § 2823(c)(1)][/us/pl/109/163/s2823/c/1], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 109–163][/us/pl/109/163], § 2823(c)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 109–163, § 2823(d)(1)][/us/pl/109/163/s2823/d/1], struck out at end “The report shall include, for each such conveyance, an economic analysis (based upon accepted life-cycle costing procedures approved by the Secretary of Defense) demonstrating that—
+    Subsec. (f). [Pub. L. 109–163][/us/pl/109/163], § 2823(d)(1), struck out at end “The report shall include, for each such conveyance, an economic analysis (based upon accepted life-cycle costing procedures approved by the Secretary of Defense) demonstrating that—
 
     “(1) the long-term economic benefit of the conveyance to the United States exceeds the long-term economic cost of the conveyance to the United States; and
 
     “(2) the conveyance will reduce the long-term costs of the United States for utility services provided by the utility system concerned.”
 
-    [Pub. L. 109–163, § 2823(c)(1)][/us/pl/109/163/s2823/c/1], redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+    [Pub. L. 109–163][/us/pl/109/163], § 2823(c)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 109–163, § 2823(c)(1)][/us/pl/109/163/s2823/c/1], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 109–163][/us/pl/109/163], § 2823(c)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 109–163, § 2823(d)(2)][/us/pl/109/163/s2823/d/2], substituted “subsection (a)(2)” for “subsection (e)”.
+    Subsec. (h). [Pub. L. 109–163][/us/pl/109/163], § 2823(d)(2), substituted “subsection (a)(2)” for “subsection (e)”.
 
-    [Pub. L. 109–163, § 2823(c)(1)][/us/pl/109/163/s2823/c/1], redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+    [Pub. L. 109–163][/us/pl/109/163], § 2823(c)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-    Subsecs. (i), (j). [Pub. L. 109–163, § 2823(c)(1)][/us/pl/109/163/s2823/c/1], redesignated subsecs. (h) and (i) as (i) and (j), respectively.
+    Subsecs. (i), (j). [Pub. L. 109–163][/us/pl/109/163], § 2823(c)(1), redesignated subsecs. (h) and (i) as (i) and (j), respectively.
 
     2003—Subsec. (e). [Pub. L. 108–136][/us/pl/108/136] amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary concerned may not make a conveyance under subsection (a) until—
 
@@ -181,21 +181,21 @@
 
     “(2) a period of 21 days has elapsed after the date on which the economic analysis is received by the committees.”
 
-    2000—Subsec. (b). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. B, title XXVIII, § 2813(a)\], designated existing provisions as par. (1) and added pars. (2) and (3).
+    2000—Subsec. (b). [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. B, title XXVIII, § 2813(a)\], designated existing provisions as par. (1) and added pars. (2) and (3).
 
-    Subsec. (f). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. B, title XXVIII, § 2813(b)\], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (f). [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. B, title XXVIII, § 2813(b)\], designated existing provisions as par. (1) and added par. (2).
 
-    Subsecs. (h) to (j). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(15)\], redesignated subsecs. (i) and (j) as (h) and (i), respectively.
+    Subsecs. (h) to (j). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(15)\], redesignated subsecs. (i) and (j) as (h) and (i), respectively.
 
-    1999—Subsec. (c)(3). [Pub. L. 106–65, § 2812(a)][/us/pl/106/65/s2812/a], added par. (3).
+    1999—Subsec. (c)(3). [Pub. L. 106–65][/us/pl/106/65], § 2812(a), added par. (3).
 
-    Subsec. (e)(1). [Pub. L. 106–65, § 1067(1)][/us/pl/106/65/s1067/1], substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 106–65][/us/pl/106/65], § 1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
-    Subsec. (g). [Pub. L. 106–65, § 2812(c)(2)][/us/pl/106/65/s2812/c/2], added subsec. (g). Former subsec. (g) redesignated (i).
+    Subsec. (g). [Pub. L. 106–65][/us/pl/106/65], § 2812(c)(2), added subsec. (g). Former subsec. (g) redesignated (i).
 
-    Subsec. (g)(2)(B). [Pub. L. 106–65, § 2812(b)][/us/pl/106/65/s2812/b], substituted “Real property, easements,” for “Easements”.
+    Subsec. (g)(2)(B). [Pub. L. 106–65][/us/pl/106/65], § 2812(b), substituted “Real property, easements,” for “Easements”.
 
-    Subsecs. (h) to (j). [Pub. L. 106–65, § 2812(c)(1)][/us/pl/106/65/s2812/c/1], redesignated subsecs. (g) and (h) as (i) and (j), respectively.
+    Subsecs. (h) to (j). [Pub. L. 106–65][/us/pl/106/65], § 2812(c)(1), redesignated subsecs. (g) and (h) as (i) and (j), respectively.
 
 ----------
 
@@ -205,69 +205,69 @@
 ----------
 
 [/us/usc/t10/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304
-[/us/pl/112/81/s1061/21/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F21%2FC
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1584
-[/us/pl/105/85/s2812/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2812%2Fa
+[/us/pl/105/85/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdB%2FtXXVIII
 [/us/stat/111/1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1992
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/136/s1031/a/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F32
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1600
-[/us/pl/109/163/s2823/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2823%2Fa
+[/us/pl/109/163/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdB%2FtXXVIII
 [/us/stat/119/3514-3516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3514-3516
-[/us/pl/110/417/s2813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs2813
+[/us/pl/110/417/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdB%2FtXXVIII
 [/us/stat/122/4728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4728
-[/us/pl/111/84/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2821
+[/us/pl/111/84/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdB%2FtXXVIII
 [/us/stat/123/2664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2664
-[/us/pl/112/81/s1061/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F21
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1584
-[/us/pl/113/66/s2813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2813
+[/us/pl/113/66/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdB%2FtXXVIII
 [/us/stat/127/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1014
-[/us/pl/114/92/s2813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs2813
+[/us/pl/114/92/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdB%2FtXXVIII
 [/us/stat/129/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1175
-[/us/pl/96/125/s804/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F125%2Fs804%2Fa%2F1
+[/us/pl/96/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F125%2FtVIII
 [/us/stat/93/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F948
-[/us/pl/96/418/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F418%2Fs804
+[/us/pl/96/418/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F418%2FtVIII
 [/us/stat/94/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1777
-[/us/pl/97/22/s11/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs11%2Fa%2F9
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F138
-[/us/pl/97/99/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F99%2Fs901
+[/us/pl/97/99/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F99%2FtIX
 [/us/stat/95/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1381
 [/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F173
 [/us/usc/t10/s2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2915
-[/us/pl/114/92/s2813/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs2813%2F1
-[/us/pl/114/92/s2813/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs2813%2F2
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/112/81/s1061/21/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F21%2FA
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t10/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2461
-[/us/pl/112/81/s1061/21/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F21%2FB
-[/us/pl/112/81/s1061/21/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F21%2FC
-[/us/pl/112/81/s1061/21/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F21%2FD
-[/us/pl/111/84/s2821/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2821%2Fa
-[/us/pl/111/84/s2821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2821%2Fb
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/109/163/s2823/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2823%2Fa
-[/us/pl/109/163/s2823/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2823%2Fb
-[/us/pl/109/163/s2823/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2823%2Fc%2F2
-[/us/pl/109/163/s2823/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2823%2Fc%2F2
-[/us/pl/109/163/s2823/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2823%2Fc%2F1
-[/us/pl/109/163/s2823/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2823%2Fd%2F1
-[/us/pl/109/163/s2823/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2823%2Fc%2F1
-[/us/pl/109/163/s2823/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2823%2Fc%2F1
-[/us/pl/109/163/s2823/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2823%2Fd%2F2
-[/us/pl/109/163/s2823/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2823%2Fc%2F1
-[/us/pl/109/163/s2823/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2823%2Fc%2F1
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/65/s2812/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2812%2Fa
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
-[/us/pl/106/65/s2812/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2812%2Fc%2F2
-[/us/pl/106/65/s2812/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2812%2Fb
-[/us/pl/106/65/s2812/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2812%2Fc%2F1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 
 

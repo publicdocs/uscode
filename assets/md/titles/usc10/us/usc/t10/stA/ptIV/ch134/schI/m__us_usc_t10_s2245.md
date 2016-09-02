@@ -27,11 +27,11 @@
 
     (c) In this section, the term “proficiency flying” means flying performed under competent orders by a rated or designated member of the armed forces while serving in a non-aviation assignment or in an assignment in which skills would normally not be maintained in the performance of assigned duties.
 
-(Added [Pub. L. 101–510, div. A, title XIV, § 1481(e)(1)][/us/pl/101/510/s1481/e/1], Nov. 5, 1990, [104 Stat. 1706][/us/stat/104/1706]; amended [Pub. L. 110–181, div. A, title X, § 1077][/us/pl/110/181/s1077], Jan. 28, 2008, [122 Stat. 333][/us/stat/122/333].)
+(Added [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1481(e)(1), Nov. 5, 1990, [104 Stat. 1706][/us/stat/104/1706]; amended [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1077, Jan. 28, 2008, [122 Stat. 333][/us/stat/122/333].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [Pub. L. 101–165, title IX, § 9006][/us/pl/101/165/s9006], Nov. 21, 1989, [103 Stat. 1130][/us/stat/103/1130], which was set out as a note under [section 2241 of this title][/us/usc/t10/s2241], prior to repeal by [Pub. L. 101–510, § 1481(e)(3)][/us/pl/101/510/s1481/e/3].
+    Provisions similar to those in this section were contained in [Pub. L. 101–165, title IX][/us/pl/101/165/tIX], § 9006, Nov. 21, 1989, [103 Stat. 1130][/us/stat/103/1130], which was set out as a note under [section 2241 of this title][/us/usc/t10/s2241], prior to repeal by [Pub. L. 101–510][/us/pl/101/510], § 1481(e)(3).
 
  __Amendments__ 
 
@@ -44,14 +44,14 @@
 ----------
 ----------
 
-[/us/pl/101/510/s1481/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1481%2Fe%2F1
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1706
-[/us/pl/110/181/s1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1077
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F333
-[/us/pl/101/165/s9006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2Fs9006
+[/us/pl/101/165/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2FtIX
 [/us/stat/103/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1130
 [/us/usc/t10/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2241
-[/us/pl/101/510/s1481/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1481%2Fe%2F3
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

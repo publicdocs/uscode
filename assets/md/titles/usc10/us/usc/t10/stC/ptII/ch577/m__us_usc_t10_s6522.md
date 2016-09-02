@@ -67,7 +67,7 @@ Mar. 29, 1918, ch. 31, 40 Stat. 499.  </td>
 
 </table>
 
-    In subsection (a) the word “shall” is substituted for the words “authorized and directed”; the word “effort” is substituted for the word “inquiry”; the words “determine and locate” are substituted for the words “ascertain the whereabouts”; the words “personal property” are substituted for the words “all articles of value, papers, keepsakes, and other similar effects”. The phrase “to the credit of the Navy pension fund” is omitted since this fund was abolished by [§ 9 of the Act of June 26, 1934, ch. 756][/us/act/1934-06-26/ch756/s9], [48 Stat. 1229][/us/stat/48/1229]. The application of this section is confined to the money and other personal property of the deceased member in the custody of the Department of the Navy to make it clear that disposition is made only of property held by the Department of the Navy and not of property which may be under other custody, over which the Department of the Navy would have no control.
+    In subsection (a) the word “shall” is substituted for the words “authorized and directed”; the word “effort” is substituted for the word “inquiry”; the words “determine and locate” are substituted for the words “ascertain the whereabouts”; the words “personal property” are substituted for the words “all articles of value, papers, keepsakes, and other similar effects”. The phrase “to the credit of the Navy pension fund” is omitted since this fund was abolished by § 9 of the [Act of June 26, 1934, ch. 756][/us/act/1934-06-26/ch756], [48 Stat. 1229][/us/stat/48/1229]. The application of this section is confined to the money and other personal property of the deceased member in the custody of the Department of the Navy to make it clear that disposition is made only of property held by the Department of the Navy and not of property which may be under other custody, over which the Department of the Navy would have no control.
 
     In subsection (b) the word “covered” is substituted for the word “deposited”.
 
@@ -80,7 +80,7 @@ Mar. 29, 1918, ch. 31, 40 Stat. 499.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F419
-[/us/act/1934-06-26/ch756/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch756%2Fs9
+[/us/act/1934-06-26/ch756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch756
 [/us/stat/48/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1229
 
 

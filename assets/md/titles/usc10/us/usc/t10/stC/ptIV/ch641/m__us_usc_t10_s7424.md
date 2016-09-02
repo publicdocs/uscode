@@ -39,7 +39,7 @@
 
     (b) The Secretary shall report annually to Congress all agreements under this section.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 458][/us/stat/70A/458]; [Pub. L. 87–796, § 1(4)][/us/pl/87/796/s1/4], Oct. 11, 1962, [76 Stat. 904][/us/stat/76/904]; [Pub. L. 94–258, title II, § 201(5)][/us/pl/94/258/s201/5], Apr. 5, 1976, [90 Stat. 309][/us/stat/90/309]; [Pub. L. 96–513, title V, § 513(32)(A)][/us/pl/96/513/s513/32/A], Dec. 12, 1980, [94 Stat. 2933][/us/stat/94/2933].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 458][/us/stat/70A/458]; [Pub. L. 87–796][/us/pl/87/796], § 1(4), Oct. 11, 1962, [76 Stat. 904][/us/stat/76/904]; [Pub. L. 94–258, title II][/us/pl/94/258/tII], § 201(5), Apr. 5, 1976, [90 Stat. 309][/us/stat/90/309]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(32)(A), Dec. 12, 1980, [94 Stat. 2933][/us/stat/94/2933].)
 
 <table>
 
@@ -106,11 +106,11 @@ June 4, 1920, ch. 228 (4th par., less 1st proviso, of amended 3d and 4th proviso
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F458
-[/us/pl/87/796/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F796%2Fs1%2F4
+[/us/pl/87/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F796
 [/us/stat/76/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F904
-[/us/pl/94/258/s201/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2Fs201%2F5
+[/us/pl/94/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2FtII
 [/us/stat/90/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F309
-[/us/pl/96/513/s513/32/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F32%2FA
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2933
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/94/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258

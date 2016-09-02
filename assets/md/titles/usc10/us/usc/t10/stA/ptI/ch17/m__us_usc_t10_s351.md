@@ -21,7 +21,7 @@
 
     (c) [Section 16 of the Act of March 4, 1909][/us/act/1909-03-04/s16] ([22 U.S.C. 463][/us/usc/t22/s463]) does not apply to vessels armed under this section.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 16][/us/stat/70A/16]; [Pub. L. 96–513, title V, § 511(12)][/us/pl/96/513/s511/12], Dec. 12, 1980, [94 Stat. 2921][/us/stat/94/2921].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 16][/us/stat/70A/16]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(12), Dec. 12, 1980, [94 Stat. 2921][/us/stat/94/2921].)
 
 <table>
 
@@ -120,7 +120,7 @@ June 29, 1948, ch. 715, 62 Stat. 1095.  </td>
 [/us/usc/t22/s463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs463
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F16
-[/us/pl/96/513/s511/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F12
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2921
 [/us/stat/54/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F12
 [/us/usc/t22/s456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs456

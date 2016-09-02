@@ -17,7 +17,7 @@
 
     There shall be a chaplain at the Academy, who must be a clergyman, appointed by the President for a term of four years. The chaplain is entitled to a monthly housing allowance in the same amount as the basic allowance for housing allowed to a lieutenant colonel, and to fuel and light for quarters in kind. The chaplain may be reappointed.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 239][/us/stat/70A/239]; [Pub. L. 87–651, title I, § 117][/us/pl/87/651/s117], Sept. 7, 1962, [76 Stat. 513][/us/stat/76/513]; [Pub. L. 107–107, div. A, title V, § 540(a)][/us/pl/107/107/s540/a], Dec. 28, 2001, [115 Stat. 1109][/us/stat/115/1109].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 239][/us/stat/70A/239]; [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 117, Sept. 7, 1962, [76 Stat. 513][/us/stat/76/513]; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 540(a), Dec. 28, 2001, [115 Stat. 1109][/us/stat/115/1109].)
 
 <table>
 
@@ -87,7 +87,7 @@ Feb. 18, 1896, ch. 22 (proviso), 29 Stat. 8; May 16, 1928, ch. 579, 45 Stat. 573
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–107, div. A, title V, § 540(b)][/us/pl/107/107/s540/b], Dec. 28, 2001, [115 Stat. 1109][/us/stat/115/1109], provided that: 
+[Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 540(b), Dec. 28, 2001, [115 Stat. 1109][/us/stat/115/1109], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act \[Dec. 28, 2001\].”
 
@@ -104,9 +104,9 @@ Feb. 18, 1896, ch. 22 (proviso), 29 Stat. 8; May 16, 1928, ch. 579, 45 Stat. 573
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F239
-[/us/pl/87/651/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs117
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F513
-[/us/pl/107/107/s540/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs540%2Fa
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1109
 [/us/stat/59/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F295
 [/us/stat/60/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F216
@@ -116,7 +116,7 @@ Feb. 18, 1896, ch. 22 (proviso), 29 Stat. 8; May 16, 1928, ch. 579, 45 Stat. 573
 [/us/usc/t5/s1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1083
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/87/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651
-[/us/pl/107/107/s540/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs540%2Fb
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1109
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 

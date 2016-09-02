@@ -53,7 +53,7 @@
 
     (h) Each member of the Advisory Board shall be required to file a financial disclosure report under title I of the Ethics in Government Act of 1978 (5 U.S.C. App.).
 
-(Added [Pub. L. 101–510, div. A, title XVIII, § 1801(a)(1)][/us/pl/101/510/s1801/a/1], Nov. 5, 1990, [104 Stat. 1756][/us/stat/104/1756]; amended [Pub. L. 102–190, div. A, title II, § 257(b)][/us/pl/102/190/s257/b], Dec. 5, 1991, [105 Stat. 1331][/us/stat/105/1331]; [Pub. L. 105–85, div. A, title III, § 341][/us/pl/105/85/s341], Nov. 18, 1997, [111 Stat. 1686][/us/stat/111/1686]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 313(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–55.)
+(Added [Pub. L. 101–510, div. A, title XVIII][/us/pl/101/510/dA/tXVIII], § 1801(a)(1), Nov. 5, 1990, [104 Stat. 1756][/us/stat/104/1756]; amended [Pub. L. 102–190, div. A, title II][/us/pl/102/190/dA/tII], § 257(b), Dec. 5, 1991, [105 Stat. 1331][/us/stat/105/1331]; [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 341, Nov. 18, 1997, [111 Stat. 1686][/us/stat/111/1686]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 313(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–55.)
 
  __References in Text__ 
 
@@ -65,17 +65,17 @@
 
     1997—Subsec. (b)(4). [Pub. L. 105–85][/us/pl/105/85] substituted “not less than two and not more than four” for “three years”.
 
-    1991—Subsec. (a). [Pub. L. 102–190, § 257(b)(1)][/us/pl/102/190/s257/b/1], substituted “14 members” for “13 members”.
+    1991—Subsec. (a). [Pub. L. 102–190][/us/pl/102/190], § 257(b)(1), substituted “14 members” for “13 members”.
 
-    Subsec. (b)(1). [Pub. L. 102–190, § 257(b)(2)][/us/pl/102/190/s257/b/2], added par. (1) and struck out former par. (1) which read as follows: “The Science Advisor to the President, or his designee, shall be a permanent member of the Advisory Board.”
+    Subsec. (b)(1). [Pub. L. 102–190][/us/pl/102/190], § 257(b)(2), added par. (1) and struck out former par. (1) which read as follows: “The Science Advisor to the President, or his designee, shall be a permanent member of the Advisory Board.”
 
  __Initial Appointments of Advisory Board Members__ 
 
-    [Pub. L. 101–510, div. A, title XVIII, § 1801(b)][/us/pl/101/510/s1801/b], Nov. 5, 1990, [104 Stat. 1757][/us/stat/104/1757], directed Secretary of Defense and Secretary of Energy to make the appointments required by [10 U.S.C. 2904(a)][/us/usc/t10/s2904/a] not later than 60 days after Nov. 5, 1990, and provided that up to one-half of the members originally appointed to the Strategic Environmental Research and Development Program Scientific Advisory Board could be appointed for terms of not more than six and not less than two years in order to provide for staggered expiration of the terms of members.
+    [Pub. L. 101–510, div. A, title XVIII][/us/pl/101/510/dA/tXVIII], § 1801(b), Nov. 5, 1990, [104 Stat. 1757][/us/stat/104/1757], directed Secretary of Defense and Secretary of Energy to make the appointments required by [10 U.S.C. 2904(a)][/us/usc/t10/s2904/a] not later than 60 days after Nov. 5, 1990, and provided that up to one-half of the members originally appointed to the Strategic Environmental Research and Development Program Scientific Advisory Board could be appointed for terms of not more than six and not less than two years in order to provide for staggered expiration of the terms of members.
 
  __First Annual Report of Advisory Board__ 
 
-    [Pub. L. 101–510, div. A, title XVIII, § 1801(d)][/us/pl/101/510/s1801/d], Nov. 5, 1990, [104 Stat. 1758][/us/stat/104/1758], directed that first annual report of the Strategic Environmental Research and Development Program Scientific Advisory Board be submitted not later than Mar. 15, 1992.
+    [Pub. L. 101–510, div. A, title XVIII][/us/pl/101/510/dA/tXVIII], § 1801(d), Nov. 5, 1990, [104 Stat. 1758][/us/stat/104/1758], directed that first annual report of the Strategic Environmental Research and Development Program Scientific Advisory Board be submitted not later than Mar. 15, 1992.
 
  __Termination of Advisory Boards__ 
 
@@ -89,25 +89,25 @@
 ----------
 
 [/us/usc/t10/s2902/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2902%2Fd%2F1
-[/us/pl/101/510/s1801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1801%2Fa%2F1
+[/us/pl/101/510/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXVIII
 [/us/stat/104/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1756
-[/us/pl/102/190/s257/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs257%2Fb
+[/us/pl/102/190/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtII
 [/us/stat/105/1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1331
-[/us/pl/105/85/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs341
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1686
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
 [/us/pl/95/521/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs101
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/102/190/s257/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs257%2Fb%2F1
-[/us/pl/102/190/s257/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs257%2Fb%2F2
-[/us/pl/101/510/s1801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1801%2Fb
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/101/510/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXVIII
 [/us/stat/104/1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1757
 [/us/usc/t10/s2904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2904%2Fa
-[/us/pl/101/510/s1801/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1801%2Fd
+[/us/pl/101/510/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXVIII
 [/us/stat/104/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1758
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

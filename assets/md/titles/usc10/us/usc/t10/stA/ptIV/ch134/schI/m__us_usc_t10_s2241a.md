@@ -17,11 +17,11 @@
 
     Funds available to the Department of Defense may not be obligated or expended for publicity or propaganda purposes within the United States not otherwise specifically authorized by law.
 
-(Added [Pub. L. 111–84, div. A, title X, § 1031(a)(1)][/us/pl/111/84/s1031/a/1], Oct. 28, 2009, [123 Stat. 2448][/us/stat/123/2448].)
+(Added [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1031(a)(1), Oct. 28, 2009, [123 Stat. 2448][/us/stat/123/2448].)
 
  __Effective Date__ 
 
-[Pub. L. 111–84, div. A, title X, § 1031(b)][/us/pl/111/84/s1031/b], Oct. 28, 2009, [123 Stat. 2448][/us/stat/123/2448], provided that: 
+[Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1031(b), Oct. 28, 2009, [123 Stat. 2448][/us/stat/123/2448], provided that: 
 
 > “[Section 2241a of title 10][/us/usc/t10/s2241a], United States Code, as added by subsection (a), shall take effect on October 1, 2009, or the date of the enactment of this Act \[Oct. 28, 2009\], whichever is later.”
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/111/84/s1031/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1031%2Fa%2F1
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2448
-[/us/pl/111/84/s1031/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1031%2Fb
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2448
 [/us/usc/t10/s2241a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2241a
 

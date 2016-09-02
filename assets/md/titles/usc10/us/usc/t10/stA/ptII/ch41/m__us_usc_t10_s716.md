@@ -19,7 +19,7 @@
 
     (b) An officer transferred under this section may not be assigned precedence or relative rank higher than that which he held on the day before the transfer.
 
-(Added [Pub. L. 85–599, § 11(2)][/us/pl/85/599/s11/2], Aug. 6, 1958, [72 Stat. 521][/us/stat/72/521]; amended [Pub. L. 91–392, § 1][/us/pl/91/392/s1], Sept. 1, 1970, [84 Stat. 834][/us/stat/84/834]; [Pub. L. 96–215, § 2(a)][/us/pl/96/215/s2/a], Mar. 25, 1980, [94 Stat. 123][/us/stat/94/123]; [Pub. L. 97–295, § 1(10)][/us/pl/97/295/s1/10], Oct. 12, 1982, [96 Stat. 1289][/us/stat/96/1289]; [Pub. L. 98–94, title X, § 1007(a)(1)][/us/pl/98/94/s1007/a/1], Sept. 24, 1983, [97 Stat. 661][/us/stat/97/661]; [Pub. L. 99–348, title III, § 304(a)(1)][/us/pl/99/348/s304/a/1], July 1, 1986, [100 Stat. 703][/us/stat/100/703]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+(Added [Pub. L. 85–599][/us/pl/85/599], § 11(2), Aug. 6, 1958, [72 Stat. 521][/us/stat/72/521]; amended [Pub. L. 91–392][/us/pl/91/392], § 1, Sept. 1, 1970, [84 Stat. 834][/us/stat/84/834]; [Pub. L. 96–215][/us/pl/96/215], § 2(a), Mar. 25, 1980, [94 Stat. 123][/us/stat/94/123]; [Pub. L. 97–295][/us/pl/97/295], § 1(10), Oct. 12, 1982, [96 Stat. 1289][/us/stat/96/1289]; [Pub. L. 98–94, title X][/us/pl/98/94/tX], § 1007(a)(1), Sept. 24, 1983, [97 Stat. 661][/us/stat/97/661]; [Pub. L. 99–348, title III][/us/pl/99/348/tIII], § 304(a)(1), July 1, 1986, [100 Stat. 703][/us/stat/100/703]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
  __Codification__ 
 
@@ -62,19 +62,19 @@
 ----------
 ----------
 
-[/us/pl/85/599/s11/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599%2Fs11%2F2
+[/us/pl/85/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599
 [/us/stat/72/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F521
-[/us/pl/91/392/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F392%2Fs1
+[/us/pl/91/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F392
 [/us/stat/84/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F834
-[/us/pl/96/215/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F215%2Fs2%2Fa
+[/us/pl/96/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F215
 [/us/stat/94/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F123
-[/us/pl/97/295/s1/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F10
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1289
-[/us/pl/98/94/s1007/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1007%2Fa%2F1
+[/us/pl/98/94/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtX
 [/us/stat/97/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F661
-[/us/pl/99/348/s304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs304%2Fa%2F1
+[/us/pl/99/348/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtIII
 [/us/stat/100/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F703
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/usc/t10/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs717
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

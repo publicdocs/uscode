@@ -19,7 +19,7 @@
 
     (b) The products referred to in subsection (a) are bakery or dairy products produced by the Army and Air Force Exchange Service in a facility outside the United States that began operating before July 1, 1986.
 
-(Added [Pub. L. 99–661, div. A, title III, § 312(a)][/us/pl/99/661/s312/a], Nov. 14, 1986, [100 Stat. 3851][/us/stat/100/3851].)
+(Added [Pub. L. 99–661, div. A, title III][/us/pl/99/661/dA/tIII], § 312(a), Nov. 14, 1986, [100 Stat. 3851][/us/stat/100/3851].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/99/661/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs312%2Fa
+[/us/pl/99/661/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIII
 [/us/stat/100/3851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3851
 
 

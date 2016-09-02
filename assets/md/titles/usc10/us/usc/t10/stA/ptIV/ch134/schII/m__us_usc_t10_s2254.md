@@ -55,21 +55,21 @@
 
     The Secretary of each military department shall prescribe regulations to carry out this section.
 
-(Added [Pub. L. 102–484, div. A, title X, § 1071(a)(1)][/us/pl/102/484/s1071/a/1], Oct. 23, 1992, [106 Stat. 2507][/us/stat/106/2507].)
+(Added [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1071(a)(1), Oct. 23, 1992, [106 Stat. 2507][/us/stat/106/2507].)
 
  __Effective Date__ 
 
-[Pub. L. 102–484, div. A, title X, § 1071(c)][/us/pl/102/484/s1071/c], Oct. 23, 1992, [106 Stat. 2508][/us/stat/106/2508], provided that: 
+[Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1071(c), Oct. 23, 1992, [106 Stat. 2508][/us/stat/106/2508], provided that: 
 
 > “[Section 2254 of title 10][/us/usc/t10/s2254], United States Code, as added by subsection (a), shall apply with respect to accidents occurring on or after the date on which regulations are first prescribed under that section.”
 
  __Regulations__ 
 
-[Pub. L. 105–261, div. A, title X, § 1065(c)][/us/pl/105/261/s1065/c], Oct. 17, 1998, [112 Stat. 2134][/us/stat/112/2134], provided that: 
+[Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1065(c), Oct. 17, 1998, [112 Stat. 2134][/us/stat/112/2134], provided that: 
 
 > “The Secretary of Defense shall prescribe regulations, which shall be applied uniformly across the Department of Defense, establishing procedures by which the military departments shall provide to the family members of any person involved in a military aviation accident periodic update reports on the conduct and progress of investigations into the accident.”
 
-[Pub. L. 102–484, div. A, title X, § 1071(b)][/us/pl/102/484/s1071/b], Oct. 23, 1992, [106 Stat. 2508][/us/stat/106/2508], provided that: 
+[Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1071(b), Oct. 23, 1992, [106 Stat. 2508][/us/stat/106/2508], provided that: 
 
 > “Regulations under [section 2254 of title 10][/us/usc/t10/s2254], United States Code, as added by subsection (a), shall be prescribed not later than 180 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
 
@@ -80,14 +80,14 @@
 ----------
 ----------
 
-[/us/pl/102/484/s1071/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1071%2Fa%2F1
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2507
-[/us/pl/102/484/s1071/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1071%2Fc
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2508
 [/us/usc/t10/s2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2254
-[/us/pl/105/261/s1065/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1065%2Fc
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2134
-[/us/pl/102/484/s1071/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1071%2Fb
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2508
 [/us/usc/t10/s2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2254
 

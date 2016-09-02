@@ -21,7 +21,7 @@
 
     (2) The term “cost”, with respect to a loan guarantee, has the meaning given that term in section 502 of the Congressional Budget and Impoundment Control Act of 1974 ([2 U.S.C. 661a][/us/usc/t2/s661a]).
 
-(Added [Pub. L. 104–106, div. A, title XIII, § 1321(a)(1)][/us/pl/104/106/s1321/a/1], Feb. 10, 1996, [110 Stat. 477][/us/stat/110/477].)
+(Added [Pub. L. 104–106, div. A, title XIII][/us/pl/104/106/dA/tXIII], § 1321(a)(1), Feb. 10, 1996, [110 Stat. 477][/us/stat/110/477].)
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t22/s2794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2794
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
-[/us/pl/104/106/s1321/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1321%2Fa%2F1
+[/us/pl/104/106/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXIII
 [/us/stat/110/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F477
 
 

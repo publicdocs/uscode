@@ -39,7 +39,7 @@
 
         (3) the Secretary of the military department concerned determines that there will be not less than 40 students enrolled in such unit and that the provisions of this section are otherwise satisfied.
 
-(Added [Pub. L. 88–647, title II, § 201(1)][/us/pl/88/647/s201/1], Oct. 13, 1964, [78 Stat. 1065][/us/stat/78/1065]; amended [Pub. L. 95–79, title VI, § 602][/us/pl/95/79/s602], July 30, 1977, [91 Stat. 332][/us/stat/91/332].)
+(Added [Pub. L. 88–647, title II][/us/pl/88/647/tII], § 201(1), Oct. 13, 1964, [78 Stat. 1065][/us/stat/78/1065]; amended [Pub. L. 95–79, title VI][/us/pl/95/79/tVI], § 602, July 30, 1977, [91 Stat. 332][/us/stat/91/332].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Military Training for Female Undergraduates at Military Colleges; Regulations__ 
 
-    [Pub. L. 95–485, title VIII, § 809][/us/pl/95/485/s809], Oct. 20, 1978, [92 Stat. 1623][/us/stat/92/1623], directed the Secretary of Defense to require that any college or university designated as a military college provide that qualified female undergraduate students be eligible to participate in military training at such college or university, and prohibited the Secretary from requiring such college or university to require female undergraduate students enrolled in such college or university to participate in military training, prior to repeal by [Pub. L. 98–525, title XIV][/us/pl/98/525], §§ 1403(b), 1404, Oct. 19, 1984, [98 Stat. 2621][/us/stat/98/2621], eff. Oct. 1, 1985. See [section 2009 of this title][/us/usc/t10/s2009].
+    [Pub. L. 95–485, title VIII][/us/pl/95/485/tVIII], § 809, Oct. 20, 1978, [92 Stat. 1623][/us/stat/92/1623], directed the Secretary of Defense to require that any college or university designated as a military college provide that qualified female undergraduate students be eligible to participate in military training at such college or university, and prohibited the Secretary from requiring such college or university to require female undergraduate students enrolled in such college or university to participate in military training, prior to repeal by [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], §§ 1403(b), 1404, Oct. 19, 1984, [98 Stat. 2621][/us/stat/98/2621], eff. Oct. 1, 1985. See [section 2009 of this title][/us/usc/t10/s2009].
 
 ----------
 
@@ -60,15 +60,15 @@
 ----------
 ----------
 
-[/us/pl/88/647/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2Fs201%2F1
+[/us/pl/88/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2FtII
 [/us/stat/78/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1065
-[/us/pl/95/79/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2Fs602
+[/us/pl/95/79/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2FtVI
 [/us/stat/91/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F332
 [/us/pl/95/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/pl/95/485/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs809
+[/us/pl/95/485/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2FtVIII
 [/us/stat/92/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1623
-[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2621
 [/us/usc/t10/s2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2009
 

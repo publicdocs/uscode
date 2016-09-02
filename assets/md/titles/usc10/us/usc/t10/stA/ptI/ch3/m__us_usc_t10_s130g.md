@@ -17,7 +17,7 @@
 
     The Secretary of Defense shall develop, prepare, and coordinate; make ready all armed forces for purposes of; and, when appropriately authorized to do so, conduct, a military cyber operation in response to malicious cyber activity carried out against the United States or a United States person by a foreign power (as such terms are defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801])).
 
-(Added [Pub. L. 114–92, div. A, title XVI, § 1642(a)][/us/pl/114/92/s1642/a], Nov. 25, 2015, [129 Stat. 1116][/us/stat/129/1116].)
+(Added [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1642(a), Nov. 25, 2015, [129 Stat. 1116][/us/stat/129/1116].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
-[/us/pl/114/92/s1642/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1642%2Fa
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1116
 
 

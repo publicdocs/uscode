@@ -17,7 +17,7 @@
 
     Subject to the availability of funds for this purpose, the Secretary of the Navy may make grants to support the purposes of Naval Sea Cadet Corps, a federally chartered corporation under chapter 1541 of title 36.
 
-(Added [Pub. L. 111–84, div. A, title V, § 592(a)][/us/pl/111/84/s592/a], Oct. 28, 2009, [123 Stat. 2337][/us/stat/123/2337].)
+(Added [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 592(a), Oct. 28, 2009, [123 Stat. 2337][/us/stat/123/2337].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/84/s592/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs592%2Fa
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2337
 
 

@@ -39,7 +39,7 @@
 
         (2) If routine airport services are provided under this section by a working-capital fund activity of the Air Force under [section 2208 of this title][/us/usc/t10/s2208] and such activity is not reimbursed directly for the costs incurred by the activity in providing such services by reason of paragraph (1)(B), the working-capital fund activity shall be reimbursed for such costs out of funds currently available to the Air Force for operation and maintenance.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 581][/us/stat/70A/581]; [Pub. L. 110–181, div. A, title X, § 1031(a)(1)][/us/pl/110/181/s1031/a/1], Jan. 28, 2008, [122 Stat. 305][/us/stat/122/305].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 581][/us/stat/70A/581]; [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1031(a)(1), Jan. 28, 2008, [122 Stat. 305][/us/stat/122/305].)
 
 <table>
 
@@ -101,7 +101,7 @@ May 31, 1939, ch. 161 (less last sentence), 53 Stat. 795.  </td>
 [/us/usc/t10/s2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2208
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F581
-[/us/pl/110/181/s1031/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1031%2Fa%2F1
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F305
 [/us/stat/63/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F585
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181

@@ -35,11 +35,11 @@
 
         (3) An allowance under this subsection may not exceed the allowance authorized to be paid by [section 5941(a) of title 5][/us/usc/t5/s5941/a] for employees whose rates of basic pay are fixed by statute.
 
-(Added [Pub. L. 104–201, div. A, title XVI, § 1632(a)(3)][/us/pl/104/201/s1632/a/3], Sept. 23, 1996, [110 Stat. 2746][/us/stat/110/2746].)
+(Added [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1632(a)(3), Sept. 23, 1996, [110 Stat. 2746][/us/stat/110/2746].)
 
  __Prior Provisions__ 
 
-    A prior section 1603, added [Pub. L. 97–89, title VII, § 701(a)(1)][/us/pl/97/89/s701/a/1], Dec. 4, 1981, [95 Stat. 1160][/us/stat/95/1160]; amended [Pub. L. 99–145, title XIII, § 1302(a)(3)][/us/pl/99/145/s1302/a/3], Nov. 8, 1985, [99 Stat. 738][/us/stat/99/738]; [Pub. L. 99–661, div. A, title XIII, § 1343(a)(9)][/us/pl/99/661/s1343/a/9], Nov. 14, 1986, [100 Stat. 3992][/us/stat/100/3992], related to limits on pay to members of the Defense Intelligence Senior Executive Service, prior to repeal by [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201], §§ 1632(a)(3), 1635, Sept. 23, 1996, [110 Stat. 2745][/us/stat/110/2745], 2752, effective Oct. 1, 1996.
+    A prior section 1603, added [Pub. L. 97–89, title VII][/us/pl/97/89/tVII], § 701(a)(1), Dec. 4, 1981, [95 Stat. 1160][/us/stat/95/1160]; amended [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1302(a)(3), Nov. 8, 1985, [99 Stat. 738][/us/stat/99/738]; [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1343(a)(9), Nov. 14, 1986, [100 Stat. 3992][/us/stat/100/3992], related to limits on pay to members of the Defense Intelligence Senior Executive Service, prior to repeal by [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], §§ 1632(a)(3), 1635, Sept. 23, 1996, [110 Stat. 2745][/us/stat/110/2745], 2752, effective Oct. 1, 1996.
 
     Provisions similar to those in this section were contained in sections 1590(d) and 1604(b)(2), (d) of this title prior to repeal by [Pub. L. 104–201][/us/pl/104/201], §§ 1632(a)(3), 1633(a).
 
@@ -55,15 +55,15 @@
 ----------
 
 [/us/usc/t5/s5941/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5941%2Fa
-[/us/pl/104/201/s1632/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1632%2Fa%2F3
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2746
-[/us/pl/97/89/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2Fs701%2Fa%2F1
+[/us/pl/97/89/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2FtVII
 [/us/stat/95/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1160
-[/us/pl/99/145/s1302/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1302%2Fa%2F3
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F738
-[/us/pl/99/661/s1343/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1343%2Fa%2F9
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3992
-[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2745
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/201/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1635

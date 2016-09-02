@@ -23,7 +23,7 @@
 
     Subsection (a) shall not be interpreted to invalidate or otherwise affect the receipt by any person of a death gratuity or other payment from the United States on behalf of a person referred to in subsection (a) before February 10, 1996.
 
-(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)][/us/pl/104/106/s569/b/1], Feb. 10, 1996, [110 Stat. 349][/us/stat/110/349]; amended [Pub. L. 107–107, div. A, title X, § 1048(c)(10)][/us/pl/107/107/s1048/c/10], Dec. 28, 2001, [115 Stat. 1226][/us/stat/115/1226].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 569(b)(1), Feb. 10, 1996, [110 Stat. 349][/us/stat/110/349]; amended [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(c)(10), Dec. 28, 2001, [115 Stat. 1226][/us/stat/115/1226].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/104/106/s569/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fb%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F349
-[/us/pl/107/107/s1048/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fc%2F10
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1226
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 

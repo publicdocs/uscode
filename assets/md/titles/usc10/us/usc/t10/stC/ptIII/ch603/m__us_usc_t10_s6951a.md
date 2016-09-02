@@ -21,13 +21,13 @@
 
     (c) An officer who is detailed to the position of Superintendent shall be so detailed for a period of not less than three years. In any case in which an officer serving as Superintendent is reassigned or retires before having completed three years service as Superintendent, or otherwise leaves that position (other than due to death) without having completed three years service in that position, the Secretary of the Navy shall submit to Congress notice that such officer left the position of Superintendent without having completed three years service in that position, together with a statement of the reasons why that officer did not complete three years service in that position.
 
-(Added [Pub. L. 106–65, div. A, title V, § 532(a)(2)(B)][/us/pl/106/65/s532/a/2/B], Oct. 5, 1999, [113 Stat. 603][/us/stat/113/603]; amended [Pub. L. 108–375, div. A, title V, § 541(b)(2)][/us/pl/108/375/s541/b/2], Oct. 28, 2004, [118 Stat. 1903][/us/stat/118/1903].)
+(Added [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 532(a)(2)(B), Oct. 5, 1999, [113 Stat. 603][/us/stat/113/603]; amended [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 541(b)(2), Oct. 28, 2004, [118 Stat. 1903][/us/stat/118/1903].)
 
  __Amendments__ 
 
-    2004—Subsec. (b). [Pub. L. 108–375, § 541(b)(2)(A)][/us/pl/108/375/s541/b/2/A], inserted before period at end “pursuant to [section 6371(a) of this title][/us/usc/t10/s6371/a], unless such retirement is waived under [section 6371(b) of this title][/us/usc/t10/s6371/b]”.
+    2004—Subsec. (b). [Pub. L. 108–375][/us/pl/108/375], § 541(b)(2)(A), inserted before period at end “pursuant to [section 6371(a) of this title][/us/usc/t10/s6371/a], unless such retirement is waived under [section 6371(b) of this title][/us/usc/t10/s6371/b]”.
 
-    Subsec. (c). [Pub. L. 108–375, § 541(b)(2)(B)][/us/pl/108/375/s541/b/2/B], added subsec. (c).
+    Subsec. (c). [Pub. L. 108–375][/us/pl/108/375], § 541(b)(2)(B), added subsec. (c).
 
  __Application of Section to Superintendents Serving on__  __October 5, 1999__ 
 
@@ -42,14 +42,14 @@
 
 [/us/usc/t10/s6371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6371%2Fa
 [/us/usc/t10/s6371/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6371%2Fb
-[/us/pl/106/65/s532/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs532%2Fa%2F2%2FB
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F603
-[/us/pl/108/375/s541/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs541%2Fb%2F2
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1903
-[/us/pl/108/375/s541/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs541%2Fb%2F2%2FA
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t10/s6371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6371%2Fa
 [/us/usc/t10/s6371/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6371%2Fb
-[/us/pl/108/375/s541/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs541%2Fb%2F2%2FB
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/106/65/s532/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs532%2Fa%2F5
 [/us/usc/t10/s3921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3921
 

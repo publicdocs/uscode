@@ -17,7 +17,7 @@
 
     An enlistment in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard in effect at the beginning of a war, or entered into during a war, unless sooner terminated by the President, continues in effect until six months after the termination of that war.
 
-(Added [Pub. L. 90–235, § 2(a)(1)(B)][/us/pl/90/235/s2/a/1/B], Jan. 2, 1968, [81 Stat. 754][/us/stat/81/754].)
+(Added [Pub. L. 90–235][/us/pl/90/235], § 2(a)(1)(B), Jan. 2, 1968, [81 Stat. 754][/us/stat/81/754].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/90/235/s2/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs2%2Fa%2F1%2FB
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F754
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

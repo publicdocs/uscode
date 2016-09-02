@@ -23,7 +23,7 @@
 
     (d) In this section, the term “defense contractor”, for any year, means a person awarded a contract with the Department of Defense in that year for an amount in excess of $1,000,000.
 
-(Added [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 957(a)(1)(B)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–174, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 957(a)(1)(B)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–174; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 957(a)(1)(B), Nov. 14, 1986, [100 Stat. 3954][/us/stat/100/3954], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 108–375, div. A, title VIII, § 816][/us/pl/108/375/s816], Oct. 28, 2004, [118 Stat. 2015][/us/stat/118/2015].)
+(Added [Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title X, § 957(a)(1)(B)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–174, and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 957(a)(1)(B)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–174; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661/dA/tIX], formerly title IV, § 957(a)(1)(B), Nov. 14, 1986, [100 Stat. 3954][/us/stat/100/3954], renumbered title IX, [Pub. L. 100–26][/us/pl/100/26], § 3(5), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 108–375, div. A, title VIII][/us/pl/108/375/dA/tVIII], § 816, Oct. 28, 2004, [118 Stat. 2015][/us/stat/118/2015].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 957(b)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–175, [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 957(b)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–175, and [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 957(b), Nov. 14, 1986, [100 Stat. 3955][/us/stat/100/3955], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], provided that: 
+[Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title X, § 957(b)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–175, [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 957(b)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–175, and [Pub. L. 99–661, div. A, title IX][/us/pl/99/661/dA/tIX], formerly title IV, § 957(b), Nov. 14, 1986, [100 Stat. 3955][/us/stat/100/3955], renumbered title IX, [Pub. L. 100–26][/us/pl/100/26], § 3(5), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], provided that: 
 
 > “[Section 2416 of title 10][/us/usc/t10/s2416], United States Code, as added by subsection (a), shall take effect on January 1, 1987.”
 
@@ -52,15 +52,15 @@
 ----------
 ----------
 
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIX
 [/us/stat/100/3954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3954
-[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
-[/us/pl/108/375/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs816
+[/us/pl/108/375/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVIII
 [/us/stat/118/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2015
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
@@ -69,13 +69,13 @@
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/usc/t10/s2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2420
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIX
 [/us/stat/100/3955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3955
-[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
 [/us/usc/t10/s2416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2416
 

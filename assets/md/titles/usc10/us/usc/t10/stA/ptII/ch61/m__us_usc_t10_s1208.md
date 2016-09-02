@@ -35,7 +35,7 @@
 
     (b) A member of the armed forces who is not a member of a regular component shall be credited, for the purposes of this chapter, with the number of years of service that he would count if he were computing his years of service under [section 12733 of this title][/us/usc/t10/s12733].
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 94][/us/stat/70A/94]; [Pub. L. 89–718, § 8][/us/pl/89/718/s8], Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117]; [Pub. L. 96–513, title V][/us/pl/96/513], §§ 501(16), 511(42), Dec. 12, 1980, [94 Stat. 2908][/us/stat/94/2908], 2923; [Pub. L. 99–661, div. A, title XIII, § 1343(a)(6)][/us/pl/99/661/s1343/a/6], Nov. 14, 1986, [100 Stat. 3992][/us/stat/100/3992]; [Pub. L. 100–26, § 7(j)(3)][/us/pl/100/26/s7/j/3], Apr. 21, 1987, [101 Stat. 283][/us/stat/101/283]; [Pub. L. 104–106, div. A, title XV, § 1501(c)(13)][/us/pl/104/106/s1501/c/13], Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 94][/us/stat/70A/94]; [Pub. L. 89–718][/us/pl/89/718], § 8, Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], §§ 501(16), 511(42), Dec. 12, 1980, [94 Stat. 2908][/us/stat/94/2908], 2923; [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1343(a)(6), Nov. 14, 1986, [100 Stat. 3992][/us/stat/100/3992]; [Pub. L. 100–26][/us/pl/100/26], § 7(j)(3), Apr. 21, 1987, [101 Stat. 283][/us/stat/101/283]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(c)(13), Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499].)
 
 <table>
 
@@ -119,7 +119,7 @@ In subsection (a)(2)(C), the references to 10:22–23, 24–26, and 30–36 are 
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–106, div. A, title XV, § 1501(c)][/us/pl/104/106/s1501/c], Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498], provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as originally enacted.
+    [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(c), Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498], provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as originally enacted.
 
  __Effective Date of 1980 Amendment__ 
 
@@ -127,7 +127,7 @@ In subsection (a)(2)(C), the references to 10:22–23, 24–26, and 30–36 are 
 
  __Repeals__ 
 
-    The directory language of, but not the amendment made by, [Pub. L. 89–718, § 8(a)][/us/pl/89/718/s8/a], Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117], cited as a credit to this section, was repealed by [Pub. L. 97–295, § 6(b)][/us/pl/97/295/s6/b], Oct. 12, 1982, [96 Stat. 1314][/us/stat/96/1314].
+    The directory language of, but not the amendment made by, [Pub. L. 89–718][/us/pl/89/718], § 8(a), Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117], cited as a credit to this section, was repealed by [Pub. L. 97–295][/us/pl/97/295], § 6(b), Oct. 12, 1982, [96 Stat. 1314][/us/stat/96/1314].
 
  __Transfer of Functions__ 
 
@@ -135,7 +135,7 @@ In subsection (a)(2)(C), the references to 10:22–23, 24–26, and 30–36 are 
 
  __Additional Service Creditable to Certain Regulars__ 
 
-[Act Aug. 10, 1956, ch. 1041, § 39][/us/act/1956-08-10/ch1041/s39], [70A Stat. 635][/us/stat/70A/635], provided that: 
+[Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 39, [70A Stat. 635][/us/stat/70A/635], provided that: 
 
 > “In addition to service with which he may be credited under [section 1208(a)(2) of title 10][/us/usc/t10/s1208/a/2], United States Code \[subsec. (a)(2) of this section\], a member of a regular component of the armed forces shall be credited, for the purposes of chapter 61 of title 10, United States Code \[this chapter\], with all service as—
 
@@ -161,15 +161,15 @@ In subsection (a)(2)(C), the references to 10:22–23, 24–26, and 30–36 are 
 [/us/usc/t10/s12733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12733
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F94
-[/us/pl/89/718/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs8
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1117
-[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2908
-[/us/pl/99/661/s1343/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1343%2Fa%2F6
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3992
-[/us/pl/100/26/s7/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fj%2F3
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F283
-[/us/pl/104/106/s1501/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc%2F13
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F499
 [/us/stat/64/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F271
 [/us/act/1933-06-15/ch87/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-15%2Fch87%2Fs16
@@ -182,19 +182,19 @@ In subsection (a)(2)(C), the references to 10:22–23, 24–26, and 30–36 are 
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
-[/us/pl/104/106/s1501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F498
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/96/513/s501/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs501%2F16
 [/us/pl/96/513/s511/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F42
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/89/718/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs8%2Fa
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1117
-[/us/pl/97/295/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs6%2Fb
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1314
 [/us/usc/t10/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs802
-[/us/act/1956-08-10/ch1041/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs39
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F635
 [/us/usc/t10/s1208/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1208%2Fa%2F2
 [/us/usc/t42/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs212

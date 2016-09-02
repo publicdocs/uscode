@@ -29,11 +29,11 @@
 
         (3) readiness training.
 
-(Added [Pub. L. 107–107, div. A, title VII, § 732(a)(1)][/us/pl/107/107/s732/a/1], Dec. 28, 2001, [115 Stat. 1169][/us/stat/115/1169].)
+(Added [Pub. L. 107–107, div. A, title VII][/us/pl/107/107/dA/tVII], § 732(a)(1), Dec. 28, 2001, [115 Stat. 1169][/us/stat/115/1169].)
 
  __Deadline for Implementation__ 
 
-    [Pub. L. 107–107, div. A, title VII, § 732(b)][/us/pl/107/107/s732/b], Dec. 28, 2001, [115 Stat. 1170][/us/stat/115/1170], directed the Secretary of Defense to begin to implement the procedures required by subsec. (a) of this section not later than one year after Dec. 28, 2001.
+    [Pub. L. 107–107, div. A, title VII][/us/pl/107/107/dA/tVII], § 732(b), Dec. 28, 2001, [115 Stat. 1170][/us/stat/115/1170], directed the Secretary of Defense to begin to implement the procedures required by subsec. (a) of this section not later than one year after Dec. 28, 2001.
 
 ----------
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/107/107/s732/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs732%2Fa%2F1
+[/us/pl/107/107/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVII
 [/us/stat/115/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1169
-[/us/pl/107/107/s732/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs732%2Fb
+[/us/pl/107/107/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVII
 [/us/stat/115/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1170
 
 

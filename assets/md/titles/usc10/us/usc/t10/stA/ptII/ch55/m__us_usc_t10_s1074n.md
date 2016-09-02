@@ -45,11 +45,11 @@
 
     The Secretary of Defense shall, in consultation with the other administering Secretaries, prescribe regulations for the administration of this section.
 
-(Added [Pub. L. 113–291, div. A, title VII, § 701(a)(1)][/us/pl/113/291/s701/a/1], Dec. 19, 2014, [128 Stat. 3408][/us/stat/128/3408].)
+(Added [Pub. L. 113–291, div. A, title VII][/us/pl/113/291/dA/tVII], § 701(a)(1), Dec. 19, 2014, [128 Stat. 3408][/us/stat/128/3408].)
 
  __Implementation of Regulations__ 
 
-[Pub. L. 113–291, div. A, title VII, § 701(a)(3)][/us/pl/113/291/s701/a/3], Dec. 19, 2014, [128 Stat. 3409][/us/stat/128/3409], provided that: 
+[Pub. L. 113–291, div. A, title VII][/us/pl/113/291/dA/tVII], § 701(a)(3), Dec. 19, 2014, [128 Stat. 3409][/us/stat/128/3409], provided that: 
 
 > “Not later than 180 days after the date of the issuance of the regulations prescribed under [section 1074n(e) of title 10][/us/usc/t10/s1074n/e], United States Code, as added by paragraph (1), the Secretary of Defense shall implement such regulations.”
 
@@ -63,9 +63,9 @@
 [/us/usc/t10/s1074m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074m
 [/us/usc/t10/s1074m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074m
 [/us/usc/t10/s1074f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074f
-[/us/pl/113/291/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs701%2Fa%2F1
+[/us/pl/113/291/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVII
 [/us/stat/128/3408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3408
-[/us/pl/113/291/s701/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs701%2Fa%2F3
+[/us/pl/113/291/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVII
 [/us/stat/128/3409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3409
 [/us/usc/t10/s1074n/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074n%2Fe
 

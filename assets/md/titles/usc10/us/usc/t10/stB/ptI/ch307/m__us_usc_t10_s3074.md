@@ -21,7 +21,7 @@
 
     (c) Such part of the Corps of Engineers as the President directs shall be formed into tactical units organized as he prescribes.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 170][/us/stat/70A/170]; [Pub. L. 99–433, title V, § 503][/us/pl/99/433/s503], Oct. 1, 1986, [100 Stat. 1042][/us/stat/100/1042]; [Pub. L. 109–163, div. A, title X, § 1057(a)(6)][/us/pl/109/163/s1057/a/6], Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 170][/us/stat/70A/170]; [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 503, Oct. 1, 1986, [100 Stat. 1042][/us/stat/100/1042]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(a)(6), Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
 
 <table>
 
@@ -87,7 +87,7 @@ June 3, 1916, ch. 134, § 11 (less 1st 41 words); restated June 4, 1920, ch. 2
 
  __Army Reserve Command__ 
 
-    [Pub. L. 101–510, div. A, title IX, § 903][/us/pl/101/510/s903], Nov. 5, 1990, [104 Stat. 1620][/us/stat/104/1620], as amended by [Pub. L. 102–25, title VII, § 704(a)(7)][/us/pl/102/25/s704/a/7], Apr. 6, 1991, [105 Stat. 118][/us/stat/105/118]; [Pub. L. 103–160, div. A, title IX, § 941][/us/pl/103/160/s941], Nov. 30, 1993, [107 Stat. 1736][/us/stat/107/1736], related to establishment of United States Army Reserve Command and assignment of forces to Army Reserve Command, prior to repeal by [Pub. L. 104–201, div. A, title XII, § 1211(b)][/us/pl/104/201/s1211/b], Sept. 23, 1996, [110 Stat. 2691][/us/stat/110/2691]. See [section 10171 of this title][/us/usc/t10/s10171].
+    [Pub. L. 101–510, div. A, title IX][/us/pl/101/510/dA/tIX], § 903, Nov. 5, 1990, [104 Stat. 1620][/us/stat/104/1620], as amended by [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 704(a)(7), Apr. 6, 1991, [105 Stat. 118][/us/stat/105/118]; [Pub. L. 103–160, div. A, title IX][/us/pl/103/160/dA/tIX], § 941, Nov. 30, 1993, [107 Stat. 1736][/us/stat/107/1736], related to establishment of United States Army Reserve Command and assignment of forces to Army Reserve Command, prior to repeal by [Pub. L. 104–201, div. A, title XII][/us/pl/104/201/dA/tXII], § 1211(b), Sept. 23, 1996, [110 Stat. 2691][/us/stat/110/2691]. See [section 10171 of this title][/us/usc/t10/s10171].
 
 ----------
 
@@ -98,19 +98,19 @@ June 3, 1916, ch. 134, § 11 (less 1st 41 words); restated June 4, 1920, ch. 2
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F170
-[/us/pl/99/433/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs503
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1042
-[/us/pl/109/163/s1057/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F6
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3441
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
-[/us/pl/101/510/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs903
+[/us/pl/101/510/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIX
 [/us/stat/104/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1620
-[/us/pl/102/25/s704/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs704%2Fa%2F7
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F118
-[/us/pl/103/160/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs941
+[/us/pl/103/160/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIX
 [/us/stat/107/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1736
-[/us/pl/104/201/s1211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1211%2Fb
+[/us/pl/104/201/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXII
 [/us/stat/110/2691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2691
 [/us/usc/t10/s10171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10171
 

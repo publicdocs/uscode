@@ -17,7 +17,7 @@
 
     The Secretary of a military department may have published, annually or at such other times as he may designate, official registers containing the names of, and other pertinent information about, such regular and reserve officers of the armed forces under his jurisdiction as he considers appropriate. The register may also contain any other list that the Secretary considers appropriate.
 
-(Added [Pub. L. 85–861, § 1(2)(A)][/us/pl/85/861/s1/2/A], Sept. 2, 1958, [72 Stat. 1437][/us/stat/72/1437].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(2)(A), Sept. 2, 1958, [72 Stat. 1437][/us/stat/72/1437].)
 
 <table>
 
@@ -72,7 +72,7 @@ July 24, 1956, ch. 677, § 1, 70 Stat. 623.  </td>
 ----------
 ----------
 
-[/us/pl/85/861/s1/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F2%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1437
 
 

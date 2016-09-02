@@ -179,17 +179,17 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–291, div. A, title IX, § 902(b)(2)][/us/pl/113/291/s902/b/2], Dec. 19, 2014, [128 Stat. 3470][/us/stat/128/3470], added item 10201 and struck out former item 10201 “Assistant Secretary of Defense for Reserve Affairs”.
+    2014—[Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 902(b)(2), Dec. 19, 2014, [128 Stat. 3470][/us/stat/128/3470], added item 10201 and struck out former item 10201 “Assistant Secretary of Defense for Reserve Affairs”.
 
-    2013—[Pub. L. 112–239, div. A, title V, § 581(a)(2)][/us/pl/112/239/s581/a/2], Jan. 2, 2013, [126 Stat. 1765][/us/stat/126/1765], added item 10219.
+    2013—[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 581(a)(2), Jan. 2, 2013, [126 Stat. 1765][/us/stat/126/1765], added item 10219.
 
-    2006—[Pub. L. 109–163, div. A, title VII, § 732(c)][/us/pl/109/163/s732/c], Jan. 6, 2006, [119 Stat. 3352][/us/stat/119/3352], struck out “periodic” before “physical” in item 10206.
+    2006—[Pub. L. 109–163, div. A, title VII][/us/pl/109/163/dA/tVII], § 732(c), Jan. 6, 2006, [119 Stat. 3352][/us/stat/119/3352], struck out “periodic” before “physical” in item 10206.
 
-    1999—[Pub. L. 106–65, div. A, title V][/us/pl/106/65], §§ 522(a)(2), 523(b), Oct. 5, 1999, [113 Stat. 597][/us/stat/113/597], 598, struck out “military” after “status” in item 10217 and added item 10218.
+    1999—[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], §§ 522(a)(2), 523(b), Oct. 5, 1999, [113 Stat. 597][/us/stat/113/597], 598, struck out “military” after “status” in item 10217 and added item 10218.
 
-    1997—[Pub. L. 105–85, div. A, title V][/us/pl/105/85], §§ 522(h)(2), 523(a)(2), Nov. 18, 1997, [111 Stat. 1736][/us/stat/111/1736], 1737, inserted “(dual status)” after “technicians” in item 10216 and added item 10217.
+    1997—[Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], §§ 522(h)(2), 523(a)(2), Nov. 18, 1997, [111 Stat. 1736][/us/stat/111/1736], 1737, inserted “(dual status)” after “technicians” in item 10216 and added item 10217.
 
-    1996—[Pub. L. 104–106, div. A, title V, § 513(c)(2)][/us/pl/104/106/s513/c/2], title XV, § 1501(b)(4), Feb. 10, 1996, [110 Stat. 306][/us/stat/110/306], 496, struck out “Individual” after “Members of” in item 10205, substituted “Reserve” for “reserve” in item 10211, and added item 10216.
+    1996—[Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 513(c)(2), title XV, § 1501(b)(4), Feb. 10, 1996, [110 Stat. 306][/us/stat/110/306], 496, struck out “Individual” after “Members of” in item 10205, substituted “Reserve” for “reserve” in item 10211, and added item 10216.
 
 ----------
 
@@ -198,17 +198,17 @@
 ----------
 ----------
 
-[/us/pl/113/291/s902/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs902%2Fb%2F2
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3470
-[/us/pl/112/239/s581/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs581%2Fa%2F2
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1765
-[/us/pl/109/163/s732/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs732%2Fc
+[/us/pl/109/163/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVII
 [/us/stat/119/3352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3352
-[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F597
-[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1736
-[/us/pl/104/106/s513/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs513%2Fc%2F2
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F306
 
 

@@ -35,7 +35,7 @@
 
     A funding proposal for force training under subsection (b)(2) may include amounts for training expense payments authorized in [section 2011 of this title][/us/usc/t10/s2011].
 
-(Added [Pub. L. 99–433, title II, § 211(a)][/us/pl/99/433/s211/a], Oct. 1, 1986, [100 Stat. 1016][/us/stat/100/1016]; amended [Pub. L. 102–190, div. A, title X, § 1052(b)][/us/pl/102/190/s1052/b], Dec. 5, 1991, [105 Stat. 1471][/us/stat/105/1471].)
+(Added [Pub. L. 99–433, title II][/us/pl/99/433/tII], § 211(a), Oct. 1, 1986, [100 Stat. 1016][/us/stat/100/1016]; amended [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1052(b), Dec. 5, 1991, [105 Stat. 1471][/us/stat/105/1471].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–433, title II, § 214(d)][/us/pl/99/433/s214/d], Oct. 1, 1986, [100 Stat. 1019][/us/stat/100/1019], provided that: 
+[Pub. L. 99–433, title II][/us/pl/99/433/tII], § 214(d), Oct. 1, 1986, [100 Stat. 1019][/us/stat/100/1019], provided that: 
 
 > “[Section 166 of title 10][/us/usc/t10/s166], United States Code (as added by section 211 of this Act), shall take effect with budget proposals for fiscal year 1989.”
 
@@ -55,12 +55,12 @@
 ----------
 
 [/us/usc/t10/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2011
-[/us/pl/99/433/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs211%2Fa
+[/us/pl/99/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtII
 [/us/stat/100/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1016
-[/us/pl/102/190/s1052/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1052%2Fb
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1471
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
-[/us/pl/99/433/s214/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs214%2Fd
+[/us/pl/99/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtII
 [/us/stat/100/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1019
 [/us/usc/t10/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs166
 

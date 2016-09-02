@@ -53,7 +53,7 @@
 
     (e) In time of war, or time of emergency declared by Congress or the President, the President may suspend the provisions of subsection (a).
 
-(Added [Pub. L. 97–295, § 1(14)(A)][/us/pl/97/295/s1/14/A], Oct. 12, 1982, [96 Stat. 1289][/us/stat/96/1289]; amended [Pub. L. 100–180, div. A, title V, § 513(a)(1)][/us/pl/100/180/s513/a/1], Dec. 4, 1987, [101 Stat. 1091][/us/stat/101/1091]; [Pub. L. 100–456, div. A, title V, § 521(a)(1)][/us/pl/100/456/s521/a/1], Sept. 29, 1988, [102 Stat. 1972][/us/stat/102/1972]; [Pub. L. 101–189, div. A, title V, § 513(a)][/us/pl/101/189/s513/a]–(c), Nov. 29, 1989, [103 Stat. 1440][/us/stat/103/1440]; [Pub. L. 101–510, div. A, title XIV, § 1484(k)(4)][/us/pl/101/510/s1484/k/4], Nov. 5, 1990, [104 Stat. 1719][/us/stat/104/1719]; [Pub. L. 103–160, div. A, title V, § 572][/us/pl/103/160/s572], Nov. 30, 1993, [107 Stat. 1673][/us/stat/107/1673]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+(Added [Pub. L. 97–295][/us/pl/97/295], § 1(14)(A), Oct. 12, 1982, [96 Stat. 1289][/us/stat/96/1289]; amended [Pub. L. 100–180, div. A, title V][/us/pl/100/180/dA/tV], § 513(a)(1), Dec. 4, 1987, [101 Stat. 1091][/us/stat/101/1091]; [Pub. L. 100–456, div. A, title V][/us/pl/100/456/dA/tV], § 521(a)(1), Sept. 29, 1988, [102 Stat. 1972][/us/stat/102/1972]; [Pub. L. 101–189, div. A, title V][/us/pl/101/189/dA/tV], § 513(a)–(c), Nov. 29, 1989, [103 Stat. 1440][/us/stat/103/1440]; [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1484(k)(4), Nov. 5, 1990, [104 Stat. 1719][/us/stat/104/1719]; [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 572, Nov. 30, 1993, [107 Stat. 1673][/us/stat/107/1673]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
 <table>
 
@@ -109,23 +109,23 @@ Sept. 28, 1971, Pub. L. 92–129, § 501(a)(2), (b), 85 Stat. 361.  </td>
 
     1990—Subsec. (c)(3). [Pub. L. 101–510][/us/pl/101/510] struck out “a” before “whose enlistment”.
 
-    1989—Subsec. (a)(1). [Pub. L. 101–189, § 513(a)(2)][/us/pl/101/189/s513/a/2], added par. (1) and struck out former par. (1) which read as follows: “Except as provided in paragraph (2), the Secretary concerned shall require each member of the armed forces under the Secretary’s jurisdiction, within 72 hours after the member’s initial entry on active duty after enlistment or appointment, to—
+    1989—Subsec. (a)(1). [Pub. L. 101–189][/us/pl/101/189], § 513(a)(2), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in paragraph (2), the Secretary concerned shall require each member of the armed forces under the Secretary’s jurisdiction, within 72 hours after the member’s initial entry on active duty after enlistment or appointment, to—
 
     “(A) undergo testing (by practicable, scientifically supported means) for drug and alcohol use; and
 
     “(B) be evaluated for drug and alcohol dependency.”
 
-    Subsec. (a)(2), (3). [Pub. L. 101–189, § 513(a)][/us/pl/101/189/s513/a], added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (a)(2), (3). [Pub. L. 101–189][/us/pl/101/189], § 513(a), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (b). [Pub. L. 101–189, § 513(b)(1)][/us/pl/101/189/s513/b/1], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A person who refuses to consent to testing and evaluation required by subsection (a) may not be retained in the armed forces, and any original appointment of such person as an officer shall be terminated, unless that person consents to such testing and evaluation.”
+    Subsec. (b). [Pub. L. 101–189][/us/pl/101/189], § 513(b)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A person who refuses to consent to testing and evaluation required by subsection (a) may not be retained in the armed forces, and any original appointment of such person as an officer shall be terminated, unless that person consents to such testing and evaluation.”
 
-    Subsec. (c)(1). [Pub. L. 101–189, § 513(b)(2)(B)][/us/pl/101/189/s513/b/2/B], added par. (1). Former par. (1) redesignated (2).
+    Subsec. (c)(1). [Pub. L. 101–189][/us/pl/101/189], § 513(b)(2)(B), added par. (1). Former par. (1) redesignated (2).
 
-    Subsec. (c)(2). [Pub. L. 101–189, § 513(b)(2)(A)][/us/pl/101/189/s513/b/2/A], (C), redesignated par. (1) as (2) and substituted “subsection (a)(2)” for “subsection (a)(1)(B)”. Former par. (2) redesignated (3).
+    Subsec. (c)(2). [Pub. L. 101–189][/us/pl/101/189], § 513(b)(2)(A), (C), redesignated par. (1) as (2) and substituted “subsection (a)(2)” for “subsection (a)(1)(B)”. Former par. (2) redesignated (3).
 
-    Subsec. (c)(3). [Pub. L. 101–189, § 513(b)(2)(A)][/us/pl/101/189/s513/b/2/A], (D), redesignated par. (2) as (3), inserted “who is denied entrance into the armed forces under paragraph (1), or a” after “A person”, and substituted “paragraph (2),” for “paragraph (1)”.
+    Subsec. (c)(3). [Pub. L. 101–189][/us/pl/101/189], § 513(b)(2)(A), (D), redesignated par. (2) as (3), inserted “who is denied entrance into the armed forces under paragraph (1), or a” after “A person”, and substituted “paragraph (2),” for “paragraph (1)”.
 
-    Subsec. (c)(4). [Pub. L. 101–189, § 513(c)][/us/pl/101/189/s513/c], added par. (4).
+    Subsec. (c)(4). [Pub. L. 101–189][/us/pl/101/189], § 513(c), added par. (4).
 
     1988—[Pub. L. 100–456][/us/pl/100/456] substituted “Drug and alcohol abuse and dependency: testing of new entrants” for “Mandatory testing for drug, chemical, and alcohol abuse” in section catchline, and amended text generally. Prior to amendment, text read as follows:
 
@@ -149,13 +149,13 @@ Sept. 28, 1971, Pub. L. 92–129, § 501(a)(2), (b), 85 Stat. 361.  </td>
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–189, div. A, title V, § 513(d)][/us/pl/101/189/s513/d], Nov. 29, 1989, [103 Stat. 1441][/us/stat/103/1441], provided that: 
+[Pub. L. 101–189, div. A, title V][/us/pl/101/189/dA/tV], § 513(d), Nov. 29, 1989, [103 Stat. 1441][/us/stat/103/1441], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect as of October 1, 1989.”
 
  __Regulations; Implementation of Program__ 
 
-[Pub. L. 100–456, div. A, title V, § 521(b)][/us/pl/100/456/s521/b], (c), Sept. 29, 1988, [102 Stat. 1973][/us/stat/102/1973], provided that:
+[Pub. L. 100–456, div. A, title V][/us/pl/100/456/dA/tV], § 521(b), (c), Sept. 29, 1988, [102 Stat. 1973][/us/stat/102/1973], provided that:
 
 >     “(b)  __Regulations__  __.—__ 
 
@@ -167,11 +167,11 @@ Sept. 28, 1971, Pub. L. 92–129, § 501(a)(2), (b), 85 Stat. 361.  </td>
 
  __Implementation__ 
 
-[Pub. L. 100–180, div. A, title V, § 513(b)][/us/pl/100/180/s513/b], Dec. 4, 1987, [101 Stat. 1091][/us/stat/101/1091], as amended by [Pub. L. 100–456, div. A, title V, § 521(d)][/us/pl/100/456/s521/d], Sept. 29, 1988, [102 Stat. 1973][/us/stat/102/1973], provided that:
+[Pub. L. 100–180, div. A, title V][/us/pl/100/180/dA/tV], § 513(b), Dec. 4, 1987, [101 Stat. 1091][/us/stat/101/1091], as amended by [Pub. L. 100–456, div. A, title V][/us/pl/100/456/dA/tV], § 521(d), Sept. 29, 1988, [102 Stat. 1973][/us/stat/102/1973], provided that:
 
 >     “(1) The Secretary of Defense shall prescribe regulations for the implementation of [section 978 of title 10][/us/usc/t10/s978], United States Code, as amended by subsection (a), not later than 45 days after the date of the enactment of this Act \[Dec. 4, 1987\].
 
->     “(2) \[Repealed. [Pub. L. 100–456, div. A, title V, § 521(d)][/us/pl/100/456/s521/d], Sept. 29, 1988, [102 Stat. 1973][/us/stat/102/1973]\].”
+>     “(2) \[Repealed. [Pub. L. 100–456, div. A, title V][/us/pl/100/456/dA/tV], § 521(d), Sept. 29, 1988, [102 Stat. 1973][/us/stat/102/1973]\].”
 
 ----------
 
@@ -181,46 +181,46 @@ Sept. 28, 1971, Pub. L. 92–129, § 501(a)(2), (b), 85 Stat. 361.  </td>
 ----------
 
 [/us/usc/t10/s2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2106
-[/us/pl/97/295/s1/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F14%2FA
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1289
-[/us/pl/100/180/s513/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs513%2Fa%2F1
+[/us/pl/100/180/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtV
 [/us/stat/101/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1091
-[/us/pl/100/456/s521/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs521%2Fa%2F1
+[/us/pl/100/456/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtV
 [/us/stat/102/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1972
-[/us/pl/101/189/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs513%2Fa
+[/us/pl/101/189/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtV
 [/us/stat/103/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1440
-[/us/pl/101/510/s1484/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484%2Fk%2F4
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1719
-[/us/pl/103/160/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs572
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1673
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/101/189/s513/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs513%2Fa%2F2
-[/us/pl/101/189/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs513%2Fa
-[/us/pl/101/189/s513/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs513%2Fb%2F1
-[/us/pl/101/189/s513/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs513%2Fb%2F2%2FB
-[/us/pl/101/189/s513/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs513%2Fb%2F2%2FA
-[/us/pl/101/189/s513/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs513%2Fb%2F2%2FA
-[/us/pl/101/189/s513/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs513%2Fc
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/101/189/s513/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs513%2Fd
+[/us/pl/101/189/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtV
 [/us/stat/103/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1441
-[/us/pl/100/456/s521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs521%2Fb
+[/us/pl/100/456/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtV
 [/us/stat/102/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1973
 [/us/usc/t10/s978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs978
-[/us/pl/100/180/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs513%2Fb
+[/us/pl/100/180/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtV
 [/us/stat/101/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1091
-[/us/pl/100/456/s521/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs521%2Fd
+[/us/pl/100/456/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtV
 [/us/stat/102/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1973
 [/us/usc/t10/s978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs978
-[/us/pl/100/456/s521/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs521%2Fd
+[/us/pl/100/456/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtV
 [/us/stat/102/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1973
 
 

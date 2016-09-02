@@ -99,13 +99,13 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, div. A, title VI, § 623(b)][/us/pl/110/181/s623/b], Jan. 28, 2008, [122 Stat. 152][/us/stat/122/152], added item 2128.
+    2008—[Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 623(b), Jan. 28, 2008, [122 Stat. 152][/us/stat/122/152], added item 2128.
 
-    1989—[Pub. L. 101–189, div. A, title VII, § 725(d)(3)][/us/pl/101/189/s725/d/3], (h)(2), Nov. 29, 1989, [103 Stat. 1479][/us/stat/103/1479], 1480, substituted “AND FINANCIAL ASSISTANCE PROGRAM” for “PROGRAM” in subchapter heading and “Scholarships and financial assistance” for “Contracts for scholarships” in item 2127.
+    1989—[Pub. L. 101–189, div. A, title VII][/us/pl/101/189/dA/tVII], § 725(d)(3), (h)(2), Nov. 29, 1989, [103 Stat. 1479][/us/stat/103/1479], 1480, substituted “AND FINANCIAL ASSISTANCE PROGRAM” for “PROGRAM” in subchapter heading and “Scholarships and financial assistance” for “Contracts for scholarships” in item 2127.
 
-    1987—[Pub. L. 100–180, div. A, title VII, § 711(a)(1)][/us/pl/100/180/s711/a/1], Dec. 4, 1987, [101 Stat. 1108][/us/stat/101/1108], added subchapter heading.
+    1987—[Pub. L. 100–180, div. A, title VII][/us/pl/100/180/dA/tVII], § 711(a)(1), Dec. 4, 1987, [101 Stat. 1108][/us/stat/101/1108], added subchapter heading.
 
-    1980—[Pub. L. 96–513, title V, § 511(66)][/us/pl/96/513/s511/66], Dec. 12, 1980, [94 Stat. 2926][/us/stat/94/2926], substituted in item 2123 “program:” for “program;”, and in items 2124 to 2127 “:” for “;” wherever appearing.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(66), Dec. 12, 1980, [94 Stat. 2926][/us/stat/94/2926], substituted in item 2123 “program:” for “program;”, and in items 2124 to 2127 “:” for “;” wherever appearing.
 
 ----------
 
@@ -114,13 +114,13 @@
 ----------
 ----------
 
-[/us/pl/110/181/s623/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs623%2Fb
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F152
-[/us/pl/101/189/s725/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs725%2Fd%2F3
+[/us/pl/101/189/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVII
 [/us/stat/103/1479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1479
-[/us/pl/100/180/s711/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs711%2Fa%2F1
+[/us/pl/100/180/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVII
 [/us/stat/101/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1108
-[/us/pl/96/513/s511/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F66
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2926
 
 

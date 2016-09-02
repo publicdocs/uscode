@@ -99,11 +99,11 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–92, div. A, title V, § 555(b)][/us/pl/114/92/s555/b], Nov. 25, 2015, [129 Stat. 824][/us/stat/129/824], added item 16167.
+    2015—[Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 555(b), Nov. 25, 2015, [129 Stat. 824][/us/stat/129/824], added item 16167.
 
-    2008—[Pub. L. 110–252, title V, § 5006(e)(3)][/us/pl/110/252/s5006/e/3], June 30, 2008, [122 Stat. 2386][/us/stat/122/2386], added item 16163a.
+    2008—[Pub. L. 110–252, title V][/us/pl/110/252/tV], § 5006(e)(3), June 30, 2008, [122 Stat. 2386][/us/stat/122/2386], added item 16163a.
 
-    [Pub. L. 110–181, div. A, title V, § 528(b)(2)][/us/pl/110/181/s528/b/2], Jan. 28, 2008, [122 Stat. 109][/us/stat/122/109], added item 16162a.
+    [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 528(b)(2), Jan. 28, 2008, [122 Stat. 109][/us/stat/122/109], added item 16162a.
 
 ----------
 
@@ -112,11 +112,11 @@
 ----------
 ----------
 
-[/us/pl/114/92/s555/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs555%2Fb
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F824
-[/us/pl/110/252/s5006/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5006%2Fe%2F3
+[/us/pl/110/252/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtV
 [/us/stat/122/2386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2386
-[/us/pl/110/181/s528/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs528%2Fb%2F2
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F109
 
 

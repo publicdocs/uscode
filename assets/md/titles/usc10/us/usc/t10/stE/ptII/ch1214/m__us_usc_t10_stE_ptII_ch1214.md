@@ -131,7 +131,7 @@
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–85, div. A, title V, § 512(b)][/us/pl/105/85/s512/b], Nov. 18, 1997, [111 Stat. 1729][/us/stat/111/1729], added item 12533.
+    1997—[Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 512(b), Nov. 18, 1997, [111 Stat. 1729][/us/stat/111/1729], added item 12533.
 
 ----------
 
@@ -140,7 +140,7 @@
 ----------
 ----------
 
-[/us/pl/105/85/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs512%2Fb
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1729
 
 

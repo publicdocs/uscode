@@ -23,11 +23,11 @@
 
         (2) The number of officers of the Air National Guard of the United States in grades below brigadier general who are ordered to active duty in the National Guard Bureau may not be more than 40 percent of the number of officers of the Air Force authorized for duty in that Bureau and, to the extent practicable, shall not exceed 40 percent of the number of officers of the Air Force serving in that Bureau in any grade below brigadier general.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1662(f)(1)][/us/pl/103/337/s1662/f/1], Oct. 5, 1994, [108 Stat. 2993][/us/stat/108/2993]; amended [Pub. L. 104–106, div. A, title XV, § 1501(b)(18)(B)][/us/pl/104/106/s1501/b/18/B], Feb. 10, 1996, [110 Stat. 497][/us/stat/110/497].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(f)(1), Oct. 5, 1994, [108 Stat. 2993][/us/stat/108/2993]; amended [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(18)(B), Feb. 10, 1996, [110 Stat. 497][/us/stat/110/497].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 3496 and 8496 of this title, prior to repeal by [Pub. L. 103–337, § 1662(f)(2)][/us/pl/103/337/s1662/f/2].
+    Provisions similar to those in this section were contained in sections 3496 and 8496 of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1662(f)(2).
 
  __Amendments__ 
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1662/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Ff%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2993
-[/us/pl/104/106/s1501/b/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F18%2FB
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F497
-[/us/pl/103/337/s1662/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Ff%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

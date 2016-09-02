@@ -47,7 +47,7 @@
 
     (c) Any determination by the Secretary concerning the applicability of this section shall be subject to judicial review pursuant to [section 552(a)(4)(B) of title 5][/us/usc/t5/s552/a/4/B].
 
-(Added [Pub. L. 100–180, div. A, title XI, § 1123(a)][/us/pl/100/180/s1123/a], Dec. 4, 1987, [101 Stat. 1149][/us/stat/101/1149]; amended [Pub. L. 101–510, div. A, title XIII, § 1311(1)][/us/pl/101/510/s1311/1], Nov. 5, 1990, [104 Stat. 1669][/us/stat/104/1669]; [Pub. L. 108–136, div. A, title X, § 1031(a)(4)][/us/pl/108/136/s1031/a/4], Nov. 24, 2003, [117 Stat. 1596][/us/stat/117/1596].)
+(Added [Pub. L. 100–180, div. A, title XI][/us/pl/100/180/dA/tXI], § 1123(a), Dec. 4, 1987, [101 Stat. 1149][/us/stat/101/1149]; amended [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1311(1), Nov. 5, 1990, [104 Stat. 1669][/us/stat/104/1669]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(4), Nov. 24, 2003, [117 Stat. 1596][/us/stat/117/1596].)
 
  __Prior Provisions__ 
 
@@ -68,11 +68,11 @@
 
 [/us/usc/t5/s552/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F3
 [/us/usc/t5/s552/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fa%2F4%2FB
-[/us/pl/100/180/s1123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1123%2Fa
+[/us/pl/100/180/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXI
 [/us/stat/101/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1149
-[/us/pl/101/510/s1311/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1311%2F1
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1669
-[/us/pl/108/136/s1031/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F4
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1596
 [/us/usc/t10/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs421
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136

@@ -81,29 +81,29 @@
 
     In this section, the term “State” includes the District of Columbia, American Samoa, the Federated States of Micronesia, Guam, the Republic of the Marshall Islands, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, Palau, and the Virgin Islands.
 
-(Added [Pub. L. 103–160, div. A, title XIII, § 1332(b)][/us/pl/103/160/s1332/b], Nov. 30, 1993, [107 Stat. 1795][/us/stat/107/1795]; amended [Pub. L. 103–337, div. A, title V, § 543(e)][/us/pl/103/337/s543/e], Oct. 5, 1994, [108 Stat. 2771][/us/stat/108/2771]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+(Added [Pub. L. 103–160, div. A, title XIII][/us/pl/103/160/dA/tXIII], § 1332(b), Nov. 30, 1993, [107 Stat. 1795][/us/stat/107/1795]; amended [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 543(e), Oct. 5, 1994, [108 Stat. 2771][/us/stat/108/2771]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
  __Amendments__ 
 
     2002—Subsecs. (a), (c)(1), (2), (d)(1), (e)(1). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
 
-    1994—Subsec. (a). [Pub. L. 103–337, § 543(e)(1)][/us/pl/103/337/s543/e/1], inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense”.
+    1994—Subsec. (a). [Pub. L. 103–337][/us/pl/103/337], § 543(e)(1), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense”.
 
-    Subsec. (b)(1). [Pub. L. 103–337, § 543(e)(2)][/us/pl/103/337/s543/e/2], struck out “by the Secretary of Defense” after “selection” in introductory provisions and inserted “concerned” after “Secretary” in two places in subpar. (C).
+    Subsec. (b)(1). [Pub. L. 103–337][/us/pl/103/337], § 543(e)(2), struck out “by the Secretary of Defense” after “selection” in introductory provisions and inserted “concerned” after “Secretary” in two places in subpar. (C).
 
-    Subsec. (c)(1). [Pub. L. 103–337, § 543(e)(3)][/us/pl/103/337/s543/e/3], inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense” and “concerned” after “to the Secretary” and substituted “Secretaries may” for “Secretary may”.
+    Subsec. (c)(1). [Pub. L. 103–337][/us/pl/103/337], § 543(e)(3), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense” and “concerned” after “to the Secretary” and substituted “Secretaries may” for “Secretary may”.
 
-    Subsec. (c)(2). [Pub. L. 103–337, § 543(e)(4)][/us/pl/103/337/s543/e/4], inserted “of Defense, and the Secretary of Transportation with respect to the Coast Guard,” after “The Secretary” and “concerned” after “unless the Secretary”.
+    Subsec. (c)(2). [Pub. L. 103–337][/us/pl/103/337], § 543(e)(4), inserted “of Defense, and the Secretary of Transportation with respect to the Coast Guard,” after “The Secretary” and “concerned” after “unless the Secretary”.
 
-    Subsec. (c)(3). [Pub. L. 103–337, § 543(e)(5)][/us/pl/103/337/s543/e/5], substituted “Secretaries” for “Secretary” in subpars. (A) and (B).
+    Subsec. (c)(3). [Pub. L. 103–337][/us/pl/103/337], § 543(e)(5), substituted “Secretaries” for “Secretary” in subpars. (A) and (B).
 
-    Subsec. (d)(1). [Pub. L. 103–337, § 543(e)(6)(A)][/us/pl/103/337/s543/e/6/A], inserted “and the Secretary of Transportation” after “Secretary of Defense”.
+    Subsec. (d)(1). [Pub. L. 103–337][/us/pl/103/337], § 543(e)(6)(A), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
 
-    Subsec. (d)(2) to (5). [Pub. L. 103–337, § 543(e)(6)(B)][/us/pl/103/337/s543/e/6/B], inserted “concerned” after “Secretary” wherever appearing.
+    Subsec. (d)(2) to (5). [Pub. L. 103–337][/us/pl/103/337], § 543(e)(6)(B), inserted “concerned” after “Secretary” wherever appearing.
 
-    Subsec. (e)(1). [Pub. L. 103–337, § 543(e)(7)(A)][/us/pl/103/337/s543/e/7/A], inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “the Secretary of Defense”.
+    Subsec. (e)(1). [Pub. L. 103–337][/us/pl/103/337], § 543(e)(7)(A), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “the Secretary of Defense”.
 
-    Subsec. (e)(2). [Pub. L. 103–337, § 543(e)(7)(B)][/us/pl/103/337/s543/e/7/B], inserted “concerned” after “The Secretary”.
+    Subsec. (e)(2). [Pub. L. 103–337][/us/pl/103/337], § 543(e)(7)(B), inserted “concerned” after “The Secretary”.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -118,22 +118,22 @@
 
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t10/s1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1293
-[/us/pl/103/160/s1332/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1332%2Fb
+[/us/pl/103/160/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIII
 [/us/stat/107/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1795
-[/us/pl/103/337/s543/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fe
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2771
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/103/337/s543/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fe%2F1
-[/us/pl/103/337/s543/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fe%2F2
-[/us/pl/103/337/s543/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fe%2F3
-[/us/pl/103/337/s543/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fe%2F4
-[/us/pl/103/337/s543/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fe%2F5
-[/us/pl/103/337/s543/e/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fe%2F6%2FA
-[/us/pl/103/337/s543/e/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fe%2F6%2FB
-[/us/pl/103/337/s543/e/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fe%2F7%2FA
-[/us/pl/103/337/s543/e/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fe%2F7%2FB
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101

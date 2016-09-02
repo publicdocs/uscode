@@ -21,11 +21,11 @@
 
     (2) the member consents to a discharge under conditions other than honorable with a waiver of proceedings of a court-martial or a board.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1662(i)(1)][/us/pl/103/337/s1662/i/1], Oct. 5, 1994, [108 Stat. 2998][/us/stat/108/2998].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(i)(1), Oct. 5, 1994, [108 Stat. 2998][/us/stat/108/2998].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 1163(c) of this title][/us/usc/t10/s1163/c], prior to repeal by [Pub. L. 103–337, § 1662(i)(2)][/us/pl/103/337/s1662/i/2].
+    Provisions similar to those in this section were contained in [section 1163(c) of this title][/us/usc/t10/s1163/c], prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1662(i)(2).
 
 ----------
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t10/s12684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12684
-[/us/pl/103/337/s1662/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fi%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2998
 [/us/usc/t10/s1163/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1163%2Fc
-[/us/pl/103/337/s1662/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fi%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 
 

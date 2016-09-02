@@ -29,21 +29,21 @@
 
     Nothing in this section shall be construed to authorize the Secretary concerned to continue to provide for any period of time to an individual who is involuntarily separated all or any portion of a basic allowance for housing to which the individual was entitled under [section 403 of title 37][/us/usc/t37/s403] immediately before being involuntarily separated, even in cases in which the individual or members of the individual’s household continue to reside after the separation in a housing unit acquired or constructed under the alternative authority of subchapter IV of chapter 169 of this title that is not owned or leased by the United States.
 
-(Added [Pub. L. 101–510, div. A, title V, § 502(a)(1)][/us/pl/101/510/s502/a/1], Nov. 5, 1990, [104 Stat. 1556][/us/stat/104/1556]; amended [Pub. L. 103–160, div. A, title V, § 561(i)][/us/pl/103/160/s561/i], Nov. 30, 1993, [107 Stat. 1668][/us/stat/107/1668]; [Pub. L. 103–337, div. A, title V, § 542(a)(6)][/us/pl/103/337/s542/a/6], Oct. 5, 1994, [108 Stat. 2768][/us/stat/108/2768]; [Pub. L. 105–261, div. A, title V, § 561(j)][/us/pl/105/261/s561/j], Oct. 17, 1998, [112 Stat. 2026][/us/stat/112/2026]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 571(j)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–135; [Pub. L. 112–239, div. A, title VI, § 632][/us/pl/112/239/s632], Jan. 2, 2013, [126 Stat. 1782][/us/stat/126/1782].)
+(Added [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 502(a)(1), Nov. 5, 1990, [104 Stat. 1556][/us/stat/104/1556]; amended [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 561(i), Nov. 30, 1993, [107 Stat. 1668][/us/stat/107/1668]; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 542(a)(6), Oct. 5, 1994, [108 Stat. 2768][/us/stat/108/2768]; [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 561(j), Oct. 17, 1998, [112 Stat. 2026][/us/stat/112/2026]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 571(j)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–135; [Pub. L. 112–239, div. A, title VI][/us/pl/112/239/dA/tVI], § 632, Jan. 2, 2013, [126 Stat. 1782][/us/stat/126/1782].)
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1). [Pub. L. 112–239, § 632(a)(1)][/us/pl/112/239/s632/a/1], substituted “October 1, 2012, and ending on December 31, 2018” for “October 1, 1990, and ending on December 31, 2001”.
+    2013—Subsec. (a)(1). [Pub. L. 112–239][/us/pl/112/239], § 632(a)(1), substituted “October 1, 2012, and ending on December 31, 2018” for “October 1, 1990, and ending on December 31, 2001”.
 
-    Subsec. (a)(2). [Pub. L. 112–239, § 632(a)(2)][/us/pl/112/239/s632/a/2], (c), substituted “The Secretary concerned” for “The Secretary of Transportation” and “October 1, 2012, and ending on December 31, 2018” for “October 1, 1994, and ending on December 31, 2001”.
+    Subsec. (a)(2). [Pub. L. 112–239][/us/pl/112/239], § 632(a)(2), (c), substituted “The Secretary concerned” for “The Secretary of Transportation” and “October 1, 2012, and ending on December 31, 2018” for “October 1, 1994, and ending on December 31, 2001”.
 
-    Subsec. (c). [Pub. L. 112–239, § 632(b)][/us/pl/112/239/s632/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 112–239][/us/pl/112/239], § 632(b), added subsec. (c).
 
     2000—Subsec. (a). [Pub. L. 106–398][/us/pl/106/398] substituted “December 31, 2001” for “September 30, 2001” in pars. (1) and (2).
 
-    1998—Subsec. (a)(1). [Pub. L. 105–261, § 561(j)(1)][/us/pl/105/261/s561/j/1], substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
+    1998—Subsec. (a)(1). [Pub. L. 105–261][/us/pl/105/261], § 561(j)(1), substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
-    Subsec. (a)(2). [Pub. L. 105–261, § 561(j)(2)][/us/pl/105/261/s561/j/2], substituted “during the period beginning on October 1, 1994, and ending on September 30, 2001” for “during the five-year period beginning on October 1, 1994”.
+    Subsec. (a)(2). [Pub. L. 105–261][/us/pl/105/261], § 561(j)(2), substituted “during the period beginning on October 1, 1994, and ending on September 30, 2001” for “during the five-year period beginning on October 1, 1994”.
 
     1994—Subsec. (a). [Pub. L. 103–337][/us/pl/103/337] designated existing provisions as par. (1) and added par. (2).
 
@@ -65,24 +65,24 @@
 ----------
 
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
-[/us/pl/101/510/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs502%2Fa%2F1
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1556
-[/us/pl/103/160/s561/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs561%2Fi
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1668
-[/us/pl/103/337/s542/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs542%2Fa%2F6
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2768
-[/us/pl/105/261/s561/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs561%2Fj
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2026
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/112/239/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs632
-[/us/stat/126/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1782
-[/us/pl/112/239/s632/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs632%2Fa%2F1
-[/us/pl/112/239/s632/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs632%2Fa%2F2
-[/us/pl/112/239/s632/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs632%2Fb
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/105/261/s561/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs561%2Fj%2F1
-[/us/pl/105/261/s561/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs561%2Fj%2F2
+[/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
+[/us/pl/112/239/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVI
+[/us/stat/126/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1782
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

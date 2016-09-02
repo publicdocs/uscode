@@ -37,7 +37,7 @@
 
     (h) For the purposes of this section, a member of the Commissioned Corps of the National Oceanic and Atmospheric Administration or of the Public Health Service who is serving with an armed force shall be treated as if he were a member of that armed force.
 
-(Added [Pub. L. 89–198, § 1(1)][/us/pl/89/198/s1/1], Sept. 22, 1965, [79 Stat. 830][/us/stat/79/830]; amended [Pub. L. 89–718, § 10][/us/pl/89/718/s10], Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117]; [Pub. L. 90–623, § 2(1)][/us/pl/90/623/s2/1], Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 96–470, title I, § 112(c)][/us/pl/96/470/s112/c], Oct. 19, 1980, [94 Stat. 2240][/us/stat/94/2240]; [Pub. L. 96–513, title V, § 511(40)][/us/pl/96/513/s511/40], Dec. 12, 1980, [94 Stat. 2923][/us/stat/94/2923]; [Pub. L. 96–527, title VII, § 772][/us/pl/96/527/s772], Dec. 15, 1980, [94 Stat. 3093][/us/stat/94/3093]; [Pub. L. 99–145, title XII, § 1225(a)(1)][/us/pl/99/145/s1225/a/1], (2)(A), Nov. 8, 1985, [99 Stat. 730][/us/stat/99/730]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+(Added [Pub. L. 89–198][/us/pl/89/198], § 1(1), Sept. 22, 1965, [79 Stat. 830][/us/stat/79/830]; amended [Pub. L. 89–718][/us/pl/89/718], § 10, Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117]; [Pub. L. 90–623][/us/pl/90/623], § 2(1), Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 96–470, title I][/us/pl/96/470/tI], § 112(c), Oct. 19, 1980, [94 Stat. 2240][/us/stat/94/2240]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(40), Dec. 12, 1980, [94 Stat. 2923][/us/stat/94/2923]; [Pub. L. 96–527, title VII][/us/pl/96/527/tVII], § 772, Dec. 15, 1980, [94 Stat. 3093][/us/stat/94/3093]; [Pub. L. 99–145, title XII][/us/pl/99/145/tXII], § 1225(a)(1), (2)(A), Nov. 8, 1985, [99 Stat. 730][/us/stat/99/730]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
  __Codification__ 
 
@@ -65,7 +65,7 @@
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–145, title XII, § 1225(a)(3)][/us/pl/99/145/s1225/a/3], Nov. 8, 1985, [99 Stat. 730][/us/stat/99/730], provided that: 
+[Pub. L. 99–145, title XII][/us/pl/99/145/tXII], § 1225(a)(3), Nov. 8, 1985, [99 Stat. 730][/us/stat/99/730], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall take effect on October 1, 1985.”
 
@@ -102,21 +102,21 @@
 ----------
 ----------
 
-[/us/pl/89/198/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F198%2Fs1%2F1
+[/us/pl/89/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F198
 [/us/stat/79/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F830
-[/us/pl/89/718/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs10
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1117
-[/us/pl/90/623/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs2%2F1
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1314
-[/us/pl/96/470/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs112%2Fc
+[/us/pl/96/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtI
 [/us/stat/94/2240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2240
-[/us/pl/96/513/s511/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F40
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2923
-[/us/pl/96/527/s772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F527%2Fs772
+[/us/pl/96/527/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F527%2FtVII
 [/us/stat/94/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3093
-[/us/pl/99/145/s1225/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1225%2Fa%2F1
+[/us/pl/99/145/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXII
 [/us/stat/99/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F730
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
@@ -128,7 +128,7 @@
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/99/145/s1225/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1225%2Fa%2F3
+[/us/pl/99/145/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXII
 [/us/stat/99/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F730
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3

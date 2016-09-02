@@ -33,7 +33,7 @@
 
     The President, based on the recommendations of the Secretary of Defense, may award a rank referred to in [section 4507a of title 5][/us/usc/t5/s4507a] to employees in Intelligence Senior Level positions designated under subsection (a). The award of such rank shall be made in a manner consistent with the provisions of that section.
 
-(Added [Pub. L. 104–201, div. A, title XVI, § 1632(b)][/us/pl/104/201/s1632/b], Sept. 23, 1996, [110 Stat. 2747][/us/stat/110/2747]; amended [Pub. L. 107–306, title V, § 503][/us/pl/107/306/s503], Nov. 27, 2002, [116 Stat. 2407][/us/stat/116/2407].)
+(Added [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1632(b), Sept. 23, 1996, [110 Stat. 2747][/us/stat/110/2747]; amended [Pub. L. 107–306, title V][/us/pl/107/306/tV], § 503, Nov. 27, 2002, [116 Stat. 2407][/us/stat/116/2407].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
     A prior section 1607 was renumbered [section 424 of this title][/us/usc/t10/s424].
 
-    Provisions similar to those in this section were contained in section 1604(f)(1), (3) of this title prior to repeal by [Pub. L. 104–201, § 1632(a)(3)][/us/pl/104/201/s1632/a/3].
+    Provisions similar to those in this section were contained in section 1604(f)(1), (3) of this title prior to repeal by [Pub. L. 104–201][/us/pl/104/201], § 1632(a)(3).
 
  __Amendments__ 
 
@@ -61,13 +61,13 @@
 ----------
 
 [/us/usc/t5/s4507a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4507a
-[/us/pl/104/201/s1632/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1632%2Fb
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2747
-[/us/pl/107/306/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs503
+[/us/pl/107/306/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtV
 [/us/stat/116/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2407
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t10/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs424
-[/us/pl/104/201/s1632/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1632%2Fa%2F3
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
 [/us/pl/104/201/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1635
 [/us/usc/t10/s1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1593

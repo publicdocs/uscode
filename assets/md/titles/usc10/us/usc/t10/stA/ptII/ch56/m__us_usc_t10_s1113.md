@@ -31,13 +31,13 @@
 
     (f) If the Secretary of Defense enters into an agreement with another administering Secretary pursuant to section 1111(c), the Secretary of Defense may take the actions described in subsections (c), (d), and (e) on behalf of the beneficiaries and programs of the other participating uniformed service.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 713(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–180; amended [Pub. L. 107–107, div. A, title VII, § 711(c)][/us/pl/107/107/s711/c], Dec. 28, 2001, [115 Stat. 1165][/us/stat/115/1165].)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 713(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–180; amended [Pub. L. 107–107, div. A, title VII][/us/pl/107/107/dA/tVII], § 711(c), Dec. 28, 2001, [115 Stat. 1165][/us/stat/115/1165].)
 
  __Amendments__ 
 
-    2001—Subsec. (a). [Pub. L. 107–107, § 711(c)(1)][/us/pl/107/107/s711/c/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There shall be paid from the Fund amounts payable for Department of Defense retiree health care programs for medicare-eligible beneficiaries.”
+    2001—Subsec. (a). [Pub. L. 107–107][/us/pl/107/107], § 711(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There shall be paid from the Fund amounts payable for Department of Defense retiree health care programs for medicare-eligible beneficiaries.”
 
-    Subsecs. (c) to (f). [Pub. L. 107–107, § 711(c)(2)][/us/pl/107/107/s711/c/2], added subsecs. (c) to (f).
+    Subsecs. (c) to (f). [Pub. L. 107–107][/us/pl/107/107], § 711(c)(2), added subsecs. (c) to (f).
 
  __Effective Date of 2001 Amendment__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 713(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–184, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 713(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–184, provided that: 
 
 > “Sections 1113 and 1116 of title 10, United States Code (as added by subsection (a)), shall take effect on October 1, 2002.”
 
@@ -56,17 +56,17 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s711/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs711%2Fc
+[/us/pl/107/107/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVII
 [/us/stat/115/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1165
-[/us/pl/107/107/s711/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs711%2Fc%2F1
-[/us/pl/107/107/s711/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs711%2Fc%2F2
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/107/107/s711/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs711%2Ff
 [/us/usc/t10/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1111
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

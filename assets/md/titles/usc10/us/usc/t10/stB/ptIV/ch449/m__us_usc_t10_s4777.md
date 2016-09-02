@@ -23,7 +23,7 @@
 
     (3) the driving of livestock across a military reservation.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 270][/us/stat/70A/270]; [Pub. L. 96–513, title V, § 512(23)][/us/pl/96/513/s512/23], Dec. 12, 1980, [94 Stat. 2930][/us/stat/94/2930].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 270][/us/stat/70A/270]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 512(23), Dec. 12, 1980, [94 Stat. 2930][/us/stat/94/2930].)
 
 <table>
 
@@ -88,7 +88,7 @@ July 5, 1884, ch. 214, § 6, 23 Stat. 104.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F270
-[/us/pl/96/513/s512/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs512%2F23
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2930
 [/us/usc/t10/s2668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2668
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

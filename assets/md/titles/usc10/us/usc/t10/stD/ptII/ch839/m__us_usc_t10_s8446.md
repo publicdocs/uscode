@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8443.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8447.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8446)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8444 _us_usc_t10_s8445.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8447.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8446)
 
 ## § 8446. Retention on active duty
 
@@ -21,7 +21,7 @@
 
     (2) the officer is processed for physical disability benefits provided by law.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 522][/us/stat/70A/522]; [Pub. L. 85–861, § 1(180)(C)][/us/pl/85/861/s1/180/C], Sept. 2, 1958, [72 Stat. 1532][/us/stat/72/1532]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(10)][/us/pl/101/189/s1621/a/10], Nov. 29, 1989, [103 Stat. 1603][/us/stat/103/1603]; [Pub. L. 102–25, title VII, § 701(j)(6)][/us/pl/102/25/s701/j/6], Apr. 6, 1991, [105 Stat. 116][/us/stat/105/116].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 522][/us/stat/70A/522]; [Pub. L. 85–861][/us/pl/85/861], § 1(180)(C), Sept. 2, 1958, [72 Stat. 1532][/us/stat/72/1532]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(10), Nov. 29, 1989, [103 Stat. 1603][/us/stat/103/1603]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 701(j)(6), Apr. 6, 1991, [105 Stat. 116][/us/stat/105/116].)
 
 <table>
 
@@ -133,18 +133,18 @@ June 15, 1956, ch. 388, 70 Stat. 282.  </td>
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8443.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8447.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8446)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8444 _us_usc_t10_s8445.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8447.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8446)
 
 ----------
 ----------
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F522
-[/us/pl/85/861/s1/180/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F180%2FC
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1532
-[/us/pl/101/189/s1621/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F10
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1603
-[/us/pl/102/25/s701/j/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Fj%2F6
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F116
 [/us/usc/t10/s101/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F14
 [/us/usc/t10/s101/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F14

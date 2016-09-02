@@ -33,7 +33,7 @@
 
     (8) the Army Medical Specialist Corps.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 168][/us/stat/70A/168]; [Pub. L. 85–861, § 1(60)][/us/pl/85/861/s1/60], Sept. 2, 1958, [72 Stat. 1462][/us/stat/72/1462]; [Pub. L. 90–329][/us/pl/90/329], June 4, 1968, [82 Stat. 170][/us/stat/82/170].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 168][/us/stat/70A/168]; [Pub. L. 85–861][/us/pl/85/861], § 1(60), Sept. 2, 1958, [72 Stat. 1462][/us/stat/72/1462]; [Pub. L. 90–329][/us/pl/90/329], June 4, 1968, [82 Stat. 170][/us/stat/82/170].)
 
 <table>
 
@@ -141,7 +141,7 @@ Aug. 9, 1955, ch. 654, § 3(a), 69 Stat. 579.  </td>
 
  __Augmentation of Army Medical Department by Detailing Reserve Officers of Public Health Service__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 755(a), (b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–197, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 755(a), (b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–197, provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -160,14 +160,14 @@ Aug. 9, 1955, ch. 654, § 3(a), 69 Stat. 579.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F168
-[/us/pl/85/861/s1/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F60
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1462
 [/us/pl/90/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F329
 [/us/stat/82/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F170
 [/us/usc/t10/s3064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3064
 [/us/pl/90/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F329
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

@@ -71,61 +71,61 @@
 
         (4) An appointment of an officer may not be delayed under this subsection for more than six months after the date on which the officer would otherwise have been appointed unless the Secretary concerned specifies a further period of delay. An officer’s appointment may not be delayed more than 90 days after final action has been taken in any criminal case against such officer in a Federal or State court, more than 90 days after final action has been taken in any court-martial case against such officer, or more than 18 months after the date on which such officer would otherwise have been appointed, whichever is later.
 
-(Added [Pub. L. 96–513, title I, § 105][/us/pl/96/513/s105], Dec. 12, 1980, [94 Stat. 2857][/us/stat/94/2857]; amended [Pub. L. 97–22, § 4(d)][/us/pl/97/22/s4/d], July 10, 1981, [95 Stat. 126][/us/stat/95/126]; [Pub. L. 97–295, § 1(8)][/us/pl/97/295/s1/8], Oct. 12, 1982, [96 Stat. 1289][/us/stat/96/1289]; [Pub. L. 98–525, title V, § 526][/us/pl/98/525/s526], Oct. 19, 1984, [98 Stat. 2525][/us/stat/98/2525]; [Pub. L. 107–107, div. A, title V, § 505(a)(1)][/us/pl/107/107/s505/a/1], (c)(2)(A), (d)(1), Dec. 28, 2001, [115 Stat. 1085][/us/stat/115/1085], 1087, 1088; [Pub. L. 107–314, div. A, title X, § 1062(a)(2)][/us/pl/107/314/s1062/a/2], Dec. 2, 2002, [116 Stat. 2649][/us/stat/116/2649]; [Pub. L. 109–364, div. A, title V, § 511(a)][/us/pl/109/364/s511/a], (d)(1), Oct. 17, 2006, [120 Stat. 2181][/us/stat/120/2181], 2183; [Pub. L. 110–181, div. A, title X, § 1063(c)(3)][/us/pl/110/181/s1063/c/3], Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322]; [Pub. L. 114–92, div. A, title V, § 502(a)][/us/pl/114/92/s502/a], Nov. 25, 2015, [129 Stat. 806][/us/stat/129/806].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 105, Dec. 12, 1980, [94 Stat. 2857][/us/stat/94/2857]; amended [Pub. L. 97–22][/us/pl/97/22], § 4(d), July 10, 1981, [95 Stat. 126][/us/stat/95/126]; [Pub. L. 97–295][/us/pl/97/295], § 1(8), Oct. 12, 1982, [96 Stat. 1289][/us/stat/96/1289]; [Pub. L. 98–525, title V][/us/pl/98/525/tV], § 526, Oct. 19, 1984, [98 Stat. 2525][/us/stat/98/2525]; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 505(a)(1), (c)(2)(A), (d)(1), Dec. 28, 2001, [115 Stat. 1085][/us/stat/115/1085], 1087, 1088; [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1062(a)(2), Dec. 2, 2002, [116 Stat. 2649][/us/stat/116/2649]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 511(a), (d)(1), Oct. 17, 2006, [120 Stat. 2181][/us/stat/120/2181], 2183; [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1063(c)(3), Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 502(a), Nov. 25, 2015, [129 Stat. 806][/us/stat/129/806].)
 
  __Amendments__ 
 
     2015—Subsec. (a)(3)(E). [Pub. L. 114–92][/us/pl/114/92] added subpar. (E).
 
-    2008—Subsec. (d)(1). [Pub. L. 110–181][/us/pl/110/181] amended directory language of [Pub. L. 109–364, § 511(a)(2)(D)(i)][/us/pl/109/364/s511/a/2/D/i]. See 2006 Amendment note below.
+    2008—Subsec. (d)(1). [Pub. L. 110–181][/us/pl/110/181] amended directory language of [Pub. L. 109–364][/us/pl/109/364], § 511(a)(2)(D)(i). See 2006 Amendment note below.
 
-    2006—Subsec. (a)(1). [Pub. L. 109–364, § 511(d)(1)][/us/pl/109/364/s511/d/1], inserted at end “A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.”
+    2006—Subsec. (a)(1). [Pub. L. 109–364][/us/pl/109/364], § 511(d)(1), inserted at end “A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.”
 
-    Subsec. (d)(1). [Pub. L. 109–364, § 511(a)(2)(D)(ii)][/us/pl/109/364/s511/a/2/D/ii], inserted “or if, after a review of substantiated adverse information about the officer regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion,” after “brought against him,” in concluding provisions.
+    Subsec. (d)(1). [Pub. L. 109–364][/us/pl/109/364], § 511(a)(2)(D)(ii), inserted “or if, after a review of substantiated adverse information about the officer regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion,” after “brought against him,” in concluding provisions.
 
-    [Pub. L. 109–364, § 511(a)(2)(D)(i)][/us/pl/109/364/s511/a/2/D/i], as amended by [Pub. L. 110–181][/us/pl/110/181], struck out “or” after “chapter 60 of this title,”.
+    [Pub. L. 109–364][/us/pl/109/364], § 511(a)(2)(D)(i), as amended by [Pub. L. 110–181][/us/pl/110/181], struck out “or” after “chapter 60 of this title,”.
 
-    [Pub. L. 109–364, § 511(a)(1)][/us/pl/109/364/s511/a/1], substituted “prescribed by the Secretary of Defense” for “prescribed by the Secretary concerned” in introductory provisions.
+    [Pub. L. 109–364][/us/pl/109/364], § 511(a)(1), substituted “prescribed by the Secretary of Defense” for “prescribed by the Secretary concerned” in introductory provisions.
 
-    Subsec. (d)(1)(E). [Pub. L. 109–364, § 511(a)(2)(A)][/us/pl/109/364/s511/a/2/A]–(C), added subpar. (E).
+    Subsec. (d)(1)(E). [Pub. L. 109–364][/us/pl/109/364], § 511(a)(2)(A)–(C), added subpar. (E).
 
-    Subsec. (d)(2). [Pub. L. 109–364, § 511(a)(3)][/us/pl/109/364/s511/a/3], in first sentence inserted “has not met the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, or” before “is mentally, physically,” and in second sentence substituted “If it is later determined by a civilian official of the Department of Defense (not below the level of Secretary of a military department) that the officer is qualified for promotion to such grade and, after a review of adverse information regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion to such grade” for “If the Secretary concerned later determines that the officer is qualified for promotion to such grade”.
+    Subsec. (d)(2). [Pub. L. 109–364][/us/pl/109/364], § 511(a)(3), in first sentence inserted “has not met the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, or” before “is mentally, physically,” and in second sentence substituted “If it is later determined by a civilian official of the Department of Defense (not below the level of Secretary of a military department) that the officer is qualified for promotion to such grade and, after a review of adverse information regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion to such grade” for “If the Secretary concerned later determines that the officer is qualified for promotion to such grade”.
 
-    [Pub. L. 109–364, § 511(a)(1)][/us/pl/109/364/s511/a/1], substituted “prescribed by the Secretary of Defense” for “prescribed by the Secretary concerned”.
+    [Pub. L. 109–364][/us/pl/109/364], § 511(a)(1), substituted “prescribed by the Secretary of Defense” for “prescribed by the Secretary concerned”.
 
     2002—Subsec. (d)(1). [Pub. L. 107–314][/us/pl/107/314] substituted “paragraph (2)” for “subsection (d)(2)” in concluding provisions.
 
-    2001—Subsec. (a)(3). [Pub. L. 107–107, § 505(a)(1)][/us/pl/107/107/s505/a/1], added par. (3).
+    2001—Subsec. (a)(3). [Pub. L. 107–107][/us/pl/107/107], § 505(a)(1), added par. (3).
 
-    Subsec. (c). [Pub. L. 107–107, § 505(d)(1)][/us/pl/107/107/s505/d/1], inserted “, in the case of officers of the Army, Air Force, or Marine Corps,” after “captain” and “, in the case of officers of the Navy,” after “(junior grade) or lieutenant”.
+    Subsec. (c). [Pub. L. 107–107][/us/pl/107/107], § 505(d)(1), inserted “, in the case of officers of the Army, Air Force, or Marine Corps,” after “captain” and “, in the case of officers of the Navy,” after “(junior grade) or lieutenant”.
 
-    Subsec. (d)(1). [Pub. L. 107–107, § 505(c)(2)(A)(i)][/us/pl/107/107/s505/c/2/A/i], inserted “(including an approved all-fully-qualified-officers list, if applicable)” after “retained on the promotion list” in concluding provisions.
+    Subsec. (d)(1). [Pub. L. 107–107][/us/pl/107/107], § 505(c)(2)(A)(i), inserted “(including an approved all-fully-qualified-officers list, if applicable)” after “retained on the promotion list” in concluding provisions.
 
-    Subsec. (d)(2). [Pub. L. 107–107, § 505(c)(2)(A)(ii)][/us/pl/107/107/s505/c/2/A/ii], inserted “shall be retained on the promotion list (including an approved all-fully-qualified-officers list, if applicable) and” after “to such grade, the officer” in second sentence.
+    Subsec. (d)(2). [Pub. L. 107–107][/us/pl/107/107], § 505(c)(2)(A)(ii), inserted “shall be retained on the promotion list (including an approved all-fully-qualified-officers list, if applicable) and” after “to such grade, the officer” in second sentence.
 
     1984—Subsec. (d)(1), (2). [Pub. L. 98–525][/us/pl/98/525] inserted provision for a determination by the Secretary concerned that the officer was unqualified for promotion for any part of the delay in the officer’s promotion, with the inserted provision that if the Secretary made such a determination, the Secretary could adjust such date of rank, effective date of pay and allowances, and position on the active-duty list as the Secretary considered appropriate under the circumstances.
 
     1982—Subsec. (d)(4). [Pub. L. 97–295][/us/pl/97/295] substituted “this subsection” for “the subsection”.
 
-    1981—Subsec. (a)(1). [Pub. L. 97–22, § 4(d)(1)(A)][/us/pl/97/22/s4/d/1/A], struck out “or in the case of officers selected for promotion to the grade of first lieutenant or lieutenant (junior grade), when a list of officers selected for promotion is approved by the President,” after “by the President,”.
+    1981—Subsec. (a)(1). [Pub. L. 97–22][/us/pl/97/22], § 4(d)(1)(A), struck out “or in the case of officers selected for promotion to the grade of first lieutenant or lieutenant (junior grade), when a list of officers selected for promotion is approved by the President,” after “by the President,”.
 
-    Subsec. (a)(2). [Pub. L. 97–22, § 4(d)(1)(B)][/us/pl/97/22/s4/d/1/B], inserted provision that officers to be promoted to grade of first lieutenant or lieutenant (junior grade) shall be promoted in accordance with regulations prescribed by the Secretary concerned.
+    Subsec. (a)(2). [Pub. L. 97–22][/us/pl/97/22], § 4(d)(1)(B), inserted provision that officers to be promoted to grade of first lieutenant or lieutenant (junior grade) shall be promoted in accordance with regulations prescribed by the Secretary concerned.
 
-    Subsec. (c). [Pub. L. 97–22, § 4(d)(2)][/us/pl/97/22/s4/d/2], substituted “under this section in the grade of first lieutenant or captain or lieutenant (junior grade) or lieutenant” for “in the grade of first lieutenant or lieutenant (junior grade) under this section”.
+    Subsec. (c). [Pub. L. 97–22][/us/pl/97/22], § 4(d)(2), substituted “under this section in the grade of first lieutenant or captain or lieutenant (junior grade) or lieutenant” for “in the grade of first lieutenant or lieutenant (junior grade) under this section”.
 
-    Subsec. (d)(1). [Pub. L. 97–22, § 4(d)(3)(A)][/us/pl/97/22/s4/d/3/A], (B), substituted “Under regulations prescribed by the Secretary concerned, the appointment of an officer under this section may be delayed” for “The Secretary concerned may delay the appointment of an officer under this section” in provisions preceding subpar. (A) and, in provisions following subpar. (D), inserted “then unless action to delay an appointment has also been taken under subsection (d)(2)” after “as the case may be,”.
+    Subsec. (d)(1). [Pub. L. 97–22][/us/pl/97/22], § 4(d)(3)(A), (B), substituted “Under regulations prescribed by the Secretary concerned, the appointment of an officer under this section may be delayed” for “The Secretary concerned may delay the appointment of an officer under this section” in provisions preceding subpar. (A) and, in provisions following subpar. (D), inserted “then unless action to delay an appointment has also been taken under subsection (d)(2)” after “as the case may be,”.
 
-    Subsec. (d)(2). [Pub. L. 97–22, § 4(d)(3)(C)][/us/pl/97/22/s4/d/3/C], substituted “Under regulations prescribed by the Secretary concerned, the appointment of an officer under this section may also be delayed in any case in which” for “The Secretary concerned may also delay the appointment of an officer to the next higher grade under this section in any case in which the Secretary finds that”.
+    Subsec. (d)(2). [Pub. L. 97–22][/us/pl/97/22], § 4(d)(3)(C), substituted “Under regulations prescribed by the Secretary concerned, the appointment of an officer under this section may also be delayed in any case in which” for “The Secretary concerned may also delay the appointment of an officer to the next higher grade under this section in any case in which the Secretary finds that”.
 
-    Subsec. (d)(3). [Pub. L. 97–22, § 4(d)(3)(D)][/us/pl/97/22/s4/d/3/D], (E), inserted “, unless it is impracticable to give such written notice before the effective date of the appointment, in which case such written notice shall be given as soon as practicable” after “grounds for the delay” and struck out “by the Secretary” after “the action taken”.
+    Subsec. (d)(3). [Pub. L. 97–22][/us/pl/97/22], § 4(d)(3)(D), (E), inserted “, unless it is impracticable to give such written notice before the effective date of the appointment, in which case such written notice shall be given as soon as practicable” after “grounds for the delay” and struck out “by the Secretary” after “the action taken”.
 
  __Effective Date of 2008 Amendment__ 
 
-    [Pub. L. 110–181, div. A, title X, § 1063(c)][/us/pl/110/181/s1063/c], Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322], provided that the amendment made by section 1063(c) is effective Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, [Pub. L. 109–364][/us/pl/109/364], as enacted.
+    [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1063(c), Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322], provided that the amendment made by section 1063(c) is effective Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, [Pub. L. 109–364][/us/pl/109/364], as enacted.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–364, div. A, title V, § 511(e)][/us/pl/109/364/s511/e], Oct. 17, 2006, [120 Stat. 2184][/us/stat/120/2184], provided that: 
+[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 511(e), Oct. 17, 2006, [120 Stat. 2184][/us/stat/120/2184], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 14308 and 14311 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 17, 2006\] and shall apply with respect to officers on promotion lists established on or after the date of the enactment of this Act.”
 
@@ -135,7 +135,7 @@
 
  __Deadline for Uniform Regulations on Delay of Promotions__ 
 
-[Pub. L. 109–364, div. A, title V, § 511(c)][/us/pl/109/364/s511/c], Oct. 17, 2006, [120 Stat. 2183][/us/stat/120/2183], provided that:
+[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 511(c), Oct. 17, 2006, [120 Stat. 2183][/us/stat/120/2183], provided that:
 
 >     “(1)  __Deadline__  __.—__ 
 
@@ -155,55 +155,55 @@
 [/us/usc/t10/s611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs611%2Fa
 [/us/usc/t10/s611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs611%2Fa
 [/us/usc/t10/s741/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs741%2Fd
-[/us/pl/96/513/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs105
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2857
-[/us/pl/97/22/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs4%2Fd
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F126
-[/us/pl/97/295/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F8
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1289
-[/us/pl/98/525/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs526
+[/us/pl/98/525/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtV
 [/us/stat/98/2525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2525
-[/us/pl/107/107/s505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fa%2F1
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1085
-[/us/pl/107/314/s1062/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1062%2Fa%2F2
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2649
-[/us/pl/109/364/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fa
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2181
-[/us/pl/110/181/s1063/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fc%2F3
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F322
-[/us/pl/114/92/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs502%2Fa
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F806
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/109/364/s511/a/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fa%2F2%2FD%2Fi
-[/us/pl/109/364/s511/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fd%2F1
-[/us/pl/109/364/s511/a/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fa%2F2%2FD%2Fii
-[/us/pl/109/364/s511/a/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fa%2F2%2FD%2Fi
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/109/364/s511/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fa%2F1
-[/us/pl/109/364/s511/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fa%2F2%2FA
-[/us/pl/109/364/s511/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fa%2F3
-[/us/pl/109/364/s511/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fa%2F1
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
-[/us/pl/107/107/s505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fa%2F1
-[/us/pl/107/107/s505/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fd%2F1
-[/us/pl/107/107/s505/c/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fc%2F2%2FA%2Fi
-[/us/pl/107/107/s505/c/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fc%2F2%2FA%2Fii
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
-[/us/pl/97/22/s4/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs4%2Fd%2F1%2FA
-[/us/pl/97/22/s4/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs4%2Fd%2F1%2FB
-[/us/pl/97/22/s4/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs4%2Fd%2F2
-[/us/pl/97/22/s4/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs4%2Fd%2F3%2FA
-[/us/pl/97/22/s4/d/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs4%2Fd%2F3%2FC
-[/us/pl/97/22/s4/d/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs4%2Fd%2F3%2FD
-[/us/pl/110/181/s1063/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fc
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F322
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/109/364/s511/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fe
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2184
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/pl/109/364/s511/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fc
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2183
 [/us/usc/t10/s624/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs624%2Fd
 

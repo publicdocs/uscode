@@ -21,11 +21,11 @@
 
     (2) members of the Air National Guard who are also Reserves of the Air Force.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)][/us/pl/103/337/s1661/a/1], Oct. 5, 1994, [108 Stat. 2971][/us/stat/108/2971].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1661(a)(1), Oct. 5, 1994, [108 Stat. 2971][/us/stat/108/2971].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 8077 of this title][/us/usc/t10/s8077], prior to repeal by [Pub. L. 103–337, § 1661(a)(3)(A)][/us/pl/103/337/s1661/a/3/A].
+    Provisions similar to those in this section were contained in [section 8077 of this title][/us/usc/t10/s8077], prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1661(a)(3)(A).
 
 ----------
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1661/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2971
 [/us/usc/t10/s8077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8077
-[/us/pl/103/337/s1661/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F3%2FA
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 
 

@@ -67,11 +67,11 @@
 
     A contract for the lease of family housing under this section may include provision for the lease of a child care center, civic center building, and similar type buildings constructed for the support of family housing.
 
-(Added [Pub. L. 102–190, div. B, title XXVIII, § 2806(a)(1)][/us/pl/102/190/s2806/a/1], Dec. 5, 1991, [105 Stat. 1539][/us/stat/105/1539]; amended [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 111–383, div. B, title XXVIII, § 2803(e)][/us/pl/111/383/s2803/e], Jan. 7, 2011, [124 Stat. 4459][/us/stat/124/4459]; [Pub. L. 112–239, div. A, title X, § 1076(f)(35)][/us/pl/112/239/s1076/f/35], Jan. 2, 2013, [126 Stat. 1954][/us/stat/126/1954].)
+(Added [Pub. L. 102–190, div. B, title XXVIII][/us/pl/102/190/dB/tXXVIII], § 2806(a)(1), Dec. 5, 1991, [105 Stat. 1539][/us/stat/105/1539]; amended [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 111–383, div. B, title XXVIII][/us/pl/111/383/dB/tXXVIII], § 2803(e), Jan. 7, 2011, [124 Stat. 4459][/us/stat/124/4459]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(f)(35), Jan. 2, 2013, [126 Stat. 1954][/us/stat/126/1954].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in subsec. (g) of [section 2828 of this title][/us/usc/t10/s2828], prior to repeal by [Pub. L. 102–190, § 2806(b)(1)][/us/pl/102/190/s2806/b/1].
+    Provisions similar to those in this section were contained in subsec. (g) of [section 2828 of this title][/us/usc/t10/s2828], prior to repeal by [Pub. L. 102–190][/us/pl/102/190], § 2806(b)(1).
 
  __Amendments__ 
 
@@ -98,16 +98,16 @@
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
-[/us/pl/102/190/s2806/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs2806%2Fa%2F1
+[/us/pl/102/190/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdB%2FtXXVIII
 [/us/stat/105/1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1539
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/111/383/s2803/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2803%2Fe
+[/us/pl/111/383/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdB%2FtXXVIII
 [/us/stat/124/4459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4459
-[/us/pl/112/239/s1076/f/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F35
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1954
 [/us/usc/t10/s2828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2828
-[/us/pl/102/190/s2806/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs2806%2Fb%2F1
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480

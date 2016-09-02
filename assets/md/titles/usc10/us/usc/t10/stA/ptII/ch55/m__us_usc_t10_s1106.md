@@ -27,7 +27,7 @@
 
         (2) In the case of any other services, by not later than one year after the services are provided.
 
-(Added [Pub. L. 102–190, div. A, title VII, § 716(a)(1)][/us/pl/102/190/s716/a/1], Dec. 5, 1991, [105 Stat. 1403][/us/stat/105/1403]; amended [Pub. L. 105–85, div. A, title VII, § 738(a)][/us/pl/105/85/s738/a], Nov. 18, 1997, [111 Stat. 1815][/us/stat/111/1815]; [Pub. L. 112–81, div. A, title VII, § 712][/us/pl/112/81/s712], Dec. 31, 2011, [125 Stat. 1476][/us/stat/125/1476].)
+(Added [Pub. L. 102–190, div. A, title VII][/us/pl/102/190/dA/tVII], § 716(a)(1), Dec. 5, 1991, [105 Stat. 1403][/us/stat/105/1403]; amended [Pub. L. 105–85, div. A, title VII][/us/pl/105/85/dA/tVII], § 738(a), Nov. 18, 1997, [111 Stat. 1815][/us/stat/111/1815]; [Pub. L. 112–81, div. A, title VII][/us/pl/112/81/dA/tVII], § 712, Dec. 31, 2011, [125 Stat. 1476][/us/stat/125/1476].)
 
  __Amendments__ 
 
@@ -43,13 +43,13 @@
 
  __Regulations__ 
 
-[Pub. L. 102–190, div. A, title VII, § 716(b)][/us/pl/102/190/s716/b], Dec. 5, 1991, [105 Stat. 1404][/us/stat/105/1404], provided that: 
+[Pub. L. 102–190, div. A, title VII][/us/pl/102/190/dA/tVII], § 716(b), Dec. 5, 1991, [105 Stat. 1404][/us/stat/105/1404], provided that: 
 
 > “The regulations required by [section 1106 of title 10][/us/usc/t10/s1106], United States Code (as added by subsection (a)), shall be prescribed to take effect not later than 180 days after the date of the enactment of this Act \[Dec. 5, 1991\].”
 
  __Establishment of Appeals Process for ClaimCheck Denials__ 
 
-[Pub. L. 105–261, div. A, title VII, § 714][/us/pl/105/261/s714], Oct. 17, 1998, [112 Stat. 2060][/us/stat/112/2060], provided that:
+[Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 714, Oct. 17, 1998, [112 Stat. 2060][/us/stat/112/2060], provided that:
 
 >     “(a)  __Establishment of Appeals Process__  __.—__ 
 
@@ -61,7 +61,7 @@
 
  __National Claims Processing System for CHAMPUS__ 
 
-[Pub. L. 102–484, div. A, title VII, § 711][/us/pl/102/484/s711], Oct. 23, 1992, [106 Stat. 2433][/us/stat/106/2433], provided that:
+[Pub. L. 102–484, div. A, title VII][/us/pl/102/484/dA/tVII], § 711, Oct. 23, 1992, [106 Stat. 2433][/us/stat/106/2433], provided that:
 
 >     “(a)  __Claims Processing System Required__  __.—__ 
 
@@ -118,20 +118,20 @@
 ----------
 ----------
 
-[/us/pl/102/190/s716/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs716%2Fa%2F1
+[/us/pl/102/190/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVII
 [/us/stat/105/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1403
-[/us/pl/105/85/s738/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs738%2Fa
+[/us/pl/105/85/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVII
 [/us/stat/111/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1815
-[/us/pl/112/81/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs712
+[/us/pl/112/81/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVII
 [/us/stat/125/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1476
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/102/190/s716/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs716%2Fb
+[/us/pl/102/190/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVII
 [/us/stat/105/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1404
 [/us/usc/t10/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1106
-[/us/pl/105/261/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs714
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2060
-[/us/pl/102/484/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs711
+[/us/pl/102/484/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVII
 [/us/stat/106/2433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2433
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/usc/t10/s1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072

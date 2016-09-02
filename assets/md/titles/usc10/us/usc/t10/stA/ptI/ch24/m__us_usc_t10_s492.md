@@ -73,7 +73,7 @@
 
         (3) the Commander of the Global Strike Command of the Air Force.
 
-(Added [Pub. L. 112–81, div. A, title X, § 1041(a)][/us/pl/112/81/s1041/a], Dec. 31, 2011, [125 Stat. 1573][/us/stat/125/1573], § 490a; renumbered § 492, [Pub. L. 112–239, div. A, title X, § 1031(b)(3)(A)(i)][/us/pl/112/239/s1031/b/3/A/i], Jan. 2, 2013, [126 Stat. 1918][/us/stat/126/1918]; [Pub. L. 113–291, div. A, title XVI, § 1642][/us/pl/113/291/s1642], Dec. 19, 2014, [128 Stat. 3650][/us/stat/128/3650].)
+(Added [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1041(a), Dec. 31, 2011, [125 Stat. 1573][/us/stat/125/1573], § 490a; renumbered § 492, [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1031(b)(3)(A)(i), Jan. 2, 2013, [126 Stat. 1918][/us/stat/126/1918]; [Pub. L. 113–291, div. A, title XVI][/us/pl/113/291/dA/tXVI], § 1642, Dec. 19, 2014, [128 Stat. 3650][/us/stat/128/3650].)
 
  __Amendments__ 
 
@@ -83,11 +83,11 @@
 
  __Initial Assessment and Reports__ 
 
-[Pub. L. 112–81, div. A, title X, § 1041(b)][/us/pl/112/81/s1041/b], Dec. 31, 2011, [125 Stat. 1574][/us/stat/125/1574], as amended by [Pub. L. 112–239, div. A, title X, § 1031(b)(4)][/us/pl/112/239/s1031/b/4], Jan. 2, 2013, [126 Stat. 1919][/us/stat/126/1919]; [Pub. L. 113–66, div. A, title X, § 1091(b)(6)][/us/pl/113/66/s1091/b/6], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided that: 
+[Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1041(b), Dec. 31, 2011, [125 Stat. 1574][/us/stat/125/1574], as amended by [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1031(b)(4), Jan. 2, 2013, [126 Stat. 1919][/us/stat/126/1919]; [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1091(b)(6), Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided that: 
 
 > “Not later than 30 days after the date of enactment of this Act \[Dec. 31, 2011\], each covered official, as such term is defined in subsection (d) of [section 492 of title 10][/us/usc/t10/s492], United States Code, shall conduct an initial assessment as described by subsection (a) of such section and submit an initial report as described by subsection (b) of such section. The requirements of subsection (c) of such section shall apply with respect to the report submitted under this subsection.”
 
-    \[[Pub. L. 113–66, div. A, title X, § 1091(b)][/us/pl/113/66/s1091/b], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided in part that the amendment made by section 1091(b)(6) is effective as of Jan. 2, 2013, and as if included in [Pub. L. 112–239][/us/pl/112/239] as enacted.\]
+    \[[Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1091(b), Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided in part that the amendment made by section 1091(b)(6) is effective as of Jan. 2, 2013, and as if included in [Pub. L. 112–239][/us/pl/112/239] as enacted.\]
 
 ----------
 
@@ -97,23 +97,23 @@
 ----------
 
 [/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
-[/us/pl/112/81/s1041/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1041%2Fa
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1573
-[/us/pl/112/239/s1031/b/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fb%2F3%2FA%2Fi
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1918
-[/us/pl/113/291/s1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1642
+[/us/pl/113/291/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXVI
 [/us/stat/128/3650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3650
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t10/s490a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs490a
-[/us/pl/112/81/s1041/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1041%2Fb
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1574
-[/us/pl/112/239/s1031/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fb%2F4
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1919
-[/us/pl/113/66/s1091/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb%2F6
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
 [/us/usc/t10/s492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs492
-[/us/pl/113/66/s1091/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 

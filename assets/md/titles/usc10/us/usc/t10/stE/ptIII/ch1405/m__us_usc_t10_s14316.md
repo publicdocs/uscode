@@ -35,7 +35,7 @@
 
     If, on the date on which an officer of the Army National Guard of the United States or of the Air National Guard of the United States who is on a promotion list as described in subsection (a) is to be promoted, the officer has not been promoted to fill a vacancy in the higher grade in the Army National Guard or the Air National Guard, the officer’s Federal recognition in the officer’s reserve grade shall be withdrawn and the officer shall be promoted and transferred to the Army Reserve or the Air Force Reserve as appropriate.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2944][/us/stat/108/2944].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2944][/us/stat/108/2944].)
 
 ----------
 
@@ -48,7 +48,7 @@
 [/us/usc/t32/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs307
 [/us/usc/t10/s14311/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14311%2Fe
 [/us/usc/t10/s14501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14501
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2944
 
 

@@ -27,11 +27,11 @@
 
         (2) Grants to institutions of higher education.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 922(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–233.)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 922(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–233.)
 
  __Report__ 
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 922(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–236, directed the Secretary of Defense to submit to committees of Congress a plan for implementing the programs under this chapter not later than Apr. 1, 2001.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 922(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–236, directed the Secretary of Defense to submit to committees of Congress a plan for implementing the programs under this chapter not later than Apr. 1, 2001.
 
 ----------
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

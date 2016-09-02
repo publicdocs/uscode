@@ -17,7 +17,7 @@
 
     In time of war, or of emergency declared after May 29, 1954, by Congress or the President, the President may suspend the operation of any provision of law relating to promotion, or mandatory retirement or separation, of permanent reserve warrant officers of any armed force.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 26][/us/stat/70A/26], § 599; renumbered § 12243, [Pub. L. 103–337, div. A, title XVI, § 1662(d)(2)][/us/pl/103/337/s1662/d/2], Oct. 5, 1994, [108 Stat. 2991][/us/stat/108/2991].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 26][/us/stat/70A/26], § 599; renumbered § 12243, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(d)(2), Oct. 5, 1994, [108 Stat. 2991][/us/stat/108/2991].)
 
 <table>
 
@@ -98,7 +98,7 @@ May 29, 1954, ch. 249, § 18 (as applicable to reserve warrant officers), 68 S
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F26
-[/us/pl/103/337/s1662/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fd%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2991
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs599

@@ -105,7 +105,7 @@
 
             (D) any indecent conduct, intentionally done with or in the presence of a child, including via any communication technology, that amounts to a form of immorality relating to sexual impurity which is grossly vulgar, obscene, and repugnant to common propriety, and tends to excite sexual desire or deprave morals with respect to sexual relations.
 
-(Added [Pub. L. 112–81, div. A, title V, § 541(b)][/us/pl/112/81/s541/b], Dec. 31, 2011, [125 Stat. 1407][/us/stat/125/1407]; amended [Pub. L. 112–239, div. A, title X, § 1076(a)(3)][/us/pl/112/239/s1076/a/3], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948].)
+(Added [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 541(b), Dec. 31, 2011, [125 Stat. 1407][/us/stat/125/1407]; amended [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(3), Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948].)
 
  __Amendments__ 
 
@@ -113,7 +113,7 @@
 
  __Effective Date of 2013 Amendment__ 
 
-    [Pub. L. 112–239, div. A, title X, § 1076(a)][/us/pl/112/239/s1076/a], Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(3) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
+    [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a), Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(3) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
 
  __Effective Date__ 
 
@@ -127,13 +127,13 @@
 ----------
 
 [/us/usc/t10/s920/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs920%2Fg
-[/us/pl/112/81/s541/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fb
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1407
-[/us/pl/112/239/s1076/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F3
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/112/239/s1076/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1947
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81

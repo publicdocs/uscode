@@ -21,7 +21,7 @@
 
     (2) may not be provided for any person for more than 45 months (or the equivalent in other than full-time education or training).
 
-(Added [Pub. L. 99–399, title VIII, § 806(d)(1)][/us/pl/99/399/s806/d/1], Aug. 27, 1986, [100 Stat. 888][/us/stat/100/888]; amended [Pub. L. 103–337, div. A, title X, § 1070(e)(7)][/us/pl/103/337/s1070/e/7], Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859].)
+(Added [Pub. L. 99–399, title VIII][/us/pl/99/399/tVIII], § 806(d)(1), Aug. 27, 1986, [100 Stat. 888][/us/stat/100/888]; amended [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(e)(7), Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t38/s3524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3524
-[/us/pl/99/399/s806/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs806%2Fd%2F1
+[/us/pl/99/399/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVIII
 [/us/stat/100/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F888
-[/us/pl/103/337/s1070/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fe%2F7
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2859
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 

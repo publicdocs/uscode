@@ -21,7 +21,7 @@
 
     (c) The position on the active-duty list of an officer whose promotion is vacated under this section is the position he would have held had he not been promoted to the grade of brigadier general or rear admiral (lower half).
 
-(Added [Pub. L. 96–513, title I, § 105][/us/pl/96/513/s105], Dec. 12, 1980, [94 Stat. 2858][/us/stat/94/2858]; amended [Pub. L. 97–86, title IV, § 405(b)(1)][/us/pl/97/86/s405/b/1], (4)(A), Dec. 1, 1981, [95 Stat. 1105][/us/stat/95/1105]; [Pub. L. 99–145, title V, § 514(b)(1)][/us/pl/99/145/s514/b/1], (4)(A), Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 105, Dec. 12, 1980, [94 Stat. 2858][/us/stat/94/2858]; amended [Pub. L. 97–86, title IV][/us/pl/97/86/tIV], § 405(b)(1), (4)(A), Dec. 1, 1981, [95 Stat. 1105][/us/stat/95/1105]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 514(b)(1), (4)(A), Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628].)
 
  __Amendments__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/96/513/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs105
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2858
-[/us/pl/97/86/s405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs405%2Fb%2F1
+[/us/pl/97/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIV
 [/us/stat/95/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1105
-[/us/pl/99/145/s514/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fb%2F1
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F628
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/97/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86

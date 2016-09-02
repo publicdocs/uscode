@@ -45,7 +45,7 @@
 
     (c) Subsection (b) does not affect the financial liability of a disbursing official or agent.
 
-(Added [Pub. L. 97–258, § 2(b)(8)(B)][/us/pl/97/258/s2/b/8/B], Sept. 13, 1982, [96 Stat. 1055][/us/stat/96/1055]; amended [Pub. L. 98–525, title XIV, § 1405(43)][/us/pl/98/525/s1405/43], Oct. 19, 1984, [98 Stat. 2625][/us/stat/98/2625]; [Pub. L. 104–316, title I, § 105(c)][/us/pl/104/316/s105/c], Oct. 19, 1996, [110 Stat. 3830][/us/stat/110/3830].)
+(Added [Pub. L. 97–258][/us/pl/97/258], § 2(b)(8)(B), Sept. 13, 1982, [96 Stat. 1055][/us/stat/96/1055]; amended [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(43), Oct. 19, 1984, [98 Stat. 2625][/us/stat/98/2625]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 105(c), Oct. 19, 1996, [110 Stat. 3830][/us/stat/110/3830].)
 
 <table>
 
@@ -144,11 +144,11 @@ June 4, 1954, ch. 264, § 1 (related to Army, Navy, Air Force), 68 Stat. 175; 
 ----------
 ----------
 
-[/us/pl/97/258/s2/b/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F8%2FB
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1055
-[/us/pl/98/525/s1405/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F43
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2625
-[/us/pl/104/316/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs105%2Fc
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3830
 [/us/act/1947-07-26/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fs205%2Fa
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501

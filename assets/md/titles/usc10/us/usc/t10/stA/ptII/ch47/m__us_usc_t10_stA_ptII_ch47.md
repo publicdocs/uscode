@@ -281,13 +281,13 @@ United States Court of Appeals for the Armed Forces  </td>
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–337, div. A, title IX, § 924(c)(3)(B)][/us/pl/103/337/s924/c/3/B], Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832], substituted “United States Court of Appeals for the Armed Forces” for “Court of Military Appeals” in item for subchapter XII.
+    1994—[Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(c)(3)(B), Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832], substituted “United States Court of Appeals for the Armed Forces” for “Court of Military Appeals” in item for subchapter XII.
 
-    1989—[Pub. L. 101–189, div. A, title XIII, § 1304(a)(1)][/us/pl/101/189/s1304/a/1], Nov. 29, 1989, [103 Stat. 1576][/us/stat/103/1576], added item for subchapter XII.
+    1989—[Pub. L. 101–189, div. A, title XIII][/us/pl/101/189/dA/tXIII], § 1304(a)(1), Nov. 29, 1989, [103 Stat. 1576][/us/stat/103/1576], added item for subchapter XII.
 
-    1983—[Pub. L. 98–209, § 5(h)(1)][/us/pl/98/209/s5/h/1], Dec. 6, 1983, [97 Stat. 1400][/us/stat/97/1400], substituted “IX. Post-Trial Procedure and Review of Courts-Martial” for “IX. Review of Courts-Martial”.
+    1983—[Pub. L. 98–209][/us/pl/98/209], § 5(h)(1), Dec. 6, 1983, [97 Stat. 1400][/us/stat/97/1400], substituted “IX. Post-Trial Procedure and Review of Courts-Martial” for “IX. Review of Courts-Martial”.
 
-    1958—[Pub. L. 85–861, § 33(a)(6)][/us/pl/85/861/s33/a/6], Sept. 2, 1958, [72 Stat. 1564][/us/stat/72/1564], substituted 801, 807, 815, 816, 822, 830, 836, 855, 859, 877 and 935 for 1901, 1913, 1929, 1931, 1943, 1959, 1971, 2009, 2017, 2053 and 2169, respectively.
+    1958—[Pub. L. 85–861][/us/pl/85/861], § 33(a)(6), Sept. 2, 1958, [72 Stat. 1564][/us/stat/72/1564], substituted 801, 807, 815, 816, 822, 830, 836, 855, 859, 877 and 935 for 1901, 1913, 1929, 1931, 1943, 1959, 1971, 2009, 2017, 2053 and 2169, respectively.
 
 ----------
 
@@ -296,13 +296,13 @@ United States Court of Appeals for the Armed Forces  </td>
 ----------
 ----------
 
-[/us/pl/103/337/s924/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fc%2F3%2FB
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2832
-[/us/pl/101/189/s1304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1304%2Fa%2F1
+[/us/pl/101/189/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXIII
 [/us/stat/103/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1576
-[/us/pl/98/209/s5/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs5%2Fh%2F1
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1400
-[/us/pl/85/861/s33/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F6
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1564
 
 

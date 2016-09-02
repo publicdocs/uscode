@@ -75,7 +75,7 @@
 
     In this section, the term “data feeder system” means an automated or manual system from which information is derived for a financial management system or an accounting system.
 
-(Added [Pub. L. 107–107, div. A, title X, § 1009(a)(1)][/us/pl/107/107/s1009/a/1], Dec. 28, 2001, [115 Stat. 1206][/us/stat/115/1206]; amended [Pub. L. 107–314, div. A, title X, § 1004(h)(2)][/us/pl/107/314/s1004/h/2], Dec. 2, 2002, [116 Stat. 2631][/us/stat/116/2631].)
+(Added [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1009(a)(1), Dec. 28, 2001, [115 Stat. 1206][/us/stat/115/1206]; amended [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1004(h)(2), Dec. 2, 2002, [116 Stat. 2631][/us/stat/116/2631].)
 
  __Amendments__ 
 
@@ -88,9 +88,9 @@
 ----------
 ----------
 
-[/us/pl/107/107/s1009/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1009%2Fa%2F1
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1206
-[/us/pl/107/314/s1004/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1004%2Fh%2F2
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2631
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/usc/t10/s2222/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222%2Fc%2F2

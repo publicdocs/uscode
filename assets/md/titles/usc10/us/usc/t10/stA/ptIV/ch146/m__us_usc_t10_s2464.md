@@ -69,7 +69,7 @@
 
     The Comptroller General of the United States shall review each report submitted under subsection (d) for completeness and compliance and shall submit to the congressional defense committees findings and recommendations with respect to the report by not later than 60 days after the date on which the report is submitted to Congress.
 
-(Added and amended [Pub. L. 112–239, div. A, title III, § 322(b)(2)(A)][/us/pl/112/239/s322/b/2/A], (d), Jan. 2, 2013, [126 Stat. 1695][/us/stat/126/1695].)
+(Added and amended [Pub. L. 112–239, div. A, title III][/us/pl/112/239/dA/tIII], § 322(b)(2)(A), (d), Jan. 2, 2013, [126 Stat. 1695][/us/stat/126/1695].)
 
  __Codification__ 
 
@@ -77,11 +77,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 2464, added [Pub. L. 100–370, § 2(a)(1)][/us/pl/100/370/s2/a/1], July 19, 1988, [102 Stat. 853][/us/stat/102/853]; amended [Pub. L. 101–189, div. A, title XVI, § 1622(c)(7)][/us/pl/101/189/s1622/c/7], Nov. 29, 1989, [103 Stat. 1604][/us/stat/103/1604]; [Pub. L. 104–106, div. A, title III, § 314][/us/pl/104/106/s314], Feb. 10, 1996, [110 Stat. 251][/us/stat/110/251]; [Pub. L. 105–85, div. A, title III, § 356(a)][/us/pl/105/85/s356/a], Nov. 18, 1997, [111 Stat. 1694][/us/stat/111/1694]; [Pub. L. 105–261, div. A, title III, § 343(a)][/us/pl/105/261/s343/a], Oct. 17, 1998, [112 Stat. 1976][/us/stat/112/1976]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 112–81, div. A, title III, § 327(a)][/us/pl/112/81/s327/a], Dec. 31, 2011, [125 Stat. 1366][/us/stat/125/1366], related to core depot-level maintenance and repair capabilities prior to repeal by [Pub. L. 112–239, div. A, title III, § 322(a)(2)][/us/pl/112/239/s322/a/2], Jan. 2, 2013, [126 Stat. 1694][/us/stat/126/1694].
+    A prior section 2464, added [Pub. L. 100–370][/us/pl/100/370], § 2(a)(1), July 19, 1988, [102 Stat. 853][/us/stat/102/853]; amended [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1622(c)(7), Nov. 29, 1989, [103 Stat. 1604][/us/stat/103/1604]; [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 314, Feb. 10, 1996, [110 Stat. 251][/us/stat/110/251]; [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 356(a), Nov. 18, 1997, [111 Stat. 1694][/us/stat/111/1694]; [Pub. L. 105–261, div. A, title III][/us/pl/105/261/dA/tIII], § 343(a), Oct. 17, 1998, [112 Stat. 1976][/us/stat/112/1976]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 327(a), Dec. 31, 2011, [125 Stat. 1366][/us/stat/125/1366], related to core depot-level maintenance and repair capabilities prior to repeal by [Pub. L. 112–239, div. A, title III][/us/pl/112/239/dA/tIII], § 322(a)(2), Jan. 2, 2013, [126 Stat. 1694][/us/stat/126/1694].
 
  __Amendments__ 
 
-    2013—Subsecs. (d), (e). [Pub. L. 112–239, § 322(d)][/us/pl/112/239/s322/d], added subsecs. (d) and (e).
+    2013—Subsecs. (d), (e). [Pub. L. 112–239][/us/pl/112/239], § 322(d), added subsecs. (d) and (e).
 
  __Effective Date__ 
 
@@ -95,28 +95,28 @@
 ----------
 
 [/us/usc/t10/s153/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs153%2Fa
-[/us/pl/112/239/s322/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs322%2Fb%2F2%2FA
+[/us/pl/112/239/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIII
 [/us/stat/126/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1695
 [/us/pl/112/239/s322/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs322%2Fb%2F2%2FA
 [/us/usc/t10/s2464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2464
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/100/370/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs2%2Fa%2F1
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F853
-[/us/pl/101/189/s1622/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fc%2F7
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1604
-[/us/pl/104/106/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs314
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F251
-[/us/pl/105/85/s356/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs356%2Fa
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1694
-[/us/pl/105/261/s343/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs343%2Fa
+[/us/pl/105/261/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIII
 [/us/stat/112/1976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1976
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/112/81/s327/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs327%2Fa
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1366
-[/us/pl/112/239/s322/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs322%2Fa%2F2
+[/us/pl/112/239/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIII
 [/us/stat/126/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1694
-[/us/pl/112/239/s322/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs322%2Fd
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/112/239/s322/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs322%2Ff

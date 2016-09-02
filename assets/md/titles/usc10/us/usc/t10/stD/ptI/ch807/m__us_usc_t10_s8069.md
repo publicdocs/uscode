@@ -27,7 +27,7 @@
 
     The Surgeon General shall appoint the assistant chief from the officers of the Regular Air Force designated as Air Force nurses whose regular grade is above lieutenant colonel.
 
-(Added [Pub. L. 104–201, div. A, title V, § 502(b)][/us/pl/104/201/s502/b], Sept. 23, 1996, [110 Stat. 2511][/us/stat/110/2511]; amended [Pub. L. 105–261, div. A, title V, § 505][/us/pl/105/261/s505], Oct. 17, 1998, [112 Stat. 2004][/us/stat/112/2004]; [Pub. L. 107–314, div. A, title V, § 504(a)(3)][/us/pl/107/314/s504/a/3], Dec. 2, 2002, [116 Stat. 2531][/us/stat/116/2531].)
+(Added [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 502(b), Sept. 23, 1996, [110 Stat. 2511][/us/stat/110/2511]; amended [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 505, Oct. 17, 1998, [112 Stat. 2004][/us/stat/112/2004]; [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 504(a)(3), Dec. 2, 2002, [116 Stat. 2531][/us/stat/116/2531].)
 
  __Amendments__ 
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/pl/104/201/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs502%2Fb
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2511
-[/us/pl/105/261/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs505
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2004
-[/us/pl/107/314/s504/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs504%2Fa%2F3
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2531
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261

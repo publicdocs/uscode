@@ -25,7 +25,7 @@
 
     (4) in the case of a reserve enlisted member who is on full-time active duty (or in the case of a member of the National Guard, full-time National Guard duty) for the purpose of organizing, administering, recruiting, instructing, or training the reserve components, the member (A) is denied reenlistment, or (B) is involuntarily discharged or released from active duty (or full-time National Guard) under other than adverse conditions, as characterized by the Secretary concerned.
 
-(Added [Pub. L. 101–510, div. A, title V, § 502(a)(1)][/us/pl/101/510/s502/a/1], Nov. 5, 1990, [104 Stat. 1551][/us/stat/104/1551]; amended [Pub. L. 103–160, div. A, title V, § 503][/us/pl/103/160/s503], Nov. 30, 1993, [107 Stat. 1644][/us/stat/107/1644]; [Pub. L. 103–337, div. A, title V, § 542(a)(1)][/us/pl/103/337/s542/a/1], Oct. 5, 1994, [108 Stat. 2767][/us/stat/108/2767].)
+(Added [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 502(a)(1), Nov. 5, 1990, [104 Stat. 1551][/us/stat/104/1551]; amended [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 503, Nov. 30, 1993, [107 Stat. 1644][/us/stat/107/1644]; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 542(a)(1), Oct. 5, 1994, [108 Stat. 2767][/us/stat/108/2767].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–337, div. A, title V, § 542(e)][/us/pl/103/337/s542/e], Oct. 5, 1994, [108 Stat. 2769][/us/stat/108/2769], provided that: 
+[Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 542(e), Oct. 5, 1994, [108 Stat. 2769][/us/stat/108/2769], provided that: 
 
 > “This section \[amending this section and sections 1143, 1143a, 1145 to 1150, 1174a, and 1175 of this title and enacting provisions set out as a note under [section 1293 of this title][/us/usc/t10/s1293]\] and the amendments made by this section shall apply only to members of the Coast Guard who are separated after September 30, 1994.”
 
@@ -50,15 +50,15 @@
 ----------
 ----------
 
-[/us/pl/101/510/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs502%2Fa%2F1
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1551
-[/us/pl/103/160/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs503
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1644
-[/us/pl/103/337/s542/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs542%2Fa%2F1
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2767
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
-[/us/pl/103/337/s542/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs542%2Fe
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2769
 [/us/usc/t10/s1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1293
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

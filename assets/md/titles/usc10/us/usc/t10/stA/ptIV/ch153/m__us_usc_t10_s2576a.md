@@ -69,7 +69,7 @@
 
     In this section, the term “controlled property” means any item assigned a demilitarization code of B, C, D, E, G, or Q under Department of Defense Manual 4160.21–M, “Defense Materiel Disposition Manual”, or any successor document.
 
-(Added [Pub. L. 104–201, div. A, title X, § 1033(a)(1)][/us/pl/104/201/s1033/a/1], Sept. 23, 1996, [110 Stat. 2639][/us/stat/110/2639]; amended [Pub. L. 114–92, div. A, title X][/us/pl/114/92], §§ 1051(a)–(c), 1052, Nov. 25, 2015, [129 Stat. 979–981][/us/stat/129/979-981].)
+(Added [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1033(a)(1), Sept. 23, 1996, [110 Stat. 2639][/us/stat/110/2639]; amended [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], §§ 1051(a)–(c), 1052, Nov. 25, 2015, [129 Stat. 979–981][/us/stat/129/979-981].)
 
  __References in Text__ 
 
@@ -77,21 +77,21 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [Pub. L. 101–189, div. A, title XII, § 1208][/us/pl/101/189/s1208], Nov. 29, 1989, [103 Stat. 1566][/us/stat/103/1566], as amended, which was set out as a note under [section 372 of this title][/us/usc/t10/s372], prior to repeal by [Pub. L. 104–201, § 1033(b)(1)][/us/pl/104/201/s1033/b/1].
+    Provisions similar to those in this section were contained in [Pub. L. 101–189, div. A, title XII][/us/pl/101/189/dA/tXII], § 1208, Nov. 29, 1989, [103 Stat. 1566][/us/stat/103/1566], as amended, which was set out as a note under [section 372 of this title][/us/usc/t10/s372], prior to repeal by [Pub. L. 104–201][/us/pl/104/201], § 1033(b)(1).
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1)(A). [Pub. L. 114–92, § 1052(1)(A)][/us/pl/114/92/s1052/1/A], substituted “counterdrug, counterterrorism, and border security activities” for “counter-drug and counter-terrorism activities”.
+    2015—Subsec. (a)(1)(A). [Pub. L. 114–92][/us/pl/114/92], § 1052(1)(A), substituted “counterdrug, counterterrorism, and border security activities” for “counter-drug and counter-terrorism activities”.
 
-    Subsec. (a)(2). [Pub. L. 114–92, § 1052(1)(B)][/us/pl/114/92/s1052/1/B], substituted “the Attorney General, the Director of National Drug Control Policy, and the Secretary of Homeland Security, as appropriate” for “the Attorney General and the Director of National Drug Control Policy”.
+    Subsec. (a)(2). [Pub. L. 114–92][/us/pl/114/92], § 1052(1)(B), substituted “the Attorney General, the Director of National Drug Control Policy, and the Secretary of Homeland Security, as appropriate” for “the Attorney General and the Director of National Drug Control Policy”.
 
-    Subsec. (b)(5), (6). [Pub. L. 114–92, § 1051(b)][/us/pl/114/92/s1051/b], added pars. (5) and (6).
+    Subsec. (b)(5), (6). [Pub. L. 114–92][/us/pl/114/92], § 1051(b), added pars. (5) and (6).
 
-    Subsec. (d). [Pub. L. 114–92, § 1052(2)][/us/pl/114/92/s1052/2], substituted “counterdrug, counterterrorism, or border security activities” for “counter-drug or counter-terrorism activities”.
+    Subsec. (d). [Pub. L. 114–92][/us/pl/114/92], § 1052(2), substituted “counterdrug, counterterrorism, or border security activities” for “counter-drug or counter-terrorism activities”.
 
-    Subsec. (e). [Pub. L. 114–92, § 1051(a)][/us/pl/114/92/s1051/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 114–92][/us/pl/114/92], § 1051(a), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 114–92, § 1051(c)][/us/pl/114/92/s1051/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 114–92][/us/pl/114/92], § 1051(c), added subsec. (f).
 
 ----------
 
@@ -100,21 +100,21 @@
 ----------
 ----------
 
-[/us/pl/104/201/s1033/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1033%2Fa%2F1
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2639
-[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/979-981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F979-981
 [/us/pl/114/92/s1051/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1051%2Fe
 [/us/stat/129/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F980
-[/us/pl/101/189/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1208
+[/us/pl/101/189/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXII
 [/us/stat/103/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1566
 [/us/usc/t10/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs372
-[/us/pl/104/201/s1033/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1033%2Fb%2F1
-[/us/pl/114/92/s1052/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1052%2F1%2FA
-[/us/pl/114/92/s1052/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1052%2F1%2FB
-[/us/pl/114/92/s1051/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1051%2Fb
-[/us/pl/114/92/s1052/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1052%2F2
-[/us/pl/114/92/s1051/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1051%2Fa
-[/us/pl/114/92/s1051/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1051%2Fc
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 
 

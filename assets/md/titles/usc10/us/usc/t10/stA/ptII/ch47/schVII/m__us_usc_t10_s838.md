@@ -59,7 +59,7 @@
 
     (e) An assistant defense counsel of a general or special court-martial may, under the direction of the defense counsel or when he is qualified to be the defense counsel as required by [section 827 of this title][/us/usc/t10/s827] (article 27), perform any duty imposed by law, regulation, or the custom of the service upon counsel for the accused.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 50][/us/stat/70A/50]; [Pub. L. 90–632, § 2(14)][/us/pl/90/632/s2/14], Oct. 24, 1968, [82 Stat. 1338][/us/stat/82/1338]; [Pub. L. 97–81, § 4(b)][/us/pl/97/81/s4/b], Nov. 20, 1981, [95 Stat. 1088][/us/stat/95/1088]; [Pub. L. 98–209, § 3(e)][/us/pl/98/209/s3/e], Dec. 6, 1983, [97 Stat. 1394][/us/stat/97/1394]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)][/us/pl/104/106/s1502/a/1], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(C)][/us/pl/113/66/s1702/c/3/C], Dec. 26, 2013, [127 Stat. 957][/us/stat/127/957].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 50][/us/stat/70A/50]; [Pub. L. 90–632][/us/pl/90/632], § 2(14), Oct. 24, 1968, [82 Stat. 1338][/us/stat/82/1338]; [Pub. L. 97–81][/us/pl/97/81], § 4(b), Nov. 20, 1981, [95 Stat. 1088][/us/stat/95/1088]; [Pub. L. 98–209][/us/pl/98/209], § 3(e), Dec. 6, 1983, [97 Stat. 1394][/us/stat/97/1394]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1502(a)(1), Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1702(c)(3)(C), Dec. 26, 2013, [127 Stat. 957][/us/stat/127/957].)
 
 <table>
 
@@ -153,11 +153,11 @@ May 5, 1950, ch. 169, § 1 (Art. 38), 64 Stat. 120.  </td>
 
     1996—Subsec. (b)(7). [Pub. L. 104–106][/us/pl/104/106] substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
-    1983—Subsec. (b)(6). [Pub. L. 98–209, § 3(e)(1)][/us/pl/98/209/s3/e/1], substituted “the person authorized under regulations prescribed under [section 827 of this title][/us/usc/t10/s827] (article 27) to detail counsel” for “a convening authority”.
+    1983—Subsec. (b)(6). [Pub. L. 98–209][/us/pl/98/209], § 3(e)(1), substituted “the person authorized under regulations prescribed under [section 827 of this title][/us/usc/t10/s827] (article 27) to detail counsel” for “a convening authority”.
 
-    Subsec. (b)(7). [Pub. L. 98–209, § 3(e)(2)][/us/pl/98/209/s3/e/2], inserted provision that such regulations may not prescribe any limitation based on the reasonable availability of counsel solely on the grounds that the counsel selected by the accused is from an armed force other than the armed force of which the accused is a member.
+    Subsec. (b)(7). [Pub. L. 98–209][/us/pl/98/209], § 3(e)(2), inserted provision that such regulations may not prescribe any limitation based on the reasonable availability of counsel solely on the grounds that the counsel selected by the accused is from an armed force other than the armed force of which the accused is a member.
 
-    Subsec. (c). [Pub. L. 98–209, § 3(e)(3)][/us/pl/98/209/s3/e/3], designated existing provisions as par. (1), made minor changes in phraseology and punctuation, and added pars. (2) and (3).
+    Subsec. (c). [Pub. L. 98–209][/us/pl/98/209], § 3(e)(3), designated existing provisions as par. (1), made minor changes in phraseology and punctuation, and added pars. (2) and (3).
 
     1981—Subsec. (b). [Pub. L. 97–81][/us/pl/97/81] revised subsec. (b) by dividing its provisions into seven numbered paragraphs and inserted provisions relating to the right to counsel at an investigation under [section 832 of this title][/us/usc/t10/s832] (article 32), authorizing the promulgation of regulations relating to the “reasonable availability” of military counsel, and authorizing the detailing of additional military counsel for the accused under specified circumstances.
 
@@ -194,25 +194,25 @@ May 5, 1950, ch. 169, § 1 (Art. 38), 64 Stat. 120.  </td>
 [/us/usc/t10/s827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs827
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F50
-[/us/pl/90/632/s2/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F14
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1338
-[/us/pl/97/81/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81%2Fs4%2Fb
+[/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/stat/95/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1088
-[/us/pl/98/209/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs3%2Fe
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1394
-[/us/pl/104/106/s1502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F1
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F502
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/113/66/s1702/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fc%2F3%2FC
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F957
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/98/209/s3/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs3%2Fe%2F1
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/usc/t10/s827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs827
-[/us/pl/98/209/s3/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs3%2Fe%2F2
-[/us/pl/98/209/s3/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs3%2Fe%2F3
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/usc/t10/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs832
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632

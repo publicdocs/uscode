@@ -163,9 +163,9 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–163, div. A, title V, § 515(b)(4)(I)][/us/pl/109/163/s515/b/4/I], Jan. 6, 2006, [119 Stat. 3235][/us/stat/119/3235], substituted “Navy Reserve” for “Naval Reserve” in item 14306.
+    2006—[Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(4)(I), Jan. 6, 2006, [119 Stat. 3235][/us/stat/119/3235], substituted “Navy Reserve” for “Naval Reserve” in item 14306.
 
-    1996—[Pub. L. 104–106, div. A, title XV, § 1501(b)(24)][/us/pl/104/106/s1501/b/24], Feb. 10, 1996, [110 Stat. 497][/us/stat/110/497], substituted “Number” for “Numbers” in item 14307, a semicolon for a colon in item 14309, and “State” for “state” in item 14314.
+    1996—[Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(24), Feb. 10, 1996, [110 Stat. 497][/us/stat/110/497], substituted “Number” for “Numbers” in item 14307, a semicolon for a colon in item 14309, and “State” for “state” in item 14314.
 
 ----------
 
@@ -174,9 +174,9 @@
 ----------
 ----------
 
-[/us/pl/109/163/s515/b/4/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F4%2FI
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3235
-[/us/pl/104/106/s1501/b/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F24
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F497
 
 

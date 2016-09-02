@@ -81,7 +81,7 @@
 
     (f) A warrant officer subject to discharge or retirement under this section, but against whom any action has been commenced with a view to trying the officer by court-martial, may be continued on active duty, without prejudice to such action, until the completion of such action.
 
-(Added [Pub. L. 102–190, div. A, title XI, § 1112(a)][/us/pl/102/190/s1112/a], Dec. 5, 1991, [105 Stat. 1498][/us/stat/105/1498]; amended [Pub. L. 103–160, div. A, title V, § 505(a)][/us/pl/103/160/s505/a], Nov. 30, 1993, [107 Stat. 1645][/us/stat/107/1645]; [Pub. L. 103–337, div. A, title V, § 541(b)(5)][/us/pl/103/337/s541/b/5], Oct. 5, 1994, [108 Stat. 2765][/us/stat/108/2765]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 109–364, div. A, title V, § 505(a)][/us/pl/109/364/s505/a], (b), Oct. 17, 2006, [120 Stat. 2179][/us/stat/120/2179]; [Pub. L. 111–383, div. A, title V, § 541][/us/pl/111/383/s541], Jan. 7, 2011, [124 Stat. 4218][/us/stat/124/4218].)
+(Added [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1112(a), Dec. 5, 1991, [105 Stat. 1498][/us/stat/105/1498]; amended [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 505(a), Nov. 30, 1993, [107 Stat. 1645][/us/stat/107/1645]; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 541(b)(5), Oct. 5, 1994, [108 Stat. 2765][/us/stat/108/2765]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 505(a), (b), Oct. 17, 2006, [120 Stat. 2179][/us/stat/120/2179]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 541, Jan. 7, 2011, [124 Stat. 4218][/us/stat/124/4218].)
 
  __References in Text__ 
 
@@ -89,25 +89,25 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 564 of this title][/us/usc/t10/s564] prior to repeal by [Pub. L. 102–190, § 1112(a)][/us/pl/102/190/s1112/a].
+    Provisions similar to those in this section were contained in [section 564 of this title][/us/usc/t10/s564] prior to repeal by [Pub. L. 102–190][/us/pl/102/190], § 1112(a).
 
  __Amendments__ 
 
     2011—Subsec. (f). [Pub. L. 111–383][/us/pl/111/383] added subsec. (f).
 
-    2006—Subsec. (e)(1). [Pub. L. 109–364, § 505(a)][/us/pl/109/364/s505/a], substituted “continued on active duty if—” and subpars. (A) and (B) for “continued on active duty if he is selected for continuation on active duty by a selection board convened under [section 573(c) of this title][/us/usc/t10/s573/c].”
+    2006—Subsec. (e)(1). [Pub. L. 109–364][/us/pl/109/364], § 505(a), substituted “continued on active duty if—” and subpars. (A) and (B) for “continued on active duty if he is selected for continuation on active duty by a selection board convened under [section 573(c) of this title][/us/usc/t10/s573/c].”
 
-    Subsec. (e)(2). [Pub. L. 109–364, § 505(b)][/us/pl/109/364/s505/b], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (e)(2). [Pub. L. 109–364][/us/pl/109/364], § 505(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
     2002—Subsec. (e)(6). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
 
-    1994—Subsec. (a)(4)(B). [Pub. L. 103–337, § 541(b)(5)(A)][/us/pl/103/337/s541/b/5/A], inserted “, or severance pay computed under [section 286a of title 14][/us/usc/t14/s286a], as appropriate,” after “[section 1174 of this title][/us/usc/t10/s1174]”.
+    1994—Subsec. (a)(4)(B). [Pub. L. 103–337][/us/pl/103/337], § 541(b)(5)(A), inserted “, or severance pay computed under [section 286a of title 14][/us/usc/t14/s286a], as appropriate,” after “[section 1174 of this title][/us/usc/t10/s1174]”.
 
-    Subsec. (e)(6). [Pub. L. 103–337, § 541(b)(5)(B)][/us/pl/103/337/s541/b/5/B], inserted “and the Secretary of Transportation, when the Coast Guard is not operating as a service in the Navy,” after “Secretary of Defense”.
+    Subsec. (e)(6). [Pub. L. 103–337][/us/pl/103/337], § 541(b)(5)(B), inserted “and the Secretary of Transportation, when the Coast Guard is not operating as a service in the Navy,” after “Secretary of Defense”.
 
-    1993—Subsec. (a)(4)(A). [Pub. L. 103–160, § 505(a)(1)][/us/pl/103/160/s505/a/1], inserted “(except as provided in subparagraph (C))” after “shall be separated”.
+    1993—Subsec. (a)(4)(A). [Pub. L. 103–160][/us/pl/103/160], § 505(a)(1), inserted “(except as provided in subparagraph (C))” after “shall be separated”.
 
-    Subsec. (a)(4)(C). [Pub. L. 103–160, § 505(a)(2)][/us/pl/103/160/s505/a/2], added subpar. (C).
+    Subsec. (a)(4)(C). [Pub. L. 103–160][/us/pl/103/160], § 505(a)(2), added subpar. (C).
 
  __Effective Date of 2002 Amendment__ 
 
@@ -119,13 +119,13 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–160, div. A, title V, § 505(b)][/us/pl/103/160/s505/b], Nov. 30, 1993, [107 Stat. 1646][/us/stat/107/1646], provided that: 
+[Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 505(b), Nov. 30, 1993, [107 Stat. 1646][/us/stat/107/1646], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to warrant officers who have not been separated pursuant to [section 580(a)(4) of title 10][/us/usc/t10/s580/a/4], United States Code, before the date of enactment of this Act \[Nov. 30, 1993\].”
 
  __Retired and Retainer Pay of Members on Retired Lists or Receiving Retainer Pay__ 
 
-    [Act Oct. 12, 1949, ch. 681][/us/act/1949-10-12/ch681], title V, § 511, [63 Stat. 829][/us/stat/63/829], as amended [May 19, 1952, ch. 310, § 4][/us/act/1952-05-19/ch310/s4], [66 Stat. 80][/us/stat/66/80]; [Apr. 23, 1956, ch. 208, § 1][/us/act/1956-04-23/ch208/s1], [70 Stat. 114][/us/stat/70/114], set forth methods of computing retired pay, retirement pay, retainer pay, or equivalent pay on and after Oct. 1, 1949, for members of the uniformed services who had retired for reasons other than for physical disability before Oct. 1, 1949, members who had transferred to the Fleet Reserve or the Fleet Marine Corps Reserve before such date, and certain members of the Army Nurse Corps or the Navy Nurse Corps who had retired before such date, and provided that the amount of such pay would not exceed 75 percentum of the monthly basic pay upon which the computation had been based.
+    [Act Oct. 12, 1949, ch. 681, title V][/us/act/1949-10-12/ch681/tV], § 511, [63 Stat. 829][/us/stat/63/829], as amended [May 19, 1952, ch. 310][/us/act/1952-05-19/ch310], § 4, [66 Stat. 80][/us/stat/66/80]; [Apr. 23, 1956, ch. 208][/us/act/1956-04-23/ch208], § 1, [70 Stat. 114][/us/stat/70/114], set forth methods of computing retired pay, retirement pay, retainer pay, or equivalent pay on and after Oct. 1, 1949, for members of the uniformed services who had retired for reasons other than for physical disability before Oct. 1, 1949, members who had transferred to the Fleet Reserve or the Fleet Marine Corps Reserve before such date, and certain members of the Army Nurse Corps or the Navy Nurse Corps who had retired before such date, and provided that the amount of such pay would not exceed 75 percentum of the monthly basic pay upon which the computation had been based.
 
 ----------
 
@@ -150,46 +150,46 @@
 [/us/usc/t10/s573/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs573%2Fc
 [/us/usc/t10/s1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1293
 [/us/usc/t10/s573/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs573%2Fc
-[/us/pl/102/190/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1112%2Fa
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1498
-[/us/pl/103/160/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs505%2Fa
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1645
-[/us/pl/103/337/s541/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fb%2F5
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2765
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/109/364/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs505%2Fa
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2179
-[/us/pl/111/383/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs541
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4218
 [/us/act/1949-10-12/ch681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-12%2Fch681
 [/us/usc/t10/s564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs564
-[/us/pl/102/190/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1112%2Fa
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/109/364/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs505%2Fa
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s573/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs573%2Fc
-[/us/pl/109/364/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs505%2Fb
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/103/337/s541/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fb%2F5%2FA
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t14/s286a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs286a
 [/us/usc/t10/s1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174
-[/us/pl/103/337/s541/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fb%2F5%2FB
-[/us/pl/103/160/s505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs505%2Fa%2F1
-[/us/pl/103/160/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs505%2Fa%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s541/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fh
 [/us/usc/t10/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs571
-[/us/pl/103/160/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs505%2Fb
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1646
 [/us/usc/t10/s580/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs580%2Fa%2F4
-[/us/act/1949-10-12/ch681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-12%2Fch681
+[/us/act/1949-10-12/ch681/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-12%2Fch681%2FtV
 [/us/stat/63/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F829
-[/us/act/1952-05-19/ch310/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-05-19%2Fch310%2Fs4
+[/us/act/1952-05-19/ch310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-05-19%2Fch310
 [/us/stat/66/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F80
-[/us/act/1956-04-23/ch208/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-23%2Fch208%2Fs1
+[/us/act/1956-04-23/ch208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-23%2Fch208
 [/us/stat/70/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F114
 
 

@@ -31,7 +31,7 @@
 
     The Principal Space Control Advisor shall integrate the space control expertise and perspectives of appropriate organizational entities of the Office of the Secretary of Defense, the Joint Staff, the military departments, the Defense Agencies, and the combatant commands, by establishing and maintaining a cross-functional team of subject-matter experts who are otherwise assigned or detailed to those entities.
 
-(Added [Pub. L. 114–92, div. A, title XVI, § 1602(a)][/us/pl/114/92/s1602/a], Nov. 25, 2015, [129 Stat. 1096][/us/stat/129/1096].)
+(Added [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1602(a), Nov. 25, 2015, [129 Stat. 1096][/us/stat/129/1096].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/114/92/s1602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1602%2Fa
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1096
 
 

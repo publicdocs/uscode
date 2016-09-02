@@ -27,7 +27,7 @@
 
         (3) Any other substance not specified in clause (1) or contained on a list prescribed by the President under clause (2) that is listed in schedules I through V of section 202 of the Controlled Substances Act ([21 U.S.C. 812][/us/usc/t21/s812]).
 
-(Added [Pub. L. 98–209, § 8(a)][/us/pl/98/209/s8/a], Dec. 6, 1983, [97 Stat. 1403][/us/stat/97/1403].)
+(Added [Pub. L. 98–209][/us/pl/98/209], § 8(a), Dec. 6, 1983, [97 Stat. 1403][/us/stat/97/1403].)
 
  __Effective Date__ 
 
@@ -35,7 +35,7 @@
 
  __Procedures for Forensic Examination of Certain Physiological Evidence__ 
 
-[Pub. L. 100–180, div. A, title XII, § 1248][/us/pl/100/180/s1248], Dec. 4, 1987, [101 Stat. 1166][/us/stat/101/1166], provided that:
+[Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1248, Dec. 4, 1987, [101 Stat. 1166][/us/stat/101/1166], provided that:
 
 >     “(a)  __Establishment of Procedures__  __.—__ 
 
@@ -77,11 +77,11 @@
 ----------
 
 [/us/usc/t21/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812
-[/us/pl/98/209/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs8%2Fa
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1403
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801
-[/us/pl/100/180/s1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1248
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1166
 [/us/usc/t10/s912a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs912a%2Fb
 

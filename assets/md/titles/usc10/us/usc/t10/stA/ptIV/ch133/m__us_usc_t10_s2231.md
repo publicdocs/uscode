@@ -17,7 +17,7 @@
 
     Provisions of law relating to facilities for reserve components are set forth in chapter 1803 of this title (beginning with section 18231).
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1664(b)(11)][/us/pl/103/337/s1664/b/11], Oct. 5, 1994, [108 Stat. 3011][/us/stat/108/3011].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1664(b)(11), Oct. 5, 1994, [108 Stat. 3011][/us/stat/108/3011].)
 
  __Prior Provisions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1664/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1664%2Fb%2F11
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3011
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001

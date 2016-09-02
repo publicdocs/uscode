@@ -117,45 +117,45 @@
 
     The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation has sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director under this section.
 
-(Added [Pub. L. 111–23, title I, § 101(b)(1)][/us/pl/111/23/s101/b/1], May 22, 2009, [123 Stat. 1706][/us/stat/123/1706]; amended [Pub. L. 111–383, div. A, title VIII, § 811][/us/pl/111/383/s811], Jan. 7, 2011, [124 Stat. 4263][/us/stat/124/4263]; [Pub. L. 112–81, div. A, title VIII, § 833][/us/pl/112/81/s833], Dec. 31, 2011, [125 Stat. 1506][/us/stat/125/1506]; [Pub. L. 113–66, div. A, title VIII, § 812(c)][/us/pl/113/66/s812/c], Dec. 26, 2013, [127 Stat. 808][/us/stat/127/808]; [Pub. L. 114–92, div. A, title VIII, § 824(b)][/us/pl/114/92/s824/b], title X, § 1077(a), Nov. 25, 2015, [129 Stat. 907][/us/stat/129/907], 998.)
+(Added [Pub. L. 111–23, title I][/us/pl/111/23/tI], § 101(b)(1), May 22, 2009, [123 Stat. 1706][/us/stat/123/1706]; amended [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 811, Jan. 7, 2011, [124 Stat. 4263][/us/stat/124/4263]; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 833, Dec. 31, 2011, [125 Stat. 1506][/us/stat/125/1506]; [Pub. L. 113–66, div. A, title VIII][/us/pl/113/66/dA/tVIII], § 812(c), Dec. 26, 2013, [127 Stat. 808][/us/stat/127/808]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 824(b), title X, § 1077(a), Nov. 25, 2015, [129 Stat. 907][/us/stat/129/907], 998.)
 
  __Amendments__ 
 
-    2015—Subsec. (a)(6)(A)(i). [Pub. L. 114–92, § 824(b)][/us/pl/114/92/s824/b], substituted “any decision to grant milestone approval pursuant to” for “any certification under”.
+    2015—Subsec. (a)(6)(A)(i). [Pub. L. 114–92][/us/pl/114/92], § 824(b), substituted “any decision to grant milestone approval pursuant to” for “any certification under”.
 
-    Subsecs. (f), (g). [Pub. L. 114–92, § 1077(a)][/us/pl/114/92/s1077/a], redesignated subsec. (g) as (f) and struck out former subsec. (f) which related to annual report on cost assessment activities.
+    Subsecs. (f), (g). [Pub. L. 114–92][/us/pl/114/92], § 1077(a), redesignated subsec. (g) as (f) and struck out former subsec. (f) which related to annual report on cost assessment activities.
 
-    2013—Subsec. (a)(8). [Pub. L. 113–66, § 812(c)(1)][/us/pl/113/66/s812/c/1], added par. (8).
+    2013—Subsec. (a)(8). [Pub. L. 113–66][/us/pl/113/66], § 812(c)(1), added par. (8).
 
-    Subsec. (f)(1). [Pub. L. 113–66, § 812(c)(2)(A)][/us/pl/113/66/s812/c/2/A], substituted “report—” for “report, an assessment of—” in introductory provisions.
+    Subsec. (f)(1). [Pub. L. 113–66][/us/pl/113/66], § 812(c)(2)(A), substituted “report—” for “report, an assessment of—” in introductory provisions.
 
-    Subsec. (f)(1)(A) to (C). [Pub. L. 113–66, § 812(c)(2)(B)][/us/pl/113/66/s812/c/2/B], inserted “an assessment of” at beginning of subpars. (A) to (C).
+    Subsec. (f)(1)(A) to (C). [Pub. L. 113–66][/us/pl/113/66], § 812(c)(2)(B), inserted “an assessment of” at beginning of subpars. (A) to (C).
 
-    Subsec. (f)(1)(D). [Pub. L. 113–66, § 812(c)(2)(C)][/us/pl/113/66/s812/c/2/C]–(E), added subpar. (D).
+    Subsec. (f)(1)(D). [Pub. L. 113–66][/us/pl/113/66], § 812(c)(2)(C)–(E), added subpar. (D).
 
-    2011—Subsec. (d)(1). [Pub. L. 111–383, § 811(1)(A)][/us/pl/111/383/s811/1/A], substituted “paragraph (3)” for “paragraph (2)” and “and the rationale for selecting such confidence level;” for “, the rationale for selecting such confidence level, and, if such confidence level is less than 80 percent, the justification for selecting a confidence level of less than 80 percent; and”.
+    2011—Subsec. (d)(1). [Pub. L. 111–383][/us/pl/111/383], § 811(1)(A), substituted “paragraph (3)” for “paragraph (2)” and “and the rationale for selecting such confidence level;” for “, the rationale for selecting such confidence level, and, if such confidence level is less than 80 percent, the justification for selecting a confidence level of less than 80 percent; and”.
 
-    Subsec. (d)(2), (3). [Pub. L. 111–383, § 811(1)(B)][/us/pl/111/383/s811/1/B], (C), added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (d)(2), (3). [Pub. L. 111–383][/us/pl/111/383], § 811(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (e). [Pub. L. 111–383, § 811(3)][/us/pl/111/383/s811/3], added subsec. (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 111–383][/us/pl/111/383], § 811(3), added subsec. (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (e)(1). [Pub. L. 112–81, § 833(2)(A)][/us/pl/112/81/s833/2/A], (B), substituted “shall provide that” for “shall provide that—”, struck out subpar. (A) designation before “cost estimates”, and substituted period at end for “; and”.
+    Subsec. (e)(1). [Pub. L. 112–81][/us/pl/112/81], § 833(2)(A), (B), substituted “shall provide that” for “shall provide that—”, struck out subpar. (A) designation before “cost estimates”, and substituted period at end for “; and”.
 
-    Subsec. (e)(2). [Pub. L. 112–81, § 833(3)][/us/pl/112/81/s833/3], substituted “The Under Secretary of Defense for Acquisition, Technology, and Logistics shall, in consultation with the Director of Cost Assessment and Program Evaluation, develop policies, procedures, and guidance to ensure that cost analyses and targets” for “cost analyses and targets”.
+    Subsec. (e)(2). [Pub. L. 112–81][/us/pl/112/81], § 833(3), substituted “The Under Secretary of Defense for Acquisition, Technology, and Logistics shall, in consultation with the Director of Cost Assessment and Program Evaluation, develop policies, procedures, and guidance to ensure that cost analyses and targets” for “cost analyses and targets”.
 
-    [Pub. L. 112–81, § 833(2)(C)][/us/pl/112/81/s833/2/C], redesignated par. (1)(B) as (2) and realigned margin. Former par. (2) redesignated (3).
+    [Pub. L. 112–81][/us/pl/112/81], § 833(2)(C), redesignated par. (1)(B) as (2) and realigned margin. Former par. (2) redesignated (3).
 
-    Subsec. (e)(3). [Pub. L. 112–81, § 833(4)][/us/pl/112/81/s833/4], substituted “issued by the Under Secretary of Defense for Acquisition, Technology, and Logistics under paragraph (2)” for “issued by the Director of Cost Assessment and Program Evaluation”.
+    Subsec. (e)(3). [Pub. L. 112–81][/us/pl/112/81], § 833(4), substituted “issued by the Under Secretary of Defense for Acquisition, Technology, and Logistics under paragraph (2)” for “issued by the Director of Cost Assessment and Program Evaluation”.
 
-    [Pub. L. 112–81, § 833(1)][/us/pl/112/81/s833/1], redesignated par. (2) as (3). Former par. (3) redesignated (4).
+    [Pub. L. 112–81][/us/pl/112/81], § 833(1), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-    Subsec. (e)(4). [Pub. L. 112–81, § 833(1)][/us/pl/112/81/s833/1], redesignated par. (3) as (4). Former par. (4) redesignated (5).
+    Subsec. (e)(4). [Pub. L. 112–81][/us/pl/112/81], § 833(1), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-    Subsec. (e)(5). [Pub. L. 112–81, § 833(5)][/us/pl/112/81/s833/5], substituted “paragraph (4)” for “paragraph (3)” in introductory provisions.
+    Subsec. (e)(5). [Pub. L. 112–81][/us/pl/112/81], § 833(5), substituted “paragraph (4)” for “paragraph (3)” in introductory provisions.
 
-    [Pub. L. 112–81, § 833(1)][/us/pl/112/81/s833/1], redesignated par. (4) as (5).
+    [Pub. L. 112–81][/us/pl/112/81], § 833(1), redesignated par. (4) as (5).
 
-    Subsecs. (f), (g). [Pub. L. 111–383, § 811(2)][/us/pl/111/383/s811/2], redesignated subsecs. (e) and (f) as (f) and (g), respectively.
+    Subsecs. (f), (g). [Pub. L. 111–383][/us/pl/111/383], § 811(2), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
 
 ----------
 
@@ -170,33 +170,33 @@
 [/us/usc/t10/s2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432
 [/us/usc/t10/s2445c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2445c
 [/us/usc/t10/s2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2308
-[/us/pl/111/23/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs101%2Fb%2F1
+[/us/pl/111/23/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2FtI
 [/us/stat/123/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1706
-[/us/pl/111/383/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs811
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4263
-[/us/pl/112/81/s833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs833
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1506
-[/us/pl/113/66/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fc
+[/us/pl/113/66/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVIII
 [/us/stat/127/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F808
-[/us/pl/114/92/s824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs824%2Fb
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F907
-[/us/pl/114/92/s824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs824%2Fb
-[/us/pl/114/92/s1077/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1077%2Fa
-[/us/pl/113/66/s812/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fc%2F1
-[/us/pl/113/66/s812/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fc%2F2%2FA
-[/us/pl/113/66/s812/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fc%2F2%2FB
-[/us/pl/113/66/s812/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fc%2F2%2FC
-[/us/pl/111/383/s811/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs811%2F1%2FA
-[/us/pl/111/383/s811/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs811%2F1%2FB
-[/us/pl/111/383/s811/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs811%2F3
-[/us/pl/112/81/s833/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs833%2F2%2FA
-[/us/pl/112/81/s833/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs833%2F3
-[/us/pl/112/81/s833/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs833%2F2%2FC
-[/us/pl/112/81/s833/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs833%2F4
-[/us/pl/112/81/s833/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs833%2F1
-[/us/pl/112/81/s833/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs833%2F1
-[/us/pl/112/81/s833/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs833%2F5
-[/us/pl/112/81/s833/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs833%2F1
-[/us/pl/111/383/s811/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs811%2F2
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 
 

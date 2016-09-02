@@ -59,9 +59,9 @@
 
  __Amendments__ 
 
-    1962—[Pub. L. 87–769, § 1(2)(B)][/us/pl/87/769/s1/2/B], Oct. 9, 1962, [76 Stat. 768][/us/stat/76/768], struck out item 7625 “Claims against the United States: private property; loss or damage”.
+    1962—[Pub. L. 87–769][/us/pl/87/769], § 1(2)(B), Oct. 9, 1962, [76 Stat. 768][/us/stat/76/768], struck out item 7625 “Claims against the United States: private property; loss or damage”.
 
-    1960—[Pub. L. 86–533, § 1(10)(B)][/us/pl/86/533/s1/10/B], June 29, 1960, [74 Stat. 247][/us/stat/74/247], struck out item 7624 “Reports to Congress”.
+    1960—[Pub. L. 86–533][/us/pl/86/533], § 1(10)(B), June 29, 1960, [74 Stat. 247][/us/stat/74/247], struck out item 7624 “Reports to Congress”.
 
 ----------
 
@@ -70,9 +70,9 @@
 ----------
 ----------
 
-[/us/pl/87/769/s1/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F769%2Fs1%2F2%2FB
+[/us/pl/87/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F769
 [/us/stat/76/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F768
-[/us/pl/86/533/s1/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F533%2Fs1%2F10%2FB
+[/us/pl/86/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F533
 [/us/stat/74/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F247
 
 

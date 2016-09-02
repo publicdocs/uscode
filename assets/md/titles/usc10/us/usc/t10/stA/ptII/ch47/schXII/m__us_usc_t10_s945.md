@@ -77,7 +77,7 @@
 
         (2) Any person with respect to whom this subsection applies shall be eligible to make an election under section 301(a)(2) of the Federal Employees’ Retirement System Act of 1986 to the same extent and in the same manner (including subject to the condition set forth in section 301(d) of such Act) as if such person’s appointment constituted reemployment with the Federal Government.
 
-(Added [Pub. L. 101–189, div. A, title XIII, § 1301(c)][/us/pl/101/189/s1301/c], Nov. 29, 1989, [103 Stat. 1572][/us/stat/103/1572]; amended [Pub. L. 102–190, div. A, title X, § 1061(b)(1)(C)][/us/pl/102/190/s1061/b/1/C], Dec. 5, 1991, [105 Stat. 1474][/us/stat/105/1474]; [Pub. L. 102–484, div. A, title X][/us/pl/102/484], §§ 1052(11), 1062(a)(1), Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499], 2504; [Pub. L. 103–337, div. A, title IX, § 924(c)(1)][/us/pl/103/337/s924/c/1], Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831].)
+(Added [Pub. L. 101–189, div. A, title XIII][/us/pl/101/189/dA/tXIII], § 1301(c), Nov. 29, 1989, [103 Stat. 1572][/us/stat/103/1572]; amended [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1061(b)(1)(C), Dec. 5, 1991, [105 Stat. 1474][/us/stat/105/1474]; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], §§ 1052(11), 1062(a)(1), Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499], 2504; [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(c)(1), Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831].)
 
  __References in Text__ 
 
@@ -87,15 +87,15 @@
 
     1994—Subsecs. (a)(1), (3)(A), (b), (i)(1)(A). [Pub. L. 103–337][/us/pl/103/337] substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
 
-    1992—Subsec. (a)(1). [Pub. L. 102–484, § 1052(11)][/us/pl/102/484/s1052/11], substituted “[section 942(e)(1)(B) of this title][/us/usc/t10/s942/e/1/B] (article 142(e)(1)(B))” for “[section 943(e)(1)(B) of this title][/us/usc/t10/s943/e/1/B] (art. 143(e)(1)(B))”.
+    1992—Subsec. (a)(1). [Pub. L. 102–484][/us/pl/102/484], § 1052(11), substituted “[section 942(e)(1)(B) of this title][/us/usc/t10/s942/e/1/B] (article 142(e)(1)(B))” for “[section 943(e)(1)(B) of this title][/us/usc/t10/s943/e/1/B] (art. 143(e)(1)(B))”.
 
-    Subsec. (i). [Pub. L. 102–484, § 1062(a)(1)][/us/pl/102/484/s1062/a/1], added subsec. (i).
+    Subsec. (i). [Pub. L. 102–484][/us/pl/102/484], § 1062(a)(1), added subsec. (i).
 
     1991—Subsec. (a)(1). [Pub. L. 102–190][/us/pl/102/190] inserted at end “A person who continues service with the court as a senior judge under [section 943(e)(1)(B) of this title][/us/usc/t10/s943/e/1/B] (art. 143(e)(1)(B)) upon the expiration of the judge’s term shall be considered to have been separated from civilian service in the Federal Government only upon the termination of that continuous service.”
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–484, div. A, title X, § 1062(a)(2)][/us/pl/102/484/s1062/a/2], Oct. 23, 1992, [106 Stat. 2505][/us/stat/106/2505], provided that: 
+[Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1062(a)(2), Oct. 23, 1992, [106 Stat. 2505][/us/stat/106/2505], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any appointment which takes effect on or after the date of the enactment of this Act \[Oct. 23, 1992\].”
 
@@ -109,7 +109,7 @@
 
  __Additional Elections__ 
 
-[Pub. L. 102–484, div. A, title X, § 1062(b)][/us/pl/102/484/s1062/b], Oct. 23, 1992, [106 Stat. 2505][/us/stat/106/2505], provided that:
+[Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1062(b), Oct. 23, 1992, [106 Stat. 2505][/us/stat/106/2505], provided that:
 
 >     “(1)
 
@@ -151,31 +151,31 @@
 [/us/usc/t10/s942/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs942%2Fe%2F1%2FB
 [/us/usc/t5/s8331/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331%2F8
 [/us/usc/t5/s8351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8351
-[/us/pl/101/189/s1301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1301%2Fc
+[/us/pl/101/189/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXIII
 [/us/stat/103/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1572
-[/us/pl/102/190/s1061/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fb%2F1%2FC
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1474
-[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2499
-[/us/pl/103/337/s924/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fc%2F1
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2831
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/usc/t5/s8331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
-[/us/pl/102/484/s1052/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F11
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t10/s942/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs942%2Fe%2F1%2FB
 [/us/usc/t10/s943/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs943%2Fe%2F1%2FB
-[/us/pl/102/484/s1062/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1062%2Fa%2F1
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/usc/t10/s943/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs943%2Fe%2F1%2FB
-[/us/pl/102/484/s1062/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1062%2Fa%2F2
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2505
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/102/190/s1061/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fb%2F1%2FD
 [/us/usc/t10/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs942
 [/us/pl/101/189/s1301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1301%2Ff
 [/us/usc/t10/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs942
-[/us/pl/102/484/s1062/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1062%2Fb
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2505
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/usc/t5/s8331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331

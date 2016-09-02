@@ -23,7 +23,7 @@
 
     The Secretary of Defense and the Secretaries of the military departments may charge a fixed rate for reimbursement of the costs of providing planning, supervision, administrative, or overhead services incident to any construction, maintenance, or repair project to real property or for providing facility services, irrespective of the appropriation financing the project or facility services.
 
-(Added [Pub. L. 87–651, title II, § 207(a)][/us/pl/87/651/s207/a], Sept. 7, 1962, [76 Stat. 520][/us/stat/76/520]; amended [Pub. L. 96–513, title V, § 511(71)][/us/pl/96/513/s511/71], Dec. 12, 1980, [94 Stat. 2926][/us/stat/94/2926]; [Pub. L. 97–258, § 3(b)(4)][/us/pl/97/258/s3/b/4], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 103–337, div. B, title XXVIII, § 2804(a)][/us/pl/103/337/s2804/a], (b)(1), Oct. 5, 1994, [108 Stat. 3053][/us/stat/108/3053].)
+(Added [Pub. L. 87–651, title II][/us/pl/87/651/tII], § 207(a), Sept. 7, 1962, [76 Stat. 520][/us/stat/76/520]; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(71), Dec. 12, 1980, [94 Stat. 2926][/us/stat/94/2926]; [Pub. L. 97–258][/us/pl/97/258], § 3(b)(4), Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 103–337, div. B, title XXVIII][/us/pl/103/337/dB/tXXVIII], § 2804(a), (b)(1), Oct. 5, 1994, [108 Stat. 3053][/us/stat/108/3053].)
 
 <table>
 
@@ -90,13 +90,13 @@ July 26, 1947, ch. 343, § 408; added Aug. 10, 1949, ch. 412, § 11 (23d par
 ----------
 ----------
 
-[/us/pl/87/651/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs207%2Fa
+[/us/pl/87/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtII
 [/us/stat/76/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F520
-[/us/pl/96/513/s511/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F71
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2926
-[/us/pl/97/258/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fb%2F4
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1063
-[/us/pl/103/337/s2804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs2804%2Fa
+[/us/pl/103/337/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdB%2FtXXVIII
 [/us/stat/108/3053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3053
 [/us/usc/t5/s172g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs172g
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

@@ -357,7 +357,7 @@ Record of trial.  </td>
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–661, div. A, title VIII, § 802(a)(2)][/us/pl/99/661/s802/a/2], Nov. 14, 1986, [100 Stat. 3906][/us/stat/100/3906], added item 850a.
+    1986—[Pub. L. 99–661, div. A, title VIII][/us/pl/99/661/dA/tVIII], § 802(a)(2), Nov. 14, 1986, [100 Stat. 3906][/us/stat/100/3906], added item 850a.
 
 ----------
 
@@ -366,7 +366,7 @@ Record of trial.  </td>
 ----------
 ----------
 
-[/us/pl/99/661/s802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs802%2Fa%2F2
+[/us/pl/99/661/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVIII
 [/us/stat/100/3906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3906
 
 

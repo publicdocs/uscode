@@ -31,11 +31,11 @@
 
         (2) To facilitate development of early intervention and prevention programs to protect health and readiness.
 
-(Added [Pub. L. 108–375, div. A, title VII, § 733(a)(1)][/us/pl/108/375/s733/a/1], Oct. 28, 2004, [118 Stat. 1997][/us/stat/118/1997].)
+(Added [Pub. L. 108–375, div. A, title VII][/us/pl/108/375/dA/tVII], § 733(a)(1), Oct. 28, 2004, [118 Stat. 1997][/us/stat/118/1997].)
 
  __Time for Implementation__ 
 
-[Pub. L. 108–375, div. A, title VII, § 733(a)(3)][/us/pl/108/375/s733/a/3], Oct. 28, 2004, [118 Stat. 1998][/us/stat/118/1998], provided that: 
+[Pub. L. 108–375, div. A, title VII][/us/pl/108/375/dA/tVII], § 733(a)(3), Oct. 28, 2004, [118 Stat. 1998][/us/stat/118/1998], provided that: 
 
 > “The Secretary of Defense shall implement the program required under [section 1092a of title 10][/us/usc/t10/s1092a], United States Code (as added by paragraph (1)), not later than two years after the date of the enactment of this Act \[Oct. 28, 2004\].”
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/108/375/s733/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs733%2Fa%2F1
+[/us/pl/108/375/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVII
 [/us/stat/118/1997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1997
-[/us/pl/108/375/s733/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs733%2Fa%2F3
+[/us/pl/108/375/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVII
 [/us/stat/118/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1998
 [/us/usc/t10/s1092a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1092a
 

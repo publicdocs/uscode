@@ -17,7 +17,7 @@
 
     A determination of dependency by an administering Secretary under this chapter is conclusive. However, the administering Secretary may change a determination because of new evidence or for other good cause. The Secretary’s determination may not be reviewed in any court or by the Comptroller General, unless there has been fraud or gross negligence.
 
-(Added [Pub. L. 85–861, § 1(25)(B)][/us/pl/85/861/s1/25/B], Sept. 2, 1958, [72 Stat. 1450][/us/stat/72/1450]; amended [Pub. L. 89–614, § 2(1)][/us/pl/89/614/s2/1], Sept. 30, 1966, [80 Stat. 862][/us/stat/80/862]; [Pub. L. 96–513, title V, § 511(34)(A)][/us/pl/96/513/s511/34/A], (36), Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922], 2923; [Pub. L. 98–557, § 19(11)][/us/pl/98/557/s19/11], Oct. 30, 1984, [98 Stat. 2870][/us/stat/98/2870]; [Pub. L. 108–375, div. A, title X, § 1084(c)(1)][/us/pl/108/375/s1084/c/1], Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(25)(B), Sept. 2, 1958, [72 Stat. 1450][/us/stat/72/1450]; amended [Pub. L. 89–614][/us/pl/89/614], § 2(1), Sept. 30, 1966, [80 Stat. 862][/us/stat/80/862]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(34)(A), (36), Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922], 2923; [Pub. L. 98–557][/us/pl/98/557], § 19(11), Oct. 30, 1984, [98 Stat. 2870][/us/stat/98/2870]; [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(c)(1), Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061].)
 
 <table>
 
@@ -67,7 +67,7 @@ June 7, 1956, ch. 374, § 304, 70 Stat. 254.  </td>
 
  __Prior Provisions__ 
 
-    A prior section 1084, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 87][/us/stat/70A/87], related to administration of former sections 1071 to 1086 of this title, prior to repeal by [Pub. L. 85–861, § 36B(5)][/us/pl/85/861/s36B/5], Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570], as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+    A prior section 1084, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 87][/us/stat/70A/87], related to administration of former sections 1071 to 1086 of this title, prior to repeal by [Pub. L. 85–861][/us/pl/85/861], § 36B(5), Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570], as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
  __Amendments__ 
 
@@ -94,19 +94,19 @@ June 7, 1956, ch. 374, § 304, 70 Stat. 254.  </td>
 ----------
 ----------
 
-[/us/pl/85/861/s1/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F25%2FB
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1450
-[/us/pl/89/614/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614%2Fs2%2F1
+[/us/pl/89/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614
 [/us/stat/80/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F862
-[/us/pl/96/513/s511/34/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F34%2FA
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2922
-[/us/pl/98/557/s19/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs19%2F11
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2870
-[/us/pl/108/375/s1084/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fc%2F1
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2061
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F87
-[/us/pl/85/861/s36B/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs36B%2F5
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1570
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557

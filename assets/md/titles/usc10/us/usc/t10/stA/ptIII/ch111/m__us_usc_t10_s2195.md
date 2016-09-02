@@ -49,7 +49,7 @@
 
             (B) a similar cooperative or summer education program of the Agency that meets the criteria for Federal cooperative or summer education programs prescribed by the Office of Personnel Management.
 
-(Added [Pub. L. 101–510, div. A, title II, § 247(a)(1)][/us/pl/101/510/s247/a/1], Nov. 5, 1990, [104 Stat. 1522][/us/stat/104/1522]; amended [Pub. L. 108–136, div. A, title IX, § 926][/us/pl/108/136/s926], Nov. 24, 2003, [117 Stat. 1579][/us/stat/117/1579].)
+(Added [Pub. L. 101–510, div. A, title II][/us/pl/101/510/dA/tII], § 247(a)(1), Nov. 5, 1990, [104 Stat. 1522][/us/stat/104/1522]; amended [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 926, Nov. 24, 2003, [117 Stat. 1579][/us/stat/117/1579].)
 
  __Amendments__ 
 
@@ -64,9 +64,9 @@
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5911/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5911%2Fc
-[/us/pl/101/510/s247/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs247%2Fa%2F1
+[/us/pl/101/510/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtII
 [/us/stat/104/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1522
-[/us/pl/108/136/s926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs926
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1579
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 

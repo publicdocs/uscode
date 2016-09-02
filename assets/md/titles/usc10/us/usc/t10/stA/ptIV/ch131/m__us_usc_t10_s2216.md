@@ -139,7 +139,7 @@
 
         (2) Three years after the termination date specified in paragraph (1), the Defense Modernization Account shall be closed and any remaining balance in the account shall be canceled and thereafter shall not be available for any purpose.
 
-(Added [Pub. L. 104–106, div. A, title IX, § 912(a)(1)][/us/pl/104/106/s912/a/1], Feb. 10, 1996, [110 Stat. 407][/us/stat/110/407]; amended [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136], §§ 1008(a)–(f)(1), 1043(b)(8), Nov. 24, 2003, [117 Stat. 1586][/us/stat/117/1586], 1587, 1611; [Pub. L. 109–364, div. A, title X, § 1071(a)(16)][/us/pl/109/364/s1071/a/16], Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399]; [Pub. L. 113–66, div. A, title X, § 1084(a)(2)][/us/pl/113/66/s1084/a/2], Dec. 26, 2013, [127 Stat. 871][/us/stat/127/871].)
+(Added [Pub. L. 104–106, div. A, title IX][/us/pl/104/106/dA/tIX], § 912(a)(1), Feb. 10, 1996, [110 Stat. 407][/us/stat/110/407]; amended [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], §§ 1008(a)–(f)(1), 1043(b)(8), Nov. 24, 2003, [117 Stat. 1586][/us/stat/117/1586], 1587, 1611; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(16), Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399]; [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1084(a)(2), Dec. 26, 2013, [127 Stat. 871][/us/stat/127/871].)
 
  __Codification__ 
 
@@ -147,7 +147,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2216, added [Pub. L. 99–661, div. A, title XIII, § 1307(a)(1)][/us/pl/99/661/s1307/a/1], Nov. 14, 1986, [100 Stat. 3980][/us/stat/100/3980], related to annual reports on budgeting for inflation, prior to repeal by [Pub. L. 101–510, div. A, title XIII, § 1301(8)][/us/pl/101/510/s1301/8], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668].
+    A prior section 2216, added [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1307(a)(1), Nov. 14, 1986, [100 Stat. 3980][/us/stat/100/3980], related to annual reports on budgeting for inflation, prior to repeal by [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1301(8), Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668].
 
  __Amendments__ 
 
@@ -155,29 +155,29 @@
 
     2006—Subsec. (b)(1). [Pub. L. 109–364][/us/pl/109/364] substituted “subsection (c)(1)(B)(iii)” for “subsections (c)(1)(B)(iii)”.
 
-    2003—Subsec. (b). [Pub. L. 108–136, § 1008(a)(3)][/us/pl/108/136/s1008/a/3], added subsec. (b). Former subsec. (b) redesignated (c).
+    2003—Subsec. (b). [Pub. L. 108–136][/us/pl/108/136], § 1008(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 108–136, § 1008(a)(1)][/us/pl/108/136/s1008/a/1], (2), redesignated subsec. (b) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “Funds transferred to the Defense Modernization Account from funds appropriated for a military department, Defense Agency, or other element of the Department of Defense shall be available in accordance with subsections (f) and (g) only for transfer to funds available for that military department, Defense Agency, or other element.”
+    Subsec. (c). [Pub. L. 108–136][/us/pl/108/136], § 1008(a)(1), (2), redesignated subsec. (b) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “Funds transferred to the Defense Modernization Account from funds appropriated for a military department, Defense Agency, or other element of the Department of Defense shall be available in accordance with subsections (f) and (g) only for transfer to funds available for that military department, Defense Agency, or other element.”
 
-    Subsec. (c)(1)(B)(iii). [Pub. L. 108–136, § 1008(c)(1)][/us/pl/108/136/s1008/c/1], added cl. (iii).
+    Subsec. (c)(1)(B)(iii). [Pub. L. 108–136][/us/pl/108/136], § 1008(c)(1), added cl. (iii).
 
-    Subsec. (c)(2). [Pub. L. 108–136, § 1008(c)(2)][/us/pl/108/136/s1008/c/2], inserted “, other than funds referred to in subparagraph (B)(iii) of such paragraph,” after “Funds referred to in paragraph (1)”.
+    Subsec. (c)(2). [Pub. L. 108–136][/us/pl/108/136], § 1008(c)(2), inserted “, other than funds referred to in subparagraph (B)(iii) of such paragraph,” after “Funds referred to in paragraph (1)”.
 
-    Subsec. (d). [Pub. L. 108–136, § 1008(b)][/us/pl/108/136/s1008/b], substituted “in the Defense Modernization Account” for “available from the Defense Modernization Account pursuant to subsection (f) or (g)” in introductory provisions, added par. (1), and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+    Subsec. (d). [Pub. L. 108–136][/us/pl/108/136], § 1008(b), substituted “in the Defense Modernization Account” for “available from the Defense Modernization Account pursuant to subsection (f) or (g)” in introductory provisions, added par. (1), and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-    Subsec. (h). [Pub. L. 108–136, § 1008(d)][/us/pl/108/136/s1008/d], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (h). [Pub. L. 108–136][/us/pl/108/136], § 1008(d), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (i). [Pub. L. 108–136, § 1008(e)(1)][/us/pl/108/136/s1008/e/1], substituted “Annual Report” for “Quarterly Reports” in heading.
+    Subsec. (i). [Pub. L. 108–136][/us/pl/108/136], § 1008(e)(1), substituted “Annual Report” for “Quarterly Reports” in heading.
 
-    Subsec. (i)(1). [Pub. L. 108–136, § 1008(e)(1)][/us/pl/108/136/s1008/e/1], (2), substituted “fiscal year” for “calendar quarter” in introductory provisions and “fiscal year” for “quarter” in subpars. (A) to (C).
+    Subsec. (i)(1). [Pub. L. 108–136][/us/pl/108/136], § 1008(e)(1), (2), substituted “fiscal year” for “calendar quarter” in introductory provisions and “fiscal year” for “quarter” in subpars. (A) to (C).
 
-    Subsec. (j)(3). [Pub. L. 108–136, § 1043(b)(8)][/us/pl/108/136/s1043/b/8], struck out par. (3) which read as follows: “The term ‘congressional defense committees’ means—
+    Subsec. (j)(3). [Pub. L. 108–136][/us/pl/108/136], § 1043(b)(8), struck out par. (3) which read as follows: “The term ‘congressional defense committees’ means—
 
     “(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 
     “(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
 
-    Subsec. (k). [Pub. L. 108–136, § 1008(f)(1)][/us/pl/108/136/s1008/f/1], added subsec. (k).
+    Subsec. (k). [Pub. L. 108–136][/us/pl/108/136], § 1008(f)(1), added subsec. (k).
 
     1999—Subsec. (j)(3)(B). [Pub. L. 106–65][/us/pl/106/65] substituted “Committee on Armed Services” for “Committee on National Security”.
 
@@ -189,17 +189,17 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–106, div. A, title IX, § 912(b)][/us/pl/104/106/s912/b], Feb. 10, 1996, [110 Stat. 410][/us/stat/110/410], provided that: 
+[Pub. L. 104–106, div. A, title IX][/us/pl/104/106/dA/tIX], § 912(b), Feb. 10, 1996, [110 Stat. 410][/us/stat/110/410], provided that: 
 
 > “[Section 2216 of title 10][/us/usc/t10/s2216], United States Code (as added by subsection (a)), shall apply only to funds appropriated for fiscal years after fiscal year 1995.”
 
  __Expiration of Authority and Account__ 
 
-    [Pub. L. 104–106, div. A, title IX, § 912(c)][/us/pl/104/106/s912/c], Feb. 10, 1996, [110 Stat. 410][/us/stat/110/410], as amended by [Pub. L. 107–314, div. A, title VIII, § 825(a)(1)][/us/pl/107/314/s825/a/1], Dec. 2, 2002, [116 Stat. 2615][/us/stat/116/2615], provided that authority under [section 2216(b) of this title][/us/usc/t10/s2216/b] to transfer funds into Defense Modernization Account terminated at close of Sept. 30, 2002, and the Account was to be closed three years later, prior to repeal by [Pub. L. 108–136, div. A, title X, § 1008(f)(2)][/us/pl/108/136/s1008/f/2], Nov. 24, 2003, [117 Stat. 1587][/us/stat/117/1587].
+    [Pub. L. 104–106, div. A, title IX][/us/pl/104/106/dA/tIX], § 912(c), Feb. 10, 1996, [110 Stat. 410][/us/stat/110/410], as amended by [Pub. L. 107–314, div. A, title VIII][/us/pl/107/314/dA/tVIII], § 825(a)(1), Dec. 2, 2002, [116 Stat. 2615][/us/stat/116/2615], provided that authority under [section 2216(b) of this title][/us/usc/t10/s2216/b] to transfer funds into Defense Modernization Account terminated at close of Sept. 30, 2002, and the Account was to be closed three years later, prior to repeal by [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1008(f)(2), Nov. 24, 2003, [117 Stat. 1587][/us/stat/117/1587].
 
  __GAO Reviews__ 
 
-    [Pub. L. 104–106, div. A, title IX, § 912(d)][/us/pl/104/106/s912/d], Feb. 10, 1996, [110 Stat. 410][/us/stat/110/410], required Comptroller General of the United States to conduct two reviews of the administration of the Defense Modernization Account, prior to repeal by [Pub. L. 107–314, div. A, title VIII, § 825(a)(2)][/us/pl/107/314/s825/a/2], Dec. 2, 2002, [116 Stat. 2615][/us/stat/116/2615].
+    [Pub. L. 104–106, div. A, title IX][/us/pl/104/106/dA/tIX], § 912(d), Feb. 10, 1996, [110 Stat. 410][/us/stat/110/410], required Comptroller General of the United States to conduct two reviews of the administration of the Defense Modernization Account, prior to repeal by [Pub. L. 107–314, div. A, title VIII][/us/pl/107/314/dA/tVIII], § 825(a)(2), Dec. 2, 2002, [116 Stat. 2615][/us/stat/116/2615].
 
 ----------
 
@@ -208,47 +208,47 @@
 ----------
 ----------
 
-[/us/pl/104/106/s912/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs912%2Fa%2F1
+[/us/pl/104/106/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIX
 [/us/stat/110/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F407
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1586
-[/us/pl/109/364/s1071/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F16
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2399
-[/us/pl/113/66/s1084/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1084%2Fa%2F2
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F871
 [/us/usc/t10/s2216a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2216a
-[/us/pl/99/661/s1307/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1307%2Fa%2F1
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3980
-[/us/pl/101/510/s1301/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1301%2F8
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1668
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/108/136/s1008/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1008%2Fa%2F3
-[/us/pl/108/136/s1008/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1008%2Fa%2F1
-[/us/pl/108/136/s1008/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1008%2Fc%2F1
-[/us/pl/108/136/s1008/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1008%2Fc%2F2
-[/us/pl/108/136/s1008/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1008%2Fb
-[/us/pl/108/136/s1008/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1008%2Fd
-[/us/pl/108/136/s1008/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1008%2Fe%2F1
-[/us/pl/108/136/s1008/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1008%2Fe%2F1
-[/us/pl/108/136/s1043/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1043%2Fb%2F8
-[/us/pl/108/136/s1008/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1008%2Ff%2F1
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/104/106/s912/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs912%2Fb
+[/us/pl/104/106/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIX
 [/us/stat/110/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F410
 [/us/usc/t10/s2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2216
-[/us/pl/104/106/s912/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs912%2Fc
+[/us/pl/104/106/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIX
 [/us/stat/110/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F410
-[/us/pl/107/314/s825/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs825%2Fa%2F1
+[/us/pl/107/314/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVIII
 [/us/stat/116/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2615
 [/us/usc/t10/s2216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2216%2Fb
-[/us/pl/108/136/s1008/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1008%2Ff%2F2
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1587
-[/us/pl/104/106/s912/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs912%2Fd
+[/us/pl/104/106/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIX
 [/us/stat/110/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F410
-[/us/pl/107/314/s825/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs825%2Fa%2F2
+[/us/pl/107/314/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVIII
 [/us/stat/116/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2615
 
 

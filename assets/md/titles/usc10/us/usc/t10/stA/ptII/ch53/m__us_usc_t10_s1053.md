@@ -33,7 +33,7 @@
 
         (2) The term “pay” includes (A) retired pay, and (B) allowances.
 
-(Added [Pub. L. 99–661, div. A, title VI, § 662(a)(1)][/us/pl/99/661/s662/a/1], Nov. 14, 1986, [100 Stat. 3893][/us/stat/100/3893]; amended [Pub. L. 101–189, div. A, title VI, § 664(a)(1)][/us/pl/101/189/s664/a/1]–(3)(A), Nov. 29, 1989, [103 Stat. 1466][/us/stat/103/1466]; [Pub. L. 102–25, title VII, § 701(e)(8)(A)][/us/pl/102/25/s701/e/8/A], Apr. 6, 1991, [105 Stat. 115][/us/stat/105/115]; [Pub. L. 104–106, div. A, title XV, § 1501(c)(8)][/us/pl/104/106/s1501/c/8], Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499]; [Pub. L. 105–261, div. A, title V, § 564(a)][/us/pl/105/261/s564/a], Oct. 17, 1998, [112 Stat. 2029][/us/stat/112/2029]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 579(c)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–141.)
+(Added [Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], § 662(a)(1), Nov. 14, 1986, [100 Stat. 3893][/us/stat/100/3893]; amended [Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 664(a)(1)–(3)(A), Nov. 29, 1989, [103 Stat. 1466][/us/stat/103/1466]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 701(e)(8)(A), Apr. 6, 1991, [105 Stat. 115][/us/stat/105/115]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(c)(8), Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499]; [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 564(a), Oct. 17, 1998, [112 Stat. 2029][/us/stat/112/2029]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 579(c)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–141.)
 
  __Amendments__ 
 
@@ -45,25 +45,25 @@
 
     1991—[Pub. L. 102–25][/us/pl/102/25] struck out “mandatory” after “error in” in section catchline.
 
-    1989—[Pub. L. 101–189, § 664(a)(3)(A)][/us/pl/101/189/s664/a/3/A], amended section catchline generally, substituting “Reimbursement for financial institution charges incurred because of Government” for “Relief for expenses because of”.
+    1989—[Pub. L. 101–189][/us/pl/101/189], § 664(a)(3)(A), amended section catchline generally, substituting “Reimbursement for financial institution charges incurred because of Government” for “Relief for expenses because of”.
 
-    Subsec. (a). [Pub. L. 101–189, § 664(a)(1)][/us/pl/101/189/s664/a/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A member of the armed forces who, by law or regulation, is required to participate in a program for the automatic deposit of pay to a financial institution may be reimbursed for overdraft charges levied by the financial institution when such charges result from an administrative or mechanical error on the part of the Government that causes such member’s pay to be deposited late or in an incorrect amount or manner.”
+    Subsec. (a). [Pub. L. 101–189][/us/pl/101/189], § 664(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A member of the armed forces who, by law or regulation, is required to participate in a program for the automatic deposit of pay to a financial institution may be reimbursed for overdraft charges levied by the financial institution when such charges result from an administrative or mechanical error on the part of the Government that causes such member’s pay to be deposited late or in an incorrect amount or manner.”
 
-    Subsec. (d). [Pub. L. 101–189, § 664(a)(2)][/us/pl/101/189/s664/a/2], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In this section, the term ‘financial institution’ has the meaning given that term in [section 3332 of title 31][/us/usc/t31/s3332].”
+    Subsec. (d). [Pub. L. 101–189][/us/pl/101/189], § 664(a)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In this section, the term ‘financial institution’ has the meaning given that term in [section 3332 of title 31][/us/usc/t31/s3332].”
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–106, div. A, title XV, § 1501(c)][/us/pl/104/106/s1501/c], Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498], provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as originally enacted.
+    [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(c), Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498], provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as originally enacted.
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–189, div. A, title VI, § 664(c)][/us/pl/101/189/s664/c], Nov. 29, 1989, [103 Stat. 1467][/us/stat/103/1467], provided that: 
+[Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 664(c), Nov. 29, 1989, [103 Stat. 1467][/us/stat/103/1467], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\], and [section 1594 of title 10][/us/usc/t10/s1594], United States Code, as added by subsection (b), shall apply with respect to pay and allowances deposited (or scheduled to be deposited) on or after the first day of the first month beginning after the date of the enactment of this Act \[Nov. 29, 1989\].”
 
  __Effective Date__ 
 
-[Pub. L. 99–661, div. A, title VI, § 662(c)][/us/pl/99/661/s662/c], Nov. 14, 1986, [100 Stat. 3894][/us/stat/100/3894], provided that: 
+[Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], § 662(c), Nov. 14, 1986, [100 Stat. 3894][/us/stat/100/3894], provided that: 
 
 > “[Section 1053 of title 10][/us/usc/t10/s1053], United States Code, as added by subsection (a), shall apply only with respect to charges levied as a result of errors occurring on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
@@ -74,34 +74,34 @@
 ----------
 ----------
 
-[/us/pl/99/661/s662/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs662%2Fa%2F1
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3893
-[/us/pl/101/189/s664/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs664%2Fa%2F1
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1466
-[/us/pl/102/25/s701/e/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Fe%2F8%2FA
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F115
-[/us/pl/104/106/s1501/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc%2F8
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F499
-[/us/pl/105/261/s564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs564%2Fa
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2029
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t31/s3332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3332%2Fa
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
-[/us/pl/101/189/s664/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs664%2Fa%2F3%2FA
-[/us/pl/101/189/s664/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs664%2Fa%2F1
-[/us/pl/101/189/s664/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs664%2Fa%2F2
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t31/s3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3332
-[/us/pl/104/106/s1501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F498
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
-[/us/pl/101/189/s664/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs664%2Fc
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1467
 [/us/usc/t10/s1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1594
-[/us/pl/99/661/s662/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs662%2Fc
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3894
 [/us/usc/t10/s1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1053
 

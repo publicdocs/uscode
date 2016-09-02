@@ -61,33 +61,33 @@
 
     Notwithstanding section 101 of the Defense Production Act of 1950 (50 U.S.C. App. 2071), each aircraft covered by a contract entered into under this section shall be committed exclusively to the Civil Reserve Air Fleet for use by the Department of Defense as needed during any activation of the Civil Reserve Air Fleet unless the aircraft is released from that use by the Secretary of Defense.
 
-(Added [Pub. L. 97–86, title IX, § 915(2)][/us/pl/97/86/s915/2], Dec. 1, 1981, [95 Stat. 1126][/us/stat/95/1126]; amended [Pub. L. 98–525, title XIV, § 1405(57)][/us/pl/98/525/s1405/57], Oct. 19, 1984, [98 Stat. 2626][/us/stat/98/2626]; [Pub. L. 101–189, div. A, title XVI, § 1636(b)][/us/pl/101/189/s1636/b], Nov. 29, 1989, [103 Stat. 1609][/us/stat/103/1609]; [Pub. L. 103–272, § 5(b)(3)][/us/pl/103/272/s5/b/3], July 5, 1994, [108 Stat. 1373][/us/stat/108/1373]; [Pub. L. 103–355, title III, § 3032(1)][/us/pl/103/355/s3032/1]–(8), Oct. 13, 1994, [108 Stat. 3334][/us/stat/108/3334], 3335; [Pub. L. 104–106, div. A, title X, § 1087][/us/pl/104/106/s1087], Feb. 10, 1996, [110 Stat. 458][/us/stat/110/458].)
+(Added [Pub. L. 97–86, title IX][/us/pl/97/86/tIX], § 915(2), Dec. 1, 1981, [95 Stat. 1126][/us/stat/95/1126]; amended [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(57), Oct. 19, 1984, [98 Stat. 2626][/us/stat/98/2626]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1636(b), Nov. 29, 1989, [103 Stat. 1609][/us/stat/103/1609]; [Pub. L. 103–272][/us/pl/103/272], § 5(b)(3), July 5, 1994, [108 Stat. 1373][/us/stat/108/1373]; [Pub. L. 103–355, title III][/us/pl/103/355/tIII], § 3032(1)–(8), Oct. 13, 1994, [108 Stat. 3334][/us/stat/108/3334], 3335; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1087, Feb. 10, 1996, [110 Stat. 458][/us/stat/110/458].)
 
  __Codification__ 
 
-    The text of subsecs. (a) and (b) of [section 9513 of this title][/us/usc/t10/s9513], which were redesignated as subsecs. (b) and (e) of this section by [Pub. L. 103–355, § 3032(4)][/us/pl/103/355/s3032/4], (5), was based on [Pub. L. 97–86, title IX, § 915(2)][/us/pl/97/86/s915/2], Dec. 1, 1981, [95 Stat. 1128][/us/stat/95/1128]; amended [Pub. L. 101–189, div. A, title XVI, § 1636(c)(1)][/us/pl/101/189/s1636/c/1], Nov. 29, 1989, [103 Stat. 1610][/us/stat/103/1610].
+    The text of subsecs. (a) and (b) of [section 9513 of this title][/us/usc/t10/s9513], which were redesignated as subsecs. (b) and (e) of this section by [Pub. L. 103–355][/us/pl/103/355], § 3032(4), (5), was based on [Pub. L. 97–86, title IX][/us/pl/97/86/tIX], § 915(2), Dec. 1, 1981, [95 Stat. 1128][/us/stat/95/1128]; amended [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1636(c)(1), Nov. 29, 1989, [103 Stat. 1610][/us/stat/103/1610].
 
  __Amendments__ 
 
     1996—Subsecs. (b)(2), (e). [Pub. L. 104–106][/us/pl/104/106] struck out “full” before “Civil Reserve Air Fleet”.
 
-    1994—Subsec. (a). [Pub. L. 103–355, § 3032(1)][/us/pl/103/355/s3032/1], inserted heading.
+    1994—Subsec. (a). [Pub. L. 103–355][/us/pl/103/355], § 3032(1), inserted heading.
 
-    Subsec. (b). [Pub. L. 103–355, § 3032(6)][/us/pl/103/355/s3032/6], inserted heading and substituted “entered into under this section” for “under [section 9512 of this title][/us/usc/t10/s9512]” in introductory provisions.
+    Subsec. (b). [Pub. L. 103–355][/us/pl/103/355], § 3032(6), inserted heading and substituted “entered into under this section” for “under [section 9512 of this title][/us/usc/t10/s9512]” in introductory provisions.
 
-    [Pub. L. 103–355, § 3032(4)][/us/pl/103/355/s3032/4], redesignated subsec. (a) of [section 9513 of this title][/us/usc/t10/s9513] as subsec. (b) of this section. Former subsec. (b) redesignated (c). See Codification note above.
+    [Pub. L. 103–355][/us/pl/103/355], § 3032(4), redesignated subsec. (a) of [section 9513 of this title][/us/usc/t10/s9513] as subsec. (b) of this section. Former subsec. (b) redesignated (c). See Codification note above.
 
     Subsec. (b)(4). [Pub. L. 103–272][/us/pl/103/272] substituted “[section 44103 of title 49][/us/usc/t49/s44103]” for “section 501 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1401)”.
 
-    Subsec. (c). [Pub. L. 103–355, § 3032(7)][/us/pl/103/355/s3032/7], struck out “the terms required by [section 9513 of this title][/us/usc/t10/s9513] and” before “a provision that requires the contractor” in introductory provisions.
+    Subsec. (c). [Pub. L. 103–355][/us/pl/103/355], § 3032(7), struck out “the terms required by [section 9513 of this title][/us/usc/t10/s9513] and” before “a provision that requires the contractor” in introductory provisions.
 
-    [Pub. L. 103–355, § 3032(3)][/us/pl/103/355/s3032/3], redesignated subsec. (b) as (c) and inserted heading. Former subsec. (c) redesignated (d).
+    [Pub. L. 103–355][/us/pl/103/355], § 3032(3), redesignated subsec. (b) as (c) and inserted heading. Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 103–355, § 3032(2)][/us/pl/103/355/s3032/2], redesignated subsec. (c) as (d) and inserted heading.
+    Subsec. (d). [Pub. L. 103–355][/us/pl/103/355], § 3032(2), redesignated subsec. (c) as (d) and inserted heading.
 
-    Subsec. (e). [Pub. L. 103–355, § 3032(8)][/us/pl/103/355/s3032/8], inserted heading and substituted “entered into under this section” for “under [section 9512 of this title][/us/usc/t10/s9512]”.
+    Subsec. (e). [Pub. L. 103–355][/us/pl/103/355], § 3032(8), inserted heading and substituted “entered into under this section” for “under [section 9512 of this title][/us/usc/t10/s9512]”.
 
-    [Pub. L. 103–355, § 3032(5)][/us/pl/103/355/s3032/5], redesignated subsec. (b) of [section 9513 of this title][/us/usc/t10/s9513] as subsec. (e) of this section. See Codification note above.
+    [Pub. L. 103–355][/us/pl/103/355], § 3032(5), redesignated subsec. (b) of [section 9513 of this title][/us/usc/t10/s9513] as subsec. (e) of this section. See Codification note above.
 
     1989—[Pub. L. 101–189][/us/pl/101/189] substituted “Contracts for the inclusion or incorporation of defense features” for “Contracts to modify aircraft: cargo-convertible features” as section catchline and amended text generally, substituting subsecs. (a) to (c) for former subsecs. (a) to (e).
 
@@ -105,39 +105,39 @@
 ----------
 
 [/us/usc/t49/s44103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44103
-[/us/pl/97/86/s915/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs915%2F2
+[/us/pl/97/86/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIX
 [/us/stat/95/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1126
-[/us/pl/98/525/s1405/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F57
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2626
-[/us/pl/101/189/s1636/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1636%2Fb
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1609
-[/us/pl/103/272/s5/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fb%2F3
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1373
-[/us/pl/103/355/s3032/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3032%2F1
+[/us/pl/103/355/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtIII
 [/us/stat/108/3334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3334
-[/us/pl/104/106/s1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1087
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F458
 [/us/usc/t10/s9513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9513
-[/us/pl/103/355/s3032/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3032%2F4
-[/us/pl/97/86/s915/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs915%2F2
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/97/86/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIX
 [/us/stat/95/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1128
-[/us/pl/101/189/s1636/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1636%2Fc%2F1
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1610
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/355/s3032/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3032%2F1
-[/us/pl/103/355/s3032/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3032%2F6
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/usc/t10/s9512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9512
-[/us/pl/103/355/s3032/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3032%2F4
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/usc/t10/s9513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9513
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s44103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44103
-[/us/pl/103/355/s3032/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3032%2F7
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/usc/t10/s9513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9513
-[/us/pl/103/355/s3032/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3032%2F3
-[/us/pl/103/355/s3032/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3032%2F2
-[/us/pl/103/355/s3032/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3032%2F8
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/usc/t10/s9512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9512
-[/us/pl/103/355/s3032/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3032%2F5
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/usc/t10/s9513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9513
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525

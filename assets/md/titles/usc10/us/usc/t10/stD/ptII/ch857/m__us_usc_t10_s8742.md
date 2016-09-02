@@ -23,7 +23,7 @@
 
     (3) while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 540][/us/stat/70A/540]; [Pub. L. 86–593, § 1(1)][/us/pl/86/593/s1/1], July 6, 1960, [74 Stat. 331][/us/stat/74/331]; [Pub. L. 88–77, § 3(2)][/us/pl/88/77/s3/2], July 25, 1963, [77 Stat. 94][/us/stat/77/94].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 540][/us/stat/70A/540]; [Pub. L. 86–593][/us/pl/86/593], § 1(1), July 6, 1960, [74 Stat. 331][/us/stat/74/331]; [Pub. L. 88–77][/us/pl/88/77], § 3(2), July 25, 1963, [77 Stat. 94][/us/stat/77/94].)
 
 <table>
 
@@ -79,7 +79,7 @@ July 9, 1918, ch. 143 (9th par. under “Ordnance Department”), 40 Stat. 870. 
 
  __References to Distinguished-Service Cross and Soldier’s Medal Considered Made to Air Force Cross and Airman’s Medal__ 
 
-[Pub. L. 86–593, § 3][/us/pl/86/593/s3], July 6, 1960, [74 Stat. 332][/us/stat/74/332], provided that: 
+[Pub. L. 86–593][/us/pl/86/593], § 3, July 6, 1960, [74 Stat. 332][/us/stat/74/332], provided that: 
 
 > “References that other laws, regulations, and orders make, with respect to the Air Force, to the distinguished-service cross and the Soldier’s Medal shall be considered to be made to the Air Force cross and the Airman’s Medal, respectively.”
 
@@ -92,14 +92,14 @@ July 9, 1918, ch. 143 (9th par. under “Ordnance Department”), 40 Stat. 870. 
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F540
-[/us/pl/86/593/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F593%2Fs1%2F1
+[/us/pl/86/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F593
 [/us/stat/74/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F331
-[/us/pl/88/77/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F77%2Fs3%2F2
+[/us/pl/88/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F77
 [/us/stat/77/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F94
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/pl/88/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F77
 [/us/pl/86/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F593
-[/us/pl/86/593/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F593%2Fs3
+[/us/pl/86/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F593
 [/us/stat/74/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F332
 
 

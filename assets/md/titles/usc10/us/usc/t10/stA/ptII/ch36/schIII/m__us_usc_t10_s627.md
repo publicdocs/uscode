@@ -17,7 +17,7 @@
 
     An officer in a grade below the grade of colonel or, in the case of an officer of the Navy, captain who is in or above the promotion zone established for his grade and competitive category under [section 623 of this title][/us/usc/t10/s623] and is considered but not selected for promotion by a selection board convened under [section 611(a) of this title][/us/usc/t10/s611/a] shall be considered to have failed of selection for promotion.
 
-(Added [Pub. L. 96–513, title I, § 105][/us/pl/96/513/s105], Dec. 12, 1980, [94 Stat. 2859][/us/stat/94/2859].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 105, Dec. 12, 1980, [94 Stat. 2859][/us/stat/94/2859].)
 
  __Effective Date__ 
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t10/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs623
 [/us/usc/t10/s611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs611%2Fa
-[/us/pl/96/513/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs105
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2859
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101

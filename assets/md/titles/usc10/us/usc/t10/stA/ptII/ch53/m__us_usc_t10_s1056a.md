@@ -63,7 +63,7 @@
 
             (C) other activities to facilitate return of the recovered person to military duty or employment with the Department of Defense as expeditiously as possible following such a separation.
 
-(Added [Pub. L. 112–81, div. A, title V, § 588(a)][/us/pl/112/81/s588/a], Dec. 31, 2011, [125 Stat. 1436][/us/stat/125/1436].)
+(Added [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 588(a), Dec. 31, 2011, [125 Stat. 1436][/us/stat/125/1436].)
 
 ----------
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/112/81/s588/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs588%2Fa
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1436
 
 

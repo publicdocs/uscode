@@ -23,7 +23,7 @@
 
     (3) while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 540][/us/stat/70A/540]; [Pub. L. 88–77, § 3(1)][/us/pl/88/77/s3/1], July 25, 1963, [77 Stat. 94][/us/stat/77/94].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 540][/us/stat/70A/540]; [Pub. L. 88–77][/us/pl/88/77], § 3(1), July 25, 1963, [77 Stat. 94][/us/stat/77/94].)
 
 <table>
 
@@ -84,7 +84,7 @@ The words “That the provisions of existing law relating to the award of medals
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F540
-[/us/pl/88/77/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F77%2Fs3%2F1
+[/us/pl/88/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F77
 [/us/stat/77/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F94
 [/us/act/1918-07-09/ch143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-09%2Fch143
 [/us/stat/40/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F870

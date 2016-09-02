@@ -43,11 +43,11 @@
 
     The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added and amended [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 684(a), 687(c)(14), Jan. 6, 2006, [119 Stat. 3324][/us/stat/119/3324], 3335.)
+(Added and amended [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], §§ 684(a), 687(c)(14), Jan. 6, 2006, [119 Stat. 3324][/us/stat/119/3324], 3335.)
 
  __Amendments__ 
 
-    2006—Subsec. (d). [Pub. L. 109–163, § 687(c)(14)][/us/pl/109/163/s687/c/14], added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “If a person on whose behalf a loan is repaid under subsection (a) fails to commence or complete the period of obligated service specified in the agreement described in subsection (a)(3), the Secretary concerned may require the person to pay the United States an amount equal to the amount of the loan repayments made on behalf of the person in connection with the agreement.”
+    2006—Subsec. (d). [Pub. L. 109–163][/us/pl/109/163], § 687(c)(14), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “If a person on whose behalf a loan is repaid under subsection (a) fails to commence or complete the period of obligated service specified in the agreement described in subsection (a)(3), the Secretary concerned may require the person to pay the United States an amount equal to the amount of the loan repayments made on behalf of the person in connection with the agreement.”
 
  __Savings Provision__ 
 
@@ -61,9 +61,9 @@
 ----------
 
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3324
-[/us/pl/109/163/s687/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fc%2F14
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/163/s687/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fc
 [/us/pl/109/163/s687/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Ff
 [/us/usc/t10/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs510

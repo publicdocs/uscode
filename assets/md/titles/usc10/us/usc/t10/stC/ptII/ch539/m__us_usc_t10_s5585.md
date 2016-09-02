@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5582.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5586.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5585)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5583 _us_usc_t10_s5584.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5586.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5585)
 
 ## § 5585. Regular Marine Corps: order of filling vacancies in grade of second lieutenant
 
     Vacancies on the active-duty list of the Marine Corps in the grade of second lieutenant shall be filled, so far as practicable, first, from members of the graduating class of the Naval Academy; second, from meritorious noncommissioned officers of the Regular Marine Corps; and third, from other persons.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 324][/us/stat/70A/324]; [Pub. L. 96–513, title V, § 503(29)][/us/pl/96/513/s503/29], Dec. 12, 1980, [94 Stat. 2913][/us/stat/94/2913].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 324][/us/stat/70A/324]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 503(29), Dec. 12, 1980, [94 Stat. 2913][/us/stat/94/2913].)
 
 <table>
 
@@ -75,14 +75,14 @@ Mar. 3, 1899, ch. 413, § 19, 30 Stat. 1008; Mar. 3, 1903, ch. 1010, 32 Stat. 
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5582.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5586.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5585)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5583 _us_usc_t10_s5584.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5586.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5585)
 
 ----------
 ----------
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F324
-[/us/pl/96/513/s503/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs503%2F29
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2913
 [/us/usc/t34/s1020e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs1020e
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

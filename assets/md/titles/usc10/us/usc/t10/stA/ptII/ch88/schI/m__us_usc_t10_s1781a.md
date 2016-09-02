@@ -75,33 +75,33 @@
 
             (B) Recommendations on actions to be taken to improve the capability of the military family readiness programs and activities of the Department of Defense to meet the needs and requirements of military families, including actions relating to the allocation of funding and other resources to and among such programs and activities.
 
-(Added [Pub. L. 110–181, div. A, title V, § 581(a)][/us/pl/110/181/s581/a], Jan. 28, 2008, [122 Stat. 120][/us/stat/122/120]; amended [Pub. L. 111–84, div. A, title V, § 562][/us/pl/111/84/s562], Oct. 28, 2009, [123 Stat. 2303][/us/stat/123/2303]; [Pub. L. 111–383, div. A, title V, § 581][/us/pl/111/383/s581], Jan. 7, 2011, [124 Stat. 4226][/us/stat/124/4226]; [Pub. L. 112–81, div. A, title V, § 574][/us/pl/112/81/s574], Dec. 31, 2011, [125 Stat. 1427][/us/stat/125/1427].)
+(Added [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 581(a), Jan. 28, 2008, [122 Stat. 120][/us/stat/122/120]; amended [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 562, Oct. 28, 2009, [123 Stat. 2303][/us/stat/123/2303]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 581, Jan. 7, 2011, [124 Stat. 4226][/us/stat/124/4226]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 574, Dec. 31, 2011, [125 Stat. 1427][/us/stat/125/1427].)
 
  __Amendments__ 
 
     2011—Subsec. (b). [Pub. L. 112–81][/us/pl/112/81] amended subsec. (b) generally. Prior to amendment, subsec. (b) related to members.
 
-    Subsec. (b)(1)(B). [Pub. L. 111–383, § 581(d)(1)(A)][/us/pl/111/383/s581/d/1/A], struck out “, who shall be appointed by the Secretary of Defense” after “Air Force”.
+    Subsec. (b)(1)(B). [Pub. L. 111–383][/us/pl/111/383], § 581(d)(1)(A), struck out “, who shall be appointed by the Secretary of Defense” after “Air Force”.
 
-    Subsec. (b)(1)(C). [Pub. L. 111–383, § 581(d)(1)(B)][/us/pl/111/383/s581/d/1/B], struck out “, who shall be appointed by the Secretary of Defense” after “Air National Guard” in cl. (i) and after “Air Force Reserve” in cl. (ii).
+    Subsec. (b)(1)(C). [Pub. L. 111–383][/us/pl/111/383], § 581(d)(1)(B), struck out “, who shall be appointed by the Secretary of Defense” after “Air National Guard” in cl. (i) and after “Air Force Reserve” in cl. (ii).
 
-    Subsec. (b)(1)(D). [Pub. L. 111–383, § 581(d)(1)(C)][/us/pl/111/383/s581/d/1/C], struck out “by the Secretary of Defense” after “appointed”.
+    Subsec. (b)(1)(D). [Pub. L. 111–383][/us/pl/111/383], § 581(d)(1)(C), struck out “by the Secretary of Defense” after “appointed”.
 
-    Subsec. (b)(1)(E). [Pub. L. 111–383, § 581(a)(1)(B)][/us/pl/111/383/s581/a/1/B], added subpar. (E). Former subpar. (E) redesignated (F).
+    Subsec. (b)(1)(E). [Pub. L. 111–383][/us/pl/111/383], § 581(a)(1)(B), added subpar. (E). Former subpar. (E) redesignated (F).
 
-    Subsec. (b)(1)(F). [Pub. L. 111–383, § 581(c)][/us/pl/111/383/s581/c], amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “In addition to the representatives appointed under subparagraphs (B) and (C), the senior enlisted advisors of the Army, Navy, Marine Corps, and Air Force, or the spouse of a senior enlisted member from each of the Army, Navy, Marine Corps, and Air Force.”
+    Subsec. (b)(1)(F). [Pub. L. 111–383][/us/pl/111/383], § 581(c), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “In addition to the representatives appointed under subparagraphs (B) and (C), the senior enlisted advisors of the Army, Navy, Marine Corps, and Air Force, or the spouse of a senior enlisted member from each of the Army, Navy, Marine Corps, and Air Force.”
 
-    [Pub. L. 111–383, § 581(a)(1)(A)][/us/pl/111/383/s581/a/1/A], redesignated subpar. (E) as (F).
+    [Pub. L. 111–383][/us/pl/111/383], § 581(a)(1)(A), redesignated subpar. (E) as (F).
 
-    Subsec. (b)(1)(G). [Pub. L. 111–383, § 581(b)][/us/pl/111/383/s581/b], added subpar. (G).
+    Subsec. (b)(1)(G). [Pub. L. 111–383][/us/pl/111/383], § 581(b), added subpar. (G).
 
-    Subsec. (b)(2). [Pub. L. 111–383, § 581(a)(2)][/us/pl/111/383/s581/a/2], substituted “subparagraphs (C), (D), and (E)” for “subparagraphs (C) and (D)”.
+    Subsec. (b)(2). [Pub. L. 111–383][/us/pl/111/383], § 581(a)(2), substituted “subparagraphs (C), (D), and (E)” for “subparagraphs (C) and (D)”.
 
-    Subsec. (b)(3). [Pub. L. 111–383, § 581(d)(2)][/us/pl/111/383/s581/d/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 111–383][/us/pl/111/383], § 581(d)(2), added par. (3).
 
-    2009—Subsec. (b)(1)(C) to (E). [Pub. L. 111–84, § 562(a)][/us/pl/111/84/s562/a], added subpar. (C), redesignated former subpars. (C) and (D) as (D) and (E), respectively, and substituted “subparagraphs (B) and (C)” for “subparagraph (B)” in subpar. (E).
+    2009—Subsec. (b)(1)(C) to (E). [Pub. L. 111–84][/us/pl/111/84], § 562(a), added subpar. (C), redesignated former subpars. (C) and (D) as (D) and (E), respectively, and substituted “subparagraphs (B) and (C)” for “subparagraph (B)” in subpar. (E).
 
-    Subsec. (b)(2). [Pub. L. 111–84, § 562(b)][/us/pl/111/84/s562/b], substituted “subparagraphs (C) and (D) of paragraph (1)” for “paragraph (1)(C)” and inserted at end “Representation on the Council required by clause (i) of paragraph (1)(C) shall rotate between the Army National Guard and Air National Guard. Representation required by clause (ii) of such paragraph shall rotate among the reserve components specified in such clause.”
+    Subsec. (b)(2). [Pub. L. 111–84][/us/pl/111/84], § 562(b), substituted “subparagraphs (C) and (D) of paragraph (1)” for “paragraph (1)(C)” and inserted at end “Representation on the Council required by clause (i) of paragraph (1)(C) shall rotate between the Army National Guard and Air National Guard. Representation required by clause (ii) of such paragraph shall rotate among the reserve components specified in such clause.”
 
 ----------
 
@@ -111,25 +111,25 @@
 ----------
 
 [/us/usc/t10/s1781b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1781b
-[/us/pl/110/181/s581/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs581%2Fa
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F120
-[/us/pl/111/84/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs562
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2303
-[/us/pl/111/383/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs581
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4226
-[/us/pl/112/81/s574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs574
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1427
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/111/383/s581/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs581%2Fd%2F1%2FA
-[/us/pl/111/383/s581/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs581%2Fd%2F1%2FB
-[/us/pl/111/383/s581/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs581%2Fd%2F1%2FC
-[/us/pl/111/383/s581/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs581%2Fa%2F1%2FB
-[/us/pl/111/383/s581/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs581%2Fc
-[/us/pl/111/383/s581/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs581%2Fa%2F1%2FA
-[/us/pl/111/383/s581/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs581%2Fb
-[/us/pl/111/383/s581/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs581%2Fa%2F2
-[/us/pl/111/383/s581/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs581%2Fd%2F2
-[/us/pl/111/84/s562/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs562%2Fa
-[/us/pl/111/84/s562/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs562%2Fb
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 
 

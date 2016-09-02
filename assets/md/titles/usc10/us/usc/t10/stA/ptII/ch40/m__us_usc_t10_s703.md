@@ -27,7 +27,7 @@
 
         Leave under this subsection may not be charged or credited to leave that accrued or that may accrue under [section 701 of this title][/us/usc/t10/s701]. The provisions of this subsection shall be effective only in the case of members who extend their required tours of duty on or before June 30, 1973.
 
-(Added [Pub. L. 87–649, § 3(1)][/us/pl/87/649/s3/1], Sept. 7, 1962, [76 Stat. 493][/us/stat/76/493]; amended [Pub. L. 89–735][/us/pl/89/735], Nov. 2, 1966, [80 Stat. 1163][/us/stat/80/1163]; [Pub. L. 90–330][/us/pl/90/330], June 5, 1968, [82 Stat. 170][/us/stat/82/170]; [Pub. L. 91–302][/us/pl/91/302], July 2, 1970, [84 Stat. 368][/us/stat/84/368]; [Pub. L. 92–481][/us/pl/92/481], Oct. 9, 1972, [86 Stat. 795][/us/stat/86/795].)
+(Added [Pub. L. 87–649][/us/pl/87/649], § 3(1), Sept. 7, 1962, [76 Stat. 493][/us/stat/76/493]; amended [Pub. L. 89–735][/us/pl/89/735], Nov. 2, 1966, [80 Stat. 1163][/us/stat/80/1163]; [Pub. L. 90–330][/us/pl/90/330], June 5, 1968, [82 Stat. 170][/us/stat/82/170]; [Pub. L. 91–302][/us/pl/91/302], July 2, 1970, [84 Stat. 368][/us/stat/84/368]; [Pub. L. 92–481][/us/pl/92/481], Oct. 9, 1972, [86 Stat. 795][/us/stat/86/795].)
 
 <table>
 
@@ -114,7 +114,7 @@ Aug. 9, 1946, ch. 931, § 2(f) (last 8 words), 60 Stat. 963.  </td>
 
 [/us/usc/t37/s310/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310%2Fa%2F2
 [/us/usc/t10/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs701
-[/us/pl/87/649/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs3%2F1
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F493
 [/us/pl/89/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F735
 [/us/stat/80/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1163

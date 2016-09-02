@@ -21,7 +21,7 @@
 
     (c) Any branch, office, or officer designated by the Secretary may sell medical and hospital supplies to the Armed Forces Retirement Home.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 259][/us/stat/70A/259]; [Pub. L. 90–329][/us/pl/90/329], June 4, 1968, [82 Stat. 170][/us/stat/82/170]; [Pub. L. 96–513, title V, § 512(18)(A)][/us/pl/96/513/s512/18/A], (B), Dec. 12, 1980, [94 Stat. 2930][/us/stat/94/2930]; [Pub. L. 101–510, div. A, title XV, § 1533(a)(5)(A)][/us/pl/101/510/s1533/a/5/A], (B), Nov. 5, 1990, [104 Stat. 1734][/us/stat/104/1734].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 259][/us/stat/70A/259]; [Pub. L. 90–329][/us/pl/90/329], June 4, 1968, [82 Stat. 170][/us/stat/82/170]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 512(18)(A), (B), Dec. 12, 1980, [94 Stat. 2930][/us/stat/94/2930]; [Pub. L. 101–510, div. A, title XV][/us/pl/101/510/dA/tXV], § 1533(a)(5)(A), (B), Nov. 5, 1990, [104 Stat. 1734][/us/stat/104/1734].)
 
 <table>
 
@@ -115,13 +115,13 @@ June 4, 1897, ch. 2 (par. under “Soldiers’ Home, District of Columbia”), 3
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–510, § 1533(a)(5)(B)][/us/pl/101/510/s1533/a/5/B], substituted “Armed Forces Retirement Home” for “Soldiers’ and Airmen’s Home” in section catchline.
+    1990—[Pub. L. 101–510][/us/pl/101/510], § 1533(a)(5)(B), substituted “Armed Forces Retirement Home” for “Soldiers’ and Airmen’s Home” in section catchline.
 
-    Subsec. (c). [Pub. L. 101–510, § 1533(a)(5)(A)][/us/pl/101/510/s1533/a/5/A], substituted “Armed Forces Retirement Home” for “United States Soldiers’ and Airmen’s Home”.
+    Subsec. (c). [Pub. L. 101–510][/us/pl/101/510], § 1533(a)(5)(A), substituted “Armed Forces Retirement Home” for “United States Soldiers’ and Airmen’s Home”.
 
-    1980—[Pub. L. 96–513, § 512(18)(B)][/us/pl/96/513/s512/18/B], inserted “and Airmen’s” after “Soldiers’ ” in section catchline.
+    1980—[Pub. L. 96–513][/us/pl/96/513], § 512(18)(B), inserted “and Airmen’s” after “Soldiers’ ” in section catchline.
 
-    Subsec. (c). [Pub. L. 96–513, § 512(18)(A)][/us/pl/96/513/s512/18/A], substituted “United States Soldiers’ and Airmen’s” for “Soldiers’ ”.
+    Subsec. (c). [Pub. L. 96–513][/us/pl/96/513], § 512(18)(A), substituted “United States Soldiers’ and Airmen’s” for “Soldiers’ ”.
 
     1968—Subsec. (b). [Pub. L. 90–329][/us/pl/90/329] substituted “Army Medical Department” for “Army Medical Service”.
 
@@ -144,16 +144,16 @@ June 4, 1897, ch. 2 (par. under “Soldiers’ Home, District of Columbia”), 3
 [/us/stat/70A/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F259
 [/us/pl/90/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F329
 [/us/stat/82/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F170
-[/us/pl/96/513/s512/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs512%2F18%2FA
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2930
-[/us/pl/101/510/s1533/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1533%2Fa%2F5%2FA
+[/us/pl/101/510/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXV
 [/us/stat/104/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1734
 [/us/stat/63/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F585
 [/us/stat/63/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F585
-[/us/pl/101/510/s1533/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1533%2Fa%2F5%2FB
-[/us/pl/101/510/s1533/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1533%2Fa%2F5%2FA
-[/us/pl/96/513/s512/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs512%2F18%2FB
-[/us/pl/96/513/s512/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs512%2F18%2FA
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/90/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F329
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/101/510/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1541

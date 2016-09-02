@@ -17,11 +17,11 @@
 
     Except as provided in [section 12402(b) of this title][/us/usc/t10/s12402/b], the President may assign to duty in the National Guard Bureau as many regular or reserve officers of the Army or Air Force as he considers necessary.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1661(c)(1)(A)][/us/pl/103/337/s1661/c/1/A], Oct. 5, 1994, [108 Stat. 2982][/us/stat/108/2982]; amended [Pub. L. 104–106, div. A, title XV, § 1501(b)(6)][/us/pl/104/106/s1501/b/6], Feb. 10, 1996, [110 Stat. 496][/us/stat/110/496].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1661(c)(1)(A), Oct. 5, 1994, [108 Stat. 2982][/us/stat/108/2982]; amended [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(6), Feb. 10, 1996, [110 Stat. 496][/us/stat/110/496].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 3541 and 8541 of this title, prior to repeal by [Pub. L. 103–337, § 1661(c)(2)][/us/pl/103/337/s1661/c/2].
+    Provisions similar to those in this section were contained in sections 3541 and 8541 of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1661(c)(2).
 
  __Amendments__ 
 
@@ -43,11 +43,11 @@
 ----------
 
 [/us/usc/t10/s12402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12402%2Fb
-[/us/pl/103/337/s1661/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fc%2F1%2FA
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2982
-[/us/pl/104/106/s1501/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F6
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F496
-[/us/pl/103/337/s1661/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fc%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

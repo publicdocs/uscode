@@ -65,9 +65,9 @@ R.S. 565; R.S. 4637.  </td>
 
     [34 U.S.C. 1147][/us/usc/t34/s1147] and this section reflect—
 
-    (1) [Act of March 3, 1899, ch. 413, § 13][/us/act/1899-03-03/ch413/s13], [30 Stat. 1007][/us/stat/30/1007], which repealed all laws authorizing distribution of prize proceeds to captors;
+    (1) [Act of March 3, 1899, ch. 413][/us/act/1899-03-03/ch413], § 13, [30 Stat. 1007][/us/stat/30/1007], which repealed all laws authorizing distribution of prize proceeds to captors;
 
-    (2) Acts of [March 3, 1911, ch. 231, § 128][/us/act/1911-03-03/ch231/s128], [36 Stat. 1133][/us/stat/36/1133], and [February 13, 1925, ch. 229, § 1][/us/act/1925-02-13/ch229/s1], [43 Stat. 938][/us/stat/43/938], which defined the appellate jurisdiction of the United States circuit courts, and provided that the Supreme Court should not directly review district court decisions except in specified cases, not including prize cases; and
+    (2) Acts of [March 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 128, [36 Stat. 1133][/us/stat/36/1133], and [February 13, 1925, ch. 229][/us/act/1925-02-13/ch229], § 1, [43 Stat. 938][/us/stat/43/938], which defined the appellate jurisdiction of the United States circuit courts, and provided that the Supreme Court should not directly review district court decisions except in specified cases, not including prize cases; and
 
     (3) [Act of June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 869][/us/stat/62/869], which repealed the Acts of February 13, 1925, and March 3, 1911, supra, but enacted similar provisions and changed the name of United States Circuit Courts of Appeals to United States Courts of Appeals for the several circuits.
 
@@ -83,11 +83,11 @@ R.S. 565; R.S. 4637.  </td>
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F483
 [/us/usc/t34/s1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs1147
-[/us/act/1899-03-03/ch413/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch413%2Fs13
+[/us/act/1899-03-03/ch413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch413
 [/us/stat/30/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1007
-[/us/act/1911-03-03/ch231/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs128
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1133
-[/us/act/1925-02-13/ch229/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229%2Fs1
+[/us/act/1925-02-13/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-13%2Fch229
 [/us/stat/43/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F938
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F869

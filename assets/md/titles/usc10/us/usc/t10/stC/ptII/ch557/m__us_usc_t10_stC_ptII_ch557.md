@@ -83,11 +83,11 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–364, div. A, title X, § 1071(a)(31)][/us/pl/109/364/s1071/a/31], Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399], substituted colon for semicolon in item 6086.
+    2006—[Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(31), Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399], substituted colon for semicolon in item 6086.
 
-    1991—[Pub. L. 102–25, title VII, § 701(e)(7)][/us/pl/102/25/s701/e/7], Apr. 6, 1991, [105 Stat. 115][/us/stat/105/115], inserted a period after “6082” in item 6082.
+    1991—[Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 701(e)(7), Apr. 6, 1991, [105 Stat. 115][/us/stat/105/115], inserted a period after “6082” in item 6082.
 
-    1990—[Pub. L. 101–510, div. A, title V, § 557(b)][/us/pl/101/510/s557/b], Nov. 5, 1990, [104 Stat. 1571][/us/stat/104/1571], amended item 6082 generally, substituting “Rations” for “Navy ration: composition” in item 6082.
+    1990—[Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 557(b), Nov. 5, 1990, [104 Stat. 1571][/us/stat/104/1571], amended item 6082 generally, substituting “Rations” for “Navy ration: composition” in item 6082.
 
 ----------
 
@@ -96,11 +96,11 @@
 ----------
 ----------
 
-[/us/pl/109/364/s1071/a/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F31
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2399
-[/us/pl/102/25/s701/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Fe%2F7
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F115
-[/us/pl/101/510/s557/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs557%2Fb
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1571
 
 

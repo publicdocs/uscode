@@ -31,7 +31,7 @@
 
         (2) For purposes of paragraph (1)(B), the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of such 30-day period.
 
-(Added [Pub. L. 103–160, div. A, title VIII, § 824(b)][/us/pl/103/160/s824/b], Nov. 30, 1993, [107 Stat. 1709][/us/stat/107/1709]; amended [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)][/us/pl/104/106/s1502/a/1], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 109–364, div. A, title X, § 1013][/us/pl/109/364/s1013], Oct. 17, 2006, [120 Stat. 2376][/us/stat/120/2376].)
+(Added [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 824(b), Nov. 30, 1993, [107 Stat. 1709][/us/stat/107/1709]; amended [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1502(a)(1), Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1013, Oct. 17, 2006, [120 Stat. 2376][/us/stat/120/2376].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 7307, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 452][/us/stat/70A/452]; Aug. 5, 1974, [Pub. L. 93–365, title VII, § 702][/us/pl/93/365/s702], [88 Stat. 405][/us/stat/88/405]; Oct. 5, 1976, [Pub. L. 94–457, § 2][/us/pl/94/457/s2], [90 Stat. 1938][/us/stat/90/1938]; Dec. 12, 1980, [Pub. L. 96–513, title V, § 513(28)][/us/pl/96/513/s513/28], [94 Stat. 2933][/us/stat/94/2933]; Aug. 8, 1985, [Pub. L. 99–83, title I, § 122][/us/pl/99/83/s122], [99 Stat. 204][/us/stat/99/204]; Nov. 5, 1990, [Pub. L. 101–510, div. A, title XIV, § 1484(b)(4)][/us/pl/101/510/s1484/b/4], [104 Stat. 1716][/us/stat/104/1716], related to restrictions on disposal of certain Navy ships, prior to repeal by [Pub. L. 103–160, § 824(b)][/us/pl/103/160/s824/b].
+    A prior section 7307, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 452][/us/stat/70A/452]; Aug. 5, 1974, [Pub. L. 93–365, title VII][/us/pl/93/365/tVII], § 702, [88 Stat. 405][/us/stat/88/405]; Oct. 5, 1976, [Pub. L. 94–457][/us/pl/94/457], § 2, [90 Stat. 1938][/us/stat/90/1938]; Dec. 12, 1980, [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(28), [94 Stat. 2933][/us/stat/94/2933]; Aug. 8, 1985, [Pub. L. 99–83, title I][/us/pl/99/83/tI], § 122, [99 Stat. 204][/us/stat/99/204]; Nov. 5, 1990, [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1484(b)(4), [104 Stat. 1716][/us/stat/104/1716], related to restrictions on disposal of certain Navy ships, prior to repeal by [Pub. L. 103–160][/us/pl/103/160], § 824(b).
 
  __Amendments__ 
 
@@ -60,13 +60,13 @@
 
 [/us/usc/t22/s2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2796
 [/us/usc/t22/s2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2311
-[/us/pl/103/160/s824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs824%2Fb
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1709
-[/us/pl/104/106/s1502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F1
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F502
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/109/364/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1013
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2376
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320
@@ -76,17 +76,17 @@
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F452
-[/us/pl/93/365/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F365%2Fs702
+[/us/pl/93/365/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F365%2FtVII
 [/us/stat/88/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F405
-[/us/pl/94/457/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F457%2Fs2
+[/us/pl/94/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F457
 [/us/stat/90/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1938
-[/us/pl/96/513/s513/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F28
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2933
-[/us/pl/99/83/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs122
+[/us/pl/99/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2FtI
 [/us/stat/99/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F204
-[/us/pl/101/510/s1484/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484%2Fb%2F4
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1716
-[/us/pl/103/160/s824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs824%2Fb
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106

@@ -29,11 +29,11 @@
 
     (e) The Chief of Chaplains of the Navy is entitled to the same rank and privileges of retirement as provided for chiefs of bureaus in [section 5133 of this title][/us/usc/t10/s5133].
 
-(Added [Pub. L. 96–343, § 11(a)][/us/pl/96/343/s11/a], Sept. 8, 1980, [94 Stat. 1130][/us/stat/94/1130]; amended [Pub. L. 105–85, div. A, title V, § 504(c)(1)][/us/pl/105/85/s504/c/1], Nov. 18, 1997, [111 Stat. 1725][/us/stat/111/1725].)
+(Added [Pub. L. 96–343][/us/pl/96/343], § 11(a), Sept. 8, 1980, [94 Stat. 1130][/us/stat/94/1130]; amended [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 504(c)(1), Nov. 18, 1997, [111 Stat. 1725][/us/stat/111/1725].)
 
  __Prior Provisions__ 
 
-    A prior section 5142, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 288][/us/stat/70A/288]; Sept. 7, 1962, [Pub. L. 87–649, § 14c(18)][/us/pl/87/649/s14c/18], [76 Stat. 501][/us/stat/76/501], provided for a Chief of Chaplains in Bureau of Naval Personnel, detailed by Chief of Naval Personnel from officers on active list of the Navy in Chaplains Corps not below grade of rear admiral, prior to repeal by [Pub. L. 96–343, § 11(a)][/us/pl/96/343/s11/a].
+    A prior section 5142, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 288][/us/stat/70A/288]; Sept. 7, 1962, [Pub. L. 87–649][/us/pl/87/649], § 14c(18), [76 Stat. 501][/us/stat/76/501], provided for a Chief of Chaplains in Bureau of Naval Personnel, detailed by Chief of Naval Personnel from officers on active list of the Navy in Chaplains Corps not below grade of rear admiral, prior to repeal by [Pub. L. 96–343][/us/pl/96/343], § 11(a).
 
  __Amendments__ 
 
@@ -47,15 +47,15 @@
 ----------
 
 [/us/usc/t10/s5133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5133
-[/us/pl/96/343/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343%2Fs11%2Fa
+[/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
 [/us/stat/94/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1130
-[/us/pl/105/85/s504/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs504%2Fc%2F1
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1725
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F288
-[/us/pl/87/649/s14c/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs14c%2F18
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F501
-[/us/pl/96/343/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343%2Fs11%2Fa
+[/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 
 

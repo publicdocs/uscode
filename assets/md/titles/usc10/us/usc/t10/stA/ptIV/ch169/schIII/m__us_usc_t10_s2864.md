@@ -49,19 +49,19 @@
 
         (2) The terms “metropolitan planning area” and “metropolitan planning organization” have the meanings given those terms in [section 134(b) of title 23][/us/usc/t23/s134/b] and [section 5303(b) of title 49][/us/usc/t49/s5303/b].
 
-(Added [Pub. L. 112–239, div. B, title XXVIII, § 2802(a)][/us/pl/112/239/s2802/a], Jan. 2, 2013, [126 Stat. 2147][/us/stat/126/2147]; amended [Pub. L. 113–66, div. B, title XXVIII, § 2811][/us/pl/113/66/s2811], Dec. 26, 2013, [127 Stat. 1013][/us/stat/127/1013].)
+(Added [Pub. L. 112–239, div. B, title XXVIII][/us/pl/112/239/dB/tXXVIII], § 2802(a), Jan. 2, 2013, [126 Stat. 2147][/us/stat/126/2147]; amended [Pub. L. 113–66, div. B, title XXVIII][/us/pl/113/66/dB/tXXVIII], § 2811, Dec. 26, 2013, [127 Stat. 1013][/us/stat/127/1013].)
 
  __Prior Provisions__ 
 
-    A prior section 2864, added [Pub. L. 101–189, div. B, title XXVIII, § 2807(a)][/us/pl/101/189/s2807/a], Nov. 29, 1989, [103 Stat. 1648][/us/stat/103/1648]; amended [Pub. L. 104–106, div. A, title X, § 1062(g)][/us/pl/104/106/s1062/g], Feb. 10, 1996, [110 Stat. 444][/us/stat/110/444], related to military construction contracts on Guam, prior to repeal by [Pub. L. 109–364, div. B, title XXVIII, § 2810(a)][/us/pl/109/364/s2810/a], Oct. 17, 2006, [120 Stat. 2470][/us/stat/120/2470].
+    A prior section 2864, added [Pub. L. 101–189, div. B, title XXVIII][/us/pl/101/189/dB/tXXVIII], § 2807(a), Nov. 29, 1989, [103 Stat. 1648][/us/stat/103/1648]; amended [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1062(g), Feb. 10, 1996, [110 Stat. 444][/us/stat/110/444], related to military construction contracts on Guam, prior to repeal by [Pub. L. 109–364, div. B, title XXVIII][/us/pl/109/364/dB/tXXVIII], § 2810(a), Oct. 17, 2006, [120 Stat. 2470][/us/stat/120/2470].
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–66, § 2811(1)][/us/pl/113/66/s2811/1], designated existing provisions as par. (1) and added par. (2).
+    2013—Subsec. (a). [Pub. L. 113–66][/us/pl/113/66], § 2811(1), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (b). [Pub. L. 113–66, § 2811(2)][/us/pl/113/66/s2811/2], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (b). [Pub. L. 113–66][/us/pl/113/66], § 2811(2), designated existing provisions as par. (1) and added par. (2).
 
-    Subsecs. (c), (d). [Pub. L. 113–66, § 2811(3)][/us/pl/113/66/s2811/3], (4), added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 113–66][/us/pl/113/66], § 2811(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 ----------
 
@@ -73,18 +73,18 @@
 [/us/usc/t10/s2859/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2859%2Fa
 [/us/usc/t23/s134/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs134%2Fb
 [/us/usc/t49/s5303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5303%2Fb
-[/us/pl/112/239/s2802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2802%2Fa
+[/us/pl/112/239/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdB%2FtXXVIII
 [/us/stat/126/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2147
-[/us/pl/113/66/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2811
+[/us/pl/113/66/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdB%2FtXXVIII
 [/us/stat/127/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1013
-[/us/pl/101/189/s2807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs2807%2Fa
+[/us/pl/101/189/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdB%2FtXXVIII
 [/us/stat/103/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1648
-[/us/pl/104/106/s1062/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1062%2Fg
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F444
-[/us/pl/109/364/s2810/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2810%2Fa
+[/us/pl/109/364/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdB%2FtXXVIII
 [/us/stat/120/2470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2470
-[/us/pl/113/66/s2811/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2811%2F1
-[/us/pl/113/66/s2811/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2811%2F2
-[/us/pl/113/66/s2811/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2811%2F3
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 
 

@@ -17,7 +17,7 @@
 
     Upon the request of the Secretary of Commerce, the Secretary of a military department may assign or detail members of the armed forces under his jurisdiction for duty in the National Oceanic and Atmospheric Administration, Department of Commerce, with reimbursement from the Department of Commerce. Notwithstanding any other provision of law, a member so assigned or detailed may exercise the functions, and assume the title, of any position in that Administration without affecting his status as a member of an armed force, but he is not entitled to the compensation fixed for that position.
 
-(Added [Pub. L. 89–683, § 1(1)][/us/pl/89/683/s1/1], Oct. 15, 1966, [80 Stat. 960][/us/stat/80/960]; amended [Pub. L. 96–513, title I, § 511(23)(A)][/us/pl/96/513/s511/23/A], (B), Dec. 12, 1980, [94 Stat. 2921][/us/stat/94/2921].)
+(Added [Pub. L. 89–683][/us/pl/89/683], § 1(1), Oct. 15, 1966, [80 Stat. 960][/us/stat/80/960]; amended [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 511(23)(A), (B), Dec. 12, 1980, [94 Stat. 2921][/us/stat/94/2921].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/89/683/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F683%2Fs1%2F1
+[/us/pl/89/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F683
 [/us/stat/80/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F960
-[/us/pl/96/513/s511/23/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F23%2FA
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2921
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

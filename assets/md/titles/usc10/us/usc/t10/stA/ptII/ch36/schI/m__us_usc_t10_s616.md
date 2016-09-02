@@ -41,7 +41,7 @@
 
         (2) attempt to coerce or, by any unauthorized means, influence any action of a selection board or any member of a selection board in the formulation of the board’s recommendations.
 
-(Added [Pub. L. 96–513, title I, § 105][/us/pl/96/513/s105], Dec. 12, 1980, [94 Stat. 2852][/us/stat/94/2852]; amended [Pub. L. 100–456, div. A, title V, § 501(b)][/us/pl/100/456/s501/b], Sept. 29, 1988, [102 Stat. 1966][/us/stat/102/1966]; [Pub. L. 102–190, div. A, title V, § 504(b)][/us/pl/102/190/s504/b], Dec. 5, 1991, [105 Stat. 1357][/us/stat/105/1357]; [Pub. L. 102–484, div. A, title X, § 1052(8)][/us/pl/102/484/s1052/8], Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499]; [Pub. L. 109–364, div. A, title V, § 512(a)][/us/pl/109/364/s512/a], Oct. 17, 2006, [120 Stat. 2184][/us/stat/120/2184].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 105, Dec. 12, 1980, [94 Stat. 2852][/us/stat/94/2852]; amended [Pub. L. 100–456, div. A, title V][/us/pl/100/456/dA/tV], § 501(b), Sept. 29, 1988, [102 Stat. 1966][/us/stat/102/1966]; [Pub. L. 102–190, div. A, title V][/us/pl/102/190/dA/tV], § 504(b), Dec. 5, 1991, [105 Stat. 1357][/us/stat/105/1357]; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1052(8), Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 512(a), Oct. 17, 2006, [120 Stat. 2184][/us/stat/120/2184].)
 
  __Amendments__ 
 
@@ -55,7 +55,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–364, div. A, title V, § 512(c)][/us/pl/109/364/s512/c], Oct. 17, 2006, [120 Stat. 2184][/us/stat/120/2184], provided that: 
+[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 512(c), Oct. 17, 2006, [120 Stat. 2184][/us/stat/120/2184], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 14108 of this title][/us/usc/t10/s14108]\] shall take effect on the date of the enactment of this Act \[Oct. 17, 2006\] and shall apply with respect to selection boards convened on or after that date.”
 
@@ -81,22 +81,22 @@
 [/us/usc/t10/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs615
 [/us/usc/t10/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs617
 [/us/usc/t10/s611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs611%2Fa
-[/us/pl/96/513/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs105
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2852
-[/us/pl/100/456/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs501%2Fb
+[/us/pl/100/456/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtV
 [/us/stat/102/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1966
-[/us/pl/102/190/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs504%2Fb
+[/us/pl/102/190/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtV
 [/us/stat/105/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1357
-[/us/pl/102/484/s1052/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F8
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2499
-[/us/pl/109/364/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs512%2Fa
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2184
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/usc/t10/s615/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs615%2Fa
-[/us/pl/109/364/s512/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs512%2Fc
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2184
 [/us/usc/t10/s14108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14108
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190

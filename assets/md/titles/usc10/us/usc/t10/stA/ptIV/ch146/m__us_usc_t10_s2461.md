@@ -183,11 +183,11 @@
 
     The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
 
-(Added [Pub. L. 100–370, § 2(a)(1)][/us/pl/100/370/s2/a/1], July 19, 1988, [102 Stat. 851][/us/stat/102/851]; amended [Pub. L. 101–189, div. A, title XI, § 1132][/us/pl/101/189/s1132], Nov. 29, 1989, [103 Stat. 1561][/us/stat/103/1561]; [Pub. L. 104–106, div. D, title XLIII, § 4321(b)(19)][/us/pl/104/106/s4321/b/19], Feb. 10, 1996, [110 Stat. 673][/us/stat/110/673]; [Pub. L. 105–85, div. A, title III, § 384][/us/pl/105/85/s384], Nov. 18, 1997, [111 Stat. 1711][/us/stat/111/1711]; [Pub. L. 105–261, div. A, title III, § 342(a)][/us/pl/105/261/s342/a]–(c), Oct. 17, 1998, [112 Stat. 1974–1976][/us/stat/112/1974-1976]; [Pub. L. 106–65, div. A, title III, § 341][/us/pl/106/65/s341], Oct. 5, 1999, [113 Stat. 568][/us/stat/113/568]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, §§ 351, 352\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–71, 1654A–72; [Pub. L. 107–107, div. A, title III, § 344][/us/pl/107/107/s344], Dec. 28, 2001, [115 Stat. 1061][/us/stat/115/1061]; [Pub. L. 107–314, div. A, title III, § 331][/us/pl/107/314/s331], Dec. 2, 2002, [116 Stat. 2512][/us/stat/116/2512]; [Pub. L. 109–163, div. A, title III, § 341(a)][/us/pl/109/163/s341/a], (b), (c)(2), (3), (g)(1)–(2)(B), Jan. 6, 2006, [119 Stat. 3195][/us/stat/119/3195], 3196, 3199, 3200; [Pub. L. 110–181, div. A, title III][/us/pl/110/181], §§ 322(a), (b)(2), (c), 323, Jan. 28, 2008, [122 Stat. 58–60][/us/stat/122/58-60]; [Pub. L. 111–84, div. A, title III][/us/pl/111/84], §§ 321(a), 322(a), title X, § 1073(a)(25), Oct. 28, 2009, [123 Stat. 2250][/us/stat/123/2250], 2251, 2474; [Pub. L. 111–350, § 5(b)(34)][/us/pl/111/350/s5/b/34], Jan. 4, 2011, [124 Stat. 3845][/us/stat/124/3845]; [Pub. L. 112–81, div. A, title IX, § 937][/us/pl/112/81/s937], Dec. 31, 2011, [125 Stat. 1546][/us/stat/125/1546]; [Pub. L. 112–239, div. A, title X, § 1076(f)(28)][/us/pl/112/239/s1076/f/28], Jan. 2, 2013, [126 Stat. 1953][/us/stat/126/1953]; [Pub. L. 113–66, div. A, title X, § 1091(a)(11)][/us/pl/113/66/s1091/a/11], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876].)
+(Added [Pub. L. 100–370][/us/pl/100/370], § 2(a)(1), July 19, 1988, [102 Stat. 851][/us/stat/102/851]; amended [Pub. L. 101–189, div. A, title XI][/us/pl/101/189/dA/tXI], § 1132, Nov. 29, 1989, [103 Stat. 1561][/us/stat/103/1561]; [Pub. L. 104–106, div. D, title XLIII][/us/pl/104/106/dD/tXLIII], § 4321(b)(19), Feb. 10, 1996, [110 Stat. 673][/us/stat/110/673]; [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 384, Nov. 18, 1997, [111 Stat. 1711][/us/stat/111/1711]; [Pub. L. 105–261, div. A, title III][/us/pl/105/261/dA/tIII], § 342(a)–(c), Oct. 17, 1998, [112 Stat. 1974–1976][/us/stat/112/1974-1976]; [Pub. L. 106–65, div. A, title III][/us/pl/106/65/dA/tIII], § 341, Oct. 5, 1999, [113 Stat. 568][/us/stat/113/568]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, §§ 351, 352\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–71, 1654A–72; [Pub. L. 107–107, div. A, title III][/us/pl/107/107/dA/tIII], § 344, Dec. 28, 2001, [115 Stat. 1061][/us/stat/115/1061]; [Pub. L. 107–314, div. A, title III][/us/pl/107/314/dA/tIII], § 331, Dec. 2, 2002, [116 Stat. 2512][/us/stat/116/2512]; [Pub. L. 109–163, div. A, title III][/us/pl/109/163/dA/tIII], § 341(a), (b), (c)(2), (3), (g)(1)–(2)(B), Jan. 6, 2006, [119 Stat. 3195][/us/stat/119/3195], 3196, 3199, 3200; [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], §§ 322(a), (b)(2), (c), 323, Jan. 28, 2008, [122 Stat. 58–60][/us/stat/122/58-60]; [Pub. L. 111–84, div. A, title III][/us/pl/111/84/dA/tIII], §§ 321(a), 322(a), title X, § 1073(a)(25), Oct. 28, 2009, [123 Stat. 2250][/us/stat/123/2250], 2251, 2474; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(34), Jan. 4, 2011, [124 Stat. 3845][/us/stat/124/3845]; [Pub. L. 112–81, div. A, title IX][/us/pl/112/81/dA/tIX], § 937, Dec. 31, 2011, [125 Stat. 1546][/us/stat/125/1546]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(f)(28), Jan. 2, 2013, [126 Stat. 1953][/us/stat/126/1953]; [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1091(a)(11), Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876].)
 
  __Historical and Revision Notes__ 
 
-    Section is based on [Pub. L. 96–342, title V, § 502][/us/pl/96/342/s502], Sept. 8, 1980, [94 Stat. 1086][/us/stat/94/1086], as amended by [Pub. L. 97–252, title XI, § 1112(a)][/us/pl/97/252/s1112/a], Sept. 8, 1982, [96 Stat. 747][/us/stat/96/747]; [Pub. L. 99–145, title XII, § 1234(a)][/us/pl/99/145/s1234/a], Nov. 8, 1985, [99 Stat. 734][/us/stat/99/734]; [Pub. L. 99–661, div. A, title XII, § 1221][/us/pl/99/661/s1221], Nov. 14, 1986, [100 Stat. 3976][/us/stat/100/3976].
+    Section is based on [Pub. L. 96–342, title V][/us/pl/96/342/tV], § 502, Sept. 8, 1980, [94 Stat. 1086][/us/stat/94/1086], as amended by [Pub. L. 97–252, title XI][/us/pl/97/252/tXI], § 1112(a), Sept. 8, 1982, [96 Stat. 747][/us/stat/96/747]; [Pub. L. 99–145, title XII][/us/pl/99/145/tXII], § 1234(a), Nov. 8, 1985, [99 Stat. 734][/us/stat/99/734]; [Pub. L. 99–661, div. A, title XII][/us/pl/99/661/dA/tXII], § 1221, Nov. 14, 1986, [100 Stat. 3976][/us/stat/100/3976].
 
  __Amendments__ 
 
@@ -195,99 +195,99 @@
 
     Subsec. (d)(2). [Pub. L. 112–239][/us/pl/112/239] substituted “such section” for “that Act”.
 
-    2011—Subsec. (a)(5)(E). [Pub. L. 112–81, § 937(1)(A)][/us/pl/112/81/s937/1/A]–(E), in introductory provisions, substituted “competition shall be conducted in accordance with guidance and procedures that shall be issued and maintained by the Under Secretary of Defense for Personnel and Readiness and shall begin on the date on which a component of the Department of Defense first obligates funds specifically for the acquisition of contract support for the preliminary planning effort” for “competition, begins on the date on which the Department of Defense obligates funds for the acquisition of contract support”.
+    2011—Subsec. (a)(5)(E). [Pub. L. 112–81][/us/pl/112/81], § 937(1)(A)–(E), in introductory provisions, substituted “competition shall be conducted in accordance with guidance and procedures that shall be issued and maintained by the Under Secretary of Defense for Personnel and Readiness and shall begin on the date on which a component of the Department of Defense first obligates funds specifically for the acquisition of contract support for the preliminary planning effort” for “competition, begins on the date on which the Department of Defense obligates funds for the acquisition of contract support”.
 
-    Subsec. (a)(5)(E)(i). [Pub. L. 112–81, § 937(1)(F)][/us/pl/112/81/s937/1/F], inserted “a public-private” before “competition”.
+    Subsec. (a)(5)(E)(i). [Pub. L. 112–81][/us/pl/112/81], § 937(1)(F), inserted “a public-private” before “competition”.
 
-    Subsec. (a)(5)(F). [Pub. L. 112–82, § 937(2)][/us/pl/112/82/s937/2], substituted “military department or Defense Agency shall submit to Congress written notice of the actions intended to be taken during the preliminary planning process and shall provide public notice of such actions by announcing such date on an appropriate Internet website and through other means as determined necessary. The date of such announcement shall be used for the purpose” for “military department shall submit to Congress written notice of such date and shall provide public notice by announcing such date on an appropriate Internet website. Such date is the first day of preliminary planning for a public-private competition for the purpose”.
+    Subsec. (a)(5)(F). [Pub. L. 112–82][/us/pl/112/82], § 937(2), substituted “military department or Defense Agency shall submit to Congress written notice of the actions intended to be taken during the preliminary planning process and shall provide public notice of such actions by announcing such date on an appropriate Internet website and through other means as determined necessary. The date of such announcement shall be used for the purpose” for “military department shall submit to Congress written notice of such date and shall provide public notice by announcing such date on an appropriate Internet website. Such date is the first day of preliminary planning for a public-private competition for the purpose”.
 
-    Subsec. (d)(1). [Pub. L. 111–350][/us/pl/111/350], which directed substitution of “[section 8503 of title 41][/us/usc/t41/s8503]” for “section 2 of the Javits-Wagner-O’Day Act ([41 U.S.C. 47][/us/usc/t41/s47])” in subsec. (c)(1), was executed by making the substitution in subsec. (d)(1) to reflect the probable intent of Congress and the amendment by [Pub. L. 110–181, § 322(b)(2)][/us/pl/110/181/s322/b/2]. See 2008 Amendment note below.
+    Subsec. (d)(1). [Pub. L. 111–350][/us/pl/111/350], which directed substitution of “[section 8503 of title 41][/us/usc/t41/s8503]” for “section 2 of the Javits-Wagner-O’Day Act ([41 U.S.C. 47][/us/usc/t41/s47])” in subsec. (c)(1), was executed by making the substitution in subsec. (d)(1) to reflect the probable intent of Congress and the amendment by [Pub. L. 110–181][/us/pl/110/181], § 322(b)(2). See 2008 Amendment note below.
 
-    2009—Subsec. (a)(1). [Pub. L. 111–84, § 321(a)][/us/pl/111/84/s321/a], in introductory provisions, substituted “No function” for “A function” and “may be converted” for “may not be converted” and struck out “10 or more” before “Department of Defense civilian employees”.
+    2009—Subsec. (a)(1). [Pub. L. 111–84][/us/pl/111/84], § 321(a), in introductory provisions, substituted “No function” for “A function” and “may be converted” for “may not be converted” and struck out “10 or more” before “Department of Defense civilian employees”.
 
-    Subsec. (a)(5). [Pub. L. 111–84, § 322(a)][/us/pl/111/84/s322/a], added par. (5).
+    Subsec. (a)(5). [Pub. L. 111–84][/us/pl/111/84], § 322(a), added par. (5).
 
-    Subsec. (c)(3)(A). [Pub. L. 111–84, § 1073(a)(25)][/us/pl/111/84/s1073/a/25], substituted “the public-private competition” for “the public private competition” in two places in introductory provisions.
+    Subsec. (c)(3)(A). [Pub. L. 111–84][/us/pl/111/84], § 1073(a)(25), substituted “the public-private competition” for “the public private competition” in two places in introductory provisions.
 
-    2008—Subsec. (a)(1)(B). [Pub. L. 110–181, § 322(c)(1)(A)][/us/pl/110/181/s322/c/1/A], inserted “, or any successor circular” after “2003”.
+    2008—Subsec. (a)(1)(B). [Pub. L. 110–181][/us/pl/110/181], § 322(c)(1)(A), inserted “, or any successor circular” after “2003”.
 
-    Subsec. (a)(1)(D). [Pub. L. 110–181, § 322(c)(1)(B)][/us/pl/110/181/s322/c/1/B], substituted “, reliability, and timeliness” for “and reliability”.
+    Subsec. (a)(1)(D). [Pub. L. 110–181][/us/pl/110/181], § 322(c)(1)(B), substituted “, reliability, and timeliness” for “and reliability”.
 
-    Subsec. (a)(1)(G), (H). [Pub. L. 110–181, § 322(a)][/us/pl/110/181/s322/a], added subpar. (G) and redesignated former subpar. (G) as (H).
+    Subsec. (a)(1)(G), (H). [Pub. L. 110–181][/us/pl/110/181], § 322(a), added subpar. (G) and redesignated former subpar. (G) as (H).
 
-    Subsec. (a)(4). [Pub. L. 110–181, § 323][/us/pl/110/181/s323], added par. (4).
+    Subsec. (a)(4). [Pub. L. 110–181][/us/pl/110/181], § 323, added par. (4).
 
-    Subsecs. (b), (c). [Pub. L. 110–181, § 322(b)(2)][/us/pl/110/181/s322/b/2], added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    Subsecs. (b), (c). [Pub. L. 110–181][/us/pl/110/181], § 322(b)(2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (c)(2). [Pub. L. 110–181, § 322(c)(2)][/us/pl/110/181/s322/c/2], inserted “of” after “examination” in introductory provisions.
+    Subsec. (c)(2). [Pub. L. 110–181][/us/pl/110/181], § 322(c)(2), inserted “of” after “examination” in introductory provisions.
 
-    Subsecs. (d), (e). [Pub. L. 110–181, § 322(b)(2)][/us/pl/110/181/s322/b/2], redesignated subsecs. (c) and (d) as (d) and (e), respectively.
+    Subsecs. (d), (e). [Pub. L. 110–181][/us/pl/110/181], § 322(b)(2), redesignated subsecs. (c) and (d) as (d) and (e), respectively.
 
-    2006—[Pub. L. 109–163, § 341(g)(2)(A)][/us/pl/109/163/s341/g/2/A], substituted “Public-private competition required” for “Commercial or industrial type functions: required studies and reports” in section catchline.
+    2006—[Pub. L. 109–163][/us/pl/109/163], § 341(g)(2)(A), substituted “Public-private competition required” for “Commercial or industrial type functions: required studies and reports” in section catchline.
 
-    Subsec. (a). [Pub. L. 109–163, § 341(a)][/us/pl/109/163/s341/a], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “A commercial or industrial type function of the Department of Defense that, as of October 1, 1980, was being performed by Department of Defense civilian employees may not be changed to performance by the private sector until the Secretary of Defense fully complies with the reporting and analysis requirements specified in subsections (b) and (c).”
+    Subsec. (a). [Pub. L. 109–163][/us/pl/109/163], § 341(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “A commercial or industrial type function of the Department of Defense that, as of October 1, 1980, was being performed by Department of Defense civilian employees may not be changed to performance by the private sector until the Secretary of Defense fully complies with the reporting and analysis requirements specified in subsections (b) and (c).”
 
-    Subsec. (b). [Pub. L. 109–163, § 341(g)(2)(B)][/us/pl/109/163/s341/g/2/B], substituted “Congressional Notification” for “Notification and Elements of Analysis” in heading.
+    Subsec. (b). [Pub. L. 109–163][/us/pl/109/163], § 341(g)(2)(B), substituted “Congressional Notification” for “Notification and Elements of Analysis” in heading.
 
-    Subsec. (b)(1). [Pub. L. 109–163, § 341(b)(1)(A)][/us/pl/109/163/s341/b/1/A], in introductory provisions, substituted “a public-private competition under subsection (a)” for “to analyze a commercial or industrial type function described in subsection (a) for possible change to performance by the private sector”.
+    Subsec. (b)(1). [Pub. L. 109–163][/us/pl/109/163], § 341(b)(1)(A), in introductory provisions, substituted “a public-private competition under subsection (a)” for “to analyze a commercial or industrial type function described in subsection (a) for possible change to performance by the private sector”.
 
-    Subsec. (b)(1)(A). [Pub. L. 109–163, § 341(b)(1)(B)][/us/pl/109/163/s341/b/1/B], substituted “for which such public-private competition is to be conducted” for “to be analyzed for possible change”.
+    Subsec. (b)(1)(A). [Pub. L. 109–163][/us/pl/109/163], § 341(b)(1)(B), substituted “for which such public-private competition is to be conducted” for “to be analyzed for possible change”.
 
-    Subsec. (b)(1)(C). [Pub. L. 109–163, § 341(b)(1)(C)][/us/pl/109/163/s341/b/1/C], inserted “Department of Defense” before “civilian employee”.
+    Subsec. (b)(1)(C). [Pub. L. 109–163][/us/pl/109/163], § 341(b)(1)(C), inserted “Department of Defense” before “civilian employee”.
 
-    Subsec. (b)(1)(D). [Pub. L. 109–163, § 341(b)(1)(D)][/us/pl/109/163/s341/b/1/D], substituted “the public-private competition” for “the analysis” in two places.
+    Subsec. (b)(1)(D). [Pub. L. 109–163][/us/pl/109/163], § 341(b)(1)(D), substituted “the public-private competition” for “the analysis” in two places.
 
-    Subsec. (b)(1)(E). [Pub. L. 109–163, § 341(b)(1)(E)][/us/pl/109/163/s341/b/1/E], struck out “commercial or industrial type” before “function” and substituted “a contractor” for “persons who are not civilian employees of the Department of Defense”.
+    Subsec. (b)(1)(E). [Pub. L. 109–163][/us/pl/109/163], § 341(b)(1)(E), struck out “commercial or industrial type” before “function” and substituted “a contractor” for “persons who are not civilian employees of the Department of Defense”.
 
-    Subsec. (b)(2). [Pub. L. 109–163, § 341(b)(2)][/us/pl/109/163/s341/b/2], added par. (2) and struck out former par. (2) which read as follows: “The duty to prepare a report under paragraph (1) may be delegated. A report prepared below the major command or claimant level of a military department, or below the equivalent level in a Defense Agency, pursuant to any such delegation shall be reviewed at the major command, claimant level, or equivalent level, as the case may be, before submission to Congress.”
+    Subsec. (b)(2). [Pub. L. 109–163][/us/pl/109/163], § 341(b)(2), added par. (2) and struck out former par. (2) which read as follows: “The duty to prepare a report under paragraph (1) may be delegated. A report prepared below the major command or claimant level of a military department, or below the equivalent level in a Defense Agency, pursuant to any such delegation shall be reviewed at the major command, claimant level, or equivalent level, as the case may be, before submission to Congress.”
 
-    Subsec. (b)(3). [Pub. L. 109–163, § 341(b)(2)][/us/pl/109/163/s341/b/2], (3), redesignated par. (4) as (3) and struck out former par. (3) which related to analysis of a commercial or industrial type function for possible change to performance by the private sector.
+    Subsec. (b)(3). [Pub. L. 109–163][/us/pl/109/163], § 341(b)(2), (3), redesignated par. (4) as (3) and struck out former par. (3) which related to analysis of a commercial or industrial type function for possible change to performance by the private sector.
 
-    Subsec. (b)(3)(A). [Pub. L. 109–163, § 341(b)(4)(A)][/us/pl/109/163/s341/b/4/A], in introductory provisions, substituted “where a public-private competition is conducted” for “where a commercial or industrial type function is analyzed for possible change in performance” and “the public private competition” for “the analysis” in two places.
+    Subsec. (b)(3)(A). [Pub. L. 109–163][/us/pl/109/163], § 341(b)(4)(A), in introductory provisions, substituted “where a public-private competition is conducted” for “where a commercial or industrial type function is analyzed for possible change in performance” and “the public private competition” for “the analysis” in two places.
 
-    Subsec. (b)(3)(B). [Pub. L. 109–163, § 341(b)(4)(B)][/us/pl/109/163/s341/b/4/B], substituted “the function for which the public-private competition was conducted for which the objection was submitted” for “the commercial or industrial type function covered by the analysis to which objected”.
+    Subsec. (b)(3)(B). [Pub. L. 109–163][/us/pl/109/163], § 341(b)(4)(B), substituted “the function for which the public-private competition was conducted for which the objection was submitted” for “the commercial or industrial type function covered by the analysis to which objected”.
 
-    Subsec. (b)(4). [Pub. L. 109–163, § 341(b)(3)][/us/pl/109/163/s341/b/3], redesignated par. (4) as (3).
+    Subsec. (b)(4). [Pub. L. 109–163][/us/pl/109/163], § 341(b)(3), redesignated par. (4) as (3).
 
-    Subsec. (c). [Pub. L. 109–163, § 341(g)(1)][/us/pl/109/163/s341/g/1], substituted “This section” for “Subsections (a) through (c) and subsection (g)”.
+    Subsec. (c). [Pub. L. 109–163][/us/pl/109/163], § 341(g)(1), substituted “This section” for “Subsections (a) through (c) and subsection (g)”.
 
-    [Pub. L. 109–163, § 341(c)(3)][/us/pl/109/163/s341/c/3], substituted “Exemption” for “Waiver” in heading.
+    [Pub. L. 109–163][/us/pl/109/163], § 341(c)(3), substituted “Exemption” for “Waiver” in heading.
 
-    [Pub. L. 109–163, § 341(c)(2)][/us/pl/109/163/s341/c/2], redesignated subsec. (e) as (c) and struck out former subsec. (c) which related to submission of analysis results by the Secretary of Defense.
+    [Pub. L. 109–163][/us/pl/109/163], § 341(c)(2), redesignated subsec. (e) as (c) and struck out former subsec. (c) which related to submission of analysis results by the Secretary of Defense.
 
-    Subsecs. (d) to (h). [Pub. L. 109–163, § 341(c)(2)][/us/pl/109/163/s341/c/2], redesignated subsecs. (e) and (h) as (c) and (d), respectively, and struck out former subsecs. (d), (f), and (g) which related, respectively, to waiver for small functions, additional limitations, and annual reports.
+    Subsecs. (d) to (h). [Pub. L. 109–163][/us/pl/109/163], § 341(c)(2), redesignated subsecs. (e) and (h) as (c) and (d), respectively, and struck out former subsecs. (d), (f), and (g) which related, respectively, to waiver for small functions, additional limitations, and annual reports.
 
     2002—Subsec. (c). [Pub. L. 107–314][/us/pl/107/314] amended heading and text of subsec. (c) generally. Prior to amendment, text related to the report to Congress by the Secretary of Defense upon a decision to change the commercial or industrial type function that was the subject of the analysis to performance by the private sector, with requirements for contents of the report and submission of the report prior to the change of the function to contractor performance.
 
     2001—Subsec. (g). [Pub. L. 107–107][/us/pl/107/107] substituted “June 30” for “February 1”.
 
-    2000—Subsec. (b)(1)(D). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 351(a)\], inserted before period “, and a specific identification of the budgetary line item from which funds will be used to cover the cost of the analysis”.
+    2000—Subsec. (b)(1)(D). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 351(a)\], inserted before period “, and a specific identification of the budgetary line item from which funds will be used to cover the cost of the analysis”.
 
-    Subsec. (c)(1). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 351(b)\], added subpars. (A), (D), (E), and (G) and redesignated former subpars. (A), (B), (C), (D), and (E) as (B), (C), (F), (H), and (I), respectively.
+    Subsec. (c)(1). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 351(b)\], added subpars. (A), (D), (E), and (G) and redesignated former subpars. (A), (B), (C), (D), and (E) as (B), (C), (F), (H), and (I), respectively.
 
-    Subsec. (c)(2), (3). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 352\], added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (c)(2), (3). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 352\], added par. (2) and redesignated former par. (2) as (3).
 
     1999—Subsec. (b)(3)(B)(ii). [Pub. L. 106–65][/us/pl/106/65] substituted “50 employees” for “75 employees”.
 
-    1998—Subsec. (a). [Pub. L. 105–261, § 342(a)(2)][/us/pl/105/261/s342/a/2], added subsec. (a) and struck out former subsec. (a) which provided that commercial or industrial type functions of the Department of Defense that on Oct. 1, 1980, were being performed by Department of Defense civilian employees could not be converted to performance by private contractors unless the Secretary of Defense provided certain notices, information, certifications, and reports to Congress.
+    1998—Subsec. (a). [Pub. L. 105–261][/us/pl/105/261], § 342(a)(2), added subsec. (a) and struck out former subsec. (a) which provided that commercial or industrial type functions of the Department of Defense that on Oct. 1, 1980, were being performed by Department of Defense civilian employees could not be converted to performance by private contractors unless the Secretary of Defense provided certain notices, information, certifications, and reports to Congress.
 
-    Subsec. (b). [Pub. L. 105–261, § 342(a)(2)][/us/pl/105/261/s342/a/2], added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “If, after completion of the studies required for completion of the certification and report required by paragraphs (3) and (4) of subsection (a), a decision is made to convert the function to contractor performance, the Secretary of Defense shall notify Congress of such decision. The notification shall include the timetable for completing conversion of the function to contractor performance.”
+    Subsec. (b). [Pub. L. 105–261][/us/pl/105/261], § 342(a)(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “If, after completion of the studies required for completion of the certification and report required by paragraphs (3) and (4) of subsection (a), a decision is made to convert the function to contractor performance, the Secretary of Defense shall notify Congress of such decision. The notification shall include the timetable for completing conversion of the function to contractor performance.”
 
-    Subsec. (c). [Pub. L. 105–261, § 342(a)(2)][/us/pl/105/261/s342/a/2], added subsec. (c). Former subsec. (c) redesignated (g).
+    Subsec. (c). [Pub. L. 105–261][/us/pl/105/261], § 342(a)(2), added subsec. (c). Former subsec. (c) redesignated (g).
 
-    Subsec. (d). [Pub. L. 105–261, § 342(b)][/us/pl/105/261/s342/b], (c)(1), substituted “50” for “20” and inserted “and subsection (g)” after “Subsections (a) through (c)”.
+    Subsec. (d). [Pub. L. 105–261][/us/pl/105/261], § 342(b), (c)(1), substituted “50” for “20” and inserted “and subsection (g)” after “Subsections (a) through (c)”.
 
-    Subsec. (e). [Pub. L. 105–261, § 342(c)(1)][/us/pl/105/261/s342/c/1], (2), inserted “and subsection (g)” after “Subsections (a) through (c)” in introductory provisions and substituted “changed” for “converted” in par. (2).
+    Subsec. (e). [Pub. L. 105–261][/us/pl/105/261], § 342(c)(1), (2), inserted “and subsection (g)” after “Subsections (a) through (c)” in introductory provisions and substituted “changed” for “converted” in par. (2).
 
-    Subsec. (f). [Pub. L. 105–261, § 342(c)(2)][/us/pl/105/261/s342/c/2], (3), substituted “changed” for “converted” in par. (1) and “change” for “conversion” in par. (2).
+    Subsec. (f). [Pub. L. 105–261][/us/pl/105/261], § 342(c)(2), (3), substituted “changed” for “converted” in par. (1) and “change” for “conversion” in par. (2).
 
-    Subsecs. (g), (h). [Pub. L. 105–261, § 342(a)(1)][/us/pl/105/261/s342/a/1], redesignated subsecs. (c) and (g) as (g) and (h), respectively.
+    Subsecs. (g), (h). [Pub. L. 105–261][/us/pl/105/261], § 342(a)(1), redesignated subsecs. (c) and (g) as (g) and (h), respectively.
 
-    1997—Subsec. (a)(1). [Pub. L. 105–85, § 384(a)][/us/pl/105/85/s384/a], inserted “and the anticipated length and cost of the study” before semicolon at end.
+    1997—Subsec. (a)(1). [Pub. L. 105–85][/us/pl/105/85], § 384(a), inserted “and the anticipated length and cost of the study” before semicolon at end.
 
-    Subsec. (b). [Pub. L. 105–85, § 384(b)][/us/pl/105/85/s384/b], inserted at end “The notification shall include the timetable for completing conversion of the function to contractor performance.”
+    Subsec. (b). [Pub. L. 105–85][/us/pl/105/85], § 384(b), inserted at end “The notification shall include the timetable for completing conversion of the function to contractor performance.”
 
-    Subsec. (d). [Pub. L. 105–85, § 384(c)][/us/pl/105/85/s384/c], substituted “20 or fewer” for “45 or fewer”.
+    Subsec. (d). [Pub. L. 105–85][/us/pl/105/85], § 384(c), substituted “20 or fewer” for “45 or fewer”.
 
     1996—Subsec. (e)(1). [Pub. L. 104–106][/us/pl/104/106] substituted “the Javits-Wagner-O’Day Act ([41 U.S.C. 47][/us/usc/t41/s47])” for “the Act of June 25, 1938 ([41 U.S.C. 47][/us/usc/t41/s47]), popularly referred to as the Wagner-O’Day Act”.
 
@@ -295,17 +295,17 @@
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–84, div. A, title III, § 321(b)][/us/pl/111/84/s321/b], Oct. 28, 2009, [123 Stat. 2250][/us/stat/123/2250], provided that: 
+[Pub. L. 111–84, div. A, title III][/us/pl/111/84/dA/tIII], § 321(b), Oct. 28, 2009, [123 Stat. 2250][/us/stat/123/2250], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to a function for which a public-private competition is commenced on or after the date of the enactment of this Act \[Oct. 28, 2009\].”
 
-[Pub. L. 111–84, div. A, title III, § 322(b)][/us/pl/111/84/s322/b], Oct. 28, 2009, [123 Stat. 2252][/us/stat/123/2252], provided that: 
+[Pub. L. 111–84, div. A, title III][/us/pl/111/84/dA/tIII], § 322(b), Oct. 28, 2009, [123 Stat. 2252][/us/stat/123/2252], provided that: 
 
 > “Paragraph (5) of [section 2461(a) of title 10][/us/usc/t10/s2461/a], United States Code, as added by subsection (a), shall apply with respect to a public-private competition covered by such section that is initiated on or after the date of the enactment of this Act \[Oct. 28, 2009\].”
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–261, div. A, title III, § 342(d)][/us/pl/105/261/s342/d], Oct. 17, 1998, [112 Stat. 1976][/us/stat/112/1976], provided that: 
+[Pub. L. 105–261, div. A, title III][/us/pl/105/261/dA/tIII], § 342(d), Oct. 17, 1998, [112 Stat. 1976][/us/stat/112/1976], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 1998\], but the amendments shall not apply with respect to a conversion of a function of the Department of Defense to performance by a private contractor concerning which the Secretary of Defense provided to Congress, before the date of the enactment of this Act, a notification under paragraph (1) of [section 2461(a) of title 10][/us/usc/t10/s2461/a], United States Code, as in effect on the day before the date of the enactment of this Act.”
 
@@ -315,7 +315,7 @@
 
  __Restriction on Office of Management and Budget Influence Over Department of Defense Public-Private Competitions__ 
 
-[Pub. L. 110–181, div. A, title III, § 325][/us/pl/110/181/s325], Jan. 28, 2008, [122 Stat. 61][/us/stat/122/61], provided that:
+[Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 325, Jan. 28, 2008, [122 Stat. 61][/us/stat/122/61], provided that:
 
 >     “(a)  __Restriction on Office of Management and Budget__  __.—__ 
 
@@ -341,7 +341,7 @@
 
  __Pilot Program on Commercial Fee-for-Service Air Refueling Support for the Air Force__ 
 
-[Pub. L. 111–84, div. A, title X, § 1082][/us/pl/111/84/s1082], Oct. 28, 2009, [123 Stat. 2481][/us/stat/123/2481], provided that:
+[Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1082, Oct. 28, 2009, [123 Stat. 2481][/us/stat/123/2481], provided that:
 
 >     “(a)  __Multiyear Contracts Authorized__  __.—__ 
 
@@ -371,7 +371,7 @@
 
 >     A commercial air operator contracting with the Department of Defense under the pilot program referred to in subsection (a) shall be eligible to receive Government-provided insurance pursuant to chapter 443 of title 49, United States Code, if commercial insurance is unavailable on reasonable terms and conditions.”
 
-[Pub. L. 110–181, div. A, title X, § 1081][/us/pl/110/181/s1081], Jan. 28, 2008, [122 Stat. 335][/us/stat/122/335], as amended by [Pub. L. 111–84, div. A, title X, § 1081][/us/pl/111/84/s1081], Oct. 28, 2009, [123 Stat. 2481][/us/stat/123/2481]; [Pub. L. 113–291, div. A, title X, § 1061][/us/pl/113/291/s1061], Dec. 19, 2014, [128 Stat. 3503][/us/stat/128/3503], provided that:
+[Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1081, Jan. 28, 2008, [122 Stat. 335][/us/stat/122/335], as amended by [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1081, Oct. 28, 2009, [123 Stat. 2481][/us/stat/123/2481]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1061, Dec. 19, 2014, [128 Stat. 3503][/us/stat/128/3503], provided that:
 
 >     “(a)  __Pilot Program Required__  __.—__ 
 
@@ -417,17 +417,17 @@
 
  __Inapplicability of Subsection (a)(1)(E) to Best-Value Source Selection Pilot Program__ 
 
-[Pub. L. 109–163, div. A, title III, § 341(e)][/us/pl/109/163/s341/e], Jan. 6, 2006, [119 Stat. 3199][/us/stat/119/3199], as amended by [Pub. L. 109–364, div. A, title X, § 1071(e)(1)][/us/pl/109/364/s1071/e/1], Oct. 17, 2006, [120 Stat. 2401][/us/stat/120/2401], provided that: 
+[Pub. L. 109–163, div. A, title III][/us/pl/109/163/dA/tIII], § 341(e), Jan. 6, 2006, [119 Stat. 3199][/us/stat/119/3199], as amended by [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(e)(1), Oct. 17, 2006, [120 Stat. 2401][/us/stat/120/2401], provided that: 
 
 > “Subsection (a)(1)(F) of [section 2461 of title 10][/us/usc/t10/s2461], United States Code, as amended by subsection (a), shall not apply with respect to the pilot program for best-value source selection for performance of information technology services authorized by section 336 of the National Defense Authorization Act for Fiscal Year 2004 ([Public Law 108–136][/us/pl/108/136]; [117 Stat. 1444][/us/stat/117/1444]; [10 U.S.C. 2461][/us/usc/t10/s2461] note).”
 
  __Performance of Certain Work by Federal Government Employees__ 
 
-    [Pub. L. 109–163, div. A, title III, § 343][/us/pl/109/163/s343], Jan. 6, 2006, [119 Stat. 3200][/us/stat/119/3200], which provided that the Secretary of Defense was to prescribe guidelines and procedures for ensuring that consideration be given to using Federal Government employees for work that was currently performed or would otherwise be performed under Department of Defense contracts, and that the Secretary was to include the use of the flexible hiring authority available through the National Security Personnel System in order to facilitate performance by Federal Government employees of new requirements and work that was performed under Department of Defense contracts, was repealed and restated in [section 2463 of this title][/us/usc/t10/s2463] by [Pub. L. 110–181, div. A, title III, § 324(a)(1)][/us/pl/110/181/s324/a/1], (c), Jan. 28, 2008, [122 Stat. 60][/us/stat/122/60], 61.
+    [Pub. L. 109–163, div. A, title III][/us/pl/109/163/dA/tIII], § 343, Jan. 6, 2006, [119 Stat. 3200][/us/stat/119/3200], which provided that the Secretary of Defense was to prescribe guidelines and procedures for ensuring that consideration be given to using Federal Government employees for work that was currently performed or would otherwise be performed under Department of Defense contracts, and that the Secretary was to include the use of the flexible hiring authority available through the National Security Personnel System in order to facilitate performance by Federal Government employees of new requirements and work that was performed under Department of Defense contracts, was repealed and restated in [section 2463 of this title][/us/usc/t10/s2463] by [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 324(a)(1), (c), Jan. 28, 2008, [122 Stat. 60][/us/stat/122/60], 61.
 
  __Pilot Program for Purchase of Certain Municipal Services for Military Installations__ 
 
-[Pub. L. 108–375, div. A, title III, § 325][/us/pl/108/375/s325], Oct. 28, 2004, [118 Stat. 1847][/us/stat/118/1847], as amended by [Pub. L. 110–181, div. B, title XXVIII, § 2826][/us/pl/110/181/s2826], Jan. 28, 2008, [122 Stat. 546][/us/stat/122/546]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(16), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613], provided that:
+[Pub. L. 108–375, div. A, title III][/us/pl/108/375/dA/tIII], § 325, Oct. 28, 2004, [118 Stat. 1847][/us/stat/118/1847], as amended by [Pub. L. 110–181, div. B, title XXVIII][/us/pl/110/181/dB/tXXVIII], § 2826, Jan. 28, 2008, [122 Stat. 546][/us/stat/122/546]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(16), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613], provided that:
 
 >     “(a)  __Pilot Program Authorized__  __.—__ 
 
@@ -463,11 +463,11 @@
 
  __Limitations on Conversion of Work Performed by Department of Defense Civilian Employees to Contractor Performance__ 
 
-    [Pub. L. 108–375, div. A, title III, § 327][/us/pl/108/375/s327], Oct. 28, 2004, [118 Stat. 1849][/us/stat/118/1849], which generally required the Secretary of Defense to maintain the continued performance of certain activities and functions by civilian employees unless the competitive sourcing official determined that the cost of performance of the activity or function by a contractor would be less costly by an amount that equaled or exceeded the lesser of $10,000,000 or 10 percent of the most efficient organization’s personnel-related costs for performance of the activity or function by civilian employees, was repealed by [Pub. L. 109–163, div. A, title III, § 341(g)(3)][/us/pl/109/163/s341/g/3], Jan. 6, 2006, [119 Stat. 3200][/us/stat/119/3200].
+    [Pub. L. 108–375, div. A, title III][/us/pl/108/375/dA/tIII], § 327, Oct. 28, 2004, [118 Stat. 1849][/us/stat/118/1849], which generally required the Secretary of Defense to maintain the continued performance of certain activities and functions by civilian employees unless the competitive sourcing official determined that the cost of performance of the activity or function by a contractor would be less costly by an amount that equaled or exceeded the lesser of $10,000,000 or 10 percent of the most efficient organization’s personnel-related costs for performance of the activity or function by civilian employees, was repealed by [Pub. L. 109–163, div. A, title III][/us/pl/109/163/dA/tIII], § 341(g)(3), Jan. 6, 2006, [119 Stat. 3200][/us/stat/119/3200].
 
  __Delayed Implementation of Revised Office of Management and Budget Circular A–76 By Department of Defense__ 
 
-[Pub. L. 108–136, div. A, title III, § 335][/us/pl/108/136/s335], Nov. 24, 2003, [117 Stat. 1443][/us/stat/117/1443], provided that:
+[Pub. L. 108–136, div. A, title III][/us/pl/108/136/dA/tIII], § 335, Nov. 24, 2003, [117 Stat. 1443][/us/stat/117/1443], provided that:
 
 >     “(a)  __Limitation Pending Report__  __.—__ 
 
@@ -491,7 +491,7 @@
 
  __Pilot Program for Best-Value Source Selection for Performance of Information Technology Services__ 
 
-[Pub. L. 108–136, div. A, title III, § 336][/us/pl/108/136/s336], Nov. 24, 2003, [117 Stat. 1444][/us/stat/117/1444], provided that:
+[Pub. L. 108–136, div. A, title III][/us/pl/108/136/dA/tIII], § 336, Nov. 24, 2003, [117 Stat. 1444][/us/stat/117/1444], provided that:
 
 >     “(a)  __Authority to Use Best-Value Criterion__  __.—__ 
 
@@ -529,21 +529,21 @@
 
  __Pilot Manpower Reporting System in Department of the Army__ 
 
-    [Pub. L. 107–107, div. A, title III, § 345(a)][/us/pl/107/107/s345/a]–(c), Dec. 28, 2001, [115 Stat. 1061][/us/stat/115/1061], 1062, provided that, not later than Mar. 1 of each of the fiscal years 2002 through 2004, the Secretary of the Army was to submit to Congress a report describing the use during the previous fiscal year of non-Federal entities to provide services to the Department of the Army.
+    [Pub. L. 107–107, div. A, title III][/us/pl/107/107/dA/tIII], § 345(a)–(c), Dec. 28, 2001, [115 Stat. 1061][/us/stat/115/1061], 1062, provided that, not later than Mar. 1 of each of the fiscal years 2002 through 2004, the Secretary of the Army was to submit to Congress a report describing the use during the previous fiscal year of non-Federal entities to provide services to the Department of the Army.
 
  __Pilot Program for Commercial Services__ 
 
-    [Pub. L. 106–65, div. A, title VIII, § 814][/us/pl/106/65/s814], Oct. 5, 1999, [113 Stat. 711][/us/stat/113/711], authorized the Secretary of Defense to carry out a pilot program to treat procurements of commercial services as procurements of commercial items, required the Secretary to issue guidance to procurement officials not later than 90 days after Oct. 5, 1999, and provided that the pilot program was to begin on the date that the Secretary issued the guidance and that it could continue for a period, not in excess of five years.
+    [Pub. L. 106–65, div. A, title VIII][/us/pl/106/65/dA/tVIII], § 814, Oct. 5, 1999, [113 Stat. 711][/us/stat/113/711], authorized the Secretary of Defense to carry out a pilot program to treat procurements of commercial services as procurements of commercial items, required the Secretary to issue guidance to procurement officials not later than 90 days after Oct. 5, 1999, and provided that the pilot program was to begin on the date that the Secretary issued the guidance and that it could continue for a period, not in excess of five years.
 
  __Public Availability of Operating Agreements Between Military Installations and Financial Institutions__ 
 
-[Pub. L. 105–261, div. A, title III, § 379][/us/pl/105/261/s379], Oct. 17, 1998, [112 Stat. 1995][/us/stat/112/1995], provided that: 
+[Pub. L. 105–261, div. A, title III][/us/pl/105/261/dA/tIII], § 379, Oct. 17, 1998, [112 Stat. 1995][/us/stat/112/1995], provided that: 
 
 > “With respect to an agreement between the commander of a military installation in the United States (or the designee of such an installation commander) and a financial institution that permits, allows, or otherwise authorizes the provision of financial services by the financial institution on the military installation, nothing in the terms or nature of such an agreement shall be construed to exempt the agreement from the provisions of sections 552 and 552a of title 5, United States Code.”
 
  __Development of Standard Forms Regarding Performance Work Statement and Request for Proposal for Conversion of Certain Operational Functions of Military Installations__ 
 
-[Pub. L. 105–85, div. A, title III, § 389][/us/pl/105/85/s389], Nov. 18, 1997, [111 Stat. 1714][/us/stat/111/1714], as amended by [Pub. L. 105–261, div. A, title X, § 1069(b)(1)][/us/pl/105/261/s1069/b/1], Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136], provided that:
+[Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 389, Nov. 18, 1997, [111 Stat. 1714][/us/stat/111/1714], as amended by [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1069(b)(1), Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136], provided that:
 
 >     “(a)  __Standardization of Requirements__  __.—__ 
 
@@ -577,11 +577,11 @@
 
 >     For purposes of this section, the term ‘military installation’ means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility.”
 
-    \[[Pub. L. 105–261, div. A, title X, § 1069(b)][/us/pl/105/261/s1069/b], Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136], provided that the amendment made by that section to [section 389 of Pub. L. 105–85][/us/pl/105/85/s389], set out above, is effective as of Nov. 18, 1997, and as if included in the National Defense Authorization Act for Fiscal Year 1998, [Pub. L. 105–85][/us/pl/105/85], as enacted.\]
+    \[[Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1069(b), Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136], provided that the amendment made by that section to [section 389 of Pub. L. 105–85][/us/pl/105/85/s389], set out above, is effective as of Nov. 18, 1997, and as if included in the National Defense Authorization Act for Fiscal Year 1998, [Pub. L. 105–85][/us/pl/105/85], as enacted.\]
 
  __Private-Sector Operation of Certain Payroll, Finance, and Accounting Functions of Department of Defense; Plan; Report__ 
 
-[Pub. L. 104–106, div. A, title III, § 353(a)][/us/pl/104/106/s353/a], Feb. 10, 1996, [110 Stat. 267][/us/stat/110/267], provided that:
+[Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 353(a), Feb. 10, 1996, [110 Stat. 267][/us/stat/110/267], provided that:
 
 >     “(1) Not later than October 1, 1996, the Secretary of Defense shall submit to Congress a plan for the performance by private-sector sources of payroll functions for civilian employees of the Department of Defense other than employees paid from nonappropriated funds.
 
@@ -605,7 +605,7 @@
 
  __Pilot Program for Private-Sector Operation of NAFI Functions__ 
 
-[Pub. L. 104–106, div. A, title III, § 353(b)][/us/pl/104/106/s353/b], Feb. 10, 1996, [110 Stat. 267][/us/stat/110/267], provided that:
+[Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 353(b), Feb. 10, 1996, [110 Stat. 267][/us/stat/110/267], provided that:
 
 >     “(1) The Secretary shall carry out a pilot program to test the performance by private-sector sources of payroll and other accounting and finance functions of nonappropriated fund instrumentalities and to evaluate the extent to which cost savings and efficiencies would result from the performance of such functions by those sources.
 
@@ -633,9 +633,9 @@
 
  __Demonstration Program To Identify Overpayments Made to Vendors__ 
 
-    [Pub. L. 105–85, div. A, title III, § 388(c)][/us/pl/105/85/s388/c], Nov. 18, 1997, [111 Stat. 1714][/us/stat/111/1714], provided that, not later than Dec. 31, 1998, the Comptroller General was to submit to Congress a report containing the results of a review by the Comptroller General of the demonstration program conducted under [section 354 of Pub. L. 104–106][/us/pl/104/106/s354], set out below.
+    [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 388(c), Nov. 18, 1997, [111 Stat. 1714][/us/stat/111/1714], provided that, not later than Dec. 31, 1998, the Comptroller General was to submit to Congress a report containing the results of a review by the Comptroller General of the demonstration program conducted under [section 354 of Pub. L. 104–106][/us/pl/104/106/s354], set out below.
 
-[Pub. L. 104–106, div. A, title III, § 354][/us/pl/104/106/s354], Feb. 10, 1996, [110 Stat. 268][/us/stat/110/268], as amended by [Pub. L. 105–85, div. A, title III, § 388(a)][/us/pl/105/85/s388/a], (b), Nov. 18, 1997, [111 Stat. 1713][/us/stat/111/1713], 1714, provided that:
+[Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 354, Feb. 10, 1996, [110 Stat. 268][/us/stat/110/268], as amended by [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 388(a), (b), Nov. 18, 1997, [111 Stat. 1713][/us/stat/111/1713], 1714, provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -673,7 +673,7 @@
 
  __Program for Improved Travel Process for Department of Defense__ 
 
-[Pub. L. 104–106, div. A, title III, § 356][/us/pl/104/106/s356], Feb. 10, 1996, [110 Stat. 270][/us/stat/110/270], as amended by [Pub. L. 105–85, div. A, title X, § 1073(d)(1)(B)][/us/pl/105/85/s1073/d/1/B], Nov. 18, 1997, [111 Stat. 1905][/us/stat/111/1905], provided that:
+[Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 356, Feb. 10, 1996, [110 Stat. 270][/us/stat/110/270], as amended by [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(d)(1)(B), Nov. 18, 1997, [111 Stat. 1905][/us/stat/111/1905], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -739,7 +739,7 @@
 
  __Increased Reliance on Private-Sector Sources for Commercial Products and Services__ 
 
-[Pub. L. 104–106, div. A, title III, § 357][/us/pl/104/106/s357], Feb. 10, 1996, [110 Stat. 271][/us/stat/110/271], provided that:
+[Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 357, Feb. 10, 1996, [110 Stat. 271][/us/stat/110/271], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -788,186 +788,186 @@
 
 [/us/usc/t5/s7111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7111
 [/us/usc/t41/s8503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8503
-[/us/pl/100/370/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs2%2Fa%2F1
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F851
-[/us/pl/101/189/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1132
+[/us/pl/101/189/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXI
 [/us/stat/103/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1561
-[/us/pl/104/106/s4321/b/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4321%2Fb%2F19
+[/us/pl/104/106/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdD%2FtXLIII
 [/us/stat/110/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F673
-[/us/pl/105/85/s384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs384
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1711
-[/us/pl/105/261/s342/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs342%2Fa
+[/us/pl/105/261/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIII
 [/us/stat/112/1974-1976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1974-1976
-[/us/pl/106/65/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs341
+[/us/pl/106/65/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIII
 [/us/stat/113/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F568
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs344
+[/us/pl/107/107/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIII
 [/us/stat/115/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1061
-[/us/pl/107/314/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs331
+[/us/pl/107/314/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtIII
 [/us/stat/116/2512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2512
-[/us/pl/109/163/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fa
+[/us/pl/109/163/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIII
 [/us/stat/119/3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3195
-[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/58-60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F58-60
-[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIII
 [/us/stat/123/2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2250
-[/us/pl/111/350/s5/b/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F34
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3845
-[/us/pl/112/81/s937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs937
+[/us/pl/112/81/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIX
 [/us/stat/125/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1546
-[/us/pl/112/239/s1076/f/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F28
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1953
-[/us/pl/113/66/s1091/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fa%2F11
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
-[/us/pl/96/342/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs502
+[/us/pl/96/342/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtV
 [/us/stat/94/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1086
-[/us/pl/97/252/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1112%2Fa
+[/us/pl/97/252/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtXI
 [/us/stat/96/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F747
-[/us/pl/99/145/s1234/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1234%2Fa
+[/us/pl/99/145/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXII
 [/us/stat/99/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F734
-[/us/pl/99/661/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1221
+[/us/pl/99/661/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXII
 [/us/stat/100/3976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3976
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/112/81/s937/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs937%2F1%2FA
-[/us/pl/112/81/s937/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs937%2F1%2FF
-[/us/pl/112/82/s937/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F82%2Fs937%2F2
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F82
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s8503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8503
 [/us/usc/t41/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs47
-[/us/pl/110/181/s322/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs322%2Fb%2F2
-[/us/pl/111/84/s321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs321%2Fa
-[/us/pl/111/84/s322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs322%2Fa
-[/us/pl/111/84/s1073/a/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F25
-[/us/pl/110/181/s322/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs322%2Fc%2F1%2FA
-[/us/pl/110/181/s322/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs322%2Fc%2F1%2FB
-[/us/pl/110/181/s322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs322%2Fa
-[/us/pl/110/181/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs323
-[/us/pl/110/181/s322/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs322%2Fb%2F2
-[/us/pl/110/181/s322/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs322%2Fc%2F2
-[/us/pl/110/181/s322/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs322%2Fb%2F2
-[/us/pl/109/163/s341/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fg%2F2%2FA
-[/us/pl/109/163/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fa
-[/us/pl/109/163/s341/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fg%2F2%2FB
-[/us/pl/109/163/s341/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fb%2F1%2FA
-[/us/pl/109/163/s341/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fb%2F1%2FB
-[/us/pl/109/163/s341/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fb%2F1%2FC
-[/us/pl/109/163/s341/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fb%2F1%2FD
-[/us/pl/109/163/s341/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fb%2F1%2FE
-[/us/pl/109/163/s341/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fb%2F2
-[/us/pl/109/163/s341/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fb%2F2
-[/us/pl/109/163/s341/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fb%2F4%2FA
-[/us/pl/109/163/s341/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fb%2F4%2FB
-[/us/pl/109/163/s341/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fb%2F3
-[/us/pl/109/163/s341/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fg%2F1
-[/us/pl/109/163/s341/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fc%2F3
-[/us/pl/109/163/s341/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fc%2F2
-[/us/pl/109/163/s341/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fc%2F2
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/105/261/s342/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs342%2Fa%2F2
-[/us/pl/105/261/s342/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs342%2Fa%2F2
-[/us/pl/105/261/s342/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs342%2Fa%2F2
-[/us/pl/105/261/s342/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs342%2Fb
-[/us/pl/105/261/s342/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs342%2Fc%2F1
-[/us/pl/105/261/s342/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs342%2Fc%2F2
-[/us/pl/105/261/s342/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs342%2Fa%2F1
-[/us/pl/105/85/s384/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs384%2Fa
-[/us/pl/105/85/s384/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs384%2Fb
-[/us/pl/105/85/s384/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs384%2Fc
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t41/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs47
 [/us/usc/t41/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs47
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
-[/us/pl/111/84/s321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs321%2Fb
+[/us/pl/111/84/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIII
 [/us/stat/123/2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2250
-[/us/pl/111/84/s322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs322%2Fb
+[/us/pl/111/84/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIII
 [/us/stat/123/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2252
 [/us/usc/t10/s2461/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2461%2Fa
-[/us/pl/105/261/s342/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs342%2Fd
+[/us/pl/105/261/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIII
 [/us/stat/112/1976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1976
 [/us/usc/t10/s2461/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2461%2Fa
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/106/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4401
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/110/181/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs325
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F61
-[/us/pl/111/84/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1082
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2481
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/stat/122/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F335
 [/us/usc/t10/s2306c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306c
 [/us/usc/t10/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2401
-[/us/pl/110/181/s1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1081
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F335
-[/us/pl/111/84/s1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1081
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2481
-[/us/pl/113/291/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1061
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3503
-[/us/pl/109/163/s341/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fe
+[/us/pl/109/163/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIII
 [/us/stat/119/3199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3199
-[/us/pl/109/364/s1071/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fe%2F1
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2401
 [/us/usc/t10/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2461
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/stat/117/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1444
 [/us/usc/t10/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2461
-[/us/pl/109/163/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs343
+[/us/pl/109/163/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIII
 [/us/stat/119/3200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3200
 [/us/usc/t10/s2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2463
-[/us/pl/110/181/s324/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs324%2Fa%2F1
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F60
-[/us/pl/108/375/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs325
+[/us/pl/108/375/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIII
 [/us/stat/118/1847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1847
-[/us/pl/110/181/s2826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2826
+[/us/pl/110/181/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdB%2FtXXVIII
 [/us/stat/122/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F546
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4613
-[/us/pl/108/375/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs327
+[/us/pl/108/375/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIII
 [/us/stat/118/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1849
-[/us/pl/109/163/s341/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Fg%2F3
+[/us/pl/109/163/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIII
 [/us/stat/119/3200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3200
-[/us/pl/108/136/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs335
+[/us/pl/108/136/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIII
 [/us/stat/117/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1443
-[/us/pl/108/136/s336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs336
+[/us/pl/108/136/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIII
 [/us/stat/117/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1444
 [/us/usc/t10/s2462/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2462%2Fa
 [/us/usc/t40/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101
-[/us/pl/107/107/s345/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs345%2Fa
+[/us/pl/107/107/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIII
 [/us/stat/115/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1061
-[/us/pl/106/65/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs814
+[/us/pl/106/65/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVIII
 [/us/stat/113/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F711
-[/us/pl/105/261/s379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs379
+[/us/pl/105/261/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIII
 [/us/stat/112/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1995
-[/us/pl/105/85/s389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs389
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1714
-[/us/pl/105/261/s1069/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1069%2Fb%2F1
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2136
-[/us/pl/105/261/s1069/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1069%2Fb
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2136
 [/us/pl/105/85/s389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs389
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/104/106/s353/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs353%2Fa
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F267
-[/us/pl/104/106/s353/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs353%2Fb
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F267
-[/us/pl/105/85/s388/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs388%2Fc
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1714
 [/us/pl/104/106/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs354
-[/us/pl/104/106/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs354
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F268
-[/us/pl/105/85/s388/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs388%2Fa
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1713
-[/us/pl/104/106/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs356
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F270
-[/us/pl/105/85/s1073/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fd%2F1%2FB
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1905
-[/us/pl/104/106/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs357
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F271
 
 

@@ -123,43 +123,43 @@
 
         (3) The term “retired pay” includes retainer pay.
 
-(Added [Pub. L. 104–201, div. A, title VII, § 703(a)(1)][/us/pl/104/201/s703/a/1], Sept. 23, 1996, [110 Stat. 2588][/us/stat/110/2588]; amended [Pub. L. 105–85, div. A, title VII][/us/pl/105/85], §§ 701, 733(b), 734, Nov. 18, 1997, [111 Stat. 1807][/us/stat/111/1807], 1812, 1813; [Pub. L. 105–261, div. A, title VII, § 702][/us/pl/105/261/s702], Oct. 17, 1998, [112 Stat. 2056][/us/stat/112/2056]; [Pub. L. 106–65, div. A, title VII, § 704][/us/pl/106/65/s704], Oct. 5, 1999, [113 Stat. 683][/us/stat/113/683]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 726, title X, § 1087(a)(6)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–187, 1654A–290.)
+(Added [Pub. L. 104–201, div. A, title VII][/us/pl/104/201/dA/tVII], § 703(a)(1), Sept. 23, 1996, [110 Stat. 2588][/us/stat/110/2588]; amended [Pub. L. 105–85, div. A, title VII][/us/pl/105/85/dA/tVII], §§ 701, 733(b), 734, Nov. 18, 1997, [111 Stat. 1807][/us/stat/111/1807], 1812, 1813; [Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 702, Oct. 17, 1998, [112 Stat. 2056][/us/stat/112/2056]; [Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 704, Oct. 5, 1999, [113 Stat. 683][/us/stat/113/683]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 726, title X, § 1087(a)(6)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–187, 1654A–290.)
 
  __Amendments__ 
 
-    2000—Subsec. (b)(5)(C). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(6)\], struck out “pursuant to subsection (i)(2) of such section” after “[section 1076a of this title][/us/usc/t10/s1076a]”.
+    2000—Subsec. (b)(5)(C). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(6)\], struck out “pursuant to subsection (i)(2) of such section” after “[section 1076a of this title][/us/usc/t10/s1076a]”.
 
-    Subsec. (f). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 726(b)\], substituted “Required Terminations” for “Termination” in heading.
+    Subsec. (f). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 726(b)\], substituted “Required Terminations” for “Termination” in heading.
 
-    Subsecs. (i), (j). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 726(a)\], added subsec. (i) and redesignated former subsec. (i) as (j).
+    Subsecs. (i), (j). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 726(a)\], added subsec. (i) and redesignated former subsec. (i) as (j).
 
     1999—Subsec. (d). [Pub. L. 106–65][/us/pl/106/65] amended heading and text of subsec. (d) generally. Text read as follows: “The dental insurance plan established under subsection (a) shall provide benefits for basic dental care and treatment, including diagnostic services, preventative services, basic restorative services (including endodontics), surgical services, and emergency services.”
 
-    1998—Subsec. (b)(4), (5). [Pub. L. 105–261, § 702(a)][/us/pl/105/261/s702/a], added par. (4) and redesignated former par. (4) as (5).
+    1998—Subsec. (b)(4), (5). [Pub. L. 105–261][/us/pl/105/261], § 702(a), added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (f)(3). [Pub. L. 105–261, § 702(b)][/us/pl/105/261/s702/b], substituted “(b)(5)” for “(b)(4)”.
+    Subsec. (f)(3). [Pub. L. 105–261][/us/pl/105/261], § 702(b), substituted “(b)(5)” for “(b)(4)”.
 
-    1997—Subsec. (a). [Pub. L. 105–85, § 734(a)(1)][/us/pl/105/85/s734/a/1], (b)(1), substituted “The Secretary of Defense, in consultation with the other administering Secretaries, shall establish a dental insurance plan for retirees of the uniformed services” for “The Secretary of Defense shall establish a dental insurance plan for military retirees”.
+    1997—Subsec. (a). [Pub. L. 105–85][/us/pl/105/85], § 734(a)(1), (b)(1), substituted “The Secretary of Defense, in consultation with the other administering Secretaries, shall establish a dental insurance plan for retirees of the uniformed services” for “The Secretary of Defense shall establish a dental insurance plan for military retirees”.
 
-    Subsec. (b)(1). [Pub. L. 105–85, § 734(a)(2)][/us/pl/105/85/s734/a/2], substituted “uniformed services” for “Armed Forces”.
+    Subsec. (b)(1). [Pub. L. 105–85][/us/pl/105/85], § 734(a)(2), substituted “uniformed services” for “Armed Forces”.
 
-    Subsec. (b)(4)(A). [Pub. L. 105–85, § 701(1)(A)][/us/pl/105/85/s701/1/A], substituted “died” for “dies”.
+    Subsec. (b)(4)(A). [Pub. L. 105–85][/us/pl/105/85], § 701(1)(A), substituted “died” for “dies”.
 
-    Subsec. (b)(4)(C). [Pub. L. 105–85, § 701(1)(B)][/us/pl/105/85/s701/1/B], (2), (3), added subpar. (C).
+    Subsec. (b)(4)(C). [Pub. L. 105–85][/us/pl/105/85], § 701(1)(B), (2), (3), added subpar. (C).
 
-    Subsec. (c)(2). [Pub. L. 105–85, § 733(b)][/us/pl/105/85/s733/b], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The amount of the premiums payable by a member entitled to retired pay shall be deducted and withheld from the retired pay and shall be disbursed to pay the premiums. The regulations prescribed under subsection (h) shall specify the procedures for payment of the premiums by other enrolled members and by enrolled surviving spouses.”
+    Subsec. (c)(2). [Pub. L. 105–85][/us/pl/105/85], § 733(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The amount of the premiums payable by a member entitled to retired pay shall be deducted and withheld from the retired pay and shall be disbursed to pay the premiums. The regulations prescribed under subsection (h) shall specify the procedures for payment of the premiums by other enrolled members and by enrolled surviving spouses.”
 
-    Subsec. (h). [Pub. L. 105–85, § 734(b)(2)][/us/pl/105/85/s734/b/2], substituted “other administering Secretaries” for “Secretary of Transportation”.
+    Subsec. (h). [Pub. L. 105–85][/us/pl/105/85], § 734(b)(2), substituted “other administering Secretaries” for “Secretary of Transportation”.
 
  __Limitation on Implementation of Alternative Collection Procedures__ 
 
-[Pub. L. 105–85, div. A, title VII, § 733(d)][/us/pl/105/85/s733/d], Nov. 18, 1997, [111 Stat. 1813][/us/stat/111/1813], provided that: 
+[Pub. L. 105–85, div. A, title VII][/us/pl/105/85/dA/tVII], § 733(d), Nov. 18, 1997, [111 Stat. 1813][/us/stat/111/1813], provided that: 
 
 > “The Secretary of Defense may not implement procedures for collecting premiums under \[former\] [section 1076b(b)(3) of title 10][/us/usc/t10/s1076b/b/3], United States Code, or section 1076c(c)(2) of such title other than by deductions and withholding from pay until 120 days after the date that the Secretary submits a report to Congress describing the justifications for implementing such alternative procedures.”
 
  __Implementation of Dental Plan__ 
 
-[Pub. L. 104–201, div. A, title VII, § 703(b)][/us/pl/104/201/s703/b], Sept. 23, 1996, [110 Stat. 2590][/us/stat/110/2590], as amended by [Pub. L. 105–85, div. A, title VII, § 733(e)][/us/pl/105/85/s733/e], Nov. 18, 1997, [111 Stat. 1813][/us/stat/111/1813], provided that: 
+[Pub. L. 104–201, div. A, title VII][/us/pl/104/201/dA/tVII], § 703(b), Sept. 23, 1996, [110 Stat. 2590][/us/stat/110/2590], as amended by [Pub. L. 105–85, div. A, title VII][/us/pl/105/85/dA/tVII], § 733(e), Nov. 18, 1997, [111 Stat. 1813][/us/stat/111/1813], provided that: 
 
 > “Beginning not later than April 1, 1998, the Secretary of Defense shall—
 
@@ -180,35 +180,35 @@
 [/us/usc/t10/s1076a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076a
 [/us/usc/t10/s1072/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2
 [/us/usc/t10/s1072/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2
-[/us/pl/104/201/s703/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs703%2Fa%2F1
+[/us/pl/104/201/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVII
 [/us/stat/110/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2588
-[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVII
 [/us/stat/111/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1807
-[/us/pl/105/261/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs702
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2056
-[/us/pl/106/65/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs704
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F683
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t10/s1076a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076a
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/105/261/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs702%2Fa
-[/us/pl/105/261/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs702%2Fb
-[/us/pl/105/85/s734/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs734%2Fa%2F1
-[/us/pl/105/85/s734/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs734%2Fa%2F2
-[/us/pl/105/85/s701/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs701%2F1%2FA
-[/us/pl/105/85/s701/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs701%2F1%2FB
-[/us/pl/105/85/s733/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs733%2Fb
-[/us/pl/105/85/s734/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs734%2Fb%2F2
-[/us/pl/105/85/s733/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs733%2Fd
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVII
 [/us/stat/111/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1813
 [/us/usc/t10/s1076b/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076b%2Fb%2F3
-[/us/pl/104/201/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs703%2Fb
+[/us/pl/104/201/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVII
 [/us/stat/110/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2590
-[/us/pl/105/85/s733/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs733%2Fe
+[/us/pl/105/85/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVII
 [/us/stat/111/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1813
 [/us/usc/t10/s1076c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076c
 

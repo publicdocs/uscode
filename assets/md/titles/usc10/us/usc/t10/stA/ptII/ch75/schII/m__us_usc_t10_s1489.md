@@ -45,7 +45,7 @@
 
         (3) shall be made under the same conditions as apply to payments authorized by section 413 of the Foreign Service Act of 1980 ([22 U.S.C. 3973][/us/usc/t22/s3973]).
 
-(Added [Pub. L. 96–450, title IV, § 403(b)(1)][/us/pl/96/450/s403/b/1], Oct. 14, 1980, [94 Stat. 1979][/us/stat/94/1979]; amended [Pub. L. 97–22, § 11(a)(6)][/us/pl/97/22/s11/a/6], July 10, 1981, [95 Stat. 138][/us/stat/95/138]; [Pub. L. 98–94, title XII, § 1268(9)][/us/pl/98/94/s1268/9], Sept. 24, 1983, [97 Stat. 706][/us/stat/97/706]; [Pub. L. 99–145, title XIII, § 1303(a)(12)][/us/pl/99/145/s1303/a/12], Nov. 8, 1985, [99 Stat. 739][/us/stat/99/739].)
+(Added [Pub. L. 96–450, title IV][/us/pl/96/450/tIV], § 403(b)(1), Oct. 14, 1980, [94 Stat. 1979][/us/stat/94/1979]; amended [Pub. L. 97–22][/us/pl/97/22], § 11(a)(6), July 10, 1981, [95 Stat. 138][/us/stat/95/138]; [Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1268(9), Sept. 24, 1983, [97 Stat. 706][/us/stat/97/706]; [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1303(a)(12), Nov. 8, 1985, [99 Stat. 739][/us/stat/99/739].)
 
  __Amendments__ 
 
@@ -63,13 +63,13 @@
 ----------
 
 [/us/usc/t22/s3973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3973
-[/us/pl/96/450/s403/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F450%2Fs403%2Fb%2F1
+[/us/pl/96/450/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F450%2FtIV
 [/us/stat/94/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1979
-[/us/pl/97/22/s11/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs11%2Fa%2F6
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F138
-[/us/pl/98/94/s1268/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1268%2F9
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F706
-[/us/pl/99/145/s1303/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1303%2Fa%2F12
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F739
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94

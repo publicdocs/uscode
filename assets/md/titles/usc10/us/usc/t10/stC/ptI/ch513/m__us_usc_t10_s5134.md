@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5133.md) | [Next](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5135.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5134)
 
-## \[§ 5134. Repealed. [Pub. L. 87–649, § 14c(16)][/us/pl/87/649/s14c/16], Sept. 7, 1962, [76 Stat. 501][/us/stat/76/501]\]
+## \[§ 5134. Repealed. [Pub. L. 87–649][/us/pl/87/649], § 14c(16), Sept. 7, 1962, [76 Stat. 501][/us/stat/76/501]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 286][/us/stat/70A/286], prescribed pay of deputy chiefs of bureaus. See Title 37, Pay and Allowances of the Uniformed Services.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/87/649/s14c/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs14c%2F16
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F286

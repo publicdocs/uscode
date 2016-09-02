@@ -29,7 +29,7 @@
 
         The Secretary shall determine, and pay out of funds appropriated for the payment of rent by the Department of the Army, just compensation for that use. If the amount of the compensation is not satisfactory to the person entitled to it, the Secretary shall pay 75 percent of it to that person, and the claimant is entitled to recover by action against the United States an additional amount that, when added to the amount paid by the Secretary, is determined by the court to be just compensation for that use.
 
-(Added [Pub. L. 85–861, § 1(105)(A)][/us/pl/85/861/s1/105/A], Sept. 2, 1958, [72 Stat. 1489][/us/stat/72/1489].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(105)(A), Sept. 2, 1958, [72 Stat. 1489][/us/stat/72/1489].)
 
 <table>
 
@@ -102,7 +102,7 @@ July 8, 1918, ch. 139 (2d par. under “War Department”), 40 Stat. 826.  </td>
 ----------
 ----------
 
-[/us/pl/85/861/s1/105/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F105%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1489
 
 

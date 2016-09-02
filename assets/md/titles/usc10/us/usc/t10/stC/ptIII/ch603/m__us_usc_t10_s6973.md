@@ -23,7 +23,7 @@
 
     (d) Upon the request of the Secretary of the Navy, the Secretary of the Treasury may invest, reinvest, or retain investments of money or securities comprising any part of the United States Naval Academy Gift and Museum Fund in securities of the United States or in securities guaranteed as to principal and interest by the United States. The interest and benefits accruing from those securities shall be deposited to the credit of the United States Naval Academy Gift and Museum Fund and may be disbursed as provided in this section.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 436][/us/stat/70A/436]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 942(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–241.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 436][/us/stat/70A/436]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 942(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–241.)
 
 <table>
 
@@ -119,19 +119,19 @@ Mar. 31, 1944, ch. 147, § 4, 58 Stat. 135.  </td>
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 942(c)(4)\], substituted “Gifts, bequests, and loans of property: acceptance for benefit and use of Naval Academy” for “Gifts and bequests: acceptance for benefit of Naval Academy” as section catchline.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 942(c)(4)\], substituted “Gifts, bequests, and loans of property: acceptance for benefit and use of Naval Academy” for “Gifts and bequests: acceptance for benefit of Naval Academy” as section catchline.
 
-    Subsec. (a). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 942(c)(1)\], in first sentence, substituted “any gift or bequest of personal property, and may accept, hold, and administer any loan of personal property other than money, that is” for “gifts and bequests of personal property” and inserted “or the Naval Academy Museum, its collection, or its services” before period at end, in second sentence, substituted “United States Naval Academy Gift and Museum Fund” for “United States Naval Academy general gift fund”, and, in last sentence, inserted “(including the Naval Academy Museum)” after “the Naval Academy”.
+    Subsec. (a). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 942(c)(1)\], in first sentence, substituted “any gift or bequest of personal property, and may accept, hold, and administer any loan of personal property other than money, that is” for “gifts and bequests of personal property” and inserted “or the Naval Academy Museum, its collection, or its services” before period at end, in second sentence, substituted “United States Naval Academy Gift and Museum Fund” for “United States Naval Academy general gift fund”, and, in last sentence, inserted “(including the Naval Academy Museum)” after “the Naval Academy”.
 
-    Subsecs. (b), (c). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 942(c)(2)\], added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    Subsecs. (b), (c). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 942(c)(2)\], added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 942(c)(3)\], substituted “United States Naval Academy Gift and Museum Fund” for “United States Naval Academy general gift fund” in two places.
+    Subsec. (d). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 942(c)(3)\], substituted “United States Naval Academy Gift and Museum Fund” for “United States Naval Academy general gift fund” in two places.
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 942(c)(2)(A)\], redesignated subsec. (c) as (d).
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 942(c)(2)(A)\], redesignated subsec. (c) as (d).
 
  __Temporary Authority To Dispose of Gift Previously Accepted for Naval Academy__ 
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 943\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–243, provided that during fiscal year 2001, the Secretary of the Navy could dispose of a gift accepted before Oct. 30, 2000 for the United States Naval Academy by disbursing from the United States Naval Academy general gift fund to an entity designated by the donor of the gift the amount equal to the current cash value of that gift.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 943\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–243, provided that during fiscal year 2001, the Secretary of the Navy could dispose of a gift accepted before Oct. 30, 2000 for the United States Naval Academy by disbursing from the United States Naval Academy general gift fund to an entity designated by the donor of the gift the amount equal to the current cash value of that gift.
 
 ----------
 
@@ -142,14 +142,14 @@ Mar. 31, 1944, ch. 147, § 4, 58 Stat. 135.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F436
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

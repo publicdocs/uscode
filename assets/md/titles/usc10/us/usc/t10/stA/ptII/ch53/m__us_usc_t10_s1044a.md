@@ -45,19 +45,19 @@
 
     (d) The signature of any such person acting as notary, together with the title of that person’s offices, is prima facie evidence that the signature is genuine, that the person holds the designated title, and that the person is authorized to perform a notarial act.
 
-(Added [Pub. L. 101–510, div. A, title V, § 551(a)(1)][/us/pl/101/510/s551/a/1], Nov. 5, 1990, [104 Stat. 1566][/us/stat/104/1566]; amended [Pub. L. 104–201, div. A, title V, § 573][/us/pl/104/201/s573], Sept. 23, 1996, [110 Stat. 2534][/us/stat/110/2534]; [Pub. L. 107–107, div. A, title XI, § 1103][/us/pl/107/107/s1103], Dec. 28, 2001, [115 Stat. 1236][/us/stat/115/1236].)
+(Added [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 551(a)(1), Nov. 5, 1990, [104 Stat. 1566][/us/stat/104/1566]; amended [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 573, Sept. 23, 1996, [110 Stat. 2534][/us/stat/110/2534]; [Pub. L. 107–107, div. A, title XI][/us/pl/107/107/dA/tXI], § 1103, Dec. 28, 2001, [115 Stat. 1236][/us/stat/115/1236].)
 
  __Amendments__ 
 
-    2001—Subsec. (b)(2). [Pub. L. 107–107, § 1103(a)][/us/pl/107/107/s1103/a], substituted “legal assistance attorneys” for “legal assistance officers”.
+    2001—Subsec. (b)(2). [Pub. L. 107–107][/us/pl/107/107], § 1103(a), substituted “legal assistance attorneys” for “legal assistance officers”.
 
-    Subsec. (b)(5). [Pub. L. 107–107, § 1103(b)][/us/pl/107/107/s1103/b], added par. (5).
+    Subsec. (b)(5). [Pub. L. 107–107][/us/pl/107/107], § 1103(b), added par. (5).
 
-    1996—Subsec. (b)(1). [Pub. L. 104–201, § 573(1)][/us/pl/104/201/s573/1], substituted “, including reserve judge advocates when not in a duty status” for “on active duty or performing inactive-duty training”.
+    1996—Subsec. (b)(1). [Pub. L. 104–201][/us/pl/104/201], § 573(1), substituted “, including reserve judge advocates when not in a duty status” for “on active duty or performing inactive-duty training”.
 
-    Subsec. (b)(3). [Pub. L. 104–201, § 573(2)][/us/pl/104/201/s573/2], substituted “adjutants, including reserve members when not in a duty status” for “adjutants on active duty or performing inactive-duty training”.
+    Subsec. (b)(3). [Pub. L. 104–201][/us/pl/104/201], § 573(2), substituted “adjutants, including reserve members when not in a duty status” for “adjutants on active duty or performing inactive-duty training”.
 
-    Subsec. (b)(4). [Pub. L. 104–201, § 573(3)][/us/pl/104/201/s573/3], substituted “members of the armed forces, including reserve members when not in a duty status,” for “persons on active duty or performing inactive-duty training”.
+    Subsec. (b)(4). [Pub. L. 104–201][/us/pl/104/201], § 573(3), substituted “members of the armed forces, including reserve members when not in a duty status,” for “persons on active duty or performing inactive-duty training”.
 
  __Transfer of Functions__ 
 
@@ -71,17 +71,17 @@
 ----------
 
 [/us/usc/t10/s1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044
-[/us/pl/101/510/s551/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs551%2Fa%2F1
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1566
-[/us/pl/104/201/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs573
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2534
-[/us/pl/107/107/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1103
+[/us/pl/107/107/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXI
 [/us/stat/115/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1236
-[/us/pl/107/107/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1103%2Fa
-[/us/pl/107/107/s1103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1103%2Fb
-[/us/pl/104/201/s573/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs573%2F1
-[/us/pl/104/201/s573/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs573%2F2
-[/us/pl/104/201/s573/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs573%2F3
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

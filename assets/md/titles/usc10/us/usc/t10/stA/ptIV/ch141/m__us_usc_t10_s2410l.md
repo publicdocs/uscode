@@ -29,17 +29,17 @@
 
     The Secretary of Defense may, pursuant to guidelines prescribed by the Secretary, waive the requirement to perform a cost comparison study under subsection (a)(2) based on factors that are not related to cost.
 
-(Added [Pub. L. 103–337, div. A, title III, § 363(a)(1)][/us/pl/103/337/s363/a/1], Oct. 5, 1994, [108 Stat. 2733][/us/stat/108/2733].)
+(Added [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 363(a)(1), Oct. 5, 1994, [108 Stat. 2733][/us/stat/108/2733].)
 
  __Effective Date__ 
 
-[Pub. L. 103–337, div. A, title III, § 363(c)][/us/pl/103/337/s363/c], Oct. 5, 1994, [108 Stat. 2734][/us/stat/108/2734], provided that: 
+[Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 363(c), Oct. 5, 1994, [108 Stat. 2734][/us/stat/108/2734], provided that: 
 
 > “Section 2410l of title 10, United States Code, as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act \[Oct. 5, 1994\].”
 
  __Procedures for Conduct of Studies__ 
 
-[Pub. L. 103–337, div. A, title III, § 363(b)][/us/pl/103/337/s363/b], Oct. 5, 1994, [108 Stat. 2734][/us/stat/108/2734], provided that: 
+[Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 363(b), Oct. 5, 1994, [108 Stat. 2734][/us/stat/108/2734], provided that: 
 
 > “The Secretary of Defense shall prescribe the following procedures:
 
@@ -54,11 +54,11 @@
 ----------
 ----------
 
-[/us/pl/103/337/s363/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs363%2Fa%2F1
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2733
-[/us/pl/103/337/s363/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs363%2Fc
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2734
-[/us/pl/103/337/s363/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs363%2Fb
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2734
 
 

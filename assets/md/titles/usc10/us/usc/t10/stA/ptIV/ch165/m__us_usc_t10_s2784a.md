@@ -87,25 +87,25 @@
 
     This section does not apply to the Coast Guard.
 
-(Added [Pub. L. 107–314, div. A, title X, § 1008(a)][/us/pl/107/314/s1008/a], Dec. 2, 2002, [116 Stat. 2634][/us/stat/116/2634]; amended [Pub. L. 108–136, div. A, title X, § 1009(a)][/us/pl/108/136/s1009/a]–(c)(1), Nov. 24, 2003, [117 Stat. 1587][/us/stat/117/1587], 1588; [Pub. L. 109–364, div. A, title X, § 1071(a)(25)][/us/pl/109/364/s1071/a/25], Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399]; [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A], Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465]; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948].)
+(Added [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1008(a), Dec. 2, 2002, [116 Stat. 2634][/us/stat/116/2634]; amended [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1009(a)–(c)(1), Nov. 24, 2003, [117 Stat. 1587][/us/stat/117/1587], 1588; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(25), Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399]; [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(f)(4)(A), Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(9), Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948].)
 
  __Amendments__ 
 
-    2013—Subsec. (a)(3). [Pub. L. 112–239, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], made technical amendment to directory language of [Pub. L. 112–81, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A]. See 2011 Amendment note below.
+    2013—Subsec. (a)(3). [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(9), made technical amendment to directory language of [Pub. L. 112–81][/us/pl/112/81], § 631(f)(4)(A). See 2011 Amendment note below.
 
-    2011—Subsec. (a)(3). [Pub. L. 112–81, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A], as amended by [Pub. L. 112–239, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], substituted “474” for “404”.
+    2011—Subsec. (a)(3). [Pub. L. 112–81][/us/pl/112/81], § 631(f)(4)(A), as amended by [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(9), substituted “474” for “404”.
 
     2006—Subsec. (a)(2). [Pub. L. 109–364][/us/pl/109/364] substituted “card” for “care”.
 
-    2003—Subsec. (a)(1). [Pub. L. 108–136, § 1009(a)(1)][/us/pl/108/136/s1009/a/1], substituted “The Secretary of Defense shall require” for “The Secretary of Defense may require”.
+    2003—Subsec. (a)(1). [Pub. L. 108–136][/us/pl/108/136], § 1009(a)(1), substituted “The Secretary of Defense shall require” for “The Secretary of Defense may require”.
 
-    Subsec. (a)(2), (3). [Pub. L. 108–136, § 1009(a)(2)][/us/pl/108/136/s1009/a/2], (3), added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (a)(2), (3). [Pub. L. 108–136][/us/pl/108/136], § 1009(a)(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsecs. (d) to (g). [Pub. L. 108–136, § 1009(b)][/us/pl/108/136/s1009/b], (c)(1), added subsecs. (d) and (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
+    Subsecs. (d) to (g). [Pub. L. 108–136][/us/pl/108/136], § 1009(b), (c)(1), added subsecs. (d) and (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
 
  __Effective Date of 2013 Amendment__ 
 
-    [Pub. L. 112–239, div. A, title X, § 1076(a)][/us/pl/112/239/s1076/a], Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
+    [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a), Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
 
  __Transfer of Functions__ 
 
@@ -122,25 +122,25 @@
 [/us/usc/t37/s474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs474
 [/us/usc/t31/s3716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3716
 [/us/usc/t10/s892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs892
-[/us/pl/107/314/s1008/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1008%2Fa
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2634
-[/us/pl/108/136/s1009/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1009%2Fa
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1587
-[/us/pl/109/364/s1071/a/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F25
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2399
-[/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1465
-[/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
-[/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
-[/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA
-[/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA
-[/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/108/136/s1009/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1009%2Fa%2F1
-[/us/pl/108/136/s1009/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1009%2Fa%2F2
-[/us/pl/108/136/s1009/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1009%2Fb
-[/us/pl/112/239/s1076/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1947
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

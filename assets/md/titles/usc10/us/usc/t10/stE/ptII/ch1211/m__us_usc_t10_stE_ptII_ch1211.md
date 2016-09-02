@@ -91,7 +91,7 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–106, div. A, title XV, § 1501(b)(18)(A)][/us/pl/104/106/s1501/b/18/A], Feb. 10, 1996, [110 Stat. 497][/us/stat/110/497], inserted “the” after “Army and Air National Guard of” in items 12401, 12402, 12403, and 12404.
+    1996—[Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(18)(A), Feb. 10, 1996, [110 Stat. 497][/us/stat/110/497], inserted “the” after “Army and Air National Guard of” in items 12401, 12402, 12403, and 12404.
 
 ----------
 
@@ -100,7 +100,7 @@
 ----------
 ----------
 
-[/us/pl/104/106/s1501/b/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F18%2FA
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F497
 
 

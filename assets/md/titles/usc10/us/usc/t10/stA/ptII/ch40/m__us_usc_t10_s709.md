@@ -55,7 +55,7 @@
 
         (2) The term “excess leave status” means leave approved to be used by a member of the armed forces that is unearned leave for which a member is unable to accrue leave credit during the member’s current term of service before the member’s separation.
 
-(Added [Pub. L. 107–314, div. A, title V, § 572(a)][/us/pl/107/314/s572/a], Dec. 2, 2002, [116 Stat. 2557][/us/stat/116/2557].)
+(Added [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 572(a), Dec. 2, 2002, [116 Stat. 2557][/us/stat/116/2557].)
 
 ----------
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/107/314/s572/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs572%2Fa
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2557
 
 

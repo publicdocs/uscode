@@ -37,11 +37,11 @@
 
         (2) The term “unutilized and underutilized plant-capacity costs” means the costs associated with operating and maintaining the facilities and equipment of an Army arsenal that the Secretary of the Army determines are required to be kept for mobilization needs, in those months in which the facilities and equipment are not used or are used only 20 percent or less of available work days.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 342(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–64.)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 342(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–64.)
 
  __Prior Provisions__ 
 
-    A prior section 4541, added [Pub. L. 97–258, § 2(b)(9)(B)][/us/pl/97/258/s2/b/9/B], Sept. 13, 1982, [96 Stat. 1056][/us/stat/96/1056], authorized Secretary of the Army to accept gratuitous services of officers of the Army Reserve, prior to repeal by [Pub. L. 103–160, div. A, title VIII, § 822(d)(2)][/us/pl/103/160/s822/d/2], Nov. 30, 1993, [107 Stat. 1707][/us/stat/107/1707]. See [section 10212 of this title][/us/usc/t10/s10212].
+    A prior section 4541, added [Pub. L. 97–258][/us/pl/97/258], § 2(b)(9)(B), Sept. 13, 1982, [96 Stat. 1056][/us/stat/96/1056], authorized Secretary of the Army to accept gratuitous services of officers of the Army Reserve, prior to repeal by [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 822(d)(2), Nov. 30, 1993, [107 Stat. 1707][/us/stat/107/1707]. See [section 10212 of this title][/us/usc/t10/s10212].
 
 ----------
 
@@ -51,11 +51,11 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/97/258/s2/b/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F9%2FB
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1056
-[/us/pl/103/160/s822/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs822%2Fd%2F2
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1707
 [/us/usc/t10/s10212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10212
 

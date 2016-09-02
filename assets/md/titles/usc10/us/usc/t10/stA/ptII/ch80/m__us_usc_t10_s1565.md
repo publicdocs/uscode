@@ -67,7 +67,7 @@
 
     This section shall be carried out under regulations prescribed by the Secretary of Defense, in consultation with the Secretary of Homeland Security and the Attorney General. Those regulations shall apply, to the extent practicable, uniformly throughout the armed forces.
 
-(Added [Pub. L. 106–546, § 5(a)(1)][/us/pl/106/546/s5/a/1], Dec. 19, 2000, [114 Stat. 2731][/us/stat/114/2731]; amended [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–405, title II, § 203(c)][/us/pl/108/405/s203/c], Oct. 30, 2004, [118 Stat. 2270][/us/stat/118/2270].)
+(Added [Pub. L. 106–546][/us/pl/106/546], § 5(a)(1), Dec. 19, 2000, [114 Stat. 2731][/us/stat/114/2731]; amended [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–405, title II][/us/pl/108/405/tII], § 203(c), Oct. 30, 2004, [118 Stat. 2270][/us/stat/118/2270].)
 
  __References in Text__ 
 
@@ -93,13 +93,13 @@
 
  __Initial Determination of Qualifying Military Offenses__ 
 
-[Pub. L. 106–546, § 5(b)][/us/pl/106/546/s5/b], Dec. 19, 2000, [114 Stat. 2733][/us/stat/114/2733], provided that: 
+[Pub. L. 106–546][/us/pl/106/546], § 5(b), Dec. 19, 2000, [114 Stat. 2733][/us/stat/114/2733], provided that: 
 
 > “The initial determination of qualifying military offenses under [section 1565(d) of title 10][/us/usc/t10/s1565/d], United States Code, as added by subsection (a)(1), shall be made not later than 120 days after the date of the enactment of this Act \[Dec. 19, 2000\].”
 
  __Commencement of Collection__ 
 
-[Pub. L. 106–546, § 5(c)][/us/pl/106/546/s5/c], Dec. 19, 2000, [114 Stat. 2733][/us/stat/114/2733], provided that: 
+[Pub. L. 106–546][/us/pl/106/546], § 5(c), Dec. 19, 2000, [114 Stat. 2733][/us/stat/114/2733], provided that: 
 
 > “Collection of DNA samples under section 1565(a) of such title, as added by subsection (a)(1), shall, subject to the availability of appropriations, commence not later than the date that is 60 days after the date of the initial determination referred to in subsection (b) \[set out above\].”
 
@@ -111,11 +111,11 @@
 ----------
 
 [/us/usc/t42/s14135a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14135a%2Fd
-[/us/pl/106/546/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs5%2Fa%2F1
+[/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/stat/114/2731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2731
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/108/405/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs203%2Fc
+[/us/pl/108/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtII
 [/us/stat/118/2270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2270
 [/us/usc/t42/s14132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14132
 [/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
@@ -123,10 +123,10 @@
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/106/546/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs5%2Fb
+[/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/stat/114/2733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2733
 [/us/usc/t10/s1565/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1565%2Fd
-[/us/pl/106/546/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs5%2Fc
+[/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/stat/114/2733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2733
 
 

@@ -27,7 +27,7 @@
 
     Any repayment under [section 303a(e) of title 37][/us/usc/t37/s303a/e] shall not affect the period of obligation of a member to serve as a Reserve in the Selected Reserve.
 
-(Added [Pub. L. 95–79, title IV, § 402(a)][/us/pl/95/79/s402/a], July 30, 1977, [91 Stat. 330][/us/stat/91/330], § 2135; amended [Pub. L. 95–485, title IV, § 402(b)][/us/pl/95/485/s402/b], Oct. 20, 1978, [92 Stat. 1613][/us/stat/92/1613]; [Pub. L. 96–342, title IX, § 906(b)][/us/pl/96/342/s906/b], Sept. 8, 1980, [94 Stat. 1117][/us/stat/94/1117]; [Pub. L. 98–525, title VII, § 705(a)(1)][/us/pl/98/525/s705/a/1], Oct. 19, 1984, [98 Stat. 2566][/us/stat/98/2566]; [Pub. L. 100–689, title I, § 111(b)(6)][/us/pl/100/689/s111/b/6], Nov. 18, 1988, [102 Stat. 4173][/us/stat/102/4173]; renumbered § 16135 and amended [Pub. L. 103–337, div. A, title XVI, § 1663(b)(2)][/us/pl/103/337/s1663/b/2], (6), Oct. 5, 1994, [108 Stat. 3006][/us/stat/108/3006], 3007; [Pub. L. 104–106, div. A, title XV, § 1501(b)(35)][/us/pl/104/106/s1501/b/35], Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498]; [Pub. L. 107–314, div. A, title VI, § 642][/us/pl/107/314/s642], Dec. 2, 2002, [116 Stat. 2577][/us/stat/116/2577]; [Pub. L. 109–163, div. A, title VI, § 687(c)(12)][/us/pl/109/163/s687/c/12], Jan. 6, 2006, [119 Stat. 3335][/us/stat/119/3335].)
+(Added [Pub. L. 95–79, title IV][/us/pl/95/79/tIV], § 402(a), July 30, 1977, [91 Stat. 330][/us/stat/91/330], § 2135; amended [Pub. L. 95–485, title IV][/us/pl/95/485/tIV], § 402(b), Oct. 20, 1978, [92 Stat. 1613][/us/stat/92/1613]; [Pub. L. 96–342, title IX][/us/pl/96/342/tIX], § 906(b), Sept. 8, 1980, [94 Stat. 1117][/us/stat/94/1117]; [Pub. L. 98–525, title VII][/us/pl/98/525/tVII], § 705(a)(1), Oct. 19, 1984, [98 Stat. 2566][/us/stat/98/2566]; [Pub. L. 100–689, title I][/us/pl/100/689/tI], § 111(b)(6), Nov. 18, 1988, [102 Stat. 4173][/us/stat/102/4173]; renumbered § 16135 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1663(b)(2), (6), Oct. 5, 1994, [108 Stat. 3006][/us/stat/108/3006], 3007; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(35), Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498]; [Pub. L. 107–314, div. A, title VI][/us/pl/107/314/dA/tVI], § 642, Dec. 2, 2002, [116 Stat. 2577][/us/stat/116/2577]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 687(c)(12), Jan. 6, 2006, [119 Stat. 3335][/us/stat/119/3335].)
 
  __Amendments__ 
 
@@ -37,15 +37,15 @@
 
     1996—Subsec. (b)(1)(A). [Pub. L. 104–106][/us/pl/104/106] substituted “16131(a)” for “2131(a)”.
 
-    1994—[Pub. L. 103–337, § 1663(b)(2)][/us/pl/103/337/s1663/b/2], renumbered [section 2135 of this title][/us/usc/t10/s2135] as this section.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 1663(b)(2), renumbered [section 2135 of this title][/us/usc/t10/s2135] as this section.
 
-    Subsec. (a)(1)(A). [Pub. L. 103–337, § 1663(b)(6)(A)][/us/pl/103/337/s1663/b/6/A], substituted “16132” for “2132”.
+    Subsec. (a)(1)(A). [Pub. L. 103–337][/us/pl/103/337], § 1663(b)(6)(A), substituted “16132” for “2132”.
 
-    Subsec. (b)(1)(A). [Pub. L. 103–337, § 1663(b)(6)(B)][/us/pl/103/337/s1663/b/6/B], which directed substitution of “section 16132(a)” for “section 2132(a)”, could not be executed because “section 2132(a)” does not appear in subsec. (b)(1)(A).
+    Subsec. (b)(1)(A). [Pub. L. 103–337][/us/pl/103/337], § 1663(b)(6)(B), which directed substitution of “section 16132(a)” for “section 2132(a)”, could not be executed because “section 2132(a)” does not appear in subsec. (b)(1)(A).
 
-    1988—Subsec. (a)(1). [Pub. L. 100–689, § 111(b)(6)(A)][/us/pl/100/689/s111/b/6/A], inserted “, and during which the member has received such assistance,” after “chapter”.
+    1988—Subsec. (a)(1). [Pub. L. 100–689][/us/pl/100/689], § 111(b)(6)(A), inserted “, and during which the member has received such assistance,” after “chapter”.
 
-    Subsec. (b)(1)(A). [Pub. L. 100–689, § 111(b)(6)(B)][/us/pl/100/689/s111/b/6/B], added subpar. (A) and struck out former subpar. (A) which read as follows: “the number of months of obligated service remaining under the agreement entered into under section 2132(a)(3) divided by the original number of months of such obligation; and”.
+    Subsec. (b)(1)(A). [Pub. L. 100–689][/us/pl/100/689], § 111(b)(6)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “the number of months of obligated service remaining under the agreement entered into under section 2132(a)(3) divided by the original number of months of such obligation; and”.
 
     1984—[Pub. L. 98–525][/us/pl/98/525] amended section generally, substituting provisions relating to the failure to participate satisfactorily and penalties for provisions which had designated Sept. 30, 1985, as the termination date for enlistments qualifying for educational assistance.
 
@@ -79,33 +79,33 @@
 [/us/usc/t10/s16132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16132
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/95/79/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2Fs402%2Fa
+[/us/pl/95/79/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2FtIV
 [/us/stat/91/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F330
-[/us/pl/95/485/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs402%2Fb
+[/us/pl/95/485/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2FtIV
 [/us/stat/92/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1613
-[/us/pl/96/342/s906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs906%2Fb
+[/us/pl/96/342/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtIX
 [/us/stat/94/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1117
-[/us/pl/98/525/s705/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs705%2Fa%2F1
+[/us/pl/98/525/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVII
 [/us/stat/98/2566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2566
-[/us/pl/100/689/s111/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs111%2Fb%2F6
+[/us/pl/100/689/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2FtI
 [/us/stat/102/4173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4173
-[/us/pl/103/337/s1663/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fb%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3006
-[/us/pl/104/106/s1501/b/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F35
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F498
-[/us/pl/107/314/s642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs642
+[/us/pl/107/314/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVI
 [/us/stat/116/2577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2577
-[/us/pl/109/163/s687/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fc%2F12
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3335
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/337/s1663/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fb%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2135
-[/us/pl/103/337/s1663/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fb%2F6%2FA
-[/us/pl/103/337/s1663/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fb%2F6%2FB
-[/us/pl/100/689/s111/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs111%2Fb%2F6%2FA
-[/us/pl/100/689/s111/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs111%2Fb%2F6%2FB
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/100/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689
+[/us/pl/100/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/96/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342
 [/us/pl/95/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485

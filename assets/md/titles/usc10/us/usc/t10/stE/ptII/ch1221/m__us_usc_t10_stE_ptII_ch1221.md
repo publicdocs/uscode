@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–106, div. A, title V, § 563(a)(2)(B)][/us/pl/104/106/s563/a/2/B], Feb. 10, 1996, [110 Stat. 325][/us/stat/110/325], added item 12687.
+    1996—[Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 563(a)(2)(B), Feb. 10, 1996, [110 Stat. 325][/us/stat/110/325], added item 12687.
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/104/106/s563/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs563%2Fa%2F2%2FB
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F325
 
 

@@ -19,7 +19,7 @@
 
     (b) Notwithstanding any other provision of law, a cadet who completes the prescribed course of instruction may, upon graduation, be appointed a second lieutenant in the Regular Army under [section 531 of this title][/us/usc/t10/s531].
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 245][/us/stat/70A/245]; [Pub. L. 85–861, § 1(103)][/us/pl/85/861/s1/103], Sept. 2, 1958, [72 Stat. 1489][/us/stat/72/1489]; [Pub. L. 96–513, title V, § 502(26)][/us/pl/96/513/s502/26], Dec. 12, 1980, [94 Stat. 2911][/us/stat/94/2911].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 245][/us/stat/70A/245]; [Pub. L. 85–861][/us/pl/85/861], § 1(103), Sept. 2, 1958, [72 Stat. 1489][/us/stat/72/1489]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 502(26), Dec. 12, 1980, [94 Stat. 2911][/us/stat/94/2911].)
 
 <table>
 
@@ -155,7 +155,7 @@ July 20, 1956, ch. 646, § 103(c) (1st sentence), 70 Stat. 583.  </td>
 
  __Degrees for Persons Who Graduated Before Accrediting of Military Academy__ 
 
-    [Act Aug. 10, 1956, ch. 1041, § 35][/us/act/1956-08-10/ch1041/s35], [70A Stat. 634][/us/stat/70A/634], provided in part that, under conditions prescribed by the Secretary of the Army, the Superintendent of the United States Military Academy may confer the degree of bachelor of science upon living graduates of the Academy who were graduated before the date of accrediting of the Academy and who have met the requirements of the Academy for that degree.
+    [Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 35, [70A Stat. 634][/us/stat/70A/634], provided in part that, under conditions prescribed by the Secretary of the Army, the Superintendent of the United States Military Academy may confer the degree of bachelor of science upon living graduates of the Academy who were graduated before the date of accrediting of the Academy and who have met the requirements of the Academy for that degree.
 
 ----------
 
@@ -167,9 +167,9 @@ July 20, 1956, ch. 646, § 103(c) (1st sentence), 70 Stat. 583.  </td>
 [/us/usc/t10/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs531
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F245
-[/us/pl/85/861/s1/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F103
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1489
-[/us/pl/96/513/s502/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs502%2F26
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2911
 [/us/usc/t10/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs541
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
@@ -179,7 +179,7 @@ July 20, 1956, ch. 646, § 103(c) (1st sentence), 70 Stat. 583.  </td>
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/act/1956-08-10/ch1041/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs35
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F634
 
 

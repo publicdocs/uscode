@@ -37,7 +37,7 @@
 
             (B) The Secretary shall, from funds in the special account established under paragraph (1), replenish operations and maintenance accounts for amounts expended under subparagraph (A) as soon as the Secretary determines practicable.
 
-(Added [Pub. L. 104–106, div. A, title XIII, § 1321(a)(1)][/us/pl/104/106/s1321/a/1], Feb. 10, 1996, [110 Stat. 476][/us/stat/110/476]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1081(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–284.)
+(Added [Pub. L. 104–106, div. A, title XIII][/us/pl/104/106/dA/tXIII], § 1321(a)(1), Feb. 10, 1996, [110 Stat. 476][/us/stat/110/476]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1081(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–284.)
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1081(b), (c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–284, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1081(b), (c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–284, provided that:
 
 >     “(b)  __Effective Date__  __.—__ 
 
@@ -76,12 +76,12 @@
 ----------
 ----------
 
-[/us/pl/104/106/s1321/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1321%2Fa%2F1
+[/us/pl/104/106/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXIII
 [/us/stat/110/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F476
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s2540c/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2540c%2Fd
 [/us/usc/t10/s2540c/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2540c%2Fd

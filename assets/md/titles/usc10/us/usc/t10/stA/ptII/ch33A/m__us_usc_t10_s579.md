@@ -25,11 +25,11 @@
 
     (e) If the next selection board does not select the warrant officer for promotion, or if his name is again removed under subsection (a) from the list of officers recommended for promotion by the selection board or under subsection (b) from the warrant officer promotion list, he shall be treated for all purposes as if he has twice failed of selection for promotion.
 
-(Added [Pub. L. 102–190, div. A, title XI, § 1112(a)][/us/pl/102/190/s1112/a], Dec. 5, 1991, [105 Stat. 1497][/us/stat/105/1497].)
+(Added [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1112(a), Dec. 5, 1991, [105 Stat. 1497][/us/stat/105/1497].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 562 of this title][/us/usc/t10/s562] prior to repeal by [Pub. L. 102–190, § 1112(a)][/us/pl/102/190/s1112/a].
+    Provisions similar to those in this section were contained in [section 562 of this title][/us/usc/t10/s562] prior to repeal by [Pub. L. 102–190][/us/pl/102/190], § 1112(a).
 
 ----------
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/102/190/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1112%2Fa
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1497
 [/us/usc/t10/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs562
-[/us/pl/102/190/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1112%2Fa
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 
 

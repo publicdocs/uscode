@@ -113,103 +113,103 @@
 
     (g) Appropriations available to the Department of Defense for maintenance or construction may be used for the acquisition of interests in land under this section.
 
-(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 161][/us/stat/96/161]; amended [Pub. L. 97–321, title VIII, § 805(b)(2)][/us/pl/97/321/s805/b/2], Oct. 15, 1982, [96 Stat. 1573][/us/stat/96/1573]; [Pub. L. 98–115, title VIII, § 801][/us/pl/98/115/s801], Oct. 11, 1983, [97 Stat. 782][/us/stat/97/782]; [Pub. L. 98–407, title VIII, § 806(a)][/us/pl/98/407/s806/a], Aug. 28, 1984, [98 Stat. 1521][/us/stat/98/1521]; [Pub. L. 99–167, title VIII][/us/pl/99/167], §§ 801(b), 803, 805, Dec. 3, 1985, [99 Stat. 985][/us/stat/99/985], 987, 988; [Pub. L. 99–661, div. B, title VII][/us/pl/99/661], §§ 2702(d)–(g), 2713(b), 2714, Nov. 14, 1986, [100 Stat. 4040–4042][/us/stat/100/4040-4042]; [Pub. L. 100–26, § 7(j)(8)][/us/pl/100/26/s7/j/8], Apr. 21, 1987, [101 Stat. 283][/us/stat/101/283]; [Pub. L. 100–180, div. B][/us/pl/100/180], subdiv. 3, title I, §§ 2306(a), 2309, 2311, Dec. 4, 1987, [101 Stat. 1216][/us/stat/101/1216], 1217; [Pub. L. 100–370, § 1][/us/pl/100/370/s1](l)(2), July 19, 1988, [102 Stat. 849][/us/stat/102/849]; [Pub. L. 100–456, div. B, title XXVIII, § 2802][/us/pl/100/456/s2802], Sept. 29, 1988, [102 Stat. 2115][/us/stat/102/2115]; [Pub. L. 101–189, div. B, title XXVIII][/us/pl/101/189], §§ 2802, 2805, Nov. 29, 1989, [103 Stat. 1646][/us/stat/103/1646], 1647; [Pub. L. 102–190, div. B, title XXVIII, § 2806(b)][/us/pl/102/190/s2806/b], Dec. 5, 1991, [105 Stat. 1540][/us/stat/105/1540]; [Pub. L. 103–35, title II, § 201(d)(7)][/us/pl/103/35/s201/d/7], May 31, 1993, [107 Stat. 99][/us/stat/107/99]; [Pub. L. 103–160, div. B, title XXVIII, § 2801][/us/pl/103/160/s2801], Nov. 30, 1993, [107 Stat. 1883][/us/stat/107/1883]; [Pub. L. 104–106, div. B, title XXVIII, § 2816][/us/pl/104/106/s2816], Feb. 10, 1996, [110 Stat. 553][/us/stat/110/553]; [Pub. L. 105–85, div. B, title XXVIII, § 2803][/us/pl/105/85/s2803], Nov. 18, 1997, [111 Stat. 1990][/us/stat/111/1990]; [Pub. L. 105–261, div. B, title XXVIII, § 2802][/us/pl/105/261/s2802], Oct. 17, 1998, [112 Stat. 2202][/us/stat/112/2202]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. B, title XXVIII, § 2804\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–414; [Pub. L. 107–314, div. A, title X, § 1062(a)(15)][/us/pl/107/314/s1062/a/15], div. B, title XXVIII, § 2801, Dec. 2, 2002, [116 Stat. 2650][/us/stat/116/2650], 2702; [Pub. L. 108–136, div. B, title XXVIII][/us/pl/108/136], §§ 2803, 2804(a), Nov. 24, 2003, [117 Stat. 1719][/us/stat/117/1719]; [Pub. L. 109–163, div. B, title XXVIII, § 2802][/us/pl/109/163/s2802], Jan. 6, 2006, [119 Stat. 3505][/us/stat/119/3505]; [Pub. L. 109–364, div. B, title XXVIII, § 2804][/us/pl/109/364/s2804], Oct. 17, 2006, [120 Stat. 2467][/us/stat/120/2467]; [Pub. L. 110–181, div. B, title XXVIII, § 2806(a)][/us/pl/110/181/s2806/a]–(c), Jan. 28, 2008, [122 Stat. 540][/us/stat/122/540], 541; [Pub. L. 110–417, div. B, title XXVIII, § 2802][/us/pl/110/417/s2802], Oct. 14, 2008, [122 Stat. 4719][/us/stat/122/4719]; [Pub. L. 111–383, div. B, title XXVIII, § 2803(d)][/us/pl/111/383/s2803/d], Jan. 7, 2011, [124 Stat. 4459][/us/stat/124/4459].)
+(Added [Pub. L. 97–214][/us/pl/97/214], § 2(a), July 12, 1982, [96 Stat. 161][/us/stat/96/161]; amended [Pub. L. 97–321, title VIII][/us/pl/97/321/tVIII], § 805(b)(2), Oct. 15, 1982, [96 Stat. 1573][/us/stat/96/1573]; [Pub. L. 98–115, title VIII][/us/pl/98/115/tVIII], § 801, Oct. 11, 1983, [97 Stat. 782][/us/stat/97/782]; [Pub. L. 98–407, title VIII][/us/pl/98/407/tVIII], § 806(a), Aug. 28, 1984, [98 Stat. 1521][/us/stat/98/1521]; [Pub. L. 99–167, title VIII][/us/pl/99/167/tVIII], §§ 801(b), 803, 805, Dec. 3, 1985, [99 Stat. 985][/us/stat/99/985], 987, 988; [Pub. L. 99–661, div. B, title VII][/us/pl/99/661/dB/tVII], §§ 2702(d)–(g), 2713(b), 2714, Nov. 14, 1986, [100 Stat. 4040–4042][/us/stat/100/4040-4042]; [Pub. L. 100–26][/us/pl/100/26], § 7(j)(8), Apr. 21, 1987, [101 Stat. 283][/us/stat/101/283]; [Pub. L. 100–180, div. B][/us/pl/100/180/dB], subdiv. 3, title I, §§ 2306(a), 2309, 2311, Dec. 4, 1987, [101 Stat. 1216][/us/stat/101/1216], 1217; [Pub. L. 100–370][/us/pl/100/370], § 1(l)(2), July 19, 1988, [102 Stat. 849][/us/stat/102/849]; [Pub. L. 100–456, div. B, title XXVIII][/us/pl/100/456/dB/tXXVIII], § 2802, Sept. 29, 1988, [102 Stat. 2115][/us/stat/102/2115]; [Pub. L. 101–189, div. B, title XXVIII][/us/pl/101/189/dB/tXXVIII], §§ 2802, 2805, Nov. 29, 1989, [103 Stat. 1646][/us/stat/103/1646], 1647; [Pub. L. 102–190, div. B, title XXVIII][/us/pl/102/190/dB/tXXVIII], § 2806(b), Dec. 5, 1991, [105 Stat. 1540][/us/stat/105/1540]; [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 201(d)(7), May 31, 1993, [107 Stat. 99][/us/stat/107/99]; [Pub. L. 103–160, div. B, title XXVIII][/us/pl/103/160/dB/tXXVIII], § 2801, Nov. 30, 1993, [107 Stat. 1883][/us/stat/107/1883]; [Pub. L. 104–106, div. B, title XXVIII][/us/pl/104/106/dB/tXXVIII], § 2816, Feb. 10, 1996, [110 Stat. 553][/us/stat/110/553]; [Pub. L. 105–85, div. B, title XXVIII][/us/pl/105/85/dB/tXXVIII], § 2803, Nov. 18, 1997, [111 Stat. 1990][/us/stat/111/1990]; [Pub. L. 105–261, div. B, title XXVIII][/us/pl/105/261/dB/tXXVIII], § 2802, Oct. 17, 1998, [112 Stat. 2202][/us/stat/112/2202]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. B, title XXVIII, § 2804\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–414; [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1062(a)(15), div. B, title XXVIII, § 2801, Dec. 2, 2002, [116 Stat. 2650][/us/stat/116/2650], 2702; [Pub. L. 108–136, div. B, title XXVIII][/us/pl/108/136/dB/tXXVIII], §§ 2803, 2804(a), Nov. 24, 2003, [117 Stat. 1719][/us/stat/117/1719]; [Pub. L. 109–163, div. B, title XXVIII][/us/pl/109/163/dB/tXXVIII], § 2802, Jan. 6, 2006, [119 Stat. 3505][/us/stat/119/3505]; [Pub. L. 109–364, div. B, title XXVIII][/us/pl/109/364/dB/tXXVIII], § 2804, Oct. 17, 2006, [120 Stat. 2467][/us/stat/120/2467]; [Pub. L. 110–181, div. B, title XXVIII][/us/pl/110/181/dB/tXXVIII], § 2806(a)–(c), Jan. 28, 2008, [122 Stat. 540][/us/stat/122/540], 541; [Pub. L. 110–417, div. B, title XXVIII][/us/pl/110/417/dB/tXXVIII], § 2802, Oct. 14, 2008, [122 Stat. 4719][/us/stat/122/4719]; [Pub. L. 111–383, div. B, title XXVIII][/us/pl/111/383/dB/tXXVIII], § 2803(d), Jan. 7, 2011, [124 Stat. 4459][/us/stat/124/4459].)
 
  __Historical and Revision Notes__ 
 
  __1988__  __Act__ 
 
-    Subsection (h) of this section and [section 2673 of this title][/us/usc/t10/s2673] are based on [Pub. L. 98–212, title VII, § 707][/us/pl/98/212/s707], Dec. 8, 1983, [97 Stat. 1438][/us/stat/97/1438].
+    Subsection (h) of this section and [section 2673 of this title][/us/usc/t10/s2673] are based on [Pub. L. 98–212, title VII][/us/pl/98/212/tVII], § 707, Dec. 8, 1983, [97 Stat. 1438][/us/stat/97/1438].
 
  __Amendments__ 
 
     2011—Subsec. (f)(2). [Pub. L. 111–383][/us/pl/111/383] inserted before period at end “or, if earlier, a period of 14 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480]”.
 
-    2008—Subsec. (b)(2). [Pub. L. 110–181, § 2806(a)(1)][/us/pl/110/181/s2806/a/1], substituted “paragraphs (3), (4), and (7)” for “paragraphs (3) and (4)”.
+    2008—Subsec. (b)(2). [Pub. L. 110–181][/us/pl/110/181], § 2806(a)(1), substituted “paragraphs (3), (4), and (7)” for “paragraphs (3) and (4)”.
 
-    Subsec. (b)(5). [Pub. L. 110–181, § 2806(a)(2)][/us/pl/110/181/s2806/a/2], substituted “paragraphs (2), (3), and (7)” for “paragraphs (2) and (3)”.
+    Subsec. (b)(5). [Pub. L. 110–181][/us/pl/110/181], § 2806(a)(2), substituted “paragraphs (2), (3), and (7)” for “paragraphs (2) and (3)”.
 
-    Subsec. (b)(7). [Pub. L. 110–181, § 2806(a)(3)][/us/pl/110/181/s2806/a/3], added par. (7).
+    Subsec. (b)(7). [Pub. L. 110–181][/us/pl/110/181], § 2806(a)(3), added par. (7).
 
     Subsec. (b)(7)(A). [Pub. L. 110–417][/us/pl/110/417] substituted “$35,000 per unit” for “$18,620 per unit”.
 
-    Subsec. (e)(2). [Pub. L. 110–181, § 2806(b)][/us/pl/110/181/s2806/b], substituted “the Secretaries of the military departments may lease not more than 3,300 units of family housing in Italy” for “the Secretary of the Navy may lease not more than 2,800 units of family housing in Italy, and the Secretary of the Army may lease not more than 500 units of family housing in Italy”.
+    Subsec. (e)(2). [Pub. L. 110–181][/us/pl/110/181], § 2806(b), substituted “the Secretaries of the military departments may lease not more than 3,300 units of family housing in Italy” for “the Secretary of the Navy may lease not more than 2,800 units of family housing in Italy, and the Secretary of the Army may lease not more than 500 units of family housing in Italy”.
 
-    Subsec. (f). [Pub. L. 110–181, § 2806(c)][/us/pl/110/181/s2806/c], substituted “$1,000,000” for “$500,000”.
+    Subsec. (f). [Pub. L. 110–181][/us/pl/110/181], § 2806(c), substituted “$1,000,000” for “$500,000”.
 
     2006—Subsec. (b)(4)(D). [Pub. L. 109–364][/us/pl/109/364] added subpar. (D).
 
     Subsec. (e)(4). [Pub. L. 109–163][/us/pl/109/163] substituted “2,800” for “2,400”.
 
-    2003—Subsec. (d)(1). [Pub. L. 108–136, § 2804(a)][/us/pl/108/136/s2804/a], substituted “10 years, or 15 years in the case of leases in Korea,” for “ten years,”.
+    2003—Subsec. (d)(1). [Pub. L. 108–136][/us/pl/108/136], § 2804(a), substituted “10 years, or 15 years in the case of leases in Korea,” for “ten years,”.
 
-    Subsec. (e)(2). [Pub. L. 108–136, § 2803][/us/pl/108/136/s2803], substituted “2,800” for “2,000”.
+    Subsec. (e)(2). [Pub. L. 108–136][/us/pl/108/136], § 2803, substituted “2,800” for “2,000”.
 
-    2002—Subsec. (b)(2). [Pub. L. 107–314, § 1062(a)(15)][/us/pl/107/314/s1062/a/15], inserted “time” after “from time to”.
+    2002—Subsec. (b)(2). [Pub. L. 107–314][/us/pl/107/314], § 1062(a)(15), inserted “time” after “from time to”.
 
-    Subsec. (e)(3). [Pub. L. 107–314, § 2801(a)][/us/pl/107/314/s2801/a], substituted “1,175 units” for “800 units”.
+    Subsec. (e)(3). [Pub. L. 107–314][/us/pl/107/314], § 2801(a), substituted “1,175 units” for “800 units”.
 
-    Subsec. (e)(4). [Pub. L. 107–314, § 2801(b)(2)][/us/pl/107/314/s2801/b/2], added par. (4). Former par. (4) redesignated (5).
+    Subsec. (e)(4). [Pub. L. 107–314][/us/pl/107/314], § 2801(b)(2), added par. (4). Former par. (4) redesignated (5).
 
-    Subsec. (e)(5). [Pub. L. 107–314, § 2801(b)(1)][/us/pl/107/314/s2801/b/1], (3), redesignated par. (4) as (5) and substituted “(3), and (4)” for “and (3)” in introductory provisions. Former par. (5) redesignated (6).
+    Subsec. (e)(5). [Pub. L. 107–314][/us/pl/107/314], § 2801(b)(1), (3), redesignated par. (4) as (5) and substituted “(3), and (4)” for “and (3)” in introductory provisions. Former par. (5) redesignated (6).
 
-    Subsec. (e)(6). [Pub. L. 107–314, § 2801(b)(1)][/us/pl/107/314/s2801/b/1], (4), redesignated par. (5) as (6) and substituted “55,775” for “53,000”.
+    Subsec. (e)(6). [Pub. L. 107–314][/us/pl/107/314], § 2801(b)(1), (4), redesignated par. (5) as (6) and substituted “55,775” for “53,000”.
 
-    2000—Subsec. (b)(2). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. B, title XXVIII, § 2804(c)(1)\], inserted “, as adjusted from time to under paragraph (5)” after “per year”.
+    2000—Subsec. (b)(2). [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. B, title XXVIII, § 2804(c)(1)\], inserted “, as adjusted from time to under paragraph (5)” after “per year”.
 
-    Subsec. (b)(3). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. B, title XXVIII, § 2804(c)(2)\], substituted “the maximum amount per unit per year in effect under paragraph (2) but does not exceed $14,000 per unit per year, as adjusted from time to time under paragraph (5)” for “$12,000 per unit per year but does not exceed $14,000 per unit per year”.
+    Subsec. (b)(3). [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. B, title XXVIII, § 2804(c)(2)\], substituted “the maximum amount per unit per year in effect under paragraph (2) but does not exceed $14,000 per unit per year, as adjusted from time to time under paragraph (5)” for “$12,000 per unit per year but does not exceed $14,000 per unit per year”.
 
-    Subsec. (b)(4). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. B, title XXVIII, § 2804(a)\], designated existing provisions as subpar. (A), struck out last sentence which read as follows: “The total amount for all leases under this paragraph may not exceed $280,000 per year, and no lease on any individual housing unit may exceed $60,000 per year.”, and added subpars. (B) and (C).
+    Subsec. (b)(4). [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. B, title XXVIII, § 2804(a)\], designated existing provisions as subpar. (A), struck out last sentence which read as follows: “The total amount for all leases under this paragraph may not exceed $280,000 per year, and no lease on any individual housing unit may exceed $60,000 per year.”, and added subpars. (B) and (C).
 
-    Subsec. (b)(5), (6). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. B, title XXVIII, § 2804(b)\], added pars. (5) and (6) and struck out former par. (5) which read as follows: “At the beginning of each fiscal year, the Secretary concerned shall adjust the maximum lease amount provided for under paragraphs (2), (3), and (4) for the previous fiscal year by the percentage (if any) by which the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, during the preceding fiscal year exceeds such Consumer Price Index for the fiscal year before such preceding fiscal year.”
+    Subsec. (b)(5), (6). [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. B, title XXVIII, § 2804(b)\], added pars. (5) and (6) and struck out former par. (5) which read as follows: “At the beginning of each fiscal year, the Secretary concerned shall adjust the maximum lease amount provided for under paragraphs (2), (3), and (4) for the previous fiscal year by the percentage (if any) by which the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, during the preceding fiscal year exceeds such Consumer Price Index for the fiscal year before such preceding fiscal year.”
 
-    1998—Subsec. (e)(2). [Pub. L. 105–261, § 2802(a)(1)][/us/pl/105/261/s2802/a/1], inserted “, and the Secretary of the Army may lease not more than 500 units of family housing in Italy,” after “family housing in Italy”.
+    1998—Subsec. (e)(2). [Pub. L. 105–261][/us/pl/105/261], § 2802(a)(1), inserted “, and the Secretary of the Army may lease not more than 500 units of family housing in Italy,” after “family housing in Italy”.
 
-    Subsec. (e)(3). [Pub. L. 105–261, § 2802(a)(3)][/us/pl/105/261/s2802/a/3], added par. (3). Former par. (3) redesignated (4).
+    Subsec. (e)(3). [Pub. L. 105–261][/us/pl/105/261], § 2802(a)(3), added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (e)(4). [Pub. L. 105–261, § 2802(b)][/us/pl/105/261/s2802/b], substituted “, (2), and (3)” for “and (2)”.
+    Subsec. (e)(4). [Pub. L. 105–261][/us/pl/105/261], § 2802(b), substituted “, (2), and (3)” for “and (2)”.
 
-    [Pub. L. 105–261, § 2802(a)(2)][/us/pl/105/261/s2802/a/2], redesignated par. (3) as (4). Former par. (4) redesignated (5).
+    [Pub. L. 105–261][/us/pl/105/261], § 2802(a)(2), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-    Subsec. (e)(5). [Pub. L. 105–261, § 2802(a)(2)][/us/pl/105/261/s2802/a/2], redesignated par. (4) as (5).
+    Subsec. (e)(5). [Pub. L. 105–261][/us/pl/105/261], § 2802(a)(2), redesignated par. (4) as (5).
 
-    1997—Subsec. (b)(2). [Pub. L. 105–85, § 2803(a)(1)][/us/pl/105/85/s2803/a/1], substituted “paragraphs (3) and (4)” for “paragraph (3)”.
+    1997—Subsec. (b)(2). [Pub. L. 105–85][/us/pl/105/85], § 2803(a)(1), substituted “paragraphs (3) and (4)” for “paragraph (3)”.
 
-    Subsec. (b)(4). [Pub. L. 105–85, § 2803(a)(3)][/us/pl/105/85/s2803/a/3], added par. (4). Former par. (4) redesignated (5).
+    Subsec. (b)(4). [Pub. L. 105–85][/us/pl/105/85], § 2803(a)(3), added par. (4). Former par. (4) redesignated (5).
 
-    Subsec. (b)(5). [Pub. L. 105–85, § 2803(b)][/us/pl/105/85/s2803/b], substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
+    Subsec. (b)(5). [Pub. L. 105–85][/us/pl/105/85], § 2803(b), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
 
-    [Pub. L. 105–85, § 2803(a)(2)][/us/pl/105/85/s2803/a/2], redesignated par. (4) as (5).
+    [Pub. L. 105–85][/us/pl/105/85], § 2803(a)(2), redesignated par. (4) as (5).
 
-    1996—Subsec. (e)(1). [Pub. L. 104–106, § 2816(1)][/us/pl/104/106/s2816/1], substituted “450 units” for “300 units” in first sentence and “350 such units” for “220 such units” in second sentence.
+    1996—Subsec. (e)(1). [Pub. L. 104–106][/us/pl/104/106], § 2816(1), substituted “450 units” for “300 units” in first sentence and “350 such units” for “220 such units” in second sentence.
 
-    Subsec. (e)(2). [Pub. L. 104–106, § 2816(2)][/us/pl/104/106/s2816/2], substituted “450 units” for “300 units”.
+    Subsec. (e)(2). [Pub. L. 104–106][/us/pl/104/106], § 2816(2), substituted “450 units” for “300 units”.
 
     1993—Subsec. (b)(2), (3). [Pub. L. 103–35][/us/pl/103/35] substituted “per year” for “per annum” in par. (2) and in two places in par. (3).
 
-    Subsec. (b)(4). [Pub. L. 103–160, § 2801(a)][/us/pl/103/160/s2801/a], added par. (4).
+    Subsec. (b)(4). [Pub. L. 103–160][/us/pl/103/160], § 2801(a), added par. (4).
 
-    Subsec. (e)(1). [Pub. L. 103–160, § 2801(b)(1)][/us/pl/103/160/s2801/b/1], (2), substituted “, except that 300 units may be leased in foreign countries for not more than $25,000 per unit per year” for “as adjusted for foreign currency fluctuation from October 1, 1987” in first sentence and “These maximum lease amounts” for “That maximum lease amount” in second sentence.
+    Subsec. (e)(1). [Pub. L. 103–160][/us/pl/103/160], § 2801(b)(1), (2), substituted “, except that 300 units may be leased in foreign countries for not more than $25,000 per unit per year” for “as adjusted for foreign currency fluctuation from October 1, 1987” in first sentence and “These maximum lease amounts” for “That maximum lease amount” in second sentence.
 
     [Pub. L. 103–35][/us/pl/103/35] substituted “per year” for “per annum”.
 
-    Subsec. (e)(2) to (4). [Pub. L. 103–160, § 2801(b)(3)][/us/pl/103/160/s2801/b/3], (4), added pars. (2) and (3) and redesignated former par. (2) as (4).
+    Subsec. (e)(2) to (4). [Pub. L. 103–160][/us/pl/103/160], § 2801(b)(3), (4), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
     1991—Subsecs. (g), (h). [Pub. L. 102–190][/us/pl/102/190] redesignated subsec. (h) as (g) and struck out former subsec. (g) which authorized contracts for lease of family housing units on or near military installations at which there is a validated deficit in family housing. See [section 2835 of this title][/us/usc/t10/s2835].
 
-    1989—Subsec. (b)(2). [Pub. L. 101–189, § 2802(1)][/us/pl/101/189/s2802/1], substituted “$12,000” for “$10,000”.
+    1989—Subsec. (b)(2). [Pub. L. 101–189][/us/pl/101/189], § 2802(1), substituted “$12,000” for “$10,000”.
 
-    Subsec. (b)(3). [Pub. L. 101–189, § 2802(2)][/us/pl/101/189/s2802/2], substituted “Not” for “(A) Except as provided in subparagraph (B), not”, “$12,000” for “$10,000”, and “$14,000” for “$12,000” and struck out subpar. (B) which read as follows: “During fiscal years 1986 and 1987, the number of housing units that may be leased pursuant to the provisions of subparagraph (A) may be increased by 500 units for each such fiscal year. The Secretary concerned shall provide written notification to the Committees on Armed Services of the Senate and House of Representatives concerning the location, purpose, and cost of the additional units permitted by this subparagraph. Such notification shall be made periodically as the leases are entered into.”
+    Subsec. (b)(3). [Pub. L. 101–189][/us/pl/101/189], § 2802(2), substituted “Not” for “(A) Except as provided in subparagraph (B), not”, “$12,000” for “$10,000”, and “$14,000” for “$12,000” and struck out subpar. (B) which read as follows: “During fiscal years 1986 and 1987, the number of housing units that may be leased pursuant to the provisions of subparagraph (A) may be increased by 500 units for each such fiscal year. The Secretary concerned shall provide written notification to the Committees on Armed Services of the Senate and House of Representatives concerning the location, purpose, and cost of the additional units permitted by this subparagraph. Such notification shall be made periodically as the leases are entered into.”
 
-    Subsec. (e)(1). [Pub. L. 101–189, § 2802(3)][/us/pl/101/189/s2802/3], inserted “as adjusted for foreign currency fluctuation from October 1, 1987” after “$20,000 per unit per annum”.
+    Subsec. (e)(1). [Pub. L. 101–189][/us/pl/101/189], § 2802(3), inserted “as adjusted for foreign currency fluctuation from October 1, 1987” after “$20,000 per unit per annum”.
 
-    Subsec. (e)(2). [Pub. L. 101–189, § 2802(4)][/us/pl/101/189/s2802/4], substituted “53,000” for “38,000”.
+    Subsec. (e)(2). [Pub. L. 101–189][/us/pl/101/189], § 2802(4), substituted “53,000” for “38,000”.
 
-    Subsec. (g)(7). [Pub. L. 101–189, § 2805(1)][/us/pl/101/189/s2805/1], added par. (7) and struck out former par. (7) which provided that this subsection could only be implemented by a pilot program, and that in carrying out such program, the Secretary of each military department or the Secretary of Transportation with respect to the Coast Guard, could not enter into more than two contracts under this subsection, and any such contract could not be for more than 300 family housing units.
+    Subsec. (g)(7). [Pub. L. 101–189][/us/pl/101/189], § 2805(1), added par. (7) and struck out former par. (7) which provided that this subsection could only be implemented by a pilot program, and that in carrying out such program, the Secretary of each military department or the Secretary of Transportation with respect to the Coast Guard, could not enter into more than two contracts under this subsection, and any such contract could not be for more than 300 family housing units.
 
-    Subsec. (g)(8). [Pub. L. 101–189, § 2805][/us/pl/101/189/s2805], redesignated par. (9) as (8), substituted “1991” for “1989”, and struck out former par. (8) which authorized the Secretaries of the military departments and the Secretary of Transportation to enter into contracts for family housing units in addition to those authorized in par. (7).
+    Subsec. (g)(8). [Pub. L. 101–189][/us/pl/101/189], § 2805, redesignated par. (9) as (8), substituted “1991” for “1989”, and struck out former par. (8) which authorized the Secretaries of the military departments and the Secretary of Transportation to enter into contracts for family housing units in addition to those authorized in par. (7).
 
-    Subsec. (g)(9), (10). [Pub. L. 101–189, § 2805(2)][/us/pl/101/189/s2805/2], redesignated par. (10) as (9). Former par. (9) redesignated (8).
+    Subsec. (g)(9), (10). [Pub. L. 101–189][/us/pl/101/189], § 2805(2), redesignated par. (10) as (9). Former par. (9) redesignated (8).
 
     1988—Subsec. (e)(2). [Pub. L. 100–456][/us/pl/100/456] substituted “38,000” for “36,000”.
 
@@ -217,51 +217,51 @@
 
     1987—Subsec. (a)(1). [Pub. L. 100–26][/us/pl/100/26] substituted “armed forces” for “Armed Forces”.
 
-    Subsec. (b)(2). [Pub. L. 100–180, § 2309(b)(1)][/us/pl/100/180/s2309/b/1], inserted “per unit per annum” after “$10,000”.
+    Subsec. (b)(2). [Pub. L. 100–180][/us/pl/100/180], § 2309(b)(1), inserted “per unit per annum” after “$10,000”.
 
-    Subsec. (b)(3)(A). [Pub. L. 100–180, § 2309(b)(2)][/us/pl/100/180/s2309/b/2], substituted “$10,000 per unit per annum but does not exceed $12,000 per unit per annum” for “$10,000 but does not exceed $12,000”.
+    Subsec. (b)(3)(A). [Pub. L. 100–180][/us/pl/100/180], § 2309(b)(2), substituted “$10,000 per unit per annum but does not exceed $12,000 per unit per annum” for “$10,000 but does not exceed $12,000”.
 
     Subsec. (c). [Pub. L. 100–26][/us/pl/100/26] substituted “armed forces” for “Armed Forces”.
 
-    Subsec. (e)(1). [Pub. L. 100–180, § 2309(a)(1)][/us/pl/100/180/s2309/a/1], substituted “$20,000 per unit per annum” for “$16,800”.
+    Subsec. (e)(1). [Pub. L. 100–180][/us/pl/100/180], § 2309(a)(1), substituted “$20,000 per unit per annum” for “$16,800”.
 
-    Subsec. (e)(2). [Pub. L. 100–180, § 2309(a)(2)][/us/pl/100/180/s2309/a/2], substituted “36,000” for “32,000”.
+    Subsec. (e)(2). [Pub. L. 100–180][/us/pl/100/180], § 2309(a)(2), substituted “36,000” for “32,000”.
 
-    Subsec. (f). [Pub. L. 100–180, § 2311][/us/pl/100/180/s2311], substituted “$500,000” for “$250,000”.
+    Subsec. (f). [Pub. L. 100–180][/us/pl/100/180], § 2311, substituted “$500,000” for “$250,000”.
 
-    Subsec. (g)(1). [Pub. L. 100–180, § 2306(a)(1)][/us/pl/100/180/s2306/a/1], inserted “, or the Secretary of Transportation with respect to the Coast Guard,” after “military department” and “or rehabilitated to residential use” after “constructed”.
+    Subsec. (g)(1). [Pub. L. 100–180][/us/pl/100/180], § 2306(a)(1), inserted “, or the Secretary of Transportation with respect to the Coast Guard,” after “military department” and “or rehabilitated to residential use” after “constructed”.
 
-    Subsec. (g)(7)(A). [Pub. L. 100–180, § 2306(a)(2)][/us/pl/100/180/s2306/a/2], inserted “, or the Secretary of Transportation with respect to the Coast Guard,” after “military department”.
+    Subsec. (g)(7)(A). [Pub. L. 100–180][/us/pl/100/180], § 2306(a)(2), inserted “, or the Secretary of Transportation with respect to the Coast Guard,” after “military department”.
 
-    Subsec. (g)(8)(C). [Pub. L. 100–180, § 2306(a)(3)][/us/pl/100/180/s2306/a/3], added subpar. (C).
+    Subsec. (g)(8)(C). [Pub. L. 100–180][/us/pl/100/180], § 2306(a)(3), added subpar. (C).
 
-    Subsec. (g)(9). [Pub. L. 100–180, § 2306(a)(4)][/us/pl/100/180/s2306/a/4], substituted “1989” for “1988”.
+    Subsec. (g)(9). [Pub. L. 100–180][/us/pl/100/180], § 2306(a)(4), substituted “1989” for “1988”.
 
-    1986—Subsec. (b)(2). [Pub. L. 99–661, § 2702(d)(1)][/us/pl/99/661/s2702/d/1], substituted “$10,000” for “the amount specified by law as the maximum annual domestic family housing unit lease amount”.
+    1986—Subsec. (b)(2). [Pub. L. 99–661][/us/pl/99/661], § 2702(d)(1), substituted “$10,000” for “the amount specified by law as the maximum annual domestic family housing unit lease amount”.
 
-    Subsec. (b)(3)(A). [Pub. L. 99–661, § 2702(d)(2)][/us/pl/99/661/s2702/d/2], substituted “$10,000 but does not exceed $12,000” for “the maximum annual domestic family housing unit lease amount but does not exceed 120 percent of that amount”.
+    Subsec. (b)(3)(A). [Pub. L. 99–661][/us/pl/99/661], § 2702(d)(2), substituted “$10,000 but does not exceed $12,000” for “the maximum annual domestic family housing unit lease amount but does not exceed 120 percent of that amount”.
 
-    Subsec. (e)(1). [Pub. L. 99–661, § 2714][/us/pl/99/661/s2714], substituted “220” for “200”.
+    Subsec. (e)(1). [Pub. L. 99–661][/us/pl/99/661], § 2714, substituted “220” for “200”.
 
-    [Pub. L. 99–661, § 2702(e)][/us/pl/99/661/s2702/e], substituted “$16,800” for “the amount specified by law as the maximum annual foreign family housing unit lease amount”.
+    [Pub. L. 99–661][/us/pl/99/661], § 2702(e), substituted “$16,800” for “the amount specified by law as the maximum annual foreign family housing unit lease amount”.
 
-    Subsec. (e)(2). [Pub. L. 99–661, § 2702(f)][/us/pl/99/661/s2702/f], substituted “is 32,000” for “shall be specified by law”.
+    Subsec. (e)(2). [Pub. L. 99–661][/us/pl/99/661], § 2702(f), substituted “is 32,000” for “shall be specified by law”.
 
-    Subsec. (f). [Pub. L. 99–661, § 2702(g)][/us/pl/99/661/s2702/g], substituted “$250,000” for “the amount specified by law for such purpose”.
+    Subsec. (f). [Pub. L. 99–661][/us/pl/99/661], § 2702(g), substituted “$250,000” for “the amount specified by law for such purpose”.
 
-    Subsec. (g)(8)(B). [Pub. L. 99–661, § 2713(b)(1)][/us/pl/99/661/s2713/b/1], substituted “1,600” for “600”.
+    Subsec. (g)(8)(B). [Pub. L. 99–661][/us/pl/99/661], § 2713(b)(1), substituted “1,600” for “600”.
 
-    Subsec. (g)(9). [Pub. L. 99–661, § 2713(b)(2)][/us/pl/99/661/s2713/b/2], substituted “September 30, 1988” for “September 30, 1986”.
+    Subsec. (g)(9). [Pub. L. 99–661][/us/pl/99/661], § 2713(b)(2), substituted “September 30, 1988” for “September 30, 1986”.
 
-    Subsec. (g)(10). [Pub. L. 99–661, § 2713(b)(3)][/us/pl/99/661/s2713/b/3], added par. (10).
+    Subsec. (g)(10). [Pub. L. 99–661][/us/pl/99/661], § 2713(b)(3), added par. (10).
 
-    1985—Subsec. (b)(3). [Pub. L. 99–167, § 805][/us/pl/99/167/s805], designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), not” for “Not”, and added subpar. (B).
+    1985—Subsec. (b)(3). [Pub. L. 99–167][/us/pl/99/167], § 805, designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), not” for “Not”, and added subpar. (B).
 
-    Subsec. (d). [Pub. L. 99–167, § 803][/us/pl/99/167/s803], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (d). [Pub. L. 99–167][/us/pl/99/167], § 803, designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (g)(8). [Pub. L. 99–167, § 801(b)(2)][/us/pl/99/167/s801/b/2], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (g)(8). [Pub. L. 99–167][/us/pl/99/167], § 801(b)(2), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (g)(9). [Pub. L. 99–167, § 801(b)(1)][/us/pl/99/167/s801/b/1], substituted “September 30, 1986” for “October 1, 1985”.
+    Subsec. (g)(9). [Pub. L. 99–167][/us/pl/99/167], § 801(b)(1), substituted “September 30, 1986” for “October 1, 1985”.
 
     1984—Subsec. (g)(8), (9). [Pub. L. 98–407][/us/pl/98/407] added par. (8) and redesignated former par. (8) as (9).
 
@@ -271,7 +271,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–190, div. B, title XXVIII, § 2806(c)][/us/pl/102/190/s2806/c], Dec. 5, 1991, [105 Stat. 1540][/us/stat/105/1540], provided that: 
+[Pub. L. 102–190, div. B, title XXVIII][/us/pl/102/190/dB/tXXVIII], § 2806(c), Dec. 5, 1991, [105 Stat. 1540][/us/stat/105/1540], provided that: 
 
 > “[Section 2835 of title 10][/us/usc/t10/s2835], United States Code, as added by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\]. The amendment made by subsection (b)(1) \[amending this section\] shall not affect the validity of any contract entered into before that date under section 2828(g) of such title, as in effect on the day before that date.”
 
@@ -281,7 +281,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–407, title VIII, § 806(c)][/us/pl/98/407/s806/c], Aug. 28, 1984, [98 Stat. 1521][/us/stat/98/1521], provided that: 
+[Pub. L. 98–407, title VIII][/us/pl/98/407/tVIII], § 806(c), Aug. 28, 1984, [98 Stat. 1521][/us/stat/98/1521], provided that: 
 
 > “The amendments made by this section \[amending this section and provisions set out as a note under [section 2821 of this title][/us/usc/t10/s2821]\] shall take effect on October 1, 1984.”
 
@@ -299,141 +299,141 @@
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
 [/us/usc/t37/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
-[/us/pl/97/214/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs2%2Fa
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F161
-[/us/pl/97/321/s805/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321%2Fs805%2Fb%2F2
+[/us/pl/97/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321%2FtVIII
 [/us/stat/96/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1573
-[/us/pl/98/115/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F115%2Fs801
+[/us/pl/98/115/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F115%2FtVIII
 [/us/stat/97/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F782
-[/us/pl/98/407/s806/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407%2Fs806%2Fa
+[/us/pl/98/407/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407%2FtVIII
 [/us/stat/98/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1521
-[/us/pl/99/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167
+[/us/pl/99/167/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167%2FtVIII
 [/us/stat/99/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F985
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdB%2FtVII
 [/us/stat/100/4040-4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4040-4042
-[/us/pl/100/26/s7/j/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fj%2F8
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F283
-[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdB
 [/us/stat/101/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1216
-[/us/pl/100/370/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs1
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F849
-[/us/pl/100/456/s2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs2802
+[/us/pl/100/456/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdB%2FtXXVIII
 [/us/stat/102/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2115
-[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdB%2FtXXVIII
 [/us/stat/103/1646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1646
-[/us/pl/102/190/s2806/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs2806%2Fb
+[/us/pl/102/190/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdB%2FtXXVIII
 [/us/stat/105/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1540
-[/us/pl/103/35/s201/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fd%2F7
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F99
-[/us/pl/103/160/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs2801
+[/us/pl/103/160/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdB%2FtXXVIII
 [/us/stat/107/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1883
-[/us/pl/104/106/s2816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2816
+[/us/pl/104/106/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdB%2FtXXVIII
 [/us/stat/110/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F553
-[/us/pl/105/85/s2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2803
+[/us/pl/105/85/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdB%2FtXXVIII
 [/us/stat/111/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1990
-[/us/pl/105/261/s2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs2802
+[/us/pl/105/261/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdB%2FtXXVIII
 [/us/stat/112/2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2202
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/314/s1062/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1062%2Fa%2F15
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2650
-[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdB%2FtXXVIII
 [/us/stat/117/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1719
-[/us/pl/109/163/s2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2802
+[/us/pl/109/163/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdB%2FtXXVIII
 [/us/stat/119/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3505
-[/us/pl/109/364/s2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2804
+[/us/pl/109/364/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdB%2FtXXVIII
 [/us/stat/120/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2467
-[/us/pl/110/181/s2806/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2806%2Fa
+[/us/pl/110/181/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdB%2FtXXVIII
 [/us/stat/122/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F540
-[/us/pl/110/417/s2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs2802
+[/us/pl/110/417/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdB%2FtXXVIII
 [/us/stat/122/4719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4719
-[/us/pl/111/383/s2803/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2803%2Fd
+[/us/pl/111/383/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdB%2FtXXVIII
 [/us/stat/124/4459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4459
 [/us/usc/t10/s2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2673
-[/us/pl/98/212/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F212%2Fs707
+[/us/pl/98/212/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F212%2FtVII
 [/us/stat/97/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1438
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
-[/us/pl/110/181/s2806/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2806%2Fa%2F1
-[/us/pl/110/181/s2806/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2806%2Fa%2F2
-[/us/pl/110/181/s2806/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2806%2Fa%2F3
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/110/181/s2806/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2806%2Fb
-[/us/pl/110/181/s2806/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2806%2Fc
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/108/136/s2804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs2804%2Fa
-[/us/pl/108/136/s2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs2803
-[/us/pl/107/314/s1062/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1062%2Fa%2F15
-[/us/pl/107/314/s2801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs2801%2Fa
-[/us/pl/107/314/s2801/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs2801%2Fb%2F2
-[/us/pl/107/314/s2801/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs2801%2Fb%2F1
-[/us/pl/107/314/s2801/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs2801%2Fb%2F1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/105/261/s2802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs2802%2Fa%2F1
-[/us/pl/105/261/s2802/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs2802%2Fa%2F3
-[/us/pl/105/261/s2802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs2802%2Fb
-[/us/pl/105/261/s2802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs2802%2Fa%2F2
-[/us/pl/105/261/s2802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs2802%2Fa%2F2
-[/us/pl/105/85/s2803/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2803%2Fa%2F1
-[/us/pl/105/85/s2803/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2803%2Fa%2F3
-[/us/pl/105/85/s2803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2803%2Fb
-[/us/pl/105/85/s2803/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2803%2Fa%2F2
-[/us/pl/104/106/s2816/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2816%2F1
-[/us/pl/104/106/s2816/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2816%2F2
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
-[/us/pl/103/160/s2801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs2801%2Fa
-[/us/pl/103/160/s2801/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs2801%2Fb%2F1
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
-[/us/pl/103/160/s2801/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs2801%2Fb%2F3
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/usc/t10/s2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2835
-[/us/pl/101/189/s2802/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs2802%2F1
-[/us/pl/101/189/s2802/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs2802%2F2
-[/us/pl/101/189/s2802/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs2802%2F3
-[/us/pl/101/189/s2802/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs2802%2F4
-[/us/pl/101/189/s2805/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs2805%2F1
-[/us/pl/101/189/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs2805
-[/us/pl/101/189/s2805/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs2805%2F2
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
-[/us/pl/100/180/s2309/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs2309%2Fb%2F1
-[/us/pl/100/180/s2309/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs2309%2Fb%2F2
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
-[/us/pl/100/180/s2309/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs2309%2Fa%2F1
-[/us/pl/100/180/s2309/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs2309%2Fa%2F2
-[/us/pl/100/180/s2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs2311
-[/us/pl/100/180/s2306/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs2306%2Fa%2F1
-[/us/pl/100/180/s2306/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs2306%2Fa%2F2
-[/us/pl/100/180/s2306/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs2306%2Fa%2F3
-[/us/pl/100/180/s2306/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs2306%2Fa%2F4
-[/us/pl/99/661/s2702/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs2702%2Fd%2F1
-[/us/pl/99/661/s2702/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs2702%2Fd%2F2
-[/us/pl/99/661/s2714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs2714
-[/us/pl/99/661/s2702/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs2702%2Fe
-[/us/pl/99/661/s2702/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs2702%2Ff
-[/us/pl/99/661/s2702/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs2702%2Fg
-[/us/pl/99/661/s2713/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs2713%2Fb%2F1
-[/us/pl/99/661/s2713/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs2713%2Fb%2F2
-[/us/pl/99/661/s2713/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs2713%2Fb%2F3
-[/us/pl/99/167/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167%2Fs805
-[/us/pl/99/167/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167%2Fs803
-[/us/pl/99/167/s801/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167%2Fs801%2Fb%2F2
-[/us/pl/99/167/s801/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167%2Fs801%2Fb%2F1
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167
+[/us/pl/99/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167
+[/us/pl/99/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167
+[/us/pl/99/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167
 [/us/pl/98/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407
 [/us/pl/98/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F115
 [/us/pl/97/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F321
-[/us/pl/102/190/s2806/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs2806%2Fc
+[/us/pl/102/190/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdB%2FtXXVIII
 [/us/stat/105/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1540
 [/us/usc/t10/s2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2835
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/100/456/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs2702
 [/us/usc/t10/s2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2391
-[/us/pl/98/407/s806/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407%2Fs806%2Fc
+[/us/pl/98/407/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F407%2FtVIII
 [/us/stat/98/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1521
 [/us/usc/t10/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2821
 [/us/pl/97/214/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs12%2Fa

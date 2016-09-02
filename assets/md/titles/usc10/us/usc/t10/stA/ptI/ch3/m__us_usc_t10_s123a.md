@@ -31,11 +31,11 @@
 
     In this section, the term “statutory end strength” means any end-strength limitation with respect to a fiscal year that is prescribed by law for any military or civilian component of the armed forces or of the Department of Defense.
 
-(Added [Pub. L. 101–510, div. A, title XIV, § 1483(b)(1)][/us/pl/101/510/s1483/b/1], Nov. 5, 1990, [104 Stat. 1715][/us/stat/104/1715]; amended [Pub. L. 107–107, div. A, title IV, § 421(b)][/us/pl/107/107/s421/b], Dec. 28, 2001, [115 Stat. 1076][/us/stat/115/1076]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IV, § 416(a)–(c)(1), Oct. 14, 2008, [122 Stat. 4430][/us/stat/122/4430].)
+(Added [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1483(b)(1), Nov. 5, 1990, [104 Stat. 1715][/us/stat/104/1715]; amended [Pub. L. 107–107, div. A, title IV][/us/pl/107/107/dA/tIV], § 421(b), Dec. 28, 2001, [115 Stat. 1076][/us/stat/115/1076]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IV, § 416(a)–(c)(1), Oct. 14, 2008, [122 Stat. 4430][/us/stat/122/4430].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 115(b)(4) of this title][/us/usc/t10/s115/b/4], prior to repeal by [Pub. L. 101–510, § 1483(a)][/us/pl/101/510/s1483/a].
+    Provisions similar to those in this section were contained in [section 115(b)(4) of this title][/us/usc/t10/s115/b/4], prior to repeal by [Pub. L. 101–510][/us/pl/101/510], § 1483(a).
 
  __Amendments__ 
 
@@ -56,14 +56,14 @@
 
 [/us/usc/t42/s5122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5122
 [/us/usc/t10/s115/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs115%2Fb%2F1
-[/us/pl/101/510/s1483/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1483%2Fb%2F1
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1715
-[/us/pl/107/107/s421/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs421%2Fb
+[/us/pl/107/107/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIV
 [/us/stat/115/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1076
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4430
 [/us/usc/t10/s115/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs115%2Fb%2F4
-[/us/pl/101/510/s1483/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1483%2Fa
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t10/s12302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12302

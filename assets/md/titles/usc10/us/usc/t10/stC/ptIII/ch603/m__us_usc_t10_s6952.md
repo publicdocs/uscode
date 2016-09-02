@@ -29,7 +29,7 @@
 
     (d) The Secretary, to the extent he considers proper, may delegate the authority conferred by this section to any person in the Department of the Navy, with or without the authority to make successive redelegations.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 428][/us/stat/70A/428]; [Pub. L. 106–65, div. A, title XI, § 1107(b)][/us/pl/106/65/s1107/b], Oct. 5, 1999, [113 Stat. 778][/us/stat/113/778].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 428][/us/stat/70A/428]; [Pub. L. 106–65, div. A, title XI][/us/pl/106/65/dA/tXI], § 1107(b), Oct. 5, 1999, [113 Stat. 778][/us/stat/113/778].)
 
 <table>
 
@@ -108,7 +108,7 @@ Aug. 2, 1946, ch. 756, § 39, 60 Stat. 858.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F428
-[/us/pl/106/65/s1107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1107%2Fb
+[/us/pl/106/65/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtXI
 [/us/stat/113/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F778
 [/us/usc/t34/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs1071
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65

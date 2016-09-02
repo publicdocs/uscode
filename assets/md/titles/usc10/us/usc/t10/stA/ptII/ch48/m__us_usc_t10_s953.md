@@ -23,7 +23,7 @@
 
     (3) a system for the enlistment of such offenders who have had the unexecuted part of their sentences remitted and who have been discharged.
 
-(Added [Pub. L. 90–377, § 1][/us/pl/90/377/s1], July 5, 1968, [82 Stat. 287][/us/stat/82/287].)
+(Added [Pub. L. 90–377][/us/pl/90/377], § 1, July 5, 1968, [82 Stat. 287][/us/stat/82/287].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/90/377/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F377%2Fs1
+[/us/pl/90/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F377
 [/us/stat/82/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F287
 
 

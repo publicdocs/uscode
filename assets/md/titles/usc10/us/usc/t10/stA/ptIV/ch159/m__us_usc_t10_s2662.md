@@ -133,7 +133,7 @@
 
     In this section, the term “Secretary concerned” includes, with respect to Defense Agencies, the Secretary of Defense.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 147][/us/stat/70A/147]; [Pub. L. 86–70, § 6(c)][/us/pl/86/70/s6/c], June 25, 1959, [73 Stat. 142][/us/stat/73/142]; [Pub. L. 86–500, title V, § 511(1)][/us/pl/86/500/s511/1], June 8, 1960, [74 Stat. 186][/us/stat/74/186]; [Pub. L. 86–624, § 4(c)][/us/pl/86/624/s4/c], July 12, 1960, [74 Stat. 411][/us/stat/74/411]; [Pub. L. 92–145, title VII, § 707(5)][/us/pl/92/145/s707/5], Oct. 27, 1971, [85 Stat. 412][/us/stat/85/412]; [Pub. L. 92–545, title VII, § 709][/us/pl/92/545/s709], Oct. 25, 1972, [86 Stat. 1154][/us/stat/86/1154]; [Pub. L. 93–552, title VI, § 610][/us/pl/93/552/s610], Dec. 27, 1974, [88 Stat. 1765][/us/stat/88/1765]; [Pub. L. 94–107, title VI, § 607(5)][/us/pl/94/107/s607/5], (6), Oct. 7, 1975, [89 Stat. 566][/us/stat/89/566]; [Pub. L. 94–431, title VI, § 614][/us/pl/94/431/s614], Sept. 30, 1976, [90 Stat. 1367][/us/stat/90/1367]; [Pub. L. 96–418, title VIII, § 805][/us/pl/96/418/s805], Oct. 10, 1980, [94 Stat. 1777][/us/stat/94/1777]; [Pub. L. 100–456, div. B, title XXVIII, § 2803][/us/pl/100/456/s2803], Sept. 29, 1988, [102 Stat. 2115][/us/stat/102/2115]; [Pub. L. 101–510, div. A, title XIII, § 1311(6)][/us/pl/101/510/s1311/6], Nov. 5, 1990, [104 Stat. 1670][/us/stat/104/1670]; [Pub. L. 102–496, title IV, § 403(a)(1)][/us/pl/102/496/s403/a/1], (2)(A), Oct. 24, 1992, [106 Stat. 3185][/us/stat/106/3185]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(23)][/us/pl/104/106/s1502/a/23], div. D, title XLIII, § 4321(b)(21), Feb. 10, 1996, [110 Stat. 505][/us/stat/110/505], 673; [Pub. L. 105–261, div. B, title XXVIII, § 2811][/us/pl/105/261/s2811], Oct. 17, 1998, [112 Stat. 2204][/us/stat/112/2204]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. B, title XXVIII, § 2811\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–416; [Pub. L. 108–136, div. A, title X, § 1031(a)(27)][/us/pl/108/136/s1031/a/27], Nov. 24, 2003, [117 Stat. 1598][/us/stat/117/1598]; [Pub. L. 108–375, div. A, title X, § 1084(d)(22)][/us/pl/108/375/s1084/d/22], Oct. 28, 2004, [118 Stat. 2062][/us/stat/118/2062]; [Pub. L. 110–181, div. B, title XXVIII, § 2821][/us/pl/110/181/s2821], Jan. 28, 2008, [122 Stat. 543][/us/stat/122/543]; [Pub. L. 110–417, div. B, title XXVIII, § 2811][/us/pl/110/417/s2811], Oct. 14, 2008, [122 Stat. 4725][/us/stat/122/4725]; [Pub. L. 111–383, div. B, title XXVIII, § 2811(a)][/us/pl/111/383/s2811/a]–(f), Jan. 7, 2011, [124 Stat. 4461][/us/stat/124/4461], 4462; [Pub. L. 112–81, div. B, title XXVIII, § 2812][/us/pl/112/81/s2812], Dec. 31, 2011, [125 Stat. 1686][/us/stat/125/1686]; [Pub. L. 112–239, div. B, title XXVIII, § 2821][/us/pl/112/239/s2821], Jan. 2, 2013, [126 Stat. 2152][/us/stat/126/2152].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 147][/us/stat/70A/147]; [Pub. L. 86–70][/us/pl/86/70], § 6(c), June 25, 1959, [73 Stat. 142][/us/stat/73/142]; [Pub. L. 86–500, title V][/us/pl/86/500/tV], § 511(1), June 8, 1960, [74 Stat. 186][/us/stat/74/186]; [Pub. L. 86–624][/us/pl/86/624], § 4(c), July 12, 1960, [74 Stat. 411][/us/stat/74/411]; [Pub. L. 92–145, title VII][/us/pl/92/145/tVII], § 707(5), Oct. 27, 1971, [85 Stat. 412][/us/stat/85/412]; [Pub. L. 92–545, title VII][/us/pl/92/545/tVII], § 709, Oct. 25, 1972, [86 Stat. 1154][/us/stat/86/1154]; [Pub. L. 93–552, title VI][/us/pl/93/552/tVI], § 610, Dec. 27, 1974, [88 Stat. 1765][/us/stat/88/1765]; [Pub. L. 94–107, title VI][/us/pl/94/107/tVI], § 607(5), (6), Oct. 7, 1975, [89 Stat. 566][/us/stat/89/566]; [Pub. L. 94–431, title VI][/us/pl/94/431/tVI], § 614, Sept. 30, 1976, [90 Stat. 1367][/us/stat/90/1367]; [Pub. L. 96–418, title VIII][/us/pl/96/418/tVIII], § 805, Oct. 10, 1980, [94 Stat. 1777][/us/stat/94/1777]; [Pub. L. 100–456, div. B, title XXVIII][/us/pl/100/456/dB/tXXVIII], § 2803, Sept. 29, 1988, [102 Stat. 2115][/us/stat/102/2115]; [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1311(6), Nov. 5, 1990, [104 Stat. 1670][/us/stat/104/1670]; [Pub. L. 102–496, title IV][/us/pl/102/496/tIV], § 403(a)(1), (2)(A), Oct. 24, 1992, [106 Stat. 3185][/us/stat/106/3185]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1502(a)(23), div. D, title XLIII, § 4321(b)(21), Feb. 10, 1996, [110 Stat. 505][/us/stat/110/505], 673; [Pub. L. 105–261, div. B, title XXVIII][/us/pl/105/261/dB/tXXVIII], § 2811, Oct. 17, 1998, [112 Stat. 2204][/us/stat/112/2204]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. B, title XXVIII, § 2811\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–416; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(27), Nov. 24, 2003, [117 Stat. 1598][/us/stat/117/1598]; [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(d)(22), Oct. 28, 2004, [118 Stat. 2062][/us/stat/118/2062]; [Pub. L. 110–181, div. B, title XXVIII][/us/pl/110/181/dB/tXXVIII], § 2821, Jan. 28, 2008, [122 Stat. 543][/us/stat/122/543]; [Pub. L. 110–417, div. B, title XXVIII][/us/pl/110/417/dB/tXXVIII], § 2811, Oct. 14, 2008, [122 Stat. 4725][/us/stat/122/4725]; [Pub. L. 111–383, div. B, title XXVIII][/us/pl/111/383/dB/tXXVIII], § 2811(a)–(f), Jan. 7, 2011, [124 Stat. 4461][/us/stat/124/4461], 4462; [Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], § 2812, Dec. 31, 2011, [125 Stat. 1686][/us/stat/125/1686]; [Pub. L. 112–239, div. B, title XXVIII][/us/pl/112/239/dB/tXXVIII], § 2821, Jan. 2, 2013, [126 Stat. 2152][/us/stat/126/2152].)
 
 <table>
 
@@ -221,77 +221,77 @@ Sept. 28, 1951, ch. 434, §§ 601–604, 65 Stat. 365, 366.  </td>
 
     2013—Subsec. (a)(1)(H). [Pub. L. 112–239][/us/pl/112/239] added subpar. (H).
 
-    2011—Subsec. (a)(1). [Pub. L. 111–383, § 2811(f)(1)(A)][/us/pl/111/383/s2811/f/1/A], substituted “the Secretary concerned submits” for “the Secretary submits” in introductory provisions.
+    2011—Subsec. (a)(1). [Pub. L. 111–383][/us/pl/111/383], § 2811(f)(1)(A), substituted “the Secretary concerned submits” for “the Secretary submits” in introductory provisions.
 
-    Subsec. (a)(1)(C). [Pub. L. 112–81, § 2812(1)][/us/pl/112/81/s2812/1], substituted “lease, license, or easement” for “lease or license”.
+    Subsec. (a)(1)(C). [Pub. L. 112–81][/us/pl/112/81], § 2812(1), substituted “lease, license, or easement” for “lease or license”.
 
-    [Pub. L. 111–383, § 2811(a)][/us/pl/111/383/s2811/a], inserted “(other than a lease or license entered into under [section 2667(g) of this title][/us/usc/t10/s2667/g])” after “United States”.
+    [Pub. L. 111–383][/us/pl/111/383], § 2811(a), inserted “(other than a lease or license entered into under [section 2667(g) of this title][/us/usc/t10/s2667/g])” after “United States”.
 
-    Subsec. (a)(3). [Pub. L. 111–383, § 2811(f)(1)(B)][/us/pl/111/383/s2811/f/1/B], substituted “the Secretary concerned” for “the Secretary of a military department or the Secretary of Defense” in introductory provisions.
+    Subsec. (a)(3). [Pub. L. 111–383][/us/pl/111/383], § 2811(f)(1)(B), substituted “the Secretary concerned” for “the Secretary of a military department or the Secretary of Defense” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 111–383, § 2811(b)][/us/pl/111/383/s2811/b], (e), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Secretary of each military department and, with respect to Defense Agencies, the Secretary of Defense shall submit annually to the congressional committees named in subsection (a) a report on transactions described in subsection (a) that involve an estimated value of more than $250,000, but not more than $750,000.”
+    Subsec. (b). [Pub. L. 111–383][/us/pl/111/383], § 2811(b), (e), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Secretary of each military department and, with respect to Defense Agencies, the Secretary of Defense shall submit annually to the congressional committees named in subsection (a) a report on transactions described in subsection (a) that involve an estimated value of more than $250,000, but not more than $750,000.”
 
-    Subsec. (b)(1), (2)(A), (3)(C), (D). [Pub. L. 112–81, § 2812(2)][/us/pl/112/81/s2812/2], substituted “lease, license, or easement” for “lease or license”.
+    Subsec. (b)(1), (2)(A), (3)(C), (D). [Pub. L. 112–81][/us/pl/112/81], § 2812(2), substituted “lease, license, or easement” for “lease or license”.
 
-    Subsec. (c). [Pub. L. 111–383, § 2811(c)][/us/pl/111/383/s2811/c], substituted “Excepted Projects” for “Geographic Scope; Excepted Projects” in heading and “This section does not” for “This section applies only to real property in the United States, Puerto Rico, Guam, the American Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands. It does not” in text.
+    Subsec. (c). [Pub. L. 111–383][/us/pl/111/383], § 2811(c), substituted “Excepted Projects” for “Geographic Scope; Excepted Projects” in heading and “This section does not” for “This section applies only to real property in the United States, Puerto Rico, Guam, the American Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands. It does not” in text.
 
-    Subsecs. (e), (f). [Pub. L. 111–383, § 2811(d)][/us/pl/111/383/s2811/d], (f)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e). Prior to amendment, text read as follows: “No element of the Department of Defense shall occupy any general purpose space leased for it by the General Services Administration at an annual rental in excess of $750,000 (excluding the cost of utilities and other operation and maintenance services), if the effect of such occupancy is to increase the total amount of such leased space occupied by all elements of the Department of Defense, until the end of the 30-day period beginning on the date on which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a) or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].”
+    Subsecs. (e), (f). [Pub. L. 111–383][/us/pl/111/383], § 2811(d), (f)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e). Prior to amendment, text read as follows: “No element of the Department of Defense shall occupy any general purpose space leased for it by the General Services Administration at an annual rental in excess of $750,000 (excluding the cost of utilities and other operation and maintenance services), if the effect of such occupancy is to increase the total amount of such leased space occupied by all elements of the Department of Defense, until the end of the 30-day period beginning on the date on which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a) or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].”
 
-    Subsec. (f)(1). [Pub. L. 111–383, § 2811(f)(3)(A)][/us/pl/111/383/s2811/f/3/A], struck out “, and the reporting requirement set forth in subsection (e) shall not apply with respect to a real property transaction otherwise covered by that subsection,” before “if the Secretary” in introductory provisions.
+    Subsec. (f)(1). [Pub. L. 111–383][/us/pl/111/383], § 2811(f)(3)(A), struck out “, and the reporting requirement set forth in subsection (e) shall not apply with respect to a real property transaction otherwise covered by that subsection,” before “if the Secretary” in introductory provisions.
 
-    Subsec. (f)(3). [Pub. L. 111–383, § 2811(f)(3)(B)][/us/pl/111/383/s2811/f/3/B], struck out “or (e), as the case may be” after “under subsection (a)”.
+    Subsec. (f)(3). [Pub. L. 111–383][/us/pl/111/383], § 2811(f)(3)(B), struck out “or (e), as the case may be” after “under subsection (a)”.
 
-    Subsec. (f)(4). [Pub. L. 111–383, § 2811(f)(3)(C)][/us/pl/111/383/s2811/f/3/C], struck out par. (4), which read as follows: “In this subsection, the term ‘Secretary concerned’ includes, with respect to Defense Agencies, the Secretary of Defense.”
+    Subsec. (f)(4). [Pub. L. 111–383][/us/pl/111/383], § 2811(f)(3)(C), struck out par. (4), which read as follows: “In this subsection, the term ‘Secretary concerned’ includes, with respect to Defense Agencies, the Secretary of Defense.”
 
-    Subsec. (g). [Pub. L. 111–383, § 2811(f)(4)][/us/pl/111/383/s2811/f/4], added subsec. (g). Former subsec. (g) redesignated (f).
+    Subsec. (g). [Pub. L. 111–383][/us/pl/111/383], § 2811(f)(4), added subsec. (g). Former subsec. (g) redesignated (f).
 
-    2008—Subsec. (a)(1). [Pub. L. 110–181, § 2821(a)(1)(A)][/us/pl/110/181/s2821/a/1/A], substituted “or, with respect to a Defense Agency, the Secretary of Defense” for “, or his designee,” in introductory provisions.
+    2008—Subsec. (a)(1). [Pub. L. 110–181][/us/pl/110/181], § 2821(a)(1)(A), substituted “or, with respect to a Defense Agency, the Secretary of Defense” for “, or his designee,” in introductory provisions.
 
-    Subsec. (a)(1)(G). [Pub. L. 110–181, § 2821(b)][/us/pl/110/181/s2821/b], added subpar. (G).
+    Subsec. (a)(1)(G). [Pub. L. 110–181][/us/pl/110/181], § 2821(b), added subpar. (G).
 
-    Subsec. (a)(3). [Pub. L. 110–181, § 2821(a)(1)(B)][/us/pl/110/181/s2821/a/1/B], inserted “or the Secretary of Defense” after “military department” in introductory provisions.
+    Subsec. (a)(3). [Pub. L. 110–181][/us/pl/110/181], § 2821(a)(1)(B), inserted “or the Secretary of Defense” after “military department” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 110–181, § 2821(a)(2)][/us/pl/110/181/s2821/a/2], inserted “and, with respect to Defense Agencies, the Secretary of Defense” after “military department”.
+    Subsec. (b). [Pub. L. 110–181][/us/pl/110/181], § 2821(a)(2), inserted “and, with respect to Defense Agencies, the Secretary of Defense” after “military department”.
 
     Subsec. (c). [Pub. L. 110–417][/us/pl/110/417] substituted “water resource development projects of the Corps of Engineers” for “river and harbor projects or flood control projects”.
 
-    Subsec. (g)(4). [Pub. L. 110–181, § 2821(a)(3)][/us/pl/110/181/s2821/a/3], added par. (4).
+    Subsec. (g)(4). [Pub. L. 110–181][/us/pl/110/181], § 2821(a)(3), added par. (4).
 
     2004—Subsec. (a)(2). [Pub. L. 108–375][/us/pl/108/375] substituted “shall include a summary” for “must include a summarization” and inserted “of paragraph (1)” after “in subparagraph (E)”.
 
-    2003—Subsec. (a). [Pub. L. 108–136, § 1031(a)(27)(A)(i)][/us/pl/108/136/s1031/a/27/A/i]–(v), inserted “(1)” after subsec. heading, substituted “the Secretary submits a report, subject to paragraph (3),” for “after the expiration of 30 days from the date upon which a report of the facts concerning the proposed transaction is submitted”, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), substituted “$750,000” for “$500,000” in subpars. (A) to (E), designated concluding provisions as par. (2), and substituted “subparagraph (A) or (B) of paragraph (1)” for “clause (1) or (2)” and “subparagraph (E)” for “clause (5)”.
+    2003—Subsec. (a). [Pub. L. 108–136][/us/pl/108/136], § 1031(a)(27)(A)(i)–(v), inserted “(1)” after subsec. heading, substituted “the Secretary submits a report, subject to paragraph (3),” for “after the expiration of 30 days from the date upon which a report of the facts concerning the proposed transaction is submitted”, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), substituted “$750,000” for “$500,000” in subpars. (A) to (E), designated concluding provisions as par. (2), and substituted “subparagraph (A) or (B) of paragraph (1)” for “clause (1) or (2)” and “subparagraph (E)” for “clause (5)”.
 
-    Subsec. (a)(3), (4). [Pub. L. 108–136, § 1031(a)(27)(A)(vi)][/us/pl/108/136/s1031/a/27/A/vi], added pars. (3) and (4).
+    Subsec. (a)(3), (4). [Pub. L. 108–136][/us/pl/108/136], § 1031(a)(27)(A)(vi), added pars. (3) and (4).
 
-    Subsec. (b). [Pub. L. 108–136, § 1031(a)(27)(B)][/us/pl/108/136/s1031/a/27/B], substituted “more than $250,000, but not more than $750,000” for “more than the simplified acquisition threshold specified in section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)][/us/usc/t41/s403/11]), but not more than $500,000”.
+    Subsec. (b). [Pub. L. 108–136][/us/pl/108/136], § 1031(a)(27)(B), substituted “more than $250,000, but not more than $750,000” for “more than the simplified acquisition threshold specified in section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)][/us/usc/t41/s403/11]), but not more than $500,000”.
 
-    Subsec. (e). [Pub. L. 108–136, § 1031(a)(27)(C)][/us/pl/108/136/s1031/a/27/C], substituted “$750,000” for “$500,000” and “the end of the 30-day period beginning on the date on which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a) or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480]” for “the expiration of thirty days from the date upon which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a)”.
+    Subsec. (e). [Pub. L. 108–136][/us/pl/108/136], § 1031(a)(27)(C), substituted “$750,000” for “$500,000” and “the end of the 30-day period beginning on the date on which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a) or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480]” for “the expiration of thirty days from the date upon which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a)”.
 
-    2000—Subsec. (a). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. B, title XXVIII, § 2811(a)\], substituted “$500,000” for “$200,000” wherever appearing.
+    2000—Subsec. (a). [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. B, title XXVIII, § 2811(a)\], substituted “$500,000” for “$200,000” wherever appearing.
 
     Subsec. (b). [Pub. L. 106–398][/us/pl/106/398] substituted “specified in section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)][/us/usc/t41/s403/11]),” for “under [section 2304(g) of this title][/us/usc/t10/s2304/g]” and “$500,000” for “$200,000”.
 
-    Subsec. (e). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. B, title XXVIII, § 2811(a)\], substituted “$500,000” for “$200,000”.
+    Subsec. (e). [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. B, title XXVIII, § 2811(a)\], substituted “$500,000” for “$200,000”.
 
     1999—Subsec. (a). [Pub. L. 106–65][/us/pl/106/65] substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
-    1998—Subsecs. (a) to (f). [Pub. L. 105–261, § 2811(b)][/us/pl/105/261/s2811/b], inserted subsec. headings.
+    1998—Subsecs. (a) to (f). [Pub. L. 105–261][/us/pl/105/261], § 2811(b), inserted subsec. headings.
 
-    Subsec. (g). [Pub. L. 105–261, § 2811(a)][/us/pl/105/261/s2811/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 105–261][/us/pl/105/261], § 2811(a), added subsec. (g).
 
-    1996—Subsec. (a). [Pub. L. 104–106, § 1502(a)(23)(A)][/us/pl/104/106/s1502/a/23/A], substituted “the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “the Committees on Armed Services of the Senate and House of Representatives” in introductory provisions and struck out “to be submitted to the Committees on Armed Services of the Senate and House of Representatives” after “The report required by this subsection” in concluding provisions.
+    1996—Subsec. (a). [Pub. L. 104–106][/us/pl/104/106], § 1502(a)(23)(A), substituted “the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “the Committees on Armed Services of the Senate and House of Representatives” in introductory provisions and struck out “to be submitted to the Committees on Armed Services of the Senate and House of Representatives” after “The report required by this subsection” in concluding provisions.
 
-    Subsec. (b). [Pub. L. 104–106, § 4321(b)(21)][/us/pl/104/106/s4321/b/21], substituted “simplified acquisition threshold” for “small purchase threshold”.
+    Subsec. (b). [Pub. L. 104–106][/us/pl/104/106], § 4321(b)(21), substituted “simplified acquisition threshold” for “small purchase threshold”.
 
-    [Pub. L. 104–106, § 1502(a)(23)(B)][/us/pl/104/106/s1502/a/23/B], substituted “shall submit annually to the congressional committees named in subsection (a) a report” for “shall report annually to the Committees on Armed Services of the Senate and the House of Representatives”.
+    [Pub. L. 104–106][/us/pl/104/106], § 1502(a)(23)(B), substituted “shall submit annually to the congressional committees named in subsection (a) a report” for “shall report annually to the Committees on Armed Services of the Senate and the House of Representatives”.
 
-    Subsec. (e). [Pub. L. 104–106, § 1502(a)(23)(C)][/us/pl/104/106/s1502/a/23/C], substituted “the congressional committees named in subsection (a)” for “the Committees on Armed Services of the Senate and the House of Representatives”.
+    Subsec. (e). [Pub. L. 104–106][/us/pl/104/106], § 1502(a)(23)(C), substituted “the congressional committees named in subsection (a)” for “the Committees on Armed Services of the Senate and the House of Representatives”.
 
-    Subsec. (f). [Pub. L. 104–106, § 1502(a)(23)(D)][/us/pl/104/106/s1502/a/23/D], substituted “the congressional committees named in subsection (a) shall” for “the Committees on Armed Services of the Senate and the House of Representatives shall”.
+    Subsec. (f). [Pub. L. 104–106][/us/pl/104/106], § 1502(a)(23)(D), substituted “the congressional committees named in subsection (a) shall” for “the Committees on Armed Services of the Senate and the House of Representatives shall”.
 
-    1992—[Pub. L. 102–496, § 403(a)(2)(A)][/us/pl/102/496/s403/a/2/A], substituted “reports to congressional committees” for “Reports to the Armed Services Committees” in section catchline.
+    1992—[Pub. L. 102–496][/us/pl/102/496], § 403(a)(2)(A), substituted “reports to congressional committees” for “Reports to the Armed Services Committees” in section catchline.
 
-    Subsec. (f). [Pub. L. 102–496, § 403(a)(1)][/us/pl/102/496/s403/a/1], added subsec. (f).
+    Subsec. (f). [Pub. L. 102–496][/us/pl/102/496], § 403(a)(1), added subsec. (f).
 
     1990—Subsec. (b). [Pub. L. 101–510][/us/pl/101/510] substituted “the small purchase threshold under [section 2304(g) of this title][/us/usc/t10/s2304/g]” for “$5,000”.
 
@@ -301,9 +301,9 @@ Sept. 28, 1951, ch. 434, §§ 601–604, 65 Stat. 365, 366.  </td>
 
     1976—Subsec. (a). [Pub. L. 94–431][/us/pl/94/431] provided that the report on the excess property owned by the United States contain a certification by the Secretary concerned that he has considered the feasibility of exchanging such excess property for property suitable for military purposes and has determined such excess property not suitable for exchange.
 
-    1975—Subsec. (b). [Pub. L. 94–107, § 607(5)][/us/pl/94/107/s607/5], substituted requirement of annual reports for requirement of quarterly reports.
+    1975—Subsec. (b). [Pub. L. 94–107][/us/pl/94/107], § 607(5), substituted requirement of annual reports for requirement of quarterly reports.
 
-    Subsec. (c). [Pub. L. 94–107, § 607(6)][/us/pl/94/107/s607/6], inserted provisions extending the applicability of the section to Guam, the American Samoa, and the Trust Territory of the Pacific Islands, and, in provisions relating to the inapplicability of the section, inserted reference to any real property acquisition specifically authorized in a Military Construction Authorization Act.
+    Subsec. (c). [Pub. L. 94–107][/us/pl/94/107], § 607(6), inserted provisions extending the applicability of the section to Guam, the American Samoa, and the Trust Territory of the Pacific Islands, and, in provisions relating to the inapplicability of the section, inserted reference to any real property acquisition specifically authorized in a Military Construction Authorization Act.
 
     1974—Subsec. (a)(6). [Pub. L. 93–552][/us/pl/93/552] added par. (6).
 
@@ -335,17 +335,17 @@ Sept. 28, 1951, ch. 434, §§ 601–604, 65 Stat. 365, 366.  </td>
 
  __Reduction or Realignment of Training Bases__ 
 
-    [Pub. L. 95–485, title VI, § 602][/us/pl/95/485/s602], Oct. 20, 1978, [92 Stat. 1617][/us/stat/92/1617], prohibited any action to implement any substantial reduction or force structure realignment of the composite of installations, posts, camps, stations, and bases that had as a primary or secondary mission the conduct of formal entry level, advanced individual, or specialty training as a part of the fiscal year 1979 Defense manpower program unless certain criteria were complied with.
+    [Pub. L. 95–485, title VI][/us/pl/95/485/tVI], § 602, Oct. 20, 1978, [92 Stat. 1617][/us/stat/92/1617], prohibited any action to implement any substantial reduction or force structure realignment of the composite of installations, posts, camps, stations, and bases that had as a primary or secondary mission the conduct of formal entry level, advanced individual, or specialty training as a part of the fiscal year 1979 Defense manpower program unless certain criteria were complied with.
 
  __Closing of Facilities; Closures or Realignments Publicly Announced After__  __September 30, 1977__ 
 
-[Pub. L. 95–82, title VI, § 612(c)][/us/pl/95/82/s612/c], Aug. 1, 1977, [91 Stat. 380][/us/stat/91/380], provided that: 
+[Pub. L. 95–82, title VI][/us/pl/95/82/tVI], § 612(c), Aug. 1, 1977, [91 Stat. 380][/us/stat/91/380], provided that: 
 
 > “Section 611 of the Military Construction Authorization Act, 1966 ([Public Law 89–188][/us/pl/89/188]; [10 U.S.C. 2662][/us/usc/t10/s2662] note), and section 612 of the Military Construction Authorization Act, 1977 ([Public Law 94–431][/us/pl/94/431]; [90 Stat. 1366][/us/stat/90/1366]) \[which was not classified to the Code\], shall be inapplicable in the case of any closure of a military installation, and any realignment with respect to a military installation, which is first publicly announced after September 30, 1977.”
 
  __Closing of Facilities; Reports to Congress__ 
 
-    [Pub. L. 89–188, title VI, § 611][/us/pl/89/188/s611], Sept. 16, 1965, [79 Stat. 818][/us/stat/79/818], as amended by [Pub. L. 89–568, title VI, § 613][/us/pl/89/568/s613], Sept. 12, 1966, [80 Stat. 757][/us/stat/80/757], required a report to Congress and a waiting period in connection with the closing of Defense Department facilities, prior to repeal by [Pub. L. 97–214, § 7(7)][/us/pl/97/214/s7/7], July 12, 1982, [96 Stat. 173][/us/stat/96/173], eff. Oct. 1, 1982.
+    [Pub. L. 89–188, title VI][/us/pl/89/188/tVI], § 611, Sept. 16, 1965, [79 Stat. 818][/us/stat/79/818], as amended by [Pub. L. 89–568, title VI][/us/pl/89/568/tVI], § 613, Sept. 12, 1966, [80 Stat. 757][/us/stat/80/757], required a report to Congress and a waiting period in connection with the closing of Defense Department facilities, prior to repeal by [Pub. L. 97–214][/us/pl/97/214], § 7(7), July 12, 1982, [96 Stat. 173][/us/stat/96/173], eff. Oct. 1, 1982.
 
 ----------
 
@@ -366,51 +366,51 @@ Sept. 28, 1951, ch. 434, §§ 601–604, 65 Stat. 365, 366.  </td>
 [/us/usc/t10/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs334
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F147
-[/us/pl/86/70/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs6%2Fc
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F142
-[/us/pl/86/500/s511/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F500%2Fs511%2F1
+[/us/pl/86/500/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F500%2FtV
 [/us/stat/74/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F186
-[/us/pl/86/624/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs4%2Fc
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F411
-[/us/pl/92/145/s707/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F145%2Fs707%2F5
+[/us/pl/92/145/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F145%2FtVII
 [/us/stat/85/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F412
-[/us/pl/92/545/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F545%2Fs709
+[/us/pl/92/545/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F545%2FtVII
 [/us/stat/86/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1154
-[/us/pl/93/552/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F552%2Fs610
+[/us/pl/93/552/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F552%2FtVI
 [/us/stat/88/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1765
-[/us/pl/94/107/s607/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F107%2Fs607%2F5
+[/us/pl/94/107/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F107%2FtVI
 [/us/stat/89/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F566
-[/us/pl/94/431/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F431%2Fs614
+[/us/pl/94/431/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F431%2FtVI
 [/us/stat/90/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1367
-[/us/pl/96/418/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F418%2Fs805
+[/us/pl/96/418/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F418%2FtVIII
 [/us/stat/94/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1777
-[/us/pl/100/456/s2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs2803
+[/us/pl/100/456/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdB%2FtXXVIII
 [/us/stat/102/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2115
-[/us/pl/101/510/s1311/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1311%2F6
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1670
-[/us/pl/102/496/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs403%2Fa%2F1
+[/us/pl/102/496/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2FtIV
 [/us/stat/106/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3185
-[/us/pl/104/106/s1502/a/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F23
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F505
-[/us/pl/105/261/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs2811
+[/us/pl/105/261/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdB%2FtXXVIII
 [/us/stat/112/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2204
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/136/s1031/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F27
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1598
-[/us/pl/108/375/s1084/d/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F22
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2062
-[/us/pl/110/181/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2821
+[/us/pl/110/181/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdB%2FtXXVIII
 [/us/stat/122/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F543
-[/us/pl/110/417/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs2811
+[/us/pl/110/417/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdB%2FtXXVIII
 [/us/stat/122/4725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4725
-[/us/pl/111/383/s2811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2811%2Fa
+[/us/pl/111/383/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdB%2FtXXVIII
 [/us/stat/124/4461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4461
-[/us/pl/112/81/s2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2812
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1686
-[/us/pl/112/239/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2821
+[/us/pl/112/239/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdB%2FtXXVIII
 [/us/stat/126/2152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2152
 [/us/usc/t10/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F1
 [/us/pl/94/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412
@@ -420,55 +420,55 @@ Sept. 28, 1951, ch. 434, §§ 601–604, 65 Stat. 365, 366.  </td>
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/111/383/s2811/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2811%2Ff%2F1%2FA
-[/us/pl/112/81/s2812/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2812%2F1
-[/us/pl/111/383/s2811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2811%2Fa
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s2667/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2667%2Fg
-[/us/pl/111/383/s2811/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2811%2Ff%2F1%2FB
-[/us/pl/111/383/s2811/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2811%2Fb
-[/us/pl/112/81/s2812/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2812%2F2
-[/us/pl/111/383/s2811/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2811%2Fc
-[/us/pl/111/383/s2811/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2811%2Fd
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
-[/us/pl/111/383/s2811/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2811%2Ff%2F3%2FA
-[/us/pl/111/383/s2811/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2811%2Ff%2F3%2FB
-[/us/pl/111/383/s2811/f/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2811%2Ff%2F3%2FC
-[/us/pl/111/383/s2811/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2811%2Ff%2F4
-[/us/pl/110/181/s2821/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2821%2Fa%2F1%2FA
-[/us/pl/110/181/s2821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2821%2Fb
-[/us/pl/110/181/s2821/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2821%2Fa%2F1%2FB
-[/us/pl/110/181/s2821/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2821%2Fa%2F2
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/110/181/s2821/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2821%2Fa%2F3
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/108/136/s1031/a/27/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F27%2FA%2Fi
-[/us/pl/108/136/s1031/a/27/A/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F27%2FA%2Fvi
-[/us/pl/108/136/s1031/a/27/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F27%2FB
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t41/s403/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F11
-[/us/pl/108/136/s1031/a/27/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F27%2FC
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t41/s403/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F11
 [/us/usc/t10/s2304/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Fg
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/105/261/s2811/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs2811%2Fb
-[/us/pl/105/261/s2811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs2811%2Fa
-[/us/pl/104/106/s1502/a/23/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F23%2FA
-[/us/pl/104/106/s4321/b/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4321%2Fb%2F21
-[/us/pl/104/106/s1502/a/23/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F23%2FB
-[/us/pl/104/106/s1502/a/23/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F23%2FC
-[/us/pl/104/106/s1502/a/23/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F23%2FD
-[/us/pl/102/496/s403/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs403%2Fa%2F2%2FA
-[/us/pl/102/496/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs403%2Fa%2F1
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/102/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496
+[/us/pl/102/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s2304/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Fg
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/96/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F418
 [/us/pl/94/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F431
-[/us/pl/94/107/s607/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F107%2Fs607%2F5
-[/us/pl/94/107/s607/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F107%2Fs607%2F6
+[/us/pl/94/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F107
+[/us/pl/94/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F107
 [/us/pl/93/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F552
 [/us/pl/92/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F545
 [/us/pl/92/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F145
@@ -485,19 +485,19 @@ Sept. 28, 1951, ch. 434, §§ 601–604, 65 Stat. 365, 366.  </td>
 [/us/pl/100/456/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs2702
 [/us/usc/t10/s2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2391
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/95/485/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs602
+[/us/pl/95/485/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2FtVI
 [/us/stat/92/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1617
-[/us/pl/95/82/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F82%2Fs612%2Fc
+[/us/pl/95/82/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F82%2FtVI
 [/us/stat/91/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F380
 [/us/pl/89/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F188
 [/us/usc/t10/s2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2662
 [/us/pl/94/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F431
 [/us/stat/90/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1366
-[/us/pl/89/188/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F188%2Fs611
+[/us/pl/89/188/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F188%2FtVI
 [/us/stat/79/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F818
-[/us/pl/89/568/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F568%2Fs613
+[/us/pl/89/568/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F568%2FtVI
 [/us/stat/80/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F757
-[/us/pl/97/214/s7/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs7%2F7
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F173
 
 

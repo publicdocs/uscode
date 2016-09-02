@@ -59,7 +59,7 @@
 
         (5) The term “routinely deployable unit” means a unit that normally deploys from its permanent home station on a periodic or rotating basis to meet peacetime operational requirements that, or to participate in scheduled training exercises that, routinely require deployments outside the United States and its territories. Such term includes a unit that is alerted for deployment outside the United States and its territories during an actual execution of a contingency plan or in support of a crisis operation.
 
-(Added [Pub. L. 106–65, div. A, title X, § 1044(a)][/us/pl/106/65/s1044/a], Oct. 5, 1999, [113 Stat. 761][/us/stat/113/761]; amended [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+(Added [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1044(a), Oct. 5, 1999, [113 Stat. 761][/us/stat/113/761]; amended [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
  __Amendments__ 
 
@@ -77,9 +77,9 @@
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/106/65/s1044/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1044%2Fa
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F761
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

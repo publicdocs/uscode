@@ -31,11 +31,11 @@
 
     The Secretary concerned shall deliver to the Secretary of Veterans Affairs a certified copy of each certificate of enrollment issued under subsection (c). The copy of the certificate shall authorize the Secretary of Veterans Affairs to pay the special pension provided by [section 1562 of title 38][/us/usc/t38/s1562] to the person named in the certificate.
 
-(Added [Pub. L. 113–66, div. A, title V, § 563(a)(1)][/us/pl/113/66/s563/a/1], Dec. 26, 2013, [127 Stat. 767][/us/stat/127/767].)
+(Added [Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 563(a)(1), Dec. 26, 2013, [127 Stat. 767][/us/stat/127/767].)
 
  __Effective Date__ 
 
-[Pub. L. 113–66, div. A, title V, § 563(d)][/us/pl/113/66/s563/d], Dec. 26, 2013, [127 Stat. 768][/us/stat/127/768], provided that: 
+[Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 563(d), Dec. 26, 2013, [127 Stat. 768][/us/stat/127/768], provided that: 
 
 > “The amendments made by this section \[enacting this section, amending [section 1562 of Title 38][/us/usc/t38/s1562], Veterans’ Benefits, and repealing sections 1560 and 1561 of Title 38\] shall apply with respect to Medals of Honor awarded on or after the date of the enactment of this Act \[Dec. 26, 2013\].”
 
@@ -48,9 +48,9 @@
 
 [/us/usc/t14/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs491
 [/us/usc/t38/s1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1562
-[/us/pl/113/66/s563/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs563%2Fa%2F1
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F767
-[/us/pl/113/66/s563/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs563%2Fd
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F768
 [/us/usc/t38/s1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1562
 

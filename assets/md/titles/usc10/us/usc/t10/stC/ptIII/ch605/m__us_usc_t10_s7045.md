@@ -53,7 +53,7 @@
 
     (d) The Secretary may not award a baccalaureate, masters, or doctorate degree to an enlisted member based upon instruction received at the Postgraduate School under subsection (a)(2)(C).
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 437][/us/stat/70A/437]; [Pub. L. 96–513, title V, § 513(23)][/us/pl/96/513/s513/23], Dec. 12, 1980, [94 Stat. 2932][/us/stat/94/2932]; [Pub. L. 105–85, div. A, title V, § 551(a)][/us/pl/105/85/s551/a], (b)(1), Nov. 18, 1997, [111 Stat. 1747][/us/stat/111/1747]; [Pub. L. 105–261, div. A, title X, § 1069(a)(6)][/us/pl/105/261/s1069/a/6], Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136]; [Pub. L. 107–296, title XVII, § 1704(b)(5)][/us/pl/107/296/s1704/b/5], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–136, div. A, title V, § 532][/us/pl/108/136/s532], Nov. 24, 2003, [117 Stat. 1472][/us/stat/117/1472]; [Pub. L. 109–163, div. A, title V, § 526(a)][/us/pl/109/163/s526/a], (b), Jan. 6, 2006, [119 Stat. 3245][/us/stat/119/3245], 3246; [Pub. L. 109–364, div. A, title V, § 543(a)][/us/pl/109/364/s543/a]–(c), Oct. 17, 2006, [120 Stat. 2213][/us/stat/120/2213].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 437][/us/stat/70A/437]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(23), Dec. 12, 1980, [94 Stat. 2932][/us/stat/94/2932]; [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 551(a), (b)(1), Nov. 18, 1997, [111 Stat. 1747][/us/stat/111/1747]; [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1069(a)(6), Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(5), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 532, Nov. 24, 2003, [117 Stat. 1472][/us/stat/117/1472]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 526(a), (b), Jan. 6, 2006, [119 Stat. 3245][/us/stat/119/3245], 3246; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 543(a)–(c), Oct. 17, 2006, [120 Stat. 2213][/us/stat/120/2213].)
 
 <table>
 
@@ -107,43 +107,43 @@ July 31, 1947, ch. 420, § 6, 61 Stat. 706.  </td>
 
  __Amendments__ 
 
-    2006—Subsec. (a)(2)(C). [Pub. L. 109–364, § 543(a)][/us/pl/109/364/s543/a], substituted “armed forces” for “Navy or Marine Corps”.
+    2006—Subsec. (a)(2)(C). [Pub. L. 109–364][/us/pl/109/364], § 543(a), substituted “armed forces” for “Navy or Marine Corps”.
 
-    [Pub. L. 109–163, § 526(a)(1)(B)][/us/pl/109/163/s526/a/1/B], added subpar. (C). Former subpar.(C) redesignated (D).
+    [Pub. L. 109–163][/us/pl/109/163], § 526(a)(1)(B), added subpar. (C). Former subpar.(C) redesignated (D).
 
-    Subsec. (a)(2)(D). [Pub. L. 109–364, § 543(b)(2)][/us/pl/109/364/s543/b/2], added subpar. (D). Former subpar. (D) redesignated (E).
+    Subsec. (a)(2)(D). [Pub. L. 109–364][/us/pl/109/364], § 543(b)(2), added subpar. (D). Former subpar. (D) redesignated (E).
 
-    [Pub. L. 109–163, § 526(a)(1)(A)][/us/pl/109/163/s526/a/1/A], (C), redesignated subpar. (C) as (D) and substituted “subparagraphs (A), (B), and (C)” for “subparagraphs (A) and (B)”.
+    [Pub. L. 109–163][/us/pl/109/163], § 526(a)(1)(A), (C), redesignated subpar. (C) as (D) and substituted “subparagraphs (A), (B), and (C)” for “subparagraphs (A) and (B)”.
 
-    Subsec. (a)(2)(E). [Pub. L. 109–364, § 543(b)(1)][/us/pl/109/364/s543/b/1], (c)(1), redesignated subpar. (D) as (E) and substituted “(C), and (D)” for “and (C)”.
+    Subsec. (a)(2)(E). [Pub. L. 109–364][/us/pl/109/364], § 543(b)(1), (c)(1), redesignated subpar. (D) as (E) and substituted “(C), and (D)” for “and (C)”.
 
-    Subsec. (b)(2). [Pub. L. 109–364, § 543(c)(2)][/us/pl/109/364/s543/c/2], substituted “(a)(2)(E)” for “(a)(2)(D)”.
+    Subsec. (b)(2). [Pub. L. 109–364][/us/pl/109/364], § 543(c)(2), substituted “(a)(2)(E)” for “(a)(2)(D)”.
 
-    [Pub. L. 109–163, § 526(a)(2)][/us/pl/109/163/s526/a/2], substituted “subsection (a)(2)(D)” for “subsection (a)(2)(C)”.
+    [Pub. L. 109–163][/us/pl/109/163], § 526(a)(2), substituted “subsection (a)(2)(D)” for “subsection (a)(2)(C)”.
 
-    Subsec. (d). [Pub. L. 109–163, § 526(b)][/us/pl/109/163/s526/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–163][/us/pl/109/163], § 526(b), added subsec. (d).
 
-    2003—Subsec. (a)(2). [Pub. L. 108–136, § 532(a)][/us/pl/108/136/s532/a], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may permit an enlisted member of the armed forces who is assigned to the Naval Postgraduate School or to a nearby command to receive instruction at the Naval Postgraduate School. Admission of enlisted members for instruction under this paragraph shall be on a space-available basis.”
+    2003—Subsec. (a)(2). [Pub. L. 108–136][/us/pl/108/136], § 532(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may permit an enlisted member of the armed forces who is assigned to the Naval Postgraduate School or to a nearby command to receive instruction at the Naval Postgraduate School. Admission of enlisted members for instruction under this paragraph shall be on a space-available basis.”
 
-    Subsec. (b). [Pub. L. 108–136, § 532(b)][/us/pl/108/136/s532/b], designated first sentence as par. (1) and substituted “Except as provided under paragraph (3), the Department” for “The Department” and “members” for “officers”, designated second sentence as par. (2) and inserted “under subsection (a)(2)(C)” after “permitted” and “on a space-available basis” after “instruction at the Postgraduate School” and struck out “(taking into consideration the admission of enlisted members on a space-available basis)” before period at end, and added par. (3).
+    Subsec. (b). [Pub. L. 108–136][/us/pl/108/136], § 532(b), designated first sentence as par. (1) and substituted “Except as provided under paragraph (3), the Department” for “The Department” and “members” for “officers”, designated second sentence as par. (2) and inserted “under subsection (a)(2)(C)” after “permitted” and “on a space-available basis” after “instruction at the Postgraduate School” and struck out “(taking into consideration the admission of enlisted members on a space-available basis)” before period at end, and added par. (3).
 
-    2002—Subsec. (a)(1). [Pub. L. 107–296, § 1704(b)(5)(A)][/us/pl/107/296/s1704/b/5/A], substituted “Secretary of the Army, the Secretary of the Air Force, and the Secretary of Homeland Security” for “Secretaries of the Army, Air Force, and Transportation”.
+    2002—Subsec. (a)(1). [Pub. L. 107–296][/us/pl/107/296], § 1704(b)(5)(A), substituted “Secretary of the Army, the Secretary of the Air Force, and the Secretary of Homeland Security” for “Secretaries of the Army, Air Force, and Transportation”.
 
-    Subsec. (b). [Pub. L. 107–296, § 1704(b)(5)][/us/pl/107/296/s1704/b/5], substituted “Department of Homeland Security” for “Department of Transportation” and “Secretary of the Army, the Secretary of the Air Force, and the Secretary of Homeland Security” for “Secretaries of the Army, Air Force, and Transportation”.
+    Subsec. (b). [Pub. L. 107–296][/us/pl/107/296], § 1704(b)(5), substituted “Department of Homeland Security” for “Department of Transportation” and “Secretary of the Army, the Secretary of the Air Force, and the Secretary of Homeland Security” for “Secretaries of the Army, Air Force, and Transportation”.
 
     1998—Subsec. (c). [Pub. L. 105–261][/us/pl/105/261] struck out “the” after “are subject to”.
 
-    1997—[Pub. L. 105–85, § 551(b)(1)][/us/pl/105/85/s551/b/1], substituted “Officers of the other armed forces; enlisted members:” for “Officers of Army, Air Force, and Coast Guard:” in section catchline.
+    1997—[Pub. L. 105–85][/us/pl/105/85], § 551(b)(1), substituted “Officers of the other armed forces; enlisted members:” for “Officers of Army, Air Force, and Coast Guard:” in section catchline.
 
-    Subsec. (a). [Pub. L. 105–85, § 551(a)(1)][/us/pl/105/85/s551/a/1], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (a). [Pub. L. 105–85][/us/pl/105/85], § 551(a)(1), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (b). [Pub. L. 105–85, § 551(a)(2)][/us/pl/105/85/s551/a/2], substituted “officers detailed” for “the students detailed” and inserted at end “In the case of an enlisted member permitted to receive instruction at the Postgraduate School, the Secretary of the Navy shall charge that member only for such costs and fees as the Secretary considers appropriate (taking into consideration the admission of enlisted members on a space-available basis).”
+    Subsec. (b). [Pub. L. 105–85][/us/pl/105/85], § 551(a)(2), substituted “officers detailed” for “the students detailed” and inserted at end “In the case of an enlisted member permitted to receive instruction at the Postgraduate School, the Secretary of the Navy shall charge that member only for such costs and fees as the Secretary considers appropriate (taking into consideration the admission of enlisted members on a space-available basis).”
 
-    Subsec. (c). [Pub. L. 105–85, § 551(a)(3)][/us/pl/105/85/s551/a/3], substituted “members” for “officers” in two places and “such regulations, as determined appropriate by the Secretary of the Navy,” for “same regulations”.
+    Subsec. (c). [Pub. L. 105–85][/us/pl/105/85], § 551(a)(3), substituted “members” for “officers” in two places and “such regulations, as determined appropriate by the Secretary of the Navy,” for “same regulations”.
 
-    1980—Subsec. (a). [Pub. L. 96–513, § 513(23)][/us/pl/96/513/s513/23], substituted references to Transportation Department and Secretary for references to Treasury Department and Secretary, respectively.
+    1980—Subsec. (a). [Pub. L. 96–513][/us/pl/96/513], § 513(23), substituted references to Transportation Department and Secretary for references to Treasury Department and Secretary, respectively.
 
-    Subsec. (b). [Pub. L. 96–513, § 513(23)(A)][/us/pl/96/513/s513/23/A], substituted reference to Transportation Secretary for reference to Treasury Secretary.
+    Subsec. (b). [Pub. L. 96–513][/us/pl/96/513], § 513(23)(A), substituted reference to Transportation Secretary for reference to Treasury Secretary.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -163,40 +163,40 @@ July 31, 1947, ch. 420, § 6, 61 Stat. 706.  </td>
 [/us/usc/t10/s7048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7048
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F437
-[/us/pl/96/513/s513/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F23
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2932
-[/us/pl/105/85/s551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs551%2Fa
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1747
-[/us/pl/105/261/s1069/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1069%2Fa%2F6
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2136
-[/us/pl/107/296/s1704/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F5
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/108/136/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs532
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1472
-[/us/pl/109/163/s526/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs526%2Fa
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3245
-[/us/pl/109/364/s543/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs543%2Fa
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2213
 [/us/usc/t5/s171e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs171e
-[/us/pl/109/364/s543/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs543%2Fa
-[/us/pl/109/163/s526/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs526%2Fa%2F1%2FB
-[/us/pl/109/364/s543/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs543%2Fb%2F2
-[/us/pl/109/163/s526/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs526%2Fa%2F1%2FA
-[/us/pl/109/364/s543/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs543%2Fb%2F1
-[/us/pl/109/364/s543/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs543%2Fc%2F2
-[/us/pl/109/163/s526/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs526%2Fa%2F2
-[/us/pl/109/163/s526/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs526%2Fb
-[/us/pl/108/136/s532/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs532%2Fa
-[/us/pl/108/136/s532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs532%2Fb
-[/us/pl/107/296/s1704/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F5%2FA
-[/us/pl/107/296/s1704/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F5
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
-[/us/pl/105/85/s551/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs551%2Fb%2F1
-[/us/pl/105/85/s551/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs551%2Fa%2F1
-[/us/pl/105/85/s551/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs551%2Fa%2F2
-[/us/pl/105/85/s551/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs551%2Fa%2F3
-[/us/pl/96/513/s513/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F23
-[/us/pl/96/513/s513/23/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F23%2FA
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101

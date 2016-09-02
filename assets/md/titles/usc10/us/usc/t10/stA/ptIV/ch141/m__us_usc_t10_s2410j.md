@@ -125,21 +125,21 @@
 
     Subsections (h) through (k) of [section 1151 of this title][/us/usc/t10/s1151], as in effect on October 4, 1999, shall apply with respect to the placement as teachers and teachers’ aides of individuals selected under this section.
 
-(Added [Pub. L. 102–484, div. D, title XLIV, § 4443(a)][/us/pl/102/484/s4443/a], Oct. 23, 1992, [106 Stat. 2732][/us/stat/106/2732], § 2410c; renumbered § 2410j and amended [Pub. L. 103–35, title II, § 201(b)(1)(A)][/us/pl/103/35/s201/b/1/A], (g)(6), May 31, 1993, [107 Stat. 97][/us/stat/107/97], 100; [Pub. L. 103–160, div. A, title XIII, § 1331(c)(3)][/us/pl/103/160/s1331/c/3], Nov. 30, 1993, [107 Stat. 1792][/us/stat/107/1792]; [Pub. L. 103–382, title III, § 391(b)(5)][/us/pl/103/382/s391/b/5], Oct. 20, 1994, [108 Stat. 4022][/us/stat/108/4022]; [Pub. L. 104–106, div. A, title XV, § 1503(a)(23)][/us/pl/104/106/s1503/a/23], Feb. 10, 1996, [110 Stat. 512][/us/stat/110/512]; [Pub. L. 104–201, div. A, title V, § 576(c)][/us/pl/104/201/s576/c], Sept. 23, 1996, [110 Stat. 2535][/us/stat/110/2535]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(14)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–291.)
+(Added [Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], § 4443(a), Oct. 23, 1992, [106 Stat. 2732][/us/stat/106/2732], § 2410c; renumbered § 2410j and amended [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 201(b)(1)(A), (g)(6), May 31, 1993, [107 Stat. 97][/us/stat/107/97], 100; [Pub. L. 103–160, div. A, title XIII][/us/pl/103/160/dA/tXIII], § 1331(c)(3), Nov. 30, 1993, [107 Stat. 1792][/us/stat/107/1792]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 391(b)(5), Oct. 20, 1994, [108 Stat. 4022][/us/stat/108/4022]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1503(a)(23), Feb. 10, 1996, [110 Stat. 512][/us/stat/110/512]; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 576(c), Sept. 23, 1996, [110 Stat. 2535][/us/stat/110/2535]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(14)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–291.)
 
  __References in Text__ 
 
     The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], as amended. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20][/us/usc/t20/s6301] and Tables.
 
-    [Section 1151 of this title][/us/usc/t10/s1151], referred to in subsecs. (f)(2)(A), (B) and (h), was repealed by [Pub. L. 106–65, div. A, title XVII, § 1707(a)(1)][/us/pl/106/65/s1707/a/1], Oct. 5, 1999, [113 Stat. 823][/us/stat/113/823], and a new [section 1151 of this title][/us/usc/t10/s1151] was subsequently added by [Pub. L. 109–364, § 561(a)][/us/pl/109/364/s561/a].
+    [Section 1151 of this title][/us/usc/t10/s1151], referred to in subsecs. (f)(2)(A), (B) and (h), was repealed by [Pub. L. 106–65, div. A, title XVII][/us/pl/106/65/dA/tXVII], § 1707(a)(1), Oct. 5, 1999, [113 Stat. 823][/us/stat/113/823], and a new [section 1151 of this title][/us/usc/t10/s1151] was subsequently added by [Pub. L. 109–364][/us/pl/109/364], § 561(a).
 
     The Higher Education Act of 1965, referred to in subsec. (g)(2), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219], as amended. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20 and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20][/us/usc/t20/s1001] and Tables.
 
  __Amendments__ 
 
-    2000—Subsec. (f)(2). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(14)(A)\], inserted “as in effect on October 4, 1999,” after “of this title,” in subpars. (A) and (B).
+    2000—Subsec. (f)(2). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(14)(A)\], inserted “as in effect on October 4, 1999,” after “of this title,” in subpars. (A) and (B).
 
-    Subsec. (h). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(14)(B)\], inserted “, as in effect on October 4, 1999,” after “of this title”.
+    Subsec. (h). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(14)(B)\], inserted “, as in effect on October 4, 1999,” after “of this title”.
 
     1996—Subsec. (a)(2)(A). [Pub. L. 104–106][/us/pl/104/106] substituted “6301” for “2701”.
 
@@ -147,11 +147,11 @@
 
     1994—Subsec. (a)(2)(A). [Pub. L. 103–382][/us/pl/103/382] struck out “chapter 1 of” after “grant under”.
 
-    1993—[Pub. L. 103–35, § 201(b)(1)(A)][/us/pl/103/35/s201/b/1/A], renumbered [section 2410c of this title][/us/usc/t10/s2410c] as this section.
+    1993—[Pub. L. 103–35][/us/pl/103/35], § 201(b)(1)(A), renumbered [section 2410c of this title][/us/usc/t10/s2410c] as this section.
 
     Subsec. (f)(2)(A), (B). [Pub. L. 103–160][/us/pl/103/160] substituted “five school years” for “two school years”.
 
-    Subsec. (f)(2)(B). [Pub. L. 103–35, § 201(g)(6)][/us/pl/103/35/s201/g/6], substituted “aide” for “aid” after “for placement as a teacher’s”.
+    Subsec. (f)(2)(B). [Pub. L. 103–35][/us/pl/103/35], § 201(g)(6), substituted “aide” for “aid” after “for placement as a teacher’s”.
 
  __Effective Date of 1993 Amendment__ 
 
@@ -174,40 +174,40 @@
 [/us/usc/t20/s1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t10/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1151
-[/us/pl/102/484/s4443/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4443%2Fa
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2732
-[/us/pl/103/35/s201/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fb%2F1%2FA
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F97
-[/us/pl/103/160/s1331/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1331%2Fc%2F3
+[/us/pl/103/160/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIII
 [/us/stat/107/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1792
-[/us/pl/103/382/s391/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fb%2F5
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4022
-[/us/pl/104/106/s1503/a/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1503%2Fa%2F23
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F512
-[/us/pl/104/201/s576/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs576%2Fc
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2535
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/usc/t10/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1151
-[/us/pl/106/65/s1707/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1707%2Fa%2F1
+[/us/pl/106/65/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtXVII
 [/us/stat/113/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F823
 [/us/usc/t10/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1151
-[/us/pl/109/364/s561/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs561%2Fa
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/103/35/s201/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fb%2F1%2FA
+[/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
 [/us/usc/t10/s2410c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2410c
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
-[/us/pl/103/35/s201/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fg%2F6
+[/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/103/160/s1331/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1331%2Fh
 [/us/usc/t10/s1598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1598

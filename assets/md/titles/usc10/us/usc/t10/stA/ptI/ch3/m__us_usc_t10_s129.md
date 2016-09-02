@@ -53,31 +53,31 @@
 
             (C) A detailed description of the analytical tools used to determine civilian workforce requirements during the 12-month period referred to in subparagraph (A).
 
-(Added [Pub. L. 97–86, title IX, § 904(a)][/us/pl/97/86/s904/a], Dec. 1, 1981, [95 Stat. 1114][/us/stat/95/1114], § 140b; renumbered § 129, [Pub. L. 99–433, title I, § 101(a)(3)][/us/pl/99/433/s101/a/3], Oct. 1, 1986, [100 Stat. 994][/us/stat/100/994]; amended [Pub. L. 99–661, div. A, title V, § 533][/us/pl/99/661/s533], Nov. 14, 1986, [100 Stat. 3873][/us/stat/100/3873]; [Pub. L. 102–190, div. A, title III, § 312(b)][/us/pl/102/190/s312/b], Dec. 5, 1991, [105 Stat. 1335][/us/stat/105/1335]; [Pub. L. 104–106, div. A, title X, § 1031][/us/pl/104/106/s1031], Feb. 10, 1996, [110 Stat. 428][/us/stat/110/428]; [Pub. L. 104–201, div. A, title X, § 1074(a)(1)][/us/pl/104/201/s1074/a/1], title XVI, § 1603, Sept. 23, 1996, [110 Stat. 2658][/us/stat/110/2658], 2735; [Pub. L. 105–85, div. A, title XI, § 1101][/us/pl/105/85/s1101], Nov. 18, 1997, [111 Stat. 1922][/us/stat/111/1922]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 112–81, div. A, title IX, § 932][/us/pl/112/81/s932], Dec. 31, 2011, [125 Stat. 1543][/us/stat/125/1543].)
+(Added [Pub. L. 97–86, title IX][/us/pl/97/86/tIX], § 904(a), Dec. 1, 1981, [95 Stat. 1114][/us/stat/95/1114], § 140b; renumbered § 129, [Pub. L. 99–433, title I][/us/pl/99/433/tI], § 101(a)(3), Oct. 1, 1986, [100 Stat. 994][/us/stat/100/994]; amended [Pub. L. 99–661, div. A, title V][/us/pl/99/661/dA/tV], § 533, Nov. 14, 1986, [100 Stat. 3873][/us/stat/100/3873]; [Pub. L. 102–190, div. A, title III][/us/pl/102/190/dA/tIII], § 312(b), Dec. 5, 1991, [105 Stat. 1335][/us/stat/105/1335]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1031, Feb. 10, 1996, [110 Stat. 428][/us/stat/110/428]; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1074(a)(1), title XVI, § 1603, Sept. 23, 1996, [110 Stat. 2658][/us/stat/110/2658], 2735; [Pub. L. 105–85, div. A, title XI][/us/pl/105/85/dA/tXI], § 1101, Nov. 18, 1997, [111 Stat. 1922][/us/stat/111/1922]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 112–81, div. A, title IX][/us/pl/112/81/dA/tIX], § 932, Dec. 31, 2011, [125 Stat. 1543][/us/stat/125/1543].)
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 112–81, § 932(1)][/us/pl/112/81/s932/1], inserted “the total force management policies and procedures established under [section 129a of this title][/us/usc/t10/s129a], (2)” after “(1)” and substituted “department, and (3)” for “department and (2)”.
+    2011—Subsec. (a). [Pub. L. 112–81][/us/pl/112/81], § 932(1), inserted “the total force management policies and procedures established under [section 129a of this title][/us/usc/t10/s129a], (2)” after “(1)” and substituted “department, and (3)” for “department and (2)”.
 
-    Subsec. (d). [Pub. L. 112–81, § 932(2)][/us/pl/112/81/s932/2], substituted “within that budget activity as determined under the total force management policies and procedures established under [section 129a of this title][/us/usc/t10/s129a].” for “within that budget activity for which funds are provided for that fiscal year.”
+    Subsec. (d). [Pub. L. 112–81][/us/pl/112/81], § 932(2), substituted “within that budget activity as determined under the total force management policies and procedures established under [section 129a of this title][/us/usc/t10/s129a].” for “within that budget activity for which funds are provided for that fiscal year.”
 
-    Subsec. (e). [Pub. L. 112–81, § 932(3)][/us/pl/112/81/s932/3], struck out at end “With respect to the MRTFB structure, the term ‘funds made available’ includes both direct appropriated funds and funds provided by MRTFB customers.”
+    Subsec. (e). [Pub. L. 112–81][/us/pl/112/81], § 932(3), struck out at end “With respect to the MRTFB structure, the term ‘funds made available’ includes both direct appropriated funds and funds provided by MRTFB customers.”
 
     1999—Subsec. (f)(1). [Pub. L. 106–65][/us/pl/106/65] substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
     1997—Subsec. (f). [Pub. L. 105–85][/us/pl/105/85] added subsec. (f).
 
-    1996—Subsec. (a). [Pub. L. 104–201, § 1074(a)(1)][/us/pl/104/201/s1074/a/1], substituted “February 10, 1996,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996”.
+    1996—Subsec. (a). [Pub. L. 104–201][/us/pl/104/201], § 1074(a)(1), substituted “February 10, 1996,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996”.
 
-    [Pub. L. 104–106, § 1031(1)][/us/pl/104/106/s1031/1], substituted “constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees. The Secretary of Defense and the Secretaries of the military departments may not be required to make a reduction in the number of full-time equivalent positions in the Department of Defense unless such reduction is necessary due to a reduction in funds available to the Department or is required under a law that is enacted after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996 and that refers specifically to this subsection.” for “man-year constraint or limitation.”
+    [Pub. L. 104–106][/us/pl/104/106], § 1031(1), substituted “constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees. The Secretary of Defense and the Secretaries of the military departments may not be required to make a reduction in the number of full-time equivalent positions in the Department of Defense unless such reduction is necessary due to a reduction in funds available to the Department or is required under a law that is enacted after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996 and that refers specifically to this subsection.” for “man-year constraint or limitation.”
 
-    Subsec. (b)(2). [Pub. L. 104–106, § 1031(2)][/us/pl/104/106/s1031/2], substituted “any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees” for “any end-strength”.
+    Subsec. (b)(2). [Pub. L. 104–106][/us/pl/104/106], § 1031(2), substituted “any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees” for “any end-strength”.
 
-    Subsec. (c)(1). [Pub. L. 104–201, § 1603(1)][/us/pl/104/201/s1603/1], inserted “, the Major Range and Test Facility Base,” after “industrial-type activities”.
+    Subsec. (c)(1). [Pub. L. 104–201][/us/pl/104/201], § 1603(1), inserted “, the Major Range and Test Facility Base,” after “industrial-type activities”.
 
-    Subsec. (d). [Pub. L. 104–106, § 1031(3)][/us/pl/104/106/s1031/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–106][/us/pl/104/106], § 1031(3), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 104–201, § 1603(2)][/us/pl/104/201/s1603/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 104–201][/us/pl/104/201], § 1603(2), added subsec. (e).
 
     1991—Subsec. (a). [Pub. L. 102–190][/us/pl/102/190] substituted “department and (2)” for “department, (2)” and struck out “, and (3) the authorized end strength for the civilian personnel of the department for such fiscal year” at end of first sentence.
 
@@ -95,37 +95,37 @@
 [/us/usc/t10/s129a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs129a
 [/us/usc/t10/s2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2208
 [/us/usc/t10/s129a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs129a
-[/us/pl/97/86/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs904%2Fa
+[/us/pl/97/86/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIX
 [/us/stat/95/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1114
-[/us/pl/99/433/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs101%2Fa%2F3
+[/us/pl/99/433/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtI
 [/us/stat/100/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F994
-[/us/pl/99/661/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs533
+[/us/pl/99/661/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtV
 [/us/stat/100/3873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3873
-[/us/pl/102/190/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs312%2Fb
+[/us/pl/102/190/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtIII
 [/us/stat/105/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1335
-[/us/pl/104/106/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1031
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F428
-[/us/pl/104/201/s1074/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fa%2F1
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2658
-[/us/pl/105/85/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1101
+[/us/pl/105/85/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtXI
 [/us/stat/111/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1922
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/112/81/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs932
+[/us/pl/112/81/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIX
 [/us/stat/125/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1543
-[/us/pl/112/81/s932/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs932%2F1
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t10/s129a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs129a
-[/us/pl/112/81/s932/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs932%2F2
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t10/s129a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs129a
-[/us/pl/112/81/s932/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs932%2F3
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/104/201/s1074/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fa%2F1
-[/us/pl/104/106/s1031/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1031%2F1
-[/us/pl/104/106/s1031/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1031%2F2
-[/us/pl/104/201/s1603/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1603%2F1
-[/us/pl/104/106/s1031/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1031%2F3
-[/us/pl/104/201/s1603/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1603%2F2
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433

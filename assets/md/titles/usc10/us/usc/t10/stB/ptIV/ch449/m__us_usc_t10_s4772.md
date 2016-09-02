@@ -63,11 +63,11 @@
 
     The Secretary of the Army may require such additional terms and conditions in connection with the agreement authorized by subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
 
-(Added [Pub. L. 108–375, div. B, title XXVIII, § 2822(a)][/us/pl/108/375/s2822/a], Oct. 28, 2004, [118 Stat. 2130][/us/stat/118/2130]; amended [Pub. L. 113–291, div. B, title XXVIII, § 2851][/us/pl/113/291/s2851], Dec. 19, 2014, [128 Stat. 3713][/us/stat/128/3713].)
+(Added [Pub. L. 108–375, div. B, title XXVIII][/us/pl/108/375/dB/tXXVIII], § 2822(a), Oct. 28, 2004, [118 Stat. 2130][/us/stat/118/2130]; amended [Pub. L. 113–291, div. B, title XXVIII][/us/pl/113/291/dB/tXXVIII], § 2851, Dec. 19, 2014, [128 Stat. 3713][/us/stat/128/3713].)
 
  __Prior Provisions__ 
 
-    A prior section 4772, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 268][/us/stat/70A/268], had provided that, when ordered by the President, unappropriated public land could be reserved from entry for an air base, or a field for tests and experiments, for the Army, and that such land and other property of the United States could be designed and used for either of those purposes, prior to repeal by [Pub. L. 97–295, § 1(43)(A)][/us/pl/97/295/s1/43/A], Oct. 12, 1982, [96 Stat. 1298][/us/stat/96/1298].
+    A prior section 4772, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 268][/us/stat/70A/268], had provided that, when ordered by the President, unappropriated public land could be reserved from entry for an air base, or a field for tests and experiments, for the Army, and that such land and other property of the United States could be designed and used for either of those purposes, prior to repeal by [Pub. L. 97–295][/us/pl/97/295], § 1(43)(A), Oct. 12, 1982, [96 Stat. 1298][/us/stat/96/1298].
 
  __Amendments__ 
 
@@ -81,13 +81,13 @@
 ----------
 
 [/us/usc/t10/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2601
-[/us/pl/108/375/s2822/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs2822%2Fa
+[/us/pl/108/375/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdB%2FtXXVIII
 [/us/stat/118/2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2130
-[/us/pl/113/291/s2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2851
+[/us/pl/113/291/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXVIII
 [/us/stat/128/3713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3713
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F268
-[/us/pl/97/295/s1/43/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F43%2FA
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1298
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 

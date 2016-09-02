@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch141/m__us_usc_t10_s2410d.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch141/m__us_usc_t10_s2410f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2410e)
 
-## \[§ 2410e. Repealed. [Pub. L. 103–355, title II, § 2301(b)][/us/pl/103/355/s2301/b], Oct. 13, 1994, [108 Stat. 3321][/us/stat/108/3321]\]
+## \[§ 2410e. Repealed. [Pub. L. 103–355, title II][/us/pl/103/355/tII], § 2301(b), Oct. 13, 1994, [108 Stat. 3321][/us/stat/108/3321]\]
 
-    Section, added [Pub. L. 102–484, div. A, title VIII, § 813(a)(1)][/us/pl/102/484/s813/a/1], Oct. 23, 1992, [106 Stat. 2452][/us/stat/106/2452], directed Secretary of Defense to propose, for inclusion in Federal Acquisition Regulation, regulations relating to certification of contract claims, requests for equitable adjustment to contract terms, and requests for relief under section 1431 et seq. of Title 50, War and National Defense, that exceeded $100,000.
+    Section, added [Pub. L. 102–484, div. A, title VIII][/us/pl/102/484/dA/tVIII], § 813(a)(1), Oct. 23, 1992, [106 Stat. 2452][/us/stat/106/2452], directed Secretary of Defense to propose, for inclusion in Federal Acquisition Regulation, regulations relating to certification of contract claims, requests for equitable adjustment to contract terms, and requests for relief under section 1431 et seq. of Title 50, War and National Defense, that exceeded $100,000.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/103/355/s2301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2301%2Fb
+[/us/pl/103/355/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtII
 [/us/stat/108/3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3321
-[/us/pl/102/484/s813/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs813%2Fa%2F1
+[/us/pl/102/484/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVIII
 [/us/stat/106/2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2452
 [/us/pl/103/355/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10001
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302

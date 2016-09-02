@@ -271,19 +271,19 @@
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–136, div. A, title V, § 576(a)(2)][/us/pl/108/136/s576/a/2], Nov. 24, 2003, [117 Stat. 1487][/us/stat/117/1487], added item for chapter 375.
+    2003—[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 576(a)(2), Nov. 24, 2003, [117 Stat. 1487][/us/stat/117/1487], added item for chapter 375.
 
-    1994—[Pub. L. 103–337, div. A, title XVI, § 1672(a)][/us/pl/103/337/s1672/a], Oct. 5, 1994, [108 Stat. 3015][/us/stat/108/3015], struck out items for chapters 337 “Appointments as Reserve Officers”, 361 “Separation for Various Reasons”, and 363 “Separation or Transfer to Retired Reserve”.
+    1994—[Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1672(a), Oct. 5, 1994, [108 Stat. 3015][/us/stat/108/3015], struck out items for chapters 337 “Appointments as Reserve Officers”, 361 “Separation for Various Reasons”, and 363 “Separation or Transfer to Retired Reserve”.
 
-    1980—[Pub. L. 96–513, title V, § 502(1)][/us/pl/96/513/s502/1], Dec. 12, 1980, [94 Stat. 2909][/us/stat/94/2909], struck out item for chapter 359 “Separation from Regular Army for Substandard Performance of Duty”, item for chapter 360 “Separation from Regular Army for Moral or Professional Dereliction or in Interests of National Security”, and item for chapter 365 “Retirement for Age”.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], § 502(1), Dec. 12, 1980, [94 Stat. 2909][/us/stat/94/2909], struck out item for chapter 359 “Separation from Regular Army for Substandard Performance of Duty”, item for chapter 360 “Separation from Regular Army for Moral or Professional Dereliction or in Interests of National Security”, and item for chapter 365 “Retirement for Age”.
 
-    1968—[Pub. L. 90–377, § 3][/us/pl/90/377/s3], July 5, 1968, [82 Stat. 288][/us/stat/82/288], struck out item for chapter 351 “United States Disciplinary Barracks”.
+    1968—[Pub. L. 90–377][/us/pl/90/377], § 3, July 5, 1968, [82 Stat. 288][/us/stat/82/288], struck out item for chapter 351 “United States Disciplinary Barracks”.
 
-    [Pub. L. 90–235, § 8(5)][/us/pl/90/235/s8/5], Jan. 2, 1968, [81 Stat. 764][/us/stat/81/764], struck out item for chapter 347 “The Uniform”.
+    [Pub. L. 90–235][/us/pl/90/235], § 8(5), Jan. 2, 1968, [81 Stat. 764][/us/stat/81/764], struck out item for chapter 347 “The Uniform”.
 
     1960—[Pub. L. 86–616][/us/pl/86/616], §§ 2(b), 3(b), July 12, 1960, [74 Stat. 388][/us/stat/74/388], 390, substituted “Substandard Performance of Duty” for “Failure to Meet Standards” in item for chapter 359 and added item for chapter 360.
 
-    1958—[Pub. L. 85–861, § 1(95)][/us/pl/85/861/s1/95], Sept. 2, 1958, [72 Stat. 1487][/us/stat/72/1487], substituted “3841” for “\[No present sections\]” in item for chapter 363.
+    1958—[Pub. L. 85–861][/us/pl/85/861], § 1(95), Sept. 2, 1958, [72 Stat. 1487][/us/stat/72/1487], substituted “3841” for “\[No present sections\]” in item for chapter 363.
 
 ----------
 
@@ -292,19 +292,19 @@
 ----------
 ----------
 
-[/us/pl/108/136/s576/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs576%2Fa%2F2
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1487
-[/us/pl/103/337/s1672/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1672%2Fa
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3015
-[/us/pl/96/513/s502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs502%2F1
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2909
-[/us/pl/90/377/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F377%2Fs3
+[/us/pl/90/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F377
 [/us/stat/82/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F288
-[/us/pl/90/235/s8/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs8%2F5
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F764
 [/us/pl/86/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F616
 [/us/stat/74/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F388
-[/us/pl/85/861/s1/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F95
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1487
 
 

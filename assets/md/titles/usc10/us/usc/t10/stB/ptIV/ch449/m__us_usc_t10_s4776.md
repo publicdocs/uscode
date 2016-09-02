@@ -17,7 +17,7 @@
 
     If in an emergency the President considers it urgent, a temporary fort or fortification may be built on private land if the owner consents in writing.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 270][/us/stat/70A/270]; [Pub. L. 91–393, § 5][/us/pl/91/393/s5], Sept. 1, 1970, [84 Stat. 835][/us/stat/84/835].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 270][/us/stat/70A/270]; [Pub. L. 91–393][/us/pl/91/393], § 5, Sept. 1, 1970, [84 Stat. 835][/us/stat/84/835].)
 
 <table>
 
@@ -78,7 +78,7 @@ Apr. 11, 1898, J. Res. 21, 30 Stat. 737.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F270
-[/us/pl/91/393/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F393%2Fs5
+[/us/pl/91/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F393
 [/us/stat/84/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F835
 [/us/pl/91/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F393
 [/us/usc/t50/s175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs175

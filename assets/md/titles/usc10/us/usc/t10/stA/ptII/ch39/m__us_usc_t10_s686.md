@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 686, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 32][/us/stat/70A/32]; Apr. 21, 1976, [Pub. L. 94–273, § 11(2)][/us/pl/94/273/s11/2], [90 Stat. 378][/us/stat/90/378], provided for an annual officer grade distribution report, prior to repeal by [Pub. L. 96–107, title III, § 303(a)(1)][/us/pl/96/107/s303/a/1], Nov. 9, 1979, [93 Stat. 806][/us/stat/93/806].
+    A prior section 686, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 32][/us/stat/70A/32]; Apr. 21, 1976, [Pub. L. 94–273][/us/pl/94/273], § 11(2), [90 Stat. 378][/us/stat/90/378], provided for an annual officer grade distribution report, prior to repeal by [Pub. L. 96–107, title III][/us/pl/96/107/tIII], § 303(a)(1), Nov. 9, 1979, [93 Stat. 806][/us/stat/93/806].
 
 ----------
 
@@ -28,9 +28,9 @@
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F32
-[/us/pl/94/273/s11/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs11%2F2
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F378
-[/us/pl/96/107/s303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs303%2Fa%2F1
+[/us/pl/96/107/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2FtIII
 [/us/stat/93/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F806
 
 

@@ -47,7 +47,7 @@
 
         The individual serving as Provost and Academic Dean is entitled to such compensation for such service as the Secretary shall prescribe for purposes of this section, but not more than the rate of compensation authorized for level IV of the Executive Schedule.
 
-(Added [Pub. L. 112–81, div. A, title V, § 554(a)][/us/pl/112/81/s554/a], Dec. 31, 2011, [125 Stat. 1414][/us/stat/125/1414].)
+(Added [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 554(a), Dec. 31, 2011, [125 Stat. 1414][/us/stat/125/1414].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/112/81/s554/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs554%2Fa
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1414
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 

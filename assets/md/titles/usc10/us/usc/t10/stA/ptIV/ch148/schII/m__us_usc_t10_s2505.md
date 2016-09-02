@@ -57,7 +57,7 @@
 
     The Secretary of Defense shall ensure that consideration of the technology and industrial base assessments is integrated into the overall budget, acquisition, and logistics support decision processes of the Department of Defense.
 
-(Added [Pub. L. 102–484, div. D, title XLII, § 4215][/us/pl/102/484/s4215], Oct. 23, 1992, [106 Stat. 2667][/us/stat/106/2667]; amended [Pub. L. 103–35, title II, § 201(g)(7)][/us/pl/103/35/s201/g/7], May 31, 1993, [107 Stat. 100][/us/stat/107/100]; [Pub. L. 104–201, div. A, title VIII, § 829(c)(1)][/us/pl/104/201/s829/c/1], Sept. 23, 1996, [110 Stat. 2612][/us/stat/110/2612]; [Pub. L. 111–23, title III, § 303(b)][/us/pl/111/23/s303/b], May 22, 2009, [123 Stat. 1731][/us/stat/123/1731]; [Pub. L. 111–383, div. A, title VIII, § 895(c)][/us/pl/111/383/s895/c], Jan. 7, 2011, [124 Stat. 4314][/us/stat/124/4314]; [Pub. L. 112–239, div. A, title XVI, § 1602][/us/pl/112/239/s1602], Jan. 2, 2013, [126 Stat. 2062][/us/stat/126/2062]; [Pub. L. 114–92, div. A, title VIII, § 876][/us/pl/114/92/s876], Nov. 25, 2015, [129 Stat. 941][/us/stat/129/941].)
+(Added [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4215, Oct. 23, 1992, [106 Stat. 2667][/us/stat/106/2667]; amended [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 201(g)(7), May 31, 1993, [107 Stat. 100][/us/stat/107/100]; [Pub. L. 104–201, div. A, title VIII][/us/pl/104/201/dA/tVIII], § 829(c)(1), Sept. 23, 1996, [110 Stat. 2612][/us/stat/110/2612]; [Pub. L. 111–23, title III][/us/pl/111/23/tIII], § 303(b), May 22, 2009, [123 Stat. 1731][/us/stat/123/1731]; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 895(c), Jan. 7, 2011, [124 Stat. 4314][/us/stat/124/4314]; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1602, Jan. 2, 2013, [126 Stat. 2062][/us/stat/126/2062]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 876, Nov. 25, 2015, [129 Stat. 941][/us/stat/129/941].)
 
  __Prior Provisions__ 
 
@@ -79,11 +79,11 @@
 
  __Study of Beryllium Industrial Base__ 
 
-    [Pub. L. 108–136, div. A, title VIII, § 824][/us/pl/108/136/s824], Nov. 24, 2003, [117 Stat. 1547][/us/stat/117/1547], required the Secretary of Defense to conduct a study of the adequacy of the industrial base of the United States to meet defense requirements of the United States for beryllium and to submit a report on the results of the study to Congress not later than Mar. 31, 2005.
+    [Pub. L. 108–136, div. A, title VIII][/us/pl/108/136/dA/tVIII], § 824, Nov. 24, 2003, [117 Stat. 1547][/us/stat/117/1547], required the Secretary of Defense to conduct a study of the adequacy of the industrial base of the United States to meet defense requirements of the United States for beryllium and to submit a report on the results of the study to Congress not later than Mar. 31, 2005.
 
  __Implementing Regulations Concerning National Technology and Industrial Base Periodic Assessment__ 
 
-    [Pub. L. 102–484, div. D, title XLII, § 4219][/us/pl/102/484/s4219], Oct. 23, 1992, [106 Stat. 2671][/us/stat/106/2671], as amended by [Pub. L. 103–35, title II, § 202(a)(14)][/us/pl/103/35/s202/a/14], May 31, 1993, [107 Stat. 101][/us/stat/107/101], set forth requirements for the initial regulations prescribed to implement this section, prior to repeal by [Pub. L. 104–201, div. A, title VIII, § 829(h)][/us/pl/104/201/s829/h], Sept. 23, 1996, [110 Stat. 2614][/us/stat/110/2614].
+    [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4219, Oct. 23, 1992, [106 Stat. 2671][/us/stat/106/2671], as amended by [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 202(a)(14), May 31, 1993, [107 Stat. 101][/us/stat/107/101], set forth requirements for the initial regulations prescribed to implement this section, prior to repeal by [Pub. L. 104–201, div. A, title VIII][/us/pl/104/201/dA/tVIII], § 829(h), Sept. 23, 1996, [110 Stat. 2614][/us/stat/110/2614].
 
 ----------
 
@@ -95,19 +95,19 @@
 [/us/usc/t10/s2501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501%2Fa
 [/us/usc/t10/s2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2430
 [/us/usc/t10/s2445a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2445a
-[/us/pl/102/484/s4215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4215
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2667
-[/us/pl/103/35/s201/g/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fg%2F7
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F100
-[/us/pl/104/201/s829/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs829%2Fc%2F1
+[/us/pl/104/201/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVIII
 [/us/stat/110/2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2612
-[/us/pl/111/23/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs303%2Fb
+[/us/pl/111/23/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2FtIII
 [/us/stat/123/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1731
-[/us/pl/111/383/s895/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs895%2Fc
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4314
-[/us/pl/112/239/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1602
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2062
-[/us/pl/114/92/s876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs876
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F941
 [/us/usc/t10/s2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2532
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
@@ -118,13 +118,13 @@
 [/us/pl/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
-[/us/pl/108/136/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs824
+[/us/pl/108/136/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVIII
 [/us/stat/117/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1547
-[/us/pl/102/484/s4219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4219
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2671
-[/us/pl/103/35/s202/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs202%2Fa%2F14
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F101
-[/us/pl/104/201/s829/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs829%2Fh
+[/us/pl/104/201/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVIII
 [/us/stat/110/2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2614
 
 

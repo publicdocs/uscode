@@ -35,7 +35,7 @@
 
             (B) covers only the performance of firefighting functions that, in the absence of the contract, would have to be performed by members of the armed forces who are not readily available to perform such functions by reason of a deployment.
 
-(Added [Pub. L. 99–661, div. A, title XII, § 1222(a)(1)][/us/pl/99/661/s1222/a/1], Nov. 14, 1986, [100 Stat. 3976][/us/stat/100/3976], § 2693; amended [Pub. L. 100–180, div. A, title XI, § 1112(a)][/us/pl/100/180/s1112/a]–(b)(2), Dec. 4, 1987, [101 Stat. 1147][/us/stat/101/1147]; renumbered § 2465, [Pub. L. 100–370, § 2(b)(1)][/us/pl/100/370/s2/b/1], July 19, 1988, [102 Stat. 854][/us/stat/102/854]; [Pub. L. 104–106, div. A, title XV, § 1503(a)(25)][/us/pl/104/106/s1503/a/25], Feb. 10, 1996, [110 Stat. 512][/us/stat/110/512]; [Pub. L. 108–136, div. A, title III, § 331][/us/pl/108/136/s331], Nov. 24, 2003, [117 Stat. 1442][/us/stat/117/1442].)
+(Added [Pub. L. 99–661, div. A, title XII][/us/pl/99/661/dA/tXII], § 1222(a)(1), Nov. 14, 1986, [100 Stat. 3976][/us/stat/100/3976], § 2693; amended [Pub. L. 100–180, div. A, title XI][/us/pl/100/180/dA/tXI], § 1112(a)–(b)(2), Dec. 4, 1987, [101 Stat. 1147][/us/stat/101/1147]; renumbered § 2465, [Pub. L. 100–370][/us/pl/100/370], § 2(b)(1), July 19, 1988, [102 Stat. 854][/us/stat/102/854]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1503(a)(25), Feb. 10, 1996, [110 Stat. 512][/us/stat/110/512]; [Pub. L. 108–136, div. A, title III][/us/pl/108/136/dA/tIII], § 331, Nov. 24, 2003, [117 Stat. 1442][/us/stat/117/1442].)
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 
  __Temporary Authority To Contract With Local and State Governments for Performance of Security Functions at United States Military Installations__ 
 
-[Pub. L. 107–56, title X, § 1010][/us/pl/107/56/s1010], Oct. 26, 2001, [115 Stat. 395][/us/stat/115/395], provided that:
+[Pub. L. 107–56, title X][/us/pl/107/56/tX], § 1010, Oct. 26, 2001, [115 Stat. 395][/us/stat/115/395], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -65,7 +65,7 @@
 
  __Performance of Emergency Response Functions at Chemical Weapons Storage Installations__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 355\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–75, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 355\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–75, provided that:
 
 >     “(a)  __Restriction on Conversion__  __.—__ 
 
@@ -92,25 +92,25 @@
 ----------
 ----------
 
-[/us/pl/99/661/s1222/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1222%2Fa%2F1
+[/us/pl/99/661/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXII
 [/us/stat/100/3976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3976
-[/us/pl/100/180/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1112%2Fa
+[/us/pl/100/180/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXI
 [/us/stat/101/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1147
-[/us/pl/100/370/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs2%2Fb%2F1
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F854
-[/us/pl/104/106/s1503/a/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1503%2Fa%2F25
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F512
-[/us/pl/108/136/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs331
+[/us/pl/108/136/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIII
 [/us/stat/117/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1442
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/usc/t10/s2693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2693
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
-[/us/pl/107/56/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs1010
+[/us/pl/107/56/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtX
 [/us/stat/115/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F395
 [/us/usc/t10/s2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2465
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2465
 

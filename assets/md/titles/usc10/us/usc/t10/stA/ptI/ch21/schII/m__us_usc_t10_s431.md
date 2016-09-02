@@ -47,7 +47,7 @@
 
         (2) The term “intelligence collection activities” means the collection of foreign intelligence and counterintelligence information.
 
-(Added [Pub. L. 102–88, title V, § 504(a)(2)][/us/pl/102/88/s504/a/2], Aug. 14, 1991, [105 Stat. 437][/us/stat/105/437]; amended [Pub. L. 104–93, title V, § 503][/us/pl/104/93/s503], Jan. 6, 1996, [109 Stat. 973][/us/stat/109/973]; [Pub. L. 105–272, title V, § 501][/us/pl/105/272/s501], Oct. 20, 1998, [112 Stat. 2404][/us/stat/112/2404]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1077\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–282; [Pub. L. 107–314, div. A, title X, § 1053][/us/pl/107/314/s1053], Dec. 2, 2002, [116 Stat. 2649][/us/stat/116/2649]; [Pub. L. 108–375, div. A, title IX, § 921][/us/pl/108/375/s921], Oct. 28, 2004, [118 Stat. 2029][/us/stat/118/2029]; [Pub. L. 109–364, div. A, title IX, § 931][/us/pl/109/364/s931], Oct. 17, 2006, [120 Stat. 2362][/us/stat/120/2362]; [Pub. L. 110–181, div. A, title IX, § 931(b)(1)][/us/pl/110/181/s931/b/1], Jan. 28, 2008, [122 Stat. 285][/us/stat/122/285]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 932(a)(7), Oct. 14, 2008, [122 Stat. 4576][/us/stat/122/4576]; [Pub. L. 111–84, div. A, title X, § 1073(c)(10)][/us/pl/111/84/s1073/c/10], Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475]; [Pub. L. 111–383, div. A, title IX, § 921][/us/pl/111/383/s921], Jan. 7, 2011, [124 Stat. 4330][/us/stat/124/4330]; [Pub. L. 113–291, div. A, title XVI, § 1623][/us/pl/113/291/s1623], Dec. 19, 2014, [128 Stat. 3632][/us/stat/128/3632].)
+(Added [Pub. L. 102–88, title V][/us/pl/102/88/tV], § 504(a)(2), Aug. 14, 1991, [105 Stat. 437][/us/stat/105/437]; amended [Pub. L. 104–93, title V][/us/pl/104/93/tV], § 503, Jan. 6, 1996, [109 Stat. 973][/us/stat/109/973]; [Pub. L. 105–272, title V][/us/pl/105/272/tV], § 501, Oct. 20, 1998, [112 Stat. 2404][/us/stat/112/2404]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1077\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–282; [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1053, Dec. 2, 2002, [116 Stat. 2649][/us/stat/116/2649]; [Pub. L. 108–375, div. A, title IX][/us/pl/108/375/dA/tIX], § 921, Oct. 28, 2004, [118 Stat. 2029][/us/stat/118/2029]; [Pub. L. 109–364, div. A, title IX][/us/pl/109/364/dA/tIX], § 931, Oct. 17, 2006, [120 Stat. 2362][/us/stat/120/2362]; [Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 931(b)(1), Jan. 28, 2008, [122 Stat. 285][/us/stat/122/285]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 932(a)(7), Oct. 14, 2008, [122 Stat. 4576][/us/stat/122/4576]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c)(10), Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475]; [Pub. L. 111–383, div. A, title IX][/us/pl/111/383/dA/tIX], § 921, Jan. 7, 2011, [124 Stat. 4330][/us/stat/124/4330]; [Pub. L. 113–291, div. A, title XVI][/us/pl/113/291/dA/tXVI], § 1623, Dec. 19, 2014, [128 Stat. 3632][/us/stat/128/3632].)
 
  __Amendments__ 
 
@@ -55,9 +55,9 @@
 
     2011—Subsec. (a). [Pub. L. 111–383][/us/pl/111/383] substituted “December 31, 2015” for “December 31, 2010”.
 
-    2009—Subsec. (b)(1). [Pub. L. 111–84][/us/pl/111/84] repealed [Pub. L. 110–417, § 932(a)(7)][/us/pl/110/417/s932/a/7]. See 2008 Amendment note below.
+    2009—Subsec. (b)(1). [Pub. L. 111–84][/us/pl/111/84] repealed [Pub. L. 110–417][/us/pl/110/417], § 932(a)(7). See 2008 Amendment note below.
 
-    2008—Subsec. (b)(1). [Pub. L. 110–417, § 932(a)(7)][/us/pl/110/417/s932/a/7], which directed the amendment of subsec. (b)(1) by substituting “Director of National Intelligence” for “Director of Central Intelligence”, was repealed by [Pub. L. 111–84][/us/pl/111/84].
+    2008—Subsec. (b)(1). [Pub. L. 110–417][/us/pl/110/417], § 932(a)(7), which directed the amendment of subsec. (b)(1) by substituting “Director of National Intelligence” for “Director of Central Intelligence”, was repealed by [Pub. L. 111–84][/us/pl/111/84].
 
     [Pub. L. 110–181][/us/pl/110/181] substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
@@ -75,11 +75,11 @@
 
  __Effective Date of 2009 Amendment__ 
 
-    [Pub. L. 111–84, div. A, title X, § 1073(c)][/us/pl/111/84/s1073/c], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.
+    [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.
 
  __Effective Date__ 
 
-[Pub. L. 102–88, title V, § 504(b)][/us/pl/102/88/s504/b], Aug. 14, 1991, [105 Stat. 440][/us/stat/105/440], provided that: 
+[Pub. L. 102–88, title V][/us/pl/102/88/tV], § 504(b), Aug. 14, 1991, [105 Stat. 440][/us/stat/105/440], provided that: 
 
 > “The Secretary of Defense may not authorize any activity under [section 431 of title 10][/us/usc/t10/s431], United States Code, as added by subsection (a), until the later of—
 
@@ -94,35 +94,35 @@
 ----------
 ----------
 
-[/us/pl/102/88/s504/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs504%2Fa%2F2
+[/us/pl/102/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2FtV
 [/us/stat/105/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F437
-[/us/pl/104/93/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2Fs503
+[/us/pl/104/93/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2FtV
 [/us/stat/109/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F973
-[/us/pl/105/272/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs501
+[/us/pl/105/272/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2FtV
 [/us/stat/112/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2404
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/314/s1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1053
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2649
-[/us/pl/108/375/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs921
+[/us/pl/108/375/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIX
 [/us/stat/118/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2029
-[/us/pl/109/364/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs931
+[/us/pl/109/364/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIX
 [/us/stat/120/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2362
-[/us/pl/110/181/s931/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs931%2Fb%2F1
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F285
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4576
-[/us/pl/111/84/s1073/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc%2F10
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2475
-[/us/pl/111/383/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs921
+[/us/pl/111/383/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIX
 [/us/stat/124/4330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4330
-[/us/pl/113/291/s1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1623
+[/us/pl/113/291/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXVI
 [/us/stat/128/3632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3632
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/110/417/s932/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs932%2Fa%2F7
-[/us/pl/110/417/s932/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs932%2Fa%2F7
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
@@ -131,10 +131,10 @@
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/105/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272
 [/us/pl/104/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93
-[/us/pl/111/84/s1073/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/102/88/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs504%2Fb
+[/us/pl/102/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2FtV
 [/us/stat/105/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F440
 [/us/usc/t10/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs431
 

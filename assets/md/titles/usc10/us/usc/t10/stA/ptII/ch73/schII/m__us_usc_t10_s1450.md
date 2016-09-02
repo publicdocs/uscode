@@ -321,23 +321,23 @@
 
         This subsection shall only apply with respect to the month beginning on October 1, 2008, and subsequent months through the month ending on September 30, 2017. Effective on October 1, 2017, the authority provided by this subsection shall terminate. No special survivor indemnity allowance may be paid to any person by reason of this subsection for any period before October 1, 2008, or beginning on or after October 1, 2017.
 
-(Added [Pub. L. 92–425, § 1(3)][/us/pl/92/425/s1/3], Sept. 21, 1972, [86 Stat. 708][/us/stat/86/708]; amended [Pub. L. 94–496, § 1(3)][/us/pl/94/496/s1/3], (4), Oct. 14, 1976, [90 Stat. 2375][/us/stat/90/2375]; [Pub. L. 95–397, title II][/us/pl/95/397], §§ 203, 207(b), (c), Sept. 30, 1978, [92 Stat. 845][/us/stat/92/845], 848; [Pub. L. 97–22, § 11(a)(3)][/us/pl/97/22/s11/a/3], July 10, 1981, [95 Stat. 137][/us/stat/95/137]; [Pub. L. 97–252, title X, § 1003(c)][/us/pl/97/252/s1003/c], (d), Sept. 8, 1982, [96 Stat. 736][/us/stat/96/736]; [Pub. L. 98–94, title IX, § 941(a)(3)][/us/pl/98/94/s941/a/3], (c)(3), Sept. 24, 1983, [97 Stat. 653][/us/stat/97/653]; [Pub. L. 98–525, title VI][/us/pl/98/525], §§ 642(b), 644, Oct. 19, 1984, [98 Stat. 2546][/us/stat/98/2546], 2548; [Pub. L. 99–145, title VII][/us/pl/99/145], §§ 713(b), 717, 718, 719(4)–(6), (8)(A), 722, 723(a), (b)(1), title XIII, § 1303(a)(11), Nov. 8, 1985, [99 Stat. 672][/us/stat/99/672], 674–677, 739; [Pub. L. 99–661, div. A, title VI][/us/pl/99/661], §§ 641(a), (b)(2), (3), 643(a), title XIII, § 1343(a)(8)(C), Nov. 14, 1986, [100 Stat. 3885][/us/stat/100/3885], 3886, 3992; [Pub. L. 100–26, § 3(3)][/us/pl/100/26/s3/3], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–180, div. A, title VI, § 636(a)][/us/pl/100/180/s636/a], Dec. 4, 1987, [101 Stat. 1106][/us/stat/101/1106]; [Pub. L. 100–224, § 5(b)(1)][/us/pl/100/224/s5/b/1], Dec. 30, 1987, [101 Stat. 1538][/us/stat/101/1538]; [Pub. L. 101–189, div. A, title XIV, § 1407(a)(2)][/us/pl/101/189/s1407/a/2]–(4), title XVI, § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1588][/us/stat/103/1588], 1602; [Pub. L. 103–337, div. A, title X, § 1070(e)(3)][/us/pl/103/337/s1070/e/3], Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859]; [Pub. L. 104–201, div. A, title VI, § 634][/us/pl/104/201/s634], Sept. 23, 1996, [110 Stat. 2561][/us/stat/110/2561]; [Pub. L. 105–85, div. A, title VI, § 642(a)][/us/pl/105/85/s642/a], Nov. 18, 1997, [111 Stat. 1799][/us/stat/111/1799]; [Pub. L. 105–261, div. A, title VI, § 643(b)][/us/pl/105/261/s643/b], Oct. 17, 1998, [112 Stat. 2048][/us/stat/112/2048]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 655(c)(4)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–166; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181], §§ 643(a), 644, Jan. 28, 2008, [122 Stat. 157][/us/stat/122/157], 158; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 631(a), Oct. 14, 2008, [122 Stat. 4492][/us/stat/122/4492]; [Pub. L. 111–31, div. B, title II, § 201][/us/pl/111/31/s201], June 22, 2009, [123 Stat. 1857][/us/stat/123/1857]; [Pub. L. 112–239, div. A, title VI, § 641(b)][/us/pl/112/239/s641/b], Jan. 2, 2013, [126 Stat. 1783][/us/stat/126/1783]; [Pub. L. 113–291, div. A, title VI, § 624(a)(1)][/us/pl/113/291/s624/a/1], (2)(A), Dec. 19, 2014, [128 Stat. 3403][/us/stat/128/3403].)
+(Added [Pub. L. 92–425][/us/pl/92/425], § 1(3), Sept. 21, 1972, [86 Stat. 708][/us/stat/86/708]; amended [Pub. L. 94–496][/us/pl/94/496], § 1(3), (4), Oct. 14, 1976, [90 Stat. 2375][/us/stat/90/2375]; [Pub. L. 95–397, title II][/us/pl/95/397/tII], §§ 203, 207(b), (c), Sept. 30, 1978, [92 Stat. 845][/us/stat/92/845], 848; [Pub. L. 97–22][/us/pl/97/22], § 11(a)(3), July 10, 1981, [95 Stat. 137][/us/stat/95/137]; [Pub. L. 97–252, title X][/us/pl/97/252/tX], § 1003(c), (d), Sept. 8, 1982, [96 Stat. 736][/us/stat/96/736]; [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], § 941(a)(3), (c)(3), Sept. 24, 1983, [97 Stat. 653][/us/stat/97/653]; [Pub. L. 98–525, title VI][/us/pl/98/525/tVI], §§ 642(b), 644, Oct. 19, 1984, [98 Stat. 2546][/us/stat/98/2546], 2548; [Pub. L. 99–145, title VII][/us/pl/99/145/tVII], §§ 713(b), 717, 718, 719(4)–(6), (8)(A), 722, 723(a), (b)(1), title XIII, § 1303(a)(11), Nov. 8, 1985, [99 Stat. 672][/us/stat/99/672], 674–677, 739; [Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], §§ 641(a), (b)(2), (3), 643(a), title XIII, § 1343(a)(8)(C), Nov. 14, 1986, [100 Stat. 3885][/us/stat/100/3885], 3886, 3992; [Pub. L. 100–26][/us/pl/100/26], § 3(3), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–180, div. A, title VI][/us/pl/100/180/dA/tVI], § 636(a), Dec. 4, 1987, [101 Stat. 1106][/us/stat/101/1106]; [Pub. L. 100–224][/us/pl/100/224], § 5(b)(1), Dec. 30, 1987, [101 Stat. 1538][/us/stat/101/1538]; [Pub. L. 101–189, div. A, title XIV][/us/pl/101/189/dA/tXIV], § 1407(a)(2)–(4), title XVI, § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1588][/us/stat/103/1588], 1602; [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(e)(3), Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859]; [Pub. L. 104–201, div. A, title VI][/us/pl/104/201/dA/tVI], § 634, Sept. 23, 1996, [110 Stat. 2561][/us/stat/110/2561]; [Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 642(a), Nov. 18, 1997, [111 Stat. 1799][/us/stat/111/1799]; [Pub. L. 105–261, div. A, title VI][/us/pl/105/261/dA/tVI], § 643(b), Oct. 17, 1998, [112 Stat. 2048][/us/stat/112/2048]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 655(c)(4)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–166; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], §§ 643(a), 644, Jan. 28, 2008, [122 Stat. 157][/us/stat/122/157], 158; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 631(a), Oct. 14, 2008, [122 Stat. 4492][/us/stat/122/4492]; [Pub. L. 111–31, div. B, title II][/us/pl/111/31/dB/tII], § 201, June 22, 2009, [123 Stat. 1857][/us/stat/123/1857]; [Pub. L. 112–239, div. A, title VI][/us/pl/112/239/dA/tVI], § 641(b), Jan. 2, 2013, [126 Stat. 1783][/us/stat/126/1783]; [Pub. L. 113–291, div. A, title VI][/us/pl/113/291/dA/tVI], § 624(a)(1), (2)(A), Dec. 19, 2014, [128 Stat. 3403][/us/stat/128/3403].)
 
  __Amendments__ 
 
-    2014—Subsec. (a)(4), (5). [Pub. L. 113–291, § 624(a)(1)][/us/pl/113/291/s624/a/1], added par. (4) and redesignated former par. (4) as (5).
+    2014—Subsec. (a)(4), (5). [Pub. L. 113–291][/us/pl/113/291], § 624(a)(1), added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (i). [Pub. L. 113–291, § 624(a)(2)(A)][/us/pl/113/291/s624/a/2/A], inserted “(a)(4) or” after “subsection”.
+    Subsec. (i). [Pub. L. 113–291][/us/pl/113/291], § 624(a)(2)(A), inserted “(a)(4) or” after “subsection”.
 
     2013—Subsec. (d). [Pub. L. 112–239][/us/pl/112/239] inserted “or chapter 84 of such title” after “chapter 83 of title 5”, “or 8416(a)” after “8339(j)”, and “or 8442(a)” after “8341(b)”.
 
-    2009—Subsec. (m)(2)(F) to (I). [Pub. L. 111–31, § 201(a)][/us/pl/111/31/s201/a], added subpars. (F) to (I) and struck out former subpar. (F) which read as follows: “for months after fiscal year 2013, $100.”
+    2009—Subsec. (m)(2)(F) to (I). [Pub. L. 111–31][/us/pl/111/31], § 201(a), added subpars. (F) to (I) and struck out former subpar. (F) which read as follows: “for months after fiscal year 2013, $100.”
 
-    Subsec. (m)(6). [Pub. L. 111–31, § 201(b)][/us/pl/111/31/s201/b], substituted “September 30, 2017” for “February 28, 2016” and substituted “October 1, 2017” for “March 1, 2016” in two places.
+    Subsec. (m)(6). [Pub. L. 111–31][/us/pl/111/31], § 201(b), substituted “September 30, 2017” for “February 28, 2016” and substituted “October 1, 2017” for “March 1, 2016” in two places.
 
-    2008—Subsec. (c)(3). [Pub. L. 110–181, § 643(a)][/us/pl/110/181/s643/a], added par. (3).
+    2008—Subsec. (c)(3). [Pub. L. 110–181][/us/pl/110/181], § 643(a), added par. (3).
 
-    Subsec. (m). [Pub. L. 110–181, § 644][/us/pl/110/181/s644], added subsec. (m).
+    Subsec. (m). [Pub. L. 110–181][/us/pl/110/181], § 644, added subsec. (m).
 
     Subsec. (m)(1)(B). [Pub. L. 110–417][/us/pl/110/417] substituted “subsection (a)(1) of [section 1448 of this title][/us/usc/t10/s1448] or by reason of coverage under subsection (d) of such section” for “[section 1448(a)(1) of this title][/us/usc/t10/s1448/a/1]”.
 
@@ -351,115 +351,115 @@
 
     1994—Subsecs. (c), (k)(1). [Pub. L. 103–337][/us/pl/103/337] substituted “[section 1311(a) of title 38][/us/usc/t38/s1311/a]” for “[section 411(a) of title 38][/us/usc/t38/s411/a]”.
 
-    1989—Subsec. (f)(3)(B). [Pub. L. 101–189, § 1407(a)(4)][/us/pl/101/189/s1407/a/4], substituted “within one year of the date of the court order or filing involved” for “before October 1, 1985, or within one year of the date of the court order or filing involved, whichever is later”.
+    1989—Subsec. (f)(3)(B). [Pub. L. 101–189][/us/pl/101/189], § 1407(a)(4), substituted “within one year of the date of the court order or filing involved” for “before October 1, 1985, or within one year of the date of the court order or filing involved, whichever is later”.
 
-    Subsec. (h). [Pub. L. 101–189, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+    Subsec. (h). [Pub. L. 101–189][/us/pl/101/189], § 1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-    Subsec. (l)(1). [Pub. L. 101–189, § 1407(a)(2)][/us/pl/101/189/s1407/a/2], substituted “reserve-component retired pay” for “retired pay under chapter 67 of this title”.
+    Subsec. (l)(1). [Pub. L. 101–189][/us/pl/101/189], § 1407(a)(2), substituted “reserve-component retired pay” for “retired pay under chapter 67 of this title”.
 
-    Subsec. (l)(2). [Pub. L. 101–189, § 1407(a)(3)][/us/pl/101/189/s1407/a/3], struck out “or retainer” after “of which the retired”.
+    Subsec. (l)(2). [Pub. L. 101–189][/us/pl/101/189], § 1407(a)(3), struck out “or retainer” after “of which the retired”.
 
-    1987—Subsec. (b). [Pub. L. 100–26, § 3(3)][/us/pl/100/26/s3/3], made technical amendment to directory language of [Pub. L. 99–661, § 643(a)][/us/pl/99/661/s643/a]. See 1986 Amendment note below.
+    1987—Subsec. (b). [Pub. L. 100–26][/us/pl/100/26], § 3(3), made technical amendment to directory language of [Pub. L. 99–661][/us/pl/99/661], § 643(a). See 1986 Amendment note below.
 
     Subsec. (f)(3)(A). [Pub. L. 100–224][/us/pl/100/224] struck out second of two commas after “required by a court order to make such an election”.
 
     Subsec. (k)(1). [Pub. L. 100–180][/us/pl/100/180] substituted “55 years of age” for “60 years of age”.
 
-    1986—Subsec. (b). [Pub. L. 99–661, § 643(a)][/us/pl/99/661/s643/a], as amended by [Pub. L. 100–26, § 3(3)][/us/pl/100/26/s3/3], substituted “age 55” for “age 60” in two places.
+    1986—Subsec. (b). [Pub. L. 99–661][/us/pl/99/661], § 643(a), as amended by [Pub. L. 100–26][/us/pl/100/26], § 3(3), substituted “age 55” for “age 60” in two places.
 
-    Subsec. (c). [Pub. L. 99–661, § 1343(a)(8)(C)][/us/pl/99/661/s1343/a/8/C], substituted “entitled to dependency and indemnity compensation” for “entitled to compensation”.
+    Subsec. (c). [Pub. L. 99–661][/us/pl/99/661], § 1343(a)(8)(C), substituted “entitled to dependency and indemnity compensation” for “entitled to compensation”.
 
-    Subsec. (f)(2). [Pub. L. 99–661, § 641(b)(2)(A)][/us/pl/99/661/s641/b/2/A], substituted “is required by a court order to elect under [section 1448(b) of this title][/us/usc/t10/s1448/b] to provide an annuity to a former spouse (or to both a former spouse and child), or who enters into a written agreement (whether voluntary or required by a court order) to make such an election, and who makes an election pursuant to such order or agreement,” for “enters into a voluntary written agreement to elect under [section 1448(b) of this title][/us/usc/t10/s1448/b] to provide an annuity to a former spouse and who makes an election pursuant to such agreement”.
+    Subsec. (f)(2). [Pub. L. 99–661][/us/pl/99/661], § 641(b)(2)(A), substituted “is required by a court order to elect under [section 1448(b) of this title][/us/usc/t10/s1448/b] to provide an annuity to a former spouse (or to both a former spouse and child), or who enters into a written agreement (whether voluntary or required by a court order) to make such an election, and who makes an election pursuant to such order or agreement,” for “enters into a voluntary written agreement to elect under [section 1448(b) of this title][/us/usc/t10/s1448/b] to provide an annuity to a former spouse and who makes an election pursuant to such agreement”.
 
-    Subsec. (f)(2)(A). [Pub. L. 99–661, § 641(b)(2)(B)][/us/pl/99/661/s641/b/2/B], substituted “in a case in which the election is required by a court order, or in which an agreement to make the election” for “in a case in which such agreement”.
+    Subsec. (f)(2)(A). [Pub. L. 99–661][/us/pl/99/661], § 641(b)(2)(B), substituted “in a case in which the election is required by a court order, or in which an agreement to make the election” for “in a case in which such agreement”.
 
-    Subsec. (f)(2)(A)(i). [Pub. L. 99–661, § 641(b)(2)(C)][/us/pl/99/661/s641/b/2/C], substituted “relating to such election, or the agreement to make such election,” for “relating to the agreement to make such election”.
+    Subsec. (f)(2)(A)(i). [Pub. L. 99–661][/us/pl/99/661], § 641(b)(2)(C), substituted “relating to such election, or the agreement to make such election,” for “relating to the agreement to make such election”.
 
-    Subsec. (f)(2)(B). [Pub. L. 99–661, § 641(b)(2)(D)][/us/pl/99/661/s641/b/2/D], substituted “of a written agreement that” for “in which such agreement”.
+    Subsec. (f)(2)(B). [Pub. L. 99–661][/us/pl/99/661], § 641(b)(2)(D), substituted “of a written agreement that” for “in which such agreement”.
 
-    Subsec. (f)(3)(A). [Pub. L. 99–661, § 641(b)(3)][/us/pl/99/661/s641/b/3], struck out “voluntary” before “written agreement” in two places, inserted “or if such person is required by a court order to make such an election,” after “applicable” and inserted “requires such election or” after “on its face, which”.
+    Subsec. (f)(3)(A). [Pub. L. 99–661][/us/pl/99/661], § 641(b)(3), struck out “voluntary” before “written agreement” in two places, inserted “or if such person is required by a court order to make such an election,” after “applicable” and inserted “requires such election or” after “on its face, which”.
 
-    Subsec. (f)(4). [Pub. L. 99–661, § 641(a)][/us/pl/99/661/s641/a], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Nothing in this chapter authorizes any court to order any person to elect under [section 1448(b) of this title][/us/usc/t10/s1448/b] to provide an annuity to a former spouse unless such person has voluntarily agreed in writing to make such election.”
+    Subsec. (f)(4). [Pub. L. 99–661][/us/pl/99/661], § 641(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Nothing in this chapter authorizes any court to order any person to elect under [section 1448(b) of this title][/us/usc/t10/s1448/b] to provide an annuity to a former spouse unless such person has voluntarily agreed in writing to make such election.”
 
-    1985—Subsec. (a)(1), (2). [Pub. L. 99–145, § 723(a)(1)][/us/pl/99/145/s723/a/1], inserted “or the eligible former spouse” after “widow or widower”.
+    1985—Subsec. (a)(1), (2). [Pub. L. 99–145][/us/pl/99/145], § 723(a)(1), inserted “or the eligible former spouse” after “widow or widower”.
 
-    Subsec. (a)(3). [Pub. L. 99–145, § 723(a)(2)][/us/pl/99/145/s723/a/2], inserted “(with the concurrence of the person’s spouse, if required under [section 1448(a)(3) of this title][/us/usc/t10/s1448/a/3])” after “title applies”, and “or former spouse” after “the spouse”.
+    Subsec. (a)(3). [Pub. L. 99–145][/us/pl/99/145], § 723(a)(2), inserted “(with the concurrence of the person’s spouse, if required under [section 1448(a)(3) of this title][/us/usc/t10/s1448/a/3])” after “title applies”, and “or former spouse” after “the spouse”.
 
-    Subsec. (a)(4). [Pub. L. 99–145, § 723(a)(3)][/us/pl/99/145/s723/a/3], struck out “former spouse or other” before “natural person” in two places.
+    Subsec. (a)(4). [Pub. L. 99–145][/us/pl/99/145], § 723(a)(3), struck out “former spouse or other” before “natural person” in two places.
 
-    Subsec. (b). [Pub. L. 99–145, § 723(b)(1)][/us/pl/99/145/s723/b/1], substituted “widow, widower, or former spouse” for “widow or widower” in eight places.
+    Subsec. (b). [Pub. L. 99–145][/us/pl/99/145], § 723(b)(1), substituted “widow, widower, or former spouse” for “widow or widower” in eight places.
 
-    [Pub. L. 99–145, § 719(4)][/us/pl/99/145/s719/4], substituted “under the Plan” for “under this section”.
+    [Pub. L. 99–145][/us/pl/99/145], § 719(4), substituted “under the Plan” for “under this section”.
 
-    Subsec. (c). [Pub. L. 99–145, § 723(b)(1)][/us/pl/99/145/s723/b/1], substituted “widow, widower, or former spouse” for “widow or widower” in two places.
+    Subsec. (c). [Pub. L. 99–145][/us/pl/99/145], § 723(b)(1), substituted “widow, widower, or former spouse” for “widow or widower” in two places.
 
-    [Pub. L. 99–145, § 718][/us/pl/99/145/s718], inserted provision respecting the effective date of the dependency and indemnity compensation offset.
+    [Pub. L. 99–145][/us/pl/99/145], § 718, inserted provision respecting the effective date of the dependency and indemnity compensation offset.
 
-    Subsec. (d). [Pub. L. 99–145, § 719(8)(A)][/us/pl/99/145/s719/8/A], substituted “retired pay” for “retired or retainer pay”.
+    Subsec. (d). [Pub. L. 99–145][/us/pl/99/145], § 719(8)(A), substituted “retired pay” for “retired or retainer pay”.
 
-    Subsec. (e). [Pub. L. 99–145, § 719(8)(A)][/us/pl/99/145/s719/8/A], substituted “retired pay” for “retired or retainer pay” in two places.
+    Subsec. (e). [Pub. L. 99–145][/us/pl/99/145], § 719(8)(A), substituted “retired pay” for “retired or retainer pay” in two places.
 
-    [Pub. L. 99–145, § 723(b)(1)][/us/pl/99/145/s723/b/1], substituted “widow, widower, or former spouse” for “widow or widower” in two places.
+    [Pub. L. 99–145][/us/pl/99/145], § 723(b)(1), substituted “widow, widower, or former spouse” for “widow or widower” in two places.
 
-    Subsec. (f)(3)(A). [Pub. L. 99–145, § 722(1)][/us/pl/99/145/s722/1], inserted “or has been filed with the court of appropriate jurisdiction in accordance with applicable State law” after “by a court order” and “or receives a statement from the clerk of the court (or other appropriate official) that such agreement has been filed with the court in accordance with applicable State law” after “voluntary written agreement of such person”.
+    Subsec. (f)(3)(A). [Pub. L. 99–145][/us/pl/99/145], § 722(1), inserted “or has been filed with the court of appropriate jurisdiction in accordance with applicable State law” after “by a court order” and “or receives a statement from the clerk of the court (or other appropriate official) that such agreement has been filed with the court in accordance with applicable State law” after “voluntary written agreement of such person”.
 
-    Subsec. (f)(3)(B), (C). [Pub. L. 99–145, § 722(2)][/us/pl/99/145/s722/2], inserted “or filing” after “court order”.
+    Subsec. (f)(3)(B), (C). [Pub. L. 99–145][/us/pl/99/145], § 722(2), inserted “or filing” after “court order”.
 
-    Subsec. (i). [Pub. L. 99–145, § 1303(a)(11)(A)][/us/pl/99/145/s1303/a/11/A], substituted “subsection (l)(3)(B)” for “subsection (l)”.
+    Subsec. (i). [Pub. L. 99–145][/us/pl/99/145], § 1303(a)(11)(A), substituted “subsection (l)(3)(B)” for “subsection (l)”.
 
-    Subsec. (j). [Pub. L. 99–145, § 719(5)][/us/pl/99/145/s719/5], substituted “a person providing a reserve-component annuity” for “any person providing an annuity by virtue of eligibility under [section 1448(a)(1)(B) of this title][/us/usc/t10/s1448/a/1/B]”.
+    Subsec. (j). [Pub. L. 99–145][/us/pl/99/145], § 719(5), substituted “a person providing a reserve-component annuity” for “any person providing an annuity by virtue of eligibility under [section 1448(a)(1)(B) of this title][/us/usc/t10/s1448/a/1/B]”.
 
-    [Pub. L. 99–145, § 713(b)][/us/pl/99/145/s713/b], inserted provision respecting the effective date of an annuity payable under [section 1448(f) of this title][/us/usc/t10/s1448/f].
+    [Pub. L. 99–145][/us/pl/99/145], § 713(b), inserted provision respecting the effective date of an annuity payable under [section 1448(f) of this title][/us/usc/t10/s1448/f].
 
-    Subsec. (k). [Pub. L. 99–145, § 723(b)(1)][/us/pl/99/145/s723/b/1], substituted “widow, widower, or former spouse” for “widow or widower” wherever appearing.
+    Subsec. (k). [Pub. L. 99–145][/us/pl/99/145], § 723(b)(1), substituted “widow, widower, or former spouse” for “widow or widower” wherever appearing.
 
-    Subsec. (k)(1). [Pub. L. 99–145, § 717(1)][/us/pl/99/145/s717/1], (2), designated existing provisions as par. (1) and substituted “had never been made.” for “had never been made, but such readjustment may not be made until the widow or widower repays any amount refunded under subsection (e) by reason of the adjustment under subsection (c).”
+    Subsec. (k)(1). [Pub. L. 99–145][/us/pl/99/145], § 717(1), (2), designated existing provisions as par. (1) and substituted “had never been made.” for “had never been made, but such readjustment may not be made until the widow or widower repays any amount refunded under subsection (e) by reason of the adjustment under subsection (c).”
 
-    Subsec. (k)(2). [Pub. L. 99–145, § 717(3)][/us/pl/99/145/s717/3], added par. (2).
+    Subsec. (k)(2). [Pub. L. 99–145][/us/pl/99/145], § 717(3), added par. (2).
 
-    Subsec. (l)(1). [Pub. L. 99–145, § 719(6)(A)][/us/pl/99/145/s719/6/A], (8)(A), substituted in first sentence “the Plan” for “the plan” in two places, and substituted “retired pay” for “retired or retainer pay” before “has been suspended”.
+    Subsec. (l)(1). [Pub. L. 99–145][/us/pl/99/145], § 719(6)(A), (8)(A), substituted in first sentence “the Plan” for “the plan” in two places, and substituted “retired pay” for “retired or retainer pay” before “has been suspended”.
 
-    Subsec. (l)(2). [Pub. L. 99–145, § 719(6)(B)][/us/pl/99/145/s719/6/B], struck out “the provision of” before “this subchapter”.
+    Subsec. (l)(2). [Pub. L. 99–145][/us/pl/99/145], § 719(6)(B), struck out “the provision of” before “this subchapter”.
 
-    Subsec. (l)(3)(A). [Pub. L. 99–145, § 1303(a)(11)(B)][/us/pl/99/145/s1303/a/11/B], struck out “(notwithstanding subsection (h))” before “may be collected”.
+    Subsec. (l)(3)(A). [Pub. L. 99–145][/us/pl/99/145], § 1303(a)(11)(B), struck out “(notwithstanding subsection (h))” before “may be collected”.
 
-    Subsec. (l)(3)(A)(i). [Pub. L. 99–145, § 719(8)(A)][/us/pl/99/145/s719/8/A], substituted “retired pay” for “retried or retainer pay”.
+    Subsec. (l)(3)(A)(i). [Pub. L. 99–145][/us/pl/99/145], § 719(8)(A), substituted “retired pay” for “retried or retainer pay”.
 
-    1984—Subsec. (f)(3), (4). [Pub. L. 98–525, § 644][/us/pl/98/525/s644], added par. (3) and redesignated former par. (3) as (4).
+    1984—Subsec. (f)(3), (4). [Pub. L. 98–525][/us/pl/98/525], § 644, added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (i). [Pub. L. 98–525, § 642(b)(1)][/us/pl/98/525/s642/b/1], substituted “Except as provided in subsection (l), an” for “An”.
+    Subsec. (i). [Pub. L. 98–525][/us/pl/98/525], § 642(b)(1), substituted “Except as provided in subsection (l), an” for “An”.
 
-    Subsec. (l). [Pub. L. 98–525, § 642(b)(2)][/us/pl/98/525/s642/b/2], added subsec. (l).
+    Subsec. (l). [Pub. L. 98–525][/us/pl/98/525], § 642(b)(2), added subsec. (l).
 
-    1983—Subsec. (a)(4). [Pub. L. 98–94, § 941(a)(3)(A)][/us/pl/98/94/s941/a/3/A], struck out “at the time the person to whom section 1448 applies became entitled to retired or retainer pay” after “[section 1448(b) of this title][/us/usc/t10/s1448/b]”.
+    1983—Subsec. (a)(4). [Pub. L. 98–94][/us/pl/98/94], § 941(a)(3)(A), struck out “at the time the person to whom section 1448 applies became entitled to retired or retainer pay” after “[section 1448(b) of this title][/us/usc/t10/s1448/b]”.
 
-    Subsec. (f)(1). [Pub. L. 98–94, § 941(a)(3)(B)][/us/pl/98/94/s941/a/3/B], inserted “(without regard to the eligibility of the person making the change of election to make an election under such section)” after “[section 1448(a)(5) of this title][/us/usc/t10/s1448/a/5]”.
+    Subsec. (f)(1). [Pub. L. 98–94][/us/pl/98/94], § 941(a)(3)(B), inserted “(without regard to the eligibility of the person making the change of election to make an election under such section)” after “[section 1448(a)(5) of this title][/us/usc/t10/s1448/a/5]”.
 
-    [Pub. L. 98–94, § 941(c)(3)(A)][/us/pl/98/94/s941/c/3/A], struck out “of this subsection” after “subject to paragraph (2)”.
+    [Pub. L. 98–94][/us/pl/98/94], § 941(c)(3)(A), struck out “of this subsection” after “subject to paragraph (2)”.
 
-    Subsec. (f)(2). [Pub. L. 98–94, § 941(c)(3)(B)][/us/pl/98/94/s941/c/3/B], substituted “or annulment,” for “annulment, or legal separation,”.
+    Subsec. (f)(2). [Pub. L. 98–94][/us/pl/98/94], § 941(c)(3)(B), substituted “or annulment,” for “annulment, or legal separation,”.
 
-    1982—Subsec. (a)(4). [Pub. L. 97–252, § 1003(c)][/us/pl/97/252/s1003/c], substituted “former spouse or other natural person” for “natural person” and “unless the election to provide an annuity to the former spouse or other natural person has been changed as provided in subsection (f)” for “if there is no eligible beneficiary under clause (1) or clause (2)”.
+    1982—Subsec. (a)(4). [Pub. L. 97–252][/us/pl/97/252], § 1003(c), substituted “former spouse or other natural person” for “natural person” and “unless the election to provide an annuity to the former spouse or other natural person has been changed as provided in subsection (f)” for “if there is no eligible beneficiary under clause (1) or clause (2)”.
 
-    Subsec. (f). [Pub. L. 97–252, § 1003(d)][/us/pl/97/252/s1003/d], designated existing provisions as par. (1), substituted “A person who elects to provide an annuity to a person designated by him under [section 1448(b) of this title][/us/usc/t10/s1448/b] may, subject to paragraph (2) of this subsection,” for “An unmarried person who elects to provide an annuity to a person designated by him under subsection (a)(4), but who later marries or acquires a dependent child,”, inserted provision that the Secretary concerned notify the former spouse or such other natural person previously designated under section 1448(b) of any such change in election, and added pars. (2) and (3).
+    Subsec. (f). [Pub. L. 97–252][/us/pl/97/252], § 1003(d), designated existing provisions as par. (1), substituted “A person who elects to provide an annuity to a person designated by him under [section 1448(b) of this title][/us/usc/t10/s1448/b] may, subject to paragraph (2) of this subsection,” for “An unmarried person who elects to provide an annuity to a person designated by him under subsection (a)(4), but who later marries or acquires a dependent child,”, inserted provision that the Secretary concerned notify the former spouse or such other natural person previously designated under section 1448(b) of any such change in election, and added pars. (2) and (3).
 
     1981—Subsec. (d). [Pub. L. 97–22][/us/pl/97/22] substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-    1978—Subsec. (a). [Pub. L. 95–397, § 203(1)][/us/pl/95/397/s203/1], inserted “(or on such other day as he may provide under subsection (j))” after “death of a person to whom [section 1448 of this title][/us/usc/t10/s1448] applies”.
+    1978—Subsec. (a). [Pub. L. 95–397][/us/pl/95/397], § 203(1), inserted “(or on such other day as he may provide under subsection (j))” after “death of a person to whom [section 1448 of this title][/us/usc/t10/s1448] applies”.
 
-    Subsec. (d). [Pub. L. 95–397, § 207(b)][/us/pl/95/397/s207/b], substituted “section 8339(j)” for “section 8339(i)”.
+    Subsec. (d). [Pub. L. 95–397][/us/pl/95/397], § 207(b), substituted “section 8339(j)” for “section 8339(i)”.
 
-    Subsec. (f). [Pub. L. 95–397, § 207(c)][/us/pl/95/397/s207/c], substituted “section 1448(a)(5)” for “the last three sentences of section 1448(a)”.
+    Subsec. (f). [Pub. L. 95–397][/us/pl/95/397], § 207(c), substituted “section 1448(a)(5)” for “the last three sentences of section 1448(a)”.
 
-    Subsecs. (j), (k). [Pub. L. 95–397, § 203(2)][/us/pl/95/397/s203/2], added subsecs. (j) and (k).
+    Subsecs. (j), (k). [Pub. L. 95–397][/us/pl/95/397], § 203(2), added subsecs. (j) and (k).
 
-    1976—Subsec. (a)(3), (4). [Pub. L. 94–496, § 1(3)][/us/pl/94/496/s1/3], added par. (3) and redesignated former par. (3) as (4).
+    1976—Subsec. (a)(3), (4). [Pub. L. 94–496][/us/pl/94/496], § 1(3), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (f). [Pub. L. 94–496, § 1(4)][/us/pl/94/496/s1/4], substituted “(a)(4)” for “(a)(3)”.
+    Subsec. (f). [Pub. L. 94–496][/us/pl/94/496], § 1(4), substituted “(a)(4)” for “(a)(3)”.
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–239, div. A, title VI, § 641(c)][/us/pl/112/239/s641/c], Jan. 2, 2013, [126 Stat. 1783][/us/stat/126/1783], provided that: 
+[Pub. L. 112–239, div. A, title VI][/us/pl/112/239/dA/tVI], § 641(c), Jan. 2, 2013, [126 Stat. 1783][/us/stat/126/1783], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1452 of this title][/us/usc/t10/s1452]\] shall apply with respect to any participant electing an annuity for survivors under chapter 84 of title 5, United States Code, on or after the date of the enactment of this Act \[Jan. 2, 2013\].”
 
@@ -469,19 +469,19 @@
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to the month beginning on October 1, 2008, and subsequent months as provided by paragraph (6) of subsection (m) of [section 1450 of title 10][/us/usc/t10/s1450], United States Code, as added by section 644 of the National Defense Authorization Act for Fiscal Year 2008 \[[Pub. L. 110–181][/us/pl/110/181]\].”
 
-[Pub. L. 110–181, div. A, title VI, § 643(b)][/us/pl/110/181/s643/b], Jan. 28, 2008, [122 Stat. 157][/us/stat/122/157], provided that: 
+[Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 643(b), Jan. 28, 2008, [122 Stat. 157][/us/stat/122/157], provided that: 
 
 > “Paragraph (3) of subsection (c) of [section 1450 of title 10][/us/usc/t10/s1450], United States Code, as added by subsection (a), shall apply with respect to the recoupment on or after April 1, 2008, of amounts subject to offset under such subsection.”
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–85, div. A, title VI, § 642(b)][/us/pl/105/85/s642/b], Nov. 18, 1997, [111 Stat. 1799][/us/stat/111/1799], provided that: 
+[Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 642(b), Nov. 18, 1997, [111 Stat. 1799][/us/stat/111/1799], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to marriages occurring before, on, or after the date of the enactment of this Act \[Nov. 18, 1997\].”
 
  __Effective Date of 1987 Amendments__ 
 
-[Pub. L. 100–180, div. A, title VI, § 636(b)][/us/pl/100/180/s636/b], Dec. 4, 1987, [101 Stat. 1106][/us/stat/101/1106], provided that: 
+[Pub. L. 100–180, div. A, title VI][/us/pl/100/180/dA/tVI], § 636(b), Dec. 4, 1987, [101 Stat. 1106][/us/stat/101/1106], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply as if included in the amendments made by section 643(a) of the National Defense Authorization Act for Fiscal Year 1987 ([Public Law 99–661][/us/pl/99/661]; [100 Stat. 3886][/us/stat/100/3886]) \[amending this section\].”
 
@@ -489,11 +489,11 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–661, div. A, title VI, § 641(c)][/us/pl/99/661/s641/c], Nov. 14, 1986, [100 Stat. 3886][/us/stat/100/3886], provided that: 
+[Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], § 641(c), Nov. 14, 1986, [100 Stat. 3886][/us/stat/100/3886], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1448 of this title][/us/usc/t10/s1448]\] apply to court orders issued on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
-[Pub. L. 99–661, div. A, title VI, § 643(b)][/us/pl/99/661/s643/b], Nov. 14, 1986, [100 Stat. 3886][/us/stat/100/3886], provided that: 
+[Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], § 643(b), Nov. 14, 1986, [100 Stat. 3886][/us/stat/100/3886], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to remarriages that occur on or after the date of the enactment of this Act \[Nov. 14, 1986\], but only with respect to payments for periods after the date of the enactment of this Act.”
 
@@ -515,7 +515,7 @@
 
  __Recomputation of Annuities__ 
 
-[Pub. L. 108–375, div. A, title VI, § 644(c)][/us/pl/108/375/s644/c], Oct. 28, 2004, [118 Stat. 1961][/us/stat/118/1961], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 632, Oct. 14, 2008, [122 Stat. 4493][/us/stat/122/4493], provided that:
+[Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 644(c), Oct. 28, 2004, [118 Stat. 1961][/us/stat/118/1961], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 632, Oct. 14, 2008, [122 Stat. 4493][/us/stat/122/4493], provided that:
 
 >     “(1)  __Periodic recomputation required__  __.—__ 
 
@@ -545,7 +545,7 @@
 
  __Effectuation of Intended SBP Annuity for Former Spouse When Not Elected by Reason of Untimely Death of Retiree__ 
 
-[Pub. L. 106–65, div. A, title VI, § 657][/us/pl/106/65/s657], Oct. 5, 1999, [113 Stat. 668][/us/stat/113/668], as amended by [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(c)(1)(D)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–292, provided that:
+[Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 657, Oct. 5, 1999, [113 Stat. 668][/us/stat/113/668], as amended by [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(c)(1)(D)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–292, provided that:
 
 >     “(a)  __Cases Not Covered by Existing Authority__  __.—__ 
 
@@ -565,7 +565,7 @@
 
 >     For the purposes of paragraph (3)(C) of [section 1450(f) of title 10][/us/usc/t10/s1450/f], United States Code, a court order or filing referred to in subsection (a)(1) of this section that is dated before October 19, 1984, shall be deemed to be dated on the date of the enactment of this Act \[Oct. 5, 1999\].”
 
-\[[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(c)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–292, provided that: 
+\[[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(c)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–292, provided that: 
 
 > “In the case of any former spouse to whom paragraph (3) of [section 1450(f) of title 10][/us/usc/t10/s1450/f], United States Code, applies by reason of the amendment made by paragraph (1)(D) \[amending [section 657 of Pub. L. 106–65][/us/pl/106/65/s657], set out above\], the provisions of subsection (b) of section 657 of the National Defense Authorization Act for Fiscal Year 2000 \[[Pub. L. 106–65][/us/pl/106/65], set out above\] shall be applied by using the date of the enactment of this Act \[Oct. 30, 2000\], rather than the date of the enactment of that Act \[Oct. 5, 1999\].”
 
@@ -612,59 +612,59 @@
 [/us/usc/t38/s1311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1311%2Fa
 [/us/usc/t10/s1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448
 [/us/usc/t10/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1461
-[/us/pl/92/425/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425%2Fs1%2F3
+[/us/pl/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425
 [/us/stat/86/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F708
-[/us/pl/94/496/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F496%2Fs1%2F3
+[/us/pl/94/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F496
 [/us/stat/90/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2375
-[/us/pl/95/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397
+[/us/pl/95/397/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397%2FtII
 [/us/stat/92/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F845
-[/us/pl/97/22/s11/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs11%2Fa%2F3
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F137
-[/us/pl/97/252/s1003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1003%2Fc
+[/us/pl/97/252/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtX
 [/us/stat/96/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F736
-[/us/pl/98/94/s941/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs941%2Fa%2F3
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F653
-[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVI
 [/us/stat/98/2546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2546
-[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVII
 [/us/stat/99/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F672
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3885
-[/us/pl/100/26/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F3
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
-[/us/pl/100/180/s636/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs636%2Fa
+[/us/pl/100/180/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVI
 [/us/stat/101/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1106
-[/us/pl/100/224/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F224%2Fs5%2Fb%2F1
+[/us/pl/100/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F224
 [/us/stat/101/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1538
-[/us/pl/101/189/s1407/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1407%2Fa%2F2
+[/us/pl/101/189/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXIV
 [/us/stat/103/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1588
-[/us/pl/103/337/s1070/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fe%2F3
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2859
-[/us/pl/104/201/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs634
+[/us/pl/104/201/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVI
 [/us/stat/110/2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2561
-[/us/pl/105/85/s642/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs642%2Fa
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1799
-[/us/pl/105/261/s643/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs643%2Fb
+[/us/pl/105/261/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVI
 [/us/stat/112/2048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2048
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F157
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4492
-[/us/pl/111/31/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs201
+[/us/pl/111/31/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdB%2FtII
 [/us/stat/123/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1857
-[/us/pl/112/239/s641/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs641%2Fb
+[/us/pl/112/239/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVI
 [/us/stat/126/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1783
-[/us/pl/113/291/s624/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fa%2F1
+[/us/pl/113/291/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVI
 [/us/stat/128/3403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3403
-[/us/pl/113/291/s624/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fa%2F1
-[/us/pl/113/291/s624/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fa%2F2%2FA
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/111/31/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs201%2Fa
-[/us/pl/111/31/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs201%2Fb
-[/us/pl/110/181/s643/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs643%2Fa
-[/us/pl/110/181/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs644
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/usc/t10/s1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448
 [/us/usc/t10/s1448/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fa%2F1
@@ -679,84 +679,84 @@
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t38/s1311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1311%2Fa
 [/us/usc/t38/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs411%2Fa
-[/us/pl/101/189/s1407/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1407%2Fa%2F4
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
-[/us/pl/101/189/s1407/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1407%2Fa%2F2
-[/us/pl/101/189/s1407/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1407%2Fa%2F3
-[/us/pl/100/26/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F3
-[/us/pl/99/661/s643/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs643%2Fa
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/100/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F224
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
-[/us/pl/99/661/s643/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs643%2Fa
-[/us/pl/100/26/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F3
-[/us/pl/99/661/s1343/a/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1343%2Fa%2F8%2FC
-[/us/pl/99/661/s641/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs641%2Fb%2F2%2FA
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/usc/t10/s1448/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fb
 [/us/usc/t10/s1448/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fb
-[/us/pl/99/661/s641/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs641%2Fb%2F2%2FB
-[/us/pl/99/661/s641/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs641%2Fb%2F2%2FC
-[/us/pl/99/661/s641/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs641%2Fb%2F2%2FD
-[/us/pl/99/661/s641/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs641%2Fb%2F3
-[/us/pl/99/661/s641/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs641%2Fa
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/usc/t10/s1448/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fb
-[/us/pl/99/145/s723/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs723%2Fa%2F1
-[/us/pl/99/145/s723/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs723%2Fa%2F2
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/usc/t10/s1448/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fa%2F3
-[/us/pl/99/145/s723/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs723%2Fa%2F3
-[/us/pl/99/145/s723/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs723%2Fb%2F1
-[/us/pl/99/145/s719/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs719%2F4
-[/us/pl/99/145/s723/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs723%2Fb%2F1
-[/us/pl/99/145/s718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs718
-[/us/pl/99/145/s719/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs719%2F8%2FA
-[/us/pl/99/145/s719/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs719%2F8%2FA
-[/us/pl/99/145/s723/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs723%2Fb%2F1
-[/us/pl/99/145/s722/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs722%2F1
-[/us/pl/99/145/s722/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs722%2F2
-[/us/pl/99/145/s1303/a/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1303%2Fa%2F11%2FA
-[/us/pl/99/145/s719/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs719%2F5
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/usc/t10/s1448/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fa%2F1%2FB
-[/us/pl/99/145/s713/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs713%2Fb
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/usc/t10/s1448/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Ff
-[/us/pl/99/145/s723/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs723%2Fb%2F1
-[/us/pl/99/145/s717/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs717%2F1
-[/us/pl/99/145/s717/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs717%2F3
-[/us/pl/99/145/s719/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs719%2F6%2FA
-[/us/pl/99/145/s719/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs719%2F6%2FB
-[/us/pl/99/145/s1303/a/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1303%2Fa%2F11%2FB
-[/us/pl/99/145/s719/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs719%2F8%2FA
-[/us/pl/98/525/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs644
-[/us/pl/98/525/s642/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs642%2Fb%2F1
-[/us/pl/98/525/s642/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs642%2Fb%2F2
-[/us/pl/98/94/s941/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs941%2Fa%2F3%2FA
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/usc/t10/s1448/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fb
-[/us/pl/98/94/s941/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs941%2Fa%2F3%2FB
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/usc/t10/s1448/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fa%2F5
-[/us/pl/98/94/s941/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs941%2Fc%2F3%2FA
-[/us/pl/98/94/s941/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs941%2Fc%2F3%2FB
-[/us/pl/97/252/s1003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1003%2Fc
-[/us/pl/97/252/s1003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1003%2Fd
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
+[/us/pl/97/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252
+[/us/pl/97/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252
 [/us/usc/t10/s1448/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fb
 [/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
-[/us/pl/95/397/s203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397%2Fs203%2F1
+[/us/pl/95/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397
 [/us/usc/t10/s1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448
-[/us/pl/95/397/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397%2Fs207%2Fb
-[/us/pl/95/397/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397%2Fs207%2Fc
-[/us/pl/95/397/s203/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397%2Fs203%2F2
-[/us/pl/94/496/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F496%2Fs1%2F3
-[/us/pl/94/496/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F496%2Fs1%2F4
-[/us/pl/112/239/s641/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs641%2Fc
+[/us/pl/95/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397
+[/us/pl/95/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397
+[/us/pl/95/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397
+[/us/pl/94/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F496
+[/us/pl/94/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F496
+[/us/pl/112/239/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVI
 [/us/stat/126/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1783
 [/us/usc/t10/s1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1452
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4492
 [/us/usc/t10/s1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/110/181/s643/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs643%2Fb
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F157
 [/us/usc/t10/s1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450
-[/us/pl/105/85/s642/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs642%2Fb
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1799
-[/us/pl/100/180/s636/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs636%2Fb
+[/us/pl/100/180/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVI
 [/us/stat/101/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1106
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/stat/100/3886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3886
@@ -764,10 +764,10 @@
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/100/26/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs12%2Fa
 [/us/usc/t10/s776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs776
-[/us/pl/99/661/s641/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs641%2Fc
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3886
 [/us/usc/t10/s1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448
-[/us/pl/99/661/s643/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs643%2Fb
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3886
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/99/145/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs731
@@ -781,7 +781,7 @@
 [/us/pl/94/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F496
 [/us/pl/94/496/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F496%2Fs3
 [/us/usc/t10/s1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1447
-[/us/pl/108/375/s644/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs644%2Fc
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1961
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4493
@@ -791,13 +791,13 @@
 [/us/stat/122/4493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4493
 [/us/pl/108/375/s644/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs644%2Fc
 [/us/pl/108/375/s644/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs644%2Fc
-[/us/pl/106/65/s657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs657
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F668
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s1450/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Ff
 [/us/usc/t10/s1450/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Ff
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s1450/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1450%2Ff
 [/us/pl/106/65/s657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs657

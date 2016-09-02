@@ -29,11 +29,11 @@
 
     An officer may not be retained in active status under this section later than the date on which the officer becomes 68 years of age.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2956][/us/stat/108/2956]; amended [Pub. L. 106–65, div. A, title V, § 516][/us/pl/106/65/s516], Oct. 5, 1999, [113 Stat. 594][/us/stat/113/594]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 523\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–108; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 516(a), Oct. 14, 2008, [122 Stat. 4442][/us/stat/122/4442].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2956][/us/stat/108/2956]; amended [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 516, Oct. 5, 1999, [113 Stat. 594][/us/stat/113/594]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 523\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–108; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 516(a), Oct. 14, 2008, [122 Stat. 4442][/us/stat/122/4442].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 3855(a), (c)(1), 6392(a), (c)(1), and 8855(a), (c)(1) of this title, prior to repeal by [Pub. L. 103–337, § 1629(a)(3)][/us/pl/103/337/s1629/a/3], (b)(3), (c)(3).
+    Provisions similar to those in this section were contained in sections 3855(a), (c)(1), 6392(a), (c)(1), and 8855(a), (c)(1) of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(a)(3), (b)(3), (c)(3).
 
  __Amendments__ 
 
@@ -50,15 +50,15 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2956
-[/us/pl/106/65/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs516
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F594
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4442
-[/us/pl/103/337/s1629/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fa%2F3
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65

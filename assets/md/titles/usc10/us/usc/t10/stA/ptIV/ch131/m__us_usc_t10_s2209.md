@@ -21,7 +21,7 @@
 
     (c) Notwithstanding any other provision of law, advances, by check or warrant, or reimbursements, may be made from available appropriations to a management fund on the basis of the estimated cost of a project. As adequate data becomes available, the estimated cost shall be revised and necessary adjustments made. Final adjustment shall be made with the appropriate funds for the fiscal year in which the advances or reimbursements are made. Except as otherwise provided by law, amounts advanced to management funds are available for obligation only during the fiscal year in which they are advanced.
 
-(Added [Pub. L. 87–651, title II, § 207(a)][/us/pl/87/651/s207/a], Sept. 7, 1962, [76 Stat. 522][/us/stat/76/522].)
+(Added [Pub. L. 87–651, title II][/us/pl/87/651/tII], § 207(a), Sept. 7, 1962, [76 Stat. 522][/us/stat/76/522].)
 
 <table>
 
@@ -88,7 +88,7 @@ July 3, 1942, ch. 484; restated Aug. 10, 1949, ch. 412, § 11 (16th through 19
 ----------
 ----------
 
-[/us/pl/87/651/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs207%2Fa
+[/us/pl/87/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtII
 [/us/stat/76/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F522
 [/us/usc/t5/s172e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs172e%2Fa
 [/us/usc/t5/s172e/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs172e%2Fb

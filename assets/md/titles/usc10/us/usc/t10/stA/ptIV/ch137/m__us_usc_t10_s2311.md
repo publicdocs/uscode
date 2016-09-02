@@ -41,7 +41,7 @@
 
             (B) A provision that authorizes the Under Secretary of Defense for Acquisition, Technology, and Logistics to require a military department whose participation in a joint acquisition program has been approved for termination or substantial reduction to continue to provide some or all of the funding necessary for the acquisition program to be continued in an efficient manner.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 132][/us/stat/70A/132]; [Pub. L. 85–800, § 11][/us/pl/85/800/s11], Aug. 28, 1958, [72 Stat. 967][/us/stat/72/967]; [Pub. L. 87–653, § 1(g)][/us/pl/87/653/s1/g], Sept. 10, 1962, [76 Stat. 529][/us/stat/76/529]; [Pub. L. 90–378, § 3][/us/pl/90/378/s3], July 5, 1968, [82 Stat. 290][/us/stat/82/290]; [Pub. L. 97–86, title IX][/us/pl/97/86], §§ 907(c), 909(f), Dec. 1, 1981, [95 Stat. 1117][/us/stat/95/1117], 1120; [Pub. L. 98–369, div. B, title VII, § 2726][/us/pl/98/369/s2726], July 18, 1984, [98 Stat. 1194][/us/stat/98/1194]; [Pub. L. 98–525, title XII, § 1214][/us/pl/98/525/s1214], Oct. 19, 1984, [98 Stat. 2592][/us/stat/98/2592]; [Pub. L. 98–577, title V, § 505][/us/pl/98/577/s505], Oct. 30, 1984, [98 Stat. 3087][/us/stat/98/3087]; [Pub. L. 103–355, title I, § 1503(a)(1)][/us/pl/103/355/s1503/a/1], Oct. 13, 1994, [108 Stat. 3296][/us/stat/108/3296]; [Pub. L. 107–107, div. A, title X, § 1048(b)(2)][/us/pl/107/107/s1048/b/2], Dec. 28, 2001, [115 Stat. 1225][/us/stat/115/1225].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 132][/us/stat/70A/132]; [Pub. L. 85–800][/us/pl/85/800], § 11, Aug. 28, 1958, [72 Stat. 967][/us/stat/72/967]; [Pub. L. 87–653][/us/pl/87/653], § 1(g), Sept. 10, 1962, [76 Stat. 529][/us/stat/76/529]; [Pub. L. 90–378][/us/pl/90/378], § 3, July 5, 1968, [82 Stat. 290][/us/stat/82/290]; [Pub. L. 97–86, title IX][/us/pl/97/86/tIX], §§ 907(c), 909(f), Dec. 1, 1981, [95 Stat. 1117][/us/stat/95/1117], 1120; [Pub. L. 98–369, div. B, title VII][/us/pl/98/369/dB/tVII], § 2726, July 18, 1984, [98 Stat. 1194][/us/stat/98/1194]; [Pub. L. 98–525, title XII][/us/pl/98/525/tXII], § 1214, Oct. 19, 1984, [98 Stat. 2592][/us/stat/98/2592]; [Pub. L. 98–577, title V][/us/pl/98/577/tV], § 505, Oct. 30, 1984, [98 Stat. 3087][/us/stat/98/3087]; [Pub. L. 103–355, title I][/us/pl/103/355/tI], § 1503(a)(1), Oct. 13, 1994, [108 Stat. 3296][/us/stat/108/3296]; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(b)(2), Dec. 28, 2001, [115 Stat. 1225][/us/stat/115/1225].)
 
 <table>
 
@@ -93,7 +93,7 @@ Feb. 19, 1948, ch. 65, § 7(a) (less 1st sentence), (b), 62 Stat. 24.  </td>
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 2308 of this title][/us/usc/t10/s2308] prior to repeal by [Pub. L. 103–355, § 1503(b)(1)][/us/pl/103/355/s1503/b/1].
+    Provisions similar to those in this section were contained in [section 2308 of this title][/us/usc/t10/s2308] prior to repeal by [Pub. L. 103–355][/us/pl/103/355], § 1503(b)(1).
 
  __Amendments__ 
 
@@ -137,28 +137,28 @@ Feb. 19, 1948, ch. 65, § 7(a) (less 1st sentence), (b), 62 Stat. 24.  </td>
 [/us/usc/t10/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2303
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F132
-[/us/pl/85/800/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F800%2Fs11
+[/us/pl/85/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F800
 [/us/stat/72/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F967
-[/us/pl/87/653/s1/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F653%2Fs1%2Fg
+[/us/pl/87/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F653
 [/us/stat/76/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F529
-[/us/pl/90/378/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F378%2Fs3
+[/us/pl/90/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F378
 [/us/stat/82/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F290
-[/us/pl/97/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86
+[/us/pl/97/86/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIX
 [/us/stat/95/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1117
-[/us/pl/98/369/s2726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2726
+[/us/pl/98/369/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVII
 [/us/stat/98/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1194
-[/us/pl/98/525/s1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1214
+[/us/pl/98/525/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXII
 [/us/stat/98/2592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2592
-[/us/pl/98/577/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F577%2Fs505
+[/us/pl/98/577/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F577%2FtV
 [/us/stat/98/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3087
-[/us/pl/103/355/s1503/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1503%2Fa%2F1
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3296
-[/us/pl/107/107/s1048/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fb%2F2
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1225
 [/us/usc/t10/s151/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs151%2Fc
 [/us/usc/t10/s154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs154%2Fa
 [/us/usc/t10/s2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2308
-[/us/pl/103/355/s1503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1503%2Fb%2F1
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/usc/t10/s2304/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Fd%2F2

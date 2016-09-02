@@ -23,7 +23,7 @@
 
     The Secretary of Defense may use funds available for an intelligence element of the Department of Defense to purchase promotional items of nominal value for use in the recruitment of individuals for employment by that element.
 
-(Added [Pub. L. 99–569, title IV, § 401(c)][/us/pl/99/569/s401/c], Oct. 27, 1986, [100 Stat. 3195][/us/stat/100/3195], § 140a; renumbered § 422, [Pub. L. 100–26, § 9(a)(3)][/us/pl/100/26/s9/a/3], Apr. 21, 1987, [101 Stat. 287][/us/stat/101/287]; amended [Pub. L. 107–108, title V, § 501(a)][/us/pl/107/108/s501/a]–(b)(2), Dec. 28, 2001, [115 Stat. 1404][/us/stat/115/1404].)
+(Added [Pub. L. 99–569, title IV][/us/pl/99/569/tIV], § 401(c), Oct. 27, 1986, [100 Stat. 3195][/us/stat/100/3195], § 140a; renumbered § 422, [Pub. L. 100–26][/us/pl/100/26], § 9(a)(3), Apr. 21, 1987, [101 Stat. 287][/us/stat/101/287]; amended [Pub. L. 107–108, title V][/us/pl/107/108/tV], § 501(a)–(b)(2), Dec. 28, 2001, [115 Stat. 1404][/us/stat/115/1404].)
 
  __Amendments__ 
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/99/569/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2Fs401%2Fc
+[/us/pl/99/569/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2FtIV
 [/us/stat/100/3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3195
-[/us/pl/100/26/s9/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs9%2Fa%2F3
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F287
-[/us/pl/107/108/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs501%2Fa
+[/us/pl/107/108/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2FtV
 [/us/stat/115/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1404
 [/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26

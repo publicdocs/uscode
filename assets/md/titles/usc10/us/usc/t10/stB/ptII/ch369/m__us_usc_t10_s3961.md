@@ -19,7 +19,7 @@
 
     (b) Unless entitled to a higher retired grade under some other provision of law, a Regular or Reserve of the Army not covered by subsection (a) who retires other than for physical disability retires in the regular or reserve grade that he holds on the date of his retirement.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 230][/us/stat/70A/230]; [Pub. L. 96–513, title V, § 502(18)][/us/pl/96/513/s502/18], Dec. 12, 1980, [94 Stat. 2910][/us/stat/94/2910]; [Pub. L. 103–337, div. A, title XVI, § 1672(c)(2)][/us/pl/103/337/s1672/c/2], Oct. 5, 1994, [108 Stat. 3015][/us/stat/108/3015]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 506(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–102.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 230][/us/stat/70A/230]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 502(18), Dec. 12, 1980, [94 Stat. 2910][/us/stat/94/2910]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1672(c)(2), Oct. 5, 1994, [108 Stat. 3015][/us/stat/108/3015]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 506(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–102.)
 
 <table>
 
@@ -131,7 +131,7 @@ June 3, 1916, ch. 134, § 4c (proviso); added June 29, 1945, ch. 197 (proviso)
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 506(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–102, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 506(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–102, provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 8961 of this title][/us/usc/t10/s8961]\] shall apply to Reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion by a board convened under chapter 36 or 1403 of title 10, United States Code, or having been found qualified for Federal recognition in a higher grade under chapter 3 of title 32, United States Code, after October 1, 1996.”
 
@@ -153,16 +153,16 @@ June 3, 1916, ch. 134, § 4c (proviso); added June 29, 1945, ch. 197 (proviso)
 [/us/usc/t10/s1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1370
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F230
-[/us/pl/96/513/s502/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs502%2F18
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2910
-[/us/pl/103/337/s1672/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1672%2Fc%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3015
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s8961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8961
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

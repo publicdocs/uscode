@@ -63,11 +63,11 @@
 
         (2) If the status of a person as described in [section 802 of this title][/us/usc/t10/s802] (article 2) terminates while the person is, pursuant to this section, in the custody of the Attorney General, hospitalized, or on conditional release under a prescribed regimen of medical, psychiatric, or psychological care or treatment, the provisions of this section establishing requirements and procedures regarding a person no longer subject to this chapter shall continue to apply to that person notwithstanding the change of status.
 
-(Added [Pub. L. 104–106, div. A, title XI, § 1133(a)(1)][/us/pl/104/106/s1133/a/1], Feb. 10, 1996, [110 Stat. 464][/us/stat/110/464].)
+(Added [Pub. L. 104–106, div. A, title XI][/us/pl/104/106/dA/tXI], § 1133(a)(1), Feb. 10, 1996, [110 Stat. 464][/us/stat/110/464].)
 
  __Effective Date__ 
 
-[Pub. L. 104–106, div. A, title XI, § 1133(c)][/us/pl/104/106/s1133/c], Feb. 10, 1996, [110 Stat. 466][/us/stat/110/466], provided that: 
+[Pub. L. 104–106, div. A, title XI][/us/pl/104/106/dA/tXI], § 1133(c), Feb. 10, 1996, [110 Stat. 466][/us/stat/110/466], provided that: 
 
 > “[Section 876b of title 10][/us/usc/t10/s876b], United States Code (article 76b of the Uniform Code of Military Justice), as added by subsection (a), shall take effect at the end of the six-month period beginning on the date of the enactment of this Act \[Feb. 10, 1996\] and shall apply with respect to charges referred to courts-martial after the end of that period.”
 
@@ -89,9 +89,9 @@
 [/us/usc/t18/s4247/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4247%2Fd
 [/us/usc/t18/s4247/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4247%2Fj
 [/us/usc/t10/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs802
-[/us/pl/104/106/s1133/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1133%2Fa%2F1
+[/us/pl/104/106/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXI
 [/us/stat/110/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F464
-[/us/pl/104/106/s1133/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1133%2Fc
+[/us/pl/104/106/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXI
 [/us/stat/110/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F466
 [/us/usc/t10/s876b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs876b
 

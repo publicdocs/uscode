@@ -93,7 +93,7 @@
 
         (7) The term “United States”, in a geographic sense, means the States, territories, and possessions and associated navigable waters, contiguous zones, and ocean waters of which the natural resources are under the exclusive management authority of the United States.
 
-(Added [Pub. L. 107–107, div. A, title III, § 311(a)(1)][/us/pl/107/107/s311/a/1], Dec. 28, 2001, [115 Stat. 1048][/us/stat/115/1048]; amended [Pub. L. 108–136, div. A, title X, § 1042(b)][/us/pl/108/136/s1042/b], Nov. 24, 2003, [117 Stat. 1610][/us/stat/117/1610]; [Pub. L. 111–84, div. A, title III, § 318(a)][/us/pl/111/84/s318/a], Oct. 28, 2009, [123 Stat. 2250][/us/stat/123/2250].)
+(Added [Pub. L. 107–107, div. A, title III][/us/pl/107/107/dA/tIII], § 311(a)(1), Dec. 28, 2001, [115 Stat. 1048][/us/stat/115/1048]; amended [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1042(b), Nov. 24, 2003, [117 Stat. 1610][/us/stat/117/1610]; [Pub. L. 111–84, div. A, title III][/us/pl/111/84/dA/tIII], § 318(a), Oct. 28, 2009, [123 Stat. 2250][/us/stat/123/2250].)
 
  __Amendments__ 
 
@@ -107,7 +107,7 @@
 
  __Expedited Use of Appropriate Technology Related to Unexploded Ordnance Detection__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 314, Oct. 14, 2008, [122 Stat. 4410][/us/stat/122/4410], as amended by [Pub. L. 111–84, div. A, title X, § 1073(c)(1)][/us/pl/111/84/s1073/c/1], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 314, Oct. 14, 2008, [122 Stat. 4410][/us/stat/122/4410], as amended by [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c)(1), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that:
 
 >     “(a)  __Expedited Use of Appropriate Technologies__  __.—__ 
 
@@ -133,11 +133,11 @@
 
 >     In this section, the term ‘unexploded ordnance’ has the meaning given such term in [section 101(e)(5) of title 10][/us/usc/t10/s101/e/5], United States Code.”
 
-    \[[Pub. L. 111–84, div. A, title X, § 1073(c)][/us/pl/111/84/s1073/c], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that the amendment made by section 1073(c)(1) to [section 314 of Pub. L. 110–417][/us/pl/110/417/s314], set out above, is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] therein as enacted.\]
+    \[[Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that the amendment made by section 1073(c)(1) to [section 314 of Pub. L. 110–417][/us/pl/110/417/s314], set out above, is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] therein as enacted.\]
 
  __Response Plan for Remediation of Unexploded Ordnance, Discarded Military Munitions, and Munitions Constituents__ 
 
-[Pub. L. 109–364, div. A, title III, § 313(a)][/us/pl/109/364/s313/a]–(d), Oct. 17, 2006, [120 Stat. 2138][/us/stat/120/2138], 2139, provided that:
+[Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 313(a)–(d), Oct. 17, 2006, [120 Stat. 2138][/us/stat/120/2138], 2139, provided that:
 
 >     “(a)  __Performance Goals for Remediation__  __.—__ 
 
@@ -189,7 +189,7 @@
 
  __Research on Effects of Ocean Disposal of Munitions__ 
 
-[Pub. L. 109–364, div. A, title III, § 314][/us/pl/109/364/s314], Oct. 17, 2006, [120 Stat. 2139][/us/stat/120/2139], provided that:
+[Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 314, Oct. 17, 2006, [120 Stat. 2139][/us/stat/120/2139], provided that:
 
 >     “(a) __Identification of Disposal Sites.—__ 
 
@@ -269,7 +269,7 @@
 
  __Initial Inventory__ 
 
-[Pub. L. 107–107, div. A, title III, § 311(b)][/us/pl/107/107/s311/b], Dec. 28, 2001, [115 Stat. 1051][/us/stat/115/1051], provided that: 
+[Pub. L. 107–107, div. A, title III][/us/pl/107/107/dA/tIII], § 311(b), Dec. 28, 2001, [115 Stat. 1051][/us/stat/115/1051], provided that: 
 
 > “The requirements of [section 2710 of title 10][/us/usc/t10/s2710], United States Code, as added by subsection (a), shall be implemented as follows:
 
@@ -284,35 +284,35 @@
 ----------
 ----------
 
-[/us/pl/107/107/s311/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs311%2Fa%2F1
+[/us/pl/107/107/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIII
 [/us/stat/115/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1048
-[/us/pl/108/136/s1042/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1042%2Fb
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1610
-[/us/pl/111/84/s318/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs318%2Fa
+[/us/pl/111/84/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIII
 [/us/stat/123/2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2250
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4410
-[/us/pl/111/84/s1073/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc%2F1
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
 [/us/usc/t10/s101/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fe%2F5
-[/us/pl/111/84/s1073/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
 [/us/pl/110/417/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs314
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/109/364/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs313%2Fa
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2138
 [/us/usc/t10/s2706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2706%2Fa
 [/us/usc/t10/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fe
-[/us/pl/109/364/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs314
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2139
 [/us/usc/t10/s2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2706
 [/us/usc/t43/s1301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301%2Fc
 [/us/usc/t10/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fe
 [/us/usc/t43/s1331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331%2Fa
-[/us/pl/107/107/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs311%2Fb
+[/us/pl/107/107/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIII
 [/us/stat/115/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1051
 [/us/usc/t10/s2710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2710
 

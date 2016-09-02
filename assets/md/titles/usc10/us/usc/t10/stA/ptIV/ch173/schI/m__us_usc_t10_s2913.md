@@ -51,15 +51,15 @@
 
         (4) An agreement under this subsection shall provide that title to any energy-saving device or technology installed at a military installation pursuant to the agreement vest in the United States. Such title may vest at such time during the term of the agreement, or upon expiration of the agreement, as determined to be in the best interests of the United States.
 
-(Added and amended [Pub. L. 109–364, div. B, title XXVIII][/us/pl/109/364], §§ 2851(a)(1), 2853, Oct. 17, 2006, [120 Stat. 2491][/us/stat/120/2491], 2496; [Pub. L. 110–140, title V, § 511(c)][/us/pl/110/140/s511/c], Dec. 19, 2007, [121 Stat. 1658][/us/stat/121/1658]; [Pub. L. 110–181, div. B, title XXVIII, § 2861][/us/pl/110/181/s2861], Jan. 28, 2008, [122 Stat. 559][/us/stat/122/559].)
+(Added and amended [Pub. L. 109–364, div. B, title XXVIII][/us/pl/109/364/dB/tXXVIII], §§ 2851(a)(1), 2853, Oct. 17, 2006, [120 Stat. 2491][/us/stat/120/2491], 2496; [Pub. L. 110–140, title V][/us/pl/110/140/tV], § 511(c), Dec. 19, 2007, [121 Stat. 1658][/us/stat/121/1658]; [Pub. L. 110–181, div. B, title XXVIII][/us/pl/110/181/dB/tXXVIII], § 2861, Jan. 28, 2008, [122 Stat. 559][/us/stat/122/559].)
 
  __Amendments__ 
 
-    2008—Subsec. (e). [Pub. L. 110–181][/us/pl/110/181], which directed the amendment of this section by striking out subsec. (e), could not be executed because subsec. (e) was previously repealed by [Pub. L. 110–140, § 511(c)][/us/pl/110/140/s511/c]. See 2007 Amendment note below.
+    2008—Subsec. (e). [Pub. L. 110–181][/us/pl/110/181], which directed the amendment of this section by striking out subsec. (e), could not be executed because subsec. (e) was previously repealed by [Pub. L. 110–140][/us/pl/110/140], § 511(c). See 2007 Amendment note below.
 
     2007—Subsec. (e). [Pub. L. 110–140][/us/pl/110/140] struck out heading and text of subsec. (e). Text read as follows: “When a decision is made to award an energy savings performance contract that contains a clause setting forth a cancellation ceiling in excess of $7,000,000, the Secretary of Defense shall submit to the appropriate committees of Congress written notification of the proposed contract and of the proposed cancellation ceiling for the contract. The notification shall include the justification for the proposed cancellation ceiling. The contract may then be awarded only after the end of the 30-day period beginning on the date the notification is received by such committees or, if earlier, the end of the 15-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].”
 
-    2006—Subsec. (e). [Pub. L. 109–364, § 2853][/us/pl/109/364/s2853], added subsec. (e).
+    2006—Subsec. (e). [Pub. L. 109–364][/us/pl/109/364], § 2853, added subsec. (e).
 
  __Effective Date of 2007 Amendment__ 
 
@@ -72,17 +72,17 @@
 ----------
 ----------
 
-[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdB%2FtXXVIII
 [/us/stat/120/2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2491
-[/us/pl/110/140/s511/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs511%2Fc
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1658
-[/us/pl/110/181/s2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2861
+[/us/pl/110/181/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdB%2FtXXVIII
 [/us/stat/122/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F559
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/110/140/s511/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs511%2Fc
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
-[/us/pl/109/364/s2853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2853
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

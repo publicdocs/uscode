@@ -111,21 +111,21 @@
 
         The term “covered network” means a network or information system of a cleared defense contractor that contains or processes information created by or for the Department of Defense with respect to which such contractor is required to apply enhanced protection.
 
-(Added and amended [Pub. L. 114–92, div. A, title XVI, § 1641(a)][/us/pl/114/92/s1641/a], Nov. 25, 2015, [129 Stat. 1114][/us/stat/129/1114].)
+(Added and amended [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1641(a), Nov. 25, 2015, [129 Stat. 1114][/us/stat/129/1114].)
 
  __Codification__ 
 
-    Section, as added and amended by [Pub. L. 114–92][/us/pl/114/92], is based on [Pub. L. 112–239, div. A, title IX, § 941][/us/pl/112/239/s941], Jan. 2, 2013, [126 Stat. 1889][/us/stat/126/1889], which was formerly set out as a note under [section 2224 of this title][/us/usc/t10/s2224] before being transferred to this chapter and renumbered as this section.
+    Section, as added and amended by [Pub. L. 114–92][/us/pl/114/92], is based on [Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 941, Jan. 2, 2013, [126 Stat. 1889][/us/stat/126/1889], which was formerly set out as a note under [section 2224 of this title][/us/usc/t10/s2224] before being transferred to this chapter and renumbered as this section.
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–92, § 1641(a)(1)][/us/pl/114/92/s1641/a/1], substituted “Reporting on penetrations of networks and information systems of certain contractors” for “Reports to Department of Defense on penetrations of networks and information systems of certain contractors” in section catchline.
+    2015—[Pub. L. 114–92][/us/pl/114/92], § 1641(a)(1), substituted “Reporting on penetrations of networks and information systems of certain contractors” for “Reports to Department of Defense on penetrations of networks and information systems of certain contractors” in section catchline.
 
-    [Pub. L. 114–92, § 1641(a)][/us/pl/114/92/s1641/a], transferred [section 941 of Pub. L. 112–239][/us/pl/112/239/s941] to this chapter and renumbered it as this section. See Codification note above.
+    [Pub. L. 114–92][/us/pl/114/92], § 1641(a), transferred [section 941 of Pub. L. 112–239][/us/pl/112/239/s941] to this chapter and renumbered it as this section. See Codification note above.
 
-    Subsec. (c)(3). [Pub. L. 114–92, § 1641(a)(2)][/us/pl/114/92/s1641/a/2], added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The procedures established pursuant to subsection (a) shall prohibit the dissemination outside the Department of Defense of information obtained or derived through such procedures that is not created by or for the Department except with the approval of the contractor providing such information.”
+    Subsec. (c)(3). [Pub. L. 114–92][/us/pl/114/92], § 1641(a)(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The procedures established pursuant to subsection (a) shall prohibit the dissemination outside the Department of Defense of information obtained or derived through such procedures that is not created by or for the Department except with the approval of the contractor providing such information.”
 
-    Subsec. (d). [Pub. L. 114–92, § 1641(a)(3)][/us/pl/114/92/s1641/a/3], added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows:
+    Subsec. (d). [Pub. L. 114–92][/us/pl/114/92], § 1641(a)(3), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows:
 
     “(1) In general.—Not later than 90 days after the date of the enactment of this Act—
 
@@ -142,16 +142,16 @@
 ----------
 ----------
 
-[/us/pl/114/92/s1641/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1641%2Fa
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1114
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
-[/us/pl/112/239/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs941
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
 [/us/stat/126/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1889
 [/us/usc/t10/s2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2224
-[/us/pl/114/92/s1641/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1641%2Fa%2F1
-[/us/pl/114/92/s1641/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1641%2Fa
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/239/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs941
-[/us/pl/114/92/s1641/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1641%2Fa%2F2
-[/us/pl/114/92/s1641/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1641%2Fa%2F3
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 
 

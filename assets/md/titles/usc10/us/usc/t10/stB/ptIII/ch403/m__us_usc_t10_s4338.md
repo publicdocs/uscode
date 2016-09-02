@@ -27,11 +27,11 @@
 
         (2) Any premium pay or compensatory time off for hours of work or tours of duty in excess of the regularly scheduled hours or tours of duty.
 
-(Added [Pub. L. 103–160, div. A, title V, § 533(a)(1)][/us/pl/103/160/s533/a/1], Nov. 30, 1993, [107 Stat. 1658][/us/stat/107/1658]; amended [Pub. L. 106–65, div. A, title XI, § 1107(a)][/us/pl/106/65/s1107/a], Oct. 5, 1999, [113 Stat. 778][/us/stat/113/778].)
+(Added [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 533(a)(1), Nov. 30, 1993, [107 Stat. 1658][/us/stat/107/1658]; amended [Pub. L. 106–65, div. A, title XI][/us/pl/106/65/dA/tXI], § 1107(a), Oct. 5, 1999, [113 Stat. 778][/us/stat/113/778].)
 
  __Prior Provisions__ 
 
-    A prior section 4338, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 239][/us/stat/70A/239]; Sept. 7, 1962, [Pub. L. 87–649, § 4][/us/pl/87/649/s4], [76 Stat. 493][/us/stat/76/493], provided that the director of music, who was also leader of the Military Academy Band, have the rank prescribed by the Secretary of the Army, that at such time as the President directs, the director of music be retired in the grade equal to the highest rank in which he served on active duty satisfactorily for at least six months and with the retired pay of an officer of the Army with the same grade and length of service, and that the dependents of the director of music be entitled to pensions, death gratuity, and other benefits provided for the dependents of a Regular Army officer with corresponding grade and length of service, prior to repeal by [Pub. L. 95–551, § 3(a)][/us/pl/95/551/s3/a], Oct. 30, 1978, [92 Stat. 2069][/us/stat/92/2069].
+    A prior section 4338, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 239][/us/stat/70A/239]; Sept. 7, 1962, [Pub. L. 87–649][/us/pl/87/649], § 4, [76 Stat. 493][/us/stat/76/493], provided that the director of music, who was also leader of the Military Academy Band, have the rank prescribed by the Secretary of the Army, that at such time as the President directs, the director of music be retired in the grade equal to the highest rank in which he served on active duty satisfactorily for at least six months and with the retired pay of an officer of the Army with the same grade and length of service, and that the dependents of the director of music be entitled to pensions, death gratuity, and other benefits provided for the dependents of a Regular Army officer with corresponding grade and length of service, prior to repeal by [Pub. L. 95–551][/us/pl/95/551], § 3(a), Oct. 30, 1978, [92 Stat. 2069][/us/stat/92/2069].
 
  __Amendments__ 
 
@@ -44,15 +44,15 @@
 ----------
 ----------
 
-[/us/pl/103/160/s533/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs533%2Fa%2F1
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1658
-[/us/pl/106/65/s1107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1107%2Fa
+[/us/pl/106/65/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtXI
 [/us/stat/113/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F778
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F239
-[/us/pl/87/649/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs4
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F493
-[/us/pl/95/551/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F551%2Fs3%2Fa
+[/us/pl/95/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F551
 [/us/stat/92/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2069
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 

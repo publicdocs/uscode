@@ -63,7 +63,7 @@
 
     Any determination to approve or disapprove a service or supply under subsection (a) and any action made under subsection (d)(3) shall be final.
 
-(Added [Pub. L. 113–291, div. A, title VII, § 704(a)][/us/pl/113/291/s704/a], Dec. 19, 2014, [128 Stat. 3412][/us/stat/128/3412].)
+(Added [Pub. L. 113–291, div. A, title VII][/us/pl/113/291/dA/tVII], § 704(a), Dec. 19, 2014, [128 Stat. 3412][/us/stat/128/3412].)
 
 ----------
 
@@ -73,7 +73,7 @@
 ----------
 
 [/us/usc/t10/s1079/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079%2Fa%2F12
-[/us/pl/113/291/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs704%2Fa
+[/us/pl/113/291/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVII
 [/us/stat/128/3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3412
 
 

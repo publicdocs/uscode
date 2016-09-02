@@ -53,11 +53,11 @@
 
     This section also shall apply to housing initially acquired or constructed under the former [section 2828(g) of this title][/us/usc/t10/s2828/g] (commonly known as the “Build to Lease program”), as added by section 801 of the Military Construction Authorization Act, 1984 ([Public Law 98–115][/us/pl/98/115]; 97 Stat 782).
 
-(Added [Pub. L. 110–417, div. B, title XXVIII, § 2803(a)][/us/pl/110/417/s2803/a], Oct. 14, 2008, [122 Stat. 4719][/us/stat/122/4719].)
+(Added [Pub. L. 110–417, div. B, title XXVIII][/us/pl/110/417/dB/tXXVIII], § 2803(a), Oct. 14, 2008, [122 Stat. 4719][/us/stat/122/4719].)
 
  __References in Text__ 
 
-    [Section 2828(g) of this title][/us/usc/t10/s2828/g] (commonly known as the “Build to Lease program”), as added by section 801 of the Military Construction Authorization Act, 1984, referred to in subsec. (d), means the subsection (g) added to [section 2828 of this title][/us/usc/t10/s2828] by [section 801 of Pub. L. 98–115][/us/pl/98/115/s801], which was repealed by [Pub. L. 102–190, div. B, title XXVIII, § 2806(b)][/us/pl/102/190/s2806/b], Dec. 5, 1991, [105 Stat. 1540][/us/stat/105/1540].
+    [Section 2828(g) of this title][/us/usc/t10/s2828/g] (commonly known as the “Build to Lease program”), as added by section 801 of the Military Construction Authorization Act, 1984, referred to in subsec. (d), means the subsection (g) added to [section 2828 of this title][/us/usc/t10/s2828] by [section 801 of Pub. L. 98–115][/us/pl/98/115/s801], which was repealed by [Pub. L. 102–190, div. B, title XXVIII][/us/pl/102/190/dB/tXXVIII], § 2806(b), Dec. 5, 1991, [105 Stat. 1540][/us/stat/105/1540].
 
 ----------
 
@@ -72,12 +72,12 @@
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
 [/us/usc/t10/s2828/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2828%2Fg
 [/us/pl/98/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F115
-[/us/pl/110/417/s2803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs2803%2Fa
+[/us/pl/110/417/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdB%2FtXXVIII
 [/us/stat/122/4719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4719
 [/us/usc/t10/s2828/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2828%2Fg
 [/us/usc/t10/s2828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2828
 [/us/pl/98/115/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F115%2Fs801
-[/us/pl/102/190/s2806/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs2806%2Fb
+[/us/pl/102/190/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdB%2FtXXVIII
 [/us/stat/105/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1540
 
 

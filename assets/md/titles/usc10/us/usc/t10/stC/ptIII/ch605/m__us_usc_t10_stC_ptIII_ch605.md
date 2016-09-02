@@ -109,15 +109,15 @@
 
     2008—[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 543(e)(2), Oct. 14, 2008, [122 Stat. 4461][/us/stat/122/4461], added item 7048 and struck out former item 7048 “Conferring of degrees on graduates”.
 
-    2006—[Pub. L. 109–163, div. A, title V, § 522(c)(2)][/us/pl/109/163/s522/c/2], Jan. 6, 2006, [119 Stat. 3242][/us/stat/119/3242], added 7050.
+    2006—[Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 522(c)(2), Jan. 6, 2006, [119 Stat. 3242][/us/stat/119/3242], added 7050.
 
-    2004—[Pub. L. 108–375, div. A, title V, § 557(c)][/us/pl/108/375/s557/c], Oct. 28, 2004, [118 Stat. 1916][/us/stat/118/1916], substituted “President; assistants” for “Superintendent; assistants” in item 7042 and “Provost and Academic Dean” for “Academic Dean” in item 7043.
+    2004—[Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 557(c), Oct. 28, 2004, [118 Stat. 1916][/us/stat/118/1916], substituted “President; assistants” for “Superintendent; assistants” in item 7042 and “Provost and Academic Dean” for “Academic Dean” in item 7043.
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 535(a)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–113, added item 7049.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 535(a)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–113, added item 7049.
 
-    1997—[Pub. L. 105–85, div. A, title V, § 551(b)(2)][/us/pl/105/85/s551/b/2], Nov. 18, 1997, [111 Stat. 1748][/us/stat/111/1748], substituted “Officers of the other armed forces; enlisted members:” for “Officers of Army, Air Force, and Coast Guard:” in item 7045.
+    1997—[Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 551(b)(2), Nov. 18, 1997, [111 Stat. 1748][/us/stat/111/1748], substituted “Officers of the other armed forces; enlisted members:” for “Officers of Army, Air Force, and Coast Guard:” in item 7045.
 
-    1992—[Pub. L. 102–484, div. A, title X, § 1073(b)][/us/pl/102/484/s1073/b], Oct. 23, 1992, [106 Stat. 2511][/us/stat/106/2511], added item 7047 and redesignated former item 7047 as 7048.
+    1992—[Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1073(b), Oct. 23, 1992, [106 Stat. 2511][/us/stat/106/2511], added item 7047 and redesignated former item 7047 as 7048.
 
 ----------
 
@@ -128,15 +128,15 @@
 
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4461
-[/us/pl/109/163/s522/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs522%2Fc%2F2
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3242
-[/us/pl/108/375/s557/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs557%2Fc
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1916
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/105/85/s551/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs551%2Fb%2F2
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1748
-[/us/pl/102/484/s1073/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1073%2Fb
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2511
 
 

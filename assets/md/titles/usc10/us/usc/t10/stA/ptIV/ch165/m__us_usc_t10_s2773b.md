@@ -23,11 +23,11 @@
 
     The direction of the designation of funds in violation of the prohibition in subsection (a) shall be treated for purposes of chapter 13 of title 31 as a violation of section 1341(a)(1)(A) of such title.
 
-(Added [Pub. L. 109–364, div. A, title X, § 1053(a)(1)][/us/pl/109/364/s1053/a/1], Oct. 17, 2006, [120 Stat. 2396][/us/stat/120/2396].)
+(Added [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1053(a)(1), Oct. 17, 2006, [120 Stat. 2396][/us/stat/120/2396].)
 
  __Effective Date__ 
 
-[Pub. L. 109–364, div. A, title X, § 1053(b)][/us/pl/109/364/s1053/b], Oct. 17, 2006, [120 Stat. 2396][/us/stat/120/2396], provided that:
+[Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1053(b), Oct. 17, 2006, [120 Stat. 2396][/us/stat/120/2396], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/109/364/s1053/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1053%2Fa%2F1
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2396
-[/us/pl/109/364/s1053/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1053%2Fb
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2396
 [/us/usc/t10/s2773b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2773b
 

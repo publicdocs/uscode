@@ -171,13 +171,13 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–375, div. A, title X, § 1084(d)(30)][/us/pl/108/375/s1084/d/30], Oct. 28, 2004, [118 Stat. 2063][/us/stat/118/2063], renumbered item 6257 “Korea Defense Service Medal” as 6258.
+    2004—[Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(d)(30), Oct. 28, 2004, [118 Stat. 2063][/us/stat/118/2063], renumbered item 6257 “Korea Defense Service Medal” as 6258.
 
-    2002—[Pub. L. 107–314, div. A, title V, § 543(c)(2)][/us/pl/107/314/s543/c/2], Dec. 2, 2002, [116 Stat. 2550][/us/stat/116/2550], added item 6257 “Korea Defense Service Medal”.
+    2002—[Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 543(c)(2), Dec. 2, 2002, [116 Stat. 2550][/us/stat/116/2550], added item 6257 “Korea Defense Service Medal”.
 
-    [Pub. L. 107–248, title VIII, § 8143(c)(2)(B)][/us/pl/107/248/s8143/c/2/B], Oct. 23, 2002, [116 Stat. 1570][/us/stat/116/1570], added item 6257 “Medal of honor: presentation of Medal of Honor Flag”.
+    [Pub. L. 107–248, title VIII][/us/pl/107/248/tVIII], § 8143(c)(2)(B), Oct. 23, 2002, [116 Stat. 1570][/us/stat/116/1570], added item 6257 “Medal of honor: presentation of Medal of Honor Flag”.
 
-    2001—[Pub. L. 107–107, div. A, title V, § 553(b)(1)(B)][/us/pl/107/107/s553/b/1/B], Dec. 28, 2001, [115 Stat. 1116][/us/stat/115/1116], added item 6256.
+    2001—[Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 553(b)(1)(B), Dec. 28, 2001, [115 Stat. 1116][/us/stat/115/1116], added item 6256.
 
  __Extension of Time for Award of Decoration__ 
 
@@ -190,13 +190,13 @@
 ----------
 ----------
 
-[/us/pl/108/375/s1084/d/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F30
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2063
-[/us/pl/107/314/s543/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs543%2Fc%2F2
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2550
-[/us/pl/107/248/s8143/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2Fs8143%2Fc%2F2%2FB
+[/us/pl/107/248/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2FtVIII
 [/us/stat/116/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1570
-[/us/pl/107/107/s553/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs553%2Fb%2F1%2FB
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1116
 [/us/pl/93/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F469
 [/us/stat/88/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1422

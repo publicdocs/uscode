@@ -19,7 +19,7 @@
 
     (b) The Secretary shall require a bond from each institution or home to which property is lent under subsection (a), in double the value of the property lent, for the care and safekeeping of that property and, except for property properly expended, for its return when required.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 263][/us/stat/70A/263]; [Pub. L. 109–163, div. A, title X, § 1057(a)(10)][/us/pl/109/163/s1057/a/10], Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 263][/us/stat/70A/263]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(a)(10), Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
 
 <table>
 
@@ -98,7 +98,7 @@ The words “subject to such regulations as he may prescribe” are omitted, sin
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F263
-[/us/pl/109/163/s1057/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F10
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3441
 [/us/act/1889-02-08/ch116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1889-02-08%2Fch116
 [/us/stat/25/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F657

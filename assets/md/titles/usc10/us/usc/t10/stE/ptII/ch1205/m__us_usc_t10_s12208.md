@@ -21,7 +21,7 @@
 
     (c) This section does not change any term of service under an appointment, enlistment, or agreement, including an agreement made before or at the time when the member entered upon a program authorized by an armed force.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 25][/us/stat/70A/25], § 595; [Pub. L. 96–513, title V, § 511(17)][/us/pl/96/513/s511/17], Dec. 12, 1980, [94 Stat. 2921][/us/stat/94/2921]; renumbered § 12208, [Pub. L. 103–337, div. A, title XVI, § 1662(c)(2)][/us/pl/103/337/s1662/c/2], Oct. 5, 1994, [108 Stat. 2990][/us/stat/108/2990].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 25][/us/stat/70A/25], § 595; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(17), Dec. 12, 1980, [94 Stat. 2921][/us/stat/94/2921]; renumbered § 12208, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(c)(2), Oct. 5, 1994, [108 Stat. 2990][/us/stat/108/2990].)
 
 <table>
 
@@ -116,9 +116,9 @@ July 9, 1952, ch. 608, § 209 (less applicability to enlistments), 66 Stat. 48
 [/us/usc/t10/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs651
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F25
-[/us/pl/96/513/s511/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F17
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2921
-[/us/pl/103/337/s1662/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fc%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2990
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604

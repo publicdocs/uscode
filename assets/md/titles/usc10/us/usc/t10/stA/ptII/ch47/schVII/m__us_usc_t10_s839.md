@@ -39,7 +39,7 @@
 
         (2) may not form the basis of any holding, decision, or other determination of a court-martial.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 51][/us/stat/70A/51]; [Pub. L. 90–632, § 2(15)][/us/pl/90/632/s2/15], Oct. 24, 1968, [82 Stat. 1338][/us/stat/82/1338]; [Pub. L. 101–510, div. A, title V, § 541(a)][/us/pl/101/510/s541/a], Nov. 5, 1990, [104 Stat. 1565][/us/stat/104/1565]; [Pub. L. 109–163, div. A, title V, § 556][/us/pl/109/163/s556], Jan. 6, 2006, [119 Stat. 3266][/us/stat/119/3266]; [Pub. L. 111–84, div. A, title XVIII, § 1803(a)(2)][/us/pl/111/84/s1803/a/2], Oct. 28, 2009, [123 Stat. 2612][/us/stat/123/2612].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 51][/us/stat/70A/51]; [Pub. L. 90–632][/us/pl/90/632], § 2(15), Oct. 24, 1968, [82 Stat. 1338][/us/stat/82/1338]; [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 541(a), Nov. 5, 1990, [104 Stat. 1565][/us/stat/104/1565]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 556, Jan. 6, 2006, [119 Stat. 3266][/us/stat/119/3266]; [Pub. L. 111–84, div. A, title XVIII][/us/pl/111/84/dA/tXVIII], § 1803(a)(2), Oct. 28, 2009, [123 Stat. 2612][/us/stat/123/2612].)
 
 <table>
 
@@ -99,7 +99,7 @@ May 5, 1950, ch. 169, § 1 (Art. 39), 64 Stat. 121.  </td>
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–510, div. A, title V, § 541(e)][/us/pl/101/510/s541/e], Nov. 5, 1990, [104 Stat. 1565][/us/stat/104/1565], provided that: 
+[Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 541(e), Nov. 5, 1990, [104 Stat. 1565][/us/stat/104/1565], provided that: 
 
 > “The amendments made by subsections (a) through (d) \[amending this section and [section 841 of this title][/us/usc/t10/s841]\] shall apply only to a court-martial convened on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
@@ -119,20 +119,20 @@ May 5, 1950, ch. 169, § 1 (Art. 39), 64 Stat. 121.  </td>
 [/us/usc/t10/s829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs829
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F51
-[/us/pl/90/632/s2/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F15
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1338
-[/us/pl/101/510/s541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs541%2Fa
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1565
-[/us/pl/109/163/s556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs556
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3266
-[/us/pl/111/84/s1803/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1803%2Fa%2F2
+[/us/pl/111/84/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXVIII
 [/us/stat/123/2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2612
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs829
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
-[/us/pl/101/510/s541/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs541%2Fe
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1565
 [/us/usc/t10/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs841
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632

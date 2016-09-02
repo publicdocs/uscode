@@ -17,7 +17,7 @@
 
     Subject to the authority, direction, and control of the Secretary of the military department concerned, the service acquisition executive for each military department shall carry out all powers, functions, and duties of the Secretary concerned with respect to the acquisition workforce within the military department concerned and shall ensure that the policies of the Secretary of Defense established in accordance with this chapter are implemented in that department.
 
-(Added [Pub. L. 101–510, div. A, title XII, § 1202(a)][/us/pl/101/510/s1202/a], Nov. 5, 1990, [104 Stat. 1639][/us/stat/104/1639].)
+(Added [Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1202(a), Nov. 5, 1990, [104 Stat. 1639][/us/stat/104/1639].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/510/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1202%2Fa
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1639
 
 

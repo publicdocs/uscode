@@ -21,7 +21,7 @@
 
     (c) Consistent with sections 819, 820, and 856(b) of this title (articles 19, 20, and 56(b)), only general courts-martial have jurisdiction over an offense specified in [section 856(b)(2) of this title][/us/usc/t10/s856/b/2] (article 56(b)(2)).
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 43][/us/stat/70A/43]; [Pub. L. 90–632, § 2(4)][/us/pl/90/632/s2/4], Oct. 24, 1968, [82 Stat. 1335][/us/stat/82/1335]; [Pub. L. 113–66, div. A, title XVII, § 1705(b)][/us/pl/113/66/s1705/b], Dec. 26, 2013, [127 Stat. 959][/us/stat/127/959].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 43][/us/stat/70A/43]; [Pub. L. 90–632][/us/pl/90/632], § 2(4), Oct. 24, 1968, [82 Stat. 1335][/us/stat/82/1335]; [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1705(b), Dec. 26, 2013, [127 Stat. 959][/us/stat/127/959].)
 
 <table>
 
@@ -77,7 +77,7 @@ May 5, 1950, ch. 169, § 1 (Art. 18), 64 Stat. 114.  </td>
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 113–66, div. A, title XVII, § 1705(c)][/us/pl/113/66/s1705/c], Dec. 26, 2013, [127 Stat. 960][/us/stat/127/960], provided that: 
+[Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1705(c), Dec. 26, 2013, [127 Stat. 960][/us/stat/127/960], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 856 of this title][/us/usc/t10/s856]\] shall take effect 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], and apply to offenses specified in [section 856(b)(2) of title 10][/us/usc/t10/s856/b/2], United States Code (article 56(b)(2) of the Uniform Code of Military Justice), as added by subsection (a)(1), committed on or after that date.”
 
@@ -97,13 +97,13 @@ May 5, 1950, ch. 169, § 1 (Art. 18), 64 Stat. 114.  </td>
 [/us/usc/t10/s856/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs856%2Fb%2F2
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F43
-[/us/pl/90/632/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F4
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1335
-[/us/pl/113/66/s1705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1705%2Fb
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F959
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
-[/us/pl/113/66/s1705/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1705%2Fc
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F960
 [/us/usc/t10/s856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs856
 [/us/usc/t10/s856/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs856%2Fb%2F2

@@ -17,7 +17,7 @@
 
     There is in the Office of the Secretary of the Army an Army Reserve Forces Policy Committee. The functions, membership, and organization of that committee are set forth in [section 10302 of this title][/us/usc/t10/s10302].
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1661(b)(4)(A)][/us/pl/103/337/s1661/b/4/A], Oct. 5, 1994, [108 Stat. 2982][/us/stat/108/2982].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1661(b)(4)(A), Oct. 5, 1994, [108 Stat. 2982][/us/stat/108/2982].)
 
  __Prior Provisions__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t10/s10302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10302
-[/us/pl/103/337/s1661/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fb%2F4%2FA
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2982
 [/us/usc/t10/s10302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10302
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691

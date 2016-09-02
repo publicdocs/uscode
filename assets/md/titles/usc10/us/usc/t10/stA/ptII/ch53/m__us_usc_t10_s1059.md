@@ -139,61 +139,61 @@
 
         (3) The authority of the Secretary concerned under paragraph (1) may not be delegated.
 
-(Added [Pub. L. 103–160, div. A, title V, § 554(a)(1)][/us/pl/103/160/s554/a/1], Nov. 30, 1993, [107 Stat. 1663][/us/stat/107/1663], § 1058; renumbered § 1059 and amended [Pub. L. 103–337, div. A, title V, § 535(a)][/us/pl/103/337/s535/a]–(c)(1), title X, § 1070(a)(5)(A), Oct. 5, 1994, [108 Stat. 2762][/us/stat/108/2762], 2763, 2855; [Pub. L. 104–106, div. A, title VI, § 636(a)][/us/pl/104/106/s636/a], (b), title XV, § 1503(a)(8), Feb. 10, 1996, [110 Stat. 367][/us/stat/110/367], 511; [Pub. L. 105–261, div. A, title V, § 570(a)][/us/pl/105/261/s570/a], (b), Oct. 17, 1998, [112 Stat. 2032][/us/stat/112/2032]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136], §§ 572(a), (b)(1), (c), 573(a), 574, Nov. 24, 2003, [117 Stat. 1484–1486][/us/stat/117/1484-1486]; [Pub. L. 112–239, div. A, title V, § 564(a)][/us/pl/112/239/s564/a], Jan. 2, 2013, [126 Stat. 1748][/us/stat/126/1748]; [Pub. L. 113–291, div. A, title VI, § 621][/us/pl/113/291/s621], Dec. 19, 2014, [128 Stat. 3401][/us/stat/128/3401].)
+(Added [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 554(a)(1), Nov. 30, 1993, [107 Stat. 1663][/us/stat/107/1663], § 1058; renumbered § 1059 and amended [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 535(a)–(c)(1), title X, § 1070(a)(5)(A), Oct. 5, 1994, [108 Stat. 2762][/us/stat/108/2762], 2763, 2855; [Pub. L. 104–106, div. A, title VI][/us/pl/104/106/dA/tVI], § 636(a), (b), title XV, § 1503(a)(8), Feb. 10, 1996, [110 Stat. 367][/us/stat/110/367], 511; [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 570(a), (b), Oct. 17, 1998, [112 Stat. 2032][/us/stat/112/2032]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], §§ 572(a), (b)(1), (c), 573(a), 574, Nov. 24, 2003, [117 Stat. 1484–1486][/us/stat/117/1484-1486]; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 564(a), Jan. 2, 2013, [126 Stat. 1748][/us/stat/126/1748]; [Pub. L. 113–291, div. A, title VI][/us/pl/113/291/dA/tVI], § 621, Dec. 19, 2014, [128 Stat. 3401][/us/stat/128/3401].)
 
  __Amendments__ 
 
     2014—Subsec. (d)(4). [Pub. L. 113–291][/us/pl/113/291] substituted “as of the date on which the separation action is initiated by a commander of the individual described in subsection (b)” for “as of the date on which the individual described in subsection (b) is separated from active duty”.
 
-    2013—Subsec. (f)(4). [Pub. L. 112–239, § 564(a)(1)][/us/pl/112/239/s564/a/1], added par. (4).
+    2013—Subsec. (f)(4). [Pub. L. 112–239][/us/pl/112/239], § 564(a)(1), added par. (4).
 
-    Subsec. (l). [Pub. L. 112–239, § 564(a)(2)][/us/pl/112/239/s564/a/2], substituted “or eligible spouse at the time of the dependent-abuse offense resulting in the separation of the former member or who was carried during pregnancy at the time of the dependent-abuse offense resulting in the separation of the former member and was subsequently born alive to the eligible spouse or former spouse” for “at the time of the dependent-abuse offense resulting in the separation of the former member” in introductory provisions.
+    Subsec. (l). [Pub. L. 112–239][/us/pl/112/239], § 564(a)(2), substituted “or eligible spouse at the time of the dependent-abuse offense resulting in the separation of the former member or who was carried during pregnancy at the time of the dependent-abuse offense resulting in the separation of the former member and was subsequently born alive to the eligible spouse or former spouse” for “at the time of the dependent-abuse offense resulting in the separation of the former member” in introductory provisions.
 
-    2003—Subsec. (b)(2). [Pub. L. 108–136, § 574][/us/pl/108/136/s574], inserted “, voluntarily or involuntarily,” after “administratively separated”.
+    2003—Subsec. (b)(2). [Pub. L. 108–136][/us/pl/108/136], § 574, inserted “, voluntarily or involuntarily,” after “administratively separated”.
 
-    Subsec. (e)(1)(A). [Pub. L. 108–136, § 572(a)][/us/pl/108/136/s572/a], substituted “shall commence—” and cls. (i) and (ii) for “shall commence as of the date of the approval of the court-martial sentence by the person acting under [section 860(c) of this title][/us/usc/t10/s860/c] (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; and”.
+    Subsec. (e)(1)(A). [Pub. L. 108–136][/us/pl/108/136], § 572(a), substituted “shall commence—” and cls. (i) and (ii) for “shall commence as of the date of the approval of the court-martial sentence by the person acting under [section 860(c) of this title][/us/usc/t10/s860/c] (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; and”.
 
-    Subsec. (e)(2). [Pub. L. 108–136, § 572(b)(1)][/us/pl/108/136/s572/b/1], substituted “a period of not less than 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned” for “a period of 36 months, except that, if as of the date on which payment of transitional compensation commences the unserved portion of the member’s period of obligated active duty service is less than 36 months, the period for which transitional compensation is paid shall be equal to the greater of—
+    Subsec. (e)(2). [Pub. L. 108–136][/us/pl/108/136], § 572(b)(1), substituted “a period of not less than 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned” for “a period of 36 months, except that, if as of the date on which payment of transitional compensation commences the unserved portion of the member’s period of obligated active duty service is less than 36 months, the period for which transitional compensation is paid shall be equal to the greater of—
 
     “(A) the unserved portion of the member’s period of obligated active duty service; or
 
     “(B) 12 months”.
 
-    Subsec. (e)(3)(A). [Pub. L. 108–136, § 572(c)][/us/pl/108/136/s572/c], substituted “conviction is disapproved by the person acting under [section 860(c) of this title][/us/usc/t10/s860/c] (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under [section 860(c) of this title][/us/usc/t10/s860/c], remitted, set aside, suspended, or mitigated” for “punishment applicable to the member under the sentence is remitted, set aside, or mitigated”.
+    Subsec. (e)(3)(A). [Pub. L. 108–136][/us/pl/108/136], § 572(c), substituted “conviction is disapproved by the person acting under [section 860(c) of this title][/us/usc/t10/s860/c] (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under [section 860(c) of this title][/us/usc/t10/s860/c], remitted, set aside, suspended, or mitigated” for “punishment applicable to the member under the sentence is remitted, set aside, or mitigated”.
 
-    Subsec. (m). [Pub. L. 108–136, § 573(a)][/us/pl/108/136/s573/a], added subsec. (m).
+    Subsec. (m). [Pub. L. 108–136][/us/pl/108/136], § 573(a), added subsec. (m).
 
     2002—Subsecs. (a), (k)(1). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
 
-    1998—Subsec. (d)(1). [Pub. L. 105–261, § 570(a)(1)][/us/pl/105/261/s570/a/1], struck out “(except as otherwise provided in this subsection)” after “such compensation shall” and inserted before period at end “, including an amount (determined under subsection (f)(2)) for each, if any, dependent child of the individual described in subsection (b) who resides in the same household as that spouse or former spouse”.
+    1998—Subsec. (d)(1). [Pub. L. 105–261][/us/pl/105/261], § 570(a)(1), struck out “(except as otherwise provided in this subsection)” after “such compensation shall” and inserted before period at end “, including an amount (determined under subsection (f)(2)) for each, if any, dependent child of the individual described in subsection (b) who resides in the same household as that spouse or former spouse”.
 
-    Subsec. (d)(2). [Pub. L. 105–261, § 570(a)(2)][/us/pl/105/261/s570/a/2], substituted “is or, but for subsection (g), would be eligible” for “(but for subsection (g)) would be eligible” and “compensation under this section shall” for “such compensation shall”.
+    Subsec. (d)(2). [Pub. L. 105–261][/us/pl/105/261], § 570(a)(2), substituted “is or, but for subsection (g), would be eligible” for “(but for subsection (g)) would be eligible” and “compensation under this section shall” for “such compensation shall”.
 
-    Subsec. (d)(4). [Pub. L. 105–261, § 570(a)(3)][/us/pl/105/261/s570/a/3], substituted “For purposes of this subsection” for “For purposes of paragraphs (2) and (3)”.
+    Subsec. (d)(4). [Pub. L. 105–261][/us/pl/105/261], § 570(a)(3), substituted “For purposes of this subsection” for “For purposes of paragraphs (2) and (3)”.
 
-    Subsec. (f)(2). [Pub. L. 105–261, § 570(b)][/us/pl/105/261/s570/b], substituted “has custody of a dependent child of the member who resides in the same household as that spouse or former spouse” for “has custody of a dependent child or children of the member”.
+    Subsec. (f)(2). [Pub. L. 105–261][/us/pl/105/261], § 570(b), substituted “has custody of a dependent child of the member who resides in the same household as that spouse or former spouse” for “has custody of a dependent child or children of the member”.
 
-    1996—Subsec. (a). [Pub. L. 104–106, § 636(a)][/us/pl/104/106/s636/a], inserted at end “Upon establishment of such a program, the program shall apply in the case of each such member described in subsection (b) who is under the jurisdiction of the Secretary establishing the program.”
+    1996—Subsec. (a). [Pub. L. 104–106][/us/pl/104/106], § 636(a), inserted at end “Upon establishment of such a program, the program shall apply in the case of each such member described in subsection (b) who is under the jurisdiction of the Secretary establishing the program.”
 
-    Subsec. (c)(2). [Pub. L. 104–106, § 1503(a)(8)][/us/pl/104/106/s1503/a/8], substituted “subsection (k)” for “subsection (j)”.
+    Subsec. (c)(2). [Pub. L. 104–106][/us/pl/104/106], § 1503(a)(8), substituted “subsection (k)” for “subsection (j)”.
 
-    Subsec. (d). [Pub. L. 104–106, § 636(b)(1)][/us/pl/104/106/s636/b/1], in introductory provisions, substituted “the case of any individual described in subsection (b)” for “any case of a separation from active duty as described in subsection (b)” and “dependents of the individual” for “dependents of the former member”.
+    Subsec. (d). [Pub. L. 104–106][/us/pl/104/106], § 636(b)(1), in introductory provisions, substituted “the case of any individual described in subsection (b)” for “any case of a separation from active duty as described in subsection (b)” and “dependents of the individual” for “dependents of the former member”.
 
-    Subsec. (d)(1). [Pub. L. 104–106, § 636(b)(2)][/us/pl/104/106/s636/b/2], substituted “If the individual” for “If the former member” and “to whom the individual” for “to whom the member”.
+    Subsec. (d)(1). [Pub. L. 104–106][/us/pl/104/106], § 636(b)(2), substituted “If the individual” for “If the former member” and “to whom the individual” for “to whom the member”.
 
-    Subsec. (d)(2). [Pub. L. 104–106, § 636(b)(3)][/us/pl/104/106/s636/b/3], substituted “individual described in subsection (b)” for “former member” in two places.
+    Subsec. (d)(2). [Pub. L. 104–106][/us/pl/104/106], § 636(b)(3), substituted “individual described in subsection (b)” for “former member” in two places.
 
-    Subsec. (d)(3). [Pub. L. 104–106, § 636(b)(4)][/us/pl/104/106/s636/b/4], substituted “individual described in subsection (b)” for “former member”.
+    Subsec. (d)(3). [Pub. L. 104–106][/us/pl/104/106], § 636(b)(4), substituted “individual described in subsection (b)” for “former member”.
 
-    Subsec. (d)(4). [Pub. L. 104–106, § 636(b)(5)][/us/pl/104/106/s636/b/5], substituted “individual described in subsection (b)” for “member” in two places.
+    Subsec. (d)(4). [Pub. L. 104–106][/us/pl/104/106], § 636(b)(5), substituted “individual described in subsection (b)” for “member” in two places.
 
-    Subsec. (g)(3). [Pub. L. 104–106, § 1503(a)(8)][/us/pl/104/106/s1503/a/8], substituted “subsection (k))” for “subsection (j))”.
+    Subsec. (g)(3). [Pub. L. 104–106][/us/pl/104/106], § 1503(a)(8), substituted “subsection (k))” for “subsection (j))”.
 
-    1994—[Pub. L. 103–337, § 1070(a)(5)(A)][/us/pl/103/337/s1070/a/5/A], renumbered [section 1058 of this title][/us/usc/t10/s1058] as this section.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 1070(a)(5)(A), renumbered [section 1058 of this title][/us/usc/t10/s1058] as this section.
 
-    [Pub. L. 103–337, § 535(c)(1)][/us/pl/103/337/s535/c/1], inserted “; commissary and exchange benefits” at end of section catchline.
+    [Pub. L. 103–337][/us/pl/103/337], § 535(c)(1), inserted “; commissary and exchange benefits” at end of section catchline.
 
-    Subsec. (e). [Pub. L. 103–337, § 535(a)][/us/pl/103/337/s535/a], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
+    Subsec. (e). [Pub. L. 103–337][/us/pl/103/337], § 535(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
 
     “(e) Commencement and Duration of Payment.—(1) Payment of transitional compensation under this section shall commence as of the date of the discontinuance of the member’s pay and allowances pursuant to the separation or sentencing of the member and, except as provided in paragraph (2), shall be paid for a period of 36 months.
 
@@ -203,21 +203,21 @@
 
     “(B) 12 months.”
 
-    Subsecs. (j) to (l). [Pub. L. 103–337, § 535(b)][/us/pl/103/337/s535/b], added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (l), respectively.
+    Subsecs. (j) to (l). [Pub. L. 103–337][/us/pl/103/337], § 535(b), added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (l), respectively.
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–239, div. A, title V, § 564(b)][/us/pl/112/239/s564/b], Jan. 2, 2013, [126 Stat. 1749][/us/stat/126/1749], provided that: 
+[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 564(b), Jan. 2, 2013, [126 Stat. 1749][/us/stat/126/1749], provided that: 
 
 > “No benefits shall accrue by reason of the amendments made by this section \[amending this section\] for any month that begins before the date of the enactment of this Act \[Jan. 2, 2013\].”
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–136, div. A, title V, § 572(d)][/us/pl/108/136/s572/d], Nov. 24, 2003, [117 Stat. 1485][/us/stat/117/1485], provided that: 
+[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 572(d), Nov. 24, 2003, [117 Stat. 1485][/us/stat/117/1485], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply only with respect to cases in which a court-martial sentence is adjudged on or after the date of the enactment of this Act \[Nov. 24, 2003\].”
 
-[Pub. L. 108–136, div. A, title V, § 573(b)][/us/pl/108/136/s573/b], Nov. 24, 2003, [117 Stat. 1485][/us/stat/117/1485], provided that: 
+[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 573(b), Nov. 24, 2003, [117 Stat. 1485][/us/stat/117/1485], provided that: 
 
 > “The authority under subsection (m) of [section 1059 of title 10][/us/usc/t10/s1059], United States Code, as added by subsection (a), may be exercised with respect to eligibility for benefits under that section only for dependents and former dependents of individuals who are separated from active duty in the Armed Forces on or after the date of the enactment of this Act \[Nov. 24, 2003\].”
 
@@ -227,13 +227,13 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–261, div. A, title V, § 570(c)][/us/pl/105/261/s570/c], Oct. 17, 1998, [112 Stat. 2032][/us/stat/112/2032], provided that: 
+[Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 570(c), Oct. 17, 1998, [112 Stat. 2032][/us/stat/112/2032], provided that: 
 
 > “No benefits shall accrue by reason of the amendments made by this section \[amending this section\] for any month that begins before the date of the enactment of this Act \[Oct. 17, 1998\].”
 
  __Effective Date__ 
 
-[Pub. L. 103–160, div. A, title V, § 554(b)][/us/pl/103/160/s554/b], Nov. 30, 1993, [107 Stat. 1666][/us/stat/107/1666], as amended by [Pub. L. 103–337, div. A, title X, § 1070(b)(5)][/us/pl/103/337/s1070/b/5], Oct. 5, 1994, [108 Stat. 2856][/us/stat/108/2856]; [Pub. L. 104–106, div. A, title VI, § 636(c)][/us/pl/104/106/s636/c], Feb. 10, 1996, [110 Stat. 367][/us/stat/110/367], provided that:
+[Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 554(b), Nov. 30, 1993, [107 Stat. 1666][/us/stat/107/1666], as amended by [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(b)(5), Oct. 5, 1994, [108 Stat. 2856][/us/stat/108/2856]; [Pub. L. 104–106, div. A, title VI][/us/pl/104/106/dA/tVI], § 636(c), Feb. 10, 1996, [110 Stat. 367][/us/stat/110/367], provided that:
 
 >     “(1)
 
@@ -247,7 +247,7 @@
 
  __Duration of Transitional Compensation Payments__ 
 
-[Pub. L. 108–136, div. A, title V, § 572(b)(2)][/us/pl/108/136/s572/b/2], Nov. 24, 2003, [117 Stat. 1485][/us/stat/117/1485], provided that: 
+[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 572(b)(2), Nov. 24, 2003, [117 Stat. 1485][/us/stat/117/1485], provided that: 
 
 > “Policies under subsection (e)(2) of [section 1059 of title 10][/us/usc/t10/s1059], United States Code, as amended by paragraph (1), for the duration of transitional compensation payments under that section shall be prescribed under such subsection not later than six months after the date of the enactment of this Act \[Nov. 24, 2003\].”
 
@@ -266,70 +266,70 @@
 [/us/usc/t38/s1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1313
 [/us/usc/t10/s1408/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1408%2Fh%2F1
 [/us/usc/t10/s1408/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1408%2Fh%2F1
-[/us/pl/103/160/s554/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs554%2Fa%2F1
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1663
-[/us/pl/103/337/s535/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs535%2Fa
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2762
-[/us/pl/104/106/s636/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs636%2Fa
+[/us/pl/104/106/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVI
 [/us/stat/110/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F367
-[/us/pl/105/261/s570/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs570%2Fa
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2032
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1484-1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1484-1486
-[/us/pl/112/239/s564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs564%2Fa
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1748
-[/us/pl/113/291/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs621
+[/us/pl/113/291/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVI
 [/us/stat/128/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3401
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
-[/us/pl/112/239/s564/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs564%2Fa%2F1
-[/us/pl/112/239/s564/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs564%2Fa%2F2
-[/us/pl/108/136/s574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs574
-[/us/pl/108/136/s572/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs572%2Fa
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t10/s860/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs860%2Fc
-[/us/pl/108/136/s572/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs572%2Fb%2F1
-[/us/pl/108/136/s572/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs572%2Fc
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t10/s860/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs860%2Fc
 [/us/usc/t10/s860/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs860%2Fc
-[/us/pl/108/136/s573/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs573%2Fa
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/105/261/s570/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs570%2Fa%2F1
-[/us/pl/105/261/s570/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs570%2Fa%2F2
-[/us/pl/105/261/s570/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs570%2Fa%2F3
-[/us/pl/105/261/s570/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs570%2Fb
-[/us/pl/104/106/s636/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs636%2Fa
-[/us/pl/104/106/s1503/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1503%2Fa%2F8
-[/us/pl/104/106/s636/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs636%2Fb%2F1
-[/us/pl/104/106/s636/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs636%2Fb%2F2
-[/us/pl/104/106/s636/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs636%2Fb%2F3
-[/us/pl/104/106/s636/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs636%2Fb%2F4
-[/us/pl/104/106/s636/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs636%2Fb%2F5
-[/us/pl/104/106/s1503/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1503%2Fa%2F8
-[/us/pl/103/337/s1070/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fa%2F5%2FA
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1058
-[/us/pl/103/337/s535/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs535%2Fc%2F1
-[/us/pl/103/337/s535/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs535%2Fa
-[/us/pl/103/337/s535/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs535%2Fb
-[/us/pl/112/239/s564/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs564%2Fb
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1749
-[/us/pl/108/136/s572/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs572%2Fd
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1485
-[/us/pl/108/136/s573/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs573%2Fb
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1485
 [/us/usc/t10/s1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1059
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/105/261/s570/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs570%2Fc
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2032
-[/us/pl/103/160/s554/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs554%2Fb
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1666
-[/us/pl/103/337/s1070/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fb%2F5
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2856
-[/us/pl/104/106/s636/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs636%2Fc
+[/us/pl/104/106/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVI
 [/us/stat/110/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F367
-[/us/pl/108/136/s572/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs572%2Fb%2F2
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1485
 [/us/usc/t10/s1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1059
 

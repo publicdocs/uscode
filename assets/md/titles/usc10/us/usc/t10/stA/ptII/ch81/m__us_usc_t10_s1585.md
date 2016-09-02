@@ -17,7 +17,7 @@
 
     Under regulations to be prescribed by the Secretary of Defense, civilian officers and employees of the Department of Defense may carry firearms or other appropriate weapons while assigned investigative duties or such other duties as the Secretary may prescribe.
 
-(Added [Pub. L. 85–577, § 1(1)][/us/pl/85/577/s1/1], July 31, 1958, [72 Stat. 455][/us/stat/72/455].)
+(Added [Pub. L. 85–577][/us/pl/85/577], § 1(1), July 31, 1958, [72 Stat. 455][/us/stat/72/455].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/577/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F577%2Fs1%2F1
+[/us/pl/85/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F577
 [/us/stat/72/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F455
 
 

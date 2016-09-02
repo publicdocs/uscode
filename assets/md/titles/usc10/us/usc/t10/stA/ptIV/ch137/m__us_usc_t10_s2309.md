@@ -19,7 +19,7 @@
 
     (b) A disbursing official of the allotting agency may make any disbursement chargeable to an allotment under subsection (a) upon a voucher certified by an officer or civilian employee of the procuring agency.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 132][/us/stat/70A/132]; [Pub. L. 97–258, § 2(b)(1)(B)][/us/pl/97/258/s2/b/1/B], Sept. 13, 1982, [96 Stat. 1052][/us/stat/96/1052].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 132][/us/stat/70A/132]; [Pub. L. 97–258][/us/pl/97/258], § 2(b)(1)(B), Sept. 13, 1982, [96 Stat. 1052][/us/stat/96/1052].)
 
 <table>
 
@@ -87,7 +87,7 @@ Feb. 19, 1948, ch. 65, § 10 (less 1st sentence), 62 Stat. 25.  </td>
 [/us/usc/t10/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2303
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F132
-[/us/pl/97/258/s2/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F1%2FB
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1052
 [/us/usc/t10/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2303
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258

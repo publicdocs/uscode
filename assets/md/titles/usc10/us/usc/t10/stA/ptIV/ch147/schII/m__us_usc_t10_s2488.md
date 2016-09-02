@@ -49,7 +49,7 @@
 
     In this section, the term “nonappropriated fund instrumentality” means the Army and Air Force Exchange Service, Navy Exchange Service Command, Marine Corps exchanges, or any other instrumentality of the United States under the jurisdiction of the armed forces which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the armed forces.
 
-(Added [Pub. L. 104–106, div. A, title III, § 336(a)(1)][/us/pl/104/106/s336/a/1], Feb. 10, 1996, [110 Stat. 263][/us/stat/110/263], § 2490a; amended [Pub. L. 105–85, div. A, title X, § 1061(d)][/us/pl/105/85/s1061/d], Nov. 18, 1997, [111 Stat. 1891][/us/stat/111/1891]; [Pub. L. 108–136, div. A, title X, § 1043(c)(2)][/us/pl/108/136/s1043/c/2], Nov. 24, 2003, [117 Stat. 1611][/us/stat/117/1611]; renumbered § 2488, [Pub. L. 108–375, div. A, title VI, § 651(b)(3)][/us/pl/108/375/s651/b/3], Oct. 28, 2004, [118 Stat. 1971][/us/stat/118/1971]; [Pub. L. 111–383, div. A, title X, § 1075(b)(37)][/us/pl/111/383/s1075/b/37], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371].)
+(Added [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 336(a)(1), Feb. 10, 1996, [110 Stat. 263][/us/stat/110/263], § 2490a; amended [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1061(d), Nov. 18, 1997, [111 Stat. 1891][/us/stat/111/1891]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1043(c)(2), Nov. 24, 2003, [117 Stat. 1611][/us/stat/117/1611]; renumbered § 2488, [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 651(b)(3), Oct. 28, 2004, [118 Stat. 1971][/us/stat/118/1971]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(37), Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 
     2004—[Pub. L. 108–375][/us/pl/108/375] renumbered [section 2490a of this title][/us/usc/t10/s2490a] as this section.
 
-    2003—Subsec. (f). [Pub. L. 108–136, § 1043(c)(2)][/us/pl/108/136/s1043/c/2], substituted “Nonappropriated Fund Instrumentality Defined.—In this section, the term” for “Definitions.—In this section:
+    2003—Subsec. (f). [Pub. L. 108–136][/us/pl/108/136], § 1043(c)(2), substituted “Nonappropriated Fund Instrumentality Defined.—In this section, the term” for “Definitions.—In this section:
 
     “(1) The term”
 
@@ -82,15 +82,15 @@
 
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/stat/108/2736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2736
-[/us/pl/104/106/s336/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs336%2Fa%2F1
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F263
-[/us/pl/105/85/s1061/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1061%2Fd
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1891
-[/us/pl/108/136/s1043/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1043%2Fc%2F2
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1611
-[/us/pl/108/375/s651/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs651%2Fb%2F3
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1971
-[/us/pl/111/383/s1075/b/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F37
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4371
 [/us/pl/103/337/s375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs375
 [/us/stat/108/2736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2736
@@ -98,7 +98,7 @@
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t10/s2490a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2490a
-[/us/pl/108/136/s1043/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1043%2Fc%2F2
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t10/s2667/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2667%2Fh
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 

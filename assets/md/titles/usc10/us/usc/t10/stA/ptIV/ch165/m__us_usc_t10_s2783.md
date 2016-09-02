@@ -43,19 +43,19 @@
 
         (3) The Secretary shall prescribe regulations to protect the confidentiality of a person making a notification under paragraph (1).
 
-(Added [Pub. L. 102–484, div. A, title III, § 362(a)][/us/pl/102/484/s362/a], Oct. 23, 1992, [106 Stat. 2379][/us/stat/106/2379], § 2490a; renumbered § 2783 and amended [Pub. L. 103–160, div. A, title XI, § 1182(a)(8)(A)][/us/pl/103/160/s1182/a/8/A], Nov. 30, 1993, [107 Stat. 1771][/us/stat/107/1771].)
+(Added [Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 362(a), Oct. 23, 1992, [106 Stat. 2379][/us/stat/106/2379], § 2490a; renumbered § 2783 and amended [Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1182(a)(8)(A), Nov. 30, 1993, [107 Stat. 1771][/us/stat/107/1771].)
 
  __Amendments__ 
 
     1993—[Pub. L. 103–160][/us/pl/103/160] renumbered [section 2490a of this title][/us/usc/t10/s2490a] as this section.
 
-    Subsec. (b)(2). [Pub. L. 103–160, § 1182(a)(8)(A)(i)][/us/pl/103/160/s1182/a/8/A/i], substituted “chapter 47 of this title” for “chapter 47 of title 10, United States Code”, “Justice) is” for “Justice), is”, and “[section 892 of this title][/us/usc/t10/s892]” for “section 892 of such title”.
+    Subsec. (b)(2). [Pub. L. 103–160][/us/pl/103/160], § 1182(a)(8)(A)(i), substituted “chapter 47 of this title” for “chapter 47 of title 10, United States Code”, “Justice) is” for “Justice), is”, and “[section 892 of this title][/us/usc/t10/s892]” for “section 892 of such title”.
 
-    Subsec. (c)(1). [Pub. L. 103–160, § 1182(a)(8)(A)(ii)][/us/pl/103/160/s1182/a/8/A/ii], substituted “armed forces” for “Armed Forces”.
+    Subsec. (c)(1). [Pub. L. 103–160][/us/pl/103/160], § 1182(a)(8)(A)(ii), substituted “armed forces” for “Armed Forces”.
 
  __Standardization of Certain Programs and Activities of Military Exchanges__ 
 
-[Pub. L. 102–484, div. A, title III, § 361][/us/pl/102/484/s361], Oct. 23, 1992, [106 Stat. 2379][/us/stat/106/2379], provided that:
+[Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 361, Oct. 23, 1992, [106 Stat. 2379][/us/stat/106/2379], provided that:
 
 >     “(a)  __Standardization of Exchanges__  __.—__ 
 
@@ -83,16 +83,16 @@
 ----------
 
 [/us/usc/t10/s892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs892
-[/us/pl/102/484/s362/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs362%2Fa
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2379
-[/us/pl/103/160/s1182/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fa%2F8%2FA
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1771
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/usc/t10/s2490a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2490a
-[/us/pl/103/160/s1182/a/8/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fa%2F8%2FA%2Fi
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/usc/t10/s892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs892
-[/us/pl/103/160/s1182/a/8/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fa%2F8%2FA%2Fii
-[/us/pl/102/484/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs361
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2379
 
 

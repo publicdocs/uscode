@@ -203,7 +203,7 @@
 
         (3) The term “unlawful discrimination” means discrimination on the basis of race, color, religion, sex, or national origin.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 80][/us/stat/70A/80]; [Pub. L. 98–525, title XIV, § 1405(19)(A)][/us/pl/98/525/s1405/19/A], (B)(i), Oct. 19, 1984, [98 Stat. 2622][/us/stat/98/2622]; [Pub. L. 100–456, div. A, title VIII, § 846(a)(1)][/us/pl/100/456/s846/a/1], Sept. 29, 1988, [102 Stat. 2027][/us/stat/102/2027]; [Pub. L. 101–225, title II, § 202][/us/pl/101/225/s202], Dec. 12, 1989, [103 Stat. 1910][/us/stat/103/1910]; [Pub. L. 103–337, div. A, title V, § 531(a)][/us/pl/103/337/s531/a]–(g)(1), Oct. 5, 1994, [108 Stat. 2756–2758][/us/stat/108/2756-2758]; [Pub. L. 105–261, div. A, title IX, § 933][/us/pl/105/261/s933], Oct. 17, 1998, [112 Stat. 2107][/us/stat/112/2107]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 903\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–224; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–375, div. A, title V, § 591(a)][/us/pl/108/375/s591/a], Oct. 28, 2004, [118 Stat. 1933][/us/stat/118/1933]; [Pub. L. 110–181, div. A, title X, § 1063(a)(8)][/us/pl/110/181/s1063/a/8], Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322]; [Pub. L. 112–81, div. A, title V, § 523][/us/pl/112/81/s523], Dec. 31, 2011, [125 Stat. 1401][/us/stat/125/1401]; [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66], §§ 1714, 1715, Dec. 26, 2013, [127 Stat. 964–966][/us/stat/127/964-966].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 80][/us/stat/70A/80]; [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(19)(A), (B)(i), Oct. 19, 1984, [98 Stat. 2622][/us/stat/98/2622]; [Pub. L. 100–456, div. A, title VIII][/us/pl/100/456/dA/tVIII], § 846(a)(1), Sept. 29, 1988, [102 Stat. 2027][/us/stat/102/2027]; [Pub. L. 101–225, title II][/us/pl/101/225/tII], § 202, Dec. 12, 1989, [103 Stat. 1910][/us/stat/103/1910]; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 531(a)–(g)(1), Oct. 5, 1994, [108 Stat. 2756–2758][/us/stat/108/2756-2758]; [Pub. L. 105–261, div. A, title IX][/us/pl/105/261/dA/tIX], § 933, Oct. 17, 1998, [112 Stat. 2107][/us/stat/112/2107]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 903\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–224; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 591(a), Oct. 28, 2004, [118 Stat. 1933][/us/stat/118/1933]; [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1063(a)(8), Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 523, Dec. 31, 2011, [125 Stat. 1401][/us/stat/125/1401]; [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], §§ 1714, 1715, Dec. 26, 2013, [127 Stat. 964–966][/us/stat/127/964-966].)
 
 <table>
 
@@ -257,31 +257,31 @@ June 24, 1948, ch. 625, § 4(a) (last par.); restated June 19, 1951, ch. 144, 
 
  __Amendments__ 
 
-    2013—Subsec. (b)(1). [Pub. L. 113–66, § 1714(a)(1)(A)][/us/pl/113/66/s1714/a/1/A], substituted “preparing or being perceived as making or preparing—” for “preparing—” in introductory provisions.
+    2013—Subsec. (b)(1). [Pub. L. 113–66][/us/pl/113/66], § 1714(a)(1)(A), substituted “preparing or being perceived as making or preparing—” for “preparing—” in introductory provisions.
 
-    Subsec. (b)(1)(B)(v), (vi). [Pub. L. 113–66, § 1714(a)(1)(C)][/us/pl/113/66/s1714/a/1/C], added cl. (v) and redesignated former cl. (v) as (vi).
+    Subsec. (b)(1)(B)(v), (vi). [Pub. L. 113–66][/us/pl/113/66], § 1714(a)(1)(C), added cl. (v) and redesignated former cl. (v) as (vi).
 
-    Subsec. (b)(1)(C). [Pub. L. 113–66, § 1714(a)(1)(B)][/us/pl/113/66/s1714/a/1/B], (C)(ii), (D), added subpar. (C).
+    Subsec. (b)(1)(C). [Pub. L. 113–66][/us/pl/113/66], § 1714(a)(1)(B), (C)(ii), (D), added subpar. (C).
 
-    Subsec. (b)(2). [Pub. L. 113–66, § 1714(a)(2)][/us/pl/113/66/s1714/a/2], substituted a comma for “and” after “unfavorable action” and inserted “, or making or threatening to make a significant change in the duties or responsibilities of a member of the armed forces not commensurate with the member’s grade” after “favorable action”.
+    Subsec. (b)(2). [Pub. L. 113–66][/us/pl/113/66], § 1714(a)(2), substituted a comma for “and” after “unfavorable action” and inserted “, or making or threatening to make a significant change in the duties or responsibilities of a member of the armed forces not commensurate with the member’s grade” after “favorable action”.
 
-    Subsec. (c)(1). [Pub. L. 113–66, § 1714(b)(1)][/us/pl/113/66/s1714/b/1], substituted “paragraph (4)” for “paragraph (3)”.
+    Subsec. (c)(1). [Pub. L. 113–66][/us/pl/113/66], § 1714(b)(1), substituted “paragraph (4)” for “paragraph (3)”.
 
-    Subsec. (c)(2)(A). [Pub. L. 113–66, § 1715][/us/pl/113/66/s1715], substituted “rape, sexual assault, or other sexual misconduct in violation of sections 920 through 920c of this title (articles 120 through 120c of the Uniform Code of Military Justice), sexual harassment, or” for “sexual harassment or”.
+    Subsec. (c)(2)(A). [Pub. L. 113–66][/us/pl/113/66], § 1715, substituted “rape, sexual assault, or other sexual misconduct in violation of sections 920 through 920c of this title (articles 120 through 120c of the Uniform Code of Military Justice), sexual harassment, or” for “sexual harassment or”.
 
-    Subsec. (c)(3) to (6). [Pub. L. 113–66, § 1714(b)(2)][/us/pl/113/66/s1714/b/2]–(5), added par. (3), redesignated former pars. (3) to (5) as (4) to (6), respectively, in par. (5), substituted “paragraph (4)(A)” for “paragraph (3)(A)”, “paragraph (4)(D)” for “paragraph (3)(D)”, and “one year” for “60 days”, and in par. (6), substituted “one or both of the following:” and subpars. (A) and (B) for “outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.”
+    Subsec. (c)(3) to (6). [Pub. L. 113–66][/us/pl/113/66], § 1714(b)(2)–(5), added par. (3), redesignated former pars. (3) to (5) as (4) to (6), respectively, in par. (5), substituted “paragraph (4)(A)” for “paragraph (3)(A)”, “paragraph (4)(D)” for “paragraph (3)(D)”, and “one year” for “60 days”, and in par. (6), substituted “one or both of the following:” and subpars. (A) and (B) for “outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.”
 
-    Subsec. (d). [Pub. L. 113–66, § 1714(c)][/us/pl/113/66/s1714/c], substituted “subparagraph (A), (B), or (C) of subsection (c)(2)” for “subparagraph (A) or (B) of subsection (c)(2)”.
+    Subsec. (d). [Pub. L. 113–66][/us/pl/113/66], § 1714(c), substituted “subparagraph (A), (B), or (C) of subsection (c)(2)” for “subparagraph (A) or (B) of subsection (c)(2)”.
 
-    Subsec. (e)(1). [Pub. L. 113–66, § 1714(d)(1)][/us/pl/113/66/s1714/d/1], substituted “subsection (c)(4)(E)” for “subsection (c)(3)(E)” in two places and “transmitted to such Secretaries” for “transmitted to the Secretary” and inserted “and the Secretary of the military department concerned” after “the Secretary of Defense”.
+    Subsec. (e)(1). [Pub. L. 113–66][/us/pl/113/66], § 1714(d)(1), substituted “subsection (c)(4)(E)” for “subsection (c)(3)(E)” in two places and “transmitted to such Secretaries” for “transmitted to the Secretary” and inserted “and the Secretary of the military department concerned” after “the Secretary of Defense”.
 
-    Subsec. (e)(3). [Pub. L. 113–66, § 1714(d)(2)][/us/pl/113/66/s1714/d/2], inserted “and the Secretary of the military department concerned” after “the Secretary of Defense” in introductory provisions.
+    Subsec. (e)(3). [Pub. L. 113–66][/us/pl/113/66], § 1714(d)(2), inserted “and the Secretary of the military department concerned” after “the Secretary of Defense” in introductory provisions.
 
-    Subsec. (f). [Pub. L. 113–66, § 1714(e)(2)][/us/pl/113/66/s1714/e/2], added subsec. (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 113–66][/us/pl/113/66], § 1714(e)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 113–66, § 1714(e)(1)][/us/pl/113/66/s1714/e/1], (f), redesignated subsec. (f) as (g), and in par. (3), substituted “board holds” for “board elects to hold” in introductory provisions and “the member or former member would benefit from” for “the case is unusually complex or otherwise requires” in subpar. (A)(ii). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 113–66][/us/pl/113/66], § 1714(e)(1), (f), redesignated subsec. (f) as (g), and in par. (3), substituted “board holds” for “board elects to hold” in introductory provisions and “the member or former member would benefit from” for “the case is unusually complex or otherwise requires” in subpar. (A)(ii). Former subsec. (g) redesignated (h).
 
-    Subsecs. (h) to (j). [Pub. L. 113–66, § 1714(e)(1)][/us/pl/113/66/s1714/e/1], redesignated subsecs. (g) to (i) as (h) to (j), respectively.
+    Subsecs. (h) to (j). [Pub. L. 113–66][/us/pl/113/66], § 1714(e)(1), redesignated subsecs. (g) to (i) as (h) to (j), respectively.
 
     2011—Subsec. (c)(2)(C). [Pub. L. 112–81][/us/pl/112/81] added subpar. (C).
 
@@ -291,11 +291,11 @@ June 24, 1948, ch. 625, § 4(a) (last par.); restated June 19, 1951, ch. 144, 
 
     2002—Subsecs. (c)(5), (e)(1), (3), (h), (i)(2)(B). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
 
-    2000—Subsec. (c)(3)(A). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 903(a)\], inserted “, in accordance with regulations prescribed under subsection (h),” after “shall expeditiously determine”.
+    2000—Subsec. (c)(3)(A). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 903(a)\], inserted “, in accordance with regulations prescribed under subsection (h),” after “shall expeditiously determine”.
 
-    Subsec. (i)(2). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 903(b)(1)\], inserted “any of” after “means” in introductory provisions.
+    Subsec. (i)(2). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 903(b)(1)\], inserted “any of” after “means” in introductory provisions.
 
-    Subsec. (i)(2)(C) to (G). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 903(b)(2), (3)\], added subpar. (C) and struck out former subpars. (C) to (G) which read as follows:
+    Subsec. (i)(2)(C) to (G). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 903(b)(2), (3)\], added subpar. (C) and struck out former subpars. (C) to (G) which read as follows:
 
     “(C) The Inspector General of the Army, in the case of a member of the Army.
 
@@ -307,79 +307,79 @@ June 24, 1948, ch. 625, § 4(a) (last par.); restated June 19, 1951, ch. 144, 
 
     “(G) An officer of the armed forces assigned or detailed under regulations of the Secretary concerned to serve as an Inspector General at any command level in one of the armed forces.”
 
-    1998—Subsec. (b)(1)(B)(ii). [Pub. L. 105–261, § 933(f)(2)][/us/pl/105/261/s933/f/2], substituted “subsection (i)) or any other Inspector General appointed under the Inspector General Act of 1978” for “subsection (j))”.
+    1998—Subsec. (b)(1)(B)(ii). [Pub. L. 105–261][/us/pl/105/261], § 933(f)(2), substituted “subsection (i)) or any other Inspector General appointed under the Inspector General Act of 1978” for “subsection (j))”.
 
-    Subsec. (c)(1). [Pub. L. 105–261, § 933(a)(1)(A)][/us/pl/105/261/s933/a/1/A], added par. (1) and struck out former par. (1) which read as follows: “If a member of the armed forces submits to the Inspector General of the Department of Defense (or the Inspector General of the Department of Transportation, in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) an allegation that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in paragraph (2), the Inspector General shall expeditiously investigate the allegation. If, in the case of an allegation submitted to the Inspector General of the Department of Defense, the Inspector General delegates the conduct of the investigation of the allegation to the inspector general of one of the armed forces, the Inspector General of the Department of Defense shall ensure that the inspector general conducting the investigation is outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.”
+    Subsec. (c)(1). [Pub. L. 105–261][/us/pl/105/261], § 933(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “If a member of the armed forces submits to the Inspector General of the Department of Defense (or the Inspector General of the Department of Transportation, in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) an allegation that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in paragraph (2), the Inspector General shall expeditiously investigate the allegation. If, in the case of an allegation submitted to the Inspector General of the Department of Defense, the Inspector General delegates the conduct of the investigation of the allegation to the inspector general of one of the armed forces, the Inspector General of the Department of Defense shall ensure that the inspector general conducting the investigation is outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.”
 
-    Subsec. (c)(2)(B). [Pub. L. 105–261, § 933(b)][/us/pl/105/261/s933/b], substituted “Gross mismanagement” for “Mismanagement”.
+    Subsec. (c)(2)(B). [Pub. L. 105–261][/us/pl/105/261], § 933(b), substituted “Gross mismanagement” for “Mismanagement”.
 
-    Subsec. (c)(3) to (5). [Pub. L. 105–261, § 933(a)(1)(B)][/us/pl/105/261/s933/a/1/B], added pars. (3) to (5) and struck out former par. (3) which read as follows: “The Inspector General is not required to make an investigation under paragraph (1) in the case of an allegation made more than 60 days after the date on which the member becomes aware of the personnel action that is the subject of the allegation.”
+    Subsec. (c)(3) to (5). [Pub. L. 105–261][/us/pl/105/261], § 933(a)(1)(B), added pars. (3) to (5) and struck out former par. (3) which read as follows: “The Inspector General is not required to make an investigation under paragraph (1) in the case of an allegation made more than 60 days after the date on which the member becomes aware of the personnel action that is the subject of the allegation.”
 
-    Subsec. (d). [Pub. L. 105–261, § 933(a)(2)][/us/pl/105/261/s933/a/2], inserted “receiving the allegation” after “, the Inspector General” and “In the case of an allegation received by the Inspector General of the Department of Defense, the Inspector General may delegate that responsibility to the Inspector General of the armed force concerned.” at end.
+    Subsec. (d). [Pub. L. 105–261][/us/pl/105/261], § 933(a)(2), inserted “receiving the allegation” after “, the Inspector General” and “In the case of an allegation received by the Inspector General of the Department of Defense, the Inspector General may delegate that responsibility to the Inspector General of the armed force concerned.” at end.
 
-    Subsec. (e)(1). [Pub. L. 105–261, § 933(c)(1)][/us/pl/105/261/s933/c/1], substituted “After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E), the Inspector General conducting the investigation shall submit a report on” for “Not later than 30 days after completion of an investigation under subsection (c) or (d), the Inspector General shall submit a report on” and inserted “shall transmit a copy of the report on the results of the investigation to” before “the member of the armed forces” and “The report shall be transmitted to the Secretary, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E).” at end.
+    Subsec. (e)(1). [Pub. L. 105–261][/us/pl/105/261], § 933(c)(1), substituted “After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E), the Inspector General conducting the investigation shall submit a report on” for “Not later than 30 days after completion of an investigation under subsection (c) or (d), the Inspector General shall submit a report on” and inserted “shall transmit a copy of the report on the results of the investigation to” before “the member of the armed forces” and “The report shall be transmitted to the Secretary, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E).” at end.
 
-    Subsec. (e)(2). [Pub. L. 105–261, § 933(c)(2)][/us/pl/105/261/s933/c/2], substituted “transmitted” for “submitted” and inserted at end “However, the copy need not include summaries of interviews conducted, nor any document acquired, during the course of the investigation. Such items shall be transmitted to the member, if the member requests the items, with the copy of the report or after the transmittal to the member of the copy of the report, regardless of whether the request for those items is made before or after the copy of the report is transmitted to the member.”
+    Subsec. (e)(2). [Pub. L. 105–261][/us/pl/105/261], § 933(c)(2), substituted “transmitted” for “submitted” and inserted at end “However, the copy need not include summaries of interviews conducted, nor any document acquired, during the course of the investigation. Such items shall be transmitted to the member, if the member requests the items, with the copy of the report or after the transmittal to the member of the copy of the report, regardless of whether the request for those items is made before or after the copy of the report is transmitted to the member.”
 
-    Subsec. (e)(3). [Pub. L. 105–261, § 933(c)(3)][/us/pl/105/261/s933/c/3], substituted “180 days” for “90 days”.
+    Subsec. (e)(3). [Pub. L. 105–261][/us/pl/105/261], § 933(c)(3), substituted “180 days” for “90 days”.
 
-    Subsec. (h). [Pub. L. 105–261, § 933(f)(1)][/us/pl/105/261/s933/f/1], redesignated subsec. (i) as (h).
+    Subsec. (h). [Pub. L. 105–261][/us/pl/105/261], § 933(f)(1), redesignated subsec. (i) as (h).
 
-    [Pub. L. 105–261, § 933(d)][/us/pl/105/261/s933/d], struck out heading and text of subsec. (h). Text read as follows: “After disposition of any case under this section, the Inspector General shall, whenever possible, conduct an interview with the person making the allegation to determine the views of that person on the disposition of the matter.”
+    [Pub. L. 105–261][/us/pl/105/261], § 933(d), struck out heading and text of subsec. (h). Text read as follows: “After disposition of any case under this section, the Inspector General shall, whenever possible, conduct an interview with the person making the allegation to determine the views of that person on the disposition of the matter.”
 
-    Subsec. (i). [Pub. L. 105–261, § 933(f)(1)][/us/pl/105/261/s933/f/1], redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
+    Subsec. (i). [Pub. L. 105–261][/us/pl/105/261], § 933(f)(1), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
 
-    Subsec. (j). [Pub. L. 105–261, § 933(f)(1)][/us/pl/105/261/s933/f/1], redesignated subsec. (j) as (i).
+    Subsec. (j). [Pub. L. 105–261][/us/pl/105/261], § 933(f)(1), redesignated subsec. (j) as (i).
 
-    Subsec. (j)(2). [Pub. L. 105–261, § 933(e)][/us/pl/105/261/s933/e], substituted “means the following:” for “means—” in introductory provisions, added subpars. (A) to (F), redesignated former subpar. (B) as (G) and substituted “An officer” for “an officer” in that subpar., and struck out former subpar. (A) which read as follows: “an Inspector General appointed under the Inspector General Act of 1978; and”.
+    Subsec. (j)(2). [Pub. L. 105–261][/us/pl/105/261], § 933(e), substituted “means the following:” for “means—” in introductory provisions, added subpars. (A) to (F), redesignated former subpar. (B) as (G) and substituted “An officer” for “an officer” in that subpar., and struck out former subpar. (A) which read as follows: “an Inspector General appointed under the Inspector General Act of 1978; and”.
 
-    1994—[Pub. L. 103–337, § 531(g)(1)][/us/pl/103/337/s531/g/1], substituted “Protected communications” for “Communicating with a Member of Congress or Inspector General” in section catchline.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 531(g)(1), substituted “Protected communications” for “Communicating with a Member of Congress or Inspector General” in section catchline.
 
-    Subsec. (b). [Pub. L. 103–337, § 531(a)][/us/pl/103/337/s531/a], inserted “(1)” before “No person may take”, substituted “or preparing—” for “or preparing a communication to a Member of Congress or an Inspector General that (under subsection (a)) may not be restricted.”, added subpars. (A) and (B), inserted “(2)” before “Any action prohibited”, and substituted “paragraph (1)” for “the preceding sentence”.
+    Subsec. (b). [Pub. L. 103–337][/us/pl/103/337], § 531(a), inserted “(1)” before “No person may take”, substituted “or preparing—” for “or preparing a communication to a Member of Congress or an Inspector General that (under subsection (a)) may not be restricted.”, added subpars. (A) and (B), inserted “(2)” before “Any action prohibited”, and substituted “paragraph (1)” for “the preceding sentence”.
 
-    Subsec. (c). [Pub. L. 103–337, § 531(b)(3)][/us/pl/103/337/s531/b/3], substituted “Allegations of Prohibited Personnel Actions” for “Certain Allegations” in heading.
+    Subsec. (c). [Pub. L. 103–337][/us/pl/103/337], § 531(b)(3), substituted “Allegations of Prohibited Personnel Actions” for “Certain Allegations” in heading.
 
-    Subsec. (c)(1). [Pub. L. 103–337, § 531(b)(1)][/us/pl/103/337/s531/b/1], inserted at end “If, in the case of an allegation submitted to the Inspector General of the Department of Defense, the Inspector General delegates the conduct of the investigation of the allegation to the inspector general of one of the armed forces, the Inspector General of the Department of Defense shall ensure that the inspector general conducting the investigation is outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.”
+    Subsec. (c)(1). [Pub. L. 103–337][/us/pl/103/337], § 531(b)(1), inserted at end “If, in the case of an allegation submitted to the Inspector General of the Department of Defense, the Inspector General delegates the conduct of the investigation of the allegation to the inspector general of one of the armed forces, the Inspector General of the Department of Defense shall ensure that the inspector general conducting the investigation is outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.”
 
-    Subsec. (c)(2). [Pub. L. 103–337, § 531(b)(2)][/us/pl/103/337/s531/b/2], added par. (2) and struck out former par. (2) which read as follows: “A communication described in this paragraph is a communication to a Member of Congress or an Inspector General that (under subsection (a)) may not be restricted in which the member of the armed forces makes a complaint or discloses information that the member reasonably believes constitutes evidence of—
+    Subsec. (c)(2). [Pub. L. 103–337][/us/pl/103/337], § 531(b)(2), added par. (2) and struck out former par. (2) which read as follows: “A communication described in this paragraph is a communication to a Member of Congress or an Inspector General that (under subsection (a)) may not be restricted in which the member of the armed forces makes a complaint or discloses information that the member reasonably believes constitutes evidence of—
 
     “(A) a violation of a law or regulation; or
 
     “(B) mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.”
 
-    Subsec. (c)(4). [Pub. L. 103–337, § 531(c)(2)][/us/pl/103/337/s531/c/2], struck out par. (4) which read as follows: “If the Inspector General has not already done so, the Inspector General shall commence a separate investigation of the information that the member believes evidences wrongdoing as described in subparagraph (A) or (B) of paragraph (2). The Inspector General is not required to make such an investigation if the information that the member believes evidences wrongdoing relates to actions which took place during combat.”
+    Subsec. (c)(4). [Pub. L. 103–337][/us/pl/103/337], § 531(c)(2), struck out par. (4) which read as follows: “If the Inspector General has not already done so, the Inspector General shall commence a separate investigation of the information that the member believes evidences wrongdoing as described in subparagraph (A) or (B) of paragraph (2). The Inspector General is not required to make such an investigation if the information that the member believes evidences wrongdoing relates to actions which took place during combat.”
 
-    Subsec. (c)(5). [Pub. L. 103–337, § 531(d)(1)][/us/pl/103/337/s531/d/1], redesignated subsec. (c)(5) as subsec. (e)(1).
+    Subsec. (c)(5). [Pub. L. 103–337][/us/pl/103/337], § 531(d)(1), redesignated subsec. (c)(5) as subsec. (e)(1).
 
-    Subsec. (c)(6), (7). [Pub. L. 103–337, § 531(d)(4)][/us/pl/103/337/s531/d/4], redesignated subsec. (c)(6) and (7) as subsec. (e)(3) and (4), respectively.
+    Subsec. (c)(6), (7). [Pub. L. 103–337][/us/pl/103/337], § 531(d)(4), redesignated subsec. (c)(6) and (7) as subsec. (e)(3) and (4), respectively.
 
-    Subsec. (d). [Pub. L. 103–337, § 531(c)(2)][/us/pl/103/337/s531/c/2], added subsec. (d). Former subsec. (d) redesignated (f).
+    Subsec. (d). [Pub. L. 103–337][/us/pl/103/337], § 531(c)(2), added subsec. (d). Former subsec. (d) redesignated (f).
 
-    Subsec. (e). [Pub. L. 103–337, § 531(d)(1)][/us/pl/103/337/s531/d/1], redesignated subsec. (c)(5) as subsec. (e) and inserted subsec. heading and par. (1) designation before “Not later than 30 days”. Former subsec. (e) redesignated (g).
+    Subsec. (e). [Pub. L. 103–337][/us/pl/103/337], § 531(d)(1), redesignated subsec. (c)(5) as subsec. (e) and inserted subsec. heading and par. (1) designation before “Not later than 30 days”. Former subsec. (e) redesignated (g).
 
-    Subsec. (e)(1). [Pub. L. 103–337, § 531(d)(2)][/us/pl/103/337/s531/d/2], substituted “subsection (c) or (d)” for “this subsection” and “the member of the armed forces who made the allegation investigated” for “the member of the armed forces concerned” and struck out at end “In the copy of the report submitted to the member, the Inspector General may exclude any information that would not otherwise be available to the member under [section 552 of title 5][/us/usc/t5/s552].”
+    Subsec. (e)(1). [Pub. L. 103–337][/us/pl/103/337], § 531(d)(2), substituted “subsection (c) or (d)” for “this subsection” and “the member of the armed forces who made the allegation investigated” for “the member of the armed forces concerned” and struck out at end “In the copy of the report submitted to the member, the Inspector General may exclude any information that would not otherwise be available to the member under [section 552 of title 5][/us/usc/t5/s552].”
 
-    Subsec. (e)(2). [Pub. L. 103–337, § 531(d)(3)][/us/pl/103/337/s531/d/3], added par. (2).
+    Subsec. (e)(2). [Pub. L. 103–337][/us/pl/103/337], § 531(d)(3), added par. (2).
 
-    Subsec. (e)(3). [Pub. L. 103–337, § 531(d)(4)][/us/pl/103/337/s531/d/4], (5), redesignated subsec. (c)(6) as subsec. (e)(3) and substituted “paragraph (1)” for “paragraph (5)”.
+    Subsec. (e)(3). [Pub. L. 103–337][/us/pl/103/337], § 531(d)(4), (5), redesignated subsec. (c)(6) as subsec. (e)(3) and substituted “paragraph (1)” for “paragraph (5)”.
 
-    Subsec. (e)(4). [Pub. L. 103–337, § 531(d)(4)][/us/pl/103/337/s531/d/4], redesignated subsec. (c)(7) as subsec. (e)(4).
+    Subsec. (e)(4). [Pub. L. 103–337][/us/pl/103/337], § 531(d)(4), redesignated subsec. (c)(7) as subsec. (e)(4).
 
-    Subsec. (f). [Pub. L. 103–337, § 531(c)(1)][/us/pl/103/337/s531/c/1], (f)(1), redesignated subsec. (d) as (f) and substituted “subsection (e)(1)” for “subsection (c)(5)” in pars. (2)(A), (3)(A)(i) and (B). Former subsec. (f) redesignated (h).
+    Subsec. (f). [Pub. L. 103–337][/us/pl/103/337], § 531(c)(1), (f)(1), redesignated subsec. (d) as (f) and substituted “subsection (e)(1)” for “subsection (c)(5)” in pars. (2)(A), (3)(A)(i) and (B). Former subsec. (f) redesignated (h).
 
-    Subsec. (g). [Pub. L. 103–337, § 531(c)(1)][/us/pl/103/337/s531/c/1], (f)(2), redesignated subsec. (e) as (g) and substituted “subsection (f)” for “subsection (d)”. Former subsec. (g) redesignated (i).
+    Subsec. (g). [Pub. L. 103–337][/us/pl/103/337], § 531(c)(1), (f)(2), redesignated subsec. (e) as (g) and substituted “subsection (f)” for “subsection (d)”. Former subsec. (g) redesignated (i).
 
-    Subsecs. (h), (i). [Pub. L. 103–337, § 531(c)(1)][/us/pl/103/337/s531/c/1], redesignated subsecs. (f) and (g) as (h) and (i), respectively. Former subsec. (h) redesignated (j).
+    Subsecs. (h), (i). [Pub. L. 103–337][/us/pl/103/337], § 531(c)(1), redesignated subsecs. (f) and (g) as (h) and (i), respectively. Former subsec. (h) redesignated (j).
 
-    Subsec. (j). [Pub. L. 103–337, § 531(c)(1)][/us/pl/103/337/s531/c/1], (e), redesignated subsec. (h) as (j) and added par. (3).
+    Subsec. (j). [Pub. L. 103–337][/us/pl/103/337], § 531(c)(1), (e), redesignated subsec. (h) as (j) and added par. (3).
 
-    1989—Subsec. (c)(1). [Pub. L. 101–225, § 202(1)][/us/pl/101/225/s202/1], inserted “when the Coast Guard is not operating as a service in the Navy” after “Coast Guard”.
+    1989—Subsec. (c)(1). [Pub. L. 101–225][/us/pl/101/225], § 202(1), inserted “when the Coast Guard is not operating as a service in the Navy” after “Coast Guard”.
 
-    Subsec. (c)(5). [Pub. L. 101–225, § 202(2)][/us/pl/101/225/s202/2], inserted “(or to the Secretary of Transportation in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Secretary of Defense”.
+    Subsec. (c)(5). [Pub. L. 101–225][/us/pl/101/225], § 202(2), inserted “(or to the Secretary of Transportation in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Secretary of Defense”.
 
-    Subsec. (c)(6). [Pub. L. 101–225, § 202(3)][/us/pl/101/225/s202/3], inserted “(or to the Secretary of Transportation in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Secretary of Defense”.
+    Subsec. (c)(6). [Pub. L. 101–225][/us/pl/101/225], § 202(3), inserted “(or to the Secretary of Transportation in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Secretary of Defense”.
 
-    Subsec. (e). [Pub. L. 101–225, § 202(4)][/us/pl/101/225/s202/4], inserted “(except for a member or former member of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “armed forces”.
+    Subsec. (e). [Pub. L. 101–225][/us/pl/101/225], § 202(4), inserted “(except for a member or former member of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “armed forces”.
 
     1988—[Pub. L. 100–456][/us/pl/100/456] substituted “Communicating with a Member of Congress or Inspector General; prohibition of retaliatory personnel actions” for “Communicating with a Member of Congress” in section catchline, and amended text generally. Prior to amendment, text read as follows: “No person may restrict any member of an armed force in communicating with a Member of Congress, unless the communication is unlawful or violates a regulation necessary to the security of the United States.”
 
@@ -387,7 +387,7 @@ June 24, 1948, ch. 625, § 4(a) (last par.); restated June 19, 1951, ch. 144, 
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–375, div. A, title V, § 591(b)][/us/pl/108/375/s591/b], Oct. 28, 2004, [118 Stat. 1933][/us/stat/118/1933], provided that: 
+[Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 591(b), Oct. 28, 2004, [118 Stat. 1933][/us/stat/118/1933], provided that: 
 
 > “The amendments made by this section \[amending this section\] apply with respect to any unfavorable personnel action taken or threatened, and any withholding of or threat to withhold a favorable personnel action, on or after the date of the enactment of this Act \[Oct. 28, 2004\].”
 
@@ -397,13 +397,13 @@ June 24, 1948, ch. 625, § 4(a) (last par.); restated June 19, 1951, ch. 144, 
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–456, div. A, title VIII, § 846(d)][/us/pl/100/456/s846/d], Sept. 29, 1988, [102 Stat. 2030][/us/stat/102/2030], provided that: 
+[Pub. L. 100–456, div. A, title VIII][/us/pl/100/456/dA/tVIII], § 846(d), Sept. 29, 1988, [102 Stat. 2030][/us/stat/102/2030], provided that: 
 
 > “The amendment to [section 1034 of title 10][/us/usc/t10/s1034], United States Code, made by subsection (a)(1), shall apply with respect to any personnel action taken (or threatened to be taken) on or after the date of the enactment of this Act \[Sept. 29, 1988\] as a reprisal prohibited by subsection (b) of that section.”
 
  __Regulations__ 
 
-[Pub. L. 103–337, div. A, title V, § 531(h)][/us/pl/103/337/s531/h], (i), Oct. 5, 1994, [108 Stat. 2758][/us/stat/108/2758], provided that:
+[Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 531(h), (i), Oct. 5, 1994, [108 Stat. 2758][/us/stat/108/2758], provided that:
 
 >     “(h)  __Deadline for Regulations__  __.—__ 
 
@@ -413,13 +413,13 @@ June 24, 1948, ch. 625, § 4(a) (last par.); restated June 19, 1951, ch. 144, 
 
 >     In prescribing regulations under [section 1034 of title 10][/us/usc/t10/s1034], United States Code, as amended by this section, the Secretary of Defense and the Secretary of Transportation shall provide for appropriate procedural protections for the subject of any investigation carried out under the provisions of that section, including a process for appeal and review of investigative findings.”
 
-[Pub. L. 100–456, div. A, title VIII, § 846(b)][/us/pl/100/456/s846/b], Sept. 29, 1988, [102 Stat. 2030][/us/stat/102/2030], provided that: 
+[Pub. L. 100–456, div. A, title VIII][/us/pl/100/456/dA/tVIII], § 846(b), Sept. 29, 1988, [102 Stat. 2030][/us/stat/102/2030], provided that: 
 
 > “The Secretary of Defense and the Secretary of Transportation shall prescribe the regulations required by subsection (g) \[now (h)\] of [section 1034 of title 10][/us/usc/t10/s1034], United States Code, as amended by subsection (a), not later than 180 days after the date of the enactment of this Act \[Sept. 29, 1988\].”
 
  __Notice to Congress of Certain Department of Defense Nondisclosure Agreements__ 
 
-[Pub. L. 112–239, div. A, title X, § 1054][/us/pl/112/239/s1054], Jan. 2, 2013, [126 Stat. 1937][/us/stat/126/1937], provided that:
+[Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1054, Jan. 2, 2013, [126 Stat. 1937][/us/stat/126/1937], provided that:
 
 >     “(a)  __Notice Required__  __.—__ 
 
@@ -445,7 +445,7 @@ June 24, 1948, ch. 625, § 4(a) (last par.); restated June 19, 1951, ch. 144, 
 
  __Whistleblower Protections for Members of Armed Forces__ 
 
-[Pub. L. 102–190, div. A, title VIII, § 843][/us/pl/102/190/s843], Dec. 5, 1991, [105 Stat. 1449][/us/stat/105/1449], provided that:
+[Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], § 843, Dec. 5, 1991, [105 Stat. 1449][/us/stat/105/1449], provided that:
 
 >     “(a)  __Regulations Required__  __.—__ 
 
@@ -461,7 +461,7 @@ June 24, 1948, ch. 625, § 4(a) (last par.); restated June 19, 1951, ch. 144, 
 
  __Report on Activities of Inspector General__ 
 
-    [Pub. L. 100–456, div. A, title VIII, § 846(c)][/us/pl/100/456/s846/c], Sept. 29, 1988, [102 Stat. 2030][/us/stat/102/2030], directed Inspector General of Department of Defense (and Inspector General of Department of Transportation with respect to Coast Guard) to submit, not later than Feb. 1, 1990, a report to Congress on activities of Inspector General under this section, with that report to include, in the case of each case handled by Inspector General under this section, a description of (A) nature of allegation described in subsec. (c) of this section; (B) evaluation and recommendation of Inspector General with respect to allegation; (C) any action of appropriate board for correction of military records with respect to allegation; (D) if allegation was determined to be meritorious, any corrective action taken; and (E) views of member or former member of armed forces making allegation (determined on basis of interview under subsec. (f) of this section) on disposition of case.
+    [Pub. L. 100–456, div. A, title VIII][/us/pl/100/456/dA/tVIII], § 846(c), Sept. 29, 1988, [102 Stat. 2030][/us/stat/102/2030], directed Inspector General of Department of Defense (and Inspector General of Department of Transportation with respect to Coast Guard) to submit, not later than Feb. 1, 1990, a report to Congress on activities of Inspector General under this section, with that report to include, in the case of each case handled by Inspector General under this section, a description of (A) nature of allegation described in subsec. (c) of this section; (B) evaluation and recommendation of Inspector General with respect to allegation; (C) any action of appropriate board for correction of military records with respect to allegation; (D) if allegation was determined to be meritorious, any corrective action taken; and (E) views of member or former member of armed forces making allegation (determined on basis of interview under subsec. (f) of this section) on disposition of case.
 
 ----------
 
@@ -475,107 +475,107 @@ June 24, 1948, ch. 625, § 4(a) (last par.); restated June 19, 1951, ch. 144, 
 [/us/usc/t10/s1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1552
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F80
-[/us/pl/98/525/s1405/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F19%2FA
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2622
-[/us/pl/100/456/s846/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs846%2Fa%2F1
+[/us/pl/100/456/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVIII
 [/us/stat/102/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2027
-[/us/pl/101/225/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs202
+[/us/pl/101/225/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtII
 [/us/stat/103/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1910
-[/us/pl/103/337/s531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fa
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2756-2758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2756-2758
-[/us/pl/105/261/s933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs933
+[/us/pl/105/261/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIX
 [/us/stat/112/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2107
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/108/375/s591/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs591%2Fa
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1933
-[/us/pl/110/181/s1063/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fa%2F8
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F322
-[/us/pl/112/81/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs523
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1401
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/964-966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F964-966
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
-[/us/pl/113/66/s1714/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fa%2F1%2FA
-[/us/pl/113/66/s1714/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fa%2F1%2FC
-[/us/pl/113/66/s1714/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fa%2F1%2FB
-[/us/pl/113/66/s1714/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fa%2F2
-[/us/pl/113/66/s1714/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fb%2F1
-[/us/pl/113/66/s1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1715
-[/us/pl/113/66/s1714/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fb%2F2
-[/us/pl/113/66/s1714/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fc
-[/us/pl/113/66/s1714/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fd%2F1
-[/us/pl/113/66/s1714/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fd%2F2
-[/us/pl/113/66/s1714/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fe%2F2
-[/us/pl/113/66/s1714/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fe%2F1
-[/us/pl/113/66/s1714/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1714%2Fe%2F1
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/105/261/s933/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs933%2Ff%2F2
-[/us/pl/105/261/s933/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs933%2Fa%2F1%2FA
-[/us/pl/105/261/s933/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs933%2Fb
-[/us/pl/105/261/s933/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs933%2Fa%2F1%2FB
-[/us/pl/105/261/s933/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs933%2Fa%2F2
-[/us/pl/105/261/s933/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs933%2Fc%2F1
-[/us/pl/105/261/s933/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs933%2Fc%2F2
-[/us/pl/105/261/s933/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs933%2Fc%2F3
-[/us/pl/105/261/s933/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs933%2Ff%2F1
-[/us/pl/105/261/s933/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs933%2Fd
-[/us/pl/105/261/s933/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs933%2Ff%2F1
-[/us/pl/105/261/s933/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs933%2Ff%2F1
-[/us/pl/105/261/s933/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs933%2Fe
-[/us/pl/103/337/s531/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fg%2F1
-[/us/pl/103/337/s531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fa
-[/us/pl/103/337/s531/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fb%2F3
-[/us/pl/103/337/s531/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fb%2F1
-[/us/pl/103/337/s531/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fb%2F2
-[/us/pl/103/337/s531/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fc%2F2
-[/us/pl/103/337/s531/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fd%2F1
-[/us/pl/103/337/s531/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fd%2F4
-[/us/pl/103/337/s531/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fc%2F2
-[/us/pl/103/337/s531/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fd%2F1
-[/us/pl/103/337/s531/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fd%2F2
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/103/337/s531/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fd%2F3
-[/us/pl/103/337/s531/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fd%2F4
-[/us/pl/103/337/s531/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fd%2F4
-[/us/pl/103/337/s531/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fc%2F1
-[/us/pl/103/337/s531/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fc%2F1
-[/us/pl/103/337/s531/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fc%2F1
-[/us/pl/103/337/s531/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fc%2F1
-[/us/pl/101/225/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs202%2F1
-[/us/pl/101/225/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs202%2F2
-[/us/pl/101/225/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs202%2F3
-[/us/pl/101/225/s202/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs202%2F4
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
+[/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
+[/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
+[/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
-[/us/pl/108/375/s591/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs591%2Fb
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1933
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/100/456/s846/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs846%2Fd
+[/us/pl/100/456/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVIII
 [/us/stat/102/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2030
 [/us/usc/t10/s1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1034
-[/us/pl/103/337/s531/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs531%2Fh
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2758
 [/us/usc/t10/s1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1034
-[/us/pl/100/456/s846/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs846%2Fb
+[/us/pl/100/456/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVIII
 [/us/stat/102/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2030
 [/us/usc/t10/s1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1034
-[/us/pl/112/239/s1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1054
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1937
-[/us/pl/102/190/s843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs843
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1449
-[/us/pl/100/456/s846/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs846%2Fc
+[/us/pl/100/456/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVIII
 [/us/stat/102/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2030
 
 

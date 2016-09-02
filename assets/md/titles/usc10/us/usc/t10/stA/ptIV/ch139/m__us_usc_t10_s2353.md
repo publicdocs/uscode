@@ -185,7 +185,7 @@ July 16, 1952, ch. 882, § 4 (less 3d and last sentences), 66 Stat. 725.  </td
 
  __Limitations on Modifications of Certain Government-Furnished Equipment; One-Time Authority To Transfer a Certain Military Prototype__ 
 
-[Pub. L. 111–84, div. A, title X, § 1043][/us/pl/111/84/s1043], Oct. 28, 2009, [123 Stat. 2456][/us/stat/123/2456], as amended by [Pub. L. 111–383, div. A, title X, § 1075(d)(12)][/us/pl/111/383/s1075/d/12], Jan. 7, 2011, [124 Stat. 4373][/us/stat/124/4373], provided that:
+[Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1043, Oct. 28, 2009, [123 Stat. 2456][/us/stat/123/2456], as amended by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(d)(12), Jan. 7, 2011, [124 Stat. 4373][/us/stat/124/4373], provided that:
 
 >     “(a)  __Limitation__  __.—__ 
 
@@ -271,7 +271,7 @@ July 16, 1952, ch. 882, § 4 (less 3d and last sentences), 66 Stat. 725.  </td
 
  __Use of Research and Development Funds for Test Facilities and Equipment__ 
 
-    [Pub. L. 99–190, § 101(b)][/us/pl/99/190/s101/b] \[title VIII, § 8015\], Dec. 19, 1985, [99 Stat. 1185][/us/stat/99/1185], 1205, which provided that appropriations available to the Department of Defense for research and development could be used for [10 U.S.C. 2353][/us/usc/t10/s2353] and for purposes related to research and development for which expenditures are specifically authorized in other appropriations of the Service concerned, was repealed and restated in [section 2351(b) of this title][/us/usc/t10/s2351/b] by [Pub. L. 100–370, § 1(g)(1)(B)][/us/pl/100/370/s1/g/1/B], (2), July 19, 1988, [102 Stat. 846][/us/stat/102/846].
+    [Pub. L. 99–190][/us/pl/99/190], § 101(b) \[title VIII, § 8015\], Dec. 19, 1985, [99 Stat. 1185][/us/stat/99/1185], 1205, which provided that appropriations available to the Department of Defense for research and development could be used for [10 U.S.C. 2353][/us/usc/t10/s2353] and for purposes related to research and development for which expenditures are specifically authorized in other appropriations of the Service concerned, was repealed and restated in [section 2351(b) of this title][/us/usc/t10/s2351/b] by [Pub. L. 100–370][/us/pl/100/370], § 1(g)(1)(B), (2), July 19, 1988, [102 Stat. 846][/us/stat/102/846].
 
 ----------
 
@@ -282,9 +282,9 @@ July 16, 1952, ch. 882, § 4 (less 3d and last sentences), 66 Stat. 725.  </td
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F134
-[/us/pl/111/84/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1043
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2456
-[/us/pl/111/383/s1075/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fd%2F12
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4373
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
@@ -292,11 +292,11 @@ July 16, 1952, ch. 882, § 4 (less 3d and last sentences), 66 Stat. 725.  </td
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
 [/us/stat/40/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F217
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/99/190/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fb
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1185
 [/us/usc/t10/s2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2353
 [/us/usc/t10/s2351/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2351%2Fb
-[/us/pl/100/370/s1/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs1%2Fg%2F1%2FB
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F846
 
 

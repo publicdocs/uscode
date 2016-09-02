@@ -21,7 +21,7 @@
 
     (2) to assist eligible entities in the payment of the costs of establishing and carrying out new procurement technical assistance programs and maintaining existing procurement technical assistance programs.
 
-(Added [Pub. L. 98–525, title XII, § 1241(a)(1)][/us/pl/98/525/s1241/a/1], Oct. 19, 1984, [98 Stat. 2605][/us/stat/98/2605]; amended [Pub. L. 99–145, title IX, § 919(a)][/us/pl/99/145/s919/a], Nov. 8, 1985, [99 Stat. 692][/us/stat/99/692].)
+(Added [Pub. L. 98–525, title XII][/us/pl/98/525/tXII], § 1241(a)(1), Oct. 19, 1984, [98 Stat. 2605][/us/stat/98/2605]; amended [Pub. L. 99–145, title IX][/us/pl/99/145/tIX], § 919(a), Nov. 8, 1985, [99 Stat. 692][/us/stat/99/692].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/98/525/s1241/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1241%2Fa%2F1
+[/us/pl/98/525/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXII
 [/us/stat/98/2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2605
-[/us/pl/99/145/s919/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs919%2Fa
+[/us/pl/99/145/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtIX
 [/us/stat/99/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F692
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145

@@ -27,11 +27,11 @@
 
         (2) that, as determined by the Administrator of the Environmental Protection Agency, is a nonattainment area with respect to any of those standards.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1082(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–285.)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1082(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–285.)
 
  __Time for Implementation__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1082(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–285, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1082(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–285, provided that: 
 
 > “The Secretary of Defense shall prescribe the effective date for the transit pass program required under [section 2259 of title 10][/us/usc/t10/s2259], United States Code, as added by subsection (a). The effective date so prescribed may not be later than the first day of the first month that begins on or after the date that is 180 days after the date of the enactment of this Act \[Oct. 30, 2000\].”
 
@@ -44,9 +44,9 @@
 
 [/us/usc/t5/s7905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7905
 [/us/usc/t42/s7409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7409
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2259
 

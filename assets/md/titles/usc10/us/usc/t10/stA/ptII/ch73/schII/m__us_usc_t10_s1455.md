@@ -77,25 +77,25 @@
 
         An annuity paid to a person on behalf of an annuitant in accordance with the regulations prescribed pursuant to paragraph (1) discharges the obligation of the United States for payment to the annuitant of the amount of the annuity so paid.
 
-(Added [Pub. L. 92–425, § 1(3)][/us/pl/92/425/s1/3], Sept. 21, 1972, [86 Stat. 711][/us/stat/86/711]; amended [Pub. L. 99–145, title VII, § 724][/us/pl/99/145/s724], Nov. 8, 1985, [99 Stat. 678][/us/stat/99/678]; [Pub. L. 102–190, div. A, title VI, § 654(a)][/us/pl/102/190/s654/a], Dec. 5, 1991, [105 Stat. 1389][/us/stat/105/1389]; [Pub. L. 104–201, div. A, title VI, § 634][/us/pl/104/201/s634], Sept. 23, 1996, [110 Stat. 2577][/us/stat/110/2577]; [Pub. L. 113–291, div. A, title VI, § 624(b)][/us/pl/113/291/s624/b], Dec. 19, 2014, [128 Stat. 3404][/us/stat/128/3404].)
+(Added [Pub. L. 92–425][/us/pl/92/425], § 1(3), Sept. 21, 1972, [86 Stat. 711][/us/stat/86/711]; amended [Pub. L. 99–145, title VII][/us/pl/99/145/tVII], § 724, Nov. 8, 1985, [99 Stat. 678][/us/stat/99/678]; [Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], § 654(a), Dec. 5, 1991, [105 Stat. 1389][/us/stat/105/1389]; [Pub. L. 104–201, div. A, title VI][/us/pl/104/201/dA/tVI], § 634, Sept. 23, 1996, [110 Stat. 2577][/us/stat/110/2577]; [Pub. L. 113–291, div. A, title VI][/us/pl/113/291/dA/tVI], § 624(b), Dec. 19, 2014, [128 Stat. 3404][/us/stat/128/3404].)
 
  __Amendments__ 
 
-    2014—Subsec. (d). [Pub. L. 113–291, § 624(b)(1)][/us/pl/113/291/s624/b/1], substituted “, Fiduciaries, and Special Needs Trusts” for “and Fiduciaries” in heading.
+    2014—Subsec. (d). [Pub. L. 113–291][/us/pl/113/291], § 624(b)(1), substituted “, Fiduciaries, and Special Needs Trusts” for “and Fiduciaries” in heading.
 
-    Subsec. (d)(1)(C). [Pub. L. 113–291, § 624(b)(2)][/us/pl/113/291/s624/b/2], added subpar. (C).
+    Subsec. (d)(1)(C). [Pub. L. 113–291][/us/pl/113/291], § 624(b)(2), added subpar. (C).
 
-    Subsec. (d)(2)(C). [Pub. L. 113–291, § 624(b)(3)(B)][/us/pl/113/291/s624/b/3/B], added subpar. (C). Former subpar. (C) redesignated (D).
+    Subsec. (d)(2)(C). [Pub. L. 113–291][/us/pl/113/291], § 624(b)(3)(B), added subpar. (C). Former subpar. (C) redesignated (D).
 
-    Subsec. (d)(2)(D). [Pub. L. 113–291, § 624(b)(3)(A)][/us/pl/113/291/s624/b/3/A], (C), redesignated subpar. (C) as (D) and substituted “subparagraphs (E) and (F)” for “subparagraphs (D) and (E)”.
+    Subsec. (d)(2)(D). [Pub. L. 113–291][/us/pl/113/291], § 624(b)(3)(A), (C), redesignated subpar. (C) as (D) and substituted “subparagraphs (E) and (F)” for “subparagraphs (D) and (E)”.
 
-    Subsec. (d)(2)(E) to (G). [Pub. L. 113–291, § 624(b)(3)(A)][/us/pl/113/291/s624/b/3/A], redesignated subpars. (D) to (F) as (E) to (G), respectively. Former subpar. (G) redesignated (H).
+    Subsec. (d)(2)(E) to (G). [Pub. L. 113–291][/us/pl/113/291], § 624(b)(3)(A), redesignated subpars. (D) to (F) as (E) to (G), respectively. Former subpar. (G) redesignated (H).
 
-    Subsec. (d)(2)(H). [Pub. L. 113–291, § 624(b)(3)(A)][/us/pl/113/291/s624/b/3/A], (D), redesignated subpar. (G) as (H), inserted “or (1)(C)” after “(1)(B)” in introductory provisions, and added cl. (iii).
+    Subsec. (d)(2)(H). [Pub. L. 113–291][/us/pl/113/291], § 624(b)(3)(A), (D), redesignated subpar. (G) as (H), inserted “or (1)(C)” after “(1)(B)” in introductory provisions, and added cl. (iii).
 
-    Subsec. (d)(2)(I). [Pub. L. 113–291, § 624(b)(3)(A)][/us/pl/113/291/s624/b/3/A], redesignated subpar. (H) as (I).
+    Subsec. (d)(2)(I). [Pub. L. 113–291][/us/pl/113/291], § 624(b)(3)(A), redesignated subpar. (H) as (I).
 
-    Subsec. (d)(3). [Pub. L. 113–291, § 624(b)(4)][/us/pl/113/291/s624/b/4], substituted “, fiduciary, or trust” for “or fiduciary” in heading.
+    Subsec. (d)(3). [Pub. L. 113–291][/us/pl/113/291], § 624(b)(4), substituted “, fiduciary, or trust” for “or fiduciary” in heading.
 
     1996—[Pub. L. 104–201][/us/pl/104/201] amended section generally, revising and restating provisions relating to regulations to carry out this subchapter.
 
@@ -121,24 +121,24 @@
 [/us/usc/t10/s1448/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fa
 [/us/usc/t10/s1448/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fa%2F3%2FE
 [/us/usc/t42/s1396p/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396p%2Fd%2F4
-[/us/pl/92/425/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425%2Fs1%2F3
+[/us/pl/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425
 [/us/stat/86/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F711
-[/us/pl/99/145/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs724
+[/us/pl/99/145/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVII
 [/us/stat/99/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F678
-[/us/pl/102/190/s654/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs654%2Fa
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1389
-[/us/pl/104/201/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs634
+[/us/pl/104/201/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVI
 [/us/stat/110/2577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2577
-[/us/pl/113/291/s624/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fb
+[/us/pl/113/291/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVI
 [/us/stat/128/3404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3404
-[/us/pl/113/291/s624/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fb%2F1
-[/us/pl/113/291/s624/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fb%2F2
-[/us/pl/113/291/s624/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fb%2F3%2FB
-[/us/pl/113/291/s624/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fb%2F3%2FA
-[/us/pl/113/291/s624/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fb%2F3%2FA
-[/us/pl/113/291/s624/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fb%2F3%2FA
-[/us/pl/113/291/s624/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fb%2F3%2FA
-[/us/pl/113/291/s624/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fb%2F4
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145

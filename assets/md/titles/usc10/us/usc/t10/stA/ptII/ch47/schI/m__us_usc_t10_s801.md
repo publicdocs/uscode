@@ -37,7 +37,7 @@
 
     (10) The term “military judge” means an official of a general or special court-martial detailed in accordance with [section 826 of this title][/us/usc/t10/s826] (article 26).
 
-    \[(11) Repealed. [Pub. L. 109–241, title II, § 218(a)(1)][/us/pl/109/241/s218/a/1], July 11, 2006, [120 Stat. 526][/us/stat/120/526].\]
+    \[(11) Repealed. [Pub. L. 109–241, title II][/us/pl/109/241/tII], § 218(a)(1), July 11, 2006, [120 Stat. 526][/us/stat/120/526].\]
 
     (12) The term “legal officer” means any commissioned officer of the Navy, Marine Corps, or Coast Guard designated to perform legal duties for a command.
 
@@ -63,7 +63,7 @@
 
     (16) The term “national security” means the national defense and foreign relations of the United States.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 36][/us/stat/70A/36]; [Pub. L. 89–670, § 10(g)][/us/pl/89/670/s10/g], Oct. 15, 1966, [80 Stat. 948][/us/stat/80/948]; [Pub. L. 90–179, § 1(1)][/us/pl/90/179/s1/1], (2), Dec. 8, 1967, [81 Stat. 545][/us/stat/81/545]; [Pub. L. 90–632, § 2(1)][/us/pl/90/632/s2/1], Oct. 24, 1968, [82 Stat. 1335][/us/stat/82/1335]; [Pub. L. 98–209][/us/pl/98/209], §§ 2(a), 6(a), Dec. 6, 1983, [97 Stat. 1393][/us/stat/97/1393], 1400; [Pub. L. 100–180, div. A, title XII, § 1231(17)][/us/pl/100/180/s1231/17], Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161]; [Pub. L. 100–456, div. A, title XII, § 1233(f)(1)][/us/pl/100/456/s1233/f/1], Sept. 29, 1988, [102 Stat. 2057][/us/stat/102/2057]; [Pub. L. 104–106, div. A, title XI, § 1141(b)][/us/pl/104/106/s1141/b], Feb. 10, 1996, [110 Stat. 467][/us/stat/110/467]; [Pub. L. 107–296, title XVII, § 1704(b)(2)][/us/pl/107/296/s1704/b/2], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 109–241, title II, § 218(a)][/us/pl/109/241/s218/a], July 11, 2006, [120 Stat. 526][/us/stat/120/526].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 36][/us/stat/70A/36]; [Pub. L. 89–670][/us/pl/89/670], § 10(g), Oct. 15, 1966, [80 Stat. 948][/us/stat/80/948]; [Pub. L. 90–179][/us/pl/90/179], § 1(1), (2), Dec. 8, 1967, [81 Stat. 545][/us/stat/81/545]; [Pub. L. 90–632][/us/pl/90/632], § 2(1), Oct. 24, 1968, [82 Stat. 1335][/us/stat/82/1335]; [Pub. L. 98–209][/us/pl/98/209], §§ 2(a), 6(a), Dec. 6, 1983, [97 Stat. 1393][/us/stat/97/1393], 1400; [Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1231(17), Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161]; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1233(f)(1), Sept. 29, 1988, [102 Stat. 2057][/us/stat/102/2057]; [Pub. L. 104–106, div. A, title XI][/us/pl/104/106/dA/tXI], § 1141(b), Feb. 10, 1996, [110 Stat. 467][/us/stat/110/467]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(2), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 109–241, title II][/us/pl/109/241/tII], § 218(a), July 11, 2006, [120 Stat. 526][/us/stat/120/526].)
 
 <table>
 
@@ -129,9 +129,9 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
  __Amendments__ 
 
-    2006—Cl. (11). [Pub. L. 109–241, § 218(a)(1)][/us/pl/109/241/s218/a/1], struck out cl. (11) which read as follows: “The term ‘law specialist’ means a commissioned officer of the Coast Guard designated for special duty (law).”
+    2006—Cl. (11). [Pub. L. 109–241][/us/pl/109/241], § 218(a)(1), struck out cl. (11) which read as follows: “The term ‘law specialist’ means a commissioned officer of the Coast Guard designated for special duty (law).”
 
-    Cl. (13)(C). [Pub. L. 109–241, § 218(a)(2)][/us/pl/109/241/s218/a/2], added subpar. (C) and struck out former subpar. (C) which read as follows: “an officer of the Coast Guard who is designated as a law specialist.”
+    Cl. (13)(C). [Pub. L. 109–241][/us/pl/109/241], § 218(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “an officer of the Coast Guard who is designated as a law specialist.”
 
     2002—Cl. (1). [Pub. L. 107–296][/us/pl/107/296] substituted “an official designated to serve as Judge Advocate General of the Coast Guard by the Secretary of Homeland Security” for “the General Counsel of the Department of Transportation”.
 
@@ -141,15 +141,15 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
     1987—Cls. (1), (3) to (14). [Pub. L. 100–180][/us/pl/100/180] inserted “The term” after each clause designation and revised first word in quotes in each clause to make initial letter of such word lowercase.
 
-    1983—Cl. (13). [Pub. L. 98–209, § 2(a)][/us/pl/98/209/s2/a], added officers of the Coast Guard who are designated as law specialists to definition of “Judge Advocate”.
+    1983—Cl. (13). [Pub. L. 98–209][/us/pl/98/209], § 2(a), added officers of the Coast Guard who are designated as law specialists to definition of “Judge Advocate”.
 
-    Cl. (14). [Pub. L. 98–209, § 6(a)][/us/pl/98/209/s6/a], added cl. (14).
+    Cl. (14). [Pub. L. 98–209][/us/pl/98/209], § 6(a), added cl. (14).
 
     1968—Cl. (10). [Pub. L. 90–632][/us/pl/90/632] substituted “military judge” for “law officer” as term being defined and inserted reference to special court-martial in the definition thereof.
 
-    1967—Cl. (11). [Pub. L. 90–179, § 1(1)][/us/pl/90/179/s1/1], struck out “Navy or” before “Coast Guard”.
+    1967—Cl. (11). [Pub. L. 90–179][/us/pl/90/179], § 1(1), struck out “Navy or” before “Coast Guard”.
 
-    Cl. (13). [Pub. L. 90–179, § 1(2)][/us/pl/90/179/s1/2], added cl. (13).
+    Cl. (13). [Pub. L. 90–179][/us/pl/90/179], § 1(2), added cl. (13).
 
     1966—[Pub. L. 89–670][/us/pl/89/670] substituted the General Counsel of the Department of Transportation for the General Counsel of the Department of the Treasury in definition of “Judge Advocate General” applicable to the Coast Guard when operating as a service in the Navy.
 
@@ -159,7 +159,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 98–209, § 12(a)][/us/pl/98/209/s12/a], Dec. 6, 1983, [97 Stat. 1407][/us/stat/97/1407], provided that:
+[Pub. L. 98–209][/us/pl/98/209], § 12(a), Dec. 6, 1983, [97 Stat. 1407][/us/stat/97/1407], provided that:
 
 >     “(1) The amendments made by this Act \[see Short Title of 1983 Amendment note below\] shall take effect on the first day of the eighth calendar month that begins after the date of enactment of this Act \[Dec. 6, 1983\], except that the amendments made by sections 9, 11 and 13 \[amending sections 802, 815, 825, 867, 1552, and 1553 of this title and enacting provisions set out as a note under [section 867 of this title][/us/usc/t10/s867]\] shall be effective on the date of the enactment of this Act. The amendments made by section 11 \[amending sections 1552 and 1553 of this title\] shall only apply with respect to cases filed after the date of enactment of this Act with the boards established under sections 1552 and 1553 of title 10, United States Code.
 
@@ -173,7 +173,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
  __Effective Date of 1968 Amendment__ 
 
-[Pub. L. 90–632, § 4][/us/pl/90/632/s4], Oct. 24, 1968, [82 Stat. 1343][/us/stat/82/1343], provided that:
+[Pub. L. 90–632][/us/pl/90/632], § 4, Oct. 24, 1968, [82 Stat. 1343][/us/stat/82/1343], provided that:
 
 >     “(a) Except for the amendments made by paragraphs (30) and (33) of section 2, this Act \[see Short Title of 1968 Amendment note below\] shall become effective on the first day of the tenth month following the month in which it is enacted \[October 1968\].
 
@@ -187,37 +187,37 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
  __Effective Date__ 
 
-[Act Aug. 10, 1956, ch. 1041, § 51][/us/act/1956-08-10/ch1041/s51], [70A Stat. 640][/us/stat/70A/640], provided that: 
+[Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 51, [70A Stat. 640][/us/stat/70A/640], provided that: 
 
 > “Chapter 47 of title 10, United States Code, enacted by section 1 of this Act, takes effect January 1, 1957.”
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–106, div. A, title XI, § 1101][/us/pl/104/106/s1101], Feb. 10, 1996, [110 Stat. 461][/us/stat/110/461], provided that: 
+[Pub. L. 104–106, div. A, title XI][/us/pl/104/106/dA/tXI], § 1101, Feb. 10, 1996, [110 Stat. 461][/us/stat/110/461], provided that: 
 
 > “This title \[enacting sections 857a, 858b, and 876b of this title, amending this section and sections 802, 832, 847, 857, 860, 862, 866, 895, 920, and 937 of this title, repealing [section 804 of Title 37][/us/usc/t37/s804], Pay and Allowances of the Uniformed Services, enacting provisions set out as notes under sections 802, 857, 858b, and 876b of this title, and amending provisions set out as a note under [section 942 of this title][/us/usc/t10/s942]\] may be cited as the ‘Military Justice Amendments of 1995’.”
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–661, div. A, title VIII, § 801(a)][/us/pl/99/661/s801/a], Nov. 14, 1986, [100 Stat. 3905][/us/stat/100/3905], provided that: 
+[Pub. L. 99–661, div. A, title VIII][/us/pl/99/661/dA/tVIII], § 801(a), Nov. 14, 1986, [100 Stat. 3905][/us/stat/100/3905], provided that: 
 
 > “This title \[enacting [section 850a of this title][/us/usc/t10/s850a], amending sections 802, 803, 806, 825, 843, 860, 936, and 937 of this title, and enacting provisions set out as notes under sections 802, 806, 825, 843, 850a, and 860 of this title\] may be cited as the ‘Military Justice Amendments of 1986’.”
 
  __Short Title of 1983 Amendment__ 
 
-[Pub. L. 98–209, § 1(a)][/us/pl/98/209/s1/a], Dec. 6, 1983, [97 Stat. 1393][/us/stat/97/1393], provided that: 
+[Pub. L. 98–209][/us/pl/98/209], § 1(a), Dec. 6, 1983, [97 Stat. 1393][/us/stat/97/1393], provided that: 
 
 > “This Act \[enacting sections 912a of this title and [section 1259 of Title 28][/us/usc/t28/s1259], Judiciary and Judicial Procedure, amending this section, sections 802, 806, 815, 816, 825, 826, 827, 829, 834, 838, 842, 849, 854, 857, 860 to 867, 869, 870, 871, 876a, 936, 1552, and 1553 of this title, and [section 2101 of Title 28][/us/usc/t28/s2101], and enacting provisions set out as notes under sections 801, 867, and 869 of this title and amending provisions set out as a note under [section 706 of this title][/us/usc/t10/s706]\] may be cited as the ‘Military Justice Act of 1983’.”
 
  __Short Title of 1981 Amendment__ 
 
-[Pub. L. 97–81, § 1(a)][/us/pl/97/81/s1/a], Nov. 20, 1981, [95 Stat. 1085][/us/stat/95/1085], provided that: 
+[Pub. L. 97–81][/us/pl/97/81], § 1(a), Nov. 20, 1981, [95 Stat. 1085][/us/stat/95/1085], provided that: 
 
 > “This Act \[enacting sections 706, 707, and 876a of this title, amending sections 701, 813, 832, 838, 867, and 869 of this title, and enacting provisions set out as a note under [section 706 of this title][/us/usc/t10/s706]\] may be cited as the ‘Military Justice Amendments of 1981’.”
 
  __Short Title of 1968 Amendment__ 
 
-[Pub. L. 90–632, § 1][/us/pl/90/632/s1], Oct. 24, 1968, [82 Stat. 1335][/us/stat/82/1335], provided: 
+[Pub. L. 90–632][/us/pl/90/632], § 1, Oct. 24, 1968, [82 Stat. 1335][/us/stat/82/1335], provided: 
 
 > “That this Act \[amending this section and sections 806, 816, 818, 819, 820, 825, 826, 827, 829, 835, 837, 838, 839, 840, 841, 842, 845, 849, 851, 852, 854, 857, 865, 866, 867, 868, 869, 870, 871, 873, and 936 of this title and enacting provisions set out as notes under this section and sections 826 and 866 of this title\] may be cited as the ‘Military Justice Act of 1968’.”
 
@@ -231,7 +231,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
  __Legislative Construction__ 
 
-[Act Aug. 10, 1956, ch. 1041, § 49(e)][/us/act/1956-08-10/ch1041/s49/e], [70A Stat. 640][/us/stat/70A/640], provided that: 
+[Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 49(e), [70A Stat. 640][/us/stat/70A/640], provided that: 
 
 > “In chapter 47 of title 10, United States Code \[this chapter\], enacted by section 1 of this Act, no inference of a legislative construction is to be drawn from the part in which any article is placed nor from the catchlines of the part or the article as set out in that chapter.”
 
@@ -241,13 +241,13 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
  __Improved Implementation of Changes to Uniform Code of Military Justice__ 
 
-[Pub. L. 114–92, div. A, title V, § 543][/us/pl/114/92/s543], Nov. 25, 2015, [129 Stat. 820][/us/stat/129/820], provided that: 
+[Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 543, Nov. 25, 2015, [129 Stat. 820][/us/stat/129/820], provided that: 
 
 > “The Secretary of Defense shall examine the Department of Defense process for implementing statutory changes to the Uniform Code of Military Justice for the purpose of developing options for streamlining such process. The Secretary shall adopt procedures to ensure that legal guidance is published as soon as practicable whenever statutory changes to the Uniform Code of Military Justice are implemented.”
 
  __Reenactment and Modification of Certain Prior Requirements for Certifications Relating to Transfer of Detainees at United States Naval Station, Guantanamo Bay, Cuba, to Foreign Countries and Other Foreign Entities__ 
 
-[Pub. L. 114–92, div. A, title X, § 1034(a)][/us/pl/114/92/s1034/a]–(f), Nov. 25, 2015, [129 Stat. 969][/us/stat/129/969], 970, provided that:
+[Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1034(a)–(f), Nov. 25, 2015, [129 Stat. 969][/us/stat/129/969], 970, provided that:
 
 >     “(a) __Certification Required Prior to Transfer.—__ 
 
@@ -355,17 +355,17 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
  __Transfers to Foreign Countries of Individuals Detained at United States Naval Station, Guantanamo Bay, Cuba__ 
 
-    [Pub. L. 113–66, div. A, title X, § 1035(a)][/us/pl/113/66/s1035/a]–(e), Dec. 26, 2013, [127 Stat. 851–853][/us/stat/127/851-853], which related to authority, determinations, and notification regarding transfers to foreign countries of individuals detained at United States Naval Station, Guantanamo Bay, Cuba, was repealed by [Pub. L. 114–92, div. A, title X, § 1034(g)][/us/pl/114/92/s1034/g], Nov. 25, 2015, [129 Stat. 971][/us/stat/129/971].
+    [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1035(a)–(e), Dec. 26, 2013, [127 Stat. 851–853][/us/stat/127/851-853], which related to authority, determinations, and notification regarding transfers to foreign countries of individuals detained at United States Naval Station, Guantanamo Bay, Cuba, was repealed by [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1034(g), Nov. 25, 2015, [129 Stat. 971][/us/stat/129/971].
 
  __Notice to Congress on Use of Naval Vessels for Detention of Individuals__ 
 
-[Pub. L. 112–239, div. A, title X, § 1024(a)][/us/pl/112/239/s1024/a], Jan. 2, 2013, 126 Stat 1912, provided that: 
+[Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1024(a), Jan. 2, 2013, 126 Stat 1912, provided that: 
 
 > “Not later than 30 days after first detaining an individual pursuant to the Authorization for Use of Military Force ([Public Law 107–40][/us/pl/107/40]; [50 U.S.C. 1541][/us/usc/t50/s1541] note) on a naval vessel outside the United States, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives notice of the detention. In the case of such an individual who is transferred or released before the submittal of the notice of the individual’s detention, the Secretary shall also submit to such Committees notice of the transfer or release.”
 
  __Notice Required Prior To Transfer of Certain Individuals Detained at the Detention Facility at Parwan, Afghanistan__ 
 
-[Pub. L. 112–239, div. A, title X, § 1025][/us/pl/112/239/s1025], Jan. 2, 2013, [126 Stat. 1913][/us/stat/126/1913], provided that:
+[Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1025, Jan. 2, 2013, [126 Stat. 1913][/us/stat/126/1913], provided that:
 
 >     “(a)  __Notice Required__  __.—__ 
 
@@ -389,17 +389,17 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
  __Requirements for Certifications Relating to the Transfer of Detainees at United States Naval Station, Guantanamo Bay, Cuba, to Foreign Countries and Other Foreign Entities__ 
 
-    [Pub. L. 112–239, div. A, title X, § 1028][/us/pl/112/239/s1028], Jan. 2, 2013, [126 Stat. 1914][/us/stat/126/1914], related to requirements for certifications relating to the transfer of detainees at United States Naval Station, Guantanamo Bay, Cuba, to foreign countries and other foreign entities, prior to repeal by [Pub. L. 113–66, div. A, title X, § 1035(f)(2)][/us/pl/113/66/s1035/f/2], Dec. 26, 2013, [127 Stat. 853][/us/stat/127/853].
+    [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1028, Jan. 2, 2013, [126 Stat. 1914][/us/stat/126/1914], related to requirements for certifications relating to the transfer of detainees at United States Naval Station, Guantanamo Bay, Cuba, to foreign countries and other foreign entities, prior to repeal by [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1035(f)(2), Dec. 26, 2013, [127 Stat. 853][/us/stat/127/853].
 
  __Rights Unaffected__ 
 
-[Pub. L. 112–239, div. A, title X, § 1029][/us/pl/112/239/s1029], Jan. 2, 2013, [126 Stat. 1917][/us/stat/126/1917], provided that: 
+[Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1029, Jan. 2, 2013, [126 Stat. 1917][/us/stat/126/1917], provided that: 
 
 > “Nothing in the Authorization for Use of Military Force ([Public Law 107–40][/us/pl/107/40]; [50 U.S.C. 1541][/us/usc/t50/s1541] note) or the National Defense Authorization Act for Fiscal Year 2012 ([Public Law 112–81][/us/pl/112/81] \[see Tables for classification\]) shall be construed to deny the availability of the writ of habeas corpus or to deny any Constitutional rights in a court ordained or established by or under Article III of the Constitution to any person inside the United States who would be entitled to the availability of such writ or to such rights in the absence of such laws.”
 
  __Notification of Transfer of a Detainee Held at United States Naval Station, Guantanamo Bay, Cuba__ 
 
-[Pub. L. 112–87, title III, § 308][/us/pl/112/87/s308], Jan. 3, 2012, [125 Stat. 1883][/us/stat/125/1883], provided that:
+[Pub. L. 112–87, title III][/us/pl/112/87/tIII], § 308, Jan. 3, 2012, [125 Stat. 1883][/us/stat/125/1883], provided that:
 
 >     “(a)  __Requirement for Notification__  __.—__ 
 
@@ -429,7 +429,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
  __Detention Authority and Procedures, Transfer Certifications and Prosecution Consultation Requirement__ 
 
-[Pub. L. 112–81, div. A, title X][/us/pl/112/81], §§ 1021–1025, 1028, 1029, Dec. 31, 2011, [125 Stat. 1562–1565][/us/stat/125/1562-1565], 1567, 1569, as amended by [Pub. L. 113–66, div. A, title X, § 1035(f)(1)][/us/pl/113/66/s1035/f/1], Dec. 26, 2013, [127 Stat. 853][/us/stat/127/853], provided that:
+[Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], §§ 1021–1025, 1028, 1029, Dec. 31, 2011, [125 Stat. 1562–1565][/us/stat/125/1562-1565], 1567, 1569, as amended by [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1035(f)(1), Dec. 26, 2013, [127 Stat. 853][/us/stat/127/853], provided that:
 
 > “SEC. 1021. __AFFIRMATION OF AUTHORITY OF THE ARMED FORCES OF THE UNITED STATES TO DETAIN COVERED PERSONS PURSUANT TO THE AUTHORIZATION FOR USE OF MILITARY FORCE.__ 
 
@@ -631,7 +631,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >     The protocol submitted pursuant to subsection (a) may be submitted in classified form.
 
-> “\[SEC. 1028. Repealed. [Pub. L. 113–66, div. A, title X, § 1035(f)(1)][/us/pl/113/66/s1035/f/1], Dec. 26, 2013, [127 Stat. 853][/us/stat/127/853].\]
+> “\[SEC. 1028. Repealed. [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1035(f)(1), Dec. 26, 2013, [127 Stat. 853][/us/stat/127/853].\]
 
 > “SEC. 1029. __REQUIREMENT FOR CONSULTATION REGARDING PROSECUTION OF TERRORISTS.__ 
 
@@ -655,7 +655,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
  __Prohibition on Interrogation of Detainees by Contractor Personnel__ 
 
-[Pub. L. 111–84, div. A, title X, § 1038][/us/pl/111/84/s1038], Oct. 28, 2009, [123 Stat. 2451][/us/stat/123/2451], provided that:
+[Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1038, Oct. 28, 2009, [123 Stat. 2451][/us/stat/123/2451], provided that:
 
 >     “(a)  __Prohibition__  __.—__ 
 
@@ -695,7 +695,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
  __No Miranda Warnings for Al Qaeda Terrorists__ 
 
-[Pub. L. 111–84, div. A, title X, § 1040][/us/pl/111/84/s1040], Oct. 28, 2009, [123 Stat. 2454][/us/stat/123/2454], provided that:
+[Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1040, Oct. 28, 2009, [123 Stat. 2454][/us/stat/123/2454], provided that:
 
 >     “(a) __No Miranda Warnings.—__ 
 
@@ -731,7 +731,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
  __Requirement for Videotaping or Otherwise Electronically Recording Strategic Intelligence Interrogations of Persons in the Custody of or Under the Effective Control of the Department of Defense__ 
 
-[Pub. L. 111–84, div. A, title X, § 1080][/us/pl/111/84/s1080], Oct. 28, 2009, [123 Stat. 2479][/us/stat/123/2479], as amended by [Pub. L. 111–383, div. A, title X, § 1075(d)(15)][/us/pl/111/383/s1075/d/15], Jan. 7, 2011, [124 Stat. 4373][/us/stat/124/4373], provided that:
+[Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1080, Oct. 28, 2009, [123 Stat. 2479][/us/stat/123/2479], as amended by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(d)(15), Jan. 7, 2011, [124 Stat. 4373][/us/stat/124/4373], provided that:
 
 >     “(a)  __Videotaping or Other Electronic Recording Required__  __.—__ 
 
@@ -813,7 +813,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
  __Reports on Guantanamo Bay Prisoner Population__ 
 
-[Pub. L. 111–32, title III, § 319][/us/pl/111/32/s319], June 24, 2009, [123 Stat. 1874][/us/stat/123/1874], as amended by [Pub. L. 114–92, div. A, title X][/us/pl/114/92], §§ 1038(a), 1039, Nov. 25, 2015, [129 Stat. 974][/us/stat/129/974], provided that:
+[Pub. L. 111–32, title III][/us/pl/111/32/tIII], § 319, June 24, 2009, [123 Stat. 1874][/us/stat/123/1874], as amended by [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], §§ 1038(a), 1039, Nov. 25, 2015, [129 Stat. 974][/us/stat/129/974], provided that:
 
 >     “(a)  __Reports Required__  __.—__ 
 
@@ -871,7 +871,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >         “(3) An assessment of lessons learned from previous releases and transfers of individuals who returned to terrorist activities for reducing the risk that detainees released or transferred from Naval Station Guantanamo Bay will return to terrorist activities after their release or transfer.”
 
-\[[Pub. L. 114–92, div. A, title X, § 1038(b)][/us/pl/114/92/s1038/b], Nov. 25, 2015, [129 Stat. 974][/us/stat/129/974], provided that: 
+\[[Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1038(b), Nov. 25, 2015, [129 Stat. 974][/us/stat/129/974], provided that: 
 
 > “Nothing in the amendment made by subsection (a) \[amending [section 319(c) of Pub. L. 111–32][/us/pl/111/32/s319/c], set out above, by adding par. (6)\] shall be construed to terminate, alter, modify, override, or otherwise affect any reporting of information required under section 319(c) of the Supplemental Appropriations Act, 2009 \[[Pub. L. 111–32][/us/pl/111/32], set out above\] before the date of the enactment of this section \[Nov. 25, 2015\].”
 
@@ -881,7 +881,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
  __Policy on Role of Military Medical and Behavioral Science Personnel in Interrogation of Detainees__ 
 
-[Pub. L. 109–163, div. A, title VII, § 750][/us/pl/109/163/s750], Jan. 6, 2006, [119 Stat. 3364][/us/stat/119/3364], provided that:
+[Pub. L. 109–163, div. A, title VII][/us/pl/109/163/dA/tVII], § 750, Jan. 6, 2006, [119 Stat. 3364][/us/stat/119/3364], provided that:
 
 >     “(a)  __Policy Required__  __.—__ 
 
@@ -893,7 +893,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
  __Detainee Interrogation, Status Review, and Treatment__ 
 
-[Pub. L. 109–163, div. A, title XIV][/us/pl/109/163], §§ 1402, 1405, 1406, Jan. 6, 2006, [119 Stat. 3475][/us/stat/119/3475], 3476, 3479, as amended by [Pub. L. 111–84, div. A, title XVIII, § 1803(b)(2)][/us/pl/111/84/s1803/b/2], as added [Pub. L. 111–383, div. A, title X, § 1075(d)(21)][/us/pl/111/383/s1075/d/21], Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374], provided that:
+[Pub. L. 109–163, div. A, title XIV][/us/pl/109/163/dA/tXIV], §§ 1402, 1405, 1406, Jan. 6, 2006, [119 Stat. 3475][/us/stat/119/3475], 3476, 3479, as amended by [Pub. L. 111–84, div. A, title XVIII][/us/pl/111/84/dA/tXVIII], § 1803(b)(2), as added [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(d)(21), Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374], provided that:
 
 > “SEC. 1402. __UNIFORM STANDARDS FOR THE INTERROGATION OF PERSONS UNDER THE DETENTION OF THE DEPARTMENT OF DEFENSE.__ 
 
@@ -993,7 +993,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >             The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit with respect to the claims of an alien under this paragraph shall cease upon the release of such alien from the custody of the Department of Defense.
 
->         “\[(3) Repealed. [Pub. L. 111–84, div. A, title XVIII, § 1803(b)(2)][/us/pl/111/84/s1803/b/2], as added [Pub. L. 111–383, div. A, title X, § 1075(d)(21)][/us/pl/111/383/s1075/d/21], Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374].\]
+>         “\[(3) Repealed. [Pub. L. 111–84, div. A, title XVIII][/us/pl/111/84/dA/tXVIII], § 1803(b)(2), as added [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(d)(21), Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374].\]
 
 >         “(4)  __Respondent__  __.—__ 
 
@@ -1051,7 +1051,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >     Not less than one year after the date of the enactment of this Act \[Jan. 6, 2006\], and annually thereafter, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the implementation of this section.”
 
-[Pub. L. 109–148, div. A, title X][/us/pl/109/148], §§ 1002, 1005, 1006, Dec. 30, 2005, [119 Stat. 2739][/us/stat/119/2739], 2740, 2744, as amended by [Pub. L. 109–366][/us/pl/109/366], §§ 9, 10, Oct. 17, 2006, [120 Stat. 2636][/us/stat/120/2636], 2637; [Pub. L. 110–181, div. A, title X, § 1063(d)(2)][/us/pl/110/181/s1063/d/2], Jan. 28, 2008, [122 Stat. 323][/us/stat/122/323]; [Pub. L. 111–84, div. A, title XVIII, § 1803(b)(1)][/us/pl/111/84/s1803/b/1], formerly § 1803(b), Oct. 28, 2009, [123 Stat. 2612][/us/stat/123/2612], as renumbered § 1803(b)(1) by [Pub. L. 111–383, div. A, title X, § 1075(d)(21)][/us/pl/111/383/s1075/d/21], Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374], provided that:
+[Pub. L. 109–148, div. A, title X][/us/pl/109/148/dA/tX], §§ 1002, 1005, 1006, Dec. 30, 2005, [119 Stat. 2739][/us/stat/119/2739], 2740, 2744, as amended by [Pub. L. 109–366][/us/pl/109/366], §§ 9, 10, Oct. 17, 2006, [120 Stat. 2636][/us/stat/120/2636], 2637; [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1063(d)(2), Jan. 28, 2008, [122 Stat. 323][/us/stat/122/323]; [Pub. L. 111–84, div. A, title XVIII][/us/pl/111/84/dA/tXVIII], § 1803(b)(1), formerly § 1803(b), Oct. 28, 2009, [123 Stat. 2612][/us/stat/123/2612], as renumbered § 1803(b)(1) by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(d)(21), Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374], provided that:
 
 > “SEC. 1002. __UNIFORM STANDARDS FOR THE INTERROGATION OF PERSONS UNDER THE DETENTION OF THE DEPARTMENT OF DEFENSE.__ 
 
@@ -1151,7 +1151,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >             The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit with respect to the claims of an alien under this paragraph shall cease upon the release of such alien from the custody of the Department of Defense.
 
->         “\[(3) Repealed. [Pub. L. 111–84, div. A, title XVIII, § 1803(b)(1)][/us/pl/111/84/s1803/b/1], formerly § 1803(b), Oct. 28, 2009, [123 Stat. 2612][/us/stat/123/2612], as renumbered § 1803(b)(1) by [Pub. L. 111–383, div. A, title X, § 1075(d)(21)][/us/pl/111/383/s1075/d/21], Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374].\]
+>         “\[(3) Repealed. [Pub. L. 111–84, div. A, title XVIII][/us/pl/111/84/dA/tXVIII], § 1803(b)(1), formerly § 1803(b), Oct. 28, 2009, [123 Stat. 2612][/us/stat/123/2612], as renumbered § 1803(b)(1) by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(d)(21), Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374].\]
 
 >         “(4)  __Respondent__  __.—__ 
 
@@ -1211,7 +1211,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
  __Sense of Congress Concerning Detainees; Actions To Prevent Abuse__ 
 
-[Pub. L. 108–375, div. A, title X][/us/pl/108/375], §§ 1091, 1092, Oct. 28, 2004, [118 Stat. 2068][/us/stat/118/2068], 2069, provided that:
+[Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], §§ 1091, 1092, Oct. 28, 2004, [118 Stat. 2068][/us/stat/118/2068], 2069, provided that:
 
 > “SEC. 1091. __SENSE OF CONGRESS AND POLICY CONCERNING PERSONS DETAINED BY THE UNITED STATES.__ 
 
@@ -1555,124 +1555,124 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 ----------
 
 [/us/usc/t10/s826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs826
-[/us/pl/109/241/s218/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs218%2Fa%2F1
+[/us/pl/109/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtII
 [/us/stat/120/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F526
 [/us/usc/t42/s2014/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fy
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F36
-[/us/pl/89/670/s10/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs10%2Fg
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F948
-[/us/pl/90/179/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179%2Fs1%2F1
+[/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
 [/us/stat/81/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F545
-[/us/pl/90/632/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F1
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1335
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1393
-[/us/pl/100/180/s1231/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1231%2F17
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1161
-[/us/pl/100/456/s1233/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1233%2Ff%2F1
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2057
-[/us/pl/104/106/s1141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1141%2Fb
+[/us/pl/104/106/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXI
 [/us/stat/110/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F467
-[/us/pl/107/296/s1704/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F2
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/109/241/s218/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs218%2Fa
+[/us/pl/109/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtII
 [/us/stat/120/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F526
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/usc/t10/s101/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F14
 [/us/usc/t14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs1
 [/us/stat/63/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F47
-[/us/pl/109/241/s218/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs218%2Fa%2F1
-[/us/pl/109/241/s218/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs218%2Fa%2F2
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
-[/us/pl/98/209/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs2%2Fa
-[/us/pl/98/209/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs6%2Fa
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
-[/us/pl/90/179/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179%2Fs1%2F1
-[/us/pl/90/179/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179%2Fs1%2F2
+[/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
+[/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/98/209/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs12%2Fa
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1407
 [/us/usc/t10/s867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs867
 [/us/usc/t10/s834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs834
 [/us/usc/t10/s869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs869
 [/us/usc/t10/s912a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs912a
-[/us/pl/90/632/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs4
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1343
 [/us/usc/t10/s869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs869
 [/us/usc/t10/s873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs873
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
-[/us/act/1956-08-10/ch1041/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs51
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F640
-[/us/pl/104/106/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1101
+[/us/pl/104/106/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXI
 [/us/stat/110/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F461
 [/us/usc/t37/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs804
 [/us/usc/t10/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs942
-[/us/pl/99/661/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs801%2Fa
+[/us/pl/99/661/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVIII
 [/us/stat/100/3905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3905
 [/us/usc/t10/s850a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs850a
-[/us/pl/98/209/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs1%2Fa
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1393
 [/us/usc/t28/s1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1259
 [/us/usc/t28/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2101
 [/us/usc/t10/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs706
-[/us/pl/97/81/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81%2Fs1%2Fa
+[/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/stat/95/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1085
 [/us/usc/t10/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs706
-[/us/pl/90/632/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs1
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1335
 [/us/pl/90/179/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179%2Fs8
 [/us/usc/t10/s5148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5148
 [/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
 [/us/pl/90/179/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179%2Fs10
 [/us/usc/t10/s5148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5148
-[/us/act/1956-08-10/ch1041/s49/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs49%2Fe
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F640
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/114/92/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs543
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F820
-[/us/pl/114/92/s1034/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1034%2Fa
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F969
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/stat/129/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F968
 [/us/usc/t8/s1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1189
 [/us/usc/t22/s8541/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8541%2F13
-[/us/pl/113/66/s1035/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1035%2Fa
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/851-853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F851-853
-[/us/pl/114/92/s1034/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1034%2Fg
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F971
-[/us/pl/112/239/s1024/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1024%2Fa
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/pl/107/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F40
 [/us/usc/t50/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1541
-[/us/pl/112/239/s1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1025
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1913
 [/us/pl/107/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F40
 [/us/usc/t50/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1541
-[/us/pl/112/239/s1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1028
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1914
-[/us/pl/113/66/s1035/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1035%2Ff%2F2
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F853
-[/us/pl/112/239/s1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1029
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1917
 [/us/pl/107/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F40
 [/us/usc/t50/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1541
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/112/87/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs308
+[/us/pl/112/87/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2FtIII
 [/us/stat/125/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1883
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F833
 [/us/pl/112/87/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs308%2Fa
-[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1562-1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1562-1565
-[/us/pl/113/66/s1035/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1035%2Ff%2F1
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F853
 [/us/pl/107/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F40
 [/us/usc/t50/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1541
@@ -1684,60 +1684,60 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 [/us/usc/t50/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1541
 [/us/pl/107/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F40
 [/us/usc/t50/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1541
-[/us/pl/113/66/s1035/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1035%2Ff%2F1
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F853
 [/us/pl/112/81/s1022/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1022%2Fa%2F4
-[/us/pl/111/84/s1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1038
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2451
-[/us/pl/111/84/s1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1040
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2454
 [/us/usc/t10/s948a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs948a
-[/us/pl/111/84/s1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1080
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2479
-[/us/pl/111/383/s1075/d/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fd%2F15
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4373
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148
 [/us/usc/t10/s801/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801%2F1
-[/us/pl/111/32/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs319
+[/us/pl/111/32/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2FtIII
 [/us/stat/123/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1874
-[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F974
-[/us/pl/114/92/s1038/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1038%2Fb
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F974
 [/us/pl/111/32/s319/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs319%2Fc
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
-[/us/pl/109/163/s750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs750
+[/us/pl/109/163/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVII
 [/us/stat/119/3364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3364
-[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtXIV
 [/us/stat/119/3475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3475
-[/us/pl/111/84/s1803/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1803%2Fb%2F2
-[/us/pl/111/383/s1075/d/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fd%2F21
+[/us/pl/111/84/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXVIII
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4374
 [/us/usc/t28/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2241
-[/us/pl/111/84/s1803/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1803%2Fb%2F2
-[/us/pl/111/383/s1075/d/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fd%2F21
+[/us/pl/111/84/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXVIII
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4374
 [/us/usc/t8/s1101/a/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F38
-[/us/pl/109/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148
+[/us/pl/109/148/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2FdA%2FtX
 [/us/stat/119/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2739
 [/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/stat/120/2636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2636
-[/us/pl/110/181/s1063/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fd%2F2
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F323
-[/us/pl/111/84/s1803/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1803%2Fb%2F1
+[/us/pl/111/84/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXVIII
 [/us/stat/123/2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2612
-[/us/pl/111/383/s1075/d/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fd%2F21
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4374
 [/us/usc/t28/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2241
-[/us/pl/111/84/s1803/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1803%2Fb%2F1
+[/us/pl/111/84/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXVIII
 [/us/stat/123/2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2612
-[/us/pl/111/383/s1075/d/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fd%2F21
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4374
 [/us/usc/t8/s1101/a/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F38
-[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2068
 [/us/pl/107/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F40
 [/us/stat/115/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F224

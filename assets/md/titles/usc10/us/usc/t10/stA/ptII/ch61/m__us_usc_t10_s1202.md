@@ -17,7 +17,7 @@
 
     Upon a determination by the Secretary concerned that a member described in [section 1201(c) of this title][/us/usc/t10/s1201/c] would be qualified for retirement under [section 1201 of this title][/us/usc/t10/s1201] but for the fact that his disability is not determined to be of a permanent nature and stable, the Secretary shall, if he also determines that accepted medical principles indicate that the disability may be of a permanent nature, place the member’s name on the temporary disability retired list, with retired pay computed under [section 1401 of this title][/us/usc/t10/s1401].
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 92][/us/stat/70A/92]; [Pub. L. 85–861, § 1(28)(A)][/us/pl/85/861/s1/28/A], Sept. 2, 1958, [72 Stat. 1451][/us/stat/72/1451]; [Pub. L. 87–651, title I, § 107(a)][/us/pl/87/651/s107/a], Sept. 7, 1962, [76 Stat. 508][/us/stat/76/508]; [Pub. L. 99–145, title V, § 513(a)(1)(B)][/us/pl/99/145/s513/a/1/B], Nov. 8, 1985, [99 Stat. 627][/us/stat/99/627]; [Pub. L. 103–337, div. A, title XVI, § 1671(c)(6)][/us/pl/103/337/s1671/c/6], Oct. 5, 1994, [108 Stat. 3014][/us/stat/108/3014]; [Pub. L. 104–201, div. A, title V, § 572(b)][/us/pl/104/201/s572/b], Sept. 23, 1996, [110 Stat. 2533][/us/stat/110/2533].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 92][/us/stat/70A/92]; [Pub. L. 85–861][/us/pl/85/861], § 1(28)(A), Sept. 2, 1958, [72 Stat. 1451][/us/stat/72/1451]; [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 107(a), Sept. 7, 1962, [76 Stat. 508][/us/stat/76/508]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 513(a)(1)(B), Nov. 8, 1985, [99 Stat. 627][/us/stat/99/627]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1671(c)(6), Oct. 5, 1994, [108 Stat. 3014][/us/stat/108/3014]; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 572(b), Sept. 23, 1996, [110 Stat. 2533][/us/stat/110/2533].)
 
 <table>
 
@@ -157,15 +157,15 @@ Source (Statutes at Large)  </td>
 [/us/usc/t10/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F92
-[/us/pl/85/861/s1/28/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F28%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1451
-[/us/pl/87/651/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs107%2Fa
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F508
-[/us/pl/99/145/s513/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs513%2Fa%2F1%2FB
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F627
-[/us/pl/103/337/s1671/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1671%2Fc%2F6
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3014
-[/us/pl/104/201/s572/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs572%2Fb
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2533
 [/us/usc/t10/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1201
 [/us/act/1956-04-23/ch209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-23%2Fch209

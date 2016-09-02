@@ -33,7 +33,7 @@
 
         (2) in time of war or national emergency, by other units of the armed forces or by the United States for any other purpose.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 122][/us/stat/70A/122], § 2235; renumbered § 18235 and amended [Pub. L. 103–337, div. A, title XVI, § 1664(b)(2)][/us/pl/103/337/s1664/b/2], (7), Oct. 5, 1994, [108 Stat. 3010][/us/stat/108/3010]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(2)][/us/pl/104/106/s1502/a/2], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 122][/us/stat/70A/122], § 2235; renumbered § 18235 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1664(b)(2), (7), Oct. 5, 1994, [108 Stat. 3010][/us/stat/108/3010]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1502(a)(2), Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774].)
 
 <table>
 
@@ -103,9 +103,9 @@ Sept. 11, 1950, ch. 945, § 4(c) (less 1st sentence), 64 Stat. 830.  </td>
 
     1996—Subsec. (a). [Pub. L. 104–106][/us/pl/104/106] substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
 
-    1994—[Pub. L. 103–337, § 1664(b)(2)][/us/pl/103/337/s1664/b/2], renumbered [section 2235 of this title][/us/usc/t10/s2235] as this section.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 1664(b)(2), renumbered [section 2235 of this title][/us/usc/t10/s2235] as this section.
 
-    Subsec. (a)(1). [Pub. L. 103–337, § 1664(b)(7)][/us/pl/103/337/s1664/b/7], substituted “18233” for “2233(a)(1)”.
+    Subsec. (a)(1). [Pub. L. 103–337][/us/pl/103/337], § 1664(b)(7), substituted “18233” for “2233(a)(1)”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -121,17 +121,17 @@ Sept. 11, 1950, ch. 945, § 4(c) (less 1st sentence), 64 Stat. 830.  </td>
 [/us/usc/t10/s18233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs18233
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F122
-[/us/pl/103/337/s1664/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1664%2Fb%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3010
-[/us/pl/104/106/s1502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F2
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F502
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/337/s1664/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1664%2Fb%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s2235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2235
-[/us/pl/103/337/s1664/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1664%2Fb%2F7
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001

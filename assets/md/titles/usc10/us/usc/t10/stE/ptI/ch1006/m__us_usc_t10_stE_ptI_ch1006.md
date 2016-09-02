@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–163, div. A, title V, § 515(b)(4)(F)][/us/pl/109/163/s515/b/4/F], Jan. 6, 2006, [119 Stat. 3235][/us/stat/119/3235], substituted “Navy Reserve” for “Naval Reserve” in item 10172.
+    2006—[Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(4)(F), Jan. 6, 2006, [119 Stat. 3235][/us/stat/119/3235], substituted “Navy Reserve” for “Naval Reserve” in item 10172.
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/109/163/s515/b/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F4%2FF
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3235
 
 

@@ -43,7 +43,7 @@
 
     In this section, the terms “management headquarters activities” and “management headquarters support activities” have the meanings given those terms in Department of Defense Instruction 5100.73, titled “Major DoD Headquarters Activities”.
 
-(Added [Pub. L. 99–433, title III, § 301(a)(2)][/us/pl/99/433/s301/a/2], Oct. 1, 1986, [100 Stat. 1021][/us/stat/100/1021]; amended [Pub. L. 100–180, div. A, title XIII, § 1314(b)(3)][/us/pl/100/180/s1314/b/3], Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175]; [Pub. L. 101–189, div. A, title XVI, § 1622(h)(1)][/us/pl/101/189/s1622/h/1], Nov. 29, 1989, [103 Stat. 1605][/us/stat/103/1605]; [Pub. L. 113–66, div. A, title IX, § 906][/us/pl/113/66/s906], Dec. 26, 2013, [127 Stat. 818][/us/stat/127/818].)
+(Added [Pub. L. 99–433, title III][/us/pl/99/433/tIII], § 301(a)(2), Oct. 1, 1986, [100 Stat. 1021][/us/stat/100/1021]; amended [Pub. L. 100–180, div. A, title XIII][/us/pl/100/180/dA/tXIII], § 1314(b)(3), Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1622(h)(1), Nov. 29, 1989, [103 Stat. 1605][/us/stat/103/1605]; [Pub. L. 113–66, div. A, title IX][/us/pl/113/66/dA/tIX], § 906, Dec. 26, 2013, [127 Stat. 818][/us/stat/127/818].)
 
  __Amendments__ 
 
@@ -59,11 +59,11 @@
 
  __Reductions in Defense Intelligence Agency Personnel__ 
 
-    [Pub. L. 100–202, § 101(b)][/us/pl/100/202/s101/b] \[title VIII, § 8122\], Dec. 22, 1987, [101 Stat. 1329–43][/us/stat/101/1329-43], 1329–85, provided that nothing in [section 102d(1) of Public Law 100–178][/us/pl/100/178/s102d/1], [101 Stat. 1010][/us/stat/101/1010], [section 601(b)(2)(A) of Public Law 99–433][/us/pl/99/433/s601/b/2/A], [100 Stat. 1065][/us/stat/100/1065] \[set out below\], or [section 601(d) of Public Law 99–433][/us/pl/99/433/s601/d], [100 Stat. 1065][/us/stat/100/1065] \[set out below\], shall be construed as requiring or suggesting that the Secretary of Defense avoid allocating personnel reductions to the Defense Intelligence Agency, prior to repeal by [Pub. L. 100–456, div. A, title XII, § 1213][/us/pl/100/456/s1213], Sept. 29, 1988, [102 Stat. 2053][/us/stat/102/2053].
+    [Pub. L. 100–202][/us/pl/100/202], § 101(b) \[title VIII, § 8122\], Dec. 22, 1987, [101 Stat. 1329–43][/us/stat/101/1329-43], 1329–85, provided that nothing in [section 102d(1) of Public Law 100–178][/us/pl/100/178/s102d/1], [101 Stat. 1010][/us/stat/101/1010], [section 601(b)(2)(A) of Public Law 99–433][/us/pl/99/433/s601/b/2/A], [100 Stat. 1065][/us/stat/100/1065] \[set out below\], or [section 601(d) of Public Law 99–433][/us/pl/99/433/s601/d], [100 Stat. 1065][/us/stat/100/1065] \[set out below\], shall be construed as requiring or suggesting that the Secretary of Defense avoid allocating personnel reductions to the Defense Intelligence Agency, prior to repeal by [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1213, Sept. 29, 1988, [102 Stat. 2053][/us/stat/102/2053].
 
  __Reduction in Personnel Assigned to Management Headquarters Activities and Certain Other Activities__ 
 
-[Pub. L. 99–433, title VI, § 601][/us/pl/99/433/s601], Oct. 1, 1986, [100 Stat. 1064][/us/stat/100/1064], as amended by [Pub. L. 100–180, div. A, title XIII, § 1312][/us/pl/100/180/s1312], Dec. 4, 1987, [101 Stat. 1174][/us/stat/101/1174]; [Pub. L. 101–189, div. A, title XVI, § 1622(h)(2)][/us/pl/101/189/s1622/h/2], Nov. 29, 1989, [103 Stat. 1606][/us/stat/103/1606], provided that:
+[Pub. L. 99–433, title VI][/us/pl/99/433/tVI], § 601, Oct. 1, 1986, [100 Stat. 1064][/us/stat/100/1064], as amended by [Pub. L. 100–180, div. A, title XIII][/us/pl/100/180/dA/tXIII], § 1312, Dec. 4, 1987, [101 Stat. 1174][/us/stat/101/1174]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1622(h)(2), Nov. 29, 1989, [103 Stat. 1606][/us/stat/103/1606], provided that:
 
 >     “(a)  __Military Departments and Combatant Commands__  __.—__ 
 
@@ -134,20 +134,20 @@
 ----------
 ----------
 
-[/us/pl/99/433/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs301%2Fa%2F2
+[/us/pl/99/433/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtIII
 [/us/stat/100/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1021
-[/us/pl/100/180/s1314/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fb%2F3
+[/us/pl/100/180/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXIII
 [/us/stat/101/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1175
-[/us/pl/101/189/s1622/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fh%2F1
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1605
-[/us/pl/113/66/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs906
+[/us/pl/113/66/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIX
 [/us/stat/127/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F818
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/110/417/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs1111
 [/us/usc/t10/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs143
-[/us/pl/100/202/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fb
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-43
 [/us/pl/100/178/s102d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F178%2Fs102d%2F1
 [/us/stat/101/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1010
@@ -155,13 +155,13 @@
 [/us/stat/100/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1065
 [/us/pl/99/433/s601/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs601%2Fd
 [/us/stat/100/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1065
-[/us/pl/100/456/s1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1213
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2053
-[/us/pl/99/433/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs601
+[/us/pl/99/433/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtVI
 [/us/stat/100/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1064
-[/us/pl/100/180/s1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1312
+[/us/pl/100/180/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXIII
 [/us/stat/101/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1174
-[/us/pl/101/189/s1622/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fh%2F2
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1606
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch573/m__us_usc_t10_s6383.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch573/m__us_usc_t10_s6390.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6389)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch573/m__us_usc_t10_s6384...6388.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch573/m__us_usc_t10_s6390.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6389)
 
 ## § 6389. Navy Reserve and Marine Corps Reserve; officers: elimination from active status; computation of total commissioned service
 
@@ -91,7 +91,7 @@
 
     (d) For the purposes of subsection (c), the total commissioned service of an officer who has served continuously in the Navy Reserve or the Marine Corps Reserve following appointment therein in the permanent grade of ensign or second lieutenant, as the case may be, shall be computed from June 30 of the fiscal year in which he accepted the appointment. Each other officer is considered to have for this purpose as much total commissioned service as the years of active commissioned service of any regular officer on the active-duty list of the Navy not restricted in the performance of duty, or any regular officer on the active-duty list of the Marine Corps not restricted in the performance of duty, as appropriate, who has served continuously since original appointment as an ensign on the active-duty list of the Navy or as a second lieutenant on the active-duty list of the Marine Corps, has not lost numbers or prec­edence, and is, or has been after September 6, 1947, junior to that other officer. However, the total commissioned service that the other officer is considered to have may not be less than the actual number of years he has served as a commissioned officer in a grade above chief warrant officer, W–5.
 
-(Added [Pub. L. 85–861, § 1(144)(A)][/us/pl/85/861/s1/144/A], Sept. 2, 1958, [72 Stat. 1509][/us/stat/72/1509]; amended [Pub. L. 86–559, § 1(46)][/us/pl/86/559/s1/46], June 30, 1960, [74 Stat. 274][/us/stat/74/274]; [Pub. L. 96–513, title III, § 337(a)][/us/pl/96/513/s337/a], Dec. 12, 1980, [94 Stat. 2900][/us/stat/94/2900]; [Pub. L. 97–86, title IV, § 405(b)(1)][/us/pl/97/86/s405/b/1], Dec. 1, 1981, [95 Stat. 1105][/us/stat/95/1105]; [Pub. L. 98–525, title V, § 528(c)][/us/pl/98/525/s528/c], Oct. 19, 1984, [98 Stat. 2526][/us/stat/98/2526]; [Pub. L. 99–145, title V, § 514(b)(1)][/us/pl/99/145/s514/b/1], Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628]; [Pub. L. 102–190, div. A, title XI, § 1131(8)(A)][/us/pl/102/190/s1131/8/A], Dec. 5, 1991, [105 Stat. 1506][/us/stat/105/1506]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337], §§ 1628, 1673(c)(1), Oct. 5, 1994, [108 Stat. 2962][/us/stat/108/2962], 3016; [Pub. L. 104–106, div. A, title XV, § 1501(c)(25)][/us/pl/104/106/s1501/c/25], Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499]; [Pub. L. 109–163, div. A, title V, § 515(b)(1)(M)][/us/pl/109/163/s515/b/1/M], (3)(C), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233], 3234.)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(144)(A), Sept. 2, 1958, [72 Stat. 1509][/us/stat/72/1509]; amended [Pub. L. 86–559][/us/pl/86/559], § 1(46), June 30, 1960, [74 Stat. 274][/us/stat/74/274]; [Pub. L. 96–513, title III][/us/pl/96/513/tIII], § 337(a), Dec. 12, 1980, [94 Stat. 2900][/us/stat/94/2900]; [Pub. L. 97–86, title IV][/us/pl/97/86/tIV], § 405(b)(1), Dec. 1, 1981, [95 Stat. 1105][/us/stat/95/1105]; [Pub. L. 98–525, title V][/us/pl/98/525/tV], § 528(c), Oct. 19, 1984, [98 Stat. 2526][/us/stat/98/2526]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 514(b)(1), Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628]; [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1131(8)(A), Dec. 5, 1991, [105 Stat. 1506][/us/stat/105/1506]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], §§ 1628, 1673(c)(1), Oct. 5, 1994, [108 Stat. 2962][/us/stat/108/2962], 3016; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(c)(25), Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(M), (3)(C), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233], 3234.)
 
 <table>
 
@@ -209,39 +209,39 @@ Subsection (e) is added to avoid conflict with 50:1311(d) and (e), codified in s
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–163, § 515(b)(3)(C)][/us/pl/109/163/s515/b/3/C], substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+    2006—[Pub. L. 109–163][/us/pl/109/163], § 515(b)(3)(C), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 
-    [Pub. L. 109–163, § 515(b)(1)(M)][/us/pl/109/163/s515/b/1/M], substituted “Navy Reserve” for “Naval Reserve” wherever appearing in text.
+    [Pub. L. 109–163][/us/pl/109/163], § 515(b)(1)(M), substituted “Navy Reserve” for “Naval Reserve” wherever appearing in text.
 
     1996—Subsec. (c). [Pub. L. 104–106][/us/pl/104/106] substituted “section 12732” for “section 1332”.
 
-    1994—Subsec. (a). [Pub. L. 103–337, § 1673(c)][/us/pl/103/337/s1673/c], substituted “12645” for “1005”.
+    1994—Subsec. (a). [Pub. L. 103–337][/us/pl/103/337], § 1673(c), substituted “12645” for “1005”.
 
-    [Pub. L. 103–337, § 1628(1)][/us/pl/103/337/s1628/1], inserted “while on the active-duty list” after “to the next higher grade” and “or released from active duty and placed on the reserve active-status list” after “from an active status”.
+    [Pub. L. 103–337][/us/pl/103/337], § 1628(1), inserted “while on the active-duty list” after “to the next higher grade” and “or released from active duty and placed on the reserve active-status list” after “from an active status”.
 
-    Subsec. (b). [Pub. L. 103–337, § 1628(2)][/us/pl/103/337/s1628/2], struck out “or (f)” after “subsection (a)”.
+    Subsec. (b). [Pub. L. 103–337][/us/pl/103/337], § 1628(2), struck out “or (f)” after “subsection (a)”.
 
-    Subsec. (c). [Pub. L. 103–337, § 1628(3)(H)][/us/pl/103/337/s1628/3/H], designated last sentence as par. (4) and in that sentence substituted “paragraph (1)” for “the first two sentences of this subsection” and struck out “captain or” after “permanent grade of”.
+    Subsec. (c). [Pub. L. 103–337][/us/pl/103/337], § 1628(3)(H), designated last sentence as par. (4) and in that sentence substituted “paragraph (1)” for “the first two sentences of this subsection” and struck out “captain or” after “permanent grade of”.
 
-    [Pub. L. 103–337, § 1628(3)(G)][/us/pl/103/337/s1628/3/G], designated 4th sentence as par. (3) and in that sentence substituted “paragraph (1)” for “the first two sentences of this subsection”.
+    [Pub. L. 103–337][/us/pl/103/337], § 1628(3)(G), designated 4th sentence as par. (3) and in that sentence substituted “paragraph (1)” for “the first two sentences of this subsection”.
 
-    [Pub. L. 103–337, § 1628(3)(F)][/us/pl/103/337/s1628/3/F], designated sentence after table as par. (2) and in that sentence substituted “the first sentence of paragraph (1)” for “the first sentence of this subsection”.
+    [Pub. L. 103–337][/us/pl/103/337], § 1628(3)(F), designated sentence after table as par. (2) and in that sentence substituted “the first sentence of paragraph (1)” for “the first sentence of this subsection”.
 
-    [Pub. L. 103–337, § 1628(3)(E)][/us/pl/103/337/s1628/3/E], in table struck out line relating to grades of captain in Navy and colonel in Marine Corps and substituted “28 years” for “26 years”.
+    [Pub. L. 103–337][/us/pl/103/337], § 1628(3)(E), in table struck out line relating to grades of captain in Navy and colonel in Marine Corps and substituted “28 years” for “26 years”.
 
-    [Pub. L. 103–337, § 1628(3)(D)][/us/pl/103/337/s1628/3/D], inserted “while on the active-duty list” after “to the next higher grade” in first sentence.
+    [Pub. L. 103–337][/us/pl/103/337], § 1628(3)(D), inserted “while on the active-duty list” after “to the next higher grade” in first sentence.
 
-    [Pub. L. 103–337, § 1628(3)(C)][/us/pl/103/337/s1628/3/C], substituted “major or lieutenant colonel” for “major or above” in two places.
+    [Pub. L. 103–337][/us/pl/103/337], § 1628(3)(C), substituted “major or lieutenant colonel” for “major or above” in two places.
 
-    [Pub. L. 103–337, § 1628(3)(B)][/us/pl/103/337/s1628/3/B], substituted “lieutenant commander or commander” for “lieutenant commander or above” in two places.
+    [Pub. L. 103–337][/us/pl/103/337], § 1628(3)(B), substituted “lieutenant commander or commander” for “lieutenant commander or above” in two places.
 
-    [Pub. L. 103–337, § 1628(3)(A)][/us/pl/103/337/s1628/3/A], inserted “(1)” after “(c)”.
+    [Pub. L. 103–337][/us/pl/103/337], § 1628(3)(A), inserted “(1)” after “(c)”.
 
-    Subsec. (e). [Pub. L. 103–337, § 1628(4)][/us/pl/103/337/s1628/4], struck out subsec. (e) which read as follows: “This section does not apply to women reserve officers or to reserve officers in the Nurse Corps.”
+    Subsec. (e). [Pub. L. 103–337][/us/pl/103/337], § 1628(4), struck out subsec. (e) which read as follows: “This section does not apply to women reserve officers or to reserve officers in the Nurse Corps.”
 
-    Subsec. (f). [Pub. L. 103–337, § 1628(4)][/us/pl/103/337/s1628/4], struck out subsec. (f) which provided for transfer or discharge of rear admirals (lower half) in Naval Reserve and brigadier generals in Marine Corps Reserve on completion of 30 years service or five years in grade and for rear admirals in Naval Reserve and major generals in Marine Corps Reserve on completion of 35 years service or five years in grade and provided that rear admirals (lower half) and rear admirals in Naval Reserve and brigadier generals and major generals in Marine Corps Reserve could be considered for early retirement by continuation board. See sections 14508 and 14705 of this title.
+    Subsec. (f). [Pub. L. 103–337][/us/pl/103/337], § 1628(4), struck out subsec. (f) which provided for transfer or discharge of rear admirals (lower half) in Naval Reserve and brigadier generals in Marine Corps Reserve on completion of 30 years service or five years in grade and for rear admirals in Naval Reserve and major generals in Marine Corps Reserve on completion of 35 years service or five years in grade and provided that rear admirals (lower half) and rear admirals in Naval Reserve and brigadier generals and major generals in Marine Corps Reserve could be considered for early retirement by continuation board. See sections 14508 and 14705 of this title.
 
-    Subsec. (g). [Pub. L. 103–337, § 1628(4)][/us/pl/103/337/s1628/4], struck out subsec. (g) which read as follows: “An officer in an active status in the Naval Reserve in the permanent grade of ensign who is found not qualified for promotion to the grade of lieutenant (junior grade), and an officer in an active status in the Marine Corps Reserve in the permanent grade of second lieutenant who is found not qualified for promotion to the grade of first lieutenant, may (unless he is sooner promoted) be eliminated from an active status.”
+    Subsec. (g). [Pub. L. 103–337][/us/pl/103/337], § 1628(4), struck out subsec. (g) which read as follows: “An officer in an active status in the Naval Reserve in the permanent grade of ensign who is found not qualified for promotion to the grade of lieutenant (junior grade), and an officer in an active status in the Marine Corps Reserve in the permanent grade of second lieutenant who is found not qualified for promotion to the grade of first lieutenant, may (unless he is sooner promoted) be eliminated from an active status.”
 
     1991—Subsec. (d). [Pub. L. 102–190][/us/pl/102/190] substituted “W–5” for “W–4”.
 
@@ -251,19 +251,19 @@ Subsection (e) is added to avoid conflict with 50:1311(d) and (e), codified in s
 
     1981—Subsec. (f)(1), (3). [Pub. L. 97–86][/us/pl/97/86] substituted “commodore” for “commodore admiral”.
 
-    1980—Subsec. (b). [Pub. L. 96–513, § 337(a)(1)][/us/pl/96/513/s337/a/1], substituted “subsection (a) or (f)” for “subsection (a)”.
+    1980—Subsec. (b). [Pub. L. 96–513][/us/pl/96/513], § 337(a)(1), substituted “subsection (a) or (f)” for “subsection (a)”.
 
-    Subsec. (d). [Pub. L. 96–513, § 337(a)(2)][/us/pl/96/513/s337/a/2], substituted “as the years of active commissioned service of any regular officer on the active-duty” for “as any officer in the line on the active” and “or any regular officer on the active-duty list of the Marine Corps” for “or any officer on the active list of the Marine Corps”.
+    Subsec. (d). [Pub. L. 96–513][/us/pl/96/513], § 337(a)(2), substituted “as the years of active commissioned service of any regular officer on the active-duty” for “as any officer in the line on the active” and “or any regular officer on the active-duty list of the Marine Corps” for “or any officer on the active list of the Marine Corps”.
 
-    Subsec. (e). [Pub. L. 96–513, § 337(a)(3)][/us/pl/96/513/s337/a/3], substituted “does not apply to” for “applies to women officers appointed under [section 5581 of this title][/us/usc/t10/s5581], but not to other”.
+    Subsec. (e). [Pub. L. 96–513][/us/pl/96/513], § 337(a)(3), substituted “does not apply to” for “applies to women officers appointed under [section 5581 of this title][/us/usc/t10/s5581], but not to other”.
 
-    Subsec. (f). [Pub. L. 96–513, § 337(a)(4)][/us/pl/96/513/s337/a/4], added subsec. (f).
+    Subsec. (f). [Pub. L. 96–513][/us/pl/96/513], § 337(a)(4), added subsec. (f).
 
     1960—Subsec. (c). [Pub. L. 86–559][/us/pl/86/559] empowered the Secretary to defer the retirement or discharge of officers serving in the grade of lieutenant commander in the Ready Reserve, in the permanent grade of lieutenant commander or above in the Naval Reserve, in the permanent grade of major or above in the Marine Corps Reserve, and in the permanent grade of captain or commander in the Medical Corps, Chaplain Corps, or Dental Corps in the Naval Reserve.
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–106, div. A, title XV, § 1501(c)][/us/pl/104/106/s1501/c], Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498], provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as originally enacted.
+    [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(c), Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498], provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as originally enacted.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -283,66 +283,66 @@ Subsection (e) is added to avoid conflict with 50:1311(d) and (e), codified in s
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch573/m__us_usc_t10_s6383.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch573/m__us_usc_t10_s6390.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6389)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch573/m__us_usc_t10_s6384...6388.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch573/m__us_usc_t10_s6390.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6389)
 
 ----------
 ----------
 
 [/us/usc/t10/s12645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12645
 [/us/usc/t10/s12732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12732
-[/us/pl/85/861/s1/144/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F144%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1509
-[/us/pl/86/559/s1/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559%2Fs1%2F46
+[/us/pl/86/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559
 [/us/stat/74/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F274
-[/us/pl/96/513/s337/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs337%2Fa
+[/us/pl/96/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIII
 [/us/stat/94/2900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2900
-[/us/pl/97/86/s405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs405%2Fb%2F1
+[/us/pl/97/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIV
 [/us/stat/95/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1105
-[/us/pl/98/525/s528/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs528%2Fc
+[/us/pl/98/525/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtV
 [/us/stat/98/2526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2526
-[/us/pl/99/145/s514/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fb%2F1
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F628
-[/us/pl/102/190/s1131/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1131%2F8%2FA
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1506
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2962
-[/us/pl/104/106/s1501/c/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc%2F25
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F499
-[/us/pl/109/163/s515/b/1/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FM
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3233
 [/us/act/1952-06-24/ch457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-24%2Fch457
 [/us/stat/66/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F155
 [/us/usc/t34/s21e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs21e
 [/us/usc/t10/s5581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5581
 [/us/usc/t10/s5665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5665
-[/us/pl/109/163/s515/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F3%2FC
-[/us/pl/109/163/s515/b/1/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FM
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/337/s1673/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1673%2Fc
-[/us/pl/103/337/s1628/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1628%2F1
-[/us/pl/103/337/s1628/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1628%2F2
-[/us/pl/103/337/s1628/3/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1628%2F3%2FH
-[/us/pl/103/337/s1628/3/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1628%2F3%2FG
-[/us/pl/103/337/s1628/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1628%2F3%2FF
-[/us/pl/103/337/s1628/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1628%2F3%2FE
-[/us/pl/103/337/s1628/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1628%2F3%2FD
-[/us/pl/103/337/s1628/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1628%2F3%2FC
-[/us/pl/103/337/s1628/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1628%2F3%2FB
-[/us/pl/103/337/s1628/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1628%2F3%2FA
-[/us/pl/103/337/s1628/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1628%2F4
-[/us/pl/103/337/s1628/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1628%2F4
-[/us/pl/103/337/s1628/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1628%2F4
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/97/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86
-[/us/pl/96/513/s337/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs337%2Fa%2F1
-[/us/pl/96/513/s337/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs337%2Fa%2F2
-[/us/pl/96/513/s337/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs337%2Fa%2F3
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/usc/t10/s5581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5581
-[/us/pl/96/513/s337/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs337%2Fa%2F4
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/86/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559
-[/us/pl/104/106/s1501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F498
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1673/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1673%2Fc%2F1

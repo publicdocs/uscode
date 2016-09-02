@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t10/stB/ptIV/ch453/m__us_usc_t10_s4833.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIV/ch453/m__us_usc_t10_s4835.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4834)
 
-## \[§ 4834. Repealed. [Pub. L. 92–310, title II, § 204(a)][/us/pl/92/310/s204/a], June 6, 1972, [86 Stat. 202][/us/stat/86/202]\]
+## \[§ 4834. Repealed. [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 204(a), June 6, 1972, [86 Stat. 202][/us/stat/86/202]\]
 
-    Section, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 272][/us/stat/70A/272]; Nov. 2, 1966, [Pub. L. 89–718, § 31][/us/pl/89/718/s31], [80 Stat. 1119][/us/stat/80/1119], required commissioned officers of the Quartermaster Corps to give fidelity bonds.
+    Section, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 272][/us/stat/70A/272]; Nov. 2, 1966, [Pub. L. 89–718][/us/pl/89/718], § 31, [80 Stat. 1119][/us/stat/80/1119], required commissioned officers of the Quartermaster Corps to give fidelity bonds.
 
 ----------
 
@@ -24,11 +24,11 @@
 ----------
 ----------
 
-[/us/pl/92/310/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs204%2Fa
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F202
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F272
-[/us/pl/89/718/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs31
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1119
 
 

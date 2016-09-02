@@ -51,15 +51,15 @@
 
  __Amendments__ 
 
-    1999—[Pub. L. 106–65, div. A, title X, § 1042(b)][/us/pl/106/65/s1042/b], Oct. 5, 1999, [113 Stat. 760][/us/stat/113/760], added item 2723.
+    1999—[Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1042(b), Oct. 5, 1999, [113 Stat. 760][/us/stat/113/760], added item 2723.
 
-    1991—[Pub. L. 102–190, div. A, title X, § 1061(a)(17)(B)][/us/pl/102/190/s1061/a/17/B], Dec. 5, 1991, [105 Stat. 1473][/us/stat/105/1473], substituted “Property records: maintenance on quantitative and monetary basis” for “Basis” in item 2721.
+    1991—[Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1061(a)(17)(B), Dec. 5, 1991, [105 Stat. 1473][/us/stat/105/1473], substituted “Property records: maintenance on quantitative and monetary basis” for “Basis” in item 2721.
 
-    1990—[Pub. L. 101–510, div. A, title XIII, § 1331(7)][/us/pl/101/510/s1331/7], Nov. 5, 1990, [104 Stat. 1673][/us/stat/104/1673], substituted “Basis” for “Basis: reports” in item 2721.
+    1990—[Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1331(7), Nov. 5, 1990, [104 Stat. 1673][/us/stat/104/1673], substituted “Basis” for “Basis: reports” in item 2721.
 
-    1988—[Pub. L. 100–456, div. A, title III, § 344(b)(1)][/us/pl/100/456/s344/b/1], Sept. 29, 1988, [102 Stat. 1962][/us/stat/102/1962], inserted “AND REPORT OF THEFT OR LOSS OF CERTAIN PROPERTY” in chapter heading and added item 2722.
+    1988—[Pub. L. 100–456, div. A, title III][/us/pl/100/456/dA/tIII], § 344(b)(1), Sept. 29, 1988, [102 Stat. 1962][/us/stat/102/1962], inserted “AND REPORT OF THEFT OR LOSS OF CERTAIN PROPERTY” in chapter heading and added item 2722.
 
-    1986—[Pub. L. 99–499, title II, § 211(a)(3)][/us/pl/99/499/s211/a/3], Oct. 17, 1986, [100 Stat. 1725][/us/stat/100/1725], redesignated item 2701 as item 2721.
+    1986—[Pub. L. 99–499, title II][/us/pl/99/499/tII], § 211(a)(3), Oct. 17, 1986, [100 Stat. 1725][/us/stat/100/1725], redesignated item 2701 as item 2721.
 
 ----------
 
@@ -68,15 +68,15 @@
 ----------
 ----------
 
-[/us/pl/106/65/s1042/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1042%2Fb
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F760
-[/us/pl/102/190/s1061/a/17/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fa%2F17%2FB
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1473
-[/us/pl/101/510/s1331/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1331%2F7
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1673
-[/us/pl/100/456/s344/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs344%2Fb%2F1
+[/us/pl/100/456/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtIII
 [/us/stat/102/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1962
-[/us/pl/99/499/s211/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs211%2Fa%2F3
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1725
 
 

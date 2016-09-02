@@ -11,54 +11,30 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch361/m__us_usc_t10_s3814a.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch363/m__us_usc_t10_stB_ptII_ch363.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3818)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch361/m__us_usc_t10_s3815 _us_usc_t10_s3816.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch361/m__us_usc_t10_s3819 _us_usc_t10_s3820.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3818)
 
-## \[§ 3818. Repealed. [Pub. L. 96–513, title II, § 236][/us/pl/96/513/s236], Dec. 12, 1980, [94 Stat. 2887][/us/stat/94/2887]\]
+## \[§ 3818. Repealed. [Pub. L. 96–513, title II][/us/pl/96/513/tII], § 236, Dec. 12, 1980, [94 Stat. 2887][/us/stat/94/2887]\]
 
-    Section, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 221][/us/stat/70A/221]; Oct. 20, 1978, [Pub. L. 95–485, title VIII, § 820(g)][/us/pl/95/485/s820/g], [92 Stat. 1627][/us/stat/92/1627], authorized Secretary of the Army to terminate appointment of a female commissioned officer of Regular Army, other than by dismissal, under regulations prescribed by President, or to terminate the appointment of a female warrant officer or enlistment of a female member of Regular Army by discharge from the Army.
+    Section, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 221][/us/stat/70A/221]; Oct. 20, 1978, [Pub. L. 95–485, title VIII][/us/pl/95/485/tVIII], § 820(g), [92 Stat. 1627][/us/stat/92/1627], authorized Secretary of the Army to terminate appointment of a female commissioned officer of Regular Army, other than by dismissal, under regulations prescribed by President, or to terminate the appointment of a female warrant officer or enlistment of a female member of Regular Army by discharge from the Army.
 
  __Effective Date of Repeal__ 
 
     Repeal effective Sept. 15, 1981, see [section 701 of Pub. L. 96–513][/us/pl/96/513/s701], set out as an Effective Date of 1980 Amendment note under [section 101 of this title][/us/usc/t10/s101].
 
-\[§§ 3819, 3820. __Repealed.__  __[__  __Pub. L. 103–337, div. A, title XVI, § 1629(a)(2)__  __][/us/pl/103/337/s1629/a/2]__  __,__  __Oct. 5, 1994__  __,__  __[__  __108 Stat. 2963__  __][/us/stat/108/2963]__  __\]__ 
-
-    Section 3819, added [Pub. L. 85–861, § 1(93)(A)][/us/pl/85/861/s1/93/A], Sept. 2, 1958, [72 Stat. 1482][/us/stat/72/1482]; amended [Pub. L. 98–525, title V, § 528(b)][/us/pl/98/525/s528/b], Oct. 19, 1984, [98 Stat. 2526][/us/stat/98/2526], related to discharge of Army Reserve officers for failure of promotion to first lieutenant. See [section 14503 of this title][/us/usc/t10/s14503].
-
-    Section 3820, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 221][/us/stat/70A/221]; Sept. 2, 1958, [Pub. L. 85–861, § 1(93)(B)][/us/pl/85/861/s1/93/B], [72 Stat. 1482][/us/stat/72/1482], related to discharge and withdrawal of Federal recognition of officers of Army National Guard of United States absent without leave. See [section 14907 of this title][/us/usc/t10/s14907].
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Oct. 1, 1996, see [section 1691(b)(1) of Pub. L. 103–337][/us/pl/103/337/s1691/b/1], set out as an Effective Date note under [section 10001 of this title][/us/usc/t10/s10001].
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch361/m__us_usc_t10_s3814a.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch363/m__us_usc_t10_stB_ptII_ch363.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3818)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch361/m__us_usc_t10_s3815 _us_usc_t10_s3816.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch361/m__us_usc_t10_s3819 _us_usc_t10_s3820.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3818)
 
 ----------
 ----------
 
-[/us/pl/96/513/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs236
+[/us/pl/96/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtII
 [/us/stat/94/2887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2887
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F221
-[/us/pl/95/485/s820/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs820%2Fg
+[/us/pl/95/485/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2FtVIII
 [/us/stat/92/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1627
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/103/337/s1629/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fa%2F2
-[/us/stat/108/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2963
-[/us/pl/85/861/s1/93/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F93%2FA
-[/us/stat/72/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1482
-[/us/pl/98/525/s528/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs528%2Fb
-[/us/stat/98/2526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2526
-[/us/usc/t10/s14503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14503
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F221
-[/us/pl/85/861/s1/93/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F93%2FB
-[/us/stat/72/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1482
-[/us/usc/t10/s14907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14907
-[/us/pl/103/337/s1691/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691%2Fb%2F1
-[/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
 
 

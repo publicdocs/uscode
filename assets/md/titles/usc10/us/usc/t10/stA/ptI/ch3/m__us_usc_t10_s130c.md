@@ -105,7 +105,7 @@
 
             (C) An official mission, except a United States mission, to a public international organization referred to in subparagraph (A) or (B).
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1073(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–277; amended [Pub. L. 107–107, div. A, title X, § 1048(a)(3)][/us/pl/107/107/s1048/a/3], (c)(1), Dec. 28, 2001, [115 Stat. 1222][/us/stat/115/1222], 1226; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1073(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–277; amended [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(a)(3), (c)(1), Dec. 28, 2001, [115 Stat. 1222][/us/stat/115/1222], 1226; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
  __References in Text__ 
 
@@ -115,9 +115,9 @@
 
     2002—Subsec. (h)(1)(B). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
 
-    2001—Subsec. (b)(3)(C). [Pub. L. 107–107, § 1048(a)(3)][/us/pl/107/107/s1048/a/3], substituted “subsection (g)” for “subsection (f)”.
+    2001—Subsec. (b)(3)(C). [Pub. L. 107–107][/us/pl/107/107], § 1048(a)(3), substituted “subsection (g)” for “subsection (f)”.
 
-    Subsec. (d)(1). [Pub. L. 107–107, § 1048(c)(1)][/us/pl/107/107/s1048/c/1], substituted “October 30, 2000,” for “the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001”.
+    Subsec. (d)(1). [Pub. L. 107–107][/us/pl/107/107], § 1048(c)(1), substituted “October 30, 2000,” for “the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001”.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -133,18 +133,18 @@
 [/us/usc/t5/s552/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Ff
 [/us/stat/59/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F669
 [/us/usc/t22/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs288
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s1048/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fa%2F3
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1222
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/act/1945-12-29/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-29%2Fch652
 [/us/stat/59/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F669
 [/us/usc/t22/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs288
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/107/107/s1048/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fa%2F3
-[/us/pl/107/107/s1048/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fc%2F1
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101

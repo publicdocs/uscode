@@ -125,7 +125,7 @@
 
         (3) The term “Secretary of a military department” includes, with respect to matters concerning the Coast Guard when it is not operating as a service in the Navy, the Secretary of the Department in which the Coast Guard is operating.
 
-(Added [Pub. L. 107–314, div. A, title V, § 531(a)(1)][/us/pl/107/314/s531/a/1], Dec. 2, 2002, [116 Stat. 2541][/us/stat/116/2541]; amended [Pub. L. 108–136, div. A, title V, § 535(a)][/us/pl/108/136/s535/a], Nov. 24, 2003, [117 Stat. 1474][/us/stat/117/1474]; [Pub. L. 109–163, div. A, title V, § 545][/us/pl/109/163/s545], title VI, § 687(c)(1), Jan. 6, 2006, [119 Stat. 3254][/us/stat/119/3254], 3333; [Pub. L. 109–364, div. A, title X, § 1071(e)(2)][/us/pl/109/364/s1071/e/2], Oct. 17, 2006, [120 Stat. 2401][/us/stat/120/2401].)
+(Added [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 531(a)(1), Dec. 2, 2002, [116 Stat. 2541][/us/stat/116/2541]; amended [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 535(a), Nov. 24, 2003, [117 Stat. 1474][/us/stat/117/1474]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 545, title VI, § 687(c)(1), Jan. 6, 2006, [119 Stat. 3254][/us/stat/119/3254], 3333; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(e)(2), Oct. 17, 2006, [120 Stat. 2401][/us/stat/120/2401].)
 
  __References in Text__ 
 
@@ -137,27 +137,27 @@
 
  __Amendments__ 
 
-    2006—Subsec. (c)(3)(D). [Pub. L. 109–163, § 545(a)][/us/pl/109/163/s545/a], substituted “in Americorps or another domestic national service program” for “in the Peace Corps, Americorps, or another national service program”.
+    2006—Subsec. (c)(3)(D). [Pub. L. 109–163][/us/pl/109/163], § 545(a), substituted “in Americorps or another domestic national service program” for “in the Peace Corps, Americorps, or another national service program”.
 
-    Subsec. (d). [Pub. L. 109–163, § 545(b)][/us/pl/109/163/s545/b], as amended by [Pub. L. 109–364][/us/pl/109/364], inserted “and shall include military occupational specialties for enlistments for officer training and subsequent service as an officer, in cases in which the reason for the enlistment and entry into an agreement under subsection (b) is to enter an officer training program” before period at end.
+    Subsec. (d). [Pub. L. 109–163][/us/pl/109/163], § 545(b), as amended by [Pub. L. 109–364][/us/pl/109/364], inserted “and shall include military occupational specialties for enlistments for officer training and subsequent service as an officer, in cases in which the reason for the enlistment and entry into an agreement under subsection (b) is to enter an officer training program” before period at end.
 
-    Subsec. (h)(2). [Pub. L. 109–163, § 545(c)][/us/pl/109/163/s545/c], amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+    Subsec. (h)(2). [Pub. L. 109–163][/us/pl/109/163], § 545(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
     “(2)(A) The Secretary of Defense shall, to the maximum extent practicable, administer the receipt by National Call to Service participants of incentives under paragraph (3) or (4) of subsection (e) as if such National Call to Service participants were, in receiving such incentives, receiving educational assistance for members of the Selected Reserve under chapter 1606 of this title.
 
     “(B) The Secretary of Defense shall, in consultation with the Secretary of Veterans Affairs, prescribe regulations for purposes of subparagraph (A). Such regulations shall, to the maximum extent practicable, take into account the administrative provisions of chapters 30 and 36 of title 38 that are specified in [section 16136 of this title][/us/usc/t10/s16136].”
 
-    Subsec. (i). [Pub. L. 109–163, § 687(c)(1)][/us/pl/109/163/s687/c/1], amended heading and text of subsec. (i) generally. Prior to amendment, text consisted of pars. (1) to (4) which related to pro rata repayments by failed National Call to Service participants, the nature of the debt owed, waiver and discharge in bankruptcy.
+    Subsec. (i). [Pub. L. 109–163][/us/pl/109/163], § 687(c)(1), amended heading and text of subsec. (i) generally. Prior to amendment, text consisted of pars. (1) to (4) which related to pro rata repayments by failed National Call to Service participants, the nature of the debt owed, waiver and discharge in bankruptcy.
 
     2003—Subsec. (j). [Pub. L. 108–136][/us/pl/108/136] reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Amounts for payment of incentives under subsection (e), including payment of allowances for educational assistance under that subsection, shall be derived from amounts available to the Secretary of the military department concerned for payment of pay, allowances, and other expenses of the members of the armed force concerned.”
 
  __Effective Date of 2006 Amendment__ 
 
-    [Pub. L. 109–364, div. A, title X, § 1071(e)][/us/pl/109/364/s1071/e], Oct. 17, 2006, [120 Stat. 2401][/us/stat/120/2401], provided that the amendment made by section 1071(e)(2) is effective as of Jan. 6, 2006, and as if included in [Pub. L. 109–163][/us/pl/109/163] as enacted.
+    [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(e), Oct. 17, 2006, [120 Stat. 2401][/us/stat/120/2401], provided that the amendment made by section 1071(e)(2) is effective as of Jan. 6, 2006, and as if included in [Pub. L. 109–163][/us/pl/109/163] as enacted.
 
  __Savings Provision__ 
 
-[Pub. L. 109–163, div. A, title VI, § 687(f)][/us/pl/109/163/s687/f], Jan. 6, 2006, [119 Stat. 3336][/us/stat/119/3336], provided that: 
+[Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 687(f), Jan. 6, 2006, [119 Stat. 3336][/us/stat/119/3336], provided that: 
 
 > “In the case of any bonus, incentive pay, special pay, or similar payment, such as education assistance or a stipend, which the United States became obligated to pay before April 1, 2006, under a provision of law amended by subsection (b), (c), or (d) of this section \[amending this section and sections 2005, 2007, 2105, 2123, 2130a, 2173, 2200a, 4348, 6959, 9348, 16135, 16203, 16303, and 16401 of this title, [section 182 of Title 14][/us/usc/t14/s182], Coast Guard, and sections 301b, 301d, 301e, 302, 302a, 302b, 302d to 302h, 302j, 307a, 308, 308b, 308c, 308g to 308i, 309, 312, 312b, 314 to 319, and 321 to 327 of Title 37, Pay and Allowances of the Uniformed Services\], such provision of law, as in effect on the day before the date of the enactment of this Act \[Jan. 6, 2006\], shall continue to apply to the payment, or any repayment, of the bonus, incentive pay, special pay, or similar payment under such provision of law.”
 
@@ -167,15 +167,15 @@
 
  __Commencement of Program__ 
 
-    [Pub. L. 107–314, div. A, title V, § 531(b)][/us/pl/107/314/s531/b], Dec. 2, 2002, [116 Stat. 2544][/us/stat/116/2544], directed the Secretary of Defense to prescribe the date, not later than Oct. 1, 2003, on which the program provided for under this section was to commence.
+    [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 531(b), Dec. 2, 2002, [116 Stat. 2544][/us/stat/116/2544], directed the Secretary of Defense to prescribe the date, not later than Oct. 1, 2003, on which the program provided for under this section was to commence.
 
  __Implementation Report__ 
 
-    [Pub. L. 107–314, div. A, title V, § 531(d)][/us/pl/107/314/s531/d], Dec. 2, 2002, [116 Stat. 2544][/us/stat/116/2544], directed the Secretary of Defense to submit to committees of Congress a report on the Secretary’s plans for implementation of this section not later than Mar. 31, 2003.
+    [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 531(d), Dec. 2, 2002, [116 Stat. 2544][/us/stat/116/2544], directed the Secretary of Defense to submit to committees of Congress a report on the Secretary’s plans for implementation of this section not later than Mar. 31, 2003.
 
  __Effectiveness Reports__ 
 
-[Pub. L. 107–314, div. A, title V, § 531(e)][/us/pl/107/314/s531/e], Dec. 2, 2002, [116 Stat. 2545][/us/stat/116/2545], provided that: 
+[Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 531(e), Dec. 2, 2002, [116 Stat. 2545][/us/stat/116/2545], provided that: 
 
 > “Not later than March 31, 2005, and March 31, 2007, the Secretary of Defense shall submit to the committees specified in subsection (d) reports on the effectiveness of the program under [section 510 of title 10][/us/usc/t10/s510], United States Code, as added by subsection (a), in attracting new recruits to national service.”
 
@@ -193,37 +193,37 @@
 [/us/usc/t42/s12571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571
 [/us/usc/t20/s1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/107/314/s531/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs531%2Fa%2F1
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2541
-[/us/pl/108/136/s535/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs535%2Fa
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1474
-[/us/pl/109/163/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs545
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3254
-[/us/pl/109/364/s1071/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fe%2F2
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2401
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127
 [/us/usc/t42/s12501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12501
 [/us/usc/t10/s12102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12102
-[/us/pl/109/163/s545/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs545%2Fa
-[/us/pl/109/163/s545/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs545%2Fb
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/109/163/s545/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs545%2Fc
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/usc/t10/s16136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16136
-[/us/pl/109/163/s687/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fc%2F1
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/109/364/s1071/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fe
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2401
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/109/163/s687/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Ff
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3336
 [/us/usc/t14/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs182
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/314/s531/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs531%2Fb
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2544
-[/us/pl/107/314/s531/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs531%2Fd
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2544
-[/us/pl/107/314/s531/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs531%2Fe
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2545
 [/us/usc/t10/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs510
 

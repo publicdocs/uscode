@@ -39,7 +39,7 @@
 
         (2) The term “State” includes the District of Columbia.
 
-(Added [Pub. L. 99–661, div. A, title III, § 313(a)][/us/pl/99/661/s313/a], Nov. 14, 1986, [100 Stat. 3853][/us/stat/100/3853], § 2488; amended [Pub. L. 100–180, div. A, title III, § 312(a)][/us/pl/100/180/s312/a], Dec. 4, 1987, [101 Stat. 1073][/us/stat/101/1073]; [Pub. L. 104–106, div. A, title III, § 333][/us/pl/104/106/s333], Feb. 10, 1996, [110 Stat. 261][/us/stat/110/261]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 335\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–61; renumbered § 2495, [Pub. L. 108–375, div. A, title VI, § 651(b)(2)][/us/pl/108/375/s651/b/2], (c)(5), Oct. 28, 2004, [118 Stat. 1971][/us/stat/118/1971], 1972.)
+(Added [Pub. L. 99–661, div. A, title III][/us/pl/99/661/dA/tIII], § 313(a), Nov. 14, 1986, [100 Stat. 3853][/us/stat/100/3853], § 2488; amended [Pub. L. 100–180, div. A, title III][/us/pl/100/180/dA/tIII], § 312(a), Dec. 4, 1987, [101 Stat. 1073][/us/stat/101/1073]; [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 333, Feb. 10, 1996, [110 Stat. 261][/us/stat/110/261]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 335\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–61; renumbered § 2495, [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 651(b)(2), (c)(5), Oct. 28, 2004, [118 Stat. 1971][/us/stat/118/1971], 1972.)
 
  __Amendments__ 
 
@@ -47,55 +47,55 @@
 
     2000—Subsec. (c)(2), (3). [Pub. L. 106–398][/us/pl/106/398] redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “If the use of a private distributor would subject covered alcoholic beverage purchases of distilled spirits to direct or indirect State taxation, a nonappropriated fund instrumentality shall be considered to be the most economical method of distribution regardless of the results of the determination under paragraph (1).”
 
-    1996—Subsec. (a)(1). [Pub. L. 104–106, § 333(a)][/us/pl/104/106/s333/a], inserted “and distributed in the most economical manner” after “most competitive source”.
+    1996—Subsec. (a)(1). [Pub. L. 104–106][/us/pl/104/106], § 333(a), inserted “and distributed in the most economical manner” after “most competitive source”.
 
-    Subsecs. (c), (d). [Pub. L. 104–106, § 333(b)][/us/pl/104/106/s333/b], added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 104–106][/us/pl/104/106], § 333(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
     1987—Subsec. (a)(2). [Pub. L. 100–180][/us/pl/100/180] struck out “purchased for resale on a military installation located in the contiguous States” after “malt beverages and wines”.
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–180, div. A, title III, § 312(b)][/us/pl/100/180/s312/b], Dec. 4, 1987, [101 Stat. 1073][/us/stat/101/1073], provided that: 
+[Pub. L. 100–180, div. A, title III][/us/pl/100/180/dA/tIII], § 312(b), Dec. 4, 1987, [101 Stat. 1073][/us/stat/101/1073], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to purchases of malt beverages and wine after the end of the 60-day period beginning on the date of the enactment of this Act \[Dec. 4, 1987\].”
 
  __Procurement of Malt Beverages and Wine by Nonappropriated Fund Activity__ 
 
-[Pub. L. 109–148, div. A, title VIII, § 8080][/us/pl/109/148/s8080], Dec. 30, 2005, [119 Stat. 2717][/us/stat/119/2717], which provided that none of the funds appropriated by div. A of [Pub. L. 109–148][/us/pl/109/148] were to be used for the support of any nonappropriated funds activity of the Department of Defense that procured malt beverages and wine with nonappropriated funds for resale (including such alcoholic beverages sold by the drink) on a military installation located in the United States unless such malt beverages and wine were procured within that State, or in the case of the District of Columbia, within the District of Columbia, in which the military installation was located, was from the Department of Defense Appropriations Act, 2006, and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were contained in the following prior appropriations acts:
+[Pub. L. 109–148, div. A, title VIII][/us/pl/109/148/dA/tVIII], § 8080, Dec. 30, 2005, [119 Stat. 2717][/us/stat/119/2717], which provided that none of the funds appropriated by div. A of [Pub. L. 109–148][/us/pl/109/148] were to be used for the support of any nonappropriated funds activity of the Department of Defense that procured malt beverages and wine with nonappropriated funds for resale (including such alcoholic beverages sold by the drink) on a military installation located in the United States unless such malt beverages and wine were procured within that State, or in the case of the District of Columbia, within the District of Columbia, in which the military installation was located, was from the Department of Defense Appropriations Act, 2006, and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were contained in the following prior appropriations acts:
 
-    [Pub. L. 108–287, title VIII, § 8087][/us/pl/108/287/s8087], Aug. 5, 2004, [118 Stat. 991][/us/stat/118/991].
+    [Pub. L. 108–287, title VIII][/us/pl/108/287/tVIII], § 8087, Aug. 5, 2004, [118 Stat. 991][/us/stat/118/991].
 
-    [Pub. L. 108–87, title VIII, § 8088][/us/pl/108/87/s8088], Sept. 30, 2003, [117 Stat. 1093][/us/stat/117/1093].
+    [Pub. L. 108–87, title VIII][/us/pl/108/87/tVIII], § 8088, Sept. 30, 2003, [117 Stat. 1093][/us/stat/117/1093].
 
-    [Pub. L. 107–248, title VIII, § 8092][/us/pl/107/248/s8092], Oct. 23, 2002, [116 Stat. 1558][/us/stat/116/1558].
+    [Pub. L. 107–248, title VIII][/us/pl/107/248/tVIII], § 8092, Oct. 23, 2002, [116 Stat. 1558][/us/stat/116/1558].
 
-    [Pub. L. 107–117, div. A, title VIII, § 8108][/us/pl/107/117/s8108], Jan. 10, 2002, [115 Stat. 2271][/us/stat/115/2271].
+    [Pub. L. 107–117, div. A, title VIII][/us/pl/107/117/dA/tVIII], § 8108, Jan. 10, 2002, [115 Stat. 2271][/us/stat/115/2271].
 
-    [Pub. L. 106–259, title VIII, § 8108][/us/pl/106/259/s8108], Aug. 9, 2000, [114 Stat. 698][/us/stat/114/698].
+    [Pub. L. 106–259, title VIII][/us/pl/106/259/tVIII], § 8108, Aug. 9, 2000, [114 Stat. 698][/us/stat/114/698].
 
-    [Pub. L. 106–79, title VIII, § 8132][/us/pl/106/79/s8132], Oct. 25, 1999, [113 Stat. 1266][/us/stat/113/1266].
+    [Pub. L. 106–79, title VIII][/us/pl/106/79/tVIII], § 8132, Oct. 25, 1999, [113 Stat. 1266][/us/stat/113/1266].
 
-    [Pub. L. 104–61, title VIII, § 8055][/us/pl/104/61/s8055], Dec. 1, 1995, [109 Stat. 662][/us/stat/109/662].
+    [Pub. L. 104–61, title VIII][/us/pl/104/61/tVIII], § 8055, Dec. 1, 1995, [109 Stat. 662][/us/stat/109/662].
 
-    [Pub. L. 103–335, title VIII, § 8058A][/us/pl/103/335/s8058A], Sept. 30, 1994, [108 Stat. 2632][/us/stat/108/2632].
+    [Pub. L. 103–335, title VIII][/us/pl/103/335/tVIII], § 8058A, Sept. 30, 1994, [108 Stat. 2632][/us/stat/108/2632].
 
-    [Pub. L. 103–139, title VIII, § 8099A][/us/pl/103/139/s8099A], Nov. 11, 1993, [107 Stat. 1462][/us/stat/107/1462].
+    [Pub. L. 103–139, title VIII][/us/pl/103/139/tVIII], § 8099A, Nov. 11, 1993, [107 Stat. 1462][/us/stat/107/1462].
 
-    [Pub. L. 102–396, title IX, § 9114][/us/pl/102/396/s9114], Oct. 6, 1992, [106 Stat. 1929][/us/stat/106/1929].
+    [Pub. L. 102–396, title IX][/us/pl/102/396/tIX], § 9114, Oct. 6, 1992, [106 Stat. 1929][/us/stat/106/1929].
 
-    [Pub. L. 102–172, title VIII, § 8111A][/us/pl/102/172/s8111A], Nov. 26, 1991, [105 Stat. 1200][/us/stat/105/1200].
+    [Pub. L. 102–172, title VIII][/us/pl/102/172/tVIII], § 8111A, Nov. 26, 1991, [105 Stat. 1200][/us/stat/105/1200].
 
-    [Pub. L. 101–511, title VIII, § 8068][/us/pl/101/511/s8068], Nov. 5, 1990, [104 Stat. 1889][/us/stat/104/1889].
+    [Pub. L. 101–511, title VIII][/us/pl/101/511/tVIII], § 8068, Nov. 5, 1990, [104 Stat. 1889][/us/stat/104/1889].
 
-    [Pub. L. 101–165, title IX, § 9093][/us/pl/101/165/s9093], Nov. 21, 1989, [103 Stat. 1149][/us/stat/103/1149].
+    [Pub. L. 101–165, title IX][/us/pl/101/165/tIX], § 9093, Nov. 21, 1989, [103 Stat. 1149][/us/stat/103/1149].
 
-    [Pub. L. 100–463, title VIII, § 8122][/us/pl/100/463/s8122], Oct. 1, 1988, [102 Stat. 2270–40][/us/stat/102/2270-40].
+    [Pub. L. 100–463, title VIII][/us/pl/100/463/tVIII], § 8122, Oct. 1, 1988, [102 Stat. 2270–40][/us/stat/102/2270-40].
 
-    [Pub. L. 100–202, § 101(b)][/us/pl/100/202/s101/b] \[title VIII, § 8081\], Dec. 22, 1987, [101 Stat. 1329–43][/us/stat/101/1329-43], 1329–76.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(b) \[title VIII, § 8081\], Dec. 22, 1987, [101 Stat. 1329–43][/us/stat/101/1329-43], 1329–76.
 
-    [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title IX, § 9090\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–116, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title IX, § 9090\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–116.
+    [Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title IX, § 9090\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–116, and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title IX, § 9090\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–116.
 
-    [Pub. L. 99–190, § 101(b)][/us/pl/99/190/s101/b] \[title VIII, § 8099\], Dec. 19, 1985, [99 Stat. 1185][/us/stat/99/1185], 1219.
+    [Pub. L. 99–190][/us/pl/99/190], § 101(b) \[title VIII, § 8099\], Dec. 19, 1985, [99 Stat. 1185][/us/stat/99/1185], 1219.
 
 ----------
 
@@ -104,62 +104,62 @@
 ----------
 ----------
 
-[/us/pl/99/661/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs313%2Fa
+[/us/pl/99/661/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIII
 [/us/stat/100/3853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3853
-[/us/pl/100/180/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs312%2Fa
+[/us/pl/100/180/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtIII
 [/us/stat/101/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1073
-[/us/pl/104/106/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs333
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F261
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/375/s651/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs651%2Fb%2F2
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1971
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t10/s2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2488
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/104/106/s333/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs333%2Fa
-[/us/pl/104/106/s333/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs333%2Fb
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
-[/us/pl/100/180/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs312%2Fb
+[/us/pl/100/180/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtIII
 [/us/stat/101/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1073
-[/us/pl/109/148/s8080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2Fs8080
+[/us/pl/109/148/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2FdA%2FtVIII
 [/us/stat/119/2717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2717
 [/us/pl/109/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148
-[/us/pl/108/287/s8087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F287%2Fs8087
+[/us/pl/108/287/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F287%2FtVIII
 [/us/stat/118/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F991
-[/us/pl/108/87/s8088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F87%2Fs8088
+[/us/pl/108/87/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F87%2FtVIII
 [/us/stat/117/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1093
-[/us/pl/107/248/s8092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2Fs8092
+[/us/pl/107/248/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2FtVIII
 [/us/stat/116/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1558
-[/us/pl/107/117/s8108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs8108
+[/us/pl/107/117/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdA%2FtVIII
 [/us/stat/115/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2271
-[/us/pl/106/259/s8108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F259%2Fs8108
+[/us/pl/106/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F259%2FtVIII
 [/us/stat/114/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F698
-[/us/pl/106/79/s8132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79%2Fs8132
+[/us/pl/106/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79%2FtVIII
 [/us/stat/113/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1266
-[/us/pl/104/61/s8055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F61%2Fs8055
+[/us/pl/104/61/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F61%2FtVIII
 [/us/stat/109/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F662
-[/us/pl/103/335/s8058A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F335%2Fs8058A
+[/us/pl/103/335/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F335%2FtVIII
 [/us/stat/108/2632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2632
-[/us/pl/103/139/s8099A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F139%2Fs8099A
+[/us/pl/103/139/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F139%2FtVIII
 [/us/stat/107/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1462
-[/us/pl/102/396/s9114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9114
+[/us/pl/102/396/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2FtIX
 [/us/stat/106/1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1929
-[/us/pl/102/172/s8111A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2Fs8111A
+[/us/pl/102/172/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2FtVIII
 [/us/stat/105/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1200
-[/us/pl/101/511/s8068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F511%2Fs8068
+[/us/pl/101/511/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F511%2FtVIII
 [/us/stat/104/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1889
-[/us/pl/101/165/s9093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2Fs9093
+[/us/pl/101/165/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2FtIX
 [/us/stat/103/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1149
-[/us/pl/100/463/s8122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F463%2Fs8122
+[/us/pl/100/463/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F463%2FtVIII
 [/us/stat/102/2270-40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2270-40
-[/us/pl/100/202/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fb
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-43
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/190/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fb
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1185
 
 

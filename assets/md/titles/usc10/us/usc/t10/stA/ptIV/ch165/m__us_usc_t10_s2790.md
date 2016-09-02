@@ -81,7 +81,7 @@
 
         (4) The term “veterans organization” means any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under [section 5902 of title 38][/us/usc/t38/s5902].
 
-(Added [Pub. L. 111–383, div. A, title III, § 355(a)][/us/pl/111/383/s355/a], Jan. 7, 2011, [124 Stat. 4195][/us/stat/124/4195]; amended [Pub. L. 112–239, div. A, title X, § 1076(e)(5)][/us/pl/112/239/s1076/e/5], Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951].)
+(Added [Pub. L. 111–383, div. A, title III][/us/pl/111/383/dA/tIII], § 355(a), Jan. 7, 2011, [124 Stat. 4195][/us/stat/124/4195]; amended [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(e)(5), Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951].)
 
  __Amendments__ 
 
@@ -96,9 +96,9 @@
 
 [/us/usc/t20/s9172/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9172%2F1
 [/us/usc/t38/s5902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5902
-[/us/pl/111/383/s355/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs355%2Fa
+[/us/pl/111/383/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIII
 [/us/stat/124/4195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4195
-[/us/pl/112/239/s1076/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fe%2F5
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1951
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 

@@ -109,7 +109,7 @@
 
         (4) The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available at the time of reimbursement for the payment of such expenses.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 113][/us/stat/70A/113]; [Pub. L. 85–716][/us/pl/85/716], Aug. 21, 1958, [72 Stat. 708][/us/stat/72/708]; [Pub. L. 91–397][/us/pl/91/397], Sept. 1, 1970, [84 Stat. 837][/us/stat/84/837]; [Pub. L. 91–487][/us/pl/91/487], Oct. 22, 1970, [84 Stat. 1086][/us/stat/84/1086]; [Pub. L. 93–292][/us/pl/93/292], May 28, 1974, [88 Stat. 176][/us/stat/88/176]; [Pub. L. 93–649][/us/pl/93/649], Jan. 8, 1975, [88 Stat. 2361][/us/stat/88/2361]; [Pub. L. 101–189, div. A, title VI][/us/pl/101/189], §§ 652(a)(3), 653(a)(6), title XVI, § 1622(c)(4), Nov. 29, 1989, [103 Stat. 1461][/us/stat/103/1461], 1462, 1604; [Pub. L. 103–337, div. A, title VI, § 652(a)(2)][/us/pl/103/337/s652/a/2], title XVI, § 1671(c)(8), Oct. 5, 1994, [108 Stat. 2793][/us/stat/108/2793], 3014; [Pub. L. 104–106, div. A, title XV, § 1501(c)(19)][/us/pl/104/106/s1501/c/19], Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499]; [Pub. L. 107–107, div. A, title VI, § 638(b)(1)][/us/pl/107/107/s638/b/1], Dec. 28, 2001, [115 Stat. 1147][/us/stat/115/1147]; [Pub. L. 110–181, div. A, title V, § 591][/us/pl/110/181/s591], Jan. 28, 2008, [122 Stat. 138][/us/stat/122/138]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 581, Oct. 14, 2008, [122 Stat. 4472][/us/stat/122/4472]; [Pub. L. 112–81, div. A, title V, § 528][/us/pl/112/81/s528], Dec. 31, 2011, [125 Stat. 1402][/us/stat/125/1402]; [Pub. L. 113–66, div. A, title VI][/us/pl/113/66], §§ 621(e), 651(a)(2)–(c), Dec. 26, 2013, [127 Stat. 784][/us/stat/127/784], 787, 788.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 113][/us/stat/70A/113]; [Pub. L. 85–716][/us/pl/85/716], Aug. 21, 1958, [72 Stat. 708][/us/stat/72/708]; [Pub. L. 91–397][/us/pl/91/397], Sept. 1, 1970, [84 Stat. 837][/us/stat/84/837]; [Pub. L. 91–487][/us/pl/91/487], Oct. 22, 1970, [84 Stat. 1086][/us/stat/84/1086]; [Pub. L. 93–292][/us/pl/93/292], May 28, 1974, [88 Stat. 176][/us/stat/88/176]; [Pub. L. 93–649][/us/pl/93/649], Jan. 8, 1975, [88 Stat. 2361][/us/stat/88/2361]; [Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], §§ 652(a)(3), 653(a)(6), title XVI, § 1622(c)(4), Nov. 29, 1989, [103 Stat. 1461][/us/stat/103/1461], 1462, 1604; [Pub. L. 103–337, div. A, title VI][/us/pl/103/337/dA/tVI], § 652(a)(2), title XVI, § 1671(c)(8), Oct. 5, 1994, [108 Stat. 2793][/us/stat/108/2793], 3014; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(c)(19), Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499]; [Pub. L. 107–107, div. A, title VI][/us/pl/107/107/dA/tVI], § 638(b)(1), Dec. 28, 2001, [115 Stat. 1147][/us/stat/115/1147]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 591, Jan. 28, 2008, [122 Stat. 138][/us/stat/122/138]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 581, Oct. 14, 2008, [122 Stat. 4472][/us/stat/122/4472]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 528, Dec. 31, 2011, [125 Stat. 1402][/us/stat/125/1402]; [Pub. L. 113–66, div. A, title VI][/us/pl/113/66/dA/tVI], §§ 621(e), 651(a)(2)–(c), Dec. 26, 2013, [127 Stat. 784][/us/stat/127/784], 787, 788.)
 
 <table>
 
@@ -179,41 +179,41 @@ July 15, 1954, ch. 507, §§ 2 (less 1st 25 words, as applicable to armed forc
 
  __Amendments__ 
 
-    2013—Subsec. (a)(8). [Pub. L. 113–66, § 621(e)][/us/pl/113/66/s621/e], substituted “and travel and transportation allowances as specified in regulations prescribed under [section 464 of title 37][/us/usc/t37/s464]” for “and roundtrip transportation and prescribed allowances”.
+    2013—Subsec. (a)(8). [Pub. L. 113–66][/us/pl/113/66], § 621(e), substituted “and travel and transportation allowances as specified in regulations prescribed under [section 464 of title 37][/us/usc/t37/s464]” for “and roundtrip transportation and prescribed allowances”.
 
-    Subsec. (a)(9). [Pub. L. 113–66, § 651(b)][/us/pl/113/66/s651/b], inserted “or inurnment” after “Interment”.
+    Subsec. (a)(9). [Pub. L. 113–66][/us/pl/113/66], § 651(b), inserted “or inurnment” after “Interment”.
 
-    Subsec. (f). [Pub. L. 113–66, § 651(c)][/us/pl/113/66/s651/c], substituted “The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section only on a reimbursable basis.” for “The Secretary concerned shall pay all other expenses authorized to be paid under this subsection only on a reimbursable basis.”
+    Subsec. (f). [Pub. L. 113–66][/us/pl/113/66], § 651(c), substituted “The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section only on a reimbursable basis.” for “The Secretary concerned shall pay all other expenses authorized to be paid under this subsection only on a reimbursable basis.”
 
-    Subsec. (g). [Pub. L. 113–66, § 651(a)(2)][/us/pl/113/66/s651/a/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 113–66][/us/pl/113/66], § 651(a)(2), added subsec. (g).
 
     2011—Subsec. (c). [Pub. L. 112–81][/us/pl/112/81] substituted “The” for “Only the” in introductory provisions, added par. (1), redesignated former pars. (1) to (4) as (2) to (5), respectively, and substituted “paragraphs (1) through (4)” for “clauses (1)–(3)” in par. (5).
 
     2008—Subsec. (a)(8). [Pub. L. 110–181][/us/pl/110/181] inserted at end “When transportation of the remains includes transportation by aircraft under section 562 of the John Warner National Defense Authorization Act for Fiscal Year 2007 ([Public Law 109–364][/us/pl/109/364]; [10 U.S.C. 1482][/us/usc/t10/s1482] note), the Secretary concerned shall provide, to the maximum extent practicable, for delivery of the remains by air to the commercial, general aviation, or military airport nearest to the place selected by the designee.”
 
-    Subsec. (a)(10), (11). [Pub. L. 110–417, § 581(b)][/us/pl/110/417/s581/b], struck out pars. (10) and (11) which read as follows:
+    Subsec. (a)(10), (11). [Pub. L. 110–417][/us/pl/110/417], § 581(b), struck out pars. (10) and (11) which read as follows:
 
     “(10) Presentation of a flag of the United States to the person designated to direct disposition of the remains, except in the case of a military prisoner who dies while in the custody of the Secretary and while under a sentence that includes a discharge.
 
     “(11) Presentation of a flag of equal size to the flag presented under paragraph (10) to the parents or parent, if the person to be presented a flag under paragraph (10) is other than the parent of the decedent. For the purpose of this paragraph, the term ‘parent’ includes a natural parent, a stepparent, a parent by adoption or a person who for a period of not less than one year before the death of the decedent stood in loco parentis to him, and preference under this paragraph shall be given to the persons who exercised a parental relationship at the time of, or most nearly before, the death of the decedent.”
 
-    Subsec. (e). [Pub. L. 110–417, § 581(a)][/us/pl/110/417/s581/a], designated existing provisions as par. (2), redesignated former pars. (1) and (2) of subsec. (e) as subpars. (A) and (B), respectively, of par. (2), inserted subsec. (e) heading, and added pars. (1) and (3) to (5).
+    Subsec. (e). [Pub. L. 110–417][/us/pl/110/417], § 581(a), designated existing provisions as par. (2), redesignated former pars. (1) and (2) of subsec. (e) as subpars. (A) and (B), respectively, of par. (2), inserted subsec. (e) heading, and added pars. (1) and (3) to (5).
 
     2001—Subsecs. (d) to (g). [Pub. L. 107–107][/us/pl/107/107] redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out former subsec. (d) which read as follows: “When, as a result of a disaster involving the multiple deaths of persons covered by [section 1481 of this title][/us/usc/t10/s1481], the Secretary concerned has possession of commingled remains that cannot be individually identified, and burial of those remains in a common grave in a national cemetery is considered necessary, he may, for the interment services of each known decedent, pay the expenses of round-trip transportation to the cemetery of (1) the person who would have been designated under subsection (c) to direct disposition of the remains if individual identification had been made, and (2) two additional persons selected by that person who are closely related to the decedent. The transportation expenses authorized to be paid under this subsection may not exceed the transportation allowances authorized for members of the armed forces for travel on official business, but no per diem allowance may be paid.”
 
     1996—Subsec. (f)(2). [Pub. L. 104–106][/us/pl/104/106] inserted “section” before “12731”.
 
-    1994—Subsec. (f)(2). [Pub. L. 103–337, § 1671(c)(8)][/us/pl/103/337/s1671/c/8], substituted “section 12732” for “section 1332” and “12731” for “section 1331”.
+    1994—Subsec. (f)(2). [Pub. L. 103–337][/us/pl/103/337], § 1671(c)(8), substituted “section 12732” for “section 1332” and “12731” for “section 1331”.
 
-    Subsec. (g). [Pub. L. 103–337, § 652(a)(2)][/us/pl/103/337/s652/a/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 103–337][/us/pl/103/337], § 652(a)(2), added subsec. (g).
 
-    1989—Subsec. (a). [Pub. L. 101–189, § 653(a)(6)(A)][/us/pl/101/189/s653/a/6/A], substituted  “expenses  of  the  following:”  for  “expenses of—” in introductory provisions.
+    1989—Subsec. (a). [Pub. L. 101–189][/us/pl/101/189], § 653(a)(6)(A), substituted  “expenses  of  the  following:”  for  “expenses of—” in introductory provisions.
 
-    Subsec. (a)(1) to (9). [Pub. L. 101–189, § 653(a)(6)(B)][/us/pl/101/189/s653/a/6/B], (C), in each of pars. (1) to (9), capitalized first letter of first word and substituted period for semicolon at the end.
+    Subsec. (a)(1) to (9). [Pub. L. 101–189][/us/pl/101/189], § 653(a)(6)(B), (C), in each of pars. (1) to (9), capitalized first letter of first word and substituted period for semicolon at the end.
 
-    Subsec. (a)(10). [Pub. L. 101–189, § 653(a)(6)(B)][/us/pl/101/189/s653/a/6/B], (D), capitalized first letter of first word and substituted period for “; and”.
+    Subsec. (a)(10). [Pub. L. 101–189][/us/pl/101/189], § 653(a)(6)(B), (D), capitalized first letter of first word and substituted period for “; and”.
 
-    Subsec. (a)(11). [Pub. L. 101–189, § 653(a)(6)(B)][/us/pl/101/189/s653/a/6/B], (E), capitalized first letter of first word, substituted “paragraph” for “clause” in four places, and substituted “decedent. For the” for “decedent; for the”.
+    Subsec. (a)(11). [Pub. L. 101–189][/us/pl/101/189], § 653(a)(6)(B), (E), capitalized first letter of first word, substituted “paragraph” for “clause” in four places, and substituted “decedent. For the” for “decedent; for the”.
 
     Subsec. (e). [Pub. L. 101–189][/us/pl/101/189], §§ 652(a)(3), 1622(c)(4), substituted “the date of death” for “the effective date of this subsection, or the date of death,” and “chapter 10 of title 37” for “chapter 10, title 37” in last sentence.
 
@@ -229,7 +229,7 @@ July 15, 1954, ch. 507, §§ 2 (less 1st 25 words, as applicable to armed forc
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–106, div. A, title XV, § 1501(c)][/us/pl/104/106/s1501/c], Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498], provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as originally enacted.
+    [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(c), Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498], provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as originally enacted.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -239,7 +239,7 @@ July 15, 1954, ch. 507, §§ 2 (less 1st 25 words, as applicable to armed forc
 
  __Department of Defense Policy and Procedures on Media Access at Ceremonies for Dignified Transfer of Remains of Members of the Armed Forces Who Die Overseas__ 
 
-[Pub. L. 111–84, div. A, title V, § 542(a)][/us/pl/111/84/s542/a], Oct. 28, 2009, [123 Stat. 2299][/us/stat/123/2299], provided that:
+[Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 542(a), Oct. 28, 2009, [123 Stat. 2299][/us/stat/123/2299], provided that:
 
 >     “(1)  __Policy required__  __.—__ 
 
@@ -263,7 +263,7 @@ July 15, 1954, ch. 507, §§ 2 (less 1st 25 words, as applicable to armed forc
 
  __Transportation of Remains of Casualties Dying in a Theater of Combat Operations__ 
 
-[Pub. L. 109–364, div. A, title V, § 562][/us/pl/109/364/s562], Oct. 17, 2006, [120 Stat. 2220][/us/stat/120/2220], provided that:
+[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 562, Oct. 17, 2006, [120 Stat. 2220][/us/stat/120/2220], provided that:
 
 >     “(a)  __Required Transportation__  __.—__ 
 
@@ -363,49 +363,49 @@ July 15, 1954, ch. 507, §§ 2 (less 1st 25 words, as applicable to armed forc
 [/us/stat/88/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F176
 [/us/pl/93/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F649
 [/us/stat/88/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2361
-[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1461
-[/us/pl/103/337/s652/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs652%2Fa%2F2
+[/us/pl/103/337/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVI
 [/us/stat/108/2793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2793
-[/us/pl/104/106/s1501/c/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc%2F19
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F499
-[/us/pl/107/107/s638/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs638%2Fb%2F1
+[/us/pl/107/107/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVI
 [/us/stat/115/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1147
-[/us/pl/110/181/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs591
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F138
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4472
-[/us/pl/112/81/s528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs528
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1402
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVI
 [/us/stat/127/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F784
-[/us/pl/113/66/s621/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Fe
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t37/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs464
-[/us/pl/113/66/s651/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs651%2Fb
-[/us/pl/113/66/s651/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs651%2Fc
-[/us/pl/113/66/s651/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs651%2Fa%2F2
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1482
-[/us/pl/110/417/s581/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs581%2Fb
-[/us/pl/110/417/s581/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs581%2Fa
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t10/s1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1481
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/337/s1671/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1671%2Fc%2F8
-[/us/pl/103/337/s652/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs652%2Fa%2F2
-[/us/pl/101/189/s653/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs653%2Fa%2F6%2FA
-[/us/pl/101/189/s653/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs653%2Fa%2F6%2FB
-[/us/pl/101/189/s653/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs653%2Fa%2F6%2FB
-[/us/pl/101/189/s653/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs653%2Fa%2F6%2FB
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/93/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F649
 [/us/pl/93/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F292
 [/us/pl/91/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F397
 [/us/pl/91/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F487
 [/us/pl/85/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F716
-[/us/pl/104/106/s1501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F498
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s652/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs652%2Fa%2F2
@@ -414,9 +414,9 @@ July 15, 1954, ch. 507, §§ 2 (less 1st 25 words, as applicable to armed forc
 [/us/pl/103/337/s1671/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1671%2Fc%2F8
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
-[/us/pl/111/84/s542/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs542%2Fa
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2299
-[/us/pl/109/364/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs562
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2220
 [/us/usc/t10/s1482/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1482%2Fa%2F8
 [/us/usc/t10/s1482/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1482%2Fa%2F8

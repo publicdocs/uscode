@@ -45,7 +45,7 @@
 
         (2) is transferred to the Retired Reserve in a general officer grade or flag officer grade.
 
-(Added [Pub. L. 109–364, div. A, title VI, § 641(a)][/us/pl/109/364/s641/a], Oct. 17, 2006, [120 Stat. 2258][/us/stat/120/2258]; amended [Pub. L. 113–291, div. A, title VI, § 622(a)][/us/pl/113/291/s622/a], Dec. 19, 2014, [128 Stat. 3401][/us/stat/128/3401].)
+(Added [Pub. L. 109–364, div. A, title VI][/us/pl/109/364/dA/tVI], § 641(a), Oct. 17, 2006, [120 Stat. 2258][/us/stat/120/2258]; amended [Pub. L. 113–291, div. A, title VI][/us/pl/113/291/dA/tVI], § 622(a), Dec. 19, 2014, [128 Stat. 3401][/us/stat/128/3401].)
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–291, div. A, title VI, § 622(b)][/us/pl/113/291/s622/b], Dec. 19, 2014, [128 Stat. 3403][/us/stat/128/3403], provided that: 
+[Pub. L. 113–291, div. A, title VI][/us/pl/113/291/dA/tVI], § 622(b), Dec. 19, 2014, [128 Stat. 3403][/us/stat/128/3403], provided that: 
 
 > “[Section 1407a of title 10][/us/usc/t10/s1407a], United States Code, as amended by subsection (a), shall be effective for retired pay that commences after December 31, 2014.”
 
@@ -70,12 +70,12 @@
 [/us/usc/t37/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs203%2Fa%2F2
 [/us/usc/t10/s12731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12731
 [/us/usc/t37/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs203%2Fa%2F2
-[/us/pl/109/364/s641/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs641%2Fa
+[/us/pl/109/364/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVI
 [/us/stat/120/2258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2258
-[/us/pl/113/291/s622/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs622%2Fa
+[/us/pl/113/291/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVI
 [/us/stat/128/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3401
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
-[/us/pl/113/291/s622/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs622%2Fb
+[/us/pl/113/291/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVI
 [/us/stat/128/3403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3403
 [/us/usc/t10/s1407a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1407a
 

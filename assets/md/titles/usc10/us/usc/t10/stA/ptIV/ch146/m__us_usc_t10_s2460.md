@@ -25,7 +25,7 @@
 
         (2) The term also does not include the procurement of parts for safety modifications. However, the term does include the installation of parts for that purpose.
 
-(Added and amended [Pub. L. 112–239, div. A, title III, § 322(b)(1)][/us/pl/112/239/s322/b/1], (c), Jan. 2, 2013, [126 Stat. 1694][/us/stat/126/1694], 1695.)
+(Added and amended [Pub. L. 112–239, div. A, title III][/us/pl/112/239/dA/tIII], § 322(b)(1), (c), Jan. 2, 2013, [126 Stat. 1694][/us/stat/126/1694], 1695.)
 
  __Codification__ 
 
@@ -33,11 +33,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 2460, added [Pub. L. 105–85, div. A, title III, § 355(a)][/us/pl/105/85/s355/a], Nov. 18, 1997, [111 Stat. 1693][/us/stat/111/1693]; amended [Pub. L. 105–261, div. A, title III, § 341][/us/pl/105/261/s341], Oct. 17, 1998, [112 Stat. 1973][/us/stat/112/1973]; [Pub. L. 112–81, div. A, title III, § 321][/us/pl/112/81/s321], Dec. 31, 2011, [125 Stat. 1361][/us/stat/125/1361], defined “depot-level maintenance and repair” for this chapter prior to repeal by [Pub. L. 112–239, div. A, title III, § 322(a)(1)][/us/pl/112/239/s322/a/1], Jan. 2, 2013, [126 Stat. 1694][/us/stat/126/1694].
+    A prior section 2460, added [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 355(a), Nov. 18, 1997, [111 Stat. 1693][/us/stat/111/1693]; amended [Pub. L. 105–261, div. A, title III][/us/pl/105/261/dA/tIII], § 341, Oct. 17, 1998, [112 Stat. 1973][/us/stat/112/1973]; [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 321, Dec. 31, 2011, [125 Stat. 1361][/us/stat/125/1361], defined “depot-level maintenance and repair” for this chapter prior to repeal by [Pub. L. 112–239, div. A, title III][/us/pl/112/239/dA/tIII], § 322(a)(1), Jan. 2, 2013, [126 Stat. 1694][/us/stat/126/1694].
 
  __Amendments__ 
 
-    2013—Subsec. (b)(1). [Pub. L. 112–239, § 322(c)][/us/pl/112/239/s322/c], substituted “or the nuclear refueling or defueling of an aircraft carrier and any concurrent complex overhaul” for “or the nuclear refueling of an aircraft carrier”.
+    2013—Subsec. (b)(1). [Pub. L. 112–239][/us/pl/112/239], § 322(c), substituted “or the nuclear refueling or defueling of an aircraft carrier and any concurrent complex overhaul” for “or the nuclear refueling of an aircraft carrier”.
 
  __Effective Date__ 
 
@@ -50,20 +50,20 @@
 ----------
 ----------
 
-[/us/pl/112/239/s322/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs322%2Fb%2F1
+[/us/pl/112/239/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIII
 [/us/stat/126/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1694
 [/us/pl/112/239/s322/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs322%2Fb%2F1
 [/us/usc/t10/s2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2460
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/105/85/s355/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs355%2Fa
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1693
-[/us/pl/105/261/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs341
+[/us/pl/105/261/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIII
 [/us/stat/112/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1973
-[/us/pl/112/81/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs321
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1361
-[/us/pl/112/239/s322/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs322%2Fa%2F1
+[/us/pl/112/239/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIII
 [/us/stat/126/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1694
-[/us/pl/112/239/s322/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs322%2Fc
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/112/239/s322/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs322%2Ff

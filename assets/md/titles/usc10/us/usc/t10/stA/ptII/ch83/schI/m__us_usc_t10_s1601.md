@@ -35,11 +35,11 @@
 
     The authority of the Secretary of Defense under subsection (a) applies without regard to the provisions of any other law relating to the appointment, number, classification, or compensation of employees.
 
-(Added [Pub. L. 104–201, div. A, title XVI, § 1632(a)(3)][/us/pl/104/201/s1632/a/3], Sept. 23, 1996, [110 Stat. 2746][/us/stat/110/2746]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1141(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–318.)
+(Added [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1632(a)(3), Sept. 23, 1996, [110 Stat. 2746][/us/stat/110/2746]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1141(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–318.)
 
  __Prior Provisions__ 
 
-    A prior section 1601, added [Pub. L. 97–89, title VII, § 701(a)(1)][/us/pl/97/89/s701/a/1], Dec. 4, 1981, [95 Stat. 1159][/us/stat/95/1159]; amended [Pub. L. 101–194, title V, § 506(c)(3)][/us/pl/101/194/s506/c/3], Nov. 30, 1989, [103 Stat. 1759][/us/stat/103/1759]; [Pub. L. 101–280, § 6(d)(4)][/us/pl/101/280/s6/d/4], May 4, 1990, [104 Stat. 161][/us/stat/104/161]; [Pub. L. 101–510, div. A, title XIV, § 1484][/us/pl/101/510/s1484](l)(5), Nov. 5, 1990, [104 Stat. 1720][/us/stat/104/1720]; [Pub. L. 103–359, title V, § 501(b)(1)(B)][/us/pl/103/359/s501/b/1/B], Oct. 14, 1994, [108 Stat. 3428][/us/stat/108/3428], related to the Defense Intelligence Senior Executive Service, prior to repeal by [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201], §§ 1632(a)(3), 1635, Sept. 23, 1996, [110 Stat. 2745][/us/stat/110/2745], 2752, effective Oct. 1, 1996. See [section 1606 of this title][/us/usc/t10/s1606].
+    A prior section 1601, added [Pub. L. 97–89, title VII][/us/pl/97/89/tVII], § 701(a)(1), Dec. 4, 1981, [95 Stat. 1159][/us/stat/95/1159]; amended [Pub. L. 101–194, title V][/us/pl/101/194/tV], § 506(c)(3), Nov. 30, 1989, [103 Stat. 1759][/us/stat/103/1759]; [Pub. L. 101–280][/us/pl/101/280], § 6(d)(4), May 4, 1990, [104 Stat. 161][/us/stat/104/161]; [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1484(l)(5), Nov. 5, 1990, [104 Stat. 1720][/us/stat/104/1720]; [Pub. L. 103–359, title V][/us/pl/103/359/tV], § 501(b)(1)(B), Oct. 14, 1994, [108 Stat. 3428][/us/stat/108/3428], related to the Defense Intelligence Senior Executive Service, prior to repeal by [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], §§ 1632(a)(3), 1635, Sept. 23, 1996, [110 Stat. 2745][/us/stat/110/2745], 2752, effective Oct. 1, 1996. See [section 1606 of this title][/us/usc/t10/s1606].
 
     Provisions similar to those in this section were contained in sections 1590(a) and 1604(a) of this title prior to repeal by [Pub. L. 104–201][/us/pl/104/201], §§ 1632(a)(3), 1633(a).
 
@@ -53,19 +53,19 @@
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–201, div. A, title XVI, § 1631][/us/pl/104/201/s1631], Sept. 23, 1996, [110 Stat. 2745][/us/stat/110/2745], provided that: 
+[Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1631, Sept. 23, 1996, [110 Stat. 2745][/us/stat/110/2745], provided that: 
 
 > “This subtitle \[subtitle B (§§ 1631–1635) of title XVI of div. A of [Pub. L. 104–201][/us/pl/104/201], enacting this section and sections 1602, 1603, 1606 to 1610, and 1612 to 1614 of this title, amending sections 1593, 1596, 1605, 1611, and 1621 of this title and sections 7103 and 7511 of Title 5, Government Organization and Employees, renumbering sections 1599, 1602, 1606, and 1608 of this title as sections 1611, 1621, 1622, and 1623 of this title, respectively, repealing sections 1590, 1601, 1603, and 1604 of this title and [section 833 of Title 50][/us/usc/t50/s833], War and National Defense, enacting provisions set out as a note under [section 1593 of this title][/us/usc/t10/s1593], and repealing provisions set out as a note under [section 402 of Title 50][/us/usc/t50/s402]\] may be cited as the ‘Department of Defense Civilian Intelligence Personnel Policy Act of 1996’.”
 
  __Delegation of Authority__ 
 
-[Pub. L. 97–89, title VII, § 701(b)][/us/pl/97/89/s701/b], Dec. 4, 1981, [95 Stat. 1160][/us/stat/95/1160], provided that: 
+[Pub. L. 97–89, title VII][/us/pl/97/89/tVII], § 701(b), Dec. 4, 1981, [95 Stat. 1160][/us/stat/95/1160], provided that: 
 
 > “The authority of the Secretary of Defense under chapter 83 of title 10, United States Code, as added by subsection (a), may be delegated in accordance with section 133(d) \[now 113(d)\] of title 10, United States Code.”
 
  __Provisions Relating to the Defense Civilian Intelligence Personnel System__ 
 
-[Pub. L. 111–84, div. A, title XI, § 1114][/us/pl/111/84/s1114], Oct. 28, 2009, [123 Stat. 2504][/us/stat/123/2504], provided that:
+[Pub. L. 111–84, div. A, title XI][/us/pl/111/84/dA/tXI], § 1114, Oct. 28, 2009, [123 Stat. 2504][/us/stat/123/2504], provided that:
 
 >     “(a)  __Suspension of Certain Pay Authority__  __.—__ 
 
@@ -135,36 +135,36 @@
 ----------
 
 [/us/usc/t10/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1607
-[/us/pl/104/201/s1632/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1632%2Fa%2F3
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2746
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/97/89/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2Fs701%2Fa%2F1
+[/us/pl/97/89/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2FtVII
 [/us/stat/95/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1159
-[/us/pl/101/194/s506/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs506%2Fc%2F3
+[/us/pl/101/194/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtV
 [/us/stat/103/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1759
-[/us/pl/101/280/s6/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs6%2Fd%2F4
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F161
-[/us/pl/101/510/s1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1720
-[/us/pl/103/359/s501/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs501%2Fb%2F1%2FB
+[/us/pl/103/359/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtV
 [/us/stat/108/3428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3428
-[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2745
 [/us/usc/t10/s1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1606
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/104/201/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1635
 [/us/usc/t10/s1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1593
-[/us/pl/104/201/s1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1631
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2745
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t50/s833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs833
 [/us/usc/t10/s1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1593
 [/us/usc/t50/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402
-[/us/pl/97/89/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2Fs701%2Fb
+[/us/pl/97/89/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F89%2FtVII
 [/us/stat/95/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1160
-[/us/pl/111/84/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1114
+[/us/pl/111/84/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXI
 [/us/stat/123/2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2504
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 

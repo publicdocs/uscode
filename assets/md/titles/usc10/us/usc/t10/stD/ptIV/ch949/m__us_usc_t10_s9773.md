@@ -63,7 +63,7 @@
 
     (g) The Secretary may direct the transportation of personnel, and the purchase, renovation, and transportation of material, that he considers necessary to carry out this section.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 588][/us/stat/70A/588]; [Pub. L. 109–163, div. A, title X, § 1057(a)(3)][/us/pl/109/163/s1057/a/3], Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 588][/us/stat/70A/588]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(a)(3), Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440].)
 
 <table>
 
@@ -206,7 +206,7 @@ Aug. 12, 1935, ch. 511, §§ 1–3, 49 Stat. 610.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F588
-[/us/pl/109/163/s1057/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F3
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3440
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 

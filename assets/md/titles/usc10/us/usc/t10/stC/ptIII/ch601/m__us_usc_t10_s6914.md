@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stC/ptIII/ch601/m__us_usc_t10_s6913.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIII/ch601/m__us_usc_t10_s6915.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6914)
 
-## \[§ 6914. Repealed. [Pub. L. 96–513, title III, § 374][/us/pl/96/513/s374], Dec. 12, 1980, [94 Stat. 2904][/us/stat/94/2904]\]
+## \[§ 6914. Repealed. [Pub. L. 96–513, title III][/us/pl/96/513/tIII], § 374, Dec. 12, 1980, [94 Stat. 2904][/us/stat/94/2904]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 427][/us/stat/70A/427], authorized President to appoint Naval Reserve aviators to Regular Navy and Regular Marine Corps.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/96/513/s374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs374
+[/us/pl/96/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIII
 [/us/stat/94/2904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2904
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F427

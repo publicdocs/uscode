@@ -221,31 +221,31 @@
 
     Any request for increased funding for the procurement of a major system under a multiyear contract authorized under this section shall be accompanied by an explanation of how the request for increased funding affects the determinations made by the Secretary under subsection (i).
 
-(Added [Pub. L. 103–355, title I, § 1022(a)(1)][/us/pl/103/355/s1022/a/1], Oct. 13, 1994, [108 Stat. 3257][/us/stat/108/3257]; amended [Pub. L. 104–106, div. A, title XV, § 1502(a)(10)][/us/pl/104/106/s1502/a/10], div. E, title LVI, § 5601(b), Feb. 10, 1996, [110 Stat. 503][/us/stat/110/503], 699; [Pub. L. 105–85, div. A, title VIII, § 806(a)(1)][/us/pl/105/85/s806/a/1], (b)(1), (c), title X, § 1073(a)(47), (48)(A), Nov. 18, 1997, [111 Stat. 1834][/us/stat/111/1834], 1835, 1903; [Pub. L. 106–65, div. A, title VIII, § 809][/us/pl/106/65/s809], title X, § 1067(1), Oct. 5, 1999, [113 Stat. 705][/us/stat/113/705], 774; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, §§ 802(c), 806\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–205, 1654A–207; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title VIII, § 820(a)][/us/pl/107/314/s820/a], Dec. 2, 2002, [116 Stat. 2613][/us/stat/116/2613]; [Pub. L. 108–136, div. A, title X, § 1043(b)(10)][/us/pl/108/136/s1043/b/10], Nov. 24, 2003, [117 Stat. 1611][/us/stat/117/1611]; [Pub. L. 108–375, div. A, title VIII, § 814(a)][/us/pl/108/375/s814/a], title X, § 1084(b)(2), Oct. 28, 2004, [118 Stat. 2014][/us/stat/118/2014], 2060; [Pub. L. 110–181, div. A, title VIII, § 811(a)][/us/pl/110/181/s811/a], Jan. 28, 2008, [122 Stat. 217][/us/stat/122/217]; [Pub. L. 111–23, title I, § 101(d)(2)][/us/pl/111/23/s101/d/2], May 22, 2009, [123 Stat. 1709][/us/stat/123/1709]; [Pub. L. 113–291, div. A, title VIII, § 816(a)][/us/pl/113/291/s816/a], (b), Dec. 19, 2014, [128 Stat. 3430][/us/stat/128/3430], 3432; [Pub. L. 114–92, div. A, title VIII, § 811][/us/pl/114/92/s811], Nov. 25, 2015, [129 Stat. 891][/us/stat/129/891].)
+(Added [Pub. L. 103–355, title I][/us/pl/103/355/tI], § 1022(a)(1), Oct. 13, 1994, [108 Stat. 3257][/us/stat/108/3257]; amended [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1502(a)(10), div. E, title LVI, § 5601(b), Feb. 10, 1996, [110 Stat. 503][/us/stat/110/503], 699; [Pub. L. 105–85, div. A, title VIII][/us/pl/105/85/dA/tVIII], § 806(a)(1), (b)(1), (c), title X, § 1073(a)(47), (48)(A), Nov. 18, 1997, [111 Stat. 1834][/us/stat/111/1834], 1835, 1903; [Pub. L. 106–65, div. A, title VIII][/us/pl/106/65/dA/tVIII], § 809, title X, § 1067(1), Oct. 5, 1999, [113 Stat. 705][/us/stat/113/705], 774; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VIII, §§ 802(c), 806\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–205, 1654A–207; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title VIII][/us/pl/107/314/dA/tVIII], § 820(a), Dec. 2, 2002, [116 Stat. 2613][/us/stat/116/2613]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1043(b)(10), Nov. 24, 2003, [117 Stat. 1611][/us/stat/117/1611]; [Pub. L. 108–375, div. A, title VIII][/us/pl/108/375/dA/tVIII], § 814(a), title X, § 1084(b)(2), Oct. 28, 2004, [118 Stat. 2014][/us/stat/118/2014], 2060; [Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 811(a), Jan. 28, 2008, [122 Stat. 217][/us/stat/122/217]; [Pub. L. 111–23, title I][/us/pl/111/23/tI], § 101(d)(2), May 22, 2009, [123 Stat. 1709][/us/stat/123/1709]; [Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 816(a), (b), Dec. 19, 2014, [128 Stat. 3430][/us/stat/128/3430], 3432; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 811, Nov. 25, 2015, [129 Stat. 891][/us/stat/129/891].)
 
  __Amendments__ 
 
     2015—Subsecs. (a)(1), (i)(4). [Pub. L. 114–92][/us/pl/114/92] substituted “significant” for “substantial”.
 
-    2014—Subsec. (a)(7). [Pub. L. 113–291, § 816(b)][/us/pl/113/291/s816/b], substituted “subparagraphs (C) through (F) of subsection (i)(3)” for “subparagraphs (C) through (F) of paragraph (1) of subsection (i)”.
+    2014—Subsec. (a)(7). [Pub. L. 113–291][/us/pl/113/291], § 816(b), substituted “subparagraphs (C) through (F) of subsection (i)(3)” for “subparagraphs (C) through (F) of paragraph (1) of subsection (i)”.
 
-    Subsec. (i). [Pub. L. 113–291, § 816(a)][/us/pl/113/291/s816/a], amended subsec. (i) generally. Prior to amendment, subsec. (i) related to defense acquisitions specifically authorized by law.
+    Subsec. (i). [Pub. L. 113–291][/us/pl/113/291], § 816(a), amended subsec. (i) generally. Prior to amendment, subsec. (i) related to defense acquisitions specifically authorized by law.
 
     2009—Subsec. (i)(1)(B). [Pub. L. 111–23][/us/pl/111/23] substituted “Director of Cost Assessment and Program Analysis” for “Cost Analysis Improvement Group of the Department of Defense”.
 
-    2008—Subsec. (a)(7). [Pub. L. 110–181, § 811(a)(1)][/us/pl/110/181/s811/a/1], added par. (7).
+    2008—Subsec. (a)(7). [Pub. L. 110–181][/us/pl/110/181], § 811(a)(1), added par. (7).
 
-    Subsec. (i)(1). [Pub. L. 110–181, § 811(a)(2)][/us/pl/110/181/s811/a/2], (3), inserted “the Secretary of Defense certifies in writing by no later than March 1 of the year in which the Secretary requests legislative authority to enter into such contract that” after “unless” in introductory provisions, added subpars. (A) to (F), redesignated former subpar. (B) as (G), and struck out former subpar. (A) which read as follows: “The Secretary of Defense certifies to Congress that the current future-years defense program fully funds the support costs associated with the multiyear program.”
+    Subsec. (i)(1). [Pub. L. 110–181][/us/pl/110/181], § 811(a)(2), (3), inserted “the Secretary of Defense certifies in writing by no later than March 1 of the year in which the Secretary requests legislative authority to enter into such contract that” after “unless” in introductory provisions, added subpars. (A) to (F), redesignated former subpar. (B) as (G), and struck out former subpar. (A) which read as follows: “The Secretary of Defense certifies to Congress that the current future-years defense program fully funds the support costs associated with the multiyear program.”
 
-    Subsec. (i)(5) to (7). [Pub. L. 110–181, § 811(a)(4)][/us/pl/110/181/s811/a/4], added pars. (5) to (7).
+    Subsec. (i)(5) to (7). [Pub. L. 110–181][/us/pl/110/181], § 811(a)(4), added pars. (5) to (7).
 
-    Subsec. (m). [Pub. L. 110–181, § 811(a)(5)][/us/pl/110/181/s811/a/5], added subsec. (m).
+    Subsec. (m). [Pub. L. 110–181][/us/pl/110/181], § 811(a)(5), added subsec. (m).
 
-    2004—Subsec. (g). [Pub. L. 108–375, § 814(a)(1)][/us/pl/108/375/s814/a/1], designated existing provisions as par. (1).
+    2004—Subsec. (g). [Pub. L. 108–375][/us/pl/108/375], § 814(a)(1), designated existing provisions as par. (1).
 
     Subsec. (g)(1). [Pub. L. 108–375][/us/pl/108/375], §§ 814(a)(2), 1084(b)(2), amended par. (1) identically, substituting “congressional defense committees” for “Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives”.
 
-    Subsec. (g)(2). [Pub. L. 108–375, § 814(a)(3)][/us/pl/108/375/s814/a/3], added par. (2).
+    Subsec. (g)(2). [Pub. L. 108–375][/us/pl/108/375], § 814(a)(3), added par. (2).
 
     2003—Subsec. (l)(9), (10). [Pub. L. 108–136][/us/pl/108/136] redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “In this subsection, the term ‘congressional defense committees’ means the following:
 
@@ -257,57 +257,57 @@
 
     Subsec. (i)(4). [Pub. L. 107–314][/us/pl/107/314] added par. (4).
 
-    2000—Subsec. (k). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 802(c)\], struck out “or services” after “purchase of property”.
+    2000—Subsec. (k). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VIII, § 802(c)\], struck out “or services” after “purchase of property”.
 
-    Subsec. (l)(4). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 806(1)(A)\], in introductory provisions, substituted “Not later than the date of the submission of the President’s budget request under [section 1105 of title 31][/us/usc/t31/s1105], the Secretary of Defense shall submit a report to the congressional defense committees each year, providing the following information with respect to each multiyear contract (and each extension of an existing multiyear contract) entered into, or planned to be entered into, by the head of an agency during the current or preceding year” for “The head of an agency may not enter into a multiyear contract (or extend an existing multiyear contract) until the Secretary of Defense submits to the congressional defense committees a report with respect to that contract (or contract extension) that provides the following information”.
+    Subsec. (l)(4). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VIII, § 806(1)(A)\], in introductory provisions, substituted “Not later than the date of the submission of the President’s budget request under [section 1105 of title 31][/us/usc/t31/s1105], the Secretary of Defense shall submit a report to the congressional defense committees each year, providing the following information with respect to each multiyear contract (and each extension of an existing multiyear contract) entered into, or planned to be entered into, by the head of an agency during the current or preceding year” for “The head of an agency may not enter into a multiyear contract (or extend an existing multiyear contract) until the Secretary of Defense submits to the congressional defense committees a report with respect to that contract (or contract extension) that provides the following information”.
 
-    Subsec. (l)(4)(B). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 806(1)(B)\], substituted “in effect at the time the report is submitted” for “in effect immediately before the contract (or contract extension) is entered into” in introductory provisions.
+    Subsec. (l)(4)(B). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VIII, § 806(1)(B)\], substituted “in effect at the time the report is submitted” for “in effect immediately before the contract (or contract extension) is entered into” in introductory provisions.
 
-    Subsec. (l)(5) to (10). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 806(2), (3)\], added par. (5) and redesignated former pars. (5) to (9) as (6) to (10), respectively.
+    Subsec. (l)(5) to (10). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VIII, § 806(2), (3)\], added par. (5) and redesignated former pars. (5) to (9) as (6) to (10), respectively.
 
-    1999—Subsec. (g). [Pub. L. 106–65, § 1067(1)][/us/pl/106/65/s1067/1], substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+    1999—Subsec. (g). [Pub. L. 106–65][/us/pl/106/65], § 1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-    Subsec. (l)(4) to (7). [Pub. L. 106–65, § 809(1)][/us/pl/106/65/s809/1], (2), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively. Former par. (7) redesignated (8).
+    Subsec. (l)(4) to (7). [Pub. L. 106–65][/us/pl/106/65], § 809(1), (2), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively. Former par. (7) redesignated (8).
 
-    Subsec. (l)(8). [Pub. L. 106–65, § 809(1)][/us/pl/106/65/s809/1], redesignated par. (7) as (8).
+    Subsec. (l)(8). [Pub. L. 106–65][/us/pl/106/65], § 809(1), redesignated par. (7) as (8).
 
-    Subsec. (l)(8)(B). [Pub. L. 106–65, § 1067(1)][/us/pl/106/65/s1067/1], substituted “Committee on Armed Services” for “Committee on National Security”.
+    Subsec. (l)(8)(B). [Pub. L. 106–65][/us/pl/106/65], § 1067(1), substituted “Committee on Armed Services” for “Committee on National Security”.
 
-    Subsec. (l)(9). [Pub. L. 106–65, § 809(3)][/us/pl/106/65/s809/3], added par. (9).
+    Subsec. (l)(9). [Pub. L. 106–65][/us/pl/106/65], § 809(3), added par. (9).
 
-    1997—[Pub. L. 105–85, § 1073(a)(48)(A)][/us/pl/105/85/s1073/a/48/A], inserted “: acquisition of property” in section catchline.
+    1997—[Pub. L. 105–85][/us/pl/105/85], § 1073(a)(48)(A), inserted “: acquisition of property” in section catchline.
 
-    Subsec. (a). [Pub. L. 105–85, § 806(c)(1)][/us/pl/105/85/s806/c/1], substituted “finds each of the following:” for “finds—” in introductory provisions, capitalized first letter of first word in pars. (1) to (6), and substituted a period for semicolon at end of pars. (1) to (4) and for “; and” at end of par. (5).
+    Subsec. (a). [Pub. L. 105–85][/us/pl/105/85], § 806(c)(1), substituted “finds each of the following:” for “finds—” in introductory provisions, capitalized first letter of first word in pars. (1) to (6), and substituted a period for semicolon at end of pars. (1) to (4) and for “; and” at end of par. (5).
 
-    Subsec. (d)(1). [Pub. L. 105–85, § 806(c)(2)][/us/pl/105/85/s806/c/2], substituted “subsection (a)” for “paragraph (1)”.
+    Subsec. (d)(1). [Pub. L. 105–85][/us/pl/105/85], § 806(c)(2), substituted “subsection (a)” for “paragraph (1)”.
 
-    Subsec. (i)(1)(A). [Pub. L. 105–85, § 806(c)(3)][/us/pl/105/85/s806/c/3], substituted “future-years” for “five-year”.
+    Subsec. (i)(1)(A). [Pub. L. 105–85][/us/pl/105/85], § 806(c)(3), substituted “future-years” for “five-year”.
 
-    Subsec. (i)(3). [Pub. L. 105–85, § 806(a)(1)][/us/pl/105/85/s806/a/1], added par. (3).
+    Subsec. (i)(3). [Pub. L. 105–85][/us/pl/105/85], § 806(a)(1), added par. (3).
 
-    Subsec. (k). [Pub. L. 105–85, § 1073(a)(47)][/us/pl/105/85/s1073/a/47], substituted “this section” for “this subsection”.
+    Subsec. (k). [Pub. L. 105–85][/us/pl/105/85], § 1073(a)(47), substituted “this section” for “this subsection”.
 
-    Subsec. (l). [Pub. L. 105–85, § 806(b)(1)][/us/pl/105/85/s806/b/1], added subsec. (l).
+    Subsec. (l). [Pub. L. 105–85][/us/pl/105/85], § 806(b)(1), added subsec. (l).
 
-    1996—Subsec. (g). [Pub. L. 104–106, § 1502(a)(10)][/us/pl/104/106/s1502/a/10], substituted “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the” for “the Committees on Armed Services and on Appropriations of the Senate and”.
+    1996—Subsec. (g). [Pub. L. 104–106][/us/pl/104/106], § 1502(a)(10), substituted “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the” for “the Committees on Armed Services and on Appropriations of the Senate and”.
 
-    Subsecs. (k), (l). [Pub. L. 104–106, § 5601(b)][/us/pl/104/106/s5601/b], redesignated subsec. (l) as (k) and struck out former subsec. (k) which read as follows: “Inapplicability to Automatic Data Processing Contracts.—This section does not apply to contracts for the purchase of property to which section 111 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 759][/us/usc/t40/s759]) applies.”
+    Subsecs. (k), (l). [Pub. L. 104–106][/us/pl/104/106], § 5601(b), redesignated subsec. (l) as (k) and struck out former subsec. (k) which read as follows: “Inapplicability to Automatic Data Processing Contracts.—This section does not apply to contracts for the purchase of property to which section 111 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 759][/us/usc/t40/s759]) applies.”
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–291, div. A, title VIII, § 816(c)][/us/pl/113/291/s816/c], Dec. 19, 2014, [128 Stat. 3432][/us/stat/128/3432], provided that: 
+[Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 816(c), Dec. 19, 2014, [128 Stat. 3432][/us/stat/128/3432], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 19, 2014\], and shall apply with respect to requests for specific authorization by law to carry out defense acquisition programs using multiyear contract authority that are made on or after that date.”
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 811(b)][/us/pl/110/181/s811/b], Jan. 28, 2008, [122 Stat. 219][/us/stat/122/219], provided that: 
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 811(b), Jan. 28, 2008, [122 Stat. 219][/us/stat/122/219], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 28, 2008\] and shall apply with respect to multiyear contracts for the purchase of major systems for which legislative authority is requested on or after that date.”
 
  __Effective Date of 2002 Amendments__ 
 
-[Pub. L. 107–314, div. A, title VIII, § 820(b)][/us/pl/107/314/s820/b], Dec. 2, 2002, [116 Stat. 2614][/us/stat/116/2614], provided that:
+[Pub. L. 107–314, div. A, title VIII][/us/pl/107/314/dA/tVIII], § 820(b), Dec. 2, 2002, [116 Stat. 2614][/us/stat/116/2614], provided that:
 
 >     “(1) Paragraph (4) of [section 2306b(i) of title 10][/us/usc/t10/s2306b/i], United States Code, as added by subsection (a), shall not apply with respect to any contract awarded before the date of the enactment of this Act \[Dec. 2, 2002\].
 
@@ -317,11 +317,11 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–85, div. A, title VIII, § 806(a)(2)][/us/pl/105/85/s806/a/2], Nov. 18, 1997, [111 Stat. 1834][/us/stat/111/1834], provided that: 
+[Pub. L. 105–85, div. A, title VIII][/us/pl/105/85/dA/tVIII], § 806(a)(2), Nov. 18, 1997, [111 Stat. 1834][/us/stat/111/1834], provided that: 
 
 > “Paragraph (3) of [section 2306b(i) of title 10][/us/usc/t10/s2306b/i], United States Code, as added by paragraph (1), shall not apply with respect to a contract authorized by law before the date of the enactment of this Act \[Nov. 18, 1997\].”
 
-[Pub. L. 105–85, div. A, title VIII, § 806(b)(2)][/us/pl/105/85/s806/b/2], Nov. 18, 1997, [111 Stat. 1835][/us/stat/111/1835], provided that: 
+[Pub. L. 105–85, div. A, title VIII][/us/pl/105/85/dA/tVIII], § 806(b)(2), Nov. 18, 1997, [111 Stat. 1835][/us/stat/111/1835], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 1998.”
 
@@ -335,7 +335,7 @@
 
  __Multiyear Procurement Contracts__ 
 
-[Pub. L. 105–56, title VIII, § 8008][/us/pl/105/56/s8008], Oct. 8, 1997, [111 Stat. 1221][/us/stat/111/1221], provided that:
+[Pub. L. 105–56, title VIII][/us/pl/105/56/tVIII], § 8008, Oct. 8, 1997, [111 Stat. 1221][/us/stat/111/1221], provided that:
 
 >     “(a) None of the funds provided in this Act \[see Tables for classification\] shall be available to initiate: (1) a multiyear contract that employs economic order quantity procurement in excess of $20,000,000 in any one year of the contract or that includes an unfunded contingent liability in excess of $20,000,000; or (2) a contract for advance procurement leading to a multiyear contract that employs economic order quantity procurement in excess of $20,000,000 in any one year, unless the congressional defense committees \[Committee on Armed Services and Subcommittee on National Security of the Committee on Appropriations of the House of Representatives and Committee on Armed Services and Subcommittee on Defense of the Committee on Appropriations of the Senate\] have been notified at least 30 days in advance of the proposed contract award: Provided, That no part of any appropriation contained in this Act shall be available to initiate a multiyear contract for which the economic order quantity advance procurement is not funded at least to the limits of the Government’s liability: Provided further, That no part of any appropriation contained in this Act shall be available to initiate multiyear procurement contracts for any systems or component thereof if the value of the multiyear contract would exceed $500,000,000 unless specifically provided in this Act: Provided further, That no multiyear procurement contract can be terminated without 10-day prior notification to the congressional defense committees: Provided further, That the execution of multiyear authority shall require the use of a present value analysis to determine lowest cost compared to an annual procurement.    “Funds appropriated in title III of this Act \[[111 Stat. 1211][/us/stat/111/1211]\] may be used for multiyear procurement contracts as follows:
 
@@ -357,59 +357,59 @@
 
 Similar provisions were contained in the following appropriation acts:
 
-    [Pub. L. 114–113, div. C, title VIII, § 8010][/us/pl/114/113/s8010], Dec. 18, 2015, [129 Stat. 2352][/us/stat/129/2352].
+    [Pub. L. 114–113, div. C, title VIII][/us/pl/114/113/dC/tVIII], § 8010, Dec. 18, 2015, [129 Stat. 2352][/us/stat/129/2352].
 
-    [Pub. L. 113–235, div. C, title VIII, § 8010][/us/pl/113/235/s8010], Dec. 16, 2014, [128 Stat. 2253][/us/stat/128/2253].
+    [Pub. L. 113–235, div. C, title VIII][/us/pl/113/235/dC/tVIII], § 8010, Dec. 16, 2014, [128 Stat. 2253][/us/stat/128/2253].
 
-    [Pub. L. 113–76, div. C, title VIII, § 8010][/us/pl/113/76/s8010], Jan. 17, 2014, [128 Stat. 105][/us/stat/128/105].
+    [Pub. L. 113–76, div. C, title VIII][/us/pl/113/76/dC/tVIII], § 8010, Jan. 17, 2014, [128 Stat. 105][/us/stat/128/105].
 
-    [Pub. L. 113–6, div. C, title VIII, § 8010][/us/pl/113/6/s8010], Mar. 26, 2013, [127 Stat. 297][/us/stat/127/297].
+    [Pub. L. 113–6, div. C, title VIII][/us/pl/113/6/dC/tVIII], § 8010, Mar. 26, 2013, [127 Stat. 297][/us/stat/127/297].
 
-    [Pub. L. 112–74, div. A, title VIII, § 8010][/us/pl/112/74/s8010], Dec. 23, 2011, [125 Stat. 806][/us/stat/125/806].
+    [Pub. L. 112–74, div. A, title VIII][/us/pl/112/74/dA/tVIII], § 8010, Dec. 23, 2011, [125 Stat. 806][/us/stat/125/806].
 
-    [Pub. L. 112–10, div. A, title VIII, § 8010][/us/pl/112/10/s8010], Apr. 15, 2011, [125 Stat. 57][/us/stat/125/57].
+    [Pub. L. 112–10, div. A, title VIII][/us/pl/112/10/dA/tVIII], § 8010, Apr. 15, 2011, [125 Stat. 57][/us/stat/125/57].
 
-    [Pub. L. 111–118, div. A, title VIII, § 8011][/us/pl/111/118/s8011], Dec. 19, 2009, [123 Stat. 3428][/us/stat/123/3428], as amended by [Pub. L. 111–212, title I, § 305][/us/pl/111/212/s305], July 29, 2010, [124 Stat. 2311][/us/stat/124/2311].
+    [Pub. L. 111–118, div. A, title VIII][/us/pl/111/118/dA/tVIII], § 8011, Dec. 19, 2009, [123 Stat. 3428][/us/stat/123/3428], as amended by [Pub. L. 111–212, title I][/us/pl/111/212/tI], § 305, July 29, 2010, [124 Stat. 2311][/us/stat/124/2311].
 
-    [Pub. L. 110–329, div. C, title VIII, § 8011][/us/pl/110/329/s8011], Sept. 30, 2008, [122 Stat. 3621][/us/stat/122/3621].
+    [Pub. L. 110–329, div. C, title VIII][/us/pl/110/329/dC/tVIII], § 8011, Sept. 30, 2008, [122 Stat. 3621][/us/stat/122/3621].
 
-    [Pub. L. 110–116, div. A, title VIII, § 8010][/us/pl/110/116/s8010], Nov. 13, 2007, [121 Stat. 1315][/us/stat/121/1315].
+    [Pub. L. 110–116, div. A, title VIII][/us/pl/110/116/dA/tVIII], § 8010, Nov. 13, 2007, [121 Stat. 1315][/us/stat/121/1315].
 
-    [Pub. L. 109–289, div. A, title VIII, § 8008][/us/pl/109/289/s8008], Sept. 29, 2006, [120 Stat. 1273][/us/stat/120/1273].
+    [Pub. L. 109–289, div. A, title VIII][/us/pl/109/289/dA/tVIII], § 8008, Sept. 29, 2006, [120 Stat. 1273][/us/stat/120/1273].
 
-    [Pub. L. 109–148, div. A, title VIII, § 8008][/us/pl/109/148/s8008], Dec. 30, 2005, [119 Stat. 2698][/us/stat/119/2698].
+    [Pub. L. 109–148, div. A, title VIII][/us/pl/109/148/dA/tVIII], § 8008, Dec. 30, 2005, [119 Stat. 2698][/us/stat/119/2698].
 
-    [Pub. L. 108–287, title VIII, § 8008][/us/pl/108/287/s8008], Aug. 5, 2004, [118 Stat. 970][/us/stat/118/970].
+    [Pub. L. 108–287, title VIII][/us/pl/108/287/tVIII], § 8008, Aug. 5, 2004, [118 Stat. 970][/us/stat/118/970].
 
-    [Pub. L. 108–87, title VIII, § 8008][/us/pl/108/87/s8008], Sept. 30, 2003, [117 Stat. 1072][/us/stat/117/1072].
+    [Pub. L. 108–87, title VIII][/us/pl/108/87/tVIII], § 8008, Sept. 30, 2003, [117 Stat. 1072][/us/stat/117/1072].
 
-    [Pub. L. 107–248, title VIII, § 8008][/us/pl/107/248/s8008], Oct. 23, 2002, [116 Stat. 1537][/us/stat/116/1537].
+    [Pub. L. 107–248, title VIII][/us/pl/107/248/tVIII], § 8008, Oct. 23, 2002, [116 Stat. 1537][/us/stat/116/1537].
 
-    [Pub. L. 107–117, div. A, title VIII, § 8008][/us/pl/107/117/s8008], Jan. 10, 2002, [115 Stat. 2248][/us/stat/115/2248].
+    [Pub. L. 107–117, div. A, title VIII][/us/pl/107/117/dA/tVIII], § 8008, Jan. 10, 2002, [115 Stat. 2248][/us/stat/115/2248].
 
-    [Pub. L. 106–259, title VIII, § 8008][/us/pl/106/259/s8008], Aug. 9, 2000, [114 Stat. 675][/us/stat/114/675].
+    [Pub. L. 106–259, title VIII][/us/pl/106/259/tVIII], § 8008, Aug. 9, 2000, [114 Stat. 675][/us/stat/114/675].
 
-    [Pub. L. 106–79, title VIII, § 8008][/us/pl/106/79/s8008], Oct. 25, 1999, [113 Stat. 1232][/us/stat/113/1232].
+    [Pub. L. 106–79, title VIII][/us/pl/106/79/tVIII], § 8008, Oct. 25, 1999, [113 Stat. 1232][/us/stat/113/1232].
 
-    [Pub. L. 105–262, title VIII, § 8008][/us/pl/105/262/s8008], Oct. 17, 1998, [112 Stat. 2298][/us/stat/112/2298].
+    [Pub. L. 105–262, title VIII][/us/pl/105/262/tVIII], § 8008, Oct. 17, 1998, [112 Stat. 2298][/us/stat/112/2298].
 
-    [Pub. L. 104–208, div. A, title I, § 101(b)][/us/pl/104/208/s101/b] \[title VIII, § 8009\], Sept. 30, 1996, [110 Stat. 3009–71][/us/stat/110/3009-71], 3009–89.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(b) \[title VIII, § 8009\], Sept. 30, 1996, [110 Stat. 3009–71][/us/stat/110/3009-71], 3009–89.
 
-    [Pub. L. 104–61, title VIII, § 8010][/us/pl/104/61/s8010], Dec. 1, 1995, [109 Stat. 653][/us/stat/109/653].
+    [Pub. L. 104–61, title VIII][/us/pl/104/61/tVIII], § 8010, Dec. 1, 1995, [109 Stat. 653][/us/stat/109/653].
 
-    [Pub. L. 103–335, title VIII, § 8010][/us/pl/103/335/s8010], Sept. 30, 1994, [108 Stat. 2618][/us/stat/108/2618].
+    [Pub. L. 103–335, title VIII][/us/pl/103/335/tVIII], § 8010, Sept. 30, 1994, [108 Stat. 2618][/us/stat/108/2618].
 
-    [Pub. L. 103–139, title VIII, § 8011][/us/pl/103/139/s8011], Nov. 11, 1993, [107 Stat. 1439][/us/stat/107/1439].
+    [Pub. L. 103–139, title VIII][/us/pl/103/139/tVIII], § 8011, Nov. 11, 1993, [107 Stat. 1439][/us/stat/107/1439].
 
-    [Pub. L. 102–396, title IX, § 9013][/us/pl/102/396/s9013], Oct. 6, 1992, [106 Stat. 1903][/us/stat/106/1903].
+    [Pub. L. 102–396, title IX][/us/pl/102/396/tIX], § 9013, Oct. 6, 1992, [106 Stat. 1903][/us/stat/106/1903].
 
-    [Pub. L. 102–172, title VIII, § 8013][/us/pl/102/172/s8013], Nov. 26, 1991, [105 Stat. 1173][/us/stat/105/1173].
+    [Pub. L. 102–172, title VIII][/us/pl/102/172/tVIII], § 8013, Nov. 26, 1991, [105 Stat. 1173][/us/stat/105/1173].
 
-    [Pub. L. 101–511, title VIII, § 8014][/us/pl/101/511/s8014], Nov. 5, 1990, [104 Stat. 1877][/us/stat/104/1877].
+    [Pub. L. 101–511, title VIII][/us/pl/101/511/tVIII], § 8014, Nov. 5, 1990, [104 Stat. 1877][/us/stat/104/1877].
 
-    [Pub. L. 101–165, title IX, § 9021][/us/pl/101/165/s9021], Nov. 21, 1989, [103 Stat. 1133][/us/stat/103/1133].
+    [Pub. L. 101–165, title IX][/us/pl/101/165/tIX], § 9021, Nov. 21, 1989, [103 Stat. 1133][/us/stat/103/1133].
 
-    [Pub. L. 114–113, div. C, title VIII, § 8010][/us/pl/114/113/s8010], Dec. 18, 2015, [129 Stat. 2352][/us/stat/129/2352].
+    [Pub. L. 114–113, div. C, title VIII][/us/pl/114/113/dC/tVIII], § 8010, Dec. 18, 2015, [129 Stat. 2352][/us/stat/129/2352].
 
 ----------
 
@@ -422,144 +422,144 @@ Similar provisions were contained in the following appropriation acts:
 [/us/usc/t10/s2334/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2334%2Fe%2F2
 [/us/usc/t10/s2433/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2433%2Fd
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/103/355/s1022/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1022%2Fa%2F1
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3257
-[/us/pl/104/106/s1502/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F10
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F503
-[/us/pl/105/85/s806/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs806%2Fa%2F1
+[/us/pl/105/85/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVIII
 [/us/stat/111/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1834
-[/us/pl/106/65/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs809
+[/us/pl/106/65/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVIII
 [/us/stat/113/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F705
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/107/314/s820/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs820%2Fa
+[/us/pl/107/314/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVIII
 [/us/stat/116/2613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2613
-[/us/pl/108/136/s1043/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1043%2Fb%2F10
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1611
-[/us/pl/108/375/s814/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs814%2Fa
+[/us/pl/108/375/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVIII
 [/us/stat/118/2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2014
-[/us/pl/110/181/s811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs811%2Fa
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F217
-[/us/pl/111/23/s101/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs101%2Fd%2F2
+[/us/pl/111/23/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2FtI
 [/us/stat/123/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1709
-[/us/pl/113/291/s816/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs816%2Fa
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3430
-[/us/pl/114/92/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs811
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F891
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
-[/us/pl/113/291/s816/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs816%2Fb
-[/us/pl/113/291/s816/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs816%2Fa
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23
-[/us/pl/110/181/s811/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs811%2Fa%2F1
-[/us/pl/110/181/s811/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs811%2Fa%2F2
-[/us/pl/110/181/s811/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs811%2Fa%2F4
-[/us/pl/110/181/s811/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs811%2Fa%2F5
-[/us/pl/108/375/s814/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs814%2Fa%2F1
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/108/375/s814/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs814%2Fa%2F3
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
-[/us/pl/106/65/s809/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs809%2F1
-[/us/pl/106/65/s809/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs809%2F1
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
-[/us/pl/106/65/s809/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs809%2F3
-[/us/pl/105/85/s1073/a/48/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F48%2FA
-[/us/pl/105/85/s806/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs806%2Fc%2F1
-[/us/pl/105/85/s806/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs806%2Fc%2F2
-[/us/pl/105/85/s806/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs806%2Fc%2F3
-[/us/pl/105/85/s806/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs806%2Fa%2F1
-[/us/pl/105/85/s1073/a/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F47
-[/us/pl/105/85/s806/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs806%2Fb%2F1
-[/us/pl/104/106/s1502/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F10
-[/us/pl/104/106/s5601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5601%2Fb
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t40/s759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs759
-[/us/pl/113/291/s816/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs816%2Fc
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3432
-[/us/pl/110/181/s811/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs811%2Fb
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F219
-[/us/pl/107/314/s820/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs820%2Fb
+[/us/pl/107/314/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVIII
 [/us/stat/116/2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2614
 [/us/usc/t10/s2306b/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306b%2Fi
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/105/85/s806/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs806%2Fa%2F2
+[/us/pl/105/85/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVIII
 [/us/stat/111/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1834
 [/us/usc/t10/s2306b/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306b%2Fi
-[/us/pl/105/85/s806/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs806%2Fb%2F2
+[/us/pl/105/85/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVIII
 [/us/stat/111/1835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1835
 [/us/pl/104/106/s5601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5601%2Fb
 [/us/pl/104/106/s5701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5701
 [/us/stat/110/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F702
 [/us/pl/103/355/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10001
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/105/56/s8008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F56%2Fs8008
+[/us/pl/105/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F56%2FtVIII
 [/us/stat/111/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1221
 [/us/stat/111/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1211
-[/us/pl/114/113/s8010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs8010
+[/us/pl/114/113/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdC%2FtVIII
 [/us/stat/129/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2352
-[/us/pl/113/235/s8010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs8010
+[/us/pl/113/235/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdC%2FtVIII
 [/us/stat/128/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2253
-[/us/pl/113/76/s8010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8010
+[/us/pl/113/76/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdC%2FtVIII
 [/us/stat/128/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F105
-[/us/pl/113/6/s8010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs8010
+[/us/pl/113/6/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdC%2FtVIII
 [/us/stat/127/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F297
-[/us/pl/112/74/s8010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs8010
+[/us/pl/112/74/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdA%2FtVIII
 [/us/stat/125/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F806
-[/us/pl/112/10/s8010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs8010
+[/us/pl/112/10/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdA%2FtVIII
 [/us/stat/125/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F57
-[/us/pl/111/118/s8011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2Fs8011
+[/us/pl/111/118/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2FdA%2FtVIII
 [/us/stat/123/3428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3428
-[/us/pl/111/212/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F212%2Fs305
+[/us/pl/111/212/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F212%2FtI
 [/us/stat/124/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2311
-[/us/pl/110/329/s8011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs8011
+[/us/pl/110/329/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2FdC%2FtVIII
 [/us/stat/122/3621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3621
-[/us/pl/110/116/s8010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F116%2Fs8010
+[/us/pl/110/116/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F116%2FdA%2FtVIII
 [/us/stat/121/1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1315
-[/us/pl/109/289/s8008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2Fs8008
+[/us/pl/109/289/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F289%2FdA%2FtVIII
 [/us/stat/120/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1273
-[/us/pl/109/148/s8008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2Fs8008
+[/us/pl/109/148/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2FdA%2FtVIII
 [/us/stat/119/2698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2698
-[/us/pl/108/287/s8008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F287%2Fs8008
+[/us/pl/108/287/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F287%2FtVIII
 [/us/stat/118/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F970
-[/us/pl/108/87/s8008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F87%2Fs8008
+[/us/pl/108/87/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F87%2FtVIII
 [/us/stat/117/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1072
-[/us/pl/107/248/s8008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2Fs8008
+[/us/pl/107/248/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2FtVIII
 [/us/stat/116/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1537
-[/us/pl/107/117/s8008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs8008
+[/us/pl/107/117/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdA%2FtVIII
 [/us/stat/115/2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2248
-[/us/pl/106/259/s8008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F259%2Fs8008
+[/us/pl/106/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F259%2FtVIII
 [/us/stat/114/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F675
-[/us/pl/106/79/s8008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79%2Fs8008
+[/us/pl/106/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79%2FtVIII
 [/us/stat/113/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1232
-[/us/pl/105/262/s8008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F262%2Fs8008
+[/us/pl/105/262/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F262%2FtVIII
 [/us/stat/112/2298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2298
-[/us/pl/104/208/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fb
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-71
-[/us/pl/104/61/s8010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F61%2Fs8010
+[/us/pl/104/61/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F61%2FtVIII
 [/us/stat/109/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F653
-[/us/pl/103/335/s8010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F335%2Fs8010
+[/us/pl/103/335/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F335%2FtVIII
 [/us/stat/108/2618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2618
-[/us/pl/103/139/s8011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F139%2Fs8011
+[/us/pl/103/139/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F139%2FtVIII
 [/us/stat/107/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1439
-[/us/pl/102/396/s9013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9013
+[/us/pl/102/396/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2FtIX
 [/us/stat/106/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1903
-[/us/pl/102/172/s8013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2Fs8013
+[/us/pl/102/172/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2FtVIII
 [/us/stat/105/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1173
-[/us/pl/101/511/s8014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F511%2Fs8014
+[/us/pl/101/511/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F511%2FtVIII
 [/us/stat/104/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1877
-[/us/pl/101/165/s9021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2Fs9021
+[/us/pl/101/165/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2FtIX
 [/us/stat/103/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1133
-[/us/pl/114/113/s8010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs8010
+[/us/pl/114/113/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdC%2FtVIII
 [/us/stat/129/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2352
 
 

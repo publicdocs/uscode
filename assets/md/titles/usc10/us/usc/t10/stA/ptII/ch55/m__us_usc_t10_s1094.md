@@ -69,19 +69,19 @@
 
         (2) The term “health-care professional” means a physician, dentist, clinical psychologist, marriage and family therapist certified as such by a certification recognized by the Secretary of Defense, or nurse and any other person providing direct patient care as may be designated by the Secretary of Defense in regulations.
 
-(Added [Pub. L. 99–145, title VI, § 653(a)(1)][/us/pl/99/145/s653/a/1], Nov. 8, 1985, [99 Stat. 657][/us/stat/99/657]; amended [Pub. L. 99–661, div. A, title XIII, § 1343(a)(5)][/us/pl/99/661/s1343/a/5], Nov. 14, 1986, [100 Stat. 3992][/us/stat/100/3992]; [Pub. L. 101–189, div. A, title VI, § 653(e)(1)][/us/pl/101/189/s653/e/1], title XVI, § 1622(e)(3), Nov. 29, 1989, [103 Stat. 1463][/us/stat/103/1463], 1605; [Pub. L. 105–85, div. A, title VII, § 737][/us/pl/105/85/s737], Nov. 18, 1997, [111 Stat. 1814][/us/stat/111/1814]; [Pub. L. 105–261, div. A, title VII, § 734(a)][/us/pl/105/261/s734/a], Oct. 17, 1998, [112 Stat. 2072][/us/stat/112/2072]; [Pub. L. 108–375, div. A, title VII, § 717(b)][/us/pl/108/375/s717/b], Oct. 28, 2004, [118 Stat. 1986][/us/stat/118/1986]; [Pub. L. 111–383, div. A, title VII, § 713][/us/pl/111/383/s713], Jan. 7, 2011, [124 Stat. 4247][/us/stat/124/4247]; [Pub. L. 112–81, div. A, title VII, § 713(a)][/us/pl/112/81/s713/a], Dec. 31, 2011, [125 Stat. 1476][/us/stat/125/1476].)
+(Added [Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 653(a)(1), Nov. 8, 1985, [99 Stat. 657][/us/stat/99/657]; amended [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1343(a)(5), Nov. 14, 1986, [100 Stat. 3992][/us/stat/100/3992]; [Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 653(e)(1), title XVI, § 1622(e)(3), Nov. 29, 1989, [103 Stat. 1463][/us/stat/103/1463], 1605; [Pub. L. 105–85, div. A, title VII][/us/pl/105/85/dA/tVII], § 737, Nov. 18, 1997, [111 Stat. 1814][/us/stat/111/1814]; [Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 734(a), Oct. 17, 1998, [112 Stat. 2072][/us/stat/112/2072]; [Pub. L. 108–375, div. A, title VII][/us/pl/108/375/dA/tVII], § 717(b), Oct. 28, 2004, [118 Stat. 1986][/us/stat/118/1986]; [Pub. L. 111–383, div. A, title VII][/us/pl/111/383/dA/tVII], § 713, Jan. 7, 2011, [124 Stat. 4247][/us/stat/124/4247]; [Pub. L. 112–81, div. A, title VII][/us/pl/112/81/dA/tVII], § 713(a), Dec. 31, 2011, [125 Stat. 1476][/us/stat/125/1476].)
 
  __Amendments__ 
 
-    2011—Subsec. (d)(1). [Pub. L. 112–81, § 713(a)(1)][/us/pl/112/81/s713/a/1], inserted “at any location” before “in any State” and substituted “regardless of where such health-care professional or the patient are located, so long as the practice is within the scope of the authorized Federal duties.” for “regardless of whether the practice occurs in a health care facility of the Department of Defense, a civilian facility affiliated with the Department of Defense, or any other location authorized by the Secretary of Defense.”
+    2011—Subsec. (d)(1). [Pub. L. 112–81][/us/pl/112/81], § 713(a)(1), inserted “at any location” before “in any State” and substituted “regardless of where such health-care professional or the patient are located, so long as the practice is within the scope of the authorized Federal duties.” for “regardless of whether the practice occurs in a health care facility of the Department of Defense, a civilian facility affiliated with the Department of Defense, or any other location authorized by the Secretary of Defense.”
 
-    [Pub. L. 111–383, § 713(1)][/us/pl/111/383/s713/1], inserted “or (3)” after “paragraph (2)”.
+    [Pub. L. 111–383][/us/pl/111/383], § 713(1), inserted “or (3)” after “paragraph (2)”.
 
-    Subsec. (d)(2). [Pub. L. 112–81, § 713(a)(2)][/us/pl/112/81/s713/a/2], substituted “member of the armed forces, civilian employee of the Department of Defense, personal services contractor under [section 1091 of this title][/us/usc/t10/s1091], or other health-care professional credentialed and privileged at a Federal health care institution or location specially designated by the Secretary for this purpose” for “member of the armed forces”.
+    Subsec. (d)(2). [Pub. L. 112–81][/us/pl/112/81], § 713(a)(2), substituted “member of the armed forces, civilian employee of the Department of Defense, personal services contractor under [section 1091 of this title][/us/usc/t10/s1091], or other health-care professional credentialed and privileged at a Federal health care institution or location specially designated by the Secretary for this purpose” for “member of the armed forces”.
 
-    [Pub. L. 111–383, § 713(2)][/us/pl/111/383/s713/2], inserted “as being described in this paragraph” after “paragraph (1)” in introductory provisions.
+    [Pub. L. 111–383][/us/pl/111/383], § 713(2), inserted “as being described in this paragraph” after “paragraph (1)” in introductory provisions.
 
-    Subsec. (d)(3). [Pub. L. 111–383, § 713(3)][/us/pl/111/383/s713/3], added par. (3).
+    Subsec. (d)(3). [Pub. L. 111–383][/us/pl/111/383], § 713(3), added par. (3).
 
     2004—Subsec. (e)(2). [Pub. L. 108–375][/us/pl/108/375] inserted “marriage and family therapist certified as such by a certification recognized by the Secretary of Defense,” after “psychologist,”.
 
@@ -89,29 +89,29 @@
 
     1997—Subsecs. (d), (e). [Pub. L. 105–85][/us/pl/105/85] added subsec. (d) and redesignated former subsec. (d) as (e).
 
-    1989—Subsec. (c)(2). [Pub. L. 101–189, § 653(e)(1)][/us/pl/101/189/s653/e/1], substituted “subsections (c) and (e) through (h)” for “subsections (b) and (d) through (g)”.
+    1989—Subsec. (c)(2). [Pub. L. 101–189][/us/pl/101/189], § 653(e)(1), substituted “subsections (c) and (e) through (h)” for “subsections (b) and (d) through (g)”.
 
-    Subsec. (d)(1). [Pub. L. 101–189, § 1622(e)(3)(A)][/us/pl/101/189/s1622/e/3/A], substituted “The term ‘license” for “ ‘License” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 101–189][/us/pl/101/189], § 1622(e)(3)(A), substituted “The term ‘license” for “ ‘License” in introductory provisions.
 
-    Subsec. (d)(2). [Pub. L. 101–189, § 1622(e)(3)(B)][/us/pl/101/189/s1622/e/3/B], substituted “The term ‘health-care” for “ ‘Health-care”.
+    Subsec. (d)(2). [Pub. L. 101–189][/us/pl/101/189], § 1622(e)(3)(B), substituted “The term ‘health-care” for “ ‘Health-care”.
 
     1986—Subsec. (d)(2). [Pub. L. 99–661][/us/pl/99/661] realigned margin of par. (2) to conform to margin of par. (1).
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–261, div. A, title VII, § 734(c)(1)][/us/pl/105/261/s734/c/1], Oct. 17, 1998, [112 Stat. 2073][/us/stat/112/2073], provided that: 
+[Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 734(c)(1), Oct. 17, 1998, [112 Stat. 2073][/us/stat/112/2073], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1999.”
 
  __Effective Date__ 
 
-[Pub. L. 99–145, title VI, § 653(b)][/us/pl/99/145/s653/b], Nov. 8, 1985, [99 Stat. 658][/us/stat/99/658], provided that: 
+[Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 653(b), Nov. 8, 1985, [99 Stat. 658][/us/stat/99/658], provided that: 
 
 > “[Section 1094 of title 10][/us/usc/t10/s1094], United States Code, as added by subsection (a), does not apply during the three-year period beginning on the date of the enactment of this Act \[Nov. 8, 1985\] with respect to the provision of health care by any person who on the date of the enactment of this Act is a member of the Armed Forces.”
 
  __Regulations__ 
 
-[Pub. L. 112–81, div. A, title VII, § 713(b)][/us/pl/112/81/s713/b], Dec. 31, 2011, [125 Stat. 1476][/us/stat/125/1476], provided that: 
+[Pub. L. 112–81, div. A, title VII][/us/pl/112/81/dA/tVII], § 713(b), Dec. 31, 2011, [125 Stat. 1476][/us/stat/125/1476], provided that: 
 
 > “The Secretary of Defense shall prescribe regulations to carry out the amendments made by this section \[amending this section\].”
 
@@ -125,41 +125,41 @@
 [/us/usc/t42/s1320a–7a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937a
 [/us/usc/t10/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1091
 [/us/usc/t32/s502/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs502%2Ff
-[/us/pl/99/145/s653/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs653%2Fa%2F1
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F657
-[/us/pl/99/661/s1343/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1343%2Fa%2F5
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3992
-[/us/pl/101/189/s653/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs653%2Fe%2F1
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1463
-[/us/pl/105/85/s737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs737
+[/us/pl/105/85/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVII
 [/us/stat/111/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1814
-[/us/pl/105/261/s734/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs734%2Fa
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2072
-[/us/pl/108/375/s717/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs717%2Fb
+[/us/pl/108/375/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVII
 [/us/stat/118/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1986
-[/us/pl/111/383/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs713
+[/us/pl/111/383/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVII
 [/us/stat/124/4247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4247
-[/us/pl/112/81/s713/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs713%2Fa
+[/us/pl/112/81/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVII
 [/us/stat/125/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1476
-[/us/pl/112/81/s713/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs713%2Fa%2F1
-[/us/pl/111/383/s713/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs713%2F1
-[/us/pl/112/81/s713/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs713%2Fa%2F2
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t10/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1091
-[/us/pl/111/383/s713/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs713%2F2
-[/us/pl/111/383/s713/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs713%2F3
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/101/189/s653/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs653%2Fe%2F1
-[/us/pl/101/189/s1622/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fe%2F3%2FA
-[/us/pl/101/189/s1622/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fe%2F3%2FB
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
-[/us/pl/105/261/s734/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs734%2Fc%2F1
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2073
-[/us/pl/99/145/s653/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs653%2Fb
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F658
 [/us/usc/t10/s1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1094
-[/us/pl/112/81/s713/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs713%2Fb
+[/us/pl/112/81/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVII
 [/us/stat/125/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1476
 
 

@@ -27,7 +27,7 @@
 
     In this section, the term “report” includes any certification, notification, or other communication in writing.
 
-(Added [Pub. L. 107–107, div. A, title X, § 1042(a)][/us/pl/107/107/s1042/a], Dec. 28, 2001, [115 Stat. 1218][/us/stat/115/1218]; amended [Pub. L. 107–314, div. A, title X, § 1042][/us/pl/107/314/s1042], Dec. 2, 2002, [116 Stat. 2646][/us/stat/116/2646].)
+(Added [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1042(a), Dec. 28, 2001, [115 Stat. 1218][/us/stat/115/1218]; amended [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1042, Dec. 2, 2002, [116 Stat. 2646][/us/stat/116/2646].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/107/107/s1042/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1042%2Fa
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1218
-[/us/pl/107/314/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1042
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2646
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 

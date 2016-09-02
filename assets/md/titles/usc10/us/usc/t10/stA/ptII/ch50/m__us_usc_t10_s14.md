@@ -27,7 +27,7 @@
 
  __Requirement for Regulations on Policies and Procedures on Personal Commercial Solicitations on Department of Defense Installations__ 
 
-[Pub. L. 109–163, div. A, title V, § 577(a)][/us/pl/109/163/s577/a], Jan. 6, 2006, [119 Stat. 3274][/us/stat/119/3274], provided that: 
+[Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 577(a), Jan. 6, 2006, [119 Stat. 3274][/us/stat/119/3274], provided that: 
 
 > “As soon as practicable after the date of the enactment of this Act \[Jan. 6, 2006\], and not later than March 31, 2006, the Secretary of Defense shall prescribe regulations, or modify existing regulations, on the policies and procedures relating to personal commercial solicitations, including the sale of life insurance and securities, on Department of Defense installations.”
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/109/163/s577/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs577%2Fa
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3274
 
 

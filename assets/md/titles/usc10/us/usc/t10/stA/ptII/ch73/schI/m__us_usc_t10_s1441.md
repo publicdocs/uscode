@@ -17,7 +17,7 @@
 
     An annuity under this subchapter is in addition to any pension or other payment to which the beneficiary is entitled under any other provision of law, and may not be considered as income under any law administered by the Department of Veterans Affairs.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 111][/us/stat/70A/111]; [Pub. L. 85–857, § 13(v)(1)][/us/pl/85/857/s13/v/1], Sept. 2, 1958, [72 Stat. 1266][/us/stat/72/1266]; [Pub. L. 85–861, § 1][/us/pl/85/861/s1](31B), Sept. 2, 1958, [72 Stat. 1452][/us/stat/72/1452]; [Pub. L. 86–211, § 8(a)][/us/pl/86/211/s8/a], Aug. 29, 1959, [73 Stat. 436][/us/stat/73/436]; [Pub. L. 91–588, § 8(b)][/us/pl/91/588/s8/b], Dec. 24, 1970, [84 Stat. 1584][/us/stat/84/1584]; [Pub. L. 92–425, § 1(2)(A)][/us/pl/92/425/s1/2/A], Sept. 21, 1972, [86 Stat. 706][/us/stat/86/706]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 111][/us/stat/70A/111]; [Pub. L. 85–857][/us/pl/85/857], § 13(v)(1), Sept. 2, 1958, [72 Stat. 1266][/us/stat/72/1266]; [Pub. L. 85–861][/us/pl/85/861], § 1(31B), Sept. 2, 1958, [72 Stat. 1452][/us/stat/72/1452]; [Pub. L. 86–211][/us/pl/86/211], § 8(a), Aug. 29, 1959, [73 Stat. 436][/us/stat/73/436]; [Pub. L. 91–588][/us/pl/91/588], § 8(b), Dec. 24, 1970, [84 Stat. 1584][/us/stat/84/1584]; [Pub. L. 92–425][/us/pl/92/425], § 1(2)(A), Sept. 21, 1972, [86 Stat. 706][/us/stat/86/706]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602].)
 
 <table>
 
@@ -154,17 +154,17 @@ Aug. 1, 1956, ch. 837, § 501(1), 70 Stat. 884.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F111
-[/us/pl/85/857/s13/v/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs13%2Fv%2F1
+[/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1266
-[/us/pl/85/861/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1452
-[/us/pl/86/211/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211%2Fs8%2Fa
+[/us/pl/86/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F211
 [/us/stat/73/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F436
-[/us/pl/91/588/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588%2Fs8%2Fb
+[/us/pl/91/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F588
 [/us/stat/84/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1584
-[/us/pl/92/425/s1/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425%2Fs1%2F2%2FA
+[/us/pl/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425
 [/us/stat/86/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F706
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1602
 [/us/stat/70/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F884
 [/us/usc/t10/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1441

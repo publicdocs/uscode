@@ -29,15 +29,15 @@
 
         (2) A determination described in paragraph (1) that is made by the Director of the National Geospatial-Intelligence Agency may not be reviewed by the Federal Labor Relations Authority or any court of the United States.
 
-(Added [Pub. L. 104–201, div. A, title XI, § 1112(a)(2)][/us/pl/104/201/s1112/a/2], Sept. 23, 1996, [110 Stat. 2681][/us/stat/110/2681]; amended [Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A)][/us/pl/108/136/s921/d/2/A], (C), Nov. 24, 2003, [117 Stat. 1568][/us/stat/117/1568].)
+(Added [Pub. L. 104–201, div. A, title XI][/us/pl/104/201/dA/tXI], § 1112(a)(2), Sept. 23, 1996, [110 Stat. 2681][/us/stat/110/2681]; amended [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 921(d)(2)(A), (C), Nov. 24, 2003, [117 Stat. 1568][/us/stat/117/1568].)
 
  __Amendments__ 
 
-    2003—Subsec. (a). [Pub. L. 108–136, § 921(d)(2)(A)][/us/pl/108/136/s921/d/2/A], substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in two places.
+    2003—Subsec. (a). [Pub. L. 108–136][/us/pl/108/136], § 921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in two places.
 
-    Subsec. (b). [Pub. L. 108–136, § 921(d)(2)(C)][/us/pl/108/136/s921/d/2/C], substituted “The Director of the National Geospatial-Intelligence Agency” for “The National Imagery and Mapping Agency” and “on September 30, 1996” for “on the day before the date on which employees and positions of the Defense Mapping Agency in that bargaining unit became employees and positions of the National Imagery and Mapping Agency under the National Imagery and Mapping Agency Act of 1996 (title XI of the National Defense Authorization Act for Fiscal Year 1997)”.
+    Subsec. (b). [Pub. L. 108–136][/us/pl/108/136], § 921(d)(2)(C), substituted “The Director of the National Geospatial-Intelligence Agency” for “The National Imagery and Mapping Agency” and “on September 30, 1996” for “on the day before the date on which employees and positions of the Defense Mapping Agency in that bargaining unit became employees and positions of the National Imagery and Mapping Agency under the National Imagery and Mapping Agency Act of 1996 (title XI of the National Defense Authorization Act for Fiscal Year 1997)”.
 
-    Subsec. (c). [Pub. L. 108–136, § 921(d)(2)(A)][/us/pl/108/136/s921/d/2/A], substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in two places.
+    Subsec. (c). [Pub. L. 108–136][/us/pl/108/136], § 921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in two places.
 
  __Effective Date__ 
 
@@ -51,13 +51,13 @@
 ----------
 
 [/us/usc/t5/s7111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7111
-[/us/pl/104/201/s1112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1112%2Fa%2F2
+[/us/pl/104/201/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXI
 [/us/stat/110/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2681
-[/us/pl/108/136/s921/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fd%2F2%2FA
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1568
-[/us/pl/108/136/s921/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fd%2F2%2FA
-[/us/pl/108/136/s921/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fd%2F2%2FC
-[/us/pl/108/136/s921/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fd%2F2%2FA
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/104/201/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1124
 [/us/usc/t10/s193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs193
 

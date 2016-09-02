@@ -41,7 +41,7 @@
 
     (e) After it has acted on a case, the Court of Appeals for the Armed Forces may direct the Judge Advocate General to return the record to the Court of Criminal Appeals for further review in accordance with the decision of the court. Otherwise, unless there is to be further action by the President or the Secretary concerned, the Judge Advocate General shall instruct the convening authority to take action in accordance with that decision. If the court has ordered a rehearing, but the convening authority finds a rehearing impracticable, he may dismiss the charges.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 60][/us/stat/70A/60]; [Pub. L. 88–426, title IV, § 403(j)][/us/pl/88/426/s403/j], Aug. 14, 1964, [78 Stat. 434][/us/stat/78/434]; [Pub. L. 90–340, § 1][/us/pl/90/340/s1], June 15, 1968, [82 Stat. 178][/us/stat/82/178]; [Pub. L. 90–632, § 2(28)][/us/pl/90/632/s2/28], Oct. 24, 1968, [82 Stat. 1342][/us/stat/82/1342]; [Pub. L. 96–579, § 12(a)][/us/pl/96/579/s12/a], Dec. 23, 1980, [94 Stat. 3369][/us/stat/94/3369]; [Pub. L. 97–81, § 5][/us/pl/97/81/s5], Nov. 20, 1981, [95 Stat. 1088][/us/stat/95/1088]; [Pub. L. 97–295, § 1(12)][/us/pl/97/295/s1/12], Oct. 12, 1982, [96 Stat. 1289][/us/stat/96/1289]; [Pub. L. 98–209][/us/pl/98/209], §§ 7(d), 9(a), 10(c)(2), 13(d), Dec. 6, 1983, [97 Stat. 1402][/us/stat/97/1402], 1404, 1406, 1408; [Pub. L. 100–26, § 7(a)(2)][/us/pl/100/26/s7/a/2], Apr. 21, 1987, [101 Stat. 275][/us/stat/101/275]; [Pub. L. 100–456, div. A, title VII, § 722(a)][/us/pl/100/456/s722/a], (c), Sept. 29, 1988, [102 Stat. 2002][/us/stat/102/2002], 2003; [Pub. L. 101–189, div. A, title XIII, § 1301(a)][/us/pl/101/189/s1301/a], Nov. 29, 1989, [103 Stat. 1569][/us/stat/103/1569]; [Pub. L. 103–337, div. A, title IX, § 924(c)(1)][/us/pl/103/337/s924/c/1], (2), (4)(B), Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831], 2832.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 60][/us/stat/70A/60]; [Pub. L. 88–426, title IV][/us/pl/88/426/tIV], § 403(j), Aug. 14, 1964, [78 Stat. 434][/us/stat/78/434]; [Pub. L. 90–340][/us/pl/90/340], § 1, June 15, 1968, [82 Stat. 178][/us/stat/82/178]; [Pub. L. 90–632][/us/pl/90/632], § 2(28), Oct. 24, 1968, [82 Stat. 1342][/us/stat/82/1342]; [Pub. L. 96–579][/us/pl/96/579], § 12(a), Dec. 23, 1980, [94 Stat. 3369][/us/stat/94/3369]; [Pub. L. 97–81][/us/pl/97/81], § 5, Nov. 20, 1981, [95 Stat. 1088][/us/stat/95/1088]; [Pub. L. 97–295][/us/pl/97/295], § 1(12), Oct. 12, 1982, [96 Stat. 1289][/us/stat/96/1289]; [Pub. L. 98–209][/us/pl/98/209], §§ 7(d), 9(a), 10(c)(2), 13(d), Dec. 6, 1983, [97 Stat. 1402][/us/stat/97/1402], 1404, 1406, 1408; [Pub. L. 100–26][/us/pl/100/26], § 7(a)(2), Apr. 21, 1987, [101 Stat. 275][/us/stat/101/275]; [Pub. L. 100–456, div. A, title VII][/us/pl/100/456/dA/tVII], § 722(a), (c), Sept. 29, 1988, [102 Stat. 2002][/us/stat/102/2002], 2003; [Pub. L. 101–189, div. A, title XIII][/us/pl/101/189/dA/tXIII], § 1301(a), Nov. 29, 1989, [103 Stat. 1569][/us/stat/103/1569]; [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(c)(1), (2), (4)(B), Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831], 2832.)
 
 <table>
 
@@ -175,31 +175,31 @@ May 5, 1950, ch. 169, § 1 (Art. 67), 64 Stat. 129; Mar. 2, 1955, ch. 9, § 
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–337, § 924(c)(4)(B)][/us/pl/103/337/s924/c/4/B], substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in section catchline.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 924(c)(4)(B), substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in section catchline.
 
-    [Pub. L. 103–337, § 924(c)(2)][/us/pl/103/337/s924/c/2], substituted “Court of Criminal Appeals” for “Court of Military Review” wherever appearing in subsecs. (a) to (c) and (e).
+    [Pub. L. 103–337][/us/pl/103/337], § 924(c)(2), substituted “Court of Criminal Appeals” for “Court of Military Review” wherever appearing in subsecs. (a) to (c) and (e).
 
-    [Pub. L. 103–337, § 924(c)(1)][/us/pl/103/337/s924/c/1], substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” wherever appearing.
+    [Pub. L. 103–337][/us/pl/103/337], § 924(c)(1), substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” wherever appearing.
 
     1989—[Pub. L. 101–189][/us/pl/101/189] redesignated subsecs. (b) to (f) as (a) to (e), respectively, struck out former subsec. (a) which related to establishment of the United States Court of Military Appeals, and appointment, removal, allowances and compensation, etc., of judges of such court, struck out subsec. (g) which related to a committee required to make annual comprehensive surveys of the operation of this chapter, struck out subsec. (h) which related to review of decisions of the Court of Military Appeals by the Supreme Court, and struck out subsec. (i) which related to annuities for judges and former or retired judges, and survivors and former spouses of judges and former judges.
 
-    1988—Subsec. (a)(4). [Pub. L. 100–456, § 722(c)][/us/pl/100/456/s722/c], inserted “or an annuity under subsection (i) or subchapter III of chapter 83 or chapter 84 of title 5” after “retired pay” in two places.
+    1988—Subsec. (a)(4). [Pub. L. 100–456][/us/pl/100/456], § 722(c), inserted “or an annuity under subsection (i) or subchapter III of chapter 83 or chapter 84 of title 5” after “retired pay” in two places.
 
-    Subsec. (i). [Pub. L. 100–456, § 722(a)][/us/pl/100/456/s722/a], added subsec. (i).
+    Subsec. (i). [Pub. L. 100–456][/us/pl/100/456], § 722(a), added subsec. (i).
 
     1987—Subsec. (g)(1). [Pub. L. 100–26][/us/pl/100/26] substituted “the Staff Judge Advocate to the Commandant of the Marine Corps” for “the Director, Judge Advocate Division, Headquarters, United States Marine Corps”.
 
-    1983—Subsec. (a)(3). [Pub. L. 98–209, § 13(d)][/us/pl/98/209/s13/d], inserted “Circuit” after “District of Columbia”.
+    1983—Subsec. (a)(3). [Pub. L. 98–209][/us/pl/98/209], § 13(d), inserted “Circuit” after “District of Columbia”.
 
-    Subsec. (b)(1). [Pub. L. 98–209, § 7(d)][/us/pl/98/209/s7/d], struck out “affects a general or flag officer or” before “extends to death”.
+    Subsec. (b)(1). [Pub. L. 98–209][/us/pl/98/209], § 7(d), struck out “affects a general or flag officer or” before “extends to death”.
 
-    Subsec. (g). [Pub. L. 98–209, § 9(a)][/us/pl/98/209/s9/a], designated existing provisions as par. (1), substituted “A committee consisting of the judges of the Court of Military Appeals, the Judge Advocates General of the Army, Navy, and Air Force, the Chief Counsel of the Coast Guard, the Director, Judge Advocate Division, Headquarters, United States Marine Corps, and two members of the public appointed by the Secretary of Defense shall meet at least annually. The committee shall make an annual comprehensive survey of the operation of this chapter. After each such survey, the committee shall report” for “The Court of Military Appeals and the Judge Advocates General shall meet annually to make a comprehensive survey of the operation of this chapter and report”, and added pars. (2) and (3).
+    Subsec. (g). [Pub. L. 98–209][/us/pl/98/209], § 9(a), designated existing provisions as par. (1), substituted “A committee consisting of the judges of the Court of Military Appeals, the Judge Advocates General of the Army, Navy, and Air Force, the Chief Counsel of the Coast Guard, the Director, Judge Advocate Division, Headquarters, United States Marine Corps, and two members of the public appointed by the Secretary of Defense shall meet at least annually. The committee shall make an annual comprehensive survey of the operation of this chapter. After each such survey, the committee shall report” for “The Court of Military Appeals and the Judge Advocates General shall meet annually to make a comprehensive survey of the operation of this chapter and report”, and added pars. (2) and (3).
 
-    Subsec. (h). [Pub. L. 98–209, § 10(c)(2)][/us/pl/98/209/s10/c/2], added subsec. (h).
+    Subsec. (h). [Pub. L. 98–209][/us/pl/98/209], § 10(c)(2), added subsec. (h).
 
-    1982—Subsec. (d). [Pub. L. 97–295, § 1(12)(A)][/us/pl/97/295/s1/12/A], substituted “Court of Military Review” for “board of review” after “incorrect in law by the”.
+    1982—Subsec. (d). [Pub. L. 97–295][/us/pl/97/295], § 1(12)(A), substituted “Court of Military Review” for “board of review” after “incorrect in law by the”.
 
-    Subsec. (g). [Pub. L. 97–295, § 1(12)(B)][/us/pl/97/295/s1/12/B], substituted “Secretary of Transportation” for “Secretary of the Treasury” after “military departments, and the”.
+    Subsec. (g). [Pub. L. 97–295][/us/pl/97/295], § 1(12)(B), substituted “Secretary of Transportation” for “Secretary of the Treasury” after “military departments, and the”.
 
     1981—Subsec. (c). [Pub. L. 97–81][/us/pl/97/81] substituted provisions authorizing the accused to petition the Court of Military Appeals for review of a decision of a Court of Military Review within 60 days from the earlier of (1) the date on which the accused is notified of the decision of the Court of Military Review, or (2) the date on which a copy of the decision of the Court of Military Review, after being served on appellate counsel of record for the accused (if any), is deposited in the United States mails for delivery by first-class certified mail to the accused at an address provided by the accused or, if no such address has been provided by the accused, at the latest address listed for the accused in his official service record, and directing the Court of Military Appeals to act upon such a petition promptly in accordance with the rules of the court for provision which had given the accused 30 days from the time when he was notified of the decision of a board of review to petition the Court of Military Appeals for review and which had directed the court to act upon such a petition within 30 days of the receipt thereof.
 
@@ -219,7 +219,7 @@ May 5, 1950, ch. 169, § 1 (Art. 67), 64 Stat. 129; Mar. 2, 1955, ch. 9, § 
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–456, div. A, title VII, § 722(d)][/us/pl/100/456/s722/d], Sept. 29, 1988, [102 Stat. 2003][/us/stat/102/2003], provided that: 
+[Pub. L. 100–456, div. A, title VII][/us/pl/100/456/dA/tVII], § 722(d), Sept. 29, 1988, [102 Stat. 2003][/us/stat/102/2003], provided that: 
 
 > “Subsection (i) of [section 867 of title 10][/us/usc/t10/s867], United States Code, as added by subsection (a), shall apply with respect to judges of the United States Court of Military Appeals \[now United States Court of Appeals for the Armed Forces\] whose term of service on such court ends on or after the date of the enactment of this Act \[Sept. 29, 1988\] and to the survivors of such judges.”
 
@@ -241,15 +241,15 @@ May 5, 1950, ch. 169, § 1 (Art. 67), 64 Stat. 129; Mar. 2, 1955, ch. 9, § 
 
  __Commission To Study and Make Recommendations Concerning Sentencing Authority, Jurisdiction, Tenure, and Retirement of Military Judges; Establishment; Composition; Report to Congressional Committees__ 
 
-    [Pub. L. 98–209, § 9(b)][/us/pl/98/209/s9/b], Dec. 6, 1983, [97 Stat. 1404][/us/stat/97/1404], as amended by [Pub. L. 98–525, title XV, § 1521][/us/pl/98/525/s1521], Oct. 19, 1984, [98 Stat. 2628][/us/stat/98/2628], directed Secretary of Defense to establish a commission to study the sentencing authority, jurisdiction, tenure, and retirement system of military judges, and to report, not later than Dec. 15, 1984, its findings and recommendations to committees of Congress and to the committee established under former [section 867(g) of this title][/us/usc/t10/s867/g].
+    [Pub. L. 98–209][/us/pl/98/209], § 9(b), Dec. 6, 1983, [97 Stat. 1404][/us/stat/97/1404], as amended by [Pub. L. 98–525, title XV][/us/pl/98/525/tXV], § 1521, Oct. 19, 1984, [98 Stat. 2628][/us/stat/98/2628], directed Secretary of Defense to establish a commission to study the sentencing authority, jurisdiction, tenure, and retirement system of military judges, and to report, not later than Dec. 15, 1984, its findings and recommendations to committees of Congress and to the committee established under former [section 867(g) of this title][/us/usc/t10/s867/g].
 
  __Terms of Office of Judges of United States Court of Military Appeals__ 
 
-    [Pub. L. 96–579, § 12(b)][/us/pl/96/579/s12/b], Dec. 23, 1980, [94 Stat. 3369][/us/stat/94/3369], provided that the term of office of a judge of United States Court of Military Appeals serving on such court on Dec. 23, 1980, expire (1) on the date the term of such judge would have expired under the law in effect on the day before Dec. 23, 1980, or (2) ten years after the date on which such judge took office as a judge of the United States Court of Military Appeals, whichever is later.
+    [Pub. L. 96–579][/us/pl/96/579], § 12(b), Dec. 23, 1980, [94 Stat. 3369][/us/stat/94/3369], provided that the term of office of a judge of United States Court of Military Appeals serving on such court on Dec. 23, 1980, expire (1) on the date the term of such judge would have expired under the law in effect on the day before Dec. 23, 1980, or (2) ten years after the date on which such judge took office as a judge of the United States Court of Military Appeals, whichever is later.
 
  __Continuation of Powers and Jurisdiction of Court of Military Appeals; Status of Judges__ 
 
-[Pub. L. 90–340, § 2][/us/pl/90/340/s2], June 15, 1968, [82 Stat. 178][/us/stat/82/178], provided that: 
+[Pub. L. 90–340][/us/pl/90/340], § 2, June 15, 1968, [82 Stat. 178][/us/stat/82/178], provided that: 
 
 > “The United States Court of Military Appeals \[now United States Court of Appeals for the Armed Forces\] established under this Act \[which amended subsec. (a) of this section\] is a continuation of the Court of Military Appeals as it existed prior to the effective date of this Act \[June 15, 1968\], and no loss of rights or powers, interruption of jurisdiction, or prejudice to matters pending in the Court of Military Appeals before the effective date of this Act shall result. A judge of the Court of Military Appeals so serving on the day before the effective date of this Act shall, for all purposes, be a judge of the United States Court of Military Appeals under this Act.”
 
@@ -274,43 +274,43 @@ May 5, 1950, ch. 169, § 1 (Art. 67), 64 Stat. 129; Mar. 2, 1955, ch. 9, § 
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F60
-[/us/pl/88/426/s403/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs403%2Fj
+[/us/pl/88/426/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIV
 [/us/stat/78/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F434
-[/us/pl/90/340/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F340%2Fs1
+[/us/pl/90/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F340
 [/us/stat/82/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F178
-[/us/pl/90/632/s2/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F28
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1342
-[/us/pl/96/579/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579%2Fs12%2Fa
+[/us/pl/96/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579
 [/us/stat/94/3369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3369
-[/us/pl/97/81/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81%2Fs5
+[/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/stat/95/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1088
-[/us/pl/97/295/s1/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F12
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1289
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1402
-[/us/pl/100/26/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fa%2F2
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F275
-[/us/pl/100/456/s722/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs722%2Fa
+[/us/pl/100/456/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVII
 [/us/stat/102/2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2002
-[/us/pl/101/189/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1301%2Fa
+[/us/pl/101/189/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXIII
 [/us/stat/103/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1569
-[/us/pl/103/337/s924/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fc%2F1
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2831
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1343
-[/us/pl/103/337/s924/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fc%2F4%2FB
-[/us/pl/103/337/s924/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fc%2F2
-[/us/pl/103/337/s924/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fc%2F1
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
-[/us/pl/100/456/s722/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs722%2Fc
-[/us/pl/100/456/s722/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs722%2Fa
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
-[/us/pl/98/209/s13/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs13%2Fd
-[/us/pl/98/209/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs7%2Fd
-[/us/pl/98/209/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs9%2Fa
-[/us/pl/98/209/s10/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs10%2Fc%2F2
-[/us/pl/97/295/s1/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F12%2FA
-[/us/pl/97/295/s1/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F12%2FB
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/pl/96/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579
 [/us/pl/90/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F340
@@ -319,7 +319,7 @@ May 5, 1950, ch. 169, § 1 (Art. 67), 64 Stat. 129; Mar. 2, 1955, ch. 9, § 
 [/us/pl/90/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F340
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
-[/us/pl/100/456/s722/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs722%2Fd
+[/us/pl/100/456/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVII
 [/us/stat/102/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2003
 [/us/usc/t10/s867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs867
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
@@ -335,14 +335,14 @@ May 5, 1950, ch. 169, § 1 (Art. 67), 64 Stat. 129; Mar. 2, 1955, ch. 9, § 
 [/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/pl/88/426/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs501
-[/us/pl/98/209/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs9%2Fb
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1404
-[/us/pl/98/525/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1521
+[/us/pl/98/525/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXV
 [/us/stat/98/2628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2628
 [/us/usc/t10/s867/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs867%2Fg
-[/us/pl/96/579/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579%2Fs12%2Fb
+[/us/pl/96/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579
 [/us/stat/94/3369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3369
-[/us/pl/90/340/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F340%2Fs2
+[/us/pl/90/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F340
 [/us/stat/82/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F178
 [/us/usc/t2/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs358
 [/us/usc/t2/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs358

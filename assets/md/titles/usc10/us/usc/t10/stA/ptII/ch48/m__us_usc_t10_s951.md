@@ -31,7 +31,7 @@
 
     (d) There may be made or repaired at each military correctional facility such supplies for the armed forces or other agencies of the United States as can properly and economically be made or repaired at such facilities.
 
-(Added [Pub. L. 90–377, § 1][/us/pl/90/377/s1], July 5, 1968, [82 Stat. 287][/us/stat/82/287]; amended [Pub. L. 96–513, title V, § 511(27)][/us/pl/96/513/s511/27], Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922].)
+(Added [Pub. L. 90–377][/us/pl/90/377], § 1, July 5, 1968, [82 Stat. 287][/us/stat/82/287]; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(27), Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Offenses Against Minors__ 
 
-[Pub. L. 105–119, title I, § 115(a)(8)(C)][/us/pl/105/119/s115/a/8/C], Nov. 26, 1997, [111 Stat. 2466][/us/stat/111/2466], as amended by [Pub. L. 109–248, title I, § 141(i)][/us/pl/109/248/s141/i], July 27, 2006, [120 Stat. 604][/us/stat/120/604], provided that:
+[Pub. L. 105–119, title I][/us/pl/105/119/tI], § 115(a)(8)(C), Nov. 26, 1997, [111 Stat. 2466][/us/stat/111/2466], as amended by [Pub. L. 109–248, title I][/us/pl/109/248/tI], § 141(i), July 27, 2006, [120 Stat. 604][/us/stat/120/604], provided that:
 
 >     “(i) The Secretary of Defense shall specify categories of conduct punishable under the Uniform Code of Military Justice which are sex offenses as that term is defined in the Sex Offender Registration and Notification Act \[[42 U.S.C. 16901][/us/usc/t42/s16901] et seq.\], and such other conduct as the Secretary deems appropriate for inclusion for purposes of this subparagraph.
 
@@ -63,7 +63,7 @@
 
  __Notification of Victims and Witnesses of Status of Prisoners in Military Correctional Facilities__ 
 
-    [Pub. L. 103–160, div. A, title V, § 552][/us/pl/103/160/s552], Nov. 30, 1993, [107 Stat. 1662][/us/stat/107/1662], directed the Secretary of Defense to prescribe procedures, not later than six months after Nov. 30, 1993, for notice of the status of offenders confined in military correctional facilities to be provided to victims and witnesses, to implement a centralized system for the provision of such notice not later than six months after such procedures had been prescribed, to notify Congress upon implementation of the centralized system of notice, and to submit to Congress a report after such system had been in operation for one year, and directed that the requirement to establish procedures and implement a centralized system of notice would expire 90 days after receipt of the report.
+    [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 552, Nov. 30, 1993, [107 Stat. 1662][/us/stat/107/1662], directed the Secretary of Defense to prescribe procedures, not later than six months after Nov. 30, 1993, for notice of the status of offenders confined in military correctional facilities to be provided to victims and witnesses, to implement a centralized system for the provision of such notice not later than six months after such procedures had been prescribed, to notify Congress upon implementation of the centralized system of notice, and to submit to Congress a report after such system had been in operation for one year, and directed that the requirement to establish procedures and implement a centralized system of notice would expire 90 days after receipt of the report.
 
 ----------
 
@@ -72,21 +72,21 @@
 ----------
 ----------
 
-[/us/pl/90/377/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F377%2Fs1
+[/us/pl/90/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F377
 [/us/stat/82/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F287
-[/us/pl/96/513/s511/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F27
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2922
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/105/119/s115/a/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs115%2Fa%2F8%2FC
+[/us/pl/105/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtI
 [/us/stat/111/2466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2466
-[/us/pl/109/248/s141/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs141%2Fi
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F604
 [/us/usc/t42/s16901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16901
 [/us/usc/t18/s4042/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4042%2Fc
-[/us/pl/103/160/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs552
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1662
 
 

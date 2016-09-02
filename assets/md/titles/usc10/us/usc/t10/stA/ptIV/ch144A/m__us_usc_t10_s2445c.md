@@ -95,29 +95,29 @@
 
         (2) The prohibition on the obligation of funds for a program under paragraph (1) shall cease to apply on the date on which Congress has received a report under subsection (d)(1)(B).
 
-(Added [Pub. L. 109–364, div. A, title VIII, § 816(a)(1)][/us/pl/109/364/s816/a/1], Oct. 17, 2006, [120 Stat. 2324][/us/stat/120/2324]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 812(c), Oct. 14, 2008, [122 Stat. 4526][/us/stat/122/4526]; [Pub. L. 111–23, title I, § 101(d)(6)][/us/pl/111/23/s101/d/6], May 22, 2009, [123 Stat. 1710][/us/stat/123/1710]; [Pub. L. 111–84, div. A, title VIII, § 841(b)][/us/pl/111/84/s841/b], Oct. 28, 2009, [123 Stat. 2418][/us/stat/123/2418]; [Pub. L. 112–81, div. A, title VIII, § 811][/us/pl/112/81/s811], Dec. 31, 2011, [125 Stat. 1491][/us/stat/125/1491]; [Pub. L. 113–66, div. A, title X, § 1092(b)][/us/pl/113/66/s1092/b], (c), (d)(2), (e), Dec. 26, 2013, [127 Stat. 877][/us/stat/127/877], 878; [Pub. L. 113–291, div. A, title VIII, § 802][/us/pl/113/291/s802], Dec. 19, 2014, [128 Stat. 3427][/us/stat/128/3427]; [Pub. L. 114–92, div. A, title VIII, § 891(b)][/us/pl/114/92/s891/b], Nov. 25, 2015, [129 Stat. 952][/us/stat/129/952].)
+(Added [Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 816(a)(1), Oct. 17, 2006, [120 Stat. 2324][/us/stat/120/2324]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 812(c), Oct. 14, 2008, [122 Stat. 4526][/us/stat/122/4526]; [Pub. L. 111–23, title I][/us/pl/111/23/tI], § 101(d)(6), May 22, 2009, [123 Stat. 1710][/us/stat/123/1710]; [Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], § 841(b), Oct. 28, 2009, [123 Stat. 2418][/us/stat/123/2418]; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 811, Dec. 31, 2011, [125 Stat. 1491][/us/stat/125/1491]; [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1092(b), (c), (d)(2), (e), Dec. 26, 2013, [127 Stat. 877][/us/stat/127/877], 878; [Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 802, Dec. 19, 2014, [128 Stat. 3427][/us/stat/128/3427]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 891(b), Nov. 25, 2015, [129 Stat. 952][/us/stat/129/952].)
 
  __Amendments__ 
 
     2015—Subsec. (c)(2)(B) to (D). [Pub. L. 114–92][/us/pl/114/92] substituted “; or” for semicolon at end of subpar. (B) and period for “; or” at end of subpar. (C) and struck out subpar. (D) which read as follows: “the automated information system or information technology investment failed to achieve a full deployment decision within five years after the Milestone A decision for the program or, if there was no Milestone A decision, the date when the preferred alternative is selected for the program (excluding any time during which program activity is delayed as a result of a bid protest).”
 
-    2014—Subsec. (c)(2)(D). [Pub. L. 113–291, § 802(a)][/us/pl/113/291/s802/a], added subpar. (D).
+    2014—Subsec. (c)(2)(D). [Pub. L. 113–291][/us/pl/113/291], § 802(a), added subpar. (D).
 
-    Subsec. (d)(2). [Pub. L. 113–291, § 802(c)][/us/pl/113/291/s802/c], substituted “are primarily due to an extension of a program and involve” for “(A) is primarily due to an extension of a program, and (B) involves”.
+    Subsec. (d)(2). [Pub. L. 113–291][/us/pl/113/291], § 802(c), substituted “are primarily due to an extension of a program and involve” for “(A) is primarily due to an extension of a program, and (B) involves”.
 
-    Subsec. (d)(3). [Pub. L. 113–291, § 802(b)][/us/pl/113/291/s802/b], redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “the automated information system or information technology investment failed to achieve a full deployment decision within five years after the Milestone A decision for the program or, if there was no Milestone A decision, the date when the preferred alternative is selected for the program (excluding any time during which program activity is delayed as a result of a bid protest);”.
+    Subsec. (d)(3). [Pub. L. 113–291][/us/pl/113/291], § 802(b), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “the automated information system or information technology investment failed to achieve a full deployment decision within five years after the Milestone A decision for the program or, if there was no Milestone A decision, the date when the preferred alternative is selected for the program (excluding any time during which program activity is delayed as a result of a bid protest);”.
 
-    2013—Subsec. (c)(2)(B). [Pub. L. 113–66, § 1092(d)(2)(A)][/us/pl/113/66/s1092/d/2/A], substituted “total acquisition cost” for “program development cost”.
+    2013—Subsec. (c)(2)(B). [Pub. L. 113–66][/us/pl/113/66], § 1092(d)(2)(A), substituted “total acquisition cost” for “program development cost”.
 
-    Subsec. (d)(1). [Pub. L. 113–66, § 1092(b)(1)][/us/pl/113/66/s1092/b/1], substituted “paragraph (3)” for “paragraph (2)” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 113–66][/us/pl/113/66], § 1092(b)(1), substituted “paragraph (3)” for “paragraph (2)” in introductory provisions.
 
-    Subsec. (d)(2). [Pub. L. 113–66, § 1092(b)(3)][/us/pl/113/66/s1092/b/3], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (d)(2). [Pub. L. 113–66][/us/pl/113/66], § 1092(b)(3), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (d)(3). [Pub. L. 113–66, § 1092(b)(2)][/us/pl/113/66/s1092/b/2], (d)(2)(B), redesignated par. (2) as (3) and substituted “total acquisition cost” for “program development cost” in subpar. (C).
+    Subsec. (d)(3). [Pub. L. 113–66][/us/pl/113/66], § 1092(b)(2), (d)(2)(B), redesignated par. (2) as (3) and substituted “total acquisition cost” for “program development cost” in subpar. (C).
 
-    Subsec. (g)(1). [Pub. L. 113–66, § 1092(c)][/us/pl/113/66/s1092/c], substituted “subsection (d)(3)” for “subsection (d)(2)”.
+    Subsec. (g)(1). [Pub. L. 113–66][/us/pl/113/66], § 1092(c), substituted “subsection (d)(3)” for “subsection (d)(2)”.
 
-    Subsec. (g)(2). [Pub. L. 113–66, § 1092(e)][/us/pl/113/66/s1092/e], substituted “under subsection (d)(1)(B)” for “in compliance with the requirements of subsection (d)(2)”.
+    Subsec. (g)(2). [Pub. L. 113–66][/us/pl/113/66], § 1092(e), substituted “under subsection (d)(1)(B)” for “in compliance with the requirements of subsection (d)(2)”.
 
     2011—Subsec. (d)(2)(A). [Pub. L. 112–81][/us/pl/112/81] amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the automated information system or information technology investment failed to achieve a full deployment decision within five years after funds were first obligated for the program;”.
 
@@ -125,27 +125,27 @@
 
     Subsec. (f)(3). [Pub. L. 111–23][/us/pl/111/23] substituted “have been determined, with the concurrence of the Director of Cost Assessment and Program Evaluation, to be reasonable” for “are reasonable”.
 
-    2008—Subsec. (a). [Pub. L. 110–417, § 812(c)(1)][/us/pl/110/417/s812/c/1], inserted “or other major information technology investment program” after “major automated information system program” and “or information technology investment” after “the major automated information system”.
+    2008—Subsec. (a). [Pub. L. 110–417][/us/pl/110/417], § 812(c)(1), inserted “or other major information technology investment program” after “major automated information system program” and “or information technology investment” after “the major automated information system”.
 
-    Subsec. (b). [Pub. L. 110–417, § 812(c)(2)][/us/pl/110/417/s812/c/2], inserted “or other major information technology investment program” after “major automated information system program” in introductory provisions and “or information technology investment” after “automated information system” in pars. (1) and (2).
+    Subsec. (b). [Pub. L. 110–417][/us/pl/110/417], § 812(c)(2), inserted “or other major information technology investment program” after “major automated information system program” in introductory provisions and “or information technology investment” after “automated information system” in pars. (1) and (2).
 
-    Subsec. (d)(1), (2). [Pub. L. 110–417, § 812(c)(3)(A)][/us/pl/110/417/s812/c/3/A], inserted “or other major information technology investment program” after “major automated information system program” in introductory provisions.
+    Subsec. (d)(1), (2). [Pub. L. 110–417][/us/pl/110/417], § 812(c)(3)(A), inserted “or other major information technology investment program” after “major automated information system program” in introductory provisions.
 
-    Subsec. (d)(2)(A). [Pub. L. 110–417, § 812(c)(3)(B)(i)][/us/pl/110/417/s812/c/3/B/i], added subpar. (A) and struck out former subpar. (A) which read as follows: “the system failed to achieve initial operational capability within five years of milestone A approval;”.
+    Subsec. (d)(2)(A). [Pub. L. 110–417][/us/pl/110/417], § 812(c)(3)(B)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: “the system failed to achieve initial operational capability within five years of milestone A approval;”.
 
-    Subsec. (d)(2)(B), (C). [Pub. L. 110–417, § 812(c)(3)(B)(ii)][/us/pl/110/417/s812/c/3/B/ii], (iii), inserted “or [section 2445b(d) of this title][/us/usc/t10/s2445b/d], as applicable” before semicolon at end.
+    Subsec. (d)(2)(B), (C). [Pub. L. 110–417][/us/pl/110/417], § 812(c)(3)(B)(ii), (iii), inserted “or [section 2445b(d) of this title][/us/usc/t10/s2445b/d], as applicable” before semicolon at end.
 
-    Subsec. (d)(2)(D). [Pub. L. 110–417, § 812(c)(3)(B)(iv)][/us/pl/110/417/s812/c/3/B/iv], inserted “or major information technology investment” after “major automated information system” and “or [section 2445b(d) of this title][/us/usc/t10/s2445b/d], as applicable” before period at end.
+    Subsec. (d)(2)(D). [Pub. L. 110–417][/us/pl/110/417], § 812(c)(3)(B)(iv), inserted “or major information technology investment” after “major automated information system” and “or [section 2445b(d) of this title][/us/usc/t10/s2445b/d], as applicable” before period at end.
 
-    Subsec. (e). [Pub. L. 110–417, § 812(c)(4)][/us/pl/110/417/s812/c/4], inserted “or other major information technology investment program” after “major automated information system program” in introductory provisions.
+    Subsec. (e). [Pub. L. 110–417][/us/pl/110/417], § 812(c)(4), inserted “or other major information technology investment program” after “major automated information system program” in introductory provisions.
 
-    Subsec. (f). [Pub. L. 110–417, § 812(c)(5)(A)][/us/pl/110/417/s812/c/5/A], inserted “or other major information technology investment program” after “major automated information system program” in introductory provisions.
+    Subsec. (f). [Pub. L. 110–417][/us/pl/110/417], § 812(c)(5)(A), inserted “or other major information technology investment program” after “major automated information system program” in introductory provisions.
 
-    Subsec. (f)(1). [Pub. L. 110–417, § 812(c)(5)(B)][/us/pl/110/417/s812/c/5/B], inserted “or information technology investment” after “automated information system”.
+    Subsec. (f)(1). [Pub. L. 110–417][/us/pl/110/417], § 812(c)(5)(B), inserted “or information technology investment” after “automated information system”.
 
-    Subsec. (f)(2). [Pub. L. 110–417, § 812(c)(5)(C)][/us/pl/110/417/s812/c/5/C], inserted “or information technology investment” after “the system”.
+    Subsec. (f)(2). [Pub. L. 110–417][/us/pl/110/417], § 812(c)(5)(C), inserted “or information technology investment” after “the system”.
 
-    Subsec. (f)(3). [Pub. L. 110–417, § 812(c)(5)(D)][/us/pl/110/417/s812/c/5/D], inserted “or information technology investment, as applicable,” after “the program and system”.
+    Subsec. (f)(3). [Pub. L. 110–417][/us/pl/110/417], § 812(c)(5)(D), inserted “or information technology investment, as applicable,” after “the program and system”.
 
 ----------
 
@@ -164,47 +164,47 @@
 [/us/usc/t10/s2445b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2445b%2Fd
 [/us/usc/t10/s2445b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2445b%2Fb
 [/us/usc/t10/s2445b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2445b%2Fd
-[/us/pl/109/364/s816/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs816%2Fa%2F1
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2324
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4526
-[/us/pl/111/23/s101/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs101%2Fd%2F6
+[/us/pl/111/23/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2FtI
 [/us/stat/123/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1710
-[/us/pl/111/84/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs841%2Fb
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2418
-[/us/pl/112/81/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs811
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1491
-[/us/pl/113/66/s1092/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1092%2Fb
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F877
-[/us/pl/113/291/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs802
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3427
-[/us/pl/114/92/s891/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs891%2Fb
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F952
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
-[/us/pl/113/291/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs802%2Fa
-[/us/pl/113/291/s802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs802%2Fc
-[/us/pl/113/291/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs802%2Fb
-[/us/pl/113/66/s1092/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1092%2Fd%2F2%2FA
-[/us/pl/113/66/s1092/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1092%2Fb%2F1
-[/us/pl/113/66/s1092/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1092%2Fb%2F3
-[/us/pl/113/66/s1092/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1092%2Fb%2F2
-[/us/pl/113/66/s1092/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1092%2Fc
-[/us/pl/113/66/s1092/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1092%2Fe
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23
-[/us/pl/110/417/s812/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs812%2Fc%2F1
-[/us/pl/110/417/s812/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs812%2Fc%2F2
-[/us/pl/110/417/s812/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs812%2Fc%2F3%2FA
-[/us/pl/110/417/s812/c/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs812%2Fc%2F3%2FB%2Fi
-[/us/pl/110/417/s812/c/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs812%2Fc%2F3%2FB%2Fii
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/usc/t10/s2445b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2445b%2Fd
-[/us/pl/110/417/s812/c/3/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs812%2Fc%2F3%2FB%2Fiv
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/usc/t10/s2445b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2445b%2Fd
-[/us/pl/110/417/s812/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs812%2Fc%2F4
-[/us/pl/110/417/s812/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs812%2Fc%2F5%2FA
-[/us/pl/110/417/s812/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs812%2Fc%2F5%2FB
-[/us/pl/110/417/s812/c/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs812%2Fc%2F5%2FC
-[/us/pl/110/417/s812/c/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs812%2Fc%2F5%2FD
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 
 

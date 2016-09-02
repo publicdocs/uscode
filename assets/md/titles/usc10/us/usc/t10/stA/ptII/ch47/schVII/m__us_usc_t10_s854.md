@@ -35,7 +35,7 @@
 
     (e) In the case of a general or special court-martial involving a sexual assault or other offense covered by [section 920 of this title][/us/usc/t10/s920] (article 120), a copy of all prepared records of the proceedings of the court-martial shall be given to the victim of the offense if the victim testified during the proceedings. The records of the proceedings shall be provided without charge and as soon as the records are authenticated. The victim shall be notified of the opportunity to receive the records of the proceedings.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 56][/us/stat/70A/56]; [Pub. L. 90–632, § 2(23)][/us/pl/90/632/s2/23], Oct. 24, 1968, [82 Stat. 1340][/us/stat/82/1340]; [Pub. L. 98–209, § 6(c)][/us/pl/98/209/s6/c], Dec. 6, 1983, [97 Stat. 1400][/us/stat/97/1400]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 555(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–127; [Pub. L. 112–81, div. A, title V, § 586(e)][/us/pl/112/81/s586/e], Dec. 31, 2011, [125 Stat. 1435][/us/stat/125/1435].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 56][/us/stat/70A/56]; [Pub. L. 90–632][/us/pl/90/632], § 2(23), Oct. 24, 1968, [82 Stat. 1340][/us/stat/82/1340]; [Pub. L. 98–209][/us/pl/98/209], § 6(c), Dec. 6, 1983, [97 Stat. 1400][/us/stat/97/1400]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 555(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–127; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 586(e), Dec. 31, 2011, [125 Stat. 1435][/us/stat/125/1435].)
 
 <table>
 
@@ -111,17 +111,17 @@ May 5, 1950, ch. 169, § 1 (Art. 54), 64 Stat. 125.  </td>
 
     2000—Subsec. (c)(1)(B). [Pub. L. 106–398][/us/pl/106/398] inserted “, confinement for more than six months, or forfeiture of pay for more than six months” after “bad-conduct discharge”.
 
-    1983—Subsec. (a). [Pub. L. 98–209, § 6(c)(1)][/us/pl/98/209/s6/c/1], struck out provision that if the proceedings had resulted in an acquittal of all charges and specifications or, if not affecting a general or flag officer, in a sentence not including discharge and not in excess of that which could otherwise be adjudged by a special court-martial, the record had to contain such matters as might be prescribed by regulations of the President.
+    1983—Subsec. (a). [Pub. L. 98–209][/us/pl/98/209], § 6(c)(1), struck out provision that if the proceedings had resulted in an acquittal of all charges and specifications or, if not affecting a general or flag officer, in a sentence not including discharge and not in excess of that which could otherwise be adjudged by a special court-martial, the record had to contain such matters as might be prescribed by regulations of the President.
 
-    Subsec. (b). [Pub. L. 98–209, § 6(c)(2)][/us/pl/98/209/s6/c/2], substituted “the record” for “the record shall contain the matter and”.
+    Subsec. (b). [Pub. L. 98–209][/us/pl/98/209], § 6(c)(2), substituted “the record” for “the record shall contain the matter and”.
 
-    Subsecs. (c), (d). [Pub. L. 98–209, § 6(c)(3)][/us/pl/98/209/s6/c/3], (4), added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 98–209][/us/pl/98/209], § 6(c)(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d).
 
     1968—Subsec. (a). [Pub. L. 90–632][/us/pl/90/632] provided for authentication of a record of trial by general court-martial by the signature of the military judge, for alternate methods of authentication if the military judge for specified reasons is unable to authenticate it, for authentication when a court-martial consists only of a military judge, and for summarized records of trial in specified cases.
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 555(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–127, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 555(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–127, provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as of April 1, 2000, and shall apply with respect to charges referred on or after that date to trial by special court-martial.”
 
@@ -143,21 +143,21 @@ May 5, 1950, ch. 169, § 1 (Art. 54), 64 Stat. 125.  </td>
 [/us/usc/t10/s920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs920
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F56
-[/us/pl/90/632/s2/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F23
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1340
-[/us/pl/98/209/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs6%2Fc
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1400
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/112/81/s586/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs586%2Fe
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1435
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/98/209/s6/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs6%2Fc%2F1
-[/us/pl/98/209/s6/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs6%2Fc%2F2
-[/us/pl/98/209/s6/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs6%2Fc%2F3
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209

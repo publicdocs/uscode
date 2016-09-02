@@ -17,7 +17,7 @@
 
     The Secretary of Defense may establish an undergraduate training program with respect to civilian employees of the National Geospatial-Intelligence Agency that is similar in purpose, conditions, content, and administration to the program established by the Secretary of Defense under section 16 of the National Security Agency Act of 1959 ([50 U.S.C. 3614][/us/usc/t50/s3614]) for civilian employees of the National Security Agency.
 
-(Added [Pub. L. 107–108, title V, § 504(a)][/us/pl/107/108/s504/a], Dec. 28, 2001, [115 Stat. 1405][/us/stat/115/1405]; amended [Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A)][/us/pl/108/136/s921/d/2/A], Nov. 24, 2003, [117 Stat. 1568][/us/stat/117/1568]; [Pub. L. 113–291, div. A, title X, § 1071(c)(9)][/us/pl/113/291/s1071/c/9], Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509].)
+(Added [Pub. L. 107–108, title V][/us/pl/107/108/tV], § 504(a), Dec. 28, 2001, [115 Stat. 1405][/us/stat/115/1405]; amended [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 921(d)(2)(A), Nov. 24, 2003, [117 Stat. 1568][/us/stat/117/1568]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(c)(9), Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509].)
 
  __Amendments__ 
 
@@ -33,11 +33,11 @@
 ----------
 
 [/us/usc/t50/s3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3614
-[/us/pl/107/108/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs504%2Fa
+[/us/pl/107/108/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2FtV
 [/us/stat/115/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1405
-[/us/pl/108/136/s921/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fd%2F2%2FA
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1568
-[/us/pl/113/291/s1071/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F9
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3509
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t50/s3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3614

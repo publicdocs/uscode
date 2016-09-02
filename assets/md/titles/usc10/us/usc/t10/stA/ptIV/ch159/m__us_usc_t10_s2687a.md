@@ -121,11 +121,11 @@
 
         (4) The term “nonappropriated fund instrumentality” means an instrumentality of the United States under the jurisdiction of the armed forces (including the Army and Air Force Exchange Service, the Navy Resale and Services Support Office, and the Marine Corps exchanges) which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the armed forces.
 
-(Added [Pub. L. 111–84, div. B, title XXVIII, § 2822(a)(1)][/us/pl/111/84/s2822/a/1], Oct. 28, 2009, [123 Stat. 2665][/us/stat/123/2665]; amended [Pub. L. 111–383, div. A, title X, § 1075(b)(44)][/us/pl/111/383/s1075/b/44], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371]; [Pub. L. 112–239, div. A, title X, § 1076(f)(34)][/us/pl/112/239/s1076/f/34], Jan. 2, 2013, [126 Stat. 1954][/us/stat/126/1954]; [Pub. L. 113–66, div. B, title XXVIII, § 2807(a)][/us/pl/113/66/s2807/a], Dec. 26, 2013, [127 Stat. 1008][/us/stat/127/1008]; [Pub. L. 113–291, div. B, title XXVIII, § 2803(a)][/us/pl/113/291/s2803/a], Dec. 19, 2014, [128 Stat. 3696][/us/stat/128/3696]; [Pub. L. 114–92, div. A, title X, § 1081(a)(11)][/us/pl/114/92/s1081/a/11], (b)(7), Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001], 1002.)
+(Added [Pub. L. 111–84, div. B, title XXVIII][/us/pl/111/84/dB/tXXVIII], § 2822(a)(1), Oct. 28, 2009, [123 Stat. 2665][/us/stat/123/2665]; amended [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(44), Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(f)(34), Jan. 2, 2013, [126 Stat. 1954][/us/stat/126/1954]; [Pub. L. 113–66, div. B, title XXVIII][/us/pl/113/66/dB/tXXVIII], § 2807(a), Dec. 26, 2013, [127 Stat. 1008][/us/stat/127/1008]; [Pub. L. 113–291, div. B, title XXVIII][/us/pl/113/291/dB/tXXVIII], § 2803(a), Dec. 19, 2014, [128 Stat. 3696][/us/stat/128/3696]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1081(a)(11), (b)(7), Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001], 1002.)
 
  __Amendment of Subsection (f)__ 
 
-[Pub. L. 113–291, div. B, title XXVIII, § 2803(a)][/us/pl/113/291/s2803/a], (d), Dec. 19, 2014, [128 Stat. 3696][/us/stat/128/3696], 3697, as amended by [Pub. L. 114–92, div. A, title X, § 1081(b)(7)][/us/pl/114/92/s1081/b/7], Nov. 25, 2015, [129 Stat. 1002][/us/stat/129/1002], provided that, effective on the later of Sept. 30, 2016, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2017, subsection (f) of this section is amended to read as follows:
+[Pub. L. 113–291, div. B, title XXVIII][/us/pl/113/291/dB/tXXVIII], § 2803(a), (d), Dec. 19, 2014, [128 Stat. 3696][/us/stat/128/3696], 3697, as amended by [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1081(b)(7), Nov. 25, 2015, [129 Stat. 1002][/us/stat/129/1002], provided that, effective on the later of Sept. 30, 2016, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2017, subsection (f) of this section is amended to read as follows:
 
     (f) Authorized Use of Payments-In-Kind and In-Kind Contributions.—(1) A military construction project, as defined in chapter 159 of this title, may be accepted as payment-in-kind or as an in-kind contribution required by a bilateral agreement with a host country only if that military construction project is authorized by law.
 
@@ -161,27 +161,27 @@
 
  __Amendments__ 
 
-    2015—Subsec. (d)(2). [Pub. L. 114–92, § 1081(a)(11)][/us/pl/114/92/s1081/a/11], inserted “fair market” before “value”.
+    2015—Subsec. (d)(2). [Pub. L. 114–92][/us/pl/114/92], § 1081(a)(11), inserted “fair market” before “value”.
 
-    Subsec. (f)(2). [Pub. L. 114–92, § 1081(b)(7)][/us/pl/114/92/s1081/b/7], amended [Pub. L. 113–291, § 2803(a)][/us/pl/113/291/s2803/a]. See 2014 Amendment note below.
+    Subsec. (f)(2). [Pub. L. 114–92][/us/pl/114/92], § 1081(b)(7), amended [Pub. L. 113–291][/us/pl/113/291], § 2803(a). See 2014 Amendment note below.
 
-    2014—Subsec. (f). [Pub. L. 113–291, § 2803(a)][/us/pl/113/291/s2803/a], as amended by [Pub. L. 114–92, § 1081(b)(7)][/us/pl/114/92/s1081/b/7], amended subsec. (f) generally. Prior to amendment, subsec. (f) related to authorized use of payments-in-kind.
+    2014—Subsec. (f). [Pub. L. 113–291][/us/pl/113/291], § 2803(a), as amended by [Pub. L. 114–92][/us/pl/114/92], § 1081(b)(7), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to authorized use of payments-in-kind.
 
-    2013—[Pub. L. 113–66, § 2807(a)][/us/pl/113/66/s2807/a], amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) which related to an annual status report of overseas base closures, realignments, and basing master plans and required elements of the report, respectively.
+    2013—[Pub. L. 113–66][/us/pl/113/66], § 2807(a), amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) which related to an annual status report of overseas base closures, realignments, and basing master plans and required elements of the report, respectively.
 
-    Subsec. (a). [Pub. L. 112–239, § 1076(f)(34)(A)][/us/pl/112/239/s1076/f/34/A], substituted “Foreign Relations” for “Foreign relations”.
+    Subsec. (a). [Pub. L. 112–239][/us/pl/112/239], § 1076(f)(34)(A), substituted “Foreign Relations” for “Foreign relations”.
 
-    Subsec. (b)(1). [Pub. L. 112–239, § 1076(f)(34)(B)][/us/pl/112/239/s1076/f/34/B], struck out comma after “including” and substituted “the Treaty” for “The Treaty”.
+    Subsec. (b)(1). [Pub. L. 112–239][/us/pl/112/239], § 1076(f)(34)(B), struck out comma after “including” and substituted “the Treaty” for “The Treaty”.
 
     2011—Subsec. (a). [Pub. L. 111–383][/us/pl/111/383] substituted “31 for” for “31for” in introductory provisions.
 
  __Effective Date of 2015 Amendment__ 
 
-    [Pub. L. 114–92, div. A, title X, § 1081(b)][/us/pl/114/92/s1081/b], Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001], provided in part that the amendment made by section 1081(b)(7) is effective as of Dec. 19, 2014, and as if included in [Pub. L. 113–291][/us/pl/113/291] as enacted.
+    [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1081(b), Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001], provided in part that the amendment made by section 1081(b)(7) is effective as of Dec. 19, 2014, and as if included in [Pub. L. 113–291][/us/pl/113/291] as enacted.
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–291, div. B, title XXVIII, § 2803(d)][/us/pl/113/291/s2803/d], Dec. 19, 2014, [128 Stat. 3697][/us/stat/128/3697], provided that: 
+[Pub. L. 113–291, div. B, title XXVIII][/us/pl/113/291/dB/tXXVIII], § 2803(d), Dec. 19, 2014, [128 Stat. 3697][/us/stat/128/3697], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 2802 of this title][/us/usc/t10/s2802]\] shall take effect on the later of—
 
@@ -205,21 +205,21 @@
 [/us/usc/t10/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805
 [/us/usc/t10/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805
 [/us/usc/t10/s2685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2685
-[/us/pl/111/84/s2822/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2822%2Fa%2F1
+[/us/pl/111/84/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdB%2FtXXVIII
 [/us/stat/123/2665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2665
-[/us/pl/111/383/s1075/b/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F44
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4371
-[/us/pl/112/239/s1076/f/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F34
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1954
-[/us/pl/113/66/s2807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2807%2Fa
+[/us/pl/113/66/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdB%2FtXXVIII
 [/us/stat/127/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1008
-[/us/pl/113/291/s2803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2803%2Fa
+[/us/pl/113/291/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXVIII
 [/us/stat/128/3696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3696
-[/us/pl/114/92/s1081/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F11
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1001
-[/us/pl/113/291/s2803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2803%2Fa
+[/us/pl/113/291/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXVIII
 [/us/stat/128/3696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3696
-[/us/pl/114/92/s1081/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fb%2F7
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1002
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
@@ -229,19 +229,19 @@
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/usc/t10/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/114/92/s1081/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F11
-[/us/pl/114/92/s1081/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fb%2F7
-[/us/pl/113/291/s2803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2803%2Fa
-[/us/pl/113/291/s2803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2803%2Fa
-[/us/pl/114/92/s1081/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fb%2F7
-[/us/pl/113/66/s2807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2807%2Fa
-[/us/pl/112/239/s1076/f/34/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F34%2FA
-[/us/pl/112/239/s1076/f/34/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F34%2FB
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/114/92/s1081/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fb
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1001
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
-[/us/pl/113/291/s2803/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2803%2Fd
+[/us/pl/113/291/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXVIII
 [/us/stat/128/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3697
 [/us/usc/t10/s2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2802
 

@@ -35,7 +35,7 @@
 
     (d) Chiropractors who are qualified under regulations prescribed by the Secretary of the Army may be appointed as commissioned officers in the Chiropractic Section of the Army Medical Specialist Corps.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 169][/us/stat/70A/169]; [Pub. L. 85–155, title I, § 101(2)][/us/pl/85/155/s101/2], Aug. 21, 1957, [71 Stat. 375][/us/stat/71/375]; [Pub. L. 87–649, § 6(b)(2)][/us/pl/87/649/s6/b/2], (3), Sept. 7, 1962, [76 Stat. 494][/us/stat/76/494]; [Pub. L. 89–609, § 1(2)][/us/pl/89/609/s1/2], (3), Sept. 30, 1966, [80 Stat. 852][/us/stat/80/852]; [Pub. L. 90–130, § 1(8)(B)][/us/pl/90/130/s1/8/B], Nov. 8, 1967, [81 Stat. 374][/us/stat/81/374]; [Pub. L. 102–190, div. A, title V, § 551(a)][/us/pl/102/190/s551/a], Dec. 5, 1991, [105 Stat. 1370][/us/stat/105/1370]; [Pub. L. 102–484, div. A, title V, § 505(a)][/us/pl/102/484/s505/a], Oct. 23, 1992, [106 Stat. 2404][/us/stat/106/2404].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 169][/us/stat/70A/169]; [Pub. L. 85–155, title I][/us/pl/85/155/tI], § 101(2), Aug. 21, 1957, [71 Stat. 375][/us/stat/71/375]; [Pub. L. 87–649][/us/pl/87/649], § 6(b)(2), (3), Sept. 7, 1962, [76 Stat. 494][/us/stat/76/494]; [Pub. L. 89–609][/us/pl/89/609], § 1(2), (3), Sept. 30, 1966, [80 Stat. 852][/us/stat/80/852]; [Pub. L. 90–130][/us/pl/90/130], § 1(8)(B), Nov. 8, 1967, [81 Stat. 374][/us/stat/81/374]; [Pub. L. 102–190, div. A, title V][/us/pl/102/190/dA/tV], § 551(a), Dec. 5, 1991, [105 Stat. 1370][/us/stat/105/1370]; [Pub. L. 102–484, div. A, title V][/us/pl/102/484/dA/tV], § 505(a), Oct. 23, 1992, [106 Stat. 2404][/us/stat/106/2404].)
 
 <table>
 
@@ -105,15 +105,15 @@ Apr. 16, 1947, ch. 38, §§ 102(a) (less 2d sentence; and less last sentence, 
 
  __Amendments__ 
 
-    1992—Subsec. (a)(5). [Pub. L. 102–484, § 505(a)(1)][/us/pl/102/484/s505/a/1], added par. (5).
+    1992—Subsec. (a)(5). [Pub. L. 102–484][/us/pl/102/484], § 505(a)(1), added par. (5).
 
-    Subsec. (c). [Pub. L. 102–484, § 505(a)(2)][/us/pl/102/484/s505/a/2], substituted “up to five assistant chiefs” for “four assistant chiefs”.
+    Subsec. (c). [Pub. L. 102–484][/us/pl/102/484], § 505(a)(2), substituted “up to five assistant chiefs” for “four assistant chiefs”.
 
-    Subsec. (d). [Pub. L. 102–484, § 505(a)(3)][/us/pl/102/484/s505/a/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 102–484][/us/pl/102/484], § 505(a)(3), added subsec. (d).
 
-    1991—Subsec. (a). [Pub. L. 102–190, § 551(a)(1)][/us/pl/102/190/s551/a/1], (2), substituted “sections:” for “sections—”, substituted “The” for “the” and a period for the concluding semicolon in par. (1), substituted “The” for “the” and a period for “; and” in par. (2), substituted “The” for “the” in par. (3), and added par. (4).
+    1991—Subsec. (a). [Pub. L. 102–190][/us/pl/102/190], § 551(a)(1), (2), substituted “sections:” for “sections—”, substituted “The” for “the” and a period for the concluding semicolon in par. (1), substituted “The” for “the” and a period for “; and” in par. (2), substituted “The” for “the” in par. (3), and added par. (4).
 
-    Subsec. (c). [Pub. L. 102–190, § 551(a)(3)][/us/pl/102/190/s551/a/3], substituted “four assistant chiefs” for “three assistant chiefs” in first sentence.
+    Subsec. (c). [Pub. L. 102–190][/us/pl/102/190], § 551(a)(3), substituted “four assistant chiefs” for “three assistant chiefs” in first sentence.
 
     1967—Subsec. (a). [Pub. L. 90–130][/us/pl/90/130] removed limitation restricting membership in the Corps to officers in grades of second lieutenant through colonel and inserted provisions authorizing the Secretary of the Army to prescribe the grades of officers comprising the Corps.
 
@@ -121,13 +121,13 @@ Apr. 16, 1947, ch. 38, §§ 102(a) (less 2d sentence; and less last sentence, 
 
     Subsec. (c). [Pub. L. 90–130][/us/pl/90/130] struck out provisions entitling each assistant chief to the temporary grade of lieutenant colonel while so serving, ranking above all other lieutenant colonels in the section.
 
-    1966—Subsec. (b). [Pub. L. 89–609, § 1(2)][/us/pl/89/609/s1/2], combined second and third sentences, substituting “, and” for period at end of second sentence and introductory word “She” to third sentence, and substituted “the regular grade held, the Chief” for “her regular grade, she” in fourth sentence.
+    1966—Subsec. (b). [Pub. L. 89–609][/us/pl/89/609], § 1(2), combined second and third sentences, substituting “, and” for period at end of second sentence and introductory word “She” to third sentence, and substituted “the regular grade held, the Chief” for “her regular grade, she” in fourth sentence.
 
-    Subsec. (c). [Pub. L. 89–609, § 1(3)][/us/pl/89/609/s1/3], combined second and third sentences, substituting “, and” for period at end of second sentence and introductory word “She” to third sentence, substituted “An assistant chief” for “She” in fourth sentence, and in fifth sentence substituted “the regular grade held” and “in the section” for “her regular grade” and “in her section”, respectively, and struck out “and the pay and allowances” before “of a lieutenant colonel”.
+    Subsec. (c). [Pub. L. 89–609][/us/pl/89/609], § 1(3), combined second and third sentences, substituting “, and” for period at end of second sentence and introductory word “She” to third sentence, substituted “An assistant chief” for “She” in fourth sentence, and in fifth sentence substituted “the regular grade held” and “in the section” for “her regular grade” and “in her section”, respectively, and struck out “and the pay and allowances” before “of a lieutenant colonel”.
 
-    1962—Subsec. (b). [Pub. L. 87–649, § 6(b)(2)][/us/pl/87/649/s6/b/2], struck out provisions which authorized the pay and allowances of a colonel for Chief of the Army Medical Specialist Corps.
+    1962—Subsec. (b). [Pub. L. 87–649][/us/pl/87/649], § 6(b)(2), struck out provisions which authorized the pay and allowances of a colonel for Chief of the Army Medical Specialist Corps.
 
-    Subsec. (c). [Pub. L. 87–649, § 6(b)(3)][/us/pl/87/649/s6/b/3], struck out provisions which authorized the pay and allowances of a lieutenant colonel for each assistant chief of the Army Medical Specialist Corps.
+    Subsec. (c). [Pub. L. 87–649][/us/pl/87/649], § 6(b)(3), struck out provisions which authorized the pay and allowances of a lieutenant colonel for each assistant chief of the Army Medical Specialist Corps.
 
     1957—[Pub. L. 85–155][/us/pl/85/155] substituted “Army Medical Specialist Corps” for “Women’s Medical Specialist Corps” in section catchline.
 
@@ -143,21 +143,21 @@ Apr. 16, 1947, ch. 38, §§ 102(a) (less 2d sentence; and less last sentence, 
 
  __Regulations__ 
 
-[Pub. L. 102–484, div. A, title V, § 505(d)][/us/pl/102/484/s505/d], Oct. 23, 1992, [106 Stat. 2404][/us/stat/106/2404], provided that: 
+[Pub. L. 102–484, div. A, title V][/us/pl/102/484/dA/tV], § 505(d), Oct. 23, 1992, [106 Stat. 2404][/us/stat/106/2404], provided that: 
 
 > “The regulations required to be prescribed by the amendments made by this section \[enacting [section 5139 of this title][/us/usc/t10/s5139] and amending this section and [section 8067 of this title][/us/usc/t10/s8067]\] shall be prescribed not later than 180 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
 
  __Appointment of Assistant Chief__ 
 
-[Pub. L. 102–190, div. A, title V, § 551(b)][/us/pl/102/190/s551/b], Dec. 5, 1991, [105 Stat. 1370][/us/stat/105/1370], provided that: 
+[Pub. L. 102–190, div. A, title V][/us/pl/102/190/dA/tV], § 551(b), Dec. 5, 1991, [105 Stat. 1370][/us/stat/105/1370], provided that: 
 
 > “Notwithstanding the requirement in subsection (c) of [section 3070 of title 10][/us/usc/t10/s3070], United States Code, as amended by subsection (a), with respect to the appointment of officers of the Regular Army as chiefs of sections of the Army Medical Specialist Corps, a warrant officer of the Army who is appointed as a reserve commissioned officer and assigned to the Army Medical Specialist Corps for service in the Physician Assistant Section of that Corps during the five-year period beginning on the date of the enactment of this Act \[Dec. 5, 1991\] may be appointed as an assistant chief of that Corps and chief of the Physician Assistant Section.”
 
  __Retirement of Officers Serving in Physician Assistant Section__ 
 
-[Pub. L. 102–190, div. A, title V, § 551(c)][/us/pl/102/190/s551/c], Dec. 5, 1991, [105 Stat. 1370][/us/stat/105/1370], provided that: 
+[Pub. L. 102–190, div. A, title V][/us/pl/102/190/dA/tV], § 551(c), Dec. 5, 1991, [105 Stat. 1370][/us/stat/105/1370], provided that: 
 
-> “A member of the Army who on the date of the enactment of this Act \[Dec. 5, 1991\] is a warrant officer serving on active duty (other than for training) as a physician assistant and who is subsequently appointed as a commissioned officer in, or is assigned to, the Physician Assistant Section of the Army Medical Specialist Corps may elect at the time of the officer’s retirement after 20 years or more of active service that could be credited to the officer under section 511 of the Career Compensation Act of 1949, as amended \[[act Oct. 12, 1949, ch. 681][/us/act/1949-10-12/ch681], title V, § 511, [63 Stat. 829][/us/stat/63/829], as amended, formerly set out as a note under [section 580 of this title][/us/usc/t10/s580]\]—
+> “A member of the Army who on the date of the enactment of this Act \[Dec. 5, 1991\] is a warrant officer serving on active duty (other than for training) as a physician assistant and who is subsequently appointed as a commissioned officer in, or is assigned to, the Physician Assistant Section of the Army Medical Specialist Corps may elect at the time of the officer’s retirement after 20 years or more of active service that could be credited to the officer under section 511 of the Career Compensation Act of 1949, as amended \[[act Oct. 12, 1949, ch. 681, title V][/us/act/1949-10-12/ch681/tV], § 511, [63 Stat. 829][/us/stat/63/829], as amended, formerly set out as a note under [section 580 of this title][/us/usc/t10/s580]\]—
 
 >     “(1) to revert to the highest warrant officer grade in which the officer served on active duty (other than for training) satisfactorily (as determined by the Secretary of the Army) for a period of more than 30 days; and
 
@@ -165,7 +165,7 @@ Apr. 16, 1947, ch. 38, §§ 102(a) (less 2d sentence; and less last sentence, 
 
  __Constructive Credit for Determination of Grade and Rank of Officers in Army Medical Specialist Corps__ 
 
-[Pub. L. 102–190, div. A, title V, § 551(d)][/us/pl/102/190/s551/d], Dec. 5, 1991, [105 Stat. 1371][/us/stat/105/1371], provided that:
+[Pub. L. 102–190, div. A, title V][/us/pl/102/190/dA/tV], § 551(d), Dec. 5, 1991, [105 Stat. 1371][/us/stat/105/1371], provided that:
 
 >     “(1) For the purpose of determining the grade and rank within grade of a person who is appointed as a commissioned officer in the Army Medical Specialist Corps for service in the Physician Assistant Section, or who is assigned to the Army Medical Specialist Corps for service as a physician assistant, and who on the date of the enactment of this Act \[Dec. 5, 1991\] is a warrant officer and a physician assistant on active duty or in an active reserve status, the Secretary of the Army shall credit that person at the time of such appointment with any service on active duty, or in an active reserve status, as a physician assistant performed as a member of the Armed Forces before that appointment.
 
@@ -173,7 +173,7 @@ Apr. 16, 1947, ch. 38, §§ 102(a) (less 2d sentence; and less last sentence, 
 
  __Authority To Suspend Mandatory Retirement, Discharge, Separation, or Transfer From Active Status__ 
 
-    [Pub. L. 90–130, § 4(a)][/us/pl/90/130/s4/a], Nov. 8, 1967, [81 Stat. 383][/us/stat/81/383], authorized Secretary of the Army to suspend operation of any provision of law relating to mandatory retirement, discharge, separation, or transfer from an active status of an officer of Army Nurse Corps, Army Medical Specialist Corps, or Woman’s Army Corps for a period of five years following Nov. 8, 1967.
+    [Pub. L. 90–130][/us/pl/90/130], § 4(a), Nov. 8, 1967, [81 Stat. 383][/us/stat/81/383], authorized Secretary of the Army to suspend operation of any provision of law relating to mandatory retirement, discharge, separation, or transfer from an active status of an officer of Army Nurse Corps, Army Medical Specialist Corps, or Woman’s Army Corps for a period of five years following Nov. 8, 1967.
 
 ----------
 
@@ -184,32 +184,32 @@ Apr. 16, 1947, ch. 38, §§ 102(a) (less 2d sentence; and less last sentence, 
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F169
-[/us/pl/85/155/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F155%2Fs101%2F2
+[/us/pl/85/155/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F155%2FtI
 [/us/stat/71/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F375
-[/us/pl/87/649/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs6%2Fb%2F2
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F494
-[/us/pl/89/609/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F609%2Fs1%2F2
+[/us/pl/89/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F609
 [/us/stat/80/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F852
-[/us/pl/90/130/s1/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs1%2F8%2FB
+[/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/stat/81/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F374
-[/us/pl/102/190/s551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs551%2Fa
+[/us/pl/102/190/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtV
 [/us/stat/105/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1370
-[/us/pl/102/484/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs505%2Fa
+[/us/pl/102/484/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtV
 [/us/stat/106/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2404
 [/us/usc/t10/s3067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3067
 [/us/usc/t10/s3012/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3012%2Fe
-[/us/pl/102/484/s505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs505%2Fa%2F1
-[/us/pl/102/484/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs505%2Fa%2F2
-[/us/pl/102/484/s505/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs505%2Fa%2F3
-[/us/pl/102/190/s551/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs551%2Fa%2F1
-[/us/pl/102/190/s551/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs551%2Fa%2F3
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
-[/us/pl/89/609/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F609%2Fs1%2F2
-[/us/pl/89/609/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F609%2Fs1%2F3
-[/us/pl/87/649/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs6%2Fb%2F2
-[/us/pl/87/649/s6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs6%2Fb%2F3
+[/us/pl/89/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F609
+[/us/pl/89/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F609
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/pl/85/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F155
 [/us/pl/85/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F155
 [/us/pl/85/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F155
@@ -217,21 +217,21 @@ Apr. 16, 1947, ch. 38, §§ 102(a) (less 2d sentence; and less last sentence, 
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/pl/87/649/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs15
 [/us/usc/t37/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs101
-[/us/pl/102/484/s505/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs505%2Fd
+[/us/pl/102/484/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtV
 [/us/stat/106/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2404
 [/us/usc/t10/s5139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5139
 [/us/usc/t10/s8067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8067
-[/us/pl/102/190/s551/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs551%2Fb
+[/us/pl/102/190/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtV
 [/us/stat/105/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1370
 [/us/usc/t10/s3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3070
-[/us/pl/102/190/s551/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs551%2Fc
+[/us/pl/102/190/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtV
 [/us/stat/105/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1370
-[/us/act/1949-10-12/ch681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-12%2Fch681
+[/us/act/1949-10-12/ch681/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-12%2Fch681%2FtV
 [/us/stat/63/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F829
 [/us/usc/t10/s580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs580
-[/us/pl/102/190/s551/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs551%2Fd
+[/us/pl/102/190/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtV
 [/us/stat/105/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1371
-[/us/pl/90/130/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs4%2Fa
+[/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/stat/81/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F383
 
 

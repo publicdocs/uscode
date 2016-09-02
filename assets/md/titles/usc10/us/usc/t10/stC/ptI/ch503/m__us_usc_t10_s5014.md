@@ -115,11 +115,11 @@
 
         (4) The limitations in paragraphs (1), (2), and (3) do not apply in time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, or the Headquarters, Marine Corps.
 
-(Added [Pub. L. 99–433, title V, § 511(c)(4)][/us/pl/99/433/s511/c/4], Oct. 1, 1986, [100 Stat. 1045][/us/stat/100/1045]; amended [Pub. L. 100–180, div. A, title XIII, § 1314(b)(7)][/us/pl/100/180/s1314/b/7], Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175]; [Pub. L. 100–456, div. A, title III, § 325(b)][/us/pl/100/456/s325/b], Sept. 29, 1988, [102 Stat. 1955][/us/stat/102/1955]; [Pub. L. 101–189, div. A, title VI, § 652(a)(4)][/us/pl/101/189/s652/a/4], Nov. 29, 1989, [103 Stat. 1461][/us/stat/103/1461]; [Pub. L. 107–107, div. A, title X, § 1048(a)(28)][/us/pl/107/107/s1048/a/28], Dec. 28, 2001, [115 Stat. 1225][/us/stat/115/1225]; [Pub. L. 107–314, div. A, title V, § 504(d)(2)][/us/pl/107/314/s504/d/2], Dec. 2, 2002, [116 Stat. 2532][/us/stat/116/2532].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 511(c)(4), Oct. 1, 1986, [100 Stat. 1045][/us/stat/100/1045]; amended [Pub. L. 100–180, div. A, title XIII][/us/pl/100/180/dA/tXIII], § 1314(b)(7), Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175]; [Pub. L. 100–456, div. A, title III][/us/pl/100/456/dA/tIII], § 325(b), Sept. 29, 1988, [102 Stat. 1955][/us/stat/102/1955]; [Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 652(a)(4), Nov. 29, 1989, [103 Stat. 1461][/us/stat/103/1461]; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(a)(28), Dec. 28, 2001, [115 Stat. 1225][/us/stat/115/1225]; [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 504(d)(2), Dec. 2, 2002, [116 Stat. 2532][/us/stat/116/2532].)
 
  __Prior Provisions__ 
 
-    A prior section 5014, added [Pub. L. 85–861, § 1(106)(A)][/us/pl/85/861/s1/106/A], Sept. 2, 1958, [72 Stat. 1490][/us/stat/72/1490], prescribed compensation of General Counsel of Department of the Navy, prior to repeal by [Pub. L. 88–426, title III, § 305(40)(A)][/us/pl/88/426/s305/40/A], Aug. 14, 1964, [78 Stat. 427][/us/stat/78/427], eff. first day of first pay period beginning on or after July 1, 1964. See [section 5316 of Title 5][/us/usc/t5/s5316], Government Organization and Employees.
+    A prior section 5014, added [Pub. L. 85–861][/us/pl/85/861], § 1(106)(A), Sept. 2, 1958, [72 Stat. 1490][/us/stat/72/1490], prescribed compensation of General Counsel of Department of the Navy, prior to repeal by [Pub. L. 88–426, title III][/us/pl/88/426/tIII], § 305(40)(A), Aug. 14, 1964, [78 Stat. 427][/us/stat/78/427], eff. first day of first pay period beginning on or after July 1, 1964. See [section 5316 of Title 5][/us/usc/t5/s5316], Government Organization and Employees.
 
  __Amendments__ 
 
@@ -135,7 +135,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–456, div. A, title III, § 325(d)][/us/pl/100/456/s325/d], Sept. 29, 1988, [102 Stat. 1955][/us/stat/102/1955], provided that:
+[Pub. L. 100–456, div. A, title III][/us/pl/100/456/dA/tIII], § 325(d), Sept. 29, 1988, [102 Stat. 1955][/us/stat/102/1955], provided that:
 
 >     “(1) The requirements of sections 3014(c)(5), 5014(c)(5)(A), and 8014(c)(5) of title 10, United States Code (as added by subsections (a), (b), and (c), respectively), shall apply with respect to any person appointed on or after the date of the enactment of this Act \[Sept. 29, 1988\] as the head of the office or other entity designated for conducting the auditing function in a military department.
 
@@ -157,21 +157,21 @@
 ----------
 
 [/us/usc/t5/s3132/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa%2F8
-[/us/pl/99/433/s511/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fc%2F4
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1045
-[/us/pl/100/180/s1314/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fb%2F7
+[/us/pl/100/180/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXIII
 [/us/stat/101/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1175
-[/us/pl/100/456/s325/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs325%2Fb
+[/us/pl/100/456/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtIII
 [/us/stat/102/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1955
-[/us/pl/101/189/s652/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs652%2Fa%2F4
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1461
-[/us/pl/107/107/s1048/a/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fa%2F28
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1225
-[/us/pl/107/314/s504/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs504%2Fd%2F2
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2532
-[/us/pl/85/861/s1/106/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F106%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1490
-[/us/pl/88/426/s305/40/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs305%2F40%2FA
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F427
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
@@ -179,7 +179,7 @@
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
-[/us/pl/100/456/s325/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs325%2Fd
+[/us/pl/100/456/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtIII
 [/us/stat/102/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1955
 [/us/usc/t10/s5014/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5014%2Fc%2F5
 [/us/pl/99/433/s532/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs532%2Fa

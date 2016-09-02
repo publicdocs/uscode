@@ -21,7 +21,7 @@
 
     (2) refund in cash any difference between the amount due and the amount of the tendered check.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 471][/us/stat/70A/471]; [Pub. L. 96–513, title V, § 513(42)][/us/pl/96/513/s513/42], Dec. 12, 1980, [94 Stat. 2935][/us/stat/94/2935]; [Pub. L. 97–258, § 3(b)(10)][/us/pl/97/258/s3/b/10], Sept. 13, 1982, [96 Stat. 1064][/us/stat/96/1064]; [Pub. L. 109–163, div. A, title V, § 515(b)(1)(V)][/us/pl/109/163/s515/b/1/V], Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 471][/us/stat/70A/471]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(42), Dec. 12, 1980, [94 Stat. 2935][/us/stat/94/2935]; [Pub. L. 97–258][/us/pl/97/258], § 3(b)(10), Sept. 13, 1982, [96 Stat. 1064][/us/stat/96/1064]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(V), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
 
 <table>
 
@@ -91,11 +91,11 @@ July 15, 1939, ch. 285, 53 Stat. 1043.  </td>
 [/us/usc/t31/s3302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302%2Fa
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F471
-[/us/pl/96/513/s513/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F42
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2935
-[/us/pl/97/258/s3/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fb%2F10
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1064
-[/us/pl/109/163/s515/b/1/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FV
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3233
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258

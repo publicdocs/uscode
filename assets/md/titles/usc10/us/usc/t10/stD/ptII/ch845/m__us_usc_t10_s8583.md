@@ -25,7 +25,7 @@
 
     (4) to take all necessary and proper measures, under the laws, regulations, and customs of the Air Force, to promote and safeguard the morale, the physical well-being, and the general welfare of the officers and enlisted persons under their command or charge.
 
-(Added [Pub. L. 105–85, div. A, title V, § 507(b)(1)][/us/pl/105/85/s507/b/1], Nov. 18, 1997, [111 Stat. 1727][/us/stat/111/1727].)
+(Added [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 507(b)(1), Nov. 18, 1997, [111 Stat. 1727][/us/stat/111/1727].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/105/85/s507/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs507%2Fb%2F1
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1727
 
 

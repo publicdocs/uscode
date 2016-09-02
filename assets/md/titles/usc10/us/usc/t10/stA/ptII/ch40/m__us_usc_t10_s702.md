@@ -55,7 +55,7 @@
 
         (4) a cadet of the United States Coast Guard Academy.
 
-(Added [Pub. L. 87–649, § 3(1)][/us/pl/87/649/s3/1], Sept. 7, 1962, [76 Stat. 492][/us/stat/76/492]; amended [Pub. L. 96–513, title V, § 511(20)][/us/pl/96/513/s511/20], Dec. 12, 1980, [94 Stat. 2921][/us/stat/94/2921]; [Pub. L. 103–160, div. A, title V, § 532][/us/pl/103/160/s532], Nov. 30, 1993, [107 Stat. 1657][/us/stat/107/1657]; [Pub. L. 105–261, div. A, title V, § 562][/us/pl/105/261/s562], Oct. 17, 1998, [112 Stat. 2027][/us/stat/112/2027]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(3)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–290.)
+(Added [Pub. L. 87–649][/us/pl/87/649], § 3(1), Sept. 7, 1962, [76 Stat. 492][/us/stat/76/492]; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(20), Dec. 12, 1980, [94 Stat. 2921][/us/stat/94/2921]; [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 532, Nov. 30, 1993, [107 Stat. 1657][/us/stat/107/1657]; [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 562, Oct. 17, 1998, [112 Stat. 2027][/us/stat/112/2027]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(3)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–290.)
 
 <table>
 
@@ -157,15 +157,15 @@ Aug. 9, 1946, ch. 931, § 2(f) (last 8 words), 60 Stat. 963.  </td>
 
     2000—Subsec. (b)(2). [Pub. L. 106–398][/us/pl/106/398] substituted “section 203(c)” for “section 230(c)”.
 
-    1998—Subsec. (a). [Pub. L. 105–261, § 562(c)(1)][/us/pl/105/261/s562/c/1], inserted heading.
+    1998—Subsec. (a). [Pub. L. 105–261][/us/pl/105/261], § 562(c)(1), inserted heading.
 
-    Subsec. (b). [Pub. L. 105–261, § 562(a)(3)][/us/pl/105/261/s562/a/3], added subsec. (b). Former first and second sentences of subsec. (b) redesignated subsecs. (c) and (d), respectively.
+    Subsec. (b). [Pub. L. 105–261][/us/pl/105/261], § 562(a)(3), added subsec. (b). Former first and second sentences of subsec. (b) redesignated subsecs. (c) and (d), respectively.
 
-    Subsec. (c). [Pub. L. 105–261, § 562(a)(2)][/us/pl/105/261/s562/a/2], (b)(1), (c)(2), redesignated first sentence of subsec. (b) as subsec. (c), inserted heading, and substituted “academy cadets or midshipmen” for “cadets at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy, midshipmen at the United States Naval Academy,”.
+    Subsec. (c). [Pub. L. 105–261][/us/pl/105/261], § 562(a)(2), (b)(1), (c)(2), redesignated first sentence of subsec. (b) as subsec. (c), inserted heading, and substituted “academy cadets or midshipmen” for “cadets at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy, midshipmen at the United States Naval Academy,”.
 
-    Subsec. (d). [Pub. L. 105–261, § 562(a)(1)][/us/pl/105/261/s562/a/1], (c)(3), redesignated second sentence of subsec. (b) as subsec. (d) and inserted heading.
+    Subsec. (d). [Pub. L. 105–261][/us/pl/105/261], § 562(a)(1), (c)(3), redesignated second sentence of subsec. (b) as subsec. (d) and inserted heading.
 
-    Subsec. (e). [Pub. L. 105–261, § 562(b)(2)][/us/pl/105/261/s562/b/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–261][/us/pl/105/261], § 562(b)(2), added subsec. (e).
 
     1993—Subsec. (a). [Pub. L. 103–160][/us/pl/103/160] struck out “regular” before “component” in first sentence.
 
@@ -191,22 +191,22 @@ Aug. 9, 1946, ch. 931, § 2(f) (last 8 words), 60 Stat. 963.  </td>
 ----------
 
 [/us/usc/t37/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs203%2Fc
-[/us/pl/87/649/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs3%2F1
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F492
-[/us/pl/96/513/s511/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F20
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2921
-[/us/pl/103/160/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs532
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1657
-[/us/pl/105/261/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs562
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2027
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/105/261/s562/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs562%2Fc%2F1
-[/us/pl/105/261/s562/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs562%2Fa%2F3
-[/us/pl/105/261/s562/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs562%2Fa%2F2
-[/us/pl/105/261/s562/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs562%2Fa%2F1
-[/us/pl/105/261/s562/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs562%2Fb%2F2
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

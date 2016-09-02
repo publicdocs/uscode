@@ -29,7 +29,7 @@
 
     (e) When subsection (d) cannot be complied with because of the absence or disability of the Deputy Judge Advocate General, the Assistant Judge Advocates General, in the order directed by the Secretary of the Navy, shall perform the duties of the Judge Advocate General.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 290][/us/stat/70A/290]; [Pub. L. 85–861, § 33(a)(28)][/us/pl/85/861/s33/a/28], Sept. 2, 1958, [72 Stat. 1566][/us/stat/72/1566]; [Pub. L. 87–649, § 14c(21)][/us/pl/87/649/s14c/21], Sept. 7, 1962, [76 Stat. 501][/us/stat/76/501]; [Pub. L. 89–718, § 36][/us/pl/89/718/s36], Nov. 2, 1966, [80 Stat. 1120][/us/stat/80/1120]; [Pub. L. 90–179, § 2(2)][/us/pl/90/179/s2/2], Dec. 8, 1967, [81 Stat. 546][/us/stat/81/546]; [Pub. L. 90–623, § 2(9)][/us/pl/90/623/s2/9], Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 96–513, title V, § 503(13)][/us/pl/96/513/s503/13], Dec. 12, 1980, [94 Stat. 2912][/us/stat/94/2912]; [Pub. L. 97–86, title IV, § 405(b)(1)][/us/pl/97/86/s405/b/1], Dec. 1, 1981, [95 Stat. 1105][/us/stat/95/1105]; [Pub. L. 99–145, title V, § 514(b)(1)][/us/pl/99/145/s514/b/1], Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628]; [Pub. L. 99–661, div. A, title V, § 508(b)][/us/pl/99/661/s508/b], Nov. 14, 1986, [100 Stat. 3867][/us/stat/100/3867]; [Pub. L. 103–337, div. A, title V, § 504(b)(2)][/us/pl/103/337/s504/b/2], Oct. 5, 1994, [108 Stat. 2751][/us/stat/108/2751].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 290][/us/stat/70A/290]; [Pub. L. 85–861][/us/pl/85/861], § 33(a)(28), Sept. 2, 1958, [72 Stat. 1566][/us/stat/72/1566]; [Pub. L. 87–649][/us/pl/87/649], § 14c(21), Sept. 7, 1962, [76 Stat. 501][/us/stat/76/501]; [Pub. L. 89–718][/us/pl/89/718], § 36, Nov. 2, 1966, [80 Stat. 1120][/us/stat/80/1120]; [Pub. L. 90–179][/us/pl/90/179], § 2(2), Dec. 8, 1967, [81 Stat. 546][/us/stat/81/546]; [Pub. L. 90–623][/us/pl/90/623], § 2(9), Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 503(13), Dec. 12, 1980, [94 Stat. 2912][/us/stat/94/2912]; [Pub. L. 97–86, title IV][/us/pl/97/86/tIV], § 405(b)(1), Dec. 1, 1981, [95 Stat. 1105][/us/stat/95/1105]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 514(b)(1), Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628]; [Pub. L. 99–661, div. A, title V][/us/pl/99/661/dA/tV], § 508(b), Nov. 14, 1986, [100 Stat. 3867][/us/stat/100/3867]; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 504(b)(2), Oct. 5, 1994, [108 Stat. 2751][/us/stat/108/2751].)
 
 <table>
 
@@ -123,25 +123,25 @@ Feb. 3, 1942, ch. 35, § 1 (as applicable to JAG), 56 Stat. 47.  </td>
 
 </table>
 
-    Changes in phraseology are made to conform to the language used in [§ 5135 of this title][/us/usc/t10/s5135].
+    Changes in phraseology are made to conform to the language used in § 5135 of this title.
 
  __Amendments__ 
 
     1994—Subsec. (a). [Pub. L. 103–337][/us/pl/103/337] designated existing provisions as par. (1), added second sentence, struck out former second and third sentences which read as follows: “While so serving he is entitled to the grade of rear admiral or major general, as appropriate, unless entitled to a higher grade under another provision of law. The Deputy Judge Advocate General is entitled to the same privileges of retirement as provided for chiefs of bureaus in [section 5133 of this title][/us/usc/t10/s5133].”, and added par. (2).
 
-    1986—Subsec. (a). [Pub. L. 99–661, § 508(b)(1)][/us/pl/99/661/s508/b/1], substituted “There is a Deputy Judge Advocate General of the Navy who is appointed by the President, by and with the advice and consent of the Senate, from among judge advocates of the Navy and Marine Corps who have the qualifications prescribed for the Judge Advocate General” for “A judge advocate of the Navy or Marine Corps who has the qualifications prescribed for the Judge Advocate General in [section 5148(b) of this title][/us/usc/t10/s5148/b] shall be detailed as Deputy Judge Advocate General of the Navy”, and struck out “rank and” before “grade of” and struck out “rank or” before “grade under” in second sentence.
+    1986—Subsec. (a). [Pub. L. 99–661][/us/pl/99/661], § 508(b)(1), substituted “There is a Deputy Judge Advocate General of the Navy who is appointed by the President, by and with the advice and consent of the Senate, from among judge advocates of the Navy and Marine Corps who have the qualifications prescribed for the Judge Advocate General” for “A judge advocate of the Navy or Marine Corps who has the qualifications prescribed for the Judge Advocate General in [section 5148(b) of this title][/us/usc/t10/s5148/b] shall be detailed as Deputy Judge Advocate General of the Navy”, and struck out “rank and” before “grade of” and struck out “rank or” before “grade under” in second sentence.
 
-    Subsec. (b). [Pub. L. 99–661, § 508(b)(2)][/us/pl/99/661/s508/b/2], substituted “While so serving, a judge advocate who holds a grade lower than rear admiral (lower half) shall hold the grade of rear admiral (lower half), if he is appointed to that grade by the President, by and with the advice and consent of the Senate” for “While so serving he is entitled to the rank and grade of rear admiral (lower half), unless entitled to a higher rank or grade under another provision of law”.
+    Subsec. (b). [Pub. L. 99–661][/us/pl/99/661], § 508(b)(2), substituted “While so serving, a judge advocate who holds a grade lower than rear admiral (lower half) shall hold the grade of rear admiral (lower half), if he is appointed to that grade by the President, by and with the advice and consent of the Senate” for “While so serving he is entitled to the rank and grade of rear admiral (lower half), unless entitled to a higher rank or grade under another provision of law”.
 
-    Subsec. (c). [Pub. L. 99–661, § 508(b)(3)][/us/pl/99/661/s508/b/3], substituted “While so serving, a judge advocate who holds a grade lower than brigadier general shall hold the grade of brigadier general, if he is appointed to that grade by the President, by and with the advice and consent of the Senate” for “While so serving he is entitled to the rank and grade of brigadier general, unless entitled to a higher rank or grade under another provision of law”.
+    Subsec. (c). [Pub. L. 99–661][/us/pl/99/661], § 508(b)(3), substituted “While so serving, a judge advocate who holds a grade lower than brigadier general shall hold the grade of brigadier general, if he is appointed to that grade by the President, by and with the advice and consent of the Senate” for “While so serving he is entitled to the rank and grade of brigadier general, unless entitled to a higher rank or grade under another provision of law”.
 
     1985—Subsec. (b). [Pub. L. 99–145][/us/pl/99/145] substituted “rear admiral (lower half)” for “commodore” in three places.
 
     1981—Subsec. (b). [Pub. L. 97–86][/us/pl/97/86] substituted “commodore” for “commodore admiral” in three places.
 
-    1980—Subsec. (a). [Pub. L. 96–513, § 503(13)(A)][/us/pl/96/513/s503/13/A], struck out “(upper half)” after “entitled to the rank and grade of rear admiral”.
+    1980—Subsec. (a). [Pub. L. 96–513][/us/pl/96/513], § 503(13)(A), struck out “(upper half)” after “entitled to the rank and grade of rear admiral”.
 
-    Subsec. (b). [Pub. L. 96–513, § 503(13)(B)][/us/pl/96/513/s503/13/B], (C), substituted “rank and grade of commodore admiral” for “rank and grade of rear admiral (lower half)” in two places, “retired as a commodore admiral” for “retired as a rear admiral”, and “retired pay of that grade” for “retired pay in the lower half of that grade”.
+    Subsec. (b). [Pub. L. 96–513][/us/pl/96/513], § 503(13)(B), (C), substituted “rank and grade of commodore admiral” for “rank and grade of rear admiral (lower half)” in two places, “retired as a commodore admiral” for “retired as a rear admiral”, and “retired pay of that grade” for “retired pay in the lower half of that grade”.
 
     1968—Subsec. (c). [Pub. L. 90–623][/us/pl/90/623] substituted “5148(b)” for “4158(b)”.
 
@@ -185,7 +185,7 @@ Feb. 3, 1942, ch. 35, § 1 (as applicable to JAG), 56 Stat. 47.  </td>
 
  __Officer Serving as Deputy and Assistant Judge Advocate of the Navy on__  __Dec. 7, 1967__  __;__  __Rank; Retirement Benefits__ 
 
-[Pub. L. 90–179, § 9][/us/pl/90/179/s9], Dec. 8, 1967, [81 Stat. 549][/us/stat/81/549], provided that: 
+[Pub. L. 90–179][/us/pl/90/179], § 9, Dec. 8, 1967, [81 Stat. 549][/us/stat/81/549], provided that: 
 
 > “Nothing in this Act \[enacting sections 5578a and 5587a of this title, amending this section, sections 801, 806, 815, 827, 865, 936, 5148, 5404, 5508, 5581, 5587, 5600, 5652a, 5702, 5708, 5753, 5762, 5896, 5897, and 6378 of this title, and [section 202 of Title 37][/us/usc/t37/s202], and enacting provisions set out as notes under this section and [section 5184 of this title][/us/usc/t10/s5184]\] shall operate to terminate or reduce the term of an officer who was serving as Deputy and Assistant Judge Advocate General of the Navy on the day before the effective date of this Act \[Dec. 8, 1967\] or to deprive to him of the rank, pay, allowances, or retirement privileges to which he was then entitled. Notwithstanding any other provision of law, an officer who was so serving on the day before the effective date of this Act shall be deemed to be detailed as Deputy Judge Advocate General, pursuant to [section 5149 of title 10][/us/usc/t10/s5149], United States Code, as amended by this Act \[this section\], and in addition to rights and benefits then accrued, to be entitled to the rank and retirement benefits authorized by that section. For the purposes of determining his eligibility for the retirement benefits authorized by [section 5149 of title 10][/us/usc/t10/s5149], United States Code, as amended by this Act \[this section\], an officer who is serving as Deputy Judge Advocate General on the effective date of this Act shall be credited with all service performed under appointment or detail as Deputy and Assistant Judge Advocate General before the effective date of this Act.”
 
@@ -200,37 +200,36 @@ Feb. 3, 1942, ch. 35, § 1 (as applicable to JAG), 56 Stat. 47.  </td>
 [/us/usc/t10/s5148/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5148%2Fb
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F290
-[/us/pl/85/861/s33/a/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F28
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1566
-[/us/pl/87/649/s14c/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs14c%2F21
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F501
-[/us/pl/89/718/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs36
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1120
-[/us/pl/90/179/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179%2Fs2%2F2
+[/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
 [/us/stat/81/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F546
-[/us/pl/90/623/s2/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs2%2F9
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1314
-[/us/pl/96/513/s503/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs503%2F13
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2912
-[/us/pl/97/86/s405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs405%2Fb%2F1
+[/us/pl/97/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIV
 [/us/stat/95/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1105
-[/us/pl/99/145/s514/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fb%2F1
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F628
-[/us/pl/99/661/s508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs508%2Fb
+[/us/pl/99/661/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtV
 [/us/stat/100/3867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3867
-[/us/pl/103/337/s504/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs504%2Fb%2F2
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2751
-[/us/usc/t10/s5135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5135
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s5133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5133
-[/us/pl/99/661/s508/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs508%2Fb%2F1
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/usc/t10/s5148/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5148%2Fb
-[/us/pl/99/661/s508/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs508%2Fb%2F2
-[/us/pl/99/661/s508/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs508%2Fb%2F3
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/97/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86
-[/us/pl/96/513/s503/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs503%2F13%2FA
-[/us/pl/96/513/s503/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs503%2F13%2FB
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
 [/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
@@ -256,7 +255,7 @@ Feb. 3, 1942, ch. 35, § 1 (as applicable to JAG), 56 Stat. 47.  </td>
 [/us/pl/85/861/s33/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/pl/90/179/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179%2Fs9
+[/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
 [/us/stat/81/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F549
 [/us/usc/t37/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs202
 [/us/usc/t10/s5184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5184

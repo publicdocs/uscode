@@ -33,7 +33,7 @@
 
     (c) In any case where the amount to be received by the United States is not more than $100,000, the Secretary of the Air Force may delegate his authority under subsections (a) and (b) to any person in the Department of the Air Force designated by him.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 592][/us/stat/70A/592]; [Pub. L. 89–67][/us/pl/89/67], July 7, 1965, [79 Stat. 212][/us/stat/79/212]; [Pub. L. 101–189, div. A, title XVI, § 1633][/us/pl/101/189/s1633], Nov. 29, 1989, [103 Stat. 1608][/us/stat/103/1608].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 592][/us/stat/70A/592]; [Pub. L. 89–67][/us/pl/89/67], July 7, 1965, [79 Stat. 212][/us/stat/79/212]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1633, Nov. 29, 1989, [103 Stat. 1608][/us/stat/103/1608].)
 
 <table>
 
@@ -120,7 +120,7 @@ Oct. 20, 1951, ch. 524, §§ 2 (less last 32 words of 2d sentence), 6 (less ap
 [/us/stat/70A/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F592
 [/us/pl/89/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F67
 [/us/stat/79/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F212
-[/us/pl/101/189/s1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1633
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1608
 [/us/usc/t10/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9801
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189

@@ -27,7 +27,7 @@
 
     (c) Special pay under this section may be paid in addition to any compensation authorized under [section 1602 of this title][/us/usc/t10/s1602] for which an officer or employee is eligible.
 
-(Added [Pub. L. 101–193, title V, § 501(a)(1)][/us/pl/101/193/s501/a/1], Nov. 30, 1989, [103 Stat. 1707][/us/stat/103/1707], § 1592; renumbered § 1596, [Pub. L. 101–510, div. A, title XIV, § 1484(a)][/us/pl/101/510/s1484/a], Nov. 5, 1990, [104 Stat. 1715][/us/stat/104/1715]; amended [Pub. L. 104–201, div. A, title XVI, § 1633(e)(2)][/us/pl/104/201/s1633/e/2], Sept. 23, 1996, [110 Stat. 2752][/us/stat/110/2752]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1131(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–317.)
+(Added [Pub. L. 101–193, title V][/us/pl/101/193/tV], § 501(a)(1), Nov. 30, 1989, [103 Stat. 1707][/us/stat/103/1707], § 1592; renumbered § 1596, [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1484(a), Nov. 5, 1990, [104 Stat. 1715][/us/stat/104/1715]; amended [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1633(e)(2), Sept. 23, 1996, [110 Stat. 2752][/us/stat/110/2752]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1131(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–317.)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–193, title V, § 501(b)][/us/pl/101/193/s501/b], Nov. 30, 1989, [103 Stat. 1708][/us/stat/103/1708], provided that: 
+[Pub. L. 101–193, title V][/us/pl/101/193/tV], § 501(b), Nov. 30, 1989, [103 Stat. 1708][/us/stat/103/1708], provided that: 
 
 > “Section 1592 \[now 1596\] of title 10, United States Code, as added by subsection (a), shall take effect on the first day of the first pay period beginning on or after the later of—
 
@@ -59,13 +59,13 @@
 ----------
 
 [/us/usc/t10/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1602
-[/us/pl/101/193/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F193%2Fs501%2Fa%2F1
+[/us/pl/101/193/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F193%2FtV
 [/us/stat/103/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1707
-[/us/pl/101/510/s1484/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484%2Fa
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1715
-[/us/pl/104/201/s1633/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1633%2Fe%2F2
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2752
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
@@ -74,7 +74,7 @@
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/201/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1635
 [/us/usc/t10/s1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1593
-[/us/pl/101/193/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F193%2Fs501%2Fb
+[/us/pl/101/193/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F193%2FtV
 [/us/stat/103/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1708
 
 

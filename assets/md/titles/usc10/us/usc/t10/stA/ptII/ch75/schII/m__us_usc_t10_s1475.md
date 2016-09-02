@@ -37,7 +37,7 @@
 
     (b) This section does not apply to the survivors of persons who were temporary members of the Coast Guard Reserve at the time of their death.
 
-(Added [Pub. L. 85–861, § 1(32)(A)][/us/pl/85/861/s1/32/A], Sept. 2, 1958, [72 Stat. 1452][/us/stat/72/1452]; amended [Pub. L. 88–647, title III, § 301(1)][/us/pl/88/647/s301/1], Oct. 13, 1964, [78 Stat. 1071][/us/stat/78/1071]; [Pub. L. 96–513, title V, § 511(59)][/us/pl/96/513/s511/59], Dec. 12, 1980, [94 Stat. 2925][/us/stat/94/2925]; [Pub. L. 99–661, div. A, title VI, § 604(e)(1)][/us/pl/99/661/s604/e/1], Nov. 14, 1986, [100 Stat. 3877][/us/stat/100/3877]; [Pub. L. 112–81, div. A, title VI, § 651(a)(1)][/us/pl/112/81/s651/a/1], Dec. 31, 2011, [125 Stat. 1466][/us/stat/125/1466].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(32)(A), Sept. 2, 1958, [72 Stat. 1452][/us/stat/72/1452]; amended [Pub. L. 88–647, title III][/us/pl/88/647/tIII], § 301(1), Oct. 13, 1964, [78 Stat. 1071][/us/stat/78/1071]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(59), Dec. 12, 1980, [94 Stat. 2925][/us/stat/94/2925]; [Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], § 604(e)(1), Nov. 14, 1986, [100 Stat. 3877][/us/stat/100/3877]; [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 651(a)(1), Dec. 31, 2011, [125 Stat. 1466][/us/stat/125/1466].)
 
 <table>
 
@@ -141,7 +141,7 @@ In subsection (a), the word “receiving” is inserted for clarity. Clause (1) 
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–81, div. A, title VI, § 651(c)][/us/pl/112/81/s651/c], Dec. 31, 2011, [125 Stat. 1467][/us/stat/125/1467], provided that: 
+[Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 651(c), Dec. 31, 2011, [125 Stat. 1467][/us/stat/125/1467], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1478 and 1481 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 31, 2011\], and shall apply with respect to deaths that occur on or after that date.”
 
@@ -167,7 +167,7 @@ In subsection (a), the word “receiving” is inserted for clarity. Clause (1) 
 
  __Improved Assistance for Gold Star Spouses and Other Dependents__ 
 
-[Pub. L. 113–66, div. A, title VI, § 633][/us/pl/113/66/s633], Dec. 26, 2013, [127 Stat. 786][/us/stat/127/786], provided that:
+[Pub. L. 113–66, div. A, title VI][/us/pl/113/66/dA/tVI], § 633, Dec. 26, 2013, [127 Stat. 786][/us/stat/127/786], provided that:
 
 >     “(a)  __Advocates for Gold Star Spouses and Other Dependents__  __.—__ 
 
@@ -207,7 +207,7 @@ In subsection (a), the word “receiving” is inserted for clarity. Clause (1) 
 
  __Policy and Procedures on Casualty Assistance to Survivors of Military Decedents__ 
 
-[Pub. L. 109–163, div. A, title V, § 562][/us/pl/109/163/s562], Jan. 6, 2006, [119 Stat. 3267][/us/stat/119/3267], as amended by [Pub. L. 109–364, div. A, title V, § 566][/us/pl/109/364/s566], Oct. 17, 2006, [120 Stat. 2223][/us/stat/120/2223], provided that:
+[Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 562, Jan. 6, 2006, [119 Stat. 3267][/us/stat/119/3267], as amended by [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 566, Oct. 17, 2006, [120 Stat. 2223][/us/stat/120/2223], provided that:
 
 >     “(a) __Comprehensive Policy on Casualty Assistance.—__ 
 
@@ -311,15 +311,15 @@ In subsection (a), the word “receiving” is inserted for clarity. Clause (1) 
 [/us/usc/t10/s1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1480
 [/us/usc/t10/s1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1477
 [/us/usc/t10/s2104/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2104%2Fb%2F6%2FB
-[/us/pl/85/861/s1/32/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F32%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1452
-[/us/pl/88/647/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2Fs301%2F1
+[/us/pl/88/647/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2FtIII
 [/us/stat/78/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1071
-[/us/pl/96/513/s511/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F59
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2925
-[/us/pl/99/661/s604/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs604%2Fe%2F1
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3877
-[/us/pl/112/81/s651/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs651%2Fa%2F1
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1466
 [/us/usc/t10/s101/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F31
 [/us/usc/t10/s101/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F22
@@ -329,7 +329,7 @@ In subsection (a), the word “receiving” is inserted for clarity. Clause (1) 
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/88/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647
-[/us/pl/112/81/s651/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs651%2Fc
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1467
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/661/s604/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs604%2Fg
@@ -340,11 +340,11 @@ In subsection (a), the word “receiving” is inserted for clarity. Clause (1) 
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t42/s213a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs213a
 [/us/usc/t33/s3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3071
-[/us/pl/113/66/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs633
+[/us/pl/113/66/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVI
 [/us/stat/127/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F786
-[/us/pl/109/163/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs562
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3267
-[/us/pl/109/364/s566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs566
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2223
 
 

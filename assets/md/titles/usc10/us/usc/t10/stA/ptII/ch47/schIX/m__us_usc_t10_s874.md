@@ -19,7 +19,7 @@
 
     (b) The Secretary concerned may, for good cause, substitute an administrative form of discharge for a discharge or dismissal executed in accordance with the sentence of a court-martial.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 63][/us/stat/70A/63]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 553(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–125; [Pub. L. 107–107, div. A, title X, § 1048(a)(8)][/us/pl/107/107/s1048/a/8], Dec. 28, 2001, [115 Stat. 1223][/us/stat/115/1223].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 63][/us/stat/70A/63]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 553(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–125; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(a)(8), Dec. 28, 2001, [115 Stat. 1223][/us/stat/115/1223].)
 
 <table>
 
@@ -79,7 +79,7 @@ May 5, 1950, ch. 169, §  1 (Art. 74), 64 Stat. 132.  </td>
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 553(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–125, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 553(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–125, provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall not apply with respect to a sentence of confinement for life without eligibility for parole that is adjudged for an offense committed before the date of the enactment of this Act \[Oct. 30, 2000\].”
 
@@ -92,13 +92,13 @@ May 5, 1950, ch. 169, §  1 (Art. 74), 64 Stat. 132.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F63
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s1048/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fa%2F8
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1223
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

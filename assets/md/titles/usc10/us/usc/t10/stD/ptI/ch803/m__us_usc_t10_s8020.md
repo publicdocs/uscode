@@ -31,7 +31,7 @@
 
     (e) The Inspector General shall have such deputies and assistants as the Secretary of the Air Force may prescribe. Each such deputy and assistant shall be an officer detailed by the Secretary to that position from the officers of the Air Force for a tour of duty of not more than four years, under a procedure prescribed by the Secretary.
 
-(Added [Pub. L. 99–433, title V, § 521(a)(5)][/us/pl/99/433/s521/a/5], Oct. 1, 1986, [100 Stat. 1059][/us/stat/100/1059].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 521(a)(5), Oct. 1, 1986, [100 Stat. 1059][/us/stat/100/1059].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/99/433/s521/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs521%2Fa%2F5
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1059
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101

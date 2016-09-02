@@ -31,7 +31,7 @@
 
         (5) perform such other duties, not otherwise assigned by law, as may be prescribed by the Secretary.
 
-(Added [Pub. L. 99–433, title V, § 513(b)][/us/pl/99/433/s513/b], Oct. 1, 1986, [100 Stat. 1052][/us/stat/100/1052].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 513(b), Oct. 1, 1986, [100 Stat. 1052][/us/stat/100/1052].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t10/s5014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5014
-[/us/pl/99/433/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs513%2Fb
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1052
 
 

@@ -17,7 +17,7 @@
 
     A unit of the Army National Guard of the United States or the Air National Guard of the United States may not be relocated or withdrawn under this chapter without the consent of the governor of the State or, in the case of the District of Columbia, the commanding general of the National Guard of the District of Columbia.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 123][/us/stat/70A/123], § 2238; [Pub. L. 85–861, § 1(43)][/us/pl/85/861/s1/43], Sept. 2, 1958, [72 Stat. 1457][/us/stat/72/1457]; [Pub. L. 97–214, § 3(d)(4)][/us/pl/97/214/s3/d/4], July 12, 1982, [96 Stat. 170][/us/stat/96/170]; renumbered § 18238, [Pub. L. 103–337, div. A, title XVI, § 1664(b)(2)][/us/pl/103/337/s1664/b/2], Oct. 5, 1994, [108 Stat. 3010][/us/stat/108/3010].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 123][/us/stat/70A/123], § 2238; [Pub. L. 85–861][/us/pl/85/861], § 1(43), Sept. 2, 1958, [72 Stat. 1457][/us/stat/72/1457]; [Pub. L. 97–214][/us/pl/97/214], § 3(d)(4), July 12, 1982, [96 Stat. 170][/us/stat/96/170]; renumbered § 18238, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1664(b)(2), Oct. 5, 1994, [108 Stat. 3010][/us/stat/108/3010].)
 
 <table>
 
@@ -140,11 +140,11 @@ Aug. 9, 1955, ch. 662, § 1(c), 69 Stat. 593.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F123
-[/us/pl/85/861/s1/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F43
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1457
-[/us/pl/97/214/s3/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs3%2Fd%2F4
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F170
-[/us/pl/103/337/s1664/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1664%2Fb%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3010
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2238

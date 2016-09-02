@@ -25,7 +25,7 @@
 
     (e) An educational institution at which a unit of the program has been established shall give priority for enrollment in the program to students who are eligible for advanced training under [section 2104 of this title][/us/usc/t10/s2104].
 
-(Added [Pub. L. 88–647, title II, § 201(1)][/us/pl/88/647/s201/1], Oct. 13, 1964, [78 Stat. 1065][/us/stat/78/1065]; amended [Pub. L. 104–201, div. A, title V, § 551(a)(1)][/us/pl/104/201/s551/a/1], Sept. 23, 1996, [110 Stat. 2525][/us/stat/110/2525].)
+(Added [Pub. L. 88–647, title II][/us/pl/88/647/tII], § 201(1), Oct. 13, 1964, [78 Stat. 1065][/us/stat/78/1065]; amended [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 551(a)(1), Sept. 23, 1996, [110 Stat. 2525][/us/stat/110/2525].)
 
  __Amendments__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t10/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2104
-[/us/pl/88/647/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2Fs201%2F1
+[/us/pl/88/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2FtII
 [/us/stat/78/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1065
-[/us/pl/104/201/s551/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs551%2Fa%2F1
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2525
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 

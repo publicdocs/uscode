@@ -67,7 +67,7 @@
 
     (f) A midshipman or former midshipman who does not fulfill the terms of the agreement as specified under subsection (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of [section 303a(e) of title 37][/us/usc/t37/s303a/e].
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 432][/us/stat/70A/432]; [Pub. L. 88–276, § 5(a)][/us/pl/88/276/s5/a], Mar. 3, 1964, [78 Stat. 153][/us/stat/78/153]; [Pub. L. 88–647, title III, § 301(19)][/us/pl/88/647/s301/19], Oct. 13, 1964, [78 Stat. 1072][/us/stat/78/1072]; [Pub. L. 98–525, title V][/us/pl/98/525], §§ 541(b), 542(c), Oct. 19, 1984, [98 Stat. 2529][/us/stat/98/2529]; [Pub. L. 99–145, title V, § 512(b)][/us/pl/99/145/s512/b], Nov. 8, 1985, [99 Stat. 624][/us/stat/99/624]; [Pub. L. 101–189, div. A, title V, § 511(c)][/us/pl/101/189/s511/c], Nov. 29, 1989, [103 Stat. 1439][/us/stat/103/1439]; [Pub. L. 104–106, div. A, title V, § 531(b)][/us/pl/104/106/s531/b], Feb. 10, 1996, [110 Stat. 314][/us/stat/110/314]; [Pub. L. 109–163, div. A, title V, § 515(b)(1)(S)][/us/pl/109/163/s515/b/1/S], title VI, § 687(c)(10), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233], 3335; [Pub. L. 111–84, div. A, title X, § 1073(a)(29)][/us/pl/111/84/s1073/a/29], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474]; [Pub. L. 111–383, div. A, title V, § 554(b)][/us/pl/111/383/s554/b], Jan. 7, 2011, [124 Stat. 4221][/us/stat/124/4221].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 432][/us/stat/70A/432]; [Pub. L. 88–276][/us/pl/88/276], § 5(a), Mar. 3, 1964, [78 Stat. 153][/us/stat/78/153]; [Pub. L. 88–647, title III][/us/pl/88/647/tIII], § 301(19), Oct. 13, 1964, [78 Stat. 1072][/us/stat/78/1072]; [Pub. L. 98–525, title V][/us/pl/98/525/tV], §§ 541(b), 542(c), Oct. 19, 1984, [98 Stat. 2529][/us/stat/98/2529]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 512(b), Nov. 8, 1985, [99 Stat. 624][/us/stat/99/624]; [Pub. L. 101–189, div. A, title V][/us/pl/101/189/dA/tV], § 511(c), Nov. 29, 1989, [103 Stat. 1439][/us/stat/103/1439]; [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 531(b), Feb. 10, 1996, [110 Stat. 314][/us/stat/110/314]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(S), title VI, § 687(c)(10), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233], 3335; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(29), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 554(b), Jan. 7, 2011, [124 Stat. 4221][/us/stat/124/4221].)
 
 <table>
 
@@ -121,9 +121,9 @@ June 30, 1950, ch. 421, § 3, 64 Stat. 304.  </td>
 
     2009—Subsec. (f). [Pub. L. 111–84][/us/pl/111/84] substituted “subsection (a)” for “section (a)”.
 
-    2006—Subsecs. (a)(3)(A), (b)(1), (2). [Pub. L. 109–163, § 515(b)(1)(S)][/us/pl/109/163/s515/b/1/S], substituted “Navy Reserve” for “Naval Reserve”.
+    2006—Subsecs. (a)(3)(A), (b)(1), (2). [Pub. L. 109–163][/us/pl/109/163], § 515(b)(1)(S), substituted “Navy Reserve” for “Naval Reserve”.
 
-    Subsec. (f). [Pub. L. 109–163, § 687(c)(10)][/us/pl/109/163/s687/c/10], added subsec. (f).
+    Subsec. (f). [Pub. L. 109–163][/us/pl/109/163], § 687(c)(10), added subsec. (f).
 
     1996—Subsec. (a)(2)(B). [Pub. L. 104–106][/us/pl/104/106] substituted “five years” for “six years”.
 
@@ -143,9 +143,9 @@ June 30, 1950, ch. 421, § 3, 64 Stat. 304.  </td>
 
     “(b) A midshipman who does not fulfill his agreement under subsection (a) may be transferred by the Secretary of the Navy to the Naval Reserve or the Marine Corps Reserve in an appropriate enlisted grade or rating, and, notwithstanding [section 651 of this title][/us/usc/t10/s651], may be ordered to active duty to serve in that grade or rating for such period of time as the Secretary prescribes but not for more than four years.”
 
-    1984—Subsec. (a). [Pub. L. 98–525, § 541(b)][/us/pl/98/525/s541/b], struck out “, unless sooner separated,” in introductory text preceding “he will”; inserted in cl. (1) “unless sooner separated from the Naval Academy,”; and inserted “, unless sooner separated from the naval service,” in cls. (2) and (3).
+    1984—Subsec. (a). [Pub. L. 98–525][/us/pl/98/525], § 541(b), struck out “, unless sooner separated,” in introductory text preceding “he will”; inserted in cl. (1) “unless sooner separated from the Naval Academy,”; and inserted “, unless sooner separated from the naval service,” in cls. (2) and (3).
 
-    Subsec. (a)(3). [Pub. L. 98–525, § 542(c)][/us/pl/98/525/s542/c], substituted “at least the sixth anniversary and, at the direction of the Secretary of Defense, up to the eighth anniversary” for “the sixth anniversary”.
+    Subsec. (a)(3). [Pub. L. 98–525][/us/pl/98/525], § 542(c), substituted “at least the sixth anniversary and, at the direction of the Secretary of Defense, up to the eighth anniversary” for “the sixth anniversary”.
 
     1964—[Pub. L. 88–647][/us/pl/88/647] designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -196,35 +196,35 @@ June 30, 1950, ch. 421, § 3, 64 Stat. 304.  </td>
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F432
-[/us/pl/88/276/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F276%2Fs5%2Fa
+[/us/pl/88/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F276
 [/us/stat/78/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F153
-[/us/pl/88/647/s301/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2Fs301%2F19
+[/us/pl/88/647/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2FtIII
 [/us/stat/78/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1072
-[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtV
 [/us/stat/98/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2529
-[/us/pl/99/145/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs512%2Fb
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F624
-[/us/pl/101/189/s511/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs511%2Fc
+[/us/pl/101/189/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtV
 [/us/stat/103/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1439
-[/us/pl/104/106/s531/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs531%2Fb
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F314
-[/us/pl/109/163/s515/b/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FS
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3233
-[/us/pl/111/84/s1073/a/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F29
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
-[/us/pl/111/383/s554/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs554%2Fb
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4221
 [/us/usc/t34/s1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs1048
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/109/163/s515/b/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FS
-[/us/pl/109/163/s687/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fc%2F10
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/usc/t10/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs651
-[/us/pl/98/525/s541/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs541%2Fb
-[/us/pl/98/525/s542/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs542%2Fc
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/88/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647
 [/us/pl/88/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F276
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106

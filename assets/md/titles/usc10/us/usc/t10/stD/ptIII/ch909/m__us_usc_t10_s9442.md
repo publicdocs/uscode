@@ -25,11 +25,11 @@
 
         (2) The Civil Air Patrol shall be deemed to be an instrumentality of the United States with respect to any act or omission of the Civil Air Patrol, including any member of the Civil Air Patrol, in carrying out a mission assigned by the Secretary of the Air Force.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1090(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–295.)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1090(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–295.)
 
  __Prior Provisions__ 
 
-    A prior section 9442, added [Pub. L. 98–525, title XV, § 1533(b)(1)][/us/pl/98/525/s1533/b/1], Oct. 19, 1984, [98 Stat. 2632][/us/stat/98/2632], related to assistance of Civil Air Patrol by other agencies, prior to the general amendment of this chapter by [Pub. L. 106–398][/us/pl/106/398].
+    A prior section 9442, added [Pub. L. 98–525, title XV][/us/pl/98/525/tXV], § 1533(b)(1), Oct. 19, 1984, [98 Stat. 2632][/us/stat/98/2632], related to assistance of Civil Air Patrol by other agencies, prior to the general amendment of this chapter by [Pub. L. 106–398][/us/pl/106/398].
 
 ----------
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/98/525/s1533/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1533%2Fb%2F1
+[/us/pl/98/525/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXV
 [/us/stat/98/2632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2632
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 

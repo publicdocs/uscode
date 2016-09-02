@@ -17,7 +17,7 @@
 
     Provisions of law relating to service of members of reserve components on active duty are set forth in chapter 1209 of this title (beginning with section 12301).
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1662(e)(4)][/us/pl/103/337/s1662/e/4], Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(e)(4), Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992].)
 
  __Prior Provisions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1662/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fe%2F4
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2992
 [/us/usc/t10/s12301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12301
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691

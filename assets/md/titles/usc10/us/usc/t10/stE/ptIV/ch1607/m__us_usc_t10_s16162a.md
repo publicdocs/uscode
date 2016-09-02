@@ -73,11 +73,11 @@
 
     The aggregate amount of educational assistance payable under this section in any fiscal year for enrollments covered by subsection (b)(1) may not exceed $3,000,000.
 
-(Added [Pub. L. 110–181, div. A, title V, § 528(b)(1)][/us/pl/110/181/s528/b/1], Jan. 28, 2008, [122 Stat. 107][/us/stat/122/107].)
+(Added [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 528(b)(1), Jan. 28, 2008, [122 Stat. 107][/us/stat/122/107].)
 
  __Effective Date__ 
 
-[Pub. L. 110–181, div. A, title V, § 528(b)(3)][/us/pl/110/181/s528/b/3], Jan. 28, 2008, [122 Stat. 109][/us/stat/122/109], provided that: 
+[Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 528(b)(3), Jan. 28, 2008, [122 Stat. 109][/us/stat/122/109], provided that: 
 
 > “The amendments made by this subsection \[enacting this section\] shall take effect on October 1, 2008, and shall only apply to initial enrollments in approved programs of education after such date.”
 
@@ -93,9 +93,9 @@
 [/us/usc/t10/s16162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16162
 [/us/usc/t10/s16162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16162
 [/us/usc/t38/s3014A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3014A
-[/us/pl/110/181/s528/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs528%2Fb%2F1
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F107
-[/us/pl/110/181/s528/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs528%2Fb%2F3
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F109
 
 

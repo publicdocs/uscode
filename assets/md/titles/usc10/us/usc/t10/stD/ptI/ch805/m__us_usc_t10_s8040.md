@@ -29,7 +29,7 @@
 
         (3) Conduct periodic comprehensive assessments of all aspects of the nuclear deterrence mission of the Air Force and provide such assessments to the Secretary of the Air Force and the Chief of Staff of the Air Force.
 
-(Added [Pub. L. 114–92, div. A, title XVI, § 1652(a)(1)][/us/pl/114/92/s1652/a/1], Nov. 25, 2015, [129 Stat. 1121][/us/stat/129/1121].)
+(Added [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1652(a)(1), Nov. 25, 2015, [129 Stat. 1121][/us/stat/129/1121].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/114/92/s1652/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1652%2Fa%2F1
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1121
 
 

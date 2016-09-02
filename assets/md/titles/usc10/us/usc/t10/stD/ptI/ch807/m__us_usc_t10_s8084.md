@@ -23,7 +23,7 @@
 
     (3) operate space systems.
 
-(Added [Pub. L. 107–107, div. A, title IX, § 912(a)][/us/pl/107/107/s912/a], Dec. 28, 2001, [115 Stat. 1196][/us/stat/115/1196]; amended [Pub. L. 108–375, div. A, title X, § 1084(d)(32)][/us/pl/108/375/s1084/d/32], Oct. 28, 2004, [118 Stat. 2063][/us/stat/118/2063].)
+(Added [Pub. L. 107–107, div. A, title IX][/us/pl/107/107/dA/tIX], § 912(a), Dec. 28, 2001, [115 Stat. 1196][/us/stat/115/1196]; amended [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(d)(32), Oct. 28, 2004, [118 Stat. 2063][/us/stat/118/2063].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/107/107/s912/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs912%2Fa
+[/us/pl/107/107/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIX
 [/us/stat/115/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1196
-[/us/pl/108/375/s1084/d/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F32
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2063
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 

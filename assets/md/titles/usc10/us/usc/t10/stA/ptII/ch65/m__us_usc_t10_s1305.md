@@ -27,7 +27,7 @@
 
     (c) Under such regulations as he may prescribe, the Secretary concerned may defer the retirement under subsection (a) of any warrant officer upon the recommendation of a board of officers and with the consent of the warrant officer, but not later than 60 days after he becomes 62 years of age.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 101][/us/stat/70A/101]; [Pub. L. 87–649, § 6(f)(3)][/us/pl/87/649/s6/f/3], Sept. 7, 1962, [76 Stat. 494][/us/stat/76/494]; [Pub. L. 89–718, § 3][/us/pl/89/718/s3], Nov. 2, 1966, [80 Stat. 1115][/us/stat/80/1115]; [Pub. L. 102–190, div. A, title XI, § 1116][/us/pl/102/190/s1116], Dec. 5, 1991, [105 Stat. 1503][/us/stat/105/1503]; [Pub. L. 109–364, div. A, title V, § 505(c)][/us/pl/109/364/s505/c], Oct. 17, 2006, [120 Stat. 2179][/us/stat/120/2179]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 501, Oct. 14, 2008, [122 Stat. 4432][/us/stat/122/4432]; [Pub. L. 112–239, div. A, title V, § 504][/us/pl/112/239/s504], Jan. 2, 2013, [126 Stat. 1715][/us/stat/126/1715].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 101][/us/stat/70A/101]; [Pub. L. 87–649][/us/pl/87/649], § 6(f)(3), Sept. 7, 1962, [76 Stat. 494][/us/stat/76/494]; [Pub. L. 89–718][/us/pl/89/718], § 3, Nov. 2, 1966, [80 Stat. 1115][/us/stat/80/1115]; [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1116, Dec. 5, 1991, [105 Stat. 1503][/us/stat/105/1503]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 505(c), Oct. 17, 2006, [120 Stat. 2179][/us/stat/120/2179]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 501, Oct. 14, 2008, [122 Stat. 4432][/us/stat/122/4432]; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 504, Jan. 2, 2013, [126 Stat. 1715][/us/stat/126/1715].)
 
 <table>
 
@@ -175,9 +175,9 @@ In subsection (a), the words “has at least” are substituted for the words �
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1). [Pub. L. 112–239, § 504(1)][/us/pl/112/239/s504/1], substituted “Subject to paragraphs (2) and (3), a regular warrant officer” for “A regular warrant officer (other than a regular Army warrant officer)” and “date on which the officer” for “date on which he”.
+    2013—Subsec. (a)(1). [Pub. L. 112–239][/us/pl/112/239], § 504(1), substituted “Subject to paragraphs (2) and (3), a regular warrant officer” for “A regular warrant officer (other than a regular Army warrant officer)” and “date on which the officer” for “date on which he”.
 
-    Subsec. (a)(3). [Pub. L. 112–239, § 504(2)][/us/pl/112/239/s504/2], added par. (3).
+    Subsec. (a)(3). [Pub. L. 112–239][/us/pl/112/239], § 504(2), added par. (3).
 
     2008—Subsec. (a). [Pub. L. 110–417][/us/pl/110/417] designated existing provisions as par. (1), substituted “A regular warrant officer (other than a regular Army warrant officer) who has at least 30 years of active service that could be credited to the officer” for “A regular warrant officer who has at least 30 years of active service as a warrant officer that could be credited to him”, and added par. (2).
 
@@ -212,23 +212,23 @@ In subsection (a), the words “has at least” are substituted for the words �
 [/us/usc/t5/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8301
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F101
-[/us/pl/87/649/s6/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs6%2Ff%2F3
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F494
-[/us/pl/89/718/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs3
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1115
-[/us/pl/102/190/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1116
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1503
-[/us/pl/109/364/s505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs505%2Fc
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2179
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4432
-[/us/pl/112/239/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs504
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1715
 [/us/usc/t10/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1315
 [/us/act/1949-10-12/ch681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-12%2Fch681
 [/us/usc/t10/s580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs580
-[/us/pl/112/239/s504/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs504%2F1
-[/us/pl/112/239/s504/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs504%2F2
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/stat/70/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F114

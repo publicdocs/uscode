@@ -17,7 +17,7 @@
 
     Any reference in a law, regulation, document, paper, or other record of the United States to the United States Naval Academy Museum Fund formerly maintained under this section shall be deemed to refer to the United States Naval Academy Gift and Museum Fund maintained under [section 6973 of this title][/us/usc/t10/s6973].
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 436][/us/stat/70A/436]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 942(d)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–242.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 436][/us/stat/70A/436]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 942(d)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–242.)
 
 <table>
 
@@ -101,7 +101,7 @@ Mar. 26, 1938, ch. 52, § 5, 52 Stat. 119.  </td>
 
  __Consolidation of Naval Academy General Gift Fund and Naval Academy Museum Fund__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 942(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–241, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 942(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–241, provided that:
 
 >     “(1) The Secretary of the Navy shall transfer all amounts in the United States Naval Academy Museum Fund established by [section 6974 of title 10][/us/usc/t10/s6974], United States Code, to the gift fund maintained for the benefit and use of the United States Naval Academy under section 6973 of such title. Upon completing the transfer, the Secretary shall close the United States Naval Academy Museum Fund.
 
@@ -117,10 +117,10 @@ Mar. 26, 1938, ch. 52, § 5, 52 Stat. 119.  </td>
 [/us/usc/t10/s6973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6973
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F436
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s6974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6974
 

@@ -75,7 +75,7 @@
 
     This section shall apply to the Coast Guard in the same manner and to the same extent as it applies to the Department of Defense. The Secretary of Homeland Security shall implement the requirements of this section for the Coast Guard when it is not operating as a service in the Navy.
 
-(Added [Pub. L. 102–484, div. D, title XLIV, § 4462(a)(1)][/us/pl/102/484/s4462/a/1], Oct. 23, 1992, [106 Stat. 2738][/us/stat/106/2738]; amended [Pub. L. 103–337, div. A, title V, § 542(a)(3)][/us/pl/103/337/s542/a/3], Oct. 5, 1994, [108 Stat. 2768][/us/stat/108/2768]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 112–239, div. A, title X, § 1076(f)(14)][/us/pl/112/239/s1076/f/14], Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952].)
+(Added [Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], § 4462(a)(1), Oct. 23, 1992, [106 Stat. 2738][/us/stat/106/2738]; amended [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 542(a)(3), Oct. 5, 1994, [108 Stat. 2768][/us/stat/108/2768]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(f)(14), Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952].)
 
  __Amendments__ 
 
@@ -83,9 +83,9 @@
 
     2002—Subsec. (h). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
 
-    1994—[Pub. L. 103–337, § 542(a)(3)(A)][/us/pl/103/337/s542/a/3/A], struck out “: Department of Defense” after “service” in section catchline.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 542(a)(3)(A), struck out “: Department of Defense” after “service” in section catchline.
 
-    Subsec. (h). [Pub. L. 103–337, § 542(a)(3)(B)][/us/pl/103/337/s542/a/3/B], added subsec. (h).
+    Subsec. (h). [Pub. L. 103–337][/us/pl/103/337], § 542(a)(3)(B), added subsec. (h).
 
  __Effective Date of 2002 Amendment__ 
 
@@ -97,11 +97,11 @@
 
  __Program of Educational Leave Relating to Continuing Public and Community Service__ 
 
-    [Pub. L. 102–484, div. D, title XLIV, § 4463][/us/pl/102/484/s4463], Oct. 23, 1992, [106 Stat. 2740][/us/stat/106/2740], as amended by [Pub. L. 103–160, div. A, title V, § 561][/us/pl/103/160/s561](o), Nov. 30, 1993, [107 Stat. 1668][/us/stat/107/1668]; [Pub. L. 105–261, div. A, title V, § 561(g)][/us/pl/105/261/s561/g], Oct. 17, 1998, [112 Stat. 2025][/us/stat/112/2025]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 571(g)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–134; [Pub. L. 107–296, title XVII, § 1704(e)(3)][/us/pl/107/296/s1704/e/3], Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315], provided that under regulations prescribed by the Secretary of Defense and subject to certain eligibility requirements, the Secretary concerned could grant to an eligible member of the Armed Forces a leave of absence not to exceed one year to permit the member to pursue education or training relevant to public and community service, and provided that this authority would expire on Dec. 31, 2001.
+    [Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], § 4463, Oct. 23, 1992, [106 Stat. 2740][/us/stat/106/2740], as amended by [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 561(o), Nov. 30, 1993, [107 Stat. 1668][/us/stat/107/1668]; [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 561(g), Oct. 17, 1998, [112 Stat. 2025][/us/stat/112/2025]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 571(g)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–134; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(e)(3), Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315], provided that under regulations prescribed by the Secretary of Defense and subject to certain eligibility requirements, the Secretary concerned could grant to an eligible member of the Armed Forces a leave of absence not to exceed one year to permit the member to pursue education or training relevant to public and community service, and provided that this authority would expire on Dec. 31, 2001.
 
  __Increased Early Retirement Retired Pay for Public or Community Service__ 
 
-[Pub. L. 102–484, div. D, title XLIV, § 4464][/us/pl/102/484/s4464], Oct. 23, 1992, [106 Stat. 2741][/us/stat/106/2741], provided that:
+[Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], § 4464, Oct. 23, 1992, [106 Stat. 2741][/us/stat/106/2741], provided that:
 
 >     “(a)  __Recomputation of Retired Pay__  __.—__ 
 
@@ -132,35 +132,35 @@
 ----------
 ----------
 
-[/us/pl/102/484/s4462/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4462%2Fa%2F1
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2738
-[/us/pl/103/337/s542/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs542%2Fa%2F3
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2768
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/112/239/s1076/f/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F14
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1952
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/103/337/s542/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs542%2Fa%2F3%2FA
-[/us/pl/103/337/s542/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs542%2Fa%2F3%2FB
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s542/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs542%2Fe
 [/us/usc/t10/s1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1141
-[/us/pl/102/484/s4463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4463
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2740
-[/us/pl/103/160/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs561
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1668
-[/us/pl/105/261/s561/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs561%2Fg
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2025
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/296/s1704/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fe%2F3
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2315
-[/us/pl/102/484/s4464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4464
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2741
 [/us/usc/t10/s1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1293
 [/us/usc/t10/s1143a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1143a%2Fc

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch355/m__us_usc_t10_stB_ptII_ch355.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch357/m__us_usc_t10_stB_ptII_ch357.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3723)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch355/m__us_usc_t10_s3721 _us_usc_t10_s3722.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch357/m__us_usc_t10_stB_ptII_ch357.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3723)
 
 ## § 3723. When Secretary may require
 
     The Secretary of the Army may order the hospitalization, medical and surgical treatment, and domiciliary care, for as long as necessary, of any member of the Army on active duty, and may incur obligations with respect thereto, whether or not the member incurred an injury, illness, or disease in line of duty, except in the case of a member treated in a private hospital, or by a civilian physician, while on leave of absence for more than 24 hours.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 215][/us/stat/70A/215]; [Pub. L. 99–661, div. A, title VI, § 604(f)(1)(D)][/us/pl/99/661/s604/f/1/D], Nov. 14, 1986, [100 Stat. 3878][/us/stat/100/3878]; [Pub. L. 100–180, div. A, title XII, § 1231(16)][/us/pl/100/180/s1231/16], Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 215][/us/stat/70A/215]; [Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], § 604(f)(1)(D), Nov. 14, 1986, [100 Stat. 3878][/us/stat/100/3878]; [Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1231(16), Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161].)
 
 <table>
 
@@ -69,7 +69,7 @@ July 15, 1939, ch. 282; restated Oct. 14, 1940, ch. 875, § 5, 54 Stat. 1137. 
 
  __Codification__ 
 
-    [Pub. L. 100–26, § 7(j)(11)][/us/pl/100/26/s7/j/11], Apr. 21, 1987, [101 Stat. 283][/us/stat/101/283], which directed that [section 4723 of this title][/us/usc/t10/s4723], as amended by [section 604(f)(1)(D) of Pub. L. 99–661][/us/pl/99/661/s604/f/1/D], be amended by striking out the comma after “disease”, could not be executed because no [section 4723 of this title][/us/usc/t10/s4723] has been enacted. The probable intent of Congress was to amend [section 3723 of this title][/us/usc/t10/s3723]. [Pub. L. 100–180, § 1231(16)][/us/pl/100/180/s1231/16], cited as a credit to section 3723 above, made an identical amendment to section 3723.
+    [Pub. L. 100–26][/us/pl/100/26], § 7(j)(11), Apr. 21, 1987, [101 Stat. 283][/us/stat/101/283], which directed that [section 4723 of this title][/us/usc/t10/s4723], as amended by [section 604(f)(1)(D) of Pub. L. 99–661][/us/pl/99/661/s604/f/1/D], be amended by striking out the comma after “disease”, could not be executed because no [section 4723 of this title][/us/usc/t10/s4723] has been enacted. The probable intent of Congress was to amend [section 3723 of this title][/us/usc/t10/s3723]. [Pub. L. 100–180][/us/pl/100/180], § 1231(16), cited as a credit to section 3723 above, made an identical amendment to section 3723.
 
  __Amendments__ 
 
@@ -83,25 +83,25 @@ July 15, 1939, ch. 282; restated Oct. 14, 1940, ch. 875, § 5, 54 Stat. 1137. 
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch355/m__us_usc_t10_stB_ptII_ch355.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch357/m__us_usc_t10_stB_ptII_ch357.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3723)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch355/m__us_usc_t10_s3721 _us_usc_t10_s3722.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch357/m__us_usc_t10_stB_ptII_ch357.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3723)
 
 ----------
 ----------
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F215
-[/us/pl/99/661/s604/f/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs604%2Ff%2F1%2FD
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3878
-[/us/pl/100/180/s1231/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1231%2F16
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1161
 [/us/usc/t32/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs320
-[/us/pl/100/26/s7/j/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fj%2F11
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F283
 [/us/usc/t10/s4723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4723
 [/us/pl/99/661/s604/f/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs604%2Ff%2F1%2FD
 [/us/usc/t10/s4723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4723
 [/us/usc/t10/s3723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3723
-[/us/pl/100/180/s1231/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1231%2F16
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661

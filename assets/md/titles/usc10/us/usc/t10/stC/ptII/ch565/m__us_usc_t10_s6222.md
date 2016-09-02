@@ -43,7 +43,7 @@
 
         (2) to revert to the grade and status such member held at the time of appointment under this section.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 388][/us/stat/70A/388]; [Pub. L. 85–861, § 1(140)][/us/pl/85/861/s1/140], Sept. 2, 1958, [72 Stat. 1508][/us/stat/72/1508]; [Pub. L. 87–649, § 14c(45)][/us/pl/87/649/s14c/45], Sept. 7, 1962, [76 Stat. 501][/us/stat/76/501]; [Pub. L. 91–197][/us/pl/91/197], Feb. 24, 1970, [84 Stat. 15][/us/stat/84/15]; [Pub. L. 96–513, title V, § 513(18)][/us/pl/96/513/s513/18], Dec. 12, 1980, [94 Stat. 2932][/us/stat/94/2932]; [Pub. L. 109–364, div. A, title V, § 599(a)][/us/pl/109/364/s599/a], Oct. 17, 2006, [120 Stat. 2238][/us/stat/120/2238].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 388][/us/stat/70A/388]; [Pub. L. 85–861][/us/pl/85/861], § 1(140), Sept. 2, 1958, [72 Stat. 1508][/us/stat/72/1508]; [Pub. L. 87–649][/us/pl/87/649], § 14c(45), Sept. 7, 1962, [76 Stat. 501][/us/stat/76/501]; [Pub. L. 91–197][/us/pl/91/197], Feb. 24, 1970, [84 Stat. 15][/us/stat/84/15]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(18), Dec. 12, 1980, [94 Stat. 2932][/us/stat/94/2932]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 599(a), Oct. 17, 2006, [120 Stat. 2238][/us/stat/120/2238].)
 
 <table>
 
@@ -264,15 +264,15 @@ July 24, 1956, ch. 686, 70 Stat. 628.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F388
-[/us/pl/85/861/s1/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F140
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1508
-[/us/pl/87/649/s14c/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs14c%2F45
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F501
 [/us/pl/91/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F197
 [/us/stat/84/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F15
-[/us/pl/96/513/s513/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F18
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2932
-[/us/pl/109/364/s599/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs599%2Fa
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2238
 [/us/usc/t10/s6224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6224
 [/us/usc/t10/s5001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5001%2Fa%2F2

@@ -41,7 +41,7 @@
 
         (3) The Secretary concerned has approved the request of an officer for a delay of promotion and, upon the end of the period of delay authorized in accordance with regulations prescribed under subsection (a), the officer then declines to accept an appointment to a higher grade.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2941][/us/stat/108/2941].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2941][/us/stat/108/2941].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t10/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14502
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2941
 
 

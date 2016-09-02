@@ -21,7 +21,7 @@
 
     (2) authorize a disbursing or certifying official of each of those commands, installations, or districts to make the payments to the beneficiary, or certify the payments due them, as the case may be.
 
-(Added [Pub. L. 85–861, § 1(32)(A)][/us/pl/85/861/s1/32/A], Sept. 2, 1958, [72 Stat. 1455][/us/stat/72/1455]; amended [Pub. L. 97–258, § 2(b)(1)(A)][/us/pl/97/258/s2/b/1/A], Sept. 13, 1982, [96 Stat. 1052][/us/stat/96/1052].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(32)(A), Sept. 2, 1958, [72 Stat. 1455][/us/stat/72/1455]; amended [Pub. L. 97–258][/us/pl/97/258], § 2(b)(1)(A), Sept. 13, 1982, [96 Stat. 1052][/us/stat/96/1052].)
 
 <table>
 
@@ -81,9 +81,9 @@ Aug. 1, 1956, ch. 837, § 302, 70 Stat. 868.  </td>
 ----------
 
 [/us/usc/t10/s1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1475
-[/us/pl/85/861/s1/32/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F32%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1455
-[/us/pl/97/258/s2/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F1%2FA
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1052
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 

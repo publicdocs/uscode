@@ -17,7 +17,7 @@
 
     A general officer serving as Attending Physician to the Congress, while so serving, holds the grade of major general. A flag officer serving as Attending Physician to the Congress, while so serving, holds the grade of rear admiral.
 
-(Added [Pub. L. 109–364, div. A, title V, § 507(a)(1)(A)][/us/pl/109/364/s507/a/1/A], Oct. 17, 2006, [120 Stat. 2180][/us/stat/120/2180].)
+(Added [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 507(a)(1)(A), Oct. 17, 2006, [120 Stat. 2180][/us/stat/120/2180].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/364/s507/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs507%2Fa%2F1%2FA
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2180
 
 

@@ -47,7 +47,7 @@
 
     Regulations under this section shall be prescribed in consultation with the Director of the Office of Personnel Management.
 
-(Added [Pub. L. 104–201, div. A, title XVI, § 1632(b)][/us/pl/104/201/s1632/b], Sept. 23, 1996, [110 Stat. 2749][/us/stat/110/2749].)
+(Added [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1632(b), Sept. 23, 1996, [110 Stat. 2749][/us/stat/110/2749].)
 
  __Effective Date__ 
 
@@ -65,7 +65,7 @@
 [/us/usc/t5/s3595/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3595%2Fa
 [/us/usc/t5/s7511/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7511%2Fa%2F1%2FB
 [/us/usc/t5/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7701
-[/us/pl/104/201/s1632/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1632%2Fb
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2749
 [/us/pl/104/201/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1635
 [/us/usc/t10/s1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1593

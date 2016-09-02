@@ -91,11 +91,11 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–261, div. A, title V, § 521(b)(2)][/us/pl/105/261/s521/b/2], Oct. 17, 1998, [112 Stat. 2011][/us/stat/112/2011], added item for chapter 602.
+    1998—[Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 521(b)(2), Oct. 17, 1998, [112 Stat. 2011][/us/stat/112/2011], added item for chapter 602.
 
-    1991—[Pub. L. 102–190, div. A, title X, § 1061(a)(27)(B)][/us/pl/102/190/s1061/a/27/B], Dec. 5, 1991, [105 Stat. 1474][/us/stat/105/1474], substituted “Education” for “Educational” in item for chapter 609.
+    1991—[Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1061(a)(27)(B), Dec. 5, 1991, [105 Stat. 1474][/us/stat/105/1474], substituted “Education” for “Educational” in item for chapter 609.
 
-    1990—[Pub. L. 101–510, div. A, title IX, § 912(b)][/us/pl/101/510/s912/b], Nov. 5, 1990, [104 Stat. 1627][/us/stat/104/1627], added item for chapter 609.
+    1990—[Pub. L. 101–510, div. A, title IX][/us/pl/101/510/dA/tIX], § 912(b), Nov. 5, 1990, [104 Stat. 1627][/us/stat/104/1627], added item for chapter 609.
 
 ----------
 
@@ -104,11 +104,11 @@
 ----------
 ----------
 
-[/us/pl/105/261/s521/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs521%2Fb%2F2
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2011
-[/us/pl/102/190/s1061/a/27/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fa%2F27%2FB
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1474
-[/us/pl/101/510/s912/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs912%2Fb
+[/us/pl/101/510/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIX
 [/us/stat/104/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1627
 
 

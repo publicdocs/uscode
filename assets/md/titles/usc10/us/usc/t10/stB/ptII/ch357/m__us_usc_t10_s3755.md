@@ -17,7 +17,7 @@
 
     The President shall provide for the presentation of the Medal of Honor Flag designated under [section 903 of title 36][/us/usc/t36/s903] to each person to whom a medal of honor is awarded under [section 3741 of this title][/us/usc/t10/s3741]. Presentation of the flag shall be made at the same time as the presentation of the medal under section 3741 or 3752(a) of this title. In the case of a posthumous presentation of the medal, the flag shall be presented to the person to whom the medal is presented.
 
-(Added [Pub. L. 107–248, title VIII, § 8143(c)(1)(A)][/us/pl/107/248/s8143/c/1/A], Oct. 23, 2002, [116 Stat. 1570][/us/stat/116/1570]; amended [Pub. L. 107–314, div. A, title X, § 1062(a)(16)][/us/pl/107/314/s1062/a/16], Dec. 2, 2002, [116 Stat. 2650][/us/stat/116/2650]; [Pub. L. 109–364, div. A, title V, § 555(a)][/us/pl/109/364/s555/a], Oct. 17, 2006, [120 Stat. 2217][/us/stat/120/2217].)
+(Added [Pub. L. 107–248, title VIII][/us/pl/107/248/tVIII], § 8143(c)(1)(A), Oct. 23, 2002, [116 Stat. 1570][/us/stat/116/1570]; amended [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1062(a)(16), Dec. 2, 2002, [116 Stat. 2650][/us/stat/116/2650]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 555(a), Oct. 17, 2006, [120 Stat. 2217][/us/stat/120/2217].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 
  __Presentation of Flag for Prior Recipients of Medal of Honor__ 
 
-[Pub. L. 109–364, div. A, title V, § 555(b)][/us/pl/109/364/s555/b], Oct. 17, 2006, [120 Stat. 2217][/us/stat/120/2217], provided that:
+[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 555(b), Oct. 17, 2006, [120 Stat. 2217][/us/stat/120/2217], provided that:
 
 >     “(1)  __Living recipients__  __.—__ 
 
@@ -54,17 +54,17 @@
 
 [/us/usc/t36/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs903
 [/us/usc/t10/s3741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3741
-[/us/pl/107/248/s8143/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2Fs8143%2Fc%2F1%2FA
+[/us/pl/107/248/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2FtVIII
 [/us/stat/116/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1570
-[/us/pl/107/314/s1062/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1062%2Fa%2F16
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2650
-[/us/pl/109/364/s555/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs555%2Fa
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2217
 [/us/usc/t10/s3756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3756
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s3741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3741
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
-[/us/pl/109/364/s555/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs555%2Fb
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2217
 [/us/usc/t36/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs903
 

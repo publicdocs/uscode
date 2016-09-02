@@ -17,7 +17,7 @@
 
     The Secretary of the military department concerned may remove an officer from active duty if the removal of such officer from active duty is recommended by a board of inquiry convened under [section 1182 of this title][/us/usc/t10/s1182].
 
-(Added [Pub. L. 96–513, title I, § 110][/us/pl/96/513/s110], Dec. 12, 1980, [94 Stat. 2874][/us/stat/94/2874]; amended [Pub. L. 105–261, div. A, title V, § 503(b)(2)][/us/pl/105/261/s503/b/2], (c)(1), Oct. 17, 1998, [112 Stat. 2003][/us/stat/112/2003].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 110, Dec. 12, 1980, [94 Stat. 2874][/us/stat/94/2874]; amended [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 503(b)(2), (c)(1), Oct. 17, 1998, [112 Stat. 2003][/us/stat/112/2003].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t10/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1182
-[/us/pl/96/513/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs110
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2874
-[/us/pl/105/261/s503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs503%2Fb%2F2
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2003
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t10/s1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1182

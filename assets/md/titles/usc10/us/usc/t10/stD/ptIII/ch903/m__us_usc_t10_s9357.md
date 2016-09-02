@@ -39,7 +39,7 @@
 
     The Secretary of the Air Force shall prescribe regulations for the administration of this section.
 
-(Added [Pub. L. 105–261, div. A, title X, § 1063(c)(1)][/us/pl/105/261/s1063/c/1], Oct. 17, 1998, [112 Stat. 2131][/us/stat/112/2131].)
+(Added [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1063(c)(1), Oct. 17, 1998, [112 Stat. 2131][/us/stat/112/2131].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/105/261/s1063/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1063%2Fc%2F1
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2131
 
 

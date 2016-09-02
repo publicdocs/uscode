@@ -31,7 +31,7 @@
 
     In this section, the term “use for experimental purposes”, with respect to a vessel, includes use of the vessel in a Navy sink exercise or for target purposes.
 
-(Added [Pub. L. 103–160, div. A, title VIII, § 824(b)][/us/pl/103/160/s824/b], Nov. 30, 1993, [107 Stat. 1709][/us/stat/107/1709]; amended [Pub. L. 108–136, div. A, title X, § 1012][/us/pl/108/136/s1012], Nov. 24, 2003, [117 Stat. 1589][/us/stat/117/1589].)
+(Added [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 824(b), Nov. 30, 1993, [107 Stat. 1709][/us/stat/107/1709]; amended [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1012, Nov. 24, 2003, [117 Stat. 1589][/us/stat/117/1589].)
 
  __Prior Provisions__ 
 
@@ -39,15 +39,15 @@
 
  __Amendments__ 
 
-    2003—Subsec. (b). [Pub. L. 108–136, § 1012(a)(1)][/us/pl/108/136/s1012/a/1], inserted “and Environmental Remediation of” before “Vessel” in heading.
+    2003—Subsec. (b). [Pub. L. 108–136][/us/pl/108/136], § 1012(a)(1), inserted “and Environmental Remediation of” before “Vessel” in heading.
 
-    Subsec. (b)(1). [Pub. L. 108–136, § 1012(a)(2)][/us/pl/108/136/s1012/a/2], inserted before period at end “and such environmental remediation of the vessel as is required for the use of the vessel for experimental purposes”.
+    Subsec. (b)(1). [Pub. L. 108–136][/us/pl/108/136], § 1012(a)(2), inserted before period at end “and such environmental remediation of the vessel as is required for the use of the vessel for experimental purposes”.
 
-    Subsec. (b)(2). [Pub. L. 108–136, § 1012(b)(2)][/us/pl/108/136/s1012/b/2], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (b)(2). [Pub. L. 108–136][/us/pl/108/136], § 1012(b)(2), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (b)(3). [Pub. L. 108–136, § 1012(b)(1)][/us/pl/108/136/s1012/b/1], (3), redesignated par. (2) as (3) and substituted “services needed for such stripping and for environmental remediation required for the use of the vessel for experimental purposes. Amounts received in excess of amounts needed for reimbursement of those costs shall be deposited into the account from which the stripping and environmental remediation expenses were incurred and shall be available for stripping and environmental remediation of other vessels to be used for experimental purposes” for “scrapping services needed for such stripping. Amounts received which are in excess of amounts needed for procuring such services shall be deposited into the general fund of the Treasury”.
+    Subsec. (b)(3). [Pub. L. 108–136][/us/pl/108/136], § 1012(b)(1), (3), redesignated par. (2) as (3) and substituted “services needed for such stripping and for environmental remediation required for the use of the vessel for experimental purposes. Amounts received in excess of amounts needed for reimbursement of those costs shall be deposited into the account from which the stripping and environmental remediation expenses were incurred and shall be available for stripping and environmental remediation of other vessels to be used for experimental purposes” for “scrapping services needed for such stripping. Amounts received which are in excess of amounts needed for procuring such services shall be deposited into the general fund of the Treasury”.
 
-    Subsec. (c). [Pub. L. 108–136, § 1012(c)][/us/pl/108/136/s1012/c], added subsec. (c).
+    Subsec. (c). [Pub. L. 108–136][/us/pl/108/136], § 1012(c), added subsec. (c).
 
 ----------
 
@@ -56,16 +56,16 @@
 ----------
 ----------
 
-[/us/pl/103/160/s824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs824%2Fb
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1709
-[/us/pl/108/136/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1012
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1589
 [/us/usc/t10/s7306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7306
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
-[/us/pl/108/136/s1012/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1012%2Fa%2F1
-[/us/pl/108/136/s1012/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1012%2Fa%2F2
-[/us/pl/108/136/s1012/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1012%2Fb%2F2
-[/us/pl/108/136/s1012/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1012%2Fb%2F1
-[/us/pl/108/136/s1012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1012%2Fc
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 
 

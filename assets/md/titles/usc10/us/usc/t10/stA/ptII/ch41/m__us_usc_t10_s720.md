@@ -17,7 +17,7 @@
 
     The President, by and with the advice and consent of the Senate, may appoint a general officer of the Army, Air Force, or Marine Corps or a flag officer of the Navy as the Chief of Staff to the President and may designate such position as a position of importance and responsibility under [section 601 of this title][/us/usc/t10/s601].
 
-(Added [Pub. L. 96–513, title V, § 501(9)(A)][/us/pl/96/513/s501/9/A], Dec. 12, 1980, [94 Stat. 2907][/us/stat/94/2907].)
+(Added [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 501(9)(A), Dec. 12, 1980, [94 Stat. 2907][/us/stat/94/2907].)
 
  __Effective Date__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t10/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs601
-[/us/pl/96/513/s501/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs501%2F9%2FA
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2907
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101

@@ -17,7 +17,7 @@
 
     Subject to regulations under [section 121 of title 40][/us/usc/t40/s121], the Secretary of the Air Force, under such conditions as he may prescribe, may sell obsolete or excess material to the National Council of the Boy Scouts of America. Sales under this section shall be at fair value to the Department of the Air Force, including packing, handling, and transportation.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 583][/us/stat/70A/583]; [Pub. L. 96–513, title V, § 514(18)][/us/pl/96/513/s514/18], Dec. 12, 1980, [94 Stat. 2936][/us/stat/94/2936]; [Pub. L. 107–217, § 3(b)(37)][/us/pl/107/217/s3/b/37], Aug. 21, 2002, [116 Stat. 1298][/us/stat/116/1298].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 583][/us/stat/70A/583]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 514(18), Dec. 12, 1980, [94 Stat. 2936][/us/stat/94/2936]; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(37), Aug. 21, 2002, [116 Stat. 1298][/us/stat/116/1298].)
 
 <table>
 
@@ -85,9 +85,9 @@ May 15, 1937, ch. 193, 50 Stat. 167; Oct. 31, 1951, ch. 654, § 2(7), 65 Stat.
 [/us/usc/t40/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs121
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F583
-[/us/pl/96/513/s514/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs514%2F18
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2936
-[/us/pl/107/217/s3/b/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F37
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1298
 [/us/usc/t40/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs471
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217

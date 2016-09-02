@@ -63,21 +63,21 @@
 
         (4) Funds accepted by the Secretary under paragraph (1) as a donation on behalf of the Center shall be credited to appropriations available to the Department of Defense for the Center. Funds so credited shall be merged with the appropriations to which credited and shall be available for the Center for the same purposes and the same period as the appropriations with which merged.
 
-(Added [Pub. L. 105–85, div. A, title III, § 382(a)(1)][/us/pl/105/85/s382/a/1], Nov. 18, 1997, [111 Stat. 1709][/us/stat/111/1709].)
+(Added [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 382(a)(1), Nov. 18, 1997, [111 Stat. 1709][/us/stat/111/1709].)
 
  __Payments for Education and Training of Personnel of Foreign Countries__ 
 
-[Pub. L. 107–248, title VIII, § 8093][/us/pl/107/248/s8093], Oct. 23, 2002, [116 Stat. 1558][/us/stat/116/1558], provided that: 
+[Pub. L. 107–248, title VIII][/us/pl/107/248/tVIII], § 8093, Oct. 23, 2002, [116 Stat. 1558][/us/stat/116/1558], provided that: 
 
 > “During the current fiscal year and hereafter, under regulations prescribed by the Secretary of Defense, the Center of Excellence for Disaster Management and Humanitarian Assistance \[probably should be Center for Excellence in Disaster Management and Humanitarian Assistance\] may also pay, or authorize payment for, the expenses of providing or facilitating education and training for appropriate military and civilian personnel of foreign countries in disaster management, peace operations, and humanitarian assistance.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 107–117, div. A, title VIII, § 8109][/us/pl/107/117/s8109], Jan. 10, 2002, [115 Stat. 2272][/us/stat/115/2272].
+    [Pub. L. 107–117, div. A, title VIII][/us/pl/107/117/dA/tVIII], § 8109, Jan. 10, 2002, [115 Stat. 2272][/us/stat/115/2272].
 
-    [Pub. L. 106–259, title VIII, § 8109][/us/pl/106/259/s8109], Aug. 9, 2000, [114 Stat. 698][/us/stat/114/698].
+    [Pub. L. 106–259, title VIII][/us/pl/106/259/tVIII], § 8109, Aug. 9, 2000, [114 Stat. 698][/us/stat/114/698].
 
-    [Pub. L. 106–79, title VIII, § 8139][/us/pl/106/79/s8139], Oct. 25, 1999, [113 Stat. 1269][/us/stat/113/1269].
+    [Pub. L. 106–79, title VIII][/us/pl/106/79/tVIII], § 8139, Oct. 25, 1999, [113 Stat. 1269][/us/stat/113/1269].
 
 ----------
 
@@ -86,15 +86,15 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/pl/105/85/s382/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs382%2Fa%2F1
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1709
-[/us/pl/107/248/s8093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2Fs8093
+[/us/pl/107/248/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2FtVIII
 [/us/stat/116/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1558
-[/us/pl/107/117/s8109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs8109
+[/us/pl/107/117/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdA%2FtVIII
 [/us/stat/115/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2272
-[/us/pl/106/259/s8109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F259%2Fs8109
+[/us/pl/106/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F259%2FtVIII
 [/us/stat/114/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F698
-[/us/pl/106/79/s8139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79%2Fs8139
+[/us/pl/106/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79%2FtVIII
 [/us/stat/113/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1269
 
 

@@ -35,11 +35,11 @@
 
     (c) The Chief Information Officer takes precedence in the Department of Defense with the officials serving in positions specified in [section 131(b)(4) of this title][/us/usc/t10/s131/b/4]. The officials serving in positions specified in section 131(b)(4) and the Chief Information Officer of the Department of Defense take precedence among themselves in the order prescribed by the Secretary of Defense.
 
-(Added and amended [Pub. L. 113–291, div. A, title IX, § 901(b)(1)][/us/pl/113/291/s901/b/1], (j)(1)(B), Dec. 19, 2014, [128 Stat. 3463][/us/stat/128/3463], 3467.)
+(Added and amended [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(b)(1), (j)(1)(B), Dec. 19, 2014, [128 Stat. 3463][/us/stat/128/3463], 3467.)
 
  __Amendment of Section__ 
 
-    [Pub. L. 113–291, div. A, title IX, § 901(j)(1)(B)][/us/pl/113/291/s901/j/1/B], Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467], provided that, effective Feb. 1, 2017, this section is amended by striking subsection (c). See 2014 Amendment note below.
+    [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(j)(1)(B), Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467], provided that, effective Feb. 1, 2017, this section is amended by striking subsection (c). See 2014 Amendment note below.
 
  __Prior Provisions__ 
 
@@ -49,11 +49,11 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c). [Pub. L. 113–291, § 901(j)(1)(B)][/us/pl/113/291/s901/j/1/B], struck out subsec. (c) which read as follows: “The Chief Information Officer takes precedence in the Department of Defense with the officials serving in positions specified in [section 131(b)(4) of this title][/us/usc/t10/s131/b/4]. The officials serving in positions specified in section 131(b)(4) and the Chief Information Officer of the Department of Defense take precedence among themselves in the order prescribed by the Secretary of Defense.”
+    2014—Subsec. (c). [Pub. L. 113–291][/us/pl/113/291], § 901(j)(1)(B), struck out subsec. (c) which read as follows: “The Chief Information Officer takes precedence in the Department of Defense with the officials serving in positions specified in [section 131(b)(4) of this title][/us/usc/t10/s131/b/4]. The officials serving in positions specified in section 131(b)(4) and the Chief Information Officer of the Department of Defense take precedence among themselves in the order prescribed by the Secretary of Defense.”
 
  __Effective Date of 2014 Amendment__ 
 
-    [Pub. L. 113–291, div. A, title IX, § 901(j)(1)][/us/pl/113/291/s901/j/1], Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467], provided that the amendment made by section 901(j)(1)(B) is effective on the effective date specified in [section 901(a)(1) of Pub. L. 113–291][/us/pl/113/291/s901/a/1], which is Feb. 1, 2017.
+    [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(j)(1), Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467], provided that the amendment made by section 901(j)(1)(B) is effective on the effective date specified in [section 901(a)(1) of Pub. L. 113–291][/us/pl/113/291/s901/a/1], which is Feb. 1, 2017.
 
 ----------
 
@@ -64,18 +64,18 @@
 
 [/us/usc/t40/s11315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11315
 [/us/usc/t10/s131/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131%2Fb%2F4
-[/us/pl/113/291/s901/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fb%2F1
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3463
-[/us/pl/113/291/s901/j/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fj%2F1%2FB
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3467
 [/us/usc/t10/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs142
 [/us/usc/t10/s138d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138d
 [/us/usc/t10/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs142
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t10/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs151
-[/us/pl/113/291/s901/j/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fj%2F1%2FB
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t10/s131/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131%2Fb%2F4
-[/us/pl/113/291/s901/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fj%2F1
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3467
 [/us/pl/113/291/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fa%2F1
 

@@ -19,7 +19,7 @@
 
     (b) While operating as a service in the Navy, the Coast Guard is subject to the orders of the Secretary of the Navy, who may order changes in Coast Guard operations to make them uniform, to the extent he considers advisable, with Navy operations.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 279][/us/stat/70A/279], § 5032; [Pub. L. 96–513, title V, § 513(3)][/us/pl/96/513/s513/3], Dec. 12, 1980, [94 Stat. 2931][/us/stat/94/2931]; renumbered § 5013a, [Pub. L. 99–433, title V, § 511(c)(3)][/us/pl/99/433/s511/c/3], Oct. 1, 1986, [100 Stat. 1045][/us/stat/100/1045]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 279][/us/stat/70A/279], § 5032; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(3), Dec. 12, 1980, [94 Stat. 2931][/us/stat/94/2931]; renumbered § 5013a, [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 511(c)(3), Oct. 1, 1986, [100 Stat. 1045][/us/stat/100/1045]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
  __Historical and Revision Notes__ 
 
@@ -49,11 +49,11 @@
 [/us/usc/t14/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs3
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F279
-[/us/pl/96/513/s513/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F3
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2931
-[/us/pl/99/433/s511/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fc%2F3
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1045
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/usc/t14/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs5
 [/us/usc/t14/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs3

@@ -31,7 +31,7 @@
 
     (c) Not more than 1,000,000 members of the Ready Reserve may be on active duty, without their consent, under this section at any one time.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 28][/us/stat/70A/28], § 673; [Pub. L. 85–861][/us/pl/85/861], §§ 1(14), 33(a)(5), Sept. 2, 1958, [72 Stat. 1441][/us/stat/72/1441], 1564; [Pub. L. 93–155, title III, § 303(a)][/us/pl/93/155/s303/a], Nov. 16, 1973, [87 Stat. 607][/us/stat/87/607]; renumbered § 12302, [Pub. L. 103–337, div. A, title XVI, § 1662(e)(2)][/us/pl/103/337/s1662/e/2], Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(2)][/us/pl/104/106/s1502/a/2], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X, § 1031(a)(61)][/us/pl/108/136/s1031/a/61], Nov. 24, 2003, [117 Stat. 1603][/us/stat/117/1603]; [Pub. L. 108–375, div. A, title V, § 514(b)][/us/pl/108/375/s514/b], Oct. 28, 2004, [118 Stat. 1883][/us/stat/118/1883]; [Pub. L. 112–81, div. A, title X, § 1061(28)][/us/pl/112/81/s1061/28], (30), Dec. 31, 2011, [125 Stat. 1584][/us/stat/125/1584].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 28][/us/stat/70A/28], § 673; [Pub. L. 85–861][/us/pl/85/861], §§ 1(14), 33(a)(5), Sept. 2, 1958, [72 Stat. 1441][/us/stat/72/1441], 1564; [Pub. L. 93–155, title III][/us/pl/93/155/tIII], § 303(a), Nov. 16, 1973, [87 Stat. 607][/us/stat/87/607]; renumbered § 12302, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(e)(2), Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1502(a)(2), Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(61), Nov. 24, 2003, [117 Stat. 1603][/us/stat/117/1603]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 514(b), Oct. 28, 2004, [118 Stat. 1883][/us/stat/118/1883]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1061(28), (30), Dec. 31, 2011, [125 Stat. 1584][/us/stat/125/1584].)
 
 <table>
 
@@ -165,11 +165,11 @@ Aug. 9, 1955, ch. 665, § 2(f), 69 Stat. 599.  </td>
 
     1958—Subsec. (a). [Pub. L. 85–861][/us/pl/85/861], §§ 1(14)(A), 33(a)(5), inserted “(other than for training)” after “active duty”, and struck out provisions that made subsection inapplicable unless Congress determined how many members of the reserve components were necessary, in the interest of national security, to be ordered to active duty.
 
-    Subsec. (c). [Pub. L. 85–861, § 1(14)(B)][/us/pl/85/861/s1/14/B], added subsec. (c).
+    Subsec. (c). [Pub. L. 85–861][/us/pl/85/861], § 1(14)(B), added subsec. (c).
 
  __Effective Date of 1973 Amendment__ 
 
-[Pub. L. 93–155, title III, § 303(b)][/us/pl/93/155/s303/b], Nov. 16, 1973, [87 Stat. 608][/us/stat/87/608], provided that: 
+[Pub. L. 93–155, title III][/us/pl/93/155/tIII], § 303(b), Nov. 16, 1973, [87 Stat. 608][/us/stat/87/608], provided that: 
 
 > “The amendment made by subsection (a) of this section \[amending this section\] shall be effective with respect to any unit of the Ready Reserve ordered to active duty on or after the date of enactment of this Act \[Nov. 16, 1973\].”
 
@@ -218,19 +218,19 @@ Aug. 9, 1955, ch. 665, § 2(f), 69 Stat. 599.  </td>
 [/us/stat/70A/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F28
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1441
-[/us/pl/93/155/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2Fs303%2Fa
+[/us/pl/93/155/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2FtIII
 [/us/stat/87/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F607
-[/us/pl/103/337/s1662/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fe%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2992
-[/us/pl/104/106/s1502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F2
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F502
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/108/136/s1031/a/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F61
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1603
-[/us/pl/108/375/s514/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs514%2Fb
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1883
-[/us/pl/112/81/s1061/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F28
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1584
 [/us/usc/t50/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs901%2Fb
 [/us/usc/t50/s961/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs961%2Fa
@@ -243,8 +243,8 @@ Aug. 9, 1955, ch. 665, § 2(f), 69 Stat. 599.  </td>
 [/us/usc/t10/s673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs673
 [/us/pl/93/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
-[/us/pl/85/861/s1/14/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F14%2FB
-[/us/pl/93/155/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2Fs303%2Fb
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
+[/us/pl/93/155/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F155%2FtIII
 [/us/stat/87/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F608
 [/us/pl/85/861/s33/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F5
 [/us/pl/85/861/s33/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fg

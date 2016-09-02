@@ -123,19 +123,19 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–163, div. A, title XI, § 1104(d)(2)][/us/pl/109/163/s1104/d/2], Jan. 6, 2006, [119 Stat. 3450][/us/stat/119/3450], added item 2192a.
+    2006—[Pub. L. 109–163, div. A, title XI][/us/pl/109/163/dA/tXI], § 1104(d)(2), Jan. 6, 2006, [119 Stat. 3450][/us/stat/119/3450], added item 2192a.
 
-    1999—[Pub. L. 106–65, div. A, title V, § 580(d)(3)][/us/pl/106/65/s580/d/3], Oct. 5, 1999, [113 Stat. 633][/us/stat/113/633], added items 2192, 2193, 2193a, and 2193b and struck out former items 2192 “Science, mathematics, and engineering education” and 2193 “Science and mathematics education improvement program”.
+    1999—[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 580(d)(3), Oct. 5, 1999, [113 Stat. 633][/us/stat/113/633], added items 2192, 2193, 2193a, and 2193b and struck out former items 2192 “Science, mathematics, and engineering education” and 2193 “Science and mathematics education improvement program”.
 
-    1992—[Pub. L. 102–484, div. D, title XLII, § 4238(b)(2)][/us/pl/102/484/s4238/b/2], Oct. 23, 1992, [106 Stat. 2694][/us/stat/106/2694], substituted “experts” for “managers” in item 2197.
+    1992—[Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4238(b)(2), Oct. 23, 1992, [106 Stat. 2694][/us/stat/106/2694], substituted “experts” for “managers” in item 2197.
 
-    1991—[Pub. L. 102–190, div. A, title VIII][/us/pl/102/190], §§ 825(a)(2), 828(b), Dec. 5, 1991, [105 Stat. 1442][/us/stat/105/1442], 1444, struck out item 2196 “Definition” and added items 2196 to 2199.
+    1991—[Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], §§ 825(a)(2), 828(b), Dec. 5, 1991, [105 Stat. 1442][/us/stat/105/1442], 1444, struck out item 2196 “Definition” and added items 2196 to 2199.
 
-    1990—[Pub. L. 101–510, div. A, title II, § 247(a)(2)(A)][/us/pl/101/510/s247/a/2/A], (C), Nov. 5, 1990, [104 Stat. 1523][/us/stat/104/1523], substituted “SUPPORT OF SCIENCE, MATHEMATICS, AND ENGINEERING EDUCATION” for “NATIONAL DEFENSE SCIENCE AND ENGINEERING GRADUATE FELLOWSHIPS” in chapter heading and added items 2192 to 2196.
+    1990—[Pub. L. 101–510, div. A, title II][/us/pl/101/510/dA/tII], § 247(a)(2)(A), (C), Nov. 5, 1990, [104 Stat. 1523][/us/stat/104/1523], substituted “SUPPORT OF SCIENCE, MATHEMATICS, AND ENGINEERING EDUCATION” for “NATIONAL DEFENSE SCIENCE AND ENGINEERING GRADUATE FELLOWSHIPS” in chapter heading and added items 2192 to 2196.
 
  __Encouragement of Contractor Science, Technology, Engineering, and Math (STEM) Programs__ 
 
-[Pub. L. 112–81, div. A, title VIII, § 862][/us/pl/112/81/s862], Dec. 31, 2011, [125 Stat. 1521][/us/stat/125/1521], provided that:
+[Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 862, Dec. 31, 2011, [125 Stat. 1521][/us/stat/125/1521], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -166,17 +166,17 @@
 ----------
 ----------
 
-[/us/pl/109/163/s1104/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1104%2Fd%2F2
+[/us/pl/109/163/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtXI
 [/us/stat/119/3450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3450
-[/us/pl/106/65/s580/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs580%2Fd%2F3
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F633
-[/us/pl/102/484/s4238/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4238%2Fb%2F2
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2694
-[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1442
-[/us/pl/101/510/s247/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs247%2Fa%2F2%2FA
+[/us/pl/101/510/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtII
 [/us/stat/104/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1523
-[/us/pl/112/81/s862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs862
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1521
 
 

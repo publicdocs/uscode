@@ -27,7 +27,7 @@
 
     shall be punished as a court-martial may direct.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 69][/us/stat/70A/69]; [Pub. L. 104–106, div. A, title XI, § 1112(a)][/us/pl/104/106/s1112/a], Feb. 10, 1996, [110 Stat. 461][/us/stat/110/461].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 69][/us/stat/70A/69]; [Pub. L. 104–106, div. A, title XI][/us/pl/104/106/dA/tXI], § 1112(a), Feb. 10, 1996, [110 Stat. 461][/us/stat/110/461].)
 
 <table>
 
@@ -86,7 +86,7 @@ May 5, 1950, ch. 169, § 1 (Art. 95), 64 Stat. 136.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F69
-[/us/pl/104/106/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1112%2Fa
+[/us/pl/104/106/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXI
 [/us/stat/110/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F461
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 

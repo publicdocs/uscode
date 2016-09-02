@@ -99,7 +99,7 @@
 
     The Secretary of a military department may provide base operating support for Fisher Houses associated with facilities of that military department.
 
-(Added [Pub. L. 105–261, div. A, title IX, § 906(a)(1)][/us/pl/105/261/s906/a/1], Oct. 17, 1998, [112 Stat. 2093][/us/stat/112/2093]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 914(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–230; [Pub. L. 107–314, div. A, title III, § 321][/us/pl/107/314/s321], Dec. 2, 2002, [116 Stat. 2510][/us/stat/116/2510]; [Pub. L. 112–81, div. A, title X, § 1061(17)][/us/pl/112/81/s1061/17], Dec. 31, 2011, [125 Stat. 1584][/us/stat/125/1584]; [Pub. L. 112–239, div. A, title VI, § 652(a)][/us/pl/112/239/s652/a], (b), Jan. 2, 2013, [126 Stat. 1784][/us/stat/126/1784]; [Pub. L. 114–92, div. A, title VI, § 622(b)][/us/pl/114/92/s622/b], Nov. 25, 2015, [129 Stat. 841][/us/stat/129/841].)
+(Added [Pub. L. 105–261, div. A, title IX][/us/pl/105/261/dA/tIX], § 906(a)(1), Oct. 17, 1998, [112 Stat. 2093][/us/stat/112/2093]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 914(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–230; [Pub. L. 107–314, div. A, title III][/us/pl/107/314/dA/tIII], § 321, Dec. 2, 2002, [116 Stat. 2510][/us/stat/116/2510]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1061(17), Dec. 31, 2011, [125 Stat. 1584][/us/stat/125/1584]; [Pub. L. 112–239, div. A, title VI][/us/pl/112/239/dA/tVI], § 652(a), (b), Jan. 2, 2013, [126 Stat. 1784][/us/stat/126/1784]; [Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], § 622(b), Nov. 25, 2015, [129 Stat. 841][/us/stat/129/841].)
 
  __Amendments__ 
 
@@ -107,9 +107,9 @@
 
     2013—Subsec. (a)(1)(B). [Pub. L. 112–239][/us/pl/112/239]. § 652(a)(1), substituted “by authorized Fisher House residents;” for “by patients of that health care facility, members of the families of such patients, and others providing the equivalent of familial support for such patients;”.
 
-    Subsec. (a)(2) to (4). [Pub. L. 112–239, § 652(a)(2)][/us/pl/112/239/s652/a/2]–(4), added pars. (2) and (4) and redesignated former par. (2) as (3).
+    Subsec. (a)(2) to (4). [Pub. L. 112–239][/us/pl/112/239], § 652(a)(2)–(4), added pars. (2) and (4) and redesignated former par. (2) as (3).
 
-    Subsecs. (b), (e), (f). [Pub. L. 112–239, § 652(b)][/us/pl/112/239/s652/b], struck out “health care” before “facilities” wherever appearing.
+    Subsecs. (b), (e), (f). [Pub. L. 112–239][/us/pl/112/239], § 652(b), struck out “health care” before “facilities” wherever appearing.
 
     2011—Subsec. (g). [Pub. L. 112–81][/us/pl/112/81] struck out subsec. (g), which required submission of annual report describing the operation of Fisher Houses and Fisher Suites associated with military department health care facilities.
 
@@ -119,13 +119,13 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 914(c)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–230, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 914(c)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–230, provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall be effective as of October 17, 1998, as if included in [section 2493 of title 10][/us/usc/t10/s2493], United States Code, as enacted by [section 906(a) of Public Law 105–261][/us/pl/105/261/s906/a].”
 
  __Savings Provisions for Certain Navy Employees__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 914(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–230, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 914(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–230, provided that:
 
 >     “(1) The Secretary of the Navy may continue to employ, and pay out of appropriated funds, any employee of the Navy in the competitive service who, as of October 17, 1998, was employed by the Navy in a position at a Fisher House administered by the Navy, but only for so long as the employee is continuously employed in that position.
 
@@ -139,7 +139,7 @@
 
 >         “(B) The term ‘competitive service’ has the meaning given the term in [section 2102 of title 5][/us/usc/t5/s2102], United States Code.”
 
-\[[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 914(c)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–230, provided that: 
+\[[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 914(c)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–230, provided that: 
 
 > “Subsection (b) \[set out above\] applies with respect to the pay period that includes October 17, 1998, and subsequent pay periods.”
 
@@ -147,7 +147,7 @@
 
  __Establishment of Funds and Funding Transition__ 
 
-[Pub. L. 105–261, div. A, title IX, § 906(b)][/us/pl/105/261/s906/b]–(e), Oct. 17, 1998, [112 Stat. 2095][/us/stat/112/2095], provided that:
+[Pub. L. 105–261, div. A, title IX][/us/pl/105/261/dA/tIX], § 906(b)–(e), Oct. 17, 1998, [112 Stat. 2095][/us/stat/112/2095], provided that:
 
 >     “(b)  __Establishment of Funds__  __.—__ 
 
@@ -183,36 +183,36 @@
 ----------
 
 [/us/usc/t37/s481f/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs481f%2Fd
-[/us/pl/105/261/s906/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs906%2Fa%2F1
+[/us/pl/105/261/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIX
 [/us/stat/112/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2093
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/314/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs321
+[/us/pl/107/314/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtIII
 [/us/stat/116/2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2510
-[/us/pl/112/81/s1061/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F17
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1584
-[/us/pl/112/239/s652/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs652%2Fa
+[/us/pl/112/239/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVI
 [/us/stat/126/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1784
-[/us/pl/114/92/s622/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs622%2Fb
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F841
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/112/239/s652/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs652%2Fa%2F2
-[/us/pl/112/239/s652/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs652%2Fb
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s2493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2493
 [/us/pl/105/261/s906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs906%2Fa
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s2493/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2493%2Fa%2F1
 [/us/usc/t5/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2102
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/105/261/s906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs906%2Fb
+[/us/pl/105/261/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIX
 [/us/stat/112/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2095
 [/us/usc/t10/s2493/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2493%2Fd
 [/us/stat/112/1960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1960

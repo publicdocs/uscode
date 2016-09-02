@@ -37,7 +37,7 @@
 
     In this section, the term “recognition item of nominal or modest value” means a commemorative coin, medal, trophy, badge, flag, poster, painting, or other similar item that is valued at less than $50 per item and is designed to recognize or commemorate service in the armed forces.
 
-(Added [Pub. L. 109–163, div. A, title V, § 589(a)(1)][/us/pl/109/163/s589/a/1], Jan. 6, 2006, [119 Stat. 3279][/us/stat/119/3279]; amended [Pub. L. 109–364, div. A, title V, § 594][/us/pl/109/364/s594], Oct. 17, 2006, [120 Stat. 2235][/us/stat/120/2235].)
+(Added [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 589(a)(1), Jan. 6, 2006, [119 Stat. 3279][/us/stat/119/3279]; amended [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 594, Oct. 17, 2006, [120 Stat. 2235][/us/stat/120/2235].)
 
  __Amendments__ 
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/usc/t10/s520c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs520c
-[/us/pl/109/163/s589/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs589%2Fa%2F1
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3279
-[/us/pl/109/364/s594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs594
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2235
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 

@@ -125,11 +125,11 @@
 
     An agreement entered into under the authority of this section shall be treated as a Federal agency procurement for the purposes of chapter 21 of title 41.
 
-(Added [Pub. L. 114–92, div. A, title VIII, § 815(a)(1)][/us/pl/114/92/s815/a/1], Nov. 25, 2015, [129 Stat. 893][/us/stat/129/893].)
+(Added [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 815(a)(1), Nov. 25, 2015, [129 Stat. 893][/us/stat/129/893].)
 
  __Updated Guidance__ 
 
-[Pub. L. 114–92, div. A, title VIII, § 815(e)][/us/pl/114/92/s815/e], Nov. 25, 2015, [129 Stat. 896][/us/stat/129/896], provided that: 
+[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 815(e), Nov. 25, 2015, [129 Stat. 896][/us/stat/129/896], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall issue updated guidance to implement the amendments made by this section \[enacting this section, amending [section 2302 of this title][/us/usc/t10/s2302], amending provisions set out as a note under [section 2358 of this title][/us/usc/t10/s2358], and repealing provisions set out as a note under [section 2371 of this title][/us/usc/t10/s2371]\].”
 
@@ -146,9 +146,9 @@
 [/us/usc/t10/s2302/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F9
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/usc/t10/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304
-[/us/pl/114/92/s815/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs815%2Fa%2F1
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F893
-[/us/pl/114/92/s815/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs815%2Fe
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F896
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
 [/us/usc/t10/s2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2358

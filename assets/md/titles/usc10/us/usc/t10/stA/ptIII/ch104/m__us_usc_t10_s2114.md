@@ -101,25 +101,25 @@
 
     (i) A graduate of the University who is relieved of the graduate’s active-duty service obligation under subsection (c) before the completion of that active-duty service obligation may be given, with or without the consent of the graduate, an alternative obligation in the same manner as provided in subparagraphs (A) and (B) of paragraph (1) of [section 2123(e) of this title][/us/usc/t10/s2123/e] or paragraph (2) of such section for members of the Armed Forces Health Professions Scholarship and Financial Assistance program.
 
-(Added [Pub. L. 92–426, § 2(a)][/us/pl/92/426/s2/a], Sept. 21, 1972, [86 Stat. 715][/us/stat/86/715]; amended [Pub. L. 96–107, title VIII, § 803(b)][/us/pl/96/107/s803/b], Nov. 9, 1979, [93 Stat. 812][/us/stat/93/812]; [Pub. L. 96–513, title I, § 114][/us/pl/96/513/s114], title V, § 511(65), Dec. 12, 1980, [94 Stat. 2877][/us/stat/94/2877], 2926; [Pub. L. 98–525, title XV, § 1535][/us/pl/98/525/s1535], Oct. 19, 1984, [98 Stat. 2633][/us/stat/98/2633]; [Pub. L. 101–189, div. A, title V, § 511(a)][/us/pl/101/189/s511/a], Nov. 29, 1989, [103 Stat. 1439][/us/stat/103/1439]; [Pub. L. 101–510, div. A, title V, § 533(a)][/us/pl/101/510/s533/a], (b), Nov. 5, 1990, [104 Stat. 1564][/us/stat/104/1564]; [Pub. L. 103–160, div. A, title VII, § 732(a)][/us/pl/103/160/s732/a], Nov. 30, 1993, [107 Stat. 1696][/us/stat/107/1696]; [Pub. L. 104–106, div. A, title X, § 1072(b)(3)][/us/pl/104/106/s1072/b/3], Feb. 10, 1996, [110 Stat. 446][/us/stat/110/446]; [Pub. L. 104–201, div. A, title VII, § 741(b)][/us/pl/104/201/s741/b], Sept. 23, 1996, [110 Stat. 2599][/us/stat/110/2599]; [Pub. L. 105–85, div. A, title X, § 1073(a)(38)][/us/pl/105/85/s1073/a/38], Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902]; [Pub. L. 108–375, div. A, title V, § 501(e)][/us/pl/108/375/s501/e], Oct. 28, 2004, [118 Stat. 1874][/us/stat/118/1874]; [Pub. L. 110–181, div. A, title V, § 524(a)][/us/pl/110/181/s524/a], title IX, § 954(a)(3)(B), (b)(2), Jan. 28, 2008, [122 Stat. 103][/us/stat/122/103], 294; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(8), (9), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613].)
+(Added [Pub. L. 92–426][/us/pl/92/426], § 2(a), Sept. 21, 1972, [86 Stat. 715][/us/stat/86/715]; amended [Pub. L. 96–107, title VIII][/us/pl/96/107/tVIII], § 803(b), Nov. 9, 1979, [93 Stat. 812][/us/stat/93/812]; [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 114, title V, § 511(65), Dec. 12, 1980, [94 Stat. 2877][/us/stat/94/2877], 2926; [Pub. L. 98–525, title XV][/us/pl/98/525/tXV], § 1535, Oct. 19, 1984, [98 Stat. 2633][/us/stat/98/2633]; [Pub. L. 101–189, div. A, title V][/us/pl/101/189/dA/tV], § 511(a), Nov. 29, 1989, [103 Stat. 1439][/us/stat/103/1439]; [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 533(a), (b), Nov. 5, 1990, [104 Stat. 1564][/us/stat/104/1564]; [Pub. L. 103–160, div. A, title VII][/us/pl/103/160/dA/tVII], § 732(a), Nov. 30, 1993, [107 Stat. 1696][/us/stat/107/1696]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1072(b)(3), Feb. 10, 1996, [110 Stat. 446][/us/stat/110/446]; [Pub. L. 104–201, div. A, title VII][/us/pl/104/201/dA/tVII], § 741(b), Sept. 23, 1996, [110 Stat. 2599][/us/stat/110/2599]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(38), Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 501(e), Oct. 28, 2004, [118 Stat. 1874][/us/stat/118/1874]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 524(a), title IX, § 954(a)(3)(B), (b)(2), Jan. 28, 2008, [122 Stat. 103][/us/stat/122/103], 294; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(8), (9), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613].)
 
  __Amendments__ 
 
-    2008—Subsecs. (b), (c). [Pub. L. 110–181, § 524(a)(1)(B)][/us/pl/110/181/s524/a/1/B], (2)(A), designated first 3 sentences of subsec. (b) as subsec. (b)(1), added subsec. (b)(2), designated last 3 sentences of subsec. (b) as subsec. (c), and substituted “Medical students who graduate” for “Upon graduation they”. Former subsec. (c) redesignated (d).
+    2008—Subsecs. (b), (c). [Pub. L. 110–181][/us/pl/110/181], § 524(a)(1)(B), (2)(A), designated first 3 sentences of subsec. (b) as subsec. (b)(1), added subsec. (b)(2), designated last 3 sentences of subsec. (b) as subsec. (c), and substituted “Medical students who graduate” for “Upon graduation they”. Former subsec. (c) redesignated (d).
 
-    Subsecs. (d) to (f). [Pub. L. 110–181, § 524(a)(1)(A)][/us/pl/110/181/s524/a/1/A], redesignated subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g).
+    Subsecs. (d) to (f). [Pub. L. 110–181][/us/pl/110/181], § 524(a)(1)(A), redesignated subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g).
 
-    Subsec. (f)(3), (5). [Pub. L. 110–181, § 954(b)(2)][/us/pl/110/181/s954/b/2], as amended by [Pub. L. 110–417, § 1061(b)(9)][/us/pl/110/417/s1061/b/9], substituted “President” for “Dean” wherever appearing.
+    Subsec. (f)(3), (5). [Pub. L. 110–181][/us/pl/110/181], § 954(b)(2), as amended by [Pub. L. 110–417][/us/pl/110/417], § 1061(b)(9), substituted “President” for “Dean” wherever appearing.
 
-    Subsec. (g). [Pub. L. 110–181, § 524(a)(1)(A)][/us/pl/110/181/s524/a/1/A], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 110–181][/us/pl/110/181], § 524(a)(1)(A), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 110–181, § 954(a)(3)(B)][/us/pl/110/181/s954/a/3/B], as amended by [Pub. L. 110–417, § 1061(b)(8)][/us/pl/110/417/s1061/b/8], substituted “2113(e)” for “2113(h)”.
+    Subsec. (h). [Pub. L. 110–181][/us/pl/110/181], § 954(a)(3)(B), as amended by [Pub. L. 110–417][/us/pl/110/417], § 1061(b)(8), substituted “2113(e)” for “2113(h)”.
 
-    [Pub. L. 110–181, § 524(a)(1)(A)][/us/pl/110/181/s524/a/1/A], redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+    [Pub. L. 110–181][/us/pl/110/181], § 524(a)(1)(A), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-    Subsec. (i). [Pub. L. 110–181, § 524(a)(2)(B)][/us/pl/110/181/s524/a/2/B], substituted “subsection (c)” for “subsection (b)”.
+    Subsec. (i). [Pub. L. 110–181][/us/pl/110/181], § 524(a)(2)(B), substituted “subsection (c)” for “subsection (b)”.
 
-    [Pub. L. 110–181, § 524(a)(1)(A)][/us/pl/110/181/s524/a/1/A], redesignated subsec. (h) as (i).
+    [Pub. L. 110–181][/us/pl/110/181], § 524(a)(1)(A), redesignated subsec. (h) as (i).
 
     2004—Subsec. (b). [Pub. L. 108–375][/us/pl/108/375], in introductory provisions, substituted “They shall be appointed as regular officers in the grade of second lieutenant or ensign and shall serve on active duty in that grade. Upon graduation they shall be required to serve on active duty” for “Notwithstanding any other provision of law, they shall serve on active duty in pay grade O–1 with full pay and allowances of that grade. Upon graduation they shall be appointed in a regular component, if qualified,”.
 
@@ -129,29 +129,29 @@
 
     Subsec. (h). [Pub. L. 104–201][/us/pl/104/201] added subsec. (h).
 
-    1993—Subsec. (a). [Pub. L. 103–160, § 732(a)(1)][/us/pl/103/160/s732/a/1], substituted “Medical students” for “Students” in first sentence.
+    1993—Subsec. (a). [Pub. L. 103–160][/us/pl/103/160], § 732(a)(1), substituted “Medical students” for “Students” in first sentence.
 
-    Subsec. (b). [Pub. L. 103–160, § 732(a)(2)][/us/pl/103/160/s732/a/2], substituted “Medical students” for “Students” in two places.
+    Subsec. (b). [Pub. L. 103–160][/us/pl/103/160], § 732(a)(2), substituted “Medical students” for “Students” in two places.
 
-    Subsec. (d). [Pub. L. 103–160, § 732(a)(3)][/us/pl/103/160/s732/a/3], substituted “medical student” for “member of the program” in first sentence and “any such student” for “any such member” in two places in second sentence.
+    Subsec. (d). [Pub. L. 103–160][/us/pl/103/160], § 732(a)(3), substituted “medical student” for “member of the program” in first sentence and “any such student” for “any such member” in two places in second sentence.
 
-    Subsec. (g). [Pub. L. 103–160, § 732(a)(4)][/us/pl/103/160/s732/a/4], added subsec. (g).
+    Subsec. (g). [Pub. L. 103–160][/us/pl/103/160], § 732(a)(4), added subsec. (g).
 
-    1990—Subsec. (b). [Pub. L. 101–510, § 533(b)(1)][/us/pl/101/510/s533/b/1], after fourth sentence inserted provisions relating to the time obligation to be served in the Ready Reserve upon completion of, or release from, the active-duty service obligation for members of the program who served on active duty for less than 10 years.
+    1990—Subsec. (b). [Pub. L. 101–510][/us/pl/101/510], § 533(b)(1), after fourth sentence inserted provisions relating to the time obligation to be served in the Ready Reserve upon completion of, or release from, the active-duty service obligation for members of the program who served on active duty for less than 10 years.
 
-    [Pub. L. 101–510, § 533(a)][/us/pl/101/510/s533/a], substituted “seven years” for “10 years” in fourth sentence.
+    [Pub. L. 101–510][/us/pl/101/510], § 533(a), substituted “seven years” for “10 years” in fourth sentence.
 
-    Subsec. (c). [Pub. L. 101–510, § 533(b)(2)][/us/pl/101/510/s533/b/2], substituted “a commissioned service obligation” for “an active duty obligation”.
+    Subsec. (c). [Pub. L. 101–510][/us/pl/101/510], § 533(b)(2), substituted “a commissioned service obligation” for “an active duty obligation”.
 
-    Subsec. (f). [Pub. L. 101–510, § 533(b)(3)][/us/pl/101/510/s533/b/3], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–510][/us/pl/101/510], § 533(b)(3), added subsec. (f).
 
     1989—Subsec. (b). [Pub. L. 101–189][/us/pl/101/189] substituted “10 years” for “seven years” in fourth sentence.
 
     1984—Subsec. (e). [Pub. L. 98–525][/us/pl/98/525] added subsec. (e).
 
-    1980—Subsec. (b). [Pub. L. 96–513, § 511(65)][/us/pl/96/513/s511/65], substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” wherever appearing.
+    1980—Subsec. (b). [Pub. L. 96–513][/us/pl/96/513], § 511(65), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” wherever appearing.
 
-    [Pub. L. 96–513, § 114][/us/pl/96/513/s114], struck out provision under which officers attending the Uniformed Services University of Health Sciences were not counted against authorized military strengths.
+    [Pub. L. 96–513][/us/pl/96/513], § 114, struck out provision under which officers attending the Uniformed Services University of Health Sciences were not counted against authorized military strengths.
 
     1979—Subsec. (b). [Pub. L. 96–107][/us/pl/96/107] substituted “uniformed” for “uniform”.
 
@@ -165,25 +165,25 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–201, div. A, title VII, § 741(c)][/us/pl/104/201/s741/c], Sept. 23, 1996, [110 Stat. 2600][/us/stat/110/2600], provided that: 
+[Pub. L. 104–201, div. A, title VII][/us/pl/104/201/dA/tVII], § 741(c), Sept. 23, 1996, [110 Stat. 2600][/us/stat/110/2600], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 2123 of this title][/us/usc/t10/s2123]\] shall apply with respect to individuals who first become members of the Armed Forces Health Professions Scholarship and Financial Assistance program or students of the Uniformed Services University of the Health Sciences on or after October 1, 1996.”
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–160, div. A, title VII, § 732(b)][/us/pl/103/160/s732/b], Nov. 30, 1993, [107 Stat. 1697][/us/stat/107/1697], provided that: 
+[Pub. L. 103–160, div. A, title VII][/us/pl/103/160/dA/tVII], § 732(b), Nov. 30, 1993, [107 Stat. 1697][/us/stat/107/1697], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to students attending the Uniformed Services University of the Health Sciences on or after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–510, div. A, title V, § 533(d)][/us/pl/101/510/s533/d], Nov. 5, 1990, [104 Stat. 1564][/us/stat/104/1564], provided that: 
+[Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 533(d), Nov. 5, 1990, [104 Stat. 1564][/us/stat/104/1564], provided that: 
 
 > “The amendment made by subsection (b) \[amending this section\] shall take effect on December 31, 1991, and shall apply to persons who are first admitted to the Uniformed Services University of the Health Sciences after that date.”
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–189, div. A, title V, § 511(e)][/us/pl/101/189/s511/e], Nov. 29, 1989, [103 Stat. 1439][/us/stat/103/1439], as amended by [Pub. L. 101–510, div. A, title V, § 533(c)][/us/pl/101/510/s533/c], Nov. 5, 1990, [104 Stat. 1564][/us/stat/104/1564], provided that: 
+[Pub. L. 101–189, div. A, title V][/us/pl/101/189/dA/tV], § 511(e), Nov. 29, 1989, [103 Stat. 1439][/us/stat/103/1439], as amended by [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 533(c), Nov. 5, 1990, [104 Stat. 1564][/us/stat/104/1564], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 4348, 6959, and 9348 of this title\] shall apply to persons who are first admitted to one of the military service academies after December 31, 1991.”
 
@@ -199,7 +199,7 @@
 
  __Transition Provisions__ 
 
-[Pub. L. 104–201, div. A, title VII, § 741(d)(2)][/us/pl/104/201/s741/d/2], Sept. 23, 1996, [110 Stat. 2600][/us/stat/110/2600], provided that: 
+[Pub. L. 104–201, div. A, title VII][/us/pl/104/201/dA/tVII], § 741(d)(2), Sept. 23, 1996, [110 Stat. 2600][/us/stat/110/2600], provided that: 
 
 > “In the case of any person who, as of October 1, 1996, is serving an active-duty service obligation as a graduate of the Uniformed Services University of the Health Sciences or is incurring an active-duty service obligation as a student of the University, and who is subsequently relieved of the active-duty service obligation before the completion of the obligation, the alternative obligations authorized by the amendment made by subsection (b) \[amending this section\] may be implemented by the Secretary of Defense with the agreement of the person.”
 
@@ -216,58 +216,58 @@
 [/us/usc/t10/s2126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2126
 [/us/usc/t10/s2113/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2113%2Fe
 [/us/usc/t10/s2123/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2123%2Fe
-[/us/pl/92/426/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F426%2Fs2%2Fa
+[/us/pl/92/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F426
 [/us/stat/86/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F715
-[/us/pl/96/107/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs803%2Fb
+[/us/pl/96/107/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2FtVIII
 [/us/stat/93/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F812
-[/us/pl/96/513/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs114
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2877
-[/us/pl/98/525/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1535
+[/us/pl/98/525/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXV
 [/us/stat/98/2633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2633
-[/us/pl/101/189/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs511%2Fa
+[/us/pl/101/189/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtV
 [/us/stat/103/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1439
-[/us/pl/101/510/s533/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs533%2Fa
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1564
-[/us/pl/103/160/s732/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs732%2Fa
+[/us/pl/103/160/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVII
 [/us/stat/107/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1696
-[/us/pl/104/106/s1072/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1072%2Fb%2F3
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F446
-[/us/pl/104/201/s741/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs741%2Fb
+[/us/pl/104/201/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVII
 [/us/stat/110/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2599
-[/us/pl/105/85/s1073/a/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F38
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1902
-[/us/pl/108/375/s501/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs501%2Fe
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1874
-[/us/pl/110/181/s524/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs524%2Fa
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F103
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4613
-[/us/pl/110/181/s524/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs524%2Fa%2F1%2FB
-[/us/pl/110/181/s524/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs524%2Fa%2F1%2FA
-[/us/pl/110/181/s954/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs954%2Fb%2F2
-[/us/pl/110/417/s1061/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs1061%2Fb%2F9
-[/us/pl/110/181/s524/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs524%2Fa%2F1%2FA
-[/us/pl/110/181/s954/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs954%2Fa%2F3%2FB
-[/us/pl/110/417/s1061/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs1061%2Fb%2F8
-[/us/pl/110/181/s524/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs524%2Fa%2F1%2FA
-[/us/pl/110/181/s524/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs524%2Fa%2F2%2FB
-[/us/pl/110/181/s524/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs524%2Fa%2F1%2FA
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/103/160/s732/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs732%2Fa%2F1
-[/us/pl/103/160/s732/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs732%2Fa%2F2
-[/us/pl/103/160/s732/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs732%2Fa%2F3
-[/us/pl/103/160/s732/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs732%2Fa%2F4
-[/us/pl/101/510/s533/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs533%2Fb%2F1
-[/us/pl/101/510/s533/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs533%2Fa
-[/us/pl/101/510/s533/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs533%2Fb%2F2
-[/us/pl/101/510/s533/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs533%2Fb%2F3
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
-[/us/pl/96/513/s511/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F65
-[/us/pl/96/513/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs114
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
@@ -276,16 +276,16 @@
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/108/375/s501/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs501%2Fg
 [/us/usc/t10/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs531
-[/us/pl/104/201/s741/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs741%2Fc
+[/us/pl/104/201/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVII
 [/us/stat/110/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2600
 [/us/usc/t10/s2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2123
-[/us/pl/103/160/s732/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs732%2Fb
+[/us/pl/103/160/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVII
 [/us/stat/107/1697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1697
-[/us/pl/101/510/s533/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs533%2Fd
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1564
-[/us/pl/101/189/s511/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs511%2Fe
+[/us/pl/101/189/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtV
 [/us/stat/103/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1439
-[/us/pl/101/510/s533/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs533%2Fc
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1564
 [/us/pl/96/513/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs114
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
@@ -295,7 +295,7 @@
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/pl/101/511/s8091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F511%2Fs8091
 [/us/usc/t10/s2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2113
-[/us/pl/104/201/s741/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs741%2Fd%2F2
+[/us/pl/104/201/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVII
 [/us/stat/110/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2600
 
 

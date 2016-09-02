@@ -47,7 +47,7 @@
 
         (3) This subsection does not authorize the violation of measures of military security.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 151][/us/stat/70A/151]; [Pub. L. 107–107, div. A, title XVI, § 1607(a)][/us/pl/107/107/s1607/a]–(b)(2), Dec. 28, 2001, [115 Stat. 1279][/us/stat/115/1279], 1280; [Pub. L. 108–375, div. B, title XXVIII, § 2821(c)(1)][/us/pl/108/375/s2821/c/1], (e)(2), Oct. 28, 2004, [118 Stat. 2129][/us/stat/118/2129], 2130.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 151][/us/stat/70A/151]; [Pub. L. 107–107, div. A, title XVI][/us/pl/107/107/dA/tXVI], § 1607(a)–(b)(2), Dec. 28, 2001, [115 Stat. 1279][/us/stat/115/1279], 1280; [Pub. L. 108–375, div. B, title XXVIII][/us/pl/108/375/dB/tXXVIII], § 2821(c)(1), (e)(2), Oct. 28, 2004, [118 Stat. 2129][/us/stat/118/2129], 2130.)
 
 <table>
 
@@ -97,15 +97,15 @@ June 3, 1916, ch. 134, § 127a (5th par.); added June 4, 1920, ch. 227, subch.
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–375, § 2821(e)(2)][/us/pl/108/375/s2821/e/2], substituted “Use of facilities by private organizations; use as polling places” for “Military installations: use by American National Red Cross; use as polling places” in section catchline.
+    2004—[Pub. L. 108–375][/us/pl/108/375], § 2821(e)(2), substituted “Use of facilities by private organizations; use as polling places” for “Military installations: use by American National Red Cross; use as polling places” in section catchline.
 
-    Subsec. (c). [Pub. L. 108–375, § 2821(c)(1)][/us/pl/108/375/s2821/c/1], added subsec. (c).
+    Subsec. (c). [Pub. L. 108–375][/us/pl/108/375], § 2821(c)(1), added subsec. (c).
 
     2001—[Pub. L. 107–107][/us/pl/107/107] substituted “Military installations: use by American National Red Cross; use as polling places” for “Licenses: military installations; erection and use of buildings; American National Red Cross” in section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “this subsection” for “this section” in concluding provisions, and added subsec. (b).
 
  __Regulations__ 
 
-[Pub. L. 108–375, div. B, title XXVIII, § 2821(c)(3)][/us/pl/108/375/s2821/c/3], Oct. 28, 2004, [118 Stat. 2129][/us/stat/118/2129], provided that: 
+[Pub. L. 108–375, div. B, title XXVIII][/us/pl/108/375/dB/tXXVIII], § 2821(c)(3), Oct. 28, 2004, [118 Stat. 2129][/us/stat/118/2129], provided that: 
 
 > “The regulations prescribed to carry out \[former\] [section 2679 of title 10][/us/usc/t10/s2679], United States Code, as in effect on the day before the date of the enactment of this Act \[Oct. 28, 2004\], shall remain in effect with regard to section 2670(c) of such title, as added by paragraph (1), until changed by joint action of the Secretary concerned (as defined in section 101(9) of such title) and the Secretary of Veterans Affairs.”
 
@@ -119,14 +119,14 @@ June 3, 1916, ch. 134, § 127a (5th par.); added June 4, 1920, ch. 227, subch.
 [/us/usc/t38/s5902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5902
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F151
-[/us/pl/107/107/s1607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1607%2Fa
+[/us/pl/107/107/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXVI
 [/us/stat/115/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1279
-[/us/pl/108/375/s2821/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs2821%2Fc%2F1
+[/us/pl/108/375/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdB%2FtXXVIII
 [/us/stat/118/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2129
-[/us/pl/108/375/s2821/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs2821%2Fe%2F2
-[/us/pl/108/375/s2821/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs2821%2Fc%2F1
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/108/375/s2821/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs2821%2Fc%2F3
+[/us/pl/108/375/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdB%2FtXXVIII
 [/us/stat/118/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2129
 [/us/usc/t10/s2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2679
 

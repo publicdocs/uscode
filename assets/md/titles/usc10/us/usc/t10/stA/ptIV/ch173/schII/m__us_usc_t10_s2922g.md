@@ -31,7 +31,7 @@
 
     The preference required by subsection (a) does not preclude the Secretary of Defense from authorizing the Secretary of a military department or head of a Defense Agency to provide a preference for another vehicle technology that reduces the consumption of fossil fuels if the Secretary of Defense determines that the technology is consistent with the energy performance goals and plan of the Department required by [section 2911 of this title][/us/usc/t10/s2911].
 
-(Added [Pub. L. 111–84, div. B, title XXVIII, § 2844(a)][/us/pl/111/84/s2844/a], Oct. 28, 2009, [123 Stat. 2682][/us/stat/123/2682]; amended [Pub. L. 112–81, div. B, title XXVIII, § 2821(b)(3)][/us/pl/112/81/s2821/b/3], Dec. 31, 2011, [125 Stat. 1691][/us/stat/125/1691].)
+(Added [Pub. L. 111–84, div. B, title XXVIII][/us/pl/111/84/dB/tXXVIII], § 2844(a), Oct. 28, 2009, [123 Stat. 2682][/us/stat/123/2682]; amended [Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], § 2821(b)(3), Dec. 31, 2011, [125 Stat. 1691][/us/stat/125/1691].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Regulations__ 
 
-[Pub. L. 111–84, div. B, title XXVIII, § 2844(c)][/us/pl/111/84/s2844/c], Oct. 28, 2009, [123 Stat. 2682][/us/stat/123/2682], provided that: 
+[Pub. L. 111–84, div. B, title XXVIII][/us/pl/111/84/dB/tXXVIII], § 2844(c), Oct. 28, 2009, [123 Stat. 2682][/us/stat/123/2682], provided that: 
 
 > “The Secretary of Defense shall prescribe regulations to implement [section 2922g of title 10][/us/usc/t10/s2922g], United States Code, as added by subsection (a), within one year after the date of the enactment of this Act \[Oct. 28, 2009\].”
 
@@ -51,12 +51,12 @@
 ----------
 
 [/us/usc/t10/s2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2911
-[/us/pl/111/84/s2844/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2844%2Fa
+[/us/pl/111/84/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdB%2FtXXVIII
 [/us/stat/123/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2682
-[/us/pl/112/81/s2821/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2821%2Fb%2F3
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1691
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/111/84/s2844/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2844%2Fc
+[/us/pl/111/84/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdB%2FtXXVIII
 [/us/stat/123/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2682
 [/us/usc/t10/s2922g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2922g
 

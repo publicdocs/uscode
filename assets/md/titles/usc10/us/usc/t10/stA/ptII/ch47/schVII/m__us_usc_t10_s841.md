@@ -29,7 +29,7 @@
 
     (c) Whenever additional members are detailed to the court, and after any challenges for cause against such additional members are presented and decided, each accused and the trial counsel are entitled to one peremptory challenge against members not previously subject to peremptory challenge.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 51][/us/stat/70A/51]; [Pub. L. 90–632, § 2(17)][/us/pl/90/632/s2/17], Oct. 24, 1968, [82 Stat. 1339][/us/stat/82/1339]; [Pub. L. 101–510, div. A, title V, § 541(b)][/us/pl/101/510/s541/b]–(d), Nov. 5, 1990, [104 Stat. 1565][/us/stat/104/1565]; [Pub. L. 111–383, div. A, title X, § 1075(b)(13)][/us/pl/111/383/s1075/b/13], Jan. 7, 2011, [124 Stat. 4369][/us/stat/124/4369].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 51][/us/stat/70A/51]; [Pub. L. 90–632][/us/pl/90/632], § 2(17), Oct. 24, 1968, [82 Stat. 1339][/us/stat/82/1339]; [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 541(b)–(d), Nov. 5, 1990, [104 Stat. 1565][/us/stat/104/1565]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(13), Jan. 7, 2011, [124 Stat. 4369][/us/stat/124/4369].)
 
 <table>
 
@@ -87,15 +87,15 @@ May 5, 1950, ch. 169, § 1 (Art. 41), 64 Stat. 121.  </td>
 
     2011—Subsec. (c). [Pub. L. 111–383][/us/pl/111/383] substituted “trial counsel” for “trail counsel”.
 
-    1990—Subsec. (a). [Pub. L. 101–510, § 541(b)][/us/pl/101/510/s541/b], designated existing provision as par. (1) and added par. (2).
+    1990—Subsec. (a). [Pub. L. 101–510][/us/pl/101/510], § 541(b), designated existing provision as par. (1) and added par. (2).
 
-    Subsec. (b). [Pub. L. 101–510, § 541(c)][/us/pl/101/510/s541/c], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each accused and the trial counsel is entitled to one peremptory challenge, but the military judge may not be challenged except for cause.”
+    Subsec. (b). [Pub. L. 101–510][/us/pl/101/510], § 541(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each accused and the trial counsel is entitled to one peremptory challenge, but the military judge may not be challenged except for cause.”
 
-    Subsec. (c). [Pub. L. 101–510, § 541(d)][/us/pl/101/510/s541/d], added subsec. (c).
+    Subsec. (c). [Pub. L. 101–510][/us/pl/101/510], § 541(d), added subsec. (c).
 
-    1968—Subsec. (a). [Pub. L. 90–632, § 2(17)(A)][/us/pl/90/632/s2/17/A], (B), inserted reference to the military judge and struck out references to the law officer of a general court-martial.
+    1968—Subsec. (a). [Pub. L. 90–632][/us/pl/90/632], § 2(17)(A), (B), inserted reference to the military judge and struck out references to the law officer of a general court-martial.
 
-    Subsec. (b). [Pub. L. 90–632, § 2(17)(C)][/us/pl/90/632/s2/17/C], substituted “military judge” for “law officer”.
+    Subsec. (b). [Pub. L. 90–632][/us/pl/90/632], § 2(17)(C), substituted “military judge” for “law officer”.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -118,18 +118,18 @@ May 5, 1950, ch. 169, § 1 (Art. 41), 64 Stat. 121.  </td>
 [/us/usc/t10/s829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs829
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F51
-[/us/pl/90/632/s2/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F17
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1339
-[/us/pl/101/510/s541/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs541%2Fb
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1565
-[/us/pl/111/383/s1075/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F13
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4369
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/101/510/s541/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs541%2Fb
-[/us/pl/101/510/s541/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs541%2Fc
-[/us/pl/101/510/s541/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs541%2Fd
-[/us/pl/90/632/s2/17/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F17%2FA
-[/us/pl/90/632/s2/17/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F17%2FC
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/101/510/s541/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs541%2Fe
 [/us/usc/t10/s839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs839

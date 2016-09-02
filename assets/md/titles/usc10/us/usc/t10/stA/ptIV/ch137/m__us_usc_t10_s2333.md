@@ -119,7 +119,7 @@
 
         The term “requirements definition” means the process of translating policy objectives and mission needs into specific requirements, the description of which will be the basis for awarding acquisition contracts for projects to be accomplished, work to be performed, or products to be delivered.
 
-(Added [Pub. L. 109–364, div. A, title VIII, § 854(a)(1)][/us/pl/109/364/s854/a/1], Oct. 17, 2006, [120 Stat. 2343][/us/stat/120/2343]; amended [Pub. L. 110–181, div. A, title VIII, § 849(a)][/us/pl/110/181/s849/a], Jan. 28, 2008, [122 Stat. 245][/us/stat/122/245]; [Pub. L. 111–84, div. A, title X, § 1073(a)(23)][/us/pl/111/84/s1073/a/23], Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473].)
+(Added [Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 854(a)(1), Oct. 17, 2006, [120 Stat. 2343][/us/stat/120/2343]; amended [Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 849(a), Jan. 28, 2008, [122 Stat. 245][/us/stat/122/245]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(23), Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473].)
 
  __References in Text__ 
 
@@ -127,17 +127,17 @@
 
  __Amendments__ 
 
-    2009—Subsec. (d)(1)(D)(ii). [Pub. L. 111–84, § 1073(a)(23)(A)][/us/pl/111/84/s1073/a/23/A], substituted “indefinite delivery-indefinite quantity” for “indefinite delivery indefinite quantity”.
+    2009—Subsec. (d)(1)(D)(ii). [Pub. L. 111–84][/us/pl/111/84], § 1073(a)(23)(A), substituted “indefinite delivery-indefinite quantity” for “indefinite delivery indefinite quantity”.
 
-    Subsec. (d)(2). [Pub. L. 111–84, § 1073(a)(23)(B)][/us/pl/111/84/s1073/a/23/B], substituted “the John Warner National Defense Authorization Act for Fiscal Year 2007 ([Public Law 109–364][/us/pl/109/364]; [120 Stat. 2388][/us/stat/120/2388])” for “this Act”.
+    Subsec. (d)(2). [Pub. L. 111–84][/us/pl/111/84], § 1073(a)(23)(B), substituted “the John Warner National Defense Authorization Act for Fiscal Year 2007 ([Public Law 109–364][/us/pl/109/364]; [120 Stat. 2388][/us/stat/120/2388])” for “this Act”.
 
-    Subsec. (f)(3). [Pub. L. 111–84, § 1073(a)(23)(C)][/us/pl/111/84/s1073/a/23/C], substituted “section 101(a)(13)” for “section 101(13)”.
+    Subsec. (f)(3). [Pub. L. 111–84][/us/pl/111/84], § 1073(a)(23)(C), substituted “section 101(a)(13)” for “section 101(13)”.
 
     2008—Subsecs. (e), (f). [Pub. L. 110–181][/us/pl/110/181] added subsec. (e) and redesignated former subsec. (e) as (f).
 
  __Deadline for Development of Joint Policies__ 
 
-[Pub. L. 109–364, div. A, title VIII, § 854(b)][/us/pl/109/364/s854/b], Oct. 17, 2006, [120 Stat. 2346][/us/stat/120/2346], provided that: 
+[Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 854(b), Oct. 17, 2006, [120 Stat. 2346][/us/stat/120/2346], provided that: 
 
 > “The Secretary of Defense shall develop the joint policies required under [section 2333 of title 10][/us/usc/t10/s2333], United States Code, as added by subsection (a), not later than 18 months after the date of enactment of this Act \[Oct. 17, 2006\].”
 
@@ -153,21 +153,21 @@
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/stat/120/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2388
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
-[/us/pl/109/364/s854/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs854%2Fa%2F1
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2343
-[/us/pl/110/181/s849/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs849%2Fa
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F245
-[/us/pl/111/84/s1073/a/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F23
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2473
 [/us/pl/109/364/s1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1035
 [/us/stat/120/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2388
-[/us/pl/111/84/s1073/a/23/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F23%2FA
-[/us/pl/111/84/s1073/a/23/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F23%2FB
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/stat/120/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2388
-[/us/pl/111/84/s1073/a/23/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F23%2FC
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/109/364/s854/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs854%2Fb
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2346
 [/us/usc/t10/s2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2333
 

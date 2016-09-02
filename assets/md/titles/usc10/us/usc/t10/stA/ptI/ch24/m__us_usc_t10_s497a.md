@@ -33,7 +33,7 @@
 
     In this section, the term “dual-capable aircraft” means aircraft that can perform both conventional and nuclear missions.
 
-(Added [Pub. L. 113–66, div. A, title X, § 1051(b)(1)][/us/pl/113/66/s1051/b/1], Dec. 26, 2013, [127 Stat. 858][/us/stat/127/858].)
+(Added [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1051(b)(1), Dec. 26, 2013, [127 Stat. 858][/us/stat/127/858].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/113/66/s1051/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1051%2Fb%2F1
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F858
 
 

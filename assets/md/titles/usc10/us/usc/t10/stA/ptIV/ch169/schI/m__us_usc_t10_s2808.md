@@ -21,7 +21,7 @@
 
     (c) The authority described in subsection (a) shall terminate with respect to any war or national emergency at the end of the war or national emergency.
 
-(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 157][/us/stat/96/157].)
+(Added [Pub. L. 97–214][/us/pl/97/214], § 2(a), July 12, 1982, [96 Stat. 157][/us/stat/96/157].)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [Pub. L. 97–99, title IX, § 903][/us/pl/97/99/s903], Dec. 23, 1981, [95 Stat. 1382][/us/stat/95/1382], which was set out as a note under section 140 \[now 127\] of this title, prior to repeal by [Pub. L. 97–214, § 7(18)][/us/pl/97/214/s7/18].
+    Provisions similar to those in this section were contained in [Pub. L. 97–99, title IX][/us/pl/97/99/tIX], § 903, Dec. 23, 1981, [95 Stat. 1382][/us/stat/95/1382], which was set out as a note under section 140 \[now 127\] of this title, prior to repeal by [Pub. L. 97–214][/us/pl/97/214], § 7(18).
 
  __Effective Date__ 
 
@@ -55,15 +55,15 @@
 ----------
 
 [/us/usc/t50/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601
-[/us/pl/97/214/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs2%2Fa
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F157
 [/us/usc/t50/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601
 [/us/pl/94/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412
 [/us/stat/90/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1255
 [/us/usc/t50/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601
-[/us/pl/97/99/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F99%2Fs903
+[/us/pl/97/99/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F99%2FtIX
 [/us/stat/95/1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1382
-[/us/pl/97/214/s7/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs7%2F18
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/pl/97/214/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs12%2Fa
 [/us/usc/t10/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2801
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701

@@ -51,7 +51,7 @@
 
     Nothing in this section shall be construed to establish a preference for the use as artificial reefs of vessels stricken from the Naval Vessel Register in lieu of other authorized uses of such vessels, including the domestic scrapping of such vessels, or other disposals of such vessels, under this chapter or other applicable authority.
 
-(Added [Pub. L. 108–136, div. A, title X, § 1013(a)][/us/pl/108/136/s1013/a], Nov. 24, 2003, [117 Stat. 1590][/us/stat/117/1590]; amended [Pub. L. 109–364, div. A, title X, § 1071(a)(36)][/us/pl/109/364/s1071/a/36], Oct. 17, 2006, [120 Stat. 2400][/us/stat/120/2400]; [Pub. L. 111–84, div. A, title X, § 1073(a)(31)][/us/pl/111/84/s1073/a/31], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474].)
+(Added [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1013(a), Nov. 24, 2003, [117 Stat. 1590][/us/stat/117/1590]; amended [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(36), Oct. 17, 2006, [120 Stat. 2400][/us/stat/120/2400]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(31), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474].)
 
  __References in Text__ 
 
@@ -74,11 +74,11 @@
 [/us/usc/t16/s1802/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802%2F14
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/usc/t16/s1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1220
-[/us/pl/108/136/s1013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1013%2Fa
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1590
-[/us/pl/109/364/s1071/a/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F36
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2400
-[/us/pl/111/84/s1073/a/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F31
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
 [/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
 [/us/stat/98/3394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3394

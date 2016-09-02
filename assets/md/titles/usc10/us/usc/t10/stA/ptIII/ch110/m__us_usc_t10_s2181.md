@@ -21,7 +21,7 @@
 
     (2) The term “dependent” has the meaning given that term in section 551 of that title.
 
-(Added [Pub. L. 99–399, title VIII, § 806(d)(1)][/us/pl/99/399/s806/d/1], Aug. 27, 1986, [100 Stat. 887][/us/stat/100/887], and [Pub. L. 100–26, § 7(k)(6)][/us/pl/100/26/s7/k/6], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284].)
+(Added [Pub. L. 99–399, title VIII][/us/pl/99/399/tVIII], § 806(d)(1), Aug. 27, 1986, [100 Stat. 887][/us/stat/100/887], and [Pub. L. 100–26][/us/pl/100/26], § 7(k)(6), Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–399, title VIII, § 806(d)(3)][/us/pl/99/399/s806/d/3], Aug. 27, 1986, [100 Stat. 888][/us/stat/100/888], provided that: 
+[Pub. L. 99–399, title VIII][/us/pl/99/399/tVIII], § 806(d)(3), Aug. 27, 1986, [100 Stat. 888][/us/stat/100/888], provided that: 
 
 > “Chapter 110 of title 10, United States Code, as added by paragraph (1), shall apply with respect to persons whose captive status begins after January 21, 1981.”
 
@@ -41,12 +41,12 @@
 ----------
 
 [/us/usc/t37/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs559
-[/us/pl/99/399/s806/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs806%2Fd%2F1
+[/us/pl/99/399/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVIII
 [/us/stat/100/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F887
-[/us/pl/100/26/s7/k/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fk%2F6
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F284
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
-[/us/pl/99/399/s806/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs806%2Fd%2F3
+[/us/pl/99/399/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVIII
 [/us/stat/100/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F888
 
 

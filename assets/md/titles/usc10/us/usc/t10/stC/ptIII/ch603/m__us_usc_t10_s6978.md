@@ -31,7 +31,7 @@
 
         (4) The program is not a private organization and is not operated by a private organization.
 
-(Added [Pub. L. 108–375, div. A, title V, § 544(b)(1)][/us/pl/108/375/s544/b/1], Oct. 28, 2004, [118 Stat. 1906][/us/stat/118/1906].)
+(Added [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 544(b)(1), Oct. 28, 2004, [118 Stat. 1906][/us/stat/118/1906].)
 
  __Effective Date__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/108/375/s544/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs544%2Fb%2F1
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1906
 [/us/pl/108/375/s544/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs544%2Fd
 [/us/usc/t10/s4359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4359

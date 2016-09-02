@@ -17,7 +17,7 @@
 
     To carry out sections 1079–1081 and 1086 of this title, the Secretary of Defense may establish advisory committees on insurance, medical service, and health plans, to advise and make recommendations to him. He shall prescribe regulations defining their scope, activities, and procedures. Each committee shall consist of the Secretary, or his designee, as chairman, and such other persons as the Secretary may select. So far as possible, the members shall be representative of the organizations in the field of insurance, medical service, and health plans. They shall serve without compensation but may be allowed transportation and a per diem payment in place of subsistence and other expenses.
 
-(Added [Pub. L. 85–861, § 1(25)(B)][/us/pl/85/861/s1/25/B], Sept. 2, 1958, [72 Stat. 1449][/us/stat/72/1449]; amended [Pub. L. 89–614, § 2(8)][/us/pl/89/614/s2/8], Sept. 30, 1966, [80 Stat. 866][/us/stat/80/866].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(25)(B), Sept. 2, 1958, [72 Stat. 1449][/us/stat/72/1449]; amended [Pub. L. 89–614][/us/pl/89/614], § 2(8), Sept. 30, 1966, [80 Stat. 866][/us/stat/80/866].)
 
 <table>
 
@@ -67,7 +67,7 @@ June 7, 1956, ch. 374, § 203, 70 Stat. 253.  </td>
 
  __Prior Provisions__ 
 
-    A prior section 1082, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 87][/us/stat/70A/87], related to extension of time limit for making ballots available, prior to repeal by [Pub. L. 85–861, § 36B(5)][/us/pl/85/861/s36B/5], Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570], as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+    A prior section 1082, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 87][/us/stat/70A/87], related to extension of time limit for making ballots available, prior to repeal by [Pub. L. 85–861][/us/pl/85/861], § 36B(5), Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570], as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
  __Amendments__ 
 
@@ -88,13 +88,13 @@ June 7, 1956, ch. 374, § 203, 70 Stat. 253.  </td>
 ----------
 ----------
 
-[/us/pl/85/861/s1/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F25%2FB
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1449
-[/us/pl/89/614/s2/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614%2Fs2%2F8
+[/us/pl/89/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614
 [/us/stat/80/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F866
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F87
-[/us/pl/85/861/s36B/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs36B%2F5
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1570
 [/us/pl/89/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614
 [/us/pl/89/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614

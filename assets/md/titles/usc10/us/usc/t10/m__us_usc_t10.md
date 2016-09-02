@@ -15,9 +15,9 @@
 
 # Title 10—ARMED FORCES
 
-This title was enacted by [act Aug. 10, 1956, ch. 1041, § 1][/us/act/1956-08-10/ch1041/s1], [70A Stat. 1][/us/stat/70A/1]
+This title was enacted by [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 1, [70A Stat. 1][/us/stat/70A/1]
 
-Current through 114-115not95
+Current through 114-115
 
 <table>
 
@@ -85,7 +85,7 @@ Current through 114-115not95
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–337, div. A, title XVI, § 1671(a)][/us/pl/103/337/s1671/a], Oct. 5, 1994, [108 Stat. 3013][/us/stat/108/3013], added item for subtitle E.
+    1994—[Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1671(a), Oct. 5, 1994, [108 Stat. 3013][/us/stat/108/3013], added item for subtitle E.
 
 <table>
 
@@ -25655,11 +25655,11 @@ This title has been enacted into positive law by section 1 of [act Aug. 10, 1956
 
  __Repeals__ 
 
-    [Act Aug. 10, 1956, ch. 1041, § 53][/us/act/1956-08-10/ch1041/s53], [70A Stat. 641][/us/stat/70A/641], repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this act, “except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before the effective date of this act \[Aug. 10, 1956\] and except as provided in section 49.”
+    [Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 53, [70A Stat. 641][/us/stat/70A/641], repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this act, “except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before the effective date of this act \[Aug. 10, 1956\] and except as provided in section 49.”
 
  __Savings Provision and Separability__ 
 
-[Act Aug. 10, 1956, ch. 1041, § 49][/us/act/1956-08-10/ch1041/s49], [70A Stat. 640][/us/stat/70A/640], provided that:
+[Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 49, [70A Stat. 640][/us/stat/70A/640], provided that:
 
 >     “(a) In sections 1–48 of this Act \[see Tables for classification\], it is the legislative purpose to restate, without substantive change, the law replaced by those sections on the effective date of this Act \[Aug. 10, 1956\]. However, laws effective after March 31, 1955, that are inconsistent with this Act shall be considered as superseding it to the extent of the inconsistency.
 
@@ -25677,17 +25677,17 @@ This title has been enacted into positive law by section 1 of [act Aug. 10, 1956
 
  __Effective Date of Uniform Code of Military Justice__ 
 
-    [Act Aug. 10, 1956, ch. 1041, § 51][/us/act/1956-08-10/ch1041/s51], [70A Stat. 640][/us/stat/70A/640], provided that chapter 47 of this title takes effect January 1, 1957.
+    [Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 51, [70A Stat. 640][/us/stat/70A/640], provided that chapter 47 of this title takes effect January 1, 1957.
 
  __Restatement of Suspended or Temporarily Superseded Provisions__ 
 
-[Act Aug. 10, 1956, ch. 1041, § 50][/us/act/1956-08-10/ch1041/s50], [70A Stat. 640][/us/stat/70A/640], provided that: 
+[Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 50, [70A Stat. 640][/us/stat/70A/640], provided that: 
 
 > “If on the effective date of this Act \[Aug. 10, 1956\] a provision of law that is restated in this Act and repealed by section 53 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
 
  __Improvement of United States Code by__  __[__  __Pub. L. 85–861__  __][/us/pl/85/861]__  __; Legislative Purpose; Repeal of Inconsistent Provisions; Corresponding Provisions; Savings Provision and Separability; Status; Repeals__ 
 
-[Pub. L. 85–861, § 34][/us/pl/85/861/s34], Sept. 2, 1958, [72 Stat. 1568][/us/stat/72/1568], provided that:
+[Pub. L. 85–861][/us/pl/85/861], § 34, Sept. 2, 1958, [72 Stat. 1568][/us/stat/72/1568], provided that:
 
 >     “(a) In sections 1–32 of this Act \[see Tables for classification\], it is the legislative purpose to restate, without substantive change, the law replaced by those sections on the effective date of this Act \[Sept. 2, 1958\]. However, laws effective after December 31, 1957, that are inconsistent with this Act shall be considered as superseding it to the extent of the inconsistency.
 
@@ -25699,15 +25699,15 @@ This title has been enacted into positive law by section 1 of [act Aug. 10, 1956
 
 >     “(e) The enactment of this Act does not increase or decrease the pay or allowances, including retired and retainer pay, of any person.”
 
-[Pub. L. 85–861, § 35][/us/pl/85/861/s35], Sept. 2, 1958, [72 Stat. 1568][/us/stat/72/1568], provided that: 
+[Pub. L. 85–861][/us/pl/85/861], § 35, Sept. 2, 1958, [72 Stat. 1568][/us/stat/72/1568], provided that: 
 
 > “If on the effective date of this Act \[Sept. 2, 1958\] a provision of law that is restated in this Act and repealed by section 36 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
 
-    [Pub. L. 85–861, § 36][/us/pl/85/861/s36], Sept. 2, 1958, [72 Stat. 1568][/us/stat/72/1568], repealed certain laws except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before Sept. 2, 1958.
+    [Pub. L. 85–861][/us/pl/85/861], § 36, Sept. 2, 1958, [72 Stat. 1568][/us/stat/72/1568], repealed certain laws except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before Sept. 2, 1958.
 
  __Improvement of United States Code by__  __[__  __Pub. L. 87–651__  __][/us/pl/87/651]__  __; Inconsistent Provisions Superseded; Corresponding Provisions__ 
 
-[Pub. L. 87–651, title III, § 306][/us/pl/87/651/s306], Sept. 7, 1962, [76 Stat. 526][/us/stat/76/526], provided that:
+[Pub. L. 87–651, title III][/us/pl/87/651/tIII], § 306, Sept. 7, 1962, [76 Stat. 526][/us/stat/76/526], provided that:
 
 >     “(a) Laws becoming effective after January 9, 1962, that are inconsistent with this Act \[see Tables for classification\] shall be considered as superseding it to the extent of the inconsistency.
 
@@ -25719,7 +25719,7 @@ This title has been enacted into positive law by section 1 of [act Aug. 10, 1956
 
  __Improvement of United States Code by__  __[__  __Pub. L. 89–718__  __][/us/pl/89/718]__  __; Inconsistent Provisions Superseded; Corresponding Provisions__ 
 
-[Pub. L. 89–718, § 74][/us/pl/89/718/s74], Nov. 2, 1966, [80 Stat. 1124][/us/stat/80/1124], provided that:
+[Pub. L. 89–718][/us/pl/89/718], § 74, Nov. 2, 1966, [80 Stat. 1124][/us/stat/80/1124], provided that:
 
 >     “(a) Laws becoming effective after June 1, 1965, that are inconsistent with this Act shall be considered as superseding it to the extent of the inconsistency.
 
@@ -25729,7 +25729,7 @@ This title has been enacted into positive law by section 1 of [act Aug. 10, 1956
 
  __Improvement of United States Code by__  __[__  __Pub. L. 97–295__  __][/us/pl/97/295]__  __; Legislative Purpose; Repeal of Inconsistent Provisions; Corresponding Provisions; Savings Provision and Separability__ 
 
-[Pub. L. 97–295, § 5][/us/pl/97/295/s5], Oct. 12, 1982, [96 Stat. 1313][/us/stat/96/1313], provided that:
+[Pub. L. 97–295][/us/pl/97/295], § 5, Oct. 12, 1982, [96 Stat. 1313][/us/stat/96/1313], provided that:
 
 >     “(a) Sections 1–4 of this Act \[see Tables for classification\] restate, without substantive change, laws enacted before December 2, 1981, that were replaced by those sections. Those sections may not be construed as making a substantive change in the laws replaced. Laws enacted after December 1, 1981, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
 
@@ -25743,15 +25743,15 @@ This title has been enacted into positive law by section 1 of [act Aug. 10, 1956
 
 >     “(f) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-[Pub. L. 97–295, § 6(a)][/us/pl/97/295/s6/a], Oct. 12, 1982, [96 Stat. 1314][/us/stat/96/1314], provided that: 
+[Pub. L. 97–295][/us/pl/97/295], § 6(a), Oct. 12, 1982, [96 Stat. 1314][/us/stat/96/1314], provided that: 
 
 > “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-    [Pub. L. 97–295, § 6(b)][/us/pl/97/295/s6/b], Oct. 12, 1982, [96 Stat. 1314][/us/stat/96/1314], repealed certain sections or parts of sections of the Statutes at Large, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 12, 1982.
+    [Pub. L. 97–295][/us/pl/97/295], § 6(b), Oct. 12, 1982, [96 Stat. 1314][/us/stat/96/1314], repealed certain sections or parts of sections of the Statutes at Large, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 12, 1982.
 
  __Improvement of United States Code by__  __[__  __Pub. L. 100–370__  __][/us/pl/100/370]__  __; Corresponding Provisions; Savings Provision__ 
 
-[Pub. L. 100–370, § 4][/us/pl/100/370/s4], July 19, 1988, [102 Stat. 856][/us/stat/102/856], provided that:
+[Pub. L. 100–370][/us/pl/100/370], § 4, July 19, 1988, [102 Stat. 856][/us/stat/102/856], provided that:
 
 >     “(a)  __References to Replaced Laws__  __.—__ 
 
@@ -25767,7 +25767,7 @@ This title has been enacted into positive law by section 1 of [act Aug. 10, 1956
 
  __Improvement of United States Code by__  __[__  __Pub. L. 101–510__  __][/us/pl/101/510]__  __; Corresponding Provisions; Savings Provision__ 
 
-[Pub. L. 101–510, div. A, title XIV, § 1481(k)][/us/pl/101/510/s1481/k], Nov. 5, 1990, [104 Stat. 1709][/us/stat/104/1709], provided that:
+[Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1481(k), Nov. 5, 1990, [104 Stat. 1709][/us/stat/104/1709], provided that:
 
 >     “(1) A reference to a law replaced by the provisions of title 10, United States Code, enacted by this section \[enacting sections 129b, 1056, 2245, 2549, 2550, 2678, and 2732 of this title, amending sections 114, 1584, 1593, 2701, 2734, 2734a, and 2734b of this title, enacting provisions set out as a note under [section 1056 of this title][/us/usc/t10/s1056], and repealing provisions set out as notes under sections 113, 114, 1584, 1593, 2241, and 2701 of this title\] (including a reference in a regulation, order, or other law) shall be treated as referring to the corresponding provision enacted by this section.
 
@@ -25777,7 +25777,7 @@ This title has been enacted into positive law by section 1 of [act Aug. 10, 1956
 
  __Improvement of United States Code by__  __[__  __Pub. L. 103–337__  __][/us/pl/103/337]__  __; Corresponding Provisions; Savings Provision__ 
 
-[Pub. L. 103–337, div. A, title XVI, § 1665][/us/pl/103/337/s1665], Oct. 5, 1994, [108 Stat. 3012][/us/stat/108/3012], provided that:
+[Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1665, Oct. 5, 1994, [108 Stat. 3012][/us/stat/108/3012], provided that:
 
 >     “(a)  __References to Transferred or Replaced Provisions__  __.—__ 
 
@@ -25798,49 +25798,49 @@ This title has been enacted into positive law by section 1 of [act Aug. 10, 1956
 ----------
 ----------
 
-[/us/act/1956-08-10/ch1041/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs1
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F1
-[/us/pl/103/337/s1671/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1671%2Fa
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3013
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F1
-[/us/act/1956-08-10/ch1041/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs53
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
-[/us/act/1956-08-10/ch1041/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs49
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F640
-[/us/act/1956-08-10/ch1041/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs51
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F640
-[/us/act/1956-08-10/ch1041/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs50
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F640
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
-[/us/pl/85/861/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs34
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1568
-[/us/pl/85/861/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs35
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1568
-[/us/pl/85/861/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs36
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1568
 [/us/pl/87/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651
-[/us/pl/87/651/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs306
+[/us/pl/87/651/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtIII
 [/us/stat/76/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F526
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
-[/us/pl/89/718/s74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs74
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1124
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
-[/us/pl/97/295/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs5
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1313
-[/us/pl/97/295/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs6%2Fa
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1314
-[/us/pl/97/295/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs6%2Fb
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1314
 [/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
-[/us/pl/100/370/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs4
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F856
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/101/510/s1481/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1481%2Fk
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1709
 [/us/usc/t10/s1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1056
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
-[/us/pl/103/337/s1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1665
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3012
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 

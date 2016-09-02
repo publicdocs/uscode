@@ -87,7 +87,7 @@
 
             (C) interchange meetings or pre-solicitation conferences with potential offerors.
 
-(Added [Pub. L. 107–107, div. A, title VIII, § 811(a)(1)][/us/pl/107/107/s811/a/1], Dec. 28, 2001, [115 Stat. 1180][/us/stat/115/1180]; amended [Pub. L. 107–314, div. A, title VIII, § 819(a)(1)][/us/pl/107/314/s819/a/1], Dec. 2, 2002, [116 Stat. 2612][/us/stat/116/2612]; [Pub. L. 109–163, div. A, title X, § 1056(c)(4)][/us/pl/109/163/s1056/c/4], Jan. 6, 2006, [119 Stat. 3439][/us/stat/119/3439]; [Pub. L. 110–181, div. A, title VIII, § 827(a)(1)][/us/pl/110/181/s827/a/1], Jan. 28, 2008, [122 Stat. 228][/us/stat/122/228].)
+(Added [Pub. L. 107–107, div. A, title VIII][/us/pl/107/107/dA/tVIII], § 811(a)(1), Dec. 28, 2001, [115 Stat. 1180][/us/stat/115/1180]; amended [Pub. L. 107–314, div. A, title VIII][/us/pl/107/314/dA/tVIII], § 819(a)(1), Dec. 2, 2002, [116 Stat. 2612][/us/stat/116/2612]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1056(c)(4), Jan. 6, 2006, [119 Stat. 3439][/us/stat/119/3439]; [Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 827(a)(1), Jan. 28, 2008, [122 Stat. 228][/us/stat/122/228].)
 
  __Amendments__ 
 
@@ -99,33 +99,33 @@
 
     2006—Subsec. (b). [Pub. L. 109–163][/us/pl/109/163] substituted “competition” for “compeititon” in text.
 
-    2002—Subsec. (a). [Pub. L. 107–314, § 819(a)(1)(A)][/us/pl/107/314/s819/a/1/A], substituted “Market Research” for “Market Research Before Purchase” in heading and “comparable to products available from the private sector that best meet the Department’s needs in terms of price, quality, and time of delivery” for “comparable in price, quality, and time of delivery to products available from the private sector”.
+    2002—Subsec. (a). [Pub. L. 107–314][/us/pl/107/314], § 819(a)(1)(A), substituted “Market Research” for “Market Research Before Purchase” in heading and “comparable to products available from the private sector that best meet the Department’s needs in terms of price, quality, and time of delivery” for “comparable in price, quality, and time of delivery to products available from the private sector”.
 
-    Subsec. (b). [Pub. L. 107–314, § 819(a)(1)(B)][/us/pl/107/314/s819/a/1/B], added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “If the Secretary determines that a Federal Prison Industries product is not comparable in price, quality, and time of delivery to products available from the private sector, the Secretary shall use competitive procedures for the procurement of the product. In conducting such a competition, the Secretary shall consider a timely offer from Federal Prison Industries for award in accordance with the specifications and evaluation factors specified in the solicitation.”
+    Subsec. (b). [Pub. L. 107–314][/us/pl/107/314], § 819(a)(1)(B), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “If the Secretary determines that a Federal Prison Industries product is not comparable in price, quality, and time of delivery to products available from the private sector, the Secretary shall use competitive procedures for the procurement of the product. In conducting such a competition, the Secretary shall consider a timely offer from Federal Prison Industries for award in accordance with the specifications and evaluation factors specified in the solicitation.”
 
-    Subsec. (c) to (g). [Pub. L. 107–314, § 819(a)(1)(C)][/us/pl/107/314/s819/a/1/C], added subsecs. (c) to (g).
+    Subsec. (c) to (g). [Pub. L. 107–314][/us/pl/107/314], § 819(a)(1)(C), added subsecs. (c) to (g).
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 827(a)(2)][/us/pl/110/181/s827/a/2], Jan. 28, 2008, [122 Stat. 228][/us/stat/122/228], as amended by [Pub. L. 111–383, div. A, title X, § 1075(f)(4)][/us/pl/111/383/s1075/f/4], Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376], provided that: 
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 827(a)(2), Jan. 28, 2008, [122 Stat. 228][/us/stat/122/228], as amended by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(f)(4), Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect 60 days after the date of the enactment of this Act \[Jan. 28, 2008\].”
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–314, div. A, title VIII, § 819(a)(2)][/us/pl/107/314/s819/a/2], Dec. 2, 2002, [116 Stat. 2613][/us/stat/116/2613], provided that: 
+[Pub. L. 107–314, div. A, title VIII][/us/pl/107/314/dA/tVIII], § 819(a)(2), Dec. 2, 2002, [116 Stat. 2613][/us/stat/116/2613], provided that: 
 
 > “Paragraph (1) \[amending this section\] and the amendments made by such paragraph shall take effect as of October 1, 2001.”
 
  __Effective Date__ 
 
-[Pub. L. 107–107, div. A, title VIII, § 811(b)][/us/pl/107/107/s811/b], Dec. 28, 2001, [115 Stat. 1181][/us/stat/115/1181], provided that: 
+[Pub. L. 107–107, div. A, title VIII][/us/pl/107/107/dA/tVIII], § 811(b), Dec. 28, 2001, [115 Stat. 1181][/us/stat/115/1181], provided that: 
 
 > “[Section 2410n of title 10][/us/usc/t10/s2410n], United States Code (as added by subsection (a)), shall apply to purchases initiated on or after October 1, 2001.”
 
  __Regulatory Implementation__ 
 
-[Pub. L. 107–314, div. A, title VIII, § 819(b)][/us/pl/107/314/s819/b], Dec. 2, 2002, [116 Stat. 2613][/us/stat/116/2613], provided that:
+[Pub. L. 107–314, div. A, title VIII][/us/pl/107/314/dA/tVIII], § 819(b), Dec. 2, 2002, [116 Stat. 2613][/us/stat/116/2613], provided that:
 
 >     “(1) Proposed revisions to the Department of Defense Supplement to the Federal Acquisition Regulation to implement this section shall be published not later than 90 days after the date of the enactment of this Act \[Dec. 2, 2002\], and not less than 60 days shall be provided for public comment on the proposed revisions.
 
@@ -133,7 +133,7 @@
 
  __List of Products for Which Federal Prison Industries Has Significant Market Share__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 827(b)][/us/pl/110/181/s827/b], Jan. 28, 2008, [122 Stat. 228][/us/stat/122/228], provided that:
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 827(b), Jan. 28, 2008, [122 Stat. 228][/us/stat/122/228], provided that:
 
 >     “(1)  __Initial list__  __.—__ 
 
@@ -157,32 +157,32 @@
 [/us/usc/t18/s4124/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4124%2Fd
 [/us/usc/t18/s4124/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4124%2Fb
 [/us/usc/t10/s2302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F2
-[/us/pl/107/107/s811/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs811%2Fa%2F1
+[/us/pl/107/107/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVIII
 [/us/stat/115/1180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1180
-[/us/pl/107/314/s819/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs819%2Fa%2F1
+[/us/pl/107/314/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVIII
 [/us/stat/116/2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2612
-[/us/pl/109/163/s1056/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1056%2Fc%2F4
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3439
-[/us/pl/110/181/s827/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs827%2Fa%2F1
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F228
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t18/s4124/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4124%2Fd
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/107/314/s819/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs819%2Fa%2F1%2FA
-[/us/pl/107/314/s819/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs819%2Fa%2F1%2FB
-[/us/pl/107/314/s819/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs819%2Fa%2F1%2FC
-[/us/pl/110/181/s827/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs827%2Fa%2F2
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F228
-[/us/pl/111/383/s1075/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Ff%2F4
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4376
-[/us/pl/107/314/s819/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs819%2Fa%2F2
+[/us/pl/107/314/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVIII
 [/us/stat/116/2613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2613
-[/us/pl/107/107/s811/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs811%2Fb
+[/us/pl/107/107/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVIII
 [/us/stat/115/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1181
 [/us/usc/t10/s2410n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2410n
-[/us/pl/107/314/s819/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs819%2Fb
+[/us/pl/107/314/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVIII
 [/us/stat/116/2613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2613
-[/us/pl/110/181/s827/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs827%2Fb
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F228
 
 

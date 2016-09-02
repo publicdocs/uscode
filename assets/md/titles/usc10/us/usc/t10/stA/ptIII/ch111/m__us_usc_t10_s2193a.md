@@ -17,19 +17,19 @@
 
     The Secretary of Defense, in coordination with the Secretary of Education, may establish programs for the purpose of improving the mathematics and scientific knowledge and skills of elementary and secondary school students and faculty members.
 
-(Added and amended [Pub. L. 106–65, div. A, title V, § 580(c)(1)][/us/pl/106/65/s580/c/1], (2), Oct. 5, 1999, [113 Stat. 632][/us/stat/113/632], 633.)
+(Added and amended [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 580(c)(1), (2), Oct. 5, 1999, [113 Stat. 632][/us/stat/113/632], 633.)
 
  __Codification__ 
 
-    The text of [section 2193(b) of this title][/us/usc/t10/s2193/b], which was transferred to, and redesignated as text of, this section, was based on [Pub. L. 101–510, div. A, title II, § 247(a)(1)][/us/pl/101/510/s247/a/1], Nov. 5, 1990, [104 Stat. 1521][/us/stat/104/1521].
+    The text of [section 2193(b) of this title][/us/usc/t10/s2193/b], which was transferred to, and redesignated as text of, this section, was based on [Pub. L. 101–510, div. A, title II][/us/pl/101/510/dA/tII], § 247(a)(1), Nov. 5, 1990, [104 Stat. 1521][/us/stat/104/1521].
 
  __Amendments__ 
 
-    1999—[Pub. L. 106–65, § 580(c)(2)][/us/pl/106/65/s580/c/2], renumbered [section 2193(b) of this title][/us/usc/t10/s2193/b] as text of this section. See Codification note above.
+    1999—[Pub. L. 106–65][/us/pl/106/65], § 580(c)(2), renumbered [section 2193(b) of this title][/us/usc/t10/s2193/b] as text of this section. See Codification note above.
 
  __Pilot Program on Enhancement of Preparation of Dependents of Members of Armed Forces for Careers in Science, Technology, Engineering, and Mathematics__ 
 
-[Pub. L. 113–291, div. A, title II, § 233][/us/pl/113/291/s233], Dec. 19, 2014, [128 Stat. 3334][/us/stat/128/3334], provided that:
+[Pub. L. 113–291, div. A, title II][/us/pl/113/291/dA/tII], § 233, Dec. 19, 2014, [128 Stat. 3334][/us/stat/128/3334], provided that:
 
 >     “(a)  __Pilot Program__  __.—__ 
 
@@ -94,14 +94,14 @@
 ----------
 ----------
 
-[/us/pl/106/65/s580/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs580%2Fc%2F1
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F632
 [/us/usc/t10/s2193/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2193%2Fb
-[/us/pl/101/510/s247/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs247%2Fa%2F1
+[/us/pl/101/510/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtII
 [/us/stat/104/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1521
-[/us/pl/106/65/s580/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs580%2Fc%2F2
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t10/s2193/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2193%2Fb
-[/us/pl/113/291/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs233
+[/us/pl/113/291/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtII
 [/us/stat/128/3334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3334
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/usc/t10/s2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2358

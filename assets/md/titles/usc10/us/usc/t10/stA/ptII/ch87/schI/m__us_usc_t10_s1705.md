@@ -137,77 +137,77 @@
 
             (B) are designated as temporary members of the acquisition workforce by the Under Secretary of Defense for Acquisition, Technology, and Logistics, or by the senior acquisition executive of a military department, for the limited purpose of receiving training for the performance of acquisition-related functions and duties.
 
-(Added [Pub. L. 110–181, div. A, title VIII, § 852(a)(1)][/us/pl/110/181/s852/a/1], Jan. 28, 2008, [122 Stat. 248][/us/stat/122/248]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 833, Oct. 14, 2008, [122 Stat. 4535][/us/stat/122/4535]; [Pub. L. 111–84, div. A, title VIII][/us/pl/111/84], §§ 831, 832(a)–(g), Oct. 28, 2009, [123 Stat. 2414][/us/stat/123/2414], 2415; [Pub. L. 112–81, div. A, title VIII, § 804(a)][/us/pl/112/81/s804/a], Dec. 31, 2011, [125 Stat. 1486][/us/stat/125/1486]; [Pub. L. 112–239, div. A, title VIII, § 803(a)][/us/pl/112/239/s803/a], (b), Jan. 2, 2013, [126 Stat. 1825][/us/stat/126/1825]; [Pub. L. 114–92, div. A, title VIII, § 841(a)][/us/pl/114/92/s841/a], Nov. 25, 2015, [129 Stat. 913][/us/stat/129/913].)
+(Added [Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 852(a)(1), Jan. 28, 2008, [122 Stat. 248][/us/stat/122/248]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 833, Oct. 14, 2008, [122 Stat. 4535][/us/stat/122/4535]; [Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], §§ 831, 832(a)–(g), Oct. 28, 2009, [123 Stat. 2414][/us/stat/123/2414], 2415; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 804(a), Dec. 31, 2011, [125 Stat. 1486][/us/stat/125/1486]; [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 803(a), (b), Jan. 2, 2013, [126 Stat. 1825][/us/stat/126/1825]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 841(a), Nov. 25, 2015, [129 Stat. 913][/us/stat/129/913].)
 
  __Prior Provisions__ 
 
-    A prior section 1705, added [Pub. L. 101–510, div. A, title XII, § 1202(a)][/us/pl/101/510/s1202/a], Nov. 5, 1990, [104 Stat. 1639][/us/stat/104/1639], related to Directors of Acquisition Career Management in the military departments, prior to repeal by [Pub. L. 108–136, div. A, title VIII, § 831(a)][/us/pl/108/136/s831/a], Nov. 24, 2003, [117 Stat. 1549][/us/stat/117/1549].
+    A prior section 1705, added [Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1202(a), Nov. 5, 1990, [104 Stat. 1639][/us/stat/104/1639], related to Directors of Acquisition Career Management in the military departments, prior to repeal by [Pub. L. 108–136, div. A, title VIII][/us/pl/108/136/dA/tVIII], § 831(a), Nov. 24, 2003, [117 Stat. 1549][/us/stat/117/1549].
 
  __Amendments__ 
 
-    2015—Subsec. (d)(2)(C). [Pub. L. 114–92, § 841(a)(1)(A)][/us/pl/114/92/s841/a/1/A], amended subpar. (C) generally. Prior to amendment, subpar. (C) defined the applicable percentage for fiscal years 2013 to 2018.
+    2015—Subsec. (d)(2)(C). [Pub. L. 114–92][/us/pl/114/92], § 841(a)(1)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) defined the applicable percentage for fiscal years 2013 to 2018.
 
-    Subsec. (d)(2)(D). [Pub. L. 114–92, § 841(a)(1)(B)][/us/pl/114/92/s841/a/1/B], substituted “the amount specified in subparagraph (C)” for “an amount specified in subparagraph (C)” and “an amount that is less than $400,000,000.” for “an amount that is less than 80 percent of the amount otherwise specified in subparagraph (C) for such fiscal year.”
+    Subsec. (d)(2)(D). [Pub. L. 114–92][/us/pl/114/92], § 841(a)(1)(B), substituted “the amount specified in subparagraph (C)” for “an amount specified in subparagraph (C)” and “an amount that is less than $400,000,000.” for “an amount that is less than 80 percent of the amount otherwise specified in subparagraph (C) for such fiscal year.”
 
-    Subsec. (d)(3). [Pub. L. 114–92, § 841(a)(1)(C)][/us/pl/114/92/s841/a/1/C], substituted “36-month period” for “24-month period”.
+    Subsec. (d)(3). [Pub. L. 114–92][/us/pl/114/92], § 841(a)(1)(C), substituted “36-month period” for “24-month period”.
 
-    Subsec. (f). [Pub. L. 114–92, § 841(a)(2)][/us/pl/114/92/s841/a/2], substituted “120 days” for “60 days” in introductory provisions.
+    Subsec. (f). [Pub. L. 114–92][/us/pl/114/92], § 841(a)(2), substituted “120 days” for “60 days” in introductory provisions.
 
-    Subsec. (g). [Pub. L. 114–92, § 841(a)(3)][/us/pl/114/92/s841/a/3], struck out par. (1) designation before “For purposes of”; redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and realigned margins; substituted “of positions in the acquisition workforce, as defined in subsection (h),” for “acquisition workforce positions” in par. (1); and struck out former par. (2) which read as follows: “The Secretary may not appoint a person to a position of employment under this subsection after September 30, 2017.”
+    Subsec. (g). [Pub. L. 114–92][/us/pl/114/92], § 841(a)(3), struck out par. (1) designation before “For purposes of”; redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and realigned margins; substituted “of positions in the acquisition workforce, as defined in subsection (h),” for “acquisition workforce positions” in par. (1); and struck out former par. (2) which read as follows: “The Secretary may not appoint a person to a position of employment under this subsection after September 30, 2017.”
 
-    2013—Subsec. (d)(2)(C). [Pub. L. 112–239, § 803(a)(1)][/us/pl/112/239/s803/a/1], added cls. (i) to (vi) and struck out former cls. (i) to (vi) which established applicable amounts for fiscal years 2010 to 2015.
+    2013—Subsec. (d)(2)(C). [Pub. L. 112–239][/us/pl/112/239], § 803(a)(1), added cls. (i) to (vi) and struck out former cls. (i) to (vi) which established applicable amounts for fiscal years 2010 to 2015.
 
-    Subsec. (e)(1). [Pub. L. 112–239, § 803(a)(2)(A)][/us/pl/112/239/s803/a/2/A], inserted at end “In the case of temporary members of the acquisition workforce designated pursuant to subsection (h)(2), such funds shall be available only for the limited purpose of providing training in the performance of acquisition-related functions and duties.”
+    Subsec. (e)(1). [Pub. L. 112–239][/us/pl/112/239], § 803(a)(2)(A), inserted at end “In the case of temporary members of the acquisition workforce designated pursuant to subsection (h)(2), such funds shall be available only for the limited purpose of providing training in the performance of acquisition-related functions and duties.”
 
-    Subsec. (e)(5). [Pub. L. 112–239, § 803(a)(2)(B)][/us/pl/112/239/s803/a/2/B], inserted before period at end “, and who has continued in the employment of the Department since such time without a break in such employment of more than a year”.
+    Subsec. (e)(5). [Pub. L. 112–239][/us/pl/112/239], § 803(a)(2)(B), inserted before period at end “, and who has continued in the employment of the Department since such time without a break in such employment of more than a year”.
 
-    Subsec. (g). [Pub. L. 112–239, § 803(a)(3)][/us/pl/112/239/s803/a/3], (4), struck out subsec. (g) which defined “acquisition workforce” and redesignated subsec. (h) as (g).
+    Subsec. (g). [Pub. L. 112–239][/us/pl/112/239], § 803(a)(3), (4), struck out subsec. (g) which defined “acquisition workforce” and redesignated subsec. (h) as (g).
 
-    Subsec. (g)(2). [Pub. L. 112–239, § 803(b)][/us/pl/112/239/s803/b], substituted “September 30, 2017” for “September 30, 2015”.
+    Subsec. (g)(2). [Pub. L. 112–239][/us/pl/112/239], § 803(b), substituted “September 30, 2017” for “September 30, 2015”.
 
-    Subsec. (h). [Pub. L. 112–239, § 803(a)(5)][/us/pl/112/239/s803/a/5], added subsec. (h). Former subsec. (h) redesignated (g).
+    Subsec. (h). [Pub. L. 112–239][/us/pl/112/239], § 803(a)(5), added subsec. (h). Former subsec. (h) redesignated (g).
 
     2011—Subsec. (e)(6). [Pub. L. 112–81][/us/pl/112/81] amended par. (6) generally. Prior to amendment, text read as follows: “Amounts credited to the Fund under subsection (d)(2) shall remain available for expenditure in the fiscal year for which credited and the two succeeding fiscal years.”
 
-    2009—Subsec. (a). [Pub. L. 111–84, § 832(g)(1)][/us/pl/111/84/s832/g/1], inserted “Development” after “Workforce”.
+    2009—Subsec. (a). [Pub. L. 111–84][/us/pl/111/84], § 832(g)(1), inserted “Development” after “Workforce”.
 
-    Subsec. (d)(1)(B), (C). [Pub. L. 111–84, § 832(a)(1)][/us/pl/111/84/s832/a/1], added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (d)(1)(B), (C). [Pub. L. 111–84][/us/pl/111/84], § 832(a)(1), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Subsec. (d)(2)(A). [Pub. L. 111–84, § 832(b)][/us/pl/111/84/s832/b], substituted “from amounts available for contract services for operation and maintenance.” for “, other than services relating to research and development and services relating to military construction.”
+    Subsec. (d)(2)(A). [Pub. L. 111–84][/us/pl/111/84], § 832(b), substituted “from amounts available for contract services for operation and maintenance.” for “, other than services relating to research and development and services relating to military construction.”
 
-    Subsec. (d)(2)(B). [Pub. L. 111–84, § 832(d)(1)][/us/pl/111/84/s832/d/1], (2)(A), substituted “Subject to paragraph (4), not later than” for “Not later than” and “the first quarter of each fiscal year” for “the third fiscal year quarter of fiscal year 2008, and 30 days after the end of each fiscal year quarter thereafter” and struck out “quarter” before “for services”.
+    Subsec. (d)(2)(B). [Pub. L. 111–84][/us/pl/111/84], § 832(d)(1), (2)(A), substituted “Subject to paragraph (4), not later than” for “Not later than” and “the first quarter of each fiscal year” for “the third fiscal year quarter of fiscal year 2008, and 30 days after the end of each fiscal year quarter thereafter” and struck out “quarter” before “for services”.
 
-    [Pub. L. 111–84, § 832(c)][/us/pl/111/84/s832/c], inserted “, from amounts available to such military department or Defense Agency, as the case may be, for contract services for operation and maintenance,” after “remit to the Secretary of Defense”.
+    [Pub. L. 111–84][/us/pl/111/84], § 832(c), inserted “, from amounts available to such military department or Defense Agency, as the case may be, for contract services for operation and maintenance,” after “remit to the Secretary of Defense”.
 
-    Subsec. (d)(2)(C), (D). [Pub. L. 111–84, § 832(e)][/us/pl/111/84/s832/e], added subpars. (C) and (D) and struck out former subpars. (C) and (D), which established applicable percentages for fiscal years 2008 to 2010 and thereafter and authorized the Secretary of Defense to reduce such percentages under certain circumstances and to a certain limit.
+    Subsec. (d)(2)(C), (D). [Pub. L. 111–84][/us/pl/111/84], § 832(e), added subpars. (C) and (D) and struck out former subpars. (C) and (D), which established applicable percentages for fiscal years 2008 to 2010 and thereafter and authorized the Secretary of Defense to reduce such percentages under certain circumstances and to a certain limit.
 
-    Subsec. (d)(3). [Pub. L. 111–84, § 832(a)(2)][/us/pl/111/84/s832/a/2], added par. (3).
+    Subsec. (d)(3). [Pub. L. 111–84][/us/pl/111/84], § 832(a)(2), added par. (3).
 
-    Subsec. (d)(4). [Pub. L. 111–84, § 832(d)(2)(B)][/us/pl/111/84/s832/d/2/B], added par. (4).
+    Subsec. (d)(4). [Pub. L. 111–84][/us/pl/111/84], § 832(d)(2)(B), added par. (4).
 
-    Subsec. (e)(5). [Pub. L. 111–84, § 832(f)][/us/pl/111/84/s832/f], substituted “serving in a position in the acquisition workforce as of January 28, 2008” for “as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008”.
+    Subsec. (e)(5). [Pub. L. 111–84][/us/pl/111/84], § 832(f), substituted “serving in a position in the acquisition workforce as of January 28, 2008” for “as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008”.
 
-    Subsec. (f). [Pub. L. 111–84, § 832(g)(2)][/us/pl/111/84/s832/g/2], struck out “beginning with fiscal year 2008” after “each fiscal year” in introductory provisions.
+    Subsec. (f). [Pub. L. 111–84][/us/pl/111/84], § 832(g)(2), struck out “beginning with fiscal year 2008” after “each fiscal year” in introductory provisions.
 
-    Subsec. (h)(1). [Pub. L. 111–84, § 831(c)][/us/pl/111/84/s831/c], struck out “United States Code,” after “title 5,” in introductory provisions.
+    Subsec. (h)(1). [Pub. L. 111–84][/us/pl/111/84], § 831(c), struck out “United States Code,” after “title 5,” in introductory provisions.
 
-    Subsec. (h)(1)(A). [Pub. L. 111–84, § 831(a)(1)][/us/pl/111/84/s831/a/1], substituted “acquisition workforce positions as positions for which there exists a shortage of candidates or there is a critical hiring need” for “acquisition positions within the Department of Defense as shortage category positions”.
+    Subsec. (h)(1)(A). [Pub. L. 111–84][/us/pl/111/84], § 831(a)(1), substituted “acquisition workforce positions as positions for which there exists a shortage of candidates or there is a critical hiring need” for “acquisition positions within the Department of Defense as shortage category positions”.
 
-    Subsec. (h)(1)(B). [Pub. L. 111–84, § 831(a)(2)][/us/pl/111/84/s831/a/2], struck out “highly” after “appoint”.
+    Subsec. (h)(1)(B). [Pub. L. 111–84][/us/pl/111/84], § 831(a)(2), struck out “highly” after “appoint”.
 
-    Subsec. (h)(2). [Pub. L. 111–84, § 831(b)][/us/pl/111/84/s831/b], substituted “September 30, 2015” for “September 30, 2012”.
+    Subsec. (h)(2). [Pub. L. 111–84][/us/pl/111/84], § 831(b), substituted “September 30, 2015” for “September 30, 2012”.
 
     2008—Subsec. (h). [Pub. L. 110–417][/us/pl/110/417] added subsec. (h).
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–81, div. A, title VIII, § 804(b)][/us/pl/112/81/s804/b], Dec. 31, 2011, [125 Stat. 1486][/us/stat/125/1486], provided that: 
+[Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 804(b), Dec. 31, 2011, [125 Stat. 1486][/us/stat/125/1486], provided that: 
 
 > “Paragraph (6) of such section \[[10 U.S.C. 1705(e)(6)][/us/usc/t10/s1705/e/6]\], as amended by subsection (a), shall not apply to funds directly appropriated to the Fund before the date of the enactment of this Act \[Dec. 31, 2011\].”
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–84, div. A, title VIII, § 832(h)][/us/pl/111/84/s832/h], Oct. 28, 2009, [123 Stat. 2416][/us/stat/123/2416], provided that:
+[Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], § 832(h), Oct. 28, 2009, [123 Stat. 2416][/us/stat/123/2416], provided that:
 
 >     “(1)  __Funding amendments__  __.—__ 
 
@@ -219,13 +219,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 852(b)][/us/pl/110/181/s852/b], Jan. 28, 2008, [122 Stat. 250][/us/stat/122/250], provided that: 
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 852(b), Jan. 28, 2008, [122 Stat. 250][/us/stat/122/250], provided that: 
 
 > “[Section 1705 of title 10][/us/usc/t10/s1705], United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Jan. 28, 2008\].”
 
  __Plan Required for Temporary Members of Defense Acquisition Workforce__ 
 
-[Pub. L. 112–239, div. A, title VIII, § 803(c)][/us/pl/112/239/s803/c], Jan. 2, 2013, [126 Stat. 1825][/us/stat/126/1825], provided that: 
+[Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 803(c), Jan. 2, 2013, [126 Stat. 1825][/us/stat/126/1825], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall develop a plan for the implementation of the authority provided by the amendments made by subsection (a) \[amending this section\] with regard to temporary members of the defense acquisition workforce. The plan shall include policy, criteria, and processes for designating temporary members and appropriate safeguards to prevent the abuse of such authority.”
 
@@ -237,58 +237,58 @@
 ----------
 
 [/us/usc/t10/s1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1721
-[/us/pl/110/181/s852/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs852%2Fa%2F1
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F248
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4535
-[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2414
-[/us/pl/112/81/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs804%2Fa
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1486
-[/us/pl/112/239/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs803%2Fa
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1825
-[/us/pl/114/92/s841/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs841%2Fa
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F913
-[/us/pl/101/510/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1202%2Fa
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1639
-[/us/pl/108/136/s831/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs831%2Fa
+[/us/pl/108/136/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVIII
 [/us/stat/117/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1549
-[/us/pl/114/92/s841/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs841%2Fa%2F1%2FA
-[/us/pl/114/92/s841/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs841%2Fa%2F1%2FB
-[/us/pl/114/92/s841/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs841%2Fa%2F1%2FC
-[/us/pl/114/92/s841/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs841%2Fa%2F2
-[/us/pl/114/92/s841/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs841%2Fa%2F3
-[/us/pl/112/239/s803/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs803%2Fa%2F1
-[/us/pl/112/239/s803/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs803%2Fa%2F2%2FA
-[/us/pl/112/239/s803/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs803%2Fa%2F2%2FB
-[/us/pl/112/239/s803/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs803%2Fa%2F3
-[/us/pl/112/239/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs803%2Fb
-[/us/pl/112/239/s803/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs803%2Fa%2F5
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/111/84/s832/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs832%2Fg%2F1
-[/us/pl/111/84/s832/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs832%2Fa%2F1
-[/us/pl/111/84/s832/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs832%2Fb
-[/us/pl/111/84/s832/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs832%2Fd%2F1
-[/us/pl/111/84/s832/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs832%2Fc
-[/us/pl/111/84/s832/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs832%2Fe
-[/us/pl/111/84/s832/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs832%2Fa%2F2
-[/us/pl/111/84/s832/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs832%2Fd%2F2%2FB
-[/us/pl/111/84/s832/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs832%2Ff
-[/us/pl/111/84/s832/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs832%2Fg%2F2
-[/us/pl/111/84/s831/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs831%2Fc
-[/us/pl/111/84/s831/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs831%2Fa%2F1
-[/us/pl/111/84/s831/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs831%2Fa%2F2
-[/us/pl/111/84/s831/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs831%2Fb
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/112/81/s804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs804%2Fb
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1486
 [/us/usc/t10/s1705/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1705%2Fe%2F6
-[/us/pl/111/84/s832/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs832%2Fh
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2416
-[/us/pl/110/181/s852/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs852%2Fb
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F250
 [/us/usc/t10/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1705
-[/us/pl/112/239/s803/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs803%2Fc
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1825
 
 

@@ -69,33 +69,33 @@
 
     (e) The Secretary of Defense, after consultation with the Director of the Office of Personnel Management and the Special Counsel of the Merit Systems Protection Board, shall prescribe regulations to carry out this section. Such regulations shall include provisions to protect the confidentiality of employees and applicants making disclosures described in clauses (1) and (2) of subsection (b) and to permit the reporting of alleged violations of subsection (b) directly to the Inspector General of the Department of Defense.
 
-(Added [Pub. L. 98–94, title XII, § 1253(a)(1)][/us/pl/98/94/s1253/a/1], Sept. 24, 1983, [97 Stat. 699][/us/stat/97/699]; amended [Pub. L. 100–26, § 7(k)(2)][/us/pl/100/26/s7/k/2], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 104–106, div. A, title IX, § 903(f)(3)][/us/pl/104/106/s903/f/3], title X, § 1040(a)–(d)(1), Feb. 10, 1996, [110 Stat. 402][/us/stat/110/402], 433; [Pub. L. 104–201, div. A, title IX, § 901][/us/pl/104/201/s901], Sept. 23, 1996, [110 Stat. 2617][/us/stat/110/2617]; [Pub. L. 113–66, div. A, title VI, § 641][/us/pl/113/66/s641], Dec. 26, 2013, [127 Stat. 787][/us/stat/127/787].)
+(Added [Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1253(a)(1), Sept. 24, 1983, [97 Stat. 699][/us/stat/97/699]; amended [Pub. L. 100–26][/us/pl/100/26], § 7(k)(2), Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 104–106, div. A, title IX][/us/pl/104/106/dA/tIX], § 903(f)(3), title X, § 1040(a)–(d)(1), Feb. 10, 1996, [110 Stat. 402][/us/stat/110/402], 433; [Pub. L. 104–201, div. A, title IX][/us/pl/104/201/dA/tIX], § 901, Sept. 23, 1996, [110 Stat. 2617][/us/stat/110/2617]; [Pub. L. 113–66, div. A, title VI][/us/pl/113/66/dA/tVI], § 641, Dec. 26, 2013, [127 Stat. 787][/us/stat/127/787].)
 
  __Amendments__ 
 
     2013—Subsec. (b). [Pub. L. 113–66][/us/pl/113/66] inserted “, or threaten to take or fail to take,” after “take or fail to take”.
 
-    1996—[Pub. L. 104–106, § 1040(d)(1)][/us/pl/104/106/s1040/d/1], inserted “: reprisals” after “instrumentalities” in section catchline.
+    1996—[Pub. L. 104–106][/us/pl/104/106], § 1040(d)(1), inserted “: reprisals” after “instrumentalities” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 104–106, § 1040(c)][/us/pl/104/106/s1040/c], substituted “Navy Exchange Service Command” for “Navy Resale and Services Support Office”.
+    Subsec. (a)(1). [Pub. L. 104–106][/us/pl/104/106], § 1040(c), substituted “Navy Exchange Service Command” for “Navy Resale and Services Support Office”.
 
-    [Pub. L. 104–106, § 1040(a)][/us/pl/104/106/s1040/a], inserted at end “Such term includes a civilian employee of a support organization within the Department of Defense or a military department, such as the Defense Finance and Accounting Service, who is paid from nonappropriated funds on account of the nature of the employee’s duties.”
+    [Pub. L. 104–106][/us/pl/104/106], § 1040(a), inserted at end “Such term includes a civilian employee of a support organization within the Department of Defense or a military department, such as the Defense Finance and Accounting Service, who is paid from nonappropriated funds on account of the nature of the employee’s duties.”
 
-    Subsec. (d). [Pub. L. 104–106, § 903(a)][/us/pl/104/106/s903/a], (f)(3), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting “official in the Department of Defense with principal responsibility for personnel and readiness” for “Assistant Secretary of Defense for Manpower and Logistics”, was repealed by [Pub. L. 104–201][/us/pl/104/201].
+    Subsec. (d). [Pub. L. 104–106][/us/pl/104/106], § 903(a), (f)(3), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting “official in the Department of Defense with principal responsibility for personnel and readiness” for “Assistant Secretary of Defense for Manpower and Logistics”, was repealed by [Pub. L. 104–201][/us/pl/104/201].
 
-    Subsec. (e). [Pub. L. 104–106, § 1040(b)][/us/pl/104/106/s1040/b], inserted before period at end of second sentence “and to permit the reporting of alleged violations of subsection (b) directly to the Inspector General of the Department of Defense”.
+    Subsec. (e). [Pub. L. 104–106][/us/pl/104/106], § 1040(b), inserted before period at end of second sentence “and to permit the reporting of alleged violations of subsection (b) directly to the Inspector General of the Department of Defense”.
 
     1987—Subsec. (a). [Pub. L. 100–26][/us/pl/100/26] inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in each par. and substituted lowercase letter.
 
  __Effective Date__ 
 
-[Pub. L. 98–94, title XII, § 1253(b)][/us/pl/98/94/s1253/b], Sept. 24, 1983, [97 Stat. 700][/us/stat/97/700], provided that: 
+[Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1253(b), Sept. 24, 1983, [97 Stat. 700][/us/stat/97/700], provided that: 
 
 > “Section 1587 of such title \[this section\], as added by subsection (a), shall apply with respect to any conduct prohibited by subsection (b) of such section which occurs after the date of the enactment of this Act \[Sept. 24, 1983\].”
 
  __Limitation on Provision of Overseas Living Quarters Allowances for Nonappropriated Fund Instrumentality Employees__ 
 
-[Pub. L. 104–106, div. A, title X, § 1042][/us/pl/104/106/s1042], Feb. 10, 1996, [110 Stat. 434][/us/stat/110/434], provided that:
+[Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1042, Feb. 10, 1996, [110 Stat. 434][/us/stat/110/434], provided that:
 
 >     “(a)  __Conforming Allowance to Allowances for Other Civilian Employees__  __.—__ 
 
@@ -115,7 +115,7 @@
 
  __Uniform Health Benefits Program for Employees of Department of Defense Assigned to Nonappropriated Fund Instrumentalities__ 
 
-[Pub. L. 103–337, div. A, title III, § 349][/us/pl/103/337/s349], Oct. 5, 1994, [108 Stat. 2727][/us/stat/108/2727], as amended by [Pub. L. 108–375, div. A, title VI, § 652][/us/pl/108/375/s652], Oct. 28, 2004, [118 Stat. 1973][/us/stat/118/1973], provided that:
+[Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 349, Oct. 5, 1994, [108 Stat. 2727][/us/stat/108/2727], as amended by [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 652, Oct. 28, 2004, [118 Stat. 1973][/us/stat/118/1973], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -141,32 +141,32 @@
 ----------
 
 [/us/usc/t5/s2105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105%2Fa
-[/us/pl/98/94/s1253/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1253%2Fa%2F1
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F699
-[/us/pl/100/26/s7/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fk%2F2
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F284
-[/us/pl/104/106/s903/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs903%2Ff%2F3
+[/us/pl/104/106/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIX
 [/us/stat/110/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F402
-[/us/pl/104/201/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs901
+[/us/pl/104/201/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIX
 [/us/stat/110/2617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2617
-[/us/pl/113/66/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs641
+[/us/pl/113/66/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVI
 [/us/stat/127/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F787
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/104/106/s1040/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1040%2Fd%2F1
-[/us/pl/104/106/s1040/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1040%2Fc
-[/us/pl/104/106/s1040/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1040%2Fa
-[/us/pl/104/106/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs903%2Fa
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/104/106/s1040/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1040%2Fb
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
-[/us/pl/98/94/s1253/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1253%2Fb
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F700
-[/us/pl/104/106/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1042
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F434
 [/us/usc/t10/s1587/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1587%2Fa%2F1
-[/us/pl/103/337/s349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs349
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2727
-[/us/pl/108/375/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs652
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1973
 
 

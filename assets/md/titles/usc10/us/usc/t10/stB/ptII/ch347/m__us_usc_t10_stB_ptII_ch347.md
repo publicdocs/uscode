@@ -11,28 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch345/m__us_usc_t10_s3583.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch349/m__us_usc_t10_stB_ptII_ch349.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch347)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch345/m__us_usc_t10_s3583.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch347/m__us_usc_t10_s3611 _us_usc_t10_s3612.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch347)
 
 #### \[CHAPTER 347—REPEALED\]
 
-\[§§ 3611, 3612. __Repealed.__  __[__  __Pub. L. 90–235, § 8(2)__  __][/us/pl/90/235/s8/2]__  __,__  __Jan. 2, 1968__  __,__  __[__  __81 Stat. 764__  __][/us/stat/81/764]__  __\]__ 
-
-    Section 3611, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 206][/us/stat/70A/206], provided that President could prescribe the uniform of the Army.
-
-    Section 3612, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 206][/us/stat/70A/206], provided for disposition of uniforms of enlisted members of Army who were discharged and for disposition of uniforms of and issuance of civilian clothing to enlisted members of Army who were discharged otherwise than honorably.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch345/m__us_usc_t10_s3583.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch349/m__us_usc_t10_stB_ptII_ch349.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch347)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch345/m__us_usc_t10_s3583.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch347/m__us_usc_t10_s3611 _us_usc_t10_s3612.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch347)
 
 ----------
 ----------
 
-[/us/pl/90/235/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs8%2F2
-[/us/stat/81/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F764
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F206
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F206
 
 

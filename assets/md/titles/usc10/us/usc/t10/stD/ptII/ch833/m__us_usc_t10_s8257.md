@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch833/m__us_usc_t10_s8253.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch833/m__us_usc_t10_s8258.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8257)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch833/m__us_usc_t10_s8254...8256.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch833/m__us_usc_t10_s8258.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8257)
 
 ## § 8257. Regular Air Force: aviation cadets; qualifications, grade, limitations
 
@@ -31,7 +31,7 @@
 
     (e) While on active duty, an aviation cadet is entitled to uniforms, clothing, and equipment at the expense of the United States.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 504][/us/stat/70A/504]; [Pub. L. 85–861, § 33(a)(37)][/us/pl/85/861/s33/a/37], Sept. 2, 1958, [72 Stat. 1566][/us/stat/72/1566]; [Pub. L. 96–513, title II, § 237][/us/pl/96/513/s237], Dec. 12, 1980, [94 Stat. 2887][/us/stat/94/2887].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 504][/us/stat/70A/504]; [Pub. L. 85–861][/us/pl/85/861], § 33(a)(37), Sept. 2, 1958, [72 Stat. 1566][/us/stat/72/1566]; [Pub. L. 96–513, title II][/us/pl/96/513/tII], § 237, Dec. 12, 1980, [94 Stat. 2887][/us/stat/94/2887].)
 
 <table>
 
@@ -165,16 +165,16 @@ June 13, 1949, ch. 199, § 3, 63 Stat. 175.  </td>
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch833/m__us_usc_t10_s8253.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch833/m__us_usc_t10_s8258.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8257)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch833/m__us_usc_t10_s8254...8256.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch833/m__us_usc_t10_s8258.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8257)
 
 ----------
 ----------
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F504
-[/us/pl/85/861/s33/a/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F37
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1566
-[/us/pl/96/513/s237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs237
+[/us/pl/96/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtII
 [/us/stat/94/2887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2887
 [/us/usc/t10/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs304
 [/us/stat/70A/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F627

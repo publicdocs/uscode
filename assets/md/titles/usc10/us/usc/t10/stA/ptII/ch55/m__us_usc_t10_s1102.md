@@ -89,13 +89,13 @@
 
     Any person who willfully discloses a medical quality assurance record other than as provided in this section, knowing that such record is a medical quality assurance record, shall be fined not more than $3,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
 
-(Added [Pub. L. 99–661, div. A, title VII, § 705(a)][/us/pl/99/661/s705/a]\[(1)\], Nov. 14, 1986, [100 Stat. 3902][/us/stat/100/3902]; amended [Pub. L. 100–180, div. A, title XII, § 1231(5)][/us/pl/100/180/s1231/5], Dec. 4, 1987, [101 Stat. 1160][/us/stat/101/1160]; [Pub. L. 101–189, div. A, title VI, § 653(f)][/us/pl/101/189/s653/f], Nov. 29, 1989, [103 Stat. 1463][/us/stat/103/1463]; [Pub. L. 108–375, div. A, title X, § 1084(c)(2)][/us/pl/108/375/s1084/c/2], Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061]; [Pub. L. 112–81, div. A, title VII, § 714(a)][/us/pl/112/81/s714/a], Dec. 31, 2011, [125 Stat. 1476][/us/stat/125/1476].)
+(Added [Pub. L. 99–661, div. A, title VII][/us/pl/99/661/dA/tVII], § 705(a)\[(1)\], Nov. 14, 1986, [100 Stat. 3902][/us/stat/100/3902]; amended [Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1231(5), Dec. 4, 1987, [101 Stat. 1160][/us/stat/101/1160]; [Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 653(f), Nov. 29, 1989, [103 Stat. 1463][/us/stat/103/1463]; [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(c)(2), Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061]; [Pub. L. 112–81, div. A, title VII][/us/pl/112/81/dA/tVII], § 714(a), Dec. 31, 2011, [125 Stat. 1476][/us/stat/125/1476].)
 
  __Amendments__ 
 
-    2011—Subsec. (j)(1). [Pub. L. 112–81, § 714(a)(1)][/us/pl/112/81/s714/a/1], substituted “any peer review activity carried out” for “any activity carried out”.
+    2011—Subsec. (j)(1). [Pub. L. 112–81][/us/pl/112/81], § 714(a)(1), substituted “any peer review activity carried out” for “any activity carried out”.
 
-    Subsec. (j)(4). [Pub. L. 112–81, § 714(a)(2)][/us/pl/112/81/s714/a/2], added par. (4).
+    Subsec. (j)(4). [Pub. L. 112–81][/us/pl/112/81], § 714(a)(2), added par. (4).
 
     2004—Subsec. (d)(2). [Pub. L. 108–375][/us/pl/108/375] substituted “Comptroller General” for “General Accounting Office”.
 
@@ -105,13 +105,13 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–81, div. A, title VII, § 714(b)][/us/pl/112/81/s714/b], Dec. 31, 2011, [125 Stat. 1477][/us/stat/125/1477], provided that: 
+[Pub. L. 112–81, div. A, title VII][/us/pl/112/81/dA/tVII], § 714(b), Dec. 31, 2011, [125 Stat. 1477][/us/stat/125/1477], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 2012.”
 
  __Effective Date__ 
 
-[Pub. L. 99–661, div. A, title VII, § 705(b)][/us/pl/99/661/s705/b], Nov. 14, 1986, [100 Stat. 3904][/us/stat/100/3904], provided that: 
+[Pub. L. 99–661, div. A, title VII][/us/pl/99/661/dA/tVII], § 705(b), Nov. 14, 1986, [100 Stat. 3904][/us/stat/100/3904], provided that: 
 
 > “[Section 1102 of title 10][/us/usc/t10/s1102], United States Code, as added by subsection (a), shall apply to all records created before, on, or after the date of the enactment of this Act \[Nov. 14, 1986\] by or for the Department of Defense as part of a medical quality assurance program.”
 
@@ -124,24 +124,24 @@
 
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/99/661/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs705%2Fa
+[/us/pl/99/661/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVII
 [/us/stat/100/3902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3902
-[/us/pl/100/180/s1231/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1231%2F5
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1160
-[/us/pl/101/189/s653/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs653%2Ff
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1463
-[/us/pl/108/375/s1084/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fc%2F2
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2061
-[/us/pl/112/81/s714/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs714%2Fa
+[/us/pl/112/81/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVII
 [/us/stat/125/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1476
-[/us/pl/112/81/s714/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs714%2Fa%2F1
-[/us/pl/112/81/s714/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs714%2Fa%2F2
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
-[/us/pl/112/81/s714/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs714%2Fb
+[/us/pl/112/81/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVII
 [/us/stat/125/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1477
-[/us/pl/99/661/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs705%2Fb
+[/us/pl/99/661/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVII
 [/us/stat/100/3904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3904
 [/us/usc/t10/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1102
 

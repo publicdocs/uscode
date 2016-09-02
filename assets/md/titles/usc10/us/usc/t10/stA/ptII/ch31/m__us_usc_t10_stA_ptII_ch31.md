@@ -211,35 +211,35 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–375, div. A, title V, § 551(a)(2)][/us/pl/108/375/s551/a/2], Oct. 28, 2004, [118 Stat. 1911][/us/stat/118/1911], added item 511.
+    2004—[Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 551(a)(2), Oct. 28, 2004, [118 Stat. 1911][/us/stat/118/1911], added item 511.
 
-    2003—[Pub. L. 108–136, div. A, title X, § 1031(a)(8)(B)][/us/pl/108/136/s1031/a/8/B], Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597], substituted “provision of meals and refreshments” for “use of funds” in item 520c.
+    2003—[Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(8)(B), Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597], substituted “provision of meals and refreshments” for “use of funds” in item 520c.
 
-    2002—[Pub. L. 107–314, div. A, title V, § 531(a)(2)][/us/pl/107/314/s531/a/2], Dec. 2, 2002, [116 Stat. 2544][/us/stat/116/2544], added item 510.
+    2002—[Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 531(a)(2), Dec. 2, 2002, [116 Stat. 2544][/us/stat/116/2544], added item 510.
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1076(g)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–282, struck out item 520a “Criminal history information for military recruiting purposes”.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1076(g)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–282, struck out item 520a “Criminal history information for military recruiting purposes”.
 
-    1996—[Pub. L. 104–201, div. A, title III, § 361(b)][/us/pl/104/201/s361/b], Sept. 23, 1996, [110 Stat. 2491][/us/stat/110/2491], added item 520c.
+    1996—[Pub. L. 104–201, div. A, title III][/us/pl/104/201/dA/tIII], § 361(b), Sept. 23, 1996, [110 Stat. 2491][/us/stat/110/2491], added item 520c.
 
-    1994—[Pub. L. 103–337, div. A, title XVI, § 1671(b)(3)][/us/pl/103/337/s1671/b/3], Oct. 5, 1994, [108 Stat. 3013][/us/stat/108/3013], as amended by [Pub. L. 104–106, div. A, title XV, § 1501(a)(8)(A)][/us/pl/104/106/s1501/a/8/A], Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495], struck out items 510 “Reserve components: qualifications”, 511 “Reserve components: terms”, and 512 “Reserve components: transfers”.
+    1994—[Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1671(b)(3), Oct. 5, 1994, [108 Stat. 3013][/us/stat/108/3013], as amended by [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(a)(8)(A), Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495], struck out items 510 “Reserve components: qualifications”, 511 “Reserve components: terms”, and 512 “Reserve components: transfers”.
 
-    1989—[Pub. L. 101–189, div. A, title V, § 501(a)(2)][/us/pl/101/189/s501/a/2], Nov. 29, 1989, [103 Stat. 1435][/us/stat/103/1435], added item 513.
+    1989—[Pub. L. 101–189, div. A, title V][/us/pl/101/189/dA/tV], § 501(a)(2), Nov. 29, 1989, [103 Stat. 1435][/us/stat/103/1435], added item 513.
 
-    1985—[Pub. L. 99–145, title XIII, § 1303(a)(4)(B)][/us/pl/99/145/s1303/a/4/B], Nov. 8, 1985, [99 Stat. 738][/us/stat/99/738], substituted “enlistment” for “enlistments” in item 520b.
+    1985—[Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1303(a)(4)(B), Nov. 8, 1985, [99 Stat. 738][/us/stat/99/738], substituted “enlistment” for “enlistments” in item 520b.
 
-    1984—[Pub. L. 98–525, title XIV, § 1401(a)(2)][/us/pl/98/525/s1401/a/2], Oct. 19, 1984, [98 Stat. 2614][/us/stat/98/2614], added item 520b.
+    1984—[Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1401(a)(2), Oct. 19, 1984, [98 Stat. 2614][/us/stat/98/2614], added item 520b.
 
-    1982—[Pub. L. 97–252, title XI, § 1114(b)(3)][/us/pl/97/252/s1114/b/3], (c)(2), Sept. 8, 1982, [96 Stat. 749][/us/stat/96/749], 750, inserted “; compilation of directory information” in item 503, and added item 520a.
+    1982—[Pub. L. 97–252, title XI][/us/pl/97/252/tXI], § 1114(b)(3), (c)(2), Sept. 8, 1982, [96 Stat. 749][/us/stat/96/749], 750, inserted “; compilation of directory information” in item 503, and added item 520a.
 
-    1980—[Pub. L. 96–342, title III, § 302(b)(2)][/us/pl/96/342/s302/b/2], Sept. 8, 1980, [94 Stat. 1083][/us/stat/94/1083], added item 520.
+    1980—[Pub. L. 96–342, title III][/us/pl/96/342/tIII], § 302(b)(2), Sept. 8, 1980, [94 Stat. 1083][/us/stat/94/1083], added item 520.
 
-    1968—[Pub. L. 90–623, § 2(2)][/us/pl/90/623/s2/2], Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314], struck out “or national emergency” after “extension of enlistments during war” in item 506.
+    1968—[Pub. L. 90–623][/us/pl/90/623], § 2(2), Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314], struck out “or national emergency” after “extension of enlistments during war” in item 506.
 
-    [Pub. L. 90–235, § 2(a)(1)(C)][/us/pl/90/235/s2/a/1/C], Jan. 2, 1968, [81 Stat. 755][/us/stat/81/755], redesignated item 501 as 502, and added items 501, 503 to 509, 518 and 519.
+    [Pub. L. 90–235][/us/pl/90/235], § 2(a)(1)(C), Jan. 2, 1968, [81 Stat. 755][/us/stat/81/755], redesignated item 501 as 502, and added items 501, 503 to 509, 518 and 519.
 
-    1962—[Pub. L. 87–649, § 2(2)][/us/pl/87/649/s2/2], Sept. 7, 1962, [76 Stat. 492][/us/stat/76/492], added item 517.
+    1962—[Pub. L. 87–649][/us/pl/87/649], § 2(2), Sept. 7, 1962, [76 Stat. 492][/us/stat/76/492], added item 517.
 
-    1958—[Pub. L. 85–861, § 1(9)(B)][/us/pl/85/861/s1/9/B], (C), Sept. 2, 1958, [72 Stat. 1440][/us/stat/72/1440], struck out item 513 “Reserve components: promotions” and added item 516.
+    1958—[Pub. L. 85–861][/us/pl/85/861], § 1(9)(B), (C), Sept. 2, 1958, [72 Stat. 1440][/us/stat/72/1440], struck out item 513 “Reserve components: promotions” and added item 516.
 
 ----------
 
@@ -248,37 +248,37 @@
 ----------
 ----------
 
-[/us/pl/108/375/s551/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs551%2Fa%2F2
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1911
-[/us/pl/108/136/s1031/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F8%2FB
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1597
-[/us/pl/107/314/s531/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs531%2Fa%2F2
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2544
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/104/201/s361/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs361%2Fb
+[/us/pl/104/201/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIII
 [/us/stat/110/2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2491
-[/us/pl/103/337/s1671/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1671%2Fb%2F3
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3013
-[/us/pl/104/106/s1501/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fa%2F8%2FA
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F495
-[/us/pl/101/189/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs501%2Fa%2F2
+[/us/pl/101/189/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtV
 [/us/stat/103/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1435
-[/us/pl/99/145/s1303/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1303%2Fa%2F4%2FB
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F738
-[/us/pl/98/525/s1401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1401%2Fa%2F2
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2614
-[/us/pl/97/252/s1114/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1114%2Fb%2F3
+[/us/pl/97/252/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtXI
 [/us/stat/96/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F749
-[/us/pl/96/342/s302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs302%2Fb%2F2
+[/us/pl/96/342/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtIII
 [/us/stat/94/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1083
-[/us/pl/90/623/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs2%2F2
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1314
-[/us/pl/90/235/s2/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs2%2Fa%2F1%2FC
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F755
-[/us/pl/87/649/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs2%2F2
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F492
-[/us/pl/85/861/s1/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F9%2FB
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1440
 
 

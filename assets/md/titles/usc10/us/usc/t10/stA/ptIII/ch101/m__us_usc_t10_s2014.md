@@ -59,7 +59,7 @@
 
     In this section, the term “Executive agency” has the meaning given such term in [section 105 of title 5][/us/usc/t5/s105], except that the term does not include the Government Accountability Office.
 
-(Added [Pub. L. 105–85, div. A, title III, § 325(a)][/us/pl/105/85/s325/a], Nov. 18, 1997, [111 Stat. 1678][/us/stat/111/1678]; amended [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–375, div. A, title X, § 1084(c)(3)][/us/pl/108/375/s1084/c/3], Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061].)
+(Added [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 325(a), Nov. 18, 1997, [111 Stat. 1678][/us/stat/111/1678]; amended [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(c)(3), Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061].)
 
  __Amendments__ 
 
@@ -75,11 +75,11 @@
 ----------
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/105/85/s325/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs325%2Fa
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1678
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/108/375/s1084/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fc%2F3
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2061
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65

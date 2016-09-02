@@ -17,7 +17,7 @@
 
     There is in the Office of the Secretary of the Air Force an Air Force Reserve Forces Policy Committee. The functions, membership, and organization of that committee are set forth in [section 10305 of this title][/us/usc/t10/s10305].
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1661(b)(4)(B)][/us/pl/103/337/s1661/b/4/B], Oct. 5, 1994, [108 Stat. 2982][/us/stat/108/2982].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1661(b)(4)(B), Oct. 5, 1994, [108 Stat. 2982][/us/stat/108/2982].)
 
  __Prior Provisions__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t10/s10305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10305
-[/us/pl/103/337/s1661/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fb%2F4%2FB
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2982
 [/us/usc/t10/s10305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10305
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691

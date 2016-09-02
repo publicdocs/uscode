@@ -19,7 +19,7 @@
 
     (b) Under regulations prescribed by the Secretary of Defense, the Secretary of each military department may, for an armed force under his jurisdiction, prescribe the strength of any category of officers that may serve on active duty.
 
-(Added [Pub. L. 96–513, title I, § 103][/us/pl/96/513/s103], Dec. 12, 1980, [94 Stat. 2841][/us/stat/94/2841]; amended [Pub. L. 102–190, div. A, title XI, § 1131(1)(A)][/us/pl/102/190/s1131/1/A], Dec. 5, 1991, [105 Stat. 1505][/us/stat/105/1505].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 103, Dec. 12, 1980, [94 Stat. 2841][/us/stat/94/2841]; amended [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1131(1)(A), Dec. 5, 1991, [105 Stat. 1505][/us/stat/105/1505].)
 
  __Amendments__ 
 
@@ -27,7 +27,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–190, div. A, title XI, § 1132][/us/pl/102/190/s1132], Dec. 5, 1991, [105 Stat. 1506][/us/stat/105/1506], provided that: 
+[Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1132, Dec. 5, 1991, [105 Stat. 1506][/us/stat/105/1506], provided that: 
 
 > “This title \[enacting sections 571 to 583 and 742 of this title, amending this section, sections 522, 597 \[now 12241\], 598 \[now 12242\], 603, 628, 644, 741, 1166, 1174, 1305, 1406, 5414, 5457, 5458, 5501 to 5503, 5596, 5600, 5665, 6389, and 6391 of this title, sections 286a and 334 of Title 14, Coast Guard, and sections 201, 301, 301c, 305a, and 406 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 555 to 565, 602, and 745 of this title, and enacting provisions set out as notes under sections 555 and 571 of this title and [section 1009 of Title 37][/us/usc/t37/s1009]\] and the amendments made by this title shall take effect on February 1, 1992.”
 
@@ -41,11 +41,11 @@
 
  __Evaluation of Effects of Officer Strength Reductions on Officer Personnel Management Systems__ 
 
-    [Pub. L. 102–484, div. A, title V, § 502][/us/pl/102/484/s502], Oct. 23, 1992, [106 Stat. 2402][/us/stat/106/2402], directed the Secretary of Defense to provide for an independent, federally funded research and development center to review the officer personnel management system of each of the military departments and to determine and evaluate the effects of post-Cold War officer strength reductions on that officer personnel management system, required the center to submit to the Secretary of Defense a report on the results of the review and evaluation not later than Dec. 31, 1993, and directed the Secretary to transmit the report to committees of Congress within 60 days after receipt.
+    [Pub. L. 102–484, div. A, title V][/us/pl/102/484/dA/tV], § 502, Oct. 23, 1992, [106 Stat. 2402][/us/stat/106/2402], directed the Secretary of Defense to provide for an independent, federally funded research and development center to review the officer personnel management system of each of the military departments and to determine and evaluate the effects of post-Cold War officer strength reductions on that officer personnel management system, required the center to submit to the Secretary of Defense a report on the results of the review and evaluation not later than Dec. 31, 1993, and directed the Secretary to transmit the report to committees of Congress within 60 days after receipt.
 
  __Strength of Active Duty Officer Corps__ 
 
-[Pub. L. 100–456, div. A, title IV, § 402(c)][/us/pl/100/456/s402/c], Sept. 29, 1988, [102 Stat. 1963][/us/stat/102/1963], provided that:
+[Pub. L. 100–456, div. A, title IV][/us/pl/100/456/dA/tIV], § 402(c), Sept. 29, 1988, [102 Stat. 1963][/us/stat/102/1963], provided that:
 
 >     “(1)
 
@@ -57,7 +57,7 @@
 
 >     “(2) Officers in the categories described in section 403(b) of the National Defense Authorization Act for Fiscal Year 1987 \[[Pub. L. 99–661][/us/pl/99/661], set out below\] shall be excluded in counting officers under this subsection.”
 
-[Pub. L. 100–180, div. A, title IV, § 402][/us/pl/100/180/s402], Dec. 4, 1987, [101 Stat. 1081][/us/stat/101/1081], as amended by [Pub. L. 100–456, div. A, title IV, § 402(b)][/us/pl/100/456/s402/b], Sept. 29, 1988, [102 Stat. 1963][/us/stat/102/1963], provided that:
+[Pub. L. 100–180, div. A, title IV][/us/pl/100/180/dA/tIV], § 402, Dec. 4, 1987, [101 Stat. 1081][/us/stat/101/1081], as amended by [Pub. L. 100–456, div. A, title IV][/us/pl/100/456/dA/tIV], § 402(b), Sept. 29, 1988, [102 Stat. 1963][/us/stat/102/1963], provided that:
 
 >     “(a)  __Authority To Increase for Fiscal Year__  __1988.—__ 
 
@@ -71,7 +71,7 @@
 
 >         “(2) the Secretary submits to those Committees with such certification a report providing legislative recommendations for temporary changes in chapter 36 of title 10, United States Code, and other provisions of law enacted by the Defense Officer Personnel Management Act ([Public Law 96–513][/us/pl/96/513]) \[see Tables for classification\] that the Secretary considers necessary in order to implement the required officer reductions under such section 403 \[set out below\] with the least possible adverse effect on the Armed Forces.”
 
-[Pub. L. 99–661, div. A, title IV, § 403][/us/pl/99/661/s403], Nov. 14, 1986, [100 Stat. 3859][/us/stat/100/3859], as amended by [Pub. L. 100–456, div. A, title IV, § 402(a)][/us/pl/100/456/s402/a], Sept. 29, 1988, [102 Stat. 1963][/us/stat/102/1963]; [Pub. L. 101–189, div. A, title VI, § 653(e)(2)][/us/pl/101/189/s653/e/2], Nov. 29, 1989, [103 Stat. 1463][/us/stat/103/1463]; [Pub. L. 103–337, div. A, title XVI, § 1677(e)][/us/pl/103/337/s1677/e], Oct. 5, 1994, [108 Stat. 3020][/us/stat/108/3020], provided that:
+[Pub. L. 99–661, div. A, title IV][/us/pl/99/661/dA/tIV], § 403, Nov. 14, 1986, [100 Stat. 3859][/us/stat/100/3859], as amended by [Pub. L. 100–456, div. A, title IV][/us/pl/100/456/dA/tIV], § 402(a), Sept. 29, 1988, [102 Stat. 1963][/us/stat/102/1963]; [Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 653(e)(2), Nov. 29, 1989, [103 Stat. 1463][/us/stat/103/1463]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1677(e), Oct. 5, 1994, [108 Stat. 3020][/us/stat/108/3020], provided that:
 
 >     “(a)  __Reduction in Size of Officer Corps__  __.—__ 
 
@@ -176,12 +176,12 @@
 ----------
 ----------
 
-[/us/pl/96/513/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs103
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2841
-[/us/pl/102/190/s1131/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1131%2F1%2FA
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1505
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
-[/us/pl/102/190/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1132
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1506
 [/us/usc/t37/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs1009
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
@@ -190,25 +190,25 @@
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/usc/t10/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs611
-[/us/pl/102/484/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs502
+[/us/pl/102/484/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtV
 [/us/stat/106/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2402
-[/us/pl/100/456/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs402%2Fc
+[/us/pl/100/456/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtIV
 [/us/stat/102/1963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1963
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
-[/us/pl/100/180/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs402
+[/us/pl/100/180/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtIV
 [/us/stat/101/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1081
-[/us/pl/100/456/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs402%2Fb
+[/us/pl/100/456/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtIV
 [/us/stat/102/1963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1963
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/stat/100/3859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3859
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
-[/us/pl/99/661/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs403
+[/us/pl/99/661/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIV
 [/us/stat/100/3859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3859
-[/us/pl/100/456/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs402%2Fa
+[/us/pl/100/456/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtIV
 [/us/stat/102/1963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1963
-[/us/pl/101/189/s653/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs653%2Fe%2F2
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1463
-[/us/pl/103/337/s1677/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1677%2Fe
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3020
 [/us/usc/t32/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs708
 [/us/usc/t10/s12301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12301%2Fd

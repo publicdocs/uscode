@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–291, div. A, title IX, § 901][/us/pl/113/291/s901](l)(3), Dec. 19, 2014, [128 Stat. 3468][/us/stat/128/3468], added item 2926.
+    2014—[Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(l)(3), Dec. 19, 2014, [128 Stat. 3468][/us/stat/128/3468], added item 2926.
 
-    2011—[Pub. L. 112–81, div. B, title XXVIII, § 2821(a)(2)(B)][/us/pl/112/81/s2821/a/2/B], Dec. 31, 2011, [125 Stat. 1691][/us/stat/125/1691], added item 2924.
+    2011—[Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], § 2821(a)(2)(B), Dec. 31, 2011, [125 Stat. 1691][/us/stat/125/1691], added item 2924.
 
     2008—[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 331(b)(2), Oct. 14, 2008, [122 Stat. 4420][/us/stat/122/4420], added item 2925 and struck out former item 2925 “Annual report”.
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/113/291/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3468
-[/us/pl/112/81/s2821/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2821%2Fa%2F2%2FB
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1691
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4420

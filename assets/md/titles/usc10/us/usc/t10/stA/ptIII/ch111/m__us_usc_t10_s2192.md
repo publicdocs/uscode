@@ -51,7 +51,7 @@
 
     (c) The Secretary shall designate an individual within the Office of the Secretary of Defense to advise and assist the Secretary regarding matters relating to science, mathematics, and engineering education and training.
 
-(Added [Pub. L. 101–510, div. A, title II, § 247(a)(1)][/us/pl/101/510/s247/a/1], Nov. 5, 1990, [104 Stat. 1521][/us/stat/104/1521]; amended [Pub. L. 106–65, div. A, title V, § 580(d)(1)][/us/pl/106/65/s580/d/1], Oct. 5, 1999, [113 Stat. 633][/us/stat/113/633]; [Pub. L. 108–136, div. A, title II, § 233][/us/pl/108/136/s233], Nov. 24, 2003, [117 Stat. 1423][/us/stat/117/1423]; [Pub. L. 111–383, div. A, title II, § 211(a)][/us/pl/111/383/s211/a], Jan. 7, 2011, [124 Stat. 4162][/us/stat/124/4162].)
+(Added [Pub. L. 101–510, div. A, title II][/us/pl/101/510/dA/tII], § 247(a)(1), Nov. 5, 1990, [104 Stat. 1521][/us/stat/104/1521]; amended [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 580(d)(1), Oct. 5, 1999, [113 Stat. 633][/us/stat/113/633]; [Pub. L. 108–136, div. A, title II][/us/pl/108/136/dA/tII], § 233, Nov. 24, 2003, [117 Stat. 1423][/us/stat/117/1423]; [Pub. L. 111–383, div. A, title II][/us/pl/111/383/dA/tII], § 211(a), Jan. 7, 2011, [124 Stat. 4162][/us/stat/124/4162].)
 
  __Amendments__ 
 
@@ -63,11 +63,11 @@
 
  __Science, Mathematics, and Research for Transformation (SMART) Defense Scholarship Pilot Program__ 
 
-    [Pub. L. 108–375, div. A, title XI, § 1105][/us/pl/108/375/s1105], Oct. 28, 2004, [118 Stat. 2074][/us/stat/118/2074], as amended by [Pub. L. 109–163, div. A, title X, § 1056(d)][/us/pl/109/163/s1056/d], title XI, § 1104(a)–(c), Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440], 3448, 3449; [Pub. L. 111–383, div. A, title X, § 1075(h)(5)][/us/pl/111/383/s1075/h/5], Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], which related to a pilot program to provide financial assistance for education in science, mathematics, engineering, and technology skills and disciplines that were determined to be critical to the national security functions of the Department of Defense, was repealed and restated in [section 2192a of this title][/us/usc/t10/s2192a] by [Pub. L. 109–163, div. A, title XI, § 1104(d)(1)(B)][/us/pl/109/163/s1104/d/1/B], (e)(1), Jan. 6, 2006, [119 Stat. 3450][/us/stat/119/3450].
+    [Pub. L. 108–375, div. A, title XI][/us/pl/108/375/dA/tXI], § 1105, Oct. 28, 2004, [118 Stat. 2074][/us/stat/118/2074], as amended by [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1056(d), title XI, § 1104(a)–(c), Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440], 3448, 3449; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(h)(5), Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], which related to a pilot program to provide financial assistance for education in science, mathematics, engineering, and technology skills and disciplines that were determined to be critical to the national security functions of the Department of Defense, was repealed and restated in [section 2192a of this title][/us/usc/t10/s2192a] by [Pub. L. 109–163, div. A, title XI][/us/pl/109/163/dA/tXI], § 1104(d)(1)(B), (e)(1), Jan. 6, 2006, [119 Stat. 3450][/us/stat/119/3450].
 
  __Department of Defense Support for Science, Mathematics, and Engineering Education__ 
 
-    [Pub. L. 102–190, div. A, title VIII, § 829][/us/pl/102/190/s829], Dec. 5, 1991, [105 Stat. 1444][/us/stat/105/1444], directed Secretary of Defense to develop and submit to Congress a master plan for activities by Department of Defense during each of fiscal years 1993 through 1997 to support education in science, mathematics, and engineering at all levels of education in the United States, with each such plan to be developed in consultation with Secretary of Education, prior to repeal by [Pub. L. 104–106, div. A, title X, § 1063(c)][/us/pl/104/106/s1063/c], Feb. 10, 1996, [110 Stat. 444][/us/stat/110/444].
+    [Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], § 829, Dec. 5, 1991, [105 Stat. 1444][/us/stat/105/1444], directed Secretary of Defense to develop and submit to Congress a master plan for activities by Department of Defense during each of fiscal years 1993 through 1997 to support education in science, mathematics, and engineering at all levels of education in the United States, with each such plan to be developed in consultation with Secretary of Education, prior to repeal by [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1063(c), Feb. 10, 1996, [110 Stat. 444][/us/stat/110/444].
 
 ----------
 
@@ -76,29 +76,29 @@
 ----------
 ----------
 
-[/us/pl/101/510/s247/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs247%2Fa%2F1
+[/us/pl/101/510/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtII
 [/us/stat/104/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1521
-[/us/pl/106/65/s580/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs580%2Fd%2F1
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F633
-[/us/pl/108/136/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs233
+[/us/pl/108/136/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtII
 [/us/stat/117/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1423
-[/us/pl/111/383/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs211%2Fa
+[/us/pl/111/383/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtII
 [/us/stat/124/4162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4162
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/108/375/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1105
+[/us/pl/108/375/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtXI
 [/us/stat/118/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2074
-[/us/pl/109/163/s1056/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1056%2Fd
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3440
-[/us/pl/111/383/s1075/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fh%2F5
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4377
 [/us/usc/t10/s2192a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2192a
-[/us/pl/109/163/s1104/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1104%2Fd%2F1%2FB
+[/us/pl/109/163/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtXI
 [/us/stat/119/3450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3450
-[/us/pl/102/190/s829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs829
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1444
-[/us/pl/104/106/s1063/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1063%2Fc
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F444
 
 

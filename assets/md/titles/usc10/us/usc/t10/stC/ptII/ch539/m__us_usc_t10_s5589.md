@@ -73,7 +73,7 @@
 
     (g) The Secretary shall prescribe regulations for the appointment, designation, and assignment of officers under this section.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 326][/us/stat/70A/326]; [Pub. L. 87–123, § 5(10)][/us/pl/87/123/s5/10], Aug. 3, 1961, [75 Stat. 265][/us/stat/75/265]; [Pub. L. 96–513, title III, § 325][/us/pl/96/513/s325], Dec. 12, 1980, [94 Stat. 2893][/us/stat/94/2893]; [Pub. L. 99–433, title V, § 514(c)(3)][/us/pl/99/433/s514/c/3], Oct. 1, 1986, [100 Stat. 1055][/us/stat/100/1055]; [Pub. L. 103–337, div. A, title V, § 502][/us/pl/103/337/s502], Oct. 5, 1994, [108 Stat. 2748][/us/stat/108/2748].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 326][/us/stat/70A/326]; [Pub. L. 87–123][/us/pl/87/123], § 5(10), Aug. 3, 1961, [75 Stat. 265][/us/stat/75/265]; [Pub. L. 96–513, title III][/us/pl/96/513/tIII], § 325, Dec. 12, 1980, [94 Stat. 2893][/us/stat/94/2893]; [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 514(c)(3), Oct. 1, 1986, [100 Stat. 1055][/us/stat/100/1055]; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 502, Oct. 5, 1994, [108 Stat. 2748][/us/stat/108/2748].)
 
 <table>
 
@@ -121,7 +121,7 @@ Aug. 7, 1947, ch. 512, § 404 ((a) (less statement of appointing authority), a
 
     In subsections (a) and (b) the authority to make appointments under this section is confined to appointments in the grades of ensign and second lieutenant, since the authority in the source statute to make appointments in higher grades was limited and has been completely executed. The words “commissioned warrant officers” are omitted as surplusage, since the term “warrant officers” includes commissioned warrant officers.
 
-    The word “male” is inserted to limit the application of the section to men. Authority to appoint women is covered in [§ 5590 of this title][/us/usc/t10/s5590].
+    The word “male” is inserted to limit the application of the section to men. Authority to appoint women is covered in § 5590 of this title.
 
  __Amendments__ 
 
@@ -129,11 +129,11 @@ Aug. 7, 1947, ch. 512, § 404 ((a) (less statement of appointing authority), a
 
     1986—Subsec. (a). [Pub. L. 99–433][/us/pl/99/433] substituted “section 5150(b)” for “section 5155(b)”.
 
-    1980—Subsec. (a). [Pub. L. 96–513, § 325(1)][/us/pl/96/513/s325/1], substituted “as regular officers of the Navy in a grade below lieutenant commander in the line and in staff corps established by the Secretary of the Navy under [section 5155(b) of this title][/us/usc/t10/s5155/b] and designated by the Secretary for the purposes of this section may be made from” for “to the active list of the Navy in the grade of ensign in the line, in the Supply Corps, and in the Civil Engineer Corps may be made from male”.
+    1980—Subsec. (a). [Pub. L. 96–513][/us/pl/96/513], § 325(1), substituted “as regular officers of the Navy in a grade below lieutenant commander in the line and in staff corps established by the Secretary of the Navy under [section 5155(b) of this title][/us/usc/t10/s5155/b] and designated by the Secretary for the purposes of this section may be made from” for “to the active list of the Navy in the grade of ensign in the line, in the Supply Corps, and in the Civil Engineer Corps may be made from male”.
 
-    Subsec. (b). [Pub. L. 96–513, § 325(2)][/us/pl/96/513/s325/2], substituted “as regular officers of the Marine Corps in a grade below major may be made from” for “to the active list of the Marine Corps in the grade of second lieutenant may be made from male”.
+    Subsec. (b). [Pub. L. 96–513][/us/pl/96/513], § 325(2), substituted “as regular officers of the Marine Corps in a grade below major may be made from” for “to the active list of the Marine Corps in the grade of second lieutenant may be made from male”.
 
-    Subsec. (c). [Pub. L. 96–513, § 325(3)][/us/pl/96/513/s325/3], inserted “the qualifications specified in [section 532(a) of this title][/us/usc/t10/s532/a] and have”.
+    Subsec. (c). [Pub. L. 96–513][/us/pl/96/513], § 325(3), inserted “the qualifications specified in [section 532(a) of this title][/us/usc/t10/s532/a] and have”.
 
     1961—Subsec. (e)(3). [Pub. L. 87–123][/us/pl/87/123] struck out “be designated for supply duty or” before “be assigned to”.
 
@@ -158,21 +158,20 @@ Aug. 7, 1947, ch. 512, § 404 ((a) (less statement of appointing authority), a
 [/us/usc/t10/s532/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs532%2Fa
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F326
-[/us/pl/87/123/s5/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F123%2Fs5%2F10
+[/us/pl/87/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F123
 [/us/stat/75/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F265
-[/us/pl/96/513/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs325
+[/us/pl/96/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIII
 [/us/stat/94/2893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2893
-[/us/pl/99/433/s514/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs514%2Fc%2F3
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1055
-[/us/pl/103/337/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs502
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2748
-[/us/usc/t10/s5590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5590
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
-[/us/pl/96/513/s325/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs325%2F1
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/usc/t10/s5155/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5155%2Fb
-[/us/pl/96/513/s325/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs325%2F2
-[/us/pl/96/513/s325/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs325%2F3
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/usc/t10/s532/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs532%2Fa
 [/us/pl/87/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F123
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

@@ -19,7 +19,7 @@
 
     (b) The construction, expansion, rehabilitation, or conversion of facilities in a State under paragraph (2), (3), (4), (5), or (6) of [section 18233(a) of this title][/us/usc/t10/s18233/a] shall be done according to the laws of that jurisdiction and under the supervision of its officials, subject to the inspection and approval of the Secretary of Defense.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 123][/us/stat/70A/123], § 2237; [Pub. L. 85–861, § 1(41)][/us/pl/85/861/s1/41], Sept. 2, 1958, [72 Stat. 1457][/us/stat/72/1457]; [Pub. L. 89–718, § 19][/us/pl/89/718/s19], Nov. 2, 1966, [80 Stat. 1118][/us/stat/80/1118]; [Pub. L. 97–214, § 3(d)(2)][/us/pl/97/214/s3/d/2], July 12, 1982, [96 Stat. 170][/us/stat/96/170]; renumbered § 18237 and amended [Pub. L. 103–337, div. A, title XVI, § 1664(b)(2)][/us/pl/103/337/s1664/b/2], (9), div. B, title XXVIII, § 2852, Oct. 5, 1994, [108 Stat. 3010][/us/stat/108/3010], 3011, 3072; [Pub. L. 104–106, div. A, title XV, § 1501(b)(37)][/us/pl/104/106/s1501/b/37], Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 123][/us/stat/70A/123], § 2237; [Pub. L. 85–861][/us/pl/85/861], § 1(41), Sept. 2, 1958, [72 Stat. 1457][/us/stat/72/1457]; [Pub. L. 89–718][/us/pl/89/718], § 19, Nov. 2, 1966, [80 Stat. 1118][/us/stat/80/1118]; [Pub. L. 97–214][/us/pl/97/214], § 3(d)(2), July 12, 1982, [96 Stat. 170][/us/stat/96/170]; renumbered § 18237 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1664(b)(2), (9), div. B, title XXVIII, § 2852, Oct. 5, 1994, [108 Stat. 3010][/us/stat/108/3010], 3011, 3072; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(37), Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498].)
 
 <table>
 
@@ -127,19 +127,19 @@ Aug. 9, 1955, ch. 662, § 1(f), 69 Stat. 594.  </td>
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–106, § 1501(37)(A)][/us/pl/104/106/s1501/37/A], substituted “18233(a)(1)” for “2233(a)(1)”.
+    1996—Subsec. (a). [Pub. L. 104–106][/us/pl/104/106], § 1501(37)(A), substituted “18233(a)(1)” for “2233(a)(1)”.
 
-    Subsec. (b). [Pub. L. 104–106, § 1501(37)(B)][/us/pl/104/106/s1501/37/B], substituted “18233(a)” for “2233(a)”.
+    Subsec. (b). [Pub. L. 104–106][/us/pl/104/106], § 1501(37)(B), substituted “18233(a)” for “2233(a)”.
 
-    1994—[Pub. L. 103–337, § 1664(b)(2)][/us/pl/103/337/s1664/b/2], renumbered [section 2237 of this title][/us/usc/t10/s2237] as this section.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 1664(b)(2), renumbered [section 2237 of this title][/us/usc/t10/s2237] as this section.
 
-    Subsec. (a). [Pub. L. 103–337, § 1664(b)(9)(A)][/us/pl/103/337/s1664/b/9/A], which directed amendment of subsec. (a) by substituting “paragraph (2), (3), or (4) of section 18233(a)” for “section 2233(a)(2), (3) and (4)”, could not be executed because the words “section 2233(a)(2), (3) and (4)” did not appear subsequent to intervening amendment by [Pub. L. 103–337, § 2852(a)][/us/pl/103/337/s2852/a]. See below.
+    Subsec. (a). [Pub. L. 103–337][/us/pl/103/337], § 1664(b)(9)(A), which directed amendment of subsec. (a) by substituting “paragraph (2), (3), or (4) of section 18233(a)” for “section 2233(a)(2), (3) and (4)”, could not be executed because the words “section 2233(a)(2), (3) and (4)” did not appear subsequent to intervening amendment by [Pub. L. 103–337][/us/pl/103/337], § 2852(a). See below.
 
-    [Pub. L. 103–337, § 2852(a)][/us/pl/103/337/s2852/a], substituted “under section 2233(a)(1)” for “under any provision of this chapter except section 2233(a)(2), (3), and (4)”.
+    [Pub. L. 103–337][/us/pl/103/337], § 2852(a), substituted “under section 2233(a)(1)” for “under any provision of this chapter except section 2233(a)(2), (3), and (4)”.
 
-    Subsec. (b). [Pub. L. 103–337, § 1664(b)(9)(B)][/us/pl/103/337/s1664/b/9/B], which directed amendment of subsec. (b) by substituting “paragraph (2), (3), or (4) of section 18233(a)” for “section 2233(a)(2), (3) or (4)”, could not be executed because the words “section 2233(a)(2), (3) or (4)” did not appear subsequent to intervening amendment by [Pub. L. 103–337, § 2852(b)][/us/pl/103/337/s2852/b]. See below.
+    Subsec. (b). [Pub. L. 103–337][/us/pl/103/337], § 1664(b)(9)(B), which directed amendment of subsec. (b) by substituting “paragraph (2), (3), or (4) of section 18233(a)” for “section 2233(a)(2), (3) or (4)”, could not be executed because the words “section 2233(a)(2), (3) or (4)” did not appear subsequent to intervening amendment by [Pub. L. 103–337][/us/pl/103/337], § 2852(b). See below.
 
-    [Pub. L. 103–337, § 2852(b)][/us/pl/103/337/s2852/b], substituted “paragraph (2), (3), (4), (5), or (6) of section 2233(a)” for “section 2233(a)(2), (3), or (4)”.
+    [Pub. L. 103–337][/us/pl/103/337], § 2852(b), substituted “paragraph (2), (3), (4), (5), or (6) of section 2233(a)” for “section 2233(a)(2), (3), or (4)”.
 
     1982—Subsec. (b). [Pub. L. 97–214][/us/pl/97/214] struck out “or Territory, Puerto Rico, or the District of Columbia” after “facilities in a State”.
 
@@ -174,27 +174,27 @@ Aug. 9, 1955, ch. 662, § 1(f), 69 Stat. 594.  </td>
 [/us/usc/t10/s18233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs18233%2Fa
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F123
-[/us/pl/85/861/s1/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F41
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1457
-[/us/pl/89/718/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs19
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1118
-[/us/pl/97/214/s3/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs3%2Fd%2F2
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F170
-[/us/pl/103/337/s1664/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1664%2Fb%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3010
-[/us/pl/104/106/s1501/b/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F37
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F498
 [/us/usc/t10/s3036/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3036%2Fa%2F1
-[/us/pl/104/106/s1501/37/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2F37%2FA
-[/us/pl/104/106/s1501/37/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2F37%2FB
-[/us/pl/103/337/s1664/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1664%2Fb%2F2
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2237
-[/us/pl/103/337/s1664/b/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1664%2Fb%2F9%2FA
-[/us/pl/103/337/s2852/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs2852%2Fa
-[/us/pl/103/337/s2852/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs2852%2Fa
-[/us/pl/103/337/s1664/b/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1664%2Fb%2F9%2FB
-[/us/pl/103/337/s2852/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs2852%2Fb
-[/us/pl/103/337/s2852/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs2852%2Fb
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861

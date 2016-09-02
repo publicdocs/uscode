@@ -19,7 +19,7 @@
 
     (b) The Chief of Legislative Liaison shall perform legislative affairs functions as specified for the Office of the Secretary of the Air Force by [section 8014(c)(1)(F) of this title][/us/usc/t10/s8014/c/1/F].
 
-(Added [Pub. L. 107–314, div. A, title V, § 504(e)(1)(A)][/us/pl/107/314/s504/e/1/A], Dec. 2, 2002, [116 Stat. 2532][/us/stat/116/2532].)
+(Added [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 504(e)(1)(A), Dec. 2, 2002, [116 Stat. 2532][/us/stat/116/2532].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t10/s8014/c/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8014%2Fc%2F1%2FF
-[/us/pl/107/314/s504/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs504%2Fe%2F1%2FA
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2532
 
 

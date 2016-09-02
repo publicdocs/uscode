@@ -49,7 +49,7 @@
 
     Notwithstanding any other provision of this section, and pursuant to regulations issued by the Secretary, a member of the Individual Ready Reserve who becomes a member of the Selected Reserve shall not be denied eligibility to purchase insurance under this chapter upon becoming a member of the Selected Reserve unless the member previously declined to enroll in the program of insurance under this chapter while a member of the Selected Reserve.
 
-(Added [Pub. L. 104–106, div. A, title V, § 512(a)(1)][/us/pl/104/106/s512/a/1], Feb. 10, 1996, [110 Stat. 300][/us/stat/110/300]; amended [Pub. L. 104–201, div. A, title V, § 542][/us/pl/104/201/s542], Sept. 23, 1996, [110 Stat. 2521][/us/stat/110/2521].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 512(a)(1), Feb. 10, 1996, [110 Stat. 300][/us/stat/110/300]; amended [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 542, Sept. 23, 1996, [110 Stat. 2521][/us/stat/110/2521].)
 
  __Amendments__ 
 
@@ -63,9 +63,9 @@
 ----------
 
 [/us/usc/t10/s12525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12525
-[/us/pl/104/106/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs512%2Fa%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F300
-[/us/pl/104/201/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs542
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2521
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 

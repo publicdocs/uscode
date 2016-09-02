@@ -259,41 +259,41 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–92, div. A, title III, § 312(b)][/us/pl/114/92/s312/b], Nov. 25, 2015, [129 Stat. 789][/us/stat/129/789], added item 7235.
+    2015—[Pub. L. 114–92, div. A, title III][/us/pl/114/92/dA/tIII], § 312(b), Nov. 25, 2015, [129 Stat. 789][/us/stat/129/789], added item 7235.
 
-    2006—[Pub. L. 109–163, div. A, title V, § 515(b)(4)(D)][/us/pl/109/163/s515/b/4/D], Jan. 6, 2006, [119 Stat. 3235][/us/stat/119/3235], substituted “Navy Reserve” for ‘Naval Reserve” in items 7225 and 7226.
+    2006—[Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(4)(D), Jan. 6, 2006, [119 Stat. 3235][/us/stat/119/3235], substituted “Navy Reserve” for ‘Naval Reserve” in items 7225 and 7226.
 
-    2004—[Pub. L. 108–375, div. A, title XII, § 1223(b)][/us/pl/108/375/s1223/b], Oct. 28, 2004, [118 Stat. 2090][/us/stat/118/2090], added item 7234.
+    2004—[Pub. L. 108–375, div. A, title XII][/us/pl/108/375/dA/tXII], § 1223(b), Oct. 28, 2004, [118 Stat. 2090][/us/stat/118/2090], added item 7234.
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 942(e)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–243, substituted “Naval Historical Center Fund: references to Fund” for “Naval Historical Center Fund” in item 7222.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 942(e)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–243, substituted “Naval Historical Center Fund: references to Fund” for “Naval Historical Center Fund” in item 7222.
 
-    1999—[Pub. L. 106–65, div. A, title X, § 1014(a)(2)][/us/pl/106/65/s1014/a/2], Oct. 5, 1999, [113 Stat. 742][/us/stat/113/742], added item 7233.
+    1999—[Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1014(a)(2), Oct. 5, 1999, [113 Stat. 742][/us/stat/113/742], added item 7233.
 
-    1996—[Pub. L. 104–201, div. A, title X, § 1073(b)(2)(B)][/us/pl/104/201/s1073/b/2/B], Sept. 23, 1996, [110 Stat. 2657][/us/stat/110/2657], substituted “Naval Historical Center Fund” for “Office of Naval Records and History gift fund” in item 7222.
+    1996—[Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1073(b)(2)(B), Sept. 23, 1996, [110 Stat. 2657][/us/stat/110/2657], substituted “Naval Historical Center Fund” for “Office of Naval Records and History gift fund” in item 7222.
 
-    1994—[Pub. L. 103–355, title III, § 3025(b)][/us/pl/103/355/s3025/b], Oct. 13, 1994, [108 Stat. 3334][/us/stat/108/3334], struck out item 7203 “Scientific investigation and research”.
+    1994—[Pub. L. 103–355, title III][/us/pl/103/355/tIII], § 3025(b), Oct. 13, 1994, [108 Stat. 3334][/us/stat/108/3334], struck out item 7203 “Scientific investigation and research”.
 
-    1993—[Pub. L. 103–160, div. A, title VIII, § 828(a)(6)][/us/pl/103/160/s828/a/6], Nov. 30, 1993, [107 Stat. 1713][/us/stat/107/1713], struck out items 7201 “Guided missiles: research and development, procurement, and construction”, 7210 “Purchase of patents, patent applications, and licenses”, 7213 “Relief of contractors and their employees from losses by enemy action”, and 7230 “Sale of degaussing equipment”.
+    1993—[Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 828(a)(6), Nov. 30, 1993, [107 Stat. 1713][/us/stat/107/1713], struck out items 7201 “Guided missiles: research and development, procurement, and construction”, 7210 “Purchase of patents, patent applications, and licenses”, 7213 “Relief of contractors and their employees from losses by enemy action”, and 7230 “Sale of degaussing equipment”.
 
-    1990—[Pub. L. 101–510, div. A, title XIII, § 1331(8)][/us/pl/101/510/s1331/8], Nov. 5, 1990, [104 Stat. 1673][/us/stat/104/1673], struck out item 7217 “Annual report to Congress: appropriations”.
+    1990—[Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1331(8), Nov. 5, 1990, [104 Stat. 1673][/us/stat/104/1673], struck out item 7217 “Annual report to Congress: appropriations”.
 
-    1988—[Pub. L. 100–370, § 1(e)(3)(B)][/us/pl/100/370/s1/e/3/B], July 19, 1988, [102 Stat. 845][/us/stat/102/845], struck out item 7209 “Rewards for recovery of missing naval property”.
+    1988—[Pub. L. 100–370][/us/pl/100/370], § 1(e)(3)(B), July 19, 1988, [102 Stat. 845][/us/stat/102/845], struck out item 7209 “Rewards for recovery of missing naval property”.
 
-    1984—[Pub. L. 98–525, title XIV, § 1401(d)(3)(B)][/us/pl/98/525/s1401/d/3/B], (j)(3)(B), Oct. 19, 1984, [98 Stat. 2616][/us/stat/98/2616], 2620, struck out “; transportation of dependents” at end of item 7204 and struck out item 7208 “Latin American cooperation”.
+    1984—[Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1401(d)(3)(B), (j)(3)(B), Oct. 19, 1984, [98 Stat. 2616][/us/stat/98/2616], 2620, struck out “; transportation of dependents” at end of item 7204 and struck out item 7208 “Latin American cooperation”.
 
-    1982—[Pub. L. 97–258, § 2(b)(11)(A)][/us/pl/97/258/s2/b/11/A], Sept. 13, 1982, [96 Stat. 1057][/us/stat/96/1057], added item 7231.
+    1982—[Pub. L. 97–258][/us/pl/97/258], § 2(b)(11)(A), Sept. 13, 1982, [96 Stat. 1057][/us/stat/96/1057], added item 7231.
 
-    1975—[Pub. L. 94–106, title VIII, § 804(b)][/us/pl/94/106/s804/b], Oct. 7, 1975, [89 Stat. 538][/us/stat/89/538], struck out item 7202 “Emergency and extraordinary expenses”.
+    1975—[Pub. L. 94–106, title VIII][/us/pl/94/106/tVIII], § 804(b), Oct. 7, 1975, [89 Stat. 538][/us/stat/89/538], struck out item 7202 “Emergency and extraordinary expenses”.
 
-    1968—[Pub. L. 90–377, § 4][/us/pl/90/377/s4], July 5, 1968, [82 Stat. 288][/us/stat/82/288], struck out item 7215 “Naval prisons, prison farms, and prisoners”.
+    1968—[Pub. L. 90–377][/us/pl/90/377], § 4, July 5, 1968, [82 Stat. 288][/us/stat/82/288], struck out item 7215 “Naval prisons, prison farms, and prisoners”.
 
-    1966—[Pub. L. 89–529, § 1(4)][/us/pl/89/529/s1/4], Aug. 11, 1966, [80 Stat. 339][/us/stat/80/339], struck out item 7218 “Recognition for accomplishments, special service, and good conduct”.
+    1966—[Pub. L. 89–529][/us/pl/89/529], § 1(4), Aug. 11, 1966, [80 Stat. 339][/us/stat/80/339], struck out item 7218 “Recognition for accomplishments, special service, and good conduct”.
 
-    1959—[Pub. L. 86–55, § 2][/us/pl/86/55/s2], June 23, 1959, [73 Stat. 89][/us/stat/73/89], inserted “and aircraft” in item 7227.
+    1959—[Pub. L. 86–55][/us/pl/86/55], § 2, June 23, 1959, [73 Stat. 89][/us/stat/73/89], inserted “and aircraft” in item 7227.
 
-    1958—[Pub. L. 85–861, § 1(150)][/us/pl/85/861/s1/150], Sept. 2, 1958, [72 Stat. 1513][/us/stat/72/1513], struck out item 7206 “Minor construction and extension of structures”.
+    1958—[Pub. L. 85–861][/us/pl/85/861], § 1(150), Sept. 2, 1958, [72 Stat. 1513][/us/stat/72/1513], struck out item 7206 “Minor construction and extension of structures”.
 
-    1957—[Pub. L. 85–43, § 1(2)][/us/pl/85/43/s1/2], May 31, 1957, [71 Stat. 45][/us/stat/71/45], added item 7230.
+    1957—[Pub. L. 85–43][/us/pl/85/43], § 1(2), May 31, 1957, [71 Stat. 45][/us/stat/71/45], added item 7230.
 
 ----------
 
@@ -302,41 +302,41 @@
 ----------
 ----------
 
-[/us/pl/114/92/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs312%2Fb
+[/us/pl/114/92/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtIII
 [/us/stat/129/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F789
-[/us/pl/109/163/s515/b/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F4%2FD
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3235
-[/us/pl/108/375/s1223/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1223%2Fb
+[/us/pl/108/375/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtXII
 [/us/stat/118/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2090
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/65/s1014/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1014%2Fa%2F2
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F742
-[/us/pl/104/201/s1073/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1073%2Fb%2F2%2FB
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2657
-[/us/pl/103/355/s3025/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3025%2Fb
+[/us/pl/103/355/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtIII
 [/us/stat/108/3334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3334
-[/us/pl/103/160/s828/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs828%2Fa%2F6
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1713
-[/us/pl/101/510/s1331/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1331%2F8
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1673
-[/us/pl/100/370/s1/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs1%2Fe%2F3%2FB
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F845
-[/us/pl/98/525/s1401/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1401%2Fd%2F3%2FB
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2616
-[/us/pl/97/258/s2/b/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F11%2FA
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1057
-[/us/pl/94/106/s804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106%2Fs804%2Fb
+[/us/pl/94/106/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106%2FtVIII
 [/us/stat/89/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F538
-[/us/pl/90/377/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F377%2Fs4
+[/us/pl/90/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F377
 [/us/stat/82/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F288
-[/us/pl/89/529/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F529%2Fs1%2F4
+[/us/pl/89/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F529
 [/us/stat/80/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F339
-[/us/pl/86/55/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F55%2Fs2
+[/us/pl/86/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F55
 [/us/stat/73/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F89
-[/us/pl/85/861/s1/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F150
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1513
-[/us/pl/85/43/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F43%2Fs1%2F2
+[/us/pl/85/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F43
 [/us/stat/71/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F45
 
 

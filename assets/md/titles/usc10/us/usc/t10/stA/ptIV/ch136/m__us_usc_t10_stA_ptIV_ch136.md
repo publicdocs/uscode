@@ -43,11 +43,11 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–291, div. A, title XII, § 1205(a)(2)][/us/pl/113/291/s1205/a/2], Dec. 19, 2014, [128 Stat. 3536][/us/stat/128/3536], added item 2282.
+    2014—[Pub. L. 113–291, div. A, title XII][/us/pl/113/291/dA/tXII], § 1205(a)(2), Dec. 19, 2014, [128 Stat. 3536][/us/stat/128/3536], added item 2282.
 
-    2011—[Pub. L. 112–81, div. A, title X, § 1061(13)(B)][/us/pl/112/81/s1061/13/B], Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583], struck out item 2282 “B–2 bomber: annual report”.
+    2011—[Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1061(13)(B), Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583], struck out item 2282 “B–2 bomber: annual report”.
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title I, § 131(a)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–29, added item 2282.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title I, § 131(a)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–29, added item 2282.
 
 ----------
 
@@ -56,11 +56,11 @@
 ----------
 ----------
 
-[/us/pl/113/291/s1205/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1205%2Fa%2F2
+[/us/pl/113/291/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXII
 [/us/stat/128/3536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3536
-[/us/pl/112/81/s1061/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F13%2FB
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1583
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

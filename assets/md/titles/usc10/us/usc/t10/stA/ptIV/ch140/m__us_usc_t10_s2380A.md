@@ -17,7 +17,7 @@
 
     Notwithstanding [section 2376(1) of this title][/us/usc/t10/s2376/1], items and services provided by nontraditional defense contractors (as that term is defined in [section 2302(9) of this title][/us/usc/t10/s2302/9]) may be treated by the head of an agency as commercial items for purposes of this chapter.
 
-(Added [Pub. L. 114–92, div. A, title VIII, § 857(a)][/us/pl/114/92/s857/a], Nov. 25, 2015, [129 Stat. 921][/us/stat/129/921].)
+(Added [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 857(a), Nov. 25, 2015, [129 Stat. 921][/us/stat/129/921].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t10/s2376/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2376%2F1
 [/us/usc/t10/s2302/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F9
-[/us/pl/114/92/s857/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs857%2Fa
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F921
 
 

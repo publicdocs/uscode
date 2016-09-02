@@ -35,15 +35,15 @@
 
     In this section, the term “Defense intelligence element” means any of the Department of Defense agencies, offices, and elements included within the definition of “intelligence community” under section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]).
 
-(Added [Pub. L. 112–87, title IV, § 433(a)][/us/pl/112/87/s433/a], Jan. 3, 2012, [125 Stat. 1894][/us/stat/125/1894]; amended [Pub. L. 113–291, div. A, title X, § 1071(c)(5)][/us/pl/113/291/s1071/c/5], (f)(6), Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508], 3510.)
+(Added [Pub. L. 112–87, title IV][/us/pl/112/87/tIV], § 433(a), Jan. 3, 2012, [125 Stat. 1894][/us/stat/125/1894]; amended [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(c)(5), (f)(6), Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508], 3510.)
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–291, § 1071(c)(5)(A)][/us/pl/113/291/s1071/c/5/A], substituted “section 102A of the National Security Act of 1947 ([50 U.S.C. 3024][/us/usc/t50/s3024])” for “Section 102A of the National Security Act of 1947 ([50 U.S.C. 403–1][/us/usc/t50/s403–1])”.
+    2014—Subsec. (a). [Pub. L. 113–291][/us/pl/113/291], § 1071(c)(5)(A), substituted “section 102A of the National Security Act of 1947 ([50 U.S.C. 3024][/us/usc/t50/s3024])” for “Section 102A of the National Security Act of 1947 ([50 U.S.C. 403–1][/us/usc/t50/s403–1])”.
 
-    Subsec. (c). [Pub. L. 113–291, § 1071(f)(6)][/us/pl/113/291/s1071/f/6], substituted “law” for “act”.
+    Subsec. (c). [Pub. L. 113–291][/us/pl/113/291], § 1071(f)(6), substituted “law” for “act”.
 
-    Subsec. (e). [Pub. L. 113–291, § 1071(c)(5)(B)][/us/pl/113/291/s1071/c/5/B], substituted “([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4])” for “([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4])”.
+    Subsec. (e). [Pub. L. 113–291][/us/pl/113/291], § 1071(c)(5)(B), substituted “([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4])” for “([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4])”.
 
 ----------
 
@@ -54,15 +54,15 @@
 
 [/us/usc/t50/s3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3024
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
-[/us/pl/112/87/s433/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs433%2Fa
+[/us/pl/112/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2FtIV
 [/us/stat/125/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1894
-[/us/pl/113/291/s1071/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F5
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
-[/us/pl/113/291/s1071/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F5%2FA
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t50/s3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3024
 [/us/usc/t50/s403–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403%E2%80%931
-[/us/pl/113/291/s1071/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F6
-[/us/pl/113/291/s1071/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F5%2FB
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
 

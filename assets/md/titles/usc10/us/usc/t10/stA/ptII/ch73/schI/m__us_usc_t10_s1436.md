@@ -31,7 +31,7 @@
 
         A retired member may not reduce an annuity under clause (1) of this subsection, or withdraw under clause (2) of this subsection, earlier than the first day of the seventh calendar month beginning after he applies for reduction or withdrawal. A change of election under clause (3) of this subsection shall be effective on the first day of the month following the month in which application is made. An election under clause (4) of this subsection shall be effective on the first day of the month following the month in which application is made and, if on the effective date there is no surviving child who would be eligible for an annuity provided under clause (2) of section 1434(a), or under section 1434(b), of this title if the elector died, no deduction shall be made for such an annuity to, or on behalf of, a child from the elector’s retired or retainer pay for that month or any subsequent month. No amounts by which a member’s retired or retainer pay is reduced prior to the effective date of a reduction of annuity, withdrawal, change of election, or election under this subsection may be refunded to, or credited on behalf of, the member by virtue of an application made by him under this subsection.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 110][/us/stat/70A/110]; [Pub. L. 87–381, § 4][/us/pl/87/381/s4], Oct. 4, 1961, [75 Stat. 811][/us/stat/75/811]; [Pub. L. 90–207, § 2(a)(3)][/us/pl/90/207/s2/a/3], Dec. 16, 1967, [81 Stat. 653][/us/stat/81/653]; [Pub. L. 90–485, § 1(6)][/us/pl/90/485/s1/6], Aug. 13, 1968, [82 Stat. 753][/us/stat/82/753]; [Pub. L. 92–425, § 1(2)(A)][/us/pl/92/425/s1/2/A], Sept. 21, 1972, [86 Stat. 706][/us/stat/86/706]; [Pub. L. 104–106, div. A, title XV, § 1505(c)][/us/pl/104/106/s1505/c], Feb. 10, 1996, [110 Stat. 514][/us/stat/110/514].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 110][/us/stat/70A/110]; [Pub. L. 87–381][/us/pl/87/381], § 4, Oct. 4, 1961, [75 Stat. 811][/us/stat/75/811]; [Pub. L. 90–207][/us/pl/90/207], § 2(a)(3), Dec. 16, 1967, [81 Stat. 653][/us/stat/81/653]; [Pub. L. 90–485][/us/pl/90/485], § 1(6), Aug. 13, 1968, [82 Stat. 753][/us/stat/82/753]; [Pub. L. 92–425][/us/pl/92/425], § 1(2)(A), Sept. 21, 1972, [86 Stat. 706][/us/stat/86/706]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1505(c), Feb. 10, 1996, [110 Stat. 514][/us/stat/110/514].)
 
 <table>
 
@@ -81,7 +81,7 @@ Aug. 8, 1953, ch. 393, § 4(c), 67 Stat. 503.  </td>
 
  __Amendments__ 
 
-    1996—Subsec. (b). [Pub. L. 104–106][/us/pl/104/106] made technical correction to directory language of [Pub. L. 90–485, § 1(6)][/us/pl/90/485/s1/6]. See 1968 Amendment note below.
+    1996—Subsec. (b). [Pub. L. 104–106][/us/pl/104/106] made technical correction to directory language of [Pub. L. 90–485][/us/pl/90/485], § 1(6). See 1968 Amendment note below.
 
     1972—Subsec. (a). [Pub. L. 92–425][/us/pl/92/425] substituted “subchapter” for “chapter”.
 
@@ -93,7 +93,7 @@ Aug. 8, 1953, ch. 393, § 4(c), 67 Stat. 503.  </td>
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–106, div. A, title XV, § 1505(c)][/us/pl/104/106/s1505/c], Feb. 10, 1996, [110 Stat. 514][/us/stat/110/514], provided that the amendment made by that section is effective Aug. 13, 1968, and as if included in [Pub. L. 90–485][/us/pl/90/485] as originally enacted.
+    [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1505(c), Feb. 10, 1996, [110 Stat. 514][/us/stat/110/514], provided that the amendment made by that section is effective Aug. 13, 1968, and as if included in [Pub. L. 90–485][/us/pl/90/485] as originally enacted.
 
  __Effective Date of 1968 Amendment__ 
 
@@ -118,24 +118,24 @@ Aug. 8, 1953, ch. 393, § 4(c), 67 Stat. 503.  </td>
 [/us/usc/t10/s1434/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1434%2Fb
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F110
-[/us/pl/87/381/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F381%2Fs4
+[/us/pl/87/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F381
 [/us/stat/75/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F811
-[/us/pl/90/207/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F207%2Fs2%2Fa%2F3
+[/us/pl/90/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F207
 [/us/stat/81/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F653
-[/us/pl/90/485/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F485%2Fs1%2F6
+[/us/pl/90/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F485
 [/us/stat/82/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F753
-[/us/pl/92/425/s1/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425%2Fs1%2F2%2FA
+[/us/pl/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425
 [/us/stat/86/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F706
-[/us/pl/104/106/s1505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1505%2Fc
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F514
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/90/485/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F485%2Fs1%2F6
+[/us/pl/90/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F485
 [/us/pl/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425
 [/us/pl/90/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F485
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/90/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F207
 [/us/pl/87/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F381
-[/us/pl/104/106/s1505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1505%2Fc
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F514
 [/us/pl/90/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F485
 [/us/pl/90/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F485

@@ -21,7 +21,7 @@
 
     (c) Appropriations available to the military department concerned or the Department of Homeland Security, as the case may be, for the pay of persons under its jurisdiction may be used to carry out this section.
 
-(Added [Pub. L. 85–861, § 1(24)(A)][/us/pl/85/861/s1/24/A], Sept. 2, 1958, [72 Stat. 1445][/us/stat/72/1445]; amended [Pub. L. 96–513, title I, § 511(31)][/us/pl/96/513/s511/31], Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922]; [Pub. L. 99–145, title VI, § 681(a)][/us/pl/99/145/s681/a], Nov. 8, 1985, [99 Stat. 665][/us/stat/99/665]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(24)(A), Sept. 2, 1958, [72 Stat. 1445][/us/stat/72/1445]; amended [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 511(31), Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922]; [Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 681(a), Nov. 8, 1985, [99 Stat. 665][/us/stat/99/665]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
 <table>
 
@@ -121,7 +121,7 @@ July 24, 1956, ch. 689 (less § 3), 70 Stat. 630.  </td>
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–145, title VI, § 681(b)][/us/pl/99/145/s681/b], Nov. 8, 1985, [99 Stat. 665][/us/stat/99/665], provided that: 
+[Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 681(b), Nov. 8, 1985, [99 Stat. 665][/us/stat/99/665], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to costs incurred after September 30, 1985.”
 
@@ -136,13 +136,13 @@ July 24, 1956, ch. 689 (less § 3), 70 Stat. 630.  </td>
 ----------
 ----------
 
-[/us/pl/85/861/s1/24/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F24%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1445
-[/us/pl/96/513/s511/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F31
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2922
-[/us/pl/99/145/s681/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs681%2Fa
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F665
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
@@ -150,7 +150,7 @@ July 24, 1956, ch. 689 (less § 3), 70 Stat. 630.  </td>
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/99/145/s681/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs681%2Fb
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F665
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3

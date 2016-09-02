@@ -117,81 +117,81 @@
 
     Any service by an officer in the grade of captain or, in the case of the Navy, lieutenant in a joint duty assignment shall be considered to be service in a joint duty assignment for purposes of all laws (including [section 619a of this title][/us/usc/t10/s619a]) establishing a requirement or condition with respect to an officer’s service in a joint duty assignment.
 
-(Added [Pub. L. 99–433, title IV, § 401(a)][/us/pl/99/433/s401/a], Oct. 1, 1986, [100 Stat. 1025][/us/stat/100/1025]; amended [Pub. L. 100–180, div. A, title XIII, § 1301–130][/us/pl/100/180/s1301–130]2(b), Dec. 4, 1987, [101 Stat. 1168][/us/stat/101/1168], 1169; [Pub. L. 100–456, div. A, title V][/us/pl/100/456], §§ 511, 512(a), 517(a), 518, Sept. 29, 1988, [102 Stat. 1968][/us/stat/102/1968], 1971; [Pub. L. 101–189, div. A, title XI][/us/pl/101/189], §§ 1113, 1122, Nov. 29, 1989, [103 Stat. 1554][/us/stat/103/1554], 1556; [Pub. L. 104–106, div. A, title V, § 501(a)][/us/pl/104/106/s501/a], (d), title XV, § 1503(a)(6), Feb. 10, 1996, [110 Stat. 290][/us/stat/110/290], 292, 511; [Pub. L. 107–107, div. A, title V, § 521(a)][/us/pl/107/107/s521/a], Dec. 28, 2001, [115 Stat. 1097][/us/stat/115/1097]; [Pub. L. 107–314, div. A, title V, § 502(c)][/us/pl/107/314/s502/c], title X, § 1062(a)(3), Dec. 2, 2002, [116 Stat. 2530][/us/stat/116/2530], 2649; [Pub. L. 109–364, div. A, title V, § 516(a)][/us/pl/109/364/s516/a]–(e)(1), Oct. 17, 2006, [120 Stat. 2187–2189][/us/stat/120/2187-2189]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 522(a)(1), (2), Oct. 14, 2008, [122 Stat. 4444][/us/stat/122/4444], 4445.)
+(Added [Pub. L. 99–433, title IV][/us/pl/99/433/tIV], § 401(a), Oct. 1, 1986, [100 Stat. 1025][/us/stat/100/1025]; amended [Pub. L. 100–180, div. A, title XIII][/us/pl/100/180/dA/tXIII], § 1301–1302(b), Dec. 4, 1987, [101 Stat. 1168][/us/stat/101/1168], 1169; [Pub. L. 100–456, div. A, title V][/us/pl/100/456/dA/tV], §§ 511, 512(a), 517(a), 518, Sept. 29, 1988, [102 Stat. 1968][/us/stat/102/1968], 1971; [Pub. L. 101–189, div. A, title XI][/us/pl/101/189/dA/tXI], §§ 1113, 1122, Nov. 29, 1989, [103 Stat. 1554][/us/stat/103/1554], 1556; [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 501(a), (d), title XV, § 1503(a)(6), Feb. 10, 1996, [110 Stat. 290][/us/stat/110/290], 292, 511; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 521(a), Dec. 28, 2001, [115 Stat. 1097][/us/stat/115/1097]; [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 502(c), title X, § 1062(a)(3), Dec. 2, 2002, [116 Stat. 2530][/us/stat/116/2530], 2649; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 516(a)–(e)(1), Oct. 17, 2006, [120 Stat. 2187–2189][/us/stat/120/2187-2189]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 522(a)(1), (2), Oct. 14, 2008, [122 Stat. 4444][/us/stat/122/4444], 4445.)
 
  __Amendments__ 
 
     2008—[Pub. L. 110–417][/us/pl/110/417] amended section catchline generally, substituting “Management policies for joint qualified officers” for “Management policies for officers who are joint qualified”, and in subsec. (a), substituted “as a joint qualified officer or in such other manner as the Secretary of Defense directs” for “in such manner as the Secretary of Defense directs”.
 
-    2006—[Pub. L. 109–364, § 516(e)(1)][/us/pl/109/364/s516/e/1], substituted “officers who are joint qualified” for “joint specialty officers” in section catchline.
+    2006—[Pub. L. 109–364][/us/pl/109/364], § 516(e)(1), substituted “officers who are joint qualified” for “joint specialty officers” in section catchline.
 
-    Subsec. (a). [Pub. L. 109–364, § 516(a)][/us/pl/109/364/s516/a], struck out at end “For purposes of this chapter, officers to be managed by such policies, procedures, and practices are referred to as having, or having been nominated for, the ‘joint specialty’.”
+    Subsec. (a). [Pub. L. 109–364][/us/pl/109/364], § 516(a), struck out at end “For purposes of this chapter, officers to be managed by such policies, procedures, and practices are referred to as having, or having been nominated for, the ‘joint specialty’.”
 
-    Subsecs. (b) to (d). [Pub. L. 109–364, § 516(b)][/us/pl/109/364/s516/b], amended subsecs. (b) to (d) generally. Prior to amendment, subsecs. (b) to (d) related to numbers and selection of officers with the joint specialty, education and experience requirements, and number of joint duty assignments.
+    Subsecs. (b) to (d). [Pub. L. 109–364][/us/pl/109/364], § 516(b), amended subsecs. (b) to (d) generally. Prior to amendment, subsecs. (b) to (d) related to numbers and selection of officers with the joint specialty, education and experience requirements, and number of joint duty assignments.
 
-    Subsec. (e). [Pub. L. 109–364, § 516(c)][/us/pl/109/364/s516/c], substituted “officers to achieve joint qualification and for officers who have been designated as joint qualified” for “officers with the joint specialty” in introductory provisions.
+    Subsec. (e). [Pub. L. 109–364][/us/pl/109/364], § 516(c), substituted “officers to achieve joint qualification and for officers who have been designated as joint qualified” for “officers with the joint specialty” in introductory provisions.
 
-    Subsec. (f). [Pub. L. 109–364, § 516(d)][/us/pl/109/364/s516/d], substituted “619a” for “619(e)(1)”.
+    Subsec. (f). [Pub. L. 109–364][/us/pl/109/364], § 516(d), substituted “619a” for “619(e)(1)”.
 
-    2002—Subsec. (b)(2). [Pub. L. 107–314, § 1062(a)(3)][/us/pl/107/314/s1062/a/3], substituted “December 28, 2001,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002”.
+    2002—Subsec. (b)(2). [Pub. L. 107–314][/us/pl/107/314], § 1062(a)(3), substituted “December 28, 2001,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002”.
 
-    Subsec. (c)(3)(E). [Pub. L. 107–314, § 502(c)][/us/pl/107/314/s502/c], substituted “paragraph” for “subparagraph”.
+    Subsec. (c)(3)(E). [Pub. L. 107–314][/us/pl/107/314], § 502(c), substituted “paragraph” for “subparagraph”.
 
     2001—Subsec. (b)(2). [Pub. L. 107–107][/us/pl/107/107], in introductory provisions, substituted “Each officer on the active-duty list on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002 who has not before that date been nominated for the joint specialty by the Secretary of a military department, and each officer who is placed on the active-duty list after such date, who meets the requirements of subsection (c) shall automatically be considered to have been nominated for the joint specialty. From among those officers considered to be nominated for the joint specialty, the Secretary may select for the joint specialty only officers—” for “The Secretaries of the military departments shall nominate officers for selection for the joint specialty. Nominations shall be made from among officers—”.
 
-    1996—Subsec. (c)(3)(D). [Pub. L. 104–106, § 501(d)(1)][/us/pl/104/106/s501/d/1], in third sentence, substituted “In the case of officers in grades below brigadier general and rear admiral (lower half), the total number” for “The total number”.
+    1996—Subsec. (c)(3)(D). [Pub. L. 104–106][/us/pl/104/106], § 501(d)(1), in third sentence, substituted “In the case of officers in grades below brigadier general and rear admiral (lower half), the total number” for “The total number”.
 
-    Subsec. (c)(3)(E). [Pub. L. 104–106, § 501(d)(2)][/us/pl/104/106/s501/d/2], added subpar. (E).
+    Subsec. (c)(3)(E). [Pub. L. 104–106][/us/pl/104/106], § 501(d)(2), added subpar. (E).
 
-    Subsec. (d)(2)(A). [Pub. L. 104–106, § 501(a)][/us/pl/104/106/s501/a], substituted “800” for “1,000”.
+    Subsec. (d)(2)(A). [Pub. L. 104–106][/us/pl/104/106], § 501(a), substituted “800” for “1,000”.
 
-    Subsec. (d)(2)(B). [Pub. L. 104–106, § 1503(a)(6)(A)][/us/pl/104/106/s1503/a/6/A], substituted “Each position designated by the Secretary under subparagraph (A)” for “Until January 1, 1994, at least 80 percent of the positions designated by the Secretary under subparagraph (A) shall be held at all times by officers who have the joint specialty. On and after January 1, 1994, each position so designated”.
+    Subsec. (d)(2)(B). [Pub. L. 104–106][/us/pl/104/106], § 1503(a)(6)(A), substituted “Each position designated by the Secretary under subparagraph (A)” for “Until January 1, 1994, at least 80 percent of the positions designated by the Secretary under subparagraph (A) shall be held at all times by officers who have the joint specialty. On and after January 1, 1994, each position so designated”.
 
-    Subsec. (d)(2)(C). [Pub. L. 104–106, § 1503(a)(6)(B)][/us/pl/104/106/s1503/a/6/B], struck out “the second sentence of” after “the requirement in”.
+    Subsec. (d)(2)(C). [Pub. L. 104–106][/us/pl/104/106], § 1503(a)(6)(B), struck out “the second sentence of” after “the requirement in”.
 
-    Subsec. (d)(2)(D). [Pub. L. 104–106, § 1503(a)(6)(C)][/us/pl/104/106/s1503/a/6/C], struck out subpar. (D) which read as follows: “During the period beginning on October 1, 1992, and ending on January 1, 1993, the Secretary of Defense shall submit to Congress a report on the operation, to the date of the report, of the first sentence of subparagraph (B) and on the Secretary’s projection for the use of the waiver authority provided under subparagraph (C), including the Secretary’s estimate of the average annual number of waivers to be provided under subparagraph (C).”
+    Subsec. (d)(2)(D). [Pub. L. 104–106][/us/pl/104/106], § 1503(a)(6)(C), struck out subpar. (D) which read as follows: “During the period beginning on October 1, 1992, and ending on January 1, 1993, the Secretary of Defense shall submit to Congress a report on the operation, to the date of the report, of the first sentence of subparagraph (B) and on the Secretary’s projection for the use of the waiver authority provided under subparagraph (C), including the Secretary’s estimate of the average annual number of waivers to be provided under subparagraph (C).”
 
-    1989—Subsec. (c)(1)(B), (3)(A). [Pub. L. 101–189, § 1113][/us/pl/101/189/s1113], substituted “(as described in [section 664(f) of this title][/us/usc/t10/s664/f] (other than in paragraph (2) thereof))” for “(as described in section 664(f)(1) or (f)(3) of this title)”.
+    1989—Subsec. (c)(1)(B), (3)(A). [Pub. L. 101–189][/us/pl/101/189], § 1113, substituted “(as described in [section 664(f) of this title][/us/usc/t10/s664/f] (other than in paragraph (2) thereof))” for “(as described in section 664(f)(1) or (f)(3) of this title)”.
 
-    Subsec. (c)(4). [Pub. L. 101–189, § 1122][/us/pl/101/189/s1122], added par. (4).
+    Subsec. (c)(4). [Pub. L. 101–189][/us/pl/101/189], § 1122, added par. (4).
 
-    1988—Subsec. (c)(3)(D). [Pub. L. 100–456, § 511][/us/pl/100/456/s511], inserted “for officers in the same pay grade” after “under this paragraph”, substituted “10 percent” for “5 percent”, and inserted “in that pay grade” after “numbers of officers”.
+    1988—Subsec. (c)(3)(D). [Pub. L. 100–456][/us/pl/100/456], § 511, inserted “for officers in the same pay grade” after “under this paragraph”, substituted “10 percent” for “5 percent”, and inserted “in that pay grade” after “numbers of officers”.
 
-    Subsec. (d)(2). [Pub. L. 100–456, § 512(a)][/us/pl/100/456/s512/a], designated existing provisions as subpar. (A), struck out sentence at end which directed that each position so designated by the Secretary could be held only by an officer who had the joint specialty, and added subpars. (B) to (D).
+    Subsec. (d)(2). [Pub. L. 100–456][/us/pl/100/456], § 512(a), designated existing provisions as subpar. (A), struck out sentence at end which directed that each position so designated by the Secretary could be held only by an officer who had the joint specialty, and added subpars. (B) to (D).
 
-    Subsec. (d)(4). [Pub. L. 100–456, § 517(a)][/us/pl/100/456/s517/a], substituted “25 percent” for “one-third”.
+    Subsec. (d)(4). [Pub. L. 100–456][/us/pl/100/456], § 517(a), substituted “25 percent” for “one-third”.
 
-    Subsec. (f). [Pub. L. 100–456, § 518][/us/pl/100/456/s518], added subsec. (f).
+    Subsec. (f). [Pub. L. 100–456][/us/pl/100/456], § 518, added subsec. (f).
 
-    1987—Subsec. (b)(3). [Pub. L. 100–180, § 1301(a)(1)][/us/pl/100/180/s1301/a/1], added par. (3).
+    1987—Subsec. (b)(3). [Pub. L. 100–180][/us/pl/100/180], § 1301(a)(1), added par. (3).
 
-    Subsec. (c)(1)(B). [Pub. L. 100–180, § 1301(b)(1)][/us/pl/100/180/s1301/b/1], inserted “(as described in section 664(f)(1) or (f)(3) of this title)” after “joint duty assignment”.
+    Subsec. (c)(1)(B). [Pub. L. 100–180][/us/pl/100/180], § 1301(b)(1), inserted “(as described in section 664(f)(1) or (f)(3) of this title)” after “joint duty assignment”.
 
-    Subsec. (c)(2)(A). [Pub. L. 100–180, § 1301(b)(2)(A)][/us/pl/100/180/s1301/b/2/A]–(C), designated existing provisions as subpar. (A), substituted “An officer (other than a general or flag officer) who has a military occupational specialty that is” for “An officer who has” and “full tour of duty in a joint duty assignment (as described in [section 664(f)(2) of this title][/us/usc/t10/s664/f/2])” for “joint duty assignment of not less than two years”, and struck out provisions that an officer selected for the joint specialty complete generally applicable requirements for selection under par. (1)(B) as soon as practicable after such officer’s selection.
+    Subsec. (c)(2)(A). [Pub. L. 100–180][/us/pl/100/180], § 1301(b)(2)(A)–(C), designated existing provisions as subpar. (A), substituted “An officer (other than a general or flag officer) who has a military occupational specialty that is” for “An officer who has” and “full tour of duty in a joint duty assignment (as described in [section 664(f)(2) of this title][/us/usc/t10/s664/f/2])” for “joint duty assignment of not less than two years”, and struck out provisions that an officer selected for the joint specialty complete generally applicable requirements for selection under par. (1)(B) as soon as practicable after such officer’s selection.
 
-    Subsec. (c)(2)(B). [Pub. L. 100–180, § 1301(b)(2)(D)][/us/pl/100/180/s1301/b/2/D], added subpar. (B).
+    Subsec. (c)(2)(B). [Pub. L. 100–180][/us/pl/100/180], § 1301(b)(2)(D), added subpar. (B).
 
-    Subsec. (c)(3). [Pub. L. 100–180, § 1301(b)(3)][/us/pl/100/180/s1301/b/3], added par. (3).
+    Subsec. (c)(3). [Pub. L. 100–180][/us/pl/100/180], § 1301(b)(3), added par. (3).
 
-    Subsec. (d)(1). [Pub. L. 100–180, § 1302(a)(1)][/us/pl/100/180/s1302/a/1], added subpars. (A) and (B) and substituted “by officers who—” for “by officers who have (or have been nominated for) the joint specialty.” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 100–180][/us/pl/100/180], § 1302(a)(1), added subpars. (A) and (B) and substituted “by officers who—” for “by officers who have (or have been nominated for) the joint specialty.” in introductory provisions.
 
-    Subsec. (d)(2) to (4). [Pub. L. 100–180, § 1302(b)][/us/pl/100/180/s1302/b], added pars. (2) to (4) and struck out former par. (2) which read as follows: “The Secretary of Defense shall designate not fewer than 1,000 joint duty assignment positions as critical joint duty assignment positions. Each such position shall be held only by an officer with the joint specialty.”
+    Subsec. (d)(2) to (4). [Pub. L. 100–180][/us/pl/100/180], § 1302(b), added pars. (2) to (4) and struck out former par. (2) which read as follows: “The Secretary of Defense shall designate not fewer than 1,000 joint duty assignment positions as critical joint duty assignment positions. Each such position shall be held only by an officer with the joint specialty.”
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–364, div. A, title V, § 516(f)][/us/pl/109/364/s516/f], Oct. 17, 2006, [120 Stat. 2189][/us/stat/120/2189], provided that: 
+[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 516(f), Oct. 17, 2006, [120 Stat. 2189][/us/stat/120/2189], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on October 1, 2007.”
 
  __Treatment of Current Joint Specialty Officers__ 
 
-[Pub. L. 109–364, div. A, title V, § 516(g)][/us/pl/109/364/s516/g], Oct. 17, 2006, [120 Stat. 2189][/us/stat/120/2189], provided that: 
+[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 516(g), Oct. 17, 2006, [120 Stat. 2189][/us/stat/120/2189], provided that: 
 
 > “For the purposes of chapter 38 of title 10, United States Code, and sections 154, 164, and 619a of such title, an officer who, as of September 30, 2007, has been selected for or has the joint specialty under section 661 of such title, as in effect on that date, shall be considered after that date to be an officer designated as joint qualified by the Secretary of Defense under section 661(b)(2) of such title, as amended by this section.”
 
  __Implementation Plan__ 
 
-[Pub. L. 109–364, div. A, title V, § 516(h)][/us/pl/109/364/s516/h], Oct. 17, 2006, [120 Stat. 2189][/us/stat/120/2189], provided that:
+[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 516(h), Oct. 17, 2006, [120 Stat. 2189][/us/stat/120/2189], provided that:
 
 >     “(1)  __Plan required__  __.—__ 
 
@@ -209,19 +209,19 @@
 
  __Exclusion of Certain Officers From Limitation on Authority To Grant a Waiver of Required Completion or Sequencing for Joint Professional Military Education__ 
 
-    [Pub. L. 107–314, div. A, title V, § 502(a)][/us/pl/107/314/s502/a], (b), Dec. 2, 2002, [116 Stat. 2530][/us/stat/116/2530], provided for exclusion from the limitation set forth in former subsec. (c)(3)(D) of this section of any officer selected for the joint specialty who, on Dec. 28, 2001, had met the requirements for nomination for the joint specialty, but had not been nominated before that date, and who had been automatically nominated before Dec. 2, 2002, and provided that such exclusion would terminate on Oct. 1, 2006.
+    [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 502(a), (b), Dec. 2, 2002, [116 Stat. 2530][/us/stat/116/2530], provided for exclusion from the limitation set forth in former subsec. (c)(3)(D) of this section of any officer selected for the joint specialty who, on Dec. 28, 2001, had met the requirements for nomination for the joint specialty, but had not been nominated before that date, and who had been automatically nominated before Dec. 2, 2002, and provided that such exclusion would terminate on Oct. 1, 2006.
 
  __Independent Study of Joint Officer Management and Joint Professional Military Education Reforms__ 
 
-    [Pub. L. 107–107, div. A, title V, § 526][/us/pl/107/107/s526], Dec. 28, 2001, [115 Stat. 1099][/us/stat/115/1099], directed the Secretary of Defense to provide for an independent study of the joint officer management system and the joint professional military education system and to require the entity conducting the study to submit a report to Congress on the study not later than one year after Dec. 28, 2001.
+    [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 526, Dec. 28, 2001, [115 Stat. 1099][/us/stat/115/1099], directed the Secretary of Defense to provide for an independent study of the joint officer management system and the joint professional military education system and to require the entity conducting the study to submit a report to Congress on the study not later than one year after Dec. 28, 2001.
 
  __Study of Distribution of General and Flag Officer Positions in Joint Duty Assignments__ 
 
-    [Pub. L. 102–484, div. A, title IV, § 404][/us/pl/102/484/s404], Oct. 23, 1992, [106 Stat. 2398][/us/stat/106/2398], directed Secretary of Defense to conduct a study of whether joint organizations of Department of Defense are fully staffed with appropriate number of general and flag officers and, not later than one year after Oct. 23, 1992, submit a report to Congress.
+    [Pub. L. 102–484, div. A, title IV][/us/pl/102/484/dA/tIV], § 404, Oct. 23, 1992, [106 Stat. 2398][/us/stat/106/2398], directed Secretary of Defense to conduct a study of whether joint organizations of Department of Defense are fully staffed with appropriate number of general and flag officers and, not later than one year after Oct. 23, 1992, submit a report to Congress.
 
  __Transition to Joint Officer Personnel Policy__ 
 
-[Pub. L. 99–433, title IV, § 406(a)][/us/pl/99/433/s406/a]–(c), Oct. 1, 1986, [100 Stat. 1033][/us/stat/100/1033], as amended by [Pub. L. 100–456, div. A, title V, § 516][/us/pl/100/456/s516], Sept. 29, 1988, [102 Stat. 1971][/us/stat/102/1971], provided that:
+[Pub. L. 99–433, title IV][/us/pl/99/433/tIV], § 406(a)–(c), Oct. 1, 1986, [100 Stat. 1033][/us/stat/100/1033], as amended by [Pub. L. 100–456, div. A, title V][/us/pl/100/456/dA/tV], § 516, Sept. 29, 1988, [102 Stat. 1971][/us/stat/102/1971], provided that:
 
 >     “(a)  __Joint Duty Assignments__  __.—__ 
 
@@ -274,69 +274,69 @@
 [/us/usc/t10/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2155
 [/us/usc/t10/s664/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs664%2Ff
 [/us/usc/t10/s619a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs619a
-[/us/pl/99/433/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs401%2Fa
+[/us/pl/99/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtIV
 [/us/stat/100/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1025
-[/us/pl/100/180/s1301–130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1301%E2%80%93130
+[/us/pl/100/180/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXIII
 [/us/stat/101/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1168
-[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtV
 [/us/stat/102/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1968
-[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXI
 [/us/stat/103/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1554
-[/us/pl/104/106/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs501%2Fa
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F290
-[/us/pl/107/107/s521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs521%2Fa
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1097
-[/us/pl/107/314/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs502%2Fc
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2530
-[/us/pl/109/364/s516/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs516%2Fa
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2187-2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2187-2189
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4444
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/109/364/s516/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs516%2Fe%2F1
-[/us/pl/109/364/s516/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs516%2Fa
-[/us/pl/109/364/s516/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs516%2Fb
-[/us/pl/109/364/s516/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs516%2Fc
-[/us/pl/109/364/s516/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs516%2Fd
-[/us/pl/107/314/s1062/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1062%2Fa%2F3
-[/us/pl/107/314/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs502%2Fc
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/104/106/s501/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs501%2Fd%2F1
-[/us/pl/104/106/s501/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs501%2Fd%2F2
-[/us/pl/104/106/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs501%2Fa
-[/us/pl/104/106/s1503/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1503%2Fa%2F6%2FA
-[/us/pl/104/106/s1503/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1503%2Fa%2F6%2FB
-[/us/pl/104/106/s1503/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1503%2Fa%2F6%2FC
-[/us/pl/101/189/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1113
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t10/s664/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs664%2Ff
-[/us/pl/101/189/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1122
-[/us/pl/100/456/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs511
-[/us/pl/100/456/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs512%2Fa
-[/us/pl/100/456/s517/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs517%2Fa
-[/us/pl/100/456/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs518
-[/us/pl/100/180/s1301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1301%2Fa%2F1
-[/us/pl/100/180/s1301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1301%2Fb%2F1
-[/us/pl/100/180/s1301/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1301%2Fb%2F2%2FA
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/usc/t10/s664/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs664%2Ff%2F2
-[/us/pl/100/180/s1301/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1301%2Fb%2F2%2FD
-[/us/pl/100/180/s1301/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1301%2Fb%2F3
-[/us/pl/100/180/s1302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1302%2Fa%2F1
-[/us/pl/100/180/s1302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1302%2Fb
-[/us/pl/109/364/s516/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs516%2Ff
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2189
-[/us/pl/109/364/s516/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs516%2Fg
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2189
-[/us/pl/109/364/s516/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs516%2Fh
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2189
-[/us/pl/107/314/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs502%2Fa
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2530
-[/us/pl/107/107/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs526
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1099
-[/us/pl/102/484/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs404
+[/us/pl/102/484/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIV
 [/us/stat/106/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2398
-[/us/pl/99/433/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs406%2Fa
+[/us/pl/99/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtIV
 [/us/stat/100/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1033
-[/us/pl/100/456/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs516
+[/us/pl/100/456/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtV
 [/us/stat/102/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1971
 [/us/usc/t10/s661/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs661%2Fd
 [/us/usc/t10/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs661

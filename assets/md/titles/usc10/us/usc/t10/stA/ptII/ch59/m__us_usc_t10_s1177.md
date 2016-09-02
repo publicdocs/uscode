@@ -31,7 +31,7 @@
 
     The medical examination and procedures required by this section do not apply to courts-martial or other proceedings conducted pursuant to the Uniform Code of Military Justice.
 
-(Added [Pub. L. 111–84, div. A, title V, § 512(a)(1)][/us/pl/111/84/s512/a/1], Oct. 28, 2009, [123 Stat. 2280][/us/stat/123/2280]; amended [Pub. L. 112–239, div. A, title V, § 518][/us/pl/112/239/s518], Jan. 2, 2013, [126 Stat. 1720][/us/stat/126/1720]; [Pub. L. 113–66, div. A, title V, § 522][/us/pl/113/66/s522], Dec. 26, 2013, [127 Stat. 755][/us/stat/127/755].)
+(Added [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 512(a)(1), Oct. 28, 2009, [123 Stat. 2280][/us/stat/123/2280]; amended [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 518, Jan. 2, 2013, [126 Stat. 1720][/us/stat/126/1720]; [Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 522, Dec. 26, 2013, [127 Stat. 755][/us/stat/127/755].)
 
  __References in Text__ 
 
@@ -39,15 +39,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 1177, added [Pub. L. 103–337, div. A, title V, § 560(a)(1)][/us/pl/103/337/s560/a/1], Oct. 5, 1994, [108 Stat. 2777][/us/stat/108/2777]; amended [Pub. L. 104–106, div. A, title V, § 567(a)(1)][/us/pl/104/106/s567/a/1], title XV, § 1503(a)(12), Feb. 10, 1996, [110 Stat. 328][/us/stat/110/328], 511, related to mandatory discharge or retirement of members infected with HIV–1 virus, prior to repeal by [Pub. L. 104–134, title II, § 2707(a)(1)][/us/pl/104/134/s2707/a/1], Apr. 26, 1996, [110 Stat. 1321–330][/us/stat/110/1321-330].
+    A prior section 1177, added [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 560(a)(1), Oct. 5, 1994, [108 Stat. 2777][/us/stat/108/2777]; amended [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 567(a)(1), title XV, § 1503(a)(12), Feb. 10, 1996, [110 Stat. 328][/us/stat/110/328], 511, related to mandatory discharge or retirement of members infected with HIV–1 virus, prior to repeal by [Pub. L. 104–134, title II][/us/pl/104/134/tII], § 2707(a)(1), Apr. 26, 1996, [110 Stat. 1321–330][/us/stat/110/1321-330].
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1). [Pub. L. 112–239, § 518(1)][/us/pl/112/239/s518/1], substituted “psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse” for “or psychiatrist”.
+    2013—Subsec. (a)(1). [Pub. L. 112–239][/us/pl/112/239], § 518(1), substituted “psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse” for “or psychiatrist”.
 
     Subsec. (a)(2). [Pub. L. 113–66][/us/pl/113/66] inserted “, including an administrative separation in lieu of court-martial,” after “honorable”.
 
-    Subsec. (a)(3). [Pub. L. 112–239, § 518(2)][/us/pl/112/239/s518/2], substituted “, psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse” for “or psychiatrist”.
+    Subsec. (a)(3). [Pub. L. 112–239][/us/pl/112/239], § 518(2), substituted “, psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse” for “or psychiatrist”.
 
 ----------
 
@@ -56,20 +56,20 @@
 ----------
 ----------
 
-[/us/pl/111/84/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs512%2Fa%2F1
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2280
-[/us/pl/112/239/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs518
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1720
-[/us/pl/113/66/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs522
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F755
-[/us/pl/103/337/s560/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs560%2Fa%2F1
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2777
-[/us/pl/104/106/s567/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs567%2Fa%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F328
-[/us/pl/104/134/s2707/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs2707%2Fa%2F1
+[/us/pl/104/134/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtII
 [/us/stat/110/1321-330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-330
-[/us/pl/112/239/s518/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs518%2F1
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/112/239/s518/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs518%2F2
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 
 

@@ -17,11 +17,11 @@
 
     The Civil Reserve Air Fleet program is an important component of the military airlift system in support of United States defense and foreign policies, and it is the policy of the United States to maintain the readiness and interoperability of Civil Reserve Air Fleet carriers by providing appropriate levels of peacetime airlift augmentation to maintain networks and infrastructure, exercise the system, and interface effectively within the military airlift system.
 
-(Added [Pub. L. 114–92, div. A, title X, § 1085(b)(1)][/us/pl/114/92/s1085/b/1], Nov. 25, 2015, [129 Stat. 1005][/us/stat/129/1005].)
+(Added [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1085(b)(1), Nov. 25, 2015, [129 Stat. 1005][/us/stat/129/1005].)
 
  __Findings__ 
 
-[Pub. L. 114–92, div. A, title X, § 1085(a)][/us/pl/114/92/s1085/a], Nov. 25, 2015, [129 Stat. 1004][/us/stat/129/1004], provided that: 
+[Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1085(a), Nov. 25, 2015, [129 Stat. 1004][/us/stat/129/1004], provided that: 
 
 > “Congress finds the following:
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/114/92/s1085/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1085%2Fb%2F1
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1005
-[/us/pl/114/92/s1085/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1085%2Fa
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1004
 
 

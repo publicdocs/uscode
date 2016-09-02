@@ -35,7 +35,7 @@
 
     In this section, the term “military law enforcement official” means a person authorized under regulations governing the armed forces to apprehend persons subject to the Uniform Code of Military Justice (chapter 47 of this title) or to trial thereunder.
 
-(Added [Pub. L. 103–160, div. A, title V, § 551(a)(1)][/us/pl/103/160/s551/a/1], Nov. 30, 1993, [107 Stat. 1661][/us/stat/107/1661]; amended [Pub. L. 103–337, div. A, title X, § 1070(a)(4)][/us/pl/103/337/s1070/a/4], (b)(3), Oct. 5, 1994, [108 Stat. 2855][/us/stat/108/2855], 2856; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+(Added [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 551(a)(1), Nov. 30, 1993, [107 Stat. 1661][/us/stat/107/1661]; amended [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(a)(4), (b)(3), Oct. 5, 1994, [108 Stat. 2855][/us/stat/108/2855], 2856; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
  __Codification__ 
 
@@ -45,9 +45,9 @@
 
     2002—Subsec. (c). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
 
-    1994—[Pub. L. 103–337, § 1070(b)(3)][/us/pl/103/337/s1070/b/3], made technical correction to directory language of [Pub. L. 103–160, § 551(a)(1)][/us/pl/103/160/s551/a/1], which enacted this section.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 1070(b)(3), made technical correction to directory language of [Pub. L. 103–160][/us/pl/103/160], § 551(a)(1), which enacted this section.
 
-    Subsec. (d). [Pub. L. 103–337, § 1070(a)(4)][/us/pl/103/337/s1070/a/4], substituted “subject to the Uniform Code of Military Justice (chapter 47 of this title)” for “subject to this chapter”.
+    Subsec. (d). [Pub. L. 103–337][/us/pl/103/337], § 1070(a)(4), substituted “subject to the Uniform Code of Military Justice (chapter 47 of this title)” for “subject to this chapter”.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -55,11 +55,11 @@
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–337, div. A, title X, § 1070(b)][/us/pl/103/337/s1070/b], Oct. 5, 1994, [108 Stat. 2856][/us/stat/108/2856], provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, [Pub. L. 103–160][/us/pl/103/160], as enacted.
+    [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(b), Oct. 5, 1994, [108 Stat. 2856][/us/stat/108/2856], provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, [Pub. L. 103–160][/us/pl/103/160], as enacted.
 
  __Deadline for Prescribing Procedures__ 
 
-[Pub. L. 103–160, div. A, title V, § 551(b)][/us/pl/103/160/s551/b], Nov. 30, 1993, [107 Stat. 1662][/us/stat/107/1662], provided that: 
+[Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 551(b), Nov. 30, 1993, [107 Stat. 1662][/us/stat/107/1662], provided that: 
 
 > “The Secretary of Defense shall prescribe procedures to carry out [section 1058 of title 10][/us/usc/t10/s1058], United States Code, as added by subsection (a), not later than six months after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
@@ -70,23 +70,23 @@
 ----------
 ----------
 
-[/us/pl/103/160/s551/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs551%2Fa%2F1
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1661
-[/us/pl/103/337/s1070/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fa%2F4
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2855
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/103/337/s1070/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fb%2F3
-[/us/pl/103/160/s551/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs551%2Fa%2F1
-[/us/pl/103/337/s1070/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fa%2F4
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/103/337/s1070/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fb
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2856
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
-[/us/pl/103/160/s551/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs551%2Fb
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1662
 [/us/usc/t10/s1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1058
 

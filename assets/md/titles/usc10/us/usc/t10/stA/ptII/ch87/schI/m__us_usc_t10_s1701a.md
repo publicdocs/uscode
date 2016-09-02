@@ -65,7 +65,7 @@
 
     Any rules or regulations prescribed pursuant to this section shall be deemed an agency rule or regulation under [section 7117(a)(2) of title 5][/us/usc/t5/s7117/a/2], and shall not be deemed a Government-wide rule or regulation under section 7117(a)(1) of such title.
 
-(Added [Pub. L. 111–383, div. A, title VIII, § 871(a)][/us/pl/111/383/s871/a], Jan. 7, 2011, [124 Stat. 4299][/us/stat/124/4299].)
+(Added [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 871(a), Jan. 7, 2011, [124 Stat. 4299][/us/stat/124/4299].)
 
 ----------
 
@@ -83,7 +83,7 @@
 [/us/usc/t5/s9903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9903
 [/us/usc/t10/s1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1564
 [/us/usc/t5/s7117/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7117%2Fa%2F2
-[/us/pl/111/383/s871/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs871%2Fa
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4299
 
 

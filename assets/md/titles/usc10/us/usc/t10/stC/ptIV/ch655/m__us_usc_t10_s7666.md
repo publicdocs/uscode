@@ -75,7 +75,7 @@ R.S. 4628.  </td>
 
 </table>
 
-    The statement in subsection (b) of the responsibility of the auctioneer and agent to the marshal in the collection and deposit of proceeds is inserted to clarify the marshal’s functions. It is derived from [34 U.S.C. 1139][/us/usc/t34/s1139], and appears in [§ 7662 of this title][/us/usc/t10/s7662].
+    The statement in subsection (b) of the responsibility of the auctioneer and agent to the marshal in the collection and deposit of proceeds is inserted to clarify the marshal’s functions. It is derived from [34 U.S.C. 1139][/us/usc/t34/s1139], and appears in § 7662 of this title.
 
 ----------
 
@@ -87,6 +87,5 @@ R.S. 4628.  </td>
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F479
 [/us/usc/t34/s1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs1139
-[/us/usc/t10/s7662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7662
 
 

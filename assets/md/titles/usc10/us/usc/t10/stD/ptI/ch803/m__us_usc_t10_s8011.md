@@ -17,7 +17,7 @@
 
     The Department of the Air Force is separately organized under the Secretary of the Air Force. It operates under the authority, direction, and control of the Secretary of Defense.
 
-(Added [Pub. L. 87–651, title II, § 213(a)][/us/pl/87/651/s213/a], Sept. 7, 1962, [76 Stat. 524][/us/stat/76/524], § 8010; renumbered § 8011, [Pub. L. 99–433, title V, § 521(a)(1)][/us/pl/99/433/s521/a/1], Oct. 1, 1986, [100 Stat. 1055][/us/stat/100/1055].)
+(Added [Pub. L. 87–651, title II][/us/pl/87/651/tII], § 213(a), Sept. 7, 1962, [76 Stat. 524][/us/stat/76/524], § 8010; renumbered § 8011, [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 521(a)(1), Oct. 1, 1986, [100 Stat. 1055][/us/stat/100/1055].)
 
 <table>
 
@@ -84,9 +84,9 @@ July 26, 1947, ch. 343, § 202(c)(7) (1st sentence as applicable to Department
 ----------
 ----------
 
-[/us/pl/87/651/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs213%2Fa
+[/us/pl/87/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtII
 [/us/stat/76/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F524
-[/us/pl/99/433/s521/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs521%2Fa%2F1
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1055
 [/us/usc/t10/s8012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8012
 

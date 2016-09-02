@@ -47,11 +47,11 @@
 
     An officer who is appointed under subsection (a)(3) or (b)(2)(B) shall be credited with an amount of service in the grade in which appointed that is equal to the amount of prior service in an active status in that grade and in any higher grade.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2942][/us/stat/108/2942]; amended [Pub. L. 104–201, div. A, title V, § 544(c)][/us/pl/104/201/s544/c], Sept. 23, 1996, [110 Stat. 2523][/us/stat/110/2523].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2942][/us/stat/108/2942]; amended [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 544(c), Sept. 23, 1996, [110 Stat. 2523][/us/stat/110/2523].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 3375, 8375, and 8381 of this title, prior to repeal by [Pub. L. 103–337, § 1629(a)(1)][/us/pl/103/337/s1629/a/1], (c)(1).
+    Provisions similar to those in this section were contained in sections 3375, 8375, and 8381 of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(a)(1), (c)(1).
 
  __Amendments__ 
 
@@ -64,11 +64,11 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2942
-[/us/pl/104/201/s544/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs544%2Fc
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2523
-[/us/pl/103/337/s1629/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fa%2F1
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 
 

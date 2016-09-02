@@ -41,7 +41,7 @@
 
     (c) Any period of delay resulting from an appeal under this section shall be excluded in deciding any issue regarding denial of a speedy trial unless an appropriate authority determines that the appeal was filed solely for the purpose of delay with the knowledge that it was totally frivolous and without merit.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 58][/us/stat/70A/58]; [Pub. L. 98–209, § 5(c)(1)][/us/pl/98/209/s5/c/1], Dec. 6, 1983, [97 Stat. 1398][/us/stat/97/1398]; [Pub. L. 103–337, div. A, title IX, § 924(c)(2)][/us/pl/103/337/s924/c/2], Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831]; [Pub. L. 104–106, div. A, title XI, § 1141(a)][/us/pl/104/106/s1141/a], Feb. 10, 1996, [110 Stat. 466][/us/stat/110/466].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 58][/us/stat/70A/58]; [Pub. L. 98–209][/us/pl/98/209], § 5(c)(1), Dec. 6, 1983, [97 Stat. 1398][/us/stat/97/1398]; [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(c)(2), Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831]; [Pub. L. 104–106, div. A, title XI][/us/pl/104/106/dA/tXI], § 1141(a), Feb. 10, 1996, [110 Stat. 466][/us/stat/110/466].)
 
 <table>
 
@@ -113,11 +113,11 @@ May 5, 1950, ch. 169, § 1 (Art. 62), 64 Stat. 127.  </td>
 [/us/usc/t10/s866/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs866%2Fc
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F58
-[/us/pl/98/209/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs5%2Fc%2F1
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1398
-[/us/pl/103/337/s924/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fc%2F2
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2831
-[/us/pl/104/106/s1141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1141%2Fa
+[/us/pl/104/106/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXI
 [/us/stat/110/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F466
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

@@ -27,7 +27,7 @@
 
     The Secretary of Defense shall prescribe regulations to carry out this section. The regulations shall be designed to further good order and discipline by members of the armed forces and civilians present on military installations.
 
-(Added [Pub. L. 107–311, § 2(a)][/us/pl/107/311/s2/a], Dec. 2, 2002, [116 Stat. 2455][/us/stat/116/2455].)
+(Added [Pub. L. 107–311][/us/pl/107/311], § 2(a), Dec. 2, 2002, [116 Stat. 2455][/us/stat/116/2455].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t18/s2266/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2266%2F5
-[/us/pl/107/311/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F311%2Fs2%2Fa
+[/us/pl/107/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F311
 [/us/stat/116/2455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2455
 
 

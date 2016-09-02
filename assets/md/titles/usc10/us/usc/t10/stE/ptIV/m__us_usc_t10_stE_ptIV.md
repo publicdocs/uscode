@@ -91,11 +91,11 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–375, div. A, title V, § 527(c)][/us/pl/108/375/s527/c], Oct. 28, 2004, [118 Stat. 1894][/us/stat/118/1894], added item for chapter 1607.
+    2004—[Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 527(c), Oct. 28, 2004, [118 Stat. 1894][/us/stat/118/1894], added item for chapter 1607.
 
-    1999—[Pub. L. 106–65, div. A, title V, § 551(a)(2)][/us/pl/106/65/s551/a/2], Oct. 5, 1999, [113 Stat. 614][/us/stat/113/614], added item for chapter 1611.
+    1999—[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 551(a)(2), Oct. 5, 1999, [113 Stat. 614][/us/stat/113/614], added item for chapter 1611.
 
-    1996—[Pub. L. 104–106, div. A, title XV, § 1501(b)(1)][/us/pl/104/106/s1501/b/1], Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495], substituted “Repayment Programs” for “Repayments” in item for chapter 1609.
+    1996—[Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(1), Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495], substituted “Repayment Programs” for “Repayments” in item for chapter 1609.
 
 ----------
 
@@ -104,11 +104,11 @@
 ----------
 ----------
 
-[/us/pl/108/375/s527/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs527%2Fc
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1894
-[/us/pl/106/65/s551/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs551%2Fa%2F2
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F614
-[/us/pl/104/106/s1501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F1
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F495
 
 

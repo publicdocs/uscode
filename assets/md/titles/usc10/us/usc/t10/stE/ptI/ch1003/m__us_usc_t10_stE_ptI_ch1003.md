@@ -139,9 +139,9 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–163, div. A, title V, § 515(b)(4)(E)][/us/pl/109/163/s515/b/4/E], Jan. 6, 2006, [119 Stat. 3235][/us/stat/119/3235], substituted “Navy Reserve” for “Naval Reserve” in item 10108.
+    2006—[Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(4)(E), Jan. 6, 2006, [119 Stat. 3235][/us/stat/119/3235], substituted “Navy Reserve” for “Naval Reserve” in item 10108.
 
-    1996—[Pub. L. 104–106, div. A, title XV, § 1501(b)(2)(B)][/us/pl/104/106/s1501/b/2/B], Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495], substituted “into Federal service” for “of National Guard into Federal service” in item 10103.
+    1996—[Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(2)(B), Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495], substituted “into Federal service” for “of National Guard into Federal service” in item 10103.
 
 ----------
 
@@ -150,9 +150,9 @@
 ----------
 ----------
 
-[/us/pl/109/163/s515/b/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F4%2FE
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3235
-[/us/pl/104/106/s1501/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F2%2FB
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F495
 
 

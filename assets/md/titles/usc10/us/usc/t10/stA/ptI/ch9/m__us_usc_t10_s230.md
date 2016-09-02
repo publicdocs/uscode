@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptI/ch9/m__us_usc_t10_s229.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch9/m__us_usc_t10_s231.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs230)
 
-## \[§ 230. Repealed. [Pub. L. 107–314, div. A, title X, § 1041(a)(2)(A)][/us/pl/107/314/s1041/a/2/A], Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645]\]
+## \[§ 230. Repealed. [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1041(a)(2)(A), Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645]\]
 
-    Section, added [Pub. L. 106–65, div. A, title X, § 1041(a)(1)][/us/pl/106/65/s1041/a/1], Oct. 5, 1999, [113 Stat. 758][/us/stat/113/758]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1075(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–280, related to inclusion in the budget justification materials submitted to Congress of specific identification of amounts required for declassification of records.
+    Section, added [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1041(a)(1), Oct. 5, 1999, [113 Stat. 758][/us/stat/113/758]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1075(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–280, related to inclusion in the budget justification materials submitted to Congress of specific identification of amounts required for declassification of records.
 
 ----------
 
@@ -24,11 +24,11 @@
 ----------
 ----------
 
-[/us/pl/107/314/s1041/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1041%2Fa%2F2%2FA
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2645
-[/us/pl/106/65/s1041/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1041%2Fa%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F758
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

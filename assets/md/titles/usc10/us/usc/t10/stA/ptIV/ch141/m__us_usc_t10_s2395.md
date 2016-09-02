@@ -17,7 +17,7 @@
 
     Funds appropriated to the Department of Defense for the procurement of technical military equipment and supplies remain available until spent.
 
-(Added [Pub. L. 97–258, § 2(b)(4)(B)][/us/pl/97/258/s2/b/4/B], Sept. 13, 1982, [96 Stat. 1052][/us/stat/96/1052], § 2394; renumbered § 2395 and amended [Pub. L. 97–295, § 1(28)(A)][/us/pl/97/295/s1/28/A], Oct. 12, 1982, [96 Stat. 1291][/us/stat/96/1291].)
+(Added [Pub. L. 97–258][/us/pl/97/258], § 2(b)(4)(B), Sept. 13, 1982, [96 Stat. 1052][/us/stat/96/1052], § 2394; renumbered § 2395 and amended [Pub. L. 97–295][/us/pl/97/295], § 1(28)(A), Oct. 12, 1982, [96 Stat. 1291][/us/stat/96/1291].)
 
 <table>
 
@@ -117,7 +117,7 @@ Sept. 13, 1982, Pub. L. 97–258, § 2(b)(4)(B), 96 Stat. 1053.  </td>
 
 </table>
 
-This redesignates 10:2394 (enacted by [Pub. L. 97–258][/us/pl/97/258]) as 10:2395 because of the enactment of another 10:2394 by [Pub. L. 97–214, § 6(a)(1)][/us/pl/97/214/s6/a/1], July 12, 1982, [96 Stat. 171][/us/stat/96/171], and amends the section generally to eliminate the words “and the construction of military public works” because of section 10(b)(5) of the Military Construction Codification Act ([Pub. L. 97–214][/us/pl/97/214], July 12, 1982, [96 Stat. 176][/us/stat/96/176]) which struck corresponding words from the source statute for 10:2394 subsequent to Apr. 15, 1982, the cut-off date prescribed by [section 4(a) of Pub. L. 97–258][/us/pl/97/258/s4/a], section 2(b)(4)(B) of which enacted 10:2394.
+This redesignates 10:2394 (enacted by [Pub. L. 97–258][/us/pl/97/258]) as 10:2395 because of the enactment of another 10:2394 by [Pub. L. 97–214][/us/pl/97/214], § 6(a)(1), July 12, 1982, [96 Stat. 171][/us/stat/96/171], and amends the section generally to eliminate the words “and the construction of military public works” because of section 10(b)(5) of the Military Construction Codification Act ([Pub. L. 97–214][/us/pl/97/214], July 12, 1982, [96 Stat. 176][/us/stat/96/176]) which struck corresponding words from the source statute for 10:2394 subsequent to Apr. 15, 1982, the cut-off date prescribed by [section 4(a) of Pub. L. 97–258][/us/pl/97/258/s4/a], section 2(b)(4)(B) of which enacted 10:2394.
 
  __Codification__ 
 
@@ -134,12 +134,12 @@ This redesignates 10:2394 (enacted by [Pub. L. 97–258][/us/pl/97/258]) as 10:2
 ----------
 ----------
 
-[/us/pl/97/258/s2/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F4%2FB
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1052
-[/us/pl/97/295/s1/28/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F28%2FA
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1291
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
-[/us/pl/97/214/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs6%2Fa%2F1
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F171
 [/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F176

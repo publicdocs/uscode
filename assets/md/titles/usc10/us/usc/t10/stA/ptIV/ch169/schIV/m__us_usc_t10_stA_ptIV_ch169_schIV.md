@@ -171,17 +171,17 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–417, div. B, title XXVIII, § 2805(a)(2)][/us/pl/110/417/s2805/a/2], (e)(2), Oct. 14, 2008, [122 Stat. 4722][/us/stat/122/4722], 4724, added items 2882 and 2885 and struck out former item 2882 “Assignment of members of the armed forces to housing units”.
+    2008—[Pub. L. 110–417, div. B, title XXVIII][/us/pl/110/417/dB/tXXVIII], § 2805(a)(2), (e)(2), Oct. 14, 2008, [122 Stat. 4722][/us/stat/122/4722], 4724, added items 2882 and 2885 and struck out former item 2882 “Assignment of members of the armed forces to housing units”.
 
-    2004—[Pub. L. 108–375, div. B, title XXVIII, § 2805(b)(2)][/us/pl/108/375/s2805/b/2], Oct. 28, 2004, [118 Stat. 2122][/us/stat/118/2122], struck out item 2885 “Expiration of authority”.
+    2004—[Pub. L. 108–375, div. B, title XXVIII][/us/pl/108/375/dB/tXXVIII], § 2805(b)(2), Oct. 28, 2004, [118 Stat. 2122][/us/stat/118/2122], struck out item 2885 “Expiration of authority”.
 
-    2002—[Pub. L. 107–314, div. B, title XXVIII][/us/pl/107/314], §§ 2802(b)(3), (c)(2), 2803(a)(2), Dec. 2, 2002, [116 Stat. 2703][/us/stat/116/2703], 2705, struck out “to be constructed” after “Leasing of housing” in item 2874, struck out item 2879 “Interim leases”, and added item 2881a.
+    2002—[Pub. L. 107–314, div. B, title XXVIII][/us/pl/107/314/dB/tXXVIII], §§ 2802(b)(3), (c)(2), 2803(a)(2), Dec. 2, 2002, [116 Stat. 2703][/us/stat/116/2703], 2705, struck out “to be constructed” after “Leasing of housing” in item 2874, struck out item 2879 “Interim leases”, and added item 2881a.
 
-    2001—[Pub. L. 107–107, div. B, title XXVIII, § 2804(b)][/us/pl/107/107/s2804/b], Dec. 28, 2001, [115 Stat. 1306][/us/stat/115/1306], added item 2883a.
+    2001—[Pub. L. 107–107, div. B, title XXVIII][/us/pl/107/107/dB/tXXVIII], § 2804(b), Dec. 28, 2001, [115 Stat. 1306][/us/stat/115/1306], added item 2883a.
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. B, title XXVIII, § 2805(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–415, added item 2872a.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[div. B, title XXVIII, § 2805(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–415, added item 2872a.
 
-    1999—[Pub. L. 106–65, div. B, title XXVIII, § 2803(h)(2)][/us/pl/106/65/s2803/h/2], Oct. 5, 1999, [113 Stat. 849][/us/stat/113/849], added item 2875 and struck out former item 2875 “Investments in nongovernmental entities”.
+    1999—[Pub. L. 106–65, div. B, title XXVIII][/us/pl/106/65/dB/tXXVIII], § 2803(h)(2), Oct. 5, 1999, [113 Stat. 849][/us/stat/113/849], added item 2875 and struck out former item 2875 “Investments in nongovernmental entities”.
 
 ----------
 
@@ -190,17 +190,17 @@
 ----------
 ----------
 
-[/us/pl/110/417/s2805/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs2805%2Fa%2F2
+[/us/pl/110/417/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdB%2FtXXVIII
 [/us/stat/122/4722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4722
-[/us/pl/108/375/s2805/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs2805%2Fb%2F2
+[/us/pl/108/375/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdB%2FtXXVIII
 [/us/stat/118/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2122
-[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdB%2FtXXVIII
 [/us/stat/116/2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2703
-[/us/pl/107/107/s2804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs2804%2Fb
+[/us/pl/107/107/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdB%2FtXXVIII
 [/us/stat/115/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1306
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/65/s2803/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2803%2Fh%2F2
+[/us/pl/106/65/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdB%2FtXXVIII
 [/us/stat/113/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F849
 
 

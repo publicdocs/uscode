@@ -39,7 +39,7 @@
 
             (D) The Air Force Foreign Aerospace Science and Technology Center.
 
-(Added [Pub. L. 102–484, div. A, title VIII, § 838(a)][/us/pl/102/484/s838/a], Oct. 23, 1992, [106 Stat. 2465][/us/stat/106/2465]; amended [Pub. L. 103–35, title II, § 201(d)(5)][/us/pl/103/35/s201/d/5], (h)(2), May 31, 1993, [107 Stat. 99][/us/stat/107/99], 100; [Pub. L. 107–314, div. A, title X, § 1041(a)(16)][/us/pl/107/314/s1041/a/16], Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645].)
+(Added [Pub. L. 102–484, div. A, title VIII][/us/pl/102/484/dA/tVIII], § 838(a), Oct. 23, 1992, [106 Stat. 2465][/us/stat/106/2465]; amended [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 201(d)(5), (h)(2), May 31, 1993, [107 Stat. 99][/us/stat/107/99], 100; [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1041(a)(16), Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645].)
 
  __References in Text__ 
 
@@ -49,9 +49,9 @@
 
     2002—Subsec. (a). [Pub. L. 107–314][/us/pl/107/314] substituted “$10,000,000” for “$100,000”.
 
-    1993—Subsec. (a). [Pub. L. 103–35, § 201(d)(5)][/us/pl/103/35/s201/d/5], substituted “respectively, that” for “respectively, which”.
+    1993—Subsec. (a). [Pub. L. 103–35][/us/pl/103/35], § 201(d)(5), substituted “respectively, that” for “respectively, which”.
 
-    Subsec. (d). [Pub. L. 103–35, § 201(h)(2)][/us/pl/103/35/s201/h/2], struck out subsec. (d) which read as follows: “In this section, the term ‘defense critical technology’ has the meaning provided that term by [section 2491(8) of this title][/us/usc/t10/s2491/8].”
+    Subsec. (d). [Pub. L. 103–35][/us/pl/103/35], § 201(h)(2), struck out subsec. (d) which read as follows: “In this section, the term ‘defense critical technology’ has the meaning provided that term by [section 2491(8) of this title][/us/usc/t10/s2491/8].”
 
 ----------
 
@@ -60,16 +60,16 @@
 ----------
 ----------
 
-[/us/pl/102/484/s838/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs838%2Fa
+[/us/pl/102/484/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVIII
 [/us/stat/106/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2465
-[/us/pl/103/35/s201/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fd%2F5
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F99
-[/us/pl/107/314/s1041/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1041%2Fa%2F16
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2645
 [/us/usc/t50/s4565/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4565%2Fa
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
-[/us/pl/103/35/s201/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fd%2F5
-[/us/pl/103/35/s201/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fh%2F2
+[/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
+[/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
 [/us/usc/t10/s2491/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2491%2F8
 
 

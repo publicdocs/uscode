@@ -43,7 +43,7 @@
 
         (3) eligible to enroll in the supplementary medical insurance program under part B of such title ([42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.).
 
-(Added [Pub. L. 111–84, div. A, title VII, § 707(a)][/us/pl/111/84/s707/a], Oct. 28, 2009, [123 Stat. 2376][/us/stat/123/2376].)
+(Added [Pub. L. 111–84, div. A, title VII][/us/pl/111/84/dA/tVII], § 707(a), Oct. 28, 2009, [123 Stat. 2376][/us/stat/123/2376].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/usc/t42/s426/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426%2Fb
 [/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
-[/us/pl/111/84/s707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs707%2Fa
+[/us/pl/111/84/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVII
 [/us/stat/123/2376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2376
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

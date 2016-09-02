@@ -27,7 +27,7 @@
 
     Whenever any unit or member of the reserve components is ordered to active duty under this section, the service of all units or members so ordered to active duty may be terminated by order of the Secretary of Defense or law.
 
-(Added [Pub. L. 112–81, div. A, title V, § 515(a)(1)][/us/pl/112/81/s515/a/1], Dec. 31, 2011, [125 Stat. 1394][/us/stat/125/1394].)
+(Added [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 515(a)(1), Dec. 31, 2011, [125 Stat. 1394][/us/stat/125/1394].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t42/s5122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5122
-[/us/pl/112/81/s515/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs515%2Fa%2F1
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1394
 
 

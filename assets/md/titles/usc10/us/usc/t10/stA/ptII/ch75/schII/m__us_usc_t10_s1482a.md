@@ -41,7 +41,7 @@
 
         (4) The term “Secretary concerned” includes the Secretary of Defense with respect to employees of the Department of Defense who are not employees of a military department.
 
-(Added [Pub. L. 103–160, div. A, title III, § 368(a)][/us/pl/103/160/s368/a], Nov. 30, 1993, [107 Stat. 1633][/us/stat/107/1633]; amended [Pub. L. 103–337, div. A, title X, § 1070(a)(8)(A)][/us/pl/103/337/s1070/a/8/A], Oct. 5, 1994, [108 Stat. 2855][/us/stat/108/2855]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 111–383, div. A, title X, § 1075(b)(20)][/us/pl/111/383/s1075/b/20], Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370].)
+(Added [Pub. L. 103–160, div. A, title III][/us/pl/103/160/dA/tIII], § 368(a), Nov. 30, 1993, [107 Stat. 1633][/us/stat/107/1633]; amended [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(a)(8)(A), Oct. 5, 1994, [108 Stat. 2855][/us/stat/108/2855]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(20), Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–160, div. A, title III, § 368(c)][/us/pl/103/160/s368/c], Nov. 30, 1993, [107 Stat. 1634][/us/stat/107/1634], provided that: 
+[Pub. L. 103–160, div. A, title III][/us/pl/103/160/dA/tIII], § 368(c), Nov. 30, 1993, [107 Stat. 1634][/us/stat/107/1634], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply with respect to the payment of incidental expenses for civilian employees who die while serving in a contingency operation that occurs after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
@@ -71,13 +71,13 @@
 [/us/usc/t5/s5742/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5742%2Fb%2F1
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t10/s1482/e/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1482%2Fe%2F5%2FA
-[/us/pl/103/160/s368/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs368%2Fa
+[/us/pl/103/160/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIII
 [/us/stat/107/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1633
-[/us/pl/103/337/s1070/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fa%2F8%2FA
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2855
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/111/383/s1075/b/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F20
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4370
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
@@ -85,7 +85,7 @@
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/103/160/s368/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs368%2Fc
+[/us/pl/103/160/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIII
 [/us/stat/107/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1634
 
 

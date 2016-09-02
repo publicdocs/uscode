@@ -33,7 +33,7 @@
 
             (B) the amounts obligated for such inventory purchases out of the corresponding appropriations account for the preceding fiscal year.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 152][/us/stat/70A/152], § 2701; renumbered § 2721, [Pub. L. 99–499, title II, § 211(a)(1)(A)][/us/pl/99/499/s211/a/1/A], Oct. 17, 1986, [100 Stat. 1719][/us/stat/100/1719]; amended [Pub. L. 101–510, div. A, title XIII, § 1322(a)(12)][/us/pl/101/510/s1322/a/12], Nov. 5, 1990, [104 Stat. 1671][/us/stat/104/1671]; [Pub. L. 102–190, div. A, title III, § 347(b)][/us/pl/102/190/s347/b], title X, § 1061(a)(17)(A), Dec. 5, 1991, [105 Stat. 1347][/us/stat/105/1347], 1473.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 152][/us/stat/70A/152], § 2701; renumbered § 2721, [Pub. L. 99–499, title II][/us/pl/99/499/tII], § 211(a)(1)(A), Oct. 17, 1986, [100 Stat. 1719][/us/stat/100/1719]; amended [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1322(a)(12), Nov. 5, 1990, [104 Stat. 1671][/us/stat/104/1671]; [Pub. L. 102–190, div. A, title III][/us/pl/102/190/dA/tIII], § 347(b), title X, § 1061(a)(17)(A), Dec. 5, 1991, [105 Stat. 1347][/us/stat/105/1347], 1473.)
 
 <table>
 
@@ -89,21 +89,21 @@ July 26, 1947, ch. 343, § 410; added Aug. 10, 1949, ch. 412, § 11(410), 63
 
  __Amendments__ 
 
-    1991—[Pub. L. 102–190, § 1061(a)(17)(A)][/us/pl/102/190/s1061/a/17/A], substituted section catchline for one which read “Basis: reports”.
+    1991—[Pub. L. 102–190][/us/pl/102/190], § 1061(a)(17)(A), substituted section catchline for one which read “Basis: reports”.
 
-    [Pub. L. 102–190, § 347(b)][/us/pl/102/190/s347/b], designated existing provisions as subsec. (a) and added subsec. (b).
+    [Pub. L. 102–190][/us/pl/102/190], § 347(b), designated existing provisions as subsec. (a) and added subsec. (b).
 
     1990—[Pub. L. 101–510][/us/pl/101/510] struck out “(a)” before “Under regulations” and struck out subsec. (b) which read as follows: “The Secretary shall report once a year to Congress and the President on property records maintained under this section.”
 
  __Implementation of 1991 Amendment__ 
 
-[Pub. L. 102–190, div. A, title III, § 347(c)][/us/pl/102/190/s347/c], Dec. 5, 1991, [105 Stat. 1347][/us/stat/105/1347], provided that: 
+[Pub. L. 102–190, div. A, title III][/us/pl/102/190/dA/tIII], § 347(c), Dec. 5, 1991, [105 Stat. 1347][/us/stat/105/1347], provided that: 
 
 > “The Secretary of Defense shall establish the uniform system of valuation described in [section 2458(a)(3) of title 10][/us/usc/t10/s2458/a/3], United States Code (as added by subsection (a)), and prescribe the regulations required by section 2721(b) of such title (as added by subsection (b)), not later than 180 days after the date of the enactment of this Act \[Dec. 5, 1991\].”
 
  __Inventory Investigations__ 
 
-[Pub. L. 100–456, div. A, title III, § 343][/us/pl/100/456/s343], Sept. 29, 1988, [102 Stat. 1961][/us/stat/102/1961], provided that:
+[Pub. L. 100–456, div. A, title III][/us/pl/100/456/dA/tIII], § 343, Sept. 29, 1988, [102 Stat. 1961][/us/stat/102/1961], provided that:
 
 >     “(a)  __Undercover Investigations__  __.—__ 
 
@@ -125,20 +125,20 @@ July 26, 1947, ch. 343, § 410; added Aug. 10, 1949, ch. 412, § 11(410), 63
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F152
-[/us/pl/99/499/s211/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs211%2Fa%2F1%2FA
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1719
-[/us/pl/101/510/s1322/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1322%2Fa%2F12
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1671
-[/us/pl/102/190/s347/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs347%2Fb
+[/us/pl/102/190/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtIII
 [/us/stat/105/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1347
 [/us/usc/t10/s101/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F26
-[/us/pl/102/190/s1061/a/17/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fa%2F17%2FA
-[/us/pl/102/190/s347/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs347%2Fb
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/102/190/s347/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs347%2Fc
+[/us/pl/102/190/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtIII
 [/us/stat/105/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1347
 [/us/usc/t10/s2458/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2458%2Fa%2F3
-[/us/pl/100/456/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs343
+[/us/pl/100/456/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtIII
 [/us/stat/102/1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1961
 
 

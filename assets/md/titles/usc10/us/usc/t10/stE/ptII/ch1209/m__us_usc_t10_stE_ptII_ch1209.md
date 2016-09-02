@@ -227,15 +227,15 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–239, div. A, title V, § 571(b)][/us/pl/112/239/s571/b], Jan. 2, 2013, [126 Stat. 1753][/us/stat/126/1753], added item 12323.
+    2013—[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 571(b), Jan. 2, 2013, [126 Stat. 1753][/us/stat/126/1753], added item 12323.
 
-    2011—[Pub. L. 112–81, div. A, title V][/us/pl/112/81], §§ 515(a)(2), 516(a)(2), Dec. 31, 2011, [125 Stat. 1394][/us/stat/125/1394], 1397, added items 12304a and 12304b.
+    2011—[Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], §§ 515(a)(2), 516(a)(2), Dec. 31, 2011, [125 Stat. 1394][/us/stat/125/1394], 1397, added items 12304a and 12304b.
 
-    1999—[Pub. L. 106–65, div. A, title VII, § 705(a)(2)][/us/pl/106/65/s705/a/2], Oct. 5, 1999, [113 Stat. 683][/us/stat/113/683], added item 12322.
+    1999—[Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 705(a)(2), Oct. 5, 1999, [113 Stat. 683][/us/stat/113/683], added item 12322.
 
-    1997—[Pub. L. 105–85, div. A, title V, § 511(e)(2)][/us/pl/105/85/s511/e/2], Nov. 18, 1997, [111 Stat. 1729][/us/stat/111/1729], inserted “and certain Individual Ready Reserve members” after “Selected Reserve” in item 12304.
+    1997—[Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 511(e)(2), Nov. 18, 1997, [111 Stat. 1729][/us/stat/111/1729], inserted “and certain Individual Ready Reserve members” after “Selected Reserve” in item 12304.
 
-    1996—[Pub. L. 104–106, div. A, title XV, § 1501(b)(16)][/us/pl/104/106/s1501/b/16], Feb. 10, 1996, [110 Stat. 496][/us/stat/110/496], substituted a semicolon for a colon in item 12304 and struck out “on active duty” after “Retention” in item 12308.
+    1996—[Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(16), Feb. 10, 1996, [110 Stat. 496][/us/stat/110/496], substituted a semicolon for a colon in item 12304 and struck out “on active duty” after “Retention” in item 12308.
 
 ----------
 
@@ -244,15 +244,15 @@
 ----------
 ----------
 
-[/us/pl/112/239/s571/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs571%2Fb
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1753
-[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1394
-[/us/pl/106/65/s705/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs705%2Fa%2F2
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F683
-[/us/pl/105/85/s511/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs511%2Fe%2F2
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1729
-[/us/pl/104/106/s1501/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F16
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F496
 
 

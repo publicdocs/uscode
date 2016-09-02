@@ -79,7 +79,7 @@
 
         (2) includes all munitions containing explosives, propellants, nuclear fission or fusion materials, and biological and chemical agents.
 
-(Added [Pub. L. 114–92, div. A, title X, § 1082(a)][/us/pl/114/92/s1082/a], Nov. 25, 2015, [129 Stat. 1002][/us/stat/129/1002].)
+(Added [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1082(a), Nov. 25, 2015, [129 Stat. 1002][/us/stat/129/1002].)
 
 ----------
 
@@ -90,7 +90,7 @@
 
 [/us/usc/t18/s2332f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332f
 [/us/usc/t10/s382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs382
-[/us/pl/114/92/s1082/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1082%2Fa
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1002
 
 

@@ -49,11 +49,11 @@
 
         (2) The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
 
-(Added [Pub. L. 114–92, div. A, title XVI, § 1601(a)(1)][/us/pl/114/92/s1601/a/1], Nov. 25, 2015, [129 Stat. 1095][/us/stat/129/1095].)
+(Added [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1601(a)(1), Nov. 25, 2015, [129 Stat. 1095][/us/stat/129/1095].)
 
  __Plan to carry out unified major force program designation__ 
 
-[Pub. L. 114–92, div. A, title XVI, § 1601(b)][/us/pl/114/92/s1601/b], Nov. 25, 2015, [129 Stat. 1096][/us/stat/129/1096], provided that: 
+[Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1601(b), Nov. 25, 2015, [129 Stat. 1096][/us/stat/129/1096], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan to carry out the unified major force program designation required by [section 239(a) of title 10][/us/usc/t10/s239/a], United States Code, as added by subsection (a)(1), including any recommendations for legislative action the Secretary determines appropriate.”
 
@@ -67,9 +67,9 @@
 [/us/usc/t10/s222/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs222%2Fb
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/114/92/s1601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1601%2Fa%2F1
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1095
-[/us/pl/114/92/s1601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1601%2Fb
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1096
 [/us/usc/t10/s239/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs239%2Fa
 

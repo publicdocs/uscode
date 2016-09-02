@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5455.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_s5501.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch535)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5456...5458.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_s5501.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch535)
 
 #### CHAPTER 535—GRADE AND RANK OF OFFICERS
 
@@ -67,28 +67,28 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–337, div. A, title XVI, § 1673(d)(2)][/us/pl/103/337/s1673/d/2], Oct. 5, 1994, [108 Stat. 3016][/us/stat/108/3016], struck out item 5506 “Naval Reserve and Marine Corps Reserve; officers: precedence”.
+    1994—[Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1673(d)(2), Oct. 5, 1994, [108 Stat. 3016][/us/stat/108/3016], struck out item 5506 “Naval Reserve and Marine Corps Reserve; officers: precedence”.
 
-    1991—[Pub. L. 102–190, div. A, title XI, § 1131(8)(B)][/us/pl/102/190/s1131/8/B], Dec. 5, 1991, [105 Stat. 1506][/us/stat/105/1506], substituted “W–5” for “W–4” in items 5501 and 5502.
+    1991—[Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1131(8)(B), Dec. 5, 1991, [105 Stat. 1506][/us/stat/105/1506], substituted “W–5” for “W–4” in items 5501 and 5502.
 
-    1980—[Pub. L. 96–513, title V][/us/pl/96/513], §§ 503(25), 513(10), Dec. 12, 1980, [94 Stat. 2913][/us/stat/94/2913], 2932, struck out items 5504 “Lineal lists: maintenance”, 5505 “Reserve officers: change of lineal position”, and 5507 “Rear admirals: determination of upper half”.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], §§ 503(25), 513(10), Dec. 12, 1980, [94 Stat. 2913][/us/stat/94/2913], 2932, struck out items 5504 “Lineal lists: maintenance”, 5505 “Reserve officers: change of lineal position”, and 5507 “Rear admirals: determination of upper half”.
 
-    1958—[Pub. L. 85–861, § 1(114)(B)][/us/pl/85/861/s1/114/B], Sept. 2, 1958, [72 Stat. 1493][/us/stat/72/1493], added item 5506.
-
-----------
-
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5455.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_s5501.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch535)
+    1958—[Pub. L. 85–861][/us/pl/85/861], § 1(114)(B), Sept. 2, 1958, [72 Stat. 1493][/us/stat/72/1493], added item 5506.
 
 ----------
+
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5456...5458.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_s5501.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch535)
+
+----------
 ----------
 
-[/us/pl/103/337/s1673/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1673%2Fd%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3016
-[/us/pl/102/190/s1131/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1131%2F8%2FB
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1506
-[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2913
-[/us/pl/85/861/s1/114/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F114%2FB
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1493
 
 

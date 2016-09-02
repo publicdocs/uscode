@@ -17,7 +17,7 @@
 
     For purposes of subtitle III of title 40, the term “national security system”, with respect to a telecommunications and information system operated by the Department of Defense, has the meaning given that term by [section 3552(b)(6) of title 44][/us/usc/t44/s3552/b/6].
 
-(Added [Pub. L. 97–86, title IX, § 908(a)(1)][/us/pl/97/86/s908/a/1], Dec. 1, 1981, [95 Stat. 1117][/us/stat/95/1117]; amended [Pub. L. 97–295, § 1(25)][/us/pl/97/295/s1/25], Oct. 12, 1982, [96 Stat. 1291][/us/stat/96/1291]; [Pub. L. 104–106, div. E, title LVI, § 5601(c)][/us/pl/104/106/s5601/c], Feb. 10, 1996, [110 Stat. 699][/us/stat/110/699]; [Pub. L. 104–201, div. A, title X, § 1074(b)(4)(B)][/us/pl/104/201/s1074/b/4/B], Sept. 23, 1996, [110 Stat. 2660][/us/stat/110/2660]; [Pub. L. 105–85, div. A, title X, § 1073(a)(49)][/us/pl/105/85/s1073/a/49], Nov. 18, 1997, [111 Stat. 1903][/us/stat/111/1903]; [Pub. L. 107–217, § 3(b)(5)][/us/pl/107/217/s3/b/5], Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 109–364, div. A, title IX, § 906(c)][/us/pl/109/364/s906/c], Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354]; [Pub. L. 113–283, § 2(e)(5)(C)][/us/pl/113/283/s2/e/5/C], Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087]; [Pub. L. 114–92, div. A, title X, § 1081(a)(7)][/us/pl/114/92/s1081/a/7], Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001].)
+(Added [Pub. L. 97–86, title IX][/us/pl/97/86/tIX], § 908(a)(1), Dec. 1, 1981, [95 Stat. 1117][/us/stat/95/1117]; amended [Pub. L. 97–295][/us/pl/97/295], § 1(25), Oct. 12, 1982, [96 Stat. 1291][/us/stat/96/1291]; [Pub. L. 104–106, div. E, title LVI][/us/pl/104/106/dE/tLVI], § 5601(c), Feb. 10, 1996, [110 Stat. 699][/us/stat/110/699]; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1074(b)(4)(B), Sept. 23, 1996, [110 Stat. 2660][/us/stat/110/2660]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(49), Nov. 18, 1997, [111 Stat. 1903][/us/stat/111/1903]; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(5), Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 109–364, div. A, title IX][/us/pl/109/364/dA/tIX], § 906(c), Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354]; [Pub. L. 113–283][/us/pl/113/283], § 2(e)(5)(C), Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1081(a)(7), Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001].)
 
  __Amendments__ 
 
@@ -41,13 +41,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–86, title IX, § 908(b)][/us/pl/97/86/s908/b], Dec. 1, 1981, [95 Stat. 1118][/us/stat/95/1118], provided that: 
+[Pub. L. 97–86, title IX][/us/pl/97/86/tIX], § 908(b), Dec. 1, 1981, [95 Stat. 1118][/us/stat/95/1118], provided that: 
 
 > “[Section 2315 of title 10][/us/usc/t10/s2315], United States Code, as added by subsection (a), does not apply to a contract made before the date of the enactment of this Act \[Dec. 1, 1981\].”
 
  __Limitation Regarding Telecommunications Requirements__ 
 
-[Pub. L. 103–337, div. A, title X, § 1075][/us/pl/103/337/s1075], Oct. 5, 1994, [108 Stat. 2861][/us/stat/108/2861], provided that:
+[Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1075, Oct. 5, 1994, [108 Stat. 2861][/us/stat/108/2861], provided that:
 
 >     “(a)  __Limitation__  __.—__ 
 
@@ -89,23 +89,23 @@
 ----------
 
 [/us/usc/t44/s3552/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552%2Fb%2F6
-[/us/pl/97/86/s908/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs908%2Fa%2F1
+[/us/pl/97/86/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIX
 [/us/stat/95/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1117
-[/us/pl/97/295/s1/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F25
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1291
-[/us/pl/104/106/s5601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5601%2Fc
+[/us/pl/104/106/dE/tLVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdE%2FtLVI
 [/us/stat/110/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F699
-[/us/pl/104/201/s1074/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fb%2F4%2FB
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2660
-[/us/pl/105/85/s1073/a/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F49
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1903
-[/us/pl/107/217/s3/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F5
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1295
-[/us/pl/109/364/s906/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs906%2Fc
+[/us/pl/109/364/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIX
 [/us/stat/120/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2354
-[/us/pl/113/283/s2/e/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fe%2F5%2FC
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/stat/128/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3087
-[/us/pl/114/92/s1081/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F7
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1001
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
@@ -123,10 +123,10 @@
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/106/s5701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5701
 [/us/stat/110/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F702
-[/us/pl/97/86/s908/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs908%2Fb
+[/us/pl/97/86/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIX
 [/us/stat/95/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1118
 [/us/usc/t10/s2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2315
-[/us/pl/103/337/s1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1075
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2861
 [/us/usc/t40/s759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs759
 [/us/usc/t10/s2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2315

@@ -23,7 +23,7 @@
 
     Section references in tables in this chapter are to sections of this title.
 
-(Added [Pub. L. 99–348, title I, § 105][/us/pl/99/348/s105], July 1, 1986, [100 Stat. 691][/us/stat/100/691].)
+(Added [Pub. L. 99–348, title I][/us/pl/99/348/tI], § 105, July 1, 1986, [100 Stat. 691][/us/stat/100/691].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/99/348/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs105
+[/us/pl/99/348/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtI
 [/us/stat/100/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F691
 
 

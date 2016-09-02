@@ -61,7 +61,7 @@
 
         (2) The term “congressional Joint Inaugural Committee” means the joint committee of the Senate and House of Representatives referred to in [section 507 of title 36][/us/usc/t36/s507] that is appointed with respect to the inauguration of a President-elect and Vice President-elect.
 
-(Added [Pub. L. 85–861, § 1(48)(A)][/us/pl/85/861/s1/48/A], Sept. 2, 1958, [72 Stat. 1458][/us/stat/72/1458], § 2543; amended [Pub. L. 96–513, title V, § 511(81)][/us/pl/96/513/s511/81], Dec. 12, 1980, [94 Stat. 2927][/us/stat/94/2927]; [Pub. L. 104–201, div. A, title III, § 366(a)][/us/pl/104/201/s366/a], Sept. 23, 1996, [110 Stat. 2495][/us/stat/110/2495]; [Pub. L. 105–225, § 4(a)(2)][/us/pl/105/225/s4/a/2], Aug. 12, 1998, [112 Stat. 1498][/us/stat/112/1498]; renumbered § 2553, [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1033(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–260.)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(48)(A), Sept. 2, 1958, [72 Stat. 1458][/us/stat/72/1458], § 2543; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(81), Dec. 12, 1980, [94 Stat. 2927][/us/stat/94/2927]; [Pub. L. 104–201, div. A, title III][/us/pl/104/201/dA/tIII], § 366(a), Sept. 23, 1996, [110 Stat. 2495][/us/stat/110/2495]; [Pub. L. 105–225][/us/pl/105/225], § 4(a)(2), Aug. 12, 1998, [112 Stat. 1498][/us/stat/112/1498]; renumbered § 2553, [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1033(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–260.)
 
 <table>
 
@@ -131,9 +131,9 @@ Aug. 6, 1956, ch. 974, §§ 1(b)(1) (as applicable to § 6), 6, 70 Stat. 104
 
     2000—[Pub. L. 106–398][/us/pl/106/398] renumbered [section 2543 of this title][/us/usc/t10/s2543] as this section.
 
-    1998—Subsec. (e)(1). [Pub. L. 105–225, § 4(a)(2)(A)][/us/pl/105/225/s4/a/2/A], substituted “[section 501 of title 36][/us/usc/t36/s501]” for “subsection (b)(2) of the first section of the Presidential Inaugural Ceremonies Act ([36 U.S.C. 721][/us/usc/t36/s721])”.
+    1998—Subsec. (e)(1). [Pub. L. 105–225][/us/pl/105/225], § 4(a)(2)(A), substituted “[section 501 of title 36][/us/usc/t36/s501]” for “subsection (b)(2) of the first section of the Presidential Inaugural Ceremonies Act ([36 U.S.C. 721][/us/usc/t36/s721])”.
 
-    Subsec. (e)(2). [Pub. L. 105–225, § 4(a)(2)(B)][/us/pl/105/225/s4/a/2/B], substituted “[section 507 of title 36][/us/usc/t36/s507]” for “the proviso in section 9 of the Presidential Inaugural Ceremonies Act ([36 U.S.C. 729][/us/usc/t36/s729])”.
+    Subsec. (e)(2). [Pub. L. 105–225][/us/pl/105/225], § 4(a)(2)(B), substituted “[section 507 of title 36][/us/usc/t36/s507]” for “the proviso in section 9 of the Presidential Inaugural Ceremonies Act ([36 U.S.C. 729][/us/usc/t36/s729])”.
 
     1996—[Pub. L. 104–201][/us/pl/104/201] substituted “Equipment and services: Presidential inaugural ceremonies” for “Equipment: Inaugural Committee” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
@@ -162,24 +162,24 @@ Aug. 6, 1956, ch. 974, §§ 1(b)(1) (as applicable to § 6), 6, 70 Stat. 104
 
 [/us/usc/t36/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs501
 [/us/usc/t36/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs507
-[/us/pl/85/861/s1/48/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F48%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1458
-[/us/pl/96/513/s511/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F81
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2927
-[/us/pl/104/201/s366/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs366%2Fa
+[/us/pl/104/201/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIII
 [/us/stat/110/2495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2495
-[/us/pl/105/225/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs4%2Fa%2F2
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1498
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t36/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs721
 [/us/usc/t10/s2563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2563
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t10/s2543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2543
-[/us/pl/105/225/s4/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs4%2Fa%2F2%2FA
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/usc/t36/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs501
 [/us/usc/t36/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs721
-[/us/pl/105/225/s4/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs4%2Fa%2F2%2FB
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/usc/t36/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs507
 [/us/usc/t36/s729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs729
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201

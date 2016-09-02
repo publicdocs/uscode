@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    1966—[Pub. L. 89–718, § 12(a)(2)][/us/pl/89/718/s12/a/2], Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117], added item 1524.
+    1966—[Pub. L. 89–718][/us/pl/89/718], § 12(a)(2), Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117], added item 1524.
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/89/718/s12/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs12%2Fa%2F2
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1117
 
 

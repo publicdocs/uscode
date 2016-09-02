@@ -135,7 +135,7 @@
 
     In this section, the term “promotion board” means a selection board convened by the Secretary of a military department under section 573(a) or 611(a) of this title.
 
-(Added [Pub. L. 96–513, title I, § 105][/us/pl/96/513/s105], Dec. 12, 1980, [94 Stat. 2859][/us/stat/94/2859]; amended [Pub. L. 98–525, title V, § 527(a)][/us/pl/98/525/s527/a], Oct. 19, 1984, [98 Stat. 2525][/us/stat/98/2525]; [Pub. L. 102–190, div. A, title XI, § 1131(4)][/us/pl/102/190/s1131/4], Dec. 5, 1991, [105 Stat. 1506][/us/stat/105/1506]; [Pub. L. 102–484, div. A, title X, § 1052(10)][/us/pl/102/484/s1052/10], Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499]; [Pub. L. 105–261, div. A, title V, § 501(a)][/us/pl/105/261/s501/a]–(e), Oct. 17, 1998, [112 Stat. 2000–2002][/us/stat/112/2000-2002]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–290; [Pub. L. 107–107, div. A, title V][/us/pl/107/107], §§ 503(b), 505(c)(3)(A), Dec. 28, 2001, [115 Stat. 1083][/us/stat/115/1083], 1088; [Pub. L. 109–364, div. A, title V, § 514(a)][/us/pl/109/364/s514/a], Oct. 17, 2006, [120 Stat. 2185][/us/stat/120/2185]; [Pub. L. 111–383, div. A, title V, § 503(b)][/us/pl/111/383/s503/b], Jan. 7, 2011, [124 Stat. 4208][/us/stat/124/4208]; [Pub. L. 114–92, div. A, title V, § 502(c)(1)][/us/pl/114/92/s502/c/1], Nov. 25, 2015, [129 Stat. 807][/us/stat/129/807].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 105, Dec. 12, 1980, [94 Stat. 2859][/us/stat/94/2859]; amended [Pub. L. 98–525, title V][/us/pl/98/525/tV], § 527(a), Oct. 19, 1984, [98 Stat. 2525][/us/stat/98/2525]; [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1131(4), Dec. 5, 1991, [105 Stat. 1506][/us/stat/105/1506]; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1052(10), Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499]; [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 501(a)–(e), Oct. 17, 1998, [112 Stat. 2000–2002][/us/stat/112/2000-2002]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–290; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], §§ 503(b), 505(c)(3)(A), Dec. 28, 2001, [115 Stat. 1083][/us/stat/115/1083], 1088; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 514(a), Oct. 17, 2006, [120 Stat. 2185][/us/stat/120/2185]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 503(b), Jan. 7, 2011, [124 Stat. 4208][/us/stat/124/4208]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 502(c)(1), Nov. 25, 2015, [129 Stat. 807][/us/stat/129/807].)
 
  __Amendments__ 
 
@@ -143,47 +143,47 @@
 
     2011—Subsec. (c)(2). [Pub. L. 111–383][/us/pl/111/383] substituted “sections 576(d), 576(f), and 613a” for “sections 576(d) and 576(f)”.
 
-    2006—Subsec. (a)(1). [Pub. L. 109–364, § 514(a)(1)][/us/pl/109/364/s514/a/1], inserted “from in or above the promotion zone” after “for selection for promotion”.
+    2006—Subsec. (a)(1). [Pub. L. 109–364][/us/pl/109/364], § 514(a)(1), inserted “from in or above the promotion zone” after “for selection for promotion”.
 
-    Subsec. (b)(1)(A). [Pub. L. 109–364, § 514(a)(2)][/us/pl/109/364/s514/a/2], inserted “in a matter material to the decision of the board” after “contrary to law”.
+    Subsec. (b)(1)(A). [Pub. L. 109–364][/us/pl/109/364], § 514(a)(2), inserted “in a matter material to the decision of the board” after “contrary to law”.
 
-    2001—Subsec. (a)(1). [Pub. L. 107–107, § 505(c)(3)(A)][/us/pl/107/107/s505/c/3/A], inserted “or the name of a person that should have been placed on an all-fully-qualified-officers list under [section 624(a)(3) of this title][/us/usc/t10/s624/a/3] was not so placed,” after “not so considered,”.
+    2001—Subsec. (a)(1). [Pub. L. 107–107][/us/pl/107/107], § 505(c)(3)(A), inserted “or the name of a person that should have been placed on an all-fully-qualified-officers list under [section 624(a)(3) of this title][/us/usc/t10/s624/a/3] was not so placed,” after “not so considered,”.
 
-    Subsecs. (g) to (k). [Pub. L. 107–107, § 503(b)][/us/pl/107/107/s503/b], added subsecs. (g) to (j) and redesignated former subsec. (g) as (k).
+    Subsecs. (g) to (k). [Pub. L. 107–107][/us/pl/107/107], § 503(b), added subsecs. (g) to (j) and redesignated former subsec. (g) as (k).
 
     2000—Subsec. (c)(2). [Pub. L. 106–398][/us/pl/106/398] substituted “sections” for “section” after “rather than the provisions of”.
 
-    1998—Subsec. (a). [Pub. L. 105–261, § 501(a)(1)][/us/pl/105/261/s501/a/1], inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “In the case of an officer who is eligible for promotion who the Secretary of the military department concerned determines was not considered for selection for promotion by a selection board because of administrative error, the Secretary concerned, under regulations prescribed by the Secretary of Defense, shall convene a special selection board under this subsection (composed in accordance with [section 612 of this title][/us/usc/t10/s612] or, in the case of a warrant officer, composed in accordance with [section 573 of this title][/us/usc/t10/s573] and regulations prescribed by the Secretary of the military department concerned) to determine whether such officer should be recommended for promotion.”
+    1998—Subsec. (a). [Pub. L. 105–261][/us/pl/105/261], § 501(a)(1), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “In the case of an officer who is eligible for promotion who the Secretary of the military department concerned determines was not considered for selection for promotion by a selection board because of administrative error, the Secretary concerned, under regulations prescribed by the Secretary of Defense, shall convene a special selection board under this subsection (composed in accordance with [section 612 of this title][/us/usc/t10/s612] or, in the case of a warrant officer, composed in accordance with [section 573 of this title][/us/usc/t10/s573] and regulations prescribed by the Secretary of the military department concerned) to determine whether such officer should be recommended for promotion.”
 
-    Subsec. (a)(2). [Pub. L. 105–261, § 501(a)(2)][/us/pl/105/261/s501/a/2], substituted “the person whose name was referred to it for consideration as that record” for “the officer as his record”.
+    Subsec. (a)(2). [Pub. L. 105–261][/us/pl/105/261], § 501(a)(2), substituted “the person whose name was referred to it for consideration as that record” for “the officer as his record”.
 
-    Subsec. (a)(3). [Pub. L. 105–261, § 501(a)(3)][/us/pl/105/261/s501/a/3], substituted “a person whose name was referred to it for consideration for selection for appointment to a grade other than a general officer or flag officer grade, the person” for “an officer in a grade below the grade of colonel or, in the case of an officer of the Navy, captain whose name was referred to it for consideration, the officer”.
+    Subsec. (a)(3). [Pub. L. 105–261][/us/pl/105/261], § 501(a)(3), substituted “a person whose name was referred to it for consideration for selection for appointment to a grade other than a general officer or flag officer grade, the person” for “an officer in a grade below the grade of colonel or, in the case of an officer of the Navy, captain whose name was referred to it for consideration, the officer”.
 
-    Subsec. (b). [Pub. L. 105–261, § 501(b)(1)][/us/pl/105/261/s501/b/1], inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “In the case of an officer who is eligible for promotion who was considered for selection for promotion by a selection board but was not selected, the Secretary of the military department concerned, under regulations prescribed by the Secretary of Defense, may convene a special selection board under this subsection (composed in accordance with [section 612 of this title][/us/usc/t10/s612] or, in the case of a warrant officer, composed in accordance with [section 573 of this title][/us/usc/t10/s573] and regulations prescribed by the Secretary of the military department concerned) to determine whether such officer should be recommended for promotion if the Secretary concerned determines that—
+    Subsec. (b). [Pub. L. 105–261][/us/pl/105/261], § 501(b)(1), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “In the case of an officer who is eligible for promotion who was considered for selection for promotion by a selection board but was not selected, the Secretary of the military department concerned, under regulations prescribed by the Secretary of Defense, may convene a special selection board under this subsection (composed in accordance with [section 612 of this title][/us/usc/t10/s612] or, in the case of a warrant officer, composed in accordance with [section 573 of this title][/us/usc/t10/s573] and regulations prescribed by the Secretary of the military department concerned) to determine whether such officer should be recommended for promotion if the Secretary concerned determines that—
 
     “(A) the action of the board which considered the officer was contrary to law or involved material error of fact or material administrative error; or
 
     “(B) the board did not have before it for its consideration material information.”
 
-    Subsec. (b)(2). [Pub. L. 105–261, § 501(b)(2)][/us/pl/105/261/s501/b/2], substituted “the person whose name was referred to it for consideration as that record” for “the officer as his record”.
+    Subsec. (b)(2). [Pub. L. 105–261][/us/pl/105/261], § 501(b)(2), substituted “the person whose name was referred to it for consideration as that record” for “the officer as his record”.
 
-    Subsec. (b)(3). [Pub. L. 105–261, § 501(b)(3)(A)][/us/pl/105/261/s501/b/3/A], substituted “a person” for “an officer” and “the person” for “the officer”.
+    Subsec. (b)(3). [Pub. L. 105–261][/us/pl/105/261], § 501(b)(3)(A), substituted “a person” for “an officer” and “the person” for “the officer”.
 
-    Subsec. (c). [Pub. L. 105–261, § 501(c)(1)(A)][/us/pl/105/261/s501/c/1/A], inserted heading.
+    Subsec. (c). [Pub. L. 105–261][/us/pl/105/261], § 501(c)(1)(A), inserted heading.
 
-    Subsec. (c)(1). [Pub. L. 105–261, § 501(c)(1)(B)][/us/pl/105/261/s501/c/1/B], substituted “person” for “officer” in two places.
+    Subsec. (c)(1). [Pub. L. 105–261][/us/pl/105/261], § 501(c)(1)(B), substituted “person” for “officer” in two places.
 
-    Subsec. (c)(2). [Pub. L. 105–261, § 501(c)(1)(C)][/us/pl/105/261/s501/c/1/C], inserted at end “However, in the case of a board convened under this section to consider a warrant officer or former warrant officer, the provisions of sections 576(d) and 576(f) of this title (rather than the provisions of section 617(b) and 618 of this title) apply to the report and proceedings of the board in the same manner as they apply to the report and proceedings of a selection board convened under [section 573 of this title][/us/usc/t10/s573].”
+    Subsec. (c)(2). [Pub. L. 105–261][/us/pl/105/261], § 501(c)(1)(C), inserted at end “However, in the case of a board convened under this section to consider a warrant officer or former warrant officer, the provisions of sections 576(d) and 576(f) of this title (rather than the provisions of section 617(b) and 618 of this title) apply to the report and proceedings of the board in the same manner as they apply to the report and proceedings of a selection board convened under [section 573 of this title][/us/usc/t10/s573].”
 
-    Subsec. (d). [Pub. L. 105–261, § 501(c)(2)(A)][/us/pl/105/261/s501/c/2/A], inserted heading.
+    Subsec. (d). [Pub. L. 105–261][/us/pl/105/261], § 501(c)(2)(A), inserted heading.
 
-    Subsec. (d)(1). [Pub. L. 105–261, § 501(c)(2)(B)][/us/pl/105/261/s501/c/2/B]–(E), substituted “a person” for “an officer”, “that person” for “such officer”, and “that grade in” for “the next higher grade in” and inserted at end “However, in the case of a board convened under this section to consider a warrant officer or former warrant officer, if the report of that board, as approved by the Secretary concerned, recommends that warrant officer or former warrant officer for promotion to the next higher grade, that person shall, as soon as practicable, be appointed to the next higher grade in accordance with provisions of [section 578(c) of this title][/us/usc/t10/s578/c] (rather than subsections (b), (c), and (d) of [section 624 of this title][/us/usc/t10/s624]).”
+    Subsec. (d)(1). [Pub. L. 105–261][/us/pl/105/261], § 501(c)(2)(B)–(E), substituted “a person” for “an officer”, “that person” for “such officer”, and “that grade in” for “the next higher grade in” and inserted at end “However, in the case of a board convened under this section to consider a warrant officer or former warrant officer, if the report of that board, as approved by the Secretary concerned, recommends that warrant officer or former warrant officer for promotion to the next higher grade, that person shall, as soon as practicable, be appointed to the next higher grade in accordance with provisions of [section 578(c) of this title][/us/usc/t10/s578/c] (rather than subsections (b), (c), and (d) of [section 624 of this title][/us/usc/t10/s624]).”
 
-    Subsec. (d)(2). [Pub. L. 105–261, § 501(c)(3)][/us/pl/105/261/s501/c/3], substituted “A person who is appointed” for “An officer who is promoted” and “that appointment” for “such promotion” and inserted at end “In the case of a person who is not on the active-duty list when appointed to the next higher grade, placement of that person on the active-duty list pursuant to the preceding sentence shall be only for purposes of determination of eligibility of that person for consideration for promotion by any subsequent special selection board under this section.”
+    Subsec. (d)(2). [Pub. L. 105–261][/us/pl/105/261], § 501(c)(3), substituted “A person who is appointed” for “An officer who is promoted” and “that appointment” for “such promotion” and inserted at end “In the case of a person who is not on the active-duty list when appointed to the next higher grade, placement of that person on the active-duty list pursuant to the preceding sentence shall be only for purposes of determination of eligibility of that person for consideration for promotion by any subsequent special selection board under this section.”
 
-    Subsec. (e). [Pub. L. 105–261, § 501(d)][/us/pl/105/261/s501/d], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of [section 613 of this title][/us/usc/t10/s613] apply to members of special selection boards convened under this section.”
+    Subsec. (e). [Pub. L. 105–261][/us/pl/105/261], § 501(d), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of [section 613 of this title][/us/usc/t10/s613] apply to members of special selection boards convened under this section.”
 
-    Subsecs. (f), (g). [Pub. L. 105–261, § 501(e)][/us/pl/105/261/s501/e], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 105–261][/us/pl/105/261], § 501(e), added subsecs. (f) and (g).
 
     1992—Subsec. (b)(1). [Pub. L. 102–484][/us/pl/102/484] substituted “section 573” for “section 558”.
 
@@ -193,13 +193,13 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–364, div. A, title V, § 514(c)][/us/pl/109/364/s514/c], Oct. 17, 2006, [120 Stat. 2185][/us/stat/120/2185], provided that: 
+[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 514(c), Oct. 17, 2006, [120 Stat. 2185][/us/stat/120/2185], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 14502 of this title][/us/usc/t10/s14502]\] shall take effect on March 1, 2007, and shall apply with respect to selection boards convened on or after that date.”
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–107, div. A, title V, § 503(c)][/us/pl/107/107/s503/c], Dec. 28, 2001, [115 Stat. 1084][/us/stat/115/1084], provided that:
+[Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 503(c), Dec. 28, 2001, [115 Stat. 1084][/us/stat/115/1084], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[enacting [section 1558 of this title][/us/usc/t10/s1558] and amending this section\] shall apply with respect to any proceeding pending on or after the date of the enactment of this Act \[Dec. 28, 2001\] without regard to whether a challenge to an action of a selection board of any of the Armed Forces being considered in the proceeding was initiated before, on, or after that date.
 
@@ -215,7 +215,7 @@
 
  __Ratification of Codified Practice__ 
 
-    [Pub. L. 105–261, div. A, title V, § 501(f)][/us/pl/105/261/s501/f], Oct. 17, 1998, [112 Stat. 2002][/us/stat/112/2002], provided that the consideration by a special selection board convened under this section before Oct. 17, 1998, of a person who, at the time of consideration, had been a retired officer or former officer of the Armed Forces (including a deceased retired or former officer) was ratified.
+    [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 501(f), Oct. 17, 1998, [112 Stat. 2002][/us/stat/112/2002], provided that the consideration by a special selection board convened under this section before Oct. 17, 1998, of a person who, at the time of consideration, had been a retired officer or former officer of the Armed Forces (including a deceased retired or former officer) was ratified.
 
 ----------
 
@@ -233,74 +233,74 @@
 [/us/usc/t10/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs573
 [/us/usc/t10/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs613
 [/us/usc/t10/s1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1552
-[/us/pl/96/513/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs105
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2859
-[/us/pl/98/525/s527/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs527%2Fa
+[/us/pl/98/525/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtV
 [/us/stat/98/2525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2525
-[/us/pl/102/190/s1131/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1131%2F4
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1506
-[/us/pl/102/484/s1052/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F10
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2499
-[/us/pl/105/261/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs501%2Fa
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2000-2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2000-2002
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1083
-[/us/pl/109/364/s514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs514%2Fa
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2185
-[/us/pl/111/383/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs503%2Fb
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4208
-[/us/pl/114/92/s502/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs502%2Fc%2F1
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F807
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/usc/t10/s624/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs624%2Fa%2F3
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/109/364/s514/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs514%2Fa%2F1
-[/us/pl/109/364/s514/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs514%2Fa%2F2
-[/us/pl/107/107/s505/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fc%2F3%2FA
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t10/s624/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs624%2Fa%2F3
-[/us/pl/107/107/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs503%2Fb
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/105/261/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs501%2Fa%2F1
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t10/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs612
 [/us/usc/t10/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs573
-[/us/pl/105/261/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs501%2Fa%2F2
-[/us/pl/105/261/s501/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs501%2Fa%2F3
-[/us/pl/105/261/s501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs501%2Fb%2F1
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t10/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs612
 [/us/usc/t10/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs573
-[/us/pl/105/261/s501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs501%2Fb%2F2
-[/us/pl/105/261/s501/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs501%2Fb%2F3%2FA
-[/us/pl/105/261/s501/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs501%2Fc%2F1%2FA
-[/us/pl/105/261/s501/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs501%2Fc%2F1%2FB
-[/us/pl/105/261/s501/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs501%2Fc%2F1%2FC
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t10/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs573
-[/us/pl/105/261/s501/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs501%2Fc%2F2%2FA
-[/us/pl/105/261/s501/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs501%2Fc%2F2%2FB
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t10/s578/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs578%2Fc
 [/us/usc/t10/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs624
-[/us/pl/105/261/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs501%2Fc%2F3
-[/us/pl/105/261/s501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs501%2Fd
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t10/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs613
-[/us/pl/105/261/s501/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs501%2Fe
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/usc/t10/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs612
 [/us/usc/t10/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs558
 [/us/usc/t10/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs612
-[/us/pl/109/364/s514/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs514%2Fc
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2185
 [/us/usc/t10/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14502
-[/us/pl/107/107/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs503%2Fc
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1084
 [/us/usc/t10/s1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1558
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/102/190/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1132
 [/us/usc/t10/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs521
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/pl/105/261/s501/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs501%2Ff
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2002
 
 

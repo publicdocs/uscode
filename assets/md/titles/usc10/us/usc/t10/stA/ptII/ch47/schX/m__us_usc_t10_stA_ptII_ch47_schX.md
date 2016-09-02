@@ -1077,27 +1077,27 @@ General article.  </td>
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–66, div. A, title XVII, § 1707(b)][/us/pl/113/66/s1707/b], Dec. 26, 2013, [127 Stat. 961][/us/stat/127/961], substituted “Forcible sodomy; bestiality” for “Sodomy” in item 925.
+    2013—[Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1707(b), Dec. 26, 2013, [127 Stat. 961][/us/stat/127/961], substituted “Forcible sodomy; bestiality” for “Sodomy” in item 925.
 
-    2011—[Pub. L. 112–81, div. A, title V, § 541(e)][/us/pl/112/81/s541/e], Dec. 31, 2011, [125 Stat. 1410][/us/stat/125/1410], substituted “Rape and sexual assault generally” for “Rape, sexual assault, and other sexual misconduct” in item 920 and added items 920b and 920c.
+    2011—[Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 541(e), Dec. 31, 2011, [125 Stat. 1410][/us/stat/125/1410], substituted “Rape and sexual assault generally” for “Rape, sexual assault, and other sexual misconduct” in item 920 and added items 920b and 920c.
 
-    2006—[Pub. L. 109–163, div. A, title V, § 552(a)(2)][/us/pl/109/163/s552/a/2], Jan. 6, 2006, [119 Stat. 3262][/us/stat/119/3262], substituted “Rape, sexual assault, and other sexual misconduct” for “Rape and carnal knowledge” in item 920.
+    2006—[Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 552(a)(2), Jan. 6, 2006, [119 Stat. 3262][/us/stat/119/3262], substituted “Rape, sexual assault, and other sexual misconduct” for “Rape and carnal knowledge” in item 920.
 
-    [Pub. L. 109–163, div. A, title V, § 551(a)(2)][/us/pl/109/163/s551/a/2], Jan. 6, 2006, [119 Stat. 3256][/us/stat/119/3256], added item 920a.
+    [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 551(a)(2), Jan. 6, 2006, [119 Stat. 3256][/us/stat/119/3256], added item 920a.
 
-    2004—[Pub. L. 108–212, § 3(b)][/us/pl/108/212/s3/b], Apr. 1, 2004, [118 Stat. 570][/us/stat/118/570], added item 919a.
+    2004—[Pub. L. 108–212][/us/pl/108/212], § 3(b), Apr. 1, 2004, [118 Stat. 570][/us/stat/118/570], added item 919a.
 
-    1997—[Pub. L. 105–85, div. A, title X, § 1073(a)(10)][/us/pl/105/85/s1073/a/10], Nov. 18, 1997, [111 Stat. 1900][/us/stat/111/1900], struck out “Art.” before “95” in item 895.
+    1997—[Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(10), Nov. 18, 1997, [111 Stat. 1900][/us/stat/111/1900], struck out “Art.” before “95” in item 895.
 
-    1996—[Pub. L. 104–106, div. A, title XI, § 1112(b)][/us/pl/104/106/s1112/b], Feb. 10, 1996, [110 Stat. 461][/us/stat/110/461], inserted “flight,” after “Resistance,” in item 895.
+    1996—[Pub. L. 104–106, div. A, title XI][/us/pl/104/106/dA/tXI], § 1112(b), Feb. 10, 1996, [110 Stat. 461][/us/stat/110/461], inserted “flight,” after “Resistance,” in item 895.
 
-    1992—[Pub. L. 102–484, div. A, title X, § 1066(a)(2)][/us/pl/102/484/s1066/a/2], Oct. 23, 1992, [106 Stat. 2506][/us/stat/106/2506], substituted “operation of a vehicle, aircraft, or vessel” for “driving” in item 911.
+    1992—[Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1066(a)(2), Oct. 23, 1992, [106 Stat. 2506][/us/stat/106/2506], substituted “operation of a vehicle, aircraft, or vessel” for “driving” in item 911.
 
-    1985—[Pub. L. 99–145, title V, § 534(b)][/us/pl/99/145/s534/b], Nov. 8, 1985, [99 Stat. 635][/us/stat/99/635], added item 906a.
+    1985—[Pub. L. 99–145, title V][/us/pl/99/145/tV], § 534(b), Nov. 8, 1985, [99 Stat. 635][/us/stat/99/635], added item 906a.
 
-    1983—[Pub. L. 98–209, § 8(b)][/us/pl/98/209/s8/b], Dec. 6, 1983, [97 Stat. 1404][/us/stat/97/1404], added item 912a.
+    1983—[Pub. L. 98–209][/us/pl/98/209], § 8(b), Dec. 6, 1983, [97 Stat. 1404][/us/stat/97/1404], added item 912a.
 
-    1961—[Pub. L. 87–385, § 1(2)][/us/pl/87/385/s1/2], Oct. 4, 1961, [75 Stat. 814][/us/stat/75/814], added item 923a.
+    1961—[Pub. L. 87–385][/us/pl/87/385], § 1(2), Oct. 4, 1961, [75 Stat. 814][/us/stat/75/814], added item 923a.
 
 ----------
 
@@ -1106,27 +1106,27 @@ General article.  </td>
 ----------
 ----------
 
-[/us/pl/113/66/s1707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1707%2Fb
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F961
-[/us/pl/112/81/s541/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fe
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1410
-[/us/pl/109/163/s552/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs552%2Fa%2F2
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3262
-[/us/pl/109/163/s551/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs551%2Fa%2F2
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3256
-[/us/pl/108/212/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F212%2Fs3%2Fb
+[/us/pl/108/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F212
 [/us/stat/118/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F570
-[/us/pl/105/85/s1073/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F10
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1900
-[/us/pl/104/106/s1112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1112%2Fb
+[/us/pl/104/106/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXI
 [/us/stat/110/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F461
-[/us/pl/102/484/s1066/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1066%2Fa%2F2
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2506
-[/us/pl/99/145/s534/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs534%2Fb
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F635
-[/us/pl/98/209/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs8%2Fb
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1404
-[/us/pl/87/385/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F385%2Fs1%2F2
+[/us/pl/87/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F385
 [/us/stat/75/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F814
 
 

@@ -23,7 +23,7 @@
 
     (b) Obligations may, without regard to fiscal year limitations, be incurred against anticipated reimbursements to stock funds in such amounts and for such period as the Secretary of Defense, with the approval of the President, may determine to be necessary to maintain stock levels consistently with planned operations for the next fiscal year.
 
-(Added [Pub. L. 87–651, title II, § 207(a)][/us/pl/87/651/s207/a], Sept. 7, 1962, [76 Stat. 522][/us/stat/76/522]; amended [Pub. L. 96–513, title V, § 511(72)][/us/pl/96/513/s511/72], Dec. 12, 1980, [94 Stat. 2926][/us/stat/94/2926]; [Pub. L. 105–261, div. A, title X, § 1009][/us/pl/105/261/s1009], Oct. 17, 1998, [112 Stat. 2117][/us/stat/112/2117].)
+(Added [Pub. L. 87–651, title II][/us/pl/87/651/tII], § 207(a), Sept. 7, 1962, [76 Stat. 522][/us/stat/76/522]; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(72), Dec. 12, 1980, [94 Stat. 2926][/us/stat/94/2926]; [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1009, Oct. 17, 1998, [112 Stat. 2117][/us/stat/112/2117].)
 
 <table>
 
@@ -94,11 +94,11 @@ Aug. 1, 1953, ch. 305, § 645, 67 Stat. 357.  </td>
 
 [/us/usc/t10/s2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2208
 [/us/usc/t10/s2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2208
-[/us/pl/87/651/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs207%2Fa
+[/us/pl/87/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtII
 [/us/stat/76/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F522
-[/us/pl/96/513/s511/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F72
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2926
-[/us/pl/105/261/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1009
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2117
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t10/s2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2208

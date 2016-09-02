@@ -65,7 +65,7 @@
 
     In this section, the term “competitive service position” means a position in the competitive service, as defined in [section 2102(a)(1) of title 5][/us/usc/t5/s2102/a/1].
 
-(Added [Pub. L. 104–106, div. A, title V, § 568(a)(1)][/us/pl/104/106/s568/a/1], Feb. 10, 1996, [110 Stat. 332][/us/stat/110/332]; amended [Pub. L. 105–85, div. A, title X, § 1073(a)(34)][/us/pl/105/85/s1073/a/34], Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902]; [Pub. L. 105–261, div. A, title XI, § 1106][/us/pl/105/261/s1106], Oct. 17, 1998, [112 Stat. 2142][/us/stat/112/2142].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 568(a)(1), Feb. 10, 1996, [110 Stat. 332][/us/stat/110/332]; amended [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(34), Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902]; [Pub. L. 105–261, div. A, title XI][/us/pl/105/261/dA/tXI], § 1106, Oct. 17, 1998, [112 Stat. 2142][/us/stat/112/2142].)
 
  __Amendments__ 
 
@@ -75,9 +75,9 @@
 
     “(2) A spouse who is provided a preference under this subsection at a military child development center may not be precluded from obtaining another preference, in accordance with [section 1784 of this title][/us/usc/t10/s1784], in the same geographic area as the military child development center.”
 
-    1997—Subsec. (a)(1). [Pub. L. 105–85, § 1073(a)(34)(A)][/us/pl/105/85/s1073/a/34/A], struck out comma after “implementing”.
+    1997—Subsec. (a)(1). [Pub. L. 105–85][/us/pl/105/85], § 1073(a)(34)(A), struck out comma after “implementing”.
 
-    Subsec. (d)(2). [Pub. L. 105–85, § 1073(a)(34)(B)][/us/pl/105/85/s1073/a/34/B], substituted “section 1784” for “section 1794”.
+    Subsec. (d)(2). [Pub. L. 105–85][/us/pl/105/85], § 1073(a)(34)(B), substituted “section 1784” for “section 1794”.
 
 ----------
 
@@ -87,15 +87,15 @@
 ----------
 
 [/us/usc/t5/s2102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2102%2Fa%2F1
-[/us/pl/104/106/s568/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs568%2Fa%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F332
-[/us/pl/105/85/s1073/a/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F34
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1902
-[/us/pl/105/261/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1106
+[/us/pl/105/261/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXI
 [/us/stat/112/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2142
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t10/s1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1784
-[/us/pl/105/85/s1073/a/34/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F34%2FA
-[/us/pl/105/85/s1073/a/34/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F34%2FB
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 
 

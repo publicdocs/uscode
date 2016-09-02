@@ -43,7 +43,7 @@
 
         (2) The terms “officer of the United States” and “employee of the United States” have the meanings given the terms “officer” and “employee”, respectively, in sections 2104 and 2105, respectively, of title 5.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1085(c)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–289.)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1085(c)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–289.)
 
 ----------
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

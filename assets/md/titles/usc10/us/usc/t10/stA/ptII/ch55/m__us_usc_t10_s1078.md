@@ -21,7 +21,7 @@
 
     (c) Amounts received for subsistence and medical and dental care given under [section 1076 of this title][/us/usc/t10/s1076] shall be deposited to the credit of the appropriation supporting the maintenance and operation of the facility furnishing the care.
 
-(Added [Pub. L. 85–861, § 1(25)(B)][/us/pl/85/861/s1/25/B], Sept. 2, 1958, [72 Stat. 1448][/us/stat/72/1448]; amended [Pub. L. 89–614, § 2(5)][/us/pl/89/614/s2/5], Sept. 30, 1966, [80 Stat. 863][/us/stat/80/863]; [Pub. L. 96–513, title V, § 511(36)][/us/pl/96/513/s511/36], Dec. 12, 1980, [94 Stat. 2923][/us/stat/94/2923]; [Pub. L. 98–557, § 19(6)][/us/pl/98/557/s19/6], Oct. 30, 1984, [98 Stat. 2869][/us/stat/98/2869].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(25)(B), Sept. 2, 1958, [72 Stat. 1448][/us/stat/72/1448]; amended [Pub. L. 89–614][/us/pl/89/614], § 2(5), Sept. 30, 1966, [80 Stat. 863][/us/stat/80/863]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(36), Dec. 12, 1980, [94 Stat. 2923][/us/stat/94/2923]; [Pub. L. 98–557][/us/pl/98/557], § 19(6), Oct. 30, 1984, [98 Stat. 2869][/us/stat/98/2869].)
 
 <table>
 
@@ -81,7 +81,7 @@ Appropriate references are made to dental care throughout the section to reflect
 
  __Prior Provisions__ 
 
-    A prior section 1078, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 84][/us/stat/70A/84], prescribed instructions for marking ballots, prior to repeal by [Pub. L. 85–861, § 36B(5)][/us/pl/85/861/s36B/5], Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570], as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+    A prior section 1078, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 84][/us/stat/70A/84], prescribed instructions for marking ballots, prior to repeal by [Pub. L. 85–861][/us/pl/85/861], § 36B(5), Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570], as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
  __Amendments__ 
 
@@ -109,18 +109,18 @@ Appropriate references are made to dental care throughout the section to reflect
 [/us/usc/t10/s1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076
 [/us/usc/t10/s1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076
 [/us/usc/t10/s1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076
-[/us/pl/85/861/s1/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F25%2FB
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1448
-[/us/pl/89/614/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614%2Fs2%2F5
+[/us/pl/89/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614
 [/us/stat/80/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F863
-[/us/pl/96/513/s511/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F36
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2923
-[/us/pl/98/557/s19/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs19%2F6
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2869
 [/us/usc/t10/s1077/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1077%2Fd
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F84
-[/us/pl/85/861/s36B/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs36B%2F5
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1570
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

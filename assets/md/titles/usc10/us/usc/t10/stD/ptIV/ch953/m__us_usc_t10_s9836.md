@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stD/ptIV/ch953/m__us_usc_t10_s9835.md) | [Next](./../../../../../..//us/usc/t10/stD/ptIV/ch953/m__us_usc_t10_s9837.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9836)
 
-## \[§ 9836. Repealed. [Pub. L. 110–181, div. A, title III, § 375(c)(1)(D)][/us/pl/110/181/s375/c/1/D], Jan. 28, 2008, [122 Stat. 84][/us/stat/122/84]\]
+## \[§ 9836. Repealed. [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 375(c)(1)(D), Jan. 28, 2008, [122 Stat. 84][/us/stat/122/84]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 594][/us/stat/70A/594], prohibited unauthorized disposition of individual equipment by enlisted members of the Air Force.
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/pl/110/181/s375/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs375%2Fc%2F1%2FD
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F84
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F594

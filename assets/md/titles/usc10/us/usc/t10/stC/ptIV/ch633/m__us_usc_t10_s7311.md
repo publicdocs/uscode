@@ -61,11 +61,11 @@
 
     Nothing in this section shall be construed as altering or otherwise affecting those provisions of the Solid Waste Disposal Act ([42 U.S.C. 6901][/us/usc/t42/s6901] et seq.) that relate to generators of hazardous waste. For purposes of this section, any term used in this section for which a definition is provided by the Solid Waste Disposal Act (or regulations promulgated pursuant to such Act) has the meaning provided by that Act or regulations.
 
-(Added [Pub. L. 99–661, div. A, title XII, § 1202(a)][/us/pl/99/661/s1202/a], Nov. 14, 1986, [100 Stat. 3967][/us/stat/100/3967]; amended [Pub. L. 101–189, div. A, title XVI, § 1611(a)][/us/pl/101/189/s1611/a], Nov. 29, 1989, [103 Stat. 1599][/us/stat/103/1599].)
+(Added [Pub. L. 99–661, div. A, title XII][/us/pl/99/661/dA/tXII], § 1202(a), Nov. 14, 1986, [100 Stat. 3967][/us/stat/100/3967]; amended [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1611(a), Nov. 29, 1989, [103 Stat. 1599][/us/stat/103/1599].)
 
  __References in Text__ 
 
-    The Solid Waste Disposal Act, referred to in subsecs. (a)(4)(B) and (d), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsecs. (a)(4)(B) and (d), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42][/us/usc/t42/s6901] and Tables.
 
  __Amendments__ 
 
@@ -73,7 +73,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–189, div. A, title XVI, § 1611(b)][/us/pl/101/189/s1611/b], Nov. 29, 1989, [103 Stat. 1601][/us/stat/103/1601], provided that: 
+[Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1611(b), Nov. 29, 1989, [103 Stat. 1601][/us/stat/103/1601], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to any contract for work on a naval vessel (other than new construction) entered into after the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 29, 1989\].”
 
@@ -86,17 +86,17 @@
 
 [/us/usc/t42/s6921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6921
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
-[/us/pl/99/661/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1202%2Fa
+[/us/pl/99/661/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXII
 [/us/stat/100/3967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3967
-[/us/pl/101/189/s1611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1611%2Fa
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1599
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
-[/us/pl/101/189/s1611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1611%2Fb
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1601
 
 

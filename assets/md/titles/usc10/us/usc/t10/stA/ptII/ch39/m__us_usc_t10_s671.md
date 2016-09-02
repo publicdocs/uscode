@@ -25,7 +25,7 @@
 
         (2) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations for the purposes of paragraph (1). The regulations prescribed by the Secretary of Defense shall apply uniformly to the military departments.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 27][/us/stat/70A/27]; [Pub. L. 94–106, title VIII, § 802(b)][/us/pl/94/106/s802/b], Oct. 7, 1975, [89 Stat. 537][/us/stat/89/537]; [Pub. L. 99–661, div. A, title V, § 501][/us/pl/99/661/s501], Nov. 14, 1986, [100 Stat. 3863][/us/stat/100/3863]; [Pub. L. 103–160, div. A, title V, § 511][/us/pl/103/160/s511], Nov. 30, 1993, [107 Stat. 1648][/us/stat/107/1648]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 27][/us/stat/70A/27]; [Pub. L. 94–106, title VIII][/us/pl/94/106/tVIII], § 802(b), Oct. 7, 1975, [89 Stat. 537][/us/stat/89/537]; [Pub. L. 99–661, div. A, title V][/us/pl/99/661/dA/tV], § 501, Nov. 14, 1986, [100 Stat. 3863][/us/stat/100/3863]; [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 511, Nov. 30, 1993, [107 Stat. 1648][/us/stat/107/1648]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
 <table>
 
@@ -81,9 +81,9 @@ June 24, 1948, ch. 625, § 4(a) (words between semicolon and proviso of 6th pa
 
     2002—Subsec. (c)(2). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
 
-    1993—Subsec. (b). [Pub. L. 103–160, § 511(1)][/us/pl/103/160/s511/1], inserted “(except as provided in subsection (c))” after “may not”.
+    1993—Subsec. (b). [Pub. L. 103–160][/us/pl/103/160], § 511(1), inserted “(except as provided in subsection (c))” after “may not”.
 
-    Subsec. (c). [Pub. L. 103–160, § 511(2)][/us/pl/103/160/s511/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 103–160][/us/pl/103/160], § 511(2), added subsec. (c).
 
     1986—[Pub. L. 99–661][/us/pl/99/661] amended section generally. Prior to amendment, section read as follows: “No member of an armed force may be assigned to active duty on land outside the United States and its Territories and possessions, until he has had twelve weeks of basic training or its equivalent.”
 
@@ -102,18 +102,18 @@ June 24, 1948, ch. 625, § 4(a) (words between semicolon and proviso of 6th pa
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F27
-[/us/pl/94/106/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106%2Fs802%2Fb
+[/us/pl/94/106/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106%2FtVIII
 [/us/stat/89/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F537
-[/us/pl/99/661/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs501
+[/us/pl/99/661/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtV
 [/us/stat/100/3863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3863
-[/us/pl/103/160/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs511
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1648
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/usc/t50/s3803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3803%2Fa
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/103/160/s511/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs511%2F1
-[/us/pl/103/160/s511/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs511%2F2
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/94/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

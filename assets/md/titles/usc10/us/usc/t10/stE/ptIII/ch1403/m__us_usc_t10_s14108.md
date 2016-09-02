@@ -45,17 +45,17 @@
 
         (2) attempt to coerce or, by any unauthorized means, influence any action of a promotion board or any member of a promotion board in the formulation of the board’s recommendations.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2928][/us/stat/108/2928]; amended [Pub. L. 109–364, div. A, title V, § 512(b)][/us/pl/109/364/s512/b], Oct. 17, 2006, [120 Stat. 2184][/us/stat/120/2184].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2928][/us/stat/108/2928]; amended [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 512(b), Oct. 17, 2006, [120 Stat. 2184][/us/stat/120/2184].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 3362(e), 5893(c), 5896, and 8362(e) of this title, prior to repeal by [Pub. L. 103–337, § 1629(a)(1)][/us/pl/103/337/s1629/a/1], (b)(2), (c)(1).
+    Provisions similar to those in this section were contained in sections 3362(e), 5893(c), 5896, and 8362(e) of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(a)(1), (b)(2), (c)(1).
 
  __Amendments__ 
 
-    2006—Subsec. (b). [Pub. L. 109–364, § 512(b)(1)][/us/pl/109/364/s512/b/1], substituted “Actions” for “Majority” in heading.
+    2006—Subsec. (b). [Pub. L. 109–364][/us/pl/109/364], § 512(b)(1), substituted “Actions” for “Majority” in heading.
 
-    Subsec. (b)(3). [Pub. L. 109–364, § 512(b)(2)][/us/pl/109/364/s512/b/2]–(4), added par. (3).
+    Subsec. (b)(3). [Pub. L. 109–364][/us/pl/109/364], § 512(b)(2)–(4), added par. (3).
 
  __Effective Date of 2006 Amendment__ 
 
@@ -76,13 +76,13 @@
 [/us/usc/t10/s14502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14502
 [/us/usc/t10/s14109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14109
 [/us/usc/t10/s14101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fa
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2928
-[/us/pl/109/364/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs512%2Fb
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2184
-[/us/pl/103/337/s1629/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fa%2F1
-[/us/pl/109/364/s512/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs512%2Fb%2F1
-[/us/pl/109/364/s512/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs512%2Fb%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/364/s512/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs512%2Fc
 [/us/usc/t10/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs616

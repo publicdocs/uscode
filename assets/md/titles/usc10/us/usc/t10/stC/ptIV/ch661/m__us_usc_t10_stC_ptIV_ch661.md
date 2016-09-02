@@ -51,11 +51,11 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–106, div. A, title IX, § 913(c)(3)(B)(ii)][/us/pl/104/106/s913/c/3/B/ii], Feb. 10, 1996, [110 Stat. 411][/us/stat/110/411], substituted “Disposal of public stores” for “Disbursements” in item 7863.
+    1996—[Pub. L. 104–106, div. A, title IX][/us/pl/104/106/dA/tIX], § 913(c)(3)(B)(ii), Feb. 10, 1996, [110 Stat. 411][/us/stat/110/411], substituted “Disposal of public stores” for “Disbursements” in item 7863.
 
-    1986—[Pub. L. 99–433, title V, § 514(b)(2)][/us/pl/99/433/s514/b/2], Oct. 1, 1986, [100 Stat. 1054][/us/stat/100/1054], renumbered items 7861 and 7862 as 7862 and 7863, respectively, and inserted item 7861.
+    1986—[Pub. L. 99–433, title V][/us/pl/99/433/tV], § 514(b)(2), Oct. 1, 1986, [100 Stat. 1054][/us/stat/100/1054], renumbered items 7861 and 7862 as 7862 and 7863, respectively, and inserted item 7861.
 
-    1982—[Pub. L. 97–295, § 1(51)(D)][/us/pl/97/295/s1/51/D], Oct. 12, 1982, [96 Stat. 1300][/us/stat/96/1300], substituted “naval” for “public” in item 7861.
+    1982—[Pub. L. 97–295][/us/pl/97/295], § 1(51)(D), Oct. 12, 1982, [96 Stat. 1300][/us/stat/96/1300], substituted “naval” for “public” in item 7861.
 
 ----------
 
@@ -64,11 +64,11 @@
 ----------
 ----------
 
-[/us/pl/104/106/s913/c/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs913%2Fc%2F3%2FB%2Fii
+[/us/pl/104/106/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIX
 [/us/stat/110/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F411
-[/us/pl/99/433/s514/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs514%2Fb%2F2
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1054
-[/us/pl/97/295/s1/51/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F51%2FD
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1300
 
 

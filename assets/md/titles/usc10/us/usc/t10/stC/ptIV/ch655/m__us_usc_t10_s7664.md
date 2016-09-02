@@ -75,7 +75,7 @@ R.S. 4626.  </td>
 
 </table>
 
-    [34 U.S.C. 1142][/us/usc/t34/s1142] and this section reflect the [Act of March 3, 1899, ch. 413, § 13][/us/act/1899-03-03/ch413/s13], [30 Stat. 1007][/us/stat/30/1007], which repealed laws authorizing distribution of prize proceeds to captors, and the [Act of May 29, 1920, ch. 214, § 1][/us/act/1920-05-29/ch214/s1], [41 Stat. 654][/us/stat/41/654], which requires substitution of “Treasurer of the United States or public depositary” for “assistant treasurer”.
+    [34 U.S.C. 1142][/us/usc/t34/s1142] and this section reflect the [Act of March 3, 1899, ch. 413][/us/act/1899-03-03/ch413], § 13, [30 Stat. 1007][/us/stat/30/1007], which repealed laws authorizing distribution of prize proceeds to captors, and the [Act of May 29, 1920, ch. 214][/us/act/1920-05-29/ch214], § 1, [41 Stat. 654][/us/stat/41/654], which requires substitution of “Treasurer of the United States or public depositary” for “assistant treasurer”.
 
 ----------
 
@@ -87,9 +87,9 @@ R.S. 4626.  </td>
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F479
 [/us/usc/t34/s1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs1142
-[/us/act/1899-03-03/ch413/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch413%2Fs13
+[/us/act/1899-03-03/ch413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch413
 [/us/stat/30/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1007
-[/us/act/1920-05-29/ch214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-05-29%2Fch214%2Fs1
+[/us/act/1920-05-29/ch214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-05-29%2Fch214
 [/us/stat/41/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F654
 
 

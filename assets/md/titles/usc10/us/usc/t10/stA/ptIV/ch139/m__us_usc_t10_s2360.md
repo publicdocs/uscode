@@ -21,7 +21,7 @@
 
     (c) The Secretary of Defense shall prescribe regulations to carry out this section. Such regulations shall include definitions for the purposes of this section of the terms “student”, “institution of higher learning”, and “nonprofit organization”.
 
-(Added [Pub. L. 97–86, title VI, § 603(a)][/us/pl/97/86/s603/a], Dec. 1, 1981, [95 Stat. 1110][/us/stat/95/1110].)
+(Added [Pub. L. 97–86, title VI][/us/pl/97/86/tVI], § 603(a), Dec. 1, 1981, [95 Stat. 1110][/us/stat/95/1110].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/97/86/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs603%2Fa
+[/us/pl/97/86/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtVI
 [/us/stat/95/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1110
 
 

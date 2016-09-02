@@ -127,7 +127,7 @@ July 17, 1953, ch. 222, §§ 1, 2, 7, 67 Stat. 178, 179.  </td>
 
  __Report on Assistance to Red Cross for Emergency Communications Services for Members of Armed Forces and Families__ 
 
-    [Pub. L. 103–337, div. A, title III, § 383(b)][/us/pl/103/337/s383/b], Oct. 5, 1994, [108 Stat. 2740][/us/stat/108/2740], provided that, not later than Nov. 30 in each of 1994, 1995, and 1996, the Secretary of Defense was to submit to Congress a report on whether it was necessary for the Department of Defense to support the emergency communications services of the American National Red Cross in order to provide such services for members of the Armed Forces and their families.
+    [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 383(b), Oct. 5, 1994, [108 Stat. 2740][/us/stat/108/2740], provided that, not later than Nov. 30 in each of 1994, 1995, and 1996, the Secretary of Defense was to submit to Congress a report on whether it was necessary for the Department of Defense to support the emergency communications services of the American National Red Cross in order to provide such services for members of the Armed Forces and their families.
 
 ----------
 
@@ -138,7 +138,7 @@ July 17, 1953, ch. 222, §§ 1, 2, 7, 67 Stat. 178, 179.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F145
-[/us/pl/103/337/s383/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs383%2Fb
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2740
 
 

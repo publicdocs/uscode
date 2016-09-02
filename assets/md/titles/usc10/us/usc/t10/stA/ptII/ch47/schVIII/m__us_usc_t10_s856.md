@@ -33,7 +33,7 @@
 
             (D) An attempt to commit an offense specified in subparagraph (A), (B), or (C) that is punishable under [section 880 of this title][/us/usc/t10/s880] (article 80).
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 56][/us/stat/70A/56]; [Pub. L. 113–66, div. A, title XVII, § 1702(a)(1)][/us/pl/113/66/s1702/a/1], (2)(A), Dec. 26, 2013, [127 Stat. 959][/us/stat/127/959].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 56][/us/stat/70A/56]; [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1702(a)(1), (2)(A), Dec. 26, 2013, [127 Stat. 959][/us/stat/127/959].)
 
 <table>
 
@@ -103,7 +103,7 @@ May 5, 1950, ch. 169, § 1 (Art. 56), 64 Stat. 126.  </td>
 [/us/usc/t10/s880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs880
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F56
-[/us/pl/113/66/s1702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fa%2F1
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F959
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66

@@ -87,7 +87,7 @@ R.S. 4624; Nov. 14, 1945, ch. 472, § 3, 59 Stat. 581.  </td>
 
     The proviso added to R.S. 4624 ([34 U.S.C. 1140][/us/usc/t34/s1140]) by the 1945 amendment is identical with the proviso added to the 1942 Act ([34 U.S.C. 1162][/us/usc/t34/s1162]) by the 1944 amendment. The 1945 Act completed the process of making the procedure under the Revised Statutes the same as that in effect for causes over which the courts were given jurisdiction by the World War II legislation, and its single statement in subsection (c) is therefore justified.
 
-    [34 U.S.C. 1140][/us/usc/t34/s1140] and the revised section reflect the [Act of March 3, 1899, ch. 413, § 13][/us/act/1899-03-03/ch413/s13], [30 Stat. 1007][/us/stat/30/1007], which repealed laws authorizing distribution of prize proceeds to captors, and the [Act of May 29, 1920, ch. 214][/us/act/1920-05-29/ch214], [41 Stat. 654][/us/stat/41/654], which requires substitution of “Treasurer of the United States or public depositary” for “assistant treasurer”.
+    [34 U.S.C. 1140][/us/usc/t34/s1140] and the revised section reflect the [Act of March 3, 1899, ch. 413][/us/act/1899-03-03/ch413], § 13, [30 Stat. 1007][/us/stat/30/1007], which repealed laws authorizing distribution of prize proceeds to captors, and the [Act of May 29, 1920, ch. 214][/us/act/1920-05-29/ch214], [41 Stat. 654][/us/stat/41/654], which requires substitution of “Treasurer of the United States or public depositary” for “assistant treasurer”.
 
 ----------
 
@@ -102,7 +102,7 @@ R.S. 4624; Nov. 14, 1945, ch. 472, § 3, 59 Stat. 581.  </td>
 [/us/usc/t34/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs1140
 [/us/usc/t34/s1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs1162
 [/us/usc/t34/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs1140
-[/us/act/1899-03-03/ch413/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch413%2Fs13
+[/us/act/1899-03-03/ch413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch413
 [/us/stat/30/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1007
 [/us/act/1920-05-29/ch214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-05-29%2Fch214
 [/us/stat/41/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F654

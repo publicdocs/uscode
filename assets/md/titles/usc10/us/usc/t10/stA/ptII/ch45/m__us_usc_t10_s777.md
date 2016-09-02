@@ -59,17 +59,17 @@
 
         (2) The number of officers of an armed force on the active-duty list who are authorized as described in subsection (a) to wear the insignia for a grade to which a limitation on total number applies under [section 523(a) of this title][/us/usc/t10/s523/a] for a fiscal year may not exceed 1 percent, or, for the grades of colonel and Navy captain, 2 percent, of the total number provided for the officers in that grade in that armed force in the administration of the limitation under that section for that fiscal year.
 
-(Added [Pub. L. 104–106, div. A, title V, § 503(a)(1)][/us/pl/104/106/s503/a/1], Feb. 10, 1996, [110 Stat. 294][/us/stat/110/294]; amended [Pub. L. 105–85, div. A, title V, § 505][/us/pl/105/85/s505], Nov. 18, 1997, [111 Stat. 1726][/us/stat/111/1726]; [Pub. L. 106–65, div. A, title V, § 502][/us/pl/106/65/s502], Oct. 5, 1999, [113 Stat. 590][/us/stat/113/590]; [Pub. L. 108–136, div. A, title V, § 509(a)][/us/pl/108/136/s509/a], Nov. 24, 2003, [117 Stat. 1458][/us/stat/117/1458]; [Pub. L. 108–375, div. A, title V, § 503][/us/pl/108/375/s503], Oct. 28, 2004, [118 Stat. 1875][/us/stat/118/1875]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163], §§ 503(c), 504, Jan. 6, 2006, [119 Stat. 3226][/us/stat/119/3226]; [Pub. L. 111–383, div. A, title V, § 505(b)][/us/pl/111/383/s505/b], Jan. 7, 2011, [124 Stat. 4210][/us/stat/124/4210].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 503(a)(1), Feb. 10, 1996, [110 Stat. 294][/us/stat/110/294]; amended [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 505, Nov. 18, 1997, [111 Stat. 1726][/us/stat/111/1726]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 502, Oct. 5, 1999, [113 Stat. 590][/us/stat/113/590]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 509(a), Nov. 24, 2003, [117 Stat. 1458][/us/stat/117/1458]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 503, Oct. 28, 2004, [118 Stat. 1875][/us/stat/118/1875]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], §§ 503(c), 504, Jan. 6, 2006, [119 Stat. 3226][/us/stat/119/3226]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 505(b), Jan. 7, 2011, [124 Stat. 4210][/us/stat/124/4210].)
 
  __Amendments__ 
 
     2011—Subsec. (b)(3)(B). [Pub. L. 111–383][/us/pl/111/383] struck out “and a period of 30 days has elapsed after the date of the notification” after “grade”.
 
-    2006—Subsec. (a). [Pub. L. 109–163, § 503(c)][/us/pl/109/163/s503/c], inserted “in a grade below the grade of major general or, in the case of the Navy, rear admiral,” after “An officer” in first sentence.
+    2006—Subsec. (a). [Pub. L. 109–163][/us/pl/109/163], § 503(c), inserted “in a grade below the grade of major general or, in the case of the Navy, rear admiral,” after “An officer” in first sentence.
 
-    Subsec. (d)(1). [Pub. L. 109–163, § 504(1)][/us/pl/109/163/s504/1], substituted “colonels, Navy captains, brigadier generals, and rear admirals (lower half)” for “brigadier generals and Navy rear admirals (lower half)” and “the next higher grade may not exceed 85” for “the grade of major general or rear admiral, as the case may be, may not exceed 30”.
+    Subsec. (d)(1). [Pub. L. 109–163][/us/pl/109/163], § 504(1), substituted “colonels, Navy captains, brigadier generals, and rear admirals (lower half)” for “brigadier generals and Navy rear admirals (lower half)” and “the next higher grade may not exceed 85” for “the grade of major general or rear admiral, as the case may be, may not exceed 30”.
 
-    Subsec. (d)(2), (3). [Pub. L. 109–163, § 504(2)][/us/pl/109/163/s504/2], (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The total number of colonels and Navy captains on the active-duty list who are authorized as described in subsection (a) to wear the insignia for the grade of brigadier general or rear admiral (lower half), as the case may be, may not exceed 55.”
+    Subsec. (d)(2), (3). [Pub. L. 109–163][/us/pl/109/163], § 504(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The total number of colonels and Navy captains on the active-duty list who are authorized as described in subsection (a) to wear the insignia for the grade of brigadier general or rear admiral (lower half), as the case may be, may not exceed 55.”
 
     2004—Subsec. (d). [Pub. L. 108–375][/us/pl/108/375] added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
@@ -87,13 +87,13 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–136, div. A, title V, § 509(b)][/us/pl/108/136/s509/b], Nov. 24, 2003, [117 Stat. 1459][/us/stat/117/1459], provided that: 
+[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 509(b), Nov. 24, 2003, [117 Stat. 1459][/us/stat/117/1459], provided that: 
 
 > “Paragraph (3) of subsection (b) of [section 777 of title 10][/us/usc/t10/s777], United States Code, as added by subsection (a), shall not apply with respect to the wearing by an officer of insignia for a grade that was authorized under that section before the date of the enactment of this Act \[Nov. 24, 2003\].”
 
  __Temporary Variation of Limitations on Numbers of Frocked Officers__ 
 
-    [Pub. L. 104–106, div. A, title V, § 503(b)][/us/pl/104/106/s503/b], Feb. 10, 1996, [110 Stat. 294][/us/stat/110/294], provided that in the administration of former subsec. (d)(2) of this section, the percent limitation applied under that section for fiscal year 1996 would be 2 percent, rather than 1 percent.
+    [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 503(b), Feb. 10, 1996, [110 Stat. 294][/us/stat/110/294], provided that in the administration of former subsec. (d)(2) of this section, the percent limitation applied under that section for fiscal year 1996 would be 2 percent, rather than 1 percent.
 
 ----------
 
@@ -103,32 +103,32 @@
 ----------
 
 [/us/usc/t10/s523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs523%2Fa
-[/us/pl/104/106/s503/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs503%2Fa%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F294
-[/us/pl/105/85/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs505
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1726
-[/us/pl/106/65/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs502
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F590
-[/us/pl/108/136/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs509%2Fa
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1458
-[/us/pl/108/375/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs503
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1875
-[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3226
-[/us/pl/111/383/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs505%2Fb
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4210
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/109/163/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs503%2Fc
-[/us/pl/109/163/s504/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs504%2F1
-[/us/pl/109/163/s504/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs504%2F2
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/108/136/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs509%2Fb
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1459
 [/us/usc/t10/s777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs777
-[/us/pl/104/106/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs503%2Fb
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F294
 
 

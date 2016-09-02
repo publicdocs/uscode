@@ -21,7 +21,7 @@
 
     (2) rental income derived from rental of such units at levels specified in the agreements.
 
-(Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)][/us/pl/104/106/s2801/a/1], Feb. 10, 1996, [110 Stat. 546][/us/stat/110/546]; amended [Pub. L. 106–65, div. B, title XXVIII, § 2803(e)][/us/pl/106/65/s2803/e], Oct. 5, 1999, [113 Stat. 849][/us/stat/113/849].)
+(Added [Pub. L. 104–106, div. B, title XXVIII][/us/pl/104/106/dB/tXXVIII], § 2801(a)(1), Feb. 10, 1996, [110 Stat. 546][/us/stat/110/546]; amended [Pub. L. 106–65, div. B, title XXVIII][/us/pl/106/65/dB/tXXVIII], § 2803(e), Oct. 5, 1999, [113 Stat. 849][/us/stat/113/849].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/104/106/s2801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2801%2Fa%2F1
+[/us/pl/104/106/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdB%2FtXXVIII
 [/us/stat/110/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F546
-[/us/pl/106/65/s2803/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2803%2Fe
+[/us/pl/106/65/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdB%2FtXXVIII
 [/us/stat/113/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F849
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 

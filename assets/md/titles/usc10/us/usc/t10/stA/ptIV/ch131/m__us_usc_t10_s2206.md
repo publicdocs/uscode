@@ -17,7 +17,7 @@
 
     As far as authorized by the Secretary of Defense, a disbursing official of a military department may, out of available advances, make disbursements to cover obligations in connection with any function, power, or duty of another department or agency of the Department of Defense and charge those disbursements on vouchers, to the appropriate appropriation of that department or agency. Disbursements so made shall be adjusted in settling the accounts of the disbursing official.
 
-(Added [Pub. L. 87–651, title II, § 207(a)][/us/pl/87/651/s207/a], Sept. 7, 1962, [76 Stat. 520][/us/stat/76/520]; amended [Pub. L. 97–258, § 2(b)(1)(A)][/us/pl/97/258/s2/b/1/A], Sept. 13, 1982, [96 Stat. 1052][/us/stat/96/1052].)
+(Added [Pub. L. 87–651, title II][/us/pl/87/651/tII], § 207(a), Sept. 7, 1962, [76 Stat. 520][/us/stat/76/520]; amended [Pub. L. 97–258][/us/pl/97/258], § 2(b)(1)(A), Sept. 13, 1982, [96 Stat. 1052][/us/stat/96/1052].)
 
 <table>
 
@@ -94,9 +94,9 @@ July 26, 1947, ch. 343, § 308(a) (as applicable to § 409), 61 Stat. 509.  
 ----------
 ----------
 
-[/us/pl/87/651/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs207%2Fa
+[/us/pl/87/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtII
 [/us/stat/76/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F520
-[/us/pl/97/258/s2/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F1%2FA
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1052
 [/us/usc/t5/s172h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs172h
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258

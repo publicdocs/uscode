@@ -31,11 +31,11 @@
 
     Subsections (b), (d), (e), (f), and (g) of [section 2733 of this title][/us/usc/t10/s2733] shall apply to a request for a reimbursement under this section as if the request were a claim against the United States.
 
-(Added [Pub. L. 103–337, div. A, title V, § 557(a)][/us/pl/103/337/s557/a], Oct. 5, 1994, [108 Stat. 2775][/us/stat/108/2775].)
+(Added [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 557(a), Oct. 5, 1994, [108 Stat. 2775][/us/stat/108/2775].)
 
  __Effective Date__ 
 
-[Pub. L. 103–337, div. A, title V, § 557(c)][/us/pl/103/337/s557/c], Oct. 5, 1994, [108 Stat. 2776][/us/stat/108/2776], provided that:
+[Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 557(c), Oct. 5, 1994, [108 Stat. 2776][/us/stat/108/2776], provided that:
 
 >     “(1) [Section 2738 of title 10][/us/usc/t10/s2738], United States Code, as added by subsection (a), applies with respect to losses incurred after June 30, 1990.
 
@@ -49,9 +49,9 @@
 ----------
 
 [/us/usc/t10/s2733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2733
-[/us/pl/103/337/s557/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs557%2Fa
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2775
-[/us/pl/103/337/s557/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs557%2Fc
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2776
 [/us/usc/t10/s2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2738
 

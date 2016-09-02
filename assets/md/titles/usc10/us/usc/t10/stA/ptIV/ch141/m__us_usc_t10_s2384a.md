@@ -23,11 +23,11 @@
 
     (b) Each solicitation for a contract for supplies shall, if practicable, include a provision inviting each offeror responding to the solicitation to state an opinion on whether the quantity of the supplies proposed to be procured is economically advantageous to the United States and, if applicable, to recommend a quantity or quantities which would be more economically advantageous to the United States. Each such recommendation shall include a quotation of the total price and the unit price for supplies procured in each recommended quantity.
 
-(Added [Pub. L. 98–525, title XII, § 1233(a)][/us/pl/98/525/s1233/a], Oct. 19, 1984, [98 Stat. 2600][/us/stat/98/2600].)
+(Added [Pub. L. 98–525, title XII][/us/pl/98/525/tXII], § 1233(a), Oct. 19, 1984, [98 Stat. 2600][/us/stat/98/2600].)
 
  __Effective Date__ 
 
-[Pub. L. 98–525, title XII, § 1233(b)][/us/pl/98/525/s1233/b], Oct. 19, 1984, [98 Stat. 2601][/us/stat/98/2601], provided that: 
+[Pub. L. 98–525, title XII][/us/pl/98/525/tXII], § 1233(b), Oct. 19, 1984, [98 Stat. 2601][/us/stat/98/2601], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall take effect at the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 19, 1984\].”
 
@@ -40,9 +40,9 @@
 
 [/us/usc/t10/s2303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2303%2Fa
 [/us/usc/t10/s2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2204
-[/us/pl/98/525/s1233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1233%2Fa
+[/us/pl/98/525/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXII
 [/us/stat/98/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2600
-[/us/pl/98/525/s1233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1233%2Fb
+[/us/pl/98/525/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXII
 [/us/stat/98/2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2601
 
 

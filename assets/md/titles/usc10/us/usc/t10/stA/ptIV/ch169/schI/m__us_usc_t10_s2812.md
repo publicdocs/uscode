@@ -71,7 +71,7 @@
 
     (d) Each lease entered into under this section shall include a provision that the obligation of the United States to make payments under the lease in any fiscal year is subject to the availability of appropriations for that purpose.
 
-(Added [Pub. L. 101–189, div. B, title XXVIII, § 2809(a)][/us/pl/101/189/s2809/a], Nov. 29, 1989, [103 Stat. 1649][/us/stat/103/1649]; amended [Pub. L. 101–510, div. B, title XXVIII, § 2864][/us/pl/101/510/s2864], Nov. 5, 1990, [104 Stat. 1806][/us/stat/104/1806]; [Pub. L. 108–136, div. A, title X, § 1031(a)(39)][/us/pl/108/136/s1031/a/39], Nov. 24, 2003, [117 Stat. 1601][/us/stat/117/1601].)
+(Added [Pub. L. 101–189, div. B, title XXVIII][/us/pl/101/189/dB/tXXVIII], § 2809(a), Nov. 29, 1989, [103 Stat. 1649][/us/stat/103/1649]; amended [Pub. L. 101–510, div. B, title XXVIII][/us/pl/101/510/dB/tXXVIII], § 2864, Nov. 5, 1990, [104 Stat. 1806][/us/stat/104/1806]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(39), Nov. 24, 2003, [117 Stat. 1601][/us/stat/117/1601].)
 
  __Amendments__ 
 
@@ -87,11 +87,11 @@
 ----------
 
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
-[/us/pl/101/189/s2809/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs2809%2Fa
+[/us/pl/101/189/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdB%2FtXXVIII
 [/us/stat/103/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1649
-[/us/pl/101/510/s2864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs2864
+[/us/pl/101/510/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdB%2FtXXVIII
 [/us/stat/104/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1806
-[/us/pl/108/136/s1031/a/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F39
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1601
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480

@@ -17,7 +17,7 @@
 
     The promotion of permanent reserve warrant officers not on the warrant officer active-duty list to permanent reserve warrant officer grades shall be governed by such regulations as the Secretary concerned may prescribe.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 26][/us/stat/70A/26], § 598; [Pub. L. 102–190, div. A, title XI, § 1131(3)][/us/pl/102/190/s1131/3], Dec. 5, 1991, [105 Stat. 1505][/us/stat/105/1505]; renumbered § 12242, [Pub. L. 103–337, div. A, title XVI, § 1662(d)(2)][/us/pl/103/337/s1662/d/2], Oct. 5, 1994, [108 Stat. 2991][/us/stat/108/2991].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 26][/us/stat/70A/26], § 598; [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1131(3), Dec. 5, 1991, [105 Stat. 1505][/us/stat/105/1505]; renumbered § 12242, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(d)(2), Oct. 5, 1994, [108 Stat. 2991][/us/stat/108/2991].)
 
 <table>
 
@@ -84,9 +84,9 @@ May 29, 1954, ch. 249, § 7 (last sentence, less applicability to temporary pr
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F26
-[/us/pl/102/190/s1131/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1131%2F3
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1505
-[/us/pl/103/337/s1662/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fd%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2991
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs598

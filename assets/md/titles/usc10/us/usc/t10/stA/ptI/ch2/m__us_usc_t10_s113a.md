@@ -31,7 +31,7 @@
 
         (4) Any other matter that is proposed by the Secretary of Defense to be enacted as part of the annual defense authorization bill for that fiscal year.
 
-(Added [Pub. L. 107–314, div. A, title X, § 1061(a)][/us/pl/107/314/s1061/a], Dec. 2, 2002, [116 Stat. 2649][/us/stat/116/2649]; amended [Pub. L. 108–136, div. A, title X, § 1044(a)][/us/pl/108/136/s1044/a], Nov. 24, 2003, [117 Stat. 1612][/us/stat/117/1612].)
+(Added [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1061(a), Dec. 2, 2002, [116 Stat. 2649][/us/stat/116/2649]; amended [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1044(a), Nov. 24, 2003, [117 Stat. 1612][/us/stat/117/1612].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 [/us/usc/t10/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs114
 [/us/usc/t10/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs115
 [/us/usc/t10/s2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2802
-[/us/pl/107/314/s1061/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1061%2Fa
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2649
-[/us/pl/108/136/s1044/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1044%2Fa
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1612
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 

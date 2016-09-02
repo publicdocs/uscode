@@ -47,7 +47,7 @@
 
     This section does not apply to the Coast Guard when it is not operating as a service in the Navy, nor to the National Aeronautics and Space Administration.
 
-(Added [Pub. L. 105–261, div. A, title VIII, § 813(a)][/us/pl/105/261/s813/a], Oct. 17, 1998, [112 Stat. 2087][/us/stat/112/2087].)
+(Added [Pub. L. 105–261, div. A, title VIII][/us/pl/105/261/dA/tVIII], § 813(a), Oct. 17, 1998, [112 Stat. 2087][/us/stat/112/2087].)
 
  __Transfer of Functions__ 
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t10/s2302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F1
-[/us/pl/105/261/s813/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs813%2Fa
+[/us/pl/105/261/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVIII
 [/us/stat/112/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2087
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

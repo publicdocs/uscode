@@ -19,7 +19,7 @@
 
     (b) Each member of a board convened for the selection for promotion, or for the demotion or discharge, of Reserves must be senior in rank to the persons under consideration by that board. However, a member serving in a legal advisory capacity may be junior in rank to any person, other than a judge advocate or law specialist, being considered by that board; and a member serving in a medical advisory capacity may be junior in rank to any person, other than a medical officer, being considered by that board.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 11][/us/stat/70A/11], § 266; [Pub. L. 96–513, title V, § 501(4)][/us/pl/96/513/s501/4], Dec. 12, 1980, [94 Stat. 2907][/us/stat/94/2907]; [Pub. L. 97–22, § 2(c)][/us/pl/97/22/s2/c], July 10, 1981, [95 Stat. 124][/us/stat/95/124]; renumbered § 12643, [Pub. L. 103–337, div. A, title XVI, § 1662(h)(2)][/us/pl/103/337/s1662/h/2], Oct. 5, 1994, [108 Stat. 2996][/us/stat/108/2996].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 11][/us/stat/70A/11], § 266; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 501(4), Dec. 12, 1980, [94 Stat. 2907][/us/stat/94/2907]; [Pub. L. 97–22][/us/pl/97/22], § 2(c), July 10, 1981, [95 Stat. 124][/us/stat/95/124]; renumbered § 12643, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(h)(2), Oct. 5, 1994, [108 Stat. 2996][/us/stat/108/2996].)
 
 <table>
 
@@ -95,11 +95,11 @@ July 9, 1952, ch. 608, § 254, 66 Stat. 496.  </td>
 [/us/usc/t10/s612/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs612%2Fa%2F3
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F11
-[/us/pl/96/513/s501/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs501%2F4
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2907
-[/us/pl/97/22/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs2%2Fc
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F124
-[/us/pl/103/337/s1662/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fh%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2996
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs266

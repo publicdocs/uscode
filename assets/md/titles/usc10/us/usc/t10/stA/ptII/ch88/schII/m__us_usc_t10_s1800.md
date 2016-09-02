@@ -25,7 +25,7 @@
 
     (4) The term “child care fee receipts” means those nonappropriated funds that are derived from fees paid by members of the armed forces for child care services provided at military child development centers.
 
-(Added [Pub. L. 104–106, div. A, title V, § 568(a)(1)][/us/pl/104/106/s568/a/1], Feb. 10, 1996, [110 Stat. 335][/us/stat/110/335], § 1798; renumbered § 1800, [Pub. L. 106–65, div. A, title V, § 584(a)(1)(A)][/us/pl/106/65/s584/a/1/A], Oct. 5, 1999, [113 Stat. 634][/us/stat/113/634].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 568(a)(1), Feb. 10, 1996, [110 Stat. 335][/us/stat/110/335], § 1798; renumbered § 1800, [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 584(a)(1)(A), Oct. 5, 1999, [113 Stat. 634][/us/stat/113/634].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/104/106/s568/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs568%2Fa%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F335
-[/us/pl/106/65/s584/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs584%2Fa%2F1%2FA
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F634
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t10/s1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1798

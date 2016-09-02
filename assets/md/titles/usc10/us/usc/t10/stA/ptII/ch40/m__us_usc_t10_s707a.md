@@ -35,7 +35,7 @@
 
     (c) This section shall be administered under uniform regulations prescribed by the Secretaries concerned. The regulations may provide for the method of determining an officer’s income during any period the officer is deemed to have accrued pay and allowances, including a requirement that the officer provide income tax returns and other documentation to verify the amount of the officer’s income.
 
-(Added [Pub. L. 107–314, div. A, title V, § 506(b)][/us/pl/107/314/s506/b], Dec. 2, 2002, [116 Stat. 2535][/us/stat/116/2535].)
+(Added [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 506(b), Dec. 2, 2002, [116 Stat. 2535][/us/stat/116/2535].)
 
 ----------
 
@@ -49,7 +49,7 @@
 [/us/usc/t10/s1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1184
 [/us/usc/t10/s1182/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1182%2Fc%2F2
 [/us/usc/t10/s706/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs706%2Fb%2F1
-[/us/pl/107/314/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs506%2Fb
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2535
 
 

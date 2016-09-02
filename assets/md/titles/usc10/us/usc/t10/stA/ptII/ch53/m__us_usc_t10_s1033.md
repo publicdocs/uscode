@@ -57,11 +57,11 @@
 
     The Secretary of Defense, and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to carry out this section.
 
-(Added [Pub. L. 105–85, div. A, title V, § 593(a)(1)][/us/pl/105/85/s593/a/1], Nov. 18, 1997, [111 Stat. 1762][/us/stat/111/1762]; amended [Pub. L. 106–65, div. A, title V, § 583][/us/pl/106/65/s583], Oct. 5, 1999, [113 Stat. 634][/us/stat/113/634]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+(Added [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 593(a)(1), Nov. 18, 1997, [111 Stat. 1762][/us/stat/111/1762]; amended [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 583, Oct. 5, 1999, [113 Stat. 634][/us/stat/113/634]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
  __Prior Provisions__ 
 
-    A prior section 1033, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 80][/us/stat/70A/80], related to Reserves continuing to accept compensation while on active duty that they were receiving prior to being ordered to active duty, prior to repeal by [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337], §§ 1662(g)(2), 1691, Oct. 5, 1994, [108 Stat. 2996][/us/stat/108/2996], 3026, eff. Dec. 1, 1994.
+    A prior section 1033, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 80][/us/stat/70A/80], related to Reserves continuing to accept compensation while on active duty that they were receiving prior to being ordered to active duty, prior to repeal by [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], §§ 1662(g)(2), 1691, Oct. 5, 1994, [108 Stat. 2996][/us/stat/108/2996], 3026, eff. Dec. 1, 1994.
 
  __Amendments__ 
 
@@ -80,15 +80,15 @@
 ----------
 ----------
 
-[/us/pl/105/85/s593/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs593%2Fa%2F1
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1762
-[/us/pl/106/65/s583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs583
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F634
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F80
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2996
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65

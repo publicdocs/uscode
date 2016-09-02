@@ -43,7 +43,7 @@
 
     The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added [Pub. L. 85–337, § 4(1)][/us/pl/85/337/s4/1], Feb. 28, 1958, [72 Stat. 29][/us/stat/72/29]; amended [Pub. L. 107–107, div. B, title XXVIII, § 2811][/us/pl/107/107/s2811], Dec. 28, 2001, [115 Stat. 1307][/us/stat/115/1307]; [Pub. L. 109–163, div. A, title X, § 1057(a)(2)][/us/pl/109/163/s1057/a/2], Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440]; [Pub. L. 111–383, div. A, title X, § 1075(b)(42)][/us/pl/111/383/s1075/b/42], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371].)
+(Added [Pub. L. 85–337][/us/pl/85/337], § 4(1), Feb. 28, 1958, [72 Stat. 29][/us/stat/72/29]; amended [Pub. L. 107–107, div. B, title XXVIII][/us/pl/107/107/dB/tXXVIII], § 2811, Dec. 28, 2001, [115 Stat. 1307][/us/stat/115/1307]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(a)(2), Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(42), Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371].)
 
  __Amendments__ 
 
@@ -51,19 +51,19 @@
 
     2006—Subsecs. (a) to (c). [Pub. L. 109–163][/us/pl/109/163] struck out “or Territory” after “State” wherever appearing.
 
-    2001—Subsec. (a). [Pub. L. 107–107, § 2811(b)(1)][/us/pl/107/107/s2811/b/1], inserted heading.
+    2001—Subsec. (a). [Pub. L. 107–107][/us/pl/107/107], § 2811(b)(1), inserted heading.
 
-    Subsec. (b). [Pub. L. 107–107, § 2811(a)(2)][/us/pl/107/107/s2811/a/2], added subsec. (b). Former subsec. (b) redesignated (e).
+    Subsec. (b). [Pub. L. 107–107][/us/pl/107/107], § 2811(a)(2), added subsec. (b). Former subsec. (b) redesignated (e).
 
-    Subsec. (c). [Pub. L. 107–107, § 2811(b)(2)][/us/pl/107/107/s2811/b/2], inserted heading.
+    Subsec. (c). [Pub. L. 107–107][/us/pl/107/107], § 2811(b)(2), inserted heading.
 
-    Subsec. (d). [Pub. L. 107–107, § 2811(b)(3)][/us/pl/107/107/s2811/b/3], inserted heading.
+    Subsec. (d). [Pub. L. 107–107][/us/pl/107/107], § 2811(b)(3), inserted heading.
 
-    Subsec. (e). [Pub. L. 107–107, § 2811(a)(1)][/us/pl/107/107/s2811/a/1], redesignated subsec. (b) as (e), inserted heading, and transferred subsec. to end of section.
+    Subsec. (e). [Pub. L. 107–107][/us/pl/107/107], § 2811(a)(1), redesignated subsec. (b) as (e), inserted heading, and transferred subsec. to end of section.
 
  __Increased Hunting and Fishing Opportunities for Members of the Armed Forces, Retired Members, and Disabled Veterans__ 
 
-[Pub. L. 109–364, div. A, title X, § 1077(a)][/us/pl/109/364/s1077/a], Oct. 17, 2006, [120 Stat. 2406][/us/stat/120/2406], provided that: 
+[Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1077(a), Oct. 17, 2006, [120 Stat. 2406][/us/stat/120/2406], provided that: 
 
 > “Consistent with [section 2671 of title 10][/us/usc/t10/s2671], United States Code, and using such funds as are made available for this purpose, the Secretary of Defense shall ensure that members of the Armed Forces, retired members, disabled veterans, and persons assisting disabled veterans are able to utilize lands under the jurisdiction of the Department of Defense that are available for hunting or fishing.”
 
@@ -74,22 +74,22 @@
 ----------
 ----------
 
-[/us/pl/85/337/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F337%2Fs4%2F1
+[/us/pl/85/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F337
 [/us/stat/72/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F29
-[/us/pl/107/107/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs2811
+[/us/pl/107/107/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdB%2FtXXVIII
 [/us/stat/115/1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1307
-[/us/pl/109/163/s1057/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F2
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3440
-[/us/pl/111/383/s1075/b/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F42
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4371
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/107/107/s2811/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs2811%2Fb%2F1
-[/us/pl/107/107/s2811/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs2811%2Fa%2F2
-[/us/pl/107/107/s2811/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs2811%2Fb%2F2
-[/us/pl/107/107/s2811/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs2811%2Fb%2F3
-[/us/pl/107/107/s2811/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs2811%2Fa%2F1
-[/us/pl/109/364/s1077/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1077%2Fa
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2406
 [/us/usc/t10/s2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2671
 

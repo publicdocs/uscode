@@ -57,7 +57,7 @@
 
         (3) A civilian employee of the Department of Defense shall be eligible to participate in the expanded placement activities authorized under this subsection if the employee, during the six-year period beginning October 1, 1993, is terminated from such employment as a result of reductions in defense spending or the closure or realignment of a military installation, as determined by the Secretary of Defense.
 
-(Added [Pub. L. 103–160, div. A, title XIII, § 1332(a)][/us/pl/103/160/s1332/a], Nov. 30, 1993, [107 Stat. 1793][/us/stat/107/1793]; amended [Pub. L. 103–337, div. A, title V, § 543(d)][/us/pl/103/337/s543/d], title XI, § 1132(a)(1), Oct. 5, 1994, [108 Stat. 2771][/us/stat/108/2771], 2872; [Pub. L. 104–106, div. A, title XV, § 1503(a)(11)][/us/pl/104/106/s1503/a/11], Feb. 10, 1996, [110 Stat. 511][/us/stat/110/511]; [Pub. L. 104–201, div. A, title V, § 575][/us/pl/104/201/s575], Sept. 23, 1996, [110 Stat. 2535][/us/stat/110/2535]; [Pub. L. 105–85, div. A, title X, § 1073(a)(20)][/us/pl/105/85/s1073/a/20], Nov. 18, 1997, [111 Stat. 1901][/us/stat/111/1901]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+(Added [Pub. L. 103–160, div. A, title XIII][/us/pl/103/160/dA/tXIII], § 1332(a), Nov. 30, 1993, [107 Stat. 1793][/us/stat/107/1793]; amended [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 543(d), title XI, § 1132(a)(1), Oct. 5, 1994, [108 Stat. 2771][/us/stat/108/2771], 2872; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1503(a)(11), Feb. 10, 1996, [110 Stat. 511][/us/stat/110/511]; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 575, Sept. 23, 1996, [110 Stat. 2535][/us/stat/110/2535]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(20), Nov. 18, 1997, [111 Stat. 1901][/us/stat/111/1901]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
  __Amendments__ 
 
@@ -69,9 +69,9 @@
 
     Subsec. (g)(2). [Pub. L. 104–106][/us/pl/104/106] substituted “not later than April 3, 1994,” for “not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1995”.
 
-    1994—[Pub. L. 103–337, § 543(d)][/us/pl/103/337/s543/d], inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense” in subsecs. (a) and (d).
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 543(d), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense” in subsecs. (a) and (d).
 
-    [Pub. L. 103–337, § 1132(a)(1)][/us/pl/103/337/s1132/a/1], substituted “eligible members and former members” for “separated members” in section catchline and amended text generally, substituting subsecs. (a) to (g) for former subsecs. (a) to (f).
+    [Pub. L. 103–337][/us/pl/103/337], § 1132(a)(1), substituted “eligible members and former members” for “separated members” in section catchline and amended text generally, substituting subsecs. (a) to (g) for former subsecs. (a) to (f).
 
  __Effective Date of 2002 Amendment__ 
 
@@ -86,24 +86,24 @@
 
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t10/s1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1293
-[/us/pl/103/160/s1332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1332%2Fa
+[/us/pl/103/160/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIII
 [/us/stat/107/1793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1793
-[/us/pl/103/337/s543/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fd
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2771
-[/us/pl/104/106/s1503/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1503%2Fa%2F11
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F511
-[/us/pl/104/201/s575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs575
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2535
-[/us/pl/105/85/s1073/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F20
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1901
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/337/s543/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs543%2Fd
-[/us/pl/103/337/s1132/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1132%2Fa%2F1
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101

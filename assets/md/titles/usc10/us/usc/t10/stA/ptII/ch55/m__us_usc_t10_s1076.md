@@ -101,7 +101,7 @@
 
         (3) Nothing in paragraph (2) may be construed to prohibit the furnishing of a school-required physical examination to any dependent who, except for not satisfying the age requirement under that paragraph, would otherwise be eligible for a physical examination required to be furnished under this subsection.
 
-(Added [Pub. L. 85–861, § 1(25)(B)][/us/pl/85/861/s1/25/B], Sept. 2, 1958, [72 Stat. 1447][/us/stat/72/1447]; amended [Pub. L. 89–614, § 2(3)][/us/pl/89/614/s2/3], Sept. 30, 1966, [80 Stat. 862][/us/stat/80/862]; [Pub. L. 95–397, title III, § 301][/us/pl/95/397/s301], Sept. 30, 1978, [92 Stat. 849][/us/stat/92/849]; [Pub. L. 96–513, title V, § 511(36)][/us/pl/96/513/s511/36], Dec. 12, 1980, [94 Stat. 2923][/us/stat/94/2923]; [Pub. L. 97–252, title X, § 1004(b)][/us/pl/97/252/s1004/b], Sept. 8, 1982, [96 Stat. 737][/us/stat/96/737]; [Pub. L. 98–557, § 19(5)][/us/pl/98/557/s19/5], Oct. 30, 1984, [98 Stat. 2869][/us/stat/98/2869]; [Pub. L. 99–145, title VI, § 652(a)][/us/pl/99/145/s652/a], Nov. 8, 1985, [99 Stat. 656][/us/stat/99/656]; [Pub. L. 99–661, div. A, title VI][/us/pl/99/661], §§ 604(f)(1)(C), 652(c), Nov. 14, 1986, [100 Stat. 3877][/us/stat/100/3877], 3889; [Pub. L. 100–456, div. A, title VI, § 651(a)][/us/pl/100/456/s651/a], Sept. 29, 1988, [102 Stat. 1990][/us/stat/102/1990]; [Pub. L. 101–189, div. A, title VI, § 653(a)(4)][/us/pl/101/189/s653/a/4], title VII, § 731(c)(1), Nov. 29, 1989, [103 Stat. 1462][/us/stat/103/1462], 1482; [Pub. L. 103–337, div. A, title VII][/us/pl/103/337], §§ 704(a), (b), title XVI, § 1671(c)(7)(A), Oct. 5, 1994, [108 Stat. 2798][/us/stat/108/2798], 2799, 3014; [Pub. L. 104–106, div. A, title VII, § 703][/us/pl/104/106/s703], title XV, § 1501(c)(11), Feb. 10, 1996, [110 Stat. 372][/us/stat/110/372], 499; [Pub. L. 105–85, div. A, title V, § 513(b)][/us/pl/105/85/s513/b], title X, § 1073(d)(1)(D), Nov. 18, 1997, [111 Stat. 1730][/us/stat/111/1730], 1905; [Pub. L. 105–261, div. A, title VII, § 732][/us/pl/105/261/s732], Oct. 17, 1998, [112 Stat. 2071][/us/stat/112/2071]; [Pub. L. 106–65, div. A, title V, § 578(i)(2)][/us/pl/106/65/s578/i/2], title VII, § 705(c), Oct. 5, 1999, [113 Stat. 629][/us/stat/113/629], 684; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 703\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–174; [Pub. L. 107–107, div. A, title V, § 513(a)][/us/pl/107/107/s513/a], Dec. 28, 2001, [115 Stat. 1093][/us/stat/115/1093].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(25)(B), Sept. 2, 1958, [72 Stat. 1447][/us/stat/72/1447]; amended [Pub. L. 89–614][/us/pl/89/614], § 2(3), Sept. 30, 1966, [80 Stat. 862][/us/stat/80/862]; [Pub. L. 95–397, title III][/us/pl/95/397/tIII], § 301, Sept. 30, 1978, [92 Stat. 849][/us/stat/92/849]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(36), Dec. 12, 1980, [94 Stat. 2923][/us/stat/94/2923]; [Pub. L. 97–252, title X][/us/pl/97/252/tX], § 1004(b), Sept. 8, 1982, [96 Stat. 737][/us/stat/96/737]; [Pub. L. 98–557][/us/pl/98/557], § 19(5), Oct. 30, 1984, [98 Stat. 2869][/us/stat/98/2869]; [Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 652(a), Nov. 8, 1985, [99 Stat. 656][/us/stat/99/656]; [Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], §§ 604(f)(1)(C), 652(c), Nov. 14, 1986, [100 Stat. 3877][/us/stat/100/3877], 3889; [Pub. L. 100–456, div. A, title VI][/us/pl/100/456/dA/tVI], § 651(a), Sept. 29, 1988, [102 Stat. 1990][/us/stat/102/1990]; [Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 653(a)(4), title VII, § 731(c)(1), Nov. 29, 1989, [103 Stat. 1462][/us/stat/103/1462], 1482; [Pub. L. 103–337, div. A, title VII][/us/pl/103/337/dA/tVII], §§ 704(a), (b), title XVI, § 1671(c)(7)(A), Oct. 5, 1994, [108 Stat. 2798][/us/stat/108/2798], 2799, 3014; [Pub. L. 104–106, div. A, title VII][/us/pl/104/106/dA/tVII], § 703, title XV, § 1501(c)(11), Feb. 10, 1996, [110 Stat. 372][/us/stat/110/372], 499; [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 513(b), title X, § 1073(d)(1)(D), Nov. 18, 1997, [111 Stat. 1730][/us/stat/111/1730], 1905; [Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 732, Oct. 17, 1998, [112 Stat. 2071][/us/stat/112/2071]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 578(i)(2), title VII, § 705(c), Oct. 5, 1999, [113 Stat. 629][/us/stat/113/629], 684; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 703\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–174; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 513(a), Dec. 28, 2001, [115 Stat. 1093][/us/stat/115/1093].)
 
 <table>
 
@@ -213,7 +213,7 @@ Appropriate references are made to dental care throughout the section to reflect
 
  __Prior Provisions__ 
 
-    A prior section 1076, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 84][/us/stat/70A/84], related to use of post cards, waiver of registration, and voting by discharged persons, prior to repeal by [Pub. L. 85–861, § 36B(5)][/us/pl/85/861/s36B/5], Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570], as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+    A prior section 1076, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 84][/us/stat/70A/84], related to use of post cards, waiver of registration, and voting by discharged persons, prior to repeal by [Pub. L. 85–861][/us/pl/85/861], § 36B(5), Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570], as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
  __Amendments__ 
 
@@ -221,15 +221,15 @@ Appropriate references are made to dental care throughout the section to reflect
 
     2000—Subsec. (f). [Pub. L. 106–398][/us/pl/106/398] added subsec. (f).
 
-    1999—Subsec. (a)(2)(D). [Pub. L. 106–65, § 705(c)][/us/pl/106/65/s705/c], amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “A member who incurred or aggravated an injury, illness, or disease in the line of duty while serving on active duty for a period of 30 days or less (or while traveling to or from the place of such duty) and the member’s orders are modified or extended, while the member is being treated for (or recovering from) the injury, illness, or disease, so as to result in active duty for a period of more than 30 days. However, this subparagraph entitles the dependent to medical and dental care only while the member remains on active duty.”
+    1999—Subsec. (a)(2)(D). [Pub. L. 106–65][/us/pl/106/65], § 705(c), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “A member who incurred or aggravated an injury, illness, or disease in the line of duty while serving on active duty for a period of 30 days or less (or while traveling to or from the place of such duty) and the member’s orders are modified or extended, while the member is being treated for (or recovering from) the injury, illness, or disease, so as to result in active duty for a period of more than 30 days. However, this subparagraph entitles the dependent to medical and dental care only while the member remains on active duty.”
 
-    Subsec. (a)(2)(E). [Pub. L. 106–65, § 578(i)(2)][/us/pl/106/65/s578/i/2], added subpar. (E).
+    Subsec. (a)(2)(E). [Pub. L. 106–65][/us/pl/106/65], § 578(i)(2), added subpar. (E).
 
-    1998—Subsec. (e)(1). [Pub. L. 105–261, § 732(1)][/us/pl/105/261/s732/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraph (3), if an abused dependent of a former member of a uniformed service described in paragraph (4) needs medical or dental care for an injury or illness resulting from abuse by the member, the administering Secretary may, upon request of the abused dependent, furnish medical or dental care to the dependent for the treatment of such injury or illness in facilities of the uniformed services.”
+    1998—Subsec. (e)(1). [Pub. L. 105–261][/us/pl/105/261], § 732(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraph (3), if an abused dependent of a former member of a uniformed service described in paragraph (4) needs medical or dental care for an injury or illness resulting from abuse by the member, the administering Secretary may, upon request of the abused dependent, furnish medical or dental care to the dependent for the treatment of such injury or illness in facilities of the uniformed services.”
 
-    Subsec. (e)(3). [Pub. L. 105–261, § 732(2)][/us/pl/105/261/s732/2], inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “shall terminate one year after the date on which the former member was discharged or dismissed from a uniformed service as described in paragraph (4).”
+    Subsec. (e)(3). [Pub. L. 105–261][/us/pl/105/261], § 732(2), inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “shall terminate one year after the date on which the former member was discharged or dismissed from a uniformed service as described in paragraph (4).”
 
-    1997—Subsec. (a)(2). [Pub. L. 105–85, § 513(b)][/us/pl/105/85/s513/b], added par. (2) and struck out former par. (2) which read as follows: “A dependent referred to in paragraph (1) is a dependent of a member of a uniformed service—
+    1997—Subsec. (a)(2). [Pub. L. 105–85][/us/pl/105/85], § 513(b), added par. (2) and struck out former par. (2) which read as follows: “A dependent referred to in paragraph (1) is a dependent of a member of a uniformed service—
 
     “(A) who is on active duty for a period of more than 30 days or who died while on that duty; or
 
@@ -239,17 +239,17 @@ Appropriate references are made to dental care throughout the section to reflect
 
     “(ii) while traveling to or from the place at which the member is to perform, or has performed, such active duty, active duty for training, or inactive duty training.”
 
-    Subsec. (b). [Pub. L. 105–85, § 1073(d)(1)(D)][/us/pl/105/85/s1073/d/1/D], made technical correction to directory language of [Pub. L. 104–106, § 703(b)][/us/pl/104/106/s703/b]. See 1996 Amendment note below.
+    Subsec. (b). [Pub. L. 105–85][/us/pl/105/85], § 1073(d)(1)(D), made technical correction to directory language of [Pub. L. 104–106][/us/pl/104/106], § 703(b). See 1996 Amendment note below.
 
-    1996—Subsec. (b). [Pub. L. 104–106, § 703(b)][/us/pl/104/106/s703/b], as amended by [Pub. L. 105–85, § 1073(d)(1)(D)][/us/pl/105/85/s1073/d/1/D], in concluding provisions, substituted “paragraph (2) may” for “clause (2) may” and struck out “A dependent described in [section 1072(2)(F) of this title][/us/usc/t10/s1072/2/F] may be provided medical and dental care pursuant to clause (2) without regard to subclause (B) of such clause.” after “age 60.”
+    1996—Subsec. (b). [Pub. L. 104–106][/us/pl/104/106], § 703(b), as amended by [Pub. L. 105–85][/us/pl/105/85], § 1073(d)(1)(D), in concluding provisions, substituted “paragraph (2) may” for “clause (2) may” and struck out “A dependent described in [section 1072(2)(F) of this title][/us/usc/t10/s1072/2/F] may be provided medical and dental care pursuant to clause (2) without regard to subclause (B) of such clause.” after “age 60.”
 
-    Subsec. (b)(2). [Pub. L. 104–106, § 703(a)][/us/pl/104/106/s703/a], substituted “death would” for “death (A) would” and struck out “, and (B) had elected to participate in the Survivor Benefit Plan established under subchapter II of chapter 73 of this title” after “60 years of age”.
+    Subsec. (b)(2). [Pub. L. 104–106][/us/pl/104/106], § 703(a), substituted “death would” for “death (A) would” and struck out “, and (B) had elected to participate in the Survivor Benefit Plan established under subchapter II of chapter 73 of this title” after “60 years of age”.
 
-    [Pub. L. 104–106, § 1501(c)(11)][/us/pl/104/106/s1501/c/11], substituted “before December 1, 1994” for “before the effective date of the Reserve Officer Personnel Management Act” in subpar. (A).
+    [Pub. L. 104–106][/us/pl/104/106], § 1501(c)(11), substituted “before December 1, 1994” for “before the effective date of the Reserve Officer Personnel Management Act” in subpar. (A).
 
-    1994—Subsec. (b)(2)(A). [Pub. L. 103–337, § 1671(c)(7)(A)][/us/pl/103/337/s1671/c/7/A], substituted “under chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “under chapter 67 of this title”.
+    1994—Subsec. (b)(2)(A). [Pub. L. 103–337][/us/pl/103/337], § 1671(c)(7)(A), substituted “under chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “under chapter 67 of this title”.
 
-    Subsec. (e)(1). [Pub. L. 103–337, § 704(a)(1)][/us/pl/103/337/s704/a/1], added par. (1) and struck out former par. (1) which read as follows: “Subject to paragraph (3), if—
+    Subsec. (e)(1). [Pub. L. 103–337][/us/pl/103/337], § 704(a)(1), added par. (1) and struck out former par. (1) which read as follows: “Subject to paragraph (3), if—
 
     “(A) a member of a uniformed service receives a dishonorable or bad-conduct discharge or is dismissed from a uniformed service as a result of a court-martial conviction for an offense involving abuse of a dependent of the member, as determined in accordance with regulations prescribed by the administering Secretary for such uniformed service; and
 
@@ -257,15 +257,15 @@ Appropriate references are made to dental care throughout the section to reflect
 
     the administering Secretary may, upon request of the abused dependent, furnish medical or dental care to the dependent for the treatment of such injury or illness in facilities of the uniformed services.”
 
-    Subsec. (e)(2). [Pub. L. 103–337, § 704(b)(1)][/us/pl/103/337/s704/b/1], (2), inserted “former” before “member” and substituted “paragraph (4)” for “paragraph (1)(A)”.
+    Subsec. (e)(2). [Pub. L. 103–337][/us/pl/103/337], § 704(b)(1), (2), inserted “former” before “member” and substituted “paragraph (4)” for “paragraph (1)(A)”.
 
-    Subsec. (e)(3). [Pub. L. 103–337, § 704(b)(1)][/us/pl/103/337/s704/b/1], (3), inserted “former” before “member” in introductory provisions and in subpar. (C) and substituted “was” for “is” and “paragraph (4)” for “paragraph (1)(A)” in subpar. (C).
+    Subsec. (e)(3). [Pub. L. 103–337][/us/pl/103/337], § 704(b)(1), (3), inserted “former” before “member” in introductory provisions and in subpar. (C) and substituted “was” for “is” and “paragraph (4)” for “paragraph (1)(A)” in subpar. (C).
 
-    Subsec. (e)(4). [Pub. L. 103–337, § 704(a)(2)][/us/pl/103/337/s704/a/2], added par. (4).
+    Subsec. (e)(4). [Pub. L. 103–337][/us/pl/103/337], § 704(a)(2), added par. (4).
 
-    1989—Subsec. (e)(3)(C). [Pub. L. 101–189, § 653(a)(4)][/us/pl/101/189/s653/a/4], substituted “one year” for “1 year”.
+    1989—Subsec. (e)(3)(C). [Pub. L. 101–189][/us/pl/101/189], § 653(a)(4), substituted “one year” for “1 year”.
 
-    Subsec. (f). [Pub. L. 101–189, § 731(c)(1)][/us/pl/101/189/s731/c/1], struck out subsec. (f) which read as follows:
+    Subsec. (f). [Pub. L. 101–189][/us/pl/101/189], § 731(c)(1), struck out subsec. (f) which read as follows:
 
     “(1) A person described in paragraph (2) shall be considered a dependent for purposes of this section for a period of one year after the date of the person’s final decree of divorce, dissolution, or annulment. In addition, if such a person purchases a conversion health policy within the one-year period referred to in the preceding sentence, such person shall be entitled, upon request, to medical and dental care prescribed by [section 1077 of this title][/us/usc/t10/s1077] for a period of one year after the purchase of the policy for any condition of the person that existed on the date on which coverage under the policy begins and for which care is not provided under that policy.
 
@@ -275,9 +275,9 @@ Appropriate references are made to dental care throughout the section to reflect
 
     1988—Subsec. (f). [Pub. L. 100–456][/us/pl/100/456] added subsec. (f).
 
-    1986—Subsec. (a)(2)(B). [Pub. L. 99–661, § 604(f)(1)(C)][/us/pl/99/661/s604/f/1/C], inserted reference to disease.
+    1986—Subsec. (a)(2)(B). [Pub. L. 99–661][/us/pl/99/661], § 604(f)(1)(C), inserted reference to disease.
 
-    Subsec. (e). [Pub. L. 99–661, § 652(c)][/us/pl/99/661/s652/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 99–661][/us/pl/99/661], § 652(c), added subsec. (e).
 
     1985—Subsec. (a). [Pub. L. 99–145][/us/pl/99/145] amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A dependent of a member of a uniformed service who is on active duty for a period of more than 30 days, or of such a member who died while on that duty, is entitled, upon request, to the medical and dental care prescribed by [section 1077 of this title][/us/usc/t10/s1077] in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff.”
 
@@ -293,11 +293,11 @@ Appropriate references are made to dental care throughout the section to reflect
 
  __Effective Date of 1997 Amendment__ 
 
-    [Pub. L. 105–85, div. A, title X, § 1073(d)(1)][/us/pl/105/85/s1073/d/1], Nov. 18, 1997, [111 Stat. 1904][/us/stat/111/1904], provided that the amendment made by that section is effective Feb. 10, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1996, [Pub. L. 104–106][/us/pl/104/106], as enacted.
+    [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(d)(1), Nov. 18, 1997, [111 Stat. 1904][/us/stat/111/1904], provided that the amendment made by that section is effective Feb. 10, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1996, [Pub. L. 104–106][/us/pl/104/106], as enacted.
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–106, div. A, title XV, § 1501(c)][/us/pl/104/106/s1501/c], Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498], provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as originally enacted.
+    [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(c), Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498], provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as originally enacted.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -309,7 +309,7 @@ Appropriate references are made to dental care throughout the section to reflect
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–456, div. A, title VI, § 651(d)][/us/pl/100/456/s651/d], Sept. 29, 1988, [102 Stat. 1990][/us/stat/102/1990], provided that: 
+[Pub. L. 100–456, div. A, title VI][/us/pl/100/456/dA/tVI], § 651(d), Sept. 29, 1988, [102 Stat. 1990][/us/stat/102/1990], provided that: 
 
 > “[Section 1076(f) of title 10][/us/usc/t10/s1076/f], United States Code, as added by subsection (a), shall take effect on the date of enactment of this Act \[Sept. 29, 1988\] or 30 days after the Secretary of Defense first makes available a conversion health policy (as defined in such section), whichever is later. Such section shall apply to persons whose decree of divorce, dissolution, or annulment becomes final after the date of the enactment of this Act.”
 
@@ -317,13 +317,13 @@ Appropriate references are made to dental care throughout the section to reflect
 
     Amendment by [section 604 of Pub. L. 99–661][/us/pl/99/661/s604] applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see [section 604(g) of Pub. L. 99–661][/us/pl/99/661/s604/g], set out as a note under [section 1074a of this title][/us/usc/t10/s1074a].
 
-[Pub. L. 99–661, div. A, title VI, § 652(e)(3)][/us/pl/99/661/s652/e/3], Nov. 14, 1986, [100 Stat. 3890][/us/stat/100/3890], provided that: 
+[Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], § 652(e)(3), Nov. 14, 1986, [100 Stat. 3890][/us/stat/100/3890], provided that: 
 
 > “The amendment made by subsection (c) \[amending this section\] shall apply only with respect to dependents who request medical or dental care on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–145, title VI, § 652(c)][/us/pl/99/145/s652/c], Nov. 8, 1985, [99 Stat. 657][/us/stat/99/657], provided that: 
+[Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 652(c), Nov. 8, 1985, [99 Stat. 657][/us/stat/99/657], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1086 of this title][/us/usc/t10/s1086]\] shall apply only with respect to dependents of members of the uniformed services whose deaths occur after September 30, 1985.”
 
@@ -337,7 +337,7 @@ Appropriate references are made to dental care throughout the section to reflect
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–397, title III, § 302][/us/pl/95/397/s302], Sept. 30, 1978, [92 Stat. 849][/us/stat/92/849], provided that: 
+[Pub. L. 95–397, title III][/us/pl/95/397/tIII], § 302, Sept. 30, 1978, [92 Stat. 849][/us/stat/92/849], provided that: 
 
 > “The amendment made by section 301 \[amending this section\] shall become effective on October 1, 1978, or on the date of the enactment of this Act \[Sept. 30, 1978\], whichever is later.”
 
@@ -347,7 +347,7 @@ Appropriate references are made to dental care throughout the section to reflect
 
  __Stipend for Members of Reserve Components for Health Care for Certain Dependents__ 
 
-[Pub. L. 110–181, div. A, title VII, § 704][/us/pl/110/181/s704], Jan. 28, 2008, [122 Stat. 188][/us/stat/122/188], provided that: 
+[Pub. L. 110–181, div. A, title VII][/us/pl/110/181/dA/tVII], § 704, Jan. 28, 2008, [122 Stat. 188][/us/stat/122/188], provided that: 
 
 > “The Secretary of Defense may, pursuant to regulations prescribed by the Secretary, pay a stipend to a member of a reserve component of the Armed Forces who is called or ordered to active duty for a period of more than 30 days for purposes of maintaining civilian health care coverage for a dependant whom the Secretary determines to possess a special health care need that would be best met by remaining in the member’s civilian health plan. In making such determination, the Secretary shall consider whether—
 
@@ -357,7 +357,7 @@ Appropriate references are made to dental care throughout the section to reflect
 
  __Transitional Health Care for Members, or Dependents of Members, Upon Release of Member From Active Duty in Connection With Operation Desert Storm__ 
 
-[Pub. L. 102–25, title III, § 313][/us/pl/102/25/s313], Apr. 6, 1991, [105 Stat. 85][/us/stat/105/85], provided that:
+[Pub. L. 102–25, title III][/us/pl/102/25/tIII], § 313, Apr. 6, 1991, [105 Stat. 85][/us/stat/105/85], provided that:
 
 >     “(a)  __Health Care Provided__  __.—__ 
 
@@ -391,7 +391,7 @@ Appropriate references are made to dental care throughout the section to reflect
 
  __Dependent; Qualification As; Transition__ 
 
-[Pub. L. 100–456, div. A, title VI, § 651(c)][/us/pl/100/456/s651/c], Sept. 29, 1988, [102 Stat. 1990][/us/stat/102/1990], provided that: 
+[Pub. L. 100–456, div. A, title VI][/us/pl/100/456/dA/tVI], § 651(c), Sept. 29, 1988, [102 Stat. 1990][/us/stat/102/1990], provided that: 
 
 > “Any person who qualified as a dependent under section 645(c) of the Department of Defense Authorization Act, 1985 \[[Pub. L. 98–525][/us/pl/98/525], formerly set out as a note under [section 1072 of this title][/us/usc/t10/s1072]\], as in effect before its repeal by subsection (b), shall remain qualified as a dependent as specified in that section and shall become eligible for benefits in accordance with [section 1076(f) of title 10][/us/usc/t10/s1076/f], United States Code (as added by subsection (a)), when no longer qualified as a dependent pursuant to such section 645(c).”
 
@@ -409,39 +409,39 @@ Appropriate references are made to dental care throughout the section to reflect
 [/us/usc/t10/s1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1077
 [/us/usc/t10/s1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1059
 [/us/usc/t10/s1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1077
-[/us/pl/85/861/s1/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F25%2FB
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1447
-[/us/pl/89/614/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614%2Fs2%2F3
+[/us/pl/89/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614
 [/us/stat/80/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F862
-[/us/pl/95/397/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397%2Fs301
+[/us/pl/95/397/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397%2FtIII
 [/us/stat/92/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F849
-[/us/pl/96/513/s511/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F36
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2923
-[/us/pl/97/252/s1004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1004%2Fb
+[/us/pl/97/252/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtX
 [/us/stat/96/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F737
-[/us/pl/98/557/s19/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs19%2F5
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2869
-[/us/pl/99/145/s652/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs652%2Fa
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F656
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3877
-[/us/pl/100/456/s651/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs651%2Fa
+[/us/pl/100/456/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVI
 [/us/stat/102/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1990
-[/us/pl/101/189/s653/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs653%2Fa%2F4
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1462
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVII
 [/us/stat/108/2798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2798
-[/us/pl/104/106/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs703
+[/us/pl/104/106/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVII
 [/us/stat/110/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F372
-[/us/pl/105/85/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs513%2Fb
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1730
-[/us/pl/105/261/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs732
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2071
-[/us/pl/106/65/s578/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs578%2Fi%2F2
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F629
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs513%2Fa
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1093
 [/us/usc/t10/s1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1077
 [/us/usc/t50/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs901%2Fb
@@ -451,33 +451,33 @@ Appropriate references are made to dental care throughout the section to reflect
 [/us/pl/103/337/s1662/j/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fj%2F7
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F84
-[/us/pl/85/861/s36B/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs36B%2F5
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1570
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/106/65/s705/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs705%2Fc
-[/us/pl/106/65/s578/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs578%2Fi%2F2
-[/us/pl/105/261/s732/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs732%2F1
-[/us/pl/105/261/s732/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs732%2F2
-[/us/pl/105/85/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs513%2Fb
-[/us/pl/105/85/s1073/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fd%2F1%2FD
-[/us/pl/104/106/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs703%2Fb
-[/us/pl/104/106/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs703%2Fb
-[/us/pl/105/85/s1073/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fd%2F1%2FD
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/usc/t10/s1072/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2%2FF
-[/us/pl/104/106/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs703%2Fa
-[/us/pl/104/106/s1501/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc%2F11
-[/us/pl/103/337/s1671/c/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1671%2Fc%2F7%2FA
-[/us/pl/103/337/s704/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs704%2Fa%2F1
-[/us/pl/103/337/s704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs704%2Fb%2F1
-[/us/pl/103/337/s704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs704%2Fb%2F1
-[/us/pl/103/337/s704/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs704%2Fa%2F2
-[/us/pl/101/189/s653/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs653%2Fa%2F4
-[/us/pl/101/189/s731/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs731%2Fc%2F1
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t10/s1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1077
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
-[/us/pl/99/661/s604/f/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs604%2Ff%2F1%2FC
-[/us/pl/99/661/s652/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs652%2Fc
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/usc/t10/s1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1077
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
@@ -487,10 +487,10 @@ Appropriate references are made to dental care throughout the section to reflect
 [/us/pl/95/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397
 [/us/usc/t10/s1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1077
 [/us/pl/89/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614
-[/us/pl/105/85/s1073/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fd%2F1
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1904
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/104/106/s1501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F498
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1671/c/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1671%2Fc%2F7%2FA
@@ -500,15 +500,15 @@ Appropriate references are made to dental care throughout the section to reflect
 [/us/usc/t10/s1072/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2%2FH
 [/us/pl/101/189/s731/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs731%2Fd
 [/us/usc/t10/s1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072
-[/us/pl/100/456/s651/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs651%2Fd
+[/us/pl/100/456/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVI
 [/us/stat/102/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1990
 [/us/usc/t10/s1076/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076%2Ff
 [/us/pl/99/661/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs604
 [/us/pl/99/661/s604/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs604%2Fg
 [/us/usc/t10/s1074a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074a
-[/us/pl/99/661/s652/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs652%2Fe%2F3
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3890
-[/us/pl/99/145/s652/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs652%2Fc
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F657
 [/us/usc/t10/s1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1086
 [/us/pl/97/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252
@@ -517,18 +517,18 @@ Appropriate references are made to dental care throughout the section to reflect
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/95/397/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397%2Fs302
+[/us/pl/95/397/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397%2FtIII
 [/us/stat/92/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F849
 [/us/pl/89/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614
 [/us/pl/89/614/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614%2Fs3
 [/us/usc/t10/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1071
-[/us/pl/110/181/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs704
+[/us/pl/110/181/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVII
 [/us/stat/122/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F188
-[/us/pl/102/25/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs313
+[/us/pl/102/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtIII
 [/us/stat/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F85
 [/us/usc/t10/s1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076
 [/us/usc/t10/s1072/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2
-[/us/pl/100/456/s651/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs651%2Fc
+[/us/pl/100/456/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVI
 [/us/stat/102/1990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1990
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/usc/t10/s1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072

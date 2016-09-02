@@ -41,7 +41,7 @@
 
     The Chairman, while so serving, holds the grade of general or, in the case of an officer of the Navy, admiral and outranks all other officers of the armed forces. However, he may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
 
-(Added [Pub. L. 99–433, title II, § 201][/us/pl/99/433/s201], Oct. 1, 1986, [100 Stat. 1006][/us/stat/100/1006]; amended [Pub. L. 100–180, div. A, title XIII, § 1314(b)(1)(A)][/us/pl/100/180/s1314/b/1/A], Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175].)
+(Added [Pub. L. 99–433, title II][/us/pl/99/433/tII], § 201, Oct. 1, 1986, [100 Stat. 1006][/us/stat/100/1006]; amended [Pub. L. 100–180, div. A, title XIII][/us/pl/100/180/dA/tXIII], § 1314(b)(1)(A), Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/99/433/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs201
+[/us/pl/99/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtII
 [/us/stat/100/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1006
-[/us/pl/100/180/s1314/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fb%2F1%2FA
+[/us/pl/100/180/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXIII
 [/us/stat/101/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1175
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 

@@ -59,9 +59,9 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–337, div. A, title IV, § 405(c)(2)][/us/pl/103/337/s405/c/2], Oct. 5, 1994, [108 Stat. 2745][/us/stat/108/2745], added item 604.
+    1994—[Pub. L. 103–337, div. A, title IV][/us/pl/103/337/dA/tIV], § 405(c)(2), Oct. 5, 1994, [108 Stat. 2745][/us/stat/108/2745], added item 604.
 
-    1991—[Pub. L. 102–190, div. A, title XI, § 1113(d)(1)(B)][/us/pl/102/190/s1113/d/1/B], Dec. 5, 1991, [105 Stat. 1502][/us/stat/105/1502], struck out item 602 “Warrant officers: temporary promotions” and substituted “Appointments in time of war or national emergency” for “Commissioned officer grades: time of war or national emergency” in item 603.
+    1991—[Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1113(d)(1)(B), Dec. 5, 1991, [105 Stat. 1502][/us/stat/105/1502], struck out item 602 “Warrant officers: temporary promotions” and substituted “Appointments in time of war or national emergency” for “Commissioned officer grades: time of war or national emergency” in item 603.
 
 ----------
 
@@ -70,9 +70,9 @@
 ----------
 ----------
 
-[/us/pl/103/337/s405/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs405%2Fc%2F2
+[/us/pl/103/337/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIV
 [/us/stat/108/2745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2745
-[/us/pl/102/190/s1113/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1113%2Fd%2F1%2FB
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1502
 
 

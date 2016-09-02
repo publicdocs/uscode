@@ -17,15 +17,15 @@
 
     The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall develop fulfillment standards, and implement and maintain a program, for purposes of the training requirements of sections 1723, 1724, and 1735 of this title. Such fulfillment standards shall consist of criteria for determining whether an individual has demonstrated competence in the areas that would be taught in the training courses required under those sections. If an individual meets the appropriate fulfillment standard, the applicable training requirement is fulfilled.
 
-(Added [Pub. L. 111–383, div. A, title VIII, § 874(b)(1)][/us/pl/111/383/s874/b/1], Jan. 7, 2011, [124 Stat. 4304][/us/stat/124/4304].)
+(Added [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 874(b)(1), Jan. 7, 2011, [124 Stat. 4304][/us/stat/124/4304].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [Pub. L. 105–85, div. A, title VIII, § 853][/us/pl/105/85/s853], Nov. 18, 1997, [111 Stat. 1851][/us/stat/111/1851], which was set out as a note under [section 1723 of this title][/us/usc/t10/s1723], prior to repeal by [Pub. L. 111–383, § 874(b)(4)][/us/pl/111/383/s874/b/4].
+    Provisions similar to those in this section were contained in [Pub. L. 105–85, div. A, title VIII][/us/pl/105/85/dA/tVIII], § 853, Nov. 18, 1997, [111 Stat. 1851][/us/stat/111/1851], which was set out as a note under [section 1723 of this title][/us/usc/t10/s1723], prior to repeal by [Pub. L. 111–383][/us/pl/111/383], § 874(b)(4).
 
  __Deadline for Fulfillment Standards__ 
 
-[Pub. L. 111–383, div. A, title VIII, § 874(b)(3)][/us/pl/111/383/s874/b/3], Jan. 7, 2011, [124 Stat. 4305][/us/stat/124/4305], provided that: 
+[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 874(b)(3), Jan. 7, 2011, [124 Stat. 4305][/us/stat/124/4305], provided that: 
 
 > “The fulfillment standards required under [section 1748 of title 10][/us/usc/t10/s1748], United States Code, as added by paragraph (1), shall be developed not later than 270 days after the date of the enactment of this Act \[Jan. 7, 2011\].”
 
@@ -36,13 +36,13 @@
 ----------
 ----------
 
-[/us/pl/111/383/s874/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs874%2Fb%2F1
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4304
-[/us/pl/105/85/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs853
+[/us/pl/105/85/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVIII
 [/us/stat/111/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1851
 [/us/usc/t10/s1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1723
-[/us/pl/111/383/s874/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs874%2Fb%2F4
-[/us/pl/111/383/s874/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs874%2Fb%2F3
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4305
 [/us/usc/t10/s1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1748
 

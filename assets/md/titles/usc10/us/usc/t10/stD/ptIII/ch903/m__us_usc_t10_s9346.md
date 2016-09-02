@@ -23,7 +23,7 @@
 
     (d) To be admitted to the Academy, an appointee must take and subscribe to an oath prescribed by the Secretary of the Air Force. If a candidate for admission refuses to take and subscribe to the prescribed oath, his appointment is terminated.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 565][/us/stat/70A/565]; [Pub. L. 89–718, § 47][/us/pl/89/718/s47], Nov. 2, 1966, [80 Stat. 1121][/us/stat/80/1121]; [Pub. L. 104–201, div. A, title V, § 555(d)][/us/pl/104/201/s555/d], Sept. 23, 1996, [110 Stat. 2527][/us/stat/110/2527].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 565][/us/stat/70A/565]; [Pub. L. 89–718][/us/pl/89/718], § 47, Nov. 2, 1966, [80 Stat. 1121][/us/stat/80/1121]; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 555(d), Sept. 23, 1996, [110 Stat. 2527][/us/stat/110/2527].)
 
 <table>
 
@@ -134,9 +134,9 @@ Aug. 9, 1912, ch. 275 (2d proviso under “Permanent Establishment”), 37 Stat.
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F565
-[/us/pl/89/718/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs47
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1121
-[/us/pl/104/201/s555/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs555%2Fd
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2527
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718

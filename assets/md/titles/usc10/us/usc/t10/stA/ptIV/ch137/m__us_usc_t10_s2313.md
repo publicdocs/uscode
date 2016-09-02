@@ -93,7 +93,7 @@
 
     In this section, the term “records” includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 132][/us/stat/70A/132]; [Pub. L. 89–607, § 1(2)][/us/pl/89/607/s1/2], Sept. 27, 1966, [80 Stat. 850][/us/stat/80/850]; [Pub. L. 98–369, div. B, title VII, § 2727(c)][/us/pl/98/369/s2727/c], July 18, 1984, [98 Stat. 1195][/us/stat/98/1195]; [Pub. L. 99–145, title IX, § 935][/us/pl/99/145/s935], Nov. 8, 1985, [99 Stat. 700][/us/stat/99/700]; [Pub. L. 100–26, § 7(g)(1)][/us/pl/100/26/s7/g/1], Apr. 21, 1987, [101 Stat. 282][/us/stat/101/282]; [Pub. L. 101–510, div. A, title XIII, § 1301(9)][/us/pl/101/510/s1301/9], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 103–355, title II, § 2201(a)(1)][/us/pl/103/355/s2201/a/1], title IV, § 4102(c), Oct. 13, 1994, [108 Stat. 3316][/us/stat/108/3316], 3340; [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)][/us/pl/104/106/s1502/a/1], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 104–201, div. A, title VIII, § 808(a)][/us/pl/104/201/s808/a], Sept. 23, 1996, [110 Stat. 2607][/us/stat/110/2607]; [Pub. L. 106–65, div. A, title X, § 1032(a)(2)][/us/pl/106/65/s1032/a/2], Oct. 5, 1999, [113 Stat. 751][/us/stat/113/751]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 871(b), Oct. 14, 2008, [122 Stat. 4555][/us/stat/122/4555].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 132][/us/stat/70A/132]; [Pub. L. 89–607][/us/pl/89/607], § 1(2), Sept. 27, 1966, [80 Stat. 850][/us/stat/80/850]; [Pub. L. 98–369, div. B, title VII][/us/pl/98/369/dB/tVII], § 2727(c), July 18, 1984, [98 Stat. 1195][/us/stat/98/1195]; [Pub. L. 99–145, title IX][/us/pl/99/145/tIX], § 935, Nov. 8, 1985, [99 Stat. 700][/us/stat/99/700]; [Pub. L. 100–26][/us/pl/100/26], § 7(g)(1), Apr. 21, 1987, [101 Stat. 282][/us/stat/101/282]; [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1301(9), Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 103–355, title II][/us/pl/103/355/tII], § 2201(a)(1), title IV, § 4102(c), Oct. 13, 1994, [108 Stat. 3316][/us/stat/108/3316], 3340; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1502(a)(1), Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 104–201, div. A, title VIII][/us/pl/104/201/dA/tVIII], § 808(a), Sept. 23, 1996, [110 Stat. 2607][/us/stat/110/2607]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1032(a)(2), Oct. 5, 1999, [113 Stat. 751][/us/stat/113/751]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 871(b), Oct. 14, 2008, [122 Stat. 4555][/us/stat/122/4555].)
 
 <table>
 
@@ -169,9 +169,9 @@ Feb. 19, 1948, ch. 65, § 4(c); added Oct. 31, 1951, ch. 652 (as applicable to
 
     Subsec. (d). [Pub. L. 104–201][/us/pl/104/201] amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Limitation on Preaward Audits Relating to Indirect Costs.—The head of an agency may not perform a preaward audit to evaluate proposed indirect costs under any contract, subcontract, or modification to be entered into in accordance with this chapter in any case in which the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit conducted by any other department or agency of the Federal Government within one year preceding the date of the contracting officer’s determination.”
 
-    1994—[Pub. L. 103–355, § 2201(a)(1)][/us/pl/103/355/s2201/a/1], amended section generally, striking out “of books” before “and records” in section catchline, and substituting subsecs. (a) to (i) for former subsecs. (a) to (d).
+    1994—[Pub. L. 103–355][/us/pl/103/355], § 2201(a)(1), amended section generally, striking out “of books” before “and records” in section catchline, and substituting subsecs. (a) to (i) for former subsecs. (a) to (d).
 
-    Subsec. (f)(2). [Pub. L. 103–355, § 4102(c)][/us/pl/103/355/s4102/c], added par. (2).
+    Subsec. (f)(2). [Pub. L. 103–355][/us/pl/103/355], § 4102(c), added par. (2).
 
     1990—Subsec. (c). [Pub. L. 101–510][/us/pl/101/510] struck out after cl. (2) “If subsection (b) is not applied to a contract or subcontract based on a determination under clause (2), a written report shall be furnished to the Congress.”
 
@@ -181,9 +181,9 @@ Feb. 19, 1948, ch. 65, § 4(c); added Oct. 31, 1951, ch. 652 (as applicable to
 
     1984—Subsec. (b). [Pub. L. 98–369][/us/pl/98/369] substituted “awarded after using procedures other than sealed bid procedures” for “negotiated under this chapter”.
 
-    1966—Subsec. (b). [Pub. L. 89–607, § 1(2)(A)][/us/pl/89/607/s1/2/A], substituted “Except as provided in subsection (c), each” for “Each”.
+    1966—Subsec. (b). [Pub. L. 89–607][/us/pl/89/607], § 1(2)(A), substituted “Except as provided in subsection (c), each” for “Each”.
 
-    Subsec. (c). [Pub. L. 89–607, § 1(2)(B)][/us/pl/89/607/s1/2/B], added subsec. (c).
+    Subsec. (c). [Pub. L. 89–607][/us/pl/89/607], § 1(2)(B), added subsec. (c).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -199,7 +199,7 @@ Feb. 19, 1948, ch. 65, § 4(c); added Oct. 31, 1951, ch. 652 (as applicable to
 
  __Improved Auditing of Contracts__ 
 
-[Pub. L. 114–92, div. A, title VIII, § 893][/us/pl/114/92/s893], Nov. 25, 2015, [129 Stat. 952][/us/stat/129/952], provided that:
+[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 893, Nov. 25, 2015, [129 Stat. 952][/us/stat/129/952], provided that:
 
 >     “(a) __Prohibition on Performance of Non-defense Audits by DCAA.—__ 
 
@@ -253,7 +253,7 @@ Feb. 19, 1948, ch. 65, § 4(c); added Oct. 31, 1951, ch. 652 (as applicable to
 
  __Department of Defense Access to, Use of, and Safeguards and Protections for Contractor Internal Audit Reports__ 
 
-[Pub. L. 112–239, div. A, title VIII, § 832][/us/pl/112/239/s832], Jan. 2, 2013, [126 Stat. 1844][/us/stat/126/1844], provided that:
+[Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 832, Jan. 2, 2013, [126 Stat. 1844][/us/stat/126/1844], provided that:
 
 >     “(a)  __Revised Guidance Required__  __.—__ 
 
@@ -283,7 +283,7 @@ Feb. 19, 1948, ch. 65, § 4(c); added Oct. 31, 1951, ch. 652 (as applicable to
 
  __Additional Access to Contractor and Subcontractor Records in the United States Central Command Theater of Operations__ 
 
-[Pub. L. 112–81, div. A, title VIII, § 842][/us/pl/112/81/s842], Dec. 31, 2011, [125 Stat. 1513][/us/stat/125/1513], as amended by [Pub. L. 113–291, div. A, title VIII, § 842(c)(2)][/us/pl/113/291/s842/c/2], Dec. 19, 2014, [128 Stat. 3456][/us/stat/128/3456], provided that:
+[Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 842, Dec. 31, 2011, [125 Stat. 1513][/us/stat/125/1513], as amended by [Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 842(c)(2), Dec. 19, 2014, [128 Stat. 3456][/us/stat/128/3456], provided that:
 
 >     “(a) __Department of Defense Contracts, Grants, and Cooperative Agreements.—__ 
 
@@ -351,23 +351,23 @@ Feb. 19, 1948, ch. 65, § 4(c); added Oct. 31, 1951, ch. 652 (as applicable to
 [/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F132
-[/us/pl/89/607/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F607%2Fs1%2F2
+[/us/pl/89/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F607
 [/us/stat/80/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F850
-[/us/pl/98/369/s2727/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2727%2Fc
+[/us/pl/98/369/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVII
 [/us/stat/98/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1195
-[/us/pl/99/145/s935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs935
+[/us/pl/99/145/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtIX
 [/us/stat/99/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F700
-[/us/pl/100/26/s7/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fg%2F1
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F282
-[/us/pl/101/510/s1301/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1301%2F9
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1668
-[/us/pl/103/355/s2201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2201%2Fa%2F1
+[/us/pl/103/355/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtII
 [/us/stat/108/3316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3316
-[/us/pl/104/106/s1502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F1
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F502
-[/us/pl/104/201/s808/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs808%2Fa
+[/us/pl/104/201/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVIII
 [/us/stat/110/2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2607
-[/us/pl/106/65/s1032/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1032%2Fa%2F2
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F751
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4555
@@ -376,14 +376,14 @@ Feb. 19, 1948, ch. 65, § 4(c); added Oct. 31, 1951, ch. 652 (as applicable to
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/103/355/s2201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2201%2Fa%2F1
-[/us/pl/103/355/s4102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs4102%2Fc
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/89/607/s1/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F607%2Fs1%2F2%2FA
-[/us/pl/89/607/s1/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F607%2Fs1%2F2%2FB
+[/us/pl/89/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F607
+[/us/pl/89/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F607
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/103/355/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10001
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
@@ -392,16 +392,16 @@ Feb. 19, 1948, ch. 65, § 4(c); added Oct. 31, 1951, ch. 652 (as applicable to
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
 [/us/pl/114/92/s873/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs873%2Fb
 [/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
-[/us/pl/114/92/s893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs893
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F952
 [/us/usc/t10/s2313a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2313a
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/usc/t15/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7201
-[/us/pl/112/239/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs832
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1844
-[/us/pl/112/81/s842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs842
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1513
-[/us/pl/113/291/s842/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs842%2Fc%2F2
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3456
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
 [/us/usc/t22/s2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2393

@@ -91,7 +91,7 @@
 
     A Reserve on active duty as described in subsection (a) may be provided training consistent with training provided to other members on active duty, as the Secretary concerned sees fit.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 30][/us/stat/70A/30], § 678; renumbered § 12310 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337], §§ 1662(e)(2), 1675(c)(7), Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992], 3017; [Pub. L. 104–201, div. A, title V, § 541][/us/pl/104/201/s541], Sept. 23, 1996, [110 Stat. 2521][/us/stat/110/2521]; [Pub. L. 105–261, div. A, title V, § 511(b)(1)][/us/pl/105/261/s511/b/1], Oct. 17, 1998, [112 Stat. 2006][/us/stat/112/2006]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65], §§ 555(a), (b), 556, title X, § 1067(1), Oct. 5, 1999, [113 Stat. 617–619][/us/stat/113/617-619], 774; [Pub. L. 107–314, div. A, title V, § 514(b)][/us/pl/107/314/s514/b], title IX, § 933, Dec. 2, 2002, [116 Stat. 2539][/us/stat/116/2539], 2626; [Pub. L. 109–364, div. A, title V][/us/pl/109/364], §§ 525(a), 527, Oct. 17, 2006, [120 Stat. 2193][/us/stat/120/2193], 2196; [Pub. L. 111–84, div. A, title X, § 1073(a)(34)][/us/pl/111/84/s1073/a/34], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 30][/us/stat/70A/30], § 678; renumbered § 12310 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], §§ 1662(e)(2), 1675(c)(7), Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992], 3017; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 541, Sept. 23, 1996, [110 Stat. 2521][/us/stat/110/2521]; [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 511(b)(1), Oct. 17, 1998, [112 Stat. 2006][/us/stat/112/2006]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], §§ 555(a), (b), 556, title X, § 1067(1), Oct. 5, 1999, [113 Stat. 617–619][/us/stat/113/617-619], 774; [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 514(b), title IX, § 933, Dec. 2, 2002, [116 Stat. 2539][/us/stat/116/2539], 2626; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], §§ 525(a), 527, Oct. 17, 2006, [120 Stat. 2193][/us/stat/120/2193], 2196; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(34), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474].)
 
 <table>
 
@@ -149,29 +149,29 @@ July 9, 1952, ch. 608, § 234, (less 1st sentence), 66 Stat. 490.  </td>
 
     2009—Subsec. (c)(1)(A). [Pub. L. 111–84][/us/pl/111/84] substituted “section 1403 of the Defense Against Weapons of Mass Destruction Act of 1996 ([50 U.S.C. 2302(1)][/us/usc/t50/s2302/1])” for “[section 12304(i)(2) of this title][/us/usc/t10/s12304/i/2]”.
 
-    2006—Subsecs. (a), (b). [Pub. L. 109–364, § 525(a)][/us/pl/109/364/s525/a], amended subsecs. (a) and (b) generally, substituting provisions relating to authority of the Secretary concerned to order a member of a reserve component to active duty and setting forth duties including supporting operations or missions, providing advice regarding reserve component matters, and providing instruction or training of active-duty members of the armed forces or foreign military forces and Department of Defense contractor personnel or civilian employees, for provisions relating to grade when a Reserve is ordered to active duty and setting forth duties including supporting operations or missions and providing advice regarding reserve component matters.
+    2006—Subsecs. (a), (b). [Pub. L. 109–364][/us/pl/109/364], § 525(a), amended subsecs. (a) and (b) generally, substituting provisions relating to authority of the Secretary concerned to order a member of a reserve component to active duty and setting forth duties including supporting operations or missions, providing advice regarding reserve component matters, and providing instruction or training of active-duty members of the armed forces or foreign military forces and Department of Defense contractor personnel or civilian employees, for provisions relating to grade when a Reserve is ordered to active duty and setting forth duties including supporting operations or missions and providing advice regarding reserve component matters.
 
-    Subsec. (c). [Pub. L. 109–364, § 527(b)(1)][/us/pl/109/364/s527/b/1], substituted “Operations Relating to Defense Against Weapons of Mass Destruction and Terrorist Attacks” for “Duties Relating to Defense Against Weapons of Mass Destruction” in heading.
+    Subsec. (c). [Pub. L. 109–364][/us/pl/109/364], § 527(b)(1), substituted “Operations Relating to Defense Against Weapons of Mass Destruction and Terrorist Attacks” for “Duties Relating to Defense Against Weapons of Mass Destruction” in heading.
 
-    Subsec. (c)(1). [Pub. L. 109–364, § 527(a)(1)(A)][/us/pl/109/364/s527/a/1/A], substituted “involving any of the following:” for “involving—” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 109–364][/us/pl/109/364], § 527(a)(1)(A), substituted “involving any of the following:” for “involving—” in introductory provisions.
 
-    Subsec. (c)(1)(A) to (D). [Pub. L. 109–364, § 527(a)(1)(B)][/us/pl/109/364/s527/a/1/B], added subpars. (A) to (D) and struck out former subpars. (A) and (B) which read as follows:
+    Subsec. (c)(1)(A) to (D). [Pub. L. 109–364][/us/pl/109/364], § 527(a)(1)(B), added subpars. (A) to (D) and struck out former subpars. (A) and (B) which read as follows:
 
     “(A) the use of a weapon of mass destruction (as defined in [section 12304(i)(2) of this title][/us/usc/t10/s12304/i/2]); or
 
     “(B) a terrorist attack or threatened terrorist attack in the United States that results, or could result, in catastrophic loss of life or property.”
 
-    Subsec. (c)(3). [Pub. L. 109–364, § 527(a)(2)][/us/pl/109/364/s527/a/2], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A Reserve may perform duties described in paragraph (1) only while assigned to a reserve component rapid assessment element team and performing those duties within the geographical limits of the United States, its territories and possessions, the District of Columbia, and the Commonwealth of Puerto Rico.”
+    Subsec. (c)(3). [Pub. L. 109–364][/us/pl/109/364], § 527(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A Reserve may perform duties described in paragraph (1) only while assigned to a reserve component rapid assessment element team and performing those duties within the geographical limits of the United States, its territories and possessions, the District of Columbia, and the Commonwealth of Puerto Rico.”
 
-    Subsec. (c)(5). [Pub. L. 109–364, § 527(b)(2)][/us/pl/109/364/s527/b/2], substituted “weapons of mass destruction civil support team” for “rapid assessment element team”.
+    Subsec. (c)(5). [Pub. L. 109–364][/us/pl/109/364], § 527(b)(2), substituted “weapons of mass destruction civil support team” for “rapid assessment element team”.
 
-    Subsec. (c)(6). [Pub. L. 109–364, § 527(b)(3)(A)][/us/pl/109/364/s527/b/3/A], substituted “paragraphs (1) and (3)” for “paragraph (3)” in introductory provisions.
+    Subsec. (c)(6). [Pub. L. 109–364][/us/pl/109/364], § 527(b)(3)(A), substituted “paragraphs (1) and (3)” for “paragraph (3)” in introductory provisions.
 
-    Subsec. (c)(6)(B). [Pub. L. 109–364, § 527(b)(3)(B)][/us/pl/109/364/s527/b/3/B], substituted “(3)” for “(3)(B)”.
+    Subsec. (c)(6)(B). [Pub. L. 109–364][/us/pl/109/364], § 527(b)(3)(B), substituted “(3)” for “(3)(B)”.
 
-    Subsec. (c)(7). [Pub. L. 109–364, § 527(a)(3)][/us/pl/109/364/s527/a/3], added par. (7).
+    Subsec. (c)(7). [Pub. L. 109–364][/us/pl/109/364], § 527(a)(3), added par. (7).
 
-    2002—Subsec. (c)(1). [Pub. L. 107–314, § 514(b)][/us/pl/107/314/s514/b], substituted “involving—
+    2002—Subsec. (c)(1). [Pub. L. 107–314][/us/pl/107/314], § 514(b), substituted “involving—
 
     “(A) the use of a weapon of mass destruction (as defined in [section 12304(i)(2) of this title][/us/usc/t10/s12304/i/2]); or
 
@@ -179,35 +179,35 @@ July 9, 1952, ch. 608, § 234, (less 1st sentence), 66 Stat. 490.  </td>
 
     for “involving the use of a weapon of mass destruction (as defined in section 1403 of the Defense Against Weapons of Mass Destruction Act of 1996 ([50 U.S.C. 2302(1)][/us/usc/t50/s2302/1])).”
 
-    Subsec. (c)(3). [Pub. L. 107–314, § 933][/us/pl/107/314/s933], substituted “only while assigned” for “only—
+    Subsec. (c)(3). [Pub. L. 107–314][/us/pl/107/314], § 933, substituted “only while assigned” for “only—
 
     “(A) while assigned to the Department of Defense Consequence Management Program Integration Office; or
 
     “(B) while assigned”.
 
-    1999—Subsec. (a). [Pub. L. 106–65, § 555(b)(1)][/us/pl/106/65/s555/b/1], inserted heading.
+    1999—Subsec. (a). [Pub. L. 106–65][/us/pl/106/65], § 555(b)(1), inserted heading.
 
-    Subsec. (b). [Pub. L. 106–65, § 555(a)(2)][/us/pl/106/65/s555/a/2], added subsec. (b). Former subsec. (b) redesignated (d).
+    Subsec. (b). [Pub. L. 106–65][/us/pl/106/65], § 555(a)(2), added subsec. (b). Former subsec. (b) redesignated (d).
 
-    Subsec. (c). [Pub. L. 106–65, § 555(b)(2)][/us/pl/106/65/s555/b/2], inserted heading.
+    Subsec. (c). [Pub. L. 106–65][/us/pl/106/65], § 555(b)(2), inserted heading.
 
-    Subsec. (c)(1). [Pub. L. 106–65, § 555(b)(2)][/us/pl/106/65/s555/b/2], substituted “Notwithstanding subsection (b), a Reserve” for “A Reserve”.
+    Subsec. (c)(1). [Pub. L. 106–65][/us/pl/106/65], § 555(b)(2), substituted “Notwithstanding subsection (b), a Reserve” for “A Reserve”.
 
-    Subsec. (c)(4). [Pub. L. 106–65, § 556(a)][/us/pl/106/65/s556/a], struck out first sentence which read as follows: “The number of Reserves on active duty who are performing duties described in paragraph (1) at the same time may not exceed 228.”
+    Subsec. (c)(4). [Pub. L. 106–65][/us/pl/106/65], § 556(a), struck out first sentence which read as follows: “The number of Reserves on active duty who are performing duties described in paragraph (1) at the same time may not exceed 228.”
 
-    Subsec. (c)(5). [Pub. L. 106–65, § 1067(1)][/us/pl/106/65/s1067/1], substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+    Subsec. (c)(5). [Pub. L. 106–65][/us/pl/106/65], § 1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-    Subsec. (c)(6). [Pub. L. 106–65, § 556(b)][/us/pl/106/65/s556/b], struck out “or to increase the number of personnel authorized by paragraph (4)” after “requirements of paragraph (3)” in introductory provisions and “or for the requested additional personnel and explain the need for the increase in the context of existing or projected similar capabilities at the local, State, and Federal levels” after “modification” in subpar. (A).
+    Subsec. (c)(6). [Pub. L. 106–65][/us/pl/106/65], § 556(b), struck out “or to increase the number of personnel authorized by paragraph (4)” after “requirements of paragraph (3)” in introductory provisions and “or for the requested additional personnel and explain the need for the increase in the context of existing or projected similar capabilities at the local, State, and Federal levels” after “modification” in subpar. (A).
 
-    Subsec. (d). [Pub. L. 106–65, § 555(a)(1)][/us/pl/106/65/s555/a/1], (b)(3), redesignated subsec. (b) as (d) and inserted heading.
+    Subsec. (d). [Pub. L. 106–65][/us/pl/106/65], § 555(a)(1), (b)(3), redesignated subsec. (b) as (d) and inserted heading.
 
     1998—Subsec. (c). [Pub. L. 105–261][/us/pl/105/261] added subsec. (c).
 
     1996—Subsec. (b). [Pub. L. 104–201][/us/pl/104/201] amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “To assure that a Reserve on duty under subsection (a) receives periodic refresher training in the categories for which he is qualified, the Secretary concerned may detail him to duty with any armed force, or otherwise as the Secretary sees fit.”
 
-    1994—[Pub. L. 103–337, § 1662(e)(2)][/us/pl/103/337/s1662/e/2], renumbered [section 678 of this title][/us/usc/t10/s678] as this section.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 1662(e)(2), renumbered [section 678 of this title][/us/usc/t10/s678] as this section.
 
-    Subsec. (a). [Pub. L. 103–337, § 1675(c)(7)][/us/pl/103/337/s1675/c/7], substituted “12301(d)” for “672(d)”.
+    Subsec. (a). [Pub. L. 103–337][/us/pl/103/337], § 1675(c)(7), substituted “12301(d)” for “672(d)”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -215,7 +215,7 @@ July 9, 1952, ch. 608, § 234, (less 1st sentence), 66 Stat. 490.  </td>
 
  __Additional Weapons of Mass Destruction Civil Support Teams__ 
 
-[Pub. L. 107–314, div. A, title XIV, § 1403][/us/pl/107/314/s1403], Dec. 2, 2002, [116 Stat. 2676][/us/stat/116/2676], as amended by [Pub. L. 112–239, div. A, title XIV, § 1435(a)][/us/pl/112/239/s1435/a], Jan. 2, 2013, [126 Stat. 2051][/us/stat/126/2051], provided that:
+[Pub. L. 107–314, div. A, title XIV][/us/pl/107/314/dA/tXIV], § 1403, Dec. 2, 2002, [116 Stat. 2676][/us/stat/116/2676], as amended by [Pub. L. 112–239, div. A, title XIV][/us/pl/112/239/dA/tXIV], § 1435(a), Jan. 2, 2013, [126 Stat. 2051][/us/stat/126/2051], provided that:
 
 >     “(a)  __Establishment of Additional Teams__  __.—__ 
 
@@ -265,57 +265,57 @@ July 9, 1952, ch. 608, § 234, (less 1st sentence), 66 Stat. 490.  </td>
 [/us/usc/t50/s2302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2302%2F1
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F30
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2992
-[/us/pl/104/201/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs541
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2521
-[/us/pl/105/261/s511/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs511%2Fb%2F1
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2006
-[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/617-619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F617-619
-[/us/pl/107/314/s514/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs514%2Fb
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2539
-[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2193
-[/us/pl/111/84/s1073/a/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F34
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
 [/us/usc/t10/s672/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs672%2Fd
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/usc/t50/s2302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2302%2F1
 [/us/usc/t10/s12304/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12304%2Fi%2F2
-[/us/pl/109/364/s525/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs525%2Fa
-[/us/pl/109/364/s527/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs527%2Fb%2F1
-[/us/pl/109/364/s527/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs527%2Fa%2F1%2FA
-[/us/pl/109/364/s527/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs527%2Fa%2F1%2FB
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s12304/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12304%2Fi%2F2
-[/us/pl/109/364/s527/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs527%2Fa%2F2
-[/us/pl/109/364/s527/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs527%2Fb%2F2
-[/us/pl/109/364/s527/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs527%2Fb%2F3%2FA
-[/us/pl/109/364/s527/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs527%2Fb%2F3%2FB
-[/us/pl/109/364/s527/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs527%2Fa%2F3
-[/us/pl/107/314/s514/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs514%2Fb
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/usc/t10/s12304/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12304%2Fi%2F2
 [/us/usc/t50/s2302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2302%2F1
-[/us/pl/107/314/s933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs933
-[/us/pl/106/65/s555/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs555%2Fb%2F1
-[/us/pl/106/65/s555/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs555%2Fa%2F2
-[/us/pl/106/65/s555/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs555%2Fb%2F2
-[/us/pl/106/65/s555/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs555%2Fb%2F2
-[/us/pl/106/65/s556/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs556%2Fa
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
-[/us/pl/106/65/s556/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs556%2Fb
-[/us/pl/106/65/s555/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs555%2Fa%2F1
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/103/337/s1662/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fe%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs678
-[/us/pl/103/337/s1675/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1675%2Fc%2F7
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
-[/us/pl/107/314/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1403
+[/us/pl/107/314/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtXIV
 [/us/stat/116/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2676
-[/us/pl/112/239/s1435/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1435%2Fa
+[/us/pl/112/239/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXIV
 [/us/stat/126/2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2051
 [/us/usc/t10/s12310/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12310%2Fc%2F5
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239

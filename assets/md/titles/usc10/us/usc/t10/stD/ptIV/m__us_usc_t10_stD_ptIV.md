@@ -151,9 +151,9 @@
 
  __Amendments__ 
 
-    1999—[Pub. L. 106–65, div. A, title VII, § 721(c)(8)][/us/pl/106/65/s721/c/8], Oct. 5, 1999, [113 Stat. 695][/us/stat/113/695], substituted “Disposition” for “Inquests; Disposition” and “9712” for “9711” in item for chapter 945.
+    1999—[Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 721(c)(8), Oct. 5, 1999, [113 Stat. 695][/us/stat/113/695], substituted “Disposition” for “Inquests; Disposition” and “9712” for “9711” in item for chapter 945.
 
-    1993—[Pub. L. 103–160, div. A, title VIII, § 828(c)(8)(B)][/us/pl/103/160/s828/c/8/B], Nov. 30, 1993, [107 Stat. 1715][/us/stat/107/1715], substituted “Civil Reserve Air Fleet” for “Industrial Mobilization, Research, and Development” and “9511” for “9501” in item for chapter 931.
+    1993—[Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 828(c)(8)(B), Nov. 30, 1993, [107 Stat. 1715][/us/stat/107/1715], substituted “Civil Reserve Air Fleet” for “Industrial Mobilization, Research, and Development” and “9511” for “9501” in item for chapter 931.
 
 ----------
 
@@ -162,9 +162,9 @@
 ----------
 ----------
 
-[/us/pl/106/65/s721/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs721%2Fc%2F8
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F695
-[/us/pl/103/160/s828/c/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs828%2Fc%2F8%2FB
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1715
 
 

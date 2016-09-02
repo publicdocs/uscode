@@ -27,7 +27,7 @@
 
     The authority provided under subsection (a) shall be exercised in accordance with guidelines prescribed by the Secretary of the Air Force and approved by the Secretary of Defense and the Attorney General and any other applicable guidelines prescribed by the Secretary of the Air Force, the Secretary of Defense, or the Attorney General.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 554(c)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–127.)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 554(c)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–127.)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t10/s1585a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1585a
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

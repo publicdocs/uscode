@@ -33,11 +33,11 @@
 
         (3) the accused is pardoned.
 
-(Added [Pub. L. 105–85, div. A, title V, § 581(a)(1)][/us/pl/105/85/s581/a/1], Nov. 18, 1997, [111 Stat. 1759][/us/stat/111/1759].)
+(Added [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 581(a)(1), Nov. 18, 1997, [111 Stat. 1759][/us/stat/111/1759].)
 
  __Effective Date__ 
 
-[Pub. L. 105–85, div. A, title V, § 581(b)][/us/pl/105/85/s581/b], Nov. 18, 1997, [111 Stat. 1760][/us/stat/111/1760], provided that: 
+[Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 581(b), Nov. 18, 1997, [111 Stat. 1760][/us/stat/111/1760], provided that: 
 
 > “[Section 856a of title 10][/us/usc/t10/s856a], United States Code (article 56a of the Uniform Code of Military Justice), as added by subsection (a), shall be applicable only with respect to an offense committed after the date of the enactment of this Act \[Nov. 18, 1997\].”
 
@@ -49,9 +49,9 @@
 ----------
 
 [/us/usc/t10/s860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs860
-[/us/pl/105/85/s581/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs581%2Fa%2F1
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1759
-[/us/pl/105/85/s581/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs581%2Fb
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1760
 [/us/usc/t10/s856a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs856a
 

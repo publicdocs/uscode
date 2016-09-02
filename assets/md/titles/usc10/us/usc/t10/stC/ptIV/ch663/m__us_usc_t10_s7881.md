@@ -21,11 +21,11 @@
 
     (c) Whenever it appears to the Attorney General of the United States that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (b), the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court may, at any time before final determination, enter such restraining orders or prohibitions, or take such other action as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought.
 
-(Added [Pub. L. 98–525, title XV, § 1532(a)(1)][/us/pl/98/525/s1532/a/1], Oct. 19, 1984, [98 Stat. 2631][/us/stat/98/2631].)
+(Added [Pub. L. 98–525, title XV][/us/pl/98/525/tXV], § 1532(a)(1), Oct. 19, 1984, [98 Stat. 2631][/us/stat/98/2631].)
 
  __Savings Provision__ 
 
-[Pub. L. 98–525, title XV, § 1532(b)][/us/pl/98/525/s1532/b], Oct. 19, 1984, [98 Stat. 2631][/us/stat/98/2631], provided that: 
+[Pub. L. 98–525, title XV][/us/pl/98/525/tXV], § 1532(b), Oct. 19, 1984, [98 Stat. 2631][/us/stat/98/2631], provided that: 
 
 > “The amendments made by subsection (a) \[enacting this chapter\] shall not affect rights that vested before the date of the enactment of this Act \[Oct. 19, 1984\].”
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/98/525/s1532/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1532%2Fa%2F1
+[/us/pl/98/525/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXV
 [/us/stat/98/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2631
-[/us/pl/98/525/s1532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1532%2Fb
+[/us/pl/98/525/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXV
 [/us/stat/98/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2631
 
 

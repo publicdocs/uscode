@@ -17,7 +17,7 @@
 
     In prescribing regulations establishing the order of precedence of awards and decorations authorized to be displayed on the uniforms of members of the armed forces, the Secretary of the military department concerned shall accord the Purple Heart a position of precedence, in relation to other awards and decorations authorized to be displayed, not lower than that immediately following the bronze star.
 
-(Added [Pub. L. 98–525, title V, § 553(a)][/us/pl/98/525/s553/a], Oct. 19, 1984, [98 Stat. 2532][/us/stat/98/2532]; amended [Pub. L. 99–145, title V, § 533][/us/pl/99/145/s533], Nov. 8, 1985, [99 Stat. 634][/us/stat/99/634].)
+(Added [Pub. L. 98–525, title V][/us/pl/98/525/tV], § 553(a), Oct. 19, 1984, [98 Stat. 2532][/us/stat/98/2532]; amended [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 533, Nov. 8, 1985, [99 Stat. 634][/us/stat/99/634].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/98/525/s553/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs553%2Fa
+[/us/pl/98/525/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtV
 [/us/stat/98/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2532
-[/us/pl/99/145/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs533
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F634
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 

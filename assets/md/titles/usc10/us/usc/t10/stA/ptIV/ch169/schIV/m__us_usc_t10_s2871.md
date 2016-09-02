@@ -33,15 +33,15 @@
 
     (8) The term “United States” includes the Commonwealth of Puerto Rico.
 
-(Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)][/us/pl/104/106/s2801/a/1], Feb. 10, 1996, [110 Stat. 544][/us/stat/110/544]; amended [Pub. L. 105–261, div. B, title XXVIII, § 2803][/us/pl/105/261/s2803], Oct. 17, 1998, [112 Stat. 2202][/us/stat/112/2202]; [Pub. L. 106–65, div. B, title XXVIII, § 2803(a)][/us/pl/106/65/s2803/a], Oct. 5, 1999, [113 Stat. 848][/us/stat/113/848]; [Pub. L. 107–314, div. B, title XXVIII, § 2803(b)][/us/pl/107/314/s2803/b], Dec. 2, 2002, [116 Stat. 2705][/us/stat/116/2705]; [Pub. L. 108–136, div. A, title X, § 1043(c)(6)][/us/pl/108/136/s1043/c/6], Nov. 24, 2003, [117 Stat. 1612][/us/stat/117/1612]; [Pub. L. 109–163, div. B, title XXVIII, § 2805(b)][/us/pl/109/163/s2805/b], Jan. 6, 2006, [119 Stat. 3507][/us/stat/119/3507]; [Pub. L. 110–417, div. B, title XXVIII, § 2805(c)][/us/pl/110/417/s2805/c], Oct. 14, 2008, [122 Stat. 4723][/us/stat/122/4723].)
+(Added [Pub. L. 104–106, div. B, title XXVIII][/us/pl/104/106/dB/tXXVIII], § 2801(a)(1), Feb. 10, 1996, [110 Stat. 544][/us/stat/110/544]; amended [Pub. L. 105–261, div. B, title XXVIII][/us/pl/105/261/dB/tXXVIII], § 2803, Oct. 17, 1998, [112 Stat. 2202][/us/stat/112/2202]; [Pub. L. 106–65, div. B, title XXVIII][/us/pl/106/65/dB/tXXVIII], § 2803(a), Oct. 5, 1999, [113 Stat. 848][/us/stat/113/848]; [Pub. L. 107–314, div. B, title XXVIII][/us/pl/107/314/dB/tXXVIII], § 2803(b), Dec. 2, 2002, [116 Stat. 2705][/us/stat/116/2705]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1043(c)(6), Nov. 24, 2003, [117 Stat. 1612][/us/stat/117/1612]; [Pub. L. 109–163, div. B, title XXVIII][/us/pl/109/163/dB/tXXVIII], § 2805(b), Jan. 6, 2006, [119 Stat. 3507][/us/stat/119/3507]; [Pub. L. 110–417, div. B, title XXVIII][/us/pl/110/417/dB/tXXVIII], § 2805(c), Oct. 14, 2008, [122 Stat. 4723][/us/stat/122/4723].)
 
  __Amendments__ 
 
     2008—Par. (5). [Pub. L. 110–417][/us/pl/110/417] inserted before period at end “that is prepared to enter into a contract as a partner with the Secretary concerned for the construction of military housing units and ancillary supporting facilities”.
 
-    2006—Par. (1). [Pub. L. 109–163, § 2805(b)(1)][/us/pl/109/163/s2805/b/1], inserted “child development centers,” after “day care centers,”.
+    2006—Par. (1). [Pub. L. 109–163][/us/pl/109/163], § 2805(b)(1), inserted “child development centers,” after “day care centers,”.
 
-    Par. (2). [Pub. L. 109–163, § 2805(b)(2)][/us/pl/109/163/s2805/b/2], added par. (2).
+    Par. (2). [Pub. L. 109–163][/us/pl/109/163], § 2805(b)(2), added par. (2).
 
     2003—Par. (2). [Pub. L. 108–136][/us/pl/108/136] struck out par. (2) which read as follows: “The term ‘base closure law’ means the following:
 
@@ -65,23 +65,23 @@
 ----------
 
 [/us/usc/t10/s2883/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2883%2Fa
-[/us/pl/104/106/s2801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2801%2Fa%2F1
+[/us/pl/104/106/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdB%2FtXXVIII
 [/us/stat/110/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F544
-[/us/pl/105/261/s2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs2803
+[/us/pl/105/261/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdB%2FtXXVIII
 [/us/stat/112/2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2202
-[/us/pl/106/65/s2803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2803%2Fa
+[/us/pl/106/65/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdB%2FtXXVIII
 [/us/stat/113/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F848
-[/us/pl/107/314/s2803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs2803%2Fb
+[/us/pl/107/314/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdB%2FtXXVIII
 [/us/stat/116/2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2705
-[/us/pl/108/136/s1043/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1043%2Fc%2F6
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1612
-[/us/pl/109/163/s2805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2805%2Fb
+[/us/pl/109/163/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdB%2FtXXVIII
 [/us/stat/119/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3507
-[/us/pl/110/417/s2805/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs2805%2Fc
+[/us/pl/110/417/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2FdB%2FtXXVIII
 [/us/stat/122/4723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4723
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/109/163/s2805/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2805%2Fb%2F1
-[/us/pl/109/163/s2805/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2805%2Fb%2F2
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/pl/100/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F526

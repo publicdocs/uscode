@@ -29,7 +29,7 @@
 
         (3) the desirability of continuing the opportunity for participation in the Corps by participants whose continued participation would otherwise be adversely affected by new school openings and consolidations of schools.
 
-(Added [Pub. L. 105–85, div. A, title V, § 546(a)][/us/pl/105/85/s546/a], Nov. 18, 1997, [111 Stat. 1746][/us/stat/111/1746].)
+(Added [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 546(a), Nov. 18, 1997, [111 Stat. 1746][/us/stat/111/1746].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t10/s2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2031
-[/us/pl/105/85/s546/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs546%2Fa
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1746
 
 

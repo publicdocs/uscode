@@ -33,7 +33,7 @@
 
     (c) Proceedings under this section are subject to regulations under [section 121 of title 40][/us/usc/t40/s121], unless exempted therefrom under [section 501(a)(2) of title 40][/us/usc/t40/s501/a/2].
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 136][/us/stat/70A/136]; [Pub. L. 98–525, title XIV, § 1405(35)][/us/pl/98/525/s1405/35], Oct. 19, 1984, [98 Stat. 2624][/us/stat/98/2624]; [Pub. L. 103–355, title I, § 1507][/us/pl/103/355/s1507], Oct. 13, 1994, [108 Stat. 3298][/us/stat/108/3298]; [Pub. L. 107–217, § 3(b)(6)][/us/pl/107/217/s3/b/6], Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 136][/us/stat/70A/136]; [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(35), Oct. 19, 1984, [98 Stat. 2624][/us/stat/98/2624]; [Pub. L. 103–355, title I][/us/pl/103/355/tI], § 1507, Oct. 13, 1994, [108 Stat. 3298][/us/stat/108/3298]; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(6), Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295].)
 
 <table>
 
@@ -136,11 +136,11 @@ Feb. 19, 1948, ch. 65, § 12 (1st sentence), 62 Stat. 26.  </td>
 [/us/usc/t40/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs501%2Fa%2F2
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F136
-[/us/pl/98/525/s1405/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F35
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2624
-[/us/pl/103/355/s1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1507
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3298
-[/us/pl/107/217/s3/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F6
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1295
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs121

@@ -27,11 +27,11 @@
 
     If the Secretary concurs with a recommendation by a board that a vessel should be stricken from the Naval Vessel Register, the Secretary shall strike the name of that vessel from the Naval Vessel Register.
 
-(Added [Pub. L. 103–160, div. A, title VIII, § 824(b)][/us/pl/103/160/s824/b], Nov. 30, 1993, [107 Stat. 1708][/us/stat/107/1708].)
+(Added [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 824(b), Nov. 30, 1993, [107 Stat. 1708][/us/stat/107/1708].)
 
  __Prior Provisions__ 
 
-    A prior section 7304, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 451][/us/stat/70A/451], related to examination of vessels by board and striking of unfit vessels from Naval Vessel Register, prior to repeal by [Pub. L. 103–160, § 824(b)][/us/pl/103/160/s824/b].
+    A prior section 7304, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 451][/us/stat/70A/451], related to examination of vessels by board and striking of unfit vessels from Naval Vessel Register, prior to repeal by [Pub. L. 103–160][/us/pl/103/160], § 824(b).
 
 ----------
 
@@ -40,10 +40,10 @@
 ----------
 ----------
 
-[/us/pl/103/160/s824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs824%2Fb
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1708
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F451
-[/us/pl/103/160/s824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs824%2Fb
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 
 

@@ -33,7 +33,7 @@
 
     (b) The provisions of this chapter that apply to the procurement of property apply also to contracts for its installation or alteration.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 128][/us/stat/70A/128]; [Pub. L. 85–568, title III, § 301(b)][/us/pl/85/568/s301/b], July 29, 1958, [72 Stat. 432][/us/stat/72/432]; [Pub. L. 98–369, div. B, title VII, § 2722(b)][/us/pl/98/369/s2722/b], July 18, 1984, [98 Stat. 1187][/us/stat/98/1187].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 128][/us/stat/70A/128]; [Pub. L. 85–568, title III][/us/pl/85/568/tIII], § 301(b), July 29, 1958, [72 Stat. 432][/us/stat/72/432]; [Pub. L. 98–369, div. B, title VII][/us/pl/98/369/dB/tVII], § 2722(b), July 18, 1984, [98 Stat. 1187][/us/stat/98/1187].)
 
 <table>
 
@@ -103,11 +103,11 @@ Feb. 19, 1948, ch. 65, §§ 2(a), 9 (clause (b)), 62 Stat. 21, 24.  </td>
 
  __Amendments__ 
 
-    1984—Subsec. (a). [Pub. L. 98–369, § 2722(b)(1)(A)][/us/pl/98/369/s2722/b/1/A], (B), substituted in provisions preceding cl. (1) “procurement” for “purchase, and contract to purchase,” and “(other than land) and all services” for “named in subsection (b), and all services,”.
+    1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369], § 2722(b)(1)(A), (B), substituted in provisions preceding cl. (1) “procurement” for “purchase, and contract to purchase,” and “(other than land) and all services” for “named in subsection (b), and all services,”.
 
-    Subsec. (a)(1) to (6). [Pub. L. 98–369, § 2722(b)(1)(C)][/us/pl/98/369/s2722/b/1/C], (D), added cl. (1) and redesignated existing cls. (1) to (5) as (2) to (6), respectively.
+    Subsec. (a)(1) to (6). [Pub. L. 98–369][/us/pl/98/369], § 2722(b)(1)(C), (D), added cl. (1) and redesignated existing cls. (1) to (5) as (2) to (6), respectively.
 
-    Subsecs. (b), (c). [Pub. L. 98–369, § 2722(b)(2)][/us/pl/98/369/s2722/b/2], (3), redesignated subsec. (c) as (b). Former subsec. (b), which had provided that this chapter did not cover land but did cover public works, buildings, facilities, vessels, floating equipment, aircraft, parts, accessories, equipment, and machine tools, was struck out.
+    Subsecs. (b), (c). [Pub. L. 98–369][/us/pl/98/369], § 2722(b)(2), (3), redesignated subsec. (c) as (b). Former subsec. (b), which had provided that this chapter did not cover land but did cover public works, buildings, facilities, vessels, floating equipment, aircraft, parts, accessories, equipment, and machine tools, was struck out.
 
     1958—Subsec. (a)(5). [Pub. L. 85–568][/us/pl/85/568] substituted “The National Aeronautics and Space Administration” for “The National Advisory Committee for Aeronautics”.
 
@@ -125,7 +125,7 @@ Feb. 19, 1948, ch. 65, §§ 2(a), 9 (clause (b)), 62 Stat. 21, 24.  </td>
 
  __Acquisition, Lease, or Rental for Use by the Armed Forces of Motor Buses Manufactured Outside the United States__ 
 
-    [Pub. L. 90–500, title IV, § 404][/us/pl/90/500/s404], Sept. 20, 1968, [82 Stat. 851][/us/stat/82/851], which provided that no funds for the armed forces were to be used to buy or lease buses other than those manufactured in the United States, except as regulation from the Secretary of Defense might authorize solely to avoid uneconomical procurement or one contrary to the national interest, was repealed and restated as [section 2400 of this title][/us/usc/t10/s2400] by [Pub. L. 97–295][/us/pl/97/295], §§ 1(29)(A), 6(b), Oct. 12, 1982, [96 Stat. 1294][/us/stat/96/1294], 1314.
+    [Pub. L. 90–500, title IV][/us/pl/90/500/tIV], § 404, Sept. 20, 1968, [82 Stat. 851][/us/stat/82/851], which provided that no funds for the armed forces were to be used to buy or lease buses other than those manufactured in the United States, except as regulation from the Secretary of Defense might authorize solely to avoid uneconomical procurement or one contrary to the national interest, was repealed and restated as [section 2400 of this title][/us/usc/t10/s2400] by [Pub. L. 97–295][/us/pl/97/295], §§ 1(29)(A), 6(b), Oct. 12, 1982, [96 Stat. 1294][/us/stat/96/1294], 1314.
 
 ----------
 
@@ -136,17 +136,17 @@ Feb. 19, 1948, ch. 65, §§ 2(a), 9 (clause (b)), 62 Stat. 21, 24.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F128
-[/us/pl/85/568/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2Fs301%2Fb
+[/us/pl/85/568/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2FtIII
 [/us/stat/72/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F432
-[/us/pl/98/369/s2722/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2722%2Fb
+[/us/pl/98/369/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtVII
 [/us/stat/98/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1187
 [/us/usc/t14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs1
 [/us/usc/t10/s101/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F26
 [/us/usc/t10/s101/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F26
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
-[/us/pl/98/369/s2722/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2722%2Fb%2F1%2FA
-[/us/pl/98/369/s2722/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2722%2Fb%2F1%2FC
-[/us/pl/98/369/s2722/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2722%2Fb%2F2
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/85/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2751
@@ -154,7 +154,7 @@ Feb. 19, 1948, ch. 65, §§ 2(a), 9 (clause (b)), 62 Stat. 21, 24.  </td>
 [/us/pl/85/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/90/500/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F500%2Fs404
+[/us/pl/90/500/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F500%2FtIV
 [/us/stat/82/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F851
 [/us/usc/t10/s2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2400
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295

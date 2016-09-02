@@ -45,7 +45,7 @@
 
     (c) Except as otherwise specifically prescribed by law, the Army Staff shall be organized in such manner, and its members shall perform such duties and have such titles, as the Secretary may prescribe.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 150][/us/stat/70A/150]; [Pub. L. 93–547][/us/pl/93/547], Dec. 26, 1974, [88 Stat. 1742][/us/stat/88/1742]; [Pub. L. 93–608, § 1(6)][/us/pl/93/608/s1/6], Jan. 2, 1975, [88 Stat. 1968][/us/stat/88/1968]; [Pub. L. 98–525, title V, § 515][/us/pl/98/525/s515], Oct. 19, 1984, [98 Stat. 2522][/us/stat/98/2522]; [Pub. L. 99–433, title V, § 502(a)][/us/pl/99/433/s502/a], Oct. 1, 1986, [100 Stat. 1039][/us/stat/100/1039].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 150][/us/stat/70A/150]; [Pub. L. 93–547][/us/pl/93/547], Dec. 26, 1974, [88 Stat. 1742][/us/stat/88/1742]; [Pub. L. 93–608][/us/pl/93/608], § 1(6), Jan. 2, 1975, [88 Stat. 1968][/us/stat/88/1968]; [Pub. L. 98–525, title V][/us/pl/98/525/tV], § 515, Oct. 19, 1984, [98 Stat. 2522][/us/stat/98/2522]; [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 502(a), Oct. 1, 1986, [100 Stat. 1039][/us/stat/100/1039].)
 
 <table>
 
@@ -143,7 +143,7 @@ June 28, 1950, ch. 383, § 201, 64 Stat. 265.  </td>
 
  __Effective Date of 1984 Amendment__ 
 
-    [Pub. L. 98–525, title V, § 515][/us/pl/98/525/s515], Oct. 19, 1984, [98 Stat. 2522][/us/stat/98/2522], provided that the amendment made by that section is effective Oct. 1, 1984.
+    [Pub. L. 98–525, title V][/us/pl/98/525/tV], § 515, Oct. 19, 1984, [98 Stat. 2522][/us/stat/98/2522], provided that the amendment made by that section is effective Oct. 1, 1984.
 
 ----------
 
@@ -156,17 +156,17 @@ June 28, 1950, ch. 383, § 201, 64 Stat. 265.  </td>
 [/us/stat/70A/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F150
 [/us/pl/93/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F547
 [/us/stat/88/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1742
-[/us/pl/93/608/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608%2Fs1%2F6
+[/us/pl/93/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608
 [/us/stat/88/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1968
-[/us/pl/98/525/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs515
+[/us/pl/98/525/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtV
 [/us/stat/98/2522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2522
-[/us/pl/99/433/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs502%2Fa
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1039
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/93/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608
 [/us/pl/93/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F547
-[/us/pl/98/525/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs515
+[/us/pl/98/525/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtV
 [/us/stat/98/2522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2522
 
 

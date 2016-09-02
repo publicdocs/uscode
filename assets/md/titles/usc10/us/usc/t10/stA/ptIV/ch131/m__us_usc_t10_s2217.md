@@ -37,11 +37,11 @@
 
         (2) The term “common procurement weapon system” means a weapon system for which two or more of the Army, Navy, Air Force, and Marine Corps request procurement funds in a defense budget.
 
-(Added [Pub. L. 100–370, § 1(d)(3)(A)][/us/pl/100/370/s1/d/3/A], July 19, 1988, [102 Stat. 843][/us/stat/102/843]; amended [Pub. L. 104–106, div. A, title XV, § 1503(a)(20)][/us/pl/104/106/s1503/a/20], Feb. 10, 1996, [110 Stat. 512][/us/stat/110/512].)
+(Added [Pub. L. 100–370][/us/pl/100/370], § 1(d)(3)(A), July 19, 1988, [102 Stat. 843][/us/stat/102/843]; amended [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1503(a)(20), Feb. 10, 1996, [110 Stat. 512][/us/stat/110/512].)
 
  __Historical and Revision Notes__ 
 
-    Section is based on [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 955\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–173, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 955\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–173; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 955, Nov. 14, 1986, [100 Stat. 3953][/us/stat/100/3953], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273].
+    Section is based on [Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title X, § 955\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–173, and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 955\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–173; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661/dA/tIX], formerly title IV, § 955, Nov. 14, 1986, [100 Stat. 3953][/us/stat/100/3953], renumbered title IX, [Pub. L. 100–26][/us/pl/100/26], § 3(5), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273].
 
  __Amendments__ 
 
@@ -55,17 +55,17 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/100/370/s1/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs1%2Fd%2F3%2FA
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F843
-[/us/pl/104/106/s1503/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1503%2Fa%2F20
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F512
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIX
 [/us/stat/100/3953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3953
-[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 

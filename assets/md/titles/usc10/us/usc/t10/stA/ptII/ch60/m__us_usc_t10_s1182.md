@@ -37,19 +37,19 @@
 
             (B) An officer who has been required to show cause for retention on active duty under subsection (b) of [section 1181 of this title][/us/usc/t10/s1181] and who is thereafter retained on active duty may not again be required to show cause for retention on active duty under such subsection solely because of conduct which was the subject of the previous proceedings, unless the findings or recommendations of the board of inquiry that considered his case are determined to have been obtained by fraud or collusion.
 
-(Added [Pub. L. 96–513, title I, § 110][/us/pl/96/513/s110], Dec. 12, 1980, [94 Stat. 2872][/us/stat/94/2872]; amended [Pub. L. 105–261, div. A, title V, § 503(b)(1)][/us/pl/105/261/s503/b/1], Oct. 17, 1998, [112 Stat. 2003][/us/stat/112/2003]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(d)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–292; [Pub. L. 107–314, div. A, title V, § 506(a)][/us/pl/107/314/s506/a], Dec. 2, 2002, [116 Stat. 2534][/us/stat/116/2534].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 110, Dec. 12, 1980, [94 Stat. 2872][/us/stat/94/2872]; amended [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 503(b)(1), Oct. 17, 1998, [112 Stat. 2003][/us/stat/112/2003]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(d)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–292; [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 506(a), Dec. 2, 2002, [116 Stat. 2534][/us/stat/116/2534].)
 
  __Amendments__ 
 
     2002—Subsec. (c). [Pub. L. 107–314][/us/pl/107/314] designated existing provisions as par. (1) and added par. (2).
 
-    2000—Subsec. (c). [Pub. L. 106–398][/us/pl/106/398] made technical correction to directory language of [Pub. L. 105–261, § 503(b)(1)][/us/pl/105/261/s503/b/1]. See 1998 Amendment note below.
+    2000—Subsec. (c). [Pub. L. 106–398][/us/pl/106/398] made technical correction to directory language of [Pub. L. 105–261][/us/pl/105/261], § 503(b)(1). See 1998 Amendment note below.
 
-    1998—Subsec. (c). [Pub. L. 105–261, § 503(b)(1)][/us/pl/105/261/s503/b/1], as amended by [Pub. L. 106–398][/us/pl/106/398], substituted “recommend to the Secretary concerned that the officer not be retained on active duty” for “send the record of its proceedings to a board of review convened under [section 1183 of this title][/us/usc/t10/s1183]”.
+    1998—Subsec. (c). [Pub. L. 105–261][/us/pl/105/261], § 503(b)(1), as amended by [Pub. L. 106–398][/us/pl/106/398], substituted “recommend to the Secretary concerned that the officer not be retained on active duty” for “send the record of its proceedings to a board of review convened under [section 1183 of this title][/us/usc/t10/s1183]”.
 
  __Effective Date of 2000 Amendment__ 
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(d)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–292, provided that the amendment made by section 1 \[\[div. A\], title X, § 1087(d)(2)\] is effective Oct. 17, 1998, and as if included in the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, [Pub. L. 105–261][/us/pl/105/261], as enacted.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(d)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–292, provided that the amendment made by section 1 \[\[div. A\], title X, § 1087(d)(2)\] is effective Oct. 17, 1998, and as if included in the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, [Pub. L. 105–261][/us/pl/105/261], as enacted.
 
 ----------
 
@@ -64,21 +64,21 @@
 [/us/usc/t10/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1181
 [/us/usc/t10/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1181
 [/us/usc/t10/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1181
-[/us/pl/96/513/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs110
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2872
-[/us/pl/105/261/s503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs503%2Fb%2F1
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2003
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/314/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs506%2Fa
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2534
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/105/261/s503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs503%2Fb%2F1
-[/us/pl/105/261/s503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs503%2Fb%2F1
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t10/s1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1183
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 

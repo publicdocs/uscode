@@ -99,29 +99,29 @@
 
         (3) The term “inherently governmental function” has the meaning given that term in the Federal Activities Inventory Reform Act of 1998 ([Public Law 105–270][/us/pl/105/270]; [31 U.S.C. 501][/us/usc/t31/s501] note).
 
-(Added [Pub. L. 110–181, div. A, title III, § 324(a)(1)][/us/pl/110/181/s324/a/1], Jan. 28, 2008, [122 Stat. 60][/us/stat/122/60]; amended [Pub. L. 111–383, div. A, title III, § 353][/us/pl/111/383/s353], Jan. 7, 2011, [124 Stat. 4194][/us/stat/124/4194]; [Pub. L. 112–81, div. A, title IX, § 938][/us/pl/112/81/s938], Dec. 31, 2011, [125 Stat. 1547][/us/stat/125/1547].)
+(Added [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 324(a)(1), Jan. 28, 2008, [122 Stat. 60][/us/stat/122/60]; amended [Pub. L. 111–383, div. A, title III][/us/pl/111/383/dA/tIII], § 353, Jan. 7, 2011, [124 Stat. 4194][/us/stat/124/4194]; [Pub. L. 112–81, div. A, title IX][/us/pl/112/81/dA/tIX], § 938, Dec. 31, 2011, [125 Stat. 1547][/us/stat/125/1547].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [Pub. L. 109–163, div. A, title III, § 343][/us/pl/109/163/s343], Jan. 6, 2006, [119 Stat. 3200][/us/stat/119/3200], which was set out as a note under [section 2461 of this title][/us/usc/t10/s2461], prior to repeal by [Pub. L. 110–181, div. A, title III, § 324(c)][/us/pl/110/181/s324/c], Jan. 28, 2008, [122 Stat. 61][/us/stat/122/61].
+    Provisions similar to those in this section were contained in [Pub. L. 109–163, div. A, title III][/us/pl/109/163/dA/tIII], § 343, Jan. 6, 2006, [119 Stat. 3200][/us/stat/119/3200], which was set out as a note under [section 2461 of this title][/us/usc/t10/s2461], prior to repeal by [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 324(c), Jan. 28, 2008, [122 Stat. 61][/us/stat/122/61].
 
-    A prior section 2463, added [Pub. L. 100–370, § 2(a)(1)][/us/pl/100/370/s2/a/1], July 19, 1988, [102 Stat. 853][/us/stat/102/853]; amended [Pub. L. 101–189, div. A, title XVI, § 1622(c)(7)][/us/pl/101/189/s1622/c/7], Nov. 29, 1989, [103 Stat. 1604][/us/stat/103/1604]; [Pub. L. 101–510, div. A, title XIII, § 1301(14)][/us/pl/101/510/s1301/14], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 105–85, div. A, title III, § 385(a)][/us/pl/105/85/s385/a], Nov. 18, 1997, [111 Stat. 1712][/us/stat/111/1712], related to collection and retention of cost information data on the conversion of services and functions of the Department of Defense to or from contractor performance, prior to repeal by [Pub. L. 109–163, div. A, title III, § 341(f)][/us/pl/109/163/s341/f], Jan. 6, 2006, [119 Stat. 3199][/us/stat/119/3199].
+    A prior section 2463, added [Pub. L. 100–370][/us/pl/100/370], § 2(a)(1), July 19, 1988, [102 Stat. 853][/us/stat/102/853]; amended [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1622(c)(7), Nov. 29, 1989, [103 Stat. 1604][/us/stat/103/1604]; [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1301(14), Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 385(a), Nov. 18, 1997, [111 Stat. 1712][/us/stat/111/1712], related to collection and retention of cost information data on the conversion of services and functions of the Department of Defense to or from contractor performance, prior to repeal by [Pub. L. 109–163, div. A, title III][/us/pl/109/163/dA/tIII], § 341(f), Jan. 6, 2006, [119 Stat. 3199][/us/stat/119/3199].
 
  __Amendments__ 
 
-    2011—Subsec. (b)(1). [Pub. L. 112–81, § 938(1)][/us/pl/112/81/s938/1], added subpars. (A), (B), and (D), redesignated former subpars. (B), (C), and (D) as (C), (E), and (F), and struck out former subpar. (A) which read as follows: “has been performed by Department of Defense civilian employees at any time during the previous 10 years;”.
+    2011—Subsec. (b)(1). [Pub. L. 112–81][/us/pl/112/81], § 938(1), added subpars. (A), (B), and (D), redesignated former subpars. (B), (C), and (D) as (C), (E), and (F), and struck out former subpar. (A) which read as follows: “has been performed by Department of Defense civilian employees at any time during the previous 10 years;”.
 
     Subsec. (d)(1). [Pub. L. 111–383][/us/pl/111/383] struck out “under the National Security Personnel System, as established” before “pursuant to [section 9902 of title 5][/us/usc/t5/s9902]”.
 
-    Subsecs. (e), (f). [Pub. L. 112–81, § 938(3)][/us/pl/112/81/s938/3], added subsecs. (e) and (f). Former subsec. (e) redesignated (g).
+    Subsecs. (e), (f). [Pub. L. 112–81][/us/pl/112/81], § 938(3), added subsecs. (e) and (f). Former subsec. (e) redesignated (g).
 
-    Subsec. (g). [Pub. L. 112–81, § 938(4)][/us/pl/112/81/s938/4], substituted “this section:” for “this section the term ‘functions closely associated with inherently governmental functions’ has the meaning given that term in [section 2383(b)(3) of this title][/us/usc/t10/s2383/b/3].” and added pars. (1) to (3).
+    Subsec. (g). [Pub. L. 112–81][/us/pl/112/81], § 938(4), substituted “this section:” for “this section the term ‘functions closely associated with inherently governmental functions’ has the meaning given that term in [section 2383(b)(3) of this title][/us/usc/t10/s2383/b/3].” and added pars. (1) to (3).
 
-    [Pub. L. 112–81, § 938(2)][/us/pl/112/81/s938/2], redesignated subsec. (e) as (g).
+    [Pub. L. 112–81][/us/pl/112/81], § 938(2), redesignated subsec. (e) as (g).
 
  __Prohibition on Establishing Goals or Quotas for Conversion of Functions To Performance by Department of Defense Civilian Employees__ 
 
-[Pub. L. 111–383, div. A, title III, § 323][/us/pl/111/383/s323], Jan. 7, 2011, [124 Stat. 4184][/us/stat/124/4184], provided that:
+[Pub. L. 111–383, div. A, title III][/us/pl/111/383/dA/tIII], § 323, Jan. 7, 2011, [124 Stat. 4184][/us/stat/124/4184], provided that:
 
 >     “(a)  __Prohibition__  __.—__ 
 
@@ -157,7 +157,7 @@
 
  __Deadline for Issuance of Guidelines and Procedures__ 
 
-[Pub. L. 110–181, div. A, title III, § 324(a)(3)][/us/pl/110/181/s324/a/3], Jan. 28, 2008, [122 Stat. 61][/us/stat/122/61], provided that: 
+[Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 324(a)(3), Jan. 28, 2008, [122 Stat. 61][/us/stat/122/61], provided that: 
 
 > “The Secretary of Defense shall implement the guidelines and procedures required under [section 2463 of title 10][/us/usc/t10/s2463], United States Code, as added by paragraph (1), by not later than 60 days after the date of the enactment of this Act \[Jan. 28, 2008\].”
 
@@ -174,38 +174,38 @@
 [/us/usc/t10/s1721/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1721%2Fa
 [/us/pl/105/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F270
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501
-[/us/pl/110/181/s324/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs324%2Fa%2F1
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F60
-[/us/pl/111/383/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs353
+[/us/pl/111/383/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIII
 [/us/stat/124/4194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4194
-[/us/pl/112/81/s938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs938
+[/us/pl/112/81/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIX
 [/us/stat/125/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1547
-[/us/pl/109/163/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs343
+[/us/pl/109/163/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIII
 [/us/stat/119/3200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3200
 [/us/usc/t10/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2461
-[/us/pl/110/181/s324/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs324%2Fc
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F61
-[/us/pl/100/370/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs2%2Fa%2F1
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F853
-[/us/pl/101/189/s1622/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fc%2F7
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1604
-[/us/pl/101/510/s1301/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1301%2F14
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1668
-[/us/pl/105/85/s385/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs385%2Fa
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1712
-[/us/pl/109/163/s341/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs341%2Ff
+[/us/pl/109/163/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIII
 [/us/stat/119/3199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3199
-[/us/pl/112/81/s938/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs938%2F1
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t5/s9902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9902
-[/us/pl/112/81/s938/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs938%2F3
-[/us/pl/112/81/s938/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs938%2F4
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t10/s2383/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2383%2Fb%2F3
-[/us/pl/112/81/s938/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs938%2F2
-[/us/pl/111/383/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs323
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/111/383/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIII
 [/us/stat/124/4184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4184
 [/us/usc/t10/s2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2463
-[/us/pl/110/181/s324/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs324%2Fa%2F3
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F61
 [/us/usc/t10/s2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2463
 

@@ -17,7 +17,7 @@
 
     Any medal of honor, distinguished-service cross, distinguished-service medal, or silver star, or any bar, ribbon, rosette, or other device issued for wear with or in place of any of them, that is stolen, lost, or destroyed, or becomes unfit for use, without fault or neglect of the person to whom it was awarded, shall be replaced without charge.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 216][/us/stat/70A/216]; [Pub. L. 107–107, div. A, title V, § 553(a)(2)][/us/pl/107/107/s553/a/2], Dec. 28, 2001, [115 Stat. 1116][/us/stat/115/1116].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 216][/us/stat/70A/216]; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 553(a)(2), Dec. 28, 2001, [115 Stat. 1116][/us/stat/115/1116].)
 
 <table>
 
@@ -78,7 +78,7 @@ July 9, 1918, ch. 143 (14th par. under “Ordnance Department”), 40 Stat. 871.
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F216
-[/us/pl/107/107/s553/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs553%2Fa%2F2
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1116
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 

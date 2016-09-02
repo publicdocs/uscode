@@ -41,23 +41,23 @@
 
     The Secretary shall prescribe regulations to implement this section. Such regulations may include qualification criteria and methods of selection for students of foreign military academies to participate in the exchange program.
 
-(Added [Pub. L. 105–85, div. A, title V, § 542(c)(1)][/us/pl/105/85/s542/c/1], Nov. 18, 1997, [111 Stat. 1742][/us/stat/111/1742]; amended [Pub. L. 106–65, div. A, title V, § 535(c)][/us/pl/106/65/s535/c], Oct. 5, 1999, [113 Stat. 606][/us/stat/113/606]; [Pub. L. 109–364, div. A, title V, § 531(c)][/us/pl/109/364/s531/c], Oct. 17, 2006, [120 Stat. 2199][/us/stat/120/2199].)
+(Added [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 542(c)(1), Nov. 18, 1997, [111 Stat. 1742][/us/stat/111/1742]; amended [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 535(c), Oct. 5, 1999, [113 Stat. 606][/us/stat/113/606]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 531(c), Oct. 17, 2006, [120 Stat. 2199][/us/stat/120/2199].)
 
  __Prior Provisions__ 
 
-    A prior section 9345, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 565][/us/stat/70A/565], related to selection of Filipinos for instruction at the Air Force Academy, prior to repeal by [Pub. L. 98–94, title X, § 1004(c)(2)][/us/pl/98/94/s1004/c/2], (d), Sept. 24, 1983, [97 Stat. 660][/us/stat/97/660], effective one year after Sept. 24, 1983.
+    A prior section 9345, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 565][/us/stat/70A/565], related to selection of Filipinos for instruction at the Air Force Academy, prior to repeal by [Pub. L. 98–94, title X][/us/pl/98/94/tX], § 1004(c)(2), (d), Sept. 24, 1983, [97 Stat. 660][/us/stat/97/660], effective one year after Sept. 24, 1983.
 
  __Amendments__ 
 
-    2006—Subsec. (b). [Pub. L. 109–364, § 531(c)(1)][/us/pl/109/364/s531/c/1], substituted “100” for “24”.
+    2006—Subsec. (b). [Pub. L. 109–364][/us/pl/109/364], § 531(c)(1), substituted “100” for “24”.
 
-    Subsec. (c)(3). [Pub. L. 109–364, § 531(c)(2)(A)][/us/pl/109/364/s531/c/2/A], substituted “for the Academy and such additional funds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.” for “for the Academy. Expenditures in support of the exchange program may not exceed $120,000 during any fiscal year.”
+    Subsec. (c)(3). [Pub. L. 109–364][/us/pl/109/364], § 531(c)(2)(A), substituted “for the Academy and such additional funds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.” for “for the Academy. Expenditures in support of the exchange program may not exceed $120,000 during any fiscal year.”
 
-    Subsec. (c)(4). [Pub. L. 109–364, § 531(c)(2)(B)][/us/pl/109/364/s531/c/2/B], added par. (4).
+    Subsec. (c)(4). [Pub. L. 109–364][/us/pl/109/364], § 531(c)(2)(B), added par. (4).
 
-    1999—Subsec. (b). [Pub. L. 106–65, § 535(c)(1)][/us/pl/106/65/s535/c/1], substituted “24 Air Force cadets” for “10 Air Force cadets”.
+    1999—Subsec. (b). [Pub. L. 106–65][/us/pl/106/65], § 535(c)(1), substituted “24 Air Force cadets” for “10 Air Force cadets”.
 
-    Subsec. (c)(3). [Pub. L. 106–65, § 535(c)(2)][/us/pl/106/65/s535/c/2], substituted “$120,000” for “$50,000”.
+    Subsec. (c)(3). [Pub. L. 106–65][/us/pl/106/65], § 535(c)(2), substituted “$120,000” for “$50,000”.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -72,21 +72,21 @@
 
 [/us/usc/t10/s9344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9344
 [/us/usc/t10/s9344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9344
-[/us/pl/105/85/s542/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs542%2Fc%2F1
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1742
-[/us/pl/106/65/s535/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs535%2Fc
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F606
-[/us/pl/109/364/s531/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs531%2Fc
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2199
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F565
-[/us/pl/98/94/s1004/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1004%2Fc%2F2
+[/us/pl/98/94/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtX
 [/us/stat/97/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F660
-[/us/pl/109/364/s531/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs531%2Fc%2F1
-[/us/pl/109/364/s531/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs531%2Fc%2F2%2FA
-[/us/pl/109/364/s531/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs531%2Fc%2F2%2FB
-[/us/pl/106/65/s535/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs535%2Fc%2F1
-[/us/pl/106/65/s535/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs535%2Fc%2F2
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/364/s531/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs531%2Fd
 [/us/usc/t10/s4345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4345

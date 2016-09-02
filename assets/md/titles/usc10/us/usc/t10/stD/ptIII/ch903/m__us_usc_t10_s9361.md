@@ -91,7 +91,7 @@
 
             (B) The Secretary of Defense shall transmit each such report, together with the Secretary’s comments on the report, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
-(Added [Pub. L. 109–364, div. A, title V, § 532(a)(3)][/us/pl/109/364/s532/a/3], Oct. 17, 2006, [120 Stat. 2203][/us/stat/120/2203].)
+(Added [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 532(a)(3), Oct. 17, 2006, [120 Stat. 2203][/us/stat/120/2203].)
 
  __Further Information From Cadets and Midshipmen at the Service Academies on Sexual Assault and Sexual Harassment Issues__ 
 
@@ -104,7 +104,7 @@
 ----------
 ----------
 
-[/us/pl/109/364/s532/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs532%2Fa%2F3
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2203
 [/us/pl/109/364/s532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs532%2Fb
 [/us/usc/t10/s4361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4361

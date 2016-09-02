@@ -35,7 +35,7 @@
 
     The Secretary shall require the sequencing of joint professional military education so that the standard sequence of assignments for such education requires an officer to complete Phase I instruction before proceeding to Phase II instruction, as provided in [section 2155(a) of this title][/us/usc/t10/s2155/a].
 
-(Added [Pub. L. 108–375, div. A, title V, § 532(a)(2)][/us/pl/108/375/s532/a/2], Oct. 28, 2004, [118 Stat. 1898][/us/stat/118/1898]; amended [Pub. L. 112–81, div. A, title V, § 552(a)(1)][/us/pl/112/81/s552/a/1], Dec. 31, 2011, [125 Stat. 1412][/us/stat/125/1412]; [Pub. L. 113–291, div. A, title V, § 506][/us/pl/113/291/s506], Dec. 19, 2014, [128 Stat. 3356][/us/stat/128/3356]; [Pub. L. 114–92, div. A, title V, § 554][/us/pl/114/92/s554], Nov. 25, 2015, [129 Stat. 824][/us/stat/129/824].)
+(Added [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 532(a)(2), Oct. 28, 2004, [118 Stat. 1898][/us/stat/118/1898]; amended [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 552(a)(1), Dec. 31, 2011, [125 Stat. 1412][/us/stat/125/1412]; [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 506, Dec. 19, 2014, [128 Stat. 3356][/us/stat/128/3356]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 554, Nov. 25, 2015, [129 Stat. 824][/us/stat/129/824].)
 
  __Amendments__ 
 
@@ -59,13 +59,13 @@
 [/us/usc/t10/s2151/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2151%2Fa
 [/us/usc/t10/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2153
 [/us/usc/t10/s2155/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2155%2Fa
-[/us/pl/108/375/s532/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs532%2Fa%2F2
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1898
-[/us/pl/112/81/s552/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs552%2Fa%2F1
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1412
-[/us/pl/113/291/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs506
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3356
-[/us/pl/114/92/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs554
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F824
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291

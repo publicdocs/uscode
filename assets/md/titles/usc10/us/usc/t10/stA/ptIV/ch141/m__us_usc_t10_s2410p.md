@@ -37,23 +37,23 @@
 
     Nothing in this section shall be construed to preclude an entity described in subsection (a) from performing work necessary to integrate two or more individual systems or elements of a system of systems with each other.
 
-(Added [Pub. L. 109–364, div. A, title VIII, § 807(a)(1)][/us/pl/109/364/s807/a/1], Oct. 17, 2006, [120 Stat. 2315][/us/stat/120/2315].)
+(Added [Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 807(a)(1), Oct. 17, 2006, [120 Stat. 2315][/us/stat/120/2315].)
 
  __Effective Date__ 
 
-[Pub. L. 109–364, div. A, title VIII, § 807(a)(3)][/us/pl/109/364/s807/a/3], Oct. 17, 2006, [120 Stat. 2316][/us/stat/120/2316], provided that: 
+[Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 807(a)(3), Oct. 17, 2006, [120 Stat. 2316][/us/stat/120/2316], provided that: 
 
 > “[Section 2410p of title 10][/us/usc/t10/s2410p], United States Code, as added by paragraph (1), shall apply with respect to contracts entered into after December 31, 2006.”
 
  __Update of Regulations on Lead System Integrators__ 
 
-[Pub. L. 109–364, div. A, title VIII, § 807(b)][/us/pl/109/364/s807/b], Oct. 17, 2006, [120 Stat. 2316][/us/stat/120/2316], provided that: 
+[Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 807(b), Oct. 17, 2006, [120 Stat. 2316][/us/stat/120/2316], provided that: 
 
 > “Not later than December 31, 2006, the Secretary of Defense shall update the acquisition regulations of the Department of Defense in order to specify fully in such regulations the matters with respect to lead system integrators set forth in section 805(b) of the National Defense Authorization Act for Fiscal Year 2006 ([Public Law 109–163][/us/pl/109/163]; [119 Stat. 3372][/us/stat/119/3372]) and the amendments made by subsection (a) \[enacting this section\].”
 
  __Prohibition on New Lead Systems Integrators__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 802][/us/pl/110/181/s802], Jan. 28, 2008, [122 Stat. 206][/us/stat/122/206], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title I, § 112, Oct. 14, 2008, [122 Stat. 4374][/us/stat/122/4374], provided that:
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 802, Jan. 28, 2008, [122 Stat. 206][/us/stat/122/206], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title I, § 112, Oct. 14, 2008, [122 Stat. 4374][/us/stat/122/4374], provided that:
 
 >     “(a) __Prohibitions on the Use of Lead Systems Integrators.—__ 
 
@@ -148,16 +148,16 @@
 ----------
 ----------
 
-[/us/pl/109/364/s807/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs807%2Fa%2F1
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2315
-[/us/pl/109/364/s807/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs807%2Fa%2F3
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2316
 [/us/usc/t10/s2410p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2410p
-[/us/pl/109/364/s807/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs807%2Fb
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2316
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/stat/119/3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3372
-[/us/pl/110/181/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs802
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F206
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4374

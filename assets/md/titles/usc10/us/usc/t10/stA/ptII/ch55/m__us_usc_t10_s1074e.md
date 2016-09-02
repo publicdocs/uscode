@@ -43,7 +43,7 @@
 
             (B) that the member registered before September 1, 1997, in the Persian Gulf War Veterans Health Registry maintained by the Department of Veterans Affairs pursuant to section 702 of the Persian Gulf War Veterans’ Health Status Act ([38 U.S.C. 527][/us/usc/t38/s527] note).
 
-(Added [Pub. L. 105–85, div. A, title VII, § 764(a)][/us/pl/105/85/s764/a], Nov. 18, 1997, [111 Stat. 1825][/us/stat/111/1825].)
+(Added [Pub. L. 105–85, div. A, title VII][/us/pl/105/85/dA/tVII], § 764(a), Nov. 18, 1997, [111 Stat. 1825][/us/stat/111/1825].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 [/us/usc/t38/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710
 [/us/usc/t10/s1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074
 [/us/usc/t38/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs527
-[/us/pl/105/85/s764/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs764%2Fa
+[/us/pl/105/85/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVII
 [/us/stat/111/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1825
 [/us/pl/103/337/s721/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs721%2Fd
 [/us/usc/t10/s1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074

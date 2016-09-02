@@ -27,7 +27,7 @@
 
         (2) that the acquisition is necessary for purposes of maintaining the industrial base or for other reasons of national security.
 
-(Added [Pub. L. 102–190, div. A, title III, § 317(a)][/us/pl/102/190/s317/a], Dec. 5, 1991, [105 Stat. 1338][/us/stat/105/1338].)
+(Added [Pub. L. 102–190, div. A, title III][/us/pl/102/190/dA/tIII], § 317(a), Dec. 5, 1991, [105 Stat. 1338][/us/stat/105/1338].)
 
  __Prior Provisions__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/102/190/s317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs317%2Fa
+[/us/pl/102/190/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtIII
 [/us/stat/105/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1338
 [/us/usc/t10/s2350c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2350c
 

@@ -79,7 +79,7 @@
 
              The term “local educational agency” means—
 
-                (i) a local educational agency, within the meaning of that term in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801]); and
+                (i) a local educational agency, within the meaning of that term in section 8101 of the Elementary and Secondary Education Act of 1965; and
 
                 (ii) a private secondary school.
 
@@ -103,63 +103,69 @@
 
     In this section, the term “directory information” has the meaning given that term in subsection (a)(5)(A) of section 444 of the General Education Provisions Act ([20 U.S.C. 1232g][/us/usc/t20/s1232g]).
 
-(Added [Pub. L. 90–235, § 2(a)(1)(B)][/us/pl/90/235/s2/a/1/B], Jan. 2, 1968, [81 Stat. 754][/us/stat/81/754]; amended [Pub. L. 97–252, title XI, § 1114(b)(1)][/us/pl/97/252/s1114/b/1], (2), Sept. 8, 1982, [96 Stat. 749][/us/stat/96/749]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)][/us/pl/104/106/s1502/a/1], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title V, § 571][/us/pl/106/65/s571], title X, § 1067(1), Oct. 5, 1999, [113 Stat. 622][/us/stat/113/622], 774; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, §§ 562, 563(a)–(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–131 to 1654A–133; [Pub. L. 107–107, div. A, title V, § 544(a)][/us/pl/107/107/s544/a], title X, § 1048(a)(5)(A), Dec. 28, 2001, [115 Stat. 1112][/us/stat/115/1112], 1222; [Pub. L. 108–136, div. A, title V, § 543][/us/pl/108/136/s543], Nov. 24, 2003, [117 Stat. 1478][/us/stat/117/1478]; [Pub. L. 108–375, div. A, title X, § 1084(d)(5)][/us/pl/108/375/s1084/d/5], Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061].)
+(Added [Pub. L. 90–235][/us/pl/90/235], § 2(a)(1)(B), Jan. 2, 1968, [81 Stat. 754][/us/stat/81/754]; amended [Pub. L. 97–252, title XI][/us/pl/97/252/tXI], § 1114(b)(1), (2), Sept. 8, 1982, [96 Stat. 749][/us/stat/96/749]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1502(a)(1), Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 571, title X, § 1067(1), Oct. 5, 1999, [113 Stat. 622][/us/stat/113/622], 774; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, §§ 562, 563(a)–(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–131 to 1654A–133; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 544(a), title X, § 1048(a)(5)(A), Dec. 28, 2001, [115 Stat. 1112][/us/stat/115/1112], 1222; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 543, Nov. 24, 2003, [117 Stat. 1478][/us/stat/117/1478]; [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(d)(5), Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(uuu)(1), Dec. 10, 2015, [129 Stat. 2190][/us/stat/129/2190].)
 
  __References in Text__ 
 
-    The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(A), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], as amended, which is classified generally to chapter 70 (§ 6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20][/us/usc/t20/s6301] and Tables.
+    The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(A), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], as amended, which is classified generally to chapter 70 (§ 6301 et seq.) of Title 20, Education. Section 8101 of the Act is classified to [section 7801 of Title 20][/us/usc/t20/s7801]. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20][/us/usc/t20/s6301] and Tables.
 
  __Amendments__ 
 
+    2015—Subsec. (c)(6)(A)(i). [Pub. L. 114–95][/us/pl/114/95] substituted “section 8101 of the Elementary and Secondary Education Act of 1965” for “section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801])”.
+
     2004—Subsec. (c)(1)(B). [Pub. L. 108–375][/us/pl/108/375] substituted “educational” for “education” after “Each local”.
 
-    2003—Subsec. (c)(5). [Pub. L. 108–136, § 543(a)][/us/pl/108/136/s543/a], substituted “apply to a private secondary school that” for “apply to—
+    2003—Subsec. (c)(5). [Pub. L. 108–136][/us/pl/108/136], § 543(a), substituted “apply to a private secondary school that” for “apply to—
 
     “(A) a local educational agency with respect to access to secondary school students or access to directory information concerning such students for any period during which there is in effect a policy of that agency, established by majority vote of the governing body of the agency, to deny recruiting access to those students or to that directory information, respectively; or
 
     “(B) a private secondary school which”.
 
-    Subsec. (c)(6)(A)(i). [Pub. L. 108–136, § 543(b)][/us/pl/108/136/s543/b], substituted “9101” and “7801” for “14101” and “8801”, respectively.
+    Subsec. (c)(6)(A)(i). [Pub. L. 108–136][/us/pl/108/136], § 543(b), substituted “9101” and “7801” for “14101” and “8801”, respectively.
 
-    2001—Subsec. (c). [Pub. L. 107–107, § 544(a)][/us/pl/107/107/s544/a], reenacted heading without change and amended text of par. (1) generally. Prior to amendment, par. (1) read as follows: “Each local educational agency shall (except as provided under paragraph (5)) provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students.”
+    2001—Subsec. (c). [Pub. L. 107–107][/us/pl/107/107], § 544(a), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, par. (1) read as follows: “Each local educational agency shall (except as provided under paragraph (5)) provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students.”
 
-    Subsec. (c)(6)(A)(i). [Pub. L. 107–107, § 1048(a)(5)(A)][/us/pl/107/107/s1048/a/5/A], substituted “14101” for “14101(18)” and “8801” for “8801(18)”.
+    Subsec. (c)(6)(A)(i). [Pub. L. 107–107][/us/pl/107/107], § 1048(a)(5)(A), substituted “14101” for “14101(18)” and “8801” for “8801(18)”.
 
-    2000—Subsec. (a). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, §§ 562, 563(c)(1)\], inserted heading, designated existing provisions as par. (1), and added par. (2).
+    2000—Subsec. (a). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, §§ 562, 563(c)(1)\], inserted heading, designated existing provisions as par. (1), and added par. (2).
 
-    Subsec. (b). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 563(c)(2)\], inserted heading.
+    Subsec. (b). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 563(c)(2)\], inserted heading.
 
-    Subsec. (b)(7). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 563(b)(1)\], struck out par. (7) which read as follows: “In this subsection, ‘directory information’ means, with respect to a student, the student’s name, address, telephone listing, date and place of birth, level of education, degrees received, and the most recent previous educational agency or institution attended by the student.”
+    Subsec. (b)(7). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 563(b)(1)\], struck out par. (7) which read as follows: “In this subsection, ‘directory information’ means, with respect to a student, the student’s name, address, telephone listing, date and place of birth, level of education, degrees received, and the most recent previous educational agency or institution attended by the student.”
 
-    Subsec. (c). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 563(a)\], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Each local educational agency is requested to provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students.”
+    Subsec. (c). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 563(a)\], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Each local educational agency is requested to provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students.”
 
-    Subsec. (d). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 563(b)(2)\], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 563(b)(2)\], added subsec. (d).
 
-    1999—Subsec. (b)(5). [Pub. L. 106–65, § 1067(1)][/us/pl/106/65/s1067/1], substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+    1999—Subsec. (b)(5). [Pub. L. 106–65][/us/pl/106/65], § 1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-    Subsec. (c). [Pub. L. 106–65, § 571][/us/pl/106/65/s571], added subsec. (c).
+    Subsec. (c). [Pub. L. 106–65][/us/pl/106/65], § 571, added subsec. (c).
 
     1996—Subsec. (b)(5). [Pub. L. 104–106][/us/pl/104/106] substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
-    1982—[Pub. L. 97–252, § 1114(b)(2)][/us/pl/97/252/s1114/b/2], inserted “; compilation of directory information” in section catchline.
+    1982—[Pub. L. 97–252][/us/pl/97/252], § 1114(b)(2), inserted “; compilation of directory information” in section catchline.
 
-    Subsec. (a). [Pub. L. 97–252, § 1114(b)(1)(A)][/us/pl/97/252/s1114/b/1/A], designated existing provisions as subsec. (a).
+    Subsec. (a). [Pub. L. 97–252][/us/pl/97/252], § 1114(b)(1)(A), designated existing provisions as subsec. (a).
 
-    Subsec. (b). [Pub. L. 97–252, § 1114(b)(1)(B)][/us/pl/97/252/s1114/b/1/B], added subsec. (b).
+    Subsec. (b). [Pub. L. 97–252][/us/pl/97/252], § 1114(b)(1)(B), added subsec. (b).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–107, div. A, title V, § 544(b)][/us/pl/107/107/s544/b], Dec. 28, 2001, [115 Stat. 1113][/us/stat/115/1113], provided that: 
+[Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 544(b), Dec. 28, 2001, [115 Stat. 1113][/us/stat/115/1113], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 2002, immediately after the amendment to [section 503(c) of title 10][/us/usc/t10/s503/c], United States Code, made, effective that date, by section 563(a) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by [Public Law 106–398][/us/pl/106/398]; [114 Stat. 1654][/us/stat/114/1654]A–131).”
 
-[Pub. L. 107–107, div. A, title X, § 1048(a)(5)(B)][/us/pl/107/107/s1048/a/5/B], Dec. 28, 2001, [115 Stat. 1222][/us/stat/115/1222], provided that: 
+[Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(a)(5)(B), Dec. 28, 2001, [115 Stat. 1222][/us/stat/115/1222], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall take effect on July 1, 2002, immediately after the amendment to such section \[this section\] effective that date by section 563(a) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by [Public Law 106–398][/us/pl/106/398]; [114 Stat. 1654][/us/stat/114/1654]A–131).”
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 563(d)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–133, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 563(d)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–133, provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 2002.”
 
@@ -169,7 +175,7 @@
 
  __Temporary Authority To Develop and Provide Additional Recruitment Incentives__ 
 
-[Pub. L. 114–92, div. A, title V, § 522][/us/pl/114/92/s522], Nov. 25, 2015, [129 Stat. 811][/us/stat/129/811], provided that:
+[Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 522, Nov. 25, 2015, [129 Stat. 811][/us/stat/129/811], provided that:
 
 >     “(a)  __Additional Recruitment Incentives Authorized__  __.—__ 
 
@@ -227,27 +233,27 @@
 
  __Policy on Military Recruitment and Enlistment of Graduates of Secondary Schools__ 
 
-[Pub. L. 113–66, div. A, title V, § 573][/us/pl/113/66/s573], Dec. 26, 2013, [127 Stat. 772][/us/stat/127/772], provided that:
+[Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 573, Dec. 26, 2013, [127 Stat. 772][/us/stat/127/772], as amended by [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(eee), Dec. 10, 2015, [129 Stat. 2186][/us/stat/129/2186], provided that:
 
 >     “(a)  __Conditions on Use of Test, Assessment, or Screening Tools__  __.—__ 
 
 >     In the case of any test, assessment, or screening tool utilized under the policy on recruitment and enlistment required by subsection (b) of section 532 of the National Defense Authorization Act for Fiscal Year 2012 ([Public Law 112–81][/us/pl/112/81]; [125 Stat. 1403][/us/stat/125/1403]; [10 U.S.C. 503][/us/usc/t10/s503] note) for the purpose of identifying persons for recruitment and enlistment in the Armed Forces, the Secretary of Defense shall—
 
->         “(1) implement a means for ensuring that graduates of a secondary school (as defined in section 9101(38) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801(38)][/us/usc/t20/s7801/38])\[)\], including all persons described in subsection (a)(2) of section 532 of the National Defense Authorization Act for Fiscal Year 2012, are required to meet the same standard on the test, assessment, or screening tool; and
+>         “(1) implement a means for ensuring that graduates of a secondary school (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\]), including all persons described in subsection (a)(2) of section 532 of the National Defense Authorization Act for Fiscal Year 2012, are required to meet the same standard on the test, assessment, or screening tool; and
 
 >         “(2) use uniform testing requirements and grading standards.
 
 >     “(b)  __Rule of Construction__  __.—__ 
 
->     Nothing in section 532(b) of the National Defense Authorization Act for Fiscal Year 2012 or this section shall be construed to permit the Secretary of Defense or the Secretary of a military department to create or use a different grading standard on any test, assessment, or screening tool utilized for the purpose of identifying graduates of a secondary school (as defined in section 9101(38) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801(38)][/us/usc/t20/s7801/38])\[)\], including all persons described in subsection (a)(2) of section 532 of the National Defense Authorization Act for Fiscal Year 2012, for recruitment and enlistment in the Armed Forces.”
+>     Nothing in section 532(b) of the National Defense Authorization Act for Fiscal Year 2012 or this section shall be construed to permit the Secretary of Defense or the Secretary of a military department to create or use a different grading standard on any test, assessment, or screening tool utilized for the purpose of identifying graduates of a secondary school (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\]), including all persons described in subsection (a)(2) of section 532 of the National Defense Authorization Act for Fiscal Year 2012, for recruitment and enlistment in the Armed Forces.”
 
-[Pub. L. 112–81, div. A, title V, § 532][/us/pl/112/81/s532], Dec. 31, 2011, [125 Stat. 1403][/us/stat/125/1403], provided that:
+[Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 532, Dec. 31, 2011, [125 Stat. 1403][/us/stat/125/1403], as amended by [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(ddd), Dec. 10, 2015, [129 Stat. 2185][/us/stat/129/2185], provided that:
 
 >     “(a) __Equal Treatment for Secondary School Graduates.—__ 
 
 >         “(1)  __Equal treatment__  __.—__ 
 
->         For the purposes of recruitment and enlistment in the Armed Forces, the Secretary of a military department shall treat a graduate described in paragraph (2) in the same manner as a graduate of a secondary school (as defined in section 9101(38) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801(38)][/us/usc/t20/s7801/38])\[)\].
+>         For the purposes of recruitment and enlistment in the Armed Forces, the Secretary of a military department shall treat a graduate described in paragraph (2) in the same manner as a graduate of a secondary school (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\]).
 
 >         “(2)  __Covered graduates__  __.—__ 
 
@@ -277,7 +283,7 @@
 
  __Recruitment and Enlistment of Home-Schooled Students in the Armed Forces__ 
 
-[Pub. L. 109–163, div. A, title V, § 591][/us/pl/109/163/s591], Jan. 6, 2006, [119 Stat. 3280][/us/stat/119/3280], provided that:
+[Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 591, Jan. 6, 2006, [119 Stat. 3280][/us/stat/119/3280], provided that:
 
 >     “(a) __Policy on Recruitment and Enlistment.—__ 
 
@@ -309,7 +315,7 @@
 
  __Temporary Army Authority To Provide Additional Recruitment Incentives__ 
 
-[Pub. L. 109–163, div. A, title VI, § 681][/us/pl/109/163/s681], Jan. 6, 2006, [119 Stat. 3320][/us/stat/119/3320], as amended by [Pub. L. 111–84, div. A, title VI, § 621][/us/pl/111/84/s621], Oct. 28, 2009, [123 Stat. 2358][/us/stat/123/2358], provided that:
+[Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 681, Jan. 6, 2006, [119 Stat. 3320][/us/stat/119/3320], as amended by [Pub. L. 111–84, div. A, title VI][/us/pl/111/84/dA/tVI], § 621, Oct. 28, 2009, [123 Stat. 2358][/us/stat/123/2358], provided that:
 
 >     “(a)  __Authority to Develop and Provide Recruitment Incentives__  __.—__ 
 
@@ -389,7 +395,7 @@
 
  __Enhanced Screening Methods and Process Improvements for Recruitment of Home Schooled and National Guard Challenge Program GED Recipients__ 
 
-[Pub. L. 108–375, div. A, title V, § 593][/us/pl/108/375/s593], Oct. 28, 2004, [118 Stat. 1934][/us/stat/118/1934], as amended by [Pub. L. 109–364, div. A, title X, § 1071(g)(4)][/us/pl/109/364/s1071/g/4], Oct. 17, 2006, [120 Stat. 2402][/us/stat/120/2402], provided that:
+[Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 593, Oct. 28, 2004, [118 Stat. 1934][/us/stat/118/1934], as amended by [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(g)(4), Oct. 17, 2006, [120 Stat. 2402][/us/stat/120/2402], provided that:
 
 >     “(a)  __Enhanced Screening Methods and Process Improvements__  __.—__ 
 
@@ -419,7 +425,7 @@
 
  __Department of Defense Joint Advertising, Market Research, and Studies Program__ 
 
-[Pub. L. 108–136, div. A, title V, § 548][/us/pl/108/136/s548], Nov. 24, 2003, [117 Stat. 1481][/us/stat/117/1481], provided that:
+[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 548, Nov. 24, 2003, [117 Stat. 1481][/us/stat/117/1481], provided that:
 
 >     “(a)  __Program Authorized__  __.—__ 
 
@@ -431,11 +437,11 @@
 
  __Notification to Local Educational Agencies__ 
 
-    [Pub. L. 107–107, div. A, title V, § 544(c)][/us/pl/107/107/s544/c], Dec. 28, 2001, [115 Stat. 1113][/us/stat/115/1113], directed the Secretary of Education to provide to local educational agencies notice of the provisions of subsec. (c) of this section, as amended by [Pub. L. 107–107][/us/pl/107/107], not later than 120 days after Dec. 28, 2001.
+    [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 544(c), Dec. 28, 2001, [115 Stat. 1113][/us/stat/115/1113], directed the Secretary of Education to provide to local educational agencies notice of the provisions of subsec. (c) of this section, as amended by [Pub. L. 107–107][/us/pl/107/107], not later than 120 days after Dec. 28, 2001.
 
  __Army Recruiting Pilot Programs__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 561\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–129, as amended by [Pub. L. 107–107, div. A, title V, § 543][/us/pl/107/107/s543], Dec. 28, 2001, [115 Stat. 1112][/us/stat/115/1112], provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 561\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–129, as amended by [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 543, Dec. 28, 2001, [115 Stat. 1112][/us/stat/115/1112], provided that:
 
 >     “(a)  __Requirement for Programs__  __.—__ 
 
@@ -543,11 +549,11 @@
 
  __Pilot Program To Enhance Military Recruiting by Improving Military Awareness of School Counselors and Educators__ 
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 564\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–133, as amended by [Pub. L. 109–364, div. A, title X, § 1046(d)][/us/pl/109/364/s1046/d], Oct. 17, 2006, [120 Stat. 2394][/us/stat/120/2394], directed the Secretary of Defense to conduct a three-year pilot program in a qualifying interactive Internet site beginning not later than 180 days after Oct. 30, 2000, to determine if cooperation with military recruiters by local educational agencies and by institutions of higher education could be enhanced by improving the understanding of school counselors and educators about military recruiting and military career opportunities.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 564\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–133, as amended by [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1046(d), Oct. 17, 2006, [120 Stat. 2394][/us/stat/120/2394], directed the Secretary of Defense to conduct a three-year pilot program in a qualifying interactive Internet site beginning not later than 180 days after Oct. 30, 2000, to determine if cooperation with military recruiters by local educational agencies and by institutions of higher education could be enhanced by improving the understanding of school counselors and educators about military recruiting and military career opportunities.
 
  __Measures To Improve Recruit Quality and Reduce Recruit Attrition__ 
 
-[Pub. L. 105–85, div. A, title V][/us/pl/105/85], subtitle D, Nov. 18, 1997, [111 Stat. 1738][/us/stat/111/1738], provided that:
+[Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], subtitle D, Nov. 18, 1997, [111 Stat. 1738][/us/stat/111/1738], provided that:
 
 > “SEC. 531. __REFORM OF MILITARY RECRUITING SYSTEMS.__ 
 
@@ -611,15 +617,15 @@
 
  __Denial of Funds for Preventing ROTC Access to Campus or Federal Military Recruiting on Campus; Exceptions__ 
 
-    [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title V, § 514\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–270, which provided that none of the funds made available in any Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act for any fiscal year could be provided by contract or by grant to a covered educational entity if the Secretary of Defense determined that the covered educational entity had a policy or practice that prohibited or prevented the maintaining, establishing, or operation of a unit of the Senior Reserve Officer Training Corps at the covered educational entity, or a student at the covered educational entity from enrolling in a unit of the Senior Reserve Officer Training Corps at another institution of higher education, or prohibited or prevented entry to campuses, or access to students on campuses, for purposes of Federal military recruiting or access by military recruiters for purposes of Federal military recruiting to student names, addresses, and telephone listings and, if known, student ages, levels of education, and majors, was repealed and restated in [section 983 of this title][/us/usc/t10/s983] by [Pub. L. 106–65, div. A, title V, § 549(a)(1)][/us/pl/106/65/s549/a/1], (b)(2), Oct. 5, 1999, [113 Stat. 609][/us/stat/113/609], 611.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title V, § 514\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–270, which provided that none of the funds made available in any Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act for any fiscal year could be provided by contract or by grant to a covered educational entity if the Secretary of Defense determined that the covered educational entity had a policy or practice that prohibited or prevented the maintaining, establishing, or operation of a unit of the Senior Reserve Officer Training Corps at the covered educational entity, or a student at the covered educational entity from enrolling in a unit of the Senior Reserve Officer Training Corps at another institution of higher education, or prohibited or prevented entry to campuses, or access to students on campuses, for purposes of Federal military recruiting or access by military recruiters for purposes of Federal military recruiting to student names, addresses, and telephone listings and, if known, student ages, levels of education, and majors, was repealed and restated in [section 983 of this title][/us/usc/t10/s983] by [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 549(a)(1), (b)(2), Oct. 5, 1999, [113 Stat. 609][/us/stat/113/609], 611.
 
  __Military Recruiting on Campus__ 
 
-    [Pub. L. 103–337, div. A, title V, § 558][/us/pl/103/337/s558], Oct. 5, 1994, [108 Stat. 2776][/us/stat/108/2776], as amended by [Pub. L. 104–324, title II, § 206(a)][/us/pl/104/324/s206/a], Oct. 19, 1996, [110 Stat. 3908][/us/stat/110/3908], which provided that no funds available to the Department of Defense or the Department of Transportation could be provided by grant or contract to any institution of higher education that had a policy of denying or preventing the Secretary of Defense or the Secretary of Transportation from obtaining for military recruiting purposes entry to campuses or access to students on campuses or access to directory information pertaining to students, was repealed and restated in [section 983 of this title][/us/usc/t10/s983] by [Pub. L. 106–65, div. A, title V, § 549(a)(1)][/us/pl/106/65/s549/a/1], (b)(1), Oct. 5, 1999, [113 Stat. 609][/us/stat/113/609], 611.
+    [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 558, Oct. 5, 1994, [108 Stat. 2776][/us/stat/108/2776], as amended by [Pub. L. 104–324, title II][/us/pl/104/324/tII], § 206(a), Oct. 19, 1996, [110 Stat. 3908][/us/stat/110/3908], which provided that no funds available to the Department of Defense or the Department of Transportation could be provided by grant or contract to any institution of higher education that had a policy of denying or preventing the Secretary of Defense or the Secretary of Transportation from obtaining for military recruiting purposes entry to campuses or access to students on campuses or access to directory information pertaining to students, was repealed and restated in [section 983 of this title][/us/usc/t10/s983] by [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 549(a)(1), (b)(1), Oct. 5, 1999, [113 Stat. 609][/us/stat/113/609], 611.
 
  __Military Recruiting Information__ 
 
-[Pub. L. 97–252, title XI, § 1114(a)][/us/pl/97/252/s1114/a], Sept. 8, 1982, [96 Stat. 748][/us/stat/96/748], provided that: 
+[Pub. L. 97–252, title XI][/us/pl/97/252/tXI], § 1114(a), Sept. 8, 1982, [96 Stat. 748][/us/stat/96/748], provided that: 
 
 > “The Congress finds that in order for Congress to carry out effectively its constitutional authority to raise and support armies, it is essential—
 
@@ -629,7 +635,7 @@
 
  __Access of Armed Forces Recruiting Personnel to Secondary Educational Institutions; Release of Data__ 
 
-[Pub. L. 96–342, title III, § 302(d)][/us/pl/96/342/s302/d], Sept. 8, 1980, [94 Stat. 1083][/us/stat/94/1083], provided that: 
+[Pub. L. 96–342, title III][/us/pl/96/342/tIII], § 302(d), Sept. 8, 1980, [94 Stat. 1083][/us/stat/94/1083], provided that: 
 
 > “It is the sense of the Congress—
 
@@ -645,111 +651,122 @@
 ----------
 
 [/us/usc/t20/s1232g/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g%2Fa%2F5%2FB
-[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t5/s3132/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa%2F3
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
-[/us/pl/90/235/s2/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs2%2Fa%2F1%2FB
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F754
-[/us/pl/97/252/s1114/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1114%2Fb%2F1
+[/us/pl/97/252/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtXI
 [/us/stat/96/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F749
-[/us/pl/104/106/s1502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F1
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F502
-[/us/pl/106/65/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs571
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F622
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s544/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs544%2Fa
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1112
-[/us/pl/108/136/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs543
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1478
-[/us/pl/108/375/s1084/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F5
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2061
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2190
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/108/136/s543/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs543%2Fa
-[/us/pl/108/136/s543/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs543%2Fb
-[/us/pl/107/107/s544/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs544%2Fa
-[/us/pl/107/107/s1048/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fa%2F5%2FA
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
-[/us/pl/106/65/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs571
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/97/252/s1114/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1114%2Fb%2F2
-[/us/pl/97/252/s1114/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1114%2Fb%2F1%2FA
-[/us/pl/97/252/s1114/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1114%2Fb%2F1%2FB
-[/us/pl/107/107/s544/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs544%2Fb
+[/us/pl/97/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252
+[/us/pl/97/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252
+[/us/pl/97/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1113
 [/us/usc/t10/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs503%2Fc
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s1048/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fa%2F5%2FB
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1222
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/114/92/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs522
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F811
-[/us/pl/113/66/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs573
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F772
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2186
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/stat/125/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1403
 [/us/usc/t10/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs503
-[/us/usc/t20/s7801/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801%2F38
-[/us/usc/t20/s7801/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801%2F38
-[/us/pl/112/81/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs532
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1403
-[/us/usc/t20/s7801/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801%2F38
-[/us/pl/109/163/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs591
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2185
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3280
 [/us/usc/t10/s101/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F9
-[/us/pl/109/163/s681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs681
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3320
-[/us/pl/111/84/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs621
+[/us/pl/111/84/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVI
 [/us/stat/123/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2358
-[/us/pl/108/375/s593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs593
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1934
-[/us/pl/109/364/s1071/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fg%2F4
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2402
-[/us/pl/108/136/s548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs548
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1481
 [/us/stat/117/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1426
-[/us/pl/107/107/s544/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs544%2Fc
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1113
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs543
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1112
 [/us/usc/t20/s1002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002%2Fc
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/109/364/s1046/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1046%2Fd
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2394
-[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1738
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
 [/us/usc/t10/s983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs983
-[/us/pl/106/65/s549/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs549%2Fa%2F1
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F609
-[/us/pl/103/337/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs558
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2776
-[/us/pl/104/324/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs206%2Fa
+[/us/pl/104/324/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtII
 [/us/stat/110/3908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3908
 [/us/usc/t10/s983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs983
-[/us/pl/106/65/s549/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs549%2Fa%2F1
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F609
-[/us/pl/97/252/s1114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1114%2Fa
+[/us/pl/97/252/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtXI
 [/us/stat/96/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F748
-[/us/pl/96/342/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs302%2Fd
+[/us/pl/96/342/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtIII
 [/us/stat/94/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1083
 
 

@@ -79,61 +79,61 @@
 
     (e) The Secretary of each military department, under uniform regulations prescribed by the Secretary of Defense, shall include in guidelines furnished to a selection board convened under [section 611(a) of this title][/us/usc/t10/s611/a] that is considering officers in a health-professions competitive category for promotion to a grade below colonel or, in the case of the Navy, captain, a direction that the board give consideration to an officer’s clinical proficiency and skill as a health professional to at least as great an extent as the board gives to the officer’s administrative and management skills.
 
-(Added [Pub. L. 96–513, title I, § 105][/us/pl/96/513/s105], Dec. 12, 1980, [94 Stat. 2852][/us/stat/94/2852]; amended [Pub. L. 99–433, title IV, § 402(b)][/us/pl/99/433/s402/b], Oct. 1, 1986, [100 Stat. 1030][/us/stat/100/1030]; [Pub. L. 100–456, div. A, title V, § 501(a)][/us/pl/100/456/s501/a], Sept. 29, 1988, [102 Stat. 1965][/us/stat/102/1965]; [Pub. L. 101–189, div. A, title V, § 519][/us/pl/101/189/s519], Nov. 29, 1989, [103 Stat. 1444][/us/stat/103/1444]; [Pub. L. 102–190, div. A, title V, § 504(a)(1)][/us/pl/102/190/s504/a/1], Dec. 5, 1991, [105 Stat. 1355][/us/stat/105/1355]; [Pub. L. 102–484, div. A, title X, § 1052(7)][/us/pl/102/484/s1052/7], Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499]; [Pub. L. 109–163, div. A, title V, § 506(a)][/us/pl/109/163/s506/a], Jan. 6, 2006, [119 Stat. 3227][/us/stat/119/3227]; [Pub. L. 111–383, div. A, title V, § 522(b)][/us/pl/111/383/s522/b], Jan. 7, 2011, [124 Stat. 4215][/us/stat/124/4215].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 105, Dec. 12, 1980, [94 Stat. 2852][/us/stat/94/2852]; amended [Pub. L. 99–433, title IV][/us/pl/99/433/tIV], § 402(b), Oct. 1, 1986, [100 Stat. 1030][/us/stat/100/1030]; [Pub. L. 100–456, div. A, title V][/us/pl/100/456/dA/tV], § 501(a), Sept. 29, 1988, [102 Stat. 1965][/us/stat/102/1965]; [Pub. L. 101–189, div. A, title V][/us/pl/101/189/dA/tV], § 519, Nov. 29, 1989, [103 Stat. 1444][/us/stat/103/1444]; [Pub. L. 102–190, div. A, title V][/us/pl/102/190/dA/tV], § 504(a)(1), Dec. 5, 1991, [105 Stat. 1355][/us/stat/105/1355]; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1052(7), Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 506(a), Jan. 6, 2006, [119 Stat. 3227][/us/stat/119/3227]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 522(b), Jan. 7, 2011, [124 Stat. 4215][/us/stat/124/4215].)
 
  __Amendments__ 
 
     2011—Subsecs. (b)(5), (c). [Pub. L. 111–383][/us/pl/111/383] substituted “of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers” for “in joint duty assignments of officers who are serving, or have served, in such assignments”.
 
-    2006—Subsec. (a)(3). [Pub. L. 109–163, § 506(a)(1)(B)][/us/pl/109/163/s506/a/1/B], added par. (3). Former par. (3) redesignated (4).
+    2006—Subsec. (a)(3). [Pub. L. 109–163][/us/pl/109/163], § 506(a)(1)(B), added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (a)(4). [Pub. L. 109–163, § 506(a)(2)(A)][/us/pl/109/163/s506/a/2/A], substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+    Subsec. (a)(4). [Pub. L. 109–163][/us/pl/109/163], § 506(a)(2)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
-    [Pub. L. 109–163, § 506(a)(1)(A)][/us/pl/109/163/s506/a/1/A], redesignated par. (3) as (4). Former par. (4) redesignated (5).
+    [Pub. L. 109–163][/us/pl/109/163], § 506(a)(1)(A), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-    Subsec. (a)(5). [Pub. L. 109–163, § 506(a)(2)(B)][/us/pl/109/163/s506/a/2/B], substituted “, (3), and (4)” for “and (3)”.
+    Subsec. (a)(5). [Pub. L. 109–163][/us/pl/109/163], § 506(a)(2)(B), substituted “, (3), and (4)” for “and (3)”.
 
-    [Pub. L. 109–163, § 506(a)(1)(A)][/us/pl/109/163/s506/a/1/A], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+    [Pub. L. 109–163][/us/pl/109/163], § 506(a)(1)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-    Subsec. (a)(6). [Pub. L. 109–163, § 506(a)(2)(C)(i)][/us/pl/109/163/s506/a/2/C/i], inserted “, or in paragraph (3),” after “paragraph (2)” in introductory provisions.
+    Subsec. (a)(6). [Pub. L. 109–163][/us/pl/109/163], § 506(a)(2)(C)(i), inserted “, or in paragraph (3),” after “paragraph (2)” in introductory provisions.
 
-    [Pub. L. 109–163, § 506(a)(1)(A)][/us/pl/109/163/s506/a/1/A], redesignated par. (5) as (6). Former par. (6) redesignated (7).
+    [Pub. L. 109–163][/us/pl/109/163], § 506(a)(1)(A), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-    Subsec. (a)(6)(B). [Pub. L. 109–163, § 506(a)(2)(C)(ii)][/us/pl/109/163/s506/a/2/C/ii], inserted “or (3), as applicable” before period at end.
+    Subsec. (a)(6)(B). [Pub. L. 109–163][/us/pl/109/163], § 506(a)(2)(C)(ii), inserted “or (3), as applicable” before period at end.
 
-    Subsec. (a)(7). [Pub. L. 109–163, § 506(a)(1)(A)][/us/pl/109/163/s506/a/1/A], redesignated par. (6) as (7).
+    Subsec. (a)(7). [Pub. L. 109–163][/us/pl/109/163], § 506(a)(1)(A), redesignated par. (6) as (7).
 
-    Subsec. (a)(7)(A). [Pub. L. 109–163, § 506(a)(2)(D)][/us/pl/109/163/s506/a/2/D], inserted “or (3)” after “paragraph (2)(B)” in introductory provisions.
+    Subsec. (a)(7)(A). [Pub. L. 109–163][/us/pl/109/163], § 506(a)(2)(D), inserted “or (3)” after “paragraph (2)(B)” in introductory provisions.
 
-    1992—Subsec. (b)(5). [Pub. L. 102–484, § 1052(7)(A)][/us/pl/102/484/s1052/7/A], substituted “subsection (c)” for “subsection (b)”.
+    1992—Subsec. (b)(5). [Pub. L. 102–484][/us/pl/102/484], § 1052(7)(A), substituted “subsection (c)” for “subsection (b)”.
 
-    Subsec. (d). [Pub. L. 102–484, § 1052(7)(B)][/us/pl/102/484/s1052/7/B], substituted “subsection (b)” for “subsection (a)”.
+    Subsec. (d). [Pub. L. 102–484][/us/pl/102/484], § 1052(7)(B), substituted “subsection (b)” for “subsection (a)”.
 
     1991—[Pub. L. 102–190][/us/pl/102/190] added subsec. (a) and redesignated former subsecs. (a) to (d) as (b) to (e), respectively.
 
     1989—Subsec. (d). [Pub. L. 101–189][/us/pl/101/189] added subsec. (d).
 
-    1988—Subsec. (a)(4). [Pub. L. 100–456, § 501(a)(1)][/us/pl/100/456/s501/a/1], added cl. (4) and struck out former cl. (4) which read as follows: “information relating to the needs of the armed force concerned for officers having particular skills;”.
+    1988—Subsec. (a)(4). [Pub. L. 100–456][/us/pl/100/456], § 501(a)(1), added cl. (4) and struck out former cl. (4) which read as follows: “information relating to the needs of the armed force concerned for officers having particular skills;”.
 
-    Subsec. (c). [Pub. L. 100–456, § 501(a)(2)][/us/pl/100/456/s501/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 100–456][/us/pl/100/456], § 501(a)(2), added subsec. (c).
 
     1986—[Pub. L. 99–433][/us/pl/99/433] designated existing provisions as subsec. (a), added par. (5), redesignated former par. (5) as (6), and added subsec. (b).
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–163, div. A, title V, § 506(c)][/us/pl/109/163/s506/c], Jan. 6, 2006, [119 Stat. 3228][/us/stat/119/3228], provided that: 
+[Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 506(c), Jan. 6, 2006, [119 Stat. 3228][/us/stat/119/3228], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 14107 of this title][/us/usc/t10/s14107]\] shall take effect on October 1, 2006, and shall apply with respect to promotion selection boards convened on or after that date.”
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–190, div. A, title V, § 504(e)][/us/pl/102/190/s504/e], Dec. 5, 1991, [105 Stat. 1358][/us/stat/105/1358], provided that: 
+[Pub. L. 102–190, div. A, title V][/us/pl/102/190/dA/tV], § 504(e), Dec. 5, 1991, [105 Stat. 1358][/us/stat/105/1358], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 614, 616, 618, and 619 of this title\] shall apply to selection boards convened under [section 611(a) of title 10][/us/usc/t10/s611/a], United States Code, after the end of the 60-day period beginning on the date of the enactment of this Act \[Dec. 5, 1991\].”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–456, div. A, title V, § 501(e)][/us/pl/100/456/s501/e], Sept. 29, 1988, [102 Stat. 1966][/us/stat/102/1966], provided that: 
+[Pub. L. 100–456, div. A, title V][/us/pl/100/456/dA/tV], § 501(e), Sept. 29, 1988, [102 Stat. 1966][/us/stat/102/1966], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 616 to 618 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Sept. 29, 1988\] and shall apply with respect to selection boards convened under [section 611(a) of title 10][/us/usc/t10/s611/a], United States Code, on or after that effective date.”
 
@@ -156,47 +156,47 @@
 [/us/usc/t10/s617/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs617%2Fa
 [/us/usc/t10/s618/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs618%2Fa%2F2
 [/us/usc/t10/s611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs611%2Fa
-[/us/pl/96/513/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs105
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2852
-[/us/pl/99/433/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs402%2Fb
+[/us/pl/99/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtIV
 [/us/stat/100/1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1030
-[/us/pl/100/456/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs501%2Fa
+[/us/pl/100/456/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtV
 [/us/stat/102/1965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1965
-[/us/pl/101/189/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs519
+[/us/pl/101/189/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtV
 [/us/stat/103/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1444
-[/us/pl/102/190/s504/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs504%2Fa%2F1
+[/us/pl/102/190/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtV
 [/us/stat/105/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1355
-[/us/pl/102/484/s1052/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F7
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2499
-[/us/pl/109/163/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fa
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3227
-[/us/pl/111/383/s522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs522%2Fb
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4215
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/109/163/s506/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fa%2F1%2FB
-[/us/pl/109/163/s506/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fa%2F2%2FA
-[/us/pl/109/163/s506/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fa%2F1%2FA
-[/us/pl/109/163/s506/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fa%2F2%2FB
-[/us/pl/109/163/s506/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fa%2F1%2FA
-[/us/pl/109/163/s506/a/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fa%2F2%2FC%2Fi
-[/us/pl/109/163/s506/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fa%2F1%2FA
-[/us/pl/109/163/s506/a/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fa%2F2%2FC%2Fii
-[/us/pl/109/163/s506/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fa%2F1%2FA
-[/us/pl/109/163/s506/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fa%2F2%2FD
-[/us/pl/102/484/s1052/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F7%2FA
-[/us/pl/102/484/s1052/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F7%2FB
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
-[/us/pl/100/456/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs501%2Fa%2F1
-[/us/pl/100/456/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs501%2Fa%2F2
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
-[/us/pl/109/163/s506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs506%2Fc
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3228
 [/us/usc/t10/s14107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14107
-[/us/pl/102/190/s504/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs504%2Fe
+[/us/pl/102/190/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtV
 [/us/stat/105/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1358
 [/us/usc/t10/s611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs611%2Fa
-[/us/pl/100/456/s501/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs501%2Fe
+[/us/pl/100/456/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtV
 [/us/stat/102/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1966
 [/us/usc/t10/s611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs611%2Fa
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433

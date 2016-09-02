@@ -29,7 +29,7 @@
 
     (b) Each member of the armed forces who accepts a fellowship, scholarship, or grant in accordance with subsection (a) shall, before he is permitted to undertake the education or training contemplated by that fellowship, scholarship, or grant, agree in writing that, after he completes the education or training, he will serve on active duty for a period at least three times the length of the period of the education or training.
 
-(Added [Pub. L. 87–555, § 1(1)][/us/pl/87/555/s1/1], July 27, 1962, [76 Stat. 244][/us/stat/76/244]; amended [Pub. L. 111–383, div. A, title X, § 1075(b)(39)][/us/pl/111/383/s1075/b/39], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371].)
+(Added [Pub. L. 87–555][/us/pl/87/555], § 1(1), July 27, 1962, [76 Stat. 244][/us/stat/76/244]; amended [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(39), Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/87/555/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F555%2Fs1%2F1
+[/us/pl/87/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F555
 [/us/stat/76/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F244
-[/us/pl/111/383/s1075/b/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F39
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4371
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2603

@@ -31,7 +31,7 @@
 
     Not later than 90 days after receiving a report or recommendations from the advisory committee under subsection (c), the Secretary of the Army shall submit the report or recommendations to the congressional defense committees and the Committees on Veterans’ Affairs of the Senate and House of Representatives and include such comments and recommendations of the Secretary as the Secretary considers appropriate.
 
-(Added [Pub. L. 112–81, div. A, title V, § 591(a)(1)][/us/pl/112/81/s591/a/1], Dec. 31, 2011, [125 Stat. 1440][/us/stat/125/1440].)
+(Added [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 591(a)(1), Dec. 31, 2011, [125 Stat. 1440][/us/stat/125/1440].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/112/81/s591/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs591%2Fa%2F1
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1440
 
 

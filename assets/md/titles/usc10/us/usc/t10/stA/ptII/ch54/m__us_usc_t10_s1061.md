@@ -27,11 +27,11 @@
 
         (2) while traveling to or from the place at which the member was to perform, or has performed, active duty, active duty for training, or inactive-duty training (regardless of the period of such duty).
 
-(Added [Pub. L. 100–370, § 1(c)(1)][/us/pl/100/370/s1/c/1], July 19, 1988, [102 Stat. 841][/us/stat/102/841].)
+(Added [Pub. L. 100–370][/us/pl/100/370], § 1(c)(1), July 19, 1988, [102 Stat. 841][/us/stat/102/841].)
 
  __Historical and Revision Notes__ 
 
-    Section is based on [Pub. L. 99–145, title III, § 308][/us/pl/99/145/s308], Nov. 8, 1985, [99 Stat. 618][/us/stat/99/618].
+    Section is based on [Pub. L. 99–145, title III][/us/pl/99/145/tIII], § 308, Nov. 8, 1985, [99 Stat. 618][/us/stat/99/618].
 
 ----------
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/100/370/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs1%2Fc%2F1
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F841
-[/us/pl/99/145/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs308
+[/us/pl/99/145/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtIII
 [/us/stat/99/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F618
 
 

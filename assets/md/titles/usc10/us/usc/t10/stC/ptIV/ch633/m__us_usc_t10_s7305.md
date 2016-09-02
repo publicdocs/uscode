@@ -41,11 +41,11 @@
 
     This section does not apply to a vessel the disposal of which is authorized by subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, if it is to be disposed of under those provisions.
 
-(Added [Pub. L. 103–160, div. A, title VIII, § 824(b)][/us/pl/103/160/s824/b], Nov. 30, 1993, [107 Stat. 1708][/us/stat/107/1708]; amended [Pub. L. 105–85, div. A, title X, § 1021][/us/pl/105/85/s1021], Nov. 18, 1997, [111 Stat. 1875][/us/stat/111/1875]; [Pub. L. 107–217, § 3(b)(28)][/us/pl/107/217/s3/b/28], Aug. 21, 2002, [116 Stat. 1297][/us/stat/116/1297]; [Pub. L. 108–136, div. A, title X, § 1045(a)(7)][/us/pl/108/136/s1045/a/7], Nov. 24, 2003, [117 Stat. 1612][/us/stat/117/1612]; [Pub. L. 111–350, § 5(b)(53)][/us/pl/111/350/s5/b/53], Jan. 4, 2011, [124 Stat. 3847][/us/stat/124/3847].)
+(Added [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 824(b), Nov. 30, 1993, [107 Stat. 1708][/us/stat/107/1708]; amended [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1021, Nov. 18, 1997, [111 Stat. 1875][/us/stat/111/1875]; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(28), Aug. 21, 2002, [116 Stat. 1297][/us/stat/116/1297]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1045(a)(7), Nov. 24, 2003, [117 Stat. 1612][/us/stat/117/1612]; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(53), Jan. 4, 2011, [124 Stat. 3847][/us/stat/124/3847].)
 
  __Prior Provisions__ 
 
-    A prior section 7305, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 451][/us/stat/70A/451]; Dec. 12, 1980, [Pub. L. 96–513, title V, § 513(27)][/us/pl/96/513/s513/27], [94 Stat. 2933][/us/stat/94/2933], related to sale of vessels stricken from Naval Vessel Register, prior to repeal by [Pub. L. 103–160, § 824(b)][/us/pl/103/160/s824/b].
+    A prior section 7305, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 451][/us/stat/70A/451]; Dec. 12, 1980, [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(27), [94 Stat. 2933][/us/stat/94/2933], related to sale of vessels stricken from Naval Vessel Register, prior to repeal by [Pub. L. 103–160][/us/pl/103/160], § 824(b).
 
  __Amendments__ 
 
@@ -81,21 +81,21 @@
 ----------
 
 [/us/usc/t10/s7304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7304
-[/us/pl/103/160/s824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs824%2Fb
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1708
-[/us/pl/105/85/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1021
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1875
-[/us/pl/107/217/s3/b/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F28
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1297
-[/us/pl/108/136/s1045/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1045%2Fa%2F7
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1612
-[/us/pl/111/350/s5/b/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F53
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3847
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F451
-[/us/pl/96/513/s513/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F27
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2933
-[/us/pl/103/160/s824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs824%2Fb
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136

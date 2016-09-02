@@ -37,13 +37,13 @@
 
     The Secretary shall close the Fund not later than 60 days after the date on which the last benefit payment from the Fund is made. Any amount remaining in the Fund when closed shall be covered into the Treasury as miscellaneous receipts.
 
-(Added [Pub. L. 105–85, div. A, title V, § 512(a)][/us/pl/105/85/s512/a], Nov. 18, 1997, [111 Stat. 1729][/us/stat/111/1729]; amended [Pub. L. 107–107, div. A, title X, § 1048(c)(15)][/us/pl/107/107/s1048/c/15], Dec. 28, 2001, [115 Stat. 1226][/us/stat/115/1226].)
+(Added [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 512(a), Nov. 18, 1997, [111 Stat. 1729][/us/stat/111/1729]; amended [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(c)(15), Dec. 28, 2001, [115 Stat. 1226][/us/stat/115/1226].)
 
  __Amendments__ 
 
-    2001—Subsecs. (b), (c)(1). [Pub. L. 107–107, § 1048(c)(15)(A)][/us/pl/107/107/s1048/c/15/A], substituted “November 18, 1997.” for “the date of the enactment of this section.”
+    2001—Subsecs. (b), (c)(1). [Pub. L. 107–107][/us/pl/107/107], § 1048(c)(15)(A), substituted “November 18, 1997.” for “the date of the enactment of this section.”
 
-    Subsecs. (c)(2), (d). [Pub. L. 107–107, § 1048(c)(15)(B)][/us/pl/107/107/s1048/c/15/B], substituted “November 18, 1997,” for “the date of the enactment of this section”.
+    Subsecs. (c)(2), (d). [Pub. L. 107–107][/us/pl/107/107], § 1048(c)(15)(B), substituted “November 18, 1997,” for “the date of the enactment of this section”.
 
 ----------
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/105/85/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs512%2Fa
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1729
-[/us/pl/107/107/s1048/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fc%2F15
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1226
-[/us/pl/107/107/s1048/c/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fc%2F15%2FA
-[/us/pl/107/107/s1048/c/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fc%2F15%2FB
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 
 

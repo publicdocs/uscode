@@ -85,7 +85,7 @@
 
     A reserve officer of the Army or Air Force employed as a military technician (dual status) under [section 10216 of this title][/us/usc/t10/s10216] who has been retained beyond the mandatory removal date for years of service pursuant to subsection (f) of such section or [section 14702(a)(2) of this title][/us/usc/t10/s14702/a/2] is not eligible for consideration for promotion by a mandatory promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a].
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2931][/us/stat/108/2931]; amended [Pub. L. 105–85, div. A, title V][/us/pl/105/85], §§ 503(b), (c), 514(b), Nov. 18, 1997, [111 Stat. 1724][/us/stat/111/1724], 1725, 1732; [Pub. L. 105–261, div. A, title V, § 514][/us/pl/105/261/s514], Oct. 17, 1998, [112 Stat. 2008][/us/stat/112/2008]; [Pub. L. 106–65, div. A, title V, § 513(a)][/us/pl/106/65/s513/a], title X, § 1066(a)(32), Oct. 5, 1999, [113 Stat. 593][/us/stat/113/593], 772; [Pub. L. 107–107, div. A, title V, § 505(c)(1)(B)][/us/pl/107/107/s505/c/1/B], Dec. 28, 2001, [115 Stat. 1087][/us/stat/115/1087]; [Pub. L. 107–314, div. A, title V, § 521][/us/pl/107/314/s521], Dec. 2, 2002, [116 Stat. 2540][/us/stat/116/2540]; [Pub. L. 112–81, div. A, title V, § 517][/us/pl/112/81/s517], Dec. 31, 2011, [125 Stat. 1397][/us/stat/125/1397].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2931][/us/stat/108/2931]; amended [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], §§ 503(b), (c), 514(b), Nov. 18, 1997, [111 Stat. 1724][/us/stat/111/1724], 1725, 1732; [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 514, Oct. 17, 1998, [112 Stat. 2008][/us/stat/112/2008]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 513(a), title X, § 1066(a)(32), Oct. 5, 1999, [113 Stat. 593][/us/stat/113/593], 772; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 505(c)(1)(B), Dec. 28, 2001, [115 Stat. 1087][/us/stat/115/1087]; [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 521, Dec. 2, 2002, [116 Stat. 2540][/us/stat/116/2540]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 517, Dec. 31, 2011, [125 Stat. 1397][/us/stat/125/1397].)
 
  __Amendments__ 
 
@@ -99,37 +99,37 @@
 
     2001—Subsec. (c)(5). [Pub. L. 107–107][/us/pl/107/107] added par. (5).
 
-    1999—Subsec. (g)(1), (2). [Pub. L. 106–65, § 1066(a)(32)][/us/pl/106/65/s1066/a/32], substituted “one year” for “1 year”.
+    1999—Subsec. (g)(1), (2). [Pub. L. 106–65][/us/pl/106/65], § 1066(a)(32), substituted “one year” for “1 year”.
 
-    Subsec. (h). [Pub. L. 106–65, § 513(a)][/us/pl/106/65/s513/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 106–65][/us/pl/106/65], § 513(a), added subsec. (h).
 
     1998—Subsec. (g). [Pub. L. 105–261][/us/pl/105/261] added subsec. (g).
 
-    1997—Subsec. (c). [Pub. L. 105–85, § 503(b)(1)][/us/pl/105/85/s503/b/1], substituted “grade any of the following officers:” for “grade—” in introductory provisions.
+    1997—Subsec. (c). [Pub. L. 105–85][/us/pl/105/85], § 503(b)(1), substituted “grade any of the following officers:” for “grade—” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 105–85, § 503(b)(2)][/us/pl/105/85/s503/b/2], (3), substituted “An officer” for “an officer” and “title.” for “title;”.
+    Subsec. (c)(1). [Pub. L. 105–85][/us/pl/105/85], § 503(b)(2), (3), substituted “An officer” for “an officer” and “title.” for “title;”.
 
-    Subsec. (c)(2). [Pub. L. 105–85, § 503(b)(6)][/us/pl/105/85/s503/b/6], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (c)(2). [Pub. L. 105–85][/us/pl/105/85], § 503(b)(6), added par. (2). Former par. (2) redesignated (3).
 
-    [Pub. L. 105–85, § 503(b)(2)][/us/pl/105/85/s503/b/2], (4), substituted “An officer” for “an officer” and “be.” for “be; or”.
+    [Pub. L. 105–85][/us/pl/105/85], § 503(b)(2), (4), substituted “An officer” for “an officer” and “be.” for “be; or”.
 
-    Subsec. (c)(3). [Pub. L. 105–85, § 503(c)][/us/pl/105/85/s503/c], inserted “, if that nomination is pending before the Senate” before period at end.
+    Subsec. (c)(3). [Pub. L. 105–85][/us/pl/105/85], § 503(c), inserted “, if that nomination is pending before the Senate” before period at end.
 
-    [Pub. L. 105–85, § 503(b)(5)][/us/pl/105/85/s503/b/5], redesignated par. (2) as (3) and substituted “that grade” for “the next higher grade”. Former par. (3) redesignated (4).
+    [Pub. L. 105–85][/us/pl/105/85], § 503(b)(5), redesignated par. (2) as (3) and substituted “that grade” for “the next higher grade”. Former par. (3) redesignated (4).
 
-    [Pub. L. 105–85, § 503(b)(2)][/us/pl/105/85/s503/b/2], substituted “An officer” for “an officer”.
+    [Pub. L. 105–85][/us/pl/105/85], § 503(b)(2), substituted “An officer” for “an officer”.
 
-    Subsec. (c)(4). [Pub. L. 105–85, § 503(c)][/us/pl/105/85/s503/c], inserted “, if that nomination is pending before the Senate” before period at end.
+    Subsec. (c)(4). [Pub. L. 105–85][/us/pl/105/85], § 503(c), inserted “, if that nomination is pending before the Senate” before period at end.
 
-    [Pub. L. 105–85, § 503(b)(5)][/us/pl/105/85/s503/b/5], redesignated par. (3) as (4) and substituted “that grade” for “the next higher grade”.
+    [Pub. L. 105–85][/us/pl/105/85], § 503(b)(5), redesignated par. (3) as (4) and substituted “that grade” for “the next higher grade”.
 
-    Subsecs. (e) to (g). [Pub. L. 105–85, § 514(b)][/us/pl/105/85/s514/b], redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which read as follows:
+    Subsecs. (e) to (g). [Pub. L. 105–85][/us/pl/105/85], § 514(b), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which read as follows:
 
     “(e) Reserve Officers of the Army; Consideration for Brigadier General and Major General.—In the case of officers of the Army, if the Secretary of the Army determines that vacancies are authorized or anticipated in the reserve grades of major general or brigadier general for officers who are on the reserve active-status list and who are not assigned to units organized to serve as a unit and the Secretary convenes a mandatory promotion board under [section 14101(a) of this title][/us/usc/t10/s14101/a] to consider officers for promotion to fill such vacancies, the Secretary may limit the officers to be considered by that board to those determined to be exceptionally well qualified for promotion under such criteria and procedures as the Secretary may by regulation prescribe.”
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–65, div. A, title V, § 513(b)][/us/pl/106/65/s513/b], Oct. 5, 1999, [113 Stat. 593][/us/stat/113/593], provided that:
+[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 513(b), Oct. 5, 1999, [113 Stat. 593][/us/stat/113/593], provided that:
 
 >     “(1) Subsection (h) of [section 14301 of title 10][/us/usc/t10/s14301], United States Code (as added by subsection (a)), shall apply with respect to boards convened under section 14101(a) of such title before, on, or after the date of the enactment of this Act \[Oct. 5, 1999\].
 
@@ -162,39 +162,39 @@
 [/us/usc/t10/s10216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10216
 [/us/usc/t10/s14702/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14702%2Fa%2F2
 [/us/usc/t10/s14101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fa
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2931
-[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1724
-[/us/pl/105/261/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs514
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2008
-[/us/pl/106/65/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs513%2Fa
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F593
-[/us/pl/107/107/s505/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fc%2F1%2FB
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1087
-[/us/pl/107/314/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs521
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2540
-[/us/pl/112/81/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs517
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1397
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/usc/t10/s14101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fa
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/106/65/s1066/a/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fa%2F32
-[/us/pl/106/65/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs513%2Fa
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
-[/us/pl/105/85/s503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs503%2Fb%2F1
-[/us/pl/105/85/s503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs503%2Fb%2F2
-[/us/pl/105/85/s503/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs503%2Fb%2F6
-[/us/pl/105/85/s503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs503%2Fb%2F2
-[/us/pl/105/85/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs503%2Fc
-[/us/pl/105/85/s503/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs503%2Fb%2F5
-[/us/pl/105/85/s503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs503%2Fb%2F2
-[/us/pl/105/85/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs503%2Fc
-[/us/pl/105/85/s503/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs503%2Fb%2F5
-[/us/pl/105/85/s514/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs514%2Fb
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/usc/t10/s14101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fa
-[/us/pl/106/65/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs513%2Fb
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F593
 [/us/usc/t10/s14301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14301
 [/us/usc/t10/s14301/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14301%2Fh

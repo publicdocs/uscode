@@ -35,7 +35,7 @@
 
     In this section, the term “third-party payer” has the meaning given that term in [section 1095(h) of this title][/us/usc/t10/s1095/h], except that such term excludes primary medical insurers.
 
-(Added [Pub. L. 105–261, div. A, title VII, § 711(a)(1)][/us/pl/105/261/s711/a/1], Oct. 17, 1998, [112 Stat. 2058][/us/stat/112/2058]; amended [Pub. L. 106–65, div. A, title VII, § 716(c)(2)][/us/pl/106/65/s716/c/2], Oct. 5, 1999, [113 Stat. 692][/us/stat/113/692].)
+(Added [Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 711(a)(1), Oct. 17, 1998, [112 Stat. 2058][/us/stat/112/2058]; amended [Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 716(c)(2), Oct. 5, 1999, [113 Stat. 692][/us/stat/113/692].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 
 [/us/usc/t10/s1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1095
 [/us/usc/t10/s1095/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1095%2Fh
-[/us/pl/105/261/s711/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs711%2Fa%2F1
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2058
-[/us/pl/106/65/s716/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs716%2Fc%2F2
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F692
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t10/s1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1095

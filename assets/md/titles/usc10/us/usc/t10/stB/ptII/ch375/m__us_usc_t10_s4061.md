@@ -45,11 +45,11 @@
 
     The Secretary of Defense shall prescribe guidance, which shall be uniform for the military departments, for the conduct of reviews by the Secretary under subsection (a).
 
-(Added [Pub. L. 108–136, div. A, title V, § 576(a)(1)][/us/pl/108/136/s576/a/1], Nov. 24, 2003, [117 Stat. 1486][/us/stat/117/1486].)
+(Added [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 576(a)(1), Nov. 24, 2003, [117 Stat. 1486][/us/stat/117/1486].)
 
  __Effective Date__ 
 
-[Pub. L. 108–136, div. A, title V, § 576(d)][/us/pl/108/136/s576/d], Nov. 24, 2003, [117 Stat. 1488][/us/stat/117/1488], provided that: 
+[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 576(d), Nov. 24, 2003, [117 Stat. 1488][/us/stat/117/1488], provided that: 
 
 > “Sections 4061, 6036, and 9061 of title 10, United States Code, as added by this section, apply with respect to fatalities that occur on or after the date of the enactment of this Act \[Nov. 24, 2003\].”
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/108/136/s576/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs576%2Fa%2F1
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1486
-[/us/pl/108/136/s576/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs576%2Fd
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1488
 
 

@@ -21,7 +21,7 @@
 
     (c) The enlisted members assigned to the Naval Academy Band shall be distributed in grade substantially the same as in the United States Navy Band.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 435][/us/stat/70A/435]; [Pub. L. 87–649, § 14c(52)][/us/pl/87/649/s14c/52], Sept. 7, 1962, [76 Stat. 501][/us/stat/76/501].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 435][/us/stat/70A/435]; [Pub. L. 87–649][/us/pl/87/649], § 14c(52), Sept. 7, 1962, [76 Stat. 501][/us/stat/76/501].)
 
 <table>
 
@@ -81,7 +81,7 @@ Feb. 14, 1931, ch. 184, 46 Stat. 1111; July 17, 1953, ch. 226, § 2, 67 Stat. 
 
  __Permanent Grade of Present Leader of Band__ 
 
-    [Act July 17, 1953, ch. 226, § 3][/us/act/1953-07-17/ch226/s3], [67 Stat. 180][/us/stat/67/180], authorized President to appoint present leader of United States Navy Band to permanent commissioned grade of commander in the Navy, and that such appointment shall be deemed to be not in the line of the Navy or in any staff corps of the Navy.
+    [Act July 17, 1953, ch. 226][/us/act/1953-07-17/ch226], § 3, [67 Stat. 180][/us/stat/67/180], authorized President to appoint present leader of United States Navy Band to permanent commissioned grade of commander in the Navy, and that such appointment shall be deemed to be not in the line of the Navy or in any staff corps of the Navy.
 
 ----------
 
@@ -92,13 +92,13 @@ Feb. 14, 1931, ch. 184, 46 Stat. 1111; July 17, 1953, ch. 226, § 2, 67 Stat. 
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F435
-[/us/pl/87/649/s14c/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs14c%2F52
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F501
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/pl/87/649/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs15
 [/us/usc/t37/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs101
-[/us/act/1953-07-17/ch226/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-17%2Fch226%2Fs3
+[/us/act/1953-07-17/ch226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-17%2Fch226
 [/us/stat/67/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F180
 
 

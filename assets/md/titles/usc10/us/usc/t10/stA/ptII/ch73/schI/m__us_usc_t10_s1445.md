@@ -17,7 +17,7 @@
 
     Whenever he considers it necessary, the Secretary concerned may, under regulations prescribed under [section 1444(a) of this title][/us/usc/t10/s1444/a], correct any election, or any change or revocation of an election, under this subchapter when he considers it necessary to correct an administrative error. Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States.
 
-(Added [Pub. L. 87–381, § 6(1)][/us/pl/87/381/s6/1], Oct. 4, 1961, [75 Stat. 811][/us/stat/75/811]; amended [Pub. L. 92–425, § 1(2)(A)][/us/pl/92/425/s1/2/A], Sept. 21, 1972, [86 Stat. 706][/us/stat/86/706].)
+(Added [Pub. L. 87–381][/us/pl/87/381], § 6(1), Oct. 4, 1961, [75 Stat. 811][/us/stat/75/811]; amended [Pub. L. 92–425][/us/pl/92/425], § 1(2)(A), Sept. 21, 1972, [86 Stat. 706][/us/stat/86/706].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t10/s1444/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1444%2Fa
-[/us/pl/87/381/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F381%2Fs6%2F1
+[/us/pl/87/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F381
 [/us/stat/75/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F811
-[/us/pl/92/425/s1/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425%2Fs1%2F2%2FA
+[/us/pl/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425
 [/us/stat/86/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F706
 [/us/pl/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425
 

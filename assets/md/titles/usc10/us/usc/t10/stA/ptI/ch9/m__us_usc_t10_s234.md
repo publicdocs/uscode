@@ -55,7 +55,7 @@
 
         (2) The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a].
 
-(Added [Pub. L. 109–364, div. A, title V, § 563(a)][/us/pl/109/364/s563/a], Oct. 17, 2006, [120 Stat. 2221][/us/stat/120/2221].)
+(Added [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 563(a), Oct. 17, 2006, [120 Stat. 2221][/us/stat/120/2221].)
 
 ----------
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/109/364/s563/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs563%2Fa
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2221
 
 

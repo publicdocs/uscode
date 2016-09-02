@@ -53,7 +53,7 @@
 
     In this section, the term “international terrorism” has the meaning given that term in section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 ([22 U.S.C. 2656f(d)][/us/usc/t22/s2656f/d]).
 
-(Added [Pub. L. 104–106, div. A, title XIII, § 1341(a)][/us/pl/104/106/s1341/a], Feb. 10, 1996, [110 Stat. 485][/us/stat/110/485]; amended [Pub. L. 105–85, div. A, title X, § 1073(a)(40)][/us/pl/105/85/s1073/a/40], Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774].)
+(Added [Pub. L. 104–106, div. A, title XIII][/us/pl/104/106/dA/tXIII], § 1341(a), Feb. 10, 1996, [110 Stat. 485][/us/stat/110/485]; amended [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(40), Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774].)
 
  __References in Text__ 
 
@@ -78,11 +78,11 @@
 
 [/us/usc/t22/s2656f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2656f
 [/us/usc/t22/s2656f/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2656f%2Fd
-[/us/pl/104/106/s1341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1341%2Fa
+[/us/pl/104/106/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXIII
 [/us/stat/110/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F485
-[/us/pl/105/85/s1073/a/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F40
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1902
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
 [/us/usc/t50/s4605/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1%2FA
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65

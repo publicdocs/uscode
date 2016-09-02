@@ -27,7 +27,7 @@
 
         (2) entities described in subsection (a)(1) of [section 2323 of this title][/us/usc/t10/s2323] in furtherance of the goal specified in that subsection.
 
-(Added [Pub. L. 103–160, div. A, title VIII, § 848(a)(1)][/us/pl/103/160/s848/a/1], Nov. 30, 1993, [107 Stat. 1724][/us/stat/107/1724], § 2304a; renumbered § 2304e, [Pub. L. 104–106, div. D, title XLIII, § 4321(b)(6)(A)][/us/pl/104/106/s4321/b/6/A], Feb. 10, 1996, [110 Stat. 672][/us/stat/110/672].)
+(Added [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 848(a)(1), Nov. 30, 1993, [107 Stat. 1724][/us/stat/107/1724], § 2304a; renumbered § 2304e, [Pub. L. 104–106, div. D, title XLIII][/us/pl/104/106/dD/tXLIII], § 4321(b)(6)(A), Feb. 10, 1996, [110 Stat. 672][/us/stat/110/672].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–160, div. A, title VIII, § 848(b)][/us/pl/103/160/s848/b], Nov. 30, 1993, [107 Stat. 1725][/us/stat/107/1725], provided that: 
+[Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 848(b), Nov. 30, 1993, [107 Stat. 1725][/us/stat/107/1725], provided that: 
 
 > “Section 2304a \[now 2304e\] of title 10, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Nov. 30, 1993\].”
 
@@ -48,13 +48,13 @@
 
 [/us/usc/t15/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637
 [/us/usc/t10/s2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2323
-[/us/pl/103/160/s848/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs848%2Fa%2F1
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1724
-[/us/pl/104/106/s4321/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4321%2Fb%2F6%2FA
+[/us/pl/104/106/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdD%2FtXLIII
 [/us/stat/110/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F672
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t10/s2304a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304a
-[/us/pl/103/160/s848/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs848%2Fb
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1725
 
 

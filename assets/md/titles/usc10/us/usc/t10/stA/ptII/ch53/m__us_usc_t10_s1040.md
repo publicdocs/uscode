@@ -41,13 +41,13 @@
 
     (c) In this section, the term “dependent” has the meaning given that term in [section 1072 of this title][/us/usc/t10/s1072].
 
-(Added [Pub. L. 89–140, § 1(1)][/us/pl/89/140/s1/1], Aug. 28, 1965, [79 Stat. 579][/us/stat/79/579]; amended [Pub. L. 96–513, title V, § 511(32)][/us/pl/96/513/s511/32], Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922]; [Pub. L. 98–94, title IX, § 913(b)][/us/pl/98/94/s913/b], Sept. 24, 1983, [97 Stat. 640][/us/stat/97/640]; [Pub. L. 98–525, title VI, § 611][/us/pl/98/525/s611], title XIV, § 1405(21), Oct. 19, 1984, [98 Stat. 2538][/us/stat/98/2538], 2623; [Pub. L. 99–348, title III, § 304(a)(2)][/us/pl/99/348/s304/a/2], July 1, 1986, [100 Stat. 703][/us/stat/100/703]; [Pub. L. 99–661, div. A, title VI, § 616(a)][/us/pl/99/661/s616/a], Nov. 14, 1986, [100 Stat. 3880][/us/stat/100/3880]; [Pub. L. 112–81, div. A, title VII, § 705][/us/pl/112/81/s705], Dec. 31, 2011, [125 Stat. 1473][/us/stat/125/1473]; [Pub. L. 113–66, div. A, title VI, § 621(b)][/us/pl/113/66/s621/b], Dec. 26, 2013, [127 Stat. 783][/us/stat/127/783]; [Pub. L. 113–291, div. A, title X, § 1071(f)(11)][/us/pl/113/291/s1071/f/11], Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510]; [Pub. L. 114–92, div. A, title VII, § 721][/us/pl/114/92/s721], Nov. 25, 2015, [129 Stat. 869][/us/stat/129/869].)
+(Added [Pub. L. 89–140][/us/pl/89/140], § 1(1), Aug. 28, 1965, [79 Stat. 579][/us/stat/79/579]; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(32), Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922]; [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], § 913(b), Sept. 24, 1983, [97 Stat. 640][/us/stat/97/640]; [Pub. L. 98–525, title VI][/us/pl/98/525/tVI], § 611, title XIV, § 1405(21), Oct. 19, 1984, [98 Stat. 2538][/us/stat/98/2538], 2623; [Pub. L. 99–348, title III][/us/pl/99/348/tIII], § 304(a)(2), July 1, 1986, [100 Stat. 703][/us/stat/100/703]; [Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], § 616(a), Nov. 14, 1986, [100 Stat. 3880][/us/stat/100/3880]; [Pub. L. 112–81, div. A, title VII][/us/pl/112/81/dA/tVII], § 705, Dec. 31, 2011, [125 Stat. 1473][/us/stat/125/1473]; [Pub. L. 113–66, div. A, title VI][/us/pl/113/66/dA/tVI], § 621(b), Dec. 26, 2013, [127 Stat. 783][/us/stat/127/783]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(f)(11), Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510]; [Pub. L. 114–92, div. A, title VII][/us/pl/114/92/dA/tVII], § 721, Nov. 25, 2015, [129 Stat. 869][/us/stat/129/869].)
 
  __Codification__ 
 
     Another section 1040 was renumbered [section 1041 of this title][/us/usc/t10/s1041].
 
-    Another section 1040, related to free postage from combat zones, was added by [Pub. L. 89–132, § 9(a)][/us/pl/89/132/s9/a], Aug. 21, 1965, [79 Stat. 548][/us/stat/79/548], prior to repeal by [Pub. L. 89–315, § 3(a)][/us/pl/89/315/s3/a], Nov. 1, 1965, [79 Stat. 1164][/us/stat/79/1164]. See section 3401 et seq. of Title 39, Postal Service.
+    Another section 1040, related to free postage from combat zones, was added by [Pub. L. 89–132][/us/pl/89/132], § 9(a), Aug. 21, 1965, [79 Stat. 548][/us/stat/79/548], prior to repeal by [Pub. L. 89–315][/us/pl/89/315], § 3(a), Nov. 1, 1965, [79 Stat. 1164][/us/stat/79/1164]. See section 3401 et seq. of Title 39, Postal Service.
 
  __Amendments__ 
 
@@ -55,9 +55,9 @@
 
     2014—Subsec. (a)(1). [Pub. L. 113–291][/us/pl/113/291] substituted “37.” for “37..”.
 
-    2013—Subsec. (a)(1). [Pub. L. 113–66, § 621(b)(1)][/us/pl/113/66/s621/b/1], substituted “travel and transportation allowances may be furnished to necessary attendants. The dependents and any attendants shall be furnished such travel and transportation allowances as specified in regulations prescribed under [section 464 of title 37][/us/usc/t37/s464].” for “round-trip transportation and travel expenses may be furnished necessary attendants. In addition to transportation of a dependent at the expense of the United States authorized under this subsection, reasonable travel expenses incurred in connection with the transportation of the dependent may be paid at the expense of the United States”.
+    2013—Subsec. (a)(1). [Pub. L. 113–66][/us/pl/113/66], § 621(b)(1), substituted “travel and transportation allowances may be furnished to necessary attendants. The dependents and any attendants shall be furnished such travel and transportation allowances as specified in regulations prescribed under [section 464 of title 37][/us/usc/t37/s464].” for “round-trip transportation and travel expenses may be furnished necessary attendants. In addition to transportation of a dependent at the expense of the United States authorized under this subsection, reasonable travel expenses incurred in connection with the transportation of the dependent may be paid at the expense of the United States”.
 
-    Subsec. (d). [Pub. L. 113–66, § 621(b)(2)][/us/pl/113/66/s621/b/2], struck out subsec. (d) which read as follows: “Transportation and travel expenses authorized by this section shall be furnished in accordance with joint regulations to be prescribed by the Secretary of Transportation, the Secretary of Defense, the Secretary of Commerce, and the Secretary of Health and Human Services, which shall require the use of transportation facilities of the United States insofar as practicable.”
+    Subsec. (d). [Pub. L. 113–66][/us/pl/113/66], § 621(b)(2), struck out subsec. (d) which read as follows: “Transportation and travel expenses authorized by this section shall be furnished in accordance with joint regulations to be prescribed by the Secretary of Transportation, the Secretary of Defense, the Secretary of Commerce, and the Secretary of Health and Human Services, which shall require the use of transportation facilities of the United States insofar as practicable.”
 
     2011—Subsec. (a). [Pub. L. 112–81][/us/pl/112/81] designated existing provisions as par. (1) and added par. (2).
 
@@ -65,9 +65,9 @@
 
     Subsec. (c). [Pub. L. 99–348][/us/pl/99/348] substituted “In this section, the term ‘dependent’ has the meaning given that term in” for “ ‘Dependent’ and ‘uniformed services’ in this section have the meanings of those terms as defined in”.
 
-    1984—Subsec. (a). [Pub. L. 98–525, § 1405(21)][/us/pl/98/525/s1405/21], substituted “30” for “thirty”.
+    1984—Subsec. (a). [Pub. L. 98–525][/us/pl/98/525], § 1405(21), substituted “30” for “thirty”.
 
-    [Pub. L. 98–525, § 611][/us/pl/98/525/s611], made provisions of section applicable to a dependent accompanying a member of the uniformed services stationed in Alaska or Hawaii.
+    [Pub. L. 98–525][/us/pl/98/525], § 611, made provisions of section applicable to a dependent accompanying a member of the uniformed services stationed in Alaska or Hawaii.
 
     1983—Subsec. (a). [Pub. L. 98–94][/us/pl/98/94] inserted “, and such expenses may be paid in advance” after “attendants”.
 
@@ -75,17 +75,17 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–661, div. A, title VI, § 616(b)][/us/pl/99/661/s616/b], Nov. 14, 1986, [100 Stat. 3880][/us/stat/100/3880], provided that: 
+[Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], § 616(b), Nov. 14, 1986, [100 Stat. 3880][/us/stat/100/3880], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply only to travel performed on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
  __Effective Date of 1984 Amendment__ 
 
-    [Pub. L. 98–525, title VI, § 611][/us/pl/98/525/s611], Oct. 19, 1984, [98 Stat. 2538][/us/stat/98/2538], provided that the amendment made by that section is effective Oct. 1, 1984.
+    [Pub. L. 98–525, title VI][/us/pl/98/525/tVI], § 611, Oct. 19, 1984, [98 Stat. 2538][/us/stat/98/2538], provided that the amendment made by that section is effective Oct. 1, 1984.
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 98–94, title IX, § 913(c)][/us/pl/98/94/s913/c], Sept. 24, 1983, [97 Stat. 640][/us/stat/97/640], provided that: 
+[Pub. L. 98–94, title IX][/us/pl/98/94/tIX], § 913(c), Sept. 24, 1983, [97 Stat. 640][/us/stat/97/640], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 1036 of this title][/us/usc/t10/s1036]\] shall apply to travel performed by escorts or attendants of dependents on or after the date of the enactment of this Act \[Sept. 24, 1983\].”
 
@@ -102,48 +102,48 @@
 
 [/us/usc/t37/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs464
 [/us/usc/t10/s1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072
-[/us/pl/89/140/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F140%2Fs1%2F1
+[/us/pl/89/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F140
 [/us/stat/79/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F579
-[/us/pl/96/513/s511/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F32
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2922
-[/us/pl/98/94/s913/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs913%2Fb
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F640
-[/us/pl/98/525/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs611
+[/us/pl/98/525/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVI
 [/us/stat/98/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2538
-[/us/pl/99/348/s304/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs304%2Fa%2F2
+[/us/pl/99/348/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtIII
 [/us/stat/100/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F703
-[/us/pl/99/661/s616/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs616%2Fa
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3880
-[/us/pl/112/81/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs705
+[/us/pl/112/81/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVII
 [/us/stat/125/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1473
-[/us/pl/113/66/s621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Fb
+[/us/pl/113/66/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVI
 [/us/stat/127/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F783
-[/us/pl/113/291/s1071/f/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F11
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3510
-[/us/pl/114/92/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs721
+[/us/pl/114/92/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVII
 [/us/stat/129/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F869
 [/us/usc/t10/s1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1041
-[/us/pl/89/132/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F132%2Fs9%2Fa
+[/us/pl/89/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F132
 [/us/stat/79/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F548
-[/us/pl/89/315/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F315%2Fs3%2Fa
+[/us/pl/89/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F315
 [/us/stat/79/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1164
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
-[/us/pl/113/66/s621/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Fb%2F1
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t37/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs464
-[/us/pl/113/66/s621/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Fb%2F2
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
-[/us/pl/98/525/s1405/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F21
-[/us/pl/98/525/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs611
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
-[/us/pl/99/661/s616/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs616%2Fb
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3880
-[/us/pl/98/525/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs611
+[/us/pl/98/525/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVI
 [/us/stat/98/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2538
-[/us/pl/98/94/s913/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs913%2Fc
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F640
 [/us/usc/t10/s1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1036
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

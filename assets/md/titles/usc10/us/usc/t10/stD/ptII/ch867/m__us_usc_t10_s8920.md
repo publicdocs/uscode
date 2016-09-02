@@ -25,7 +25,7 @@
 
         (2) The Director of Admissions of the United States Air Force Academy.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 551][/us/stat/70A/551]; [Pub. L. 104–106, div. A, title V, § 509(b)(1)][/us/pl/104/106/s509/b/1], Feb. 10, 1996, [110 Stat. 298][/us/stat/110/298].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 551][/us/stat/70A/551]; [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 509(b)(1), Feb. 10, 1996, [110 Stat. 298][/us/stat/110/298].)
 
 <table>
 
@@ -86,7 +86,7 @@ Aug. 7, 1947, ch. 512, § 520(c) (proviso), 61 Stat. 912.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F551
-[/us/pl/104/106/s509/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs509%2Fb%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F298
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 

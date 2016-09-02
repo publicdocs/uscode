@@ -27,7 +27,7 @@
 
         (2) the Secretary of the Navy determines that the student has a demonstrated ability in a field of study designated by the Secretary as related to naval warfare and national security.
 
-(Added [Pub. L. 102–484, div. A, title X, § 1073(a)(2)][/us/pl/102/484/s1073/a/2], Oct. 23, 1992, [106 Stat. 2510][/us/stat/106/2510].)
+(Added [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1073(a)(2), Oct. 23, 1992, [106 Stat. 2510][/us/stat/106/2510].)
 
  __Prior Provisions__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/102/484/s1073/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1073%2Fa%2F2
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2510
 [/us/usc/t10/s7048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7048
 

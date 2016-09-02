@@ -53,7 +53,7 @@
 
         (2) The term “property under the jurisdiction of the Department of Defense” includes commissaries, all facilities operated by the Army and Air Force Exchange Service, the Navy Exchange Service Command, the Navy Resale and Services Support Office, Marine Corps exchanges, and ships’ stores.
 
-(Added [Pub. L. 104–201, div. A, title III, § 343(a)(1)][/us/pl/104/201/s343/a/1], Sept. 23, 1996, [110 Stat. 2489][/us/stat/110/2489], § 2489a; renumbered § 2495b, [Pub. L. 108–375, div. A, title VI, § 651(b)(2)][/us/pl/108/375/s651/b/2], (c)(5), Oct. 28, 2004, [118 Stat. 1971][/us/stat/118/1971], 1972; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 642(a), Oct. 14, 2008, [122 Stat. 4493][/us/stat/122/4493].)
+(Added [Pub. L. 104–201, div. A, title III][/us/pl/104/201/dA/tIII], § 343(a)(1), Sept. 23, 1996, [110 Stat. 2489][/us/stat/110/2489], § 2489a; renumbered § 2495b, [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 651(b)(2), (c)(5), Oct. 28, 2004, [118 Stat. 1971][/us/stat/118/1971], 1972; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 642(a), Oct. 14, 2008, [122 Stat. 4493][/us/stat/122/4493].)
 
  __Amendments__ 
 
@@ -63,7 +63,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–201, div. A, title III, § 343(b)][/us/pl/104/201/s343/b], Sept. 23, 1996, [110 Stat. 2490][/us/stat/110/2490], provided that: 
+[Pub. L. 104–201, div. A, title III][/us/pl/104/201/dA/tIII], § 343(b), Sept. 23, 1996, [110 Stat. 2490][/us/stat/110/2490], provided that: 
 
 > “Subsection (a) of section 2489a \[now 2495b\] of title 10, United States Code, as added by subsection (a) of this section, shall take effect 90 days after the date of the enactment of this Act \[Sept. 23, 1996\].”
 
@@ -86,16 +86,16 @@
 ----------
 ----------
 
-[/us/pl/104/201/s343/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs343%2Fa%2F1
+[/us/pl/104/201/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIII
 [/us/stat/110/2489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2489
-[/us/pl/108/375/s651/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs651%2Fb%2F2
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1971
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4493
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t10/s2489a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2489a
-[/us/pl/104/201/s343/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs343%2Fb
+[/us/pl/104/201/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIII
 [/us/stat/110/2490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2490
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4494

@@ -65,7 +65,7 @@ Aug. 13, 1946, ch. 957, § 562, 60 Stat. 1011.  </td>
 
  __Department of Defense Support to Security of United States Diplomatic Facilities__ 
 
-[Pub. L. 113–291, div. A, title XII, § 1269][/us/pl/113/291/s1269], Dec. 19, 2014, [128 Stat. 3586][/us/stat/128/3586], provided that:
+[Pub. L. 113–291, div. A, title XII][/us/pl/113/291/dA/tXII], § 1269, Dec. 19, 2014, [128 Stat. 3586][/us/stat/128/3586], provided that:
 
 >     “(a) __Marine Corps Security Guard Program.—__ 
 
@@ -123,7 +123,7 @@ Aug. 13, 1946, ch. 957, § 562, 60 Stat. 1011.  </td>
 
  __Additional Marine Corps Personnel for the Marine Corps Security Guard Program__ 
 
-[Pub. L. 112–239, div. A, title IV, § 404][/us/pl/112/239/s404], Jan. 2, 2013, [126 Stat. 1708][/us/stat/126/1708], provided that:
+[Pub. L. 112–239, div. A, title IV][/us/pl/112/239/dA/tIV], § 404, Jan. 2, 2013, [126 Stat. 1708][/us/stat/126/1708], provided that:
 
 >     “(a) __Additional Personnel.—__ 
 
@@ -188,11 +188,11 @@ Aug. 13, 1946, ch. 957, § 562, 60 Stat. 1011.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F374
-[/us/pl/113/291/s1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1269
+[/us/pl/113/291/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXII
 [/us/stat/128/3586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3586
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t10/s5983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5983
-[/us/pl/112/239/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs404
+[/us/pl/112/239/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIV
 [/us/stat/126/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1708
 [/us/usc/t22/s4802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4802
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa

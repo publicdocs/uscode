@@ -69,23 +69,23 @@
 
         (3) Paragraph (1) shall not apply in the case of a family housing unit used, or intended for use, as quarters for a general officer or flag officer if the unit was identified in the most recent report submitted under subsection (e) and the cost of the maintenance or repair project was included in the total of anticipated operation, maintenance, and repair costs for the unit specified in the report.
 
-(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 162][/us/stat/96/162]; amended [Pub. L. 107–217, § 3(b)(19)][/us/pl/107/217/s3/b/19], Aug. 21, 2002, [116 Stat. 1297][/us/stat/116/1297]; [Pub. L. 108–375, div. B, title XXVIII, § 2802(a)][/us/pl/108/375/s2802/a], (b), Oct. 28, 2004, [118 Stat. 2119][/us/stat/118/2119], 2120; [Pub. L. 109–364, div. A, title X, § 1071(a)(26)][/us/pl/109/364/s1071/a/26], div. B, title XXVIII, § 2805, Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399], 2467.)
+(Added [Pub. L. 97–214][/us/pl/97/214], § 2(a), July 12, 1982, [96 Stat. 162][/us/stat/96/162]; amended [Pub. L. 107–217][/us/pl/107/217], § 3(b)(19), Aug. 21, 2002, [116 Stat. 1297][/us/stat/116/1297]; [Pub. L. 108–375, div. B, title XXVIII][/us/pl/108/375/dB/tXXVIII], § 2802(a), (b), Oct. 28, 2004, [118 Stat. 2119][/us/stat/118/2119], 2120; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(26), div. B, title XXVIII, § 2805, Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399], 2467.)
 
  __References in Text__ 
 
-    Section 222(c) of the National Housing Act ([12 U.S.C. 1715m(c)][/us/usc/t12/s1715m/c]), referred to in subsec. (b)(1), was repealed by [Pub. L. 110–289, div. B, title I, § 2120(a)(5)][/us/pl/110/289/s2120/a/5], July 30, 2008, [122 Stat. 2835][/us/stat/122/2835].
+    Section 222(c) of the National Housing Act ([12 U.S.C. 1715m(c)][/us/usc/t12/s1715m/c]), referred to in subsec. (b)(1), was repealed by [Pub. L. 110–289, div. B, title I][/us/pl/110/289/dB/tI], § 2120(a)(5), July 30, 2008, [122 Stat. 2835][/us/stat/122/2835].
 
  __Amendments__ 
 
-    2006—Subsecs. (a) to (d). [Pub. L. 109–364, § 2805(b)(1)][/us/pl/109/364/s2805/b/1]–(4), inserted subsec. headings.
+    2006—Subsecs. (a) to (d). [Pub. L. 109–364][/us/pl/109/364], § 2805(b)(1)–(4), inserted subsec. headings.
 
-    Subsec. (e). [Pub. L. 109–364, § 2805(b)(5)][/us/pl/109/364/s2805/b/5], struck out “Cost of” before “General Officers” in heading.
+    Subsec. (e). [Pub. L. 109–364][/us/pl/109/364], § 2805(b)(5), struck out “Cost of” before “General Officers” in heading.
 
-    Subsec. (e)(1)(B). [Pub. L. 109–364, § 2805(a)(2)(A)][/us/pl/109/364/s2805/a/2/A], substituted “identified under subparagraph (A)” for “so identified”.
+    Subsec. (e)(1)(B). [Pub. L. 109–364][/us/pl/109/364], § 2805(a)(2)(A), substituted “identified under subparagraph (A)” for “so identified”.
 
-    Subsec. (e)(1)(C) to (E). [Pub. L. 109–364, § 2805(a)(1)][/us/pl/109/364/s2805/a/1], (2)(B), (3), added subpars. (C) to (E).
+    Subsec. (e)(1)(C) to (E). [Pub. L. 109–364][/us/pl/109/364], § 2805(a)(1), (2)(B), (3), added subpars. (C) to (E).
 
-    Subsec. (f)(2). [Pub. L. 109–364, § 1071(a)(26)][/us/pl/109/364/s1071/a/26], substituted “environmental” for “enviromental”.
+    Subsec. (f)(2). [Pub. L. 109–364][/us/pl/109/364], § 1071(a)(26), substituted “environmental” for “enviromental”.
 
     2004—Subsecs. (e), (f). [Pub. L. 108–375][/us/pl/108/375] added subsecs. (e) and (f).
 
@@ -106,22 +106,22 @@
 [/us/usc/t40/s572/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs572%2Fa
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
-[/us/pl/97/214/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs2%2Fa
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F162
-[/us/pl/107/217/s3/b/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F19
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1297
-[/us/pl/108/375/s2802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs2802%2Fa
+[/us/pl/108/375/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdB%2FtXXVIII
 [/us/stat/118/2119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2119
-[/us/pl/109/364/s1071/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F26
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2399
 [/us/usc/t12/s1715m/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715m%2Fc
-[/us/pl/110/289/s2120/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2120%2Fa%2F5
+[/us/pl/110/289/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtI
 [/us/stat/122/2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2835
-[/us/pl/109/364/s2805/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2805%2Fb%2F1
-[/us/pl/109/364/s2805/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2805%2Fb%2F5
-[/us/pl/109/364/s2805/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2805%2Fa%2F2%2FA
-[/us/pl/109/364/s2805/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2805%2Fa%2F1
-[/us/pl/109/364/s1071/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F26
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s572/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs572%2Fa

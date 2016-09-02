@@ -47,7 +47,7 @@
 
             (B) the level of compliance during the preceding calendar year with voting assistance programs of each of the Army, Navy, Air Force, and Marine Corps.
 
-    \[(d) Repealed. [Pub. L. 109–364, div. A, title V, § 596(a)][/us/pl/109/364/s596/a], Oct. 17, 2006, [120 Stat. 2235][/us/stat/120/2235].\]
+    \[(d) Repealed. [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 596(a), Oct. 17, 2006, [120 Stat. 2235][/us/stat/120/2235].\]
 
     (e)  __Regular Military Department Assessments__  __.—__ 
 
@@ -79,7 +79,7 @@
 
         (3) Where practicable, a special day or days shall be designated at each military installation for the purpose of informing members of the armed forces and their dependents of election timing, registration requirements, and voting procedures.
 
-(Added [Pub. L. 107–107, div. A, title XVI, § 1602(a)(1)][/us/pl/107/107/s1602/a/1], Dec. 28, 2001, [115 Stat. 1274][/us/stat/115/1274]; amended [Pub. L. 107–252, title VII, § 701][/us/pl/107/252/s701], Oct. 29, 2002, [116 Stat. 1722][/us/stat/116/1722]; [Pub. L. 108–375, div. A, title X, § 1084(d)(13)][/us/pl/108/375/s1084/d/13], Oct. 28, 2004, [118 Stat. 2062][/us/stat/118/2062]; [Pub. L. 109–364, div. A, title V, § 596(a)][/us/pl/109/364/s596/a], (d), Oct. 17, 2006, [120 Stat. 2235][/us/stat/120/2235], 2236.)
+(Added [Pub. L. 107–107, div. A, title XVI][/us/pl/107/107/dA/tXVI], § 1602(a)(1), Dec. 28, 2001, [115 Stat. 1274][/us/stat/115/1274]; amended [Pub. L. 107–252, title VII][/us/pl/107/252/tVII], § 701, Oct. 29, 2002, [116 Stat. 1722][/us/stat/116/1722]; [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(d)(13), Oct. 28, 2004, [118 Stat. 2062][/us/stat/118/2062]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 596(a), (d), Oct. 17, 2006, [120 Stat. 2235][/us/stat/120/2235], 2236.)
 
  __References in Text__ 
 
@@ -87,25 +87,25 @@
 
  __Amendments__ 
 
-    2006—Subsec. (d). [Pub. L. 109–364, § 596(a)][/us/pl/109/364/s596/a], struck out subsec. (d), which required the Inspector General of the Department of Defense to periodically conduct unannounced assessments of compliance with requirements of law regarding voting by members of the armed forces at Department of Defense installations.
+    2006—Subsec. (d). [Pub. L. 109–364][/us/pl/109/364], § 596(a), struck out subsec. (d), which required the Inspector General of the Department of Defense to periodically conduct unannounced assessments of compliance with requirements of law regarding voting by members of the armed forces at Department of Defense installations.
 
-    Subsec. (g)(2). [Pub. L. 109–364, § 596(d)][/us/pl/109/364/s596/d], struck out at end “Not later than April 29, 2003, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures.”
+    Subsec. (g)(2). [Pub. L. 109–364][/us/pl/109/364], § 596(d), struck out at end “Not later than April 29, 2003, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures.”
 
-    2004—Subsec. (g)(2). [Pub. L. 108–375, § 1084(d)(13)(A)][/us/pl/108/375/s1084/d/13/A], substituted “April 29, 2003” for “the date that is 6 months after the date of the enactment of the Help America Vote Act of 2002”.
+    2004—Subsec. (g)(2). [Pub. L. 108–375][/us/pl/108/375], § 1084(d)(13)(A), substituted “April 29, 2003” for “the date that is 6 months after the date of the enactment of the Help America Vote Act of 2002”.
 
-    Subsecs. (h), (i)(1), (3). [Pub. L. 108–375, § 1084(d)(13)(B)][/us/pl/108/375/s1084/d/13/B], substituted “armed forces” for “Armed Forces”.
+    Subsecs. (h), (i)(1), (3). [Pub. L. 108–375][/us/pl/108/375], § 1084(d)(13)(B), substituted “armed forces” for “Armed Forces”.
 
-    2002—Subsec. (f). [Pub. L. 107–252, § 701(a)][/us/pl/107/252/s701/a], designated existing provisions as par. (1) and added par. (2).
+    2002—Subsec. (f). [Pub. L. 107–252][/us/pl/107/252], § 701(a), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (g)(2). [Pub. L. 107–252, § 701(b)][/us/pl/107/252/s701/b], inserted at end “The Secretary shall, to the maximum extent practicable, implement measures to ensure that a postmark or other official proof of mailing date is provided on each absentee ballot collected at any overseas location or vessel at sea whenever the Department of Defense is responsible for collecting mail for return shipment to the United States. The Secretary shall ensure that the measures implemented under the preceding sentence do not result in the delivery of absentee ballots to the final destination of such ballots after the date on which the election for Federal office is held. Not later than the date that is 6 months after the date of the enactment of the Help America Vote Act of 2002, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures.”
+    Subsec. (g)(2). [Pub. L. 107–252][/us/pl/107/252], § 701(b), inserted at end “The Secretary shall, to the maximum extent practicable, implement measures to ensure that a postmark or other official proof of mailing date is provided on each absentee ballot collected at any overseas location or vessel at sea whenever the Department of Defense is responsible for collecting mail for return shipment to the United States. The Secretary shall ensure that the measures implemented under the preceding sentence do not result in the delivery of absentee ballots to the final destination of such ballots after the date on which the election for Federal office is held. Not later than the date that is 6 months after the date of the enactment of the Help America Vote Act of 2002, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures.”
 
-    Subsec. (h). [Pub. L. 107–252, § 701(c)][/us/pl/107/252/s701/c], added subsec. (h).
+    Subsec. (h). [Pub. L. 107–252][/us/pl/107/252], § 701(c), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 107–252, § 701(d)][/us/pl/107/252/s701/d], added subsec. (i).
+    Subsec. (i). [Pub. L. 107–252][/us/pl/107/252], § 701(d), added subsec. (i).
 
  __Initial Report__ 
 
-    [Pub. L. 107–107, div. A, title XVI, § 1602(b)][/us/pl/107/107/s1602/b], Dec. 28, 2001, [115 Stat. 1276][/us/stat/115/1276], directed that the first report under subsec. (c)(3) of this section be submitted not later than Mar. 31, 2003.
+    [Pub. L. 107–107, div. A, title XVI][/us/pl/107/107/dA/tXVI], § 1602(b), Dec. 28, 2001, [115 Stat. 1276][/us/stat/115/1276], directed that the first report under subsec. (c)(3) of this section be submitted not later than Mar. 31, 2003.
 
 ----------
 
@@ -115,28 +115,28 @@
 ----------
 
 [/us/usc/t42/s1973ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff
-[/us/pl/109/364/s596/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs596%2Fa
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2235
 [/us/usc/t42/s1973ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff
-[/us/pl/107/107/s1602/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1602%2Fa%2F1
+[/us/pl/107/107/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXVI
 [/us/stat/115/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1274
-[/us/pl/107/252/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs701
+[/us/pl/107/252/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2FtVII
 [/us/stat/116/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1722
-[/us/pl/108/375/s1084/d/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F13
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2062
-[/us/pl/109/364/s596/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs596%2Fa
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2235
 [/us/pl/99/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410
 [/us/stat/100/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F924
-[/us/pl/109/364/s596/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs596%2Fa
-[/us/pl/109/364/s596/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs596%2Fd
-[/us/pl/108/375/s1084/d/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F13%2FA
-[/us/pl/108/375/s1084/d/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F13%2FB
-[/us/pl/107/252/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs701%2Fa
-[/us/pl/107/252/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs701%2Fb
-[/us/pl/107/252/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs701%2Fc
-[/us/pl/107/252/s701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs701%2Fd
-[/us/pl/107/107/s1602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1602%2Fb
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/107/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252
+[/us/pl/107/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252
+[/us/pl/107/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252
+[/us/pl/107/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252
+[/us/pl/107/107/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXVI
 [/us/stat/115/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1276
 
 

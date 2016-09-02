@@ -31,7 +31,7 @@
 
         (2) if the request is denied, the member may appeal to the first general officer or flag officer in the chain of command of the member, and in the case of such an appeal a decision on the appeal must be made within 15 days from the date of the appeal.
 
-(Added [Pub. L. 112–239, div. A, title V, § 571(a)][/us/pl/112/239/s571/a], Jan. 2, 2013, [126 Stat. 1753][/us/stat/126/1753].)
+(Added [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 571(a), Jan. 2, 2013, [126 Stat. 1753][/us/stat/126/1753].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/112/239/s571/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs571%2Fa
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1753
 
 

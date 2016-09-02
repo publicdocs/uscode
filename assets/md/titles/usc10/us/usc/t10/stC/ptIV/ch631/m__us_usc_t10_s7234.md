@@ -59,7 +59,7 @@
 
     The Secretary of the Navy may not accept the assignment of a member of the naval service of a foreign country under this section after September 30, 2008.
 
-(Added [Pub. L. 108–375, div. A, title XII, § 1223(a)][/us/pl/108/375/s1223/a], Oct. 28, 2004, [118 Stat. 2089][/us/stat/118/2089].)
+(Added [Pub. L. 108–375, div. A, title XII][/us/pl/108/375/dA/tXII], § 1223(a), Oct. 28, 2004, [118 Stat. 2089][/us/stat/118/2089].)
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/108/375/s1223/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1223%2Fa
+[/us/pl/108/375/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtXII
 [/us/stat/118/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2089
 
 

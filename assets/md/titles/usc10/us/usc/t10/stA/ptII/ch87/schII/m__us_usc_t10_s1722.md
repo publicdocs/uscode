@@ -37,7 +37,7 @@
 
     The Secretary of Defense shall ensure that the policies established under this chapter are designed to provide for the selection of the best qualified individual for a position, consistent with other applicable law.
 
-    \[(e) Repealed. [Pub. L. 107–107, div. A, title X, § 1048(e)(3)][/us/pl/107/107/s1048/e/3], Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227].\]
+    \[(e) Repealed. [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(e)(3), Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227].\]
 
     (f)  __Assignments Policy__  __.—__ 
 
@@ -53,19 +53,19 @@
 
     In the development of defense acquisition workforce policies under this chapter with respect to any civilian employees or applicants for employment, the Secretary of Defense or the Secretary of a military department (as applicable) shall, consistent with the merit system principles set out in paragraphs (1) and (2) of [section 2301(b) of title 5][/us/usc/t5/s2301/b], take into consideration the need to maintain a balanced workforce in which women and members of racial and ethnic minority groups are appropriately represented in Government service.
 
-(Added [Pub. L. 101–510, div. A, title XII, § 1202(a)][/us/pl/101/510/s1202/a], Nov. 5, 1990, [104 Stat. 1641][/us/stat/104/1641]; amended [Pub. L. 103–160, div. A, title IX, § 904(d)(1)][/us/pl/103/160/s904/d/1], Nov. 30, 1993, [107 Stat. 1728][/us/stat/107/1728]; [Pub. L. 107–107, div. A, title X, § 1048(b)(2)][/us/pl/107/107/s1048/b/2], (e)(3), Dec. 28, 2001, [115 Stat. 1225][/us/stat/115/1225], 1227.)
+(Added [Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1202(a), Nov. 5, 1990, [104 Stat. 1641][/us/stat/104/1641]; amended [Pub. L. 103–160, div. A, title IX][/us/pl/103/160/dA/tIX], § 904(d)(1), Nov. 30, 1993, [107 Stat. 1728][/us/stat/107/1728]; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(b)(2), (e)(3), Dec. 28, 2001, [115 Stat. 1225][/us/stat/115/1225], 1227.)
 
  __Amendments__ 
 
-    2001—Subsecs. (a), (b)(2)(B). [Pub. L. 107–107, § 1048(b)(2)][/us/pl/107/107/s1048/b/2], substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+    2001—Subsecs. (a), (b)(2)(B). [Pub. L. 107–107][/us/pl/107/107], § 1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-    Subsec. (e). [Pub. L. 107–107, § 1048(e)(3)][/us/pl/107/107/s1048/e/3], struck out heading and text of subsec. (e). Text read as follows: “The Secretary of Defense shall ensure that the acquisition workforce is managed such that, for each fiscal year from October 1, 1991, through September 30, 1996, there is a substantial increase in the proportion of civilians (as compared to armed forces personnel) serving in critical acquisition positions in general, in program manager positions, and in division head positions over the proportion of civilians (as compared to armed forces personnel) in such positions on October 1, 1990.”
+    Subsec. (e). [Pub. L. 107–107][/us/pl/107/107], § 1048(e)(3), struck out heading and text of subsec. (e). Text read as follows: “The Secretary of Defense shall ensure that the acquisition workforce is managed such that, for each fiscal year from October 1, 1991, through September 30, 1996, there is a substantial increase in the proportion of civilians (as compared to armed forces personnel) serving in critical acquisition positions in general, in program manager positions, and in division head positions over the proportion of civilians (as compared to armed forces personnel) in such positions on October 1, 1990.”
 
     1993—Subsecs. (a), (b)(2)(B). [Pub. L. 103–160][/us/pl/103/160] substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
  __Military Positions and Assignments Policy Deadlines__ 
 
-[Pub. L. 101–510, div. A, title XII, § 1209(c)][/us/pl/101/510/s1209/c], (d), Nov. 5, 1990, [104 Stat. 1666][/us/stat/104/1666], provided that:
+[Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1209(c), (d), Nov. 5, 1990, [104 Stat. 1666][/us/stat/104/1666], provided that:
 
 >     “(c)  __Military Positions Policy Deadlines__  __.—__ 
 
@@ -84,19 +84,19 @@
 ----------
 ----------
 
-[/us/pl/107/107/s1048/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fe%2F3
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1227
 [/us/usc/t5/s2301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2301%2Fb
-[/us/pl/101/510/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1202%2Fa
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1641
-[/us/pl/103/160/s904/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs904%2Fd%2F1
+[/us/pl/103/160/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIX
 [/us/stat/107/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1728
-[/us/pl/107/107/s1048/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fb%2F2
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1225
-[/us/pl/107/107/s1048/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fb%2F2
-[/us/pl/107/107/s1048/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fe%2F3
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
-[/us/pl/101/510/s1209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1209%2Fc
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1666
 [/us/usc/t10/s1722/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1722%2Fb
 [/us/usc/t10/s1722/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1722%2Fb%2F2%2FB

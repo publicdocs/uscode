@@ -37,7 +37,7 @@
 
     (c) If the charges or specifications are not formally correct or do not conform to the substance of the evidence contained in the report of the investigating officer, formal corrections, and such changes in the charges and specifications as are needed to make them conform to the evidence, may be made.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 49][/us/stat/70A/49]; [Pub. L. 98–209, § 4][/us/pl/98/209/s4], Dec. 6, 1983, [97 Stat. 1395][/us/stat/97/1395]; [Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(B)][/us/pl/113/66/s1702/c/3/B], Dec. 26, 2013, [127 Stat. 957][/us/stat/127/957]; [Pub. L. 113–291, div. A, title V, § 531(a)(4)(B)][/us/pl/113/291/s531/a/4/B], Dec. 19, 2014, [128 Stat. 3363][/us/stat/128/3363].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 49][/us/stat/70A/49]; [Pub. L. 98–209][/us/pl/98/209], § 4, Dec. 6, 1983, [97 Stat. 1395][/us/stat/97/1395]; [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1702(c)(3)(B), Dec. 26, 2013, [127 Stat. 957][/us/stat/127/957]; [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 531(a)(4)(B), Dec. 19, 2014, [128 Stat. 3363][/us/stat/128/3363].)
 
 <table>
 
@@ -95,9 +95,9 @@ May 5, 1950, ch. 169, § 1 (Art. 34), 64 Stat. 119.  </td>
 
     2013—Subsec. (a)(2). [Pub. L. 113–66][/us/pl/113/66] substituted “a preliminary hearing under [section 832 of this title][/us/usc/t10/s832] (article 32)” for “investigation under [section 832 of this title][/us/usc/t10/s832] (article 32) (if there is such a report)”.
 
-    1983—Subsec. (a). [Pub. L. 98–209, § 4(a)][/us/pl/98/209/s4/a], substituted “judge advocate” for “judge advocate or legal officer”, and provisions that the convening authority may not refer a specification under a charge to a general court-martial for trial unless he has been advised in writing by the staff judge advocate that the specification alleges an offense under this chapter, the specification is warranted by the evidence indicated in the report of investigation under [section 832 of this title][/us/usc/t10/s832] (article 32) (if there is such a report), and a court-martial would have jurisdiction over the accused and the offense, for provision that the convening authority could not refer a charge to a general court-martial for trial unless he found that the charge alleged an offense under this chapter and was warranted by evidence indicated in the report of investigation.
+    1983—Subsec. (a). [Pub. L. 98–209][/us/pl/98/209], § 4(a), substituted “judge advocate” for “judge advocate or legal officer”, and provisions that the convening authority may not refer a specification under a charge to a general court-martial for trial unless he has been advised in writing by the staff judge advocate that the specification alleges an offense under this chapter, the specification is warranted by the evidence indicated in the report of investigation under [section 832 of this title][/us/usc/t10/s832] (article 32) (if there is such a report), and a court-martial would have jurisdiction over the accused and the offense, for provision that the convening authority could not refer a charge to a general court-martial for trial unless he found that the charge alleged an offense under this chapter and was warranted by evidence indicated in the report of investigation.
 
-    Subsecs. (b), (c). [Pub. L. 98–209, § 4(b)][/us/pl/98/209/s4/b], added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsecs. (b), (c). [Pub. L. 98–209][/us/pl/98/209], § 4(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
  __Effective Date of 2013 Amendment__ 
 
@@ -109,7 +109,7 @@ May 5, 1950, ch. 169, § 1 (Art. 34), 64 Stat. 119.  </td>
 
  __Review of Decisions Not To Refer Charges of Certain Sex-Related Offenses for Trial by Court-Martial__ 
 
-[Pub. L. 113–66, div. A, title XVII, § 1744][/us/pl/113/66/s1744], Dec. 26, 2013, [127 Stat. 980][/us/stat/127/980], as amended by [Pub. L. 113–291, div. A, title V, § 541][/us/pl/113/291/s541], Dec. 19, 2014, [128 Stat. 3371][/us/stat/128/3371], provided that:
+[Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1744, Dec. 26, 2013, [127 Stat. 980][/us/stat/127/980], as amended by [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 541, Dec. 19, 2014, [128 Stat. 3371][/us/stat/128/3371], provided that:
 
 >     “(a) __Review Required.—__ 
 
@@ -191,28 +191,28 @@ May 5, 1950, ch. 169, § 1 (Art. 34), 64 Stat. 119.  </td>
 [/us/usc/t10/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs832
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F49
-[/us/pl/98/209/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs4
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1395
-[/us/pl/113/66/s1702/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fc%2F3%2FB
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F957
-[/us/pl/113/291/s531/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fa%2F4%2FB
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3363
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t10/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs832
 [/us/usc/t10/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs832
-[/us/pl/98/209/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs4%2Fa
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/usc/t10/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs832
-[/us/pl/98/209/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs4%2Fb
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/113/66/s1702/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fd%2F1
 [/us/usc/t10/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs802
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801
-[/us/pl/113/66/s1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1744
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F980
-[/us/pl/113/291/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs541
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3371
 [/us/usc/t10/s920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs920
 [/us/usc/t10/s834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs834

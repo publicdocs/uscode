@@ -25,7 +25,7 @@
 
     (4) Releases for past infringement of patents or copyrights or for unauthorized use of technical data or computer software.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 137][/us/stat/70A/137]; [Pub. L. 86–726, § 3][/us/pl/86/726/s3], Sept. 8, 1960, [74 Stat. 855][/us/stat/74/855]; [Pub. L. 103–355, title III, § 3063][/us/pl/103/355/s3063], Oct. 13, 1994, [108 Stat. 3337][/us/stat/108/3337]; [Pub. L. 104–106, div. A, title VIII, § 813][/us/pl/104/106/s813], Feb. 10, 1996, [110 Stat. 395][/us/stat/110/395].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 137][/us/stat/70A/137]; [Pub. L. 86–726][/us/pl/86/726], § 3, Sept. 8, 1960, [74 Stat. 855][/us/stat/74/855]; [Pub. L. 103–355, title III][/us/pl/103/355/tIII], § 3063, Oct. 13, 1994, [108 Stat. 3337][/us/stat/108/3337]; [Pub. L. 104–106, div. A, title VIII][/us/pl/104/106/dA/tVIII], § 813, Feb. 10, 1996, [110 Stat. 395][/us/stat/110/395].)
 
 <table>
 
@@ -94,11 +94,11 @@ Aug. 1, 1953, ch. 305, § 609, 67 Stat. 350.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F137
-[/us/pl/86/726/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F726%2Fs3
+[/us/pl/86/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F726
 [/us/stat/74/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F855
-[/us/pl/103/355/s3063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3063
+[/us/pl/103/355/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtIII
 [/us/stat/108/3337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3337
-[/us/pl/104/106/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs813
+[/us/pl/104/106/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVIII
 [/us/stat/110/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F395
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355

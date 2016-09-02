@@ -67,7 +67,7 @@ May 25, 1933, ch. 37, 48 Stat. 73 (less last sentence); Aug. 9, 1946, ch. 932, 6
 
  __Degrees for Persons Who Graduated Before Accrediting of Naval Academy__ 
 
-    [Act Aug. 10, 1956, ch. 1041, § 35][/us/act/1956-08-10/ch1041/s35], [70A Stat. 634][/us/stat/70A/634], provided in part that, under conditions prescribed by the Secretary of the Navy, the Superintendent of the United States Naval Academy may confer the degree of bachelor of science upon living graduates of the Academy who were graduated before the date of accrediting of the Academy and who meet the requirements of the Academy for that degree.
+    [Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 35, [70A Stat. 634][/us/stat/70A/634], provided in part that, under conditions prescribed by the Secretary of the Navy, the Superintendent of the United States Naval Academy may confer the degree of bachelor of science upon living graduates of the Academy who were graduated before the date of accrediting of the Academy and who meet the requirements of the Academy for that degree.
 
 ----------
 
@@ -78,7 +78,7 @@ May 25, 1933, ch. 37, 48 Stat. 73 (less last sentence); Aug. 9, 1946, ch. 932, 6
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F434
-[/us/act/1956-08-10/ch1041/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs35
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F634
 
 

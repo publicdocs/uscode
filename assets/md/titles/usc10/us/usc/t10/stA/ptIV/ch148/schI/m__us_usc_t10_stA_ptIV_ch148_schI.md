@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–85, div. A, title III, § 371(c)(4)][/us/pl/105/85/s371/c/4], Nov. 18, 1997, [111 Stat. 1705][/us/stat/111/1705], renumbered item 2491 as 2500.
+    1997—[Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 371(c)(4), Nov. 18, 1997, [111 Stat. 1705][/us/stat/111/1705], renumbered item 2491 as 2500.
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/105/85/s371/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs371%2Fc%2F4
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1705
 
 

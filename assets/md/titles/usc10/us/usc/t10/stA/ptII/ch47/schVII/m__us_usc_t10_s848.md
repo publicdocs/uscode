@@ -33,7 +33,7 @@
 
     This section does not apply to a military commission established under chapter 47A of this title.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 53][/us/stat/70A/53]; [Pub. L. 109–366, § 4(a)(2)][/us/pl/109/366/s4/a/2], Oct. 17, 2006, [120 Stat. 2631][/us/stat/120/2631]; [Pub. L. 111–383, div. A, title V, § 542(a)][/us/pl/111/383/s542/a], Jan. 7, 2011, [124 Stat. 4218][/us/stat/124/4218].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 53][/us/stat/70A/53]; [Pub. L. 109–366][/us/pl/109/366], § 4(a)(2), Oct. 17, 2006, [120 Stat. 2631][/us/stat/120/2631]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 542(a), Jan. 7, 2011, [124 Stat. 4218][/us/stat/124/4218].)
 
 <table>
 
@@ -89,7 +89,7 @@ May 5, 1950, ch. 169, § 1 (Art. 48), 64 Stat. 123.  </td>
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 111–383, div. A, title V, § 542(b)][/us/pl/111/383/s542/b], Jan. 7, 2011, [124 Stat. 4218][/us/stat/124/4218], provided that: 
+[Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 542(b), Jan. 7, 2011, [124 Stat. 4218][/us/stat/124/4218], provided that: 
 
 > “[Section 848 of title 10][/us/usc/t10/s848], United States Code (article 48 of the Uniform Code of Military Justice), as amended by subsection (a), shall apply with respect to acts of contempt committed after the date of the enactment of this Act \[Jan. 7, 2011\].”
 
@@ -102,13 +102,13 @@ May 5, 1950, ch. 169, § 1 (Art. 48), 64 Stat. 123.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F53
-[/us/pl/109/366/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs4%2Fa%2F2
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/stat/120/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2631
-[/us/pl/111/383/s542/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs542%2Fa
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4218
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
-[/us/pl/111/383/s542/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs542%2Fb
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4218
 [/us/usc/t10/s848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs848
 

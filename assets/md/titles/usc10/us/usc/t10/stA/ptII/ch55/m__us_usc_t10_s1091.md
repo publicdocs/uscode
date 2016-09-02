@@ -49,7 +49,7 @@
 
     The procedures and exemptions provided under subsection (c) shall not apply to personal services contracts entered into under subsection (a) with entities other than individuals or to any contract that is not an authorized personal services contract under subsection (a).
 
-(Added [Pub. L. 98–94, title IX, § 932(a)(1)][/us/pl/98/94/s932/a/1], Sept. 24, 1983, [97 Stat. 649][/us/stat/97/649]; amended [Pub. L. 101–510, div. A, title VII, § 714][/us/pl/101/510/s714], Nov. 5, 1990, [104 Stat. 1584][/us/stat/104/1584]; [Pub. L. 103–160, div. A, title VII, § 712(a)(1)][/us/pl/103/160/s712/a/1], Nov. 30, 1993, [107 Stat. 1688][/us/stat/107/1688]; [Pub. L. 104–106, div. A, title VII, § 733(a)][/us/pl/104/106/s733/a], Feb. 10, 1996, [110 Stat. 381][/us/stat/110/381]; [Pub. L. 105–85, div. A, title VII, § 736(a)][/us/pl/105/85/s736/a], Nov. 18, 1997, [111 Stat. 1814][/us/stat/111/1814]; [Pub. L. 105–261, div. A, title VII, § 733(a)][/us/pl/105/261/s733/a], Oct. 17, 1998, [112 Stat. 2072][/us/stat/112/2072]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 705\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–175; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title VII, § 707][/us/pl/107/314/s707], Dec. 2, 2002, [116 Stat. 2585][/us/stat/116/2585]; [Pub. L. 108–136, div. A, title VII, § 721][/us/pl/108/136/s721], Nov. 24, 2003, [117 Stat. 1531][/us/stat/117/1531]; [Pub. L. 112–239, div. A, title VII, § 713(b)][/us/pl/112/239/s713/b], Jan. 2, 2013, [126 Stat. 1803][/us/stat/126/1803].)
+(Added [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], § 932(a)(1), Sept. 24, 1983, [97 Stat. 649][/us/stat/97/649]; amended [Pub. L. 101–510, div. A, title VII][/us/pl/101/510/dA/tVII], § 714, Nov. 5, 1990, [104 Stat. 1584][/us/stat/104/1584]; [Pub. L. 103–160, div. A, title VII][/us/pl/103/160/dA/tVII], § 712(a)(1), Nov. 30, 1993, [107 Stat. 1688][/us/stat/107/1688]; [Pub. L. 104–106, div. A, title VII][/us/pl/104/106/dA/tVII], § 733(a), Feb. 10, 1996, [110 Stat. 381][/us/stat/110/381]; [Pub. L. 105–85, div. A, title VII][/us/pl/105/85/dA/tVII], § 736(a), Nov. 18, 1997, [111 Stat. 1814][/us/stat/111/1814]; [Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 733(a), Oct. 17, 1998, [112 Stat. 2072][/us/stat/112/2072]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 705\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–175; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title VII][/us/pl/107/314/dA/tVII], § 707, Dec. 2, 2002, [116 Stat. 2585][/us/stat/116/2585]; [Pub. L. 108–136, div. A, title VII][/us/pl/108/136/dA/tVII], § 721, Nov. 24, 2003, [117 Stat. 1531][/us/stat/117/1531]; [Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 713(b), Jan. 2, 2013, [126 Stat. 1803][/us/stat/126/1803].)
 
  __Amendments__ 
 
@@ -83,19 +83,19 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–106, div. A, title VII, § 733(c)][/us/pl/104/106/s733/c], Feb. 10, 1996, [110 Stat. 381][/us/stat/110/381], provided that: 
+[Pub. L. 104–106, div. A, title VII][/us/pl/104/106/dA/tVII], § 733(c), Feb. 10, 1996, [110 Stat. 381][/us/stat/110/381], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect as of October 1, 1995.”
 
  __Effective Date__ 
 
-[Pub. L. 98–94, title IX, § 932(f)][/us/pl/98/94/s932/f], Sept. 24, 1983, [97 Stat. 650][/us/stat/97/650], provided that: 
+[Pub. L. 98–94, title IX][/us/pl/98/94/tIX], § 932(f), Sept. 24, 1983, [97 Stat. 650][/us/stat/97/650], provided that: 
 
 > “The amendments made by this section \[enacting this section, amending [section 201 of Title 37][/us/usc/t37/s201], Pay and Allowances of the Uniformed Services, and repealing sections 4022 and 9022 of this title and [section 421 of Title 37][/us/usc/t37/s421]\] shall take effect on October 1, 1983. Any contract of employment entered into under the authority of section 4022 or 9022 of title 10, United States Code, before the effective date of this section and which is in effect on such date shall remain in effect in accordance with the terms of such contract.”
 
  __Acquisition Strategy for Health Care Professional Staffing Services__ 
 
-[Pub. L. 113–291, div. A, title VII, § 725][/us/pl/113/291/s725], Dec. 19, 2014, [128 Stat. 3418][/us/stat/128/3418], provided that:
+[Pub. L. 113–291, div. A, title VII][/us/pl/113/291/dA/tVII], § 725, Dec. 19, 2014, [128 Stat. 3418][/us/stat/128/3418], provided that:
 
 >     “(a) __Acquisition Strategy.—__ 
 
@@ -127,17 +127,17 @@
 
  __Test of Alternative Process for Conducting Medical Screenings for Enlistment Qualification__ 
 
-    [Pub. L. 105–261, div. A, title VII, § 733(b)][/us/pl/105/261/s733/b], Oct. 17, 1998, [112 Stat. 2072][/us/stat/112/2072], as amended by [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], directed the Secretary of Defense to conduct a test to determine whether an alternative to the system used by the Department of Defense of employing fee-basis physicians for determining the medical qualifications for enlistment of applicants for military service would reduce the number of disqualifying medical conditions detected during the initial entry training of such applicants, and whether an alternative system would meet or exceed the cost, responsiveness, and timeliness standards of the system in use or achieve any savings or cost avoidance, and to submit to committees of Congress a report on the results and findings of the test not later than Mar. 1, 2000.
+    [Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 733(b), Oct. 17, 1998, [112 Stat. 2072][/us/stat/112/2072], as amended by [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(3), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], directed the Secretary of Defense to conduct a test to determine whether an alternative to the system used by the Department of Defense of employing fee-basis physicians for determining the medical qualifications for enlistment of applicants for military service would reduce the number of disqualifying medical conditions detected during the initial entry training of such applicants, and whether an alternative system would meet or exceed the cost, responsiveness, and timeliness standards of the system in use or achieve any savings or cost avoidance, and to submit to committees of Congress a report on the results and findings of the test not later than Mar. 1, 2000.
 
  __Ratification of Existing Contracts__ 
 
-[Pub. L. 104–106, div. A, title VII, § 733(b)][/us/pl/104/106/s733/b], Feb. 10, 1996, [110 Stat. 381][/us/stat/110/381], provided that: 
+[Pub. L. 104–106, div. A, title VII][/us/pl/104/106/dA/tVII], § 733(b), Feb. 10, 1996, [110 Stat. 381][/us/stat/110/381], provided that: 
 
 > “Any exercise of authority under [section 1091 of title 10][/us/usc/t10/s1091], United States Code, to enter into a personal services contract on behalf of the Coast Guard before the effective date of the amendments made by subsection (a) \[Oct. 1, 1995\] is hereby ratified.”
 
  __Personal Service Contracts To Provide Care__ 
 
-[Pub. L. 103–337, div. A, title VII, § 704(c)][/us/pl/103/337/s704/c], Oct. 5, 1994, [108 Stat. 2799][/us/stat/108/2799], as amended by [Pub. L. 108–375, div. A, title VII, § 717(a)][/us/pl/108/375/s717/a], Oct. 28, 2004, [118 Stat. 1986][/us/stat/118/1986], provided that:
+[Pub. L. 103–337, div. A, title VII][/us/pl/103/337/dA/tVII], § 704(c), Oct. 5, 1994, [108 Stat. 2799][/us/stat/108/2799], as amended by [Pub. L. 108–375, div. A, title VII][/us/pl/108/375/dA/tVII], § 717(a), Oct. 28, 2004, [118 Stat. 1986][/us/stat/118/1986], provided that:
 
 >     “(1) The Secretary of Defense may enter into personal service contracts under the authority of [section 1091 of title 10][/us/usc/t10/s1091], United States Code, with persons described in paragraph (2) to provide the services of clinical counselors, family advocacy program staff, and victim’s services representatives to members of the Armed Forces and covered beneficiaries who require such services. Notwithstanding subsection (a) of such section, such services may be provided in medical treatment facilities of the Department of Defense or elsewhere as determined appropriate by the Secretary.
 
@@ -145,7 +145,7 @@
 
  __Report on Compensation by Medical Specialty__ 
 
-    [Pub. L. 103–160, div. A, title VII, § 712(b)][/us/pl/103/160/s712/b], Nov. 30, 1993, [107 Stat. 1689][/us/stat/107/1689], directed the Secretary of Defense to submit to Congress a report, not later than 30 days after the end of the 180-day period beginning on the date on which the Secretary had first used the authority provided under this section, as amended by [Pub. L. 103–160][/us/pl/103/160], specifying the compensation provided to medical specialists who had agreed to enter into personal services contracts under such section during that period, the extent to which amounts of compensation exceeded amounts previously provided, the total number and medical specialties of specialists serving during that period pursuant to such contracts, and the number of specialists who had received compensation in an amount in excess of the maximum which had been authorized under this section, as in effect on Nov. 29, 1993.
+    [Pub. L. 103–160, div. A, title VII][/us/pl/103/160/dA/tVII], § 712(b), Nov. 30, 1993, [107 Stat. 1689][/us/stat/107/1689], directed the Secretary of Defense to submit to Congress a report, not later than 30 days after the end of the 180-day period beginning on the date on which the Secretary had first used the authority provided under this section, as amended by [Pub. L. 103–160][/us/pl/103/160], specifying the compensation provided to medical specialists who had agreed to enter into personal services contracts under such section during that period, the extent to which amounts of compensation exceeded amounts previously provided, the total number and medical specialties of specialists serving during that period pursuant to such contracts, and the number of specialists who had received compensation in an amount in excess of the maximum which had been authorized under this section, as in effect on Nov. 29, 1993.
 
 ----------
 
@@ -156,27 +156,27 @@
 
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
 [/us/usc/t10/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304
-[/us/pl/98/94/s932/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs932%2Fa%2F1
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F649
-[/us/pl/101/510/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs714
+[/us/pl/101/510/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVII
 [/us/stat/104/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1584
-[/us/pl/103/160/s712/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs712%2Fa%2F1
+[/us/pl/103/160/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVII
 [/us/stat/107/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1688
-[/us/pl/104/106/s733/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs733%2Fa
+[/us/pl/104/106/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVII
 [/us/stat/110/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F381
-[/us/pl/105/85/s736/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs736%2Fa
+[/us/pl/105/85/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVII
 [/us/stat/111/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1814
-[/us/pl/105/261/s733/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs733%2Fa
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2072
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/107/314/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs707
+[/us/pl/107/314/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVII
 [/us/stat/116/2585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2585
-[/us/pl/108/136/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs721
+[/us/pl/108/136/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVII
 [/us/stat/117/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1531
-[/us/pl/112/239/s713/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs713%2Fb
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1803
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
@@ -191,27 +191,27 @@
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/104/106/s733/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs733%2Fc
+[/us/pl/104/106/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVII
 [/us/stat/110/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F381
-[/us/pl/98/94/s932/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs932%2Ff
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F650
 [/us/usc/t37/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs201
 [/us/usc/t37/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs421
-[/us/pl/113/291/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs725
+[/us/pl/113/291/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVII
 [/us/stat/128/3418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3418
-[/us/pl/105/261/s733/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs733%2Fb
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2072
-[/us/pl/106/65/s1067/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F3
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/104/106/s733/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs733%2Fb
+[/us/pl/104/106/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVII
 [/us/stat/110/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F381
 [/us/usc/t10/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1091
-[/us/pl/103/337/s704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs704%2Fc
+[/us/pl/103/337/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVII
 [/us/stat/108/2799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2799
-[/us/pl/108/375/s717/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs717%2Fa
+[/us/pl/108/375/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVII
 [/us/stat/118/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1986
 [/us/usc/t10/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1091
-[/us/pl/103/160/s712/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs712%2Fb
+[/us/pl/103/160/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVII
 [/us/stat/107/1689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1689
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 

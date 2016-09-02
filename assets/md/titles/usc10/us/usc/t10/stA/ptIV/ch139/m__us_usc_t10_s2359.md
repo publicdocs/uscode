@@ -31,15 +31,15 @@
 
         (4) The directors and heads of other offices and agencies of the Department of Defense with assigned research, development, test, and evaluation responsibilities.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 904(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–225.)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 904(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–225.)
 
  __Prior Provisions__ 
 
-    A prior section 2359, added [Pub. L. 96–107, title VIII, § 819(a)(1)][/us/pl/96/107/s819/a/1], Nov. 9, 1979, [93 Stat. 818][/us/stat/93/818], related to reports on salaries of officers of Federal contract research centers, prior to repeal by [Pub. L. 101–510, div. A, title XIII, § 1322(a)(5)][/us/pl/101/510/s1322/a/5], Nov. 5, 1990, [104 Stat. 1671][/us/stat/104/1671].
+    A prior section 2359, added [Pub. L. 96–107, title VIII][/us/pl/96/107/tVIII], § 819(a)(1), Nov. 9, 1979, [93 Stat. 818][/us/stat/93/818], related to reports on salaries of officers of Federal contract research centers, prior to repeal by [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1322(a)(5), Nov. 5, 1990, [104 Stat. 1671][/us/stat/104/1671].
 
  __Proof of Concept Commercialization Pilot Program__ 
 
-[Pub. L. 113–66, div. A, title XVI, § 1603][/us/pl/113/66/s1603], Dec. 26, 2013, [127 Stat. 944][/us/stat/127/944], as amended by [Pub. L. 113–291, div. A, title VIII, § 818][/us/pl/113/291/s818], Dec. 19, 2014, [128 Stat. 3432][/us/stat/128/3432], provided that:
+[Pub. L. 113–66, div. A, title XVI][/us/pl/113/66/dA/tXVI], § 1603, Dec. 26, 2013, [127 Stat. 944][/us/stat/127/944], as amended by [Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 818, Dec. 19, 2014, [128 Stat. 3432][/us/stat/128/3432], provided that:
 
 >     “(a)  __Pilot Program__  __.—__ 
 
@@ -135,7 +135,7 @@
 
  __Defense Research and Development Rapid Innovation Program__ 
 
-[Pub. L. 111–383, div. A, title X, § 1073][/us/pl/111/383/s1073], Jan. 7, 2011, [124 Stat. 4366][/us/stat/124/4366], as amended by [Pub. L. 114–92, div. A, title II, § 216][/us/pl/114/92/s216], Nov. 25, 2015, [129 Stat. 769][/us/stat/129/769], provided that:
+[Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1073, Jan. 7, 2011, [124 Stat. 4366][/us/stat/124/4366], as amended by [Pub. L. 114–92, div. A, title II][/us/pl/114/92/dA/tII], § 216, Nov. 25, 2015, [129 Stat. 769][/us/stat/129/769], provided that:
 
 >     “(a)  __Program Established__  __.—__ 
 
@@ -180,21 +180,21 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/96/107/s819/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs819%2Fa%2F1
+[/us/pl/96/107/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2FtVIII
 [/us/stat/93/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F818
-[/us/pl/101/510/s1322/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1322%2Fa%2F5
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1671
-[/us/pl/113/66/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1603
+[/us/pl/113/66/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVI
 [/us/stat/127/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F944
-[/us/pl/113/291/s818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs818
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3432
 [/us/usc/t15/s3703/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3703%2F3
 [/us/usc/t15/s3703/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3703%2F4
-[/us/pl/111/383/s1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1073
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4366
-[/us/pl/114/92/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs216
+[/us/pl/114/92/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtII
 [/us/stat/129/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F769
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302

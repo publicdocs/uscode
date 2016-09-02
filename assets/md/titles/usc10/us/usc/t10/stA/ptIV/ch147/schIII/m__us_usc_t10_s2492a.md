@@ -35,11 +35,11 @@
 
     In this section, the term “personal information services” means the provision of Internet, telephone, or television services to consumers.
 
-(Added [Pub. L. 111–84, div. A, title VI, § 651(a)][/us/pl/111/84/s651/a], Oct. 28, 2009, [123 Stat. 2368][/us/stat/123/2368].)
+(Added [Pub. L. 111–84, div. A, title VI][/us/pl/111/84/dA/tVI], § 651(a), Oct. 28, 2009, [123 Stat. 2368][/us/stat/123/2368].)
 
  __Savings Provision__ 
 
-[Pub. L. 111–84, div. A, title VI, § 651(c)][/us/pl/111/84/s651/c], Oct. 28, 2009, [123 Stat. 2369][/us/stat/123/2369], provided that: 
+[Pub. L. 111–84, div. A, title VI][/us/pl/111/84/dA/tVI], § 651(c), Oct. 28, 2009, [123 Stat. 2369][/us/stat/123/2369], provided that: 
 
 > “[Section 2492a of title 10][/us/usc/t10/s2492a], United States Code, as added by subsection (a), does not affect the validity or terms of any contract for the provision of personal information services entered into before the date of the enactment of this Act \[Oct. 28, 2009\].”
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/usc/t10/s2492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2492
-[/us/pl/111/84/s651/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs651%2Fa
+[/us/pl/111/84/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVI
 [/us/stat/123/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2368
-[/us/pl/111/84/s651/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs651%2Fc
+[/us/pl/111/84/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVI
 [/us/stat/123/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2369
 [/us/usc/t10/s2492a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2492a
 

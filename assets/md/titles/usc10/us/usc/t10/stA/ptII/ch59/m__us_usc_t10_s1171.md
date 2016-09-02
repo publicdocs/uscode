@@ -17,7 +17,7 @@
 
     Under regulations prescribed by the Secretary concerned and approved by the President, any regular enlisted member of an armed force may be discharged within one year before the expiration of the term of his enlistment or extended enlistment. A discharge under this section does not affect any right, privilege, or benefit that a member would have had if he completed his enlistment or extended enlistment, except that the member is not entitled to pay and allowances for the period not served.
 
-(Added [Pub. L. 90–235, § 3(a)(1)(A)][/us/pl/90/235/s3/a/1/A], Jan. 2, 1968, [81 Stat. 757][/us/stat/81/757]; amended [Pub. L. 112–81, div. A, title V, § 525][/us/pl/112/81/s525], Dec. 31, 2011, [125 Stat. 1401][/us/stat/125/1401].)
+(Added [Pub. L. 90–235][/us/pl/90/235], § 3(a)(1)(A), Jan. 2, 1968, [81 Stat. 757][/us/stat/81/757]; amended [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 525, Dec. 31, 2011, [125 Stat. 1401][/us/stat/125/1401].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/90/235/s3/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs3%2Fa%2F1%2FA
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F757
-[/us/pl/112/81/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs525
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1401
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

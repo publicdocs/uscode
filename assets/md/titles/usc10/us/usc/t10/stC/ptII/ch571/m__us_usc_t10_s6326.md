@@ -27,7 +27,7 @@
 
         (2) unless otherwise entitled to higher pay, is entitled to retired pay computed under [section 6333 of this title][/us/usc/t10/s6333].
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 395][/us/stat/70A/395]; [Pub. L. 85–422, § 6(9)][/us/pl/85/422/s6/9], May 20, 1958, [72 Stat. 129][/us/stat/72/129]; [Pub. L. 85–861, § 36B(20)][/us/pl/85/861/s36B/20], Sept. 2, 1958, [72 Stat. 1571][/us/stat/72/1571]; [Pub. L. 88–132, § 5(h)(4)][/us/pl/88/132/s5/h/4], Oct. 2, 1963, [77 Stat. 214][/us/stat/77/214]; [Pub. L. 90–207, § 3(3)][/us/pl/90/207/s3/3], Dec. 16, 1967, [81 Stat. 653][/us/stat/81/653]; [Pub. L. 96–342, title VIII, § 813(d)(4)][/us/pl/96/342/s813/d/4], Sept. 8, 1980, [94 Stat. 1105][/us/stat/94/1105]; [Pub. L. 96–513, title V, § 513(17)][/us/pl/96/513/s513/17], (19), Dec. 12, 1980, [94 Stat. 2932][/us/stat/94/2932]; [Pub. L. 99–348, title II, § 203(b)(4)][/us/pl/99/348/s203/b/4], July 1, 1986, [100 Stat. 696][/us/stat/100/696].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 395][/us/stat/70A/395]; [Pub. L. 85–422][/us/pl/85/422], § 6(9), May 20, 1958, [72 Stat. 129][/us/stat/72/129]; [Pub. L. 85–861][/us/pl/85/861], § 36B(20), Sept. 2, 1958, [72 Stat. 1571][/us/stat/72/1571]; [Pub. L. 88–132][/us/pl/88/132], § 5(h)(4), Oct. 2, 1963, [77 Stat. 214][/us/stat/77/214]; [Pub. L. 90–207][/us/pl/90/207], § 3(3), Dec. 16, 1967, [81 Stat. 653][/us/stat/81/653]; [Pub. L. 96–342, title VIII][/us/pl/96/342/tVIII], § 813(d)(4), Sept. 8, 1980, [94 Stat. 1105][/us/stat/94/1105]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(17), (19), Dec. 12, 1980, [94 Stat. 2932][/us/stat/94/2932]; [Pub. L. 99–348, title II][/us/pl/99/348/tII], § 203(b)(4), July 1, 1986, [100 Stat. 696][/us/stat/100/696].)
 
 <table>
 
@@ -169,7 +169,7 @@ July 24, 1941, ch. 320, § 10(e), 55 Stat. 605; Feb. 21, 1946, ch. 34, § 8(
 
 </table>
 
-    In subsection (a) the word “Regular” is inserted before the words “Navy” and “Marine Corps” to reflect the longstanding interpretation that [34 U.S.C. 431][/us/usc/t34/s431] applies only to members of the Regular Navy and Regular Marine Corps. So much of the [Act of March 2, 1907, ch. 2515, § 1][/us/act/1907-03-02/ch2515/s1] ([34 U.S.C. 431][/us/usc/t34/s431]), as pertains to allowances and rations was expressly repealed by the [Act of June 16, 1942, ch. 413][/us/act/1942-06-16/ch413], [56 Stat. 369][/us/stat/56/369]. The words “active service in the armed forces” are substituted for [34 U.S.C. 432][/us/usc/t34/s432] for brevity. The reference to the former Revenue Cutter Service in [34 U.S.C. 432][/us/usc/t34/s432] is omitted as obsolete, inasmuch as that Service was absorbed by the Coast Guard in 1915. If there are any enlisted men not yet retired who served in the Revenue Cutter Service, their right to count that service for the purpose of this section is protected by the saving provisions accompanying this title. The reference to active service in the Civil or Spanish-American War in [34 U.S.C. 432][/us/usc/t34/s432] is omitted as obsolete.
+    In subsection (a) the word “Regular” is inserted before the words “Navy” and “Marine Corps” to reflect the longstanding interpretation that [34 U.S.C. 431][/us/usc/t34/s431] applies only to members of the Regular Navy and Regular Marine Corps. So much of the [Act of March 2, 1907, ch. 2515][/us/act/1907-03-02/ch2515], § 1 ([34 U.S.C. 431][/us/usc/t34/s431]), as pertains to allowances and rations was expressly repealed by the [Act of June 16, 1942, ch. 413][/us/act/1942-06-16/ch413], [56 Stat. 369][/us/stat/56/369]. The words “active service in the armed forces” are substituted for [34 U.S.C. 432][/us/usc/t34/s432] for brevity. The reference to the former Revenue Cutter Service in [34 U.S.C. 432][/us/usc/t34/s432] is omitted as obsolete, inasmuch as that Service was absorbed by the Coast Guard in 1915. If there are any enlisted men not yet retired who served in the Revenue Cutter Service, their right to count that service for the purpose of this section is protected by the saving provisions accompanying this title. The reference to active service in the Civil or Spanish-American War in [34 U.S.C. 432][/us/usc/t34/s432] is omitted as obsolete.
 
     Subsection (b) is inserted to cover into the section permanent enlisted members who are temporarily appointed to commissioned or warrant grades.
 
@@ -221,22 +221,22 @@ July 24, 1941, ch. 320, § 10(e), 55 Stat. 605; Feb. 21, 1946, ch. 34, § 8(
 [/us/usc/t10/s6333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6333
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F395
-[/us/pl/85/422/s6/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F422%2Fs6%2F9
+[/us/pl/85/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F422
 [/us/stat/72/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F129
-[/us/pl/85/861/s36B/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs36B%2F20
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1571
-[/us/pl/88/132/s5/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132%2Fs5%2Fh%2F4
+[/us/pl/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132
 [/us/stat/77/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F214
-[/us/pl/90/207/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F207%2Fs3%2F3
+[/us/pl/90/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F207
 [/us/stat/81/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F653
-[/us/pl/96/342/s813/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs813%2Fd%2F4
+[/us/pl/96/342/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtVIII
 [/us/stat/94/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1105
-[/us/pl/96/513/s513/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F17
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2932
-[/us/pl/99/348/s203/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs203%2Fb%2F4
+[/us/pl/99/348/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtII
 [/us/stat/100/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F696
 [/us/usc/t34/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs431
-[/us/act/1907-03-02/ch2515/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-02%2Fch2515%2Fs1
+[/us/act/1907-03-02/ch2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-02%2Fch2515
 [/us/usc/t34/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs431
 [/us/act/1942-06-16/ch413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-16%2Fch413
 [/us/stat/56/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F369

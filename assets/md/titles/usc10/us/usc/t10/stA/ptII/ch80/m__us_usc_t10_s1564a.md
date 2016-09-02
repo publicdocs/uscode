@@ -121,7 +121,7 @@
 
         (3) Developmental research on polygraph techniques, instrumentation, and analytic methods.
 
-(Added [Pub. L. 108–136, div. A, title X, § 1041(a)(1)][/us/pl/108/136/s1041/a/1], Nov. 24, 2003, [117 Stat. 1607][/us/stat/117/1607]; amended [Pub. L. 109–163, div. A, title X, § 1054(a)][/us/pl/109/163/s1054/a], Jan. 6, 2006, [119 Stat. 3436][/us/stat/119/3436].)
+(Added [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1041(a)(1), Nov. 24, 2003, [117 Stat. 1607][/us/stat/117/1607]; amended [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1054(a), Jan. 6, 2006, [119 Stat. 3436][/us/stat/119/3436].)
 
  __References in Text__ 
 
@@ -129,7 +129,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [Pub. L. 100–180, title XI, § 1121][/us/pl/100/180/s1121], Dec. 4, 1987, [101 Stat. 1147][/us/stat/101/1147], as amended, which was set out as a note under [section 113 of this title][/us/usc/t10/s113], prior to repeal by [Pub. L. 108–136, div. A, title X, § 1041(b)][/us/pl/108/136/s1041/b], Nov. 24, 2003, [117 Stat. 1608][/us/stat/117/1608].
+    Provisions similar to those in this section were contained in [Pub. L. 100–180, title XI][/us/pl/100/180/tXI], § 1121, Dec. 4, 1987, [101 Stat. 1147][/us/stat/101/1147], as amended, which was set out as a note under [section 113 of this title][/us/usc/t10/s113], prior to repeal by [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1041(b), Nov. 24, 2003, [117 Stat. 1608][/us/stat/117/1608].
 
  __Amendments__ 
 
@@ -137,7 +137,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–163, div. A, title X, § 1054(b)][/us/pl/109/163/s1054/b], Jan. 6, 2006, [119 Stat. 3438][/us/stat/119/3438], provided that: 
+[Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1054(b), Jan. 6, 2006, [119 Stat. 3438][/us/stat/119/3438], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to polygraph examinations administered beginning on the date of the enactment of this Act \[Jan. 6, 2006\].”
 
@@ -148,17 +148,17 @@
 ----------
 ----------
 
-[/us/pl/108/136/s1041/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1041%2Fa%2F1
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1607
-[/us/pl/109/163/s1054/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1054%2Fa
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3436
-[/us/pl/100/180/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1121
+[/us/pl/100/180/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FtXI
 [/us/stat/101/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1147
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
-[/us/pl/108/136/s1041/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1041%2Fb
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1608
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/109/163/s1054/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1054%2Fb
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3438
 
 

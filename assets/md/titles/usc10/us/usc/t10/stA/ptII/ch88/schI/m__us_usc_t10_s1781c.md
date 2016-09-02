@@ -129,23 +129,23 @@
 
     For purposes of this section, a military family with special needs is any military family with one or more members who has a medical or educational special need (as defined by the Secretary in regulations for purposes of this section), including a condition covered by the Extended Health Care Option Program under [section 1079f of this title][/us/usc/t10/s1079f].
 
-(Added [Pub. L. 111–84, div. A, title V, § 563(a)(1)][/us/pl/111/84/s563/a/1], Oct. 28, 2009, [123 Stat. 2304][/us/stat/123/2304]; amended [Pub. L. 111–383, div. A, title V, § 582(a)][/us/pl/111/383/s582/a], (b), title X, § 1075(b)(24), Jan. 7, 2011, [124 Stat. 4226][/us/stat/124/4226], 4227, 4370.)
+(Added [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 563(a)(1), Oct. 28, 2009, [123 Stat. 2304][/us/stat/123/2304]; amended [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 582(a), (b), title X, § 1075(b)(24), Jan. 7, 2011, [124 Stat. 4226][/us/stat/124/4226], 4227, 4370.)
 
  __Amendments__ 
 
-    2011—Subsec. (c). [Pub. L. 111–383, § 582(a)][/us/pl/111/383/s582/a], amended subsec. (c) generally. Prior to amendment, text read as follows:
+    2011—Subsec. (c). [Pub. L. 111–383][/us/pl/111/383], § 582(a), amended subsec. (c) generally. Prior to amendment, text read as follows:
 
     “(1) The head of the Office shall be the Director of the Office of Community Support for Military Families With Special Needs, who shall be appointed by the Secretary of Defense from among civilian employees of the Department of Defense who are members of the Senior Executive Service or members of the armed forces in a general or flag grade.
 
     “(2) The Director shall be subject to the supervision, direction, and control of the Under Secretary of Defense for Personnel and Readiness in the discharge of the responsibilities of the Office, and shall report directly to the Under Secretary regarding the discharge of such responsibilities.”
 
-    Subsec. (d)(7), (8). [Pub. L. 111–383, § 582(b)][/us/pl/111/383/s582/b], added par. (7) and redesignated former par. (7) as (8).
+    Subsec. (d)(7), (8). [Pub. L. 111–383][/us/pl/111/383], § 582(b), added par. (7) and redesignated former par. (7) as (8).
 
-    Subsec. (h)(1). [Pub. L. 111–383, § 1075(b)(24)][/us/pl/111/383/s1075/b/24], substituted “April 30 each year” for “180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010, and annually thereafter”.
+    Subsec. (h)(1). [Pub. L. 111–383][/us/pl/111/383], § 1075(b)(24), substituted “April 30 each year” for “180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010, and annually thereafter”.
 
  __Foundation for Support of Military Families With Special Needs__ 
 
-[Pub. L. 111–84, div. A, title V, § 563(b)][/us/pl/111/84/s563/b], Oct. 28, 2009, [123 Stat. 2307][/us/stat/123/2307], provided that:
+[Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 563(b), Oct. 28, 2009, [123 Stat. 2307][/us/stat/123/2307], provided that:
 
 >     “(1)  __Establishment authorized__  __.—__ 
 
@@ -191,13 +191,13 @@
 
  __Military Department Support for Local Centers To Assist Military Children With Special Needs__ 
 
-[Pub. L. 111–84, div. A, title V, § 563(c)][/us/pl/111/84/s563/c], as added [Pub. L. 111–383, div. A, title V, § 582(c)(2)][/us/pl/111/383/s582/c/2], Jan. 7, 2011, [124 Stat. 4227][/us/stat/124/4227], provided that: 
+[Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 563(c), as added [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 582(c)(2), Jan. 7, 2011, [124 Stat. 4227][/us/stat/124/4227], provided that: 
 
 > “The Secretary of a military department may establish or support centers on or in the vicinity of military installations under the jurisdiction of such Secretary to coordinate and provide medical and educational services for children with special needs of members of the Armed Forces who are assigned to such installations.”
 
  __Advisory Panel on Community Support for Military Families With Special Needs__ 
 
-[Pub. L. 111–84, div. A, title V, § 563(d)][/us/pl/111/84/s563/d], as added [Pub. L. 111–383, div. A, title V, § 582(c)(2)][/us/pl/111/383/s582/c/2], Jan. 7, 2011, [124 Stat. 4227][/us/stat/124/4227], provided that:
+[Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 563(d), as added [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 582(c)(2), Jan. 7, 2011, [124 Stat. 4227][/us/stat/124/4227], provided that:
 
 >     “(1)  __Establishment__  __.—__ 
 
@@ -229,21 +229,21 @@
 ----------
 
 [/us/usc/t10/s1079f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079f
-[/us/pl/111/84/s563/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs563%2Fa%2F1
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2304
-[/us/pl/111/383/s582/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs582%2Fa
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4226
-[/us/pl/111/383/s582/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs582%2Fa
-[/us/pl/111/383/s582/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs582%2Fb
-[/us/pl/111/383/s1075/b/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F24
-[/us/pl/111/84/s563/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs563%2Fb
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2307
 [/us/usc/t10/s1781c/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1781c%2Fi
-[/us/pl/111/84/s563/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs563%2Fc
-[/us/pl/111/383/s582/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs582%2Fc%2F2
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4227
-[/us/pl/111/84/s563/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs563%2Fd
-[/us/pl/111/383/s582/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs582%2Fc%2F2
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4227
 [/us/usc/t10/s1781c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1781c
 

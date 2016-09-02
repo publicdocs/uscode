@@ -19,7 +19,7 @@
 
     (b) Payment-in-kind or exchange entitlements accrued as a result of acquisitions and transfers of logistic support, supplies, and services under authority of this subchapter shall be satisfied within 12 months after the date of the delivery of the logistic support, supplies, or services.
 
-(Added [Pub. L. 96–323, § 2(a)][/us/pl/96/323/s2/a], Aug. 4, 1980, [94 Stat. 1018][/us/stat/94/1018], § 2325; renumbered § 2345, [Pub. L. 99–145, title XIII, § 1304(a)(1)][/us/pl/99/145/s1304/a/1], Nov. 8, 1985, [99 Stat. 741][/us/stat/99/741]; amended [Pub. L. 99–661, div. A, title XI, § 1104(c)][/us/pl/99/661/s1104/c], Nov. 14, 1986, [100 Stat. 3965][/us/stat/100/3965]; [Pub. L. 101–189, div. A, title IX, § 931(e)(1)][/us/pl/101/189/s931/e/1], Nov. 29, 1989, [103 Stat. 1535][/us/stat/103/1535]; [Pub. L. 103–337, div. A, title XIII, § 1317(e)][/us/pl/103/337/s1317/e], Oct. 5, 1994, [108 Stat. 2900][/us/stat/108/2900].)
+(Added [Pub. L. 96–323][/us/pl/96/323], § 2(a), Aug. 4, 1980, [94 Stat. 1018][/us/stat/94/1018], § 2325; renumbered § 2345, [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1304(a)(1), Nov. 8, 1985, [99 Stat. 741][/us/stat/99/741]; amended [Pub. L. 99–661, div. A, title XI][/us/pl/99/661/dA/tXI], § 1104(c), Nov. 14, 1986, [100 Stat. 3965][/us/stat/100/3965]; [Pub. L. 101–189, div. A, title IX][/us/pl/101/189/dA/tIX], § 931(e)(1), Nov. 29, 1989, [103 Stat. 1535][/us/stat/103/1535]; [Pub. L. 103–337, div. A, title XIII][/us/pl/103/337/dA/tXIII], § 1317(e), Oct. 5, 1994, [108 Stat. 2900][/us/stat/108/2900].)
 
  __Amendments__ 
 
@@ -42,15 +42,15 @@
 ----------
 ----------
 
-[/us/pl/96/323/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F323%2Fs2%2Fa
+[/us/pl/96/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F323
 [/us/stat/94/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1018
-[/us/pl/99/145/s1304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1304%2Fa%2F1
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F741
-[/us/pl/99/661/s1104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1104%2Fc
+[/us/pl/99/661/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXI
 [/us/stat/100/3965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3965
-[/us/pl/101/189/s931/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs931%2Fe%2F1
+[/us/pl/101/189/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIX
 [/us/stat/103/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1535
-[/us/pl/103/337/s1317/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1317%2Fe
+[/us/pl/103/337/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXIII
 [/us/stat/108/2900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2900
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189

@@ -179,29 +179,29 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–84, div. A, title V, § 512(a)(2)][/us/pl/111/84/s512/a/2], Oct. 28, 2009, [123 Stat. 2281][/us/stat/123/2281], added item 1177.
+    2009—[Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 512(a)(2), Oct. 28, 2009, [123 Stat. 2281][/us/stat/123/2281], added item 1177.
 
-    2006—[Pub. L. 109–163, div. A, title VI, § 643(a)(2)][/us/pl/109/163/s643/a/2], Jan. 6, 2006, [119 Stat. 3309][/us/stat/119/3309], added item 1175a.
+    2006—[Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 643(a)(2), Jan. 6, 2006, [119 Stat. 3309][/us/stat/119/3309], added item 1175a.
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 751(a)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–193, added item 1178.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 751(a)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–193, added item 1178.
 
-    1996—[Pub. L. 104–134, title II, § 2707(a)(2)][/us/pl/104/134/s2707/a/2], Apr. 26, 1996, [110 Stat. 1321–330][/us/stat/110/1321-330], struck out item 1177 “Members infected with HIV–1 virus: mandatory discharge or retirement”.
+    1996—[Pub. L. 104–134, title II][/us/pl/104/134/tII], § 2707(a)(2), Apr. 26, 1996, [110 Stat. 1321–330][/us/stat/110/1321-330], struck out item 1177 “Members infected with HIV–1 virus: mandatory discharge or retirement”.
 
-    [Pub. L. 104–106, div. A, title V][/us/pl/104/106], §§ 563(a)(1)(B), 567(a)(2), Feb. 10, 1996, [110 Stat. 325][/us/stat/110/325], 329, added item 1167 and substituted “Members infected with HIV–1 virus: mandatory discharge or retirement” for “Members who are permanently nonworldwide assignable: mandatory discharge or retirement; counseling” in item 1177.
+    [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], §§ 563(a)(1)(B), 567(a)(2), Feb. 10, 1996, [110 Stat. 325][/us/stat/110/325], 329, added item 1167 and substituted “Members infected with HIV–1 virus: mandatory discharge or retirement” for “Members who are permanently nonworldwide assignable: mandatory discharge or retirement; counseling” in item 1177.
 
-    1994—[Pub. L. 103–337, div. A, title V, § 560(a)(2)][/us/pl/103/337/s560/a/2], title XVI, § 1671(b)(10), Oct. 5, 1994, [108 Stat. 2778][/us/stat/108/2778], 3013, struck out items 1162 “Reserves: discharge” and 1163 “Reserve components: members; limitations on separation” and added item 1177.
+    1994—[Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 560(a)(2), title XVI, § 1671(b)(10), Oct. 5, 1994, [108 Stat. 2778][/us/stat/108/2778], 3013, struck out items 1162 “Reserves: discharge” and 1163 “Reserve components: members; limitations on separation” and added item 1177.
 
-    1992—[Pub. L. 102–484, div. A, title V, § 541(b)][/us/pl/102/484/s541/b], Oct. 23, 1992, [106 Stat. 2413][/us/stat/106/2413], added item 1176.
+    1992—[Pub. L. 102–484, div. A, title V][/us/pl/102/484/dA/tV], § 541(b), Oct. 23, 1992, [106 Stat. 2413][/us/stat/106/2413], added item 1176.
 
-    1991—[Pub. L. 102–190, div. A, title VI][/us/pl/102/190], §§ 661(a)(2), 662(a)(2), Dec. 5, 1991, [105 Stat. 1395][/us/stat/105/1395], 1398, added items 1174a and 1175.
+    1991—[Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], §§ 661(a)(2), 662(a)(2), Dec. 5, 1991, [105 Stat. 1395][/us/stat/105/1395], 1398, added items 1174a and 1175.
 
-    1980—[Pub. L. 96–513, title V, § 501(15)][/us/pl/96/513/s501/15], Dec. 12, 1980, [94 Stat. 2908][/us/stat/94/2908], struck out item 1167 “Regular warrant officers: severance pay” and added item 1174.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], § 501(15), Dec. 12, 1980, [94 Stat. 2908][/us/stat/94/2908], struck out item 1167 “Regular warrant officers: severance pay” and added item 1174.
 
-    1973—[Pub. L. 93–64, title I, § 102][/us/pl/93/64/s102], July 9, 1973, [87 Stat. 147][/us/stat/87/147], added item 1173.
+    1973—[Pub. L. 93–64, title I][/us/pl/93/64/tI], § 102, July 9, 1973, [87 Stat. 147][/us/stat/87/147], added item 1173.
 
-    1968—[Pub. L. 90–235, § 3(a)(1)(B)][/us/pl/90/235/s3/a/1/B], Jan. 2, 1968, [81 Stat. 757][/us/stat/81/757], added items 1169 to 1172.
+    1968—[Pub. L. 90–235][/us/pl/90/235], § 3(a)(1)(B), Jan. 2, 1968, [81 Stat. 757][/us/stat/81/757], added items 1169 to 1172.
 
-    1962—[Pub. L. 87–651, title I, § 106(c)][/us/pl/87/651/s106/c], Sept. 7, 1962, [76 Stat. 508][/us/stat/76/508], added item 1168.
+    1962—[Pub. L. 87–651, title I][/us/pl/87/651/tI], § 106(c), Sept. 7, 1962, [76 Stat. 508][/us/stat/76/508], added item 1168.
 
 ----------
 
@@ -210,29 +210,29 @@
 ----------
 ----------
 
-[/us/pl/111/84/s512/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs512%2Fa%2F2
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2281
-[/us/pl/109/163/s643/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs643%2Fa%2F2
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3309
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/104/134/s2707/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs2707%2Fa%2F2
+[/us/pl/104/134/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtII
 [/us/stat/110/1321-330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-330
-[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F325
-[/us/pl/103/337/s560/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs560%2Fa%2F2
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2778
-[/us/pl/102/484/s541/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs541%2Fb
+[/us/pl/102/484/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtV
 [/us/stat/106/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2413
-[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1395
-[/us/pl/96/513/s501/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs501%2F15
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2908
-[/us/pl/93/64/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F64%2Fs102
+[/us/pl/93/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F64%2FtI
 [/us/stat/87/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F147
-[/us/pl/90/235/s3/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs3%2Fa%2F1%2FB
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F757
-[/us/pl/87/651/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs106%2Fc
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F508
 
 

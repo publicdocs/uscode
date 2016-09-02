@@ -99,19 +99,19 @@
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 554(b)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–127, added item 7480.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 554(b)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–127, added item 7480.
 
-    1998—[Pub. L. 105–261, div. A, title XI, § 1103(b)][/us/pl/105/261/s1103/b], Oct. 17, 1998, [112 Stat. 2141][/us/stat/112/2141], added item 7479.
+    1998—[Pub. L. 105–261, div. A, title XI][/us/pl/105/261/dA/tXI], § 1103(b), Oct. 17, 1998, [112 Stat. 2141][/us/stat/112/2141], added item 7479.
 
-    1997—[Pub. L. 105–85, div. A, title XI, § 1109(b)(2)][/us/pl/105/85/s1109/b/2], Nov. 18, 1997, [111 Stat. 1927][/us/stat/111/1927], substituted “Marine Corps University” for “Marine Corps Command and Staff College” in item 7478.
+    1997—[Pub. L. 105–85, div. A, title XI][/us/pl/105/85/dA/tXI], § 1109(b)(2), Nov. 18, 1997, [111 Stat. 1927][/us/stat/111/1927], substituted “Marine Corps University” for “Marine Corps Command and Staff College” in item 7478.
 
-    1989—[Pub. L. 101–189, div. A, title XI, § 1124(c)(2)][/us/pl/101/189/s1124/c/2], Nov. 29, 1989, [103 Stat. 1559][/us/stat/103/1559], substituted “Naval War College and Marine Corps Command and Staff College: civilian faculty members” for “Naval War College: employment of civilian professors; compensation” in item 7478.
+    1989—[Pub. L. 101–189, div. A, title XI][/us/pl/101/189/dA/tXI], § 1124(c)(2), Nov. 29, 1989, [103 Stat. 1559][/us/stat/103/1559], substituted “Naval War College and Marine Corps Command and Staff College: civilian faculty members” for “Naval War College: employment of civilian professors; compensation” in item 7478.
 
-    1966—[Pub. L. 89–718, § 43][/us/pl/89/718/s43], Nov. 2, 1966, [80 Stat. 1120][/us/stat/80/1120], struck out item 7474 “Wage rates: establishment”.
+    1966—[Pub. L. 89–718][/us/pl/89/718], § 43, Nov. 2, 1966, [80 Stat. 1120][/us/stat/80/1120], struck out item 7474 “Wage rates: establishment”.
 
-    1959—[Pub. L. 86–148, § 1(2)][/us/pl/86/148/s1/2], Aug. 7, 1959, [73 Stat. 302][/us/stat/73/302], struck out item 7475 “Force at naval activities not to be increased before elections”.
+    1959—[Pub. L. 86–148][/us/pl/86/148], § 1(2), Aug. 7, 1959, [73 Stat. 302][/us/stat/73/302], struck out item 7475 “Force at naval activities not to be increased before elections”.
 
-    1958—[Pub. L. 85–861, § 1(151)][/us/pl/85/861/s1/151], Sept. 2, 1958, [72 Stat. 1513][/us/stat/72/1513], struck out item 7471 “Appointments: professional and scientific services”.
+    1958—[Pub. L. 85–861][/us/pl/85/861], § 1(151), Sept. 2, 1958, [72 Stat. 1513][/us/stat/72/1513], struck out item 7471 “Appointments: professional and scientific services”.
 
 ----------
 
@@ -120,19 +120,19 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/105/261/s1103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1103%2Fb
+[/us/pl/105/261/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtXI
 [/us/stat/112/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2141
-[/us/pl/105/85/s1109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1109%2Fb%2F2
+[/us/pl/105/85/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtXI
 [/us/stat/111/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1927
-[/us/pl/101/189/s1124/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1124%2Fc%2F2
+[/us/pl/101/189/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXI
 [/us/stat/103/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1559
-[/us/pl/89/718/s43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs43
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1120
-[/us/pl/86/148/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F148%2Fs1%2F2
+[/us/pl/86/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F148
 [/us/stat/73/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F302
-[/us/pl/85/861/s1/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F151
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1513
 
 

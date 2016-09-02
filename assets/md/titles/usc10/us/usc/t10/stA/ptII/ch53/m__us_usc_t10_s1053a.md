@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptII/ch53/m__us_usc_t10_s1053.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch53/m__us_usc_t10_s1054.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1053a)
 
-## § 1053a. Repealed. [Pub. L. 113–66, div. A, title VI, § 621(c)(2)(A)][/us/pl/113/66/s621/c/2/A], Dec. 26, 2013, [127 Stat. 784][/us/stat/127/784]
+## § 1053a. Repealed. [Pub. L. 113–66, div. A, title VI][/us/pl/113/66/dA/tVI], § 621(c)(2)(A), Dec. 26, 2013, [127 Stat. 784][/us/stat/127/784]
 
-    Section, added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 579(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–141, related to reimbursement for expenses incurred in connection with leave canceled due to contingency operations.
+    Section, added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 579(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–141, related to reimbursement for expenses incurred in connection with leave canceled due to contingency operations.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/113/66/s621/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Fc%2F2%2FA
+[/us/pl/113/66/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVI
 [/us/stat/127/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F784
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

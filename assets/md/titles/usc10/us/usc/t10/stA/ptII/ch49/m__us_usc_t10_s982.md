@@ -29,7 +29,7 @@
 
     (d) In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and each territory of the United States.
 
-(Added [Pub. L. 99–661, div. A, title V, § 502(a)][/us/pl/99/661/s502/a], Nov. 14, 1986, [100 Stat. 3863][/us/stat/100/3863].)
+(Added [Pub. L. 99–661, div. A, title V][/us/pl/99/661/dA/tV], § 502(a), Nov. 14, 1986, [100 Stat. 3863][/us/stat/100/3863].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/99/661/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs502%2Fa
+[/us/pl/99/661/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtV
 [/us/stat/100/3863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3863
 
 

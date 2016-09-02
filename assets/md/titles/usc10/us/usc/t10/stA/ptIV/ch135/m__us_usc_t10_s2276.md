@@ -119,11 +119,11 @@
 
         The term “space transportation infrastructure” has the meaning given that term in [section 50501(12) of title 51][/us/usc/t51/s50501/12].
 
-(Added [Pub. L. 112–239, div. A, title IX, § 912(a)][/us/pl/112/239/s912/a], Jan. 2, 2013, [126 Stat. 1872][/us/stat/126/1872].)
+(Added [Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 912(a), Jan. 2, 2013, [126 Stat. 1872][/us/stat/126/1872].)
 
  __Prior Provisions__ 
 
-    A prior section 2276, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 126][/us/stat/70A/126]; Sept. 7, 1962, [Pub. L. 87–651, title I, § 131][/us/pl/87/651/s131], [76 Stat. 514][/us/stat/76/514], which related to inspection and audit of plants and books of contractors and provided criminal penalties for violations, was repealed by [Pub. L. 103–160, div. A, title VIII, § 821(a)(1)][/us/pl/103/160/s821/a/1], Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
+    A prior section 2276, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 126][/us/stat/70A/126]; Sept. 7, 1962, [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 131, [76 Stat. 514][/us/stat/76/514], which related to inspection and audit of plants and books of contractors and provided criminal penalties for violations, was repealed by [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 821(a)(1), Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
 
 ----------
 
@@ -135,13 +135,13 @@
 [/us/usc/t51/s50501/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs50501%2F7
 [/us/usc/t51/s50501/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs50501%2F11
 [/us/usc/t51/s50501/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs50501%2F12
-[/us/pl/112/239/s912/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs912%2Fa
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
 [/us/stat/126/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1872
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F126
-[/us/pl/87/651/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs131
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F514
-[/us/pl/103/160/s821/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs821%2Fa%2F1
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1704
 
 

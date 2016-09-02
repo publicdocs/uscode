@@ -71,11 +71,11 @@
 
         (11) Case management issues.
 
-(Added [Pub. L. 104–106, div. A, title VII, § 741(a)][/us/pl/104/106/s741/a], Feb. 10, 1996, [110 Stat. 384][/us/stat/110/384].)
+(Added [Pub. L. 104–106, div. A, title VII][/us/pl/104/106/dA/tVII], § 741(a), Feb. 10, 1996, [110 Stat. 384][/us/stat/110/384].)
 
  __Prior Provisions__ 
 
-    A prior section 2116, added [Pub. L. 92–426, § 2(a)][/us/pl/92/426/s2/a], Sept. 21, 1972, [86 Stat. 716][/us/stat/86/716], directed Secretary of Defense to report periodically to Committees on Armed Services of the Senate and House of Representatives on feasibility of establishing educational institutions similar or identical to University at any other locations he deemed appropriate, with last such report to be submitted by June 30, 1976, prior to repeal by [Pub. L. 98–94, title XII, § 1268(12)(A)][/us/pl/98/94/s1268/12/A], Sept. 24, 1983, [97 Stat. 706][/us/stat/97/706].
+    A prior section 2116, added [Pub. L. 92–426][/us/pl/92/426], § 2(a), Sept. 21, 1972, [86 Stat. 716][/us/stat/86/716], directed Secretary of Defense to report periodically to Committees on Armed Services of the Senate and House of Representatives on feasibility of establishing educational institutions similar or identical to University at any other locations he deemed appropriate, with last such report to be submitted by June 30, 1976, prior to repeal by [Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1268(12)(A), Sept. 24, 1983, [97 Stat. 706][/us/stat/97/706].
 
 ----------
 
@@ -84,11 +84,11 @@
 ----------
 ----------
 
-[/us/pl/104/106/s741/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs741%2Fa
+[/us/pl/104/106/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVII
 [/us/stat/110/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F384
-[/us/pl/92/426/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F426%2Fs2%2Fa
+[/us/pl/92/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F426
 [/us/stat/86/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F716
-[/us/pl/98/94/s1268/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1268%2F12%2FA
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F706
 
 

@@ -77,13 +77,13 @@
 
         (2) The term “strategic delivery system” means a delivery system for nuclear weapons.
 
-(Added [Pub. L. 112–239, div. A, title X, § 1035(a)][/us/pl/112/239/s1035/a], Jan. 2, 2013, [126 Stat. 1923][/us/stat/126/1923]; amended [Pub. L. 112–240, title VIII, § 801(a)][/us/pl/112/240/s801/a], Jan. 2, 2013, [126 Stat. 2369][/us/stat/126/2369].)
+(Added [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1035(a), Jan. 2, 2013, [126 Stat. 1923][/us/stat/126/1923]; amended [Pub. L. 112–240, title VIII][/us/pl/112/240/tVIII], § 801(a), Jan. 2, 2013, [126 Stat. 2369][/us/stat/126/2369].)
 
  __References in Text__ 
 
     Section 1251 of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsecs. (a) and (b)(1), is [section 1251 of Pub. L. 111–84][/us/pl/111/84/s1251], which is set out as a note under [section 2523 of Title 50][/us/usc/t50/s2523], War and National Defense.
 
-    Section 1043 of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsecs. (a)(5) and (b), is [section 1043 of title X of div. A of Pub. L. 112–81][/us/pl/112/81/s1043], Dec. 31, 2011, [125 Stat. 1576][/us/stat/125/1576], which is not classified to the Code.
+    Section 1043 of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsecs. (a)(5) and (b), is [section 1043 of title X of div. A of Pub. L. 112–81][/us/pl/112/81/dA/tX/s1043], Dec. 31, 2011, [125 Stat. 1576][/us/stat/125/1576], which is not classified to the Code.
 
  __Amendments__ 
 
@@ -91,13 +91,13 @@
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–240, title VIII, § 801(b)][/us/pl/112/240/s801/b], Jan. 2, 2013, [126 Stat. 2369][/us/stat/126/2369], provided that: 
+[Pub. L. 112–240, title VIII][/us/pl/112/240/tVIII], § 801(b), Jan. 2, 2013, [126 Stat. 2369][/us/stat/126/2369], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the National Defense Authorization Act for Fiscal Year 2013 \[[Pub. L. 112–239][/us/pl/112/239]\].”
 
  __Retention of Capability To Redeploy Multiple Independently Targetable Reentry Vehicles__ 
 
-[Pub. L. 113–66, div. A, title X, § 1057][/us/pl/113/66/s1057], Dec. 26, 2013, [127 Stat. 864][/us/stat/127/864], provided that:
+[Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1057, Dec. 26, 2013, [127 Stat. 864][/us/stat/127/864], provided that:
 
 >     “(a)  __Deployment Capability__  __.—__ 
 
@@ -117,7 +117,7 @@
 
  __Senses of Congress on Ensuring the Modernization of the Nuclear Forces of the United States__ 
 
-[Pub. L. 113–66, div. A, title X, § 1062(a)][/us/pl/113/66/s1062/a], Dec. 26, 2013, [127 Stat. 866][/us/stat/127/866], provided that: 
+[Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1062(a), Dec. 26, 2013, [127 Stat. 866][/us/stat/127/866], provided that: 
 
 > “It is the policy of the United States to—
 
@@ -156,22 +156,22 @@
 [/us/stat/123/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2549
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/stat/125/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1576
-[/us/pl/112/239/s1035/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1035%2Fa
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1923
-[/us/pl/112/240/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs801%2Fa
+[/us/pl/112/240/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVIII
 [/us/stat/126/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2369
 [/us/pl/111/84/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1251
 [/us/usc/t50/s2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2523
-[/us/pl/112/81/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1043
+[/us/pl/112/81/dA/tX/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX%2Fs1043
 [/us/stat/125/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1576
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
-[/us/pl/112/240/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs801%2Fb
+[/us/pl/112/240/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVIII
 [/us/stat/126/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2369
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/113/66/s1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1057
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F864
 [/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
-[/us/pl/113/66/s1062/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1062%2Fa
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F866
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239

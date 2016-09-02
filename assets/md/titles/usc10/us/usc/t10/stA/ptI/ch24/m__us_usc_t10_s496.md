@@ -59,7 +59,7 @@
 
         (2) The Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
-(Added [Pub. L. 112–239, div. A, title X, § 1036(a)][/us/pl/112/239/s1036/a], Jan. 2, 2013, [126 Stat. 1924][/us/stat/126/1924]; amended [Pub. L. 113–291, div. A, title X, § 1071(c)(10)][/us/pl/113/291/s1071/c/10], Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509].)
+(Added [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1036(a), Jan. 2, 2013, [126 Stat. 1924][/us/stat/126/1924]; amended [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(c)(10), Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509].)
 
  __Amendments__ 
 
@@ -74,9 +74,9 @@
 
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/usc/t10/s495/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs495%2Fe%2F2
-[/us/pl/112/239/s1036/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1036%2Fa
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1924
-[/us/pl/113/291/s1071/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F10
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3509
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4

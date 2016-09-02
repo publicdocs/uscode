@@ -47,7 +47,7 @@
 
     This section shall be carried out under regulations prescribed by the Secretary of the Navy.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 435][/us/stat/70A/435]; [Pub. L. 89–718, § 38][/us/pl/89/718/s38], Nov. 2, 1966, [80 Stat. 1120][/us/stat/80/1120]; [Pub. L. 103–337, div. A, title III, § 376][/us/pl/103/337/s376], Oct. 5, 1994, [108 Stat. 2736][/us/stat/108/2736]; [Pub. L. 104–201, div. A, title III, § 370(a)][/us/pl/104/201/s370/a], Sept. 23, 1996, [110 Stat. 2498][/us/stat/110/2498]; [Pub. L. 105–85, div. B, title XXVIII, § 2871(c)(1)][/us/pl/105/85/s2871/c/1], Nov. 18, 1997, [111 Stat. 2015][/us/stat/111/2015].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 435][/us/stat/70A/435]; [Pub. L. 89–718][/us/pl/89/718], § 38, Nov. 2, 1966, [80 Stat. 1120][/us/stat/80/1120]; [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 376, Oct. 5, 1994, [108 Stat. 2736][/us/stat/108/2736]; [Pub. L. 104–201, div. A, title III][/us/pl/104/201/dA/tIII], § 370(a), Sept. 23, 1996, [110 Stat. 2498][/us/stat/110/2498]; [Pub. L. 105–85, div. B, title XXVIII][/us/pl/105/85/dB/tXXVIII], § 2871(c)(1), Nov. 18, 1997, [111 Stat. 2015][/us/stat/111/2015].)
 
 <table>
 
@@ -136,13 +136,13 @@ Aug. 5, 1939, ch. 448, § 1, 53 Stat. 1210.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F435
-[/us/pl/89/718/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs38
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1120
-[/us/pl/103/337/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs376
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2736
-[/us/pl/104/201/s370/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs370%2Fa
+[/us/pl/104/201/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIII
 [/us/stat/110/2498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2498
-[/us/pl/105/85/s2871/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2871%2Fc%2F1
+[/us/pl/105/85/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdB%2FtXXVIII
 [/us/stat/111/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2015
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201

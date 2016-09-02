@@ -77,7 +77,7 @@
 
     The Secretary of Defense shall prescribe regulations to carry out this section, including standards for qualified loans and authorized payees and other terms and conditions for the making of loan repayments.
 
-(Added [Pub. L. 105–85, div. A, title VI, § 651(a)][/us/pl/105/85/s651/a], Nov. 18, 1997, [111 Stat. 1802][/us/stat/111/1802]; amended [Pub. L. 107–314, div. A, title V, § 573][/us/pl/107/314/s573], Dec. 2, 2002, [116 Stat. 2558][/us/stat/116/2558]; [Pub. L. 109–163, div. A, title VI, § 687(c)(7)][/us/pl/109/163/s687/c/7], Jan. 6, 2006, [119 Stat. 3334][/us/stat/119/3334]; [Pub. L. 109–364, div. A, title V, § 537(a)][/us/pl/109/364/s537/a], Oct. 17, 2006, [120 Stat. 2209][/us/stat/120/2209]; [Pub. L. 111–383, div. A, title V, § 553][/us/pl/111/383/s553], Jan. 7, 2011, [124 Stat. 4220][/us/stat/124/4220].)
+(Added [Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 651(a), Nov. 18, 1997, [111 Stat. 1802][/us/stat/111/1802]; amended [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 573, Dec. 2, 2002, [116 Stat. 2558][/us/stat/116/2558]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 687(c)(7), Jan. 6, 2006, [119 Stat. 3334][/us/stat/119/3334]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 537(a), Oct. 17, 2006, [120 Stat. 2209][/us/stat/120/2209]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 553, Jan. 7, 2011, [124 Stat. 4220][/us/stat/124/4220].)
 
  __Amendments__ 
 
@@ -87,13 +87,13 @@
 
     Subsec. (g). [Pub. L. 109–163][/us/pl/109/163] designated existing provisions as par. (1) and added par. (2).
 
-    2002—Subsec. (d). [Pub. L. 107–314, § 573(a)][/us/pl/107/314/s573/a], substituted “Students” for “Participants of the Armed Forces Health Professions Scholarship and Financial Assistance program under subchapter I of chapter 105 of this title and students”.
+    2002—Subsec. (d). [Pub. L. 107–314][/us/pl/107/314], § 573(a), substituted “Students” for “Participants of the Armed Forces Health Professions Scholarship and Financial Assistance program under subchapter I of chapter 105 of this title and students”.
 
-    Subsec. (e)(2). [Pub. L. 107–314, § 573(b)][/us/pl/107/314/s573/b], struck out at end “The total amount that may be repaid on behalf of any person may not exceed an amount determined on the basis of a four-year active duty service obligation.”
+    Subsec. (e)(2). [Pub. L. 107–314][/us/pl/107/314], § 573(b), struck out at end “The total amount that may be repaid on behalf of any person may not exceed an amount determined on the basis of a four-year active duty service obligation.”
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–364, div. A, title V, § 537(b)][/us/pl/109/364/s537/b], Oct. 17, 2006, [120 Stat. 2209][/us/stat/120/2209], provided that:
+[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 537(b), Oct. 17, 2006, [120 Stat. 2209][/us/stat/120/2209], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -119,22 +119,22 @@
 [/us/usc/t10/s2121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2121%2Fd
 [/us/usc/t10/s2123/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2123%2Fe
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/105/85/s651/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs651%2Fa
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1802
-[/us/pl/107/314/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs573
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2558
-[/us/pl/109/163/s687/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fc%2F7
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3334
-[/us/pl/109/364/s537/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs537%2Fa
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2209
-[/us/pl/111/383/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs553
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4220
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/107/314/s573/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs573%2Fa
-[/us/pl/107/314/s573/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs573%2Fb
-[/us/pl/109/364/s537/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs537%2Fb
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2209
 [/us/usc/t10/s2173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2173
 [/us/usc/t10/s2173/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2173%2Fe%2F2

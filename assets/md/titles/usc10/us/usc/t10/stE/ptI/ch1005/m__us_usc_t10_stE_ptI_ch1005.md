@@ -139,7 +139,7 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–106, div. A, title XV, § 1501(b)(3)][/us/pl/104/106/s1501/b/3], Feb. 10, 1996, [110 Stat. 496][/us/stat/110/496], struck out “generally” after “Reserve” in item 10142.
+    1996—[Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(3), Feb. 10, 1996, [110 Stat. 496][/us/stat/110/496], struck out “generally” after “Reserve” in item 10142.
 
 ----------
 
@@ -148,7 +148,7 @@
 ----------
 ----------
 
-[/us/pl/104/106/s1501/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F3
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F496
 
 

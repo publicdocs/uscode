@@ -17,7 +17,7 @@
 
     A military protective order issued by a military commander shall remain in effect until such time as the military commander terminates the order or issues a replacement order.
 
-(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 561(a), Oct. 14, 2008, [122 Stat. 4470][/us/stat/122/4470]; amended [Pub. L. 111–84, div. A, title X, § 1073(a)(16)][/us/pl/111/84/s1073/a/16], Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473].)
+(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 561(a), Oct. 14, 2008, [122 Stat. 4470][/us/stat/122/4470]; amended [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(16), Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473].)
 
  __Amendments__ 
 
@@ -32,7 +32,7 @@
 
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4470
-[/us/pl/111/84/s1073/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F16
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2473
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 

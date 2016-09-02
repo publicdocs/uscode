@@ -35,11 +35,11 @@
 
     In this section, the term “foreign terrorist organization” means an entity designated as a foreign terrorist organization by the Secretary of State pursuant to section 219 of the Immigration and Nationality Act ([8 U.S.C. 1189][/us/usc/t8/s1189]).
 
-(Added [Pub. L. 113–291, div. A, title V, § 571(a)(1)(A)][/us/pl/113/291/s571/a/1/A], Dec. 19, 2014, [128 Stat. 3387][/us/stat/128/3387].)
+(Added [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 571(a)(1)(A), Dec. 19, 2014, [128 Stat. 3387][/us/stat/128/3387].)
 
  __Retroactive Effective Date and Application__ 
 
-[Pub. L. 113–291, div. A, title V, § 571(a)(2)][/us/pl/113/291/s571/a/2], Dec. 19, 2014, [128 Stat. 3387][/us/stat/128/3387], provided that:
+[Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 571(a)(2), Dec. 19, 2014, [128 Stat. 3387][/us/stat/128/3387], provided that:
 
 >     “(A)  __Effective date__  __.—__ 
 
@@ -65,9 +65,9 @@
 ----------
 
 [/us/usc/t8/s1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1189
-[/us/pl/113/291/s571/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs571%2Fa%2F1%2FA
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3387
-[/us/pl/113/291/s571/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs571%2Fa%2F2
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3387
 [/us/usc/t10/s1129a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1129a
 [/us/usc/t10/s1129a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1129a

@@ -147,7 +147,7 @@
 
         (4) The program manager may establish an independent advisory and review panel that may include representatives of the National Academy of Sciences, nongovernmental organizations with expertise regarding unexploded ordnance, discarded military munitions, or munitions constituents, the Environmental Protection Agency, States (as defined in section 2710 1 of this title), and tribal governments. If established, the panel shall report annually to Congress on progress made by the Department of Defense to address unexploded ordnance, discarded military munitions, or munitions constituents at defense sites and make such recommendations as the panel considers appropriate.
 
-(Added [Pub. L. 99–499, title II, § 211(a)(1)(B)][/us/pl/99/499/s211/a/1/B], Oct. 17, 1986, [100 Stat. 1719][/us/stat/100/1719]; amended [Pub. L. 101–510, div. A, title XIV, § 1481(i)(1)][/us/pl/101/510/s1481/i/1], Nov. 5, 1990, [104 Stat. 1708][/us/stat/104/1708]; [Pub. L. 102–190, div. A, title III, § 336(a)][/us/pl/102/190/s336/a], Dec. 5, 1991, [105 Stat. 1342][/us/stat/105/1342]; [Pub. L. 102–484, div. A, title III, § 331(b)][/us/pl/102/484/s331/b], title X, § 1052(35), Oct. 23, 1992, [106 Stat. 2373][/us/stat/106/2373], 2501; [Pub. L. 103–35, title II, § 201(d)(6)][/us/pl/103/35/s201/d/6], May 31, 1993, [107 Stat. 99][/us/stat/107/99]; [Pub. L. 103–337, div. A, title III][/us/pl/103/337], §§ 322, 323, Oct. 5, 1994, [108 Stat. 2711][/us/stat/108/2711]; [Pub. L. 104–106, div. A, title III, § 321(a)(1)][/us/pl/104/106/s321/a/1], title XV, § 1504(a)(1), div. D, title XLIII, § 4321(b)(22), Feb. 10, 1996, [110 Stat. 251][/us/stat/110/251], 513, 673; [Pub. L. 104–201, div. A, title III, § 329][/us/pl/104/201/s329], Sept. 23, 1996, [110 Stat. 2483][/us/stat/110/2483]; [Pub. L. 107–107, div. A, title III, § 314][/us/pl/107/107/s314], Dec. 28, 2001, [115 Stat. 1053][/us/stat/115/1053]; [Pub. L. 107–217, § 3(b)(17)][/us/pl/107/217/s3/b/17], Aug. 21, 2002, [116 Stat. 1296][/us/stat/116/1296]; [Pub. L. 107–314, div. A, title III][/us/pl/107/314], §§ 311, 312, 313(c)(2), div. B, title XXVIII, § 2812(c), Dec. 2, 2002, [116 Stat. 2506][/us/stat/116/2506], 2508, 2709; [Pub. L. 108–375, div. A, title X, § 1084(d)(24)][/us/pl/108/375/s1084/d/24], Oct. 28, 2004, [118 Stat. 2062][/us/stat/118/2062]; [Pub. L. 109–163, div. A, title III, § 312(a)][/us/pl/109/163/s312/a], Jan. 6, 2006, [119 Stat. 3190][/us/stat/119/3190]; [Pub. L. 109–284, § 2][/us/pl/109/284/s2], Sept. 27, 2006, [120 Stat. 1211][/us/stat/120/1211]; [Pub. L. 109–364, div. A, title III][/us/pl/109/364], §§ 311, 312, Oct. 17, 2006, [120 Stat. 2137][/us/stat/120/2137]; [Pub. L. 111–84, div. A, title X, § 1073(a)(28)][/us/pl/111/84/s1073/a/28], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474]; [Pub. L. 111–383, div. A, title X, § 1075(b)(46)(B)][/us/pl/111/383/s1075/b/46/B], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371]; [Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(A)][/us/pl/112/239/s2711/c/4/A], Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144]; [Pub. L. 113–291, div. A, title IX, § 901(n)(2)][/us/pl/113/291/s901/n/2], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469].)
+(Added [Pub. L. 99–499, title II][/us/pl/99/499/tII], § 211(a)(1)(B), Oct. 17, 1986, [100 Stat. 1719][/us/stat/100/1719]; amended [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1481(i)(1), Nov. 5, 1990, [104 Stat. 1708][/us/stat/104/1708]; [Pub. L. 102–190, div. A, title III][/us/pl/102/190/dA/tIII], § 336(a), Dec. 5, 1991, [105 Stat. 1342][/us/stat/105/1342]; [Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 331(b), title X, § 1052(35), Oct. 23, 1992, [106 Stat. 2373][/us/stat/106/2373], 2501; [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 201(d)(6), May 31, 1993, [107 Stat. 99][/us/stat/107/99]; [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], §§ 322, 323, Oct. 5, 1994, [108 Stat. 2711][/us/stat/108/2711]; [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 321(a)(1), title XV, § 1504(a)(1), div. D, title XLIII, § 4321(b)(22), Feb. 10, 1996, [110 Stat. 251][/us/stat/110/251], 513, 673; [Pub. L. 104–201, div. A, title III][/us/pl/104/201/dA/tIII], § 329, Sept. 23, 1996, [110 Stat. 2483][/us/stat/110/2483]; [Pub. L. 107–107, div. A, title III][/us/pl/107/107/dA/tIII], § 314, Dec. 28, 2001, [115 Stat. 1053][/us/stat/115/1053]; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(17), Aug. 21, 2002, [116 Stat. 1296][/us/stat/116/1296]; [Pub. L. 107–314, div. A, title III][/us/pl/107/314/dA/tIII], §§ 311, 312, 313(c)(2), div. B, title XXVIII, § 2812(c), Dec. 2, 2002, [116 Stat. 2506][/us/stat/116/2506], 2508, 2709; [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(d)(24), Oct. 28, 2004, [118 Stat. 2062][/us/stat/118/2062]; [Pub. L. 109–163, div. A, title III][/us/pl/109/163/dA/tIII], § 312(a), Jan. 6, 2006, [119 Stat. 3190][/us/stat/119/3190]; [Pub. L. 109–284][/us/pl/109/284], § 2, Sept. 27, 2006, [120 Stat. 1211][/us/stat/120/1211]; [Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], §§ 311, 312, Oct. 17, 2006, [120 Stat. 2137][/us/stat/120/2137]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(a)(28), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(46)(B), Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371]; [Pub. L. 112–239, div. B, title XXVII][/us/pl/112/239/dB/tXXVII], § 2711(c)(4)(A), Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144]; [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(n)(2), Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469].)
 
  __References in Text__ 
 
@@ -155,7 +155,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in subsecs. (f) and (g) of this section were contained in [Pub. L. 101–165, title IX, § 9038][/us/pl/101/165/s9038], Nov. 21, 1989, [103 Stat. 1137][/us/stat/103/1137], which was set out below, prior to repeal by [Pub. L. 101–510, § 1481(i)(2)][/us/pl/101/510/s1481/i/2].
+    Provisions similar to those in subsecs. (f) and (g) of this section were contained in [Pub. L. 101–165, title IX][/us/pl/101/165/tIX], § 9038, Nov. 21, 1989, [103 Stat. 1137][/us/stat/103/1137], which was set out below, prior to repeal by [Pub. L. 101–510][/us/pl/101/510], § 1481(i)(2).
 
     A prior section 2701 was renumbered [section 2721 of this title][/us/usc/t10/s2721].
 
@@ -167,73 +167,73 @@
 
     2009—Subsec. (d)(5). [Pub. L. 111–84][/us/pl/111/84] substituted “9620)” for “6920)”.
 
-    2006—Subsec. (d)(1). [Pub. L. 109–163, § 312(a)(1)][/us/pl/109/163/s312/a/1], inserted “any owner of covenant property,” after “any Indian tribe,” and “owner,” after “, Indian tribe,”.
+    2006—Subsec. (d)(1). [Pub. L. 109–163][/us/pl/109/163], § 312(a)(1), inserted “any owner of covenant property,” after “any Indian tribe,” and “owner,” after “, Indian tribe,”.
 
-    Subsec. (d)(2). [Pub. L. 109–364, § 312][/us/pl/109/364/s312], inserted at end “This two-year limitation does not apply to an agreement funded using amounts in the Department of Defense Base Closure Account 1990 or the Department of Defense Base Closure Account 2005 established under sections 2906 and 2906A of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).”
+    Subsec. (d)(2). [Pub. L. 109–364][/us/pl/109/364], § 312, inserted at end “This two-year limitation does not apply to an agreement funded using amounts in the Department of Defense Base Closure Account 1990 or the Department of Defense Base Closure Account 2005 established under sections 2906 and 2906A of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).”
 
-    Subsec. (d)(3). [Pub. L. 109–163, § 312(a)(2)][/us/pl/109/163/s312/a/2], inserted “An agreement under such paragraph with respect to a site also may not change the cleanup standards selected for the site pursuant to law.” at end.
+    Subsec. (d)(3). [Pub. L. 109–163][/us/pl/109/163], § 312(a)(2), inserted “An agreement under such paragraph with respect to a site also may not change the cleanup standards selected for the site pursuant to law.” at end.
 
-    Subsec. (d)(4)(C). [Pub. L. 109–163, § 312(a)(3)][/us/pl/109/163/s312/a/3], added subpar. (C).
+    Subsec. (d)(4)(C). [Pub. L. 109–163][/us/pl/109/163], § 312(a)(3), added subpar. (C).
 
-    Subsec. (d)(5). [Pub. L. 109–163, § 312(a)(4)][/us/pl/109/163/s312/a/4], added par. (5).
+    Subsec. (d)(5). [Pub. L. 109–163][/us/pl/109/163], § 312(a)(4), added par. (5).
 
     Subsec. (i)(1). [Pub. L. 109–284][/us/pl/109/284] substituted “sections 3131 and 3133 of title 40” for “miller act” in heading.
 
-    Subsec. (k)(1). [Pub. L. 109–364, § 311(1)][/us/pl/109/364/s311/1], substituted “designate” for “establish” and inserted “research,” after “characterization,”.
+    Subsec. (k)(1). [Pub. L. 109–364][/us/pl/109/364], § 311(1), substituted “designate” for “establish” and inserted “research,” after “characterization,”.
 
-    Subsec. (k)(2) to (4). [Pub. L. 109–364, § 311(2)][/us/pl/109/364/s311/2], (3), added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which read as follows: “The authority to establish the program manager may be delegated to the Secretary of a military department, who may delegate the authority to the Under Secretary of that military department. The authority may not be further delegated.”.
+    Subsec. (k)(2) to (4). [Pub. L. 109–364][/us/pl/109/364], § 311(2), (3), added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which read as follows: “The authority to establish the program manager may be delegated to the Secretary of a military department, who may delegate the authority to the Under Secretary of that military department. The authority may not be further delegated.”.
 
-    2004—Subsec. (a)(2). [Pub. L. 108–375, § 1084(d)(24)(A)][/us/pl/108/375/s1084/d/24/A], inserted “([42 U.S.C. 9620][/us/usc/t42/s9620])” before period at end.
+    2004—Subsec. (a)(2). [Pub. L. 108–375][/us/pl/108/375], § 1084(d)(24)(A), inserted “([42 U.S.C. 9620][/us/usc/t42/s9620])” before period at end.
 
-    Subsec. (c)(2). [Pub. L. 108–375, § 1084(d)(24)(B)][/us/pl/108/375/s1084/d/24/B], substituted “(relating to settlements) of CERCLA ([42 U.S.C. 9622][/us/usc/t42/s9622])” for “of CERCLA (relating to settlements)”.
+    Subsec. (c)(2). [Pub. L. 108–375][/us/pl/108/375], § 1084(d)(24)(B), substituted “(relating to settlements) of CERCLA ([42 U.S.C. 9622][/us/usc/t42/s9622])” for “of CERCLA (relating to settlements)”.
 
-    Subsec. (e). [Pub. L. 108–375, § 1084(d)(24)(C)][/us/pl/108/375/s1084/d/24/C], inserted “([42 U.S.C. 9619][/us/usc/t42/s9619])” after “CERCLA”.
+    Subsec. (e). [Pub. L. 108–375][/us/pl/108/375], § 1084(d)(24)(C), inserted “([42 U.S.C. 9619][/us/usc/t42/s9619])” after “CERCLA”.
 
-    Subsec. (j)(2). [Pub. L. 108–375, § 1084(d)(24)(D)][/us/pl/108/375/s1084/d/24/D], substituted “CERCLA” for “the Comprehensive Environmental Response, Compensation, and Liability Act of 1980”.
+    Subsec. (j)(2). [Pub. L. 108–375][/us/pl/108/375], § 1084(d)(24)(D), substituted “CERCLA” for “the Comprehensive Environmental Response, Compensation, and Liability Act of 1980”.
 
-    2002—Subsec. (a)(2). [Pub. L. 107–314, § 313(c)(2)][/us/pl/107/314/s313/c/2], substituted “CERCLA” for “the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (hereinafter in this chapter referred to as ‘CERCLA’) ([42 U.S.C. 9601][/us/usc/t42/s9601] et seq.)”.
+    2002—Subsec. (a)(2). [Pub. L. 107–314][/us/pl/107/314], § 313(c)(2), substituted “CERCLA” for “the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (hereinafter in this chapter referred to as ‘CERCLA’) ([42 U.S.C. 9601][/us/usc/t42/s9601] et seq.)”.
 
-    Subsec. (d). [Pub. L. 107–314, § 2812(c)(1)][/us/pl/107/314/s2812/c/1], substituted “Entities” for “Agencies” in heading.
+    Subsec. (d). [Pub. L. 107–314][/us/pl/107/314], § 2812(c)(1), substituted “Entities” for “Agencies” in heading.
 
     Subsec. (d)(1). [Pub. L. 107–314][/us/pl/107/314], §§ 311(1), 2812(c)(2), substituted “paragraph (3)” for “paragraph (2)”, “any State or local government agency, any Indian tribe, or any nonprofit conservation organization” for “with any State or local government agency, or with any Indian tribe,”, and “the agency, Indian tribe, or organization” for “the agency”.
 
-    Subsec. (d)(2), (3). [Pub. L. 107–314, § 311(2)][/us/pl/107/314/s311/2], (3), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
+    Subsec. (d)(2), (3). [Pub. L. 107–314][/us/pl/107/314], § 311(2), (3), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
 
-    Subsec. (d)(4). [Pub. L. 107–314, § 2812(c)(3)][/us/pl/107/314/s2812/c/3], added par. (4) and struck out heading and text of former par. (4). Text read as follows: “In this subsection, the term ‘Indian tribe’ has the meaning given such term in section 101(36) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601(36)][/us/usc/t42/s9601/36]).”
+    Subsec. (d)(4). [Pub. L. 107–314][/us/pl/107/314], § 2812(c)(3), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “In this subsection, the term ‘Indian tribe’ has the meaning given such term in section 101(36) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601(36)][/us/usc/t42/s9601/36]).”
 
-    [Pub. L. 107–314, § 311(2)][/us/pl/107/314/s311/2], redesignated par. (3) as (4).
+    [Pub. L. 107–314][/us/pl/107/314], § 311(2), redesignated par. (3) as (4).
 
     Subsec. (i)(1). [Pub. L. 107–217][/us/pl/107/217] substituted “sections 3131 and 3133 of title 40” for “the Miller Act ([40 U.S.C. 270a][/us/usc/t40/s270a] et seq.)”, “[section 3134 of title 40][/us/usc/t40/s3134]” for “the Act of April 29, 1941 ([40 U.S.C. 270e–270f][/us/usc/t40/s270e–270f])”, and “sections 3131 and 3133” for “the Miller Act”.
 
-    Subsec. (k). [Pub. L. 107–314, § 312][/us/pl/107/314/s312], added subsec. (k).
+    Subsec. (k). [Pub. L. 107–314][/us/pl/107/314], § 312, added subsec. (k).
 
     2001—Subsec. (j)(1). [Pub. L. 107–107][/us/pl/107/107] struck out “, or after December 31, 1999” before period at end.
 
     1996—Subsec. (d). [Pub. L. 104–201][/us/pl/104/201] substituted “, with any State or local government agency, or with any Indian tribe,” for “, or with any State or local government agency,” in par. (1) and added par. (3).
 
-    [Pub. L. 104–106, § 1504(a)(1)][/us/pl/104/106/s1504/a/1], made technical correction to directory language of [Pub. L. 103–337, § 322(1)][/us/pl/103/337/s322/1]. See 1994 Amendment note below.
+    [Pub. L. 104–106][/us/pl/104/106], § 1504(a)(1), made technical correction to directory language of [Pub. L. 103–337][/us/pl/103/337], § 322(1). See 1994 Amendment note below.
 
-    [Pub. L. 104–106, § 321(a)(1)][/us/pl/104/106/s321/a/1], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Services of Other Agencies.—
+    [Pub. L. 104–106][/us/pl/104/106], § 321(a)(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Services of Other Agencies.—
 
     “(1) In general.—The Secretary may enter into agreements on a reimbursable basis with any other Federal agency, and on a reimbursable or other basis with any State or local government agency or any Indian tribe, to obtain the services of that agency to assist the Secretary in carrying out any of the Secretary’s responsibilities under this section. Services which may be obtained under this subsection include the identification, investigation, and cleanup of any off-site contamination possibly resulting from the release of a hazardous substance or waste at a facility under the Secretary’s jurisdiction.
 
     “(2) Definition.—In this subsection, the term ‘Indian tribe’ has the meaning given such term in section 101(36) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601(36)][/us/usc/t42/s9601/36]).”
 
-    Subsec. (i)(1). [Pub. L. 104–106, § 4321(b)(22)][/us/pl/104/106/s4321/b/22], substituted “Miller Act ([40 U.S.C. 270a][/us/usc/t40/s270a] et seq.)” for “Act of August 24, 1935 ([40 U.S.C. 270a–270d][/us/usc/t40/s270a–270d]), commonly referred to as the ‘Miller Act’,” and “the Miller Act” for “such Act of August 24, 1935”.
+    Subsec. (i)(1). [Pub. L. 104–106][/us/pl/104/106], § 4321(b)(22), substituted “Miller Act ([40 U.S.C. 270a][/us/usc/t40/s270a] et seq.)” for “Act of August 24, 1935 ([40 U.S.C. 270a–270d][/us/usc/t40/s270a–270d]), commonly referred to as the ‘Miller Act’,” and “the Miller Act” for “such Act of August 24, 1935”.
 
-    1994—Subsec. (d). [Pub. L. 103–337, § 322(1)][/us/pl/103/337/s322/1], as amended by [Pub. L. 104–106, § 1504(a)(1)][/us/pl/104/106/s1504/a/1], designated existing provisions as par. (1) and inserted par. (1) heading.
+    1994—Subsec. (d). [Pub. L. 103–337][/us/pl/103/337], § 322(1), as amended by [Pub. L. 104–106][/us/pl/104/106], § 1504(a)(1), designated existing provisions as par. (1) and inserted par. (1) heading.
 
-    Subsec. (d)(1). [Pub. L. 103–337, § 322(2)][/us/pl/103/337/s322/2], inserted “or any Indian tribe” after “any State or local government agency”.
+    Subsec. (d)(1). [Pub. L. 103–337][/us/pl/103/337], § 322(2), inserted “or any Indian tribe” after “any State or local government agency”.
 
-    Subsec. (d)(2). [Pub. L. 103–337, § 322(3)][/us/pl/103/337/s322/3], added par. (2).
+    Subsec. (d)(2). [Pub. L. 103–337][/us/pl/103/337], § 322(3), added par. (2).
 
-    Subsec. (j)(1). [Pub. L. 103–337, § 323][/us/pl/103/337/s323], substituted “December 31, 1999” for “December 31, 1995”.
+    Subsec. (j)(1). [Pub. L. 103–337][/us/pl/103/337], § 323, substituted “December 31, 1999” for “December 31, 1995”.
 
     1993—Subsec. (j)(2). [Pub. L. 103–35][/us/pl/103/35] substituted “([42 U.S.C. 9619(g)][/us/usc/t42/s9619/g]) applies” for “applies ([42 U.S.C. 9619(g)][/us/usc/t42/s9619/g])”.
 
-    1992—Subsec. (j). [Pub. L. 102–484, § 1052(35)][/us/pl/102/484/s1052/35], substituted “December 5, 1991,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Years 1992 and 1993” in par. (1).
+    1992—Subsec. (j). [Pub. L. 102–484][/us/pl/102/484], § 1052(35), substituted “December 5, 1991,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Years 1992 and 1993” in par. (1).
 
-    [Pub. L. 102–484, § 331(b)][/us/pl/102/484/s331/b], substituted “December 31, 1995” for “December 31, 1992”, designated existing provisions as par. (1), and added par. (2).
+    [Pub. L. 102–484][/us/pl/102/484], § 331(b), substituted “December 31, 1995” for “December 31, 1992”, designated existing provisions as par. (1), and added par. (2).
 
     1991—Subsecs. (h) to (j). [Pub. L. 102–190][/us/pl/102/190] added subsecs. (h) to (j).
 
@@ -245,7 +245,7 @@
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–239, div. B, title XXVII, § 2711(d)][/us/pl/112/239/s2711/d], Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144], provided that: 
+[Pub. L. 112–239, div. B, title XXVII][/us/pl/112/239/dB/tXXVII], § 2711(d), Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144], provided that: 
 
 > “This section and the amendments made by this section \[amending this section and sections 2703, 2705, and 2883 of this title and enacting and amending provisions set out as notes under [section 2687 of this title][/us/usc/t10/s2687]\] shall take effect on the later of—
 
@@ -255,13 +255,13 @@
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–106, div. A, title XV, § 1504(a)][/us/pl/104/106/s1504/a], Feb. 10, 1996, [110 Stat. 513][/us/stat/110/513], provided that the amendment made by that section is effective as of Oct. 5, 1994, and as if included in [Pub. L. 103–337][/us/pl/103/337] as enacted.
+    [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1504(a), Feb. 10, 1996, [110 Stat. 513][/us/stat/110/513], provided that the amendment made by that section is effective as of Oct. 5, 1994, and as if included in [Pub. L. 103–337][/us/pl/103/337] as enacted.
 
     For effective date and applicability of amendment by [section 4321(b)(22) of Pub. L. 104–106][/us/pl/104/106/s4321/b/22], see [section 4401 of Pub. L. 104–106][/us/pl/104/106/s4401], set out as a note under [section 2302 of this title][/us/usc/t10/s2302].
 
  __Prohibition on Disposing of Waste in Open-Air Burn Pits__ 
 
-[Pub. L. 111–84, div. A, title III, § 317][/us/pl/111/84/s317], Oct. 28, 2009, [123 Stat. 2249][/us/stat/123/2249], as amended by [Pub. L. 112–81, div. A, title III, § 316][/us/pl/112/81/s316], Dec. 31, 2011, [125 Stat. 1358][/us/stat/125/1358]; [Pub. L. 113–66, div. A, title III, § 314][/us/pl/113/66/s314], Dec. 26, 2013, [127 Stat. 729][/us/stat/127/729]; [Pub. L. 113–291, div. A, title X, § 1071(g)(1)][/us/pl/113/291/s1071/g/1], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511], provided that:
+[Pub. L. 111–84, div. A, title III][/us/pl/111/84/dA/tIII], § 317, Oct. 28, 2009, [123 Stat. 2249][/us/stat/123/2249], as amended by [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 316, Dec. 31, 2011, [125 Stat. 1358][/us/stat/125/1358]; [Pub. L. 113–66, div. A, title III][/us/pl/113/66/dA/tIII], § 314, Dec. 26, 2013, [127 Stat. 729][/us/stat/127/729]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(g)(1), Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511], provided that:
 
 >     “(a) __Regulations.—__ 
 
@@ -351,13 +351,13 @@
 
  __Purpose of__  __[__  __Pub. L. 109–284__  __][/us/pl/109/284]__ 
 
-[Pub. L. 109–284, § 1][/us/pl/109/284/s1], Sept. 27, 2006, [120 Stat. 1211][/us/stat/120/1211], provided that: 
+[Pub. L. 109–284][/us/pl/109/284], § 1, Sept. 27, 2006, [120 Stat. 1211][/us/stat/120/1211], provided that: 
 
 > “The purpose of this Act \[amending this section, sections 107 and 210 of Title 23, Highways, [section 1499 of Title 28][/us/usc/t28/s1499], Judiciary and Judicial Procedure, sections 2301, 20908, 40103, 70912, 150511, 151303, 153513, 220104, 220501, 220505, 220506, 220509, 220511, 220512, and 220521 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and sections 522, 552, 554, 581, 593, 611, 3131, 3133, 3141, 3142, 3701, 3702, 3704, 6111, 8104, 8105, 8501, 8502, 8711, 8712, 8722, 9302, 14308, and 17504 of Title 40, Public Buildings, Property, and Works\] is to make technical corrections to the United States Code relating to cross references, typographical errors, and stylistic matters.”
 
  __Formerly Utilized Sites Remedial Action Program__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3138\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–461, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3138\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–461, provided that:
 
 >     “(a)  __Contingent Limitation on Availability of Funds for Certain Travel Expenses__  __.—__ 
 
@@ -379,11 +379,11 @@
 
 >     If the limitation in subsection (a) takes effect, the limitation shall cease to be in effect when both certifications referred to in subsection (b) have been submitted to the congressional defense committees.”
 
-[Pub. L. 106–65, div. C, title XXXI, § 3131][/us/pl/106/65/s3131], Oct. 5, 1999, [113 Stat. 925][/us/stat/113/925], provided that: 
+[Pub. L. 106–65, div. C, title XXXI][/us/pl/106/65/dC/tXXXI], § 3131, Oct. 5, 1999, [113 Stat. 925][/us/stat/113/925], provided that: 
 
 > “Notwithstanding any other provision of law, no funds authorized to be appropriated or otherwise made available by this Act \[see Tables for classification\], or by any Act authorizing appropriations for the military activities of the Department of Defense or the defense activities of the Department of Energy for a fiscal year after fiscal year 2000, may be obligated or expended to conduct treatment, storage, or disposal activities at any site designated as a site under the Formerly Utilized Site Remedial Action Program as of the date of the enactment of this Act \[Oct. 5, 1999\].”
 
-[Pub. L. 106–60, title VI, § 611][/us/pl/106/60/s611], Sept. 29, 1999, [113 Stat. 502][/us/stat/113/502], provided that:
+[Pub. L. 106–60, title VI][/us/pl/106/60/tVI], § 611, Sept. 29, 1999, [113 Stat. 502][/us/stat/113/502], provided that:
 
 >     “(a)
 
@@ -413,7 +413,7 @@
 
  __Settlement of Claims of Foreign Governments for Environmental Cleanup of Overseas Sites Formerly Used by Department of Defense__ 
 
-[Pub. L. 105–261, div. A, title III, § 321][/us/pl/105/261/s321], Oct. 17, 1998, [112 Stat. 1962][/us/stat/112/1962], provided that:
+[Pub. L. 105–261, div. A, title III][/us/pl/105/261/dA/tIII], § 321, Oct. 17, 1998, [112 Stat. 1962][/us/stat/112/1962], provided that:
 
 >     “(a)  __Notice of Negotiations__  __.—__ 
 
@@ -425,7 +425,7 @@
 
  __Recovery and Sharing of Costs of Environmental Restoration at Department of Defense Sites__ 
 
-[Pub. L. 105–85, div. A, title III, § 348][/us/pl/105/85/s348], Nov. 18, 1997, [111 Stat. 1689][/us/stat/111/1689], provided that:
+[Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 348, Nov. 18, 1997, [111 Stat. 1689][/us/stat/111/1689], provided that:
 
 >     “(a)  __Regulations__  __.—__ 
 
@@ -455,13 +455,13 @@
 
  __Pilot Program for Sale of Air Pollution Emission Reduction Incentives__ 
 
-    [Pub. L. 107–107, div. A, title III, § 316(b)][/us/pl/107/107/s316/b], Dec. 28, 2001, [115 Stat. 1053][/us/stat/115/1053], directed the Secretary of Defense to prepare a report concerning the operation of the pilot program for the sale of economic incentives for the reduction of emission of air pollutants attributable to military facilities, as authorized by [section 351 of Pub. L. 105–85][/us/pl/105/85/s351], formerly set out below, and to submit the report to the Congress not later than Mar. 1, 2003.
+    [Pub. L. 107–107, div. A, title III][/us/pl/107/107/dA/tIII], § 316(b), Dec. 28, 2001, [115 Stat. 1053][/us/stat/115/1053], directed the Secretary of Defense to prepare a report concerning the operation of the pilot program for the sale of economic incentives for the reduction of emission of air pollutants attributable to military facilities, as authorized by [section 351 of Pub. L. 105–85][/us/pl/105/85/s351], formerly set out below, and to submit the report to the Congress not later than Mar. 1, 2003.
 
-    [Pub. L. 105–85, div. A, title III, § 351][/us/pl/105/85/s351], Nov. 18, 1997, [111 Stat. 1692][/us/stat/111/1692], as amended by [Pub. L. 106–65, div. A, title III, § 325][/us/pl/106/65/s325], Oct. 5, 1999, [113 Stat. 563][/us/stat/113/563]; [Pub. L. 107–107, div. A, title III, § 316(a)][/us/pl/107/107/s316/a], Dec. 28, 2001, [115 Stat. 1053][/us/stat/115/1053], authorized the Secretary of Defense, until Sept. 30, 2003, to carry out a pilot program to assess the feasibility and advisability of the sale of economic incentives for the reduction of emission of air pollutants attributable to a facility of a military department.
+    [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 351, Nov. 18, 1997, [111 Stat. 1692][/us/stat/111/1692], as amended by [Pub. L. 106–65, div. A, title III][/us/pl/106/65/dA/tIII], § 325, Oct. 5, 1999, [113 Stat. 563][/us/stat/113/563]; [Pub. L. 107–107, div. A, title III][/us/pl/107/107/dA/tIII], § 316(a), Dec. 28, 2001, [115 Stat. 1053][/us/stat/115/1053], authorized the Secretary of Defense, until Sept. 30, 2003, to carry out a pilot program to assess the feasibility and advisability of the sale of economic incentives for the reduction of emission of air pollutants attributable to a facility of a military department.
 
  __Authority To Develop and Implement Land Use Plans for Defense Environmental Restoration Program__ 
 
-[Pub. L. 104–201, div. A, title III, § 325][/us/pl/104/201/s325], Sept. 23, 1996, [110 Stat. 2481][/us/stat/110/2481], provided that:
+[Pub. L. 104–201, div. A, title III][/us/pl/104/201/dA/tIII], § 325, Sept. 23, 1996, [110 Stat. 2481][/us/stat/110/2481], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -503,7 +503,7 @@
 
  __Fiscal Year 1996 Restrictions on Reimbursements Under Agreements for Services of Other Agencies__ 
 
-[Pub. L. 104–106, div. A, title III, § 321(a)(2)][/us/pl/104/106/s321/a/2], Feb. 10, 1996, [110 Stat. 251][/us/stat/110/251], as amended by [Pub. L. 105–85, div. A, title X, § 1073(d)(1)(A)][/us/pl/105/85/s1073/d/1/A], Nov. 18, 1997, [111 Stat. 1905][/us/stat/111/1905], provided that:
+[Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 321(a)(2), Feb. 10, 1996, [110 Stat. 251][/us/stat/110/251], as amended by [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(d)(1)(A), Nov. 18, 1997, [111 Stat. 1905][/us/stat/111/1905], provided that:
 
 >     “(A) Except as provided in subparagraph (B), the total amount of funds available for reimbursements under agreements entered into under [section 2701(d) of title 10][/us/usc/t10/s2701/d], United States Code, as amended by paragraph (1), in fiscal year 1996 may not exceed $10,000,000.
 
@@ -517,7 +517,7 @@
 
  __Environmental Education and Training Program for Defense Personnel__ 
 
-[Pub. L. 103–337, div. A, title III, § 328][/us/pl/103/337/s328], Oct. 5, 1994, [108 Stat. 2714][/us/stat/108/2714], provided that:
+[Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 328, Oct. 5, 1994, [108 Stat. 2714][/us/stat/108/2714], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -529,7 +529,7 @@
 
  __Grants to Institutions of Higher Education To Provide Education and Training in Environmental Restoration to Dislocated Defense Workers and Young Adults__ 
 
-[Pub. L. 103–160, div. A, title XIII, § 1333][/us/pl/103/160/s1333], Nov. 30, 1993, [107 Stat. 1798][/us/stat/107/1798], as amended by [Pub. L. 103–337, div. A, title X, § 1070(b)(11)][/us/pl/103/337/s1070/b/11], Oct. 5, 1994, [108 Stat. 2857][/us/stat/108/2857]; [Pub. L. 105–244, title I, § 102(a)(2)(D)][/us/pl/105/244/s102/a/2/D], Oct. 7, 1998, [112 Stat. 1617][/us/stat/112/1617]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(8), (f)(7)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–420, 2681–430; [Pub. L. 109–163, div. A, title X, § 1056(a)(2)][/us/pl/109/163/s1056/a/2], Jan. 6, 2006, [119 Stat. 3438][/us/stat/119/3438], provided that:
+[Pub. L. 103–160, div. A, title XIII][/us/pl/103/160/dA/tXIII], § 1333, Nov. 30, 1993, [107 Stat. 1798][/us/stat/107/1798], as amended by [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(b)(11), Oct. 5, 1994, [108 Stat. 2857][/us/stat/108/2857]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(2)(D), Oct. 7, 1998, [112 Stat. 1617][/us/stat/112/1617]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(8), (f)(7)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–420, 2681–430; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1056(a)(2), Jan. 6, 2006, [119 Stat. 3438][/us/stat/119/3438], provided that:
 
 >     “(a)  __Grant Program Authorized__  __.—__ 
 
@@ -667,7 +667,7 @@
 
  __Environmental Education Opportunities Program__ 
 
-[Pub. L. 103–160, div. A, title XIII, § 1334][/us/pl/103/160/s1334], Nov. 30, 1993, [107 Stat. 1801][/us/stat/107/1801], as amended by [Pub. L. 105–244, title I, § 102(a)(2)(E)][/us/pl/105/244/s102/a/2/E], Oct. 7, 1998, [112 Stat. 1617][/us/stat/112/1617], provided that:
+[Pub. L. 103–160, div. A, title XIII][/us/pl/103/160/dA/tXIII], § 1334, Nov. 30, 1993, [107 Stat. 1801][/us/stat/107/1801], as amended by [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(2)(E), Oct. 7, 1998, [112 Stat. 1617][/us/stat/112/1617], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -829,7 +829,7 @@
 
  __Training and Employment of Department of Defense Employees To Carry Out Environmental Restoration at Military Installations To Be Closed__ 
 
-[Pub. L. 103–160, div. A, title XIII, § 1335][/us/pl/103/160/s1335], Nov. 30, 1993, [107 Stat. 1804][/us/stat/107/1804], provided that:
+[Pub. L. 103–160, div. A, title XIII][/us/pl/103/160/dA/tXIII], § 1335, Nov. 30, 1993, [107 Stat. 1804][/us/stat/107/1804], provided that:
 
 >     “(a)  __Training Program__  __.—__ 
 
@@ -857,13 +857,13 @@
 
  __Cooperative Agreements and Grants To Implement Legacy Resource Management Program__ 
 
-[Pub. L. 103–139, title II][/us/pl/103/139], Nov. 11, 1993, [107 Stat. 1422][/us/stat/107/1422], provided in part: 
+[Pub. L. 103–139, title II][/us/pl/103/139/tII], Nov. 11, 1993, [107 Stat. 1422][/us/stat/107/1422], provided in part: 
 
 > “That notwithstanding the provisions of the Federal Cooperative Grant and Agreement Act of 1977 ([31 U.S.C. 6303–630][/us/usc/t31/s6303–630]8), the Department of Defense may hereafter negotiate and enter into cooperative agreements and grants with public and private agencies, organizations, institutions, individuals or other entities to implement the purposes of the Legacy Resource Management Program”.
 
  __Pilot Program for Expedited Environmental Response Actions__ 
 
-[Pub. L. 102–484, div. A, title III, § 323][/us/pl/102/484/s323], Oct. 23, 1992, [106 Stat. 2365][/us/stat/106/2365], provided that:
+[Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 323, Oct. 23, 1992, [106 Stat. 2365][/us/stat/106/2365], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -933,13 +933,13 @@
 
  __Overseas Environmental Restoration__ 
 
-[Pub. L. 102–484, div. A, title III, § 324][/us/pl/102/484/s324], Oct. 23, 1992, [106 Stat. 2367][/us/stat/106/2367], as amended by [Pub. L. 108–136, div. A, title X, § 1031(d)(1)][/us/pl/108/136/s1031/d/1], Nov. 24, 2003, [117 Stat. 1604][/us/stat/117/1604], provided that:
+[Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 324, Oct. 23, 1992, [106 Stat. 2367][/us/stat/106/2367], as amended by [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(d)(1), Nov. 24, 2003, [117 Stat. 1604][/us/stat/117/1604], provided that:
 
 >     “It is the sense of the Congress that in carrying out environmental restoration activities at military installations outside the United States, the President should seek to obtain an equitable division of the costs of environmental restoration with the nation in which the installation is located.”
 
  __Environmental Scholarship and Fellowship Programs for Department of Defense__ 
 
-[Pub. L. 102–484, div. D, title XLIV, § 4451][/us/pl/102/484/s4451], Oct. 23, 1992, [106 Stat. 2735][/us/stat/106/2735], as amended by [Pub. L. 105–244, title I, § 102(a)(2)(F)][/us/pl/105/244/s102/a/2/F], Oct. 7, 1998, [112 Stat. 1617][/us/stat/112/1617], provided that:
+[Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], § 4451, Oct. 23, 1992, [106 Stat. 2735][/us/stat/106/2735], as amended by [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(2)(F), Oct. 7, 1998, [112 Stat. 1617][/us/stat/112/1617], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -1041,11 +1041,11 @@
 
  __Grants to Institutions of Higher Education To Provide Training in Environmental Restoration and Hazardous Waste Management__ 
 
-    [Pub. L. 102–484, div. D, title XLIV, § 4452][/us/pl/102/484/s4452], Oct. 23, 1992, [106 Stat. 2738][/us/stat/106/2738], authorized the Secretary of Defense to establish a program to assist institutions of higher education, as defined in former [section 1141(a) of Title 20][/us/usc/t20/s1141/a], Education, to provide education and training in environmental restoration and hazardous waste management and to award grants to such institutions, prior to repeal by [Pub. L. 103–160, div. A, title XIII, § 1333(j)][/us/pl/103/160/s1333/j], Nov. 30, 1993, [107 Stat. 1800][/us/stat/107/1800]. See [section 1333 of Pub. L. 103–160][/us/pl/103/160/s1333], set out above.
+    [Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], § 4452, Oct. 23, 1992, [106 Stat. 2738][/us/stat/106/2738], authorized the Secretary of Defense to establish a program to assist institutions of higher education, as defined in former [section 1141(a) of Title 20][/us/usc/t20/s1141/a], Education, to provide education and training in environmental restoration and hazardous waste management and to award grants to such institutions, prior to repeal by [Pub. L. 103–160, div. A, title XIII][/us/pl/103/160/dA/tXIII], § 1333(j), Nov. 30, 1993, [107 Stat. 1800][/us/stat/107/1800]. See [section 1333 of Pub. L. 103–160][/us/pl/103/160/s1333], set out above.
 
  __Policies and Report on Overseas Environmental Compliance__ 
 
-[Pub. L. 101–510, div. A, title III, § 342(b)][/us/pl/101/510/s342/b], Nov. 5, 1990, [104 Stat. 1537][/us/stat/104/1537], provided that:
+[Pub. L. 101–510, div. A, title III][/us/pl/101/510/dA/tIII], § 342(b), Nov. 5, 1990, [104 Stat. 1537][/us/stat/104/1537], provided that:
 
 >     “(1) The Secretary of Defense shall develop a policy for determining applicable environmental requirements for military installations located outside the United States. In developing the policy, the Secretary shall ensure that the policy gives consideration to adequately protecting the health and safety of military and civilian personnel assigned to such installations.
 
@@ -1059,13 +1059,13 @@
 
  __Environmental Education Program for Department of Defense Personnel__ 
 
-    [Pub. L. 101–510, div. A, title III, § 344][/us/pl/101/510/s344], Nov. 5, 1990, [104 Stat. 1538][/us/stat/104/1538], directed Secretary of Defense to establish a program for the purpose of educating Department of Defense personnel in environmental management and, not later than date on which President submits budget for FY 1992 to Congress pursuant to [31 U.S.C. 1105(a)][/us/usc/t31/s1105/a], to submit to Congress recommendations regarding whether program should be continued after Sept. 30, 1991.
+    [Pub. L. 101–510, div. A, title III][/us/pl/101/510/dA/tIII], § 344, Nov. 5, 1990, [104 Stat. 1538][/us/stat/104/1538], directed Secretary of Defense to establish a program for the purpose of educating Department of Defense personnel in environmental management and, not later than date on which President submits budget for FY 1992 to Congress pursuant to [31 U.S.C. 1105(a)][/us/usc/t31/s1105/a], to submit to Congress recommendations regarding whether program should be continued after Sept. 30, 1991.
 
  __Use of Ozone Depleting Substances Within Department of Defense__ 
 
-    [Pub. L. 102–484, div. A, title III, § 325][/us/pl/102/484/s325], Oct. 23, 1992, [106 Stat. 2367][/us/stat/106/2367], required the Director of the Defense Logistics Agency to evaluate the use of class I and class II substances, listed under [42 U.S.C. 7671a][/us/usc/t42/s7671a], by the military departments and Defense Agencies for the years 1992 to 1995 and to submit to the congressional defense committees a report on the status of the evaluation in 1993.
+    [Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 325, Oct. 23, 1992, [106 Stat. 2367][/us/stat/106/2367], required the Director of the Defense Logistics Agency to evaluate the use of class I and class II substances, listed under [42 U.S.C. 7671a][/us/usc/t42/s7671a], by the military departments and Defense Agencies for the years 1992 to 1995 and to submit to the congressional defense committees a report on the status of the evaluation in 1993.
 
-[Pub. L. 101–510, div. A, title III, § 345][/us/pl/101/510/s345], Nov. 5, 1990, [104 Stat. 1538][/us/stat/104/1538], provided that:
+[Pub. L. 101–510, div. A, title III][/us/pl/101/510/dA/tIII], § 345, Nov. 5, 1990, [104 Stat. 1538][/us/stat/104/1538], provided that:
 
 >     “(a)  __DOD Requirements for Ozone Depleting Chemicals Other Than CFC__  __s.—__ 
 
@@ -1089,7 +1089,7 @@
 
  __Requirement for Development of Environmental Data Base__ 
 
-[Pub. L. 101–189, div. A, title III, § 352][/us/pl/101/189/s352], Nov. 29, 1989, [103 Stat. 1423][/us/stat/103/1423], provided that:
+[Pub. L. 101–189, div. A, title III][/us/pl/101/189/dA/tIII], § 352, Nov. 29, 1989, [103 Stat. 1423][/us/stat/103/1423], provided that:
 
 >     “(a)  __Environmental Data Base__  __.—__ 
 
@@ -1101,11 +1101,11 @@
 
  __Funding for Waste Minimization Programs for Certain Industrial-Type Activities of Department of Defense__ 
 
-    [Pub. L. 101–189, div. A, title III, § 354][/us/pl/101/189/s354], Nov. 29, 1989, [103 Stat. 1424][/us/stat/103/1424], as amended by [Pub. L. 102–190, div. A, title III, § 332][/us/pl/102/190/s332], Dec. 5, 1991, [105 Stat. 1340][/us/stat/105/1340], directed the Secretary of Defense to require the Secretary of each military department to establish a program for fiscal years 1992, 1993, and 1994 to reduce the volume of solid and hazardous wastes disposed of, and hazardous materials used by, each industrial-type activity within the department that was a depot maintenance installation and for which a working-capital fund had been established under [section 2208 of this title][/us/usc/t10/s2208], and to submit to Congress, not later than 90 days after Nov. 29, 1989, the name of each industrial-type or commercial-type activity of each military department which was not covered by the waste minimization program because the activity did not carry out depot maintenance installation functions.
+    [Pub. L. 101–189, div. A, title III][/us/pl/101/189/dA/tIII], § 354, Nov. 29, 1989, [103 Stat. 1424][/us/stat/103/1424], as amended by [Pub. L. 102–190, div. A, title III][/us/pl/102/190/dA/tIII], § 332, Dec. 5, 1991, [105 Stat. 1340][/us/stat/105/1340], directed the Secretary of Defense to require the Secretary of each military department to establish a program for fiscal years 1992, 1993, and 1994 to reduce the volume of solid and hazardous wastes disposed of, and hazardous materials used by, each industrial-type activity within the department that was a depot maintenance installation and for which a working-capital fund had been established under [section 2208 of this title][/us/usc/t10/s2208], and to submit to Congress, not later than 90 days after Nov. 29, 1989, the name of each industrial-type or commercial-type activity of each military department which was not covered by the waste minimization program because the activity did not carry out depot maintenance installation functions.
 
  __Use of Chlorofluorocarbons and Halons in Department of Defense__ 
 
-[Pub. L. 101–189, div. A, title III, § 356][/us/pl/101/189/s356], Nov. 29, 1989, [103 Stat. 1425][/us/stat/103/1425], as amended by [Pub. L. 103–160, div. A, title IX, § 904(f)][/us/pl/103/160/s904/f], Nov. 30, 1993, [107 Stat. 1729][/us/stat/107/1729]; [Pub. L. 106–65, div. A, title IX, § 911(a)(1)][/us/pl/106/65/s911/a/1], Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717], provided that:
+[Pub. L. 101–189, div. A, title III][/us/pl/101/189/dA/tIII], § 356, Nov. 29, 1989, [103 Stat. 1425][/us/stat/103/1425], as amended by [Pub. L. 103–160, div. A, title IX][/us/pl/103/160/dA/tIX], § 904(f), Nov. 30, 1993, [107 Stat. 1729][/us/stat/107/1729]; [Pub. L. 106–65, div. A, title IX][/us/pl/106/65/dA/tIX], § 911(a)(1), Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717], provided that:
 
 >     “(a)  __Chlorofluorocarbons Emission Reduction__  __.—__ 
 
@@ -1147,15 +1147,15 @@
 
  __Report on Environmental Requirements and Priorities__ 
 
-    [Pub. L. 101–189, div. A, title III, § 358][/us/pl/101/189/s358], Nov. 29, 1989, [103 Stat. 1427][/us/stat/103/1427], directed Secretary of Defense, not later than two years after Nov. 29, 1989, to submit to Congress a comprehensive report on the long-range environmental challenges and goals of the Department of Defense.
+    [Pub. L. 101–189, div. A, title III][/us/pl/101/189/dA/tIII], § 358, Nov. 29, 1989, [103 Stat. 1427][/us/stat/103/1427], directed Secretary of Defense, not later than two years after Nov. 29, 1989, to submit to Congress a comprehensive report on the long-range environmental challenges and goals of the Department of Defense.
 
  __Study of Waste Recycling__ 
 
-    [Pub. L. 101–189, div. A, title III, § 361][/us/pl/101/189/s361], Nov. 29, 1989, [103 Stat. 1429][/us/stat/103/1429], as amended by [Pub. L. 101–510, div. A, title III, § 343][/us/pl/101/510/s343], Nov. 5, 1990, [104 Stat. 1538][/us/stat/104/1538], required the Secretary of Defense to conduct a study of current practices and future plans for managing postconsumer waste at facilities of the Department of Defense at which such waste was generated and the feasibility of such Department of Defense facilities participating in programs at military installations or in local communities to recycle the postconsumer waste generated at the facilities, and to submit to Congress a report describing the findings and conclusions of the Secretary resulting from the study not later than Mar. 1, 1991.
+    [Pub. L. 101–189, div. A, title III][/us/pl/101/189/dA/tIII], § 361, Nov. 29, 1989, [103 Stat. 1429][/us/stat/103/1429], as amended by [Pub. L. 101–510, div. A, title III][/us/pl/101/510/dA/tIII], § 343, Nov. 5, 1990, [104 Stat. 1538][/us/stat/104/1538], required the Secretary of Defense to conduct a study of current practices and future plans for managing postconsumer waste at facilities of the Department of Defense at which such waste was generated and the feasibility of such Department of Defense facilities participating in programs at military installations or in local communities to recycle the postconsumer waste generated at the facilities, and to submit to Congress a report describing the findings and conclusions of the Secretary resulting from the study not later than Mar. 1, 1991.
 
  __Use of Department of Defense Appropriations for Removal of Unsafe Buildings or Debris__ 
 
-    [Pub. L. 101–165, title IX, § 9038][/us/pl/101/165/s9038], Nov. 21, 1989, [103 Stat. 1137][/us/stat/103/1137], which authorized appropriations available to the Department of Defense to be used at sites formerly used by the Department for removal of unsafe buildings or debris of the Department and required that removal be completed before the property is released from Federal Government control, was repealed and restated in subsecs. (f) and (g) of this section by [Pub. L. 101–510, div. A, title XIV, § 1481(i)][/us/pl/101/510/s1481/i], Nov. 5, 1990, [104 Stat. 1708][/us/stat/104/1708].
+    [Pub. L. 101–165, title IX][/us/pl/101/165/tIX], § 9038, Nov. 21, 1989, [103 Stat. 1137][/us/stat/103/1137], which authorized appropriations available to the Department of Defense to be used at sites formerly used by the Department for removal of unsafe buildings or debris of the Department and required that removal be completed before the property is released from Federal Government control, was repealed and restated in subsecs. (f) and (g) of this section by [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1481(i), Nov. 5, 1990, [104 Stat. 1708][/us/stat/104/1708].
 
 ----------
 
@@ -1174,174 +1174,174 @@
 [/us/usc/t42/s9619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9619
 [/us/usc/t40/s3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3134
 [/us/usc/t42/s9619/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9619%2Fg
-[/us/pl/99/499/s211/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs211%2Fa%2F1%2FB
+[/us/pl/99/499/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtII
 [/us/stat/100/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1719
-[/us/pl/101/510/s1481/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1481%2Fi%2F1
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1708
-[/us/pl/102/190/s336/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs336%2Fa
+[/us/pl/102/190/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtIII
 [/us/stat/105/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1342
-[/us/pl/102/484/s331/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs331%2Fb
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2373
-[/us/pl/103/35/s201/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fd%2F6
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F99
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2711
-[/us/pl/104/106/s321/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs321%2Fa%2F1
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F251
-[/us/pl/104/201/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs329
+[/us/pl/104/201/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIII
 [/us/stat/110/2483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2483
-[/us/pl/107/107/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs314
+[/us/pl/107/107/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIII
 [/us/stat/115/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1053
-[/us/pl/107/217/s3/b/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F17
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1296
-[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtIII
 [/us/stat/116/2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2506
-[/us/pl/108/375/s1084/d/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F24
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2062
-[/us/pl/109/163/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs312%2Fa
+[/us/pl/109/163/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIII
 [/us/stat/119/3190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3190
-[/us/pl/109/284/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs2
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1211
-[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2137
-[/us/pl/111/84/s1073/a/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F28
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
-[/us/pl/111/383/s1075/b/46/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F46%2FB
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4371
-[/us/pl/112/239/s2711/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711%2Fc%2F4%2FA
+[/us/pl/112/239/dB/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdB%2FtXXVII
 [/us/stat/126/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2144
-[/us/pl/113/291/s901/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F2
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
 [/us/usc/t10/s2710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2710
-[/us/pl/101/165/s9038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2Fs9038
+[/us/pl/101/165/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2FtIX
 [/us/stat/103/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1137
-[/us/pl/101/510/s1481/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1481%2Fi%2F2
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2721
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/109/163/s312/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs312%2Fa%2F1
-[/us/pl/109/364/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs312
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
-[/us/pl/109/163/s312/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs312%2Fa%2F2
-[/us/pl/109/163/s312/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs312%2Fa%2F3
-[/us/pl/109/163/s312/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs312%2Fa%2F4
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
-[/us/pl/109/364/s311/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs311%2F1
-[/us/pl/109/364/s311/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs311%2F2
-[/us/pl/108/375/s1084/d/24/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F24%2FA
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t42/s9620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9620
-[/us/pl/108/375/s1084/d/24/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F24%2FB
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t42/s9622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9622
-[/us/pl/108/375/s1084/d/24/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F24%2FC
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t42/s9619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9619
-[/us/pl/108/375/s1084/d/24/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F24%2FD
-[/us/pl/107/314/s313/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs313%2Fc%2F2
-[/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
-[/us/pl/107/314/s2812/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs2812%2Fc%2F1
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
-[/us/pl/107/314/s311/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs311%2F2
-[/us/pl/107/314/s2812/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs2812%2Fc%2F3
+[/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/usc/t42/s9601/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601%2F36
-[/us/pl/107/314/s311/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs311%2F2
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s270a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs270a
 [/us/usc/t40/s3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3134
 [/us/usc/t40/s270e–270f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs270e%E2%80%93270f
-[/us/pl/107/314/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs312
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/104/106/s1504/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1504%2Fa%2F1
-[/us/pl/103/337/s322/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs322%2F1
-[/us/pl/104/106/s321/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs321%2Fa%2F1
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t42/s9601/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601%2F36
-[/us/pl/104/106/s4321/b/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4321%2Fb%2F22
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t40/s270a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs270a
 [/us/usc/t40/s270a–270d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs270a%E2%80%93270d
-[/us/pl/103/337/s322/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs322%2F1
-[/us/pl/104/106/s1504/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1504%2Fa%2F1
-[/us/pl/103/337/s322/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs322%2F2
-[/us/pl/103/337/s322/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs322%2F3
-[/us/pl/103/337/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs323
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
 [/us/usc/t42/s9619/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9619%2Fg
 [/us/usc/t42/s9619/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9619%2Fg
-[/us/pl/102/484/s1052/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1052%2F35
-[/us/pl/102/484/s331/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs331%2Fb
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/113/291/s901/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F2
 [/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
-[/us/pl/112/239/s2711/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711%2Fd
+[/us/pl/112/239/dB/tXXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdB%2FtXXVII
 [/us/stat/126/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2144
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/pl/104/106/s1504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1504%2Fa
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F513
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/104/106/s4321/b/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4321%2Fb%2F22
 [/us/pl/104/106/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4401
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/111/84/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs317
+[/us/pl/111/84/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIII
 [/us/stat/123/2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2249
-[/us/pl/112/81/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs316
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1358
-[/us/pl/113/66/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs314
+[/us/pl/113/66/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIII
 [/us/stat/127/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F729
-[/us/pl/113/291/s1071/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fg%2F1
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
 [/us/usc/t42/s6903/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903%2F5
 [/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
-[/us/pl/109/284/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs1
+[/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/stat/120/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1211
 [/us/usc/t28/s1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1499
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/stat/113/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F925
 [/us/usc/t10/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2701
-[/us/pl/106/65/s3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3131
+[/us/pl/106/65/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXI
 [/us/stat/113/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F925
-[/us/pl/106/60/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F60%2Fs611
+[/us/pl/106/60/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F60%2FtVI
 [/us/stat/113/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F502
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/usc/t42/s2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2208
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
-[/us/pl/105/261/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs321
+[/us/pl/105/261/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIII
 [/us/stat/112/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1962
-[/us/pl/105/85/s348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs348
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1689
-[/us/pl/107/107/s316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs316%2Fb
+[/us/pl/107/107/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIII
 [/us/stat/115/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1053
 [/us/pl/105/85/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs351
-[/us/pl/105/85/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs351
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1692
-[/us/pl/106/65/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs325
+[/us/pl/106/65/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIII
 [/us/stat/113/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F563
-[/us/pl/107/107/s316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs316%2Fa
+[/us/pl/107/107/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIII
 [/us/stat/115/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1053
-[/us/pl/104/201/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs325
+[/us/pl/104/201/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIII
 [/us/stat/110/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2481
 [/us/usc/t10/s2705/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2705%2Fc
 [/us/usc/t10/s2706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2706%2Fa
-[/us/pl/104/106/s321/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs321%2Fa%2F2
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F251
-[/us/pl/105/85/s1073/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fd%2F1%2FA
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1905
 [/us/usc/t10/s2701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2701%2Fd
-[/us/pl/103/337/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs328
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2714
-[/us/pl/103/160/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1333
+[/us/pl/103/160/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIII
 [/us/stat/107/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1798
-[/us/pl/103/337/s1070/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fb%2F11
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2857
-[/us/pl/105/244/s102/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F2%2FD
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1617
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/109/163/s1056/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1056%2Fa%2F2
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3438
 [/us/usc/t29/s2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2832
 [/us/usc/t29/s1503/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1503%2F5
@@ -1350,9 +1350,9 @@
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t10/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2701
-[/us/pl/103/160/s1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1334
+[/us/pl/103/160/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIII
 [/us/stat/107/1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1801
-[/us/pl/105/244/s102/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F2%2FE
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1617
 [/us/usc/t10/s1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1141
 [/us/usc/t10/s1174a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174a
@@ -1367,12 +1367,12 @@
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/usc/t42/s9660/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9660%2Fd
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/103/160/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1335
+[/us/pl/103/160/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIII
 [/us/stat/107/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1804
-[/us/pl/103/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F139
+[/us/pl/103/139/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F139%2FtII
 [/us/stat/107/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1422
 [/us/usc/t31/s6303–630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6303%E2%80%93630
-[/us/pl/102/484/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs323
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2365
 [/us/pl/100/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F526
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
@@ -1385,61 +1385,61 @@
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
-[/us/pl/102/484/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs324
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2367
-[/us/pl/108/136/s1031/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fd%2F1
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1604
-[/us/pl/102/484/s4451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4451
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2735
-[/us/pl/105/244/s102/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F2%2FF
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1617
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t20/s1077a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1077a%2Fc
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
 [/us/stat/106/2360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2360
-[/us/pl/102/484/s4452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4452
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2738
 [/us/usc/t20/s1141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1141%2Fa
-[/us/pl/103/160/s1333/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1333%2Fj
+[/us/pl/103/160/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIII
 [/us/stat/107/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1800
 [/us/pl/103/160/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1333
-[/us/pl/101/510/s342/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs342%2Fb
+[/us/pl/101/510/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIII
 [/us/stat/104/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1537
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/101/510/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs344
+[/us/pl/101/510/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIII
 [/us/stat/104/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1538
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/102/484/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs325
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2367
 [/us/usc/t42/s7671a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7671a
-[/us/pl/101/510/s345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs345
+[/us/pl/101/510/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIII
 [/us/stat/104/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1538
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t10/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2701
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
-[/us/pl/101/189/s352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs352
+[/us/pl/101/189/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIII
 [/us/stat/103/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1423
-[/us/pl/101/189/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs354
+[/us/pl/101/189/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIII
 [/us/stat/103/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1424
-[/us/pl/102/190/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs332
+[/us/pl/102/190/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtIII
 [/us/stat/105/1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1340
 [/us/usc/t10/s2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2208
-[/us/pl/101/189/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs356
+[/us/pl/101/189/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIII
 [/us/stat/103/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1425
-[/us/pl/103/160/s904/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs904%2Ff
+[/us/pl/103/160/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIX
 [/us/stat/107/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1729
-[/us/pl/106/65/s911/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs911%2Fa%2F1
+[/us/pl/106/65/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIX
 [/us/stat/113/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F717
-[/us/pl/101/189/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs358
+[/us/pl/101/189/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIII
 [/us/stat/103/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1427
-[/us/pl/101/189/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs361
+[/us/pl/101/189/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIII
 [/us/stat/103/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1429
-[/us/pl/101/510/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs343
+[/us/pl/101/510/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIII
 [/us/stat/104/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1538
-[/us/pl/101/165/s9038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2Fs9038
+[/us/pl/101/165/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2FtIX
 [/us/stat/103/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1137
-[/us/pl/101/510/s1481/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1481%2Fi
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1708
 
 

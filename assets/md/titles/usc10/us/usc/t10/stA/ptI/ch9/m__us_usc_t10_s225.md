@@ -125,7 +125,7 @@
 
         (2) a description of the operations and sustainment functions and costs for which a military department is responsible.
 
-(Added [Pub. L. 112–81, div. A, title II, § 231(a)(1)][/us/pl/112/81/s231/a/1], Dec. 31, 2011, [125 Stat. 1337][/us/stat/125/1337]; amended [Pub. L. 113–66, div. A, title II, § 231(b)][/us/pl/113/66/s231/b], Dec. 26, 2013, [127 Stat. 711][/us/stat/127/711].)
+(Added [Pub. L. 112–81, div. A, title II][/us/pl/112/81/dA/tII], § 231(a)(1), Dec. 31, 2011, [125 Stat. 1337][/us/stat/125/1337]; amended [Pub. L. 113–66, div. A, title II][/us/pl/113/66/dA/tII], § 231(b), Dec. 26, 2013, [127 Stat. 711][/us/stat/127/711].)
 
  __Amendments__ 
 
@@ -133,7 +133,7 @@
 
  __Improvement to Operations and Sustainment Cost Estimates__ 
 
-[Pub. L. 113–66, div. A, title II, § 231(a)][/us/pl/113/66/s231/a], Dec. 26, 2013, [127 Stat. 710][/us/stat/127/710], provided that: 
+[Pub. L. 113–66, div. A, title II][/us/pl/113/66/dA/tII], § 231(a), Dec. 26, 2013, [127 Stat. 710][/us/stat/127/710], provided that: 
 
 > “In preparing the acquisition accountability reports on the ballistic missile defense system required by [section 225 of title 10][/us/usc/t10/s225], United States Code, the Director of the Missile Defense Agency shall improve the quality of cost estimates relating to operations and sustainment that are included in such reports under subsection (b)(3)(A) of such section, including with respect to the confidence levels of such cost estimates.”
 
@@ -145,12 +145,12 @@
 ----------
 
 [/us/usc/t10/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs223
-[/us/pl/112/81/s231/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs231%2Fa%2F1
+[/us/pl/112/81/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtII
 [/us/stat/125/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1337
-[/us/pl/113/66/s231/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs231%2Fb
+[/us/pl/113/66/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtII
 [/us/stat/127/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F711
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/113/66/s231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs231%2Fa
+[/us/pl/113/66/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtII
 [/us/stat/127/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F710
 [/us/usc/t10/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs225
 

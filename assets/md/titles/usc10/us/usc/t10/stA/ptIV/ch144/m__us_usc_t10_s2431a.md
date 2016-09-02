@@ -129,7 +129,7 @@
 
         (9) The term “significant change to the schedule”, with respect to a major defense acquisition program, major automated information system, or major system, means any schedule delay greater than six months in a reported event.
 
-(Added [Pub. L. 114–92, div. A, title VIII, § 821(a)(1)][/us/pl/114/92/s821/a/1], Nov. 25, 2015, [129 Stat. 897][/us/stat/129/897].)
+(Added [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 821(a)(1), Nov. 25, 2015, [129 Stat. 897][/us/stat/129/897].)
 
 ----------
 
@@ -149,7 +149,7 @@
 [/us/usc/t10/s2366/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2366%2Fe%2F7
 [/us/usc/t10/s2433/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2433%2Fa%2F4
 [/us/usc/t10/s2433/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2433%2Fa%2F5
-[/us/pl/114/92/s821/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs821%2Fa%2F1
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F897
 
 

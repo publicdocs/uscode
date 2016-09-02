@@ -61,7 +61,7 @@
 
         (3) A certification under this subsection shall be in an unclassified form but may have a classified annex.
 
-(Added [Pub. L. 109–364, div. A, title III, § 351(a)][/us/pl/109/364/s351/a], Oct. 17, 2006, [120 Stat. 2160][/us/stat/120/2160]; amended [Pub. L. 112–81, div. A, title III, § 341(a)][/us/pl/112/81/s341/a], Dec. 31, 2011, [125 Stat. 1369][/us/stat/125/1369]; [Pub. L. 113–66, div. A, title III, § 321(a)][/us/pl/113/66/s321/a], Dec. 26, 2013, [127 Stat. 730][/us/stat/127/730]; [Pub. L. 113–291, div. A, title III, § 322][/us/pl/113/291/s322], Dec. 19, 2014, [128 Stat. 3343][/us/stat/128/3343]; [Pub. L. 114–92, div. A, title X, § 1081(a)(8)][/us/pl/114/92/s1081/a/8], Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001].)
+(Added [Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 351(a), Oct. 17, 2006, [120 Stat. 2160][/us/stat/120/2160]; amended [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 341(a), Dec. 31, 2011, [125 Stat. 1369][/us/stat/125/1369]; [Pub. L. 113–66, div. A, title III][/us/pl/113/66/dA/tIII], § 321(a), Dec. 26, 2013, [127 Stat. 730][/us/stat/127/730]; [Pub. L. 113–291, div. A, title III][/us/pl/113/291/dA/tIII], § 322, Dec. 19, 2014, [128 Stat. 3343][/us/stat/128/3343]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1081(a)(8), Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001].)
 
  __Amendments__ 
 
@@ -75,7 +75,7 @@
 
  __Implementation Plan and Report__ 
 
-[Pub. L. 113–66, div. A, title III, § 321(b)][/us/pl/113/66/s321/b], (c), Dec. 26, 2013, [127 Stat. 731][/us/stat/127/731], 732, as amended by [Pub. L. 113–291, div. A, title III, § 324][/us/pl/113/291/s324], Dec. 19, 2014, [128 Stat. 3343][/us/stat/128/3343], provided that:
+[Pub. L. 113–66, div. A, title III][/us/pl/113/66/dA/tIII], § 321(b), (c), Dec. 26, 2013, [127 Stat. 731][/us/stat/127/731], 732, as amended by [Pub. L. 113–291, div. A, title III][/us/pl/113/291/dA/tIII], § 324, Dec. 19, 2014, [128 Stat. 3343][/us/stat/128/3343], provided that:
 
 >     “(b) __Implementation Plan.—__ 
 
@@ -113,7 +113,7 @@
 
  __Deadline for Establishment of Policy__ 
 
-[Pub. L. 109–364, div. A, title III, § 351(c)][/us/pl/109/364/s351/c], Oct. 17, 2006, [120 Stat. 2160][/us/stat/120/2160], provided that:
+[Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 351(c), Oct. 17, 2006, [120 Stat. 2160][/us/stat/120/2160], provided that:
 
 >     “(1)  __Deadline__  __.—__ 
 
@@ -125,7 +125,7 @@
 
  __Improving Department of Defense Support for Civil Authorities__ 
 
-[Pub. L. 109–364, div. A, title III, § 359][/us/pl/109/364/s359], Oct. 17, 2006, [120 Stat. 2164][/us/stat/120/2164], provided that:
+[Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 359, Oct. 17, 2006, [120 Stat. 2164][/us/stat/120/2164], provided that:
 
 >     “(a)  __Consultation__  __.—__ 
 
@@ -155,31 +155,31 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/109/364/s351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs351%2Fa
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2160
-[/us/pl/112/81/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs341%2Fa
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1369
-[/us/pl/113/66/s321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs321%2Fa
+[/us/pl/113/66/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIII
 [/us/stat/127/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F730
-[/us/pl/113/291/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs322
+[/us/pl/113/291/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIII
 [/us/stat/128/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3343
-[/us/pl/114/92/s1081/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F8
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1001
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/113/66/s321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs321%2Fb
+[/us/pl/113/66/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIII
 [/us/stat/127/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F731
-[/us/pl/113/291/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs324
+[/us/pl/113/291/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIII
 [/us/stat/128/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3343
 [/us/usc/t10/s2229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2229%2Fa
 [/us/usc/t10/s2229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2229%2Fa
-[/us/pl/109/364/s351/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs351%2Fc
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2160
 [/us/usc/t10/s2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2229
 [/us/usc/t10/s2229/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2229%2Fc
-[/us/pl/109/364/s359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs359
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2164
 [/us/usc/t10/s2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2229
 [/us/usc/t31/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535

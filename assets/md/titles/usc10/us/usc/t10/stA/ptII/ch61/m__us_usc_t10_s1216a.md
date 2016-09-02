@@ -31,7 +31,7 @@
 
     In making a determination of the rating of disability of a member of the armed forces for purposes of this chapter, the Secretary concerned shall take into account all medical conditions, whether individually or collectively, that render the member unfit to perform the duties of the member’s office, grade, rank, or rating.
 
-(Added [Pub. L. 110–181, div. A, title XVI, § 1642(a)][/us/pl/110/181/s1642/a], Jan. 28, 2008, [122 Stat. 465][/us/stat/122/465].)
+(Added [Pub. L. 110–181, div. A, title XVI][/us/pl/110/181/dA/tXVI], § 1642(a), Jan. 28, 2008, [122 Stat. 465][/us/stat/122/465].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/110/181/s1642/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1642%2Fa
+[/us/pl/110/181/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVI
 [/us/stat/122/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F465
 
 

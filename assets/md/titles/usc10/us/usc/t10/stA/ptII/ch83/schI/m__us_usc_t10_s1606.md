@@ -33,7 +33,7 @@
 
         (2) The performance appraisal system applicable to the Defense Intelligence Senior Executive Service under paragraph (1) may be the same performance appraisal system that is established and implemented within the Department of Defense for members of the Senior Executive Service.
 
-(Added [Pub. L. 104–201, div. A, title XVI, § 1632(b)][/us/pl/104/201/s1632/b], Sept. 23, 1996, [110 Stat. 2747][/us/stat/110/2747]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XI, § 1142\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–319; [Pub. L. 107–107, div. A, title XI, § 1121][/us/pl/107/107/s1121], Dec. 28, 2001, [115 Stat. 1242][/us/stat/115/1242]; [Pub. L. 108–375, div. A, title XI, § 1103(b)][/us/pl/108/375/s1103/b], Oct. 28, 2004, [118 Stat. 2073][/us/stat/118/2073]; [Pub. L. 109–163, div. A, title XI, § 1125][/us/pl/109/163/s1125], Jan. 6, 2006, [119 Stat. 3454][/us/stat/119/3454].)
+(Added [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1632(b), Sept. 23, 1996, [110 Stat. 2747][/us/stat/110/2747]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XI, § 1142\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–319; [Pub. L. 107–107, div. A, title XI][/us/pl/107/107/dA/tXI], § 1121, Dec. 28, 2001, [115 Stat. 1242][/us/stat/115/1242]; [Pub. L. 108–375, div. A, title XI][/us/pl/108/375/dA/tXI], § 1103(b), Oct. 28, 2004, [118 Stat. 2073][/us/stat/118/2073]; [Pub. L. 109–163, div. A, title XI][/us/pl/109/163/dA/tXI], § 1125, Jan. 6, 2006, [119 Stat. 3454][/us/stat/119/3454].)
 
  __Prior Provisions__ 
 
@@ -65,15 +65,15 @@
 [/us/usc/t10/s1601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1601%2Fa
 [/us/usc/t5/s4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4507
 [/us/usc/t5/s5307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5307
-[/us/pl/104/201/s1632/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1632%2Fb
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2747
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1121
+[/us/pl/107/107/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXI
 [/us/stat/115/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1242
-[/us/pl/108/375/s1103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1103%2Fb
+[/us/pl/108/375/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtXI
 [/us/stat/118/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2073
-[/us/pl/109/163/s1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1125
+[/us/pl/109/163/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtXI
 [/us/stat/119/3454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3454
 [/us/usc/t10/s1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1622
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201

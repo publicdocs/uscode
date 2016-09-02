@@ -17,7 +17,7 @@
 
     Under such regulations as the Secretary concerned may prescribe, the convening authority of a court-martial, military commission, or court of inquiry shall detail or employ qualified court reporters, who shall record the proceedings of and testimony taken before that court or commission. Under like regulations the convening authority of a court-martial, military commission, or court of inquiry may detail or employ interpreters who shall interpret for the court or commission. This section does not apply to a military commission established under chapter 47A of this title.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 47][/us/stat/70A/47]; [Pub. L. 109–366, § 4(a)(2)][/us/pl/109/366/s4/a/2], Oct. 17, 2006, [120 Stat. 2631][/us/stat/120/2631].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 47][/us/stat/70A/47]; [Pub. L. 109–366][/us/pl/109/366], § 4(a)(2), Oct. 17, 2006, [120 Stat. 2631][/us/stat/120/2631].)
 
 <table>
 
@@ -78,7 +78,7 @@ May 5, 1950, ch. 169, § 1 (Art. 28), 64 Stat. 117.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F47
-[/us/pl/109/366/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs4%2Fa%2F2
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/stat/120/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2631
 [/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 

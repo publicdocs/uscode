@@ -73,7 +73,7 @@
 
         (4) The protections provided under this subsection are in addition to the protections provided under subsection (f).
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1090(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–298.)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1090(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–298.)
 
 ----------
 
@@ -83,7 +83,7 @@
 ----------
 
 [/us/usc/t36/s40304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs40304
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

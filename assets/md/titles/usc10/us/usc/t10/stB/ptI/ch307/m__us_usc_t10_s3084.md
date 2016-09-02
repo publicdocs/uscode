@@ -17,7 +17,7 @@
 
     The Chief of the Veterinary Corps of the Army shall be appointed from among officers of the Veterinary Corps. The Chief of the Veterinary Corps serves in the grade of brigadier general. An officer appointed to that position who holds a lower grade shall be appointed in the grade of brigadier general.
 
-(Added [Pub. L. 107–314, div. A, title V, § 504(b)(1)][/us/pl/107/314/s504/b/1], Dec. 2, 2002, [116 Stat. 2531][/us/stat/116/2531]; amended [Pub. L. 108–136, div. A, title V, § 502(a)][/us/pl/108/136/s502/a], Nov. 24, 2003, [117 Stat. 1456][/us/stat/117/1456]; [Pub. L. 109–163, div. A, title X, § 1056(c)(11)][/us/pl/109/163/s1056/c/11], Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440].)
+(Added [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 504(b)(1), Dec. 2, 2002, [116 Stat. 2531][/us/stat/116/2531]; amended [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 502(a), Nov. 24, 2003, [117 Stat. 1456][/us/stat/117/1456]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1056(c)(11), Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440].)
 
  __Amendments__ 
 
@@ -27,7 +27,7 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–136, div. A, title V, § 502(b)][/us/pl/108/136/s502/b], Nov. 24, 2003, [117 Stat. 1456][/us/stat/117/1456], provided that: 
+[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 502(b), Nov. 24, 2003, [117 Stat. 1456][/us/stat/117/1456], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to appointments of the Chief of the Veterinary Corps of the Army that are made on or after the date of the enactment of this Act \[Nov. 24, 2003\].”
 
@@ -38,15 +38,15 @@
 ----------
 ----------
 
-[/us/pl/107/314/s504/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs504%2Fb%2F1
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2531
-[/us/pl/108/136/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs502%2Fa
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1456
-[/us/pl/109/163/s1056/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1056%2Fc%2F11
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3440
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/108/136/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs502%2Fb
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1456
 
 

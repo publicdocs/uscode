@@ -51,7 +51,7 @@
 
     Amounts transferred under subsection (c) or (d) shall be merged with and be available for the same purposes and for the same period as the appropriations to which transferred.
 
-(Added [Pub. L. 97–258, § 2(b)(8)(B)][/us/pl/97/258/s2/b/8/B], Sept. 13, 1982, [96 Stat. 1056][/us/stat/96/1056]; amended [Pub. L. 101–510, div. A, title XIII, § 1301(15)][/us/pl/101/510/s1301/15], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 104–106, div. A, title IX, § 911(a)][/us/pl/104/106/s911/a]–(c), (e), Feb. 10, 1996, [110 Stat. 406][/us/stat/110/406], 407.)
+(Added [Pub. L. 97–258][/us/pl/97/258], § 2(b)(8)(B), Sept. 13, 1982, [96 Stat. 1056][/us/stat/96/1056]; amended [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1301(15), Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 104–106, div. A, title IX][/us/pl/104/106/dA/tIX], § 911(a)–(c), (e), Feb. 10, 1996, [110 Stat. 406][/us/stat/110/406], 407.)
 
 <table>
 
@@ -125,27 +125,27 @@ Nov. 30, 1979, Pub. L. 96–130, § 100 (par. under heading “Foreign Currenc
 
  __Prior Provisions__ 
 
-    Provisions similar to those in subsec. (d) of this section were contained in [Pub. L. 97–377, title I, § 101(c)][/us/pl/97/377/s101/c] \[title VII, § 791\], Dec. 21, 1982, [96 Stat. 1865][/us/stat/96/1865], which was set out as a note under [section 114 of this title][/us/usc/t10/s114], prior to repeal by [Pub. L. 104–106, § 911(d)(2)][/us/pl/104/106/s911/d/2].
+    Provisions similar to those in subsec. (d) of this section were contained in [Pub. L. 97–377, title I][/us/pl/97/377/tI], § 101(c) \[title VII, § 791\], Dec. 21, 1982, [96 Stat. 1865][/us/stat/96/1865], which was set out as a note under [section 114 of this title][/us/usc/t10/s114], prior to repeal by [Pub. L. 104–106][/us/pl/104/106], § 911(d)(2).
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–106, § 911(e)(1)][/us/pl/104/106/s911/e/1], inserted heading.
+    1996—Subsec. (a). [Pub. L. 104–106][/us/pl/104/106], § 911(e)(1), inserted heading.
 
-    Subsec. (a)(2). [Pub. L. 104–106, § 911(e)(2)][/us/pl/104/106/s911/e/2], substituted “second fiscal year” for “2d fiscal year”.
+    Subsec. (a)(2). [Pub. L. 104–106][/us/pl/104/106], § 911(e)(2), substituted “second fiscal year” for “2d fiscal year”.
 
-    Subsec. (b). [Pub. L. 104–106, § 911(e)(3)][/us/pl/104/106/s911/e/3], inserted heading.
+    Subsec. (b). [Pub. L. 104–106][/us/pl/104/106], § 911(e)(3), inserted heading.
 
-    Subsec. (c). [Pub. L. 104–106, § 911(a)][/us/pl/104/106/s911/a], added subsec. (c).
+    Subsec. (c). [Pub. L. 104–106][/us/pl/104/106], § 911(a), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 104–106, § 911(b)][/us/pl/104/106/s911/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–106][/us/pl/104/106], § 911(b), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 104–106, § 911(c)][/us/pl/104/106/s911/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 104–106][/us/pl/104/106], § 911(c), added subsec. (e).
 
     1990—Subsec. (b)(4). [Pub. L. 101–510][/us/pl/101/510] struck out par. (4) which read as follows: “The Secretary each year shall report to Congress on funds made available under this subsection.”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–106, div. A, title IX, § 911(f)][/us/pl/104/106/s911/f], Feb. 10, 1996, [110 Stat. 407][/us/stat/110/407], provided that: 
+[Pub. L. 104–106, div. A, title IX][/us/pl/104/106/dA/tIX], § 911(f), Feb. 10, 1996, [110 Stat. 407][/us/stat/110/407], provided that: 
 
 > “Subsections (c) and (d) of [section 2779 of title 10][/us/usc/t10/s2779], United States Code, as added by subsections (a) and (b), and the repeals made by subsection (d) \[repealing provisions set out as a note under [section 114 of this title][/us/usc/t10/s114]\], shall apply only with respect to amounts appropriated for a fiscal year after fiscal year 1995.”
 
@@ -156,24 +156,24 @@ Nov. 30, 1979, Pub. L. 96–130, § 100 (par. under heading “Foreign Currenc
 ----------
 ----------
 
-[/us/pl/97/258/s2/b/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F8%2FB
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1056
-[/us/pl/101/510/s1301/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1301%2F15
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1668
-[/us/pl/104/106/s911/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs911%2Fa
+[/us/pl/104/106/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIX
 [/us/stat/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F406
-[/us/pl/97/377/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs101%2Fc
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1865
 [/us/usc/t10/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs114
-[/us/pl/104/106/s911/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs911%2Fd%2F2
-[/us/pl/104/106/s911/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs911%2Fe%2F1
-[/us/pl/104/106/s911/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs911%2Fe%2F2
-[/us/pl/104/106/s911/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs911%2Fe%2F3
-[/us/pl/104/106/s911/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs911%2Fa
-[/us/pl/104/106/s911/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs911%2Fb
-[/us/pl/104/106/s911/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs911%2Fc
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/104/106/s911/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs911%2Ff
+[/us/pl/104/106/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIX
 [/us/stat/110/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F407
 [/us/usc/t10/s2779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2779
 [/us/usc/t10/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs114

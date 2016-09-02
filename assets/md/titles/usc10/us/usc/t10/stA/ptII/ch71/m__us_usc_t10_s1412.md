@@ -23,17 +23,17 @@
 
     Amounts of retired pay and retainer pay due a retired member of the uniformed services shall be paid on the first day of each month beginning after the month in which the right to such pay accrues.
 
-(Added [Pub. L. 99–348, title I, § 105][/us/pl/99/348/s105], July 1, 1986, [100 Stat. 691][/us/stat/100/691]; amended [Pub. L. 111–383, div. A, title VI, § 632(a)][/us/pl/111/383/s632/a], (b)(1), Jan. 7, 2011, [124 Stat. 4240][/us/stat/124/4240].)
+(Added [Pub. L. 99–348, title I][/us/pl/99/348/tI], § 105, July 1, 1986, [100 Stat. 691][/us/stat/100/691]; amended [Pub. L. 111–383, div. A, title VI][/us/pl/111/383/dA/tVI], § 632(a), (b)(1), Jan. 7, 2011, [124 Stat. 4240][/us/stat/124/4240].)
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–383, § 632(b)(1)][/us/pl/111/383/s632/b/1], substituted “Administrative provisions” for “Rounding to next lower dollar” in section catchline.
+    2011—[Pub. L. 111–383][/us/pl/111/383], § 632(b)(1), substituted “Administrative provisions” for “Rounding to next lower dollar” in section catchline.
 
-    [Pub. L. 111–383, § 632(a)][/us/pl/111/383/s632/a], designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+    [Pub. L. 111–383][/us/pl/111/383], § 632(a), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 111–383, div. A, title VI, § 632(c)][/us/pl/111/383/s632/c], Jan. 7, 2011, [124 Stat. 4240][/us/stat/124/4240], provided that: 
+[Pub. L. 111–383, div. A, title VI][/us/pl/111/383/dA/tVI], § 632(c), Jan. 7, 2011, [124 Stat. 4240][/us/stat/124/4240], provided that: 
 
 > “Subsection (b) of [section 1412 of title 10][/us/usc/t10/s1412], United States Code, as added by subsection (a), shall apply beginning with the first month that begins more than 30 days after the date of the enactment of this Act \[Jan. 7, 2011\].”
 
@@ -44,13 +44,13 @@
 ----------
 ----------
 
-[/us/pl/99/348/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs105
+[/us/pl/99/348/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtI
 [/us/stat/100/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F691
-[/us/pl/111/383/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs632%2Fa
+[/us/pl/111/383/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVI
 [/us/stat/124/4240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4240
-[/us/pl/111/383/s632/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs632%2Fb%2F1
-[/us/pl/111/383/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs632%2Fa
-[/us/pl/111/383/s632/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs632%2Fc
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVI
 [/us/stat/124/4240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4240
 [/us/usc/t10/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1412
 

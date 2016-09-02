@@ -95,7 +95,7 @@
 
     In this chapter, the term “Secretary concerned” includes, in the case of a civilian officer or employee of the Department of Defense or an employee of a contractor of the Department of Defense, the Secretary of the military department or head of the element of the Department of Defense employing the officer or employee or contracting with the contractor, as the case may be.
 
-(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)][/us/pl/104/106/s569/b/1], Feb. 10, 1996, [110 Stat. 336][/us/stat/110/336]; amended [Pub. L. 104–201, div. A, title V, § 578(a)(1)][/us/pl/104/201/s578/a/1], Sept. 23, 1996, [110 Stat. 2536][/us/stat/110/2536]; [Pub. L. 105–85, div. A, title V, § 599(a)(1)][/us/pl/105/85/s599/a/1], Nov. 18, 1997, [111 Stat. 1766][/us/stat/111/1766]; [Pub. L. 106–65, div. A, title X, § 1066(a)(13)][/us/pl/106/65/s1066/a/13], Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771]; [Pub. L. 107–314, div. A, title V, § 551][/us/pl/107/314/s551], Dec. 2, 2002, [116 Stat. 2551][/us/stat/116/2551]; [Pub. L. 108–375, div. A, title V, § 582(a)][/us/pl/108/375/s582/a], Oct. 28, 2004, [118 Stat. 1928][/us/stat/118/1928]; [Pub. L. 111–383, div. A, title IX, § 901(g)][/us/pl/111/383/s901/g], Jan. 7, 2011, [124 Stat. 4322][/us/stat/124/4322]; [Pub. L. 113–66, div. A, title V, § 581(a)][/us/pl/113/66/s581/a], Dec. 26, 2013, [127 Stat. 773][/us/stat/127/773]; [Pub. L. 113–291, div. A, title IX, § 916(a)][/us/pl/113/291/s916/a], Dec. 19, 2014, [128 Stat. 3476][/us/stat/128/3476].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 569(b)(1), Feb. 10, 1996, [110 Stat. 336][/us/stat/110/336]; amended [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 578(a)(1), Sept. 23, 1996, [110 Stat. 2536][/us/stat/110/2536]; [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 599(a)(1), Nov. 18, 1997, [111 Stat. 1766][/us/stat/111/1766]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1066(a)(13), Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771]; [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 551, Dec. 2, 2002, [116 Stat. 2551][/us/stat/116/2551]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 582(a), Oct. 28, 2004, [118 Stat. 1928][/us/stat/118/1928]; [Pub. L. 111–383, div. A, title IX][/us/pl/111/383/dA/tIX], § 901(g), Jan. 7, 2011, [124 Stat. 4322][/us/stat/124/4322]; [Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 581(a), Dec. 26, 2013, [127 Stat. 773][/us/stat/127/773]; [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 916(a), Dec. 19, 2014, [128 Stat. 3476][/us/stat/128/3476].)
 
  __Amendments__ 
 
@@ -103,49 +103,49 @@
 
     2013—Subsec. (a)(1)(D). [Pub. L. 113–66][/us/pl/113/66] added subpar. (D).
 
-    2011—Subsec. (a). [Pub. L. 111–383, § 901(g)(1)][/us/pl/111/383/s901/g/1], substituted “Responsibility for Missing Personnel” for “Office for Missing Personnel” in heading.
+    2011—Subsec. (a). [Pub. L. 111–383][/us/pl/111/383], § 901(g)(1), substituted “Responsibility for Missing Personnel” for “Office for Missing Personnel” in heading.
 
-    Subsec. (a)(1). [Pub. L. 111–383, § 901(g)(2)(A)][/us/pl/111/383/s901/g/2/A]–(C), in introductory provisions, substituted “designate within the Office of the Secretary of Defense an official as the Deputy Assistant Secretary of Defense for Prisoner of War/Missing Personnel Affairs to have responsibility for Department of Defense matters” for “establish within the Office of the Secretary of Defense an office to have responsibility for Department of Defense policy”, struck out “Such office shall be known as the Defense Prisoner of War/Missing Personnel Office.” after “persons.”, and substituted “of the official designated under this paragraph” for “of the office”.
+    Subsec. (a)(1). [Pub. L. 111–383][/us/pl/111/383], § 901(g)(2)(A)–(C), in introductory provisions, substituted “designate within the Office of the Secretary of Defense an official as the Deputy Assistant Secretary of Defense for Prisoner of War/Missing Personnel Affairs to have responsibility for Department of Defense matters” for “establish within the Office of the Secretary of Defense an office to have responsibility for Department of Defense policy”, struck out “Such office shall be known as the Defense Prisoner of War/Missing Personnel Office.” after “persons.”, and substituted “of the official designated under this paragraph” for “of the office”.
 
-    Subsec. (a)(1)(B), (C). [Pub. L. 111–383, § 901(g)(2)(D)][/us/pl/111/383/s901/g/2/D]–(F), added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (a)(1)(B), (C). [Pub. L. 111–383][/us/pl/111/383], § 901(g)(2)(D)–(F), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Subsec. (a)(2). [Pub. L. 111–383, § 901(g)(4)][/us/pl/111/383/s901/g/4], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (a)(2). [Pub. L. 111–383][/us/pl/111/383], § 901(g)(4), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (a)(3). [Pub. L. 111–383, § 901(g)(3)][/us/pl/111/383/s901/g/3], (5), redesignated par. (2) as (3), struck out “of the office” after “responsibilities”, and substituted “official designated under paragraph (1) and (2)” for “head of the office”. Former par. (3) redesignated (4).
+    Subsec. (a)(3). [Pub. L. 111–383][/us/pl/111/383], § 901(g)(3), (5), redesignated par. (2) as (3), struck out “of the office” after “responsibilities”, and substituted “official designated under paragraph (1) and (2)” for “head of the office”. Former par. (3) redesignated (4).
 
-    Subsec. (a)(4). [Pub. L. 111–383, § 901(g)(3)][/us/pl/111/383/s901/g/3], (6), redesignated par. (3) as (4), substituted “designated official” for “office”, and inserted “and for personnel accounting (including locating, recovering, and identifying missing persons or their remains after hostilities have ceased)” after “evasion)”. Former par. (4) redesignated (5).
+    Subsec. (a)(4). [Pub. L. 111–383][/us/pl/111/383], § 901(g)(3), (6), redesignated par. (3) as (4), substituted “designated official” for “office”, and inserted “and for personnel accounting (including locating, recovering, and identifying missing persons or their remains after hostilities have ceased)” after “evasion)”. Former par. (4) redesignated (5).
 
-    Subsec. (a)(5). [Pub. L. 111–383, § 901(g)(3)][/us/pl/111/383/s901/g/3], (7), redesignated par. (4) as (5) and substituted “designated official” for “office”. Former par. (5) redesignated (6).
+    Subsec. (a)(5). [Pub. L. 111–383][/us/pl/111/383], § 901(g)(3), (7), redesignated par. (4) as (5) and substituted “designated official” for “office”. Former par. (5) redesignated (6).
 
-    Subsec. (a)(6). [Pub. L. 111–383, § 901(g)(3)][/us/pl/111/383/s901/g/3], redesignated par. (5) as (6).
+    Subsec. (a)(6). [Pub. L. 111–383][/us/pl/111/383], § 901(g)(3), redesignated par. (5) as (6).
 
-    Subsec. (a)(6)(A). [Pub. L. 111–383, § 901(g)(8)(A)(ii)][/us/pl/111/383/s901/g/8/A/ii], which directed the substitution of “activity” for “office” both places appearing, was executed by making the substitution in three places to reflect the probable intent of Congress.
+    Subsec. (a)(6)(A). [Pub. L. 111–383][/us/pl/111/383], § 901(g)(8)(A)(ii), which directed the substitution of “activity” for “office” both places appearing, was executed by making the substitution in three places to reflect the probable intent of Congress.
 
-    [Pub. L. 111–383, § 901(g)(8)(A)(i)][/us/pl/111/383/s901/g/8/A/i], inserted “The Secretary of Defense shall establish an activity to account for personnel who are missing or whose remains have not been recovered from the conflict in which they were lost. This activity shall be known as the Defense Prisoner of War/Missing Personnel Office.” after “(A)”.
+    [Pub. L. 111–383][/us/pl/111/383], § 901(g)(8)(A)(i), inserted “The Secretary of Defense shall establish an activity to account for personnel who are missing or whose remains have not been recovered from the conflict in which they were lost. This activity shall be known as the Defense Prisoner of War/Missing Personnel Office.” after “(A)”.
 
-    Subsec. (a)(6)(B)(i). [Pub. L. 111–383, § 901(g)(8)(B)][/us/pl/111/383/s901/g/8/B], substituted “activity” for “to the office”.
+    Subsec. (a)(6)(B)(i). [Pub. L. 111–383][/us/pl/111/383], § 901(g)(8)(B), substituted “activity” for “to the office”.
 
-    Subsec. (a)(6)(B)(ii). [Pub. L. 111–383, § 901(g)(8)(C)][/us/pl/111/383/s901/g/8/C], substituted “activity” for “to the office” and “of the activity” for “of the office”.
+    Subsec. (a)(6)(B)(ii). [Pub. L. 111–383][/us/pl/111/383], § 901(g)(8)(C), substituted “activity” for “to the office” and “of the activity” for “of the office”.
 
-    Subsec. (a)(6)(C). [Pub. L. 111–383, § 901(g)(8)(D)][/us/pl/111/383/s901/g/8/D], substituted “activity” for “office”.
+    Subsec. (a)(6)(C). [Pub. L. 111–383][/us/pl/111/383], § 901(g)(8)(D), substituted “activity” for “office”.
 
     2004—Subsec. (a)(5)(B). [Pub. L. 108–375][/us/pl/108/375] designated existing provisions as cl. (i), inserted “, whether temporary or permanent,” after “civilian personnel”, and added cl. (ii).
 
-    2002—Subsec. (a)(1). [Pub. L. 107–314, § 551(b)][/us/pl/107/314/s551/b], inserted “Such office shall be known as the Defense Prisoner of War/Missing Personnel Office.” after first sentence.
+    2002—Subsec. (a)(1). [Pub. L. 107–314][/us/pl/107/314], § 551(b), inserted “Such office shall be known as the Defense Prisoner of War/Missing Personnel Office.” after first sentence.
 
-    Subsec. (a)(5). [Pub. L. 107–314, § 551(a)][/us/pl/107/314/s551/a], added par. (5).
+    Subsec. (a)(5). [Pub. L. 107–314][/us/pl/107/314], § 551(a), added par. (5).
 
     1999—Subsec. (d). [Pub. L. 106–65][/us/pl/106/65] substituted “described” for “prescribed” in first sentence.
 
-    1997—Subsec. (c). [Pub. L. 105–85, § 599(a)(1)(A)][/us/pl/105/85/s599/a/1/A], added subsec. (c) and struck out former subsec. (c) which read as follows:
+    1997—Subsec. (c). [Pub. L. 105–85][/us/pl/105/85], § 599(a)(1)(A), added subsec. (c) and struck out former subsec. (c) which read as follows:
 
     “(c) Covered Persons.—[Section 1502 of this title][/us/usc/t10/s1502] applies in the case of any member of the armed forces on active duty who becomes involuntarily absent as a result of a hostile action, or under circumstances suggesting that the involuntary absence is a result of a hostile action, and whose status is undetermined or who is unaccounted for.”
 
-    Subsec. (f). [Pub. L. 105–85, § 599(a)(1)(B)][/us/pl/105/85/s599/a/1/B], added subsec. (f).
+    Subsec. (f). [Pub. L. 105–85][/us/pl/105/85], § 599(a)(1)(B), added subsec. (f).
 
-    1996—Subsec. (c). [Pub. L. 104–201, § 578(a)(1)(A)][/us/pl/104/201/s578/a/1/A], substituted “applies in the case of” for “applies in the case of the following persons:” and “any member” for “(1) Any member” and struck out par. (2) which read as follows: “Any civilian employee of the Department of Defense, and any employee of a contractor of the Department of Defense, who serves with or accompanies the armed forces in the field under orders who becomes involuntarily absent as a result of a hostile action, or under circumstances suggesting that the involuntary absence is a result of a hostile action, and whose status is undetermined or who is unaccounted for.”
+    1996—Subsec. (c). [Pub. L. 104–201][/us/pl/104/201], § 578(a)(1)(A), substituted “applies in the case of” for “applies in the case of the following persons:” and “any member” for “(1) Any member” and struck out par. (2) which read as follows: “Any civilian employee of the Department of Defense, and any employee of a contractor of the Department of Defense, who serves with or accompanies the armed forces in the field under orders who becomes involuntarily absent as a result of a hostile action, or under circumstances suggesting that the involuntary absence is a result of a hostile action, and whose status is undetermined or who is unaccounted for.”
 
-    Subsec. (f). [Pub. L. 104–201, § 578(a)(1)(B)][/us/pl/104/201/s578/a/1/B], struck out subsec. (f) which read as follows:
+    Subsec. (f). [Pub. L. 104–201][/us/pl/104/201], § 578(a)(1)(B), struck out subsec. (f) which read as follows:
 
     “(f) Secretary Concerned.—In this chapter, the term ‘Secretary concerned’ includes, in the case of a civilian employee of the Department of Defense or contractor of the Department of Defense, the Secretary of the military department or head of the element of the Department of Defense employing the employee or contracting with the contractor, as the case may be.”
 
@@ -155,7 +155,7 @@
 
  __Recovery and Identification of Remains of Certain World War II Servicemen Lost in Pacific Theater of Operations__ 
 
-[Pub. L. 106–65, div. A, title V, § 576][/us/pl/106/65/s576], Oct. 5, 1999, [113 Stat. 624][/us/stat/113/624], as amended by [Pub. L. 107–107, div. A, title X, § 1048(g)(3)][/us/pl/107/107/s1048/g/3], Dec. 28, 2001, [115 Stat. 1228][/us/stat/115/1228], provided that:
+[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 576, Oct. 5, 1999, [113 Stat. 624][/us/stat/113/624], as amended by [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(g)(3), Dec. 28, 2001, [115 Stat. 1228][/us/stat/115/1228], provided that:
 
 >     “(a)  __Recovery of Remains__  __.—__ 
 
@@ -171,7 +171,7 @@
 
  __POW/MIA Intelligence Analysis__ 
 
-[Pub. L. 105–85, div. A, title IX, § 934][/us/pl/105/85/s934], Nov. 18, 1997, [111 Stat. 1866][/us/stat/111/1866], as amended by [Pub. L. 106–65, div. A, title X, § 1066(c)(4)][/us/pl/106/65/s1066/c/4], Oct. 5, 1999, [113 Stat. 773][/us/stat/113/773], provided that:
+[Pub. L. 105–85, div. A, title IX][/us/pl/105/85/dA/tIX], § 934, Nov. 18, 1997, [111 Stat. 1866][/us/stat/111/1866], as amended by [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1066(c)(4), Oct. 5, 1999, [113 Stat. 773][/us/stat/113/773], provided that:
 
 >     “(a)  __Intelligence Analysis__  __.—__ 
 
@@ -185,7 +185,7 @@
 
  __Congressional Statement of Purpose__ 
 
-[Pub. L. 104–106, div. A, title V, § 569(a)][/us/pl/104/106/s569/a], Feb. 10, 1996, [110 Stat. 336][/us/stat/110/336], provided that: 
+[Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 569(a), Feb. 10, 1996, [110 Stat. 336][/us/stat/110/336], provided that: 
 
 > “The purpose of this section \[enacting this chapter and [section 655 of this title][/us/usc/t10/s655], amending sections 552, 553, 555, and 556 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under [section 5561 of Title 5][/us/usc/t5/s5561], Government Organization and Employees\] is to ensure that any member of the Armed Forces (and any Department of Defense civilian employee or contractor employee who serves with or accompanies the Armed Forces in the field under orders) who becomes missing or unaccounted for is ultimately accounted for by the United States and, as a general rule, is not declared dead solely because of the passage of time.”
 
@@ -199,64 +199,64 @@
 [/us/usc/t10/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1509
 [/us/usc/t10/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1502
 [/us/usc/t10/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1502
-[/us/pl/104/106/s569/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fb%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F336
-[/us/pl/104/201/s578/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs578%2Fa%2F1
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2536
-[/us/pl/105/85/s599/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs599%2Fa%2F1
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1766
-[/us/pl/106/65/s1066/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fa%2F13
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F771
-[/us/pl/107/314/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs551
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2551
-[/us/pl/108/375/s582/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs582%2Fa
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1928
-[/us/pl/111/383/s901/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fg
+[/us/pl/111/383/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIX
 [/us/stat/124/4322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4322
-[/us/pl/113/66/s581/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs581%2Fa
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F773
-[/us/pl/113/291/s916/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs916%2Fa
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3476
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/111/383/s901/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fg%2F1
-[/us/pl/111/383/s901/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fg%2F2%2FA
-[/us/pl/111/383/s901/g/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fg%2F2%2FD
-[/us/pl/111/383/s901/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fg%2F4
-[/us/pl/111/383/s901/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fg%2F3
-[/us/pl/111/383/s901/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fg%2F3
-[/us/pl/111/383/s901/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fg%2F3
-[/us/pl/111/383/s901/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fg%2F3
-[/us/pl/111/383/s901/g/8/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fg%2F8%2FA%2Fii
-[/us/pl/111/383/s901/g/8/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fg%2F8%2FA%2Fi
-[/us/pl/111/383/s901/g/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fg%2F8%2FB
-[/us/pl/111/383/s901/g/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fg%2F8%2FC
-[/us/pl/111/383/s901/g/8/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fg%2F8%2FD
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/107/314/s551/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs551%2Fb
-[/us/pl/107/314/s551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs551%2Fa
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/105/85/s599/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs599%2Fa%2F1%2FA
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/usc/t10/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1502
-[/us/pl/105/85/s599/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs599%2Fa%2F1%2FB
-[/us/pl/104/201/s578/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs578%2Fa%2F1%2FA
-[/us/pl/104/201/s578/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs578%2Fa%2F1%2FB
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/383/s901/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fp
 [/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
-[/us/pl/106/65/s576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs576
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F624
-[/us/pl/107/107/s1048/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fg%2F3
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1228
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/stat/112/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2029
-[/us/pl/105/85/s934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs934
+[/us/pl/105/85/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIX
 [/us/stat/111/1866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1866
-[/us/pl/106/65/s1066/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fc%2F4
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F773
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/104/106/s569/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fa
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F336
 [/us/usc/t10/s655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs655
 [/us/usc/t5/s5561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5561

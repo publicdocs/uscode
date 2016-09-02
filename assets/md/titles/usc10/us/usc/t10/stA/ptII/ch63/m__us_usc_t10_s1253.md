@@ -35,13 +35,13 @@
 
         (3) The authority to defer the retirement of an officer referred to in paragraph (1) expires December 31, 2020. Subject to paragraph (2), a deferment granted before that date may continue on and after that date.
 
-(Added [Pub. L. 109–364, div. A, title V, § 502(a)][/us/pl/109/364/s502/a], Oct. 17, 2006, [120 Stat. 2176][/us/stat/120/2176]; amended [Pub. L. 114–92, div. A, title V, § 504(a)][/us/pl/114/92/s504/a], (b)(1), Nov. 25, 2015, [129 Stat. 807][/us/stat/129/807].)
+(Added [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 502(a), Oct. 17, 2006, [120 Stat. 2176][/us/stat/120/2176]; amended [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 504(a), (b)(1), Nov. 25, 2015, [129 Stat. 807][/us/stat/129/807].)
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–92, § 504(b)(1)][/us/pl/114/92/s504/b/1], substituted “Age 64: regular commissioned officers in general and flag officer grades; exceptions” for “Age 64: regular commissioned officers in general and flag officer grades; exception” in section catchline.
+    2015—[Pub. L. 114–92][/us/pl/114/92], § 504(b)(1), substituted “Age 64: regular commissioned officers in general and flag officer grades; exceptions” for “Age 64: regular commissioned officers in general and flag officer grades; exception” in section catchline.
 
-    Subsec. (c). [Pub. L. 114–92, § 504(a)][/us/pl/114/92/s504/a], added subsec. (c).
+    Subsec. (c). [Pub. L. 114–92][/us/pl/114/92], § 504(a), added subsec. (c).
 
 ----------
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/109/364/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs502%2Fa
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2176
-[/us/pl/114/92/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs504%2Fa
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F807
-[/us/pl/114/92/s504/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs504%2Fb%2F1
-[/us/pl/114/92/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs504%2Fa
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 
 

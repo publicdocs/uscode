@@ -55,17 +55,17 @@
 
         (2) of the faculty at the school who are active-duty officers who provide instruction in such courses, the percentage who are officers of the armed force that administers the school may not exceed 60 percent, with the remaining services proportionally represented.
 
-(Added [Pub. L. 108–375, div. A, title V, § 532(a)(2)][/us/pl/108/375/s532/a/2], Oct. 28, 2004, [118 Stat. 1898][/us/stat/118/1898]; amended [Pub. L. 109–364, div. A, title X, § 1071(a)(13)][/us/pl/109/364/s1071/a/13], (14), Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399].)
+(Added [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 532(a)(2), Oct. 28, 2004, [118 Stat. 1898][/us/stat/118/1898]; amended [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(13), (14), Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399].)
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–364, § 1071(a)(13)][/us/pl/109/364/s1071/a/13], substituted “Phase” for “phase” in section catchline.
+    2006—[Pub. L. 109–364][/us/pl/109/364], § 1071(a)(13), substituted “Phase” for “phase” in section catchline.
 
-    Subsec. (a). [Pub. L. 109–364, § 1071(a)(14)][/us/pl/109/364/s1071/a/14], inserted “Phase” after “Education” in heading.
+    Subsec. (a). [Pub. L. 109–364][/us/pl/109/364], § 1071(a)(14), inserted “Phase” after “Education” in heading.
 
  __Pilot Program on JPME Phase II on Other Than In-Residence Basis__ 
 
-[Pub. L. 112–81, div. A, title V, § 552(b)][/us/pl/112/81/s552/b], Dec. 31, 2011, [125 Stat. 1412][/us/stat/125/1412], provided that:
+[Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 552(b), Dec. 31, 2011, [125 Stat. 1412][/us/stat/125/1412], provided that:
 
 >     “(1)  __Pilot program authorized__  __.—__ 
 
@@ -101,13 +101,13 @@
 ----------
 
 [/us/usc/t10/s2151/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2151%2Fa
-[/us/pl/108/375/s532/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs532%2Fa%2F2
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1898
-[/us/pl/109/364/s1071/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F13
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2399
-[/us/pl/109/364/s1071/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F13
-[/us/pl/109/364/s1071/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F14
-[/us/pl/112/81/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs552%2Fb
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1412
 [/us/usc/t10/s2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2155
 

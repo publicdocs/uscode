@@ -73,7 +73,7 @@
 
     (i) The Council shall transmit to the President annually, and at such other times as the Council considers desirable, a report on the operations, activities, and accomplishments of the Foundation.
 
-(Added [Pub. L. 98–36, § 2(a)][/us/pl/98/36/s2/a], May 27, 1983, [97 Stat. 200][/us/stat/97/200]; amended [Pub. L. 98–132, § 2(a)(1)][/us/pl/98/132/s2/a/1], Oct. 17, 1983, [97 Stat. 849][/us/stat/97/849]; [Pub. L. 101–189, div. A, title VII, § 726(b)(2)][/us/pl/101/189/s726/b/2], Nov. 29, 1989, [103 Stat. 1480][/us/stat/103/1480]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(2)][/us/pl/104/106/s1502/a/2], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774].)
+(Added [Pub. L. 98–36][/us/pl/98/36], § 2(a), May 27, 1983, [97 Stat. 200][/us/stat/97/200]; amended [Pub. L. 98–132][/us/pl/98/132], § 2(a)(1), Oct. 17, 1983, [97 Stat. 849][/us/stat/97/849]; [Pub. L. 101–189, div. A, title VII][/us/pl/101/189/dA/tVII], § 726(b)(2), Nov. 29, 1989, [103 Stat. 1480][/us/stat/103/1480]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1502(a)(2), Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774].)
 
  __Amendments__ 
 
@@ -83,13 +83,13 @@
 
     1989—Subsec. (g)(1). [Pub. L. 101–189][/us/pl/101/189] inserted “, accept grants from, and make grants to” after “contracts with”.
 
-    1983—[Pub. L. 98–132, § 2(a)(1)(A)][/us/pl/98/132/s2/a/1/A], inserted “The Henry M. Jackson” before “Foundation” in section catchline.
+    1983—[Pub. L. 98–132][/us/pl/98/132], § 2(a)(1)(A), inserted “The Henry M. Jackson” before “Foundation” in section catchline.
 
-    Subsec. (a). [Pub. L. 98–132, § 2(a)(1)(B)][/us/pl/98/132/s2/a/1/B], inserted “Henry M. Jackson”.
+    Subsec. (a). [Pub. L. 98–132][/us/pl/98/132], § 2(a)(1)(B), inserted “Henry M. Jackson”.
 
  __Change of Name__ 
 
-[Pub. L. 98–132, § 1][/us/pl/98/132/s1], Oct. 17, 1983, [97 Stat. 849][/us/stat/97/849], provided: 
+[Pub. L. 98–132][/us/pl/98/132], § 1, Oct. 17, 1983, [97 Stat. 849][/us/stat/97/849], provided: 
 
 >     “That 
 
@@ -104,22 +104,22 @@
 ----------
 ----------
 
-[/us/pl/98/36/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F36%2Fs2%2Fa
+[/us/pl/98/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F36
 [/us/stat/97/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F200
-[/us/pl/98/132/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F132%2Fs2%2Fa%2F1
+[/us/pl/98/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F132
 [/us/stat/97/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F849
-[/us/pl/101/189/s726/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs726%2Fb%2F2
+[/us/pl/101/189/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVII
 [/us/stat/103/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1480
-[/us/pl/104/106/s1502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F2
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F502
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
-[/us/pl/98/132/s2/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F132%2Fs2%2Fa%2F1%2FA
-[/us/pl/98/132/s2/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F132%2Fs2%2Fa%2F1%2FB
-[/us/pl/98/132/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F132%2Fs1
+[/us/pl/98/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F132
+[/us/pl/98/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F132
+[/us/pl/98/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F132
 [/us/stat/97/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F849
 [/us/usc/t10/s178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs178
 

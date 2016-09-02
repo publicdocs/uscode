@@ -17,7 +17,7 @@
 
     In this title, the term “Army” means the Army or Armies referred to in the Constitution of the United States, less that part established by law as the Air Force.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 157][/us/stat/70A/157]; [Pub. L. 100–26, § 7(k)(8)][/us/pl/100/26/s7/k/8], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 157][/us/stat/70A/157]; [Pub. L. 100–26][/us/pl/100/26], § 7(k)(8), Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284].)
 
 <table>
 
@@ -80,7 +80,7 @@ June 28, 1950, ch. 383, § 2(a), 64 Stat. 263.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F157
-[/us/pl/100/26/s7/k/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fk%2F8
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F284
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 

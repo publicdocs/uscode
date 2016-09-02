@@ -29,11 +29,11 @@
 
     The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added [Pub. L. 107–314, div. A, title X, § 1006(a)(1)][/us/pl/107/314/s1006/a/1], Dec. 2, 2002, [116 Stat. 2632][/us/stat/116/2632].)
+(Added [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1006(a)(1), Dec. 2, 2002, [116 Stat. 2632][/us/stat/116/2632].)
 
  __Effective Date__ 
 
-[Pub. L. 107–314, div. A, title X, § 1006(d)][/us/pl/107/314/s1006/d], Dec. 2, 2002, [116 Stat. 2633][/us/stat/116/2633], provided that: 
+[Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1006(d), Dec. 2, 2002, [116 Stat. 2633][/us/stat/116/2633], provided that: 
 
 > “The amendments made by this section \[enacting this section, amending [section 1007 of Title 37][/us/usc/t37/s1007], Pay and Allowances of the Uniformed Services, and repealing sections 4835 and 9835 of this title\] shall apply with respect to the loss, spoilage, unserviceability, unsuitability, or destruction of, or damage to, property of the United States under the control of the Department of Defense occurring on or after the effective date of regulations prescribed pursuant to [section 2787 of title 10][/us/usc/t10/s2787], United States Code, as added by subsection (a).”
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/107/314/s1006/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1006%2Fa%2F1
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2632
-[/us/pl/107/314/s1006/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1006%2Fd
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2633
 [/us/usc/t37/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs1007
 [/us/usc/t10/s2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2787

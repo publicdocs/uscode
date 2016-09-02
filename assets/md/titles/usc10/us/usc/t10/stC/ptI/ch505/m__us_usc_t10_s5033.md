@@ -57,13 +57,13 @@
 
         (3) Subject to the authority, direction, and control of the Secretary of Defense, the Chief of Naval Operations shall keep the Secretary of the Navy fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
-(Added [Pub. L. 99–433, title V, § 512(b)][/us/pl/99/433/s512/b], Oct. 1, 1986, [100 Stat. 1049][/us/stat/100/1049]; amended [Pub. L. 100–456, div. A, title V, § 519(a)(3)][/us/pl/100/456/s519/a/3], Sept. 29, 1988, [102 Stat. 1972][/us/stat/102/1972]; [Pub. L. 108–136, div. A, title V, § 501(a)][/us/pl/108/136/s501/a], Nov. 24, 2003, [117 Stat. 1456][/us/stat/117/1456]; [Pub. L. 114–92, div. A, title VIII, § 802(d)(4)(B)][/us/pl/114/92/s802/d/4/B], Nov. 25, 2015, [129 Stat. 880][/us/stat/129/880].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 512(b), Oct. 1, 1986, [100 Stat. 1049][/us/stat/100/1049]; amended [Pub. L. 100–456, div. A, title V][/us/pl/100/456/dA/tV], § 519(a)(3), Sept. 29, 1988, [102 Stat. 1972][/us/stat/102/1972]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 501(a), Nov. 24, 2003, [117 Stat. 1456][/us/stat/117/1456]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 802(d)(4)(B), Nov. 25, 2015, [129 Stat. 880][/us/stat/129/880].)
 
  __Prior Provisions__ 
 
     Provisions similar to those in this section were contained in sections 5081 and 5082 of this title prior to enactment of [Pub. L. 99–433][/us/pl/99/433].
 
-    A prior section 5033, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 279][/us/stat/70A/279]; Sept. 2, 1958, [Pub. L. 85–861, § 1(108)][/us/pl/85/861/s1/108], [72 Stat. 1490][/us/stat/72/1490]; Aug. 14, 1964, [Pub. L. 88–426, title III][/us/pl/88/426], §§ 305(5), 306(j)(5), [78 Stat. 422][/us/stat/78/422], 432, related to appointment and duties of Under Secretary of the Navy, prior to repeal by [Pub. L. 99–433, § 511(e)][/us/pl/99/433/s511/e]. See [section 5015 of this title][/us/usc/t10/s5015].
+    A prior section 5033, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 279][/us/stat/70A/279]; Sept. 2, 1958, [Pub. L. 85–861][/us/pl/85/861], § 1(108), [72 Stat. 1490][/us/stat/72/1490]; Aug. 14, 1964, [Pub. L. 88–426, title III][/us/pl/88/426/tIII], §§ 305(5), 306(j)(5), [78 Stat. 422][/us/stat/78/422], 432, related to appointment and duties of Under Secretary of the Navy, prior to repeal by [Pub. L. 99–433][/us/pl/99/433], § 511(e). See [section 5015 of this title][/us/usc/t10/s5015].
 
  __Amendments__ 
 
@@ -75,7 +75,7 @@
 
  __Reappointment of Incumbent Chief of Naval Operations__ 
 
-[Pub. L. 108–136, div. A, title V, § 508][/us/pl/108/136/s508], Nov. 24, 2003, [117 Stat. 1458][/us/stat/117/1458], provided that: 
+[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 508, Nov. 24, 2003, [117 Stat. 1458][/us/stat/117/1458], provided that: 
 
 > “Notwithstanding the provisions of [section 5033(a)(1) of title 10][/us/usc/t10/s5033/a/1], United States Code, the President, by and with the advice and consent of the Senate, may reappoint the officer serving as Chief of Naval Operations on October 1, 2003, for an additional term as Chief of Naval Operations. Such a reappointment shall be for a term of not more than two years.”
 
@@ -93,28 +93,28 @@
 [/us/usc/t10/s664/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs664%2Ff
 [/us/usc/t10/s5013/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5013%2Ff
 [/us/usc/t10/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs151
-[/us/pl/99/433/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs512%2Fb
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1049
-[/us/pl/100/456/s519/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs519%2Fa%2F3
+[/us/pl/100/456/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtV
 [/us/stat/102/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1972
-[/us/pl/108/136/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs501%2Fa
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1456
-[/us/pl/114/92/s802/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs802%2Fd%2F4%2FB
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F880
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F279
-[/us/pl/85/861/s1/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F108
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1490
-[/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F422
-[/us/pl/99/433/s511/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fe
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t10/s5015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5015
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/usc/t10/s664/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs664%2Ff
-[/us/pl/108/136/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs508
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1458
 [/us/usc/t10/s5033/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5033%2Fa%2F1
 [/us/pl/99/433/s532/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs532%2Fc

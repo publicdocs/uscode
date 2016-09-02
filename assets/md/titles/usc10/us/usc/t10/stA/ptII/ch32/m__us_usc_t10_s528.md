@@ -59,23 +59,23 @@
 
     The positions covered by this section are the positions specified in subsections (b) and (c) and the positions designated under subsection (d).
 
-(Added [Pub. L. 108–136, div. A, title V, § 507(a)][/us/pl/108/136/s507/a], Nov. 24, 2003, [117 Stat. 1458][/us/stat/117/1458]; amended [Pub. L. 109–163, div. A, title V, § 507(a)][/us/pl/109/163/s507/a], Jan. 6, 2006, [119 Stat. 3228][/us/stat/119/3228]; [Pub. L. 109–364, div. A, title V, § 501(a)][/us/pl/109/364/s501/a], (b)(1), Oct. 17, 2006, [120 Stat. 2175][/us/stat/120/2175], 2176; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 933, Oct. 14, 2008, [122 Stat. 4576][/us/stat/122/4576]; [Pub. L. 111–259, title VIII, § 803][/us/pl/111/259/s803], Oct. 7, 2010, [124 Stat. 2746][/us/stat/124/2746]; [Pub. L. 112–81, div. A, title V, § 502(d)(1)][/us/pl/112/81/s502/d/1], (2)(A), Dec. 31, 2011, [125 Stat. 1387][/us/stat/125/1387], 1388.)
+(Added [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 507(a), Nov. 24, 2003, [117 Stat. 1458][/us/stat/117/1458]; amended [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 507(a), Jan. 6, 2006, [119 Stat. 3228][/us/stat/119/3228]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 501(a), (b)(1), Oct. 17, 2006, [120 Stat. 2175][/us/stat/120/2175], 2176; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 933, Oct. 14, 2008, [122 Stat. 4576][/us/stat/122/4576]; [Pub. L. 111–259, title VIII][/us/pl/111/259/tVIII], § 803, Oct. 7, 2010, [124 Stat. 2746][/us/stat/124/2746]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 502(d)(1), (2)(A), Dec. 31, 2011, [125 Stat. 1387][/us/stat/125/1387], 1388.)
 
  __Prior Provisions__ 
 
-    A prior section 528, added [Pub. L. 103–337, div. A, title IV, § 405(b)(1)][/us/pl/103/337/s405/b/1], Oct. 5, 1994, [108 Stat. 2744][/us/stat/108/2744]; amended [Pub. L. 104–106, div. A, title IV, § 403(b)][/us/pl/104/106/s403/b], title XV, § 1503(a)(4), Feb. 10, 1996, [110 Stat. 287][/us/stat/110/287], 511; [Pub. L. 104–201, div. A, title X, § 1074(a)(3)][/us/pl/104/201/s1074/a/3], Sept. 23, 1996, [110 Stat. 2658][/us/stat/110/2658], which related to limitation on number of officers on active duty in grades of general and admiral, was repealed by [Pub. L. 107–107, div. A, title V, § 501(a)][/us/pl/107/107/s501/a], Dec. 28, 2001, [115 Stat. 1079][/us/stat/115/1079].
+    A prior section 528, added [Pub. L. 103–337, div. A, title IV][/us/pl/103/337/dA/tIV], § 405(b)(1), Oct. 5, 1994, [108 Stat. 2744][/us/stat/108/2744]; amended [Pub. L. 104–106, div. A, title IV][/us/pl/104/106/dA/tIV], § 403(b), title XV, § 1503(a)(4), Feb. 10, 1996, [110 Stat. 287][/us/stat/110/287], 511; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1074(a)(3), Sept. 23, 1996, [110 Stat. 2658][/us/stat/110/2658], which related to limitation on number of officers on active duty in grades of general and admiral, was repealed by [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 501(a), Dec. 28, 2001, [115 Stat. 1079][/us/stat/115/1079].
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–81, § 502(d)(2)(A)][/us/pl/112/81/s502/d/2/A], substituted “Officers serving in certain intelligence positions: military status; application of distribution and strength limitations; pay and allowances” for “Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances” in section catchline.
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 502(d)(2)(A), substituted “Officers serving in certain intelligence positions: military status; application of distribution and strength limitations; pay and allowances” for “Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances” in section catchline.
 
-    Subsecs. (b) to (d). [Pub. L. 112–81, § 502(d)(1)][/us/pl/112/81/s502/d/1], added subsecs. (b) to (d) and struck out former subsecs. (b) to (d) which related to Director and Deputy Director of CIA, Associate Director of Military Affairs of CIA, and Officers Serving in the Office of DNI, respectively.
+    Subsecs. (b) to (d). [Pub. L. 112–81][/us/pl/112/81], § 502(d)(1), added subsecs. (b) to (d) and struck out former subsecs. (b) to (d) which related to Director and Deputy Director of CIA, Associate Director of Military Affairs of CIA, and Officers Serving in the Office of DNI, respectively.
 
     2010—Subsec. (c). [Pub. L. 111–259][/us/pl/111/259] substituted “Associate Director of Military Affairs, CIA” for “Associate Director of CIA for Military Affairs” in heading and “Associate Director of Military Affairs, Central Intelligence Agency, or any successor position” for “Associate Director of the Central Intelligence Agency for Military Affairs” in text.
 
     2008—Subsec. (c). [Pub. L. 110–417][/us/pl/110/417] substituted “Military Affairs” for “Military Support” in heading and text.
 
-    2006—[Pub. L. 109–364, § 501(b)(1)][/us/pl/109/364/s501/b/1], amended section catchline generally, substituting “Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances” for “Exclusion: officers serving in certain intelligence positions”.
+    2006—[Pub. L. 109–364][/us/pl/109/364], § 501(b)(1), amended section catchline generally, substituting “Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances” for “Exclusion: officers serving in certain intelligence positions”.
 
     [Pub. L. 109–163][/us/pl/109/163] amended section catchline and text generally. Prior to amendment, text read as follows:
 
@@ -89,7 +89,7 @@
 
     “(3) Deputy Director of Central Intelligence for Community Management.”
 
-    Subsecs. (a), (b). [Pub. L. 109–364, § 501(a)(1)][/us/pl/109/364/s501/a/1], added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
+    Subsecs. (a), (b). [Pub. L. 109–364][/us/pl/109/364], § 501(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
     “(a) Exclusion of Officer Serving in Certain CIA Positions.—When either of the individuals serving in a position specified in subsection (b) is an officer of the armed forces, one of those officers, while serving in that position, shall be excluded from the limitations in sections 525 and 526 of this title.
 
@@ -99,7 +99,7 @@
 
     “(2) Deputy Director of the Central Intelligence Agency.”
 
-    Subsecs. (e) to (g). [Pub. L. 109–364, § 501(a)(2)][/us/pl/109/364/s501/a/2], added subsecs. (e) to (g).
+    Subsecs. (e) to (g). [Pub. L. 109–364][/us/pl/109/364], § 501(a)(2), added subsecs. (e) to (g).
 
 ----------
 
@@ -111,33 +111,33 @@
 [/us/usc/t10/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs526
 [/us/usc/t10/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs526
 [/us/usc/t10/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs526
-[/us/pl/108/136/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs507%2Fa
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1458
-[/us/pl/109/163/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs507%2Fa
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3228
-[/us/pl/109/364/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs501%2Fa
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2175
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4576
-[/us/pl/111/259/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs803
+[/us/pl/111/259/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtVIII
 [/us/stat/124/2746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2746
-[/us/pl/112/81/s502/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs502%2Fd%2F1
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1387
-[/us/pl/103/337/s405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs405%2Fb%2F1
+[/us/pl/103/337/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIV
 [/us/stat/108/2744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2744
-[/us/pl/104/106/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs403%2Fb
+[/us/pl/104/106/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIV
 [/us/stat/110/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F287
-[/us/pl/104/201/s1074/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fa%2F3
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2658
-[/us/pl/107/107/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs501%2Fa
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1079
-[/us/pl/112/81/s502/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs502%2Fd%2F2%2FA
-[/us/pl/112/81/s502/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs502%2Fd%2F1
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/109/364/s501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs501%2Fb%2F1
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/109/364/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs501%2Fa%2F1
-[/us/pl/109/364/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs501%2Fa%2F2
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 
 

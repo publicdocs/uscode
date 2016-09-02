@@ -57,7 +57,7 @@
 
         (2) The term “institution of higher education” has the meaning given that term in section 102 of the Higher Education Act for 1965 ([20 U.S.C. 1002][/us/usc/t20/s1002]).
 
-(Added [Pub. L. 113–66, div. A, title V, § 541(a)][/us/pl/113/66/s541/a], Dec. 26, 2013, [127 Stat. 760][/us/stat/127/760]; amended [Pub. L. 114–92, div. A, title X, § 1081(a)(6)][/us/pl/114/92/s1081/a/6], Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001].)
+(Added [Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 541(a), Dec. 26, 2013, [127 Stat. 760][/us/stat/127/760]; amended [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1081(a)(6), Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001].)
 
  __Amendments__ 
 
@@ -65,7 +65,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 113–66, div. A, title V, § 541(c)][/us/pl/113/66/s541/c], Dec. 26, 2013, [127 Stat. 762][/us/stat/127/762], provided that: 
+[Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 541(c), Dec. 26, 2013, [127 Stat. 762][/us/stat/127/762], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect on August 1, 2014.”
 
@@ -81,12 +81,12 @@
 [/us/usc/t10/s1784a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1784a
 [/us/usc/t10/s2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2007
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
-[/us/pl/113/66/s541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs541%2Fa
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F760
-[/us/pl/114/92/s1081/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F6
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1001
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
-[/us/pl/113/66/s541/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs541%2Fc
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F762
 
 

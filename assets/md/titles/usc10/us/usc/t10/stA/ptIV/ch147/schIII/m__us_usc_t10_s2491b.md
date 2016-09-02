@@ -23,7 +23,7 @@
 
     Subsection (a) does not apply to the use of funds for the payment of utilities, the maintenance, repair, or renovation of real property, and the transportation of products made in the United States.
 
-(Added [Pub. L. 103–337, div. A, title III, § 372(a)][/us/pl/103/337/s372/a], Oct. 5, 1994, [108 Stat. 2735][/us/stat/108/2735], § 2247; amended [Pub. L. 105–85, div. A, title III, § 375][/us/pl/105/85/s375], Nov. 18, 1997, [111 Stat. 1708][/us/stat/111/1708]; renumbered § 2491b, [Pub. L. 108–375, div. A, title VI, § 651(d)][/us/pl/108/375/s651/d], Oct. 28, 2004, [118 Stat. 1972][/us/stat/118/1972].)
+(Added [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 372(a), Oct. 5, 1994, [108 Stat. 2735][/us/stat/108/2735], § 2247; amended [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 375, Nov. 18, 1997, [111 Stat. 1708][/us/stat/111/1708]; renumbered § 2491b, [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 651(d), Oct. 28, 2004, [118 Stat. 1972][/us/stat/118/1972].)
 
  __Amendments__ 
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/103/337/s372/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs372%2Fa
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2735
-[/us/pl/105/85/s375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs375
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1708
-[/us/pl/108/375/s651/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs651%2Fd
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1972
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t10/s2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2247

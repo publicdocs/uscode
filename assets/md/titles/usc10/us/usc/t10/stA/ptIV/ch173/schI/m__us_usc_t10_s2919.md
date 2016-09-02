@@ -39,7 +39,7 @@
 
     There is established in the Treasury a fund to be known as the “Energy Savings Financial Incentives Fund”. The Fund shall consist of any amount deposited in the Fund pursuant to subsection (b)(2) and amounts appropriated or otherwise made available to the Fund by law.
 
-(Added [Pub. L. 111–84, div. B, title XXVIII, § 2843(a)][/us/pl/111/84/s2843/a], Oct. 28, 2009, [123 Stat. 2681][/us/stat/123/2681].)
+(Added [Pub. L. 111–84, div. B, title XXVIII][/us/pl/111/84/dB/tXXVIII], § 2843(a), Oct. 28, 2009, [123 Stat. 2681][/us/stat/123/2681].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/111/84/s2843/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2843%2Fa
+[/us/pl/111/84/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdB%2FtXXVIII
 [/us/stat/123/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2681
 
 

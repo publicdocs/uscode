@@ -27,7 +27,7 @@
 
     (c) An annuity paid to a person on behalf of an annuitant in accordance with the regulations prescribed pursuant to subsection (a) discharges the obligation of the United States for payment to the annuitant of the amount of the annuity so paid.
 
-(Added [Pub. L. 102–190, div. A, title VI, § 654(b)(1)][/us/pl/102/190/s654/b/1], Dec. 5, 1991, [105 Stat. 1390][/us/stat/105/1390]; amended [Pub. L. 105–85, div. A, title X, § 1073(a)(26)][/us/pl/105/85/s1073/a/26], Nov. 18, 1997, [111 Stat. 1901][/us/stat/111/1901].)
+(Added [Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], § 654(b)(1), Dec. 5, 1991, [105 Stat. 1390][/us/stat/105/1390]; amended [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(26), Nov. 18, 1997, [111 Stat. 1901][/us/stat/111/1901].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 
 [/us/usc/t10/s1444/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1444%2Fa
 [/us/usc/t10/s1455/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1455%2Fd%2F2
-[/us/pl/102/190/s654/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs654%2Fb%2F1
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1390
-[/us/pl/105/85/s1073/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F26
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1901
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 

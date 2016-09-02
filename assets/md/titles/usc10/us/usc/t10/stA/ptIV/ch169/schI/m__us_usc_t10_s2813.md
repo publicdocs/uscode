@@ -39,7 +39,7 @@
 
     A contract may not be entered into for the acquisition of a facility under subsection (a) until the Secretary concerned transmits to the appropriate committees of Congress a written notification of the determination to acquire an existing facility instead of carrying out the authorized military construction project. The notification shall include the reasons for acquiring the facility. After the notification is transmitted, the Secretary may then enter into the contract only after the end of the 21-day period beginning on the date on which the notification is received by the committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 
-(Added [Pub. L. 103–160, div. B, title XXVIII, § 2805(a)(1)][/us/pl/103/160/s2805/a/1], Nov. 30, 1993, [107 Stat. 1886][/us/stat/107/1886]; amended [Pub. L. 104–106, div. A, title XV, § 1502(a)(25)][/us/pl/104/106/s1502/a/25], Feb. 10, 1996, [110 Stat. 506][/us/stat/110/506]; [Pub. L. 108–136, div. A, title X, § 1031(a)(40)][/us/pl/108/136/s1031/a/40], Nov. 24, 2003, [117 Stat. 1601][/us/stat/117/1601]; [Pub. L. 109–163, div. B, title XXVIII, § 2801(b)][/us/pl/109/163/s2801/b], Jan. 6, 2006, [119 Stat. 3504][/us/stat/119/3504].)
+(Added [Pub. L. 103–160, div. B, title XXVIII][/us/pl/103/160/dB/tXXVIII], § 2805(a)(1), Nov. 30, 1993, [107 Stat. 1886][/us/stat/107/1886]; amended [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1502(a)(25), Feb. 10, 1996, [110 Stat. 506][/us/stat/110/506]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(40), Nov. 24, 2003, [117 Stat. 1601][/us/stat/117/1601]; [Pub. L. 109–163, div. B, title XXVIII][/us/pl/109/163/dB/tXXVIII], § 2801(b), Jan. 6, 2006, [119 Stat. 3504][/us/stat/119/3504].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–160, div. B, title XXVIII, § 2805(b)][/us/pl/103/160/s2805/b], Nov. 30, 1993, [107 Stat. 1887][/us/stat/107/1887], provided that: 
+[Pub. L. 103–160, div. B, title XXVIII][/us/pl/103/160/dB/tXXVIII], § 2805(b), Nov. 30, 1993, [107 Stat. 1887][/us/stat/107/1887], provided that: 
 
 > “[Section 2813 of title 10][/us/usc/t10/s2813], United States Code, as added by subsection (a), shall apply with respect to military construction projects authorized on or after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
@@ -63,18 +63,18 @@
 ----------
 
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
-[/us/pl/103/160/s2805/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs2805%2Fa%2F1
+[/us/pl/103/160/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdB%2FtXXVIII
 [/us/stat/107/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1886
-[/us/pl/104/106/s1502/a/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F25
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F506
-[/us/pl/108/136/s1031/a/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F40
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1601
-[/us/pl/109/163/s2801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2801%2Fb
+[/us/pl/109/163/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdB%2FtXXVIII
 [/us/stat/119/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3504
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/160/s2805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs2805%2Fb
+[/us/pl/103/160/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdB%2FtXXVIII
 [/us/stat/107/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1887
 [/us/usc/t10/s2813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2813
 

@@ -113,13 +113,13 @@
 
         (3) Such other civilian officials of the United States Government as the President shall designate for purposes of this section.
 
-(Added [Pub. L. 113–66, div. A, title X, § 1052(a)(1)][/us/pl/113/66/s1052/a/1], Dec. 26, 2013, [127 Stat. 859][/us/stat/127/859]; amended [Pub. L. 114–92, div. A, title XVI, § 1651][/us/pl/114/92/s1651], Nov. 25, 2015, [129 Stat. 1121][/us/stat/129/1121].)
+(Added [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1052(a)(1), Dec. 26, 2013, [127 Stat. 859][/us/stat/127/859]; amended [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1651, Nov. 25, 2015, [129 Stat. 1121][/us/stat/129/1121].)
 
  __Amendments__ 
 
-    Subsec. (e)(5). [Pub. L. 114–92, § 1651(3)][/us/pl/114/92/s1651/3], added par. (5).
+    Subsec. (e)(5). [Pub. L. 114–92][/us/pl/114/92], § 1651(3), added par. (5).
 
-    Subsecs. (f) to (i). [Pub. L. 114–92, § 1651(1)][/us/pl/114/92/s1651/1], (2), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
+    Subsecs. (f) to (i). [Pub. L. 114–92][/us/pl/114/92], § 1651(1), (2), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
 
 ----------
 
@@ -132,11 +132,11 @@
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/113/66/s1052/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1052%2Fa%2F1
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F859
-[/us/pl/114/92/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1651
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1121
-[/us/pl/114/92/s1651/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1651%2F3
-[/us/pl/114/92/s1651/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1651%2F1
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 
 

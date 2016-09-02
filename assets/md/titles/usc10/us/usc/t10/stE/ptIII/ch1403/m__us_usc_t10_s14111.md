@@ -29,11 +29,11 @@
 
     If the Secretary of a military department or the Secretary of Defense makes a recommendation under this section that the name of an officer be removed from the report of a promotion board and the recommendation is accompanied by information that was not presented to that promotion board, that information shall be made available to that officer. The officer shall then be afforded a reasonable opportunity to submit comments on that information to the officials making the recommendation and the officials reviewing the recommendation. If an eligible officer cannot be given access to such information because of its classification status, the officer shall, to the maximum extent practicable, be provided with an appropriate summary of the information.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2929][/us/stat/108/2929]; amended [Pub. L. 109–364, div. A, title V, § 513(b)][/us/pl/109/364/s513/b], Oct. 17, 2006, [120 Stat. 2185][/us/stat/120/2185].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2929][/us/stat/108/2929]; amended [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 513(b), Oct. 17, 2006, [120 Stat. 2185][/us/stat/120/2185].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in subsecs. (a) and (b) of this section were contained in section 5898(b) and (c) of this title, prior to repeal by [Pub. L. 103–337, § 1629(b)(2)][/us/pl/103/337/s1629/b/2].
+    Provisions similar to those in subsecs. (a) and (b) of this section were contained in section 5898(b) and (c) of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(b)(2).
 
  __Amendments__ 
 
@@ -55,11 +55,11 @@
 ----------
 
 [/us/usc/t10/s14110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14110
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2929
-[/us/pl/109/364/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs513%2Fb
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2185
-[/us/pl/103/337/s1629/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fb%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/364/s513/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs513%2Fc

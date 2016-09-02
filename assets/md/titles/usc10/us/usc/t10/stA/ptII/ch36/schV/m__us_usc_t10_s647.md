@@ -43,7 +43,7 @@
 
     The Secretary concerned shall prescribe regulations for the exercise of the Secretary’s authority under this section.
 
-(Added [Pub. L. 108–375, div. A, title V, § 501(c)(1)(A)][/us/pl/108/375/s501/c/1/A], Oct. 28, 2004, [118 Stat. 1873][/us/stat/118/1873]; amended [Pub. L. 110–181, div. A, title V, § 503(b)][/us/pl/110/181/s503/b], Jan. 28, 2008, [122 Stat. 95][/us/stat/122/95].)
+(Added [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 501(c)(1)(A), Oct. 28, 2004, [118 Stat. 1873][/us/stat/118/1873]; amended [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 503(b), Jan. 28, 2008, [122 Stat. 95][/us/stat/122/95].)
 
  __Amendments__ 
 
@@ -61,9 +61,9 @@
 ----------
 
 [/us/usc/t10/s12203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12203
-[/us/pl/108/375/s501/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs501%2Fc%2F1%2FA
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1873
-[/us/pl/110/181/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs503%2Fb
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F95
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/108/375/s501/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs501%2Fg

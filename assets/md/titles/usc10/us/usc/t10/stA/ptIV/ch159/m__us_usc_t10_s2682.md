@@ -45,37 +45,37 @@
 
         (4) The waiver authority provided by paragraph (1) expires December 31, 2020.
 
-(Added [Pub. L. 88–174, title VI, § 609(a)(1)][/us/pl/88/174/s609/a/1], Nov. 7, 1963, [77 Stat. 329][/us/stat/77/329]; amended [Pub. L. 97–214, § 10(a)(7)][/us/pl/97/214/s10/a/7], July 12, 1982, [96 Stat. 175][/us/stat/96/175]; [Pub. L. 112–81, div. A, title IX, § 926][/us/pl/112/81/s926], Dec. 31, 2011, [125 Stat. 1541][/us/stat/125/1541]; [Pub. L. 114–92, div. A, title XVI, § 1632][/us/pl/114/92/s1632], Nov. 25, 2015, [129 Stat. 1111][/us/stat/129/1111].)
+(Added [Pub. L. 88–174, title VI][/us/pl/88/174/tVI], § 609(a)(1), Nov. 7, 1963, [77 Stat. 329][/us/stat/77/329]; amended [Pub. L. 97–214][/us/pl/97/214], § 10(a)(7), July 12, 1982, [96 Stat. 175][/us/stat/96/175]; [Pub. L. 112–81, div. A, title IX][/us/pl/112/81/dA/tIX], § 926, Dec. 31, 2011, [125 Stat. 1541][/us/stat/125/1541]; [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1632, Nov. 25, 2015, [129 Stat. 1111][/us/stat/129/1111].)
 
  __Amendments__ 
 
-    2015—Subsecs. (a), (b). [Pub. L. 114–92, § 1632(b)(2)][/us/pl/114/92/s1632/b/2], repealed [Pub. L. 112–81, § 926(b)][/us/pl/112/81/s926/b]. See 2011 Amendment notes below.
+    2015—Subsecs. (a), (b). [Pub. L. 114–92][/us/pl/114/92], § 1632(b)(2), repealed [Pub. L. 112–81][/us/pl/112/81], § 926(b). See 2011 Amendment notes below.
 
-    Subsec. (c). [Pub. L. 114–92, § 1632(b)(2)][/us/pl/114/92/s1632/b/2], repealed [Pub. L. 112–81, § 926(b)][/us/pl/112/81/s926/b]. See 2011 Amendment note below.
+    Subsec. (c). [Pub. L. 114–92][/us/pl/114/92], § 1632(b)(2), repealed [Pub. L. 112–81][/us/pl/112/81], § 926(b). See 2011 Amendment note below.
 
-    [Pub. L. 114–92, § 1632(a)][/us/pl/114/92/s1632/a], designated existing provisions as par. (1) and added pars. (2) and (3).
+    [Pub. L. 114–92][/us/pl/114/92], § 1632(a), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-    Subsec. (c)(4). [Pub. L. 114–92, § 1632(b)(1)][/us/pl/114/92/s1632/b/1], added par. (4).
+    Subsec. (c)(4). [Pub. L. 114–92][/us/pl/114/92], § 1632(b)(1), added par. (4).
 
-    2011—[Pub. L. 112–81, § 926(a)(1)][/us/pl/112/81/s926/a/1], (2), designated first and second sentences as subsecs. (a) and (b), respectively, inserted headings, and realigned margins of subsec. (b).
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 926(a)(1), (2), designated first and second sentences as subsecs. (a) and (b), respectively, inserted headings, and realigned margins of subsec. (b).
 
-    Subsec. (a). [Pub. L. 112–81, § 926(b)(1)][/us/pl/112/81/s926/b/1], which directed the substitution of “The maintenance and repair” for “Subject to subsection (c), the maintenance and repair”, subject to effective date set out in Effective Date of 2011 Amendment note below, was repealed by [Pub. L. 114–92, § 1632(b)(2)][/us/pl/114/92/s1632/b/2].
+    Subsec. (a). [Pub. L. 112–81][/us/pl/112/81], § 926(b)(1), which directed the substitution of “The maintenance and repair” for “Subject to subsection (c), the maintenance and repair”, subject to effective date set out in Effective Date of 2011 Amendment note below, was repealed by [Pub. L. 114–92][/us/pl/114/92], § 1632(b)(2).
 
-    [Pub. L. 112–81, § 926(a)(1)][/us/pl/112/81/s926/a/1], substituted “Subject to subsection (c), the maintenance and repair” for “The maintenance and repair”.
+    [Pub. L. 112–81][/us/pl/112/81], § 926(a)(1), substituted “Subject to subsection (c), the maintenance and repair” for “The maintenance and repair”.
 
-    Subsec. (b). [Pub. L. 112–81, § 926(b)(2)][/us/pl/112/81/s926/b/2], which directed the substitution of “A real property” for “Subject to subsection (c), a real property”, subject to effective date set out in Effective Date of 2011 Amendment note below, was repealed by [Pub. L. 114–92, § 1632(b)(2)][/us/pl/114/92/s1632/b/2].
+    Subsec. (b). [Pub. L. 112–81][/us/pl/112/81], § 926(b)(2), which directed the substitution of “A real property” for “Subject to subsection (c), a real property”, subject to effective date set out in Effective Date of 2011 Amendment note below, was repealed by [Pub. L. 114–92][/us/pl/114/92], § 1632(b)(2).
 
-    [Pub. L. 112–81, § 926(a)(3)][/us/pl/112/81/s926/a/3], substituted “Subject to subsection (c), a real property” for “A real property”.
+    [Pub. L. 112–81][/us/pl/112/81], § 926(a)(3), substituted “Subject to subsection (c), a real property” for “A real property”.
 
-    Subsec. (c). [Pub. L. 112–81, § 926(b)(3)][/us/pl/112/81/s926/b/3], which directed the striking out of subsec. (c), subject to effective date set out in Effective Date of 2011 Amendment note below, was repealed by [Pub. L. 114–92, § 1632(b)(2)][/us/pl/114/92/s1632/b/2].
+    Subsec. (c). [Pub. L. 112–81][/us/pl/112/81], § 926(b)(3), which directed the striking out of subsec. (c), subject to effective date set out in Effective Date of 2011 Amendment note below, was repealed by [Pub. L. 114–92][/us/pl/114/92], § 1632(b)(2).
 
-    [Pub. L. 112–81, § 926(a)(4)][/us/pl/112/81/s926/a/4], added subsec. (c).
+    [Pub. L. 112–81][/us/pl/112/81], § 926(a)(4), added subsec. (c).
 
     1982—[Pub. L. 97–214][/us/pl/97/214] substituted “maintenance and repair” for “construction, maintenance, rehabilitation, repair, alteration, addition, expansion, or extension”.
 
  __Effective Date of 2011 Amendment__ 
 
-    [Pub. L. 112–81, div. A, title IX, § 926(b)][/us/pl/112/81/s926/b], Dec. 31, 2011, [125 Stat. 1541][/us/stat/125/1541], as amended by [Pub. L. 113–291, div. A, title XVI, § 1624][/us/pl/113/291/s1624], Dec. 19, 2014, [128 Stat. 3633][/us/stat/128/3633], which provided that the amendments made by section 926(b) \[amending this section\] are effective on Sept. 30, 2017, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2018, whichever is later, was repealed by [Pub. L. 114–92, div. A, title XVI, § 1632(b)(2)][/us/pl/114/92/s1632/b/2], Nov. 25, 2015, [129 Stat. 1112][/us/stat/129/1112].
+    [Pub. L. 112–81, div. A, title IX][/us/pl/112/81/dA/tIX], § 926(b), Dec. 31, 2011, [125 Stat. 1541][/us/stat/125/1541], as amended by [Pub. L. 113–291, div. A, title XVI][/us/pl/113/291/dA/tXVI], § 1624, Dec. 19, 2014, [128 Stat. 3633][/us/stat/128/3633], which provided that the amendments made by section 926(b) \[amending this section\] are effective on Sept. 30, 2017, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2018, whichever is later, was repealed by [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1632(b)(2), Nov. 25, 2015, [129 Stat. 1112][/us/stat/129/1112].
 
  __Effective Date of 1982 Amendment__ 
 
@@ -88,36 +88,36 @@
 ----------
 ----------
 
-[/us/pl/88/174/s609/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F174%2Fs609%2Fa%2F1
+[/us/pl/88/174/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F174%2FtVI
 [/us/stat/77/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F329
-[/us/pl/97/214/s10/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs10%2Fa%2F7
-[/us/stat/96/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F175
-[/us/pl/112/81/s926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs926
-[/us/stat/125/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1541
-[/us/pl/114/92/s1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1632
-[/us/stat/129/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1111
-[/us/pl/114/92/s1632/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1632%2Fb%2F2
-[/us/pl/112/81/s926/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs926%2Fb
-[/us/pl/114/92/s1632/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1632%2Fb%2F2
-[/us/pl/112/81/s926/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs926%2Fb
-[/us/pl/114/92/s1632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1632%2Fa
-[/us/pl/114/92/s1632/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1632%2Fb%2F1
-[/us/pl/112/81/s926/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs926%2Fa%2F1
-[/us/pl/112/81/s926/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs926%2Fb%2F1
-[/us/pl/114/92/s1632/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1632%2Fb%2F2
-[/us/pl/112/81/s926/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs926%2Fa%2F1
-[/us/pl/112/81/s926/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs926%2Fb%2F2
-[/us/pl/114/92/s1632/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1632%2Fb%2F2
-[/us/pl/112/81/s926/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs926%2Fa%2F3
-[/us/pl/112/81/s926/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs926%2Fb%2F3
-[/us/pl/114/92/s1632/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1632%2Fb%2F2
-[/us/pl/112/81/s926/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs926%2Fa%2F4
 [/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
-[/us/pl/112/81/s926/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs926%2Fb
+[/us/stat/96/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F175
+[/us/pl/112/81/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIX
 [/us/stat/125/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1541
-[/us/pl/113/291/s1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1624
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
+[/us/stat/129/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1111
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
+[/us/pl/112/81/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIX
+[/us/stat/125/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1541
+[/us/pl/113/291/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXVI
 [/us/stat/128/3633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3633
-[/us/pl/114/92/s1632/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1632%2Fb%2F2
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1112
 [/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/pl/97/214/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs12%2Fa

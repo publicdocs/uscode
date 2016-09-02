@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3921.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3925.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3924)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3922 _us_usc_t10_s3923.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3925.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3924)
 
 ## § 3924. Forty years or more: Army officers
 
@@ -19,7 +19,7 @@
 
     (b) Any warrant officer of the Army who has at least 40 years of service computed under [section 3926(a) of this title][/us/usc/t10/s3926/a] shall be retired upon his request.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 227][/us/stat/70A/227]; [Pub. L. 96–513, title V, § 502(17)][/us/pl/96/513/s502/17], Dec. 12, 1980, [94 Stat. 2910][/us/stat/94/2910].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 227][/us/stat/70A/227]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 502(17), Dec. 12, 1980, [94 Stat. 2910][/us/stat/94/2910].)
 
 <table>
 
@@ -85,7 +85,7 @@ June 30, 1882, ch. 254 (last 21 words of 3d proviso under “Pay Department”),
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3921.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3925.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3924)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3922 _us_usc_t10_s3923.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3925.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3924)
 
 ----------
 ----------
@@ -95,7 +95,7 @@ June 30, 1882, ch. 254 (last 21 words of 3d proviso under “Pay Department”),
 [/us/usc/t10/s3926/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3926%2Fa
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F227
-[/us/pl/96/513/s502/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs502%2F17
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2910
 [/us/usc/t10/s3786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3786
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

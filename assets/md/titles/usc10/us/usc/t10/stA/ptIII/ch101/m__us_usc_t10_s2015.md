@@ -73,7 +73,7 @@
 
     In this section, the term “expenses” means expenses for class room instruction, hands-on training (and associated materials), manuals, study guides and materials, text books, processing fees, and test fees and related fees.
 
-(Added [Pub. L. 109–163, div. A, title V, § 538(a)][/us/pl/109/163/s538/a], Jan. 6, 2006, [119 Stat. 3250][/us/stat/119/3250]; amended [Pub. L. 113–291, div. A, title V, § 551(a)][/us/pl/113/291/s551/a], Dec. 19, 2014, [128 Stat. 3376][/us/stat/128/3376]; [Pub. L. 114–92, div. A, title V, § 559][/us/pl/114/92/s559], Nov. 25, 2015, [129 Stat. 827][/us/stat/129/827].)
+(Added [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 538(a), Jan. 6, 2006, [119 Stat. 3250][/us/stat/119/3250]; amended [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 551(a), Dec. 19, 2014, [128 Stat. 3376][/us/stat/128/3376]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 559, Nov. 25, 2015, [129 Stat. 827][/us/stat/129/827].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 
  __Enhancement of Mechanisms To Correlate Skills and Training for Military Occupational Specialties With Skills and Training Required for Civilian Certifications and Licenses__ 
 
-[Pub. L. 113–66, div. A, title V, § 542][/us/pl/113/66/s542], Dec. 26, 2013, [127 Stat. 762][/us/stat/127/762], provided that:
+[Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 542, Dec. 26, 2013, [127 Stat. 762][/us/stat/127/762], provided that:
 
 >     “(a) __Improvement of Information Available to Members of the Armed Forces About Correlation.—__ 
 
@@ -137,7 +137,7 @@
 
  __Pilot Program on Receipt of Civilian Credentialing for Skills Required for Military Occupational Specialties__ 
 
-[Pub. L. 112–81, div. A, title V, § 558][/us/pl/112/81/s558], Dec. 31, 2011, [125 Stat. 1418][/us/stat/125/1418], as amended by [Pub. L. 112–239, div. A, title V, § 543][/us/pl/112/239/s543], Jan. 2, 2013, [126 Stat. 1737][/us/stat/126/1737], provided that:
+[Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 558, Dec. 31, 2011, [125 Stat. 1418][/us/stat/125/1418], as amended by [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 543, Jan. 2, 2013, [126 Stat. 1737][/us/stat/126/1737], provided that:
 
 >     “(a)  __Pilot Program Required__  __.—__ 
 
@@ -176,20 +176,20 @@
 ----------
 ----------
 
-[/us/pl/109/163/s538/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs538%2Fa
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3250
-[/us/pl/113/291/s551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs551%2Fa
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3376
-[/us/pl/114/92/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs559
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F827
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
-[/us/pl/113/66/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs542
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F762
-[/us/pl/112/81/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs558
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1418
-[/us/pl/112/239/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs543
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1737
 
 

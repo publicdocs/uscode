@@ -23,7 +23,7 @@
 
     Any person convicted of mutiny, treason, spying, or desertion, or who refuses to perform service in the armed forces or refuses to wear the uniform of any of the armed forces shall forfeit all rights to insurance under this chapter.
 
-(Added [Pub. L. 104–106, div. A, title V, § 512(a)(1)][/us/pl/104/106/s512/a/1], Feb. 10, 1996, [110 Stat. 305][/us/stat/110/305].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 512(a)(1), Feb. 10, 1996, [110 Stat. 305][/us/stat/110/305].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/104/106/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs512%2Fa%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F305
 
 

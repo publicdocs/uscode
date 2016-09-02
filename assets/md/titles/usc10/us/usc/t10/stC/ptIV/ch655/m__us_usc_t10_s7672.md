@@ -79,11 +79,11 @@ Subsection (e) is derived from the next to the last sentence of R.S. 4652 which,
 
 >     “The whole amount awarded as salvage shall be decreed to the captors and no part to the United States, and shall be distributed as in the case of proceeds of property condemned as prize.”
 
-The [Act of March 3, 1899, ch. 413, § 13][/us/act/1899-03-03/ch413/s13], [30 Stat. 1007][/us/stat/30/1007], repealed all laws authorizing the distribution of prize money to captors. Accordingly, [34 U.S.C. 1158][/us/usc/t34/s1158] states:
+The [Act of March 3, 1899, ch. 413][/us/act/1899-03-03/ch413], § 13, [30 Stat. 1007][/us/stat/30/1007], repealed all laws authorizing the distribution of prize money to captors. Accordingly, [34 U.S.C. 1158][/us/usc/t34/s1158] states:
 
 >     “The whole amount awarded as salvage shall be disposed of as in the case of proceeds of property condemned as prize.”
 
-    As shown in [§ 7668 of this title][/us/usc/t10/s7668], the net proceeds of property condemned as prize must be decreed to the United States. Subsection (e) is phrased so as to state directly, instead of by reference, the fact that the amount awarded as salvage is paid to the government. While this is apparently inconsistent with R.S. 4652 as originally enacted, it is consistent with the intent expressed by Congress in the provision of the Act of March 3, 1899 (supra), which repealed provisions relating to the distribution of prize money and bounty to crews. This act, it is true, did not mention salvage; and salvage money is still occasionally awarded to crews of naval vessels. However, such occasions are rare, and it is the general policy of the Department of the Navy not to claim salvage on behalf of its personnel. No case appears in which salvage derived from prize has been claimed for such personnel. Prize salvage is more closely related to prize money than it is to other salvage. The determination by Congress that captors should not share in the proceeds of prizes is, therefore, as in [34 U.S.C. 1158][/us/usc/t34/s1158], carried through the revised section to salvage derived from prize. The word “amounts” is substituted for the words “the whole amount”.
+    As shown in § 7668 of this title, the net proceeds of property condemned as prize must be decreed to the United States. Subsection (e) is phrased so as to state directly, instead of by reference, the fact that the amount awarded as salvage is paid to the government. While this is apparently inconsistent with R.S. 4652 as originally enacted, it is consistent with the intent expressed by Congress in the provision of the Act of March 3, 1899 (supra), which repealed provisions relating to the distribution of prize money and bounty to crews. This act, it is true, did not mention salvage; and salvage money is still occasionally awarded to crews of naval vessels. However, such occasions are rare, and it is the general policy of the Department of the Navy not to claim salvage on behalf of its personnel. No case appears in which salvage derived from prize has been claimed for such personnel. Prize salvage is more closely related to prize money than it is to other salvage. The determination by Congress that captors should not share in the proceeds of prizes is, therefore, as in [34 U.S.C. 1158][/us/usc/t34/s1158], carried through the revised section to salvage derived from prize. The word “amounts” is substituted for the words “the whole amount”.
 
 ----------
 
@@ -94,10 +94,9 @@ The [Act of March 3, 1899, ch. 413, § 13][/us/act/1899-03-03/ch413/s13], [30 
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F481
-[/us/act/1899-03-03/ch413/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch413%2Fs13
+[/us/act/1899-03-03/ch413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch413
 [/us/stat/30/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1007
 [/us/usc/t34/s1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs1158
-[/us/usc/t10/s7668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7668
 [/us/usc/t34/s1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs1158
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of Defense may disclose the identity or location of a person awarded a contract by the Department of Defense to any individual, including a Member of Congress, only after the Secretary makes a public announcement identifying the contractor. When the identity of a contractor is to be made public, the Secretary shall announce publicly that the contract has been awarded and the identity of the contractor.
 
-(Added [Pub. L. 97–295, § 1(26)(A)][/us/pl/97/295/s1/26/A], Oct. 12, 1982, [96 Stat. 1291][/us/stat/96/1291].)
+(Added [Pub. L. 97–295][/us/pl/97/295], § 1(26)(A), Oct. 12, 1982, [96 Stat. 1291][/us/stat/96/1291].)
 
 <table>
 
@@ -72,7 +72,7 @@ Oct. 7, 1970, Pub. L. 91–441, § 507, 84 Stat. 913.  </td>
 ----------
 ----------
 
-[/us/pl/97/295/s1/26/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F26%2FA
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1291
 
 

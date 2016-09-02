@@ -35,11 +35,11 @@
 
         (3) inactive-duty training performed by a member of the Air National Guard of the United States in his status as a member of the Air National Guard, in accordance with regulations prescribed under [section 502 of title 32][/us/usc/t32/s502] or other express provision of law, shall be considered inactive-duty training in Federal service as a Reserve of the Air Force.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1662(g)(1)][/us/pl/103/337/s1662/g/1], Oct. 5, 1994, [108 Stat. 2995][/us/stat/108/2995].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(g)(1), Oct. 5, 1994, [108 Stat. 2995][/us/stat/108/2995].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 3686 and 8686 of this title, prior to repeal by [Pub. L. 103–337, § 1662(g)(2)][/us/pl/103/337/s1662/g/2].
+    Provisions similar to those in this section were contained in sections 3686 and 8686 of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1662(g)(2).
 
 ----------
 
@@ -50,8 +50,8 @@
 
 [/us/usc/t32/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs502
 [/us/usc/t32/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs502
-[/us/pl/103/337/s1662/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fg%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2995
-[/us/pl/103/337/s1662/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fg%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 
 

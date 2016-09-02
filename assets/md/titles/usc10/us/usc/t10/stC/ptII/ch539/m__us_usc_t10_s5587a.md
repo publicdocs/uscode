@@ -17,7 +17,7 @@
 
     With the approval of the Secretary of the Navy, any regular officer on the active-duty list of the Marine Corps who is qualified under [section 827(b) of this title][/us/usc/t10/s827/b] may, upon his application, be designated as a judge advocate.
 
-(Added [Pub. L. 90–179, § 5(3)][/us/pl/90/179/s5/3], Dec. 8, 1967, [81 Stat. 548][/us/stat/81/548]; amended [Pub. L. 96–513, title V, § 503(30)][/us/pl/96/513/s503/30], Dec. 12, 1980, [94 Stat. 2913][/us/stat/94/2913].)
+(Added [Pub. L. 90–179][/us/pl/90/179], § 5(3), Dec. 8, 1967, [81 Stat. 548][/us/stat/81/548]; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 503(30), Dec. 12, 1980, [94 Stat. 2913][/us/stat/94/2913].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t10/s827/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs827%2Fb
-[/us/pl/90/179/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179%2Fs5%2F3
+[/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
 [/us/stat/81/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F548
-[/us/pl/96/513/s503/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs503%2F30
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2913
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

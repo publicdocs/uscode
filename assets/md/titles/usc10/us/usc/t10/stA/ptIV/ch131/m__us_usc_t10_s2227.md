@@ -41,11 +41,11 @@
 
     In this section, the term “claim for payment” means an invoice or any other demand or request for payment.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1008(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–249.)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1008(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–249.)
 
  __Effective Date__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1008(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–250, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1008(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–250, provided that:
 
 >     “(1) Subject to paragraph (2), the Secretary of Defense shall apply [section 2227 of title 10][/us/usc/t10/s2227], United States Code (as added by subsection (a)), with respect to contracts for which solicitations of offers are issued after June 30, 2001.
 
@@ -59,7 +59,7 @@
 
  __Implementation Plan__ 
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1008(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–250, directed the Secretary of Defense, not later than Mar. 30, 2001, to submit to committees of Congress a plan for the implementation of the requirements imposed under this section.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1008(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–250, directed the Secretary of Defense, not later than Mar. 30, 2001, to submit to committees of Congress a plan for the implementation of the requirements imposed under this section.
 
 ----------
 
@@ -68,12 +68,12 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2227
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

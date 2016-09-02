@@ -41,23 +41,23 @@
 
     The Secretary of Defense, in consultation with the Director of National Intelligence, shall take all necessary steps to ensure the full availability and continued improvement of imagery intelligence support for all-source analysis and production.
 
-(Added [Pub. L. 104–201, div. A, title XI, § 1112(a)(2)][/us/pl/104/201/s1112/a/2], Sept. 23, 1996, [110 Stat. 2678][/us/stat/110/2678]; amended [Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A)][/us/pl/108/136/s921/d/2/A], Nov. 24, 2003, [117 Stat. 1568][/us/stat/117/1568]; [Pub. L. 110–181, div. A, title IX, § 931(a)(9)][/us/pl/110/181/s931/a/9], (10), (c)(1)(A), Jan. 28, 2008, [122 Stat. 285][/us/stat/122/285]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 932(a)(8), (9), (b)(1), Oct. 14, 2008, [122 Stat. 4576][/us/stat/122/4576]; [Pub. L. 111–84, div. A, title X, § 1073(c)(10)][/us/pl/111/84/s1073/c/10], Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475].)
+(Added [Pub. L. 104–201, div. A, title XI][/us/pl/104/201/dA/tXI], § 1112(a)(2), Sept. 23, 1996, [110 Stat. 2678][/us/stat/110/2678]; amended [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 921(d)(2)(A), Nov. 24, 2003, [117 Stat. 1568][/us/stat/117/1568]; [Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 931(a)(9), (10), (c)(1)(A), Jan. 28, 2008, [122 Stat. 285][/us/stat/122/285]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 932(a)(8), (9), (b)(1), Oct. 14, 2008, [122 Stat. 4576][/us/stat/122/4576]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c)(10), Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475].)
 
  __Amendments__ 
 
-    2009—Subsecs. (c), (d). [Pub. L. 111–84][/us/pl/111/84] repealed [Pub. L. 110–417, § 932(a)(8)][/us/pl/110/417/s932/a/8], (9), (b)(1). See 2008 Amendment notes below.
+    2009—Subsecs. (c), (d). [Pub. L. 111–84][/us/pl/111/84] repealed [Pub. L. 110–417][/us/pl/110/417], § 932(a)(8), (9), (b)(1). See 2008 Amendment notes below.
 
-    2008—Subsec. (c). [Pub. L. 110–181, § 931(a)(9)][/us/pl/110/181/s931/a/9], (c)(1)(A), and [Pub. L. 110–417, § 932(b)(1)][/us/pl/110/417/s932/b/1], amended subsec. (c) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in heading and text. [Pub. L. 110–417, § 932(b)(1)][/us/pl/110/417/s932/b/1], was repealed by [Pub. L. 111–84][/us/pl/111/84].
+    2008—Subsec. (c). [Pub. L. 110–181][/us/pl/110/181], § 931(a)(9), (c)(1)(A), and [Pub. L. 110–417][/us/pl/110/417], § 932(b)(1), amended subsec. (c) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in heading and text. [Pub. L. 110–417][/us/pl/110/417], § 932(b)(1), was repealed by [Pub. L. 111–84][/us/pl/111/84].
 
-    [Pub. L. 110–181, § 931(a)(9)][/us/pl/110/181/s931/a/9], and [Pub. L. 110–417, § 932(a)(8)][/us/pl/110/417/s932/a/8], amended subsec. (c) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. [Pub. L. 110–417, § 932(a)(8)][/us/pl/110/417/s932/a/8], was repealed by [Pub. L. 111–84][/us/pl/111/84].
+    [Pub. L. 110–181][/us/pl/110/181], § 931(a)(9), and [Pub. L. 110–417][/us/pl/110/417], § 932(a)(8), amended subsec. (c) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. [Pub. L. 110–417][/us/pl/110/417], § 932(a)(8), was repealed by [Pub. L. 111–84][/us/pl/111/84].
 
-    Subsec. (d). [Pub. L. 110–181, § 931(a)(10)][/us/pl/110/181/s931/a/10], and [Pub. L. 110–417, § 932(a)(9)][/us/pl/110/417/s932/a/9], amended subsec. (d) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. [Pub. L. 110–417, § 932(a)(9)][/us/pl/110/417/s932/a/9], was repealed by [Pub. L. 111–84][/us/pl/111/84].
+    Subsec. (d). [Pub. L. 110–181][/us/pl/110/181], § 931(a)(10), and [Pub. L. 110–417][/us/pl/110/417], § 932(a)(9), amended subsec. (d) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. [Pub. L. 110–417][/us/pl/110/417], § 932(a)(9), was repealed by [Pub. L. 111–84][/us/pl/111/84].
 
     2003—Subsecs. (a), (b)(1). [Pub. L. 108–136][/us/pl/108/136] substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
  __Effective Date of 2009 Amendment__ 
 
-    [Pub. L. 111–84, div. A, title X, § 1073(c)][/us/pl/111/84/s1073/c], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.
+    [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1073(c), Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in [Pub. L. 110–417][/us/pl/110/417] as enacted.
 
  __Effective Date__ 
 
@@ -65,13 +65,13 @@
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–201, div. A, title XI, § 1101][/us/pl/104/201/s1101], Sept. 23, 1996, [110 Stat. 2676][/us/stat/110/2676], provided that: 
+[Pub. L. 104–201, div. A, title XI][/us/pl/104/201/dA/tXI], § 1101, Sept. 23, 1996, [110 Stat. 2676][/us/stat/110/2676], provided that: 
 
 > “This title \[enacting this chapter, [section 424 of this title][/us/usc/t10/s424], and sections 404e and 404f of Title 50, War and National Defense, amending sections 193, 201, and 451 to 456 of this title, sections 2302, 3132, 4301, 4701, 5102, 5342, 6339, and 7323 of Title 5, Government Organization and Employees, section 105 of the Ethics in Government Act of 1978, set out in the Appendix to Title 5, [section 82 of Title 14][/us/usc/t14/s82], Coast Guard, [section 2006 of Title 29][/us/usc/t29/s2006], Labor, [section 1336 of Title 44][/us/usc/t44/s1336], Public Printing and Documents, and sections 401a and 403–5 of Title 50, renumbering chapter 22 and sections 451, 452, 2792 to 2796, and 2798 of this title as chapter 23 and sections 481, 482, 451 to 455, and 456 of this title, respectively, repealing sections 424, 425, 2791, and 2797 of this title, enacting provisions set out as notes under this section and [section 193 of this title][/us/usc/t10/s193], and amending provisions set out as a note under [section 501 of Title 44][/us/usc/t44/s501]\] may be cited as the ‘National Imagery and Mapping Agency Act of 1996’.”
 
  __Savings Provisions__ 
 
-[Section 1116 of title XI of div. A of Pub. L. 104–201][/us/pl/104/201/s1116], as amended by [Pub. L. 105–85, div. A, title X, § 1073(c)(8)][/us/pl/105/85/s1073/c/8], Nov. 18, 1997, [111 Stat. 1904][/us/stat/111/1904], provided that:
+[Section 1116 of title XI of div. A of Pub. L. 104–201][/us/pl/104/201/dA/tXI/s1116], as amended by [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(c)(8), Nov. 18, 1997, [111 Stat. 1904][/us/stat/111/1904], provided that:
 
 >     “(a)  __Continuing Effect on Legal Documents__  __.—__ 
 
@@ -89,7 +89,7 @@
 
  __Redesignation of National Imagery and Mapping Agency as National Geospatial-Intelligence Agency__ 
 
-[Pub. L. 108–136, div. A, title IX, § 921(a)][/us/pl/108/136/s921/a], (g), Nov. 24, 2003, [117 Stat. 1568][/us/stat/117/1568], 1570, provided that:
+[Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 921(a), (g), Nov. 24, 2003, [117 Stat. 1568][/us/stat/117/1568], 1570, provided that:
 
 >     “(a)  __Redesignation__  __.—__ 
 
@@ -177,7 +177,7 @@
 
  __Definitions__ 
 
-[Pub. L. 104–201, div. A, title XI, § 1117][/us/pl/104/201/s1117], Sept. 23, 1996, [110 Stat. 2686][/us/stat/110/2686], provided that: 
+[Pub. L. 104–201, div. A, title XI][/us/pl/104/201/dA/tXI], § 1117, Sept. 23, 1996, [110 Stat. 2686][/us/stat/110/2686], provided that: 
 
 > “In this subtitle \[subtitle A (§§ 1111–1118) of title XI of div. A of [Pub. L. 104–201][/us/pl/104/201], enacting this chapter, [section 424 of this title][/us/usc/t10/s424], and sections 3045 and 3046 of Title 50, War and National Defense, amending sections 193 and 451 to 456 of this title, [section 1336 of Title 44][/us/usc/t44/s1336], Public Printing and Documents, and [section 3038 of Title 50][/us/usc/t50/s3038], renumbering chapter 22 and sections 2792 to 2796 and 2798 of this title as chapter 23 and sections 451 to 455 and 456 of this title, respectively, repealing sections 424 and 425 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under [section 501 of Title 44][/us/usc/t44/s501]\], the terms ‘function’, ‘imagery’, ‘imagery intelligence’, and ‘geospatial information’ have the meanings given those terms in [section 467 of title 10][/us/usc/t10/s467], United States Code, as added by section 1112.”
 
@@ -189,37 +189,37 @@
 ----------
 
 [/us/usc/t10/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs601
-[/us/pl/104/201/s1112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1112%2Fa%2F2
+[/us/pl/104/201/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXI
 [/us/stat/110/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2678
-[/us/pl/108/136/s921/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fd%2F2%2FA
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1568
-[/us/pl/110/181/s931/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs931%2Fa%2F9
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F285
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4576
-[/us/pl/111/84/s1073/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc%2F10
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2475
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/110/417/s932/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs932%2Fa%2F8
-[/us/pl/110/181/s931/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs931%2Fa%2F9
-[/us/pl/110/417/s932/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs932%2Fb%2F1
-[/us/pl/110/417/s932/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs932%2Fb%2F1
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/110/181/s931/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs931%2Fa%2F9
-[/us/pl/110/417/s932/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs932%2Fa%2F8
-[/us/pl/110/417/s932/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs932%2Fa%2F8
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/110/181/s931/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs931%2Fa%2F10
-[/us/pl/110/417/s932/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs932%2Fa%2F9
-[/us/pl/110/417/s932/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs932%2Fa%2F9
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/111/84/s1073/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/104/201/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1124
 [/us/usc/t10/s193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs193
-[/us/pl/104/201/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1101
+[/us/pl/104/201/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXI
 [/us/stat/110/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2676
 [/us/usc/t10/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs424
 [/us/usc/t14/s82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs82
@@ -227,10 +227,10 @@
 [/us/usc/t44/s1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1336
 [/us/usc/t10/s193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs193
 [/us/usc/t44/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs501
-[/us/pl/104/201/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1116
-[/us/pl/105/85/s1073/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fc%2F8
+[/us/pl/104/201/dA/tXI/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXI%2Fs1116
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1904
-[/us/pl/108/136/s921/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fa
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1568
 [/us/pl/104/201/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1102
 [/us/pl/104/201/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1111
@@ -239,7 +239,7 @@
 [/us/pl/104/201/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1113
 [/us/usc/t31/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1531
 [/us/pl/104/201/s1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1115
-[/us/pl/104/201/s1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1117
+[/us/pl/104/201/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXI
 [/us/stat/110/2686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2686
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t10/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs424

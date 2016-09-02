@@ -81,7 +81,7 @@
 
     (e) The discharge or retirement of an officer pursuant to this section shall be considered to be involuntary for purposes of any other provision of law.
 
-(Added [Pub. L. 101–510, div. A, title V, § 521(a)(1)][/us/pl/101/510/s521/a/1], Nov. 5, 1990, [104 Stat. 1559][/us/stat/104/1559]; amended [Pub. L. 102–190, div. A, title V, § 503(b)][/us/pl/102/190/s503/b], Dec. 5, 1991, [105 Stat. 1355][/us/stat/105/1355]; [Pub. L. 102–484, div. A, title V, § 503][/us/pl/102/484/s503], title LXIV, § 4403(g)(2), Oct. 23, 1992, [106 Stat. 2402][/us/stat/106/2402], 2703; [Pub. L. 103–160, div. A, title V, § 561(b)][/us/pl/103/160/s561/b], Nov. 30, 1993, [107 Stat. 1667][/us/stat/107/1667]; [Pub. L. 105–261, div. A, title V, § 561(c)][/us/pl/105/261/s561/c], Oct. 17, 1998, [112 Stat. 2025][/us/stat/112/2025]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 571(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–134; [Pub. L. 109–364, div. A, title VI, § 623(b)][/us/pl/109/364/s623/b], Oct. 17, 2006, [120 Stat. 2256][/us/stat/120/2256]; [Pub. L. 112–239, div. A, title V, § 502][/us/pl/112/239/s502], Jan. 2, 2013, [126 Stat. 1714][/us/stat/126/1714]; [Pub. L. 113–66, div. A, title V, § 503(a)][/us/pl/113/66/s503/a], Dec. 26, 2013, [127 Stat. 750][/us/stat/127/750]; [Pub. L. 113–291, div. A, title V, § 503][/us/pl/113/291/s503], Dec. 19, 2014, [128 Stat. 3355][/us/stat/128/3355]; [Pub. L. 114–92, div. A, title V, § 503][/us/pl/114/92/s503], Nov. 25, 2015, [129 Stat. 807][/us/stat/129/807].)
+(Added [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 521(a)(1), Nov. 5, 1990, [104 Stat. 1559][/us/stat/104/1559]; amended [Pub. L. 102–190, div. A, title V][/us/pl/102/190/dA/tV], § 503(b), Dec. 5, 1991, [105 Stat. 1355][/us/stat/105/1355]; [Pub. L. 102–484, div. A, title V][/us/pl/102/484/dA/tV], § 503, title LXIV, § 4403(g)(2), Oct. 23, 1992, [106 Stat. 2402][/us/stat/106/2402], 2703; [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 561(b), Nov. 30, 1993, [107 Stat. 1667][/us/stat/107/1667]; [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 561(c), Oct. 17, 1998, [112 Stat. 2025][/us/stat/112/2025]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 571(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–134; [Pub. L. 109–364, div. A, title VI][/us/pl/109/364/dA/tVI], § 623(b), Oct. 17, 2006, [120 Stat. 2256][/us/stat/120/2256]; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 502, Jan. 2, 2013, [126 Stat. 1714][/us/stat/126/1714]; [Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 503(a), Dec. 26, 2013, [127 Stat. 750][/us/stat/127/750]; [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 503, Dec. 19, 2014, [128 Stat. 3355][/us/stat/128/3355]; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 503, Nov. 25, 2015, [129 Stat. 807][/us/stat/129/807].)
 
  __References in Text__ 
 
@@ -97,23 +97,23 @@
 
     2014—Subsec. (d)(3) to (5). [Pub. L. 113–291][/us/pl/113/291] redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “The total number of officers described in subsection (b)(3) from any of the armed forces (or from any of the armed forces in a particular grade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of officers of that armed force (or the number of officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year.”
 
-    2013—Subsec. (a). [Pub. L. 112–239, § 502(1)][/us/pl/112/239/s502/1], designated existing provisions as par. (1), struck out “, during the period beginning on October 1, 1990, and ending on December 31, 2001, and for the purpose of subsection (b)(4) during the period beginning on October 1, 2006, and ending on December 31, 2012,” after “military department”, and added par. (2).
+    2013—Subsec. (a). [Pub. L. 112–239][/us/pl/112/239], § 502(1), designated existing provisions as par. (1), struck out “, during the period beginning on October 1, 1990, and ending on December 31, 2001, and for the purpose of subsection (b)(4) during the period beginning on October 1, 2006, and ending on December 31, 2012,” after “military department”, and added par. (2).
 
-    Subsec. (b)(2)(A). [Pub. L. 113–66, § 503(a)(1)][/us/pl/113/66/s503/a/1], substituted “have failed of selection for promotion at least one time and whose names are not on a list of officers recommended for promotion” for “would be subject to consideration for selection for early retirement under [section 638(a)(1)(A) of this title][/us/usc/t10/s638/a/1/A] except that they have failed of selection for promotion only one time (rather than two or more times)”.
+    Subsec. (b)(2)(A). [Pub. L. 113–66][/us/pl/113/66], § 503(a)(1), substituted “have failed of selection for promotion at least one time and whose names are not on a list of officers recommended for promotion” for “would be subject to consideration for selection for early retirement under [section 638(a)(1)(A) of this title][/us/usc/t10/s638/a/1/A] except that they have failed of selection for promotion only one time (rather than two or more times)”.
 
-    Subsec. (b)(2)(B). [Pub. L. 113–66, § 503(a)(2)][/us/pl/113/66/s503/a/2], substituted “have served on active duty in that grade for at least two years and whose names are not on a list of officers recommended for promotion” for “would be subject to consideration for selection for early retirement under [section 638(a)(1)(B) of this title][/us/usc/t10/s638/a/1/B] except that they have served on active duty in that grade less than four years (but not less than two years)”.
+    Subsec. (b)(2)(B). [Pub. L. 113–66][/us/pl/113/66], § 503(a)(2), substituted “have served on active duty in that grade for at least two years and whose names are not on a list of officers recommended for promotion” for “would be subject to consideration for selection for early retirement under [section 638(a)(1)(B) of this title][/us/usc/t10/s638/a/1/B] except that they have served on active duty in that grade less than four years (but not less than two years)”.
 
-    Subsec. (b)(3), (4). [Pub. L. 112–239, § 502(2)][/us/pl/112/239/s502/2], redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “Suspending [section 638(c) of this title][/us/usc/t10/s638/c].”
+    Subsec. (b)(3), (4). [Pub. L. 112–239][/us/pl/112/239], § 502(2), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “Suspending [section 638(c) of this title][/us/usc/t10/s638/c].”
 
-    Subsec. (c)(4). [Pub. L. 112–239, § 502(3)][/us/pl/112/239/s502/3], added par. (4).
+    Subsec. (c)(4). [Pub. L. 112–239][/us/pl/112/239], § 502(3), added par. (4).
 
-    Subsec. (d). [Pub. L. 112–239, § 502(4)][/us/pl/112/239/s502/4], substituted “subsection (b)(3)” for “subsection (b)(4)” wherever appearing and “except that through December 31, 2018,” for “except that during the period beginning on October 1, 2006, and ending on December 31, 2012,” in subpars. (A) and (B) of par. (2).
+    Subsec. (d). [Pub. L. 112–239][/us/pl/112/239], § 502(4), substituted “subsection (b)(3)” for “subsection (b)(4)” wherever appearing and “except that through December 31, 2018,” for “except that during the period beginning on October 1, 2006, and ending on December 31, 2012,” in subpars. (A) and (B) of par. (2).
 
-    2006—Subsec. (a). [Pub. L. 109–364, § 623(b)(1)][/us/pl/109/364/s623/b/1], inserted “and for the purpose of subsection (b)(4) during the period beginning on October 1, 2006, and ending on December 31, 2012,” after “December 31, 2001,”.
+    2006—Subsec. (a). [Pub. L. 109–364][/us/pl/109/364], § 623(b)(1), inserted “and for the purpose of subsection (b)(4) during the period beginning on October 1, 2006, and ending on December 31, 2012,” after “December 31, 2001,”.
 
-    Subsec. (d)(2)(A). [Pub. L. 109–364, § 623(b)(2)(A)][/us/pl/109/364/s623/b/2/A], inserted “, except that during the period beginning on October 1, 2006, and ending on December 31, 2012, such number may be more than 30 percent of the officers considered in each competitive category, but may not be more than 30 percent of the number of officers considered in each grade” before “; or” at end.
+    Subsec. (d)(2)(A). [Pub. L. 109–364][/us/pl/109/364], § 623(b)(2)(A), inserted “, except that during the period beginning on October 1, 2006, and ending on December 31, 2012, such number may be more than 30 percent of the officers considered in each competitive category, but may not be more than 30 percent of the number of officers considered in each grade” before “; or” at end.
 
-    Subsec. (d)(2)(B). [Pub. L. 109–364, § 623(b)(2)(B)][/us/pl/109/364/s623/b/2/B], inserted “, except that during the period beginning on October 1, 2006, and ending on December 31, 2012, such number may be more than 30 percent of the officers considered in each competitive category, but may not be more than 30 percent of the number of officers considered in each grade” before period at end.
+    Subsec. (d)(2)(B). [Pub. L. 109–364][/us/pl/109/364], § 623(b)(2)(B), inserted “, except that during the period beginning on October 1, 2006, and ending on December 31, 2012, such number may be more than 30 percent of the officers considered in each competitive category, but may not be more than 30 percent of the number of officers considered in each grade” before period at end.
 
     2000—Subsec. (a). [Pub. L. 106–398][/us/pl/106/398] substituted “December 31, 2001” for “September 30, 2001”.
 
@@ -121,13 +121,13 @@
 
     1993—Subsec. (a). [Pub. L. 103–160][/us/pl/103/160] substituted “nine-year period” for “five-year period”.
 
-    1992—Subsec. (b)(4)(C). [Pub. L. 102–484, § 4403(g)(2)][/us/pl/102/484/s4403/g/2], inserted “(other than by reason of eligibility pursuant to section 4403 of the National Defense Authorization Act for Fiscal Year 1993)” after “any provision of law”.
+    1992—Subsec. (b)(4)(C). [Pub. L. 102–484][/us/pl/102/484], § 4403(g)(2), inserted “(other than by reason of eligibility pursuant to section 4403 of the National Defense Authorization Act for Fiscal Year 1993)” after “any provision of law”.
 
-    Subsec. (c)(3). [Pub. L. 102–484, § 503][/us/pl/102/484/s503], added par. (3).
+    Subsec. (c)(3). [Pub. L. 102–484][/us/pl/102/484], § 503, added par. (3).
 
-    1991—Subsec. (b)(2)(C). [Pub. L. 102–190, § 503(b)(1)][/us/pl/102/190/s503/b/1], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Officers holding a regular grade below the grade of colonel or, in the case of the Navy, captain who are not eligible for retirement under section 3911, 6323, or 8911 of this title but who after two additional years of active service as a commissioned officer would be eligible for retirement under one of those sections and whose names are not on a list of officers recommended for promotion.”
+    1991—Subsec. (b)(2)(C). [Pub. L. 102–190][/us/pl/102/190], § 503(b)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Officers holding a regular grade below the grade of colonel or, in the case of the Navy, captain who are not eligible for retirement under section 3911, 6323, or 8911 of this title but who after two additional years of active service as a commissioned officer would be eligible for retirement under one of those sections and whose names are not on a list of officers recommended for promotion.”
 
-    Subsec. (c). [Pub. L. 102–190, § 503(b)(2)][/us/pl/102/190/s503/b/2], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (c). [Pub. L. 102–190][/us/pl/102/190], § 503(b)(2), designated existing provisions as par. (1) and added par. (2).
 
 ----------
 
@@ -142,50 +142,50 @@
 [/us/usc/t10/s611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs611%2Fb
 [/us/usc/t10/s611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs611%2Fb
 [/us/usc/t10/s638/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs638%2Fc
-[/us/pl/101/510/s521/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs521%2Fa%2F1
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1559
-[/us/pl/102/190/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs503%2Fb
+[/us/pl/102/190/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtV
 [/us/stat/105/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1355
-[/us/pl/102/484/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs503
+[/us/pl/102/484/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtV
 [/us/stat/106/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2402
-[/us/pl/103/160/s561/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs561%2Fb
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1667
-[/us/pl/105/261/s561/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs561%2Fc
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2025
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/109/364/s623/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs623%2Fb
+[/us/pl/109/364/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVI
 [/us/stat/120/2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2256
-[/us/pl/112/239/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs502
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1714
-[/us/pl/113/66/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs503%2Fa
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F750
-[/us/pl/113/291/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs503
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3355
-[/us/pl/114/92/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs503
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F807
 [/us/pl/102/484/s4403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4403
 [/us/usc/t10/s1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1293
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
-[/us/pl/112/239/s502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs502%2F1
-[/us/pl/113/66/s503/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs503%2Fa%2F1
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t10/s638/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs638%2Fa%2F1%2FA
-[/us/pl/113/66/s503/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs503%2Fa%2F2
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t10/s638/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs638%2Fa%2F1%2FB
-[/us/pl/112/239/s502/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs502%2F2
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t10/s638/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs638%2Fc
-[/us/pl/112/239/s502/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs502%2F3
-[/us/pl/112/239/s502/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs502%2F4
-[/us/pl/109/364/s623/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs623%2Fb%2F1
-[/us/pl/109/364/s623/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs623%2Fb%2F2%2FA
-[/us/pl/109/364/s623/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs623%2Fb%2F2%2FB
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
-[/us/pl/102/484/s4403/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4403%2Fg%2F2
-[/us/pl/102/484/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs503
-[/us/pl/102/190/s503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs503%2Fb%2F1
-[/us/pl/102/190/s503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs503%2Fb%2F2
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 
 

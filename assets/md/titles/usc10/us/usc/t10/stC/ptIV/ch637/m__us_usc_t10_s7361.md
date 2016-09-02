@@ -35,11 +35,11 @@
 
     In this section, the term “salvage facilities” includes equipment and gear utilized to prevent, abate, or minimize damage to the environment.
 
-(Added [Pub. L. 104–106, div. A, title X, § 1015][/us/pl/104/106/s1015], Feb. 10, 1996, [110 Stat. 424][/us/stat/110/424]; amended [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], (6), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–136, div. A, title III, § 315(a)][/us/pl/108/136/s315/a], Nov. 24, 2003, [117 Stat. 1431][/us/stat/117/1431].)
+(Added [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1015, Feb. 10, 1996, [110 Stat. 424][/us/stat/110/424]; amended [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), (6), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–136, div. A, title III][/us/pl/108/136/dA/tIII], § 315(a), Nov. 24, 2003, [117 Stat. 1431][/us/stat/117/1431].)
 
  __Prior Provisions__ 
 
-    A prior section 7361, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 455][/us/stat/70A/455]; Aug. 6, 1981, [Pub. L. 97–31, § 12(3)(D)][/us/pl/97/31/s12/3/D], [95 Stat. 154][/us/stat/95/154], authorized Secretary of the Navy to provide for necessary salvage facilities for public and private vessels, prior to the general amendment of this chapter by [Pub. L. 104–106][/us/pl/104/106].
+    A prior section 7361, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 455][/us/stat/70A/455]; Aug. 6, 1981, [Pub. L. 97–31][/us/pl/97/31], § 12(3)(D), [95 Stat. 154][/us/stat/95/154], authorized Secretary of the Navy to provide for necessary salvage facilities for public and private vessels, prior to the general amendment of this chapter by [Pub. L. 104–106][/us/pl/104/106].
 
  __Amendments__ 
 
@@ -58,15 +58,15 @@
 ----------
 ----------
 
-[/us/pl/104/106/s1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1015
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F424
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/108/136/s315/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs315%2Fa
+[/us/pl/108/136/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIII
 [/us/stat/117/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1431
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F455
-[/us/pl/97/31/s12/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs12%2F3%2FD
+[/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 [/us/stat/95/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F154
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136

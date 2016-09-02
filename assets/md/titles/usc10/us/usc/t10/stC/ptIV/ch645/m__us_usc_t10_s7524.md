@@ -31,7 +31,7 @@
 
     This section applies without regard to the provisions of the Marine Mammal Protection Act of 1972 ([16 U.S.C. 1361][/us/usc/t16/s1361] et seq.).
 
-(Added [Pub. L. 99–661, div. A, title XIII, § 1354(a)][/us/pl/99/661/s1354/a], Nov. 14, 1986, [100 Stat. 3996][/us/stat/100/3996].)
+(Added [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1354(a), Nov. 14, 1986, [100 Stat. 3996][/us/stat/100/3996].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t16/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1401
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
 [/us/usc/t16/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1361
-[/us/pl/99/661/s1354/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1354%2Fa
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3996
 [/us/pl/92/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522
 [/us/stat/86/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1027

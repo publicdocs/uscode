@@ -27,7 +27,7 @@
 
         (2) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations providing that reimbursement may be a condition of assistance by judge advocates assigned or detailed under [section 973(b)(2)(B) of this title][/us/usc/t10/s973/b/2/B].
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 39][/us/stat/70A/39]; [Pub. L. 90–179, § 1(3)][/us/pl/90/179/s1/3], Dec. 8, 1967, [81 Stat. 545][/us/stat/81/545]; [Pub. L. 90–632, § 2(2)][/us/pl/90/632/s2/2], Oct. 24, 1968, [82 Stat. 1335][/us/stat/82/1335]; [Pub. L. 98–209, § 2(b)][/us/pl/98/209/s2/b], Dec. 6, 1983, [97 Stat. 1393][/us/stat/97/1393]; [Pub. L. 99–661, div. A, title VIII, § 807(a)][/us/pl/99/661/s807/a], Nov. 14, 1986, [100 Stat. 3909][/us/stat/100/3909]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 112–239, div. A, title V, § 531(d)(1)][/us/pl/112/239/s531/d/1], Jan. 2, 2013, [126 Stat. 1726][/us/stat/126/1726].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 39][/us/stat/70A/39]; [Pub. L. 90–179][/us/pl/90/179], § 1(3), Dec. 8, 1967, [81 Stat. 545][/us/stat/81/545]; [Pub. L. 90–632][/us/pl/90/632], § 2(2), Oct. 24, 1968, [82 Stat. 1335][/us/stat/82/1335]; [Pub. L. 98–209][/us/pl/98/209], § 2(b), Dec. 6, 1983, [97 Stat. 1393][/us/stat/97/1393]; [Pub. L. 99–661, div. A, title VIII][/us/pl/99/661/dA/tVIII], § 807(a), Nov. 14, 1986, [100 Stat. 3909][/us/stat/100/3909]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 531(d)(1), Jan. 2, 2013, [126 Stat. 1726][/us/stat/126/1726].)
 
 <table>
 
@@ -115,7 +115,7 @@ May 5, 1950, ch. 169, § 1 (Art. 6), 64 Stat. 110.  </td>
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–661, div. A, title VIII, § 807(b)][/us/pl/99/661/s807/b], Nov. 14, 1986, [100 Stat. 3909][/us/stat/100/3909], provided that: 
+[Pub. L. 99–661, div. A, title VIII][/us/pl/99/661/dA/tVIII], § 807(b), Nov. 14, 1986, [100 Stat. 3909][/us/stat/100/3909], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\]—
 
@@ -142,17 +142,17 @@ May 5, 1950, ch. 169, § 1 (Art. 6), 64 Stat. 110.  </td>
 [/us/usc/t10/s973/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs973%2Fb%2F2%2FB
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F39
-[/us/pl/90/179/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179%2Fs1%2F3
+[/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
 [/us/stat/81/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F545
-[/us/pl/90/632/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F2
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1335
-[/us/pl/98/209/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs2%2Fb
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1393
-[/us/pl/99/661/s807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs807%2Fa
+[/us/pl/99/661/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVIII
 [/us/stat/100/3909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3909
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/112/239/s531/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs531%2Fd%2F1
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1726
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
@@ -163,7 +163,7 @@ May 5, 1950, ch. 169, § 1 (Art. 6), 64 Stat. 110.  </td>
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/99/661/s807/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs807%2Fb
+[/us/pl/99/661/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVIII
 [/us/stat/100/3909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3909
 [/us/usc/t10/s973/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs973%2Fb%2F2%2FB
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209

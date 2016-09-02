@@ -41,13 +41,13 @@
 
     Subsection (a) does not apply in time of war or of national emergency declared by Congress or the President after November 30, 1980. Subsection (b) does not apply in time of war or of national emergency declared by Congress or the President.
 
-(Added [Pub. L. 104–201, div. A, title V, § 521(a)][/us/pl/104/201/s521/a], Sept. 23, 1996, [110 Stat. 2516][/us/stat/110/2516]; amended [Pub. L. 106–65, div. A, title V, § 507][/us/pl/106/65/s507], Oct. 5, 1999, [113 Stat. 591][/us/stat/113/591]; [Pub. L. 107–107, div. A, title V, § 509(b)][/us/pl/107/107/s509/b], Dec. 28, 2001, [115 Stat. 1091][/us/stat/115/1091].)
+(Added [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 521(a), Sept. 23, 1996, [110 Stat. 2516][/us/stat/110/2516]; amended [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 507, Oct. 5, 1999, [113 Stat. 591][/us/stat/113/591]; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 509(b), Dec. 28, 2001, [115 Stat. 1091][/us/stat/115/1091].)
 
  __Prior Provisions__ 
 
     A prior section 690 was renumbered [section 12321 of this title][/us/usc/t10/s12321].
 
-    Provisions similar to those in subsecs. (a) and (c) of this section were contained in [section 688(c) of this title][/us/usc/t10/s688/c] prior to repeal by [Pub. L. 104–201, § 521(a)][/us/pl/104/201/s521/a].
+    Provisions similar to those in subsecs. (a) and (c) of this section were contained in [section 688(c) of this title][/us/usc/t10/s688/c] prior to repeal by [Pub. L. 104–201][/us/pl/104/201], § 521(a).
 
  __Amendments__ 
 
@@ -71,15 +71,15 @@
 ----------
 
 [/us/usc/t10/s688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs688
-[/us/pl/104/201/s521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs521%2Fa
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2516
-[/us/pl/106/65/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs507
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F591
-[/us/pl/107/107/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs509%2Fb
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1091
 [/us/usc/t10/s12321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12321
 [/us/usc/t10/s688/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs688%2Fc
-[/us/pl/104/201/s521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs521%2Fa
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107

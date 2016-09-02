@@ -17,11 +17,11 @@
 
     Cadets at the Academy shall be appointed by the President alone. An appointment is conditional until the cadet is admitted.
 
-(Added [Pub. L. 97–60, title II, § 203(a)(2)(A)][/us/pl/97/60/s203/a/2/A], Oct. 14, 1981, [95 Stat. 1006][/us/stat/95/1006].)
+(Added [Pub. L. 97–60, title II][/us/pl/97/60/tII], § 203(a)(2)(A), Oct. 14, 1981, [95 Stat. 1006][/us/stat/95/1006].)
 
  __Effective Date__ 
 
-[Pub. L. 97–60, title II, § 203(d)][/us/pl/97/60/s203/d], Oct. 14, 1981, [95 Stat. 1007][/us/stat/95/1007], provided that: 
+[Pub. L. 97–60, title II][/us/pl/97/60/tII], § 203(d), Oct. 14, 1981, [95 Stat. 1007][/us/stat/95/1007], provided that: 
 
 > “The amendments made by this section \[enacting this section and [section 9341a of this title][/us/usc/t10/s9341a] and amending sections 4342, 6953, 6954, and 9342 of this title\] shall take effect with respect to nominations for appointment to the first class admitted to each Academy after the date of the enactment of this Act \[Oct. 14, 1981\].”
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/97/60/s203/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2Fs203%2Fa%2F2%2FA
+[/us/pl/97/60/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2FtII
 [/us/stat/95/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1006
-[/us/pl/97/60/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2Fs203%2Fd
+[/us/pl/97/60/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2FtII
 [/us/stat/95/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1007
 [/us/usc/t10/s9341a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9341a
 

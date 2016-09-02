@@ -79,7 +79,7 @@
 
     The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added [Pub. L. 101–403, title II, § 202(a)(1)][/us/pl/101/403/s202/a/1], Oct. 1, 1990, [104 Stat. 872][/us/stat/104/872]; amended [Pub. L. 102–190, div. A, title X, § 1061(a)(16)][/us/pl/102/190/s1061/a/16], Dec. 5, 1991, [105 Stat. 1473][/us/stat/105/1473]; [Pub. L. 103–160, div. A, title XI, § 1105(b)(1)][/us/pl/103/160/s1105/b/1], (2), Nov. 30, 1993, [107 Stat. 1750][/us/stat/107/1750]; [Pub. L. 104–201, div. A, title X, § 1063][/us/pl/104/201/s1063], Sept. 23, 1996, [110 Stat. 2652][/us/stat/110/2652]; [Pub. L. 112–81, div. A, title X, § 1064(7)][/us/pl/112/81/s1064/7], Dec. 31, 2011, [125 Stat. 1587][/us/stat/125/1587].)
+(Added [Pub. L. 101–403, title II][/us/pl/101/403/tII], § 202(a)(1), Oct. 1, 1990, [104 Stat. 872][/us/stat/104/872]; amended [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1061(a)(16), Dec. 5, 1991, [105 Stat. 1473][/us/stat/105/1473]; [Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1105(b)(1), (2), Nov. 30, 1993, [107 Stat. 1750][/us/stat/107/1750]; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1063, Sept. 23, 1996, [110 Stat. 2652][/us/stat/110/2652]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1064(7), Dec. 31, 2011, [125 Stat. 1587][/us/stat/125/1587].)
 
  __Amendments__ 
 
@@ -87,9 +87,9 @@
 
     1996—Subsec. (a). [Pub. L. 104–201][/us/pl/104/201] inserted before period at end “and may accept from any foreign government or international organization any contribution of services made by such foreign government or international organization for use by the Department of Defense”.
 
-    1993—[Pub. L. 103–160, § 1105(b)(2)][/us/pl/103/160/s1105/b/2], inserted “; Defense Cooperation Account” in section catchline.
+    1993—[Pub. L. 103–160][/us/pl/103/160], § 1105(b)(2), inserted “; Defense Cooperation Account” in section catchline.
 
-    Subsec. (i). [Pub. L. 103–160, § 1105(b)(1)][/us/pl/103/160/s1105/b/1], substituted “Periodic Audits” for “Annual Audit” in heading and amended text generally. Prior to amendment, text read as follows: “The Comptroller General of the United States shall conduct an annual audit of money and property accepted by the Secretary of Defense under this section and shall submit a copy of the results of each such audit to Congress.”
+    Subsec. (i). [Pub. L. 103–160][/us/pl/103/160], § 1105(b)(1), substituted “Periodic Audits” for “Annual Audit” in heading and amended text generally. Prior to amendment, text read as follows: “The Comptroller General of the United States shall conduct an annual audit of money and property accepted by the Secretary of Defense under this section and shall submit a copy of the results of each such audit to Congress.”
 
     1991—Subsec. (g)(1). [Pub. L. 102–190][/us/pl/102/190] inserted “(1)” before “Upon request”.
 
@@ -101,20 +101,20 @@
 ----------
 
 [/us/usc/t10/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs114
-[/us/pl/101/403/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F403%2Fs202%2Fa%2F1
+[/us/pl/101/403/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F403%2FtII
 [/us/stat/104/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F872
-[/us/pl/102/190/s1061/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fa%2F16
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1473
-[/us/pl/103/160/s1105/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1105%2Fb%2F1
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1750
-[/us/pl/104/201/s1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1063
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2652
-[/us/pl/112/81/s1064/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1064%2F7
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1587
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/103/160/s1105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1105%2Fb%2F2
-[/us/pl/103/160/s1105/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1105%2Fb%2F1
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 
 

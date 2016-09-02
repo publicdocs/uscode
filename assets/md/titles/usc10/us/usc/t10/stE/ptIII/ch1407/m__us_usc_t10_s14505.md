@@ -17,7 +17,7 @@
 
     Unless retained as provided in section 12646 or 12686 of this title, a captain on the reserve active-status list of the Army, Air Force, or Marine Corps or a lieutenant on the reserve active-status list of the Navy who has failed of selection for promotion to the next higher grade for the second time and whose name is not on a list of officers recommended for promotion to the next higher grade and who has not been selected for continuation on the reserve active-status list under [section 14701 of this title][/us/usc/t10/s14701], shall be separated in accordance with [section 14513 of this title][/us/usc/t10/s14513] not later than the first day of the seventh month after the month in which the President approves the report of the board which considered the officer for the second time.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2950][/us/stat/108/2950].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2950][/us/stat/108/2950].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t10/s14701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14701
 [/us/usc/t10/s14513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14513
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2950
 
 

@@ -31,11 +31,11 @@
 
     The Comptroller General of the United States shall make periodic audits of money and property accepted under this section, at such intervals as the Comptroller General determines to be warranted. The Comptroller General shall submit to Congress a report on the results of each such audit.
 
-(Added [Pub. L. 101–510, div. A, title XIV, § 1451(b)(1)][/us/pl/101/510/s1451/b/1], Nov. 5, 1990, [104 Stat. 1692][/us/stat/104/1692]; amended [Pub. L. 103–160, div. A, title XI, § 1105(a)][/us/pl/103/160/s1105/a], Nov. 30, 1993, [107 Stat. 1749][/us/stat/107/1749]; [Pub. L. 106–65, div. A, title X, § 1032(a)(3)][/us/pl/106/65/s1032/a/3], Oct. 5, 1999, [113 Stat. 751][/us/stat/113/751].)
+(Added [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1451(b)(1), Nov. 5, 1990, [104 Stat. 1692][/us/stat/104/1692]; amended [Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1105(a), Nov. 30, 1993, [107 Stat. 1749][/us/stat/107/1749]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1032(a)(3), Oct. 5, 1999, [113 Stat. 751][/us/stat/113/751].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [Pub. L. 101–165, title IX, § 9008][/us/pl/101/165/s9008], Nov. 21, 1989, [103 Stat. 1130][/us/stat/103/1130], which was set out as a note under [section 2341 of this title][/us/usc/t10/s2341], prior to repeal by [Pub. L. 101–510, § 1451(c)][/us/pl/101/510/s1451/c].
+    Provisions similar to those in this section were contained in [Pub. L. 101–165, title IX][/us/pl/101/165/tIX], § 9008, Nov. 21, 1989, [103 Stat. 1130][/us/stat/103/1130], which was set out as a note under [section 2341 of this title][/us/usc/t10/s2341], prior to repeal by [Pub. L. 101–510][/us/pl/101/510], § 1451(c).
 
  __Amendments__ 
 
@@ -58,16 +58,16 @@
 ----------
 ----------
 
-[/us/pl/101/510/s1451/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1451%2Fb%2F1
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1692
-[/us/pl/103/160/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1105%2Fa
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1749
-[/us/pl/106/65/s1032/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1032%2Fa%2F3
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F751
-[/us/pl/101/165/s9008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2Fs9008
+[/us/pl/101/165/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2FtIX
 [/us/stat/103/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1130
 [/us/usc/t10/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2341
-[/us/pl/101/510/s1451/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1451%2Fc
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 

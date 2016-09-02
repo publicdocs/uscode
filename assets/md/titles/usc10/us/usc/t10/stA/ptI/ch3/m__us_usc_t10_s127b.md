@@ -105,15 +105,15 @@
 
         (3) A justification for the designation of the country for purposes of this section.
 
-(Added [Pub. L. 107–314, div. A, title X, § 1065(a)][/us/pl/107/314/s1065/a], Dec. 2, 2002, [116 Stat. 2655][/us/stat/116/2655]; amended [Pub. L. 109–163, div. A, title X, § 1056(c)(2)][/us/pl/109/163/s1056/c/2], Jan. 6, 2006, [119 Stat. 3439][/us/stat/119/3439]; [Pub. L. 109–364, div. A, title XIV, § 1401][/us/pl/109/364/s1401], Oct. 17, 2006, [120 Stat. 2433][/us/stat/120/2433]; [Pub. L. 110–181, div. A, title X, § 1033][/us/pl/110/181/s1033], Jan. 28, 2008, [122 Stat. 307][/us/stat/122/307]; [Pub. L. 111–84, div. A, title X, § 1071][/us/pl/111/84/s1071], Oct. 28, 2009, [123 Stat. 2470][/us/stat/123/2470]; [Pub. L. 111–383, div. A, title X, § 1031][/us/pl/111/383/s1031], Jan. 7, 2011, [124 Stat. 4351][/us/stat/124/4351]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81], §§ 1033, 1064(3), Dec. 31, 2011, [125 Stat. 1572][/us/stat/125/1572], 1587; [Pub. L. 112–239, div. A, title X, § 1021(a)][/us/pl/112/239/s1021/a], Jan. 2, 2013, [126 Stat. 1911][/us/stat/126/1911]; [Pub. L. 113–291, div. A, title X, § 1031][/us/pl/113/291/s1031], Dec. 19, 2014, [128 Stat. 3491][/us/stat/128/3491]; [Pub. L. 114–92, div. A, title X, § 1042(a)][/us/pl/114/92/s1042/a]–(d)(1), Nov. 25, 2015, [129 Stat. 976][/us/stat/129/976].)
+(Added [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1065(a), Dec. 2, 2002, [116 Stat. 2655][/us/stat/116/2655]; amended [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1056(c)(2), Jan. 6, 2006, [119 Stat. 3439][/us/stat/119/3439]; [Pub. L. 109–364, div. A, title XIV][/us/pl/109/364/dA/tXIV], § 1401, Oct. 17, 2006, [120 Stat. 2433][/us/stat/120/2433]; [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1033, Jan. 28, 2008, [122 Stat. 307][/us/stat/122/307]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1071, Oct. 28, 2009, [123 Stat. 2470][/us/stat/123/2470]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1031, Jan. 7, 2011, [124 Stat. 4351][/us/stat/124/4351]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], §§ 1033, 1064(3), Dec. 31, 2011, [125 Stat. 1572][/us/stat/125/1572], 1587; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1021(a), Jan. 2, 2013, [126 Stat. 1911][/us/stat/126/1911]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1031, Dec. 19, 2014, [128 Stat. 3491][/us/stat/128/3491]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1042(a)–(d)(1), Nov. 25, 2015, [129 Stat. 976][/us/stat/129/976].)
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–92, § 1042(d)(1)][/us/pl/114/92/s1042/d/1], substituted “Department of Defense rewards program” for “Assistance in combating terrorism: rewards” in section catchline.
+    2015—[Pub. L. 114–92][/us/pl/114/92], § 1042(d)(1), substituted “Department of Defense rewards program” for “Assistance in combating terrorism: rewards” in section catchline.
 
-    Subsec. (c)(3)(A). [Pub. L. 114–92, § 1042(a)(1)][/us/pl/114/92/s1042/a/1], substituted “subparagraph (B)” for “subparagraphs (B) and (C)”.
+    Subsec. (c)(3)(A). [Pub. L. 114–92][/us/pl/114/92], § 1042(a)(1), substituted “subparagraph (B)” for “subparagraphs (B) and (C)”.
 
-    Subsec. (c)(3)(C), (D). [Pub. L. 114–92, § 1042(a)(2)][/us/pl/114/92/s1042/a/2], struck out subpars. (C) and (D) which read as follows:
+    Subsec. (c)(3)(C), (D). [Pub. L. 114–92][/us/pl/114/92], § 1042(a)(2), struck out subpars. (C) and (D) which read as follows:
 
     “(C) Rewards may not be made in the manner described in subparagraph (A) after September 30, 2015.
 
@@ -125,43 +125,43 @@
 
     “(iii) assess the success of the reward in advancing the effort to combat terrorism.”
 
-    Subsec. (f)(2)(D) to (G). [Pub. L. 114–92, § 1042(b)][/us/pl/114/92/s1042/b], redesignated subpars. (E) to (G) as (D) to (F), respectively, inserted “, including in which countries the program is being operated” before period at end of subpar. (D), and struck out former subpar. (D) which read as follows: “Information on the implementation of paragraph (3) of subsection (c).”
+    Subsec. (f)(2)(D) to (G). [Pub. L. 114–92][/us/pl/114/92], § 1042(b), redesignated subpars. (E) to (G) as (D) to (F), respectively, inserted “, including in which countries the program is being operated” before period at end of subpar. (D), and struck out former subpar. (D) which read as follows: “Information on the implementation of paragraph (3) of subsection (c).”
 
-    Subsec. (h). [Pub. L. 114–92, § 1042(c)][/us/pl/114/92/s1042/c], added subsec. (h).
+    Subsec. (h). [Pub. L. 114–92][/us/pl/114/92], § 1042(c), added subsec. (h).
 
     2014—Subsec. (c)(3)(C). [Pub. L. 113–291][/us/pl/113/291] substituted “September 30, 2015” for “September 30, 2014”.
 
     2013—Subsec. (c)(3)(C). [Pub. L. 112–239][/us/pl/112/239] substituted “September 30, 2014” for “September 30, 2013”.
 
-    2011—Subsec. (c)(3)(C). [Pub. L. 112–81, § 1033(1)][/us/pl/112/81/s1033/1], substituted “September 30, 2013” for “September 30, 2011”.
+    2011—Subsec. (c)(3)(C). [Pub. L. 112–81][/us/pl/112/81], § 1033(1), substituted “September 30, 2013” for “September 30, 2011”.
 
     [Pub. L. 111–383][/us/pl/111/383] substituted “2011” for “2010”.
 
-    Subsec. (f)(1). [Pub. L. 112–81, § 1064(3)][/us/pl/112/81/s1064/3], which directed the substitution of “February 1” for “December 1”, could not be executed because of the intervening amendment by [Pub. L. 112–81, § 1033(2)(A)][/us/pl/112/81/s1033/2/A]. See note below.
+    Subsec. (f)(1). [Pub. L. 112–81][/us/pl/112/81], § 1064(3), which directed the substitution of “February 1” for “December 1”, could not be executed because of the intervening amendment by [Pub. L. 112–81][/us/pl/112/81], § 1033(2)(A). See note below.
 
-    [Pub. L. 112–81, § 1033(2)(A)][/us/pl/112/81/s1033/2/A], substituted “February” for “December”.
+    [Pub. L. 112–81][/us/pl/112/81], § 1033(2)(A), substituted “February” for “December”.
 
-    Subsec. (f)(2)(C)(ii). [Pub. L. 112–81, § 1033(2)(B)(i)][/us/pl/112/81/s1033/2/B/i], inserted “and the recipient’s geographic location” after “reward”.
+    Subsec. (f)(2)(C)(ii). [Pub. L. 112–81][/us/pl/112/81], § 1033(2)(B)(i), inserted “and the recipient’s geographic location” after “reward”.
 
-    Subsec. (f)(2)(E) to (G). [Pub. L. 112–81, § 1033(2)(B)(ii)][/us/pl/112/81/s1033/2/B/ii], added subpars. (E) to (G).
+    Subsec. (f)(2)(E) to (G). [Pub. L. 112–81][/us/pl/112/81], § 1033(2)(B)(ii), added subpars. (E) to (G).
 
     2009—Subsec. (c)(3)(C). [Pub. L. 111–84][/us/pl/111/84] substituted “2010” for “2009”.
 
-    2008—Subsec. (a). [Pub. L. 110–181, § 1033(b)(1)(A)][/us/pl/110/181/s1033/b/1/A], in introductory provisions, inserted “, or government personnel of allied forces participating in a combined operation with the armed forces,” after “United States Government personnel”.
+    2008—Subsec. (a). [Pub. L. 110–181][/us/pl/110/181], § 1033(b)(1)(A), in introductory provisions, inserted “, or government personnel of allied forces participating in a combined operation with the armed forces,” after “United States Government personnel”.
 
-    Subsec. (a)(1). [Pub. L. 110–181, § 1033(b)(1)(B)][/us/pl/110/181/s1033/b/1/B], inserted “, or of allied forces participating in a combined operation with the armed forces,” after “armed forces”.
+    Subsec. (a)(1). [Pub. L. 110–181][/us/pl/110/181], § 1033(b)(1)(B), inserted “, or of allied forces participating in a combined operation with the armed forces,” after “armed forces”.
 
-    Subsec. (a)(2). [Pub. L. 110–181, § 1033(b)(1)(C)][/us/pl/110/181/s1033/b/1/C], inserted “, or of allied forces participating in a combined operation with the armed forces” after “armed forces”.
+    Subsec. (a)(2). [Pub. L. 110–181][/us/pl/110/181], § 1033(b)(1)(C), inserted “, or of allied forces participating in a combined operation with the armed forces” after “armed forces”.
 
-    Subsec. (b). [Pub. L. 110–181, § 1033(a)(1)][/us/pl/110/181/s1033/a/1], substituted “$5,000,000” for “$200,000”.
+    Subsec. (b). [Pub. L. 110–181][/us/pl/110/181], § 1033(a)(1), substituted “$5,000,000” for “$200,000”.
 
-    Subsec. (c)(1)(B). [Pub. L. 110–181, § 1033(a)(2)][/us/pl/110/181/s1033/a/2], substituted “$1,000,000” for “$50,000”.
+    Subsec. (c)(1)(B). [Pub. L. 110–181][/us/pl/110/181], § 1033(a)(2), substituted “$1,000,000” for “$50,000”.
 
-    Subsec. (c)(3). [Pub. L. 110–181, § 1033(b)(2)][/us/pl/110/181/s1033/b/2], added par. (3).
+    Subsec. (c)(3). [Pub. L. 110–181][/us/pl/110/181], § 1033(b)(2), added par. (3).
 
-    Subsec. (d)(2). [Pub. L. 110–181, § 1033(a)(3)][/us/pl/110/181/s1033/a/3], substituted “$2,000,000” for “$100,000”.
+    Subsec. (d)(2). [Pub. L. 110–181][/us/pl/110/181], § 1033(a)(3), substituted “$2,000,000” for “$100,000”.
 
-    Subsec. (f)(2)(D). [Pub. L. 110–181, § 1033(c)][/us/pl/110/181/s1033/c], added subpar. (D).
+    Subsec. (f)(2)(D). [Pub. L. 110–181][/us/pl/110/181], § 1033(c), added subpar. (D).
 
     2006—Subsec. (c)(2). [Pub. L. 109–364][/us/pl/109/364] substituted “$10,000” for “$2,500”, inserted “, or to the commander of a command directly subordinate to that commander,” after “deputy commander”, and inserted at end “Such a delegation may be made to the commander of a command directly subordinate to the commander of a combatant command only with the approval of the Secretary of Defense, the Deputy Secretary of Defense, or an Under Secretary of Defense to whom authority has been delegated under subparagraph (1)(A).”
 
@@ -174,49 +174,49 @@
 ----------
 ----------
 
-[/us/pl/107/314/s1065/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1065%2Fa
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2655
-[/us/pl/109/163/s1056/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1056%2Fc%2F2
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3439
-[/us/pl/109/364/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1401
+[/us/pl/109/364/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtXIV
 [/us/stat/120/2433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2433
-[/us/pl/110/181/s1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1033
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F307
-[/us/pl/111/84/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1071
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2470
-[/us/pl/111/383/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1031
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4351
-[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1572
-[/us/pl/112/239/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1021%2Fa
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1911
-[/us/pl/113/291/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1031
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3491
-[/us/pl/114/92/s1042/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1042%2Fa
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F976
-[/us/pl/114/92/s1042/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1042%2Fd%2F1
-[/us/pl/114/92/s1042/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1042%2Fa%2F1
-[/us/pl/114/92/s1042/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1042%2Fa%2F2
-[/us/pl/114/92/s1042/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1042%2Fb
-[/us/pl/114/92/s1042/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1042%2Fc
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/112/81/s1033/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1033%2F1
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/112/81/s1064/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1064%2F3
-[/us/pl/112/81/s1033/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1033%2F2%2FA
-[/us/pl/112/81/s1033/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1033%2F2%2FA
-[/us/pl/112/81/s1033/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1033%2F2%2FB%2Fi
-[/us/pl/112/81/s1033/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1033%2F2%2FB%2Fii
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/110/181/s1033/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1033%2Fb%2F1%2FA
-[/us/pl/110/181/s1033/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1033%2Fb%2F1%2FB
-[/us/pl/110/181/s1033/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1033%2Fb%2F1%2FC
-[/us/pl/110/181/s1033/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1033%2Fa%2F1
-[/us/pl/110/181/s1033/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1033%2Fa%2F2
-[/us/pl/110/181/s1033/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1033%2Fb%2F2
-[/us/pl/110/181/s1033/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1033%2Fa%2F3
-[/us/pl/110/181/s1033/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1033%2Fc
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 

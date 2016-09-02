@@ -45,7 +45,7 @@
 
     The Secretary of Defense shall prescribe guidance, which shall be uniform for the military departments, for the conduct of reviews by the Secretary under subsection (a).
 
-(Added [Pub. L. 108–136, div. A, title V, § 576(c)(1)][/us/pl/108/136/s576/c/1], Nov. 24, 2003, [117 Stat. 1488][/us/stat/117/1488].)
+(Added [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 576(c)(1), Nov. 24, 2003, [117 Stat. 1488][/us/stat/117/1488].)
 
  __Effective Date__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/108/136/s576/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs576%2Fc%2F1
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1488
 [/us/pl/108/136/s576/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs576%2Fd
 [/us/usc/t10/s4061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4061

@@ -17,7 +17,7 @@
 
     The purpose of this chapter is to create and maintain high morale in the uniformed services by providing an improved and uniform program of medical and dental care for members and certain former members of those services, and for their dependents.
 
-(Added [Pub. L. 85–861, § 1(25)(B)][/us/pl/85/861/s1/25/B], Sept. 2, 1958, [72 Stat. 1445][/us/stat/72/1445]; amended [Pub. L. 89–614, § 2(1)][/us/pl/89/614/s2/1], Sept. 30, 1966, [80 Stat. 862][/us/stat/80/862]; [Pub. L. 96–513, title V, § 511(34)(A)][/us/pl/96/513/s511/34/A], (B), Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(25)(B), Sept. 2, 1958, [72 Stat. 1445][/us/stat/72/1445]; amended [Pub. L. 89–614][/us/pl/89/614], § 2(1), Sept. 30, 1966, [80 Stat. 862][/us/stat/80/862]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(34)(A), (B), Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922].)
 
 <table>
 
@@ -67,7 +67,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Prior Provisions__ 
 
-    A prior section 1071, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 81][/us/stat/70A/81], which stated the purpose of former sections 1071 to 1086 of this title, and provided for their construction, was repealed by [Pub. L. 85–861, § 36B(5)][/us/pl/85/861/s36B/5], Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570], as superseded by the Federal Voting Assistance Act of 1955 which was classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to repeal by [Pub. L. 99–410, title II, § 203][/us/pl/99/410/s203], Aug. 28, 1986, [100 Stat. 930][/us/stat/100/930].
+    A prior section 1071, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 81][/us/stat/70A/81], which stated the purpose of former sections 1071 to 1086 of this title, and provided for their construction, was repealed by [Pub. L. 85–861][/us/pl/85/861], § 36B(5), Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570], as superseded by the Federal Voting Assistance Act of 1955 which was classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to repeal by [Pub. L. 99–410, title II][/us/pl/99/410/tII], § 203, Aug. 28, 1986, [100 Stat. 930][/us/stat/100/930].
 
  __Amendments__ 
 
@@ -81,31 +81,31 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Effective Date of 1966 Amendment__ 
 
-[Pub. L. 89–614, § 3][/us/pl/89/614/s3], Sept. 30, 1966, [80 Stat. 866][/us/stat/80/866], provided that: 
+[Pub. L. 89–614][/us/pl/89/614], § 3, Sept. 30, 1966, [80 Stat. 866][/us/stat/80/866], provided that: 
 
 > “The amendments made by this Act \[see Short Title of 1966 Amendment note below\] shall become effective January 1, 1967, except that those amendments relating to outpatient care in civilian facilities for spouses and children of members of the uniformed services who are on active duty for a period of more than 30 days shall become effective on October 1, 1966.”
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–181, div. A, title XVI, § 1601][/us/pl/110/181/s1601], Jan. 28, 2008, [122 Stat. 431][/us/stat/122/431], provided that: 
+[Pub. L. 110–181, div. A, title XVI][/us/pl/110/181/dA/tXVI], § 1601, Jan. 28, 2008, [122 Stat. 431][/us/stat/122/431], provided that: 
 
 > “This title \[enacting sections 1074l, 1216a, and 1554a of this title, amending sections 1074, 1074f, 1074i, 1145, 1201, 1203, 1212, and 1599c of this title and [section 6333 of Title 5][/us/usc/t5/s6333], Government Organization and Employees, and enacting provisions set out as notes under this section, sections 1074, 1074f, 1074i, 1074l, 1212, and 1554a of this title, and [section 6333 of Title 5][/us/usc/t5/s6333]\] may be cited as the ‘Wounded Warrior Act’.”
 
  __Short Title of 1987 Amendment__ 
 
-[Pub. L. 100–180, div. A, title VII, § 701][/us/pl/100/180/s701], Dec. 4, 1987, [101 Stat. 1108][/us/stat/101/1108], provided that: 
+[Pub. L. 100–180, div. A, title VII][/us/pl/100/180/dA/tVII], § 701, Dec. 4, 1987, [101 Stat. 1108][/us/stat/101/1108], provided that: 
 
 > “This title \[enacting sections 1103, 2128 to 2130 \[now 16201 to 16203\], and 6392 of this title, amending sections 533, 591, 1079, 1086, 1251, 2120, 2122, 2123, 2124, 2127, 2172 \[now 16302\], 3353, 3855, 5600, 8353, and 8855 of this title, [section 302 of Title 37][/us/usc/t37/s302], Pay and Allowances of the Uniformed Services, and [section 3809 of Title 50][/us/usc/t50/s3809], War and National Defense, enacting provisions set out as notes under sections 1073, 1074, 1079, 1092, 1103, 2121, 2124, 12201, and 16201 of this title, amending provisions set out as notes under sections 1073 and 1101 of this title, and repealing provisions set out as notes under sections 2121 and 2124 of this title\] may be cited as the ‘Military Health Care Amendments of 1987’.”
 
  __Short Title of 1966 Amendment__ 
 
-[Pub. L. 89–614, § 1][/us/pl/89/614/s1], Sept. 30, 1966, [80 Stat. 862][/us/stat/80/862], provided: 
+[Pub. L. 89–614][/us/pl/89/614], § 1, Sept. 30, 1966, [80 Stat. 862][/us/stat/80/862], provided: 
 
 > “That this Act \[enacting sections 1086 and 1087 of this title, amending this section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Military Medical Benefits Amendments of 1966’.”
 
  __Coordination With Non-Government Suicide Prevention Organizations and Agencies To Assist in Reducing Suicides by Members of the Armed Forces__ 
 
-[Pub. L. 114–92, div. A, title V, § 591][/us/pl/114/92/s591], Nov. 25, 2015, [129 Stat. 832][/us/stat/129/832], provided that:
+[Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 591, Nov. 25, 2015, [129 Stat. 832][/us/stat/129/832], provided that:
 
 >     “(a)  __Development of Policy__  __.—__ 
 
@@ -125,7 +125,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Provision of Information to Members of the Armed Forces on Privacy Rights Relating to Receipt of Mental Health Services__ 
 
-[Pub. L. 113–291, div. A, title V, § 523][/us/pl/113/291/s523], Dec. 19, 2014, [128 Stat. 3361][/us/stat/128/3361], provided that:
+[Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 523, Dec. 19, 2014, [128 Stat. 3361][/us/stat/128/3361], provided that:
 
 >     “(a)  __Provision of Information Required__  __.—__ 
 
@@ -143,7 +143,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Improved Consistency in Data Collection and Reporting in Armed Forces Suicide Prevention Efforts__ 
 
-[Pub. L. 113–291, div. A, title V, § 567][/us/pl/113/291/s567], Dec. 19, 2014, [128 Stat. 3385][/us/stat/128/3385], provided that:
+[Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 567, Dec. 19, 2014, [128 Stat. 3385][/us/stat/128/3385], provided that:
 
 >     “(a) __Policy for Standard Suicide Data Collection, Reporting, and Assessment.—__ 
 
@@ -183,7 +183,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Antimicrobial Stewardship Program at Medical Facilities of the Department of Defense__ 
 
-[Pub. L. 113–291, div. A, title VII, § 727][/us/pl/113/291/s727], Dec. 19, 2014, [128 Stat. 3420][/us/stat/128/3420], provided that:
+[Pub. L. 113–291, div. A, title VII][/us/pl/113/291/dA/tVII], § 727, Dec. 19, 2014, [128 Stat. 3420][/us/stat/128/3420], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -199,7 +199,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Comprehensive Policy on Improvements to Care and Transition of Members of the Armed Forces With Urotrauma__ 
 
-[Pub. L. 113–66, div. A, title VII, § 703][/us/pl/113/66/s703], Dec. 26, 2013, [127 Stat. 791][/us/stat/127/791], provided that:
+[Pub. L. 113–66, div. A, title VII][/us/pl/113/66/dA/tVII], § 703, Dec. 26, 2013, [127 Stat. 791][/us/stat/127/791], provided that:
 
 >     “(a) __Comprehensive Policy Required.—__ 
 
@@ -237,7 +237,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Electronic Health Records of the Department of Defense and the Department of Veterans Affairs__ 
 
-[Pub. L. 113–66, div. A, title VII, § 713][/us/pl/113/66/s713], Dec. 26, 2013, [127 Stat. 794][/us/stat/127/794], provided that:
+[Pub. L. 113–66, div. A, title VII][/us/pl/113/66/dA/tVII], § 713, Dec. 26, 2013, [127 Stat. 794][/us/stat/127/794], provided that:
 
 >     “(a)  __Sense of Congress__  __.—__ 
 
@@ -407,7 +407,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Enhancement of Oversight and Management of Department of Defense Suicide Prevention and Resilience Programs__ 
 
-[Pub. L. 112–239, div. A, title V, § 580][/us/pl/112/239/s580], Jan. 2, 2013, [126 Stat. 1764][/us/stat/126/1764], provided that:
+[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 580, Jan. 2, 2013, [126 Stat. 1764][/us/stat/126/1764], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -423,7 +423,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Comprehensive Policy on Prevention of Suicide Among Members of the Armed Forces__ 
 
-[Pub. L. 112–239, div. A, title V, § 582][/us/pl/112/239/s582], Jan. 2, 2013, [126 Stat. 1766][/us/stat/126/1766], provided that:
+[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 582, Jan. 2, 2013, [126 Stat. 1766][/us/stat/126/1766], provided that:
 
 >     “(a)  __Comprehensive Policy Required__  __.—__ 
 
@@ -459,7 +459,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Research and Medical Practice on Mental Health Conditions__ 
 
-[Pub. L. 112–239, div. A, title VII, § 725][/us/pl/112/239/s725], Jan. 2, 2013, [126 Stat. 1806][/us/stat/126/1806], provided that:
+[Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 725, Jan. 2, 2013, [126 Stat. 1806][/us/stat/126/1806], provided that:
 
 >     “(a)  __Research and Practice__  __.—__ 
 
@@ -477,7 +477,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Plan for Reform of the Administration of the Military Health System__ 
 
-[Pub. L. 112–239, div. A, title VII, § 731][/us/pl/112/239/s731], Jan. 2, 2013, [126 Stat. 1815][/us/stat/126/1815], provided that:
+[Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 731, Jan. 2, 2013, [126 Stat. 1815][/us/stat/126/1815], provided that:
 
 >     “(a)  __Detailed Plan__  __.—__ 
 
@@ -559,7 +559,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Performance Metrics and Reports on Warriors in Transition Programs of the Military Departments__ 
 
-[Pub. L. 112–239, div. A, title VII, § 738][/us/pl/112/239/s738], Jan. 2, 2013, [126 Stat. 1820][/us/stat/126/1820], provided that:
+[Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 738, Jan. 2, 2013, [126 Stat. 1820][/us/stat/126/1820], provided that:
 
 >     “(a)  __Metrics Required__  __.—__ 
 
@@ -637,7 +637,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Department of Defense Suicide Prevention Program__ 
 
-[Pub. L. 112–81, div. A, title V, § 533(a)][/us/pl/112/81/s533/a], (b), Dec. 31, 2011, [125 Stat. 1404][/us/stat/125/1404], provided that:
+[Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 533(a), (b), Dec. 31, 2011, [125 Stat. 1404][/us/stat/125/1404], provided that:
 
 >     “(a)  __Program Enhancement__  __.—__ 
 
@@ -653,13 +653,13 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Treatment of Wounded Warriors__ 
 
-[Pub. L. 112–81, div. A, title VII, § 722][/us/pl/112/81/s722], Dec. 31, 2011, [125 Stat. 1479][/us/stat/125/1479], provided that: 
+[Pub. L. 112–81, div. A, title VII][/us/pl/112/81/dA/tVII], § 722, Dec. 31, 2011, [125 Stat. 1479][/us/stat/125/1479], provided that: 
 
 > “The Secretary of Defense may establish a program to enter into partnerships to enable coordinated, rapid clinical evaluation and the application of evidence-based treatment strategies for wounded service members, with an emphasis on the most common musculoskeletal injuries, that will address the priorities of the Armed Forces with respect to retention and readiness.”
 
  __Comprehensive Plan on Prevention, Diagnosis, and Treatment of Substance Use Disorders and Disposition of Substance Abuse Offenders in the Armed Forces__ 
 
-[Pub. L. 111–84, div. A, title V, § 596][/us/pl/111/84/s596], Oct. 28, 2009, [123 Stat. 2339][/us/stat/123/2339], provided that:
+[Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 596, Oct. 28, 2009, [123 Stat. 2339][/us/stat/123/2339], provided that:
 
 >     “(a) __Review and Assessment of Current Capabilities.—__ 
 
@@ -841,7 +841,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Comprehensive Policy on Pain Management by the Military Health Care System__ 
 
-[Pub. L. 111–84, div. A, title VII, § 711][/us/pl/111/84/s711], Oct. 28, 2009, [123 Stat. 2378][/us/stat/123/2378], provided that:
+[Pub. L. 111–84, div. A, title VII][/us/pl/111/84/dA/tVII], § 711, Oct. 28, 2009, [123 Stat. 2378][/us/stat/123/2378], provided that:
 
 >     “(a)  __Comprehensive Policy Required__  __.—__ 
 
@@ -895,7 +895,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Plan To Increase the Mental Health Capabilities of the Department of Defense__ 
 
-[Pub. L. 111–84, div. A, title VII, § 714][/us/pl/111/84/s714], Oct. 28, 2009, [123 Stat. 2381][/us/stat/123/2381], as amended by [Pub. L. 111–383, div. A, title X, § 1075(d)(8)][/us/pl/111/383/s1075/d/8], Jan. 7, 2011, [124 Stat. 4373][/us/stat/124/4373], provided that:
+[Pub. L. 111–84, div. A, title VII][/us/pl/111/84/dA/tVII], § 714, Oct. 28, 2009, [123 Stat. 2381][/us/stat/123/2381], as amended by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(d)(8), Jan. 7, 2011, [124 Stat. 4373][/us/stat/124/4373], provided that:
 
 >     “(a)  __Increased Authorizations__  __.—__ 
 
@@ -965,7 +965,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Study and Plan To Improve Military Health Care__ 
 
-[Pub. L. 111–84, div. A, title VII, § 721][/us/pl/111/84/s721], Oct. 28, 2009, [123 Stat. 2385][/us/stat/123/2385], provided that:
+[Pub. L. 111–84, div. A, title VII][/us/pl/111/84/dA/tVII], § 721, Oct. 28, 2009, [123 Stat. 2385][/us/stat/123/2385], provided that:
 
 >     “(a)  __Study and Report Required__  __.—__ 
 
@@ -1179,7 +1179,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Wounded Warrior Health Care Improvements__ 
 
-[Pub. L. 110–181, div. A, title XVI][/us/pl/110/181], §§ 1602, 1603, 1611–1614, 1616, 1618, 1621–1623, 1631, 1635, 1644, 1648, 1651, 1662, 1671, 1672, 1676, Jan. 28, 2008, [122 Stat. 431–443][/us/stat/122/431-443], 447, 450–455, 458, 460, 467, 473, 476, 479, 481, 484, as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 252, title VII, §§ 722, 724, title X, § 1061(b)(13), Oct. 14, 2008, [122 Stat. 4400][/us/stat/122/4400], 4508, 4509, 4613; [Pub. L. 111–84, div. A, title VI, § 632(h)][/us/pl/111/84/s632/h], Oct. 28, 2009, [123 Stat. 2362][/us/stat/123/2362]; [Pub. L. 112–56, title II, § 231][/us/pl/112/56/s231], Nov. 21, 2011, [125 Stat. 719][/us/stat/125/719]; [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B)][/us/pl/112/81/s631/f/4/B], title VII, § 707, Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465], 1474; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948]; [Pub. L. 113–175, title I, § 105][/us/pl/113/175/s105], Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903]; [Pub. L. 113–291, div. A, title V, § 591][/us/pl/113/291/s591], title VII, § 724, Dec. 19, 2014, [128 Stat. 3394][/us/stat/128/3394], 3418; [Pub. L. 114–58, title II, § 204][/us/pl/114/58/s204], title IV, § 411, Sept. 30, 2015, [129 Stat. 533][/us/stat/129/533], 536; [Pub. L. 114–92, div. A, title X, § 1072(e)][/us/pl/114/92/s1072/e], (f), Nov. 25, 2015, [129 Stat. 995][/us/stat/129/995], provided that:
+[Pub. L. 110–181, div. A, title XVI][/us/pl/110/181/dA/tXVI], §§ 1602, 1603, 1611–1614, 1616, 1618, 1621–1623, 1631, 1635, 1644, 1648, 1651, 1662, 1671, 1672, 1676, Jan. 28, 2008, [122 Stat. 431–443][/us/stat/122/431-443], 447, 450–455, 458, 460, 467, 473, 476, 479, 481, 484, as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 252, title VII, §§ 722, 724, title X, § 1061(b)(13), Oct. 14, 2008, [122 Stat. 4400][/us/stat/122/4400], 4508, 4509, 4613; [Pub. L. 111–84, div. A, title VI][/us/pl/111/84/dA/tVI], § 632(h), Oct. 28, 2009, [123 Stat. 2362][/us/stat/123/2362]; [Pub. L. 112–56, title II][/us/pl/112/56/tII], § 231, Nov. 21, 2011, [125 Stat. 719][/us/stat/125/719]; [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(f)(4)(B), title VII, § 707, Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465], 1474; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(9), Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948]; [Pub. L. 113–175, title I][/us/pl/113/175/tI], § 105, Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903]; [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 591, title VII, § 724, Dec. 19, 2014, [128 Stat. 3394][/us/stat/128/3394], 3418; [Pub. L. 114–58, title II][/us/pl/114/58/tII], § 204, title IV, § 411, Sept. 30, 2015, [129 Stat. 533][/us/stat/129/533], 536; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1072(e), (f), Nov. 25, 2015, [129 Stat. 995][/us/stat/129/995], provided that:
 
 > “SEC. 1602. __GENERAL DEFINITIONS.__ 
 
@@ -1231,7 +1231,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(9) __TRICARE__  __program__  __.—__ 
 
->     The term ‘TRICARE program’ has the meaning given that term in [section 1072(7) of title 10][/us/usc/t10/s1072/7], United States Code. \[As amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(13), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613]; [Pub. L. 111–84, div. A, title VI, § 632(h)][/us/pl/111/84/s632/h], Oct. 28, 2009, [123 Stat. 2362][/us/stat/123/2362].\]
+>     The term ‘TRICARE program’ has the meaning given that term in [section 1072(7) of title 10][/us/usc/t10/s1072/7], United States Code. \[As amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(13), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613]; [Pub. L. 111–84, div. A, title VI][/us/pl/111/84/dA/tVI], § 632(h), Oct. 28, 2009, [123 Stat. 2362][/us/stat/123/2362].\]
 
 > “SEC. 1603. __CONSIDERATION OF GENDER-SPECIFIC NEEDS OF RECOVERING SERVICE MEMBERS AND VETERANS.__ 
 
@@ -2507,7 +2507,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Disease and Chronic Care Management__ 
 
-[Pub. L. 109–364, div. A, title VII, § 734][/us/pl/109/364/s734], Oct. 17, 2006, [120 Stat. 2299][/us/stat/120/2299], provided that:
+[Pub. L. 109–364, div. A, title VII][/us/pl/109/364/dA/tVII], § 734, Oct. 17, 2006, [120 Stat. 2299][/us/stat/120/2299], provided that:
 
 >     “(a)  __Program Design and Development Required__  __.—__ 
 
@@ -2589,7 +2589,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Prevention, Mitigation, and Treatment of Blast Injuries__ 
 
-[Pub. L. 109–163, div. A, title II, § 256][/us/pl/109/163/s256], Jan. 6, 2006, [119 Stat. 3181][/us/stat/119/3181], as amended by [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(C)][/us/pl/112/239/s1076/c/2/C], Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], provided that:
+[Pub. L. 109–163, div. A, title II][/us/pl/109/163/dA/tII], § 256, Jan. 6, 2006, [119 Stat. 3181][/us/stat/119/3181], as amended by [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(c)(2)(C), Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], provided that:
 
 >     “(a)  __Designation of Executive Agent__  __.—__ 
 
@@ -2709,7 +2709,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Access to Health Care Services for Beneficiaries Eligible for TRICARE and Department of Veterans Affairs Health Care__ 
 
-[Pub. L. 107–314, div. A, title VII, § 708][/us/pl/107/314/s708], Dec. 2, 2002, [116 Stat. 2585][/us/stat/116/2585], provided that:
+[Pub. L. 107–314, div. A, title VII][/us/pl/107/314/dA/tVII], § 708, Dec. 2, 2002, [116 Stat. 2585][/us/stat/116/2585], provided that:
 
 >     “(a)  __Requirement To Establish Process__  __.—__ 
 
@@ -2755,15 +2755,15 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Pilot Program Providing for Department of Veterans Affairs Support in the Performance of Separation Physical Examinations__ 
 
-    [Pub. L. 107–107, div. A, title VII, § 734][/us/pl/107/107/s734], Dec. 28, 2001, [115 Stat. 1170][/us/stat/115/1170], authorized the Secretary of Defense and the Secretary of Veterans Affairs to jointly carry out a pilot program, to begin not later than July 1, 2002, and terminate on Dec. 31, 2005, under which the Secretary of Veterans Affairs, in one or more geographic areas, could perform the physical examinations required for separation of members from the uniformed services, and directed the Secretaries to jointly submit to Congress interim and final reports not later than Mar. 1, 2005.
+    [Pub. L. 107–107, div. A, title VII][/us/pl/107/107/dA/tVII], § 734, Dec. 28, 2001, [115 Stat. 1170][/us/stat/115/1170], authorized the Secretary of Defense and the Secretary of Veterans Affairs to jointly carry out a pilot program, to begin not later than July 1, 2002, and terminate on Dec. 31, 2005, under which the Secretary of Veterans Affairs, in one or more geographic areas, could perform the physical examinations required for separation of members from the uniformed services, and directed the Secretaries to jointly submit to Congress interim and final reports not later than Mar. 1, 2005.
 
  __Health Care Management Demonstration Program__ 
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 733\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–191, as amended by [Pub. L. 107–107, div. A, title VII, § 737][/us/pl/107/107/s737], Dec. 28, 2001, [115 Stat. 1173][/us/stat/115/1173], directed the Secretary of Defense to carry out a demonstration program on health care management, to begin not later than 180 days after Oct. 30, 2000, and terminate on Dec. 31, 2003, to explore opportunities for improving the planning, programming, budgeting systems, and management of the Department of Defense health care system, and directed the Secretary to submit a report on such program to committees of Congress not later than Mar. 15, 2004.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 733\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–191, as amended by [Pub. L. 107–107, div. A, title VII][/us/pl/107/107/dA/tVII], § 737, Dec. 28, 2001, [115 Stat. 1173][/us/stat/115/1173], directed the Secretary of Defense to carry out a demonstration program on health care management, to begin not later than 180 days after Oct. 30, 2000, and terminate on Dec. 31, 2003, to explore opportunities for improving the planning, programming, budgeting systems, and management of the Department of Defense health care system, and directed the Secretary to submit a report on such program to committees of Congress not later than Mar. 15, 2004.
 
  __Processes for Patient Safety in Military and Veterans Health Care Systems__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 742\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–192, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 742\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–192, provided that:
 
 >     “(a)  __Error Tracking Process__  __.—__ 
 
@@ -2779,13 +2779,13 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Cooperation in Developing Pharmaceutical Identification Technology__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 743\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–192, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 743\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–192, provided that: 
 
 > “The Secretary of Defense and the Secretary of Veterans Affairs shall cooperate in developing systems for the use of bar codes for the identification of pharmaceuticals in the health care programs of the Department of Defense and the Department of Veterans Affairs. In any case in which a common pharmaceutical is used in such programs, the bar codes for those pharmaceuticals shall, to the maximum extent practicable, be identical.”
 
  __Patient Care Reporting and Management System__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 754\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–196, as amended by [Pub. L. 109–163, div. A, title VII, § 741][/us/pl/109/163/s741], Jan. 6, 2006, [119 Stat. 3360][/us/stat/119/3360], provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 754\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–196, as amended by [Pub. L. 109–163, div. A, title VII][/us/pl/109/163/dA/tVII], § 741, Jan. 6, 2006, [119 Stat. 3360][/us/stat/119/3360], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -2843,7 +2843,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Confidentiality of Communications With Professionals Providing Therapeutic or Related Services Regarding Sexual or Domestic Abuse__ 
 
-[Pub. L. 106–65, div. A, title V, § 585][/us/pl/106/65/s585], Oct. 5, 1999, [113 Stat. 636][/us/stat/113/636], provided that:
+[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 585, Oct. 5, 1999, [113 Stat. 636][/us/stat/113/636], provided that:
 
 >     “(a)  __Study and Report__  __.—__ 
 
@@ -2885,7 +2885,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Health Care Quality Information and Technology Enhancement__ 
 
-[Pub. L. 106–65, div. A, title VII, § 723][/us/pl/106/65/s723], Oct. 5, 1999, [113 Stat. 695][/us/stat/113/695], as amended by [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 753(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–195; [Pub. L. 109–163, div. A, title VII, § 742][/us/pl/109/163/s742], Jan. 6, 2006, [119 Stat. 3360][/us/stat/119/3360]; [Pub. L. 109–364, div. A, title X, § 1046(e)][/us/pl/109/364/s1046/e], Oct. 17, 2006, [120 Stat. 2394][/us/stat/120/2394]; [Pub. L. 112–81, div. A, title X, § 1062(j)(1)][/us/pl/112/81/s1062/j/1], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585], provided that:
+[Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 723, Oct. 5, 1999, [113 Stat. 695][/us/stat/113/695], as amended by [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 753(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–195; [Pub. L. 109–163, div. A, title VII][/us/pl/109/163/dA/tVII], § 742, Jan. 6, 2006, [119 Stat. 3360][/us/stat/119/3360]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1046(e), Oct. 17, 2006, [120 Stat. 2394][/us/stat/120/2394]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1062(j)(1), Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585], provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -2965,11 +2965,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Joint Department of Defense and Department of Veterans Affairs Reports Relating to Interdepartmental Cooperation in Delivery of Medical Care__ 
 
-    [Pub. L. 105–261, div. A, title VII, § 745][/us/pl/105/261/s745], Oct. 17, 1998, [112 Stat. 2075][/us/stat/112/2075], as amended by [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X, § 1031(g)(1)][/us/pl/108/136/s1031/g/1], Nov. 24, 2003, [117 Stat. 1604][/us/stat/117/1604], (1) directed the Secretary of Defense and the Secretary of Veterans Affairs to jointly conduct a survey of their respective medical care beneficiary populations to identify the expectations of, requirements for, and behavior patterns of the beneficiaries with respect to medical care, and to submit a report on the results of the survey to committees of Congress not later than Jan. 1, 2000; (2) directed the same Secretaries to jointly conduct a review to identify impediments to cooperation between the Department of Defense and the Department of Veterans Affairs regarding the delivery of medical care and to submit a report on the results of the review to committees of Congress not later than Mar. 1, 1999; (3) directed the Secretary of Defense to review the TRICARE program to identify opportunities for increased participation by the Department of Veterans Affairs in that program; (4) directed the Department of Defense-Department of Veterans Affairs Federal Pharmacy Executive Steering Committee to examine existing pharmaceutical benefits and programs for beneficiaries and review existing methods for contracting for and distributing medical supplies and services and to submit a report on the results of the examination to committees of Congress not later than 60 days after its completion; and (5) directed the Secretary of Defense and the Secretary of Veterans Affairs to jointly submit to committees of Congress a report, not later than Mar. 1, 1999, on the status of the efforts of the Department of Defense and the Department of Veterans Affairs to standardize physical examinations administered by the two departments for the purpose of determining or rating disabilities.
+    [Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 745, Oct. 17, 1998, [112 Stat. 2075][/us/stat/112/2075], as amended by [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(3), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(g)(1), Nov. 24, 2003, [117 Stat. 1604][/us/stat/117/1604], (1) directed the Secretary of Defense and the Secretary of Veterans Affairs to jointly conduct a survey of their respective medical care beneficiary populations to identify the expectations of, requirements for, and behavior patterns of the beneficiaries with respect to medical care, and to submit a report on the results of the survey to committees of Congress not later than Jan. 1, 2000; (2) directed the same Secretaries to jointly conduct a review to identify impediments to cooperation between the Department of Defense and the Department of Veterans Affairs regarding the delivery of medical care and to submit a report on the results of the review to committees of Congress not later than Mar. 1, 1999; (3) directed the Secretary of Defense to review the TRICARE program to identify opportunities for increased participation by the Department of Veterans Affairs in that program; (4) directed the Department of Defense-Department of Veterans Affairs Federal Pharmacy Executive Steering Committee to examine existing pharmaceutical benefits and programs for beneficiaries and review existing methods for contracting for and distributing medical supplies and services and to submit a report on the results of the examination to committees of Congress not later than 60 days after its completion; and (5) directed the Secretary of Defense and the Secretary of Veterans Affairs to jointly submit to committees of Congress a report, not later than Mar. 1, 1999, on the status of the efforts of the Department of Defense and the Department of Veterans Affairs to standardize physical examinations administered by the two departments for the purpose of determining or rating disabilities.
 
  __External Peer Review for Defense Health Program Extramural Medical Research Involving Human Subjects__ 
 
-[Pub. L. 104–201, div. A, title VII, § 742][/us/pl/104/201/s742], Sept. 23, 1996, [110 Stat. 2600][/us/stat/110/2600], provided that:
+[Pub. L. 104–201, div. A, title VII][/us/pl/104/201/dA/tVII], § 742, Sept. 23, 1996, [110 Stat. 2600][/us/stat/110/2600], provided that:
 
 >     “(a)  __Establishment of External Peer Review Process__  __.—__ 
 
@@ -3003,7 +3003,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Annual Beneficiary Survey__ 
 
-[Pub. L. 102–484, div. A, title VII, § 724][/us/pl/102/484/s724], Oct. 23, 1992, [106 Stat. 2440][/us/stat/106/2440], as amended by [Pub. L. 103–337, div. A, title VII, § 717][/us/pl/103/337/s717], Oct. 5, 1994, [108 Stat. 2804][/us/stat/108/2804], provided that:
+[Pub. L. 102–484, div. A, title VII][/us/pl/102/484/dA/tVII], § 724, Oct. 23, 1992, [106 Stat. 2440][/us/stat/106/2440], as amended by [Pub. L. 103–337, div. A, title VII][/us/pl/103/337/dA/tVII], § 717, Oct. 5, 1994, [108 Stat. 2804][/us/stat/108/2804], provided that:
 
 >     “(a)  __Survey Required__  __.—__ 
 
@@ -3029,11 +3029,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Comprehensive Study of Military Medical Care System__ 
 
-    [Pub. L. 102–190, div. A, title VII, § 733][/us/pl/102/190/s733], Dec. 5, 1991, [105 Stat. 1408][/us/stat/105/1408], as amended by [Pub. L. 102–484, div. A, title VII, § 723][/us/pl/102/484/s723], Oct. 23, 1992, [106 Stat. 2440][/us/stat/106/2440], directed Secretary of Defense to conduct a comprehensive study of the military medical care system, not later than Dec. 15, 1992, to submit to congressional defense committees a detailed accounting on progress of the study, including preliminary results of the study, and not later than Dec. 15, 1993, submit to congressional defense committees a final report on the study.
+    [Pub. L. 102–190, div. A, title VII][/us/pl/102/190/dA/tVII], § 733, Dec. 5, 1991, [105 Stat. 1408][/us/stat/105/1408], as amended by [Pub. L. 102–484, div. A, title VII][/us/pl/102/484/dA/tVII], § 723, Oct. 23, 1992, [106 Stat. 2440][/us/stat/106/2440], directed Secretary of Defense to conduct a comprehensive study of the military medical care system, not later than Dec. 15, 1992, to submit to congressional defense committees a detailed accounting on progress of the study, including preliminary results of the study, and not later than Dec. 15, 1993, submit to congressional defense committees a final report on the study.
 
  __Identification and Treatment of Drug and Alcohol Dependent Persons in the Armed Forces__ 
 
-    [Pub. L. 92–129, title V, § 501][/us/pl/92/129/s501], Sept. 28, 1971, [85 Stat. 361][/us/stat/85/361], which directed Secretary of Defense to devise ways to identify, treat, and rehabilitate drug and alcohol dependent members of the armed forces, to identify, refuse admission to, and refer to civilian treatment facilities such persons seeking entrance to the armed forces, and to report to Congress on and suggest additional legislation concerning these matters, was repealed and restated as sections 978 and 1090 of this title by [Pub. L. 97–295][/us/pl/97/295], §§ 1(14)(A), (15)(A), 6(b), Oct. 12, 1982, [96 Stat. 1289][/us/stat/96/1289], 1290, 1314.
+    [Pub. L. 92–129, title V][/us/pl/92/129/tV], § 501, Sept. 28, 1971, [85 Stat. 361][/us/stat/85/361], which directed Secretary of Defense to devise ways to identify, treat, and rehabilitate drug and alcohol dependent members of the armed forces, to identify, refuse admission to, and refer to civilian treatment facilities such persons seeking entrance to the armed forces, and to report to Congress on and suggest additional legislation concerning these matters, was repealed and restated as sections 978 and 1090 of this title by [Pub. L. 97–295][/us/pl/97/295], §§ 1(14)(A), (15)(A), 6(b), Oct. 12, 1982, [96 Stat. 1289][/us/stat/96/1289], 1290, 1314.
 
  __Ex. Ord. No. 13625. Improving Access to Mental Health Services for Veterans, Service Members, and Military Families__ 
 
@@ -3122,77 +3122,77 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 ----------
 ----------
 
-[/us/pl/85/861/s1/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F25%2FB
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1445
-[/us/pl/89/614/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614%2Fs2%2F1
+[/us/pl/89/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614
 [/us/stat/80/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F862
-[/us/pl/96/513/s511/34/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F34%2FA
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2922
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F81
-[/us/pl/85/861/s36B/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs36B%2F5
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1570
-[/us/pl/99/410/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2Fs203
+[/us/pl/99/410/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2FtII
 [/us/stat/100/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F930
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/89/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/89/614/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614%2Fs3
+[/us/pl/89/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614
 [/us/stat/80/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F866
-[/us/pl/110/181/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1601
+[/us/pl/110/181/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVI
 [/us/stat/122/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F431
 [/us/usc/t5/s6333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6333
 [/us/usc/t5/s6333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6333
-[/us/pl/100/180/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs701
+[/us/pl/100/180/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVII
 [/us/stat/101/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1108
 [/us/usc/t37/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs302
 [/us/usc/t50/s3809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3809
-[/us/pl/89/614/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614%2Fs1
+[/us/pl/89/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614
 [/us/stat/80/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F862
-[/us/pl/114/92/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs591
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F832
-[/us/pl/113/291/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs523
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3361
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
-[/us/pl/113/291/s567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs567
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3385
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t10/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1071
 [/us/usc/t10/s10219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10219
 [/us/usc/t10/s1072/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2
-[/us/pl/113/291/s727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs727
+[/us/pl/113/291/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVII
 [/us/stat/128/3420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3420
-[/us/pl/113/66/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs703
+[/us/pl/113/66/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVII
 [/us/stat/127/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F791
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t10/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1071
-[/us/pl/113/66/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs713
+[/us/pl/113/66/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVII
 [/us/stat/127/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F794
-[/us/pl/112/239/s580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs580
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1764
-[/us/pl/112/239/s582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs582
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1766
-[/us/pl/112/239/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs725
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1806
-[/us/pl/112/239/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs731
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1815
-[/us/pl/112/239/s738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs738
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1820
-[/us/pl/112/81/s533/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs533%2Fa
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1404
-[/us/pl/112/81/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs722
+[/us/pl/112/81/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVII
 [/us/stat/125/1479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1479
-[/us/pl/111/84/s596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs596
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2339
 [/us/pl/110/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387
 [/us/stat/112/4112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F4112
-[/us/pl/111/84/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs711
+[/us/pl/111/84/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVII
 [/us/stat/123/2378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2378
-[/us/pl/111/84/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs714
+[/us/pl/111/84/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVII
 [/us/stat/123/2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2381
-[/us/pl/111/383/s1075/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fd%2F8
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4373
 [/us/usc/t10/s1074f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074f
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
@@ -3201,7 +3201,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 [/us/stat/122/4489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4489
 [/us/usc/t37/s302c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs302c%E2%80%931
 [/us/usc/t37/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs335
-[/us/pl/111/84/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs721
+[/us/pl/111/84/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVII
 [/us/stat/123/2385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2385
 [/us/usc/t10/s1072/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
@@ -3214,31 +3214,31 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 [/us/stat/122/4499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4499
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4506
-[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVI
 [/us/stat/122/431-443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F431-443
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4400
-[/us/pl/111/84/s632/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs632%2Fh
+[/us/pl/111/84/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVI
 [/us/stat/123/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2362
-[/us/pl/112/56/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs231
+[/us/pl/112/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2FtII
 [/us/stat/125/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F719
-[/us/pl/112/81/s631/f/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FB
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1465
-[/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
-[/us/pl/113/175/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs105
+[/us/pl/113/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2FtI
 [/us/stat/128/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1903
-[/us/pl/113/291/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs591
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3394
-[/us/pl/114/58/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs204
+[/us/pl/114/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2FtII
 [/us/stat/129/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F533
-[/us/pl/114/92/s1072/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1072%2Fe
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F995
 [/us/usc/t37/s481h/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs481h%2Fb%2F3%2FB
 [/us/usc/t10/s1072/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F7
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4613
-[/us/pl/111/84/s632/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs632%2Fh
+[/us/pl/111/84/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVI
 [/us/stat/123/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2362
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/stat/117/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1676
@@ -3268,66 +3268,66 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 [/us/usc/t10/s1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1095
 [/us/usc/t38/s1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1784
 [/us/usc/t10/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2461
-[/us/pl/109/364/s734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs734
+[/us/pl/109/364/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVII
 [/us/stat/120/2299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2299
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
-[/us/pl/109/163/s256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs256
+[/us/pl/109/163/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtII
 [/us/stat/119/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3181
-[/us/pl/112/239/s1076/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fc%2F2%2FC
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1950
-[/us/pl/107/314/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs708
+[/us/pl/107/314/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVII
 [/us/stat/116/2585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2585
 [/us/usc/t10/s1072/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F5
-[/us/pl/107/107/s734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs734
+[/us/pl/107/107/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVII
 [/us/stat/115/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1170
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs737
+[/us/pl/107/107/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVII
 [/us/stat/115/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1173
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/109/163/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs741
+[/us/pl/109/163/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVII
 [/us/stat/119/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3360
 [/us/usc/t10/s1072/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F3
-[/us/pl/106/65/s585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs585
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F636
 [/us/usc/t10/s1072/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2
-[/us/pl/106/65/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs723
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F695
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/109/163/s742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs742
+[/us/pl/109/163/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVII
 [/us/stat/119/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3360
-[/us/pl/109/364/s1046/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1046%2Fe
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2394
-[/us/pl/112/81/s1062/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1062%2Fj%2F1
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1585
 [/us/pl/112/81/s1062/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1062%2Fj%2F1%2FA
 [/us/pl/106/65/s723/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs723%2Fd
 [/us/pl/109/364/s1046/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1046%2Fe
-[/us/pl/105/261/s745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs745
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2075
-[/us/pl/106/65/s1067/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F3
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/108/136/s1031/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fg%2F1
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1604
-[/us/pl/104/201/s742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs742
+[/us/pl/104/201/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVII
 [/us/stat/110/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2600
-[/us/pl/102/484/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs724
+[/us/pl/102/484/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVII
 [/us/stat/106/2440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2440
-[/us/pl/103/337/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs717
+[/us/pl/103/337/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVII
 [/us/stat/108/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2804
 [/us/usc/t44/s3502/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3502%2F4
 [/us/usc/t10/s1072/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F3
-[/us/pl/102/190/s733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs733
+[/us/pl/102/190/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVII
 [/us/stat/105/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1408
-[/us/pl/102/484/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs723
+[/us/pl/102/484/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVII
 [/us/stat/106/2440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2440
-[/us/pl/92/129/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs501
+[/us/pl/92/129/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2FtV
 [/us/stat/85/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F361
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1289

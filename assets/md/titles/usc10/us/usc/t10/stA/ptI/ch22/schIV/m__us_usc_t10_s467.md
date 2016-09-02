@@ -43,7 +43,7 @@
 
     (5) The term “geospatial intelligence” means the exploitation and analysis of imagery and geospatial information to describe, assess, and visually depict physical features and geographically referenced activities on the earth. Geospatial intelligence consists of imagery, imagery intelligence, and geospatial information.
 
-(Added [Pub. L. 104–201, div. A, title XI, § 1112(a)(2)][/us/pl/104/201/s1112/a/2], Sept. 23, 1996, [110 Stat. 2682][/us/stat/110/2682]; amended [Pub. L. 105–85, div. A, title IX, § 933(b)(2)][/us/pl/105/85/s933/b/2], Nov. 18, 1997, [111 Stat. 1866][/us/stat/111/1866]; [Pub. L. 108–136, div. A, title IX, § 921(b)][/us/pl/108/136/s921/b], Nov. 24, 2003, [117 Stat. 1568][/us/stat/117/1568].)
+(Added [Pub. L. 104–201, div. A, title XI][/us/pl/104/201/dA/tXI], § 1112(a)(2), Sept. 23, 1996, [110 Stat. 2682][/us/stat/110/2682]; amended [Pub. L. 105–85, div. A, title IX][/us/pl/105/85/dA/tIX], § 933(b)(2), Nov. 18, 1997, [111 Stat. 1866][/us/stat/111/1866]; [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 921(b), Nov. 24, 2003, [117 Stat. 1568][/us/stat/117/1568].)
 
  __Amendments__ 
 
@@ -62,11 +62,11 @@
 ----------
 ----------
 
-[/us/pl/104/201/s1112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1112%2Fa%2F2
+[/us/pl/104/201/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXI
 [/us/stat/110/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2682
-[/us/pl/105/85/s933/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs933%2Fb%2F2
+[/us/pl/105/85/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIX
 [/us/stat/111/1866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1866
-[/us/pl/108/136/s921/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs921%2Fb
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1568
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85

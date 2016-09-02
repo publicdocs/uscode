@@ -77,19 +77,19 @@
 
             (C) which has not been received by a National Guard unit as of the close of that fiscal year.
 
-(Added [Pub. L. 101–510, div. A, title XIV, § 1483(a)][/us/pl/101/510/s1483/a], Nov. 5, 1990, [104 Stat. 1714][/us/stat/104/1714], § 115b; amended [Pub. L. 102–484, div. A, title XI, § 1134][/us/pl/102/484/s1134], Oct. 23, 1992, [106 Stat. 2541][/us/stat/106/2541]; renumbered § 10541 and amended [Pub. L. 103–337, div. A, title XVI, § 1661(d)(2)][/us/pl/103/337/s1661/d/2], Oct. 5, 1994, [108 Stat. 2982][/us/stat/108/2982]; [Pub. L. 110–181, div. A, title III, § 351(a)][/us/pl/110/181/s351/a], title XVIII, § 1826, Jan. 28, 2008, [122 Stat. 70][/us/stat/122/70], 503; [Pub. L. 112–81, div. A, title X, § 1070][/us/pl/112/81/s1070], Dec. 31, 2011, [125 Stat. 1592][/us/stat/125/1592].)
+(Added [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1483(a), Nov. 5, 1990, [104 Stat. 1714][/us/stat/104/1714], § 115b; amended [Pub. L. 102–484, div. A, title XI][/us/pl/102/484/dA/tXI], § 1134, Oct. 23, 1992, [106 Stat. 2541][/us/stat/106/2541]; renumbered § 10541 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1661(d)(2), Oct. 5, 1994, [108 Stat. 2982][/us/stat/108/2982]; [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 351(a), title XVIII, § 1826, Jan. 28, 2008, [122 Stat. 70][/us/stat/122/70], 503; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1070, Dec. 31, 2011, [125 Stat. 1592][/us/stat/125/1592].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in section 115(a)(2), (3) of this title, prior to repeal by [Pub. L. 101–510, § 1483(a)][/us/pl/101/510/s1483/a].
+    Provisions similar to those in this section were contained in section 115(a)(2), (3) of this title, prior to repeal by [Pub. L. 101–510][/us/pl/101/510], § 1483(a).
 
  __Amendments__ 
 
     2011—Subsec. (a). [Pub. L. 112–81][/us/pl/112/81] substituted “March 15” for “February 15”.
 
-    2008—Subsec. (b)(9). [Pub. L. 110–181, § 351(a)][/us/pl/110/181/s351/a], added par. (9).
+    2008—Subsec. (b)(9). [Pub. L. 110–181][/us/pl/110/181], § 351(a), added par. (9).
 
-    Subsec. (d). [Pub. L. 110–181, § 1826][/us/pl/110/181/s1826], added subsec. (d).
+    Subsec. (d). [Pub. L. 110–181][/us/pl/110/181], § 1826, added subsec. (d).
 
     1994—[Pub. L. 103–337][/us/pl/103/337] renumbered [section 115b of this title][/us/usc/t10/s115b] as this section and substituted “National Guard and reserve component equipment: annual report to Congress” for “Annual report on National Guard and reserve component equipment” as section catchline.
 
@@ -97,7 +97,7 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–181, div. A, title III, § 351(c)(1)][/us/pl/110/181/s351/c/1], Jan. 28, 2008, [122 Stat. 70][/us/stat/122/70], provided that: 
+[Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 351(c)(1), Jan. 28, 2008, [122 Stat. 70][/us/stat/122/70], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to reports submitted after the date of the enactment of this Act \[Jan. 28, 2008\].”
 
@@ -113,24 +113,24 @@
 ----------
 
 [/us/usc/t42/s5122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5122
-[/us/pl/101/510/s1483/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1483%2Fa
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1714
-[/us/pl/102/484/s1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1134
+[/us/pl/102/484/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXI
 [/us/stat/106/2541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2541
-[/us/pl/103/337/s1661/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fd%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2982
-[/us/pl/110/181/s351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs351%2Fa
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F70
-[/us/pl/112/81/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1070
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1592
-[/us/pl/101/510/s1483/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1483%2Fa
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/110/181/s351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs351%2Fa
-[/us/pl/110/181/s1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1826
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s115b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs115b
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/110/181/s351/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs351%2Fc%2F1
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F70
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691

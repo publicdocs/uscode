@@ -31,7 +31,7 @@
 
     (h) An aviation pilot of the Navy Reserve or the Marine Corps Reserve may, if qualified under regulations prescribed by the Secretary, be appointed an ensign in the Navy Reserve or a second lieutenant in the Marine Corps Reserve, as appropriate.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 427][/us/stat/70A/427]; [Pub. L. 87–649, § 14c(51)][/us/pl/87/649/s14c/51], Sept. 7, 1962, [76 Stat. 501][/us/stat/76/501]; [Pub. L. 96–513, title V, § 513(21)][/us/pl/96/513/s513/21], Dec. 12, 1980, [94 Stat. 2932][/us/stat/94/2932]; [Pub. L. 109–163, div. A, title V, § 515(b)(1)(P)][/us/pl/109/163/s515/b/1/P], Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 427][/us/stat/70A/427]; [Pub. L. 87–649][/us/pl/87/649], § 14c(51), Sept. 7, 1962, [76 Stat. 501][/us/stat/76/501]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(21), Dec. 12, 1980, [94 Stat. 2932][/us/stat/94/2932]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(P), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
 
 <table>
 
@@ -130,11 +130,11 @@ Nov. 5, 1941, ch. 468, § 8; added Aug. 4, 1942, ch. 547, § 15(h), 56 Stat.
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F427
-[/us/pl/87/649/s14c/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs14c%2F51
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F501
-[/us/pl/96/513/s513/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F21
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2932
-[/us/pl/109/163/s515/b/1/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FP
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3233
 [/us/usc/t34/s841h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs841h
 [/us/usc/t34/s841h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs841h

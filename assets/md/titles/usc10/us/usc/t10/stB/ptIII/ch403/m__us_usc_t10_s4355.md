@@ -43,7 +43,7 @@
 
     (h) While performing his duties, each member of the Board and each adviser shall be reimbursed under Government travel regulations for his travel expenses.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 245][/us/stat/70A/245]; [Pub. L. 96–579, § 13(a)][/us/pl/96/579/s13/a], Dec. 23, 1980, [94 Stat. 3369][/us/stat/94/3369]; [Pub. L. 104–106, div. A, title X, § 1061(e)(2)][/us/pl/104/106/s1061/e/2], title XV, § 1502(a)(12), Feb. 10, 1996, [110 Stat. 443][/us/stat/110/443], 503; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 245][/us/stat/70A/245]; [Pub. L. 96–579][/us/pl/96/579], § 13(a), Dec. 23, 1980, [94 Stat. 3369][/us/stat/94/3369]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1061(e)(2), title XV, § 1502(a)(12), Feb. 10, 1996, [110 Stat. 443][/us/stat/110/443], 503; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774].)
 
 <table>
 
@@ -193,9 +193,9 @@ June 29, 1948, ch. 714, §§ 1–6, 62 Stat. 1094; June 30, 1954, ch. 432, §�
 
     1999—Subsec. (a)(3). [Pub. L. 106–65][/us/pl/106/65], substituted “Committee on Armed Services” for “Committee on National Security”.
 
-    1996—Subsec. (a)(3). [Pub. L. 104–106, § 1502(a)(12)][/us/pl/104/106/s1502/a/12], substituted “National Security” for “Armed Services”.
+    1996—Subsec. (a)(3). [Pub. L. 104–106][/us/pl/104/106], § 1502(a)(12), substituted “National Security” for “Armed Services”.
 
-    Subsec. (h). [Pub. L. 104–106, § 1061(e)(2)][/us/pl/104/106/s1061/e/2], struck out “is entitled to not more than $5 a day and” after “each adviser”.
+    Subsec. (h). [Pub. L. 104–106][/us/pl/104/106], § 1061(e)(2), struck out “is entitled to not more than $5 a day and” after “each adviser”.
 
     1980—Subsec. (b). [Pub. L. 96–579][/us/pl/96/579] required member whose term of office had expired to continue service until appointment of a successor.
 
@@ -208,15 +208,15 @@ June 29, 1948, ch. 714, §§ 1–6, 62 Stat. 1094; June 30, 1954, ch. 432, §�
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F245
-[/us/pl/96/579/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579%2Fs13%2Fa
+[/us/pl/96/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579
 [/us/stat/94/3369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3369
-[/us/pl/104/106/s1061/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1061%2Fe%2F2
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F443
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/104/106/s1502/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F12
-[/us/pl/104/106/s1061/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1061%2Fe%2F2
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/96/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579
 
 

@@ -37,7 +37,7 @@
 
         (5) released to accept an appointment, or to be enlisted, in a regular component of an armed force.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 30][/us/stat/70A/30], § 680; [Pub. L. 87–509, § 2][/us/pl/87/509/s2], June 28, 1962, [76 Stat. 121][/us/stat/76/121]; [Pub. L. 98–525, title V, § 533(b)][/us/pl/98/525/s533/b], title XIV, § 1405(17), Oct. 19, 1984, [98 Stat. 2528][/us/stat/98/2528], 2622; renumbered § 12312 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337], §§ 1662(e)(2), 1675(c)(8), Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992], 3017.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 30][/us/stat/70A/30], § 680; [Pub. L. 87–509][/us/pl/87/509], § 2, June 28, 1962, [76 Stat. 121][/us/stat/76/121]; [Pub. L. 98–525, title V][/us/pl/98/525/tV], § 533(b), title XIV, § 1405(17), Oct. 19, 1984, [98 Stat. 2528][/us/stat/98/2528], 2622; renumbered § 12312 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], §§ 1662(e)(2), 1675(c)(8), Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992], 3017.)
 
 <table>
 
@@ -101,13 +101,13 @@ July 9, 1952, ch. 608, § 235(a) (last sentence), (b), 66 Stat. 491.  </td>
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–337, § 1662(e)(2)][/us/pl/103/337/s1662/e/2], renumbered [section 680 of this title][/us/usc/t10/s680] as this section.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 1662(e)(2), renumbered [section 680 of this title][/us/usc/t10/s680] as this section.
 
-    Subsecs. (a), (b). [Pub. L. 103–337, § 1675(c)(8)][/us/pl/103/337/s1675/c/8], substituted “12311(a)” for “679(a)”.
+    Subsecs. (a), (b). [Pub. L. 103–337][/us/pl/103/337], § 1675(c)(8), substituted “12311(a)” for “679(a)”.
 
-    1984—Subsec. (a)(2)(D). [Pub. L. 98–525, § 1405(17)][/us/pl/98/525/s1405/17], substituted “reserve officer” for “Reserve Officer”.
+    1984—Subsec. (a)(2)(D). [Pub. L. 98–525][/us/pl/98/525], § 1405(17), substituted “reserve officer” for “Reserve Officer”.
 
-    Subsec. (b)(3). [Pub. L. 98–525, § 533(b)][/us/pl/98/525/s533/b], inserted “, separation pay,” after “retired pay”.
+    Subsec. (b)(3). [Pub. L. 98–525][/us/pl/98/525], § 533(b), inserted “, separation pay,” after “retired pay”.
 
     1962—Subsec. (a)(2)(D). [Pub. L. 87–509][/us/pl/87/509] added cl. (D).
 
@@ -126,17 +126,17 @@ July 9, 1952, ch. 608, § 235(a) (last sentence), (b), 66 Stat. 491.  </td>
 [/us/usc/t10/s12311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12311%2Fa
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F30
-[/us/pl/87/509/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F509%2Fs2
+[/us/pl/87/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F509
 [/us/stat/76/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F121
-[/us/pl/98/525/s533/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs533%2Fb
+[/us/pl/98/525/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtV
 [/us/stat/98/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2528
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2992
-[/us/pl/103/337/s1662/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fe%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs680
-[/us/pl/103/337/s1675/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1675%2Fc%2F8
-[/us/pl/98/525/s1405/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F17
-[/us/pl/98/525/s533/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs533%2Fb
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/87/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F509
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691

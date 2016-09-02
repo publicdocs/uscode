@@ -57,7 +57,7 @@
 
             (B) The term “child support” has the meaning given that term in section 459(i) of the Social Security Act ([42 U.S.C. 659(i)][/us/usc/t42/s659/i]).
 
-(Added [Pub. L. 87–649, § 3(1)][/us/pl/87/649/s3/1], Sept. 7, 1962, [76 Stat. 493][/us/stat/76/493]; amended [Pub. L. 108–375, div. A, title X, § 1084(k)][/us/pl/108/375/s1084/k], Oct. 28, 2004, [118 Stat. 2064][/us/stat/118/2064].)
+(Added [Pub. L. 87–649][/us/pl/87/649], § 3(1), Sept. 7, 1962, [76 Stat. 493][/us/stat/76/493]; amended [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1084(k), Oct. 28, 2004, [118 Stat. 2064][/us/stat/118/2064].)
 
 <table>
 
@@ -119,23 +119,23 @@ Aug. 9, 1946, ch. 931, § 2(f) (last 8 words), 60 Stat. 963.  </td>
 
  __Codification__ 
 
-    The text of [section 363(b) of Pub. L. 104–193][/us/pl/104/193/s363/b], which was set out as a note under this section and was transferred to the end of this section and redesignated as subsec. (c), was based on [Pub. L. 104–193, title III, § 363(b)][/us/pl/104/193/s363/b], Aug. 22, 1996, [110 Stat. 2248][/us/stat/110/2248], as amended by [Pub. L. 107–296, title XVII, § 1704(e)(1)(B)][/us/pl/107/296/s1704/e/1/B], Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315].
+    The text of [section 363(b) of Pub. L. 104–193][/us/pl/104/193/s363/b], which was set out as a note under this section and was transferred to the end of this section and redesignated as subsec. (c), was based on [Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 363(b), Aug. 22, 1996, [110 Stat. 2248][/us/stat/110/2248], as amended by [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(e)(1)(B), Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315].
 
  __Amendments__ 
 
-    2004—Subsec. (c). [Pub. L. 108–375, § 1084(k)(1)][/us/pl/108/375/s1084/k/1]–(3), transferred [section 363(b) of Pub. L. 104–193][/us/pl/104/193/s363/b] to the end of this section and redesignated it as subsec. (c). See Codification note above.
+    2004—Subsec. (c). [Pub. L. 108–375][/us/pl/108/375], § 1084(k)(1)–(3), transferred [section 363(b) of Pub. L. 104–193][/us/pl/104/193/s363/b] to the end of this section and redesignated it as subsec. (c). See Codification note above.
 
-    Subsec. (c)(1). [Pub. L. 108–375, § 1084(k)(4)(A)][/us/pl/108/375/s1084/k/4/A], (B)(i), in introductory provisions, substituted “Secretary concerned” for “Secretary of each military department, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy,” and “armed forces” for “Armed Forces”.
+    Subsec. (c)(1). [Pub. L. 108–375][/us/pl/108/375], § 1084(k)(4)(A), (B)(i), in introductory provisions, substituted “Secretary concerned” for “Secretary of each military department, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy,” and “armed forces” for “Armed Forces”.
 
-    Subsec. (c)(1)(B). [Pub. L. 108–375, § 1084(k)(4)(B)(ii)][/us/pl/108/375/s1084/k/4/B/ii], struck out “(as defined in [section 101 of title 10][/us/usc/t10/s101], United States Code)” after “contingency operation”.
+    Subsec. (c)(1)(B). [Pub. L. 108–375][/us/pl/108/375], § 1084(k)(4)(B)(ii), struck out “(as defined in [section 101 of title 10][/us/usc/t10/s101], United States Code)” after “contingency operation”.
 
-    Subsec. (c)(2)(A), (B). [Pub. L. 108–375, § 1084(k)(4)(A)][/us/pl/108/375/s1084/k/4/A], substituted “armed forces” for “Armed Forces”.
+    Subsec. (c)(2)(A), (B). [Pub. L. 108–375][/us/pl/108/375], § 1084(k)(4)(A), substituted “armed forces” for “Armed Forces”.
 
-    Subsec. (c)(3). [Pub. L. 108–375, § 1084(k)(4)(C)(i)][/us/pl/108/375/s1084/k/4/C/i], substituted “In this subsection:” for “For purposes of this subsection—” in introductory provisions.
+    Subsec. (c)(3). [Pub. L. 108–375][/us/pl/108/375], § 1084(k)(4)(C)(i), substituted “In this subsection:” for “For purposes of this subsection—” in introductory provisions.
 
-    Subsec. (c)(3)(A). [Pub. L. 108–375, § 1084(k)(4)(C)(ii)][/us/pl/108/375/s1084/k/4/C/ii], substituted “this title” for “title 10, United States Code”.
+    Subsec. (c)(3)(A). [Pub. L. 108–375][/us/pl/108/375], § 1084(k)(4)(C)(ii), substituted “this title” for “title 10, United States Code”.
 
-    Subsec. (c)(3)(B). [Pub. L. 108–375, § 1084(k)(4)(C)(iii)][/us/pl/108/375/s1084/k/4/C/iii], substituted “that term” for “such term”.
+    Subsec. (c)(3)(B). [Pub. L. 108–375][/us/pl/108/375], § 1084(k)(4)(C)(iii), substituted “that term” for “such term”.
 
  __Effective Date__ 
 
@@ -143,7 +143,7 @@ Aug. 9, 1946, ch. 931, § 2(f) (last 8 words), 60 Stat. 963.  </td>
 
  __Facilitating Granting of Leave for Attendance at Hearings Involving Parental Support Obligations__ 
 
-    [Pub. L. 104–193, title III, § 363(b)][/us/pl/104/193/s363/b], Aug. 22, 1996, [110 Stat. 2248][/us/stat/110/2248], as amended by [Pub. L. 107–296, title XVII, § 1704(e)(1)(B)][/us/pl/107/296/s1704/e/1/B], Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315], formerly set out as a note under this section, was transferred to subsec. (c) of this section.
+    [Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 363(b), Aug. 22, 1996, [110 Stat. 2248][/us/stat/110/2248], as amended by [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(e)(1)(B), Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315], formerly set out as a note under this section, was transferred to subsec. (c) of this section.
 
 ----------
 
@@ -154,29 +154,29 @@ Aug. 9, 1946, ch. 931, § 2(f) (last 8 words), 60 Stat. 963.  </td>
 
 [/us/usc/t10/s1408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1408%2Fa
 [/us/usc/t42/s659/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs659%2Fi
-[/us/pl/87/649/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs3%2F1
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F493
-[/us/pl/108/375/s1084/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fk
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2064
 [/us/pl/104/193/s363/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs363%2Fb
-[/us/pl/104/193/s363/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs363%2Fb
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2248
-[/us/pl/107/296/s1704/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fe%2F1%2FB
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2315
-[/us/pl/108/375/s1084/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fk%2F1
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/104/193/s363/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs363%2Fb
-[/us/pl/108/375/s1084/k/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fk%2F4%2FA
-[/us/pl/108/375/s1084/k/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fk%2F4%2FB%2Fii
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/108/375/s1084/k/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fk%2F4%2FA
-[/us/pl/108/375/s1084/k/4/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fk%2F4%2FC%2Fi
-[/us/pl/108/375/s1084/k/4/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fk%2F4%2FC%2Fii
-[/us/pl/108/375/s1084/k/4/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fk%2F4%2FC%2Fiii
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/87/649/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs15
 [/us/usc/t37/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs101
-[/us/pl/104/193/s363/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs363%2Fb
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2248
-[/us/pl/107/296/s1704/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fe%2F1%2FB
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2315
 
 

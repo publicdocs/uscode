@@ -33,7 +33,7 @@
 
         (4) the maximum amount that may be awarded to an individual during an academic year.
 
-(Added [Pub. L. 101–189, div. A, title VIII, § 843(d)(1)][/us/pl/101/189/s843/d/1], Nov. 29, 1989, [103 Stat. 1516][/us/stat/103/1516].)
+(Added [Pub. L. 101–189, div. A, title VIII][/us/pl/101/189/dA/tVIII], § 843(d)(1), Nov. 29, 1989, [103 Stat. 1516][/us/stat/103/1516].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/101/189/s843/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs843%2Fd%2F1
+[/us/pl/101/189/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVIII
 [/us/stat/103/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1516
 
 

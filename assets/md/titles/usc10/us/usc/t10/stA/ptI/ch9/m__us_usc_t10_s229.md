@@ -39,7 +39,7 @@
 
     In this section, the term “Department of Defense combating terrorism program” means the programs, projects, and activities of the Department of Defense related to combating terrorism inside and outside the United States.
 
-(Added [Pub. L. 106–65, div. A, title IX, § 932(b)(1)][/us/pl/106/65/s932/b/1], Oct. 5, 1999, [113 Stat. 727][/us/stat/113/727]; amended [Pub. L. 108–136, div. A, title X, § 1043(b)(6)][/us/pl/108/136/s1043/b/6], Nov. 24, 2003, [117 Stat. 1611][/us/stat/117/1611]; [Pub. L. 114–92, div. A, title X, § 1044][/us/pl/114/92/s1044], Nov. 25, 2015, [129 Stat. 977][/us/stat/129/977].)
+(Added [Pub. L. 106–65, div. A, title IX][/us/pl/106/65/dA/tIX], § 932(b)(1), Oct. 5, 1999, [113 Stat. 727][/us/stat/113/727]; amended [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1043(b)(6), Nov. 24, 2003, [117 Stat. 1611][/us/stat/117/1611]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1044, Nov. 25, 2015, [129 Stat. 977][/us/stat/129/977].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
  __Prioritization of Funds for Equipment Readiness and Strategic Capability__ 
 
-[Pub. L. 109–364, div. A, title III, § 323][/us/pl/109/364/s323], Oct. 17, 2006, [120 Stat. 2146][/us/stat/120/2146], as amended by [Pub. L. 110–181, div. A, title III, § 353][/us/pl/110/181/s353], Jan. 28, 2008, [122 Stat. 72][/us/stat/122/72]; [Pub. L. 111–383, div. A, title III, § 332(a)][/us/pl/111/383/s332/a]–(f), Jan. 7, 2011, [124 Stat. 4185][/us/stat/124/4185], 4187; [Pub. L. 113–66, div. A, title III, § 332][/us/pl/113/66/s332], Dec. 26, 2013, [127 Stat. 739][/us/stat/127/739], provided that:
+[Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 323, Oct. 17, 2006, [120 Stat. 2146][/us/stat/120/2146], as amended by [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 353, Jan. 28, 2008, [122 Stat. 72][/us/stat/122/72]; [Pub. L. 111–383, div. A, title III][/us/pl/111/383/dA/tIII], § 332(a)–(f), Jan. 7, 2011, [124 Stat. 4185][/us/stat/124/4185], 4187; [Pub. L. 113–66, div. A, title III][/us/pl/113/66/dA/tIII], § 332, Dec. 26, 2013, [127 Stat. 739][/us/stat/127/739], provided that:
 
 >     “(a)  __Prioritization of Funds__  __.—__ 
 
@@ -93,7 +93,7 @@
 
  __Quarterly Detailed Accounting for Operations Conducted as Part of the Global War on Terrorism__ 
 
-    [Pub. L. 108–375, div. A, title X, § 1041][/us/pl/108/375/s1041], Oct. 28, 2004, [118 Stat. 2048][/us/stat/118/2048], which required the Secretary of Defense to submit quarterly reports on Operation Iraqi Freedom, Operation Enduring Freedom, Operation Noble Eagle, and any other operation designated by the President as being an operation of the Global War on Terrorism, was repealed by [Pub. L. 112–81, div. A, title X, § 1062(f)(2)][/us/pl/112/81/s1062/f/2], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585].
+    [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1041, Oct. 28, 2004, [118 Stat. 2048][/us/stat/118/2048], which required the Secretary of Defense to submit quarterly reports on Operation Iraqi Freedom, Operation Enduring Freedom, Operation Noble Eagle, and any other operation designated by the President as being an operation of the Global War on Terrorism, was repealed by [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1062(f)(2), Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585].
 
 ----------
 
@@ -103,29 +103,29 @@
 ----------
 
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/106/65/s932/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs932%2Fb%2F1
+[/us/pl/106/65/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIX
 [/us/stat/113/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F727
-[/us/pl/108/136/s1043/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1043%2Fb%2F6
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1611
-[/us/pl/114/92/s1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1044
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F977
 [/us/pl/105/85/s1051/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1051%2Fb
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/109/364/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs323
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2146
-[/us/pl/110/181/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs353
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F72
-[/us/pl/111/383/s332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs332%2Fa
+[/us/pl/111/383/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIII
 [/us/stat/124/4185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4185
-[/us/pl/113/66/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs332
+[/us/pl/113/66/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIII
 [/us/stat/127/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F739
 [/us/usc/t10/s2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2229
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
-[/us/pl/108/375/s1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1041
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2048
-[/us/pl/112/81/s1062/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1062%2Ff%2F2
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1585
 
 

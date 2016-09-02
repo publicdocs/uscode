@@ -15,7 +15,7 @@
 
 ## \[§ 9316. Repealed. [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 353(a), Oct. 14, 2008, [122 Stat. 4425][/us/stat/122/4425]\]
 
-    Section, added [Pub. L. 101–510, div. A, title XIV, § 1439(c)][/us/pl/101/510/s1439/c], Nov. 5, 1990, [104 Stat. 1689][/us/stat/104/1689], related to training and support for A–10 aircraft.
+    Section, added [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1439(c), Nov. 5, 1990, [104 Stat. 1689][/us/stat/104/1689], related to training and support for A–10 aircraft.
 
 ----------
 
@@ -26,7 +26,7 @@
 
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4425
-[/us/pl/101/510/s1439/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1439%2Fc
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1689
 
 

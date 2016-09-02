@@ -61,7 +61,7 @@
 
             (D) Other items as determined appropriate by the Secretary.
 
-(Added [Pub. L. 113–66, div. A, title I, § 141(a)][/us/pl/113/66/s141/a], Dec. 26, 2013, [127 Stat. 696][/us/stat/127/696].)
+(Added [Pub. L. 113–66, div. A, title I][/us/pl/113/66/dA/tI], § 141(a), Dec. 26, 2013, [127 Stat. 696][/us/stat/127/696].)
 
 ----------
 
@@ -71,7 +71,7 @@
 ----------
 
 [/us/usc/t10/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs234
-[/us/pl/113/66/s141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs141%2Fa
+[/us/pl/113/66/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtI
 [/us/stat/127/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F696
 
 

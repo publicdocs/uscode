@@ -17,11 +17,11 @@
 
     The purpose of each reserve component is to provide trained units and qualified persons available for active duty in the armed forces, in time of war or national emergency, and at such other times as the national security may require, to fill the needs of the armed forces whenever more units and persons are needed than are in the regular components.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)][/us/pl/103/337/s1661/a/1], Oct. 5, 1994, [108 Stat. 2970][/us/stat/108/2970]; amended [Pub. L. 108–375, div. A, title V, § 511][/us/pl/108/375/s511], Oct. 28, 2004, [118 Stat. 1877][/us/stat/118/1877].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1661(a)(1), Oct. 5, 1994, [108 Stat. 2970][/us/stat/108/2970]; amended [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 511, Oct. 28, 2004, [118 Stat. 1877][/us/stat/118/1877].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 262 of this title][/us/usc/t10/s262], prior to repeal by [Pub. L. 103–337, § 1661(a)(2)(A)][/us/pl/103/337/s1661/a/2/A].
+    Provisions similar to those in this section were contained in [section 262 of this title][/us/usc/t10/s262], prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1661(a)(2)(A).
 
  __Amendments__ 
 
@@ -34,12 +34,12 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1661/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2970
-[/us/pl/108/375/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs511
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1877
 [/us/usc/t10/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs262
-[/us/pl/103/337/s1661/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F2%2FA
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 
 

@@ -27,7 +27,7 @@
 
     Payments made under subsection (a) to a wetland mitigation banking program or consolidated user site may be treated as eligible project costs for military construction.
 
-(Added [Pub. L. 108–136, div. A, title III, § 314(a)(1)][/us/pl/108/136/s314/a/1], Nov. 24, 2003, [117 Stat. 1430][/us/stat/117/1430].)
+(Added [Pub. L. 108–136, div. A, title III][/us/pl/108/136/dA/tIII], § 314(a)(1), Nov. 24, 2003, [117 Stat. 1430][/us/stat/117/1430].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/108/136/s314/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs314%2Fa%2F1
+[/us/pl/108/136/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIII
 [/us/stat/117/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1430
 
 

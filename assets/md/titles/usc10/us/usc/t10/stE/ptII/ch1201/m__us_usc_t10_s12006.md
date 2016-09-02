@@ -19,7 +19,7 @@
 
     (b) Any suspension under subsection (a) shall, if not sooner ended, end on the last day of the two-year period beginning on the date on which the suspension (or the last extension thereof) takes effect or on the last day of the one-year period beginning on the date of the termination of the war or national emergency, whichever occurs first. With respect to the end of any such suspension, the preceding sentence supersedes the provisions of title II of the National Emergencies Act ([50 U.S.C. 1621][/us/usc/t50/s1621], 1622) which provide that powers or authorities exercised by reason of a national emergency shall cease to be exercised after the date of termination of the emergency.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1662(a)(1)][/us/pl/103/337/s1662/a/1], Oct. 5, 1994, [108 Stat. 2986][/us/stat/108/2986].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(a)(1), Oct. 5, 1994, [108 Stat. 2986][/us/stat/108/2986].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t50/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1621
-[/us/pl/103/337/s1662/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fa%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2986
 [/us/pl/94/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412
 [/us/stat/90/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1255

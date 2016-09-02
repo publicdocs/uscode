@@ -41,11 +41,11 @@
 
     If the Court sets aside the findings or sentence, the Court may, except where the setting aside is based on lack of sufficient evidence in the record to support the findings, order a rehearing. If the Court sets aside the findings or sentence and does not order a rehearing, the Court shall order that the charges be dismissed.
 
-(Added [Pub. L. 111–84, div. A, title XVIII, § 1802][/us/pl/111/84/s1802], Oct. 28, 2009, [123 Stat. 2603][/us/stat/123/2603]; amended [Pub. L. 112–81, div. A, title X, § 1034(c)][/us/pl/112/81/s1034/c], Dec. 31, 2011, [125 Stat. 1573][/us/stat/125/1573].)
+(Added [Pub. L. 111–84, div. A, title XVIII][/us/pl/111/84/dA/tXVIII], § 1802, Oct. 28, 2009, [123 Stat. 2603][/us/stat/123/2603]; amended [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1034(c), Dec. 31, 2011, [125 Stat. 1573][/us/stat/125/1573].)
 
  __Prior Provisions__ 
 
-    A prior section 950f, added [Pub. L. 109–366, § 3(a)(1)][/us/pl/109/366/s3/a/1], Oct. 17, 2006, [120 Stat. 2621][/us/stat/120/2621]; amended [Pub. L. 110–181, div. A, title X, § 1063(a)(6)][/us/pl/110/181/s1063/a/6], Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322], related to review by Court of Military Commission Review, prior to the general amendment of this chapter by [Pub. L. 111–84][/us/pl/111/84].
+    A prior section 950f, added [Pub. L. 109–366][/us/pl/109/366], § 3(a)(1), Oct. 17, 2006, [120 Stat. 2621][/us/stat/120/2621]; amended [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1063(a)(6), Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322], related to review by Court of Military Commission Review, prior to the general amendment of this chapter by [Pub. L. 111–84][/us/pl/111/84].
 
  __Amendments__ 
 
@@ -60,13 +60,13 @@
 
 [/us/usc/t10/s948j/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs948j%2Fb
 [/us/usc/t10/s950c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs950c
-[/us/pl/111/84/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1802
+[/us/pl/111/84/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXVIII
 [/us/stat/123/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2603
-[/us/pl/112/81/s1034/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1034%2Fc
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1573
-[/us/pl/109/366/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs3%2Fa%2F1
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/stat/120/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2621
-[/us/pl/110/181/s1063/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fa%2F6
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F322
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81

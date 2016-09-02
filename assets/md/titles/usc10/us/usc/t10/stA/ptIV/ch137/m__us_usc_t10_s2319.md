@@ -77,29 +77,29 @@
 
         (3) The term “design control activity”, with respect to an aviation critical safety item or ship critical safety item, means the systems command of a military department that is specifically responsible for ensuring the airworthiness of an aviation system or equipment, or the seaworthiness of a ship or ship equipment, in which such item is to be used.
 
-(Added [Pub. L. 98–525, title XII, § 1216(a)][/us/pl/98/525/s1216/a], Oct. 19, 1984, [98 Stat. 2593][/us/stat/98/2593]; amended [Pub. L. 100–26, § 7(d)(5)][/us/pl/100/26/s7/d/5], (i)(4), (k)(3), Apr. 21, 1987, [101 Stat. 281][/us/stat/101/281], 282, 284; [Pub. L. 108–136, div. A, title VIII, § 802(d)][/us/pl/108/136/s802/d], Nov. 24, 2003, [117 Stat. 1541][/us/stat/117/1541]; [Pub. L. 109–364, div. A, title I, § 130(d)][/us/pl/109/364/s130/d], Oct. 17, 2006, [120 Stat. 2110][/us/stat/120/2110].)
+(Added [Pub. L. 98–525, title XII][/us/pl/98/525/tXII], § 1216(a), Oct. 19, 1984, [98 Stat. 2593][/us/stat/98/2593]; amended [Pub. L. 100–26][/us/pl/100/26], § 7(d)(5), (i)(4), (k)(3), Apr. 21, 1987, [101 Stat. 281][/us/stat/101/281], 282, 284; [Pub. L. 108–136, div. A, title VIII][/us/pl/108/136/dA/tVIII], § 802(d), Nov. 24, 2003, [117 Stat. 1541][/us/stat/117/1541]; [Pub. L. 109–364, div. A, title I][/us/pl/109/364/dA/tI], § 130(d), Oct. 17, 2006, [120 Stat. 2110][/us/stat/120/2110].)
 
  __Amendments__ 
 
-    2006—Subsec. (c)(3). [Pub. L. 109–364, § 130(d)(1)][/us/pl/109/364/s130/d/1], inserted “or ship critical safety item” after “aviation critical safety item”.
+    2006—Subsec. (c)(3). [Pub. L. 109–364][/us/pl/109/364], § 130(d)(1), inserted “or ship critical safety item” after “aviation critical safety item”.
 
-    Subsec. (g)(2), (3). [Pub. L. 109–364, § 130(d)(2)][/us/pl/109/364/s130/d/2], added par. (2), redesignated former par. (2) as (3), inserted “or ship critical safety item” after “aviation critical safety item” and “, or the seaworthiness of a ship or ship equipment,” after “or equipment”, and substituted “such item” for “the item”.
+    Subsec. (g)(2), (3). [Pub. L. 109–364][/us/pl/109/364], § 130(d)(2), added par. (2), redesignated former par. (2) as (3), inserted “or ship critical safety item” after “aviation critical safety item” and “, or the seaworthiness of a ship or ship equipment,” after “or equipment”, and substituted “such item” for “the item”.
 
-    2003—Subsec. (c)(3). [Pub. L. 108–136, § 802(d)(1)][/us/pl/108/136/s802/d/1], inserted “(or, in the case of a contract for the procurement of an aviation critical safety item, the head of the design control activity for such item)” after “the contracting officer”.
+    2003—Subsec. (c)(3). [Pub. L. 108–136][/us/pl/108/136], § 802(d)(1), inserted “(or, in the case of a contract for the procurement of an aviation critical safety item, the head of the design control activity for such item)” after “the contracting officer”.
 
-    Subsec. (g). [Pub. L. 108–136, § 802(d)(2)][/us/pl/108/136/s802/d/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 108–136][/us/pl/108/136], § 802(d)(2), added subsec. (g).
 
-    1987—Subsec. (a). [Pub. L. 100–26, § 7(k)(3)][/us/pl/100/26/s7/k/3], inserted “the term” after “In this section,”.
+    1987—Subsec. (a). [Pub. L. 100–26][/us/pl/100/26], § 7(k)(3), inserted “the term” after “In this section,”.
 
-    Subsec. (c)(1), (3). [Pub. L. 100–26, § 7(i)(4)][/us/pl/100/26/s7/i/4], substituted “October 19, 1984,” for “the date of the enactment of the Defense Procurement Reform Act of 1984”.
+    Subsec. (c)(1), (3). [Pub. L. 100–26][/us/pl/100/26], § 7(i)(4), substituted “October 19, 1984,” for “the date of the enactment of the Defense Procurement Reform Act of 1984”.
 
-    Subsec. (c)(4). [Pub. L. 100–26, § 7(d)(5)(A)][/us/pl/100/26/s7/d/5/A], inserted “([15 U.S.C. 637(b)(7)][/us/usc/t15/s637/b/7])” after “Small Business Act”.
+    Subsec. (c)(4). [Pub. L. 100–26][/us/pl/100/26], § 7(d)(5)(A), inserted “([15 U.S.C. 637(b)(7)][/us/usc/t15/s637/b/7])” after “Small Business Act”.
 
-    Subsec. (d)(2). [Pub. L. 100–26, § 7(d)(5)(B)][/us/pl/100/26/s7/d/5/B], inserted “([15 U.S.C. 632][/us/usc/t15/s632])” after “Small Business Act”.
+    Subsec. (d)(2). [Pub. L. 100–26][/us/pl/100/26], § 7(d)(5)(B), inserted “([15 U.S.C. 632][/us/usc/t15/s632])” after “Small Business Act”.
 
  __Effective Date__ 
 
-[Pub. L. 98–525, title XII, § 1216(c)(2)][/us/pl/98/525/s1216/c/2], Oct. 19, 1984, [98 Stat. 2599][/us/stat/98/2599], provided that: 
+[Pub. L. 98–525, title XII][/us/pl/98/525/tXII], § 1216(c)(2), Oct. 19, 1984, [98 Stat. 2599][/us/stat/98/2599], provided that: 
 
 > “Sections 2319, 2320, and 2321 of title 10, United States Code (as added by subsection (a)), shall apply with respect to solicitations issued after the end of the one-year period beginning on the date of the enactment of this Act \[Oct. 19, 1984\].”
 
@@ -112,25 +112,25 @@
 
 [/us/usc/t15/s637/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fb%2F7
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/98/525/s1216/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1216%2Fa
+[/us/pl/98/525/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXII
 [/us/stat/98/2593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2593
-[/us/pl/100/26/s7/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fd%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F281
-[/us/pl/108/136/s802/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs802%2Fd
+[/us/pl/108/136/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVIII
 [/us/stat/117/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1541
-[/us/pl/109/364/s130/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs130%2Fd
+[/us/pl/109/364/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtI
 [/us/stat/120/2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2110
-[/us/pl/109/364/s130/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs130%2Fd%2F1
-[/us/pl/109/364/s130/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs130%2Fd%2F2
-[/us/pl/108/136/s802/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs802%2Fd%2F1
-[/us/pl/108/136/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs802%2Fd%2F2
-[/us/pl/100/26/s7/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fk%2F3
-[/us/pl/100/26/s7/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fi%2F4
-[/us/pl/100/26/s7/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fd%2F5%2FA
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/usc/t15/s637/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fb%2F7
-[/us/pl/100/26/s7/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fd%2F5%2FB
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/98/525/s1216/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1216%2Fc%2F2
+[/us/pl/98/525/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXII
 [/us/stat/98/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2599
 
 

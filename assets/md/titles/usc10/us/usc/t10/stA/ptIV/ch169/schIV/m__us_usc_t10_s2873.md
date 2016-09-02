@@ -39,13 +39,13 @@
 
     Direct loans and loan guarantees may be made under this section only to the extent that appropriations of budget authority to cover their cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 ([2 U.S.C. 661a(5)][/us/usc/t2/s661a/5])) are made in advance, or authority is otherwise provided in appropriation Acts. If such appropriation or other authority is provided, there may be established a financing account (as defined in section 502(7) of such Act ([2 U.S.C. 661a(7)][/us/usc/t2/s661a/7])), which shall be available for the disbursement of direct loans or payment of claims for payment on loan guarantees under this section and for all other cash flows to and from the Government as a result of direct loans and guarantees made under this section.
 
-(Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)][/us/pl/104/106/s2801/a/1], Feb. 10, 1996, [110 Stat. 545][/us/stat/110/545]; amended [Pub. L. 106–65, div. B, title XXVIII, § 2803(c)][/us/pl/106/65/s2803/c], Oct. 5, 1999, [113 Stat. 849][/us/stat/113/849].)
+(Added [Pub. L. 104–106, div. B, title XXVIII][/us/pl/104/106/dB/tXXVIII], § 2801(a)(1), Feb. 10, 1996, [110 Stat. 545][/us/stat/110/545]; amended [Pub. L. 106–65, div. B, title XXVIII][/us/pl/106/65/dB/tXXVIII], § 2803(c), Oct. 5, 1999, [113 Stat. 849][/us/stat/113/849].)
 
  __Amendments__ 
 
-    1999—Subsec. (a)(1). [Pub. L. 106–65, § 2803(c)(1)][/us/pl/106/65/s2803/c/1], substituted “an eligible entity” for “persons in the private sector” and “the eligible entity” for “such persons”.
+    1999—Subsec. (a)(1). [Pub. L. 106–65][/us/pl/106/65], § 2803(c)(1), substituted “an eligible entity” for “persons in the private sector” and “the eligible entity” for “such persons”.
 
-    Subsec. (b)(1). [Pub. L. 106–65, § 2803(c)(2)][/us/pl/106/65/s2803/c/2], substituted “an eligible entity” for “any person in the private sector” and “the eligible entity” for “the person”.
+    Subsec. (b)(1). [Pub. L. 106–65][/us/pl/106/65], § 2803(c)(2), substituted “an eligible entity” for “any person in the private sector” and “the eligible entity” for “the person”.
 
 ----------
 
@@ -56,11 +56,11 @@
 
 [/us/usc/t2/s661a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a%2F5
 [/us/usc/t2/s661a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a%2F7
-[/us/pl/104/106/s2801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2801%2Fa%2F1
+[/us/pl/104/106/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdB%2FtXXVIII
 [/us/stat/110/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F545
-[/us/pl/106/65/s2803/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2803%2Fc
+[/us/pl/106/65/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdB%2FtXXVIII
 [/us/stat/113/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F849
-[/us/pl/106/65/s2803/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2803%2Fc%2F1
-[/us/pl/106/65/s2803/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2803%2Fc%2F2
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 
 

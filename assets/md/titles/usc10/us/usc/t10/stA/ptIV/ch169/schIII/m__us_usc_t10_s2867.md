@@ -43,7 +43,7 @@
 
         (2) The Secretary concerned may waive the application of the energy monitoring and utility control system specification required by subsection (a) with respect to a specific military construction project, military family housing activity, or other activity under this chapter if the Secretary determines that the application of the specification to the project or activity is not life cycle cost-effective. The Secretary concerned shall notify the congressional defense committees of any waiver granted under this paragraph.
 
-(Added [Pub. L. 111–84, div. B, title XXVIII, § 2841(a)(1)][/us/pl/111/84/s2841/a/1], Oct. 28, 2009, [123 Stat. 2679][/us/stat/123/2679].)
+(Added [Pub. L. 111–84, div. B, title XXVIII][/us/pl/111/84/dB/tXXVIII], § 2841(a)(1), Oct. 28, 2009, [123 Stat. 2679][/us/stat/123/2679].)
 
  __Prior Provisions__ 
 
@@ -51,7 +51,7 @@
 
  __Deadline for Adoption__ 
 
-[Pub. L. 111–84, div. B, title XXVIII, § 2841(a)(3)][/us/pl/111/84/s2841/a/3], Oct. 28, 2009, [123 Stat. 2680][/us/stat/123/2680], provided that: 
+[Pub. L. 111–84, div. B, title XXVIII][/us/pl/111/84/dB/tXXVIII], § 2841(a)(3), Oct. 28, 2009, [123 Stat. 2680][/us/stat/123/2680], provided that: 
 
 > “The Secretary of Defense shall adopt the open protocol energy monitoring and utility control system specification required by [section 2867 of title 10][/us/usc/t10/s2867], United States Code, as added by paragraph (1), not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\].”
 
@@ -62,10 +62,10 @@
 ----------
 ----------
 
-[/us/pl/111/84/s2841/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2841%2Fa%2F1
+[/us/pl/111/84/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdB%2FtXXVIII
 [/us/stat/123/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2679
 [/us/usc/t10/s2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2916
-[/us/pl/111/84/s2841/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2841%2Fa%2F3
+[/us/pl/111/84/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdB%2FtXXVIII
 [/us/stat/123/2680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2680
 [/us/usc/t10/s2867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2867
 

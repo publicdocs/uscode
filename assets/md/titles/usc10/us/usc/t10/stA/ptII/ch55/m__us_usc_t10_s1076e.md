@@ -59,11 +59,11 @@
 
             (B) health benefits contracted for under the authority of [section 1086(a) of this title][/us/usc/t10/s1086/a] and subject to the same rates and conditions as apply to persons covered under that section.
 
-(Added [Pub. L. 111–84, div. A, title VII, § 705(a)][/us/pl/111/84/s705/a], Oct. 28, 2009, [123 Stat. 2374][/us/stat/123/2374].)
+(Added [Pub. L. 111–84, div. A, title VII][/us/pl/111/84/dA/tVII], § 705(a), Oct. 28, 2009, [123 Stat. 2374][/us/stat/123/2374].)
 
  __Effective Date__ 
 
-[Pub. L. 111–84, div. A, title VII, § 705(c)][/us/pl/111/84/s705/c], Oct. 28, 2009, [123 Stat. 2375][/us/stat/123/2375], provided that: 
+[Pub. L. 111–84, div. A, title VII][/us/pl/111/84/dA/tVII], § 705(c), Oct. 28, 2009, [123 Stat. 2375][/us/stat/123/2375], provided that: 
 
 > “[Section 1076e of title 10][/us/usc/t10/s1076e], United States Code, as inserted by subsection (a), shall apply to coverage for months beginning on or after October 1, 2009, or such earlier date as the Secretary of Defense may specify.”
 
@@ -80,9 +80,9 @@
 [/us/usc/t10/s1072/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2
 [/us/usc/t10/s1076/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076%2Fb%2F1
 [/us/usc/t10/s1086/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1086%2Fa
-[/us/pl/111/84/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs705%2Fa
+[/us/pl/111/84/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVII
 [/us/stat/123/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2374
-[/us/pl/111/84/s705/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs705%2Fc
+[/us/pl/111/84/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVII
 [/us/stat/123/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2375
 [/us/usc/t10/s1076e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1076e
 

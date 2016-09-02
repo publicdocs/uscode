@@ -85,7 +85,7 @@ Aug. 22, 1912, ch. 329, 37 Stat. 324.  </td>
 
  __Personnel Freeze for Service Review Agencies__ 
 
-    [Pub. L. 105–261, div. A, title V, § 541][/us/pl/105/261/s541], Oct. 17, 1998, [112 Stat. 2019][/us/stat/112/2019], provided that, during fiscal years 1999, 2000, and 2001, the Secretary of a military department could not carry out any reduction in the number of military and civilian personnel assigned to duty with the service review agency for that military department below the baseline number for that agency until: (1) the Secretary had submitted to Congress a report that described the reduction to be made and the rationale for that reduction, and specified the number of such personnel that would be assigned to duty with that agency after the reduction; and (2) a period of 90 days had elapsed after the date on which such report had been submitted.
+    [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 541, Oct. 17, 1998, [112 Stat. 2019][/us/stat/112/2019], provided that, during fiscal years 1999, 2000, and 2001, the Secretary of a military department could not carry out any reduction in the number of military and civilian personnel assigned to duty with the service review agency for that military department below the baseline number for that agency until: (1) the Secretary had submitted to Congress a report that described the reduction to be made and the rationale for that reduction, and specified the number of such personnel that would be assigned to duty with that agency after the reduction; and (2) a period of 90 days had elapsed after the date on which such report had been submitted.
 
 ----------
 
@@ -96,7 +96,7 @@ Aug. 22, 1912, ch. 329, 37 Stat. 324.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F116
-[/us/pl/105/261/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs541
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2019
 
 

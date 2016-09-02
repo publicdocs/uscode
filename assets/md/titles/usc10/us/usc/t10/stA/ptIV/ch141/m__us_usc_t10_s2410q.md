@@ -31,7 +31,7 @@
 
     Nothing in this section shall be construed to preclude the Department of Defense from using other multiyear contracting authority of the Department to purchase renewable energy.
 
-(Added [Pub. L. 110–181, div. A, title VIII, § 828(a)][/us/pl/110/181/s828/a], Jan. 28, 2008, [122 Stat. 229][/us/stat/122/229].)
+(Added [Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 828(a), Jan. 28, 2008, [122 Stat. 229][/us/stat/122/229].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t42/s15852/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15852%2Fb%2F2
-[/us/pl/110/181/s828/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs828%2Fa
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F229
 
 

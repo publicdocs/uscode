@@ -83,7 +83,7 @@
 
         (3) prescribe regulations to carry out his functions, powers, and duties under this title.
 
-(Added [Pub. L. 99–433, title V, § 511(c)(2)][/us/pl/99/433/s511/c/2], Oct. 1, 1986, [100 Stat. 1043][/us/stat/100/1043]; amended [Pub. L. 99–661, div. A, title V, § 534][/us/pl/99/661/s534], Nov. 14, 1986, [100 Stat. 3873][/us/stat/100/3873]; [Pub. L. 108–136, div. A, title IX, § 901][/us/pl/108/136/s901], Nov. 24, 2003, [117 Stat. 1558][/us/stat/117/1558].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 511(c)(2), Oct. 1, 1986, [100 Stat. 1043][/us/stat/100/1043]; amended [Pub. L. 99–661, div. A, title V][/us/pl/99/661/dA/tV], § 534, Nov. 14, 1986, [100 Stat. 3873][/us/stat/100/3873]; [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 901, Nov. 24, 2003, [117 Stat. 1558][/us/stat/117/1558].)
 
  __Prior Provisions__ 
 
@@ -99,13 +99,13 @@
 
  __Reversionary Interests in Real Property Used by Closed or Realigned Naval Stations__ 
 
-[Pub. L. 109–148, div. B, title I, § 702][/us/pl/109/148/s702], Dec. 30, 2005, [119 Stat. 2773][/us/stat/119/2773], provided that: 
+[Pub. L. 109–148, div. B, title I][/us/pl/109/148/dB/tI], § 702, Dec. 30, 2005, [119 Stat. 2773][/us/stat/119/2773], provided that: 
 
 > “For any real property expressly granted to the United States since January 1, 1980 for use as or in connection with a Navy homeport subject to a reversionary interest retained by the grantor and serving as the site of or being used by a naval station subsequently closed or realigned pursuant to the Defense Base Closure and Realignment Act of 1990 \[part A of title XXIX of div. B of [Pub. L. 101–510][/us/pl/101/510], set out as a note under [section 2687 of this title][/us/usc/t10/s2687]\] as amended, the right of the United States to any consideration or repayment for the fair market value of the real property as improved shall be released, relinquished, waived, or otherwise permanently extinguished. The Secretary shall execute such written agreements as may be needed to facilitate the reversion and transfer all right, title, and interest of the United States in any real property described in this section, including the improvements thereon, for no consideration to the reversionary interest holder as soon as practicable after the naval station is closed or realigned. This agreement shall not require the reversionary interest holder to assume any environmental liabilities of the United States or relieve the United States from any responsibilities for environmental remediation that it may have incurred as a result of federal ownership or use of the real property.”
 
  __Elimination of Reversionary Interests Clouding United States Title to Property Used as Navy Homeports__ 
 
-[Pub. L. 108–375, div. B, title XXVIII, § 2823][/us/pl/108/375/s2823], Oct. 28, 2004, [118 Stat. 2132][/us/stat/118/2132], provided that:
+[Pub. L. 108–375, div. B, title XXVIII][/us/pl/108/375/dB/tXXVIII], § 2823, Oct. 28, 2004, [118 Stat. 2132][/us/stat/118/2132], provided that:
 
 >     “(a)  __Authority to Acquire Complete Title__  __.—__ 
 
@@ -123,7 +123,7 @@
 
  __Multi-Trades Demonstration Project__ 
 
-[Pub. L. 108–136, div. A, title III, § 338][/us/pl/108/136/s338], Nov. 24, 2003, [117 Stat. 1447][/us/stat/117/1447], as amended by [Pub. L. 110–181, div. A, title III, § 329][/us/pl/110/181/s329], Jan. 28, 2008, [122 Stat. 67][/us/stat/122/67]; [Pub. L. 112–239, div. A, title III, § 321][/us/pl/112/239/s321], Jan. 2, 2013, [126 Stat. 1694][/us/stat/126/1694]; [Pub. L. 113–66, div. A, title X, § 1091(d)][/us/pl/113/66/s1091/d], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided that:
+[Pub. L. 108–136, div. A, title III][/us/pl/108/136/dA/tIII], § 338, Nov. 24, 2003, [117 Stat. 1447][/us/stat/117/1447], as amended by [Pub. L. 110–181, div. A, title III][/us/pl/110/181/dA/tIII], § 329, Jan. 28, 2008, [122 Stat. 67][/us/stat/122/67]; [Pub. L. 112–239, div. A, title III][/us/pl/112/239/dA/tIII], § 321, Jan. 2, 2013, [126 Stat. 1694][/us/stat/126/1694]; [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1091(d), Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided that:
 
 >     “(a)  __Demonstration Project Authorized__  __.—__ 
 
@@ -157,11 +157,11 @@
 
  __Navy Higher Education Pilot Program Regarding Administration of Business Relationships Between Government and Private Sector__ 
 
-    [Pub. L. 105–85, div. A, title XI, § 1108][/us/pl/105/85/s1108], Nov. 18, 1997, [111 Stat. 1926][/us/stat/111/1926], authorized the Secretary of the Navy to establish and conduct a pilot program of graduate-level higher education regarding the administration of business relationships between the Government and the private sector during fiscal years 1998 through 2002, and required the Secretary of the Navy to submit to Congress a report not later than 90 days after the termination of the pilot program.
+    [Pub. L. 105–85, div. A, title XI][/us/pl/105/85/dA/tXI], § 1108, Nov. 18, 1997, [111 Stat. 1926][/us/stat/111/1926], authorized the Secretary of the Navy to establish and conduct a pilot program of graduate-level higher education regarding the administration of business relationships between the Government and the private sector during fiscal years 1998 through 2002, and required the Secretary of the Navy to submit to Congress a report not later than 90 days after the termination of the pilot program.
 
  __Use of Naval Installations for Employment Training of Nonviolent Offenders in State Penal Systems__ 
 
-[Pub. L. 103–160, div. A, title XIII, § 1374][/us/pl/103/160/s1374], Nov. 30, 1993, [107 Stat. 1821][/us/stat/107/1821], as amended by [Pub. L. 103–337, div. A, title X, § 1064][/us/pl/103/337/s1064], Oct. 5, 1994, [108 Stat. 2848][/us/stat/108/2848], provided that:
+[Pub. L. 103–160, div. A, title XIII][/us/pl/103/160/dA/tXIII], § 1374, Nov. 30, 1993, [107 Stat. 1821][/us/stat/107/1821], as amended by [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1064, Oct. 5, 1994, [108 Stat. 2848][/us/stat/108/2848], provided that:
 
 >     “(a)  __Demonstration Project Authorized__  __.—__ 
 
@@ -212,37 +212,37 @@
 ----------
 ----------
 
-[/us/pl/99/433/s511/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fc%2F2
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1043
-[/us/pl/99/661/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs534
+[/us/pl/99/661/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtV
 [/us/stat/100/3873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3873
-[/us/pl/108/136/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs901
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1558
 [/us/usc/t10/s5031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5031
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t10/s5063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5063
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
-[/us/pl/109/148/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2Fs702
+[/us/pl/109/148/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2FdB%2FtI
 [/us/stat/119/2773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2773
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
-[/us/pl/108/375/s2823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs2823
+[/us/pl/108/375/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdB%2FtXXVIII
 [/us/stat/118/2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2132
-[/us/pl/108/136/s338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs338
+[/us/pl/108/136/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIII
 [/us/stat/117/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1447
-[/us/pl/110/181/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs329
+[/us/pl/110/181/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIII
 [/us/stat/122/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F67
-[/us/pl/112/239/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs321
+[/us/pl/112/239/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIII
 [/us/stat/126/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1694
-[/us/pl/113/66/s1091/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fd
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
 [/us/usc/t5/s4703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4703
-[/us/pl/105/85/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1108
+[/us/pl/105/85/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtXI
 [/us/stat/111/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1926
-[/us/pl/103/160/s1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1374
+[/us/pl/103/160/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIII
 [/us/stat/107/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1821
-[/us/pl/103/337/s1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1064
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2848
 [/us/usc/t10/s2667/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2667%2Fb%2F4
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342

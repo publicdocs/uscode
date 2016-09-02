@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptII/ch53/m__us_usc_t10_s1035.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch53/m__us_usc_t10_s1037.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1036)
 
-## \[§ 1036. Repealed. [Pub. L. 113–66, div. A, title VI, § 621(a)(2)(A)][/us/pl/113/66/s621/a/2/A], Dec. 26, 2013, [127 Stat. 783][/us/stat/127/783]\]
+## \[§ 1036. Repealed. [Pub. L. 113–66, div. A, title VI][/us/pl/113/66/dA/tVI], § 621(a)(2)(A), Dec. 26, 2013, [127 Stat. 783][/us/stat/127/783]\]
 
-    Section, added [Pub. L. 86–160, § 1(1)][/us/pl/86/160/s1/1], Aug. 14, 1959, [73 Stat. 358][/us/stat/73/358]; amended [Pub. L. 98–94, title IX, § 913(a)][/us/pl/98/94/s913/a], Sept. 24, 1983, [97 Stat. 640][/us/stat/97/640], provided for transportation and travel allowances for escorts for dependents of members.
+    Section, added [Pub. L. 86–160][/us/pl/86/160], § 1(1), Aug. 14, 1959, [73 Stat. 358][/us/stat/73/358]; amended [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], § 913(a), Sept. 24, 1983, [97 Stat. 640][/us/stat/97/640], provided for transportation and travel allowances for escorts for dependents of members.
 
 ----------
 
@@ -24,11 +24,11 @@
 ----------
 ----------
 
-[/us/pl/113/66/s621/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Fa%2F2%2FA
+[/us/pl/113/66/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVI
 [/us/stat/127/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F783
-[/us/pl/86/160/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F160%2Fs1%2F1
+[/us/pl/86/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F160
 [/us/stat/73/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F358
-[/us/pl/98/94/s913/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs913%2Fa
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F640
 
 

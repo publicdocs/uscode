@@ -19,17 +19,17 @@
 
     (b) A member of the Army National Guard of the United States or the Air National Guard of the United States who fails in any year to perform satisfactorily the training duty prescribed by or under law for members of the Army National Guard or the Air National Guard, as the case may be, as determined by the Secretary concerned, may, upon the request of the Governor of the State (or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard) be ordered, without his consent, to perform additional active duty for training for not more than 45 days. A member ordered to active duty under this subsection shall be ordered to duty as a Reserve of the Army or as a Reserve of the Air Force, as the case may be.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)][/us/pl/103/337/s1661/a/1], Oct. 5, 1994, [108 Stat. 2974][/us/stat/108/2974].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1661(a)(1), Oct. 5, 1994, [108 Stat. 2974][/us/stat/108/2974].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in section 270(b), (c) of this title, prior to repeal by [Pub. L. 103–337, § 1661(a)(2)(A)][/us/pl/103/337/s1661/a/2/A].
+    Provisions similar to those in this section were contained in section 270(b), (c) of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1661(a)(2)(A).
 
  __Effective Date__ 
 
     Section effective Dec. 1, 1994, except as otherwise provided, see [section 1691 of Pub. L. 103–337][/us/pl/103/337/s1691], set out as a note under [section 10001 of this title][/us/usc/t10/s10001].
 
-[Pub. L. 103–337, div. A, title XVI, § 1661(a)(5)(B)][/us/pl/103/337/s1661/a/5/B], Oct. 5, 1994, [108 Stat. 2980][/us/stat/108/2980], provided that: 
+[Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1661(a)(5)(B), Oct. 5, 1994, [108 Stat. 2980][/us/stat/108/2980], provided that: 
 
 > “Section 10148(b) \[[10 U.S.C. 10148(b)][/us/usc/t10/s10148/b]\], as added by paragraph (1), applies only to persons who became members of the Army National Guard of the United States or the Air National Guard of the United States after October 4, 1961.”
 
@@ -41,12 +41,12 @@
 ----------
 
 [/us/usc/t10/s10147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10147
-[/us/pl/103/337/s1661/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2974
-[/us/pl/103/337/s1661/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F2%2FA
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
-[/us/pl/103/337/s1661/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F5%2FB
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2980
 [/us/usc/t10/s10148/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10148%2Fb
 

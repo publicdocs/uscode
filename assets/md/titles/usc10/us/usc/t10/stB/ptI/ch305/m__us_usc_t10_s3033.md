@@ -57,7 +57,7 @@
 
         (3) Subject to the authority, direction, and control of the Secretary of Defense, the Chief of Staff shall keep the Secretary of the Army fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 162][/us/stat/70A/162], § 3034; [Pub. L. 85–599, § 4(a)][/us/pl/85/599/s4/a], Aug. 6, 1958, [72 Stat. 516][/us/stat/72/516]; [Pub. L. 87–651, title I, § 114][/us/pl/87/651/s114], Sept. 7, 1962, [76 Stat. 513][/us/stat/76/513]; [Pub. L. 90–22, title IV, § 401][/us/pl/90/22/s401], June 5, 1967, [81 Stat. 53][/us/stat/81/53]; [Pub. L. 96–513, title V, § 502(2)][/us/pl/96/513/s502/2], Dec. 12, 1980, [94 Stat. 2909][/us/stat/94/2909]; [Pub. L. 97–22, § 10(b)(4)][/us/pl/97/22/s10/b/4], July 10, 1981, [95 Stat. 137][/us/stat/95/137]; renumbered § 3033 and amended [Pub. L. 99–433, title V, § 502(c)][/us/pl/99/433/s502/c], Oct. 1, 1986, [100 Stat. 1040][/us/stat/100/1040]; [Pub. L. 100–456, div. A, title V, § 519(a)(3)][/us/pl/100/456/s519/a/3], Sept. 29, 1988, [102 Stat. 1972][/us/stat/102/1972]; [Pub. L. 114–92, div. A, title VIII, § 802(d)(4)(A)][/us/pl/114/92/s802/d/4/A], Nov. 25, 2015, [129 Stat. 880][/us/stat/129/880].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 162][/us/stat/70A/162], § 3034; [Pub. L. 85–599][/us/pl/85/599], § 4(a), Aug. 6, 1958, [72 Stat. 516][/us/stat/72/516]; [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 114, Sept. 7, 1962, [76 Stat. 513][/us/stat/76/513]; [Pub. L. 90–22, title IV][/us/pl/90/22/tIV], § 401, June 5, 1967, [81 Stat. 53][/us/stat/81/53]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 502(2), Dec. 12, 1980, [94 Stat. 2909][/us/stat/94/2909]; [Pub. L. 97–22][/us/pl/97/22], § 10(b)(4), July 10, 1981, [95 Stat. 137][/us/stat/95/137]; renumbered § 3033 and amended [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 502(c), Oct. 1, 1986, [100 Stat. 1040][/us/stat/100/1040]; [Pub. L. 100–456, div. A, title V][/us/pl/100/456/dA/tV], § 519(a)(3), Sept. 29, 1988, [102 Stat. 1972][/us/stat/102/1972]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 802(d)(4)(A), Nov. 25, 2015, [129 Stat. 880][/us/stat/129/880].)
 
 <table>
 
@@ -199,7 +199,7 @@ June 3, 1916, ch. 134, § 5 (last par.), added June 15, 1933, ch. 87, § 2 (
 
  __Effective Date of 1981 Amendment__ 
 
-    [Pub. L. 97–22, § 10(b)][/us/pl/97/22/s10/b], July 10, 1981, [95 Stat. 137][/us/stat/95/137], provided that the amendment made by that section is effective Sept. 15, 1981.
+    [Pub. L. 97–22][/us/pl/97/22], § 10(b), July 10, 1981, [95 Stat. 137][/us/stat/95/137], provided that the amendment made by that section is effective Sept. 15, 1981.
 
  __Effective Date of 1980 Amendment__ 
 
@@ -207,13 +207,13 @@ June 3, 1916, ch. 134, § 5 (last par.), added June 15, 1933, ch. 87, § 2 (
 
  __Effective Date of 1967 Amendment__ 
 
-[Pub. L. 90–22, title IV, § 405][/us/pl/90/22/s405], June 5, 1967, [81 Stat. 53][/us/stat/81/53], provided that: 
+[Pub. L. 90–22, title IV][/us/pl/90/22/tIV], § 405, June 5, 1967, [81 Stat. 53][/us/stat/81/53], provided that: 
 
 > “The amendments made by this title \[amending sections 3034 \[now 3033\], 5081, 5201, and 8034 \[now 8033\] of this title\] shall take effect as of January 1, 1969.”
 
  __Waiver of Qualifications for Appointment as Service Chief__ 
 
-    [Pub. L. 99–433, title V, § 532(c)][/us/pl/99/433/s532/c], Oct. 1, 1986, [100 Stat. 1063][/us/stat/100/1063], as amended by [Pub. L. 100–26, § 11(b)][/us/pl/100/26/s11/b], Apr. 21, 1987, [101 Stat. 289][/us/stat/101/289]; [Pub. L. 100–180, div. A, title XIII, § 1314(a)(3)][/us/pl/100/180/s1314/a/3], Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175], provided that the President may waive, on a case-by-case basis, requirements for appointment as Service Chief provided for in sections 3033(a)(2), 5033(a)(2), 5043(a)(2), and 8033(a)(2) of this title, for a period of four years after Oct. 1, 1986.
+    [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 532(c), Oct. 1, 1986, [100 Stat. 1063][/us/stat/100/1063], as amended by [Pub. L. 100–26][/us/pl/100/26], § 11(b), Apr. 21, 1987, [101 Stat. 289][/us/stat/101/289]; [Pub. L. 100–180, div. A, title XIII][/us/pl/100/180/dA/tXIII], § 1314(a)(3), Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175], provided that the President may waive, on a case-by-case basis, requirements for appointment as Service Chief provided for in sections 3033(a)(2), 5033(a)(2), 5043(a)(2), and 8033(a)(2) of this title, for a period of four years after Oct. 1, 1986.
 
 ----------
 
@@ -227,21 +227,21 @@ June 3, 1916, ch. 134, § 5 (last par.), added June 15, 1933, ch. 87, § 2 (
 [/us/usc/t10/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs151
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F162
-[/us/pl/85/599/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599%2Fs4%2Fa
+[/us/pl/85/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599
 [/us/stat/72/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F516
-[/us/pl/87/651/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs114
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F513
-[/us/pl/90/22/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F22%2Fs401
+[/us/pl/90/22/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F22%2FtIV
 [/us/stat/81/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F53
-[/us/pl/96/513/s502/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs502%2F2
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2909
-[/us/pl/97/22/s10/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs10%2Fb%2F4
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F137
-[/us/pl/99/433/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs502%2Fc
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1040
-[/us/pl/100/456/s519/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs519%2Fa%2F3
+[/us/pl/100/456/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtV
 [/us/stat/102/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1972
-[/us/pl/114/92/s802/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs802%2Fd%2F4%2FA
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F880
 [/us/usc/t10/s743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs743
 [/us/stat/63/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F802
@@ -261,18 +261,18 @@ June 3, 1916, ch. 134, § 5 (last par.), added June 15, 1933, ch. 87, § 2 (
 [/us/pl/87/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651
 [/us/usc/t10/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs124
 [/us/pl/85/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599
-[/us/pl/97/22/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs10%2Fb
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F137
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/90/22/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F22%2Fs405
+[/us/pl/90/22/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F22%2FtIV
 [/us/stat/81/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F53
-[/us/pl/99/433/s532/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs532%2Fc
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1063
-[/us/pl/100/26/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs11%2Fb
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F289
-[/us/pl/100/180/s1314/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fa%2F3
+[/us/pl/100/180/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXIII
 [/us/stat/101/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1175
 
 

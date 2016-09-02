@@ -37,7 +37,7 @@
 
     The authority of the Secretary under this section shall expire on February 10, 1998.
 
-(Added [Pub. L. 104–106, div. A, title III, § 377(a)][/us/pl/104/106/s377/a], Feb. 10, 1996, [110 Stat. 283][/us/stat/110/283]; amended [Pub. L. 104–201, div. A, title X, § 1074(a)(16)][/us/pl/104/201/s1074/a/16], Sept. 23, 1996, [110 Stat. 2659][/us/stat/110/2659].)
+(Added [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 377(a), Feb. 10, 1996, [110 Stat. 283][/us/stat/110/283]; amended [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1074(a)(16), Sept. 23, 1996, [110 Stat. 2659][/us/stat/110/2659].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/104/106/s377/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs377%2Fa
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F283
-[/us/pl/104/201/s1074/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fa%2F16
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2659
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 

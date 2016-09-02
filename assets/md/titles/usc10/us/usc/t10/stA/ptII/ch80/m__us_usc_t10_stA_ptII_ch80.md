@@ -131,29 +131,29 @@
 
  __Prior Provisions__ 
 
-    A prior chapter 80, comprised of sections 1571 to 1577, relating to Exemplary Rehabilitation Certificates, was repealed by [Pub. L. 90–83, § 3(2)][/us/pl/90/83/s3/2], Sept. 11, 1967, [81 Stat. 220][/us/stat/81/220].
+    A prior chapter 80, comprised of sections 1571 to 1577, relating to Exemplary Rehabilitation Certificates, was repealed by [Pub. L. 90–83][/us/pl/90/83], § 3(2), Sept. 11, 1967, [81 Stat. 220][/us/stat/81/220].
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–81, div. A, title V, § 581(b)(2)][/us/pl/112/81/s581/b/2], Dec. 31, 2011, [125 Stat. 1431][/us/stat/125/1431], added item 1565b.
+    2011—[Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 581(b)(2), Dec. 31, 2011, [125 Stat. 1431][/us/stat/125/1431], added item 1565b.
 
-    2009—[Pub. L. 111–84, div. A, title V, § 583(b)(2)][/us/pl/111/84/s583/b/2], Oct. 28, 2009, [123 Stat. 2330][/us/stat/123/2330], added item 1566a.
+    2009—[Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 583(b)(2), Oct. 28, 2009, [123 Stat. 2330][/us/stat/123/2330], added item 1566a.
 
     2008—[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, §§ 561(b), 562(b), Oct. 14, 2008, [122 Stat. 4470][/us/stat/122/4470], added items 1567 and 1567a.
 
-    2003—[Pub. L. 108–136, div. A, title X][/us/pl/108/136], §§ 1031(a)(11)(B), 1041(a)(2), Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597], 1608, struck out “and recommendation” after “review” in item 1563 and added item 1564a.
+    2003—[Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], §§ 1031(a)(11)(B), 1041(a)(2), Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597], 1608, struck out “and recommendation” after “review” in item 1563 and added item 1564a.
 
-    2002—[Pub. L. 107–314, div. A, title X, § 1063(b)][/us/pl/107/314/s1063/b], Dec. 2, 2002, [116 Stat. 2653][/us/stat/116/2653], added item 1565a.
+    2002—[Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1063(b), Dec. 2, 2002, [116 Stat. 2653][/us/stat/116/2653], added item 1565a.
 
-    [Pub. L. 107–311, § 2(b)][/us/pl/107/311/s2/b], Dec. 2, 2002, [116 Stat. 2455][/us/stat/116/2455], added item 1561a.
+    [Pub. L. 107–311][/us/pl/107/311], § 2(b), Dec. 2, 2002, [116 Stat. 2455][/us/stat/116/2455], added item 1561a.
 
-    2001—[Pub. L. 107–107, div. A, title XVI, § 1602(a)(2)][/us/pl/107/107/s1602/a/2], Dec. 28, 2001, [115 Stat. 1276][/us/stat/115/1276], added item 1566.
+    2001—[Pub. L. 107–107, div. A, title XVI][/us/pl/107/107/dA/tXVI], § 1602(a)(2), Dec. 28, 2001, [115 Stat. 1276][/us/stat/115/1276], added item 1566.
 
-    2000—[Pub. L. 106–546, § 5(a)(2)][/us/pl/106/546/s5/a/2], Dec. 19, 2000, [114 Stat. 2732][/us/stat/114/2732], added item 1565.
+    2000—[Pub. L. 106–546][/us/pl/106/546], § 5(a)(2), Dec. 19, 2000, [114 Stat. 2732][/us/stat/114/2732], added item 1565.
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 542(b), title X, § 1072(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–115, 1654A–277, added items 1563 and 1564.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 542(b), title X, § 1072(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–115, 1654A–277, added items 1563 and 1564.
 
-    1999—[Pub. L. 106–65, div. A, title V, § 594(b)][/us/pl/106/65/s594/b], Oct. 5, 1999, [113 Stat. 644][/us/stat/113/644], added item 1562.
+    1999—[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 594(b), Oct. 5, 1999, [113 Stat. 644][/us/stat/113/644], added item 1562.
 
 ----------
 
@@ -162,27 +162,27 @@
 ----------
 ----------
 
-[/us/pl/90/83/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs3%2F2
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F220
-[/us/pl/112/81/s581/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs581%2Fb%2F2
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1431
-[/us/pl/111/84/s583/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs583%2Fb%2F2
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2330
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4470
-[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1597
-[/us/pl/107/314/s1063/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1063%2Fb
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2653
-[/us/pl/107/311/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F311%2Fs2%2Fb
+[/us/pl/107/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F311
 [/us/stat/116/2455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2455
-[/us/pl/107/107/s1602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1602%2Fa%2F2
+[/us/pl/107/107/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXVI
 [/us/stat/115/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1276
-[/us/pl/106/546/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs5%2Fa%2F2
+[/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/stat/114/2732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2732
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/65/s594/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs594%2Fb
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F644
 
 

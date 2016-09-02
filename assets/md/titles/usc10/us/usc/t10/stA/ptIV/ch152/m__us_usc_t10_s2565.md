@@ -41,25 +41,25 @@
 
     The Secretary of Defense may delegate the authority of the Secretary to carry out this section only to the Secretary of the Air Force. Such a delegation may be redelegated.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XII, § 1203(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–324, § 2555; renumbered § 2565 and amended [Pub. L. 107–107, div. A, title XII, § 1201(a)(1)][/us/pl/107/107/s1201/a/1], (b), Dec. 28, 2001, [115 Stat. 1245][/us/stat/115/1245].)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XII, § 1203(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–324, § 2555; renumbered § 2565 and amended [Pub. L. 107–107, div. A, title XII][/us/pl/107/107/dA/tXII], § 1201(a)(1), (b), Dec. 28, 2001, [115 Stat. 1245][/us/stat/115/1245].)
 
  __Amendments__ 
 
-    2001—[Pub. L. 107–107, § 1201(a)(1)][/us/pl/107/107/s1201/a/1], renumbered [section 2555 of this title][/us/usc/t10/s2555] as this section.
+    2001—[Pub. L. 107–107][/us/pl/107/107], § 1201(a)(1), renumbered [section 2555 of this title][/us/usc/t10/s2555] as this section.
 
-    Subsec. (a). [Pub. L. 107–107, § 1201(b)(1)(A)][/us/pl/107/107/s1201/b/1/A], substituted “Transfer Title to or Otherwise” for “Convey or” in heading.
+    Subsec. (a). [Pub. L. 107–107][/us/pl/107/107], § 1201(b)(1)(A), substituted “Transfer Title to or Otherwise” for “Convey or” in heading.
 
-    Subsec. (a)(1). [Pub. L. 107–107, § 1201(b)(1)(B)][/us/pl/107/107/s1201/b/1/B], substituted “transfer title” for “convey” and struck out “and” after semicolon at end.
+    Subsec. (a)(1). [Pub. L. 107–107][/us/pl/107/107], § 1201(b)(1)(B), substituted “transfer title” for “convey” and struck out “and” after semicolon at end.
 
-    Subsec. (a)(3). [Pub. L. 107–107, § 1201(b)(1)(C)][/us/pl/107/107/s1201/b/1/C], (D), added par. (3).
+    Subsec. (a)(3). [Pub. L. 107–107][/us/pl/107/107], § 1201(b)(1)(C), (D), added par. (3).
 
-    Subsec. (b). [Pub. L. 107–107, § 1201(b)(2)(A)][/us/pl/107/107/s1201/b/2/A], substituted “provided to a foreign government” for “conveyed or otherwise provided” in introductory provisions.
+    Subsec. (b). [Pub. L. 107–107][/us/pl/107/107], § 1201(b)(2)(A), substituted “provided to a foreign government” for “conveyed or otherwise provided” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 107–107, § 1201(b)(2)(B)][/us/pl/107/107/s1201/b/2/B], inserted “and” after semicolon at end.
+    Subsec. (b)(1). [Pub. L. 107–107][/us/pl/107/107], § 1201(b)(2)(B), inserted “and” after semicolon at end.
 
-    Subsec. (b)(2). [Pub. L. 107–107, § 1201(b)(2)(C)][/us/pl/107/107/s1201/b/2/C], substituted a period for “; and” at end.
+    Subsec. (b)(2). [Pub. L. 107–107][/us/pl/107/107], § 1201(b)(2)(C), substituted a period for “; and” at end.
 
-    Subsec. (b)(3). [Pub. L. 107–107, § 1201(b)(2)(D)][/us/pl/107/107/s1201/b/2/D], struck out par. (3) which read as follows: “to return such equipment to the United States (or allow the United States to recover such equipment) if either party determines that the agreement no longer serves its interests.”
+    Subsec. (b)(3). [Pub. L. 107–107][/us/pl/107/107], § 1201(b)(2)(D), struck out par. (3) which read as follows: “to return such equipment to the United States (or allow the United States to recover such equipment) if either party determines that the agreement no longer serves its interests.”
 
 ----------
 
@@ -68,18 +68,18 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s1201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1201%2Fa%2F1
+[/us/pl/107/107/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXII
 [/us/stat/115/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1245
-[/us/pl/107/107/s1201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1201%2Fa%2F1
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t10/s2555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2555
-[/us/pl/107/107/s1201/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1201%2Fb%2F1%2FA
-[/us/pl/107/107/s1201/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1201%2Fb%2F1%2FB
-[/us/pl/107/107/s1201/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1201%2Fb%2F1%2FC
-[/us/pl/107/107/s1201/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1201%2Fb%2F2%2FA
-[/us/pl/107/107/s1201/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1201%2Fb%2F2%2FB
-[/us/pl/107/107/s1201/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1201%2Fb%2F2%2FC
-[/us/pl/107/107/s1201/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1201%2Fb%2F2%2FD
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 
 

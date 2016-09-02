@@ -71,7 +71,7 @@
 
     In this section, the term “linguistic services” means translation or interpretation of communication in a foreign language.
 
-(Added [Pub. L. 107–314, div. A, title X, § 1064(a)(1)][/us/pl/107/314/s1064/a/1], Dec. 2, 2002, [116 Stat. 2653][/us/stat/116/2653].)
+(Added [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1064(a)(1), Dec. 2, 2002, [116 Stat. 2653][/us/stat/116/2653].)
 
 ----------
 
@@ -83,7 +83,7 @@
 [/us/usc/t8/s1101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F22
 [/us/usc/t8/s1101/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F20
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/107/314/s1064/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1064%2Fa%2F1
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2653
 
 

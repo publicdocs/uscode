@@ -31,7 +31,7 @@
 
         (3) The Secretary of Defense may waive the requirement described in paragraph (1) if the Secretary determines that such waiver is critical to the national security of the United States. The Secretary shall immediately notify the Congress of any such waiver and the reasons for such waiver.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 146][/us/stat/70A/146]; [Pub. L. 103–160, div. A, title III, § 315(a)][/us/pl/103/160/s315/a], Nov. 30, 1993, [107 Stat. 1619][/us/stat/107/1619].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 146][/us/stat/70A/146]; [Pub. L. 103–160, div. A, title III][/us/pl/103/160/dA/tIII], § 315(a), Nov. 30, 1993, [107 Stat. 1619][/us/stat/107/1619].)
 
 <table>
 
@@ -87,13 +87,13 @@ Apr. 28, 1904, ch. 1766, 33 Stat. 518.  </td>
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–160, div. A, title III, § 315(b)][/us/pl/103/160/s315/b], Nov. 30, 1993, [107 Stat. 1619][/us/stat/107/1619], provided that: 
+[Pub. L. 103–160, div. A, title III][/us/pl/103/160/dA/tIII], § 315(b), Nov. 30, 1993, [107 Stat. 1619][/us/stat/107/1619], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to a vessel for which reflagging or repair work is necessary to be performed after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
  __Obtaining Carriage by Vessel: Criterion Regarding Overhaul, Repair, and Maintenance of Vessels in the United States__ 
 
-[Pub. L. 109–364, div. A, title X, § 1017][/us/pl/109/364/s1017], Oct. 17, 2006, [120 Stat. 2379][/us/stat/120/2379], as amended by [Pub. L. 110–181, div. A, title X, § 1063(c)(9)][/us/pl/110/181/s1063/c/9], div. C, title XXXV, § 3526(a), Jan. 28, 2008, [122 Stat. 323][/us/stat/122/323], 601, provided that:
+[Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1017, Oct. 17, 2006, [120 Stat. 2379][/us/stat/120/2379], as amended by [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1063(c)(9), div. C, title XXXV, § 3526(a), Jan. 28, 2008, [122 Stat. 323][/us/stat/122/323], 601, provided that:
 
 >     “(a)  __Acquisition Policy__  __.—__ 
 
@@ -151,7 +151,7 @@ Apr. 28, 1904, ch. 1766, 33 Stat. 518.  </td>
 
 >             “(B) Guam.”
 
-    \[[Pub. L. 110–181, div. C, title XXXV, § 3526(a)][/us/pl/110/181/s3526/a], Jan. 28, 2008, [122 Stat. 601][/us/stat/122/601], which directed amendment of [section 1017(b)(2) of Pub. L. 109–364][/us/pl/109/364/s1017/b/2], set out above, by substituting “sections 12112, 50501, and 55102 of title 46, United States Code” for “section 27 of the Merchant Marine Act, 1920 ([46 U.S.C. 883][/us/usc/t46/s883]), [section 12106 of title 46][/us/usc/t46/s12106], United States Code, and section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)”, could not be executed because those words did not appear subsequent to amendment by [section 1063(c)(9) of Pub. L. 110–181][/us/pl/110/181/s1063/c/9], which was effective as of Oct. 17, 2006, and as if included in [Pub. L. 109–364][/us/pl/109/364] as enacted. See Effective Date of 2008 Amendment note under [section 624 of this title][/us/usc/t10/s624].\]
+    \[[Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181/dC/tXXXV], § 3526(a), Jan. 28, 2008, [122 Stat. 601][/us/stat/122/601], which directed amendment of [section 1017(b)(2) of Pub. L. 109–364][/us/pl/109/364/s1017/b/2], set out above, by substituting “sections 12112, 50501, and 55102 of title 46, United States Code” for “section 27 of the Merchant Marine Act, 1920 ([46 U.S.C. 883][/us/usc/t46/s883]), [section 12106 of title 46][/us/usc/t46/s12106], United States Code, and section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)”, could not be executed because those words did not appear subsequent to amendment by [section 1063(c)(9) of Pub. L. 110–181][/us/pl/110/181/s1063/c/9], which was effective as of Oct. 17, 2006, and as if included in [Pub. L. 109–364][/us/pl/109/364] as enacted. See Effective Date of 2008 Amendment note under [section 624 of this title][/us/usc/t10/s624].\]
 
  __Delegation of Authority Under the Cargo Preference Act__ 
 
@@ -174,19 +174,19 @@ Apr. 28, 1904, ch. 1766, 33 Stat. 518.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F146
-[/us/pl/103/160/s315/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs315%2Fa
+[/us/pl/103/160/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIII
 [/us/stat/107/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1619
 [/us/act/1904-04-28/ch1766/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1904-04-28%2Fch1766%2Fs1
 [/us/stat/33/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F518
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
-[/us/pl/103/160/s315/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs315%2Fb
+[/us/pl/103/160/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIII
 [/us/stat/107/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1619
-[/us/pl/109/364/s1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1017
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2379
-[/us/pl/110/181/s1063/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fc%2F9
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F323
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/110/181/s3526/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3526%2Fa
+[/us/pl/110/181/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXV
 [/us/stat/122/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F601
 [/us/pl/109/364/s1017/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1017%2Fb%2F2
 [/us/usc/t46/s883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs883

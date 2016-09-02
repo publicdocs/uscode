@@ -117,7 +117,7 @@ Amendments  </td>
 
 </table>
 
-    1996—[Pub. L. 104–201, div. A, title XII, § 1211(a)(2)][/us/pl/104/201/s1211/a/2], Sept. 23, 1996, [110 Stat. 2691][/us/stat/110/2691], added item for chapter 1006.
+    1996—[Pub. L. 104–201, div. A, title XII][/us/pl/104/201/dA/tXII], § 1211(a)(2), Sept. 23, 1996, [110 Stat. 2691][/us/stat/110/2691], added item for chapter 1006.
 
 ----------
 
@@ -126,7 +126,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/104/201/s1211/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1211%2Fa%2F2
+[/us/pl/104/201/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXII
 [/us/stat/110/2691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2691
 
 

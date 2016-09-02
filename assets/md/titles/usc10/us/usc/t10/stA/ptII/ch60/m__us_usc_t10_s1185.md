@@ -29,7 +29,7 @@
 
     (b) When a record is withheld under subsection (a)(4), the officer whose case is under consideration shall, to the extent that the interest of national security permits, be furnished a summary of the record so withheld.
 
-(Added [Pub. L. 96–513, title I, § 110][/us/pl/96/513/s110], Dec. 12, 1980, [94 Stat. 2874][/us/stat/94/2874].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 110, Dec. 12, 1980, [94 Stat. 2874][/us/stat/94/2874].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t10/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1181
-[/us/pl/96/513/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs110
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2874
 
 

@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5441.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5446.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5445)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5442...5444.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5446.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5445)
 
-## \[§ 5445. Repealed. [Pub. L. 96–513, title III, § 313(d)(1)][/us/pl/96/513/s313/d/1], Dec. 12, 1980, [94 Stat. 2892][/us/stat/94/2892]\]
+## \[§ 5445. Repealed. [Pub. L. 96–513, title III][/us/pl/96/513/tIII], § 313(d)(1), Dec. 12, 1980, [94 Stat. 2892][/us/stat/94/2892]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 306][/us/stat/70A/306], related to suspension of sections 5442, 5443, and 5444 of this title. See [section 526 of this title][/us/usc/t10/s526].
 
@@ -23,12 +23,12 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5441.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5446.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5445)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5442...5444.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5446.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5445)
 
 ----------
 ----------
 
-[/us/pl/96/513/s313/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs313%2Fd%2F1
+[/us/pl/96/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIII
 [/us/stat/94/2892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2892
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F306

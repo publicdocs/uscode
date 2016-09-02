@@ -51,11 +51,11 @@
 
     In this section, the term “covered congressional committees” means the Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Armed Services and the Select Committee on Intelligence of the Senate.
 
-(Added [Pub. L. 112–239, div. A, title IX, § 913(c)(1)][/us/pl/112/239/s913/c/1], Jan. 2, 2013, [126 Stat. 1875][/us/stat/126/1875].)
+(Added [Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 913(c)(1), Jan. 2, 2013, [126 Stat. 1875][/us/stat/126/1875].)
 
  __Prior Provisions__ 
 
-    A prior section 2277, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 127][/us/stat/70A/127], related to availability of appropriations, prior to repeal by [Pub. L. 103–160, div. A, title VIII, § 821(a)(1)][/us/pl/103/160/s821/a/1], Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
+    A prior section 2277, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 127][/us/stat/70A/127], related to availability of appropriations, prior to repeal by [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 821(a)(1), Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
 
 ----------
 
@@ -64,11 +64,11 @@
 ----------
 ----------
 
-[/us/pl/112/239/s913/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs913%2Fc%2F1
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
 [/us/stat/126/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1875
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F127
-[/us/pl/103/160/s821/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs821%2Fa%2F1
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1704
 
 

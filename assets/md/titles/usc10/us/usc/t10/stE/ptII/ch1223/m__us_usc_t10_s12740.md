@@ -23,11 +23,11 @@
 
     is not eligible for retired pay under this chapter.
 
-(Added [Pub. L. 104–106, div. A, title VI, § 632(a)(1)][/us/pl/104/106/s632/a/1], Feb. 10, 1996, [110 Stat. 365][/us/stat/110/365].)
+(Added [Pub. L. 104–106, div. A, title VI][/us/pl/104/106/dA/tVI], § 632(a)(1), Feb. 10, 1996, [110 Stat. 365][/us/stat/110/365].)
 
  __Effective Date__ 
 
-[Pub. L. 104–106, div. A, title VI, § 632(b)][/us/pl/104/106/s632/b], Feb. 10, 1996, [110 Stat. 365][/us/stat/110/365], provided that: 
+[Pub. L. 104–106, div. A, title VI][/us/pl/104/106/dA/tVI], § 632(b), Feb. 10, 1996, [110 Stat. 365][/us/stat/110/365], provided that: 
 
 > “[Section 12740 of title 10][/us/usc/t10/s12740], United States Code, as added by subsection (a), shall apply with respect to court-martial sentences adjudged after the date of the enactment of this Act \[Feb. 10, 1996\].”
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/104/106/s632/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs632%2Fa%2F1
+[/us/pl/104/106/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVI
 [/us/stat/110/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F365
-[/us/pl/104/106/s632/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs632%2Fb
+[/us/pl/104/106/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVI
 [/us/stat/110/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F365
 [/us/usc/t10/s12740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12740
 

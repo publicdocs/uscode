@@ -67,7 +67,7 @@
 
         From these officers, the board shall recommend by name the number prescribed by the Secretary, and the President may appoint any officer so recommended. If the President declines to appoint any of the recommended officers, or if the officer nominated cannot be appointed because of advice by the Senate, the Secretary shall convene a board to recommend additional officers. An officer who is recommended but not appointed shall be considered not to have been recommended. This does not affect his eligibility for selection and recommendation for the grade of brigadier general or major general under section 3306 or 3307 of this title.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 163][/us/stat/70A/163]; [Pub. L. 89–288, § 1][/us/pl/89/288/s1], Oct. 22, 1965, [79 Stat. 1050][/us/stat/79/1050]; [Pub. L. 89–718, § 24][/us/pl/89/718/s24], Nov. 2, 1966, [80 Stat. 1119][/us/stat/80/1119]; [Pub. L. 97–295, § 1(38)][/us/pl/97/295/s1/38], Oct. 12, 1982, [96 Stat. 1296][/us/stat/96/1296]; [Pub. L. 99–662, title IX, § 922][/us/pl/99/662/s922], Nov. 17, 1986, [100 Stat. 4194][/us/stat/100/4194]; [Pub. L. 100–26, § 7(a)(10)][/us/pl/100/26/s7/a/10], Apr. 21, 1987, [101 Stat. 278][/us/stat/101/278]; [Pub. L. 102–580, title II, § 211][/us/pl/102/580/s211], Oct. 31, 1992, [106 Stat. 4831][/us/stat/106/4831]; [Pub. L. 104–106, div. A, title V, § 506(a)][/us/pl/104/106/s506/a], Feb. 10, 1996, [110 Stat. 296][/us/stat/110/296]; [Pub. L. 104–201, div. A, title X, § 1074(a)(18)][/us/pl/104/201/s1074/a/18], Sept. 23, 1996, [110 Stat. 2660][/us/stat/110/2660].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 163][/us/stat/70A/163]; [Pub. L. 89–288][/us/pl/89/288], § 1, Oct. 22, 1965, [79 Stat. 1050][/us/stat/79/1050]; [Pub. L. 89–718][/us/pl/89/718], § 24, Nov. 2, 1966, [80 Stat. 1119][/us/stat/80/1119]; [Pub. L. 97–295][/us/pl/97/295], § 1(38), Oct. 12, 1982, [96 Stat. 1296][/us/stat/96/1296]; [Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 922, Nov. 17, 1986, [100 Stat. 4194][/us/stat/100/4194]; [Pub. L. 100–26][/us/pl/100/26], § 7(a)(10), Apr. 21, 1987, [101 Stat. 278][/us/stat/101/278]; [Pub. L. 102–580, title II][/us/pl/102/580/tII], § 211, Oct. 31, 1992, [106 Stat. 4831][/us/stat/106/4831]; [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 506(a), Feb. 10, 1996, [110 Stat. 296][/us/stat/110/296]; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1074(a)(18), Sept. 23, 1996, [110 Stat. 2660][/us/stat/110/2660].)
 
 <table>
 
@@ -257,13 +257,13 @@ Oct. 27, 1965, Pub. L. 89–298, § 219, 79 Stat. 1089.  </td>
 
  __Corps of Engineers; Annual Budget Submission__ 
 
-[Pub. L. 110–161, div. C, title I, § 114][/us/pl/110/161/s114], Dec. 26, 2007, [121 Stat. 1944][/us/stat/121/1944], provided that: 
+[Pub. L. 110–161, div. C, title I][/us/pl/110/161/dC/tI], § 114, Dec. 26, 2007, [121 Stat. 1944][/us/stat/121/1944], provided that: 
 
 > “All budget documents and justification materials for the Corps of Engineers annual budget submission to Congress shall be assembled and presented based on the most recent annual appropriations Act: Provided, That new budget proposals for fiscal year 2008 and thereafter, shall not be integrated into the budget justifications submitted to Congress but shall be submitted separately from the budget justifications documents.”
 
  __Chief of Engineers; Fiscal Transparency Report__ 
 
-[Pub. L. 110–114, title II, § 2027][/us/pl/110/114/s2027], Nov. 8, 2007, [121 Stat. 1079][/us/stat/121/1079], provided that:
+[Pub. L. 110–114, title II][/us/pl/110/114/tII], § 2027, Nov. 8, 2007, [121 Stat. 1079][/us/stat/121/1079], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -363,7 +363,7 @@ Oct. 27, 1965, Pub. L. 89–298, § 219, 79 Stat. 1089.  </td>
 
  __Chief of Engineers; Work or Services for Other Federal Departments and Agencies__ 
 
-    [Pub. L. 89–298, title II, § 219][/us/pl/89/298/s219], Oct. 27, 1965, [79 Stat. 1089][/us/stat/79/1089], which provided that the Chief of Engineers, under the supervision of the Secretary of the Army, was authorized to accept orders from other Federal departments and agencies for work or services and to perform all or any part of such work or services by contract, was repealed and restated in subsec. (d) of this section by [Pub. L. 97–295][/us/pl/97/295], §§ 1(38), 6(b), Oct. 12, 1982, [96 Stat. 1296][/us/stat/96/1296], 1314.
+    [Pub. L. 89–298, title II][/us/pl/89/298/tII], § 219, Oct. 27, 1965, [79 Stat. 1089][/us/stat/79/1089], which provided that the Chief of Engineers, under the supervision of the Secretary of the Army, was authorized to accept orders from other Federal departments and agencies for work or services and to perform all or any part of such work or services by contract, was repealed and restated in subsec. (d) of this section by [Pub. L. 97–295][/us/pl/97/295], §§ 1(38), 6(b), Oct. 12, 1982, [96 Stat. 1296][/us/stat/96/1296], 1314.
 
  __Department of Defense Reorganization Order__ 
 
@@ -413,21 +413,21 @@ The Adjutant General.
 [/us/usc/t10/s3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3037
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F163
-[/us/pl/89/288/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F288%2Fs1
+[/us/pl/89/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F288
 [/us/stat/79/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1050
-[/us/pl/89/718/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs24
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1119
-[/us/pl/97/295/s1/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F38
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1296
-[/us/pl/99/662/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs922
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4194
-[/us/pl/100/26/s7/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fa%2F10
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F278
-[/us/pl/102/580/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs211
+[/us/pl/102/580/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtII
 [/us/stat/106/4831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4831
-[/us/pl/104/106/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs506%2Fa
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F296
-[/us/pl/104/201/s1074/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fa%2F18
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2660
 [/us/usc/t10/s559g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs559g
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
@@ -438,15 +438,15 @@ The Adjutant General.
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/pl/89/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F288
-[/us/pl/110/161/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs114
+[/us/pl/110/161/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdC%2FtI
 [/us/stat/121/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1944
-[/us/pl/110/114/s2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2027
+[/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII
 [/us/stat/121/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1079
 [/us/usc/t33/s1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1804
 [/us/usc/t33/s2323a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2323a
 [/us/pl/110/114/s2003/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2003%2Ff%2F3
 [/us/usc/t42/s1962d–5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935b
-[/us/pl/89/298/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298%2Fs219
+[/us/pl/89/298/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298%2FtII
 [/us/stat/79/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1089
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1296

@@ -27,11 +27,11 @@
 
     (5) The Commandant of the Marine Corps.
 
-(Added [Pub. L. 99–433, title V, § 511(c)(4)][/us/pl/99/433/s511/c/4], Oct. 1, 1986, [100 Stat. 1047][/us/stat/100/1047]; amended [Pub. L. 103–337, div. A, title IX, § 902(b)][/us/pl/103/337/s902/b], Oct. 5, 1994, [108 Stat. 2823][/us/stat/108/2823].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 511(c)(4), Oct. 1, 1986, [100 Stat. 1047][/us/stat/100/1047]; amended [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 902(b), Oct. 5, 1994, [108 Stat. 2823][/us/stat/108/2823].)
 
  __References in Text__ 
 
-    [Section 3347 of title 5][/us/usc/t5/s3347], referred to in text, was repealed and a new section 3347 was enacted by [Pub. L. 105–277, div. C, title I, § 151(b)][/us/pl/105/277/s151/b], Oct. 21, 1998, [112 Stat. 2681–611][/us/stat/112/2681-611], and, as so enacted, no longer contains provisions authorizing the President to direct temporary successors to duties. See [section 3345 of Title 5][/us/usc/t5/s3345], Government Organization and Employees.
+    [Section 3347 of title 5][/us/usc/t5/s3347], referred to in text, was repealed and a new section 3347 was enacted by [Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 151(b), Oct. 21, 1998, [112 Stat. 2681–611][/us/stat/112/2681-611], and, as so enacted, no longer contains provisions authorizing the President to direct temporary successors to duties. See [section 3345 of Title 5][/us/usc/t5/s3345], Government Organization and Employees.
 
  __Prior Provisions__ 
 
@@ -52,12 +52,12 @@
 ----------
 ----------
 
-[/us/pl/99/433/s511/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fc%2F4
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1047
-[/us/pl/103/337/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs902%2Fb
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2823
 [/us/usc/t5/s3347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3347
-[/us/pl/105/277/s151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs151%2Fb
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-611
 [/us/usc/t5/s3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3345
 [/us/usc/t10/s5036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5036

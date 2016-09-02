@@ -63,7 +63,7 @@ Jan. 16, 1936, ch. 3, § 1, 49 Stat. 1092.  </td>
 
 </table>
 
-    The words “whose employment commences from and after the date of approval of this act” are omitted as surplusage. Under § 4 of the Act, members already employed when the Act was approved were given 60 days in which to decide whether or not they wished to participate in the benefits provided by the Act. Those who chose not to participate are excluded from the application of this chapter by [§ 7081 of this title][/us/usc/t10/s7081].
+    The words “whose employment commences from and after the date of approval of this act” are omitted as surplusage. Under § 4 of the Act, members already employed when the Act was approved were given 60 days in which to decide whether or not they wished to participate in the benefits provided by the Act. Those who chose not to participate are excluded from the application of this chapter by § 7081 of this title.
 
 ----------
 
@@ -74,6 +74,5 @@ Jan. 16, 1936, ch. 3, § 1, 49 Stat. 1092.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F439
-[/us/usc/t10/s7081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7081
 
 

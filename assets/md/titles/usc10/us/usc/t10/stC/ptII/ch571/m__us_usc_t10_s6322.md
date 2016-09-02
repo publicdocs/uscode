@@ -19,7 +19,7 @@
 
     (b) For the purpose of this section, an officer’s years of active service are computed by adding all his active service in the armed forces.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 394][/us/stat/70A/394]; [Pub. L. 96–342, title VIII, § 813(d)(1)][/us/pl/96/342/s813/d/1], Sept. 8, 1980, [94 Stat. 1104][/us/stat/94/1104]; [Pub. L. 96–513, § 513(17)][/us/pl/96/513/s513/17], Dec. 12, 1980, [94 Stat. 2932][/us/stat/94/2932]; [Pub. L. 99–348, title II, § 203(b)(1)][/us/pl/99/348/s203/b/1], July 1, 1986, [100 Stat. 696][/us/stat/100/696].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 394][/us/stat/70A/394]; [Pub. L. 96–342, title VIII][/us/pl/96/342/tVIII], § 813(d)(1), Sept. 8, 1980, [94 Stat. 1104][/us/stat/94/1104]; [Pub. L. 96–513][/us/pl/96/513], § 513(17), Dec. 12, 1980, [94 Stat. 2932][/us/stat/94/2932]; [Pub. L. 99–348, title II][/us/pl/99/348/tII], § 203(b)(1), July 1, 1986, [100 Stat. 696][/us/stat/100/696].)
 
 <table>
 
@@ -124,11 +124,11 @@ Aug. 7, 1947, ch. 512, § 314(a) (1st sentence), 61 Stat. 863; May 5, 1954, ch
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F394
-[/us/pl/96/342/s813/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs813%2Fd%2F1
+[/us/pl/96/342/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtVIII
 [/us/stat/94/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1104
-[/us/pl/96/513/s513/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F17
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/stat/94/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2932
-[/us/pl/99/348/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs203%2Fb%2F1
+[/us/pl/99/348/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtII
 [/us/stat/100/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F696
 [/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

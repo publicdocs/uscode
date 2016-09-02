@@ -37,7 +37,7 @@
 
         (3) Deputy commander, United States European Command, but only if the commander of that command is also the Supreme Allied Commander, Europe.
 
-(Added [Pub. L. 103–337, div. A, title IV, § 405(c)(1)][/us/pl/103/337/s405/c/1], Oct. 5, 1994, [108 Stat. 2745][/us/stat/108/2745]; amended [Pub. L. 104–201, div. A, title IV, § 404(a)][/us/pl/104/201/s404/a], Sept. 23, 1996, [110 Stat. 2506][/us/stat/110/2506]; [Pub. L. 106–65, div. A, title V, § 509(a)][/us/pl/106/65/s509/a], Oct. 5, 1999, [113 Stat. 592][/us/stat/113/592]; [Pub. L. 107–314, div. A, title IV, § 405(a)][/us/pl/107/314/s405/a], Dec. 2, 2002, [116 Stat. 2526][/us/stat/116/2526]; [Pub. L. 108–136, div. A, title V, § 504(a)][/us/pl/108/136/s504/a], Nov. 24, 2003, [117 Stat. 1456][/us/stat/117/1456].)
+(Added [Pub. L. 103–337, div. A, title IV][/us/pl/103/337/dA/tIV], § 405(c)(1), Oct. 5, 1994, [108 Stat. 2745][/us/stat/108/2745]; amended [Pub. L. 104–201, div. A, title IV][/us/pl/104/201/dA/tIV], § 404(a), Sept. 23, 1996, [110 Stat. 2506][/us/stat/110/2506]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 509(a), Oct. 5, 1999, [113 Stat. 592][/us/stat/113/592]; [Pub. L. 107–314, div. A, title IV][/us/pl/107/314/dA/tIV], § 405(a), Dec. 2, 2002, [116 Stat. 2526][/us/stat/116/2526]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 504(a), Nov. 24, 2003, [117 Stat. 1456][/us/stat/117/1456].)
 
  __Amendments__ 
 
@@ -56,15 +56,15 @@
 ----------
 ----------
 
-[/us/pl/103/337/s405/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs405%2Fc%2F1
+[/us/pl/103/337/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIV
 [/us/stat/108/2745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2745
-[/us/pl/104/201/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs404%2Fa
+[/us/pl/104/201/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIV
 [/us/stat/110/2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2506
-[/us/pl/106/65/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs509%2Fa
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F592
-[/us/pl/107/314/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs405%2Fa
+[/us/pl/107/314/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtIV
 [/us/stat/116/2526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2526
-[/us/pl/108/136/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs504%2Fa
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1456
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314

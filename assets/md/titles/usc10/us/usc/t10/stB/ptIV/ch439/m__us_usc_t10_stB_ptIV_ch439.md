@@ -99,11 +99,11 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–510, div. A, title XV, § 1533(a)(5)(C)][/us/pl/101/510/s1533/a/5/C], Nov. 5, 1990, [104 Stat. 1734][/us/stat/104/1734], amended item 4624 generally, substituting “Armed Forces Retirement Home” for “Soldiers’ and Airmen’s Home”.
+    1990—[Pub. L. 101–510, div. A, title XV][/us/pl/101/510/dA/tXV], § 1533(a)(5)(C), Nov. 5, 1990, [104 Stat. 1734][/us/stat/104/1734], amended item 4624 generally, substituting “Armed Forces Retirement Home” for “Soldiers’ and Airmen’s Home”.
 
-    1980—[Pub. L. 96–513, title V, § 512(18)(C)][/us/pl/96/513/s512/18/C], Dec. 12, 1980, [94 Stat. 2930][/us/stat/94/2930], inserted “and Airmen’s” after “Soldiers’ ” in item 4624.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], § 512(18)(C), Dec. 12, 1980, [94 Stat. 2930][/us/stat/94/2930], inserted “and Airmen’s” after “Soldiers’ ” in item 4624.
 
-    1970—[Pub. L. 91–482, § 2B][/us/pl/91/482/s2B], Oct. 21, 1970, [84 Stat. 1082][/us/stat/84/1082], struck out item 4623 “Tobacco: enlisted members of Army”.
+    1970—[Pub. L. 91–482][/us/pl/91/482], § 2B, Oct. 21, 1970, [84 Stat. 1082][/us/stat/84/1082], struck out item 4623 “Tobacco: enlisted members of Army”.
 
 ----------
 
@@ -112,11 +112,11 @@
 ----------
 ----------
 
-[/us/pl/101/510/s1533/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1533%2Fa%2F5%2FC
+[/us/pl/101/510/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXV
 [/us/stat/104/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1734
-[/us/pl/96/513/s512/18/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs512%2F18%2FC
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2930
-[/us/pl/91/482/s2B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F482%2Fs2B
+[/us/pl/91/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F482
 [/us/stat/84/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1082
 
 

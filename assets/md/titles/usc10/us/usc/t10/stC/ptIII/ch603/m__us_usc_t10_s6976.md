@@ -41,7 +41,7 @@
 
     Nothing in [section 6971 of this title][/us/usc/t10/s6971] shall be construed to require the Secretary of the Navy or the Superintendent of the Naval Academy to operate a dairy farm for the Naval Academy in Gambrills, Maryland, or any other location.
 
-(Added [Pub. L. 105–85, div. B, title XXVIII, § 2871(a)(1)][/us/pl/105/85/s2871/a/1], Nov. 18, 1997, [111 Stat. 2014][/us/stat/111/2014]; amended [Pub. L. 106–65, div. B, title XXVIII, § 2814][/us/pl/106/65/s2814], Oct. 5, 1999, [113 Stat. 851][/us/stat/113/851].)
+(Added [Pub. L. 105–85, div. B, title XXVIII][/us/pl/105/85/dB/tXXVIII], § 2871(a)(1), Nov. 18, 1997, [111 Stat. 2014][/us/stat/111/2014]; amended [Pub. L. 106–65, div. B, title XXVIII][/us/pl/106/65/dB/tXXVIII], § 2814, Oct. 5, 1999, [113 Stat. 851][/us/stat/113/851].)
 
  __Amendments__ 
 
@@ -55,9 +55,9 @@
 ----------
 
 [/us/usc/t10/s6971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6971
-[/us/pl/105/85/s2871/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2871%2Fa%2F1
+[/us/pl/105/85/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdB%2FtXXVIII
 [/us/stat/111/2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2014
-[/us/pl/106/65/s2814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2814
+[/us/pl/106/65/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdB%2FtXXVIII
 [/us/stat/113/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F851
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 

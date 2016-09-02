@@ -21,7 +21,7 @@
 
     (c) No naval pension under this section shall be paid at a rate in excess of the rate payable to a veteran of World War I for permanent and total non-service-connected disability, unless the applicant’s disability is service-connected, in which case the naval pension payable to him shall not exceed the rate of disability compensation payable for total disability to a veteran of any war, or of peacetime service, as the case may be. In the case of any initial award of naval pension granted before July 14, 1943, where the person granted the naval pension is also entitled to pension or compensation under laws administered by the Secretary of Veterans Affairs, such naval pension shall not exceed one-fourth of such pension or compensation.
 
-(Added [Pub. L. 85–56, title XXII, § 2201(31)(C)][/us/pl/85/56/s2201/31/C], June 17, 1957, [71 Stat. 161][/us/stat/71/161]; amended [Pub. L. 85–857, § 13(v)(4)][/us/pl/85/857/s13/v/4], Sept. 2, 1958, [72 Stat. 1268][/us/stat/72/1268]; [Pub. L. 99–145, title XIII, § 1301(c)(1)][/us/pl/99/145/s1301/c/1], Nov. 8, 1985, [99 Stat. 736][/us/stat/99/736]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(2)][/us/pl/101/189/s1621/a/2], Nov. 29, 1989, [103 Stat. 1603][/us/stat/103/1603]; [Pub. L. 101–510, div. A, title XIV, § 1484(j)(4)][/us/pl/101/510/s1484/j/4], Nov. 5, 1990, [104 Stat. 1719][/us/stat/104/1719].)
+(Added [Pub. L. 85–56, title XXII][/us/pl/85/56/tXXII], § 2201(31)(C), June 17, 1957, [71 Stat. 161][/us/stat/71/161]; amended [Pub. L. 85–857][/us/pl/85/857], § 13(v)(4), Sept. 2, 1958, [72 Stat. 1268][/us/stat/72/1268]; [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1301(c)(1), Nov. 8, 1985, [99 Stat. 736][/us/stat/99/736]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(2), Nov. 29, 1989, [103 Stat. 1603][/us/stat/103/1603]; [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1484(j)(4), Nov. 5, 1990, [104 Stat. 1719][/us/stat/104/1719].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date of 1958 Amendment__ 
 
-    [Pub. L. 85–857, § 13(v)(4)][/us/pl/85/857/s13/v/4], Sept. 2, 1958, [72 Stat. 1268][/us/stat/72/1268], provided that the amendment made by that section is effective as of Jan. 1, 1958.
+    [Pub. L. 85–857][/us/pl/85/857], § 13(v)(4), Sept. 2, 1958, [72 Stat. 1268][/us/stat/72/1268], provided that the amendment made by that section is effective as of Jan. 1, 1958.
 
  __Effective Date__ 
 
@@ -48,21 +48,21 @@
 ----------
 ----------
 
-[/us/pl/85/56/s2201/31/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F56%2Fs2201%2F31%2FC
+[/us/pl/85/56/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F56%2FtXXII
 [/us/stat/71/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F161
-[/us/pl/85/857/s13/v/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs13%2Fv%2F4
+[/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1268
-[/us/pl/99/145/s1301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1301%2Fc%2F1
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F736
-[/us/pl/101/189/s1621/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F2
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1603
-[/us/pl/101/510/s1484/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484%2Fj%2F4
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1719
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
-[/us/pl/85/857/s13/v/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs13%2Fv%2F4
+[/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1268
 [/us/pl/85/56/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F56%2Fs2301
 

@@ -21,7 +21,7 @@
 
     (2) to provide such law enforcement officials with expert advice relevant to the purposes of this chapter.
 
-(Added [Pub. L. 97–86, title IX, § 905(a)(1)][/us/pl/97/86/s905/a/1], Dec. 1, 1981, [95 Stat. 1115][/us/stat/95/1115]; amended [Pub. L. 99–145, title XIV, § 1423(a)][/us/pl/99/145/s1423/a], Nov. 8, 1985, [99 Stat. 752][/us/stat/99/752]; [Pub. L. 100–456, div. A, title XI, § 1104(a)][/us/pl/100/456/s1104/a], Sept. 29, 1988, [102 Stat. 2043][/us/stat/102/2043].)
+(Added [Pub. L. 97–86, title IX][/us/pl/97/86/tIX], § 905(a)(1), Dec. 1, 1981, [95 Stat. 1115][/us/stat/95/1115]; amended [Pub. L. 99–145, title XIV][/us/pl/99/145/tXIV], § 1423(a), Nov. 8, 1985, [99 Stat. 752][/us/stat/99/752]; [Pub. L. 100–456, div. A, title XI][/us/pl/100/456/dA/tXI], § 1104(a), Sept. 29, 1988, [102 Stat. 2043][/us/stat/102/2043].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–145, title XIV, § 1423(b)][/us/pl/99/145/s1423/b], Nov. 8, 1985, [99 Stat. 752][/us/stat/99/752], provided that: 
+[Pub. L. 99–145, title XIV][/us/pl/99/145/tXIV], § 1423(b), Nov. 8, 1985, [99 Stat. 752][/us/stat/99/752], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 1986.”
 
@@ -43,15 +43,15 @@
 ----------
 
 [/us/usc/t10/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs372
-[/us/pl/97/86/s905/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs905%2Fa%2F1
+[/us/pl/97/86/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIX
 [/us/stat/95/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1115
-[/us/pl/99/145/s1423/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1423%2Fa
+[/us/pl/99/145/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIV
 [/us/stat/99/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F752
-[/us/pl/100/456/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1104%2Fa
+[/us/pl/100/456/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXI
 [/us/stat/102/2043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2043
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
-[/us/pl/99/145/s1423/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1423%2Fb
+[/us/pl/99/145/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIV
 [/us/stat/99/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F752
 
 

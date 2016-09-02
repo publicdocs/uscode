@@ -59,7 +59,7 @@
 
     In this chapter, the term “extension of a program” means, with respect to a major automated information system program or other major information technology investment program, the further deployment or planned deployment to additional users of the system which has already been found operationally effective and suitable by an independent test agency or the Director of Operational Test and Evaluation, beyond the scope planned in the original estimate or information originally submitted on the program.
 
-(Added [Pub. L. 109–364, div. A, title VIII, § 816(a)(1)][/us/pl/109/364/s816/a/1], Oct. 17, 2006, [120 Stat. 2323][/us/stat/120/2323]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 812(a)(1), (2), Oct. 14, 2008, [122 Stat. 4525][/us/stat/122/4525]; [Pub. L. 111–84, div. A, title VIII, § 841(c)][/us/pl/111/84/s841/c], Oct. 28, 2009, [123 Stat. 2418][/us/stat/123/2418]; [Pub. L. 113–66, div. A, title X, § 1092(a)][/us/pl/113/66/s1092/a], Dec. 26, 2013, [127 Stat. 877][/us/stat/127/877].)
+(Added [Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 816(a)(1), Oct. 17, 2006, [120 Stat. 2323][/us/stat/120/2323]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 812(a)(1), (2), Oct. 14, 2008, [122 Stat. 4525][/us/stat/122/4525]; [Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], § 841(c), Oct. 28, 2009, [123 Stat. 2418][/us/stat/123/2418]; [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1092(a), Dec. 26, 2013, [127 Stat. 877][/us/stat/127/877].)
 
  __Amendments__ 
 
@@ -67,15 +67,15 @@
 
     2009—Subsecs. (e), (f). [Pub. L. 111–84][/us/pl/111/84] added subsecs. (e) and (f).
 
-    2008—[Pub. L. 110–417, § 812(a)(2)][/us/pl/110/417/s812/a/2], substituted “Definitions” for “Major automated information system program defined” in section catchline.
+    2008—[Pub. L. 110–417][/us/pl/110/417], § 812(a)(2), substituted “Definitions” for “Major automated information system program defined” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–417, § 812(a)(1)(A)][/us/pl/110/417/s812/a/1/A], substituted “Major Automated Information System Program” for “In General” in heading.
+    Subsec. (a). [Pub. L. 110–417][/us/pl/110/417], § 812(a)(1)(A), substituted “Major Automated Information System Program” for “In General” in heading.
 
-    Subsec. (d). [Pub. L. 110–417, § 812(a)(1)(B)][/us/pl/110/417/s812/a/1/B], added subsec. (d).
+    Subsec. (d). [Pub. L. 110–417][/us/pl/110/417], § 812(a)(1)(B), added subsec. (d).
 
  __Effective Date__ 
 
-[Pub. L. 109–364, div. A, title VIII, § 816(c)][/us/pl/109/364/s816/c], Oct. 17, 2006, [120 Stat. 2326][/us/stat/120/2326], provided that:
+[Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 816(c), Oct. 17, 2006, [120 Stat. 2326][/us/stat/120/2326], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -87,7 +87,7 @@
 
  __Science and Technology Activities To Support Business Systems Information Technology Acquisition Programs__ 
 
-[Pub. L. 114–92, div. A, title II, § 217][/us/pl/114/92/s217], Nov. 25, 2015, [129 Stat. 770][/us/stat/129/770], provided that:
+[Pub. L. 114–92, div. A, title II][/us/pl/114/92/dA/tII], § 217, Nov. 25, 2015, [129 Stat. 770][/us/stat/129/770], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -206,24 +206,24 @@
 ----------
 ----------
 
-[/us/pl/109/364/s816/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs816%2Fa%2F1
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2323
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4525
-[/us/pl/111/84/s841/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs841%2Fc
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2418
-[/us/pl/113/66/s1092/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1092%2Fa
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F877
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/110/417/s812/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs812%2Fa%2F2
-[/us/pl/110/417/s812/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs812%2Fa%2F1%2FA
-[/us/pl/110/417/s812/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs812%2Fa%2F1%2FB
-[/us/pl/109/364/s816/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs816%2Fc
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2326
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/stat/120/2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2326
-[/us/pl/114/92/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs217
+[/us/pl/114/92/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtII
 [/us/stat/129/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F770
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
 

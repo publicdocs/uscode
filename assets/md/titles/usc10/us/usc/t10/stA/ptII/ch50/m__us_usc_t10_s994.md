@@ -27,7 +27,7 @@
 
     The veterinary care provided under the system authorized by this section shall meet such standards as the Secretary shall establish and from time to time update.
 
-(Added [Pub. L. 112–239, div. A, title III, § 371(b)(1)][/us/pl/112/239/s371/b/1], Jan. 2, 2013, [126 Stat. 1706][/us/stat/126/1706].)
+(Added [Pub. L. 112–239, div. A, title III][/us/pl/112/239/dA/tIII], § 371(b)(1), Jan. 2, 2013, [126 Stat. 1706][/us/stat/126/1706].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t10/s2583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2583
-[/us/pl/112/239/s371/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs371%2Fb%2F1
+[/us/pl/112/239/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIII
 [/us/stat/126/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1706
 
 

@@ -63,7 +63,7 @@
 
         (2) In the case of a cadet eligible to receive financial assistance under paragraph (1), the Secretary of the military department concerned may, in lieu of all or part of the financial assistance described in paragraph (1), provide financial assistance in the form of room and board expenses for such cadet and other expenses required by the educational institution.
 
-        \[(3) Repealed. [Pub. L. 109–163, div. A, title V, § 531(b)][/us/pl/109/163/s531/b], Jan. 6, 2006, [119 Stat. 3247][/us/stat/119/3247].\]
+        \[(3) Repealed. [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 531(b), Jan. 6, 2006, [119 Stat. 3247][/us/stat/119/3247].\]
 
         (4)
 
@@ -95,55 +95,55 @@
 
     (j) Financial assistance provided under this section to a cadet appointed at a military junior college is designated as, and shall be known as, an “Ike Skelton Early Commissioning Program Scholarship”.
 
-(Added [Pub. L. 96–357, § 1(c)(1)][/us/pl/96/357/s1/c/1], Sept. 24, 1980, [94 Stat. 1179][/us/stat/94/1179]; amended [Pub. L. 102–190, div. A, title V, § 522(a)][/us/pl/102/190/s522/a], (b)(1), Dec. 5, 1991, [105 Stat. 1362][/us/stat/105/1362]; [Pub. L. 104–201, div. A, title V][/us/pl/104/201], §§ 507(a)(3), 555(a), Sept. 23, 1996, [110 Stat. 2512][/us/stat/110/2512], 2527; [Pub. L. 105–85, div. A, title X, § 1073(a)(36)][/us/pl/105/85/s1073/a/36], Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902]; [Pub. L. 107–107, div. A, title V][/us/pl/107/107], §§ 534(b), 536(a), (c), Dec. 28, 2001, [115 Stat. 1106][/us/stat/115/1106], 1107; [Pub. L. 108–136, div. A, title V][/us/pl/108/136], §§ 521(b), 522, Nov. 24, 2003, [117 Stat. 1463][/us/stat/117/1463]; [Pub. L. 108–375, div. A, title V, § 524(b)][/us/pl/108/375/s524/b], Oct. 28, 2004, [118 Stat. 1889][/us/stat/118/1889]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163], §§ 531(b), 532, 534(b), 536, Jan. 6, 2006, [119 Stat. 3247–3249][/us/stat/119/3247-3249]; [Pub. L. 109–364, div. A, title V, § 535][/us/pl/109/364/s535], Oct. 17, 2006, [120 Stat. 2207][/us/stat/120/2207]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181], §§ 522, 523, Jan. 28, 2008, [122 Stat. 102][/us/stat/122/102], 103; [Pub. L. 111–84, div. A, title V, § 522][/us/pl/111/84/s522], Oct. 28, 2009, [123 Stat. 2285][/us/stat/123/2285].)
+(Added [Pub. L. 96–357][/us/pl/96/357], § 1(c)(1), Sept. 24, 1980, [94 Stat. 1179][/us/stat/94/1179]; amended [Pub. L. 102–190, div. A, title V][/us/pl/102/190/dA/tV], § 522(a), (b)(1), Dec. 5, 1991, [105 Stat. 1362][/us/stat/105/1362]; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], §§ 507(a)(3), 555(a), Sept. 23, 1996, [110 Stat. 2512][/us/stat/110/2512], 2527; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(36), Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902]; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], §§ 534(b), 536(a), (c), Dec. 28, 2001, [115 Stat. 1106][/us/stat/115/1106], 1107; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], §§ 521(b), 522, Nov. 24, 2003, [117 Stat. 1463][/us/stat/117/1463]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 524(b), Oct. 28, 2004, [118 Stat. 1889][/us/stat/118/1889]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], §§ 531(b), 532, 534(b), 536, Jan. 6, 2006, [119 Stat. 3247–3249][/us/stat/119/3247-3249]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 535, Oct. 17, 2006, [120 Stat. 2207][/us/stat/120/2207]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], §§ 522, 523, Jan. 28, 2008, [122 Stat. 102][/us/stat/122/102], 103; [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 522, Oct. 28, 2009, [123 Stat. 2285][/us/stat/123/2285].)
 
  __Amendments__ 
 
     2009—Subsec. (h). [Pub. L. 111–84][/us/pl/111/84] substituted “22 cadets” for “17 cadets”, “22 members” for “17 members”, and “22 such members” for “17 such members”.
 
-    2008—Subsec. (b)(3). [Pub. L. 110–181, § 522][/us/pl/110/181/s522], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In the case of a cadet under this section at a military junior college, or a cadet or former cadet under this section who signs an agreement under [section 2122 of this title][/us/usc/t10/s2122], the Secretary may, at any time and with the consent of the cadet, or former cadet, concerned, modify an agreement described in paragraph (1)(F) submitted by the cadet, or former cadet, to reduce or eliminate the troop program unit service obligation specified in the agreement and to establish, in lieu of that obligation, an active duty service obligation. Such a modification may be made only if the Secretary determines that it is in the best interests of the United States to do so.”
+    2008—Subsec. (b)(3). [Pub. L. 110–181][/us/pl/110/181], § 522, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In the case of a cadet under this section at a military junior college, or a cadet or former cadet under this section who signs an agreement under [section 2122 of this title][/us/usc/t10/s2122], the Secretary may, at any time and with the consent of the cadet, or former cadet, concerned, modify an agreement described in paragraph (1)(F) submitted by the cadet, or former cadet, to reduce or eliminate the troop program unit service obligation specified in the agreement and to establish, in lieu of that obligation, an active duty service obligation. Such a modification may be made only if the Secretary determines that it is in the best interests of the United States to do so.”
 
-    Subsec. (h). [Pub. L. 110–181, § 523][/us/pl/110/181/s523], substituted “each year under this section” for “not more than 416 cadets each year under this section, to include”.
+    Subsec. (h). [Pub. L. 110–181][/us/pl/110/181], § 523, substituted “each year under this section” for “not more than 416 cadets each year under this section, to include”.
 
-    2006—Subsec. (b)(1)(A). [Pub. L. 109–163, § 534(b)][/us/pl/109/163/s534/b], inserted “or national” after “citizen”.
+    2006—Subsec. (b)(1)(A). [Pub. L. 109–163][/us/pl/109/163], § 534(b), inserted “or national” after “citizen”.
 
     Subsec. (b)(3). [Pub. L. 109–364][/us/pl/109/364] inserted “or a cadet or former cadet under this section who signs an agreement under [section 2122 of this title][/us/usc/t10/s2122],” after “military junior college,” and “, or former cadet,” after “consent of the cadet” and after “submitted by the cadet”.
 
-    Subsec. (c)(3). [Pub. L. 109–163, § 531(b)][/us/pl/109/163/s531/b], struck out par. (3) which read as follows: “The total amount of financial assistance, including the payment of room and board and any other educational expenses, provided to a cadet in an academic year under this subsection may not exceed an amount equal to the amount that could be provided as financial assistance for such cadet under paragraph (1), or another amount determined by the Secretary of the Army, without regard to whether the room and board and other educational expenses for such cadet are paid under paragraph (2).”
+    Subsec. (c)(3). [Pub. L. 109–163][/us/pl/109/163], § 531(b), struck out par. (3) which read as follows: “The total amount of financial assistance, including the payment of room and board and any other educational expenses, provided to a cadet in an academic year under this subsection may not exceed an amount equal to the amount that could be provided as financial assistance for such cadet under paragraph (1), or another amount determined by the Secretary of the Army, without regard to whether the room and board and other educational expenses for such cadet are paid under paragraph (2).”
 
-    Subsec. (h). [Pub. L. 109–163, § 532][/us/pl/109/163/s532], substituted “416” for “208”.
+    Subsec. (h). [Pub. L. 109–163][/us/pl/109/163], § 532, substituted “416” for “208”.
 
-    Subsec. (j). [Pub. L. 109–163, § 536][/us/pl/109/163/s536], added subsec. (j).
+    Subsec. (j). [Pub. L. 109–163][/us/pl/109/163], § 536, added subsec. (j).
 
     2004—Subsec. (c)(4). [Pub. L. 108–375][/us/pl/108/375] added par. (4).
 
-    2003—Subsec. (c). [Pub. L. 108–136, § 521(b)][/us/pl/108/136/s521/b], designated existing provisions as par. (1) and added pars. (2) and (3).
+    2003—Subsec. (c). [Pub. L. 108–136][/us/pl/108/136], § 521(b), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-    Subsec. (h). [Pub. L. 108–136, § 522][/us/pl/108/136/s522], substituted “17” for “10” wherever appearing.
+    Subsec. (h). [Pub. L. 108–136][/us/pl/108/136], § 522, substituted “17” for “10” wherever appearing.
 
-    2001—Subsec. (a)(1). [Pub. L. 107–107, § 534(b)][/us/pl/107/107/s534/b], substituted “31 years of age on December 31” for “27 years of age on June 30” and struck out “, except that the age of any such member who has served on active duty in the armed forces may exceed such age limitation on such date by a period equal to the period such member served on active duty, but only if such member will be under 30 years of age on such date” before period at end.
+    2001—Subsec. (a)(1). [Pub. L. 107–107][/us/pl/107/107], § 534(b), substituted “31 years of age on December 31” for “27 years of age on June 30” and struck out “, except that the age of any such member who has served on active duty in the armed forces may exceed such age limitation on such date by a period equal to the period such member served on active duty, but only if such member will be under 30 years of age on such date” before period at end.
 
-    Subsec. (b). [Pub. L. 107–107, § 536(a)][/us/pl/107/107/s536/a], designated introductory provisions of subsec. (b) as introductory provisions of par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), redesignated former concluding provisions as par. (2), and added par. (3).
+    Subsec. (b). [Pub. L. 107–107][/us/pl/107/107], § 536(a), designated introductory provisions of subsec. (b) as introductory provisions of par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), redesignated former concluding provisions as par. (2), and added par. (3).
 
-    Subsec. (h). [Pub. L. 107–107, § 536(c)][/us/pl/107/107/s536/c], substituted “At any military junior college” for “At any military college” in second sentence.
+    Subsec. (h). [Pub. L. 107–107][/us/pl/107/107], § 536(c), substituted “At any military junior college” for “At any military college” in second sentence.
 
     1997—Subsec. (g). [Pub. L. 105–85][/us/pl/105/85] inserted “the” after “August 1, 1979, as a member of”.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–201, § 555(a)][/us/pl/104/201/s555/a], substituted “27 years of age” for “25 years of age” and “30 years of age” for “29 years of age”.
+    1996—Subsec. (a)(1). [Pub. L. 104–201][/us/pl/104/201], § 555(a), substituted “27 years of age” for “25 years of age” and “30 years of age” for “29 years of age”.
 
-    Subsec. (g). [Pub. L. 104–201, § 507(a)(3)][/us/pl/104/201/s507/a/3], inserted “, other than enlisted service performed after August 1, 1979, as a member of Selected Reserve” before period at end.
+    Subsec. (g). [Pub. L. 104–201][/us/pl/104/201], § 507(a)(3), inserted “, other than enlisted service performed after August 1, 1979, as a member of Selected Reserve” before period at end.
 
-    1991—[Pub. L. 102–190, § 522(b)(1)][/us/pl/102/190/s522/b/1], substituted “Army Reserve and Army National Guard” for “military junior colleges” in section catchline.
+    1991—[Pub. L. 102–190][/us/pl/102/190], § 522(b)(1), substituted “Army Reserve and Army National Guard” for “military junior colleges” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 102–190, § 522(a)(1)][/us/pl/102/190/s522/a/1], substituted “enrolled in the Advanced Course of the Army Reserve Officers’ Training Corps at a military college, military junior college, or civilian institution” for “a student at a military junior college” and inserted “Reserve or Army National Guard” after “second lieutenant in the Army”.
+    Subsec. (a)(1). [Pub. L. 102–190][/us/pl/102/190], § 522(a)(1), substituted “enrolled in the Advanced Course of the Army Reserve Officers’ Training Corps at a military college, military junior college, or civilian institution” for “a student at a military junior college” and inserted “Reserve or Army National Guard” after “second lieutenant in the Army”.
 
-    Subsec. (a)(2). [Pub. L. 102–190, § 522(a)(2)][/us/pl/102/190/s522/a/2], inserted “military college or” after “To be considered a”, substituted “and meet” for “that does not confer baccalaureate degrees and that meets”, and inserted at end “For purposes of this section, a military junior college does not confer a baccalaureate degree.”
+    Subsec. (a)(2). [Pub. L. 102–190][/us/pl/102/190], § 522(a)(2), inserted “military college or” after “To be considered a”, substituted “and meet” for “that does not confer baccalaureate degrees and that meets”, and inserted at end “For purposes of this section, a military junior college does not confer a baccalaureate degree.”
 
-    Subsec. (b)(6). [Pub. L. 102–190, § 522(a)(3)][/us/pl/102/190/s522/a/3], substituted “a troop program unit of the Army Reserve or Army National Guard” for “such reserve component”.
+    Subsec. (b)(6). [Pub. L. 102–190][/us/pl/102/190], § 522(a)(3), substituted “a troop program unit of the Army Reserve or Army National Guard” for “such reserve component”.
 
-    Subsec. (f). [Pub. L. 102–190, § 522(a)(4)][/us/pl/102/190/s522/a/4], inserted “or who does not complete a baccalaureate degree within five years after appointment as a cadet under this section,” after “when offered,”.
+    Subsec. (f). [Pub. L. 102–190][/us/pl/102/190], § 522(a)(4), inserted “or who does not complete a baccalaureate degree within five years after appointment as a cadet under this section,” after “when offered,”.
 
-    Subsec. (h). [Pub. L. 102–190, § 522(a)(5)][/us/pl/102/190/s522/a/5], struck out par. (1) designation, substituted “not more than 208 cadets each year under this section, to include not less than 10 cadets” for “not less than 10 cadets under this section each year”, and struck out par. (2) which read as follows: “If the level of participation in the program at any military junior college meets criteria for such participation established by the Secretary of the Army by regulation, the Secretary shall appoint additional cadets under this section from among members of the program at such military junior college who are eligible under subsection (b) for such an appointment.”
+    Subsec. (h). [Pub. L. 102–190][/us/pl/102/190], § 522(a)(5), struck out par. (1) designation, substituted “not more than 208 cadets each year under this section, to include not less than 10 cadets” for “not less than 10 cadets under this section each year”, and struck out par. (2) which read as follows: “If the level of participation in the program at any military junior college meets criteria for such participation established by the Secretary of the Army by regulation, the Secretary shall appoint additional cadets under this section from among members of the program at such military junior college who are eligible under subsection (b) for such an appointment.”
 
  __Effective Date of 2003 Amendment__ 
 
@@ -151,13 +151,13 @@
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–107, div. A, title V, § 536(b)][/us/pl/107/107/s536/b], Dec. 28, 2001, [115 Stat. 1107][/us/stat/115/1107], provided that: 
+[Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 536(b), Dec. 28, 2001, [115 Stat. 1107][/us/stat/115/1107], provided that: 
 
 > “The authority of the Secretary of Defense under paragraph (3) of [section 2107a(b) of title 10][/us/usc/t10/s2107a/b], United States Code, as added by subsection (a), may be exercised with regard to any agreement described in paragraph (1)(F) of such section (including agreements related to participation in the Advanced Course of the Army Reserve Officers’ Training Corps at a military college or civilian institution) that was entered into during the period beginning on January 1, 1991, and ending on July 12, 2000 (in addition to any agreement described in that paragraph that is entered into on or after the date of the enactment of this Act \[Dec. 28, 2001\]).”
 
  __Effective Date__ 
 
-[Pub. L. 96–357, § 1(e)][/us/pl/96/357/s1/e], Sept. 24, 1980, [94 Stat. 1180][/us/stat/94/1180], provided that: 
+[Pub. L. 96–357][/us/pl/96/357], § 1(e), Sept. 24, 1980, [94 Stat. 1180][/us/stat/94/1180], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 2107 and 2108 of this title\] shall take effect on October 1, 1980.”
 
@@ -178,65 +178,65 @@
 
 [/us/usc/t10/s2114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2114
 [/us/usc/t10/s2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2122
-[/us/pl/109/163/s531/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs531%2Fb
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3247
 [/us/usc/t10/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2005
 [/us/usc/t38/s101/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F23
 [/us/usc/t10/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2107
-[/us/pl/96/357/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F357%2Fs1%2Fc%2F1
+[/us/pl/96/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F357
 [/us/stat/94/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1179
-[/us/pl/102/190/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs522%2Fa
+[/us/pl/102/190/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtV
 [/us/stat/105/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1362
-[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2512
-[/us/pl/105/85/s1073/a/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F36
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1902
-[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1106
-[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1463
-[/us/pl/108/375/s524/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs524%2Fb
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1889
-[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3247-3249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3247-3249
-[/us/pl/109/364/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs535
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2207
-[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F102
-[/us/pl/111/84/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs522
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2285
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/110/181/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs522
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t10/s2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2122
-[/us/pl/110/181/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs523
-[/us/pl/109/163/s534/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs534%2Fb
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2122
-[/us/pl/109/163/s531/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs531%2Fb
-[/us/pl/109/163/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs532
-[/us/pl/109/163/s536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs536
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/108/136/s521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs521%2Fb
-[/us/pl/108/136/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs522
-[/us/pl/107/107/s534/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs534%2Fb
-[/us/pl/107/107/s536/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs536%2Fa
-[/us/pl/107/107/s536/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs536%2Fc
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/104/201/s555/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs555%2Fa
-[/us/pl/104/201/s507/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs507%2Fa%2F3
-[/us/pl/102/190/s522/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs522%2Fb%2F1
-[/us/pl/102/190/s522/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs522%2Fa%2F1
-[/us/pl/102/190/s522/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs522%2Fa%2F2
-[/us/pl/102/190/s522/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs522%2Fa%2F3
-[/us/pl/102/190/s522/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs522%2Fa%2F4
-[/us/pl/102/190/s522/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs522%2Fa%2F5
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/108/136/s521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs521%2Fb
 [/us/pl/108/136/s521/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs521%2Fc
 [/us/usc/t10/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2107
-[/us/pl/107/107/s536/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs536%2Fb
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1107
 [/us/usc/t10/s2107a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2107a%2Fb
-[/us/pl/96/357/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F357%2Fs1%2Fe
+[/us/pl/96/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F357
 [/us/stat/94/1180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1180
 [/us/pl/109/163/s531/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs531%2Fc
 [/us/usc/t10/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2107

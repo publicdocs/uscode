@@ -37,7 +37,7 @@
 
         (2) The deputy disbursing official, and not the former disbursing official or the estate of the former disbursing official, is liable for the actions of the deputy disbursing official under this subsection.
 
-(Added [Pub. L. 87–480, § 1(1)(A)][/us/pl/87/480/s1/1/A], June 8, 1962, [76 Stat. 94][/us/stat/76/94]; amended [Pub. L. 97–258, § 2(b)(7)(B)][/us/pl/97/258/s2/b/7/B], Sept. 13, 1982, [96 Stat. 1054][/us/stat/96/1054]; [Pub. L. 104–106, div. A, title IX, § 913(a)(2)][/us/pl/104/106/s913/a/2], Feb. 10, 1996, [110 Stat. 410][/us/stat/110/410].)
+(Added [Pub. L. 87–480][/us/pl/87/480], § 1(1)(A), June 8, 1962, [76 Stat. 94][/us/stat/76/94]; amended [Pub. L. 97–258][/us/pl/97/258], § 2(b)(7)(B), Sept. 13, 1982, [96 Stat. 1054][/us/stat/96/1054]; [Pub. L. 104–106, div. A, title IX][/us/pl/104/106/dA/tIX], § 913(a)(2), Feb. 10, 1996, [110 Stat. 410][/us/stat/110/410].)
 
 <table>
 
@@ -133,11 +133,11 @@ July 31, 1953, ch. 300, 67 Stat. 296; June 6, 1972, Pub. L. 92–310, § 231(f
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1). [Pub. L. 104–106, § 913(a)(2)(A)(i)][/us/pl/104/106/s913/a/2/A/i], substituted “Subject to paragraph (3), a disbursing official of the Department of Defense” for “With the approval of a Secretary of a military department when the Secretary considers it necessary, a disbursing official of the military department”.
+    1996—Subsec. (a)(1). [Pub. L. 104–106][/us/pl/104/106], § 913(a)(2)(A)(i), substituted “Subject to paragraph (3), a disbursing official of the Department of Defense” for “With the approval of a Secretary of a military department when the Secretary considers it necessary, a disbursing official of the military department”.
 
-    Subsec. (a)(3). [Pub. L. 104–106, § 913(a)(2)(A)(ii)][/us/pl/104/106/s913/a/2/A/ii], added par. (3).
+    Subsec. (a)(3). [Pub. L. 104–106][/us/pl/104/106], § 913(a)(2)(A)(ii), added par. (3).
 
-    Subsec. (b)(1). [Pub. L. 104–106, § 913(a)(2)(B)][/us/pl/104/106/s913/a/2/B], substituted “the Department of Defense” for “any military department”.
+    Subsec. (b)(1). [Pub. L. 104–106][/us/pl/104/106], § 913(a)(2)(B), substituted “the Department of Defense” for “any military department”.
 
     1982—[Pub. L. 97–258][/us/pl/97/258] substituted provisions authorizing a disbursing official of a military department to designate a deputy disbursing official with the same duties and penalties for misconduct as those of the disbursing official and allowing a deputy disbursing official to continue the accounts and payments in the name of a former disbursing official for two months after the death, disability, or separation of the former disbursing official for provisions authorizing any officer of an armed force accountable for public money to entrust it to another officer of an armed force to make disbursement as his agent, with both officers pecuniarily responsible to the United States for that money.
 
@@ -148,11 +148,11 @@ July 31, 1953, ch. 300, 67 Stat. 296; June 6, 1972, Pub. L. 92–310, § 231(f
 ----------
 ----------
 
-[/us/pl/87/480/s1/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F480%2Fs1%2F1%2FA
+[/us/pl/87/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F480
 [/us/stat/76/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F94
-[/us/pl/97/258/s2/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F7%2FB
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1054
-[/us/pl/104/106/s913/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs913%2Fa%2F2
+[/us/pl/104/106/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIX
 [/us/stat/110/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F410
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280
 [/us/act/1947-07-26/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fs205%2Fa
@@ -161,9 +161,9 @@ July 31, 1953, ch. 300, 67 Stat. 296; June 6, 1972, Pub. L. 92–310, § 231(f
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fs1
 [/us/stat/70A/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F488
-[/us/pl/104/106/s913/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs913%2Fa%2F2%2FA%2Fi
-[/us/pl/104/106/s913/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs913%2Fa%2F2%2FA%2Fii
-[/us/pl/104/106/s913/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs913%2Fa%2F2%2FB
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 
 

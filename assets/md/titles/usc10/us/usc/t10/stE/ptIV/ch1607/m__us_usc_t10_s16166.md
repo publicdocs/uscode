@@ -37,7 +37,7 @@
 
     Amounts for payments for benefits under this chapter shall be derived from the Department of Defense Education Benefits Fund under [section 2006 of this title][/us/usc/t10/s2006].
 
-(Added [Pub. L. 108–375, div. A, title V, § 527(a)][/us/pl/108/375/s527/a], Oct. 28, 2004, [118 Stat. 1893][/us/stat/118/1893].)
+(Added [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 527(a), Oct. 28, 2004, [118 Stat. 1893][/us/stat/118/1893].)
 
 ----------
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t38/s3680A/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3680A%2Fb
 [/us/usc/t10/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2006
-[/us/pl/108/375/s527/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs527%2Fa
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1893
 
 

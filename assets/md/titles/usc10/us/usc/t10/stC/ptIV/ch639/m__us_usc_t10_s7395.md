@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptIV/ch639/m__us_usc_t10_stC_ptIV_ch639.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIV/ch639/m__us_usc_t10_s7396.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7395)
+[Previous](./../../../../../..//us/usc/t10/stC/ptIV/ch639/m__us_usc_t10_s7391...7394.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIV/ch639/m__us_usc_t10_s7396.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7395)
 
 ## § 7395. Naval Observatory: administration
 
@@ -107,7 +107,7 @@ R.S. 436; June 29, 1949, ch. 278, 63 Stat. 300 (2d par.).  </td>
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptIV/ch639/m__us_usc_t10_stC_ptIV_ch639.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIV/ch639/m__us_usc_t10_s7396.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7395)
+[Previous](./../../../../../..//us/usc/t10/stC/ptIV/ch639/m__us_usc_t10_s7391...7394.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIV/ch639/m__us_usc_t10_s7396.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7395)
 
 ----------
 ----------

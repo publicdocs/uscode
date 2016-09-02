@@ -17,7 +17,7 @@
 
     There shall be a chaplain at the Academy, who must be a clergyman, appointed by the President for a term of four years. The chaplain is entitled to the same allowances for public quarters as are allowed to a captain, and to fuel and light for quarters in kind. The chaplain may be reappointed.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 562][/us/stat/70A/562]; [Pub. L. 87–651, title I, § 117][/us/pl/87/651/s117], Sept. 7, 1962, [76 Stat. 513][/us/stat/76/513].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 562][/us/stat/70A/562]; [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 117, Sept. 7, 1962, [76 Stat. 513][/us/stat/76/513].)
 
 <table>
 
@@ -96,7 +96,7 @@ Feb. 18, 1896, ch. 22 (proviso), 29 Stat. 8; May 16, 1928, ch. 579, 45 Stat. 573
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F562
-[/us/pl/87/651/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs117
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F513
 [/us/stat/59/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F295
 [/us/stat/60/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F216

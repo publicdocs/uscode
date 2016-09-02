@@ -29,7 +29,7 @@
 
     (6) The term “maximum efficient rate” means the maximum sustainable daily oil or gas rate from a reservoir which will permit economic development and depletion of that reservoir without detriment to the ultimate recovery.
 
-(Added [Pub. L. 94–258, title II, § 201(1)][/us/pl/94/258/s201/1], Apr. 5, 1976, [90 Stat. 307][/us/stat/90/307]; amended [Pub. L. 96–513, title V, § 513(30)][/us/pl/96/513/s513/30], Dec. 12, 1980, [94 Stat. 2933][/us/stat/94/2933]; [Pub. L. 100–26, § 7(k)(5)][/us/pl/100/26/s7/k/5], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284].)
+(Added [Pub. L. 94–258, title II][/us/pl/94/258/tII], § 201(1), Apr. 5, 1976, [90 Stat. 307][/us/stat/90/307]; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(30), Dec. 12, 1980, [94 Stat. 2933][/us/stat/94/2933]; [Pub. L. 100–26][/us/pl/100/26], § 7(k)(5), Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Naval Petroleum Reserve__ 
 
-[Pub. L. 109–58, title III][/us/pl/109/58], subtitle D, Aug. 8, 2005, [119 Stat. 694][/us/stat/119/694], provided that:
+[Pub. L. 109–58, title III][/us/pl/109/58/tIII], subtitle D, Aug. 8, 2005, [119 Stat. 694][/us/stat/119/694], provided that:
 
 > “SEC. 331. __TRANSFER OF ADMINISTRATIVE JURISDICTION AND ENVIRONMENTAL REMEDIATION, NAVAL PETROLEUM RESERVE NUMBERED 2, KERN COUNTY, CALIFORNIA.__ 
 
@@ -145,7 +145,7 @@
 
  __Disposal of Naval Petroleum Reserves__ 
 
-[Pub. L. 105–261, div. C, title XXXIV][/us/pl/105/261], Oct. 17, 1998, [112 Stat. 2265][/us/stat/112/2265], as amended by [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXIV, § 3403(a), (c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–484, 1654A–489; [Pub. L. 108–204, title I, § 129][/us/pl/108/204/s129], Mar. 2, 2004, [118 Stat. 547][/us/stat/118/547]; [Pub. L. 109–58, title III, § 331(d)][/us/pl/109/58/s331/d], Aug. 8, 2005, [119 Stat. 695][/us/stat/119/695]; [Pub. L. 110–181, div. C, title XXXIV, § 3402][/us/pl/110/181/s3402], Jan. 28, 2008, [122 Stat. 590][/us/stat/122/590], provided that:
+[Pub. L. 105–261, div. C, title XXXIV][/us/pl/105/261/dC/tXXXIV], Oct. 17, 1998, [112 Stat. 2265][/us/stat/112/2265], as amended by [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXIV, § 3403(a), (c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–484, 1654A–489; [Pub. L. 108–204, title I][/us/pl/108/204/tI], § 129, Mar. 2, 2004, [118 Stat. 547][/us/stat/118/547]; [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 331(d), Aug. 8, 2005, [119 Stat. 695][/us/stat/119/695]; [Pub. L. 110–181, div. C, title XXXIV][/us/pl/110/181/dC/tXXXIV], § 3402, Jan. 28, 2008, [122 Stat. 590][/us/stat/122/590], provided that:
 
 > “SEC. 3401. __DEFINITIONS.__ 
 
@@ -195,7 +195,7 @@
 
 >         “(3) [Section 2696(a) of title 10][/us/usc/t10/s2696/a], United States Code, regarding the screening of real property for further Federal use before disposal, shall apply to the disposal authorized by paragraph (1).
 
->     “\[(b) Repealed. [Pub. L. 109–58, title III, § 331(d)][/us/pl/109/58/s331/d], Aug. 8, 2005, [119 Stat. 695][/us/stat/119/695].\]
+>     “\[(b) Repealed. [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 331(d), Aug. 8, 2005, [119 Stat. 695][/us/stat/119/695].\]
 
 >     “(c)  __Relationship to Antitrust Laws__  __.—__ 
 
@@ -413,7 +413,7 @@
 
 >     This section does not apply to the transfer of Oil Shale Reserve Numbered 2 under section 3405.”
 
-[Pub. L. 104–106, div. C, title XXXIV][/us/pl/104/106], subtitle B, Feb. 10, 1996, [110 Stat. 631][/us/stat/110/631], as amended by [Pub. L. 106–65, div. A, title X, § 1067(6)][/us/pl/106/65/s1067/6], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 113–291, div. A, title X, § 1071(b)(12)][/us/pl/113/291/s1071/b/12], Dec. 19, 2014, [128 Stat. 3507][/us/stat/128/3507], provided that:
+[Pub. L. 104–106, div. C, title XXXIV][/us/pl/104/106/dC/tXXXIV], subtitle B, Feb. 10, 1996, [110 Stat. 631][/us/stat/110/631], as amended by [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(6), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(b)(12), Dec. 19, 2014, [128 Stat. 3507][/us/stat/128/3507], provided that:
 
 > “SEC. 3411. __DEFINITIONS.__ 
 
@@ -618,18 +618,18 @@
 ----------
 ----------
 
-[/us/pl/94/258/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2Fs201%2F1
+[/us/pl/94/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2FtII
 [/us/stat/90/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F307
-[/us/pl/96/513/s513/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F30
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2933
-[/us/pl/100/26/s7/k/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fk%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F284
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F694
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
@@ -639,15 +639,15 @@
 [/us/usc/t30/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1701
 [/us/usc/t30/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1701
 [/us/usc/t30/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191
-[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261/dC/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdC%2FtXXXIV
 [/us/stat/112/2265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2265
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/204/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F204%2Fs129
+[/us/pl/108/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F204%2FtI
 [/us/stat/118/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F547
-[/us/pl/109/58/s331/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs331%2Fd
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F695
-[/us/pl/110/181/s3402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3402
+[/us/pl/110/181/dC/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdC%2FtXXXIV
 [/us/stat/122/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F590
 [/us/usc/t10/s7420/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7420%2F2
 [/us/usc/t15/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12%2Fa
@@ -658,7 +658,7 @@
 [/us/usc/t10/s7420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7420
 [/us/usc/t43/s869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs869
 [/us/usc/t10/s2696/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2696%2Fa
-[/us/pl/109/58/s331/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs331%2Fd
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F695
 [/us/usc/t25/s396a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs396a
 [/us/usc/t25/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2101
@@ -668,11 +668,11 @@
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
 [/us/usc/t42/s7911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7911
 [/us/usc/t10/s7431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7431
-[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106/dC/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdC%2FtXXXIV
 [/us/stat/110/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F631
-[/us/pl/106/65/s1067/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F6
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/113/291/s1071/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fb%2F12
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3507
 [/us/usc/t10/s7420/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7420%2F2
 [/us/usc/t41/s3304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fa

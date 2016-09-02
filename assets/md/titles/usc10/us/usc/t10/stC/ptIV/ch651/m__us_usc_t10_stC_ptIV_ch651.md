@@ -75,11 +75,11 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–106, div. A, title III, § 375(a)(2)][/us/pl/104/106/s375/a/2], Feb. 10, 1996, [110 Stat. 283][/us/stat/110/283], added item 7606.
+    1996—[Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 375(a)(2), Feb. 10, 1996, [110 Stat. 283][/us/stat/110/283], added item 7606.
 
-    1990—[Pub. L. 101–510, div. A, title III, § 329(a)(2)][/us/pl/101/510/s329/a/2], Nov. 5, 1990, [104 Stat. 1534][/us/stat/104/1534], amended item 7604 generally, substituting “Ships’ stores: sale of goods and services” for “Profits: ships’ stores”.
+    1990—[Pub. L. 101–510, div. A, title III][/us/pl/101/510/dA/tIII], § 329(a)(2), Nov. 5, 1990, [104 Stat. 1534][/us/stat/104/1534], amended item 7604 generally, substituting “Ships’ stores: sale of goods and services” for “Profits: ships’ stores”.
 
-    1985—[Pub. L. 99–145, title XIII, § 1301(c)(3)(C)][/us/pl/99/145/s1301/c/3/C], Nov. 8, 1985, [99 Stat. 736][/us/stat/99/736], inserted “the” before “naval service” and “and widowers” after “widows” in item 7601.
+    1985—[Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1301(c)(3)(C), Nov. 8, 1985, [99 Stat. 736][/us/stat/99/736], inserted “the” before “naval service” and “and widowers” after “widows” in item 7601.
 
 ----------
 
@@ -88,11 +88,11 @@
 ----------
 ----------
 
-[/us/pl/104/106/s375/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs375%2Fa%2F2
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F283
-[/us/pl/101/510/s329/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs329%2Fa%2F2
+[/us/pl/101/510/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIII
 [/us/stat/104/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1534
-[/us/pl/99/145/s1301/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1301%2Fc%2F3%2FC
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F736
 
 

@@ -19,7 +19,7 @@
 
     (b) A person who serves as a member of a committee may not be paid for that service while holding another position or office under the United States for which he receives compensation. Other members and part-time advisers shall (except as otherwise specifically authorized by law) serve without compensation for such service.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 8][/us/stat/70A/8]; [Pub. L. 89–718, § 2][/us/pl/89/718/s2], Nov. 2, 1966, [80 Stat. 1115][/us/stat/80/1115]; [Pub. L. 104–106, div. A, title X, § 1061(e)(1)][/us/pl/104/106/s1061/e/1], Feb. 10, 1996, [110 Stat. 443][/us/stat/110/443].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 8][/us/stat/70A/8]; [Pub. L. 89–718][/us/pl/89/718], § 2, Nov. 2, 1966, [80 Stat. 1115][/us/stat/80/1115]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1061(e)(1), Feb. 10, 1996, [110 Stat. 443][/us/stat/110/443].)
 
 <table>
 
@@ -98,9 +98,9 @@ July 26, 1947, ch. 343, § 303 (as applicable to Secretary of Defense); Aug. 1
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F8
-[/us/pl/89/718/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs2
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1115
-[/us/pl/104/106/s1061/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1061%2Fe%2F1
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F443
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718

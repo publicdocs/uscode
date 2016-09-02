@@ -31,7 +31,7 @@
 
     For the purposes of [section 501 of title 40][/us/usc/t40/s501], travel authorized under subsection (a) shall be treated as transportation for the use of a military department.
 
-(Added [Pub. L. 105–261, div. A, title VI, § 635(a)][/us/pl/105/261/s635/a], Oct. 17, 1998, [112 Stat. 2044][/us/stat/112/2044]; amended [Pub. L. 107–217, § 3(b)(41)][/us/pl/107/217/s3/b/41], Aug. 21, 2002, [116 Stat. 1298][/us/stat/116/1298].)
+(Added [Pub. L. 105–261, div. A, title VI][/us/pl/105/261/dA/tVI], § 635(a), Oct. 17, 1998, [112 Stat. 2044][/us/stat/112/2044]; amended [Pub. L. 107–217][/us/pl/107/217], § 3(b)(41), Aug. 21, 2002, [116 Stat. 1298][/us/stat/116/1298].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t40/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs501
-[/us/pl/105/261/s635/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs635%2Fa
+[/us/pl/105/261/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVI
 [/us/stat/112/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2044
-[/us/pl/107/217/s3/b/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F41
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1298
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs501

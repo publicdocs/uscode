@@ -35,7 +35,7 @@
 
         (2) otherwise advise the Chairman on joint personnel matters.
 
-(Added [Pub. L. 99–433, title IV, § 401(a)][/us/pl/99/433/s401/a], Oct. 1, 1986, [100 Stat. 1028][/us/stat/100/1028]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 522(c)(1), (2), Oct. 14, 2008, [122 Stat. 4445][/us/stat/122/4445].)
+(Added [Pub. L. 99–433, title IV][/us/pl/99/433/tIV], § 401(a), Oct. 1, 1986, [100 Stat. 1028][/us/stat/100/1028]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 522(c)(1), (2), Oct. 14, 2008, [122 Stat. 4445][/us/stat/122/4445].)
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t10/s661/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs661%2Fe
-[/us/pl/99/433/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs401%2Fa
+[/us/pl/99/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtIV
 [/us/stat/100/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1028
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4445

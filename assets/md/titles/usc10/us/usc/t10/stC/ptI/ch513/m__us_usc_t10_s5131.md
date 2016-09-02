@@ -21,7 +21,7 @@
 
     (2) Bureau of Naval Personnel.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 285][/us/stat/70A/285]; [Pub. L. 86–174][/us/pl/86/174], §§ 1(1), 2(1), Aug. 18, 1959, [73 Stat. 395][/us/stat/73/395]; [Pub. L. 89–718, § 35(1)][/us/pl/89/718/s35/1], Nov. 2, 1966, [80 Stat. 1120][/us/stat/80/1120].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 285][/us/stat/70A/285]; [Pub. L. 86–174][/us/pl/86/174], §§ 1(1), 2(1), Aug. 18, 1959, [73 Stat. 395][/us/stat/73/395]; [Pub. L. 89–718][/us/pl/89/718], § 35(1), Nov. 2, 1966, [80 Stat. 1120][/us/stat/80/1120].)
 
 <table>
 
@@ -77,11 +77,11 @@ R.S. 419 (less applicability to distribution of business among bureaus); July 19
 
  __Effective Date of 1959 Amendment__ 
 
-    [Pub. L. 86–174, § 2][/us/pl/86/174/s2], Aug. 18, 1959, [73 Stat. 395][/us/stat/73/395], provided that the amendment of this section and [section 5133 of this title][/us/usc/t10/s5133] and the repeal of sections 5136 and 5144 of this title shall be effective on July 1, 1960, or on any earlier date on which the Secretary of the Navy makes a formal finding that all the functions of the Bureau of Aeronautics and the Bureau of Ordnance have been transferred to the Bureau of Naval Weapons or elsewhere.
+    [Pub. L. 86–174][/us/pl/86/174], § 2, Aug. 18, 1959, [73 Stat. 395][/us/stat/73/395], provided that the amendment of this section and [section 5133 of this title][/us/usc/t10/s5133] and the repeal of sections 5136 and 5144 of this title shall be effective on July 1, 1960, or on any earlier date on which the Secretary of the Navy makes a formal finding that all the functions of the Bureau of Aeronautics and the Bureau of Ordnance have been transferred to the Bureau of Naval Weapons or elsewhere.
 
  __Bureau of Naval Weapons; Transfer of Funds__ 
 
-[Pub. L. 86–174, § 3][/us/pl/86/174/s3], Aug. 18, 1959, [73 Stat. 396][/us/stat/73/396], provided that: 
+[Pub. L. 86–174][/us/pl/86/174], § 3, Aug. 18, 1959, [73 Stat. 396][/us/stat/73/396], provided that: 
 
 > “The unexpended balances of appropriations and funds available for use in connection with the exercise of any function transferred to the Bureau of Naval Weapons shall be transferred in the manner provided by section 407 of the National Security Act of 1947, as amended ([5 U.S.C. 172f][/us/usc/t5/s172f]) \[[10 U.S.C. 126][/us/usc/t10/s126]\], for use in connection with the transferred functions.”
 
@@ -96,14 +96,14 @@ R.S. 419 (less applicability to distribution of business among bureaus); July 19
 [/us/stat/70A/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F285
 [/us/pl/86/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F174
 [/us/stat/73/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F395
-[/us/pl/89/718/s35/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs35%2F1
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1120
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/pl/86/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F174
-[/us/pl/86/174/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F174%2Fs2
+[/us/pl/86/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F174
 [/us/stat/73/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F395
 [/us/usc/t10/s5133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5133
-[/us/pl/86/174/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F174%2Fs3
+[/us/pl/86/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F174
 [/us/stat/73/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F396
 [/us/usc/t5/s172f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs172f
 [/us/usc/t10/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs126

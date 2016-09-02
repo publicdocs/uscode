@@ -29,7 +29,7 @@
 
     (c) When the application of the percentages and ratios specified in this section results in a fraction, a fraction of one-half or more is counted as one, and a fraction of less than one-half is disregarded.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 174][/us/stat/70A/174]; [Pub. L. 85–861, § 1(66)][/us/pl/85/861/s1/66], Sept. 2, 1958, [72 Stat. 1463][/us/stat/72/1463]; [Pub. L. 89–603, § 1(2)][/us/pl/89/603/s1/2], Sept. 24, 1966, [80 Stat. 846][/us/stat/80/846]; [Pub. L. 90–329][/us/pl/90/329], June 4, 1968, [82 Stat. 170][/us/stat/82/170]; [Pub. L. 96–513, title V, § 502(5)][/us/pl/96/513/s502/5], Dec. 12, 1980, [94 Stat. 2909][/us/stat/94/2909]; [Pub. L. 97–22, § 5(b)][/us/pl/97/22/s5/b], July 10, 1981, [95 Stat. 128][/us/stat/95/128]; [Pub. L. 102–190, div. A, title X, § 1061(a)(20)(A)][/us/pl/102/190/s1061/a/20/A], Dec. 5, 1991, [105 Stat. 1473][/us/stat/105/1473].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 174][/us/stat/70A/174]; [Pub. L. 85–861][/us/pl/85/861], § 1(66), Sept. 2, 1958, [72 Stat. 1463][/us/stat/72/1463]; [Pub. L. 89–603][/us/pl/89/603], § 1(2), Sept. 24, 1966, [80 Stat. 846][/us/stat/80/846]; [Pub. L. 90–329][/us/pl/90/329], June 4, 1968, [82 Stat. 170][/us/stat/82/170]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 502(5), Dec. 12, 1980, [94 Stat. 2909][/us/stat/94/2909]; [Pub. L. 97–22][/us/pl/97/22], § 5(b), July 10, 1981, [95 Stat. 128][/us/stat/95/128]; [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1061(a)(20)(A), Dec. 5, 1991, [105 Stat. 1473][/us/stat/105/1473].)
 
 <table>
 
@@ -465,19 +465,19 @@ July 20, 1956, ch. 646, § 302 (1st par.), 70 Stat. 587.  </td>
 
     [Pub. L. 97–22][/us/pl/97/22], which directed amendment of subsec. (a) by striking out “, exclusive of the number of commissioned officers on the active-duty list authorized for the Army Medical Department and the Chaplains”, was executed by striking out “, exclusive of the number of commissioned officers on the active list authorized for the Army Medical Department and the Chaplains” before period at end of first sentence, to reflect the probable intent of Congress. See 1980 Amendment note and Effective Date of 1980 Amendment note below.
 
-    1980—Subsec. (a). [Pub. L. 96–513, § 502(5)(A)][/us/pl/96/513/s502/5/A], (B), substituted “active-duty list” for “active list” wherever appearing and struck out provisions that, of the authorized strength, not more than one-half could be in a regular grade above brigadier general.
+    1980—Subsec. (a). [Pub. L. 96–513][/us/pl/96/513], § 502(5)(A), (B), substituted “active-duty list” for “active list” wherever appearing and struck out provisions that, of the authorized strength, not more than one-half could be in a regular grade above brigadier general.
 
-    Subsec. (b). [Pub. L. 96–513, § 502(5)(A)][/us/pl/96/513/s502/5/A], (C), substituted “active-duty list” for “active list” wherever appearing and substituted paragraphed references to “(1) each corps of the Army Medical Department” and “(2) the Chaplains” for former paragraphed references to “(1) The Medical Corps”, “(2) the Dental Corps”, “(3) the Veterinary Corps”, and “(4) the Chaplains”.
+    Subsec. (b). [Pub. L. 96–513][/us/pl/96/513], § 502(5)(A), (C), substituted “active-duty list” for “active list” wherever appearing and substituted paragraphed references to “(1) each corps of the Army Medical Department” and “(2) the Chaplains” for former paragraphed references to “(1) The Medical Corps”, “(2) the Dental Corps”, “(3) the Veterinary Corps”, and “(4) the Chaplains”.
 
-    Subsecs. (d), (e). [Pub. L. 96–513, § 502(5)(D)][/us/pl/96/513/s502/5/D], struck out subsec. (d) which provided that general officers on the active list of the Regular Army who were specifically authorized by law to hold a civil office under the United States or any instrumentality thereof were not counted in determining authorized strength under this section and subsec. (e) which had provided that the authorized strength of the Medical Service Corps in general officers on the active list of the Regular Army was one commissioned officer in the regular grade of brigadier general.
+    Subsecs. (d), (e). [Pub. L. 96–513][/us/pl/96/513], § 502(5)(D), struck out subsec. (d) which provided that general officers on the active list of the Regular Army who were specifically authorized by law to hold a civil office under the United States or any instrumentality thereof were not counted in determining authorized strength under this section and subsec. (e) which had provided that the authorized strength of the Medical Service Corps in general officers on the active list of the Regular Army was one commissioned officer in the regular grade of brigadier general.
 
     1968—Subsec. (a). [Pub. L. 90–329][/us/pl/90/329] substituted “Army Medical Department” for “Army Medical Service” in two places.
 
     1966—Subsec. (e). [Pub. L. 89–603][/us/pl/89/603] added subsec. (e).
 
-    1958—Subsec. (a). [Pub. L. 85–861, § 1(66)(A)][/us/pl/85/861/s1/66/A], substituted “Subject to [section 3202(a) of this title][/us/usc/t10/s3202/a], the” for “The”.
+    1958—Subsec. (a). [Pub. L. 85–861][/us/pl/85/861], § 1(66)(A), substituted “Subject to [section 3202(a) of this title][/us/usc/t10/s3202/a], the” for “The”.
 
-    Subsecs. (c) to (e). [Pub. L. 85–861, § 1(66)(B)][/us/pl/85/861/s1/66/B], struck out subsec. (c) which prescribed the number of general officers authorized for the active list of the Regular Army, and redesignated subsecs. (d) and (e) as (c) and (d), respectively.
+    Subsecs. (c) to (e). [Pub. L. 85–861][/us/pl/85/861], § 1(66)(B), struck out subsec. (c) which prescribed the number of general officers authorized for the active list of the Regular Army, and redesignated subsecs. (d) and (e) as (c) and (d), respectively.
 
  __Effective Date of 1980 Amendment__ 
 
@@ -493,31 +493,31 @@ July 20, 1956, ch. 646, § 302 (1st par.), 70 Stat. 587.  </td>
 [/us/usc/t10/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs526
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F174
-[/us/pl/85/861/s1/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F66
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1463
-[/us/pl/89/603/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F603%2Fs1%2F2
+[/us/pl/89/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F603
 [/us/stat/80/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F846
 [/us/pl/90/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F329
 [/us/stat/82/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F170
-[/us/pl/96/513/s502/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs502%2F5
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2909
-[/us/pl/97/22/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs5%2Fb
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F128
-[/us/pl/102/190/s1061/a/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fa%2F20%2FA
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1473
 [/us/usc/t5/s626c/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs626c%2Fe
 [/us/usc/t10/s3202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3202%2Fa
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
-[/us/pl/96/513/s502/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs502%2F5%2FA
-[/us/pl/96/513/s502/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs502%2F5%2FA
-[/us/pl/96/513/s502/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs502%2F5%2FD
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/90/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F329
 [/us/pl/89/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F603
-[/us/pl/85/861/s1/66/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F66%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/usc/t10/s3202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3202%2Fa
-[/us/pl/85/861/s1/66/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F66%2FB
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101

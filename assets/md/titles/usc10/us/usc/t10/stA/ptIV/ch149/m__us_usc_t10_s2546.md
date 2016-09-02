@@ -23,7 +23,7 @@
 
     Subject to the direction of the Under Secretary of Defense for Acquisition, Technology, and Logistics on matters pertaining to acquisition, and subject to the authority, direction, and control of the Secretary of the military department concerned, a service acquisition executive of a military department shall be responsible for the management of elements of the defense acquisition system in that military department and shall exercise such control of the system and perform such duties as are necessary to ensure the successful and efficient operation of such elements of the defense acquisition system.
 
-(Added [Pub. L. 111–383, div. A, title VIII, § 861(a)][/us/pl/111/383/s861/a], Jan. 7, 2011, [124 Stat. 4288][/us/stat/124/4288].)
+(Added [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 861(a), Jan. 7, 2011, [124 Stat. 4288][/us/stat/124/4288].)
 
  __Prior Provisions__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/111/383/s861/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs861%2Fa
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4288
 [/us/usc/t10/s2556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2556
 

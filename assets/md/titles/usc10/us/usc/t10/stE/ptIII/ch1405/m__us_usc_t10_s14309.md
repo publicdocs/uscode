@@ -23,11 +23,11 @@
 
     An officer who has served continuously since taking the oath of office prescribed in [section 3331 of title 5][/us/usc/t5/s3331] is not required to take a new oath upon appointment to a higher grade under this chapter.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2938][/us/stat/108/2938].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2938][/us/stat/108/2938].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 3394 and 8394 of this title, prior to repeal by [Pub. L. 103–337, § 1629(a)(1)][/us/pl/103/337/s1629/a/1], (c)(1).
+    Provisions similar to those in this section were contained in sections 3394 and 8394 of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(a)(1), (c)(1).
 
 ----------
 
@@ -38,8 +38,8 @@
 
 [/us/usc/t10/s14312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14312
 [/us/usc/t5/s3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3331
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2938
-[/us/pl/103/337/s1629/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fa%2F1
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 
 

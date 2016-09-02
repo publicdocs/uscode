@@ -87,7 +87,7 @@
 
     Nothing in this section may be construed to limit or expand any authority of the head of an agency or the Administrator of General Services to enter into schedule, multiple award, or task or delivery order contracts under any other provision of law.
 
-(Added [Pub. L. 103–355, title I, § 1004(a)(1)][/us/pl/103/355/s1004/a/1], Oct. 13, 1994, [108 Stat. 3249][/us/stat/108/3249]; amended [Pub. L. 108–136, div. A, title VIII, § 843(b)][/us/pl/108/136/s843/b], Nov. 24, 2003, [117 Stat. 1553][/us/stat/117/1553]; [Pub. L. 108–375, div. A, title VIII, § 813(a)][/us/pl/108/375/s813/a], Oct. 28, 2004, [118 Stat. 2014][/us/stat/118/2014]; [Pub. L. 110–181, div. A, title VIII, § 843(a)(1)][/us/pl/110/181/s843/a/1], Jan. 28, 2008, [122 Stat. 236][/us/stat/122/236]; [Pub. L. 111–84, div. A, title VIII, § 814(a)][/us/pl/111/84/s814/a], Oct. 28, 2009, [123 Stat. 2407][/us/stat/123/2407]; [Pub. L. 112–81, div. A, title VIII, § 809(b)][/us/pl/112/81/s809/b], Dec. 31, 2011, [125 Stat. 1490][/us/stat/125/1490].)
+(Added [Pub. L. 103–355, title I][/us/pl/103/355/tI], § 1004(a)(1), Oct. 13, 1994, [108 Stat. 3249][/us/stat/108/3249]; amended [Pub. L. 108–136, div. A, title VIII][/us/pl/108/136/dA/tVIII], § 843(b), Nov. 24, 2003, [117 Stat. 1553][/us/stat/117/1553]; [Pub. L. 108–375, div. A, title VIII][/us/pl/108/375/dA/tVIII], § 813(a), Oct. 28, 2004, [118 Stat. 2014][/us/stat/118/2014]; [Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 843(a)(1), Jan. 28, 2008, [122 Stat. 236][/us/stat/122/236]; [Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], § 814(a), Oct. 28, 2009, [123 Stat. 2407][/us/stat/123/2407]; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 809(b), Dec. 31, 2011, [125 Stat. 1490][/us/stat/125/1490].)
 
  __Codification__ 
 
@@ -107,7 +107,7 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 843(a)(3)(A)][/us/pl/110/181/s843/a/3/A], Jan. 28, 2008, [122 Stat. 237][/us/stat/122/237], provided that: 
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 843(a)(3)(A), Jan. 28, 2008, [122 Stat. 237][/us/stat/122/237], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall take effect on the date that is 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], and shall apply with respect to any contract awarded on or after such date.”
 
@@ -117,7 +117,7 @@
 
  __Congressional Intelligence Committees__ 
 
-[Pub. L. 111–84, div. A, title VIII, § 814(b)][/us/pl/111/84/s814/b], Oct. 28, 2009, [123 Stat. 2407][/us/stat/123/2407], provided that: 
+[Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], § 814(b), Oct. 28, 2009, [123 Stat. 2407][/us/stat/123/2407], provided that: 
 
 > “In the case of a task or delivery order contract awarded with respect to intelligence activities of the Department of Defense, any notification provided under \[former\] subparagraph (B) of [section 2304a(d)(3) of title 10][/us/usc/t10/s2304a/d/3], United States Code, as amended by subsection (a), shall also be provided at the same time as notification is provided to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] under that subparagraph—
 
@@ -127,7 +127,7 @@
 
  __Provisions Not Affected by__  __[__  __Pub. L. 103–355__  __][/us/pl/103/355]__ 
 
-[Pub. L. 103–355, title I, § 1004(d)][/us/pl/103/355/s1004/d], Oct. 13, 1994, [108 Stat. 3253][/us/stat/108/3253], as amended by [Pub. L. 108–136, div. A, title X, § 1045(f)][/us/pl/108/136/s1045/f], Nov. 24, 2003, [117 Stat. 1613][/us/stat/117/1613], provided that: 
+[Pub. L. 103–355, title I][/us/pl/103/355/tI], § 1004(d), Oct. 13, 1994, [108 Stat. 3253][/us/stat/108/3253], as amended by [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1045(f), Nov. 24, 2003, [117 Stat. 1613][/us/stat/117/1613], provided that: 
 
 > “Nothing in section 2304a, 2304b, 2304c, or 2304d of title 10, United States Code, as added by subsection (a), and nothing in the amendments made by subsections (b) and (c) \[amending sections 2304 and 2331 of this title\], shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under chapter 11 of title 40, United States Code.”
 
@@ -144,17 +144,17 @@
 [/us/usc/t10/s2304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Fb
 [/us/usc/t10/s2304b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304b
 [/us/usc/t31/s1105/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fg
-[/us/pl/103/355/s1004/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1004%2Fa%2F1
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3249
-[/us/pl/108/136/s843/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs843%2Fb
+[/us/pl/108/136/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVIII
 [/us/stat/117/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1553
-[/us/pl/108/375/s813/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs813%2Fa
+[/us/pl/108/375/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVIII
 [/us/stat/118/2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2014
-[/us/pl/110/181/s843/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs843%2Fa%2F1
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F236
-[/us/pl/111/84/s814/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs814%2Fa
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2407
-[/us/pl/112/81/s809/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs809%2Fb
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1490
 [/us/usc/t10/s2304e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304e
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
@@ -162,17 +162,17 @@
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/110/181/s843/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs843%2Fa%2F3%2FA
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F237
 [/us/pl/103/355/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10001
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/111/84/s814/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs814%2Fb
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2407
 [/us/usc/t10/s2304a/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304a%2Fd%2F3
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
-[/us/pl/103/355/s1004/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1004%2Fd
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3253
-[/us/pl/108/136/s1045/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1045%2Ff
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1613
 
 

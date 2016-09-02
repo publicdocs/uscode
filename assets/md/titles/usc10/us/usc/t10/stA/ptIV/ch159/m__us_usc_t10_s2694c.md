@@ -59,15 +59,15 @@
 
         (2) the Secretary of Defense with respect to a Defense Agency.
 
-(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 311(a), Oct. 14, 2008, [122 Stat. 4408][/us/stat/122/4408]; amended [Pub. L. 111–84, div. A, title III, § 311][/us/pl/111/84/s311], Oct. 28, 2009, [123 Stat. 2247][/us/stat/123/2247]; [Pub. L. 111–383, div. A, title X, § 1075(b)(45)][/us/pl/111/383/s1075/b/45], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371].)
+(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 311(a), Oct. 14, 2008, [122 Stat. 4408][/us/stat/122/4408]; amended [Pub. L. 111–84, div. A, title III][/us/pl/111/84/dA/tIII], § 311, Oct. 28, 2009, [123 Stat. 2247][/us/stat/123/2247]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(45), Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371].)
 
  __Amendments__ 
 
     2011—Subsec. (d)(4). [Pub. L. 111–383][/us/pl/111/383] inserted “Authorization” after “Military Construction”.
 
-    2009—Subsec. (a). [Pub. L. 111–84, § 311(1)][/us/pl/111/84/s311/1], struck out “to carry out this section” after “appropriated funds” in introductory provisions.
+    2009—Subsec. (a). [Pub. L. 111–84][/us/pl/111/84], § 311(1), struck out “to carry out this section” after “appropriated funds” in introductory provisions.
 
-    Subsecs. (d), (e). [Pub. L. 111–84, § 311(2)][/us/pl/111/84/s311/2], (3), added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 111–84][/us/pl/111/84], § 311(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
  __Effective Date__ 
 
@@ -87,13 +87,13 @@
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4408
-[/us/pl/111/84/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs311
+[/us/pl/111/84/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIII
 [/us/stat/123/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2247
-[/us/pl/111/383/s1075/b/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F45
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4371
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/111/84/s311/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs311%2F1
-[/us/pl/111/84/s311/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs311%2F2
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4409
 [/us/usc/t10/s2694c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2694c

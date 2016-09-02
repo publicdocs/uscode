@@ -35,7 +35,7 @@
 
         (6) Any other educational institution of the Department of Defense that the Secretary considers appropriate and designates as an institution of the university.
 
-    \[(c) Repealed. [Pub. L. 109–364, div. A, title IX, § 904(b)(2)(B)][/us/pl/109/364/s904/b/2/B], Oct. 17, 2006, [120 Stat. 2353][/us/stat/120/2353].\]
+    \[(c) Repealed. [Pub. L. 109–364, div. A, title IX][/us/pl/109/364/dA/tIX], § 904(b)(2)(B), Oct. 17, 2006, [120 Stat. 2353][/us/stat/120/2353].\]
 
     (d)  __Source of Funds for Professional Development Education Operations__  __.—__ 
 
@@ -55,15 +55,15 @@
 
         (6) The Secretary shall prescribe regulations for the administration of this subsection.
 
-(Added and amended [Pub. L. 105–85, div. A, title IX][/us/pl/105/85], §§ 921(a)(1), 922(a), Nov. 18, 1997, [111 Stat. 1862][/us/stat/111/1862], 1863; [Pub. L. 105–261, div. A, title IX][/us/pl/105/261], §§ 904, 905(a), Oct. 17, 1998, [112 Stat. 2093][/us/stat/112/2093]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 913(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–230; [Pub. L. 107–107, div. A, title V, § 527(c)(1)][/us/pl/107/107/s527/c/1], Dec. 28, 2001, [115 Stat. 1102][/us/stat/115/1102]; [Pub. L. 109–163, div. A, title V, § 522(a)][/us/pl/109/163/s522/a], Jan. 6, 2006, [119 Stat. 3240][/us/stat/119/3240]; [Pub. L. 109–364, div. A, title IX, § 904(b)(2)][/us/pl/109/364/s904/b/2], Oct. 17, 2006, [120 Stat. 2353][/us/stat/120/2353]; [Pub. L. 112–81, div. B, title XXVIII, § 2861(b)][/us/pl/112/81/s2861/b], Dec. 31, 2011, [125 Stat. 1701][/us/stat/125/1701].)
+(Added and amended [Pub. L. 105–85, div. A, title IX][/us/pl/105/85/dA/tIX], §§ 921(a)(1), 922(a), Nov. 18, 1997, [111 Stat. 1862][/us/stat/111/1862], 1863; [Pub. L. 105–261, div. A, title IX][/us/pl/105/261/dA/tIX], §§ 904, 905(a), Oct. 17, 1998, [112 Stat. 2093][/us/stat/112/2093]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 913(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–230; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 527(c)(1), Dec. 28, 2001, [115 Stat. 1102][/us/stat/115/1102]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 522(a), Jan. 6, 2006, [119 Stat. 3240][/us/stat/119/3240]; [Pub. L. 109–364, div. A, title IX][/us/pl/109/364/dA/tIX], § 904(b)(2), Oct. 17, 2006, [120 Stat. 2353][/us/stat/120/2353]; [Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], § 2861(b), Dec. 31, 2011, [125 Stat. 1701][/us/stat/125/1701].)
 
  __Amendments__ 
 
     2011—Subsec. (b)(2). [Pub. L. 112–81][/us/pl/112/81] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Industrial College of the Armed Forces.”
 
-    2006—Subsec. (b)(6), (7). [Pub. L. 109–364, § 904(b)(2)(A)][/us/pl/109/364/s904/b/2/A], redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “The Center for Hemispheric Defense Studies.”
+    2006—Subsec. (b)(6), (7). [Pub. L. 109–364][/us/pl/109/364], § 904(b)(2)(A), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “The Center for Hemispheric Defense Studies.”
 
-    Subsec. (c). [Pub. L. 109–364, § 904(b)(2)(B)][/us/pl/109/364/s904/b/2/B], struck out heading and text of subsec. (c). Text read as follows: “Funds available for the payment of personnel expenses under the Latin American cooperation authority set forth in [section 1050 of this title][/us/usc/t10/s1050] are also available for the costs of the operation of the Center for Hemispheric Defense Studies.”
+    Subsec. (c). [Pub. L. 109–364][/us/pl/109/364], § 904(b)(2)(B), struck out heading and text of subsec. (c). Text read as follows: “Funds available for the payment of personnel expenses under the Latin American cooperation authority set forth in [section 1050 of this title][/us/usc/t10/s1050] are also available for the costs of the operation of the Center for Hemispheric Defense Studies.”
 
     Subsec. (e). [Pub. L. 109–163][/us/pl/109/163] added subsec. (e).
 
@@ -71,15 +71,15 @@
 
     2000—Subsec. (b)(3). [Pub. L. 106–398][/us/pl/106/398] substituted “Joint Forces Staff College” for “Armed Forces Staff College”.
 
-    1998—Subsec. (b)(7). [Pub. L. 105–261, § 904][/us/pl/105/261/s904], added par. (7).
+    1998—Subsec. (b)(7). [Pub. L. 105–261][/us/pl/105/261], § 904, added par. (7).
 
-    Subsec. (c). [Pub. L. 105–261, § 905(a)][/us/pl/105/261/s905/a], added subsec. (c).
+    Subsec. (c). [Pub. L. 105–261][/us/pl/105/261], § 905(a), added subsec. (c).
 
-    1997—Subsec. (b)(6). [Pub. L. 105–85, § 922(a)][/us/pl/105/85/s922/a], added par. (6).
+    1997—Subsec. (b)(6). [Pub. L. 105–85][/us/pl/105/85], § 922(a), added par. (6).
 
  __Change of Name__ 
 
-[Pub. L. 112–81, div. B, title XXVIII, § 2861][/us/pl/112/81/s2861], Dec. 31, 2011, [125 Stat. 1701][/us/stat/125/1701], provided that:
+[Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], § 2861, Dec. 31, 2011, [125 Stat. 1701][/us/stat/125/1701], provided that:
 
 >     “(a)  __Redesignation__  __.—__ 
 
@@ -93,7 +93,7 @@
 
 >     Any reference to the Industrial College of the Armed Forces in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Dwight D. Eisenhower School for National Security and Resource Strategy.”
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 913(a), (c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–230, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title IX, § 913(a), (c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–230, provided that:
 
 >     “(a)  __Change in Name__  __.—__ 
 
@@ -105,13 +105,13 @@
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–107, div. A, title V, § 527(c)(2)][/us/pl/107/107/s527/c/2], Dec. 28, 2001, [115 Stat. 1102][/us/stat/115/1102], provided that: 
+[Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 527(c)(2), Dec. 28, 2001, [115 Stat. 1102][/us/stat/115/1102], provided that: 
 
 > “Subsection (d) of [section 2165 of title 10][/us/usc/t10/s2165], United States Code, as added by paragraph (1), shall become effective beginning with fiscal year 2003.”
 
  __Center for the Study of Chinese Military Affairs__ 
 
-[Pub. L. 106–65, div. A, title IX, § 914][/us/pl/106/65/s914], Oct. 5, 1999, [113 Stat. 721][/us/stat/113/721], provided that:
+[Pub. L. 106–65, div. A, title IX][/us/pl/106/65/dA/tIX], § 914, Oct. 5, 1999, [113 Stat. 721][/us/stat/113/721], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -142,41 +142,41 @@
 ----------
 ----------
 
-[/us/pl/109/364/s904/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs904%2Fb%2F2%2FB
+[/us/pl/109/364/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIX
 [/us/stat/120/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2353
-[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIX
 [/us/stat/111/1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1862
-[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIX
 [/us/stat/112/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2093
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s527/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs527%2Fc%2F1
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1102
-[/us/pl/109/163/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs522%2Fa
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3240
-[/us/pl/109/364/s904/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs904%2Fb%2F2
+[/us/pl/109/364/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIX
 [/us/stat/120/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2353
-[/us/pl/112/81/s2861/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2861%2Fb
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1701
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/109/364/s904/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs904%2Fb%2F2%2FA
-[/us/pl/109/364/s904/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs904%2Fb%2F2%2FB
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1050
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/105/261/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs904
-[/us/pl/105/261/s905/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs905%2Fa
-[/us/pl/105/85/s922/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs922%2Fa
-[/us/pl/112/81/s2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2861
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1701
 [/us/usc/t10/s2165/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2165%2Fb%2F2
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s527/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs527%2Fc%2F2
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1102
 [/us/usc/t10/s2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2165
-[/us/pl/106/65/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs914
+[/us/pl/106/65/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIX
 [/us/stat/113/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F721
 
 

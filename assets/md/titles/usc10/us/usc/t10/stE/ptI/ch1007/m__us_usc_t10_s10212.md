@@ -25,11 +25,11 @@
 
         (2) in consultation upon matters relating to the armed forces.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)][/us/pl/103/337/s1661/a/1], Oct. 5, 1994, [108 Stat. 2978][/us/stat/108/2978]; amended [Pub. L. 103–355, title III, § 3021(a)][/us/pl/103/355/s3021/a], Oct. 13, 1994, [108 Stat. 3333][/us/stat/108/3333].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1661(a)(1), Oct. 5, 1994, [108 Stat. 2978][/us/stat/108/2978]; amended [Pub. L. 103–355, title III][/us/pl/103/355/tIII], § 3021(a), Oct. 13, 1994, [108 Stat. 3333][/us/stat/108/3333].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 279 of this title][/us/usc/t10/s279], prior to repeal by [Pub. L. 103–337, § 1661(a)(2)(A)][/us/pl/103/337/s1661/a/2/A], and in sections 4541 and 9541 of this title, prior to repeal by [Pub. L. 103–160, § 822(d)(2)][/us/pl/103/160/s822/d/2].
+    Provisions similar to those in this section were contained in [section 279 of this title][/us/usc/t10/s279], prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1661(a)(2)(A), and in sections 4541 and 9541 of this title, prior to repeal by [Pub. L. 103–160][/us/pl/103/160], § 822(d)(2).
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–355, title III, § 3021(b)][/us/pl/103/355/s3021/b], Oct. 13, 1994, [108 Stat. 3333][/us/stat/108/3333], provided that: 
+[Pub. L. 103–355, title III][/us/pl/103/355/tIII], § 3021(b), Oct. 13, 1994, [108 Stat. 3333][/us/stat/108/3333], provided that: 
 
 > “Notwithstanding section 10001 \[set out as a note under [section 2302 of this title][/us/usc/t10/s2302]\], the amendments made by subsection (a) \[amending this section\] shall take effect on December 1, 1994, immediately after the amendments made by the Reserve Officer Personnel Management Act \[[Pub. L. 103–337][/us/pl/103/337], see Tables for classification\].”
 
@@ -54,15 +54,15 @@
 
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
-[/us/pl/103/337/s1661/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2978
-[/us/pl/103/355/s3021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3021%2Fa
+[/us/pl/103/355/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtIII
 [/us/stat/108/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3333
 [/us/usc/t10/s279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs279
-[/us/pl/103/337/s1661/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F2%2FA
-[/us/pl/103/160/s822/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs822%2Fd%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
-[/us/pl/103/355/s3021/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3021%2Fb
+[/us/pl/103/355/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtIII
 [/us/stat/108/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3333
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

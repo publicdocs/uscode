@@ -27,11 +27,11 @@
 
     The presentation of a flag under this section shall be at no cost to the recipient.
 
-(Added [Pub. L. 105–261, div. A, title VI, § 644(a)(1)][/us/pl/105/261/s644/a/1], Oct. 17, 1998, [112 Stat. 2048][/us/stat/112/2048]; amended [Pub. L. 106–65, div. A, title VI, § 652(e)][/us/pl/106/65/s652/e], Oct. 5, 1999, [113 Stat. 666][/us/stat/113/666].)
+(Added [Pub. L. 105–261, div. A, title VI][/us/pl/105/261/dA/tVI], § 644(a)(1), Oct. 17, 1998, [112 Stat. 2048][/us/stat/112/2048]; amended [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 652(e), Oct. 5, 1999, [113 Stat. 666][/us/stat/113/666].)
 
  __Prior Provisions__ 
 
-    A prior section 3681, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 210][/us/stat/70A/210], related to service listed in the official Army Register, prior to repeal by [Pub. L. 85–861, § 36B(9)][/us/pl/85/861/s36B/9], Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570]. See [section 122 of this title][/us/usc/t10/s122].
+    A prior section 3681, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 210][/us/stat/70A/210], related to service listed in the official Army Register, prior to repeal by [Pub. L. 85–861][/us/pl/85/861], § 36B(9), Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570]. See [section 122 of this title][/us/usc/t10/s122].
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 105–261, div. A, title VI, § 644(e)][/us/pl/105/261/s644/e], Oct. 17, 1998, [112 Stat. 2049][/us/stat/112/2049], provided that: 
+[Pub. L. 105–261, div. A, title VI][/us/pl/105/261/dA/tVI], § 644(e), Oct. 17, 1998, [112 Stat. 2049][/us/stat/112/2049], provided that: 
 
 > “Sections 3681, 6141, and 8681 of title 10, United States Code (as added by this section), and [section 516 of title 14][/us/usc/t14/s516], United States Code (as added by subsection (d)), shall apply with respect to releases from active duty described in those sections on or after October 1, 1998.”
 
@@ -50,18 +50,18 @@
 ----------
 ----------
 
-[/us/pl/105/261/s644/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs644%2Fa%2F1
+[/us/pl/105/261/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVI
 [/us/stat/112/2048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2048
-[/us/pl/106/65/s652/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs652%2Fe
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F666
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F210
-[/us/pl/85/861/s36B/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs36B%2F9
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1570
 [/us/usc/t10/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs122
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t14/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs516
-[/us/pl/105/261/s644/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs644%2Fe
+[/us/pl/105/261/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVI
 [/us/stat/112/2049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2049
 [/us/usc/t14/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs516
 

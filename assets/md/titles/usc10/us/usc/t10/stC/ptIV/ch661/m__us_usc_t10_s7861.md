@@ -17,7 +17,7 @@
 
     The Secretary of the Navy has custody and charge of all books, records, papers, furniture, fixtures, and other property under the lawful control of the executive part of the Department of the Navy.
 
-(Added [Pub. L. 99–433, title V, § 514(b)(2)][/us/pl/99/433/s514/b/2], Oct. 1, 1986, [100 Stat. 1055][/us/stat/100/1055].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 514(b)(2), Oct. 1, 1986, [100 Stat. 1055][/us/stat/100/1055].)
 
  __Prior Provisions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/433/s514/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs514%2Fb%2F2
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1055
 [/us/usc/t10/s7862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7862
 

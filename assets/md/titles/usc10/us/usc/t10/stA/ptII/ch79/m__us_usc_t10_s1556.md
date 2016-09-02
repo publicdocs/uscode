@@ -33,11 +33,11 @@
 
         (5) Any military record that is (or may be) provided to the applicant by the Secretary of the military department or other source.
 
-(Added [Pub. L. 105–261, div. A, title V, § 543(a)(1)][/us/pl/105/261/s543/a/1], Oct. 17, 1998, [112 Stat. 2020][/us/stat/112/2020].)
+(Added [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 543(a)(1), Oct. 17, 1998, [112 Stat. 2020][/us/stat/112/2020].)
 
  __Effective Date__ 
 
-[Pub. L. 105–261, div. A, title V, § 543(b)][/us/pl/105/261/s543/b], Oct. 17, 1998, [112 Stat. 2021][/us/stat/112/2021], provided that: 
+[Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 543(b), Oct. 17, 1998, [112 Stat. 2021][/us/stat/112/2021], provided that: 
 
 > “[Section 1556 of title 10][/us/usc/t10/s1556], United States Code, as added by subsection (a), shall apply with respect to correspondence and communications made 60 days or more after the date of the enactment of this Act \[Oct. 17, 1998\].”
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/105/261/s543/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs543%2Fa%2F1
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2020
-[/us/pl/105/261/s543/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs543%2Fb
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2021
 [/us/usc/t10/s1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1556
 

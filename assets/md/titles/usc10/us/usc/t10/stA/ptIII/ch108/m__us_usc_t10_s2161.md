@@ -41,7 +41,7 @@
 
         (3) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the National Intelligence University to award any new or existing degree.
 
-(Added [Pub. L. 96–450, title IV, § 406(a)][/us/pl/96/450/s406/a], Oct. 14, 1980, [94 Stat. 1980][/us/stat/94/1980]; amended [Pub. L. 105–107, title V, § 501(a)][/us/pl/105/107/s501/a], Nov. 20, 1997, [111 Stat. 2261][/us/stat/111/2261]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 543(a)(1), Oct. 14, 2008, [122 Stat. 4456][/us/stat/122/4456]; [Pub. L. 112–239, div. A, title IX, § 922(a)][/us/pl/112/239/s922/a], (b)(1), Jan. 2, 2013, [126 Stat. 1879][/us/stat/126/1879].)
+(Added [Pub. L. 96–450, title IV][/us/pl/96/450/tIV], § 406(a), Oct. 14, 1980, [94 Stat. 1980][/us/stat/94/1980]; amended [Pub. L. 105–107, title V][/us/pl/105/107/tV], § 501(a), Nov. 20, 1997, [111 Stat. 2261][/us/stat/111/2261]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 543(a)(1), Oct. 14, 2008, [122 Stat. 4456][/us/stat/122/4456]; [Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 922(a), (b)(1), Jan. 2, 2013, [126 Stat. 1879][/us/stat/126/1879].)
 
  __Amendments__ 
 
@@ -64,13 +64,13 @@
 ----------
 ----------
 
-[/us/pl/96/450/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F450%2Fs406%2Fa
+[/us/pl/96/450/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F450%2FtIV
 [/us/stat/94/1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1980
-[/us/pl/105/107/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2Fs501%2Fa
+[/us/pl/105/107/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2FtV
 [/us/stat/111/2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2261
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4456
-[/us/pl/112/239/s922/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs922%2Fa
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
 [/us/stat/126/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1879
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417

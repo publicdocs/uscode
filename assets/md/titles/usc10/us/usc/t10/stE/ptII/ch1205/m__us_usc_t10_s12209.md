@@ -29,7 +29,7 @@
 
     (d) An officer candidate designated under this section may not participate in the program of a reserve officer training corps of any armed force.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 26][/us/stat/70A/26], § 600; renumbered § 12209, [Pub. L. 103–337, div. A, title XVI, § 1662(c)(3)][/us/pl/103/337/s1662/c/3], Oct. 5, 1994, [108 Stat. 2990][/us/stat/108/2990]; [Pub. L. 104–106, div. A, title XV, § 1501(b)(12)(A)][/us/pl/104/106/s1501/b/12/A], Feb. 10, 1996, [110 Stat. 496][/us/stat/110/496].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 26][/us/stat/70A/26], § 600; renumbered § 12209, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(c)(3), Oct. 5, 1994, [108 Stat. 2990][/us/stat/108/2990]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(12)(A), Feb. 10, 1996, [110 Stat. 496][/us/stat/110/496].)
 
 <table>
 
@@ -110,9 +110,9 @@ July 9, 1952, ch. 608, §§ 215(a), 230, 242, 66 Stat. 486, 489, 492.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F26
-[/us/pl/103/337/s1662/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fc%2F3
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2990
-[/us/pl/104/106/s1501/b/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F12%2FA
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F496
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

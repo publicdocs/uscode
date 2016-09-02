@@ -57,7 +57,7 @@
 
         (2) an accredited postsecondary minority institution.
 
-(Added [Pub. L. 111–84, div. A, title II, § 252(a)][/us/pl/111/84/s252/a], Oct. 28, 2009, [123 Stat. 2242][/us/stat/123/2242]; amended [Pub. L. 111–383, div. A, title X, § 1075(b)(32)][/us/pl/111/383/s1075/b/32], Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370]; [Pub. L. 112–81, div. A, title II, § 219][/us/pl/112/81/s219], Dec. 31, 2011, [125 Stat. 1335][/us/stat/125/1335]; [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(i)][/us/pl/112/239/s1076/c/2/A/i], Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949].)
+(Added [Pub. L. 111–84, div. A, title II][/us/pl/111/84/dA/tII], § 252(a), Oct. 28, 2009, [123 Stat. 2242][/us/stat/123/2242]; amended [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(32), Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370]; [Pub. L. 112–81, div. A, title II][/us/pl/112/81/dA/tII], § 219, Dec. 31, 2011, [125 Stat. 1335][/us/stat/125/1335]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(c)(2)(A)(i), Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949].)
 
  __References in Text__ 
 
@@ -65,23 +65,23 @@
 
  __Prior Provisions__ 
 
-    A prior section 2362, added [Pub. L. 99–145, title I, § 123(a)(1)][/us/pl/99/145/s123/a/1], Nov. 8, 1985, [99 Stat. 599][/us/stat/99/599]; amended [Pub. L. 99–433, title I, § 110(g)(4)][/us/pl/99/433/s110/g/4], Oct. 1, 1986, [100 Stat. 1004][/us/stat/100/1004]; [Pub. L. 100–26, § 7(k)(2)][/us/pl/100/26/s7/k/2], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284], which related to testing requirements for wheeled or tracked armored vehicles, was repealed by [Pub. L. 103–160, div. A, title VIII, § 821(a)(3)][/us/pl/103/160/s821/a/3], Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
+    A prior section 2362, added [Pub. L. 99–145, title I][/us/pl/99/145/tI], § 123(a)(1), Nov. 8, 1985, [99 Stat. 599][/us/stat/99/599]; amended [Pub. L. 99–433, title I][/us/pl/99/433/tI], § 110(g)(4), Oct. 1, 1986, [100 Stat. 1004][/us/stat/100/1004]; [Pub. L. 100–26][/us/pl/100/26], § 7(k)(2), Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284], which related to testing requirements for wheeled or tracked armored vehicles, was repealed by [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 821(a)(3), Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
 
  __Amendments__ 
 
     2013—Subsec. (a)(1). Pub L. 112–239 substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”.
 
-    2011—Subsec. (a). [Pub. L. 112–81, § 219(a)][/us/pl/112/81/s219/a], designated existing provisions as par. (1) and added par. (2).
+    2011—Subsec. (a). [Pub. L. 112–81][/us/pl/112/81], § 219(a), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (b). [Pub. L. 112–81, § 219(b)(1)][/us/pl/112/81/s219/b/1], substituted “established by subsection (a)(1)” for “established under subsection (a)” in introductory provisions.
+    Subsec. (b). [Pub. L. 112–81][/us/pl/112/81], § 219(b)(1), substituted “established by subsection (a)(1)” for “established under subsection (a)” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 112–81, § 219(b)(2)][/us/pl/112/81/s219/b/2], substituted “subsection (a)(1)” for “subsection (a)” in introductory provisions.
+    Subsec. (c). [Pub. L. 112–81][/us/pl/112/81], § 219(b)(2), substituted “subsection (a)(1)” for “subsection (a)” in introductory provisions.
 
-    Subsec. (e)(1). [Pub. L. 111–383, § 1075(b)(32)][/us/pl/111/383/s1075/b/32], substituted “title III or V” for “title III or IV”.
+    Subsec. (e)(1). [Pub. L. 111–383][/us/pl/111/383], § 1075(b)(32), substituted “title III or V” for “title III or IV”.
 
  __Strategies for Engagement With Historically Black Colleges and Universities and Minority-Serving Institutions of Higher Education__ 
 
-[Pub. L. 114–92, div. A, title II, § 233][/us/pl/114/92/s233], Nov. 25, 2015, [129 Stat. 779][/us/stat/129/779], provided that:
+[Pub. L. 114–92, div. A, title II][/us/pl/114/92/dA/tII], § 233, Nov. 25, 2015, [129 Stat. 779][/us/stat/129/779], provided that:
 
 >     “(a) __Basic Research Entities.—__ 
 
@@ -135,30 +135,30 @@
 ----------
 
 [/us/usc/t20/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1051
-[/us/pl/111/84/s252/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs252%2Fa
+[/us/pl/111/84/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtII
 [/us/stat/123/2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2242
-[/us/pl/111/383/s1075/b/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F32
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4370
-[/us/pl/112/81/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs219
+[/us/pl/112/81/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtII
 [/us/stat/125/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1335
-[/us/pl/112/239/s1076/c/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fc%2F2%2FA%2Fi
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1949
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/99/145/s123/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs123%2Fa%2F1
+[/us/pl/99/145/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtI
 [/us/stat/99/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F599
-[/us/pl/99/433/s110/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs110%2Fg%2F4
+[/us/pl/99/433/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtI
 [/us/stat/100/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1004
-[/us/pl/100/26/s7/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fk%2F2
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F284
-[/us/pl/103/160/s821/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs821%2Fa%2F3
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1704
-[/us/pl/112/81/s219/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs219%2Fa
-[/us/pl/112/81/s219/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs219%2Fb%2F1
-[/us/pl/112/81/s219/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs219%2Fb%2F2
-[/us/pl/111/383/s1075/b/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F32
-[/us/pl/114/92/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs233
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/114/92/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtII
 [/us/stat/129/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F779
 [/us/usc/t10/s2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2362
 [/us/usc/t10/s2362/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2362%2Fe

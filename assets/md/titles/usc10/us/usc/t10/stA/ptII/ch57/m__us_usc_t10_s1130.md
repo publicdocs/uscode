@@ -35,17 +35,17 @@
 
         (2) The term “decoration” means any decoration or award that may be presented or awarded to a member or unit of the armed forces.
 
-(Added [Pub. L. 104–106, div. A, title V, § 526(a)][/us/pl/104/106/s526/a], Feb. 10, 1996, [110 Stat. 313][/us/stat/110/313]; amended [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X, § 1031(a)(10)][/us/pl/108/136/s1031/a/10], Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597]; [Pub. L. 112–81, div. A, title V, § 524][/us/pl/112/81/s524], Dec. 31, 2011, [125 Stat. 1401][/us/stat/125/1401].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 526(a), Feb. 10, 1996, [110 Stat. 313][/us/stat/110/313]; amended [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(10), Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 524, Dec. 31, 2011, [125 Stat. 1401][/us/stat/125/1401].)
 
  __Amendments__ 
 
     2011—Subsec. (b). [Pub. L. 112–81][/us/pl/112/81] inserted at end “If the determination includes a favorable recommendation for the award of the Medal of Honor, the Secretary of Defense, instead of the Secretary concerned, shall make the submission under this subsection.”
 
-    2003—[Pub. L. 108–136, § 1031(a)(10)(B)][/us/pl/108/136/s1031/a/10/B], struck out “and recommendation” after “review” in section catchline.
+    2003—[Pub. L. 108–136][/us/pl/108/136], § 1031(a)(10)(B), struck out “and recommendation” after “review” in section catchline.
 
-    Subsec. (a). [Pub. L. 108–136, § 1031(a)(10)(A)(i)][/us/pl/108/136/s1031/a/10/A/i], struck out “and the other determinations necessary to comply with subsection (b)” after “of the decoration”.
+    Subsec. (a). [Pub. L. 108–136][/us/pl/108/136], § 1031(a)(10)(A)(i), struck out “and the other determinations necessary to comply with subsection (b)” after “of the decoration”.
 
-    Subsec. (b). [Pub. L. 108–136, § 1031(a)(10)(A)(ii)][/us/pl/108/136/s1031/a/10/A/ii], substituted “to the requesting Member of Congress a detailed discussion of the rationale supporting the determination.” for “to the requesting member of Congress notice in writing of one of the following:
+    Subsec. (b). [Pub. L. 108–136][/us/pl/108/136], § 1031(a)(10)(A)(ii), substituted “to the requesting Member of Congress a detailed discussion of the rationale supporting the determination.” for “to the requesting member of Congress notice in writing of one of the following:
 
     “(1) The award or presentation of the decoration does not warrant approval on the merits.
 
@@ -61,7 +61,7 @@
 
  __Eligibility for Armed Forces Expeditionary Medal for Participation in Operation Joint Endeavor or Operation Joint Guard__ 
 
-[Pub. L. 105–85, div. A, title V, § 572][/us/pl/105/85/s572], Nov. 18, 1997, [111 Stat. 1756][/us/stat/111/1756], provided that:
+[Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 572, Nov. 18, 1997, [111 Stat. 1756][/us/stat/111/1756], provided that:
 
 >     “(a)  __Inclusion of Operations__  __.—__ 
 
@@ -87,11 +87,11 @@
 
  __Eligibility of Certain World War II Military Organizations for Award of Unit Decorations__ 
 
-    [Pub. L. 105–85, div. A, title V, § 576][/us/pl/105/85/s576], Nov. 18, 1997, [111 Stat. 1758][/us/stat/111/1758], authorized award of a unit decoration for any unit or other organization of the Armed Forces that had supported the planning or execution of combat operations during World War II primarily through unit personnel who had been attached to other units of the Armed Forces or of other allied armed forces, and that had not been otherwise eligible for award of the decoration by reason of not usually having been deployed as a unit in support of such operations, and required that any recommendation for such an award be submitted to the Secretary concerned not later than two years after Nov. 18, 1997.
+    [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 576, Nov. 18, 1997, [111 Stat. 1758][/us/stat/111/1758], authorized award of a unit decoration for any unit or other organization of the Armed Forces that had supported the planning or execution of combat operations during World War II primarily through unit personnel who had been attached to other units of the Armed Forces or of other allied armed forces, and that had not been otherwise eligible for award of the decoration by reason of not usually having been deployed as a unit in support of such operations, and required that any recommendation for such an award be submitted to the Secretary concerned not later than two years after Nov. 18, 1997.
 
  __Authority To Award Decorations Recognizing Acts of Valor Performed in Combat During the Vietnam Conflict__ 
 
-[Pub. L. 104–106, div. A, title V, § 522][/us/pl/104/106/s522], Feb. 10, 1996, [110 Stat. 310][/us/stat/110/310], provided that:
+[Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 522, Feb. 10, 1996, [110 Stat. 310][/us/stat/110/310], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -149,7 +149,7 @@
 
  __Military Intelligence Personnel Prevented by Secrecy From Being Considered for Decorations and Awards__ 
 
-[Pub. L. 104–106, div. A, title V, § 523][/us/pl/104/106/s523], Feb. 10, 1996, [110 Stat. 311][/us/stat/110/311], as amended by [Pub. L. 105–85, div. A, title V, § 575][/us/pl/105/85/s575], Nov. 18, 1997, [111 Stat. 1758][/us/stat/111/1758], provided that:
+[Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 523, Feb. 10, 1996, [110 Stat. 311][/us/stat/110/311], as amended by [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 575, Nov. 18, 1997, [111 Stat. 1758][/us/stat/111/1758], provided that:
 
 >     “(a)  __Waiver on Restrictions of Awards__  __.—__ 
 
@@ -204,30 +204,30 @@
 ----------
 ----------
 
-[/us/pl/104/106/s526/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs526%2Fa
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F313
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/108/136/s1031/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F10
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1597
-[/us/pl/112/81/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs524
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1401
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/108/136/s1031/a/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F10%2FB
-[/us/pl/108/136/s1031/a/10/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F10%2FA%2Fi
-[/us/pl/108/136/s1031/a/10/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F10%2FA%2Fii
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/105/85/s572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs572
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1756
-[/us/pl/105/85/s576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs576
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1758
-[/us/pl/104/106/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs522
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F310
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/104/106/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs523
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F311
-[/us/pl/105/85/s575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs575
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1758
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/pl/104/106/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs525

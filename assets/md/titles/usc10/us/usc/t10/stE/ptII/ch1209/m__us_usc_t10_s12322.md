@@ -17,7 +17,7 @@
 
     A member of a uniformed service described in paragraph (1)(B) or (2)(B) of [section 1074a(a) of this title][/us/usc/t10/s1074a/a] may be ordered to active duty, and a member of a uniformed service described in paragraph (1)(A) or (2)(A) of such section may be continued on active duty, for a period of more than 30 days while the member is being treated for (or recovering from) an injury, illness, or disease incurred or aggravated in the line of duty as described in any of such paragraphs.
 
-(Added [Pub. L. 106–65, div. A, title VII, § 705(a)(1)][/us/pl/106/65/s705/a/1], Oct. 5, 1999, [113 Stat. 683][/us/stat/113/683].)
+(Added [Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 705(a)(1), Oct. 5, 1999, [113 Stat. 683][/us/stat/113/683].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t10/s1074a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074a%2Fa
-[/us/pl/106/65/s705/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs705%2Fa%2F1
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F683
 
 

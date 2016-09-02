@@ -51,7 +51,7 @@
 
     However, if the member is eligible for transfer to the inactive status list under [section 1209 of this title][/us/usc/t10/s1209], and so elects, he shall be transferred to that list instead of being separated.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 94][/us/stat/70A/94]; [Pub. L. 99–661, div. A, title VI, § 604(d)(1)][/us/pl/99/661/s604/d/1], (3), Nov. 14, 1986, [100 Stat. 3876][/us/stat/100/3876]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 102–484, div. A, title V, § 516(a)][/us/pl/102/484/s516/a], Oct. 23, 1992, [106 Stat. 2407][/us/stat/106/2407]; [Pub. L. 105–85, div. A, title V, § 513(c)(2)][/us/pl/105/85/s513/c/2], (d)(2), Nov. 18, 1997, [111 Stat. 1731][/us/stat/111/1731]; [Pub. L. 106–65, div. A, title V, § 578(i)(4)][/us/pl/106/65/s578/i/4], title VI, § 653(c), Oct. 5, 1999, [113 Stat. 629][/us/stat/113/629], 667; [Pub. L. 107–107, div. A, title V, § 513(b)][/us/pl/107/107/s513/b], title X, § 1048(c)(6), Dec. 28, 2001, [115 Stat. 1093][/us/stat/115/1093], 1226.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 94][/us/stat/70A/94]; [Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], § 604(d)(1), (3), Nov. 14, 1986, [100 Stat. 3876][/us/stat/100/3876]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 102–484, div. A, title V][/us/pl/102/484/dA/tV], § 516(a), Oct. 23, 1992, [106 Stat. 2407][/us/stat/106/2407]; [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 513(c)(2), (d)(2), Nov. 18, 1997, [111 Stat. 1731][/us/stat/111/1731]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 578(i)(4), title VI, § 653(c), Oct. 5, 1999, [113 Stat. 629][/us/stat/113/629], 667; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 513(b), title X, § 1048(c)(6), Dec. 28, 2001, [115 Stat. 1093][/us/stat/115/1093], 1226.)
 
 <table>
 
@@ -105,11 +105,11 @@ Oct. 12, 1949, ch. 681, § 402(c) (last proviso), 63 Stat. 818.  </td>
 
  __Amendments__ 
 
-    2001—Par. (2)(B)(iii). [Pub. L. 107–107, § 513(b)][/us/pl/107/107/s513/b], struck out “, if the place is outside reasonable commuting distance from the member’s residence” before semicolon at end.
+    2001—Par. (2)(B)(iii). [Pub. L. 107–107][/us/pl/107/107], § 513(b), struck out “, if the place is outside reasonable commuting distance from the member’s residence” before semicolon at end.
 
-    Par. (5). [Pub. L. 107–107, § 1048(c)(6)][/us/pl/107/107/s1048/c/6], substituted “October 5, 1999,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2000,”.
+    Par. (5). [Pub. L. 107–107][/us/pl/107/107], § 1048(c)(6), substituted “October 5, 1999,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2000,”.
 
-    1999—Par. (2). [Pub. L. 106–65, § 578(i)(4)][/us/pl/106/65/s578/i/4], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the disability is a result of an injury, illness, or disease incurred or aggravated in line of duty while—
+    1999—Par. (2). [Pub. L. 106–65][/us/pl/106/65], § 578(i)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the disability is a result of an injury, illness, or disease incurred or aggravated in line of duty while—
 
     “(A) performing active duty or inactive-duty training;
 
@@ -117,11 +117,11 @@ Oct. 12, 1949, ch. 681, § 402(c) (last proviso), 63 Stat. 818.  </td>
 
     “(C) while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance of the member’s residence;”.
 
-    Par. (5). [Pub. L. 106–65, § 653(c)][/us/pl/106/65/s653/c], inserted “, in the case of a disability incurred before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2000,” after “determination, and”.
+    Par. (5). [Pub. L. 106–65][/us/pl/106/65], § 653(c), inserted “, in the case of a disability incurred before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2000,” after “determination, and”.
 
-    1997—[Pub. L. 105–85, § 513(d)(2)][/us/pl/105/85/s513/d/2], amended section catchline generally, inserting “or on inactive-duty training” after “30 days or less”.
+    1997—[Pub. L. 105–85][/us/pl/105/85], § 513(d)(2), amended section catchline generally, inserting “or on inactive-duty training” after “30 days or less”.
 
-    Pars. (2) to (5). [Pub. L. 105–85, § 513(c)(2)][/us/pl/105/85/s513/c/2], added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+    Pars. (2) to (5). [Pub. L. 105–85][/us/pl/105/85], § 513(c)(2), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
     1992—Par. (4). [Pub. L. 102–484][/us/pl/102/484] inserted before period at end “or of traveling directly to or from the place at which such duty is performed”.
 
@@ -151,26 +151,26 @@ Oct. 12, 1949, ch. 681, § 402(c) (last proviso), 63 Stat. 818.  </td>
 [/us/usc/t10/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1209
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F94
-[/us/pl/99/661/s604/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs604%2Fd%2F1
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3876
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1602
-[/us/pl/102/484/s516/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs516%2Fa
+[/us/pl/102/484/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtV
 [/us/stat/106/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2407
-[/us/pl/105/85/s513/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs513%2Fc%2F2
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1731
-[/us/pl/106/65/s578/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs578%2Fi%2F4
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F629
-[/us/pl/107/107/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs513%2Fb
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1093
 [/us/usc/t10/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1204
 [/us/usc/t10/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1209
-[/us/pl/107/107/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs513%2Fb
-[/us/pl/107/107/s1048/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fc%2F6
-[/us/pl/106/65/s578/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs578%2Fi%2F4
-[/us/pl/106/65/s653/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs653%2Fc
-[/us/pl/105/85/s513/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs513%2Fd%2F2
-[/us/pl/105/85/s513/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs513%2Fc%2F2
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661

@@ -17,11 +17,11 @@
 
     Subject to regulations prescribed by the Secretary of the military department concerned, an officer eligible for consideration by a promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] who is in the promotion zone or above the promotion zone, or who is to be considered by a vacancy promotion board, may send a written communication to the board calling attention to any matter concerning the officer which the officer considers important to the officer’s case. Any such communication shall be sent so as to arrive not later than the day before the date on which the board convenes. The board shall give consideration to any timely communication under this section.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2925][/us/stat/108/2925]; amended [Pub. L. 109–163, div. A, title V, § 505(b)][/us/pl/109/163/s505/b], Jan. 6, 2006, [119 Stat. 3227][/us/stat/119/3227].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2925][/us/stat/108/2925]; amended [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 505(b), Jan. 6, 2006, [119 Stat. 3227][/us/stat/119/3227].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 3362(f), 5900, and 8362(f) of this title, prior to repeal by [Pub. L. 103–337, § 1629(a)(1)][/us/pl/103/337/s1629/a/1], (b)(2), (c)(1).
+    Provisions similar to those in this section were contained in sections 3362(f), 5900, and 8362(f) of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(a)(1), (b)(2), (c)(1).
 
  __Amendments__ 
 
@@ -39,11 +39,11 @@
 ----------
 
 [/us/usc/t10/s14101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fa
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2925
-[/us/pl/109/163/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs505%2Fb
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3227
-[/us/pl/103/337/s1629/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fa%2F1
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/163/s505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs505%2Fc

@@ -81,11 +81,11 @@
 
         (2) The term “gift or donation” means any gift or donation of funds, materials (including research materials), real or personal property, or services (including lecture services and faculty services).
 
-(Added [Pub. L. 113–66, div. A, title X, § 1071(a)][/us/pl/113/66/s1071/a], Dec. 26, 2013, [127 Stat. 867][/us/stat/127/867].)
+(Added [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1071(a), Dec. 26, 2013, [127 Stat. 867][/us/stat/127/867].)
 
  __Prior Provisions__ 
 
-    A prior section 427, added [Pub. L. 109–364, div. A, title IX, § 932(a)][/us/pl/109/364/s932/a], Oct. 17, 2006, [120 Stat. 2362][/us/stat/120/2362], related to submission of an annual report on intelligence oversight activities of the Department of Defense, prior to repeal by [Pub. L. 112–81, div. A, title X, § 1061(4)(A)][/us/pl/112/81/s1061/4/A], Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583].
+    A prior section 427, added [Pub. L. 109–364, div. A, title IX][/us/pl/109/364/dA/tIX], § 932(a), Oct. 17, 2006, [120 Stat. 2362][/us/stat/120/2362], related to submission of an annual report on intelligence oversight activities of the Department of Defense, prior to repeal by [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1061(4)(A), Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583].
 
 ----------
 
@@ -94,11 +94,11 @@
 ----------
 ----------
 
-[/us/pl/113/66/s1071/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1071%2Fa
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F867
-[/us/pl/109/364/s932/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs932%2Fa
+[/us/pl/109/364/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIX
 [/us/stat/120/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2362
-[/us/pl/112/81/s1061/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F4%2FA
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1583
 
 

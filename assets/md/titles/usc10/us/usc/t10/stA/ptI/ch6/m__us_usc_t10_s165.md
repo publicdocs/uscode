@@ -27,7 +27,7 @@
 
     After consultation with the Secretaries of the military departments, the Secretary of Defense may assign the responsibility (or any part of the responsibility) for the administration and support of forces assigned to the combatant commands to other components of the Department of Defense (including Defense Agencies and combatant commands). A component assigned such a responsibility shall discharge that responsibility subject to the authority, direction, and control of the Secretary of Defense and subject to the authority of commanders of the combatant commands under [section 164(c) of this title][/us/usc/t10/s164/c].
 
-(Added [Pub. L. 99–433, title II, § 211(a)][/us/pl/99/433/s211/a], Oct. 1, 1986, [100 Stat. 1016][/us/stat/100/1016].)
+(Added [Pub. L. 99–433, title II][/us/pl/99/433/tII], § 211(a), Oct. 1, 1986, [100 Stat. 1016][/us/stat/100/1016].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t10/s164/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs164%2Fc
 [/us/usc/t10/s164/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs164%2Fc
-[/us/pl/99/433/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs211%2Fa
+[/us/pl/99/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtII
 [/us/stat/100/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1016
 
 

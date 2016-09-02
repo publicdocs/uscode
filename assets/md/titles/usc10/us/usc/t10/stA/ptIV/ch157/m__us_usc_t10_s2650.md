@@ -25,7 +25,7 @@
 
     (4) in case of travel by air, the transportation cannot be reasonably handled by a United States commercial air carrier.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 267][/us/stat/70A/267], § 4746; [Pub. L. 98–443, § 9(k)][/us/pl/98/443/s9/k], Oct. 4, 1984, [98 Stat. 1708][/us/stat/98/1708]; renumbered § 2650 and amended [Pub. L. 108–375, div. A, title X, § 1072(a)][/us/pl/108/375/s1072/a], (b)(3), Oct. 28, 2004, [118 Stat. 2057][/us/stat/118/2057], 2058.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 267][/us/stat/70A/267], § 4746; [Pub. L. 98–443][/us/pl/98/443], § 9(k), Oct. 4, 1984, [98 Stat. 1708][/us/stat/98/1708]; renumbered § 2650 and amended [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1072(a), (b)(3), Oct. 28, 2004, [118 Stat. 2057][/us/stat/118/2057], 2058.)
 
 <table>
 
@@ -75,11 +75,11 @@ Nov. 21, 1941, ch. 483; restated July 25, 1947, ch. 321, 61 Stat. 423.  </td>
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–375, § 1072(a)][/us/pl/108/375/s1072/a], (b)(3)(A), renumbered [section 4746 of this title][/us/usc/t10/s4746] as this section and, in introductory provisions, struck out “Army transport agencies or, within bulk space allocations made to the Department of the Army, on vessels or airplanes operated by any military transport agency of” before “the Department of Defense”.
+    2004—[Pub. L. 108–375][/us/pl/108/375], § 1072(a), (b)(3)(A), renumbered [section 4746 of this title][/us/usc/t10/s4746] as this section and, in introductory provisions, struck out “Army transport agencies or, within bulk space allocations made to the Department of the Army, on vessels or airplanes operated by any military transport agency of” before “the Department of Defense”.
 
-    Par. (1). [Pub. L. 108–375, § 1072(b)(3)(B)][/us/pl/108/375/s1072/b/3/B], substituted “Secretary of Defense” for “Secretary of the Army”.
+    Par. (1). [Pub. L. 108–375][/us/pl/108/375], § 1072(b)(3)(B), substituted “Secretary of Defense” for “Secretary of the Army”.
 
-    Par. (4). [Pub. L. 108–375, § 1072(b)(3)(C)][/us/pl/108/375/s1072/b/3/C], substituted “by air, the transportation cannot” for “by air—
+    Par. (4). [Pub. L. 108–375][/us/pl/108/375], § 1072(b)(3)(C), substituted “by air, the transportation cannot” for “by air—
 
     “(A) the Secretary of Transportation has not certified that commercial air carriers of the United States that can handle the transportation are operating between Alaska and the United States; and
 
@@ -100,15 +100,15 @@ Nov. 21, 1941, ch. 483; restated July 25, 1947, ch. 321, 61 Stat. 423.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F267
-[/us/pl/98/443/s9/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9%2Fk
+[/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/stat/98/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1708
-[/us/pl/108/375/s1072/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1072%2Fa
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2057
 [/us/usc/t10/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F1
-[/us/pl/108/375/s1072/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1072%2Fa
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t10/s4746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4746
-[/us/pl/108/375/s1072/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1072%2Fb%2F3%2FB
-[/us/pl/108/375/s1072/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1072%2Fb%2F3%2FC
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/pl/98/443/s9/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9%2Fv

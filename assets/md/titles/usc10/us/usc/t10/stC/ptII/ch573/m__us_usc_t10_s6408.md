@@ -71,7 +71,7 @@ May 5, 1950, ch. 169, § 10 (as applicable to warrant officers, W–1, of the 
 
 </table>
 
-    This section reflects the opinion of the Judge Advocate General of the Navy (JAG:I:2:ERS:cmr, dtd. 13 April 1954) that [50 U.S.C. 739][/us/usc/t50/s739] applies to warrant officers (now warrant officers, W–1), of the Navy and the Marine Corps. The Warrant Officer Act of 1954 established the grade of warrant officer, W–1, in lieu of the former warrant officer (as distinguished from commissioned warrant officer) grades. [50 U.S.C. 739][/us/usc/t50/s739], as applicable to officers above the grade of warrant officer, W–1, is codified in [§ 1161 of this title][/us/usc/t10/s1161].
+    This section reflects the opinion of the Judge Advocate General of the Navy (JAG:I:2:ERS:cmr, dtd. 13 April 1954) that [50 U.S.C. 739][/us/usc/t50/s739] applies to warrant officers (now warrant officers, W–1), of the Navy and the Marine Corps. The Warrant Officer Act of 1954 established the grade of warrant officer, W–1, in lieu of the former warrant officer (as distinguished from commissioned warrant officer) grades. [50 U.S.C. 739][/us/usc/t50/s739], as applicable to officers above the grade of warrant officer, W–1, is codified in § 1161 of this title.
 
     In subsection (a) the words “by sentence of a general court-martial, or in commutation thereof” are omitted since the separation from the service of a warrant officer, W–1, by sentence of court-martial is effected by dishonorable discharge.
 
@@ -88,6 +88,5 @@ May 5, 1950, ch. 169, § 10 (as applicable to warrant officers, W–1, of the 
 [/us/stat/70A/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F416
 [/us/usc/t50/s739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs739
 [/us/usc/t50/s739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs739
-[/us/usc/t10/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1161
 
 

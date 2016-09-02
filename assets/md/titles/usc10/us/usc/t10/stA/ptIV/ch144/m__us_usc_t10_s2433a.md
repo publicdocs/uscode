@@ -125,7 +125,7 @@
 
         (3) the course the Department plans to pursue to meet any continuing joint military requirements otherwise intended to be met by the program.
 
-(Added [Pub. L. 111–23, title II, § 206(a)(1)][/us/pl/111/23/s206/a/1], May 22, 2009, [123 Stat. 1726][/us/stat/123/1726]; amended [Pub. L. 111–383, div. A, title X, § 1075(b)(35)][/us/pl/111/383/s1075/b/35], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371]; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81], §§ 801(e)(4), 831, Dec. 31, 2011, [125 Stat. 1484][/us/stat/125/1484], 1503; [Pub. L. 112–239, div. A, title VIII, § 813][/us/pl/112/239/s813], Jan. 2, 2013, [126 Stat. 1829][/us/stat/126/1829].)
+(Added [Pub. L. 111–23, title II][/us/pl/111/23/tII], § 206(a)(1), May 22, 2009, [123 Stat. 1726][/us/stat/123/1726]; amended [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(35), Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371]; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], §§ 801(e)(4), 831, Dec. 31, 2011, [125 Stat. 1484][/us/stat/125/1484], 1503; [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 813, Jan. 2, 2013, [126 Stat. 1829][/us/stat/126/1829].)
 
  __References in Text__ 
 
@@ -137,17 +137,17 @@
 
     2011—Subsec. (b)(2)(B). [Pub. L. 111–383][/us/pl/111/383] substituted “section 181(g)(1)” for “section 181(g)((1)”.
 
-    Subsec. (c)(1)(B), (C). [Pub. L. 112–81, § 801(e)(4)][/us/pl/112/81/s801/e/4], struck out “, or Key Decision Point approval in the case of a space program,” after “Milestone approval”.
+    Subsec. (c)(1)(B), (C). [Pub. L. 112–81][/us/pl/112/81], § 801(e)(4), struck out “, or Key Decision Point approval in the case of a space program,” after “Milestone approval”.
 
-    Subsec. (c)(3). [Pub. L. 112–81, § 831][/us/pl/112/81/s831], added par. (3).
+    Subsec. (c)(3). [Pub. L. 112–81][/us/pl/112/81], § 831, added par. (3).
 
  __Reviews of Programs Restructured After Experiencing Critical Cost Growth__ 
 
-[Pub. L. 111–23, title II, § 205(c)][/us/pl/111/23/s205/c], May 22, 2009, [123 Stat. 1725][/us/stat/123/1725], as amended by [Pub. L. 111–383, div. A, title VIII, § 813(e)][/us/pl/111/383/s813/e], title X, § 1075(k)(2), Jan. 7, 2011, [124 Stat. 4266][/us/stat/124/4266], 4378, provided that: 
+[Pub. L. 111–23, title II][/us/pl/111/23/tII], § 205(c), May 22, 2009, [123 Stat. 1725][/us/stat/123/1725], as amended by [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 813(e), title X, § 1075(k)(2), Jan. 7, 2011, [124 Stat. 4266][/us/stat/124/4266], 4378, provided that: 
 
 > “The official designated to perform oversight of performance assessment pursuant to section 103 of this Act \[set out as a note under [section 2430 of this title][/us/usc/t10/s2430]\], shall assess the performance of each major defense acquisition program that has exceeded critical cost growth thresholds established pursuant to [section 2433(e) of title 10][/us/usc/t10/s2433/e], United States Code, but has not been terminated in accordance with section 2433a of such title (as added by section 206(a) of this Act) not less often than semi-annually until one year after the date on which such program receives a new milestone approval, in accordance with section 2433a(c)(1)(C) of such title (as so added). The results of reviews performed under this subsection shall be reported to the Under Secretary of Defense for Acquisition, Technology, and Logistics and summarized in the next annual report of such designated official.”
 
-    \[[Pub. L. 111–383, div. A, title VIII, § 813(e)][/us/pl/111/383/s813/e], Jan. 7, 2011, [124 Stat. 4266][/us/stat/124/4266], provided that the amendment made by section 813(e) to [section 205(c) of Pub. L. 111–23][/us/pl/111/23/s205/c], set out above, is effective as of May 22, 2009, and as if included in [Pub. L. 111–23][/us/pl/111/23], as enacted.\]
+    \[[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 813(e), Jan. 7, 2011, [124 Stat. 4266][/us/stat/124/4266], provided that the amendment made by section 813(e) to [section 205(c) of Pub. L. 111–23][/us/pl/111/23/s205/c], set out above, is effective as of May 22, 2009, and as if included in [Pub. L. 111–23][/us/pl/111/23], as enacted.\]
 
     \[For definition of “major defense acquisition program” as used in [section 205(c) of Pub. L. 111–23][/us/pl/111/23/s205/c], set out above, see [section 2(2) of Pub. L. 111–23][/us/pl/111/23/s2/2], set out as a note under [section 2430 of this title][/us/usc/t10/s2430].\]
 
@@ -166,28 +166,28 @@
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t10/s2433/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2433%2Fg
 [/us/usc/t10/s2432/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432%2Ff
-[/us/pl/111/23/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs206%2Fa%2F1
+[/us/pl/111/23/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2FtII
 [/us/stat/123/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1726
-[/us/pl/111/383/s1075/b/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F35
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4371
-[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1484
-[/us/pl/112/239/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs813
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1829
 [/us/pl/111/23/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs205
 [/us/usc/t10/s2366b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2366b
 [/us/usc/t10/s2366b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2366b
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/112/81/s801/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs801%2Fe%2F4
-[/us/pl/112/81/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs831
-[/us/pl/111/23/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs205%2Fc
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/111/23/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2FtII
 [/us/stat/123/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1725
-[/us/pl/111/383/s813/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs813%2Fe
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4266
 [/us/usc/t10/s2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2430
 [/us/usc/t10/s2433/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2433%2Fe
-[/us/pl/111/383/s813/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs813%2Fe
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4266
 [/us/pl/111/23/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs205%2Fc
 [/us/pl/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23

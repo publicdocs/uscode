@@ -17,7 +17,7 @@
 
     To be eligible to receive an aeronautical rating as a pilot in the Army or Air Force or be designated as a naval aviator, a member of an armed force must successfully complete an undergraduate pilot course of instruction prescribed or approved by the Secretary of his military department.
 
-(Added [Pub. L. 92–168, § 4(1)][/us/pl/92/168/s4/1], Nov. 24, 1971, [85 Stat. 489][/us/stat/85/489].)
+(Added [Pub. L. 92–168][/us/pl/92/168], § 4(1), Nov. 24, 1971, [85 Stat. 489][/us/stat/85/489].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/168/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F168%2Fs4%2F1
+[/us/pl/92/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F168
 [/us/stat/85/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F489
 
 

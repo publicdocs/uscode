@@ -31,7 +31,7 @@
 
     In this section, the term “environmental restoration project” includes any construction, development, conversion, or extension of a structure, or installation of equipment, in direct support of a response.
 
-(Added [Pub. L. 107–314, div. A, title III, § 313(a)(2)][/us/pl/107/314/s313/a/2], Dec. 2, 2002, [116 Stat. 2507][/us/stat/116/2507].)
+(Added [Pub. L. 107–314, div. A, title III][/us/pl/107/314/dA/tIII], § 313(a)(2), Dec. 2, 2002, [116 Stat. 2507][/us/stat/116/2507].)
 
  __Prior Provisions__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t10/s2801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2801%2Fa
 [/us/usc/t10/s2703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2703%2Fa
-[/us/pl/107/314/s313/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs313%2Fa%2F2
+[/us/pl/107/314/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtIII
 [/us/stat/116/2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2507
 [/us/usc/t10/s2700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2700
 

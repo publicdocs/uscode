@@ -17,7 +17,7 @@
 
     The military judge or a court-martial without a military judge may, for reasonable cause, grant a continuance to any party for such time, and as often, as may appear to be just.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 51][/us/stat/70A/51]; [Pub. L. 90–632, § 2(16)][/us/pl/90/632/s2/16], Oct. 24, 1968, [82 Stat. 1339][/us/stat/82/1339].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 51][/us/stat/70A/51]; [Pub. L. 90–632][/us/pl/90/632], § 2(16), Oct. 24, 1968, [82 Stat. 1339][/us/stat/82/1339].)
 
 <table>
 
@@ -80,7 +80,7 @@ May 5, 1950, ch. 169, § 1 (Art. 40), 64 Stat. 121.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F51
-[/us/pl/90/632/s2/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F16
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1339
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632

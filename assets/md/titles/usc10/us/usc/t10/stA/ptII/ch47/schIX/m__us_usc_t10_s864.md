@@ -61,7 +61,7 @@
 
         (3) If the opinion of the judge advocate in the judge advocate’s review under subsection (a) is that corrective action is required as a matter of law and if the person required to take action under subsection (b) does not take action that is at least as favorable to the accused as that recommended by the judge advocate, the record of trial and action thereon shall be sent to the Judge Advocate General for review under [section 869(b) of this title][/us/usc/t10/s869/b] (article 69(b)).
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 58][/us/stat/70A/58]; [Pub. L. 98–209, § 7(a)(1)][/us/pl/98/209/s7/a/1], Dec. 6, 1983, [97 Stat. 1401][/us/stat/97/1401].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 58][/us/stat/70A/58]; [Pub. L. 98–209][/us/pl/98/209], § 7(a)(1), Dec. 6, 1983, [97 Stat. 1401][/us/stat/97/1401].)
 
 <table>
 
@@ -128,7 +128,7 @@ May 5, 1950, ch. 169, § 1 (Art. 64), 64 Stat. 128.  </td>
 [/us/usc/t10/s869/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs869%2Fb
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F58
-[/us/pl/98/209/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs7%2Fa%2F1
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1401
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209

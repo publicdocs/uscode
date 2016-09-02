@@ -29,7 +29,7 @@
 
     (c) Any funds expended under the authority of subsection (a) shall be reported to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives pursuant to the provisions of title V of the National Security Act of 1947 ([50 U.S.C. 3091][/us/usc/t50/s3091] et seq.). Funds expended under the authority of subsection (b) shall be reported pursuant to procedures jointly agreed upon by such committees and the Secretary of Defense.
 
-(Added [Pub. L. 96–450, title IV, § 401(a)][/us/pl/96/450/s401/a], Oct. 14, 1980, [94 Stat. 1977][/us/stat/94/1977], § 140a; amended [Pub. L. 97–258, § 3(b)(2)][/us/pl/97/258/s3/b/2], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; renumbered § 128 and amended [Pub. L. 99–433, title I][/us/pl/99/433], §§ 101(a)(3), 110(d)(5), Oct. 1, 1986, [100 Stat. 994][/us/stat/100/994], 1002; renumbered § 421, [Pub. L. 100–26, § 9(a)(2)][/us/pl/100/26/s9/a/2], Apr. 21, 1987, [101 Stat. 287][/us/stat/101/287]; [Pub. L. 100–453, title VII, § 701(a)][/us/pl/100/453/s701/a], Sept. 29, 1988, [102 Stat. 1911][/us/stat/102/1911]; [Pub. L. 101–189, div. A, title XVI, § 1622(c)(3)][/us/pl/101/189/s1622/c/3], Nov. 29, 1989, [103 Stat. 1604][/us/stat/103/1604]; [Pub. L. 113–291, div. A, title X, § 1071(c)(3)][/us/pl/113/291/s1071/c/3], Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
+(Added [Pub. L. 96–450, title IV][/us/pl/96/450/tIV], § 401(a), Oct. 14, 1980, [94 Stat. 1977][/us/stat/94/1977], § 140a; amended [Pub. L. 97–258][/us/pl/97/258], § 3(b)(2), Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; renumbered § 128 and amended [Pub. L. 99–433, title I][/us/pl/99/433/tI], §§ 101(a)(3), 110(d)(5), Oct. 1, 1986, [100 Stat. 994][/us/stat/100/994], 1002; renumbered § 421, [Pub. L. 100–26][/us/pl/100/26], § 9(a)(2), Apr. 21, 1987, [101 Stat. 287][/us/stat/101/287]; [Pub. L. 100–453, title VII][/us/pl/100/453/tVII], § 701(a), Sept. 29, 1988, [102 Stat. 1911][/us/stat/102/1911]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1622(c)(3), Nov. 29, 1989, [103 Stat. 1604][/us/stat/103/1604]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(c)(3), Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
  __Comprehensive Independent Study of National Cryptography Policy__ 
 
-    [Pub. L. 103–160, div. A, title II, § 267][/us/pl/103/160/s267], Nov. 30, 1993, [107 Stat. 1611][/us/stat/107/1611], directed Secretary of Defense, not later than 90 days after Nov. 30, 1993, to request National Research Council of National Academy of Sciences to conduct a comprehensive study to assess effect of cryptographic technologies on national security, law enforcement, commercial, and privacy interests, and effect of export controls on commercial interests, with cooperation of other agencies, and report findings and conclusions within 2 years after processing of security clearances to Secretary of Defense, and directed Secretary to submit a report in unclassified form to Committee on Armed Services, Committee on the Judiciary, and Select Committee on Intelligence of Senate and to Committee on Armed Services, Committee on the Judiciary, and Permanent Select Committee on Intelligence of House of Representatives, not later than 120 days after the report is submitted to the Secretary.
+    [Pub. L. 103–160, div. A, title II][/us/pl/103/160/dA/tII], § 267, Nov. 30, 1993, [107 Stat. 1611][/us/stat/107/1611], directed Secretary of Defense, not later than 90 days after Nov. 30, 1993, to request National Research Council of National Academy of Sciences to conduct a comprehensive study to assess effect of cryptographic technologies on national security, law enforcement, commercial, and privacy interests, and effect of export controls on commercial interests, with cooperation of other agencies, and report findings and conclusions within 2 years after processing of security clearances to Secretary of Defense, and directed Secretary to submit a report in unclassified form to Committee on Armed Services, Committee on the Judiciary, and Select Committee on Intelligence of Senate and to Committee on Armed Services, Committee on the Judiciary, and Permanent Select Committee on Intelligence of House of Representatives, not later than 120 days after the report is submitted to the Secretary.
 
 ----------
 
@@ -61,19 +61,19 @@
 ----------
 
 [/us/usc/t50/s3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3091
-[/us/pl/96/450/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F450%2Fs401%2Fa
+[/us/pl/96/450/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F450%2FtIV
 [/us/stat/94/1977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1977
-[/us/pl/97/258/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Fb%2F2
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1063
-[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/99/433/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtI
 [/us/stat/100/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F994
-[/us/pl/100/26/s9/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs9%2Fa%2F2
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F287
-[/us/pl/100/453/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F453%2Fs701%2Fa
+[/us/pl/100/453/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F453%2FtVII
 [/us/stat/102/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1911
-[/us/pl/101/189/s1622/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fc%2F3
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1604
-[/us/pl/113/291/s1071/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F3
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
@@ -90,7 +90,7 @@
 [/us/usc/t10/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs128
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/usc/t31/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs543
-[/us/pl/103/160/s267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs267
+[/us/pl/103/160/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtII
 [/us/stat/107/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1611
 
 

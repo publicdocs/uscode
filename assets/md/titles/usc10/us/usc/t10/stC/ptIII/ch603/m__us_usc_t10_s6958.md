@@ -37,7 +37,7 @@
 
     (d) To be admitted to the Naval Academy, an appointee must take and subscribe to an oath prescribed by the Secretary of the Navy. If a candidate for admission refuses to take and subscribe to the prescribed oath, the candidate’s appointment is terminated.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 431][/us/stat/70A/431]; [Pub. L. 87–663, § 1(4)][/us/pl/87/663/s1/4], Sept. 14, 1962, [76 Stat. 547][/us/stat/76/547]; [Pub. L. 93–171, § 2(5)][/us/pl/93/171/s2/5], Nov. 29, 1973, [87 Stat. 690][/us/stat/87/690]; [Pub. L. 101–510, div. A, title V, § 532(b)(3)][/us/pl/101/510/s532/b/3], Nov. 5, 1990, [104 Stat. 1563][/us/stat/104/1563]; [Pub. L. 102–190, div. A, title V, § 512][/us/pl/102/190/s512], Dec. 5, 1991, [105 Stat. 1360][/us/stat/105/1360]; [Pub. L. 104–201, div. A, title V, § 555(c)][/us/pl/104/201/s555/c], Sept. 23, 1996, [110 Stat. 2527][/us/stat/110/2527]; [Pub. L. 105–85, div. A, title V, § 541(a)][/us/pl/105/85/s541/a], Nov. 18, 1997, [111 Stat. 1740][/us/stat/111/1740].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 431][/us/stat/70A/431]; [Pub. L. 87–663][/us/pl/87/663], § 1(4), Sept. 14, 1962, [76 Stat. 547][/us/stat/76/547]; [Pub. L. 93–171][/us/pl/93/171], § 2(5), Nov. 29, 1973, [87 Stat. 690][/us/stat/87/690]; [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 532(b)(3), Nov. 5, 1990, [104 Stat. 1563][/us/stat/104/1563]; [Pub. L. 102–190, div. A, title V][/us/pl/102/190/dA/tV], § 512, Dec. 5, 1991, [105 Stat. 1360][/us/stat/105/1360]; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 555(c), Sept. 23, 1996, [110 Stat. 2527][/us/stat/110/2527]; [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 541(a), Nov. 18, 1997, [111 Stat. 1740][/us/stat/111/1740].)
 
 <table>
 
@@ -184,17 +184,17 @@ Dec. 20, 1917, ch. 5, § 1 (less 1st 70 words), 40 Stat. 430; Aug. 13, 1946, c
 [/us/usc/t10/s6954/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6954%2Fb
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F431
-[/us/pl/87/663/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F663%2Fs1%2F4
+[/us/pl/87/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F663
 [/us/stat/76/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F547
-[/us/pl/93/171/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F171%2Fs2%2F5
+[/us/pl/93/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F171
 [/us/stat/87/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F690
-[/us/pl/101/510/s532/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs532%2Fb%2F3
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1563
-[/us/pl/102/190/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs512
+[/us/pl/102/190/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtV
 [/us/stat/105/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1360
-[/us/pl/104/201/s555/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs555%2Fc
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2527
-[/us/pl/105/85/s541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs541%2Fa
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1740
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201

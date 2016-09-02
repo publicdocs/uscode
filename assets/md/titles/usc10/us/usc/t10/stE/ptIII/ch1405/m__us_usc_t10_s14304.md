@@ -83,11 +83,11 @@
 
     If the Secretary of the Navy establishes promotion zones for officers on the reserve active-status list of the Navy or the Marine Corps Reserve in accordance with a running mate system under [section 14306 of this title][/us/usc/t10/s14306], the Secretary may waive the requirements of subsection (a) to the extent the Secretary considers necessary in any case in which the years of service for promotion, or for consideration for promotion, within those zones will exceed the maximum years of service in grade specified in subsection (a).
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2934][/us/stat/108/2934].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2934][/us/stat/108/2934].)
 
  __Minimum Service Qualifications for Promotion__ 
 
-[Pub. L. 103–337, div. A, title XVI, § 1685][/us/pl/103/337/s1685], Oct. 5, 1994, [108 Stat. 3024][/us/stat/108/3024], provided that: 
+[Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1685, Oct. 5, 1994, [108 Stat. 3024][/us/stat/108/3024], provided that: 
 
 > “During the five-year period beginning on the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of [Pub. L. 103–337][/us/pl/103/337], set out as an Effective Date note under [section 10001 of this title][/us/usc/t10/s10001]\], the Secretary of the Army and the Secretary of the Air Force may waive the provisions of [section 14304 of title 10][/us/usc/t10/s14304], United States Code, as added by this title. The Secretary may, in addition, during any period in which such a waiver is in effect, establish minimum periods of total years of commissioned service an officer must have served to be eligible for consideration for promotion to the grade of captain, major, or lieutenant colonel by boards convened under [section 14101(a) of title 10][/us/usc/t10/s14101/a], United States Code, as added by this title.”
 
@@ -103,9 +103,9 @@
 [/us/usc/t10/s14308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14308%2Fa
 [/us/usc/t10/s12011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12011
 [/us/usc/t10/s14306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14306
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2934
-[/us/pl/103/337/s1685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1685
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3024
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001

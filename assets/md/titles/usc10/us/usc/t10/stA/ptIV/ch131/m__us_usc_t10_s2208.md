@@ -195,7 +195,7 @@
 
         (2) A budget request for the anticipated costs of fuel may not take into account the availability of funds reserved under paragraph (1).
 
-(Added [Pub. L. 87–651, title II, § 207(a)][/us/pl/87/651/s207/a], Sept. 7, 1962, [76 Stat. 521][/us/stat/76/521]; amended [Pub. L. 97–295, § 1(22)][/us/pl/97/295/s1/22], Oct. 12, 1982, [96 Stat. 1290][/us/stat/96/1290]; [Pub. L. 98–94, title XII, § 1204(a)][/us/pl/98/94/s1204/a], Sept. 24, 1983, [97 Stat. 683][/us/stat/97/683]; [Pub. L. 98–525, title III, § 305][/us/pl/98/525/s305], Oct. 19, 1984, [98 Stat. 2513][/us/stat/98/2513]; [Pub. L. 100–26, § 7(d)(2)][/us/pl/100/26/s7/d/2], Apr. 21, 1987, [101 Stat. 280][/us/stat/101/280]; [Pub. L. 101–510, div. A, title VIII, § 801][/us/pl/101/510/s801], title XIII, § 1301(6), Nov. 5, 1990, [104 Stat. 1588][/us/stat/104/1588], 1668; [Pub. L. 102–172, title VIII, § 8137][/us/pl/102/172/s8137], Nov. 26, 1991, [105 Stat. 1212][/us/stat/105/1212]; [Pub. L. 102–484, div. A, title III, § 374][/us/pl/102/484/s374], Oct. 23, 1992, [106 Stat. 2385][/us/stat/106/2385]; [Pub. L. 103–160, div. A, title I, § 158(b)][/us/pl/103/160/s158/b], Nov. 30, 1993, [107 Stat. 1582][/us/stat/107/1582]; [Pub. L. 105–85, div. A, title X, § 1011(a)][/us/pl/105/85/s1011/a], (b), Nov. 18, 1997, [111 Stat. 1873][/us/stat/111/1873]; [Pub. L. 105–261, div. A, title X][/us/pl/105/261], §§ 1007(e)(1), 1008(a), Oct. 17, 1998, [112 Stat. 2115][/us/stat/112/2115]; [Pub. L. 105–262, title VIII, § 8146(d)(1)][/us/pl/105/262/s8146/d/1], Oct. 17, 1998, [112 Stat. 2340][/us/stat/112/2340]; [Pub. L. 106–65, div. A, title III][/us/pl/106/65], §§ 331(a)(1), 332, title X, § 1066(a)(16), Oct. 5, 1999, [113 Stat. 566][/us/stat/113/566], 567, 771; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 341(f)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–64; [Pub. L. 108–375, div. A, title X, § 1009][/us/pl/108/375/s1009], Oct. 28, 2004, [118 Stat. 2037][/us/stat/118/2037]; [Pub. L. 111–383, div. A, title XIV, § 1403][/us/pl/111/383/s1403], Jan. 7, 2011, [124 Stat. 4410][/us/stat/124/4410]; [Pub. L. 112–81, div. B, title XXVIII, § 2802(c)(1)][/us/pl/112/81/s2802/c/1], Dec. 31, 2011, [125 Stat. 1684][/us/stat/125/1684]; [Pub. L. 114–92, div. A, title XIV][/us/pl/114/92], §§ 1421, 1422, Nov. 25, 2015, [129 Stat. 1083][/us/stat/129/1083], 1084.)
+(Added [Pub. L. 87–651, title II][/us/pl/87/651/tII], § 207(a), Sept. 7, 1962, [76 Stat. 521][/us/stat/76/521]; amended [Pub. L. 97–295][/us/pl/97/295], § 1(22), Oct. 12, 1982, [96 Stat. 1290][/us/stat/96/1290]; [Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1204(a), Sept. 24, 1983, [97 Stat. 683][/us/stat/97/683]; [Pub. L. 98–525, title III][/us/pl/98/525/tIII], § 305, Oct. 19, 1984, [98 Stat. 2513][/us/stat/98/2513]; [Pub. L. 100–26][/us/pl/100/26], § 7(d)(2), Apr. 21, 1987, [101 Stat. 280][/us/stat/101/280]; [Pub. L. 101–510, div. A, title VIII][/us/pl/101/510/dA/tVIII], § 801, title XIII, § 1301(6), Nov. 5, 1990, [104 Stat. 1588][/us/stat/104/1588], 1668; [Pub. L. 102–172, title VIII][/us/pl/102/172/tVIII], § 8137, Nov. 26, 1991, [105 Stat. 1212][/us/stat/105/1212]; [Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 374, Oct. 23, 1992, [106 Stat. 2385][/us/stat/106/2385]; [Pub. L. 103–160, div. A, title I][/us/pl/103/160/dA/tI], § 158(b), Nov. 30, 1993, [107 Stat. 1582][/us/stat/107/1582]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1011(a), (b), Nov. 18, 1997, [111 Stat. 1873][/us/stat/111/1873]; [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], §§ 1007(e)(1), 1008(a), Oct. 17, 1998, [112 Stat. 2115][/us/stat/112/2115]; [Pub. L. 105–262, title VIII][/us/pl/105/262/tVIII], § 8146(d)(1), Oct. 17, 1998, [112 Stat. 2340][/us/stat/112/2340]; [Pub. L. 106–65, div. A, title III][/us/pl/106/65/dA/tIII], §§ 331(a)(1), 332, title X, § 1066(a)(16), Oct. 5, 1999, [113 Stat. 566][/us/stat/113/566], 567, 771; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 341(f)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–64; [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1009, Oct. 28, 2004, [118 Stat. 2037][/us/stat/118/2037]; [Pub. L. 111–383, div. A, title XIV][/us/pl/111/383/dA/tXIV], § 1403, Jan. 7, 2011, [124 Stat. 4410][/us/stat/124/4410]; [Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], § 2802(c)(1), Dec. 31, 2011, [125 Stat. 1684][/us/stat/125/1684]; [Pub. L. 114–92, div. A, title XIV][/us/pl/114/92/dA/tXIV], §§ 1421, 1422, Nov. 25, 2015, [129 Stat. 1083][/us/stat/129/1083], 1084.)
 
 <table>
 
@@ -387,21 +387,21 @@ Dec. 21, 1979, Pub. L. 96–154, § 767, 93 Stat. 1163.  </td>
 
  __Prior Provisions__ 
 
-    Provisions similar to those in subsecs. (m) to (q) of this section were contained in [section 2216a of this title][/us/usc/t10/s2216a] prior to repeal by [Pub. L. 105–261, § 1008(b)][/us/pl/105/261/s1008/b].
+    Provisions similar to those in subsecs. (m) to (q) of this section were contained in [section 2216a of this title][/us/usc/t10/s2216a] prior to repeal by [Pub. L. 105–261][/us/pl/105/261], § 1008(b).
 
  __Amendments__ 
 
-    2015—Subsec. (s). [Pub. L. 114–92, § 1421][/us/pl/114/92/s1421], added subsec. (s).
+    2015—Subsec. (s). [Pub. L. 114–92][/us/pl/114/92], § 1421, added subsec. (s).
 
-    Subsec. (t). [Pub. L. 114–92, § 1422][/us/pl/114/92/s1422], added subsec. (t).
+    Subsec. (t). [Pub. L. 114–92][/us/pl/114/92], § 1422, added subsec. (t).
 
-    2011—Subsec. (c)(1). [Pub. L. 111–383, § 1403(1)][/us/pl/111/383/s1403/1], inserted before semicolon “, including the cost of the procurement and qualification of technology-enhanced maintenance capabilities that improve either reliability, maintainability, sustainability, or supportability and have, at a minimum, been demonstrated to be functional in an actual system application or operational environment”.
+    2011—Subsec. (c)(1). [Pub. L. 111–383][/us/pl/111/383], § 1403(1), inserted before semicolon “, including the cost of the procurement and qualification of technology-enhanced maintenance capabilities that improve either reliability, maintainability, sustainability, or supportability and have, at a minimum, been demonstrated to be functional in an actual system application or operational environment”.
 
-    Subsec. (k)(2). [Pub. L. 111–383, § 1403(2)][/us/pl/111/383/s1403/2], substituted “$250,000” for “$100,000” in introductory provisions.
+    Subsec. (k)(2). [Pub. L. 111–383][/us/pl/111/383], § 1403(2), substituted “$250,000” for “$100,000” in introductory provisions.
 
-    Subsec. (k)(2)(A). [Pub. L. 112–81, § 2802(c)(1)(A)][/us/pl/112/81/s2802/c/1/A], substituted “section 2805(c)” for “section 2805(c)(1)”.
+    Subsec. (k)(2)(A). [Pub. L. 112–81][/us/pl/112/81], § 2802(c)(1)(A), substituted “section 2805(c)” for “section 2805(c)(1)”.
 
-    Subsec. (o)(2)(A). [Pub. L. 112–81, § 2802(c)(1)(B)][/us/pl/112/81/s2802/c/1/B], substituted “section 2805(c)” for “section 2805(c)(1)”.
+    Subsec. (o)(2)(A). [Pub. L. 112–81][/us/pl/112/81], § 2802(c)(1)(B), substituted “section 2805(c)” for “section 2805(c)(1)”.
 
     2004—Subsec. (r). [Pub. L. 108–375][/us/pl/108/375] added subsec. (r).
 
@@ -409,15 +409,15 @@ Dec. 21, 1979, Pub. L. 96–154, § 767, 93 Stat. 1163.  </td>
 
     1999—Subsec. (j). [Pub. L. 106–65][/us/pl/106/65], §§ 331(a)(1), 332, designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, substituted “, remanufacturing, and engineering” for “or remanufacturing” in introductory provisions, inserted “or a subcontract under a Department of Defense contract” before the semicolon in subpar. (A), substituted “solicitation for the contract or subcontract” for “Department of Defense solicitation for such contract” in subpar. (B), and added par. (2).
 
-    Subsec. (l)(2)(A). [Pub. L. 106–65, § 1066(a)(16)][/us/pl/106/65/s1066/a/16], inserted “of” after “during a period”.
+    Subsec. (l)(2)(A). [Pub. L. 106–65][/us/pl/106/65], § 1066(a)(16), inserted “of” after “during a period”.
 
-    1998—Subsec. (l)(3), (4). [Pub. L. 105–261, § 1007(e)(1)][/us/pl/105/261/s1007/e/1], and [Pub. L. 105–262][/us/pl/105/262] amended subsec. (l) identically, adding par. (3) and redesignating former par. (3) as (4).
+    1998—Subsec. (l)(3), (4). [Pub. L. 105–261][/us/pl/105/261], § 1007(e)(1), and [Pub. L. 105–262][/us/pl/105/262] amended subsec. (l) identically, adding par. (3) and redesignating former par. (3) as (4).
 
-    Subsecs. (m) to (q). [Pub. L. 105–261, § 1008(a)][/us/pl/105/261/s1008/a], added subsecs. (m) to (q).
+    Subsecs. (m) to (q). [Pub. L. 105–261][/us/pl/105/261], § 1008(a), added subsecs. (m) to (q).
 
-    1997—Subsec. (k). [Pub. L. 105–85, § 1011(a)][/us/pl/105/85/s1011/a], added subsec. (k) and struck out former subsec. (k) which read as follows: “The Secretary of Defense shall provide that of the total amount of payments received in a fiscal year by funds established under this section for industrial-type activities, not less than 3 percent during fiscal year 1985, not less than 4 percent during fiscal year 1986, and not less than 5 percent during fiscal year 1987 shall be used for the acquisition of capital equipment for such activities.”
+    1997—Subsec. (k). [Pub. L. 105–85][/us/pl/105/85], § 1011(a), added subsec. (k) and struck out former subsec. (k) which read as follows: “The Secretary of Defense shall provide that of the total amount of payments received in a fiscal year by funds established under this section for industrial-type activities, not less than 3 percent during fiscal year 1985, not less than 4 percent during fiscal year 1986, and not less than 5 percent during fiscal year 1987 shall be used for the acquisition of capital equipment for such activities.”
 
-    Subsec. (l). [Pub. L. 105–85, § 1011(b)][/us/pl/105/85/s1011/b], added subsec. (l).
+    Subsec. (l). [Pub. L. 105–85][/us/pl/105/85], § 1011(b), added subsec. (l).
 
     1993—Subsec. (i). [Pub. L. 103–160][/us/pl/103/160] amended subsec. (i) generally. Prior to amendment, subsec. (i) required that regulations under subsec. (h) authorize working-capital funded Army industrial facilities to sell manufactured articles and services to persons outside the Department of Defense in specified cases.
 
@@ -425,7 +425,7 @@ Dec. 21, 1979, Pub. L. 96–154, § 767, 93 Stat. 1163.  </td>
 
     1991—Subsecs. (j), (k). [Pub. L. 102–172][/us/pl/102/172] added subsec. (j) and redesignated former subsec. (j) as (k).
 
-    1990—Subsec. (i)(1). [Pub. L. 101–510, § 801][/us/pl/101/510/s801], added par. (1), redesignated par. (3) as (2), and struck out former pars. (1) and (2) which read as follows:
+    1990—Subsec. (i)(1). [Pub. L. 101–510][/us/pl/101/510], § 801, added par. (1), redesignated par. (3) as (2), and struck out former pars. (1) and (2) which read as follows:
 
     “(1) Regulations under subsection (h) may authorize an article manufactured by a working-capital funded Department of the Army arsenal that manufactures large caliber cannons, gun mounts, or recoil mechanisms to be sold to a person outside the Department of Defense if—
 
@@ -439,7 +439,7 @@ Dec. 21, 1979, Pub. L. 96–154, § 767, 93 Stat. 1163.  </td>
 
     “(2) Services related to an article sold under this subsection may also be sold to the purchaser if the services are to be performed in the United States for the purchaser.”
 
-    Subsec. (k). [Pub. L. 101–510, § 1301(6)][/us/pl/101/510/s1301/6], struck out subsec. (k) which read as follows: “Reports annually shall be made to the President and to Congress on the condition and operation of working-capital funds established under this section.”
+    Subsec. (k). [Pub. L. 101–510][/us/pl/101/510], § 1301(6), struck out subsec. (k) which read as follows: “Reports annually shall be made to the President and to Congress on the condition and operation of working-capital funds established under this section.”
 
     1987—Subsec. (i)(3). [Pub. L. 100–26][/us/pl/100/26] inserted “([22 U.S.C. 2778][/us/usc/t22/s2778])” after “Arms Export Control Act”.
 
@@ -451,19 +451,19 @@ Dec. 21, 1979, Pub. L. 96–154, § 767, 93 Stat. 1163.  </td>
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–261, div. A, title X, § 1007(e)(2)][/us/pl/105/261/s1007/e/2], Oct. 17, 1998, [112 Stat. 2115][/us/stat/112/2115], and [Pub. L. 105–262, title VIII, § 8146(d)(2)][/us/pl/105/262/s8146/d/2], Oct. 17, 1998, [112 Stat. 2340][/us/stat/112/2340], provided that: 
+[Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1007(e)(2), Oct. 17, 1998, [112 Stat. 2115][/us/stat/112/2115], and [Pub. L. 105–262, title VIII][/us/pl/105/262/tVIII], § 8146(d)(2), Oct. 17, 1998, [112 Stat. 2340][/us/stat/112/2340], provided that: 
 
 > “Section 2208(l)(3) of such title, as added by paragraph (1), applies to fiscal years after fiscal year 1999.”
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 98–94, title XII, § 1204(b)][/us/pl/98/94/s1204/b], Sept. 24, 1983, [97 Stat. 683][/us/stat/97/683], provided that: 
+[Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1204(b), Sept. 24, 1983, [97 Stat. 683][/us/stat/97/683], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to appropriations for fiscal years beginning after September 30, 1984.”
 
  __Pilot Program for Acquisition of Commercial Satellite Communication Services__ 
 
-[Pub. L. 113–291, div. A, title XVI, § 1605][/us/pl/113/291/s1605], Dec. 19, 2014, [128 Stat. 3623][/us/stat/128/3623], as amended by [Pub. L. 114–92, div. A, title XVI, § 1612][/us/pl/114/92/s1612], Nov. 25, 2015, [129 Stat. 1103][/us/stat/129/1103], provided that:
+[Pub. L. 113–291, div. A, title XVI][/us/pl/113/291/dA/tXVI], § 1605, Dec. 19, 2014, [128 Stat. 3623][/us/stat/128/3623], as amended by [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1612, Nov. 25, 2015, [129 Stat. 1103][/us/stat/129/1103], provided that:
 
 >     “(a) __Pilot Program.—__ 
 
@@ -535,39 +535,39 @@ Dec. 21, 1979, Pub. L. 96–154, § 767, 93 Stat. 1163.  </td>
 
  __Advance Billing for Fiscal Year 2006__ 
 
-[Pub. L. 109–234, title I, § 1206][/us/pl/109/234/s1206], June 15, 2006, [120 Stat. 430][/us/stat/120/430], provided in part that: 
+[Pub. L. 109–234, title I][/us/pl/109/234/tI], § 1206, June 15, 2006, [120 Stat. 430][/us/stat/120/430], provided in part that: 
 
 > “Notwithstanding [10 U.S.C. 2208][/us/usc/t10/s2208](l), the total amount of advance billings rendered or imposed for all working capital funds of the Department of Defense in fiscal year 2006 shall not exceed $1,200,000,000”.
 
  __Advance Billing for Fiscal Year 2005__ 
 
-    [Pub. L. 109–13, div. A, title I, § 1005][/us/pl/109/13/s1005], May 11, 2005, [119 Stat. 243][/us/stat/119/243], provided that for fiscal year 2005, the limitation under subsec. (l)(3) of this section on the total amount of advance billings rendered or imposed for all working capital funds of the Department of Defense in a fiscal year would be applied by substituting “$1,500,000,000” for “$1,000,000,000”.
+    [Pub. L. 109–13, div. A, title I][/us/pl/109/13/dA/tI], § 1005, May 11, 2005, [119 Stat. 243][/us/stat/119/243], provided that for fiscal year 2005, the limitation under subsec. (l)(3) of this section on the total amount of advance billings rendered or imposed for all working capital funds of the Department of Defense in a fiscal year would be applied by substituting “$1,500,000,000” for “$1,000,000,000”.
 
  __Oversight of Defense Business Operations Fund__ 
 
-    [Pub. L. 103–337, div. A, title III, § 311(b)][/us/pl/103/337/s311/b]–(e), Oct. 5, 1994, [108 Stat. 2708][/us/stat/108/2708], which related to purchase from other sources, limitation on inclusion of certain costs in DBOF charges, procedures for accumulation of funds, and annual reports and budget, was repealed and restated in section 2216a(d)(2)(B), (f) to (h)(3) of this title by [Pub. L. 104–106, div. A, title III, § 371(a)(1)][/us/pl/104/106/s371/a/1], (b)(1), Feb. 10, 1996, [110 Stat. 277–279][/us/stat/110/277-279].
+    [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 311(b)–(e), Oct. 5, 1994, [108 Stat. 2708][/us/stat/108/2708], which related to purchase from other sources, limitation on inclusion of certain costs in DBOF charges, procedures for accumulation of funds, and annual reports and budget, was repealed and restated in section 2216a(d)(2)(B), (f) to (h)(3) of this title by [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 371(a)(1), (b)(1), Feb. 10, 1996, [110 Stat. 277–279][/us/stat/110/277-279].
 
-    [Pub. L. 103–337, div. A, title III, § 311(f)][/us/pl/103/337/s311/f], (g), Oct. 5, 1994, [108 Stat. 2709][/us/stat/108/2709], required Secretary of Defense to submit to congressional defense committees, not later than Feb. 1, 1995, a report on progress made in implementing the Defense Business Operations Fund Improvement Plan, dated September 1993, and required Comptroller General to monitor and evaluate the Department of Defense implementation of the Plan and to report to congressional defense committees not later than Mar. 1, 1995.
+    [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 311(f), (g), Oct. 5, 1994, [108 Stat. 2709][/us/stat/108/2709], required Secretary of Defense to submit to congressional defense committees, not later than Feb. 1, 1995, a report on progress made in implementing the Defense Business Operations Fund Improvement Plan, dated September 1993, and required Comptroller General to monitor and evaluate the Department of Defense implementation of the Plan and to report to congressional defense committees not later than Mar. 1, 1995.
 
  __Charges for Goods and Services Provided Through Defense Business Operations Fund__ 
 
-    [Pub. L. 103–160, div. A, title III, § 333(a)][/us/pl/103/160/s333/a], (b), Nov. 30, 1993, [107 Stat. 1621][/us/stat/107/1621], which provided that charges for goods and services provided through Defense Business Operations Fund were to include amounts necessary to recover full costs of development, implementation, operation, and maintenance of systems supporting wholesale supply and maintenance activities of Department of Defense and use of military personnel in provision of goods and services, and were not to include amounts necessary to recover costs of military construction project other than minor construction project financed by Defense Business Operations Fund pursuant to [section 2805(c)(1) of this title][/us/usc/t10/s2805/c/1], and which required full cost of operation of Defense Finance Accounting Service to be financed within Defense Business Operations Fund through charges for goods and services provided through Fund, was repealed and restated in section 2216a(d)(1)(A), (C), (2)(A) of this title by [Pub. L. 104–106, div. A, title III, § 371(a)(1)][/us/pl/104/106/s371/a/1], (b)(2), Feb. 10, 1996, [110 Stat. 277–279][/us/stat/110/277-279].
+    [Pub. L. 103–160, div. A, title III][/us/pl/103/160/dA/tIII], § 333(a), (b), Nov. 30, 1993, [107 Stat. 1621][/us/stat/107/1621], which provided that charges for goods and services provided through Defense Business Operations Fund were to include amounts necessary to recover full costs of development, implementation, operation, and maintenance of systems supporting wholesale supply and maintenance activities of Department of Defense and use of military personnel in provision of goods and services, and were not to include amounts necessary to recover costs of military construction project other than minor construction project financed by Defense Business Operations Fund pursuant to [section 2805(c)(1) of this title][/us/usc/t10/s2805/c/1], and which required full cost of operation of Defense Finance Accounting Service to be financed within Defense Business Operations Fund through charges for goods and services provided through Fund, was repealed and restated in section 2216a(d)(1)(A), (C), (2)(A) of this title by [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 371(a)(1), (b)(2), Feb. 10, 1996, [110 Stat. 277–279][/us/stat/110/277-279].
 
  __Capital Asset Subaccount__ 
 
-    [Pub. L. 102–484, div. A, title III, § 342][/us/pl/102/484/s342], Oct. 23, 1992, [106 Stat. 2376][/us/stat/106/2376], as amended by [Pub. L. 103–160, div. A, title III, § 333(c)][/us/pl/103/160/s333/c], Nov. 30, 1993, [107 Stat. 1622][/us/stat/107/1622], which provided that charges for goods and services provided through the Defense Business Operations Fund include amounts for depreciation of capital assets which were to be credited to a separate capital asset subaccount in the Fund, authorized Secretary of Defense to award contracts for capital assets of the Fund in advance of availability of funds in the subaccount, required Secretary to submit annual reports to congressional defense committees, authorized appropriations to the Fund for fiscal years 1993 and 1994, and defined terms, was repealed and restated in section 2216a(d)(1)(B), (e), (h)(4), and (i) of this title by [Pub. L. 104–106, div. A, title III, § 371(a)(1)][/us/pl/104/106/s371/a/1], (b)(3), Feb. 10, 1996, [110 Stat. 277–279][/us/stat/110/277-279].
+    [Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 342, Oct. 23, 1992, [106 Stat. 2376][/us/stat/106/2376], as amended by [Pub. L. 103–160, div. A, title III][/us/pl/103/160/dA/tIII], § 333(c), Nov. 30, 1993, [107 Stat. 1622][/us/stat/107/1622], which provided that charges for goods and services provided through the Defense Business Operations Fund include amounts for depreciation of capital assets which were to be credited to a separate capital asset subaccount in the Fund, authorized Secretary of Defense to award contracts for capital assets of the Fund in advance of availability of funds in the subaccount, required Secretary to submit annual reports to congressional defense committees, authorized appropriations to the Fund for fiscal years 1993 and 1994, and defined terms, was repealed and restated in section 2216a(d)(1)(B), (e), (h)(4), and (i) of this title by [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 371(a)(1), (b)(3), Feb. 10, 1996, [110 Stat. 277–279][/us/stat/110/277-279].
 
  __Limitations on Use of Defense Business Operations Fund__ 
 
-    [Pub. L. 102–190, div. A, title III, § 316][/us/pl/102/190/s316], Dec. 5, 1991, [105 Stat. 1338][/us/stat/105/1338], as amended by [Pub. L. 102–484, div. A, title III, § 341][/us/pl/102/484/s341], Oct. 23, 1992, [106 Stat. 2374][/us/stat/106/2374]; [Pub. L. 103–160, div. A, title III][/us/pl/103/160], §§ 331, 332, Nov. 30, 1993, [107 Stat. 1620][/us/stat/107/1620]; [Pub. L. 103–337, div. A, title III, § 311(a)][/us/pl/103/337/s311/a], Oct. 5, 1994, [108 Stat. 2708][/us/stat/108/2708], which authorized Secretary of Defense to manage performance of certain working-capital funds established under this section, the Defense Finance and Accounting Service, the Defense Industrial Plan Equipment Center, the Defense Commissary Agency, the Defense Technical Information Service, the Defense Reutilization and Marketing Service, and certain activities funded through use of working-capital fund established under this section, directed Secretary to maintain separate accounting, reporting, and auditing of such funds and activities, required Secretary to submit to congressional defense committees, by not later than 30 days after Nov. 30, 1993, a comprehensive management plan and, by not later than Feb. 1, 1994, a progress report on plan’s implementation, and directed Comptroller General to monitor and evaluate the plan and submit to congressional defense committees, not later than Mar. 1, 1994, a report, was repealed and restated in section 2216a(a)–(c) of this title by [Pub. L. 104–106, div. A, title III, § 371(a)(1)][/us/pl/104/106/s371/a/1], (b)(4), Feb. 10, 1996, [110 Stat. 277][/us/stat/110/277], 279.
+    [Pub. L. 102–190, div. A, title III][/us/pl/102/190/dA/tIII], § 316, Dec. 5, 1991, [105 Stat. 1338][/us/stat/105/1338], as amended by [Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 341, Oct. 23, 1992, [106 Stat. 2374][/us/stat/106/2374]; [Pub. L. 103–160, div. A, title III][/us/pl/103/160/dA/tIII], §§ 331, 332, Nov. 30, 1993, [107 Stat. 1620][/us/stat/107/1620]; [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 311(a), Oct. 5, 1994, [108 Stat. 2708][/us/stat/108/2708], which authorized Secretary of Defense to manage performance of certain working-capital funds established under this section, the Defense Finance and Accounting Service, the Defense Industrial Plan Equipment Center, the Defense Commissary Agency, the Defense Technical Information Service, the Defense Reutilization and Marketing Service, and certain activities funded through use of working-capital fund established under this section, directed Secretary to maintain separate accounting, reporting, and auditing of such funds and activities, required Secretary to submit to congressional defense committees, by not later than 30 days after Nov. 30, 1993, a comprehensive management plan and, by not later than Feb. 1, 1994, a progress report on plan’s implementation, and directed Comptroller General to monitor and evaluate the plan and submit to congressional defense committees, not later than Mar. 1, 1994, a report, was repealed and restated in section 2216a(a)–(c) of this title by [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 371(a)(1), (b)(4), Feb. 10, 1996, [110 Stat. 277][/us/stat/110/277], 279.
 
  __Defense Business Operations Fund__ 
 
-    [Pub. L. 102–172, title VIII, § 8121][/us/pl/102/172/s8121], Nov. 26, 1991, [105 Stat. 1204][/us/stat/105/1204], which established on the books of the Treasury a fund entitled the “Defense Business Operations Fund” to be operated as a working capital fund under the provisions of this section and to include certain existing organizations including the Defense Finance and Accounting Service, the Defense Commissary Agency, the Defense Technical Information Center, the Defense Reutilization and Marketing Service, and the Defense Industrial Plant Equipment Service, directed transfer of assets and balances of those organizations to the Fund, provided for budgeting and accounting of charges for supplies and services provided by the Fund, and directed that capital asset charges collected be credited to a subaccount of the Fund, was repealed by [Pub. L. 104–106, div. A, title III, § 371(b)(5)][/us/pl/104/106/s371/b/5], Feb. 10, 1996, [110 Stat. 280][/us/stat/110/280].
+    [Pub. L. 102–172, title VIII][/us/pl/102/172/tVIII], § 8121, Nov. 26, 1991, [105 Stat. 1204][/us/stat/105/1204], which established on the books of the Treasury a fund entitled the “Defense Business Operations Fund” to be operated as a working capital fund under the provisions of this section and to include certain existing organizations including the Defense Finance and Accounting Service, the Defense Commissary Agency, the Defense Technical Information Center, the Defense Reutilization and Marketing Service, and the Defense Industrial Plant Equipment Service, directed transfer of assets and balances of those organizations to the Fund, provided for budgeting and accounting of charges for supplies and services provided by the Fund, and directed that capital asset charges collected be credited to a subaccount of the Fund, was repealed by [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 371(b)(5), Feb. 10, 1996, [110 Stat. 280][/us/stat/110/280].
 
  __Sale of Inventories for Performance of Contracts With Defense Department__ 
 
-    [Pub. L. 96–154, title VII, § 767][/us/pl/96/154/s767], Dec. 21, 1979, [93 Stat. 1163][/us/stat/93/1163], which had provided that supplies available in inventories financed by working capital funds established pursuant to this section could, on and after Dec. 21, 1979, be sold to contractors for use in performing contracts with the Department of Defense, was repealed and restated in subsec. (h) of this section by [Pub. L. 97–295][/us/pl/97/295], §§ 1(22), 6(b), Oct. 12, 1982, [96 Stat. 1290][/us/stat/96/1290], 1315.
+    [Pub. L. 96–154, title VII][/us/pl/96/154/tVII], § 767, Dec. 21, 1979, [93 Stat. 1163][/us/stat/93/1163], which had provided that supplies available in inventories financed by working capital funds established pursuant to this section could, on and after Dec. 21, 1979, be sold to contractors for use in performing contracts with the Department of Defense, was repealed and restated in subsec. (h) of this section by [Pub. L. 97–295][/us/pl/97/295], §§ 1(22), 6(b), Oct. 12, 1982, [96 Stat. 1290][/us/stat/96/1290], 1315.
 
 ----------
 
@@ -582,119 +582,119 @@ Dec. 21, 1979, Pub. L. 96–154, § 767, 93 Stat. 1163.  </td>
 [/us/usc/t10/s2801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2801%2Fb
 [/us/usc/t10/s2805/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805%2Fc
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/87/651/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs207%2Fa
+[/us/pl/87/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtII
 [/us/stat/76/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F521
-[/us/pl/97/295/s1/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F22
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1290
-[/us/pl/98/94/s1204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1204%2Fa
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F683
-[/us/pl/98/525/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs305
+[/us/pl/98/525/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtIII
 [/us/stat/98/2513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2513
-[/us/pl/100/26/s7/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fd%2F2
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F280
-[/us/pl/101/510/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs801
+[/us/pl/101/510/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVIII
 [/us/stat/104/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1588
-[/us/pl/102/172/s8137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2Fs8137
+[/us/pl/102/172/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2FtVIII
 [/us/stat/105/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1212
-[/us/pl/102/484/s374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs374
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2385
-[/us/pl/103/160/s158/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs158%2Fb
+[/us/pl/103/160/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtI
 [/us/stat/107/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1582
-[/us/pl/105/85/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1011%2Fa
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1873
-[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2115
-[/us/pl/105/262/s8146/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F262%2Fs8146%2Fd%2F1
+[/us/pl/105/262/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F262%2FtVIII
 [/us/stat/112/2340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2340
-[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIII
 [/us/stat/113/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F566
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/375/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1009
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2037
-[/us/pl/111/383/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1403
+[/us/pl/111/383/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtXIV
 [/us/stat/124/4410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4410
-[/us/pl/112/81/s2802/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2802%2Fc%2F1
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1684
-[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXIV
 [/us/stat/129/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1083
 [/us/usc/t10/s101/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F26
 [/us/usc/t5/s172d/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs172d%2Fd
 [/us/usc/t10/s2216a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2216a
-[/us/pl/105/261/s1008/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1008%2Fb
-[/us/pl/114/92/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1421
-[/us/pl/114/92/s1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1422
-[/us/pl/111/383/s1403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1403%2F1
-[/us/pl/111/383/s1403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1403%2F2
-[/us/pl/112/81/s2802/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2802%2Fc%2F1%2FA
-[/us/pl/112/81/s2802/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2802%2Fc%2F1%2FB
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/106/65/s1066/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fa%2F16
-[/us/pl/105/261/s1007/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1007%2Fe%2F1
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/105/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F262
-[/us/pl/105/261/s1008/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1008%2Fa
-[/us/pl/105/85/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1011%2Fa
-[/us/pl/105/85/s1011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1011%2Fb
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172
-[/us/pl/101/510/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs801
-[/us/pl/101/510/s1301/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1301%2F6
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
-[/us/pl/105/261/s1007/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1007%2Fe%2F2
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2115
-[/us/pl/105/262/s8146/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F262%2Fs8146%2Fd%2F2
+[/us/pl/105/262/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F262%2FtVIII
 [/us/stat/112/2340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2340
-[/us/pl/98/94/s1204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1204%2Fb
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F683
-[/us/pl/113/291/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1605
+[/us/pl/113/291/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXVI
 [/us/stat/128/3623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3623
-[/us/pl/114/92/s1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1612
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1103
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/109/234/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2Fs1206
+[/us/pl/109/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2FtI
 [/us/stat/120/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F430
 [/us/usc/t10/s2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2208
-[/us/pl/109/13/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs1005
+[/us/pl/109/13/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdA%2FtI
 [/us/stat/119/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F243
-[/us/pl/103/337/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs311%2Fb
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2708
-[/us/pl/104/106/s371/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs371%2Fa%2F1
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/277-279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F277-279
-[/us/pl/103/337/s311/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs311%2Ff
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2709
-[/us/pl/103/160/s333/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs333%2Fa
+[/us/pl/103/160/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIII
 [/us/stat/107/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1621
 [/us/usc/t10/s2805/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805%2Fc%2F1
-[/us/pl/104/106/s371/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs371%2Fa%2F1
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/277-279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F277-279
-[/us/pl/102/484/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs342
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2376
-[/us/pl/103/160/s333/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs333%2Fc
+[/us/pl/103/160/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIII
 [/us/stat/107/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1622
-[/us/pl/104/106/s371/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs371%2Fa%2F1
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/277-279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F277-279
-[/us/pl/102/190/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs316
+[/us/pl/102/190/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtIII
 [/us/stat/105/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1338
-[/us/pl/102/484/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs341
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2374
-[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIII
 [/us/stat/107/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1620
-[/us/pl/103/337/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs311%2Fa
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2708
-[/us/pl/104/106/s371/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs371%2Fa%2F1
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F277
-[/us/pl/102/172/s8121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2Fs8121
+[/us/pl/102/172/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2FtVIII
 [/us/stat/105/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1204
-[/us/pl/104/106/s371/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs371%2Fb%2F5
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F280
-[/us/pl/96/154/s767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F154%2Fs767
+[/us/pl/96/154/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F154%2FtVII
 [/us/stat/93/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1163
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1290

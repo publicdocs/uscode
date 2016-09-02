@@ -57,15 +57,15 @@
 
         (2) The Board shall also furnish its advice and opinion on matters referred to it by the Secretary.
 
-(Added [Pub. L. 110–181, div. A, title IX, § 906(a)(1)][/us/pl/110/181/s906/a/1], Jan. 28, 2008, [122 Stat. 275][/us/stat/122/275].)
+(Added [Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 906(a)(1), Jan. 28, 2008, [122 Stat. 275][/us/stat/122/275].)
 
  __Prior Provisions__ 
 
-    A prior section 183, added [Pub. L. 105–85, div. A, title IX, § 904(a)][/us/pl/105/85/s904/a], Nov. 18, 1997, [111 Stat. 1854][/us/stat/111/1854], required the Secretary of Defense to report annually on the justification or requirement and projected costs of Department of Defense advisory committees, prior to repeal by [Pub. L. 107–314, div. A, title X, § 1041(a)(1)(A)][/us/pl/107/314/s1041/a/1/A], Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645].
+    A prior section 183, added [Pub. L. 105–85, div. A, title IX][/us/pl/105/85/dA/tIX], § 904(a), Nov. 18, 1997, [111 Stat. 1854][/us/stat/111/1854], required the Secretary of Defense to report annually on the justification or requirement and projected costs of Department of Defense advisory committees, prior to repeal by [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1041(a)(1)(A), Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645].
 
  __Initial Service as Board Members__ 
 
-[Pub. L. 110–181, div. A, title IX, § 906(a)(3)][/us/pl/110/181/s906/a/3], Jan. 28, 2008, [122 Stat. 277][/us/stat/122/277], provided that: 
+[Pub. L. 110–181, div. A, title IX][/us/pl/110/181/dA/tIX], § 906(a)(3), Jan. 28, 2008, [122 Stat. 277][/us/stat/122/277], provided that: 
 
 > “Each member of the Department of Defense Retirement Board of Actuaries or the Department of Defense Education Benefits Board of Actuaries as of the date of the enactment of this Act \[Jan. 28, 2008\] shall serve as an initial member of the Department of Defense Board of Actuaries under [section 183 of title 10][/us/usc/t10/s183], United States Code (as added by paragraph (1)), from that date until the date otherwise provided for the completion of such individual’s term as a member of the Department of Defense Retirement Board of Actuaries or the Department of Defense Education Benefits Board of Actuaries, as the case may be, unless earlier removed by the Secretary of Defense.”
 
@@ -78,13 +78,13 @@
 
 [/us/usc/t10/s1465/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1465%2Fc
 [/us/usc/t10/s2006/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2006%2Fe
-[/us/pl/110/181/s906/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs906%2Fa%2F1
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F275
-[/us/pl/105/85/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs904%2Fa
+[/us/pl/105/85/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIX
 [/us/stat/111/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1854
-[/us/pl/107/314/s1041/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1041%2Fa%2F1%2FA
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2645
-[/us/pl/110/181/s906/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs906%2Fa%2F3
+[/us/pl/110/181/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtIX
 [/us/stat/122/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F277
 [/us/usc/t10/s183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs183
 

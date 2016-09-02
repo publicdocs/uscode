@@ -27,7 +27,7 @@
 
         (2) The term “serious violent felony” has the meaning given that term in [section 3559(c)(2)(F) of title 18][/us/usc/t18/s3559/c/2/F].
 
-(Added [Pub. L. 105–261, div. A, title V, § 537(a)][/us/pl/105/261/s537/a], Oct. 17, 1998, [112 Stat. 2019][/us/stat/112/2019].)
+(Added [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 537(a), Oct. 17, 1998, [112 Stat. 2019][/us/stat/112/2019].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t18/s3559/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3559%2Fc%2F2%2FF
-[/us/pl/105/261/s537/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs537%2Fa
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2019
 
 

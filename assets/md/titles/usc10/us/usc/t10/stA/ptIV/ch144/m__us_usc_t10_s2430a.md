@@ -53,7 +53,7 @@
 
         (4) the term “life cycle cost”, with respect to a designated major subprogram, means all costs of development, procurement, military construction, and operations and support, without regard to funding source or management control.
 
-(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 811(a)(1), Oct. 14, 2008, [122 Stat. 4520][/us/stat/122/4520]; amended [Pub. L. 111–383, div. A, title VIII, § 814(a)][/us/pl/111/383/s814/a], Jan. 7, 2011, [124 Stat. 4266][/us/stat/124/4266]; [Pub. L. 112–81, div. A, title IX, § 912][/us/pl/112/81/s912], Dec. 31, 2011, [125 Stat. 1536][/us/stat/125/1536].)
+(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 811(a)(1), Oct. 14, 2008, [122 Stat. 4520][/us/stat/122/4520]; amended [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 814(a), Jan. 7, 2011, [124 Stat. 4266][/us/stat/124/4266]; [Pub. L. 112–81, div. A, title IX][/us/pl/112/81/dA/tIX], § 912, Dec. 31, 2011, [125 Stat. 1536][/us/stat/125/1536].)
 
  __Amendments__ 
 
@@ -71,9 +71,9 @@
 [/us/usc/t10/s2432/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432%2Fa
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4520
-[/us/pl/111/383/s814/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs814%2Fa
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4266
-[/us/pl/112/81/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs912
+[/us/pl/112/81/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIX
 [/us/stat/125/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1536
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

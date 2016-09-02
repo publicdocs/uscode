@@ -35,7 +35,7 @@
 
     For the purposes of clause (2)(B), a child is considered to be pursuing a full-time course of study or training during an interval between school years that does not exceed one hundred and fifty days if he has demonstrated to the satisfaction of the Secretary concerned that he has a bonafide intention of commencing, resuming, or continuing to pursue a full-time course of study or training in a recognized educational institution immediately after that interval.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 110][/us/stat/70A/110]; [Pub. L. 90–485, § 1(4)][/us/pl/90/485/s1/4], (5), Aug. 13, 1968, [82 Stat. 752][/us/stat/82/752]; [Pub. L. 92–425, § 1(2)(A)][/us/pl/92/425/s1/2/A], Sept. 21, 1972, [86 Stat. 706][/us/stat/86/706].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 110][/us/stat/70A/110]; [Pub. L. 90–485][/us/pl/90/485], § 1(4), (5), Aug. 13, 1968, [82 Stat. 752][/us/stat/82/752]; [Pub. L. 92–425][/us/pl/92/425], § 1(2)(A), Sept. 21, 1972, [86 Stat. 706][/us/stat/86/706].)
 
 <table>
 
@@ -108,9 +108,9 @@ Aug. 8, 1953, ch. 393, § 2(e), (f), 67 Stat. 501.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F110
-[/us/pl/90/485/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F485%2Fs1%2F4
+[/us/pl/90/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F485
 [/us/stat/82/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F752
-[/us/pl/92/425/s1/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425%2Fs1%2F2%2FA
+[/us/pl/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425
 [/us/stat/86/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F706
 [/us/usc/t10/s101/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F32
 [/us/pl/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425

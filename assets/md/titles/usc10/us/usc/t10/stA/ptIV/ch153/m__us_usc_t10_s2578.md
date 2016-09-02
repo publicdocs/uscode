@@ -17,11 +17,11 @@
 
     A vessel under the jurisdiction of a military department may be transferred or otherwise made available without reimbursement to another military department or to the Department of Homeland Security, and a vessel under the jurisdiction of the Department of Homeland Security may be transferred or otherwise made available without reimbursement to a military department. Any such transfer may be made only upon the request of the Secretary of the military department concerned or the Secretary of Homeland Security, as the case may be, and with the approval of the Secretary of the department having jurisdiction of the vessel.
 
-(Added [Pub. L. 100–370, § 1(k)(1)][/us/pl/100/370/s1/k/1], July 19, 1988, [102 Stat. 848][/us/stat/102/848]; amended [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+(Added [Pub. L. 100–370][/us/pl/100/370], § 1(k)(1), July 19, 1988, [102 Stat. 848][/us/stat/102/848]; amended [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
  __Historical and Revision Notes__ 
 
-    Section is based on [Pub. L. 99–190, § 101(b)][/us/pl/99/190/s101/b] \[title VIII, § 8012\], Dec. 19, 1985, [99 Stat. 1185][/us/stat/99/1185], 1204.
+    Section is based on [Pub. L. 99–190][/us/pl/99/190], § 101(b) \[title VIII, § 8012\], Dec. 19, 1985, [99 Stat. 1185][/us/stat/99/1185], 1204.
 
  __Amendments__ 
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/100/370/s1/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs1%2Fk%2F1
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F848
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/99/190/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fb
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1185
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

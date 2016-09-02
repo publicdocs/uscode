@@ -131,7 +131,7 @@
 
         (2) Projects under the program may include demonstration projects.
 
-(Added [Pub. L. 104–201, div. A, title II, § 282(a)(1)][/us/pl/104/201/s282/a/1], Sept. 23, 1996, [110 Stat. 2470][/us/stat/110/2470]; amended [Pub. L. 105–85, div. A, title II, § 241(a)][/us/pl/105/85/s241/a], title X, § 1073(a)(64), Nov. 18, 1997, [111 Stat. 1665][/us/stat/111/1665], 1903; [Pub. L. 106–65, div. A, title X, § 1066(a)(30)][/us/pl/106/65/s1066/a/30], Oct. 5, 1999, [113 Stat. 772][/us/stat/113/772]; [Pub. L. 107–296, title XVII, § 1713][/us/pl/107/296/s1713], Nov. 25, 2002, [116 Stat. 2320][/us/stat/116/2320].)
+(Added [Pub. L. 104–201, div. A, title II][/us/pl/104/201/dA/tII], § 282(a)(1), Sept. 23, 1996, [110 Stat. 2470][/us/stat/110/2470]; amended [Pub. L. 105–85, div. A, title II][/us/pl/105/85/dA/tII], § 241(a), title X, § 1073(a)(64), Nov. 18, 1997, [111 Stat. 1665][/us/stat/111/1665], 1903; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1066(a)(30), Oct. 5, 1999, [113 Stat. 772][/us/stat/113/772]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1713, Nov. 25, 2002, [116 Stat. 2320][/us/stat/116/2320].)
 
  __Amendments__ 
 
@@ -139,11 +139,11 @@
 
     1999—Subsec. (e)(5). [Pub. L. 106–65][/us/pl/106/65] struck out “, United States Code,” after “title 31”.
 
-    1997—Subsec. (b)(8). [Pub. L. 105–85, § 1073(a)(64)][/us/pl/105/85/s1073/a/64], inserted “United States” before “Geological Survey”.
+    1997—Subsec. (b)(8). [Pub. L. 105–85][/us/pl/105/85], § 1073(a)(64), inserted “United States” before “Geological Survey”.
 
-    Subsec. (b)(11) to (13). [Pub. L. 105–85, § 241(a)(1)][/us/pl/105/85/s241/a/1], redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: “The President of the National Academy of Sciences, the President of the National Academy of Engineering, and the President of the Institute of Medicine.”
+    Subsec. (b)(11) to (13). [Pub. L. 105–85][/us/pl/105/85], § 241(a)(1), redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: “The President of the National Academy of Sciences, the President of the National Academy of Engineering, and the President of the Institute of Medicine.”
 
-    Subsec. (b)(14) to (17). [Pub. L. 105–85, § 241(a)(1)(A)][/us/pl/105/85/s241/a/1/A], struck out pars. (14) to (17) which read as follows:
+    Subsec. (b)(14) to (17). [Pub. L. 105–85][/us/pl/105/85], § 241(a)(1)(A), struck out pars. (14) to (17) which read as follows:
 
     “(14) One member appointed by the chairman from among individuals who will represent the views of ocean industries.
 
@@ -153,7 +153,7 @@
 
     “(17) One member appointed by the chairman from among individuals who will represent such other views as the chairman considers appropriate.”
 
-    Subsecs. (d) to (i). [Pub. L. 105–85, § 241(a)(2)][/us/pl/105/85/s241/a/2], (3), redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsec. (d) which read as follows:
+    Subsecs. (d) to (i). [Pub. L. 105–85][/us/pl/105/85], § 241(a)(2), (3), redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsec. (d) which read as follows:
 
     “(d) Term of Office.—The term of office of a member of the Council appointed under paragraph (14), (15), (16), or (17) of subsection (b) shall be two years, except that any person appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.”
 
@@ -163,7 +163,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–85, div. A, title II, § 241(d)][/us/pl/105/85/s241/d], Nov. 18, 1997, [111 Stat. 1666][/us/stat/111/1666], provided that: 
+[Pub. L. 105–85, div. A, title II][/us/pl/105/85/dA/tII], § 241(d), Nov. 18, 1997, [111 Stat. 1666][/us/stat/111/1666], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section, [section 7903 of this title][/us/usc/t10/s7903], and provisions set out as a note under [section 7903 of this title][/us/usc/t10/s7903]\] shall be effective as of September 23, 1996, as if included in [section 282 of Public Law 104–201][/us/pl/104/201/s282].”
 
@@ -175,11 +175,11 @@
 
  __Initial Appointments of Council Members__ 
 
-    [Pub. L. 104–201, div. A, title II, § 282(b)][/us/pl/104/201/s282/b], Sept. 23, 1996, [110 Stat. 2473][/us/stat/110/2473], directed Secretary of the Navy to make appointments required by subsec. (b) of this section, not later than Dec. 1, 1996, prior to repeal by [Pub. L. 105–85, div. A, title II, § 241(c)(1)][/us/pl/105/85/s241/c/1], Nov. 18, 1997, [111 Stat. 1666][/us/stat/111/1666].
+    [Pub. L. 104–201, div. A, title II][/us/pl/104/201/dA/tII], § 282(b), Sept. 23, 1996, [110 Stat. 2473][/us/stat/110/2473], directed Secretary of the Navy to make appointments required by subsec. (b) of this section, not later than Dec. 1, 1996, prior to repeal by [Pub. L. 105–85, div. A, title II][/us/pl/105/85/dA/tII], § 241(c)(1), Nov. 18, 1997, [111 Stat. 1666][/us/stat/111/1666].
 
  __First Annual Report of Council__ 
 
-[Pub. L. 104–201, div. A, title II, § 282(c)][/us/pl/104/201/s282/c], formerly § 282(d), Sept. 23, 1996, [110 Stat. 2473][/us/stat/110/2473], as renumbered by [Pub. L. 105–85, div. A, title II, § 241(c)(2)][/us/pl/105/85/s241/c/2], Nov. 18, 1997, [111 Stat. 1666][/us/stat/111/1666], provided that: 
+[Pub. L. 104–201, div. A, title II][/us/pl/104/201/dA/tII], § 282(c), formerly § 282(d), Sept. 23, 1996, [110 Stat. 2473][/us/stat/110/2473], as renumbered by [Pub. L. 105–85, div. A, title II][/us/pl/105/85/dA/tII], § 241(c)(2), Nov. 18, 1997, [111 Stat. 1666][/us/stat/111/1666], provided that: 
 
 > “The first annual report required by [section 7902(f) of title 10][/us/usc/t10/s7902/f], United States Code, as added by subsection (a)(1), shall be submitted to Congress not later than March 1, 1997. The first report shall include, in addition to the information required by such section, information about the terms of office, procedures, and responsibilities of the Ocean Research Advisory Panel established by the Council.”
 
@@ -191,36 +191,36 @@
 ----------
 
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/104/201/s282/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs282%2Fa%2F1
+[/us/pl/104/201/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtII
 [/us/stat/110/2470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2470
-[/us/pl/105/85/s241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs241%2Fa
+[/us/pl/105/85/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtII
 [/us/stat/111/1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1665
-[/us/pl/106/65/s1066/a/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fa%2F30
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F772
-[/us/pl/107/296/s1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1713
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2320
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/105/85/s1073/a/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F64
-[/us/pl/105/85/s241/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs241%2Fa%2F1
-[/us/pl/105/85/s241/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs241%2Fa%2F1%2FA
-[/us/pl/105/85/s241/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs241%2Fa%2F2
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/105/85/s241/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs241%2Fd
+[/us/pl/105/85/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtII
 [/us/stat/111/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1666
 [/us/usc/t10/s7903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7903
 [/us/usc/t10/s7903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7903
 [/us/pl/104/201/s282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs282
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/104/201/s282/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs282%2Fb
+[/us/pl/104/201/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtII
 [/us/stat/110/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2473
-[/us/pl/105/85/s241/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs241%2Fc%2F1
+[/us/pl/105/85/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtII
 [/us/stat/111/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1666
-[/us/pl/104/201/s282/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs282%2Fc
+[/us/pl/104/201/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtII
 [/us/stat/110/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2473
-[/us/pl/105/85/s241/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs241%2Fc%2F2
+[/us/pl/105/85/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtII
 [/us/stat/111/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1666
 [/us/usc/t10/s7902/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7902%2Ff
 

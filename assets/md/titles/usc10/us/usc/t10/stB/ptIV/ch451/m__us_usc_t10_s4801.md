@@ -17,7 +17,7 @@
 
     In this chapter, the term “settle” means consider, ascertain, adjust, determine, and dispose of a claim, whether by full or partial allowance or by disallowance.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 270][/us/stat/70A/270]; [Pub. L. 100–180, div. A, title XII, § 1231(19)(B)][/us/pl/100/180/s1231/19/B], Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 270][/us/stat/70A/270]; [Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1231(19)(B), Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161].)
 
 <table>
 
@@ -78,7 +78,7 @@ Source (Statutes at Large)  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F270
-[/us/pl/100/180/s1231/19/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1231%2F19%2FB
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1161
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 

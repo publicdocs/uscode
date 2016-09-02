@@ -33,7 +33,7 @@
 
         (6) A director of admissions.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 561][/us/stat/70A/561]; [Pub. L. 85–600, § 1(19)][/us/pl/85/600/s1/19], Aug. 6, 1958, [72 Stat. 523][/us/stat/72/523]; [Pub. L. 96–513, title V, § 514(10)][/us/pl/96/513/s514/10], Dec. 12, 1980, [94 Stat. 2935][/us/stat/94/2935]; [Pub. L. 101–189, div. A, title V, § 515(a)(1)][/us/pl/101/189/s515/a/1], Nov. 29, 1989, [103 Stat. 1441][/us/stat/103/1441]; [Pub. L. 102–484, div. A, title V, § 523(b)][/us/pl/102/484/s523/b], Oct. 23, 1992, [106 Stat. 2410][/us/stat/106/2410]; [Pub. L. 103–160, div. A, title V, § 533(b)(3)][/us/pl/103/160/s533/b/3], Nov. 30, 1993, [107 Stat. 1658][/us/stat/107/1658]; [Pub. L. 108–136, div. A, title V, § 529(c)(1)][/us/pl/108/136/s529/c/1], Nov. 24, 2003, [117 Stat. 1471][/us/stat/117/1471]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 545, Oct. 14, 2008, [122 Stat. 4466][/us/stat/122/4466].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 561][/us/stat/70A/561]; [Pub. L. 85–600][/us/pl/85/600], § 1(19), Aug. 6, 1958, [72 Stat. 523][/us/stat/72/523]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 514(10), Dec. 12, 1980, [94 Stat. 2935][/us/stat/94/2935]; [Pub. L. 101–189, div. A, title V][/us/pl/101/189/dA/tV], § 515(a)(1), Nov. 29, 1989, [103 Stat. 1441][/us/stat/103/1441]; [Pub. L. 102–484, div. A, title V][/us/pl/102/484/dA/tV], § 523(b), Oct. 23, 1992, [106 Stat. 2410][/us/stat/106/2410]; [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 533(b)(3), Nov. 30, 1993, [107 Stat. 1658][/us/stat/107/1658]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 529(c)(1), Nov. 24, 2003, [117 Stat. 1471][/us/stat/117/1471]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 545, Oct. 14, 2008, [122 Stat. 4466][/us/stat/122/4466].)
 
 <table>
 
@@ -147,7 +147,7 @@ Apr. 1, 1954, ch. 127, §§ 2, 5, 68 Stat. 47, 48.  </td>
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–136, div. A, title V, § 529(d)][/us/pl/108/136/s529/d], Nov. 24, 2003, [117 Stat. 1472][/us/stat/117/1472], provided that: 
+[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 529(d), Nov. 24, 2003, [117 Stat. 1472][/us/stat/117/1472], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 9335 and 9336 of this title\] shall apply with respect to any Dean of the Faculty of the United States Air Force Academy selected on or after the date of the enactment of this Act \[Nov. 24, 2003\].”
 
@@ -157,17 +157,17 @@ Apr. 1, 1954, ch. 127, §§ 2, 5, 68 Stat. 47, 48.  </td>
 
  __Appropriations for the Air Force Academy After__  __August 1, 1964__  __; Requirement of Authorization in Subsequent Legislation; Appropriations for Advance Planning and Minor Construction__ 
 
-[Pub. L. 88–390, title VI, § 608][/us/pl/88/390/s608], Aug. 1, 1964, [78 Stat. 364][/us/stat/78/364], provided that: 
+[Pub. L. 88–390, title VI][/us/pl/88/390/tVI], § 608, Aug. 1, 1964, [78 Stat. 364][/us/stat/78/364], provided that: 
 
 > “Notwithstanding the provisions of [section 9 of the Act of April 1, 1954][/us/act/1954-04-01/s9] (Public Law 325) as amended \[set out below\], no funds may be appropriated after the date of enactment of this Act \[Aug. 1, 1964\] for construction at the Air Force Academy unless appropriation of such funds has been authorized in this Act \[Military Construction Authorization Act, 1965\] or any Act enacted after the date of enactment of this Act: Provided, That funds are authorized to be appropriated to accomplish advance planning and minor construction at the Air Force Academy in the same manner as for other projects under the Act of September 28, 1951, as amended ([31 U.S.C. 723][/us/usc/t31/s723]) \[[10 U.S.C. 2661a(a)][/us/usc/t10/s2661a/a]\], and title 10, United States Code, section 2674, as amended.”
 
  __Appropriations for Air Force Academy__ 
 
-    [Act Apr. 1, 1954, ch. 127][/us/act/1954-04-01/ch127], [68 Stat. 47][/us/stat/68/47], which established the Air Force Academy, provided by section 9 of such act, as amended by [act Aug. 3, 1956, ch. 939][/us/act/1956-08-03/ch939], title IV, § 413(b), [70 Stat. 1018][/us/stat/70/1018], and by [Pub. L. 85–241, title V, § 508][/us/pl/85/241/s508], Aug. 30, 1957, [71 Stat. 559][/us/stat/71/559]; [Pub. L. 85–685, title III, § 309][/us/pl/85/685/s309], Aug. 20, 1958, [72 Stat. 659][/us/stat/72/659]; [Pub. L. 87–57, title III, § 304][/us/pl/87/57/s304], June 27, 1961, [75 Stat. 108][/us/stat/75/108]; [Pub. L. 90–408, title III, § 304][/us/pl/90/408/s304], July 21, 1968, [82 Stat. 385][/us/stat/82/385], that there was authorized to be appropriated not to exceed the sum of $141,978,000 to carry out the provisions of that Act, of which not to exceed $26,000,000 was to be the amount so appropriated for any such period, not to exceed $1,858,000 might be utilized for the purpose of section 4 of this Act \[set out below\].
+    [Act Apr. 1, 1954, ch. 127][/us/act/1954-04-01/ch127], [68 Stat. 47][/us/stat/68/47], which established the Air Force Academy, provided by section 9 of such act, as amended by [act Aug. 3, 1956, ch. 939, title IV][/us/act/1956-08-03/ch939/tIV], § 413(b), [70 Stat. 1018][/us/stat/70/1018], and by [Pub. L. 85–241, title V][/us/pl/85/241/tV], § 508, Aug. 30, 1957, [71 Stat. 559][/us/stat/71/559]; [Pub. L. 85–685, title III][/us/pl/85/685/tIII], § 309, Aug. 20, 1958, [72 Stat. 659][/us/stat/72/659]; [Pub. L. 87–57, title III][/us/pl/87/57/tIII], § 304, June 27, 1961, [75 Stat. 108][/us/stat/75/108]; [Pub. L. 90–408, title III][/us/pl/90/408/tIII], § 304, July 21, 1968, [82 Stat. 385][/us/stat/82/385], that there was authorized to be appropriated not to exceed the sum of $141,978,000 to carry out the provisions of that Act, of which not to exceed $26,000,000 was to be the amount so appropriated for any such period, not to exceed $1,858,000 might be utilized for the purpose of section 4 of this Act \[set out below\].
 
  __Temporary Buildings and Facilities__ 
 
-    [Act Apr. 1, 1954, ch. 127, § 4][/us/act/1954-04-01/ch127/s4], [68 Stat. 47][/us/stat/68/47], provided that for the purpose of providing temporary facilities and enabling early operation of the Academy, the Secretary of the Air Force was authorized to provide for the erection of the minimum additional number of temporary buildings and the modification of existing structures and facilities at an existing Air Force base and to provide for the proper functioning, equipping, maintaining, and repairing thereof; and to contract with civilian institutions for such operation or instruction as he deemed necessary.
+    [Act Apr. 1, 1954, ch. 127][/us/act/1954-04-01/ch127], § 4, [68 Stat. 47][/us/stat/68/47], provided that for the purpose of providing temporary facilities and enabling early operation of the Academy, the Secretary of the Air Force was authorized to provide for the erection of the minimum additional number of temporary buildings and the modification of existing structures and facilities at an existing Air Force base and to provide for the proper functioning, equipping, maintaining, and repairing thereof; and to contract with civilian institutions for such operation or instruction as he deemed necessary.
 
 ----------
 
@@ -178,17 +178,17 @@ Apr. 1, 1954, ch. 127, §§ 2, 5, 68 Stat. 47, 48.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F561
-[/us/pl/85/600/s1/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F600%2Fs1%2F19
+[/us/pl/85/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F600
 [/us/stat/72/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F523
-[/us/pl/96/513/s514/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs514%2F10
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2935
-[/us/pl/101/189/s515/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs515%2Fa%2F1
+[/us/pl/101/189/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtV
 [/us/stat/103/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1441
-[/us/pl/102/484/s523/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs523%2Fb
+[/us/pl/102/484/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtV
 [/us/stat/106/2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2410
-[/us/pl/103/160/s533/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs533%2Fb%2F3
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1658
-[/us/pl/108/136/s529/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs529%2Fc%2F1
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1471
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4466
@@ -202,29 +202,29 @@ Apr. 1, 1954, ch. 127, §§ 2, 5, 68 Stat. 47, 48.  </td>
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/85/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F600
-[/us/pl/108/136/s529/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs529%2Fd
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1472
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/88/390/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F390%2Fs608
+[/us/pl/88/390/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F390%2FtVI
 [/us/stat/78/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F364
 [/us/act/1954-04-01/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-01%2Fs9
 [/us/usc/t31/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs723
 [/us/usc/t10/s2661a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2661a%2Fa
 [/us/act/1954-04-01/ch127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-01%2Fch127
 [/us/stat/68/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F47
-[/us/act/1956-08-03/ch939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch939
+[/us/act/1956-08-03/ch939/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch939%2FtIV
 [/us/stat/70/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1018
-[/us/pl/85/241/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F241%2Fs508
+[/us/pl/85/241/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F241%2FtV
 [/us/stat/71/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F559
-[/us/pl/85/685/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F685%2Fs309
+[/us/pl/85/685/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F685%2FtIII
 [/us/stat/72/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F659
-[/us/pl/87/57/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F57%2Fs304
+[/us/pl/87/57/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F57%2FtIII
 [/us/stat/75/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F108
-[/us/pl/90/408/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F408%2Fs304
+[/us/pl/90/408/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F408%2FtIII
 [/us/stat/82/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F385
-[/us/act/1954-04-01/ch127/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-01%2Fch127%2Fs4
+[/us/act/1954-04-01/ch127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-01%2Fch127
 [/us/stat/68/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F47
 
 

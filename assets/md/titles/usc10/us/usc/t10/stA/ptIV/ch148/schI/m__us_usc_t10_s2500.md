@@ -85,7 +85,7 @@
 
     (15) The term “integration” means the process of providing systems engineering and technical direction for a system for the purpose of achieving capabilities that satisfy program requirements.
 
-(Added [Pub. L. 102–484, div. D, title XLII, § 4203(a)][/us/pl/102/484/s4203/a], Oct. 23, 1992, [106 Stat. 2661][/us/stat/106/2661], § 2491; amended [Pub. L. 103–160, div. A, title XI, § 1182(a)(9)][/us/pl/103/160/s1182/a/9], title XIII, § 1315(f), Nov. 30, 1993, [107 Stat. 1771][/us/stat/107/1771], 1788; [Pub. L. 103–337, div. A, title XI][/us/pl/103/337], §§ 1113(d), 1115(e), Oct. 5, 1994, [108 Stat. 2866][/us/stat/108/2866], 2869; [Pub. L. 104–106, div. A, title X, § 1081(h)][/us/pl/104/106/s1081/h], Feb. 10, 1996, [110 Stat. 455][/us/stat/110/455]; renumbered § 2500 and amended [Pub. L. 105–85, div. A, title III, § 371(b)(3)][/us/pl/105/85/s371/b/3], title X, § 1073(a)(53), Nov. 18, 1997, [111 Stat. 1705][/us/stat/111/1705], 1903; [Pub. L. 111–383, div. A, title VIII, § 895(a)][/us/pl/111/383/s895/a], Jan. 7, 2011, [124 Stat. 4313][/us/stat/124/4313].)
+(Added [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4203(a), Oct. 23, 1992, [106 Stat. 2661][/us/stat/106/2661], § 2491; amended [Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1182(a)(9), title XIII, § 1315(f), Nov. 30, 1993, [107 Stat. 1771][/us/stat/107/1771], 1788; [Pub. L. 103–337, div. A, title XI][/us/pl/103/337/dA/tXI], §§ 1113(d), 1115(e), Oct. 5, 1994, [108 Stat. 2866][/us/stat/108/2866], 2869; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1081(h), Feb. 10, 1996, [110 Stat. 455][/us/stat/110/455]; renumbered § 2500 and amended [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 371(b)(3), title X, § 1073(a)(53), Nov. 18, 1997, [111 Stat. 1705][/us/stat/111/1705], 1903; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 895(a), Jan. 7, 2011, [124 Stat. 4313][/us/stat/124/4313].)
 
  __References in Text__ 
 
@@ -93,21 +93,21 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in former sections 2511 and 2521 of this title prior to repeal by [Pub. L. 102–484, § 4202(a)][/us/pl/102/484/s4202/a].
+    Provisions similar to those in this section were contained in former sections 2511 and 2521 of this title prior to repeal by [Pub. L. 102–484][/us/pl/102/484], § 4202(a).
 
  __Amendments__ 
 
-    2011—Par. (1). [Pub. L. 111–383, § 895(a)(1)][/us/pl/111/383/s895/a/1], substituted “integration, services, or information technology” for “or maintenance”.
+    2011—Par. (1). [Pub. L. 111–383][/us/pl/111/383], § 895(a)(1), substituted “integration, services, or information technology” for “or maintenance”.
 
-    Par. (4). [Pub. L. 111–383, § 895(a)(2)][/us/pl/111/383/s895/a/2], substituted “production, integration, services, or information technology” for “or production”.
+    Par. (4). [Pub. L. 111–383][/us/pl/111/383], § 895(a)(2), substituted “production, integration, services, or information technology” for “or production”.
 
-    Par. (9)(A). [Pub. L. 111–383, § 895(a)(3)][/us/pl/111/383/s895/a/3], substituted “manufacturing, integration, services, and information technology” for “and manufacturing”.
+    Par. (9)(A). [Pub. L. 111–383][/us/pl/111/383], § 895(a)(3), substituted “manufacturing, integration, services, and information technology” for “and manufacturing”.
 
-    Par. (15). [Pub. L. 111–383, § 895(a)(4)][/us/pl/111/383/s895/a/4], added par. (15).
+    Par. (15). [Pub. L. 111–383][/us/pl/111/383], § 895(a)(4), added par. (15).
 
-    1997—[Pub. L. 105–85, § 371(b)(3)][/us/pl/105/85/s371/b/3], renumbered [section 2491 of this title][/us/usc/t10/s2491] as this section.
+    1997—[Pub. L. 105–85][/us/pl/105/85], § 371(b)(3), renumbered [section 2491 of this title][/us/usc/t10/s2491] as this section.
 
-    Par. (8). [Pub. L. 105–85, § 1073(a)(53)][/us/pl/105/85/s1073/a/53], substituted “that is identified under [section 2505 of this title][/us/usc/t10/s2505] as critical for attaining the national security objectives set forth in [section 2501(a) of this title][/us/usc/t10/s2501/a].” for “that appears on the list of critical technologies contained, pursuant to subsection (b)(4) of [section 2505 of this title][/us/usc/t10/s2505], in the most recent national technology and industrial base assessment submitted to Congress by the Secretary of Defense pursuant to [section 2506(e) of this title][/us/usc/t10/s2506/e].”
+    Par. (8). [Pub. L. 105–85][/us/pl/105/85], § 1073(a)(53), substituted “that is identified under [section 2505 of this title][/us/usc/t10/s2505] as critical for attaining the national security objectives set forth in [section 2501(a) of this title][/us/usc/t10/s2501/a].” for “that appears on the list of critical technologies contained, pursuant to subsection (b)(4) of [section 2505 of this title][/us/usc/t10/s2505], in the most recent national technology and industrial base assessment submitted to Congress by the Secretary of Defense pursuant to [section 2506(e) of this title][/us/usc/t10/s2506/e].”
 
     1996—Pars. (11) to (16). [Pub. L. 104–106][/us/pl/104/106] redesignated pars. (13) to (16) as (11) to (14), respectively, and struck out former pars. (11) and (12) which read as follows:
 
@@ -121,37 +121,37 @@
 
     “(C) is an eligible firm.”
 
-    1994—Par. (5). [Pub. L. 103–337, § 1113(d)][/us/pl/103/337/s1113/d], inserted before period at end “, except that such terms include a federally funded research and development center sponsored by a Federal agency”.
+    1994—Par. (5). [Pub. L. 103–337][/us/pl/103/337], § 1113(d), inserted before period at end “, except that such terms include a federally funded research and development center sponsored by a Federal agency”.
 
-    Par. (16). [Pub. L. 103–337, § 1115(e)][/us/pl/103/337/s1115/e], added par. (16).
+    Par. (16). [Pub. L. 103–337][/us/pl/103/337], § 1115(e), added par. (16).
 
-    1993—Par. (2). [Pub. L. 103–160, § 1182(a)(9)(A)][/us/pl/103/160/s1182/a/9/A], substituted “nonmilitary applications” for “nonmilitary application”.
+    1993—Par. (2). [Pub. L. 103–160][/us/pl/103/160], § 1182(a)(9)(A), substituted “nonmilitary applications” for “nonmilitary application”.
 
-    Par. (8). [Pub. L. 103–160, § 1182(a)(9)(B)][/us/pl/103/160/s1182/a/9/B], substituted “subsection (b)(4)” for “subsection (f)”.
+    Par. (8). [Pub. L. 103–160][/us/pl/103/160], § 1182(a)(9)(B), substituted “subsection (b)(4)” for “subsection (f)”.
 
-    Pars. (13) to (15). [Pub. L. 103–160, § 1315(f)][/us/pl/103/160/s1315/f], added pars. (13) to (15).
+    Pars. (13) to (15). [Pub. L. 103–160][/us/pl/103/160], § 1315(f), added pars. (13) to (15).
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–337, div. A, title XI, § 1101][/us/pl/103/337/s1101], Oct. 5, 1994, [108 Stat. 2862][/us/stat/108/2862], provided that: 
+[Pub. L. 103–337, div. A, title XI][/us/pl/103/337/dA/tXI], § 1101, Oct. 5, 1994, [108 Stat. 2862][/us/stat/108/2862], provided that: 
 
 > “This title \[enacting sections 2519 and 2520 of this title, amending this section, sections 1151, 1152, 2391, 2511 to 2513, and 2524 of this title, and sections 1662d and 1662d–1 of Title 29, Labor, and enacting and amending provisions set out as notes under [section 2501 of this title][/us/usc/t10/s2501]\] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1994’.”
 
  __Short Title of 1993 Amendment__ 
 
-[Pub. L. 103–160, div. A, title XIII, § 1301][/us/pl/103/160/s1301], Nov. 30, 1993, [107 Stat. 1783][/us/stat/107/1783], provided that: 
+[Pub. L. 103–160, div. A, title XIII][/us/pl/103/160/dA/tXIII], § 1301, Nov. 30, 1993, [107 Stat. 1783][/us/stat/107/1783], provided that: 
 
 > “This title \[enacting sections 1152 and 1153 of this title and sections 1279d, 1279e, and 1280a of the Appendix to Title 46, Shipping, amending this section, sections 1142, 1151, 1598, 2410j, 2501, 2502, 2511 to 2513, 2523, and 2524 of this title, sections 1551 and 1662d–1 of Title 29, Labor, [section 31326 of Title 46][/us/usc/t46/s31326], and sections 1271, 1273, 1274, and 1274a of the Appendix to Title 46, repealing [section 2504 of this title][/us/usc/t10/s2504], enacting provisions set out as notes under sections 1143, 1151, 2501, 2511, 2701, and 5013 of this title, [section 1662d–1 of Title 29][/us/usc/t29/s1662d–1], and sections 1279b and 1279d of the Appendix to Title 46, amending provisions set out as notes under sections 1143, 2391, and 2501 of this title, and repealing provisions set out as a note under [section 2701 of this title][/us/usc/t10/s2701]\] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1993’.”
 
  __Short Title__ 
 
-[Pub. L. 102–484, div. D, § 4001][/us/pl/102/484/s4001], Oct. 23, 1992, [106 Stat. 2658][/us/stat/106/2658], provided that: 
+[Pub. L. 102–484, div. D][/us/pl/102/484/dD], § 4001, Oct. 23, 1992, [106 Stat. 2658][/us/stat/106/2658], provided that: 
 
 > “This division \[div. D (§§ 4001–4501) of [Pub. L. 102–484][/us/pl/102/484], see Tables for classification\] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Act of 1992’.”
 
  __Treatment of Interagency and State and Local Purchases When the Department of Defense Acts as Contract Intermediary for the General Services Administration__ 
 
-[Pub. L. 114–92, div. A, title VIII, § 897][/us/pl/114/92/s897], Nov. 25, 2015, [129 Stat. 954][/us/stat/129/954], provided that: 
+[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 897, Nov. 25, 2015, [129 Stat. 954][/us/stat/129/954], provided that: 
 
 > “Contracts executed by the Department of Defense as a result of the transfer of contracts from the General Services Administration or for which the Department serves as an item manager for products on behalf of the General Services Administration shall not be subject to requirements under chapter 148 of title 10, United States Code, to the extent such contracts are for purchases of products by other Federal agencies or State or local governments.”
 
@@ -161,7 +161,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 102–484, div. D, title XLI, § 4101][/us/pl/102/484/s4101], Oct. 23, 1992, [106 Stat. 2658][/us/stat/106/2658], provided that: 
+[Pub. L. 102–484, div. D, title XLI][/us/pl/102/484/dD/tXLI], § 4101, Oct. 23, 1992, [106 Stat. 2658][/us/stat/106/2658], provided that: 
 
 > “Congress makes the following findings:
 
@@ -187,13 +187,13 @@
 
  __Purposes of Title XLII of__  __[__  __Pub. L. 102–484__  __][/us/pl/102/484]__ 
 
-[Pub. L. 102–484, div. D, title XLII, § 4201][/us/pl/102/484/s4201], Oct. 23, 1992, [106 Stat. 2659][/us/stat/106/2659], provided that: 
+[Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4201, Oct. 23, 1992, [106 Stat. 2659][/us/stat/106/2659], provided that: 
 
 > “The purposes of this title \[see Tables for classification\] are to consolidate, revise, clarify, and reenact policies and requirements, and to enact additional policies and requirements, relating to the national technology and industrial base, defense reinvestment, and defense conversion programs that further national security objectives.”
 
  __Transition Provision; “Defense Critical Technology” Defined__ 
 
-    [Pub. L. 102–484, div. D, title XLII, § 4203(b)][/us/pl/102/484/s4203/b], Oct. 23, 1992, [106 Stat. 2662][/us/stat/106/2662], provided that until first national technology and industrial base assessment was submitted to Congress by Secretary of Defense pursuant to former [section 2506(e) of this title][/us/usc/t10/s2506/e], the term “defense critical technology” for purposes of this chapter, would have meaning given such term in [section 2521 of this title][/us/usc/t10/s2521], as in effect on day before Oct. 23, 1992.
+    [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4203(b), Oct. 23, 1992, [106 Stat. 2662][/us/stat/106/2662], provided that until first national technology and industrial base assessment was submitted to Congress by Secretary of Defense pursuant to former [section 2506(e) of this title][/us/usc/t10/s2506/e], the term “defense critical technology” for purposes of this chapter, would have meaning given such term in [section 2521 of this title][/us/usc/t10/s2521], as in effect on day before Oct. 23, 1992.
 
 ----------
 
@@ -208,60 +208,60 @@
 [/us/usc/t10/s2501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501%2Fa
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
 [/us/usc/t22/s5342/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5342%2Fd
-[/us/pl/102/484/s4203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4203%2Fa
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2661
-[/us/pl/103/160/s1182/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fa%2F9
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1771
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXI
 [/us/stat/108/2866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2866
-[/us/pl/104/106/s1081/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1081%2Fh
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F455
-[/us/pl/105/85/s371/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs371%2Fb%2F3
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1705
-[/us/pl/111/383/s895/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs895%2Fa
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4313
 [/us/usc/t42/s6683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6683
-[/us/pl/102/484/s4202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4202%2Fa
-[/us/pl/111/383/s895/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs895%2Fa%2F1
-[/us/pl/111/383/s895/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs895%2Fa%2F2
-[/us/pl/111/383/s895/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs895%2Fa%2F3
-[/us/pl/111/383/s895/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs895%2Fa%2F4
-[/us/pl/105/85/s371/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs371%2Fb%2F3
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/usc/t10/s2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2491
-[/us/pl/105/85/s1073/a/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F53
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/usc/t10/s2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2505
 [/us/usc/t10/s2501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501%2Fa
 [/us/usc/t10/s2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2505
 [/us/usc/t10/s2506/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2506%2Fe
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/337/s1113/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1113%2Fd
-[/us/pl/103/337/s1115/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1115%2Fe
-[/us/pl/103/160/s1182/a/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fa%2F9%2FA
-[/us/pl/103/160/s1182/a/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fa%2F9%2FB
-[/us/pl/103/160/s1315/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1315%2Ff
-[/us/pl/103/337/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1101
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/337/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXI
 [/us/stat/108/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2862
 [/us/usc/t10/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501
-[/us/pl/103/160/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1301
+[/us/pl/103/160/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIII
 [/us/stat/107/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1783
 [/us/usc/t46/s31326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31326
 [/us/usc/t10/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2504
 [/us/usc/t29/s1662d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1662d%E2%80%931
 [/us/usc/t10/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2701
-[/us/pl/102/484/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4001
+[/us/pl/102/484/dD]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD
 [/us/stat/106/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2658
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/114/92/s897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs897
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F954
 [/us/pl/103/160/s1315/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1315%2Ff
 [/us/pl/103/160/s1315/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1315%2Fg
 [/us/usc/t10/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2511
-[/us/pl/102/484/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4101
+[/us/pl/102/484/dD/tXLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLI
 [/us/stat/106/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2658
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/102/484/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4201
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2659
-[/us/pl/102/484/s4203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4203%2Fb
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2662
 [/us/usc/t10/s2506/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2506%2Fe
 [/us/usc/t10/s2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2521

@@ -87,11 +87,11 @@
 
             (B) holds for the account of others investment assets in a total amount considered by the Secretary of the Navy to qualify the firm as a major investment management firm.
 
-(Added [Pub. L. 106–65, div. B, title XXVIII, § 2871(b)(1)][/us/pl/106/65/s2871/b/1], Oct. 5, 1999, [113 Stat. 873][/us/stat/113/873]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(17)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–291; [Pub. L. 108–136, div. A, title X, § 1031(a)(56)][/us/pl/108/136/s1031/a/56], Nov. 24, 2003, [117 Stat. 1603][/us/stat/117/1603].)
+(Added [Pub. L. 106–65, div. B, title XXVIII][/us/pl/106/65/dB/tXXVIII], § 2871(b)(1), Oct. 5, 1999, [113 Stat. 873][/us/stat/113/873]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(17)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–291; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(56), Nov. 24, 2003, [117 Stat. 1603][/us/stat/117/1603].)
 
  __Prior Provisions__ 
 
-    A prior section 6975, added [Pub. L. 103–337, div. A, title V, § 556(b)(1)][/us/pl/103/337/s556/b/1], Oct. 5, 1994, [108 Stat. 2774][/us/stat/108/2774], related to position of athletic director of Naval Academy and to administration of nonappropriated fund account for athletics program of Naval Academy, prior to repeal by [Pub. L. 104–106, div. A, title V, § 533(b)][/us/pl/104/106/s533/b], Feb. 10, 1996, [110 Stat. 315][/us/stat/110/315]; [Pub. L. 105–85, div. A, title X, § 1073(d)(1)(C)][/us/pl/105/85/s1073/d/1/C], Nov. 18, 1997, [111 Stat. 1905][/us/stat/111/1905], effective Oct. 5, 1994.
+    A prior section 6975, added [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 556(b)(1), Oct. 5, 1994, [108 Stat. 2774][/us/stat/108/2774], related to position of athletic director of Naval Academy and to administration of nonappropriated fund account for athletics program of Naval Academy, prior to repeal by [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 533(b), Feb. 10, 1996, [110 Stat. 315][/us/stat/110/315]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(d)(1)(C), Nov. 18, 1997, [111 Stat. 1905][/us/stat/111/1905], effective Oct. 5, 1994.
 
  __Amendments__ 
 
@@ -111,17 +111,17 @@
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
 [/us/usc/t15/s80b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%932
-[/us/pl/106/65/s2871/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2871%2Fb%2F1
+[/us/pl/106/65/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdB%2FtXXVIII
 [/us/stat/113/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F873
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/136/s1031/a/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F56
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1603
-[/us/pl/103/337/s556/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs556%2Fb%2F1
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2774
-[/us/pl/104/106/s533/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs533%2Fb
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F315
-[/us/pl/105/85/s1073/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fd%2F1%2FC
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1905
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480

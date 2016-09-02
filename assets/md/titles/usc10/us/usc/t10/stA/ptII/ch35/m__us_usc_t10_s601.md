@@ -43,19 +43,19 @@
 
         (2) Whenever a vacancy occurs in a position within the Department of Defense that the President has designated as a position of importance and responsibility to carry the grade of general or admiral or lieutenant general or vice admiral or in an office that is designated by law to carry such a grade, the Secretary of Defense shall inform the President of the qualifications needed by an officer serving in that position or office to carry out effectively the duties and responsibilities of that position or office.
 
-(Added [Pub. L. 96–513, title I, § 105][/us/pl/96/513/s105], Dec. 12, 1980, [94 Stat. 2849][/us/stat/94/2849]; amended [Pub. L. 97–86, title IV, § 405(b)(1)][/us/pl/97/86/s405/b/1], Dec. 1, 1981, [95 Stat. 1105][/us/stat/95/1105]; [Pub. L. 98–525, title V, § 523][/us/pl/98/525/s523], Oct. 19, 1984, [98 Stat. 2523][/us/stat/98/2523]; [Pub. L. 99–145, title V, § 514(b)(1)][/us/pl/99/145/s514/b/1], Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628]; [Pub. L. 99–433, title IV, § 403][/us/pl/99/433/s403], Oct. 1, 1986, [100 Stat. 1031][/us/stat/100/1031]; [Pub. L. 102–190, div. A, title V, § 502(a)][/us/pl/102/190/s502/a], Dec. 5, 1991, [105 Stat. 1354][/us/stat/105/1354]; [Pub. L. 104–106, div. A, title IV, § 403(c)][/us/pl/104/106/s403/c], Feb. 10, 1996, [110 Stat. 287][/us/stat/110/287]; [Pub. L. 110–181, div. A, title V, § 501(a)][/us/pl/110/181/s501/a], Jan. 28, 2008, [122 Stat. 94][/us/stat/122/94].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 105, Dec. 12, 1980, [94 Stat. 2849][/us/stat/94/2849]; amended [Pub. L. 97–86, title IV][/us/pl/97/86/tIV], § 405(b)(1), Dec. 1, 1981, [95 Stat. 1105][/us/stat/95/1105]; [Pub. L. 98–525, title V][/us/pl/98/525/tV], § 523, Oct. 19, 1984, [98 Stat. 2523][/us/stat/98/2523]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 514(b)(1), Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628]; [Pub. L. 99–433, title IV][/us/pl/99/433/tIV], § 403, Oct. 1, 1986, [100 Stat. 1031][/us/stat/100/1031]; [Pub. L. 102–190, div. A, title V][/us/pl/102/190/dA/tV], § 502(a), Dec. 5, 1991, [105 Stat. 1354][/us/stat/105/1354]; [Pub. L. 104–106, div. A, title IV][/us/pl/104/106/dA/tIV], § 403(c), Feb. 10, 1996, [110 Stat. 287][/us/stat/110/287]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 501(a), Jan. 28, 2008, [122 Stat. 94][/us/stat/122/94].)
 
  __Amendments__ 
 
     2008—Subsec. (b)(4), (5). [Pub. L. 110–181][/us/pl/110/181] added par. (4) and redesignated former par. (4) as (5).
 
-    1996—Subsec. (b). [Pub. L. 104–106, § 403(c)(1)][/us/pl/104/106/s403/c/1], in introductory provisions substituted “designated under subsection (a) or by law” for “of importance and responsibility designated”.
+    1996—Subsec. (b). [Pub. L. 104–106][/us/pl/104/106], § 403(c)(1), in introductory provisions substituted “designated under subsection (a) or by law” for “of importance and responsibility designated”.
 
-    Subsec. (b)(1). [Pub. L. 104–106, § 403(c)(2)][/us/pl/104/106/s403/c/2], struck out “of importance and responsibility” after “position”.
+    Subsec. (b)(1). [Pub. L. 104–106][/us/pl/104/106], § 403(c)(2), struck out “of importance and responsibility” after “position”.
 
-    Subsec. (b)(2). [Pub. L. 104–106, § 403(c)(3)][/us/pl/104/106/s403/c/3], substituted “designated under subsection (a) or by law” for “designating”.
+    Subsec. (b)(2). [Pub. L. 104–106][/us/pl/104/106], § 403(c)(3), substituted “designated under subsection (a) or by law” for “designating”.
 
-    Subsec. (b)(4). [Pub. L. 104–106, § 403(c)(4)][/us/pl/104/106/s403/c/4], inserted “under subsection (a) or by law” after “designated”.
+    Subsec. (b)(4). [Pub. L. 104–106][/us/pl/104/106], § 403(c)(4), inserted “under subsection (a) or by law” after “designated”.
 
     1991—Subsec. (b)(4). [Pub. L. 102–190][/us/pl/102/190] substituted “60 days” for “90 days”.
 
@@ -69,7 +69,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–190, div. A, title V, § 502(b)][/us/pl/102/190/s502/b], Dec. 5, 1991, [105 Stat. 1355][/us/stat/105/1355], provided that: 
+[Pub. L. 102–190, div. A, title V][/us/pl/102/190/dA/tV], § 502(b), Dec. 5, 1991, [105 Stat. 1355][/us/stat/105/1355], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month that begins more than 90 days after the date of the enactment of this Act \[Dec. 5, 1991\].”
 
@@ -92,33 +92,33 @@
 ----------
 ----------
 
-[/us/pl/96/513/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs105
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2849
-[/us/pl/97/86/s405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs405%2Fb%2F1
+[/us/pl/97/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIV
 [/us/stat/95/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1105
-[/us/pl/98/525/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs523
+[/us/pl/98/525/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtV
 [/us/stat/98/2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2523
-[/us/pl/99/145/s514/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fb%2F1
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F628
-[/us/pl/99/433/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs403
+[/us/pl/99/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtIV
 [/us/stat/100/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1031
-[/us/pl/102/190/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs502%2Fa
+[/us/pl/102/190/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtV
 [/us/stat/105/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1354
-[/us/pl/104/106/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs403%2Fc
+[/us/pl/104/106/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIV
 [/us/stat/110/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F287
-[/us/pl/110/181/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs501%2Fa
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F94
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/104/106/s403/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs403%2Fc%2F1
-[/us/pl/104/106/s403/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs403%2Fc%2F2
-[/us/pl/104/106/s403/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs403%2Fc%2F3
-[/us/pl/104/106/s403/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs403%2Fc%2F4
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/97/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86
-[/us/pl/102/190/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs502%2Fb
+[/us/pl/102/190/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtV
 [/us/stat/105/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1355
 [/us/pl/97/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86
 [/us/pl/97/86/s405/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs405%2Ff

@@ -49,7 +49,7 @@
 
         (3) No deduction may be made under paragraph (1) from any death compensation to which a member’s dependents become entitled after the member’s death.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 98][/us/stat/70A/98]; [Pub. L. 96–513, title V, § 511(43)][/us/pl/96/513/s511/43], Dec. 12, 1980, [94 Stat. 2924][/us/stat/94/2924]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 107–107, div. A, title V, § 593(a)][/us/pl/107/107/s593/a], Dec. 28, 2001, [115 Stat. 1126][/us/stat/115/1126]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 110–181, div. A, title XVI, § 1646(a)][/us/pl/110/181/s1646/a], (b), Jan. 28, 2008, [122 Stat. 472][/us/stat/122/472].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 98][/us/stat/70A/98]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(43), Dec. 12, 1980, [94 Stat. 2924][/us/stat/94/2924]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 593(a), Dec. 28, 2001, [115 Stat. 1126][/us/stat/115/1126]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 110–181, div. A, title XVI][/us/pl/110/181/dA/tXVI], § 1646(a), (b), Jan. 28, 2008, [122 Stat. 472][/us/stat/122/472].)
 
 <table>
 
@@ -137,13 +137,13 @@ Oct. 12, 1949, ch. 681, § 403, 63 Stat. 820.  </td>
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–181, § 1646(a)(1)][/us/pl/110/181/s1646/a/1], substituted “the member’s years of service computed under [section 1208 of this title][/us/usc/t10/s1208] (subject to the minimum and maximum years of service provided for in subsection (c))” for “his years of service, but not more than 12, computed under [section 1208 of this title][/us/usc/t10/s1208]”.
+    2008—Subsec. (a)(1). [Pub. L. 110–181][/us/pl/110/181], § 1646(a)(1), substituted “the member’s years of service computed under [section 1208 of this title][/us/usc/t10/s1208] (subject to the minimum and maximum years of service provided for in subsection (c))” for “his years of service, but not more than 12, computed under [section 1208 of this title][/us/usc/t10/s1208]”.
 
-    Subsec. (c). [Pub. L. 110–181, § 1646(a)(3)][/us/pl/110/181/s1646/a/3], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 110–181][/us/pl/110/181], § 1646(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 110–181, § 1646(b)][/us/pl/110/181/s1646/b], designated existing provisions as par. (1), struck out “However, no deduction may be made from any death compensation to which his dependents become entitled after his death.” at end, and added pars. (2) and (3).
+    Subsec. (d). [Pub. L. 110–181][/us/pl/110/181], § 1646(b), designated existing provisions as par. (1), struck out “However, no deduction may be made from any death compensation to which his dependents become entitled after his death.” at end, and added pars. (2) and (3).
 
-    [Pub. L. 110–181, § 1646(a)(2)][/us/pl/110/181/s1646/a/2], redesignated subsec. (c) as (d).
+    [Pub. L. 110–181][/us/pl/110/181], § 1646(a)(2), redesignated subsec. (c) as (d).
 
     2002—Subsec. (a)(2)(B). [Pub. L. 107–296][/us/pl/107/296] substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
@@ -155,11 +155,11 @@ Oct. 12, 1949, ch. 681, § 403, 63 Stat. 820.  </td>
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–181, div. A, title XVI, § 1646(d)][/us/pl/110/181/s1646/d], formerly § 1646(c), Jan. 28, 2008, [122 Stat. 472][/us/stat/122/472], renumbered § 1646(d) by [Pub. L. 110–389, title I, § 103(a)(1)][/us/pl/110/389/s103/a/1], Oct. 10, 2008, [122 Stat. 4148][/us/stat/122/4148], provided that: 
+[Pub. L. 110–181, div. A, title XVI][/us/pl/110/181/dA/tXVI], § 1646(d), formerly § 1646(c), Jan. 28, 2008, [122 Stat. 472][/us/stat/122/472], renumbered § 1646(d) by [Pub. L. 110–389, title I][/us/pl/110/389/tI], § 103(a)(1), Oct. 10, 2008, [122 Stat. 4148][/us/stat/122/4148], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1161 of Title 38][/us/usc/t38/s1161], Veterans’ Benefits\] shall take effect on the date of the enactment of this Act \[Jan. 28, 2008\], and shall apply with respect to members of the Armed Forces separated from the Armed Forces under chapter 61 of title 10, United States Code, on or after that date.”
 
-    \[Amendment by [Pub. L. 110–389, § 103(a)(1)][/us/pl/110/389/s103/a/1], redesignating section 1646(c) as 1646(d) of [Pub. L. 110–181][/us/pl/110/181], set out above, effective Jan. 28, 2008, as if included in the Wounded Warrior Act, title XVI of [Pub. L. 110–181][/us/pl/110/181], to which such amendment relates, see [section 103(b) of Pub. L. 110–389][/us/pl/110/389/s103/b], set out as an Effective Date of 2008 Amendment note under [section 1161 of Title 38][/us/usc/t38/s1161], Veterans’ Benefits.\]
+    \[Amendment by [Pub. L. 110–389][/us/pl/110/389], § 103(a)(1), redesignating section 1646(c) as 1646(d) of [Pub. L. 110–181][/us/pl/110/181], set out above, effective Jan. 28, 2008, as if included in the Wounded Warrior Act, title XVI of [Pub. L. 110–181][/us/pl/110/181], to which such amendment relates, see [section 103(b) of Pub. L. 110–389][/us/pl/110/389/s103/b], set out as an Effective Date of 2008 Amendment note under [section 1161 of Title 38][/us/usc/t38/s1161], Veterans’ Benefits.\]
 
  __Effective Date of 2002 Amendment__ 
 
@@ -167,7 +167,7 @@ Oct. 12, 1949, ch. 681, § 403, 63 Stat. 820.  </td>
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–107, div. A, title V, § 593(b)][/us/pl/107/107/s593/b], Dec. 28, 2001, [115 Stat. 1126][/us/stat/115/1126], provided that: 
+[Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 593(b), Dec. 28, 2001, [115 Stat. 1126][/us/stat/115/1126], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to members separated under section 1203 or 1206 of title 10, United States Code, on or after date of the enactment of this Act \[Dec. 28, 2001\].”
 
@@ -185,34 +185,34 @@ Oct. 12, 1949, ch. 681, § 403, 63 Stat. 820.  </td>
 [/us/usc/t10/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1208
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F98
-[/us/pl/96/513/s511/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F43
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2924
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1602
-[/us/pl/107/107/s593/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs593%2Fa
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1126
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/110/181/s1646/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1646%2Fa
+[/us/pl/110/181/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVI
 [/us/stat/122/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F472
 [/us/usc/t10/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1208
 [/us/usc/t10/s282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs282
-[/us/pl/110/181/s1646/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1646%2Fa%2F1
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t10/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1208
 [/us/usc/t10/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1208
-[/us/pl/110/181/s1646/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1646%2Fa%2F3
-[/us/pl/110/181/s1646/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1646%2Fb
-[/us/pl/110/181/s1646/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1646%2Fa%2F2
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
-[/us/pl/110/181/s1646/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1646%2Fd
+[/us/pl/110/181/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVI
 [/us/stat/122/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F472
-[/us/pl/110/389/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs103%2Fa%2F1
+[/us/pl/110/389/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2FtI
 [/us/stat/122/4148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4148
 [/us/usc/t38/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1161
-[/us/pl/110/389/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs103%2Fa%2F1
+[/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/110/389/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs103%2Fb
@@ -220,7 +220,7 @@ Oct. 12, 1949, ch. 681, § 403, 63 Stat. 820.  </td>
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/107/107/s593/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs593%2Fb
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1126
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3

@@ -29,7 +29,7 @@
 
         (2) if there is a vacancy in the office of the Vice Chief of Staff or the Vice Chief of Staff is absent or disabled, unless the President directs otherwise, the most senior officer of the Air Force in the Air Staff who is not absent or disabled and who is not restricted in performance of duty shall perform the duties of the Chief of Staff until a successor to the Chief of Staff or the Vice Chief of Staff is appointed or until the absence or disability of the Chief of Staff or Vice Chief of Staff ceases, whichever occurs first.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 492][/us/stat/70A/492], § 8035; [Pub. L. 85–599, § 6(d)][/us/pl/85/599/s6/d], Aug. 6, 1958, [72 Stat. 519][/us/stat/72/519]; renumbered § 8034 and amended [Pub. L. 99–433, title V, § 522(d)][/us/pl/99/433/s522/d], Oct. 1, 1986, [100 Stat. 1062][/us/stat/100/1062].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 492][/us/stat/70A/492], § 8035; [Pub. L. 85–599][/us/pl/85/599], § 6(d), Aug. 6, 1958, [72 Stat. 519][/us/stat/72/519]; renumbered § 8034 and amended [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 522(d), Oct. 1, 1986, [100 Stat. 1062][/us/stat/100/1062].)
 
 <table>
 
@@ -115,11 +115,11 @@ Sept. 19, 1951, ch. 407, § 203, 65 Stat. 328.  </td>
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–433, § 522(d)][/us/pl/99/433/s522/d], renumbered [section 8035 of this title][/us/usc/t10/s8035] as this section.
+    1986—[Pub. L. 99–433][/us/pl/99/433], § 522(d), renumbered [section 8035 of this title][/us/usc/t10/s8035] as this section.
 
-    [Pub. L. 99–433, § 522(d)(5)][/us/pl/99/433/s522/d/5], substituted “Vice Chief of Staff” for “Vice Chief of Staff; Deputy Chiefs of Staff: succession to duties of Chief of Staff and Vice Chief of Staff” in section catchline.
+    [Pub. L. 99–433][/us/pl/99/433], § 522(d)(5), substituted “Vice Chief of Staff” for “Vice Chief of Staff; Deputy Chiefs of Staff: succession to duties of Chief of Staff and Vice Chief of Staff” in section catchline.
 
-    Subsecs. (a), (b). [Pub. L. 99–433, § 522(d)(1)][/us/pl/99/433/s522/d/1], substituted subsecs. (a) and (b) for former subsecs. (a) and (b) which read as follows:
+    Subsecs. (a), (b). [Pub. L. 99–433][/us/pl/99/433], § 522(d)(1), substituted subsecs. (a) and (b) for former subsecs. (a) and (b) which read as follows:
 
     “(a) The Vice Chief of Staff and the Deputy Chiefs of Staff shall be general officers detailed to those positions.
 
@@ -129,9 +129,9 @@ Sept. 19, 1951, ch. 407, § 203, 65 Stat. 328.  </td>
 
     “(2) The Deputy Chiefs of Staff in order of seniority.”
 
-    Subsec. (c). [Pub. L. 99–433, § 522(d)(2)][/us/pl/99/433/s522/d/2], (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “If the Vice Chief of Staff is absent or disabled or if that office is vacant, the senior Deputy Chief of Staff who is not absent or disabled shall, unless otherwise directed by the Secretary of the Air Force, perform the duties of the Vice Chief of Staff until a successor is designated or the absence or disability ceases.”
+    Subsec. (c). [Pub. L. 99–433][/us/pl/99/433], § 522(d)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “If the Vice Chief of Staff is absent or disabled or if that office is vacant, the senior Deputy Chief of Staff who is not absent or disabled shall, unless otherwise directed by the Secretary of the Air Force, perform the duties of the Vice Chief of Staff until a successor is designated or the absence or disability ceases.”
 
-    Subsec. (d). [Pub. L. 99–433, § 522(d)(3)][/us/pl/99/433/s522/d/3], (4), added subsec. (d). Former subsec. (d) was redesignated (c).
+    Subsec. (d). [Pub. L. 99–433][/us/pl/99/433], § 522(d)(3), (4), added subsec. (d). Former subsec. (d) was redesignated (c).
 
     1958—Subsec. (d). [Pub. L. 85–599][/us/pl/85/599] added subsec. (d).
 
@@ -144,17 +144,17 @@ Sept. 19, 1951, ch. 407, § 203, 65 Stat. 328.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F492
-[/us/pl/85/599/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599%2Fs6%2Fd
+[/us/pl/85/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599
 [/us/stat/72/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F519
-[/us/pl/99/433/s522/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs522%2Fd
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1062
 [/us/usc/t10/s8033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8033
-[/us/pl/99/433/s522/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs522%2Fd
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t10/s8035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8035
-[/us/pl/99/433/s522/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs522%2Fd%2F5
-[/us/pl/99/433/s522/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs522%2Fd%2F1
-[/us/pl/99/433/s522/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs522%2Fd%2F2
-[/us/pl/99/433/s522/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs522%2Fd%2F3
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/pl/85/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F599
 
 

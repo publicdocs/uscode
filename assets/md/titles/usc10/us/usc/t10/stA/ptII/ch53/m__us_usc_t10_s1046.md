@@ -23,11 +23,11 @@
 
     Under regulations prescribed by the Secretary concerned, the expenses related to providing foster care services under subsection (a) may be paid from appropriated funds available to the Secretary.
 
-(Added [Pub. L. 102–484, div. A, title VI, § 651(a)][/us/pl/102/484/s651/a], Oct. 23, 1992, [106 Stat. 2425][/us/stat/106/2425].)
+(Added [Pub. L. 102–484, div. A, title VI][/us/pl/102/484/dA/tVI], § 651(a), Oct. 23, 1992, [106 Stat. 2425][/us/stat/106/2425].)
 
  __Prior Provisions__ 
 
-    A prior section 1046, added [Pub. L. 98–525, title VII, § 708(a)(1)][/us/pl/98/525/s708/a/1], Oct. 19, 1984, [98 Stat. 2572][/us/stat/98/2572], related to preseparation counseling, prior to repeal by [Pub. L. 101–510, div. A, title V, § 502(b)(1)][/us/pl/101/510/s502/b/1], Nov. 5, 1990, [104 Stat. 1557][/us/stat/104/1557].
+    A prior section 1046, added [Pub. L. 98–525, title VII][/us/pl/98/525/tVII], § 708(a)(1), Oct. 19, 1984, [98 Stat. 2572][/us/stat/98/2572], related to preseparation counseling, prior to repeal by [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 502(b)(1), Nov. 5, 1990, [104 Stat. 1557][/us/stat/104/1557].
 
 ----------
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/102/484/s651/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs651%2Fa
+[/us/pl/102/484/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVI
 [/us/stat/106/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2425
-[/us/pl/98/525/s708/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs708%2Fa%2F1
+[/us/pl/98/525/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVII
 [/us/stat/98/2572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2572
-[/us/pl/101/510/s502/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs502%2Fb%2F1
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1557
 
 

@@ -65,7 +65,7 @@
 
     The program under this section shall terminate on October 1, 2017.
 
-(Added [Pub. L. 112–239, div. A, title V, § 581(a)(1)][/us/pl/112/239/s581/a/1], Jan. 2, 2013, [126 Stat. 1764][/us/stat/126/1764]; amended [Pub. L. 113–66, div. A, title V, § 511(a)][/us/pl/113/66/s511/a], Dec. 26, 2013, [127 Stat. 751][/us/stat/127/751].)
+(Added [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 581(a)(1), Jan. 2, 2013, [126 Stat. 1764][/us/stat/126/1764]; amended [Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 511(a), Dec. 26, 2013, [127 Stat. 751][/us/stat/127/751].)
 
  __References in Text__ 
 
@@ -83,9 +83,9 @@
 ----------
 
 [/us/usc/t10/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10101
-[/us/pl/112/239/s581/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs581%2Fa%2F1
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1764
-[/us/pl/113/66/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs511%2Fa
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F751
 [/us/pl/110/181/s582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs582
 [/us/usc/t10/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10101

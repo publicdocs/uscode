@@ -17,7 +17,7 @@
 
     When authorized by the Secretary of the Air Force, a disbursing official of Air Force subsistence funds may keep a limited amount of those funds in the personal possession and at the risk of the disbursing official to pay small amounts to public creditors.
 
-(Added [Pub. L. 97–258, § 2(b)(14)(B)][/us/pl/97/258/s2/b/14/B], Sept. 13, 1982, [96 Stat. 1058][/us/stat/96/1058].)
+(Added [Pub. L. 97–258][/us/pl/97/258], § 2(b)(14)(B), Sept. 13, 1982, [96 Stat. 1058][/us/stat/96/1058].)
 
 <table>
 
@@ -72,7 +72,7 @@ The words “Secretary of the Air Force” are substituted for “Secretary of W
 ----------
 ----------
 
-[/us/pl/97/258/s2/b/14/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F14%2FB
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1058
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/stat/70A/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F157

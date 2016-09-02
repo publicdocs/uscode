@@ -31,7 +31,7 @@
 
     In this section, the term “decoration” means any decoration or award (other than the medal of honor) that may be presented or awarded by the President or the Secretary concerned to a member of the armed forces.
 
-(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 571(a), Oct. 14, 2008, [122 Stat. 4471][/us/stat/122/4471]; amended [Pub. L. 113–66, div. A, title V, § 564][/us/pl/113/66/s564], Dec. 26, 2013, [127 Stat. 768][/us/stat/127/768].)
+(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 571(a), Oct. 14, 2008, [122 Stat. 4471][/us/stat/122/4471]; amended [Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 564, Dec. 26, 2013, [127 Stat. 768][/us/stat/127/768].)
 
  __Amendments__ 
 
@@ -46,7 +46,7 @@
 
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4471
-[/us/pl/113/66/s564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs564
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F768
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 

@@ -41,11 +41,11 @@
 
     (c) Except as otherwise specifically prescribed by law, the Office of the Chief of Naval Operations shall be organized in such manner, and its members shall perform such duties and have such titles, as the Secretary may prescribe.
 
-(Added [Pub. L. 99–433, title V, § 512(b)][/us/pl/99/433/s512/b], Oct. 1, 1986, [100 Stat. 1048][/us/stat/100/1048].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 512(b), Oct. 1, 1986, [100 Stat. 1048][/us/stat/100/1048].)
 
  __Prior Provisions__ 
 
-    A prior section 5031, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 278][/us/stat/70A/278]; Sept. 2, 1958, [Pub. L. 85–861, § 1(107)][/us/pl/85/861/s1/107], [72 Stat. 1490][/us/stat/72/1490]; Sept. 7, 1962, [Pub. L. 87–651, title II, § 211][/us/pl/87/651/s211], [76 Stat. 524][/us/stat/76/524]; Aug. 14, 1964, [Pub. L. 88–426, title III][/us/pl/88/426], §§ 305(4), 306(j)(3), [78 Stat. 422][/us/stat/78/422], 431; Oct. 14, 1981, [Pub. L. 97–60, title II, § 204(a)(1)][/us/pl/97/60/s204/a/1], [95 Stat. 1007][/us/stat/95/1007], related to Secretary of the Navy and responsibilities of Secretary, prior to repeal by [Pub. L. 99–433, § 511(e)][/us/pl/99/433/s511/e]. See [section 5013 of this title][/us/usc/t10/s5013].
+    A prior section 5031, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 278][/us/stat/70A/278]; Sept. 2, 1958, [Pub. L. 85–861][/us/pl/85/861], § 1(107), [72 Stat. 1490][/us/stat/72/1490]; Sept. 7, 1962, [Pub. L. 87–651, title II][/us/pl/87/651/tII], § 211, [76 Stat. 524][/us/stat/76/524]; Aug. 14, 1964, [Pub. L. 88–426, title III][/us/pl/88/426/tIII], §§ 305(4), 306(j)(3), [78 Stat. 422][/us/stat/78/422], 431; Oct. 14, 1981, [Pub. L. 97–60, title II][/us/pl/97/60/tII], § 204(a)(1), [95 Stat. 1007][/us/stat/95/1007], related to Secretary of the Navy and responsibilities of Secretary, prior to repeal by [Pub. L. 99–433][/us/pl/99/433], § 511(e). See [section 5013 of this title][/us/usc/t10/s5013].
 
 ----------
 
@@ -54,19 +54,19 @@
 ----------
 ----------
 
-[/us/pl/99/433/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs512%2Fb
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1048
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F278
-[/us/pl/85/861/s1/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F107
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1490
-[/us/pl/87/651/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs211
+[/us/pl/87/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtII
 [/us/stat/76/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F524
-[/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F422
-[/us/pl/97/60/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2Fs204%2Fa%2F1
+[/us/pl/97/60/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2FtII
 [/us/stat/95/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1007
-[/us/pl/99/433/s511/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fe
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t10/s5013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5013
 
 

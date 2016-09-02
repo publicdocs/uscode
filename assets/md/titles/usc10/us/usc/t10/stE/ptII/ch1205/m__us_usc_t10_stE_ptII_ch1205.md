@@ -147,9 +147,9 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–364, div. A, title V, § 507(a)(2)(C)][/us/pl/109/364/s507/a/2/C], Oct. 17, 2006, [120 Stat. 2180][/us/stat/120/2180], struck out “while so serving” after “reserve grade” in item 12210.
+    2006—[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 507(a)(2)(C), Oct. 17, 2006, [120 Stat. 2180][/us/stat/120/2180], struck out “while so serving” after “reserve grade” in item 12210.
 
-    1996—[Pub. L. 104–106, div. A, title XV, § 1501(b)(11)(B)][/us/pl/104/106/s1501/b/11/B], (13)(B), Feb. 10, 1996, [110 Stat. 496][/us/stat/110/496], substituted “Reserve officers: qualifications” for “Qualifications” in item 12201 and inserted “the” after “National Guard of” in items 12211, 12212, 12213, and 12214.
+    1996—[Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(11)(B), (13)(B), Feb. 10, 1996, [110 Stat. 496][/us/stat/110/496], substituted “Reserve officers: qualifications” for “Qualifications” in item 12201 and inserted “the” after “National Guard of” in items 12211, 12212, 12213, and 12214.
 
 ----------
 
@@ -158,9 +158,9 @@
 ----------
 ----------
 
-[/us/pl/109/364/s507/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs507%2Fa%2F2%2FC
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2180
-[/us/pl/104/106/s1501/b/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F11%2FB
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F496
 
 

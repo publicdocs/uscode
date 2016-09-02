@@ -51,7 +51,7 @@
 
         The term “firefighting agency” means any volunteer, paid, or combined departments that provide fire and emergency medical services.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVII, § 1706(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–367; amended [Pub. L. 108–375, div. A, title III, § 354][/us/pl/108/375/s354], Oct. 28, 2004, [118 Stat. 1861][/us/stat/118/1861].)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XVII, § 1706(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–367; amended [Pub. L. 108–375, div. A, title III][/us/pl/108/375/dA/tIII], § 354, Oct. 28, 2004, [118 Stat. 1861][/us/stat/118/1861].)
 
  __Amendments__ 
 
@@ -59,7 +59,7 @@
 
  __Identification of Defense Technologies Suitable for Use, or Conversion for Use, in Providing Fire and Emergency Medical Services__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVII, § 1707\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–367, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XVII, § 1707\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–367, provided that:
 
 >     “(a)  __Appointment of Task Force; Purpose__  __.—__ 
 
@@ -98,12 +98,12 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/375/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs354
+[/us/pl/108/375/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIII
 [/us/stat/118/1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1861
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s2576b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2576b
 

@@ -139,7 +139,7 @@
 
         (5) Amounts received by the Secretary under this section shall be credited to funds derived from commissary surcharges applied under [section 2484(e) of this title][/us/usc/t10/s2484/e], shall be merged with those funds, and shall be available for the same purposes as the funds with which merged.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 141][/us/stat/70A/141], § 2482; [Pub. L. 100–456, div. A, title III, § 321][/us/pl/100/456/s321], Sept. 29, 1988, [102 Stat. 1952][/us/stat/102/1952]; [Pub. L. 104–106, div. A, title III, § 331(a)][/us/pl/104/106/s331/a], Feb. 10, 1996, [110 Stat. 260][/us/stat/110/260]; [Pub. L. 104–201, div. A, title III, § 341(b)][/us/pl/104/201/s341/b], Sept. 23, 1996, [110 Stat. 2489][/us/stat/110/2489]; [Pub. L. 105–261, div. A, title III][/us/pl/105/261], §§ 361(b), 363(a), Oct. 17, 1998, [112 Stat. 1984][/us/stat/112/1984], 1985; [Pub. L. 108–136, div. A, title VI, § 653][/us/pl/108/136/s653], Nov. 24, 2003, [117 Stat. 1522][/us/stat/117/1522]; renumbered § 2485 and amended [Pub. L. 108–375, div. A, title VI, § 651(a)(2)][/us/pl/108/375/s651/a/2], (6), (7), Oct. 28, 2004, [118 Stat. 1964][/us/stat/118/1964], 1968; [Pub. L. 109–163, div. A, title VI, § 672][/us/pl/109/163/s672], Jan. 6, 2006, [119 Stat. 3319][/us/stat/119/3319]; [Pub. L. 111–350, § 5(b)(35)][/us/pl/111/350/s5/b/35], Jan. 4, 2011, [124 Stat. 3845][/us/stat/124/3845]; [Pub. L. 112–81, div. A, title X, § 1061(16)][/us/pl/112/81/s1061/16], Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 141][/us/stat/70A/141], § 2482; [Pub. L. 100–456, div. A, title III][/us/pl/100/456/dA/tIII], § 321, Sept. 29, 1988, [102 Stat. 1952][/us/stat/102/1952]; [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 331(a), Feb. 10, 1996, [110 Stat. 260][/us/stat/110/260]; [Pub. L. 104–201, div. A, title III][/us/pl/104/201/dA/tIII], § 341(b), Sept. 23, 1996, [110 Stat. 2489][/us/stat/110/2489]; [Pub. L. 105–261, div. A, title III][/us/pl/105/261/dA/tIII], §§ 361(b), 363(a), Oct. 17, 1998, [112 Stat. 1984][/us/stat/112/1984], 1985; [Pub. L. 108–136, div. A, title VI][/us/pl/108/136/dA/tVI], § 653, Nov. 24, 2003, [117 Stat. 1522][/us/stat/117/1522]; renumbered § 2485 and amended [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 651(a)(2), (6), (7), Oct. 28, 2004, [118 Stat. 1964][/us/stat/118/1964], 1968; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 672, Jan. 6, 2006, [119 Stat. 3319][/us/stat/119/3319]; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(35), Jan. 4, 2011, [124 Stat. 3845][/us/stat/124/3845]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1061(16), Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583].)
 
 <table>
 
@@ -189,7 +189,7 @@ Aug. 1, 1953, ch. 305, § 624 (last proviso), 67 Stat. 353.  </td>
 
  __Prior Provisions__ 
 
-    A prior section 2485, added [Pub. L. 99–145, title XIV, § 1460(a)][/us/pl/99/145/s1460/a], Nov. 8, 1985, [99 Stat. 764][/us/stat/99/764]; amended [Pub. L. 101–510, div. A, title III, § 324(a)][/us/pl/101/510/s324/a], (b)(1), Nov. 5, 1990, [104 Stat. 1530][/us/stat/104/1530]; [Pub. L. 104–201, div. A, title III, § 365][/us/pl/104/201/s365], Sept. 23, 1996, [110 Stat. 2494][/us/stat/110/2494], related to donation of unusable food from commissary stores and other activities, prior to repeal by [Pub. L. 108–375, div. A, title VI, § 651(a)(1)][/us/pl/108/375/s651/a/1], Oct. 28, 2004, [118 Stat. 1964][/us/stat/118/1964].
+    A prior section 2485, added [Pub. L. 99–145, title XIV][/us/pl/99/145/tXIV], § 1460(a), Nov. 8, 1985, [99 Stat. 764][/us/stat/99/764]; amended [Pub. L. 101–510, div. A, title III][/us/pl/101/510/dA/tIII], § 324(a), (b)(1), Nov. 5, 1990, [104 Stat. 1530][/us/stat/104/1530]; [Pub. L. 104–201, div. A, title III][/us/pl/104/201/dA/tIII], § 365, Sept. 23, 1996, [110 Stat. 2494][/us/stat/110/2494], related to donation of unusable food from commissary stores and other activities, prior to repeal by [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 651(a)(1), Oct. 28, 2004, [118 Stat. 1964][/us/stat/118/1964].
 
     A prior section 2486 was renumbered [section 2484 of this title][/us/usc/t10/s2484].
 
@@ -201,19 +201,19 @@ Aug. 1, 1953, ch. 305, § 624 (last proviso), 67 Stat. 353.  </td>
 
     2006—Subsec. (a)(2). [Pub. L. 109–163][/us/pl/109/163] inserted at end “Until December 31, 2008, the Defense Commissary Agency is not required to conduct any cost-comparison study under the policies and procedures of Office of Management and Budget Circular A–76 relating to the possible contracting out of commissary store functions.”
 
-    2004—[Pub. L. 108–375, § 651(a)(2)][/us/pl/108/375/s651/a/2], (6), renumbered [section 2482 of this title][/us/usc/t10/s2482] as this section.
+    2004—[Pub. L. 108–375][/us/pl/108/375], § 651(a)(2), (6), renumbered [section 2482 of this title][/us/usc/t10/s2482] as this section.
 
-    Subsec. (b)(2). [Pub. L. 108–375, § 651(a)(7)(A)][/us/pl/108/375/s651/a/7/A], substituted “section 2483” for “section 2484”.
+    Subsec. (b)(2). [Pub. L. 108–375][/us/pl/108/375], § 651(a)(7)(A), substituted “section 2483” for “section 2484”.
 
-    Subsec. (c)(2). [Pub. L. 108–375, § 651(a)(7)(B)][/us/pl/108/375/s651/a/7/B], inserted at end “The chairman of the governing board shall be a commissioned officer or member of the senior executive service who has demonstrated experience or knowledge relevant to the management of the defense commissary system. In selecting other members of the governing board, the Secretary shall give priority to persons with experience related to logistics, military personnel, military entitlements or other experiences of value of management of commissaries.”
+    Subsec. (c)(2). [Pub. L. 108–375][/us/pl/108/375], § 651(a)(7)(B), inserted at end “The chairman of the governing board shall be a commissioned officer or member of the senior executive service who has demonstrated experience or knowledge relevant to the management of the defense commissary system. In selecting other members of the governing board, the Secretary shall give priority to persons with experience related to logistics, military personnel, military entitlements or other experiences of value of management of commissaries.”
 
-    Subsecs. (d) to (h). [Pub. L. 108–375, § 651(a)(7)(C)][/us/pl/108/375/s651/a/7/C], added subsecs. (d) to (h).
+    Subsecs. (d) to (h). [Pub. L. 108–375][/us/pl/108/375], § 651(a)(7)(C), added subsecs. (d) to (h).
 
     2003—Subsec. (a). [Pub. L. 108–136][/us/pl/108/136] designated existing provisions as par. (1), inserted first sentence, added par. (2), and struck out former first and second sentences which read as follows: “Private persons may operate commissary stores under such regulations as the Secretary of Defense may approve. A contract with a private person for the operation of any commissary store may not require or permit the contractor to carry out functions for the procurement of products to be sold in the store or to engage in functions relating to the overall management of a commissary system or the management of any such store.”
 
-    1998—Subsec. (b)(1). [Pub. L. 105–261, § 363(a)][/us/pl/105/261/s363/a], inserted at end “However, the Defense Commissary Agency may not pay for any such service provided by the United States Transportation Command any amount that exceeds the price at which the service could be procured through full and open competition, as such term is defined in section 4(6) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(6)][/us/usc/t41/s403/6]).”
+    1998—Subsec. (b)(1). [Pub. L. 105–261][/us/pl/105/261], § 363(a), inserted at end “However, the Defense Commissary Agency may not pay for any such service provided by the United States Transportation Command any amount that exceeds the price at which the service could be procured through full and open competition, as such term is defined in section 4(6) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(6)][/us/usc/t41/s403/6]).”
 
-    Subsec. (c). [Pub. L. 105–261, § 361(b)][/us/pl/105/261/s361/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 105–261][/us/pl/105/261], § 361(b), added subsec. (c).
 
     1996—[Pub. L. 104–106][/us/pl/104/106] struck out “private” after “stores:” in section catchline, designated existing text as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -223,13 +223,13 @@ Aug. 1, 1953, ch. 305, § 624 (last proviso), 67 Stat. 353.  </td>
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–261, div. A, title III, § 363(b)][/us/pl/105/261/s363/b], Oct. 17, 1998, [112 Stat. 1986][/us/stat/112/1986], provided that: 
+[Pub. L. 105–261, div. A, title III][/us/pl/105/261/dA/tIII], § 363(b), Oct. 17, 1998, [112 Stat. 1986][/us/stat/112/1986], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to services provided or obtained on or after the date of the enactment of this Act \[Oct. 17, 1998\].”
 
  __Demonstration Program for Operation of Certain Commissary Stores by Nonappropriated Fund Instrumentalities__ 
 
-    [Pub. L. 102–484, div. A, title III, § 363][/us/pl/102/484/s363], Oct. 23, 1992, [106 Stat. 2380][/us/stat/106/2380], required the Secretary of Defense to establish a demonstration program to determine the feasibility of having nonappropriated fund instrumentalities operate commissary stores at military installations and provided for termination of the program and submission of a report on its implementation, not later than the expiration of the one-year period beginning on Oct. 23, 1992.
+    [Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 363, Oct. 23, 1992, [106 Stat. 2380][/us/stat/106/2380], required the Secretary of Defense to establish a demonstration program to determine the feasibility of having nonappropriated fund instrumentalities operate commissary stores at military installations and provided for termination of the program and submission of a report on its implementation, not later than the expiration of the one-year period beginning on Oct. 23, 1992.
 
 ----------
 
@@ -247,32 +247,32 @@ Aug. 1, 1953, ch. 305, § 624 (last proviso), 67 Stat. 353.  </td>
 [/us/usc/t10/s2484/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2484%2Fe
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F141
-[/us/pl/100/456/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs321
+[/us/pl/100/456/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtIII
 [/us/stat/102/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1952
-[/us/pl/104/106/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs331%2Fa
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F260
-[/us/pl/104/201/s341/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs341%2Fb
+[/us/pl/104/201/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIII
 [/us/stat/110/2489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2489
-[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIII
 [/us/stat/112/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1984
-[/us/pl/108/136/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs653
+[/us/pl/108/136/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVI
 [/us/stat/117/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1522
-[/us/pl/108/375/s651/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs651%2Fa%2F2
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1964
-[/us/pl/109/163/s672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs672
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3319
-[/us/pl/111/350/s5/b/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F35
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3845
-[/us/pl/112/81/s1061/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F16
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1583
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
-[/us/pl/99/145/s1460/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1460%2Fa
+[/us/pl/99/145/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIV
 [/us/stat/99/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F764
-[/us/pl/101/510/s324/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs324%2Fa
+[/us/pl/101/510/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIII
 [/us/stat/104/1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1530
-[/us/pl/104/201/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs365
+[/us/pl/104/201/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIII
 [/us/stat/110/2494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2494
-[/us/pl/108/375/s651/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs651%2Fa%2F1
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1964
 [/us/usc/t10/s2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2484
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
@@ -280,21 +280,21 @@ Aug. 1, 1953, ch. 305, § 624 (last proviso), 67 Stat. 353.  </td>
 [/us/usc/t41/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs107
 [/us/usc/t41/s403/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F6
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/108/375/s651/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs651%2Fa%2F2
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t10/s2482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2482
-[/us/pl/108/375/s651/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs651%2Fa%2F7%2FA
-[/us/pl/108/375/s651/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs651%2Fa%2F7%2FB
-[/us/pl/108/375/s651/a/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs651%2Fa%2F7%2FC
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/105/261/s363/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs363%2Fa
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t41/s403/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F6
-[/us/pl/105/261/s361/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs361%2Fb
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
-[/us/pl/105/261/s363/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs363%2Fb
+[/us/pl/105/261/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIII
 [/us/stat/112/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1986
-[/us/pl/102/484/s363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs363
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2380
 
 

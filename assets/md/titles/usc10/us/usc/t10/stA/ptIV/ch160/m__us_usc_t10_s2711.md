@@ -79,7 +79,7 @@
 
             (C) pollution prevention activities.
 
-(Added [Pub. L. 112–81, div. A, title III, § 317(a)][/us/pl/112/81/s317/a], Dec. 31, 2011, [125 Stat. 1359][/us/stat/125/1359].)
+(Added [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 317(a), Dec. 31, 2011, [125 Stat. 1359][/us/stat/125/1359].)
 
 ----------
 
@@ -88,7 +88,7 @@
 ----------
 ----------
 
-[/us/pl/112/81/s317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs317%2Fa
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1359
 
 

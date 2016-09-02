@@ -83,11 +83,11 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92], §§ 851(a)(2), 857(b), Nov. 25, 2015, [129 Stat. 916][/us/stat/129/916], 921, added items 2380 and 2380A.
+    2015—[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], §§ 851(a)(2), 857(b), Nov. 25, 2015, [129 Stat. 916][/us/stat/129/916], 921, added items 2380 and 2380A.
 
-    2006—[Pub. L. 109–163, div. A, title VIII, § 803(a)(2)][/us/pl/109/163/s803/a/2], Jan. 6, 2006, [119 Stat. 3371][/us/stat/119/3371], added item 2379.
+    2006—[Pub. L. 109–163, div. A, title VIII][/us/pl/109/163/dA/tVIII], § 803(a)(2), Jan. 6, 2006, [119 Stat. 3371][/us/stat/119/3371], added item 2379.
 
-    1997—[Pub. L. 105–85, div. A, title III, § 350(b)][/us/pl/105/85/s350/b], Nov. 18, 1997, [111 Stat. 1692][/us/stat/111/1692], added item 2378.
+    1997—[Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 350(b), Nov. 18, 1997, [111 Stat. 1692][/us/stat/111/1692], added item 2378.
 
 ----------
 
@@ -96,11 +96,11 @@
 ----------
 ----------
 
-[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F916
-[/us/pl/109/163/s803/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs803%2Fa%2F2
+[/us/pl/109/163/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVIII
 [/us/stat/119/3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3371
-[/us/pl/105/85/s350/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs350%2Fb
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1692
 
 

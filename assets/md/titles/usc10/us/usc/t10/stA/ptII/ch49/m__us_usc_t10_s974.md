@@ -105,11 +105,11 @@
 
     In this section, the term “military musical unit” means a band, ensemble, chorus, or similar musical unit of the armed forces.
 
-(Added [Pub. L. 110–181, div. A, title V, § 590(a)(1)][/us/pl/110/181/s590/a/1], Jan. 28, 2008, [122 Stat. 136][/us/stat/122/136]; amended [Pub. L. 111–84, div. A, title V, § 591(a)][/us/pl/111/84/s591/a], Oct. 28, 2009, [123 Stat. 2335][/us/stat/123/2335]; [Pub. L. 113–66, div. A, title III, § 351][/us/pl/113/66/s351], Dec. 26, 2013, [127 Stat. 741][/us/stat/127/741].)
+(Added [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 590(a)(1), Jan. 28, 2008, [122 Stat. 136][/us/stat/122/136]; amended [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 591(a), Oct. 28, 2009, [123 Stat. 2335][/us/stat/123/2335]; [Pub. L. 113–66, div. A, title III][/us/pl/113/66/dA/tIII], § 351, Dec. 26, 2013, [127 Stat. 741][/us/stat/127/741].)
 
  __Prior Provisions__ 
 
-    A prior section 974, added [Pub. L. 90–235, § 6(a)(6)(A)][/us/pl/90/235/s6/a/6/A], Jan. 2, 1968, [81 Stat. 762][/us/stat/81/762]; amended [Pub. L. 101–510, div. A, title III, § 327(e)][/us/pl/101/510/s327/e], Nov. 5, 1990, [104 Stat. 1532][/us/stat/104/1532], related to civilian employment by enlisted members, prior to repeal by [Pub. L. 105–261, div. A, title V, § 569(a)][/us/pl/105/261/s569/a], Oct. 17, 1998, [112 Stat. 2032][/us/stat/112/2032].
+    A prior section 974, added [Pub. L. 90–235][/us/pl/90/235], § 6(a)(6)(A), Jan. 2, 1968, [81 Stat. 762][/us/stat/81/762]; amended [Pub. L. 101–510, div. A, title III][/us/pl/101/510/dA/tIII], § 327(e), Nov. 5, 1990, [104 Stat. 1532][/us/stat/104/1532], related to civilian employment by enlisted members, prior to repeal by [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 569(a), Oct. 17, 1998, [112 Stat. 2032][/us/stat/112/2032].
 
  __Amendments__ 
 
@@ -125,17 +125,17 @@
 ----------
 
 [/us/usc/t10/s2566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2566
-[/us/pl/110/181/s590/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs590%2Fa%2F1
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F136
-[/us/pl/111/84/s591/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs591%2Fa
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2335
-[/us/pl/113/66/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs351
+[/us/pl/113/66/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIII
 [/us/stat/127/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F741
-[/us/pl/90/235/s6/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs6%2Fa%2F6%2FA
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F762
-[/us/pl/101/510/s327/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs327%2Fe
+[/us/pl/101/510/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIII
 [/us/stat/104/1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1532
-[/us/pl/105/261/s569/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs569%2Fa
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2032
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84

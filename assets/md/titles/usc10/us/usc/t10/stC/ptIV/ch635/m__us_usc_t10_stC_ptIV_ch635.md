@@ -11,40 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptIV/ch633/m__us_usc_t10_s7317.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIV/ch637/m__us_usc_t10_stC_ptIV_ch637.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch635)
+[Previous](./../../../../../..//us/usc/t10/stC/ptIV/ch633/m__us_usc_t10_s7317.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIV/ch635/m__us_usc_t10_s7341...7345.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch635)
 
 #### \[CHAPTER 635—REPEALED\]
 
-\[§§ 7341 to 7345. __Repealed.__  __[__  __Pub. L. 103–160, div. A, title VIII, § 824(a)(9)__  __][/us/pl/103/160/s824/a/9]__  __,__  __Nov. 30, 1993__  __,__  __[__  __107 Stat. 1708__  __][/us/stat/107/1708]__  __\]__ 
-
-    Section 7341, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 453][/us/stat/70A/453], related to authorized number of naval airplanes and lighter-than-air crafts.
-
-    Section 7342, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 454][/us/stat/70A/454], related to percentage of naval aircraft required to be constructed or manufactured in United States plants.
-
-    Section 7343, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 454][/us/stat/70A/454], related to manufacture of naval aircraft at plants owned by United States under certain circumstances.
-
-    Section 7344, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 454][/us/stat/70A/454], related to suspension of naval aircraft construction in case of treaty for limitation of naval armament.
-
-    Section 7345, added [Pub. L. 101–189, div. A, title I, § 153(a)(1)][/us/pl/101/189/s153/a/1], Nov. 29, 1989, [103 Stat. 1387][/us/stat/103/1387], related to submission of annual reports to Armed Services and Appropriations Committees of Senate and House of Representatives addressing aircraft requirements of the Navy.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptIV/ch633/m__us_usc_t10_s7317.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIV/ch637/m__us_usc_t10_stC_ptIV_ch637.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch635)
+[Previous](./../../../../../..//us/usc/t10/stC/ptIV/ch633/m__us_usc_t10_s7317.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIV/ch635/m__us_usc_t10_s7341...7345.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch635)
 
 ----------
 ----------
 
-[/us/pl/103/160/s824/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs824%2Fa%2F9
-[/us/stat/107/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1708
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F453
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F454
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F454
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F454
-[/us/pl/101/189/s153/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs153%2Fa%2F1
-[/us/stat/103/1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1387
 
 

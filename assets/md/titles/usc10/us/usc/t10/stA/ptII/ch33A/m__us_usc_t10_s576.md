@@ -39,21 +39,21 @@
 
         (2) If, on the basis of a review of the report under paragraph (1), the Secretary concerned determines that the board acted contrary to law or regulation or to guidelines furnished the board under this section, the Secretary shall return the report, together with a written explanation of the basis for such determination, to the board for further proceedings. Upon receipt of a report returned by the Secretary concerned under this paragraph, the selection board (or a subsequent selection board convened under [section 573 of this title][/us/usc/t10/s573] for the same grade and competitive category) shall conduct such proceedings as may be necessary in order to revise the report to be consistent with law, regulation, and such guidelines and shall resubmit the report, as revised, to the Secretary in accordance with subsection (e).
 
-(Added [Pub. L. 102–190, div. A, title XI, § 1112(a)][/us/pl/102/190/s1112/a], Dec. 5, 1991, [105 Stat. 1496][/us/stat/105/1496]; amended [Pub. L. 103–337, div. A, title V][/us/pl/103/337], §§ 501(b), 541(b)(4), Oct. 5, 1994, [108 Stat. 2748][/us/stat/108/2748], 2764.)
+(Added [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1112(a), Dec. 5, 1991, [105 Stat. 1496][/us/stat/105/1496]; amended [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], §§ 501(b), 541(b)(4), Oct. 5, 1994, [108 Stat. 2748][/us/stat/108/2748], 2764.)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 560 of this title][/us/usc/t10/s560] prior to repeal by [Pub. L. 102–190, § 1112(a)][/us/pl/102/190/s1112/a].
+    Provisions similar to those in this section were contained in [section 560 of this title][/us/usc/t10/s560] prior to repeal by [Pub. L. 102–190][/us/pl/102/190], § 1112(a).
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–337, § 541(b)(4)(A)][/us/pl/103/337/s541/b/4/A], struck out “of the military department” after “The Secretary” in introductory provisions.
+    1994—Subsec. (a). [Pub. L. 103–337][/us/pl/103/337], § 541(b)(4)(A), struck out “of the military department” after “The Secretary” in introductory provisions.
 
-    Subsec. (e). [Pub. L. 103–337, § 541(b)(4)(B)][/us/pl/103/337/s541/b/4/B], struck out “of the military department” after “submitted to the Secretary”.
+    Subsec. (e). [Pub. L. 103–337][/us/pl/103/337], § 541(b)(4)(B), struck out “of the military department” after “submitted to the Secretary”.
 
-    Subsec. (f)(1). [Pub. L. 103–337, § 501(b)][/us/pl/103/337/s501/b], struck out after first sentence “Following such review, unless the Secretary concerned makes a determination as described in paragraph (2), the Secretary shall submit the report as required by subsection (e).”
+    Subsec. (f)(1). [Pub. L. 103–337][/us/pl/103/337], § 501(b), struck out after first sentence “Following such review, unless the Secretary concerned makes a determination as described in paragraph (2), the Secretary shall submit the report as required by subsection (e).”
 
-    Subsec. (f)(2). [Pub. L. 103–337, § 541(b)(4)(C)][/us/pl/103/337/s541/b/4/C], struck out “of the military department” after “paragraph (1), the Secretary”.
+    Subsec. (f)(2). [Pub. L. 103–337][/us/pl/103/337], § 541(b)(4)(C), struck out “of the military department” after “paragraph (1), the Secretary”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -70,16 +70,16 @@
 [/us/usc/t10/s574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs574
 [/us/usc/t10/s1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1166
 [/us/usc/t10/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs573
-[/us/pl/102/190/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1112%2Fa
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1496
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2748
 [/us/usc/t10/s560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs560
-[/us/pl/102/190/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1112%2Fa
-[/us/pl/103/337/s541/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fb%2F4%2FA
-[/us/pl/103/337/s541/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fb%2F4%2FB
-[/us/pl/103/337/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs501%2Fb
-[/us/pl/103/337/s541/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fb%2F4%2FC
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s541/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fb%2F4
 [/us/pl/103/337/s541/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fh
 [/us/usc/t10/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs571

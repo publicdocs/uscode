@@ -17,11 +17,11 @@
 
     Subject to other provisions of this title, reserve commissioned officers may be discharged at the pleasure of the President. Other Reserves may be discharged under regulations prescribed by the Secretary concerned.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1662(i)(1)][/us/pl/103/337/s1662/i/1], Oct. 5, 1994, [108 Stat. 2997][/us/stat/108/2997].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(i)(1), Oct. 5, 1994, [108 Stat. 2997][/us/stat/108/2997].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 1162(a) of this title][/us/usc/t10/s1162/a], prior to repeal by [Pub. L. 103–337, § 1662(i)(2)][/us/pl/103/337/s1662/i/2].
+    Provisions similar to those in this section were contained in [section 1162(a) of this title][/us/usc/t10/s1162/a], prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1662(i)(2).
 
  __Effective Date__ 
 
@@ -29,7 +29,7 @@
 
  __Availability of Transition Assistance Advisors To Assist Members of Reserve Components Who Serve on Active Duty for More Than 180 Consecutive Days__ 
 
-[Pub. L. 112–239, div. A, title V, § 513][/us/pl/112/239/s513], Jan. 2, 2013, [126 Stat. 1718][/us/stat/126/1718], provided that:
+[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 513, Jan. 2, 2013, [126 Stat. 1718][/us/stat/126/1718], provided that:
 
 >     “(a)  __Transition Assistance Advisor Program Authorized__  __.—__ 
 
@@ -73,7 +73,7 @@
 
  __Implementation of Agreement on Restructuring of Army National Guard and Army Reserve__ 
 
-[Pub. L. 103–335, title VIII, § 8129][/us/pl/103/335/s8129], Sept. 30, 1994, [108 Stat. 2652][/us/stat/108/2652], provided that:
+[Pub. L. 103–335, title VIII][/us/pl/103/335/tVIII], § 8129, Sept. 30, 1994, [108 Stat. 2652][/us/stat/108/2652], provided that:
 
 >     “(a)  __Finding__  __.—__ 
 
@@ -99,19 +99,19 @@
 
  __Guard and Reserve Transition Initiatives__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(b)][/us/pl/104/208/s101/b] \[title VIII, § 8050\], Sept. 30, 1996, [110 Stat. 3009–71][/us/stat/110/3009-71], 3009–99, provided that: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(b) \[title VIII, § 8050\], Sept. 30, 1996, [110 Stat. 3009–71][/us/stat/110/3009-71], 3009–99, provided that: 
 
 > “During the current fiscal year and hereafter, annual payments granted under the provisions of section 4416 of the National Defense Authorization Act for Fiscal Year 1993 ([Public Law 102–484][/us/pl/102/484]; [106 Stat. 2714][/us/stat/106/2714]) \[set out below\] shall be made from appropriations in this Act \[[Pub. L. 104–208][/us/pl/104/208]\] which are available for the pay of reserve component personnel.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 104–61, title VIII, § 8061][/us/pl/104/61/s8061], Dec. 1, 1995, [109 Stat. 664][/us/stat/109/664].
+    [Pub. L. 104–61, title VIII][/us/pl/104/61/tVIII], § 8061, Dec. 1, 1995, [109 Stat. 664][/us/stat/109/664].
 
-    [Pub. L. 103–335, title VIII, § 8073][/us/pl/103/335/s8073], Sept. 30, 1994, [108 Stat. 2635][/us/stat/108/2635].
+    [Pub. L. 103–335, title VIII][/us/pl/103/335/tVIII], § 8073, Sept. 30, 1994, [108 Stat. 2635][/us/stat/108/2635].
 
-    [Pub. L. 103–139, title VIII, § 8087][/us/pl/103/139/s8087], Nov. 11, 1993, [107 Stat. 1459][/us/stat/107/1459].
+    [Pub. L. 103–139, title VIII][/us/pl/103/139/tVIII], § 8087, Nov. 11, 1993, [107 Stat. 1459][/us/stat/107/1459].
 
-[Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484], subtitle B, Oct. 23, 1992, [106 Stat. 2712][/us/stat/106/2712], as amended by [Pub. L. 103–35, title II, § 202(a)(17)][/us/pl/103/35/s202/a/17], May 31, 1993, [107 Stat. 102][/us/stat/107/102]; [Pub. L. 103–160, div. A, title V, § 561(f)(1)][/us/pl/103/160/s561/f/1]–(3), Nov. 30, 1993, [107 Stat. 1667][/us/stat/107/1667], 1668; [Pub. L. 103–337, div. A, title V, § 518(a)][/us/pl/103/337/s518/a], (b), Oct. 5, 1994, [108 Stat. 2754][/us/stat/108/2754]; [Pub. L. 104–106, div. A, title XV, § 1501(d)(3)][/us/pl/104/106/s1501/d/3], Feb. 10, 1996, [110 Stat. 500][/us/stat/110/500]; [Pub. L. 105–261, div. A, title V, § 561][/us/pl/105/261/s561](l), (m), Oct. 17, 1998, [112 Stat. 2026][/us/stat/112/2026]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 571(l), (m)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–135; [Pub. L. 107–107, div. A, title X, § 1048(h)(2)][/us/pl/107/107/s1048/h/2], Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229], provided that:
+[Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], subtitle B, Oct. 23, 1992, [106 Stat. 2712][/us/stat/106/2712], as amended by [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 202(a)(17), May 31, 1993, [107 Stat. 102][/us/stat/107/102]; [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 561(f)(1)–(3), Nov. 30, 1993, [107 Stat. 1667][/us/stat/107/1667], 1668; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 518(a), (b), Oct. 5, 1994, [108 Stat. 2754][/us/stat/108/2754]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(d)(3), Feb. 10, 1996, [110 Stat. 500][/us/stat/110/500]; [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 561(l), (m), Oct. 17, 1998, [112 Stat. 2026][/us/stat/112/2026]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 571(l), (m)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–135; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(h)(2), Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229], provided that:
 
 > “SEC. 4411. __FORCE REDUCTION TRANSITION PERIOD DEFINED.__ 
 
@@ -211,7 +211,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(3) the member applies for transfer to the Retired Reserve.
 
->     “(c) __\[Repealed.__  __[__  __Pub. L. 103–160, div. A, title V, § 561(f)(2)(B)__  __][/us/pl/103/160/s561/f/2/B]__  __,__  __Nov. 30, 1993__  __,__  __[__  __107 Stat. 1667__  __][/us/stat/107/1667]__  __.\]__ 
+>     “(c) __\[Repealed.__  __[__  __Pub. L. 103–160, div. A, title V__  __][/us/pl/103/160/dA/tV]__  __, § 561(f)(2)(B),__  __Nov. 30, 1993__  __,__  __[__  __107 Stat. 1667__  __][/us/stat/107/1667]__  __.\]__ 
 
 >     “(d)  __Annual Payment Period__  __.—__ 
 
@@ -336,42 +336,42 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/pl/103/337/s1662/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fi%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2997
 [/us/usc/t10/s1162/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1162%2Fa
-[/us/pl/103/337/s1662/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fi%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
-[/us/pl/112/239/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs513
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1718
-[/us/pl/103/335/s8129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F335%2Fs8129
+[/us/pl/103/335/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F335%2FtVIII
 [/us/stat/108/2652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2652
-[/us/pl/104/208/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fb
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-71
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/stat/106/2714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2714
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/104/61/s8061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F61%2Fs8061
+[/us/pl/104/61/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F61%2FtVIII
 [/us/stat/109/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F664
-[/us/pl/103/335/s8073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F335%2Fs8073
+[/us/pl/103/335/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F335%2FtVIII
 [/us/stat/108/2635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2635
-[/us/pl/103/139/s8087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F139%2Fs8087
+[/us/pl/103/139/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F139%2FtVIII
 [/us/stat/107/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1459
-[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2712
-[/us/pl/103/35/s202/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs202%2Fa%2F17
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F102
-[/us/pl/103/160/s561/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs561%2Ff%2F1
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1667
-[/us/pl/103/337/s518/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs518%2Fa
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2754
-[/us/pl/104/106/s1501/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fd%2F3
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F500
-[/us/pl/105/261/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs561
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2026
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s1048/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fh%2F2
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1229
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t10/s12731a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12731a
@@ -379,7 +379,7 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t10/s1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174
 [/us/usc/t10/s12731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12731
 [/us/usc/t10/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1332
-[/us/pl/103/160/s561/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs561%2Ff%2F2%2FB
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1667
 [/us/usc/t10/s12732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12732
 [/us/usc/t10/s12731a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12731a

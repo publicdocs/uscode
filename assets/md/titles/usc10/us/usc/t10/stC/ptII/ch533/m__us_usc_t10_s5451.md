@@ -17,7 +17,7 @@
 
     The President, during a war or national emergency, may suspend any provision of the preceding sections of this chapter. Such a suspension may not continue beyond September 30 of the fiscal year following that in which the war or national emergency ends.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 312][/us/stat/70A/312]; [Pub. L. 94–273, § 2(3)][/us/pl/94/273/s2/3], Apr. 21, 1976, [90 Stat. 375][/us/stat/90/375]; [Pub. L. 96–513, title V, § 503(22)][/us/pl/96/513/s503/22], Dec. 12, 1980, [94 Stat. 2913][/us/stat/94/2913]; [Pub. L. 102–190, div. A, title X, § 1061(a)(21)][/us/pl/102/190/s1061/a/21], Dec. 5, 1991, [105 Stat. 1473][/us/stat/105/1473].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 312][/us/stat/70A/312]; [Pub. L. 94–273][/us/pl/94/273], § 2(3), Apr. 21, 1976, [90 Stat. 375][/us/stat/90/375]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 503(22), Dec. 12, 1980, [94 Stat. 2913][/us/stat/94/2913]; [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1061(a)(21), Dec. 5, 1991, [105 Stat. 1473][/us/stat/105/1473].)
 
 <table>
 
@@ -100,11 +100,11 @@ May 5, 1954, ch. 180, § 403 68 Stat. 70.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F312
-[/us/pl/94/273/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs2%2F3
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F375
-[/us/pl/96/513/s503/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs503%2F22
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2913
-[/us/pl/102/190/s1061/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fa%2F21
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1473
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

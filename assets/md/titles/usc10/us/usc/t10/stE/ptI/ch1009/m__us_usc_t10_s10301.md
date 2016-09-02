@@ -95,11 +95,11 @@
 
     This section does not affect the committees and boards prescribed within the military departments by sections 10302 through 10305 of this title, and a member of such a committee or board may, if otherwise eligible, be a member of the Board.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1661(b)(1)][/us/pl/103/337/s1661/b/1], Oct. 5, 1994, [108 Stat. 2980][/us/stat/108/2980]; amended [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 109–163, div. A, title V, § 515(b)(1)(CC)][/us/pl/109/163/s515/b/1/CC], Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233]; [Pub. L. 111–383, div. A, title V, § 514(a)(1)][/us/pl/111/383/s514/a/1], Jan. 7, 2011, [124 Stat. 4211][/us/stat/124/4211].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1661(b)(1), Oct. 5, 1994, [108 Stat. 2980][/us/stat/108/2980]; amended [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(CC), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 514(a)(1), Jan. 7, 2011, [124 Stat. 4211][/us/stat/124/4211].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 175 of this title][/us/usc/t10/s175], prior to amendment by [Pub. L. 103–337, § 1661(b)(3)][/us/pl/103/337/s1661/b/3].
+    Provisions similar to those in this section were contained in [section 175 of this title][/us/usc/t10/s175], prior to amendment by [Pub. L. 103–337][/us/pl/103/337], § 1661(b)(3).
 
  __Amendments__ 
 
@@ -111,7 +111,7 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 111–383, div. A, title V, § 514(a)(2)][/us/pl/111/383/s514/a/2], Jan. 7, 2011, [124 Stat. 4213][/us/stat/124/4213], provided that: 
+[Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 514(a)(2), Jan. 7, 2011, [124 Stat. 4213][/us/stat/124/4213], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on July 1, 2011.”
 
@@ -132,20 +132,20 @@
 
 [/us/usc/t10/s175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs175
 [/us/usc/t10/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10101
-[/us/pl/103/337/s1661/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fb%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2980
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/109/163/s515/b/1/CC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FCC
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3233
-[/us/pl/111/383/s514/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs514%2Fa%2F1
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4211
 [/us/usc/t10/s175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs175
-[/us/pl/103/337/s1661/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fb%2F3
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/111/383/s514/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs514%2Fa%2F2
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4213
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg

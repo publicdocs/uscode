@@ -29,7 +29,7 @@
 
         (3) the chief, and one assistant to the chief, of any technical service, bureau, or office.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 9][/us/stat/70A/9]; [Pub. L. 104–106, div. A, title X, § 1061(e)(1)][/us/pl/104/106/s1061/e/1], Feb. 10, 1996, [110 Stat. 443][/us/stat/110/443].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 9][/us/stat/70A/9]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1061(e)(1), Feb. 10, 1996, [110 Stat. 443][/us/stat/110/443].)
 
 <table>
 
@@ -136,7 +136,7 @@ July 16, 1952, ch. 882, §§ 1, 7 (as applicable to § 1), 66 Stat. 725, 726
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F9
-[/us/pl/104/106/s1061/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1061%2Fe%2F1
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F443
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14

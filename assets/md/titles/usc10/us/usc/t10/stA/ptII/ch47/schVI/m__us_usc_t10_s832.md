@@ -77,7 +77,7 @@
 
         (2) is named in one of the specifications.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 48][/us/stat/70A/48]; [Pub. L. 97–81, § 4(a)][/us/pl/97/81/s4/a], Nov. 20, 1981, [95 Stat. 1088][/us/stat/95/1088]; [Pub. L. 104–106, div. A, title XI, § 1131][/us/pl/104/106/s1131], Feb. 10, 1996, [110 Stat. 464][/us/stat/110/464]; [Pub. L. 113–66, div. A, title XVII, § 1702(a)(1)][/us/pl/113/66/s1702/a/1], Dec. 26, 2013, [127 Stat. 954][/us/stat/127/954]; [Pub. L. 113–291, div. A, title V, § 531(a)(4)(A)][/us/pl/113/291/s531/a/4/A], Dec. 19, 2014, [128 Stat. 3363][/us/stat/128/3363].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 48][/us/stat/70A/48]; [Pub. L. 97–81][/us/pl/97/81], § 4(a), Nov. 20, 1981, [95 Stat. 1088][/us/stat/95/1088]; [Pub. L. 104–106, div. A, title XI][/us/pl/104/106/dA/tXI], § 1131, Feb. 10, 1996, [110 Stat. 464][/us/stat/110/464]; [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1702(a)(1), Dec. 26, 2013, [127 Stat. 954][/us/stat/127/954]; [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 531(a)(4)(A), Dec. 19, 2014, [128 Stat. 3363][/us/stat/128/3363].)
 
 <table>
 
@@ -193,13 +193,13 @@ May 5, 1950, ch. 169, § 1 (Art. 32), 64 Stat. 118.  </td>
 [/us/usc/t10/s838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs838
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F48
-[/us/pl/97/81/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81%2Fs4%2Fa
+[/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/stat/95/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1088
-[/us/pl/104/106/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1131
+[/us/pl/104/106/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXI
 [/us/stat/110/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F464
-[/us/pl/113/66/s1702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fa%2F1
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F954
-[/us/pl/113/291/s531/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fa%2F4%2FA
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3363
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66

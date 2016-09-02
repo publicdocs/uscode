@@ -31,13 +31,13 @@
 
     A memorandum of understanding or related agreement referred to in subsection (a) may not be entered into or implemented if the President, taking into consideration the results of the inter-agency review, determines that such memorandum of understanding or related agreement has or is likely to have a significant adverse effect on United States industry that outweighs the benefits of entering into or implementing such memorandum or agreement.
 
-(Added [Pub. L. 100–456, div. A, title VIII, § 824][/us/pl/100/456/s824], Sept. 29, 1988, [102 Stat. 2019][/us/stat/102/2019], § 2504; amended [Pub. L. 101–189, div. A, title VIII, § 815(a)][/us/pl/101/189/s815/a], Nov. 29, 1989, [103 Stat. 1500][/us/stat/103/1500]; [Pub. L. 101–510, div. A, title XIV, § 1453][/us/pl/101/510/s1453], Nov. 5, 1990, [104 Stat. 1694][/us/stat/104/1694]; renumbered § 2531 and amended [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484], §§ 4202(a), 4271(c), Oct. 23, 1992, [106 Stat. 2659][/us/stat/106/2659], 2696.)
+(Added [Pub. L. 100–456, div. A, title VIII][/us/pl/100/456/dA/tVIII], § 824, Sept. 29, 1988, [102 Stat. 2019][/us/stat/102/2019], § 2504; amended [Pub. L. 101–189, div. A, title VIII][/us/pl/101/189/dA/tVIII], § 815(a), Nov. 29, 1989, [103 Stat. 1500][/us/stat/103/1500]; [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1453, Nov. 5, 1990, [104 Stat. 1694][/us/stat/104/1694]; renumbered § 2531 and amended [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], §§ 4202(a), 4271(c), Oct. 23, 1992, [106 Stat. 2659][/us/stat/106/2659], 2696.)
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–484, § 4202(a)][/us/pl/102/484/s4202/a], renumbered [section 2504 of this title][/us/usc/t10/s2504] as this section.
+    1992—[Pub. L. 102–484][/us/pl/102/484], § 4202(a), renumbered [section 2504 of this title][/us/usc/t10/s2504] as this section.
 
-    Subsec. (a)(1). [Pub. L. 102–484, § 4271(c)][/us/pl/102/484/s4271/c], substituted “defense technology and industrial base” for “defense industrial base”.
+    Subsec. (a)(1). [Pub. L. 102–484][/us/pl/102/484], § 4271(c), substituted “defense technology and industrial base” for “defense industrial base”.
 
     1990—Subsec. (a). [Pub. L. 101–510][/us/pl/101/510] inserted “or to the reciprocal procurement of defense items,” after “defense equipment,” in introductory provisions.
 
@@ -49,7 +49,7 @@
 
  __Defense Trade Reciprocity__ 
 
-[Pub. L. 108–375, div. A, title VIII, § 831][/us/pl/108/375/s831], Oct. 28, 2004, [118 Stat. 2017][/us/stat/118/2017], provided that:
+[Pub. L. 108–375, div. A, title VIII][/us/pl/108/375/dA/tVIII], § 831, Oct. 28, 2004, [118 Stat. 2017][/us/stat/118/2017], provided that:
 
 >     “(a)  __Policy__  __.—__ 
 
@@ -90,20 +90,20 @@
 ----------
 ----------
 
-[/us/pl/100/456/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs824
+[/us/pl/100/456/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVIII
 [/us/stat/102/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2019
-[/us/pl/101/189/s815/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs815%2Fa
+[/us/pl/101/189/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVIII
 [/us/stat/103/1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1500
-[/us/pl/101/510/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1453
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1694
-[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2659
-[/us/pl/102/484/s4202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4202%2Fa
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t10/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2504
-[/us/pl/102/484/s4271/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4271%2Fc
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
-[/us/pl/108/375/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs831
+[/us/pl/108/375/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVIII
 [/us/stat/118/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2017
 [/us/usc/t10/s2531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2531%2Fa
 [/us/usc/t22/s2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2767

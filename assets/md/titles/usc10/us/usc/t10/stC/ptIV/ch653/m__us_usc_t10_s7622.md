@@ -31,7 +31,7 @@
 
     (d) Upon acceptance of payment by the claimant, the settlement or compromise of a claim under this section is final and conclusive notwithstanding any other provision of law.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 472][/us/stat/70A/472]; [Pub. L. 89–67][/us/pl/89/67], July 7, 1965, [79 Stat. 212][/us/stat/79/212]; [Pub. L. 92–417, § 1(5)][/us/pl/92/417/s1/5], Aug. 29, 1972, [86 Stat. 654][/us/stat/86/654]; [Pub. L. 101–189, div. A, title XVI, § 1633][/us/pl/101/189/s1633], Nov. 29, 1989, [103 Stat. 1608][/us/stat/103/1608]; [Pub. L. 107–107, div. A, title X, § 1014(a)][/us/pl/107/107/s1014/a], Dec. 28, 2001, [115 Stat. 1212][/us/stat/115/1212].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 472][/us/stat/70A/472]; [Pub. L. 89–67][/us/pl/89/67], July 7, 1965, [79 Stat. 212][/us/stat/79/212]; [Pub. L. 92–417][/us/pl/92/417], § 1(5), Aug. 29, 1972, [86 Stat. 654][/us/stat/86/654]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1633, Nov. 29, 1989, [103 Stat. 1608][/us/stat/103/1608]; [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1014(a), Dec. 28, 2001, [115 Stat. 1212][/us/stat/115/1212].)
 
 <table>
 
@@ -93,7 +93,7 @@ July 3, 1944, ch. 399, § 9; added Aug. 2, 1946, ch. 739, 60 Stat. 803.  </td>
 
 </table>
 
-    In subsection (a) the words “consider, ascertain, adjust, determine” are omitted as covered by the word “settle”, as defined in [§ 7621(b) of this title][/us/usc/t10/s7621/b]. The words “vessel in the naval service” are substituted for the words “vessels of the Navy or in the naval service”, in view of the definition in [§ 7621(a) of this title][/us/usc/t10/s7621/a]. The words “pay in an amount not more than $1,000,000, a claim” are substituted for the words “pay the amount of any claim, so determined, compromised, or settled” and for the words “the payment of any claim on which a net amount exceeding $1,000,000 is determined to be due from the United States, or which is compromised or settled at a net amount exceeding $1,000,000 payable by the United States, shall not be authorized by this section”.
+    In subsection (a) the words “consider, ascertain, adjust, determine” are omitted as covered by the word “settle”, as defined in § 7621(b) of this title. The words “vessel in the naval service” are substituted for the words “vessels of the Navy or in the naval service”, in view of the definition in § 7621(a) of this title. The words “pay in an amount not more than $1,000,000, a claim” are substituted for the words “pay the amount of any claim, so determined, compromised, or settled” and for the words “the payment of any claim on which a net amount exceeding $1,000,000 is determined to be due from the United States, or which is compromised or settled at a net amount exceeding $1,000,000 payable by the United States, shall not be authorized by this section”.
 
     In subsection (c) the words “In any case where the amount to be paid is not more than” are substituted for the words “When the net amount paid in settlement does not exceed” for clarity, since the delegation necessarily precedes payment. The words “the Secretary may delegate his authority” are substituted for the words “the authority of the Secretary of the Navy \* \* \* may be exercised by” for clarity.
 
@@ -103,9 +103,9 @@ July 3, 1944, ch. 399, § 9; added Aug. 2, 1946, ch. 739, 60 Stat. 803.  </td>
 
  __Amendments__ 
 
-    2001—Subsecs. (a), (b). [Pub. L. 107–107, § 1014(a)(1)][/us/pl/107/107/s1014/a/1], substituted “$15,000,000” for “$1,000,000”.
+    2001—Subsecs. (a), (b). [Pub. L. 107–107][/us/pl/107/107], § 1014(a)(1), substituted “$15,000,000” for “$1,000,000”.
 
-    Subsec. (c). [Pub. L. 107–107, § 1014(a)(2)][/us/pl/107/107/s1014/a/2], substituted “$1,000,000” for “$100,000”.
+    Subsec. (c). [Pub. L. 107–107][/us/pl/107/107], § 1014(a)(2), substituted “$1,000,000” for “$100,000”.
 
     1989—Subsec. (c). [Pub. L. 101–189][/us/pl/101/189] substituted “$100,000” for “$10,000”.
 
@@ -115,7 +115,7 @@ July 3, 1944, ch. 399, § 9; added Aug. 2, 1946, ch. 739, 60 Stat. 803.  </td>
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–107, div. A, title X, § 1014(c)][/us/pl/107/107/s1014/c], Dec. 28, 2001, [115 Stat. 1212][/us/stat/115/1212], provided that: 
+[Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1014(c), Dec. 28, 2001, [115 Stat. 1212][/us/stat/115/1212], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 7623 of this title][/us/usc/t10/s7623]\] shall apply with respect to any claim accruing on or after February 1, 2001.”
 
@@ -130,22 +130,20 @@ July 3, 1944, ch. 399, § 9; added Aug. 2, 1946, ch. 739, 60 Stat. 803.  </td>
 [/us/stat/70A/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F472
 [/us/pl/89/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F67
 [/us/stat/79/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F212
-[/us/pl/92/417/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F417%2Fs1%2F5
+[/us/pl/92/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F417
 [/us/stat/86/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F654
-[/us/pl/101/189/s1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1633
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1608
-[/us/pl/107/107/s1014/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1014%2Fa
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1212
-[/us/usc/t10/s7621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7621%2Fb
-[/us/usc/t10/s7621/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7621%2Fa
 [/us/usc/t46/s797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs797
 [/us/usc/t46/s797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs797
-[/us/pl/107/107/s1014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1014%2Fa%2F1
-[/us/pl/107/107/s1014/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1014%2Fa%2F2
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/92/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F417
 [/us/pl/89/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F67
-[/us/pl/107/107/s1014/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1014%2Fc
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1212
 [/us/usc/t10/s7623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7623
 

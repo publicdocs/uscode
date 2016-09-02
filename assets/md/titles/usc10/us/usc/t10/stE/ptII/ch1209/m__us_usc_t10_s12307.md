@@ -17,7 +17,7 @@
 
     A member in the Retired Reserve may, if qualified, be ordered to active duty without his consent, but only as provided in section 688 or 12301(a) of this title. A member of the Retired Reserve (other than a member transferred to the Retired Reserve under [section 12641(b) of this title][/us/usc/t10/s12641/b]) who is ordered to active duty or other appropriate duty in a retired status may be credited under chapter 1223 of this title with service performed pursuant to such order. A member in a retired status is not eligible for promotion (or for consideration for promotion) as a Reserve.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 29][/us/stat/70A/29], § 675; [Pub. L. 98–94, title X, § 1017(a)][/us/pl/98/94/s1017/a], Sept. 24, 1983, [97 Stat. 669][/us/stat/97/669]; [Pub. L. 101–189, div. A, title VI, § 651(d)][/us/pl/101/189/s651/d], Nov. 29, 1989, [103 Stat. 1461][/us/stat/103/1461]; renumbered § 12307 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337], §§ 1662(e)(2), 1675(c)(5), Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992], 3017; [Pub. L. 104–106, div. A, title XV, § 1501(b)(17)][/us/pl/104/106/s1501/b/17], Feb. 10, 1996, [110 Stat. 497][/us/stat/110/497].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 29][/us/stat/70A/29], § 675; [Pub. L. 98–94, title X][/us/pl/98/94/tX], § 1017(a), Sept. 24, 1983, [97 Stat. 669][/us/stat/97/669]; [Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 651(d), Nov. 29, 1989, [103 Stat. 1461][/us/stat/103/1461]; renumbered § 12307 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], §§ 1662(e)(2), 1675(c)(5), Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992], 3017; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(17), Feb. 10, 1996, [110 Stat. 497][/us/stat/110/497].)
 
 <table>
 
@@ -67,9 +67,9 @@ July 9, 1952, ch. 608, § 207(c), 66 Stat. 483.  </td>
 
     1996—[Pub. L. 104–106][/us/pl/104/106] substituted “Retired Reserve (other” for “Ready Reserve (other”.
 
-    1994—[Pub. L. 103–337, § 1675(c)(5)][/us/pl/103/337/s1675/c/5], substituted “688 or 12301(a)” for “672(a) or 688”, “12641(b)” for “1001(b)”, and “1223” for “67”.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 1675(c)(5), substituted “688 or 12301(a)” for “672(a) or 688”, “12641(b)” for “1001(b)”, and “1223” for “67”.
 
-    [Pub. L. 103–337, § 1662(e)(2)][/us/pl/103/337/s1662/e/2], renumbered [section 675 of this title][/us/usc/t10/s675] as this section.
+    [Pub. L. 103–337][/us/pl/103/337], § 1662(e)(2), renumbered [section 675 of this title][/us/usc/t10/s675] as this section.
 
     1989—[Pub. L. 101–189][/us/pl/101/189] inserted at end “A member of the Ready Reserve (other than a member transferred to the Retired Reserve under [section 1001(b) of this title][/us/usc/t10/s1001/b]) who is ordered to active duty or other appropriate duty in a retired status may be credited under chapter 67 of this title with service performed pursuant to such order. A member in a retired status is not eligible for promotion (or for consideration for promotion) as a Reserve.”
 
@@ -93,17 +93,17 @@ July 9, 1952, ch. 608, § 207(c), 66 Stat. 483.  </td>
 [/us/usc/t10/s12641/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12641%2Fb
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F29
-[/us/pl/98/94/s1017/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1017%2Fa
+[/us/pl/98/94/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtX
 [/us/stat/97/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F669
-[/us/pl/101/189/s651/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs651%2Fd
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1461
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2992
-[/us/pl/104/106/s1501/b/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F17
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F497
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/337/s1675/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1675%2Fc%2F5
-[/us/pl/103/337/s1662/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fe%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs675
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t10/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1001%2Fb

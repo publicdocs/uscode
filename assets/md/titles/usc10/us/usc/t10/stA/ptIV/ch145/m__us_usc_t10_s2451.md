@@ -31,7 +31,7 @@
 
     (d) The Secretary shall coordinate with the Administrator of General Services to enable the use of commercial identifiers for commercial items within the Federal cataloging system.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 138][/us/stat/70A/138]; [Pub. L. 85–861, § 33(a)(13)][/us/pl/85/861/s33/a/13], Sept. 2, 1958, [72 Stat. 1565][/us/stat/72/1565]; [Pub. L. 108–136, div. A, title III, § 341][/us/pl/108/136/s341], Nov. 24, 2003, [117 Stat. 1448][/us/stat/117/1448].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 138][/us/stat/70A/138]; [Pub. L. 85–861][/us/pl/85/861], § 33(a)(13), Sept. 2, 1958, [72 Stat. 1565][/us/stat/72/1565]; [Pub. L. 108–136, div. A, title III][/us/pl/108/136/dA/tIII], § 341, Nov. 24, 2003, [117 Stat. 1448][/us/stat/117/1448].)
 
 <table>
 
@@ -115,7 +115,7 @@ July 1, 1952, ch. 539, §§ 2, 4, 66 Stat. 318, 319; 1953 Reorg. Plan No. 6, �
 
  __Defense-Wide Electronic Mall System for Supply Purchases__ 
 
-[Pub. L. 105–261, div. A, title III, § 332][/us/pl/105/261/s332], Oct. 17, 1998, [112 Stat. 1968][/us/stat/112/1968], provided that:
+[Pub. L. 105–261, div. A, title III][/us/pl/105/261/dA/tIII], § 332, Oct. 17, 1998, [112 Stat. 1968][/us/stat/112/1968], provided that:
 
 >     “(a)  __Electronic Mall System Defined__  __.—__ 
 
@@ -145,11 +145,11 @@ July 1, 1952, ch. 539, §§ 2, 4, 66 Stat. 318, 319; 1953 Reorg. Plan No. 6, �
 
  __Standardization and Interoperability of NATO Weapons__ 
 
-    [Pub. L. 94–361, title VIII, § 803][/us/pl/94/361/s803], July 14, 1976, [90 Stat. 930][/us/stat/90/930], which expressed the sense of Congress that the weapons systems of the NATO Allies be standardized and interoperable, that this goal would be facilitated by inter-allied procurement of arms and closer intra-European collaboration in arms procurement, and directed the Secretary of Defense to negotiate with the Allies toward these ends and to report to Congress on actions and programs undertaken to achieve them, was repealed and restated in [section 2457 of this title][/us/usc/t10/s2457] by [Pub. L. 97–295][/us/pl/97/295], §§ 1(30)(A), 6(b), Oct. 12, 1982, [96 Stat. 1294][/us/stat/96/1294], 1314.
+    [Pub. L. 94–361, title VIII][/us/pl/94/361/tVIII], § 803, July 14, 1976, [90 Stat. 930][/us/stat/90/930], which expressed the sense of Congress that the weapons systems of the NATO Allies be standardized and interoperable, that this goal would be facilitated by inter-allied procurement of arms and closer intra-European collaboration in arms procurement, and directed the Secretary of Defense to negotiate with the Allies toward these ends and to report to Congress on actions and programs undertaken to achieve them, was repealed and restated in [section 2457 of this title][/us/usc/t10/s2457] by [Pub. L. 97–295][/us/pl/97/295], §§ 1(30)(A), 6(b), Oct. 12, 1982, [96 Stat. 1294][/us/stat/96/1294], 1314.
 
-    [Pub. L. 94–106, title VIII, § 814(a)][/us/pl/94/106/s814/a], (b), Oct. 7, 1975, [89 Stat. 540][/us/stat/89/540], as amended by [Pub. L. 94–361, title VIII, § 802][/us/pl/94/361/s802], July 14, 1976, [90 Stat. 930][/us/stat/90/930], which had provided that it was the policy of the United States that the equipment of our armed forces in Europe be standardized or at least interoperable with that of our NATO Allies, directed the Secretary of Defense to carry out procurement policies toward this end and to report to Congress on any agreements with the Allies involving exchange of equipment manufactured in the United States for equipment manufactured outside it, authorized the Secretary to find such agreements contrary to the public interest and required him to report on the procurement of any major weapons system not in accord with these policies, was repealed and restated in [section 2457 of this title][/us/usc/t10/s2457] by [Pub. L. 97–295][/us/pl/97/295], §§ 1(30)(A), 6(b), Oct. 12, 1982, [96 Stat. 1294][/us/stat/96/1294], 1314.
+    [Pub. L. 94–106, title VIII][/us/pl/94/106/tVIII], § 814(a), (b), Oct. 7, 1975, [89 Stat. 540][/us/stat/89/540], as amended by [Pub. L. 94–361, title VIII][/us/pl/94/361/tVIII], § 802, July 14, 1976, [90 Stat. 930][/us/stat/90/930], which had provided that it was the policy of the United States that the equipment of our armed forces in Europe be standardized or at least interoperable with that of our NATO Allies, directed the Secretary of Defense to carry out procurement policies toward this end and to report to Congress on any agreements with the Allies involving exchange of equipment manufactured in the United States for equipment manufactured outside it, authorized the Secretary to find such agreements contrary to the public interest and required him to report on the procurement of any major weapons system not in accord with these policies, was repealed and restated in [section 2457 of this title][/us/usc/t10/s2457] by [Pub. L. 97–295][/us/pl/97/295], §§ 1(30)(A), 6(b), Oct. 12, 1982, [96 Stat. 1294][/us/stat/96/1294], 1314.
 
-    [Pub. L. 93–365, title III, § 302(c)][/us/pl/93/365/s302/c], Aug. 5, 1974, [88 Stat. 402][/us/stat/88/402], as amended by [Pub. L. 94–106, title VIII, § 814(c)][/us/pl/94/106/s814/c], Oct. 7, 1975, [89 Stat. 540][/us/stat/89/540]; [Pub. L. 97–252, title XI, § 1121][/us/pl/97/252/s1121], Sept. 8, 1982, [96 Stat. 754][/us/stat/96/754], which had directed the Secretary of Defense to assess the costs and possible loss of effectiveness from the failure of the NATO Allies to standardize equipment, to suggest standardization actions, and to report these matters to the Allies and Congress and to Congress annually on them and results obtained with the Allies, was repealed and restated in [section 2457 of this title][/us/usc/t10/s2457] by [Pub. L. 97–295][/us/pl/97/295], §§ 1(30)(A), 6(b), Oct. 12, 1982, [96 Stat. 1294][/us/stat/96/1294], 1314.
+    [Pub. L. 93–365, title III][/us/pl/93/365/tIII], § 302(c), Aug. 5, 1974, [88 Stat. 402][/us/stat/88/402], as amended by [Pub. L. 94–106, title VIII][/us/pl/94/106/tVIII], § 814(c), Oct. 7, 1975, [89 Stat. 540][/us/stat/89/540]; [Pub. L. 97–252, title XI][/us/pl/97/252/tXI], § 1121, Sept. 8, 1982, [96 Stat. 754][/us/stat/96/754], which had directed the Secretary of Defense to assess the costs and possible loss of effectiveness from the failure of the NATO Allies to standardize equipment, to suggest standardization actions, and to report these matters to the Allies and Congress and to Congress annually on them and results obtained with the Allies, was repealed and restated in [section 2457 of this title][/us/usc/t10/s2457] by [Pub. L. 97–295][/us/pl/97/295], §§ 1(30)(A), 6(b), Oct. 12, 1982, [96 Stat. 1294][/us/stat/96/1294], 1314.
 
 ----------
 
@@ -160,9 +160,9 @@ July 1, 1952, ch. 539, §§ 2, 4, 66 Stat. 318, 319; 1953 Reorg. Plan No. 6, �
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F138
-[/us/pl/85/861/s33/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F13
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1565
-[/us/pl/108/136/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs341
+[/us/pl/108/136/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIII
 [/us/stat/117/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1448
 [/us/stat/67/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F638
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
@@ -170,25 +170,25 @@ July 1, 1952, ch. 539, §§ 2, 4, 66 Stat. 318, 319; 1953 Reorg. Plan No. 6, �
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/pl/85/861/s33/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/105/261/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs332
+[/us/pl/105/261/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIII
 [/us/stat/112/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1968
-[/us/pl/94/361/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F361%2Fs803
+[/us/pl/94/361/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F361%2FtVIII
 [/us/stat/90/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F930
 [/us/usc/t10/s2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2457
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1294
-[/us/pl/94/106/s814/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106%2Fs814%2Fa
+[/us/pl/94/106/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106%2FtVIII
 [/us/stat/89/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F540
-[/us/pl/94/361/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F361%2Fs802
+[/us/pl/94/361/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F361%2FtVIII
 [/us/stat/90/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F930
 [/us/usc/t10/s2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2457
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1294
-[/us/pl/93/365/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F365%2Fs302%2Fc
+[/us/pl/93/365/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F365%2FtIII
 [/us/stat/88/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F402
-[/us/pl/94/106/s814/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106%2Fs814%2Fc
+[/us/pl/94/106/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106%2FtVIII
 [/us/stat/89/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F540
-[/us/pl/97/252/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1121
+[/us/pl/97/252/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtXI
 [/us/stat/96/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F754
 [/us/usc/t10/s2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2457
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295

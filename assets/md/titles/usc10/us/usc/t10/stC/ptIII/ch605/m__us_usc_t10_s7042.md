@@ -79,7 +79,7 @@
 
         (2) the administration of the Postgraduate School.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 437][/us/stat/70A/437]; [Pub. L. 96–513, title V, § 503(53)][/us/pl/96/513/s503/53], Dec. 12, 1980, [94 Stat. 2915][/us/stat/94/2915]; [Pub. L. 108–375, div. A, title V, § 557(a)(3)][/us/pl/108/375/s557/a/3], Oct. 28, 2004, [118 Stat. 1915][/us/stat/118/1915]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163], §§ 523(b), 524, Jan. 6, 2006, [119 Stat. 3244][/us/stat/119/3244], 3245; [Pub. L. 109–364, div. A, title V, § 508][/us/pl/109/364/s508], Oct. 17, 2006, [120 Stat. 2180][/us/stat/120/2180]; [Pub. L. 111–383, div. A, title X, § 1075(b)(49)][/us/pl/111/383/s1075/b/49], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 437][/us/stat/70A/437]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 503(53), Dec. 12, 1980, [94 Stat. 2915][/us/stat/94/2915]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 557(a)(3), Oct. 28, 2004, [118 Stat. 1915][/us/stat/118/1915]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], §§ 523(b), 524, Jan. 6, 2006, [119 Stat. 3244][/us/stat/119/3244], 3245; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 508, Oct. 17, 2006, [120 Stat. 2180][/us/stat/120/2180]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(49), Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371].)
 
 <table>
 
@@ -135,9 +135,9 @@ July 31, 1947, ch. 420, § 2, 61 Stat. 705.  </td>
 
     2006—Subsec. (a). [Pub. L. 109–364][/us/pl/109/364] amended subsec. (a) generally. Prior to amendment, subsec. (a) related to assignment of an officer of the Navy in a grade not below the grade of captain or an appropriately qualified civilian individual to the position of President of the Naval Postgraduate School.
 
-    [Pub. L. 109–163, § 524][/us/pl/109/163/s524], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of the Navy shall detail as President of the Naval Postgraduate School an officer on the active-duty list in the line of the Navy eligible for command at sea not below the grade of captain. The President has military command of the Postgraduate School.”
+    [Pub. L. 109–163][/us/pl/109/163], § 524, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of the Navy shall detail as President of the Naval Postgraduate School an officer on the active-duty list in the line of the Navy eligible for command at sea not below the grade of captain. The President has military command of the Postgraduate School.”
 
-    Subsec. (b)(1). [Pub. L. 109–163, § 523(b)][/us/pl/109/163/s523/b], substituted “and professional and technical education of students and the provision of research opportunities for students” for “and technical education of students”.
+    Subsec. (b)(1). [Pub. L. 109–163][/us/pl/109/163], § 523(b), substituted “and professional and technical education of students and the provision of research opportunities for students” for “and technical education of students”.
 
     2004—[Pub. L. 108–375][/us/pl/108/375] substituted “President” for “Superintendent” wherever appearing in section catchline and text.
 
@@ -145,7 +145,7 @@ July 31, 1947, ch. 420, § 2, 61 Stat. 705.  </td>
 
  __Change of Name__ 
 
-[Pub. L. 108–375, div. A, title V, § 557(a)(1)][/us/pl/108/375/s557/a/1], (2), Oct. 28, 2004, [118 Stat. 1915][/us/stat/118/1915], provided that:
+[Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 557(a)(1), (2), Oct. 28, 2004, [118 Stat. 1915][/us/stat/118/1915], provided that:
 
 >     “(1) The position of Superintendent of the Naval Postgraduate School is redesignated as President of the Naval Postgraduate School.
 
@@ -164,23 +164,23 @@ July 31, 1947, ch. 420, § 2, 61 Stat. 705.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F437
-[/us/pl/96/513/s503/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs503%2F53
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2915
-[/us/pl/108/375/s557/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs557%2Fa%2F3
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1915
-[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3244
-[/us/pl/109/364/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs508
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2180
-[/us/pl/111/383/s1075/b/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F49
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4371
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/109/163/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs524
-[/us/pl/109/163/s523/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs523%2Fb
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
-[/us/pl/108/375/s557/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs557%2Fa%2F1
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1915
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701

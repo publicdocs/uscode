@@ -67,11 +67,11 @@
 
         (3) The regulations under paragraph (1) shall specify the effect of a determination or pending determination of a Physical Evaluation Board on considerations by boards for correction of military records under [section 1552 of this title][/us/usc/t10/s1552].
 
-(Added [Pub. L. 110–181, div. A, title XVI, § 1643(a)(1)][/us/pl/110/181/s1643/a/1], Jan. 28, 2008, [122 Stat. 465][/us/stat/122/465].)
+(Added [Pub. L. 110–181, div. A, title XVI][/us/pl/110/181/dA/tXVI], § 1643(a)(1), Jan. 28, 2008, [122 Stat. 465][/us/stat/122/465].)
 
  __Implementation__ 
 
-[Pub. L. 110–181, div. A, title XVI, § 1643(b)][/us/pl/110/181/s1643/b], Jan. 28, 2008, [122 Stat. 467][/us/stat/122/467], provided that: 
+[Pub. L. 110–181, div. A, title XVI][/us/pl/110/181/dA/tXVI], § 1643(b), Jan. 28, 2008, [122 Stat. 467][/us/stat/122/467], provided that: 
 
 > “The Secretary of Defense shall establish the board of review required by [section 1554a of title 10][/us/usc/t10/s1554a], United States Code (as added by subsection (a)), and prescribe the regulations required by such section, not later than 90 days after the date of the enactment of this Act \[Jan. 28, 2008\].”
 
@@ -83,9 +83,9 @@
 ----------
 
 [/us/usc/t10/s1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1552
-[/us/pl/110/181/s1643/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1643%2Fa%2F1
+[/us/pl/110/181/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVI
 [/us/stat/122/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F465
-[/us/pl/110/181/s1643/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1643%2Fb
+[/us/pl/110/181/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVI
 [/us/stat/122/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F467
 [/us/usc/t10/s1554a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1554a
 

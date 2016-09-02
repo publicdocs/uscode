@@ -59,11 +59,11 @@
 
             (B) The term “head of an agency” means the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force.
 
-(Added [Pub. L. 107–314, div. A, title VIII, § 801(a)(1)][/us/pl/107/314/s801/a/1], Dec. 2, 2002, [116 Stat. 2600][/us/stat/116/2600]; amended [Pub. L. 108–136, div. A, title X, § 1043(b)(11)][/us/pl/108/136/s1043/b/11], Nov. 24, 2003, [117 Stat. 1611][/us/stat/117/1611].)
+(Added [Pub. L. 107–314, div. A, title VIII][/us/pl/107/314/dA/tVIII], § 801(a)(1), Dec. 2, 2002, [116 Stat. 2600][/us/stat/116/2600]; amended [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1043(b)(11), Nov. 24, 2003, [117 Stat. 1611][/us/stat/117/1611].)
 
  __Prior Provisions__ 
 
-    A prior section 2308, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 131][/us/stat/70A/131]; Oct. 23, 1992, [Pub. L. 102–484, div. A, title VIII, § 820(a)][/us/pl/102/484/s820/a], [106 Stat. 2458][/us/stat/106/2458]; May 31, 1993, [Pub. L. 103–35, title II, § 201(e)(2)][/us/pl/103/35/s201/e/2], [107 Stat. 99][/us/stat/107/99]; Nov. 30, 1993, [Pub. L. 103–160, div. A, title IX, § 904(d)(1)][/us/pl/103/160/s904/d/1], [107 Stat. 1728][/us/stat/107/1728], related to assignment and delegation of procurement functions and responsibilities, prior to repeal by [Pub. L. 103–355, title I, § 1503(b)(1)][/us/pl/103/355/s1503/b/1], title X, § 10001, Oct. 13, 1994, [108 Stat. 3297][/us/stat/108/3297], 3404, effective Oct. 13, 1994, except as otherwise provided.
+    A prior section 2308, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 131][/us/stat/70A/131]; Oct. 23, 1992, [Pub. L. 102–484, div. A, title VIII][/us/pl/102/484/dA/tVIII], § 820(a), [106 Stat. 2458][/us/stat/106/2458]; May 31, 1993, [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 201(e)(2), [107 Stat. 99][/us/stat/107/99]; Nov. 30, 1993, [Pub. L. 103–160, div. A, title IX][/us/pl/103/160/dA/tIX], § 904(d)(1), [107 Stat. 1728][/us/stat/107/1728], related to assignment and delegation of procurement functions and responsibilities, prior to repeal by [Pub. L. 103–355, title I][/us/pl/103/355/tI], § 1503(b)(1), title X, § 10001, Oct. 13, 1994, [108 Stat. 3297][/us/stat/108/3297], 3404, effective Oct. 13, 1994, except as otherwise provided.
 
  __Amendments__ 
 
@@ -75,7 +75,7 @@
 
  __Time for Issuance of Final Regulations__ 
 
-[Pub. L. 107–314, div. A, title VIII, § 801(b)][/us/pl/107/314/s801/b], Dec. 2, 2002, [116 Stat. 2602][/us/stat/116/2602], provided that: 
+[Pub. L. 107–314, div. A, title VIII][/us/pl/107/314/dA/tVIII], § 801(b), Dec. 2, 2002, [116 Stat. 2602][/us/stat/116/2602], provided that: 
 
 > “The Secretary of Defense shall issue the final regulations under [section 2308(b) of title 10][/us/usc/t10/s2308/b], United States Code (as added by subsection (a)), not later than 120 days after the date of the enactment of this Act \[Dec. 2, 2002\].”
 
@@ -87,22 +87,22 @@
 ----------
 
 [/us/usc/t10/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304
-[/us/pl/107/314/s801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs801%2Fa%2F1
+[/us/pl/107/314/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVIII
 [/us/stat/116/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2600
-[/us/pl/108/136/s1043/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1043%2Fb%2F11
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1611
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F131
-[/us/pl/102/484/s820/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs820%2Fa
+[/us/pl/102/484/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVIII
 [/us/stat/106/2458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2458
-[/us/pl/103/35/s201/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fe%2F2
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F99
-[/us/pl/103/160/s904/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs904%2Fd%2F1
+[/us/pl/103/160/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIX
 [/us/stat/107/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1728
-[/us/pl/103/355/s1503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1503%2Fb%2F1
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3297
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/107/314/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs801%2Fb
+[/us/pl/107/314/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVIII
 [/us/stat/116/2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2602
 [/us/usc/t10/s2308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2308%2Fb
 

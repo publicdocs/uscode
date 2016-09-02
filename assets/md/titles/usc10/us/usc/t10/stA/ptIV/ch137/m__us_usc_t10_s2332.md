@@ -117,7 +117,7 @@
 
     No share-in-savings contracts may be entered into under this section after September 30, 2005.
 
-(Added [Pub. L. 107–347, title II, § 210(a)(1)][/us/pl/107/347/s210/a/1], Dec. 17, 2002, [116 Stat. 2932][/us/stat/116/2932].)
+(Added [Pub. L. 107–347, title II][/us/pl/107/347/tII], § 210(a)(1), Dec. 17, 2002, [116 Stat. 2932][/us/stat/116/2932].)
 
  __Effective Date__ 
 
@@ -131,7 +131,7 @@
 ----------
 
 [/us/usc/t40/s11101/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101%2F6
-[/us/pl/107/347/s210/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs210%2Fa%2F1
+[/us/pl/107/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtII
 [/us/stat/116/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2932
 [/us/pl/107/347/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs402%2Fa
 [/us/usc/t44/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3601

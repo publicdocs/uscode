@@ -119,35 +119,35 @@
 
             (E) Such other officials (and their duties) as the Secretary of Defense considers appropriate.
 
-(Added [Pub. L. 108–375, div. A, title IX, § 913(a)(1)][/us/pl/108/375/s913/a/1], Oct. 28, 2004, [118 Stat. 2028][/us/stat/118/2028]; amended [Pub. L. 109–364, div. A, title IX, § 913(b)(1)][/us/pl/109/364/s913/b/1], Oct. 17, 2006, [120 Stat. 2355][/us/stat/120/2355]; [Pub. L. 112–239, div. A, title IX, § 914][/us/pl/112/239/s914], Jan. 2, 2013, [126 Stat. 1876][/us/stat/126/1876].)
+(Added [Pub. L. 108–375, div. A, title IX][/us/pl/108/375/dA/tIX], § 913(a)(1), Oct. 28, 2004, [118 Stat. 2028][/us/stat/118/2028]; amended [Pub. L. 109–364, div. A, title IX][/us/pl/109/364/dA/tIX], § 913(b)(1), Oct. 17, 2006, [120 Stat. 2355][/us/stat/120/2355]; [Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 914, Jan. 2, 2013, [126 Stat. 1876][/us/stat/126/1876].)
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 112–239, § 914(a)][/us/pl/112/239/s914/a], amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish within the Department of Defense an office to be known as the Operationally Responsive Space Program Office (in this section referred to as the ‘Office’).”
+    2013—Subsec. (a). [Pub. L. 112–239][/us/pl/112/239], § 914(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish within the Department of Defense an office to be known as the Operationally Responsive Space Program Office (in this section referred to as the ‘Office’).”
 
-    Subsec. (b). [Pub. L. 112–239, § 914(b)][/us/pl/112/239/s914/b], substituted “shall be the designee of the Department of Defense Executive Agent for Space. The head of the Office shall report to the Commander of the Air Force Space and Missile Systems Center.” for “shall be—
+    Subsec. (b). [Pub. L. 112–239][/us/pl/112/239], § 914(b), substituted “shall be the designee of the Department of Defense Executive Agent for Space. The head of the Office shall report to the Commander of the Air Force Space and Missile Systems Center.” for “shall be—
 
     “(1) the Department of Defense Executive Agent for Space; or
 
     “(2) the designee of the Secretary of Defense, who shall report to the Department of Defense Executive Agent for Space.”
 
-    Subsec. (c)(1). [Pub. L. 112–239, § 914(c)][/us/pl/112/239/s914/c], substituted “launch” for “spacelift”.
+    Subsec. (c)(1). [Pub. L. 112–239][/us/pl/112/239], § 914(c), substituted “launch” for “spacelift”.
 
-    Subsec. (e)(1). [Pub. L. 112–239, § 914(d)][/us/pl/112/239/s914/d], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Department of Defense Executive Agent for Space shall be the senior acquisition executive of the Office.”
+    Subsec. (e)(1). [Pub. L. 112–239][/us/pl/112/239], § 914(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Department of Defense Executive Agent for Space shall be the senior acquisition executive of the Office.”
 
-    Subsec. (g). [Pub. L. 112–239, § 914(e)][/us/pl/112/239/s914/e], added subsec. (g).
+    Subsec. (g). [Pub. L. 112–239][/us/pl/112/239], § 914(e), added subsec. (g).
 
     2006—[Pub. L. 109–364][/us/pl/109/364] amended section catchline and text generally, substituting provisions relating to establishment, control, mission, elements, and authority of the Operationally Responsive Space Program Office within the Department of Defense for provisions relating to requirement for a separate, dedicated program element for operationally responsive national security payloads and buses within budget program elements for space programs of the Department of Defense.
 
  __Effective Date__ 
 
-[Pub. L. 108–375, div. A, title IX, § 913(b)][/us/pl/108/375/s913/b], Oct. 28, 2004, [118 Stat. 2028][/us/stat/118/2028], provided that: 
+[Pub. L. 108–375, div. A, title IX][/us/pl/108/375/dA/tIX], § 913(b), Oct. 28, 2004, [118 Stat. 2028][/us/stat/118/2028], provided that: 
 
 > “Subsection (a) of [section 2273a of title 10][/us/usc/t10/s2273a], United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 2005.”
 
  __United States Policy on Operationally Responsive Space__ 
 
-[Pub. L. 109–364, div. A, title IX, § 913(a)][/us/pl/109/364/s913/a], Oct. 17, 2006, [120 Stat. 2355][/us/stat/120/2355], provided that: 
+[Pub. L. 109–364, div. A, title IX][/us/pl/109/364/dA/tIX], § 913(a), Oct. 17, 2006, [120 Stat. 2355][/us/stat/120/2355], provided that: 
 
 > “It is the policy of the United States to demonstrate, acquire, and deploy an effective capability for operationally responsive space to support military users and operations from space, which shall consist of—
 
@@ -161,7 +161,7 @@
 
  __Joint Operationally Responsive Space Payload Technology Organization__ 
 
-    [Pub. L. 109–163, div. A, title IX, § 913(a)][/us/pl/109/163/s913/a], Jan. 6, 2006, [119 Stat. 3408][/us/stat/119/3408], which directed the Secretary of Defense to establish or designate an organization in the Department of Defense to coordinate joint operationally responsive space payload technology, was repealed by [Pub. L. 109–364, div. A, title IX, § 913(d)][/us/pl/109/364/s913/d], Oct. 17, 2006, [120 Stat. 2358][/us/stat/120/2358].
+    [Pub. L. 109–163, div. A, title IX][/us/pl/109/163/dA/tIX], § 913(a), Jan. 6, 2006, [119 Stat. 3408][/us/stat/119/3408], which directed the Secretary of Defense to establish or designate an organization in the Department of Defense to coordinate joint operationally responsive space payload technology, was repealed by [Pub. L. 109–364, div. A, title IX][/us/pl/109/364/dA/tIX], § 913(d), Oct. 17, 2006, [120 Stat. 2358][/us/stat/120/2358].
 
 ----------
 
@@ -170,26 +170,26 @@
 ----------
 ----------
 
-[/us/pl/108/375/s913/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs913%2Fa%2F1
+[/us/pl/108/375/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIX
 [/us/stat/118/2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2028
-[/us/pl/109/364/s913/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs913%2Fb%2F1
+[/us/pl/109/364/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIX
 [/us/stat/120/2355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2355
-[/us/pl/112/239/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs914
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
 [/us/stat/126/1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1876
-[/us/pl/112/239/s914/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs914%2Fa
-[/us/pl/112/239/s914/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs914%2Fb
-[/us/pl/112/239/s914/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs914%2Fc
-[/us/pl/112/239/s914/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs914%2Fd
-[/us/pl/112/239/s914/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs914%2Fe
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/108/375/s913/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs913%2Fb
+[/us/pl/108/375/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIX
 [/us/stat/118/2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2028
 [/us/usc/t10/s2273a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2273a
-[/us/pl/109/364/s913/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs913%2Fa
+[/us/pl/109/364/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIX
 [/us/stat/120/2355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2355
-[/us/pl/109/163/s913/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs913%2Fa
+[/us/pl/109/163/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIX
 [/us/stat/119/3408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3408
-[/us/pl/109/364/s913/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs913%2Fd
+[/us/pl/109/364/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIX
 [/us/stat/120/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2358
 
 

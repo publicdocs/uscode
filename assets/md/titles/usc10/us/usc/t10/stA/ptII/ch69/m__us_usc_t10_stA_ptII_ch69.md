@@ -83,11 +83,11 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–337, div. A, title XVI, § 1671(b)(11)][/us/pl/103/337/s1671/b/11], Oct. 5, 1994, [108 Stat. 3013][/us/stat/108/3013], struck out item 1374 “Reserve commissioned officers: grade on retirement or transfer to Retired Reserve” and substituted “Temporary disability retired lists” for “Retired lists” in item 1376.
+    1994—[Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1671(b)(11), Oct. 5, 1994, [108 Stat. 3013][/us/stat/108/3013], struck out item 1374 “Reserve commissioned officers: grade on retirement or transfer to Retired Reserve” and substituted “Temporary disability retired lists” for “Retired lists” in item 1376.
 
-    1980—[Pub. L. 96–513, title V, § 501(20)][/us/pl/96/513/s501/20], Dec. 12, 1980, [94 Stat. 2908][/us/stat/94/2908], added item 1370.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], § 501(20), Dec. 12, 1980, [94 Stat. 2908][/us/stat/94/2908], added item 1370.
 
-    1958—[Pub. L. 85–861, § 1(30)][/us/pl/85/861/s1/30], Sept. 2, 1958, [72 Stat. 1451][/us/stat/72/1451], added item 1374.
+    1958—[Pub. L. 85–861][/us/pl/85/861], § 1(30), Sept. 2, 1958, [72 Stat. 1451][/us/stat/72/1451], added item 1374.
 
 ----------
 
@@ -96,11 +96,11 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1671/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1671%2Fb%2F11
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3013
-[/us/pl/96/513/s501/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs501%2F20
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2908
-[/us/pl/85/861/s1/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F30
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1451
 
 

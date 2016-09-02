@@ -79,11 +79,11 @@
 
         (2) The term “drug unapproved for its applied use” means a drug administered for a use not described in the approved labeling of the drug under section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355][/us/usc/t21/s355]).
 
-(Added [Pub. L. 105–85, div. A, title VII, § 766(a)][/us/pl/105/85/s766/a], Nov. 18, 1997, [111 Stat. 1827][/us/stat/111/1827]; amended [Pub. L. 105–261, div. A, title VII, § 731(a)(1)][/us/pl/105/261/s731/a/1], (b), Oct. 17, 1998, [112 Stat. 2070][/us/stat/112/2070], 2071; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X, § 1043(b)(7)][/us/pl/108/136/s1043/b/7], Nov. 24, 2003, [117 Stat. 1611][/us/stat/117/1611]; [Pub. L. 108–375, div. A, title VII, § 726(a)][/us/pl/108/375/s726/a], Oct. 28, 2004, [118 Stat. 1992][/us/stat/118/1992].)
+(Added [Pub. L. 105–85, div. A, title VII][/us/pl/105/85/dA/tVII], § 766(a), Nov. 18, 1997, [111 Stat. 1827][/us/stat/111/1827]; amended [Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 731(a)(1), (b), Oct. 17, 1998, [112 Stat. 2070][/us/stat/112/2070], 2071; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1043(b)(7), Nov. 24, 2003, [117 Stat. 1611][/us/stat/117/1611]; [Pub. L. 108–375, div. A, title VII][/us/pl/108/375/dA/tVII], § 726(a), Oct. 28, 2004, [118 Stat. 1992][/us/stat/118/1992].)
 
  __Amendments__ 
 
-    2004—Subsec. (f)(1). [Pub. L. 108–375, § 726(a)(1)][/us/pl/108/375/s726/a/1], substituted “obtaining consent is” for “obtaining consent—
+    2004—Subsec. (f)(1). [Pub. L. 108–375][/us/pl/108/375], § 726(a)(1), substituted “obtaining consent is” for “obtaining consent—
 
     “(A) is not feasible;
 
@@ -91,7 +91,7 @@
 
     “(C) is”.
 
-    Subsec. (f)(2). [Pub. L. 108–375, § 726(a)(2)][/us/pl/108/375/s726/a/2], added par. (2) and struck out former par. (2) which read as follows: “In making a determination to waive the prior consent requirement on a ground described in subparagraph (A) or (B) of paragraph (1), the President shall apply the standards and criteria that are set forth in the relevant FDA regulations for a waiver of the prior consent requirement on that ground.”
+    Subsec. (f)(2). [Pub. L. 108–375][/us/pl/108/375], § 726(a)(2), added par. (2) and struck out former par. (2) which read as follows: “In making a determination to waive the prior consent requirement on a ground described in subparagraph (A) or (B) of paragraph (1), the President shall apply the standards and criteria that are set forth in the relevant FDA regulations for a waiver of the prior consent requirement on that ground.”
 
     2003—Subsec. (f)(4)(C). [Pub. L. 108–136][/us/pl/108/136] struck out subpar. (C) which read as follows: “The term ‘congressional defense committee’ means each of the following:
 
@@ -101,21 +101,21 @@
 
     1999—Subsec. (f)(4)(C)(ii). [Pub. L. 106–65][/us/pl/106/65] substituted “Committee on Armed Services” for “Committee on National Security”.
 
-    1998—Subsec. (b). [Pub. L. 105–261, § 731(b)(1)][/us/pl/105/261/s731/b/1], struck out “, if practicable, but in no case later than 30 days after the drug is first administered to the member” after “administered to the member”.
+    1998—Subsec. (b). [Pub. L. 105–261][/us/pl/105/261], § 731(b)(1), struck out “, if practicable, but in no case later than 30 days after the drug is first administered to the member” after “administered to the member”.
 
-    Subsec. (c). [Pub. L. 105–261, § 731(b)(2)][/us/pl/105/261/s731/b/2], struck out “unless the Secretary of Defense determines that the use of written notice is impractical because of the number of members receiving the investigational new drug or drug unapproved for its applied use, time constraints, or similar reasons. If the Secretary provides notice under subsection (a)(1) in a form other than in writing, the Secretary shall submit to Congress a report describing the notification method used and the reasons for the use of the alternative method” after “provided in writing”.
+    Subsec. (c). [Pub. L. 105–261][/us/pl/105/261], § 731(b)(2), struck out “unless the Secretary of Defense determines that the use of written notice is impractical because of the number of members receiving the investigational new drug or drug unapproved for its applied use, time constraints, or similar reasons. If the Secretary provides notice under subsection (a)(1) in a form other than in writing, the Secretary shall submit to Congress a report describing the notification method used and the reasons for the use of the alternative method” after “provided in writing”.
 
-    Subsecs. (f), (g). [Pub. L. 105–261, § 731(a)(1)][/us/pl/105/261/s731/a/1], added subsec. (f) and redesignated former subsec. (f) as (g).
+    Subsecs. (f), (g). [Pub. L. 105–261][/us/pl/105/261], § 731(a)(1), added subsec. (f) and redesignated former subsec. (f) as (g).
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–261, div. A, title VII, § 731(a)(2)][/us/pl/105/261/s731/a/2], Oct. 17, 1998, [112 Stat. 2071][/us/stat/112/2071], provided that: 
+[Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 731(a)(2), Oct. 17, 1998, [112 Stat. 2071][/us/stat/112/2071], provided that: 
 
 > “Subsection (f) of [section 1107 of title 10][/us/usc/t10/s1107], United States Code (as added by paragraph (1)), shall apply to the administration of an investigational new drug or a drug unapproved for its applied use to a member of the Armed Forces in connection with the member’s participation in a particular military operation on or after the date of the enactment of this Act \[Oct. 17, 1998\].”
 
  __Waivers of Requirement for Prior Consent Granted Before__  __October 17, 1998__ 
 
-[Pub. L. 105–261, div. A, title VII, § 731(a)(3)][/us/pl/105/261/s731/a/3], Oct. 17, 1998, [112 Stat. 2071][/us/stat/112/2071], provided that: 
+[Pub. L. 105–261, div. A, title VII][/us/pl/105/261/dA/tVII], § 731(a)(3), Oct. 17, 1998, [112 Stat. 2071][/us/stat/112/2071], provided that: 
 
 > “A waiver of the requirement for prior consent imposed under the regulations required under paragraph (4) of section 505(i) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355(i)(4)][/us/usc/t21/s355/i/4]\] (or under any antecedent provision of law or regulations) that has been granted under that section (or antecedent provision of law or regulations) before the date of the enactment of this Act \[Oct. 17, 1998\] for the administration of a drug to a member of the Armed Forces in connection with the member’s participation in a particular military operation may be applied in that case after that date only if—
 
@@ -227,27 +227,27 @@
 [/us/usc/t21/s355/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fi%2F4
 [/us/usc/t21/s355/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fi
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
-[/us/pl/105/85/s766/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs766%2Fa
+[/us/pl/105/85/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVII
 [/us/stat/111/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1827
-[/us/pl/105/261/s731/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs731%2Fa%2F1
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2070
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/108/136/s1043/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1043%2Fb%2F7
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1611
-[/us/pl/108/375/s726/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs726%2Fa
+[/us/pl/108/375/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVII
 [/us/stat/118/1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1992
-[/us/pl/108/375/s726/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs726%2Fa%2F1
-[/us/pl/108/375/s726/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs726%2Fa%2F2
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/105/261/s731/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs731%2Fb%2F1
-[/us/pl/105/261/s731/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs731%2Fb%2F2
-[/us/pl/105/261/s731/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs731%2Fa%2F1
-[/us/pl/105/261/s731/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs731%2Fa%2F2
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2071
 [/us/usc/t10/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1107
-[/us/pl/105/261/s731/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs731%2Fa%2F3
+[/us/pl/105/261/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVII
 [/us/stat/112/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2071
 [/us/usc/t21/s355/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fi%2F4
 [/us/usc/t10/s1107/f/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1107%2Ff%2F4%2FC

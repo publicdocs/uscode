@@ -17,7 +17,7 @@
 
     The Secretary of the Navy shall ensure that the views of the Commandant of the Marine Corps are given appropriate consideration before a major decision is made by an element of the Department of the Navy outside the Marine Corps on a matter that directly concerns Marine Corps aviation.
 
-(Added [Pub. L. 105–261, div. A, title IX, § 935(a)][/us/pl/105/261/s935/a], Oct. 17, 1998, [112 Stat. 2109][/us/stat/112/2109].)
+(Added [Pub. L. 105–261, div. A, title IX][/us/pl/105/261/dA/tIX], § 935(a), Oct. 17, 1998, [112 Stat. 2109][/us/stat/112/2109].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/261/s935/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs935%2Fa
+[/us/pl/105/261/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIX
 [/us/stat/112/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2109
 
 

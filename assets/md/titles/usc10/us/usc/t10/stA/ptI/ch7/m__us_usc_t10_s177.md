@@ -51,7 +51,7 @@
 
     (d) The American Registry of Pathology may transmit annually to its Board and supporting organizations referred to in subsection (a)(2) a comprehensive and detailed report of its operations, activities, and accomplishments.
 
-(Added [Pub. L. 94–361, title VIII, § 811(b)][/us/pl/94/361/s811/b], July 14, 1976, [90 Stat. 934][/us/stat/90/934]; amended [Pub. L. 98–525, title XIV, § 1405(5)][/us/pl/98/525/s1405/5], Oct. 19, 1984, [98 Stat. 2622][/us/stat/98/2622]; [Pub. L. 112–239, div. A, title V, § 585][/us/pl/112/239/s585], Jan. 2, 2013, [126 Stat. 1768][/us/stat/126/1768].)
+(Added [Pub. L. 94–361, title VIII][/us/pl/94/361/tVIII], § 811(b), July 14, 1976, [90 Stat. 934][/us/stat/90/934]; amended [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(5), Oct. 19, 1984, [98 Stat. 2622][/us/stat/98/2622]; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 585, Jan. 2, 2013, [126 Stat. 1768][/us/stat/126/1768].)
 
  __References in Text__ 
 
@@ -59,13 +59,13 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a)(2). [Pub. L. 112–239, § 585(1)(A)][/us/pl/112/239/s585/1/A], substituted “the professional societies and organizations that support the activities of the American Registry of Pathology” for “those professional societies and organizations which sponsor individual registries of pathology at the Armed Forces Institute of Pathology” and struck out at end “Each such sponsor shall appoint one member to the Board for a term of four years.”
+    2013—Subsec. (a)(2). [Pub. L. 112–239][/us/pl/112/239], § 585(1)(A), substituted “the professional societies and organizations that support the activities of the American Registry of Pathology” for “those professional societies and organizations which sponsor individual registries of pathology at the Armed Forces Institute of Pathology” and struck out at end “Each such sponsor shall appoint one member to the Board for a term of four years.”
 
-    Subsec. (a)(3). [Pub. L. 112–239, § 585(1)(B)][/us/pl/112/239/s585/1/B], struck out “with the concurrence of the Director of the Armed Forces Institute of Pathology” after “shall be appointed by the Board”.
+    Subsec. (a)(3). [Pub. L. 112–239][/us/pl/112/239], § 585(1)(B), struck out “with the concurrence of the Director of the Armed Forces Institute of Pathology” after “shall be appointed by the Board”.
 
-    Subsec. (b). [Pub. L. 112–239, § 585(2)][/us/pl/112/239/s585/2], redesignated pars. (2) to (5) as (1) to (4), respectively, and struck out former par. (1) which read as follows: “enter into contracts with the Armed Forces Institute of Pathology for the provision of such services and personnel as may be necessary to carry out their cooperative enterprises;”.
+    Subsec. (b). [Pub. L. 112–239][/us/pl/112/239], § 585(2), redesignated pars. (2) to (5) as (1) to (4), respectively, and struck out former par. (1) which read as follows: “enter into contracts with the Armed Forces Institute of Pathology for the provision of such services and personnel as may be necessary to carry out their cooperative enterprises;”.
 
-    Subsec. (d). [Pub. L. 112–239, § 585(3)][/us/pl/112/239/s585/3], substituted “annually to its Board and supporting organizations referred to in subsection (a)(2)” for “to the Director and the Board of Governors of the Armed Forces Institute of Pathology and to the sponsors referred to in subsection (a)(2) annually, and at such other times as it deems desirable,”.
+    Subsec. (d). [Pub. L. 112–239][/us/pl/112/239], § 585(3), substituted “annually to its Board and supporting organizations referred to in subsection (a)(2)” for “to the Director and the Board of Governors of the Armed Forces Institute of Pathology and to the sponsors referred to in subsection (a)(2) annually, and at such other times as it deems desirable,”.
 
     1984—Subsec. (a)(1). [Pub. L. 98–525][/us/pl/98/525] substituted “sec. 29–501” for “sec. 29–1001”.
 
@@ -76,18 +76,18 @@
 ----------
 ----------
 
-[/us/pl/94/361/s811/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F361%2Fs811%2Fb
+[/us/pl/94/361/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F361%2FtVIII
 [/us/stat/90/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F934
-[/us/pl/98/525/s1405/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F5
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2622
-[/us/pl/112/239/s585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs585
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1768
 [/us/pl/87/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F569
 [/us/stat/76/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F265
-[/us/pl/112/239/s585/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs585%2F1%2FA
-[/us/pl/112/239/s585/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs585%2F1%2FB
-[/us/pl/112/239/s585/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs585%2F2
-[/us/pl/112/239/s585/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs585%2F3
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 
 

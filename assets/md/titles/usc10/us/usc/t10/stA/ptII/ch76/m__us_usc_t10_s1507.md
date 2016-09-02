@@ -43,7 +43,7 @@
 
         (4) If the body has been recovered and is not identifiable through visual means, a certification by a forensic pathologist that the body recovered is that of the missing person. In determining whether to make such a certification, the forensic pathologist shall consider, as determined necessary by the Secretary of the military department concerned, additional evidence and information provided by appropriate specialists in forensic medicine or other appropriate medical sciences.
 
-(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)][/us/pl/104/106/s569/b/1], Feb. 10, 1996, [110 Stat. 347][/us/stat/110/347]; amended [Pub. L. 104–201, div. A, title V, § 578(e)][/us/pl/104/201/s578/e], Sept. 23, 1996, [110 Stat. 2537][/us/stat/110/2537]; [Pub. L. 105–85, div. A, title V, § 599(c)][/us/pl/105/85/s599/c], Nov. 18, 1997, [111 Stat. 1768][/us/stat/111/1768].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 569(b)(1), Feb. 10, 1996, [110 Stat. 347][/us/stat/110/347]; amended [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 578(e), Sept. 23, 1996, [110 Stat. 2537][/us/stat/110/2537]; [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 599(c), Nov. 18, 1997, [111 Stat. 1768][/us/stat/111/1768].)
 
  __Amendments__ 
 
@@ -62,11 +62,11 @@
 ----------
 ----------
 
-[/us/pl/104/106/s569/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fb%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F347
-[/us/pl/104/201/s578/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs578%2Fe
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2537
-[/us/pl/105/85/s599/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs599%2Fc
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1768
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201

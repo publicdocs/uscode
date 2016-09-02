@@ -41,7 +41,7 @@
 
         (4) the total amount that may be awarded as fellowships during an academic year.
 
-(Added [Pub. L. 102–484, div. A, title X, § 1076(a)][/us/pl/102/484/s1076/a], Oct. 23, 1992, [106 Stat. 2511][/us/stat/106/2511], § 4316; renumbered § 4317, [Pub. L. 103–35, title II, § 201(b)(2)(A)][/us/pl/103/35/s201/b/2/A], May 31, 1993, [107 Stat. 98][/us/stat/107/98].)
+(Added [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1076(a), Oct. 23, 1992, [106 Stat. 2511][/us/stat/106/2511], § 4316; renumbered § 4317, [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 201(b)(2)(A), May 31, 1993, [107 Stat. 98][/us/stat/107/98].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/102/484/s1076/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1076%2Fa
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2511
-[/us/pl/103/35/s201/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fb%2F2%2FA
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F98
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
 [/us/usc/t10/s4316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4316

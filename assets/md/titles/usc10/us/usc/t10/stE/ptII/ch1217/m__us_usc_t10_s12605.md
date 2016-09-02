@@ -27,11 +27,11 @@
 
     The presentation of a flag under this section shall be at no cost to the recipient.
 
-(Added [Pub. L. 106–65, div. A, title VI, § 652(a)(1)][/us/pl/106/65/s652/a/1], Oct. 5, 1999, [113 Stat. 664][/us/stat/113/664].)
+(Added [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 652(a)(1), Oct. 5, 1999, [113 Stat. 664][/us/stat/113/664].)
 
  __Effective Date__ 
 
-[Pub. L. 106–65, div. A, title VI, § 652(d)][/us/pl/106/65/s652/d], Oct. 5, 1999, [113 Stat. 665][/us/stat/113/665], provided that: 
+[Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 652(d), Oct. 5, 1999, [113 Stat. 665][/us/stat/113/665], provided that: 
 
 > “[Section 12605 of title 10][/us/usc/t10/s12605], United States Code (as added by subsection (a)), section 213 of the Public Health Service Act \[[42 U.S.C. 214][/us/usc/t42/s214]\] (as added by subsection (b)), and section 25 of the Coast and Geodetic Survey Commissioned Officers’ Act of 1948 \[[33 U.S.C. 853v][/us/usc/t33/s853v]\] (as added by subsection (c)) shall apply with respect to releases from service described in those sections on or after October 1, 1999.”
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/106/65/s652/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs652%2Fa%2F1
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F664
-[/us/pl/106/65/s652/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs652%2Fd
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F665
 [/us/usc/t10/s12605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12605
 [/us/usc/t42/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs214

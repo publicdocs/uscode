@@ -39,7 +39,7 @@
 
         (3) Unless a claim is filed under this subsection within 5 years after the date of the disposal of the property to which the claim relates, the claim may not be considered by a court, the Secretary of Defense (in the case of a claim filed under paragraph (1)), or the Secretary of Defense (in the case of a claim filed under paragraph (2)).
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 144][/us/stat/70A/144]; [Pub. L. 89–143][/us/pl/89/143], Aug. 28, 1965, [79 Stat. 581][/us/stat/79/581]; [Pub. L. 96–513, title V, § 511(84)][/us/pl/96/513/s511/84], Dec. 12, 1980, [94 Stat. 2927][/us/stat/94/2927]; [Pub. L. 101–189, div. A, title III, § 322(a)][/us/pl/101/189/s322/a], (b), title XVI, § 1622(f)(1), Nov. 29, 1989, [103 Stat. 1413][/us/stat/103/1413], 1605; [Pub. L. 101–510, div. A, title XV, § 1533(a)(2)][/us/pl/101/510/s1533/a/2], Nov. 5, 1990, [104 Stat. 1733][/us/stat/104/1733]; [Pub. L. 104–106, div. A, title III, § 374(a)][/us/pl/104/106/s374/a], Feb. 10, 1996, [110 Stat. 281][/us/stat/110/281]; [Pub. L. 104–316, title II, § 202(d)][/us/pl/104/316/s202/d], Oct. 19, 1996, [110 Stat. 3842][/us/stat/110/3842]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 144][/us/stat/70A/144]; [Pub. L. 89–143][/us/pl/89/143], Aug. 28, 1965, [79 Stat. 581][/us/stat/79/581]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(84), Dec. 12, 1980, [94 Stat. 2927][/us/stat/94/2927]; [Pub. L. 101–189, div. A, title III][/us/pl/101/189/dA/tIII], § 322(a), (b), title XVI, § 1622(f)(1), Nov. 29, 1989, [103 Stat. 1413][/us/stat/103/1413], 1605; [Pub. L. 101–510, div. A, title XV][/us/pl/101/510/dA/tXV], § 1533(a)(2), Nov. 5, 1990, [104 Stat. 1733][/us/stat/104/1733]; [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 374(a), Feb. 10, 1996, [110 Stat. 281][/us/stat/110/281]; [Pub. L. 104–316, title II][/us/pl/104/316/tII], § 202(d), Oct. 19, 1996, [110 Stat. 3842][/us/stat/110/3842]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
 <table>
 
@@ -153,37 +153,37 @@ In subsection (b), the words “may file \* \* \* within five years” are s
 
     2002—Subsec. (a). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
 
-    1996—Subsec. (b). [Pub. L. 104–106, § 374(a)(1)][/us/pl/104/106/s374/a/1], added subsec. (b) and struck out former subsec. (b) which read as follows: “The net proceeds from the sale of property under this section shall be covered into the Treasury as miscellaneous receipts. The owner (or the heirs, next of kin, or legal representative of the owner) may file a claim for those proceeds with the General Accounting Office within five years after the date of the disposal of the property. If not filed within that period, such a claim may not be considered by a court or the General Accounting Office.”
+    1996—Subsec. (b). [Pub. L. 104–106][/us/pl/104/106], § 374(a)(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “The net proceeds from the sale of property under this section shall be covered into the Treasury as miscellaneous receipts. The owner (or the heirs, next of kin, or legal representative of the owner) may file a claim for those proceeds with the General Accounting Office within five years after the date of the disposal of the property. If not filed within that period, such a claim may not be considered by a court or the General Accounting Office.”
 
-    Subsec. (d). [Pub. L. 104–106, § 374(a)(2)][/us/pl/104/106/s374/a/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–106][/us/pl/104/106], § 374(a)(2), added subsec. (d).
 
     Subsec. (d)(2), (3). [Pub. L. 104–316][/us/pl/104/316] substituted “Secretary of Defense” for “Comptroller General of the United States”.
 
-    1990—Subsec. (a). [Pub. L. 101–510, § 1533(a)(2)(A)][/us/pl/101/510/s1533/a/2/A], substituted “section 4712, 6522, or 9712” for “section 4712, 4713, 6522, 9712, or 9713”.
+    1990—Subsec. (a). [Pub. L. 101–510][/us/pl/101/510], § 1533(a)(2)(A), substituted “section 4712, 6522, or 9712” for “section 4712, 4713, 6522, 9712, or 9713”.
 
-    Subsec. (c). [Pub. L. 101–510, § 1533(a)(2)(B)][/us/pl/101/510/s1533/a/2/B], substituted “Armed Forces Retirement Home” for “United States Soldiers’ and Airmen’s Home” and “Secretary of a military department” for “Secretary of the Army or the Secretary of the Air Force” and struck out at end “The Home shall deliver the property to the owner (or the heirs, next of kin, or legal representative of the owner), if that person establishes a right to it within two years after its receipt by the Home.”
+    Subsec. (c). [Pub. L. 101–510][/us/pl/101/510], § 1533(a)(2)(B), substituted “Armed Forces Retirement Home” for “United States Soldiers’ and Airmen’s Home” and “Secretary of a military department” for “Secretary of the Army or the Secretary of the Air Force” and struck out at end “The Home shall deliver the property to the owner (or the heirs, next of kin, or legal representative of the owner), if that person establishes a right to it within two years after its receipt by the Home.”
 
-    1989—Subsec. (a). [Pub. L. 101–189, § 1622(f)(1)][/us/pl/101/189/s1622/f/1], struck out “of this section” after “subsection (c)”.
+    1989—Subsec. (a). [Pub. L. 101–189][/us/pl/101/189], § 1622(f)(1), struck out “of this section” after “subsection (c)”.
 
-    [Pub. L. 101–189, § 322(b)(2)(A)][/us/pl/101/189/s322/b/2/A], substituted “the Secretary’s department” for “his department”.
+    [Pub. L. 101–189][/us/pl/101/189], § 322(b)(2)(A), substituted “the Secretary’s department” for “his department”.
 
-    [Pub. L. 101–189, § 322(b)(1)][/us/pl/101/189/s322/b/1], substituted “owner (or the heirs, next of kin, or legal representative of the owner)” for “owner, his heirs or next of kin, or his legal representative” in two places.
+    [Pub. L. 101–189][/us/pl/101/189], § 322(b)(1), substituted “owner (or the heirs, next of kin, or legal representative of the owner)” for “owner, his heirs or next of kin, or his legal representative” in two places.
 
-    [Pub. L. 101–189, § 322(a)(3)][/us/pl/101/189/s322/a/3], inserted after second sentence: “The diligent effort to find the owner (or the heirs, next of kin, or legal representative of the owner) shall begin, to the maximum extent practicable, not later than seven days after the date on which the property comes into the custody or control of the Secretary. The period for which that effort is continued may not exceed 45 days.”
+    [Pub. L. 101–189][/us/pl/101/189], § 322(a)(3), inserted after second sentence: “The diligent effort to find the owner (or the heirs, next of kin, or legal representative of the owner) shall begin, to the maximum extent practicable, not later than seven days after the date on which the property comes into the custody or control of the Secretary. The period for which that effort is continued may not exceed 45 days.”
 
-    [Pub. L. 101–189, § 322(a)(1)][/us/pl/101/189/s322/a/1], substituted “45 days” for “120 days”.
+    [Pub. L. 101–189][/us/pl/101/189], § 322(a)(1), substituted “45 days” for “120 days”.
 
-    [Pub. L. 101–189, § 322(b)(2)(B)][/us/pl/101/189/s322/b/2/B], substituted “owner (or heirs, next of kin, or legal representative of the owner)” for “owner, his heirs or next of kin, or his legal representatives” after “When diligent effort to determine the”.
+    [Pub. L. 101–189][/us/pl/101/189], § 322(b)(2)(B), substituted “owner (or heirs, next of kin, or legal representative of the owner)” for “owner, his heirs or next of kin, or his legal representatives” after “When diligent effort to determine the”.
 
-    [Pub. L. 101–189, § 322(a)(2)][/us/pl/101/189/s322/a/2], substituted “more than $300, the Secretary may not dispose of the property until 45 days” for “$25 or more the property may not be disposed of until three months”.
+    [Pub. L. 101–189][/us/pl/101/189], § 322(a)(2), substituted “more than $300, the Secretary may not dispose of the property until 45 days” for “$25 or more the property may not be disposed of until three months”.
 
-    Subsec. (b). [Pub. L. 101–189, § 322(b)(1)][/us/pl/101/189/s322/b/1], substituted “owner (or the heirs, next of kin, or legal representative of the owner)” for “owner, his heirs or next of kin, or his legal representative”.
+    Subsec. (b). [Pub. L. 101–189][/us/pl/101/189], § 322(b)(1), substituted “owner (or the heirs, next of kin, or legal representative of the owner)” for “owner, his heirs or next of kin, or his legal representative”.
 
-    Subsec. (c). [Pub. L. 101–189, § 322(b)(1)][/us/pl/101/189/s322/b/1], (3), substituted “owner (or the heirs, next of kin, or legal representative of the owner)” for “owner, his heirs or next of kin, or his legal representative”, and “that person” for “he” before “establishes a right”.
+    Subsec. (c). [Pub. L. 101–189][/us/pl/101/189], § 322(b)(1), (3), substituted “owner (or the heirs, next of kin, or legal representative of the owner)” for “owner, his heirs or next of kin, or his legal representative”, and “that person” for “he” before “establishes a right”.
 
-    1980—Subsec. (a). [Pub. L. 96–513, § 511(84)(A)][/us/pl/96/513/s511/84/A], substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+    1980—Subsec. (a). [Pub. L. 96–513][/us/pl/96/513], § 511(84)(A), substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
-    Subsec. (c). [Pub. L. 96–513, § 511(84)(B)][/us/pl/96/513/s511/84/B], substituted “United States Soldiers’ and Airmen’s Home” for “Soldiers’ Home”.
+    Subsec. (c). [Pub. L. 96–513][/us/pl/96/513], § 511(84)(B), substituted “United States Soldiers’ and Airmen’s Home” for “Soldiers’ Home”.
 
     1965—Subsec. (a). [Pub. L. 89–143][/us/pl/89/143] provided for notice by certified mail and substituted provision for disposition of property without delay when diligent effort to determine ownership is unsuccessful and after three months following receipt at designated storage point of property with fair market value of $25 or more, for former provision for disposition of property one year after receipt at designated storage point.
 
@@ -197,7 +197,7 @@ In subsection (b), the words “may file \* \* \* within five years” are s
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–189, div. A, title III, § 322(c)][/us/pl/101/189/s322/c], Nov. 29, 1989, [103 Stat. 1414][/us/stat/103/1414], provided that: 
+[Pub. L. 101–189, div. A, title III][/us/pl/101/189/dA/tIII], § 322(c), Nov. 29, 1989, [103 Stat. 1414][/us/stat/103/1414], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to property that comes into the custody or control of the Secretary of a military department or the Secretary of Transportation after the date of the enactment of this Act \[Nov. 29, 1989\].”
 
@@ -216,36 +216,36 @@ In subsection (b), the words “may file \* \* \* within five years” are s
 [/us/stat/70A/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F144
 [/us/pl/89/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F143
 [/us/stat/79/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F581
-[/us/pl/96/513/s511/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F84
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2927
-[/us/pl/101/189/s322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs322%2Fa
+[/us/pl/101/189/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIII
 [/us/stat/103/1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1413
-[/us/pl/101/510/s1533/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1533%2Fa%2F2
+[/us/pl/101/510/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXV
 [/us/stat/104/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1733
-[/us/pl/104/106/s374/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs374%2Fa
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F281
-[/us/pl/104/316/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fd
+[/us/pl/104/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtII
 [/us/stat/110/3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3842
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/usc/t10/s150i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs150i
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/104/106/s374/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs374%2Fa%2F1
-[/us/pl/104/106/s374/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs374%2Fa%2F2
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
-[/us/pl/101/510/s1533/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1533%2Fa%2F2%2FA
-[/us/pl/101/510/s1533/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1533%2Fa%2F2%2FB
-[/us/pl/101/189/s1622/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Ff%2F1
-[/us/pl/101/189/s322/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs322%2Fb%2F2%2FA
-[/us/pl/101/189/s322/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs322%2Fb%2F1
-[/us/pl/101/189/s322/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs322%2Fa%2F3
-[/us/pl/101/189/s322/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs322%2Fa%2F1
-[/us/pl/101/189/s322/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs322%2Fb%2F2%2FB
-[/us/pl/101/189/s322/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs322%2Fa%2F2
-[/us/pl/101/189/s322/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs322%2Fb%2F1
-[/us/pl/101/189/s322/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs322%2Fb%2F1
-[/us/pl/96/513/s511/84/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F84%2FA
-[/us/pl/96/513/s511/84/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F84%2FB
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/89/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F143
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
@@ -253,7 +253,7 @@ In subsection (b), the words “may file \* \* \* within five years” are s
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/101/510/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1541
 [/us/usc/t24/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs401
-[/us/pl/101/189/s322/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs322%2Fc
+[/us/pl/101/189/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIII
 [/us/stat/103/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1414
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3

@@ -33,17 +33,17 @@
 
     In this section, the term “reduced prices” means prices for food and other merchandise determined using the price setting process specified in [section 2484 of this title][/us/usc/t10/s2484].
 
-(Added [Pub. L. 108–375, div. A, title VI, § 651(a)(3)][/us/pl/108/375/s651/a/3], Oct. 28, 2004, [118 Stat. 1965][/us/stat/118/1965].)
+(Added [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 651(a)(3), Oct. 28, 2004, [118 Stat. 1965][/us/stat/118/1965].)
 
  __Prior Provisions__ 
 
-    A prior section 2481, added [Pub. L. 108–136, div. A, title VI, § 652(a)][/us/pl/108/136/s652/a], Nov. 24, 2003, [117 Stat. 1522][/us/stat/117/1522], related to the existence of defense commissary system and exchange stores system, prior to repeal by [Pub. L. 108–375, div. A, title VI, § 651(a)(1)][/us/pl/108/375/s651/a/1], Oct. 28, 2004, [118 Stat. 1964][/us/stat/118/1964].
+    A prior section 2481, added [Pub. L. 108–136, div. A, title VI][/us/pl/108/136/dA/tVI], § 652(a), Nov. 24, 2003, [117 Stat. 1522][/us/stat/117/1522], related to the existence of defense commissary system and exchange stores system, prior to repeal by [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 651(a)(1), Oct. 28, 2004, [118 Stat. 1964][/us/stat/118/1964].
 
     Another prior section 2481 was renumbered [section 2686 of this title][/us/usc/t10/s2686].
 
  __Plan To Obtain Budget-Neutrality for the Defense Commissary System and the Military Exchange System__ 
 
-[Pub. L. 114–92, div. A, title VI, § 651][/us/pl/114/92/s651], Nov. 25, 2015, [129 Stat. 854][/us/stat/129/854], provided that:
+[Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], § 651, Nov. 25, 2015, [129 Stat. 854][/us/stat/129/854], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -133,14 +133,14 @@
 ----------
 
 [/us/usc/t10/s2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2484
-[/us/pl/108/375/s651/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs651%2Fa%2F3
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1965
-[/us/pl/108/136/s652/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs652%2Fa
+[/us/pl/108/136/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVI
 [/us/stat/117/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1522
-[/us/pl/108/375/s651/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs651%2Fa%2F1
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1964
 [/us/usc/t10/s2686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2686
-[/us/pl/114/92/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs651
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F854
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/stat/128/3406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3406

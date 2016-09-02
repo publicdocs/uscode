@@ -61,9 +61,9 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–81, div. B, title XXVIII, § 2821(a)(2)(A)][/us/pl/112/81/s2821/a/2/A], Dec. 31, 2011, [125 Stat. 1691][/us/stat/125/1691], substituted “2924” for “2925” in item III.
+    2011—[Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], § 2821(a)(2)(A), Dec. 31, 2011, [125 Stat. 1691][/us/stat/125/1691], substituted “2924” for “2925” in item III.
 
-    2011—[Pub. L. 111–383, div. A, title X, § 1075(b)(47)][/us/pl/111/383/s1075/b/47], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371], inserted “Sec.” above “2911”.
+    2011—[Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(47), Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371], inserted “Sec.” above “2911”.
 
 ----------
 
@@ -72,9 +72,9 @@
 ----------
 ----------
 
-[/us/pl/112/81/s2821/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2821%2Fa%2F2%2FA
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1691
-[/us/pl/111/383/s1075/b/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F47
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4371
 
 

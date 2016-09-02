@@ -57,11 +57,11 @@
 
     The Chief of Navy Reserve is the official within the executive part of the Department of the Navy who, subject to the authority, direction, and control of the Secretary of the Navy and the Chief of Naval Operations, is responsible for preparation, justification, and execution of the personnel, operation and maintenance, and construction budgets for the Navy Reserve. As such, the Chief of Navy Reserve is the director and functional manager of appropriations made for the Navy Reserve in those areas.
 
-(Added [Pub. L. 104–201, div. A, title XII, § 1212(b)(1)][/us/pl/104/201/s1212/b/1], Sept. 23, 1996, [110 Stat. 2691][/us/stat/110/2691]; amended [Pub. L. 106–65, div. A, title V, § 554(c)][/us/pl/106/65/s554/c], Oct. 5, 1999, [113 Stat. 617][/us/stat/113/617]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 507(b), title X, § 1087(a)(18)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–103, 1654A–291; [Pub. L. 107–314, div. A, title V, § 501(a)][/us/pl/107/314/s501/a], Dec. 2, 2002, [116 Stat. 2529][/us/stat/116/2529]; [Pub. L. 108–375, div. A, title V, § 536(a)][/us/pl/108/375/s536/a], Oct. 28, 2004, [118 Stat. 1901][/us/stat/118/1901]; [Pub. L. 109–163, div. A, title V, § 515(b)(1)(F)][/us/pl/109/163/s515/b/1/F], (2), (3)(A), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233], 3234; [Pub. L. 112–81, div. A, title X, § 1061(26)][/us/pl/112/81/s1061/26], Dec. 31, 2011, [125 Stat. 1584][/us/stat/125/1584].)
+(Added [Pub. L. 104–201, div. A, title XII][/us/pl/104/201/dA/tXII], § 1212(b)(1), Sept. 23, 1996, [110 Stat. 2691][/us/stat/110/2691]; amended [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 554(c), Oct. 5, 1999, [113 Stat. 617][/us/stat/113/617]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 507(b), title X, § 1087(a)(18)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–103, 1654A–291; [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 501(a), Dec. 2, 2002, [116 Stat. 2529][/us/stat/116/2529]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 536(a), Oct. 28, 2004, [118 Stat. 1901][/us/stat/118/1901]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(F), (2), (3)(A), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233], 3234; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1061(26), Dec. 31, 2011, [125 Stat. 1584][/us/stat/125/1584].)
 
  __Prior Provisions__ 
 
-    A prior section 5143, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 288][/us/stat/70A/288]; Sept. 7, 1962, [Pub. L. 87–649, § 6(c)(3)][/us/pl/87/649/s6/c/3], [76 Stat. 494][/us/stat/76/494]; Nov. 8, 1967, [Pub. L. 90–130, § 14(B)][/us/pl/90/130/s14/B], (C), [81 Stat. 376][/us/stat/81/376], established in Bureau of Naval Personnel the position of Assistant Chief of Naval Personnel for Women, prior to repeal by [Pub. L. 96–513, title III, § 344(a)][/us/pl/96/513/s344/a], title VII, § 701, Dec. 12, 1980, [94 Stat. 2901][/us/stat/94/2901], 2955, effective Sept. 15, 1981.
+    A prior section 5143, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 288][/us/stat/70A/288]; Sept. 7, 1962, [Pub. L. 87–649][/us/pl/87/649], § 6(c)(3), [76 Stat. 494][/us/stat/76/494]; Nov. 8, 1967, [Pub. L. 90–130][/us/pl/90/130], § 14(B), (C), [81 Stat. 376][/us/stat/81/376], established in Bureau of Naval Personnel the position of Assistant Chief of Naval Personnel for Women, prior to repeal by [Pub. L. 96–513, title III][/us/pl/96/513/tIII], § 344(a), title VII, § 701, Dec. 12, 1980, [94 Stat. 2901][/us/stat/94/2901], 2955, effective Sept. 15, 1981.
 
  __Amendments__ 
 
@@ -71,17 +71,17 @@
 
     “(2) The Secretary of Defense shall transmit the annual report of the Chief of Navy Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under [section 113 of this title][/us/usc/t10/s113] is submitted to Congress.”
 
-    2006—[Pub. L. 109–163, § 515(b)(3)(A)][/us/pl/109/163/s515/b/3/A], substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+    2006—[Pub. L. 109–163][/us/pl/109/163], § 515(b)(3)(A), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 
-    [Pub. L. 109–163, § 515(b)(1)(F)][/us/pl/109/163/s515/b/1/F], substituted “Navy Reserve” for “Naval Reserve” wherever appearing in text.
+    [Pub. L. 109–163][/us/pl/109/163], § 515(b)(1)(F), substituted “Navy Reserve” for “Naval Reserve” wherever appearing in text.
 
-    Subsec. (a). [Pub. L. 109–163, § 515(b)(2)][/us/pl/109/163/s515/b/2], substituted “Navy Reserve” for “Naval Reserve” in heading.
+    Subsec. (a). [Pub. L. 109–163][/us/pl/109/163], § 515(b)(2), substituted “Navy Reserve” for “Naval Reserve” in heading.
 
     2004—Subsec. (b)(4). [Pub. L. 108–375][/us/pl/108/375] substituted “December 31, 2006” for “December 31, 2004”.
 
     2002—Subsec. (b)(4). [Pub. L. 107–314][/us/pl/107/314] substituted “December 31, 2004” for “October 1, 2003” in introductory provisions.
 
-    2000—Subsec. (b). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 507(b)\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The President, by and with the advice and consent of the Senate, shall appoint the Chief of Naval Reserve from officers who—
+    2000—Subsec. (b). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 507(b)\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The President, by and with the advice and consent of the Senate, shall appoint the Chief of Naval Reserve from officers who—
 
     “(1) have had at least 10 years of commissioned service;
 
@@ -89,13 +89,13 @@
 
     “(3) have been recommended by the Secretary of the Navy.”
 
-    Subsec. (c). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 507(b)\], amended heading and text of subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+    Subsec. (c). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 507(b)\], amended heading and text of subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
     “(c) Grade.—(1) The Chief of Naval Reserve holds office for a term determined by the Chief of Naval Operations, normally four years, but may be removed for cause at any time. He is eligible to succeed himself.
 
     “(2) The Chief of Naval Reserve, while so serving, has the grade of rear admiral, without vacating the officer’s permanent grade. However, if selected in accordance with [section 12505 of this title][/us/usc/t10/s12505], he may be appointed in the grade of vice admiral.”
 
-    Subsec. (c)(2). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(18)\], substituted “has the grade of” for “has a grade”.
+    Subsec. (c)(2). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(a)(18)\], substituted “has the grade of” for “has a grade”.
 
     1999—Subsec. (c)(2). [Pub. L. 106–65][/us/pl/106/65] substituted “rear admiral” for “above rear admiral (lower half)” and inserted at end “However, if selected in accordance with [section 12505 of this title][/us/usc/t10/s12505], he may be appointed in the grade of vice admiral.”
 
@@ -110,39 +110,39 @@
 ----------
 ----------
 
-[/us/pl/104/201/s1212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1212%2Fb%2F1
+[/us/pl/104/201/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXII
 [/us/stat/110/2691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2691
-[/us/pl/106/65/s554/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs554%2Fc
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F617
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/314/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs501%2Fa
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2529
-[/us/pl/108/375/s536/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs536%2Fa
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1901
-[/us/pl/109/163/s515/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FF
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3233
-[/us/pl/112/81/s1061/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F26
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1584
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F288
-[/us/pl/87/649/s6/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs6%2Fc%2F3
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F494
-[/us/pl/90/130/s14/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs14%2FB
+[/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/stat/81/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F376
-[/us/pl/96/513/s344/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs344%2Fa
+[/us/pl/96/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIII
 [/us/stat/94/2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2901
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
-[/us/pl/109/163/s515/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F3%2FA
-[/us/pl/109/163/s515/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FF
-[/us/pl/109/163/s515/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F2
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t10/s12505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12505
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t10/s12505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12505
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65

@@ -11,45 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8211.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8230.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8212)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8211.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8213...8215.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8212)
 
-## \[§ 8212. Repealed. [Pub. L. 103–337, div. A, title XVI, § 1662(a)(3)][/us/pl/103/337/s1662/a/3], Oct. 5, 1994, [108 Stat. 2988][/us/stat/108/2988]\]
+## \[§ 8212. Repealed. [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(a)(3), Oct. 5, 1994, [108 Stat. 2988][/us/stat/108/2988]\]
 
-    Section, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 501][/us/stat/70A/501]; Aug. 21, 1957, [Pub. L. 85–155, title III, § 301(3)][/us/pl/85/155/s301/3], [71 Stat. 386][/us/stat/71/386]; Sept. 2, 1958, [Pub. L. 85–861, § 1(163)][/us/pl/85/861/s1/163], [72 Stat. 1515][/us/stat/72/1515]; June 30, 1960, [Pub. L. 86–559, § 1(48)][/us/pl/86/559/s1/48], [74 Stat. 275][/us/stat/74/275]; Dec. 12, 1980, [Pub. L. 96–513, title V, § 504(8)][/us/pl/96/513/s504/8], [94 Stat. 2916][/us/stat/94/2916], related to temporary increases in authorized strength in grade of Air Reserve and Air National Guard of United States. See [section 12009 of this title][/us/usc/t10/s12009].
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Dec. 1, 1994, except as otherwise provided, see [section 1691 of Pub. L. 103–337][/us/pl/103/337/s1691], set out as an Effective Date note under [section 10001 of this title][/us/usc/t10/s10001].
-
-\[§§ 8213 to 8215. __Repealed.__  __[__  __Pub. L. 96–513, title II, § 202__  __][/us/pl/96/513/s202]__  __,__  __Dec. 12, 1980__  __,__  __[__  __94 Stat. 2878__  __][/us/stat/94/2878]__  __\]__ 
-
-    Section 8213, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 501][/us/stat/70A/501], prescribed authorized strength of Regular Air Force in warrant officers on active list.
-
-    Section 8214, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 501][/us/stat/70A/501]; Sept. 2, 1958, [Pub. L. 85–861, § 1(159)][/us/pl/85/861/s1/159], [72 Stat. 1514][/us/stat/72/1514], prescribed authorized strength of Regular Air Force in enlisted members on active duty, exclusive of officer candidates and aviation cadets.
-
-    Section 8215, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 502][/us/stat/70A/502]; Nov. 8, 1967, [Pub. L. 90–130, § 1(26)(E)][/us/pl/90/130/s1/26/E], (F), [81 Stat. 382][/us/stat/81/382], prescribed authorized strength of Regular Air Force in female warrant officers on active list.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Sept. 15, 1981, see [section 701 of Pub. L. 96–513][/us/pl/96/513/s701], set out as an Effective Date of 1980 Amendment note under [section 101 of this title][/us/usc/t10/s101].
-
-\[§§ 8217 to 8225. __Repealed.__  __[__  __Pub. L. 103–337, div. A, title XVI, § 1662(a)(3)__  __][/us/pl/103/337/s1662/a/3]__  __,__  __Oct. 5, 1994__  __,__  __[__  __108 Stat. 2988__  __][/us/stat/108/2988]__  __\]__ 
-
-    Section 8217, added [Pub. L. 85–861, § 1(164)(A)][/us/pl/85/861/s1/164/A], Sept. 2, 1958, [72 Stat. 1515][/us/stat/72/1515], related to authorized strength of Air Force in reserve commissioned officers in active status. See [section 12003 of this title][/us/usc/t10/s12003].
-
-    Section 8218, added [Pub. L. 85–861, § 1(164)(A)][/us/pl/85/861/s1/164/A], Sept. 2, 1958, [72 Stat. 1515][/us/stat/72/1515]; amended [Pub. L. 96–107, title III, § 302(d)][/us/pl/96/107/s302/d], Nov. 9, 1979, [93 Stat. 806][/us/stat/93/806]; [Pub. L. 100–456, div. A, title XII, § 1234(a)(1)][/us/pl/100/456/s1234/a/1], Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 102–190, div. A, title X, § 1061(a)(23)(B)][/us/pl/102/190/s1061/a/23/B], Dec. 5, 1991, [105 Stat. 1473][/us/stat/105/1473], related to authorized strength of Air Force in reserve general officers in active status. See [section 12004 of this title][/us/usc/t10/s12004].
-
-    Section 8219, added [Pub. L. 85–861, § 1(164)(A)][/us/pl/85/861/s1/164/A], Sept. 2, 1958, [72 Stat. 1515][/us/stat/72/1515], related to authorized strength of Air Force in reserve commissioned officers in grades below brigadier general in active status. See [section 12005(a) of this title][/us/usc/t10/s12005/a].
-
-    Section 8221, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 502][/us/stat/70A/502], related to authorized strength of Air Force Reserve. See [section 12001 of this title][/us/usc/t10/s12001].
-
-    Section 8222, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 502][/us/stat/70A/502]; Dec. 12, 1980, [Pub. L. 96–513, title V, § 504(9)][/us/pl/96/513/s504/9], [94 Stat. 2916][/us/stat/94/2916], related to authorized strength of Air Force Reserve, exclusive of members on active duty. See [section 12002(a) of this title][/us/usc/t10/s12002/a].
-
-    Section 8223, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 502][/us/stat/70A/502], related to authorized strength of Air Force Reserve in warrant officers. See [section 12008 of this title][/us/usc/t10/s12008].
-
-    Section 8224, [act Aug. 10, 1956. ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 502][/us/stat/70A/502], related to authorized strength of Air National Guard of United States. See [section 12001 of this title][/us/usc/t10/s12001].
-
-    Section 8225, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 503][/us/stat/70A/503]; Dec. 12, 1980, [Pub. L. 96–513, title V, § 504(9)][/us/pl/96/513/s504/9], [94 Stat. 2916][/us/stat/94/2916]; Sept. 29, 1988, [Pub. L. 100–456, div. A, title XII, § 1234(a)(1)][/us/pl/100/456/s1234/a/1], [102 Stat. 2059][/us/stat/102/2059], related to authorized strength of Air National Guard and Air National Guard of United States, exclusive of members on active duty. See [section 12002 of this title][/us/usc/t10/s12002].
+    Section, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 501][/us/stat/70A/501]; Aug. 21, 1957, [Pub. L. 85–155, title III][/us/pl/85/155/tIII], § 301(3), [71 Stat. 386][/us/stat/71/386]; Sept. 2, 1958, [Pub. L. 85–861][/us/pl/85/861], § 1(163), [72 Stat. 1515][/us/stat/72/1515]; June 30, 1960, [Pub. L. 86–559][/us/pl/86/559], § 1(48), [74 Stat. 275][/us/stat/74/275]; Dec. 12, 1980, [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 504(8), [94 Stat. 2916][/us/stat/94/2916], related to temporary increases in authorized strength in grade of Air Reserve and Air National Guard of United States. See [section 12009 of this title][/us/usc/t10/s12009].
 
  __Effective Date of Repeal__ 
 
@@ -57,78 +23,24 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8211.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8230.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8212)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8211.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8213...8215.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8212)
 
 ----------
 ----------
 
-[/us/pl/103/337/s1662/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fa%2F3
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2988
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F501
-[/us/pl/85/155/s301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F155%2Fs301%2F3
+[/us/pl/85/155/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F155%2FtIII
 [/us/stat/71/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F386
-[/us/pl/85/861/s1/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F163
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1515
-[/us/pl/86/559/s1/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559%2Fs1%2F48
+[/us/pl/86/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559
 [/us/stat/74/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F275
-[/us/pl/96/513/s504/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs504%2F8
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2916
 [/us/usc/t10/s12009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12009
-[/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
-[/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
-[/us/pl/96/513/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs202
-[/us/stat/94/2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2878
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F501
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F501
-[/us/pl/85/861/s1/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F159
-[/us/stat/72/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1514
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F502
-[/us/pl/90/130/s1/26/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs1%2F26%2FE
-[/us/stat/81/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F382
-[/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
-[/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/103/337/s1662/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fa%2F3
-[/us/stat/108/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2988
-[/us/pl/85/861/s1/164/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F164%2FA
-[/us/stat/72/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1515
-[/us/usc/t10/s12003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12003
-[/us/pl/85/861/s1/164/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F164%2FA
-[/us/stat/72/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1515
-[/us/pl/96/107/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs302%2Fd
-[/us/stat/93/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F806
-[/us/pl/100/456/s1234/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fa%2F1
-[/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
-[/us/pl/102/190/s1061/a/23/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fa%2F23%2FB
-[/us/stat/105/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1473
-[/us/usc/t10/s12004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12004
-[/us/pl/85/861/s1/164/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F164%2FA
-[/us/stat/72/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1515
-[/us/usc/t10/s12005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12005%2Fa
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F502
-[/us/usc/t10/s12001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12001
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F502
-[/us/pl/96/513/s504/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs504%2F9
-[/us/stat/94/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2916
-[/us/usc/t10/s12002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12002%2Fa
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F502
-[/us/usc/t10/s12008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12008
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F502
-[/us/usc/t10/s12001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12001
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F503
-[/us/pl/96/513/s504/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs504%2F9
-[/us/stat/94/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2916
-[/us/pl/100/456/s1234/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fa%2F1
-[/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
-[/us/usc/t10/s12002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12002
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
 

@@ -23,7 +23,7 @@
 
     In any situation covered by clause (1), the State shall be considered to have denied the equal protection of the laws secured by the Constitution.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 15][/us/stat/70A/15]; [Pub. L. 109–364, div. A, title X, § 1076(a)(1)][/us/pl/109/364/s1076/a/1], Oct. 17, 2006, [120 Stat. 2404][/us/stat/120/2404]; [Pub. L. 110–181, div. A, title X, § 1068(a)(1)][/us/pl/110/181/s1068/a/1], Jan. 28, 2008, [122 Stat. 325][/us/stat/122/325].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 15][/us/stat/70A/15]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1076(a)(1), Oct. 17, 2006, [120 Stat. 2404][/us/stat/120/2404]; [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1068(a)(1), Jan. 28, 2008, [122 Stat. 325][/us/stat/122/325].)
 
 <table>
 
@@ -73,7 +73,7 @@ R.S. 5299.  </td>
 
  __Derivation__ 
 
-    [Act Apr. 20, 1871, ch. 22, § 3][/us/act/1871-04-20/ch22/s3], [17 Stat. 14][/us/stat/17/14].
+    [Act Apr. 20, 1871, ch. 22][/us/act/1871-04-20/ch22], § 3, [17 Stat. 14][/us/stat/17/14].
 
  __Amendments__ 
 
@@ -83,7 +83,7 @@ R.S. 5299.  </td>
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–181, div. A, title X, § 1068(d)][/us/pl/110/181/s1068/d], Jan. 28, 2008, [122 Stat. 326][/us/stat/122/326], provided that: 
+[Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1068(d), Jan. 28, 2008, [122 Stat. 326][/us/stat/122/326], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 334 and 12304 of this title and repealing [section 2567 of this title][/us/usc/t10/s2567]\] shall take effect on the date of the enactment of this Act \[Jan. 28, 2008\].”
 
@@ -96,15 +96,15 @@ R.S. 5299.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F15
-[/us/pl/109/364/s1076/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1076%2Fa%2F1
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2404
-[/us/pl/110/181/s1068/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1068%2Fa%2F1
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F325
-[/us/act/1871-04-20/ch22/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1871-04-20%2Fch22%2Fs3
+[/us/act/1871-04-20/ch22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1871-04-20%2Fch22
 [/us/stat/17/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F14
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/110/181/s1068/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1068%2Fd
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F326
 [/us/usc/t10/s2567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2567
 

@@ -37,7 +37,7 @@
 
     (10) Second lieutenant.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 314][/us/stat/70A/314]; [Pub. L. 102–190, div. A, title XI, § 1131(8)(A)][/us/pl/102/190/s1131/8/A], Dec. 5, 1991, [105 Stat. 1506][/us/stat/105/1506].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 314][/us/stat/70A/314]; [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1131(8)(A), Dec. 5, 1991, [105 Stat. 1506][/us/stat/105/1506].)
 
 <table>
 
@@ -133,7 +133,7 @@ Jan. 20, 1942, ch. 10, § 1, 56 Stat. 10; Aug. 7, 1947, ch. 512, § 429 (as 
 
     R.S. 1603 provides that officers of the Marine Corps shall be on the same footing as officers of similar grades in the Army. Recognition is made of the grades existing in the Army for the purpose of listing the grades authorized for the Marine Corps.
 
-    The provisions of the [Act of July 1, 1918, ch. 114][/us/act/1918-07-01/ch114], [40 Stat. 715][/us/stat/40/715] (1st par.), pertaining to the appointment of a major general in addition to the Major General Commandant and a temporary major general were superseded by the [Act of May 29, 1934, ch. 367, § 2][/us/act/1934-05-29/ch367/s2], [48 Stat. 812][/us/stat/48/812], which in turn was repealed by § 436(e) of the Officer Personnel Act of 1947, [61 Stat. 882][/us/stat/61/882].
+    The provisions of the [Act of July 1, 1918, ch. 114][/us/act/1918-07-01/ch114], [40 Stat. 715][/us/stat/40/715] (1st par.), pertaining to the appointment of a major general in addition to the Major General Commandant and a temporary major general were superseded by the [Act of May 29, 1934, ch. 367][/us/act/1934-05-29/ch367], § 2, [48 Stat. 812][/us/stat/48/812], which in turn was repealed by § 436(e) of the Officer Personnel Act of 1947, [61 Stat. 882][/us/stat/61/882].
 
  __Amendments__ 
 
@@ -152,11 +152,11 @@ Jan. 20, 1942, ch. 10, § 1, 56 Stat. 10; Aug. 7, 1947, ch. 512, § 429 (as 
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F314
-[/us/pl/102/190/s1131/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1131%2F8%2FA
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1506
 [/us/act/1918-07-01/ch114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-01%2Fch114
 [/us/stat/40/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F715
-[/us/act/1934-05-29/ch367/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-29%2Fch367%2Fs2
+[/us/act/1934-05-29/ch367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-29%2Fch367
 [/us/stat/48/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F812
 [/us/stat/61/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F882
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190

@@ -17,7 +17,7 @@
 
     The Secretary of the Air Force shall have a seal for the Department of the Air Force. The design of the seal must be approved by the President. Judicial notice shall be taken of the seal.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 488][/us/stat/70A/488], § 8011; renumbered § 8012, [Pub. L. 99–433, title V, § 521(a)(1)][/us/pl/99/433/s521/a/1], Oct. 1, 1986, [100 Stat. 1055][/us/stat/100/1055].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 488][/us/stat/70A/488], § 8011; renumbered § 8012, [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 521(a)(1), Oct. 1, 1986, [100 Stat. 1055][/us/stat/100/1055].)
 
 <table>
 
@@ -102,7 +102,7 @@ July 26, 1947, ch. 343, § 207(g), 61 Stat 503.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F488
-[/us/pl/99/433/s521/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs521%2Fa%2F1
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1055
 [/us/usc/t10/s8013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8013
 

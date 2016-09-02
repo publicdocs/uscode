@@ -107,73 +107,73 @@
 
         (3) In the case of an officer to whom subsection (c) applies, the requirement for notification under paragraph (1) is satisfied if the notification is included in the certification submitted with respect to that officer under paragraph (1) of such subsection.
 
-(Added [Pub. L. 96–513, title I, § 112][/us/pl/96/513/s112], Dec. 12, 1980, [94 Stat. 2876][/us/stat/94/2876]; amended [Pub. L. 101–510, div. A, title V, § 522][/us/pl/101/510/s522], Nov. 5, 1990, [104 Stat. 1561][/us/stat/104/1561]; [Pub. L. 103–160, div. A, title V, § 561(d)][/us/pl/103/160/s561/d], Nov. 30, 1993, [107 Stat. 1667][/us/stat/107/1667]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337], §§ 1641, 1671(c)(7)(B), Oct. 5, 1994, [108 Stat. 2968][/us/stat/108/2968], 3014; [Pub. L. 104–106, div. A, title V, § 502(a)][/us/pl/104/106/s502/a], (b), (f), (g), Feb. 10, 1996, [110 Stat. 292][/us/stat/110/292], 293; [Pub. L. 104–201, div. A, title V, § 544(a)][/us/pl/104/201/s544/a], Sept. 23, 1996, [110 Stat. 2522][/us/stat/110/2522]; [Pub. L. 105–261, div. A, title V][/us/pl/105/261], §§ 512(a), 513(a), 561(d), (o), Oct. 17, 1998, [112 Stat. 2007][/us/stat/112/2007], 2025, 2026; [Pub. L. 106–65, div. A, title X, § 1066(a)(9)][/us/pl/106/65/s1066/a/9], (b)(3), Oct. 5, 1999, [113 Stat. 770][/us/stat/113/770], 772; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 571(d)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–134; [Pub. L. 107–107, div. A, title V][/us/pl/107/107], §§ 502, 514, Dec. 28, 2001, [115 Stat. 1080][/us/stat/115/1080], 1093; [Pub. L. 107–314, div. A, title V, § 505][/us/pl/107/314/s505], Dec. 2, 2002, [116 Stat. 2533][/us/stat/116/2533]; [Pub. L. 108–136, div. A, title V, § 506][/us/pl/108/136/s506], Nov. 24, 2003, [117 Stat. 1457][/us/stat/117/1457]; [Pub. L. 109–163, div. A, title V, § 501][/us/pl/109/163/s501], Jan. 6, 2006, [119 Stat. 3225][/us/stat/119/3225]; [Pub. L. 112–239, div. A, title V][/us/pl/112/239], §§ 506, 507, Jan. 2, 2013, [126 Stat. 1716][/us/stat/126/1716].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 112, Dec. 12, 1980, [94 Stat. 2876][/us/stat/94/2876]; amended [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 522, Nov. 5, 1990, [104 Stat. 1561][/us/stat/104/1561]; [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 561(d), Nov. 30, 1993, [107 Stat. 1667][/us/stat/107/1667]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], §§ 1641, 1671(c)(7)(B), Oct. 5, 1994, [108 Stat. 2968][/us/stat/108/2968], 3014; [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 502(a), (b), (f), (g), Feb. 10, 1996, [110 Stat. 292][/us/stat/110/292], 293; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 544(a), Sept. 23, 1996, [110 Stat. 2522][/us/stat/110/2522]; [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], §§ 512(a), 513(a), 561(d), (o), Oct. 17, 1998, [112 Stat. 2007][/us/stat/112/2007], 2025, 2026; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1066(a)(9), (b)(3), Oct. 5, 1999, [113 Stat. 770][/us/stat/113/770], 772; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 571(d)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–134; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], §§ 502, 514, Dec. 28, 2001, [115 Stat. 1080][/us/stat/115/1080], 1093; [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 505, Dec. 2, 2002, [116 Stat. 2533][/us/stat/116/2533]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 506, Nov. 24, 2003, [117 Stat. 1457][/us/stat/117/1457]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 501, Jan. 6, 2006, [119 Stat. 3225][/us/stat/119/3225]; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], §§ 506, 507, Jan. 2, 2013, [126 Stat. 1716][/us/stat/126/1716].)
 
  __Amendments__ 
 
-    2013—Subsec. (a)(2)(E). [Pub. L. 112–239, § 507(1)][/us/pl/112/239/s507/1], inserted “(i)” after “exceed” and “or (ii) in the case of officers of that armed force in a grade specified in subparagraph (G), two officers, whichever number is greater” before period at end.
+    2013—Subsec. (a)(2)(E). [Pub. L. 112–239][/us/pl/112/239], § 507(1), inserted “(i)” after “exceed” and “or (ii) in the case of officers of that armed force in a grade specified in subparagraph (G), two officers, whichever number is greater” before period at end.
 
-    Subsec. (a)(2)(F). [Pub. L. 112–239, § 506][/us/pl/112/239/s506], substituted “fiscal years 2013 through 2018” for “the period ending on December 31, 2007” and “Army, Air Force, and Marine Corps” for “Air Force” and struck out “in the period” after “any fiscal year”.
+    Subsec. (a)(2)(F). [Pub. L. 112–239][/us/pl/112/239], § 506, substituted “fiscal years 2013 through 2018” for “the period ending on December 31, 2007” and “Army, Air Force, and Marine Corps” for “Air Force” and struck out “in the period” after “any fiscal year”.
 
-    Subsec. (a)(2)(G). [Pub. L. 112–239, § 507(2)][/us/pl/112/239/s507/2], added subpar. (G).
+    Subsec. (a)(2)(G). [Pub. L. 112–239][/us/pl/112/239], § 507(2), added subpar. (G).
 
     2006—Subsec. (a)(2)(F). [Pub. L. 109–163][/us/pl/109/163] added subpar. (F).
 
-    2003—Subsec. (a)(2)(A). [Pub. L. 108–136, § 506(a)][/us/pl/108/136/s506/a], struck out “in the case of retirements effective during the period beginning on October 1, 2002, and ending on December 31, 2003” after “two years”.
+    2003—Subsec. (a)(2)(A). [Pub. L. 108–136][/us/pl/108/136], § 506(a), struck out “in the case of retirements effective during the period beginning on October 1, 2002, and ending on December 31, 2003” after “two years”.
 
-    Subsec. (d)(5)(A). [Pub. L. 108–136, § 506(b)][/us/pl/108/136/s506/b], substituted “two years” for “2 years in the case of transfers to the Retired Reserve and discharges of retirement-qualified officers effective during the period beginning on October 1, 2002, and ending on December 31, 2003”.
+    Subsec. (d)(5)(A). [Pub. L. 108–136][/us/pl/108/136], § 506(b), substituted “two years” for “2 years in the case of transfers to the Retired Reserve and discharges of retirement-qualified officers effective during the period beginning on October 1, 2002, and ending on December 31, 2003”.
 
-    2002—Subsec. (a)(2)(A). [Pub. L. 107–314, § 505(a)(1)][/us/pl/107/314/s505/a/1], substituted “during the period beginning on October 1, 2002, and ending on December 31, 2003” for “during the period beginning on October 1, 1990, and ending on December 31, 2001”.
+    2002—Subsec. (a)(2)(A). [Pub. L. 107–314][/us/pl/107/314], § 505(a)(1), substituted “during the period beginning on October 1, 2002, and ending on December 31, 2003” for “during the period beginning on October 1, 1990, and ending on December 31, 2001”.
 
-    Subsec. (a)(2)(B) to (E). [Pub. L. 107–314, § 505(a)(2)][/us/pl/107/314/s505/a/2], (3), added subpars. (B) and (C) and redesignated former subpars. (B) and (C) as (D) and (E), respectively.
+    Subsec. (a)(2)(B) to (E). [Pub. L. 107–314][/us/pl/107/314], § 505(a)(2), (3), added subpars. (B) and (C) and redesignated former subpars. (B) and (C) as (D) and (E), respectively.
 
-    Subsec. (d)(5), (6). [Pub. L. 107–314, § 505(b)][/us/pl/107/314/s505/b], designated first sentence as subpar. (A), substituted “in the case of transfers to the Retired Reserve and discharges of retirement-qualified officers effective during the period beginning on October 1, 2002, and ending on December 31, 2003” for “in the case of retirements effective during the period beginning on October 17, 1998, and ending on December 31, 2001”, and added subpars. (B) and (C), and designated second sentence as (6) and substituted “paragraph (5)” for “this paragraph”.
+    Subsec. (d)(5), (6). [Pub. L. 107–314][/us/pl/107/314], § 505(b), designated first sentence as subpar. (A), substituted “in the case of transfers to the Retired Reserve and discharges of retirement-qualified officers effective during the period beginning on October 1, 2002, and ending on December 31, 2003” for “in the case of retirements effective during the period beginning on October 17, 1998, and ending on December 31, 2001”, and added subpars. (B) and (C), and designated second sentence as (6) and substituted “paragraph (5)” for “this paragraph”.
 
-    Subsec. (e). [Pub. L. 107–314, § 505(c)][/us/pl/107/314/s505/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 107–314][/us/pl/107/314], § 505(c), added subsec. (e).
 
-    2001—Subsec. (c)(3). [Pub. L. 107–107, § 502][/us/pl/107/107/s502], added par. (3).
+    2001—Subsec. (c)(3). [Pub. L. 107–107][/us/pl/107/107], § 502, added par. (3).
 
-    Subsec. (d)(3)(B). [Pub. L. 107–107, § 514][/us/pl/107/107/s514], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A person covered by subparagraph (A) who has completed at least six months of satisfactory service in grade and is transferred from an active status or discharged as a reserve commissioned officer solely due to the requirements of a nondiscretionary provision of law requiring that transfer or discharge due to the person’s age or years of service may be credited with satisfactory service in the grade in which serving at the time of such transfer or discharge, notwithstanding failure of the person to complete three years of service in that grade.”
+    Subsec. (d)(3)(B). [Pub. L. 107–107][/us/pl/107/107], § 514, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A person covered by subparagraph (A) who has completed at least six months of satisfactory service in grade and is transferred from an active status or discharged as a reserve commissioned officer solely due to the requirements of a nondiscretionary provision of law requiring that transfer or discharge due to the person’s age or years of service may be credited with satisfactory service in the grade in which serving at the time of such transfer or discharge, notwithstanding failure of the person to complete three years of service in that grade.”
 
     2000—Subsecs. (a)(2)(A), (d)(5). [Pub. L. 106–398][/us/pl/106/398] substituted “December 31, 2001” for “September 30, 2001”.
 
-    1999—Subsec. (d)(1). [Pub. L. 106–65, § 1066(a)(9)(A)][/us/pl/106/65/s1066/a/9/A], substituted “chapter 1223” for “chapter 1225”.
+    1999—Subsec. (d)(1). [Pub. L. 106–65][/us/pl/106/65], § 1066(a)(9)(A), substituted “chapter 1223” for “chapter 1225”.
 
-    Subsec. (d)(3)(F). [Pub. L. 106–65, § 1066(b)(3)][/us/pl/106/65/s1066/b/3], made technical amendment to [Pub. L. 105–261, § 513(a)][/us/pl/105/261/s513/a]. See 1998 Amendment note below.
+    Subsec. (d)(3)(F). [Pub. L. 106–65][/us/pl/106/65], § 1066(b)(3), made technical amendment to [Pub. L. 105–261][/us/pl/105/261], § 513(a). See 1998 Amendment note below.
 
-    Subsec. (d)(5). [Pub. L. 106–65, § 1066(a)(9)(B)][/us/pl/106/65/s1066/a/9/B], substituted “October 17, 1998,” for “the date of the enactment of this paragraph”.
+    Subsec. (d)(5). [Pub. L. 106–65][/us/pl/106/65], § 1066(a)(9)(B), substituted “October 17, 1998,” for “the date of the enactment of this paragraph”.
 
-    1998—Subsec. (a)(2)(A). [Pub. L. 105–261, § 561(d)][/us/pl/105/261/s561/d], substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
+    1998—Subsec. (a)(2)(A). [Pub. L. 105–261][/us/pl/105/261], § 561(d), substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
-    Subsec. (d)(3)(E). [Pub. L. 105–261, § 512(a)][/us/pl/105/261/s512/a], amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “To the extent authorized by the Secretary of the military department concerned, a person who, after having been extended temporary Federal recognition as a reserve officer of the Army National Guard in a particular grade under [section 308 of title 32][/us/usc/t32/s308] or temporary Federal recognition as a reserve officer of the Air National Guard in a particular grade under such section, served in a position for which that grade is the minimum authorized grade may be credited for purposes of subparagraph (A) as having served in that grade for the period for which the person served in that position while extended the temporary Federal recognition, but only if the person was subsequently extended permanent Federal recognition as a reserve officer in that grade and also served in that position after being extended the permanent Federal recognition.”
+    Subsec. (d)(3)(E). [Pub. L. 105–261][/us/pl/105/261], § 512(a), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “To the extent authorized by the Secretary of the military department concerned, a person who, after having been extended temporary Federal recognition as a reserve officer of the Army National Guard in a particular grade under [section 308 of title 32][/us/usc/t32/s308] or temporary Federal recognition as a reserve officer of the Air National Guard in a particular grade under such section, served in a position for which that grade is the minimum authorized grade may be credited for purposes of subparagraph (A) as having served in that grade for the period for which the person served in that position while extended the temporary Federal recognition, but only if the person was subsequently extended permanent Federal recognition as a reserve officer in that grade and also served in that position after being extended the permanent Federal recognition.”
 
-    Subsec. (d)(3)(F). [Pub. L. 105–261, § 513(a)][/us/pl/105/261/s513/a], as amended by [Pub. L. 106–65, § 1066(b)(3)][/us/pl/106/65/s1066/b/3], added subpar. (F).
+    Subsec. (d)(3)(F). [Pub. L. 105–261][/us/pl/105/261], § 513(a), as amended by [Pub. L. 106–65][/us/pl/106/65], § 1066(b)(3), added subpar. (F).
 
-    Subsec. (d)(5). [Pub. L. 105–261, § 561][/us/pl/105/261/s561](o), added par. (5).
+    Subsec. (d)(5). [Pub. L. 105–261][/us/pl/105/261], § 561(o), added par. (5).
 
-    1996—Subsec. (a). [Pub. L. 104–106, § 502(g)(1)][/us/pl/104/106/s502/g/1], inserted heading.
+    1996—Subsec. (a). [Pub. L. 104–106][/us/pl/104/106], § 502(g)(1), inserted heading.
 
-    Subsec. (a)(2)(A). [Pub. L. 104–106, § 502(a)(1)][/us/pl/104/106/s502/a/1], struck out “and below lieutenant general or vice admiral” after “commander”.
+    Subsec. (a)(2)(A). [Pub. L. 104–106][/us/pl/104/106], § 502(a)(1), struck out “and below lieutenant general or vice admiral” after “commander”.
 
-    Subsec. (a)(2)(C). [Pub. L. 104–106, § 502(f)][/us/pl/104/106/s502/f], substituted “In the case of a grade below the grade of lieutenant general or vice admiral, the number of members of one of the armed forces in that grade” for “The number of officers in an armed force in a grade”.
+    Subsec. (a)(2)(C). [Pub. L. 104–106][/us/pl/104/106], § 502(f), substituted “In the case of a grade below the grade of lieutenant general or vice admiral, the number of members of one of the armed forces in that grade” for “The number of officers in an armed force in a grade”.
 
-    Subsec. (b). [Pub. L. 104–106, § 502(g)(2)][/us/pl/104/106/s502/g/2], inserted heading.
+    Subsec. (b). [Pub. L. 104–106][/us/pl/104/106], § 502(g)(2), inserted heading.
 
-    Subsec. (c). [Pub. L. 104–106, § 502(b)][/us/pl/104/106/s502/b], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Upon retirement an officer of the Army, Navy, Air Force, or Marine Corps who is serving in or has served in a position of importance and responsibility designated by the President to carry the grade of general or admiral or lieutenant general or vice admiral under [section 601 of this title][/us/usc/t10/s601] may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade held by him while serving on active duty.”
+    Subsec. (c). [Pub. L. 104–106][/us/pl/104/106], § 502(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Upon retirement an officer of the Army, Navy, Air Force, or Marine Corps who is serving in or has served in a position of importance and responsibility designated by the President to carry the grade of general or admiral or lieutenant general or vice admiral under [section 601 of this title][/us/usc/t10/s601] may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade held by him while serving on active duty.”
 
-    Subsec. (d). [Pub. L. 104–106, § 502(g)(3)][/us/pl/104/106/s502/g/3], inserted heading.
+    Subsec. (d). [Pub. L. 104–106][/us/pl/104/106], § 502(g)(3), inserted heading.
 
-    Subsec. (d)(2). [Pub. L. 104–201, § 544(a)(2)][/us/pl/104/201/s544/a/2], redesignated subpar. (A) as entire par. (2). Former subpar. (B) redesignated subsec. (d)(3).
+    Subsec. (d)(2). [Pub. L. 104–201][/us/pl/104/201], § 544(a)(2), redesignated subpar. (A) as entire par. (2). Former subpar. (B) redesignated subsec. (d)(3).
 
-    Subsec. (d)(2)(B). [Pub. L. 104–106, § 502(a)(2)][/us/pl/104/106/s502/a/2], struck out “and below lieutenant general or vice admiral” after “commander” in first sentence.
+    Subsec. (d)(2)(B). [Pub. L. 104–106][/us/pl/104/106], § 502(a)(2), struck out “and below lieutenant general or vice admiral” after “commander” in first sentence.
 
-    Subsec. (d)(3). [Pub. L. 104–201, § 544(a)(3)][/us/pl/104/201/s544/a/3], (4), redesignated subsec. (d)(2)(B) as par. (3), designated first and second sentences as subpars. (A) and (B), respectively, in subpar. (B), substituted “subparagraph (A)” for “the preceding sentence”, and added subpars. (C) to (E). Former par. (3) redesignated (4).
+    Subsec. (d)(3). [Pub. L. 104–201][/us/pl/104/201], § 544(a)(3), (4), redesignated subsec. (d)(2)(B) as par. (3), designated first and second sentences as subpars. (A) and (B), respectively, in subpar. (B), substituted “subparagraph (A)” for “the preceding sentence”, and added subpars. (C) to (E). Former par. (3) redesignated (4).
 
-    Subsec. (d)(4). [Pub. L. 104–201, § 544(a)(1)][/us/pl/104/201/s544/a/1], redesignated par. (3) as (4).
+    Subsec. (d)(4). [Pub. L. 104–201][/us/pl/104/201], § 544(a)(1), redesignated par. (3) as (4).
 
-    1994—Subsec. (a)(1). [Pub. L. 103–337, § 1671(c)(7)(B)][/us/pl/103/337/s1671/c/7/B], substituted “chapter 1223” for “chapter 67”.
+    1994—Subsec. (a)(1). [Pub. L. 103–337][/us/pl/103/337], § 1671(c)(7)(B), substituted “chapter 1223” for “chapter 67”.
 
-    Subsec. (d). [Pub. L. 103–337, § 1641][/us/pl/103/337/s1641], added subsec. (d).
+    Subsec. (d). [Pub. L. 103–337][/us/pl/103/337], § 1641, added subsec. (d).
 
     1993—Subsec. (a)(2)(A). [Pub. L. 103–160][/us/pl/103/160] substituted “nine-year period” for “five-year period”.
 
@@ -181,21 +181,21 @@
 
  __Effective Date of 1999 Amendment__ 
 
-    [Pub. L. 106–65, div. A, title X, § 1066(b)][/us/pl/106/65/s1066/b], Oct. 5, 1999, [113 Stat. 772][/us/stat/113/772], provided that the amendment made by section 1066(b) is effective Oct. 17, 1998, and as if included in the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, [Pub. L. 105–261][/us/pl/105/261], as enacted.
+    [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1066(b), Oct. 5, 1999, [113 Stat. 772][/us/stat/113/772], provided that the amendment made by section 1066(b) is effective Oct. 17, 1998, and as if included in the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, [Pub. L. 105–261][/us/pl/105/261], as enacted.
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–261, div. A, title V, § 512(b)][/us/pl/105/261/s512/b], Oct. 17, 1998, [112 Stat. 2007][/us/stat/112/2007], provided that: 
+[Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 512(b), Oct. 17, 1998, [112 Stat. 2007][/us/stat/112/2007], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 1998\] and shall apply with respect to appointments to higher grades that take effect after that date.”
 
-[Pub. L. 105–261, div. A, title V, § 513(b)][/us/pl/105/261/s513/b], Oct. 17, 1998, [112 Stat. 2008][/us/stat/112/2008], provided that: 
+[Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 513(b), Oct. 17, 1998, [112 Stat. 2008][/us/stat/112/2008], provided that: 
 
 > “Subparagraph (F) of such section \[subsec. (d)(3)(F) of this section\], as added by subsection (a), shall take effect on the date of the enactment of this Act \[Oct. 17, 1998\] and shall apply with respect to transfers referred to in such subparagraph that are made on or after that date.”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–106, div. A, title V, § 502(e)][/us/pl/104/106/s502/e], Feb. 10, 1996, [110 Stat. 293][/us/stat/110/293], provided that: 
+[Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 502(e), Feb. 10, 1996, [110 Stat. 293][/us/stat/110/293], provided that: 
 
 > “The amendment made by subsection (a)(2) \[amending this section\] shall take effect on October 1, 1996, immediately after subsection (d) of [section 1370 of title 10][/us/usc/t10/s1370], United States Code, takes effect under section 1691(b)(1) of the Reserve Officer Personnel Management Act ([108 Stat. 3026][/us/stat/108/3026]) \[[Pub. L. 103–337][/us/pl/103/337], set out as a note under [section 10001 of this title][/us/usc/t10/s10001]\].”
 
@@ -225,80 +225,80 @@
 [/us/usc/t10/s12731b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12731b
 [/us/usc/t32/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs314
 [/us/usc/t32/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs307
-[/us/pl/96/513/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs112
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2876
-[/us/pl/101/510/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs522
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1561
-[/us/pl/103/160/s561/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs561%2Fd
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1667
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2968
-[/us/pl/104/106/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs502%2Fa
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F292
-[/us/pl/104/201/s544/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs544%2Fa
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2522
-[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2007
-[/us/pl/106/65/s1066/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fa%2F9
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F770
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/stat/115/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1080
-[/us/pl/107/314/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs505
-[/us/stat/116/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2533
-[/us/pl/108/136/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs506
-[/us/stat/117/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1457
-[/us/pl/109/163/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs501
-[/us/stat/119/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3225
-[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/stat/126/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1716
-[/us/pl/112/239/s507/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs507%2F1
-[/us/pl/112/239/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs506
-[/us/pl/112/239/s507/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs507%2F2
-[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/108/136/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs506%2Fa
-[/us/pl/108/136/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs506%2Fb
-[/us/pl/107/314/s505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs505%2Fa%2F1
-[/us/pl/107/314/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs505%2Fa%2F2
-[/us/pl/107/314/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs505%2Fb
-[/us/pl/107/314/s505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs505%2Fc
-[/us/pl/107/107/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs502
-[/us/pl/107/107/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs514
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/106/65/s1066/a/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fa%2F9%2FA
-[/us/pl/106/65/s1066/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fb%2F3
-[/us/pl/105/261/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs513%2Fa
-[/us/pl/106/65/s1066/a/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fa%2F9%2FB
-[/us/pl/105/261/s561/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs561%2Fd
-[/us/pl/105/261/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs512%2Fa
+[/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
+[/us/stat/115/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1080
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
+[/us/stat/116/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2533
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
+[/us/stat/117/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1457
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
+[/us/stat/119/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3225
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
+[/us/stat/126/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1716
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t32/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs308
-[/us/pl/105/261/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs513%2Fa
-[/us/pl/106/65/s1066/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fb%2F3
-[/us/pl/105/261/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs561
-[/us/pl/104/106/s502/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs502%2Fg%2F1
-[/us/pl/104/106/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs502%2Fa%2F1
-[/us/pl/104/106/s502/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs502%2Ff
-[/us/pl/104/106/s502/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs502%2Fg%2F2
-[/us/pl/104/106/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs502%2Fb
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t10/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs601
-[/us/pl/104/106/s502/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs502%2Fg%2F3
-[/us/pl/104/201/s544/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs544%2Fa%2F2
-[/us/pl/104/106/s502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs502%2Fa%2F2
-[/us/pl/104/201/s544/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs544%2Fa%2F3
-[/us/pl/104/201/s544/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs544%2Fa%2F1
-[/us/pl/103/337/s1671/c/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1671%2Fc%2F7%2FB
-[/us/pl/103/337/s1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1641
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/106/65/s1066/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fb
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F772
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
-[/us/pl/105/261/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs512%2Fb
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2007
-[/us/pl/105/261/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs513%2Fb
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2008
-[/us/pl/104/106/s502/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs502%2Fe
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F293
 [/us/usc/t10/s1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1370
 [/us/stat/108/3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3026

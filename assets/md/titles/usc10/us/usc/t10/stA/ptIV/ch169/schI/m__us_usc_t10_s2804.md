@@ -19,7 +19,7 @@
 
     (b) When a decision is made to carry out a military construction project under this section, the Secretary of Defense shall submit a report in writing to the appropriate committees of Congress on that decision. Each such report shall include (1) the justification for the project and the current estimate of the cost of the project, and (2) the justification for carrying out the project under this section. The project may then be carried out only after the end of the 14-day period beginning on the date the notification is received by such committees or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 
-(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 155][/us/stat/96/155]; amended [Pub. L. 102–190, div. B, title XXVIII, § 2870(3)][/us/pl/102/190/s2870/3], Dec. 5, 1991, [105 Stat. 1563][/us/stat/105/1563]; [Pub. L. 108–136, div. A, title X, § 1031(a)(35)][/us/pl/108/136/s1031/a/35], Nov. 24, 2003, [117 Stat. 1600][/us/stat/117/1600]; [Pub. L. 109–163, div. B, title XXVIII, § 2801(a)][/us/pl/109/163/s2801/a], Jan. 6, 2006, [119 Stat. 3504][/us/stat/119/3504].)
+(Added [Pub. L. 97–214][/us/pl/97/214], § 2(a), July 12, 1982, [96 Stat. 155][/us/stat/96/155]; amended [Pub. L. 102–190, div. B, title XXVIII][/us/pl/102/190/dB/tXXVIII], § 2870(3), Dec. 5, 1991, [105 Stat. 1563][/us/stat/105/1563]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(35), Nov. 24, 2003, [117 Stat. 1600][/us/stat/117/1600]; [Pub. L. 109–163, div. B, title XXVIII][/us/pl/109/163/dB/tXXVIII], § 2801(a), Jan. 6, 2006, [119 Stat. 3504][/us/stat/119/3504].)
 
  __Amendments__ 
 
@@ -41,13 +41,13 @@
 ----------
 
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
-[/us/pl/97/214/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs2%2Fa
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F155
-[/us/pl/102/190/s2870/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs2870%2F3
+[/us/pl/102/190/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdB%2FtXXVIII
 [/us/stat/105/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1563
-[/us/pl/108/136/s1031/a/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F35
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1600
-[/us/pl/109/163/s2801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2801%2Fa
+[/us/pl/109/163/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdB%2FtXXVIII
 [/us/stat/119/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3504
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136

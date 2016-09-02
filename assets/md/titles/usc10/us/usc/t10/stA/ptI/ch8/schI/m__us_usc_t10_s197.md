@@ -31,7 +31,7 @@
 
     In this section, the term “Defense Logistics Information Services” means the organization within the Defense Logistics Agency that is known as Defense Logistics Information Services.
 
-(Added [Pub. L. 108–375, div. A, title X, § 1010(a)][/us/pl/108/375/s1010/a], Oct. 28, 2004, [118 Stat. 2038][/us/stat/118/2038].)
+(Added [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1010(a), Oct. 28, 2004, [118 Stat. 2038][/us/stat/118/2038].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/108/375/s1010/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1010%2Fa
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2038
 
 

@@ -33,7 +33,7 @@
 
         (3) The term “current year” means the fiscal year during which the President’s budget is submitted in any year.
 
-(Added [Pub. L. 108–375, div. A, title X, § 1003(a)(1)][/us/pl/108/375/s1003/a/1], Oct. 28, 2004, [118 Stat. 2035][/us/stat/118/2035].)
+(Added [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1003(a)(1), Oct. 28, 2004, [118 Stat. 2035][/us/stat/118/2035].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/108/375/s1003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1003%2Fa%2F1
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2035
 
 

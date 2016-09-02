@@ -179,21 +179,21 @@
 
             In subparagraph (A), the term “applicable retired pay” for a qualified retiree means the amount of monthly retired pay to which the qualified retiree is entitled, determined without regard to this section or sections 5304 and 5305 of title 38, except that in the case of such a retiree who was retired under chapter 61 of this title, such amount is the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member’s service in the uniformed services if the member had not been retired under chapter 61 of this title.
 
-(Added [Pub. L. 107–107, div. A, title VI, § 641(a)][/us/pl/107/107/s641/a], Dec. 28, 2001, [115 Stat. 1149][/us/stat/115/1149]; amended [Pub. L. 108–136, div. A, title VI, § 641(a)][/us/pl/108/136/s641/a], Nov. 24, 2003, [117 Stat. 1511][/us/stat/117/1511]; [Pub. L. 108–375, div. A, title VI, § 642][/us/pl/108/375/s642], Oct. 28, 2004, [118 Stat. 1957][/us/stat/118/1957]; [Pub. L. 109–163, div. A, title VI, § 663][/us/pl/109/163/s663], Jan. 6, 2006, [119 Stat. 3316][/us/stat/119/3316]; [Pub. L. 110–181, div. A, title VI, § 642(a)][/us/pl/110/181/s642/a], Jan. 28, 2008, [122 Stat. 157][/us/stat/122/157]; [Pub. L. 113–76, div. C, title X, § 10001(b)(2)][/us/pl/113/76/s10001/b/2], Jan. 17, 2014, [128 Stat. 151][/us/stat/128/151]; [Pub. L. 114–92, div. A, title VI, § 631(d)(2)][/us/pl/114/92/s631/d/2], Nov. 25, 2015, [129 Stat. 845][/us/stat/129/845].)
+(Added [Pub. L. 107–107, div. A, title VI][/us/pl/107/107/dA/tVI], § 641(a), Dec. 28, 2001, [115 Stat. 1149][/us/stat/115/1149]; amended [Pub. L. 108–136, div. A, title VI][/us/pl/108/136/dA/tVI], § 641(a), Nov. 24, 2003, [117 Stat. 1511][/us/stat/117/1511]; [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 642, Oct. 28, 2004, [118 Stat. 1957][/us/stat/118/1957]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 663, Jan. 6, 2006, [119 Stat. 3316][/us/stat/119/3316]; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 642(a), Jan. 28, 2008, [122 Stat. 157][/us/stat/122/157]; [Pub. L. 113–76, div. C, title X][/us/pl/113/76/dC/tX], § 10001(b)(2), Jan. 17, 2014, [128 Stat. 151][/us/stat/128/151]; [Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], § 631(d)(2), Nov. 25, 2015, [129 Stat. 845][/us/stat/129/845].)
 
  __Amendments__ 
 
-    2015—Subsec. (b)(1). [Pub. L. 114–92, § 631(d)(2)][/us/pl/114/92/s631/d/2], which was approved Nov. 25, 2015, provided that the amendment made by [Pub. L. 113–76, § 10001(b)(2)][/us/pl/113/76/s10001/b/2], which was effective Dec. 1, 2015, would not take effect. See 2014 Amendment note below.
+    2015—Subsec. (b)(1). [Pub. L. 114–92][/us/pl/114/92], § 631(d)(2), which was approved Nov. 25, 2015, provided that the amendment made by [Pub. L. 113–76][/us/pl/113/76], § 10001(b)(2), which was effective Dec. 1, 2015, would not take effect. See 2014 Amendment note below.
 
-    2014—Subsec. (b)(1). [Pub. L. 113–76, § 10001(b)(2)][/us/pl/113/76/s10001/b/2], which directed insertion of “(but without the application of [section 1401a(b)(4) of this title][/us/usc/t10/s1401a/b/4])” after “under any other provision of law”, did not take effect pursuant to [Pub. L. 114–92, § 631(d)(2)][/us/pl/114/92/s631/d/2]. See 2015 Amendment note above.
+    2014—Subsec. (b)(1). [Pub. L. 113–76][/us/pl/113/76], § 10001(b)(2), which directed insertion of “(but without the application of [section 1401a(b)(4) of this title][/us/usc/t10/s1401a/b/4])” after “under any other provision of law”, did not take effect pursuant to [Pub. L. 114–92][/us/pl/114/92], § 631(d)(2). See 2015 Amendment note above.
 
     2008—Subsec. (a)(1). [Pub. L. 110–181][/us/pl/110/181] substituted “except that payment of retired pay is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on December 31, 2004, in the case of the following:” for “except that in the case of a qualified retiree receiving veterans’ disability compensation for a disability rated as 100 percent, payment of retired pay to such veteran is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on December 31, 2004, and in the case of a qualified retiree receiving veterans’ disability compensation at the rate payable for a 100 percent disability by reason of a determination of individual unemployability, payment of retired pay to such veteran is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on September 30, 2009.” and added subpars. (A) and (B).
 
     2006—Subsec. (a)(1). [Pub. L. 109–163][/us/pl/109/163] inserted “, and in the case of a qualified retiree receiving veterans’ disability compensation at the rate payable for a 100 percent disability by reason of a determination of individual unemployability, payment of retired pay to such veteran is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on September 30, 2009” before period at end.
 
-    2004—Subsec. (a)(1). [Pub. L. 108–375, § 642(a)][/us/pl/108/375/s642/a], inserted before period at end “, except that in the case of a qualified retiree receiving veterans’ disability compensation for a disability rated as 100 percent, payment of retired pay to such veteran is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on December 31, 2004”.
+    2004—Subsec. (a)(1). [Pub. L. 108–375][/us/pl/108/375], § 642(a), inserted before period at end “, except that in the case of a qualified retiree receiving veterans’ disability compensation for a disability rated as 100 percent, payment of retired pay to such veteran is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on December 31, 2004”.
 
-    Subsec. (c). [Pub. L. 108–375, § 642(b)][/us/pl/108/375/s642/b], inserted “that pursuant to the second sentence of subsection (a)(1) is subject to this subsection” after “a qualified retiree” in introductory provisions.
+    Subsec. (c). [Pub. L. 108–375][/us/pl/108/375], § 642(b), inserted “that pursuant to the second sentence of subsection (a)(1) is subject to this subsection” after “a qualified retiree” in introductory provisions.
 
     2003—[Pub. L. 108–136][/us/pl/108/136] amended section generally. Prior to amendment, section related to members eligible for retired pay who had service-connected disabilities: payment of retired pay and veterans’ disability compensation; and contingent effectiveness based on enactment of offsetting legislation.
 
@@ -203,7 +203,7 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–181, div. A, title VI, § 642(b)][/us/pl/110/181/s642/b], Jan. 28, 2008, [122 Stat. 157][/us/stat/122/157], provided that:
+[Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 642(b), Jan. 28, 2008, [122 Stat. 157][/us/stat/122/157], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -215,13 +215,13 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–136, div. A, title VI, § 641(e)][/us/pl/108/136/s641/e], Nov. 24, 2003, [117 Stat. 1516][/us/stat/117/1516], provided that: 
+[Pub. L. 108–136, div. A, title VI][/us/pl/108/136/dA/tVI], § 641(e), Nov. 24, 2003, [117 Stat. 1516][/us/stat/117/1516], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and repealing [section 1413 of this title][/us/usc/t10/s1413]\] shall take effect on January 1, 2004, and shall apply to payments for months beginning on or after that date.”
 
  __Prohibition of Retroactive Benefits__ 
 
-[Pub. L. 107–107, div. A, title VI, § 641(d)][/us/pl/107/107/s641/d], Dec. 28, 2001, [115 Stat. 1150][/us/stat/115/1150], provided that: 
+[Pub. L. 107–107, div. A, title VI][/us/pl/107/107/dA/tVI], § 641(d), Dec. 28, 2001, [115 Stat. 1150][/us/stat/115/1150], provided that: 
 
 > “If the provisions of subsection (a) of [section 1414 of title 10][/us/usc/t10/s1414], United States Code, becomes \[sic\] effective in accordance with subsection (f) of that section, no benefit may be paid to any person by reason of those provisions for any period before the effective date specified in subsection (e) of that section.”
 
@@ -239,29 +239,29 @@
 [/us/usc/t10/s1413a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1413a
 [/us/usc/t10/s1413a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1413a
 [/us/usc/t38/s101/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F13
-[/us/pl/107/107/s641/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs641%2Fa
+[/us/pl/107/107/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVI
 [/us/stat/115/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1149
-[/us/pl/108/136/s641/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs641%2Fa
+[/us/pl/108/136/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVI
 [/us/stat/117/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1511
-[/us/pl/108/375/s642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs642
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1957
-[/us/pl/109/163/s663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs663
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3316
-[/us/pl/110/181/s642/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs642%2Fa
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F157
-[/us/pl/113/76/s10001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs10001%2Fb%2F2
+[/us/pl/113/76/dC/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdC%2FtX
 [/us/stat/128/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F151
-[/us/pl/114/92/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fd%2F2
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F845
-[/us/pl/114/92/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fd%2F2
-[/us/pl/113/76/s10001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs10001%2Fb%2F2
-[/us/pl/113/76/s10001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs10001%2Fb%2F2
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/usc/t10/s1401a/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a%2Fb%2F4
-[/us/pl/114/92/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fd%2F2
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/108/375/s642/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs642%2Fa
-[/us/pl/108/375/s642/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs642%2Fb
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/113/67/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403
@@ -269,12 +269,12 @@
 [/us/usc/t10/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a
 [/us/pl/114/92/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fd%2F2
 [/us/usc/t10/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a
-[/us/pl/110/181/s642/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs642%2Fb
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F157
-[/us/pl/108/136/s641/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs641%2Fe
+[/us/pl/108/136/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVI
 [/us/stat/117/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1516
 [/us/usc/t10/s1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1413
-[/us/pl/107/107/s641/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs641%2Fd
+[/us/pl/107/107/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVI
 [/us/stat/115/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1150
 [/us/usc/t10/s1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1414
 

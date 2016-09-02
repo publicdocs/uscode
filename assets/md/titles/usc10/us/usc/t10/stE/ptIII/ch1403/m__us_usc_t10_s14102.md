@@ -33,11 +33,11 @@
 
     No officer may be a member of two successive promotion boards convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] for the consideration of officers of the same competitive category and grade if the second of the two boards is to consider any officer who was considered and not recommended for promotion to the next higher grade by the first of the two boards.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2924][/us/stat/108/2924]; amended [Pub. L. 108–136, div. A, title V, § 511(b)(2)][/us/pl/108/136/s511/b/2], Nov. 24, 2003, [117 Stat. 1459][/us/stat/117/1459].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2924][/us/stat/108/2924]; amended [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 511(b)(2), Nov. 24, 2003, [117 Stat. 1459][/us/stat/117/1459].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 3362(b), (c), 5893(a), (b), and 8362(b), (c) of this title, prior to repeal by [Pub. L. 103–337, § 1629(a)(1)][/us/pl/103/337/s1629/a/1], (b)(2), (c)(1).
+    Provisions similar to those in this section were contained in sections 3362(b), (c), 5893(a), (b), and 8362(b), (c) of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(a)(1), (b)(2), (c)(1).
 
  __Amendments__ 
 
@@ -53,11 +53,11 @@
 [/us/usc/t10/s14101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101
 [/us/usc/t10/s14101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fb
 [/us/usc/t10/s14101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fa
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2924
-[/us/pl/108/136/s511/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs511%2Fb%2F2
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1459
-[/us/pl/103/337/s1629/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fa%2F1
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t10/s14101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fb
 

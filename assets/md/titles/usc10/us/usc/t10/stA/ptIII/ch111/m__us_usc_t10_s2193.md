@@ -35,7 +35,7 @@
 
         (2) The term “cost of attendance” has the meaning given such term in section 472 of the Higher Education Act of 1965 ([20 U.S.C. 1087][/us/usc/t20/s1087]ll).
 
-(Added [Pub. L. 101–510, div. A, title II, § 247(a)(1)][/us/pl/101/510/s247/a/1], Nov. 5, 1990, [104 Stat. 1521][/us/stat/104/1521]; amended [Pub. L. 105–244, title I, § 102(a)(2)(A)][/us/pl/105/244/s102/a/2/A], Oct. 7, 1998, [112 Stat. 1617][/us/stat/112/1617]; [Pub. L. 106–65, div. A, title V, § 580(c)(2)][/us/pl/106/65/s580/c/2], (3), (d)(2), Oct. 5, 1999, [113 Stat. 633][/us/stat/113/633].)
+(Added [Pub. L. 101–510, div. A, title II][/us/pl/101/510/dA/tII], § 247(a)(1), Nov. 5, 1990, [104 Stat. 1521][/us/stat/104/1521]; amended [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(2)(A), Oct. 7, 1998, [112 Stat. 1617][/us/stat/112/1617]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 580(c)(2), (3), (d)(2), Oct. 5, 1999, [113 Stat. 633][/us/stat/113/633].)
 
  __References in Text__ 
 
@@ -43,13 +43,13 @@
 
  __Amendments__ 
 
-    1999—[Pub. L. 106–65, § 580(d)(2)][/us/pl/106/65/s580/d/2], amended section catchline generally. Prior to amendment, catchline read as follows: “Science and mathematics education improvement program”.
+    1999—[Pub. L. 106–65][/us/pl/106/65], § 580(d)(2), amended section catchline generally. Prior to amendment, catchline read as follows: “Science and mathematics education improvement program”.
 
-    Subsec. (b). [Pub. L. 106–65, § 580(c)(3)][/us/pl/106/65/s580/c/3], redesignated subsec. (c) as (b).
+    Subsec. (b). [Pub. L. 106–65][/us/pl/106/65], § 580(c)(3), redesignated subsec. (c) as (b).
 
-    [Pub. L. 106–65, § 580(c)(2)][/us/pl/106/65/s580/c/2], redesignated subsec. (b) as [section 2193a of this title][/us/usc/t10/s2193a].
+    [Pub. L. 106–65][/us/pl/106/65], § 580(c)(2), redesignated subsec. (b) as [section 2193a of this title][/us/usc/t10/s2193a].
 
-    Subsec. (c). [Pub. L. 106–65, § 580(c)(3)][/us/pl/106/65/s580/c/3], redesignated subsec. (c) as (b).
+    Subsec. (c). [Pub. L. 106–65][/us/pl/106/65], § 580(c)(3), redesignated subsec. (c) as (b).
 
     1998—Subsec. (c)(1). [Pub. L. 105–244][/us/pl/105/244] substituted “section 101 of the Higher Education Act of 1965” for “section 1201(a) of the Higher Education Act of 1965 ([20 U.S.C. 1141(a)][/us/usc/t20/s1141/a])”.
 
@@ -65,18 +65,18 @@
 ----------
 
 [/us/usc/t20/s1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087
-[/us/pl/101/510/s247/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs247%2Fa%2F1
+[/us/pl/101/510/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtII
 [/us/stat/104/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1521
-[/us/pl/105/244/s102/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F2%2FA
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1617
-[/us/pl/106/65/s580/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs580%2Fc%2F2
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F633
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/106/65/s580/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs580%2Fd%2F2
-[/us/pl/106/65/s580/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs580%2Fc%2F3
-[/us/pl/106/65/s580/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs580%2Fc%2F2
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t10/s2193a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2193a
-[/us/pl/106/65/s580/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs580%2Fc%2F3
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t20/s1141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1141%2Fa
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

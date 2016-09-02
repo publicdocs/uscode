@@ -37,37 +37,37 @@
 
     (e) In this section, the term “veteran” has the meaning given that term in [section 101(2) of title 38][/us/usc/t38/s101/2].
 
-(Added [Pub. L. 100–180, div. A, title XII, § 1250(a)(1)][/us/pl/100/180/s1250/a/1], Dec. 4, 1987, [101 Stat. 1167][/us/stat/101/1167]; amended [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], (2), (8), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602], 1603; [Pub. L. 103–337, div. A, title VI, § 652(b)][/us/pl/103/337/s652/b], title X, § 1070(e)(8), Oct. 5, 1994, [108 Stat. 2794][/us/stat/108/2794], 2859.)
+(Added [Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1250(a)(1), Dec. 4, 1987, [101 Stat. 1167][/us/stat/101/1167]; amended [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(1), (2), (8), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602], 1603; [Pub. L. 103–337, div. A, title VI][/us/pl/103/337/dA/tVI], § 652(b), title X, § 1070(e)(8), Oct. 5, 1994, [108 Stat. 2794][/us/stat/108/2794], 2859.)
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–337, § 652(b)(1)][/us/pl/103/337/s652/b/1], inserted before period “or of transporting the remains of a deceased veteran who died at such a facility after being transported to the facility under this subsection. Transportation of the remains of a deceased veteran under this subsection may be provided to the place from which the veteran was transported to the facility or to any other destination which is not farther away from the facility than such place”.
+    1994—Subsec. (a). [Pub. L. 103–337][/us/pl/103/337], § 652(b)(1), inserted before period “or of transporting the remains of a deceased veteran who died at such a facility after being transported to the facility under this subsection. Transportation of the remains of a deceased veteran under this subsection may be provided to the place from which the veteran was transported to the facility or to any other destination which is not farther away from the facility than such place”.
 
-    Subsec. (b). [Pub. L. 103–337, § 652(b)(2)(A)(i)][/us/pl/103/337/s652/b/2/A/i], inserted “(or for the remains of a veteran)” after “furnished to a veteran” in introductory provisions.
+    Subsec. (b). [Pub. L. 103–337][/us/pl/103/337], § 652(b)(2)(A)(i), inserted “(or for the remains of a veteran)” after “furnished to a veteran” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 103–337, § 652(b)(2)(A)(ii)][/us/pl/103/337/s652/b/2/A/ii], inserted “(or of the remains of such veteran)” after “of such veteran”.
+    Subsec. (b)(1). [Pub. L. 103–337][/us/pl/103/337], § 652(b)(2)(A)(ii), inserted “(or of the remains of such veteran)” after “of such veteran”.
 
-    Subsec. (b)(2). [Pub. L. 103–337, § 652(b)(2)(A)(iii)][/us/pl/103/337/s652/b/2/A/iii], inserted “(or the remains of the veteran)” after “for the veteran”.
+    Subsec. (b)(2). [Pub. L. 103–337][/us/pl/103/337], § 652(b)(2)(A)(iii), inserted “(or the remains of the veteran)” after “for the veteran”.
 
-    Subsec. (c). [Pub. L. 103–337, § 1070(e)(8)][/us/pl/103/337/s1070/e/8], substituted “[section 8111(g)(5) of title 38][/us/usc/t38/s8111/g/5]” for “[section 5011(g)(5) of title 38][/us/usc/t38/s5011/g/5]”.
+    Subsec. (c). [Pub. L. 103–337][/us/pl/103/337], § 1070(e)(8), substituted “[section 8111(g)(5) of title 38][/us/usc/t38/s8111/g/5]” for “[section 5011(g)(5) of title 38][/us/usc/t38/s5011/g/5]”.
 
-    Subsec. (d)(1). [Pub. L. 103–337, § 652(b)(2)(B)][/us/pl/103/337/s652/b/2/B], inserted “(or on the survivors of a veteran)” after “on a veteran” and “(or for the remains of the veteran)” after “to the veteran”.
+    Subsec. (d)(1). [Pub. L. 103–337][/us/pl/103/337], § 652(b)(2)(B), inserted “(or on the survivors of a veteran)” after “on a veteran” and “(or for the remains of the veteran)” after “to the veteran”.
 
-    Subsec. (d)(2). [Pub. L. 103–337, § 652(b)(2)(C)][/us/pl/103/337/s652/b/2/C], inserted “(or for the remains of veterans)” after “to veterans”.
+    Subsec. (d)(2). [Pub. L. 103–337][/us/pl/103/337], § 652(b)(2)(C), inserted “(or for the remains of veterans)” after “to veterans”.
 
-    1989—Subsec. (a). [Pub. L. 101–189, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+    1989—Subsec. (a). [Pub. L. 101–189][/us/pl/101/189], § 1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-    Subsec. (b). [Pub. L. 101–189, § 1621(a)(2)][/us/pl/101/189/s1621/a/2], substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” in introductory provisions and in par. (1).
+    Subsec. (b). [Pub. L. 101–189][/us/pl/101/189], § 1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” in introductory provisions and in par. (1).
 
-    Subsec. (b)(1). [Pub. L. 101–189, § 1621(a)(8)][/us/pl/101/189/s1621/a/8], substituted “the Secretary of Veterans Affairs requests” for “the Administrator requests”.
+    Subsec. (b)(1). [Pub. L. 101–189][/us/pl/101/189], § 1621(a)(8), substituted “the Secretary of Veterans Affairs requests” for “the Administrator requests”.
 
-    [Pub. L. 101–189, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], substituted “Department of Veterans Affairs” for “Veterans’ Administration” in two places.
+    [Pub. L. 101–189][/us/pl/101/189], § 1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration” in two places.
 
-    Subsec. (d)(2). [Pub. L. 101–189, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+    Subsec. (d)(2). [Pub. L. 101–189][/us/pl/101/189], § 1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
  __Deadline for Entry Into Transportation Agreement__ 
 
-    [Pub. L. 100–180, div. A, title XII, § 1250(b)][/us/pl/100/180/s1250/b], Dec. 4, 1987, [101 Stat. 1168][/us/stat/101/1168], directed Secretary of Defense and Administrator of Veterans’ Affairs to enter into an agreement required by this section not later than 60 days after Dec. 4, 1987.
+    [Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1250(b), Dec. 4, 1987, [101 Stat. 1168][/us/stat/101/1168], directed Secretary of Defense and Administrator of Veterans’ Affairs to enter into an agreement required by this section not later than 60 days after Dec. 4, 1987.
 
 ----------
 
@@ -78,27 +78,27 @@
 
 [/us/usc/t38/s8111/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8111%2Fg%2F5
 [/us/usc/t38/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F2
-[/us/pl/100/180/s1250/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1250%2Fa%2F1
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1167
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1602
-[/us/pl/103/337/s652/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs652%2Fb
+[/us/pl/103/337/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVI
 [/us/stat/108/2794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2794
-[/us/pl/103/337/s652/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs652%2Fb%2F1
-[/us/pl/103/337/s652/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs652%2Fb%2F2%2FA%2Fi
-[/us/pl/103/337/s652/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs652%2Fb%2F2%2FA%2Fii
-[/us/pl/103/337/s652/b/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs652%2Fb%2F2%2FA%2Fiii
-[/us/pl/103/337/s1070/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fe%2F8
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t38/s8111/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs8111%2Fg%2F5
 [/us/usc/t38/s5011/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5011%2Fg%2F5
-[/us/pl/103/337/s652/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs652%2Fb%2F2%2FB
-[/us/pl/103/337/s652/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs652%2Fb%2F2%2FC
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
-[/us/pl/101/189/s1621/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F2
-[/us/pl/101/189/s1621/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F8
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
-[/us/pl/100/180/s1250/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1250%2Fb
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1168
 
 

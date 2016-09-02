@@ -57,7 +57,7 @@
 
     (h) The Secretary of Defense may prescribe, by regulations, procedures for implementing this section, including standards for qualified loans and authorized payees and other terms and conditions for making loan repayments. Such regulations may include exceptions that would allow for the payment as a lump sum of any loan repayment due to a member under a written agreement that existed at the time of a member’s death or disability.
 
-(Added [Pub. L. 99–145, title VI, § 671(a)(1)][/us/pl/99/145/s671/a/1], Nov. 8, 1985, [99 Stat. 661][/us/stat/99/661]; amended [Pub. L. 103–337, div. A, title XVI, § 1663(e)][/us/pl/103/337/s1663/e], Oct. 5, 1994, [108 Stat. 3009][/us/stat/108/3009]; [Pub. L. 104–106, div. A, title X, § 1079(a)][/us/pl/104/106/s1079/a], Feb. 10, 1996, [110 Stat. 451][/us/stat/110/451]; [Pub. L. 109–163, div. A, title V, § 537][/us/pl/109/163/s537], Jan. 6, 2006, [119 Stat. 3249][/us/stat/119/3249]; [Pub. L. 111–383, div. A, title V, § 552(a)][/us/pl/111/383/s552/a], Jan. 7, 2011, [124 Stat. 4220][/us/stat/124/4220].)
+(Added [Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 671(a)(1), Nov. 8, 1985, [99 Stat. 661][/us/stat/99/661]; amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1663(e), Oct. 5, 1994, [108 Stat. 3009][/us/stat/108/3009]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1079(a), Feb. 10, 1996, [110 Stat. 451][/us/stat/110/451]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 537, Jan. 6, 2006, [119 Stat. 3249][/us/stat/119/3249]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 552(a), Jan. 7, 2011, [124 Stat. 4220][/us/stat/124/4220].)
 
  __References in Text__ 
 
@@ -67,17 +67,17 @@
 
     2011—Subsecs. (g), (h). [Pub. L. 111–383][/us/pl/111/383] added subsecs. (g) and (h).
 
-    2006—Subsec. (a)(1)(D). [Pub. L. 109–163, § 537(a)][/us/pl/109/163/s537/a], added subpar. (D).
+    2006—Subsec. (a)(1)(D). [Pub. L. 109–163][/us/pl/109/163], § 537(a), added subpar. (D).
 
-    Subsec. (a)(2). [Pub. L. 109–163, § 537(b)][/us/pl/109/163/s537/b], substituted “a member in an officer program or military specialty” for “an enlisted member in a military specialty”.
+    Subsec. (a)(2). [Pub. L. 109–163][/us/pl/109/163], § 537(b), substituted “a member in an officer program or military specialty” for “an enlisted member in a military specialty”.
 
     1996—Subsec. (a)(1). [Pub. L. 104–106][/us/pl/104/106] struck out “or” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
 
-    1994—[Pub. L. 103–337, § 1663(e)(6)][/us/pl/103/337/s1663/e/6], substituted “Education loan repayment program: enlisted members on active duty in specified military specialties” for “General educational loan repayment program” as section catchline.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 1663(e)(6), substituted “Education loan repayment program: enlisted members on active duty in specified military specialties” for “General educational loan repayment program” as section catchline.
 
-    Subsec. (a)(1)(B). [Pub. L. 103–337, § 1663(e)(1)][/us/pl/103/337/s1663/e/1], struck out “or” after “(B)”.
+    Subsec. (a)(1)(B). [Pub. L. 103–337][/us/pl/103/337], § 1663(e)(1), struck out “or” after “(B)”.
 
-    Subsec. (a)(2). [Pub. L. 103–337, § 1663(e)(2)][/us/pl/103/337/s1663/e/2], substituted “case of any person for—
+    Subsec. (a)(2). [Pub. L. 103–337][/us/pl/103/337], § 1663(e)(2), substituted “case of any person for—
 
     “(A) service performed—
 
@@ -89,15 +89,15 @@
 
     and struck out at end “In the case of service described in clause (A) of the first sentence of this paragraph, the Secretary may repay a loan described in paragraph (1) only if the person to whom the loan was made performed such service after the loan was made.”
 
-    Subsec. (b). [Pub. L. 103–337, § 1663(e)(3)][/us/pl/103/337/s1663/e/3], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The portion or amount of a loan that may be repaid under subsection (a) is—
+    Subsec. (b). [Pub. L. 103–337][/us/pl/103/337], § 1663(e)(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The portion or amount of a loan that may be repaid under subsection (a) is—
 
     “(1) 15 percent or $500, whichever is greater, for each year of service, in the case of service described in subsection (a)(2)(A); or
 
     “(2) 33⅓ percent or $1,500, whichever is greater, for each year of service, in the case of service described in subsection (a)(2)(B).”
 
-    Subsec. (e). [Pub. L. 103–337, § 1663(e)(4)][/us/pl/103/337/s1663/e/4], substituted “A person who transfers from service making the person eligible for repayment of loans under this section (as described in subsection (a)(2)) to service making the person eligible for repayment of loans under [section 16301 of this title][/us/usc/t10/s16301] (as described in subsection (a)(2) of that section)” for “Any individual who transfers from service described in clause (A) or (B) of subsection (a)(2) to service described in the other clause of such subsection”.
+    Subsec. (e). [Pub. L. 103–337][/us/pl/103/337], § 1663(e)(4), substituted “A person who transfers from service making the person eligible for repayment of loans under this section (as described in subsection (a)(2)) to service making the person eligible for repayment of loans under [section 16301 of this title][/us/usc/t10/s16301] (as described in subsection (a)(2) of that section)” for “Any individual who transfers from service described in clause (A) or (B) of subsection (a)(2) to service described in the other clause of such subsection”.
 
-    Subsec. (f). [Pub. L. 103–337, § 1663(e)(5)][/us/pl/103/337/s1663/e/5], inserted “and [section 16301 of this title][/us/usc/t10/s16301]” after “this section” and “and [section 16301(a) of this title][/us/usc/t10/s16301/a]” after “subsection (a)”.
+    Subsec. (f). [Pub. L. 103–337][/us/pl/103/337], § 1663(e)(5), inserted “and [section 16301 of this title][/us/usc/t10/s16301]” after “this section” and “and [section 16301(a) of this title][/us/usc/t10/s16301/a]” after “subsection (a)”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -105,7 +105,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–145, title VI, § 671(b)(1)][/us/pl/99/145/s671/b/1], Nov. 8, 1985, [99 Stat. 663][/us/stat/99/663], provided that: 
+[Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 671(b)(1), Nov. 8, 1985, [99 Stat. 663][/us/stat/99/663], provided that: 
 
 > “The authority provided under [section 2171 of title 10][/us/usc/t10/s2171], United States Code, as added by subsection (a), shall apply only—
 
@@ -130,36 +130,36 @@
 [/us/usc/t10/s16301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16301%2Fa
 [/us/usc/t10/s16301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16301
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/99/145/s671/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs671%2Fa%2F1
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F661
-[/us/pl/103/337/s1663/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fe
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3009
-[/us/pl/104/106/s1079/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1079%2Fa
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F451
-[/us/pl/109/163/s537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs537
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3249
-[/us/pl/111/383/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs552%2Fa
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4220
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/109/163/s537/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs537%2Fa
-[/us/pl/109/163/s537/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs537%2Fb
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/337/s1663/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fe%2F6
-[/us/pl/103/337/s1663/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fe%2F1
-[/us/pl/103/337/s1663/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fe%2F2
-[/us/pl/103/337/s1663/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fe%2F3
-[/us/pl/103/337/s1663/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fe%2F4
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s16301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16301
-[/us/pl/103/337/s1663/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fe%2F5
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s16301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16301
 [/us/usc/t10/s16301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16301%2Fa
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
-[/us/pl/99/145/s671/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs671%2Fb%2F1
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F663
 [/us/usc/t10/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2171
 

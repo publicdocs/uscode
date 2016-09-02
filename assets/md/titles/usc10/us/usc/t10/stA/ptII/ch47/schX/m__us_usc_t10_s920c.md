@@ -67,7 +67,7 @@
 
         The term “indecent manner” means conduct that amounts to a form of immorality relating to sexual impurity which is grossly vulgar, obscene, and repugnant to common propriety, and tends to excite sexual desire or deprave morals with respect to sexual relations.
 
-(Added [Pub. L. 112–81, div. A, title V, § 541(c)][/us/pl/112/81/s541/c], Dec. 31, 2011, [125 Stat. 1409][/us/stat/125/1409].)
+(Added [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 541(c), Dec. 31, 2011, [125 Stat. 1409][/us/stat/125/1409].)
 
  __Effective Date__ 
 
@@ -81,7 +81,7 @@
 ----------
 
 [/us/usc/t10/s920/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs920%2Fg
-[/us/pl/112/81/s541/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fc
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1409
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/112/81/s541/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Ff

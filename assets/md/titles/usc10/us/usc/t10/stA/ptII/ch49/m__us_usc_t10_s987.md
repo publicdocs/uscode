@@ -215,7 +215,7 @@
 
         The term “consumer credit” has the meaning provided for such term in regulations prescribed under this section, except that such term does not include (A) a residential mortgage, or (B) a loan procured in the course of purchasing a car or other personal property, when that loan is offered for the express purpose of financing the purchase and is secured by the car or personal property procured.
 
-(Added [Pub. L. 109–364, div. A, title VI, § 670(a)][/us/pl/109/364/s670/a], Oct. 17, 2006, [120 Stat. 2266][/us/stat/120/2266]; amended [Pub. L. 112–239, div. A, title VI][/us/pl/112/239], §§ 661(a), (b), 662(a), (b), 663, Jan. 2, 2013, [126 Stat. 1785][/us/stat/126/1785], 1786.)
+(Added [Pub. L. 109–364, div. A, title VI][/us/pl/109/364/dA/tVI], § 670(a), Oct. 17, 2006, [120 Stat. 2266][/us/stat/120/2266]; amended [Pub. L. 112–239, div. A, title VI][/us/pl/112/239/dA/tVI], §§ 661(a), (b), 662(a), (b), 663, Jan. 2, 2013, [126 Stat. 1785][/us/stat/126/1785], 1786.)
 
  __References in Text__ 
 
@@ -225,21 +225,21 @@
 
  __Amendments__ 
 
-    2013—Subsec. (d)(2)(A). [Pub. L. 112–239, § 661(a)(1)][/us/pl/112/239/s661/a/1], inserted “any consumer credit or” before “loans”.
+    2013—Subsec. (d)(2)(A). [Pub. L. 112–239][/us/pl/112/239], § 661(a)(1), inserted “any consumer credit or” before “loans”.
 
-    Subsec. (d)(2)(B). [Pub. L. 112–239, § 661(a)(2)][/us/pl/112/239/s661/a/2], inserted “covering consumer credit” after “State consumer lending protections”.
+    Subsec. (d)(2)(B). [Pub. L. 112–239][/us/pl/112/239], § 661(a)(2), inserted “covering consumer credit” after “State consumer lending protections”.
 
-    Subsec. (f)(5), (6). [Pub. L. 112–239, § 662(a)][/us/pl/112/239/s662/a], (b), added pars. (5) and (6).
+    Subsec. (f)(5), (6). [Pub. L. 112–239][/us/pl/112/239], § 662(a), (b), added pars. (5) and (6).
 
-    Subsec. (h)(3). [Pub. L. 112–239, § 661(b)(1)][/us/pl/112/239/s661/b/1], inserted “and not less often than once every two years thereafter,” after “under this subsection,” in introductory provisions.
+    Subsec. (h)(3). [Pub. L. 112–239][/us/pl/112/239], § 661(b)(1), inserted “and not less often than once every two years thereafter,” after “under this subsection,” in introductory provisions.
 
-    Subsec. (h)(3)(E). [Pub. L. 112–239, § 661(b)(2)][/us/pl/112/239/s661/b/2], added subpar. (E) and struck out former subpar. (E) which read as follows: “The Office of Thrift Supervision.”
+    Subsec. (h)(3)(E). [Pub. L. 112–239][/us/pl/112/239], § 661(b)(2), added subpar. (E) and struck out former subpar. (E) which read as follows: “The Office of Thrift Supervision.”
 
-    Subsec. (i)(2). [Pub. L. 112–239, § 663][/us/pl/112/239/s663], amended par. (2) generally. Prior to amendment, par. (2) defined the term “dependent”.
+    Subsec. (i)(2). [Pub. L. 112–239][/us/pl/112/239], § 663, amended par. (2) generally. Prior to amendment, par. (2) defined the term “dependent”.
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–239, div. A, title VI, § 661(c)][/us/pl/112/239/s661/c], Jan. 2, 2013, [126 Stat. 1785][/us/stat/126/1785], provided that:
+[Pub. L. 112–239, div. A, title VI][/us/pl/112/239/dA/tVI], § 661(c), Jan. 2, 2013, [126 Stat. 1785][/us/stat/126/1785], provided that:
 
 >     “(1)  __Modification of regulations__  __.—__ 
 
@@ -257,13 +257,13 @@
 
 >     If the Secretary specifies an earlier effective date for the amendments made by subsection (a) pursuant to paragraph (2)(B), the Secretary shall publish notice of such earlier effective date in the Federal Register not later than 90 days before such earlier effective date.”
 
-[Pub. L. 112–239, div. A, title VI, § 662(c)][/us/pl/112/239/s662/c], Jan. 2, 2013, [126 Stat. 1786][/us/stat/126/1786], provided that: 
+[Pub. L. 112–239, div. A, title VI][/us/pl/112/239/dA/tVI], § 662(c), Jan. 2, 2013, [126 Stat. 1786][/us/stat/126/1786], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to consumer credit extended on or after the date of the enactment of this Act \[Jan. 2, 2013\].”
 
  __Effective Date__ 
 
-[Pub. L. 109–364, div. A, title VI, § 670(c)][/us/pl/109/364/s670/c], Oct. 17, 2006, [120 Stat. 2269][/us/stat/120/2269], provided that:
+[Pub. L. 109–364, div. A, title VI][/us/pl/109/364/dA/tVI], § 670(c), Oct. 17, 2006, [120 Stat. 2269][/us/stat/120/2269], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -279,13 +279,13 @@
 
  __Meetings With Private Sector Users of Systems__ 
 
-[Pub. L. 114–92, div. A, title V, § 594(b)(3)][/us/pl/114/92/s594/b/3], Nov. 25, 2015, [129 Stat. 834][/us/stat/129/834], provided that: 
+[Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 594(b)(3), Nov. 25, 2015, [129 Stat. 834][/us/stat/129/834], provided that: 
 
 > “The Director of the Defense Manpower Data Center shall meet regularly with private sector users of Defense Manpower Data Center systems used to identify covered borrowers and covered policyholders under military consumer protection laws to learn about issues facing such users and to develop ways of addressing such issues. The first meeting pursuant to this requirement shall take place with three months after the date of the enactment of this Act \[Nov. 25, 2015\].”
 
  __Interim Regulations__ 
 
-[Pub. L. 109–364, div. A, title VI, § 670(d)][/us/pl/109/364/s670/d], Oct. 17, 2006, [120 Stat. 2269][/us/stat/120/2269], provided that: 
+[Pub. L. 109–364, div. A, title VI][/us/pl/109/364/dA/tVI], § 670(d), Oct. 17, 2006, [120 Stat. 2269][/us/stat/120/2269], provided that: 
 
 > “The Secretary of Defense may prescribe interim regulations as necessary to carry out such section \[this section\]. For the purpose of prescribing such interim regulations, the Secretary is excepted from compliance with the notice-and-comment requirements of [section 553 of title 5][/us/usc/t5/s553], United States Code. All interim rules prescribed under the authority of this subsection that are not earlier superseded by final rules shall expire no later than 270 days after the effective date of [section 987 of title 10][/us/usc/t10/s987], United States Code \[see Effective Date note above\], as added by this section.”
 
@@ -302,9 +302,9 @@
 [/us/usc/t15/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1607
 [/us/usc/t10/s1072/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2
 [/us/usc/t15/s1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1606
-[/us/pl/109/364/s670/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs670%2Fa
+[/us/pl/109/364/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVI
 [/us/stat/120/2266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2266
-[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVI
 [/us/stat/126/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1785
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
 [/us/stat/82/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F146
@@ -312,24 +312,24 @@
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1178
 [/us/usc/t50/s3937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3937
-[/us/pl/112/239/s661/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs661%2Fa%2F1
-[/us/pl/112/239/s661/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs661%2Fa%2F2
-[/us/pl/112/239/s662/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs662%2Fa
-[/us/pl/112/239/s661/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs661%2Fb%2F1
-[/us/pl/112/239/s661/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs661%2Fb%2F2
-[/us/pl/112/239/s663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs663
-[/us/pl/112/239/s661/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs661%2Fc
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVI
 [/us/stat/126/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1785
 [/us/usc/t10/s987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs987
-[/us/pl/112/239/s662/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs662%2Fc
+[/us/pl/112/239/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVI
 [/us/stat/126/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1786
-[/us/pl/109/364/s670/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs670%2Fc
+[/us/pl/109/364/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVI
 [/us/stat/120/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2269
 [/us/usc/t10/s987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs987
 [/us/usc/t10/s987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs987
-[/us/pl/114/92/s594/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs594%2Fb%2F3
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F834
-[/us/pl/109/364/s670/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs670%2Fd
+[/us/pl/109/364/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVI
 [/us/stat/120/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2269
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t10/s987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs987

@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stC/ptII/ch575/m__us_usc_t10_stC_ptII_ch575.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch575/m__us_usc_t10_s6482.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6481)
 
-## \[§ 6481. Repealed. [Pub. L. 96–513, title III, § 362(a)][/us/pl/96/513/s362/a], Dec. 12, 1980, [94 Stat. 2903][/us/stat/94/2903]\]
+## \[§ 6481. Repealed. [Pub. L. 96–513, title III][/us/pl/96/513/tIII], § 362(a), Dec. 12, 1980, [94 Stat. 2903][/us/stat/94/2903]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 416][/us/stat/70A/416], related to authority to recall retired officers of Regular Navy and Regular Marine Corps. See [section 688 of this title][/us/usc/t10/s688].
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/96/513/s362/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs362%2Fa
+[/us/pl/96/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIII
 [/us/stat/94/2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2903
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F416

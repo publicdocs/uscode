@@ -127,35 +127,35 @@
 
         The term “regular on its face”, when used in connection with a court order, means a court order that meets the conditions prescribed in [section 1408(b)(2) of this title][/us/usc/t10/s1408/b/2].
 
-(Added [Pub. L. 92–425, § 1(3)][/us/pl/92/425/s1/3], Sept. 21, 1972, [86 Stat. 706][/us/stat/86/706]; amended [Pub. L. 94–496, § 1(1)][/us/pl/94/496/s1/1], Oct. 14, 1976, [90 Stat. 2375][/us/stat/90/2375]; [Pub. L. 95–397, title II, § 201][/us/pl/95/397/s201], Sept. 30, 1978, [92 Stat. 843][/us/stat/92/843]; [Pub. L. 96–402, § 2][/us/pl/96/402/s2], Oct. 9, 1980, [94 Stat. 1705][/us/stat/94/1705]; [Pub. L. 97–252, title X, § 1003(a)][/us/pl/97/252/s1003/a], Sept. 8, 1982, [96 Stat. 735][/us/stat/96/735]; [Pub. L. 98–94, title IX, § 941(c)(1)][/us/pl/98/94/s941/c/1], Sept. 24, 1983, [97 Stat. 653][/us/stat/97/653]; [Pub. L. 99–145, title VII][/us/pl/99/145], §§ 719(1), (2), 721(b), Nov. 8, 1985, [99 Stat. 675][/us/stat/99/675], 676; [Pub. L. 99–348, title III, § 301(a)(1)][/us/pl/99/348/s301/a/1], July 1, 1986, [100 Stat. 702][/us/stat/100/702]; [Pub. L. 99–661, div. A, title XIII, § 1343(a)(8)(A)][/us/pl/99/661/s1343/a/8/A], Nov. 14, 1986, [100 Stat. 3992][/us/stat/100/3992]; [Pub. L. 100–180, div. A, title XII, § 1231(17)][/us/pl/100/180/s1231/17], Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161]; [Pub. L. 101–189, div. A, title XIV, § 1407(a)(1)][/us/pl/101/189/s1407/a/1]–(3), Nov. 29, 1989, [103 Stat. 1588][/us/stat/103/1588]; [Pub. L. 101–510, div. A, title XIV, § 1484][/us/pl/101/510/s1484](l)(4)(C)(i), Nov. 5, 1990, [104 Stat. 1720][/us/stat/104/1720]; [Pub. L. 103–337, div. A, title XVI, § 1671(d)][/us/pl/103/337/s1671/d], Oct. 5, 1994, [108 Stat. 3014][/us/stat/108/3014]; [Pub. L. 104–201, div. A, title VI, § 634][/us/pl/104/201/s634], Sept. 23, 1996, [110 Stat. 2551][/us/stat/110/2551].)
+(Added [Pub. L. 92–425][/us/pl/92/425], § 1(3), Sept. 21, 1972, [86 Stat. 706][/us/stat/86/706]; amended [Pub. L. 94–496][/us/pl/94/496], § 1(1), Oct. 14, 1976, [90 Stat. 2375][/us/stat/90/2375]; [Pub. L. 95–397, title II][/us/pl/95/397/tII], § 201, Sept. 30, 1978, [92 Stat. 843][/us/stat/92/843]; [Pub. L. 96–402][/us/pl/96/402], § 2, Oct. 9, 1980, [94 Stat. 1705][/us/stat/94/1705]; [Pub. L. 97–252, title X][/us/pl/97/252/tX], § 1003(a), Sept. 8, 1982, [96 Stat. 735][/us/stat/96/735]; [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], § 941(c)(1), Sept. 24, 1983, [97 Stat. 653][/us/stat/97/653]; [Pub. L. 99–145, title VII][/us/pl/99/145/tVII], §§ 719(1), (2), 721(b), Nov. 8, 1985, [99 Stat. 675][/us/stat/99/675], 676; [Pub. L. 99–348, title III][/us/pl/99/348/tIII], § 301(a)(1), July 1, 1986, [100 Stat. 702][/us/stat/100/702]; [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1343(a)(8)(A), Nov. 14, 1986, [100 Stat. 3992][/us/stat/100/3992]; [Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1231(17), Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161]; [Pub. L. 101–189, div. A, title XIV][/us/pl/101/189/dA/tXIV], § 1407(a)(1)–(3), Nov. 29, 1989, [103 Stat. 1588][/us/stat/103/1588]; [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1484(l)(4)(C)(i), Nov. 5, 1990, [104 Stat. 1720][/us/stat/104/1720]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1671(d), Oct. 5, 1994, [108 Stat. 3014][/us/stat/108/3014]; [Pub. L. 104–201, div. A, title VI][/us/pl/104/201/dA/tVI], § 634, Sept. 23, 1996, [110 Stat. 2551][/us/stat/110/2551].)
 
  __References in Text__ 
 
-    Chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in par. (5), means chapter 67 (§ 1331 et seq.) of this title prior to its transfer to part II of subtitle E of this title, its renumbering as chapter 1223, and its general revision by [section 1662(j)(1) of Pub. L. 103–337][/us/pl/103/337/s1662/j/1]. A new chapter 67 (§ 1331) of this title was added by [section 1662(j)(7) of Pub. L. 103–337][/us/pl/103/337/s1662/j/7]. For effective date of the Reserve Officer Personnel Management Act ([Pub. L. 103–337, title XVI][/us/pl/103/337]), see [section 1691 of Pub. L. 103–337][/us/pl/103/337/s1691], set out as an Effective Date note under [section 10001 of this title][/us/usc/t10/s10001].
+    Chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in par. (5), means chapter 67 (§ 1331 et seq.) of this title prior to its transfer to part II of subtitle E of this title, its renumbering as chapter 1223, and its general revision by [section 1662(j)(1) of Pub. L. 103–337][/us/pl/103/337/s1662/j/1]. A new chapter 67 (§ 1331) of this title was added by [section 1662(j)(7) of Pub. L. 103–337][/us/pl/103/337/s1662/j/7]. For effective date of the Reserve Officer Personnel Management Act ([Pub. L. 103–337, title XVI][/us/pl/103/337/tXVI]), see [section 1691 of Pub. L. 103–337][/us/pl/103/337/s1691], set out as an Effective Date note under [section 10001 of this title][/us/usc/t10/s10001].
 
  __Amendments__ 
 
     1996—[Pub. L. 104–201][/us/pl/104/201] amended section generally, making changes in the order, style, and substance of definitions of terms used in this subchapter and adding definition of “surviving spouse”.
 
-    1994—Par. (2)(C). [Pub. L. 103–337, § 1671(d)(2)][/us/pl/103/337/s1671/d/2], substituted “12731(d)” for “1331(d)”.
+    1994—Par. (2)(C). [Pub. L. 103–337][/us/pl/103/337], § 1671(d)(2), substituted “12731(d)” for “1331(d)”.
 
-    Par. (14). [Pub. L. 103–337, § 1671(d)(1)][/us/pl/103/337/s1671/d/1], substituted “chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “chapter 67 of this title”.
+    Par. (14). [Pub. L. 103–337][/us/pl/103/337], § 1671(d)(1), substituted “chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “chapter 67 of this title”.
 
-    1990—Par. (5). [Pub. L. 101–510][/us/pl/101/510] made technical correction to directory language of [Pub. L. 101–189, § 1407(a)(1)(A)][/us/pl/101/189/s1407/a/1/A], see 1989 Amendment note below.
+    1990—Par. (5). [Pub. L. 101–510][/us/pl/101/510] made technical correction to directory language of [Pub. L. 101–189][/us/pl/101/189], § 1407(a)(1)(A), see 1989 Amendment note below.
 
-    1989—Par. (2)(B). [Pub. L. 101–189, § 1407(a)(2)][/us/pl/101/189/s1407/a/2], substituted “reserve-component retired pay” for “retired pay under chapter 67 of this title”.
+    1989—Par. (2)(B). [Pub. L. 101–189][/us/pl/101/189], § 1407(a)(2), substituted “reserve-component retired pay” for “retired pay under chapter 67 of this title”.
 
-    Par. (2)(C)(i). [Pub. L. 101–189, § 1407(a)(3)][/us/pl/101/189/s1407/a/3], struck out “or retainer” after “eligible for retired”.
+    Par. (2)(C)(i). [Pub. L. 101–189][/us/pl/101/189], § 1407(a)(3), struck out “or retainer” after “eligible for retired”.
 
-    Par. (2)(C)(ii). [Pub. L. 101–189, § 1407(a)(2)][/us/pl/101/189/s1407/a/2], substituted “reserve-component retired pay” for “retired pay under chapter 67 of this title”.
+    Par. (2)(C)(ii). [Pub. L. 101–189][/us/pl/101/189], § 1407(a)(2), substituted “reserve-component retired pay” for “retired pay under chapter 67 of this title”.
 
-    Pars. (3), (4). [Pub. L. 101–189, § 1407(a)(3)][/us/pl/101/189/s1407/a/3], struck out “or retainer” after “eligible for retired”.
+    Pars. (3), (4). [Pub. L. 101–189][/us/pl/101/189], § 1407(a)(3), struck out “or retainer” after “eligible for retired”.
 
-    Par. (5). [Pub. L. 101–189, § 1407(a)(1)(A)][/us/pl/101/189/s1407/a/1/A], as amended by [Pub. L. 101–510][/us/pl/101/510], substituted “this paragraph” for “this clause” in three places in concluding provisions.
+    Par. (5). [Pub. L. 101–189][/us/pl/101/189], § 1407(a)(1)(A), as amended by [Pub. L. 101–510][/us/pl/101/510], substituted “this paragraph” for “this clause” in three places in concluding provisions.
 
-    Par. (11). [Pub. L. 101–189, § 1407(a)(1)(B)][/us/pl/101/189/s1407/a/1/B], inserted “paid under [section 6330 of this title][/us/usc/t10/s6330]” after “retainer pay”.
+    Par. (11). [Pub. L. 101–189][/us/pl/101/189], § 1407(a)(1)(B), inserted “paid under [section 6330 of this title][/us/usc/t10/s6330]” after “retainer pay”.
 
-    Par. (14). [Pub. L. 101–189, § 1407(a)(1)(C)][/us/pl/101/189/s1407/a/1/C], added par. (14).
+    Par. (14). [Pub. L. 101–189][/us/pl/101/189], § 1407(a)(1)(C), added par. (14).
 
     1987—[Pub. L. 100–180][/us/pl/100/180] inserted “The term” after each par. designation and revised first word in quotes in pars. (2) to (13) to make initial letter of such word lowercase.
 
@@ -163,13 +163,13 @@
 
     [Pub. L. 99–348][/us/pl/99/348] inserted “(determined without regard to any reduction under [section 1409(b)(2) of this title][/us/usc/t10/s1409/b/2])”.
 
-    1985—Par. (2)(C). [Pub. L. 99–145, § 721(b)][/us/pl/99/145/s721/b], inserted “(with the concurrence of the person’s spouse, if required under [section 1448(a)(3) of this title][/us/usc/t10/s1448/a/3])” after “designated by the person”.
+    1985—Par. (2)(C). [Pub. L. 99–145][/us/pl/99/145], § 721(b), inserted “(with the concurrence of the person’s spouse, if required under [section 1448(a)(3) of this title][/us/usc/t10/s1448/a/3])” after “designated by the person”.
 
-    Par. (2)(C)(i). [Pub. L. 99–145, § 719(2)(A)][/us/pl/99/145/s719/2/A], substituted “a standard annuity” for “an annuity by virtue of eligibility under [section 1448(a)(1)(A) of this title][/us/usc/t10/s1448/a/1/A]”.
+    Par. (2)(C)(i). [Pub. L. 99–145][/us/pl/99/145], § 719(2)(A), substituted “a standard annuity” for “an annuity by virtue of eligibility under [section 1448(a)(1)(A) of this title][/us/usc/t10/s1448/a/1/A]”.
 
-    Par. (2)(C)(ii). [Pub. L. 99–145, § 719(2)(B)][/us/pl/99/145/s719/2/B], substituted “a reserve-component annuity” for “an annuity by virtue of eligibility under [section 1448(a)(1)(B) of this title][/us/usc/t10/s1448/a/1/B]”.
+    Par. (2)(C)(ii). [Pub. L. 99–145][/us/pl/99/145], § 719(2)(B), substituted “a reserve-component annuity” for “an annuity by virtue of eligibility under [section 1448(a)(1)(B) of this title][/us/usc/t10/s1448/a/1/B]”.
 
-    Pars. (11) to (13). [Pub. L. 99–145, § 719(1)][/us/pl/99/145/s719/1], added pars. (11) to (13).
+    Pars. (11) to (13). [Pub. L. 99–145][/us/pl/99/145], § 719(1), added pars. (11) to (13).
 
     1983—Par. (8). [Pub. L. 98–94][/us/pl/98/94] substituted “or annulment” for “annulment, or legal separation,” in two places.
 
@@ -187,11 +187,11 @@
 
  __Effective Date of 1990 Amendment__ 
 
-    [Pub. L. 101–510, div. A, title XIV, § 1484][/us/pl/101/510/s1484](l)(4)(C), Nov. 5, 1990, [104 Stat. 1720][/us/stat/104/1720], provided that the amendment made by that section is effective Nov. 29, 1989.
+    [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1484(l)(4)(C), Nov. 5, 1990, [104 Stat. 1720][/us/stat/104/1720], provided that the amendment made by that section is effective Nov. 29, 1989.
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–145, title VII, § 731][/us/pl/99/145/s731], Nov. 8, 1985, [99 Stat. 678][/us/stat/99/678], provided that:
+[Pub. L. 99–145, title VII][/us/pl/99/145/tVII], § 731, Nov. 8, 1985, [99 Stat. 678][/us/stat/99/678], provided that:
 
 >     “(a)  __Effective Date__  __.—__ 
 
@@ -207,13 +207,13 @@
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–402, § 7][/us/pl/96/402/s7], Oct. 9, 1980, [94 Stat. 1708][/us/stat/94/1708], provided that: 
+[Pub. L. 96–402][/us/pl/96/402], § 7, Oct. 9, 1980, [94 Stat. 1708][/us/stat/94/1708], provided that: 
 
 > “The amendments made by sections 2, 3, and 4 of this Act \[amending this section and sections 1451 and 1452 of this title\] and the provisions of section 5 of this Act \[set out as a note under [section 1448 of this title][/us/usc/t10/s1448]\] shall be effective on the first day of the second calendar month following the month in which this Act is enacted \[October 1980\] and shall apply to annuities payable by virtue of such amendments and provisions for months beginning on or after such date. No benefits shall accrue to any person by virtue of the enactment of this Act \[[Pub. L. 96–402][/us/pl/96/402]\] for any period before the date of the enactment of this Act \[Oct. 9, 1980\].”
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–397, title II, § 210][/us/pl/95/397/s210], Sept. 30, 1978, [92 Stat. 848][/us/stat/92/848], provided that:
+[Pub. L. 95–397, title II][/us/pl/95/397/tII], § 210, Sept. 30, 1978, [92 Stat. 848][/us/stat/92/848], provided that:
 
 >     “(a) Except as provided in subsection (b), the provisions of this title \[amending this section and sections 1331 \[now 12731\] and 1448 to 1452 of this title and enacting provisions set out as notes under this section and [section 1448 of this title][/us/usc/t10/s1448]\] and the amendments made by this title shall take effect on October 1, 1978, or on the date of the enactment of this Act \[Sept. 30, 1978\], whichever is later, and shall apply to annuities payable by virtue of such amendments for months beginning on or after such date.
 
@@ -221,31 +221,31 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–496, § 3][/us/pl/94/496/s3], Oct. 14, 1976, [90 Stat. 2376][/us/stat/90/2376], provided that: 
+[Pub. L. 94–496][/us/pl/94/496], § 3, Oct. 14, 1976, [90 Stat. 2376][/us/stat/90/2376], provided that: 
 
 > “This Act \[amending this section and sections 1448, 1450, 1451, and 1452 of this title, and amending provisions set out as a note under [section 1448 of this title][/us/usc/t10/s1448]\] shall be effective as of September 21, 1972. No pay shall accrue to any person by virtue of the enactment of this Act for any period prior to October 1, 1976.”
 
  __Short Title of 1989 Amendment__ 
 
-[Pub. L. 101–189, div. A, title XIV, § 1401][/us/pl/101/189/s1401], Nov. 29, 1989, [103 Stat. 1577][/us/stat/103/1577], provided that: 
+[Pub. L. 101–189, div. A, title XIV][/us/pl/101/189/dA/tXIV], § 1401, Nov. 29, 1989, [103 Stat. 1577][/us/stat/103/1577], provided that: 
 
 > “This title \[enacting subchapter III of this chapter, amending this section and sections 1331 \[now 12731\], 1448 to 1452, and 1454 of this title and section 3101 \[now 5301\] of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under sections 1448, 1451, 1452, 1456, and 12731 of this title\] may be cited as the ‘Military Survivor Benefits Improvement Act of 1989’.”
 
  __Short Title of 1985 Amendment__ 
 
-[Pub. L. 99–145, title VII, § 701][/us/pl/99/145/s701], Nov. 8, 1985, [99 Stat. 666][/us/stat/99/666], provided that: 
+[Pub. L. 99–145, title VII][/us/pl/99/145/tVII], § 701, Nov. 8, 1985, [99 Stat. 666][/us/stat/99/666], provided that: 
 
 > “This title \[amending this section and sections 1448, 1450 to 1452, and 1455 of this title, enacting provisions set out as notes under this section and sections 1448 and 1452 of this title, and repealing a provision set out as a note under [section 1451 of this title][/us/usc/t10/s1451]\] may be cited as the ‘Survivor Benefit Plan Amendments of 1985’.”
 
  __Short Title of 1980 Amendment__ 
 
-[Pub. L. 96–402, § 1][/us/pl/96/402/s1], Oct. 9, 1980, [94 Stat. 1705][/us/stat/94/1705], provided: 
+[Pub. L. 96–402][/us/pl/96/402], § 1, Oct. 9, 1980, [94 Stat. 1705][/us/stat/94/1705], provided: 
 
 > “That this Act \[amending this section and sections 1451 and 1452 of this title, enacting provisions set out as notes under this section and [section 1448 of this title][/us/usc/t10/s1448], and amending provisions set out as a note under [section 1448 of this title][/us/usc/t10/s1448]\] may be cited as the ‘Uniformed Services Survivor Benefits Amendments of 1980’.”
 
  __End of 90-Day Period With Respect to Certain Individuals__ 
 
-    [Pub. L. 95–397, title II, § 208][/us/pl/95/397/s208], Sept. 30, 1978, [92 Stat. 848][/us/stat/92/848], as amended by [Pub. L. 96–107, title VIII, § 816][/us/pl/96/107/s816], Nov. 9, 1979, [93 Stat. 818][/us/stat/93/818], provided that the 90-day period referred to in former sections 1447(2)(C) and 1448(a)(2) and (4)(B) of this title was to be considered to end on Mar. 31, 1980, for an individual who would have been eligible for retired pay under former chapter 67 of this title on the effective date of title II of [Pub. L. 95–397][/us/pl/95/397] (see Effective Date of 1978 Amendment note above), but for the fact such individual was under 60 years of age, or for an individual who received before Jan. 1, 1980, a notification that such individual had completed the years of service required for eligibility for such retired pay.
+    [Pub. L. 95–397, title II][/us/pl/95/397/tII], § 208, Sept. 30, 1978, [92 Stat. 848][/us/stat/92/848], as amended by [Pub. L. 96–107, title VIII][/us/pl/96/107/tVIII], § 816, Nov. 9, 1979, [93 Stat. 818][/us/stat/93/818], provided that the 90-day period referred to in former sections 1447(2)(C) and 1448(a)(2) and (4)(B) of this title was to be considered to end on Mar. 31, 1980, for an individual who would have been eligible for retired pay under former chapter 67 of this title on the effective date of title II of [Pub. L. 95–397][/us/pl/95/397] (see Effective Date of 1978 Amendment note above), but for the fact such individual was under 60 years of age, or for an individual who received before Jan. 1, 1980, a notification that such individual had completed the years of service required for eligibility for such retired pay.
 
 ----------
 
@@ -264,64 +264,64 @@
 [/us/usc/t10/s12731/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12731%2Fd
 [/us/usc/t10/s1408/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1408%2Fa%2F1
 [/us/usc/t10/s1408/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1408%2Fb%2F2
-[/us/pl/92/425/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425%2Fs1%2F3
+[/us/pl/92/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425
 [/us/stat/86/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F706
-[/us/pl/94/496/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F496%2Fs1%2F1
+[/us/pl/94/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F496
 [/us/stat/90/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2375
-[/us/pl/95/397/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397%2Fs201
+[/us/pl/95/397/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397%2FtII
 [/us/stat/92/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F843
-[/us/pl/96/402/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F402%2Fs2
+[/us/pl/96/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F402
 [/us/stat/94/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1705
-[/us/pl/97/252/s1003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1003%2Fa
+[/us/pl/97/252/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2FtX
 [/us/stat/96/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F735
-[/us/pl/98/94/s941/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs941%2Fc%2F1
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F653
-[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVII
 [/us/stat/99/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F675
-[/us/pl/99/348/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs301%2Fa%2F1
+[/us/pl/99/348/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtIII
 [/us/stat/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F702
-[/us/pl/99/661/s1343/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1343%2Fa%2F8%2FA
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3992
-[/us/pl/100/180/s1231/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1231%2F17
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1161
-[/us/pl/101/189/s1407/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1407%2Fa%2F1
+[/us/pl/101/189/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXIV
 [/us/stat/103/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1588
-[/us/pl/101/510/s1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1720
-[/us/pl/103/337/s1671/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1671%2Fd
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3014
-[/us/pl/104/201/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs634
+[/us/pl/104/201/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVI
 [/us/stat/110/2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2551
 [/us/pl/103/337/s1662/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fj%2F1
 [/us/pl/103/337/s1662/j/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fj%2F7
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FtXVI
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/103/337/s1671/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1671%2Fd%2F2
-[/us/pl/103/337/s1671/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1671%2Fd%2F1
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/101/189/s1407/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1407%2Fa%2F1%2FA
-[/us/pl/101/189/s1407/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1407%2Fa%2F2
-[/us/pl/101/189/s1407/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1407%2Fa%2F3
-[/us/pl/101/189/s1407/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1407%2Fa%2F2
-[/us/pl/101/189/s1407/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1407%2Fa%2F3
-[/us/pl/101/189/s1407/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1407%2Fa%2F1%2FA
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/101/189/s1407/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1407%2Fa%2F1%2FB
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t10/s6330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6330
-[/us/pl/101/189/s1407/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1407%2Fa%2F1%2FC
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
 [/us/usc/t10/s1409/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1409%2Fb%2F2
-[/us/pl/99/145/s721/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs721%2Fb
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/usc/t10/s1448/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fa%2F3
-[/us/pl/99/145/s719/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs719%2F2%2FA
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/usc/t10/s1448/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fa%2F1%2FA
-[/us/pl/99/145/s719/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs719%2F2%2FB
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/usc/t10/s1448/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fa%2F1%2FB
-[/us/pl/99/145/s719/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs719%2F1
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/97/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252
 [/us/pl/96/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F402
@@ -331,35 +331,35 @@
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
-[/us/pl/101/510/s1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1720
-[/us/pl/99/145/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs731
+[/us/pl/99/145/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVII
 [/us/stat/99/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F678
 [/us/pl/97/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252
 [/us/pl/97/252/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1006
 [/us/usc/t10/s1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1408
-[/us/pl/96/402/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F402%2Fs7
+[/us/pl/96/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F402
 [/us/stat/94/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1708
 [/us/usc/t10/s1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448
 [/us/pl/96/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F402
-[/us/pl/95/397/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397%2Fs210
+[/us/pl/95/397/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397%2FtII
 [/us/stat/92/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F848
 [/us/usc/t10/s1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448
-[/us/pl/94/496/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F496%2Fs3
+[/us/pl/94/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F496
 [/us/stat/90/2376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2376
 [/us/usc/t10/s1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448
-[/us/pl/101/189/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1401
+[/us/pl/101/189/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXIV
 [/us/stat/103/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1577
-[/us/pl/99/145/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs701
+[/us/pl/99/145/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVII
 [/us/stat/99/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F666
 [/us/usc/t10/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1451
-[/us/pl/96/402/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F402%2Fs1
+[/us/pl/96/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F402
 [/us/stat/94/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1705
 [/us/usc/t10/s1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448
 [/us/usc/t10/s1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448
-[/us/pl/95/397/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397%2Fs208
+[/us/pl/95/397/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397%2FtII
 [/us/stat/92/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F848
-[/us/pl/96/107/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs816
+[/us/pl/96/107/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2FtVIII
 [/us/stat/93/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F818
 [/us/pl/95/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397
 

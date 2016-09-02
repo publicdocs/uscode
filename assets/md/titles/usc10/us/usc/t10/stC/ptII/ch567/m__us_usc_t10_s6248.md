@@ -33,7 +33,7 @@
 
         a medal of honor, Navy cross, distinguished-service medal, silver star medal, Navy and Marine Corps Medal, or bar, emblem, or insignia in place thereof, as the case may be, may be awarded to the person within two years after the date of that determination.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 390][/us/stat/70A/390]; [Pub. L. 86–582, § 1(2)][/us/pl/86/582/s1/2], July 5, 1960, [74 Stat. 320][/us/stat/74/320].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 390][/us/stat/70A/390]; [Pub. L. 86–582][/us/pl/86/582], § 1(2), July 5, 1960, [74 Stat. 320][/us/stat/74/320].)
 
 <table>
 
@@ -95,7 +95,7 @@ Feb. 4, 1919, ch. 14, § 7, 40 Stat. 1056; renumbered § 9 and amended Aug. 
 [/us/usc/t10/s6246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6246
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F390
-[/us/pl/86/582/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F582%2Fs1%2F2
+[/us/pl/86/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F582
 [/us/stat/74/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F320
 [/us/usc/t10/s6246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6246
 [/us/pl/86/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F582

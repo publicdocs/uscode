@@ -135,17 +135,17 @@
 
         (3) The term “personnel tempo” means the amount of time members of the armed forces are engaged in their official duties at a location or under circumstances that make it infeasible for a member to spend off-duty time in the housing in which the member resides.
 
-(Added [Pub. L. 106–65, div. A, title V, § 586(a)][/us/pl/106/65/s586/a], Oct. 5, 1999, [113 Stat. 637][/us/stat/113/637]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 574(a), (b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–136, 1654A–137; [Pub. L. 107–107, div. A, title V, § 515(a)][/us/pl/107/107/s515/a], Dec. 28, 2001, [115 Stat. 1093][/us/stat/115/1093]; [Pub. L. 108–136, div. A, title V, § 541(a)][/us/pl/108/136/s541/a], Nov. 24, 2003, [117 Stat. 1475][/us/stat/117/1475]; [Pub. L. 112–81, div. A, title V, § 522(a)][/us/pl/112/81/s522/a]–(d)(1), Dec. 31, 2011, [125 Stat. 1399–1401][/us/stat/125/1399-1401].)
+(Added [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 586(a), Oct. 5, 1999, [113 Stat. 637][/us/stat/113/637]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 574(a), (b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–136, 1654A–137; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 515(a), Dec. 28, 2001, [115 Stat. 1093][/us/stat/115/1093]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 541(a), Nov. 24, 2003, [117 Stat. 1475][/us/stat/117/1475]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 522(a)–(d)(1), Dec. 31, 2011, [125 Stat. 1399–1401][/us/stat/125/1399-1401].)
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–81, § 522(d)(1)][/us/pl/112/81/s522/d/1], substituted “Management of deployments of members and measurement and data collection of unit operating and personnel tempo” for “Management of deployments of members” in section catchline.
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 522(d)(1), substituted “Management of deployments of members and measurement and data collection of unit operating and personnel tempo” for “Management of deployments of members” in section catchline.
 
-    Subsec. (a)(4). [Pub. L. 112–81, § 522(a)][/us/pl/112/81/s522/a], added par. (4).
+    Subsec. (a)(4). [Pub. L. 112–81][/us/pl/112/81], § 522(a), added par. (4).
 
-    Subsec. (c). [Pub. L. 112–81, § 522(b)][/us/pl/112/81/s522/b], amended subsec. (c) generally. Prior to amendment, text read as follows: “The Secretary of each military department shall establish a system for tracking and recording the number of days that each member of the armed forces under the jurisdiction of the Secretary is deployed.”
+    Subsec. (c). [Pub. L. 112–81][/us/pl/112/81], § 522(b), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Secretary of each military department shall establish a system for tracking and recording the number of days that each member of the armed forces under the jurisdiction of the Secretary is deployed.”
 
-    Subsec. (f). [Pub. L. 112–81, § 522(c)][/us/pl/112/81/s522/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 112–81][/us/pl/112/81], § 522(c), added subsec. (f).
 
     2003—Subsec. (a). [Pub. L. 108–136][/us/pl/108/136] reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -171,35 +171,35 @@
 
     “(ii) a lesser distance from the member’s permanent residence that, under the circumstances applicable to the member’s travel, is a distance that requires at least three hours of travel to traverse.”
 
-    2000—Subsec. (a)(1). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 574(a)(1)\], substituted “. However, the member may be deployed, or continued in a deployment, without regard to the preceding sentence if such deployment, or continued deployment, is approved—” and subpars. (A) and (B) for “unless an officer in the grade of general or admiral in the member’s chain of command approves the deployment, or continued deployment, of the member.”
+    2000—Subsec. (a)(1). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 574(a)(1)\], substituted “. However, the member may be deployed, or continued in a deployment, without regard to the preceding sentence if such deployment, or continued deployment, is approved—” and subpars. (A) and (B) for “unless an officer in the grade of general or admiral in the member’s chain of command approves the deployment, or continued deployment, of the member.”
 
-    Subsec. (a)(3). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 574(a)(2)\], added par. (3).
+    Subsec. (a)(3). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 574(a)(2)\], added par. (3).
 
-    Subsec. (b)(1). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 574(b)(1)\], inserted “or homeport, as the case may be” before period at end.
+    Subsec. (b)(1). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 574(b)(1)\], inserted “or homeport, as the case may be” before period at end.
 
-    Subsec. (b)(2). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 574(b)(3)\], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (b)(2). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 574(b)(3)\], added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (b)(3). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 574(b)(2)\], redesignated par. (2) as (3). Former par. (3) redesignated (4).
+    Subsec. (b)(3). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 574(b)(2)\], redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-    Subsec. (b)(3)(C). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 574(b)(4)\], added subpar. (C).
+    Subsec. (b)(3)(C). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 574(b)(4)\], added subpar. (C).
 
-    Subsec. (b)(4). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 574(b)(2)\], redesignated par. (3) as (4).
+    Subsec. (b)(4). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 574(b)(2)\], redesignated par. (3) as (4).
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–107, div. A, title V, § 515(b)][/us/pl/107/107/s515/b], Dec. 28, 2001, [115 Stat. 1094][/us/stat/115/1094], provided that: 
+[Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 515(b), Dec. 28, 2001, [115 Stat. 1094][/us/stat/115/1094], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply with respect to duty performed on or after October 1, 2001.”
 
  __Effective Date__ 
 
-[Pub. L. 106–65, div. A, title V, § 586(d)(1)][/us/pl/106/65/s586/d/1], Oct. 5, 1999, [113 Stat. 639][/us/stat/113/639], provided that: 
+[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 586(d)(1), Oct. 5, 1999, [113 Stat. 639][/us/stat/113/639], provided that: 
 
 > “[Section 991 of title 10][/us/usc/t10/s991], United States Code (as added by subsection (a)), shall take effect on October 1, 2000. No day on which a member of the Armed Forces is deployed (as defined in subsection (b) of that section) before that date may be counted in determining the number of days on which a member has been deployed for purposes of that section.”
 
  __Regulations__ 
 
-[Pub. L. 106–65, div. A, title V, § 586(e)][/us/pl/106/65/s586/e], Oct. 5, 1999, [113 Stat. 639][/us/stat/113/639], provided that: 
+[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 586(e), Oct. 5, 1999, [113 Stat. 639][/us/stat/113/639], provided that: 
 
 > “Not later than June 1, 2000, the Secretary of each military department shall prescribe in regulations the policies and procedures for implementing such provisions of law for that military department.”
 
@@ -209,13 +209,13 @@
 
  __Family Care Plans and Deferment of Deployment of Single Parent or Dual Military Couples With Minor Dependents__ 
 
-[Pub. L. 110–181, div. A, title V, § 586][/us/pl/110/181/s586], Jan. 28, 2008, [122 Stat. 132][/us/stat/122/132], provided that: 
+[Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 586, Jan. 28, 2008, [122 Stat. 132][/us/stat/122/132], provided that: 
 
 > “The Secretary of Defense shall establish appropriate procedures to ensure that an adequate family care plan is in place for a member of the Armed Forces with minor dependents who is a single parent or whose spouse is also a member of the Armed Forces when the member may be deployed in an area for which imminent danger pay is authorized under [section 310 of title 37][/us/usc/t37/s310], United States Code. Such procedures should allow the member to request a deferment of deployment due to unforeseen circumstances, and the request for such a deferment should be considered and responded to promptly.”
 
  __Policy on Concurrent Deployment to Combat Zones of Both Military Spouses of Military Families With Minor Children__ 
 
-[Pub. L. 108–136, div. A, title V, § 585][/us/pl/108/136/s585], Nov. 24, 2003, [117 Stat. 1492][/us/stat/117/1492], provided that:
+[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 585, Nov. 24, 2003, [117 Stat. 1492][/us/stat/117/1492], provided that:
 
 >     “(a)  __Publication of Policy__  __.—__ 
 
@@ -231,7 +231,7 @@
 
  __Review of Management of Deployments of Individual Members__ 
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 574(d)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–138, as amended by [Pub. L. 107–107, div. A, title V, § 592(b)][/us/pl/107/107/s592/b], Dec. 28, 2001, [115 Stat. 1125][/us/stat/115/1125], directed the Secretary of Defense to submit to committees of Congress a report on the administration of this section during fiscal year 2001 not later than Mar. 31, 2002.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 574(d)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–138, as amended by [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 592(b), Dec. 28, 2001, [115 Stat. 1125][/us/stat/115/1125], directed the Secretary of Defense to submit to committees of Congress a report on the administration of this section during fiscal year 2001 not later than Mar. 31, 2002.
 
 ----------
 
@@ -241,45 +241,45 @@
 ----------
 
 [/us/usc/t37/s436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs436
-[/us/pl/106/65/s586/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs586%2Fa
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F637
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs515%2Fa
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1093
-[/us/pl/108/136/s541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs541%2Fa
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1475
-[/us/pl/112/81/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs522%2Fa
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1399-1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1399-1401
-[/us/pl/112/81/s522/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs522%2Fd%2F1
-[/us/pl/112/81/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs522%2Fa
-[/us/pl/112/81/s522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs522%2Fb
-[/us/pl/112/81/s522/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs522%2Fc
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/107/107/s515/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs515%2Fb
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1094
-[/us/pl/106/65/s586/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs586%2Fd%2F1
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F639
 [/us/usc/t10/s991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs991
-[/us/pl/106/65/s586/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs586%2Fe
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F639
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/110/181/s586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs586
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F132
 [/us/usc/t37/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310
-[/us/pl/108/136/s585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs585
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1492
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s592/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs592%2Fb
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1125
 
 

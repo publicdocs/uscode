@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_stC_ptII_ch533.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5445.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5441)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_stC_ptII_ch533.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5442...5444.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5441)
 
 ## § 5441. Prescribed number; vacancies
 
     In this chapter, the term “prescribed number” or “number . . . prescribed” as applied to a grade, means the number of officers of a described corps, designation, or other category that shall be maintained in the grade concerned. Except as otherwise specifically provided, the actual number of officers in a grade may not exceed the prescribed number. Vacancies occur whenever, and to the extent that, the actual number falls below the prescribed number.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 299][/us/stat/70A/299]; [Pub. L. 96–513, title III, § 313(a)][/us/pl/96/513/s313/a], Dec. 12, 1980, [94 Stat. 2889][/us/stat/94/2889]; [Pub. L. 101–189, div. A, title XVI, § 1622(e)(8)][/us/pl/101/189/s1622/e/8], Nov. 29, 1989, [103 Stat. 1605][/us/stat/103/1605].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 299][/us/stat/70A/299]; [Pub. L. 96–513, title III][/us/pl/96/513/tIII], § 313(a), Dec. 12, 1980, [94 Stat. 2889][/us/stat/94/2889]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1622(e)(8), Nov. 29, 1989, [103 Stat. 1605][/us/stat/103/1605].)
 
  __Historical and Revision Notes__ 
 
@@ -35,26 +35,18 @@
 
     Amendment by [Pub. L. 96–513][/us/pl/96/513] effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by [Pub. L. 96–513][/us/pl/96/513] effective on Dec. 12, 1980, see [section 701 of Pub. L. 96–513][/us/pl/96/513/s701], set out as a note under [section 101 of this title][/us/usc/t10/s101].
 
-\[§§ 5442 to 5444. __Repealed.__  __[__  __Pub. L. 101–510, div. A, title IV, § 403(b)(2)(A)__  __][/us/pl/101/510/s403/b/2/A]__  __,__  __Nov. 5, 1990__  __,__  __[__  __104 Stat. 1545__  __][/us/stat/104/1545]__  __\]__ 
-
-    Section 5442, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 300][/us/stat/70A/300]; [Pub. L. 90–386, § 1(4)][/us/pl/90/386/s1/4], July 5, 1968, [82 Stat. 293][/us/stat/82/293]; Dec. 12, 1980, [Pub. L. 96–513, title III, § 313(b)][/us/pl/96/513/s313/b], [94 Stat. 2889][/us/stat/94/2889]; Dec. 1, 1981, [Pub. L. 97–86, title IV, § 405(b)(1)][/us/pl/97/86/s405/b/1], (3), (6)(A), [95 Stat. 1105][/us/stat/95/1105], 1106; Nov. 8, 1985, [Pub. L. 99–145, title V, § 514(b)(1)][/us/pl/99/145/s514/b/1], (3), (6)(A), [99 Stat. 628][/us/stat/99/628]; Nov. 14, 1986, [Pub. L. 99–661, div. A, title XIII, § 1343(a)(24)][/us/pl/99/661/s1343/a/24], [100 Stat. 3994][/us/stat/100/3994], set forth number of officers serving on active duty in Navy who may serve in grades of rear admiral (lower half) and rear admiral.
-
-    Section 5443, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 302][/us/stat/70A/302]; Aug. 3, 1961, [Pub. L. 87–123, § 5(6)][/us/pl/87/123/s5/6], [75 Stat. 265][/us/stat/75/265]; Nov. 2, 1966, [Pub. L. 89–731, § 1][/us/pl/89/731/s1], [80 Stat. 1160][/us/stat/80/1160]; Dec. 12, 1980, [Pub. L. 96–513, title III, § 313(c)][/us/pl/96/513/s313/c], [94 Stat. 2891][/us/stat/94/2891], related to number of officers in Marine Corps on active duty who may serve in grades of brigadier general and major general.
-
-    Section 5444, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 304][/us/stat/70A/304]; Aug. 21, 1957, [Pub. L. 85–155, title II, § 201(1)][/us/pl/85/155/s201/1]–(3), [71 Stat. 381][/us/stat/71/381]; Nov. 8, 1967, [Pub. L. 90–130, § 1(17)(A)][/us/pl/90/130/s1/17/A], (B), [81 Stat. 376][/us/stat/81/376]; Dec. 12, 1980, [Pub. L. 96–513, title III, § 302][/us/pl/96/513/s302], title V, § 503(19), [94 Stat. 2888][/us/stat/94/2888], 2912; July 10, 1981, [Pub. L. 97–22][/us/pl/97/22], §§ 6(b), 10(a)(3), [95 Stat. 130][/us/stat/95/130], 136; Dec. 1, 1981, [Pub. L. 97–86, title IV, § 405(b)(1)][/us/pl/97/86/s405/b/1]–(3), (7)(A), [95 Stat. 1105][/us/stat/95/1105], 1106; Nov. 8, 1985, [Pub. L. 99–145, title V, § 514(b)(1)][/us/pl/99/145/s514/b/1]–(3), (7)(A), [99 Stat. 628][/us/stat/99/628], 629, related to total number of officers who may serve on active duty in Navy in grades of rear admiral (lower half) and rear admiral in staff corps.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_stC_ptII_ch533.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5445.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5441)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_stC_ptII_ch533.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5442...5444.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5441)
 
 ----------
 ----------
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F299
-[/us/pl/96/513/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs313%2Fa
+[/us/pl/96/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIII
 [/us/stat/94/2889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2889
-[/us/pl/101/189/s1622/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fe%2F8
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1605
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
@@ -62,41 +54,5 @@
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/101/510/s403/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs403%2Fb%2F2%2FA
-[/us/stat/104/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1545
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F300
-[/us/pl/90/386/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F386%2Fs1%2F4
-[/us/stat/82/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F293
-[/us/pl/96/513/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs313%2Fb
-[/us/stat/94/2889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2889
-[/us/pl/97/86/s405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs405%2Fb%2F1
-[/us/stat/95/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1105
-[/us/pl/99/145/s514/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fb%2F1
-[/us/stat/99/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F628
-[/us/pl/99/661/s1343/a/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1343%2Fa%2F24
-[/us/stat/100/3994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3994
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F302
-[/us/pl/87/123/s5/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F123%2Fs5%2F6
-[/us/stat/75/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F265
-[/us/pl/89/731/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F731%2Fs1
-[/us/stat/80/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1160
-[/us/pl/96/513/s313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs313%2Fc
-[/us/stat/94/2891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2891
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F304
-[/us/pl/85/155/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F155%2Fs201%2F1
-[/us/stat/71/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F381
-[/us/pl/90/130/s1/17/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs1%2F17%2FA
-[/us/stat/81/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F376
-[/us/pl/96/513/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs302
-[/us/stat/94/2888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2888
-[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
-[/us/stat/95/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F130
-[/us/pl/97/86/s405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs405%2Fb%2F1
-[/us/stat/95/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1105
-[/us/pl/99/145/s514/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fb%2F1
-[/us/stat/99/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F628
 
 

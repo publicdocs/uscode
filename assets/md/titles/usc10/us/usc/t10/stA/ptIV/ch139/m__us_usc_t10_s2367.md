@@ -39,7 +39,7 @@
 
     After the close of a fiscal year, and not later than January 1 of the next year, the Secretary shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report setting forth the actual obligations and the actual man-years of effort expended at each federally funded research and development center during that fiscal year.
 
-(Added [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 912(a)(1)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–146, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 912(a)(1)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–146; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 912(a)(1), Nov. 14, 1986, [100 Stat. 3925][/us/stat/100/3925], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; amended [Pub. L. 102–190, div. A, title II, § 256(a)(1)][/us/pl/102/190/s256/a/1], Dec. 5, 1991, [105 Stat. 1330][/us/stat/105/1330]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(9)][/us/pl/104/106/s1502/a/9], Feb. 10, 1996, [110 Stat. 503][/us/stat/110/503]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 107–314, div. A, title X, § 1041(a)(12)][/us/pl/107/314/s1041/a/12], Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645].)
+(Added [Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title X, § 912(a)(1)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–146, and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 912(a)(1)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–146; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661/dA/tIX], formerly title IV, § 912(a)(1), Nov. 14, 1986, [100 Stat. 3925][/us/stat/100/3925], renumbered title IX, [Pub. L. 100–26][/us/pl/100/26], § 3(5), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; amended [Pub. L. 102–190, div. A, title II][/us/pl/102/190/dA/tII], § 256(a)(1), Dec. 5, 1991, [105 Stat. 1330][/us/stat/105/1330]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1502(a)(9), Feb. 10, 1996, [110 Stat. 503][/us/stat/110/503]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1041(a)(12), Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645].)
 
  __Codification__ 
 
@@ -49,7 +49,7 @@
 
  __Amendments__ 
 
-    2002—Subsec. (d). [Pub. L. 107–314, § 1041(a)(12)][/us/pl/107/314/s1041/a/12], struck out designations for pars. (1) and (2) and text of par. (1). Prior to amendment par. (1) read as follows: “In the documents provided to Congress by the Secretary of Defense in support of the budget submitted by the President under [section 1105 of title 31][/us/usc/t31/s1105] for any fiscal year, the Secretary shall set forth the proposed amount of the man-years of effort to be funded by the Department of Defense for each federally funded research and development center for the fiscal year covered by that budget.”
+    2002—Subsec. (d). [Pub. L. 107–314][/us/pl/107/314], § 1041(a)(12), struck out designations for pars. (1) and (2) and text of par. (1). Prior to amendment par. (1) read as follows: “In the documents provided to Congress by the Secretary of Defense in support of the budget submitted by the President under [section 1105 of title 31][/us/usc/t31/s1105] for any fiscal year, the Secretary shall set forth the proposed amount of the man-years of effort to be funded by the Department of Defense for each federally funded research and development center for the fiscal year covered by that budget.”
 
     1999—Subsec. (d)(2). [Pub. L. 106–65][/us/pl/106/65] substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
@@ -59,7 +59,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–190, div. A, title II, § 256(a)(2)][/us/pl/102/190/s256/a/2], Dec. 5, 1991, [105 Stat. 1330][/us/stat/105/1330], provided that:
+[Pub. L. 102–190, div. A, title II][/us/pl/102/190/dA/tII], § 256(a)(2), Dec. 5, 1991, [105 Stat. 1330][/us/stat/105/1330], provided that:
 
 >     “(A) Paragraph (1) of subsection (d) of [section 2367 of title 10][/us/usc/t10/s2367], United States Code, as added by paragraph (1), shall take effect with respect to the budget submitted for fiscal year 1994.
 
@@ -67,7 +67,7 @@
 
  __GAO Study; Report__ 
 
-    [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 912(b), (c)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–146, [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 912(b), (c)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–146, and [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 912(b), (c), Nov. 14, 1986, [100 Stat. 3926][/us/stat/100/3926], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], directed Comptroller General to conduct a study of national defense role of federally funded research and development centers and submit a report to Congress not later than one year after Oct. 18, 1986.
+    [Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title X, § 912(b), (c)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–146, [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 912(b), (c)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–146, and [Pub. L. 99–661, div. A, title IX][/us/pl/99/661/dA/tIX], formerly title IV, § 912(b), (c), Nov. 14, 1986, [100 Stat. 3926][/us/stat/100/3926], renumbered title IX, [Pub. L. 100–26][/us/pl/100/26], § 3(5), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], directed Comptroller General to conduct a study of national defense role of federally funded research and development centers and submit a report to Congress not later than one year after Oct. 18, 1986.
 
 ----------
 
@@ -77,42 +77,42 @@
 ----------
 
 [/us/usc/t10/s2302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F1
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIX
 [/us/stat/100/3925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3925
-[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
-[/us/pl/102/190/s256/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs256%2Fa%2F1
+[/us/pl/102/190/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtII
 [/us/stat/105/1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1330
-[/us/pl/104/106/s1502/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F9
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F503
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/107/314/s1041/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1041%2Fa%2F12
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2645
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
-[/us/pl/107/314/s1041/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1041%2Fa%2F12
+[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
-[/us/pl/102/190/s256/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs256%2Fa%2F2
+[/us/pl/102/190/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtII
 [/us/stat/105/1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1330
 [/us/usc/t10/s2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2367
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIX
 [/us/stat/100/3926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3926
-[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
 
 

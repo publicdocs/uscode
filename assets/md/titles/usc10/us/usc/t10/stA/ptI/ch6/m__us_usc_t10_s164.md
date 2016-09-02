@@ -119,7 +119,7 @@
 
     In accordance with procedures established by the Secretary of Defense, the commander of a combatant command may suspend from duty and recommend the reassignment of any officer assigned to such combatant command.
 
-(Added [Pub. L. 99–433, title II, § 211(a)][/us/pl/99/433/s211/a], Oct. 1, 1986, [100 Stat. 1013][/us/stat/100/1013]; amended [Pub. L. 100–456, div. A, title V, § 519(a)(2)][/us/pl/100/456/s519/a/2], Sept. 29, 1988, [102 Stat. 1972][/us/stat/102/1972]; [Pub. L. 110–181, div. A, title XVIII, § 1824(b)][/us/pl/110/181/s1824/b], Jan. 28, 2008, [122 Stat. 501][/us/stat/122/501].)
+(Added [Pub. L. 99–433, title II][/us/pl/99/433/tII], § 211(a), Oct. 1, 1986, [100 Stat. 1013][/us/stat/100/1013]; amended [Pub. L. 100–456, div. A, title V][/us/pl/100/456/dA/tV], § 519(a)(2), Sept. 29, 1988, [102 Stat. 1972][/us/stat/102/1972]; [Pub. L. 110–181, div. A, title XVIII][/us/pl/110/181/dA/tXVIII], § 1824(b), Jan. 28, 2008, [122 Stat. 501][/us/stat/122/501].)
 
  __Amendments__ 
 
@@ -129,25 +129,25 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–433, title II, § 214(c)][/us/pl/99/433/s214/c], Oct. 1, 1986, [100 Stat. 1019][/us/stat/100/1019], provided that: 
+[Pub. L. 99–433, title II][/us/pl/99/433/tII], § 214(c), Oct. 1, 1986, [100 Stat. 1019][/us/stat/100/1019], provided that: 
 
 > “Subsections (e), (f), and (g) of [section 164 of title 10][/us/usc/t10/s164], United States Code (as added by section 211 of this Act), shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\], or on such earlier date as may be prescribed by the Secretary of Defense.”
 
  __Consideration of Reserve Component Officers for Appointment to Certain Command Positions__ 
 
-[Pub. L. 112–81, div. A, title V, § 518][/us/pl/112/81/s518], Dec. 31, 2011, [125 Stat. 1397][/us/stat/125/1397], provided that: 
+[Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 518, Dec. 31, 2011, [125 Stat. 1397][/us/stat/125/1397], provided that: 
 
 > “Whenever officers of the Armed Forces are considered for appointment to the position of Commander, Army North Command or Commander, Air Force North Command, fully qualified officers of the National Guard and the Reserves shall be considered for appointment to such position.”
 
  __Sense of Congress__ 
 
-[Pub. L. 110–181, div. A, title XVIII, § 1824(a)][/us/pl/110/181/s1824/a], Jan. 28, 2008, [122 Stat. 501][/us/stat/122/501], provided that: 
+[Pub. L. 110–181, div. A, title XVIII][/us/pl/110/181/dA/tXVIII], § 1824(a), Jan. 28, 2008, [122 Stat. 501][/us/stat/122/501], provided that: 
 
 > “It is the sense of Congress that, whenever officers of the Armed Forces are considered for promotion to the grade of lieutenant general, or vice admiral in the case of the Navy, on the active duty list, officers in the reserve components of the Armed Forces who are eligible for promotion to such grade should be considered for promotion to such grade.”
 
  __Waiver of Qualifications for Assignment as Combatant Commander__ 
 
-    [Pub. L. 99–433, title II, § 214(b)][/us/pl/99/433/s214/b], Oct. 1, 1986, [100 Stat. 1018][/us/stat/100/1018], authorized President, until Oct. 1, 1990, to waive, on a case-by-case basis, certain requirements provided for in subsec. (a) of this section relating to assignment of commanders of combatant commands.
+    [Pub. L. 99–433, title II][/us/pl/99/433/tII], § 214(b), Oct. 1, 1986, [100 Stat. 1018][/us/stat/100/1018], authorized President, until Oct. 1, 1990, to waive, on a case-by-case basis, certain requirements provided for in subsec. (a) of this section relating to assignment of commanders of combatant commands.
 
 ----------
 
@@ -161,24 +161,24 @@
 [/us/usc/t10/s822/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs822%2Fa
 [/us/usc/t10/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs601
 [/us/usc/t10/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs601
-[/us/pl/99/433/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs211%2Fa
+[/us/pl/99/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtII
 [/us/stat/100/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1013
-[/us/pl/100/456/s519/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs519%2Fa%2F2
+[/us/pl/100/456/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtV
 [/us/stat/102/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1972
-[/us/pl/110/181/s1824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1824%2Fb
+[/us/pl/110/181/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVIII
 [/us/stat/122/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F501
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/usc/t10/s664/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs664%2Ff
 [/us/usc/t10/s668/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs668%2Fb
-[/us/pl/99/433/s214/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs214%2Fc
+[/us/pl/99/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtII
 [/us/stat/100/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1019
 [/us/usc/t10/s164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs164
-[/us/pl/112/81/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs518
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1397
-[/us/pl/110/181/s1824/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1824%2Fa
+[/us/pl/110/181/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVIII
 [/us/stat/122/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F501
-[/us/pl/99/433/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs214%2Fb
+[/us/pl/99/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtII
 [/us/stat/100/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1018
 
 

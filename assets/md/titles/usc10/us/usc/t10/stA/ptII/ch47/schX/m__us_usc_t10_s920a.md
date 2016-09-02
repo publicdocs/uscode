@@ -43,11 +43,11 @@
 
         (3) The term “immediate family”, in the case of a specific person, means a spouse, parent, child, or sibling of the person, or any other family member, relative, or intimate partner of the person who regularly resides in the household of the person or who within the six months preceding the commencement of the course of conduct regularly resided in the household of the person.
 
-(Added [Pub. L. 109–163, div. A, title V, § 551(a)(1)][/us/pl/109/163/s551/a/1], Jan. 6, 2006, [119 Stat. 3256][/us/stat/119/3256].)
+(Added [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 551(a)(1), Jan. 6, 2006, [119 Stat. 3256][/us/stat/119/3256].)
 
  __Effective Date__ 
 
-[Pub. L. 109–163, div. A, title V, § 551(b)][/us/pl/109/163/s551/b], Jan. 6, 2006, [119 Stat. 3256][/us/stat/119/3256], provided that: 
+[Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 551(b), Jan. 6, 2006, [119 Stat. 3256][/us/stat/119/3256], provided that: 
 
 > “[Section 920a of title 10][/us/usc/t10/s920a], United States Code (article 120a of the Uniform Code of Military Justice), as added by subsection (a), applies to offenses committed after the date that is 180 days after the date of the enactment of this Act \[Jan. 6, 2006\].”
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/109/163/s551/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs551%2Fa%2F1
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3256
-[/us/pl/109/163/s551/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs551%2Fb
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3256
 [/us/usc/t10/s920a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs920a
 

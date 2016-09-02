@@ -35,7 +35,7 @@
 
     The Secretary concerned shall enter into collateral incentive agreements with eligible entities in which the Secretary makes an investment under this section to ensure that a suitable preference will be afforded members of the armed forces and their dependents in the lease or purchase, as the case may be, of a reasonable number of the housing units covered by the investment.
 
-(Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)][/us/pl/104/106/s2801/a/1], Feb. 10, 1996, [110 Stat. 546][/us/stat/110/546]; amended [Pub. L. 105–85, div. B, title XXVIII, § 2805][/us/pl/105/85/s2805], Nov. 18, 1997, [111 Stat. 1991][/us/stat/111/1991]; [Pub. L. 106–65, div. B, title XXVIII, § 2803(d)][/us/pl/106/65/s2803/d], (h)(1), Oct. 5, 1999, [113 Stat. 849][/us/stat/113/849]; [Pub. L. 108–136, div. A, title X, § 1031(a)(50)][/us/pl/108/136/s1031/a/50], Nov. 24, 2003, [117 Stat. 1602][/us/stat/117/1602]; [Pub. L. 113–66, div. B, title XXVIII, § 2805][/us/pl/113/66/s2805], Dec. 26, 2013, [127 Stat. 1008][/us/stat/127/1008].)
+(Added [Pub. L. 104–106, div. B, title XXVIII][/us/pl/104/106/dB/tXXVIII], § 2801(a)(1), Feb. 10, 1996, [110 Stat. 546][/us/stat/110/546]; amended [Pub. L. 105–85, div. B, title XXVIII][/us/pl/105/85/dB/tXXVIII], § 2805, Nov. 18, 1997, [111 Stat. 1991][/us/stat/111/1991]; [Pub. L. 106–65, div. B, title XXVIII][/us/pl/106/65/dB/tXXVIII], § 2803(d), (h)(1), Oct. 5, 1999, [113 Stat. 849][/us/stat/113/849]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(50), Nov. 24, 2003, [117 Stat. 1602][/us/stat/117/1602]; [Pub. L. 113–66, div. B, title XXVIII][/us/pl/113/66/dB/tXXVIII], § 2805, Dec. 26, 2013, [127 Stat. 1008][/us/stat/127/1008].)
 
  __Amendments__ 
 
@@ -43,15 +43,15 @@
 
     2003—Subsec. (e). [Pub. L. 108–136][/us/pl/108/136] inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480]”.
 
-    1999—[Pub. L. 106–65, § 2803(h)(1)][/us/pl/106/65/s2803/h/1], struck out “in nongovernmental entities” after “Investments” in section catchline.
+    1999—[Pub. L. 106–65][/us/pl/106/65], § 2803(h)(1), struck out “in nongovernmental entities” after “Investments” in section catchline.
 
-    Subsec. (a). [Pub. L. 106–65, § 2803(d)(1)][/us/pl/106/65/s2803/d/1], substituted “an eligible entity” for “nongovernmental entities”.
+    Subsec. (a). [Pub. L. 106–65][/us/pl/106/65], § 2803(d)(1), substituted “an eligible entity” for “nongovernmental entities”.
 
-    Subsec. (c). [Pub. L. 106–65, § 2803(d)(2)][/us/pl/106/65/s2803/d/2], substituted “an eligible entity” for “a nongovernmental entity” in pars. (1) and (2) and “the eligible entity” for “the entity” wherever appearing in pars. (1) and (2).
+    Subsec. (c). [Pub. L. 106–65][/us/pl/106/65], § 2803(d)(2), substituted “an eligible entity” for “a nongovernmental entity” in pars. (1) and (2) and “the eligible entity” for “the entity” wherever appearing in pars. (1) and (2).
 
-    Subsec. (d). [Pub. L. 106–65, § 2803(d)(3)][/us/pl/106/65/s2803/d/3], substituted “eligible” for “nongovernmental”.
+    Subsec. (d). [Pub. L. 106–65][/us/pl/106/65], § 2803(d)(3), substituted “eligible” for “nongovernmental”.
 
-    Subsec. (e). [Pub. L. 106–65, § 2803(d)(4)][/us/pl/106/65/s2803/d/4], substituted “an eligible entity” for “a nongovernmental entity”.
+    Subsec. (e). [Pub. L. 106–65][/us/pl/106/65], § 2803(d)(4), substituted “an eligible entity” for “a nongovernmental entity”.
 
     1997—Subsec. (e). [Pub. L. 105–85][/us/pl/105/85] added subsec. (e).
 
@@ -62,25 +62,25 @@
 ----------
 ----------
 
-[/us/pl/104/106/s2801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2801%2Fa%2F1
+[/us/pl/104/106/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdB%2FtXXVIII
 [/us/stat/110/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F546
-[/us/pl/105/85/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2805
+[/us/pl/105/85/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdB%2FtXXVIII
 [/us/stat/111/1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1991
-[/us/pl/106/65/s2803/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2803%2Fd
+[/us/pl/106/65/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdB%2FtXXVIII
 [/us/stat/113/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F849
-[/us/pl/108/136/s1031/a/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F50
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1602
-[/us/pl/113/66/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2805
+[/us/pl/113/66/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdB%2FtXXVIII
 [/us/stat/127/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1008
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
-[/us/pl/106/65/s2803/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2803%2Fh%2F1
-[/us/pl/106/65/s2803/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2803%2Fd%2F1
-[/us/pl/106/65/s2803/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2803%2Fd%2F2
-[/us/pl/106/65/s2803/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2803%2Fd%2F3
-[/us/pl/106/65/s2803/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2803%2Fd%2F4
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 
 

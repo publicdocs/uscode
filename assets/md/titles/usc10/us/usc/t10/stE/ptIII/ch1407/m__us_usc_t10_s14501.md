@@ -35,7 +35,7 @@
 
             (B) the officer’s name is again removed from the report of a selection board under section 14111(b) or from a promotion list under [section 14310 of this title][/us/usc/t10/s14310].
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2946][/us/stat/108/2946]; amended [Pub. L. 104–106, div. A, title XV, § 1501(b)(28)][/us/pl/104/106/s1501/b/28], Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498]; [Pub. L. 109–163, div. A, title V, § 515(b)(1)(TT)][/us/pl/109/163/s515/b/1/TT], Jan. 6, 2006, [119 Stat. 3234][/us/stat/119/3234].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2946][/us/stat/108/2946]; amended [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(28), Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(TT), Jan. 6, 2006, [119 Stat. 3234][/us/stat/119/3234].)
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
  __Continuation on Reserve Active-Status List of Certain Reserve Colonels of Army and Air Force__ 
 
-[Pub. L. 103–337, div. A, title XVI, § 1681][/us/pl/103/337/s1681], Oct. 5, 1994, [108 Stat. 3021][/us/stat/108/3021], provided that:
+[Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1681, Oct. 5, 1994, [108 Stat. 3021][/us/stat/108/3021], provided that:
 
 >     “(a)  __Continuation Under Old Law__  __.—__ 
 
@@ -79,7 +79,7 @@
 
  __Mandatory Separation for Age for Certain Reserve Officers of Navy and Marine Corps__ 
 
-[Pub. L. 103–337, div. A, title XVI, § 1690][/us/pl/103/337/s1690], Oct. 5, 1994, [108 Stat. 3025][/us/stat/108/3025], provided that:
+[Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1690, Oct. 5, 1994, [108 Stat. 3025][/us/stat/108/3025], provided that:
 
 >     “(a)  __Savings Provisions for Required Separation Age__  __.—__ 
 
@@ -115,11 +115,11 @@
 [/us/usc/t10/s14310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14310
 [/us/usc/t10/s14502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14502%2Fa
 [/us/usc/t10/s14310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14310
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2946
-[/us/pl/104/106/s1501/b/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F28
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F498
-[/us/pl/109/163/s515/b/1/TT]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FTT
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3234
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
@@ -129,12 +129,12 @@
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
 [/us/pl/103/337/s1691/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691%2Fb%2F1
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
-[/us/pl/103/337/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1681
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3021
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
 [/us/usc/t10/s14701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14701
-[/us/pl/103/337/s1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1690
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3025
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001

@@ -73,7 +73,7 @@
 
     This section applies to task and delivery order contracts entered into under sections 2304a and 2304b of this title.
 
-(Added [Pub. L. 103–355, title I, § 1004(a)(1)][/us/pl/103/355/s1004/a/1], Oct. 13, 1994, [108 Stat. 3252][/us/stat/108/3252]; amended [Pub. L. 110–181, div. A, title VIII, § 843(a)(2)][/us/pl/110/181/s843/a/2], Jan. 28, 2008, [122 Stat. 237][/us/stat/122/237]; [Pub. L. 111–350, § 5(b)(14)][/us/pl/111/350/s5/b/14], Jan. 4, 2011, [124 Stat. 3843][/us/stat/124/3843]; [Pub. L. 111–383, div. A, title VIII, § 825][/us/pl/111/383/s825], title X, § 1075(f)(5)(A), Jan. 7, 2011, [124 Stat. 4270][/us/stat/124/4270], 4376; [Pub. L. 112–239, div. A, title VIII, § 830][/us/pl/112/239/s830], Jan. 2, 2013, [126 Stat. 1842][/us/stat/126/1842].)
+(Added [Pub. L. 103–355, title I][/us/pl/103/355/tI], § 1004(a)(1), Oct. 13, 1994, [108 Stat. 3252][/us/stat/108/3252]; amended [Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 843(a)(2), Jan. 28, 2008, [122 Stat. 237][/us/stat/122/237]; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(14), Jan. 4, 2011, [124 Stat. 3843][/us/stat/124/3843]; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 825, title X, § 1075(f)(5)(A), Jan. 7, 2011, [124 Stat. 4270][/us/stat/124/4270], 4376; [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 830, Jan. 2, 2013, [126 Stat. 1842][/us/stat/126/1842].)
 
  __Amendments__ 
 
@@ -81,21 +81,21 @@
 
     2011—Subsec. (a)(1). [Pub. L. 111–350][/us/pl/111/350] substituted “[section 1708 of title 41][/us/usc/t41/s1708]” for “section 18 of the Office of Federal Procurement Policy Act ([41 U.S.C. 416][/us/usc/t41/s416])”.
 
-    Subsec. (e). [Pub. L. 111–383, § 1075(f)(5)(A)][/us/pl/111/383/s1075/f/5/A], made technical correction to directory language of [Pub. L. 110–181, § 843(a)(2)(C)][/us/pl/110/181/s843/a/2/C]. See 2008 Amendment note below.
+    Subsec. (e). [Pub. L. 111–383][/us/pl/111/383], § 1075(f)(5)(A), made technical correction to directory language of [Pub. L. 110–181][/us/pl/110/181], § 843(a)(2)(C). See 2008 Amendment note below.
 
-    Subsec. (e)(3). [Pub. L. 111–383, § 825][/us/pl/111/383/s825], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “This subsection shall be in effect for three years, beginning on the date that is 120 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008.”
+    Subsec. (e)(3). [Pub. L. 111–383][/us/pl/111/383], § 825, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “This subsection shall be in effect for three years, beginning on the date that is 120 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008.”
 
-    2008—Subsec. (d). [Pub. L. 110–181, § 843(a)(2)][/us/pl/110/181/s843/a/2], added subsec. (d). Former subsec. (d) redesignated (e).
+    2008—Subsec. (d). [Pub. L. 110–181][/us/pl/110/181], § 843(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 110–181, § 843(a)(2)(C)][/us/pl/110/181/s843/a/2/C], as amended by [Pub. L. 111–383, § 1075(f)(5)(A)][/us/pl/111/383/s1075/f/5/A], added subsec. (e) and struck out former subsec. (e). Former text read as follows: “A protest is not authorized in connection with the issuance or proposed issuance of a task or delivery order except for a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued.”
+    Subsec. (e). [Pub. L. 110–181][/us/pl/110/181], § 843(a)(2)(C), as amended by [Pub. L. 111–383][/us/pl/111/383], § 1075(f)(5)(A), added subsec. (e) and struck out former subsec. (e). Former text read as follows: “A protest is not authorized in connection with the issuance or proposed issuance of a task or delivery order except for a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued.”
 
-    [Pub. L. 110–181, § 843(a)(2)(A)][/us/pl/110/181/s843/a/2/A], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    [Pub. L. 110–181][/us/pl/110/181], § 843(a)(2)(A), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsecs. (f), (g). [Pub. L. 110–181, § 843(a)(2)(A)][/us/pl/110/181/s843/a/2/A], redesignated subsecs. (e) and (f) as (f) and (g), respectively.
+    Subsecs. (f), (g). [Pub. L. 110–181][/us/pl/110/181], § 843(a)(2)(A), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–181, div. A, title VIII, § 843(a)(3)(B)][/us/pl/110/181/s843/a/3/B], Jan. 28, 2008, [122 Stat. 238][/us/stat/122/238], provided that: 
+[Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 843(a)(3)(B), Jan. 28, 2008, [122 Stat. 238][/us/stat/122/238], provided that: 
 
 > “The amendments made by paragraph (2) \[amending this section\] shall take effect on the date that is 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], and shall apply with respect to any task or delivery order awarded on or after such date.”
 
@@ -119,29 +119,29 @@
 [/us/usc/t10/s2304/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Ff
 [/us/usc/t10/s2305/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2305%2Fb%2F5
 [/us/usc/t31/s3556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3556
-[/us/pl/103/355/s1004/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1004%2Fa%2F1
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3252
-[/us/pl/110/181/s843/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs843%2Fa%2F2
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F237
-[/us/pl/111/350/s5/b/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F14
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3843
-[/us/pl/111/383/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs825
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4270
-[/us/pl/112/239/s830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs830
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1842
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1708
 [/us/usc/t41/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs416
-[/us/pl/111/383/s1075/f/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Ff%2F5%2FA
-[/us/pl/110/181/s843/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs843%2Fa%2F2%2FC
-[/us/pl/111/383/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs825
-[/us/pl/110/181/s843/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs843%2Fa%2F2
-[/us/pl/110/181/s843/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs843%2Fa%2F2%2FC
-[/us/pl/111/383/s1075/f/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Ff%2F5%2FA
-[/us/pl/110/181/s843/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs843%2Fa%2F2%2FA
-[/us/pl/110/181/s843/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs843%2Fa%2F2%2FA
-[/us/pl/110/181/s843/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs843%2Fa%2F3%2FB
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F238
 [/us/pl/103/355/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10001
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302

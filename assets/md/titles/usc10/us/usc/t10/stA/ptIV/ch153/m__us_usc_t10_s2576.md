@@ -19,17 +19,17 @@
 
     (b) Such surplus military equipment shall not be sold under the provisions of this section to a State or local law enforcement, firefighting, homeland security, or emergency management agency unless request therefor is made by such agency, in such form and manner as the Secretary of Defense shall prescribe, and such request, with respect to the type and amount of equipment so requested, is certified as being necessary and suitable for the operation of such agency by the Governor (or such State official as he may designate) of the State in which such agency is located. Equipment sold to a State or local law enforcement, firefighting, homeland security, or emergency management agency under this section shall not exceed, in quantity, the amount requested and certified for such agency and shall be for the exclusive use of such agency. Such equipment may not be sold, or otherwise transferred, by such agency to any individual or public or private organization or agency.
 
-(Added [Pub. L. 90–500, title IV, § 403(a)][/us/pl/90/500/s403/a] Sept. 20, 1968, [82 Stat. 851][/us/stat/82/851]; amended [Pub. L. 96–513, title V, § 511(85)][/us/pl/96/513/s511/85], Dec. 12, 1980, [94 Stat. 2927][/us/stat/94/2927]; [Pub. L. 107–217, § 3(b)(10)][/us/pl/107/217/s3/b/10], Aug. 21, 2002, [116 Stat. 1296][/us/stat/116/1296]; [Pub. L. 111–350, § 5(b)(42)][/us/pl/111/350/s5/b/42], Jan. 4, 2011, [124 Stat. 3846][/us/stat/124/3846]; [Pub. L. 111–383, div. A, title X, § 1072(a)][/us/pl/111/383/s1072/a]–(c)(1), Jan. 7, 2011, [124 Stat. 4366][/us/stat/124/4366].)
+(Added [Pub. L. 90–500, title IV][/us/pl/90/500/tIV], § 403(a) Sept. 20, 1968, [82 Stat. 851][/us/stat/82/851]; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(85), Dec. 12, 1980, [94 Stat. 2927][/us/stat/94/2927]; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(10), Aug. 21, 2002, [116 Stat. 1296][/us/stat/116/1296]; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(42), Jan. 4, 2011, [124 Stat. 3846][/us/stat/124/3846]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1072(a)–(c)(1), Jan. 7, 2011, [124 Stat. 4366][/us/stat/124/4366].)
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–383, § 1072(c)(1)][/us/pl/111/383/s1072/c/1], substituted “Surplus military equipment: sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies” for “Surplus military equipment: sale to State and local law enforcement and firefighting agencies” in section catchline.
+    2011—[Pub. L. 111–383][/us/pl/111/383], § 1072(c)(1), substituted “Surplus military equipment: sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies” for “Surplus military equipment: sale to State and local law enforcement and firefighting agencies” in section catchline.
 
-    Subsec. (a). [Pub. L. 111–383, § 1072(a)(1)][/us/pl/111/383/s1072/a/1], (b), substituted “State and local law enforcement, firefighting, homeland security, and emergency management agencies” for “State and local law enforcement and firefighting agencies”, “personal protective equipment, and other appropriate equipment” for “and protective body armor”, and “in carrying out law enforcement, firefighting, homeland security, and emergency management activities” for “in carrying out law enforcement and firefighting activities”.
+    Subsec. (a). [Pub. L. 111–383][/us/pl/111/383], § 1072(a)(1), (b), substituted “State and local law enforcement, firefighting, homeland security, and emergency management agencies” for “State and local law enforcement and firefighting agencies”, “personal protective equipment, and other appropriate equipment” for “and protective body armor”, and “in carrying out law enforcement, firefighting, homeland security, and emergency management activities” for “in carrying out law enforcement and firefighting activities”.
 
     [Pub. L. 111–350][/us/pl/111/350] substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251][/us/usc/t41/s251] et seq.)”.
 
-    Subsec. (b). [Pub. L. 111–383, § 1072(a)(2)][/us/pl/111/383/s1072/a/2], substituted “State or local law enforcement, firefighting, homeland security, or emergency management agency” for “State or local law enforcement or firefighting agency” in two places.
+    Subsec. (b). [Pub. L. 111–383][/us/pl/111/383], § 1072(a)(2), substituted “State or local law enforcement, firefighting, homeland security, or emergency management agency” for “State or local law enforcement or firefighting agency” in two places.
 
     2002—Subsec. (a). [Pub. L. 107–217][/us/pl/107/217] inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “([41 U.S.C. 251][/us/usc/t41/s251] et seq.)” for “([40 U.S.C. 471][/us/usc/t40/s471] et seq.)”.
 
@@ -41,7 +41,7 @@
 
  __Transfer of Excess Aircraft to Other Departments of the Federal Government__ 
 
-[Pub. L. 112–239, div. A, title X, § 1091][/us/pl/112/239/s1091], Jan. 2, 2013, [126 Stat. 1971][/us/stat/126/1971], provided that:
+[Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1091, Jan. 2, 2013, [126 Stat. 1971][/us/stat/126/1971], provided that:
 
 >     “(a)  __Transfer__  __.—__ 
 
@@ -97,7 +97,7 @@
 
  __Commercial Sale of Small Arms Ammunition and Small Arms Ammunition Components in Excess of Military Requirements, and Fired Cartridge Cases__ 
 
-[Pub. L. 111–383, div. A, title III, § 346][/us/pl/111/383/s346], Jan. 7, 2011, [124 Stat. 4191][/us/stat/124/4191], as amended by [Pub. L. 112–81, div. A, title III, § 361][/us/pl/112/81/s361], Dec. 31, 2011, [125 Stat. 1377][/us/stat/125/1377], provided that:
+[Pub. L. 111–383, div. A, title III][/us/pl/111/383/dA/tIII], § 346, Jan. 7, 2011, [124 Stat. 4191][/us/stat/124/4191], as amended by [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 361, Dec. 31, 2011, [125 Stat. 1377][/us/stat/125/1377], provided that:
 
 >     “(a)  __Commercial Sale of Small Arms Ammunition, Small \[Arms\] Ammunition Components, and Fired Cartridge Cases__  __.—__ 
 
@@ -133,7 +133,7 @@
 
  __Authority To Sell Aircraft and Aircraft Parts for Use in Responding to Oil Spills__ 
 
-[Pub. L. 106–181, title VII, § 740][/us/pl/106/181/s740], Apr. 5, 2000, [114 Stat. 173][/us/stat/114/173], as amended by [Pub. L. 107–296, title XVII, § 1704(e)(6)][/us/pl/107/296/s1704/e/6], Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315]; [Pub. L. 107–314, div. A, title X][/us/pl/107/314], §§ 1051, 1062(i), Dec. 2, 2002, [116 Stat. 2648][/us/stat/116/2648], 2651, provided that:
+[Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 740, Apr. 5, 2000, [114 Stat. 173][/us/stat/114/173], as amended by [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(e)(6), Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315]; [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], §§ 1051, 1062(i), Dec. 2, 2002, [116 Stat. 2648][/us/stat/116/2648], 2651, provided that:
 
 >     “(a) __Authority.—__ 
 
@@ -215,7 +215,7 @@
 
  __Sale of Aircraft for Wildfire Suppression Purposes__ 
 
-[Pub. L. 104–307][/us/pl/104/307], Oct. 14, 1996, [110 Stat. 3811][/us/stat/110/3811], as amended by [Pub. L. 106–65, div. A, title X, § 1067(23)][/us/pl/106/65/s1067/23], Oct. 5, 1999, [113 Stat. 775][/us/stat/113/775]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 388\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–89; [Pub. L. 107–314, div. A, title X, § 1062(k)][/us/pl/107/314/s1062/k], Dec. 2, 2002, [116 Stat. 2651][/us/stat/116/2651]; [Pub. L. 112–239, div. A, title X, § 1090][/us/pl/112/239/s1090], Jan. 2, 2013, [126 Stat. 1971][/us/stat/126/1971], provided that:
+[Pub. L. 104–307][/us/pl/104/307], Oct. 14, 1996, [110 Stat. 3811][/us/stat/110/3811], as amended by [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(23), Oct. 5, 1999, [113 Stat. 775][/us/stat/113/775]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 388\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–89; [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1062(k), Dec. 2, 2002, [116 Stat. 2651][/us/stat/116/2651]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1090, Jan. 2, 2013, [126 Stat. 1971][/us/stat/126/1971], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -296,21 +296,21 @@
 ----------
 ----------
 
-[/us/pl/90/500/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F500%2Fs403%2Fa
+[/us/pl/90/500/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F500%2FtIV
 [/us/stat/82/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F851
-[/us/pl/96/513/s511/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F85
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2927
-[/us/pl/107/217/s3/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F10
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1296
-[/us/pl/111/350/s5/b/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F42
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3846
-[/us/pl/111/383/s1072/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1072%2Fa
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4366
-[/us/pl/111/383/s1072/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1072%2Fc%2F1
-[/us/pl/111/383/s1072/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1072%2Fa%2F1
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
-[/us/pl/111/383/s1072/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1072%2Fa%2F2
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
 [/us/usc/t40/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs471
@@ -320,29 +320,29 @@
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/112/239/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1091
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1971
-[/us/pl/111/383/s346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs346
+[/us/pl/111/383/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIII
 [/us/stat/124/4191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4191
-[/us/pl/112/81/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs361
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1377
 [/us/usc/t10/s2576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2576
-[/us/pl/106/181/s740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs740
+[/us/pl/106/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtVII
 [/us/stat/114/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F173
-[/us/pl/107/296/s1704/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fe%2F6
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2315
-[/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2648
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/104/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F307
 [/us/stat/110/3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3811
-[/us/pl/106/65/s1067/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F23
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F775
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/314/s1062/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1062%2Fk
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2651
-[/us/pl/112/239/s1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1090
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1971
 
 

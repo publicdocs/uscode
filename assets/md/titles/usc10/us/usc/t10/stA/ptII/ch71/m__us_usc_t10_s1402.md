@@ -169,7 +169,7 @@
 
         (3) The determination of the Secretary concerned as to extraordinary heroism is conclusive for all purposes.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 107][/us/stat/70A/107]; [Pub. L. 86–559, § 1(5)][/us/pl/86/559/s1/5], June 30, 1960, [74 Stat. 265][/us/stat/74/265]; [Pub. L. 88–132, § 5][/us/pl/88/132/s5](l)(1), Oct. 2, 1963, [77 Stat. 214][/us/stat/77/214]; [Pub. L. 90–207, § 2(a)(2)][/us/pl/90/207/s2/a/2], Dec. 16, 1967, [81 Stat. 653][/us/stat/81/653]; [Pub. L. 96–342, title VIII, § 813(b)(2)][/us/pl/96/342/s813/b/2], Sept. 8, 1980, [94 Stat. 1102][/us/stat/94/1102]; [Pub. L. 96–513, title V, § 511(50)][/us/pl/96/513/s511/50], Dec. 12, 1980, [94 Stat. 2924][/us/stat/94/2924]; [Pub. L. 98–94, title IX][/us/pl/98/94], §§ 922(a)(3), (4), 923(a)(1), (2)(B), (C), Sept. 24, 1983, [97 Stat. 641][/us/stat/97/641], 642; [Pub. L. 99–348, title II, § 201(b)(3)][/us/pl/99/348/s201/b/3], title III, § 304(a)(3), (b)(3), July 1, 1986, [100 Stat. 694][/us/stat/100/694], 703; [Pub. L. 102–484, div. A, title VI, § 642(a)][/us/pl/102/484/s642/a], Oct. 23, 1992, [106 Stat. 2424][/us/stat/106/2424]; [Pub. L. 110–181, div. A, title VI, § 646(b)][/us/pl/110/181/s646/b], Jan. 28, 2008, [122 Stat. 160][/us/stat/122/160]; [Pub. L. 111–383, div. A, title VI, § 631(b)][/us/pl/111/383/s631/b], Jan. 7, 2011, [124 Stat. 4239][/us/stat/124/4239].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 107][/us/stat/70A/107]; [Pub. L. 86–559][/us/pl/86/559], § 1(5), June 30, 1960, [74 Stat. 265][/us/stat/74/265]; [Pub. L. 88–132][/us/pl/88/132], § 5(l)(1), Oct. 2, 1963, [77 Stat. 214][/us/stat/77/214]; [Pub. L. 90–207][/us/pl/90/207], § 2(a)(2), Dec. 16, 1967, [81 Stat. 653][/us/stat/81/653]; [Pub. L. 96–342, title VIII][/us/pl/96/342/tVIII], § 813(b)(2), Sept. 8, 1980, [94 Stat. 1102][/us/stat/94/1102]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(50), Dec. 12, 1980, [94 Stat. 2924][/us/stat/94/2924]; [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], §§ 922(a)(3), (4), 923(a)(1), (2)(B), (C), Sept. 24, 1983, [97 Stat. 641][/us/stat/97/641], 642; [Pub. L. 99–348, title II][/us/pl/99/348/tII], § 201(b)(3), title III, § 304(a)(3), (b)(3), July 1, 1986, [100 Stat. 694][/us/stat/100/694], 703; [Pub. L. 102–484, div. A, title VI][/us/pl/102/484/dA/tVI], § 642(a), Oct. 23, 1992, [106 Stat. 2424][/us/stat/106/2424]; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 646(b), Jan. 28, 2008, [122 Stat. 160][/us/stat/122/160]; [Pub. L. 111–383, div. A, title VI][/us/pl/111/383/dA/tVI], § 631(b), Jan. 7, 2011, [124 Stat. 4239][/us/stat/124/4239].)
 
 <table>
 
@@ -255,29 +255,29 @@ Oct. 12, 1949, ch. 681, §§ 402(d) (last proviso, less applicability to retir
 
     1992—Subsec. (f). [Pub. L. 102–484][/us/pl/102/484] added subsec. (f).
 
-    1986—[Pub. L. 99–348, § 304(b)(3)][/us/pl/99/348/s304/b/3], inserted “of members who first became members before September 8, 1980” in section catchline.
+    1986—[Pub. L. 99–348][/us/pl/99/348], § 304(b)(3), inserted “of members who first became members before September 8, 1980” in section catchline.
 
     Subsec. (a). [Pub. L. 99–348][/us/pl/99/348], §§ 201(b)(3), 304(a)(3), struck out “(as defined in [section 1407(a)(2) of this title][/us/usc/t10/s1407/a/2])” after “uniformed service” and struck out provision that if the amount recomputed is not a multiple of $1, it be rounded to the next lower multiple of $1. See [section 1412 of this title][/us/usc/t10/s1412].
 
-    Subsecs. (b), (c). [Pub. L. 99–348, § 304(a)(3)][/us/pl/99/348/s304/a/3], struck out “(as defined in [section 1407(a)(2) of this title][/us/usc/t10/s1407/a/2])” after “uniformed service”.
+    Subsecs. (b), (c). [Pub. L. 99–348][/us/pl/99/348], § 304(a)(3), struck out “(as defined in [section 1407(a)(2) of this title][/us/usc/t10/s1407/a/2])” after “uniformed service”.
 
-    Subsec. (d). [Pub. L. 99–348, § 201(b)(3)][/us/pl/99/348/s201/b/3], struck out provision that if the amount recomputed is not a multiple of $1, it be rounded to the next lower multiple of $1. See [section 1412 of this title][/us/usc/t10/s1412].
+    Subsec. (d). [Pub. L. 99–348][/us/pl/99/348], § 201(b)(3), struck out provision that if the amount recomputed is not a multiple of $1, it be rounded to the next lower multiple of $1. See [section 1412 of this title][/us/usc/t10/s1412].
 
-    1983—Subsec. (a). [Pub. L. 98–94, § 922(a)(3)][/us/pl/98/94/s922/a/3], substituted “according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.” for “as follows:”.
+    1983—Subsec. (a). [Pub. L. 98–94][/us/pl/98/94], § 922(a)(3), substituted “according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.” for “as follows:”.
 
-    [Pub. L. 98–94, § 923(a)(1)][/us/pl/98/94/s923/a/1], (2)(B), in footnote 2 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
+    [Pub. L. 98–94][/us/pl/98/94], § 923(a)(1), (2)(B), in footnote 2 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
 
-    Subsec. (d). [Pub. L. 98–94, § 922(a)(4)][/us/pl/98/94/s922/a/4], substituted “according to the following table. The amount computed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.” for “as follows:”.
+    Subsec. (d). [Pub. L. 98–94][/us/pl/98/94], § 922(a)(4), substituted “according to the following table. The amount computed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.” for “as follows:”.
 
-    [Pub. L. 98–94, § 923(a)(1)][/us/pl/98/94/s923/a/1], (2)(C), in footnote 1 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
+    [Pub. L. 98–94][/us/pl/98/94], § 923(a)(1), (2)(C), in footnote 1 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
 
     1980—Subsecs. (a) to (c). [Pub. L. 96–513][/us/pl/96/513] substituted “a uniformed service (as defined in [section 1407(a)(2) of this title][/us/usc/t10/s1407/a/2]) before September 8, 1980” for “the armed forces before the date of the enactment of the Department of Defense Appropriation Act, 1981” wherever appearing.
 
     [Pub. L. 96–342][/us/pl/96/342] inserted “who first became a member of the armed forces before the date of the enactment of the Department of Defense Authorization Act, 1981, and” after “of an armed force” wherever appearing.
 
-    1967—Subsec. (d). [Pub. L. 90–207, § 2(a)(2)(A)][/us/pl/90/207/s2/a/2/A], inserted “increased by any applicable adjustments in that pay under [section 1401a of this title][/us/usc/t10/s1401a] after he initially became entitled to that pay” after “retired,”.
+    1967—Subsec. (d). [Pub. L. 90–207][/us/pl/90/207], § 2(a)(2)(A), inserted “increased by any applicable adjustments in that pay under [section 1401a of this title][/us/usc/t10/s1401a] after he initially became entitled to that pay” after “retired,”.
 
-    Subsec. (e). [Pub. L. 90–207, § 2(a)(2)(B)][/us/pl/90/207/s2/a/2/B], added subsec. (e).
+    Subsec. (e). [Pub. L. 90–207][/us/pl/90/207], § 2(a)(2)(B), added subsec. (e).
 
     1963—Subsec. (a). [Pub. L. 88–132][/us/pl/88/132] substituted in introductory clause “who has become entitled to retired pay or retainer pay” for “who has been retired or has become entitled to retainer pay” and “to recompute his retired pay or retainer pay upon his release from that duty” for “, upon release from that duty, to recompute his retired or retainer pay” and inserted in such clause “(other than for training)” after “active duty”; substituted in column 1 of table “Monthly basic pay” for “Monthly basic pay or base and longevity pay, as the case may be,”, designated existing provisions as (1) and added (2); substituted in (1) of column 2 of the table “retired pay or retainer pay” for “retired or retainer pay” and in (2) of such column 2 “after becoming entitled to retired pay or retainer pay” for “after retirement or becoming entitled to retainer pay”, struck out column 3 relating to addition and redesignated column 4 as 3; added footnote 1 to the table and redesignated former footnote 1 as 2; and inserted provisions for recomputation of retired pay upon release from active duty of officers ordered to active duty in a higher grade based upon special commendation for performance of duty in actual combat.
 
@@ -289,7 +289,7 @@ Oct. 12, 1949, ch. 681, §§ 402(d) (last proviso, less applicability to retir
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–181, div. A, title VI, § 646(c)][/us/pl/110/181/s646/c], Jan. 28, 2008, [122 Stat. 160][/us/stat/122/160], provided that: 
+[Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 646(c), Jan. 28, 2008, [122 Stat. 160][/us/stat/122/160], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 6333 of this title][/us/usc/t10/s6333]\] shall take effect as of January 1, 2007, and shall apply with respect to retired pay and retainer pay payable on or after that date.”
 
@@ -313,13 +313,13 @@ Oct. 12, 1949, ch. 681, §§ 402(d) (last proviso, less applicability to retir
 
  __Accrual of Benefits; Prospective Applicability__ 
 
-[Pub. L. 102–484, div. A, title VI, § 642(c)][/us/pl/102/484/s642/c], Oct. 23, 1992, [106 Stat. 2425][/us/stat/106/2425], provided that: 
+[Pub. L. 102–484, div. A, title VI][/us/pl/102/484/dA/tVI], § 642(c), Oct. 23, 1992, [106 Stat. 2425][/us/stat/106/2425], provided that: 
 
 > “No benefits shall accrue for months beginning before the date of the enactment of this Act \[Oct. 23, 1992\] by reason of the amendments made by this section \[amending this section and [section 1402a of this title][/us/usc/t10/s1402a]\].”
 
  __Recomputation of Retired Pay of Certain Recalled Retirees__ 
 
-[Pub. L. 98–525, title VI, § 655][/us/pl/98/525/s655], Oct. 19, 1984, [98 Stat. 2552][/us/stat/98/2552], provided that:
+[Pub. L. 98–525, title VI][/us/pl/98/525/tVI], § 655, Oct. 19, 1984, [98 Stat. 2552][/us/stat/98/2552], provided that:
 
 >     “(a)
 
@@ -341,7 +341,7 @@ Oct. 12, 1949, ch. 681, §§ 402(d) (last proviso, less applicability to retir
 
  __Retired Pay and Retainer Pay; Prohibition Against Recomputation Under 1963 Pay Rates; Exceptions; Increments Based on the Greater of a 5 Percent Increase or Recomputation Under 1958 Pay Rates for Members Retired Prior to October 1949 for Reasons Other Than Physical Disability, Members Receiving Retired Pay Under Career Compensation Act of 1949 and Former Chiefs of Staff; Additional 5 Percent Increase for Other Retired Members; Exclusion From Increase of Officers Retired Under Certain Provisions__ 
 
-[Pub. L. 88–132, § 5(a)][/us/pl/88/132/s5/a]–(f), Oct. 2, 1963, [77 Stat. 212][/us/stat/77/212], provided that:
+[Pub. L. 88–132][/us/pl/88/132], § 5(a)–(f), Oct. 2, 1963, [77 Stat. 212][/us/stat/77/212], provided that:
 
 >     “(a)
 
@@ -405,13 +405,13 @@ Oct. 12, 1949, ch. 681, §§ 402(d) (last proviso, less applicability to retir
 
  __Retired Pay and Retainer Pay; Retroactive Effect__ 
 
-[Pub. L. 88–132, § 5(j)][/us/pl/88/132/s5/j], Oct. 2, 1963, [77 Stat. 214][/us/stat/77/214], provided that: 
+[Pub. L. 88–132][/us/pl/88/132], § 5(j), Oct. 2, 1963, [77 Stat. 214][/us/stat/77/214], provided that: 
 
 > “A member or former member of a uniformed service is not entitled to an increase in his retired pay or retainer pay because of the enactment of this Act \[see Short Title note set out under [section 201 of Title 37][/us/usc/t37/s201]\] for any period before the effective date of this Act \[Oct. 1, 1963\].”
 
  __Savings Provision__ 
 
-[Pub. L. 88–132, § 5][/us/pl/88/132/s5](l)(2), Oct. 2, 1963, [77 Stat. 215][/us/stat/77/215], provided that: 
+[Pub. L. 88–132][/us/pl/88/132], § 5(l)(2), Oct. 2, 1963, [77 Stat. 215][/us/stat/77/215], provided that: 
 
 > “Notwithstanding paragraph (1) of this subsection \[amending this section\], and unless otherwise entitled to higher retired pay or retainer pay, a member of a uniformed service who is on active duty (other than for training) on the effective date of this Act \[Oct. 1, 1963\], who was entitled to retired pay or retainer pay before he entered on that duty, and who is released from that duty on or after the effective date of this Act after having served on that duty for a continuous period of at least one year shall, upon that release from active duty, be entitled to recompute his retired pay or retainer pay under the table in [section 1402 of title 10][/us/usc/t10/s1402], United States Code \[this section\], subject to [section 6483(c) of title 10][/us/usc/t10/s6483/c], as that table and that section were in effect on the day before the effective date of this Act, using rates of basic pay prescribed by this Act \[[section 203 of Title 37][/us/usc/t37/s203]\].”
 
@@ -427,56 +427,56 @@ Oct. 12, 1949, ch. 681, §§ 402(d) (last proviso, less applicability to retir
 [/us/usc/t10/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F107
-[/us/pl/86/559/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559%2Fs1%2F5
+[/us/pl/86/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559
 [/us/stat/74/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F265
-[/us/pl/88/132/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132%2Fs5
+[/us/pl/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132
 [/us/stat/77/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F214
-[/us/pl/90/207/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F207%2Fs2%2Fa%2F2
+[/us/pl/90/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F207
 [/us/stat/81/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F653
-[/us/pl/96/342/s813/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs813%2Fb%2F2
+[/us/pl/96/342/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtVIII
 [/us/stat/94/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1102
-[/us/pl/96/513/s511/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F50
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2924
-[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F641
-[/us/pl/99/348/s201/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs201%2Fb%2F3
+[/us/pl/99/348/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtII
 [/us/stat/100/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F694
-[/us/pl/102/484/s642/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs642%2Fa
+[/us/pl/102/484/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVI
 [/us/stat/106/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2424
-[/us/pl/110/181/s646/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs646%2Fb
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F160
-[/us/pl/111/383/s631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs631%2Fb
+[/us/pl/111/383/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVI
 [/us/stat/124/4239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4239
 [/us/usc/t10/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401
 [/us/pl/99/348/s304/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs304%2Fb%2F3
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/99/348/s304/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs304%2Fb%2F3
+[/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
 [/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
 [/us/usc/t10/s1407/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1407%2Fa%2F2
 [/us/usc/t10/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1412
-[/us/pl/99/348/s304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs304%2Fa%2F3
+[/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
 [/us/usc/t10/s1407/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1407%2Fa%2F2
-[/us/pl/99/348/s201/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs201%2Fb%2F3
+[/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
 [/us/usc/t10/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1412
-[/us/pl/98/94/s922/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs922%2Fa%2F3
-[/us/pl/98/94/s923/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs923%2Fa%2F1
-[/us/pl/98/94/s922/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs922%2Fa%2F4
-[/us/pl/98/94/s923/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs923%2Fa%2F1
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/usc/t10/s1407/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1407%2Fa%2F2
 [/us/pl/96/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342
-[/us/pl/90/207/s2/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F207%2Fs2%2Fa%2F2%2FA
+[/us/pl/90/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F207
 [/us/usc/t10/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a
-[/us/pl/90/207/s2/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F207%2Fs2%2Fa%2F2%2FB
+[/us/pl/90/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F207
 [/us/pl/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132
 [/us/pl/86/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559
 [/us/usc/t14/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs232
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/383/s631/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs631%2Fd
 [/us/usc/t10/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401
-[/us/pl/110/181/s646/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs646%2Fc
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F160
 [/us/usc/t10/s6333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6333
 [/us/pl/98/94/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs922
@@ -494,14 +494,14 @@ Oct. 12, 1949, ch. 681, §§ 402(d) (last proviso, less applicability to retir
 [/us/pl/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132
 [/us/pl/88/132/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132%2Fs14
 [/us/usc/t37/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs201
-[/us/pl/102/484/s642/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs642%2Fc
+[/us/pl/102/484/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtVI
 [/us/stat/106/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2425
 [/us/usc/t10/s1402a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1402a
-[/us/pl/98/525/s655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs655
+[/us/pl/98/525/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVI
 [/us/stat/98/2552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2552
 [/us/usc/t10/s1402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1402%2Fa
 [/us/usc/t10/s1402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1402%2Fa
-[/us/pl/88/132/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132%2Fs5%2Fa
+[/us/pl/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132
 [/us/stat/77/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F212
 [/us/usc/t10/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1402
 [/us/usc/t37/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs201
@@ -519,10 +519,10 @@ Oct. 12, 1949, ch. 681, §§ 402(d) (last proviso, less applicability to retir
 [/us/usc/t37/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs203
 [/us/stat/60/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F59
 [/us/stat/62/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1052
-[/us/pl/88/132/s5/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132%2Fs5%2Fj
+[/us/pl/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132
 [/us/stat/77/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F214
 [/us/usc/t37/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs201
-[/us/pl/88/132/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132%2Fs5
+[/us/pl/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132
 [/us/stat/77/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F215
 [/us/usc/t10/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1402
 [/us/usc/t10/s6483/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6483%2Fc

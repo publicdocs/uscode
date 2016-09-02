@@ -83,9 +83,9 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–239, div. A, title V, § 552(c)(2)][/us/pl/112/239/s552/c/2], Jan. 2, 2013, [126 Stat. 1741][/us/stat/126/1741], struck out item 4651 “Arms, tentage, and equipment: educational institutions not maintaining units of R.O.T.C.”
+    2013—[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 552(c)(2), Jan. 2, 2013, [126 Stat. 1741][/us/stat/126/1741], struck out item 4651 “Arms, tentage, and equipment: educational institutions not maintaining units of R.O.T.C.”
 
-    1984—[Pub. L. 98–525, title XV, § 1538(a)(2)][/us/pl/98/525/s1538/a/2], Oct. 19, 1984, [98 Stat. 2636][/us/stat/98/2636], added item 4657.
+    1984—[Pub. L. 98–525, title XV][/us/pl/98/525/tXV], § 1538(a)(2), Oct. 19, 1984, [98 Stat. 2636][/us/stat/98/2636], added item 4657.
 
 ----------
 
@@ -94,9 +94,9 @@
 ----------
 ----------
 
-[/us/pl/112/239/s552/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs552%2Fc%2F2
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1741
-[/us/pl/98/525/s1538/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1538%2Fa%2F2
+[/us/pl/98/525/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXV
 [/us/stat/98/2636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2636
 
 

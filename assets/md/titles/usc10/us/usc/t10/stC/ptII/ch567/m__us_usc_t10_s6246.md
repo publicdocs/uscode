@@ -25,7 +25,7 @@
 
     (b) The authority in subsection (a) includes authority to award the medal to a member of the Ready Reserve who was not in a duty status defined in [section 101(d) of this title][/us/usc/t10/s101/d] when the member distinguished himself by heroism.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 390][/us/stat/70A/390]; [Pub. L. 105–85, div. A, title V, § 574(b)][/us/pl/105/85/s574/b], Nov. 18, 1997, [111 Stat. 1758][/us/stat/111/1758].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 390][/us/stat/70A/390]; [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 574(b), Nov. 18, 1997, [111 Stat. 1758][/us/stat/111/1758].)
 
 <table>
 
@@ -87,7 +87,7 @@ Feb. 4, 1919, ch. 14, § 5; added Aug. 7, 1942, ch. 551, § 1, 56 Stat. 744.
 [/us/usc/t10/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fd
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F390
-[/us/pl/105/85/s574/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs574%2Fb
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1758
 [/us/usc/t37/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs231
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1

@@ -79,7 +79,7 @@
 
     The authorities in this section shall expire on December 31, 2020.
 
-(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1033(a), Oct. 14, 2008, [122 Stat. 4591][/us/stat/122/4591]; amended [Pub. L. 111–383, div. A, title X, § 1075(b)(50)][/us/pl/111/383/s1075/b/50], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239], §§ 1055, 1076(b)(4), (f)(44), Jan. 2, 2013, [126 Stat. 1938][/us/stat/126/1938], 1949, 1955.)
+(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1033(a), Oct. 14, 2008, [122 Stat. 4591][/us/stat/122/4591]; amended [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(50), Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], §§ 1055, 1076(b)(4), (f)(44), Jan. 2, 2013, [126 Stat. 1938][/us/stat/126/1938], 1949, 1955.)
 
  __References in Text__ 
 
@@ -87,21 +87,21 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a)(3). [Pub. L. 112–239, § 1055(b)(1)][/us/pl/112/239/s1055/b/1], struck out “passenger” after “commercial air”.
+    2013—Subsec. (a)(3). [Pub. L. 112–239][/us/pl/112/239], § 1055(b)(1), struck out “passenger” after “commercial air”.
 
-    Subsec. (b). [Pub. L. 112–239, § 1076(f)(44)][/us/pl/112/239/s1076/f/44], substituted “required by section 356 of the National Defense Authorization Act for Fiscal Year 2008” for “required by section 1356 of the National Defense Authorization Act for Fiscal Year 2008”.
+    Subsec. (b). [Pub. L. 112–239][/us/pl/112/239], § 1076(f)(44), substituted “required by section 356 of the National Defense Authorization Act for Fiscal Year 2008” for “required by section 1356 of the National Defense Authorization Act for Fiscal Year 2008”.
 
-    Subsec. (j). [Pub. L. 112–239, § 1076(b)(4)][/us/pl/112/239/s1076/b/4], made technical amendment to directory language of [Pub. L. 111–383, § 1075(b)(50)(C)][/us/pl/111/383/s1075/b/50/C]. See 2011 Amendment note below.
+    Subsec. (j). [Pub. L. 112–239][/us/pl/112/239], § 1076(b)(4), made technical amendment to directory language of [Pub. L. 111–383][/us/pl/111/383], § 1075(b)(50)(C). See 2011 Amendment note below.
 
-    [Pub. L. 112–239, § 1055(b)(2)][/us/pl/112/239/s1055/b/2], struck out “, except that it only means such transportation for which the Secretary of Defense has entered into a contract for the purpose of passenger travel” before period at end.
+    [Pub. L. 112–239][/us/pl/112/239], § 1055(b)(2), struck out “, except that it only means such transportation for which the Secretary of Defense has entered into a contract for the purpose of passenger travel” before period at end.
 
-    Subsec. (k). [Pub. L. 112–239, § 1055(a)][/us/pl/112/239/s1055/a], substituted “December 31, 2020” for “December 31, 2015”.
+    Subsec. (k). [Pub. L. 112–239][/us/pl/112/239], § 1055(a), substituted “December 31, 2020” for “December 31, 2015”.
 
-    2011—Subsec. (b). [Pub. L. 111–383, § 1075(b)(50)(A)][/us/pl/111/383/s1075/b/50/A], which directed substitution of “section 1356 of the National Defense Authorization Act for Fiscal Year 2008” for “Section 1356 of the National Defense Authorization Act for 2008” was executed by making the substitution for “Section 356 of the National Defense Authorization Act for 2008” to reflect the probable intent of Congress.
+    2011—Subsec. (b). [Pub. L. 111–383][/us/pl/111/383], § 1075(b)(50)(A), which directed substitution of “section 1356 of the National Defense Authorization Act for Fiscal Year 2008” for “Section 1356 of the National Defense Authorization Act for 2008” was executed by making the substitution for “Section 356 of the National Defense Authorization Act for 2008” to reflect the probable intent of Congress.
 
-    Subsec. (f)(2). [Pub. L. 111–383, § 1075(b)(50)(B)][/us/pl/111/383/s1075/b/50/B], substituted “arrangement under paragraph (1)” for “arrangement under paragraph (2)”.
+    Subsec. (f)(2). [Pub. L. 111–383][/us/pl/111/383], § 1075(b)(50)(B), substituted “arrangement under paragraph (1)” for “arrangement under paragraph (2)”.
 
-    Subsec. (j). [Pub. L. 111–383, § 1075(b)(50)(C)][/us/pl/111/383/s1075/b/50/C], as amended by [Pub. L. 112–239, § 1076(b)(4)][/us/pl/112/239/s1076/b/4], struck out “United States Code,” after “title 49,”.
+    Subsec. (j). [Pub. L. 111–383][/us/pl/111/383], § 1075(b)(50)(C), as amended by [Pub. L. 112–239][/us/pl/112/239], § 1076(b)(4), struck out “United States Code,” after “title 49,”.
 
  __Effective Date of 2013 Amendment__ 
 
@@ -131,22 +131,22 @@
 [/us/usc/t49/s40102/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2F14
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4591
-[/us/pl/111/383/s1075/b/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F50
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4371
-[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1938
 [/us/pl/110/181/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs356
 [/us/stat/122/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F74
-[/us/pl/112/239/s1055/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1055%2Fb%2F1
-[/us/pl/112/239/s1076/f/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F44
-[/us/pl/112/239/s1076/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fb%2F4
-[/us/pl/111/383/s1075/b/50/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F50%2FC
-[/us/pl/112/239/s1055/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1055%2Fb%2F2
-[/us/pl/112/239/s1055/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1055%2Fa
-[/us/pl/111/383/s1075/b/50/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F50%2FA
-[/us/pl/111/383/s1075/b/50/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F50%2FB
-[/us/pl/111/383/s1075/b/50/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F50%2FC
-[/us/pl/112/239/s1076/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fb%2F4
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/239/s1076/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fb%2F4
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417

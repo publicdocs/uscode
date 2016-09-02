@@ -25,7 +25,7 @@
 
         (2) the product of (A) the rate for the subsistence allowance authorized under [section 2144 of this title][/us/usc/t10/s2144] for pursuit of a course of instruction on a full-time basis at the time of such reenlistment, and (B) the number of months of entitlement of such member to such allowance.
 
-(Added [Pub. L. 96–342, title IX, § 901(a)][/us/pl/96/342/s901/a], Sept. 8, 1980, [94 Stat. 1113][/us/stat/94/1113].)
+(Added [Pub. L. 96–342, title IX][/us/pl/96/342/tIX], § 901(a), Sept. 8, 1980, [94 Stat. 1113][/us/stat/94/1113].)
 
 ----------
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t10/s2143/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2143%2Fb
 [/us/usc/t10/s2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2144
-[/us/pl/96/342/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs901%2Fa
+[/us/pl/96/342/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtIX
 [/us/stat/94/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1113
 
 

@@ -35,11 +35,11 @@
 
         (2) Nothing in this section shall preclude the transfer or sale of equipment to other members of the North Atlantic Treaty Organization.
 
-(Added [Pub. L. 95–485, title VIII, § 815(a)][/us/pl/95/485/s815/a], Oct. 20, 1978, [92 Stat. 1625][/us/stat/92/1625], § 975; amended [Pub. L. 100–26, § 7(k)(3)][/us/pl/100/26/s7/k/3], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; renumbered § 2390, [Pub. L. 101–189, div. A, title XVI, § 1622(b)(1)][/us/pl/101/189/s1622/b/1], Nov. 29, 1989, [103 Stat. 1604][/us/stat/103/1604].)
+(Added [Pub. L. 95–485, title VIII][/us/pl/95/485/tVIII], § 815(a), Oct. 20, 1978, [92 Stat. 1625][/us/stat/92/1625], § 975; amended [Pub. L. 100–26][/us/pl/100/26], § 7(k)(3), Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; renumbered § 2390, [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1622(b)(1), Nov. 29, 1989, [103 Stat. 1604][/us/stat/103/1604].)
 
  __Prior Provisions__ 
 
-    A prior section 2390, added [Pub. L. 95–79, title VIII, § 815(a)][/us/pl/95/79/s815/a], July 30, 1977, [91 Stat. 337][/us/stat/91/337]; amended [Pub. L. 96–470, title I, § 104(a)][/us/pl/96/470/s104/a], Oct. 19, 1980, [94 Stat. 2238][/us/stat/94/2238]; [Pub. L. 96–513, title V, § 511(80)][/us/pl/96/513/s511/80], Dec. 12, 1980, [94 Stat. 2927][/us/stat/94/2927], directed Secretary of Defense to request each commissioned officer, and each civilian employee above grade GS–12, who was scheduled for retirement and who was or had been at any time within one year prior to such scheduled retirement, assigned to, or employed in, military procurement to submit suggestions for methods to improve procurement policies, prior to repeal by [Pub. L. 98–94, title XII, § 1259(a)][/us/pl/98/94/s1259/a], Sept. 24, 1983, [97 Stat. 703][/us/stat/97/703].
+    A prior section 2390, added [Pub. L. 95–79, title VIII][/us/pl/95/79/tVIII], § 815(a), July 30, 1977, [91 Stat. 337][/us/stat/91/337]; amended [Pub. L. 96–470, title I][/us/pl/96/470/tI], § 104(a), Oct. 19, 1980, [94 Stat. 2238][/us/stat/94/2238]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(80), Dec. 12, 1980, [94 Stat. 2927][/us/stat/94/2927], directed Secretary of Defense to request each commissioned officer, and each civilian employee above grade GS–12, who was scheduled for retirement and who was or had been at any time within one year prior to such scheduled retirement, assigned to, or employed in, military procurement to submit suggestions for methods to improve procurement policies, prior to repeal by [Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1259(a), Sept. 24, 1983, [97 Stat. 703][/us/stat/97/703].
 
  __Amendments__ 
 
@@ -54,19 +54,19 @@
 ----------
 ----------
 
-[/us/pl/95/485/s815/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs815%2Fa
+[/us/pl/95/485/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2FtVIII
 [/us/stat/92/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1625
-[/us/pl/100/26/s7/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fk%2F3
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F284
-[/us/pl/101/189/s1622/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fb%2F1
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1604
-[/us/pl/95/79/s815/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2Fs815%2Fa
+[/us/pl/95/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2FtVIII
 [/us/stat/91/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F337
-[/us/pl/96/470/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs104%2Fa
+[/us/pl/96/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtI
 [/us/stat/94/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2238
-[/us/pl/96/513/s511/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F80
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2927
-[/us/pl/98/94/s1259/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1259%2Fa
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F703
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t10/s975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs975

@@ -65,7 +65,7 @@
 
     (g) If any real property interest of the United States described in subsection (a) is not purchased under the procedures provided in subsections (a) through (f), such tract may be disposed of only in accordance with subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-(Added [Pub. L. 100–180, div. B][/us/pl/100/180], subdiv. 3, title II, § 2325(a), Dec. 4, 1987, [101 Stat. 1220][/us/stat/101/1220]; amended [Pub. L. 103–160, div. B, title XXVIII, § 2851][/us/pl/103/160/s2851], Nov. 30, 1993, [107 Stat. 1906][/us/stat/107/1906]; [Pub. L. 107–217, § 3(b)(40)][/us/pl/107/217/s3/b/40], Aug. 21, 2002, [116 Stat. 1298][/us/stat/116/1298]; [Pub. L. 108–178, § 4(b)(7)][/us/pl/108/178/s4/b/7], Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641]; [Pub. L. 111–350, § 5(b)(55)][/us/pl/111/350/s5/b/55], Jan. 4, 2011, [124 Stat. 3847][/us/stat/124/3847].)
+(Added [Pub. L. 100–180, div. B][/us/pl/100/180/dB], subdiv. 3, title II, § 2325(a), Dec. 4, 1987, [101 Stat. 1220][/us/stat/101/1220]; amended [Pub. L. 103–160, div. B, title XXVIII][/us/pl/103/160/dB/tXXVIII], § 2851, Nov. 30, 1993, [107 Stat. 1906][/us/stat/107/1906]; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(40), Aug. 21, 2002, [116 Stat. 1298][/us/stat/116/1298]; [Pub. L. 108–178][/us/pl/108/178], § 4(b)(7), Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641]; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(55), Jan. 4, 2011, [124 Stat. 3847][/us/stat/124/3847].)
 
  __Amendments__ 
 
@@ -73,23 +73,23 @@
 
     2003—Subsec. (g). [Pub. L. 108–178][/us/pl/108/178] substituted “title III of the Federal Property and Administrative Services Act of 1949” for “subtitle III of the Federal Property and Administrative Services Act of 1949” and made technical correction to reference to ([41 U.S.C. 251][/us/usc/t41/s251] et seq.).
 
-    2002—Subsec. (b)(2)(D). [Pub. L. 107–217, § 3(b)(40)(A)][/us/pl/107/217/s3/b/40/A], substituted “chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 481][/us/usc/t40/s481] et seq.)”.
+    2002—Subsec. (b)(2)(D). [Pub. L. 107–217][/us/pl/107/217], § 3(b)(40)(A), substituted “chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 481][/us/usc/t40/s481] et seq.)”.
 
-    Subsec. (d). [Pub. L. 107–217, § 3(b)(40)(B)][/us/pl/107/217/s3/b/40/B], substituted “chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 481][/us/usc/t40/s481] et seq.)”.
+    Subsec. (d). [Pub. L. 107–217][/us/pl/107/217], § 3(b)(40)(B), substituted “chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 481][/us/usc/t40/s481] et seq.)”.
 
-    Subsec. (g). [Pub. L. 107–217, § 3(b)(40)(C)][/us/pl/107/217/s3/b/40/C], inserted “subtitle I of title 40 and subtitle III of” before “the Federal Property and Administrative Services Act of 1949” and “([41 U.S.C. 251][/us/usc/t41/s251] et seq.)” at end.
+    Subsec. (g). [Pub. L. 107–217][/us/pl/107/217], § 3(b)(40)(C), inserted “subtitle I of title 40 and subtitle III of” before “the Federal Property and Administrative Services Act of 1949” and “([41 U.S.C. 251][/us/usc/t41/s251] et seq.)” at end.
 
-    1993—Subsec. (a)(1). [Pub. L. 103–160, § 2851(a)(1)][/us/pl/103/160/s2851/a/1], substituted “Administrator of General Services” for “Secretary of the Air Force”.
+    1993—Subsec. (a)(1). [Pub. L. 103–160][/us/pl/103/160], § 2851(a)(1), substituted “Administrator of General Services” for “Secretary of the Air Force”.
 
-    Subsec. (a)(2)(D). [Pub. L. 103–160, § 2851(b)][/us/pl/103/160/s2851/b], added subpar. (D) and struck out former subpar. (D) which read as follows: “is surrounded by lands that are adjacent to such tract and that are owned in fee simple by one owner or by more than one owner jointly, in common, or by the entirety.”
+    Subsec. (a)(2)(D). [Pub. L. 103–160][/us/pl/103/160], § 2851(b), added subpar. (D) and struck out former subpar. (D) which read as follows: “is surrounded by lands that are adjacent to such tract and that are owned in fee simple by one owner or by more than one owner jointly, in common, or by the entirety.”
 
-    Subsec. (b). [Pub. L. 103–160, § 2851(c)][/us/pl/103/160/s2851/c], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary shall convey, for fair market value, the interest of the United States in any tract of land referred to in subsection (a) or in any easement in connection with any such tract of land to any person or persons who, with respect to such tract of land, own lands referred to in paragraph (2)(D) of such subsection and are ready, willing, and able to purchase such interest for the fair market value of such interest. Whenever such interest of the United States is available for purchase under this section, the Secretary shall transmit a notice of the availability of such interest to each such person.”
+    Subsec. (b). [Pub. L. 103–160][/us/pl/103/160], § 2851(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary shall convey, for fair market value, the interest of the United States in any tract of land referred to in subsection (a) or in any easement in connection with any such tract of land to any person or persons who, with respect to such tract of land, own lands referred to in paragraph (2)(D) of such subsection and are ready, willing, and able to purchase such interest for the fair market value of such interest. Whenever such interest of the United States is available for purchase under this section, the Secretary shall transmit a notice of the availability of such interest to each such person.”
 
-    Subsec. (c). [Pub. L. 103–160, § 2851(a)(2)][/us/pl/103/160/s2851/a/2], substituted “Administrator” for “Secretary”.
+    Subsec. (c). [Pub. L. 103–160][/us/pl/103/160], § 2851(a)(2), substituted “Administrator” for “Secretary”.
 
-    Subsec. (e). [Pub. L. 103–160, § 2851(a)(3)][/us/pl/103/160/s2851/a/3], substituted “Secretary of the Air Force with respect to such tract, and (2) such additional terms and conditions as the Administrator” for “Secretary with respect to such tract, and (2) such additional terms and conditions as the Secretary”.
+    Subsec. (e). [Pub. L. 103–160][/us/pl/103/160], § 2851(a)(3), substituted “Secretary of the Air Force with respect to such tract, and (2) such additional terms and conditions as the Administrator” for “Secretary with respect to such tract, and (2) such additional terms and conditions as the Secretary”.
 
-    Subsec. (f). [Pub. L. 103–160, § 2851(a)(4)][/us/pl/103/160/s2851/a/4], substituted “Administrator” for “Secretary”.
+    Subsec. (f). [Pub. L. 103–160][/us/pl/103/160], § 2851(a)(4), substituted “Administrator” for “Secretary”.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -102,32 +102,32 @@
 ----------
 ----------
 
-[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdB
 [/us/stat/101/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1220
-[/us/pl/103/160/s2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs2851
+[/us/pl/103/160/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdB%2FtXXVIII
 [/us/stat/107/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1906
-[/us/pl/107/217/s3/b/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F40
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1298
-[/us/pl/108/178/s4/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs4%2Fb%2F7
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/stat/117/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2641
-[/us/pl/111/350/s5/b/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F55
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3847
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
 [/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
-[/us/pl/107/217/s3/b/40/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F40%2FA
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs481
-[/us/pl/107/217/s3/b/40/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F40%2FB
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs481
-[/us/pl/107/217/s3/b/40/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F40%2FC
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
-[/us/pl/103/160/s2851/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs2851%2Fa%2F1
-[/us/pl/103/160/s2851/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs2851%2Fb
-[/us/pl/103/160/s2851/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs2851%2Fc
-[/us/pl/103/160/s2851/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs2851%2Fa%2F2
-[/us/pl/103/160/s2851/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs2851%2Fa%2F3
-[/us/pl/103/160/s2851/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs2851%2Fa%2F4
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/pl/108/178/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs5
 [/us/usc/t5/s5334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5334

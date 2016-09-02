@@ -35,7 +35,7 @@
 
     (c) All other sentences of courts-martial are effective on the date ordered executed.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 56][/us/stat/70A/56]; [Pub. L. 90–632, § 2(24)][/us/pl/90/632/s2/24], Oct. 24, 1968, [82 Stat. 1341][/us/stat/82/1341]; [Pub. L. 98–209, § 5(f)][/us/pl/98/209/s5/f], Dec. 6, 1983, [97 Stat. 1400][/us/stat/97/1400]; [Pub. L. 102–484, div. A, title X, § 1064][/us/pl/102/484/s1064], Oct. 23, 1992, [106 Stat. 2505][/us/stat/106/2505]; [Pub. L. 104–106, div. A, title XI][/us/pl/104/106], §§ 1121(a), 1123(a)(1), (2), Feb. 10, 1996, [110 Stat. 462–464][/us/stat/110/462-464].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 56][/us/stat/70A/56]; [Pub. L. 90–632][/us/pl/90/632], § 2(24), Oct. 24, 1968, [82 Stat. 1341][/us/stat/82/1341]; [Pub. L. 98–209][/us/pl/98/209], § 5(f), Dec. 6, 1983, [97 Stat. 1400][/us/stat/97/1400]; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1064, Oct. 23, 1992, [106 Stat. 2505][/us/stat/106/2505]; [Pub. L. 104–106, div. A, title XI][/us/pl/104/106/dA/tXI], §§ 1121(a), 1123(a)(1), (2), Feb. 10, 1996, [110 Stat. 462–464][/us/stat/110/462-464].)
 
 <table>
 
@@ -107,9 +107,9 @@ May 5, 1950, ch. 169, § 1 (Art. 57), 64 Stat. 126.  </td>
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–106, § 1121(a)][/us/pl/104/106/s1121/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “No forfeiture may extend to any pay or allowances accrued before the date on which the sentence is approved by the person acting under [section 860(c) of this title][/us/usc/t10/s860/c] (article 60(c)).”
+    1996—Subsec. (a). [Pub. L. 104–106][/us/pl/104/106], § 1121(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “No forfeiture may extend to any pay or allowances accrued before the date on which the sentence is approved by the person acting under [section 860(c) of this title][/us/usc/t10/s860/c] (article 60(c)).”
 
-    Subsecs. (d), (e). [Pub. L. 104–106, § 1123(a)(1)][/us/pl/104/106/s1123/a/1], (2), redesignated subsecs. (d) and (e) as section 857a(a) and (b), respectively, of this title.
+    Subsecs. (d), (e). [Pub. L. 104–106][/us/pl/104/106], § 1123(a)(1), (2), redesignated subsecs. (d) and (e) as section 857a(a) and (b), respectively, of this title.
 
     1992—Subsec. (e). [Pub. L. 102–484][/us/pl/102/484] added subsec. (e).
 
@@ -123,7 +123,7 @@ May 5, 1950, ch. 169, § 1 (Art. 57), 64 Stat. 126.  </td>
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–106, div. A, title XI, § 1121(b)][/us/pl/104/106/s1121/b], Feb. 10, 1996, [110 Stat. 462][/us/stat/110/462], provided that: 
+[Pub. L. 104–106, div. A, title XI][/us/pl/104/106/dA/tXI], § 1121(b), Feb. 10, 1996, [110 Stat. 462][/us/stat/110/462], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to a case in which a sentence is adjudged by a court-martial on or after the first day of the first month that begins at least 30 days after the date of the enactment of this Act \[Feb. 10, 1996\].”
 
@@ -149,24 +149,24 @@ May 5, 1950, ch. 169, § 1 (Art. 57), 64 Stat. 126.  </td>
 [/us/usc/t10/s860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs860
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F56
-[/us/pl/90/632/s2/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F24
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1341
-[/us/pl/98/209/s5/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs5%2Ff
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1400
-[/us/pl/102/484/s1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1064
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2505
-[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXI
 [/us/stat/110/462-464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F462-464
-[/us/pl/104/106/s1121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1121%2Fa
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t10/s860/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs860%2Fc
-[/us/pl/104/106/s1123/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1123%2Fa%2F1
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/usc/t10/s860/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs860%2Fc
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
-[/us/pl/104/106/s1121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1121%2Fb
+[/us/pl/104/106/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXI
 [/us/stat/110/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F462
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/484/s1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1067

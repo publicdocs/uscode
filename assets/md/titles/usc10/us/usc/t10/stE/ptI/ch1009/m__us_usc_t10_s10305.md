@@ -39,7 +39,7 @@
 
     (h) There shall be not less than 10 officers of the Air National Guard of the United States and the Air Force Reserve on duty with the Air Staff, one-half of whom shall be from each of those components. These officers shall be considered as additional members of the Air Staff while on that duty.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 491][/us/stat/70A/491], § 8033; [Pub. L. 85–861, § 33(a)(17)][/us/pl/85/861/s33/a/17], Sept. 2, 1958, [72 Stat. 1565][/us/stat/72/1565]; [Pub. L. 90–168, § 2(21)][/us/pl/90/168/s2/21], Dec. 1, 1967, [81 Stat. 525][/us/stat/81/525]; renumbered § 8021 and amended [Pub. L. 99–433, title V, § 521(a)(6)][/us/pl/99/433/s521/a/6], Oct. 1, 1986, [100 Stat. 1059][/us/stat/100/1059]; renumbered § 10305, [Pub. L. 103–337, div. A, title XVI, § 1661(b)(2)(B)][/us/pl/103/337/s1661/b/2/B], Oct. 5, 1994, [108 Stat. 2981][/us/stat/108/2981].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 491][/us/stat/70A/491], § 8033; [Pub. L. 85–861][/us/pl/85/861], § 33(a)(17), Sept. 2, 1958, [72 Stat. 1565][/us/stat/72/1565]; [Pub. L. 90–168][/us/pl/90/168], § 2(21), Dec. 1, 1967, [81 Stat. 525][/us/stat/81/525]; renumbered § 8021 and amended [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 521(a)(6), Oct. 1, 1986, [100 Stat. 1059][/us/stat/100/1059]; renumbered § 10305, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1661(b)(2)(B), Oct. 5, 1994, [108 Stat. 2981][/us/stat/108/2981].)
 
 <table>
 
@@ -145,11 +145,11 @@ July 26, 1947, ch. 343, § 207(f), 61 Stat. 503.  </td>
 
     1994—[Pub. L. 103–337][/us/pl/103/337] renumbered [section 8021 of this title][/us/usc/t10/s8021] as this section.
 
-    1986—[Pub. L. 99–433, § 521(a)(6)(C)][/us/pl/99/433/s521/a/6/C], renumbered [section 8033 of this title][/us/usc/t10/s8033] as this section, and substituted “Air Force Reserve Forces Policy Committee” for “Reserve components of Air Force; policies and regulations for government of: functions of National Guard Bureau with respect to Air National Guard” in section catchline.
+    1986—[Pub. L. 99–433][/us/pl/99/433], § 521(a)(6)(C), renumbered [section 8033 of this title][/us/usc/t10/s8033] as this section, and substituted “Air Force Reserve Forces Policy Committee” for “Reserve components of Air Force; policies and regulations for government of: functions of National Guard Bureau with respect to Air National Guard” in section catchline.
 
-    Subsec. (a). [Pub. L. 99–433, § 521(a)(6)(A)][/us/pl/99/433/s521/a/6/A], substituted “Policy. The Committee” for “Policy which”, inserted “and the mobilization preparedness”, and substituted “Air Force. The” for “Air Force and the” and “Secretary of the Air Force and the Chief of Staff” for “Chief of Staff, and the Assistant Secretary responsible for reserve affairs”.
+    Subsec. (a). [Pub. L. 99–433][/us/pl/99/433], § 521(a)(6)(A), substituted “Policy. The Committee” for “Policy which”, inserted “and the mobilization preparedness”, and substituted “Air Force. The” for “Air Force and the” and “Secretary of the Air Force and the Chief of Staff” for “Chief of Staff, and the Assistant Secretary responsible for reserve affairs”.
 
-    Subsec. (b)(2). [Pub. L. 99–433, § 521(a)(6)(B)][/us/pl/99/433/s521/a/6/B], inserted “and” after the semicolon.
+    Subsec. (b)(2). [Pub. L. 99–433][/us/pl/99/433], § 521(a)(6)(B), inserted “and” after the semicolon.
 
     1967—[Pub. L. 90–168][/us/pl/90/168] amended section generally, and among other changes, redesignated subsec. (e) as (h) and increased from seven to eight the number of subsecs. in the section and in such subsecs. (a)–(h) restated with certain changes the existing authority relating to the Staff Committee on Air Force Reserve Policy within the Office of the Secretary of the Air Force, reduced the membership of the Committee from 21 to 15, reduced the grade requirements so as to permit inclusion of colonels, and provided that the Committee review and comment on all major policies affecting Air Force Reserve matters and that the Committee comments accompany any final submission to the Chief of Staff and Assistant Secretary responsible for Reserve matters.
 
@@ -172,21 +172,21 @@ July 26, 1947, ch. 343, § 207(f), 61 Stat. 503.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F491
-[/us/pl/85/861/s33/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F17
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1565
-[/us/pl/90/168/s2/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F168%2Fs2%2F21
+[/us/pl/90/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F168
 [/us/stat/81/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F525
-[/us/pl/99/433/s521/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs521%2Fa%2F6
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1059
-[/us/pl/103/337/s1661/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fb%2F2%2FB
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2981
 [/us/usc/t10/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs38
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s8021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8021
-[/us/pl/99/433/s521/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs521%2Fa%2F6%2FC
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t10/s8033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8033
-[/us/pl/99/433/s521/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs521%2Fa%2F6%2FA
-[/us/pl/99/433/s521/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs521%2Fa%2F6%2FB
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/pl/90/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F168
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/pl/90/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F168

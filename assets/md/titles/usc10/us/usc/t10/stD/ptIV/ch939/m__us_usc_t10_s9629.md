@@ -23,7 +23,7 @@
 
     (3) Fuel, oil, other supplies, and services sold under [section 9626 of this title][/us/usc/t10/s9626].
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 581][/us/stat/70A/581]; [Pub. L. 110–181, div. A, title X, § 1031(b)][/us/pl/110/181/s1031/b], Jan. 28, 2008, [122 Stat. 306][/us/stat/122/306].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 581][/us/stat/70A/581]; [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1031(b), Jan. 28, 2008, [122 Stat. 306][/us/stat/122/306].)
 
 <table>
 
@@ -121,7 +121,7 @@ May 31, 1939, ch. 161 (last sentence), 53 Stat. 796.  </td>
 [/us/usc/t10/s9626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9626
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F581
-[/us/pl/110/181/s1031/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1031%2Fb
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F306
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 

@@ -37,7 +37,7 @@
 
     Process issued in court-martial cases to compel witnesses to appear and testify and to compel the production of other evidence shall be similar to that which courts of the United States having criminal jurisdiction may lawfully issue and shall run to any part of the United States, or the Commonwealths and possessions.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 53][/us/stat/70A/53]; [Pub. L. 109–163, div. A, title X, § 1057(a)(6)][/us/pl/109/163/s1057/a/6], Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441]; [Pub. L. 113–66, div. A, title XVII, § 1704][/us/pl/113/66/s1704], Dec. 26, 2013, [127 Stat. 958][/us/stat/127/958]; [Pub. L. 113–291, div. A, title V, § 531(b)][/us/pl/113/291/s531/b], Dec. 19, 2014, [128 Stat. 3363][/us/stat/128/3363].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 53][/us/stat/70A/53]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(a)(6), Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441]; [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1704, Dec. 26, 2013, [127 Stat. 958][/us/stat/127/958]; [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 531(b), Dec. 19, 2014, [128 Stat. 3363][/us/stat/128/3363].)
 
 <table>
 
@@ -87,13 +87,13 @@ May 5, 1950, ch. 169, § 1 (Art. 46), 64 Stat. 122.  </td>
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–291, § 531(b)(2)][/us/pl/113/291/s531/b/2], (3)(B), substituted “counsel for the Government” for “trial counsel” and “counsel for the accused” for “defense counsel”.
+    2014—Subsec. (a). [Pub. L. 113–291][/us/pl/113/291], § 531(b)(2), (3)(B), substituted “counsel for the Government” for “trial counsel” and “counsel for the accused” for “defense counsel”.
 
-    Subsec. (b). [Pub. L. 113–291, § 531(b)(3)(A)][/us/pl/113/291/s531/b/3/A], which directed substitution of “Counsel for Accused” for “Defense Counsel” in heading of section, was executed by making the substitution in the heading of subsec. (b) to reflect the probable intent of Congress.
+    Subsec. (b). [Pub. L. 113–291][/us/pl/113/291], § 531(b)(3)(A), which directed substitution of “Counsel for Accused” for “Defense Counsel” in heading of section, was executed by making the substitution in the heading of subsec. (b) to reflect the probable intent of Congress.
 
-    [Pub. L. 113–291, § 531(b)(2)][/us/pl/113/291/s531/b/2], (3)(B), substituted “counsel for the Government” for “trial counsel” and “counsel for the accused” for “defense counsel” wherever appearing.
+    [Pub. L. 113–291][/us/pl/113/291], § 531(b)(2), (3)(B), substituted “counsel for the Government” for “trial counsel” and “counsel for the accused” for “defense counsel” wherever appearing.
 
-    Subsec. (b)(1). [Pub. L. 113–291, § 531(b)(1)][/us/pl/113/291/s531/b/1], substituted “through the Special Victims’ Counsel or other counsel for the victim, if applicable” for “through trial counsel”.
+    Subsec. (b)(1). [Pub. L. 113–291][/us/pl/113/291], § 531(b)(1), substituted “through the Special Victims’ Counsel or other counsel for the victim, if applicable” for “through trial counsel”.
 
     2013—[Pub. L. 113–66][/us/pl/113/66] designated first sentence as subsec. (a) and second sentence as subsec. (c), inserted headings, and added subsec. (b).
 
@@ -110,16 +110,16 @@ May 5, 1950, ch. 169, § 1 (Art. 46), 64 Stat. 122.  </td>
 [/us/usc/t10/s880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs880
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F53
-[/us/pl/109/163/s1057/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F6
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3441
-[/us/pl/113/66/s1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1704
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F958
-[/us/pl/113/291/s531/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fb
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3363
-[/us/pl/113/291/s531/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fb%2F2
-[/us/pl/113/291/s531/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fb%2F3%2FA
-[/us/pl/113/291/s531/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fb%2F2
-[/us/pl/113/291/s531/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fb%2F1
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 

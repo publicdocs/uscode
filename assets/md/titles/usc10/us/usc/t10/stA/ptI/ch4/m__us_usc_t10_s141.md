@@ -19,7 +19,7 @@
 
     (b) The Inspector General performs the duties, has the responsibilities, and exercises the powers specified in the Inspector General Act of 1978.
 
-(Added [Pub. L. 99–433, title I, § 108][/us/pl/99/433/s108], Oct. 1, 1986, [100 Stat. 998][/us/stat/100/998], § 140; renumbered § 141, [Pub. L. 103–160, div. A, title IX, § 901(a)(1)][/us/pl/103/160/s901/a/1], Nov. 30, 1993, [107 Stat. 1726][/us/stat/107/1726].)
+(Added [Pub. L. 99–433, title I][/us/pl/99/433/tI], § 108, Oct. 1, 1986, [100 Stat. 998][/us/stat/100/998], § 140; renumbered § 141, [Pub. L. 103–160, div. A, title IX][/us/pl/103/160/dA/tIX], § 901(a)(1), Nov. 30, 1993, [107 Stat. 1726][/us/stat/107/1726].)
 
  __References in Text__ 
 
@@ -43,9 +43,9 @@
 ----------
 
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
-[/us/pl/99/433/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs108
+[/us/pl/99/433/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtI
 [/us/stat/100/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F998
-[/us/pl/103/160/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs901%2Fa%2F1
+[/us/pl/103/160/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIX
 [/us/stat/107/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1726
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101

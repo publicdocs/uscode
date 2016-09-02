@@ -47,7 +47,7 @@
 
         (3) The term “donee” means any entity receiving a vessel pursuant to subsection (a).
 
-(Added [Pub. L. 103–160, div. A, title VIII, § 824(b)][/us/pl/103/160/s824/b], Nov. 30, 1993, [107 Stat. 1709][/us/stat/107/1709]; amended [Pub. L. 106–65, div. A, title X, § 1011][/us/pl/106/65/s1011], Oct. 5, 1999, [113 Stat. 739][/us/stat/113/739]; [Pub. L. 107–217, § 3(b)(29)][/us/pl/107/217/s3/b/29], Aug. 21, 2002, [116 Stat. 1297][/us/stat/116/1297]; [Pub. L. 113–66, div. A, title X, § 1022(a)][/us/pl/113/66/s1022/a]–(e)(1), Dec. 26, 2013, [127 Stat. 845][/us/stat/127/845], 846; [Pub. L. 114–92, div. A, title X, § 1074(b)][/us/pl/114/92/s1074/b], Nov. 25, 2015, [129 Stat. 996][/us/stat/129/996].)
+(Added [Pub. L. 103–160, div. A, title VIII][/us/pl/103/160/dA/tVIII], § 824(b), Nov. 30, 1993, [107 Stat. 1709][/us/stat/107/1709]; amended [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1011, Oct. 5, 1999, [113 Stat. 739][/us/stat/113/739]; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(29), Aug. 21, 2002, [116 Stat. 1297][/us/stat/116/1297]; [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1022(a)–(e)(1), Dec. 26, 2013, [127 Stat. 845][/us/stat/127/845], 846; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1074(b), Nov. 25, 2015, [129 Stat. 996][/us/stat/129/996].)
 
  __References in Text__ 
 
@@ -59,15 +59,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 7306, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 452][/us/stat/70A/452]; Nov. 8, 1965, [Pub. L. 89–348, § 1(10)][/us/pl/89/348/s1/10], [79 Stat. 1311][/us/stat/79/1311]; Nov. 2, 1966, [Pub. L. 89–718, § 42][/us/pl/89/718/s42], [80 Stat. 1120][/us/stat/80/1120]; Nov. 29, 1989, [Pub. L. 101–189, div. A, title XVI, § 1616][/us/pl/101/189/s1616], [103 Stat. 1602][/us/stat/103/1602], related to use of vessels stricken from the Naval Vessel Register for experimental purposes, prior to repeal by [Pub. L. 103–160, § 824(b)][/us/pl/103/160/s824/b]. See [section 7306a of this title][/us/usc/t10/s7306a].
+    A prior section 7306, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 452][/us/stat/70A/452]; Nov. 8, 1965, [Pub. L. 89–348][/us/pl/89/348], § 1(10), [79 Stat. 1311][/us/stat/79/1311]; Nov. 2, 1966, [Pub. L. 89–718][/us/pl/89/718], § 42, [80 Stat. 1120][/us/stat/80/1120]; Nov. 29, 1989, [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1616, [103 Stat. 1602][/us/stat/103/1602], related to use of vessels stricken from the Naval Vessel Register for experimental purposes, prior to repeal by [Pub. L. 103–160][/us/pl/103/160], § 824(b). See [section 7306a of this title][/us/usc/t10/s7306a].
 
  __Amendments__ 
 
     2015—Subsecs. (d) to (f). [Pub. L. 114–92][/us/pl/114/92] redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which related to congressional notice-and-wait period.
 
-    2013—[Pub. L. 113–66, § 1022(e)(1)][/us/pl/113/66/s1022/e/1], substituted “Vessels stricken from Naval Vessel Register; captured vessels: conveyance by donation” for “Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise” in section catchline.
+    2013—[Pub. L. 113–66][/us/pl/113/66], § 1022(e)(1), substituted “Vessels stricken from Naval Vessel Register; captured vessels: conveyance by donation” for “Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise” in section catchline.
 
-    Subsec. (a). [Pub. L. 113–66, § 1022(a)][/us/pl/113/66/s1022/a], amended subsec. (a) generally. Prior to amendment, text read as follows: “Subject to [section 113 of title 40][/us/usc/t40/s113], the Secretary of the Navy may transfer, by gift or otherwise, any vessel stricken from the Naval Vessel Register, or any captured vessel, to—
+    Subsec. (a). [Pub. L. 113–66][/us/pl/113/66], § 1022(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “Subject to [section 113 of title 40][/us/usc/t40/s113], the Secretary of the Navy may transfer, by gift or otherwise, any vessel stricken from the Naval Vessel Register, or any captured vessel, to—
 
     “(1) any State, Commonwealth, or possession of the United States or any municipal corporation or political subdivision thereof;
 
@@ -75,11 +75,11 @@
 
     “(3) any not-for-profit or nonprofit entity.”
 
-    Subsec. (b). [Pub. L. 113–66, § 1022(b)][/us/pl/113/66/s1022/b], amended subsec. (b) generally. Prior to amendment, text read as follows: “An agreement for the transfer of a vessel under subsection (a) shall include a requirement that the transferee will maintain the vessel in a condition satisfactory to the Secretary.”
+    Subsec. (b). [Pub. L. 113–66][/us/pl/113/66], § 1022(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “An agreement for the transfer of a vessel under subsection (a) shall include a requirement that the transferee will maintain the vessel in a condition satisfactory to the Secretary.”
 
-    Subsec. (c). [Pub. L. 113–66, § 1022(c)][/us/pl/113/66/s1022/c], in heading, substituted “Department of Defense” for “United States” and in text, inserted “, the maintenance and preservation of that vessel as a museum or memorial, and the ultimate disposal of that vessel, including demilitarization of Munitions List items at the end of the useful life of the vessel as a museum or memorial,” after “under this section” and substituted “the Department of Defense” for “the United States”.
+    Subsec. (c). [Pub. L. 113–66][/us/pl/113/66], § 1022(c), in heading, substituted “Department of Defense” for “United States” and in text, inserted “, the maintenance and preservation of that vessel as a museum or memorial, and the ultimate disposal of that vessel, including demilitarization of Munitions List items at the end of the useful life of the vessel as a museum or memorial,” after “under this section” and substituted “the Department of Defense” for “the United States”.
 
-    Subsecs. (e), (f). [Pub. L. 113–66, § 1022(d)][/us/pl/113/66/s1022/d], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 113–66][/us/pl/113/66], § 1022(d), added subsecs. (e) and (f).
 
     2002—Subsec. (a). [Pub. L. 107–217][/us/pl/107/217] substituted “[section 113 of title 40][/us/usc/t40/s113]” for “subsections (c) and (d) of section 602 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 474][/us/usc/t40/s474])”.
 
@@ -103,15 +103,15 @@
 [/us/usc/t15/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2601
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
-[/us/pl/103/160/s824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs824%2Fb
+[/us/pl/103/160/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVIII
 [/us/stat/107/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1709
-[/us/pl/106/65/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1011
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F739
-[/us/pl/107/217/s3/b/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F29
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1297
-[/us/pl/113/66/s1022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1022%2Fa
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F845
-[/us/pl/114/92/s1074/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1074%2Fb
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F996
 [/us/pl/94/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469
 [/us/stat/90/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2003
@@ -122,21 +122,21 @@
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F452
-[/us/pl/89/348/s1/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F348%2Fs1%2F10
+[/us/pl/89/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F348
 [/us/stat/79/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1311
-[/us/pl/89/718/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs42
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1120
-[/us/pl/101/189/s1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1616
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1602
-[/us/pl/103/160/s824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs824%2Fb
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/usc/t10/s7306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7306a
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
-[/us/pl/113/66/s1022/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1022%2Fe%2F1
-[/us/pl/113/66/s1022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1022%2Fa
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t40/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs113
-[/us/pl/113/66/s1022/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1022%2Fb
-[/us/pl/113/66/s1022/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1022%2Fc
-[/us/pl/113/66/s1022/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1022%2Fd
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs113
 [/us/usc/t40/s474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs474

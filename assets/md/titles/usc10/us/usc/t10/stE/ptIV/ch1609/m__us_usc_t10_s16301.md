@@ -59,7 +59,7 @@
 
     (i) The Secretary of Defense may prescribe, by regulations, procedures for implementing this section, including standards for qualified loans and authorized payees and other terms and conditions for making loan repayments. Such regulations may include exceptions that would allow for the payment as a lump sum of any loan repayment due to a member under a written agreement that existed at the time of a member’s death or disability.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1663(d)(1)][/us/pl/103/337/s1663/d/1], Oct. 5, 1994, [108 Stat. 3008][/us/stat/108/3008]; amended [Pub. L. 104–106, div. A, title X, § 1079(b)][/us/pl/104/106/s1079/b], Feb. 10, 1996, [110 Stat. 451][/us/stat/110/451]; [Pub. L. 106–65, div. A, title VI, § 676][/us/pl/106/65/s676], Oct. 5, 1999, [113 Stat. 676][/us/stat/113/676]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–136, div. A, title V, § 534][/us/pl/108/136/s534], Nov. 24, 2003, [117 Stat. 1474][/us/stat/117/1474]; [Pub. L. 108–375, div. A, title V, § 526][/us/pl/108/375/s526], Oct. 28, 2004, [118 Stat. 1890][/us/stat/118/1890]; [Pub. L. 110–181, div. A, title VI, § 672(a)][/us/pl/110/181/s672/a]–(c)(1), Jan. 28, 2008, [122 Stat. 184][/us/stat/122/184], 185; [Pub. L. 111–383, div. A, title V, § 552(b)][/us/pl/111/383/s552/b], Jan. 7, 2011, [124 Stat. 4220][/us/stat/124/4220].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1663(d)(1), Oct. 5, 1994, [108 Stat. 3008][/us/stat/108/3008]; amended [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1079(b), Feb. 10, 1996, [110 Stat. 451][/us/stat/110/451]; [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 676, Oct. 5, 1999, [113 Stat. 676][/us/stat/113/676]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(b)(1), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 534, Nov. 24, 2003, [117 Stat. 1474][/us/stat/117/1474]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 526, Oct. 28, 2004, [118 Stat. 1890][/us/stat/118/1890]; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 672(a)–(c)(1), Jan. 28, 2008, [122 Stat. 184][/us/stat/122/184], 185; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 552(b), Jan. 7, 2011, [124 Stat. 4220][/us/stat/124/4220].)
 
  __References in Text__ 
 
@@ -69,21 +69,21 @@
 
     2011—Subsecs. (h), (i). [Pub. L. 111–383][/us/pl/111/383] added subsecs. (h) and (i).
 
-    2008—[Pub. L. 110–181, § 672(c)(1)][/us/pl/110/181/s672/c/1], substituted “Education loan repayment program: members of Selected Reserve” for “Education loan repayment program: enlisted members of Selected Reserve with critical specialties” in section catchline.
+    2008—[Pub. L. 110–181][/us/pl/110/181], § 672(c)(1), substituted “Education loan repayment program: members of Selected Reserve” for “Education loan repayment program: enlisted members of Selected Reserve with critical specialties” in section catchline.
 
-    Subsec. (a)(1)(D). [Pub. L. 110–181, § 672(a)][/us/pl/110/181/s672/a], added subpar. (D).
+    Subsec. (a)(1)(D). [Pub. L. 110–181][/us/pl/110/181], § 672(a), added subpar. (D).
 
-    Subsec. (a)(2). [Pub. L. 110–181, § 672(b)(1)][/us/pl/110/181/s672/b/1], substituted “The Secretary” for “Except as provided in paragraph (3), the Secretary” and “a member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and in an officer program or military specialty” for “an enlisted member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and military specialty”.
+    Subsec. (a)(2). [Pub. L. 110–181][/us/pl/110/181], § 672(b)(1), substituted “The Secretary” for “Except as provided in paragraph (3), the Secretary” and “a member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and in an officer program or military specialty” for “an enlisted member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and military specialty”.
 
-    Subsec. (a)(3). [Pub. L. 110–181, § 672(b)(2)][/us/pl/110/181/s672/b/2], struck out par. (3) which read as follows: “In the case of a commitment made by the Secretary of Defense after the date of the enactment of this paragraph to repay a loan under paragraph (1) conditioned upon the performance by the borrower of service as an enlisted member under paragraph (2), the Secretary may repay the loan for service performed by the borrower as an officer (rather than as an enlisted member) in the case of a borrower who, after such commitment is entered into and while performing service as an enlisted member, accepts an appointment or commission as a warrant officer or commissioned officer of the Selected Reserve.”
+    Subsec. (a)(3). [Pub. L. 110–181][/us/pl/110/181], § 672(b)(2), struck out par. (3) which read as follows: “In the case of a commitment made by the Secretary of Defense after the date of the enactment of this paragraph to repay a loan under paragraph (1) conditioned upon the performance by the borrower of service as an enlisted member under paragraph (2), the Secretary may repay the loan for service performed by the borrower as an officer (rather than as an enlisted member) in the case of a borrower who, after such commitment is entered into and while performing service as an enlisted member, accepts an appointment or commission as a warrant officer or commissioned officer of the Selected Reserve.”
 
-    2004—Subsec. (a)(2). [Pub. L. 108–375, § 526(1)][/us/pl/108/375/s526/1], substituted “Except as provided in paragraph (3), the Secretary of Defense may repay loans” for “The Secretary may repay loans”.
+    2004—Subsec. (a)(2). [Pub. L. 108–375][/us/pl/108/375], § 526(1), substituted “Except as provided in paragraph (3), the Secretary of Defense may repay loans” for “The Secretary may repay loans”.
 
-    Subsec. (a)(3). [Pub. L. 108–375, § 526(2)][/us/pl/108/375/s526/2], added par. (3).
+    Subsec. (a)(3). [Pub. L. 108–375][/us/pl/108/375], § 526(2), added par. (3).
 
-    2003—Subsec. (b). [Pub. L. 108–136, § 534(1)][/us/pl/108/136/s534/1], inserted before period at end “, plus the amount of any interest that may accrue during the current year”.
+    2003—Subsec. (b). [Pub. L. 108–136][/us/pl/108/136], § 534(1), inserted before period at end “, plus the amount of any interest that may accrue during the current year”.
 
-    Subsec. (c). [Pub. L. 108–136, § 534(2)][/us/pl/108/136/s534/2], inserted last sentence.
+    Subsec. (c). [Pub. L. 108–136][/us/pl/108/136], § 534(2), inserted last sentence.
 
     2002—Subsec. (g). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
 
@@ -114,34 +114,34 @@
 [/us/usc/t10/s2171/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2171%2Fa
 [/us/usc/t10/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2171
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/103/337/s1663/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fd%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3008
-[/us/pl/104/106/s1079/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1079%2Fb
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F451
-[/us/pl/106/65/s676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs676
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F676
-[/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/108/136/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs534
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1474
-[/us/pl/108/375/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs526
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1890
-[/us/pl/110/181/s672/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs672%2Fa
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F184
-[/us/pl/111/383/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs552%2Fb
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4220
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/110/181/s672/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs672%2Fc%2F1
-[/us/pl/110/181/s672/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs672%2Fa
-[/us/pl/110/181/s672/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs672%2Fb%2F1
-[/us/pl/110/181/s672/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs672%2Fb%2F2
-[/us/pl/108/375/s526/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs526%2F1
-[/us/pl/108/375/s526/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs526%2F2
-[/us/pl/108/136/s534/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs534%2F1
-[/us/pl/108/136/s534/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs534%2F2
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106

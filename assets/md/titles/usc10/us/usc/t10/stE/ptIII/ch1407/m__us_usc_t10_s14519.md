@@ -23,7 +23,7 @@
 
     A deferral of retirement or separation under subsection (a) may not extend for more than 30 days after the completion of the evaluation requiring hospitalization or medical observation.
 
-(Added [Pub. L. 107–314, div. A, title V, § 522(a)][/us/pl/107/314/s522/a], Dec. 2, 2002, [116 Stat. 2540][/us/stat/116/2540].)
+(Added [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 522(a), Dec. 2, 2002, [116 Stat. 2540][/us/stat/116/2540].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/107/314/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs522%2Fa
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2540
 
 

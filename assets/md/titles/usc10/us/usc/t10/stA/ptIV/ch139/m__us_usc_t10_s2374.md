@@ -31,7 +31,7 @@
 
     (d) This section shall not apply with respect to any grant that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an agency named in [section 2303(a) of this title][/us/usc/t10/s2303/a] and to report on such matters to the Congress or any agency of the Federal Government.
 
-(Added [Pub. L. 103–355, title VII, § 7203(a)(2)][/us/pl/103/355/s7203/a/2], Oct. 13, 1994, [108 Stat. 3380][/us/stat/108/3380].)
+(Added [Pub. L. 103–355, title VII][/us/pl/103/355/tVII], § 7203(a)(2), Oct. 13, 1994, [108 Stat. 3380][/us/stat/108/3380].)
 
  __Effective Date__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t10/s2303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2303%2Fa
 [/us/usc/t10/s2303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2303%2Fa
-[/us/pl/103/355/s7203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs7203%2Fa%2F2
+[/us/pl/103/355/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtVII
 [/us/stat/108/3380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3380
 [/us/pl/103/355/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10001
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302

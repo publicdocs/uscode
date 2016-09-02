@@ -67,17 +67,17 @@
 
  __Prior Provisions__ 
 
-    A prior chapter 149, comprised of sections 2511 to 2518, relating to manufacturing technology, was repealed, except for sections 2517 and 2518, by [Pub. L. 102–484, div. D, title XLII, § 4202(a)][/us/pl/102/484/s4202/a], Oct. 23, 1992, [106 Stat. 2659][/us/stat/106/2659]. Sections 2517 and 2518 of that chapter were renumbered sections 2523 and 2522, respectively, of this chapter by [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484], §§ 4232(a), 4233(a), Oct. 23, 1992, [106 Stat. 2687][/us/stat/106/2687], and were subsequently repealed.
+    A prior chapter 149, comprised of sections 2511 to 2518, relating to manufacturing technology, was repealed, except for sections 2517 and 2518, by [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4202(a), Oct. 23, 1992, [106 Stat. 2659][/us/stat/106/2659]. Sections 2517 and 2518 of that chapter were renumbered sections 2523 and 2522, respectively, of this chapter by [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], §§ 4232(a), 4233(a), Oct. 23, 1992, [106 Stat. 2687][/us/stat/106/2687], and were subsequently repealed.
 
     Another prior chapter 149, comprised of section 2511, was successively renumbered chapter 150 of this title, comprised of section 2521, then chapter 152 of this title, comprised of section 2540 et seq.
 
-    A prior chapter 150, comprised of sections 2521 to 2526, relating to development of dual-use critical technologies, was repealed, except for sections 2524 to 2526, by [Pub. L. 102–484, div. D, title XLII, § 4202(a)][/us/pl/102/484/s4202/a], Oct. 23, 1992, [106 Stat. 2659][/us/stat/106/2659]. Sections 2524, 2525, and 2526 of that chapter were renumbered sections 2513, 2517, and 2518, respectively, of this chapter by [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484], §§ 4223(a), 4227(a), 4228, Oct. 23, 1992, [106 Stat. 2681][/us/stat/106/2681], 2685. Section 2513 of this chapter was subsequently repealed.
+    A prior chapter 150, comprised of sections 2521 to 2526, relating to development of dual-use critical technologies, was repealed, except for sections 2524 to 2526, by [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4202(a), Oct. 23, 1992, [106 Stat. 2659][/us/stat/106/2659]. Sections 2524, 2525, and 2526 of that chapter were renumbered sections 2513, 2517, and 2518, respectively, of this chapter by [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], §§ 4223(a), 4227(a), 4228, Oct. 23, 1992, [106 Stat. 2681][/us/stat/106/2681], 2685. Section 2513 of this chapter was subsequently repealed.
 
     Another prior chapter 150, comprised of section 2521, was renumbered chapter 152 of this title, comprised of section 2540 et seq.
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–92, div. A, title VIII, § 802(a)(2)][/us/pl/114/92/s802/a/2], Nov. 25, 2015, [129 Stat. 879][/us/stat/129/879], added item 2546a.
+    2015—[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 802(a)(2), Nov. 25, 2015, [129 Stat. 879][/us/stat/129/879], added item 2546a.
 
 ----------
 
@@ -86,15 +86,15 @@
 ----------
 ----------
 
-[/us/pl/102/484/s4202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4202%2Fa
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2659
-[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2687
-[/us/pl/102/484/s4202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4202%2Fa
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2659
-[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2681
-[/us/pl/114/92/s802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs802%2Fa%2F2
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F879
 
 

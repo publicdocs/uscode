@@ -107,7 +107,7 @@
 
  __Amendments__ 
 
-    1999—[Pub. L. 106–65, div. A, title V, § 584(a)(2)][/us/pl/106/65/s584/a/2], Oct. 5, 1999, [113 Stat. 636][/us/stat/113/636], added items 1798, 1799, and 1800 and struck out former item 1798 “Definitions”.
+    1999—[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 584(a)(2), Oct. 5, 1999, [113 Stat. 636][/us/stat/113/636], added items 1798, 1799, and 1800 and struck out former item 1798 “Definitions”.
 
 ----------
 
@@ -116,7 +116,7 @@
 ----------
 ----------
 
-[/us/pl/106/65/s584/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs584%2Fa%2F2
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F636
 
 

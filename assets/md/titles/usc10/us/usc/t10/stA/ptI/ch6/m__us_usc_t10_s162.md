@@ -39,7 +39,7 @@
 
         (2) from the Secretary of Defense to the commander of the combatant command.
 
-(Added [Pub. L. 99–433, title II, § 211(a)][/us/pl/99/433/s211/a], Oct. 1, 1986, [100 Stat. 1012][/us/stat/100/1012]; amended [Pub. L. 100–180, div. A, title XIII, § 1313][/us/pl/100/180/s1313], Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175]; [Pub. L. 100–456, div. A, title VII, § 711][/us/pl/100/456/s711], Sept. 29, 1988, [102 Stat. 1997][/us/stat/102/1997]; [Pub. L. 104–201, div. A, title X, § 1073(a)][/us/pl/104/201/s1073/a], Sept. 23, 1996, [110 Stat. 2657][/us/stat/110/2657].)
+(Added [Pub. L. 99–433, title II][/us/pl/99/433/tII], § 211(a), Oct. 1, 1986, [100 Stat. 1012][/us/stat/100/1012]; amended [Pub. L. 100–180, div. A, title XIII][/us/pl/100/180/dA/tXIII], § 1313, Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175]; [Pub. L. 100–456, div. A, title VII][/us/pl/100/456/dA/tVII], § 711, Sept. 29, 1988, [102 Stat. 1997][/us/stat/102/1997]; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1073(a), Sept. 23, 1996, [110 Stat. 2657][/us/stat/110/2657].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Implementation of Assignment of Forces to Combatant Commands__ 
 
-    [Pub. L. 99–433, title II, § 214(a)][/us/pl/99/433/s214/a], Oct. 1, 1986, [100 Stat. 1018][/us/stat/100/1018], provided that [section 162(a) of this title][/us/usc/t10/s162/a] shall be implemented not later than 90 days after Oct. 1, 1986.
+    [Pub. L. 99–433, title II][/us/pl/99/433/tII], § 214(a), Oct. 1, 1986, [100 Stat. 1018][/us/stat/100/1018], provided that [section 162(a) of this title][/us/usc/t10/s162/a] shall be implemented not later than 90 days after Oct. 1, 1986.
 
 ----------
 
@@ -60,18 +60,18 @@
 ----------
 ----------
 
-[/us/pl/99/433/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs211%2Fa
+[/us/pl/99/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtII
 [/us/stat/100/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1012
-[/us/pl/100/180/s1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1313
+[/us/pl/100/180/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXIII
 [/us/stat/101/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1175
-[/us/pl/100/456/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs711
+[/us/pl/100/456/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVII
 [/us/stat/102/1997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1997
-[/us/pl/104/201/s1073/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1073%2Fa
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2657
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
-[/us/pl/99/433/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs214%2Fa
+[/us/pl/99/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtII
 [/us/stat/100/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1018
 [/us/usc/t10/s162/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs162%2Fa
 

@@ -23,7 +23,7 @@
 
     (d) The Under Secretary of Defense for Personnel and Readiness is responsible, subject to the authority, direction, and control of the Secretary of Defense, for the monitoring of the operations tempo and personnel tempo of the armed forces. The Under Secretary shall establish, to the extent practicable, uniform standards within the Department of Defense for terminology and policies relating to deployment of units and personnel away from their assigned duty stations (including the length of time units or personnel may be away for such a deployment) and shall establish uniform reporting systems for tracking deployments.
 
-(Added [Pub. L. 103–160, div. A, title IX, § 903(a)][/us/pl/103/160/s903/a], Nov. 30, 1993, [107 Stat. 1727][/us/stat/107/1727]; amended [Pub. L. 104–106, div. A, title XV, § 1503(a)(2)][/us/pl/104/106/s1503/a/2], Feb. 10, 1996, [110 Stat. 510][/us/stat/110/510]; [Pub. L. 106–65, div. A, title IX, § 923(a)][/us/pl/106/65/s923/a], title X, § 1066(a)(1), Oct. 5, 1999, [113 Stat. 724][/us/stat/113/724], 770.)
+(Added [Pub. L. 103–160, div. A, title IX][/us/pl/103/160/dA/tIX], § 903(a), Nov. 30, 1993, [107 Stat. 1727][/us/stat/107/1727]; amended [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1503(a)(2), Feb. 10, 1996, [110 Stat. 510][/us/stat/110/510]; [Pub. L. 106–65, div. A, title IX][/us/pl/106/65/dA/tIX], § 923(a), title X, § 1066(a)(1), Oct. 5, 1999, [113 Stat. 724][/us/stat/113/724], 770.)
 
  __Prior Provisions__ 
 
@@ -31,9 +31,9 @@
 
  __Amendments__ 
 
-    1999—Subsec. (a). [Pub. L. 106–65, § 1066(a)(1)][/us/pl/106/65/s1066/a/1], inserted “advice and” after “by and with the”.
+    1999—Subsec. (a). [Pub. L. 106–65][/us/pl/106/65], § 1066(a)(1), inserted “advice and” after “by and with the”.
 
-    Subsec. (d). [Pub. L. 106–65, § 923(a)][/us/pl/106/65/s923/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–65][/us/pl/106/65], § 923(a), added subsec. (d).
 
     1996—Subsec. (c). [Pub. L. 104–106][/us/pl/104/106] substituted “Under Secretary of Defense (Comptroller)” for “Comptroller”.
 
@@ -44,15 +44,15 @@
 ----------
 ----------
 
-[/us/pl/103/160/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs903%2Fa
+[/us/pl/103/160/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIX
 [/us/stat/107/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1727
-[/us/pl/104/106/s1503/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1503%2Fa%2F2
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F510
-[/us/pl/106/65/s923/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs923%2Fa
+[/us/pl/106/65/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIX
 [/us/stat/113/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F724
 [/us/usc/t10/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138
-[/us/pl/106/65/s1066/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fa%2F1
-[/us/pl/106/65/s923/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs923%2Fa
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 
 

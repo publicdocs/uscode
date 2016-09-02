@@ -77,7 +77,7 @@
 
     The Secretary concerned may require such additional terms and conditions in connection with the conveyance of family housing facilities under this section as the Secretary considers appropriate to protect the interests of the United States.
 
-(Added [Pub. L. 104–106, div. B, title XXVIII, § 2818(a)(1)][/us/pl/104/106/s2818/a/1], Feb. 10, 1996, [110 Stat. 553][/us/stat/110/553]; amended [Pub. L. 107–107, div. A, title X, § 1048(d)(1)][/us/pl/107/107/s1048/d/1], Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227]; [Pub. L. 107–217, § 3(b)(21)][/us/pl/107/217/s3/b/21], Aug. 21, 2002, [116 Stat. 1297][/us/stat/116/1297]; [Pub. L. 108–136, div. A, title X, § 1031(a)(46)][/us/pl/108/136/s1031/a/46], Nov. 24, 2003, [117 Stat. 1602][/us/stat/117/1602]; [Pub. L. 111–350, § 5(b)(49)][/us/pl/111/350/s5/b/49], Jan. 4, 2011, [124 Stat. 3846][/us/stat/124/3846].)
+(Added [Pub. L. 104–106, div. B, title XXVIII][/us/pl/104/106/dB/tXXVIII], § 2818(a)(1), Feb. 10, 1996, [110 Stat. 553][/us/stat/110/553]; amended [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(d)(1), Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227]; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(21), Aug. 21, 2002, [116 Stat. 1297][/us/stat/116/1297]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(46), Nov. 24, 2003, [117 Stat. 1602][/us/stat/117/1602]; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(49), Jan. 4, 2011, [124 Stat. 3846][/us/stat/124/3846].)
 
  __References in Text__ 
 
@@ -104,15 +104,15 @@
 [/us/usc/t42/s11411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11411
 [/us/usc/t10/s2883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2883
 [/us/usc/t10/s2883/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2883%2Fd
-[/us/pl/104/106/s2818/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2818%2Fa%2F1
+[/us/pl/104/106/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdB%2FtXXVIII
 [/us/stat/110/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F553
-[/us/pl/107/107/s1048/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fd%2F1
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1227
-[/us/pl/107/217/s3/b/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fb%2F21
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1297
-[/us/pl/108/136/s1031/a/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F46
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1602
-[/us/pl/111/350/s5/b/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F49
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3846
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482

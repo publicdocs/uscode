@@ -17,7 +17,7 @@
 
     Unless terminated at an earlier date by the Secretary concerned, the period of active service of any member of an armed force is extended for the duration of any war in which the United States may be engaged and for six months thereafter.
 
-(Added [Pub. L. 90–235, § 1(a)(1)(A)][/us/pl/90/235/s1/a/1/A], Jan. 2, 1968, [81 Stat. 753][/us/stat/81/753].)
+(Added [Pub. L. 90–235][/us/pl/90/235], § 1(a)(1)(A), Jan. 2, 1968, [81 Stat. 753][/us/stat/81/753].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/235/s1/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs1%2Fa%2F1%2FA
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F753
 
 

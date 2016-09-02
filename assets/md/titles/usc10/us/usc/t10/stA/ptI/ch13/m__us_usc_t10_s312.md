@@ -37,7 +37,7 @@
 
     (b) A person who claims exemption because of religious belief is exempt from militia duty in a combatant capacity, if the conscientious holding of that belief is established under such regulations as the President may prescribe. However, such a person is not exempt from militia duty that the President determines to be noncombatant.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 15][/us/stat/70A/15]; [Pub. L. 100–456, div. A, title XII, § 1234(a)(3)][/us/pl/100/456/s1234/a/3], Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 109–163, div. A, title X, § 1057(a)(7)][/us/pl/109/163/s1057/a/7], Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 15][/us/stat/70A/15]; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1234(a)(3), Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(a)(7), Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
 
 <table>
 
@@ -104,9 +104,9 @@ June 3, 1916, ch. 134, § 59, 39 Stat. 197.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F15
-[/us/pl/100/456/s1234/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fa%2F3
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
-[/us/pl/109/163/s1057/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F7
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3441
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456

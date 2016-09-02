@@ -107,23 +107,23 @@
 
         The term “operationally critical contractor” means a contractor designated by the Secretary for purposes of this section as a critical source of supply for airlift, sealift, intermodal transportation services, or logistical support that is essential to the mobilization, deployment, or sustainment of the Armed Forces in a contingency operation.
 
-(Added [Pub. L. 113–291, div. A, title XVI, § 1632(a)][/us/pl/113/291/s1632/a], Dec. 19, 2014, [128 Stat. 3639][/us/stat/128/3639]; amended [Pub. L. 114–92, div. A, title XVI, § 1641(b)][/us/pl/114/92/s1641/b], (c)(1), Nov. 25, 2015, [129 Stat. 1115][/us/stat/129/1115], 1116.)
+(Added [Pub. L. 113–291, div. A, title XVI][/us/pl/113/291/dA/tXVI], § 1632(a), Dec. 19, 2014, [128 Stat. 3639][/us/stat/128/3639]; amended [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1641(b), (c)(1), Nov. 25, 2015, [129 Stat. 1115][/us/stat/129/1115], 1116.)
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–92, § 1641][/us/pl/114/92/s1641] (c)(1), substituted “and [section 393 of this title][/us/usc/t10/s393]” for “and with section 941 of the National Defense Authorization Act for Fiscal Year 2013 ([10 U.S.C. 2224][/us/usc/t10/s2224] note)”.
+    2015—Subsec. (a). [Pub. L. 114–92][/us/pl/114/92], § 1641 (c)(1), substituted “and [section 393 of this title][/us/usc/t10/s393]” for “and with section 941 of the National Defense Authorization Act for Fiscal Year 2013 ([10 U.S.C. 2224][/us/usc/t10/s2224] note)”.
 
-    Subsecs. (d), (e). [Pub. L. 114–92, § 1641(b)][/us/pl/114/92/s1641/b], added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 114–92][/us/pl/114/92], § 1641(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 
  __Issuance of Procedures__ 
 
-[Pub. L. 113–291, div. A, title XVI, § 1632(b)][/us/pl/113/291/s1632/b], Dec. 19, 2014, [128 Stat. 3640][/us/stat/128/3640], provided that: 
+[Pub. L. 113–291, div. A, title XVI][/us/pl/113/291/dA/tXVI], § 1632(b), Dec. 19, 2014, [128 Stat. 3640][/us/stat/128/3640], provided that: 
 
 > “The Secretary shall establish the procedures required by subsection (b) of [section 391 of title 10][/us/usc/t10/s391], United States Code, as added by subsection (a) of this section, not later than 90 days after the date of the enactment of this Act \[Dec. 19, 2014\].”
 
  __Assessment of Department Policies__ 
 
-[Pub. L. 113–291, div. A, title XVI, § 1632(c)][/us/pl/113/291/s1632/c], Dec. 19, 2014, [128 Stat. 3640][/us/stat/128/3640], provided that:
+[Pub. L. 113–291, div. A, title XVI][/us/pl/113/291/dA/tXVI], § 1632(c), Dec. 19, 2014, [128 Stat. 3640][/us/stat/128/3640], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -149,18 +149,18 @@
 ----------
 
 [/us/usc/t10/s393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs393
-[/us/pl/113/291/s1632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1632%2Fa
+[/us/pl/113/291/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXVI
 [/us/stat/128/3639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3639
-[/us/pl/114/92/s1641/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1641%2Fb
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1115
-[/us/pl/114/92/s1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1641
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/usc/t10/s393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs393
 [/us/usc/t10/s2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2224
-[/us/pl/114/92/s1641/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1641%2Fb
-[/us/pl/113/291/s1632/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1632%2Fb
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/113/291/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXVI
 [/us/stat/128/3640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3640
 [/us/usc/t10/s391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs391
-[/us/pl/113/291/s1632/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1632%2Fc
+[/us/pl/113/291/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXVI
 [/us/stat/128/3640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3640
 [/us/usc/t10/s391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs391
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239

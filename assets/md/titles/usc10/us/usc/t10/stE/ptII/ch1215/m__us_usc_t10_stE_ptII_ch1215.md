@@ -43,13 +43,13 @@
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–314, div. A, title V, § 515(b)][/us/pl/107/314/s515/b], Dec. 2, 2002, [116 Stat. 2540][/us/stat/116/2540], struck out item 12551 “Prohibition of use of Air Force Reserve AGR personnel for Air Force base security functions”.
+    2002—[Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 515(b), Dec. 2, 2002, [116 Stat. 2540][/us/stat/116/2540], struck out item 12551 “Prohibition of use of Air Force Reserve AGR personnel for Air Force base security functions”.
 
-    1999—[Pub. L. 106–65, div. A, title V, § 578(k)(2)(C)][/us/pl/106/65/s578/k/2/C], Oct. 5, 1999, [113 Stat. 631][/us/stat/113/631], substituted “honors functions at funerals for veterans” for “honor guard functions: prohibition of treatment as drill or training” in item 12552.
+    1999—[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 578(k)(2)(C), Oct. 5, 1999, [113 Stat. 631][/us/stat/113/631], substituted “honors functions at funerals for veterans” for “honor guard functions: prohibition of treatment as drill or training” in item 12552.
 
-    1998—[Pub. L. 105–261, div. A, title V, § 567(c)(2)][/us/pl/105/261/s567/c/2], Oct. 17, 1998, [112 Stat. 2031][/us/stat/112/2031], added item 12552.
+    1998—[Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 567(c)(2), Oct. 17, 1998, [112 Stat. 2031][/us/stat/112/2031], added item 12552.
 
-    1997—[Pub. L. 105–85, div. A, title V, § 515(a)][/us/pl/105/85/s515/a], Nov. 18, 1997, [111 Stat. 1732][/us/stat/111/1732], substituted table of sections consisting of item 12551 for “\[No present sections\]”.
+    1997—[Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 515(a), Nov. 18, 1997, [111 Stat. 1732][/us/stat/111/1732], substituted table of sections consisting of item 12551 for “\[No present sections\]”.
 
 ----------
 
@@ -58,13 +58,13 @@
 ----------
 ----------
 
-[/us/pl/107/314/s515/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs515%2Fb
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2540
-[/us/pl/106/65/s578/k/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs578%2Fk%2F2%2FC
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F631
-[/us/pl/105/261/s567/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs567%2Fc%2F2
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2031
-[/us/pl/105/85/s515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs515%2Fa
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1732
 
 

@@ -29,7 +29,7 @@
 
     In this section, the term “DNA sample” has the meaning given such term in [section 1565(c) of this title][/us/usc/t10/s1565/c].
 
-(Added [Pub. L. 107–314, div. A, title X, § 1063(a)][/us/pl/107/314/s1063/a], Dec. 2, 2002, [116 Stat. 2653][/us/stat/116/2653].)
+(Added [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1063(a), Dec. 2, 2002, [116 Stat. 2653][/us/stat/116/2653].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t10/s1565/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1565%2Fc
-[/us/pl/107/314/s1063/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1063%2Fa
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2653
 
 

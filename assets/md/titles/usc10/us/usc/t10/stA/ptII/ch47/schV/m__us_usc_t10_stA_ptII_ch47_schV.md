@@ -181,9 +181,9 @@ Absent and additional members.  </td>
 
  __Amendments__ 
 
-    2001—[Pub. L. 107–107, div. A, title V, § 582(b)(2)][/us/pl/107/107/s582/b/2], Dec. 28, 2001, [115 Stat. 1124][/us/stat/115/1124], added item 825a.
+    2001—[Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 582(b)(2), Dec. 28, 2001, [115 Stat. 1124][/us/stat/115/1124], added item 825a.
 
-    1968—[Pub. L. 90–632, § 2(8)][/us/pl/90/632/s2/8], Oct. 24, 1968, [82 Stat. 1336][/us/stat/82/1336], substituted “Military judge of a general or special court-martial” for “Law officer of a general court-martial” in item 826.
+    1968—[Pub. L. 90–632][/us/pl/90/632], § 2(8), Oct. 24, 1968, [82 Stat. 1336][/us/stat/82/1336], substituted “Military judge of a general or special court-martial” for “Law officer of a general court-martial” in item 826.
 
 ----------
 
@@ -192,9 +192,9 @@ Absent and additional members.  </td>
 ----------
 ----------
 
-[/us/pl/107/107/s582/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs582%2Fb%2F2
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1124
-[/us/pl/90/632/s2/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F8
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1336
 
 

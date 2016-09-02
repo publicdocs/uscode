@@ -41,43 +41,43 @@
 
         (3) transmit to the congressional defense committees a report providing the high-, medium-, and low- confidence assessments of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4])) as to whether the United States will have significant warning of a strategic surprise or breakout caused by foreign nuclear weapons developments.
 
-(Added [Pub. L. 112–81, div. A, title X, § 1046(b)(1)][/us/pl/112/81/s1046/b/1], Dec. 31, 2011, [125 Stat. 1579][/us/stat/125/1579]; amended [Pub. L. 112–239, div. A, title X][/us/pl/112/239], §§ 1031(a), 1032, Jan. 2, 2013, [126 Stat. 1917][/us/stat/126/1917], 1919; [Pub. L. 113–66, div. A, title X, § 1052(b)][/us/pl/113/66/s1052/b], Dec. 26, 2013, [127 Stat. 861][/us/stat/127/861]; [Pub. L. 113–291, div. A, title X, § 1071(c)(10)][/us/pl/113/291/s1071/c/10], Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509].)
+(Added [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1046(b)(1), Dec. 31, 2011, [125 Stat. 1579][/us/stat/125/1579]; amended [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], §§ 1031(a), 1032, Jan. 2, 2013, [126 Stat. 1917][/us/stat/126/1917], 1919; [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1052(b), Dec. 26, 2013, [127 Stat. 861][/us/stat/127/861]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(c)(10), Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509].)
 
  __Codification__ 
 
-    Section was formerly part of chapter 23 of this title, prior to being transferred to this chapter by [Pub. L. 112–239, § 1031(a)(1)][/us/pl/112/239/s1031/a/1].
+    Section was formerly part of chapter 23 of this title, prior to being transferred to this chapter by [Pub. L. 112–239][/us/pl/112/239], § 1031(a)(1).
 
  __References in Text__ 
 
-    Section 1043(a)(1) of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsec. (c)(1), is [section 1043(a)(1) of title X of Pub. L. 112–81][/us/pl/112/81/s1043/a/1], div. A, Dec. 31, 2011, [125 Stat. 1579][/us/stat/125/1579], which is not classified to the Code.
+    Section 1043(a)(1) of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsec. (c)(1), is [section 1043(a)(1) of title X of Pub. L. 112–81][/us/pl/112/81/tX/s1043/a/1], div. A, Dec. 31, 2011, [125 Stat. 1579][/us/stat/125/1579], which is not classified to the Code.
 
  __Amendments__ 
 
     2014—Subsec. (c)(3). [Pub. L. 113–291][/us/pl/113/291] substituted “([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4])” for “([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4])”.
 
-    2013—[Pub. L. 112–239, § 1031(a)(2)(A)][/us/pl/112/239/s1031/a/2/A]–(D), inserted “weapons” after “Nuclear” in section catchline, substituted “nuclear weapons employment strategy” for “nuclear employment strategy” in two places in introductory provisions and “to the nuclear weapons employment strategy, plans, and options of” for “to nuclear employment strategy of” in par. (1), and added par. (4).
+    2013—[Pub. L. 112–239][/us/pl/112/239], § 1031(a)(2)(A)–(D), inserted “weapons” after “Nuclear” in section catchline, substituted “nuclear weapons employment strategy” for “nuclear employment strategy” in two places in introductory provisions and “to the nuclear weapons employment strategy, plans, and options of” for “to nuclear employment strategy of” in par. (1), and added par. (4).
 
-    Subsec. (a). [Pub. L. 112–239, § 1032(a)][/us/pl/112/239/s1032/a], substituted “By not later than 60 days before the date on which the President implements” for “On the date on which the President issues” in introductory provisions.
+    Subsec. (a). [Pub. L. 112–239][/us/pl/112/239], § 1032(a), substituted “By not later than 60 days before the date on which the President implements” for “On the date on which the President issues” in introductory provisions.
 
-    [Pub. L. 112–239, § 1031(a)(2)(E)][/us/pl/112/239/s1031/a/2/E], designated existing provisions as subsec. (a) and inserted heading.
+    [Pub. L. 112–239][/us/pl/112/239], § 1031(a)(2)(E), designated existing provisions as subsec. (a) and inserted heading.
 
-    Subsec. (b). [Pub. L. 112–239, § 1031(a)(2)(F)][/us/pl/112/239/s1031/a/2/F], added subsec. (b).
+    Subsec. (b). [Pub. L. 112–239][/us/pl/112/239], § 1031(a)(2)(F), added subsec. (b).
 
-    Subsec. (c). [Pub. L. 113–66, § 1052(b)][/us/pl/113/66/s1052/b], redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows:
+    Subsec. (c). [Pub. L. 113–66][/us/pl/113/66], § 1052(b), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows:
 
     “(1) The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system of the United States that is reported to the Secretary of Defense or the Nuclear Weapons Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
 
     “(2) In this subsection, the term ‘anomaly’ means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.”
 
-    [Pub. L. 112–239, § 1031(a)(2)(F)][/us/pl/112/239/s1031/a/2/F], added subsec. (c).
+    [Pub. L. 112–239][/us/pl/112/239], § 1031(a)(2)(F), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 113–66, § 1052(b)(2)][/us/pl/113/66/s1052/b/2], redesignated subsec. (d) as (c).
+    Subsec. (d). [Pub. L. 113–66][/us/pl/113/66], § 1052(b)(2), redesignated subsec. (d) as (c).
 
-    [Pub. L. 112–239, § 1032(b)][/us/pl/112/239/s1032/b], added subsec. (d).
+    [Pub. L. 112–239][/us/pl/112/239], § 1032(b), added subsec. (d).
 
  __Statement of Policy on the Nuclear Triad__ 
 
-[Pub. L. 114–92, div. A, title XVI, § 1664][/us/pl/114/92/s1664], Nov. 25, 2015, [129 Stat. 1128][/us/stat/129/1128], provided that:
+[Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1664, Nov. 25, 2015, [129 Stat. 1128][/us/stat/129/1128], provided that:
 
 >     “(a)  __Sense of Congress__  __.—__ 
 
@@ -109,7 +109,7 @@
 
 >         “(5) to achieve a modern and responsive nuclear infrastructure to support the full spectrum of deterrence requirements.”
 
-[Pub. L. 113–291, div. A, title XVI, § 1652][/us/pl/113/291/s1652], Dec. 19, 2014, [128 Stat. 3654][/us/stat/128/3654], provided that: 
+[Pub. L. 113–291, div. A, title XVI][/us/pl/113/291/dA/tXVI], § 1652, Dec. 19, 2014, [128 Stat. 3654][/us/stat/128/3654], provided that: 
 
 > “It is the policy of the United States—
 
@@ -152,31 +152,31 @@
 [/us/stat/125/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1576
 [/us/usc/t10/s494/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs494%2Fa%2F2%2FA
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
-[/us/pl/112/81/s1046/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1046%2Fb%2F1
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1579
-[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1917
-[/us/pl/113/66/s1052/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1052%2Fb
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F861
-[/us/pl/113/291/s1071/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F10
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3509
-[/us/pl/112/239/s1031/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fa%2F1
-[/us/pl/112/81/s1043/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1043%2Fa%2F1
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/81/tX/s1043/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FtX%2Fs1043%2Fa%2F1
 [/us/stat/125/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1579
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
-[/us/pl/112/239/s1031/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fa%2F2%2FA
-[/us/pl/112/239/s1032/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1032%2Fa
-[/us/pl/112/239/s1031/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fa%2F2%2FE
-[/us/pl/112/239/s1031/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fa%2F2%2FF
-[/us/pl/113/66/s1052/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1052%2Fb
-[/us/pl/112/239/s1031/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fa%2F2%2FF
-[/us/pl/113/66/s1052/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1052%2Fb%2F2
-[/us/pl/112/239/s1032/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1032%2Fb
-[/us/pl/114/92/s1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1664
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1128
-[/us/pl/113/291/s1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1652
+[/us/pl/113/291/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXVI
 [/us/stat/128/3654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3654
 [/us/usc/t10/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs491
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

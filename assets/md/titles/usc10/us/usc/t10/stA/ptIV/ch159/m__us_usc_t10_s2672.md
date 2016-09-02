@@ -119,7 +119,7 @@
 
         (6) to restrict the authority of the Director of the National Security Agency under section 11 of the National Security Agency Act of 1959 ([50 U.S.C. 3609][/us/usc/t50/s3609]).
 
-(Added [Pub. L. 114–92, div. B, title XXVIII, § 2811(a)][/us/pl/114/92/s2811/a], Nov. 25, 2015, [129 Stat. 1172][/us/stat/129/1172].)
+(Added [Pub. L. 114–92, div. B, title XXVIII][/us/pl/114/92/dB/tXXVIII], § 2811(a), Nov. 25, 2015, [129 Stat. 1172][/us/stat/129/1172].)
 
  __References in Text__ 
 
@@ -127,11 +127,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 2672, added [Pub. L. 85–861, § 1(51)][/us/pl/85/861/s1/51], Sept. 2, 1958, [72 Stat. 1459][/us/stat/72/1459]; amended [Pub. L. 87–651, title I, § 112(a)][/us/pl/87/651/s112/a], Sept. 7, 1962, [76 Stat. 511][/us/stat/76/511]; [Pub. L. 92–145, title VII, § 707(2)][/us/pl/92/145/s707/2], (3), Oct. 27, 1971, [85 Stat. 411][/us/stat/85/411]; [Pub. L. 96–418, title VIII, § 806(a)][/us/pl/96/418/s806/a], Oct. 10, 1980, [94 Stat. 1777][/us/stat/94/1777]; [Pub. L. 99–167, title VIII, § 810(a)][/us/pl/99/167/s810/a], (b)(1), Dec. 3, 1985, [99 Stat. 989][/us/stat/99/989], 990; [Pub. L. 99–661, div. A, title XIII, § 1343(a)(16)][/us/pl/99/661/s1343/a/16], Nov. 14, 1986, [100 Stat. 3993][/us/stat/100/3993]; [Pub. L. 100–456, div. B, title XXVIII, § 2804][/us/pl/100/456/s2804], Sept. 29, 1988, [102 Stat. 2115][/us/stat/102/2115]; [Pub. L. 105–85, div. B, title XXVIII, § 2811(a)][/us/pl/105/85/s2811/a], (b)(1), Nov. 18, 1997, [111 Stat. 1991][/us/stat/111/1991]; [Pub. L. 108–136, div. B, title XXVIII, § 2811(a)][/us/pl/108/136/s2811/a]–(b)(2), Nov. 24, 2003, [117 Stat. 1724][/us/stat/117/1724], 1725; [Pub. L. 108–375, div. B, title XXVIII, § 2821(d)(1)][/us/pl/108/375/s2821/d/1], Oct. 28, 2004, [118 Stat. 2130][/us/stat/118/2130]; [Pub. L. 109–163, div. B, title XXVIII, § 2821(a)(2)][/us/pl/109/163/s2821/a/2], Jan. 6, 2006, [119 Stat. 3511][/us/stat/119/3511], related to authority to acquire low-cost interests in land, prior to repeal by [Pub. L. 109–163, div. B, title XXVIII, § 2821(f)][/us/pl/109/163/s2821/f], Jan. 6, 2006, [119 Stat. 3513][/us/stat/119/3513]. See [section 2663(c) of this title][/us/usc/t10/s2663/c].
+    A prior section 2672, added [Pub. L. 85–861][/us/pl/85/861], § 1(51), Sept. 2, 1958, [72 Stat. 1459][/us/stat/72/1459]; amended [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 112(a), Sept. 7, 1962, [76 Stat. 511][/us/stat/76/511]; [Pub. L. 92–145, title VII][/us/pl/92/145/tVII], § 707(2), (3), Oct. 27, 1971, [85 Stat. 411][/us/stat/85/411]; [Pub. L. 96–418, title VIII][/us/pl/96/418/tVIII], § 806(a), Oct. 10, 1980, [94 Stat. 1777][/us/stat/94/1777]; [Pub. L. 99–167, title VIII][/us/pl/99/167/tVIII], § 810(a), (b)(1), Dec. 3, 1985, [99 Stat. 989][/us/stat/99/989], 990; [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1343(a)(16), Nov. 14, 1986, [100 Stat. 3993][/us/stat/100/3993]; [Pub. L. 100–456, div. B, title XXVIII][/us/pl/100/456/dB/tXXVIII], § 2804, Sept. 29, 1988, [102 Stat. 2115][/us/stat/102/2115]; [Pub. L. 105–85, div. B, title XXVIII][/us/pl/105/85/dB/tXXVIII], § 2811(a), (b)(1), Nov. 18, 1997, [111 Stat. 1991][/us/stat/111/1991]; [Pub. L. 108–136, div. B, title XXVIII][/us/pl/108/136/dB/tXXVIII], § 2811(a)–(b)(2), Nov. 24, 2003, [117 Stat. 1724][/us/stat/117/1724], 1725; [Pub. L. 108–375, div. B, title XXVIII][/us/pl/108/375/dB/tXXVIII], § 2821(d)(1), Oct. 28, 2004, [118 Stat. 2130][/us/stat/118/2130]; [Pub. L. 109–163, div. B, title XXVIII][/us/pl/109/163/dB/tXXVIII], § 2821(a)(2), Jan. 6, 2006, [119 Stat. 3511][/us/stat/119/3511], related to authority to acquire low-cost interests in land, prior to repeal by [Pub. L. 109–163, div. B, title XXVIII][/us/pl/109/163/dB/tXXVIII], § 2821(f), Jan. 6, 2006, [119 Stat. 3513][/us/stat/119/3513]. See [section 2663(c) of this title][/us/usc/t10/s2663/c].
 
  __Establishment of Process by Which Members of the Armed Forces May Carry an Appropriate Firearm on a Military Installation__ 
 
-[Pub. L. 114–92, div. A, title V, § 526][/us/pl/114/92/s526], Nov. 25, 2015, [129 Stat. 813][/us/stat/129/813], provided that: 
+[Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 526, Nov. 25, 2015, [129 Stat. 813][/us/stat/129/813], provided that: 
 
 > “Not later than December 31, 2015, the Secretary of Defense, taking into consideration the views of senior leadership of military installations in the United States, shall establish and implement a process by which the commanders of military installations in the United States, or other military commanders designated by the Secretary of Defense for military reserve centers, Armed Services recruiting centers, and such other defense facilities as the Secretary may prescribe, may authorize a member of the Armed Forces who is assigned to duty at the installation, center or facility to carry an appropriate firearm on the installation, center, or facility if the commander determines that carrying such a firearm is necessary as a personal- or force-protection measure.”
 
@@ -144,37 +144,37 @@
 
 [/us/usc/t50/s797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs797
 [/us/usc/t50/s3609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3609
-[/us/pl/114/92/s2811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs2811%2Fa
+[/us/pl/114/92/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdB%2FtXXVIII
 [/us/stat/129/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1172
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/85/861/s1/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F51
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1459
-[/us/pl/87/651/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs112%2Fa
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F511
-[/us/pl/92/145/s707/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F145%2Fs707%2F2
+[/us/pl/92/145/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F145%2FtVII
 [/us/stat/85/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F411
-[/us/pl/96/418/s806/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F418%2Fs806%2Fa
+[/us/pl/96/418/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F418%2FtVIII
 [/us/stat/94/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1777
-[/us/pl/99/167/s810/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167%2Fs810%2Fa
+[/us/pl/99/167/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167%2FtVIII
 [/us/stat/99/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F989
-[/us/pl/99/661/s1343/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1343%2Fa%2F16
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3993
-[/us/pl/100/456/s2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs2804
+[/us/pl/100/456/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdB%2FtXXVIII
 [/us/stat/102/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2115
-[/us/pl/105/85/s2811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2811%2Fa
+[/us/pl/105/85/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdB%2FtXXVIII
 [/us/stat/111/1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1991
-[/us/pl/108/136/s2811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs2811%2Fa
+[/us/pl/108/136/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdB%2FtXXVIII
 [/us/stat/117/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1724
-[/us/pl/108/375/s2821/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs2821%2Fd%2F1
+[/us/pl/108/375/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdB%2FtXXVIII
 [/us/stat/118/2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2130
-[/us/pl/109/163/s2821/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2821%2Fa%2F2
+[/us/pl/109/163/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdB%2FtXXVIII
 [/us/stat/119/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3511
-[/us/pl/109/163/s2821/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2821%2Ff
+[/us/pl/109/163/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdB%2FtXXVIII
 [/us/stat/119/3513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3513
 [/us/usc/t10/s2663/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2663%2Fc
-[/us/pl/114/92/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs526
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F813
 
 

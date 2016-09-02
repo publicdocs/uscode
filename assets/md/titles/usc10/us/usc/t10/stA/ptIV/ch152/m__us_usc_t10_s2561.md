@@ -57,7 +57,7 @@
 
         (2) The Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
 
-(Added [Pub. L. 102–484, div. A, title III, § 304(c)(1)][/us/pl/102/484/s304/c/1], Oct. 23, 1992, [106 Stat. 2361][/us/stat/106/2361], § 2551; amended [Pub. L. 104–106, div. A, title XIII, § 1312][/us/pl/104/106/s1312], Feb. 10, 1996, [110 Stat. 474][/us/stat/110/474]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; renumbered § 2561 and amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1033(b)(1), (c)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–260; [Pub. L. 108–136, div. A, title III, § 312(d)][/us/pl/108/136/s312/d], Nov. 24, 2003, [117 Stat. 1430][/us/stat/117/1430]; [Pub. L. 112–239, div. A, title X, § 1076(f)(31)][/us/pl/112/239/s1076/f/31], Jan. 2, 2013, [126 Stat. 1953][/us/stat/126/1953].)
+(Added [Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 304(c)(1), Oct. 23, 1992, [106 Stat. 2361][/us/stat/106/2361], § 2551; amended [Pub. L. 104–106, div. A, title XIII][/us/pl/104/106/dA/tXIII], § 1312, Feb. 10, 1996, [110 Stat. 474][/us/stat/110/474]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; renumbered § 2561 and amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1033(b)(1), (c)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–260; [Pub. L. 108–136, div. A, title III][/us/pl/108/136/dA/tIII], § 312(d), Nov. 24, 2003, [117 Stat. 1430][/us/stat/117/1430]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(f)(31), Jan. 2, 2013, [126 Stat. 1953][/us/stat/126/1953].)
 
  __Amendments__ 
 
@@ -65,19 +65,19 @@
 
     2003—Subsec. (a). [Pub. L. 108–136][/us/pl/108/136] designated existing provisions as par. (1) and added par. (2).
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1033(b)(1)\], renumbered [section 2551 of this title][/us/usc/t10/s2551] as this section.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1033(b)(1)\], renumbered [section 2551 of this title][/us/usc/t10/s2551] as this section.
 
-    Subsec. (c)(3)(C). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1033(c)(1)\], substituted “section 2557” for “section 2547”.
+    Subsec. (c)(3)(C). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1033(c)(1)\], substituted “section 2557” for “section 2547”.
 
     1999—Subsec. (f)(2). [Pub. L. 106–65][/us/pl/106/65] substituted “Committee on Armed Services” for “Committee on National Security”.
 
-    1996—Subsec. (b). [Pub. L. 104–106, § 1312(1)][/us/pl/104/106/s1312/1], (2), redesignated subsec. (d) as (b) and struck out former subsec. (b) which read as follows: “Authority To Transfer Funds.—To the extent provided in defense authorization Acts for a fiscal year, the Secretary of Defense may transfer to the Secretary of State funds appropriated for the purposes of this section to provide for—
+    1996—Subsec. (b). [Pub. L. 104–106][/us/pl/104/106], § 1312(1), (2), redesignated subsec. (d) as (b) and struck out former subsec. (b) which read as follows: “Authority To Transfer Funds.—To the extent provided in defense authorization Acts for a fiscal year, the Secretary of Defense may transfer to the Secretary of State funds appropriated for the purposes of this section to provide for—
 
     “(1) the payment of administrative costs incurred in providing the transportation described in subsection (a); and
 
     “(2) the purchase or other acquisition of transportation assets for the distribution of humanitarian relief supplies in the country of destination.”
 
-    Subsec. (c). [Pub. L. 104–106, § 1312(1)][/us/pl/104/106/s1312/1], (3), added subsec. (c) and struck out former subsec. (c) which read as follows:
+    Subsec. (c). [Pub. L. 104–106][/us/pl/104/106], § 1312(1), (3), added subsec. (c) and struck out former subsec. (c) which read as follows:
 
     “(c) Transportation of Humanitarian Relief.—(1) Transportation of humanitarian relief provided with funds appropriated for the purposes of this section shall be provided under the direction of the Secretary of State.
 
@@ -85,13 +85,13 @@
 
     “(3) Nothing in this subsection shall be construed as waiving the requirements of [section 2631 of this title][/us/usc/t10/s2631] and sections 901(b) and 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b) and 1241f).”
 
-    Subsec. (d). [Pub. L. 104–106, § 1312(4)][/us/pl/104/106/s1312/4], redesignated subsec. (f) as (d) and substituted “the congressional committees specified in subsection (f) and the Committees on Appropriations of the Senate and House of Representatives of the” for “the Committees on Appropriations and on Armed Services of the Senate and House of Representatives, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives of the”. Former subsec. (d) redesignated (b).
+    Subsec. (d). [Pub. L. 104–106][/us/pl/104/106], § 1312(4), redesignated subsec. (f) as (d) and substituted “the congressional committees specified in subsection (f) and the Committees on Appropriations of the Senate and House of Representatives of the” for “the Committees on Appropriations and on Armed Services of the Senate and House of Representatives, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives of the”. Former subsec. (d) redesignated (b).
 
-    Subsec. (e). [Pub. L. 104–106, § 1312(3)][/us/pl/104/106/s1312/3], (5), redesignated subsec. (g) as (e) and struck out former subsec. (e) which required status reports and specified time for submission, coverage, and contents.
+    Subsec. (e). [Pub. L. 104–106][/us/pl/104/106], § 1312(3), (5), redesignated subsec. (g) as (e) and struck out former subsec. (e) which required status reports and specified time for submission, coverage, and contents.
 
-    Subsec. (f). [Pub. L. 104–106, § 1312(6)][/us/pl/104/106/s1312/6], added subsec. (f). Former subsec. (f) redesignated (d).
+    Subsec. (f). [Pub. L. 104–106][/us/pl/104/106], § 1312(6), added subsec. (f). Former subsec. (f) redesignated (d).
 
-    Subsec. (g). [Pub. L. 104–106, § 1312(5)][/us/pl/104/106/s1312/5], redesignated subsec. (g) as (e).
+    Subsec. (g). [Pub. L. 104–106][/us/pl/104/106], § 1312(5), redesignated subsec. (g) as (e).
 
  __Notifications Regarding Humanitarian Relief__ 
 
@@ -99,7 +99,7 @@
 
  __Laws Covered by Initial Reports__ 
 
-    [Pub. L. 102–484, div. A, title III, § 304(d)][/us/pl/102/484/s304/d], Oct. 28, 1992, [106 Stat. 2362][/us/stat/106/2362], provided that for purposes of subsec. (e) of this section, [section 304 of Pub. L. 102–190][/us/pl/102/190/s304] ([105 Stat. 1333][/us/stat/105/1333]) and the humanitarian relief laws referred to in [section 304(f)(4) of Pub. L. 102–190][/us/pl/102/190/s304/f/4] (as in effect on the day before Oct. 23, 1992) were to be considered as provisions of law that authorized appropriations for humanitarian assistance to be available for the purposes of this section.
+    [Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 304(d), Oct. 28, 1992, [106 Stat. 2362][/us/stat/106/2362], provided that for purposes of subsec. (e) of this section, [section 304 of Pub. L. 102–190][/us/pl/102/190/s304] ([105 Stat. 1333][/us/stat/105/1333]) and the humanitarian relief laws referred to in [section 304(f)(4) of Pub. L. 102–190][/us/pl/102/190/s304/f/4] (as in effect on the day before Oct. 23, 1992) were to be considered as provisions of law that authorized appropriations for humanitarian assistance to be available for the purposes of this section.
 
 ----------
 
@@ -110,34 +110,34 @@
 
 [/us/usc/t10/s2557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2557
 [/us/usc/t10/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs114%2Fa
-[/us/pl/102/484/s304/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs304%2Fc%2F1
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2361
-[/us/pl/104/106/s1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1312
+[/us/pl/104/106/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXIII
 [/us/stat/110/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F474
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/136/s312/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs312%2Fd
+[/us/pl/108/136/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIII
 [/us/stat/117/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1430
-[/us/pl/112/239/s1076/f/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F31
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1953
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t10/s2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2551
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/104/106/s1312/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1312%2F1
-[/us/pl/104/106/s1312/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1312%2F1
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t10/s2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2631
-[/us/pl/104/106/s1312/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1312%2F4
-[/us/pl/104/106/s1312/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1312%2F3
-[/us/pl/104/106/s1312/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1312%2F6
-[/us/pl/104/106/s1312/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1312%2F5
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/160/s1504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1504%2Fc
 [/us/usc/t10/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs401
-[/us/pl/102/484/s304/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs304%2Fd
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2362
 [/us/pl/102/190/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs304
 [/us/stat/105/1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1333

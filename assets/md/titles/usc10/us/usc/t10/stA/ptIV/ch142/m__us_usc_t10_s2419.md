@@ -51,7 +51,7 @@
 
         (2) The term “covered small business” means a qualified small business concern as defined pursuant to section 3(a) of the Small Business Act that has entered into a contract with the Department of Defense that includes a contract clause described in subsection (a)(2).
 
-(Added [Pub. L. 113–66, div. A, title XVI, § 1611(a)(1)(B)][/us/pl/113/66/s1611/a/1/B], Dec. 26, 2013, [127 Stat. 946][/us/stat/127/946].)
+(Added [Pub. L. 113–66, div. A, title XVI][/us/pl/113/66/dA/tXVI], § 1611(a)(1)(B), Dec. 26, 2013, [127 Stat. 946][/us/stat/127/946].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/113/66/s1611/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1611%2Fa%2F1%2FB
+[/us/pl/113/66/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVI
 [/us/stat/127/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F946
 [/us/usc/t15/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fa
 [/us/usc/t10/s2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2420

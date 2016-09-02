@@ -21,11 +21,11 @@
 
     (2) losses in the accounts of disbursing officials and agents in accordance with law.
 
-(Added [Pub. L. 100–370, § 1(m)(1)][/us/pl/100/370/s1/m/1], July 19, 1988, [102 Stat. 849][/us/stat/102/849].)
+(Added [Pub. L. 100–370][/us/pl/100/370], § 1(m)(1), July 19, 1988, [102 Stat. 849][/us/stat/102/849].)
 
  __Historical and Revision Notes__ 
 
-    Section is based on [Pub. L. 99–190, § 101(b)][/us/pl/99/190/s101/b] \[title VIII, § 8006(c)\], Dec. 19, 1985, [99 Stat. 1185][/us/stat/99/1185], 1203.
+    Section is based on [Pub. L. 99–190][/us/pl/99/190], § 101(b) \[title VIII, § 8006(c)\], Dec. 19, 1985, [99 Stat. 1185][/us/stat/99/1185], 1203.
 
 ----------
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/100/370/s1/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370%2Fs1%2Fm%2F1
+[/us/pl/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F370
 [/us/stat/102/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F849
-[/us/pl/99/190/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fb
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1185
 
 

@@ -21,7 +21,7 @@
 
     (c) The Secretary of Defense shall ensure, to the extent consistent with national security, that intelligence information held by the Department of Defense and relevant to drug interdiction or other civilian law enforcement matters is provided promptly to appropriate civilian law enforcement officials.
 
-(Added [Pub. L. 97–86, title IX, § 905(a)(1)][/us/pl/97/86/s905/a/1], Dec. 1, 1981, [95 Stat. 1115][/us/stat/95/1115]; amended [Pub. L. 100–456, div. A, title XI, § 1104(a)][/us/pl/100/456/s1104/a], Sept. 29, 1988, [102 Stat. 2043][/us/stat/102/2043].)
+(Added [Pub. L. 97–86, title IX][/us/pl/97/86/tIX], § 905(a)(1), Dec. 1, 1981, [95 Stat. 1115][/us/stat/95/1115]; amended [Pub. L. 100–456, div. A, title XI][/us/pl/100/456/dA/tXI], § 1104(a), Sept. 29, 1988, [102 Stat. 2043][/us/stat/102/2043].)
 
  __Amendments__ 
 
@@ -29,13 +29,13 @@
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–570, title III, § 3051][/us/pl/99/570/s3051], Oct. 27, 1986, [100 Stat. 3207–74][/us/stat/100/3207-74], provided that: 
+[Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3051, Oct. 27, 1986, [100 Stat. 3207–74][/us/stat/100/3207-74], provided that: 
 
 > “This subtitle \[subtitle A (§§ 3051–3059) of title III of [Pub. L. 99–570][/us/pl/99/570], enacting [section 379 of this title][/us/usc/t10/s379], amending sections 374 and 911 of this title, enacting provisions set out as notes under sections 374, 525, and 9441 of this title, and repealing provisions set out as a note under [section 89 of Title 14][/us/usc/t14/s89], Coast Guard\] may be cited as the ‘Defense Drug Interdiction Assistance Act’.”
 
  __Authority for Joint Task Forces to Provide Support to Law Enforcement Agencies Conducting Counter-Terrorism Activities__ 
 
-[Pub. L. 108–136, div. A, title X, § 1022][/us/pl/108/136/s1022], Nov. 24, 2003, [117 Stat. 1594][/us/stat/117/1594], as amended by [Pub. L. 109–163, div. A, title X, § 1022][/us/pl/109/163/s1022], Jan. 6, 2006, [119 Stat. 3427][/us/stat/119/3427]; [Pub. L. 110–181, div. A, title X, § 1021][/us/pl/110/181/s1021], Jan. 28, 2008, [122 Stat. 304][/us/stat/122/304]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1022, Oct. 14, 2008, [122 Stat. 4586][/us/stat/122/4586]; [Pub. L. 111–84, div. A, title X, § 1012][/us/pl/111/84/s1012], Oct. 28, 2009, [123 Stat. 2441][/us/stat/123/2441]; [Pub. L. 111–383, div. A, title X, § 1012(a)][/us/pl/111/383/s1012/a]–(b)(2), Jan. 7, 2011, [124 Stat. 4346][/us/stat/124/4346], 4347; [Pub. L. 112–81, div. A, title X, § 1004(a)][/us/pl/112/81/s1004/a], Dec. 31, 2011, [125 Stat. 1556][/us/stat/125/1556]; [Pub. L. 112–239, div. A, title X, § 1011][/us/pl/112/239/s1011], Jan. 2, 2013, [126 Stat. 1907][/us/stat/126/1907]; [Pub. L. 113–66, div. A, title X, § 1012][/us/pl/113/66/s1012], Dec. 26, 2013, [127 Stat. 844][/us/stat/127/844]; [Pub. L. 113–291, div. A, title X, § 1014][/us/pl/113/291/s1014], Dec. 19, 2014, [128 Stat. 3484][/us/stat/128/3484], provided that:
+[Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1022, Nov. 24, 2003, [117 Stat. 1594][/us/stat/117/1594], as amended by [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1022, Jan. 6, 2006, [119 Stat. 3427][/us/stat/119/3427]; [Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1021, Jan. 28, 2008, [122 Stat. 304][/us/stat/122/304]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1022, Oct. 14, 2008, [122 Stat. 4586][/us/stat/122/4586]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1012, Oct. 28, 2009, [123 Stat. 2441][/us/stat/123/2441]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1012(a)–(b)(2), Jan. 7, 2011, [124 Stat. 4346][/us/stat/124/4346], 4347; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1004(a), Dec. 31, 2011, [125 Stat. 1556][/us/stat/125/1556]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1011, Jan. 2, 2013, [126 Stat. 1907][/us/stat/126/1907]; [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1012, Dec. 26, 2013, [127 Stat. 844][/us/stat/127/844]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1014, Dec. 19, 2014, [128 Stat. 3484][/us/stat/128/3484], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -73,7 +73,7 @@
 
 >         “(2) For purposes of applying the definition of transnational organized crime under paragraph (1) to this section, the term ‘illegal means’, as it appears in such definition, includes the trafficking of money, human trafficking, illicit financial flows, illegal trade in natural resources and wildlife, trade in illegal drugs and weapons, and other forms of illegal means determined by the Secretary of Defense.”
 
-\[[Pub. L. 112–81, div. A, title X, § 1004(b)][/us/pl/112/81/s1004/b], Dec. 31, 2011, [125 Stat. 1556][/us/stat/125/1556], provided that: 
+\[[Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1004(b), Dec. 31, 2011, [125 Stat. 1556][/us/stat/125/1556], provided that: 
 
 > “The authority in section 1022 of the National Defense Authorization Act for Fiscal Year 2004 \[[Pub. L. 108–136][/us/pl/108/136], set out above\], as amended by subsection (a), may not be exercised unless the Secretary of Defense certifies to Congress, in writing, that the Department of Defense is in compliance with the provisions of paragraph (2) of subsection (d) of such section, as added by section 1012(b) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 ([Public Law 111–383][/us/pl/111/383]; [124 Stat. 4346][/us/stat/124/4346]).”
 
@@ -86,39 +86,39 @@
 ----------
 ----------
 
-[/us/pl/97/86/s905/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs905%2Fa%2F1
+[/us/pl/97/86/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIX
 [/us/stat/95/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1115
-[/us/pl/100/456/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1104%2Fa
+[/us/pl/100/456/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXI
 [/us/stat/102/2043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2043
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
-[/us/pl/99/570/s3051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3051
+[/us/pl/99/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIII
 [/us/stat/100/3207-74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-74
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t10/s379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs379
 [/us/usc/t14/s89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs89
-[/us/pl/108/136/s1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1022
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1594
-[/us/pl/109/163/s1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1022
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3427
-[/us/pl/110/181/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1021
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F304
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4586
-[/us/pl/111/84/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1012
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2441
-[/us/pl/111/383/s1012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1012%2Fa
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4346
-[/us/pl/112/81/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1004%2Fa
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1556
-[/us/pl/112/239/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1011
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1907
-[/us/pl/113/66/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1012
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F844
-[/us/pl/113/291/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1014
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3484
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs374
-[/us/pl/112/81/s1004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1004%2Fb
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1556
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

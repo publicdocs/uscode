@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch861/m__us_usc_t10_s8814.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch861/m__us_usc_t10_s8818.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8817)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch861/m__us_usc_t10_s8815 _us_usc_t10_s8816.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch861/m__us_usc_t10_s8818.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8817)
 
 ## § 8817. Aviation cadets: discharge
 
@@ -67,7 +67,7 @@ June 3, 1941, ch. 165, § 3 (last sentence), 55 Stat. 239.  </td>
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch861/m__us_usc_t10_s8814.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch861/m__us_usc_t10_s8818.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8817)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch861/m__us_usc_t10_s8815 _us_usc_t10_s8816.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch861/m__us_usc_t10_s8818.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8817)
 
 ----------
 ----------

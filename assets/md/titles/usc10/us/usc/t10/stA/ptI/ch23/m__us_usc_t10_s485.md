@@ -31,11 +31,11 @@
 
         (4) Any other matters the Secretary considers appropriate.
 
-(Added [Pub. L. 113–66, div. A, title X, § 1042(a)(1)][/us/pl/113/66/s1042/a/1], Dec. 26, 2013, [127 Stat. 857][/us/stat/127/857].)
+(Added [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1042(a)(1), Dec. 26, 2013, [127 Stat. 857][/us/stat/127/857].)
 
  __Prior Provisions__ 
 
-    A prior section 485, added [Pub. L. 105–261, div. A, title IX, § 923(b)(1)][/us/pl/105/261/s923/b/1], Oct. 17, 1998, [112 Stat. 2105][/us/stat/112/2105]; amended [Pub. L. 106–65, div. A, title IX, § 931][/us/pl/106/65/s931], title X, § 1067(1), Oct. 5, 1999, [113 Stat. 726][/us/stat/113/726], 774; [Pub. L. 107–107, div. A, title IX, § 922][/us/pl/107/107/s922], Dec. 28, 2001, [115 Stat. 1198][/us/stat/115/1198]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 241(a), Oct. 14, 2008, [122 Stat. 4395][/us/stat/122/4395], related to biennial reports on joint and service concept development and experimentation, prior to repeal by [Pub. L. 112–81, div. A, title X, § 1061(7)(A)][/us/pl/112/81/s1061/7/A], Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583].
+    A prior section 485, added [Pub. L. 105–261, div. A, title IX][/us/pl/105/261/dA/tIX], § 923(b)(1), Oct. 17, 1998, [112 Stat. 2105][/us/stat/112/2105]; amended [Pub. L. 106–65, div. A, title IX][/us/pl/106/65/dA/tIX], § 931, title X, § 1067(1), Oct. 5, 1999, [113 Stat. 726][/us/stat/113/726], 774; [Pub. L. 107–107, div. A, title IX][/us/pl/107/107/dA/tIX], § 922, Dec. 28, 2001, [115 Stat. 1198][/us/stat/115/1198]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 241(a), Oct. 14, 2008, [122 Stat. 4395][/us/stat/122/4395], related to biennial reports on joint and service concept development and experimentation, prior to repeal by [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1061(7)(A), Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583].
 
 ----------
 
@@ -44,17 +44,17 @@
 ----------
 ----------
 
-[/us/pl/113/66/s1042/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1042%2Fa%2F1
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F857
-[/us/pl/105/261/s923/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs923%2Fb%2F1
+[/us/pl/105/261/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIX
 [/us/stat/112/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2105
-[/us/pl/106/65/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs931
+[/us/pl/106/65/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIX
 [/us/stat/113/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F726
-[/us/pl/107/107/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs922
+[/us/pl/107/107/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIX
 [/us/stat/115/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1198
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4395
-[/us/pl/112/81/s1061/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F7%2FA
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1583
 
 

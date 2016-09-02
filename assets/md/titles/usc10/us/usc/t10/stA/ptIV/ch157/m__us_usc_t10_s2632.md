@@ -73,7 +73,7 @@
 
     (d) Fares received under subsection (a), and proceeds of the leasing or chartering of equipment under subsection (c)(3), shall be covered into the Treasury as miscellaneous receipts.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 146][/us/stat/70A/146]; [Pub. L. 95–362][/us/pl/95/362], Sept. 11, 1978, [92 Stat. 596][/us/stat/92/596]; [Pub. L. 96–125, title VIII, § 807(a)][/us/pl/96/125/s807/a]–(c)(1), Nov. 26, 1979, [93 Stat. 949][/us/stat/93/949], 950; [Pub. L. 100–180, div. A, title III, § 318(a)][/us/pl/100/180/s318/a]–(c), Dec. 4, 1987, [101 Stat. 1076][/us/stat/101/1076], 1077.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 146][/us/stat/70A/146]; [Pub. L. 95–362][/us/pl/95/362], Sept. 11, 1978, [92 Stat. 596][/us/stat/92/596]; [Pub. L. 96–125, title VIII][/us/pl/96/125/tVIII], § 807(a)–(c)(1), Nov. 26, 1979, [93 Stat. 949][/us/stat/93/949], 950; [Pub. L. 100–180, div. A, title III][/us/pl/100/180/dA/tIII], § 318(a)–(c), Dec. 4, 1987, [101 Stat. 1076][/us/stat/101/1076], 1077.)
 
 <table>
 
@@ -285,7 +285,7 @@ May 28, 1948, ch. 352, § 1, 62 Stat. 276.  </td>
 
  __Amendments__ 
 
-    1987—Subsec. (a). [Pub. L. 100–180, § 318(a)][/us/pl/100/180/s318/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whenever the Secretary of a military department determines that it is necessary for the effective conduct of the affairs of that department, he may, at reasonable rates of fare under regulations to be prescribed by the Secretary of Defense, provide assured and adequate transportation by motor vehicle or water carrier—
+    1987—Subsec. (a). [Pub. L. 100–180][/us/pl/100/180], § 318(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whenever the Secretary of a military department determines that it is necessary for the effective conduct of the affairs of that department, he may, at reasonable rates of fare under regulations to be prescribed by the Secretary of Defense, provide assured and adequate transportation by motor vehicle or water carrier—
 
     “(1) among places on any military installation (including any subinstallation thereof) under the jurisdiction of that department; and
 
@@ -295,29 +295,29 @@ May 28, 1948, ch. 352, § 1, 62 Stat. 276.  </td>
 
     “(B) during a war or national emergency declared by the Congress or the President, for persons attached to, or employed in, a private plant that is manufacturing material for that department.”
 
-    Subsec. (b)(1). [Pub. L. 100–180, § 318(c)(1)][/us/pl/100/180/s318/c/1], substituted “Transportation described in subparagraphs (B), (C), and (D) of subsection (a)(2) may not be provided” for “Transportation may not be provided under subsection (a)(2)”.
+    Subsec. (b)(1). [Pub. L. 100–180][/us/pl/100/180], § 318(c)(1), substituted “Transportation described in subparagraphs (B), (C), and (D) of subsection (a)(2) may not be provided” for “Transportation may not be provided under subsection (a)(2)”.
 
-    Subsec. (b)(2). [Pub. L. 100–180, § 318(b)(1)][/us/pl/100/180/s318/b/1], (c)(2), redesignated subpar. (A) as par. (2) and substituted “transportation described in subsection (a)(2)(A) at any military installation” for “transportation at any military installation under subsection (a)(1)”. Subpar. (B) was struck out and replaced by par. (3) and subpar. (C) was redesignated par. (4).
+    Subsec. (b)(2). [Pub. L. 100–180][/us/pl/100/180], § 318(b)(1), (c)(2), redesignated subpar. (A) as par. (2) and substituted “transportation described in subsection (a)(2)(A) at any military installation” for “transportation at any military installation under subsection (a)(1)”. Subpar. (B) was struck out and replaced by par. (3) and subpar. (C) was redesignated par. (4).
 
-    Subsec. (b)(3). [Pub. L. 100–180, § 318(b)(2)][/us/pl/100/180/s318/b/2], substituted par. (3) for former subpar. (2)(B) which read as follows: “In providing transportation at any military installation under such subsection, the Secretary of the military department concerned may not require any fare for the transportation of members of the armed forces if the transportation is incident to training or other operational activities on such installation.”
+    Subsec. (b)(3). [Pub. L. 100–180][/us/pl/100/180], § 318(b)(2), substituted par. (3) for former subpar. (2)(B) which read as follows: “In providing transportation at any military installation under such subsection, the Secretary of the military department concerned may not require any fare for the transportation of members of the armed forces if the transportation is incident to training or other operational activities on such installation.”
 
-    Subsec. (b)(4). [Pub. L. 100–180, § 318(b)(3)][/us/pl/100/180/s318/b/3], (c)(3), redesignated former par. (2)(C) as par. (4) and substituted “subsection (a)” for “subsection (a)(1)”.
+    Subsec. (b)(4). [Pub. L. 100–180][/us/pl/100/180], § 318(b)(3), (c)(3), redesignated former par. (2)(C) as par. (4) and substituted “subsection (a)” for “subsection (a)(1)”.
 
-    1979—[Pub. L. 96–125, § 807(c)(1)][/us/pl/96/125/s807/c/1], inserted “and on military installations” after “places of employment” in section catchline.
+    1979—[Pub. L. 96–125][/us/pl/96/125], § 807(c)(1), inserted “and on military installations” after “places of employment” in section catchline.
 
-    Subsec. (a). [Pub. L. 96–125, § 807(a)][/us/pl/96/125/s807/a], substituted reference to Secretary of a military department and to the Secretary of Defense for references to Secretary concerned and inserted reference to any military installation (including any subinstallation thereof) under the jurisdiction of that department.
+    Subsec. (a). [Pub. L. 96–125][/us/pl/96/125], § 807(a), substituted reference to Secretary of a military department and to the Secretary of Defense for references to Secretary concerned and inserted reference to any military installation (including any subinstallation thereof) under the jurisdiction of that department.
 
-    Subsec. (b). [Pub. L. 96–125, § 807(b)][/us/pl/96/125/s807/b], designated existing provisions as par. (1) and cls. (1) to (3) as cls. (A) to (C), substituted “subsection (a)(2)” for “subsection (a)” and added par. (2).
+    Subsec. (b). [Pub. L. 96–125][/us/pl/96/125], § 807(b), designated existing provisions as par. (1) and cls. (1) to (3) as cls. (A) to (C), substituted “subsection (a)(2)” for “subsection (a)” and added par. (2).
 
-    1978—Subsec. (a). [Pub. L. 95–362, § 1(1)][/us/pl/95/362/s1/1], substituted “concerned” for “of a military department” and “of his department” for “of that department”.
+    1978—Subsec. (a). [Pub. L. 95–362][/us/pl/95/362], § 1(1), substituted “concerned” for “of a military department” and “of his department” for “of that department”.
 
-    Subsec. (b). [Pub. L. 95–362, § 1(2)][/us/pl/95/362/s1/2], struck out “of the military department” before “concerned”.
+    Subsec. (b). [Pub. L. 95–362][/us/pl/95/362], § 1(2), struck out “of the military department” before “concerned”.
 
-    Subsec. (c)(2)(A). [Pub. L. 95–362, § 1(3)][/us/pl/95/362/s1/3], inserted reference to the Coast Guard.
+    Subsec. (c)(2)(A). [Pub. L. 95–362][/us/pl/95/362], § 1(3), inserted reference to the Coast Guard.
 
  __Regulations__ 
 
-    [Pub. L. 100–180, div. A, title III, § 318(d)][/us/pl/100/180/s318/d], Dec. 4, 1987, [101 Stat. 1077][/us/stat/101/1077], required that regulations to implement amendments to this section be prescribed not later than 90 days after Dec. 4, 1987.
+    [Pub. L. 100–180, div. A, title III][/us/pl/100/180/dA/tIII], § 318(d), Dec. 4, 1987, [101 Stat. 1077][/us/stat/101/1077], required that regulations to implement amendments to this section be prescribed not later than 90 days after Dec. 4, 1987.
 
  __Transfer of Functions__ 
 
@@ -334,22 +334,22 @@ May 28, 1948, ch. 352, § 1, 62 Stat. 276.  </td>
 [/us/stat/70A/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F146
 [/us/pl/95/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F362
 [/us/stat/92/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F596
-[/us/pl/96/125/s807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F125%2Fs807%2Fa
+[/us/pl/96/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F125%2FtVIII
 [/us/stat/93/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F949
-[/us/pl/100/180/s318/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs318%2Fa
+[/us/pl/100/180/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtIII
 [/us/stat/101/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1076
-[/us/pl/100/180/s318/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs318%2Fa
-[/us/pl/100/180/s318/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs318%2Fc%2F1
-[/us/pl/100/180/s318/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs318%2Fb%2F1
-[/us/pl/100/180/s318/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs318%2Fb%2F2
-[/us/pl/100/180/s318/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs318%2Fb%2F3
-[/us/pl/96/125/s807/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F125%2Fs807%2Fc%2F1
-[/us/pl/96/125/s807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F125%2Fs807%2Fa
-[/us/pl/96/125/s807/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F125%2Fs807%2Fb
-[/us/pl/95/362/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F362%2Fs1%2F1
-[/us/pl/95/362/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F362%2Fs1%2F2
-[/us/pl/95/362/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F362%2Fs1%2F3
-[/us/pl/100/180/s318/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs318%2Fd
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/96/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F125
+[/us/pl/96/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F125
+[/us/pl/96/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F125
+[/us/pl/95/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F362
+[/us/pl/95/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F362
+[/us/pl/95/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F362
+[/us/pl/100/180/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtIII
 [/us/stat/101/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1077
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

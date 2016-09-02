@@ -127,7 +127,7 @@ June 28, 1950, ch. 383, § 306 (less (a) and (b)), § 404(e), 64 Stat. 269, 
 
     In subsection (d), the words “basic or special branch” are substituted for the words “branches of the Army provided for in this section”. The word “considers” is substituted for the words “may deem to be”.
 
-In subsection (e), the words “No officer \* \* \* may be \* \* \* unless he is” are substituted for the words “officers of the Army \* \* \* shall \* \* \* possess”. The last 16 words of the first sentence are substituted for the [Act of June 28, 1950, ch. 383][/us/act/1950-06-28/ch383], Title IV, § 404(e), [64 Stat. 274][/us/stat/64/274]. The last sentence is substituted for 10:1g(f) (1st 9 words).
+In subsection (e), the words “No officer \* \* \* may be \* \* \* unless he is” are substituted for the words “officers of the Army \* \* \* shall \* \* \* possess”. The last 16 words of the first sentence are substituted for the [Act of June 28, 1950, ch. 383, Title IV][/us/act/1950-06-28/ch383/tIV], § 404(e), [64 Stat. 274][/us/stat/64/274]. The last sentence is substituted for 10:1g(f) (1st 9 words).
 
 ----------
 
@@ -138,7 +138,7 @@ In subsection (e), the words “No officer \* \* \* may be \* \* \* unle
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F167
-[/us/act/1950-06-28/ch383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-28%2Fch383
+[/us/act/1950-06-28/ch383/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-06-28%2Fch383%2FtIV
 [/us/stat/64/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F274
 
 

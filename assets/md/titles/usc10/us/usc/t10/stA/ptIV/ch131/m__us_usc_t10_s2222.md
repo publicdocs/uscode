@@ -233,11 +233,11 @@
 
         The term “business process mapping” means a procedure in which the steps in a business process are clarified and documented in both written form and in a flow chart.
 
-(Added [Pub. L. 108–375, div. A, title III, § 332(a)(1)][/us/pl/108/375/s332/a/1], Oct. 28, 2004, [118 Stat. 1851][/us/stat/118/1851]; amended [Pub. L. 109–364, div. A, title IX, § 906(a)][/us/pl/109/364/s906/a], Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 351, Oct. 14, 2008, [122 Stat. 4425][/us/stat/122/4425]; [Pub. L. 111–84, div. A, title X, § 1072(a)][/us/pl/111/84/s1072/a], Oct. 28, 2009, [123 Stat. 2470][/us/stat/123/2470]; [Pub. L. 111–383, div. A, title X, § 1075(b)(29)][/us/pl/111/383/s1075/b/29], Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370]; [Pub. L. 112–81, div. A, title IX, § 901][/us/pl/112/81/s901], Dec. 31, 2011, [125 Stat. 1527][/us/stat/125/1527]; [Pub. L. 112–239, div. A, title IX, § 906][/us/pl/112/239/s906], Jan. 2, 2013, [126 Stat. 1869][/us/stat/126/1869]; [Pub. L. 113–66, div. A, title IX, § 901][/us/pl/113/66/s901], Dec. 26, 2013, [127 Stat. 815][/us/stat/127/815]; [Pub. L. 113–283, § 2(e)(5)(A)][/us/pl/113/283/s2/e/5/A], Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087]; [Pub. L. 113–291, div. A, title VIII, § 803][/us/pl/113/291/s803], title IX, § 901(d), (k)(3), title X, § 1071(f)(16), Dec. 19, 2014, [128 Stat. 3427][/us/stat/128/3427], 3463, 3468, 3511; [Pub. L. 114–92, div. A, title VIII, § 883(a)(1)][/us/pl/114/92/s883/a/1], title X, § 1081(a)(7), Nov. 25, 2015, [129 Stat. 942][/us/stat/129/942], 1001.)
+(Added [Pub. L. 108–375, div. A, title III][/us/pl/108/375/dA/tIII], § 332(a)(1), Oct. 28, 2004, [118 Stat. 1851][/us/stat/118/1851]; amended [Pub. L. 109–364, div. A, title IX][/us/pl/109/364/dA/tIX], § 906(a), Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 351, Oct. 14, 2008, [122 Stat. 4425][/us/stat/122/4425]; [Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1072(a), Oct. 28, 2009, [123 Stat. 2470][/us/stat/123/2470]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(29), Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370]; [Pub. L. 112–81, div. A, title IX][/us/pl/112/81/dA/tIX], § 901, Dec. 31, 2011, [125 Stat. 1527][/us/stat/125/1527]; [Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 906, Jan. 2, 2013, [126 Stat. 1869][/us/stat/126/1869]; [Pub. L. 113–66, div. A, title IX][/us/pl/113/66/dA/tIX], § 901, Dec. 26, 2013, [127 Stat. 815][/us/stat/127/815]; [Pub. L. 113–283][/us/pl/113/283], § 2(e)(5)(A), Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087]; [Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 803, title IX, § 901(d), (k)(3), title X, § 1071(f)(16), Dec. 19, 2014, [128 Stat. 3427][/us/stat/128/3427], 3463, 3468, 3511; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 883(a)(1), title X, § 1081(a)(7), Nov. 25, 2015, [129 Stat. 942][/us/stat/129/942], 1001.)
 
  __Amendment of Section__ 
 
-    [Pub. L. 113–291, div. A, title IX, § 901(k)(3)][/us/pl/113/291/s901/k/3], Dec. 19, 2014, [128 Stat. 3468][/us/stat/128/3468], provided that, effective Feb. 1, 2017, this section is amended—
+    [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(k)(3), Dec. 19, 2014, [128 Stat. 3468][/us/stat/128/3468], provided that, effective Feb. 1, 2017, this section is amended—
 
     (1) in subsections (c)(2)(E), (f)(1)(D), (f)(1)(E), (f)(2)(E), and (g)(1), by striking “the Deputy Chief Management Officer of the Department of Defense” and inserting “the Under Secretary of Defense for Business Management and Information” wherever appearing; and
 
@@ -247,49 +247,49 @@
 
  __Prior Provisions__ 
 
-    A prior section 2222, added [Pub. L. 105–85, div. A, title X, § 1008(a)(1)][/us/pl/105/85/s1008/a/1], Nov. 18, 1997, [111 Stat. 1870][/us/stat/111/1870]; amended [Pub. L. 107–107, div. A, title X, § 1009(b)(1)][/us/pl/107/107/s1009/b/1]–(3)(A), Dec. 28, 2001, [115 Stat. 1208][/us/stat/115/1208], 1209, required Secretary of Defense to submit to Congress an annual strategic plan for improvement of financial management within Department of Defense and specified statements and matters to be included in the plan, prior to repeal by [Pub. L. 107–314, div. A, title X, § 1004(h)(1)][/us/pl/107/314/s1004/h/1], Dec. 2, 2002, [116 Stat. 2631][/us/stat/116/2631].
+    A prior section 2222, added [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1008(a)(1), Nov. 18, 1997, [111 Stat. 1870][/us/stat/111/1870]; amended [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1009(b)(1)–(3)(A), Dec. 28, 2001, [115 Stat. 1208][/us/stat/115/1208], 1209, required Secretary of Defense to submit to Congress an annual strategic plan for improvement of financial management within Department of Defense and specified statements and matters to be included in the plan, prior to repeal by [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1004(h)(1), Dec. 2, 2002, [116 Stat. 2631][/us/stat/116/2631].
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–92, § 883(a)(1)][/us/pl/114/92/s883/a/1], amended section generally. Prior to amendment, section related to architecture, accountability, and modernization of defense business systems.
+    2015—[Pub. L. 114–92][/us/pl/114/92], § 883(a)(1), amended section generally. Prior to amendment, section related to architecture, accountability, and modernization of defense business systems.
 
-    Subsec. (j)(5). [Pub. L. 114–92, § 1081(a)(7)][/us/pl/114/92/s1081/a/7], substituted “section 3552(b)(6)” for “section 3552(b)(5)”. Amendment was executed prior to amendment by [Pub. L. 114–92, § 883(a)(1)][/us/pl/114/92/s883/a/1], see above, pursuant to [section 1081(e) of Pub. L. 114–92][/us/pl/114/92/s1081/e], set out as a note under [section 101 of this title][/us/usc/t10/s101].
+    Subsec. (j)(5). [Pub. L. 114–92][/us/pl/114/92], § 1081(a)(7), substituted “section 3552(b)(6)” for “section 3552(b)(5)”. Amendment was executed prior to amendment by [Pub. L. 114–92][/us/pl/114/92], § 883(a)(1), see above, pursuant to [section 1081(e) of Pub. L. 114–92][/us/pl/114/92/s1081/e], set out as a note under [section 101 of this title][/us/usc/t10/s101].
 
-    2014—Subsec. (a). [Pub. L. 113–291, § 901(d)(1)][/us/pl/113/291/s901/d/1], inserted “and” at end of par. (1), substituted period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “the certification of the investment review board under paragraph (2) has been approved by the Defense Business Systems Management Committee established by [section 186 of this title][/us/usc/t10/s186].”
+    2014—Subsec. (a). [Pub. L. 113–291][/us/pl/113/291], § 901(d)(1), inserted “and” at end of par. (1), substituted period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “the certification of the investment review board under paragraph (2) has been approved by the Defense Business Systems Management Committee established by [section 186 of this title][/us/usc/t10/s186].”
 
-    Subsec. (a)(1)(A). [Pub. L. 113–291, § 803(b)(1)][/us/pl/113/291/s803/b/1], inserted “, including business process mapping,” after “re-engineering efforts”.
+    Subsec. (a)(1)(A). [Pub. L. 113–291][/us/pl/113/291], § 803(b)(1), inserted “, including business process mapping,” after “re-engineering efforts”.
 
-    Subsec. (c)(1). [Pub. L. 113–291, § 901(d)(2)][/us/pl/113/291/s901/d/2], substituted “investment review board established under subsection (g)” for “Defense Business Systems Management Committee” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 113–291][/us/pl/113/291], § 901(d)(2), substituted “investment review board established under subsection (g)” for “Defense Business Systems Management Committee” in introductory provisions.
 
-    Subsec. (c)(2)(E). [Pub. L. 113–291, § 901(k)(3)(A)][/us/pl/113/291/s901/k/3/A], which directed substitution of “the Under Secretary of Defense for Business Management and Information” for “the Deputy Chief Management Officer of the Department of Defense”, was executed by substituting “The Under Secretary of Defense for Business Management and Information” for “The Deputy Chief Management Officer of the Department of Defense”, to reflect the probable intent of Congress.
+    Subsec. (c)(2)(E). [Pub. L. 113–291][/us/pl/113/291], § 901(k)(3)(A), which directed substitution of “the Under Secretary of Defense for Business Management and Information” for “the Deputy Chief Management Officer of the Department of Defense”, was executed by substituting “The Under Secretary of Defense for Business Management and Information” for “The Deputy Chief Management Officer of the Department of Defense”, to reflect the probable intent of Congress.
 
-    Subsec. (f)(1)(D), (E). [Pub. L. 113–291, § 901(k)(3)(A)][/us/pl/113/291/s901/k/3/A], substituted “the Under Secretary of Defense for Business Management and Information” for “the Deputy Chief Management Officer of the Department of Defense”.
+    Subsec. (f)(1)(D), (E). [Pub. L. 113–291][/us/pl/113/291], § 901(k)(3)(A), substituted “the Under Secretary of Defense for Business Management and Information” for “the Deputy Chief Management Officer of the Department of Defense”.
 
-    Subsec. (f)(2)(E). [Pub. L. 113–291, § 901(k)(3)(A)][/us/pl/113/291/s901/k/3/A], which directed substitution of “the Under Secretary of Defense for Business Management and Information” for “the Deputy Chief Management Officer of the Department of Defense”, was executed by substituting “The Under Secretary of Defense for Business Management and Information” for “The Deputy Chief Management Officer of the Department of Defense”, to reflect the probable intent of Congress.
+    Subsec. (f)(2)(E). [Pub. L. 113–291][/us/pl/113/291], § 901(k)(3)(A), which directed substitution of “the Under Secretary of Defense for Business Management and Information” for “the Deputy Chief Management Officer of the Department of Defense”, was executed by substituting “The Under Secretary of Defense for Business Management and Information” for “The Deputy Chief Management Officer of the Department of Defense”, to reflect the probable intent of Congress.
 
-    Subsec. (g)(1). [Pub. L. 113–291, § 901(k)(3)(A)][/us/pl/113/291/s901/k/3/A], substituted “the Under Secretary of Defense for Business Management and Information” for “the Deputy Chief Management Officer of the Department of Defense”.
+    Subsec. (g)(1). [Pub. L. 113–291][/us/pl/113/291], § 901(k)(3)(A), substituted “the Under Secretary of Defense for Business Management and Information” for “the Deputy Chief Management Officer of the Department of Defense”.
 
-    [Pub. L. 113–291, § 901(d)(3)(A)][/us/pl/113/291/s901/d/3/A], struck out “, not later than March 15, 2012,” before “to establish an investment review board”.
+    [Pub. L. 113–291][/us/pl/113/291], § 901(d)(3)(A), struck out “, not later than March 15, 2012,” before “to establish an investment review board”.
 
-    Subsec. (g)(2)(C). [Pub. L. 113–291, § 901(d)(3)(B)][/us/pl/113/291/s901/d/3/B], substituted “the investment review” for “each investment review” in introductory provisions.
+    Subsec. (g)(2)(C). [Pub. L. 113–291][/us/pl/113/291], § 901(d)(3)(B), substituted “the investment review” for “each investment review” in introductory provisions.
 
-    Subsec. (g)(2)(F). [Pub. L. 113–291, § 901(d)(3)(C)][/us/pl/113/291/s901/d/3/C], struck out “and the Defense Business Systems Management Committee, as required by [section 186(c) of this title][/us/usc/t10/s186/c],” after “Secretary of Defense”.
+    Subsec. (g)(2)(F). [Pub. L. 113–291][/us/pl/113/291], § 901(d)(3)(C), struck out “and the Defense Business Systems Management Committee, as required by [section 186(c) of this title][/us/usc/t10/s186/c],” after “Secretary of Defense”.
 
-    Subsec. (g)(3). [Pub. L. 113–291, § 1071(f)(16)][/us/pl/113/291/s1071/f/16], struck out “(A)” after “(3)”.
+    Subsec. (g)(3). [Pub. L. 113–291][/us/pl/113/291], § 1071(f)(16), struck out “(A)” after “(3)”.
 
-    [Pub. L. 113–291, § 901(k)(3)(B)][/us/pl/113/291/s901/k/3/B], which directed substitution of “Under Secretary of Defense for Business Management and Information” for “Deputy Chief Management Officer” the first time appearing and “Under Secretary” for “Deputy Chief Management Officer” in the three other places appearing in subsec. (g)(3)(A) (effective Feb. 1, 2017), was executed by making the substitution in subsec. (g)(3), to reflect the probable intent of Congress and the amendment by [section 1071(f)(16) of Pub. L. 113–291][/us/pl/113/291/s1071/f/16] (effective Dec. 19, 2014). See above.
+    [Pub. L. 113–291][/us/pl/113/291], § 901(k)(3)(B), which directed substitution of “Under Secretary of Defense for Business Management and Information” for “Deputy Chief Management Officer” the first time appearing and “Under Secretary” for “Deputy Chief Management Officer” in the three other places appearing in subsec. (g)(3)(A) (effective Feb. 1, 2017), was executed by making the substitution in subsec. (g)(3), to reflect the probable intent of Congress and the amendment by [section 1071(f)(16) of Pub. L. 113–291][/us/pl/113/291/s1071/f/16] (effective Dec. 19, 2014). See above.
 
-    Subsec. (j)(1). [Pub. L. 113–291, § 803(a)][/us/pl/113/291/s803/a], designated existing provisions as subpar. (A), struck out “, other than a national security system,” after “information system”, and added subpar. (B).
+    Subsec. (j)(1). [Pub. L. 113–291][/us/pl/113/291], § 803(a), designated existing provisions as subpar. (A), struck out “, other than a national security system,” after “information system”, and added subpar. (B).
 
     Subsec. (j)(5). [Pub. L. 113–283][/us/pl/113/283] substituted “section 3552(b)(5)” for “section 3542(b)(2)”.
 
-    Subsec. (j)(6). [Pub. L. 113–291, § 803(b)(2)][/us/pl/113/291/s803/b/2], added par. (6).
+    Subsec. (j)(6). [Pub. L. 113–291][/us/pl/113/291], § 803(b)(2), added par. (6).
 
-    2013—Subsec. (e)(1). [Pub. L. 113–66, § 901(1)][/us/pl/113/66/s901/1], substituted “target defense business systems computing environment described in subsection (d)(3)” for “defense business enterprise architecture”.
+    2013—Subsec. (e)(1). [Pub. L. 113–66][/us/pl/113/66], § 901(1), substituted “target defense business systems computing environment described in subsection (d)(3)” for “defense business enterprise architecture”.
 
-    Subsec. (e)(2). [Pub. L. 113–66, § 901(2)][/us/pl/113/66/s901/2], substituted “that will be phased out of the defense business systems computing environment within three years after review and certification as ‘legacy systems’ by the investment management process established under subsection (g)” for “existing as of September 30, 2011 (known as ‘legacy systems’) that will not be part of the defense business enterprise architecture” and struck out “that provides for reducing the use of those legacy systems in phases” before period at end.
+    Subsec. (e)(2). [Pub. L. 113–66][/us/pl/113/66], § 901(2), substituted “that will be phased out of the defense business systems computing environment within three years after review and certification as ‘legacy systems’ by the investment management process established under subsection (g)” for “existing as of September 30, 2011 (known as ‘legacy systems’) that will not be part of the defense business enterprise architecture” and struck out “that provides for reducing the use of those legacy systems in phases” before period at end.
 
-    Subsec. (e)(3). [Pub. L. 113–66, § 901(3)][/us/pl/113/66/s901/3], substituted “existing systems that are part of the target defense business systems computing environment” for “legacy systems (referred to in subparagraph (B)) that will be a part of the target defense business systems computing environment described in subsection (d)(3)”.
+    Subsec. (e)(3). [Pub. L. 113–66][/us/pl/113/66], § 901(3), substituted “existing systems that are part of the target defense business systems computing environment” for “legacy systems (referred to in subparagraph (B)) that will be a part of the target defense business systems computing environment described in subsection (d)(3)”.
 
     Subsec. (g)(3). [Pub. L. 112–239][/us/pl/112/239] added par. (3).
 
@@ -297,13 +297,13 @@
 
     Subsec. (a). [Pub. L. 111–383][/us/pl/111/383] substituted “Funds” for “Effective October 1, 2005, funds”.
 
-    2009—Subsec. (a). [Pub. L. 111–84, § 1072(a)(1)(A)][/us/pl/111/84/s1072/a/1/A], (B), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+    2009—Subsec. (a). [Pub. L. 111–84][/us/pl/111/84], § 1072(a)(1)(A), (B), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-    Subsec. (a)(2)(A). [Pub. L. 111–84, § 1072(a)(1)(C)][/us/pl/111/84/s1072/a/1/C], added subpar. (A) and struck out former subpar. (A), which read as follows: “is in compliance with the enterprise architecture developed under subsection (c);”.
+    Subsec. (a)(2)(A). [Pub. L. 111–84][/us/pl/111/84], § 1072(a)(1)(C), added subpar. (A) and struck out former subpar. (A), which read as follows: “is in compliance with the enterprise architecture developed under subsection (c);”.
 
-    Subsec. (a)(3). [Pub. L. 111–84, § 1072(a)(1)(D)][/us/pl/111/84/s1072/a/1/D], substituted “the certification by the approval authority and the determination by the chief management officer are” for “the certification by the approval authority is”.
+    Subsec. (a)(3). [Pub. L. 111–84][/us/pl/111/84], § 1072(a)(1)(D), substituted “the certification by the approval authority and the determination by the chief management officer are” for “the certification by the approval authority is”.
 
-    Subsec. (f). [Pub. L. 111–84, § 1072(a)(2)][/us/pl/111/84/s1072/a/2], designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), in subpar. (E) substituted “subparagraphs (A) through (D)” for “paragraphs (1) through (4)”, and added par. (2).
+    Subsec. (f). [Pub. L. 111–84][/us/pl/111/84], § 1072(a)(2), designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), in subpar. (E) substituted “subparagraphs (A) through (D)” for “paragraphs (1) through (4)”, and added par. (2).
 
     2008—Subsec. (i). [Pub. L. 110–417][/us/pl/110/417] substituted “2013” for “2009” in introductory provisions.
 
@@ -311,23 +311,23 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    [Pub. L. 113–291, div. A, title IX, § 901(k)(3)][/us/pl/113/291/s901/k/3], Dec. 19, 2014, [128 Stat. 3468][/us/stat/128/3468], provided that the amendment made by section 901(k)(3) is effective on the effective date specified in [section 901(a)(1) of Pub. L. 113–291][/us/pl/113/291/s901/a/1], which is Feb. 1, 2017.
+    [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(k)(3), Dec. 19, 2014, [128 Stat. 3468][/us/stat/128/3468], provided that the amendment made by section 901(k)(3) is effective on the effective date specified in [section 901(a)(1) of Pub. L. 113–291][/us/pl/113/291/s901/a/1], which is Feb. 1, 2017.
 
  __Deadline for Guidance on Covered Defense Business Systems__ 
 
-[Pub. L. 114–92, div. A, title VIII, § 883(b)][/us/pl/114/92/s883/b], Nov. 25, 2015, [129 Stat. 947][/us/stat/129/947], provided that: 
+[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 883(b), Nov. 25, 2015, [129 Stat. 947][/us/stat/129/947], provided that: 
 
 > “The guidance required by subsection (c)(1) of [section 2222 of title 10][/us/usc/t10/s2222], United States Code, as amended by subsection (a)(1), shall be issued not later than December 31, 2016.”
 
  __Comptroller General Assessment Requirement__ 
 
-[Pub. L. 114–92, div. A, title VIII, § 883(d)(1)][/us/pl/114/92/s883/d/1], Nov. 25, 2015, [129 Stat. 947][/us/stat/129/947], provided that: 
+[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 883(d)(1), Nov. 25, 2015, [129 Stat. 947][/us/stat/129/947], provided that: 
 
 > “In each odd-numbered year, the Comptroller General of the United States shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an assessment of the extent to which the actions taken by the Department of Defense comply with the requirements of [section 2222 of title 10][/us/usc/t10/s2222], United States Code.”
 
  __Accounting Standards To Value Certain Property, Plant, and Equipment Items__ 
 
-[Pub. L. 114–92, div. A, title X, § 1002][/us/pl/114/92/s1002], Nov. 25, 2015, [129 Stat. 960][/us/stat/129/960], provided that:
+[Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1002, Nov. 25, 2015, [129 Stat. 960][/us/stat/129/960], provided that:
 
 >     “(a)  __Requirement for Certain Accounting Standards__  __.—__ 
 
@@ -339,7 +339,7 @@
 
  __Annual Audit of Financial Statements of Department of Defense Components by Independent External Auditors__ 
 
-[Pub. L. 114–92, div. A, title X, § 1005][/us/pl/114/92/s1005], Nov. 25, 2015, [129 Stat. 961][/us/stat/129/961], provided that:
+[Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1005, Nov. 25, 2015, [129 Stat. 961][/us/stat/129/961], provided that:
 
 >     “(a)  __Audits Required__  __.—__ 
 
@@ -385,19 +385,19 @@
 
  __Deadline for Establishment of Investment Review Board and Investment Management Process__ 
 
-[Pub. L. 113–291, div. A, title IX, § 901(e)][/us/pl/113/291/s901/e], Dec. 19, 2014, [128 Stat. 3464][/us/stat/128/3464], provided that: 
+[Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(e), Dec. 19, 2014, [128 Stat. 3464][/us/stat/128/3464], provided that: 
 
 > “The investment review board and investment management process required by \[former\] [section 2222(g) of title 10][/us/usc/t10/s2222/g], United States Code, as amended by subsection (d)(3), shall be established not later than March 15, 2015.”
 
  __Audit of Department of Defense Fiscal Year 2018 Financial Statements__ 
 
-[Pub. L. 113–66, div. A, title X, § 1003(a)][/us/pl/113/66/s1003/a], Dec. 26, 2013, [127 Stat. 842][/us/stat/127/842], provided that: 
+[Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1003(a), Dec. 26, 2013, [127 Stat. 842][/us/stat/127/842], provided that: 
 
 > “In addition to the requirement under section 1003(a)(2)(A)(ii) of the National Defense Authorization Act for Fiscal Year 2010 ([Public Law 111–84][/us/pl/111/84]; [10 U.S.C. 2222][/us/usc/t10/s2222] note) that the Financial Improvement and Audit Readiness Plan describe specific actions to be taken and the costs associated with ensuring that the financial statements of the Department of Defense are validated as ready for audit by not later than September 30, 2017, upon the conclusion of fiscal year 2018, the Secretary of Defense shall ensure that a full audit is performed on the financial statements of the Department of Defense for such fiscal year. The Secretary shall submit to Congress the results of that audit by not later than March 31, 2019.”
 
  __Review of Obligation and Expenditure Thresholds__ 
 
-[Pub. L. 111–383, div. A, title VIII, § 882][/us/pl/111/383/s882], Jan. 7, 2011, [124 Stat. 4308][/us/stat/124/4308], as amended by [Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that:
+[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 882, Jan. 7, 2011, [124 Stat. 4308][/us/stat/124/4308], as amended by [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(n)(1), Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that:
 
 >     “(a)  __Process Review__  __.—__ 
 
@@ -417,11 +417,11 @@
 
 >     The Deputy Chief Management Officer of the Department of Defense shall include a report on the results of the review under this section in the next update of the strategic management plan transmitted to the Committees on Armed Services of the Senate and the House of Representatives under section 904(d) of the National Defense Authorization Act for Fiscal Year 2008 ([Public Law 110–181][/us/pl/110/181]; [122 Stat. 275][/us/stat/122/275]; 10 U.S.C. note prec. 2201) after the completion of the review.”
 
-    \[[Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See [section 901(n)(1) of Pub. L. 113–291][/us/pl/113/291/s901/n/1], set out as a References note under [section 131 of this title][/us/usc/t10/s131].\]
+    \[[Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(n)(1), Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See [section 901(n)(1) of Pub. L. 113–291][/us/pl/113/291/s901/n/1], set out as a References note under [section 131 of this title][/us/usc/t10/s131].\]
 
  __Audit Readiness of Financial Statements of the Department of Defense__ 
 
-[Pub. L. 112–239, div. A, title X, § 1005(b)][/us/pl/112/239/s1005/b], Jan. 2, 2013, [126 Stat. 1904][/us/stat/126/1904], provided that:
+[Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1005(b), Jan. 2, 2013, [126 Stat. 1904][/us/stat/126/1904], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -445,7 +445,7 @@
 
 >             “(iii) a description of the plan of the military department for meeting the alternative deadline.”
 
-[Pub. L. 112–81, div. A, title X, § 1003][/us/pl/112/81/s1003], Dec. 31, 2011, [125 Stat. 1555][/us/stat/125/1555], as amended by [Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that:
+[Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1003, Dec. 31, 2011, [125 Stat. 1555][/us/stat/125/1555], as amended by [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(n)(1), Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that:
 
 >     “(a) __Planning Requirement.—__ 
 
@@ -485,9 +485,9 @@
 
 >             “(D) provide timeframes for implementation of such measures.”
 
-    \[[Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See [section 901(n)(1) of Pub. L. 113–291][/us/pl/113/291/s901/n/1], set out as a References note under [section 131 of this title][/us/usc/t10/s131].\]
+    \[[Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(n)(1), Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See [section 901(n)(1) of Pub. L. 113–291][/us/pl/113/291/s901/n/1], set out as a References note under [section 131 of this title][/us/usc/t10/s131].\]
 
-[Pub. L. 111–383, div. A, title VIII, § 881][/us/pl/111/383/s881], Jan. 7, 2011, [124 Stat. 4306][/us/stat/124/4306], as amended by [Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that:
+[Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 881, Jan. 7, 2011, [124 Stat. 4306][/us/stat/124/4306], as amended by [Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(n)(1), Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that:
 
 >     “(a) __Interim Milestones.—__ 
 
@@ -579,9 +579,9 @@
 
 >             “(B) a recommendation on whether such option should be adopted, a schedule for implementing the option if adoption is recommended, or a reason for not recommending the option if adoption is not recommended.”
 
-    \[[Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See [section 901(n)(1) of Pub. L. 113–291][/us/pl/113/291/s901/n/1], set out as a References note under [section 131 of this title][/us/usc/t10/s131].\]
+    \[[Pub. L. 113–291, div. A, title IX][/us/pl/113/291/dA/tIX], § 901(n)(1), Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See [section 901(n)(1) of Pub. L. 113–291][/us/pl/113/291/s901/n/1], set out as a References note under [section 131 of this title][/us/usc/t10/s131].\]
 
-[Pub. L. 111–84, div. A, title X, § 1003][/us/pl/111/84/s1003], Oct. 28, 2009, [123 Stat. 2439][/us/stat/123/2439], as amended by [Pub. L. 112–239, div. A, title X, § 1005(a)][/us/pl/112/239/s1005/a], Jan. 2, 2013, [126 Stat. 1904][/us/stat/126/1904]; [Pub. L. 113–66, div. A, title X, § 1003(b)][/us/pl/113/66/s1003/b], Dec. 26, 2013, [127 Stat. 842][/us/stat/127/842], provided that:
+[Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1003, Oct. 28, 2009, [123 Stat. 2439][/us/stat/123/2439], as amended by [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1005(a), Jan. 2, 2013, [126 Stat. 1904][/us/stat/126/1904]; [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1003(b), Dec. 26, 2013, [127 Stat. 842][/us/stat/127/842], provided that:
 
 >     “(a) __Financial Improvement Audit Readiness Plan.—__ 
 
@@ -659,7 +659,7 @@
 
  __Business Process Reengineering Efforts; Ongoing Programs__ 
 
-[Pub. L. 111–84, div. A, title X, § 1072(b)][/us/pl/111/84/s1072/b], Oct. 28, 2009, [123 Stat. 2471][/us/stat/123/2471], provided that:
+[Pub. L. 111–84, div. A, title X][/us/pl/111/84/dA/tX], § 1072(b), Oct. 28, 2009, [123 Stat. 2471][/us/stat/123/2471], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -757,7 +757,7 @@
 
  __Financial Management Transformation Initiative for the Defense Agencies__ 
 
-[Pub. L. 110–181, div. A, title X, § 1005][/us/pl/110/181/s1005], Jan. 28, 2008, [122 Stat. 301][/us/stat/122/301], provided that:
+[Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1005, Jan. 28, 2008, [122 Stat. 301][/us/stat/122/301], provided that:
 
 >     “(a) __Financial Management Transformation Initiative.—__ 
 
@@ -841,7 +841,7 @@
 
  __Limitation on Financial Management Improvement and Audit Initiatives Within the Department of Defense__ 
 
-[Pub. L. 109–364, div. A, title III, § 321][/us/pl/109/364/s321], Oct. 17, 2006, [120 Stat. 2144][/us/stat/120/2144], as amended by [Pub. L. 111–383, div. A, title X, § 1075(g)(1)][/us/pl/111/383/s1075/g/1], Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376], provided that:
+[Pub. L. 109–364, div. A, title III][/us/pl/109/364/dA/tIII], § 321, Oct. 17, 2006, [120 Stat. 2144][/us/stat/120/2144], as amended by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(g)(1), Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376], provided that:
 
 >     “(a)  __Limitation__  __.—__ 
 
@@ -857,7 +857,7 @@
 
  __Time-Certain Development for Department of Defense Information Technology Business Systems__ 
 
-    [Pub. L. 109–364, div. A, title VIII, § 811][/us/pl/109/364/s811], Oct. 17, 2006, [120 Stat. 2316][/us/stat/120/2316], which provided limitations for Milestone A approval and initial operational capability regarding certain Department of Defense information technology business systems, was repealed by [Pub. L. 114–92, div. A, title VIII, § 883(c)][/us/pl/114/92/s883/c], Nov. 25, 2015, [129 Stat. 947][/us/stat/129/947].
+    [Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 811, Oct. 17, 2006, [120 Stat. 2316][/us/stat/120/2316], which provided limitations for Milestone A approval and initial operational capability regarding certain Department of Defense information technology business systems, was repealed by [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 883(c), Nov. 25, 2015, [129 Stat. 947][/us/stat/129/947].
 
 ----------
 
@@ -872,119 +872,119 @@
 [/us/usc/t44/s3601/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3601%2F4
 [/us/usc/t40/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101
 [/us/usc/t44/s3552/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552%2Fb%2F6%2FA
-[/us/pl/108/375/s332/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs332%2Fa%2F1
+[/us/pl/108/375/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtIII
 [/us/stat/118/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1851
-[/us/pl/109/364/s906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs906%2Fa
+[/us/pl/109/364/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIX
 [/us/stat/120/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2354
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4425
-[/us/pl/111/84/s1072/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1072%2Fa
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2470
-[/us/pl/111/383/s1075/b/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F29
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4370
-[/us/pl/112/81/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs901
+[/us/pl/112/81/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIX
 [/us/stat/125/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1527
-[/us/pl/112/239/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs906
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
 [/us/stat/126/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1869
-[/us/pl/113/66/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs901
+[/us/pl/113/66/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIX
 [/us/stat/127/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F815
-[/us/pl/113/283/s2/e/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fe%2F5%2FA
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/stat/128/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3087
-[/us/pl/113/291/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs803
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3427
-[/us/pl/114/92/s883/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs883%2Fa%2F1
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F942
-[/us/pl/113/291/s901/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fk%2F3
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3468
-[/us/pl/105/85/s1008/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1008%2Fa%2F1
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1870
-[/us/pl/107/107/s1009/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1009%2Fb%2F1
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1208
-[/us/pl/107/314/s1004/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1004%2Fh%2F1
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2631
-[/us/pl/114/92/s883/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs883%2Fa%2F1
-[/us/pl/114/92/s1081/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F7
-[/us/pl/114/92/s883/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs883%2Fa%2F1
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/114/92/s1081/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fe
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/113/291/s901/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fd%2F1
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t10/s186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs186
-[/us/pl/113/291/s803/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs803%2Fb%2F1
-[/us/pl/113/291/s901/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fd%2F2
-[/us/pl/113/291/s901/k/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fk%2F3%2FA
-[/us/pl/113/291/s901/k/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fk%2F3%2FA
-[/us/pl/113/291/s901/k/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fk%2F3%2FA
-[/us/pl/113/291/s901/k/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fk%2F3%2FA
-[/us/pl/113/291/s901/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fd%2F3%2FA
-[/us/pl/113/291/s901/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fd%2F3%2FB
-[/us/pl/113/291/s901/d/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fd%2F3%2FC
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t10/s186/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs186%2Fc
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/291/s1071/f/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F16
-[/us/pl/113/291/s901/k/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fk%2F3%2FB
-[/us/pl/113/291/s1071/f/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F16
-[/us/pl/113/291/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs803%2Fa
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
-[/us/pl/113/291/s803/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs803%2Fb%2F2
-[/us/pl/113/66/s901/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs901%2F1
-[/us/pl/113/66/s901/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs901%2F2
-[/us/pl/113/66/s901/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs901%2F3
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/111/84/s1072/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1072%2Fa%2F1%2FA
-[/us/pl/111/84/s1072/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1072%2Fa%2F1%2FC
-[/us/pl/111/84/s1072/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1072%2Fa%2F1%2FD
-[/us/pl/111/84/s1072/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1072%2Fa%2F2
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t44/s3542/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542%2Fb%2F2
 [/us/usc/t10/s2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2315
-[/us/pl/113/291/s901/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fk%2F3
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3468
 [/us/pl/113/291/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fa%2F1
-[/us/pl/114/92/s883/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs883%2Fb
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F947
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
-[/us/pl/114/92/s883/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs883%2Fd%2F1
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F947
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
-[/us/pl/114/92/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1002
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F960
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/stat/127/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F842
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
-[/us/pl/114/92/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1005
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F961
 [/us/usc/t31/s3521/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3521%2Fe
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
 [/us/usc/t31/s3521/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3521%2Fe
 [/us/usc/t31/s3521/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3521%2Fg
-[/us/pl/113/291/s901/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fe
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3464
 [/us/usc/t10/s2222/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222%2Fg
-[/us/pl/113/66/s1003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1003%2Fa
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F842
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
-[/us/pl/111/383/s882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs882
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4308
-[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/stat/122/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F275
-[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
 [/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
 [/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
-[/us/pl/112/239/s1005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1005%2Fb
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1904
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/stat/123/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2439
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
-[/us/pl/112/81/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1003
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1555
-[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/stat/123/2440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2440
@@ -998,13 +998,13 @@
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/stat/121/4306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F4306
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
-[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
 [/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
 [/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
-[/us/pl/111/383/s881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs881
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4306
-[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/stat/123/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2439
@@ -1024,21 +1024,21 @@
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/stat/123/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2439
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
-[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
+[/us/pl/113/291/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIX
 [/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
 [/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
 [/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
-[/us/pl/111/84/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1003
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2439
-[/us/pl/112/239/s1005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1005%2Fa
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1904
-[/us/pl/113/66/s1003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1003%2Fb
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F842
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/stat/115/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1204
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
-[/us/pl/111/84/s1072/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1072%2Fb
+[/us/pl/111/84/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtX
 [/us/stat/123/2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2471
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
@@ -1047,20 +1047,20 @@
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t31/s3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3512
-[/us/pl/110/181/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1005
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F301
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t31/s3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3512
-[/us/pl/109/364/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs321
+[/us/pl/109/364/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtIII
 [/us/stat/120/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2144
-[/us/pl/111/383/s1075/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fg%2F1
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4376
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/stat/119/3213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3213
-[/us/pl/109/364/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs811
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2316
-[/us/pl/114/92/s883/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs883%2Fc
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F947
 
 

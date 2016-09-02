@@ -31,7 +31,7 @@
 
         (2) establishes a plan to implement the requirement for fiscal year 2018.
 
-(Added [Pub. L. 113–291, div. A, title XVI, § 1631(a)(1)][/us/pl/113/291/s1631/a/1], Dec. 19, 2014, [128 Stat. 3637][/us/stat/128/3637].)
+(Added [Pub. L. 113–291, div. A, title XVI][/us/pl/113/291/dA/tXVI], § 1631(a)(1), Dec. 19, 2014, [128 Stat. 3637][/us/stat/128/3637].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/113/291/s1631/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1631%2Fa%2F1
+[/us/pl/113/291/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXVI
 [/us/stat/128/3637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3637
 
 

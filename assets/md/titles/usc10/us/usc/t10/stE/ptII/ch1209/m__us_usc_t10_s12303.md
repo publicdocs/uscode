@@ -35,7 +35,7 @@
 
         (2) employment necessary to maintain the national health, safety, or interest.
 
-(Added [Pub. L. 90–40, § 6(1)][/us/pl/90/40/s6/1], June 30, 1967, [81 Stat. 105][/us/stat/81/105], § 673a; renumbered § 12303, [Pub. L. 103–337, div. A, title XVI, § 1662(e)(2)][/us/pl/103/337/s1662/e/2], Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992].)
+(Added [Pub. L. 90–40][/us/pl/90/40], § 6(1), June 30, 1967, [81 Stat. 105][/us/stat/81/105], § 673a; renumbered § 12303, [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(e)(2), Oct. 5, 1994, [108 Stat. 2992][/us/stat/108/2992].)
 
  __Amendments__ 
 
@@ -82,9 +82,9 @@
 ----------
 ----------
 
-[/us/pl/90/40/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40%2Fs6%2F1
+[/us/pl/90/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F40
 [/us/stat/81/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F105
-[/us/pl/103/337/s1662/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fe%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2992
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s673a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs673a

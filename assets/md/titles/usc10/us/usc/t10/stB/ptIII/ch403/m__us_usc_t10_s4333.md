@@ -25,7 +25,7 @@
 
     (e) No graduate of the Academy may be appointed or detailed to serve at the Academy as a professor or instructor, or as an assistant to a professor or instructor, within two years after his graduation.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 238][/us/stat/70A/238]; [Pub. L. 85–600, § 1(9)][/us/pl/85/600/s1/9], Aug. 6, 1958, [72 Stat. 522][/us/stat/72/522]; [Pub. L. 95–551, § 2][/us/pl/95/551/s2], Oct. 30, 1978, [92 Stat. 2069][/us/stat/92/2069]; [Pub. L. 96–513, title V, § 502(24)][/us/pl/96/513/s502/24], Dec. 12, 1980, [94 Stat. 2910][/us/stat/94/2910].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 238][/us/stat/70A/238]; [Pub. L. 85–600][/us/pl/85/600], § 1(9), Aug. 6, 1958, [72 Stat. 522][/us/stat/72/522]; [Pub. L. 95–551][/us/pl/95/551], § 2, Oct. 30, 1978, [92 Stat. 2069][/us/stat/92/2069]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 502(24), Dec. 12, 1980, [94 Stat. 2910][/us/stat/94/2910].)
 
 <table>
 
@@ -105,9 +105,9 @@ In subsection (a), the word “detailed” is substituted for the word “select
 
  __Detail of Retired Officer as Librarian__ 
 
-Provisions authorizing the performance of the duties of the librarian at the United States Military Academy by a retired officer detailed on active duty, which were contained in [Pub. L. 85–724, title III][/us/pl/85/724], Aug. 22, 1958, [72 Stat. 714][/us/stat/72/714], the Department of Defense Appropriation Act, 1959, were not contained in subsequent appropriation acts. Similar provisions were contained in the following prior acts:
+Provisions authorizing the performance of the duties of the librarian at the United States Military Academy by a retired officer detailed on active duty, which were contained in [Pub. L. 85–724, title III][/us/pl/85/724/tIII], Aug. 22, 1958, [72 Stat. 714][/us/stat/72/714], the Department of Defense Appropriation Act, 1959, were not contained in subsequent appropriation acts. Similar provisions were contained in the following prior acts:
 
-    Aug. 2, 1957, [Pub. L. 85–117, title III][/us/pl/85/117], [71 Stat. 313][/us/stat/71/313].
+    Aug. 2, 1957, [Pub. L. 85–117, title III][/us/pl/85/117/tIII], [71 Stat. 313][/us/stat/71/313].
 
     [July 2, 1956, ch. 488][/us/act/1956-07-02/ch488], title III, [70 Stat. 456][/us/stat/70/456].
 
@@ -164,11 +164,11 @@ Provisions authorizing the performance of the duties of the librarian at the Uni
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F238
-[/us/pl/85/600/s1/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F600%2Fs1%2F9
+[/us/pl/85/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F600
 [/us/stat/72/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F522
-[/us/pl/95/551/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F551%2Fs2
+[/us/pl/95/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F551
 [/us/stat/92/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2069
-[/us/pl/96/513/s502/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs502%2F24
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2910
 [/us/usc/t10/s4349/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4349%2Fb
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
@@ -177,9 +177,9 @@ Provisions authorizing the performance of the duties of the librarian at the Uni
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/85/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F724
+[/us/pl/85/724/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F724%2FtIII
 [/us/stat/72/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F714
-[/us/pl/85/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F117
+[/us/pl/85/117/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F117%2FtIII
 [/us/stat/71/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F313
 [/us/act/1956-07-02/ch488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-02%2Fch488
 [/us/stat/70/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F456

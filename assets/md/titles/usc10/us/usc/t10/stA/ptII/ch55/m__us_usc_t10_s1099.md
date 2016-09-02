@@ -43,11 +43,11 @@
 
     The Secretary of Defense, after consultation with the other administering Secretaries, shall prescribe regulations to carry out this section.
 
-(Added [Pub. L. 99–661, div. A, title VII, § 701(a)(1)][/us/pl/99/661/s701/a/1], Nov. 14, 1986, [100 Stat. 3896][/us/stat/100/3896].)
+(Added [Pub. L. 99–661, div. A, title VII][/us/pl/99/661/dA/tVII], § 701(a)(1), Nov. 14, 1986, [100 Stat. 3896][/us/stat/100/3896].)
 
  __Regulations__ 
 
-[Pub. L. 99–661, div. A, title VII, § 701(d)(1)][/us/pl/99/661/s701/d/1], (2), Nov. 14, 1986, [100 Stat. 3898][/us/stat/100/3898], provided that:
+[Pub. L. 99–661, div. A, title VII][/us/pl/99/661/dA/tVII], § 701(d)(1), (2), Nov. 14, 1986, [100 Stat. 3898][/us/stat/100/3898], provided that:
 
 >     “(1)
 
@@ -67,7 +67,7 @@
 
  __Reports to Congress__ 
 
-    [Pub. L. 99–661, div. A, title VII, § 701(c)(1)][/us/pl/99/661/s701/c/1], Nov. 14, 1986, [100 Stat. 3898][/us/stat/100/3898], required Secretary of Defense, not later than July 1, 1987, to submit to Congress a report detailing any plans to establish or implement a system of health care enrollment (other than as required under section 702(a)(2)(C)) under [section 1099(a) of this title][/us/usc/t10/s1099/a] and the plan of the Secretary for completing implementation of such system.
+    [Pub. L. 99–661, div. A, title VII][/us/pl/99/661/dA/tVII], § 701(c)(1), Nov. 14, 1986, [100 Stat. 3898][/us/stat/100/3898], required Secretary of Defense, not later than July 1, 1987, to submit to Congress a report detailing any plans to establish or implement a system of health care enrollment (other than as required under section 702(a)(2)(C)) under [section 1099(a) of this title][/us/usc/t10/s1099/a] and the plan of the Secretary for completing implementation of such system.
 
 ----------
 
@@ -76,13 +76,13 @@
 ----------
 ----------
 
-[/us/pl/99/661/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs701%2Fa%2F1
+[/us/pl/99/661/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVII
 [/us/stat/100/3896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3896
-[/us/pl/99/661/s701/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs701%2Fd%2F1
+[/us/pl/99/661/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVII
 [/us/stat/100/3898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3898
 [/us/usc/t10/s1099/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1099%2Fd
 [/us/usc/t10/s1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1073
-[/us/pl/99/661/s701/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs701%2Fc%2F1
+[/us/pl/99/661/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVII
 [/us/stat/100/3898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3898
 [/us/usc/t10/s1099/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1099%2Fa
 

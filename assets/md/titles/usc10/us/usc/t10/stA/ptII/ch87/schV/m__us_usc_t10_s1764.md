@@ -41,17 +41,17 @@
 
     In this section, the term “contract contingency force”, with respect to an armed force, has the meaning given such term in regulations prescribed by the Secretary concerned.
 
-(Added [Pub. L. 108–136, div. A, title VIII, § 835(2)][/us/pl/108/136/s835/2], Nov. 24, 2003, [117 Stat. 1551][/us/stat/117/1551]; amended [Pub. L. 108–375, div. A, title VIII, § 812(c)][/us/pl/108/375/s812/c], Oct. 28, 2004, [118 Stat. 2013][/us/stat/118/2013].)
+(Added [Pub. L. 108–136, div. A, title VIII][/us/pl/108/136/dA/tVIII], § 835(2), Nov. 24, 2003, [117 Stat. 1551][/us/stat/117/1551]; amended [Pub. L. 108–375, div. A, title VIII][/us/pl/108/375/dA/tVIII], § 812(c), Oct. 28, 2004, [118 Stat. 2013][/us/stat/118/2013].)
 
  __Prior Provisions__ 
 
-    A prior section 1764, added [Pub. L. 101–510, div. A, title XII, § 1202(a)][/us/pl/101/510/s1202/a], Nov. 5, 1990, [104 Stat. 1656][/us/stat/104/1656], related to authority to establish different minimum experience requirements, prior to repeal by [Pub. L. 107–107, div. A, title X, § 1048(e)(7)(A)][/us/pl/107/107/s1048/e/7/A], Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227].
+    A prior section 1764, added [Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1202(a), Nov. 5, 1990, [104 Stat. 1656][/us/stat/104/1656], related to authority to establish different minimum experience requirements, prior to repeal by [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(e)(7)(A), Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227].
 
  __Amendments__ 
 
-    2004—Subsec. (b)(1). [Pub. L. 108–375, § 812(c)(2)][/us/pl/108/375/s812/c/2], substituted “in paragraph (6)” for “in paragraph (5)”.
+    2004—Subsec. (b)(1). [Pub. L. 108–375][/us/pl/108/375], § 812(c)(2), substituted “in paragraph (6)” for “in paragraph (5)”.
 
-    Subsec. (b)(5), (6). [Pub. L. 108–375, § 812(c)(1)][/us/pl/108/375/s812/c/1], added par. (5) and redesignated former par. (5) as (6).
+    Subsec. (b)(5), (6). [Pub. L. 108–375][/us/pl/108/375], § 812(c)(1), added par. (5) and redesignated former par. (5) as (6).
 
 ----------
 
@@ -60,15 +60,15 @@
 ----------
 ----------
 
-[/us/pl/108/136/s835/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs835%2F2
+[/us/pl/108/136/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVIII
 [/us/stat/117/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1551
-[/us/pl/108/375/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs812%2Fc
+[/us/pl/108/375/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVIII
 [/us/stat/118/2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2013
-[/us/pl/101/510/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1202%2Fa
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1656
-[/us/pl/107/107/s1048/e/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fe%2F7%2FA
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1227
-[/us/pl/108/375/s812/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs812%2Fc%2F2
-[/us/pl/108/375/s812/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs812%2Fc%2F1
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 
 

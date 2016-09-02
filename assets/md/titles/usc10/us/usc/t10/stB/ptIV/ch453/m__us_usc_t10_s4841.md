@@ -17,7 +17,7 @@
 
     When authorized by the Secretary of the Army, a disbursing official of Army subsistence funds may keep a limited amount of those funds in the personal possession and at the risk of the disbursing official to pay small amounts to public creditors.
 
-(Added [Pub. L. 97–258, § 2(b)(10)(B)][/us/pl/97/258/s2/b/10/B], Sept. 13, 1982, [96 Stat. 1056][/us/stat/96/1056].)
+(Added [Pub. L. 97–258][/us/pl/97/258], § 2(b)(10)(B), Sept. 13, 1982, [96 Stat. 1056][/us/stat/96/1056].)
 
 <table>
 
@@ -72,7 +72,7 @@ Mar. 2, 1907, ch. 251 (proviso on p. 1166), 34 Stat. 1166.  </td>
 ----------
 ----------
 
-[/us/pl/97/258/s2/b/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fb%2F10%2FB
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1056
 [/us/act/1947-07-26/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fs205%2Fa
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501

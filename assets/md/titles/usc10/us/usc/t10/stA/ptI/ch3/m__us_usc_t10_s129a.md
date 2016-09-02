@@ -75,15 +75,15 @@
 
         (5) the imposition of a civilian hiring freeze that may inhibit the implementation of the policies and procedures established under subsection (a).
 
-(Added [Pub. L. 101–510, div. A, title XIV, § 1483(b)(2)][/us/pl/101/510/s1483/b/2], Nov. 5, 1990, [104 Stat. 1715][/us/stat/104/1715]; amended [Pub. L. 112–81, div. A, title IX, § 931(a)][/us/pl/112/81/s931/a], Dec. 31, 2011, [125 Stat. 1541][/us/stat/125/1541].)
+(Added [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1483(b)(2), Nov. 5, 1990, [104 Stat. 1715][/us/stat/104/1715]; amended [Pub. L. 112–81, div. A, title IX][/us/pl/112/81/dA/tIX], § 931(a), Dec. 31, 2011, [125 Stat. 1541][/us/stat/125/1541].)
 
  __References in Text__ 
 
-    [Section 118b of this title][/us/usc/t10/s118b], referred to in subsec. (b), was repealed by [Pub. L. 113–291, div. A, title X, § 1072(b)(1)][/us/pl/113/291/s1072/b/1], Dec. 19, 2014, [128 Stat. 3516][/us/stat/128/3516].
+    [Section 118b of this title][/us/usc/t10/s118b], referred to in subsec. (b), was repealed by [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1072(b)(1), Dec. 19, 2014, [128 Stat. 3516][/us/stat/128/3516].
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 115(b)(5) of this title][/us/usc/t10/s115/b/5], prior to repeal by [Pub. L. 101–510, § 1483(a)][/us/pl/101/510/s1483/a].
+    Provisions similar to those in this section were contained in [section 115(b)(5) of this title][/us/usc/t10/s115/b/5], prior to repeal by [Pub. L. 101–510][/us/pl/101/510], § 1483(a).
 
  __Amendments__ 
 
@@ -95,7 +95,7 @@
 
  __Strategic Policy for the Retrograde, Reconstitution, and Replacement of Operating Forces Used To Support Overseas Contingency Operations__ 
 
-[Pub. L. 113–66, div. A, title III, § 324][/us/pl/113/66/s324], Dec. 26, 2013, [127 Stat. 733][/us/stat/127/733], provided that:
+[Pub. L. 113–66, div. A, title III][/us/pl/113/66/dA/tIII], § 324, Dec. 26, 2013, [127 Stat. 733][/us/stat/127/733], provided that:
 
 >     “(a) __Establishment of Policy.—__ 
 
@@ -143,7 +143,7 @@
 
  __Savings To Be Achieved in Civilian Personnel Workforce and Service Contractor Workforce of the Department of Defense__ 
 
-[Pub. L. 112–239, div. A, title IX, § 955][/us/pl/112/239/s955], Jan. 2, 2013, [126 Stat. 1896][/us/stat/126/1896], provided that:
+[Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 955, Jan. 2, 2013, [126 Stat. 1896][/us/stat/126/1896], provided that:
 
 >     “(a)  __Required Plan__  __.—__ 
 
@@ -217,31 +217,31 @@
 
  __Conversion of Military Positions to Civilian Positions__ 
 
-    [Pub. L. 104–106, div. A, title X, § 1032][/us/pl/104/106/s1032], Feb. 10, 1996, [110 Stat. 429][/us/stat/110/429], as amended by [Pub. L. 104–201, div. A, title XVI, § 1601][/us/pl/104/201/s1601], Sept. 23, 1996, [110 Stat. 2734][/us/stat/110/2734], directed Secretary of Defense, by Sept. 30, 1996, to convert at least 3,000 military positions to civilian positions and, not later than Mar. 31, 1996, submit to Congress a plan for the implementation of conversion.
+    [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1032, Feb. 10, 1996, [110 Stat. 429][/us/stat/110/429], as amended by [Pub. L. 104–201, div. A, title XVI][/us/pl/104/201/dA/tXVI], § 1601, Sept. 23, 1996, [110 Stat. 2734][/us/stat/110/2734], directed Secretary of Defense, by Sept. 30, 1996, to convert at least 3,000 military positions to civilian positions and, not later than Mar. 31, 1996, submit to Congress a plan for the implementation of conversion.
 
  __Prohibition on Use of Funds To Assign Supervisor’s Title or Grade Based Upon Number of People Supervised__ 
 
-[Pub. L. 104–61, title VIII, § 8031][/us/pl/104/61/s8031], Dec. 1, 1995, [109 Stat. 658][/us/stat/109/658], provided that: 
+[Pub. L. 104–61, title VIII][/us/pl/104/61/tVIII], § 8031, Dec. 1, 1995, [109 Stat. 658][/us/stat/109/658], provided that: 
 
 > “None of the funds appropriated during the current fiscal year and hereafter, may be used by the Department of Defense to assign a supervisor’s title or grade when the number of people he or she supervises is considered as a basis for this determination: Provided, That savings that result from this provision are represented as such in future budget proposals.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 103–335, title VIII, § 8036][/us/pl/103/335/s8036], Sept. 30, 1994, [108 Stat. 2626][/us/stat/108/2626].
+    [Pub. L. 103–335, title VIII][/us/pl/103/335/tVIII], § 8036, Sept. 30, 1994, [108 Stat. 2626][/us/stat/108/2626].
 
-    [Pub. L. 103–139, title VIII, § 8040][/us/pl/103/139/s8040], Nov. 11, 1993, [107 Stat. 1449][/us/stat/107/1449].
+    [Pub. L. 103–139, title VIII][/us/pl/103/139/tVIII], § 8040, Nov. 11, 1993, [107 Stat. 1449][/us/stat/107/1449].
 
-    [Pub. L. 102–396, title IX, § 9053][/us/pl/102/396/s9053], Oct. 6, 1992, [106 Stat. 1914][/us/stat/106/1914].
+    [Pub. L. 102–396, title IX][/us/pl/102/396/tIX], § 9053, Oct. 6, 1992, [106 Stat. 1914][/us/stat/106/1914].
 
-    [Pub. L. 102–172, title VIII, § 8055][/us/pl/102/172/s8055], Nov. 26, 1991, [105 Stat. 1184][/us/stat/105/1184].
+    [Pub. L. 102–172, title VIII][/us/pl/102/172/tVIII], § 8055, Nov. 26, 1991, [105 Stat. 1184][/us/stat/105/1184].
 
-    [Pub. L. 101–511, title VIII, § 8063][/us/pl/101/511/s8063], Nov. 5, 1990, [104 Stat. 1888][/us/stat/104/1888].
+    [Pub. L. 101–511, title VIII][/us/pl/101/511/tVIII], § 8063, Nov. 5, 1990, [104 Stat. 1888][/us/stat/104/1888].
 
-    [Pub. L. 101–165, title IX, § 9085][/us/pl/101/165/s9085], Nov. 21, 1989, [103 Stat. 1147][/us/stat/103/1147].
+    [Pub. L. 101–165, title IX][/us/pl/101/165/tIX], § 9085, Nov. 21, 1989, [103 Stat. 1147][/us/stat/103/1147].
 
-    [Pub. L. 100–463, title VIII, § 8079][/us/pl/100/463/s8079], Oct. 1, 1988, [102 Stat. 2270–30][/us/stat/102/2270-30].
+    [Pub. L. 100–463, title VIII][/us/pl/100/463/tVIII], § 8079, Oct. 1, 1988, [102 Stat. 2270–30][/us/stat/102/2270-30].
 
-    [Pub. L. 100–202, § 101(b)][/us/pl/100/202/s101/b] \[title VIII, § 8105\], Dec. 22, 1987, [101 Stat. 1329–43][/us/stat/101/1329-43], 1329–81.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(b) \[title VIII, § 8105\], Dec. 22, 1987, [101 Stat. 1329–43][/us/stat/101/1329-43], 1329–81.
 
 ----------
 
@@ -259,45 +259,45 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t10/s2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2463
 [/us/usc/t10/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2461
 [/us/usc/t10/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2461
-[/us/pl/101/510/s1483/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1483%2Fb%2F2
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1715
-[/us/pl/112/81/s931/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs931%2Fa
+[/us/pl/112/81/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIX
 [/us/stat/125/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1541
 [/us/usc/t10/s118b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs118b
-[/us/pl/113/291/s1072/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1072%2Fb%2F1
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3516
 [/us/usc/t10/s115/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs115%2Fb%2F5
-[/us/pl/101/510/s1483/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1483%2Fa
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t10/s115a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs115a
-[/us/pl/113/66/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs324
+[/us/pl/113/66/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIII
 [/us/stat/127/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F733
-[/us/pl/112/239/s955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs955
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
 [/us/stat/126/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1896
 [/us/usc/t10/s129a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs129a
 [/us/usc/t10/s2464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2464
 [/us/usc/t10/s2330/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2330%2Fc%2F2
-[/us/pl/104/106/s1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1032
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F429
-[/us/pl/104/201/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1601
+[/us/pl/104/201/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXVI
 [/us/stat/110/2734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2734
-[/us/pl/104/61/s8031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F61%2Fs8031
+[/us/pl/104/61/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F61%2FtVIII
 [/us/stat/109/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F658
-[/us/pl/103/335/s8036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F335%2Fs8036
+[/us/pl/103/335/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F335%2FtVIII
 [/us/stat/108/2626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2626
-[/us/pl/103/139/s8040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F139%2Fs8040
+[/us/pl/103/139/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F139%2FtVIII
 [/us/stat/107/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1449
-[/us/pl/102/396/s9053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9053
+[/us/pl/102/396/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2FtIX
 [/us/stat/106/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1914
-[/us/pl/102/172/s8055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2Fs8055
+[/us/pl/102/172/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2FtVIII
 [/us/stat/105/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1184
-[/us/pl/101/511/s8063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F511%2Fs8063
+[/us/pl/101/511/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F511%2FtVIII
 [/us/stat/104/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1888
-[/us/pl/101/165/s9085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2Fs9085
+[/us/pl/101/165/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2FtIX
 [/us/stat/103/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1147
-[/us/pl/100/463/s8079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F463%2Fs8079
+[/us/pl/100/463/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F463%2FtVIII
 [/us/stat/102/2270-30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2270-30
-[/us/pl/100/202/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fb
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-43
 
 

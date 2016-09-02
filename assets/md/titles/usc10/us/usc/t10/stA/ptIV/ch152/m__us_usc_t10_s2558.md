@@ -51,7 +51,7 @@
 
     The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added [Pub. L. 101–189, div. A, title III, § 329(a)(1)][/us/pl/101/189/s329/a/1], Nov. 29, 1989, [103 Stat. 1417][/us/stat/103/1417], § 2548; renumbered § 2558, [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1033(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–260.)
+(Added [Pub. L. 101–189, div. A, title III][/us/pl/101/189/dA/tIII], § 329(a)(1), Nov. 29, 1989, [103 Stat. 1417][/us/stat/103/1417], § 2548; renumbered § 2558, [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1033(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–260.)
 
  __Amendments__ 
 
@@ -59,7 +59,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–189, div. A, title III, § 329(b)][/us/pl/101/189/s329/b], Nov. 29, 1989, [103 Stat. 1417][/us/stat/103/1417], provided that: 
+[Pub. L. 101–189, div. A, title III][/us/pl/101/189/dA/tIII], § 329(b), Nov. 29, 1989, [103 Stat. 1417][/us/stat/103/1417], provided that: 
 
 > “Section 2548 \[now 2558\] of title 10, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Nov. 29, 1989\].”
 
@@ -70,13 +70,13 @@
 ----------
 ----------
 
-[/us/pl/101/189/s329/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs329%2Fa%2F1
+[/us/pl/101/189/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIII
 [/us/stat/103/1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1417
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t10/s2548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2548
-[/us/pl/101/189/s329/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs329%2Fb
+[/us/pl/101/189/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIII
 [/us/stat/103/1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1417
 
 

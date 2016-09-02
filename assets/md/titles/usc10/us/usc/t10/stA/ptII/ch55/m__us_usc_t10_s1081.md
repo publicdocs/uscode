@@ -17,7 +17,7 @@
 
     Each plan under [section 1079 of this title][/us/usc/t10/s1079] shall provide for a review, and if necessary an adjustment of payments, by the appropriate administering Secretary, not later than 120 days after the close of each year the plan is in effect.
 
-(Added [Pub. L. 85–861, § 1(25)(B)][/us/pl/85/861/s1/25/B], Sept. 2, 1958, [72 Stat. 1449][/us/stat/72/1449]; amended [Pub. L. 96–513, title V, § 511(36)][/us/pl/96/513/s511/36], Dec. 12, 1980, [94 Stat. 2923][/us/stat/94/2923]; [Pub. L. 97–375, title I, § 104(a)][/us/pl/97/375/s104/a], Dec. 21, 1982, [96 Stat. 1819][/us/stat/96/1819]; [Pub. L. 98–94, title XII, § 1268(5)(A)][/us/pl/98/94/s1268/5/A], Sept. 24, 1983, [97 Stat. 706][/us/stat/97/706]; [Pub. L. 98–557, § 19(9)][/us/pl/98/557/s19/9], Oct. 30, 1984, [98 Stat. 2870][/us/stat/98/2870].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(25)(B), Sept. 2, 1958, [72 Stat. 1449][/us/stat/72/1449]; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(36), Dec. 12, 1980, [94 Stat. 2923][/us/stat/94/2923]; [Pub. L. 97–375, title I][/us/pl/97/375/tI], § 104(a), Dec. 21, 1982, [96 Stat. 1819][/us/stat/96/1819]; [Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1268(5)(A), Sept. 24, 1983, [97 Stat. 706][/us/stat/97/706]; [Pub. L. 98–557][/us/pl/98/557], § 19(9), Oct. 30, 1984, [98 Stat. 2870][/us/stat/98/2870].)
 
 <table>
 
@@ -67,7 +67,7 @@ June 7, 1956, ch. 374, § 202, 70 Stat. 253.  </td>
 
  __Prior Provisions__ 
 
-    A prior section 1081, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 86][/us/stat/70A/86], related to notification of elections, prior to repeal by [Pub. L. 85–861, § 36B(5)][/us/pl/85/861/s36B/5], Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570], as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+    A prior section 1081, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 86][/us/stat/70A/86], related to notification of elections, prior to repeal by [Pub. L. 85–861][/us/pl/85/861], § 36B(5), Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570], as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
  __Amendments__ 
 
@@ -91,20 +91,20 @@ June 7, 1956, ch. 374, § 202, 70 Stat. 253.  </td>
 ----------
 
 [/us/usc/t10/s1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079
-[/us/pl/85/861/s1/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F25%2FB
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1449
-[/us/pl/96/513/s511/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F36
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2923
-[/us/pl/97/375/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs104%2Fa
+[/us/pl/97/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtI
 [/us/stat/96/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1819
-[/us/pl/98/94/s1268/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1268%2F5%2FA
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F706
-[/us/pl/98/557/s19/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs19%2F9
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2870
 [/us/usc/t10/s1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F86
-[/us/pl/85/861/s36B/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs36B%2F5
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1570
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94

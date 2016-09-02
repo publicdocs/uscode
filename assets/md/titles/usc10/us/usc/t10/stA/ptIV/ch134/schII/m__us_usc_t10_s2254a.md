@@ -49,7 +49,7 @@
 
     Each determination of the Secretary, or the Secretary’s designee, under subsection (a) shall be made in writing and accompanied by a statement of the basis for the determination. All such determinations and statements of basis shall be available to the public, upon request, through the Office of the Director of Administration and Management.
 
-(Added [Pub. L. 112–81, div. A, title X, § 1082(a)(1)][/us/pl/112/81/s1082/a/1], Dec. 31, 2011, [125 Stat. 1600][/us/stat/125/1600].)
+(Added [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1082(a)(1), Dec. 31, 2011, [125 Stat. 1600][/us/stat/125/1600].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 112–81, div. A, title X, § 1082(b)][/us/pl/112/81/s1082/b], Dec. 31, 2011, [125 Stat. 1601][/us/stat/125/1601], provided that: 
+[Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1082(b), Dec. 31, 2011, [125 Stat. 1601][/us/stat/125/1601], provided that: 
 
 > “[Section 2254a of title 10][/us/usc/t10/s2254a], United States Code, as added by subsection (a), shall apply to any information entered into any data file of the military flight operations quality assurance system before, on, or after the date of the enactment of this Act \[Dec. 31, 2011\].”
 
@@ -70,10 +70,10 @@
 
 [/us/usc/t5/s552/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F3
 [/us/usc/t5/s552/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F3
-[/us/pl/112/81/s1082/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1082%2Fa%2F1
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1600
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/112/81/s1082/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1082%2Fb
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1601
 [/us/usc/t10/s2254a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2254a
 

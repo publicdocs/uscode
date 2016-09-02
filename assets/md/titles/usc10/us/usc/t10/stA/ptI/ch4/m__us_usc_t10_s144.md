@@ -29,11 +29,11 @@
 
         (2) Section 15(k) of the Small Business Act ([15 U.S.C. 644(k)][/us/usc/t15/s644/k]), except for the designations of the Director and the Office, applies to the Director of Small Business Programs.
 
-(Added [Pub. L. 109–163, div. A, title IX, § 904(b)(1)][/us/pl/109/163/s904/b/1], Jan. 6, 2006, [119 Stat. 3400][/us/stat/119/3400].)
+(Added [Pub. L. 109–163, div. A, title IX][/us/pl/109/163/dA/tIX], § 904(b)(1), Jan. 6, 2006, [119 Stat. 3400][/us/stat/119/3400].)
 
  __Change of Name__ 
 
-[Pub. L. 109–163, div. A, title IX, § 904(a)][/us/pl/109/163/s904/a], Jan. 6, 2006, [119 Stat. 3399][/us/stat/119/3399], provided that:
+[Pub. L. 109–163, div. A, title IX][/us/pl/109/163/dA/tIX], § 904(a), Jan. 6, 2006, [119 Stat. 3399][/us/stat/119/3399], provided that:
 
 >     “(1)  __Positions redesignated__  __.—__ 
 
@@ -65,7 +65,7 @@
 
  __Role of the Directors of Small Business Programs in Acquisition Processes of the Department of Defense__ 
 
-[Pub. L. 112–239, div. A, title XVI, § 1611][/us/pl/112/239/s1611], Jan. 2, 2013, [126 Stat. 2063][/us/stat/126/2063], provided that:
+[Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1611, Jan. 2, 2013, [126 Stat. 2063][/us/stat/126/2063], provided that:
 
 >     “(a)  __Guidance Required__  __.—__ 
 
@@ -98,11 +98,11 @@
 
 [/us/usc/t15/s644/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644%2Fk
 [/us/usc/t15/s644/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644%2Fk
-[/us/pl/109/163/s904/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs904%2Fb%2F1
+[/us/pl/109/163/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIX
 [/us/stat/119/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3400
-[/us/pl/109/163/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs904%2Fa
+[/us/pl/109/163/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIX
 [/us/stat/119/3399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3399
-[/us/pl/112/239/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1611
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2063
 
 

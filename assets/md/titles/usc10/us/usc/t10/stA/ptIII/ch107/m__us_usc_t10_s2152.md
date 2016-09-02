@@ -31,15 +31,15 @@
 
         (2) preparing officers for joint duty assignments.
 
-(Added and amended [Pub. L. 108–375, div. A, title V, § 532(a)(2)][/us/pl/108/375/s532/a/2], (b), Oct. 28, 2004, [118 Stat. 1897][/us/stat/118/1897], 1900.)
+(Added and amended [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 532(a)(2), (b), Oct. 28, 2004, [118 Stat. 1897][/us/stat/118/1897], 1900.)
 
  __Codification__ 
 
-    Subsecs. (b) and (c) of [section 663 of this title][/us/usc/t10/s663], which were transferred to this section by [Pub. L. 108–375, § 532(b)][/us/pl/108/375/s532/b], were based on [Pub. L. 99–433, title IV, § 401(a)][/us/pl/99/433/s401/a], Oct. 1, 1986, [100 Stat. 1027][/us/stat/100/1027].
+    Subsecs. (b) and (c) of [section 663 of this title][/us/usc/t10/s663], which were transferred to this section by [Pub. L. 108–375][/us/pl/108/375], § 532(b), were based on [Pub. L. 99–433, title IV][/us/pl/99/433/tIV], § 401(a), Oct. 1, 1986, [100 Stat. 1027][/us/stat/100/1027].
 
  __Amendments__ 
 
-    2004—Subsecs. (b), (c). [Pub. L. 108–375, § 532(b)][/us/pl/108/375/s532/b], transferred subsecs. (b) and (c) of [section 663 of this title][/us/usc/t10/s663] to end of this section. See Codification note above.
+    2004—Subsecs. (b), (c). [Pub. L. 108–375][/us/pl/108/375], § 532(b), transferred subsecs. (b) and (c) of [section 663 of this title][/us/usc/t10/s663] to end of this section. See Codification note above.
 
 ----------
 
@@ -49,13 +49,13 @@
 ----------
 
 [/us/usc/t10/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs661
-[/us/pl/108/375/s532/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs532%2Fa%2F2
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1897
 [/us/usc/t10/s663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs663
-[/us/pl/108/375/s532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs532%2Fb
-[/us/pl/99/433/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs401%2Fa
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/99/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtIV
 [/us/stat/100/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1027
-[/us/pl/108/375/s532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs532%2Fb
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t10/s663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs663
 
 

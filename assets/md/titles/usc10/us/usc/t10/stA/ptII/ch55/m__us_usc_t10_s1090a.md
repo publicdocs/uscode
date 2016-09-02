@@ -55,7 +55,7 @@
 
             (B) in which treatment is available and the risks of physical injury or property damage posed by such placement are warranted by the proposed plan of treatment.
 
-(Added [Pub. L. 112–81, div. A, title VII, § 711(a)(1)][/us/pl/112/81/s711/a/1], Dec. 31, 2011, [125 Stat. 1475][/us/stat/125/1475].)
+(Added [Pub. L. 112–81, div. A, title VII][/us/pl/112/81/dA/tVII], § 711(a)(1), Dec. 31, 2011, [125 Stat. 1475][/us/stat/125/1475].)
 
 ----------
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t10/s1034/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1034%2Fc%2F2
-[/us/pl/112/81/s711/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs711%2Fa%2F1
+[/us/pl/112/81/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVII
 [/us/stat/125/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1475
 
 

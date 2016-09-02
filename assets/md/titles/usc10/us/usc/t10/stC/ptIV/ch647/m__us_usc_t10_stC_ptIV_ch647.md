@@ -99,11 +99,11 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–84, div. A, title V, § 592(b)][/us/pl/111/84/s592/b], Oct. 28, 2009, [123 Stat. 2337][/us/stat/123/2337], added item 7541b.
+    2009—[Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 592(b), Oct. 28, 2009, [123 Stat. 2337][/us/stat/123/2337], added item 7541b.
 
-    1975—[Pub. L. 93–628, § 1(b)][/us/pl/93/628/s1/b], Jan. 3, 1975, [88 Stat. 2148][/us/stat/88/2148], inserted “, Naval Sea Cadet Corps and Young Marines of the Marine Corps League” in item 7541.
+    1975—[Pub. L. 93–628][/us/pl/93/628], § 1(b), Jan. 3, 1975, [88 Stat. 2148][/us/stat/88/2148], inserted “, Naval Sea Cadet Corps and Young Marines of the Marine Corps League” in item 7541.
 
-    1965—[Pub. L. 89–266, § 1(2)][/us/pl/89/266/s1/2], Oct. 19, 1965, [79 Stat. 990][/us/stat/79/990], added item 7541a.
+    1965—[Pub. L. 89–266][/us/pl/89/266], § 1(2), Oct. 19, 1965, [79 Stat. 990][/us/stat/79/990], added item 7541a.
 
 ----------
 
@@ -112,11 +112,11 @@
 ----------
 ----------
 
-[/us/pl/111/84/s592/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs592%2Fb
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2337
-[/us/pl/93/628/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F628%2Fs1%2Fb
+[/us/pl/93/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F628
 [/us/stat/88/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2148
-[/us/pl/89/266/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F266%2Fs1%2F2
+[/us/pl/89/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F266
 [/us/stat/79/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F990
 
 

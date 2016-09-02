@@ -35,13 +35,13 @@
 
  __Prior Provisions__ 
 
-    A prior subchapter II heading and analysis consisting of items 2128 to 2130 was repealed and sections 2128 to 2130 of this title were renumbered sections 16201 to 16203 of this title, respectively, by [Pub. L. 103–337, div. A, title XVI, § 1663(c)(2)][/us/pl/103/337/s1663/c/2]–(4)(A), (7)(B), Oct. 5, 1994, [108 Stat. 3007][/us/stat/108/3007], 3008.
+    A prior subchapter II heading and analysis consisting of items 2128 to 2130 was repealed and sections 2128 to 2130 of this title were renumbered sections 16201 to 16203 of this title, respectively, by [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1663(c)(2)–(4)(A), (7)(B), Oct. 5, 1994, [108 Stat. 3007][/us/stat/108/3007], 3008.
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–337, div. A, title XVI, § 1663(c)(7)(C)][/us/pl/103/337/s1663/c/7/C], Oct. 5, 1994, [108 Stat. 3008][/us/stat/108/3008], redesignated subchapter III of this chapter as this subchapter.
+    1994—[Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1663(c)(7)(C), Oct. 5, 1994, [108 Stat. 3008][/us/stat/108/3008], redesignated subchapter III of this chapter as this subchapter.
 
-    1991—[Pub. L. 101–189, div. A, title VII, § 707(a)][/us/pl/101/189/s707/a], Nov. 29, 1989, [103 Stat. 1474][/us/stat/103/1474], added subchapter heading and item 2130a.
+    1991—[Pub. L. 101–189, div. A, title VII][/us/pl/101/189/dA/tVII], § 707(a), Nov. 29, 1989, [103 Stat. 1474][/us/stat/103/1474], added subchapter heading and item 2130a.
 
 ----------
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1663/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fc%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3007
-[/us/pl/103/337/s1663/c/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1663%2Fc%2F7%2FC
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3008
-[/us/pl/101/189/s707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs707%2Fa
+[/us/pl/101/189/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVII
 [/us/stat/103/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1474
 
 

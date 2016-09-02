@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the settlement of a claim under section 2733, 2734, 2734a, 2734b, or 2737 of this title is final and conclusive.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 155][/us/stat/70A/155]; [Pub. L. 88–558, § 5(1)][/us/pl/88/558/s5/1], Aug. 31, 1964, [78 Stat. 768][/us/stat/78/768]; [Pub. L. 92–413][/us/pl/92/413], Aug. 29, 1972, [86 Stat. 649][/us/stat/86/649].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 155][/us/stat/70A/155]; [Pub. L. 88–558][/us/pl/88/558], § 5(1), Aug. 31, 1964, [78 Stat. 768][/us/stat/78/768]; [Pub. L. 92–413][/us/pl/92/413], Aug. 29, 1972, [86 Stat. 649][/us/stat/86/649].)
 
 <table>
 
@@ -109,11 +109,11 @@ Jan. 2, 1942, ch. 645, § 1 (last proviso); restated Apr. 22, 1943, ch. 67, §
 
  __Effective Date of 1964 Amendment__ 
 
-    [Pub. L. 88–558, § 5][/us/pl/88/558/s5], Aug. 31, 1964, [78 Stat. 768][/us/stat/78/768], provided that the amendment made by that section is effective two years from Aug. 31, 1964.
+    [Pub. L. 88–558][/us/pl/88/558], § 5, Aug. 31, 1964, [78 Stat. 768][/us/stat/78/768], provided that the amendment made by that section is effective two years from Aug. 31, 1964.
 
  __Repeals__ 
 
-    The directory language of, but not the amendment made by, [Pub. L. 88–558][/us/pl/88/558], Aug. 31, 1964, [78 Stat. 767][/us/stat/78/767], cited as a credit to this section and in the Effective Date of 1964 Amendment note above, was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068].
+    The directory language of, but not the amendment made by, [Pub. L. 88–558][/us/pl/88/558], Aug. 31, 1964, [78 Stat. 767][/us/stat/78/767], cited as a credit to this section and in the Effective Date of 1964 Amendment note above, was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068].
 
 ----------
 
@@ -124,17 +124,17 @@ Jan. 2, 1942, ch. 645, § 1 (last proviso); restated Apr. 22, 1943, ch. 67, §
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F155
-[/us/pl/88/558/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F558%2Fs5%2F1
+[/us/pl/88/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F558
 [/us/stat/78/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F768
 [/us/pl/92/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F413
 [/us/stat/86/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F649
 [/us/pl/92/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F413
 [/us/pl/88/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F558
-[/us/pl/88/558/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F558%2Fs5
+[/us/pl/88/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F558
 [/us/stat/78/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F768
 [/us/pl/88/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F558
 [/us/stat/78/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F767
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
 
 

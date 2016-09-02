@@ -145,7 +145,7 @@
 
         (2) to release or disclose such technical data to persons outside the Government or permit the use of such technical data by persons outside the Government.
 
-(Added [Pub. L. 98–525, title XII, § 1216(a)][/us/pl/98/525/s1216/a], Oct. 19, 1984, [98 Stat. 2597][/us/stat/98/2597]; amended [Pub. L. 99–500][/us/pl/99/500] § 101(c) \[title X, § 953(b)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–171, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 953(b)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–171; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 953(b), Nov. 14, 1986, [100 Stat. 3951][/us/stat/100/3951], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], [Pub. L. 100–26, § 7(a)(5)][/us/pl/100/26/s7/a/5], Apr. 21, 1987, [101 Stat. 276][/us/stat/101/276]; [Pub. L. 100–180, div. A, title XII, § 1231(6)][/us/pl/100/180/s1231/6], Dec. 4, 1987, [101 Stat. 1160][/us/stat/101/1160]; [Pub. L. 103–35, title II, § 201(g)(4)][/us/pl/103/35/s201/g/4], May 31, 1993, [107 Stat. 100][/us/stat/107/100]; [Pub. L. 103–355, title VIII, § 8106(b)][/us/pl/103/355/s8106/b], Oct. 13, 1994, [108 Stat. 3393][/us/stat/108/3393]; [Pub. L. 109–364, div. A, title VIII, § 802(b)][/us/pl/109/364/s802/b], Oct. 17, 2006, [120 Stat. 2313][/us/stat/120/2313]; [Pub. L. 110–181, div. A, title VIII, § 815(a)(2)][/us/pl/110/181/s815/a/2], Jan. 28, 2008, [122 Stat. 223][/us/stat/122/223]; [Pub. L. 111–350, § 5(b)(18)][/us/pl/111/350/s5/b/18], Jan. 4, 2011, [124 Stat. 3844][/us/stat/124/3844]; [Pub. L. 111–383, div. A, title VIII, § 824(c)][/us/pl/111/383/s824/c], Jan. 7, 2011, [124 Stat. 4269][/us/stat/124/4269]; [Pub. L. 112–81, div. A, title VIII, § 815(b)][/us/pl/112/81/s815/b], Dec. 31, 2011, [125 Stat. 1492][/us/stat/125/1492]; [Pub. L. 113–291, div. A, title X, § 1071(a)(5)][/us/pl/113/291/s1071/a/5], Dec. 19, 2014, [128 Stat. 3504][/us/stat/128/3504]; [Pub. L. 114–92, div. A, title VIII, § 813(a)][/us/pl/114/92/s813/a], Nov. 25, 2015, [129 Stat. 891][/us/stat/129/891].)
+(Added [Pub. L. 98–525, title XII][/us/pl/98/525/tXII], § 1216(a), Oct. 19, 1984, [98 Stat. 2597][/us/stat/98/2597]; amended [Pub. L. 99–500][/us/pl/99/500] § 101(c) \[title X, § 953(b)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–171, and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title X, § 953(b)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–171; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661/dA/tIX], formerly title IV, § 953(b), Nov. 14, 1986, [100 Stat. 3951][/us/stat/100/3951], renumbered title IX, [Pub. L. 100–26][/us/pl/100/26], § 3(5), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], [Pub. L. 100–26][/us/pl/100/26], § 7(a)(5), Apr. 21, 1987, [101 Stat. 276][/us/stat/101/276]; [Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1231(6), Dec. 4, 1987, [101 Stat. 1160][/us/stat/101/1160]; [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 201(g)(4), May 31, 1993, [107 Stat. 100][/us/stat/107/100]; [Pub. L. 103–355, title VIII][/us/pl/103/355/tVIII], § 8106(b), Oct. 13, 1994, [108 Stat. 3393][/us/stat/108/3393]; [Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 802(b), Oct. 17, 2006, [120 Stat. 2313][/us/stat/120/2313]; [Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 815(a)(2), Jan. 28, 2008, [122 Stat. 223][/us/stat/122/223]; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(18), Jan. 4, 2011, [124 Stat. 3844][/us/stat/124/3844]; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 824(c), Jan. 7, 2011, [124 Stat. 4269][/us/stat/124/4269]; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 815(b), Dec. 31, 2011, [125 Stat. 1492][/us/stat/125/1492]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(a)(5), Dec. 19, 2014, [128 Stat. 3504][/us/stat/128/3504]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 813(a), Nov. 25, 2015, [129 Stat. 891][/us/stat/129/891].)
 
  __Codification__ 
 
@@ -159,17 +159,17 @@
 
     2014—Subsec. (f)(2). [Pub. L. 113–291][/us/pl/113/291] substituted “[section 104 of title 41][/us/usc/t41/s104]” for “section 35(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 431(c)][/us/usc/t41/s431/c])”.
 
-    2011—Subsec. (d)(2)(A). [Pub. L. 112–81, § 815(b)(1)(A)][/us/pl/112/81/s815/b/1/A], substituted “A challenge to a use or release restriction asserted by the contractor in accordance with applicable regulations may not be made under paragraph (1) after the end of the six-year period” for “Except as provided in subparagraph (C), a challenge to an asserted use or release restriction may not be made under paragraph (1) after the end of the three-year period” in introductory provisions.
+    2011—Subsec. (d)(2)(A). [Pub. L. 112–81][/us/pl/112/81], § 815(b)(1)(A), substituted “A challenge to a use or release restriction asserted by the contractor in accordance with applicable regulations may not be made under paragraph (1) after the end of the six-year period” for “Except as provided in subparagraph (C), a challenge to an asserted use or release restriction may not be made under paragraph (1) after the end of the three-year period” in introductory provisions.
 
-    [Pub. L. 111–383, § 824(c)(1)][/us/pl/111/383/s824/c/1], substituted “Except as provided in subparagraph (C), a challenge” for “A challenge” in introductory provisions.
+    [Pub. L. 111–383][/us/pl/111/383], § 824(c)(1), substituted “Except as provided in subparagraph (C), a challenge” for “A challenge” in introductory provisions.
 
-    Subsec. (d)(2)(A)(iv). [Pub. L. 112–81, § 815(b)(1)(B)][/us/pl/112/81/s815/b/1/B]–(D), added cl. (iv).
+    Subsec. (d)(2)(A)(iv). [Pub. L. 112–81][/us/pl/112/81], § 815(b)(1)(B)–(D), added cl. (iv).
 
-    Subsec. (d)(2)(B). [Pub. L. 112–81, § 815(b)(2)][/us/pl/112/81/s815/b/2], substituted “six-year period” for “three-year period” in two places in introductory provisions.
+    Subsec. (d)(2)(B). [Pub. L. 112–81][/us/pl/112/81], § 815(b)(2), substituted “six-year period” for “three-year period” in two places in introductory provisions.
 
-    Subsec. (d)(2)(C). [Pub. L. 112–81, § 815(b)(3)][/us/pl/112/81/s815/b/3], struck out subpar. (C) which read as follows: “The limitation in this paragraph shall not apply to a case in which the Secretary finds that reasonable grounds exist to believe that a contractor or subcontractor has erroneously asserted a use or release restriction with regard to technical data described in [section 2320(a)(2)(A) of this title][/us/usc/t10/s2320/a/2/A].”
+    Subsec. (d)(2)(C). [Pub. L. 112–81][/us/pl/112/81], § 815(b)(3), struck out subpar. (C) which read as follows: “The limitation in this paragraph shall not apply to a case in which the Secretary finds that reasonable grounds exist to believe that a contractor or subcontractor has erroneously asserted a use or release restriction with regard to technical data described in [section 2320(a)(2)(A) of this title][/us/usc/t10/s2320/a/2/A].”
 
-    [Pub. L. 111–383, § 824(c)(2)][/us/pl/111/383/s824/c/2], added subpar. (C).
+    [Pub. L. 111–383][/us/pl/111/383], § 824(c)(2), added subpar. (C).
 
     Subsec. (h). [Pub. L. 111–350][/us/pl/111/350] substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 ([41 U.S.C. 601][/us/usc/t41/s601] et seq.)”.
 
@@ -181,9 +181,9 @@
 
     1993—Subsec. (d)(1)(B). [Pub. L. 103–35][/us/pl/103/35] substituted “adherence” for “adherance”.
 
-    1987—Subsec. (a). [Pub. L. 100–26, § 7(a)(5)(A)(ii)][/us/pl/100/26/s7/a/5/A/ii], added subsec. (a) and struck out former subsec. (a) which read as follows: “A contract for supplies or services entered into by the Department of Defense which provides for the delivery of technical data shall provide that a contractor or subcontractor at any tier shall be prepared to furnish to the contracting officer a written justification for any restriction asserted by the contractor or subcontractor on the right of the United States to use such technical data.”
+    1987—Subsec. (a). [Pub. L. 100–26][/us/pl/100/26], § 7(a)(5)(A)(ii), added subsec. (a) and struck out former subsec. (a) which read as follows: “A contract for supplies or services entered into by the Department of Defense which provides for the delivery of technical data shall provide that a contractor or subcontractor at any tier shall be prepared to furnish to the contracting officer a written justification for any restriction asserted by the contractor or subcontractor on the right of the United States to use such technical data.”
 
-    Subsec. (b). [Pub. L. 100–26, § 7(a)(5)(A)(ii)][/us/pl/100/26/s7/a/5/A/ii], added subsec. (b) and struck out former subsec. (b) which read as follows:
+    Subsec. (b). [Pub. L. 100–26][/us/pl/100/26], § 7(a)(5)(A)(ii), added subsec. (b) and struck out former subsec. (b) which read as follows:
 
     “(1) The Secretary of Defense shall ensure that there is a thorough review of the appropriateness of any restriction on the right of the United States to release or disclose technical data delivered under a contract to persons outside the Government, or to permit the use of such technical data by such persons. Such review shall be conducted before the end of the three-year period beginning on the date on which final payment is made on a contract under which technical data is required to be delivered, or the date on which the technical data is delivered under such contract, whichever is later.
 
@@ -207,27 +207,27 @@
 
     “(iii) has been otherwise made available without restriction.”
 
-    Subsec. (c). [Pub. L. 100–26, § 7(a)(5)(A)(ii)][/us/pl/100/26/s7/a/5/A/ii], added subsec. (c). Former subsec. (c) redesignated (e).
+    Subsec. (c). [Pub. L. 100–26][/us/pl/100/26], § 7(a)(5)(A)(ii), added subsec. (c). Former subsec. (c) redesignated (e).
 
-    Subsec. (d). [Pub. L. 100–26, § 7(a)(5)(A)(ii)][/us/pl/100/26/s7/a/5/A/ii], added subsec. (d). Former subsec. (d) redesignated (f).
+    Subsec. (d). [Pub. L. 100–26][/us/pl/100/26], § 7(a)(5)(A)(ii), added subsec. (d). Former subsec. (d) redesignated (f).
 
-    Subsec. (d)(4)(A). [Pub. L. 99–180, § 1231(6)(A)][/us/pl/99/180/s1231/6/A], substituted “subsection” for “paragraph”.
+    Subsec. (d)(4)(A). [Pub. L. 99–180][/us/pl/99/180], § 1231(6)(A), substituted “subsection” for “paragraph”.
 
-    Subsec. (e). [Pub. L. 100–26, § 7(a)(5)(A)(i)][/us/pl/100/26/s7/a/5/A/i], (B), redesignated former subsec. (c) as (e), inserted heading, and substituted “If a contractor or subcontractor asserting a use or release restriction” for “If a contractor or subcontractor asserting a restriction subject to this section”. Former subsec. (e) redesignated (g).
+    Subsec. (e). [Pub. L. 100–26][/us/pl/100/26], § 7(a)(5)(A)(i), (B), redesignated former subsec. (c) as (e), inserted heading, and substituted “If a contractor or subcontractor asserting a use or release restriction” for “If a contractor or subcontractor asserting a restriction subject to this section”. Former subsec. (e) redesignated (g).
 
-    Subsec. (f). [Pub. L. 100–26, § 7(a)(5)(A)(i)][/us/pl/100/26/s7/a/5/A/i], (C), redesignated former subsec. (d) as (f), inserted heading, and substituted “subsection (d)(3)” for “subsection (b)” in two places. Former subsec. (f) redesignated (h).
+    Subsec. (f). [Pub. L. 100–26][/us/pl/100/26], § 7(a)(5)(A)(i), (C), redesignated former subsec. (d) as (f), inserted heading, and substituted “subsection (d)(3)” for “subsection (b)” in two places. Former subsec. (f) redesignated (h).
 
-    Subsec. (g). [Pub. L. 100–26, § 7(a)(5)(A)(i)][/us/pl/100/26/s7/a/5/A/i], (D), redesignated former subsec. (e) as (g) and inserted heading.
+    Subsec. (g). [Pub. L. 100–26][/us/pl/100/26], § 7(a)(5)(A)(i), (D), redesignated former subsec. (e) as (g) and inserted heading.
 
-    Subsec. (h). [Pub. L. 100–26, § 7(a)(5)(A)(i)][/us/pl/100/26/s7/a/5/A/i], (E)(i), redesignated former subsec. (f) as (h) and inserted heading.
+    Subsec. (h). [Pub. L. 100–26][/us/pl/100/26], § 7(a)(5)(A)(i), (E)(i), redesignated former subsec. (f) as (h) and inserted heading.
 
-    Subsec. (h)(1). [Pub. L. 100–26, § 7(a)(5)(E)(ii)][/us/pl/100/26/s7/a/5/E/ii]–(iv), substituted “the use or release restriction” for “the restriction on the right of the United States to use such technical data” in introductory provisions, struck out “on the right of the United States to use the technical data” after “the restriction” in subpar. (A), and substituted “asserting the restriction” for “, as appropriate,” in subpar. (B).
+    Subsec. (h)(1). [Pub. L. 100–26][/us/pl/100/26], § 7(a)(5)(E)(ii)–(iv), substituted “the use or release restriction” for “the restriction on the right of the United States to use such technical data” in introductory provisions, struck out “on the right of the United States to use the technical data” after “the restriction” in subpar. (A), and substituted “asserting the restriction” for “, as appropriate,” in subpar. (B).
 
-    Subsec. (h)(2). [Pub. L. 100–26, § 7(a)(5)(E)(v)][/us/pl/100/26/s7/a/5/E/v], substituted “the use or release restriction” for “the restriction on the right of the United States to use such technical data” in introductory provisions.
+    Subsec. (h)(2). [Pub. L. 100–26][/us/pl/100/26], § 7(a)(5)(E)(v), substituted “the use or release restriction” for “the restriction on the right of the United States to use such technical data” in introductory provisions.
 
-    Subsec. (i). [Pub. L. 100–180, § 1231(6)(B)][/us/pl/100/180/s1231/6/B], inserted “or subcontractor” in introductory provisions.
+    Subsec. (i). [Pub. L. 100–180][/us/pl/100/180], § 1231(6)(B), inserted “or subcontractor” in introductory provisions.
 
-    [Pub. L. 100–26, § 7(a)(5)(F)][/us/pl/100/26/s7/a/5/F], added subsec. (i).
+    [Pub. L. 100–26][/us/pl/100/26], § 7(a)(5)(F), added subsec. (i).
 
     1986—Subsecs. (a), (b). [Pub. L. 99–500][/us/pl/99/500], [Pub. L. 99–591][/us/pl/99/591], and [Pub. L. 99–661][/us/pl/99/661] amended generally subsecs. (a) and (b) identically. Prior to amendment, subsecs. (a) and (b) read as follows:
 
@@ -249,7 +249,7 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–26, § 12(d)(1)][/us/pl/100/26/s12/d/1], Apr. 21, 1987, [101 Stat. 289][/us/stat/101/289], provided that: 
+[Pub. L. 100–26][/us/pl/100/26], § 12(d)(1), Apr. 21, 1987, [101 Stat. 289][/us/stat/101/289], provided that: 
 
 > “The amendments to [section 2321 of title 10][/us/usc/t10/s2321], United States Code, made by section 7(a)(5) shall apply to contracts for which solicitations are issued after the end of the 210-day period beginning on October 18, 1986.”
 
@@ -272,37 +272,37 @@
 [/us/usc/t10/s2379/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2379%2Fb
 [/us/usc/t28/s2412/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412%2Fd%2F2%2FA
 [/us/usc/t28/s2412/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412%2Fd%2F2%2FA
-[/us/pl/98/525/s1216/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1216%2Fa
+[/us/pl/98/525/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXII
 [/us/stat/98/2597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2597
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtIX
 [/us/stat/100/3951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3951
-[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
-[/us/pl/100/26/s7/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fa%2F5
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F276
-[/us/pl/100/180/s1231/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1231%2F6
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1160
-[/us/pl/103/35/s201/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fg%2F4
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F100
-[/us/pl/103/355/s8106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs8106%2Fb
+[/us/pl/103/355/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtVIII
 [/us/stat/108/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3393
-[/us/pl/109/364/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs802%2Fb
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2313
-[/us/pl/110/181/s815/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs815%2Fa%2F2
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F223
-[/us/pl/111/350/s5/b/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F18
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3844
-[/us/pl/111/383/s824/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs824%2Fc
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4269
-[/us/pl/112/81/s815/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs815%2Fb
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1492
-[/us/pl/113/291/s1071/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F5
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3504
-[/us/pl/114/92/s813/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs813%2Fa
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F891
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
@@ -313,13 +313,13 @@
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t41/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs104
 [/us/usc/t41/s431/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs431%2Fc
-[/us/pl/112/81/s815/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs815%2Fb%2F1%2FA
-[/us/pl/111/383/s824/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs824%2Fc%2F1
-[/us/pl/112/81/s815/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs815%2Fb%2F1%2FB
-[/us/pl/112/81/s815/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs815%2Fb%2F2
-[/us/pl/112/81/s815/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs815%2Fb%2F3
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t10/s2320/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2320%2Fa%2F2%2FA
-[/us/pl/111/383/s824/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs824%2Fc%2F2
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs601
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
@@ -327,26 +327,26 @@
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
-[/us/pl/100/26/s7/a/5/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fa%2F5%2FA%2Fii
-[/us/pl/100/26/s7/a/5/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fa%2F5%2FA%2Fii
-[/us/pl/100/26/s7/a/5/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fa%2F5%2FA%2Fii
-[/us/pl/100/26/s7/a/5/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fa%2F5%2FA%2Fii
-[/us/pl/99/180/s1231/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F180%2Fs1231%2F6%2FA
-[/us/pl/100/26/s7/a/5/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fa%2F5%2FA%2Fi
-[/us/pl/100/26/s7/a/5/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fa%2F5%2FA%2Fi
-[/us/pl/100/26/s7/a/5/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fa%2F5%2FA%2Fi
-[/us/pl/100/26/s7/a/5/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fa%2F5%2FA%2Fi
-[/us/pl/100/26/s7/a/5/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fa%2F5%2FE%2Fii
-[/us/pl/100/26/s7/a/5/E/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fa%2F5%2FE%2Fv
-[/us/pl/100/180/s1231/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1231%2F6%2FB
-[/us/pl/100/26/s7/a/5/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fa%2F5%2FF
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/99/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F180
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
+[/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/103/355/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10001
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/100/26/s12/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs12%2Fd%2F1
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F289
 [/us/usc/t10/s2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2321
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500

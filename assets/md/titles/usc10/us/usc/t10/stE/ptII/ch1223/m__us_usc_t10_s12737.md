@@ -17,7 +17,7 @@
 
     A member of the armed forces may not be ordered to active duty solely for the purpose of qualifying the member for retired pay under this chapter.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 104][/us/stat/70A/104], § 1337; renumbered § 12737 and amended [Pub. L. 103–337, div. A, title XVI, § 1662(j)(1)][/us/pl/103/337/s1662/j/1], Oct. 5, 1994, [108 Stat. 2998][/us/stat/108/2998], 3003.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 104][/us/stat/70A/104], § 1337; renumbered § 12737 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(j)(1), Oct. 5, 1994, [108 Stat. 2998][/us/stat/108/2998], 3003.)
 
 <table>
 
@@ -84,7 +84,7 @@ June 29, 1948, ch. 708, § 309, 62 Stat. 1090.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F104
-[/us/pl/103/337/s1662/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fj%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2998
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1337

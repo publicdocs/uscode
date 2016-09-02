@@ -55,17 +55,17 @@
 
         (3) The term “equipment suitable for counter-drug, homeland security, and emergency response activities” has the meaning given such term in regulations prescribed by the Secretary of Defense. In prescribing the meaning of the term, the Secretary may not include any equipment that the Department of Defense does not procure for its own purposes and, in the case of equipment for homeland security activities, may not include any equipment that is not found on the Authorized Equipment List published by the Department of Homeland Security.
 
-(Added [Pub. L. 103–160, div. A, title XI, § 1122(a)(1)][/us/pl/103/160/s1122/a/1], Nov. 30, 1993, [107 Stat. 1754][/us/stat/107/1754]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 885(a), (b)(1), Oct. 14, 2008, [122 Stat. 4560][/us/stat/122/4560], 4561.)
+(Added [Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1122(a)(1), Nov. 30, 1993, [107 Stat. 1754][/us/stat/107/1754]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 885(a), (b)(1), Oct. 14, 2008, [122 Stat. 4560][/us/stat/122/4560], 4561.)
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–417, § 885(b)(1)][/us/pl/110/417/s885/b/1], substituted “Procurement of equipment by State and local governments through the Department of Defense: equipment for counter-drug, homeland security, and emergency response activities” for “Procurement by State and local governments of law enforcement equipment suitable for counter-drug activities through the Department of Defense” in section catchline.
+    2008—[Pub. L. 110–417][/us/pl/110/417], § 885(b)(1), substituted “Procurement of equipment by State and local governments through the Department of Defense: equipment for counter-drug, homeland security, and emergency response activities” for “Procurement by State and local governments of law enforcement equipment suitable for counter-drug activities through the Department of Defense” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 110–417, § 885(a)(1)][/us/pl/110/417/s885/a/1], in introductory provisions, struck out “law enforcement” before “equipment” and inserted “, homeland security, and emergency response” after “counter-drug”, in subpar. (A), inserted “, homeland security, or emergency response” after “counter-drug” in introductory provisions and struck out “law enforcement” before “equipment” in cl. (i), in subpar. (C) struck out “law enforcement” before “equipment” wherever appearing, and in subpar. (D) struck out “law enforcement” before “equipment shall”.
+    Subsec. (a)(1). [Pub. L. 110–417][/us/pl/110/417], § 885(a)(1), in introductory provisions, struck out “law enforcement” before “equipment” and inserted “, homeland security, and emergency response” after “counter-drug”, in subpar. (A), inserted “, homeland security, or emergency response” after “counter-drug” in introductory provisions and struck out “law enforcement” before “equipment” in cl. (i), in subpar. (C) struck out “law enforcement” before “equipment” wherever appearing, and in subpar. (D) struck out “law enforcement” before “equipment shall”.
 
-    Subsec. (c). [Pub. L. 110–417, § 885(a)(2)][/us/pl/110/417/s885/a/2], struck out “law enforcement” before “equipment” and inserted “, homeland security, and emergency response” after “counter-drug”.
+    Subsec. (c). [Pub. L. 110–417][/us/pl/110/417], § 885(a)(2), struck out “law enforcement” before “equipment” and inserted “, homeland security, and emergency response” after “counter-drug”.
 
-    Subsec. (d)(2), (3). [Pub. L. 110–417, § 885(a)(3)][/us/pl/110/417/s885/a/3], in par. (2) inserted “or emergency response” after “law enforcement” in two places and in par. (3) struck out “law enforcement” before “equipment suitable” and inserted “, homeland security, and emergency response” after “counter-drug” and “and, in the case of equipment for homeland security activities, may not include any equipment that is not found on the Authorized Equipment List published by the Department of Homeland Security” before period at end.
+    Subsec. (d)(2), (3). [Pub. L. 110–417][/us/pl/110/417], § 885(a)(3), in par. (2) inserted “or emergency response” after “law enforcement” in two places and in par. (3) struck out “law enforcement” before “equipment suitable” and inserted “, homeland security, and emergency response” after “counter-drug” and “and, in the case of equipment for homeland security activities, may not include any equipment that is not found on the Authorized Equipment List published by the Department of Homeland Security” before period at end.
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -73,7 +73,7 @@
 
  __Deadline for Establishing Procedures__ 
 
-    [Pub. L. 103–160, div. A, title XI, § 1122(b)][/us/pl/103/160/s1122/b], Nov. 30, 1993, [107 Stat. 1755][/us/stat/107/1755], directed the Secretary of Defense to establish procedures under subsec. (a) of this section not later than six months after Nov. 30, 1993.
+    [Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1122(b), Nov. 30, 1993, [107 Stat. 1755][/us/stat/107/1755], directed the Secretary of Defense to establish procedures under subsec. (a) of this section not later than six months after Nov. 30, 1993.
 
 ----------
 
@@ -82,16 +82,16 @@
 ----------
 ----------
 
-[/us/pl/103/160/s1122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1122%2Fa%2F1
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1754
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4560
-[/us/pl/110/417/s885/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs885%2Fb%2F1
-[/us/pl/110/417/s885/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs885%2Fa%2F1
-[/us/pl/110/417/s885/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs885%2Fa%2F2
-[/us/pl/110/417/s885/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs885%2Fa%2F3
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/103/160/s1122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1122%2Fb
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1755
 
 

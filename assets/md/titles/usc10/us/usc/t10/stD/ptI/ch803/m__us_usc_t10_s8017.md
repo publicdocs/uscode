@@ -25,7 +25,7 @@
 
     (4) The Chief of Staff.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 489][/us/stat/70A/489]; [Pub. L. 89–718, § 23][/us/pl/89/718/s23], Nov. 2, 1966, [80 Stat. 1118][/us/stat/80/1118]; [Pub. L. 90–235, § 4(a)(9)][/us/pl/90/235/s4/a/9], Jan. 2, 1968, [81 Stat. 760][/us/stat/81/760]; [Pub. L. 99–433, title V, § 521(a)(4)][/us/pl/99/433/s521/a/4], Oct. 1, 1986, [100 Stat. 1058][/us/stat/100/1058]; [Pub. L. 103–337, div. A, title IX, § 902(c)][/us/pl/103/337/s902/c], Oct. 5, 1994, [108 Stat. 2823][/us/stat/108/2823].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 489][/us/stat/70A/489]; [Pub. L. 89–718][/us/pl/89/718], § 23, Nov. 2, 1966, [80 Stat. 1118][/us/stat/80/1118]; [Pub. L. 90–235][/us/pl/90/235], § 4(a)(9), Jan. 2, 1968, [81 Stat. 760][/us/stat/81/760]; [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 521(a)(4), Oct. 1, 1986, [100 Stat. 1058][/us/stat/100/1058]; [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 902(c), Oct. 5, 1994, [108 Stat. 2823][/us/stat/108/2823].)
 
 <table>
 
@@ -81,7 +81,7 @@ Sept. 19, 1951, ch. 407, § 102 (less (a)), 65 Stat. 327.  </td>
 
  __References in Text__ 
 
-    [Section 3347 of title 5][/us/usc/t5/s3347], referred to in text, was repealed and a new section 3347 was enacted by [Pub. L. 105–277, div. C, title I, § 151(b)][/us/pl/105/277/s151/b], Oct. 21, 1998, [112 Stat. 2681–611][/us/stat/112/2681-611], and, as so enacted, no longer contains provisions authorizing the President to direct temporary successors to duties. See [section 3345 of Title 5][/us/usc/t5/s3345], Government Organization and Employees.
+    [Section 3347 of title 5][/us/usc/t5/s3347], referred to in text, was repealed and a new section 3347 was enacted by [Pub. L. 105–277, div. C, title I][/us/pl/105/277/dC/tI], § 151(b), Oct. 21, 1998, [112 Stat. 2681–611][/us/stat/112/2681-611], and, as so enacted, no longer contains provisions authorizing the President to direct temporary successors to duties. See [section 3345 of Title 5][/us/usc/t5/s3345], Government Organization and Employees.
 
  __Amendments__ 
 
@@ -106,17 +106,17 @@ Sept. 19, 1951, ch. 407, § 102 (less (a)), 65 Stat. 327.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F489
-[/us/pl/89/718/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs23
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1118
-[/us/pl/90/235/s4/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs4%2Fa%2F9
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F760
-[/us/pl/99/433/s521/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs521%2Fa%2F4
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1058
-[/us/pl/103/337/s902/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs902%2Fc
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2823
 [/us/usc/t10/s8544/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8544%2Fb
 [/us/usc/t5/s3347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3347
-[/us/pl/105/277/s151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs151%2Fb
+[/us/pl/105/277/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtI
 [/us/stat/112/2681-611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-611
 [/us/usc/t5/s3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3345
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

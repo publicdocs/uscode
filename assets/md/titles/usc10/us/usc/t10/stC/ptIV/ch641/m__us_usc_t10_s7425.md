@@ -25,7 +25,7 @@
 
     (b) The Secretary shall report annually to Congress all proceedings for purchase and condemnation under this section.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 458][/us/stat/70A/458]; [Pub. L. 94–258, title II, § 201(6)][/us/pl/94/258/s201/6], Apr. 5, 1976, [90 Stat. 309][/us/stat/90/309]; [Pub. L. 96–513, title V, § 513(32)(A)][/us/pl/96/513/s513/32/A], Dec. 12, 1980, [94 Stat. 2933][/us/stat/94/2933]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXIV, § 3402(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–484.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 458][/us/stat/70A/458]; [Pub. L. 94–258, title II][/us/pl/94/258/tII], § 201(6), Apr. 5, 1976, [90 Stat. 309][/us/stat/90/309]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(32)(A), Dec. 12, 1980, [94 Stat. 2933][/us/stat/94/2933]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXIV, § 3402(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–484.)
 
 <table>
 
@@ -101,11 +101,11 @@ June 4, 1920, ch. 228 (5th par., 1st 123 words, and 169th through 193d words, of
 [/us/usc/t10/s7424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7424
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F458
-[/us/pl/94/258/s201/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2Fs201%2F6
+[/us/pl/94/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F258%2FtII
 [/us/stat/90/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F309
-[/us/pl/96/513/s513/32/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F32%2FA
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2933
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t10/s7424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7424

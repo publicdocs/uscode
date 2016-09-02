@@ -95,7 +95,7 @@
 
             (F) Military Rule of Evidence 615, relating to the exclusion of witnesses.
 
-(Added [Pub. L. 113–66, div. A, title XVII, § 1701(a)(1)][/us/pl/113/66/s1701/a/1], Dec. 26, 2013, [127 Stat. 952][/us/stat/127/952]; amended [Pub. L. 113–291, div. A, title V][/us/pl/113/291], §§ 531(f), 535, Dec. 19, 2014, [128 Stat. 3364][/us/stat/128/3364], 3368; [Pub. L. 114–92, div. A, title V, § 531][/us/pl/114/92/s531], Nov. 25, 2015, [129 Stat. 814][/us/stat/129/814].)
+(Added [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1701(a)(1), Dec. 26, 2013, [127 Stat. 952][/us/stat/127/952]; amended [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], §§ 531(f), 535, Dec. 19, 2014, [128 Stat. 3364][/us/stat/128/3364], 3368; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 531, Nov. 25, 2015, [129 Stat. 814][/us/stat/129/814].)
 
  __Amendments__ 
 
@@ -109,15 +109,15 @@
 
     “(B) Military Rule of Evidence 412, relating to the admission of evidence regarding a victim’s sexual background.”
 
-    2014—Subsec. (b). [Pub. L. 113–291, § 531(f)(1)][/us/pl/113/291/s531/f/1], substituted “an individual” for “a person”.
+    2014—Subsec. (b). [Pub. L. 113–291][/us/pl/113/291], § 531(f)(1), substituted “an individual” for “a person”.
 
-    Subsec. (c). [Pub. L. 113–291, § 531(f)(2)][/us/pl/113/291/s531/f/2], in heading, substituted “Appointment of Individuals to Assume Rights” for “Legal Guardian” and, in text, inserted “(but who is not a member of the armed forces)” after “under 18 years of age” and substituted “designate a representative” for “designate a legal guardian from among the representatives”, “another suitable individual” for “other suitable person”, and “the individual” for “the person”.
+    Subsec. (c). [Pub. L. 113–291][/us/pl/113/291], § 531(f)(2), in heading, substituted “Appointment of Individuals to Assume Rights” for “Legal Guardian” and, in text, inserted “(but who is not a member of the armed forces)” after “under 18 years of age” and substituted “designate a representative” for “designate a legal guardian from among the representatives”, “another suitable individual” for “other suitable person”, and “the individual” for “the person”.
 
-    Subsec. (e). [Pub. L. 113–291, § 535][/us/pl/113/291/s535], added subsec. (e).
+    Subsec. (e). [Pub. L. 113–291][/us/pl/113/291], § 535, added subsec. (e).
 
  __Implementation__ 
 
-[Pub. L. 113–66, div. A, title XVII, § 1701(b)][/us/pl/113/66/s1701/b], Dec. 26, 2013, [127 Stat. 953][/us/stat/127/953], provided that:
+[Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1701(b), Dec. 26, 2013, [127 Stat. 953][/us/stat/127/953], provided that:
 
 >     “(1)  __Issuance__  __.—__ 
 
@@ -150,17 +150,17 @@
 
 [/us/usc/t10/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs832
 [/us/usc/t10/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs832
-[/us/pl/113/66/s1701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1701%2Fa%2F1
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F952
-[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3364
-[/us/pl/114/92/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs531
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F814
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
-[/us/pl/113/291/s531/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Ff%2F1
-[/us/pl/113/291/s531/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Ff%2F2
-[/us/pl/113/291/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs535
-[/us/pl/113/66/s1701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1701%2Fb
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F953
 [/us/usc/t10/s806b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs806b
 [/us/usc/t10/s806b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs806b

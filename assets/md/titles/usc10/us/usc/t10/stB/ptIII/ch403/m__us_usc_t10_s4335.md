@@ -21,7 +21,7 @@
 
     (c) While serving as Dean of the Academic Board, an officer of the Army who holds a grade lower than brigadier general shall hold the grade of brigadier general, if appointed to that grade by the President, by and with the advice and consent of the Senate. The retirement age of an officer so appointed is that of a permanent professor of the Academy. An officer so appointed is counted for purposes of the limitation in [section 526(a) of this title][/us/usc/t10/s526/a] on general officers of the Army on active duty.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 239][/us/stat/70A/239]; [Pub. L. 85–861, § 33(a)(46)(A)][/us/pl/85/861/s33/a/46/A], Sept. 2, 1958, [72 Stat. 1567][/us/stat/72/1567]; [Pub. L. 99–661, div. A, title V, § 508(a)][/us/pl/99/661/s508/a], Nov. 14, 1986, [100 Stat. 3866][/us/stat/100/3866]; [Pub. L. 102–484, div. A, title V, § 521(a)][/us/pl/102/484/s521/a], Oct. 23, 1992, [106 Stat. 2409][/us/stat/106/2409]; [Pub. L. 106–65, div. A, title V, § 533(a)][/us/pl/106/65/s533/a], Oct. 5, 1999, [113 Stat. 604][/us/stat/113/604].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 239][/us/stat/70A/239]; [Pub. L. 85–861][/us/pl/85/861], § 33(a)(46)(A), Sept. 2, 1958, [72 Stat. 1567][/us/stat/72/1567]; [Pub. L. 99–661, div. A, title V][/us/pl/99/661/dA/tV], § 508(a), Nov. 14, 1986, [100 Stat. 3866][/us/stat/100/3866]; [Pub. L. 102–484, div. A, title V][/us/pl/102/484/dA/tV], § 521(a), Oct. 23, 1992, [106 Stat. 2409][/us/stat/106/2409]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 533(a), Oct. 5, 1999, [113 Stat. 604][/us/stat/113/604].)
 
 <table>
 
@@ -91,9 +91,9 @@ June 26, 1946, ch. 495, § 3 (less 1st 20 words), 60 Stat. 312.  </td>
 
     1992—Subsec. (c). [Pub. L. 102–484][/us/pl/102/484] struck out subsec. (c) which read as follows: “The Dean of the Academic Board has the grade of brigadier general while serving in such position, with the benefits authorized for regular brigadier generals of the Army, if appointed to that grade by the President, by and with the advice and consent of the Senate. However, the retirement age of an officer so appointed is that of a permanent professor of the Academy.”
 
-    1986—Subsec. (b). [Pub. L. 99–661, § 508(a)(1)][/us/pl/99/661/s508/a/1], struck out “The Dean has the grade of brigadier general while serving as such, with the benefits authorized for regular brigadier generals of the Army, except that his retirement age is that of a permanent professor of the Academy.” See subsec. (c).
+    1986—Subsec. (b). [Pub. L. 99–661][/us/pl/99/661], § 508(a)(1), struck out “The Dean has the grade of brigadier general while serving as such, with the benefits authorized for regular brigadier generals of the Army, except that his retirement age is that of a permanent professor of the Academy.” See subsec. (c).
 
-    Subsec. (c). [Pub. L. 99–661, § 508(a)(2)][/us/pl/99/661/s508/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 99–661][/us/pl/99/661], § 508(a)(2), added subsec. (c).
 
     1958—Subsec. (b). [Pub. L. 85–861][/us/pl/85/861] substituted “the grade of brigadier general” for “the regular grade of brigadier general”.
 
@@ -115,18 +115,18 @@ June 26, 1946, ch. 495, § 3 (less 1st 20 words), 60 Stat. 312.  </td>
 [/us/usc/t10/s526/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs526%2Fa
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F239
-[/us/pl/85/861/s33/a/46/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F46%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1567
-[/us/pl/99/661/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs508%2Fa
+[/us/pl/99/661/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtV
 [/us/stat/100/3866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3866
-[/us/pl/102/484/s521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs521%2Fa
+[/us/pl/102/484/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtV
 [/us/stat/106/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2409
-[/us/pl/106/65/s533/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs533%2Fa
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F604
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/99/661/s508/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs508%2Fa%2F1
-[/us/pl/99/661/s508/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs508%2Fa%2F2
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/661/s508/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs508%2Ff

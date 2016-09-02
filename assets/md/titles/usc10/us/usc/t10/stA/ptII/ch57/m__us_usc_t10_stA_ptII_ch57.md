@@ -163,49 +163,49 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–291, div. A, title V, § 571(a)(1)(B)][/us/pl/113/291/s571/a/1/B], Dec. 19, 2014, [128 Stat. 3387][/us/stat/128/3387], added item 1129a.
+    2014—[Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 571(a)(1)(B), Dec. 19, 2014, [128 Stat. 3387][/us/stat/128/3387], added item 1129a.
 
-    2013—[Pub. L. 113–66, div. A, title V, § 563(a)(2)][/us/pl/113/66/s563/a/2], Dec. 26, 2013, [127 Stat. 767][/us/stat/127/767], added item 1134a.
+    2013—[Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 563(a)(2), Dec. 26, 2013, [127 Stat. 767][/us/stat/127/767], added item 1134a.
 
-    2011—[Pub. L. 111–383, div. A, title V, § 571(b)][/us/pl/111/383/s571/b], Jan. 7, 2011, [124 Stat. 4223][/us/stat/124/4223], added item 1133 and struck out former item 1133 “Bronze star: limitation to members receiving imminent danger pay”.
+    2011—[Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 571(b), Jan. 7, 2011, [124 Stat. 4223][/us/stat/124/4223], added item 1133 and struck out former item 1133 “Bronze star: limitation to members receiving imminent danger pay”.
 
     2008—[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 571(b), Oct. 14, 2008, [122 Stat. 4472][/us/stat/122/4472], added item 1135.
 
-    2004—[Pub. L. 108–375, div. A, title V, § 561(b)][/us/pl/108/375/s561/b], Oct. 28, 2004, [118 Stat. 1918][/us/stat/118/1918], added item 1134.
+    2004—[Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 561(b), Oct. 28, 2004, [118 Stat. 1918][/us/stat/118/1918], added item 1134.
 
-    2003—[Pub. L. 108–136, div. A, title X, § 1031(a)(10)(B)][/us/pl/108/136/s1031/a/10/B], Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597], struck out “and recommendation” after “review” in item 1130.
+    2003—[Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(10)(B), Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597], struck out “and recommendation” after “review” in item 1130.
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 541(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–114, added item 1133.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 541(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–114, added item 1133.
 
-    1998—[Pub. L. 105–261, div. A, title V, § 537(b)][/us/pl/105/261/s537/b], Oct. 17, 1998, [112 Stat. 2019][/us/stat/112/2019], added item 1132.
+    1998—[Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 537(b), Oct. 17, 1998, [112 Stat. 2019][/us/stat/112/2019], added item 1132.
 
-    1997—[Pub. L. 105–85, div. A, title V, § 571(a)(2)][/us/pl/105/85/s571/a/2], Nov. 18, 1997, [111 Stat. 1756][/us/stat/111/1756], added item 1131.
+    1997—[Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 571(a)(2), Nov. 18, 1997, [111 Stat. 1756][/us/stat/111/1756], added item 1131.
 
-    1996—[Pub. L. 104–106, div. A, title V, § 526(b)][/us/pl/104/106/s526/b], Feb. 10, 1996, [110 Stat. 314][/us/stat/110/314], added item 1130.
+    1996—[Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 526(b), Feb. 10, 1996, [110 Stat. 314][/us/stat/110/314], added item 1130.
 
-    1993—[Pub. L. 103–160, div. A, title XI, § 1141(b)][/us/pl/103/160/s1141/b], Nov. 30, 1993, [107 Stat. 1757][/us/stat/107/1757], added item 1129.
+    1993—[Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1141(b), Nov. 30, 1993, [107 Stat. 1757][/us/stat/107/1757], added item 1129.
 
-    1985—[Pub. L. 99–145, title V, § 532(a)(2)][/us/pl/99/145/s532/a/2], title XII, § 1225(a)(2)(B), Nov. 8, 1985, [99 Stat. 634][/us/stat/99/634], 730, inserted “disclosures,” and substituted “and” for “or” in item 1124, and added item 1128.
+    1985—[Pub. L. 99–145, title V][/us/pl/99/145/tV], § 532(a)(2), title XII, § 1225(a)(2)(B), Nov. 8, 1985, [99 Stat. 634][/us/stat/99/634], 730, inserted “disclosures,” and substituted “and” for “or” in item 1124, and added item 1128.
 
-    1984—[Pub. L. 98–525, title V, § 553(b)][/us/pl/98/525/s553/b], Oct. 19, 1984, [98 Stat. 2532][/us/stat/98/2532], added item 1127.
+    1984—[Pub. L. 98–525, title V][/us/pl/98/525/tV], § 553(b), Oct. 19, 1984, [98 Stat. 2532][/us/stat/98/2532], added item 1127.
 
-    1966—[Pub. L. 89–718, § 9][/us/pl/89/718/s9], Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117], redesignated item 1124, added by [Pub. L. 89–534, § 1(2)][/us/pl/89/534/s1/2], Aug. 11, 1966, [80 Stat. 345][/us/stat/80/345], as 1126.
+    1966—[Pub. L. 89–718][/us/pl/89/718], § 9, Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117], redesignated item 1124, added by [Pub. L. 89–534][/us/pl/89/534], § 1(2), Aug. 11, 1966, [80 Stat. 345][/us/stat/80/345], as 1126.
 
-    [Pub. L. 89–534, § 1(2)][/us/pl/89/534/s1/2], Aug. 11, 1966, [80 Stat. 345][/us/stat/80/345], added item 1124, relating to eligibility for and distribution of gold star lapel button.
+    [Pub. L. 89–534][/us/pl/89/534], § 1(2), Aug. 11, 1966, [80 Stat. 345][/us/stat/80/345], added item 1124, relating to eligibility for and distribution of gold star lapel button.
 
-    [Pub. L. 89–529, § 1(2)][/us/pl/89/529/s1/2], Aug. 11, 1966, [80 Stat. 339][/us/stat/80/339], added item 1125.
+    [Pub. L. 89–529][/us/pl/89/529], § 1(2), Aug. 11, 1966, [80 Stat. 339][/us/stat/80/339], added item 1125.
 
-    1965—[Pub. L. 89–198, § 1(2)][/us/pl/89/198/s1/2], Sept. 22, 1965, [79 Stat. 831][/us/stat/79/831], added item 1124, relating to payment of cash awards for members of armed forces for suggestions, inventions, or scientific achievements.
+    1965—[Pub. L. 89–198][/us/pl/89/198], § 1(2), Sept. 22, 1965, [79 Stat. 831][/us/stat/79/831], added item 1124, relating to payment of cash awards for members of armed forces for suggestions, inventions, or scientific achievements.
 
  __Promotional Materials and Recognition Items for Participants in Operation Enduring Freedom or Operation Iraqi Freedom__ 
 
-[Pub. L. 110–116, div. A, title VIII, § 8099][/us/pl/110/116/s8099], Nov. 13, 2007, [121 Stat. 1337][/us/stat/121/1337], provided that: 
+[Pub. L. 110–116, div. A, title VIII][/us/pl/110/116/dA/tVIII], § 8099, Nov. 13, 2007, [121 Stat. 1337][/us/stat/121/1337], provided that: 
 
 > “Hereafter, the Secretary of Defense may present promotional materials, including a United States flag, to any member of an Active or Reserve component under the Secretary’s jurisdiction who, as determined by the Secretary, participates in Operation Enduring Freedom or Operation Iraqi Freedom, along with other recognition items in conjunction with any week-long national observation and day of national celebration, if established by Presidential proclamation, for any such members returning from such operations.”
 
  __Report on Department of Defense Process for Awarding Decorations__ 
 
-[Pub. L. 109–364, div. A, title V, § 557][/us/pl/109/364/s557], Oct. 17, 2006, [120 Stat. 2219][/us/stat/120/2219], provided that:
+[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 557, Oct. 17, 2006, [120 Stat. 2219][/us/stat/120/2219], provided that:
 
 >     “(a)  __Review__  __.—__ 
 
@@ -229,11 +229,11 @@
 
  __Separate Military Campaign Medals To Recognize Service in Operation Enduring Freedom and Service in Operation Iraqi Freedom__ 
 
-[Pub. L. 109–163, div. A, title V, § 576][/us/pl/109/163/s576], Jan. 6, 2006, [119 Stat. 3274][/us/stat/119/3274], provided that: 
+[Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 576, Jan. 6, 2006, [119 Stat. 3274][/us/stat/119/3274], provided that: 
 
 > “For purposes of eligibility for the campaign medal for Operation Enduring Freedom established pursuant to [Public Law 108–234][/us/pl/108/234] ([10 U.S.C. 1121][/us/usc/t10/s1121] note), the beginning date of Operation Enduring Freedom is September 11, 2001.”
 
-[Pub. L. 108–234, § 1][/us/pl/108/234/s1], May 28, 2004, [118 Stat. 655][/us/stat/118/655], provided that:
+[Pub. L. 108–234][/us/pl/108/234], § 1, May 28, 2004, [118 Stat. 655][/us/stat/118/655], provided that:
 
 >     “(a)  __Requirement__  __.—__ 
 
@@ -245,7 +245,7 @@
 
  __Commendation of Members of Armed Forces and Government Civilian Personnel Who Served During Cold War__ 
 
-[Pub. L. 105–85, div. A, title X, § 1084][/us/pl/105/85/s1084], Nov. 18, 1997, [111 Stat. 1919][/us/stat/111/1919], provided that:
+[Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1084, Nov. 18, 1997, [111 Stat. 1919][/us/stat/111/1919], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -424,54 +424,54 @@
 ----------
 ----------
 
-[/us/pl/113/291/s571/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs571%2Fa%2F1%2FB
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3387
-[/us/pl/113/66/s563/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs563%2Fa%2F2
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F767
-[/us/pl/111/383/s571/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs571%2Fb
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4223
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4472
-[/us/pl/108/375/s561/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs561%2Fb
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1918
-[/us/pl/108/136/s1031/a/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F10%2FB
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1597
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/105/261/s537/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs537%2Fb
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2019
-[/us/pl/105/85/s571/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs571%2Fa%2F2
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1756
-[/us/pl/104/106/s526/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs526%2Fb
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F314
-[/us/pl/103/160/s1141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1141%2Fb
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1757
-[/us/pl/99/145/s532/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs532%2Fa%2F2
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F634
-[/us/pl/98/525/s553/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs553%2Fb
+[/us/pl/98/525/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtV
 [/us/stat/98/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2532
-[/us/pl/89/718/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs9
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1117
-[/us/pl/89/534/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F534%2Fs1%2F2
+[/us/pl/89/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F534
 [/us/stat/80/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F345
-[/us/pl/89/534/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F534%2Fs1%2F2
+[/us/pl/89/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F534
 [/us/stat/80/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F345
-[/us/pl/89/529/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F529%2Fs1%2F2
+[/us/pl/89/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F529
 [/us/stat/80/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F339
-[/us/pl/89/198/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F198%2Fs1%2F2
+[/us/pl/89/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F198
 [/us/stat/79/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F831
-[/us/pl/110/116/s8099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F116%2Fs8099
+[/us/pl/110/116/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F116%2FdA%2FtVIII
 [/us/stat/121/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1337
-[/us/pl/109/364/s557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs557
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2219
-[/us/pl/109/163/s576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs576
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3274
 [/us/pl/108/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F234
 [/us/usc/t10/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1121
-[/us/pl/108/234/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F234%2Fs1
+[/us/pl/108/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F234
 [/us/stat/118/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F655
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/105/85/s1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1084
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1919
 [/us/pl/93/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F346
 [/us/usc/t3/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs111

@@ -95,13 +95,13 @@
 
             (B) an appropriately reduced amount based on the amount so contributed as determined under regulations that the Secretary of Veterans Affairs shall prescribe, for an approved program of education pursued on less than a full-time basis.
 
-(Added [Pub. L. 108–375, div. A, title V, § 527(a)][/us/pl/108/375/s527/a], Oct. 28, 2004, [118 Stat. 1890][/us/stat/118/1890]; amended [Pub. L. 109–163, div. A, title V, § 539(b)][/us/pl/109/163/s539/b], Jan. 6, 2006, [119 Stat. 3250][/us/stat/119/3250]; [Pub. L. 110–181, div. A, title V, § 528(c)][/us/pl/110/181/s528/c], Jan. 28, 2008, [122 Stat. 109][/us/stat/122/109].)
+(Added [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 527(a), Oct. 28, 2004, [118 Stat. 1890][/us/stat/118/1890]; amended [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 539(b), Jan. 6, 2006, [119 Stat. 3250][/us/stat/119/3250]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 528(c), Jan. 28, 2008, [122 Stat. 109][/us/stat/122/109].)
 
  __Amendments__ 
 
-    2008—Subsec. (c)(4)(C). [Pub. L. 110–181, § 528(c)(1)][/us/pl/110/181/s528/c/1], substituted “for—” for “for two continuous years or more.” and added cls. (i) and (ii).
+    2008—Subsec. (c)(4)(C). [Pub. L. 110–181][/us/pl/110/181], § 528(c)(1), substituted “for—” for “for two continuous years or more.” and added cls. (i) and (ii).
 
-    Subsec. (f). [Pub. L. 110–181, § 528(c)(2)][/us/pl/110/181/s528/c/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 110–181][/us/pl/110/181], § 528(c)(2), added subsec. (f).
 
     2006—Subsec. (e). [Pub. L. 109–163][/us/pl/109/163] added subsec. (e).
 
@@ -121,14 +121,14 @@
 [/us/usc/t38/s3695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3695
 [/us/usc/t38/s3695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3695
 [/us/usc/t10/s16131/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16131%2Fj
-[/us/pl/108/375/s527/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs527%2Fa
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1890
-[/us/pl/109/163/s539/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs539%2Fb
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3250
-[/us/pl/110/181/s528/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs528%2Fc
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F109
-[/us/pl/110/181/s528/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs528%2Fc%2F1
-[/us/pl/110/181/s528/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs528%2Fc%2F2
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/163/s539/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs539%2Fc

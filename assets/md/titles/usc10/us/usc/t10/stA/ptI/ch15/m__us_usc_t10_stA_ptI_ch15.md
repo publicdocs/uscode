@@ -75,11 +75,11 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, div. A, title X, § 1068(a)(3)][/us/pl/110/181/s1068/a/3], (4)(A), Jan. 28, 2008, [122 Stat. 325][/us/stat/122/325], substituted “INSURRECTION” for “ENFORCEMENT OF THE LAWS TO RESTORE PUBLIC ORDER” in chapter heading, added item 333, and struck out former item 333 “Major public emergencies; interference with State and Federal law”.
+    2008—[Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1068(a)(3), (4)(A), Jan. 28, 2008, [122 Stat. 325][/us/stat/122/325], substituted “INSURRECTION” for “ENFORCEMENT OF THE LAWS TO RESTORE PUBLIC ORDER” in chapter heading, added item 333, and struck out former item 333 “Major public emergencies; interference with State and Federal law”.
 
-    2006—[Pub. L. 109–364, div. A, title X, § 1076(a)(3)][/us/pl/109/364/s1076/a/3], (4)(B), Oct. 17, 2006, [120 Stat. 2405][/us/stat/120/2405], substituted “ENFORCEMENT OF THE LAWS TO RESTORE PUBLIC ORDER” for “INSURRECTION” in chapter heading and “Major public emergencies; interference with State and Federal law” for “Interference with State and Federal law” in item 333.
+    2006—[Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1076(a)(3), (4)(B), Oct. 17, 2006, [120 Stat. 2405][/us/stat/120/2405], substituted “ENFORCEMENT OF THE LAWS TO RESTORE PUBLIC ORDER” for “INSURRECTION” in chapter heading and “Major public emergencies; interference with State and Federal law” for “Interference with State and Federal law” in item 333.
 
-    1980—[Pub. L. 96–513, title V, § 511(11)(C)][/us/pl/96/513/s511/11/C], Dec. 12, 1980, [94 Stat. 2921][/us/stat/94/2921], added item 335.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(11)(C), Dec. 12, 1980, [94 Stat. 2921][/us/stat/94/2921], added item 335.
 
 ----------
 
@@ -88,11 +88,11 @@
 ----------
 ----------
 
-[/us/pl/110/181/s1068/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1068%2Fa%2F3
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F325
-[/us/pl/109/364/s1076/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1076%2Fa%2F3
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2405
-[/us/pl/96/513/s511/11/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F11%2FC
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2921
 
 

@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch551/m__us_usc_t10_s5952.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch553/m__us_usc_t10_stC_ptII_ch553.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5955)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch551/m__us_usc_t10_s5953 _us_usc_t10_s5954.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch553/m__us_usc_t10_stC_ptII_ch553.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5955)
 
-## \[§ 5955. Repealed. [Pub. L. 96–513, title III, § 361(a)][/us/pl/96/513/s361/a], Dec. 12, 1980, [94 Stat. 2902][/us/stat/94/2902]\]
+## \[§ 5955. Repealed. [Pub. L. 96–513, title III][/us/pl/96/513/tIII], § 361(a), Dec. 12, 1980, [94 Stat. 2902][/us/stat/94/2902]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 373][/us/stat/70A/373], directed that retired officers of the Navy be withdrawn from command. See [section 750 of this title][/us/usc/t10/s750].
 
@@ -23,12 +23,12 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch551/m__us_usc_t10_s5952.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch553/m__us_usc_t10_stC_ptII_ch553.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5955)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch551/m__us_usc_t10_s5953 _us_usc_t10_s5954.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch553/m__us_usc_t10_stC_ptII_ch553.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5955)
 
 ----------
 ----------
 
-[/us/pl/96/513/s361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs361%2Fa
+[/us/pl/96/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIII
 [/us/stat/94/2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2902
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F373

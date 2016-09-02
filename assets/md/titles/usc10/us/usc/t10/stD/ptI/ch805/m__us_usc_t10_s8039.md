@@ -39,7 +39,7 @@
 
     An officer appointed as Chief of Chaplains who holds a lower regular grade may be appointed in the regular grade of major general.
 
-(Added [Pub. L. 112–239, div. A, title V, § 508(a)][/us/pl/112/239/s508/a], Jan. 2, 2013, [126 Stat. 1716][/us/stat/126/1716].)
+(Added [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 508(a), Jan. 2, 2013, [126 Stat. 1716][/us/stat/126/1716].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t10/s8067/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8067%2Fh
-[/us/pl/112/239/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs508%2Fa
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1716
 
 

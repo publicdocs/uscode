@@ -29,7 +29,7 @@
 
     (6) provide for appropriate internal audit controls and oversight for such activities.
 
-(Added [Pub. L. 102–88, title V, § 504(a)(2)][/us/pl/102/88/s504/a/2], Aug. 14, 1991, [105 Stat. 439][/us/stat/105/439]; amended [Pub. L. 113–66, div. A, title IX, § 921(b)][/us/pl/113/66/s921/b], Dec. 26, 2013, [127 Stat. 827][/us/stat/127/827].)
+(Added [Pub. L. 102–88, title V][/us/pl/102/88/tV], § 504(a)(2), Aug. 14, 1991, [105 Stat. 439][/us/stat/105/439]; amended [Pub. L. 113–66, div. A, title IX][/us/pl/113/66/dA/tIX], § 921(b), Dec. 26, 2013, [127 Stat. 827][/us/stat/127/827].)
 
  __Amendments__ 
 
@@ -43,9 +43,9 @@
 ----------
 
 [/us/usc/t10/s433/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs433%2Fb
-[/us/pl/102/88/s504/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2Fs504%2Fa%2F2
+[/us/pl/102/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F88%2FtV
 [/us/stat/105/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F439
-[/us/pl/113/66/s921/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs921%2Fb
+[/us/pl/113/66/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtIX
 [/us/stat/127/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F827
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 

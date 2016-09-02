@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    1980—[Pub. L. 96–513, title V, § 501(19)][/us/pl/96/513/s501/19], Dec. 12, 1980, [94 Stat. 2908][/us/stat/94/2908], substituted “RETIREMENT OF WARRANT OFFICERS FOR LENGTH OF SERVICE” for “RETIREMENT FOR LENGTH OF SERVICE” as chapter heading.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], § 501(19), Dec. 12, 1980, [94 Stat. 2908][/us/stat/94/2908], substituted “RETIREMENT OF WARRANT OFFICERS FOR LENGTH OF SERVICE” for “RETIREMENT FOR LENGTH OF SERVICE” as chapter heading.
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/96/513/s501/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs501%2F19
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2908
 
 

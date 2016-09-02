@@ -35,7 +35,7 @@
 
         (2) The term “services” includes lighting, heating, cooling, electricity, office furniture, office machines and equipment, telephone and other information technology services (including installation of lines and equipment, connectivity, and other associated services), and security systems (including installation and other associated expenses).
 
-(Added [Pub. L. 107–314, div. A, title X, § 1066(a)][/us/pl/107/314/s1066/a], Dec. 2, 2002, [116 Stat. 2656][/us/stat/116/2656].)
+(Added [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1066(a), Dec. 2, 2002, [116 Stat. 2656][/us/stat/116/2656].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/107/314/s1066/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1066%2Fa
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2656
 
 

@@ -35,7 +35,7 @@
 
         (2) The terms “destructive device” and “ammunition” have the meanings given those terms by paragraphs (4) and (17), respectively, of [section 921(a) of title 18][/us/usc/t18/s921/a].
 
-(Added [Pub. L. 100–456, div. A, title III, § 344(a)][/us/pl/100/456/s344/a], Sept. 29, 1988, [102 Stat. 1961][/us/stat/102/1961]; amended [Pub. L. 109–364, div. A, title X, § 1071(a)(24)][/us/pl/109/364/s1071/a/24], Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399].)
+(Added [Pub. L. 100–456, div. A, title III][/us/pl/100/456/dA/tIII], § 344(a), Sept. 29, 1988, [102 Stat. 1961][/us/stat/102/1961]; amended [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(24), Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–456, div. A, title III, § 344(c)][/us/pl/100/456/s344/c], Sept. 29, 1988, [102 Stat. 1962][/us/stat/102/1962], provided that: 
+[Pub. L. 100–456, div. A, title III][/us/pl/100/456/dA/tIII], § 344(c), Sept. 29, 1988, [102 Stat. 1962][/us/stat/102/1962], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall take effect with respect to thefts and losses discovered more than 180 days after the date of the enactment of this Act \[Sept. 29, 1988\].”
 
@@ -55,12 +55,12 @@
 ----------
 
 [/us/usc/t18/s921/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921%2Fa
-[/us/pl/100/456/s344/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs344%2Fa
+[/us/pl/100/456/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtIII
 [/us/stat/102/1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1961
-[/us/pl/109/364/s1071/a/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F24
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2399
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/100/456/s344/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs344%2Fc
+[/us/pl/100/456/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtIII
 [/us/stat/102/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1962
 
 

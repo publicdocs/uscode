@@ -19,7 +19,7 @@
 
     (b) Subject to such limitations as the Secretary of Defense may prescribe, the Secretary of the military department concerned shall prescribe, by regulation, procedures for the review at any time of the record of any commissioned officer (other than a commissioned warrant officer or a retired officer) of the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps to determine whether such officer should be required, because of misconduct, because of moral or professional dereliction, or because his retention is not clearly consistent with the interests of national security, to show cause for his retention on active duty.
 
-(Added [Pub. L. 96–513, title I, § 110][/us/pl/96/513/s110], Dec. 12, 1980, [94 Stat. 2872][/us/stat/94/2872]; amended [Pub. L. 98–525, title V, § 524(b)(1)][/us/pl/98/525/s524/b/1], Oct. 19, 1984, [98 Stat. 2524][/us/stat/98/2524].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 110, Dec. 12, 1980, [94 Stat. 2872][/us/stat/94/2872]; amended [Pub. L. 98–525, title V][/us/pl/98/525/tV], § 524(b)(1), Oct. 19, 1984, [98 Stat. 2524][/us/stat/98/2524].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–525, title V, § 524(b)(3)][/us/pl/98/525/s524/b/3], Oct. 19, 1984, [98 Stat. 2524][/us/stat/98/2524], provided that: 
+[Pub. L. 98–525, title V][/us/pl/98/525/tV], § 524(b)(3), Oct. 19, 1984, [98 Stat. 2524][/us/stat/98/2524], provided that: 
 
 > “The amendments made by paragraphs (1) and (2) \[amending this section and the analysis to this chapter\] shall take effect on the first day of the first month that begins more than 60 days after the date of the enactment of this Act \[Oct. 19, 1984\], but shall not apply to any case in which, before that date, a board of officers has been ordered to convene under the provisions of [section 1181 of title 10][/us/usc/t10/s1181], United States Code, as in effect before that date.”
 
@@ -48,13 +48,13 @@
 ----------
 ----------
 
-[/us/pl/96/513/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs110
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2872
-[/us/pl/98/525/s524/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs524%2Fb%2F1
+[/us/pl/98/525/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtV
 [/us/stat/98/2524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2524
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
-[/us/pl/98/525/s524/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs524%2Fb%2F3
+[/us/pl/98/525/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtV
 [/us/stat/98/2524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2524
 [/us/usc/t10/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1181
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701

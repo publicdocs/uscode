@@ -29,7 +29,7 @@
 
     The Secretary of Defense shall establish procedures to ensure that, with regard to item managers and other personnel responsible for the acquisition and management of inventory items of the Department of Defense, personnel appraisal systems for such personnel give appropriate consideration to efforts made by such personnel to eliminate wasteful practices and achieve cost savings in the acquisition and management of inventory items.
 
-(Added [Pub. L. 101–510, div. A, title III, § 323(a)(1)][/us/pl/101/510/s323/a/1], Nov. 5, 1990, [104 Stat. 1530][/us/stat/104/1530]; amended [Pub. L. 102–190, div. A, title III, § 347(a)][/us/pl/102/190/s347/a], Dec. 5, 1991, [105 Stat. 1347][/us/stat/105/1347].)
+(Added [Pub. L. 101–510, div. A, title III][/us/pl/101/510/dA/tIII], § 323(a)(1), Nov. 5, 1990, [104 Stat. 1530][/us/stat/104/1530]; amended [Pub. L. 102–190, div. A, title III][/us/pl/102/190/dA/tIII], § 347(a), Dec. 5, 1991, [105 Stat. 1347][/us/stat/105/1347].)
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 
  __Management of Conventional Ammunition Inventory__ 
 
-[Pub. L. 113–291, div. A, title III, § 352(a)][/us/pl/113/291/s352/a], (b), Dec. 19, 2014, [128 Stat. 3347][/us/stat/128/3347], provided that:
+[Pub. L. 113–291, div. A, title III][/us/pl/113/291/dA/tIII], § 352(a), (b), Dec. 19, 2014, [128 Stat. 3347][/us/stat/128/3347], provided that:
 
 >     “(a)  __Consolidation of Data__  __.—__ 
 
@@ -53,7 +53,7 @@
 
  __Improvement of Inventory Management Practices__ 
 
-[Pub. L. 111–84, div. A, title III, § 328][/us/pl/111/84/s328], Oct. 28, 2009, [123 Stat. 2255][/us/stat/123/2255], provided that:
+[Pub. L. 111–84, div. A, title III][/us/pl/111/84/dA/tIII], § 328, Oct. 28, 2009, [123 Stat. 2255][/us/stat/123/2255], provided that:
 
 >     “(a)  __Inventory Management Practices Improvement Plan Required__  __.—__ 
 
@@ -105,11 +105,11 @@
 
  __Report on Inventory and Control of Military Equipment__ 
 
-    [Pub. L. 106–65, div. A, title III, § 363][/us/pl/106/65/s363], Oct. 5, 1999, [113 Stat. 576][/us/stat/113/576], provided that not later than Aug. 31, 2000, the Secretary of Defense was to submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the inventory and control of the military equipment of the Department of Defense as of the end of fiscal year 1999, and that not later than Nov. 30, 2000, the Inspector General of the Department of Defense was to review the report and submit comments to the committees.
+    [Pub. L. 106–65, div. A, title III][/us/pl/106/65/dA/tIII], § 363, Oct. 5, 1999, [113 Stat. 576][/us/stat/113/576], provided that not later than Aug. 31, 2000, the Secretary of Defense was to submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the inventory and control of the military equipment of the Department of Defense as of the end of fiscal year 1999, and that not later than Nov. 30, 2000, the Inspector General of the Department of Defense was to review the report and submit comments to the committees.
 
  __Best Commercial Inventory Practices for Management of Secondary Supply Items__ 
 
-[Pub. L. 105–261, div. A, title III, § 347][/us/pl/105/261/s347], Oct. 17, 1998, [112 Stat. 1980][/us/stat/112/1980], provided that:
+[Pub. L. 105–261, div. A, title III][/us/pl/105/261/dA/tIII], § 347, Oct. 17, 1998, [112 Stat. 1980][/us/stat/112/1980], provided that:
 
 >     “(a)  __Development and Submission of Schedule__  __.—__ 
 
@@ -127,7 +127,7 @@
 
  __Inventory Management of In-Transit Items__ 
 
-[Pub. L. 105–261, div. A, title III, § 349][/us/pl/105/261/s349], Oct. 17, 1998, [112 Stat. 1981][/us/stat/112/1981], as amended by [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 386\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–88, provided that:
+[Pub. L. 105–261, div. A, title III][/us/pl/105/261/dA/tIII], § 349, Oct. 17, 1998, [112 Stat. 1981][/us/stat/112/1981], as amended by [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 386\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–88, provided that:
 
 >     “(a)  __Requirement for Plan__  __.—__ 
 
@@ -181,7 +181,7 @@
 
  __Inventory Management__ 
 
-[Pub. L. 105–85, div. A, title III, § 395][/us/pl/105/85/s395], Nov. 18, 1997, [111 Stat. 1718][/us/stat/111/1718], provided that:
+[Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 395, Nov. 18, 1997, [111 Stat. 1718][/us/stat/111/1718], provided that:
 
 >     “(a)  __Development and Submission of Schedule__  __.—__ 
 
@@ -219,7 +219,7 @@
 
  __Direct Vendor Delivery System for Consumable Inventory Items of Department of Defense__ 
 
-[Pub. L. 104–106, div. A, title III, § 352][/us/pl/104/106/s352], Feb. 10, 1996, [110 Stat. 266][/us/stat/110/266], provided that:
+[Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 352, Feb. 10, 1996, [110 Stat. 266][/us/stat/110/266], provided that:
 
 >     “(a)  __Implementation of Direct Vendor Delivery System__  __.—__ 
 
@@ -239,7 +239,7 @@
 
  __Date of Issuance of Policy__ 
 
-[Pub. L. 101–510, div. A, title III, § 323(b)][/us/pl/101/510/s323/b], Nov. 5, 1990, [104 Stat. 1530][/us/stat/104/1530], provided that: 
+[Pub. L. 101–510, div. A, title III][/us/pl/101/510/dA/tIII], § 323(b), Nov. 5, 1990, [104 Stat. 1530][/us/stat/104/1530], provided that: 
 
 > “The policy required by [section 2458(a) of title 10][/us/usc/t10/s2458/a], United States Code (as added by subsection (a)), shall be issued not later than 180 days after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
@@ -250,33 +250,33 @@
 ----------
 ----------
 
-[/us/pl/101/510/s323/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs323%2Fa%2F1
+[/us/pl/101/510/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIII
 [/us/stat/104/1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1530
-[/us/pl/102/190/s347/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs347%2Fa
+[/us/pl/102/190/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtIII
 [/us/stat/105/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1347
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/102/190/s347/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs347%2Fc
 [/us/usc/t10/s2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2721
-[/us/pl/113/291/s352/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs352%2Fa
+[/us/pl/113/291/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIII
 [/us/stat/128/3347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3347
-[/us/pl/111/84/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs328
+[/us/pl/111/84/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIII
 [/us/stat/123/2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2255
-[/us/pl/106/65/s363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs363
+[/us/pl/106/65/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIII
 [/us/stat/113/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F576
-[/us/pl/105/261/s347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs347
+[/us/pl/105/261/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIII
 [/us/stat/112/1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1980
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/stat/111/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1718
 [/us/usc/t10/s2458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2458
-[/us/pl/105/261/s349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs349
+[/us/pl/105/261/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIII
 [/us/stat/112/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1981
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/105/85/s395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs395
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1718
-[/us/pl/104/106/s352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs352
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F266
-[/us/pl/101/510/s323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs323%2Fb
+[/us/pl/101/510/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIII
 [/us/stat/104/1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1530
 [/us/usc/t10/s2458/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2458%2Fa
 

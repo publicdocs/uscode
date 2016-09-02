@@ -19,7 +19,7 @@
 
     (b) Except as otherwise required by this chapter, all other records of trial and related documents shall be transmitted and disposed of as the Secretary concerned may prescribe by regulation.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 59][/us/stat/70A/59]; [Pub. L. 90–179, § 1(6)][/us/pl/90/179/s1/6], Dec. 8, 1967, [81 Stat. 546][/us/stat/81/546]; [Pub. L. 90–632, § 2(26)][/us/pl/90/632/s2/26], Oct. 24, 1968, [82 Stat. 1341][/us/stat/82/1341]; [Pub. L. 96–513, title V, § 511(25)][/us/pl/96/513/s511/25], Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922]; [Pub. L. 98–209, § 6(d)(1)][/us/pl/98/209/s6/d/1], Dec. 6, 1983, [97 Stat. 1401][/us/stat/97/1401].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 59][/us/stat/70A/59]; [Pub. L. 90–179][/us/pl/90/179], § 1(6), Dec. 8, 1967, [81 Stat. 546][/us/stat/81/546]; [Pub. L. 90–632][/us/pl/90/632], § 2(26), Oct. 24, 1968, [82 Stat. 1341][/us/stat/82/1341]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(25), Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922]; [Pub. L. 98–209][/us/pl/98/209], § 6(d)(1), Dec. 6, 1983, [97 Stat. 1401][/us/stat/97/1401].)
 
 <table>
 
@@ -121,13 +121,13 @@ May 5, 1950, ch. 169, § 1 (Art. 65), 64 Stat. 128.  </td>
 [/us/usc/t10/s861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs861
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F59
-[/us/pl/90/179/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179%2Fs1%2F6
+[/us/pl/90/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F179
 [/us/stat/81/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F546
-[/us/pl/90/632/s2/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F26
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1341
-[/us/pl/96/513/s511/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F25
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2922
-[/us/pl/98/209/s6/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs6%2Fd%2F1
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1401
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

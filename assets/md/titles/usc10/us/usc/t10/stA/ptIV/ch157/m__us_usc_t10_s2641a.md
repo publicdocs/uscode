@@ -33,13 +33,13 @@
 
         (2) A charge may not be imposed on a veteran for transportation provided to the veteran under this section.
 
-(Added [Pub. L. 105–262, title VIII, § 8121(a)][/us/pl/105/262/s8121/a], Oct. 17, 1998, [112 Stat. 2332][/us/stat/112/2332]; amended [Pub. L. 106–65, div. A, title X, § 1066(a)(24)][/us/pl/106/65/s1066/a/24], Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771].)
+(Added [Pub. L. 105–262, title VIII][/us/pl/105/262/tVIII], § 8121(a), Oct. 17, 1998, [112 Stat. 2332][/us/stat/112/2332]; amended [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1066(a)(24), Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771].)
 
  __Amendments__ 
 
-    1999—Subsec. (b)(2). [Pub. L. 106–65, § 1066(a)(24)(A)][/us/pl/106/65/s1066/a/24/A], struck out “, United States Code,” after “title 38”.
+    1999—Subsec. (b)(2). [Pub. L. 106–65][/us/pl/106/65], § 1066(a)(24)(A), struck out “, United States Code,” after “title 38”.
 
-    Subsec. (d). [Pub. L. 106–65, § 1066(a)(24)(B)][/us/pl/106/65/s1066/a/24/B], struck out heading and text of subsec. (d). Text read as follows: “In this section:
+    Subsec. (d). [Pub. L. 106–65][/us/pl/106/65], § 1066(a)(24)(B), struck out heading and text of subsec. (d). Text read as follows: “In this section:
 
     “(1) The term ‘veteran’ has the meaning given that term in [section 101(2) of title 38][/us/usc/t38/s101/2], United States Code.
 
@@ -52,12 +52,12 @@
 ----------
 ----------
 
-[/us/pl/105/262/s8121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F262%2Fs8121%2Fa
+[/us/pl/105/262/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F262%2FtVIII
 [/us/stat/112/2332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2332
-[/us/pl/106/65/s1066/a/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fa%2F24
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F771
-[/us/pl/106/65/s1066/a/24/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fa%2F24%2FA
-[/us/pl/106/65/s1066/a/24/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fa%2F24%2FB
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t38/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F2
 [/us/usc/t38/s1701/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701%2F5
 

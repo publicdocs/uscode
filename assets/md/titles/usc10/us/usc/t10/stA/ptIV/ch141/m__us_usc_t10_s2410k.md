@@ -27,13 +27,13 @@
 
     The regulations promulgated under this section shall apply to any contract entered into with the Department of Defense in an amount of $500,000 or more.
 
-(Added [Pub. L. 102–484, div. D, title XLIV, § 4470(a)(1)][/us/pl/102/484/s4470/a/1], Oct. 23, 1992, [106 Stat. 2753][/us/stat/106/2753], § 2410d; renumbered § 2410k and amended [Pub. L. 103–35, title II][/us/pl/103/35], §§ 201(b)(1)(A), 202(a)(18)(A), May 31, 1993, [107 Stat. 97][/us/stat/107/97], 102.)
+(Added [Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], § 4470(a)(1), Oct. 23, 1992, [106 Stat. 2753][/us/stat/106/2753], § 2410d; renumbered § 2410k and amended [Pub. L. 103–35, title II][/us/pl/103/35/tII], §§ 201(b)(1)(A), 202(a)(18)(A), May 31, 1993, [107 Stat. 97][/us/stat/107/97], 102.)
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–35, § 201(b)(1)(A)][/us/pl/103/35/s201/b/1/A], renumbered [section 2410d of this title][/us/usc/t10/s2410d] as this section.
+    1993—[Pub. L. 103–35][/us/pl/103/35], § 201(b)(1)(A), renumbered [section 2410d of this title][/us/usc/t10/s2410d] as this section.
 
-    [Pub. L. 103–35, § 202(a)(18)(A)][/us/pl/103/35/s202/a/18/A], made technical amendment to directory language of [Pub. L. 102–484][/us/pl/102/484], which enacted this section.
+    [Pub. L. 103–35][/us/pl/103/35], § 202(a)(18)(A), made technical amendment to directory language of [Pub. L. 102–484][/us/pl/102/484], which enacted this section.
 
  __Effective Date of 1993 Amendment__ 
 
@@ -41,7 +41,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–484, div. D, title XLIV, § 4470(b)][/us/pl/102/484/s4470/b], Oct. 23, 1992, [106 Stat. 2753][/us/stat/106/2753], provided that: 
+[Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], § 4470(b), Oct. 23, 1992, [106 Stat. 2753][/us/stat/106/2753], provided that: 
 
 > “[Section 2410d of title 10][/us/usc/t10/s2410d], United States Code, as added by subsection (a), shall apply with respect to contracts entered into beginning 120 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
 
@@ -52,19 +52,19 @@
 ----------
 ----------
 
-[/us/pl/102/484/s4470/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4470%2Fa%2F1
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2753
-[/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F97
-[/us/pl/103/35/s201/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fb%2F1%2FA
+[/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
 [/us/usc/t10/s2410d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2410d
-[/us/pl/103/35/s202/a/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs202%2Fa%2F18%2FA
+[/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/103/35/s202/a/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs202%2Fa%2F18%2FA
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/103/35/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs202%2Fb
 [/us/usc/t10/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs155
-[/us/pl/102/484/s4470/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4470%2Fb
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2753
 [/us/usc/t10/s2410d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2410d
 

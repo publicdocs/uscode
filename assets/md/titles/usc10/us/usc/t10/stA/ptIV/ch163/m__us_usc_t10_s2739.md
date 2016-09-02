@@ -27,11 +27,11 @@
 
     For purposes of subsection (a), a qualifying military department third-party collection is any amount that a military department collects under sections 3711, 3716, 3717, and 3721 of title 31 from a third party for a loss or damage to personal property that occurred during shipment or storage of the property at Government expense and for which the Secretary of the military department paid the owner in settlement of a claim.
 
-(Added [Pub. L. 105–261, div. A, title X, § 1010(a)(1)][/us/pl/105/261/s1010/a/1], Oct. 17, 1998, [112 Stat. 2117][/us/stat/112/2117].)
+(Added [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1010(a)(1), Oct. 17, 1998, [112 Stat. 2117][/us/stat/112/2117].)
 
  __Effective Date__ 
 
-[Pub. L. 105–261, div. A, title X, § 1010(b)][/us/pl/105/261/s1010/b], Oct. 17, 1998, [112 Stat. 2117][/us/stat/112/2117], provided that: 
+[Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1010(b), Oct. 17, 1998, [112 Stat. 2117][/us/stat/112/2117], provided that: 
 
 > “[Section 2739 of title 10][/us/usc/t10/s2739], United States Code, as added by subsection (a), applies with respect to amounts collected by a military department on or after the date of the enactment of this Act \[Oct. 17, 1998\].”
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/105/261/s1010/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1010%2Fa%2F1
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2117
-[/us/pl/105/261/s1010/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1010%2Fb
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2117
 [/us/usc/t10/s2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2739
 

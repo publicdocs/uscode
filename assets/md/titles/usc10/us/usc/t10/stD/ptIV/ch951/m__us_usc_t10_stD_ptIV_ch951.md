@@ -75,9 +75,9 @@
 
  __Amendments__ 
 
-    1972—[Pub. L. 92–417, § 1(7)][/us/pl/92/417/s1/7], Aug. 29, 1972, [86 Stat. 655][/us/stat/86/655], substituted “Admiralty claims against the United States” for “Damage by United States vessels; towage and salvage of United States vessels” in item 9802.
+    1972—[Pub. L. 92–417][/us/pl/92/417], § 1(7), Aug. 29, 1972, [86 Stat. 655][/us/stat/86/655], substituted “Admiralty claims against the United States” for “Damage by United States vessels; towage and salvage of United States vessels” in item 9802.
 
-    1960—[Pub. L. 86–533, § 1(7)(B)][/us/pl/86/533/s1/7/B], June 29, 1960, [74 Stat. 247][/us/stat/74/247], struck out item 9805 “Reports to Congress”.
+    1960—[Pub. L. 86–533][/us/pl/86/533], § 1(7)(B), June 29, 1960, [74 Stat. 247][/us/stat/74/247], struck out item 9805 “Reports to Congress”.
 
 ----------
 
@@ -86,9 +86,9 @@
 ----------
 ----------
 
-[/us/pl/92/417/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F417%2Fs1%2F7
+[/us/pl/92/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F417
 [/us/stat/86/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F655
-[/us/pl/86/533/s1/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F533%2Fs1%2F7%2FB
+[/us/pl/86/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F533
 [/us/stat/74/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F247
 
 

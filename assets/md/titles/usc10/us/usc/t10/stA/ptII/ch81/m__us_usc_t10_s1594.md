@@ -33,7 +33,7 @@
 
         (2) The term “pay” includes allowances.
 
-(Added [Pub. L. 101–189, div. A, title VI, § 664(b)(1)][/us/pl/101/189/s664/b/1], Nov. 29, 1989, [103 Stat. 1466][/us/stat/103/1466]; amended [Pub. L. 101–510, div. A, title XIV, § 1484(k)(6)][/us/pl/101/510/s1484/k/6], Nov. 5, 1990, [104 Stat. 1719][/us/stat/104/1719]; [Pub. L. 102–25, title VII, § 701(e)(8)(A)][/us/pl/102/25/s701/e/8/A], Apr. 6, 1991, [105 Stat. 115][/us/stat/105/115]; [Pub. L. 105–261, div. A, title V, § 564(b)][/us/pl/105/261/s564/b], Oct. 17, 1998, [112 Stat. 2029][/us/stat/112/2029].)
+(Added [Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 664(b)(1), Nov. 29, 1989, [103 Stat. 1466][/us/stat/103/1466]; amended [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1484(k)(6), Nov. 5, 1990, [104 Stat. 1719][/us/stat/104/1719]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 701(e)(8)(A), Apr. 6, 1991, [105 Stat. 115][/us/stat/105/115]; [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 564(b), Oct. 17, 1998, [112 Stat. 2029][/us/stat/112/2029].)
 
  __Amendments__ 
 
@@ -54,13 +54,13 @@
 ----------
 ----------
 
-[/us/pl/101/189/s664/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs664%2Fb%2F1
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1466
-[/us/pl/101/510/s1484/k/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484%2Fk%2F6
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1719
-[/us/pl/102/25/s701/e/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Fe%2F8%2FA
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F115
-[/us/pl/105/261/s564/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs564%2Fb
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2029
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t31/s3332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3332%2Fa

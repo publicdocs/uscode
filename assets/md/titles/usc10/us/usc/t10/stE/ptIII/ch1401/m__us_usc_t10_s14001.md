@@ -17,7 +17,7 @@
 
     This chapter and chapters 1403 through 1411 of this title apply, as appropriate, to all reserve officers of the Army, Navy, Air Force, and Marine Corps except warrant officers.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2922][/us/stat/108/2922].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2922][/us/stat/108/2922].)
 
  __Effective Date__ 
 
@@ -25,7 +25,7 @@
 
  __Effects of Selection for Promotion and Failure of Selection for Army and Air Force Officers__ 
 
-[Section 1682 of title XVI of div. A of Pub. L. 103–337][/us/pl/103/337/s1682] provided that:
+[Section 1682 of title XVI of div. A of Pub. L. 103–337][/us/pl/103/337/dA/tXVI/s1682] provided that:
 
 >     “(a)  __Promotions To Fill Vacancies__  __.—__ 
 
@@ -63,7 +63,7 @@
 
  __Effects of Selection for Promotion and Failure of Selection for Navy and Marine Corps Officers__ 
 
-[Section 1683 of title XVI of div. A of Pub. L. 103–337][/us/pl/103/337/s1683] provided that:
+[Section 1683 of title XVI of div. A of Pub. L. 103–337][/us/pl/103/337/dA/tXVI/s1683] provided that:
 
 >     “(a)  __Recommendations for Promotion__  __.—__ 
 
@@ -96,11 +96,11 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2922
 [/us/pl/103/337/s1691/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691%2Fb%2F1
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
-[/us/pl/103/337/s1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1682
+[/us/pl/103/337/dA/tXVI/s1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI%2Fs1682
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
 [/us/usc/t10/s14101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fa%2F2
@@ -111,7 +111,7 @@
 [/us/usc/t10/s14101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fa%2F1
 [/us/usc/t10/s3364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3364
 [/us/usc/t10/s14308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14308%2Fa
-[/us/pl/103/337/s1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1683
+[/us/pl/103/337/dA/tXVI/s1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI%2Fs1683
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
 [/us/usc/t10/s14101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fa

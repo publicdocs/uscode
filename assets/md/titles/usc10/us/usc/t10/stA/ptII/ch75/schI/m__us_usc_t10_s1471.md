@@ -99,7 +99,7 @@
 
     In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and Guam.
 
-(Added [Pub. L. 106–65, div. A, title VII, § 721(a)][/us/pl/106/65/s721/a], Oct. 5, 1999, [113 Stat. 692][/us/stat/113/692].)
+(Added [Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 721(a), Oct. 5, 1999, [113 Stat. 692][/us/stat/113/692].)
 
 ----------
 
@@ -108,7 +108,7 @@
 ----------
 ----------
 
-[/us/pl/106/65/s721/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs721%2Fa
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F692
 
 

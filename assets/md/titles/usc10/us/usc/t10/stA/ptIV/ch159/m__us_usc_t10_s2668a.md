@@ -51,7 +51,7 @@
 
     The grant of an easement under this section shall be subject to such additional terms and conditions as the Secretary concerned considers appropriate to protect the interests of the United States.
 
-(Added [Pub. L. 109–364, div. B, title XXVIII, § 2823(a)][/us/pl/109/364/s2823/a], Oct. 17, 2006, [120 Stat. 2475][/us/stat/120/2475].)
+(Added [Pub. L. 109–364, div. B, title XXVIII][/us/pl/109/364/dB/tXXVIII], § 2823(a), Oct. 17, 2006, [120 Stat. 2475][/us/stat/120/2475].)
 
 ----------
 
@@ -62,7 +62,7 @@
 
 [/us/usc/t26/s170/h/4/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170%2Fh%2F4%2FA%2Fiv
 [/us/usc/t26/s170/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170%2Fh
-[/us/pl/109/364/s2823/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2823%2Fa
+[/us/pl/109/364/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdB%2FtXXVIII
 [/us/stat/120/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2475
 
 

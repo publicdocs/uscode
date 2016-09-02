@@ -65,7 +65,7 @@
 
         (4) Any other factor that may be prescribed by the President by regulations under [section 836 of this title][/us/usc/t10/s836] (article 36).
 
-(Added [Pub. L. 99–145, title V, § 534(a)][/us/pl/99/145/s534/a], Nov. 8, 1985, [99 Stat. 634][/us/stat/99/634].)
+(Added [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 534(a), Nov. 8, 1985, [99 Stat. 634][/us/stat/99/634].)
 
 ----------
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/usc/t10/s836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs836
-[/us/pl/99/145/s534/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs534%2Fa
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F634
 
 

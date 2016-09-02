@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s136.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s137.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs136a)
 
-## \[§ 136a. Repealed. [Pub. L. 111–383, div. A, title IX, § 901(b)(1)][/us/pl/111/383/s901/b/1], Jan. 7, 2011, [124 Stat. 4317][/us/stat/124/4317]\]
+## \[§ 136a. Repealed. [Pub. L. 111–383, div. A, title IX][/us/pl/111/383/dA/tIX], § 901(b)(1), Jan. 7, 2011, [124 Stat. 4317][/us/stat/124/4317]\]
 
-    Section, added [Pub. L. 107–107, div. A, title IX, § 901(a)(1)][/us/pl/107/107/s901/a/1], Dec. 28, 2001, [115 Stat. 1193][/us/stat/115/1193]; amended [Pub. L. 111–84, div. A, title IX, § 906(c)(1)(C)][/us/pl/111/84/s906/c/1/C], (2)(C), Oct. 28, 2009, [123 Stat. 2427][/us/stat/123/2427], established the position of Principal Deputy Under Secretary of Defense for Personnel and Readiness.
+    Section, added [Pub. L. 107–107, div. A, title IX][/us/pl/107/107/dA/tIX], § 901(a)(1), Dec. 28, 2001, [115 Stat. 1193][/us/stat/115/1193]; amended [Pub. L. 111–84, div. A, title IX][/us/pl/111/84/dA/tIX], § 906(c)(1)(C), (2)(C), Oct. 28, 2009, [123 Stat. 2427][/us/stat/123/2427], established the position of Principal Deputy Under Secretary of Defense for Personnel and Readiness.
 
  __Prior Provisions__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/111/383/s901/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fb%2F1
+[/us/pl/111/383/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtIX
 [/us/stat/124/4317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4317
-[/us/pl/107/107/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs901%2Fa%2F1
+[/us/pl/107/107/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIX
 [/us/stat/115/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1193
-[/us/pl/111/84/s906/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs906%2Fc%2F1%2FC
+[/us/pl/111/84/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIX
 [/us/stat/123/2427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2427
 [/us/usc/t10/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139
 [/us/pl/111/383/s901/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fp

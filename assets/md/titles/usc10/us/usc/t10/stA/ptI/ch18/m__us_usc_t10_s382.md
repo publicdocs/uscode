@@ -81,25 +81,25 @@
 
     Nothing in this section shall be construed to restrict any executive branch authority regarding use of members of the armed forces or equipment of the Department of Defense that was in effect before September 23, 1996.
 
-(Added [Pub. L. 104–201, div. A, title XIV, § 1416(a)(1)][/us/pl/104/201/s1416/a/1], Sept. 23, 1996, [110 Stat. 2721][/us/stat/110/2721]; amended [Pub. L. 105–85, div. A, title X, § 1073(a)(6)][/us/pl/105/85/s1073/a/6], Nov. 18, 1997, [111 Stat. 1900][/us/stat/111/1900]; [Pub. L. 111–383, div. A, title X, § 1075(b)(10)(A)][/us/pl/111/383/s1075/b/10/A], (B), Jan. 7, 2011, [124 Stat. 4369][/us/stat/124/4369]; [Pub. L. 112–81, div. A, title X, § 1089][/us/pl/112/81/s1089], Dec. 31, 2011, [125 Stat. 1603][/us/stat/125/1603].)
+(Added [Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1416(a)(1), Sept. 23, 1996, [110 Stat. 2721][/us/stat/110/2721]; amended [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(6), Nov. 18, 1997, [111 Stat. 1900][/us/stat/111/1900]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(b)(10)(A), (B), Jan. 7, 2011, [124 Stat. 4369][/us/stat/124/4369]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1089, Dec. 31, 2011, [125 Stat. 1603][/us/stat/125/1603].)
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–383, § 1075(b)(10)(B)][/us/pl/111/383/s1075/b/10/B], struck out “chemical or biological” before “weapons” in section catchline.
+    2011—[Pub. L. 111–383][/us/pl/111/383], § 1075(b)(10)(B), struck out “chemical or biological” before “weapons” in section catchline.
 
     Subsec. (a). [Pub. L. 112–81][/us/pl/112/81] struck out “biological or chemical” before “weapon of mass destruction” in introductory provisions.
 
-    [Pub. L. 111–383, § 1075(b)(10)(A)][/us/pl/111/383/s1075/b/10/A], substituted “section 175, 229, or 2332a” for “section 175 or 2332c”.
+    [Pub. L. 111–383][/us/pl/111/383], § 1075(b)(10)(A), substituted “section 175, 229, or 2332a” for “section 175 or 2332c”.
 
     Subsec. (b). [Pub. L. 112–81][/us/pl/112/81] struck out “biological or chemical” before “weapon of mass destruction” in two places in introductory provisions.
 
-    Subsecs. (b)(2)(C), (d)(2)(A)(ii). [Pub. L. 111–383, § 1075(b)(10)(A)][/us/pl/111/383/s1075/b/10/A], substituted “section 175, 229, or 2332a” for “section 175 or 2332c”.
+    Subsecs. (b)(2)(C), (d)(2)(A)(ii). [Pub. L. 111–383][/us/pl/111/383], § 1075(b)(10)(A), substituted “section 175, 229, or 2332a” for “section 175 or 2332c”.
 
     1997—Subsec. (g). [Pub. L. 105–85][/us/pl/105/85] substituted “September 23, 1996” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997”.
 
  __Military Assistance to Civil Authorities To Respond to Act or Threat of Terrorism__ 
 
-    [Pub. L. 106–65, div. A, title X, § 1023][/us/pl/106/65/s1023], Oct. 5, 1999, [113 Stat. 747][/us/stat/113/747], authorized the Secretary of Defense, upon the request of the Attorney General, to provide assistance to civil authorities in responding to an act of terrorism or threat of an act of terrorism within the United States, if the Secretary determined that certain conditions were met, subject to reimbursement and limitations on funding and personnel, and provided that this authority applied between Oct. 1, 1999, and Sept. 30, 2004.
+    [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1023, Oct. 5, 1999, [113 Stat. 747][/us/stat/113/747], authorized the Secretary of Defense, upon the request of the Attorney General, to provide assistance to civil authorities in responding to an act of terrorism or threat of an act of terrorism within the United States, if the Secretary determined that certain conditions were met, subject to reimbursement and limitations on funding and personnel, and provided that this authority applied between Oct. 1, 1999, and Sept. 30, 2004.
 
 ----------
 
@@ -110,21 +110,21 @@
 
 [/us/usc/t10/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs372
 [/us/usc/t10/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs377
-[/us/pl/104/201/s1416/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1416%2Fa%2F1
+[/us/pl/104/201/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIV
 [/us/stat/110/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2721
-[/us/pl/105/85/s1073/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F6
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1900
-[/us/pl/111/383/s1075/b/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F10%2FA
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4369
-[/us/pl/112/81/s1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1089
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1603
-[/us/pl/111/383/s1075/b/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F10%2FB
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/111/383/s1075/b/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F10%2FA
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/111/383/s1075/b/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F10%2FA
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/106/65/s1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1023
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F747
 
 

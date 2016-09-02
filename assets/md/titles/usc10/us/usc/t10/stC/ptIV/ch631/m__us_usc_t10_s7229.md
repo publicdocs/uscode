@@ -63,7 +63,7 @@ R.S. 3728.  </td>
 
 </table>
 
-    The first sentence is omitted as covered by [§ 2 of the Act of Mar. 3, 1933, ch. 212][/us/act/1933-03-03/ch212/s2] ([41 U.S.C. 10a][/us/usc/t41/s10a]). The words “for the Navy, or for naval stations and yards” are omitted, since R.S. 3728 has been interpreted as authorizing the Armed Services Petroleum Purchasing Agency to negotiate contracts for the purchase of fuel, not only when acting as a procuring activity for the Navy, but also when filling the consolidated fuel requirements of the armed forces. The word “may” is substituted for the words “shall have the power to” for uniformity. The words “discriminate and” are omitted as surplusage.
+    The first sentence is omitted as covered by § 2 of the [Act of Mar. 3, 1933, ch. 212][/us/act/1933-03-03/ch212] ([41 U.S.C. 10a][/us/usc/t41/s10a]). The words “for the Navy, or for naval stations and yards” are omitted, since R.S. 3728 has been interpreted as authorizing the Armed Services Petroleum Purchasing Agency to negotiate contracts for the purchase of fuel, not only when acting as a procuring activity for the Navy, but also when filling the consolidated fuel requirements of the armed forces. The word “may” is substituted for the words “shall have the power to” for uniformity. The words “discriminate and” are omitted as surplusage.
 
 ----------
 
@@ -74,7 +74,7 @@ R.S. 3728.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F448
-[/us/act/1933-03-03/ch212/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2Fch212%2Fs2
+[/us/act/1933-03-03/ch212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2Fch212
 [/us/usc/t41/s10a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10a
 
 

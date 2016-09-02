@@ -39,11 +39,11 @@
 
     The Secretary of the Army shall submit to the congressional defense committees and the Committees on Veterans’ Affairs of the Senate and House of Representatives an annual budget request (and detailed justifications for the amount of the request) to fund administration, operation and maintenance, and construction related to the Cemeteries. The Secretary may include, as necessary, proposals for new or amended statutory authority related to the Cemeteries.
 
-(Added [Pub. L. 112–81, div. A, title V, § 591(a)(1)][/us/pl/112/81/s591/a/1], Dec. 31, 2011, [125 Stat. 1439][/us/stat/125/1439].)
+(Added [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 591(a)(1), Dec. 31, 2011, [125 Stat. 1439][/us/stat/125/1439].)
 
  __Digitization of Arlington National Cemetery Interment and Inurnment Records__ 
 
-[Pub. L. 112–81, div. A, title V, § 591(b)][/us/pl/112/81/s591/b], Dec. 31, 2011, [125 Stat. 1441][/us/stat/125/1441], provided that:
+[Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 591(b), Dec. 31, 2011, [125 Stat. 1441][/us/stat/125/1441], provided that:
 
 >     “(1)  __Deadline for conversion and use__  __.—__ 
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/112/81/s591/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs591%2Fa%2F1
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1439
-[/us/pl/112/81/s591/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs591%2Fb
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1441
 
 

@@ -47,15 +47,15 @@
 
     The Secretary of Defense shall encourage members of the armed forces to apply to participate in an undergraduate nurse training program. Graduates of the program shall incur a military service obligation in a regular or reserve component, as determined by the Secretary.
 
-(Added [Pub. L. 111–84, div. A, title V, § 525(b)(1)][/us/pl/111/84/s525/b/1], Oct. 28, 2009, [123 Stat. 2286][/us/stat/123/2286]; amended [Pub. L. 111–383, div. A, title V, § 551(a)][/us/pl/111/383/s551/a]–(c), Jan. 7, 2011, [124 Stat. 4219][/us/stat/124/4219].)
+(Added [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 525(b)(1), Oct. 28, 2009, [123 Stat. 2286][/us/stat/123/2286]; amended [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 551(a)–(c), Jan. 7, 2011, [124 Stat. 4219][/us/stat/124/4219].)
 
  __Amendments__ 
 
-    2011—Subsec. (a)(1). [Pub. L. 111–383, § 551(a)][/us/pl/111/383/s551/a], substituted “a bachelor of science degree in nursing” for “a nursing degree”.
+    2011—Subsec. (a)(1). [Pub. L. 111–383][/us/pl/111/383], § 551(a), substituted “a bachelor of science degree in nursing” for “a nursing degree”.
 
-    Subsec. (b). [Pub. L. 111–383, § 551(b)][/us/pl/111/383/s551/b], inserted “in nursing” after “bachelor of science degree”.
+    Subsec. (b). [Pub. L. 111–383][/us/pl/111/383], § 551(b), inserted “in nursing” after “bachelor of science degree”.
 
-    Subsec. (d). [Pub. L. 111–383, § 551(c)][/us/pl/111/383/s551/c], amended subsec. (d) generally. Prior to amendment, text read as follows: “An academic institution selected to operate an undergraduate nurse training program shall establish the program at or near a military installation. A military installation at or near which an undergraduate nurse training program is established must—
+    Subsec. (d). [Pub. L. 111–383][/us/pl/111/383], § 551(c), amended subsec. (d) generally. Prior to amendment, text read as follows: “An academic institution selected to operate an undergraduate nurse training program shall establish the program at or near a military installation. A military installation at or near which an undergraduate nurse training program is established must—
 
     “(1) be one of the ten largest military installations in the United States, in terms of the number of active duty personnel assigned to the installation and family members residing on or in the vicinity of the installations; and
 
@@ -63,7 +63,7 @@
 
  __Plan and Pilot Program To Establish Undergraduate Nurse Training Program__ 
 
-[Pub. L. 111–84, div. A, title V, § 525(c)][/us/pl/111/84/s525/c]–(f), Oct. 28, 2009, [123 Stat. 2287][/us/stat/123/2287], 2288, as amended by [Pub. L. 111–383, div. A, title V, § 551(d)][/us/pl/111/383/s551/d], Jan. 7, 2011, [124 Stat. 4219][/us/stat/124/4219], provided that:
+[Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 525(c)–(f), Oct. 28, 2009, [123 Stat. 2287][/us/stat/123/2287], 2288, as amended by [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 551(d), Jan. 7, 2011, [124 Stat. 4219][/us/stat/124/4219], provided that:
 
 >     “(c)  __Undergraduate Nurse Training Program Plan__  __.—__ 
 
@@ -110,16 +110,16 @@
 ----------
 ----------
 
-[/us/pl/111/84/s525/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs525%2Fb%2F1
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2286
-[/us/pl/111/383/s551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs551%2Fa
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4219
-[/us/pl/111/383/s551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs551%2Fa
-[/us/pl/111/383/s551/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs551%2Fb
-[/us/pl/111/383/s551/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs551%2Fc
-[/us/pl/111/84/s525/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs525%2Fc
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2287
-[/us/pl/111/383/s551/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs551%2Fd
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4219
 [/us/usc/t10/s2169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2169
 [/us/usc/t10/s2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2016

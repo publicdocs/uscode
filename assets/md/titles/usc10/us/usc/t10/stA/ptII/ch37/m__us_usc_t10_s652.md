@@ -39,7 +39,7 @@
 
         (4) In this subsection, the term “ground combat exclusion policy” means the military personnel policies of the Department of Defense and the military departments, as in effect on October 1, 1994, by which female members of the armed forces are restricted from assignment to units and positions below brigade level whose primary mission is to engage in direct combat on the ground.
 
-        \[(5) Repealed. [Pub. L. 114–92, div. A, title V, § 524(a)(2)][/us/pl/114/92/s524/a/2], Nov. 25, 2015, [129 Stat. 813][/us/stat/129/813].\]
+        \[(5) Repealed. [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 524(a)(2), Nov. 25, 2015, [129 Stat. 813][/us/stat/129/813].\]
 
         (6)
 
@@ -63,7 +63,7 @@
 
             (C) Any type of combat platform.
 
-(Added [Pub. L. 109–163, div. A, title V, § 541(a)(1)][/us/pl/109/163/s541/a/1], Jan. 6, 2006, [119 Stat. 3251][/us/stat/119/3251]; amended [Pub. L. 114–92, div. A, title V, § 524][/us/pl/114/92/s524], Nov. 25, 2015, [129 Stat. 813][/us/stat/129/813].)
+(Added [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 541(a)(1), Jan. 6, 2006, [119 Stat. 3251][/us/stat/119/3251]; amended [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 524, Nov. 25, 2015, [129 Stat. 813][/us/stat/129/813].)
 
  __References in Text__ 
 
@@ -71,17 +71,17 @@
 
  __Prior Provisions__ 
 
-    A prior section 652, added [Pub. L. 95–485, title IV, § 405(d)(1)][/us/pl/95/485/s405/d/1], Oct. 20, 1978, [92 Stat. 1616][/us/stat/92/1616], related to Ready Reserve requirement of notification of change of status, prior to repeal by [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337], §§ 1661(a)(3)(A), 1691, Oct. 5, 1994, [108 Stat. 2980][/us/stat/108/2980], 3026, effective Dec. 1, 1994. See [section 10205 of this title][/us/usc/t10/s10205].
+    A prior section 652, added [Pub. L. 95–485, title IV][/us/pl/95/485/tIV], § 405(d)(1), Oct. 20, 1978, [92 Stat. 1616][/us/stat/92/1616], related to Ready Reserve requirement of notification of change of status, prior to repeal by [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], §§ 1661(a)(3)(A), 1691, Oct. 5, 1994, [108 Stat. 2980][/us/stat/108/2980], 3026, effective Dec. 1, 1994. See [section 10205 of this title][/us/usc/t10/s10205].
 
-    Provisions similar to those in this section were contained in [Pub. L. 103–160, div. A, title V, § 542][/us/pl/103/160/s542], Nov. 30, 1993, [107 Stat. 1659][/us/stat/107/1659], which was set out as a note under [section 113 of this title][/us/usc/t10/s113], prior to repeal by [Pub. L. 109–163, § 541(c)][/us/pl/109/163/s541/c].
+    Provisions similar to those in this section were contained in [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 542, Nov. 30, 1993, [107 Stat. 1659][/us/stat/107/1659], which was set out as a note under [section 113 of this title][/us/usc/t10/s113], prior to repeal by [Pub. L. 109–163][/us/pl/109/163], § 541(c).
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1). [Pub. L. 114–92, § 524(a)(1)][/us/pl/114/92/s524/a/1], substituted “not less than 30 calendar days before such change is implemented” for “before any such change is implemented” and struck out “Such a change may then be implemented only after the end of a period of 30 days of continuous session of Congress (excluding any day on which either House of Congress is not in session) following the date on which the report is received.”
+    2015—Subsec. (a)(1). [Pub. L. 114–92][/us/pl/114/92], § 524(a)(1), substituted “not less than 30 calendar days before such change is implemented” for “before any such change is implemented” and struck out “Such a change may then be implemented only after the end of a period of 30 days of continuous session of Congress (excluding any day on which either House of Congress is not in session) following the date on which the report is received.”
 
-    Subsec. (a)(5). [Pub. L. 114–92, § 524(a)(2)][/us/pl/114/92/s524/a/2], struck out par. (5) which read as follows: “For purposes of this subsection, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die.”
+    Subsec. (a)(5). [Pub. L. 114–92][/us/pl/114/92], § 524(a)(2), struck out par. (5) which read as follows: “For purposes of this subsection, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die.”
 
-    Subsec. (b)(1). [Pub. L. 114–92, § 524(b)][/us/pl/114/92/s524/b], inserted “calendar” before “days”.
+    Subsec. (b)(1). [Pub. L. 114–92][/us/pl/114/92], § 524(b), inserted “calendar” before “days”.
 
 ----------
 
@@ -90,26 +90,26 @@
 ----------
 ----------
 
-[/us/pl/114/92/s524/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs524%2Fa%2F2
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F813
 [/us/usc/t10/s6035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6035
-[/us/pl/109/163/s541/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs541%2Fa%2F1
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3251
-[/us/pl/114/92/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs524
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F813
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
-[/us/pl/95/485/s405/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs405%2Fd%2F1
+[/us/pl/95/485/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2FtIV
 [/us/stat/92/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1616
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2980
 [/us/usc/t10/s10205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10205
-[/us/pl/103/160/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs542
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1659
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
-[/us/pl/109/163/s541/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs541%2Fc
-[/us/pl/114/92/s524/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs524%2Fa%2F1
-[/us/pl/114/92/s524/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs524%2Fa%2F2
-[/us/pl/114/92/s524/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs524%2Fb
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 
 

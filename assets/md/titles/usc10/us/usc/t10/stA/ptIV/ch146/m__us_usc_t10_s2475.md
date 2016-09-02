@@ -39,7 +39,7 @@
 
         (2) the head of the Defense Agency or the Secretary of the military department concerned may not implement the plan until 30 days after the date that the agency head or Secretary submits notification to the Committees on Armed Services of the Senate and House of Representatives of the intent to carry out such plan.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 353(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–72.)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 353(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–72.)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 
 

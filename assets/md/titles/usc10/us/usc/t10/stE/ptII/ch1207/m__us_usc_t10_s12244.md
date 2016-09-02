@@ -21,7 +21,7 @@
 
     (2) be discharged if the warrant officer is not qualified for transfer to the Retired Reserve or has requested (in accordance with regulations prescribed by the Secretary concerned) not to be so transferred.
 
-(Added [Pub. L. 107–107, div. A, title V, § 517(e)(1)][/us/pl/107/107/s517/e/1], Dec. 28, 2001, [115 Stat. 1095][/us/stat/115/1095].)
+(Added [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 517(e)(1), Dec. 28, 2001, [115 Stat. 1095][/us/stat/115/1095].)
 
  __Effective Date__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/107/107/s517/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs517%2Fe%2F1
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1095
 [/us/pl/107/107/s517/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs517%2Fg
 [/us/usc/t10/s10154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10154

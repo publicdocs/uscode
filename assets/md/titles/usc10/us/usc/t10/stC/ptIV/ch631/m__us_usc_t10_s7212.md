@@ -19,7 +19,7 @@
 
     (b) The fee for any service under this section may not exceed 6 percent of the estimated cost, as determined by the Secretary, of the project to which the fee applies.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 444][/us/stat/70A/444]; [Pub. L. 89–718, § 28][/us/pl/89/718/s28], Nov. 2, 1966, [80 Stat. 1119][/us/stat/80/1119]; [Pub. L. 95–454, title VII, § 703(c)(3)][/us/pl/95/454/s703/c/3], title VIII, § 801(a)(3)(I), Oct. 13, 1978, [92 Stat. 1217][/us/stat/92/1217], 1222; [Pub. L. 96–513, title V, § 513(25)][/us/pl/96/513/s513/25], Dec. 12, 1980, [94 Stat. 2932][/us/stat/94/2932].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 444][/us/stat/70A/444]; [Pub. L. 89–718][/us/pl/89/718], § 28, Nov. 2, 1966, [80 Stat. 1119][/us/stat/80/1119]; [Pub. L. 95–454, title VII][/us/pl/95/454/tVII], § 703(c)(3), title VIII, § 801(a)(3)(I), Oct. 13, 1978, [92 Stat. 1217][/us/stat/92/1217], 1222; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 513(25), Dec. 12, 1980, [94 Stat. 2932][/us/stat/94/2932].)
 
 <table>
 
@@ -71,9 +71,9 @@ Apr. 25, 1939, ch. 87, § 3, 53 Stat. 591.  </td>
 
     1980—Subsec. (a). [Pub. L. 96–513][/us/pl/96/513] substituted “and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53 of” for “5101–5115, 5331–5338, 5341, 5342, and 7204 of title 5 and subchapter VI of chapter 53 of such”.
 
-    1978—Subsec. (a). [Pub. L. 95–454, § 801(a)(3)(I)][/us/pl/95/454/s801/a/3/I], inserted reference to subchapter VI of chapter 53 of title 5.
+    1978—Subsec. (a). [Pub. L. 95–454][/us/pl/95/454], § 801(a)(3)(I), inserted reference to subchapter VI of chapter 53 of title 5.
 
-    [Pub. L. 95–454, § 703(c)(3)][/us/pl/95/454/s703/c/3], substituted “7204” for “7154”.
+    [Pub. L. 95–454][/us/pl/95/454], § 703(c)(3), substituted “7204” for “7154”.
 
     1966—Subsec. (a). [Pub. L. 89–718][/us/pl/89/718] substituted “sections 305, 3324, 5101–5115, 5331–5338, 5341, 5342, and 7154 of title 5” for “sections 1071–1153 of title 5”.
 
@@ -96,15 +96,15 @@ Apr. 25, 1939, ch. 87, § 3, 53 Stat. 591.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F444
-[/us/pl/89/718/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs28
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1119
-[/us/pl/95/454/s703/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs703%2Fc%2F3
+[/us/pl/95/454/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2FtVII
 [/us/stat/92/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1217
-[/us/pl/96/513/s513/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F25
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2932
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
-[/us/pl/95/454/s801/a/3/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F3%2FI
-[/us/pl/95/454/s703/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs703%2Fc%2F3
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3

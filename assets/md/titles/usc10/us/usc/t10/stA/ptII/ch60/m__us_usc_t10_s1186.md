@@ -39,7 +39,7 @@
 
     (c) An officer who is discharged under subsection (b)(2) is entitled, if eligible therefor, to separation pay under [section 1174(a)(2) of this title][/us/usc/t10/s1174/a/2].
 
-(Added [Pub. L. 96–513, title I, § 110][/us/pl/96/513/s110], Dec. 12, 1980, [94 Stat. 2874][/us/stat/94/2874]; amended [Pub. L. 101–510, div. A, title V, § 501(f)(1)][/us/pl/101/510/s501/f/1], Nov. 5, 1990, [104 Stat. 1550][/us/stat/104/1550].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 110, Dec. 12, 1980, [94 Stat. 2874][/us/stat/94/2874]; amended [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 501(f)(1), Nov. 5, 1990, [104 Stat. 1550][/us/stat/104/1550].)
 
  __Amendments__ 
 
@@ -56,9 +56,9 @@
 [/us/usc/t10/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1181
 [/us/usc/t10/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1181
 [/us/usc/t10/s1174/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174%2Fa%2F2
-[/us/pl/96/513/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs110
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2874
-[/us/pl/101/510/s501/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs501%2Ff%2F1
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1550
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 

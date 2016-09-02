@@ -85,7 +85,7 @@
 
     The Secretary of Defense shall establish procedures to provide that, in implementing any reduction in force for civilian positions in the Department of Defense in the competitive service or the excepted service, the determination of which employees shall be separated from employment in the Department shall be made primarily on the basis of performance, as determined under any applicable performance management system.
 
-(Added [Pub. L. 101–510, div. A, title III, § 322(a)(1)][/us/pl/101/510/s322/a/1], Nov. 5, 1990, [104 Stat. 1528][/us/stat/104/1528]; amended [Pub. L. 102–484, div. A, title III, § 371(a)][/us/pl/102/484/s371/a], Oct. 23, 1992, [106 Stat. 2382][/us/stat/106/2382]; [Pub. L. 103–35, title II, § 201(d)(1)][/us/pl/103/35/s201/d/1], May 31, 1993, [107 Stat. 98][/us/stat/107/98]; [Pub. L. 103–160, div. A, title III, § 363][/us/pl/103/160/s363], Nov. 30, 1993, [107 Stat. 1628][/us/stat/107/1628]; [Pub. L. 112–81, div. A, title IX, § 933(b)][/us/pl/112/81/s933/b], Dec. 31, 2011, [125 Stat. 1544][/us/stat/125/1544]; [Pub. L. 114–92, div. A, title XI, § 1101(a)][/us/pl/114/92/s1101/a], Nov. 25, 2015, [129 Stat. 1022][/us/stat/129/1022].)
+(Added [Pub. L. 101–510, div. A, title III][/us/pl/101/510/dA/tIII], § 322(a)(1), Nov. 5, 1990, [104 Stat. 1528][/us/stat/104/1528]; amended [Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 371(a), Oct. 23, 1992, [106 Stat. 2382][/us/stat/106/2382]; [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 201(d)(1), May 31, 1993, [107 Stat. 98][/us/stat/107/98]; [Pub. L. 103–160, div. A, title III][/us/pl/103/160/dA/tIII], § 363, Nov. 30, 1993, [107 Stat. 1628][/us/stat/107/1628]; [Pub. L. 112–81, div. A, title IX][/us/pl/112/81/dA/tIX], § 933(b), Dec. 31, 2011, [125 Stat. 1544][/us/stat/125/1544]; [Pub. L. 114–92, div. A, title XI][/us/pl/114/92/dA/tXI], § 1101(a), Nov. 25, 2015, [129 Stat. 1022][/us/stat/129/1022].)
 
  __Amendments__ 
 
@@ -93,39 +93,39 @@
 
     2011—Subsec. (b). [Pub. L. 112–81][/us/pl/112/81] inserted after first sentence “In establishing the guidelines, the Secretary shall ensure that nothing in the guidelines conflicts with the requirements of [section 129 of this title][/us/usc/t10/s129] or the policies and procedures established under [section 129a of this title][/us/usc/t10/s129a].”
 
-    1993—Subsec. (a). [Pub. L. 103–160, § 363(a)(1)][/us/pl/103/160/s363/a/1], substituted “during a fiscal year” for “during fiscal year 1993”.
+    1993—Subsec. (a). [Pub. L. 103–160][/us/pl/103/160], § 363(a)(1), substituted “during a fiscal year” for “during fiscal year 1993”.
 
-    Subsec. (b). [Pub. L. 103–160, § 363(a)(2)][/us/pl/103/160/s363/a/2], struck out “for fiscal year 1993” after “establish guidelines” in introductory provisions.
+    Subsec. (b). [Pub. L. 103–160][/us/pl/103/160], § 363(a)(2), struck out “for fiscal year 1993” after “establish guidelines” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 103–160, § 363(b)(1)][/us/pl/103/160/s363/b/1], substituted “for each fiscal year” for “for fiscal year 1994”.
+    Subsec. (c)(1). [Pub. L. 103–160][/us/pl/103/160], § 363(b)(1), substituted “for each fiscal year” for “for fiscal year 1994”.
 
-    Subsec. (c)(3)(A)(v). [Pub. L. 103–35, § 201(d)(1)(A)(i)][/us/pl/103/35/s201/d/1/A/i], substituted “Defense Agency” for “defense agency”.
+    Subsec. (c)(3)(A)(v). [Pub. L. 103–35][/us/pl/103/35], § 201(d)(1)(A)(i), substituted “Defense Agency” for “defense agency”.
 
-    Subsec. (c)(3)(A)(vii). [Pub. L. 103–160, § 363(b)(2)][/us/pl/103/160/s363/b/2], added cl. (vii).
+    Subsec. (c)(3)(A)(vii). [Pub. L. 103–160][/us/pl/103/160], § 363(b)(2), added cl. (vii).
 
-    Subsec. (c)(3)(C). [Pub. L. 103–35, § 201(d)(1)(A)(ii)][/us/pl/103/35/s201/d/1/A/ii], substituted “Defense Agency” for “defense agency” after “to which the military department,” and “Defense Agency,” for “defense agency” after “for the military department,”.
+    Subsec. (c)(3)(C). [Pub. L. 103–35][/us/pl/103/35], § 201(d)(1)(A)(ii), substituted “Defense Agency” for “defense agency” after “to which the military department,” and “Defense Agency,” for “defense agency” after “for the military department,”.
 
-    Subsec. (c)(4). [Pub. L. 103–160, § 363(b)(3)][/us/pl/103/160/s363/b/3], added par. (4).
+    Subsec. (c)(4). [Pub. L. 103–160][/us/pl/103/160], § 363(b)(3), added par. (4).
 
-    Subsec. (e). [Pub. L. 103–35, § 201(d)(1)(B)][/us/pl/103/35/s201/d/1/B], substituted “on the date” for “of the date”.
+    Subsec. (e). [Pub. L. 103–35][/us/pl/103/35], § 201(d)(1)(B), substituted “on the date” for “of the date”.
 
     1992—[Pub. L. 102–484][/us/pl/102/484] substituted “Civilian positions: guidelines for reductions” for “Employees of industrial-type or commercial-type activities: guidelines for future reductions” as section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsecs. (a) to (c).
 
  __Pilot Program for Payment of Retraining Expenses__ 
 
-    [Pub. L. 107–107, div. A, title XI, § 1102][/us/pl/107/107/s1102], Dec. 28, 2001, [115 Stat. 1235][/us/stat/115/1235], authorized the Secretary of Defense to establish a pilot program to facilitate the reemployment of eligible employees of the Department of Defense who were involuntarily separated due to a reduction in force, relocation as a result of a transfer of function, realignment, or change of duty station, and to pay retraining incentives to encourage non-Federal employers to hire and retain such employees, and provided that no incentive could be paid under such program for training commenced after Sept. 30, 2005.
+    [Pub. L. 107–107, div. A, title XI][/us/pl/107/107/dA/tXI], § 1102, Dec. 28, 2001, [115 Stat. 1235][/us/stat/115/1235], authorized the Secretary of Defense to establish a pilot program to facilitate the reemployment of eligible employees of the Department of Defense who were involuntarily separated due to a reduction in force, relocation as a result of a transfer of function, realignment, or change of duty station, and to pay retraining incentives to encourage non-Federal employers to hire and retain such employees, and provided that no incentive could be paid under such program for training commenced after Sept. 30, 2005.
 
  __Non-Federal Employment Incentive Pilot Program__ 
 
-    [Pub. L. 103–337, div. A, title III, § 348][/us/pl/103/337/s348], Oct. 5, 1994, [108 Stat. 2725][/us/stat/108/2725], authorized the Secretary of Defense to establish a pilot program for the payment of incentives to facilitate the reemployment of eligible employees of the Department of Defense whose employment with the Department was being terminated by reason of the closure or realignment of the military installations where such persons were employed, to pay retraining and relocation incentives to encourage non-Federal employers to hire and retain such employees, and to pay a relocation incentive to an eligible employee if it was necessary for the employee to relocate in order to commence employment with a non-Federal employer under such program, and provided that no incentive could be paid under such program for training or relocations commenced after Sept. 30, 1999.
+    [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 348, Oct. 5, 1994, [108 Stat. 2725][/us/stat/108/2725], authorized the Secretary of Defense to establish a pilot program for the payment of incentives to facilitate the reemployment of eligible employees of the Department of Defense whose employment with the Department was being terminated by reason of the closure or realignment of the military installations where such persons were employed, to pay retraining and relocation incentives to encourage non-Federal employers to hire and retain such employees, and to pay a relocation incentive to an eligible employee if it was necessary for the employee to relocate in order to commence employment with a non-Federal employer under such program, and provided that no incentive could be paid under such program for training or relocations commenced after Sept. 30, 1999.
 
  __Skill Training Programs in Department of Defense__ 
 
-    [Pub. L. 102–484, div. D, title XLIV, § 4435][/us/pl/102/484/s4435], Oct. 23, 1992, [106 Stat. 2722][/us/stat/106/2722], authorized the Secretaries of the military departments and the Secretary of Defense, during the period beginning on Oct. 1, 1992, and ending on Sept. 30, 1995, to provide not more than one year of training in training facilities of the Department of Defense to civilian employees of the Department who were separated from employment as a result of a reduction in force or a closure or realignment of a military installation, and directed the Secretary to publish a register of the skill training programs carried out by the Department not later than Feb. 1, 1993.
+    [Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484/dD/tXLIV], § 4435, Oct. 23, 1992, [106 Stat. 2722][/us/stat/106/2722], authorized the Secretaries of the military departments and the Secretary of Defense, during the period beginning on Oct. 1, 1992, and ending on Sept. 30, 1995, to provide not more than one year of training in training facilities of the Department of Defense to civilian employees of the Department who were separated from employment as a result of a reduction in force or a closure or realignment of a military installation, and directed the Secretary to publish a register of the skill training programs carried out by the Department not later than Feb. 1, 1993.
 
  __Involuntary Reductions of Civilian Personnel in Fiscal Year 1991__ 
 
-    [Pub. L. 101–510, div. A, title III, § 322(b)][/us/pl/101/510/s322/b], Nov. 5, 1990, [104 Stat. 1529][/us/stat/104/1529], provided that after Nov. 5, 1990, an agency or component of the Department of Defense could not implement any involuntary reductions or furloughs of civilian personnel in industrial-type or commercial-type activities in fiscal year 1991 until 45 days after the date on which the agency or component submitted a report to Congress outlining the reasons why such reductions or furloughs were required.
+    [Pub. L. 101–510, div. A, title III][/us/pl/101/510/dA/tIII], § 322(b), Nov. 5, 1990, [104 Stat. 1529][/us/stat/104/1529], provided that after Nov. 5, 1990, an agency or component of the Department of Defense could not implement any involuntary reductions or furloughs of civilian personnel in industrial-type or commercial-type activities in fiscal year 1991 until 45 days after the date on which the agency or component submitted a report to Congress outlining the reasons why such reductions or furloughs were required.
 
 ----------
 
@@ -136,38 +136,38 @@
 
 [/us/usc/t10/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs129
 [/us/usc/t10/s129a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs129a
-[/us/pl/101/510/s322/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs322%2Fa%2F1
+[/us/pl/101/510/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIII
 [/us/stat/104/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1528
-[/us/pl/102/484/s371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs371%2Fa
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2382
-[/us/pl/103/35/s201/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fd%2F1
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F98
-[/us/pl/103/160/s363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs363
+[/us/pl/103/160/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIII
 [/us/stat/107/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1628
-[/us/pl/112/81/s933/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs933%2Fb
+[/us/pl/112/81/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIX
 [/us/stat/125/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1544
-[/us/pl/114/92/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1101%2Fa
+[/us/pl/114/92/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXI
 [/us/stat/129/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1022
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t10/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs129
 [/us/usc/t10/s129a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs129a
-[/us/pl/103/160/s363/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs363%2Fa%2F1
-[/us/pl/103/160/s363/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs363%2Fa%2F2
-[/us/pl/103/160/s363/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs363%2Fb%2F1
-[/us/pl/103/35/s201/d/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fd%2F1%2FA%2Fi
-[/us/pl/103/160/s363/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs363%2Fb%2F2
-[/us/pl/103/35/s201/d/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fd%2F1%2FA%2Fii
-[/us/pl/103/160/s363/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs363%2Fb%2F3
-[/us/pl/103/35/s201/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fd%2F1%2FB
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/107/107/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1102
+[/us/pl/107/107/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXI
 [/us/stat/115/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1235
-[/us/pl/103/337/s348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs348
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2725
-[/us/pl/102/484/s4435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4435
+[/us/pl/102/484/dD/tXLIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLIV
 [/us/stat/106/2722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2722
-[/us/pl/101/510/s322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs322%2Fb
+[/us/pl/101/510/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtIII
 [/us/stat/104/1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1529
 
 

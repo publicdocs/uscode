@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stC/ptII/ch551/m__us_usc_t10_stC_ptII_ch551.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch551/m__us_usc_t10_s5942.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5941)
 
-## \[§ 5941. Repealed. [Pub. L. 90–235, § 5(b)(1)][/us/pl/90/235/s5/b/1], Jan. 2, 1968, [81 Stat. 761][/us/stat/81/761]\]
+## \[§ 5941. Repealed. [Pub. L. 90–235][/us/pl/90/235], § 5(b)(1), Jan. 2, 1968, [81 Stat. 761][/us/stat/81/761]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 371][/us/stat/70A/371], authorized President to prescribe regulations governing the assignment of officers to command fleets, subdivisions of fleets, and vessels.
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/pl/90/235/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs5%2Fb%2F1
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F761
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F371

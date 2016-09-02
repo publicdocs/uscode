@@ -67,7 +67,7 @@ June 3, 1916, ch. 134, § 47d (words before 1st semicolon of 1st sentence); ad
 
  __Authorization for Instruction of Civilian Students at Foreign Language Center of Defense Language Institute__ 
 
-    [Pub. L. 103–337, div. A, title V, § 559][/us/pl/103/337/s559], Oct. 5, 1994, [108 Stat. 2776][/us/stat/108/2776], as amended by [Pub. L. 104–201, div. A, title III, § 371][/us/pl/104/201/s371], Sept. 23, 1996, [110 Stat. 2499][/us/stat/110/2499]; [Pub. L. 105–85, div. A, title X, § 1073(c)(3)][/us/pl/105/85/s1073/c/3], Nov. 18, 1997, [111 Stat. 1904][/us/stat/111/1904], authorized the Secretary of the Army to enter into an agreement with an accredited institution of higher education (or a consortium of such institutions) under which students enrolled at an institution of higher education that was a party to the agreement could receive instruction at the Foreign Language Center of the Defense Language Institute on a space-available basis and to permit other persons who would benefit from the instruction provided at the Center to receive instruction at the Center on a cost-reimbursable, space-available basis, provided that no student could be admitted to the Center to commence a program of instruction beginning after Sept. 30, 1997.
+    [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 559, Oct. 5, 1994, [108 Stat. 2776][/us/stat/108/2776], as amended by [Pub. L. 104–201, div. A, title III][/us/pl/104/201/dA/tIII], § 371, Sept. 23, 1996, [110 Stat. 2499][/us/stat/110/2499]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(c)(3), Nov. 18, 1997, [111 Stat. 1904][/us/stat/111/1904], authorized the Secretary of the Army to enter into an agreement with an accredited institution of higher education (or a consortium of such institutions) under which students enrolled at an institution of higher education that was a party to the agreement could receive instruction at the Foreign Language Center of the Defense Language Institute on a space-available basis and to permit other persons who would benefit from the instruction provided at the Center to receive instruction at the Center on a cost-reimbursable, space-available basis, provided that no student could be admitted to the Center to commence a program of instruction beginning after Sept. 30, 1997.
 
 ----------
 
@@ -78,11 +78,11 @@ June 3, 1916, ch. 134, § 47d (words before 1st semicolon of 1st sentence); ad
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F249
-[/us/pl/103/337/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs559
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2776
-[/us/pl/104/201/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs371
+[/us/pl/104/201/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIII
 [/us/stat/110/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2499
-[/us/pl/105/85/s1073/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fc%2F3
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1904
 
 

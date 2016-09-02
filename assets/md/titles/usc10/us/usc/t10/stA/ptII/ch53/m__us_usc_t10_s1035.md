@@ -37,7 +37,7 @@
 
         (3) The term “Persian Gulf conflict” means the period beginning on January 16, 1991, and ending on the date thereafter prescribed by Presidential proclamation or by law.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 80][/us/stat/70A/80]; [Pub. L. 89–538, § 1(1)][/us/pl/89/538/s1/1], Aug. 14, 1966, [80 Stat. 347][/us/stat/80/347]; [Pub. L. 90–122, § 1][/us/pl/90/122/s1], Nov. 3, 1967, [81 Stat. 361][/us/stat/81/361]; [Pub. L. 91–200][/us/pl/91/200], Feb. 26, 1970, [84 Stat. 16][/us/stat/84/16]; [Pub. L. 98–525, title XIV, § 1405(20)][/us/pl/98/525/s1405/20], Oct. 19, 1984, [98 Stat. 2623][/us/stat/98/2623]; [Pub. L. 99–661, div. A, title XIII, § 1343(a)(3)][/us/pl/99/661/s1343/a/3], Nov. 14, 1986, [100 Stat. 3992][/us/stat/100/3992]; [Pub. L. 102–25, title III, § 310][/us/pl/102/25/s310], Apr. 6, 1991, [105 Stat. 84][/us/stat/105/84]; [Pub. L. 102–190, div. A, title VI, § 639][/us/pl/102/190/s639], Dec. 5, 1991, [105 Stat. 1384][/us/stat/105/1384].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 80][/us/stat/70A/80]; [Pub. L. 89–538][/us/pl/89/538], § 1(1), Aug. 14, 1966, [80 Stat. 347][/us/stat/80/347]; [Pub. L. 90–122][/us/pl/90/122], § 1, Nov. 3, 1967, [81 Stat. 361][/us/stat/81/361]; [Pub. L. 91–200][/us/pl/91/200], Feb. 26, 1970, [84 Stat. 16][/us/stat/84/16]; [Pub. L. 98–525, title XIV][/us/pl/98/525/tXIV], § 1405(20), Oct. 19, 1984, [98 Stat. 2623][/us/stat/98/2623]; [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1343(a)(3), Nov. 14, 1986, [100 Stat. 3992][/us/stat/100/3992]; [Pub. L. 102–25, title III][/us/pl/102/25/tIII], § 310, Apr. 6, 1991, [105 Stat. 84][/us/stat/105/84]; [Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], § 639, Dec. 5, 1991, [105 Stat. 1384][/us/stat/105/1384].)
 
 <table>
 
@@ -205,17 +205,17 @@ July 15, 1954, ch. 513, §§ 1–3, 68 Stat. 485.  </td>
 
  __Amendments__ 
 
-    1991—Subsec. (b). [Pub. L. 102–190, § 639(a)][/us/pl/102/190/s639/a], substituted “, the Persian Gulf conflict, or a contingency operation” for “or during the Persian Gulf conflict” before period at end of second sentence and struck out at end “For purposes of this subsection, the Vietnam conflict begins on February 28, 1961, and ends on May 7, 1975, and the Persian Gulf conflict begins on January 16, 1991, and ends on the date thereafter prescribed by Presidential proclamation or by law.”
+    1991—Subsec. (b). [Pub. L. 102–190][/us/pl/102/190], § 639(a), substituted “, the Persian Gulf conflict, or a contingency operation” for “or during the Persian Gulf conflict” before period at end of second sentence and struck out at end “For purposes of this subsection, the Vietnam conflict begins on February 28, 1961, and ends on May 7, 1975, and the Persian Gulf conflict begins on January 16, 1991, and ends on the date thereafter prescribed by Presidential proclamation or by law.”
 
-    [Pub. L. 102–25, § 310(a)][/us/pl/102/25/s310/a], (c)(1), struck out “, as defined in [section 551(2) of title 37][/us/usc/t37/s551/2],” after “missing status”, inserted “or during the Persian Gulf conflict” before period at end of second sentence, and substituted “May 7, 1975, and the Persian Gulf conflict begins on January 16, 1991, and ends on the date thereafter prescribed by Presidential proclamation or by law” for “the date designated by the President by Executive order as the date of the termination of combatant activities in Vietnam”.
+    [Pub. L. 102–25][/us/pl/102/25], § 310(a), (c)(1), struck out “, as defined in [section 551(2) of title 37][/us/usc/t37/s551/2],” after “missing status”, inserted “or during the Persian Gulf conflict” before period at end of second sentence, and substituted “May 7, 1975, and the Persian Gulf conflict begins on January 16, 1991, and ends on the date thereafter prescribed by Presidential proclamation or by law” for “the date designated by the President by Executive order as the date of the termination of combatant activities in Vietnam”.
 
-    Subsec. (e). [Pub. L. 102–25, § 310(c)(2)][/us/pl/102/25/s310/c/2], struck out “(as defined in [section 551(2) of title 37][/us/usc/t37/s551/2])” after “in a missing status”.
+    Subsec. (e). [Pub. L. 102–25][/us/pl/102/25], § 310(c)(2), struck out “(as defined in [section 551(2) of title 37][/us/usc/t37/s551/2])” after “in a missing status”.
 
-    Subsec. (f). [Pub. L. 102–190, § 639(b)][/us/pl/102/190/s639/b], added subsec. (f) and redesignated former subsec. (f) as (g).
+    Subsec. (f). [Pub. L. 102–190][/us/pl/102/190], § 639(b), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-    [Pub. L. 102–25, § 310(b)][/us/pl/102/25/s310/b], added subsec. (f).
+    [Pub. L. 102–25][/us/pl/102/25], § 310(b), added subsec. (f).
 
-    Subsec. (g). [Pub. L. 102–190, § 639(b)(1)][/us/pl/102/190/s639/b/1], (c), redesignated subsec. (f) as (g) and amended it generally. Prior to amendment, subsec. (g) read as follows: “In this section, the term ‘missing status’ has the meaning given such term in [section 551(2) of title 37][/us/usc/t37/s551/2].”
+    Subsec. (g). [Pub. L. 102–190][/us/pl/102/190], § 639(b)(1), (c), redesignated subsec. (f) as (g) and amended it generally. Prior to amendment, subsec. (g) read as follows: “In this section, the term ‘missing status’ has the meaning given such term in [section 551(2) of title 37][/us/usc/t37/s551/2].”
 
     1986—Subsec. (a). [Pub. L. 99–661][/us/pl/99/661] substituted “armed forces” for “armed force”.
 
@@ -235,13 +235,13 @@ July 15, 1954, ch. 513, §§ 1–3, 68 Stat. 485.  </td>
 
  __Effective Date of 1967 Amendment__ 
 
-[Pub. L. 90–122, § 2][/us/pl/90/122/s2], Nov. 3, 1967, [81 Stat. 361][/us/stat/81/361], provided that: 
+[Pub. L. 90–122][/us/pl/90/122], § 2, Nov. 3, 1967, [81 Stat. 361][/us/stat/81/361], provided that: 
 
 > “This Act \[amending this section\] becomes effective as of September 1, 1966.”
 
  __Savings Program for Overseas Personnel__ 
 
-    [Pub. L. 101–510, div. A, title XI, § 1114][/us/pl/101/510/s1114], Nov. 5, 1990, [104 Stat. 1636][/us/stat/104/1636], as amended by [Pub. L. 102–25, title III, § 314(1)][/us/pl/102/25/s314/1], (3), Apr. 6, 1991, [105 Stat. 86][/us/stat/105/86], directed the Secretary of Defense to prescribe regulations establishing standards and procedures for the administration of a program to authorize members of the Armed Forces serving outside the United States during the Persian Gulf conflict to make deposits of unallotted current pay and allowances and to earn interest under this section.
+    [Pub. L. 101–510, div. A, title XI][/us/pl/101/510/dA/tXI], § 1114, Nov. 5, 1990, [104 Stat. 1636][/us/stat/104/1636], as amended by [Pub. L. 102–25, title III][/us/pl/102/25/tIII], § 314(1), (3), Apr. 6, 1991, [105 Stat. 86][/us/stat/105/86], directed the Secretary of Defense to prescribe regulations establishing standards and procedures for the administration of a program to authorize members of the Armed Forces serving outside the United States during the Persian Gulf conflict to make deposits of unallotted current pay and allowances and to earn interest under this section.
 
  __Adjustment of Deposit Accounts of Certain Enlisted Men__ 
 
@@ -255,7 +255,7 @@ July 15, 1954, ch. 513, §§ 1–3, 68 Stat. 485.  </td>
 
  __Rates of Interest on Deposits Made Before Aug. 14, 1966__ 
 
-[Pub. L. 89–538, § 2][/us/pl/89/538/s2], Aug. 14, 1966, [80 Stat. 347][/us/stat/80/347], provided that:
+[Pub. L. 89–538][/us/pl/89/538], § 2, Aug. 14, 1966, [80 Stat. 347][/us/stat/80/347], provided that:
 
 >     “(a) Notwithstanding the first section of this Act \[amending this section\], an amount on deposit under [section 1035 of title 10][/us/usc/t10/s1035], United States Code, on the date of enactment of this Act \[Aug. 14, 1966\], shall accrue interest at the rate and under the conditions in effect on the day before the date of enactment of this Act \[Aug. 14, 1966\], until the member’s current enlistment terminates or earlier, as may be jointly prescribed by the Secretaries concerned. However, a member who is on a permanent duty assignment outside the United States or its possessions on the date of enactment of this Act \[Aug. 14, 1966\], or who reports for that duty on or after that date but before the termination of his current enlistment, will be entitled to interest on such deposit, on and after that date, at the rate and under the conditions prescribed pursuant to section 1 \[amending this section\]. Payments of deposits, and interest thereon, may be made to the member’s heirs or legal representatives.
 
@@ -263,7 +263,7 @@ July 15, 1954, ch. 513, §§ 1–3, 68 Stat. 485.  </td>
 
  __Extension of Coverage to Public Health Service and Coast and Geodetic Survey Personnel; Rules and Regulations__ 
 
-[Pub. L. 89–538, § 3(c)][/us/pl/89/538/s3/c], Aug. 14, 1966, [80 Stat. 348][/us/stat/80/348], provided that: 
+[Pub. L. 89–538][/us/pl/89/538], § 3(c), Aug. 14, 1966, [80 Stat. 348][/us/stat/80/348], provided that: 
 
 > “Regulations prescribed by the Secretary of Commerce and the Secretary of Health, Education, and Welfare \[now Health and Human Services\] under subsections (a) and (b) \[extending savings deposits benefits to commissioned officers of the Public Health Service and the Coast and Geodetic Survey (now the National Oceanic and Atmospheric Administration), respectively\] shall be prescribed jointly with regulations prescribed by the Secretaries concerned under [section 1035 of title 10][/us/usc/t10/s1035], United States Code.”
 
@@ -295,28 +295,28 @@ July 15, 1954, ch. 513, §§ 1–3, 68 Stat. 485.  </td>
 [/us/usc/t37/s551/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs551%2F2
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F80
-[/us/pl/89/538/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F538%2Fs1%2F1
+[/us/pl/89/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F538
 [/us/stat/80/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F347
-[/us/pl/90/122/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F122%2Fs1
+[/us/pl/90/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F122
 [/us/stat/81/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F361
 [/us/pl/91/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F200
 [/us/stat/84/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F16
-[/us/pl/98/525/s1405/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F20
+[/us/pl/98/525/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtXIV
 [/us/stat/98/2623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2623
-[/us/pl/99/661/s1343/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1343%2Fa%2F3
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3992
-[/us/pl/102/25/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs310
+[/us/pl/102/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtIII
 [/us/stat/105/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F84
-[/us/pl/102/190/s639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs639
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1384
-[/us/pl/102/190/s639/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs639%2Fa
-[/us/pl/102/25/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs310%2Fa
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/usc/t37/s551/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs551%2F2
-[/us/pl/102/25/s310/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs310%2Fc%2F2
+[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/usc/t37/s551/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs551%2F2
-[/us/pl/102/190/s639/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs639%2Fb
-[/us/pl/102/25/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs310%2Fb
-[/us/pl/102/190/s639/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs639%2Fb%2F1
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/usc/t37/s551/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs551%2F2
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
@@ -327,20 +327,20 @@ July 15, 1954, ch. 513, §§ 1–3, 68 Stat. 485.  </td>
 [/us/pl/89/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F538
 [/us/pl/89/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F538
 [/us/pl/89/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F538
-[/us/pl/90/122/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F122%2Fs2
+[/us/pl/90/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F122
 [/us/stat/81/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F361
-[/us/pl/101/510/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1114
+[/us/pl/101/510/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXI
 [/us/stat/104/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1636
-[/us/pl/102/25/s314/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs314%2F1
+[/us/pl/102/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtIII
 [/us/stat/105/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F86
 [/us/pl/89/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F738
 [/us/stat/80/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1165
 [/us/usc/t10/s1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1035
 [/us/usc/t10/s2771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2771
-[/us/pl/89/538/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F538%2Fs2
+[/us/pl/89/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F538
 [/us/stat/80/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F347
 [/us/usc/t10/s1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1035
-[/us/pl/89/538/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F538%2Fs3%2Fc
+[/us/pl/89/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F538
 [/us/stat/80/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F348
 [/us/usc/t10/s1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1035
 [/us/usc/t42/s213a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs213a

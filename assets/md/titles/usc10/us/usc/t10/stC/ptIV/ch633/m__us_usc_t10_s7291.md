@@ -65,7 +65,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
  __Metering of Navy Piers to Accurately Measure Energy Consumption__ 
 
-[Pub. L. 112–81, div. B, title XXVIII, § 2828][/us/pl/112/81/s2828], Dec. 31, 2011, [125 Stat. 1694][/us/stat/125/1694], provided that:
+[Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], § 2828, Dec. 31, 2011, [125 Stat. 1694][/us/stat/125/1694], provided that:
 
 >     “(a)  __Metering Required__  __.—__ 
 
@@ -77,7 +77,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
  __Advance Procurement Funding__ 
 
-[Pub. L. 111–84, div. A, title I, § 124(a)][/us/pl/111/84/s124/a], Oct. 28, 2009, [123 Stat. 2214][/us/stat/123/2214], provided that:
+[Pub. L. 111–84, div. A, title I][/us/pl/111/84/dA/tI], § 124(a), Oct. 28, 2009, [123 Stat. 2214][/us/stat/123/2214], provided that:
 
 >     “(a)  __Advance Procurement__  __.—__ 
 
@@ -89,11 +89,11 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
  __Procurement Programs for Future Naval Surface Combatants__ 
 
-    [Pub. L. 111–84, div. A, title I, § 125][/us/pl/111/84/s125], Oct. 28, 2009, [123 Stat. 2214][/us/stat/123/2214], related to procurement programs for future naval surface combatants, prior to repeal by [Pub. L. 113–66, div. A, title I, § 122][/us/pl/113/66/s122], Dec. 26, 2013, [127 Stat. 693][/us/stat/127/693].
+    [Pub. L. 111–84, div. A, title I][/us/pl/111/84/dA/tI], § 125, Oct. 28, 2009, [123 Stat. 2214][/us/stat/123/2214], related to procurement programs for future naval surface combatants, prior to repeal by [Pub. L. 113–66, div. A, title I][/us/pl/113/66/dA/tI], § 122, Dec. 26, 2013, [127 Stat. 693][/us/stat/127/693].
 
  __Assessments Required Prior to Start of Construction on First Ship of a Shipbuilding Program__ 
 
-[Pub. L. 110–181, div. A, title I, § 124][/us/pl/110/181/s124], Jan. 28, 2008, [122 Stat. 28][/us/stat/122/28], provided that:
+[Pub. L. 110–181, div. A, title I][/us/pl/110/181/dA/tI], § 124, Jan. 28, 2008, [122 Stat. 28][/us/stat/122/28], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -149,7 +149,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
  __Policy Relating to Major Combatant Vessels of the Strike Forces of the United States Navy__ 
 
-[Pub. L. 110–181, div. A, title X, § 1012][/us/pl/110/181/s1012], Jan. 28, 2008, [122 Stat. 303][/us/stat/122/303], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1015, Oct. 14, 2008, [122 Stat. 4586][/us/stat/122/4586]; [Pub. L. 112–239, div. A, title X, § 1013][/us/pl/112/239/s1013], Jan. 2, 2013, [126 Stat. 1908][/us/stat/126/1908]; [Pub. L. 113–66, div. A, title X, § 1027][/us/pl/113/66/s1027], Dec. 26, 2013, [127 Stat. 849][/us/stat/127/849], provided that:
+[Pub. L. 110–181, div. A, title X][/us/pl/110/181/dA/tX], § 1012, Jan. 28, 2008, [122 Stat. 303][/us/stat/122/303], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1015, Oct. 14, 2008, [122 Stat. 4586][/us/stat/122/4586]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1013, Jan. 2, 2013, [126 Stat. 1908][/us/stat/126/1908]; [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1027, Dec. 26, 2013, [127 Stat. 849][/us/stat/127/849], provided that:
 
 >     “(a)  __Requirement To Request Nuclear Vessels__  __.—__ 
 
@@ -179,11 +179,11 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 >         The term ‘budget’ means the budget that is submitted to Congress by the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code.”
 
-    \[[Pub. L. 113–66, div. A, title X, § 1027(2)(B)][/us/pl/113/66/s1027/2/B], Dec. 26, 2013, [127 Stat. 849][/us/stat/127/849], which directed insertion of “in the analysis of alternatives” after “nuclear power system” in subsec. (a) of [section 1012 of Pub. L. 110–181][/us/pl/110/181/s1012] (as redesignated by [section 1027(1) of Pub. L. 113–66][/us/pl/113/66/s1027/1]), set out above, was executed by making the insertion after “nuclear power system” the first time appearing to reflect the probable intent of Congress.\]
+    \[[Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1027(2)(B), Dec. 26, 2013, [127 Stat. 849][/us/stat/127/849], which directed insertion of “in the analysis of alternatives” after “nuclear power system” in subsec. (a) of [section 1012 of Pub. L. 110–181][/us/pl/110/181/s1012] (as redesignated by [section 1027(1) of Pub. L. 113–66][/us/pl/113/66/s1027/1]), set out above, was executed by making the insertion after “nuclear power system” the first time appearing to reflect the probable intent of Congress.\]
 
  __Alternative Technologies for Future Surface Combatants__ 
 
-[Pub. L. 109–364, div. A, title I, § 128][/us/pl/109/364/s128], Oct. 17, 2006, [120 Stat. 2109][/us/stat/120/2109], provided that:
+[Pub. L. 109–364, div. A, title I][/us/pl/109/364/dA/tI], § 128, Oct. 17, 2006, [120 Stat. 2109][/us/stat/120/2109], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -215,15 +215,15 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
  __Pilot Program for Flexible Funding of Cruiser Conversions and Overhauls__ 
 
-    [Pub. L. 108–136, div. A, title I, § 126][/us/pl/108/136/s126], Nov. 24, 2003, [117 Stat. 1410][/us/stat/117/1410], authorized the Secretary of the Navy to carry out a pilot program for flexible funding of cruiser conversions and overhauls, prior to repeal by [Pub. L. 108–287, title VIII, § 8099][/us/pl/108/287/s8099] \[part\], Aug. 5, 2004, [118 Stat. 994][/us/stat/118/994], and [Pub. L. 108–375, div. A, title I, § 122][/us/pl/108/375/s122], Oct. 28, 2004, [118 Stat. 1828][/us/stat/118/1828].
+    [Pub. L. 108–136, div. A, title I][/us/pl/108/136/dA/tI], § 126, Nov. 24, 2003, [117 Stat. 1410][/us/stat/117/1410], authorized the Secretary of the Navy to carry out a pilot program for flexible funding of cruiser conversions and overhauls, prior to repeal by [Pub. L. 108–287, title VIII][/us/pl/108/287/tVIII], § 8099 \[part\], Aug. 5, 2004, [118 Stat. 994][/us/stat/118/994], and [Pub. L. 108–375, div. A, title I][/us/pl/108/375/dA/tI], § 122, Oct. 28, 2004, [118 Stat. 1828][/us/stat/118/1828].
 
  __Vessel Scrapping Pilot Program__ 
 
-    [Pub. L. 105–262, title VIII, § 8124][/us/pl/105/262/s8124], Oct. 17, 1998, [112 Stat. 2333][/us/stat/112/2333], authorized the Secretary of the Navy to carry out a competitively awarded vessel scrapping pilot program during fiscal years 1999 and 2000 using funds made available in [Pub. L. 105–262][/us/pl/105/262] under the heading “Operation and Maintenance, Navy” ([112 Stat. 2282][/us/stat/112/2282]).
+    [Pub. L. 105–262, title VIII][/us/pl/105/262/tVIII], § 8124, Oct. 17, 1998, [112 Stat. 2333][/us/stat/112/2333], authorized the Secretary of the Navy to carry out a competitively awarded vessel scrapping pilot program during fiscal years 1999 and 2000 using funds made available in [Pub. L. 105–262][/us/pl/105/262] under the heading “Operation and Maintenance, Navy” ([112 Stat. 2282][/us/stat/112/2282]).
 
  __Consideration of Vessel Location for Award of Layberth Contracts for Sealift Vessels__ 
 
-[Pub. L. 102–484, div. A, title III, § 375][/us/pl/102/484/s375], Oct. 23, 1992, [106 Stat. 2385][/us/stat/106/2385], provided that:
+[Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 375, Oct. 23, 1992, [106 Stat. 2385][/us/stat/106/2385], provided that:
 
 >     “(a)  __Consideration of Vessel Location in the Award of Layberth Contracts__  __.—__ 
 
@@ -243,7 +243,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
  __Revitalization of United States Shipbuilding Industry__ 
 
-[Pub. L. 102–484, div. A, title X, § 1031][/us/pl/102/484/s1031], Oct. 23, 1992, [106 Stat. 2489][/us/stat/106/2489], provided that:
+[Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1031, Oct. 23, 1992, [106 Stat. 2489][/us/stat/106/2489], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -343,7 +343,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
  __Fast Sealift Program__ 
 
-[Pub. L. 102–484, div. A, title X, § 1021][/us/pl/102/484/s1021], Oct. 23, 1992, [106 Stat. 2485][/us/stat/106/2485], provided that:
+[Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1021, Oct. 23, 1992, [106 Stat. 2485][/us/stat/106/2485], provided that:
 
 >     “(a)  __Acquisition and Conversion of U.S. Built Vessels__  __.—__ 
 
@@ -357,7 +357,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 >     Notwithstanding any other provision of law, funds available for the Fast Sealift Program may be used for the acquisition of five vessels built in foreign shipyards and for conversion of those vessels in United States shipyards if the Secretary of the Navy determines that acquisition of those vessels is necessary to expedite the availability of vessels for sealift.”
 
-[Pub. L. 101–510, div. A, title XIV, § 1424][/us/pl/101/510/s1424], Nov. 5, 1990, [104 Stat. 1683][/us/stat/104/1683], as amended by [Pub. L. 102–190, div. A, title X, § 1015][/us/pl/102/190/s1015], Dec. 5, 1991, [105 Stat. 1458][/us/stat/105/1458]; [Pub. L. 102–484, div. A, title X, § 1022][/us/pl/102/484/s1022], Oct. 23, 1992, [106 Stat. 2485][/us/stat/106/2485]; [Pub. L. 103–337, div. A, title I, § 125][/us/pl/103/337/s125], Oct. 5, 1994, [108 Stat. 2683][/us/stat/108/2683], provided that:
+[Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1424, Nov. 5, 1990, [104 Stat. 1683][/us/stat/104/1683], as amended by [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1015, Dec. 5, 1991, [105 Stat. 1458][/us/stat/105/1458]; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1022, Oct. 23, 1992, [106 Stat. 2485][/us/stat/106/2485]; [Pub. L. 103–337, div. A, title I][/us/pl/103/337/dA/tI], § 125, Oct. 5, 1994, [108 Stat. 2683][/us/stat/108/2683], provided that:
 
 >     “(a)  __Establishment of Program__  __.—__ 
 
@@ -423,7 +423,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
  __Funding for Ship Production Engineering__ 
 
-[Pub. L. 101–189, div. A, title XVI, § 1613][/us/pl/101/189/s1613], Nov. 29, 1989, [103 Stat. 1601][/us/stat/103/1601], provided that:
+[Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1613, Nov. 29, 1989, [103 Stat. 1601][/us/stat/103/1601], provided that:
 
 >     “(a)  __Category for Funding__  __.—__ 
 
@@ -435,21 +435,21 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
  __Depot-Level Maintenance of Ships__ 
 
-    [Pub. L. 101–189, div. A, title XVI, § 1614(a)][/us/pl/101/189/s1614/a], (b), Nov. 29, 1989, [103 Stat. 1601][/us/stat/103/1601], directed Secretary of the Navy to require that, to the extent feasible and consistent with policies of the Navy regarding family separations, not less than one-half of the depot-level maintenance work for naval vessels that was scheduled as of Oct. 1, 1989, to be carried out in Japan during fiscal years 1990, 1991, and 1992, was to be carried out in shipyards in the United States. Similar provisions were contained in [Pub. L. 100–456, div. A, title XII, § 1226][/us/pl/100/456/s1226], Sept. 29, 1988, [102 Stat. 2055][/us/stat/102/2055], which was repealed by [Pub. L. 101–189, div. A, title XVI, § 1614(c)][/us/pl/101/189/s1614/c], Nov. 29, 1989, [103 Stat. 1601][/us/stat/103/1601].
+    [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1614(a), (b), Nov. 29, 1989, [103 Stat. 1601][/us/stat/103/1601], directed Secretary of the Navy to require that, to the extent feasible and consistent with policies of the Navy regarding family separations, not less than one-half of the depot-level maintenance work for naval vessels that was scheduled as of Oct. 1, 1989, to be carried out in Japan during fiscal years 1990, 1991, and 1992, was to be carried out in shipyards in the United States. Similar provisions were contained in [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1226, Sept. 29, 1988, [102 Stat. 2055][/us/stat/102/2055], which was repealed by [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1614(c), Nov. 29, 1989, [103 Stat. 1601][/us/stat/103/1601].
 
  __Reports on Effects of Naval Shipbuilding Plans on Maritime Industries__ 
 
-    [Pub. L. 100–456, div. A, title XII, § 1227][/us/pl/100/456/s1227], Sept. 29, 1988, [102 Stat. 2055][/us/stat/102/2055], directed Secretary of Defense to submit to Congress in 1989, 1990, and 1991 a report on how, under the current Five-Year Defense Program of Department of Defense, programs for naval shipbuilding and conversion, for naval vessel repair, and for procurement of support equipment for naval vessels could be expected to affect private-sector shipbuilding and ship repair industries of United States in terms of effectiveness and preparedness of those industries for mobilization in their role in the sealift component of the conventional deterrent of the United States.
+    [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1227, Sept. 29, 1988, [102 Stat. 2055][/us/stat/102/2055], directed Secretary of Defense to submit to Congress in 1989, 1990, and 1991 a report on how, under the current Five-Year Defense Program of Department of Defense, programs for naval shipbuilding and conversion, for naval vessel repair, and for procurement of support equipment for naval vessels could be expected to affect private-sector shipbuilding and ship repair industries of United States in terms of effectiveness and preparedness of those industries for mobilization in their role in the sealift component of the conventional deterrent of the United States.
 
  __Repair of Vessels in Foreign Shipyards__ 
 
-[Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title IX, § 9101\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–118, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title IX, § 9101\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–118, provided that: 
+[Pub. L. 99–500][/us/pl/99/500], § 101(c) \[title IX, § 9101\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–118, and [Pub. L. 99–591][/us/pl/99/591], § 101(c) \[title IX, § 9101\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–118, provided that: 
 
 > “No naval vessel or any vessel owned and operated by the Department of Defense homeported in the United States may be overhauled, repaired, or maintained in a foreign owned and operated shipyard located outside of the United States, except for voyage repairs.”
 
  __Encouragement of Construction in United States Shipyards of Combatant Vessels for United States Allies__ 
 
-[Pub. L. 99–145, title XIV, § 1455][/us/pl/99/145/s1455], Nov. 8, 1985, [99 Stat. 761][/us/stat/99/761], provided that:
+[Pub. L. 99–145, title XIV][/us/pl/99/145/tXIV], § 1455, Nov. 8, 1985, [99 Stat. 761][/us/stat/99/761], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -473,7 +473,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
  __Six-Hundred-Ship Goal for Navy; Sense of Congress__ 
 
-[Pub. L. 97–114, title VII, § 791][/us/pl/97/114/s791], Dec. 29, 1981, [95 Stat. 1593][/us/stat/95/1593], provided that: 
+[Pub. L. 97–114, title VII][/us/pl/97/114/tVII], § 791, Dec. 29, 1981, [95 Stat. 1593][/us/stat/95/1593], provided that: 
 
 > “It is the sense of the Congress that—
 
@@ -485,33 +485,33 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
  __Construction of Advanced, Versatile, Survivable, and Cost-Effective Combatant Ships; Plans and Programs; Presidential Conclusions and Recommendations To Accompany Ship Authorization Requests__ 
 
-    [Pub. L. 95–485, title VIII, § 810(a)][/us/pl/95/485/s810/a], (b), Oct. 20, 1978, [92 Stat. 1623][/us/stat/92/1623], which declared it the policy of the United States to construct more survivable, less costly, and more combat effective ships, and directed the President to include in any request for authorization of a ship his conclusions on the ship’s possession of the above qualities and whether and why the ship should be nuclear powered, was repealed and reenacted as [section 7310 of this title][/us/usc/t10/s7310] by [Pub. L. 97–295][/us/pl/97/295], §§ 1(49)(A), 6(b), Oct. 12, 1982, [96 Stat. 1298][/us/stat/96/1298], 1315.
+    [Pub. L. 95–485, title VIII][/us/pl/95/485/tVIII], § 810(a), (b), Oct. 20, 1978, [92 Stat. 1623][/us/stat/92/1623], which declared it the policy of the United States to construct more survivable, less costly, and more combat effective ships, and directed the President to include in any request for authorization of a ship his conclusions on the ship’s possession of the above qualities and whether and why the ship should be nuclear powered, was repealed and reenacted as [section 7310 of this title][/us/usc/t10/s7310] by [Pub. L. 97–295][/us/pl/97/295], §§ 1(49)(A), 6(b), Oct. 12, 1982, [96 Stat. 1298][/us/stat/96/1298], 1315.
 
  __Conversion, Overhaul, or Repair Work Under Service Life Extension Program or DDG–2__  __ Destroyer Modernization Program; Use of Public or Private Shipyards; Additional Personnel; Least-Cost Approach Study; Report to Congress; Advanced Planning or Purchasing Long Lead Items__ 
 
-    [Pub. L. 95–485, title VIII, § 811][/us/pl/95/485/s811], Oct. 20, 1978, [92 Stat. 1624][/us/stat/92/1624], prohibited Secretary of the Navy, with certain exceptions, from taking any action with respect to the use of either public shipyards or private shipyards for conversion, overhaul, or repair work under Service Life Extension Program (SLEP) or under program for modernization of DDG–2 class guided missile destroyers, or for the employment of additional personnel for, or the transfer of additional personnel to, any public shipyard as a part of the necessary buildup of manpower for carrying out either such program, until a comprehensive least-cost approach study was conducted and a written report of such study was submitted after Oct. 20, 1978, to Congress.
+    [Pub. L. 95–485, title VIII][/us/pl/95/485/tVIII], § 811, Oct. 20, 1978, [92 Stat. 1624][/us/stat/92/1624], prohibited Secretary of the Navy, with certain exceptions, from taking any action with respect to the use of either public shipyards or private shipyards for conversion, overhaul, or repair work under Service Life Extension Program (SLEP) or under program for modernization of DDG–2 class guided missile destroyers, or for the employment of additional personnel for, or the transfer of additional personnel to, any public shipyard as a part of the necessary buildup of manpower for carrying out either such program, until a comprehensive least-cost approach study was conducted and a written report of such study was submitted after Oct. 20, 1978, to Congress.
 
  __Naval Ship New Construction and Conversion Program; Reports to Congressional Committees__ 
 
-    [Pub. L. 94–106, title VIII, § 808][/us/pl/94/106/s808], Oct. 7, 1975, [89 Stat. 539][/us/stat/89/539], directed Secretary of Defense to submit a five-year naval ship new construction and conversion program with President’s budget for fiscal year beginning Oct. 1, 1976, and to report annually thereafter on changes in the program, prior to repeal by [Pub. L. 101–510, div. A, title XIII, § 1322(g)][/us/pl/101/510/s1322/g], Nov. 5, 1990, [104 Stat. 1672][/us/stat/104/1672].
+    [Pub. L. 94–106, title VIII][/us/pl/94/106/tVIII], § 808, Oct. 7, 1975, [89 Stat. 539][/us/stat/89/539], directed Secretary of Defense to submit a five-year naval ship new construction and conversion program with President’s budget for fiscal year beginning Oct. 1, 1976, and to report annually thereafter on changes in the program, prior to repeal by [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1322(g), Nov. 5, 1990, [104 Stat. 1672][/us/stat/104/1672].
 
  __Nuclear Powered Major Combatant Vessels; Construction; Definitions; Report to Congress by Secretary of Defense; Limitations on Authorization or Appropriation Requests: Report to Congress by President of Alternate Program__ 
 
-    [Pub. L. 93–365, title VIII][/us/pl/93/365], §§ 801–804, Aug. 5, 1974, [88 Stat. 408][/us/stat/88/408], 409, authorized construction of nuclear powered major combatant vessels for the strike forces of the United States Navy and an adequate industrial base for research, design, maintenance, etc., of these vessels, defined the term “major combatant vessels for the strike forces of the United States Navy”, required the Secretary of Defense to report to Congress each calendar year on the application of nuclear propulsion to these vessels, and provided all requests for authorizations or appropriations for these vessels be for the construction of nuclear powered vessels unless the President advises Congress that such construction would not be in the national interest and includes for consideration by Congress an alternate program of nuclear powered ships, prior to repeal by [Pub. L. 95–485, title VIII, § 810(c)][/us/pl/95/485/s810/c], Oct. 20, 1978, [92 Stat. 1623][/us/stat/92/1623].
+    [Pub. L. 93–365, title VIII][/us/pl/93/365/tVIII], §§ 801–804, Aug. 5, 1974, [88 Stat. 408][/us/stat/88/408], 409, authorized construction of nuclear powered major combatant vessels for the strike forces of the United States Navy and an adequate industrial base for research, design, maintenance, etc., of these vessels, defined the term “major combatant vessels for the strike forces of the United States Navy”, required the Secretary of Defense to report to Congress each calendar year on the application of nuclear propulsion to these vessels, and provided all requests for authorizations or appropriations for these vessels be for the construction of nuclear powered vessels unless the President advises Congress that such construction would not be in the national interest and includes for consideration by Congress an alternate program of nuclear powered ships, prior to repeal by [Pub. L. 95–485, title VIII][/us/pl/95/485/tVIII], § 810(c), Oct. 20, 1978, [92 Stat. 1623][/us/stat/92/1623].
 
  __Tonnage Balance for Construction of Ships; Repeal__ 
 
-[Pub. L. 89–37, title III, § 301][/us/pl/89/37/s301], June 11, 1965, [79 Stat. 128][/us/stat/79/128], provided that: 
+[Pub. L. 89–37, title III][/us/pl/89/37/tIII], § 301, June 11, 1965, [79 Stat. 128][/us/stat/79/128], provided that: 
 
 > “Outstanding tonnage balances remaining in law for construction of Navy ships are hereby repealed.”
 
  __Construction of Alternate Vessels in Government Navy Yards; Public Interests__ 
 
-    [Pub. L. 89–37, title III, § 302][/us/pl/89/37/s302], June 11, 1965, [79 Stat. 128][/us/stat/79/128], which provided that construction of warships and escort vessels follow alternate vessel Navy yard construction requirement of Act of Mar. 27, 1934, [48 Stat. 503][/us/stat/48/503], except in any year President finds it inconsistent with public interests, was repealed and restated as [section 7299a(a) of this title][/us/usc/t10/s7299a/a] by [Pub. L. 97–295][/us/pl/97/295], §§ 1(48)(A), 6(b), Oct. 12, 1982, [96 Stat. 1298][/us/stat/96/1298], 1314.
+    [Pub. L. 89–37, title III][/us/pl/89/37/tIII], § 302, June 11, 1965, [79 Stat. 128][/us/stat/79/128], which provided that construction of warships and escort vessels follow alternate vessel Navy yard construction requirement of Act of Mar. 27, 1934, [48 Stat. 503][/us/stat/48/503], except in any year President finds it inconsistent with public interests, was repealed and restated as [section 7299a(a) of this title][/us/usc/t10/s7299a/a] by [Pub. L. 97–295][/us/pl/97/295], §§ 1(48)(A), 6(b), Oct. 12, 1982, [96 Stat. 1298][/us/stat/96/1298], 1314.
 
  __Conversion, Alteration, and Repair Projects; Considerations and Requirements__ 
 
-    [Pub. L. 89–37, title III, § 303][/us/pl/89/37/s303], June 11, 1965, [79 Stat. 128][/us/stat/79/128], which provided that assignment of naval ship conversion, alteration, and repair projects would be made on basis of economic and military considerations and would not be restricted by requirements that certain portions of such naval shipwork be assigned to particular types of shipyards or to particular geographical areas or by similar requirements, was repealed and restated as [section 7299a(b) of this title][/us/usc/t10/s7299a/b] by [Pub. L. 97–295][/us/pl/97/295], §§ 1(48)(A), 6(b), Oct. 12, 1982, [96 Stat. 1298][/us/stat/96/1298], 1314.
+    [Pub. L. 89–37, title III][/us/pl/89/37/tIII], § 303, June 11, 1965, [79 Stat. 128][/us/stat/79/128], which provided that assignment of naval ship conversion, alteration, and repair projects would be made on basis of economic and military considerations and would not be restricted by requirements that certain portions of such naval shipwork be assigned to particular types of shipyards or to particular geographical areas or by similar requirements, was repealed and restated as [section 7299a(b) of this title][/us/usc/t10/s7299a/b] by [Pub. L. 97–295][/us/pl/97/295], §§ 1(48)(A), 6(b), Oct. 12, 1982, [96 Stat. 1298][/us/stat/96/1298], 1314.
 
 ----------
 
@@ -522,104 +522,104 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F448
-[/us/pl/112/81/s2828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2828
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1694
 [/us/usc/t10/s2925/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2925%2Fa
-[/us/pl/111/84/s124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs124%2Fa
+[/us/pl/111/84/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtI
 [/us/stat/123/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2214
-[/us/pl/111/84/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs125
+[/us/pl/111/84/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtI
 [/us/stat/123/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2214
-[/us/pl/113/66/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs122
+[/us/pl/113/66/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtI
 [/us/stat/127/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F693
-[/us/pl/110/181/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs124
+[/us/pl/110/181/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtI
 [/us/stat/122/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F28
 [/us/usc/t10/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs231
-[/us/pl/110/181/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1012
+[/us/pl/110/181/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtX
 [/us/stat/122/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F303
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4586
-[/us/pl/112/239/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1013
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1908
-[/us/pl/113/66/s1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1027
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F849
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/113/66/s1027/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1027%2F2%2FB
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F849
 [/us/pl/110/181/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1012
 [/us/pl/113/66/s1027/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1027%2F1
-[/us/pl/109/364/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs128
+[/us/pl/109/364/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtI
 [/us/stat/120/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2109
-[/us/pl/108/136/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs126
+[/us/pl/108/136/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtI
 [/us/stat/117/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1410
-[/us/pl/108/287/s8099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F287%2Fs8099
+[/us/pl/108/287/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F287%2FtVIII
 [/us/stat/118/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F994
-[/us/pl/108/375/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs122
+[/us/pl/108/375/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtI
 [/us/stat/118/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1828
-[/us/pl/105/262/s8124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F262%2Fs8124
+[/us/pl/105/262/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F262%2FtVIII
 [/us/stat/112/2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2333
 [/us/pl/105/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F262
 [/us/stat/112/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2282
-[/us/pl/102/484/s375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs375
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2385
-[/us/pl/102/484/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1031
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2489
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/stat/104/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1683
 [/us/usc/t19/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1431
-[/us/pl/102/484/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1021
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2485
-[/us/pl/101/510/s1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1424
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1683
-[/us/pl/102/190/s1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1015
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1458
-[/us/pl/102/484/s1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1022
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2485
-[/us/pl/103/337/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs125
+[/us/pl/103/337/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtI
 [/us/stat/108/2683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2683
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
-[/us/pl/101/189/s1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1613
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1601
-[/us/pl/101/189/s1614/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1614%2Fa
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1601
-[/us/pl/100/456/s1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1226
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2055
-[/us/pl/101/189/s1614/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1614%2Fc
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1601
-[/us/pl/100/456/s1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1227
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2055
-[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
-[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
-[/us/pl/99/145/s1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1455
+[/us/pl/99/145/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIV
 [/us/stat/99/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F761
-[/us/pl/97/114/s791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F114%2Fs791
+[/us/pl/97/114/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F114%2FtVII
 [/us/stat/95/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1593
 [/us/pl/94/106/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106%2Fs808
-[/us/pl/95/485/s810/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs810%2Fa
+[/us/pl/95/485/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2FtVIII
 [/us/stat/92/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1623
 [/us/usc/t10/s7310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7310
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1298
-[/us/pl/95/485/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs811
+[/us/pl/95/485/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2FtVIII
 [/us/stat/92/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1624
-[/us/pl/94/106/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106%2Fs808
+[/us/pl/94/106/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106%2FtVIII
 [/us/stat/89/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F539
-[/us/pl/101/510/s1322/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1322%2Fg
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1672
-[/us/pl/93/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F365
+[/us/pl/93/365/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F365%2FtVIII
 [/us/stat/88/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F408
-[/us/pl/95/485/s810/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs810%2Fc
+[/us/pl/95/485/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2FtVIII
 [/us/stat/92/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1623
-[/us/pl/89/37/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F37%2Fs301
+[/us/pl/89/37/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F37%2FtIII
 [/us/stat/79/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F128
-[/us/pl/89/37/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F37%2Fs302
+[/us/pl/89/37/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F37%2FtIII
 [/us/stat/79/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F128
 [/us/stat/48/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F503
 [/us/usc/t10/s7299a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7299a%2Fa
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1298
-[/us/pl/89/37/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F37%2Fs303
+[/us/pl/89/37/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F37%2FtIII
 [/us/stat/79/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F128
 [/us/usc/t10/s7299a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7299a%2Fb
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295

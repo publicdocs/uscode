@@ -23,11 +23,11 @@
 
     (3) who is sentenced to confinement in a Federal or State penitentiary or correctional institution after having been found guilty of an offense by a court other than a court-martial or other military court, and whose sentence has become final.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1662(i)(1)][/us/pl/103/337/s1662/i/1], Oct. 5, 1994, [108 Stat. 2998][/us/stat/108/2998]; amended [Pub. L. 104–106, div. A, title V, § 563(b)(2)][/us/pl/104/106/s563/b/2], Feb. 10, 1996, [110 Stat. 325][/us/stat/110/325].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(i)(1), Oct. 5, 1994, [108 Stat. 2998][/us/stat/108/2998]; amended [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 563(b)(2), Feb. 10, 1996, [110 Stat. 325][/us/stat/110/325].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [section 1163(b) of this title][/us/usc/t10/s1163/b], prior to repeal by [Pub. L. 103–337, § 1662(i)(2)][/us/pl/103/337/s1662/i/2].
+    Provisions similar to those in this section were contained in [section 1163(b) of this title][/us/usc/t10/s1163/b], prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1662(i)(2).
 
  __Amendments__ 
 
@@ -41,12 +41,12 @@
 ----------
 
 [/us/usc/t10/s12687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12687
-[/us/pl/103/337/s1662/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fi%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2998
-[/us/pl/104/106/s563/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs563%2Fb%2F2
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F325
 [/us/usc/t10/s1163/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1163%2Fb
-[/us/pl/103/337/s1662/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fi%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 
 

@@ -29,11 +29,11 @@
 
     (c) For purposes of subsection (a)(3), an officer shall be considered to be in a professional specialty if the officer is appointed or assigned to the Medical Corps, the Dental Corps, the Veterinary Corps, the Medical Service Corps, the Nurse Corps, or the Army Medical Specialists Corps or is designated as a chaplain or judge advocate.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2957][/us/stat/108/2957]; amended [Pub. L. 106–65, div. A, title V, § 515][/us/pl/106/65/s515], Oct. 5, 1999, [113 Stat. 594][/us/stat/113/594].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2957][/us/stat/108/2957]; amended [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 515, Oct. 5, 1999, [113 Stat. 594][/us/stat/113/594].)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in sections 3853 and 8853 of this title, prior to repeal by [Pub. L. 103–337, § 1629(a)(3)][/us/pl/103/337/s1629/a/3], (c)(3).
+    Provisions similar to those in this section were contained in sections 3853 and 8853 of this title, prior to repeal by [Pub. L. 103–337][/us/pl/103/337], § 1629(a)(3), (c)(3).
 
  __Amendments__ 
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2957
-[/us/pl/106/65/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs515
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F594
-[/us/pl/103/337/s1629/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fa%2F3
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 
 

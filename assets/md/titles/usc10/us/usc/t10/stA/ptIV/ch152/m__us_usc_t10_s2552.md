@@ -17,7 +17,7 @@
 
     The Secretary of a military department, under regulations to be prescribed by him, may lend equipment under the jurisdiction of that department that is on hand, and that can be temporarily spared, to any organization formed by the American National Red Cross that needs it for instruction and practice for the purpose of aiding the Army, Navy, or Air Force in time of war. The Secretary shall by regulation require the immediate return, upon request, of equipment lent under this section. The Secretary shall require a bond, in double the value of the property issued under this section, for the care and safekeeping of that property and for its return when required.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 142][/us/stat/70A/142], § 2542; renumbered § 2552, [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1033(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–260.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 142][/us/stat/70A/142], § 2542; renumbered § 2552, [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1033(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–260.)
 
 <table>
 
@@ -88,7 +88,7 @@ May 8, 1914, J. Res. 15, 38 Stat. 771.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F142
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s2562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2562
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398

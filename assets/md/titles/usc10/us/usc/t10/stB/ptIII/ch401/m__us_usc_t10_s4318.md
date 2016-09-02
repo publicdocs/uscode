@@ -23,17 +23,17 @@
 
     In developing a human relations course under this section, the Secretary shall use the capabilities and expertise of the Defense Equal Opportunity Management Institute (DEOMI).
 
-(Added [Pub. L. 105–85, div. A, title V, § 557(a)(1)][/us/pl/105/85/s557/a/1], Nov. 18, 1997, [111 Stat. 1750][/us/stat/111/1750].)
+(Added [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 557(a)(1), Nov. 18, 1997, [111 Stat. 1750][/us/stat/111/1750].)
 
  __Effective Date__ 
 
-[Pub. L. 105–85, div. A, title V, § 557(b)][/us/pl/105/85/s557/b], Nov. 18, 1997, [111 Stat. 1750][/us/stat/111/1750], as amended by [Pub. L. 106–65, div. A, title X, § 1066(c)(1)][/us/pl/106/65/s1066/c/1], Oct. 5, 1999, [113 Stat. 773][/us/stat/113/773], provided that: 
+[Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 557(b), Nov. 18, 1997, [111 Stat. 1750][/us/stat/111/1750], as amended by [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1066(c)(1), Oct. 5, 1999, [113 Stat. 773][/us/stat/113/773], provided that: 
 
 > “[Section 4318 of title 10][/us/usc/t10/s4318], United States Code, as added by subsection (a), shall apply with respect to drill sergeant trainee classes that begin after the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 18, 1997\].”
 
  __Reform of Army Drill Sergeant Selection and Training Process__ 
 
-[Pub. L. 105–85, div. A, title V, § 556][/us/pl/105/85/s556], Nov. 18, 1997, [111 Stat. 1749][/us/stat/111/1749], provided that:
+[Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 556, Nov. 18, 1997, [111 Stat. 1749][/us/stat/111/1749], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -74,14 +74,14 @@
 ----------
 ----------
 
-[/us/pl/105/85/s557/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs557%2Fa%2F1
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1750
-[/us/pl/105/85/s557/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs557%2Fb
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1750
-[/us/pl/106/65/s1066/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fc%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F773
 [/us/usc/t10/s4318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4318
-[/us/pl/105/85/s556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs556
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1749
 
 

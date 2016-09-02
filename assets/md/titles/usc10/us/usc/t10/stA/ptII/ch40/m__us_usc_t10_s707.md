@@ -45,7 +45,7 @@
 
     (c) This section shall be administered under uniform regulations prescribed by the Secretaries concerned. Such regulations may provide for the method of determining a member’s income during any period the member is deemed to have accrued pay and allowances, including a requirement that the member provide income tax returns and other documentation to verify the amount of his income.
 
-(Added [Pub. L. 97–81, § 2(b)(1)][/us/pl/97/81/s2/b/1], Nov. 20, 1981, [95 Stat. 1086][/us/stat/95/1086]; amended [Pub. L. 103–337, div. A, title IX, § 924(c)(1)][/us/pl/103/337/s924/c/1], (2), Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831].)
+(Added [Pub. L. 97–81][/us/pl/97/81], § 2(b)(1), Nov. 20, 1981, [95 Stat. 1086][/us/stat/95/1086]; amended [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(c)(1), (2), Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831].)
 
  __Amendments__ 
 
@@ -69,9 +69,9 @@
 [/us/usc/t10/s876a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs876a
 [/us/usc/t10/s706/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs706%2Fb%2F1
 [/us/usc/t10/s858a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs858a
-[/us/pl/97/81/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81%2Fs2%2Fb%2F1
+[/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/stat/95/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1086
-[/us/pl/103/337/s924/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fc%2F1
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2831
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209

@@ -51,7 +51,7 @@
 
             (C) An estimate of the number of conferences to be conducted during the calendar year in which the report is submitted for which the Department will collect fees under this section.
 
-(Added [Pub. L. 109–364, div. A, title X, § 1051(a)][/us/pl/109/364/s1051/a], Oct. 17, 2006, [120 Stat. 2395][/us/stat/120/2395].)
+(Added [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1051(a), Oct. 17, 2006, [120 Stat. 2395][/us/stat/120/2395].)
 
 ----------
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/109/364/s1051/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1051%2Fa
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2395
 
 

@@ -19,7 +19,7 @@
 
     (b) No money appropriated for the support of the Army may be spent for post gardens or Army exchanges. However, this does not prevent Army exchanges from using public buildings or public transportation that, in the opinion of the office or officer designated by the Secretary, are not needed for other purposes.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 270][/us/stat/70A/270]; [Pub. L. 99–661, div. B, title VII, § 2721][/us/pl/99/661/s2721], Nov. 14, 1986, [100 Stat. 4042][/us/stat/100/4042].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 270][/us/stat/70A/270]; [Pub. L. 99–661, div. B, title VII][/us/pl/99/661/dB/tVII], § 2721, Nov. 14, 1986, [100 Stat. 4042][/us/stat/100/4042].)
 
 <table>
 
@@ -118,7 +118,7 @@ July 16, 1892, ch. 195 (last proviso under “Quartermaster’s Department”), 
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F270
-[/us/pl/99/661/s2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs2721
+[/us/pl/99/661/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdB%2FtVII
 [/us/stat/100/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4042
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 

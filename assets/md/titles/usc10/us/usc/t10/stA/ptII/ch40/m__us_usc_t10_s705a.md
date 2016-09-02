@@ -45,7 +45,7 @@
 
     Any benefits provided a member under this section are in addition to any other leave or absence to which the member may be entitled.
 
-(Added [Pub. L. 111–383, div. A, title V, § 532(a)][/us/pl/111/383/s532/a], Jan. 7, 2011, [124 Stat. 4216][/us/stat/124/4216].)
+(Added [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 532(a), Jan. 7, 2011, [124 Stat. 4216][/us/stat/124/4216].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t37/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs305
-[/us/pl/111/383/s532/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs532%2Fa
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4216
 
 

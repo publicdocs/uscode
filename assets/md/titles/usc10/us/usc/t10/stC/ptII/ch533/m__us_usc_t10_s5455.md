@@ -11,80 +11,33 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5454.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_stC_ptII_ch535.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5455)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5454.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5456...5458.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5455)
 
-## \[§ 5455. Repealed. [Pub. L. 97–22, § 10(b)(6)(A)][/us/pl/97/22/s10/b/6/A], July 10, 1981, [95 Stat. 137][/us/stat/95/137]\]
+## \[§ 5455. Repealed. [Pub. L. 97–22][/us/pl/97/22], § 10(b)(6)(A), July 10, 1981, [95 Stat. 137][/us/stat/95/137]\]
 
-    Section, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 313][/us/stat/70A/313]; Nov. 8, 1967, [Pub. L. 90–130, § 1(17)(G)][/us/pl/90/130/s1/17/G], [81 Stat. 377][/us/stat/81/377]; Dec. 12, 1980, [Pub. L. 96–513, title V, § 503(23)][/us/pl/96/513/s503/23], (24), [94 Stat. 2913][/us/stat/94/2913] as amended July 10, 1981, [Pub. L. 97–22, § 10(a)(3)][/us/pl/97/22/s10/a/3], [95 Stat. 136][/us/stat/95/136], provided that no computation or determination under section 5447, 5448, 5449, or 5452 of this title could reduce the grade or pay of any officer or remove any officer from the active list.
+    Section, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 313][/us/stat/70A/313]; Nov. 8, 1967, [Pub. L. 90–130][/us/pl/90/130], § 1(17)(G), [81 Stat. 377][/us/stat/81/377]; Dec. 12, 1980, [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 503(23), (24), [94 Stat. 2913][/us/stat/94/2913] as amended July 10, 1981, [Pub. L. 97–22][/us/pl/97/22], § 10(a)(3), [95 Stat. 136][/us/stat/95/136], provided that no computation or determination under section 5447, 5448, 5449, or 5452 of this title could reduce the grade or pay of any officer or remove any officer from the active list.
 
  __Effective Date of Repeal__ 
 
     [Section 10(b) of Pub. L. 97–22][/us/pl/97/22/s10/b] provided that the repeal is effective Sept. 15, 1981.
 
-\[§§ 5456 to 5458. __Repealed.__  __[__  __Pub. L. 103–337, div. A, title XVI, § 1662(a)(3)__  __][/us/pl/103/337/s1662/a/3]__  __,__  __Oct. 5, 1994__  __,__  __[__  __108 Stat. 2988__  __][/us/stat/108/2988]__  __\]__ 
-
-    Section 5456, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 313][/us/stat/70A/313], related to authorized strengths of Naval Reserve and Marine Corps Reserve. See [section 12001(b) of this title][/us/usc/t10/s12001/b].
-
-    Section 5457, added [Pub. L. 85–861, § 1(113)(A)][/us/pl/85/861/s1/113/A], Sept. 2, 1958, [72 Stat. 1491][/us/stat/72/1491]; amended [Pub. L. 86–559, § 1(35)][/us/pl/86/559/s1/35], (36), June 30, 1960, [74 Stat. 273][/us/stat/74/273]; [Pub. L. 92–559][/us/pl/92/559], Oct. 25, 1972, [86 Stat. 1173][/us/stat/86/1173]; [Pub. L. 96–107, title III, § 302(b)][/us/pl/96/107/s302/b], Nov. 9, 1979, [93 Stat. 806][/us/stat/93/806]; [Pub. L. 96–513, title III, § 313(e)][/us/pl/96/513/s313/e], title V, § 513(9)(B), Dec. 12, 1980, [94 Stat. 2892][/us/stat/94/2892], 2931; [Pub. L. 97–86, title IV, § 405(b)(1)][/us/pl/97/86/s405/b/1], Dec. 1, 1981, [95 Stat. 1105][/us/stat/95/1105]; [Pub. L. 99–145, title V, § 514(b)(1)][/us/pl/99/145/s514/b/1], Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628]; [Pub. L. 101–189, div. A, title VII, § 712][/us/pl/101/189/s712], Nov. 29, 1989, [103 Stat. 1477][/us/stat/103/1477]; [Pub. L. 102–190, div. A, title X, § 1061(a)(22)(B)][/us/pl/102/190/s1061/a/22/B], title XI, § 1131(8)(A), Dec. 5, 1991, [105 Stat. 1473][/us/stat/105/1473], 1506, related to authorized strength of Naval Reserve in officers in active status in grades above chief warrant officer, W–5. See sections 12004(a), (c), and (e)(2) and 12005(b) and (d)(2) of this title.
-
-    Section 5458, added [Pub. L. 85–861, § 1(113)(A)][/us/pl/85/861/s1/113/A], Sept. 2, 1958, [72 Stat. 1492][/us/stat/72/1492]; amended [Pub. L. 86–559, § 1(37)][/us/pl/86/559/s1/37]–(39), June 30, 1960, [74 Stat. 273][/us/stat/74/273]; [Pub. L. 96–107, title III, § 302(c)][/us/pl/96/107/s302/c], Nov. 9, 1979, [93 Stat. 806][/us/stat/93/806]; [Pub. L. 96–513, title V, § 513(9)(C)][/us/pl/96/513/s513/9/C], Dec. 12, 1980, [94 Stat. 2931][/us/stat/94/2931]; [Pub. L. 102–190, div. A, title X, § 1061(a)(22)(C)][/us/pl/102/190/s1061/a/22/C], title XI, § 1131(8)(A), Dec. 5, 1991, [105 Stat. 1473][/us/stat/105/1473], 1506, related to authorized strength of Marine Corps Reserve in officers in active status in grades above chief warrant officer, W–5. See sections 12004(a), (d), (e)(2) and 12005(c), (d)(2) of this title.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Dec. 1, 1994, except as otherwise provided, see [section 1691 of Pub. L. 103–337][/us/pl/103/337/s1691], set out as an Effective Date note under [section 10001 of this title][/us/usc/t10/s10001].
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5454.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_stC_ptII_ch535.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5455)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5454.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch533/m__us_usc_t10_s5456...5458.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5455)
 
 ----------
 ----------
 
-[/us/pl/97/22/s10/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs10%2Fb%2F6%2FA
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F137
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F313
-[/us/pl/90/130/s1/17/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs1%2F17%2FG
+[/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/stat/81/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F377
-[/us/pl/96/513/s503/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs503%2F23
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2913
-[/us/pl/97/22/s10/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs10%2Fa%2F3
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F136
 [/us/pl/97/22/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs10%2Fb
-[/us/pl/103/337/s1662/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fa%2F3
-[/us/stat/108/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2988
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F313
-[/us/usc/t10/s12001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12001%2Fb
-[/us/pl/85/861/s1/113/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F113%2FA
-[/us/stat/72/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1491
-[/us/pl/86/559/s1/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559%2Fs1%2F35
-[/us/stat/74/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F273
-[/us/pl/92/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F559
-[/us/stat/86/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1173
-[/us/pl/96/107/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs302%2Fb
-[/us/stat/93/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F806
-[/us/pl/96/513/s313/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs313%2Fe
-[/us/stat/94/2892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2892
-[/us/pl/97/86/s405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs405%2Fb%2F1
-[/us/stat/95/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1105
-[/us/pl/99/145/s514/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fb%2F1
-[/us/stat/99/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F628
-[/us/pl/101/189/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs712
-[/us/stat/103/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1477
-[/us/pl/102/190/s1061/a/22/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fa%2F22%2FB
-[/us/stat/105/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1473
-[/us/pl/85/861/s1/113/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F113%2FA
-[/us/stat/72/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1492
-[/us/pl/86/559/s1/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559%2Fs1%2F37
-[/us/stat/74/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F273
-[/us/pl/96/107/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs302%2Fc
-[/us/stat/93/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F806
-[/us/pl/96/513/s513/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs513%2F9%2FC
-[/us/stat/94/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2931
-[/us/pl/102/190/s1061/a/22/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fa%2F22%2FC
-[/us/stat/105/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1473
-[/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
-[/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
 
 

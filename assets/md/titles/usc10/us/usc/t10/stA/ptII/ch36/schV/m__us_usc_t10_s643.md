@@ -17,7 +17,7 @@
 
     Under regulations prescribed by the Secretary of Defense, a commissioned officer on the active-duty list of the Army, Navy, or Air Force who is appointed or designated as a chaplain may, if he fails to maintain the qualifications needed to perform his professional function, be discharged or, if eligible for retirement, may be retired.
 
-(Added [Pub. L. 96–513, title I, § 105][/us/pl/96/513/s105], Dec. 12, 1980, [94 Stat. 2867][/us/stat/94/2867].)
+(Added [Pub. L. 96–513, title I][/us/pl/96/513/tI], § 105, Dec. 12, 1980, [94 Stat. 2867][/us/stat/94/2867].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/513/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs105
+[/us/pl/96/513/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtI
 [/us/stat/94/2867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2867
 
 

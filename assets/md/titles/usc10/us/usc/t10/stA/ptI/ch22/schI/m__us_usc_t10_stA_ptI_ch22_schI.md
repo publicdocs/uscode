@@ -67,9 +67,9 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–239, div. A, title IX, § 921(b)(2)][/us/pl/112/239/s921/b/2], Jan. 2, 2013, [126 Stat. 1878][/us/stat/126/1878], added item 443 and struck out former item 443 “Imagery intelligence and geospatial information: support for foreign countries”.
+    2013—[Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 921(b)(2), Jan. 2, 2013, [126 Stat. 1878][/us/stat/126/1878], added item 443 and struck out former item 443 “Imagery intelligence and geospatial information: support for foreign countries”.
 
-    1997—[Pub. L. 105–107, title V, § 503(d)(3)][/us/pl/105/107/s503/d/3], Nov. 20, 1997, [111 Stat. 2263][/us/stat/111/2263], struck out item 445 “Protection of agency identifications and organizational information”.
+    1997—[Pub. L. 105–107, title V][/us/pl/105/107/tV], § 503(d)(3), Nov. 20, 1997, [111 Stat. 2263][/us/stat/111/2263], struck out item 445 “Protection of agency identifications and organizational information”.
 
 ----------
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/112/239/s921/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs921%2Fb%2F2
+[/us/pl/112/239/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIX
 [/us/stat/126/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1878
-[/us/pl/105/107/s503/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2Fs503%2Fd%2F3
+[/us/pl/105/107/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2FtV
 [/us/stat/111/2263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2263
 
 

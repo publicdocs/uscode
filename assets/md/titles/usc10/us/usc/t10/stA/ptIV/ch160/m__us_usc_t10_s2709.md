@@ -29,7 +29,7 @@
 
         (3) Annual performance reviews to determine whether the goals and objectives have been achieved and to take appropriate action in the event that they are not achieved.
 
-(Added [Pub. L. 106–65, div. A, title III, § 323(b)(1)][/us/pl/106/65/s323/b/1], Oct. 5, 1999, [113 Stat. 562][/us/stat/113/562].)
+(Added [Pub. L. 106–65, div. A, title III][/us/pl/106/65/dA/tIII], § 323(b)(1), Oct. 5, 1999, [113 Stat. 562][/us/stat/113/562].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
  __Purposes of__  __[__  __Section 323 of Pub. L. 106–65__  __][/us/pl/106/65/s323]__ 
 
-[Pub. L. 106–65, div. A, title III, § 323(a)][/us/pl/106/65/s323/a], Oct. 5, 1999, [113 Stat. 562][/us/stat/113/562], provided that: 
+[Pub. L. 106–65, div. A, title III][/us/pl/106/65/dA/tIII], § 323(a), Oct. 5, 1999, [113 Stat. 562][/us/stat/113/562], provided that: 
 
 > “The purposes of this section \[enacting this section, amending [section 2706 of this title][/us/usc/t10/s2706], and enacting provisions set out as a note under [section 2706 of this title][/us/usc/t10/s2706]\] are—
 
@@ -59,13 +59,13 @@
 [/us/usc/t10/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/stat/110/2469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2469
-[/us/pl/106/65/s323/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs323%2Fb%2F1
+[/us/pl/106/65/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIII
 [/us/stat/113/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F562
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/stat/110/2469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2469
 [/us/usc/t10/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501
 [/us/pl/106/65/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs323
-[/us/pl/106/65/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs323%2Fa
+[/us/pl/106/65/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIII
 [/us/stat/113/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F562
 [/us/usc/t10/s2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2706
 [/us/usc/t10/s2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2706

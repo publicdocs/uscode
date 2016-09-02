@@ -17,7 +17,7 @@
 
     The Secretary of Defense shall establish personnel policies emphasizing education and experience in joint matters for reserve officers not on the active-duty list. Such policies shall, to the extent practicable for the reserve components, be similar to the policies provided by this chapter.
 
-(Added [Pub. L. 99–433, title IV, § 401(a)][/us/pl/99/433/s401/a], Oct. 1, 1986, [100 Stat. 1028][/us/stat/100/1028].)
+(Added [Pub. L. 99–433, title IV][/us/pl/99/433/tIV], § 401(a), Oct. 1, 1986, [100 Stat. 1028][/us/stat/100/1028].)
 
  __Transition to Joint Officer Personnel Policy__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/433/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs401%2Fa
+[/us/pl/99/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtIV
 [/us/stat/100/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1028
 [/us/pl/99/433/s406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs406%2Fc
 [/us/usc/t10/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs661

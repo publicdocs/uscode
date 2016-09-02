@@ -21,7 +21,7 @@
 
     (c) This section applies to members of the armed forces who are killed or wounded on or after December 7, 1941. In the case of a member killed or wounded as described in subsection (b) on or after December 7, 1941, and before November 30, 1993, the Secretary concerned shall award the Purple Heart under subsection (a) in each case which is known to the Secretary before such date or for which an application is made to the Secretary in such manner as the Secretary requires.
 
-(Added [Pub. L. 103–160, div. A, title XI, § 1141(a)][/us/pl/103/160/s1141/a], Nov. 30, 1993, [107 Stat. 1756][/us/stat/107/1756]; amended [Pub. L. 105–85, div. A, title X, § 1073(a)(18)][/us/pl/105/85/s1073/a/18], Nov. 18, 1997, [111 Stat. 1901][/us/stat/111/1901].)
+(Added [Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1141(a), Nov. 30, 1993, [107 Stat. 1756][/us/stat/107/1756]; amended [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(18), Nov. 18, 1997, [111 Stat. 1901][/us/stat/111/1901].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Award of Purple Heart to Persons Wounded While Held as Prisoners of War Before__  __April 25, 1962__ 
 
-[Pub. L. 104–106, div. A, title V, § 521][/us/pl/104/106/s521], Feb. 10, 1996, [110 Stat. 309][/us/stat/110/309], as amended by [Pub. L. 108–136, div. A, title V, § 544][/us/pl/108/136/s544], Nov. 24, 2003, [117 Stat. 1478][/us/stat/117/1478], provided that:
+[Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 521, Feb. 10, 1996, [110 Stat. 309][/us/stat/110/309], as amended by [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 544, Nov. 24, 2003, [117 Stat. 1478][/us/stat/117/1478], provided that:
 
 >     “(a)  __Award of Purple Heart__  __.—__ 
 
@@ -62,14 +62,14 @@
 ----------
 ----------
 
-[/us/pl/103/160/s1141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1141%2Fa
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1756
-[/us/pl/105/85/s1073/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F18
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1901
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/104/106/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs521
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F309
-[/us/pl/108/136/s544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs544
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1478
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/usc/t10/s1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1128

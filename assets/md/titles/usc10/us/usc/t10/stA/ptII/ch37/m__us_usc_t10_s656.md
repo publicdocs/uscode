@@ -39,7 +39,7 @@
 
     The Secretary of Defense shall coordinate with the National Guard Bureau and States in tracking the progress of the National Guard toward developing and implementing the plan established under subsection (a).
 
-(Added [Pub. L. 112–239, div. A, title V, § 519(a)(1)][/us/pl/112/239/s519/a/1], Jan. 2, 2013, [126 Stat. 1720][/us/stat/126/1720].)
+(Added [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 519(a)(1), Jan. 2, 2013, [126 Stat. 1720][/us/stat/126/1720].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/112/239/s519/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs519%2Fa%2F1
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1720
 
 

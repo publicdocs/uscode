@@ -17,7 +17,7 @@
 
     Under such regulations as the Secretary of Defense may prescribe, the Secretary may expend, from appropriations available for operation and maintenance, amounts necessary to carry out any project authorized under [section 18233(a) of this title][/us/usc/t10/s18233/a] that costs not more than the amount specified in [section 2805(c) of this title][/us/usc/t10/s2805/c].
 
-(Added [Pub. L. 108–375, div. B, title XXVIII, § 2808(b)][/us/pl/108/375/s2808/b], Oct. 28, 2004, [118 Stat. 2125][/us/stat/118/2125]; amended [Pub. L. 112–81, div. B, title XXVIII, § 2802(c)(4)][/us/pl/112/81/s2802/c/4], Dec. 31, 2011, [125 Stat. 1685][/us/stat/125/1685].)
+(Added [Pub. L. 108–375, div. B, title XXVIII][/us/pl/108/375/dB/tXXVIII], § 2808(b), Oct. 28, 2004, [118 Stat. 2125][/us/stat/118/2125]; amended [Pub. L. 112–81, div. B, title XXVIII][/us/pl/112/81/dB/tXXVIII], § 2802(c)(4), Dec. 31, 2011, [125 Stat. 1685][/us/stat/125/1685].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 
 [/us/usc/t10/s18233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs18233%2Fa
 [/us/usc/t10/s2805/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805%2Fc
-[/us/pl/108/375/s2808/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs2808%2Fb
+[/us/pl/108/375/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdB%2FtXXVIII
 [/us/stat/118/2125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2125
-[/us/pl/112/81/s2802/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2802%2Fc%2F4
+[/us/pl/112/81/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdB%2FtXXVIII
 [/us/stat/125/1685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1685
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t10/s2805/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805%2Fc

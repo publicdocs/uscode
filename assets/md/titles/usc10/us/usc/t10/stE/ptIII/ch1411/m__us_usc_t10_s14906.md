@@ -29,7 +29,7 @@
 
     A person may not be a member of more than one board convened under this chapter to consider the same officer.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2960][/us/stat/108/2960]; amended [Pub. L. 106–65, div. A, title V, § 504(b)][/us/pl/106/65/s504/b], Oct. 5, 1999, [113 Stat. 591][/us/stat/113/591].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2960][/us/stat/108/2960]; amended [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 504(b), Oct. 5, 1999, [113 Stat. 591][/us/stat/113/591].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2960
-[/us/pl/106/65/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs504%2Fb
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F591
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 

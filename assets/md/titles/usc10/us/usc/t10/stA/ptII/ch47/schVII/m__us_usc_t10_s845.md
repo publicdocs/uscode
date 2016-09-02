@@ -19,7 +19,7 @@
 
     (b) A plea of guilty by the accused may not be received to any charge or specification alleging an offense for which the death penalty may be adjudged. With respect to any other charge or specification to which a plea of guilty has been made by the accused and accepted by the military judge or by a court-martial without a military judge, a finding of guilty of the charge or specification may, if permitted by regulations of the Secretary concerned, be entered immediately without vote. This finding shall constitute the finding of the court unless the plea of guilty is withdrawn prior to announcement of the sentence, in which event the proceedings shall continue as though the accused had pleaded not guilty.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 52][/us/stat/70A/52]; [Pub. L. 90–632, § 2(19)][/us/pl/90/632/s2/19], Oct. 24, 1968, [82 Stat. 1339][/us/stat/82/1339].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 52][/us/stat/70A/52]; [Pub. L. 90–632][/us/pl/90/632], § 2(19), Oct. 24, 1968, [82 Stat. 1339][/us/stat/82/1339].)
 
 <table>
 
@@ -73,9 +73,9 @@ May 5, 1950, ch. 169, § 1 (Art. 45), 64 Stat. 122.  </td>
 
  __Amendments__ 
 
-    1968—Subsec. (a). [Pub. L. 90–632, § 2(19)(A)][/us/pl/90/632/s2/19/A], substituted “after arraignment” for “arraigned before a court-martial”.
+    1968—Subsec. (a). [Pub. L. 90–632][/us/pl/90/632], § 2(19)(A), substituted “after arraignment” for “arraigned before a court-martial”.
 
-    Subsec. (b). [Pub. L. 90–632, § 2(19)(B)][/us/pl/90/632/s2/19/B], inserted provisions covering the making and accepting of a guilty plea to charges or specifications other than charges and specifications alleging an offense for which the death penalty may be adjudged.
+    Subsec. (b). [Pub. L. 90–632][/us/pl/90/632], § 2(19)(B), inserted provisions covering the making and accepting of a guilty plea to charges or specifications other than charges and specifications alleging an offense for which the death penalty may be adjudged.
 
  __Effective Date of 1968 Amendment__ 
 
@@ -90,10 +90,10 @@ May 5, 1950, ch. 169, § 1 (Art. 45), 64 Stat. 122.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F52
-[/us/pl/90/632/s2/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F19
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1339
-[/us/pl/90/632/s2/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F19%2FA
-[/us/pl/90/632/s2/19/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F19%2FB
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/pl/90/632/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs4
 [/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801

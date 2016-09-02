@@ -51,7 +51,7 @@
 
     (c) The Secretary of Defense may obtain the advice and recommendations of such advisory committees as the Secretary considers appropriate. Each such committee consulted by the Secretary under this subsection shall evaluate the proposed study or demonstration project as to the soundness of the objectives of such study or demonstration project, the likelihood of obtaining productive results based on such study or demonstration project, the resources which were required to conduct such study or demonstration project, and the relationship of such study or demonstration project to other on­going or completed studies and demonstration projects.
 
-(Added [Pub. L. 98–94, title IX, § 933(a)(1)][/us/pl/98/94/s933/a/1], Sept. 24, 1983, [97 Stat. 650][/us/stat/97/650]; amended [Pub. L. 98–557, § 19(14)][/us/pl/98/557/s19/14], Oct. 30, 1984, [98 Stat. 2870][/us/stat/98/2870]; [Pub. L. 105–261, div. A, title X, § 1031(a)][/us/pl/105/261/s1031/a], Oct. 17, 1998, [112 Stat. 2123][/us/stat/112/2123]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 715, Oct. 14, 2008, [122 Stat. 4505][/us/stat/122/4505].)
+(Added [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], § 933(a)(1), Sept. 24, 1983, [97 Stat. 650][/us/stat/97/650]; amended [Pub. L. 98–557][/us/pl/98/557], § 19(14), Oct. 30, 1984, [98 Stat. 2870][/us/stat/98/2870]; [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1031(a), Oct. 17, 1998, [112 Stat. 2123][/us/stat/112/2123]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 715, Oct. 14, 2008, [122 Stat. 4505][/us/stat/122/4505].)
 
  __Amendments__ 
 
@@ -63,13 +63,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–94, title IX, § 933(b)][/us/pl/98/94/s933/b], Sept. 24, 1983, [97 Stat. 651][/us/stat/97/651], provided that: 
+[Pub. L. 98–94, title IX][/us/pl/98/94/tIX], § 933(b), Sept. 24, 1983, [97 Stat. 651][/us/stat/97/651], provided that: 
 
 > “[Section 1092 of title 10][/us/usc/t10/s1092], United States Code, as added by subsection (a), shall take effect on October 1, 1983.”
 
  __Pilot Program on Incentive Programs To Improve Health Care Provided Under the TRICARE Program__ 
 
-[Pub. L. 114–92, div. A, title VII, § 726][/us/pl/114/92/s726], Nov. 25, 2015, [129 Stat. 871][/us/stat/129/871], provided that:
+[Pub. L. 114–92, div. A, title VII][/us/pl/114/92/dA/tVII], § 726, Nov. 25, 2015, [129 Stat. 871][/us/stat/129/871], provided that:
 
 >     “(a)  __Pilot Program__  __.—__ 
 
@@ -145,7 +145,7 @@
 
  __Pilot Program on Certain Treatments of Autism Under the TRICARE Program__ 
 
-[Pub. L. 112–239, div. A, title VII, § 705][/us/pl/112/239/s705], Jan. 2, 2013, [126 Stat. 1800][/us/stat/126/1800], provided that:
+[Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 705, Jan. 2, 2013, [126 Stat. 1800][/us/stat/126/1800], provided that:
 
 >     “(a) __Pilot Program.—__ 
 
@@ -277,7 +277,7 @@
 
  __Availability of Chiropractic Health Care Services__ 
 
-[Pub. L. 109–163, div. A, title VII, § 712][/us/pl/109/163/s712], Jan. 6, 2006, [119 Stat. 3343][/us/stat/119/3343], provided that:
+[Pub. L. 109–163, div. A, title VII][/us/pl/109/163/dA/tVII], § 712, Jan. 6, 2006, [119 Stat. 3343][/us/stat/119/3343], provided that:
 
 >     “(a)  __Availability of Chiropractic Health Care Services__  __.—__ 
 
@@ -293,7 +293,7 @@
 
  __Pilot Program for Health Care Delivery__ 
 
-[Pub. L. 108–375, div. A, title VII, § 721][/us/pl/108/375/s721], Oct. 28, 2004, [118 Stat. 1988][/us/stat/118/1988], as amended by [Pub. L. 110–181, div. A, title VII, § 707][/us/pl/110/181/s707], Jan. 28, 2008, [122 Stat. 189][/us/stat/122/189]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(e), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613], provided that:
+[Pub. L. 108–375, div. A, title VII][/us/pl/108/375/dA/tVII], § 721, Oct. 28, 2004, [118 Stat. 1988][/us/stat/118/1988], as amended by [Pub. L. 110–181, div. A, title VII][/us/pl/110/181/dA/tVII], § 707, Jan. 28, 2008, [122 Stat. 189][/us/stat/122/189]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(e), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613], provided that:
 
 >     “(a)  __Pilot Program__  __.—__ 
 
@@ -351,27 +351,27 @@
 
  __Demonstration Project for Expanded Access to Mental Health Counselors__ 
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 731\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–189, directed the Secretary of Defense, not later than Mar. 31, 2001, to submit to committees of Congress a plan to carry out a demonstration project under which licensed and certified professional mental health counselors who had met eligibility requirements for participation as providers under CHAMPUS or the TRICARE program could provide services to covered beneficiaries under this chapter without referral by physicians or adherence to supervision requirements, and directed the Secretary to conduct such project during the 2-year period beginning Oct. 1, 2001, and to submit to Congress a report on such project not later than Feb. 1, 2003.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 731\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–189, directed the Secretary of Defense, not later than Mar. 31, 2001, to submit to committees of Congress a plan to carry out a demonstration project under which licensed and certified professional mental health counselors who had met eligibility requirements for participation as providers under CHAMPUS or the TRICARE program could provide services to covered beneficiaries under this chapter without referral by physicians or adherence to supervision requirements, and directed the Secretary to conduct such project during the 2-year period beginning Oct. 1, 2001, and to submit to Congress a report on such project not later than Feb. 1, 2003.
 
  __Teleradiology Demonstration Project__ 
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 732\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–191, authorized the Secretary of Defense to conduct a demonstration project during the 2-year period beginning on Oct. 30, 2000, under which a military medical treatment facility and each clinic supported by such facility would be linked by a digital radiology network through which digital radiology X-rays could be sent electronically from clinics to the military medical treatment facility.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 732\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–191, authorized the Secretary of Defense to conduct a demonstration project during the 2-year period beginning on Oct. 30, 2000, under which a military medical treatment facility and each clinic supported by such facility would be linked by a digital radiology network through which digital radiology X-rays could be sent electronically from clinics to the military medical treatment facility.
 
  __Joint Telemedicine and Telepharmacy Demonstration Projects by the Department of Defense and Department of Veterans Affairs__ 
 
-    [Pub. L. 106–65, div. A, title VII, § 724][/us/pl/106/65/s724], Oct. 5, 1999, [113 Stat. 697][/us/stat/113/697], as amended by [Pub. L. 108–136, div. A, title X, § 1031(h)(2)][/us/pl/108/136/s1031/h/2], Nov. 24, 2003, [117 Stat. 1605][/us/stat/117/1605], authorized the Secretary of Defense and the Secretary of Veterans Affairs, during the three-year period beginning on Oct. 1, 1999, to carry out joint demonstration projects for purposes of evaluating the feasibility and practicability of using telecommunications to provide radiologic and imaging services, diagnostic services, referral services, pharmacy services, and any other health care services designated by the Secretaries.
+    [Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 724, Oct. 5, 1999, [113 Stat. 697][/us/stat/113/697], as amended by [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(h)(2), Nov. 24, 2003, [117 Stat. 1605][/us/stat/117/1605], authorized the Secretary of Defense and the Secretary of Veterans Affairs, during the three-year period beginning on Oct. 1, 1999, to carry out joint demonstration projects for purposes of evaluating the feasibility and practicability of using telecommunications to provide radiologic and imaging services, diagnostic services, referral services, pharmacy services, and any other health care services designated by the Secretaries.
 
  __Demonstration Program To Train Military Medical Personnel in Civilian Shock Trauma Units__ 
 
-    [Pub. L. 104–106, div. A, title VII, § 744][/us/pl/104/106/s744], Feb. 10, 1996, [110 Stat. 386][/us/stat/110/386], directed the Secretary of Defense to implement, not later than Apr. 1, 1996, a demonstration program to evaluate the feasibility of providing shock trauma training for military medical personnel through an agreement with one or more public or nonprofit hospitals, and to submit to Congress a report describing the scope and activities of the program not later than Mar. 1 of each year in which it was conducted, provided for the termination of the program on Mar. 31, 1998, and required the Comptroller General of the United States to submit to Congress a report evaluating its effectiveness not later than May 1, 1998.
+    [Pub. L. 104–106, div. A, title VII][/us/pl/104/106/dA/tVII], § 744, Feb. 10, 1996, [110 Stat. 386][/us/stat/110/386], directed the Secretary of Defense to implement, not later than Apr. 1, 1996, a demonstration program to evaluate the feasibility of providing shock trauma training for military medical personnel through an agreement with one or more public or nonprofit hospitals, and to submit to Congress a report describing the scope and activities of the program not later than Mar. 1 of each year in which it was conducted, provided for the termination of the program on Mar. 31, 1998, and required the Comptroller General of the United States to submit to Congress a report evaluating its effectiveness not later than May 1, 1998.
 
  __Demonstration Project on Management of Health Care in Catchment Areas and Other Demonstration Projects__ 
 
-    [Pub. L. 100–180, div. A, title VII, § 731][/us/pl/100/180/s731], Dec. 4, 1987, [101 Stat. 1117][/us/stat/101/1117], directed Secretary of Defense to conduct, beginning in fiscal year 1988 for at least two years, projects designed to demonstrate the alternative health care delivery system under which the commander of a medical facility of the uniformed services is responsible for all funding and all medical care of the covered beneficiaries in the catchment area of the facility and to conduct specific projects for the purpose of demonstrating alternatives to providing health care under the military health care system, directed Secretary not later than 60 days after Dec. 4, 1987, to submit to Congress a report that provides an outline and discussion of the manner in which the Secretary intends to structure and conduct each demonstration project and to develop and submit to Congress a methodology to be used in evaluating the results of the demonstration projects, and submit to Congress an interim report on each demonstration project after such project has been in effect for at least 12 months and a final report on each such project when each project is completed.
+    [Pub. L. 100–180, div. A, title VII][/us/pl/100/180/dA/tVII], § 731, Dec. 4, 1987, [101 Stat. 1117][/us/stat/101/1117], directed Secretary of Defense to conduct, beginning in fiscal year 1988 for at least two years, projects designed to demonstrate the alternative health care delivery system under which the commander of a medical facility of the uniformed services is responsible for all funding and all medical care of the covered beneficiaries in the catchment area of the facility and to conduct specific projects for the purpose of demonstrating alternatives to providing health care under the military health care system, directed Secretary not later than 60 days after Dec. 4, 1987, to submit to Congress a report that provides an outline and discussion of the manner in which the Secretary intends to structure and conduct each demonstration project and to develop and submit to Congress a methodology to be used in evaluating the results of the demonstration projects, and submit to Congress an interim report on each demonstration project after such project has been in effect for at least 12 months and a final report on each such project when each project is completed.
 
  __Chiropractic Health Care__ 
 
-[Pub. L. 108–375, div. A, title VII, § 718][/us/pl/108/375/s718], Oct. 28, 2004, [118 Stat. 1987][/us/stat/118/1987], provided that:
+[Pub. L. 108–375, div. A, title VII][/us/pl/108/375/dA/tVII], § 718, Oct. 28, 2004, [118 Stat. 1987][/us/stat/118/1987], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -423,11 +423,11 @@
 
 >     The advisory committee shall terminate 90 days after the date on which the Secretary submits the report under subsection (f).”
 
-[Pub. L. 108–136, div. A, title VII, § 711][/us/pl/108/136/s711], Nov. 24, 2003, [117 Stat. 1530][/us/stat/117/1530], provided that: 
+[Pub. L. 108–136, div. A, title VII][/us/pl/108/136/dA/tVII], § 711, Nov. 24, 2003, [117 Stat. 1530][/us/stat/117/1530], provided that: 
 
 > “The Secretary of Defense shall accelerate the implementation of the plan required by section 702 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 ([Public Law 106–398][/us/pl/106/398]; [114 Stat. 1654][/us/stat/114/1654]A–173) \[set out below\] (relating to chiropractic health care services and benefits), with a goal of completing implementation of the plan by October 1, 2005.”
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 702\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–173, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VII, § 702\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–173, provided that:
 
 >     “(a)  __Plan Required__  __.—__ 
 
@@ -471,9 +471,9 @@
 
 >     The Comptroller General shall monitor the development and implementation of the plan required under subsection (a), including the administration of services and benefits under the plan, and periodically submit to the committees referred to in subsection (d) written reports on such development and implementation.”
 
-    [Pub. L. 103–337, div. A, title VII, § 731][/us/pl/103/337/s731], Oct. 5, 1994, [108 Stat. 2809][/us/stat/108/2809], as amended by [Pub. L. 105–85, div. A, title VII, § 739][/us/pl/105/85/s739], Nov. 18, 1997, [111 Stat. 1815][/us/stat/111/1815]; [Pub. L. 106–65, div. A, title VII, § 702(a)][/us/pl/106/65/s702/a], Oct. 5, 1999, [113 Stat. 680][/us/stat/113/680], directed the Secretary of Defense to develop and carry out a demonstration program for fiscal years 1995 to 1999 to evaluate the feasibility and advisability of furnishing chiropractic care through the medical care facilities of the Armed Forces, to continue to furnish the same chiropractic care in fiscal year 2000, to submit reports to Congress in 1995 and 1998 with a final report due Jan. 31, 2000, to establish an oversight advisory committee to assist and advise the Secretary with regard to the development and conduct of the demonstration program, and, not later than Mar. 31, 2000, to submit to Congress an implementation plan for the full integration of chiropractic health care services into the military health care system of the Department of Defense, including the TRICARE program, if the provision of such care was the Secretary’s recommendation.
+    [Pub. L. 103–337, div. A, title VII][/us/pl/103/337/dA/tVII], § 731, Oct. 5, 1994, [108 Stat. 2809][/us/stat/108/2809], as amended by [Pub. L. 105–85, div. A, title VII][/us/pl/105/85/dA/tVII], § 739, Nov. 18, 1997, [111 Stat. 1815][/us/stat/111/1815]; [Pub. L. 106–65, div. A, title VII][/us/pl/106/65/dA/tVII], § 702(a), Oct. 5, 1999, [113 Stat. 680][/us/stat/113/680], directed the Secretary of Defense to develop and carry out a demonstration program for fiscal years 1995 to 1999 to evaluate the feasibility and advisability of furnishing chiropractic care through the medical care facilities of the Armed Forces, to continue to furnish the same chiropractic care in fiscal year 2000, to submit reports to Congress in 1995 and 1998 with a final report due Jan. 31, 2000, to establish an oversight advisory committee to assist and advise the Secretary with regard to the development and conduct of the demonstration program, and, not later than Mar. 31, 2000, to submit to Congress an implementation plan for the full integration of chiropractic health care services into the military health care system of the Department of Defense, including the TRICARE program, if the provision of such care was the Secretary’s recommendation.
 
-[Pub. L. 98–525, title VI, § 632(b)][/us/pl/98/525/s632/b], Oct. 19, 1984, [98 Stat. 2543][/us/stat/98/2543], provided that: 
+[Pub. L. 98–525, title VI][/us/pl/98/525/tVI], § 632(b), Oct. 19, 1984, [98 Stat. 2543][/us/stat/98/2543], provided that: 
 
 > “The Secretary of Defense, in consultation with the Secretary of Health and Human Services, shall conduct demonstration projects under [section 1092 of title 10][/us/usc/t10/s1092], United States Code, for the purpose of evaluating the cost-effectiveness of chiropractic care. In the conduct of such demonstration projects, chiropractic care (including manual manipulation of the spine and other routine chiropractic procedures authorized under joint regulations prescribed by the Secretary of Defense and the Secretary of Health and Human Services and not otherwise prohibited by law) may be provided as appropriate under chapter 55 of title 10, United States Code.”
 
@@ -484,70 +484,70 @@
 ----------
 ----------
 
-[/us/pl/98/94/s933/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs933%2Fa%2F1
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F650
-[/us/pl/98/557/s19/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs19%2F14
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2870
-[/us/pl/105/261/s1031/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1031%2Fa
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2123
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4505
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
-[/us/pl/98/94/s933/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs933%2Fb
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F651
 [/us/usc/t10/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1092
-[/us/pl/114/92/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs726
+[/us/pl/114/92/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVII
 [/us/stat/129/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F871
 [/us/usc/t10/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1092
 [/us/usc/t10/s1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072
-[/us/pl/112/239/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs705
+[/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1800
 [/us/usc/t10/s1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079
 [/us/usc/t10/s1072/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F7
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4501
-[/us/pl/109/163/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs712
+[/us/pl/109/163/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVII
 [/us/stat/119/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3343
-[/us/pl/108/375/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs721
+[/us/pl/108/375/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVII
 [/us/stat/118/1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1988
-[/us/pl/110/181/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs707
+[/us/pl/110/181/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVII
 [/us/stat/122/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F189
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4613
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/65/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs724
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F697
-[/us/pl/108/136/s1031/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fh%2F2
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1605
-[/us/pl/104/106/s744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs744
+[/us/pl/104/106/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVII
 [/us/stat/110/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F386
-[/us/pl/100/180/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs731
+[/us/pl/100/180/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVII
 [/us/stat/101/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1117
-[/us/pl/108/375/s718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs718
+[/us/pl/108/375/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVII
 [/us/stat/118/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1987
 [/us/usc/t5/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3161
-[/us/pl/108/136/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs711
+[/us/pl/108/136/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVII
 [/us/stat/117/1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1530
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s1074/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074%2Fa
 [/us/usc/t10/s1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1073
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1092
-[/us/pl/103/337/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs731
+[/us/pl/103/337/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVII
 [/us/stat/108/2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2809
-[/us/pl/105/85/s739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs739
+[/us/pl/105/85/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVII
 [/us/stat/111/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1815
-[/us/pl/106/65/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs702%2Fa
+[/us/pl/106/65/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVII
 [/us/stat/113/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F680
-[/us/pl/98/525/s632/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs632%2Fb
+[/us/pl/98/525/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVI
 [/us/stat/98/2543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2543
 [/us/usc/t10/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1092
 

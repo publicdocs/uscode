@@ -27,11 +27,11 @@
 
         (B) is made by an officer or employee authorized to do so who is not an officer or employee referred to in paragraph (1).
 
-(Added [Pub. L. 106–65, div. A, title IX, § 933(a)(1)][/us/pl/106/65/s933/a/1], Oct. 5, 1999, [113 Stat. 729][/us/stat/113/729].)
+(Added [Pub. L. 106–65, div. A, title IX][/us/pl/106/65/dA/tIX], § 933(a)(1), Oct. 5, 1999, [113 Stat. 729][/us/stat/113/729].)
 
  __Regulations__ 
 
-[Pub. L. 106–65, div. A, title IX, § 933(b)(2)][/us/pl/106/65/s933/b/2], Oct. 5, 1999, [113 Stat. 730][/us/stat/113/730], provided that: 
+[Pub. L. 106–65, div. A, title IX][/us/pl/106/65/dA/tIX], § 933(b)(2), Oct. 5, 1999, [113 Stat. 730][/us/stat/113/730], provided that: 
 
 > “Regulations under [section 2785 of title 10][/us/usc/t10/s2785], United States Code, as added by subsection (a), shall be prescribed not later than 180 days after the date of the enactment of this Act \[Oct. 5, 1999\].”
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/106/65/s933/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs933%2Fa%2F1
+[/us/pl/106/65/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIX
 [/us/stat/113/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F729
-[/us/pl/106/65/s933/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs933%2Fb%2F2
+[/us/pl/106/65/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIX
 [/us/stat/113/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F730
 [/us/usc/t10/s2785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2785
 

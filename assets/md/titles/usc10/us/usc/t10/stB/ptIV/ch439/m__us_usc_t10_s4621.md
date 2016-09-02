@@ -47,7 +47,7 @@
 
     (h) Appropriations for subsistence of the Army may be applied to the purchase of subsistence supplies for sale to members of the Army on active duty for the use of themselves and their families.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 257][/us/stat/70A/257]; [Pub. L. 87–651, title I, § 118][/us/pl/87/651/s118], Sept. 7, 1962, [76 Stat. 513][/us/stat/76/513]; [Pub. L. 96–513, title V, § 512(17)][/us/pl/96/513/s512/17], Dec. 12, 1980, [94 Stat. 2930][/us/stat/94/2930]; [Pub. L. 100–180, div. A, title III, § 313(c)][/us/pl/100/180/s313/c], Dec. 4, 1987, [101 Stat. 1074][/us/stat/101/1074]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 104–106, div. A, title III, § 375(b)(1)][/us/pl/104/106/s375/b/1], Feb. 10, 1996, [110 Stat. 283][/us/stat/110/283].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 257][/us/stat/70A/257]; [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 118, Sept. 7, 1962, [76 Stat. 513][/us/stat/76/513]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 512(17), Dec. 12, 1980, [94 Stat. 2930][/us/stat/94/2930]; [Pub. L. 100–180, div. A, title III][/us/pl/100/180/dA/tIII], § 313(c), Dec. 4, 1987, [101 Stat. 1074][/us/stat/101/1074]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 375(b)(1), Feb. 10, 1996, [110 Stat. 283][/us/stat/110/283].)
 
 <table>
 
@@ -325,11 +325,11 @@ In subsection (g), the words “regulations to be prescribed by the Secretary”
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–106, § 375(b)(1)(A)][/us/pl/104/106/s375/b/1/A], substituted “The Secretary of the Army” for “The branch, office, or officer designated by the Secretary of the Army”.
+    1996—Subsec. (a). [Pub. L. 104–106][/us/pl/104/106], § 375(b)(1)(A), substituted “The Secretary of the Army” for “The branch, office, or officer designated by the Secretary of the Army”.
 
-    Subsecs. (b), (c). [Pub. L. 104–106, § 375(b)(1)(B)][/us/pl/104/106/s375/b/1/B], substituted “The Secretary” for “The branch, office, or officer designated by the Secretary”.
+    Subsecs. (b), (c). [Pub. L. 104–106][/us/pl/104/106], § 375(b)(1)(B), substituted “The Secretary” for “The branch, office, or officer designated by the Secretary”.
 
-    Subsec. (f). [Pub. L. 104–106, § 375(b)(1)(C)][/us/pl/104/106/s375/b/1/C], inserted “or by commercial credit” before period at end.
+    Subsec. (f). [Pub. L. 104–106][/us/pl/104/106], § 375(b)(1)(C), inserted “or by commercial credit” before period at end.
 
     1989—Subsec. (d). [Pub. L. 101–189][/us/pl/101/189] substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -349,7 +349,7 @@ In subsection (g), the words “regulations to be prescribed by the Secretary”
 
  __Prices Charged Personnel of Civilian Agencies in Germany__ 
 
-[Act June 20, 1956, ch. 414][/us/act/1956-06-20/ch414], title I, § 101, [70 Stat. 300][/us/stat/70/300], provided in part: 
+[Act June 20, 1956, ch. 414, title I][/us/act/1956-06-20/ch414/tI], § 101, [70 Stat. 300][/us/stat/70/300], provided in part: 
 
 > “When the Department of the Army, under the authority of the Act of March 3, 1911, as amended, furnishes subsistence supplies to personnel of civilian agencies of the United States Government serving in Germany, payment therefor by such personnel shall be made at the same rate as is paid by civilian personnel of the Department of the Army serving in Germany.”
 
@@ -365,15 +365,15 @@ In subsection (g), the words “regulations to be prescribed by the Secretary”
 [/us/usc/t10/s2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2208
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F257
-[/us/pl/87/651/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs118
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F513
-[/us/pl/96/513/s512/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs512%2F17
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2930
-[/us/pl/100/180/s313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs313%2Fc
+[/us/pl/100/180/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtIII
 [/us/stat/101/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1074
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1602
-[/us/pl/104/106/s375/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs375%2Fb%2F1
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F283
 [/us/stat/64/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F272
 [/us/stat/63/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F585
@@ -385,9 +385,9 @@ In subsection (g), the words “regulations to be prescribed by the Secretary”
 [/us/usc/t10/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F1
 [/us/act/1914-04-27/ch72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-04-27%2Fch72
 [/us/stat/38/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F361
-[/us/pl/104/106/s375/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs375%2Fb%2F1%2FA
-[/us/pl/104/106/s375/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs375%2Fb%2F1%2FB
-[/us/pl/104/106/s375/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs375%2Fb%2F1%2FC
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/usc/t10/s2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2208
@@ -399,7 +399,7 @@ In subsection (g), the words “regulations to be prescribed by the Secretary”
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/usc/t10/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs802
-[/us/act/1956-06-20/ch414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-20%2Fch414
+[/us/act/1956-06-20/ch414/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-20%2Fch414%2FtI
 [/us/stat/70/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F300
 [/us/act/1949-10-06/ch621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-06%2Fch621
 [/us/stat/63/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F713

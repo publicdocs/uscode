@@ -55,31 +55,31 @@
 
         (4) The term “intergovernmental support agreement” means a legal instrument reflecting a relationship between the Secretary concerned and a State or local government that contains such terms and conditions as the Secretary concerned considers appropriate for the purposes of this section and necessary to protect the interests of the United States.
 
-(Added [Pub. L. 112–239, div. A, title III, § 331(a)][/us/pl/112/239/s331/a], Jan. 2, 2013, [126 Stat. 1696][/us/stat/126/1696], § 2336; renumbered § 2679 and amended [Pub. L. 113–291, div. A, title III, § 351(a)][/us/pl/113/291/s351/a], (b), Dec. 19, 2014, [128 Stat. 3346][/us/stat/128/3346]; [Pub. L. 114–92, div. A, title X, § 1081(a)(9)][/us/pl/114/92/s1081/a/9], (b)(1), Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001].)
+(Added [Pub. L. 112–239, div. A, title III][/us/pl/112/239/dA/tIII], § 331(a), Jan. 2, 2013, [126 Stat. 1696][/us/stat/126/1696], § 2336; renumbered § 2679 and amended [Pub. L. 113–291, div. A, title III][/us/pl/113/291/dA/tIII], § 351(a), (b), Dec. 19, 2014, [128 Stat. 3346][/us/stat/128/3346]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1081(a)(9), (b)(1), Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001].)
 
  __Prior Provisions__ 
 
-    A prior section 2679, added [Pub. L. 87–651, title I, § 112(c)][/us/pl/87/651/s112/c], Sept. 7, 1962, [76 Stat. 511][/us/stat/76/511]; amended [Pub. L. 101–189, div. A, title XVI, § 1621(a)(9)][/us/pl/101/189/s1621/a/9], Nov. 29, 1989, [103 Stat. 1603][/us/stat/103/1603]; [Pub. L. 103–337, div. A, title X, § 1070(e)(9)][/us/pl/103/337/s1070/e/9], Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859], related to use of space and equipment by representatives of veterans’ organizations, prior to repeal by [Pub. L. 108–375, div. B, title XXVIII, § 2821(c)(2)][/us/pl/108/375/s2821/c/2], Oct. 28, 2004, [118 Stat. 2129][/us/stat/118/2129].
+    A prior section 2679, added [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 112(c), Sept. 7, 1962, [76 Stat. 511][/us/stat/76/511]; amended [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(9), Nov. 29, 1989, [103 Stat. 1603][/us/stat/103/1603]; [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(e)(9), Oct. 5, 1994, [108 Stat. 2859][/us/stat/108/2859], related to use of space and equipment by representatives of veterans’ organizations, prior to repeal by [Pub. L. 108–375, div. B, title XXVIII][/us/pl/108/375/dB/tXXVIII], § 2821(c)(2), Oct. 28, 2004, [118 Stat. 2129][/us/stat/118/2129].
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1). [Pub. L. 114–92, § 1081(a)(9)][/us/pl/114/92/s1081/a/9], struck out “with” before “, on a sole source”.
+    2015—Subsec. (a)(1). [Pub. L. 114–92][/us/pl/114/92], § 1081(a)(9), struck out “with” before “, on a sole source”.
 
-    Subsec. (a)(4). [Pub. L. 114–92, § 1081(b)(1)][/us/pl/114/92/s1081/b/1], amended directory language of [Pub. L. 113–291, § 351(b)(1)(C)][/us/pl/113/291/s351/b/1/C]. See 2014 Amendment note below.
+    Subsec. (a)(4). [Pub. L. 114–92][/us/pl/114/92], § 1081(b)(1), amended directory language of [Pub. L. 113–291][/us/pl/113/291], § 351(b)(1)(C). See 2014 Amendment note below.
 
-    2014—[Pub. L. 113–291, § 351(a)][/us/pl/113/291/s351/a], renumbered [section 2336 of this title][/us/usc/t10/s2336] as this section and substituted “Installation-support services: intergovernmental support agreement” for “Intergovernmental support agreements with State and local governments” in section catchline.
+    2014—[Pub. L. 113–291][/us/pl/113/291], § 351(a), renumbered [section 2336 of this title][/us/usc/t10/s2336] as this section and substituted “Installation-support services: intergovernmental support agreement” for “Intergovernmental support agreements with State and local governments” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 113–291, § 351(b)(1)(A)][/us/pl/113/291/s351/b/1/A], substituted “Notwithstanding any other provision of law governing the award of Federal government contracts for goods and services, the Secretary concerned” for “The Secretary concerned” and “, on a sole source basis, with a State or local” for “a State or local”.
+    Subsec. (a)(1). [Pub. L. 113–291][/us/pl/113/291], § 351(b)(1)(A), substituted “Notwithstanding any other provision of law governing the award of Federal government contracts for goods and services, the Secretary concerned” for “The Secretary concerned” and “, on a sole source basis, with a State or local” for “a State or local”.
 
-    Subsec. (a)(2). [Pub. L. 113–291, § 351(b)(1)(B)][/us/pl/113/291/s351/b/1/B], substituted “An” for “Notwithstanding any other provision of law, an” in introductory provisions, redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “may be entered into on a sole-source basis;”.
+    Subsec. (a)(2). [Pub. L. 113–291][/us/pl/113/291], § 351(b)(1)(B), substituted “An” for “Notwithstanding any other provision of law, an” in introductory provisions, redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “may be entered into on a sole-source basis;”.
 
-    Subsec. (a)(4). [Pub. L. 113–291, § 351(b)(1)(C)][/us/pl/113/291/s351/b/1/C], as amended by [Pub. L. 114–92, § 1081(b)(1)][/us/pl/114/92/s1081/b/1], added par. (4).
+    Subsec. (a)(4). [Pub. L. 113–291][/us/pl/113/291], § 351(b)(1)(C), as amended by [Pub. L. 114–92][/us/pl/114/92], § 1081(b)(1), added par. (4).
 
-    Subsec. (e)(4). [Pub. L. 113–291, § 351(b)(2)][/us/pl/113/291/s351/b/2], added par. (4).
+    Subsec. (e)(4). [Pub. L. 113–291][/us/pl/113/291], § 351(b)(2), added par. (4).
 
  __Effective Date of 2015 Amendment__ 
 
-    [Pub. L. 114–92, div. A, title X, § 1081(b)][/us/pl/114/92/s1081/b], Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001], provided in part that the amendment made by section 1081(b)(1) is effective as of Dec. 19, 2014, and as if included in [Pub. L. 113–291][/us/pl/113/291] as enacted.
+    [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1081(b), Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001], provided in part that the amendment made by section 1081(b)(1) is effective as of Dec. 19, 2014, and as if included in [Pub. L. 113–291][/us/pl/113/291] as enacted.
 
 ----------
 
@@ -88,31 +88,31 @@
 ----------
 ----------
 
-[/us/pl/112/239/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs331%2Fa
+[/us/pl/112/239/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIII
 [/us/stat/126/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1696
-[/us/pl/113/291/s351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs351%2Fa
+[/us/pl/113/291/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIII
 [/us/stat/128/3346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3346
-[/us/pl/114/92/s1081/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F9
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1001
-[/us/pl/87/651/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs112%2Fc
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F511
-[/us/pl/101/189/s1621/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F9
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1603
-[/us/pl/103/337/s1070/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fe%2F9
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2859
-[/us/pl/108/375/s2821/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs2821%2Fc%2F2
+[/us/pl/108/375/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdB%2FtXXVIII
 [/us/stat/118/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2129
-[/us/pl/114/92/s1081/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F9
-[/us/pl/114/92/s1081/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fb%2F1
-[/us/pl/113/291/s351/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs351%2Fb%2F1%2FC
-[/us/pl/113/291/s351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs351%2Fa
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t10/s2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2336
-[/us/pl/113/291/s351/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs351%2Fb%2F1%2FA
-[/us/pl/113/291/s351/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs351%2Fb%2F1%2FB
-[/us/pl/113/291/s351/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs351%2Fb%2F1%2FC
-[/us/pl/114/92/s1081/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fb%2F1
-[/us/pl/113/291/s351/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs351%2Fb%2F2
-[/us/pl/114/92/s1081/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fb
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1001
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 

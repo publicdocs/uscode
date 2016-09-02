@@ -27,7 +27,7 @@
 
     (b) The maximum lease amounts specified in [section 2828(e)(1) of this title][/us/usc/t10/s2828/e/1] for the rental of family housing in foreign countries shall not apply to housing made available to the Department of Defense under this section. To the extent that the lease amount for units of housing made available under this subsection exceeds such maximum lease amounts, such units shall not be counted in applying the limitation contained in such section on the number of units of family housing for which the Secretary concerned may waive such maximum lease amounts.
 
-(Added [Pub. L. 99–167, title VIII, § 808(a)][/us/pl/99/167/s808/a], Dec. 3, 1985, [99 Stat. 989][/us/stat/99/989]; amended [Pub. L. 101–510, div. A, title XIII, § 1301(18)][/us/pl/101/510/s1301/18], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 103–160, div. B, title XXVIII, § 2806][/us/pl/103/160/s2806], Nov. 30, 1993, [107 Stat. 1887][/us/stat/107/1887].)
+(Added [Pub. L. 99–167, title VIII][/us/pl/99/167/tVIII], § 808(a), Dec. 3, 1985, [99 Stat. 989][/us/stat/99/989]; amended [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1301(18), Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 103–160, div. B, title XXVIII][/us/pl/103/160/dB/tXXVIII], § 2806, Nov. 30, 1993, [107 Stat. 1887][/us/stat/107/1887].)
 
  __Amendments__ 
 
@@ -43,11 +43,11 @@
 ----------
 
 [/us/usc/t10/s2828/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2828%2Fe%2F1
-[/us/pl/99/167/s808/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167%2Fs808%2Fa
+[/us/pl/99/167/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167%2FtVIII
 [/us/stat/99/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F989
-[/us/pl/101/510/s1301/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1301%2F18
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1668
-[/us/pl/103/160/s2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs2806
+[/us/pl/103/160/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdB%2FtXXVIII
 [/us/stat/107/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1887
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/usc/t10/s2828/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2828%2Fe%2F1

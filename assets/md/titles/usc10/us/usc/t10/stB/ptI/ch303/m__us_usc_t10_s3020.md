@@ -31,7 +31,7 @@
 
     (e) The Inspector General shall have such deputies and assistants as the Secretary of the Army may prescribe. Each such deputy and assistant shall be an officer detailed by the Secretary to that position from the officers of the Army for a tour of duty of not more than four years, under a procedure prescribed by the Secretary.
 
-(Added [Pub. L. 99–433, title V, § 501(a)(7)][/us/pl/99/433/s501/a/7], Oct. 1, 1986, [100 Stat. 1038][/us/stat/100/1038].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 501(a)(7), Oct. 1, 1986, [100 Stat. 1038][/us/stat/100/1038].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/99/433/s501/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs501%2Fa%2F7
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1038
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101

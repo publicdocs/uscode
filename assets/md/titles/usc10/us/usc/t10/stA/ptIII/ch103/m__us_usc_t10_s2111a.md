@@ -57,7 +57,7 @@
 
         (6) The University of North Georgia.
 
-(Added [Pub. L. 104–106, div. A, title V, § 545(a)][/us/pl/104/106/s545/a], Feb. 10, 1996, [110 Stat. 317][/us/stat/110/317]; amended [Pub. L. 105–85, div. A, title V, § 544(d)][/us/pl/105/85/s544/d]–(f)(1), Nov. 18, 1997, [111 Stat. 1745][/us/stat/111/1745], 1746; [Pub. L. 106–65, div. A, title V, § 541(c)][/us/pl/106/65/s541/c], Oct. 5, 1999, [113 Stat. 607][/us/stat/113/607]; [Pub. L. 113–66, div. A, title V, § 583][/us/pl/113/66/s583], Dec. 26, 2013, [127 Stat. 776][/us/stat/127/776].)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 545(a), Feb. 10, 1996, [110 Stat. 317][/us/stat/110/317]; amended [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 544(d)–(f)(1), Nov. 18, 1997, [111 Stat. 1745][/us/stat/111/1745], 1746; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 541(c), Oct. 5, 1999, [113 Stat. 607][/us/stat/113/607]; [Pub. L. 113–66, div. A, title V][/us/pl/113/66/dA/tV], § 583, Dec. 26, 2013, [127 Stat. 776][/us/stat/127/776].)
 
  __Amendments__ 
 
@@ -65,17 +65,17 @@
 
     1999—Subsec. (e)(1). [Pub. L. 106–65][/us/pl/106/65] struck out at end “This paragraph shall apply to a member of the program at a senior military college who graduates from the college after March 31, 1997.”
 
-    1997—[Pub. L. 105–85, § 544(f)(1)][/us/pl/105/85/s544/f/1], substituted “Support for” for “Detail of officers to” in section catchline.
+    1997—[Pub. L. 105–85][/us/pl/105/85], § 544(f)(1), substituted “Support for” for “Detail of officers to” in section catchline.
 
-    Subsecs. (d), (e). [Pub. L. 105–85, § 544(d)(2)][/us/pl/105/85/s544/d/2], added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
+    Subsecs. (d), (e). [Pub. L. 105–85][/us/pl/105/85], § 544(d)(2), added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
 
-    Subsec. (f). [Pub. L. 105–85, § 544(e)][/us/pl/105/85/s544/e], substituted “University” for “College” in par. (2) and inserted “and State University” before period at end of par. (6).
+    Subsec. (f). [Pub. L. 105–85][/us/pl/105/85], § 544(e), substituted “University” for “College” in par. (2) and inserted “and State University” before period at end of par. (6).
 
-    [Pub. L. 105–85, § 544(d)(1)][/us/pl/105/85/s544/d/1], redesignated subsec. (d) as (f).
+    [Pub. L. 105–85][/us/pl/105/85], § 544(d)(1), redesignated subsec. (d) as (f).
 
  __Continuation of Support to Senior Military Colleges__ 
 
-[Pub. L. 105–85, div. A, title V, § 544(a)][/us/pl/105/85/s544/a]–(c), Nov. 18, 1997, [111 Stat. 1744][/us/stat/111/1744], provided that:
+[Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 544(a)–(c), Nov. 18, 1997, [111 Stat. 1744][/us/stat/111/1744], provided that:
 
 >     “(a)  __Definition of Senior Military Colleges__  __.—__ 
 
@@ -122,21 +122,21 @@
 ----------
 ----------
 
-[/us/pl/104/106/s545/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs545%2Fa
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F317
-[/us/pl/105/85/s544/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs544%2Fd
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1745
-[/us/pl/106/65/s541/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs541%2Fc
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F607
-[/us/pl/113/66/s583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs583
+[/us/pl/113/66/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtV
 [/us/stat/127/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F776
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/105/85/s544/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs544%2Ff%2F1
-[/us/pl/105/85/s544/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs544%2Fd%2F2
-[/us/pl/105/85/s544/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs544%2Fe
-[/us/pl/105/85/s544/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs544%2Fd%2F1
-[/us/pl/105/85/s544/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs544%2Fa
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1744
 
 

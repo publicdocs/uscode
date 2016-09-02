@@ -27,7 +27,7 @@
 
     For the purposes of this chapter, an officer of the Army, Air Force, or Marine Corps on a reserve active-status list who holds the grade of first lieutenant, and an officer of the Navy on a reserve active-status list who holds the grade of lieutenant (junior grade), shall be treated as having failed of selection for promotion if the Secretary of the military department concerned determines that the officer would be eligible for consideration for promotion to the next higher grade by a selection board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] if such a board were convened but is not fully qualified for promotion when recommending for promotion under [section 14308(b)(4) of this title][/us/usc/t10/s14308/b/4] all fully qualified officers of the officer’s armed force in such grade who would be eligible for such consideration.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2950][/us/stat/108/2950]; amended [Pub. L. 107–107, div. A, title V, § 505(b)(2)][/us/pl/107/107/s505/b/2], Dec. 28, 2001, [115 Stat. 1087][/us/stat/115/1087].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2950][/us/stat/108/2950]; amended [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 505(b)(2), Dec. 28, 2001, [115 Stat. 1087][/us/stat/115/1087].)
 
  __Amendments__ 
 
@@ -43,9 +43,9 @@
 [/us/usc/t10/s14513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14513
 [/us/usc/t10/s14101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14101%2Fa
 [/us/usc/t10/s14308/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14308%2Fb%2F4
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2950
-[/us/pl/107/107/s505/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fb%2F2
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1087
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 

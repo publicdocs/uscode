@@ -21,7 +21,7 @@
 
     (c) A waiver of the right to appellate review or the withdrawal of an appeal under this section bars review under section 866 or 869(a) of this title (article 66 or 69(a)).
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 58][/us/stat/70A/58]; [Pub. L. 98–209, § 5(b)(1)][/us/pl/98/209/s5/b/1], Dec. 6, 1983, [97 Stat. 1397][/us/stat/97/1397].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 58][/us/stat/70A/58]; [Pub. L. 98–209][/us/pl/98/209], § 5(b)(1), Dec. 6, 1983, [97 Stat. 1397][/us/stat/97/1397].)
 
 <table>
 
@@ -89,7 +89,7 @@ May 5, 1950, ch. 169, § 1 (Art. 61), 64 Stat. 127.  </td>
 [/us/usc/t10/s860/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs860%2Fc
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F58
-[/us/pl/98/209/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs5%2Fb%2F1
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1397
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209

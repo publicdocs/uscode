@@ -17,7 +17,7 @@
 
     Whenever space is available, passengers, and merchandise produced in the United States, or the Commonwealths and possessions, and consigned to residents and mercantile firms of Guam, may be transported to Guam on vessels operated by the Department of Defense, under regulations and at rates to be prescribed by the Secretary of Defense.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 267][/us/stat/70A/267], § 4747; renumbered § 2651 and amended [Pub. L. 108–375, div. A, title X, § 1072(a)][/us/pl/108/375/s1072/a], (b)(4), Oct. 28, 2004, [118 Stat. 2057][/us/stat/118/2057], 2058; [Pub. L. 109–163, div. A, title X, § 1057(a)(6)][/us/pl/109/163/s1057/a/6], Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441]; [Pub. L. 111–383, div. A, title X, § 1075(h)(4)(A)(ii)][/us/pl/111/383/s1075/h/4/A/ii], Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 267][/us/stat/70A/267], § 4747; renumbered § 2651 and amended [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1072(a), (b)(4), Oct. 28, 2004, [118 Stat. 2057][/us/stat/118/2057], 2058; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(a)(6), Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(h)(4)(A)(ii), Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377].)
 
 <table>
 
@@ -85,17 +85,17 @@ Mar. 2, 1907, ch. 2511 (last 29 words of 6th proviso under “Transportation of 
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–383][/us/pl/111/383] made technical amendment to directory language of [Pub. L. 109–163, § 1057(a)(6)][/us/pl/109/163/s1057/a/6]. See 2006 Amendment note below.
+    2011—[Pub. L. 111–383][/us/pl/111/383] made technical amendment to directory language of [Pub. L. 109–163][/us/pl/109/163], § 1057(a)(6). See 2006 Amendment note below.
 
-    2006—[Pub. L. 109–163, § 1057(a)(6)][/us/pl/109/163/s1057/a/6], as amended by [Pub. L. 111–383][/us/pl/111/383], substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”.
+    2006—[Pub. L. 109–163][/us/pl/109/163], § 1057(a)(6), as amended by [Pub. L. 111–383][/us/pl/111/383], substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”.
 
-    2004—[Pub. L. 108–375, § 1072(b)(4)][/us/pl/108/375/s1072/b/4], substituted “the Department of Defense, under regulations and at rates to be prescribed by the Secretary of Defense” for “Army transport agencies or, within bulk space allocations made to the Department of the Army, on vessels operated by any transport agency of the Department of Defense, under regulations and at rates to be prescribed by the Secretary of the Army”.
+    2004—[Pub. L. 108–375][/us/pl/108/375], § 1072(b)(4), substituted “the Department of Defense, under regulations and at rates to be prescribed by the Secretary of Defense” for “Army transport agencies or, within bulk space allocations made to the Department of the Army, on vessels operated by any transport agency of the Department of Defense, under regulations and at rates to be prescribed by the Secretary of the Army”.
 
-    [Pub. L. 108–375, § 1072(a)][/us/pl/108/375/s1072/a], renumbered [section 4747 of this title][/us/usc/t10/s4747] as this section.
+    [Pub. L. 108–375][/us/pl/108/375], § 1072(a), renumbered [section 4747 of this title][/us/usc/t10/s4747] as this section.
 
  __Effective Date of 2011 Amendment__ 
 
-    [Pub. L. 111–383, div. A, title X, § 1075(h)][/us/pl/111/383/s1075/h], Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], provided that amendment by section 1075(h)(4)(A)(ii) is effective as of Jan. 6, 2006, and as if included in [Pub. L. 109–163][/us/pl/109/163] as enacted.
+    [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(h), Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], provided that amendment by section 1075(h)(4)(A)(ii) is effective as of Jan. 6, 2006, and as if included in [Pub. L. 109–163][/us/pl/109/163] as enacted.
 
 ----------
 
@@ -106,20 +106,20 @@ Mar. 2, 1907, ch. 2511 (last 29 words of 6th proviso under “Transportation of 
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F267
-[/us/pl/108/375/s1072/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1072%2Fa
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2057
-[/us/pl/109/163/s1057/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F6
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3441
-[/us/pl/111/383/s1075/h/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fh%2F4%2FA%2Fii
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4377
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/109/163/s1057/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F6
-[/us/pl/109/163/s1057/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fa%2F6
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/108/375/s1072/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1072%2Fb%2F4
-[/us/pl/108/375/s1072/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1072%2Fa
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t10/s4747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4747
-[/us/pl/111/383/s1075/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fh
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4377
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 

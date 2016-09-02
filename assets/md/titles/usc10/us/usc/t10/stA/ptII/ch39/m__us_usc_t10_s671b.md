@@ -19,7 +19,7 @@
 
     (b) An extension under this section continues until the sixtieth day after Congress next convenes or reconvenes or until the expiration of the period of extension specified by the Secretary of Defense, whichever occurs earlier, unless sooner terminated by law or Executive order.
 
-(Added [Pub. L. 90–235, § 1(a)(1)(A)][/us/pl/90/235/s1/a/1/A], Jan. 2, 1968, [81 Stat. 753][/us/stat/81/753]; amended [Pub. L. 101–189, div. A, title VI, § 653(a)(3)][/us/pl/101/189/s653/a/3], Nov. 29, 1989, [103 Stat. 1462][/us/stat/103/1462].)
+(Added [Pub. L. 90–235][/us/pl/90/235], § 1(a)(1)(A), Jan. 2, 1968, [81 Stat. 753][/us/stat/81/753]; amended [Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 653(a)(3), Nov. 29, 1989, [103 Stat. 1462][/us/stat/103/1462].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/90/235/s1/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs1%2Fa%2F1%2FA
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F753
-[/us/pl/101/189/s653/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs653%2Fa%2F3
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1462
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 

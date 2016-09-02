@@ -17,7 +17,7 @@
 
     If a member or former member of a uniformed service under the jurisdiction of one executive department (or a dependent of such a member or former member) receives inpatient medical or dental care in a facility under the jurisdiction of another executive department, the appropriation for maintaining and operating the facility furnishing the care shall be reimbursed at rates established by the President to reflect the average cost of providing the care.
 
-(Added [Pub. L. 85–861, § 1(25)(B)][/us/pl/85/861/s1/25/B], Sept. 2, 1958, [72 Stat. 1450][/us/stat/72/1450]; amended [Pub. L. 89–264, § 1][/us/pl/89/264/s1], Oct. 19, 1965, [79 Stat. 989][/us/stat/79/989]; [Pub. L. 96–513, title V, § 511(36)][/us/pl/96/513/s511/36], (37), Dec. 12, 1980, [94 Stat. 2923][/us/stat/94/2923]; [Pub. L. 98–94, title XII, § 1268(6)][/us/pl/98/94/s1268/6], Sept. 24, 1983, [97 Stat. 706][/us/stat/97/706]; [Pub. L. 98–557, § 19(12)][/us/pl/98/557/s19/12], Oct. 30, 1984, [98 Stat. 2870][/us/stat/98/2870]; [Pub. L. 99–145, title XIII, § 1303(a)(8)][/us/pl/99/145/s1303/a/8], Nov. 8, 1985, [99 Stat. 739][/us/stat/99/739].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(25)(B), Sept. 2, 1958, [72 Stat. 1450][/us/stat/72/1450]; amended [Pub. L. 89–264][/us/pl/89/264], § 1, Oct. 19, 1965, [79 Stat. 989][/us/stat/79/989]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(36), (37), Dec. 12, 1980, [94 Stat. 2923][/us/stat/94/2923]; [Pub. L. 98–94, title XII][/us/pl/98/94/tXII], § 1268(6), Sept. 24, 1983, [97 Stat. 706][/us/stat/97/706]; [Pub. L. 98–557][/us/pl/98/557], § 19(12), Oct. 30, 1984, [98 Stat. 2870][/us/stat/98/2870]; [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1303(a)(8), Nov. 8, 1985, [99 Stat. 739][/us/stat/99/739].)
 
 <table>
 
@@ -67,7 +67,7 @@ June 7, 1956, ch. 374, § 301(d), 70 Stat. 253.  </td>
 
  __Prior Provisions__ 
 
-    A prior section 1085, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 87][/us/stat/70A/87], related to prevention of fraud, coercion, and undue influence, to free discussion, and to acts done in good faith, prior to repeal by [Pub. L. 85–861, § 36B(5)][/us/pl/85/861/s36B/5], Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570], as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+    A prior section 1085, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 87][/us/stat/70A/87], related to prevention of fraud, coercion, and undue influence, to free discussion, and to acts done in good faith, prior to repeal by [Pub. L. 85–861][/us/pl/85/861], § 36B(5), Sept. 2, 1958, [72 Stat. 1570][/us/stat/72/1570], as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
  __Amendments__ 
 
@@ -96,21 +96,21 @@ June 7, 1956, ch. 374, § 301(d), 70 Stat. 253.  </td>
 ----------
 ----------
 
-[/us/pl/85/861/s1/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F25%2FB
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1450
-[/us/pl/89/264/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F264%2Fs1
+[/us/pl/89/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F264
 [/us/stat/79/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F989
-[/us/pl/96/513/s511/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F36
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2923
-[/us/pl/98/94/s1268/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1268%2F6
+[/us/pl/98/94/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtXII
 [/us/stat/97/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F706
-[/us/pl/98/557/s19/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs19%2F12
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2870
-[/us/pl/99/145/s1303/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1303%2Fa%2F8
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F739
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F87
-[/us/pl/85/861/s36B/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs36B%2F5
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1570
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557

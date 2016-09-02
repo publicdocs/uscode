@@ -153,7 +153,7 @@
 
         (6) The term “Senior Executive Service” has the meaning given that term in [section 2101a of title 5][/us/usc/t5/s2101a].
 
-(Added [Pub. L. 114–92, div. A, title XI, § 1107(a)][/us/pl/114/92/s1107/a], Nov. 25, 2015, [129 Stat. 1024][/us/stat/129/1024].)
+(Added [Pub. L. 114–92, div. A, title XI][/us/pl/114/92/dA/tXI], § 1107(a), Nov. 25, 2015, [129 Stat. 1024][/us/stat/129/1024].)
 
  __References in Text__ 
 
@@ -172,7 +172,7 @@
 [/us/usc/t5/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2103
 [/us/usc/t5/s2108/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2108%2F3
 [/us/usc/t5/s2101a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2101a
-[/us/pl/114/92/s1107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1107%2Fa
+[/us/pl/114/92/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXI
 [/us/stat/129/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1024
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 

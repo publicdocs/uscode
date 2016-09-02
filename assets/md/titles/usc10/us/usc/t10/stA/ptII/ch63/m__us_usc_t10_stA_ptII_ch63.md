@@ -75,15 +75,15 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–92, div. A, title V, § 504(b)(2)][/us/pl/114/92/s504/b/2], Nov. 25, 2015, [129 Stat. 807][/us/stat/129/807], substituted “Age 64: regular commissioned officers in general and flag officer grades; exceptions” for “Age 64: regular commissioned officers in general and flag officer grades; exception” in item 1253.
+    2015—[Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 504(b)(2), Nov. 25, 2015, [129 Stat. 807][/us/stat/129/807], substituted “Age 64: regular commissioned officers in general and flag officer grades; exceptions” for “Age 64: regular commissioned officers in general and flag officer grades; exception” in item 1253.
 
-    2006—[Pub. L. 109–364, div. A, title V, § 502(c)][/us/pl/109/364/s502/c], Oct. 17, 2006, [120 Stat. 2177][/us/stat/120/2177], inserted “in grades below general and flag officer grades” after “officers” in item 1251 and added item 1253.
+    2006—[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 502(c), Oct. 17, 2006, [120 Stat. 2177][/us/stat/120/2177], inserted “in grades below general and flag officer grades” after “officers” in item 1251 and added item 1253.
 
-    [Pub. L. 109–163, div. A, title V, § 509(c)(2)][/us/pl/109/163/s509/c/2], Jan. 6, 2006, [119 Stat. 3231][/us/stat/119/3231], added item 1252.
+    [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 509(c)(2), Jan. 6, 2006, [119 Stat. 3231][/us/stat/119/3231], added item 1252.
 
-    1980—[Pub. L. 96–513, title V, § 501(18)][/us/pl/96/513/s501/18], Dec. 12, 1980, [94 Stat. 2908][/us/stat/94/2908], added item 1251.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], § 501(18), Dec. 12, 1980, [94 Stat. 2908][/us/stat/94/2908], added item 1251.
 
-    1967—[Pub. L. 90–130, § 1(6)][/us/pl/90/130/s1/6], Nov. 8, 1967, [81 Stat. 374][/us/stat/81/374], struck out item 1255 “Age 55: female regular warrant officers”.
+    1967—[Pub. L. 90–130][/us/pl/90/130], § 1(6), Nov. 8, 1967, [81 Stat. 374][/us/stat/81/374], struck out item 1255 “Age 55: female regular warrant officers”.
 
 ----------
 
@@ -92,15 +92,15 @@
 ----------
 ----------
 
-[/us/pl/114/92/s504/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs504%2Fb%2F2
+[/us/pl/114/92/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtV
 [/us/stat/129/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F807
-[/us/pl/109/364/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs502%2Fc
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2177
-[/us/pl/109/163/s509/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs509%2Fc%2F2
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3231
-[/us/pl/96/513/s501/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs501%2F18
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2908
-[/us/pl/90/130/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs1%2F6
+[/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/stat/81/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F374
 
 

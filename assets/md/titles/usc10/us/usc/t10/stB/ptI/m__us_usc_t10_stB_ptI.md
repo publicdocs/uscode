@@ -71,9 +71,9 @@
 
  __Amendments__ 
 
-    1987—[Pub. L. 100–26, § 7(j)(10)(A)][/us/pl/100/26/s7/j/10/A], Apr. 21, 1987, [101 Stat. 283][/us/stat/101/283], substituted “3011” for “3010” as section number in item for chapter 303.
+    1987—[Pub. L. 100–26][/us/pl/100/26], § 7(j)(10)(A), Apr. 21, 1987, [101 Stat. 283][/us/stat/101/283], substituted “3011” for “3010” as section number in item for chapter 303.
 
-    1980—[Pub. L. 96–513, title V, § 512(1)][/us/pl/96/513/s512/1], Dec. 12, 1980, [94 Stat. 2929][/us/stat/94/2929], substituted “3010” for “3011” as section number in item for chapter 303.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], § 512(1), Dec. 12, 1980, [94 Stat. 2929][/us/stat/94/2929], substituted “3010” for “3011” as section number in item for chapter 303.
 
 ----------
 
@@ -82,9 +82,9 @@
 ----------
 ----------
 
-[/us/pl/100/26/s7/j/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fj%2F10%2FA
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F283
-[/us/pl/96/513/s512/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs512%2F1
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2929
 
 

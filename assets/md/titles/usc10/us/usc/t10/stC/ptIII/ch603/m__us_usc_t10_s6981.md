@@ -73,7 +73,7 @@
 
     In this section, the term “Association” means the Naval Academy Athletic Association.
 
-(Added [Pub. L. 112–239, div. A, title V, § 542(a)][/us/pl/112/239/s542/a], Jan. 2, 2013, [126 Stat. 1735][/us/stat/126/1735].)
+(Added [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 542(a), Jan. 2, 2013, [126 Stat. 1735][/us/stat/126/1735].)
 
  __References in Text__ 
 
@@ -92,7 +92,7 @@
 [/us/usc/t10/s2667/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2667%2Fh%2F2
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/usc/t10/s2260/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2260%2Fd
-[/us/pl/112/239/s542/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs542%2Fa
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1735
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 

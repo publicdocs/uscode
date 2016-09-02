@@ -87,7 +87,7 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–364, div. A, title X, § 1071(a)(12)][/us/pl/109/364/s1071/a/12], (13), Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399], substituted “Joint professional” for “Professional” in item 2152 and “Phase” for “phase” in item 2155.
+    2006—[Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(a)(12), (13), Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399], substituted “Joint professional” for “Professional” in item 2152 and “Phase” for “phase” in item 2155.
 
 ----------
 
@@ -96,7 +96,7 @@
 ----------
 ----------
 
-[/us/pl/109/364/s1071/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F12
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2399
 
 

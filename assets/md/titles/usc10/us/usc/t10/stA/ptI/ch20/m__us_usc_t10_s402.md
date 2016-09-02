@@ -51,7 +51,7 @@
 
     (e) Not later than July 31 each year, the Secretary of State shall submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations of the House of Representatives a report identifying the origin, contents, destination, and disposition of all supplies transported under this section during the 12-month period ending on the preceding June 30.
 
-(Added [Pub. L. 100–180, div. A, title III, § 332(a)][/us/pl/100/180/s332/a], Dec. 4, 1987, [101 Stat. 1079][/us/stat/101/1079]; amended [Pub. L. 101–510, div. A, title XIII, § 1311(2)][/us/pl/101/510/s1311/2], Nov. 5, 1990, [104 Stat. 1669][/us/stat/104/1669]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(8)][/us/pl/104/106/s1502/a/8], Feb. 10, 1996, [110 Stat. 503][/us/stat/110/503]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title III, § 312(a)][/us/pl/108/136/s312/a], (b), Nov. 24, 2003, [117 Stat. 1429][/us/stat/117/1429].)
+(Added [Pub. L. 100–180, div. A, title III][/us/pl/100/180/dA/tIII], § 332(a), Dec. 4, 1987, [101 Stat. 1079][/us/stat/101/1079]; amended [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1311(2), Nov. 5, 1990, [104 Stat. 1669][/us/stat/104/1669]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1502(a)(8), Feb. 10, 1996, [110 Stat. 503][/us/stat/110/503]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title III][/us/pl/108/136/dA/tIII], § 312(a), (b), Nov. 24, 2003, [117 Stat. 1429][/us/stat/117/1429].)
 
  __Prior Provisions__ 
 
@@ -59,13 +59,13 @@
 
  __Amendments__ 
 
-    2003—Subsec. (b)(1)(C). [Pub. L. 108–136, § 312(b)(1)][/us/pl/108/136/s312/b/1], inserted “or entity” after “people”.
+    2003—Subsec. (b)(1)(C). [Pub. L. 108–136][/us/pl/108/136], § 312(b)(1), inserted “or entity” after “people”.
 
-    Subsec. (b)(1)(E). [Pub. L. 108–136, § 312(b)(2)][/us/pl/108/136/s312/b/2], inserted “or use” after “distribution”.
+    Subsec. (b)(1)(E). [Pub. L. 108–136][/us/pl/108/136], § 312(b)(2), inserted “or use” after “distribution”.
 
-    Subsec. (b)(3). [Pub. L. 108–136, § 312(b)(3)][/us/pl/108/136/s312/b/3], substituted “entity requesting the transport of supplies under this section to ensure that the supplies” for “donor to ensure that supplies to be transported under this section”.
+    Subsec. (b)(3). [Pub. L. 108–136][/us/pl/108/136], § 312(b)(3), substituted “entity requesting the transport of supplies under this section to ensure that the supplies” for “donor to ensure that supplies to be transported under this section”.
 
-    Subsecs. (d), (e). [Pub. L. 108–136, § 312(a)][/us/pl/108/136/s312/a], added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 108–136][/us/pl/108/136], § 312(a), added subsec. (d) and redesignated former subsec. (d) as (e).
 
     1999—Subsec. (d). [Pub. L. 106–65][/us/pl/106/65] substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
@@ -83,7 +83,7 @@
 
  __Processing of Applications for Transportation of Humanitarian Assistance Abroad by Department of Defense__ 
 
-[Pub. L. 106–309, title IV, § 403][/us/pl/106/309/s403], Oct. 17, 2000, [114 Stat. 1097][/us/stat/114/1097], provided that:
+[Pub. L. 106–309, title IV][/us/pl/106/309/tIV], § 403, Oct. 17, 2000, [114 Stat. 1097][/us/stat/114/1097], provided that:
 
 >     “(a)  __Priority for Disaster Relief Assistance__  __.—__ 
 
@@ -95,7 +95,7 @@
 
  __First Report Deadline__ 
 
-    [Pub. L. 100–180, div. A, title III, § 332(d)][/us/pl/100/180/s332/d], Dec. 4, 1987, [101 Stat. 1080][/us/stat/101/1080], directed that first report under [section 402(d) of this title][/us/usc/t10/s402/d] be submitted not more than six months after the date on which the most recent report was submitted under section 1540(e) of the Department of Defense Authorization Act, 1985 ([Pub. L. 98–525][/us/pl/98/525]; [98 Stat. 2638][/us/stat/98/2638]).
+    [Pub. L. 100–180, div. A, title III][/us/pl/100/180/dA/tIII], § 332(d), Dec. 4, 1987, [101 Stat. 1080][/us/stat/101/1080], directed that first report under [section 402(d) of this title][/us/usc/t10/s402/d] be submitted not more than six months after the date on which the most recent report was submitted under section 1540(e) of the Department of Defense Authorization Act, 1985 ([Pub. L. 98–525][/us/pl/98/525]; [98 Stat. 2638][/us/stat/98/2638]).
 
 ----------
 
@@ -104,29 +104,29 @@
 ----------
 ----------
 
-[/us/pl/100/180/s332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs332%2Fa
+[/us/pl/100/180/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtIII
 [/us/stat/101/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1079
-[/us/pl/101/510/s1311/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1311%2F2
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1669
-[/us/pl/104/106/s1502/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F8
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F503
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/108/136/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs312%2Fa
+[/us/pl/108/136/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIII
 [/us/stat/117/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1429
 [/us/usc/t10/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs401%2Fb
-[/us/pl/108/136/s312/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs312%2Fb%2F1
-[/us/pl/108/136/s312/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs312%2Fb%2F2
-[/us/pl/108/136/s312/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs312%2Fb%2F3
-[/us/pl/108/136/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs312%2Fa
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
-[/us/pl/106/309/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2Fs403
+[/us/pl/106/309/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F309%2FtIV
 [/us/stat/114/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1097
 [/us/usc/t10/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs402
-[/us/pl/100/180/s332/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs332%2Fd
+[/us/pl/100/180/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtIII
 [/us/stat/101/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1080
 [/us/usc/t10/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs402%2Fd
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525

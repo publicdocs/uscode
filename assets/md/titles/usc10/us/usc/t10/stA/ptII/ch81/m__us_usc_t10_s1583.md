@@ -17,7 +17,7 @@
 
     The Secretary of Defense and the Secretaries of the military departments may each employ, without pay, not more than 10 persons of outstanding experience and ability. However, a person so employed may be allowed transportation, and not more than $15 a day instead of subsistence, while away from his home or regular place of business pursuant to employment under this section.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 118][/us/stat/70A/118]; [Pub. L. 89–718, § 14][/us/pl/89/718/s14], Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117]; [Pub. L. 97–295, § 1(20)(A)][/us/pl/97/295/s1/20/A], (B), Oct. 12, 1982, [96 Stat. 1290][/us/stat/96/1290]; [Pub. L. 112–81, div. A, title XI, § 1111][/us/pl/112/81/s1111], Dec. 31, 2011, [125 Stat. 1616][/us/stat/125/1616].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 118][/us/stat/70A/118]; [Pub. L. 89–718][/us/pl/89/718], § 14, Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117]; [Pub. L. 97–295][/us/pl/97/295], § 1(20)(A), (B), Oct. 12, 1982, [96 Stat. 1290][/us/stat/96/1290]; [Pub. L. 112–81, div. A, title XI][/us/pl/112/81/dA/tXI], § 1111, Dec. 31, 2011, [125 Stat. 1616][/us/stat/125/1616].)
 
 <table>
 
@@ -79,9 +79,9 @@ Jan. 6, 1951, ch. 1213, subch. VII, § 704, 64 Stat. 1235.  </td>
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–81, § 1111(2)][/us/pl/112/81/s1111/2], inserted “each” after “may” in first sentence.
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 1111(2), inserted “each” after “may” in first sentence.
 
-    [Pub. L. 112–81, § 1111(1)][/us/pl/112/81/s1111/1], which directed amendment of first sentence by inserting “and the Secretaries of the military departments” after “the Secretary of Defense”, was executed by making the insertion after “The Secretary of Defense” to reflect the probable intent of Congress.
+    [Pub. L. 112–81][/us/pl/112/81], § 1111(1), which directed amendment of first sentence by inserting “and the Secretaries of the military departments” after “the Secretary of Defense”, was executed by making the insertion after “The Secretary of Defense” to reflect the probable intent of Congress.
 
     1982—[Pub. L. 97–295][/us/pl/97/295] substituted “pay” for “compensation” in section catchline and text.
 
@@ -96,14 +96,14 @@ Jan. 6, 1951, ch. 1213, subch. VII, § 704, 64 Stat. 1235.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F118
-[/us/pl/89/718/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs14
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1117
-[/us/pl/97/295/s1/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F20%2FA
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1290
-[/us/pl/112/81/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1111
+[/us/pl/112/81/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtXI
 [/us/stat/125/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1616
-[/us/pl/112/81/s1111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1111%2F2
-[/us/pl/112/81/s1111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1111%2F1
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/usc/t5/s99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs99

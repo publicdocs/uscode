@@ -21,11 +21,11 @@
 
     (c) The Secretary of the Army may prescribe regulations providing for reimbursement for services furnished under this section.
 
-(Added [Pub. L. 85–263, § 1(1)][/us/pl/85/263/s1/1], Sept. 2, 1957, [71 Stat. 589][/us/stat/71/589].)
+(Added [Pub. L. 85–263][/us/pl/85/263], § 1(1), Sept. 2, 1957, [71 Stat. 589][/us/stat/71/589].)
 
  __Effective Date__ 
 
-[Pub. L. 85–263, § 2][/us/pl/85/263/s2], Sept. 2, 1957, [71 Stat. 589][/us/stat/71/589], provided that: 
+[Pub. L. 85–263][/us/pl/85/263], § 2, Sept. 2, 1957, [71 Stat. 589][/us/stat/71/589], provided that: 
 
 > “This Act \[enacting this section\] takes effect on the first day of the first month after the month in which it is enacted \[September 1957\].”
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/85/263/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F263%2Fs1%2F1
+[/us/pl/85/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F263
 [/us/stat/71/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F589
-[/us/pl/85/263/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F263%2Fs2
+[/us/pl/85/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F263
 [/us/stat/71/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F589
 
 

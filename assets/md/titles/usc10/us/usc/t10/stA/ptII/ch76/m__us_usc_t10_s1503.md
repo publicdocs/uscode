@@ -153,23 +153,23 @@
 
     Any determination of the status of a missing person under subsection (i) shall be treated as the determination of the status of the person by all departments and agencies of the United States.
 
-(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)][/us/pl/104/106/s569/b/1], Feb. 10, 1996, [110 Stat. 338][/us/stat/110/338]; amended [Pub. L. 104–201, div. A, title V, § 578(a)(2)][/us/pl/104/201/s578/a/2], (b)(2), Sept. 23, 1996, [110 Stat. 2536][/us/stat/110/2536]; [Pub. L. 105–85, div. A, title V, § 599(a)(2)][/us/pl/105/85/s599/a/2], (d), Nov. 18, 1997, [111 Stat. 1767][/us/stat/111/1767], 1769.)
+(Added [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 569(b)(1), Feb. 10, 1996, [110 Stat. 338][/us/stat/110/338]; amended [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 578(a)(2), (b)(2), Sept. 23, 1996, [110 Stat. 2536][/us/stat/110/2536]; [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 599(a)(2), (d), Nov. 18, 1997, [111 Stat. 1767][/us/stat/111/1767], 1769.)
 
  __Amendments__ 
 
-    1997—Subsec. (c)(1). [Pub. L. 105–85, § 599(a)(2)(A)][/us/pl/105/85/s599/a/2/A], substituted “one individual described in paragraph (2)” for “one military officer”.
+    1997—Subsec. (c)(1). [Pub. L. 105–85][/us/pl/105/85], § 599(a)(2)(A), substituted “one individual described in paragraph (2)” for “one military officer”.
 
-    Subsec. (c)(2) to (4). [Pub. L. 105–85, § 599(a)(2)(B)][/us/pl/105/85/s599/a/2/B], (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+    Subsec. (c)(2) to (4). [Pub. L. 105–85][/us/pl/105/85], § 599(a)(2)(B), (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-    Subsec. (f)(1). [Pub. L. 105–85, § 599(d)(1)][/us/pl/105/85/s599/d/1], inserted at end “The identity of counsel appointed under this paragraph for a missing person shall be made known to the missing person’s primary next of kin and any other previously designated person of the person.”
+    Subsec. (f)(1). [Pub. L. 105–85][/us/pl/105/85], § 599(d)(1), inserted at end “The identity of counsel appointed under this paragraph for a missing person shall be made known to the missing person’s primary next of kin and any other previously designated person of the person.”
 
-    Subsec. (f)(4). [Pub. L. 105–85, § 599(d)(2)][/us/pl/105/85/s599/d/2], inserted at end “The primary next of kin of a missing person and any other previously designated person of the missing person shall have the right to submit information to the missing person’s counsel relative to the disappearance or status of the missing person.”
+    Subsec. (f)(4). [Pub. L. 105–85][/us/pl/105/85], § 599(d)(2), inserted at end “The primary next of kin of a missing person and any other previously designated person of the missing person shall have the right to submit information to the missing person’s counsel relative to the disappearance or status of the missing person.”
 
-    1996—Subsec. (a). [Pub. L. 104–201, § 578(b)(2)][/us/pl/104/201/s578/b/2], substituted “section 1502(a)” for “section 1502(b)”.
+    1996—Subsec. (a). [Pub. L. 104–201][/us/pl/104/201], § 578(b)(2), substituted “section 1502(a)” for “section 1502(b)”.
 
-    Subsec. (c)(1). [Pub. L. 104–201, § 578(a)(2)(A)][/us/pl/104/201/s578/a/2/A], substituted “one military officer” for “one individual described in paragraph (2)”.
+    Subsec. (c)(1). [Pub. L. 104–201][/us/pl/104/201], § 578(a)(2)(A), substituted “one military officer” for “one individual described in paragraph (2)”.
 
-    Subsec. (c)(2) to (4). [Pub. L. 104–201, § 578(a)(2)(B)][/us/pl/104/201/s578/a/2/B], (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “An individual referred to in paragraph (1) is the following:
+    Subsec. (c)(2) to (4). [Pub. L. 104–201][/us/pl/104/201], § 578(a)(2)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “An individual referred to in paragraph (1) is the following:
 
     “(A) A military officer, in the case of an inquiry with respect to a member of the armed forces.
 
@@ -186,18 +186,18 @@
 [/us/usc/t10/s1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1507
 [/us/usc/t10/s827/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs827%2Fb
 [/us/usc/t10/s1502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1502%2Fa
-[/us/pl/104/106/s569/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fb%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F338
-[/us/pl/104/201/s578/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs578%2Fa%2F2
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2536
-[/us/pl/105/85/s599/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs599%2Fa%2F2
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1767
-[/us/pl/105/85/s599/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs599%2Fa%2F2%2FA
-[/us/pl/105/85/s599/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs599%2Fa%2F2%2FB
-[/us/pl/105/85/s599/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs599%2Fd%2F1
-[/us/pl/105/85/s599/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs599%2Fd%2F2
-[/us/pl/104/201/s578/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs578%2Fb%2F2
-[/us/pl/104/201/s578/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs578%2Fa%2F2%2FA
-[/us/pl/104/201/s578/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs578%2Fa%2F2%2FB
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 
 

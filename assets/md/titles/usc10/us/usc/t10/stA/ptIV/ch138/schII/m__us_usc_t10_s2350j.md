@@ -75,7 +75,7 @@
 
         (2) the amount of the contributions expended by the Secretary during the preceding fiscal year and the purposes for which the contributions were expended.
 
-(Added [Pub. L. 103–160, div. A, title XIV, § 1402(a)][/us/pl/103/160/s1402/a], Nov. 30, 1993, [107 Stat. 1825][/us/stat/107/1825]; amended [Pub. L. 103–337, div. A, title X, § 1070(a)(10)][/us/pl/103/337/s1070/a/10], Oct. 5, 1994, [108 Stat. 2856][/us/stat/108/2856]; [Pub. L. 104–106, div. A, title XIII, § 1331][/us/pl/104/106/s1331], Feb. 10, 1996, [110 Stat. 482][/us/stat/110/482]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], div. B, title XXVIII, § 2801, Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], 845; [Pub. L. 108–136, div. A, title X][/us/pl/108/136], §§ 1031(a)(18), 1043(b)(12), Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597], 1611.)
+(Added [Pub. L. 103–160, div. A, title XIV][/us/pl/103/160/dA/tXIV], § 1402(a), Nov. 30, 1993, [107 Stat. 1825][/us/stat/107/1825]; amended [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(a)(10), Oct. 5, 1994, [108 Stat. 2856][/us/stat/108/2856]; [Pub. L. 104–106, div. A, title XIII][/us/pl/104/106/dA/tXIII], § 1331, Feb. 10, 1996, [110 Stat. 482][/us/stat/110/482]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(1), div. B, title XXVIII, § 2801, Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], 845; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], §§ 1031(a)(18), 1043(b)(12), Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597], 1611.)
 
  __References in Text__ 
 
@@ -83,43 +83,43 @@
 
  __Codification__ 
 
-    Section, as added by [Pub. L. 103–160][/us/pl/103/160], consists of text of [Pub. L. 102–190, div. A, title X, § 1045][/us/pl/102/190/s1045], Dec. 5, 1991, [105 Stat. 1465][/us/stat/105/1465], as amended by [Pub. L. 102–484, div. A, title XIII, § 1305(a)][/us/pl/102/484/s1305/a], (b), Oct. 23, 1992, [106 Stat. 2546][/us/stat/106/2546], and revised by [Pub. L. 103–160][/us/pl/103/160], in subsec. (a), by substituting “The Secretary” for “During fiscal years 1992 and 1993, the Secretary”, inserting “, after consultation with the Secretary of State,” after “Secretary of Defense”, and substituting “from any country or regional organization designated for purposes of this section by the Secretary of Defense, in consultation with the Secretary of State” for “from Japan, Kuwait, and the Republic of Korea”, and in subsec. (f), by substituting “each fiscal year” for “each quarter of fiscal years 1992 and 1993”, “Congress” for “congressional defense committees”, “each country and regional organization from which contributions have been accepted by the Secretary under subsection (a)” for “Japan, Kuwait, and the Republic of Korea”, and “the preceding fiscal year” for “the preceding quarter” in pars. (1) and (2).
+    Section, as added by [Pub. L. 103–160][/us/pl/103/160], consists of text of [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1045, Dec. 5, 1991, [105 Stat. 1465][/us/stat/105/1465], as amended by [Pub. L. 102–484, div. A, title XIII][/us/pl/102/484/dA/tXIII], § 1305(a), (b), Oct. 23, 1992, [106 Stat. 2546][/us/stat/106/2546], and revised by [Pub. L. 103–160][/us/pl/103/160], in subsec. (a), by substituting “The Secretary” for “During fiscal years 1992 and 1993, the Secretary”, inserting “, after consultation with the Secretary of State,” after “Secretary of Defense”, and substituting “from any country or regional organization designated for purposes of this section by the Secretary of Defense, in consultation with the Secretary of State” for “from Japan, Kuwait, and the Republic of Korea”, and in subsec. (f), by substituting “each fiscal year” for “each quarter of fiscal years 1992 and 1993”, “Congress” for “congressional defense committees”, “each country and regional organization from which contributions have been accepted by the Secretary under subsection (a)” for “Japan, Kuwait, and the Republic of Korea”, and “the preceding fiscal year” for “the preceding quarter” in pars. (1) and (2).
 
  __Amendments__ 
 
-    2003—Subsec. (e)(1). [Pub. L. 108–136, § 1043(b)(12)(A)][/us/pl/108/136/s1043/b/12/A], substituted “congressional defense committees” for “congressional committees specified in subsection (g)” in introductory provisions.
+    2003—Subsec. (e)(1). [Pub. L. 108–136][/us/pl/108/136], § 1043(b)(12)(A), substituted “congressional defense committees” for “congressional committees specified in subsection (g)” in introductory provisions.
 
-    Subsec. (e)(2). [Pub. L. 108–136, § 1031(a)(18)][/us/pl/108/136/s1031/a/18], inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of that report is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480]”.
+    Subsec. (e)(2). [Pub. L. 108–136][/us/pl/108/136], § 1031(a)(18), inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of that report is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480]”.
 
-    Subsec. (e)(3)(B). [Pub. L. 108–136, § 1043(b)(12)(A)][/us/pl/108/136/s1043/b/12/A], substituted “congressional defense committees” for “congressional committees specified in subsection (g)” in introductory provisions.
+    Subsec. (e)(3)(B). [Pub. L. 108–136][/us/pl/108/136], § 1043(b)(12)(A), substituted “congressional defense committees” for “congressional committees specified in subsection (g)” in introductory provisions.
 
-    Subsec. (g). [Pub. L. 108–136, § 1043(b)(12)(B)][/us/pl/108/136/s1043/b/12/B], struck out subsec. (g) which listed the congressional committees referred to in subsec. (e).
+    Subsec. (g). [Pub. L. 108–136][/us/pl/108/136], § 1043(b)(12)(B), struck out subsec. (g) which listed the congressional committees referred to in subsec. (e).
 
-    1999—Subsec. (e)(3). [Pub. L. 106–65, § 2801(a)][/us/pl/106/65/s2801/a], added par. (3).
+    1999—Subsec. (e)(3). [Pub. L. 106–65][/us/pl/106/65], § 2801(a), added par. (3).
 
-    Subsec. (g). [Pub. L. 106–65, § 2801(b)][/us/pl/106/65/s2801/b], substituted “subsection (e)” for “subsection (e)(1)” in introductory provisions.
+    Subsec. (g). [Pub. L. 106–65][/us/pl/106/65], § 2801(b), substituted “subsection (e)” for “subsection (e)(1)” in introductory provisions.
 
-    Subsec. (g)(2). [Pub. L. 106–65, § 1067(1)][/us/pl/106/65/s1067/1], substituted “Committee on Armed Services” for “Committee on National Security”.
+    Subsec. (g)(2). [Pub. L. 106–65][/us/pl/106/65], § 1067(1), substituted “Committee on Armed Services” for “Committee on National Security”.
 
-    1996—Subsec. (b). [Pub. L. 104–106, § 1331(a)][/us/pl/104/106/s1331/a], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Credit to Appropriations.—Contributions accepted in a fiscal year under subsection (a) shall be credited to appropriations of the Department of Defense that are available for that fiscal year for the purposes for which the contributions are made. The contributions so credited shall be—
+    1996—Subsec. (b). [Pub. L. 104–106][/us/pl/104/106], § 1331(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Credit to Appropriations.—Contributions accepted in a fiscal year under subsection (a) shall be credited to appropriations of the Department of Defense that are available for that fiscal year for the purposes for which the contributions are made. The contributions so credited shall be—
 
     “(1) merged with the appropriations to which they are credited; and
 
     “(2) available for the same time period as those appropriations.”
 
-    Subsec. (d). [Pub. L. 104–106, § 1331(b)][/us/pl/104/106/s1331/b], substituted “placed in an account established under subsection (b)” for “credited under subsection (b) to an appropriation account of the Department of Defense”.
+    Subsec. (d). [Pub. L. 104–106][/us/pl/104/106], § 1331(b), substituted “placed in an account established under subsection (b)” for “credited under subsection (b) to an appropriation account of the Department of Defense”.
 
-    Subsec. (e)(1). [Pub. L. 104–106, § 1331(c)(1)][/us/pl/104/106/s1331/c/1], substituted “to the congressional committees specified in subsection (g) a report” for “a report to the congressional defense committees”.
+    Subsec. (e)(1). [Pub. L. 104–106][/us/pl/104/106], § 1331(c)(1), substituted “to the congressional committees specified in subsection (g) a report” for “a report to the congressional defense committees”.
 
-    Subsec. (g). [Pub. L. 104–106, § 1331(c)(2)][/us/pl/104/106/s1331/c/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 104–106][/us/pl/104/106], § 1331(c)(2), added subsec. (g).
 
-    1994—Subsec. (a). [Pub. L. 103–337, § 1070(a)(10)(A)][/us/pl/103/337/s1070/a/10/A], inserted a comma after second reference to “Secretary of State”.
+    1994—Subsec. (a). [Pub. L. 103–337][/us/pl/103/337], § 1070(a)(10)(A), inserted a comma after second reference to “Secretary of State”.
 
-    Subsec. (f). [Pub. L. 103–337, § 1070(a)(10)(B)][/us/pl/103/337/s1070/a/10/B], struck out “the” before “Congress” in introductory provisions.
+    Subsec. (f). [Pub. L. 103–337][/us/pl/103/337], § 1070(a)(10)(B), struck out “the” before “Congress” in introductory provisions.
 
  __Temporary Authority for Acceptance and Use of Contributions for Certain Construction, Maintenance, and Repair Projects Mutually Beneficial to the Department of Defense and Kuwait Military Forces__ 
 
-[Pub. L. 114–92, div. B, title XXVIII, § 2804][/us/pl/114/92/s2804], Nov. 25, 2015, [129 Stat. 1170][/us/stat/129/1170], provided that:
+[Pub. L. 114–92, div. B, title XXVIII][/us/pl/114/92/dB/tXXVIII], § 2804, Nov. 25, 2015, [129 Stat. 1170][/us/stat/129/1170], provided that:
 
 >     “(a)  __Authority To Accept Contributions__  __.—__ 
 
@@ -166,40 +166,40 @@
 
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
 [/us/usc/t50/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601
-[/us/pl/103/160/s1402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1402%2Fa
+[/us/pl/103/160/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIV
 [/us/stat/107/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1825
-[/us/pl/103/337/s1070/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fa%2F10
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2856
-[/us/pl/104/106/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1331
+[/us/pl/104/106/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXIII
 [/us/stat/110/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F482
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1597
 [/us/pl/94/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412
 [/us/stat/90/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1255
 [/us/usc/t50/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
-[/us/pl/102/190/s1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1045
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1465
-[/us/pl/102/484/s1305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1305%2Fa
+[/us/pl/102/484/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtXIII
 [/us/stat/106/2546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2546
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
-[/us/pl/108/136/s1043/b/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1043%2Fb%2F12%2FA
-[/us/pl/108/136/s1031/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F18
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
-[/us/pl/108/136/s1043/b/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1043%2Fb%2F12%2FA
-[/us/pl/108/136/s1043/b/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1043%2Fb%2F12%2FB
-[/us/pl/106/65/s2801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2801%2Fa
-[/us/pl/106/65/s2801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2801%2Fb
-[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
-[/us/pl/104/106/s1331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1331%2Fa
-[/us/pl/104/106/s1331/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1331%2Fb
-[/us/pl/104/106/s1331/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1331%2Fc%2F1
-[/us/pl/104/106/s1331/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1331%2Fc%2F2
-[/us/pl/103/337/s1070/a/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fa%2F10%2FA
-[/us/pl/103/337/s1070/a/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fa%2F10%2FB
-[/us/pl/114/92/s2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs2804
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/114/92/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdB%2FtXXVIII
 [/us/stat/129/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1170
 [/us/usc/t10/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805
 

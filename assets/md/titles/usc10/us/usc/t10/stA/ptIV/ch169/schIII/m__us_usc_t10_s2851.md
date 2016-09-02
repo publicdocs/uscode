@@ -59,23 +59,23 @@
 
         (3) The information required to be provided for each project described in paragraph (1) shall be made available on the Internet site required by such paragraph not later than 90 days after the award of a contract or delivery order for the project. The Secretary of Defense shall update the required information as promptly as practicable, but not less frequently than once a month, to ensure that the information is available in a timely manner.
 
-(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 163][/us/stat/96/163]; amended [Pub. L. 109–163, div. B, title XXVIII, § 2803(a)][/us/pl/109/163/s2803/a], (c), Jan. 6, 2006, [119 Stat. 3505][/us/stat/119/3505], 3506; [Pub. L. 111–383, div. B, title XXVIII, § 2801][/us/pl/111/383/s2801], Jan. 7, 2011, [124 Stat. 4458][/us/stat/124/4458].)
+(Added [Pub. L. 97–214][/us/pl/97/214], § 2(a), July 12, 1982, [96 Stat. 163][/us/stat/96/163]; amended [Pub. L. 109–163, div. B, title XXVIII][/us/pl/109/163/dB/tXXVIII], § 2803(a), (c), Jan. 6, 2006, [119 Stat. 3505][/us/stat/119/3505], 3506; [Pub. L. 111–383, div. B, title XXVIII][/us/pl/111/383/dB/tXXVIII], § 2801, Jan. 7, 2011, [124 Stat. 4458][/us/stat/124/4458].)
 
  __Amendments__ 
 
-    2011—Subsec. (c)(1). [Pub. L. 111–383, § 2801(c)(1)][/us/pl/111/383/s2801/c/1], substituted “that will permit a person” for “that, when activated by a person authorized under paragraph (3), will permit the person”.
+    2011—Subsec. (c)(1). [Pub. L. 111–383][/us/pl/111/383], § 2801(c)(1), substituted “that will permit a person” for “that, when activated by a person authorized under paragraph (3), will permit the person”.
 
-    Subsec. (c)(2)(F) to (H). [Pub. L. 111–383, § 2801(a)][/us/pl/111/383/s2801/a], redesignated subpars. (G) and (H) as (F) and (G), respectively, and struck out former subpar. (F) which read as follows: “The estimated final cost of the project and, if the estimated final cost of the project exceeds the amount appropriated for the project and funds have been provided from another source to meet the increased cost, the source of the funds and the amount provided.”
+    Subsec. (c)(2)(F) to (H). [Pub. L. 111–383][/us/pl/111/383], § 2801(a), redesignated subpars. (G) and (H) as (F) and (G), respectively, and struck out former subpar. (F) which read as follows: “The estimated final cost of the project and, if the estimated final cost of the project exceeds the amount appropriated for the project and funds have been provided from another source to meet the increased cost, the source of the funds and the amount provided.”
 
-    Subsec. (c)(3), (4). [Pub. L. 111–383, § 2801(b)][/us/pl/111/383/s2801/b], (c)(2), redesignated par. (4) as (3), substituted “on the Internet site required by such paragraph” for “to the persons referred to in paragraph (3)” and struck out “to such persons” before “in a timely manner”, and struck out former par. (3) which read as follows: “Access to the Internet site required by paragraph (1) shall be restricted to the following persons:
+    Subsec. (c)(3), (4). [Pub. L. 111–383][/us/pl/111/383], § 2801(b), (c)(2), redesignated par. (4) as (3), substituted “on the Internet site required by such paragraph” for “to the persons referred to in paragraph (3)” and struck out “to such persons” before “in a timely manner”, and struck out former par. (3) which read as follows: “Access to the Internet site required by paragraph (1) shall be restricted to the following persons:
 
     “(A) Members of the congressional defense committees and their staff.
 
     “(B) Staff of the congressional defense committees.”
 
-    2006—Subsecs. (a), (b). [Pub. L. 109–163, § 2803(c)][/us/pl/109/163/s2803/c], inserted headings.
+    2006—Subsecs. (a), (b). [Pub. L. 109–163][/us/pl/109/163], § 2803(c), inserted headings.
 
-    Subsec. (c). [Pub. L. 109–163, § 2803(a)][/us/pl/109/163/s2803/a], added subsec. (c).
+    Subsec. (c). [Pub. L. 109–163][/us/pl/109/163], § 2803(a), added subsec. (c).
 
  __Effective Date__ 
 
@@ -83,13 +83,13 @@
 
  __Implementation of Internet Site__ 
 
-[Pub. L. 109–163, div. B, title XXVIII, § 2803(b)][/us/pl/109/163/s2803/b], Jan. 6, 2006, [119 Stat. 3506][/us/stat/119/3506], provided that: 
+[Pub. L. 109–163, div. B, title XXVIII][/us/pl/109/163/dB/tXXVIII], § 2803(b), Jan. 6, 2006, [119 Stat. 3506][/us/stat/119/3506], provided that: 
 
 > “The Internet site required by subsection (c) of [section 2851 of title 10][/us/usc/t10/s2851], United States Code, as added by subsection (a), shall be available to the persons referred to in paragraph (3) of such subsection not later than July 15, 2006.”
 
  __Identification of Requirements To Reduce Backlog in Maintenance and Repair of Defense Facilities__ 
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 374\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–81, which required the Secretary of Defense to submit to Congress, not later than March 15, 2001, a report identifying a list of requirements to reduce the backlog in maintenance and repair needs of facilities and infrastructure under the jurisdiction of the Department of Defense or a military department, which report was to be updated annually, was repealed by [Pub. L. 112–81, div. A, title X, § 1062(i)(1)][/us/pl/112/81/s1062/i/1], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585].
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 374\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–81, which required the Secretary of Defense to submit to Congress, not later than March 15, 2001, a report identifying a list of requirements to reduce the backlog in maintenance and repair needs of facilities and infrastructure under the jurisdiction of the Department of Defense or a military department, which report was to be updated annually, was repealed by [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1062(i)(1), Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585].
 
 ----------
 
@@ -99,25 +99,25 @@
 ----------
 
 [/us/usc/t10/s2805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805%2Fa
-[/us/pl/97/214/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs2%2Fa
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F163
-[/us/pl/109/163/s2803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2803%2Fa
+[/us/pl/109/163/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdB%2FtXXVIII
 [/us/stat/119/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3505
-[/us/pl/111/383/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2801
+[/us/pl/111/383/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdB%2FtXXVIII
 [/us/stat/124/4458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4458
-[/us/pl/111/383/s2801/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2801%2Fc%2F1
-[/us/pl/111/383/s2801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2801%2Fa
-[/us/pl/111/383/s2801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2801%2Fb
-[/us/pl/109/163/s2803/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2803%2Fc
-[/us/pl/109/163/s2803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2803%2Fa
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/97/214/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs12%2Fa
 [/us/usc/t10/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2801
-[/us/pl/109/163/s2803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2803%2Fb
+[/us/pl/109/163/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdB%2FtXXVIII
 [/us/stat/119/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3506
 [/us/usc/t10/s2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2851
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/112/81/s1062/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1062%2Fi%2F1
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1585
 
 

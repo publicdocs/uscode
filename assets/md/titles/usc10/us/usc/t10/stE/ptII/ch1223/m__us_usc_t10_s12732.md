@@ -105,7 +105,7 @@
 
         (8) Service in the screening performed pursuant to [section 10149 of this title][/us/usc/t10/s10149] through electronic means, regardless of whether or not a stipend is paid the member concerned for such service under [section 433a of title 37][/us/usc/t37/s433a].
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 102][/us/stat/70A/102], § 1332; [Pub. L. 85–861, § 33(a)(9)][/us/pl/85/861/s33/a/9], Sept. 2, 1958, [72 Stat. 1565][/us/stat/72/1565]; [Pub. L. 86–197, § 1(1)][/us/pl/86/197/s1/1]–(3), Aug. 25, 1959, [73 Stat. 425][/us/stat/73/425]; [Pub. L. 88–636, § 1][/us/pl/88/636/s1], Oct. 8, 1964, [78 Stat. 1034][/us/stat/78/1034]; [Pub. L. 93–545, § 1][/us/pl/93/545/s1], Dec. 26, 1974, [88 Stat. 1741][/us/stat/88/1741]; [Pub. L. 96–513, title V, § 511(48)][/us/pl/96/513/s511/48], Dec. 12, 1980, [94 Stat. 2924][/us/stat/94/2924]; renumbered § 12732 and amended [Pub. L. 103–337, div. A, title XVI, § 1662(j)(1)][/us/pl/103/337/s1662/j/1], Oct. 5, 1994, [108 Stat. 2998][/us/stat/108/2998], 3000; [Pub. L. 104–201, div. A, title V, § 543(b)(1)][/us/pl/104/201/s543/b/1], Sept. 23, 1996, [110 Stat. 2522][/us/stat/110/2522]; [Pub. L. 106–65, div. A, title V, § 578(h)(1)][/us/pl/106/65/s578/h/1], Oct. 5, 1999, [113 Stat. 628][/us/stat/113/628]; [Pub. L. 109–163, div. A, title V, § 515(b)(1)(MM)][/us/pl/109/163/s515/b/1/MM], Jan. 6, 2006, [119 Stat. 3234][/us/stat/119/3234]; [Pub. L. 110–181, div. A, title VI, § 633(c)][/us/pl/110/181/s633/c], Jan. 28, 2008, [122 Stat. 155][/us/stat/122/155].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 102][/us/stat/70A/102], § 1332; [Pub. L. 85–861][/us/pl/85/861], § 33(a)(9), Sept. 2, 1958, [72 Stat. 1565][/us/stat/72/1565]; [Pub. L. 86–197][/us/pl/86/197], § 1(1)–(3), Aug. 25, 1959, [73 Stat. 425][/us/stat/73/425]; [Pub. L. 88–636][/us/pl/88/636], § 1, Oct. 8, 1964, [78 Stat. 1034][/us/stat/78/1034]; [Pub. L. 93–545][/us/pl/93/545], § 1, Dec. 26, 1974, [88 Stat. 1741][/us/stat/88/1741]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(48), Dec. 12, 1980, [94 Stat. 2924][/us/stat/94/2924]; renumbered § 12732 and amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1662(j)(1), Oct. 5, 1994, [108 Stat. 2998][/us/stat/108/2998], 3000; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 543(b)(1), Sept. 23, 1996, [110 Stat. 2522][/us/stat/110/2522]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 578(h)(1), Oct. 5, 1999, [113 Stat. 628][/us/stat/113/628]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(MM), Jan. 6, 2006, [119 Stat. 3234][/us/stat/119/3234]; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 633(c), Jan. 28, 2008, [122 Stat. 155][/us/stat/122/155].)
 
 <table>
 
@@ -339,7 +339,7 @@ In subsection (a)(2)(A), the words “service that conformed to required standar
 
  __References in Text__ 
 
-    Act of December 22, 1942, referred to in subsec. (a)(1)(I), is [act Dec. 22, 1942, ch. 805][/us/act/1942-12-22/ch805], [56 Stat. 1072][/us/stat/56/1072], which amended section 164 of former Title 10, Army and Air Force, and enacted provisions set out as notes under section 81 of former Title 10 and section 113 of former Title 37, Pay and Allowances, and was repealed as executed, by [act Aug. 10, 1956, ch. 1041, § 53][/us/act/1956-08-10/ch1041/s53], [70A Stat. 641][/us/stat/70A/641].
+    Act of December 22, 1942, referred to in subsec. (a)(1)(I), is [act Dec. 22, 1942, ch. 805][/us/act/1942-12-22/ch805], [56 Stat. 1072][/us/stat/56/1072], which amended section 164 of former Title 10, Army and Air Force, and enacted provisions set out as notes under section 81 of former Title 10 and section 113 of former Title 37, Pay and Allowances, and was repealed as executed, by [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 53, [70A Stat. 641][/us/stat/70A/641].
 
     Women’s Medical Specialist Corps, referred to in subsec. (a)(1)(J)(ii), redesignated Army Medical Specialist Corps by [Pub. L. 85–155][/us/pl/85/155], Aug. 21, 1957, [71 Stat. 375][/us/stat/71/375]. See [section 3070 of this title][/us/usc/t10/s3070]. See, also, [act Aug. 9, 1955, ch. 654][/us/act/1955-08-09/ch654], [69 Stat. 579][/us/stat/69/579].
 
@@ -363,7 +363,7 @@ In subsection (a)(2)(A), the words “service that conformed to required standar
 
     1959—Subsec. (a). [Pub. L. 86–197][/us/pl/86/197], §§ (1), (2), redesignated cls. (D) to (F) as (E) to (G), and added cls. (D), (H), (I), and (J), and provisions requiring, for the purpose of cls. (A), (B), and (C), service in the National Guard to be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
 
-    Subsec. (b)(6), (7). [Pub. L. 86–197, § 1(3)][/us/pl/86/197/s1/3], added par. (6), redesignated former par. (6) as (7), and prohibited the counting of service as a nurse, as an appointed aviation cadet, and that service described in cls. (I) and (J) of subsec. (a)(1) of this section.
+    Subsec. (b)(6), (7). [Pub. L. 86–197][/us/pl/86/197], § 1(3), added par. (6), redesignated former par. (6) as (7), and prohibited the counting of service as a nurse, as an appointed aviation cadet, and that service described in cls. (I) and (J) of subsec. (a)(1) of this section.
 
     1958—Subsec. (a). [Pub. L. 85–861][/us/pl/85/861] substituted “full-time service under” for “service under”, and inserted reference to [section 502 of this title][/us/usc/t10/s502] in cl. (2)(A)(ii).
 
@@ -377,7 +377,7 @@ In subsection (a)(2)(A), the words “service that conformed to required standar
 
  __Effective Date of 1964 Amendment__ 
 
-[Pub. L. 88–636, § 2][/us/pl/88/636/s2], Oct. 8, 1964, [78 Stat. 1034][/us/stat/78/1034], provided that: 
+[Pub. L. 88–636][/us/pl/88/636], § 2, Oct. 8, 1964, [78 Stat. 1034][/us/stat/78/1034], provided that: 
 
 > “The amendments made by this Act \[amending this section\] shall apply to any period before enactment of this Act \[Oct. 8, 1964\] during which the Commissioned Corps of the Public Health Service has had the status of a military service, and to any period before enactment of this Act during which commissioned personnel of the Coast and Geodetic Survey were transferred to the service and jurisdiction of a military department.”
 
@@ -387,7 +387,7 @@ In subsection (a)(2)(A), the words “service that conformed to required standar
 
  __Savings Provision__ 
 
-[Pub. L. 86–197, § 3][/us/pl/86/197/s3], Aug. 25, 1959, [73 Stat. 426][/us/stat/73/426], provided that: 
+[Pub. L. 86–197][/us/pl/86/197], § 3, Aug. 25, 1959, [73 Stat. 426][/us/stat/73/426], provided that: 
 
 > “This Act \[amending this section and sections 3683, 3926, 6324, 8683 and 8926 of this title and enacting provisions set out as notes under sections 1431 and 3441 of this title\] does not deprive any person of any service credit to which he was entitled on the day before the effective date of this Act \[Aug. 25, 1959\].”
 
@@ -421,7 +421,7 @@ Section 531(b), (c) of [Pub. L. 104–201][/us/pl/104/201] provided that:
 
  __Additional Clerical Service Creditable Under This Chapter__ 
 
-[Pub. L. 85–861, § 15][/us/pl/85/861/s15], Sept. 2, 1958, [72 Stat. 1558][/us/stat/72/1558], provided that:
+[Pub. L. 85–861][/us/pl/85/861], § 15, Sept. 2, 1958, [72 Stat. 1558][/us/stat/72/1558], provided that:
 
 >     “(a) Notwithstanding section 1332(b)(6) \[now 12732(b)(7)\] of title 10, United States Code, a person is entitled to count his service as an Army field clerk or as a field clerk, Quartermaster Corps, as active service in determining his entitlement to retired pay under chapter 67 \[now 1223\] of title 10, United States Code, and in computing his retired pay under that chapter.
 
@@ -446,25 +446,25 @@ Section 531(b), (c) of [Pub. L. 104–201][/us/pl/104/201] provided that:
 [/us/usc/t37/s433a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs433a
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F102
-[/us/pl/85/861/s33/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fa%2F9
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1565
-[/us/pl/86/197/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F197%2Fs1%2F1
+[/us/pl/86/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F197
 [/us/stat/73/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F425
-[/us/pl/88/636/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F636%2Fs1
+[/us/pl/88/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F636
 [/us/stat/78/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1034
-[/us/pl/93/545/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F545%2Fs1
+[/us/pl/93/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F545
 [/us/stat/88/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1741
-[/us/pl/96/513/s511/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F48
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2924
-[/us/pl/103/337/s1662/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fj%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2998
-[/us/pl/104/201/s543/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs543%2Fb%2F1
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2522
-[/us/pl/106/65/s578/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs578%2Fh%2F1
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F628
-[/us/pl/109/163/s515/b/1/MM]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FMM
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3234
-[/us/pl/110/181/s633/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs633%2Fc
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F155
 [/us/act/1933-06-15/ch87/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-15%2Fch87%2Fs5
 [/us/stat/48/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F155
@@ -473,7 +473,7 @@ Section 531(b), (c) of [Pub. L. 104–201][/us/pl/104/201] provided that:
 [/us/usc/t10/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1332
 [/us/act/1942-12-22/ch805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-22%2Fch805
 [/us/stat/56/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1072
-[/us/act/1956-08-10/ch1041/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs53
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
 [/us/pl/85/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F155
 [/us/stat/71/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F375
@@ -490,7 +490,7 @@ Section 531(b), (c) of [Pub. L. 104–201][/us/pl/104/201] provided that:
 [/us/pl/93/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F545
 [/us/pl/88/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F636
 [/us/pl/86/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F197
-[/us/pl/86/197/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F197%2Fs1%2F3
+[/us/pl/86/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F197
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/usc/t10/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs502
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
@@ -499,19 +499,19 @@ Section 531(b), (c) of [Pub. L. 104–201][/us/pl/104/201] provided that:
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/88/636/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F636%2Fs2
+[/us/pl/88/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F636
 [/us/stat/78/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1034
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/86/197/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F197%2Fs3
+[/us/pl/86/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F197
 [/us/stat/73/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F426
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t10/s12733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12733
 [/us/usc/t10/s12732/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12732%2Fa%2F2
 [/us/pl/87/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F482
 [/us/stat/76/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F95
-[/us/pl/85/861/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs15
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1558
 
 

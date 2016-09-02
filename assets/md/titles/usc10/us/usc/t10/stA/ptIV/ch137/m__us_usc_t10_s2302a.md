@@ -23,15 +23,15 @@
 
     No law properly listed in the Federal Acquisition Regulation pursuant to [section 1905 of title 41][/us/usc/t41/s1905] shall apply to or with respect to a contract or subcontract that is not greater than the simplified acquisition threshold.
 
-(Added and amended [Pub. L. 103–355, title IV][/us/pl/103/355], §§ 4002(a), 4102(a), Oct. 13, 1994, [108 Stat. 3338][/us/stat/108/3338], 3340; [Pub. L. 111–350, § 5(b)(9)][/us/pl/111/350/s5/b/9], Jan. 4, 2011, [124 Stat. 3843][/us/stat/124/3843].)
+(Added and amended [Pub. L. 103–355, title IV][/us/pl/103/355/tIV], §§ 4002(a), 4102(a), Oct. 13, 1994, [108 Stat. 3338][/us/stat/108/3338], 3340; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(9), Jan. 4, 2011, [124 Stat. 3843][/us/stat/124/3843].)
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 111–350, § 5(b)(9)(A)][/us/pl/111/350/s5/b/9/A], substituted “[section 134 of title 41][/us/usc/t41/s134]” for “section 4(11) of the Office of Federal Procurement Policy Act”.
+    2011—Subsec. (a). [Pub. L. 111–350][/us/pl/111/350], § 5(b)(9)(A), substituted “[section 134 of title 41][/us/usc/t41/s134]” for “section 4(11) of the Office of Federal Procurement Policy Act”.
 
-    Subsec. (b). [Pub. L. 111–350, § 5(b)(9)(B)][/us/pl/111/350/s5/b/9/B], substituted “[section 1905 of title 41][/us/usc/t41/s1905]” for “section 33 of the Office of Federal Procurement Policy Act”.
+    Subsec. (b). [Pub. L. 111–350][/us/pl/111/350], § 5(b)(9)(B), substituted “[section 1905 of title 41][/us/usc/t41/s1905]” for “section 33 of the Office of Federal Procurement Policy Act”.
 
-    1994—Subsec. (b). [Pub. L. 103–355, § 4102(a)][/us/pl/103/355/s4102/a], added subsec. (b).
+    1994—Subsec. (b). [Pub. L. 103–355][/us/pl/103/355], § 4102(a), added subsec. (b).
 
  __Effective Date__ 
 
@@ -47,15 +47,15 @@
 [/us/usc/t10/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2303
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
 [/us/usc/t41/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1905
-[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
+[/us/pl/103/355/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtIV
 [/us/stat/108/3338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3338
-[/us/pl/111/350/s5/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F9
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3843
-[/us/pl/111/350/s5/b/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F9%2FA
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
-[/us/pl/111/350/s5/b/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F9%2FB
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1905
-[/us/pl/103/355/s4102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs4102%2Fa
+[/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/103/355/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10001
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
 

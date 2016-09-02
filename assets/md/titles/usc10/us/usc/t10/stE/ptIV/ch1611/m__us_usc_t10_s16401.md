@@ -91,39 +91,39 @@
 
     In this section, the term “institution of higher education” has the meaning given that term in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001]).
 
-(Added [Pub. L. 106–65, div. A, title V, § 551(a)(1)][/us/pl/106/65/s551/a/1], Oct. 5, 1999, [113 Stat. 612][/us/stat/113/612]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 533(a)–(d), (f)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–110, 1654A–111; [Pub. L. 109–163, div. A, title VI, § 687(c)(15)][/us/pl/109/163/s687/c/15], Jan. 6, 2006, [119 Stat. 3336][/us/stat/119/3336].)
+(Added [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 551(a)(1), Oct. 5, 1999, [113 Stat. 612][/us/stat/113/612]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 533(a)–(d), (f)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–110, 1654A–111; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 687(c)(15), Jan. 6, 2006, [119 Stat. 3336][/us/stat/119/3336].)
 
  __Amendments__ 
 
-    2006—Subsec. (f)(1). [Pub. L. 109–163, § 687(c)(15)(A)][/us/pl/109/163/s687/c/15/A], substituted “shall be subject to the repayment provisions of [section 303a(e) of title 37][/us/usc/t37/s303a/e]” for “may be required to repay the full amount of financial assistance” in introductory provisions.
+    2006—Subsec. (f)(1). [Pub. L. 109–163][/us/pl/109/163], § 687(c)(15)(A), substituted “shall be subject to the repayment provisions of [section 303a(e) of title 37][/us/usc/t37/s303a/e]” for “may be required to repay the full amount of financial assistance” in introductory provisions.
 
-    Subsec. (f)(2). [Pub. L. 109–163, § 687(c)(15)(B)][/us/pl/109/163/s687/c/15/B], inserted “Any requirement to repay any portion of financial assistance received under this section shall be administered under the regulations issued under [section 303a(e) of title 37][/us/usc/t37/s303a/e].” before “The Secretary of the Navy may waive” in introductory provisions.
+    Subsec. (f)(2). [Pub. L. 109–163][/us/pl/109/163], § 687(c)(15)(B), inserted “Any requirement to repay any portion of financial assistance received under this section shall be administered under the regulations issued under [section 303a(e) of title 37][/us/usc/t37/s303a/e].” before “The Secretary of the Navy may waive” in introductory provisions.
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 533(f)(1)\], substituted “Class: college tuition assistance program” for “Class program: officer candidates pursuing degrees” in section catchline.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 533(f)(1)\], substituted “Class: college tuition assistance program” for “Class program: officer candidates pursuing degrees” in section catchline.
 
-    Subsec. (a). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 533(a)(1), (f)(2)\], struck out “for Financial Assistance Program” after “Authority” in heading and “enlisted” after “an eligible” in introductory provisions.
+    Subsec. (a). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 533(a)(1), (f)(2)\], struck out “for Financial Assistance Program” after “Authority” in heading and “enlisted” after “an eligible” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 533(c)\], substituted “four” for “three”.
+    Subsec. (a)(2). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 533(c)\], substituted “four” for “three”.
 
-    Subsec. (b)(1). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 533(a)(2)(A)\], substituted “a member” for “an enlisted member” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 533(a)(2)(A)\], substituted “a member” for “an enlisted member” in introductory provisions.
 
-    Subsec. (b)(1)(A). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 533(a)(2)(B)\], substituted “a member of” for “an officer candidate in”.
+    Subsec. (b)(1)(A). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 533(a)(2)(B)\], substituted “a member of” for “an officer candidate in”.
 
-    Subsec. (b)(1)(B). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 533(b)(1)(A), (B)\], redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “meet the applicable age requirement specified in paragraph (2);”.
+    Subsec. (b)(1)(B). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 533(b)(1)(A), (B)\], redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “meet the applicable age requirement specified in paragraph (2);”.
 
-    Subsec. (b)(1)(C), (D). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 533(b)(1)(B), (C)\], redesignated subpar. (D) as (C) and substituted “paragraph (2)” for “paragraph (3)”.
+    Subsec. (b)(1)(C), (D). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 533(b)(1)(B), (C)\], redesignated subpar. (D) as (C) and substituted “paragraph (2)” for “paragraph (3)”.
 
-    Subsec. (b)(2), (3). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 533(b)(2)–(4)\], redesignated par. (3) as (2), substituted “paragraph (1)(C)” for “paragraph (1)(D)” in introductory provisions, and struck out former par. (2) which read as follows:
+    Subsec. (b)(2), (3). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 533(b)(2)–(4)\], redesignated par. (3) as (2), substituted “paragraph (1)(C)” for “paragraph (1)(D)” in introductory provisions, and struck out former par. (2) which read as follows:
 
     “(2)(A) In the case of a member pursuing a baccalaureate degree, the member meets the age requirements of this paragraph if the member will be under 27 years of age on June 30 of the calendar year in which the member is projected to be eligible for appointment as a commissioned officer in the Marine Corps through the Marine Corps Platoon Leaders Class program, except that if the member has served on active duty, the member may, on such date, be any age under 30 years that exceeds 27 years by a number of months that is not more than the number of months that the member served on active duty.
 
     “(B) In the case of a member pursuing a doctor of jurisprudence or bachelor of laws degree, the member meets the age requirements of this paragraph if the member will be under 31 years of age on June 30 of the calendar year in which the member is projected to be eligible for appointment as a commissioned officer in the Marine Corps through the Marine Corps Platoon Leaders Class program, except that if the member has served on active duty, the member may, on such date, be any age under 35 years that exceeds 31 years by a number of months that is not more than the number of months that the member served on active duty.”
 
-    Subsec. (f)(1). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 533(d)(1)(A), (B)\], in introductory provisions, substituted “An enlisted member who” for “A member who” and inserted “and an officer who receives financial assistance under this section may be required to repay the full amount of financial assistance,” after “for more than four years,”.
+    Subsec. (f)(1). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 533(d)(1)(A), (B)\], in introductory provisions, substituted “An enlisted member who” for “A member who” and inserted “and an officer who receives financial assistance under this section may be required to repay the full amount of financial assistance,” after “for more than four years,”.
 
-    Subsec. (f)(1)(A). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 533(d)(1)(C)\], inserted “or, if already a commissioned officer in the Marine Corps, refuses to accept an assignment on active duty when offered” after “when offered”.
+    Subsec. (f)(1)(A). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 533(d)(1)(C)\], inserted “or, if already a commissioned officer in the Marine Corps, refuses to accept an assignment on active duty when offered” after “when offered”.
 
-    Subsec. (f)(2). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 533(d)(2)\], added par. (2) and struck out former par. (2) which read as follows: “The Secretary of the Navy may waive the obligated service under paragraph (1) of a person who is not physically qualified for appointment under [section 532 of this title][/us/usc/t10/s532] and later is determined by the Secretary of the Navy under [section 505 of this title][/us/usc/t10/s505] to be unqualified for service as an enlisted member of the Marine Corps due to a physical or medical condition that was not the result of misconduct or grossly negligent conduct.”
+    Subsec. (f)(2). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 533(d)(2)\], added par. (2) and struck out former par. (2) which read as follows: “The Secretary of the Navy may waive the obligated service under paragraph (1) of a person who is not physically qualified for appointment under [section 532 of this title][/us/usc/t10/s532] and later is determined by the Secretary of the Navy under [section 505 of this title][/us/usc/t10/s505] to be unqualified for service as an enlisted member of the Marine Corps due to a physical or medical condition that was not the result of misconduct or grossly negligent conduct.”
 
  __Savings Provision__ 
 
@@ -131,7 +131,7 @@
 
  __Transition Provision__ 
 
-[Pub. L. 106–65, div. A, title V, § 551(d)][/us/pl/106/65/s551/d], Oct. 5, 1999, [113 Stat. 614][/us/stat/113/614], provided that:
+[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 551(d), Oct. 5, 1999, [113 Stat. 614][/us/stat/113/614], provided that:
 
 >     “(1)
 
@@ -158,33 +158,33 @@
 [/us/usc/t10/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs532
 [/us/usc/t10/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs505
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/106/65/s551/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs551%2Fa%2F1
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F612
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/109/163/s687/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fc%2F15
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3336
-[/us/pl/109/163/s687/c/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fc%2F15%2FA
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/109/163/s687/c/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fc%2F15%2FB
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t10/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs532
 [/us/usc/t10/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs505
 [/us/pl/109/163/s687/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fc
 [/us/pl/109/163/s687/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Ff
 [/us/usc/t10/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs510
-[/us/pl/106/65/s551/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs551%2Fd
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F614
 [/us/usc/t10/s12209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12209
 [/us/usc/t37/s205/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs205%2Ff

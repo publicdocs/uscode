@@ -39,7 +39,7 @@
 
         (2) The term “major repair work” means, in the case of any ship to which subsection (a) is applicable, any overhaul, modification, alteration, or conversion work which will result in a total cost to the United States of more than $10,000,000.
 
-(Added [Pub. L. 96–342, title X, § 1001(b)(3)][/us/pl/96/342/s1001/b/3], (c)(2), Sept. 8, 1980, [94 Stat. 1118][/us/stat/94/1118], 1119, § 138(e), (f)(2); amended [Pub. L. 96–513, title V, § 511(4)(B)][/us/pl/96/513/s511/4/B], Dec. 12, 1980, [94 Stat. 2920][/us/stat/94/2920]; [Pub. L. 97–86, title III, § 302][/us/pl/97/86/s302], Dec. 1, 1981, [95 Stat. 1104][/us/stat/95/1104]; renumbered § 116 and amended [Pub. L. 99–433, title I][/us/pl/99/433], §§ 101(a)(2), 110(b)(6), (7), (9), (10), Oct. 1, 1986, [100 Stat. 994][/us/stat/100/994], 1002; [Pub. L. 105–85, div. A, title X, § 1073(a)(3)][/us/pl/105/85/s1073/a/3], Nov. 18, 1997, [111 Stat. 1900][/us/stat/111/1900]; [Pub. L. 112–81, div. A, title X, § 1064(2)][/us/pl/112/81/s1064/2], Dec. 31, 2011, [125 Stat. 1586][/us/stat/125/1586].)
+(Added [Pub. L. 96–342, title X][/us/pl/96/342/tX], § 1001(b)(3), (c)(2), Sept. 8, 1980, [94 Stat. 1118][/us/stat/94/1118], 1119, § 138(e), (f)(2); amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(4)(B), Dec. 12, 1980, [94 Stat. 2920][/us/stat/94/2920]; [Pub. L. 97–86, title III][/us/pl/97/86/tIII], § 302, Dec. 1, 1981, [95 Stat. 1104][/us/stat/95/1104]; renumbered § 116 and amended [Pub. L. 99–433, title I][/us/pl/99/433/tI], §§ 101(a)(2), 110(b)(6), (7), (9), (10), Oct. 1, 1986, [100 Stat. 994][/us/stat/100/994], 1002; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(3), Nov. 18, 1997, [111 Stat. 1900][/us/stat/111/1900]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1064(2), Dec. 31, 2011, [125 Stat. 1586][/us/stat/125/1586].)
 
  __Amendments__ 
 
@@ -65,17 +65,17 @@
 ----------
 
 [/us/usc/t10/s113a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113a
-[/us/pl/96/342/s1001/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs1001%2Fb%2F3
+[/us/pl/96/342/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtX
 [/us/stat/94/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1118
-[/us/pl/96/513/s511/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F4%2FB
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2920
-[/us/pl/97/86/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs302
+[/us/pl/97/86/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIII
 [/us/stat/95/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1104
-[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
+[/us/pl/99/433/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtI
 [/us/stat/100/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F994
-[/us/pl/105/85/s1073/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F3
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1900
-[/us/pl/112/81/s1064/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1064%2F2
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1586
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85

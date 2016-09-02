@@ -127,7 +127,7 @@
 
     The Secretary of Defense concerned  <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  shall prescribe regulations to carry out the provisions of this section.
 
-(Added [Pub. L. 114–92, div. A, title VI, § 633(a)(1)][/us/pl/114/92/s633/a/1], Nov. 25, 2015, [129 Stat. 847][/us/stat/129/847].)
+(Added [Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], § 633(a)(1), Nov. 25, 2015, [129 Stat. 847][/us/stat/129/847].)
 
  __References in Text__ 
 
@@ -152,7 +152,7 @@
 [/us/usc/t10/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a
 [/us/usc/t10/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a
 [/us/usc/t10/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a
-[/us/pl/114/92/s633/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs633%2Fa%2F1
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F847
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372
 [/us/stat/116/3082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3082

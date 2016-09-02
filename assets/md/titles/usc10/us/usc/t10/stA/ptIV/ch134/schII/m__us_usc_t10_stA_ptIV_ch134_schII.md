@@ -131,25 +131,25 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–291, div. A, title VIII, § 859(b)][/us/pl/113/291/s859/b], Dec. 19, 2014, [128 Stat. 3461][/us/stat/128/3461], added item 2264.
+    2014—[Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 859(b), Dec. 19, 2014, [128 Stat. 3461][/us/stat/128/3461], added item 2264.
 
-    2011—[Pub. L. 112–81, div. A, title X, § 1082(a)(2)][/us/pl/112/81/s1082/a/2], Dec. 31, 2011, [125 Stat. 1601][/us/stat/125/1601], added item 2254a.
+    2011—[Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1082(a)(2), Dec. 31, 2011, [125 Stat. 1601][/us/stat/125/1601], added item 2254a.
 
     2008—[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1004(a)(2), Oct. 14, 2008, [122 Stat. 4583][/us/stat/122/4583], added item 2263.
 
-    2006—[Pub. L. 109–364, div. A, title X, § 1051(b)][/us/pl/109/364/s1051/b], Oct. 17, 2006, [120 Stat. 2396][/us/stat/120/2396], added item 2262.
+    2006—[Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1051(b), Oct. 17, 2006, [120 Stat. 2396][/us/stat/120/2396], added item 2262.
 
-    [Pub. L. 109–163, div. A, title V, § 589(a)(2)][/us/pl/109/163/s589/a/2], Jan. 6, 2006, [119 Stat. 3279][/us/stat/119/3279], added item 2261.
+    [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 589(a)(2), Jan. 6, 2006, [119 Stat. 3279][/us/stat/119/3279], added item 2261.
 
-    2004—[Pub. L. 108–375, div. A, title X, § 1004(b)][/us/pl/108/375/s1004/b], Oct. 28, 2004, [118 Stat. 2036][/us/stat/118/2036], added item 2260.
+    2004—[Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1004(b), Oct. 28, 2004, [118 Stat. 2036][/us/stat/118/2036], added item 2260.
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1082(a)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–285, added item 2259.
+    2000—[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1082(a)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–285, added item 2259.
 
-    1999—[Pub. L. 106–65, div. A, title V, § 574(b)][/us/pl/106/65/s574/b], Oct. 5, 1999, [113 Stat. 624][/us/stat/113/624], added item 2257.
+    1999—[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 574(b), Oct. 5, 1999, [113 Stat. 624][/us/stat/113/624], added item 2257.
 
-    1996—[Pub. L. 104–201, div. A, title IX, § 911(a)(2)][/us/pl/104/201/s911/a/2], Sept. 23, 1996, [110 Stat. 2622][/us/stat/110/2622], added item 2255.
+    1996—[Pub. L. 104–201, div. A, title IX][/us/pl/104/201/dA/tIX], § 911(a)(2), Sept. 23, 1996, [110 Stat. 2622][/us/stat/110/2622], added item 2255.
 
-    1992—[Pub. L. 102–484, div. A, title X, § 1071(a)(2)][/us/pl/102/484/s1071/a/2], Oct. 23, 1992, [106 Stat. 2508][/us/stat/106/2508], added item 2254.
+    1992—[Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1071(a)(2), Oct. 23, 1992, [106 Stat. 2508][/us/stat/106/2508], added item 2254.
 
 ----------
 
@@ -158,25 +158,25 @@
 ----------
 ----------
 
-[/us/pl/113/291/s859/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs859%2Fb
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3461
-[/us/pl/112/81/s1082/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1082%2Fa%2F2
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1601
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4583
-[/us/pl/109/364/s1051/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1051%2Fb
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2396
-[/us/pl/109/163/s589/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs589%2Fa%2F2
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3279
-[/us/pl/108/375/s1004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1004%2Fb
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2036
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/65/s574/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs574%2Fb
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F624
-[/us/pl/104/201/s911/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs911%2Fa%2F2
+[/us/pl/104/201/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIX
 [/us/stat/110/2622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2622
-[/us/pl/102/484/s1071/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1071%2Fa%2F2
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2508
 
 

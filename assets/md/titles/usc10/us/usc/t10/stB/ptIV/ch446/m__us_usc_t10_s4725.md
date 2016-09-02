@@ -27,7 +27,7 @@
 
     The superintendents of the Cemeteries report directly to the Executive Director and performs such duties and responsibilities as the Executive Director prescribes.
 
-(Added [Pub. L. 112–81, div. A, title V, § 591(a)(1)][/us/pl/112/81/s591/a/1], Dec. 31, 2011, [125 Stat. 1441][/us/stat/125/1441].)
+(Added [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 591(a)(1), Dec. 31, 2011, [125 Stat. 1441][/us/stat/125/1441].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/112/81/s591/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs591%2Fa%2F1
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1441
 
 

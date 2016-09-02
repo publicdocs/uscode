@@ -107,15 +107,15 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–181, div. A, title V, § 503(a)(3)][/us/pl/110/181/s503/a/3], Jan. 28, 2008, [122 Stat. 95][/us/stat/122/95], substituted “six years” for “five years” in item 630.
+    2008—[Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 503(a)(3), Jan. 28, 2008, [122 Stat. 95][/us/stat/122/95], substituted “six years” for “five years” in item 630.
 
-    2001—[Pub. L. 107–107, div. A, title V, § 505(d)(4)][/us/pl/107/107/s505/d/4], Dec. 28, 2001, [115 Stat. 1088][/us/stat/115/1088], struck out “regular” before “commissioned officers” in item 630, struck out “regular” before “first lieutenants” in item 631, and struck out “regular” before “captains and majors” and before “lieutenants and lieutenant commanders” in item 632.
+    2001—[Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 505(d)(4), Dec. 28, 2001, [115 Stat. 1088][/us/stat/115/1088], struck out “regular” before “commissioned officers” in item 630, struck out “regular” before “first lieutenants” in item 631, and struck out “regular” before “captains and majors” and before “lieutenants and lieutenant commanders” in item 632.
 
-    1997—[Pub. L. 105–85, div. A, title V, § 506(c)][/us/pl/105/85/s506/c], Nov. 18, 1997, [111 Stat. 1726][/us/stat/111/1726], substituted “regular officers in grades above brigadier general and rear admiral (lower half)” for “regular major generals and rear admirals” in item 636.
+    1997—[Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 506(c), Nov. 18, 1997, [111 Stat. 1726][/us/stat/111/1726], substituted “regular officers in grades above brigadier general and rear admiral (lower half)” for “regular major generals and rear admirals” in item 636.
 
-    1985—[Pub. L. 99–145, title V, § 514(b)(5)(B)][/us/pl/99/145/s514/b/5/B], Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628], substituted “rear admirals (lower half)” for “commodores” in item 635.
+    1985—[Pub. L. 99–145, title V][/us/pl/99/145/tV], § 514(b)(5)(B), Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628], substituted “rear admirals (lower half)” for “commodores” in item 635.
 
-    1981—[Pub. L. 97–86, title IV, § 405(b)(5)(B)][/us/pl/97/86/s405/b/5/B], Dec. 1, 1981, [95 Stat. 1106][/us/stat/95/1106], substituted “commodores” for “commodore admirals” in item 635.
+    1981—[Pub. L. 97–86, title IV][/us/pl/97/86/tIV], § 405(b)(5)(B), Dec. 1, 1981, [95 Stat. 1106][/us/stat/95/1106], substituted “commodores” for “commodore admirals” in item 635.
 
 ----------
 
@@ -124,15 +124,15 @@
 ----------
 ----------
 
-[/us/pl/110/181/s503/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs503%2Fa%2F3
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F95
-[/us/pl/107/107/s505/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fd%2F4
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1088
-[/us/pl/105/85/s506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs506%2Fc
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1726
-[/us/pl/99/145/s514/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fb%2F5%2FB
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F628
-[/us/pl/97/86/s405/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs405%2Fb%2F5%2FB
+[/us/pl/97/86/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIV
 [/us/stat/95/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1106
 
 

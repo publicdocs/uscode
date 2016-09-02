@@ -23,11 +23,11 @@
 
     Notwithstanding subsection (a), the Secretary of Defense may provide inpatient medical care in the United States without cost to military personnel and their dependents from a foreign country if comparable care is made available to a comparable number of United States military personnel and their dependents in that foreign country.
 
-(Added [Pub. L. 101–510, div. A, title XIV, § 1481(f)(1)][/us/pl/101/510/s1481/f/1], Nov. 5, 1990, [104 Stat. 1707][/us/stat/104/1707], § 2549; renumbered § 2559, [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1033(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–260.)
+(Added [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1481(f)(1), Nov. 5, 1990, [104 Stat. 1707][/us/stat/104/1707], § 2549; renumbered § 2559, [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1033(b)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–260.)
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [Pub. L. 101–165, title IX, § 9020][/us/pl/101/165/s9020], Nov. 21, 1989, [103 Stat. 1133][/us/stat/103/1133], which was set out as a note under [section 2241 of this title][/us/usc/t10/s2241], prior to repeal by [Pub. L. 101–510, § 1481(f)(3)][/us/pl/101/510/s1481/f/3].
+    Provisions similar to those in this section were contained in [Pub. L. 101–165, title IX][/us/pl/101/165/tIX], § 9020, Nov. 21, 1989, [103 Stat. 1133][/us/stat/103/1133], which was set out as a note under [section 2241 of this title][/us/usc/t10/s2241], prior to repeal by [Pub. L. 101–510][/us/pl/101/510], § 1481(f)(3).
 
  __Amendments__ 
 
@@ -40,14 +40,14 @@
 ----------
 ----------
 
-[/us/pl/101/510/s1481/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1481%2Ff%2F1
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1707
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/101/165/s9020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2Fs9020
+[/us/pl/101/165/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2FtIX
 [/us/stat/103/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1133
 [/us/usc/t10/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2241
-[/us/pl/101/510/s1481/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1481%2Ff%2F3
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t10/s2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2549
 

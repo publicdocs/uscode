@@ -41,7 +41,7 @@
 
         (4) Any additional responsibilities that the Council considers appropriate.
 
-(Added [Pub. L. 104–201, div. A, title II, § 282(a)(1)][/us/pl/104/201/s282/a/1], Sept. 23, 1996, [110 Stat. 2473][/us/stat/110/2473]; amended [Pub. L. 105–85, div. A, title II, § 241(b)(1)][/us/pl/105/85/s241/b/1], Nov. 18, 1997, [111 Stat. 1666][/us/stat/111/1666]; [Pub. L. 114–92, div. A, title X, § 1084][/us/pl/114/92/s1084], Nov. 25, 2015, [129 Stat. 1004][/us/stat/129/1004].)
+(Added [Pub. L. 104–201, div. A, title II][/us/pl/104/201/dA/tII], § 282(a)(1), Sept. 23, 1996, [110 Stat. 2473][/us/stat/110/2473]; amended [Pub. L. 105–85, div. A, title II][/us/pl/105/85/dA/tII], § 241(b)(1), Nov. 18, 1997, [111 Stat. 1666][/us/stat/111/1666]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1084, Nov. 25, 2015, [129 Stat. 1004][/us/stat/129/1004].)
 
  __Amendments__ 
 
@@ -63,7 +63,7 @@
 
  __Initial Appointments of Panel Members__ 
 
-[Pub. L. 104–201, div. A, title II, § 282(b)][/us/pl/104/201/s282/b], formerly § 282(c), Sept. 23, 1996, [110 Stat. 2473][/us/stat/110/2473], as renumbered and amended by [Pub. L. 105–85, div. A, title II, § 241(b)(2)][/us/pl/105/85/s241/b/2], (c)(2), Nov. 18, 1997, [111 Stat. 1666][/us/stat/111/1666], provided that: 
+[Pub. L. 104–201, div. A, title II][/us/pl/104/201/dA/tII], § 282(b), formerly § 282(c), Sept. 23, 1996, [110 Stat. 2473][/us/stat/110/2473], as renumbered and amended by [Pub. L. 105–85, div. A, title II][/us/pl/105/85/dA/tII], § 241(b)(2), (c)(2), Nov. 18, 1997, [111 Stat. 1666][/us/stat/111/1666], provided that: 
 
 > “The National Ocean Research Leadership Council established by [section 7902 of title 10][/us/usc/t10/s7902], United States Code, as added by subsection (a)(1), shall make the appointments required by section 7903 of such title not later than January 1, 1998.”
 
@@ -74,11 +74,11 @@
 ----------
 ----------
 
-[/us/pl/104/201/s282/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs282%2Fa%2F1
+[/us/pl/104/201/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtII
 [/us/stat/110/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2473
-[/us/pl/105/85/s241/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs241%2Fb%2F1
+[/us/pl/105/85/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtII
 [/us/stat/111/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1666
-[/us/pl/114/92/s1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1084
+[/us/pl/114/92/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtX
 [/us/stat/129/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1004
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
@@ -88,9 +88,9 @@
 [/us/usc/t10/s7902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7902
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/104/201/s282/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs282%2Fb
+[/us/pl/104/201/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtII
 [/us/stat/110/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2473
-[/us/pl/105/85/s241/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs241%2Fb%2F2
+[/us/pl/105/85/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtII
 [/us/stat/111/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1666
 [/us/usc/t10/s7902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7902
 

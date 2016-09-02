@@ -21,7 +21,7 @@
 
         (1)  __Charter school__  __.—__ 
 
-        The term “charter school” has the meaning given that term in section 5210(1) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7221i(1)][/us/usc/t20/s7221i/1]).
+        The term “charter school” has the meaning given that term in section 4310 of the Elementary and Secondary Education Act of 1965.
 
         (2)  __Eligible school__  __.—__ 
 
@@ -45,7 +45,7 @@
 
             (B) a high school in which at least 40 percent of enrolled students are children from low-income families, which may be calculated using comparable data from feeder schools; or
 
-            (C) a school that is in a local educational agency that is eligible under section 6211(b) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7345(b)][/us/usc/t20/s7345/b]).
+            (C) a school that is in a local educational agency that is eligible under section 5211(b) of the Elementary and Secondary Education Act of 1965.
 
         (4)  __Member of the armed forces__  __.—__ 
 
@@ -65,7 +65,7 @@
 
         (8)  __Additional terms__  __.—__ 
 
-        The terms “elementary school”, “local educational agency”, “secondary school”, and “State” have the meanings given those terms in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801]).
+        The terms “elementary school”, “local educational agency”, “secondary school”, and “State” have the meanings given those terms in section 8101 of the Elementary and Secondary Education Act of 1965.
 
     (b)  __Program Authorization__  __.—__ 
 
@@ -261,7 +261,7 @@
 
     The total amount obligated by the Secretary under the Program for any fiscal year may not exceed $15,000,000.
 
-(Added [Pub. L. 112–239, div. A, title V, § 541(b)(1)][/us/pl/112/239/s541/b/1], Jan. 2, 2013, [126 Stat. 1729][/us/stat/126/1729]; amended [Pub. L. 113–291, div. A, title X, § 1071(f)(14)][/us/pl/113/291/s1071/f/14], Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510].)
+(Added [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 541(b)(1), Jan. 2, 2013, [126 Stat. 1729][/us/stat/126/1729]; amended [Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1071(f)(14), Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(uuu)(2), Dec. 10, 2015, [129 Stat. 2190][/us/stat/129/2190].)
 
  __References in Text__ 
 
@@ -271,17 +271,27 @@
 
     The Social Security Act, referred to in subsec. (a)(3)(A), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
-    The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(A)(i), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27]. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20][/us/usc/t20/s6301] and Tables.
+    The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(A)(i), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27]. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. Sections 4310, 5211(b), and 8101 of the Act are classified to sections 7221i, 7345(b), and 7801, respectively, of Title 20. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20][/us/usc/t20/s6301] and Tables.
 
     The Higher Education Act of 1965, referred to in subsec. (e)(4), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219]. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20 and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20][/us/usc/t20/s1001] and Tables.
 
  __Amendments__ 
 
+    2015—Subsec. (a)(1). [Pub. L. 114–95][/us/pl/114/95], § 9215(uuu)(2)(A), substituted “section 4310 of the Elementary and Secondary Education Act of 1965” for “section 5210(1) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7221i(1)][/us/usc/t20/s7221i/1])”.
+
+    Subsec. (a)(3)(C). [Pub. L. 114–95][/us/pl/114/95], § 9215(uuu)(2)(B), substituted “section 5211(b) of the Elementary and Secondary Education Act of 1965” for “section 6211(b) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7345(b)][/us/usc/t20/s7345/b])”.
+
+    Subsec. (a)(8). [Pub. L. 114–95][/us/pl/114/95], § 9215(uuu)(2)(C), substituted “section 8101 of the Elementary and Secondary Education Act of 1965” for “section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801])”.
+
     2014—Subsec. (a)(2)(A)(ii). [Pub. L. 113–291][/us/pl/113/291] substituted “[20 U.S.C. 1411][/us/usc/t20/s1411]” for “20 U.S.C.1411”.
 
- __Transfer of Functions for Troops-to-Teachers Program__ 
+ __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 112–239, div. A, title V, § 541(a)][/us/pl/112/239/s541/a], Jan. 2, 2013, [126 Stat. 1728][/us/stat/126/1728], provided that:
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
+
+ __Transfer of Functions for Troops-to-Teachers Program; Existing Agreements__ 
+
+[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 541(a), Jan. 2, 2013, [126 Stat. 1728][/us/stat/126/1728], provided that:
 
 >     “(1)  __Transfer__  __.—__ 
 
@@ -309,6 +319,14 @@
 
 >         “(B) on such earlier date as the Secretary of Education and the Secretary of Defense may jointly provide.”
 
+[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 541(d)(3), Jan. 2, 2013, [126 Stat. 1735][/us/stat/126/1735], provided that: 
+
+> “The repeal of chapter A of subpart 1 of part C of title II of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6671][/us/usc/t20/s6671] et seq.) by paragraph (1) shall not affect—
+
+>     “(A) the validity or terms of any agreement entered into under such chapter, as in effect immediately before such repeal, before the effective date of the transfer of the Troops-to-Teachers Program under subsection (a) \[set out as a note above\]; or
+
+>     “(B) the authority to pay assistance, make grants, or obtain reimbursement in connection with such an agreement as in effect before the effective date of the transfer of the Troops-to-Teachers Program under subsection (a).”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptII/ch58/m__us_usc_t10_s1153.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_stA_ptII_ch59.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1154)
@@ -316,22 +334,21 @@
 ----------
 ----------
 
-[/us/usc/t20/s7221i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7221i%2F1
 [/us/usc/t42/s1758/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1758%2Fb%2F1
 [/us/usc/t20/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1411
 [/us/usc/t25/s2021/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2021%2F3
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
-[/us/usc/t20/s7345/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7345%2Fb
-[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/usc/t10/s12732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12732
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t37/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs373
-[/us/pl/112/239/s541/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs541%2Fb%2F1
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1729
-[/us/pl/113/291/s1071/f/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F14
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3510
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2190
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
@@ -347,11 +364,23 @@
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7221i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7221i%2F1
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7345/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7345%2Fb
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t20/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1411
-[/us/pl/112/239/s541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs541%2Fa
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1728
 [/us/usc/t20/s6671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6671
 [/us/usc/t10/s1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1154
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
+[/us/stat/126/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1735
+[/us/usc/t20/s6671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6671
 
 

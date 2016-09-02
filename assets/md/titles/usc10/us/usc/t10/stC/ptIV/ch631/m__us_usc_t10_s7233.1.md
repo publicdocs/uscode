@@ -83,11 +83,11 @@
 
         (3) funds appropriated for those costs.
 
-(Added [Pub. L. 106–65, div. A, title X, § 1014(a)(1)][/us/pl/106/65/s1014/a/1], Oct. 5, 1999, [113 Stat. 741][/us/stat/113/741].)
+(Added [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1014(a)(1), Oct. 5, 1999, [113 Stat. 741][/us/stat/113/741].)
 
  __Effective Date__ 
 
-[Pub. L. 106–65, div. A, title X, § 1014(c)][/us/pl/106/65/s1014/c], Oct. 5, 1999, [113 Stat. 742][/us/stat/113/742], provided that: 
+[Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1014(c), Oct. 5, 1999, [113 Stat. 742][/us/stat/113/742], provided that: 
 
 > “[Section 7233 of title 10][/us/usc/t10/s7233], United States Code, as added by subsection (a), shall take effect on October 1, 1999.”
 
@@ -99,9 +99,9 @@
 ----------
 
 [/us/usc/t10/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2401
-[/us/pl/106/65/s1014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1014%2Fa%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F741
-[/us/pl/106/65/s1014/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1014%2Fc
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F742
 [/us/usc/t10/s7233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7233
 

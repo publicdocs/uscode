@@ -63,7 +63,7 @@
 
         (B) the disability is at least 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 93][/us/stat/70A/93]; [Pub. L. 99–145, title V, § 513(a)(1)(A)][/us/pl/99/145/s513/a/1/A], Nov. 8, 1985, [99 Stat. 627][/us/stat/99/627]; [Pub. L. 99–661, div. A, title VI, § 604(d)(1)][/us/pl/99/661/s604/d/1], (2)(A), Nov. 14, 1986, [100 Stat. 3876][/us/stat/100/3876]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 102–484, div. A, title V, § 516(a)][/us/pl/102/484/s516/a], Oct. 23, 1992, [106 Stat. 2407][/us/stat/106/2407]; [Pub. L. 104–201, div. A, title V, § 534][/us/pl/104/201/s534], Sept. 23, 1996, [110 Stat. 2521][/us/stat/110/2521]; [Pub. L. 105–85, div. A, title V, § 513(c)(1)][/us/pl/105/85/s513/c/1], (d)(1), Nov. 18, 1997, [111 Stat. 1730][/us/stat/111/1730], 1731; [Pub. L. 106–65, div. A, title V, § 578(i)(3)][/us/pl/106/65/s578/i/3], Oct. 5, 1999, [113 Stat. 629][/us/stat/113/629]; [Pub. L. 107–107, div. A, title V, § 513(b)][/us/pl/107/107/s513/b], Dec. 28, 2001, [115 Stat. 1093][/us/stat/115/1093].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 93][/us/stat/70A/93]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 513(a)(1)(A), Nov. 8, 1985, [99 Stat. 627][/us/stat/99/627]; [Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], § 604(d)(1), (2)(A), Nov. 14, 1986, [100 Stat. 3876][/us/stat/100/3876]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 102–484, div. A, title V][/us/pl/102/484/dA/tV], § 516(a), Oct. 23, 1992, [106 Stat. 2407][/us/stat/106/2407]; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 534, Sept. 23, 1996, [110 Stat. 2521][/us/stat/110/2521]; [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 513(c)(1), (d)(1), Nov. 18, 1997, [111 Stat. 1730][/us/stat/111/1730], 1731; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 578(i)(3), Oct. 5, 1999, [113 Stat. 629][/us/stat/113/629]; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 513(b), Dec. 28, 2001, [115 Stat. 1093][/us/stat/115/1093].)
 
 <table>
 
@@ -131,9 +131,9 @@ Oct. 12, 1949, ch. 681, §§ 401(a), 402(c) (less clause (5), and less last pr
 
     1999—Par. (2)(C). [Pub. L. 106–65][/us/pl/106/65] added subpar. (C).
 
-    1997—[Pub. L. 105–85, § 513(d)(1)][/us/pl/105/85/s513/d/1], amended section catchline generally, inserting “or on inactive-duty training” after “30 days or less”.
+    1997—[Pub. L. 105–85][/us/pl/105/85], § 513(d)(1), amended section catchline generally, inserting “or on inactive-duty training” after “30 days or less”.
 
-    Par. (2). [Pub. L. 105–85, § 513(c)(1)][/us/pl/105/85/s513/c/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the disability is the proximate result of, or was incurred in line of duty after the date of the enactment of this Act as a result of—
+    Par. (2). [Pub. L. 105–85][/us/pl/105/85], § 513(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the disability is the proximate result of, or was incurred in line of duty after the date of the enactment of this Act as a result of—
 
     “(A) performing active duty or inactive-duty training;
 
@@ -153,7 +153,7 @@ Oct. 12, 1949, ch. 681, §§ 401(a), 402(c) (less clause (5), and less last pr
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–484, div. A, title V, § 516(b)][/us/pl/102/484/s516/b], Oct. 23, 1992, [106 Stat. 2407][/us/stat/106/2407], provided that: 
+[Pub. L. 102–484, div. A, title V][/us/pl/102/484/dA/tV], § 516(b), Oct. 23, 1992, [106 Stat. 2407][/us/stat/106/2407], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section and [section 1206 of this title][/us/usc/t10/s1206]\] shall take effect with respect to disabilities incurred on or after November 14, 1986, but any benefits or services payable by reason of the applicability of those amendments during the period beginning on November 14, 1986, and ending on the date of the enactment of this Act \[Oct. 23, 1992\] shall be subject to the availability of appropriations.”
 
@@ -174,33 +174,33 @@ Oct. 12, 1949, ch. 681, §§ 401(a), 402(c) (less clause (5), and less last pr
 [/us/usc/t10/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1208
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F93
-[/us/pl/99/145/s513/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs513%2Fa%2F1%2FA
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F627
-[/us/pl/99/661/s604/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs604%2Fd%2F1
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3876
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1602
-[/us/pl/102/484/s516/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs516%2Fa
+[/us/pl/102/484/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtV
 [/us/stat/106/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2407
-[/us/pl/104/201/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs534
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2521
-[/us/pl/105/85/s513/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs513%2Fc%2F1
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1730
-[/us/pl/106/65/s578/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs578%2Fi%2F3
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F629
-[/us/pl/107/107/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs513%2Fb
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1093
 [/us/usc/t10/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1207
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/105/85/s513/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs513%2Fd%2F1
-[/us/pl/105/85/s513/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs513%2Fc%2F1
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
-[/us/pl/102/484/s516/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs516%2Fb
+[/us/pl/102/484/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtV
 [/us/stat/106/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2407
 [/us/usc/t10/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1206
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661

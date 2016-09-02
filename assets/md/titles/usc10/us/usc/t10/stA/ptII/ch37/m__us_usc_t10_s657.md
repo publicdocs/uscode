@@ -31,7 +31,7 @@
 
         (4) An attempt to commit an offense specified in paragraph (1) through (3), as punishable under applicable Federal or State law.
 
-(Added [Pub. L. 113–66, div. A, title XVII, § 1711(a)(1)][/us/pl/113/66/s1711/a/1], Dec. 26, 2013, [127 Stat. 962][/us/stat/127/962].)
+(Added [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1711(a)(1), Dec. 26, 2013, [127 Stat. 962][/us/stat/127/962].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/113/66/s1711/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1711%2Fa%2F1
+[/us/pl/113/66/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVII
 [/us/stat/127/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F962
 
 

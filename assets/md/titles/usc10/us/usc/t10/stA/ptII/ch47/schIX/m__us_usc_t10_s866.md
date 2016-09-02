@@ -37,7 +37,7 @@
 
     (h) No member of a Court of Criminal Appeals shall be eligible to review the record of any trial if such member served as investigating officer in the case or served as a member of the court-martial before which such trial was conducted, or served as military judge, trial or defense counsel, or reviewing officer of such trial.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 59][/us/stat/70A/59]; [Pub. L. 90–632, § 2(27)][/us/pl/90/632/s2/27], Oct. 24, 1968, [82 Stat. 1341][/us/stat/82/1341]; [Pub. L. 98–209][/us/pl/98/209], §§ 7(b), (c), 10(c)(1), Dec. 6, 1983, [97 Stat. 1402][/us/stat/97/1402], 1406; [Pub. L. 103–337, div. A, title IX, § 924(b)(2)][/us/pl/103/337/s924/b/2], (c)(1), (4)(A), Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831], 2832; [Pub. L. 104–106, div. A, title XI, § 1153][/us/pl/104/106/s1153], Feb. 10, 1996, [110 Stat. 468][/us/stat/110/468].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 59][/us/stat/70A/59]; [Pub. L. 90–632][/us/pl/90/632], § 2(27), Oct. 24, 1968, [82 Stat. 1341][/us/stat/82/1341]; [Pub. L. 98–209][/us/pl/98/209], §§ 7(b), (c), 10(c)(1), Dec. 6, 1983, [97 Stat. 1402][/us/stat/97/1402], 1406; [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(b)(2), (c)(1), (4)(A), Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831], 2832; [Pub. L. 104–106, div. A, title XI][/us/pl/104/106/dA/tXI], § 1153, Feb. 10, 1996, [110 Stat. 468][/us/stat/110/468].)
 
 <table>
 
@@ -157,29 +157,29 @@ May 5, 1950, ch. 169, § 1 (Art. 66), 64 Stat. 128.  </td>
 
     1996—Subsec. (f). [Pub. L. 104–106][/us/pl/104/106] substituted “Courts of Criminal Appeals” for “Courts of Military Review” in two places.
 
-    1994—[Pub. L. 103–337, § 924(c)(4)(A)][/us/pl/103/337/s924/c/4/A], substituted “Court of Criminal Appeals” for “Court of Military Review” in section catchline.
+    1994—[Pub. L. 103–337][/us/pl/103/337], § 924(c)(4)(A), substituted “Court of Criminal Appeals” for “Court of Military Review” in section catchline.
 
-    [Pub. L. 103–337, § 924(b)(2)][/us/pl/103/337/s924/b/2], substituted “Court of Criminal Appeals” for “Court of Military Review” wherever appearing.
+    [Pub. L. 103–337][/us/pl/103/337], § 924(b)(2), substituted “Court of Criminal Appeals” for “Court of Military Review” wherever appearing.
 
-    [Pub. L. 103–337, § 924(c)(1)][/us/pl/103/337/s924/c/1], substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in subsec. (e).
+    [Pub. L. 103–337][/us/pl/103/337], § 924(c)(1), substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in subsec. (e).
 
-    1983—Subsec. (a). [Pub. L. 98–209, § 7(b)][/us/pl/98/209/s7/b], inserted provision that any decision of a panel may be reconsidered by the court sitting as a whole in accordance with the rules.
+    1983—Subsec. (a). [Pub. L. 98–209][/us/pl/98/209], § 7(b), inserted provision that any decision of a panel may be reconsidered by the court sitting as a whole in accordance with the rules.
 
-    Subsec. (b). [Pub. L. 98–209, § 7(c)][/us/pl/98/209/s7/c], amended subsec. (b) generally, designating existing provisions as par. (1), struck out provision extending applicability of provisions to sentences affecting a general or flag officer, and added par. (2).
+    Subsec. (b). [Pub. L. 98–209][/us/pl/98/209], § 7(c), amended subsec. (b) generally, designating existing provisions as par. (1), struck out provision extending applicability of provisions to sentences affecting a general or flag officer, and added par. (2).
 
-    Subsec. (e). [Pub. L. 98–209, § 10(c)(1)][/us/pl/98/209/s10/c/1], substituted “the Court of Military Appeals, or the Supreme Court” for “or the Court of Military Appeals”.
+    Subsec. (e). [Pub. L. 98–209][/us/pl/98/209], § 10(c)(1), substituted “the Court of Military Appeals, or the Supreme Court” for “or the Court of Military Appeals”.
 
-    1968—Subsec. (a). [Pub. L. 90–632, § 2(27)(A)][/us/pl/90/632/s2/27/A], (B), substituted “Court of Military Review” for “board of review” in section catchline and, in subsec. (a), substituted “Court of Military Review” for “board of review” as name of reviewing body established by each Judge Advocate General, and inserted provisions setting out procedures for such Courts of Military Review, their composition and functions.
+    1968—Subsec. (a). [Pub. L. 90–632][/us/pl/90/632], § 2(27)(A), (B), substituted “Court of Military Review” for “board of review” in section catchline and, in subsec. (a), substituted “Court of Military Review” for “board of review” as name of reviewing body established by each Judge Advocate General, and inserted provisions setting out procedures for such Courts of Military Review, their composition and functions.
 
-    Subsecs. (b) to (e). [Pub. L. 90–632, § 2(27)(C)][/us/pl/90/632/s2/27/C], substituted “Court of Military Review” for “board of review” wherever appearing.
+    Subsecs. (b) to (e). [Pub. L. 90–632][/us/pl/90/632], § 2(27)(C), substituted “Court of Military Review” for “board of review” wherever appearing.
 
-    Subsec. (f). [Pub. L. 90–632, § 2(27)(D)][/us/pl/90/632/s2/27/D], substituted “Courts of Military Review” for “boards of review” in two places.
+    Subsec. (f). [Pub. L. 90–632][/us/pl/90/632], § 2(27)(D), substituted “Courts of Military Review” for “boards of review” in two places.
 
-    Subsecs. (g), (h). [Pub. L. 90–632, § 2(27)(E)][/us/pl/90/632/s2/27/E], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 90–632][/us/pl/90/632], § 2(27)(E), added subsecs. (g) and (h).
 
  __Change of Name__ 
 
-[Pub. L. 103–337, div. A, title IX, § 924(b)(1)][/us/pl/103/337/s924/b/1], Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831], provided that: 
+[Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(b)(1), Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831], provided that: 
 
 > “Each Court of Military Review shall hereafter be known and designated as a Court of Criminal Appeals.”
 
@@ -193,7 +193,7 @@ May 5, 1950, ch. 169, § 1 (Art. 66), 64 Stat. 128.  </td>
 
  __Statutory References to Board of Review Deemed References to Court of Military Review__ 
 
-[Pub. L. 90–632, § 3(b)][/us/pl/90/632/s3/b], Oct. 24, 1968, [82 Stat. 1343][/us/stat/82/1343], provided that: 
+[Pub. L. 90–632][/us/pl/90/632], § 3(b), Oct. 24, 1968, [82 Stat. 1343][/us/stat/82/1343], provided that: 
 
 > “Whenever the term board of review is used, with reference to or in connection with the appellate review of courts-martial cases, in any provision of Federal law (other than provisions amended by this Act) \[see Short Title of 1968 Amendment note under [section 801 of this title][/us/usc/t10/s801]\] or in any regulation, document, or record of the United States, such term shall be deemed to mean Court of Military Review \[now Court of Criminal Appeals\].”
 
@@ -207,26 +207,26 @@ May 5, 1950, ch. 169, § 1 (Art. 66), 64 Stat. 128.  </td>
 [/us/usc/t10/s861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs861
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F59
-[/us/pl/90/632/s2/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F27
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1341
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/stat/97/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1402
-[/us/pl/103/337/s924/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fb%2F2
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2831
-[/us/pl/104/106/s1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1153
+[/us/pl/104/106/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXI
 [/us/stat/110/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F468
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/337/s924/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fc%2F4%2FA
-[/us/pl/103/337/s924/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fb%2F2
-[/us/pl/103/337/s924/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fc%2F1
-[/us/pl/98/209/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs7%2Fb
-[/us/pl/98/209/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs7%2Fc
-[/us/pl/98/209/s10/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs10%2Fc%2F1
-[/us/pl/90/632/s2/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F27%2FA
-[/us/pl/90/632/s2/27/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F27%2FC
-[/us/pl/90/632/s2/27/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F27%2FD
-[/us/pl/90/632/s2/27/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F27%2FE
-[/us/pl/103/337/s924/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fb%2F1
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2831
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
@@ -235,7 +235,7 @@ May 5, 1950, ch. 169, § 1 (Art. 66), 64 Stat. 128.  </td>
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/pl/90/632/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs4
 [/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801
-[/us/pl/90/632/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs3%2Fb
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1343
 [/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801
 

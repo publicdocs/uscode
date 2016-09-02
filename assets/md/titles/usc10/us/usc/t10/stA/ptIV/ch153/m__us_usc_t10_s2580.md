@@ -35,7 +35,7 @@
 
     No charge may be imposed by the Secretary of a military department on a donee of property under this section in connection with the donation. However, the donee shall agree to defray any expense for shipping or other transportation of property donated under this section from the location of the property when donated to any other location.
 
-(Added [Pub. L. 105–85, div. A, title X, § 1063(a)][/us/pl/105/85/s1063/a], Nov. 18, 1997, [111 Stat. 1892][/us/stat/111/1892].)
+(Added [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1063(a), Nov. 18, 1997, [111 Stat. 1892][/us/stat/111/1892].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/105/85/s1063/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1063%2Fa
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1892
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 

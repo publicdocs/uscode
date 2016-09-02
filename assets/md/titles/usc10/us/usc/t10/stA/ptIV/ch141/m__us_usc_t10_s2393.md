@@ -39,7 +39,7 @@
 
     (d) The Secretary of Defense shall prescribe in regulations a requirement that each contractor under contract with the Department of Defense shall require each contractor to whom it awards a contract (in this section referred to as a subcontractor) to disclose to the contractor whether the subcontractor is or is not, as of the time of the award of the subcontract, debarred or suspended by the Federal Government from Government contracting or subcontracting. The requirement shall apply to any subcontractor whose subcontract is in an amount greater than the simplified acquisition threshold (as defined in [section 134 of title 41][/us/usc/t41/s134]). The requirement shall not apply in the case of a subcontract for the acquisition of commercial items (as defined in [section 103 of title 41][/us/usc/t41/s103]).
 
-(Added [Pub. L. 97–86, title IX, § 914(a)][/us/pl/97/86/s914/a], Dec. 1, 1981, [95 Stat. 1124][/us/stat/95/1124]; amended [Pub. L. 100–180, div. A, title XII, § 1231(17)][/us/pl/100/180/s1231/17], Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161]; [Pub. L. 101–510, div. A, title VIII, § 813][/us/pl/101/510/s813], Nov. 5, 1990, [104 Stat. 1596][/us/stat/104/1596]; [Pub. L. 102–190, div. A, title X, § 1061(a)(11)][/us/pl/102/190/s1061/a/11], Dec. 5, 1991, [105 Stat. 1473][/us/stat/105/1473]; [Pub. L. 103–355, title IV, § 4102(e)][/us/pl/103/355/s4102/e], title VIII, § 8105(c), Oct. 13, 1994, [108 Stat. 3340][/us/stat/108/3340], 3392; [Pub. L. 111–350, § 5(b)(24)][/us/pl/111/350/s5/b/24], Jan. 4, 2011, [124 Stat. 3844][/us/stat/124/3844]; [Pub. L. 113–66, div. A, title VIII, § 813][/us/pl/113/66/s813], Dec. 26, 2013, [127 Stat. 808][/us/stat/127/808].)
+(Added [Pub. L. 97–86, title IX][/us/pl/97/86/tIX], § 914(a), Dec. 1, 1981, [95 Stat. 1124][/us/stat/95/1124]; amended [Pub. L. 100–180, div. A, title XII][/us/pl/100/180/dA/tXII], § 1231(17), Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161]; [Pub. L. 101–510, div. A, title VIII][/us/pl/101/510/dA/tVIII], § 813, Nov. 5, 1990, [104 Stat. 1596][/us/stat/104/1596]; [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1061(a)(11), Dec. 5, 1991, [105 Stat. 1473][/us/stat/105/1473]; [Pub. L. 103–355, title IV][/us/pl/103/355/tIV], § 4102(e), title VIII, § 8105(c), Oct. 13, 1994, [108 Stat. 3340][/us/stat/108/3340], 3392; [Pub. L. 111–350][/us/pl/111/350], § 5(b)(24), Jan. 4, 2011, [124 Stat. 3844][/us/stat/124/3844]; [Pub. L. 113–66, div. A, title VIII][/us/pl/113/66/dA/tVIII], § 813, Dec. 26, 2013, [127 Stat. 808][/us/stat/127/808].)
 
  __Amendments__ 
 
@@ -68,19 +68,19 @@
 
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
-[/us/pl/97/86/s914/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs914%2Fa
+[/us/pl/97/86/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2FtIX
 [/us/stat/95/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1124
-[/us/pl/100/180/s1231/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1231%2F17
+[/us/pl/100/180/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXII
 [/us/stat/101/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1161
-[/us/pl/101/510/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs813
+[/us/pl/101/510/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVIII
 [/us/stat/104/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1596
-[/us/pl/102/190/s1061/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fa%2F11
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1473
-[/us/pl/103/355/s4102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs4102%2Fe
+[/us/pl/103/355/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtIV
 [/us/stat/108/3340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3340
-[/us/pl/111/350/s5/b/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs5%2Fb%2F24
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3844
-[/us/pl/113/66/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs813
+[/us/pl/113/66/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVIII
 [/us/stat/127/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F808
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350

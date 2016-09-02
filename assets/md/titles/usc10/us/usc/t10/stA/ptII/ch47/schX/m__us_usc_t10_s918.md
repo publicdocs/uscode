@@ -27,7 +27,7 @@
 
     is guilty of murder, and shall suffer such punishment as a court-martial may direct, except that if found guilty under clause (1) or (4), he shall suffer death or imprisonment for life as a court-martial may direct.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 72][/us/stat/70A/72]; [Pub. L. 102–484, div. A, title X, § 1066(b)][/us/pl/102/484/s1066/b], Oct. 23, 1992, [106 Stat. 2506][/us/stat/106/2506]; [Pub. L. 109–163, div. A, title V, § 552(d)][/us/pl/109/163/s552/d], Jan. 6, 2006, [119 Stat. 3263][/us/stat/119/3263]; [Pub. L. 112–81, div. A, title V, § 541(d)(2)][/us/pl/112/81/s541/d/2], Dec. 31, 2011, [125 Stat. 1410][/us/stat/125/1410]; [Pub. L. 113–291, div. A, title V, § 531(d)(2)(B)][/us/pl/113/291/s531/d/2/B], Dec. 19, 2014, [128 Stat. 3364][/us/stat/128/3364].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 72][/us/stat/70A/72]; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1066(b), Oct. 23, 1992, [106 Stat. 2506][/us/stat/106/2506]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 552(d), Jan. 6, 2006, [119 Stat. 3263][/us/stat/119/3263]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 541(d)(2), Dec. 31, 2011, [125 Stat. 1410][/us/stat/125/1410]; [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 531(d)(2)(B), Dec. 19, 2014, [128 Stat. 3364][/us/stat/128/3364].)
 
 <table>
 
@@ -106,13 +106,13 @@ May 5, 1950, ch. 169, § 1 (Art. 118), 64 Stat. 140.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F72
-[/us/pl/102/484/s1066/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1066%2Fb
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2506
-[/us/pl/109/163/s552/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs552%2Fd
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3263
-[/us/pl/112/81/s541/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fd%2F2
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1410
-[/us/pl/113/291/s531/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%2Fd%2F2%2FB
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3364
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81

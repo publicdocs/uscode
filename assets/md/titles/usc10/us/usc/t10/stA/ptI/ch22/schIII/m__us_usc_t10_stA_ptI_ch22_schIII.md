@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    2001—[Pub. L. 107–108, title V, § 504(b)][/us/pl/107/108/s504/b], Dec. 28, 2001, [115 Stat. 1406][/us/stat/115/1406], added item 462.
+    2001—[Pub. L. 107–108, title V][/us/pl/107/108/tV], § 504(b), Dec. 28, 2001, [115 Stat. 1406][/us/stat/115/1406], added item 462.
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/107/108/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs504%2Fb
+[/us/pl/107/108/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2FtV
 [/us/stat/115/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1406
 
 

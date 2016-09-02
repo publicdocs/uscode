@@ -21,7 +21,7 @@
 
     (c) The Secretary of the Navy may prescribe regulations stating the conditions under which the ration shall be allowed under subsection (b).
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 379][/us/stat/70A/379]; [Pub. L. 87–649, § 5(c)][/us/pl/87/649/s5/c], Sept. 7, 1962, [76 Stat. 494][/us/stat/76/494]; [Pub. L. 105–85, div. A, title VI, § 602(b)(2)][/us/pl/105/85/s602/b/2], Nov. 18, 1997, [111 Stat. 1772][/us/stat/111/1772].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 379][/us/stat/70A/379]; [Pub. L. 87–649][/us/pl/87/649], § 5(c), Sept. 7, 1962, [76 Stat. 494][/us/stat/76/494]; [Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 602(b)(2), Nov. 18, 1997, [111 Stat. 1772][/us/stat/111/1772].)
 
 <table>
 
@@ -116,9 +116,9 @@ Aug. 2, 1946, ch. 756, § 40(b), 60 Stat. 858.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F379
-[/us/pl/87/649/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs5%2Fc
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F494
-[/us/pl/105/85/s602/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs602%2Fb%2F2
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1772
 [/us/usc/t34/s901a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs901a
 [/us/usc/t37/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs251

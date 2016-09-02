@@ -19,7 +19,7 @@
 
     (b) All rules and regulations made under this article shall be uniform insofar as practicable, except insofar as applicable to military commissions established under chapter 47A of this title.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 50][/us/stat/70A/50]; [Pub. L. 96–107, title VIII, § 801(b)][/us/pl/96/107/s801/b], Nov. 9, 1979, [93 Stat. 811][/us/stat/93/811]; [Pub. L. 101–510, div. A, title XIII, § 1301(4)][/us/pl/101/510/s1301/4], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 109–366, § 4(a)(3)][/us/pl/109/366/s4/a/3], Oct. 17, 2006, [120 Stat. 2631][/us/stat/120/2631].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 50][/us/stat/70A/50]; [Pub. L. 96–107, title VIII][/us/pl/96/107/tVIII], § 801(b), Nov. 9, 1979, [93 Stat. 811][/us/stat/93/811]; [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1301(4), Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 109–366][/us/pl/109/366], § 4(a)(3), Oct. 17, 2006, [120 Stat. 2631][/us/stat/120/2631].)
 
 <table>
 
@@ -75,9 +75,9 @@ May 5, 1950, ch. 169, § 1 (Art. 36), 64 Stat. 120.  </td>
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–366, § 4(a)(3)(A)][/us/pl/109/366/s4/a/3/A], inserted “, except as provided in chapter 47A of this title,” after “but which may not”.
+    2006—Subsec. (a). [Pub. L. 109–366][/us/pl/109/366], § 4(a)(3)(A), inserted “, except as provided in chapter 47A of this title,” after “but which may not”.
 
-    Subsec. (b). [Pub. L. 109–366, § 4(a)(3)(B)][/us/pl/109/366/s4/a/3/B], inserted before period at end “, except insofar as applicable to military commissions established under chapter 47A of this title”.
+    Subsec. (b). [Pub. L. 109–366][/us/pl/109/366], § 4(a)(3)(B), inserted before period at end “, except insofar as applicable to military commissions established under chapter 47A of this title”.
 
     1990—Subsec. (b). [Pub. L. 101–510][/us/pl/101/510] struck out “and shall be reported to Congress” after “as practicable”.
 
@@ -92,14 +92,14 @@ May 5, 1950, ch. 169, § 1 (Art. 36), 64 Stat. 120.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F50
-[/us/pl/96/107/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs801%2Fb
+[/us/pl/96/107/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2FtVIII
 [/us/stat/93/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F811
-[/us/pl/101/510/s1301/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1301%2F4
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1668
-[/us/pl/109/366/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs4%2Fa%2F3
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/stat/120/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2631
-[/us/pl/109/366/s4/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs4%2Fa%2F3%2FA
-[/us/pl/109/366/s4/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs4%2Fa%2F3%2FB
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/96/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107
 

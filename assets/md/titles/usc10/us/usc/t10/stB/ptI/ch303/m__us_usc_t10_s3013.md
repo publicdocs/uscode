@@ -83,11 +83,11 @@
 
         (3) prescribe regulations to carry out his functions, powers, and duties under this title.
 
-(Added [Pub. L. 99–433, title V, § 501(a)(5)][/us/pl/99/433/s501/a/5], Oct. 1, 1986, [100 Stat. 1035][/us/stat/100/1035]; amended [Pub. L. 99–661, div. A, title V, § 534][/us/pl/99/661/s534], Nov. 14, 1986, [100 Stat. 3873][/us/stat/100/3873]; [Pub. L. 108–136, div. A, title IX, § 901][/us/pl/108/136/s901], Nov. 24, 2003, [117 Stat. 1558][/us/stat/117/1558].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 501(a)(5), Oct. 1, 1986, [100 Stat. 1035][/us/stat/100/1035]; amended [Pub. L. 99–661, div. A, title V][/us/pl/99/661/dA/tV], § 534, Nov. 14, 1986, [100 Stat. 3873][/us/stat/100/3873]; [Pub. L. 108–136, div. A, title IX][/us/pl/108/136/dA/tIX], § 901, Nov. 24, 2003, [117 Stat. 1558][/us/stat/117/1558].)
 
  __Prior Provisions__ 
 
-    A prior section 3013, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 157][/us/stat/70A/157], § 3012; Sept. 2, 1958, [Pub. L. 85–861, § 1(57)][/us/pl/85/861/s1/57], [72 Stat. 1462][/us/stat/72/1462]; Sept. 7, 1962, [Pub. L. 87–651, title II, § 211][/us/pl/87/651/s211], [76 Stat. 524][/us/stat/76/524]; Aug. 14, 1964, [Pub. L. 88–426, title III][/us/pl/88/426], §§ 305(2), 306(j)(1), [78 Stat. 422][/us/stat/78/422], 431; Nov. 2, 1966, [Pub. L. 89–718, § 22][/us/pl/89/718/s22], [80 Stat. 1118][/us/stat/80/1118]; renumbered § 3013, Oct. 1, 1986, [Pub. L. 99–433, title V, § 501(a)(2)][/us/pl/99/433/s501/a/2], [100 Stat. 1034][/us/stat/100/1034], related to Secretary of the Army, powers and duties, and delegations, prior to repeal by [Pub. L. 99–433, § 501(a)(5)][/us/pl/99/433/s501/a/5].
+    A prior section 3013, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 157][/us/stat/70A/157], § 3012; Sept. 2, 1958, [Pub. L. 85–861][/us/pl/85/861], § 1(57), [72 Stat. 1462][/us/stat/72/1462]; Sept. 7, 1962, [Pub. L. 87–651, title II][/us/pl/87/651/tII], § 211, [76 Stat. 524][/us/stat/76/524]; Aug. 14, 1964, [Pub. L. 88–426, title III][/us/pl/88/426/tIII], §§ 305(2), 306(j)(1), [78 Stat. 422][/us/stat/78/422], 431; Nov. 2, 1966, [Pub. L. 89–718][/us/pl/89/718], § 22, [80 Stat. 1118][/us/stat/80/1118]; renumbered § 3013, Oct. 1, 1986, [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 501(a)(2), [100 Stat. 1034][/us/stat/100/1034], related to Secretary of the Army, powers and duties, and delegations, prior to repeal by [Pub. L. 99–433][/us/pl/99/433], § 501(a)(5).
 
     Another prior section 3013 was renumbered [section 3014 of this title][/us/usc/t10/s3014] and subsequently repealed.
 
@@ -99,7 +99,7 @@
 
  __Pilot Program for the Human Terrain System__ 
 
-[Pub. L. 113–291, div. A, title X, § 1075][/us/pl/113/291/s1075], Dec. 19, 2014, [128 Stat. 3519][/us/stat/128/3519], provided that:
+[Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1075, Dec. 19, 2014, [128 Stat. 3519][/us/stat/128/3519], provided that:
 
 >     “(a)  __Pilot Program Required__  __.—__ 
 
@@ -121,7 +121,7 @@
 
  __Expansion of First Sergeants Barracks Initiative__ 
 
-[Pub. L. 111–84, div. B, title XXVIII, § 2807][/us/pl/111/84/s2807], Oct. 28, 2009, [123 Stat. 2663][/us/stat/123/2663], provided that:
+[Pub. L. 111–84, div. B, title XXVIII][/us/pl/111/84/dB/tXXVIII], § 2807, Oct. 28, 2009, [123 Stat. 2663][/us/stat/123/2663], provided that:
 
 >     “(a)  __Expansion of Initiative__  __.—__ 
 
@@ -133,13 +133,13 @@
 
  __Selection of Military Installations To Serve as Locations of Brigade Combat Teams__ 
 
-[Pub. L. 111–84, div. B, title XXVIII, § 2825][/us/pl/111/84/s2825], Oct. 28, 2009, [123 Stat. 2668][/us/stat/123/2668], provided that: 
+[Pub. L. 111–84, div. B, title XXVIII][/us/pl/111/84/dB/tXXVIII], § 2825, Oct. 28, 2009, [123 Stat. 2668][/us/stat/123/2668], provided that: 
 
 > “In selecting the military installations at which brigade combat teams will be stationed, the Secretary of the Army shall take into consideration the availability and proximity of training spaces for the units and the capacity of the installations to support the units.”
 
  __Army Training Strategy for Brigade-Based Combat Teams and Functional Supporting Brigades__ 
 
-[Pub. L. 109–163, div. A, title III, § 353][/us/pl/109/163/s353], Jan. 6, 2006, [119 Stat. 3203][/us/stat/119/3203], provided that:
+[Pub. L. 109–163, div. A, title III][/us/pl/109/163/dA/tIII], § 353, Jan. 6, 2006, [119 Stat. 3203][/us/stat/119/3203], provided that:
 
 >     “(a) __Training Strategy.—__ 
 
@@ -195,13 +195,13 @@
 
  __Army Transformation to Brigade Structure__ 
 
-[Pub. L. 108–375, div. A, title V, § 595(c)][/us/pl/108/375/s595/c], Oct. 28, 2004, [118 Stat. 1937][/us/stat/118/1937], provided that: 
+[Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 595(c), Oct. 28, 2004, [118 Stat. 1937][/us/stat/118/1937], provided that: 
 
 > “The Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an annual report on the status of the internal transformation of the Army from a division-orientated force to a brigade-orientated force. Such report shall be submitted not later than March 31 of each year, except that the requirement to submit such annual report shall terminate when the Secretary of the Army submits to those committees the Secretary’s certification that the transformation of the Army to a brigade-orientated force has been completed. Upon the submission of such certification, the Secretary shall publish in the Federal Register notice of that certification and that the statutory requirement to submit an annual report under this subsection has terminated.”
 
  __Demonstration Project for Use of Army Installations To Provide Prerelease Employment Training to Nonviolent Offenders in State Penal Systems__ 
 
-[Pub. L. 103–337, div. A, title X, § 1065][/us/pl/103/337/s1065], Oct. 5, 1994, [108 Stat. 2849][/us/stat/108/2849], provided that:
+[Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1065, Oct. 5, 1994, [108 Stat. 2849][/us/stat/108/2849], provided that:
 
 >     “(a)  __Demonstration Project Authorized__  __.—__ 
 
@@ -252,40 +252,40 @@
 ----------
 ----------
 
-[/us/pl/99/433/s501/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs501%2Fa%2F5
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1035
-[/us/pl/99/661/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs534
+[/us/pl/99/661/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtV
 [/us/stat/100/3873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3873
-[/us/pl/108/136/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs901
+[/us/pl/108/136/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIX
 [/us/stat/117/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1558
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F157
-[/us/pl/85/861/s1/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F57
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1462
-[/us/pl/87/651/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs211
+[/us/pl/87/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtII
 [/us/stat/76/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F524
-[/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F422
-[/us/pl/89/718/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs22
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1118
-[/us/pl/99/433/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs501%2Fa%2F2
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1034
-[/us/pl/99/433/s501/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs501%2Fa%2F5
+[/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/usc/t10/s3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3014
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
-[/us/pl/113/291/s1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1075
+[/us/pl/113/291/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtX
 [/us/stat/128/3519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3519
-[/us/pl/111/84/s2807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2807
+[/us/pl/111/84/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdB%2FtXXVIII
 [/us/stat/123/2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2663
-[/us/pl/111/84/s2825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2825
+[/us/pl/111/84/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdB%2FtXXVIII
 [/us/stat/123/2668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2668
-[/us/pl/109/163/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs353
+[/us/pl/109/163/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIII
 [/us/stat/119/3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3203
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
-[/us/pl/108/375/s595/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs595%2Fc
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1937
-[/us/pl/103/337/s1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1065
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2849
 [/us/usc/t10/s2667/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2667%2Fb%2F4
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342

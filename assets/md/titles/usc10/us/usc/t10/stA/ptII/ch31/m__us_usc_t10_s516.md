@@ -19,7 +19,7 @@
 
     (b) If a person covered by subsection (a) is separated from service as a cadet or midshipman, or from service as a midshipman in the Navy Reserve, for any reason other than his appointment as a commissioned officer of a regular or reserve component of an armed force or because of a physical disability, he resumes his enlisted status and shall complete the period of service for which he was enlisted or for which he has an obligation, unless he is sooner discharged. In computing the unexpired part of an enlistment or period of obligated service for the purposes of this subsection, all service as a cadet or midshipman is counted as service under that enlistment or period of obligated service.
 
-(Added [Pub. L. 85–861, § 1(9)(A)][/us/pl/85/861/s1/9/A], Sept. 2, 1958, [72 Stat. 1439][/us/stat/72/1439]; amended [Pub. L. 109–163, div. A, title V, § 515(b)(1)(B)][/us/pl/109/163/s515/b/1/B], Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 1(9)(A), Sept. 2, 1958, [72 Stat. 1439][/us/stat/72/1439]; amended [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(b)(1)(B), Jan. 6, 2006, [119 Stat. 3233][/us/stat/119/3233].)
 
 <table>
 
@@ -88,9 +88,9 @@ June 25, 1956, ch. 439, §§ 1, 2, 70 Stat. 333.  </td>
 ----------
 ----------
 
-[/us/pl/85/861/s1/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F9%2FA
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1439
-[/us/pl/109/163/s515/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F1%2FB
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3233
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

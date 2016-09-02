@@ -99,9 +99,9 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–364, div. A, title V, § 547(d)(1)][/us/pl/109/364/s547/d/1], Oct. 17, 2006, [120 Stat. 2216][/us/stat/120/2216], added item 613a.
+    2006—[Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 547(d)(1), Oct. 17, 2006, [120 Stat. 2216][/us/stat/120/2216], added item 613a.
 
-    1991—[Pub. L. 102–190, div. A, title V, § 504(a)(2)(B)][/us/pl/102/190/s504/a/2/B], Dec. 5, 1991, [105 Stat. 1357][/us/stat/105/1357], struck out “; communications with boards” after “selection boards” in item 614.
+    1991—[Pub. L. 102–190, div. A, title V][/us/pl/102/190/dA/tV], § 504(a)(2)(B), Dec. 5, 1991, [105 Stat. 1357][/us/stat/105/1357], struck out “; communications with boards” after “selection boards” in item 614.
 
 ----------
 
@@ -110,9 +110,9 @@
 ----------
 ----------
 
-[/us/pl/109/364/s547/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs547%2Fd%2F1
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2216
-[/us/pl/102/190/s504/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs504%2Fa%2F2%2FB
+[/us/pl/102/190/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtV
 [/us/stat/105/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1357
 
 

@@ -39,7 +39,7 @@
 
         (3) The Secretary of Defense shall prescribe regulations describing the manner in which an alternative obligation may be given under this subsection.
 
-(Added [Pub. L. 92–426, § 2(a)][/us/pl/92/426/s2/a], Sept. 21, 1972, [86 Stat. 718][/us/stat/86/718]; amended [Pub. L. 96–513, title V, § 511(67)][/us/pl/96/513/s511/67], Dec. 12, 1980, [94 Stat. 2926][/us/stat/94/2926]; [Pub. L. 100–180, div. A, title VII, § 711(a)(2)][/us/pl/100/180/s711/a/2], Dec. 4, 1987, [101 Stat. 1108][/us/stat/101/1108]; [Pub. L. 101–597, title IV, § 401(b)][/us/pl/101/597/s401/b], Nov. 16, 1990, [104 Stat. 3035][/us/stat/104/3035]; [Pub. L. 104–201, div. A, title VII, § 741(a)][/us/pl/104/201/s741/a], Sept. 23, 1996, [110 Stat. 2599][/us/stat/110/2599]; [Pub. L. 109–163, div. A, title VI, § 687(c)(5)][/us/pl/109/163/s687/c/5], Jan. 6, 2006, [119 Stat. 3334][/us/stat/119/3334].)
+(Added [Pub. L. 92–426][/us/pl/92/426], § 2(a), Sept. 21, 1972, [86 Stat. 718][/us/stat/86/718]; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 511(67), Dec. 12, 1980, [94 Stat. 2926][/us/stat/94/2926]; [Pub. L. 100–180, div. A, title VII][/us/pl/100/180/dA/tVII], § 711(a)(2), Dec. 4, 1987, [101 Stat. 1108][/us/stat/101/1108]; [Pub. L. 101–597, title IV][/us/pl/101/597/tIV], § 401(b), Nov. 16, 1990, [104 Stat. 3035][/us/stat/104/3035]; [Pub. L. 104–201, div. A, title VII][/us/pl/104/201/dA/tVII], § 741(a), Sept. 23, 1996, [110 Stat. 2599][/us/stat/110/2599]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 687(c)(5), Jan. 6, 2006, [119 Stat. 3334][/us/stat/119/3334].)
 
  __Amendments__ 
 
@@ -67,7 +67,7 @@
 
  __Transition Provisions__ 
 
-[Pub. L. 104–201, div. A, title VII, § 741(d)(1)][/us/pl/104/201/s741/d/1], Sept. 23, 1996, [110 Stat. 2600][/us/stat/110/2600], provided that: 
+[Pub. L. 104–201, div. A, title VII][/us/pl/104/201/dA/tVII], § 741(d)(1), Sept. 23, 1996, [110 Stat. 2600][/us/stat/110/2600], provided that: 
 
 > “In the case of any member of the Armed Forces Health Professions Scholarship and Financial Assistance program who, as of October 1, 1996, is serving an active duty obligation under the program or is incurring an active duty obligation as a participant in the program, and who is subsequently relieved of the active duty obligation before the completion of the obligation, the alternative obligations authorized by the amendment made by subsection (a) \[amending this section\] may be used by the Secretary of the military department concerned with the agreement of the member.”
 
@@ -79,17 +79,17 @@
 ----------
 
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/92/426/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F426%2Fs2%2Fa
+[/us/pl/92/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F426
 [/us/stat/86/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F718
-[/us/pl/96/513/s511/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs511%2F67
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2926
-[/us/pl/100/180/s711/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs711%2Fa%2F2
+[/us/pl/100/180/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVII
 [/us/stat/101/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1108
-[/us/pl/101/597/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2Fs401%2Fb
+[/us/pl/101/597/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F597%2FtIV
 [/us/stat/104/3035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3035
-[/us/pl/104/201/s741/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs741%2Fa
+[/us/pl/104/201/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVII
 [/us/stat/110/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2599
-[/us/pl/109/163/s687/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fc%2F5
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3334
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
@@ -106,7 +106,7 @@
 [/us/pl/109/163/s687/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fc
 [/us/pl/109/163/s687/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Ff
 [/us/usc/t10/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs510
-[/us/pl/104/201/s741/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs741%2Fd%2F1
+[/us/pl/104/201/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVII
 [/us/stat/110/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2600
 
 

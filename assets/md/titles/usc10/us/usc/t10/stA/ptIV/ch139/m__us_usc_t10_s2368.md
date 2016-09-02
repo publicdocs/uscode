@@ -133,11 +133,11 @@
 
         (3) The term “science and technology reinvention laboratory” means a science and technology reinvention laboratory designated under section 1105 of the National Defense Authorization Act for Fiscal Year 2010 ([Public Law 111–84][/us/pl/111/84]; [10 U.S.C. 2358][/us/usc/t10/s2358] note).
 
-(Added [Pub. L. 114–92, div. A, title II, § 211(a)][/us/pl/114/92/s211/a], Nov. 25, 2015, [129 Stat. 764][/us/stat/129/764].)
+(Added [Pub. L. 114–92, div. A, title II][/us/pl/114/92/dA/tII], § 211(a), Nov. 25, 2015, [129 Stat. 764][/us/stat/129/764].)
 
  __Prior Provisions__ 
 
-    A prior section 2368, added [Pub. L. 100–456, div. A, title VIII, § 823(a)(1)][/us/pl/100/456/s823/a/1], Sept. 29, 1988, [102 Stat. 2018][/us/stat/102/2018]; amended [Pub. L. 101–189, div. A, title VIII, § 841(c)(1)][/us/pl/101/189/s841/c/1], Nov. 29, 1989, [103 Stat. 1514][/us/stat/103/1514]; [Pub. L. 102–25, title VII, § 701(g)(1)][/us/pl/102/25/s701/g/1], Apr. 6, 1991, [105 Stat. 115][/us/stat/105/115], which authorized studies in fields of research and development essential to development of critical technologies, was repealed by [Pub. L. 102–190, div. A, title VIII, § 821(c)(1)][/us/pl/102/190/s821/c/1], Dec. 5, 1991, [105 Stat. 1431][/us/stat/105/1431].
+    A prior section 2368, added [Pub. L. 100–456, div. A, title VIII][/us/pl/100/456/dA/tVIII], § 823(a)(1), Sept. 29, 1988, [102 Stat. 2018][/us/stat/102/2018]; amended [Pub. L. 101–189, div. A, title VIII][/us/pl/101/189/dA/tVIII], § 841(c)(1), Nov. 29, 1989, [103 Stat. 1514][/us/stat/103/1514]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 701(g)(1), Apr. 6, 1991, [105 Stat. 115][/us/stat/105/115], which authorized studies in fields of research and development essential to development of critical technologies, was repealed by [Pub. L. 102–190, div. A, title VIII][/us/pl/102/190/dA/tVIII], § 821(c)(1), Dec. 5, 1991, [105 Stat. 1431][/us/stat/105/1431].
 
 ----------
 
@@ -154,15 +154,15 @@
 [/us/usc/t10/s2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2500
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/usc/t10/s2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2358
-[/us/pl/114/92/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs211%2Fa
+[/us/pl/114/92/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtII
 [/us/stat/129/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F764
-[/us/pl/100/456/s823/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs823%2Fa%2F1
+[/us/pl/100/456/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVIII
 [/us/stat/102/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2018
-[/us/pl/101/189/s841/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs841%2Fc%2F1
+[/us/pl/101/189/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVIII
 [/us/stat/103/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1514
-[/us/pl/102/25/s701/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Fg%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F115
-[/us/pl/102/190/s821/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs821%2Fc%2F1
+[/us/pl/102/190/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVIII
 [/us/stat/105/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1431
 
 

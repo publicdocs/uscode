@@ -27,11 +27,11 @@
 
     (5) payments of mortgage insurance premiums authorized under section 222  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the National Housing Act ([12 U.S.C. 1715m][/us/usc/t12/s1715m]).
 
-(Added [Pub. L. 99–167, title VIII, § 804(b)(1)][/us/pl/99/167/s804/b/1], Dec. 3, 1985, [99 Stat. 987][/us/stat/99/987].)
+(Added [Pub. L. 99–167, title VIII][/us/pl/99/167/tVIII], § 804(b)(1), Dec. 3, 1985, [99 Stat. 987][/us/stat/99/987].)
 
  __References in Text__ 
 
-    Section 222 of the National Housing Act ([12 U.S.C. 1715m][/us/usc/t12/s1715m]), referred to in par. (5), was repealed by [Pub. L. 110–289, div. B, title I, § 2120(a)(5)][/us/pl/110/289/s2120/a/5], July 30, 2008, [122 Stat. 2835][/us/stat/122/2835].
+    Section 222 of the National Housing Act ([12 U.S.C. 1715m][/us/usc/t12/s1715m]), referred to in par. (5), was repealed by [Pub. L. 110–289, div. B, title I][/us/pl/110/289/dB/tI], § 2120(a)(5), July 30, 2008, [122 Stat. 2835][/us/stat/122/2835].
 
 ----------
 
@@ -41,10 +41,10 @@
 ----------
 
 [/us/usc/t12/s1715m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715m
-[/us/pl/99/167/s804/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167%2Fs804%2Fb%2F1
+[/us/pl/99/167/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167%2FtVIII
 [/us/stat/99/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F987
 [/us/usc/t12/s1715m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715m
-[/us/pl/110/289/s2120/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2120%2Fa%2F5
+[/us/pl/110/289/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtI
 [/us/stat/122/2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2835
 
 

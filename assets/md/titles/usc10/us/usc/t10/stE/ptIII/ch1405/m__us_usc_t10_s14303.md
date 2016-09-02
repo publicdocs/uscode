@@ -41,7 +41,7 @@
 
     Subject to [section 14307(b) of this title][/us/usc/t10/s14307/b], the Secretary of the military department concerned may waive subsection (b) to the extent necessary to ensure that officers described in paragraph (1) of that subsection have at least two opportunities for consideration for promotion to the next higher grade as officers below the promotion zone.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2933][/us/stat/108/2933].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2933][/us/stat/108/2933].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t10/s14307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14307%2Fb
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2933
 
 

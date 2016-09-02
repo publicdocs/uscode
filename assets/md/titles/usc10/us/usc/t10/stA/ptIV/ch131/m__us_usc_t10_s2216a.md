@@ -59,7 +59,7 @@
 
     The authority to make expenditures or transfers from the Fund shall expire on September 30, 2018.
 
-(Added [Pub. L. 112–81, div. A, title VIII, § 846(a)(1)][/us/pl/112/81/s846/a/1], Dec. 31, 2011, [125 Stat. 1516][/us/stat/125/1516]; amended [Pub. L. 112–239, div. A, title X, § 1076(e)(2)][/us/pl/112/239/s1076/e/2], Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951]; [Pub. L. 113–291, div. A, title VIII, § 860][/us/pl/113/291/s860], Dec. 19, 2014, [128 Stat. 3461][/us/stat/128/3461].)
+(Added [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 846(a)(1), Dec. 31, 2011, [125 Stat. 1516][/us/stat/125/1516]; amended [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(e)(2), Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951]; [Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 860, Dec. 19, 2014, [128 Stat. 3461][/us/stat/128/3461].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2216a, added [Pub. L. 104–106, div. A, title III, § 371(a)(1)][/us/pl/104/106/s371/a/1], Feb. 10, 1996, [110 Stat. 277][/us/stat/110/277], § 2216; renumbered § 2216a and amended [Pub. L. 104–201, div. A, title III][/us/pl/104/201], §§ 363(c), 364, title X, § 1074(a)(10), Sept. 23, 1996, [110 Stat. 2493][/us/stat/110/2493], 2494, 2659, related to Defense Business Operations Fund, prior to repeal by [Pub. L. 105–261, div. A, title X, § 1008(b)][/us/pl/105/261/s1008/b], Oct. 17, 1998, [112 Stat. 2117][/us/stat/112/2117].
+    A prior section 2216a, added [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 371(a)(1), Feb. 10, 1996, [110 Stat. 277][/us/stat/110/277], § 2216; renumbered § 2216a and amended [Pub. L. 104–201, div. A, title III][/us/pl/104/201/dA/tIII], §§ 363(c), 364, title X, § 1074(a)(10), Sept. 23, 1996, [110 Stat. 2493][/us/stat/110/2493], 2494, 2659, related to Defense Business Operations Fund, prior to repeal by [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1008(b), Oct. 17, 1998, [112 Stat. 2117][/us/stat/112/2117].
 
  __Amendments__ 
 
@@ -77,7 +77,7 @@
 
  __Limitation on Commencement of Expenditures From Fund__ 
 
-[Pub. L. 112–81, div. A, title VIII, § 846(b)][/us/pl/112/81/s846/b], Dec. 31, 2011, [125 Stat. 1517][/us/stat/125/1517], provided that: 
+[Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 846(b), Dec. 31, 2011, [125 Stat. 1517][/us/stat/125/1517], provided that: 
 
 > “No expenditure may be made from the Joint Urgent Operational Needs Fund established by [section 2216a of title 10][/us/usc/t10/s2216a], United States Code (as added by subsection (a)), until the Secretary of Defense certifies to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that the Secretary has developed and implemented an expedited review process in compliance with the requirements of section 804 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 ([Public Law 111–383][/us/pl/111/383]; [124 Stat. 4256][/us/stat/124/4256]; [10 U.S.C. 2302][/us/usc/t10/s2302] note).”
 
@@ -89,23 +89,23 @@
 ----------
 
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/112/81/s846/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs846%2Fa%2F1
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1516
-[/us/pl/112/239/s1076/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fe%2F2
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1951
-[/us/pl/113/291/s860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs860
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3461
 [/us/pl/111/383/s804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs804%2Fb
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/104/106/s371/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs371%2Fa%2F1
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F277
-[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtIII
 [/us/stat/110/2493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2493
-[/us/pl/105/261/s1008/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1008%2Fb
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2117
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/112/81/s846/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs846%2Fb
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1517
 [/us/usc/t10/s2216a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2216a
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

@@ -21,7 +21,7 @@
 
     (2) required by law in connection with such an enlistment or appointment.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 80][/us/stat/70A/80]; [Pub. L. 109–364, div. A, title V, § 595(b)][/us/pl/109/364/s595/b], Oct. 17, 2006, [120 Stat. 2235][/us/stat/120/2235].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 80][/us/stat/70A/80]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 595(b), Oct. 17, 2006, [120 Stat. 2235][/us/stat/120/2235].)
 
 <table>
 
@@ -84,7 +84,7 @@ May 22, 1950, ch. 193, § 1, 64 Stat. 187.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F80
-[/us/pl/109/364/s595/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs595%2Fb
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2235
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 

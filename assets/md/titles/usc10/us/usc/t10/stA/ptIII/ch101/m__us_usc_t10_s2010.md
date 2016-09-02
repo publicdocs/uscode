@@ -29,7 +29,7 @@
 
     (d) In this section, the term “incremental expenses” means the reasonable and proper cost of the goods and services that are consumed by a developing country as a direct result of that country’s participation in a bilateral or multilateral military exercise with the United States, including rations, fuel, training ammunition, and transportation. Such term does not include pay, allowances, and other normal costs of such country’s personnel.
 
-(Added [Pub. L. 99–661, div. A, title XIII, § 1321(a)(1)][/us/pl/99/661/s1321/a/1], Nov. 14, 1986, [100 Stat. 3988][/us/stat/100/3988]; amended [Pub. L. 105–85, div. A, title X, § 1073(a)(35)][/us/pl/105/85/s1073/a/35], Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XII, § 1203(a), Oct. 14, 2008, [122 Stat. 4622][/us/stat/122/4622]; [Pub. L. 112–81, div. A, title X, § 1061(12)][/us/pl/112/81/s1061/12], Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583].)
+(Added [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1321(a)(1), Nov. 14, 1986, [100 Stat. 3988][/us/stat/100/3988]; amended [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(a)(35), Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XII, § 1203(a), Oct. 14, 2008, [122 Stat. 4622][/us/stat/122/4622]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1061(12), Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583].)
 
  __Amendments__ 
 
@@ -56,13 +56,13 @@
 ----------
 ----------
 
-[/us/pl/99/661/s1321/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1321%2Fa%2F1
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3988
-[/us/pl/105/85/s1073/a/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F35
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1902
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4622
-[/us/pl/112/81/s1061/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F12
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1583
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417

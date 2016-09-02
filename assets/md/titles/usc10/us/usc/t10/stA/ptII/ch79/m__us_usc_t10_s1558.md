@@ -141,7 +141,7 @@
 
         (2) the authority of the Secretary of a military department to correct a military record under [section 1552 of this title][/us/usc/t10/s1552].
 
-(Added [Pub. L. 107–107, div. A, title V, § 503(a)(1)][/us/pl/107/107/s503/a/1], Dec. 28, 2001, [115 Stat. 1080][/us/stat/115/1080].)
+(Added [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 503(a)(1), Dec. 28, 2001, [115 Stat. 1080][/us/stat/115/1080].)
 
  __Effective Date__ 
 
@@ -158,7 +158,7 @@
 [/us/usc/t10/s628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs628
 [/us/usc/t10/s1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1552
 [/us/usc/t10/s1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1552
-[/us/pl/107/107/s503/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs503%2Fa%2F1
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1080
 [/us/pl/107/107/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs503%2Fc
 [/us/usc/t10/s628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs628

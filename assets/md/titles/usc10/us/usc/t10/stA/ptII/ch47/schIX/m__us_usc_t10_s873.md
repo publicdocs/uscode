@@ -17,7 +17,7 @@
 
     At any time within two years after approval by the convening authority of a court-martial sentence, the accused may petition the Judge Advocate General for a new trial on the grounds of newly discovered evidence or fraud on the court. If the accused’s case is pending before a Court of Criminal Appeals or before the Court of Appeals for the Armed Forces, the Judge Advocate General shall refer the petition to the appropriate court for action. Otherwise the Judge Advocate General shall act upon the petition.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 63][/us/stat/70A/63]; [Pub. L. 90–632, § 2(33)][/us/pl/90/632/s2/33], Oct. 24, 1968, [82 Stat. 1342][/us/stat/82/1342]; [Pub. L. 103–337, div. A, title IX, § 924(c)(1)][/us/pl/103/337/s924/c/1], (2), Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 63][/us/stat/70A/63]; [Pub. L. 90–632][/us/pl/90/632], § 2(33), Oct. 24, 1968, [82 Stat. 1342][/us/stat/82/1342]; [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(c)(1), (2), Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831].)
 
 <table>
 
@@ -84,9 +84,9 @@ May 5, 1950, ch. 169, § 1 (Art. 73), 64 Stat. 132.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F63
-[/us/pl/90/632/s2/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632%2Fs2%2F33
+[/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
 [/us/stat/82/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1342
-[/us/pl/103/337/s924/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fc%2F1
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2831
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632

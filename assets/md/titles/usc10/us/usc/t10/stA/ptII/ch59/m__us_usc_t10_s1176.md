@@ -39,7 +39,7 @@
 
             (B) the second anniversary of the date on which the member would otherwise be discharged or transferred from an active status.
 
-(Added [Pub. L. 102–484, div. A, title V, § 541(a)][/us/pl/102/484/s541/a], Oct. 23, 1992, [106 Stat. 2412][/us/stat/106/2412]; amended [Pub. L. 103–160, div. A, title V, § 562(a)][/us/pl/103/160/s562/a], Nov. 30, 1993, [107 Stat. 1669][/us/stat/107/1669]; [Pub. L. 104–106, div. A, title XV, § 1501(c)(12)][/us/pl/104/106/s1501/c/12], Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499].)
+(Added [Pub. L. 102–484, div. A, title V][/us/pl/102/484/dA/tV], § 541(a), Oct. 23, 1992, [106 Stat. 2412][/us/stat/106/2412]; amended [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 562(a), Nov. 30, 1993, [107 Stat. 1669][/us/stat/107/1669]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(c)(12), Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499].)
 
  __Amendments__ 
 
@@ -49,11 +49,11 @@
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–106, div. A, title XV, § 1501(c)][/us/pl/104/106/s1501/c], Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498], provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as originally enacted.
+    [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(c), Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498], provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of [Pub. L. 103–337][/us/pl/103/337], as originally enacted.
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–160, div. A, title V, § 562(b)][/us/pl/103/160/s562/b], Nov. 30, 1993, [107 Stat. 1669][/us/stat/107/1669], provided that: 
+[Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 562(b), Nov. 30, 1993, [107 Stat. 1669][/us/stat/107/1669], provided that: 
 
 > “Subsection (b) of [section 1176 of title 10][/us/usc/t10/s1176], United States Code, as added by subsection (a), shall take effect as of October 23, 1992.”
 
@@ -70,19 +70,19 @@
 [/us/usc/t10/s12732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12732
 [/us/usc/t10/s12732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12732
 [/us/usc/t10/s12732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12732
-[/us/pl/102/484/s541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs541%2Fa
+[/us/pl/102/484/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtV
 [/us/stat/106/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2412
-[/us/pl/103/160/s562/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs562%2Fa
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1669
-[/us/pl/104/106/s1501/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc%2F12
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F499
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/usc/t10/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1332
-[/us/pl/104/106/s1501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F498
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
-[/us/pl/103/160/s562/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs562%2Fb
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1669
 [/us/usc/t10/s1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1176
 

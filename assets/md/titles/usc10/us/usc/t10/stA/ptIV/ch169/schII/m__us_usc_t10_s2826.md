@@ -25,15 +25,15 @@
 
         (2) In this subsection, the term “net floor area”, in the case of a military family housing unit, means the total number of square feet of the floor space inside the exterior walls of the unit, excluding the floor area of an unfinished basement, an unfinished attic, a utility space, a garage, a carport, an open or insect-screened porch, a stairwell, and any space used for a solar-energy system.
 
-(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 159][/us/stat/96/159]; amended [Pub. L. 100–26, § 7(k)(3)][/us/pl/100/26/s7/k/3], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 102–190, div. B, title XXVIII, § 2808][/us/pl/102/190/s2808], Dec. 5, 1991, [105 Stat. 1540][/us/stat/105/1540]; [Pub. L. 104–106, div. B, title XXVIII][/us/pl/104/106], §§ 2814, 2815, Feb. 10, 1996, [110 Stat. 553][/us/stat/110/553]; [Pub. L. 104–201, div. A, title X, § 1074(a)(17)][/us/pl/104/201/s1074/a/17], Sept. 23, 1996, [110 Stat. 2659][/us/stat/110/2659]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. B, title XXVIII, § 2803(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–413.)
+(Added [Pub. L. 97–214][/us/pl/97/214], § 2(a), July 12, 1982, [96 Stat. 159][/us/stat/96/159]; amended [Pub. L. 100–26][/us/pl/100/26], § 7(k)(3), Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 102–190, div. B, title XXVIII][/us/pl/102/190/dB/tXXVIII], § 2808, Dec. 5, 1991, [105 Stat. 1540][/us/stat/105/1540]; [Pub. L. 104–106, div. B, title XXVIII][/us/pl/104/106/dB/tXXVIII], §§ 2814, 2815, Feb. 10, 1996, [110 Stat. 553][/us/stat/110/553]; [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1074(a)(17), Sept. 23, 1996, [110 Stat. 2659][/us/stat/110/2659]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. B, title XXVIII, § 2803(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–413.)
 
  __Amendments__ 
 
     2000—[Pub. L. 106–398][/us/pl/106/398] amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (i) which limited the net floor area allowed in the construction, acquisition, and improvement of military family housing units.
 
-    1996—Subsec. (e). [Pub. L. 104–106, § 2814][/us/pl/104/106/s2814], struck out at end “The authority provided by this subsection shall expire on September 30, 1994.”
+    1996—Subsec. (e). [Pub. L. 104–106][/us/pl/104/106], § 2814, struck out at end “The authority provided by this subsection shall expire on September 30, 1994.”
 
-    Subsec. (i). [Pub. L. 104–106, § 2815][/us/pl/104/106/s2815], added subsec. (i).
+    Subsec. (i). [Pub. L. 104–106][/us/pl/104/106], § 2815, added subsec. (i).
 
     Subsec. (i)(1). [Pub. L. 104–201][/us/pl/104/201] substituted “February 10, 1996” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996”.
 
@@ -43,7 +43,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. B, title XXVIII, § 2803(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–413, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[div. B, title XXVIII, § 2803(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–413, provided that:
 
 >     “(1) The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2001, but the Secretary of Defense shall anticipate the requirements of [section 2826 of title 10][/us/usc/t10/s2826], United States Code, as added by such subsection, when preparing the budget request for new construction, acquisition, or improvement of military family housing for fiscal year 2002.
 
@@ -60,25 +60,25 @@
 ----------
 ----------
 
-[/us/pl/97/214/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs2%2Fa
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F159
-[/us/pl/100/26/s7/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs7%2Fk%2F3
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F284
-[/us/pl/102/190/s2808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs2808
+[/us/pl/102/190/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdB%2FtXXVIII
 [/us/stat/105/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1540
-[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdB%2FtXXVIII
 [/us/stat/110/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F553
-[/us/pl/104/201/s1074/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1074%2Fa%2F17
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2659
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/104/106/s2814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2814
-[/us/pl/104/106/s2815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2815
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t10/s2826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2826
 [/us/usc/t10/s2826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2826

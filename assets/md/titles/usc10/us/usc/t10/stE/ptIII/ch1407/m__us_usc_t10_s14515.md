@@ -21,13 +21,13 @@
 
     (2) be discharged from the officer’s reserve appointment if the officer is not qualified for transfer to the Retired Reserve or has requested (in accordance with regulations prescribed by the Secretary concerned) not to be so transferred.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2954][/us/stat/108/2954]; amended [Pub. L. 104–106, div. A, title XV, § 1501(b)(31)][/us/pl/104/106/s1501/b/31], Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498]; [Pub. L. 107–107, div. A, title V, § 517(d)][/us/pl/107/107/s517/d], Dec. 28, 2001, [115 Stat. 1095][/us/stat/115/1095].)
+(Added [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1611, Oct. 5, 1994, [108 Stat. 2954][/us/stat/108/2954]; amended [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(b)(31), Feb. 10, 1996, [110 Stat. 498][/us/stat/110/498]; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 517(d), Dec. 28, 2001, [115 Stat. 1095][/us/stat/115/1095].)
 
  __Amendments__ 
 
-    2001—Par. (1). [Pub. L. 107–107, § 517(d)(1)][/us/pl/107/107/s517/d/1], substituted “if the officer is qualified for such transfer and does not request (in accordance with regulations prescribed by the Secretary concerned) not to be transferred to the Retired Reserve” for “, if the officer is qualified and applies for such transfer”.
+    2001—Par. (1). [Pub. L. 107–107][/us/pl/107/107], § 517(d)(1), substituted “if the officer is qualified for such transfer and does not request (in accordance with regulations prescribed by the Secretary concerned) not to be transferred to the Retired Reserve” for “, if the officer is qualified and applies for such transfer”.
 
-    Par. (2). [Pub. L. 107–107, § 517(d)(2)][/us/pl/107/107/s517/d/2], added par. (2) and struck out former par. (2) which read as follows: “if the officer is not qualified or does not apply for transfer to the Retired Reserve, be discharged from the officer’s reserve appointment.”
+    Par. (2). [Pub. L. 107–107][/us/pl/107/107], § 517(d)(2), added par. (2) and struck out former par. (2) which read as follows: “if the officer is not qualified or does not apply for transfer to the Retired Reserve, be discharged from the officer’s reserve appointment.”
 
     1996—[Pub. L. 104–106][/us/pl/104/106] substituted “inactive-status” for “inactive status” in introductory provisions.
 
@@ -46,14 +46,14 @@
 ----------
 ----------
 
-[/us/pl/103/337/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1611
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2954
-[/us/pl/104/106/s1501/b/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fb%2F31
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F498
-[/us/pl/107/107/s517/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs517%2Fd
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1095
-[/us/pl/107/107/s517/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs517%2Fd%2F1
-[/us/pl/107/107/s517/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs517%2Fd%2F2
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/107/107/s517/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs517%2Fg

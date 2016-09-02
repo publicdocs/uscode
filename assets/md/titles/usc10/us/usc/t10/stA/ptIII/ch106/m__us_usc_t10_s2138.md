@@ -17,7 +17,7 @@
 
     A member who entered into an agreement under this chapter before July 1, 1985, shall continue to be eligible for educational assistance in accordance with the terms of such agreement and of this chapter as in effect before such date.
 
-(Added [Pub. L. 98–525, title VII, § 705(a)(1)][/us/pl/98/525/s705/a/1], Oct. 19, 1984, [98 Stat. 2567][/us/stat/98/2567].)
+(Added [Pub. L. 98–525, title VII][/us/pl/98/525/tVII], § 705(a)(1), Oct. 19, 1984, [98 Stat. 2567][/us/stat/98/2567].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/98/525/s705/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs705%2Fa%2F1
+[/us/pl/98/525/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVII
 [/us/stat/98/2567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2567
 [/us/pl/98/525/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs705%2Fb
 [/us/usc/t10/s16131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16131

@@ -47,7 +47,7 @@
 
     (h) Appropriations for subsistence of the Air Force may be applied to the purchase of subsistence supplies for sale to members of the Air Force on active duty for the use of themselves and their families.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 579][/us/stat/70A/579]; [Pub. L. 87–651, title I, § 118][/us/pl/87/651/s118], Sept. 7, 1962, [76 Stat. 513][/us/stat/76/513]; [Pub. L. 96–513, title V, § 514(16)][/us/pl/96/513/s514/16], Dec. 12, 1980, [94 Stat. 2936][/us/stat/94/2936]; [Pub. L. 97–22, § 11(a)(11)][/us/pl/97/22/s11/a/11], July 10, 1981, [95 Stat. 138][/us/stat/95/138]; [Pub. L. 100–180, div. A, title III, § 313(c)][/us/pl/100/180/s313/c], Dec. 4, 1987, [101 Stat. 1074][/us/stat/101/1074]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 104–106, div. A, title III, § 375(b)(2)][/us/pl/104/106/s375/b/2], Feb. 10, 1996, [110 Stat. 283][/us/stat/110/283].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 579][/us/stat/70A/579]; [Pub. L. 87–651, title I][/us/pl/87/651/tI], § 118, Sept. 7, 1962, [76 Stat. 513][/us/stat/76/513]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 514(16), Dec. 12, 1980, [94 Stat. 2936][/us/stat/94/2936]; [Pub. L. 97–22][/us/pl/97/22], § 11(a)(11), July 10, 1981, [95 Stat. 138][/us/stat/95/138]; [Pub. L. 100–180, div. A, title III][/us/pl/100/180/dA/tIII], § 313(c), Dec. 4, 1987, [101 Stat. 1074][/us/stat/101/1074]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(a)(1), Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 375(b)(2), Feb. 10, 1996, [110 Stat. 283][/us/stat/110/283].)
 
 <table>
 
@@ -325,9 +325,9 @@ In subsection (g), the words “regulations to be prescribed by the Secretary”
 
  __Amendments__ 
 
-    1996—Subsec. (b). [Pub. L. 104–106, § 375(b)(2)(A)][/us/pl/104/106/s375/b/2/A], substituted “The Secretary shall” for “The Air Force shall”.
+    1996—Subsec. (b). [Pub. L. 104–106][/us/pl/104/106], § 375(b)(2)(A), substituted “The Secretary shall” for “The Air Force shall”.
 
-    Subsec. (f). [Pub. L. 104–106, § 375(b)(2)(B)][/us/pl/104/106/s375/b/2/B], inserted “or by commercial credit” before period at end.
+    Subsec. (f). [Pub. L. 104–106][/us/pl/104/106], § 375(b)(2)(B), inserted “or by commercial credit” before period at end.
 
     1989—Subsec. (d). [Pub. L. 101–189][/us/pl/101/189] substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -353,17 +353,17 @@ In subsection (g), the words “regulations to be prescribed by the Secretary”
 [/us/usc/t10/s2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2208
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F579
-[/us/pl/87/651/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs118
+[/us/pl/87/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2FtI
 [/us/stat/76/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F513
-[/us/pl/96/513/s514/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs514%2F16
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2936
-[/us/pl/97/22/s11/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs11%2Fa%2F11
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F138
-[/us/pl/100/180/s313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs313%2Fc
+[/us/pl/100/180/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtIII
 [/us/stat/101/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1074
-[/us/pl/101/189/s1621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fa%2F1
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1602
-[/us/pl/104/106/s375/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs375%2Fb%2F2
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F283
 [/us/stat/63/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F585
 [/us/stat/63/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F585
@@ -374,8 +374,8 @@ In subsection (g), the words “regulations to be prescribed by the Secretary”
 [/us/usc/t10/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F1
 [/us/act/1914-04-27/ch72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-04-27%2Fch72
 [/us/stat/38/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F361
-[/us/pl/104/106/s375/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs375%2Fb%2F2%2FA
-[/us/pl/104/106/s375/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs375%2Fb%2F2%2FB
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/usc/t10/s2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2208

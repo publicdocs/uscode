@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5581.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5585.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5582)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5581.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5583 _us_usc_t10_s5584.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5582)
 
 ## § 5582. Regular Navy: transfers, line and staff corps
 
@@ -19,7 +19,7 @@
 
     (b) A regular officer in the line of the Navy in a grade not above lieutenant commander may be appointed to the same grade in a staff corps under regulations prescribed by the Secretary of Defense.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 324][/us/stat/70A/324]; [Pub. L. 96–513, title III, § 373(d)][/us/pl/96/513/s373/d], Dec. 12, 1980, [94 Stat. 2903][/us/stat/94/2903].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 324][/us/stat/70A/324]; [Pub. L. 96–513, title III][/us/pl/96/513/tIII], § 373(d), Dec. 12, 1980, [94 Stat. 2903][/us/stat/94/2903].)
 
 <table>
 
@@ -85,9 +85,9 @@ July 22, 1935, ch. 402, § 6 (less statement of appointing authority), 49 Stat
 
     In subsection (a) the words “and precedence in the line” are omitted as surplusage.
 
-    In subsection (b) reference to the Construction Corps is omitted because that corps was abolished by the [Act of June 25, 1940, ch. 420, § 1][/us/act/1940-06-25/ch420/s1], [54 Stat. 528][/us/stat/54/528].
+    In subsection (b) reference to the Construction Corps is omitted because that corps was abolished by the [Act of June 25, 1940, ch. 420][/us/act/1940-06-25/ch420], § 1, [54 Stat. 528][/us/stat/54/528].
 
-    The word “male” is inserted in both subsections to limit their application to men. Authority to appoint women is covered in [§ 5590 of this title][/us/usc/t10/s5590].
+    The word “male” is inserted in both subsections to limit their application to men. Authority to appoint women is covered in § 5590 of this title.
 
  __Amendments__ 
 
@@ -99,45 +99,24 @@ July 22, 1935, ch. 402, § 6 (less statement of appointing authority), 49 Stat
 
     Amendment by [Pub. L. 96–513][/us/pl/96/513] effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by [Pub. L. 96–513][/us/pl/96/513] effective on Dec. 12, 1980, see [section 701 of Pub. L. 96–513][/us/pl/96/513/s701], set out as a note under [section 101 of this title][/us/usc/t10/s101].
 
-\[§§ 5583, 5584. __Repealed.__  __[__  __Pub. L. 96–513, title III, § 321__  __][/us/pl/96/513/s321]__  __,__  __Dec. 12, 1980__  __,__  __[__  __94 Stat. 2892__  __][/us/stat/94/2892]__  __\]__ 
-
-    Section 5583, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 324][/us/stat/70A/324], prescribed requirements for original appointments to the active list of the Marine Corps from noncommissioned officers of the Regular Marine Corps. See [section 532 of this title][/us/usc/t10/s532].
-
-    Section 5584, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 324][/us/stat/70A/324], prescribed requirements for original appointments to the active list of the Marine Corps from former officers of the Marine Corps. See [section 532 of this title][/us/usc/t10/s532].
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Sept. 15, 1981, see [section 701 of Pub. L. 96–513][/us/pl/96/513/s701], set out as an Effective Date of 1980 Amendment note under [section 101 of this title][/us/usc/t10/s101].
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5581.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5585.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5582)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5581.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5583 _us_usc_t10_s5584.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5582)
 
 ----------
 ----------
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F324
-[/us/pl/96/513/s373/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs373%2Fd
+[/us/pl/96/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIII
 [/us/stat/94/2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2903
 [/us/usc/t34/s10a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs10a
-[/us/act/1940-06-25/ch420/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-25%2Fch420%2Fs1
+[/us/act/1940-06-25/ch420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-25%2Fch420
 [/us/stat/54/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F528
-[/us/usc/t10/s5590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5590
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
-[/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
-[/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/96/513/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs321
-[/us/stat/94/2892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2892
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F324
-[/us/usc/t10/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs532
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F324
-[/us/usc/t10/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs532
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 

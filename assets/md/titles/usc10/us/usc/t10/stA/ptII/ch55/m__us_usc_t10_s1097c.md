@@ -61,11 +61,11 @@
 
     This section shall take effect on January 1, 2008.
 
-(Added [Pub. L. 109–364, div. A, title VII, § 707(a)][/us/pl/109/364/s707/a], Oct. 17, 2006, [120 Stat. 2283][/us/stat/120/2283].)
+(Added [Pub. L. 109–364, div. A, title VII][/us/pl/109/364/dA/tVII], § 707(a), Oct. 17, 2006, [120 Stat. 2283][/us/stat/120/2283].)
 
  __References in Text__ 
 
-    [Section 1079(j) of this title][/us/usc/t10/s1079/j], referred to in subsec. (a)(1), was redesignated [section 1079(i) of this title][/us/usc/t10/s1079/i] by [Pub. L. 113–291, div. A, title VII, § 703(a)(3)][/us/pl/113/291/s703/a/3], Dec. 19, 2014, [128 Stat. 3411][/us/stat/128/3411].
+    [Section 1079(j) of this title][/us/usc/t10/s1079/j], referred to in subsec. (a)(1), was redesignated [section 1079(i) of this title][/us/usc/t10/s1079/i] by [Pub. L. 113–291, div. A, title VII][/us/pl/113/291/dA/tVII], § 703(a)(3), Dec. 19, 2014, [128 Stat. 3411][/us/stat/128/3411].
 
     The Social Security Act, referred to in subsec. (a)(1), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1862 of the Act is classified to [section 1395y of Title 42][/us/usc/t42/s1395y]. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
@@ -81,11 +81,11 @@
 [/us/usc/t10/s1095/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1095%2Fk
 [/us/usc/t10/s1079a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079a
 [/us/usc/t10/s1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1086
-[/us/pl/109/364/s707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs707%2Fa
+[/us/pl/109/364/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVII
 [/us/stat/120/2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2283
 [/us/usc/t10/s1079/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079%2Fj
 [/us/usc/t10/s1079/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079%2Fi
-[/us/pl/113/291/s703/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs703%2Fa%2F3
+[/us/pl/113/291/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVII
 [/us/stat/128/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3411
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

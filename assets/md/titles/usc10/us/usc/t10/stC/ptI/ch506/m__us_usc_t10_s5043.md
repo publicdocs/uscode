@@ -31,7 +31,7 @@
 
     (b) The Commandant of the Marine Corps, while so serving, has the grade of general without vacating his permanent grade.
 
-    \[(c) Repealed. [Pub. L. 104–106, div. A, title V, § 502(c)][/us/pl/104/106/s502/c], Feb. 10, 1996, [110 Stat. 293][/us/stat/110/293].\]
+    \[(c) Repealed. [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 502(c), Feb. 10, 1996, [110 Stat. 293][/us/stat/110/293].\]
 
     (d) Except as otherwise prescribed by law and subject to [section 5013(f) of this title][/us/usc/t10/s5013/f], the Commandant performs his duties under the authority, direction, and control of the Secretary of the Navy and is directly responsible to the Secretary.
 
@@ -59,7 +59,7 @@
 
         (3) Subject to the authority, direction, and control of the Secretary of Defense, the Commandant shall keep the Secretary of the Navy fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
-(Added [Pub. L. 99–433, title V, § 513(b)][/us/pl/99/433/s513/b], Oct. 1, 1986, [100 Stat. 1052][/us/stat/100/1052]; amended [Pub. L. 100–456, div. A, title V, § 519(a)(3)][/us/pl/100/456/s519/a/3], Sept. 29, 1988, [102 Stat. 1972][/us/stat/102/1972]; [Pub. L. 102–190, div. A, title V, § 505(b)][/us/pl/102/190/s505/b], Dec. 5, 1991, [105 Stat. 1358][/us/stat/105/1358]; [Pub. L. 104–106, div. A, title V, § 502(c)][/us/pl/104/106/s502/c], Feb. 10, 1996, [110 Stat. 293][/us/stat/110/293]; [Pub. L. 108–136, div. A, title V, § 501(b)][/us/pl/108/136/s501/b], Nov. 24, 2003, [117 Stat. 1456][/us/stat/117/1456]; [Pub. L. 114–92, div. A, title VIII, § 802(d)(4)(C)][/us/pl/114/92/s802/d/4/C], Nov. 25, 2015, [129 Stat. 880][/us/stat/129/880].)
+(Added [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 513(b), Oct. 1, 1986, [100 Stat. 1052][/us/stat/100/1052]; amended [Pub. L. 100–456, div. A, title V][/us/pl/100/456/dA/tV], § 519(a)(3), Sept. 29, 1988, [102 Stat. 1972][/us/stat/102/1972]; [Pub. L. 102–190, div. A, title V][/us/pl/102/190/dA/tV], § 505(b), Dec. 5, 1991, [105 Stat. 1358][/us/stat/105/1358]; [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 502(c), Feb. 10, 1996, [110 Stat. 293][/us/stat/110/293]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 501(b), Nov. 24, 2003, [117 Stat. 1456][/us/stat/117/1456]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 802(d)(4)(C), Nov. 25, 2015, [129 Stat. 880][/us/stat/129/880].)
 
  __Prior Provisions__ 
 
@@ -89,21 +89,21 @@
 ----------
 
 [/us/usc/t10/s664/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs664%2Ff
-[/us/pl/104/106/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs502%2Fc
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F293
 [/us/usc/t10/s5013/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5013%2Ff
 [/us/usc/t10/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs151
-[/us/pl/99/433/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs513%2Fb
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1052
-[/us/pl/100/456/s519/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs519%2Fa%2F3
+[/us/pl/100/456/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtV
 [/us/stat/102/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1972
-[/us/pl/102/190/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs505%2Fb
+[/us/pl/102/190/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtV
 [/us/stat/105/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1358
-[/us/pl/104/106/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs502%2Fc
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F293
-[/us/pl/108/136/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs501%2Fb
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1456
-[/us/pl/114/92/s802/d/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs802%2Fd%2F4%2FC
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F880
 [/us/usc/t10/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5201
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
