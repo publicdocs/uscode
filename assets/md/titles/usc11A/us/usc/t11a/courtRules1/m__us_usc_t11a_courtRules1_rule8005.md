@@ -13,19 +13,47 @@
 
 [Previous](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8004.md) | [Next](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8006.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11a%2FcourtRules1%2Frule8005)
 
-### Rule 8005. Stay Pending Appeal
+### Rule 8005. Election to Have an Appeal Heard by the District Court Instead of the BAP
 
-    A motion for a stay of the judgment, order, or decree of a bankruptcy judge, for approval of a supersedeas bond, or for other relief pending appeal must ordinarily be presented to the bankruptcy judge in the first instance. Notwithstanding Rule 7062 but subject to the power of the district court and the bankruptcy appellate panel reserved hereinafter, the bankruptcy judge may suspend or order the continuation of other proceedings in the case under the Code or make any other appropriate order during the pendency of an appeal on such terms as will protect the rights of all parties in interest. A motion for such relief, or for modification or termination of relief granted by a bankruptcy judge, may be made to the district court or the bankruptcy appellate panel, but the motion shall show why the relief, modification, or termination was not obtained from the bankruptcy judge. The district court or the bankruptcy appellate panel may condition the relief it grants under this rule on the filing of a bond or other appropriate security with the bankruptcy court. When an appeal is taken by a trustee, a bond or other appropriate security may be required, but when an appeal is taken by the United States or an officer or agency thereof or by direction of any department of the Government of the United States a bond or other security shall not be required.
+    (a)  __Filing of a Statement of Election__  __.__ 
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+     To elect to have an appeal heard by the district court, a party must:
 
- __Notes of Advisory Committee on Rules—1983__ 
+        (1) file a statement of election that conforms substantially to the appropriate Official Form; and
 
-    The first, third, and fourth sentences of this rule are adaptations of Rule 8(a) and (b) F.R.App.P. The second sentence of the rule is derived from § 39(c) of the Bankruptcy Act and confers on the bankruptcy judge discretion respecting the stay or continuation of other proceedings in the case while an appeal is pending.
+        (2) do so within the time prescribed by 28 U.S.C. § 158(c)(1).
 
-    The last sentence of the rule, which specifically subjects a trustee to the same kind of security requirements as other litigants, is derived from former Bankruptcy Rule 805. The exemption of the United States from the bond or security requirements is the same as the exemption contained in Rule 62(e) F.R.Civ.P.
+    (b)  __Transmitting the Documents Related to the Appeal__  __.__ 
 
-    Sections 363(m) and 364(e) of the Code provide that unless an order approving a sale of property, or authorizing the obtaining of credit or the incurring of debt is stayed pending appeal, the sale of property to a good faith purchaser or a good faith extension of credit, with or without any priority or lien, shall not be affected by the reversal or modification of such order on appeal, whether or not the purchaser or creditor knows of the pendency of the appeal.
+     Upon receiving an appellant’s timely statement of election, the bankruptcy clerk must transmit to the district clerk all documents related to the appeal. Upon receiving a timely statement of election by a party other than the appellant, the BAP clerk must transmit to the district clerk all documents related to the appeal and notify the bankruptcy clerk of the transmission.
+
+    (c)  __Determining the Validity of an Election__  __.__ 
+
+     A party seeking a determination of the validity of an election must file a motion in the court where the appeal is then pending. The motion must be filed within 14 days after the statement of election is filed.
+
+    (d)  __Motion for Leave Without a Notice of Appeal—Effect on the Timing of an Election__  __.__ 
+
+     If an appellant moves for leave to appeal under Rule 8004 but fails to file a separate notice of appeal with the motion, the motion must be treated as a notice of appeal for purposes of determining the timeliness of a statement of election.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+ __Prior Rule__ 
+
+    A prior Rule 8005, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 30, 1987, eff. Aug. 1, 1987, related to stay pending appeal, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
+
+ __Committee Notes on Rules—2014__ 
+
+    This rule, which implements 28 U.S.C. § 158(c)(1), is derived from former Rule 8001(e). It applies only in districts in which an appeal to a BAP is authorized.
+
+    As the former rule required, subdivision (a) provides that an appellant that elects to have a district court, rather than a BAP, hear its appeal must file with the bankruptcy clerk a statement of election when it files its notice of appeal. The statement must conform substantially to the appropriate Official Form. For appellants, that statement is included in the Notice of Appeal Official Form. If a BAP has been established for appeals from the bankruptcy court and the appellant does not file a timely statement of election, any other party that elects to have the district court hear the appeal must file a statement of election with the BAP clerk no later than 30 days after service of the notice of appeal.
+
+    Subdivision (b) requires the bankruptcy clerk to transmit all appeal documents to the district clerk if the appellant files a timely statement of election. If the appellant does not make that election, the bankruptcy clerk must transmit those documents to the BAP clerk. Upon a timely election by any other party, the BAP clerk must promptly transmit the appeal documents to the district clerk and notify the bankruptcy clerk that the appeal has been transferred.
+
+    Subdivision (c) provides a new procedure for the resolution of disputes regarding the validity of an election. A motion seeking the determination of the validity of an election must be filed no later than 14 days after the statement of election is filed. Nothing in this rule prevents a court from determining the validity of an election on its own motion.
+
+    Subdivision (d) provides that, in the case of an appeal by leave, if the appellant files a motion for leave to appeal but fails to file a notice of appeal, the filing and service of the motion will be treated for timing purposes under this rule as the filing and service of the notice of appeal.
+
+    Changes Made After Publication and Comment. In subdivision (b), a requirement was added that the BAP clerk notify the bankruptcy clerk if an appeal is transferred from the BAP to the district court upon the election of an appellee. Conforming and clarifying changes were made to the Committee Note.
 
 ----------
 

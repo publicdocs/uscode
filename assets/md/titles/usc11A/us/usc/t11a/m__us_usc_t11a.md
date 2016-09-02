@@ -15,15 +15,15 @@
 
 # Title 11—APPENDIXBANKRUPTCY RULES
 
-Current through 113-234
+Current through 113–271not235
 
  __FEDERAL RULES OF BANKRUPTCY PROCEDURE__ 
 
-(Effective August 1, 1983, as amended to January 2, 2014) __Historical Note__ 
+(Effective August 1, 1983, as amended to January 5, 2015) __Historical Note__ 
 
     The Federal Rules of Bankruptcy Procedure were adopted by order of the Supreme Court on Apr. 25, 1983, transmitted to Congress by the Chief Justice on the same day, and became effective Aug. 1, 1983.
 
-    The Rules have been amended Aug. 30, 1983, [Pub. L. 98–91, § 2(a)][/us/pl/98/91/s2/a], [97 Stat. 607][/us/stat/97/607], eff. Aug. 1, 1983; July 10, 1984, [Pub. L. 98–353, title III, § 321][/us/pl/98/353/s321], [98 Stat. 357][/us/stat/98/357]; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, [Pub. L. 103–394, title I, § 114][/us/pl/103/394/s114], [108 Stat. 4118][/us/stat/108/4118]; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013.
+    The Rules have been amended Aug. 30, 1983, [Pub. L. 98–91, § 2(a)][/us/pl/98/91/s2/a], [97 Stat. 607][/us/stat/97/607], eff. Aug. 1, 1983; July 10, 1984, [Pub. L. 98–353, title III, § 321][/us/pl/98/353/s321], [98 Stat. 357][/us/stat/98/357]; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, [Pub. L. 103–394, title I, § 114][/us/pl/103/394/s114], [108 Stat. 4118][/us/stat/108/4118]; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014.
 
 <table>
 
@@ -1365,7 +1365,7 @@ PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL  </td>
 
     <td> 8001.  </td>
 
-    <td> Manner of Taking Appeal; Voluntary Dismissal; Certification to Court of Appeals.  </td>
+    <td> Scope of Part VIII Rules; Definition of “BAP”; Method of Transmission.  </td>
 
   </tr>
 
@@ -1381,7 +1381,7 @@ PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL  </td>
 
     <td> 8003.  </td>
 
-    <td> Leave to Appeal.  </td>
+    <td> Appeal as of Right—How Taken; Docketing the Appeal.  </td>
 
   </tr>
 
@@ -1389,7 +1389,7 @@ PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL  </td>
 
     <td> 8004.  </td>
 
-    <td> Service of the Notice of Appeal.  </td>
+    <td> Appeal by Leave—How Taken; Docketing the Appeal.  </td>
 
   </tr>
 
@@ -1397,7 +1397,7 @@ PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL  </td>
 
     <td> 8005.  </td>
 
-    <td> Stay Pending Appeal.  </td>
+    <td> Election to Have an Appeal Heard by the District Court Instead of the BAP.  </td>
 
   </tr>
 
@@ -1405,7 +1405,7 @@ PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL  </td>
 
     <td> 8006.  </td>
 
-    <td> Record and Issues on Appeal.  </td>
+    <td> Certifying a Direct Appeal to the Court of Appeals.  </td>
 
   </tr>
 
@@ -1413,7 +1413,7 @@ PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL  </td>
 
     <td> 8007.  </td>
 
-    <td> Completion and Transmission of the Record; Docketing of the Appeal.  </td>
+    <td> Stay Pending Appeal; Bonds; Suspension of Proceedings.  </td>
 
   </tr>
 
@@ -1421,7 +1421,7 @@ PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL  </td>
 
     <td> 8008.  </td>
 
-    <td> Filing and Service.  </td>
+    <td> Indicative Rulings.  </td>
 
   </tr>
 
@@ -1429,7 +1429,7 @@ PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL  </td>
 
     <td> 8009.  </td>
 
-    <td> Briefs and Appendix; Filing and Service.  </td>
+    <td> Record on Appeal; Sealed Documents.  </td>
 
   </tr>
 
@@ -1437,7 +1437,7 @@ PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL  </td>
 
     <td> 8010.  </td>
 
-    <td> Form of Briefs; Length.  </td>
+    <td> Completing and Transmitting the Record.  </td>
 
   </tr>
 
@@ -1445,7 +1445,7 @@ PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL  </td>
 
     <td> 8011.  </td>
 
-    <td> Motions.  </td>
+    <td> Filing and Service; Signature.  </td>
 
   </tr>
 
@@ -1453,7 +1453,7 @@ PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL  </td>
 
     <td> 8012.  </td>
 
-    <td> Oral Argument.  </td>
+    <td> Corporate Disclosure Statement.  </td>
 
   </tr>
 
@@ -1461,7 +1461,7 @@ PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL  </td>
 
     <td> 8013.  </td>
 
-    <td> Disposition of Appeal; Weight Accorded Bankruptcy Judge’s Findings of Fact.  </td>
+    <td> Motions; Intervention.  </td>
 
   </tr>
 
@@ -1469,7 +1469,7 @@ PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL  </td>
 
     <td> 8014.  </td>
 
-    <td> Costs.  </td>
+    <td> Briefs.  </td>
 
   </tr>
 
@@ -1477,7 +1477,7 @@ PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL  </td>
 
     <td> 8015.  </td>
 
-    <td> Motion for Rehearing.  </td>
+    <td> Form and Length of Briefs; Form of Appendices and Other Papers.  </td>
 
   </tr>
 
@@ -1485,7 +1485,7 @@ PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL  </td>
 
     <td> 8016.  </td>
 
-    <td> Duties of Clerk of District Court and Bankruptcy Appellate Panel.  </td>
+    <td> Cross-Appeals.  </td>
 
   </tr>
 
@@ -1493,7 +1493,7 @@ PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL  </td>
 
     <td> 8017.  </td>
 
-    <td> Stay of Judgment of District Court or Bankruptcy Appellate Panel.  </td>
+    <td> Brief of an Amicus Curiae.  </td>
 
   </tr>
 
@@ -1501,7 +1501,7 @@ PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL  </td>
 
     <td> 8018.  </td>
 
-    <td> Rules by Circuit Councils and District Courts; Procedure When There is No Controlling Law.  </td>
+    <td> Serving and Filing Briefs; Appendices.  </td>
 
   </tr>
 
@@ -1509,7 +1509,7 @@ PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL  </td>
 
     <td> 8019.  </td>
 
-    <td> Suspension of Rules in Part VIII.  </td>
+    <td> Oral Argument.  </td>
 
   </tr>
 
@@ -1517,7 +1517,71 @@ PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL  </td>
 
     <td> 8020.  </td>
 
-    <td> Damages and Costs for Frivolous Appeal.  </td>
+    <td> Frivolous Appeal and Other Misconduct.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 8021.  </td>
+
+    <td> Costs.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 8022.  </td>
+
+    <td> Motion for Rehearing.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 8023.  </td>
+
+    <td> Voluntary Dismissal.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 8024.  </td>
+
+    <td> Clerk’s Duties on Disposition of the Appeal.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 8025.  </td>
+
+    <td> Stay of a District Court or BAP Judgment.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 8026.   </td>
+
+    <td> Rules by Circuit Councils and District Courts; Procedure When There is No Controlling Law.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 8027.  </td>
+
+    <td> Notice of a Mediation Procedure.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 8028.  </td>
+
+    <td> Suspension of Rules in Part VIII.  </td>
 
   </tr>
 

@@ -13,33 +13,83 @@
 
 [Previous](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8006.md) | [Next](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8008.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11a%2FcourtRules1%2Frule8007)
 
-### Rule 8007. Completion and Transmission of the Record; Docketing of the Appeal
+### Rule 8007. Stay Pending Appeal; Bonds; Suspension of Proceedings
 
-    (a)  __Duty of Reporter To Prepare and File Transcript__  __.__ 
+    (a) __Initial Motion in the Bankruptcy Court.__ 
 
-     On receipt of a request for a transcript, the reporter shall acknowledge on the request the date it was received and the date on which the reporter expects to have the transcript completed and shall transmit the request, so endorsed, to the clerk or the clerk of the bankruptcy appellate panel. On completion of the transcript the reporter shall file it with the clerk and, if appropriate, notify the clerk of the bankruptcy appellate panel. If the transcript cannot be completed within 30 days of receipt of the request the reporter shall seek an extension of time from the clerk or the clerk of the bankruptcy appellate panel and the action of the clerk shall be entered in the docket and the parties notified. If the reporter does not file the transcript within the time allowed, the clerk or the clerk of the bankruptcy appellate panel shall notify the bankruptcy judge.
+        (1)
 
-    (b)  __Duty of Clerk To Transmit Copy of Record; Docketing of Appeal__  __.__ 
+ In General. Ordinarily, a party must move first in the bankruptcy court for the following relief:
 
-     When the record is complete for purposes of appeal, the clerk shall transmit a copy thereof forthwith to the clerk of the district court or the clerk of the bankruptcy appellate panel. On receipt of the transmission the clerk of the district court or the clerk of the bankruptcy appellate panel shall enter the appeal in the docket and give notice promptly to all parties to the judgment, order, or decree appealed from of the date on which the appeal was docketed. If the bankruptcy appellate panel directs that additional copies of the record be furnished, the clerk of the bankruptcy appellate panel shall notify the appellant and, if the appellant fails to provide the copies, the clerk shall prepare the copies at the expense of the appellant.
+            (A) a stay of a judgment, order, or decree of the bankruptcy court pending appeal;
 
-    (c)  __Record for Preliminary Hearing__  __.__ 
+            (B) the approval of a supersedeas bond;
 
-     If prior to the time the record is transmitted a party moves in the district court or before the bankruptcy appellate panel for dismissal, for a stay pending appeal, for additional security on the bond on appeal or on a supersedeas bond, or for any intermediate order, the clerk at the request of any party to the appeal shall transmit to the clerk of the district court or the clerk of the bankruptcy appellate panel a copy of the parts of the record as any party to the appeal shall designate.
+            (C) an order suspending, modifying, restoring, or granting an injunction while an appeal is pending; or
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+            (D) the suspension or continuation of proceedings in a case or other relief permitted by subdivision (e).
 
- __Notes of Advisory Committee on Rules—1983__ 
+        (2) Time to File. The motion may be made either before or after the notice of appeal is filed.
 
-    Subdivision (a) is an adaptation of Rule 11(b) F.R.App.P.
+    (b) __Motion in the District Court, the BAP, or the Court of Appeals on Direct Appeal.__ 
 
-    Subdivision (b) is similar to former Bankruptcy Rule 807. The duty of the clerk of the bankruptcy court to transmit the record as soon as the record is complete is derived from the second paragraph of Rule 11(b) F.R.App.P. The last sentence of the subdivision applies to appeals to bankruptcy appellate panels. Additional copies of the record may be needed when the appendix to the brief required under Rule 8009(b) is not adequate in the judgment of the bankruptcy appellate panel for disposition of the appeal. If additional copies are required, the appellant will arrange for the production of the copies; if the appellant fails to do so, the clerk of the bankruptcy appellate panel shall prepare the copies at the expense of the appellant.
+        (1) Request for Relief. A motion for the relief specified in subdivision (a)(1)—or to vacate or modify a bankruptcy court’s order granting such relief—may be made in the court where the appeal is pending.
 
-    Subdivision (c) is derived from subdivisions (c), (e) and (f) of Rule 11 F.R.App.P. and subdivision (d) is essentially the same as Rule 11(b) F.R.App.P.
+        (2)
 
- __Notes of Advisory Committee on Rules—1991 Amendment__ 
+ Showing or Statement Required. The motion must:
 
-    This rule is amended to require that the bankruptcy clerk retain the original record and transmit a copy of the record to the clerk of the district court or bankruptcy appellate panel. Transmission of the original documents may cause disruption in the continuing administration of the case in the bankruptcy court.
+            (A) show that moving first in the bankruptcy court would be impracticable; or
+
+            (B) if a motion was made in the bankruptcy court, either state that the court has not yet ruled on the motion, or state that the court has ruled and set out any reasons given for the ruling.
+
+        (3)
+
+ Additional Content. The motion must also include:
+
+            (A) the reasons for granting the relief requested and the facts relied upon;
+
+            (B) affidavits or other sworn statements supporting facts subject to dispute; and
+
+            (C) relevant parts of the record.
+
+        (4) Serving Notice. The movant must give reasonable notice of the motion to all parties.
+
+    (c)  __Filing a Bond or Other Security__  __.__ 
+
+     The district court, BAP, or court of appeals may condition relief on filing a bond or other appropriate security with the bankruptcy court.
+
+    (d)  __Bond for a Trustee or the United States__  __.__ 
+
+     The court may require a trustee to file a bond or other appropriate security when the trustee appeals. A bond or other security is not required when an appeal is taken by the United States, its officer, or its agency or by direction of any department of the federal government.
+
+    (e)  __Continuation of Proceedings in the Bankruptcy Court__  __.__ 
+
+     Despite Rule 7062 and subject to the authority of the district court, BAP, or court of appeals, the bankruptcy court may:
+
+        (1) suspend or order the continuation of other proceedings in the case; or
+
+        (2) issue any other appropriate orders during the pendency of an appeal to protect the rights of all parties in interest.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+ __Prior Rule__ 
+
+    A prior Rule 8007, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991, related to completion and transmission of the record and docketing of the appeal, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
+
+ __Committee Notes on Rules—2014__ 
+
+    This rule is derived from former Rule 8005 and F.R.App.P. 8. It now applies to direct appeals in courts of appeals.
+
+    Subdivision (a), like the former rule, requires a party ordinarily to seek relief pending an appeal in the bankruptcy court. Subdivision (a)(1) expands the list of relief enumerated in F.R.App.P. 8(a)(1) to reflect bankruptcy practice. It includes the suspension or continuation of other proceedings in the bankruptcy case, as authorized by subdivision (e). Subdivision (a)(2) clarifies that a motion for a stay pending appeal, approval of a supersedeas bond, or any other relief specified in paragraph (1) may be made in the bankruptcy court before or after the filing of a notice of appeal.
+
+    Subdivision (b) authorizes a party to seek the relief specified in (a)(1), or the vacation or modification of the granting of such relief, by means of a motion filed in the court where the appeal is pending—district court, BAP, or the court of appeals on direct appeal. Accordingly, a notice of appeal need not be filed with respect to a bankruptcy court’s order granting or denying such a motion. The motion for relief in the district court, BAP, or court of appeals must state why it was impracticable to seek relief initially in the bankruptcy court, if a motion was not filed there, or why the bankruptcy court denied the relief sought.
+
+    Subdivisions (c) and (d) retain the provisions of the former rule that permit the district court or BAP—and now the court of appeals—to condition the granting of relief on the posting of a bond by the appellant, except when that party is a federal government entity. Rule 9025 governs proceedings against sureties.
+
+    Subdivision (e) retains the provision of the former rule that authorizes the bankruptcy court to decide whether to suspend or allow the continuation of other proceedings in the bankruptcy case while the matter for which a stay has been sought is pending on appeal.
+
+    Changes Made After Publication and Comment. The clause “or where it will be taken” was deleted in subdivision (b)(1). Stylistic changes were made to the titles of subdivisions (b) and (e) and in subdivision (e)(1). A discussion of subdivision (e) was added to the Committee Note.
 
 ----------
 

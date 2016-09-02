@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8020.md) | [Next](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule9002.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11a%2FcourtRules1%2Frule9001)
+[Previous](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8028.md) | [Next](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule9002.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11a%2FcourtRules1%2Frule9001)
 
 ### Rule 9001. General Definitions
 
@@ -73,7 +73,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8020.md) | [Next](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule9002.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11a%2FcourtRules1%2Frule9001)
+[Previous](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8028.md) | [Next](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule9002.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11a%2FcourtRules1%2Frule9001)
 
 ----------
 ----------

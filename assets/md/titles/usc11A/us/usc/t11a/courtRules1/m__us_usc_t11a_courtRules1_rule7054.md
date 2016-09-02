@@ -19,11 +19,19 @@
 
      Rule 54(a)–(c) F.R.Civ.P. applies in adversary proceedings.
 
-    (b)  __Costs__  __.__ 
+    (b) __Costs; Attorney’s Fees.__ 
 
-     The court may allow costs to the prevailing party except when a statute of the United States or these rules otherwise provides. Costs against the United States, its officers and agencies shall be imposed only to the extent permitted by law. Costs may be taxed by the clerk on 14 days’ notice; on motion served within seven days thereafter, the action of the clerk may be reviewed by the court.
+        (1) Costs Other Than Attorney’s Fees. The court may allow costs to the prevailing party except when a statute of the United States or these rules otherwise provides. Costs against the United States, its officers and agencies shall be imposed only to the extent permitted by law. Costs may be taxed by the clerk on 14 days’ notice; on motion served within seven days thereafter, the action of the clerk may be reviewed by the court.
 
-(As amended Apr. 23, 2012, eff. Dec. 1, 2012.)
+        (2)
+
+ Attorney’s Fees.
+
+            (A) Rule 54(d)(2)(A)–(C) and (E) F.R.Civ.P. applies in adversary proceedings except for the reference in Rule 54(d)(2)(C) to Rule 78.
+
+            (B) By local rule, the court may establish special procedures to resolve fee-related issues without extensive evidentiary hearings.
+
+(As amended Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
  __Committee Notes on Rules—2012 Amendment__ 
 
@@ -40,6 +48,18 @@
     • 25-day periods became 28-day periods.
 
     Changes Made After Publication. No changes were made after publication.
+
+ __Committee Notes on Rules—2014 Amendment__ 
+
+    Subdivision (b) is amended to prescribe the procedure for seeking an award of attorney’s fees and related nontaxable expenses in adversary proceedings. It does so by adding new paragraph (2) that incorporates most of the provisions of Rule 54(d)(2) F.R.Civ.P. The title of subdivision (b) is amended to reflect the new content, and the previously existing provision governing costs is renumbered as paragraph (1) and re-titled.
+
+    As provided in Rule 54(d)(2)(A), new subsection (b)(2) does not apply to fees recoverable as an element of damages, as when sought under the terms of a contract providing for the recovery of fees incurred prior to the instant adversary proceeding. Such fees typically are required to be claimed in a pleading.
+
+    Rule 54(d)(2)(D) F.R.Civ.P. does not apply in adversary proceedings insofar as it authorizes the referral of fee matters to a master or a magistrate judge. The use of masters is not authorized in bankruptcy cases, see Rule 9031, and 28 U.S.C. § 636 does not authorize a magistrate judge to exercise jurisdiction upon referral by a bankruptcy judge. The remaining provision of Rule 54(d)(2)(D) is expressed in subdivision (b)(2)(B) of this rule.
+
+    Rule 54(d)(2)(C) refers to Rule 78 F.R.Civ.P., which is not applicable in adversary proceedings. Accordingly, that reference is not incorporated by this rule.
+
+    Changes Made After Publication and Comment. No changes were made after publication and comment.
 
  __References in Text__ 
 

@@ -15,9 +15,9 @@
 
 ### Rule 9024. Relief from Judgment or Order
 
-    Rule 60 F.R.Civ.P. applies in cases under the Code except that (1) a motion to reopen a case under the Code or for the reconsideration of an order allowing or disallowing a claim against the estate entered without a contest is not subject to the one year limitation prescribed in Rule 60(c), (2) a complaint to revoke a discharge in a chapter 7 liquidation case may be filed only within the time allowed by § 727(e) of the Code, and (3) a complaint to revoke an order confirming a plan may be filed only within the time allowed by § 1144, § 1230, or § 1330.
+    Rule 60 F.R.Civ.P. applies in cases under the Code except that (1) a motion to reopen a case under the Code or for the reconsideration of an order allowing or disallowing a claim against the estate entered without a contest is not subject to the one year limitation prescribed in Rule 60(c), (2) a complaint to revoke a discharge in a chapter 7 liquidation case may be filed only within the time allowed by § 727(e) of the Code, and (3) a complaint to revoke an order confirming a plan may be filed only within the time allowed by § 1144, § 1230, or § 1330. In some circumstances, Rule 8008 governs post-judgment motion practice after an appeal has been docketed and is pending.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2008, eff. Dec. 1, 2008.)
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
  __Notes of Advisory Committee on Rules—1983__ 
 
@@ -32,6 +32,12 @@
  __Committee Notes on Rules—2008 Amendment__ 
 
     The rule is amended to conform to the changes made to the Federal Rules of Civil Procedure through the restyling of those rules effective on December 1, 2007.
+
+ __Committee Notes on Rules—2014 Amendment__ 
+
+    This rule is amended to include a cross-reference to Rule 8008. That rule governs the issuance of an indicative ruling when relief is sought that the court lacks authority to grant because of an appeal that has been docketed and is pending.
+
+    Changes Made After Publication and Comment. No changes were made after publication and comment.
 
  __References in Text__ 
 

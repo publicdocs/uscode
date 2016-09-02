@@ -13,69 +13,137 @@
 
 [Previous](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8008.md) | [Next](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8010.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11a%2FcourtRules1%2Frule8009)
 
-### Rule 8009. Briefs and Appendix; Filing and Service
+### Rule 8009. Record on Appeal; Sealed Documents
 
-    (a)  __Briefs__  __.__ 
+    (a) __Designating the Record on Appeal; Statement of the Issues.__ 
 
-     Unless the district court or the bankruptcy appellate panel by local rule or by order excuses the filing of briefs or specifies different time limits:
+        (1)
 
-        (1) The appellant shall serve and file a brief within 14 days after entry of the appeal on the docket pursuant to Rule 8007.
+ Appellant.
 
-        (2) The appellee shall serve and file a brief within 14 days after service of the brief of appellant. If the appellee has filed a cross appeal, the brief of the appellee shall contain the issues and argument pertinent to the cross appeal, denominated as such, and the response to the brief of the appellant.
+            (A) The appellant must file with the bankruptcy clerk and serve on the appellee a designation of the items to be included in the record on appeal and a statement of the issues to be presented.
 
-        (3) The appellant may serve and file a reply brief within 14 days after service of the brief of the appellee, and if the appellee has cross-appealed, the appellee may file and serve a reply brief to the response of the appellant to the issues presented in the cross appeal within 14 days after service of the reply brief of the appellant. No further briefs may be filed except with leave of the district court or the bankruptcy appellate panel.
+            (B)
 
-    (b)  __Appendix to Brief__  __.__ 
+             The appellant must file and serve the designation and statement within 14 days after:
 
-     If the appeal is to a bankruptcy appellate panel, the appellant shall serve and file with the appellant’s brief excerpts of the record as an appendix, which shall include the following:
+                (i) the appellant’s notice of appeal as of right becomes effective under Rule 8002; or
 
-        (1) The complaint and answer or other equivalent pleadings;
+                (ii) an order granting leave to appeal is entered.
 
-        (2) Any pretrial order;
+                A designation and statement served prematurely must be treated as served on the first day on which filing is timely.
 
-        (3) The judgment, order, or decree from which the appeal is taken;
+        (2) Appellee and Cross-Appellant. Within 14 days after being served, the appellee may file with the bankruptcy clerk and serve on the appellant a designation of additional items to be included in the record. An appellee who files a cross-appeal must file and serve a designation of additional items to be included in the record and a statement of the issues to be presented on the cross-appeal.
 
-        (4) Any other orders relevant to the appeal;
+        (3) Cross-Appellee. Within 14 days after service of the cross-appellant’s designation and statement, a cross-appellee may file with the bankruptcy clerk and serve on the cross-appellant a designation of additional items to be included in the record.
 
-        (5) The opinion, findings of fact, or conclusions of law filed or delivered orally by the court and citations of the opinion if published;
+        (4) Record on Appeal. The record on appeal must include the following:    • docket entries kept by the bankruptcy clerk;
 
-        (6) Any motion and response on which the court rendered decision;
+            • items designated by the parties;
 
-        (7) The notice of appeal;
+            • the notice of appeal;
 
-        (8) The relevant entries in the bankruptcy docket; and
+            • the judgment, order, or decree being appealed;
 
-        (9) The transcript or portion thereof, if so required by a rule of the bankruptcy appellate panel.
+            • any order granting leave to appeal;
 
-        An appellee may also serve and file an appendix which contains material required to be included by the appellant but omitted by appellant.
+            • any certification required for a direct appeal to the court of appeals;
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Mar. 26, 2009, eff. Dec. 1, 2009.)
+            • any opinion, findings of fact, and conclusions of law relating to the issues on appeal, including transcripts of all oral rulings;
 
- __Notes of Advisory Committee on Rules—1983__ 
+            • any transcript ordered under subdivision (b);
 
-    Subdivision (a) of this rule is adapted from Rules 28(a) and 31(a) F.R.App.P. The introductory clause of the rule recognizes the desirability of allowing local and individual variation in the filing of briefs. The numbered paragraphs prescribe shorter periods than the corresponding periods allowed by Rule 31(a) F.R.App.P.
+            • any statement required by subdivision (c); and
 
-    Subdivision (b), which is similar to an interim rule for bankruptcy appellate panels promulgated by the Ninth Circuit, applies only when an appeal is to an appellate panel. The appellant must prepare an appendix to the brief which contains the documents relevant to the appeal. With the appendix available to each member of the appellate panel, it is unlikely that multiple copies of the record will be necessary. The last sentence of the subdivision enables the appellee to correct an omission of the appellant.
+            • any additional items from the record that the court where the appeal is pending orders.
 
-    Rule 30 F.R.App.P., which governs the preparation of the appendix in appeals taken to the courts of appeals, specifies fewer documents which must be included in the appendix but permits the parties to include any other material.
+        (5) Copies for the Bankruptcy Clerk. If paper copies are needed, a party filing a designation of items must provide a copy of any of those items that the bankruptcy clerk requests. If the party fails to do so, the bankruptcy clerk must prepare the copy at the party’s expense.
 
- __Notes of Advisory Committee on Rules—1987 Amendment__ 
+    (b) __Transcript of Proceedings.__ 
 
-    The amendment to Rule 8007(c) permits a rule of the bankruptcy appellate panel to provide that the record is to be retained rather than transmitted. The new paragraph (9) of subdivision (b) of this rule complements Rule 8007(c) by authorizing a rule of the panel to require inclusion of the transcript or a portion thereof in the appendix.
+        (1)
 
- __Committee Notes on Rules—2009 Amendment__ 
+ Appellant’s Duty to Order. Within the time period prescribed by subdivision (a)(1), the appellant must:
 
-    The rule is amended to implement changes in connection with the amendment to Rule 9006(a) and the manner by which time is computed under the rules. The deadlines in the rule are amended to substitute a deadline that is a multiple of seven days. Throughout the rules, deadlines are amended in the following manner:
+            (A) order in writing from the reporter, as defined in Rule 8010(a)(1), a transcript of such parts of the proceedings not already on file as the appellant considers necessary for the appeal, and file a copy of the order with the bankruptcy clerk; or
 
-    • 5-day periods become 7-day periods
+            (B) file with the bankruptcy clerk a certificate stating that the appellant is not ordering a transcript.
 
-    • 10-day periods become 14-day periods
+        (2)
 
-    • 15-day periods become 14-day periods
+ Cross-Appellant’s Duty to Order. Within 14 days after the appellant files a copy of the transcript order or a certificate of not ordering a transcript, the appellee as cross-appellant must:
 
-    • 20-day periods become 21-day periods
+            (A) order in writing from the reporter, as defined in Rule 8010(a)(1), a transcript of such additional parts of the proceedings as the cross-appellant considers necessary for the appeal, and file a copy of the order with the bankruptcy clerk; or
 
-    • 25-day periods become 28-day periods
+            (B) file with the bankruptcy clerk a certificate stating that the cross-appellant is not ordering a transcript.
+
+        (3) Appellee’s or Cross-Appellee’s Right to Order. Within 14 days after the appellant or cross-appellant files a copy of a transcript order or certificate of not ordering a transcript, the appellee or cross-appellee may order in writing from the reporter a transcript of such additional parts of the proceedings as the appellee or cross-appellee considers necessary for the appeal. A copy of the order must be filed with the bankruptcy clerk.
+
+        (4) Payment. At the time of ordering, a party must make satisfactory arrangements with the reporter for paying the cost of the transcript.
+
+        (5) Unsupported Finding or Conclusion. If the appellant intends to argue on appeal that a finding or conclusion is unsupported by the evidence or is contrary to the evidence, the appellant must include in the record a transcript of all relevant testimony and copies of all relevant exhibits.
+
+    (c)  __Statement of the Evidence When a Transcript is Unavailable__  __.__ 
+
+     If a transcript of a hearing or trial is unavailable, the appellant may prepare a statement of the evidence or proceedings from the best available means, including the appellant’s recollection. The statement must be filed within the time prescribed by subdivision (a)(1) and served on the appellee, who may serve objections or proposed amendments within 14 days after being served. The statement and any objections or proposed amendments must then be submitted to the bankruptcy court for settlement and approval. As settled and approved, the statement must be included by the bankruptcy clerk in the record on appeal.
+
+    (d)  __Agreed Statement as the Record on Appeal__  __.__ 
+
+     Instead of the record on appeal as defined in subdivision (a), the parties may prepare, sign, and submit to the bankruptcy court a statement of the case showing how the issues presented by the appeal arose and were decided in the bankruptcy court. The statement must set forth only those facts alleged and proved or sought to be proved that are essential to the court’s resolution of the issues. If the statement is accurate, it—together with any additions that the bankruptcy court may consider necessary to a full presentation of the issues on appeal—must be approved by the bankruptcy court and must then be certified to the court where the appeal is pending as the record on appeal. The bankruptcy clerk must then transmit it to the clerk of that court within the time provided by Rule 8010. A copy of the agreed statement may be filed in place of the appendix required by Rule 8018(b) or, in the case of a direct appeal to the court of appeals, by F.R.App.P. 30.
+
+    (e) __Correcting or Modifying the Record.__ 
+
+        (1) Submitting to the Bankruptcy Court. If any difference arises about whether the record accurately discloses what occurred in the bankruptcy court, the difference must be submitted to and settled by the bankruptcy court and the record conformed accordingly. If an item has been improperly designated as part of the record on appeal, a party may move to strike that item.
+
+        (2)
+
+ Correcting in Other Ways. If anything material to either party is omitted from or misstated in the record by error or accident, the omission or misstatement may be corrected, and a supplemental record may be certified and transmitted:
+
+            (A) on stipulation of the parties;
+
+            (B) by the bankruptcy court before or after the record has been forwarded; or
+
+            (C) by the court where the appeal is pending.
+
+        (3) Remaining Questions. All other questions as to the form and content of the record must be presented to the court where the appeal is pending.
+
+    (f)  __Sealed Documents__  __.__ 
+
+     A document placed under seal by the bankruptcy court may be designated as part of the record on appeal. In doing so, a party must identify it without revealing confidential or secret information, but the bankruptcy clerk must not transmit it to the clerk of the court where the appeal is pending as part of the record. Instead, a party must file a motion with the court where the appeal is pending to accept the document under seal. If the motion is granted, the movant must notify the bankruptcy court of the ruling, and the bankruptcy clerk must promptly transmit the sealed document to the clerk of the court where the appeal is pending.
+
+    (g)  __Other Necessary Actions__  __.__ 
+
+     All parties to an appeal must take any other action necessary to enable the bankruptcy clerk to assemble and transmit the record.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+ __Prior Rule__ 
+
+    A prior Rule 8009, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 30, 1987, eff. Aug. 1, 1987; Mar. 26, 2009, eff. Dec. 1, 2009, related to briefs and appendix and filing and service, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
+
+ __Committee Notes on Rules—2014__ 
+
+    This rule is derived from former Rule 8006 and F.R.App.P. 10 and 11(a). The provisions of this rule and Rule 8010 are applicable to appeals taken directly to a court of appeals under 28 U.S.C. § 158(d)(2), as well as to appeals to a district court or BAP. See F.R.App.P. 6(c)(2)(A) and (B). 
+
+    The rule retains the practice of former Rule 8006 of requiring the parties to designate items to be included in the record on appeal. In this respect, the bankruptcy rule differs from the appellate rule. Among other things, F.R.App.P. 10(a) provides that the record on appeal consists of all the documents and exhibits filed in the case. This requirement would often be unworkable in a bankruptcy context because thousands of items might have been filed in the overall bankruptcy case. 
+
+    Subdivision (a) provides the time period for an appellant to file a designation of items to be included in the record on appeal and a statement of the issues to be presented. It then provides for the designation of additional items by the appellee, cross-appellant, and cross-appellee, as well as for the cross-appellant’s statement of the issues to be presented in its appeal. Subdivision (a)(4) prescribes the content of the record on appeal. Ordinarily, the bankruptcy clerk will not need to have paper copies of the designated items because the clerk will either transmit them to the appellate court electronically or otherwise make them available electronically. If the bankruptcy clerk requires a paper copy of some or all of the items designated as part of the record, the clerk may request the party that designated the item to provide the necessary copies, and the party must comply with the request or bear the cost of the clerk’s copying. 
+
+    Subdivision (b) governs the process for ordering a complete or partial transcript of the bankruptcy court proceedings. In situations in which a transcript is unavailable, subdivision (c) allows for the parties’ preparation of a statement of the evidence or proceedings, which must be approved by the bankruptcy court. 
+
+    Subdivision (d) adopts the practice of F.R.App.P. 10(d) of permitting the parties to agree on a statement of the case in place of the record on appeal. The statement must show how the issues on appeal arose and were decided in the bankruptcy court. It must be approved by the bankruptcy court in order to be certified as the record on appeal. 
+
+    Subdivision (e), modeled on F.R.App.P. 10(e), provides a procedure for correcting the record on appeal if an item is improperly designated, omitted, or misstated. 
+
+    Subdivision (f) is a new provision that governs the handling of any document that remains sealed by the bankruptcy court and that a party wants to include in the record on appeal. The party must request the court where the appeal is pending to accept the document under seal, and that motion must be granted before the bankruptcy clerk may transmit the sealed document to the district, BAP, or circuit clerk. 
+
+    Subdivision (g) requires the parties’ cooperation with the bankruptcy clerk in assembling and transmitting the record. It retains the requirement of former Rule 8006, which was adapted from F.R.App.P. 11(a).
+
+    Changes Made After Publication and Comment. In subdivision (a)(2) and (3), the place of filing was clarified. “Docket entries kept by the bankruptcy clerk” was added to the list in subdivision (a)(4).
+
+ __References in Text__ 
+
+    The Federal Rules of Appellate Procedure, referred to in subd. (d), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 ----------
 

@@ -23,7 +23,7 @@
 
     The reference to the venue section of title 28 is amended to conform to the 1984 amendments to title 28.
 
-PART VIII— __APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL__ 
+PART VIII— __APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ The 2014 amendments to Part VIII of the Bankruptcy Rules are comprehensive. Proposed amendment of the heading, “Part VIII. Bankruptcy Appeals”, was not transmitted for Congressional review.__  __ </sup></sup> __ 
 
 ----------
 

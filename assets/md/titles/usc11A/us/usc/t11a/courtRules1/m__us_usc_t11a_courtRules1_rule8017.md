@@ -13,45 +13,75 @@
 
 [Previous](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8016.md) | [Next](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8018.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11a%2FcourtRules1%2Frule8017)
 
-### Rule 8017. Stay of Judgment of District Court or Bankruptcy Appellate Panel
+### Rule 8017. Brief of an Amicus Curiae 
 
-    (a)  __Automatic Stay of Judgment on Appeal__  __.__ 
+    (a)  __When Permitted__  __.__ 
 
-     Judgments of the district court or the bankruptcy appellate panel are stayed until the expiration of 14 days after entry, unless otherwise ordered by the district court or the bankruptcy appellate panel.
+     The United States or its officer or agency or a state may file an amicus-curiae brief without the consent of the parties or leave of court. Any other amicus curiae may file a brief only by leave of court or if the brief states that all parties have consented to its filing. On its own motion, and with notice to all parties to an appeal, the district court or BAP may request a brief by an amicus curiae.
 
-    (b)  __Stay Pending Appeal to the Court of Appeals__  __.__ 
+    (b)  __Motion for Leave to File__  __.__ 
 
-     On motion and notice to the parties to the appeal, the district court or the bankruptcy appellate panel may stay its judgment pending an appeal to the court of appeals. The stay shall not extend beyond 30 days after the entry of the judgment of the district court or the bankruptcy appellate panel unless the period is extended for cause shown. If before the expiration of a stay entered pursuant to this subdivision there is an appeal to the court of appeals by the party who obtained the stay, the stay shall continue until final disposition by the court of appeals. A bond or other security may be required as a condition to the grant or continuation of a stay of the judgment. A bond or other security may be required if a trustee obtains a stay but a bond or security shall not be required if a stay is obtained by the United States or an officer or agency thereof or at the direction of any department of the Government of the United States.
+     The motion must be accompanied by the proposed brief and state:
 
-    (c)  __Power of Court of Appeals Not Limited__  __.__ 
+        (1) the movant’s interest; and
 
-     This rule does not limit the power of a court of appeals or any judge thereof to stay proceedings during the pendency of an appeal or to suspend, modify, restore, or grant an injunction during the pendency of an appeal or to make any order appropriate to preserve the status quo or the effectiveness of the judgment subsequently to be entered.
+        (2) the reason why an amicus brief is desirable and why the matters asserted are relevant to the disposition of the appeal.
 
-(As amended Mar. 26, 2009, eff. Dec. 1, 2009.)
+    (c)  __Contents and Form__  __.__ 
 
- __Notes of Advisory Committee on Rules—1983__ 
+     An amicus brief must comply with Rule 8015. In addition to the requirements of Rule 8015, the cover must identify the party or parties supported and indicate whether the brief supports affirmance or reversal. If an amicus curiae is a corporation, the brief must include a disclosure statement like that required of parties by Rule 8012. An amicus brief need not comply with Rule 8014, but must include the following:
 
-    This rule is derived from Rule 62 F.R.Civ.P. and Rule 41 F.R.App.P.
+        (1) a table of contents, with page references;
 
-    Subdivision (a) accords to the parties to an appeal 10 days within which to decide whether to pursue an appeal to the court of appeals. In ordinary civil litigation there is a similar opportunity. Rule 62(a) F.R.Civ.P. automatically stays enforcement of a district court’s judgment in a civil action and Rule 41(a) F.R.App.P. provides that the mandate of the court of appeals shall not issue for 21 days, unless the court otherwise directs. The district court or bankruptcy appellate panel may reduce the 10 day period of this subdivision.
+        (2) a table of authorities—cases (alphabetically arranged), statutes, and other authorities—with references to the pages of the brief where they are cited;
 
-    Subdivision (b) vests in the district courts and the bankruptcy appellate panels the same authority the courts of appeals have under Rule 41(b) F.R.App.P. to stay their judgments pending appeal. Perfection of an appeal to the court of appeals while a stay entered by the district court or bankruptcy appellate panel is in effect results in the automatic continuation of that stay during the course of the appeal in the court of appeals.
+        (3) a concise statement of the identity of the amicus curiae, its interest in the case, and the source of its authority to file;
 
-    Subdivision (c) is the same as Rule 62(g) F.R.Civ.P.
+        (4)
 
- __Committee Notes on Rules—2009 Amendment__ 
+         unless the amicus curiae is one listed in the first sentence of subdivision (a), a statement that indicates whether:
 
-    The rule is amended to implement changes in connection with the amendment to Rule 9006(a) and the manner by which time is computed under the rules. The deadline in the rule is amended to substitute a deadline that is a multiple of seven days. Throughout the rules, deadlines are amended in the following manner:
+            (A) a party’s counsel authored the brief in whole or in part;
 
-    • 5-day periods become 7-day periods
+            (B) a party or a party’s counsel contributed money that was intended to fund preparing or submitting the brief; and
 
-    • 10-day periods become 14-day periods
+            (C) a person—other than the amicus curiae, its members, or its counsel—contributed money that was intended to fund preparing or submitting the brief and, if so, identifies each such person;
 
-    • 15-day periods become 14-day periods
+        (5) an argument, which may be preceded by a summary and need not include a statement of the applicable standard of review; and
 
-    • 20-day periods become 21-day periods
+        (6) a certificate of compliance, if required by Rule 8015(a)(7)(C) or 8015(b).
 
-    • 25-day periods become 28-day periods
+    (d)  __Length__  __.__ 
+
+     Except by the district court’s or BAP’s permission, an amicus brief must be no more than one-half the maximum length authorized by these rules for a party’s principal brief. If the court grants a party permission to file a longer brief, that extension does not affect the length of an amicus brief.
+
+    (e)  __Time for Filing__  __.__ 
+
+     An amicus curiae must file its brief, accompanied by a motion for filing when necessary, no later than 7 days after the principal brief of the party being supported is filed. An amicus curiae that does not support either party must file its brief no later than 7 days after the appellant’s principal brief is filed. The district court or BAP may grant leave for later filing, specifying the time within which an opposing party may answer.
+
+    (f)  __Reply Brief__  __.__ 
+
+     Except by the district court’s or BAP’s permission, an amicus curiae may not file a reply brief.
+
+    (g)  __Oral Argument__  __.__ 
+
+     An amicus curiae may participate in oral argument only with the district court’s or BAP’s permission.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+ __Prior Rule__ 
+
+    A prior Rule 8017, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 26, 2009, eff. Dec. 1, 2009, related to stay of judgment of district court or bankruptcy appellate panel, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
+
+ __Committee Notes on Rules—2014__ 
+
+    This rule is derived from F.R.App.P. 29. The former Part VIII rules did not address the participation by an amicus curiae in a bankruptcy appeal. 
+
+    Subdivision (a) adopts the provisions of F.R.App.P. 29(a). In addition, it authorizes the district court or BAP on its own motion—with notice to the parties—to request the filing of a brief by an amicus curiae. 
+
+    Subdivisions (b)–(g) adopt F.R.App.P. 29(b)–(g).
+
+    Changes Made After Publication and Comment. No changes were made after publication and comment.
 
 ----------
 

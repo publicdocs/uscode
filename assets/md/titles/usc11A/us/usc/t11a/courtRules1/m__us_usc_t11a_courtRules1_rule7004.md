@@ -55,7 +55,7 @@
 
     (e)  __Summons: Time Limit for Service Within the United States__  __.__ 
 
-     Service made under Rule 4(e), (g), (h)(1), (i), or (j)(2) F.R.Civ.P. shall be by delivery of the summons and complaint within 14 days after the summons is issued. If service is by any authorized form of mail, the summons and complaint shall be deposited in the mail within 14 days after the summons is issued. If a summons is not timely delivered or mailed, another summons shall be issued and served. This subdivision does not apply to service in a foreign country.
+     Service made under Rule 4(e), (g), (h)(1), (i), or (j)(2) F.R.Civ.P. shall be by delivery of the summons and complaint within 7 days after the summons is issued. If service is by any authorized form of mail, the summons and complaint shall be deposited in the mail within 7 days after the summons is issued. If a summons is not timely delivered or mailed, another summons will be issued for service. This subdivision does not apply to service in a foreign country.
 
     (f)  __Personal Jurisdiction__  __.__ 
 
@@ -75,7 +75,7 @@
 
         (3) the institution has waived in writing its entitlement to service by certified mail by designating an officer to receive service.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; [Pub. L. 103–394, title I, § 114][/us/pl/103/394/s114], Oct. 22, 1994, [108 Stat. 4118][/us/stat/108/4118]; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; [Pub. L. 103–394, title I, § 114][/us/pl/103/394/s114], Oct. 22, 1994, [108 Stat. 4118][/us/stat/108/4118]; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
  __Notes of Advisory Committee on Rules—1983__ 
 
@@ -218,6 +218,12 @@
     • 20-day periods become 21-day periods
 
     • 25-day periods become 28-day periods
+
+ __Committee Notes on Rules—2014 Amendment__ 
+
+    Subdivision (e) is amended to alter the period of time during which service of the summons and complaint must be made. The amendment reduces that period from fourteen days to seven days after issuance of the summons. Because Rule 7012 provides that the defendant’s time to answer the complaint is calculated from the date the summons is issued, a lengthy delay between issuance and service of the summons may unduly shorten the defendant’s time to respond. The amendment is therefore intended to encourage prompt service after issuance of a summons. If service of the summons within any seven-day period is impracticable, a court retains the discretion to enlarge that period of time under Rule 9006(b).
+
+    Changes Made After Publication and Comment. A new sentence referring to the availability of an enlargement of time under Rule 9006(b) was added to the Committee Note. The only other change made after publication and comment was stylistic.
 
  __References in Text__ 
 

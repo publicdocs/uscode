@@ -13,35 +13,81 @@
 
 [Previous](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8017.md) | [Next](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8019.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11a%2FcourtRules1%2Frule8018)
 
-### Rule 8018. Rules by Circuit Councils and District Courts; Procedure When There is No Controlling Law
+### Rule 8018. Serving and Filing Briefs; Appendices
 
-    (a)  __Local Rules by Circuit Councils and District Courts__  __.__ 
+    (a)  __Time to Serve and File a Brief__  __.__ 
 
-        (1) Circuit councils which have authorized bankruptcy appellate panels pursuant to 28 U.S.C. § 158(b) and the district courts may, acting by a majority of the judges of the council or district court, make and amend rules governing practice and procedure for appeals from orders or judgments of bankruptcy judges to the respective bankruptcy appellate panel or district court consistent with—but not duplicative of—Acts of Congress and the rules of this Part VIII. Local rules shall conform to any uniform numbering system prescribed by the Judicial Conference of the United States. Rule 83 F.R.Civ.P. governs the procedure for making and amending rules to govern appeals.
+     The following rules apply unless the district court or BAP by order in a particular case excuses the filing of briefs or specifies different time limits:
 
-        (2) A local rule imposing a requirement of form shall not be enforced in a manner that causes a party to lose rights because of a nonwillful failure to comply with the requirement.
+        (1) The appellant must serve and file a brief within 30 days after the docketing of notice that the record has been transmitted or is available electronically.
 
-    (b)  __Procedure When There is No Controlling Law__  __.__ 
+        (2) The appellee must serve and file a brief within 30 days after service of the appellant’s brief.
 
-     A bankruptcy appellate panel or district judge may regulate practice in any manner consistent with federal law, these rules, Official Forms, and local rules of the circuit council or district court. No sanction or other disadvantage may be imposed for noncompliance with any requirement not in federal law, federal rules, Official Forms, or the local rules of the circuit council or district court unless the alleged violator has been furnished in the particular case with actual notice of the requirement.
+        (3) The appellant may serve and file a reply brief within 14 days after service of the appellee’s brief, but a reply brief must be filed at least 7 days before scheduled argument unless the district court or BAP, for good cause, allows a later filing.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 27, 1995, eff. Dec. 1, 1995.)
+        (4) If an appellant fails to file a brief on time or within an extended time authorized by the district court or BAP, an appellee may move to dismiss the appeal—or the district court or BAP, after notice, may dismiss the appeal on its own motion. An appellee who fails to file a brief will not be heard at oral argument unless the district court or BAP grants permission.
 
- __Notes of Advisory Committee on Rules—1983__ 
+    (b) __Duty to Serve and File an Appendix to the Brief.__ 
 
-    This rule is similar to Rule 47 F.R.App.P. and Rule 83 F.R.Civ.P. Local rules governing procedure before the bankruptcy courts may be promulgated under Rule 9028.
+        (1)
 
- __Notes of Advisory Committee on Rules—1987 Amendment__ 
+ Appellant. Subject to subdivision (e) and Rule 8009(d), the appellant must serve and file with its principal brief excerpts of the record as an appendix. It must contain the following:
 
-    Rule 83 F.R.Civ.P. was amended in August 1985 to require greater participation by the public in the rule making process. The amendment to Rule 8018 incorporates Rule 83 F.R.Civ.P. Under 28 U.S.C. § 158(b)(2), appeals may be taken to a bankruptcy appellate panel only if the district court so authorizes. If a district court does not authorize appeals to the bankruptcy appellate panel, appeals will be to the district court. This rule is amended to authorize district courts to promulgate rules for appeals.
+            (A) the relevant entries in the bankruptcy docket;
 
- __Notes of Advisory Committee on Rules—1995 Amendment__ 
+            (B) the complaint and answer, or other equivalent filings;
 
-    The amendments to this rule conform to the amendments to Rule 9029. See Committee Note to the amendments to Rule 9029.
+            (C) the judgment, order, or decree from which the appeal is taken;
 
- __References in Text__ 
+            (D) any other orders, pleadings, jury instructions, findings, conclusions, or opinions relevant to the appeal;
 
-    The Federal Rules of Civil Procedure, referred to in subd. (a)(1), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+            (E) the notice of appeal; and
+
+            (F) any relevant transcript or portion of it.
+
+        (2) Appellee. The appellee may also serve and file with its brief an appendix that contains material required to be included by the appellant or relevant to the appeal or cross-appeal, but omitted by the appellant.
+
+        (3) Cross-Appellee. The appellant as cross-appellee may also serve and file with its response an appendix that contains material relevant to matters raised initially by the principal brief in the cross-appeal, but omitted by the cross-appellant.
+
+    (c)  __Format of the Appendix__  __.__ 
+
+     The appendix must begin with a table of contents identifying the page at which each part begins. The relevant docket entries must follow the table of contents. Other parts of the record must follow chronologically. When pages from the transcript of proceedings are placed in the appendix, the transcript page numbers must be shown in brackets immediately before the included pages. Omissions in the text of documents or of the transcript must be indicated by asterisks. Immaterial formal matters (captions, subscriptions, acknowledgments, and the like) should be omitted.
+
+    (d)  __Exhibits__  __.__ 
+
+     Exhibits designated for inclusion in the appendix may be reproduced in a separate volume or volumes, suitably indexed.
+
+    (e)  __Appeal on the Original Record Without an Appendix__  __.__ 
+
+     The district court or BAP may, either by rule for all cases or classes of cases or by order in a particular case, dispense with the appendix and permit an appeal to proceed on the original record, with the submission of any relevant parts of the record that the district court or BAP orders the parties to file.
+
+(Added Apr. 25, 2014, eff. Dec. 1,2014.)
+
+ __Prior Rule__ 
+
+    A prior Rule 8018, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 27, 1995, eff. Dec. 1, 1995, related to rules by circuit councils and district courts and procedure when there is no controlling law, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
+
+ __Committee Notes on Rules—2014__ 
+
+    This rule is derived from former Rule 8009 and F.R.App.P. 30 and 31. Like former Rule 8009, it addresses the timing of serving and filing briefs and appendices, as well as the content and format of appendices. Rule 8011 governs the methods of filing and serving briefs and appendices. 
+
+    The rule retains the bankruptcy practice of permitting the appellee to file its own appendix, rather than requiring the appellant to include in its appendix matters designated by the appellee. Rule 8016 governs the timing of serving and filing briefs when a cross-appeal is taken. This rule’s provisions about appendices apply to all appeals, including cross-appeals. 
+
+    Subdivision (a) retains former Rule 8009’s provision that allows the district court or BAP to dispense with briefing or to provide different time periods than this rule specifies. It increases some of the time periods for filing briefs from the periods prescribed by the former rule, while still retaining shorter time periods than some provided by F.R.App.P. 31(a). The time for filing the appellant’s brief is increased from 14 to 30 days after the docketing of the notice of the transmission of the record or notice of the availability of the record. That triggering event is equivalent to docketing the appeal under former Rule 8007. Appellate Rule 31(a)(1), by contrast, provides the appellant 40 days after the record is filed to file its brief. The shorter time period for bankruptcy appeals reflects the frequent need for greater expedition in the resolution of bankruptcy appeals, while still providing the appellant more time to prepare its brief than the former rule provided. 
+
+    Subdivision (a)(2) similarly expands the time period for filing the appellee’s brief from 14 to 30 days after the service of the appellant’s brief. This period is the same as F.R.App.P. 31(a)(1) provides. 
+
+    Subdivision (a)(3) retains the 14-day time period for filing a reply brief that the former rule prescribed, but it qualifies that period to ensure that the final brief is filed at least 7 days before oral argument. 
+
+    If a district court or BAP has a mediation procedure for bankruptcy appeals, that procedure could affect when briefs must be filed. See Rule 8027. 
+
+    Subdivision (a)(4) is new. Based on F.R.App.P. 31(c), it provides for actions that may be taken—dismissal of the appeal or denial of participation in oral argument—if the appellant or appellee fails to file its brief. 
+
+    Subdivisions (b) and (c) govern the content and format of the appendix to a brief. Subdivision (b) is similar to former Rule 8009(b), and subdivision (c) is derived from F.R.App.P. 30(d). 
+
+    Subdivision (d), which addresses the inclusion of exhibits in the appendix, is derived from F.R.App.P. 30(e). 
+
+    Changes Made After Publication and Comment. Subdivision (a)(4) was revised to provide more detail about the procedure for dismissing an appeal due to appellant’s failure to timely file a brief.
 
 ----------
 

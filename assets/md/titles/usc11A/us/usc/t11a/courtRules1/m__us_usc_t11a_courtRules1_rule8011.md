@@ -13,31 +13,97 @@
 
 [Previous](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8010.md) | [Next](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8012.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11a%2FcourtRules1%2Frule8011)
 
-### Rule 8011. Motions
+### Rule 8011. Filing and Service; Signature
 
-    (a)  __Content of Motions; Response; Reply__  __.__ 
+    (a)  __Filing. __ 
 
-     A request for an order or other relief shall be made by filing with the clerk of the district court or the clerk of the bankruptcy appellate panel a motion for such order or relief with proof of service on all other parties to the appeal. The motion shall contain or be accompanied by any matter required by a specific provision of these rules governing such a motion, shall state with particularity the grounds on which it is based, and shall set forth the order or relief sought. If a motion is supported by briefs, affidavits or other papers, they shall be served and filed with the motion. Any party may file a response in opposition to a motion other than one for a procedural order within seven days after service of the motion, but the district court or the bankruptcy appellate panel may shorten or extend the time for responding to any motion.
+        (1) With the Clerk. A document required or permitted to be filed in a district court or BAP must be filed with the clerk of that court.
 
-    (b)  __Determination of Motions for Procedural Orders__  __.__ 
+        (2)
 
-     Notwithstanding subdivision (a) of this rule, motions for procedural orders, including any motion under Rule 9006, may be acted on at any time, without awaiting a response thereto and without hearing. Any party adversely affected by such action may move for reconsideration, vacation, or modification of the action.
+ Method and Timeliness.
 
-    (c)  __Determination of all Motions__  __.__ 
+            (A) In General. Filing may be accomplished by transmission to the clerk of the district court or BAP. Except as provided in subdivision (a)(2)(B) and (C), filing is timely only if the clerk receives the document within the time fixed for filing.
 
-     All motions will be decided without oral argument unless the court orders otherwise. A motion for a stay, or for other emergency relief may be denied if not presented promptly.
+            (B)
 
-    (d)  __Emergency Motions__  __.__ 
+ Brief or Appendix. A brief or appendix is also timely filed if, on or before the last day for filing, it is:
 
-     Whenever a movant requests expedited action on a motion on the ground that, to avoid irreparable harm, relief is needed in less time than would normally be required for the district court or bankruptcy appellate panel to receive and consider a response, the word “Emergency” shall precede the title of the motion. The motion shall be accompanied by an affidavit setting forth the nature of the emergency. The motion shall state whether all grounds advanced in support thereof were submitted to the bankruptcy judge and, if any grounds relied on were not submitted, why the motion should not be remanded to the bankruptcy judge for reconsideration. The motion shall include the office addresses and telephone numbers of moving and opposing counsel and shall be served pursuant to Rule 8008. Prior to filing the motion, the movant shall make every practicable effort to notify opposing counsel in time for counsel to respond to the motion. The affidavit accompanying the motion shall also state when and how opposing counsel was notified or if opposing counsel was not notified why it was not practicable to do so.
+                (i) mailed to the clerk by first-class mail—or other class of mail that is at least as expeditious—postage prepaid, if the district court’s or BAP’s procedures permit or require a brief or appendix to be filed by mailing; or
 
-    (e)  __Power of a Single Judge To Entertain Motions__  __.__ 
+                (ii) dispatched to a third-party commercial carrier for delivery within 3 days to the clerk, if the court’s procedures so permit or require.
 
-     A single judge of a bankruptcy appellate panel may grant or deny any request for relief which under these rules may properly be sought by motion, except that a single judge may not dismiss or otherwise decide an appeal or a motion for leave to appeal. The action of a single judge may be reviewed by the panel.
+            (C) Inmate Filing. A document filed by an inmate confined in an institution is timely if deposited in the institution’s internal mailing system on or before the last day for filing. If the institution has a system designed for legal mail, the inmate must use that system to receive the benefit of this rule. Timely filing may be shown by a declaration in compliance with 28 U.S.C. § 1746 or by a notarized statement, either of which must set forth the date of deposit and state that first-class postage has been prepaid.
 
- __Notes of Advisory Committee on Rules—1983__ 
+            (D) Copies. If a document is filed electronically, no paper copy is required. If a document is filed by mail or delivery to the district court or BAP, no additional copies are required. But the district court or BAP may require by local rule or by order in a particular case the filing or furnishing of a specified number of paper copies.
 
-    Subdivisions (a), (b) and (e) of this rule conform substantially to subdivisions (a), (b) and (c) of Rule 27 F.R.App.P. Subdivisions (c) and (d) are taken from Rule 13(c) and (d) of the Rules of the First Circuit governing appeals to bankruptcy appellate panels.
+        (3) Clerk’s Refusal of Documents. The court’s clerk must not refuse to accept for filing any document transmitted for that purpose solely because it is not presented in proper form as required by these rules or by any local rule or practice. 
+
+    (b)  __Service of all Documents Required__  __.__ 
+
+     Unless a rule requires service by the clerk, a party must, at or before the time of the filing of a document, serve it on the other parties to the appeal. Service on a party represented by counsel must be made on the party’s counsel.
+
+    (c) __Manner of Service.__ 
+
+        (1)
+
+ Methods. Service must be made electronically, unless it is being made by or on an individual who is not represented by counsel or the court’s governing rules permit or require service by mail or other means of delivery. Service may be made by or on an unrepresented party by any of the following methods:
+
+            (A) personal delivery;
+
+            (B) mail; or
+
+            (C) third-party commercial carrier for delivery within 3 days.
+
+        (2) When Service is Complete. Service by electronic means is complete on transmission, unless the party making service receives notice that the document was not transmitted successfully. Service by mail or by commercial carrier is complete on mailing or delivery to the carrier.
+
+    (d) __Proof of Service.__ 
+
+        (1)
+
+ What is Required. A document presented for filing must contain either:
+
+            (A) an acknowledgment of service by the person served; or
+
+            (B)
+
+             proof of service consisting of a statement by the person who made service certifying:
+
+                (i) the date and manner of service;
+
+                (ii) the names of the persons served; and
+
+                (iii) the mail or electronic address, the fax number, or the address of the place of delivery, as appropriate for the manner of service, for each person served.
+
+        (2) Delayed Proof. The district or BAP clerk may permit documents to be filed without acknowledgment or proof of service, but must require the acknowledgment or proof to be filed promptly thereafter.
+
+        (3) Brief or Appendix. When a brief or appendix is filed, the proof of service must also state the date and manner by which it was filed.
+
+    (e)  __Signature__  __.__ 
+
+     Every document filed electronically must include the electronic signature of the person filing it or, if the person is represented, the electronic signature of counsel. The electronic signature must be provided by electronic means that are consistent with any technical standards that the Judicial Conference of the United States establishes. Every document filed in paper form must be signed by the person filing the document or, if the person is represented, by counsel.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+ __Prior Rule__ 
+
+    A prior Rule 8011, Apr. 25, 1983, eff. Aug. 1, 1983, related to motions, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
+
+ __Committee Notes on Rules—2014__ 
+
+    This rule is derived from former Rule 8008 and F.R.App.P. 25. It adopts some of the additional details of the appellate rule, and it provides greater recognition of the possibility of electronic filing and service. 
+
+    Subdivision (a) governs the filing of documents in the district court or BAP. Consistent with other provisions of these Part VIII rules, subdivision (a)(2) requires electronic filing of documents, including briefs and appendices, unless the district court’s or BAP’s procedures permit or require other methods of delivery to the court. An electronic filing is timely if it is received by the district or BAP clerk within the time fixed for filing. No additional copies need to be submitted when documents are filed electronically, by mail, or by delivery unless the district court or BAP requires them. 
+
+    Subdivision (a)(3) provides that the district or BAP clerk may not refuse to accept a document for filing solely because its form does not comply with these rules or any local rule or practice. The district court or BAP may, however, direct the correction of any deficiency in any document that does not conform to the requirements of these rules or applicable local rules, and may prescribe such other relief as the court deems appropriate. 
+
+    Subdivisions (b) and (c) address the service of documents in the district court or BAP. Except for documents that the district or BAP clerk must serve, a party that makes a filing must serve copies of the document on the other parties to the appeal. Service on represented parties must be made on counsel. Subdivision (c) expresses the general requirement under these Part VIII rules that documents be sent electronically. See Rule 8001(c). Local court rules, however, may provide for other means of service, and subdivision (c) specifies non-electronic methods of service by or on an unrepresented party. Electronic service is complete upon transmission, unless the party making service receives notice that the transmission did not reach the person intended to be served in a readable form. 
+
+    Subdivision (d) retains the former rule’s provisions regarding proof of service of a document filed in the district court or BAP. In addition, it provides that a certificate of service must state the mail or electronic address or fax number to which service was made. 
+
+    Subdivision (e) is a new provision that requires an electronic signature of counsel or an unrepresented filer for documents that are filed electronically in the district court or BAP. A local rule may specify a method of providing an electronic signature that is consistent with any standards established by the Judicial Conference of the United States. Paper copies of documents filed in the district court or BAP must bear an actual signature of counsel or the filer. By requiring a signature, subdivision (e) ensures that a readily identifiable attorney or party takes responsibility for every document that is filed.
+
+    Changes Made After Publication and Comment. No changes were made after publication and comment.
 
 ----------
 

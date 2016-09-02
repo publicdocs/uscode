@@ -15,9 +15,9 @@
 
 ### Rule 9023. New Trials; Amendment of Judgments
 
-    Except as provided in this rule and Rule 3008, Rule 59 F.R.Civ.P. applies in cases under the Code. A motion for a new trial or to alter or amend a judgment shall be filed, and a court may on its own order a new trial, no later than 14 days after entry of judgment.
+    Except as provided in this rule and Rule 3008, Rule 59 F.R.Civ.P. applies in cases under the Code. A motion for a new trial or to alter or amend a judgment shall be filed, and a court may on its own order a new trial, no later than 14 days after entry of judgment. In some circumstances, Rule 8008 governs post-judgment motion practice after an appeal has been docketed and is pending.
 
-(As amended Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
  __Notes of Advisory Committee on Rules—1983__ 
 
@@ -26,6 +26,12 @@
  __Committee Notes on Rules—2009 Amendment__ 
 
     The rule is amended to limit to 14 days the time for a party to file a post judgment motion for a new trial and for the court to order sua sponte a new trial. In 2009, Rule 59 F. R. Civ. P. was amended to extend the deadline for these actions to 28 days after the entry of judgment. That deadline corresponds to the 30-day deadline for filing a notice of appeal in a civil case under Rule 4(a)(1)(A) F.R.App.P. In a bankruptcy case, however, the deadline for filing a notice of appeal is 14 days. Therefore, the 28-day deadline for filing a motion for a new trial or a motion to alter or amend a judgment would effectively override the notice of appeal deadline under Rule 8002(a) but for this amendment.
+
+ __Committee Notes on Rules—2014 Amendment__ 
+
+    This rule is amended to include a cross-reference to Rule 8008. That rule governs the issuance of an indicative ruling when relief is sought that the court lacks authority to grant because of an appeal that has been docketed and is pending.
+
+    Changes Made After Publication and Comment. No changes were made after publication and comment.
 
  __References in Text__ 
 

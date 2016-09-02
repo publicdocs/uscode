@@ -15,95 +15,93 @@
 
 ### Rule 8002. Time for Filing Notice of Appeal
 
-    (a)  __Fourteen-Day Period__  __.__ 
+    (a) __In General.__ 
 
-     The notice of appeal shall be filed with the clerk within 14 days of the date of the entry of the judgment, order, or decree appealed from. If a timely notice of appeal is filed by a party, any other party may file a notice of appeal within 14 days of the date on which the first notice of appeal was filed, or within the time otherwise prescribed by this rule, whichever period last expires. A notice of appeal filed after the announcement of a decision or order but before entry of the judgment, order, or decree shall be treated as filed after such entry and on the day thereof. If a notice of appeal is mistakenly filed with the district court or the bankruptcy appellate panel, the clerk of the district court or the clerk of the bankruptcy appellate panel shall note thereon the date on which it was received and transmit it to the clerk and it shall be deemed filed with the clerk on the date so noted.
+        (1) Fourteen-Day Period. Except as provided in subdivisions (b) and (c), a notice of appeal must be filed with the bankruptcy clerk within 14 days after entry of the judgment, order, or decree being appealed.
 
-    (b)  __Effect of Motion on Time for Appeal__  __.__ 
+        (2) Filing Before the Entry of Judgment. A notice of appeal filed after the bankruptcy court announces a decision or order—but before entry of the judgment, order, or decree—is treated as filed on the date of and after the entry.
 
-     If any party makes a timely motion of a type specified immediately below, the time for appeal for all parties runs from the entry of the order disposing of the last such motion outstanding. This provision applies to a timely motion:
+        (3) Multiple Appeals. If one party files a timely notice of appeal, any other party may file a notice of appeal within 14 days after the date when the first notice was filed, or within the time otherwise allowed by this rule, whichever period ends later.
 
-        (1) to amend or make additional findings of fact under Rule 7052, whether or not granting the motion would alter the judgment;
+        (4) Mistaken Filing in Another Court. If a notice of appeal is mistakenly filed in a district court, BAP, or court of appeals, the clerk of that court must state on the notice the date on which it was received and transmit it to the bankruptcy clerk. The notice of appeal is then considered filed in the bankruptcy court on the date so stated.
 
-        (2) to alter or amend the judgment under Rule 9023;
-
-        (3) for a new trial under Rule 9023; or
-
-        (4) for relief under Rule 9024 if the motion is filed no later than 14 days after the entry of judgment. A notice of appeal filed after announcement or entry of the judgment, order, or decree but before disposition of any of the above motions is ineffective to appeal from the judgment, order, or decree, or part thereof, specified in the notice of appeal, until the entry of the order disposing of the last such motion outstanding. Appellate review of an order disposing of any of the above motions requires the party, in compliance with Rule 8001, to amend a previously filed notice of appeal. A party intending to challenge an alteration or amendment of the judgment, order, or decree shall file a notice, or an amended notice, of appeal within the time prescribed by this Rule 8002 measured from the entry of the order disposing of the last such motion outstanding. No additional fees will be required for filing an amended notice.
-
-    (c)  __Extension of Time for Appeal__  __.__ 
+    (b) __Effect of a Motion on the Time to Appeal.__ 
 
         (1)
 
-         The bankruptcy judge may extend the time for filing the notice of appeal by any party, unless the judgment, order, or decree appealed from:
+ In General. If a party timely files in the bankruptcy court any of the following motions, the time to file an appeal runs for all parties from the entry of the order disposing of the last such remaining motion:
 
-            (A) grants relief from an automatic stay under § 362, § 922, § 1201, or § 1301;
+            (A) to amend or make additional findings under Rule 7052, whether or not granting the motion would alter the judgment;
 
-            (B) authorizes the sale or lease of property or the use of cash collateral under § 363;
+            (B) to alter or amend the judgment under Rule 9023;
 
-            (C) authorizes the obtaining of credit under § 364;
+            (C) for a new trial under Rule 9023; or
 
-            (D) authorizes the assumption or assignment of an executory contract or unexpired lease under § 365;
+            (D) for relief under Rule 9024 if the motion is filed within 14 days after the judgment is entered.
 
-            (E) approves a disclosure statement under § 1125; or
+        (2) Filing an Appeal Before the Motion is Decided. If a party files a notice of appeal after the court announces or enters a judgment, order, or decree—but before it disposes of any motion listed in subdivision (b)(1)—the notice becomes effective when the order disposing of the last such remaining motion is entered.
 
-            (F) confirms a plan under § 943, § 1129, § 1225, or § 1325 of the Code.
+        (3) Appealing the Ruling on the Motion. If a party intends to challenge an order disposing of any motion listed in subdivision (b)(1)—or the alteration or amendment of a judgment, order, or decree upon the motion—the party must file a notice of appeal or an amended notice of appeal. The notice or amended notice must comply with Rule 8003 or 8004 and be filed within the time prescribed by this rule, measured from the entry of the order disposing of the last such remaining motion.
 
-        (2) A request to extend the time for filing a notice of appeal must be made by written motion filed before the time for filing a notice of appeal has expired, except that such a motion filed not later than 21 days after the expiration of the time for filing a notice of appeal may be granted upon a showing of excusable neglect. An extension of time for filing a notice of appeal may not exceed 21 days from the expiration of the time for filing a notice of appeal otherwise prescribed by this rule or 14 days from the date of entry of the order granting the motion, whichever is later.
+        (4) No Additional Fee. No additional fee is required to file an amended notice of appeal.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 29, 1994, eff. Aug. 1, 1994; Apr. 11, 1997, eff. Dec. 1, 1997; Mar. 26, 2009, eff. Dec. 1, 2009.)
+    (c) __Appeal by an Inmate Confined in an Institution.__ 
 
- __Notes of Advisory Committee on Rules—1983__ 
+        (1) In General. If an inmate confined in an institution files a notice of appeal from a judgment, order, or decree of a bankruptcy court, the notice is timely if it is deposited in the institution’s internal mail system on or before the last day for filing. If the institution has a system designed for legal mail, the inmate must use that system to receive the benefit of this rule. Timely filing may be shown by a declaration in compliance with 28 U.S.C. § 1746 or by a notarized statement, either of which must set forth the date of deposit and state that first-class postage has been prepaid.
 
-    This rule is an adaptation of Rule 4(a) F.R.App.P. The time to appeal from a judgment, order, or decree of a bankruptcy judge is 10 days, rather than the 30 days provided for in the civil practice. The shortened time is specified in order to obtain prompt appellate review, often important to the administration of a case under the Code. If a timely notice of appeal is filed, other parties have an additional 10 days within which to file a notice of appeal. A notice of appeal filed within the additional 10 day period by an appellee is a cross appeal, but there is a separate appeal if a non-appellee files a notice of appeal within that 10 day period. The district courts and bankruptcy appellate panels have inherent authority to consolidate appeals.
+        (2) Multiple Appeals. If an inmate files under this subdivision the first notice of appeal, the 14-day period provided in subdivision (a)(3) for another party to file a notice of appeal runs from the date when the bankruptcy clerk dockets the first notice.
 
-    Subdivision (b) is essentially the same as Rule 4(a)(4) of the F.R.App.P.
+    (d) __Extending the Time to Appeal.__ 
 
-    Subdivision (c) is similar to former Bankruptcy Rule 802(c). To expedite the disposition of appeals the maximum extension of time is 20 days instead of the 30 days provided by Rule 4(a)(5) of the F.R.App.P. Subject to the exceptions set forth in subdivision (c), the court may extend the time for taking an appeal when a motion for extension is filed after the expiration of the original 10 day period but no later than 20 days after the expiration of the original 10 day period. Orders of the bankruptcy court relating to the sale of property, extension of credit, confirmation of a plan, dismissal or conversion of the case, and approval of the disclosure statement are of such significance to the administration of the case, the parties in interest, and third parties that this subdivision requires that either an appeal or a motion for extension be filed within the original 10 day period.
+        (1)
 
-    If a timely notice of appeal is not filed, no appeal may be taken later. Former Bankruptcy Rule 803, which provided that a referee’s judgment became final when the appeal period expired, has been omitted as unnecessary.
+ When the Time May be Extended. Except as provided in subdivision (d)(2), the bankruptcy court may extend the time to file a notice of appeal upon a party’s motion that is filed:
 
- __Notes of Advisory Committee on Rules—1991 Amendment__ 
+            (A) within the time prescribed by this rule; or
 
-    Subdivision (a) is amended to conform to F.R.App.P. 4(a)(2) which is designed to avoid the loss of the right to appeal when a notice of appeal is filed prematurely.
+            (B) within 21 days after that time, if the party shows excusable neglect.
 
-    Subdivision (b)(1) is deleted because Rule 9015 was abrogated in 1987.
+        (2)
 
- __Notes of Advisory Committee on Rules—1994 Amendment__ 
+ When the Time May Not be Extended. The bankruptcy court may not extend the time to file a notice of appeal if the judgment, order, or decree appealed from:
 
-    These amendments are intended to conform to the 1993 amendments to F.R.App.P. 4(a)(4) and 6(b)(2)(i).
+            (A) grants relief from an automatic stay under § 362, 922, 1201, or 1301 of the Code;
 
-    This rule as amended provides that a notice of appeal filed before the disposition of a specified postjudgment motion will become effective upon disposition of the motion. A notice filed before the filing of one of the specified motions or after the filing of a motion but before disposition of the motion is, in effect, suspended until the motion is disposed of, whereupon, the previously filed notice effectively places jurisdiction in the district court or bankruptcy appellate panel.
+            (B) the sale or lease of property or the use of cash collateral under § 363 of the Code;
 
-    Because a notice of appeal will ripen into an effective appeal upon disposition of a postjudgment motion, in some instances there will be an appeal from a judgment that has been altered substantially because the motion was granted in whole or in part. The appeal may be dismissed for want of prosecution when the appellant fails to meet the briefing schedule. But, the appellee may also move to strike the appeal. When responding to such a motion, the appellant would have an opportunity to state that, even though some relief sought in a postjudgment motion was granted, the appellant still plans to pursue the appeal. Because the appellant’s response would provide the appellee with sufficient notice of the appellant’s intentions, the rule does not require an additional notice of appeal in that situation.
+            (C) authorizes the obtaining of credit under § 364 of the Code;
 
-    The amendment provides that a notice of appeal filed before the disposition of a postjudgment tolling motion is sufficient to bring the judgment, order, or decree specified in the original notice of appeal to the district court or bankruptcy appellate panel. If the judgment is altered upon disposition of a postjudgment motion, however, and if a party who has previously filed a notice of appeal wishes to appeal from the disposition of the motion, the party must amend the notice to so indicate. When a party files an amended notice, no additional fees are required because the notice is an amendment of the original and not a new notice of appeal.
+            (D) authorizes the assumption or assignment of an executory contract or unexpired lease under § 365 of the Code;
 
-    Subdivision (b) is also amended to include, among motions that extend the time for filing a notice of appeal, a motion under Rule 9024 that is filed within 10 days after entry of judgment. The addition of this motion conforms to a similar amendment to F.R.App.P. 4(a)(4) made in 1993, except that a Rule 9024 motion does not toll the time to appeal unless it is filed within the 10-day period. The reason for providing that the motion extends the time to appeal only if it is filed within the 10-day period is to enable the court and the parties in interest to determine solely from the court records whether the time to appeal has been extended by a motion for relief under Rule 9024.
+            (E) approves a disclosure statement under § 1125 of the Code; or
 
- __Notes of Advisory Committee on Rules—1997 Amendment__ 
+            (F) confirms a plan under § 943, 1129, 1225, or 1325 of the Code.
 
-    Subdivision (c) is amended to provide that a request for an extension of time to file a notice of appeal must be filed within the applicable time period. This amendment will avoid uncertainty as to whether the mailing of a motion or an oral request in court is sufficient to request an extension of time, and will enable the court and the parties in interest to determine solely from the court records whether a timely request for an extension has been made.
+        (3)  __Time Limits on an Extension__  __.__ 
 
-    The amendments also give the court discretion to permit a party to file a notice of appeal more than 20 days after expiration of the time to appeal otherwise prescribed, but only if the motion was timely filed and the notice of appeal is filed within a period not exceeding 10 days after entry of the order extending the time. This amendment is designed to protect parties that file timely motions to extend the time to appeal from the harshness of the present rule as demonstrated in In re Mouradick, 13 F.3d 326 (9th Cir. 1994), where the court held that a notice of appeal filed within the 3-day period expressly prescribed by an order granting a timely motion for an extension of time did not confer jurisdiction on the appellate court because the notice of appeal was not filed within the 20-day period specified in subdivision (c).
+         No extension of time may exceed 21 days after the time prescribed by this rule, or 14 days after the order granting the motion to extend time is entered, whichever is later.
 
-    The subdivision is amended further to prohibit any extension of time to file a notice of appeal—even if the motion for an extension is filed before the expiration of the original time to appeal—if the order appealed from grants relief from the automatic stay, authorizes the sale or lease of property, use of cash collateral, obtaining of credit, or assumption or assignment of an executory contract or unexpired lease under § 365, or approves a disclosure statement or confirms a plan. These types of orders are often relied upon immediately after they are entered and should not be reviewable on appeal after the expiration of the original appeal period under Rule 8002(a) and (b).
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
 
-    GAP Report on Rule 8002. No changes to the published draft.
+ __Prior Rule__ 
 
- __Committee Notes on Rules—2009 Amendment__ 
+    A prior Rule 8002, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 29, 1994, eff. Aug. 1, 1994; Apr. 11, 1997, eff. Dec. 1, 1997; Mar. 26, 2009, eff. Dec. 1, 2009, related to time for filing notice of appeal, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
 
-    The rule is amended to implement changes in connection with the amendment to Rule 9006(a) and the manner by which time is computed under the rules. The deadlines in the rule are amended to substitute a deadline that is a multiple of seven days. Throughout the rules, deadlines are amended in the following manner:
+ __Committee Notes on Rules—2014__ 
 
-    • 5-day periods become 7-day periods
+    This rule is derived from former Rule 8002 and F.R.App.P. 4(a) and (c). With the exception of subdivision (c), the changes to the former rule are stylistic. The rule retains the former rule’s 14-day time period for filing a notice of appeal, as opposed to the longer periods permitted for appeals in civil cases under F.R.App.P. 4(a). 
 
-    • 10-day periods become 14-day periods
+    Subdivision (a) continues to allow any other party to file a notice of appeal within 14 days after the first notice of appeal is filed, or thereafter to the extent otherwise authorized by this rule. Subdivision (a) also retains provisions of the former rule that prescribe the date the notice of appeal is deemed filed if the appellant files it prematurely or in the wrong court.
 
-    • 15-day periods become 14-day periods
+    Subdivision (b), like former Rule 8002(b) and F.R.App.P. 4(a), tolls the time for filing a notice of appeal when certain postjudgment motions are filed, and it prescribes the effective date of a notice of appeal that is filed before the court disposes of all of the specified motions. As under the former rule, a party that wants to appeal the court’s disposition of the motion or the alteration or amendment of a judgment, order, or decree in response to such a motion must file a notice of appeal or, if it has already filed one, an amended notice of appeal.
 
-    • 20-day periods become 21-day periods
+    Although Rule 8003(a)(3)(C) requires a notice of appeal to be accompanied by the required fee, no additional fee is required for the filing of an amended notice of appeal.
 
-    • 25-day periods become 28-day periods
+    Subdivision (c) mirrors the provisions of F.R.App.P. 4(c)(1) and (2), which specify timing rules for a notice of appeal filed by an inmate confined in an institution.
+
+    Subdivision (d) continues to allow the court to grant an extension of time to file a notice of appeal, except with respect to certain specified judgments, orders, and decrees.
+
+    Changes Made After Publication and Comment. Stylistic changes were made to the title of subdivision (b)(3) and to subdivision (c)(1).
 
 ----------
 

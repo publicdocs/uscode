@@ -11,25 +11,33 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8019.md) | [Next](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule9001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11a%2FcourtRules1%2Frule8020)
+[Previous](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8019.md) | [Next](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8021.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11a%2FcourtRules1%2Frule8020)
 
-### Rule 8020. Damages and Costs for Frivolous Appeal
+### Rule 8020. Frivolous Appeal and Other Misconduct
 
-    If a district court or bankruptcy appellate panel determines that an appeal from an order, judgment, or decree of a bankruptcy judge is frivolous, it may, after a separately filed motion or notice from the district court or bankruptcy appellate panel and reasonable opportunity to respond, award just damages and single or double costs to the appellee.
+    (a)  __Frivolous Appeal—damages and Costs__  __.__ 
 
-(Added Apr. 11, 1997, eff. Dec. 1, 1997.)
+     If the district court or BAP determines that an appeal is frivolous, it may, after a separately filed motion or notice from the court and reasonable opportunity to respond, award just damages and single or double costs to the appellee.
 
- __Notes of Advisory Committee on Rules—1997__ 
+    (b)  __Other Misconduct__  __.__ 
 
-    This rule is added to clarify that a district court hearing an appeal, or a bankruptcy appellate panel, has the authority to award damages and costs to an appellee if it finds that the appeal is frivolous. By conforming to the language of Rule 38 F.R.App.P., this rule recognizes that the authority to award damages and costs in connection with frivolous appeals is the same for district courts sitting as appellate courts, bankruptcy appellate panels, and courts of appeals.
+     The district court or BAP may discipline or sanction an attorney or party appearing before it for other misconduct, including failure to comply with any court order. First, however, the court must afford the attorney or party reasonable notice, an opportunity to show cause to the contrary, and, if requested, a hearing.
 
-    GAP Report on Rule 8020. No changes to the published draft.
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
 
-PART IX— __GENERAL PROVISIONS__ 
+ __Prior Rule__ 
+
+    A prior Rule 8020, Apr. 11, 1997, eff. Dec. 1, 1997, related to damages and costs for frivolous appeal, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
+
+ __Committee Notes on Rules—2014__ 
+
+    This rule is derived from former Rule 8020 and F.R.App.P. 38 and 46(c). Subdivision (a) permits an award of damages and costs to an appellee for a frivolous appeal. Subdivision (b) permits the district court or BAP to impose on parties as well as their counsel sanctions for misconduct other than taking a frivolous appeal. Failure to comply with a court order, for which sanctions may be imposed, may include a failure to comply with a local court rule.
+
+    Changes Made After Publication and Comment. No changes were made after publication and comment.
 
 ----------
 
-[Previous](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8019.md) | [Next](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule9001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11a%2FcourtRules1%2Frule8020)
+[Previous](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8019.md) | [Next](./../../../..//us/usc/t11a/courtRules1/m__us_usc_t11a_courtRules1_rule8021.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11a%2FcourtRules1%2Frule8020)
 
 ----------
 ----------
