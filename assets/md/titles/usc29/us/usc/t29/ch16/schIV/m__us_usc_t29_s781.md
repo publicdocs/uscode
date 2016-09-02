@@ -1,0 +1,148 @@
+---
+---
+
+# 29 U.S.C., USLM ref /us/usc/t29/s781
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t29/ch16/schIV/m__us_usc_t29_s780a.md) | [Next](./../../../../..//us/usc/t29/ch16/schIV/m__us_usc_t29_s782.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs781)
+
+## § 781. Duties of National Council
+
+    (a) __In general__ 
+
+    The National Council shall—
+
+        (1) provide advice to the Director with respect to the policies and conduct of the National Institute on Disability and Rehabilitation Research, including ways to improve research concerning individuals with disabilities and the methods of collecting and disseminating findings of such research;
+
+        (2) provide advice to the Commissioner with respect to the policies of and conduct of the Rehabilitation Services Administration;
+
+        (3) advise the President, the Congress, the Commissioner, the appropriate Assistant Secretary of the Department of Education, and the Director of the National Institute on Disability and Rehabilitation Research on the development of the programs to be carried out under this chapter;
+
+        (4) provide advice regarding priorities for the activities of the Interagency Disability Coordinating Council and review the recommendations of such Council for legislative and administrative changes to ensure that such recommendations are consistent with the purposes of the Council to promote the full integration, independence, and productivity of individuals with disabilities;
+
+        (5)
+
+         review and evaluate on a continuing basis—
+
+            (A) policies, programs, practices, and procedures concerning individuals with disabilities conducted or assisted by Federal departments and agencies, including programs established or assisted under this chapter or under the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[[42 U.S.C. 15001][/us/usc/t42/s15001] et seq.\]; and
+
+            (B) all statutes and regulations pertaining to Federal programs which assist such individuals with disabilities;
+
+            in order to assess the effectiveness of such policies, programs, practices, procedures, statutes, and regulations in meeting the needs of individuals with disabilities;
+
+        (6) assess the extent to which such policies, programs, practices, and procedures facilitate or impede the promotion of the policies set forth in subparagraphs (A) and (B) of [section 780(a)(2) of this title][/us/usc/t29/s780/a/2];
+
+        (7) gather information about the implementation, effectiveness, and impact of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.);
+
+        (8) make recommendations to the President, the Congress, the Secretary, the Director of the National Institute on Disability and Rehabilitation Research, and other officials of Federal agencies or other Federal entities, respecting ways to better promote the policies set forth in [section 780(a)(2) of this title][/us/usc/t29/s780/a/2];
+
+        (9) provide to the Congress on a continuing basis advice, recommendations, legislative proposals, and any additional information that the National Council or the Congress deems appropriate; and
+
+        (10) review and evaluate on a continuing basis new and emerging disability policy issues affecting individuals with disabilities at the Federal, State, and local levels, and in the private sector, including the need for and coordination of adult services, access to personal assistance services, school reform efforts and the impact of such efforts on individuals with disabilities, access to health care, and policies that operate as disincentives for the individuals to seek and retain employment.
+
+    (b) __Annual reports__ 
+
+        (1) Not later than October 31, 1998, and annually thereafter, the National Council shall prepare and submit to the President and the appropriate committees of the Congress a report entitled “National Disability Policy: A Progress Report”.
+
+        (2) The report shall assess the status of the Nation in achieving the policies set forth in [section 780(a)(2) of this title][/us/usc/t29/s780/a/2], with particular focus on the new and emerging issues impacting on the lives of individuals with disabilities. The report shall present, as appropriate, available data on health, housing, employment, insurance, transportation, recreation, training, prevention, early intervention, and education. The report shall include recommendations for policy change.
+
+        (3) In determining the issues to focus on and the findings, conclusions, and recommendations to include in the report, the National Council shall seek input from the public, particularly individuals with disabilities, representatives of organizations representing a broad range of individuals with disabilities, and organizations and agencies interested in individuals with disabilities.
+
+    (c) __Report describing barriers__ 
+
+        (1) Not later than December 31, 1999, the Council shall prepare a report describing the barriers in Federal assistive technology policy to increasing the availability of and access to assistive technology devices and assistive technology services for individuals with disabilities.
+
+        (2) In preparing the report, the Council shall obtain input from the National Institute on Disability and Rehabilitation Research and the Association of Tech Act Projects, and from targeted individuals and entities, as defined in [section 3002 of this title][/us/usc/t29/s3002].
+
+        (3) The Council shall submit the report, along with such recommendations as the Council determines to be appropriate, to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives.
+
+([Pub. L. 93–112, title IV, § 401][/us/pl/93/112/s401], as added [Pub. L. 105–220, title IV, § 407][/us/pl/105/220/s407], Aug. 7, 1998, [112 Stat. 1199][/us/stat/112/1199]; amended [Pub. L. 105–394, title II, § 202][/us/pl/105/394/s202], Nov. 13, 1998, [112 Stat. 3653][/us/stat/112/3653]; [Pub. L. 106–402, title IV, § 401(b)(3)(B)][/us/pl/106/402/s401/b/3/B], Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737]; [Pub. L. 108–364, § 3(b)(2)][/us/pl/108/364/s3/b/2], Oct. 25, 2004, [118 Stat. 1737][/us/stat/118/1737].)
+
+ __References in Text__ 
+
+    The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (a)(5)(A), is [Pub. L. 106–402][/us/pl/106/402], Oct. 30, 2000, [114 Stat. 1677][/us/stat/114/1677], which is classified principally to chapter 144 (§ 15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of Title 42][/us/usc/t42/s15001] and Tables.
+
+    The Americans with Disabilities Act of 1990, referred to in subsec. (a)(7), is [Pub. L. 101–336][/us/pl/101/336], July 26, 1990, [104 Stat. 327][/us/stat/104/327], as amended, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42][/us/usc/t42/s12101] and Tables.
+
+ __Prior Provisions__ 
+
+    A prior section 781, [Pub. L. 93–112, title IV, § 401][/us/pl/93/112/s401], as added [Pub. L. 95–602, title I, § 117][/us/pl/95/602/s117], Nov. 6, 1978, [92 Stat. 2977][/us/stat/92/2977]; amended [Pub. L. 98–221, title I, § 142][/us/pl/98/221/s142], Feb. 22, 1984, [98 Stat. 27][/us/stat/98/27]; [Pub. L. 99–506, title I, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], title III, § 302(b), title V, § 502, Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1821, 1828; [Pub. L. 100–630, title II, § 205(c)][/us/pl/100/630/s205/c], Nov. 7, 1988, [102 Stat. 3310][/us/stat/102/3310]; [Pub. L. 102–569, title I, § 102(p)(27)][/us/pl/102/569/s102/p/27], title IV, § 402, Oct. 29, 1992, [106 Stat. 4360][/us/stat/106/4360], 4422; [Pub. L. 104–66, title II, § 2131][/us/pl/104/66/s2131], Dec. 21, 1995, [109 Stat. 731][/us/stat/109/731], related to duties of National Council on Disability, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+
+    Another prior section 781, [Pub. L. 93–112, title IV, § 401][/us/pl/93/112/s401], Sept. 26, 1973, [87 Stat. 386][/us/stat/87/386], related to program and project evaluation, prior to repeal by [Pub. L. 95–602, § 117][/us/pl/95/602/s117].
+
+ __Amendments__ 
+
+    2004—Subsec. (c)(2). [Pub. L. 108–364][/us/pl/108/364] substituted “targeted individuals and entities” for “targeted individuals”.
+
+    2000—Subsec. (a)(5)(A). [Pub. L. 106–402][/us/pl/106/402], which directed substitution of “Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “Developmental Disabilities Assistance and Bill of Rights Act ([42 U.S.C. 6000][/us/usc/t42/s6000] et seq.)”, was executed by making the substitution for “Developmental Disabilities Assistance and Bill of Rights Act” to reflect the probable intent of Congress.
+
+    1998—Subsec. (c). [Pub. L. 105–394][/us/pl/105/394] added subsec. (c).
+
+ __Change of Name__ 
+
+    Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+ __Termination of Reporting Requirements__ 
+
+    For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report to Congress required under subsec. (b) of this section is listed on page 182), see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance.
+
+----------
+
+[Previous](./../../../../..//us/usc/t29/ch16/schIV/m__us_usc_t29_s780a.md) | [Next](./../../../../..//us/usc/t29/ch16/schIV/m__us_usc_t29_s782.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs781)
+
+----------
+----------
+
+[/us/usc/t42/s15001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15001
+[/us/usc/t29/s780/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs780%2Fa%2F2
+[/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
+[/us/usc/t29/s780/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs780%2Fa%2F2
+[/us/usc/t29/s780/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs780%2Fa%2F2
+[/us/usc/t29/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3002
+[/us/pl/93/112/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs401
+[/us/pl/105/220/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs407
+[/us/stat/112/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1199
+[/us/pl/105/394/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs202
+[/us/stat/112/3653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3653
+[/us/pl/106/402/s401/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fb%2F3%2FB
+[/us/stat/114/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1737
+[/us/pl/108/364/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364%2Fs3%2Fb%2F2
+[/us/stat/118/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1737
+[/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
+[/us/stat/114/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1677
+[/us/usc/t42/s15001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15001
+[/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
+[/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
+[/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
+[/us/pl/93/112/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs401
+[/us/pl/95/602/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs117
+[/us/stat/92/2977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2977
+[/us/pl/98/221/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs142
+[/us/stat/98/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F27
+[/us/pl/99/506/s103/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs103%2Fd%2F2%2FC
+[/us/stat/100/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1810
+[/us/pl/100/630/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs205%2Fc
+[/us/stat/102/3310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3310
+[/us/pl/102/569/s102/p/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs102%2Fp%2F27
+[/us/stat/106/4360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4360
+[/us/pl/104/66/s2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2131
+[/us/stat/109/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F731
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/93/112/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs401
+[/us/stat/87/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F386
+[/us/pl/95/602/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs117
+[/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364
+[/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
+[/us/usc/t42/s6000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6000
+[/us/pl/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394
+[/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
+[/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
+
+

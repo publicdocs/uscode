@@ -1,0 +1,34 @@
+---
+---
+
+# 29 U.S.C., USLM ref /us/usc/t29/s52
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../..//us/usc/t29/ch5/m__us_usc_t29_s51.md) | [Next](./../../../..//us/usc/t29/ch5/m__us_usc_t29_s53.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs52)
+
+## § 52. Statutory restriction of injunctive relief
+
+    No restraining order or injunction shall be granted by any court of the United States, or a judge or the judges thereof, in any case between an employer and employees, or between employers and employees, or between employees, or between persons employed and persons seeking employment, involving, or growing out of, a dispute concerning terms or conditions of employment, unless necessary to prevent irreparable injury to property, or to a property right, of the party making the application, for which injury there is no adequate remedy at law, and such property or property right must be described with particularity in the application, which must be in writing and sworn to by the applicant or by his agent or attorney.
+
+    And no such restraining order or injunction shall prohibit any person or persons, whether singly or in concert, from terminating any relation of employment, or from ceasing to perform any work or labor, or from recommending, advising, or persuading others by peaceful means so to do; or from attending at any place where any such person or persons may lawfully be, for the purpose of peacefully obtaining or communicating information, or from peacefully persuading any person to work or to abstain from working; or from ceasing to patronize or to employ any party to such dispute, or from recommending, advising, or persuading others by peaceful and lawful means so to do; or from paying or giving to, or withholding from, any person engaged in such dispute, any strike benefits or other moneys or things of value; or from peaceably assembling in a lawful manner, and for lawful purposes; or from doing any act or thing which might lawfully be done in the absence of such dispute by any party thereto; nor shall any of the acts specified in this paragraph be considered or held to be violations of any law of the United States.
+
+([Oct. 15, 1914, ch. 323, § 20][/us/act/1914-10-15/ch323/s20], [38 Stat. 738][/us/stat/38/738].)
+
+----------
+
+[Previous](./../../../..//us/usc/t29/ch5/m__us_usc_t29_s51.md) | [Next](./../../../..//us/usc/t29/ch5/m__us_usc_t29_s53.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs52)
+
+----------
+----------
+
+[/us/act/1914-10-15/ch323/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323%2Fs20
+[/us/stat/38/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F738
+
+
