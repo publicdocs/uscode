@@ -15,7 +15,7 @@
 
 ## § 121. Correction of erroneous data for place of primary use
 
-    (a)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No subsec. (b) was enacted.__  __ </sup></sup> __   __In General__  __.—__ 
+    (a)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No subsec. (b) was enacted.__  __ </sup></sup> __  __In General.—__ 
 
     A taxing jurisdiction, or a State on behalf of any taxing jurisdiction or taxing jurisdictions within such State, may—
 

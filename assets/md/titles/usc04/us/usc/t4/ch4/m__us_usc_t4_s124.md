@@ -17,13 +17,13 @@
 
     In sections 116 through 126 of this title:
 
-    (1)  __Charges for mobile telecommunications services__  __.—__ 
+    (1) __Charges for mobile telecommunications services.—__ 
 
     The term “charges for mobile telecommunications services” means any charge for, or associated with, the provision of commercial mobile radio service, as defined in section 20.3 of title 47 of the Code of Federal Regulations as in effect on June 1, 1999, or any charge for, or associated with, a service provided as an adjunct to a commercial mobile radio service, that is billed to the customer by or for the customer’s home service provider regardless of whether individual transmissions originate or terminate within the licensed service area of the home service provider.
 
     (2) __Customer.—__ 
 
-        (A)  __In general__  __.—__ 
+        (A) __In general.—__ 
 
         The term “customer” means—
 
@@ -39,7 +39,7 @@
 
             (ii) a serving carrier under an arrangement to serve the customer outside the home service provider’s licensed service area.
 
-    (3)  __Designated database provider__  __.—__ 
+    (3) __Designated database provider.—__ 
 
     The term “designated database provider” means a corporation, association, or other entity representing all the political subdivisions of a State that is—
 
@@ -47,23 +47,23 @@
 
         (B) approved by municipal and county associations or leagues of the State whose responsibility it would otherwise be to provide such database prescribed by sections 116 through 126 of this title.
 
-    (4)  __Enhanced zip code__  __.—__ 
+    (4) __Enhanced zip code.—__ 
 
     The term “enhanced zip code” means a United States postal zip code of 9 or more digits.
 
-    (5)  __Home service provider__  __.—__ 
+    (5) __Home service provider.—__ 
 
     The term “home service provider” means the facilities-based carrier or reseller with which the customer contracts for the provision of mobile telecommunications services.
 
-    (6)  __Licensed service area__  __.—__ 
+    (6) __Licensed service area.—__ 
 
     The term “licensed service area” means the geographic area in which the home service provider is authorized by law or contract to provide commercial mobile radio service to the customer.
 
-    (7)  __Mobile telecommunications service__  __.—__ 
+    (7) __Mobile telecommunications service.—__ 
 
     The term “mobile telecommunications service” means commercial mobile radio service, as defined in section 20.3 of title 47 of the Code of Federal Regulations as in effect on June 1, 1999.
 
-    (8)  __Place of primary use__  __.—__ 
+    (8) __Place of primary use.—__ 
 
     The term “place of primary use” means the street address representative of where the customer’s use of the mobile telecommunications service primarily occurs, which must be—
 
@@ -71,11 +71,11 @@
 
         (B) within the licensed service area of the home service provider.
 
-    (9)  __Prepaid telephone calling services__  __.—__ 
+    (9) __Prepaid telephone calling services.—__ 
 
     The term “prepaid telephone calling service” means the right to purchase exclusively telecommunications services that must be paid for in advance, that enables the origination of calls using an access number, authorization code, or both, whether manually or electronically dialed, if the remaining amount of units of service that have been prepaid is known by the provider of the prepaid service on a continuous basis.
 
-    (10)  __Reseller__  __.—__ 
+    (10) __Reseller.—__ 
 
     The term “reseller”—
 
@@ -83,11 +83,11 @@
 
         (B) does not include a serving carrier with which a home service provider arranges for the services to its customers outside the home service provider’s licensed service area.
 
-    (11)  __Serving carrier__  __.—__ 
+    (11) __Serving carrier.—__ 
 
     The term “serving carrier” means a facilities-based carrier providing mobile telecommunications service to a customer outside a home service provider’s or reseller’s licensed service area.
 
-    (12)  __Taxing jurisdiction__  __.—__ 
+    (12) __Taxing jurisdiction.—__ 
 
     The term “taxing jurisdiction” means any of the several States, the District of Columbia, or any territory or possession of the United States, any municipality, city, county, township, parish, transportation district, or assessment jurisdiction, or any other political subdivision within the territorial limits of the United States with the authority to impose a tax, charge, or fee.
 

@@ -15,11 +15,11 @@
 
 ## § 116. Rules for determining State and local government treatment of charges related to mobile telecommunications services
 
-    (a)  __Application of This Section Through Section __  __126.—__ 
+    (a) __Application of This Section Through Section 126.—__ 
 
     This section through  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “section”. </sup></sup>  126 of this title apply to any tax, charge, or fee levied by a taxing jurisdiction as a fixed charge for each customer or measured by gross amounts charged to customers for mobile telecommunications services, regardless of whether such tax, charge, or fee is imposed on the vendor or customer of the service and regardless of the terminology used to describe the tax, charge, or fee.
 
-    (b)  __General Exceptions__  __.—__ 
+    (b) __General Exceptions.—__ 
 
     This section through 1 126 of this title do not apply to—
 
@@ -35,7 +35,7 @@
 
         (6) any tax, charge, or fee imposed by the Federal Communications Commission.
 
-    (c)  __Specific Exceptions__  __.—__ 
+    (c) __Specific Exceptions.—__ 
 
     This section through 1 126 of this title—
 
@@ -57,11 +57,11 @@
 
 [Pub. L. 106–252, § 3][/us/pl/106/252/s3], July 28, 2000, [114 Stat. 633][/us/stat/114/633], provided that:
 
->     “(a)  __Effective Date__  __.—__ 
+>     “(a) __Effective Date.—__ 
 
 >     Except as provided in subsection (b), this Act \[enacting this section and sections 117 to 126 of this title and provisions set out as a note under [section 1 of this title][/us/usc/t4/s1]\] and the amendment made by this Act shall take effect on the date of the enactment of this Act \[July 28, 2000\].
 
->     “(b)  __Application of Act__  __.—__ 
+>     “(b) __Application of Act.—__ 
 
 >     The amendment made by this Act \[enacting this section and sections 117 to 126 of this title\] shall apply only to customer bills issued after the first day of the first month beginning more than 2 years after the date of the enactment of this Act \[July 28, 2000\].”
 

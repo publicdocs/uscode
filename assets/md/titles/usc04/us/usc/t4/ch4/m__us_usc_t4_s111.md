@@ -15,11 +15,11 @@
 
 ## § 111. Same; taxation affecting Federal employees; income tax
 
-    (a)  __General Rule__  __.—__ 
+    (a) __General Rule.—__ 
 
     The United States consents to the taxation of pay or compensation for personal service as an officer or employee of the United States, a territory or possession or political subdivision thereof, the government of the District of Columbia, or an agency or instrumentality of one or more of the foregoing, by a duly constituted taxing authority having jurisdiction, if the taxation does not discriminate against the officer or employee because of the source of the pay or compensation.
 
-    (b)  __Treatment of Certain Federal Employees Employed at Federal Hydroelectric Facilities Located on the Columbia River__  __.—__ 
+    (b) __Treatment of Certain Federal Employees Employed at Federal Hydroelectric Facilities Located on the Columbia River.—__ 
 
     Pay or compensation paid by the United States for personal services as an employee of the United States at a hydroelectric facility—
 
@@ -31,7 +31,7 @@
 
         shall be subject to taxation by the State or any political subdivision thereof of which such employee is a resident.
 
-    (c)  __Treatment of Certain Federal Employees Employed at Federal Hydroelectric Facilities Located on the Missouri River__  __.—__ 
+    (c) __Treatment of Certain Federal Employees Employed at Federal Hydroelectric Facilities Located on the Missouri River.—__ 
 
     Pay or compensation paid by the United States for personal services as an employee of the United States at a hydroelectric facility—
 

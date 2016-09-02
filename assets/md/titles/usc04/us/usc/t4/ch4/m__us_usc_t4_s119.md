@@ -17,11 +17,11 @@
 
     (a) __Electronic Database.—__ 
 
-        (1)  __Provision of database__  __.—__ 
+        (1) __Provision of database.—__ 
 
         A State may provide an electronic database to a home service provider or, if a State does not provide such an electronic database to home service providers, then the designated database provider may provide an electronic database to a home service provider.
 
-        (2)  __Format__  __.—__ 
+        (2) __Format.—__ 
 
             (A) Such electronic database, whether provided by the State or the designated database provider, shall be provided in a format approved by the American National Standards Institute’s Accredited Standards Committee X12, that, allowing for de minimis deviations, designates for each street address in the State, including to the extent practicable, any multiple postal street addresses applicable to one street location, the appropriate taxing jurisdictions, and the appropriate code for each taxing jurisdiction, for each level of taxing jurisdiction, identified by one nationwide standard numeric code.
 
@@ -29,11 +29,11 @@
 
             (C) The nationwide standard numeric codes shall contain the same number of numeric digits with each digit or combination of digits referring to the same level of taxing jurisdiction throughout the United States using a format similar to FIPS 55–3 or other appropriate standard approved by the Federation of Tax Administrators and the Multistate Tax Commission, or their successors. Each address shall be provided in standard postal format.
 
-    (b)  __Notice; Updates__  __.—__ 
+    (b) __Notice; Updates.—__ 
 
     A State or designated database provider that provides or maintains an electronic database described in subsection (a) shall provide notice of the availability of the then current electronic database, and any subsequent revisions thereof, by publication in the manner normally employed for the publication of informational tax, charge, or fee notices to taxpayers in such State.
 
-    (c)  __User Held Harmless__  __.—__ 
+    (c) __User Held Harmless.—__ 
 
     A home service provider using the data contained in an electronic database described in subsection (a) shall be held harmless from any tax, charge, or fee liability that otherwise would be due solely as a result of any error or omission in such database provided by a State or designated database provider. The home service provider shall reflect changes made to such database during a calendar quarter not later than 30 days after the end of such calendar quarter for each State that issues notice of the availability of an electronic database reflecting such changes under subsection (b).
 

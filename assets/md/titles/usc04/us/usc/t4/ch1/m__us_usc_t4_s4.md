@@ -15,9 +15,9 @@
 
 ## § 4. Pledge of allegiance to the flag; manner of delivery
 
-    The Pledge of Allegiance to the Flag: “I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all.”, should be rendered by standing at attention facing the flag with the right hand over the heart. When not in uniform men should remove any non-religious headdress with their right hand and hold it at the left shoulder, the hand being over the heart. Persons in uniform should remain silent, face the flag, and render the military salute. Members of the Armed Forces not in uniform and veterans may render the military salute in the manner provided for persons in uniform.
+    The Pledge of Allegiance to the Flag: “I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all.”, should be rendered by standing at attention facing the flag with the right hand over the heart. When not in uniform men should remove any non-religious headdress with their right hand and hold it at the left shoulder, the hand being over the heart. Persons in uniform should remain silent, face the flag, and render the military salute.
 
-(Added [Pub. L. 105–225, § 2(a)][/us/pl/105/225/s2/a], Aug. 12, 1998, [112 Stat. 1494][/us/stat/112/1494]; amended [Pub. L. 107–293, § 2(a)][/us/pl/107/293/s2/a], Nov. 13, 2002, [116 Stat. 2060][/us/stat/116/2060]; [Pub. L. 113–66, div. A, title V, § 586][/us/pl/113/66/s586], Dec. 26, 2013, [127 Stat. 777][/us/stat/127/777].)
+(Added [Pub. L. 105–225, § 2(a)][/us/pl/105/225/s2/a], Aug. 12, 1998, [112 Stat. 1494][/us/stat/112/1494]; amended [Pub. L. 107–293, § 2(a)][/us/pl/107/293/s2/a], Nov. 13, 2002, [116 Stat. 2060][/us/stat/116/2060].)
 
 <table>
 
@@ -70,8 +70,6 @@ June 22, 1942, ch. 435, § 7, 56 Stat. 380; Dec. 22, 1942, ch. 806, § 7, 56
     Amendment by [Pub. L. 107–293][/us/pl/107/293] reaffirmed the exact language of the Pledge, see [section 2(b) of Pub. L. 107–293][/us/pl/107/293/s2/b], set out as a Reaffirmation of Language note below.
 
  __Amendments__ 
-
-    2013—[Pub. L. 113–66][/us/pl/113/66] inserted at end “Members of the Armed Forces not in uniform and veterans may render the military salute in the manner provided for persons in uniform.”
 
     2002—[Pub. L. 107–293][/us/pl/107/293] reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The Pledge of Allegiance to the Flag, ‘I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all.’, should be rendered by standing at attention facing the flag with the right hand over the heart. When not in uniform men should remove their headdress with their right hand and hold it at the left shoulder, the hand being over the heart. Persons in uniform should remain silent, face the flag, and render the military salute.”
 
@@ -130,11 +128,8 @@ June 22, 1942, ch. 435, § 7, 56 Stat. 380; Dec. 22, 1942, ch. 806, § 7, 56
 [/us/stat/112/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1494
 [/us/pl/107/293/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F293%2Fs2%2Fa
 [/us/stat/116/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2060
-[/us/pl/113/66/s586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs586
-[/us/stat/127/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F777
 [/us/pl/107/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F293
 [/us/pl/107/293/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F293%2Fs2%2Fb
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/107/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F293
 [/us/pl/107/293/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F293%2Fs1
 [/us/stat/116/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2057
