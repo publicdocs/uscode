@@ -75,43 +75,43 @@
 
 [Pub. L. 108–7, div. F, title I, § 122][/us/pl/108/7/s122], Feb. 20, 2003, [117 Stat. 241][/us/stat/117/241], as amended by [Pub. L. 108–108, title I, § 136(a)][/us/pl/108/108/s136/a], Nov. 10, 2003, [117 Stat. 1270][/us/stat/117/1270], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Construction.—__ 
+>         “(1)  __Construction__  __.—__ 
 
 >         The term ‘construction’, with respect to a tribally controlled school, includes the construction or renovation of that school.
 
->         “(2) __Indian tribe.—__ 
+>         “(2)  __Indian tribe__  __.—__ 
 
 >         The term ‘Indian tribe’ has the meaning given that term in section 4(e) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b(e)][/us/usc/t25/s450b/e]).
 
->         “(3) __Secretary.—__ 
+>         “(3)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Interior.
 
->         “(4) __Tribally controlled school.—__ 
+>         “(4)  __Tribally controlled school__  __.—__ 
 
 >         The term ‘tribally controlled school’ means a school that currently receives a grant under the Tribally Controlled Schools Act of 1988, as amended ([25 U.S.C. 2501][/us/usc/t25/s2501] et seq.) or is determined by the Secretary to meet the eligibility criteria of section 5205 of the Tribally Controlled Schools Act of 1988, as amended ([25 U.S.C. 2504][/us/usc/t25/s2504]).
 
->         “(5) __Department.—__ 
+>         “(5)  __Department__  __.—__ 
 
 >         The term ‘Department’ means the Department of the Interior.
 
->         “(6) __Demonstration program.—__ 
+>         “(6)  __Demonstration program__  __.—__ 
 
 >         The term ‘demonstration program’ means the Tribal School Construction Demonstration Program.
 
->     “(b) __In General.—__ 
+>     “(b)  __In General__  __.—__ 
 
 >     The Secretary shall carry out a demonstration program for fiscal years 2003 through 2007 to provide grants to Indian tribes for the construction of tribally controlled schools.
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to the availability of appropriations, in carrying out the demonstration program under subsection (b), the Secretary shall award a grant to each Indian tribe that submits an application that is approved by the Secretary under paragraph (2). The Secretary shall ensure that applications for funding to replace schools currently receiving funding for facility operation and maintenance from the Bureau of Indian Affairs receive the highest priority for grants under this section. Among such applications, the Secretary shall give priority to applications of Indian tribes that agree to fund all future facility operation and maintenance costs of the tribally controlled school funded under the demonstration program from other than Federal funds.
 
->         “(2) __Grant applications.—__ 
+>         “(2)  __Grant applications__  __.—__ 
 
 >         An application for a grant under the section shall—
 
@@ -119,7 +119,7 @@
 
 >             “(B) be in such form as the Secretary determines appropriate.
 
->         “(3) __Grant agreement.—__ 
+>         “(3)  __Grant agreement__  __.—__ 
 
 >         As a condition to receiving a grant under this section, the Indian tribe shall enter into an agreement with the Secretary that specifies—
 
@@ -129,17 +129,17 @@
 
 >             “(C) any other term or condition that the Secretary determines to be appropriate.
 
->         “(4) __Eligibility.—__ 
+>         “(4)  __Eligibility__  __.—__ 
 
 >         Grants awarded under the demonstration program shall be used only for construction or replacement of a tribally controlled school.
 
->     “(c) __Effect of Grant.—__ 
+>     “(c)  __Effect of Grant__  __.—__ 
 
 >         (1) Except as provided in paragraph (2) of this subsection, A \[sic\] grant received under this section shall be in addition to any other funds received by an Indian tribe under any other provision of law. The receipt of a grant under this section shall not affect the eligibility of an Indian tribe receiving funding, or the amount of funding received by the Indian tribe, under the Tribally Controlled Schools Act of 1988 ([25 U.S.C. 2501][/us/usc/t25/s2501] et seq.) or the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450][/us/usc/t25/s450] et seq.).
 
 >         “(2) A tribe receiving a grant for construction of a tribally controlled school under this section shall not be eligible to receive funding from the Bureau of Indian Affairs for that school for education operations or facility operation and maintenance if the school that was not at the time of the grant: (i) a school receiving funding for education operations or facility operation and maintenance under the Tribally Controlled Schools Act \[[25 U.S.C. 2501][/us/usc/t25/s2501] et seq.\] or the Indian Self-Determination and Education Assistance Act \[[25 U.S.C. 450][/us/usc/t25/s450] et seq.\] or (ii) a school operated by the Bureau of Indian Affairs.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     At the conclusion of the five-year demonstration program, the Secretary shall report to Congress as to whether the demonstration program has achieved its purposes of providing additional tribes fair opportunities to construct tribally controlled schools, accelerating construction of needed educational facilities in Indian Country, and permitting additional funds to be provided for the Department’s priority list for construction of replacement educational facilities.”
 

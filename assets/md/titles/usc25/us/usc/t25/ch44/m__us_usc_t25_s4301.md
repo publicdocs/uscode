@@ -107,7 +107,7 @@
 
 > “SEC. 2. __FINDINGS; PURPOSES.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -125,7 +125,7 @@
 
 >             “(B) facilitate economic development on Indian lands.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act are as follows:
 
@@ -145,21 +145,21 @@
 
 > “In this Act:
 
->     “(1) __Authority.—__ 
+>     “(1)  __Authority__  __.—__ 
 
 >     The term ‘Authority’ means the Regulatory Reform and Business Development on Indian Lands Authority.
 
->     “(2) __Federal agency.—__ 
+>     “(2)  __Federal agency__  __.—__ 
 
 >     The term ‘Federal agency’ means an agency, as that term is defined in [section 551(1) of title 5][/us/usc/t5/s551/1], United States Code.
 
->     “(3) __Indian.—__ 
+>     “(3)  __Indian__  __.—__ 
 
 >     The term ‘Indian’ has the meaning given that term in section 4(d) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b(d)][/us/usc/t25/s450b/d]).
 
 >     “(4) __Indian lands.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The term ‘Indian lands’ includes lands under the definition of—
 
@@ -173,7 +173,7 @@
 
 >                      “(II) section 4(10) of the Indian Child Welfare Act of 1978 ([25 U.S.C. 1903(10)][/us/usc/t25/s1903/10]).
 
->         “(B) __Former indian reservations in oklahoma.—__ 
+>         “(B)  __Former indian reservations in oklahoma__  __.—__ 
 
 >         For purposes of applying section 3(d) of the Indian Financing Act of 1974 ([25 U.S.C. 1452(d)][/us/usc/t25/s1452/d]) under subparagraph (A)(ii), the term ‘former Indian reservations in Oklahoma’ shall be construed to include lands that are—
 
@@ -181,15 +181,15 @@
 
 >             “(ii) recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Nov. 6, 2000\]).
 
->     “(5) __Indian tribe.—__ 
+>     “(5)  __Indian tribe__  __.—__ 
 
 >     The term ‘Indian tribe’ has the meaning given that term in section 4(e) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b(e)][/us/usc/t25/s450b/e]).
 
->     “(6) __Secretary.—__ 
+>     “(6)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Commerce.
 
->     “(7) __Tribal organization.—__ 
+>     “(7)  __Tribal organization__  __.—__ 
 
 >     The term ‘tribal organization’ has the meaning given that term in section 4(l) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b][/us/usc/t25/s450b](l)).
 
@@ -197,45 +197,45 @@
 
 >     “(a) __Establishment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 60 days after the date of enactment of this Act \[Nov. 6, 2000\], the Secretary, in consultation with the Secretary of the Interior and other officials whom the Secretary determines to be appropriate, shall establish an authority to be known as the Regulatory Reform and Business Development on Indian Lands Authority.
 
->         “(2) __Purpose.—__ 
+>         “(2)  __Purpose__  __.—__ 
 
 >         The Secretary shall establish the Authority under this subsection in order to facilitate the identification and subsequent removal of obstacles to investment, business development, and the creation of wealth with respect to the economies of Native American communities.
 
 >     “(b) __Membership.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Authority established under this section shall be composed of 21 members.
 
->         “(2) __Representatives of indian tribes.—__ 
+>         “(2)  __Representatives of indian tribes__  __.—__ 
 
 >         12 members of the Authority shall be representatives of the Indian tribes from the areas of the Bureau of Indian Affairs. Each such area shall be represented by such a representative.
 
->         “(3) __Representatives of the private sector.—__ 
+>         “(3)  __Representatives of the private sector__  __.—__ 
 
 >         No fewer than 4 members of the Authority shall be representatives of nongovernmental economic activities carried out by private enterprises in the private sector.
 
->     “(c) __Initial Meeting.—__ 
+>     “(c)  __Initial Meeting__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[Nov. 6, 2000\], the Authority shall hold its initial meeting.
 
->     “(d) __Review.—__ 
+>     “(d)  __Review__  __.—__ 
 
 >     Beginning on the date of the initial meeting under subsection (c), the Authority shall conduct a review of laws (including regulations) relating to investment, business, and economic development that affect investment and business decisions concerning activities conducted on Indian lands.
 
->     “(e) __Meetings.—__ 
+>     “(e)  __Meetings__  __.—__ 
 
 >     The Authority shall meet at the call of the chairperson.
 
->     “(f) __Quorum.—__ 
+>     “(f)  __Quorum__  __.—__ 
 
 >     A majority of the members of the Authority shall constitute a quorum, but a lesser number of members may hold hearings.
 
->     “(g) __Chairperson.—__ 
+>     “(g)  __Chairperson__  __.—__ 
 
 >     The Authority shall select a chairperson from among its members.
 
@@ -249,19 +249,19 @@
 
 > “SEC. 6. __POWERS OF THE AUTHORITY.__ 
 
->     “(a) __Hearings.—__ 
+>     “(a)  __Hearings__  __.—__ 
 
 >     The Authority may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Authority considers advisable to carry out the duties of the Authority.
 
->     “(b) __Information From Federal Agencies.—__ 
+>     “(b)  __Information From Federal Agencies__  __.—__ 
 
 >     The Authority may secure directly from any Federal department or agency such information as the Authority considers necessary to carry out the duties of the Authority.
 
->     “(c) __Postal Services.—__ 
+>     “(c)  __Postal Services__  __.—__ 
 
 >     The Authority may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
 
->     “(d) __Gifts.—__ 
+>     “(d)  __Gifts__  __.—__ 
 
 >     The Authority may accept, use, and dispose of gifts or donations of services or property.
 
@@ -269,25 +269,25 @@
 
 >     “(a) __Compensation of Members.—__ 
 
->         “(1) __Non-federal members.—__ 
+>         “(1)  __Non-federal members__  __.—__ 
 
 >         Members of the Authority who are not officers or employees of the Federal Government shall serve without compensation, except for travel expenses as provided under subsection (b).
 
->         “(2) __Officers and employees of the federal government.—__ 
+>         “(2)  __Officers and employees of the federal government__  __.—__ 
 
 >         Members of the Authority who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
 
->     “(b) __Travel Expenses.—__ 
+>     “(b)  __Travel Expenses__  __.—__ 
 
 >     The members of the Authority shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Authority.
 
 >     “(c) __Staff.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The chairperson of the Authority may, without regard to the civil service laws, appoint and terminate such personnel as may be necessary to enable the Authority to perform its duties.
 
->         “(2) __Procurement of temporary and intermittent services.—__ 
+>         “(2)  __Procurement of temporary and intermittent services__  __.—__ 
 
 >         The chairperson of the Authority may procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed under GS–13 of the General Schedule established under [section 5332 of title 5][/us/usc/t5/s5332], United States Code.
 

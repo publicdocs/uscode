@@ -23,6 +23,8 @@
 
     Act of April 30, 1965, referred to in text, is act Apr. 30, 1965, [Pub. L. 89–16][/us/pl/89/16], [79 Stat. 81][/us/stat/79/81], known as the Second Supplemental Appropriations Act, 1965. That portion of the act which appropriated the funds referred to was not classified to the Code.
 
+    The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
+
  __Distribution of Certain Undistributed Judgment Funds Awarded to Creek Nation__ 
 
 [Pub. L. 98–390][/us/pl/98/390], Aug. 21, 1984, [98 Stat. 1356][/us/stat/98/1356], provided: 

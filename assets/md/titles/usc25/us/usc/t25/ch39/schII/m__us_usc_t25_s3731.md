@@ -123,27 +123,27 @@
 
 > “SEC. 3. __DEFINITIONS; APPLICABILITY.__ 
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     For purposes of this Act:
 
->         “(1) __Secretary.—__ 
+>         “(1)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Interior.
 
->         “(2) __Employee.—__ 
+>         “(2)  __Employee__  __.—__ 
 
 >         The term ‘employee’, with respect to an institution named in subsection (b), means an individual employed in or under such institution.
 
->         “(3) __Eligible.—__ 
+>         “(3)  __Eligible__  __.—__ 
 
 >         The term ‘eligible’ means an individual who has qualified for appointment in the institution involved and whose name has been entered on the appropriate register or list of eligibles.
 
->         “(4) __Demonstration project.—__ 
+>         “(4)  __Demonstration project__  __.—__ 
 
 >         The term ‘demonstration project’ means a project conducted by or under the supervision of an institution named in subsection (b) to determine whether specified changes in personnel management policies or procedures would result in improved personnel management.
 
->     “(b) __Applicability.—__ 
+>     “(b)  __Applicability__  __.—__ 
 
 >     This Act applies to—
 
@@ -153,7 +153,7 @@
 
 > “SEC. 4. __AUTHORITY.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Each institution named in section 3(b) may conduct a demonstration project in accordance with the provisions of this Act. The conducting of any such demonstration project shall not be limited by any lack of specific authority under title 5, United States Code, to take the action contemplated, or by any provision of such title or any rule or regulation prescribed under such title which is inconsistent with the action, including any provision of law, rule, or regulation relating to—
 
@@ -173,7 +173,7 @@
 
 >         “(8) the methods of reducing overall staff and grade levels.
 
->     “(b) __Consultation and Other Requirements.—__ 
+>     “(b)  __Consultation and Other Requirements__  __.—__ 
 
 >     Before commencing a demonstration project under this Act, the president of the institution involved shall—
 
@@ -217,7 +217,7 @@
 
 >         “(6) at least 60 days before the date on which the proposed project is to commence, inform all employees as to the final version of the plan, including all information relevant to the making of an election under subsection (h)(2)(A).
 
->     “(c) __Limitations.—__ 
+>     “(c)  __Limitations__  __.—__ 
 
 >     No demonstration project under this Act may—
 
@@ -249,7 +249,7 @@
 
 >         “(3) provide that any employee be required to pay dues or fees of any kind to a labor organization as a condition of employment.
 
->     “(d) __Commencement and Termination Dates.—__ 
+>     “(d)  __Commencement and Termination Dates__  __.—__ 
 
 >     Each demonstration project under this Act—
 
@@ -263,27 +263,27 @@
 
 >             “(B) to the extent provided for under subsection (h)(2)(B).
 
->     “(e) __Discretionary Authority To Terminate.—__ 
+>     “(e)  __Discretionary Authority To Terminate__  __.—__ 
 
 >     A demonstration project under this Act may be terminated by the Secretary or the president of the institution involved if either determines that the project creates a substantial hardship on, or is not in the best interests of, the institution and its educational goals.
 
 >     “(f) __Evaluation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall provide for an evaluation of the results of each demonstration project under this Act and its impact on improving public management.
 
->         “(2) __Information.—__ 
+>         “(2)  __Information__  __.—__ 
 
 >         Upon request of the Secretary, an institution named in section 3(b) shall cooperate with and assist the Secretary, to the extent practicable, in any evaluation undertaken under this subsection and provide the Secretary with requested information and reports relating to the conducting of its demonstration project.
 
->     “(g) __Role of the Office of Personnel Management.—__ 
+>     “(g)  __Role of the Office of Personnel Management__  __.—__ 
 
 >     Upon request of the Secretary or the president of an institution named in section 3(b), the Office of Personnel Management shall furnish information or technical advice on the design, operation, or evaluation, or any other aspect of a demonstration project under this Act.
 
 >     “(h) __Applicability.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this subsection, all applicants for employment with, all eligibles and employees of, and all positions in or under an institution named in section 3(b) shall be subject to inclusion in a demonstration project under this Act.
 
@@ -291,7 +291,7 @@
 
 >             “(A) __Option for certain individuals to remain under current law governing certain benefits.—__ 
 
->                 “(i) __Eligible individuals.—__ 
+>                 “(i)  __Eligible individuals__  __.—__ 
 
 >                 This subparagraph applies in the case of any individual who, as of the day before the date on which a demonstration project under this Act is to commence at an institution—
 
@@ -299,11 +299,11 @@
 
 >                          “(II) if benefits under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, are to be affected, has completed at least 1 year of Government service (whether with such institution or otherwise), but taking into account only civilian service creditable under subchapter III of chapter 83 or chapter 84 of such title.
 
->                 “(ii) __Option.—__ 
+>                 “(ii)  __Option__  __.—__ 
 
 >                 If a demonstration project is to include changes to any benefits under subpart G of part III of title 5, United States Code, an employee described in clause (i) shall be afforded an election not to become subject to such demonstration project, to the extent those benefits are involved (and to instead remain subject to the provisions of such subpart G as if this Act had not been enacted).
 
->             “(B) __Continuation of certain alternative benefit systems after demonstration project terminates for persons becoming subject thereto under the project.—__ 
+>             “(B)  __Continuation of certain alternative benefit systems after demonstration project terminates for persons becoming subject thereto under the project__  __.—__ 
 
 >             Notwithstanding any other provision of this Act, the termination of a demonstration project shall not, in the case of any employee who becomes subject to a system of alternative benefits under this Act (in lieu of benefits that would otherwise be determined under subpart G of part III of title 5, United States Code), have the effect of terminating—
 
@@ -313,27 +313,27 @@
 
 >         “(3) __Transition provisions.—__ 
 
->             “(A) __Retention of annual and sick leave accrued before becoming subject to demonstration project.—__ 
+>             “(A)  __Retention of annual and sick leave accrued before becoming subject to demonstration project__  __.—__ 
 
 >             Any individual becoming subject to a demonstration project under this Act shall, in a manner consistent with the requirements of [section 6308 of title 5][/us/usc/t5/s6308], United States Code, be credited with any annual leave and any sick leave standing to such individual’s credit immediately before becoming subject to the project.
 
->             “(B) __Provisions relating to credit for leave upon separating while the demonstration project is still ongoing.—__ 
+>             “(B)  __Provisions relating to credit for leave upon separating while the demonstration project is still ongoing__  __.—__ 
 
 >             Any demonstration project under this Act shall include provisions consistent with the following:
 
->                 “(i) __Lump-sum credit for annual leave.—__ 
+>                 “(i)  __Lump-sum credit for annual leave__  __.—__ 
 
 >                 In the case of any individual who, at the time of becoming subject to the demonstration project, has any leave for which a lump-sum payment might be paid under subchapter VI of chapter 55 of title 5, United States Code, such individual shall, if such individual separates from service (in the circumstances described in section 5551 or 5552 of such title 5, as applicable) while the demonstration project is still ongoing, be entitled to a lump-sum payment under such section 5551 or 5552 (as applicable) based on the amount of leave standing to such individual’s credit at the time such individual became subject to the demonstration project or the amount of leave standing to such individual’s credit at the time of separation, whichever is less.
 
->                 “(ii) __Retirement credit for sick leave.—__ 
+>                 “(ii)  __Retirement credit for sick leave__  __.—__ 
 
 >                 In the case of any individual who, at the time of becoming subject to the demonstration project, has any sick leave which would be creditable under [section 8339(m) of title 5][/us/usc/t5/s8339/m], United States Code (had such individual then separated from service), any sick leave standing to such individual’s credit at the time of separation shall, if separation occurs while the demonstration project is still ongoing, be so creditable, but only to the extent that it does not exceed the amount of creditable sick leave that stood to such individual’s credit at the time such individual became subject to the demonstration project.
 
->             “(C) __Transfer of leave remaining upon transfer to another agency.—__ 
+>             “(C)  __Transfer of leave remaining upon transfer to another agency__  __.—__ 
 
 >             In the case of any employee who becomes subject to the demonstration project and is subsequently transferred or otherwise appointed (without a break in service of 3 days or longer) to another position in the Federal Government or the government of the District of Columbia under a different leave system (whether while the project is still ongoing or otherwise), any leave remaining to the credit of that individual which was earned or credited under the demonstration project shall be transferred to such individual’s credit in the new employing agency on an adjusted basis under regulations prescribed under [section 6308 of title 5][/us/usc/t5/s6308], United States Code. Any such regulations shall be prescribed taking into account the provisions of subparagraph (B).
 
->             “(D) __Collective-bargaining agreements.—__ 
+>             “(D)  __Collective-bargaining agreements__  __.—__ 
 
 >             Any collective-bargaining agreement in effect on the day before a demonstration project under this Act commences shall continue to be recognized by the institution involved until the earlier of—
 

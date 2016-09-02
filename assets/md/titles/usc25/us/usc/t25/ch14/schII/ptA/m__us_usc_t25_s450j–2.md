@@ -23,6 +23,10 @@
 
     The Indian Self-Determination Act, referred to in text, is title I of [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2206][/us/stat/88/2206], as amended, which is classified principally to this part (§ 450f et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
 
+ __Codification__ 
+
+    Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1999, and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the Indian Self-Determination and Education Assistance Act which comprises this subchapter.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t25/ch14/schII/ptA/m__us_usc_t25_s450j–1.md) | [Next](./../../../../../..//us/usc/t25/ch14/schII/ptA/m__us_usc_t25_s450j–3.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450j%E2%80%932)

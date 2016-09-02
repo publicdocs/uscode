@@ -73,11 +73,11 @@
 
 [Pub. L. 111–11, title I, § 1982][/us/pl/111/11/s1982], Mar. 30, 2009, [123 Stat. 1093][/us/stat/123/1093], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Parcel a.—__ 
+>         “(1)  __Parcel a__  __.—__ 
 
 >         The term ‘Parcel A’ means the parcel that consists of approximately 640 acres of land that is—
 
@@ -87,29 +87,29 @@
 
 >             “(C) depicted on the map entitled ‘Washington County Growth and Conservation Act Map’ \[meaning the “Washington County Growth and Conservation Act Map”, dated November 13, 2008\].
 
->         “(2) __Secretary.—__ 
+>         “(2)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Interior.
 
->         “(3) __Tribe.—__ 
+>         “(3)  __Tribe__  __.—__ 
 
 >         The term ‘Tribe’ means the Shivwits Band of Paiute Indians of the State of Utah.
 
 >     “(b) __Parcel To Be Held in Trust.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         At the request of the Tribe, the Secretary shall take into trust for the benefit of the Tribe all right, title, and interest of the United States in and to Parcel A.
 
 >         “(2) __Survey; legal description.—__ 
 
->             “(A) __Survey.—__ 
+>             “(A)  __Survey__  __.—__ 
 
 >             Not later than 180 days after the date of enactment of this Act \[Mar. 30, 2009\], the Secretary, acting through the Director of the Bureau of Land Management, shall complete a survey of Parcel A to establish the boundary of Parcel A.
 
 >             “(B) __Legal description of parcel a.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Upon the completion of the survey under subparagraph (A), the Secretary shall publish in the Federal Register a legal description of—
 
@@ -117,15 +117,15 @@
 
 >                          “(II) Parcel A.
 
->                 “(ii) __Technical corrections.—__ 
+>                 “(ii)  __Technical corrections__  __.—__ 
 
 >                 Before the date of publication of the legal descriptions under clause (i), the Secretary may make minor corrections to correct technical and clerical errors in the legal descriptions.
 
->                 “(iii) __Effect.—__ 
+>                 “(iii)  __Effect__  __.—__ 
 
 >                 Effective beginning on the date of publication of the legal descriptions under clause (i), the legal descriptions shall be considered to be the official legal descriptions of Parcel A.
 
->         “(3) __Effect.—__ 
+>         “(3)  __Effect__  __.—__ 
 
 >         Nothing in this section—
 
@@ -141,7 +141,7 @@
 
 >             “(C) constitutes an express or implied reservation of water or a water right with respect to Parcel A.
 
->         “(4) __Land to be made a part of the reservation.—__ 
+>         “(4)  __Land to be made a part of the reservation__  __.—__ 
 
 >         Land taken into trust pursuant to this section shall be considered to be part of the reservation of the Tribe.”
 
@@ -151,31 +151,31 @@
 
 > “SECTION 1. __LAND CONVEYANCE TO CITY.__ 
 
->     “(a) __Authorization for Conveyance.—__ 
+>     “(a)  __Authorization for Conveyance__  __.—__ 
 
 >     Not later than 90 days after the Secretary receives a request from the Tribe and the City to convey all right, title, and interest of the United States and the Tribe in and to the Property to the City, the Secretary shall take the Property out of trust status and convey the Property to the City.
 
->     “(b) __Terms and Conditions.—__ 
+>     “(b)  __Terms and Conditions__  __.—__ 
 
 >     The conveyance under subsection (a) shall be subject to the following conditions:
 
->         “(1) __Tribal resolution.—__ 
+>         “(1)  __Tribal resolution__  __.—__ 
 
 >         Prior to conveying the Property under subsection (a), the Secretary shall ensure that the terms of the sale have been approved by a tribal resolution of the Tribe.
 
->         “(2) __Consideration.—__ 
+>         “(2)  __Consideration__  __.—__ 
 
 >         Consideration given by the City for the Property shall be not less than the appraised fair market value of the Property.
 
->         “(3) __No federal cost.—__ 
+>         “(3)  __No federal cost__  __.—__ 
 
 >         The City shall pay all costs related to the conveyance authorized under this section.
 
->     “(c) __Proceeds of Sale.—__ 
+>     “(c)  __Proceeds of Sale__  __.—__ 
 
 >     The proceeds from the conveyance of the Property under this section shall be given immediately to the Tribe.
 
->     “(d) __Failure to Make Conveyance.—__ 
+>     “(d)  __Failure to Make Conveyance__  __.—__ 
 
 >     If after the Secretary takes the Property out of trust status pursuant to subsection (a) the City or the Tribe elect not to carry out the conveyance under that subsection, the Secretary shall take the Property back into trust for the benefit of the Tribe.
 
@@ -195,19 +195,19 @@
 
 > “For the purposes of this Act:
 
->     “(1) __City.—__ 
+>     “(1)  __City__  __.—__ 
 
 >     The term ‘City’ means the City of Richfield, Utah.
 
->     “(2) __Property.—__ 
+>     “(2)  __Property__  __.—__ 
 
 >     The term ‘Property’ means the parcel of land held by the United States in trust for the Paiute Indian Tribe of Utah located in Section 2, Township 24 South, Range 3 West, Salt Lake Base and Meridian, Sevier County, Utah and more particularly described as follows: Beginning at a point on the East line of the Highway which is West 0.50 chains, more or less, and South 8° 21° West, 491.6 feet from the Northeast Corner of the Southwest Quarter of Section 2, Township 24 South, Range 3 West, Salt Lake Base and Meridian, and running thence South 81° 39° East, perpendicular to the highway, 528.0 feet; thence South 26° 31° West, 354.6 feet; thence North 63° 29° West, 439.3 feet to said highway; thence North 8° 21° East, along Easterly line of said highway 200.0 feet to the point of beginning, containing 3.0 acres more or less.
 
->     “(3) __Secretary.—__ 
+>     “(3)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior.
 
->     “(4) __Tribe.—__ 
+>     “(4)  __Tribe__  __.—__ 
 
 >     The term ‘Tribe’ means the Paiute Indian Tribe of Utah.”
 

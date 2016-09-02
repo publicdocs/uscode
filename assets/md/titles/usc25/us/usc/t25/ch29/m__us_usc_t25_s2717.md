@@ -51,6 +51,10 @@
 
 ([Pub. L. 100–497, § 18][/us/pl/100/497/s18], Oct. 17, 1988, [102 Stat. 2484][/us/stat/102/2484]; [Pub. L. 105–83, title I, § 123(a)(1)][/us/pl/105/83/s123/a/1]–(2)(B), Nov. 14, 1997, [111 Stat. 1566][/us/stat/111/1566]; [Pub. L. 109–221, title III, § 301(b)][/us/pl/109/221/s301/b], May 12, 2006, [120 Stat. 341][/us/stat/120/341].)
 
+ __References in Text__ 
+
+    This chapter, referred to in subsec. (a)(1), (2), (4), was in the original “this Act”, meaning [Pub. L. 100–497][/us/pl/100/497], Oct. 17, 1988, [102 Stat. 2467][/us/stat/102/2467], known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title][/us/usc/t25/s2701] and Tables.
+
  __Amendments__ 
 
     2006—Subsec. (a)(2)(B). [Pub. L. 109–221][/us/pl/109/221] added subpar. (B) and struck out former subpar. (B) which read as follows: “The total amount of all fees imposed during any fiscal year under the schedule established under paragraph (1) shall not exceed $8,000,000.”
@@ -81,6 +85,9 @@
 [/us/stat/111/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1566
 [/us/pl/109/221/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221%2Fs301%2Fb
 [/us/stat/120/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F341
+[/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
+[/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467
+[/us/usc/t25/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2701
 [/us/pl/109/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F221
 [/us/pl/105/83/s123/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs123%2Fa%2F1
 [/us/pl/105/83/s123/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs123%2Fa%2F2%2FA

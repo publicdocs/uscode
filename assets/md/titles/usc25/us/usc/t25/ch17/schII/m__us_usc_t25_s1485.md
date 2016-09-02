@@ -119,7 +119,7 @@
 
 [Pub. L. 107–331, title I, § 102][/us/pl/107/331/s102], Dec. 13, 2002, [116 Stat. 2835][/us/stat/116/2835], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -139,7 +139,7 @@
 
 >             “(B) to expand the number of lenders originating loans under the Indian Financing Act of 1974 ([25 U.S.C. 1451][/us/usc/t25/s1451] et seq.).
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this Act \[see Short Title of 2002 Amendment note set out under [section 1451 of this title][/us/usc/t25/s1451]\] is to reform and clarify the Indian Financing Act of 1974 ([25 U.S.C. 1451][/us/usc/t25/s1451] et seq.) in order to—
 

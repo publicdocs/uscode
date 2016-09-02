@@ -79,7 +79,7 @@
 
  __References in Text__ 
 
-    This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 101–601][/us/pl/101/601], Nov. 16, 1990, [104 Stat. 3048][/us/stat/104/3048], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+    This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 101–601][/us/pl/101/601], Nov. 16, 1990, [104 Stat. 3048][/us/stat/104/3048], known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
     The Alaska Native Claims Settlement Act of 1971, referred to in par. (5), probably means the Alaska Native Claims Settlement Act. See note below.
 

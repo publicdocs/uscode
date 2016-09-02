@@ -123,47 +123,47 @@
 
 [Pub. L. 111–211, title II, § 234(c)][/us/pl/111/211/s234/c], July 29, 2010, [124 Stat. 2281][/us/stat/124/2281], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 120 days after the date of enactment of this title \[July 29, 2010\], the Director of the Bureau of Prisons shall establish a pilot program under which the Bureau of Prisons shall accept offenders convicted in tribal court pursuant to section 202 of the Indian Civil Rights Act of 1968 ([25 U.S.C. 1302][/us/usc/t25/s1302]) (as amended by this section), subject to the conditions described in paragraph (2).
 
 >     “(2) __Conditions.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         As a condition of participation in the pilot program described in paragraph (1), the tribal court shall submit to the Attorney General a request for confinement of the offender, for approval by the Attorney General (or a designee) by not later than 30 days after the date of submission.
 
->         “(B) __Limitations.—__ 
+>         “(B)  __Limitations__  __.—__ 
 
 >         Requests for confinement shall be limited to offenders convicted of a violent crime (comparable to the violent crimes described in [section 1153(a) of title 18][/us/usc/t18/s1153/a], United States Code) for which the sentence includes a term of imprisonment of 2 or more years.
 
->         “(C) __Custody conditions.—__ 
+>         “(C)  __Custody conditions__  __.—__ 
 
 >         The imprisonment by the Bureau of Prisons shall be subject to the conditions described in [section 5003 of title 18][/us/usc/t18/s5003], United States Code, regarding the custody of State offenders, except that the offender shall be placed in the nearest available and appropriate Federal facility, and imprisoned at the expense of the United States.
 
->         “(D) __Cap.—__ 
+>         “(D)  __Cap__  __.—__ 
 
 >         The Bureau of Prisons shall confine not more than 100 tribal offenders at any time.
 
 >     “(3) __Rescinding requests.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The applicable tribal government shall retain the authority to rescind the request for confinement of a tribal offender by the Bureau of Prisons under this paragraph at any time during the sentence of the offender.
 
->         “(B) __Return to tribal custody.—__ 
+>         “(B)  __Return to tribal custody__  __.—__ 
 
 >         On rescission of a request under subparagraph (A), a tribal offender shall be returned to tribal custody.
 
->     “(4) __Reassessment.—__ 
+>     “(4)  __Reassessment__  __.—__ 
 
 >     If tribal court demand for participation in this pilot program exceeds 100 tribal offenders, a representative of the Bureau of Prisons shall notify Congress.
 
->     “(5) __Report.—__ 
+>     “(5)  __Report__  __.—__ 
 
 >     Not later than 3 years after the date of establishment of the pilot program, the Attorney General shall submit to Congress a report describing the status of the program, including recommendations regarding the future of the program, if any.
 
->     “(6) __Termination.—__ 
+>     “(6)  __Termination__  __.—__ 
 
 >     Except as otherwise provided by an Act of Congress, the pilot program under this paragraph shall expire on the date that is 4 years after the date on which the program is established.”
 

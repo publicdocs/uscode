@@ -35,7 +35,7 @@
 
 [Pub. L. 106–568, title XI, § 1102][/us/pl/106/568/s1102], Dec. 27, 2000, [114 Stat. 2931][/us/stat/114/2931], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -61,7 +61,7 @@
 
 >                 “(ii) other Federal agencies that administer programs covered by the Indian Employment, Training, and Related Services Demonstration Act of 1992.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this title \[see Short Title of 2000 Amendment note above\] are to demonstrate how Indian tribal governments can integrate the employment, training, and related services they provide in order to improve the effectiveness of those services, reduce joblessness in Indian communities, foster economic development on Indian lands, and serve tribally-determined goals consistent with the policies of self-determination and self-governance.”
 

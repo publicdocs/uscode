@@ -67,39 +67,39 @@
 
 > “In this Act:
 
->     “(1) __Band.—__ 
+>     “(1)  __Band__  __.—__ 
 
 >     The term ‘Band’ means the Agua Caliente Band.
 
->     “(2) __Parcel b.—__ 
+>     “(2)  __Parcel b__  __.—__ 
 
 >     The term ‘parcel B’ means the parcel of land in the Mineral Springs area referred to as ‘parcel B’ in section 3(b) of the Act entitled ‘An Act to provide for the equalization of allotments on the Agua Caliente (Palm Springs) Reservation in California, and for other purposes’, approved September 21, 1959, commonly known as the ‘Agua Caliente Equalization Act of 1959’ ([25 U.S.C. 953(b)][/us/usc/t25/s953/b]).
 
->     “(3) __Secretary.—__ 
+>     “(3)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior.
 
 > “SEC. 3. __EQUALIZATION OF ALLOTMENTS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The full equalization of allotments within the meaning of section 7 of the Act entitled ‘An Act to provide for the equalization of allotments on the Agua Caliente (Palm Springs) Reservation in California, and for other purposes’, approved September 21, 1959, commonly known as the ‘Agua Caliente Equalization Act of 1959’ ([25 U.S.C. 957][/us/usc/t25/s957]) is deemed to have been completed.
 
->     “(b) __Expiration of Entitlement.—__ 
+>     “(b)  __Expiration of Entitlement__  __.—__ 
 
 >     By reason of the achievement of the full equalization of allotments described in subsection (a), the entitlement of holders of equalized allotments to distribution of net revenues from parcel B under section 3(b) of the Act entitled ‘An Act to provide for the equalization of allotments on the Agua Caliente (Palm Springs) Reservation in California, and for other purposes’, approved September 21, 1959, commonly known as the ‘Agua Caliente Equalization Act of 1959’ ([25 U.S.C. 953(b)][/us/usc/t25/s953/b]) shall be deemed to have expired.
 
 > “SEC. 4. __REMOVAL OF RESTRICTION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     \[Amended [section 953(b) of this title][/us/usc/t25/s953/b].\]
 
->     “(b) __Applicability.—__ 
+>     “(b)  __Applicability__  __.—__ 
 
 >     The amendment made by subsection (a) shall apply as if this section had been enacted on March 31, 1983.
 
->     “(c) __Subsequent Distributions.—__ 
+>     “(c)  __Subsequent Distributions__  __.—__ 
 
 >     Any per capita distribution of tribal revenues of the Band made after the date of enactment of this Act \[Oct. 30, 1998\] shall be made to all members of the Band in equal amounts.”
 

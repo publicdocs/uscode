@@ -23,6 +23,10 @@
 
 ([Pub. L. 93–638, title I, § 111][/us/pl/93/638/s111], formerly § 110, Jan. 4, 1975, [88 Stat. 2213][/us/stat/88/2213]; renumbered § 111, [Pub. L. 100–472, title II, § 206(b)][/us/pl/100/472/s206/b], Oct. 5, 1988, [102 Stat. 2295][/us/stat/102/2295].)
 
+ __References in Text__ 
+
+    This subchapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 93–638][/us/pl/93/638], Jan. 4, 1975, [88 Stat. 2203][/us/stat/88/2203], known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title][/us/usc/t25/s450] and Tables.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t25/ch14/schII/ptA/m__us_usc_t25_s450m–1.md) | [Next](./../../../../../..//us/usc/t25/ch14/schII/ptB/m__us_usc_t25_ch14_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450n)
@@ -34,5 +38,8 @@
 [/us/stat/88/2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2213
 [/us/pl/100/472/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs206%2Fb
 [/us/stat/102/2295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2295
+[/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
+[/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
+[/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 
 

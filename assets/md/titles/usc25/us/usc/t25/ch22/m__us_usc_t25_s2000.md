@@ -81,11 +81,11 @@
 
 >     “(a) __Authorization.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of the Interior, acting through the Bureau of Indian Affairs, is authorized to establish demonstration schools, based on the therapeutic model described in this section, to provide services necessary to achieve positive changes in the attitudes, behavior, and academic performance of Indian youth attending off-reservation boarding schools.
 
->         “(2) __Purpose.—__ 
+>         “(2)  __Purpose__  __.—__ 
 
 >         The purpose of the therapeutic model demonstration schools is—
 
@@ -95,7 +95,7 @@
 
 >             “(C) to determine what steps the Bureau of Indian Affairs must take and what resources are required to transform existing off-reservation boarding schools to meet the needs of chemically dependent, emotionally disturbed, socially troubled, or other at-risk Indian youth who attend such schools.
 
->     “(b) __Location.—__ 
+>     “(b)  __Location__  __.—__ 
 
 >     The Secretary shall initiate the therapeutic model at two schools during school years 1994 through 1996, and shall give priority to—
 
@@ -103,7 +103,7 @@
 
 >         “(2) one school operated by the Bureau of Indian Affairs during the 1995–1996 school year.
 
->     “(c) __Services.—__ 
+>     “(c)  __Services__  __.—__ 
 
 >     The demonstration schools shall provide an integrated residential environment that may include—
 
@@ -119,7 +119,7 @@
 
 >         “(6) other support services for aftercare.
 
->     “(d) __Staffing.—__ 
+>     “(d)  __Staffing__  __.—__ 
 
 >     The demonstration schools shall be staffed with health and social service professionals, and educators, and may include—
 
@@ -133,15 +133,15 @@
 
 >         “(5) health educators.
 
->     “(e) __Enrollment.—__ 
+>     “(e)  __Enrollment__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Secretary of the Interior may limit the enrollment at the demonstration schools.
 
->     “(f) __Assistance.—__ 
+>     “(f)  __Assistance__  __.—__ 
 
 >     The Secretary is authorized to enter into agreements with other organizations and agencies, including the Indian Health Service, to carry out this section.
 
->     “(g) __Report.—__ 
+>     “(g)  __Report__  __.—__ 
 
 >     Not later than July 31 of each year, the Secretary of the Interior shall submit a report to the Committee on Indian Affairs of the Senate and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives on the progress of the Department of the Interior in the development of the demonstration schools.”
 
