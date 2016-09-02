@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t50a/act/1940-10-17/ch888/tII/m__us_usc_t50a_act_1940-10-17_ch888_s527.md) | [Next](./../../../../../../..//us/usc/t50a/act/1940-10-17/ch888/tIII/m__us_usc_t50a_act_1940-10-17_ch888_s531.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50a%2Fact%2F1940-10-17%2Fch888%2FtIII)
+[Previous](./../../../../../../..//us/usc/t50a/act/1940-10-17/ch888/tII/m__us_usc_t50a_act_1940-10-17_ch888_s528.md) | [Next](./../../../../../../..//us/usc/t50a/act/1940-10-17/ch888/tIII/m__us_usc_t50a_act_1940-10-17_ch888_s531.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50a%2Fact%2F1940-10-17%2Fch888%2FtIII)
 
 ##### TITLE III—RENT, INSTALLMENT CONTRACTS, MORTGAGES, LIENS, ASSIGNMENT, LEASES, TELEPHONE SERVICE CONTRACTS
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t50a/act/1940-10-17/ch888/tII/m__us_usc_t50a_act_1940-10-17_ch888_s527.md) | [Next](./../../../../../../..//us/usc/t50a/act/1940-10-17/ch888/tIII/m__us_usc_t50a_act_1940-10-17_ch888_s531.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50a%2Fact%2F1940-10-17%2Fch888%2FtIII)
+[Previous](./../../../../../../..//us/usc/t50a/act/1940-10-17/ch888/tII/m__us_usc_t50a_act_1940-10-17_ch888_s528.md) | [Next](./../../../../../../..//us/usc/t50a/act/1940-10-17/ch888/tIII/m__us_usc_t50a_act_1940-10-17_ch888_s531.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50a%2Fact%2F1940-10-17%2Fch888%2FtIII)
 
 ----------
 ----------
