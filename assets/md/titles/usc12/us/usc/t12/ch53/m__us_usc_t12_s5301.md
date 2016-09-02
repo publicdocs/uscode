@@ -201,6 +201,10 @@
 
  __Short Title of 2014 Amendment__ 
 
+[Pub. L. 113–279, § 1][/us/pl/113/279/s1], Dec. 18, 2014, [128 Stat. 3017][/us/stat/128/3017], provided that: 
+
+> “This Act \[amending [section 5371 of this title][/us/usc/t12/s5371]\] may be cited as the ‘Insurance Capital Standards Clarification Act of 2014’.”
+
 [Pub. L. 113–173, § 1][/us/pl/113/173/s1], Sept. 26, 2014, [128 Stat. 1899][/us/stat/128/1899], provided that: 
 
 > “This Act \[amending [section 5514 of this title][/us/usc/t12/s5514]\] may be cited as the ‘Examination and Supervisory Privilege Parity Act of 2014’.”
@@ -300,6 +304,9 @@
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/stat/124/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1390
+[/us/pl/113/279/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F279%2Fs1
+[/us/stat/128/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3017
+[/us/usc/t12/s5371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5371
 [/us/pl/113/173/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F173%2Fs1
 [/us/stat/128/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1899
 [/us/usc/t12/s5514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5514

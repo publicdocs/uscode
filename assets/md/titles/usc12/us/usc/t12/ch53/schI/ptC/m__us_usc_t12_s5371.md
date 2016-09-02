@@ -39,6 +39,30 @@
 
             The term “depository institution holding company” means a bank holding company or a savings and loan holding company (as those terms are defined in [section 1813 of this title][/us/usc/t12/s1813]) that is organized in the United States, including any bank or savings and loan holding company that is owned or controlled by a foreign organization, but does not include the foreign organization.
 
+        (4) __Business of insurance__ 
+
+            The term “business of insurance” has the same meaning as in [section 5481(3) of this title][/us/usc/t12/s5481/3].
+
+        (5) __Person regulated by a State insurance regulator__ 
+
+            The term “person regulated by a State insurance regulator” has the same meaning as in [section 5481(22) of this title][/us/usc/t12/s5481/22].
+
+        (6) __Regulated foreign subsidiary and regulated foreign affiliate__ 
+
+        The terms “regulated foreign subsidiary” and “regulated foreign affiliate” mean a person engaged in the business of insurance in a foreign country that is regulated by a foreign insurance regulatory authority that is a member of the International Association of Insurance Supervisors or other comparable foreign insurance regulatory authority as determined by the Board of Governors following consultation with the State insurance regulators, including the lead State insurance commissioner (or similar State official) of the insurance holding company system as determined by the procedures within the Financial Analysis Handbook adopted by the National Association of Insurance Commissioners, where the person, or its principal United States insurance affiliate, has its principal place of business or is domiciled, but only to the extent that—
+
+            (A) such person acts in its capacity as a regulated insurance entity; and
+
+            (B) the Board of Governors does not determine that the capital requirements in a specific foreign jurisdiction are inadequate.
+
+        (7) __Capacity as a regulated insurance entity__ 
+
+        The term “capacity as a regulated insurance entity”—
+
+            (A) includes any action or activity undertaken by a person regulated by a State insurance regulator or a regulated foreign subsidiary or regulated foreign affiliate of such person, as those actions relate to the provision of insurance, or other activities necessary to engage in the business of insurance; and
+
+            (B) does not include any action or activity, including any financial activity, that is not regulated by a State insurance regulator or a foreign agency or authority and subject to State insurance capital requirements or, in the case of a regulated foreign subsidiary or regulated foreign affiliate, capital requirements imposed by a foreign insurance regulatory authority.
+
     (b) __Minimum capital requirements__ 
 
         (1) __Minimum leverage capital requirements__ 
@@ -115,7 +139,27 @@
 
                 (iii) concentrations in market share for any activity that would substantially disrupt financial markets if the institution is forced to unexpectedly cease the activity.
 
-([Pub. L. 111–203, title I, § 171][/us/pl/111/203/s171], July 21, 2010, [124 Stat. 1435][/us/stat/124/1435]; [Pub. L. 113–250, § 2(a)][/us/pl/113/250/s2/a], Dec. 18, 2014, [128 Stat. 2886][/us/stat/128/2886].)
+    (c) __Clarification__ 
+
+        (1) __In general__ 
+
+            In establishing the minimum leverage capital requirements and minimum risk-based capital requirements on a consolidated basis for a depository institution holding company or a nonbank financial company supervised by the Board of Governors as required under paragraphs (1) and (2) of subsection (b), the appropriate Federal banking agencies shall not be required to include, for any purpose of this section (including in any determination of consolidation), a person regulated by a State insurance regulator or a regulated foreign subsidiary or a regulated foreign affiliate of such person engaged in the business of insurance, to the extent that such person acts in its capacity as a regulated insurance entity.
+
+        (2) __Rule of construction on Board’s authority__ 
+
+            This subsection shall not be construed to prohibit, modify, limit, or otherwise supersede any other provision of Federal law that provides the Board of Governors authority to issue regulations and orders relating to capital requirements for depository institution holding companies or nonbank financial companies supervised by the Board of Governors.
+
+        (3) __Rule of construction on accounting principles__ 
+
+            (A) __In general__ 
+
+                A depository institution holding company or nonbank financial company supervised by the Board of Governors of the Federal Reserve that is also a person regulated by a State insurance regulator that is engaged in the business of insurance that files financial statements with a State insurance regulator or the National Association of Insurance Commissioners utilizing only Statutory Accounting Principles in accordance with State law, shall not be required by the Board under the authority of this section or the authority of the Home Owners’ Loan Act \[[12 U.S.C. 1461][/us/usc/t12/s1461] et seq.\] to prepare such financial statements in accordance with Generally Accepted Accounting Principles.
+
+            (B) __Preservation of authority__ 
+
+                Nothing in subparagraph (A) shall limit the authority of the Board under any other applicable provision of law to conduct any regulatory or supervisory activity of a depository institution holding company or non-bank financial company supervised by the Board of Governors, including the collection or reporting of any information on an entity or group-wide basis. Nothing in this paragraph shall excuse the Board from its obligations to comply with [section 5361(a) of this title][/us/usc/t12/s5361/a] and section 10(b)(2) of the Home Owners’ Loan Act ([12 U.S.C. 1467a(b)(2)][/us/usc/t12/s1467a/b/2]), as appropriate.
+
+([Pub. L. 111–203, title I, § 171][/us/pl/111/203/s171], July 21, 2010, [124 Stat. 1435][/us/stat/124/1435]; [Pub. L. 113–250, § 2(a)][/us/pl/113/250/s2/a], Dec. 18, 2014, [128 Stat. 2886][/us/stat/128/2886]; [Pub. L. 113–279, § 2][/us/pl/113/279/s2], Dec. 18, 2014, [128 Stat. 3017][/us/stat/128/3017].)
 
  __References in Text__ 
 
@@ -123,9 +167,15 @@
 
     Section 1 of an Act entitled “To enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes”, referred to in subsec. (b)(5)(C), is [section 1 of Pub. L. 113–250][/us/pl/113/250/s1], which is set out as a note below.
 
+    The Home Owners’ Loan Act, referred to in subsec. (c)(3)(A), is [act June 13, 1933, ch. 64][/us/act/1933-06-13/ch64], [48 Stat. 128][/us/stat/48/128], which is classified generally to chapter 12 (§ 1461 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+
  __Amendments__ 
 
-    2014—Subsec. (b)(5)(C). [Pub. L. 113–250][/us/pl/113/250] amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “any small bank holding company that is subject to the Small Bank Holding Company Policy Statement of the Board of Governors, as in effect on May 19, 2010.”
+    2014—Subsec. (a)(4) to (7). [Pub. L. 113–279, § 2(1)][/us/pl/113/279/s2/1], added pars. (4) to (7).
+
+    Subsec. (b)(5)(C). [Pub. L. 113–250][/us/pl/113/250] amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “any small bank holding company that is subject to the Small Bank Holding Company Policy Statement of the Board of Governors, as in effect on May 19, 2010.”
+
+    Subsec. (c). [Pub. L. 113–279, § 2(2)][/us/pl/113/279/s2/2], added subsec. (c).
 
  __Changes Required to Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors__ 
 
@@ -177,19 +227,30 @@
 ----------
 
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
+[/us/usc/t12/s5481/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5481%2F3
+[/us/usc/t12/s5481/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5481%2F22
 [/us/usc/t12/s24a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24a
 [/us/usc/t12/s1831w/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831w%2Fa%2F2
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
 [/us/usc/t12/s5330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5330
+[/us/usc/t12/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1461
+[/us/usc/t12/s5361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5361%2Fa
+[/us/usc/t12/s1467a/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1467a%2Fb%2F2
 [/us/pl/111/203/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs171
 [/us/stat/124/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1435
 [/us/pl/113/250/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F250%2Fs2%2Fa
 [/us/stat/128/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2886
+[/us/pl/113/279/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F279%2Fs2
+[/us/stat/128/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3017
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
 [/us/pl/113/250/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F250%2Fs1
+[/us/act/1933-06-13/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64
+[/us/stat/48/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F128
+[/us/pl/113/279/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F279%2Fs2%2F1
 [/us/pl/113/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F250
+[/us/pl/113/279/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F279%2Fs2%2F2
 [/us/pl/113/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F250
 [/us/stat/128/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2886
 [/us/usc/t12/s5371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5371
